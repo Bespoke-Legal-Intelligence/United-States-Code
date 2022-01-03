@@ -1,6 +1,6 @@
 ### §286<i>l</i>. British loan; authorization to Secretary of the Treasury to carry out agreement
 
-The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945, between the United States andthe United Kingdom which was transmitted by the President to the Congress on January 30, 1946, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved.
+The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945, between the United States and the United Kingdom which was transmitted by the President to the Congress on January 30, 1946, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved.
 
 (July 15, 1946, ch. 577, §1, 60 Stat. 535; Pub. L. 85–21, Apr. 20, 1957, 71 Stat. 17.)
 
@@ -54,7 +54,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 5\. Deferment of annual installments.
 
-(i) In any calendar year after December 31, 1956, in which the Government of the United Kingdom advises the Government of the United States that it finds that a deferment is necessary in view of the present and prospective conditions of international exchange and the level of its gold and foreign exchange reserves, the Government of the United Kingdom may defer the payment of the annual installment for that year of principal repayment and interest specified under Section 4. Not more than seven (7) annual installments may be so deferred. The first of any such deferred installments shall be paid on December 31, 2001, and the others shall be paid annually thereafter, in order.
+(i) In any calendar year after December 31, 1956, in which the Government of the United Kingdom advises the Government of the United States that it finds that a deferment is necessary in view of the present and prospective conditions of international exchange and thelevel of its gold and foreign exchange reserves, the Government of the United Kingdom may defer the payment of the annual installment for that year of principal repayment and interest specified under Section 4. Not more than seven (7) annual installments may be so deferred. The first of any such deferred installments shall be paid on December 31, 2001, and the others shall be paid annually thereafter, in order.
 
 (ii) In addition, the installment of interest in respect of the year 1956 is hereby deferred, in lieu of any right of waiver hitherto existing. This installment shall be paid on December 31 of the year following that in which the last of all other installments, including installments deferred under the preceding paragraph, is due.
 
@@ -64,7 +64,7 @@ Forty-nine annual installments of principal repayments and interest shall be equ
 
 6\. Relation of this line of credit to other obligations. The Government of the United Kingdom undertakes not to defer an installment under Section 5 of this Agreement in any year, unless it also defers the installment due in that year under the Financial Agreement between the Government of Canada and the Government of the United Kingdom, dated March 6, 1946. \[Amended Mar. 6, 1957, eff. Apr. 25, 1957.\]
 
-7\. Sterling area exchange arrangements: The Government of the United Kingdom will complete arrangements as early as practicable and in any case not later than one year after the effective date of this Agreement, unless in exceptional cases a later date is agreed upon after consultation, under which immediately after the completion of such arrangements the sterling receipts from current transactions of all sterling area countries (apart from any receipts arising out of military expenditure by the Government of the UnitedKingdom prior to December 31, 1948, to the extent to which they are treated by agreement with the countries concerned on the same basis as the balances accumulated during the war) will be freely available for current transactions in any currency area without discrimination; with the result that any discrimination arising from the so-called sterling area dollar pool will be entirely removed and that each member of the sterling area will have its current sterling and dollar receipts at its free disposition for current transactions anywhere.
+7\. Sterling area exchange arrangements: The Government of the United Kingdom will complete arrangements as early as practicable and in any case not later than one year after the effective date of this Agreement, unless in exceptional cases a later date is agreed upon after consultation, under which immediately after the completion of such arrangements the sterling receipts from current transactions of all sterling area countries (apart from any receipts arising out of military expenditure by the Government of the United Kingdom prior to December 31, 1948, to the extent to which they are treated by agreement with the countries concerned on the same basis as the balances accumulated during the war) will be freely available for current transactions in any currency area without discrimination; with the result that any discrimination arising from the so-called sterling area dollar pool will be entirely removed and that each member of the sterling area will have its current sterling and dollar receipts at its free disposition for current transactions anywhere.
 
 8\. Other exchange arrangements:
 
@@ -100,7 +100,7 @@ For the purposes of this Agreement:
 
 (b) any other part of His Majesty's dominions,
 
-(c) any territory in respect of which a mandate on behalf of the League of Nations has been accepted by His Majesty and is being exercised by His Majesty's Government in the United Kingdom or in any Dominion,
+(c) any territory in respect of which a mandate on behalf of the League of Nations has been accepted by HisMajesty and is being exercised by His Majesty's Government in the United Kingdom or in any Dominion,
 
 (d) any British protectorate or protected State,
 

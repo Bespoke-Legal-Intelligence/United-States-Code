@@ -56,7 +56,7 @@ To be eligible to receive a grant under this section, a tribally controlled post
 
 #### (2) Prohibition on alteration of grant amount
 
-&emsp;The amount of any grant for which tribally controlled postsecondary career and technical institutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25.
+&emsp;The amount of any grant for which tribally controlled postsecondary career and technicalinstitutions are eligible under this section shall not be altered because of funds allocated to any such institution from funds appropriated under section 13 of title 25.
 
 #### (3) Prohibition on contract denial
 
@@ -138,9 +138,11 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 88–210, title I, §117, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 710; amended Pub. L. 110–315, title IX, §941(j)(2), (k)(2)(D)(ii), Aug. 14, 2008, 122 Stat. 3465, 3466; Pub. L. 115–224, title I, §116, July 31, 2018, 132 Stat. 1599.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title I of the Act is classified generally to subchapter I (§1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
+The Tribally Controlled Colleges and Universities Assistance Act of 1978, referred to in subsecs. (a)(1) and (d), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325. Title Iof the Act is classified generally to subchapter I (§1802 et seq.) of chapter 20 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
 The Navajo Community College Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, which was classified to section 640a et seq. of Title 25, Indians, and was omitted from the Code as being of special and not general application.
 
@@ -173,6 +175,8 @@ Subsec. (i). Pub. L. 115–224, §116(5), added subsec. (i) and struck out forme
 Subsec. (d). Pub. L. 110–315, §941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require."
 
 Subsec. (h)(1). Pub. L. 110–315, §941(k)(2)(D)(ii), substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

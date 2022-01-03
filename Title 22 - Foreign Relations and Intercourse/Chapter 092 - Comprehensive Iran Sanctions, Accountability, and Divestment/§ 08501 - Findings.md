@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(2) The United States and other responsible countries have a vital interest in working together to prevent the Government of Iran from acquiring a nuclear weapons capability.
 
-&emsp;(3) The International Atomic Energy Agency has repeatedly called attention to Iran's illicitnuclear activities and, as a result, the United Nations Security Council has adopted a range of sanctions designed to encourage the Government of Iran to suspend those activities and comply with its obligations under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the "Nuclear Non-Proliferation Treaty").
+&emsp;(3) The International Atomic Energy Agency has repeatedly called attention to Iran's illicit nuclear activities and, as a result, the United Nations Security Council has adopted a range of sanctions designed to encourage the Government of Iran to suspend those activities and comply with its obligations under the Treaty on the Non-Proliferation of Nuclear Weapons, done at Washington, London, and Moscow July 1, 1968, and entered into force March 5, 1970 (commonly known as the "Nuclear Non-Proliferation Treaty").
 
 &emsp;(4) The serious and urgent nature of the threat from Iran demands that the United States work together with its allies to do everything possible—diplomatically, politically, and economically—to prevent Iran from acquiring a nuclear weapons capability.
 
@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;(D) A February 18, 2010, report by the International Atomic Energy Agency expressing "concerns about the possible existence in Iran of past or current undisclosed activities related to the development of a nuclear payload for a missile. These alleged activities consist of a number of projects and sub-projects, covering nuclear and missile related aspects, run by military-related organizations.".
 
-&emsp;&emsp;(E) A May 31, 2010, report by the International Atomic Energy Agency expressing continuing strong concerns about Iran's lack of cooperation with the Agency's verification efforts and Iran's ongoing enrichment activities, which are contrary to the longstanding demands of the Agency and the United Nations Security Council.
+&emsp;&emsp;(E) A May 31, 2010, report by the International Atomic Energy Agency expressingcontinuing strong concerns about Iran's lack of cooperation with the Agency's verification efforts and Iran's ongoing enrichment activities, which are contrary to the longstanding demands of the Agency and the United Nations Security Council.
 
 &emsp;&emsp;(F) Iran's announcement in April 2010 that it had developed a new, faster generation of centrifuges for enriching uranium.
 

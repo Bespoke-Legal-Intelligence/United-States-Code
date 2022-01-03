@@ -2,7 +2,7 @@
 
 The Congress finds and declares the following:
 
-&emsp;(1) All 50 States, and the Commonwealth of Puerto Rico, are vulnerable to the hazards ofearthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada, New Jersey, New York, Oregon, South Carolina Tennessee,,<sup>1</sup> Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
+&emsp;(1) All 50 States, and the Commonwealth of Puerto Rico, are vulnerable to the hazards of earthquakes, and at least 39 of them are subject to major or moderate seismic risk, including Alaska, California, Hawaii, Illinois, Massachusetts, Missouri, Montana, Nevada, New Jersey, New York, Oregon, South Carolina Tennessee,,<sup>1</sup> Utah, and Washington. A large portion of the population of the United States lives in areas vulnerable to earthquake hazards.
 
 &emsp;(2) Earthquakes have caused, and can cause in the future, enormous loss of life, injury, destruction of property, and economic and social disruption. With respect to future earthquakes, such loss, destruction, and disruption can be substantially reduced through the development and implementation of earthquake hazards reduction measures, including (A) improved design and construction methods and practices, (B) land-use controls and redevelopment, (C) early-warning systems, (D) coordinated emergency preparedness plans, and (E) public education and involvement programs.
 
@@ -12,7 +12,7 @@ The Congress finds and declares the following:
 
 &emsp;(5) The geological study of active faults and features can reveal how recently and how frequently major earthquakes have occurred on those faults and how much risk they pose. Such long-term seismic risk assessments are needed in virtually every aspect of earthquake hazards management, whether emergency planning, public regulation, detailed building design, insurance rating, or investment decision.
 
-&emsp;(6) The vulnerability of buildings, lifeline infrastructure, public works, and industrial and emergency facilities can be reduced through proper earthquake resistant design and construction practices. The economy and efficacy of such procedures can be substantially increased through research and development.
+&emsp;(6) The vulnerability of buildings, lifeline infrastructure, public works, and industrial and emergency facilities can be reduced through proper earthquake resistant design and construction practices. The economy and efficacyof such procedures can be substantially increased through research and development.
 
 &emsp;(7) Programs and practices of departments and agencies of the United States are important to the communities they serve; some functions, such as emergency communications and national defense, and lifeline infrastructure, such as dams, bridges, and public works, must remain in service during and after an earthquake. Federally owned, operated, and influenced structures and lifeline infrastructure should serve as models for how to reduce and minimize hazards to the community.
 
@@ -29,6 +29,8 @@ The Congress finds and declares the following:
 &emsp;(13) The National Research Council published a study on reducing hazards and risks associated with earthquakes based on the goals and objectives for achieving national earthquake resilience described in the strategic plan entitled "Strategic Plan for the National Earthquake Hazards Reduction Program". The study and an accompanying report called for work in 18 tasks focused on research, preparedness, and mitigation and annual funding of approximately $300,000,000 per year for 20 years.
 
 (Pub. L. 95–124, §2, Oct. 7, 1977, 91 Stat. 1098; Pub. L. 101–614, §2, Nov. 16, 1990, 104 Stat. 3231; Pub. L. 115–307, §2(a), Dec. 11, 2018, 132 Stat. 4408.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -47,6 +49,8 @@ Pars. (12), (13). Pub. L. 115–307, §2(a)(5), added pars. (12) and (13).
 "(5) An operational earthquake prediction system can produce significant social, economic, legal, and political consequences.
 
 "(6) There is a scientific basis for hypothesizing that major earthquakes may be moderated, in at least some seismic areas, by application of the findings of earthquake control and seismological research."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -70,7 +74,9 @@ Pub. L. 95–124, §1, Oct. 7, 1977, 91 Stat. 1098, provided: "That this Act \[e
 
 #### Report on At-Risk Populations
 
-Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal Emergency Management Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+Pub. L. 106–503, title II, §207, Nov. 13, 2000, 114 Stat. 2307, required the Director of the Federal EmergencyManagement Agency to transmit to Congress a report no later than 1 year after Nov. 13, 2000, describing the elements of the National Earthquake Hazards Reduction Program that specifically addressed the needs of at-risk populations.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -60,9 +60,13 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 (Added Pub. L. 108–357, title VIII, §842(a), Oct. 22, 2004, 118 Stat. 1598; amended Pub. L. 116–25, title I, §1001(b)(1)(D), July 1, 2019, 133 Stat. 985.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(3)(B). Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

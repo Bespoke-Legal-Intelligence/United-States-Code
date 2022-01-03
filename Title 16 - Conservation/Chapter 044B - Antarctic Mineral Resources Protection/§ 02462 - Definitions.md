@@ -12,7 +12,7 @@ For the purposes of this chapter:
 
 &emsp;(5) The term "mineral resources" means all nonliving natural nonrenewable resources, including fossil fuels, minerals, whether metallic or nonmetallic, but does not include ice, water, or snow.
 
-&emsp;(6) The term "person" means any individual, corporation, partnership, trust, association, orany other entity existing or organized under the laws of the United States, or any officer, employee, agent, department, or other instrumentality of the Federal Government or of any State or political subdivision thereof.
+&emsp;(6) The term "person" means any individual, corporation, partnership, trust, association, or any other entity existing or organized under the laws of the United States, or any officer, employee, agent, department, or other instrumentality of the Federal Government or of any State or political subdivision thereof.
 
 &emsp;(7) The term "prospecting" means any activity, including logistic support, the purpose of which is the identification of mineral resource potential for possible exploration and development.
 

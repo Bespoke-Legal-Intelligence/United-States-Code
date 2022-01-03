@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 R.S. §369.
 
-The words "General Accounting Office" are substituted for "First Auditor or First Comptroller of theTreasury" on authority of the Act of June 10, 1921, ch. 18, §304, 42 Stat. 24.
+The words "General Accounting Office" are substituted for "First Auditor or First Comptroller of the Treasury" on authority of the Act of June 10, 1921, ch. 18, §304, 42 Stat. 24.
 
 #### <b>Editorial Notes</b>
 

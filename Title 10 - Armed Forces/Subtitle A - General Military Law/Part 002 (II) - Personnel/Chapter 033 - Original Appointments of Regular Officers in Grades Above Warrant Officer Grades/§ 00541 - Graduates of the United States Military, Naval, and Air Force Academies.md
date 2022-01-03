@@ -60,9 +60,13 @@ In subsection (b), the words "is entitled" are substituted for the word "shall".
 
 In subsection (c), the words "and fair" are omitted as surplusage. 10:1092c–1(c), 10:1856(c), and 34:1057–1(c) are omitted as covered by section 51(a) of the bill.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

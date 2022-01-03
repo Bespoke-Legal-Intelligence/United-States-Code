@@ -48,11 +48,15 @@ July 15, 1954, ch. 507, §10 (as applicable to armed forces), 68 Stat. 480.
 
 The words "national cemeteries, other installation cemeteries, or" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(4)(A). Pub. L. 115–232 substituted "section 7721(b)" for "section 4721(b)".
 
 <b>2014</b>—Pub. L. 113–291 designated first sentence of existing provisions as subsec. (a) and inserted heading, designated second sentence of existing provisions as subsec. (b), inserted heading, and substituted "the jurisdiction of the Secretary concerned" for "his jurisdiction", and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

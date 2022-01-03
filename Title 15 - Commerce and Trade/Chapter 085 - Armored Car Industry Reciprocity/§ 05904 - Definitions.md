@@ -8,11 +8,13 @@ As used in this chapter:
 
 &emsp;&emsp;(A) subject to regulation under subchapter I of chapter 135 of title 49; and
 
-&emsp;&emsp;(B) is <sup>1</sup> registered under chapter 139 of such title, in order to engage in the business of transporting and protecting currency, bullion, securities, precious metals, supplemental nutrition assistance program benefits, and other articles of unusual value in interstate commerce.
+&emsp;&emsp;(B) is <sup>1</sup> registered under chapter 139 of such title, in order to engage in the business oftransporting and protecting currency, bullion, securities, precious metals, supplemental nutrition assistance program benefits, and other articles of unusual value in interstate commerce.
 
 &emsp;(3) The term "State" means any State of the United States or the District of Columbia.
 
 (Pub. L. 103–55, §5, July 28, 1993, 107 Stat. 277; Pub. L. 104–88, title III, §336, Dec. 29, 1995, 109 Stat. 954; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(L), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -23,6 +25,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2008</b>—Par. (2)(B). Pub. L. 110–246, §4002(b)(1)(E), (2)(L), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 
 <b>1995</b>—Par. (2). Pub. L. 104–88 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105" in subpar. (A) and "is registered under chapter 139" for "holding the appropriate certificate, permit, or license issued under subchapter II of chapter 109" in subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

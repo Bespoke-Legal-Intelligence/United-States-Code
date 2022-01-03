@@ -2,7 +2,7 @@
 
 #### (a) Certificate recording proficiency and merit; physical examination
 
-Any person inducted into the armed forces under this chapter for training and service, who, in the judgment of those in authority over him, satisfactorily completes his period of training and service under section 3803(b) of this title shall be entitled to a certificate to that effect upon the completion of such period of training and service, which shall include a record of any special proficiency or merit attained. In addition, each such person who is inducted into the armed forces under this chapter for training and service shall be given a physical examination at the beginning of such training and service, and upon the completion of his period of training and service under this chapter, each such person shall be given another physical examination and, upon his written request, shall be given a statement of physical condition by the Secretary concerned: <i>Provided</i>, That such statement shall not contain any reference to mental orother conditions which in the judgment of the Secretary concerned would prove injurious to the physical or mental health of the person to whom it pertains: <i>Provided further</i>, That, if upon completion of training and service under this chapter, such person continues on active duty without an interruption of more than seventy-two hours as a member of the Armed Forces of the United States, a physical examination upon completion of such training and service shall not be required unless it is requested by such person, or the medical authorities of the Armed Force concerned determine that the physical examination is warranted.
+Any person inducted into the armed forces under this chapter for training and service, who, in the judgment of those in authority over him, satisfactorily completes his period of training and service under section 3803(b) of this title shall be entitled to a certificate to that effect upon the completion of such period of training and service, which shall include a record of any special proficiency or merit attained. In addition, each such person who is inducted into the armed forces under this chapter for training and service shall be given a physical examination at the beginning of such training and service, and upon the completion of his period of training and service under this chapter, each such person shall be given another physical examination and, upon his written request, shall be given a statement of physical condition by the Secretary concerned: <i>Provided</i>, That such statement shall not contain any reference to mental or other conditions which in the judgment of the Secretary concerned would prove injurious to the physical or mental health of the person to whom it pertains: <i>Provided further</i>, That, if upon completion of training and service under this chapter, such person continues on active duty without an interruption of more than seventy-two hours as a member of the Armed Forces of the United States, a physical examination upon completion of such training and service shall not be required unless it is requested by such person, or the medical authorities of the Armed Force concerned determine that the physical examination is warranted.
 
 #### (b) Right to vote; manner; poll tax
 
@@ -13,6 +13,8 @@ Any person inducted into the armed forces for training and service under this ch
 The Secretary of a military department, and the Secretary of Homeland Security with respect to the Coast Guard, shall furnish to the Selective Service System hereafter established a report of separation for each person separated from active duty.
 
 (June 24, 1948, ch. 625, title I, §9, 62 Stat. 614; Sept. 27, 1950, ch. 1059, §1(7)–(10), 64 Stat. 1074; June 19, 1951, ch. 144, title I, §1(s), 65 Stat. 86; July 12, 1955, ch. 327, 69 Stat. 295; July 9, 1956, ch. 523, §1, 70 Stat. 509; Pub. L. 86–632, §1, July 12, 1960, 74 Stat. 467; Pub. L. 87–391, Oct. 4, 1961, 75 Stat. 821; Pub. L. 90–491, §1, Aug. 17, 1968, 82 Stat. 790; Pub. L. 92–129, title I, §101(a)(23), Sept. 28, 1971, 85 Stat. 351; Pub. L. 93–508, title IV, §405, Dec. 3, 1974, 88 Stat. 1600; Pub. L. 107–296, title XVII, §1704(e)(11)(D), Nov. 25, 2002, 116 Stat. 2315.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Subsec. (g)(2). Act Sept. 27, 1950, §1(8), struck out ", the Coast Guard" afte
 Subsec. (h). Act Sept. 27, 1950, §1(9), struck out ", the Coast Guard" after "United States".
 
 Subsec. (j). Act Sept. 27, 1950, §1(10), struck out "or" after "Navy" and inserted ", or Treasury" after "Air Force".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

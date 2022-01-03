@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) after June 30, 1985, serves at least three years of continuous active duty in the Armed Forces; or
 
-&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10), for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; or
+&emsp;&emsp;&emsp;(ii) after June 30, 1985, is discharged or released from active duty (I) for a service-connected disability, by reason of a sole survivorship discharge (as that term is defined in section 1174(i) of title 10), for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, for hardship, or for a physical or mental condition that was not characterized as a disability, as described in subparagraph (A)(ii)(I) of this paragraph; (II) for the convenience of the Government, if the individual completed not less than 30 months of continuous active duty after that date; or (III) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy; or
 
 &emsp;&emsp;(C) as of December 31, 1989, was eligible for educational assistance benefits under chapter 34 of this title and—
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) is discharged from active duty with an honorable discharge;
 
-&emsp;&emsp;(C) is released after service on active duty characterized by the Secretary concerned as honorable service and is placed on the retired list, is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
+&emsp;&emsp;(C) is released after service on active duty characterized by the Secretary concerned as honorable service and is placed on the retired list, is transferred to the Fleet Reserveor Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
 
 &emsp;&emsp;(D) is released from active duty for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service;
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) a defective enlistment agreement.
 
-(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
+(3) The period of service referred to in paragraph (1) is also any period of service on active duty which an individual in the Selected Reserve was ordered to perform under section 12301, 12302, 12304, 12306, or 12307 of title 10 for a period of less than 2 years.
 
 (e)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (c)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (b).
 
@@ -90,7 +90,7 @@
 
 (g) Notwithstanding section 3002(6)(A) of this title, a period during which an individual is assigned full time by the Armed Forces to a civilian institution for a course of education as described in such section 3002(6)(A) shall not be considered a break in service or a break in a continuous period of active duty of the individual for the purposes of this chapter.
 
-(h)(1) Notwithstanding section 3002(6)(B) of this title, a member referred to in paragraph (2) of this subsection who serves the periods of active duty referred to in subparagraphs (A) and (C) of that paragraph shall be deemed to have served a continuous period of active duty whose length is the aggregate length of the periods of active duty referred to in such subparagraphs.
+(h)(1) Notwithstanding section 3002(6)(B) of this title, a member referred to in paragraph (2) of this subsection who serves the periods of active duty referred to in subparagraphs (A) and (C) of that paragraph shall be deemed to have served a continuous period of active duty whoselength is the aggregate length of the periods of active duty referred to in such subparagraphs.
 
 (2) This subsection applies to a member who—
 
@@ -114,7 +114,7 @@
 
 <i>(1) in subsection (b)(1), by striking "that such individual is entitled to such pay" and inserting "that begin after the date that is 270 days after the date on which the individual initially enters initial training"; and</i>
 
-<i>(2) in subsection (c)(1), by striking "Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces" and inserting "Any such</i><i>election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training".</i>
+<i>(2) in subsection (c)(1), by striking "Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces" and inserting "Any such election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training".</i>
 
 <i>See 2021 Amendment notes below.</i>
 
@@ -322,7 +322,7 @@ Pub. L. 102–568, title III, §306(b), Oct. 29, 1992, 106 Stat. 4328, provided 
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–510, div. A, title V, §562(c), Nov. 5, 1990, 104 Stat. 1575, provided that: "The amendments made by this section \[amending this section and sections 1412 and 3103A \[now 3012 and 5303A\] of this title\] shall take effect as of October 19, 1984."
+Pub. L. 101–510, div. A, title V, §562(c), Nov. 5, 1990, 104 Stat. 1575, provided that: "The amendments made bythis section \[amending this section and sections 1412 and 3103A \[now 3012 and 5303A\] of this title\] shall take effect as of October 19, 1984."
 
 #### Effective Date of 1988 Amendment
 

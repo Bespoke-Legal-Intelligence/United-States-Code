@@ -122,7 +122,7 @@ A local educational agency is eligible for a basic grant under this section for 
 
 #### (2) Determination of number of children
 
-&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below the poverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The totalof grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share of the population counts used to calculate the local educational agency's grant.
+&emsp;For the purposes of this section, the Secretary shall determine the number of children aged 5 to 17, inclusive, from families below the poverty level on the basis of the most recent satisfactory data, described in paragraph (3), available from the Department of Commerce. The District of Columbia and the Commonwealth of Puerto Rico shall be treated as individual local educational agencies. If a local educational agency contains two or more counties in their entirety, then each county will be treated as if such county were a separate local educational agency for purposes of calculating grants under this part. The total of grants for such counties shall be allocated to such a local educational agency, which local educational agency shall distribute to schools in each county within such agency a share of the local educational agency's total grant that is no less than the county's share ofthe population counts used to calculate the local educational agency's grant.
 
 #### (3) Population updates
 
@@ -165,6 +165,8 @@ Notwithstanding section 6332 of this title, the aggregate amount allotted for al
 &emsp;&emsp;(B) the number of children in such State counted under subsection (c) in the fiscal year multiplied by 150 percent of the national average per-pupil payment made with funds available under this section for that year.
 
 (Pub. L. 89–10, title I, §1124, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1516.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

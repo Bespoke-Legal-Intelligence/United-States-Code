@@ -12,7 +12,7 @@ The Secretary shall direct each guaranty agency with which the Secretary has an 
 
 #### (2) Activities
 
-&emsp;Each guaranty agency shall undertake such activities as are necessary to promote accessto postsecondary education for students through providing information on college planning, career preparation, and paying for college. The guaranty agency shall publicize such information and coordinate such activities with other entities that either provide or distribute such information in the States for which such guaranty agency serves as the designated guarantor.
+&emsp;Each guaranty agency shall undertake such activities as are necessary to promote access to postsecondary education for students through providing information on college planning, career preparation, and paying for college. The guaranty agency shall publicize such information and coordinate such activities with other entities that either provide or distribute such information in the States for which such guaranty agency serves as the designated guarantor.
 
 #### (3) Funding
 
@@ -37,6 +37,8 @@ The Secretary shall direct each guaranty agency with which the Secretary has an 
 &emsp;Not later than 270 days after February 8, 2006, the Secretary and guaranty agencies shall publicize the availability of the information required by this section, with special emphasis on ensuring that populations that are traditionally underrepresented in postsecondary education are made aware of the availability of such information.
 
 (Pub. L. 89–329, title IV, §485D, as added Pub. L. 109–171, title VIII, §8023, Feb. 8, 2006, 120 Stat. 179.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -28,6 +28,8 @@ The purposes of this chapter are to—
 
 (Pub. L. 96–102, title II, §201, Nov. 5, 1979, 93 Stat. 757.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 96–102, title III, §302, Nov. 5, 1979, 93 Stat. 770, provided that: "The amendments made by this Act \[enacting this chapter, amending sections 6262, 6263, and 6422 of this title, and enacting provisions set out as notes under this section and section 6261 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1979\]."
@@ -46,5 +48,5 @@ Pub. L. 96–102, title I, §101, Nov. 5, 1979, 93 Stat. 750, provided that: "Th
 
 #### Funding for Fiscal Years 1979 and 1980
 
-Pub. L. 96–102, title III, §301, Nov. 5, 1979, 93 Stat. 769, provided that: "For purposes of any law relating to appropriations or authorizations for appropriations as such law relates to the fiscal year ending September 30, 1979, or the fiscal year ending September 30, 1980, the provisions of this Act (including amendments made by this Act) \[see Short Title note above\] shall be treated as if it were a contingency plan under section 202 or 203of the Energy Policy and Conservation Act \[former sections 6262 and 6263 of this title\] which was approved in accordance with the procedures under that Act \[see Short Title note set out under section 6201 of this title\] or as otherwise provided by law, and funds made available pursuant to such appropriations shall be available to carry out the provisions of this Act and the amendments made by this Act."
+Pub. L. 96–102, title III, §301, Nov. 5, 1979, 93 Stat. 769, provided that: "For purposes of any law relating to appropriations or authorizations for appropriations as such law relates to the fiscal year ending September 30, 1979, or the fiscal year ending September 30, 1980, the provisions of this Act (including amendments made by this Act) \[see Short Title note above\] shall be treated as if it were a contingency plan under section 202 or 203 of the Energy Policy and Conservation Act \[former sections 6262 and 6263 of this title\] which was approved in accordance with the procedures under that Act \[see Short Title note set out under section 6201 of this title\] or as otherwise provided by law, and funds made available pursuant to such appropriations shall be available to carry out the provisions of this Act and the amendments made by this Act."
 

@@ -94,7 +94,7 @@ The Secretary may waive the application of subsection (a) in the case of any eli
 
 #### (2) Funds to consortium
 
-&emsp;Funds allocated to a consortium formed to meet the requirements of this subsection shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and can be used only for programs authorized under this subchapter. Such funds may not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
+&emsp;Funds allocated to a consortium formed to meet the requirements of this subsection shall be used only for purposes and programs that are mutually beneficial to all members of the consortium and can be used only for programs authorized under this subchapter. Such fundsmay not be reallocated to individual members of the consortium for purposes or programs benefitting only 1 member of the consortium.
 
 #### (g) Data
 
@@ -106,13 +106,15 @@ Each eligible agency distributing funds under this section shall treat a seconda
 
 (Pub. L. 88–210, title I, §131, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 727; amended Pub. L. 115–224, title I, §131, July 31, 2018, 132 Stat. 1612.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 2351, Pub. L. 88–210, title I, §131, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary schoolprograms, prior to the general amendment of this chapter by Pub. L. 109–270.
+A prior section 2351, Pub. L. 88–210, title I, §131, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3109, related to distribution of funds to secondary school programs, prior to the general amendment of this chapter by Pub. L. 109–270.
 
 Another prior section 2351, Pub. L. 88–210, title III, §301, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2457, related to applications by community-based organizations, prior to the general amendment of this chapter by Pub. L. 105–332.
 
@@ -125,6 +127,8 @@ Subsec. (c)(2)(A)(ii). Pub. L. 115–224, §131(2), inserted "or programs of stu
 Subsec. (g). Pub. L. 115–224, §131(3), inserted "and programs of study" after "technical education programs".
 
 Subsec. (h). Pub. L. 115–224, §131(4), substituted "Bureau of Indian Education" for "Bureau of Indian Affairs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -78,6 +78,11 @@
 | [6591c.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591c%20-%20Stewardship%20end%20result%20contracting%20projects.md) | Stewardship end result contracting projects. |
 | [6591d.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591d%20-%20Wildfire%20resilience%20projects.md) | Wildfire resilience projects. |
 | [6591e.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006591e%20-%20Categorical%20exclusion%20for%20greater%20sage-grouse%20and%20mule%20deer%20habitat.md) | Categorical exclusion for greater sage-grouse and mule deer habitat. |
+| [6592\.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006592%20-%20Wildfire%20risk%20reduction.md) | Wildfire risk reduction. |
+| [6592a.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006592a%20-%20Ecosystem%20restoration.md) | Ecosystem restoration. |
+| [6592b.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006592b%20-%20Establishment%20of%20fuel%20breaks%20in%20forests%20and%20other%20wildland%20vegetation.md) | Establishment of fuel breaks in forests and other wildland vegetation. |
+| [6592c.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006592c%20-%20Emergency%20actions.md) | Emergency actions. |
+| [6592d.](Subchapter%20006%20%28VI%29%20-%20Miscellaneous/%C2%A7%2006592d%20-%20Joint%20Chiefs%20Landscape%20Restoration%20Partnership%20program.md) | Joint Chiefs Landscape Restoration Partnership program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

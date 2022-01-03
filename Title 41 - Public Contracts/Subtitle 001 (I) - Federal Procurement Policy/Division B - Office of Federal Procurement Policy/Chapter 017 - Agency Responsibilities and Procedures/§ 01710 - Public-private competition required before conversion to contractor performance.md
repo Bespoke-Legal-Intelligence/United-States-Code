@@ -16,7 +16,7 @@ When conversion to contractor performance is allowed.—A function of an executi
 
 &emsp;&emsp;(D) determines whether the submitted offers meet the needs of the executive agency with respect to factors other than cost, including quality, reliability, and timeliness;
 
-&emsp;&emsp;(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the Federal Government over the life of the contract, including—
+&emsp;&emsp;(E) examines the cost of performance of the function by agency civilian employees and the cost of performance of the function by one or more contractors to demonstrate whether converting to performance by a contractor will result in savings to the FederalGovernment over the life of the contract, including—
 
 &emsp;&emsp;&emsp;(i) the estimated cost to the Federal Government (based on offers received) for performance of the function by a contractor;
 

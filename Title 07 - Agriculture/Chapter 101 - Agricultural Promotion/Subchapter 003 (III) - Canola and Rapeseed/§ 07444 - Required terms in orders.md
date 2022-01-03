@@ -232,7 +232,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained frombooks, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained from books, records, or reports required to be maintained under paragraph (1) shall be kept confidential, and shall not be disclosed to the public by any person.
 
 #### (B) Disclosure
 

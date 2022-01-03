@@ -12,7 +12,7 @@ The term "reimbursable construction costs" as used in this subchapter means that
 
 The repayment contract or contracts for a project shall, in their aggregate, provide for repayment to the United States of the total amount of the reimbursable construction costs of the project allocated to irrigation. Each such contract shall provide, among other things, that—
 
-&emsp;(1) The Secretary shall fix a development period for each project of not to exceed ten years from and including the first calendar year in which water is delivered for the lands in said project; and during the development period water shall be delivered to the lands in the project involved at a charge per acre-foot, or other charge, to be fixed by the Secretary each year and to be paid in advance of delivery of water. Such charges shall be fixed with a view of returning such amounts as in the Secretary's judgment are justified by the rate of project development, including as a minimum the return over the full development period of that part of the cost of operating and maintaining the project, during said period, allocated by the Secretary to irrigation; and collections of such charges in excess of the cost of the operation and maintenance during the development period, as thereafter determined by the Secretary, shall be credited to the reimbursable construction costs of the project in the manner determined by the Secretary.
+&emsp;(1) The Secretary shall fix a development period for each project of not to exceed ten years from and including the first calendar year in which water is delivered for the lands in said project; and during the development period water shall be delivered to the lands in the project involved at a charge per acre-foot, or other charge, to be fixed by the Secretary each year and to be paid in advance of delivery of water. Such charges shall be fixed with a viewof returning such amounts as in the Secretary's judgment are justified by the rate of project development, including as a minimum the return over the full development period of that part of the cost of operating and maintaining the project, during said period, allocated by the Secretary to irrigation; and collections of such charges in excess of the cost of the operation and maintenance during the development period, as thereafter determined by the Secretary, shall be credited to the reimbursable construction costs of the project in the manner determined by the Secretary.
 
 &emsp;(2) The United States shall operate and maintain the project during the development period fixed for it. After the development period, the United States shall operate and maintain the project or any part thereof as long as is deemed necessary by the Secretary, and shall be paid in advance for each year that part of the estimated cost of operating and maintaining the project for such year allocated by the Secretary to irrigation. In the event charges due the United States are not paid when due the United States may, at its election, suspend operations in whole or in part.
 
@@ -23,6 +23,8 @@ The repayment contract or contracts for a project shall, in their aggregate, pro
 &emsp;(5) The Secretary shall establish the size of farm units of irrigable lands on each project in accordance with his findings of the area sufficient in size for the support of a family on the lands to be irrigated. No water may be delivered to or for more than the farm unit area of irrigable lands in the project owned by a single landowner: <i>Provided</i>, That this subsection shall not apply to the United States or any agency or instrumentality thereof, corporate or otherwise. No water shall be delivered to or for any land, in a project area, transferred or disposed of subsequent to approval of the project by the President, and within three years from the time water becomes available, unless and until it has been shown to the satisfaction of the Secretary or his duly authorized representative that the land has been transferred or disposed of at a price not exceeding the appraised value as determined by the Secretary or his duly authorized representatives, and upon proof of fraudulent representation as to the true consideration involved the Secretary is authorized to cancel the water right attaching to the land involved: <i>Provided further</i>, That nothing herein shall be construed to create authority to interfere with the delivery of water under prior rights.
 
 (Aug. 11, 1939, ch. 717, §4, as added Oct. 14, 1940, ch. 861, 54 Stat. 1121; amended July 16, 1943, ch. 242, §5, 57 Stat. 567.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -36,11 +38,15 @@ A prior section 4 of act Aug. 11, 1939, ch. 717, 53 Stat. 1419, covered authoriz
 
 <b>1943</b>—Subsec. (d). Act July 16, 1943, added subsec. (d).
 
-#### Expiration of Subsection (d)
-
-Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o'clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding section 1 of Title 50, War and National Defense.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Extension of Variable Payment Plan
 
 Authority of Secretary to extend benefits of variable payment plan to organizations with which he contracts or has contracted for the repayment of construction costs allocated to irrigation on any project undertaken by the United States, including contracts under this subchapter, see section 2 of Pub. L. 85–611, Aug. 8, 1958, 72 Stat. 542, set out as a note under section 485h of Title 43, Public Lands.
+
+#### <b>Executive Documents</b>
+
+#### Expiration of Subsection (d)
+
+Subsection (d) of this section, by the terms thereof, ceased to be of force and effect, except as to certain projects, six months after cessation of hostilities of World War II, which was proclaimed at 12 o'clock noon of December 31, 1946, by Proc. No. 2714, 12 F.R. 1, set out as a note preceding section 1 of Title 50, War and National Defense.
 

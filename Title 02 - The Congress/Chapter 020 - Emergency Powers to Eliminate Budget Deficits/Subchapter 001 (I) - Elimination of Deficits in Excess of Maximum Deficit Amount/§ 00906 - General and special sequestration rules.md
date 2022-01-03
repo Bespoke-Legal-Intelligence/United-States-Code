@@ -180,7 +180,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (5) Dairy program
 
-&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the dayany sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
+&emsp;Notwithstanding any other provision of this subsection, as the sole means of achieving any reduction in outlays under the milk price support program, the Secretary of Agriculture shall provide for a reduction to be made in the price received by producers for all milk produced in the United States and marketed by producers for commercial use. That price reduction (measured in cents per hundred weight of milk marketed) shall occur under section 1446(d)(2)(A) of title 7, shall begin on the day any sequestration order is issued under section 904 of this title, and shall not exceed the aggregate amount of the reduction in outlays under the milk price support program that otherwise would have been achieved by reducing payments for the purchase of milk or the products of milk under this subsection during the applicable fiscal year.
 
 #### (6) Certain authority not to be limited
 
@@ -202,11 +202,11 @@ The effects of sequestration shall be as follows:
 
 &emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
-(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, §235(a), (c), Dec. 27, 2020, 134 Stat. 1959.)
+(Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427,1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 116–260, div. N, title II, §235(a), (c), Dec. 27, 2020, 134 Stat. 1959.)
 
 #### Amendment of Section
 
-<i>For termination of amendment by section 235(c) of Pub. L. 116–260, see Termination Date of 2020 Amendment note below.</i>
+<i>For termination of amendment by section 235(c) of Pub. L. 116–260, see Effective and Termination Dates of 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -228,11 +228,11 @@ The Railroad Unemployment Insurance Act, referred to in subsec. (i)(1)(D), is ac
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (i)(2)(A), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 204 of such Act is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
-This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
+This joint resolution, referred to in subsec. (j)(6), means Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, which enacted this chapter and sections 654 to 656 of this title, amended sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106, 1109, and 3101 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of this title, enacted provisions set out as notes under section 900 of this title and section 911 of Title 42, and amended provisions set out as a note under section 621 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–260, §235(a), temporarily added subpar. (D). See Termination Date of 2020 Amendment note below.
+<b>2020</b>—Subsec. (i)(1)(D). Pub. L. 116–260, §235(a), temporarily added subpar. (D). See Effective and Termination Dates of 2020 Amendment note below.
 
 <b>2013</b>—Subsec. (g)(2)(B)(ii). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(B). See 2011 Amendment note below.
 
@@ -292,7 +292,7 @@ Subsec. (k)(1). Pub. L. 105–33, §10208(g)(1), struck out "other than a trust 
 
 Subsec. (k)(6). Pub. L. 105–33, §10208(g)(2), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Except as otherwise provided, sequestration in trust and special fund accounts for which obligations are indefinite shall be taken in a manner to ensure that obligations in the fiscal year of a sequestration are reduced, from the level that would actually have occurred, by the applicable sequestration percentage."
 
-<b>1996</b>—Subsecs. (k), (l). Pub. L. 104–193 redesignated subsec. (l) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration ofjob opportunities and basic skills training program, and setting forth new allotment formula.
+<b>1996</b>—Subsecs. (k), (l). Pub. L. 104–193 redesignated subsec. (l) as (k) and struck out former subsec. (k) which related to special rules for JOBS portion of AFDC, providing that any order under section 904 accomplish full amount of any required sequestration of job opportunities and basic skills training program, and setting forth new allotment formula.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(d)(1), amended subsec. (a) generally, substituting provisions relating to automatic spending increases for provisions relating to effect of reductions and sequestrations.
 
@@ -376,7 +376,7 @@ Pub. L. 116–260, div. N, title II, §235(b), Dec. 27, 2020, 134 Stat. 1959, pr
 
 \[For definition of "coronavirus" as used in section 235(b) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.\]
 
-Pub. L. 116–260, div. N, title II, §235(c), Dec. 27, 2020, 134 Stat. 1959, provided that: "The amendments made by subsection (a) \[amending this section\] shall be repealed on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared bythe President on March 13, 2020, under the National Emergencies Act \[Pub. L. 94–412\] (50 U.S.C. 1601 et seq.) terminates."
+Pub. L. 116–260, div. N, title II, §235(c), Dec. 27, 2020, 134 Stat. 1959, provided that: "The amendments made by subsection (a) \[amending this section\] shall be repealed on the date that is 30 days after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020, under the National Emergencies Act \[Pub. L. 94–412\] (50 U.S.C. 1601 et seq.) terminates."
 
 \[For definition of "coronavirus" as used in section 235(c) of Pub. L. 116–260, set out above, see section 8 of Pub. L. 116–260, set out as a note under section 5547 of Title 5, Government Organization and Employees.\]
 

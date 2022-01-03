@@ -40,7 +40,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (6) Administrative coordination
 
-&emsp;The establishment of mechanisms to improve coordination among State agencies and between State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
+&emsp;The establishment of mechanisms to improve coordination among State agencies andbetween State and local officials responsible for land use programs and permitting, water quality permitting and enforcement, habitat protection, and public health and safety, through the use of joint project review, memoranda of agreement, or other mechanisms.
 
 #### (7) State coastal zone boundary modification
 
@@ -100,7 +100,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 &emsp;(2) methods for assessing the cumulative water quality effects of coastal development;
 
-&emsp;(3) maintaining and from time to time revising an inventory of model ordinances, and providing other assistance to coastal States and local governments in identifying, developing,and implementing pollution control measures; and
+&emsp;(3) maintaining and from time to time revising an inventory of model ordinances, and providing other assistance to coastal States and local governments in identifying, developing, and implementing pollution control measures; and
 
 &emsp;(4) methods to predict and assess the effects of coastal land use management measures on coastal water quality and designated uses.
 
@@ -118,7 +118,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (1) In general
 
-&emsp;Upon request of a State having a program approved under section 306 of the Coastal Zone Management Act of 1972 \[16 U.S.C. 1455\], the Secretary, in consultation with the Administrator, may provide grants to the State for use for developing a State program under this section.
+&emsp;Upon request of a State having a program approved under section 306 of the Coastal ZoneManagement Act of 1972 \[16 U.S.C. 1455\], the Secretary, in consultation with the Administrator, may provide grants to the State for use for developing a State program under this section.
 
 #### (2) Amount
 
@@ -178,7 +178,7 @@ The Secretary and the Administrator shall provide technical assistance to coasta
 
 #### (2) Secretary
 
-&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972,as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
+&emsp;(A) Of amounts appropriated to the Secretary for a fiscal year under section 318(a)(4) <sup>1</sup> of the Coastal Zone Management Act of 1972, as amended by this Act, not more than $1,000,000 shall be available for use by the Secretary for carrying out this section for that fiscal year, other than for providing in the form of grants under subsection (f).
 
 &emsp;(B) There is authorized to be appropriated to the Secretary for use for providing in the form of grants under subsection (f) not more than—
 
@@ -207,6 +207,8 @@ In this section—
 &emsp;(6) the term "Secretary" means the Secretary of Commerce.
 
 (Pub. L. 101–508, title VI, §6217, Nov. 5, 1990, 104 Stat. 1388–314; Pub. L. 102–587, title II, §2205(b)(24), Nov. 4, 1992, 106 Stat. 5052.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Qualified property or services
 
-&emsp;The term "qualified property or services" means any property (other than real property and other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
+&emsp;The term "qualified property or services" means any property (other than real propertyand other than personal property of a kind held for investment) or services which are offered for sale to customers in the ordinary course of the line of business of the employer in which the employee is performing services.
 
 #### (d) Working condition fringe defined
 
@@ -320,7 +320,7 @@ For purposes of paragraph (1) of subsection (a), any service provided by an empl
 
 #### (C) Airline-related services
 
-&emsp;&emsp;For purposes of this paragraph, the term "airline-related services" means any of thefollowing services provided in connection with air transportation:
+&emsp;&emsp;For purposes of this paragraph, the term "airline-related services" means any of the following services provided in connection with air transportation:
 
 &emsp;&emsp;&emsp;(i) Catering.
 
@@ -393,6 +393,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -494,7 +496,7 @@ Subsec. (m). Pub. L. 103–66, §13213(d)(2), redesignated subsec. (l) as (m).
 
 Subsecs. (f) to (h). Pub. L. 102–486, §1911(b), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to\(8), respectively, and struck out former par. (4), "Parking", which read as follows: "The term 'working condition fringe' includes parking provided to an employee on or near the business premises of the employer." Former subsec. (i) redesignated (j).
+Subsec. (i). Pub. L. 102–486, §1911(b), (c), redesignated subsec. (h) as (i), redesignated pars. (5) to (9) as (4) to (8), respectively, and struck out former par. (4), "Parking", which read as follows: "The term 'working condition fringe' includes parking provided to an employee on or near the business premises of the employer." Former subsec. (i) redesignated (j).
 
 Subsecs. (j) to (l). Pub. L. 102–486, §1911(b), redesignated subsecs. (i) to (k) as (j) to (l), respectively.
 
@@ -533,6 +535,8 @@ Subsec. (h)(6). Pub. L. 99–272, §13207(b)(1), added par. (6).
 Subsec. (h)(7). Pub. L. 99–514, §1114(b)(5)(B), added par. (7).
 
 Subsec. (i). Pub. L. 99–514, §1853(a)(3), substituted "subsection (c)(2)" for "subsection (c)(2)(B)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -590,7 +594,7 @@ Pub. L. 105–178, title IX, §9010(a)(2), June 9, 1998, 112 Stat. 507, provided
 
 Pub. L. 105–178, title IX, §9010(b)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 1998."
 
-Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made bythis subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
+Pub. L. 105–178, title IX, §9010(c)(3), June 9, 1998, 112 Stat. 508, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2001."
 
 #### Effective Date of 1997 Amendment
 

@@ -106,6 +106,8 @@ As used in this subchapter:
 
 (Pub. L. 106–102, title V, §509, Nov. 12, 1999, 113 Stat. 1443.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.

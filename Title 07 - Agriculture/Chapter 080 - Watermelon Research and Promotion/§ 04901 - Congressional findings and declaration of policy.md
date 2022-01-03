@@ -18,11 +18,15 @@
 
 (Pub. L. 99–198, title XVI, §1642, Dec. 23, 1985, 99 Stat. 1622; Pub. L. 103–189, §8(k)(1), (2), Dec. 14, 1993, 107 Stat. 2263.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (a)(5). Pub. L. 103–189, §8(k)(1), substituted "handling, and importing" for "and handling".
 
 Subsec. (b). Pub. L. 103–189, §8(k)(2), inserted ", or imported into the United States," after "harvested in the United States" and struck out "produced in the United States" after "foreign markets for watermelons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1993 Amendment
 

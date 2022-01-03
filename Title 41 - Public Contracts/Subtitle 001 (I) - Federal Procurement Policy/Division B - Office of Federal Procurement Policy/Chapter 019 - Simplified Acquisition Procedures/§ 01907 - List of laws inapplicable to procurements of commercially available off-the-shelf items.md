@@ -22,7 +22,7 @@ Other authorities or responsibilities not affected.—This section does not modi
 
 &emsp;&emsp;&emsp;(i) subchapter V of chapter 35 of title 31;
 
-&emsp;&emsp;&emsp;(ii) section 2305(e) and (f) of title 10; or
+&emsp;&emsp;&emsp;(ii) section 3308 of title 10; or
 
 &emsp;&emsp;&emsp;(iii) sections 3706 and 3707 of this title.
 
@@ -34,7 +34,7 @@ Covered Law.—Except as provided in subsection (a)(3), a provision of law refer
 
 &emsp;(2) specifically refers to this section and provides that, notwithstanding this section, it shall be applicable to contracts for the procurement of commercially available off-the-shelf items.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3724.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3724;Pub. L. 117–81, div. A, title XVII, §1702(h)(8), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -51,4 +51,10 @@ Historical and Revision Notes
 41:431(a), (b).
 
 Pub. L. 93–400, §35(a), (b), as added Pub. L. 104–106, title XLII, §4203(a), Feb. 10, 1996, 110 Stat. 654; Pub. L. 105–85, title X, §1073(g)(2)(C), Nov. 18, 1997, 111 Stat. 1906.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(3)(B)(ii). Pub. L. 117–81 substituted "section 3308" for "section 2305(e) and (f)".
 

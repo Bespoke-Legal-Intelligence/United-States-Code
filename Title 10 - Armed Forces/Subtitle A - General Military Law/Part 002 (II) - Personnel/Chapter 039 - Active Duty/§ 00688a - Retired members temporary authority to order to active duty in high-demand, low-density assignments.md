@@ -38,6 +38,8 @@ High-Demand, Low-Density Military Capability Defined.—In this section, the ter
 
 (Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L. 109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215; Pub. L. 115–91, div. A, title V, §527, Dec. 12, 2017, 131 Stat. 1383; Pub. L. 116–283, div. A, title V, §511, Jan. 1, 2021, 134 Stat. 3587.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
@@ -52,7 +54,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 <b>2006</b>—Pub. L. 109–364, §621(d)(2)(A), substituted "Retired members: temporary authority to order to active duty in high-demand, low-density assignments" for "Retired aviators: temporary authority to order to active duty" in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §621(b)(1), in first sentence, substituted "The Secretary of a military department may order to active duty a retired member whoagrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements" for "The Secretary of a military department may order to active duty a retired officer having expertise as an aviator to fill staff positions normally filled by aviators on active duty" and, in second sentence, substituted "member" for "officer" in two places.
+Subsec. (a). Pub. L. 109–364, §621(b)(1), in first sentence, substituted "The Secretary of a military department may order to active duty a retired member who agrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements" for "The Secretary of a military department may order to active duty a retired officer having expertise as an aviator to fill staff positions normally filled by aviators on active duty" and, in second sentence, substituted "member" for "officer" in two places.
 
 Subsec. (b). Pub. L. 109–364, §621(b)(2), substituted "a member" for "an officer".
 
@@ -65,6 +67,8 @@ Subsec. (e). Pub. L. 109–364, §621(b)(5), substituted "Retired members" for "
 Subsec. (f). Pub. L. 109–364, §621(b)(6), substituted "A retired member" for "An officer" and "December 31, 2010" for "September 30, 2008".
 
 Subsec. (g). Pub. L. 109–364, §621(b)(7), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition Provision
 

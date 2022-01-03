@@ -10,6 +10,7 @@
 - [&sect; 01963 - Protection of grounds](%C2%A7%2001963%20-%20Protection%20of%20grounds.md)
 - [&sect; 01964 - Security systems for Capitol buildings and grounds](%C2%A7%2001964%20-%20Security%20systems%20for%20Capitol%20buildings%20and%20grounds.md)
 - [&sect; 01965 - Maintenance of security systems for Capitol buildings and grounds](%C2%A7%2001965%20-%20Maintenance%20of%20security%20systems%20for%20Capitol%20buildings%20and%20grounds.md)
+- [&sect; 01965a - Prohibition on use of funds for installation of permanent fencing on Capitol Grounds](%C2%A7%2001965a%20-%20Prohibition%20on%20use%20of%20funds%20for%20installation%20of%20permanent%20fencing%20on%20Capitol%20Grounds.md)
 - [&sect; 01966 - Protection of Members of Congress, officers of Congress, and members of their families](%C2%A7%2001966%20-%20Protection%20of%20Members%20of%20Congress%2C%20officers%20of%20Congress%2C%20and%20members%20of%20their%20families.md)
 - [&sect; 01967 - Law enforcement authority](%C2%A7%2001967%20-%20Law%20enforcement%20authority.md)
 - [&sect; 01968 - Citation release](%C2%A7%2001968%20-%20Citation%20release.md)

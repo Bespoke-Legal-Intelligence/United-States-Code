@@ -10,13 +10,15 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 #### (c) Biennial report
 
-Not later than February 1 of 1995 and of every second year thereafter, the Secretary, actingthrough the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
+Not later than February 1 of 1995 and of every second year thereafter, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the activities carried out under this part during the preceding 2 fiscal years. Such report shall include a description of such activities that were carried out with respect to interpersonal violence within families and among acquaintances and with respect to rural areas.
 
 (July 1, 1944, ch. 373, title III, §394, formerly §393, as added Pub. L. 99–649, §3, Nov. 10, 1986, 100 Stat. 3634; amended Pub. L. 101–558, §2(c), Nov. 15, 1990, 104 Stat. 2772; Pub. L. 102–531, title III, §312(d)(5), Oct. 27, 1992, 106 Stat. 3504; renumbered §394 and amended Pub. L. 103–183, title II, §§201(1), 202, Dec. 14, 1993, 107 Stat. 2231, 2232.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 280b–2, act July 1, 1944, ch. 373, title III, §392, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(4), (d)(2)(A), 84 Stat. 66, 67; July 23, 1974, Pub. L. 93–353, title II, §202(c), 88 Stat. 372, related to composition, functions, etc., of National Medical Libraries Assistance Advisory Board, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+A prior section 280b–2, act July 1, 1944, ch. 373, title III, §392, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79Stat. 1060; amended Mar. 13, 1970, Pub. L. 91–212, §10(b)(4), (d)(2)(A), 84 Stat. 66, 67; July 23, 1974, Pub. L. 93–353, title II, §202(c), 88 Stat. 372, related to composition, functions, etc., of National Medical Libraries Assistance Advisory Board, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
 
 A prior section 394 of act July 1, 1944, was renumbered section 394A and is classified to section 280b–3 of this title.
 
@@ -31,6 +33,8 @@ A prior section 394 of act July 1, 1944, was renumbered section 394A and is clas
 <b>1992</b>—Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control" in introductory provisions.
 
 <b>1990</b>—Pub. L. 101–558 amended section generally. Prior to amendment, section read as follows: "By January 1, 1989, the Secretary, through the Director of the Centers for Disease Control, shall prepare and transmit to the Congress a report analyzing the incidence and causes of childhood injuries in the United States and containing recommendations for such legislation with respect to injury control as the Secretary considers appropriate."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

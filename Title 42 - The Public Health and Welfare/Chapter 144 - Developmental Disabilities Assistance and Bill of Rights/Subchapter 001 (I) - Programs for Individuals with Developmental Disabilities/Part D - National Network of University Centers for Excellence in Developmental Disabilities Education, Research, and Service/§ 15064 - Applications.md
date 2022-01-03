@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(iv) that shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan,and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
+&emsp;&emsp;&emsp;&emsp;(I) consult with the Director of the Center regarding the development of the 5-year plan, and shall participate in an annual review of, and comment on, the progress of the Center in meeting the projected goals contained in the plan, and shall make recommendations to the Director of the Center regarding any proposed revisions of the plan that might be necessary; and
 
 &emsp;&emsp;&emsp;&emsp;(II) meet as often as necessary to carry out the role of the committee, but at a minimum twice during each grant year;
 
@@ -125,6 +125,8 @@ Each Center shall annually prepare and transmit to the Secretary a report contai
 &emsp;(3) a description of successful efforts to leverage funds, other than funds made available under this part, to pursue goals consistent with this part.
 
 (Pub. L. 106–402, title I, §154, Oct. 30, 2000, 114 Stat. 1722; Pub. L. 108–364, §3(a)(4), Oct. 25, 2004, 118 Stat. 1737; Pub. L. 108–446, title III, §305(n)(2), Dec. 3, 2004, 118 Stat. 2806.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

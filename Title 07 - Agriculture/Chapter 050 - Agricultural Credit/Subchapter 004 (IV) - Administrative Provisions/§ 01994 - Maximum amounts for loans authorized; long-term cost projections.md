@@ -100,7 +100,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (A) In general
 
-&emsp;&emsp;If the Secretary determines that the amount needed for a fiscal year for direct operating loans (including microloans) under subchapter II is greater than the aggregate principal amount authorized for that fiscal year by this Act, an appropriations Act, or any other provision of law, the Secretary shall make additional microloans under subchapter II using amounts made available under subparagraph (C).
+&emsp;&emsp;If the Secretary determines that the amount needed for a fiscal year for direct operating loans (including microloans) under subchapter II is greater than the aggregate principal amount authorized for that fiscal year by this Act, an appropriations Act, orany other provision of law, the Secretary shall make additional microloans under subchapter II using amounts made available under subparagraph (C).
 
 #### (B) Notice
 
@@ -129,6 +129,8 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
 (Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347; Pub. L. 110–234, title V, §§5302(b), 5303, May 22, 2008, 122 Stat. 1152; Pub. L. 110–246, §4(a), title V, §§5302(b), 5303, June 18, 2008, 122 Stat. 1664, 1913, 1914; Pub. L. 113–79, title V, §§5304, 5305, Feb. 7, 2014, 128 Stat. 840; Pub. L. 115–334, title V, §§5302–5304, 5401(g), Dec. 20, 2018, 132 Stat. 4671, 4672, 4674.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -195,6 +197,8 @@ Subsecs. (d), (e). Pub. L. 99–198, §1317, struck out subsec. (d) which author
 <b>1981</b>—Subsec. (d). Pub. L. 97–35 added subsec. (d).
 
 <b>1980</b>—Pub. L. 96–438 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

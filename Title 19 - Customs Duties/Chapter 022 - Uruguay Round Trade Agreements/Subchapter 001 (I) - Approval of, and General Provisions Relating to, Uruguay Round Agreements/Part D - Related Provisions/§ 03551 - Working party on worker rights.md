@@ -22,9 +22,13 @@ The President shall report to the Congress, not later than 1 year after December
 
 (Pub. L. 103–465, title I, §131, Dec. 8, 1994, 108 Stat. 4839; Pub. L. 104–188, title I, §1954(a)(6), Aug. 20, 1996, 110 Stat. 1928.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (a), (b)(1). Pub. L. 104–188 substituted "2467(4)" for "2462(a)(4)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -43,6 +47,8 @@ In General.—Except as provided in section 136(d) \[enacting provisions set out
 Sections 132
 
 and 135.—Sections 132 and 135 \[enacting sections 3552 and 3555 of this title\] take effect on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\]."
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-From the amounts appropriated under section 1161i–7 of this title, the Secretary is authorized to award grants to States in accordance withthe provisions of this part to enable such States—
+From the amounts appropriated under section 1161i–7 of this title, the Secretary is authorized to award grants to States in accordance with the provisions of this part to enable such States—
 
 &emsp;(1) to establish a State Task Force described in section 1161i–3 of this title; and
 

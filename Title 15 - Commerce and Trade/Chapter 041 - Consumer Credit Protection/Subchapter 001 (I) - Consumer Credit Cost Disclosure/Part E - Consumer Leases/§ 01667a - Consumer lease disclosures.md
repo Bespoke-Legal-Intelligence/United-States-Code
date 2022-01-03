@@ -28,9 +28,13 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 (Pub. L. 90–321, title I, §182, as added Pub. L. 94–240, §3, Mar. 23, 1976, 90 Stat. 258; amended Pub. L. 111–203, title X, §1100A(2), (10)(B), July 21, 2010, 124 Stat. 2107, 2109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1100A(2), (10)(B), made similar amendments, resulting in the substitution of "The Bureau" for "The Board" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

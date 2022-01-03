@@ -32,9 +32,13 @@ In subsection (a), the words "and to prevent the introduction of unworthy subjec
 
 In subsection (b), the words "in his discretion" and "Government of" are omitted as surplusage. The words "United States" are substituted for the word "Government".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4354 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

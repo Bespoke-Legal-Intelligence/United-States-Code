@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;(I) the frequency, seriousness, and incidence of drug use by youth in schools and communities in the States using, if appropriate, data submitted by the States pursuant to this subparagraph and subsection (b); and
 
-&emsp;&emsp;&emsp;(II) the frequency, degree of harm, and morbidity of violent incidents, particularly firearm-related injuries and fatalities, by youth in schools and communitiesin the States, including information with respect to—
+&emsp;&emsp;&emsp;(II) the frequency, degree of harm, and morbidity of violent incidents, particularly firearm-related injuries and fatalities, by youth in schools and communities in the States, including information with respect to—
 
 &emsp;&emsp;&emsp;&emsp;(aa) the relationship between victims and perpetrators;
 
@@ -74,7 +74,7 @@
 
 &emsp;(H) a description of the best practices in discharge planning; and
 
-&emsp;(I) an assessment of living arrangements for juveniles who, upon release from confinement in a State correctional facility, cannot return to the residence they occupied prior to such confinement.
+&emsp;(I) an assessment of living arrangements for juveniles who, upon release from confinement in a State correctional facility, cannot returnto the residence they occupied prior to such confinement.
 
 #### (b) Statistical analyses
 
@@ -112,7 +112,7 @@ The Administrator, in accordance with applicable confidentiality requirements an
 
 &emsp;(3) make cumulative juvenile recidivism data that is collected from States available to the public.
 
-(Pub. L. 93–415, title II, §251, as added Pub. L. 107–273, div. C, title II, §12211, Nov. 2, 2002, 116Stat. 1888; amended Pub. L. 115–385, title II, §207, Dec. 21, 2018, 132 Stat. 5140.)
+(Pub. L. 93–415, title II, §251, as added Pub. L. 107–273, div. C, title II, §12211, Nov. 2, 2002, 116 Stat. 1888; amended Pub. L. 115–385, title II, §207, Dec. 21, 2018, 132 Stat. 5140.)
 
 #### <b>Editorial Notes</b>
 

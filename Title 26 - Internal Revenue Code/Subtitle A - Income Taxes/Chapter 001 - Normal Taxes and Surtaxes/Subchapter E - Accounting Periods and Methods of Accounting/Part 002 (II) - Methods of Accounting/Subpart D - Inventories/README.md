@@ -10,6 +10,8 @@ Subpart D—Inventories
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–66, title XIII, §13223(b)(2), Aug. 10, 1993, 107 Stat. 484, added item 475.

@@ -26,6 +26,8 @@ The Secretaries shall make biennial reports to the Congress and to the Commissio
 
 (Pub. L. 98–613, §6, Oct. 31, 1984, 98 Stat. 3190; Pub. L. 105–146, §2, Dec. 16, 1997, 111 Stat. 2675.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–146 amended section catchline and text generally, substituting provisions relating to continuing studies of striped bass populations for provisions relating to comprehensive annual surveys.

@@ -36,7 +36,7 @@ The creditor of any account under an open end consumer credit plan shall transmi
 
 &emsp;(4) The amount of any finance charge added to the account during the period, itemized to show the amounts, if any, due to the application of percentage rates and the amount, if any, imposed as a minimum or fixed charge.
 
-&emsp;(5) Where one or more periodic rates may be used to compute the finance charge, each suchrate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 1606(a)(2) of this title) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
+&emsp;(5) Where one or more periodic rates may be used to compute the finance charge, each such rate, the range of balances to which it is applicable, and, unless the annual percentage rate (determined under section 1606(a)(2) of this title) is required to be disclosed pursuant to paragraph (6), the corresponding nominal annual percentage rate determined by multiplying the periodic rate by the number of periods in a year.
 
 &emsp;(6) Where the total finance charge exceeds 50 cents for a monthly or longer billing cycle, or the pro rata part of 50 cents for a billing cycle shorter than monthly, the total finance charge expressed as an annual percentage rate (determined under section 1606(a)(2) of this title), except that if the finance charge is the sum of two or more products of a rate times a portion of the balance, the creditor may, in lieu of disclosing a single rate for the total charge, disclose each such rate expressed as an annual percentage rate, and the part of the balance to which it is applicable.
 
@@ -90,7 +90,7 @@ Requirements relating to late payment deadlines and penalties.—
 
 &emsp;&emsp;(A)
 
-Late payment deadline required to be disclosed.—In the case of a credit card account under an open end consumer credit plan under which a late fee or charge may be imposed due to the failure of the obligor to make payment on or before the due date for such payment, the periodic statement required under subsection (b) with respect to the account shall include, in a conspicuous location on the billing statement, the date on which the payment is due or, if different, the date on which a late payment fee will becharged, together with the amount of the fee or charge to be imposed if payment is made after that date.
+Late payment deadline required to be disclosed.—In the case of a credit card account under an open end consumer credit plan under which a late fee or charge may be imposed due to the failure of the obligor to make payment on or before the due date for such payment, the periodic statement required under subsection (b) with respect to the account shall include, in a conspicuous location on the billing statement, the date on which the payment is due or, if different, the date on which a late payment fee will be charged, together with the amount of the fee or charge to be imposed if payment is made after that date.
 
 &emsp;&emsp;(B)
 
@@ -168,7 +168,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;&emsp;(II) does not impose any fee in connection with telephone solicitations unless the consumer signifies acceptance by using the card;
 
-&emsp;&emsp;&emsp;(ii) the card issuer discloses clearly and conspicuously in writing the informationdescribed in paragraph (1) within 30 days after the consumer requests the card, but in no event later than the date of delivery of the card; and
+&emsp;&emsp;&emsp;(ii) the card issuer discloses clearly and conspicuously in writing the information described in paragraph (1) within 30 days after the consumer requests the card, but in no event later than the date of delivery of the card; and
 
 &emsp;&emsp;&emsp;(iii) the card issuer discloses clearly and conspicuously that the consumer is not obligated to accept the card or account and the consumer will not be obligated to pay any of the fees or charges disclosed unless the consumer elects to accept the card or account by using the card.
 
@@ -194,7 +194,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;&emsp;(II) the information contained in the application or solicitation is subject to change after such date; and
 
-&emsp;&emsp;&emsp;&emsp;(III) the applicant should contact the creditor for information on any change in the information contained in the application or solicitation since it was printed;
+&emsp;&emsp;&emsp;&emsp;(III) the applicant should contact the creditor for information on any changein the information contained in the application or solicitation since it was printed;
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
@@ -242,7 +242,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 #### (B) Other information
 
-&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall discloseclearly and conspicuously the following information, subject to subsections (e) and (f):
+&emsp;&emsp;In addition to the information required to be disclosed under subparagraph (A), each written application or solicitation to which such subparagraph applies shall disclose clearly and conspicuously the following information, subject to subsections (e) and (f):
 
 #### (i) Cash advance fee
 
@@ -276,7 +276,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(iii) a clear and conspicuous disclosure of the date the application or solicitation was printed; and
 
-&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application or solicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
+&emsp;&emsp;&emsp;(iv) a disclosure, in a conspicuous and prominent location on the application orsolicitation, of a toll free telephone number or a mailing address at which the applicant may contact the creditor to obtain any change in the information provided in the application or solicitation since it was printed.
 
 #### (D) Issuers of charge cards which provide access to open end consumer credit plans
 
@@ -308,7 +308,7 @@ Payments at local branches.—If the creditor, in the case of a credit card acco
 
 &emsp;&emsp;&emsp;(ii) if the annual percentage rate of interest that will apply after the end of the temporary rate period will be a fixed rate, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing of the temporary annual percentage rate in the tabular format described in section 1632(c) of this title), the time period in which the introductory period will end and the annual percentage rate that will apply after the end of the introductory period; and
 
-&emsp;&emsp;&emsp;(iii) if the annual percentage rate that will apply after the end of the temporary rate period will vary in accordance with anindex, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing in the tabular format prescribed by section 1632(c) of this title), the time period in which the introductory period will end and the rate that will apply after that, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
+&emsp;&emsp;&emsp;(iii) if the annual percentage rate that will apply after the end of the temporary rate period will vary in accordance with an index, state in a clear and conspicuous manner in a prominent location closely proximate to the first listing of the temporary annual percentage rate (other than a listing in the tabular format prescribed by section 1632(c) of this title), the time period in which the introductory period will end and the rate that will apply after that, based on an annual percentage rate that was in effect within 60 days before the date of mailing the application or solicitation.
 
 #### (B) Exception
 
@@ -478,7 +478,7 @@ A creditor of an account under an open end consumer credit plan may not terminat
 
 #### (1) In general
 
-&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by the creditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
+&emsp;In the case of any credit card account under an open end consumer credit plan under which an over-the-limit fee may be imposed by thecreditor for any extension of credit in excess of the amount of credit authorized to be extended under such account, no such fee shall be charged, unless the consumer has expressly elected to permit the creditor, with respect to such account, to complete transactions involving the extension of credit under such account in excess of the amount of credit authorized.
 
 #### (2) Disclosure by creditor
 
@@ -598,6 +598,8 @@ No increase may be made in the amount of credit authorized to be extended under 
 
 (Pub. L. 90–321, title I, §127, May 29, 1968, 82 Stat. 153; Pub. L. 93–495, title III, §§304, 305, title IV, §§411, 415, Oct. 28, 1974, 88 Stat. 1511, 1519, 1521; Pub. L. 96–221, title VI, §613(a)–(e), Mar. 31, 1980, 94 Stat. 176, 177; Pub. L. 100–583, §§2(a), 6, Nov. 3, 1988, 102 Stat. 2960, 2968; Pub. L. 100–709, §2(b), Nov. 23, 1988, 102 Stat. 4729; Pub. L. 109–8, title XIII, §§1301(a), 1303(a), 1304(a), 1305(a), 1306(a), Apr. 20, 2005, 119 Stat. 204, 209, 211, 212; Pub. L. 111–24, title I, §§101(a)(1), 102(a), 103, 105, 106(a), title II, §§201(a), 202, 203, title III, §§301, 303, 305(a), May 22, 2009, 123 Stat. 1735, 1738, 1741–1743, 1745–1749; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
@@ -671,6 +673,8 @@ Subsec. (b)(10). Pub. L. 93–495, §415(2), inserted exception relating to noni
 Subsec. (b)(11). Pub. L. 93–495, §305, added par. (11).
 
 Subsec. (c). Pub. L. 93–495, §304(b), substituted provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than the time of mailing the next statement required by subsec. (b) of this section, for provisions relating to disclosure requirements in a notice mailed or delivered to the obligor not later than thirty days after July 1, 1969.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -786,7 +790,7 @@ Pub. L. 111–24, title III, §305(b), May 22, 2009, 123 Stat. 1750, provided th
 
 "(1)
 
-Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section, and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
+Study.—The Comptroller General of the United States shall, from time to time, review the reports submitted by creditors under section 127(r) of the Truth in Lending Act \[15 U.S.C. 1637(r)\], as added by this section,and the marketing practices of creditors to determine the impact that college affinity card agreements and college student card agreements have on credit card debt.
 
 "(2)
 

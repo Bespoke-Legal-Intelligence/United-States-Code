@@ -4,6 +4,8 @@ The Secretary of Agriculture is authorized to investigate the ginning of cotton;
 
 (Apr. 19, 1930, ch. 203, §1, 46 Stat. 248.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 424 of this title prior to editorial reclassification and renumbering as this section.

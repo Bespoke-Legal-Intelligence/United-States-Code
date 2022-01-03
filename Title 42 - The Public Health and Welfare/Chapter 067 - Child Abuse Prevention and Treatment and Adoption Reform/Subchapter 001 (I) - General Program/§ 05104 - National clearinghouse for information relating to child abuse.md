@@ -76,6 +76,8 @@ The Secretary shall, through the clearinghouse established by subsection (a)—
 
 (Pub. L. 93–247, title I, §103, formerly §5, Jan. 31, 1974, 88 Stat. 7; Pub. L. 95–266, title I, §104, Apr. 24, 1978, 92 Stat. 206; Pub. L. 98–457, title I, §104, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 105; renumbered title I, §104, and amended Pub. L. 101–126, §§3(a)(1), (2), (b)(2), 6, Oct. 25, 1989, 103 Stat. 764, 765, 768; renumbered §103 and amended Pub. L. 104–235, title I, §§104, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3066, 3079; Pub. L. 108–36, title I, §111, June 25, 2003, 117 Stat. 802; Pub. L. 111–320, title I, §112, Dec. 20, 2010, 124 Stat. 3461; Pub. L. 114–198, title V, §503(a), July 22, 2016, 130 Stat. 729.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 105(a)(1) of the Child Abuse Prevention, Adoption, and Family Services Act of 1988, referred to in subsec. (b)(6)(B), is section 105(a)(1) of Pub. L. 100–294, which is set out as a note under section 5105 of this title.
@@ -120,7 +122,7 @@ Subsec. (b)(2). Pub. L. 104–235, §104(2)(C), substituted "United States" for 
 
 Subsec. (b)(3). Pub. L. 104–235, §104(2)(D), struck out par. (3) which read as follows: "directly or through contract, identify effective programs carried out by the States pursuant to subchapter III of this chapter and provide technical assistance to the States in the implementation of such programs."
 
-Subsec. (c)(1). Pub. L. 104–235, §104(3)(A), designated existing provisions as par. (1), inserted heading, and substituted "Secretary" for "Director" in introductory provisions. Former par. (1) redesignated (1)(A).
+Subsec. (c)(1). Pub. L. 104–235, §104(3)(A), designated existing provisions as par. (1), inserted heading, andsubstituted "Secretary" for "Director" in introductory provisions. Former par. (1) redesignated (1)(A).
 
 Subsec. (c)(1)(A). Pub. L. 104–235, §104(3)(B), redesignated par. (1) as (1)(A) and realigned margin.
 

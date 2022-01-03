@@ -124,7 +124,7 @@ Subsec. (c)(1)(B). Pub. L. 111–211, §261(a)(3)(B), inserted ", tribal," afte
 
 Subsec. (c)(2). Pub. L. 109–248, §141(g)(2), substituted "shall register as required by the Sex Offender Registration and Notification Act" for "shall be subject to a registration requirement as a sex offender" in first sentence and "paragraph (3)" for "paragraph (4)" in fourth sentence.
 
-Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts."
+Subsec. (c)(3). Pub. L. 109–248, §141(f), amended par. (3) generally. Prior to amendment, par. (3) read as follows:"The Director of the Bureau of Prisons shall inform a person described in paragraph (4) who is released from prison that the person shall be subject to a registration requirement as a sex offender in any State in which the person resides, is employed, carries on a vocation, or is a student (as such terms are defined for purposes of section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994), and the same information shall be provided to a person described in paragraph (4) who is sentenced to probation by the probation officer responsible for supervision of the person or in a manner specified by the Director of the Administrative Office of the United States Courts."
 
 Subsec. (c)(4). Pub. L. 109–248, §141(h), struck out par. (4) which read as follows: "A person is described in this paragraph if the person was convicted of any of the following offenses (including such an offense prosecuted pursuant to section 1152 or 1153):
 
@@ -157,34 +157,6 @@ Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section
 #### Construction of 2008 Amendment
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 60504 of Title 34, Crime Control and Law Enforcement.
-
-#### Amenities or Personal Comforts
-
-Pub. L. 107–77, title VI, §611, Nov. 28, 2001, 115 Stat. 800, provided that: "Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system—
-
-&emsp;"(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety;
-
-&emsp;"(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented;
-
-&emsp;"(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort;
-
-&emsp;"(4) possession of in-cell coffee pots, hot plates or heating elements; or
-
-&emsp;"(5) the use or possession of any electric or electronic musical instrument."
-
-Similar provisions were contained in the following appropriation acts:
-
-Pub. L. 106–553, §1(a)(2) \[title VI, §611\], Dec. 21, 2000, 114 Stat. 2762, 2762A–105.
-
-Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §612\], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
-
-Pub. L. 105–277, div. A, §101(b) \[title VI, §611\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
-
-Pub. L. 105–119, title VI, §611, Nov. 26, 1997, 111 Stat. 2517.
-
-Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §611\], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
-
-Pub. L. 104–134, title I, §101\[(a)\] \[title VI, §611\], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### De-Escalation Training
 
@@ -233,6 +205,34 @@ Quality Products.—The Director shall ensure that the healthcare products provi
 "(c)
 
 Products.—The healthcare products described in this subsection are tampons and sanitary napkins."
+
+#### Amenities or Personal Comforts
+
+Pub. L. 107–77, title VI, §611, Nov. 28, 2001, 115 Stat. 800, provided that: "Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system—
+
+&emsp;"(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety;
+
+&emsp;"(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented;
+
+&emsp;"(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort;
+
+&emsp;"(4) possession of in-cell coffee pots, hot plates or heating elements; or
+
+&emsp;"(5) the use or possession of any electric or electronic musical instrument."
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 106–553, §1(a)(2) \[title VI, §611\], Dec. 21, 2000, 114 Stat. 2762, 2762A–105.
+
+Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §612\], Nov. 29, 1999, 113 Stat. 1535, 1501A–54.
+
+Pub. L. 105–277, div. A, §101(b) \[title VI, §611\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–113.
+
+Pub. L. 105–119, title VI, §611, Nov. 26, 1997, 111 Stat. 2517.
+
+Pub. L. 104–208, div. A, title I, §101(a) \[title VI, §611\], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
+
+Pub. L. 104–134, title I, §101\[(a)\] \[title VI, §611\], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
 
 #### Sexually Explicit Commercially Published Material
 
@@ -298,7 +298,7 @@ As the DOJ Report makes clear, although occasions exist when correctional offici
 
 Given the urgency and importance of this issue, it is critical that DOJ accelerate efforts to reduce the number of Federal inmates and detainees held in restrictive housing and that Federal correctional and detention systems be models for facilities across the United States. Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and to address the overuse of solitary confinement in correctional and detention systems throughout the United States, I hereby direct as follows:
 
-Section 1. <i>Implementation of the DOJ Report</i>. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the status of these efforts not later than 180 days after the date of this memorandum.
+Section 1. <i>Implementation of the DOJ Report</i>. (a) DOJ shall promptly undertake to revise its regulations and policies, consistent with the direction of the Attorney General, to implement the policy recommendations in the DOJ Report concerning the use of restrictive housing. DOJ shall provide me with an update on the statusof these efforts not later than 180 days after the date of this memorandum.
 
 (b) Other executive departments and agencies (agencies) that impose restrictive housing shall review the DOJ Report to determine whether corresponding changes at their facilities should be made in light of the policy recommendations and guiding principles in the DOJ Report.
 

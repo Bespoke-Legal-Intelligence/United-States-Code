@@ -22,7 +22,7 @@ The Director may utilize the administrative authorities otherwise available to t
 
 #### (e) Implementation
 
-The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations inorder to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
+The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
 
 (Pub. L. 105–277, div. I, title I, §101, Oct. 21, 1998, 112 Stat. 2681–860.)
 
@@ -30,7 +30,7 @@ The President is authorized to implement and carry out the provisions of this ch
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (d), and (e), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. Forcomplete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 #### <b>Executive Documents</b>
 

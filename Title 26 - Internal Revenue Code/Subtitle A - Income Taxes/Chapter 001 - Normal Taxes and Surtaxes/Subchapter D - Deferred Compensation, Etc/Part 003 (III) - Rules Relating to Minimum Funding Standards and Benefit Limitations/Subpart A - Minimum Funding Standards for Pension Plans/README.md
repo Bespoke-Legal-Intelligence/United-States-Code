@@ -14,6 +14,8 @@ Subpart A—Minimum Funding Standards for Pension Plans
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(109)(B), Mar. 23, 2018, 132 Stat. 1189, added item 433.

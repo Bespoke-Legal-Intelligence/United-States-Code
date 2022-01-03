@@ -31,6 +31,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–94, div. N, title I, §503(b)(3), Dec. 20, 2019, 133 Stat. 3120, struck out item 4980I "Excise tax on high cost employer-sponsored health coverage".

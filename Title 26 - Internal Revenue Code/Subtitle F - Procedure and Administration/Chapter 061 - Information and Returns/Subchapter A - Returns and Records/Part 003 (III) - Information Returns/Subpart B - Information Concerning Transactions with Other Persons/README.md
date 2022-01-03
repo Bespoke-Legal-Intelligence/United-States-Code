@@ -44,6 +44,8 @@ Subpart B—Information Concerning Transactions With Other Persons
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(260)–(262), Mar. 23, 2018, 132 Stat. 1196, added item 6041A and substituted "Returns relating to cash received in trade or business, etc." for "Returns relating to cash received in trade or business, etc.." in item 6050I and "Returns relating to payments made in settlement of payment card and third party network transactions" for "Returns relating to payments made in settlement of payment card transactions" in item 6050W.
@@ -54,7 +56,7 @@ Subpart B—Information Concerning Transactions With Other Persons
 
 Pub. L. 110–289, div. C, title III, §3091(d), July 30, 2008, 122 Stat. 2911, added item 6050W.
 
-<b>2006</b>—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying the act to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
+<b>2006</b>—Pub. L. 109–280, title XII, §1211(a)(2), Aug. 17, 2006, 120 Stat. 1073, which directed the amendment of the analysis for subpart B of part III of subchapter A of chapter 61 by adding item 6050V, without specifying theact to be amended, was executed by adding item 6050V to this analysis, which is part of chapter 61 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 Pub. L. 109–280, title VIII, §844(d)(3), Aug. 17, 2006, 120 Stat. 1013, added item 6050U.
 

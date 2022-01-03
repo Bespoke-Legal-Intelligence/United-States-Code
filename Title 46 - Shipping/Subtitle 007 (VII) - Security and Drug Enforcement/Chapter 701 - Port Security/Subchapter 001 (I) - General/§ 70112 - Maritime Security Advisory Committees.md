@@ -10,7 +10,7 @@ Establishment.—There is established a National Maritime Security Advisory Comm
 
 &emsp;(2)
 
-Function.—The Committee shall advise the Secretary on matters relating to national maritime security, including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—
+Function.—The Committee shall advise the Secretary on matters relating to national maritime security, including on enhancing thesharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—
 
 &emsp;&emsp;(A) State, local, and tribal governments;
 
@@ -152,7 +152,7 @@ Compensation and expenses.—
 
 &emsp;&emsp;(A)
 
-In general.—A member of a committee established under this subsection, when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
+In general.—A member of a committee established under this subsection,when attending meetings of the committee or when otherwise engaged in the business of the committee, is entitled to receive—
 
 &emsp;&emsp;&emsp;(i) compensation at a rate fixed by the Secretary, not exceeding the daily equivalent of the current rate of basic pay in effect for GS–15 of the General Schedule under section 5332 of title 5 including travel time; and
 
@@ -178,7 +178,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), (7), is Pu
 
 <b>2018</b>—Pub. L. 115–282, §602(a), amended section generally. Prior to amendment, section required Secretary to establish a National Maritime Security Advisory Committee and authorized Secretary to establish an Area Maritime Security Advisory Committee for any port area of the United States.
 
-Subsec. (a)(1)(A). Pub. L. 115–254 inserted ", including on enhancing the sharing of information related tocybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—" in introductory provisions and added cls. (i) to (vi).
+Subsec. (a)(1)(A). Pub. L. 115–254 inserted ", including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—" in introductory provisions and added cls. (i) to (vi).
 
 <b>2010</b>—Subsec. (b)(5). Pub. L. 111–281, §810(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: "The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas."
 

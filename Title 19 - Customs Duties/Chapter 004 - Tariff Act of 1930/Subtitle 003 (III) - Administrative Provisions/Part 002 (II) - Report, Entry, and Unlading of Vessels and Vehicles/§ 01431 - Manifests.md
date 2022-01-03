@@ -72,6 +72,8 @@ Any manifest required by the Customs Service shall be signed, produced, delivere
 
 (June 17, 1930, ch. 497, title IV, §431, 46 Stat. 710; Aug. 8, 1953, ch. 397, §15, 67 Stat. 516; Pub. L. 98–573, title II, §203, Oct. 30, 1984, 98 Stat. 2974; Pub. L. 100–690, title VII, §7367(c)(1), Nov. 18, 1988, 102 Stat. 4479; Pub. L. 103–182, title VI, §635, Dec. 8, 1993, 107 Stat. 2199; Pub. L. 104–153, §11, July 2, 1996, 110 Stat. 1389; Pub. L. 104–295, §3(a)(3), Oct. 11, 1996, 110 Stat. 3515.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(2)(C)(i), (ii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -103,6 +105,8 @@ Subsec. (d). Pub. L. 103–182, §635(2), added subsec. (d).
 Subsec. (c). Pub. L. 98–573, §203(2), added subsec. (c).
 
 <b>1953</b>—Act Aug. 8, 1953, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

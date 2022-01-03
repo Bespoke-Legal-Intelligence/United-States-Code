@@ -20,7 +20,7 @@
 
 (3) The label statements required by paragraph (1) shall be introduced by each tobacco product manufacturer, packager, importer, distributor, or retailer of smokeless tobacco products concurrently into the distribution chain of such products.
 
-(4) The provisions of this subsection do not apply to a tobacco product manufacturer or distributor of any smokeless tobacco product that does not manufacture, package, or importsmokeless tobacco products for sale or distribution within the United States.
+(4) The provisions of this subsection do not apply to a tobacco product manufacturer or distributor of any smokeless tobacco product that does not manufacture, package, or import smokeless tobacco products for sale or distribution within the United States.
 
 (5) A retailer of smokeless tobacco products shall not be in violation of this subsection for packaging that—
 
@@ -76,6 +76,8 @@ The Secretary may, by a rulemaking conducted under section 553 of title 5, adjus
 
 (Pub. L. 99–252, §3, Feb. 27, 1986, 100 Stat. 30; Pub. L. 111–31, div. A, title II, §§204(a), 205(a), June 22, 2009, 123 Stat. 1846, 1848.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4) and (d), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -85,6 +87,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(4) and (d)
 <b>2009</b>—Pub. L. 111–31, §204(a), amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to smokeless tobacco warning labels and television and radio advertising.
 
 Subsec. (d). Pub. L. 111–31, §205(a), amended section as amended by Pub. L. 111–31, §204, by adding subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) General authorization
 
-(1) Subject to the availability of funds appropriated to carry out this section, the Secretary shall award program grants to each of the postgraduate institutions listed in subsection (e) that is determined by the Secretary to be making a substantial contribution to the legal, medical, dental, veterinary, or other graduate education opportunities in mathematics, engineering, or the physical or natural sciences for Black Americans.
+(1) Subject to the availability of funds appropriated to carry out this section, the Secretaryshall award program grants to each of the postgraduate institutions listed in subsection (e) that is determined by the Secretary to be making a substantial contribution to the legal, medical, dental, veterinary, or other graduate education opportunities in mathematics, engineering, or the physical or natural sciences for Black Americans.
 
 (2) No grant in excess of $1,000,000 may be made under this section unless the postgraduate institution provides assurances that 50 percent of the cost of the purposes for which the grant is made will be paid from non-Federal sources, except that no institution shall be required to match any portion of the first $1,000,000 of the institution's award from the Secretary. After funds are made available to each eligible institution under the funding rules described in subsection (f), the Secretary shall distribute, on a pro rata basis, any amounts which were not so made available (by reason of the failure of an institution to comply with the matching requirements of this paragraph) among the institutions that have complied with such matching requirement.
 
@@ -106,7 +106,7 @@ Any institution eligible for a grant under this section shall submit an applicat
 
 #### (2) Qualified graduate program
 
-&emsp;(A) For the purposes of this section, the term "qualified graduate program" means a graduate or professional program that provides a program of instruction in law or in thephysical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
+&emsp;(A) For the purposes of this section, the term "qualified graduate program" means a graduate or professional program that provides a program of instruction in law or in the physical or natural sciences, engineering, mathematics, psychometrics, or other scientific discipline in which African Americans are underrepresented and has students enrolled in such program at the time of application for a grant under this section.
 
 &emsp;(B) Notwithstanding the enrollment requirement contained in subparagraph (A), an institution may use an amount equal to not more than 10 percent of the institution's grant under this section for the development of a new qualified graduate program.
 
@@ -150,7 +150,9 @@ Notwithstanding paragraphs (2) and (3) of subsection (f), no institution or qual
 
 No institution that is eligible for and receives an award under section 1102a, 1136a, or 1136b of this title for a fiscal year shall be eligible to apply for a grant, or receive grant funds, under this section for the same fiscal year.
 
-(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328; Pub. L. 105–244, title III, §304(b), Oct. 7, 1998, 112 Stat. 1643; Pub. L. 110–315, title III, §311, Aug. 14, 2008, 122 Stat. 3178.)
+(Pub. L. 89–329, title III, §326, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1297; amended Pub. L. 100–50, §2(a)(9), (10), June 3, 1987, 101 Stat. 335; Pub. L. 102–325, title III, §303(f)(1), (g), July 23, 1992, 106 Stat. 475, 476; Pub. L. 103–208, §2(a)(9), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 104–141, §2, May 6, 1996, 110 Stat. 1328; Pub. L. 105–244, title III, §304(b), Oct. 7, 1998,112 Stat. 1643; Pub. L. 110–315, title III, §311, Aug. 14, 2008, 122 Stat. 3178.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -247,6 +249,8 @@ Subsec. (f). Pub. L. 102–325, §303(g), added subsec. (f).
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–50, §2(a)(9), inserted "except that the Morehouse School of Medicine shall receive at least $3,000,000".
 
 Subsec. (c)(3). Pub. L. 100–50, §2(a)(10), made technical amendment to reference to section 1065 of this title to correct reference to corresponding section of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

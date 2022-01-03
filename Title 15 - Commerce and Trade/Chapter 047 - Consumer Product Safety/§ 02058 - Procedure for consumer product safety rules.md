@@ -40,7 +40,7 @@ No consumer product safety rule may be proposed by the Commission unless the Com
 
 &emsp;(3) a discussion of the reasons for the Commission's preliminary determination that efforts proposed under subsection (a)(6) and assisted by the Commission as required by section 2054(a)(3) of this title would not, within a reasonable period of time, be likely to result in the development of a voluntary consumer product safety standard that would eliminate or adequately reduce the risk of injury addressed by the proposed rule; and
 
-&emsp;(4) a description of any reasonable alternatives to the proposed rule, together with asummary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed rule.
+&emsp;(4) a description of any reasonable alternatives to the proposed rule, together with a summary description of their potential costs and benefits, and a brief explanation of why such alternatives should not be published as a proposed rule.
 
 > The Commission shall transmit such notice within 10 calendar days to the appropriate Congressional committees. Any proposed consumer product safety rule shall be issued within twelve months after the date of publication of the notice, unless the Commission determines that such proposed rule is not reasonably necessary to eliminate or reduce the risk of injury associated with the product or is not in the public interest. The Commission may extend the twelve-month period for good cause. If the Commission extends such period, it shall immediately transmit notice of such extension to the appropriate Congressional committees. Such notice shall include an explanation of the reasons for such extension, together with an estimate of the date by which the Commission anticipates such rulemaking will be completed. The Commission shall publish notice of such extension and the information submitted to the Congress in the Federal Register. Nothing in this subsection shall preclude any person from submitting an existing standard or portion of a standard as a proposed consumer product safety standard.
 
@@ -90,7 +90,7 @@ A consumer product safety rule shall express in the rule itself the risk of inju
 
 &emsp;(C) in the case of a rule declaring the product a banned hazardous product, that no feasible consumer product safety standard under this chapter would adequately protect the public from the unreasonable risk of injury associated with such product;
 
-&emsp;(D) in the case of a rule which relates to a risk of injury with respect to which personswho would be subject to such rule have adopted and implemented a voluntary consumer product safety standard, that—
+&emsp;(D) in the case of a rule which relates to a risk of injury with respect to which persons who would be subject to such rule have adopted and implemented a voluntary consumer product safety standard, that—
 
 &emsp;&emsp;(i) compliance with such voluntary consumer product safety standard is not likely to result in the elimination or adequate reduction of such risk of injury; or
 
@@ -119,6 +119,8 @@ The Commission may by rule amend or revoke any consumer product safety rule. Suc
 The Commission shall grant, in whole or in part, or deny any petition under section 553(e) of title 5 requesting the Commission to initiate a rulemaking, within a reasonable time after the date on which such petition is filed. The Commission shall state the reasons for granting or denying such petition. The Commission may not deny any such petition on the basis of a voluntary standard unless the voluntary standard is in existence at the time of the denial of the petition, the Commission has determined that the voluntary standard is likely to result in the elimination or adequate reduction of the risk of injury identified in the petition, and it is likely that there will be substantial compliance with the standard.
 
 (Pub. L. 92–573, §9, Oct. 27, 1972, 86 Stat. 1215; Pub. L. 94–284, §9, May 11, 1976, 90 Stat. 506; Pub. L. 95–631, §4(d), Nov. 10, 1978, 92 Stat. 3744; Pub. L. 97–35, title XII, §1203(a), Aug. 13, 1981, 95 Stat. 704; Pub. L. 101–608, title I, §§108(a), 109, 110(a), Nov. 16, 1990, 104 Stat. 3112, 3113; Pub. L. 110–314, title II, §§204(a)(1), 213, 235(c)(3), Aug. 14, 2008, 122 Stat. 3040, 3052, 3074.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -153,6 +155,8 @@ Subsecs. (f) to (h). Pub. L. 97–35 added subsecs. (f) to (h).
 <b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–631 substituted in pars. (1) and (2) reference to section 2056 of this title for prior reference to section 2056(c), (e)(1), or (f) of this title.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–284 inserted provision directing the Commission to take into consideration the special needs of the elderly and the handicapped in promulgating a consumer product safety rule.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

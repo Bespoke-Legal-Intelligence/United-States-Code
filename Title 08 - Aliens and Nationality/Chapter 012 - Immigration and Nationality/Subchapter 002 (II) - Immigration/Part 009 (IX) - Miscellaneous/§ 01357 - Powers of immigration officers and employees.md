@@ -28,7 +28,7 @@ Any officer or employee of the Service designated by the Attorney General, wheth
 
 #### (c) Search without warrant
 
-Any officer or employee of the Service authorized and designated under regulations prescribed by the Attorney General, whether individually or as one of a class, shall have power to conduct a search, without warrant, of the person, and of the personal effects in the possession of any person seeking admission to the United States, concerning whom such officer or employee may have reasonable cause to suspect that grounds exist for denial of admission to the United States under this chapter which would be disclosed by such search.
+Any officer or employee of the Service authorized and designated under regulations prescribed by the Attorney General, whether individually or as one of a class, shall have power to conduct a search, without warrant, of the person, and of the personal effects in the possession of any person seeking admission to the United States, concerning whom such officer or employee may have reasonable cause to suspect that grounds exist for denial of admission to the UnitedStates under this chapter which would be disclosed by such search.
 
 #### (d) Detainer of aliens for violation of controlled substances laws
 
@@ -82,7 +82,7 @@ Notwithstanding any other provision of this section other than paragraph (3) of 
 
 An alien described in section 1101(a)(27)(J) of this title who has been battered, abused, neglected, or abandoned, shall not be compelled to contact the alleged abuser (or family member of the alleged abuser) at any stage of applying for special immigrant juvenile status, including after a request for the consent of the Secretary of Homeland Security under section 1101(a)(27)(J)(iii)(I) of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, titleVIII, §826, Jan. 5, 2006, 119 Stat. 3065; Pub. L. 109–271, §6(g), Aug. 12, 2006, 120 Stat. 763.)
+(June 27, 1952, ch. 477, title II, ch. 9, §287, 66 Stat. 233; Pub. L. 94–550, §7, Oct. 18, 1976, 90 Stat. 2535; Pub. L. 99–570, title I, §1751(d), Oct. 27, 1986, 100 Stat. 3207–47; Pub. L. 99–603, title I, §116, Nov. 6, 1986, 100 Stat. 3384; Pub. L. 100–525, §§2(e), 5, Oct. 24, 1988, 102 Stat. 2610, 2615; Pub. L. 101–649, title V, §503(a), (b)(1), Nov. 29, 1990, 104 Stat. 5048, 5049; Pub. L. 102–232, title III, §306(a)(3), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 104–208, div. C, title I, §133, title III, §308(d)(4)(L), (e)(1)(M), (g)(5)(A)(i), Sept. 30, 1996, 110 Stat. 3009–563, 3009–618, 3009–619, 3009–623; Pub. L. 109–162, title VIII, §826, Jan. 5, 2006, 119 Stat. 3065; Pub. L. 109–271, §6(g), Aug. 12, 2006, 120 Stat. 763.)
 
 #### <b>Editorial Notes</b>
 

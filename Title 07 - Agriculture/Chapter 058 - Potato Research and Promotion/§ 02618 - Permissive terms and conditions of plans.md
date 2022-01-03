@@ -4,7 +4,7 @@ Any plan issued pursuant to this chapter may contain one or more of the followin
 
 #### (a) Exemptions
 
-Providing authority to exempt from the provisions of the plan potatoes used for nonfood uses, and authority for the board to require satisfactory safeguards against improper use of such exemptions.
+Providing authority to exempt from the provisions of the plan potatoes used for nonfood uses,and authority for the board to require satisfactory safeguards against improper use of such exemptions.
 
 #### (b) Handler payment and reporting schedules
 
@@ -39,6 +39,8 @@ Providing for authority to assess imports of tablestock, frozen, or processed po
 Terms and conditions incidental to and not inconsistent with the terms and conditions specified in this chapter and necessary to effectuate the other provisions of such plan.
 
 (Pub. L. 91–670, title III, §309, Jan. 11, 1971, 84 Stat. 2044; Pub. L. 101–624, title XIX, §1941, Nov. 28, 1990, 104 Stat. 3867.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

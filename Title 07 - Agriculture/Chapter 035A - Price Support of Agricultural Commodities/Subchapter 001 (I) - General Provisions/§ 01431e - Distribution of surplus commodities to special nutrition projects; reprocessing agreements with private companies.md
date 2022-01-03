@@ -6,15 +6,17 @@
 
 (B) To maintain eligibility to enter into, and to continue, any agreement with the Secretary of Agriculture under subparagraph (A), a private company shall annually settle all accounts with the Secretary and any appropriate State agency regarding commodities processed under such agreements.
 
-(C) Whenever commodities are made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965, the Secretary shallencourage access to processed end products containing the commodities when in the Secretary's judgment it is cost effective. The requirements of this subparagraph shall be met in the most efficient and effective way possible. The Secretary may, among other alternatives, use direct purchase, State option contracts authorized under section 3A of the Commodity Distribution Reform Act and WIC Amendments of 1987 (Public Law 100–237; 7 U.S.C. 612c note), State processing programs, and (beginning in fiscal year 1994) agreements with private companies operated as a part of the national commodity processing program.
+(C) Whenever commodities are made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965, the Secretary shall encourage access to processed end products containing the commodities when in the Secretary's judgment it is cost effective. The requirements of this subparagraph shall be met in the most efficient and effective way possible. The Secretary may, among other alternatives, use direct purchase, State option contracts authorized under section 3A of the Commodity Distribution Reform Act and WIC Amendments of 1987 (Public Law 100–237; 7 U.S.C. 612c note), State processing programs, and (beginning in fiscal year 1994) agreements with private companies operated as a part of the national commodity processing program.
 
 (D) In each of fiscal years 1992, 1993, and 1994, the Secretary shall conduct a pilot project in not more than three States under which any commodity made available to agencies pursuant to section 311(a)(4) <sup>1</sup> of the Older Americans Act of 1965 that the Secretary determines to be appropriate for reprocessing is made available to the agencies as reprocessed end products. The reprocessing shall be performed pursuant to agreements with private companies, at the expense of the agencies, and operated as part of the national commodity processing program established under subparagraph (A). In determining the appropriateness of the commodities to be reprocessed under the pilot project, the Secretary shall consider the common needs of the agencies and the availability of processors.
 
 (Pub. L. 97–98, title XI, §1114(a), Dec. 22, 1981, 95 Stat. 1269; Pub. L. 99–198, title XV, §1567(a), (b), Dec. 23, 1985, 99 Stat. 1591, 1592; Pub. L. 100–237, §6, Jan. 8, 1988, 101 Stat. 1740; Pub. L. 101–624, title XVII, §1775, Nov. 28, 1990, 104 Stat. 3813; Pub. L. 102–237, title IX, §921, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 104–127, title IV, §405, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title IV, §4203, May 13, 2002, 116 Stat. 330; Pub. L. 110–234, title IV, §4406(b)(4), May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, §4(a), title IV, §4406(b)(4), June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title IV, §4103, Feb. 7, 2014, 128 Stat. 820; Pub. L. 115–334, title IV, §4103, Dec. 20, 2018, 132 Stat. 4655.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to section 3030a of Title 42, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
+The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to section 3030a of Title42, was amended by Pub. L. 106–501, title III, §309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
 #### Codification
 
@@ -43,6 +45,8 @@ Par. (2)(C), (D). Pub. L. 101–624, §1775(b), added subpars. (C) and (D).
 <b>1988</b>—Par. (2)(A). Pub. L. 100–237 substituted "September 30, 1990" for "June 30, 1987".
 
 <b>1985</b>—Pub. L. 99–198 designated existing provisions as par. (1), inserted provision directing that commodities made available under this section include, but not be limited to, dairy products, wheat or the products thereof, rice, honey, and cornmeal, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

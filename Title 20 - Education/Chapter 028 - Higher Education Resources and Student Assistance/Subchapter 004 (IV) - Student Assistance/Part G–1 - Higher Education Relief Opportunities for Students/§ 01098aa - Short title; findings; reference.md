@@ -26,6 +26,8 @@ References in this part to "the Act" are references to the Higher Education Act 
 
 (Pub. L. 108–76, §1, Aug. 18, 2003, 117 Stat. 904.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsec. (c), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
@@ -36,11 +38,13 @@ Section was formerly set out in a note under section 1070 of this title.
 
 Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Sense of Congress
 
 Pub. L. 110–93, §1, Sept. 30, 2007, 121 Stat. 999, provided that: "It is the sense of Congress that—
 
-&emsp;"(1) the Higher Education Relief Opportunities for Students Act of 2003 \[this part\] addresses the unique situations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their Federal student loans; and
+&emsp;"(1) the Higher Education Relief Opportunities for Students Act of 2003 \[this part\] addresses the uniquesituations that active duty military personnel and other affected individuals may face in connection with their enrollment in postsecondary institutions and their Federal student loans; and
 
 &emsp;"(2) the provisions authorized by such Act should be made permanent, thereby allowing the Secretary of Education to continue providing assistance to active duty service members and other affected individuals and their families."
 

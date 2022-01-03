@@ -22,7 +22,7 @@ The commissioned grades in the Marine Corps above the grade of chief warrant off
 
 &emsp;(10) Second lieutenant.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 314, §5502; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5,1991, 105 Stat. 1506; renumbered §8112, Pub. L. 115–232, div. A, title VIII, §807(b)(2), Aug. 13, 2018, 132 Stat. 1834.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 314, §5502; Pub. L. 102–190, div. A, title XI, §1131(8)(A), Dec. 5, 1991, 105 Stat. 1506; renumbered §8112, Pub. L. 115–232, div. A, title VIII, §807(b)(2), Aug. 13, 2018, 132 Stat. 1834.)
 
 Historical and Revision Notes
 
@@ -60,11 +60,15 @@ R.S. 1603 provides that officers of the Marine Corps shall be on the same footin
 
 The provisions of the Act of July 1, 1918, ch. 114, 40 Stat. 715 (1st par.), pertaining to the appointment of a major general in addition to the Major General Commandant and a temporary major general were superseded by the Act of May 29, 1934, ch. 367, §2, 48 Stat. 812, which in turn was repealed by §436(e) of the Officer Personnel Act of 1947, 61 Stat. 882.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5502 of this title as this section.
 
 <b>1991</b>—Pub. L. 102–190 substituted "W–5" for "W–4" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

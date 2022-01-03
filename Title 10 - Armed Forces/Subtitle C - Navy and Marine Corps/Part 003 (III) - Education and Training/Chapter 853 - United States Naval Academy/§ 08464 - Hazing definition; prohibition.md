@@ -1,6 +1,6 @@
 ### §8464. Hazing: definition; prohibition
 
-(a) In this chapter, the term "hazing" means any unauthorized assumption of authority by a midshipman whereby another midshipman suffers or is exposed to any cruelty, indignity, humiliation, hardship, or oppression, or the deprivation or abridgement of any right.
+(a) In this chapter, the term "hazing" means any unauthorized assumption of authority by amidshipman whereby another midshipman suffers or is exposed to any cruelty, indignity, humiliation, hardship, or oppression, or the deprivation or abridgement of any right.
 
 (b) The Superintendent of the Naval Academy shall prescribe regulations, to be approved by the Secretary of the Navy, to prevent hazing.
 
@@ -60,6 +60,8 @@ In subsection (c) the words "dealt with" are substituted for the words "proceede
 
 In subsections (d) and (e) all that part of the source text preceding the proviso is omitted as superseded by the Uniform Code of Military Justice. The words "in a military or naval prison or elsewhere" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (f). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
@@ -69,6 +71,8 @@ In subsections (d) and (e) all that part of the source text preceding the provis
 <b>1989</b>—Subsec. (a). Pub. L. 101–189 inserted ", the term" after "In this chapter".
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–145 substituted "persons" for "men".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

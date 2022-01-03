@@ -20,9 +20,11 @@ The report of the Secretary shall describe best practices from States with the b
 
 (Pub. L. 110–234, title IV, §4301, May 22, 2008, 122 Stat. 1125; Pub. L. 110–246, §4(a), title IV, §4301, June 18, 2008, 122 Stat. 1664, 1886.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Food and Nutrition Act of 2008, referred to in subsec. (a), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification ofthis Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (a), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
@@ -31,6 +33,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2),
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -42,6 +42,8 @@
 
 (July 1, 1944, ch. 373, title XXVII, §2701, as added and amended Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300gg, act July 1, 1944, ch. 373, title XXVII, §2701, as added Pub. L. 104–191, title I, §102(a), Aug. 21, 1996, 110 Stat. 1955; amended Pub. L. 111–3, title III, §311(b)(2), Feb. 4, 2009, 123 Stat. 70; Pub. L. 111–5, div. B, title I, §1899D(c), Feb. 17, 2009, 123 Stat. 426; Pub. L. 111–344, title I, §114(c), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(3), Oct. 21, 2011, 125 Stat. 419, which related to increased portability through limitation on preexisting condition exclusions, was renumbered section 2704 of act July 1, 1944, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title.
@@ -51,6 +53,8 @@ Another prior section 2701 of act July 1, 1944, was successively renumbered by s
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(5). Pub. L. 111–148, §10103(a), inserted "(other than self-insured group health plans offered in such market)" after "such market".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -110,7 +114,7 @@ Transitional rule.—In the case of an individual who seeks to establish credita
 
 Special rule for collective bargaining agreements.—Except as provided in paragraph (2)(B), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], part A of title XXVII of the Public Health Service Act \[42 U.S.C. 300gg et seq.\] (other than section 2701(e) \[now 2704(e)\] thereof \[42 U.S.C. 300gg–3(e)\]) shall not apply to plan years beginning before the later of—
 
-&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
+&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extensionthereof agreed to after the date of the enactment of this Act), or
 
 &emsp;"(B) July 1, 1997.
 

@@ -15,6 +15,8 @@ Subpart A—Nonrefundable Personal Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title I, §101(l)(10), Mar. 23, 2018, 132 Stat. 1165, substituted "American Opportunity and Lifetime Learning credits" for "Hope and Lifetime Learning credits" in item 25A.

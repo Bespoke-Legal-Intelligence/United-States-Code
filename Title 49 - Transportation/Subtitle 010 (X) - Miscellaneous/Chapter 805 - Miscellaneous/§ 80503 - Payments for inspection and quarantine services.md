@@ -18,7 +18,7 @@ General.—(1) In this subsection—
 
 (b)
 
-Limitations on Reimbursement.—(1) An owner or operator of an aircraft is required to reimburse the head of a department, agency, or instrumentality of the Government for the expenses of performing an inspection or quarantine service related to the aircraft at a place of inspection during regular service hours on aSunday or holiday only to the same extent that an owner or operator makes reimbursement for the service during regular service hours on a weekday. The head of the department, agency, or instrumentality may not assess an owner or operator of an aircraft for administrative overhead expenses for inspection or quarantine service provided by the department, agency, or instrumentality at an entry airport.
+Limitations on Reimbursement.—(1) An owner or operator of an aircraft is required to reimburse the head of a department, agency, or instrumentality of the Government for the expenses of performing an inspection or quarantine service related to the aircraft at a place of inspection during regular service hours on a Sunday or holiday only to the same extent that an owner or operator makes reimbursement for the service during regular service hours on a weekday. The head of the department, agency, or instrumentality may not assess an owner or operator of an aircraft for administrative overhead expenses for inspection or quarantine service provided by the department, agency, or instrumentality at an entry airport.
 
 (2) This subsection does not require reimbursement for costs incurred by the Secretary of the Treasury in providing customs services described in section 13031(e)(1) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(e)(1)).
 
@@ -59,6 +59,8 @@ In subsection (a)(1), the word "passengers" is substituted for "persons" for con
 In subsection (a)(2), the words "or any other provisions of law" are omitted as unnecessary. The words "on or after July 1, 1970" are omitted as executed. The words "upon the request of such owner, operator, or agent" are omitted as unnecessary. The words "from 5 p.m. through 8 a.m." are substituted for "at any time after 5 o'clock postmeridian or before 8 o'clock antemeridian" to eliminate unnecessary words. The words "Notwithstanding any other provision of law" are omitted as unnecessary because of the restatement. The words "the owner, operator, or agent does not have to pay" are substituted for "no payment shall be required" for clarity. The words "from 5 p.m. through 8 a.m." after "the services" are added for clarity. The words "an officer or employee on regular duty" are substituted for "an officer or employee stationed on his regular tour of duty" to eliminate unnecessary words.
 
 In subsection (b)(1), the words "related to the aircraft" are substituted for "as a consequence of the operation of aircraft", and the words "a place of inspection" are substituted for "at airports of entry or other places of inspection", to eliminate unnecessary words. The words "The head of the department, agency, or instrumentality may not assess" are substituted for "shall not be assessed against" because of the restatement. The word "expenses" is substituted for "costs" for consistency in this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

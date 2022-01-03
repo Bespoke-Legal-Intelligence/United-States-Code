@@ -48,7 +48,7 @@ Based on Bus Vehicle Revenue Miles and Passenger Miles.—Of the amount apportio
 
 &emsp;&emsp;(A) 73.39 percent of the 90.8 percent apportioned under this paragraph shall be apportioned so that each urbanized area with a population of at least 1,000,000 is entitled to receive an amount equal to—
 
-&emsp;&emsp;&emsp;(i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus vehicle revenue miles operated in or directly serving the urbanized area divided by the total bus vehicle revenue miles attributable to all areas;
+&emsp;&emsp;&emsp;(i) 50 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the total bus vehicle revenue miles operated in or directly serving the urbanized area divided by the totalbus vehicle revenue miles attributable to all areas;
 
 &emsp;&emsp;&emsp;(ii) 25 percent of the 73.39 percent apportioned under this subparagraph multiplied by a ratio equal to the population of the area divided by the total population of all areas, as shown in the most recent decennial census; and
 
@@ -78,13 +78,13 @@ Date of Apportionment.—The Secretary shall—
 
 (e)
 
-Amounts Not Apportioned to Designated Recipients.—The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient, as defined in section 5302(4).
+Amounts Not Apportioned to Designated Recipients.—The Governor of a State may expend in an urbanized area with a population of less than 200,000 an amount apportioned under this section that is not apportioned to a designated recipient.
 
 (f)
 
-Transfers of Apportionments.—(1) The Governor of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3). The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
+Transfers of Apportionments.—(1) The Governor of a State may transfer any part of the State's apportionment under subsection (a)(1) of this section to supplement amounts apportioned to the State under section 5311(c)(3).<sup>1</sup> The Governor may make a transfer only after consulting with responsible local officials and publicly owned operators of public transportation in each area for which the amount originally was apportioned under this section.
 
-(2) The Governor of a State may transfer any part of the State's apportionment under section 5311(c)(3) to supplement amounts apportioned to the State under subsection (a)(1) of this section.
+(2) The Governor of a State may transfer any part of the State's apportionment under section 5311(c)(3)<sup>1</sup> to supplement amounts apportioned to the State under subsection (a)(1) of this section.
 
 (3) The Governor of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
@@ -104,13 +104,9 @@ Apportionments.—Of the amounts made available for each fiscal year under secti
 
 &emsp;(2) 3.07 percent shall be apportioned to urbanized areas in accordance with subsection (j);
 
-&emsp;(3) of amounts not apportioned under paragraphs (1) and (2)—
+&emsp;(3) of amounts not apportioned under paragraphs (1) and (2), 3 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
 
-&emsp;&emsp;(A) for fiscal years 2016 through 2018, 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i); and
-
-&emsp;&emsp;(B) for fiscal years 2019 and 2020, 2 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i);
-
-&emsp;(4) 0.5 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
+&emsp;(4) 0.75 percent shall be apportioned to eligible States for State safety oversight program grants in accordance with section 5329(e)(6); and
 
 &emsp;(5) any amount not apportioned under paragraphs (1), (2), (3), and (4) shall be apportioned to urbanized areas in accordance with subsections (a) through (c).
 
@@ -174,7 +170,7 @@ Apportionment Formula.—The amounts apportioned under subsection (h)(2) shall b
 
 &emsp;&emsp;(B) the number of eligible low-income individuals in all such urbanized areas.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 840; Pub. L. 104–287, §5(19), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §§3027(a), (b), 3029(b)(10), (11), June 9, 1998, 112 Stat. 366, 373; Pub. L. 109–59, title III, §§3002(b)(4), 3034, Aug. 10, 2005, 119 Stat. 1545, 1627; Pub. L. 110–244, title II, §201(l), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20026, July 6, 2012, 126 Stat. 719; Pub. L. 113–159, title I, §1202, Aug. 8, 2014, 128 Stat. 1845; Pub. L. 114–21, title I, §1202, May 29, 2015, 129 Stat. 223; Pub. L. 114–41, title I, §1202, July 31, 2015, 129 Stat. 450; Pub. L. 114–73, title I, §1202, Oct. 29, 2015, 129 Stat. 573; Pub. L. 114–87, title I, §1202, Nov. 20, 2015, 129 Stat. 682; Pub. L. 114–94, div. A, title III, §3014, Dec. 4, 2015, 129 Stat. 1478; Pub. L. 117–58, div. C, §§30001(b)(3), 30015(a), (b)(1), Nov. 15, 2021, 135 Stat. 890, 910.)
 
 Historical and Revision Notes
 
@@ -294,7 +290,7 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(<i>o</i>); added Jan. 6, 1983,
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §9(s); added Dec. 18, 1991, Pub. L. 102–240, §3013(j), 105 Stat. 2108.
 
-In this section, the word "apportioned" is substituted for "available", "shall be available for expenditure", "made available", and "made available for expenditure" for clarity and consistency in this chapter.
+In this section, the word "apportioned" is substituted for "available", "shall be available for expenditure","made available", and "made available for expenditure" for clarity and consistency in this chapter.
 
 In subsection (a)(1), before subclause (A), the words "the sum of" are omitted as surplus.
 
@@ -326,7 +322,23 @@ In subsection (k), the text of 49 App.:1607a(s)(1) is omitted as obsolete.
 
 This amends 49:5336(b)(2) to clarify the restatement of 49 App.:1607a(b) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 840).
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 5311(c)(3), referred to in subsec. (f)(1), (2), was redesignated section 5311(c)(4) by Pub. L. 117–58, div. C, §30006(1)(A), Nov. 15, 2021, 135 Stat. 900.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–58, §30001(b)(3), struck out ", as defined in section 5302(4)" after "designated recipient".
+
+Subsec. (h)(3). Pub. L. 117–58, §30015(a), substituted "paragraphs (1) and (2), 3 percent" for "paragraphs (1) and (2)—
+
+&emsp;"(A) for fiscal years 2016 through 2018, 1.5 percent shall be apportioned to urbanized areas with populations of less than 200,000 in accordance with subsection (i); and
+
+&emsp;"(B) for fiscal years 2019 and 2020, 2 percent".
+
+Subsec. (h)(4). Pub. L. 117–58, §30015(b)(1), substituted "0.75 percent" for "0.5 percent".
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §3014(1), substituted "subsection (h)(5)" for "subsection (h)(4)" in introductory provisions.
 
@@ -400,6 +412,12 @@ Subsec. (e)(1). Pub. L. 105–178, §3029(b)(11), substituted "subsections (a) a
 
 Subsec. (b)(2)(C) to (E). Pub. L. 104–287, §5(19)(B), (C), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: "An urbanized area with a population of at least 750,000 in which commuter rail transportation is provided shall receive at least .75 percent of the total amount apportioned under this subsection."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. C, §30015(b)(2), Nov. 15, 2021, 135 Stat. 910, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to fiscal year 2022 and each fiscal year thereafter."
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -419,4 +437,6 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 #### Urbanized Area Formula Study
 
 Pub. L. 105–178, title III, §3033, June 9, 1998, 112 Stat. 386, required the Secretary of Transportation to conduct a study on the success of the formula used to apportion funds to urbanized areas and to submit a report no later than Dec. 31, 1999.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

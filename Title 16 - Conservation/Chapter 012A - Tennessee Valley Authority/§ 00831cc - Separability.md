@@ -4,6 +4,8 @@ The sections of this chapter are declared to be separable, and in the event any 
 
 (May 18, 1933, ch. 32, §30, 48 Stat. 72; Aug. 31, 1935, ch. 836, §15, 49 Stat. 1081.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1935</b>—Act Aug. 31, 1935, reenacted provisions of this section without change.

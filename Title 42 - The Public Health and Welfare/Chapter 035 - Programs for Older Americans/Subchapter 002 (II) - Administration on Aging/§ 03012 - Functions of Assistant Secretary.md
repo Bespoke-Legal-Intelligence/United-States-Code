@@ -28,7 +28,7 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(10) coordinate Federal programs and activities related to such purposes;
 
-&emsp;(11) coordinate, and assist in, the planning and development by public (including Federal, State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
+&emsp;(11) coordinate, and assist in, the planning and development by public (including Federal,State, and local agencies) and private organizations of programs for older individuals, with a view to the establishment of a nationwide network of comprehensive, coordinated services and opportunities for such individuals;
 
 &emsp;(12)(A) consult and coordinate activities with the Administrator of the Centers for Medicare \& Medicaid Services and the heads of other Federal entities to implement and build awareness of programs providing benefits affecting older individuals; and
 
@@ -152,11 +152,11 @@ It shall be the duty and function of the Administration to—
 
 &emsp;(33) with input from aging network stakeholders, including caregivers, develop objectives, priorities, and a long-term plan for supporting State and local efforts involving education about prevention of, detection of, and response to negative health effects associated with social isolation among older individuals, and submit a report to Congress on this effort by January 2021; and
 
-&emsp;(34) provide (to the extent practicable) a standardized notification to State agencies, area agencies on aging, providers of services under this chapter, and grantees or contract awardees under this chapter, through an electronic format (e-mail or other electronic notification), of the availability of, or updates to, policies, practices, and procedures under this chapter.
+&emsp;(34) provide (to the extent practicable) a standardized notification to State agencies,area agencies on aging, providers of services under this chapter, and grantees or contract awardees under this chapter, through an electronic format (e-mail or other electronic notification), of the availability of, or updates to, policies, practices, and procedures under this chapter.
 
 #### (b) Development and implementation of comprehensive, coordinated systems for long-term care
 
-To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in homeand community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
+To promote the development and implementation of comprehensive, coordinated systems at Federal, State, and local levels that enable older individuals to receive long-term care in home and community-based settings, in a manner responsive to the needs and preferences of older individuals and their family caregivers, the Assistant Secretary shall, consistent with the applicable provisions of this subchapter—
 
 &emsp;(1) collaborate, coordinate, and consult with other Federal entities responsible for formulating and implementing programs, benefits, and services related to providing long-term care, and may make grants, contracts, and cooperative agreements with funds received from other Federal entities;
 
@@ -276,7 +276,7 @@ The Assistant Secretary, in consultation with the Chief Executive Officer of the
 
 &emsp;&emsp;(III) data from other Federal agencies on the health, social, and economic status of older individuals and on the services provided to older individuals;
 
-&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected onthe functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
+&emsp;(iii) biennially compile, analyze, publish, and disseminate statistical data collected on the functions, staffing patterns, and funding sources of State agencies and area agencies on aging;
 
 &emsp;(iv) analyze the information collected under section 3011(c)(3)(F) of this title by the Director of the Office for American Indian, Alaskan Native, and Native Hawaiian Aging;
 
@@ -336,11 +336,13 @@ The Assistant Secretary shall publish, on an annual basis, a list of centers and
 
 The Assistant Secretary shall carry out the RAISE Family Caregivers Act (42 U.S.C. 3030s note).
 
-(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171, §§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 114–144, §§3(b), 9(3), Apr. 19, 2016, 130 Stat. 336, 352; Pub. L. 116–131, title I, §§114–117(a), 118(a), 122(a), 123(b), title VII, §701(2), (3), Mar. 25, 2020, 134 Stat. 245, 246, 248, 271.)
+(Pub. L. 89–73, title II, §202, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(b), May 3, 1973, 87 Stat. 31; Pub. L. 94–135, title I, §114(b), (c), Nov. 28, 1975, 89 Stat. 725; Pub. L. 95–478, title I, §102(a), title V, §503(b)(2), (4), Oct. 18, 1978, 92 Stat. 1513, 1559; Pub. L. 97–115, §§2(b), (c), 3(d), Dec. 29, 1981, 95 Stat. 1595, 1597; Pub. L. 98–459, title II, §202, Oct. 9, 1984, 98 Stat. 1768; Pub. L. 100–175, title I, §§103(a), 105(a), 106(a), 155(a), Nov. 29, 1987, 101 Stat. 928, 930, 952; Pub. L. 102–321, title I, §163(c)(2)(A), July 10, 1992, 106 Stat. 377; Pub. L. 102–375, title I, §102(b)(10)(A), title II, §202(a)–(f), title VII, §708(c)(1), title IX, §904(a)(4), Sept. 30, 1992, 106 Stat. 1202, 1205–1208, 1292, 1306; Pub. L. 103–82, title IV, §405(g)(1), Sept. 21, 1993, 107 Stat. 921; Pub. L. 103–171,§§2(2), (3), 3(a)(3), Dec. 2, 1993, 107 Stat. 1988, 1990; Pub. L. 106–501, title II, §201, title VIII, §801(b)(2), Nov. 13, 2000, 114 Stat. 2229, 2291; Pub. L. 109–365, title II, §202, Oct. 17, 2006, 120 Stat. 2528; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(BB), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(BB), June 18, 2008, 122 Stat. 1664, 1857, 1859; Pub. L. 114–144, §§3(b), 9(3), Apr. 19, 2016, 130 Stat. 336, 352; Pub. L. 116–131, title I, §§114–117(a), 118(a), 122(a), 123(b), title VII, §701(2), (3), Mar. 25, 2020, 134 Stat. 245, 246, 248, 271.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Social Security Act, referred to in subsecs. (a)(12)(B)(i), (17)(B), (20)(A)(i), (ii) and (b)(4)(A), (8)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XVIII, and XIX of that Act are classified generally to subchapters XVI (§1381 et seq.), XVIII (§1395 et seq.),and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (a)(12)(B)(i), (17)(B), (20)(A)(i), (ii) and (b)(4)(A), (8)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XVIII, and XIX of that Act are classified generally to subchapters XVI (§1381 et seq.), XVIII (§1395 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 The Age Discrimination in Employment Act of 1967, referred to in subsec. (a)(12)(B)(ii), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 29 and Tables.
 
@@ -428,7 +430,7 @@ Subsec. (a)(10), (11). Pub. L. 106–501, §201(1)(A), redesignated pars. (11) a
 
 Subsec. (a)(12). Pub. L. 106–501, §201(1)(B), redesignated par. (15) as (12). Former par. (12) redesignated (11).
 
-Subsec. (a)(13), (14). Pub. L. 106–501, §201(1)(B), redesignated pars. (16) and (17) as (13) and (14), respectively,and struck out former pars. (13) and (14), which read as follows:
+Subsec. (a)(13), (14). Pub. L. 106–501, §201(1)(B), redesignated pars. (16) and (17) as (13) and (14), respectively, and struck out former pars. (13) and (14), which read as follows:
 
 "(13) convene conferences of such authorities and officials of public (including Federal, State, and local agencies) and nonprofit private organizations concerned with the development and operation of programs for older individuals as the Assistant Secretary deems necessary or proper for the development and implementation of policies related to the objectives of this chapter;
 
@@ -472,7 +474,7 @@ Subsec. (a)(25). Pub. L. 106–501, §201(1)(B), redesignated par. (28) as (25).
 
 Subsec. (a)(26). Pub. L. 106–501, §801(b)(2)(A)(ii), which directed that par. (26) be amended by substituting "section 3027(a)(13) of this title and section 3058j of this title" for "sections 3027(a)(18) and 3058j(b)(2) of this title", could not be executed because "sections 3027(a)(18) and 3058j(b)(2) of this title" did not appear in text.
 
-Pub. L. 106–501, §201(1)(B), redesignated par. (29) as(26). Former par. (26) redesignated (23).
+Pub. L. 106–501, §201(1)(B), redesignated par. (29) as (26). Former par. (26) redesignated (23).
 
 Subsec. (a)(27). Pub. L. 106–501, §201(1)(I), added par. (27).
 
@@ -494,7 +496,7 @@ Subsec. (c). Pub. L. 106–501, §801(b)(2)(B), struck out par. (1) designation 
 
 Subsec. (d)(4). Pub. L. 106–501, §201(2), substituted "2000" for "1990".
 
-Subsec. (e)(1)(A)(i). Pub. L. 106–501, §801(b)(2)(C)(i), added cl. (i) and struck out former cl. (i) which read as follows: "provide information about education and training projects established under part A, and research and demonstration projects, and other activities, established under part B, of subchapter IV of this chapter to persons requesting such information;".
+Subsec. (e)(1)(A)(i). Pub. L. 106–501, §801(b)(2)(C)(i), added cl. (i) and struck out former cl. (i) which read asfollows: "provide information about education and training projects established under part A, and research and demonstration projects, and other activities, established under part B, of subchapter IV of this chapter to persons requesting such information;".
 
 Subsec. (e)(1)(A)(iv). Pub. L. 106–501, §801(b)(2)(C)(ii), struck out ", and the information provided by the Resource Centers on Native American Elders under section 3035m of this title" before semicolon at end.
 
@@ -600,7 +602,7 @@ Subsec. (a)(8) to (11). Pub. L. 95–478, §102(a)(1), redesignated former pars.
 
 Subsec. (a)(12). Pub. L. 95–478, §§102(a)(1), 503(b)(4), redesignated former par. (11) as (12) and substituted "older individuals" and "such individuals" for "older persons" and "such persons". Former par. (12) redesignated (13).
 
-Subsec. (a)(13). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted "older individuals" for "older persons". Former par. (13) redesignated (14).
+Subsec. (a)(13). Pub. L. 95–478, §§102(a)(1), 503(b)(4)(A), redesignated former par. (12) as (13) and substituted"older individuals" for "older persons". Former par. (13) redesignated (14).
 
 Subsec. (a)(14). Pub. L. 95–478, §102(a)(1), redesignated former par. (13) as (14). Former par. (14) redesignated (15).
 
@@ -615,6 +617,8 @@ Subsec. (a)(8). Pub. L. 94–135, §114(c), struck out "and" after "aged and agi
 <b>1973</b>—Subsec. (a). Pub. L. 93–29, §201(b)(1)–(3), in par. (4), substituted "research" for "research and demonstration programs" and made it the function of the Administration to assist in the establishment of any carry out programs designed to meet the needs of older persons for social services, including nutrition, hospitalization, preretirement training, continuing education, low-cost transportation and housing, and health services; added pars. (9) to (16); and designated existing provisions as subsec. (a), respectively.
 
 Subsec. (b). Pub. L. 93–29, §201(b)(3), added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

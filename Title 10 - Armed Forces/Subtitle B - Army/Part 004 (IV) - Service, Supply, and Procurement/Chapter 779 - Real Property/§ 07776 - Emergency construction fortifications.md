@@ -20,11 +20,15 @@ Apr. 11, 1898, J. Res. 21, 30 Stat. 737.
 
 The word "important" is omitted as covered by the word "urgent". The words "upon which such work is to be placed" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4776 of this title as this section.
 
 <b>1970</b>—Pub. L. 91–393 struck out at end "In such a case, section 175 of title 50 does not apply."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

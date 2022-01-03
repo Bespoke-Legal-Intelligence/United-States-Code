@@ -10,7 +10,7 @@ A person who knowingly and in violation of this part—
 
 &emsp;(3) discloses individually identifiable health information to another person,
 
-> shall be punished as provided in subsection (b). For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosedindividually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization.
+> shall be punished as provided in subsection (b). For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosed individually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization.
 
 #### (b) Penalties
 
@@ -24,9 +24,13 @@ A person described in subsection (a) shall—
 
 (Aug. 14, 1935, ch. 531, title XI, §1177, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2029; amended Pub. L. 111–5, div. A, title XIII, §13409, Feb. 17, 2009, 123 Stat. 271.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–5 inserted at end "For purposes of the previous sentence, a person (including an employee or other individual) shall be considered to have obtained or disclosed individually identifiable health information in violation of this part if the information is maintained by a covered entity (as defined in the HIPAA privacy regulation described in section 1320d–9(b)(3) of this title) and the individual obtained or disclosed such information without authorization."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

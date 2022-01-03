@@ -8,7 +8,7 @@ Section 2486c, Pub. L. 100–147, title II, §205, Oct. 30, 1987, 101 Stat. 871,
 
 Section 2486d, Pub. L. 100–147, title II, §206, Oct. 30, 1987, 101 Stat. 872, related to grants or contracts. See section 40304 of Title 51.
 
-Section 2486e, Pub. L. 100–147, title II, §207, Oct. 30, 1987, 101 Stat. 873, related to identification of specificnational needs and problems relating to space and grants or contracts with respect to such needs or problems. See section 40305 of Title 51.
+Section 2486e, Pub. L. 100–147, title II, §207, Oct. 30, 1987, 101 Stat. 873, related to identification of specific national needs and problems relating to space and grants or contracts with respect to such needs or problems. See section 40305 of Title 51.
 
 Section 2486f, Pub. L. 100–147, title II, §208, Oct. 30, 1987, 101 Stat. 873, related to space grant college and space grant regional consortium. See section 40306 of Title 51.
 

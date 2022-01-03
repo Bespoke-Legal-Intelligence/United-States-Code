@@ -1,8 +1,10 @@
 ### §1963. Purpose and extent of loans
 
-Loans may be made or insured under this subchapter for any purpose authorized for loans under subchapter I or II of this chapter and forcrop or livestock changes that are necessitated by a quarantine, natural disaster, major disaster, or emergency and that are deemed desirable by the applicant, subject to the limitations on the amounts of loans provided in section 1964(a) of this title.
+Loans may be made or insured under this subchapter for any purpose authorized for loans under subchapter I or II of this chapter and for crop or livestock changes that are necessitated by a quarantine, natural disaster, major disaster, or emergency and that are deemed desirable by the applicant, subject to the limitations on the amounts of loans provided in section 1964(a) of this title.
 
 (Pub. L. 87–128, title III, §323, Aug. 8, 1961, 75 Stat. 311; Pub. L. 96–438, §3(b)(1), Oct. 13, 1980, 94 Stat. 1873; Pub. L. 104–127, title VI, §623, Apr. 4, 1996, 110 Stat. 1091; Pub. L. 107–171, title V, §5201(b), May 13, 2002, 116 Stat. 344.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -15,6 +17,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 <b>1996</b>—Pub. L. 104–127 inserted "that are necessitated by a natural disaster, major disaster, or emergency and that are" after "livestock changes".
 
 <b>1980</b>—Pub. L. 96–438 substituted provisions relating to the purposes and extent of loans made or insured under this subchapter for provisions limiting loans to amounts certified by the county committee.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

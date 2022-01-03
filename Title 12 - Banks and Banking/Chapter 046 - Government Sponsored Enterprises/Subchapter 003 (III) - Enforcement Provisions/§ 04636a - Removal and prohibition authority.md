@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(IV) any written agreement between such regulated entity and the Director;
 
-&emsp;&emsp;&emsp;(ii) engaged or participated in any unsafe or unsound practice in connection withany regulated entity or business institution; or
+&emsp;&emsp;&emsp;(ii) engaged or participated in any unsafe or unsound practice in connection with any regulated entity or business institution; or
 
 &emsp;&emsp;&emsp;(iii) committed or engaged in any act, omission, or practice which constitutes a breach of such party's fiduciary duty;
 
@@ -114,7 +114,7 @@ Any person subject to an order issued under this section shall not—
 
 #### (2) Exception if Director provides written consent
 
-&emsp;If, on or after the date on which an order is issued under this section which removes or suspends from office any party, or prohibitssuch party from participating in the conduct of the affairs of a regulated entity or the Office of Finance, such party receives the written consent of the Director, the order shall, to the extent of such consent, cease to apply to such party with respect to the regulated entity or such Office of Finance described in the written consent. Any such consent shall be publicly disclosed.
+&emsp;If, on or after the date on which an order is issued under this section which removes or suspends from office any party, or prohibits such party from participating in the conduct of the affairs of a regulated entity or the Office of Finance, such party receives the written consent of the Director, the order shall, to the extent of such consent, cease to apply to such party with respect to the regulated entity or such Office of Finance described in the written consent. Any such consent shall be publicly disclosed.
 
 #### (3) Violation of paragraph (1) treated as violation of order
 
@@ -180,7 +180,7 @@ Not later than 10 days after the date on which any entity-affiliated party has b
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 days after the date of service of any notice of suspension or orderof removal issued pursuant to paragraph (1) or (2), the entity-affiliated party may request in writing an opportunity to appear before the Director to show that the continued service or participation in the conduct of the affairs of the regulated entity by such party does not, or is not likely to, pose a threat to the interests of the regulated entity, or threaten to impair public confidence in the regulated entity.
+&emsp;&emsp;Not later than 30 days after the date of service of any notice of suspension or order of removal issued pursuant to paragraph (1) or (2), the entity-affiliated party may request in writing an opportunity to appear before the Director to show that the continued service or participation in the conduct of the affairs of the regulated entity by such party does not, or is not likely to, pose a threat to the interests of the regulated entity, or threaten to impair public confidence in the regulated entity.
 
 #### (B) Timing and form of hearing
 

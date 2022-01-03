@@ -24,7 +24,7 @@ The Congress makes the following findings:
 
 The purposes of sections 620 to 620j of this title are—
 
-&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federalresources management plans, and other actions or decisions, affecting the use of forest resources;
+&emsp;(1) to promote the conservation of forest resources in conjunction with State and Federal resources management plans, and other actions or decisions, affecting the use of forest resources;
 
 &emsp;(2) to take action essential for the acquisition and distribution of forest resources or products in short supply in the western United States;
 
@@ -35,6 +35,8 @@ The purposes of sections 620 to 620j of this title are—
 &emsp;(5) to effect measures aimed at meeting these objectives in conformity with the obligations of the United States under the WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19).
 
 (Pub. L. 101–382, title IV, §488, Aug. 20, 1990, 104 Stat. 714; Pub. L. 106–36, title I, §1002(a)(1), June 25, 1999, 113 Stat. 132.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -50,6 +52,8 @@ Sections 620 to 620j of this title, referred to in subsec. (b), was in the origi
 
 Subsec. (b)(5). Pub. L. 106–36, §1002(a)(1)(B), substituted "WTO Agreement and the multilateral trade agreements (as such terms are defined in paragraphs (9) and (4), respectively, of section 3501 of title 19)" for "General Agreement on Tariffs and Trade".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 101–382, title IV, §494, Aug. 20, 1990, 104 Stat. 725, provided that: "Except as otherwise provided in this title, the provisions of this title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note below\] take effect on the date of the enactment of this Act \[Aug. 20, 1990\]."
@@ -64,5 +68,5 @@ Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: "This Act \[a
 
 #### Short Title
 
-Pub. L. 101–382, title IV, §487, Aug. 20, 1990, 104 Stat. 714, provided that: "This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the 'Forest Resources Conservation and Shortage Relief Act of 1990'."
+Pub. L. 101–382, title IV, §487, Aug. 20, 1990, 104 Stat. 714, provided that: "This title \[enacting this sectionand sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the 'Forest Resources Conservation and Shortage Relief Act of 1990'."
 

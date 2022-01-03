@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;No suit or proceeding under section 7422(a) for the recovery of any internal revenue tax, penalty, or other sum, shall be begun before the expiration of 6 months from the date of filing the claim required under such section unless the Secretary renders a decision thereon within that time, nor after the expiration of 2 years from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of the part of the claim to which the suit or proceeding relates.
+&emsp;No suit or proceeding under section 7422(a) for the recovery of any internal revenue tax, penalty, or other sum, shall be begun before the expiration of 6 months from the date of filing the claim required under such section unless the Secretary renders a decision thereonwithin that time, nor after the expiration of 2 years from the date of mailing by certified mail or registered mail by the Secretary to the taxpayer of a notice of the disallowance of the part of the claim to which the suit or proceeding relates.
 
 #### (2) Extension of time
 
@@ -38,6 +38,8 @@ Recovery of an erroneous refund by suit under section 7405 shall be allowed only
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 816; Pub. L. 85–866, title I, §89(b), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–719, title I, §110(b), Nov. 2, 1966, 80 Stat. 1144; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §6(d)(4), Dec. 24, 1980, 94 Stat. 3408; Pub. L. 115–97, title I, §11071(b), Dec. 22, 2017, 131 Stat. 2091.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (c)(1). Pub. L. 115–97, §11071(b)(1), substituted "2 years" for "9 months".
@@ -51,6 +53,8 @@ Subsec. (c)(2). Pub. L. 115–97, §11071(b)(2), substituted "2-year" for "9-mon
 <b>1966</b>—Subsec. (c). Pub. L. 89–719 added subsec. (c).
 
 <b>1958</b>—Subsec. (a)(1), (4). Pub. L. 85–866 inserted "certified mail or" before "registered mail" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

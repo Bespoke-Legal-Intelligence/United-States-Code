@@ -12,7 +12,7 @@ In each fiscal year of the covered period, the Board may not obligate an amount 
 
 #### (b) Excess amounts deposited in escrow account
 
-Assessments collected under section 8705 of this title in excess of the amount permitted to be obligated under subsection (a) in a fiscal year shall be deposited in an escrow account for the duration of the covered period.
+Assessments collected under section 8705 of this title in excess of the amount permitted tobe obligated under subsection (a) in a fiscal year shall be deposited in an escrow account for the duration of the covered period.
 
 #### (c) Treatment of amounts in escrow account
 

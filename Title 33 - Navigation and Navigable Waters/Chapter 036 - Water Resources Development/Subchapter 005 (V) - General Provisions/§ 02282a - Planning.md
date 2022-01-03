@@ -62,7 +62,7 @@ A feasibility study for a project for flood damage reduction shall include, as p
 
 #### (B) List
 
-&emsp;&emsp;Not later than 60 days after the date of the consolidation required under subparagraph (A), the Secretary shall submit to the Committee on Environment and Public Works ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the grade levels and expertise of each of the personnel assigned to the center described in subparagraph (A).
+&emsp;&emsp;Not later than 60 days after the date of the consolidation required under subparagraph (A), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a list of the grade levels and expertise of each of the personnel assigned to the center described in subparagraph (A).
 
 #### (f) Completion of Corps of Engineers reports
 

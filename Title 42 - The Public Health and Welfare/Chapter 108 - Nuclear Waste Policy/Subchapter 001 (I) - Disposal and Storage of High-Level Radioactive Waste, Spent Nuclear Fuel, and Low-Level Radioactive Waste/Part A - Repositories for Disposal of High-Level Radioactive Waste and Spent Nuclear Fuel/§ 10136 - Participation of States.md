@@ -48,7 +48,7 @@ The Secretary shall identify the States with one or more potentially acceptable 
 
 (B) Such grants shall continue until such time as all such activities, development, and operation are terminated at such site.
 
-(4)(A) The State of Nevada or any affected unit of local government may not receive any grantunder paragraph (1) after the expiration of the 1-year period following—
+(4)(A) The State of Nevada or any affected unit of local government may not receive any grant under paragraph (1) after the expiration of the 1-year period following—
 
 &emsp;(i) the date on which the Secretary notifies the Governor and legislature of the State of Nevada of the termination of site characterization activities at the site in such State;
 
@@ -77,6 +77,8 @@ The Secretary shall identify the States with one or more potentially acceptable 
 Whenever the Secretary is required under any provision of this chapter to notify or consult with the governing body of an affected Indian tribe where a site is located, the Secretary shall also notify or consult with, as the case may be, the Governor of the State in which such reservation is located.
 
 (Pub. L. 97–425, title I, §116, Jan. 7, 1983, 96 Stat. 2220; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5032(a), Dec. 22, 1987, 101 Stat. 1330–241.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

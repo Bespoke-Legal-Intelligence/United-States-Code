@@ -12,7 +12,7 @@ In the case of an individual, there shall be allowed as a credit against the tax
 
 #### (1) Per student credit
 
-&emsp;In the case of any eligible student for whom an election is in effect under this section forany taxable year, the American Opportunity Tax Credit is an amount equal to the sum of—
+&emsp;In the case of any eligible student for whom an election is in effect under this section for any taxable year, the American Opportunity Tax Credit is an amount equal to the sum of—
 
 &emsp;&emsp;(A) 100 percent of so much of the qualified tuition and related expenses paid by the taxpayer during the taxable year (for education furnished to the eligible student during any academic period beginning in such taxable year) as does not exceed $2,000, plus
 
@@ -146,7 +146,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of an individual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
+&emsp;&emsp;No credit shall be allowed under subsection (a) to a taxpayer with respect to the qualified tuition and related expenses of anindividual unless the taxpayer includes the name and taxpayer identification number of such individual on the return of tax for the taxable year.
 
 #### (B) Additional identification requirements with respect to American Opportunity Tax Credit
 
@@ -212,11 +212,13 @@ Forty percent of so much of the credit allowed under subsection (a) as is attrib
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085; Pub. L. 115–97, title I, §11002(d)(1)(B), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title I, §101(l)(1)–(9), (11)–(14), title IV, §401(b)(1), Mar. 23, 2018, 132 Stat. 1162–1165, 1201; Pub. L. 116–260, div. EE, title I, §104(a), Dec. 27, 2020, 134 Stat. 3040.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -298,9 +300,11 @@ In general.—No credit shall be allowed under subsection (a) for a taxable year
 
 Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section \[amending this section and sections 62, 74, 86, 135, 137, 219, 221, and 469 of this title and repealing section 222 of this title\] shall apply to taxable years beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section \[amending this section and sections 62, 74, 86, 135, 137, 219, 221, and 469 of this title and repealingsection 222 of this title\] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2018 Amendment
 
@@ -338,7 +342,7 @@ Amendment by Pub. L. 113–295 effective as if included in the provisions of the
 
 Amendment by section 103(a)(1) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2012, see section 103(e)(1) of Pub. L. 112–240, set out as a note under section 24 of this title.
 
-Amendment by section 104(c)(2)(D) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31,2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
+Amendment by section 104(c)(2)(D) of Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under section 23 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -386,7 +390,7 @@ Mirror code possession.—The Secretary of the Treasury shall pay to each posses
 
 &emsp;"(B)
 
-Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) \[now 25A(i)\] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession willpromptly distribute such payments to the residents of such possession.
 
 "(2)
 

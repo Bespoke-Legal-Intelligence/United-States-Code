@@ -8,9 +8,13 @@
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(b)(1), Oct. 5, 1994, 108 Stat. 2989.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3260 and 8260 of this title, prior to repeal by Pub. L. 103–337, §1662(b)(3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

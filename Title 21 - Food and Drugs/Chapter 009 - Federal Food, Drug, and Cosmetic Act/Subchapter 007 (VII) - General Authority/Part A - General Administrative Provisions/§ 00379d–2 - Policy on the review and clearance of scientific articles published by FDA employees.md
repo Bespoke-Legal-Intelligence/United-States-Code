@@ -10,7 +10,7 @@ The Secretary, through the Commissioner of Food and Drugs, shall establish and m
 
 #### (c) Timing of submission for review
 
-If an officer or employee, including a Staff Fellow and a contractor who performs staff work, of the Food and Drug Administration is directed by the policies established under subsection (b) to submit an article to the supervisor of such officer or employee, or to some other official of the Food and Drug Administration, for review and clearance before such officer or employee may seek to publish or present such an article at a conference, such officer or employee shall submit such article for such review and clearance not less than 30 days before submitting the article for publication or presentation.
+If an officer or employee, including a Staff Fellow and a contractor who performs staff work, of the Food and Drug Administration is directed by the policies established under subsection (b) to submit an article to the supervisor of such officer or employee, or to some other official of the Food and Drug Administration, forreview and clearance before such officer or employee may seek to publish or present such an article at a conference, such officer or employee shall submit such article for such review and clearance not less than 30 days before submitting the article for publication or presentation.
 
 #### (d) Timing for review and clearance
 

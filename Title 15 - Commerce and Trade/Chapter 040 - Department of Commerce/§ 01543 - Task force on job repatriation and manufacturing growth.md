@@ -4,9 +4,13 @@ The Secretary of Commerce shall maintain a task force on job repatriation and ma
 
 (Pub. L. 113–235, div. B, title I, Dec. 16, 2014, 128 Stat. 2180.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the appropriation act cited as the credit to this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

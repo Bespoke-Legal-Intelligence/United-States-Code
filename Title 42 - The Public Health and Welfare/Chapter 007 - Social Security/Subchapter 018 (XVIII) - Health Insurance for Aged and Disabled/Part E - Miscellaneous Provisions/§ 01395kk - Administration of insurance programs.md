@@ -20,7 +20,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 &emsp;&emsp;(A) at least 50 percent of all payments under parts A and B are processed through such program beginning within 1 year after July 15, 2008; <sup>1</sup>
 
-&emsp;&emsp;(B) at least 75 percent of all payments under parts A and B are processed throughsuch program beginning within 2 years after July 15, 2008; and
+&emsp;&emsp;(B) at least 75 percent of all payments under parts A and B are processed through such program beginning within 2 years after July 15, 2008; and
 
 &emsp;&emsp;(C) all payments under parts A and B are processed through such program beginning not later than September 30, 2011.
 
@@ -44,7 +44,7 @@ In the course of any hearing, investigation, or other proceeding that he is auth
 
 #### (3) Data described
 
-&emsp;The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts or under subchapters <sup>2</sup> XIX or XXI.
+&emsp;The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. Beginning July 1, 2016, if theSecretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts or under subchapters <sup>2</sup> XIX or XXI.
 
 #### (4) Requirements
 
@@ -124,6 +124,8 @@ The Secretary shall establish and maintain procedures, including procedures for 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, §10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, §105(c), (d), title V, §502(a), Apr. 16, 2015, 129 Stat. 137, 165; Pub. L. 114–255, div. C, title XVII, §17002, Dec. 13, 2016, 130 Stat. 1330.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Railroad Retirement Act of 1974, referred to in subsec. (a), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
@@ -154,6 +156,8 @@ Subsec. (f). Pub. L. 114–10, §502(a), added subsec. (f).
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–97 inserted reference to Railroad Retirement Act of 1937 in first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–148, title X, §10332(b), Mar. 23, 2010, 124 Stat. 970, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2012."
@@ -168,7 +172,7 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 #### Effective Date of 1965 Amendment
 
-Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which FederalInsurance Contributions Act provides may be counted for such calendar year, see Pub. L. 89–97, title I, §111(e), July 30, 1965, 79 Stat. 343.
+Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see Pub. L. 89–97, title I, §111(e), July 30, 1965, 79 Stat. 343.
 
 #### Report
 

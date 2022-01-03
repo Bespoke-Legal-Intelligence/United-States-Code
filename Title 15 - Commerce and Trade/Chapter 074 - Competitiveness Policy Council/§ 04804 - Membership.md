@@ -94,6 +94,8 @@ Except as provided in subsection (g), no action establishing policy shall be tak
 
 (Pub. L. 100–418, title V, §5205, Aug. 23, 1988, 102 Stat. 1457; Pub. L. 101–382, title I, §133(a), Aug. 20, 1990, 104 Stat. 648; Pub. L. 104–65, §12(a), Dec. 19, 1995, 109 Stat. 701.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–65, which directed amendment of section "5206(e) of the Competitiveness Policy Council Act (15 U.S.C. 4804(e))" by inserting "or a lobbyist for a foreign entity (as the terms 'lobbyist' and 'foreign entity' are defined under section 1602 of title 2)" after "an agent for a foreign principal", was executed to section 5205(e) of such Act, which is subsec. (e) of this section, to reflect the probable intent of Congress.
@@ -116,11 +118,13 @@ Subsec. (f). Pub. L. 101–382, §133(a)(2), added subsec. (f) and struck out fo
 
 &emsp;"(B) shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with section 5703 of such title.
 
-"(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additional compensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5."
+"(2) Each member of the Council who is employed by the Federal Government or any State or local government shall serve on the Council without additionalcompensation, but while engaged in duties as a member of the Council shall be paid actual travel expenses, and per diem in lieu of subsistence expenses when away from the usual place of residence of such member, in accordance with subchapter I of chapter 57 of title 5."
 
 Subsec. (l). Pub. L. 101–382, §133(a)(3), struck out subsec. (l) which read as follows: "The Council may procure temporary and intermittent services under section 3109(b) of title 5, but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule."
 
 Subsec. (m). Pub. L. 101–382, §133(a)(3), struck out subsec. (m) which read as follows: "Upon request of the Council, the head of any other Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Council to assist the Council in carrying out its duties under this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

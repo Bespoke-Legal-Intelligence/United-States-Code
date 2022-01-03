@@ -104,6 +104,8 @@ Limitation.—Actions by crew members under this section shall be subject to the
 
 (Added Pub. L. 107–71, title I, §107(a), Nov. 19, 2001, 115 Stat. 610; amended Pub. L. 107–296, title XIV, §1403(a), Nov. 25, 2002, 116 Stat. 2305; Pub. L. 108–176, title VI, §603, Dec. 12, 2003, 117 Stat. 2563; Pub. L. 115–254, div. K, title I, §1991(d)(16), Oct. 5, 2018, 132 Stat. 3635.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(16)(C), substituted "Administrator of the Transportation Security Administration" for "Under Secretary" wherever appearing.
@@ -121,6 +123,8 @@ Subsec. (b)(6). Pub. L. 115–254, §1991(d)(16)(B)(ii), substituted "Federal Ai
 <b>2003</b>—Pub. L. 108–176 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (e) relating to development of detailed guidance for a scheduled passenger air carrier flight and cabin crew training program to prepare crew members for potential threat conditions.
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–296 designated existing provisions as par. (1), inserted heading, substituted "The Under Secretary" for "The Administrator", added pars. (2) and (3), and realigned margins.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

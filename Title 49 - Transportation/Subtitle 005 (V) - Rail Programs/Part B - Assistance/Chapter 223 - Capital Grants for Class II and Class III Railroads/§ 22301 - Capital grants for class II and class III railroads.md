@@ -66,6 +66,8 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 (Added Pub. L. 110–140, title XI, §1112(a), Dec. 19, 2007, 121 Stat. 1758; amended Pub. L. 110–432, div. A, title VII, §701(b), Oct. 16, 2008, 122 Stat. 4906.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this chapter, referred to in subsec. (d), probably means the date of enactment of Pub. L. 110–140, which amended this chapter generally and was approved Dec. 19, 2007.
@@ -74,11 +76,13 @@ The Railway Labor Act, referred to in subsec. (e)(2), is act May 20, 1926, ch. 3
 
 #### Prior Provisions
 
-A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants forlight density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
+A prior section 22301, added Pub. L. 105–178, title VII, §7202(a), June 9, 1998, 112 Stat. 470, related to grants for light density rail line pilot projects, prior to the general amendment of this chapter by Pub. L. 110–140.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1)(A)(iii). Pub. L. 110–432 substituted "or" for "and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

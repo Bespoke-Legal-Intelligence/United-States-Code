@@ -12,7 +12,7 @@
 
 &emsp;(B) The construction of the Advanced Photon Source at the Argonne National Laboratory is hereby authorized.
 
-&emsp;(C) The Secretary shall not change the user fee practice in effect as of October 1, 1991, withrespect to user facilities unless the Secretary notifies Congress 90 days before the effective date of any change.
+&emsp;(C) The Secretary shall not change the user fee practice in effect as of October 1, 1991, with respect to user facilities unless the Secretary notifies Congress 90 days before the effective date of any change.
 
 &emsp;(D) The Secretary shall expedite the design for construction of the Advanced Neutron Source at the Oak Ridge National Laboratory, in order to provide critical research capabilities in support of our national research initiatives for advanced materials and biotechnology, as well as a broad range of research. Such action shall be consistent with the Basic Energy Sciences Advisory Committee's Technical Evaluation of accelerator and reactor neutron source technologies. Within 90 days after October 24, 1992, the Secretary shall submit to the Congress a plan for such design, including a schedule for construction.
 
@@ -124,7 +124,7 @@ In general.—EPSCoR shall make grants to eligible jurisdictions to carry out an
 
 &emsp;&emsp;(ii)
 
-Activities.—EPSCoR shall make grants under this subparagraph for activitiesconsistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
+Activities.—EPSCoR shall make grants under this subparagraph for activities consistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
 
 &emsp;&emsp;&emsp;(I) to support research that is carried out in partnership with the National Laboratories;
 
@@ -204,13 +204,15 @@ The Secretary shall support technology transfer activities conducted by the Nati
 
 &emsp;&emsp;(C) Providing engineering design and construction services for those facilities which require modification or additions in order to meet the needs of new or expanded programs.
 
-> &emsp;Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy's changing missions of the twenty-first century, including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization andconsolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
+> &emsp;Such plan shall include plans for new facilities and facility modifications which will be required to meet the Department of Energy's changing missions of the twenty-first century,including schedules and estimates for implementation, and including a section outlining long-term funding requirements consistent with anticipated budgets and annual authorization of appropriations. Such plan shall address the coordination of modernization and consolidation of facilities in order to meet changing mission requirements, and shall provide for annual reports to Congress on accomplishments, conformance to schedules, commitments, and expenditures.
 
 #### (e) Authorization of appropriations
 
 There are authorized to be appropriated to the Secretary for Supporting Research and Technical Analysis, including Basic Energy Sciences, Energy Research Analysis, University and Science Education, Technology Transfer, Advisory and Oversight Program Direction, and Facilities Support for Multiprogram Energy Laboratories, $966,804,000 for fiscal year 1993 and such sums as may be necessary for fiscal year 1994.
 
 (Pub. L. 102–486, title XXII, §2203, Oct. 24, 1992, 106 Stat. 3087; Pub. L. 105–245, title III, §309(b)(2)(F), Oct. 7, 1998, 112 Stat. 1853; Pub. L. 116–260, div. Z, title IX, §9011, Dec. 27, 2020, 134 Stat. 2606; Pub. L. 116–283, div. H, title XCIV, §9411, Jan. 1, 2021, 134 Stat. 4815.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

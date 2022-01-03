@@ -134,7 +134,7 @@
 
 #### (A) Reasonable procedures
 
-&emsp;&emsp;A person that furnishes information to any consumer reporting agency shall have in place reasonable procedures to respond to any notification that it receives from a consumer reporting agency under section 1681c–2 of this title relating to information resulting from identity theft, to preventthat person from refurnishing such blocked information.
+&emsp;&emsp;A person that furnishes information to any consumer reporting agency shall have in place reasonable procedures to respond to any notification that it receives from a consumer reporting agency under section 1681c–2 of this title relating to information resulting from identity theft, to prevent that person from refurnishing such blocked information.
 
 #### (B) Information alleged to result from identity theft
 
@@ -208,7 +208,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulations that shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
+&emsp;&emsp;The Bureau, in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration, shall prescribe regulationsthat shall identify the circumstances under which a furnisher shall be required to reinvestigate a dispute concerning the accuracy of information contained in a consumer report on the consumer, based on a direct request of a consumer.
 
 #### (B) Considerations
 
@@ -282,7 +282,7 @@
 
 #### (1) In general
 
-&emsp;After receiving notice pursuant to section 1681i(a)(2) of this title of a dispute with regard to the completeness or accuracy of any information provided by a person to a consumer reporting agency, the person shall—
+&emsp;After receiving notice pursuant to section 1681i(a)(2) of this title of a dispute with regardto the completeness or accuracy of any information provided by a person to a consumer reporting agency, the person shall—
 
 &emsp;&emsp;(A) conduct an investigation with respect to the disputed information;
 
@@ -342,6 +342,8 @@ The provisions of law described in paragraphs (1) through (3) of subsection (c) 
 
 (Pub. L. 90–321, title VI, §623, as added Pub. L. 104–208, div. A, title II, §2413(a)(2), Sept. 30, 1996, 110 Stat. 3009–447; amended Pub. L. 108–159, title I, §154(a), title II, §217(a), title III, §§312(a)–(e)(1), 314(b), title IV, §412(a), Dec. 4, 2003, 117 Stat. 1966, 1986, 1989–1993, 1995, 2002; Pub. L. 111–203, title X, §1088(a)(2)(D), (11), July 21, 2010, 124 Stat. 2087, 2090; Pub. L. 115–174, title VI, §602(a), May 24, 2018, 132 Stat. 1366; Pub. L. 116–136, div. A, title IV, §4021, Mar. 27, 2020, 134 Stat. 489.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Emergencies Act, referred to in subsec. (a)(1)(F)(i)(II)(bb), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
@@ -358,7 +360,7 @@ A prior section 623 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 <b>2010</b>—Subsec. (a)(7)(D). Pub. L. 111–203, §1088(a)(11)(A), added subpar. (D) and struck out former subpar. (D) which related to duty of Board to prescribe a model disclosure.
 
-Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting ", in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration," before "shall jointly", was executed by making the insertion before "shall prescribe", to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
+Subsec. (a)(8)(A). Pub. L. 111–203, §1088(a)(11)(B), which directed amendment of subpar. (A) by inserting", in consultation with the Federal Trade Commission, the Federal banking agencies, and the National Credit Union Administration," before "shall jointly", was executed by making the insertion before "shall prescribe", to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1088(a)(2)(D). See below.
 
 Pub. L. 111–203, §1088(a)(2)(D), substituted "The Bureau shall" for "The Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly".
 
@@ -385,6 +387,8 @@ Subsec. (c). Pub. L. 108–159, §312(e)(1), added subsec. (c) and struck out he
 Subsec. (d). Pub. L. 108–159, §312(e)(1), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "Subsection (a) of this section shall be enforced exclusively under section 1681s of this title by the Federal agencies and officials and the State officials identified in that section."
 
 Subsec. (e). Pub. L. 108–159, §312(a), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -4,6 +4,8 @@ Purchasers of national-forest timber may be required by the Secretary of Agricul
 
 (Aug. 11, 1916, ch. 313, 39 Stat. 462; Apr. 24, 1950, ch. 97, §6, 64 Stat. 84.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1950</b>—Act Apr. 24, 1950, covered excess deposits into miscellaneous receipts instead of returning them to the depositors as was formerly the practice.

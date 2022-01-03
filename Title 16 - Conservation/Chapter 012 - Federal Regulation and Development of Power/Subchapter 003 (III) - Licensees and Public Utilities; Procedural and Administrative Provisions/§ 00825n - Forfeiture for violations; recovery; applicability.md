@@ -14,11 +14,15 @@ This section shall not apply in the case of any provision of section 824j, 824k,
 
 (June 10, 1920, ch. 285, pt. III, §315, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 861; amended June 25, 1948, ch. 646, §1, 62 Stat. 909; Pub. L. 102–486, title VII, §725(a), Oct. 24, 1992, 106 Stat. 2920; Pub. L. 109–58, title XII, §1295(d), Aug. 8, 2005, 119 Stat. 985.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted "This section" for "This subsection".
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -26,5 +30,5 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorney" for 
 
 #### State Authorities; Construction
 
-Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any wayto interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
+Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 796 of this title.
 

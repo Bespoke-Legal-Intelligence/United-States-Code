@@ -36,7 +36,7 @@
 
 &emsp;&emsp;The amount of gain included in gross income under subsection (a)(1)(A) shall be the excess of—
 
-&emsp;&emsp;&emsp;(i) the lesser of the amount of gain excluded under paragraph (1) or the fair market value of the investment as determined as of the date described in paragraph (1), over
+&emsp;&emsp;&emsp;(i) the lesser of the amount of gain excluded under paragraph (1) or the fair market value of the investment as determinedas of the date described in paragraph (1), over
 
 &emsp;&emsp;&emsp;(ii) the taxpayer's basis in the investment.
 
@@ -126,7 +126,7 @@ For purposes of this section—
 
 #### (ii) Substantial improvement
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-monthperiod in the hands of the qualified opportunity fund.
+&emsp;&emsp;&emsp;For purposes of subparagraph (A)(ii), property shall be treated as substantially improved by the qualified opportunity fund only if, during any 30-month period beginning after the date of acquisition of such property, additions to basis with respect to such property in the hands of the qualified opportunity fund exceed an amount equal to the adjusted basis of such property at the beginning of such 30-month period in the hands of the qualified opportunity fund.
 
 #### (iii) Related party
 
@@ -207,6 +207,8 @@ For purposes of this section—
 &emsp;No penalty shall be imposed under this subsection with respect to any failure if it is shown that such failure is due to reasonable cause.
 
 (Added Pub. L. 115–97, title I, §13823(a), Dec. 22, 2017, 131 Stat. 2184.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

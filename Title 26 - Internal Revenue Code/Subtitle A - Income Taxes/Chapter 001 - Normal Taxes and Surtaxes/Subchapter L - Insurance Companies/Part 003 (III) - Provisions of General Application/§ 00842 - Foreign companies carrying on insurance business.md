@@ -112,6 +112,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 267; Mar. 13, 1956, ch. 83, §5(5), 70 Stat. 49; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 89–809, title I, §104(i)(1), Nov. 13, 1966, 80 Stat. 1561; Pub. L. 99–514, title X, §1024(c)(11), Oct. 22, 1986, 100 Stat. 2408; Pub. L. 100–203, title X, §10242(a), Dec. 22, 1987, 101 Stat. 1330–420; Pub. L. 100–647, title II, §2004(q)(2), (3), Nov. 10, 1988, 102 Stat. 3609; Pub. L. 101–239, title VII, §7821(d)(2), Dec. 19, 1989, 103 Stat. 2424; Pub. L. 108–218, title II, §205(b)(6), Apr. 10, 2004, 118 Stat. 610; Pub. L. 115–97, title I, §13512(b)(7), Dec. 22, 2017, 131 Stat. 2143.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (c). Pub. L. 115–97 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "In the case of a foreign company taxable under part I, subsection (b) shall be applied before computing the small life insurance company deduction."
@@ -139,6 +141,8 @@ Subsec. (d)(4). Pub. L. 100–647, §2004(q)(3), added par. (4).
 <b>1959</b>—Pub. L. 86–69 struck out reference to section 811.
 
 <b>1956</b>—Act Mar. 13, 1956, inserted reference to section 811.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -174,7 +178,7 @@ Amendment by Pub. L. 86–69 applicable only with respect to taxable years begin
 
 #### Effective Date of 1956 Amendment
 
-Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section 6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
+Amendment by act Mar. 13, 1956, applicable only to taxable years beginning after Dec. 31, 1954, see section6 of act Mar. 13, 1956, set out as a note under section 316 of this title.
 
 #### Study of United States Reinsurance Industry
 

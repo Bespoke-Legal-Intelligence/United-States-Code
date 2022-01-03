@@ -42,7 +42,7 @@ Section was formerly classified to section 5632 of Title 42, The Public Health a
 
 Subsec. (a)(2), (3). Pub. L. 115–385, §204(b)(1)(B), added par. (2) and struck out former pars. (2) and (3) which set out allocated amounts to States depending on whether aggregate appropriations were less than, equal to, or more than $75,000,000 and stipulated a condition if the amount allocated would be less than the amount allocated to the State for fiscal year 2000.
 
-Subsec. (c). Pub. L. 115–385, §204(b)(2), substituted "effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements" for "efficient administration, including monitoring, evaluation, and one full-time staff position".
+Subsec. (c). Pub. L. 115–385, §204(b)(2), substituted "effective and efficient administration of funds, including the designation of not less than one individual who shall coordinate efforts to achieve and sustain compliance with the core requirements and certify whether the State is in compliance with such requirements" for"efficient administration, including monitoring, evaluation, and one full-time staff position".
 
 Subsec. (d). Pub. L. 115–385, §204(b)(3), substituted "not more than 5 percent of the" for "5 per centum of the minimum".
 

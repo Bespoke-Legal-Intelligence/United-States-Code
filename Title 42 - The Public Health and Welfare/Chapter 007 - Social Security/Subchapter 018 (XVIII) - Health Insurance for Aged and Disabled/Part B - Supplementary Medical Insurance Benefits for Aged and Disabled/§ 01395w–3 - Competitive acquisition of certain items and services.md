@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;Notwithstanding subparagraph (B)(i)(I) and in implementing the first round of the competitive acquisition programs under this section—
 
-&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payable from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
+&emsp;&emsp;&emsp;&emsp;(I) the contracts awarded under this section before July 15, 2008, are terminated, no payment shall be made under this subchapter on or after July 15, 2008, based on such a contract, and, to the extent that any damages may be applicable as a result of the termination of such contracts, such damages shall be payablefrom the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title;
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary shall conduct the competition for such round in a manner so that it occurs in 2009 with respect to the same items and services and the same areas, except as provided in subclauses (III) and (IV);
 
@@ -54,7 +54,7 @@
 
 #### (iii) Exclusion of certain areas in subsequent rounds of competitive acquisition programs
 
-&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programsunder this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
+&emsp;&emsp;&emsp;In implementing subsequent rounds of the competitive acquisition programs under this section, including under subparagraph (B)(i)(III), for competitions occurring before 2015, the Secretary shall exempt from the competitive acquisition program (other than national mail order) the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Rural areas.
 
@@ -98,7 +98,7 @@
 
 #### (iv) Covered document defined
 
-&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
+&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisitionprogram in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
 #### (G) Requiring bid bonds for bidding entities
 
@@ -118,7 +118,7 @@
 
 #### (ii) Treatment of other bidders
 
-&emsp;&emsp;&emsp;In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the publicannouncement of the contract suppliers for such area.
+&emsp;&emsp;&emsp;In the case of a bidding entity for any product category for a competitive acquisition area, if the entity does not meet the bid forfeiture conditions in subclauses (I) and (II) of clause (i) for any product category for such area, the bid bond submitted by such entity for such area shall be returned within 90 days of the public announcement of the contract suppliers for such area.
 
 #### (2) Items and services described
 
@@ -312,7 +312,7 @@
 
 #### (C) Demonstration of ability to furnish types of diabetic testing strip products
 
-&emsp;&emsp;With respect to bids to furnish diabetic testing strip products on or after January 1, 2019, an entity shall attest to the Secretary that the entity has the ability to obtain an inventory of the types and quantities of diabetic testing strip products that will allow the entity to furnish such products in a manner consistent with its bid and—
+&emsp;&emsp;With respect to bids to furnish diabetic testing strip products on or after January 1, 2019, an entity shall attest to the Secretary that the entity has the ability to obtain aninventory of the types and quantities of diabetic testing strip products that will allow the entity to furnish such products in a manner consistent with its bid and—
 
 &emsp;&emsp;&emsp;(i) demonstrate to the Secretary, through letters of intent with manufacturers, wholesalers, or other suppliers, or other evidence as the Secretary may specify, such ability; or
 
@@ -434,6 +434,8 @@ The Secretary shall provide for a competitive acquisition ombudsman within the C
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1847, as added Pub. L. 105–33, title IV, §4319(a), Aug. 5, 1997, 111 Stat. 392; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–366; Pub. L. 108–173, title III, §302(b)(1), Dec. 8, 2003, 117 Stat. 2224; Pub. L. 110–275, title I, §§145(a)(1), 154(a)(1), (b)(2), (3), (c)(2)(A), (B), (d)(1), (3), (4), July 15, 2008, 122 Stat. 2547, 2560, 2565–2568; Pub. L. 111–148, title VI, §6410(a), Mar. 23, 2010, 124 Stat. 773; Pub. L. 114–10, title V, §522(a), (b)(1), Apr. 16, 2015, 129 Stat. 176, 177; Pub. L. 114–255, div. A, title V, §5004(b)(1), Dec. 13, 2016, 130 Stat. 1191; Pub. L. 115–123, div. E, title IV, §50414(a), (b), Feb. 9, 2018, 132 Stat. 221, 222; Pub. L. 116–94, div. N, title I, §106(a), Dec. 20, 2019, 133 Stat. 3101.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
@@ -454,7 +456,7 @@ Subsec. (b)(10)(C) to (E). Pub. L. 115–123, §50414(a)(1)(B), added subpars. (
 
 Subsec. (b)(11), (12). Pub. L. 115–123, §50414(b), added par. (11) and redesignated former par. (11) as (12).
 
-<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255 substituted ", excluding certain" for "and excluding certain" and inserted before period at end ", and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title".
+<b>2016</b>—Subsec. (a)(2)(A). Pub. L. 114–255 substituted ", excluding certain" for "and excluding certain" andinserted before period at end ", and excluding drugs and biologicals described in section 1395u(o)(1)(D) of this title".
 
 <b>2015</b>—Subsec. (a)(1)(G), (H). Pub. L. 114–10, §522(a), added subpars. (G) and (H).
 
@@ -492,13 +494,15 @@ Subsec. (c)(5). Pub. L. 110–275, §154(c)(2)(A), substituted "December 31, 201
 
 Subsec. (d). Pub. L. 110–275, §154(c)(2)(B), substituted "July 1, 2011" for "July 1, 2009".
 
-Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which related to a demonstration project on theapplication of competitive acquisition to clinical diagnostic laboratory tests, terms and conditions of the project, and reporting requirement.
+Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which related to a demonstration project on the application of competitive acquisition to clinical diagnostic laboratory tests, terms and conditions of the project, and reporting requirement.
 
 Subsec. (f). Pub. L. 110–275, §154(b)(3), added subsec. (f).
 
 <b>2003</b>—Pub. L. 108–173 amended section catchline and text generally, substituting provisions relating to competitive acquisition of certain items and services for provisions relating to demonstration projects for competitive acquisition of items and services.
 
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–113 inserted "and" after "specified by the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -546,7 +550,7 @@ Study.—The Comptroller General of the United States shall conduct a study on t
 
 "(B)
 
-Report.—Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report such recommendations as the Comptroller General determines appropriate.
+Report.—Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report suchrecommendations as the Comptroller General determines appropriate.
 
 "(C)
 
@@ -578,7 +582,7 @@ Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended
 
 #### Study by GAO
 
-Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
+Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the United States shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 

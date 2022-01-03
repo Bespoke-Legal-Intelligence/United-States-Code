@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than 60 days after the date on which the consultation described in section 5703(b)(1)of this title is completed, the Attorney General shall direct United States attorneys to develop regionally appropriate guidelines to respond to cases of missing or murdered Indians that shall include—
+Not later than 60 days after the date on which the consultation described in section 5703(b)(1) of this title is completed, the Attorney General shall direct United States attorneys to develop regionally appropriate guidelines to respond to cases of missing or murdered Indians that shall include—
 
 &emsp;(1) guidelines on inter-jurisdictional cooperation among law enforcement agencies at the Tribal, Federal, State, and local levels, including inter-jurisdictional enforcement of protection orders and detailing specific responsibilities of each law enforcement agency;
 

@@ -20,6 +20,8 @@ Pilot in Command Defined.—In this section, the term "pilot in command" has the
 
 (Added Pub. L. 104–264, title VI, §602(a)(1), Oct. 9, 1996, 110 Stat. 3263.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.

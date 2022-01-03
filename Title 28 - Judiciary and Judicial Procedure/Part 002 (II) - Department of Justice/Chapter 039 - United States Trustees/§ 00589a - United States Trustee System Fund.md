@@ -46,7 +46,7 @@
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end ofeach fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
@@ -56,7 +56,7 @@
 
 &emsp;(B) Second, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to reimburse the judiciary for the costs of administering payments under section 330(e) of title 11, shall be deposited as mandatory offsetting collections to the "United States Trustee System Fund", and transferred and deposited into the special fund established under section 1931(a), and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
 
-&emsp;(C) Third, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to pay trustee compensation authorized by section 330(e)(2) of title 11, shall be deposited asmandatory offsetting collections to the "United States Trustee System Fund", and transferred and deposited into the Chapter 7 Trustee Fund established under section 330(e) of title 11 for payment to trustees serving in cases under chapter 7 of title 11 (in addition to the amounts paid under section 330(b) of title 11), in accordance with that section, and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
+&emsp;(C) Third, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to pay trustee compensation authorized by section 330(e)(2) of title 11, shall be deposited as mandatory offsetting collections to the "United States Trustee System Fund", and transferred and deposited into the Chapter 7 Trustee Fund established under section 330(e) of title 11 for payment to trustees serving in cases under chapter 7 of title 11 (in addition to the amounts paid under section 330(b) of title 11), in accordance with that section, and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
 
 &emsp;(D) Fourth, any remaining amounts shall be deposited as discretionary offsetting collections to the "United States Trustee System Fund", to remain available until expended.
 

@@ -10,9 +10,13 @@
 
 (Pub. L. 104–272, §4, Oct. 9, 1996, 110 Stat. 3310; Pub. L. 106–210, §7(e), May 26, 2000, 114 Stat. 328.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–210 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

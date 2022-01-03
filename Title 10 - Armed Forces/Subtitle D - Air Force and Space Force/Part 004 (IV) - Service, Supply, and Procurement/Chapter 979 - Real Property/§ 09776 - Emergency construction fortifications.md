@@ -20,6 +20,8 @@ Apr. 11, 1898, J. Res. 21, 30 Stat. 737.
 
 The word "important" is omitted as covered by the word "urgent". The words "upon which such work is to be placed" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "installation" for "air base".

@@ -56,13 +56,13 @@ In this chapter—
 
 &emsp;(5) "head of a State agency" includes the designated delegate of the head of the agency.
 
-&emsp;(6) "local government" means a unit of general local government, a school district, or other special district established under State law.
+&emsp;(6) "local government" means a unit of general local government, a school district, orother special district established under State law.
 
 &emsp;(7) "Secretary" means the Secretary of the Treasury.
 
 &emsp;(8) "special-purpose unit of local government" means a special district, public-purpose local government of a State except a school district.
 
-&emsp;(9) "State" means a State of the United States, the District of Columbia, a territory orpossession of the United States, and an agency, instrumentality, or fiscal agent of a State but does not mean a local government of a State.
+&emsp;(9) "State" means a State of the United States, the District of Columbia, a territory or possession of the United States, and an agency, instrumentality, or fiscal agent of a State but does not mean a local government of a State.
 
 &emsp;(10) "unit of general local government" means a county, city, town, village, or other general purpose political subdivision of a State.
 
@@ -184,7 +184,7 @@ Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: "This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–453, §1, Oct. 24, 1990, 104 Stat. 1058, provided that: "This Act \[enacting section 3335 of thistitle, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the 'Cash Management Improvement Act of 1990'."
+Pub. L. 101–453, §1, Oct. 24, 1990, 104 Stat. 1058, provided that: "This Act \[enacting section 3335 of this title, amending this section and section 6503 of this title, and enacting provisions set out as notes under this section and sections 3335 and 6503 of this title\] may be cited as the 'Cash Management Improvement Act of 1990'."
 
 #### Purpose of 1990 Act
 

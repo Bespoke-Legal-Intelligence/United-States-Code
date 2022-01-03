@@ -10,6 +10,8 @@ Restriction on Use of Facilities.—No medical treatment facility or other facil
 
 (Added Pub. L. 98–525, title XIV, §1401(e)(5)(A), Oct. 19, 1984, 98 Stat. 2617; amended Pub. L. 104–106, div. A, title VII, §738(a), (b)(1), Feb. 10, 1996, 110 Stat. 383; Pub. L. 112–239, div. A, title VII, §704, Jan. 2, 2013, 126 Stat. 1800.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsec. (a) of this section were contained in the following appropriation acts:
@@ -36,9 +38,13 @@ Pub. L. 95–457, title VIII, §863, Oct. 13, 1978, 92 Stat. 1254.
 
 Pub. L. 104–106, §738(a), designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under section 520b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Privately Funded Abortions at Military Hospitals
 

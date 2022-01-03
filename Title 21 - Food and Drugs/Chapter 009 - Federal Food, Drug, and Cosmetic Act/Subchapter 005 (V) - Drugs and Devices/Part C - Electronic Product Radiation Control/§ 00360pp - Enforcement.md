@@ -16,7 +16,7 @@ Actions under subsections (a) and (b) of this section may be brought in the dist
 
 #### (d) Warnings
 
-Nothing in this part shall be construed as requiring the Secretary to report for the institution of proceedings minor violations of this partwhenever he believes that the public interest will be adequately served by a suitable written notice or warning.
+Nothing in this part shall be construed as requiring the Secretary to report for the institution of proceedings minor violations of this part whenever he believes that the public interest will be adequately served by a suitable written notice or warning.
 
 #### (e) Compliance with regulations
 

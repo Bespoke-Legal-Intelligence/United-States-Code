@@ -22,7 +22,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State primary indicators of performance for activities provided under theadult and dislocated worker programs authorized under subpart 3 of part B, the program of adult education and literacy activities authorized under subchapter II, the employment services program authorized under sections 1 through 13 of the Wagner-Peyser Act (29 U.S.C. 49 et seq.) (except that subclauses (IV) and (V) shall not apply to such program), and the program authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), other than section 112 or part C of that title (29 U.S.C. 732, 741), shall consist of—
+&emsp;&emsp;&emsp;The State primary indicators of performance for activities provided under the adult and dislocated worker programs authorized under subpart 3 of part B, the program of adult education and literacy activities authorized under subchapter II, the employment services program authorized under sections 1 through 13 of the Wagner-Peyser Act (29 U.S.C. 49 et seq.) (except that subclauses (IV) and (V) shall not apply to such program), and the program authorized under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), other than section 112 or part C of that title (29 U.S.C. 732, 741), shall consist of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the percentage of program participants who are in unsubsidized employment during the second quarter after exit from the program;
 
@@ -84,7 +84,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (iii) Identification in State plan
 
-&emsp;&emsp;&emsp;Each State shall identify, in the State plan, expected levels of performance for each of the corresponding primary indicators of performance for each of the programs described in clause (ii) for the first 2 program years covered by the State plan.
+&emsp;&emsp;&emsp;Each State shall identify, in the State plan, expected levels of performance foreach of the corresponding primary indicators of performance for each of the programs described in clause (ii) for the first 2 program years covered by the State plan.
 
 #### (iv) Agreement on State adjusted levels of performance
 
@@ -136,7 +136,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (B) Representatives
 
-&emsp;&emsp;The representatives referred to in subparagraph (A) are representatives of States andpolitical subdivisions, business and industry, employees, eligible providers of activities carried out through the core programs, educators, researchers, participants, the lead State agency officials with responsibility for the programs carried out through the core programs, individuals with expertise in serving individuals with barriers to employment, and other interested parties.
+&emsp;&emsp;The representatives referred to in subparagraph (A) are representatives of States and political subdivisions, business and industry, employees, eligible providers of activities carried out through the core programs, educators, researchers, participants, the lead State agency officials with responsibility for the programs carried out through the core programs, individuals with expertise in serving individuals with barriers to employment, and other interested parties.
 
 #### (c) Local performance accountability measures for part B
 
@@ -190,7 +190,7 @@ The purpose of this section is to establish performance accountability measures 
 
 &emsp;&emsp;(K) in the case of a State in which local areas are implementing pay-for-performance contract strategies for programs—
 
-&emsp;&emsp;&emsp;(i) the performance of service providers entering into contracts for such strategies, measured against the levels of performance specified in the contracts for such strategies; and
+&emsp;&emsp;&emsp;(i) the performance of service providers entering into contracts for such strategies,measured against the levels of performance specified in the contracts for such strategies; and
 
 &emsp;&emsp;&emsp;(ii) an evaluation of the design of the programs and performance of the strategies, and, where possible, the level of satisfaction with the strategies among employers and participants benefitting from the strategies; and
 
@@ -248,7 +248,7 @@ The purpose of this section is to establish performance accountability measures 
 
 #### (1) In general
 
-&emsp;Using funds authorized under a core program and made available to carry out this section, the State, in coordination with local boards in the State and the State agencies responsible for the administration of the core programs, shall conduct ongoing evaluations of activities carried out in the State under such programs. The State, local boards, and State agencies shall conduct the evaluations in order to promote, establish, implement, and utilize methods for continuously improving core program activities in order to achieve high-level performance within, and high-level outcomes from, the workforce development system. The State shall coordinate the evaluations with the evaluations provided for by the Secretary of Labor and the Secretary of Education under section 3224 of this title, section 3332(c)(2)(D) of this title, and sections 12(a)(5), 14, and 107 of the Rehabilitation Act of 1973 (29 U.S.C. 709(a)(5), 711, 727) (applied with respect to programs carried out under title I of that Act (29 U.S.C. 720 et seq.)) and the investigations provided for by the Secretary of Labor under section 10(b) of the Wagner-Peyser Act (29 U.S.C. 49i(b)).
+&emsp;Using funds authorized under a core program and made available to carry out this section, the State, in coordination with local boards in the State and the State agencies responsible for the administration of the core programs, shall conduct ongoing evaluations of activities carried out in the State under such programs. The State, local boards, and State agencies shall conduct the evaluations in order to promote, establish, implement, and utilize methods for continuously improving core program activities in order to achieve high-level performance within, and high-level outcomes from, the workforce development system. The State shall coordinate the evaluations with the evaluations provided for by the Secretary of Labor and the Secretary of Education under section 3224 of this title, section 3332(c)(2)(D)of this title, and sections 12(a)(5), 14, and 107 of the Rehabilitation Act of 1973 (29 U.S.C. 709(a)(5), 711, 727) (applied with respect to programs carried out under title I of that Act (29 U.S.C. 720 et seq.)) and the investigations provided for by the Secretary of Labor under section 10(b) of the Wagner-Peyser Act (29 U.S.C. 49i(b)).
 
 #### (2) Design
 
@@ -314,7 +314,7 @@ Using non-Federal funds, the Governor may establish incentives for local boards 
 
 #### (1) In general
 
-&emsp;Using funds authorized under a core program and made available to carry out this subpart, the Governor, in coordination with the State board, the State agencies administering the core programs, local boards, and chief electedofficials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary of Labor and the Secretary of Education after consultation with the Governors of States, chief elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds authorized under the core programs and for preparing the annual report described in subsection (d).
+&emsp;Using funds authorized under a core program and made available to carry out this subpart, the Governor, in coordination with the State board, the State agencies administering the core programs, local boards, and chief elected officials in the State, shall establish and operate a fiscal and management accountability information system based on guidelines established by the Secretary of Labor and the Secretary of Education after consultation with the Governors of States, chief elected officials, and one-stop partners. Such guidelines shall promote efficient collection and use of fiscal and management information for reporting and monitoring the use of funds authorized under the core programs and for preparing the annual report described in subsection (d).
 
 #### (2) Wage records
 

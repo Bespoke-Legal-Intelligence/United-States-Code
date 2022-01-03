@@ -6,7 +6,7 @@ There is established within the Public Health Service an agency to be known as t
 
 #### (b) Mission
 
-The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services, through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseases and other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
+The purpose of the Agency is to enhance the quality, appropriateness, and effectiveness of health services, and access to such services,through the establishment of a broad base of scientific research and through the promotion of improvements in clinical and health system practices, including the prevention of diseases and other health conditions. The Agency shall promote health care quality improvement by conducting and supporting—
 
 &emsp;(1) research that develops and presents scientific evidence regarding all aspects of health care, including—
 
@@ -52,13 +52,15 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 #### (2) Process to ensure appropriate research
 
-&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1)are reflected in the overall portfolio of research conducted and supported by the Agency.
+&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
 
 #### (3) Office of Priority Populations
 
 &emsp;The Director shall establish an Office of Priority Populations to assist in carrying out the requirements of paragraph (1).
 
 (July 1, 1944, ch. 373, title IX, §901, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1653.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -67,6 +69,12 @@ A prior section 299, act July 1, 1944, ch. 373, title IX, §901, as added Pub. L
 Another prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
 A prior section 901 of act July 1, 1944, was classified to section 299a of this title prior to repeal by Pub. L. 99–117.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transitional and Savings Provisions
+
+Pub. L. 101–239, title VI, §6103(f), Dec. 19, 1989, 103 Stat. 2208, provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
 
 #### Construction
 
@@ -80,17 +88,13 @@ In general.—Section 901(a) of the Public Health Service Act \[42 U.S.C. 299(a)
 
 References.—Any reference in law to the Agency for Health Care Policy and Research is deemed to be a reference to the Agency for Healthcare Research and Quality, and any reference in law to the Administrator for Health Care Policy and Research is deemed to be a reference to the Director of the Agency for Healthcare Research and Quality."
 
-#### Transitional and Savings Provisions
-
-Pub. L. 101–239, title VI, §6103(f), Dec. 19, 1989, 103 Stat. 2208, provided that personnel of the Department of Health and Human Services employed, and Department assets used in connection with Department functions, on Dec. 19, 1989, be transferred to the Administrator for Health Care Policy and Research for appropriate allocation, and provided that orders, rules, regulations, grants, contracts, certificates, licenses, privileges, and other determinations, actions, or official documents would continue in effect according to their terms unless changed pursuant to law.
-
 #### IOM Reports on Best Practices for Developing Clinical Protocols
 
 Pub. L. 110–275, title III, §304(b), July 15, 2008, 122 Stat. 2595, as amended by Pub. L. 111–148, title X, §10303(c), Mar. 23, 2010, 124 Stat. 938, provided that:
 
 "(1)
 
-Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the 'Institute') under which the Institute shall conduct a study on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
+Study.—Not later than 60 days after the date of the enactment of this Act \[July 15, 2008\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine of the National Academies (in this section \[this note\] referred to as the 'Institute') under which the Institute shall conduct astudy on the best methods used in developing clinical practice guidelines in order to ensure that organizations developing such guidelines have information on approaches that are objective, scientifically valid, and consistent.
 
 "(2)
 
@@ -159,6 +163,8 @@ Authorization of appropriations.—There are authorized to be appropriated to ca
 #### Health Care That Works for All Americans: Citizens Health Care Working Group
 
 Pub. L. 108–173, title X, §1014, Dec. 8, 2003, 117 Stat. 2441, directed the Secretary of Health and Human Services to establish the Citizens' Health Care Working Group, composed of the Secretary and 14 other members, which was to hold hearings to examine various public and private health care coverage issues, make final recommendations to the President and Congress, and terminate 2 years after the members were chosen (Feb. 28, 2005) and appropriations were first made available.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13017
 

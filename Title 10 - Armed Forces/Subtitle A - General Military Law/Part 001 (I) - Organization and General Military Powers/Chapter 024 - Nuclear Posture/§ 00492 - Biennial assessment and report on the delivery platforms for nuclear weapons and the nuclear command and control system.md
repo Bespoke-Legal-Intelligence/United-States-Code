@@ -2,7 +2,7 @@
 
 (a)
 
-Biennial Assessments.—(1) For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of, and the ability to meet operational availability requirements for, the systems described in paragraph (2) for which such official has responsibility.
+Biennial Assessments.—(1) For each even-numbered year, each covered official shall assessthe safety, security, reliability, sustainability, performance, and military effectiveness of, and the ability to meet operational availability requirements for, the systems described in paragraph (2) for which such official has responsibility.
 
 (2) The systems described in this paragraph are the following:
 
@@ -56,6 +56,8 @@ Covered Official Defined.—In this section, the term "covered official" means�
 
 (Added Pub. L. 112–81, div. A, title X, §1041(a), Dec. 31, 2011, 125 Stat. 1573, §490a; renumbered §492, Pub. L. 112–239, div. A, title X, §1031(b)(3)(A)(i), Jan. 2, 2013, 126 Stat. 1918; amended Pub. L. 113–291, div. A, title XVI, §1642, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 116–92, div. A, title XVI, §1666, Dec. 20, 2019, 133 Stat. 1774.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–92 added par. (4).
@@ -63,6 +65,8 @@ Covered Official Defined.—In this section, the term "covered official" means�
 <b>2014</b>—Subsec. (a)(1). Pub. L. 113–291 inserted ", and the ability to meet operational availability requirements for," after "military effectiveness of".
 
 <b>2013</b>—Pub. L. 112–239 renumbered section 490a of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Initial Assessment and Reports
 

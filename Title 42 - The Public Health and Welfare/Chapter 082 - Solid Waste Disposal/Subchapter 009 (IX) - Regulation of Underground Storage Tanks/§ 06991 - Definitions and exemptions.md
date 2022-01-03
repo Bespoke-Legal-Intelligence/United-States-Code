@@ -8,11 +8,11 @@ Indian tribe.—
 
 &emsp;&emsp;(A)
 
-In general.—The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the United States to Indians because of their status as Indians.
+In general.—The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community that is recognized as being eligible for special programs and services provided by the UnitedStates to Indians because of their status as Indians.
 
 &emsp;&emsp;(B)
 
-Inclusions.—The term "Indian tribe" includes an Alaska Native village, as definedin or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and <sup>1</sup>
+Inclusions.—The term "Indian tribe" includes an Alaska Native village, as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.); and <sup>1</sup>
 
 &emsp;(2) The term "nonoperational storage tank" means any underground storage tank in which regulated substances will not be deposited or from which regulated substances will not be dispensed after November 8, 1984.
 
@@ -70,6 +70,8 @@ Trust fund.—The term "Trust Fund" means the Leaking Underground Storage Tank T
 
 (Pub. L. 89–272, title II, §9001, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3277; amended Pub. L. 99–499, title II, §205(a), Oct. 17, 1986, 100 Stat. 1696; Pub. L. 102–508, title III, §302, Oct. 24, 1992, 106 Stat. 3307; Pub. L. 103–429, §7(d), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 109–58, title XV, §§1532(a), 1533(1), Aug. 8, 2005, 119 Stat. 1104, 1105.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -99,6 +101,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 
 <b>1986</b>—Par. (2)(B). Pub. L. 99–499 struck out ", including crude oil or any fraction thereof which is liquid at standard conditions of temperature and pressure (60 degrees Fahrenheit and 14.7 pounds per square inch absolute)". See par. (8).
 
 Par. (8). Pub. L. 99–499 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Aboveground Storage Tank Grant Program
 

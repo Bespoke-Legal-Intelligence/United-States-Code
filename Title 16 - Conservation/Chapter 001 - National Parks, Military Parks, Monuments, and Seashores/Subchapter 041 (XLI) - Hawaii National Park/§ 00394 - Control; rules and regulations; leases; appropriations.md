@@ -4,9 +4,13 @@ Hawaii National Park shall be under the executive control of the Secretary of th
 
 (Aug. 1, 1916, ch. 264, §4, 39 Stat. 434; June 5, 1924, ch. 263, 43 Stat. 390.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1924</b>—Act June 5, 1924, ch. 263, struck out "<i>Provided</i>, That no appropriation for the maintenance, supervision, or improvement of said park in excess of $10,000 annually shall be made unless the same shall have first been expressly authorized by law" before "<i>And provided further</i>".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Hawai‘i Volcanoes National Park
 

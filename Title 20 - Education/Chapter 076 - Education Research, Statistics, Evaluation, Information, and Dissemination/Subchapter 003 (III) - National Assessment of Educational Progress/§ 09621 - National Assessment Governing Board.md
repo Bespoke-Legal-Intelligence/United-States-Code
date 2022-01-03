@@ -126,7 +126,7 @@ There is established the National Assessment Governing Board (hereafter in this 
 
 #### (5) Technical
 
-&emsp;In carrying out the duties required by paragraph (1), the Assessment Board may seek technical advice, as appropriate, from the Commissioner for Education Statistics and other experts.
+&emsp;In carrying out the duties required by paragraph (1), the Assessment Board may seektechnical advice, as appropriate, from the Commissioner for Education Statistics and other experts.
 
 #### (6) Report
 
@@ -161,6 +161,8 @@ The Commissioner for Education Statistics and the Assessment Board shall meet pe
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.
 
 (Pub. L. 107–279, title III, §302, formerly Pub. L. 103–382, title IV, §412, Oct. 20, 1994, 108 Stat. 4039; Pub. L. 106–554, §1(a)(1) \[title III, §307\], Dec. 21, 2000, 114 Stat. 2763, 2763A–44; Pub. L. 107–110, title VI, §602(b), Jan. 8, 2002, 115 Stat. 1904; renumbered Pub. L. 107–279, title III, §302, and amended Pub. L. 107–279, title IV, §401(c), Nov. 5, 2002, 116 Stat. 1983.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -224,9 +226,11 @@ Subsec. (h). Pub. L. 107–279, §401(c)(2), substituted "Assessment Board" for 
 
 Subsec. (c)(4). Pub. L. 106–554, §1(a)(1) \[title III, §307(2)\], added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 

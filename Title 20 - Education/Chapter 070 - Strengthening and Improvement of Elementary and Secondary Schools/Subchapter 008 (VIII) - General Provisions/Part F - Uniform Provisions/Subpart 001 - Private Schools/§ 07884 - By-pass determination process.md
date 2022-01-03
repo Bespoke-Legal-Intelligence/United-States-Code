@@ -6,7 +6,7 @@
 
 #### (A) Written objections
 
-&emsp;&emsp;The Secretary shall not take any final action under section 7882 of this title until the State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity affected by the action has had an opportunity, for not less than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary to show cause why that action should not be taken.
+&emsp;&emsp;The Secretary shall not take any final action under section 7882 of this title until the State educational agency, local educational agency, educational service agency, consortium of those agencies, or entity affected by the action has had an opportunity, for notless than 45 days after receiving written notice thereof, to submit written objections and to appear before the Secretary to show cause why that action should not be taken.
 
 #### (B) Prior to reduction
 
@@ -60,11 +60,15 @@ Any by-pass determination by the Secretary under this chapter as in effect on th
 
 (Pub. L. 89–10, title VIII, §8504, formerly title IX, §9504, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1978; renumbered title VIII, §8504, and amended Pub. L. 114–95, title VIII, §§8001(a)(5), (b)(4), 8018, Dec. 10, 2015, 129 Stat. 2088, 2089, 2112.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1)(A). Pub. L. 114–95, §8018, made technical amendment to reference in original act which appears in text as reference to section 7882 of this title.
 
 Subsec. (b). Pub. L. 114–95, §8001(b)(4), made technical amendment to reference in original act which appears in text as reference to section 7881 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

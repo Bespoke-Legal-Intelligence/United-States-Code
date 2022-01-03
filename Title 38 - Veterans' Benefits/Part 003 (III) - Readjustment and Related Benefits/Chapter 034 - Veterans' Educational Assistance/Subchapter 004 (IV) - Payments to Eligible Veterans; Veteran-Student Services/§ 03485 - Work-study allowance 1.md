@@ -10,9 +10,9 @@
 
 (3) An agreement described in this paragraph is an agreement of an individual to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with a qualifying work-study activity.
 
-(4)(A) <sup>2</sup> With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
+(4)(A) With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
 
-(B) With respect to a participating educational institution that participated in the work-study program under this section during the academic year beginning August 1, 2018, the Secretaryshall determine the annual amount to provide to the educational institution under subparagraph (A) as follows:
+(B) With respect to a participating educational institution that participated in the work-study program under this section during the academic year beginning August 1, 2018, the Secretary shall determine the annual amount to provide to the educational institution under subparagraph (A) as follows:
 
 &emsp;(i) For the academic year beginning August 1, 2020, the amount shall be the total amount, determined in consultation with the educational institution, that the Secretary paid under this section for covered work-study activities to individuals enrolled at such educational institution during the academic year beginning August 1, 2018.
 
@@ -22,7 +22,7 @@
 
 &emsp;(i) For the first academic year in which the educational institution participates in the work-study program beginning on or after August 1, 2020, the amount shall be an amount, determined in consultation with the educational institution, that the Secretary determines appropriate based on amounts provided to similar educational institutions pursuant to subparagraph (B).
 
-&emsp;(ii) Except as provided by clauses (ii) or (iii) of subparagraph (D), for each academic year occurring after the academic year specified in clause (i), the amount shall be the total amount the educational institution paid under this section for work-study allowance for covered work-study activities to individuals enrolled at such educational institution during the previous academic year in which individuals enrolled at such educational institution participated in the work-study program.
+&emsp;(ii) Except as provided by clauses (ii) or (iii) of subparagraph (D), for each academic yearoccurring after the academic year specified in clause (i), the amount shall be the total amount the educational institution paid under this section for work-study allowance for covered work-study activities to individuals enrolled at such educational institution during the previous academic year in which individuals enrolled at such educational institution participated in the work-study program.
 
 (D)(i) Except as provided in clause (ii), if the Secretary provides an annual amount to a participating educational institution under subparagraph (B) or (C) that is more than the total amount the educational institution pays to individuals under paragraph (1) for covered work-study activities, the educational institution shall return to the Secretary the unpaid amount and the Secretary shall transfer such amount into the general fund of the Treasury.
 
@@ -54,7 +54,7 @@
 
 &emsp;(B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
 
-&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17of this title, including, during the period preceding June 30, 2013, or any time on or after June 30, 2017, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
+&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding June 30, 2013, or any time on or after June 30, 2017, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
 
 &emsp;(D) Any other activity of the Department as the Secretary determines appropriate.
 
@@ -72,7 +72,7 @@
 
 &emsp;(K) The following activities carried out at the offices of Members of Congress for such Members:
 
-&emsp;&emsp;(i) The distribution of information to members of the Armed Forces, veterans, and their dependents about the benefits and services under laws administered by the Secretary and other appropriate governmental and nongovernmental programs.
+&emsp;&emsp;(i) The distribution of information to members of the Armed Forces, veterans, and their dependents about the benefits andservices under laws administered by the Secretary and other appropriate governmental and nongovernmental programs.
 
 &emsp;&emsp;(ii) The preparation and processing of papers and other documents, including documents to assist in the preparation and presentation of claims for benefits under laws administered by the Secretary.
 
@@ -90,9 +90,9 @@
 
 (d) While performing the services authorized by this section, individuals shall be deemed employees of the United States for the purposes of the benefits of chapter 81 of title 5 but not for the purposes of laws administrated by the Office of Personnel Management.
 
-(e)(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual's participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 <sup>3</sup> of such title).
+(e)(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual's participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 <sup>2</sup> of such title).
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the provisions of this section (otherthan those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to any agreement authorized under paragraph (1) of this subsection.
+(2)(A) Subject to subparagraph (B) of this paragraph, the provisions of this section (other than those provisions which are determined by the Secretary to be inapplicable to an agreement under this subsection) shall apply to any agreement authorized under paragraph (1) of this subsection.
 
 (B) For the purposes of this subsection, the Secretary may—
 
@@ -104,17 +104,13 @@
 
 (3)(A) Subject to the provisions of subparagraphs (B) and (C) of this paragraph, an agreement authorized under this subsection shall terminate in accordance with the provisions of this section and the terms and conditions of the agreement which are consistent with this subsection.
 
-(B) In no event shall an agreement under this subsection continue in force after the total amount of the individual's indebtedness described in paragraph (1) of this subsection has been recouped, waived, or otherwise liquidated.
+(B) In no event shall an agreement under this subsection continue in force after the totalamount of the individual's indebtedness described in paragraph (1) of this subsection has been recouped, waived, or otherwise liquidated.
 
 (C) Notwithstanding the provisions of subparagraphs (A) and (B) of this paragraph, if the Secretary finds that an individual was without fault and was allowed to perform services described in the agreement after its termination, the Secretary shall, as reasonable compensation therefor, pay the individual at the applicable hourly minimum wage rate for such services as the Secretary determines were satisfactorily performed.
 
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
 (Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(11), Dec. 6, 2002, 116 Stat. 2829; Pub. L. 108–183, title III, §306(f)(1), Dec. 16, 2003, 117 Stat. 2661; Pub. L. 109–233, title IV, §402(e)(1), June 15, 2006, 120 Stat. 411; Pub. L. 109–444, §2(g), Dec. 21, 2006, 120 Stat. 3305; Pub. L. 109–461, title III, §§304, 307, title X, §1006(b), Dec. 22, 2006, 120 Stat. 3428, 3429, 3468; Pub. L. 110–157, title III, §302, Dec. 26, 2007, 121 Stat. 1836; Pub. L. 110–252, title V, §5003(b)(2)(A)(i), June 30, 2008, 122 Stat. 2375; Pub. L. 111–275, title I, §101(a), (b), Oct. 13, 2010, 124 Stat. 2866; Pub. L. 114–315, title IV, §406, Dec. 16, 2016, 130 Stat. 1558; Pub. L. 115–48, title II, §201, Aug. 16, 2017, 131 Stat. 989; Pub. L. 116–154, §6(a), (b), Aug. 8, 2020, 134 Stat. 692, 694; Pub. L. 116–315, title I, §1006(a), Jan. 5, 2021, 134 Stat. 4940.)
-
-#### Applicability of 2020 Amendment
-
-<i>Amendment of section by section 6(a) and (b) of Pub. L. 116–154 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2021. See 2020 Amendment notes below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -146,7 +142,7 @@ Subsec. (a)(4)(G) to (J). Pub. L. 111–275, §101(b), added subpars. (G) to (J)
 
 <b>2007</b>—Subsec. (a)(4)(A), (C), (F). Pub. L. 110–157 substituted "June 30, 2010" for "June 30, 2007".
 
-<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made byPub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
+<b>2006</b>—Pub. L. 109–461, §1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under section 101 of this title.
 
 Subsec. (a)(4)(A). Pub. L. 109–461, §304, substituted "June 30, 2007" for "December 27, 2006".
 
@@ -174,7 +170,7 @@ Subsec. (e)(1). Pub. L. 109–461, §307(3), substituted "a qualifying work-stud
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–103 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-"(a)(1) Individuals utilized under the authority of subsection (b) of this section shall be paid an additional educational assistance allowance (hereinafter referred to as 'work-study allowance'). Such work-study allowance shall be paid in an amount equal to the applicable hourly minimum wage times the number of hours worked during the applicable period, in return for such individual's agreement to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the number of weeks in the semester or other applicable enrollment period, required in connection with (A) the out-reach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department of Veterans Affairs employee, (B) the preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department of Veterans Affairs, (C) the provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, (D) any other activity of the Department of Veterans Affairs as the Secretary shall determine appropriate, or (E) in the case of an individual who is receiving educational assistance under chapter 106 of title 10, activities relating to the administration of such chapter at Department of Defense, Coast Guard, or National Guard facilities. An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
+"(a)(1) Individuals utilized under the authority of subsection (b) of this section shall be paid an additional educational assistance allowance (hereinafter referred to as 'work-study allowance'). Such work-study allowance shall be paid in an amount equal to the applicable hourly minimum wage times the number of hours worked during the applicable period, in return for such individual's agreement to perform services, during or between periods of enrollment, aggregating not more than a number of hours equal to 25 times the numberof weeks in the semester or other applicable enrollment period, required in connection with (A) the out-reach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department of Veterans Affairs employee, (B) the preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department of Veterans Affairs, (C) the provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, (D) any other activity of the Department of Veterans Affairs as the Secretary shall determine appropriate, or (E) in the case of an individual who is receiving educational assistance under chapter 106 of title 10, activities relating to the administration of such chapter at Department of Defense, Coast Guard, or National Guard facilities. An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
 
 "(2) For the purposes of paragraph (1) of this subsection and subsection (e) of this section, the term 'applicable hourly minimum wage' means (A) the hourly minimum wage under section 6(a) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(a)), or (B) the hourly minimum wage under comparable law of the State in which the services are to be performed, if such wage is higher than the wage referred to in clause (A) and the Secretary has made a determination to pay such higher wage."
 
@@ -206,7 +202,7 @@ Pub. L. 101–237, §405(a)(1), (b), (d)(2)(A), (C), (D), designated existing pr
 
 Subsec. (b). Pub. L. 101–237, §423(b)(1)(A), substituted "Secretary" for "Administrator" wherever appearing.
 
-Pub. L. 101–237, §405(a)(2), (c), (d)(1), substituted "subsection (a)(1) of this section" for "subsection (a) of this section", "individuals who are pursuing programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title or chapter 106 of title 10, at arate equal to at least three-quarters of that required of a full-time student" for "veteran-students who are pursuing full-time programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title", "30 percent" for "30 per centum", and "an individual ceases to be at least a three-quarter-time student before completing such agreement, the individual" for "the veteran ceases to be a full-time student before completing such agreement, the veteran".
+Pub. L. 101–237, §405(a)(2), (c), (d)(1), substituted "subsection (a)(1) of this section" for "subsection (a) of this section", "individuals who are pursuing programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title or chapter 106 of title 10, at a rate equal to at least three-quarters of that required of a full-time student" for "veteran-students who are pursuing full-time programs of rehabilitation, education, or training under chapter 30, 31, 32, or 34 of this title", "30 percent" for "30 per centum", and "an individual ceases to be at least a three-quarter-time student before completing such agreement, the individual" for "the veteran ceases to be a full-time student before completing such agreement, the veteran".
 
 Subsec. (c). Pub. L. 101–237, §423(b)(1), substituted "Secretary" and "Department of Veterans Affairs" for "Administrator" and "Veterans' Administration", respectively, wherever appearing.
 
@@ -220,7 +216,7 @@ Subsec. (d). Pub. L. 101–237, §405(d)(2)(B), substituted "individuals" for "v
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–466 substituted "Office of Personnel Management" for "Civil Service Commission".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–202 substituted "Such work-study allowance shall be paid in an amount equal to either the amount of the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 times two hundred and fifty or $625, whichever is the higher," for "Such work-study allowance shall be paid in the amount of $625" and, in the provisions relating to periods of service of less than two hundred and fifty hours, substituted "amount of the work-study allowance to be paid under any such agreement shall be determined by multiplying the number of hours of work performed by the veteran-student under such agreement times either the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 during the period the work is to be performed or $2.50, whichever is the higher" for "amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours" and "A veteran-student shall be paid in advance an amount equal to 40 per centum of the total amount of the work-study allowance agreed to be paid under the agreement to perform the number of hours of work specified in the agreement" for provisions setting a flat amount of $250 in advance or a lesser amount in the case of any agreement providing for periods of less than one hundred hours.
+<b>1977</b>—Subsec. (a). Pub. L. 95–202 substituted "Such work-study allowance shall be paid in an amount equal to either the amount of the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 times two hundred and fifty or $625, whichever is the higher," for "Such work-study allowance shall be paid in the amount of $625" and, in the provisions relating to periods of service of less than two hundred and fifty hours, substituted "amount of the work-study allowance to be paid under any such agreement shall be determined by multiplying the number of hours of work performed by the veteran-student under such agreement times either the hourly minimum wage in effect under section 6(a) of the Fair Labor Standards Act of 1938 during the period the work is to be performed or $2.50, whichever is the higher" for "amount of the work-study allowance to be paid shall bear the same ratio to the number of hours of work agreed to be performed as $625 bears to two hundred and fifty hours" and "A veteran-student shall be paid in advance an amount equal to 40 per centum of the total amount of the work-study allowance agreed to be paid under the agreement to perform the number of hours of workspecified in the agreement" for provisions setting a flat amount of $250 in advance or a lesser amount in the case of any agreement providing for periods of less than one hundred hours.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–502, §208, inserted provision permitting the veteran who ceases to be a full-time student to complete the agreement, with the approval of the Administrator.
 
@@ -286,7 +282,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Payment of Work-Study Allowances During Emergency Situations
 
-Pub. L. 116–140, §3, Apr. 28, 2020, 134 Stat. 631, provided that: "During the covered period, the Secretary of Veterans Affairs shall apply section 3485 of title 38, United States Code, as if it were amended by adding at the end the following new subsection:
+Pub. L. 116–140, §3, Apr. 28, 2020, 134 Stat. 631, as amended by Pub. L. 117–76, §5(f), Dec. 21, 2021, 135 Stat. 1520, provided that: "During the period beginning on March 1, 2020, and ending on June 1, 2022, the Secretary of Veterans Affairs shall apply section 3485 of title 38, United States Code, as if it were amended by adding at the end the following new subsection:
 
 " '(f)(1) In case of an individual who is in receipt of work-study allowance pursuant to an agreement described in subsection (a)(3) as of the date on which an emergency situation occurs and who is unable to continue to perform qualifying work-study activities described in subsection (a)(4) by reason of the emergency situation—
 
@@ -296,11 +292,7 @@ Pub. L. 116–140, §3, Apr. 28, 2020, 134 Stat. 631, provided that: "During the
 
 " '(2) The amount of work-study allowance payable to an individual under paragraph (1)(A) during the period of an emergency situation shall be an amount determined by the Secretary but may not exceed the amount that would be payable under subsection (a)(2) if the individual worked 25 hours per week paid during such period.'."
 
-\[The term "covered period" as used in section 3 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
-
 <i><sup>1</sup></i><i> See Payment of Work-Study Allowances During Emergency Situations note below.</i>
 
-<i><sup>2</sup></i><i> See Applicability of 2020 Amendment note below.</i>
-
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

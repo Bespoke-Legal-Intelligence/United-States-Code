@@ -44,7 +44,7 @@
 
 #### (4) Report
 
-&emsp;Within 8 months after July 21, 2010, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall jointly submit to the Committees on Agriculture and on Financial Services of the House of Representatives and the Committees on Agriculture, Nutrition, and Forestry and on Banking, Housing, and Urban Affairs of theSenate a written report which contains the results of the study required by paragraphs (1) through (3).
+&emsp;Within 8 months after July 21, 2010, the Securities and Exchange Commission and the Commodity Futures Trading Commission shall jointly submit to the Committees on Agriculture and on Financial Services of the House of Representatives and the Committees on Agriculture, Nutrition, and Forestry and on Banking, Housing, and Urban Affairs of the Senate a written report which contains the results of the study required by paragraphs (1) through (3).
 
 #### (c) International swap regulation
 
@@ -94,11 +94,15 @@
 
 (Pub. L. 111–203, title VII, §719, July 21, 2010, 124 Stat. 1654.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Exchange Act, referred to in subsec. (a)(1), (2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 This title, referred to in subsecs. (a)(1), (2), and (d)(1)(B), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

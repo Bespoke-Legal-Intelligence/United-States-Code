@@ -80,7 +80,7 @@ Authorization of contracts.—The Secretary of Transportation and the Secretary 
 
 "(3)
 
-Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representativesand to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
+Report.—The Secretary of the Interior and the Secretary of Transportation shall jointly submit a report to the Speaker of the House of Representatives and to the President pro tempore of the Senate which describes the results of the survey conducted pursuant to this section not later than November 15, 1992.
 
 "(4)
 

@@ -4,7 +4,7 @@
 
 Any State desiring to avail itself of the benefits of this chapter shall, by its State fish and game department, submit programs or projects for fish restoration in either of the following two ways:
 
-(1) The State shall prepare and submit to the Secretary of the Interior a comprehensive fish and wildlife resource management plan which shall insure the perpetuation of these resources for the economic, scientific, and recreational enrichment of the people. Such plan shall be for a period of not less than five years and be based on projections of desires and needs of the people for a period of not less than fifteen years. It shall include provisions for updating at intervals of not more than three years and be provided in aformat as may be required by the Secretary of the Interior. If the Secretary of the Interior finds that such plans conform to standards established by him and approves such plans, he may finance up to 75 per centum of the cost of implementing segments of those plans meeting the purposes of this chapter from funds apportioned under this chapter upon his approval of an annual agreement submitted to him.
+(1) The State shall prepare and submit to the Secretary of the Interior a comprehensive fish and wildlife resource management plan which shall insure the perpetuation of these resources for the economic, scientific, and recreational enrichment of the people. Such plan shall be for a period of not less than five years and be based on projections of desires and needs of the people for a period of not less than fifteen years. It shall include provisions for updating at intervals of not more than three years and be provided in a format as may be required by the Secretary of the Interior. If the Secretary of the Interior finds that such plans conform to standards established by him and approves such plans, he may finance up to 75 per centum of the cost of implementing segments of those plans meeting the purposes of this chapter from funds apportioned under this chapter upon his approval of an annual agreement submitted to him.
 
 (2) A State may elect to avail itself of the benefits of this chapter by its State fish and game department submitting to the Secretary of the Interior full and detailed statements of any fish restoration and management project proposed for that State. If the Secretary of the Interior finds that such project meets with the standards set by him and approves said project, the State fish and game department shall furnish to him such surveys, plans, specifications, and estimates therefor as he may require. If the Secretary of the Interior approves the plans, specifications, and estimates for the project, he shall notify the State fish and game department and immediately set aside so much of said appropriation as represents the share of the United States payable under this chapter on account of such project, which sum so set aside shall not exceed 75 per centum of the total estimated cost thereof.
 
@@ -20,9 +20,11 @@ Administrative costs in the form of overhead or indirect costs for services prov
 
 #### (d) Agreements to finance initial costs of acquisition of lands and construction of structures
 
-The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structures or facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
+The Secretary of the Interior may enter into agreements to finance up to 75 per centum of the initial costs of the acquisition of lands or interests therein and the construction of structuresor facilities from appropriations currently available for the purposes of this chapter; and to agree to finance up to 75 per centum of the remaining costs over such a period of time as the Secretary may consider necessary. The liability of the United States in any such agreement is contingent upon the continued availability of funds for the purposes of this chapter.
 
 (Aug. 9, 1950, ch. 658, §6, 64 Stat. 432; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1102; Pub. L. 98–369, div. A, title X, §1014(a)(5), July 18, 1984, 98 Stat. 1016; Pub. L. 114–94, div. A, title X, §10001(c), Dec. 4, 2015, 129 Stat. 1621.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -34,6 +36,8 @@ The Secretary of the Interior may enter into agreements to finance up to 75 per 
 
 Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -41,6 +45,8 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

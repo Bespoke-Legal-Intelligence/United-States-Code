@@ -4,6 +4,8 @@ This part may be cited as the "State and Local Transferability Act".
 
 (Pub. L. 89–10, title V, §5101, formerly title VI, §6121, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1876; renumbered title V, §5101, and amended Pub. L. 114–95, title V, §§5001(a)(1), 5002(3), Dec. 10, 2015, 129 Stat. 2039, 2040.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5101 of Pub. L. 89–10 was classified to section 7201 of this title prior to repeal by Pub. L. 114–95.
@@ -15,6 +17,8 @@ Another prior section 5101 of Pub. L. 89–10 was classified to section 3171 of 
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §5002(3), substituted "part" for "subpart".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -32,7 +32,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 (1) Subsection (a) of this section shall not apply to any acquisition or holding of qualifying employer securities or qualifying employer real property by an eligible individual account plan.
 
-(2)(A) If this paragraph applies to an eligible individual account plan, the portion of such plan which consists of applicable elective deferrals (and earnings allocable thereto) shall be treated as a separate plan—
+(2)(A) If this paragraph applies to an eligible individual account plan, the portion of such planwhich consists of applicable elective deferrals (and earnings allocable thereto) shall be treated as a separate plan—
 
 &emsp;(i) which is not an eligible individual account plan, and
 
@@ -116,7 +116,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) which meets such other requirements as the Secretary of the Treasury may prescribe by regulation.
 
-&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlledgroup of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintains the plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
+&emsp;(7) A corporation is an affiliate of an employer if it is a member of any controlled group of corporations (as defined in section 1563(a) of title 26, except that "applicable percentage" shall be substituted for "80 percent" wherever the latter percentage appears in such section) of which the employer who maintains the plan is a member. For purposes of the preceding sentence, the term "applicable percentage" means 50 percent, or such lower percentage as the Secretary may prescribe by regulation. A person other than a corporation shall be treated as an affiliate of an employer to the extent provided in regulations of the Secretary. An employer which is a person other than a corporation shall be treated as affiliated with another person to the extent provided by regulations of the Secretary. Regulations under this paragraph shall be prescribed only after consultation and coordination with the Secretary of the Treasury.
 
 &emsp;(8) The Secretary may prescribe regulations specifying the extent to which conversions, splits, the exercise of rights, and similar transactions are not treated as acquisitions.
 

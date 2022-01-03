@@ -8,6 +8,8 @@ It is the purpose of this subchapter to promote the school readiness of low-inco
 
 (Pub. L. 97–35, title VI, §636, Aug. 13, 1981, 95 Stat. 499; Pub. L. 101–501, title I, §102, Nov. 3, 1990, 104 Stat. 1224; Pub. L. 105–285, title I, §102, Oct. 27, 1998, 112 Stat. 2703; Pub. L. 110–134, §2, Dec. 12, 2007, 121 Stat. 1363.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, text read as follows: "It is the purpose of this subchapter to promote school readiness by enhancing the social and cognitive development of low-income children through the provision, to low-income children and their families, of health, educational, nutritional, social, and other services that are determined, based on family needs assessments, to be necessary."
@@ -16,9 +18,11 @@ It is the purpose of this subchapter to promote the school readiness of low-inco
 
 "(a) In recognition of the role which Project Head Start has played in the effective delivery of comprehensive health, educational, nutritional, social, and other services to economically disadvantaged children and their families, it is the purpose of this subchapter to extend the authority for the appropriation of funds for such program.
 
-"(b) In carrying out the provisions of this subchapter, the Secretary of Health and Human Services shall continue the administrative arrangement responsible formeeting the needs of migrant, non-English language background, and Indian children and shall assure that appropriate funding is provided to meet such needs."
+"(b) In carrying out the provisions of this subchapter, the Secretary of Health and Human Services shall continue the administrative arrangement responsible for meeting the needs of migrant, non-English language background, and Indian children and shall assure that appropriate funding is provided to meet such needs."
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–501 inserted ", non-English language background," after "migrant".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -256,7 +260,7 @@ In general.—Each State that receives a grant under this subsection may use gra
 
 &emsp;&emsp;"(B)
 
-Priority.—In awarding subgrants under subparagraph (A), a State shall prioritize activities to improve areas in which there are State-identified needs that would improve services for low-income and disadvantaged children living in rural areas.
+Priority.—In awarding subgrants under subparagraph (A), a State shall prioritize activities toimprove areas in which there are State-identified needs that would improve services for low-income and disadvantaged children living in rural areas.
 
 &emsp;&emsp;"(C)
 
@@ -332,7 +336,7 @@ Limitations on federal interference.—Nothing in this section shall be construe
 
 &emsp;"(2)
 
-Limitation on governmental requirements.—Nothing in this section shall be construed to authorize the Secretary, Secretary of Education, the State, or any other governmental agency to alter requirements for existing programs for which coordination and alignment activities are recommended under thissection, or to force programs to adhere to any recommendations developed through this program. The Secretary, Secretary of Education, State, or other governmental agency may only take an action described in the preceding sentence as otherwise authorized under Federal, State, or local law.
+Limitation on governmental requirements.—Nothing in this section shall be construed to authorize the Secretary, Secretary of Education, the State, or any other governmental agency to alter requirements for existing programs for which coordination and alignment activities are recommended under this section, or to force programs to adhere to any recommendations developed through this program. The Secretary, Secretary of Education, State, or other governmental agency may only take an action described in the preceding sentence as otherwise authorized under Federal, State, or local law.
 
 &emsp;"(3)
 
@@ -364,7 +368,7 @@ In General.—The Secretary of Health and Human Services, in consultation with t
 
 &emsp;"(1) develop a plan for the elimination of overlapping programs, as identified by the Government Accountability Office's 2012 annual report (GAO–12–342SP);
 
-&emsp;"(2) determine if the activities conducted by States using grant funds from preschool development grants under section 9212 \[set out above\] have led to better utilization of resources; and
+&emsp;"(2) determine if the activities conducted by States using grant funds from preschool development grantsunder section 9212 \[set out above\] have led to better utilization of resources; and
 
 &emsp;"(3) make recommendations to Congress for streamlining all such programs.
 

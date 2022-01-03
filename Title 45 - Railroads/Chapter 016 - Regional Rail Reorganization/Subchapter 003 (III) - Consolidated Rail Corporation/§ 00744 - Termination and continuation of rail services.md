@@ -46,7 +46,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 &emsp;&emsp;(C) to purchase, pursuant to subsection (f) of this section, such rail properties in order to operate rail services thereon.
 
-> If a rail service continuation payment is offered, pursuant to paragraph (2)(A) of this subsection, for both freight and passenger service on thesame rail properties, the owner of such properties may not be entitled to more than one payment of a reasonable return on the value of such properties.
+> If a rail service continuation payment is offered, pursuant to paragraph (2)(A) of this subsection, for both freight and passenger service on the same rail properties, the owner of such properties may not be entitled to more than one payment of a reasonable return on the value of such properties.
 
 #### (d) Rail freight service
 
@@ -104,7 +104,7 @@ No rail service may be discontinued and no rail properties may be abandoned, pur
 
 (B) The Secretary shall reimburse States, local public bodies, and agencies thereof for additional costs incurred by such States, bodies, and agencies for rail service continuation payments for rail passenger service pursuant to section 17(a)(2) <sup>1</sup> of the Federal Transit Act.
 
-(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, and agencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term "loss" as used in subparagraph (A) of this paragraph and within the meaning of the term "additional costs" as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
+(C) For purposes of the obligation of the Secretary to reimburse the Corporation (or a profitable railroad) or States, local public bodies, andagencies thereof under subparagraphs (A) and (B) of this paragraph, the level of rail passenger service shall be determined on the basis of train miles, car miles, or some other appropriate indicia of scheduled train movements. Programs to correct deferred maintenance on rolling stock, right-of-way, and other facilities which are designed to maintain service, meet on-time performance, and maintain a reasonable degree of passenger comfort (and costs incurred incident thereto) shall be included within the meaning of the term "loss" as used in subparagraph (A) of this paragraph and within the meaning of the term "additional costs" as used in subparagraph (B) of this paragraph and section 17(a)(2) <sup>1</sup> of the Federal Transit Act (49 U.S.C. 1613(a)(2)).
 
 (D) If a dispute arises with respect to the application of any such regulations, the parties to such dispute may submit such dispute to arbitration by a third party. If the parties are unable to agree upon the selection of an arbitrator, the Chairman of the Commission shall serve in that capacity (except as to matters required to be decided by the Commission, pursuant to section 562(a) of this title).
 
@@ -140,7 +140,7 @@ No railroad in reorganization in the region and no person leased, operated or co
 
 &emsp;(3) following certification to the special court, pursuant to section 719(c) of this title, of any such rail properties not previously so certified.
 
-(Pub. L. 93–236, title III, §304, Jan. 2, 1974, 87 Stat. 1008; Pub. L. 94–210, title VI, §607(i), title VIII, §804, Feb. 5, 1976, 90 Stat. 97, 133; Pub. L. 94–555, title II, §§205, 206, Oct. 19, 1976, 90 Stat. 2620, 2621; Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 95–607, title II, §201, Nov. 8, 1978, 92 Stat. 3064; Pub. L. 97–449, §4(b)(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L.104–88, title III, §327(3), Dec. 29, 1995, 109 Stat. 951; Pub. L. 104–287, §6(f)(4)(A), Oct. 11, 1996, 110 Stat. 3399.)
+(Pub. L. 93–236, title III, §304, Jan. 2, 1974, 87 Stat. 1008; Pub. L. 94–210, title VI, §607(i), title VIII, §804, Feb. 5, 1976, 90 Stat. 97, 133; Pub. L. 94–555, title II, §§205, 206, Oct. 19, 1976, 90 Stat. 2620, 2621; Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466; Pub. L. 95–607, title II, §201, Nov. 8, 1978, 92 Stat. 3064; Pub. L. 97–449, §4(b)(2), Jan. 12, 1983, 96 Stat. 2441; Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088; Pub. L. 104–88, title III, §327(3), Dec. 29, 1995, 109 Stat. 951; Pub. L. 104–287, §6(f)(4)(A), Oct. 11, 1996, 110 Stat. 3399.)
 
 #### <b>Editorial Notes</b>
 

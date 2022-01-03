@@ -2,7 +2,7 @@
 
 #### (a) General compliance
 
-Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government (1) having jurisdiction over any property or facility, or (2) engaged in any activity resulting, or which may result, in the discharge of air pollutants, and each officer, agent, or employee thereof, shall be subject to, and comply with, all Federal, State, interstate, and local requirements, administrative authority, and process and sanctions respecting the control and abatement of air pollution in the same manner, and to the same extent as any nongovernmental entity. The preceding sentence shall apply (A) to any requirement whether substantive or procedural (including any recordkeeping or reporting requirement, any requirement respecting permits and any other requirement whatsoever), (B) to any requirement to pay a fee or charge imposed by any State or local agency to defray the costs of its air pollution regulatory program, (C) to the exercise of any Federal, State, or local administrative authority, and (D) to any process and sanction, whether enforced in Federal, State, or local courts, or in any other manner. This subsection shall apply notwithstanding any immunity of such agencies, officers, agents, or employees under any law or rule of law. No officer, agent, or employee of the United States shall be personally liable for any civil penalty for which he is not otherwise liable.
+Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government (1) having jurisdiction over any property or facility, or (2)engaged in any activity resulting, or which may result, in the discharge of air pollutants, and each officer, agent, or employee thereof, shall be subject to, and comply with, all Federal, State, interstate, and local requirements, administrative authority, and process and sanctions respecting the control and abatement of air pollution in the same manner, and to the same extent as any nongovernmental entity. The preceding sentence shall apply (A) to any requirement whether substantive or procedural (including any recordkeeping or reporting requirement, any requirement respecting permits and any other requirement whatsoever), (B) to any requirement to pay a fee or charge imposed by any State or local agency to defray the costs of its air pollution regulatory program, (C) to the exercise of any Federal, State, or local administrative authority, and (D) to any process and sanction, whether enforced in Federal, State, or local courts, or in any other manner. This subsection shall apply notwithstanding any immunity of such agencies, officers, agents, or employees under any law or rule of law. No officer, agent, or employee of the United States shall be personally liable for any civil penalty for which he is not otherwise liable.
 
 #### (b) Exemption
 
@@ -23,6 +23,8 @@ Each department, agency, and instrumentality of executive, legislative, and judi
 &emsp;(3) another method approved by the vehicle inspection and maintenance program administrator.
 
 (July 14, 1955, ch. 360, title I, §118, formerly, §7, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 399; renumbered §107, Pub. L. 89–272, title I, §101(3), Oct. 20, 1965, 79 Stat. 992; renumbered §111 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 499; renumbered §118 and amended Pub. L. 91–604, §§4(a), 5, Dec. 31, 1970, 84 Stat. 1678, 1689; Pub. L. 95–95, title I, §116, Aug. 7, 1977, 91 Stat. 711; Pub. L. 101–549, title I, §101(e), title II, §235, title III, §302(d), Nov. 15, 1990, 104 Stat. 2409, 2530, 2574.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -46,6 +48,8 @@ Subsec. (b). Pub. L. 95–95, §116(b), designated second and following existing
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
@@ -65,6 +69,8 @@ Suits, actions, and other proceedings lawfully commenced by or against the Admin
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
 All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11282
 

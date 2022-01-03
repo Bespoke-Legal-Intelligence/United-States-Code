@@ -46,7 +46,7 @@ There are established on the books of the Treasury of the United States four rev
 
 &emsp;&emsp;(V) for fiscal year 2020, $296,000,000;
 
-&emsp;(ii) premiums received in fiscal years specified in subclauses (I) through (V) of clause (i) shall be allocated in order first to the noninterest-bearing account in the amount specified and second to any other accounts within such fund; and
+&emsp;(ii) premiums received in fiscal years specified in subclauses (I) through (V) of clause (i)shall be allocated in order first to the noninterest-bearing account in the amount specified and second to any other accounts within such fund; and
 
 &emsp;(iii) financial assistance, as provided under section 1431 of this title, shall be withdrawn proportionately from the noninterest-bearing and other accounts within the fund.
 
@@ -108,11 +108,19 @@ There are established on the books of the Treasury of the United States four rev
 
 Any stock in a person liable to the corporation under this subchapter which is paid to the corporation by such person or a member of such person's controlled group in satisfaction of such person's liability under this subchapter may be voted only by the custodial trustees or outside money managers of the corporation.
 
-(Pub. L. 93–406, title IV, §4005, Sept. 2, 1974, 88 Stat. 1009; Pub. L. 96–364, title IV, §403(a), Sept. 26, 1980, 94 Stat. 1300; Pub. L. 99–272, title XI, §11016(a)(1), (2), (c)(7), Apr. 7, 1986, 100 Stat. 268, 274; Pub. L. 100–203, title IX, §§9312(c)(4), 9331(d), Dec. 22, 1987, 101 Stat. 1330–364, 1330–368; Pub. L. 103–465, title VII, §776(b)(2), Dec. 8, 1994, 108 Stat. 5048; Pub. L. 112–141, div. D, title II, §40234(a), (b)(1), July 6, 2012, 126 Stat. 858; Pub. L. 113–235, div. O, title I, §131(b), Dec. 16, 2014, 128 Stat. 2797.)
+#### (i) Special financial assistance for multiemployer pension plans
+
+(1) An eighth fund shall be established for special financial assistance to multiemployer pension plans, as provided under section 1432 of this title, and to pay for necessary administrative and operating expenses of the corporation relating to such assistance.
+
+(2) There is appropriated from the general fund such amounts as are necessary for the costs of providing financial assistance under section 1432 of this title and necessary administrative and operating expenses of the corporation. The eighth fund established under this subsection shall be credited with amounts from time to time as the Secretary of the Treasury, in conjunction with the Director of the Pension Benefit Guaranty Corporation, determines appropriate, from the general fund of the Treasury, but in no case shall such transfers occur after September 30, 2030.
+
+(Pub. L. 93–406, title IV, §4005, Sept. 2, 1974, 88 Stat. 1009; Pub. L. 96–364, title IV, §403(a), Sept. 26, 1980, 94 Stat. 1300; Pub. L. 99–272, title XI, §11016(a)(1), (2), (c)(7), Apr. 7, 1986, 100 Stat. 268, 274; Pub. L. 100–203, title IX, §§9312(c)(4), 9331(d), Dec. 22, 1987, 101 Stat. 1330–364, 1330–368; Pub. L. 103–465, title VII, §776(b)(2), Dec. 8, 1994, 108 Stat. 5048; Pub. L. 112–141, div. D, title II, §40234(a), (b)(1), July 6, 2012, 126 Stat. 858; Pub. L. 113–235, div. O, title I, §131(b), Dec. 16, 2014, 128 Stat. 2797; Pub. L. 117–2, title IX, §9704(a), Mar. 11, 2021, 135 Stat. 190.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (i). Pub. L. 117–2 added subsec. (i).
 
 <b>2014</b>—Subsec. (b)(3). Pub. L. 113–235 designated existing provisions as subpar. (A) and added subpar. (B).
 

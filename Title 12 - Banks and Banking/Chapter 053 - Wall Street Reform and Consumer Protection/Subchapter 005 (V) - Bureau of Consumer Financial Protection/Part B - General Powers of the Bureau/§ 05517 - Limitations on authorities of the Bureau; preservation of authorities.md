@@ -180,7 +180,7 @@
 
 #### (3) Existing authority
 
-&emsp;Paragraph (1) shall not be construed so as to limit the authority of the Bureau with respect to any attorney, to the extent that such attorney is otherwise subject to any of the enumerated consumer laws or the authorities transferred under subtitle F or H.
+&emsp;Paragraph (1) shall not be construed so as to limit the authority of the Bureau with respectto any attorney, to the extent that such attorney is otherwise subject to any of the enumerated consumer laws or the authorities transferred under subtitle F or H.
 
 #### (f) Exclusion for persons regulated by a State insurance regulator
 
@@ -244,7 +244,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of any State to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
+&emsp;No provision of this title <sup>1</sup> shall be construed as altering, amending, or affecting the authority of any securities commission (or any agency or office performing like functions) of anyState to adopt rules, initiate enforcement proceedings, or take any other action with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State. Except as permitted in paragraph (2) and subsection (f), the Bureau shall have no authority to exercise any power to enforce this title <sup>1</sup> with respect to a person regulated by any securities commission (or any agency or office performing like functions) of any State, but only to the extent that the person acts in such regulated capacity.
 
 #### (2) Description of activities
 

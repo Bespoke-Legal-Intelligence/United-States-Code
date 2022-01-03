@@ -6,13 +6,15 @@ The Secretary may grant a reasonable extension of time for filing any return, de
 
 #### (b) Automatic extension for corporation income tax returns
 
-An extension of 6 months for the filing of the return of income taxes imposed by subtitle A shall be allowed any corporation if, in such manner and at such time as the Secretary may byregulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice. In the case of any return for a taxable year of a C corporation which ends on December 31 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting "5 months" for "6 months". In the case of any return for a taxable year of a C corporation which ends on June 30 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting "7 months" for "6 months".
+An extension of 6 months for the filing of the return of income taxes imposed by subtitle A shall be allowed any corporation if, in such manner and at such time as the Secretary may by regulations prescribe, there is filed on behalf of such corporation the form prescribed by the Secretary, and if such corporation pays, on or before the date prescribed for payment of the tax, the amount properly estimated as its tax; but this extension may be terminated at any time by the Secretary by mailing to the taxpayer notice of such termination at least 10 days prior to the date for termination fixed in such notice. In the case of any return for a taxable year of a C corporation which ends on December 31 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting "5 months" for "6 months". In the case of any return for a taxable year of a C corporation which ends on June 30 and begins before January 1, 2026, the first sentence of this subsection shall be applied by substituting "7 months" for "6 months".
 
 #### (c) Cross references
 
 &emsp;&emsp;<b>For time for performing certain acts postponed by reason of war, see section 7508, and by reason of Presidentially declared disaster or terroristic or military action, see section 7508A.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 751; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §234(b)(2)(B), Sept. 3, 1982, 96 Stat. 503; Pub. L. 107–134, title I, §112(d)(2), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 114–41, title II, §2006(c)(1), July 31, 2015, 129 Stat. 459.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -24,6 +26,8 @@ An extension of 6 months for the filing of the return of income taxes imposed by
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–41, title II, §2006(c)(2), July 31, 2015, 129 Stat. 459, provided that: "The amendments made by this subsection \[amending this section\] shall apply to returns for taxable years beginning after December 31, 2015."
@@ -34,7 +38,7 @@ Pub. L. 107–134, title I, §112(f), Jan. 23, 2002, 115 Stat. 2435, provided th
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 234(e) of Pub. L. 97–248, set out as a note under section 6655 of this title.
+Amendment by Pub. L. 97–248 applicable to taxable years beginning after Dec. 31, 1982, see section 234(e) ofPub. L. 97–248, set out as a note under section 6655 of this title.
 
 #### Modification of Due Dates by Regulation
 

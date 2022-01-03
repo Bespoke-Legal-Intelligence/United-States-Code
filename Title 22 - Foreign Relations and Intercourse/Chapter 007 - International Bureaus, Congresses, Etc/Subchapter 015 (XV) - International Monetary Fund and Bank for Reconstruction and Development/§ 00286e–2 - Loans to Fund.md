@@ -50,7 +50,7 @@ Unless the Congress by law so authorizes, neither the President, the Secretary o
 
 In this section, the term "appropriate congressional committees" means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Financial Services of the House of Representatives.
 
-(July 31, 1945, ch. 339, §17, as added Pub. L. 87–490, §1, June 19, 1962, 76 Stat. 105; amended Pub. L. 94–564, §4, Oct. 19, 1976, 90 Stat. 2661; Pub. L. 98–181, title I \[title VIII, §802(a)(1)–(3)\], Nov. 30, 1983, 97 Stat. 1268; Pub. L. 105–277, div. A, §101(d) \[title VI, §609\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; Pub. L. 111–32, title XIV, §1401, June 24, 2009, 123 Stat. 1916; Pub. L. 111–117, div. F, title VII, §7090(b), (c), Dec. 16, 2009, 123 Stat. 3406; Pub. L. 114–113, div. K, title IX, §9001, Dec. 18, 2015, 129 Stat. 2829; Pub. L. 116–136, div. B, title XI, §21012(b)(5)(A), Mar. 27, 2020, 134 Stat. 595.)
+(July 31, 1945, ch. 339, §17, as added Pub. L. 87–490, §1, June 19, 1962, 76 Stat. 105; amended Pub. L. 94–564, §4, Oct. 19, 1976, 90 Stat. 2661; Pub. L. 98–181, title I \[title VIII, §802(a)(1)–(3)\], Nov. 30, 1983, 97 Stat. 1268; Pub. L. 105–277, div. A, §101(d) \[title VI, §609\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224; Pub. L. 111–32, title XIV, §1401, June 24, 2009, 123 Stat. 1916; Pub. L. 111–117, div. F, title VII, §7090(b), (c), Dec. 16, 2009, 123 Stat. 3406; Pub. L. 114–113, div. K, title IX, §9001, Dec. 18, 2015, 129 Stat. 2829; Pub. L. 116–136, div. B,title XI, §21012(b)(5)(A), Mar. 27, 2020, 134 Stat. 595.)
 
 #### <b>Editorial Notes</b>
 

@@ -20,6 +20,8 @@ Mar. 23, 1910, ch. 115 (proviso under "United States Service Schools"), 36 Stat.
 
 The words "The provisions of section 1144 of this title, authorizing leaves of absence to certain officers of the Military Academy \* \* \* are hereby extended to include" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 9411 to 9413 were renumbered sections 9481 to 9483 of this title, respectively.
@@ -29,6 +31,8 @@ Prior sections 9411 to 9413 were renumbered sections 9481 to 9483 of this title,
 <b>2021</b>—Pub. L. 116–283 inserted "or Space Force" after "Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9306 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

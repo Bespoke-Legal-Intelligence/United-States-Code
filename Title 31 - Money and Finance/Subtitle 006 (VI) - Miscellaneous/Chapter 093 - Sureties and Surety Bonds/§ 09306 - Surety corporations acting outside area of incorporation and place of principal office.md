@@ -46,7 +46,7 @@ In subsection (c)(3), the words "decree or" are omitted as being included in "or
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title V, §5007(1)\], substituted "has a resident agent for service of process for that district. The resident agent—" and pars. (1) and (2) for "designates a person by writtenpower of attorney to be the resident agent of the corporation for that district. The designated person—
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title V, §5007(1)\], substituted "has a resident agent for service of process for that district. The resident agent—" and pars. (1) and (2) for "designates a person by written power of attorney to be the resident agent of the corporation for that district. The designated person—
 
 &emsp;"(1) may appear for the surety corporation;
 

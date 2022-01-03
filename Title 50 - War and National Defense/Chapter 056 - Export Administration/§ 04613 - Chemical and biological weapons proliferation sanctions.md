@@ -118,6 +118,8 @@ For the purposes of this section, the term "foreign person" means—
 
 (Pub. L. 96–72, §11C, as added and amended Pub. L. 102–182, title III, §§305(a), 309(b)(1), Dec. 4, 1991, 105 Stat. 1247, 1258.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, known as the Export Administration Act of 1979, which was classified principally to this chapter, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
@@ -135,6 +137,8 @@ A prior section 11C of Pub. L. 96–72, as added Pub. L. 102–138, title V, §5
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–182, §309(b)(1), substituted "October 28, 1991" for "December 4, 1991".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Department of Defense Review of Export Licenses for Certain Biological Pathogens
 
@@ -159,6 +163,8 @@ Identification of Countries Known or Suspected To Have a Program To Develop Offe
 "(d)
 
 Definition.—For purposes of this section, the term 'class 2, class 3, or class 4 biological pathogen' means any biological pathogen that is characterized by the Centers for Disease Control as a class 2, class 3, or class 4 biological pathogen."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -24,6 +24,8 @@ Subsections (a) and (b) shall not apply with respect to the enforcement of a Sta
 
 (Pub. L. 104–63, §2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(1), July 3, 1997, 111 Stat. 241.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "antitrust laws", referred to in text, see section 37a(1) of this title.
@@ -32,13 +34,15 @@ For definition of "antitrust laws", referred to in text, see section 37a(1) of t
 
 <b>1997</b>—Pub. L. 105–26 amended section generally. Prior to amendment, section related to modification of antitrust laws to allow two or more charitable organizations to use, or to agree to use, the same annuity rate in issuing one or more charitable gift annuities and to limitations on such conduct.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–26, §3, July 3, 1997, 111 Stat. 242, provided that: "This Act \[see Short Title of 1997 Amendmentsnote set out under section 1 of this title\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act."
+Pub. L. 105–26, §3, July 3, 1997, 111 Stat. 242, provided that: "This Act \[see Short Title of 1997 Amendments note set out under section 1 of this title\], and the amendments made by this Act, shall apply with respect to all conduct occurring before, on, or after the date of the enactment of this Act \[July 3, 1997\] and shall apply in all administrative and judicial actions pending on or commenced after the date of the enactment of this Act."
 
 #### Effective Date
 
-Pub. L. 104–63, §4, Dec. 8, 1995, 109 Stat. 688, provided that: "This Act \[enacting this section, section 37a of this title, and provisions set out as a note under section 1 of this title\] shall apply with respect to conduct occurring before, on, or after the date of the enactment of this Act \[Dec. 8, 1995\]."
+Pub. L. 104–63, §4, Dec. 8, 1995, 109 Stat. 688, provided that: "This Act \[enacting this section, section 37a ofthis title, and provisions set out as a note under section 1 of this title\] shall apply with respect to conduct occurring before, on, or after the date of the enactment of this Act \[Dec. 8, 1995\]."
 
 #### Study and Report
 

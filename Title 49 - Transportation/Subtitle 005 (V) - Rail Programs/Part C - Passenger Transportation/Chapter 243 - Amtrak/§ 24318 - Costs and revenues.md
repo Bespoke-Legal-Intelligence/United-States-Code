@@ -2,7 +2,7 @@
 
 (a)
 
-Allocation.—Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, Amtrak shall establish and maintain internal controls to ensure Amtrak's costs, revenues, and other compensation are appropriately allocated to the Northeast Corridor, including train services or infrastructure, or the National Network, including proportional shares of common and fixed costs.
+Allocation.—Amtrak shall establish and maintain internal controls to ensure Amtrak's costs, revenues, and other compensation are appropriately allocated to the Northeast Corridor, including train services or infrastructure, or the National Network, including proportional shares of common and fixed costs.
 
 (b)
 
@@ -12,13 +12,19 @@ Rule of Construction.—Nothing in this section shall be construed to limit the 
 
 Definition of Northeast Corridor.—Notwithstanding section 24102, for purposes of this section, the term "Northeast Corridor" means the Northeast Corridor main line between Boston, Massachusetts, and the District of Columbia, and facilities and services used to operate and maintain that line.
 
-(Added Pub. L. 114–94, div. A, title XI, §11202(a), Dec. 4, 2015, 129 Stat. 1628.)
+(Added Pub. L. 114–94, div. A, title XI, §11202(a), Dec. 4, 2015, 129 Stat. 1628; amended Pub. L. 117–58, div. B, title II, §22206(a), Nov. 15, 2021, 135 Stat. 700.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
-
 Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (b), is section 209 of div. B of Pub. L. 110–432, which is set out as a note under section 24101 of this title.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58 struck out "Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015," before "Amtrak".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

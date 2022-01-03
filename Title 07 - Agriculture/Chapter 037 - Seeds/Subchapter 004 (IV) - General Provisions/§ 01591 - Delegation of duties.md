@@ -4,6 +4,8 @@ Any duties devolving upon the Secretary of Agriculture by virtue of the provisio
 
 (Aug. 9, 1939, ch. 615, title IV, §401, 53 Stat. 1285.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 See section 1610 of this title.

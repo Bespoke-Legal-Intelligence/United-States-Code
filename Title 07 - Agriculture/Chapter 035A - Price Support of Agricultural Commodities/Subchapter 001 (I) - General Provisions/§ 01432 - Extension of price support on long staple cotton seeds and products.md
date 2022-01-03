@@ -4,9 +4,13 @@ Any price support program in effect on cottonseed or any of its products shall b
 
 (Oct. 31, 1949, ch. 792, title IV, §420, as added July 17, 1952, ch. 933, §3(2), 66 Stat. 759.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1347 of this title, referred to in text, was repealed by Pub. L. 98–88, §2, Aug. 26, 1983, 97 Stat. 494.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability of Section
 

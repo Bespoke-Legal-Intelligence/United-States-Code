@@ -42,7 +42,9 @@ R.S. 1254.
 
 June 3, 1916, ch. 134, §4c (proviso); added June 29, 1945, ch. 197 (proviso); restated Aug. 7, 1947, ch. 512, §513(c) (proviso), 61 Stat. 902.
 
-The applicability of the rule stated in the revised section to situations not expressly covered by the laws named in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
+The applicability of the rule stated in the revised section to situations not expressly covered by the lawsnamed in the source credits above is necessarily implied from laws providing for retirement in higher grade in those situations.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -61,6 +63,8 @@ Subsec. (b). Pub. L. 116–283, §508(b)(2)(B), substituted "the member" for "he
 <b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "chapter 1223" for "chapter 67".
 
 <b>1980</b>—Pub. L. 96–513 added subsec. (a), designated existing provisions as subsec. (b), and inserted "not covered by subsection (a)" after "Regular or Reserve of the Army".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

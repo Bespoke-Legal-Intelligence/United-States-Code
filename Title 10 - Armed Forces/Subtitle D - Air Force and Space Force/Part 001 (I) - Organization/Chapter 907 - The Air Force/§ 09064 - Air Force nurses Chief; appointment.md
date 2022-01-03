@@ -10,6 +10,8 @@ Chief.—The Secretary of the Air Force shall appoint the Chief from the officer
 
 (Added Pub. L. 104–201, div. A, title V, §502(b), Sept. 23, 1996, 110 Stat. 2511, §8069; amended Pub. L. 105–261, div. A, title V, §505, Oct. 17, 1998, 112 Stat. 2004; Pub. L. 107–314, div. A, title V, §504(a)(3), Dec. 2, 2002, 116 Stat. 2531; Pub. L. 114–328, div. A, title V, §502(nn)(1), (2), Dec. 23, 2016, 130 Stat. 2106; renumbered §9069, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; renumbered §9064 and amended Pub. L. 116–92, div. A, title IX, §952(b)(1), title XVII, §1731(a)(61), Dec. 20, 2019, 133 Stat. 1561, 1815.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, §952(b)(1), renumbered section 9069 of this title as this section.
@@ -29,6 +31,8 @@ Subsec. (c). Pub. L. 114–328, §502(nn)(1)(C), struck out subsec. (c). Text re
 <b>2002</b>—Subsec. (b). Pub. L. 107–314 substituted "major general" for "brigadier general" in second sentence.
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–261 struck out ", but not for more than three years, and may not be reappointed to the same position" after "pleasure of the Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

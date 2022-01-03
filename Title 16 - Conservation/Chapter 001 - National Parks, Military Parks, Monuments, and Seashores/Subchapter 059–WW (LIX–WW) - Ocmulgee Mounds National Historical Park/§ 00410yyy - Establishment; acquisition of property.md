@@ -4,13 +4,19 @@ When title to lands commonly known as the "Old Ocmulgee Fields", upon which cert
 
 (June 14, 1934, ch. 519, §1, 48 Stat. 958.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 447a of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Ocmulgee National Monument was redesignated Ocmulgee Mounds National Historical Park by Pub. L. 116–9, title II, §2102(b)(1), Mar. 12, 2019, 133 Stat. 724, which is classified to section 410yyy–3(b)(1) of this title.
+
+#### <b>Executive Documents</b>
 
 #### Establishment of Monument; Boundaries
 

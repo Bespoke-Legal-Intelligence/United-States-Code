@@ -66,6 +66,8 @@ The Administrator shall conduct biomedical studies to—
 
 (July 1, 1944, ch. 373, title XIV, §1458, as added Pub. L. 104–182, title I, §137, Aug. 6, 1996, 110 Stat. 1680.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Public Health Assessment of Exposure to Perchlorate
 
 Pub. L. 108–136, div. A, title III, §323, Nov. 24, 2003, 117 Stat. 1440, provided that:

@@ -10,7 +10,7 @@ No provision of this section may be construed to authorize the Secretary to waiv
 
 #### (c) Submission of requests
 
-A request under subsection (a) shall specify the rule or rules to be waived or modified and the change proposed, and shall briefly describe why the change would promote the achievement of the job creation, community development, or economic revitalization objectives of the enterprise zone. If a request is made to the Secretary of Agriculture, the requesting governmentsshall send a copy of the request to the Secretary of Housing and Urban Development at the time the request is made.
+A request under subsection (a) shall specify the rule or rules to be waived or modified and the change proposed, and shall briefly describe why the change would promote the achievement of the job creation, community development, or economic revitalization objectives of the enterprise zone. If a request is made to the Secretary of Agriculture, the requesting governments shall send a copy of the request to the Secretary of Housing and Urban Development at the time the request is made.
 
 #### (d) Consideration of requests
 
@@ -57,6 +57,8 @@ For purposes of this section:
 &emsp;The term "Secretary" means the Secretary of Housing and Urban Development or, with respect to any rule issued under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], the Secretary of Agriculture.
 
 (Pub. L. 100–242, title VII, §704, Feb. 5, 1988, 101 Stat. 1962.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

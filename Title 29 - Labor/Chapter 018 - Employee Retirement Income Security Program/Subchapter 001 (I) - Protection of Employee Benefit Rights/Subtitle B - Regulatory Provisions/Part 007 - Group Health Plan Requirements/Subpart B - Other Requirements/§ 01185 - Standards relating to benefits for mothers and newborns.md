@@ -20,7 +20,7 @@
 
 #### (b) Prohibitions
 
-A group health plan, and a health insurance issuer offering group health insurance coveragein connection with a group health plan, may not—
+A group health plan, and a health insurance issuer offering group health insurance coverage in connection with a group health plan, may not—
 
 &emsp;(1) deny to the mother or her newborn child eligibility, or continued eligibility, to enroll or to renew coverage under the terms of the plan, solely for the purpose of avoiding the requirements of this section;
 
@@ -62,7 +62,7 @@ Nothing in this section shall be construed to prevent a group health plan or a h
 
 &emsp;&emsp;(B) Such State law requires such coverage to provide for maternity and pediatric care in accordance with guidelines established by the American College of Obstetricians and Gynecologists, the American Academy of Pediatrics, or other established professional medical associations.
 
-&emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to be made by) the attending provider in consultation with the mother.
+&emsp;&emsp;(C) Such State law requires, in connection with such coverage for maternity care, that the hospital length of stay for such care is left to the decision of (or required to bemade by) the attending provider in consultation with the mother.
 
 #### (2) Construction
 

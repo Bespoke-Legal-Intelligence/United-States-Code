@@ -14,6 +14,8 @@ The Secretary shall undertake reasonable efforts to inform the public of the ava
 
 (July 1, 1944, ch. 373, title XXI, §2110, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 101–239, title VI, §6601(b), Dec. 19, 1989, 103 Stat. 2285.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300aa–10, act July 1, 1944, §2111, was successively renumbered by subsequent acts and transferred, see section 238h of this title.
@@ -23,6 +25,8 @@ A prior section 2110 of act July 1, 1944, was successively renumbered by subsequ
 #### Amendments
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–239 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 
@@ -34,7 +38,7 @@ Section 6601(s) of Pub. L. 101–239, as amended by Pub. L. 102–572, title IX,
 
 &emsp;"(B) Petitions currently pending in which the evidentiary record is closed shall continue to proceed under the Program in accordance with the law in effect before the date of the enactment of this section, except that if the United States Court of Federal Claims is to review the findings of fact and conclusions of law of a special master on such a petition, the court may receive further evidence in conducting such review.
 
-&emsp;"(C) Petitions currently pending in which the evidentiary record is not closed shall proceed under the Program in accordance with the law as amended by this section.
+&emsp;"(C) Petitions currently pending in which the evidentiary record is not closed shall proceed under theProgram in accordance with the law as amended by this section.
 
 > All pending cases which will proceed under the Program as amended by this section shall be immediately suspended for 30 days to enable the special masters and parties to prepare for proceeding under the Program as amended by this section. In determining the 240-day period prescribed by section 2112(d) of the Public Health Service Act \[42 U.S.C. 300aa–12(d)\], as amended by this section, or the 420-day period prescribed by section 2121(b) of such Act \[42 U.S.C. 300aa–21(b)\], as so amended, any period of suspension under the preceding sentence shall be excluded.
 

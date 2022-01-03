@@ -34,6 +34,8 @@ The President may authorize the Commission or the Department of Defense, with th
 
 (Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1806(a) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
@@ -43,6 +45,8 @@ Provisions similar to this section were contained in section 1806(a) of this tit
 <b>1989</b>—Subsec. (a)(3) to (5). Pub. L. 101–189 added pars. (3) to (5).
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–479 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Form of Certifications Regarding Safety or Reliability of Nuclear Weapons Stockpile
 
@@ -70,7 +74,7 @@ Requirement for Panel.—The Secretary of Defense, in consultation with the Secr
 
 "(b)
 
-Composition and Administration of Panel.—(1) The panel shall consist of private citizens of the United States with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons.
+Composition and Administration of Panel.—(1) The panel shall consist of private citizens of the UnitedStates with knowledge and expertise in the technical aspects of design, manufacture, and maintenance of nuclear weapons.
 
 "(2) The federally funded research and development center shall be responsible for establishing appropriate procedures for the panel, including selection of a panel chairman.
 
@@ -126,7 +130,7 @@ Pub. L. 104–106, div. C, title XXXI, §3137, Feb. 10, 1996, 110 Stat. 620, as 
 
 #### Fellowship Program for Development of Skills Critical to Department of Energy Nuclear Weapons Complex
 
-Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, titleXXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
+Pub. L. 104–106, div. C, title XXXI, §3140, Feb. 10, 1996, 110 Stat. 621, as amended by Pub. L. 106–65, div. C, title XXXI, §3162(a)–(d), Oct. 5, 1999, 113 Stat. 943, which was formerly set out as a note under this section, was renumbered section 4623 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(i)(10), Nov. 24, 2003, 117 Stat. 1779, and is classified to section 2723 of Title 50, War and National Defense.
 
 #### Study on Nuclear Test Readiness Postures
 
@@ -253,6 +257,8 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, as amended by P
 #### Nuclear Test Ban Readiness Program
 
 Pub. L. 100–456, div. A, title XIV, §1436, Sept. 29, 1988, 102 Stat. 2075, as amended by Pub. L. 105–85, div. C, title XXXI, §3152(i), Nov. 18, 1997, 111 Stat. 2042, which was formerly set out as a note under this section, was renumbered section 4207 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(8)(A)–(C), Nov. 24, 2003, 117 Stat. 1759, and is classified to section 2527 of Title 50, War and National Defense.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

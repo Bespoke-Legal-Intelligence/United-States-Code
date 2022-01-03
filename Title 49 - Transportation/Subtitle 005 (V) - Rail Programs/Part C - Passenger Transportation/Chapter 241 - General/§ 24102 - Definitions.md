@@ -48,7 +48,7 @@ In this part—
 
 &emsp;(13) "State-supported route" means a route described in subparagraph (B) or (D) of paragraph (7), or in section 24702, that is operated by Amtrak, excluding those trains operated by Amtrak on the routes described in paragraph (7)(A).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111 Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909; Pub. L. 114–94, div. A, title XI, §11006(a), Dec. 4, 2015, 129 Stat. 1624; Pub. L. 115–420, §7(b)(3)(A)(i)(I), Jan. 3, 2019, 132 Stat. 5446.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 900; Pub. L. 105–134, title IV, §407, Dec. 2, 1997, 111Stat. 2586; Pub. L. 110–432, div. B, title II, §201(a), Oct. 16, 2008, 122 Stat. 4909; Pub. L. 114–94, div. A, title XI, §11006(a), Dec. 4, 2015, 129 Stat. 1624; Pub. L. 115–420, §7(b)(3)(A)(i)(I), Jan. 3, 2019, 132 Stat. 5446.)
 
 Historical and Revision Notes
 
@@ -148,6 +148,8 @@ In clause (5), the words "whether within or across the geographical boundaries o
 
 Clause (9) is added to eliminate repetition of the words "fares or charges" throughout this part.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in par. (7)(C), is the date of enactment of div. B of Pub. L. 110–432, which was approved Oct. 16, 2008.
@@ -160,13 +162,15 @@ The date of enactment of the Passenger Rail Investment and Improvement Act of 20
 
 <b>2008</b>—Pars. (2) to (5). Pub. L. 110–432 added par. (5), redesignated former pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: " 'basic system' means the system of intercity rail passenger transportation designated by the Secretary of Transportation under section 4 of the Amtrak Improvement Act of 1978 and approved by Congress, and transportation required to be provided under section 24705(a) of this title and section 4(g) of the Act, including changes in the system or transportation that Amtrak makes using the route and service criteria."
 
-<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows:" 'avoidable loss' means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5."
+<b>1997</b>—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: " 'avoidable loss' means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5."
 
 Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted ", including a unit of State or local government," after "means a person". Former par. (7) redesignated (6).
 
 Pars. (8) to (10). Pub. L. 105–134, §407(2), redesignated pars. (8) to (10) as (7) to (9), respectively.
 
 Par. (11). Pub. L. 105–134, §407(1), struck out par. (11) which read as follows: " 'route and service criteria' means the criteria and procedures for making route and service decisions established under section 404(c)(1)–(3)(A) of the Rail Passenger Service Act."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

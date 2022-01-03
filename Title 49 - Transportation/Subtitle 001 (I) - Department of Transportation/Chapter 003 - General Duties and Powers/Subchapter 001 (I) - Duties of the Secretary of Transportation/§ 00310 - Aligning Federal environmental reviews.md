@@ -2,7 +2,7 @@
 
 (a)
 
-Coordinated and Concurrent Environmental Reviews.—Not later than 1 year after the date of enactment of this section, the Department of Transportation, in coordination with the heads of Federal agencies likely to have substantive review or approval responsibilities under Federal law, shall develop a coordinated and concurrent environmental review and permitting process for transportation projects when initiating an environmental impact statement under the National Environmental PolicyAct of 1969 (42 U.S.C. 4321 et seq.) (in this section referred to as "NEPA").
+Coordinated and Concurrent Environmental Reviews.—Not later than 1 year after the date of enactment of this section, the Department of Transportation, in coordination with the heads of Federal agencies likely to have substantive review or approval responsibilities under Federal law, shall develop a coordinated and concurrent environmental review and permitting process for transportation projects when initiating an environmental impact statement under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) (in this section referred to as "NEPA").
 
 (b)
 
@@ -92,15 +92,19 @@ Savings Provision.—This section shall not apply to any project subject to sect
 
 (Added Pub. L. 114–94, div. A, title I, §1313(a), Dec. 4, 2015, 129 Stat. 1400; amended Pub. L. 115–420, §3, Jan. 3, 2019, 132 Stat. 5444.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (a), (c)(1), (e), and (f)(1), (2), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
 <b>2019</b>—Subsec. (f)(1). Pub. L. 115–420 inserted ", and make publicly available on the Department of Transportation website," after "House of Representatives" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -30,7 +30,7 @@ The research program established under this subpart shall encompass the social, 
 
 &emsp;&emsp;(H) alcoholism and alcohol abuse among women;
 
-&emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance andadvice of experts, scholars, and consultants from the United States or abroad;
+&emsp;(4) secure from time to time and for such periods as he deems advisable, the assistance and advice of experts, scholars, and consultants from the United States or abroad;
 
 &emsp;(5) promote the coordination of research programs conducted by the Institute, and similar programs conducted by the National Institute of Drug Abuse and by other departments, agencies, organizations, and individuals, including all National Institutes of Health research activities which are or may be related to the problems of individuals suffering from alcoholism or alcohol abuse or those of their families or the impact of alcohol abuse on other health problems;
 
@@ -54,6 +54,8 @@ The Director of the Institute shall collaborate with the Administrator of the Su
 
 (July 1, 1944, ch. 373, title IV, §464H, as added and amended Pub. L. 102–321, title I, §122(a), (b), July 10, 1992, 106 Stat. 358, 359; Pub. L. 102–352, §2(a)(1), Aug. 26, 1992, 106 Stat. 938; Pub. L. 109–482, title I, §103(b)(32), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 290bb(b) of this title, which was transferred to subsec. (b) of this section and amended by Pub. L. 102–321, was based on act July 1, 1944, ch. 373, title V, §510, formerly Pub. L. 91–616, title V, §501(b), as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1038; amended Pub. L. 95–622, title II, §268(d), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §14(b), Jan. 2, 1980, 93 Stat. 1305; renumbered §510(b) of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 19, 1984, Pub. L. 98–509, title II, §205(a)(1), 98 Stat. 2361.
@@ -71,6 +73,8 @@ Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of 
 Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized" for "(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized" in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
 Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -94,7 +98,7 @@ Pub. L. 103–43, title XX, §2016(b), June 10, 1993, 107 Stat. 218, provided th
 
 #### Study on Fetal Alcohol Effect and Fetal Alcohol Syndrome
 
-Pub. L. 102–321, title VII, §705, July 10, 1992, 106 Stat. 438, directed Secretary of Health and Human Servicesto enter into a contract with a public or nonprofit private entity to conduct a study on the prevalence of fetal alcohol effect and fetal alcohol syndrome in the general population of the United States and on the adequacy of Federal efforts to reduce the incidence of such conditions (including efforts regarding appropriate training for health care providers in identifying such effect or syndrome), and to ensure that a report outlining this study be submitted to Congress not later than 18 months after July 10, 1992.
+Pub. L. 102–321, title VII, §705, July 10, 1992, 106 Stat. 438, directed Secretary of Health and Human Services to enter into a contract with a public or nonprofit private entity to conduct a study on the prevalence of fetal alcohol effect and fetal alcohol syndrome in the general population of the United States and on the adequacy of Federal efforts to reduce the incidence of such conditions (including efforts regarding appropriate training for health care providers in identifying such effect or syndrome), and to ensure that a report outlining this study be submitted to Congress not later than 18 months after July 10, 1992.
 
 #### Alcoholism and Alcohol Abuse Treatment Study
 

@@ -10,7 +10,7 @@ The Secretary may make grants to State or local governments (that have in effect
 
 #### (b) Relevant programs
 
-The program referred to in subsection (a) is an accredited program in health administration, hospital administration, or health policy analysis and planning, which program is accredited by a body or bodies approved for such purpose by the Secretary of Education and which meets such other quality standards as the Secretary of Health and Human Services by regulation may prescribe.
+The program referred to in subsection (a) is an accredited program in health administration, hospital administration, or health policy analysis and planning, which program is accredited by a body or bodies approved for such purpose bythe Secretary of Education and which meets such other quality standards as the Secretary of Health and Human Services by regulation may prescribe.
 
 #### (c) Preference in making grants
 
@@ -35,6 +35,8 @@ In making grants under subsection (a), the Secretary shall give preference to qu
 &emsp;Each entity applying for a grant under subsection (a) for traineeships shall assure to the satisfaction of the Secretary that the entity will give priority to awarding the traineeships to students who demonstrate a commitment to employment with public or nonprofit private entities in the fields with respect to which the traineeships are awarded.
 
 (July 1, 1944, ch. 373, title VII, §769, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3556.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

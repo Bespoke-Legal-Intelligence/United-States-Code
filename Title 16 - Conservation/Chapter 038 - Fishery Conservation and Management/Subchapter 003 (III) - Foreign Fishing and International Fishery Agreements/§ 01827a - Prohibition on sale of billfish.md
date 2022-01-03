@@ -42,6 +42,8 @@ In this section the term "billfish"—
 
 (Pub. L. 112–183, §4, Oct. 5, 2012, 126 Stat. 1422; Pub. L. 115–228, §1, Aug. 2, 2018, 132 Stat. 1628.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Billfish Conservation Act of 2012 and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
@@ -49,6 +51,8 @@ Section was enacted as part of the Billfish Conservation Act of 2012 and not as 
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(1). Pub. L. 115–228 inserted "and retained" after "landed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 
@@ -58,5 +62,5 @@ Pub. L. 112–183, §2, Oct. 5, 2012, 126 Stat. 1422, provided that: "Congress f
 
 &emsp;"(2) Global billfish populations have declined significantly, however, because of overfishing primarily through retention of bycatch by non-United States commercial fishing fleets.
 
-&emsp;"(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries."
+&emsp;"(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S.management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries."
 

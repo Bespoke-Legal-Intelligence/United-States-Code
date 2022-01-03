@@ -10,7 +10,7 @@ The Alien Property Custodian shall not make any such waiver or compromise except
 
 #### (c) Waiver of demand where property interest not vested prior to March 10, 1928
 
-Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment tohim of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928, vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
+Where the Alien Property Custodian has made demand or requirement for the conveyance, transfer, assignment, delivery, or payment to him of any money or other property of any enemy or ally of enemy (whether or not suit or proceeding for the enforcement thereof has been begun and whether or not any judgment or decree in respect thereof has been made or entered) and where the interest or right of such enemy or ally of enemy in such money or property has not, prior to March 10, 1928, vested in enjoyment, the Alien Property Custodian may, in his discretion, and on such terms and conditions as he may prescribe, waive such demand and requirement, without compliance with the requirements of subsection (b) of this section, but only with the approval of the Attorney General.
 
 #### (d) Construction
 
@@ -22,6 +22,8 @@ All money or other property received by the Alien Property Custodian as a result
 
 (Oct. 6, 1917, ch. 106, §29, as added Mar. 10, 1928, ch. 167, §15, 45 Stat. 274.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4301 of this title and Tables.
@@ -29,6 +31,8 @@ This chapter, referred to in subsecs. (a) and (e), was in the original "this Act
 #### Codification
 
 Section was formerly classified to section 29 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

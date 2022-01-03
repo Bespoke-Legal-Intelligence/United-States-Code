@@ -10,7 +10,7 @@ The program described in subsection (a) shall focus on the following activities:
 
 &emsp;(1) Improving the fundamental understanding of weather consistent with section 8511 of this title, including the boundary layer and other processes affecting high impact weather events.
 
-&emsp;(2) Improving the understanding of how the public receives, interprets, and responds towarnings and forecasts of high impact weather events that endanger life and property.
+&emsp;(2) Improving the understanding of how the public receives, interprets, and responds to warnings and forecasts of high impact weather events that endanger life and property.
 
 &emsp;(3) Research and development, and transfer of knowledge, technologies, and applications to the National Weather Service and other appropriate agencies and entities, including the United States weather industry and academic partners, related to—
 
@@ -60,7 +60,7 @@ The program described in subsection (a) shall focus on the following activities:
 
 #### (1) In general
 
-&emsp;In carrying out the program under this section, the Assistant Administrator for Oceanic and Atmospheric Research shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.
+&emsp;In carrying out the program under this section, the Assistant Administrator for Oceanicand Atmospheric Research shall collaborate with and support the non-Federal weather research community, which includes institutions of higher education, private entities, and nongovernmental organizations, by making funds available through competitive grants, contracts, and cooperative agreements.
 
 #### (2) Sense of Congress
 
@@ -71,6 +71,8 @@ The program described in subsection (a) shall focus on the following activities:
 Each year, concurrent with the annual budget request submitted by the President to Congress under section 1105 of title 31 for the National Oceanic and Atmospheric Administration, the Under Secretary shall submit to Congress a description of current and planned activities under this section.
 
 (Pub. L. 115–25, title I, §102, Apr. 18, 2017, 131 Stat. 92; Pub. L. 115–423, §4(a), Jan. 7, 2019, 132 Stat. 5456.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

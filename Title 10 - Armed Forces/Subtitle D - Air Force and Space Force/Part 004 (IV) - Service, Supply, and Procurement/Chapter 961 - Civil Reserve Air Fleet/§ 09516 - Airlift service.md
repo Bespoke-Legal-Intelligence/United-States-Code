@@ -16,15 +16,35 @@ Transportation Between the United States and Foreign Locations.—Except as prov
 
 (c)
 
-Transportation Between Foreign Locations.—The transportation of passengers or property by CRAF-eligible aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airlift service shall be provided by an air carrier referred to in subsection (a) whenever transportation by such an air carrier is reasonably available.
+Transportation Between Foreign Locations.—The transportation of passengers or property by CRAF-eligible aircraft between two places outside the United States obtained by the Secretary of Defense or the Secretary of a military department through a contract for airliftservice shall be provided by an air carrier referred to in subsection (a) whenever transportation by such an air carrier is reasonably available.
 
 (d)
 
-Exception.—When the Secretary of Defense decides that no air carrier holding a certificate under section 41102 of title 49 is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
+Exception.—Subject to subsection (e), when the Secretary of Defense decides that no air carrier holding a certificate under section 41102 of title 49 is capable of providing, and willing to provide, the airlift service, the Secretary of Defense may make a contract to provide the service with an air carrier not having a certificate.
 
 (e)
 
+Annual Report.—Not later than 60 days after the end of each fiscal year, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report that—
+
+&emsp;(1) identifies each contract for airlift services awarded in the preceding fiscal year to a provider that does not meet the requirements set forth in subparagraphs (A) and (B) of subsection (a)(1); and
+
+&emsp;(2) for each such contract—
+
+&emsp;&emsp;(A) specifies the dollar value of the award; and
+
+&emsp;&emsp;(B) provides a detailed explanation of the reasons for the award.
+
+(f)
+
 CRAF-eligible Aircraft Defined.—In this section, "CRAF-eligible aircraft" means aircraft of a type the Secretary of Defense has determined to be eligible to participate in the civil reserve air fleet.
 
-(Added Pub. L. 113–291, div. A, title X, §1042(a), Dec. 19, 2014, 128 Stat. 3492.)
+(Added Pub. L. 113–291, div. A, title X, §1042(a), Dec. 19, 2014, 128 Stat. 3492; Pub. L. 117–81, div. A, title X, §1083(b), Dec. 27, 2021, 135 Stat. 1922.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 117–81, §1083(b)(1), substituted "Subject to subsection (e), when the Secretary" for "When the Secretary".
+
+Subsecs. (e), (f). Pub. L. 117–81, §1083(b)(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 

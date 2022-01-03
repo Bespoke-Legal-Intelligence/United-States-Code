@@ -50,9 +50,13 @@ In subsection (b), the words "after the effective date of such transfer" are omi
 
 In subsection (c), 10:1036g (last 32 words of last sentence) and 34:440o (last 32 words of last sentence) are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1335 of this title as this section and amended text generally, making changes in style.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -48,6 +48,8 @@ The Secretary may waive the application of subsection (a) if an eligible agency 
 
 (Pub. L. 88–210, title I, §132, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 730.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2352, Pub. L. 88–210, title I, §132, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3112, related to distribution of funds for postsecondary vocational and technical education programs, prior to the general amendment of this chapter by Pub. L. 109–270.

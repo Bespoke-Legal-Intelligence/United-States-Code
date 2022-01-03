@@ -78,6 +78,8 @@ The date of enactment of the Clean Railroads Act of 2008, referred to in subsecs
 
 Public Law 108–421, referred to in subsec. (c)(2), is Pub. L. 108–421, Nov. 30, 2004, 118 Stat. 2375, known as the Highlands Conservation Act, which is not classified to the Code.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For prior section 10909, see note set out under section 10907 of this title.
@@ -87,6 +89,8 @@ For prior section 10909, see note set out under section 10907 of this title.
 <b>2015</b>—Subsec. (b). Pub. L. 114–94, §11316(b)(1), substituted "Clean Railroads Act of 2008" for "Clean Railroad Act of 2008" in introductory provisions.
 
 Subsec. (e). Pub. L. 114–94, §11316(b)(2), substituted "Upon the granting of a petition from the State" for "Upon the granting of petition from the State".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

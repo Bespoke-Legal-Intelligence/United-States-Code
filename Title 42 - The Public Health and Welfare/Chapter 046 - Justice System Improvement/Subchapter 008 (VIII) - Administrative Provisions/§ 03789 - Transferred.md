@@ -1,5 +1,7 @@
 ### §3789. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3789 was editorially reclassified as section 10227 of Title 34, Crime Control and Law Enforcement.

@@ -100,7 +100,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iv) literacy of patients regarding health;
 
-&emsp;&emsp;&emsp;(v) any additional indicator, relating to improving or protecting the health of economically disadvantaged individuals and individuals who are members of medicallyunderserved populations, that the Corporation, in consultation (as appropriate) with the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention, establishes; or
+&emsp;&emsp;&emsp;(v) any additional indicator, relating to improving or protecting the health of economically disadvantaged individuals and individuals who are members of medically underserved populations, that the Corporation, in consultation (as appropriate) with the Secretary of Health and Human Services and the Director of the Centers for Disease Control and Prevention, establishes; or
 
 &emsp;&emsp;&emsp;(vi) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to improving or protecting the health of economically disadvantaged individuals and individuals who are members of medically underserved populations, that is approved by the Corporation or a State Commission.
 
@@ -122,7 +122,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iv) providing clean energy-related services designed to meet the needs of rural communities;
 
-&emsp;&emsp;&emsp;(v) working with schools and youth programs to educate students and youth about ways to reduce home energy use and improve the environment, including conducting service-learning projects to provide such education;
+&emsp;&emsp;&emsp;(v) working with schools and youth programs to educate students and youthabout ways to reduce home energy use and improve the environment, including conducting service-learning projects to provide such education;
 
 &emsp;&emsp;&emsp;(vi) assisting in the development of local recycling programs;
 
@@ -180,7 +180,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iii) assisting veterans in developing their educational opportunities (including opportunities for professional certification, licensure, or credentials), coordinating activities with and assisting State and local agencies administering veterans education benefits, and coordinating activities with and assisting entities administering veterans programs with internships and fellowships that could lead to employment in the private and public sectors;
 
-&emsp;&emsp;&emsp;(iv) promoting efforts within a community to serve the needs of veterans and members of the Armed Forces who are on active duty, including helping veterans file benefits claims and assisting Federal agencies in providing services to veterans, and sending care packages to Members of the Armed Forces who are deployed;
+&emsp;&emsp;&emsp;(iv) promoting efforts within a community to serve the needs of veterans andmembers of the Armed Forces who are on active duty, including helping veterans file benefits claims and assisting Federal agencies in providing services to veterans, and sending care packages to Members of the Armed Forces who are deployed;
 
 &emsp;&emsp;&emsp;(v) assisting veterans in developing mentoring relationships with economically disadvantaged students;
 
@@ -226,7 +226,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(iii) assisting economically disadvantaged individuals, including homeless individuals, in finding placement in and maintaining housing;
 
-&emsp;&emsp;&emsp;(iv) assisting economically disadvantaged individuals in obtaining access tohealth services for themselves or their children;
+&emsp;&emsp;&emsp;(iv) assisting economically disadvantaged individuals in obtaining access to health services for themselves or their children;
 
 &emsp;&emsp;&emsp;(v) assisting individuals in obtaining information about Federal, State, local, or private programs or benefits focused on assisting economically disadvantaged individuals, economically disadvantaged children, or low-income families;
 
@@ -298,7 +298,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;&emsp;(I) increasing State resources dedicated to mentoring;
 
-&emsp;&emsp;&emsp;&emsp;(II) supporting the creation of statewide and local mentoring partnerships and programs of national scope through collaborative efforts between entitiessuch as local or direct service mentoring partnerships, or units of State or local government; and
+&emsp;&emsp;&emsp;&emsp;(II) supporting the creation of statewide and local mentoring partnerships and programs of national scope through collaborative efforts between entities such as local or direct service mentoring partnerships, or units of State or local government; and
 
 &emsp;&emsp;&emsp;&emsp;(III) assisting direct service mentoring programs.
 
@@ -366,7 +366,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(i) as teachers, nurses and other health care providers, police officers, early childhood development staff, engineers, or other professionals providing service to meet human, educational, environmental, or public safety needs in communities with an inadequate number of such professionals;
 
-&emsp;&emsp;&emsp;(ii) for which the salary may exceed the maximum living allowance authorized insubsection (a)(2) of section 12594 of this title, as provided in subsection (c) of such section; and
+&emsp;&emsp;&emsp;(ii) for which the salary may exceed the maximum living allowance authorized in subsection (a)(2) of section 12594 of this title, as provided in subsection (c) of such section; and
 
 &emsp;&emsp;&emsp;(iii) that are sponsored by public or private employers who agree to pay 100 percent of the salaries and benefits (other than any national service educational award under division D) of the participants.
 
@@ -450,7 +450,7 @@ The Corporation shall consult with the Secretary of Education, the Secretary of 
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involving elementary school or secondary school students certifies that individuals serving in approved national service positions as tutors in such program have—
+&emsp;Except as provided in paragraph (2), the Corporation shall require that each recipient of assistance under the national service laws that operates a tutoring program involving elementary school or secondary school students certifies that individuals serving in approvednational service positions as tutors in such program have—
 
 &emsp;&emsp;(A) obtained their high school diplomas; and
 
@@ -490,13 +490,15 @@ Not later than 60 days after the end of each fiscal year for which the Corporati
 
 (Pub. L. 101–610, title I, §122, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 790; amended Pub. L. 111–13, title I, §1302, Apr. 21, 2009, 123 Stat. 1485; Pub. L. 114–95, title IX, §9215(bbb)(4), Dec. 10, 2015, 129 Stat. 2185.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(2)(F)(ii) and (f)(1)(A), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act was formerly classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title prior to transfer to part C (§1087–51 et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (k)(4)(B), is Pub. L. 93–113, Oct. 1, 1973, 87Stat. 394. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. Parts A and B of title II of the Act are classified generally to parts A (§5001) and B (§5011 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (k)(4)(B), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Part A of title I of the Act is classified generally to part A (§4951 et seq.) of subchapter I of chapter 66 of this title. Parts A and B of title II of the Act are classified generally to parts A (§5001) and B (§5011 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Prior Provisions
 
@@ -509,6 +511,8 @@ A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is cla
 <b>2015</b>—Subsec. (a)(1)(C)(iii). Pub. L. 114–95 substituted "four-year adjusted cohort graduation rate (as defined in section 7801 of title 20)" for "secondary school graduation rates as defined in section 6311(b)(2)(C)(vi) of title 20 and as clarified in applicable regulations promulgated by the Department of Education".
 
 <b>2009</b>—Pub. L. 111–13 substituted "National" for "Types of national" in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

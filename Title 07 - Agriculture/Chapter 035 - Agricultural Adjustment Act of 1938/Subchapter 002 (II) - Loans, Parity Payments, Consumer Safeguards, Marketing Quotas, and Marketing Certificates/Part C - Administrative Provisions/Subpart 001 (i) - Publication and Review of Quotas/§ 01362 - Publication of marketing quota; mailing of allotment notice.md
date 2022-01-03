@@ -6,6 +6,8 @@ Notice of the farm acreage allotment established for each farm shown by the reco
 
 (Feb. 16, 1938, ch. 30, title III, §362, 52 Stat. 62; Aug. 29, 1949, ch. 518, §2(c), 63 Stat. 676.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1949</b>—Act Aug. 29, 1949, inserted paragraph providing for mailing of notice of allotment.

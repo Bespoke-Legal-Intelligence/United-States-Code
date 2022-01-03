@@ -44,7 +44,7 @@ Under regulations prescribed by the Secretary—
 
 #### (E) Special rules
 
-&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
+&emsp;&emsp;Rules similar to the rules of this paragraph shall apply in cases where qualifiedprogress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
 
 #### (3) Carrybacks and carryovers adjusted
 
@@ -94,7 +94,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (2) Property used for lodging
 
-&emsp;No credit shall be determined under this subpart with respect to any property which isused predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
+&emsp;No credit shall be determined under this subpart with respect to any property which is used predominantly to furnish lodging or in connection with the furnishing of lodging. The preceding sentence shall not apply to—
 
 &emsp;&emsp;(A) nonlodging commercial facilities which are available to persons not using the lodging facilities on the same basis as they are available to persons using the lodging facilities;
 
@@ -174,7 +174,7 @@ No credit shall be determined under this subpart with respect to—
 
 #### (d) Certain rules made applicable
 
-For purposes of this subpart, rules similar to the rules of the following provisions (as in effecton the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
+For purposes of this subpart, rules similar to the rules of the following provisions (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply:
 
 &emsp;(1) Section 46(e) (relating to limitations with respect to certain persons).
 
@@ -193,6 +193,8 @@ For purposes of this subpart, rules similar to the rules of the following provis
 > Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
 
 (Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -222,13 +224,15 @@ Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted "48(a)(5)" for 
 
 Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or incurred after Oct. 22, 2004, see section 322(e) of Pub. L. 108–357, set out as a note under section 46 of this title.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1996 Amendment
 

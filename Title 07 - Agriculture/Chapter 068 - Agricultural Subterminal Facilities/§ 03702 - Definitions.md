@@ -10,17 +10,21 @@ As used in this chapter, the term—
 
 &emsp;(4) "subterminal facility" means any facility that is located in the area of production or consumption of agricultural commodities or any major storage or major export point for such commodities and is located at a place that conveniently serves the needs of producers, purchasers, and consumers of bulk agricultural commodities, and is—
 
-&emsp;&emsp;(A) used for the transient storage of bulk agricultural commodities and may includeequipment or structures necessary for the transportation, upgrading, receiving, drying, or loading out of such commodities; or
+&emsp;&emsp;(A) used for the transient storage of bulk agricultural commodities and may include equipment or structures necessary for the transportation, upgrading, receiving, drying, or loading out of such commodities; or
 
-&emsp;&emsp;(B) any rail siding, loading, or unloading facility that can accommodate unit railroad trains or multiple car trains and other appropriate transportation modes designed for the transport of bulk agricultural commodities and production materials; and
+&emsp;&emsp;(B) any rail siding, loading, or unloading facility that can accommodate unit railroadtrains or multiple car trains and other appropriate transportation modes designed for the transport of bulk agricultural commodities and production materials; and
 
 &emsp;(5) "region" means two or more States acting together to develop a coordinated regional subterminal facilities plan.
 
 (Pub. L. 96–358, §3, Sept. 25, 1980, 94 Stat. 1184.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in the introductory phrase, was in the original "this Act," meaning Pub. L. 96–358, Sept. 25, 1980, 94 Stat. 1184, known as the Agricultural Subterminal Facilities Act of 1980, which enacted this chapter and amended section 1932 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

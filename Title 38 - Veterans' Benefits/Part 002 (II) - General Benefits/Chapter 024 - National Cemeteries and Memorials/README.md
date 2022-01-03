@@ -10,7 +10,7 @@
 | [2405\.](%C2%A7%2002405%20-%20Disposition%20of%20inactive%20cemeteries.md) | Disposition of inactive cemeteries. |
 | [2406\.](%C2%A7%2002406%20-%20Acquisition%20of%20lands.md) | Acquisition of lands. |
 | [2407\.](%C2%A7%2002407%20-%20Authority%20to%20accept%20and%20maintain%20suitable%20memorials.md) | Authority to accept and maintain suitable memorials. |
-| [2408\.](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%27%20cemeteries.md) | Aid to States for establishment, expansion, and improvement of veterans' cemeteries. |
+| [2408\.](%C2%A7%2002408%20-%20Aid%20to%20States%2C%20counties%2C%20and%20tribal%20organizations%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%27%20cemeteries.md) | Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans' cemeteries. |
 | [2409\.](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md) | Memorial areas in Arlington National Cemetery. |
 | [2410\.](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md) | Burial of cremated remains in Arlington National Cemetery. |
 | [2410A.](%C2%A7%2002410A%20-%20Arlington%20National%20Cemetery%20other%20administrative%20matters.md) | Arlington National Cemetery: other administrative matters. |
@@ -20,10 +20,6 @@
 | [2414\.](%C2%A7%2002414%20-%20Communication%20between%20Department%20of%20Veterans%20Affairs%20and%20medical%20examiners%20and%20funeral%20directors.md) | Communication between Department of Veterans Affairs and medical examiners and funeral directors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 116–315, title II, §2205(b)(2), (c), Jan. 5, 2021, 134 Stat. 4987, provided that, effective on the date that is two years after Jan. 5, 2021, this analysis is amended by inserting ", counties, and tribal organizations" after "States" in item 2408. See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -64,7 +60,7 @@
 - [&sect; 02405 - Disposition of inactive cemeteries](%C2%A7%2002405%20-%20Disposition%20of%20inactive%20cemeteries.md)
 - [&sect; 02406 - Acquisition of lands](%C2%A7%2002406%20-%20Acquisition%20of%20lands.md)
 - [&sect; 02407 - Authority to accept and maintain suitable memorials](%C2%A7%2002407%20-%20Authority%20to%20accept%20and%20maintain%20suitable%20memorials.md)
-- [&sect; 02408 - Aid to States for establishment, expansion, and improvement of veterans' cemeteries](%C2%A7%2002408%20-%20Aid%20to%20States%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%27%20cemeteries.md)
+- [&sect; 02408 - Aid to States, counties, and tribal organizations for establishment, expansion, and improvement of veterans' cemeteries](%C2%A7%2002408%20-%20Aid%20to%20States%2C%20counties%2C%20and%20tribal%20organizations%20for%20establishment%2C%20expansion%2C%20and%20improvement%20of%20veterans%27%20cemeteries.md)
 - [&sect; 02409 - Memorial areas in Arlington National Cemetery](%C2%A7%2002409%20-%20Memorial%20areas%20in%20Arlington%20National%20Cemetery.md)
 - [&sect; 02410 - Burial of cremated remains in Arlington National Cemetery](%C2%A7%2002410%20-%20Burial%20of%20cremated%20remains%20in%20Arlington%20National%20Cemetery.md)
 - [&sect; 02410A - Arlington National Cemetery other administrative matters](%C2%A7%2002410A%20-%20Arlington%20National%20Cemetery%20other%20administrative%20matters.md)

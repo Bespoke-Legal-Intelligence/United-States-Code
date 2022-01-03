@@ -40,9 +40,13 @@ R.S. 4644.
 
 (4) Act of May 29, 1920, ch. 214, 41 Stat. 654, which abolished the offices of assistant treasurers and distributed their functions.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7677 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

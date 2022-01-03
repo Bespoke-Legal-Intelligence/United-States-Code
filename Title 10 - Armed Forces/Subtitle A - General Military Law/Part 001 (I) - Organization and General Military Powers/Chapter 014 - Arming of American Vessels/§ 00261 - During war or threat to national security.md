@@ -36,6 +36,8 @@ In subsection (b), the words "or national emergency" are omitted, since the word
 
 In subsection (c), the words "(relating to bonds from armed vessels on clearing)" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 261 was renumbered section 241 of this title.
@@ -69,6 +71,8 @@ Section 270, added Pub. L. 85–861, §1(5)(A), Sept. 2, 1958, 72 Stat. 1438; am
 <b>2016</b>—Pub. L. 114–328 renumbered section 351 of this title as this section.
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Section 16 of the Act of March 4, 1909 (22 U.S.C. 463)" for "Section 463 of title 22".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

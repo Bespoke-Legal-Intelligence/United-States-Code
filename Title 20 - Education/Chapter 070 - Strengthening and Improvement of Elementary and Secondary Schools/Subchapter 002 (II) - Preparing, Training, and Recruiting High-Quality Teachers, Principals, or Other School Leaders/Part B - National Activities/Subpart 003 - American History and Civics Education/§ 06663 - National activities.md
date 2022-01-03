@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, orother school leaders, particularly such instruction, strategies, activities, and programs that benefit low-income students and underserved populations.
+The purpose of this section is to promote new and existing evidence-based strategies to encourage innovative American history, civics and government, and geography instruction, learning strategies, and professional development activities and programs for teachers, principals, or other school leaders, particularly such instruction, strategies, activities, and programs that benefit low-income students and underserved populations.
 
 #### (b) In general
 
@@ -44,6 +44,8 @@ In this section, the term "eligible entity" means an institution of higher educa
 
 (Pub. L. 89–10, title II, §2233, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1947.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6663, Pub. L. 89–10, title II, §2203, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1647, authorized appropriations to carry out part B of former subchapter II of this chapter, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
@@ -51,6 +53,8 @@ A prior section 6663, Pub. L. 89–10, title II, §2203, as added Pub. L. 107–
 A prior section 2203 of Pub. L. 89–10 was classified to section 6643 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Another prior section 2203 of Pub. L. 89–10 was classified to section 3013 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

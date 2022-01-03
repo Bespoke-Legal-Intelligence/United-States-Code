@@ -18,7 +18,7 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 &emsp;Under regulations prescribed by the Secretary—
 
-&emsp;&emsp;(A) income, gain, loss, and deduction with respect to property contributed to the partnership by a partner shall be shared among the partners so as to take account of the variation between the basis of the propertyto the partnership and its fair market value at the time of contribution,
+&emsp;&emsp;(A) income, gain, loss, and deduction with respect to property contributed to the partnership by a partner shall be shared among the partners so as to take account of the variation between the basis of the property to the partnership and its fair market value at the time of contribution,
 
 &emsp;&emsp;(B) if any property so contributed is distributed (directly or indirectly) by the partnership (other than to the contributing partner) within 7 years of being contributed—
 
@@ -82,13 +82,15 @@ A partner's distributive share of income, gain, loss, deduction, or credit (or i
 
 #### (2) Purchase of interest by member of family
 
-&emsp;For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The "family" of any individual shall include only his spouse, ancestors,and lineal descendants, and any trusts for the primary benefit of such persons.
+&emsp;For purposes of this subsection, an interest purchased by one member of a family from another shall be considered to be created by gift from the seller, and the fair market value of the purchased interest shall be considered to be donated capital. The "family" of any individual shall include only his spouse, ancestors, and lineal descendants, and any trusts for the primary benefit of such persons.
 
 #### (f) Cross reference
 
 &emsp;&emsp;<b>For rules in the case of the sale, exchange, liquidation, or reduction of a partner's interest, see section 706(c)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, §833(a), Oct. 22, 2004, 118 Stat. 1589; Pub. L. 114–74, title XI, §1102(b), Nov. 2, 2015, 129 Stat. 639; Pub. L. 115–97, title I, §13503(a), Dec. 22, 2017, 131 Stat. 2141.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 240; Pub. L. 94–455, title II, §213(c)(2), (3)(A), (d), (e), titleXIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1548, 1834; Pub. L. 95–600, title II, §201(b)(1), Nov. 6, 1978, 92 Stat. 2816; Pub. L. 98–369, div. A, title I, §71(a), July 18, 1984, 98 Stat. 589; Pub. L. 101–239, title VII, §7642(a), Dec. 19, 1989, 103 Stat. 2379; Pub. L. 102–486, title XIX, §1937(b)(1), Oct. 24, 1992, 106 Stat. 3033; Pub. L. 105–34, title X, §1063(a), Aug. 5, 1997, 111 Stat. 947; Pub. L. 108–357, title VIII, §833(a), Oct. 22, 2004, 118 Stat. 1589; Pub. L. 114–74, title XI, §1102(b), Nov. 2, 2015, 129 Stat. 639; Pub. L. 115–97, title I, §13503(a), Dec. 22, 2017, 131 Stat. 2141.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -118,6 +120,8 @@ Subsec. (d). Pub. L. 94–455, §213(e), inserted provision relating to the dete
 
 Subsec. (f). Pub. L. 94–455, §213(c)(3)(A), added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13503(b), Dec. 22, 2017, 131 Stat. 2141, provided that: "The amendments made by this section \[amending this section\] shall apply to partnership taxable years beginning after December 31, 2017."
@@ -144,11 +148,11 @@ Binding contracts.—The amendment made by subsection (a) shall not apply to any
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–486, title XIX, §1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: "The amendments made bythis section \[enacting section 737 of this title and amending this section and section 731 of this title\] shall apply to distributions on or after June 25, 1992."
+Pub. L. 102–486, title XIX, §1937(c), Oct. 24, 1992, 106 Stat. 3033, provided that: "The amendments made by this section \[enacting section 737 of this title and amending this section and section 731 of this title\] shall apply to distributions on or after June 25, 1992."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7642(b), Dec. 19, 1989, 103 Stat. 2381, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply in the case of property contributed to the partnership after October 3, 1989, in taxable years ending after such date."
+Pub. L. 101–239, title VII, §7642(b), Dec. 19, 1989, 103 Stat. 2381, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply in the case of property contributed to the partnership after October 3, 1989, in taxable years ending after such date."
 
 #### Effective Date of 1984 Amendment
 

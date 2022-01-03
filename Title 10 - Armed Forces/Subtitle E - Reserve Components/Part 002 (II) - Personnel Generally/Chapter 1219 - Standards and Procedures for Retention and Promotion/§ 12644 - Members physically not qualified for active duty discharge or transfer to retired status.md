@@ -2,7 +2,7 @@
 
 Except as otherwise provided by law, the Secretary concerned may provide for the honorable discharge or the transfer to a retired status of members of the reserve components under his jurisdiction who are found to be not physically qualified for active duty. However, no member of the Army National Guard of the United States or the Air National Guard of the United States may be transferred under this subsection without the consent of the governor or other appropriate authority of the jurisdiction concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 79, §1004; Pub. L. 86–603, §1(1), July 7, 1960, 74 Stat. 357; Pub. L. 103–160, div. A, title V, §519, Nov. 30, 1993, 107 Stat. 1651; renumbered §12644 and amended Pub. L. 103–337, div. A, title XVI, §§1661(a)(4), 1662(h)(2), (4)(B), Oct. 5, 1994, 108 Stat. 2980, 2996, 2997.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 79, §1004; Pub. L. 86–603, §1(1), July 7, 1960, 74 Stat. 357; Pub. L. 103–160, div. A, title V, §519, Nov. 30, 1993, 107 Stat. 1651; renumbered §12644 and amended Pub. L. 103–337, div. A, title XVI, §§1661(a)(4),1662(h)(2), (4)(B), Oct. 5, 1994, 108 Stat. 2980, 2996, 2997.)
 
 Historical and Revision Notes
 
@@ -30,6 +30,8 @@ In subsection (a), the words "Each \* \* \* who is not on active duty" are sub
 
 In subsection (c), the words "under his jurisdiction" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, §1662(h)(2), (4)(B), renumbered section 1004 of this title as this section and substituted "Members physically not qualified for active duty: discharge or transfer to retired status" for "Physical examination" as section catchline.
@@ -50,7 +52,9 @@ Pub. L. 103–337, §1661(a)(4), struck out "(c)" before "Except as otherwise pr
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–603 limited the requirement for a physical examination every four years, and for the annual execution of a certificate of physical condition, to the Ready Reserve, and also required each Reserve in an active status, or on an inactive status list, who is not on active duty to execute and submit annually a certificate of physical condition.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
 

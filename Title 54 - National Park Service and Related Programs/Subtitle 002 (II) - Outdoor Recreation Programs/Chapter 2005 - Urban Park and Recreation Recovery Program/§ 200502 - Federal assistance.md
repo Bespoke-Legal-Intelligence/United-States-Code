@@ -24,7 +24,7 @@ In general.—The Secretary shall establish priority criteria for project select
 
 &emsp;&emsp;(D) public participation in determining rehabilitation or development needs;
 
-&emsp;&emsp;(E) the extent to which a project supports or complements target activities undertakenas part of a local government's overall community development and urban revitalization program;
+&emsp;&emsp;(E) the extent to which a project supports or complements target activities undertaken as part of a local government's overall community development and urban revitalization program;
 
 &emsp;&emsp;(F) the extent to which a proposed project would provide—
 

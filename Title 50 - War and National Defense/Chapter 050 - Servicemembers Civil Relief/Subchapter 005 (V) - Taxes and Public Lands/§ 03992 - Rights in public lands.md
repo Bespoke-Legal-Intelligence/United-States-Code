@@ -2,7 +2,7 @@
 
 #### (a) Rights not forfeited
 
-The rights of a servicemember to lands owned or controlled by the United States, and initiated or acquired by the servicemember under the laws of the United States (including the mining and mineral leasing laws) before military service, shall not be forfeited or prejudiced as a result of being absent from the land, or by failing to begin or complete any work or improvements to the land, during the period of military service.
+The rights of a servicemember to lands owned or controlled by the United States, and initiated or acquired by the servicemember under the laws of the United States (including the mining and mineral leasing laws) before military service, shall not be forfeited or prejudiced as a result of being absent from the land, or by failing to begin or complete any work or improvementsto the land, during the period of military service.
 
 #### (b) Temporary suspension of permits or licenses
 
@@ -13,6 +13,8 @@ If a permittee or licensee under the Act of June 28, 1934 (43 U.S.C. 315 et seq.
 Regulations prescribed by the Secretary of the Interior shall provide for such suspension of permits and licenses and for the remission, reduction, or refund of grazing fees during the period of such suspension.
 
 (Oct. 17, 1940, ch. 888, title V, §502, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2855.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ Section was formerly classified to section 562 of the former Appendix to this ti
 #### Prior Provisions
 
 A prior section 502 of act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1187, related to homestead entries and settlement claims, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

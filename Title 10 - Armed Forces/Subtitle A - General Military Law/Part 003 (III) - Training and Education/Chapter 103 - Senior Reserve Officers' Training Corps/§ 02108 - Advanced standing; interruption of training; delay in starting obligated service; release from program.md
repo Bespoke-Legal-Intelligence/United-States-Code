@@ -12,9 +12,13 @@
 
 (Added Pub. L. 88–647, title II, §201(1), Oct. 13, 1964, 78 Stat. 1068; amended Pub. L. 96–357, §1(d), Sept. 24, 1980, 94 Stat. 1180.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–357 authorized delay in starting obligated period of active duty for training or other service in an active or inactive status in a reserved component until completion of resident graduate or professional study or military junior college studies.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

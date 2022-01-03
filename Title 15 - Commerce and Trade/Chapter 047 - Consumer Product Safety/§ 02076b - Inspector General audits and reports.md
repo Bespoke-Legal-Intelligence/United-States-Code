@@ -22,7 +22,7 @@ Not later than 30 days after August 14, 2008, the Commission shall establish and
 
 &emsp;(1) a direct link on the homepage of its Internet website to the Internet webpage of the Commission's Office of Inspector General; and
 
-&emsp;(2) a mechanism on the webpage of the Commission's Office of Inspector General by which individuals may anonymously report cases of waste, fraud, or abuse with respect to the Commission.
+&emsp;(2) a mechanism on the webpage of the Commission's Office of Inspector General by which individuals may anonymously report cases ofwaste, fraud, or abuse with respect to the Commission.
 
 #### (d) Reports
 
@@ -36,6 +36,8 @@ Not later than 30 days after August 14, 2008, the Commission shall establish and
 
 (Pub. L. 110–314, title II, §205, Aug. 14, 2008, 122 Stat. 3043.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
@@ -46,7 +48,9 @@ The Consumer Product Safety Act, referred to in subsec. (b)(1), is Pub. L. 92–
 
 Section was enacted as part of the Consumer Product Safety Improvement Act of 2008, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
-For definitions of "Commission" and "appropriate Congressional committees" used in this section, seesection 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+For definitions of "Commission" and "appropriate Congressional committees" used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 

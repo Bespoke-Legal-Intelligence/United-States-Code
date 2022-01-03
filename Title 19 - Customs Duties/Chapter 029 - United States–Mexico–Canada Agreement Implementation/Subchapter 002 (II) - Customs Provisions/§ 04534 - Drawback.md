@@ -6,9 +6,9 @@ For purposes of this Act, the term "good subject to USMCA drawback" means any im
 
 &emsp;(1) A good entered under bond for transportation and exportation to a USMCA country.
 
-&emsp;(2) A good exported to a USMCA country in the same condition as when imported into theUnited States. For purposes of this paragraph—
+&emsp;(2) A good exported to a USMCA country in the same condition as when imported into the United States. For purposes of this paragraph—
 
-&emsp;&emsp;(A) processes such as testing, cleaning, repacking, sorting, marking, or inspecting a good, or preserving it in its same condition, shall not be considered to change the condition of the good, and
+&emsp;&emsp;(A) processes such as testing, cleaning, repacking, sorting, marking, or inspecting agood, or preserving it in its same condition, shall not be considered to change the condition of the good, and
 
 &emsp;&emsp;(B) except for a good referred to in paragraph 11 of Annex 3–B of the USMCA that is exported to Mexico, if a good described in the first sentence of this paragraph is commingled with fungible goods and exported in the same condition, the origin of the good may be determined on the basis of the inventory methods provided for in the regulations implementing this title.<sup>1</sup>
 
@@ -98,7 +98,9 @@ Nothing in this section or the amendments made by it shall be considered to auth
 
 &emsp;&emsp;(B) a credit against a bond under section 1312(d)(1) of this title.
 
-(Pub. L. 116–113, title II, §208, title V, §501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260, div. O, title VI, §601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
+(Pub. L. 116–113, title II, §208, title V, §501(a)–(d), Jan. 29, 2020, 134 Stat. 52, 67, 68; Pub. L. 116–260,div. O, title VI, §601(c)(1), Dec. 27, 2020, 134 Stat. 2150.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -106,7 +108,7 @@ This Act, referred to in subsec. (a), is Pub. L. 116–113, Jan. 29, 2020, 134 S
 
 This title, referred to in subsec. (a)(2)(B), is title II of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 19, which enacted this subchapter and amended and enacted provisions set out as notes under several sections within this title. For complete classification of title II to the Code, see Tables.
 
-Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–183, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+Section 202, referred to in subsec. (a)(5), is section 202 of Pub. L. 103–182, title II, Dec. 8, 1993, 107 Stat. 2069, which was classified to section 3332 of this title prior to repeal by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
 
 The amendments made by this section, referred to in subsec. (d), mean the amendments made by section 203(b) and (c) of Pub. L. 103–182, which amended sections 81c, 1311 to 1313, and 1562 of this title.
 
@@ -147,6 +149,8 @@ Pub. L. 116–113, §501(d)(1)–(3), transferred subsec. (d) of section 3333 of
 Subsec. (d). Pub. L. 116–113, §501(d)(1)–(3), transferred subsec. (e) of section 3333 of this title to this section, inserted it after subsec. (c), and redesignated it as subsec. (d). See Codification note above.
 
 Subsec. (e). Pub. L. 116–260 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

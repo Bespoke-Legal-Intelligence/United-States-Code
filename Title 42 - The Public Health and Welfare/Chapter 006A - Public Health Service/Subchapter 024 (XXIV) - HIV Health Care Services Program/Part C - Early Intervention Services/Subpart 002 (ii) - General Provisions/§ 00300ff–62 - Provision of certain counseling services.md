@@ -60,6 +60,8 @@ Agreements made pursuant to this section may not be construed to prohibit any gr
 
 (July 1, 1944, ch. 373, title XXVI, §2662, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 610; amended Pub. L. 106–345, title III, §321, Oct. 20, 2000, 114 Stat. 1346; Pub. L. 109–415, title III, §305, title VII, §703, Dec. 19, 2006, 120 Stat. 2807, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
@@ -76,7 +78,9 @@ Subsec. (c)(3)(C). Pub. L. 106–345, §321(3), designated existing provisions a
 
 Subsec. (c)(3)(D). Pub. L. 106–345, §321(2), inserted "on" before "the availability".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section asin effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

@@ -4,6 +4,8 @@ In furtherance of the purposes of the Act of March 4, 1931 (46 Stat. 1522), the 
 
 (Pub. L. 87–134, §1, Aug. 10, 1961, 75 Stat. 336.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 4, 1931 (46 Stat. 1522), referred to in text, was not classified to the Code.

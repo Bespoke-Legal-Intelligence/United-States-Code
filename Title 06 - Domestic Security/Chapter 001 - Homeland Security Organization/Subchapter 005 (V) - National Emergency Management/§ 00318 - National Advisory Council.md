@@ -126,7 +126,7 @@ Not later than 60 days after October 4, 2006, the Secretary shall establish an a
 
 #### (5) Consultation with nonmembers
 
-&emsp;The RESPONSE Subcommittee and the program offices for emergency responder trainingand resources shall consult with other relevant agencies and groups, including entities engaged in federally funded research and academic institutions engaged in relevant work and research, which are not represented on the RESPONSE Subcommittee to consider new and developing technologies and methods that may be beneficial to preparedness and response to rail hazardous materials incidents.
+&emsp;The RESPONSE Subcommittee and the program offices for emergency responder training and resources shall consult with other relevant agencies and groups, including entities engaged in federally funded research and academic institutions engaged in relevant work and research, which are not represented on the RESPONSE Subcommittee to consider new and developing technologies and methods that may be beneficial to preparedness and response to rail hazardous materials incidents.
 
 #### (6) Recommendations
 

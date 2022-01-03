@@ -182,6 +182,8 @@ In subsection (d)(3), the word "Administrator" is substituted for "Federal Aviat
 
 In subsection (e), before clause (1), the words "the effectiveness of" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -195,6 +197,8 @@ In subsection (e), before clause (1), the words "the effectiveness of" are omitt
 &emsp;"(1) the order is effective; and
 
 &emsp;"(2) the Board shall make a final disposition of the appeal not later than 60 days after the Administrator so advises the Board."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

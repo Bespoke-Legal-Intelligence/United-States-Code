@@ -36,7 +36,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Records of persons having custody or use of the securities, deposits, or credits of a registered investment company that relate to such custody or use, are subject at anytime, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
+&emsp;&emsp;Records of persons having custody or use of the securities, deposits, or credits of a registered investment company that relate to such custody or use, are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
 #### (B) Certain persons subject to other regulation
 
@@ -50,7 +50,9 @@ The Commission may, in the public interest or for the protection of investors, i
 
 The Commission, upon application made by any registered investment company, may by order exempt a specific transaction or transactions from the provisions of any rule or regulation made pursuant to subsection (e), if the Commission finds that such rule or regulation should not reasonably be applied to such transaction.
 
-(Aug. 22, 1940, ch. 686, title I, §31, 54 Stat. 838; Pub. L. 104–290, title II, §207, Oct. 11, 1996, 110 Stat. 3430; Pub. L. 105–353, title III, §301(c)(6), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §§929I(b), 929Q(a), July 21, 2010, 124 Stat. 1858, 1865; Pub. L. 111–257, §1(b), Oct. 5, 2010, 124 Stat. 2646.)
+(Aug. 22, 1940, ch. 686, title I, §31, 54 Stat. 838; Pub. L. 104–290, title II, §207, Oct. 11, 1996, 110 Stat. 3430; Pub. L. 105–353, title III, §301(c)(6),Nov. 3, 1998, 112 Stat. 3237; Pub. L. 111–203, title IX, §§929I(b), 929Q(a), July 21, 2010, 124 Stat. 1858, 1865; Pub. L. 111–257, §1(b), Oct. 5, 2010, 124 Stat. 2646.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -86,9 +88,13 @@ Subsec. (e). Pub. L. 104–290, §207(2), (4), redesignated subsec. (c) as (e) a
 
 Subsec. (f). Pub. L. 104–290, §207(2), (5), redesignated subsec. (d) as (f) and inserted heading.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

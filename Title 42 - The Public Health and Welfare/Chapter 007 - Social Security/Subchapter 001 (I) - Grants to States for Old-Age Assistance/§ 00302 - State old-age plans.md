@@ -24,11 +24,11 @@ A State plan for old-age assistance must—
 
 &emsp;(10) if the State plan includes old-age assistance—
 
-&emsp;&emsp;(A) provide that the State agency shall, in determining need for such assistance, take into consideration any other income and resources of an individual claiming old-age assistance, as well as any expenses reasonably attributable to the earning of any such income; except that, in making such determination, (i) the State agency may disregard not more than $7.50 per month of any income and (ii) of the first $80 per month of additional income which is earned the State agency may disregard not more than the first $20 thereof plus one-half of the remainder;
+&emsp;&emsp;(A) provide that the State agency shall, in determining need for such assistance, take into consideration any other income and resources of an individual claiming old-age assistance, as well as any expenses reasonablyattributable to the earning of any such income; except that, in making such determination, (i) the State agency may disregard not more than $7.50 per month of any income and (ii) of the first $80 per month of additional income which is earned the State agency may disregard not more than the first $20 thereof plus one-half of the remainder;
 
 &emsp;&emsp;(B) include reasonable standards, consistent with the objectives of this subchapter, for determining eligibility for and the extent of such assistance; and
 
-&emsp;&emsp;(C) provide a description of the services (if any) which the State agency makes available (using whatever internal organizationalarrangement it finds appropriate for this purpose) to applicants for and recipients of such assistance to help them attain self-care, including a description of the steps taken to assure, in the provision of such services, maximum utilization of other agencies providing similar or related services; and
+&emsp;&emsp;(C) provide a description of the services (if any) which the State agency makes available (using whatever internal organizational arrangement it finds appropriate for this purpose) to applicants for and recipients of such assistance to help them attain self-care, including a description of the steps taken to assure, in the provision of such services, maximum utilization of other agencies providing similar or related services; and
 
 &emsp;(11) provide that information is requested and exchanged for purposes of income and eligibility verification in accordance with a State system which meets the requirements of section 1320b–7 of this title.
 
@@ -53,6 +53,8 @@ Nothing in this subchapter shall be construed to permit a State to have in effec
 #### Repeal of Section
 
 <i>Pub. L. 92–603, title III, §303(a), (b), Oct. 30, 1972, 86 Stat. 1484, provided that this section is repealed effective Jan. 1, 1974, except with respect to Puerto Rico, Guam, and the Virgin Islands.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -80,7 +82,7 @@ Subsec. (a)(12), (13). Pub. L. 89–97, §221(a)(3), added pars. (12) and (13).
 
 <b>1962</b>—Subsec. (a)(10)(A). Pub. L. 87–543 inserted "as well as any expenses reasonably attributable to the earning of any such income" and exception provision.
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, inserting provisions relating to plans for medical assistance, and required plans that include old-age assistance to include reasonable standards, consistent with objectives of this subchapter, for determining eligibility for and extent of such assistance.
+<b>1960</b>—Subsec. (a). Pub. L. 86–778 amended subsec. (a) generally, inserting provisions relating to plans formedical assistance, and required plans that include old-age assistance to include reasonable standards, consistent with objectives of this subchapter, for determining eligibility for and extent of such assistance.
 
 Subsec. (b). Pub. L. 86–778 amended subsec. (b) generally, substituting "eligibility for assistance under the plan" for "eligibility for old-age assistance under the plan" in opening provisions, struck out provisions from par. (1) which permitted plan to impose an age requirement of as much as 70 years until Jan. 1, 1940, and inserted provisions in par. (2) requiring the Secretary to disapprove any plan, in the case of applicants for medical assistance for the aged, which excludes any individual who resides in the State.
 
@@ -93,6 +95,8 @@ Subsec. (c). Pub. L. 86–778 added subsec. (c).
 <b>1950</b>—Subsec. (a). Act Aug. 28, 1950, substituted "provide for granting an opportunity for a fair hearing before the State agency to any individual whose claim for old-age assistance is denied or is not acted upon with reasonable promptness" for "provide for granting to any individual, whose claim for old-age assistance is denied, an opportunity for a fair hearing before such State agency" in par. (4), "Administrator" for "Board" wherever appearing, and "he", "him", or "his" for "it" or "its" wherever appearing, and added pars. (9) and (10).
 
 <b>1939</b>—Subsec. (a). Act Aug. 10, 1939, amended subsec. (a) generally commencing with par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

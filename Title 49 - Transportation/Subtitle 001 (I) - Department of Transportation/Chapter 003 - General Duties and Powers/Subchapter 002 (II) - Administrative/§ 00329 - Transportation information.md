@@ -92,7 +92,7 @@ Aug. 23, 1958, Pub. L. 85–726, §302(d), 72 Stat. 746.
 
 In subsection (a), the word "information" is substituted for "data, statistics, and other information" in 49:1634 to eliminate unnecessary words. The words "transportation system of the United States" are substituted for "national transportation system" in 49:1634 for clarity and consistency. The words "in carrying out this activity" before "the Secretary shall" in 49:1634 are omitted as surplus. The words "departments, agencies, and instrumentalities of the United States Government" are substituted for "Federal agencies" in 49:1634 for clarity and consistency. The words "To the greatest extent practical" are substituted for "insofar as practicable" in 49:1634 for consistency. The words "The Secretary shall" are added for clarity.
 
-In subsection (b), the words "by the National Transportation Safety Board under title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.) or the Civil Aeronautics Board under title IV of that Act (49 U.S.C. 1371 et seq.)" are substituted for "the Board under subchapter IV and VII of this chapter)" in 49:1352 because 49:1655(d) (1st sentence) transferred duties of the Civil Aeronautics Board under 49:ch. 20, subch. VII to the Secretary of Transportation to be carried out through the National Transportation Safety Board. The reference to the National Transportation Safety Board is to the independent Board established by section 303(a) of the Independent Safety Board Act of 1974 (Pub. L. 93–633, 88 Stat. 2167) outside the Department of Transportation and not to the prior Board that was a part of the Department. The words "departments, agencies, and instrumentalities of the Government" are substituted for "government channels" in 49:1352 for clarity and consistency.
+In subsection (b), the words "by the National Transportation Safety Board under title VII of the Federal Aviation Act of 1958 (49 U.S.C. 1441 et seq.) or the Civil Aeronautics Board under title IV of that Act (49 U.S.C. 1371 et seq.)" are substituted for "the Board under subchapter IV and VII of this chapter)" in 49:1352 because49:1655(d) (1st sentence) transferred duties of the Civil Aeronautics Board under 49:ch. 20, subch. VII to the Secretary of Transportation to be carried out through the National Transportation Safety Board. The reference to the National Transportation Safety Board is to the independent Board established by section 303(a) of the Independent Safety Board Act of 1974 (Pub. L. 93–633, 88 Stat. 2167) outside the Department of Transportation and not to the prior Board that was a part of the Department. The words "departments, agencies, and instrumentalities of the Government" are substituted for "government channels" in 49:1352 for clarity and consistency.
 
 In subsection (c)(1), the words "of the United States" are added for clarity and consistency. The words "of a State, territory, or possession" are substituted for "thereof" after "subdivision" for clarity. The words "related to the duties and powers of the Secretary" are substituted for "falling within the province of the Department" for clarity and consistency.
 
@@ -107,6 +107,8 @@ Section 4(j)(7) amends 49:329 to omit references to overseas air transportation 
 #### Pub. L. 104–287
 
 This amends 49:329 to make conforming amendments necessary because of the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 745).
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -125,6 +127,8 @@ Subsec. (d). Pub. L. 103–272, §4(j)(7)(B), substituted "part A of subtitle VI
 Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
 
 Subsec. (d). Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

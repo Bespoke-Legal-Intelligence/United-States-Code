@@ -40,6 +40,8 @@ For each fiscal year, there is authorized to be appropriated to the Fund an amou
 
 (July 1, 1944, ch. 373, title III, §338F, as added Pub. L. 101–597, title II, §204, Nov. 16, 1990, 104 Stat. 3027.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 338F of act July 1, 1944, was renumbered section 338G by Pub. L. 101–597 and is classified to section 254p of this title.

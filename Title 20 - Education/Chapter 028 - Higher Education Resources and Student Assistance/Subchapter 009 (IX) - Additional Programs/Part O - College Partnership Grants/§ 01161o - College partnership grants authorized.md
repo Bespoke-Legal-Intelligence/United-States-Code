@@ -60,9 +60,13 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 89–329, title VIII, §841, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3420; amended Pub. L. 111–39, title VIII, §801(12), July 1, 2009, 123 Stat. 1956.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–39 substituted "1093a(b)(1)" for "1093a(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

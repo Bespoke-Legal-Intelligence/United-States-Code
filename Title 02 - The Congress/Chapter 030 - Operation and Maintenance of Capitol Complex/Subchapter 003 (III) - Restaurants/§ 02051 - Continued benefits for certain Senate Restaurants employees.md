@@ -256,7 +256,7 @@ Senate Office Buildings" under the heading "ARCHITECT OF THE CAPITOL", the Archi
 
 #### (2) Use of funds
 
-&emsp;Any funds deposited under paragraph (1) shall be available for expenditure in the same manner as funds appropriated into that account.
+&emsp;Any funds deposited under paragraph (1) shall be available for expenditure in the samemanner as funds appropriated into that account.
 
 #### (i) Effective date
 

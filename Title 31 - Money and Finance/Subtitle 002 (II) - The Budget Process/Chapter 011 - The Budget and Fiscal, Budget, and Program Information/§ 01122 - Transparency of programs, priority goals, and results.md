@@ -124,7 +124,7 @@ Transparency of Agency Priority Goals and Results.—The head of each agency req
 
 &emsp;(6) the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;
 
-&emsp;(7) an assessment of whether relevant organizations, program activities, regulations, policies, and other activities are contributing as planned;
+&emsp;(7) an assessment of whether relevant organizations, program activities, regulations,policies, and other activities are contributing as planned;
 
 &emsp;(8) an identification of the agency priority goals at risk of not achieving the planned level of performance; and
 
@@ -144,7 +144,7 @@ Transparency of Federal Government Priority Goals and Results.—The Director of
 
 &emsp;(5) the results achieved during the most recent quarter and overall trend data compared to the planned level of performance;
 
-&emsp;(6) an identification of the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activitiesthat contribute to each Federal Government priority goal;
+&emsp;(6) an identification of the agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities that contribute to each Federal Government priority goal;
 
 &emsp;(7) an assessment of whether relevant agencies, organizations, program activities, regulations, tax expenditures, policies, and other activities are contributing as planned;
 

@@ -12,9 +12,11 @@ Any debt collector communicating with any person other than the consumer for the
 
 &emsp;(5) not use any language or symbol on any envelope or in the contents of any communication effected by the mails or telegram that indicates that the debt collector is in the debt collection business or that the communication relates to the collection of a debt; and
 
-&emsp;(6) after the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of, or can readily ascertain, such attorney's name and address, not communicate with any person other than that attorney, unless the attorney fails to respond within a reasonable period of time to communication from the debt collector.
+&emsp;(6) after the debt collector knows the consumer is represented by an attorney with regard to the subject debt and has knowledge of,or can readily ascertain, such attorney's name and address, not communicate with any person other than that attorney, unless the attorney fails to respond within a reasonable period of time to communication from the debt collector.
 
 (Pub. L. 90–321, title VIII, §804, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 876.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

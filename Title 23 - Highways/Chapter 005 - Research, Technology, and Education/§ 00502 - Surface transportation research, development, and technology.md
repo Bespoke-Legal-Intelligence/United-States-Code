@@ -226,7 +226,7 @@ Related entity.—In this subparagraph, the term "related entity" means a contra
 
 Financial responsibility.—A participant shall obtain liability insurance or demonstrate financial responsibility, in amounts determined by the Secretary, for claims by—
 
-&emsp;&emsp;&emsp;&emsp;(I) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured under the registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
+&emsp;&emsp;&emsp;&emsp;(I) a third party for death, bodily injury, or property damage, or loss resulting from an activity carried out in connection with participation in a competition, with the Federal Government named as an additional insured underthe registered participant's insurance policy and registered participants agreeing to indemnify the Federal Government against third party claims for damages arising from or related to competition activities; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Federal Government for damage or loss to Government property resulting from such an activity.
 
@@ -488,7 +488,7 @@ Subsec. (g). Pub. L. 109–59, §5201(j)(1), amended heading and text of subsec.
 
 Pub. L. 109–59, §5201(b)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report to be submitted not later than July 31, 2006, and July 31 of every second year thereafter.
+Subsec. (h). Pub. L. 109–59, §5201(k), added subsec. (h) relating to infrastructure investment needs report tobe submitted not later than July 31, 2006, and July 31 of every second year thereafter.
 
 Pub. L. 109–59, §5201(b)(1), redesignated subsec. (g), relating to infrastructure investment needs report to be submitted not later than Jan. 31, 1999, and Jan. 31 of every second year thereafter, as (h).
 
@@ -505,6 +505,378 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
+
+#### Smart Community Resource Center
+
+Pub. L. 117–58, div. B, title V, §25002, Nov. 15, 2021, 135 Stat. 837, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Resource center.—The term 'resource center' means the Smart Community Resource Center established under subsection (b).
+
+&emsp;"(2)
+
+Smart community.—The term 'smart community' means a community that uses innovative technologies, data, analytics, and other means to improve the community and address local challenges.
+
+"(b)
+
+Establishment.—The Secretary \[of Transportation\] shall work with the modal administrations of the Department \[of Transportation\] and with such other Federal agencies and departments as the Secretary determines to be appropriate to make available to the public on an Internet website a resource center, to be known as the 'Smart Community Resource Center', that includes a compilation of resources or links to resources for States and local communities to use in developing and implementing—
+
+&emsp;"(1) intelligent transportation system programs; or
+
+&emsp;"(2) smart community transportation programs.
+
+"(c)
+
+Inclusions.—The resource center shall include links to—
+
+&emsp;"(1) existing programs and resources for intelligent transportation system or smart community transportation programs, including technical assistance, education, training, funding, and examples of intelligent transportation systems or smart community transportation programs implemented by States and local communities, available from—
+
+&emsp;&emsp;"(A) the Department;
+
+&emsp;&emsp;"(B) other Federal agencies; and
+
+&emsp;&emsp;"(C) non-Federal sources;
+
+&emsp;"(2) existing reports or databases with the results of intelligent transportation system or smart community transportation programs;
+
+&emsp;"(3) any best practices developed or lessons learned from intelligent transportation system or smart community transportation programs; and
+
+&emsp;"(4) such other resources as the Secretary determines to be appropriate.
+
+"(d)
+
+Deadline.—The Secretary shall establish the resource center by the date that is 1 year after the date of enactment of this Act \[Nov. 15, 2021\].
+
+"(e)
+
+Updates.—The Secretary shall ensure that the resource center is updated on a regular basis."
+
+#### Strengthening Mobility and Revolutionizing Transportation Grant Program
+
+Pub. L. 117–58, div. B, title V, §25005, Nov. 15, 2021, 135 Stat. 840, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Eligible entity.—The term 'eligible entity' means—
+
+&emsp;&emsp;"(A) a State;
+
+&emsp;&emsp;"(B) a political subdivision of a State;
+
+&emsp;&emsp;"(C) a Tribal government;
+
+&emsp;&emsp;"(D) a public transit agency or authority;
+
+&emsp;&emsp;"(E) a public toll authority;
+
+&emsp;&emsp;"(F) a metropolitan planning organization; and
+
+&emsp;&emsp;"(G) a group of 2 or more eligible entities described in any of subparagraphs (A) through (F) applying through a single lead applicant.
+
+&emsp;"(2)
+
+Eligible project.—The term 'eligible project' means a project described in subsection (e).
+
+&emsp;"(3)
+
+Large community.—The term 'large community' means a community with a population of not less than 400,000 individuals, as determined under the most recent annual estimate of the Bureau of the Census.
+
+&emsp;"(4)
+
+Midsized community.—The term 'midsized community" means any community that is not a large community or a rural community.
+
+&emsp;"(5)
+
+Regional partnership.—The term 'regional partnership' means a partnership composed of 2 or more eligible entities located in jurisdictions with a combined population that is equal to or greater than the population of any midsized community.
+
+&emsp;"(6)
+
+Rural community.—The term 'rural community' means a community that is located in an area that is outside of an urbanized area (as defined in section 5302 of title 49, United States Code).
+
+&emsp;"(7)
+
+SMART grant.—The term 'SMART grant' means a grant provided to an eligible entity under the Strengthening Mobility and Revolutionizing Transportation Grant Program established under subsection (b).
+
+"(b)
+
+Establishment of Program.—The Secretary \[of Transportation\] shall establish a program, to be known as the 'Strengthening Mobility and Revolutionizing Transportation Grant Program', under which the Secretary shall provide grants to eligible entities to conduct demonstration projects focused on advanced smart city or community technologies and systems in a variety of communities to improve transportation efficiency and safety.
+
+"(c)
+
+Distribution.—In determining the projects for which to provide a SMART grant, the Secretary shall consider contributions to geographical diversity among grant recipients, including the need for balancing the needs of rural communities, midsized communities, and large communities, consistent with the requirements of subparagraphs (A) through (C) of subsection (g)(1).
+
+"(d)
+
+Applications.—
+
+&emsp;"(1)
+
+In general.—An eligible entity may submit to the Secretary an application for a SMART grant at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;"(2)
+
+Transparency.—The Secretary shall include, in any notice of funding availability relating to SMART grants, a full description of the method by which applications under paragraph (1) will be evaluated.
+
+&emsp;"(3)
+
+Selection criteria.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Secretary shall evaluate applications for SMART grants based on—
+
+&emsp;&emsp;&emsp;"(i) the extent to which the eligible entity or applicable beneficiary community—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) has a public transportation system or other transit options capable of integration with other systems to improve mobility and efficiency;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) has a population density and transportation needs conducive to demonstrating proposed strategies;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) has continuity of committed leadership and the functional capacity to carry out the proposed project;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) is committed to open data sharing with the public; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) is likely to successfully implement the proposed eligible project, including through technical and financial commitments from the public and private sectors; and
+
+&emsp;&emsp;&emsp;"(ii) the extent to which a proposed eligible project will use advanced data, technology, and applications to provide significant benefits to a local area, a State, a region, or the United States, including the extent to which the proposed eligible project will—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) reduce congestion and delays for commerce and the traveling public;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) improve the safety and integration of transportation facilities and systems for pedestrians, bicyclists, and the broader traveling public;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) improve access to jobs, education, and essential services, including health care;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) connect or expand access for underserved or disadvantaged populations and reduce transportation costs;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(V) contribute to medium- and long-term economic competitiveness;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VI) improve the reliability of existing transportation facilities and systems;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VII) promote connectivity between and among connected vehicles, roadway infrastructure, pedestrians, bicyclists, the public, and transportation systems\[;\]
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(VIII) incentivize private sector investments or partnerships, including by working with mobile and fixed telecommunication service providers, to the extent practicable;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IX) improve energy efficiency or reduce pollution;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(X) increase the resiliency of the transportation system; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(XI) improve emergency response.
+
+&emsp;&emsp;"(B)
+
+Priority.—In providing SMART grants, the Secretary shall give priority to applications for eligible projects that would—
+
+&emsp;&emsp;&emsp;"(i) demonstrate smart city or community technologies in repeatable ways that can rapidly be scaled;
+
+&emsp;&emsp;&emsp;"(ii) encourage public and private sharing of data and best practices;
+
+&emsp;&emsp;&emsp;"(iii) encourage private-sector innovation by promoting industry-driven technology standards, open platforms, technology-neutral requirements, and interoperability;
+
+&emsp;&emsp;&emsp;"(iv) promote a skilled workforce that is inclusive of minority or disadvantaged groups;
+
+&emsp;&emsp;&emsp;"(v) allow for the measurement and validation of the cost savings and performance improvements associated with the installation and use of smart city or community technologies and practices;
+
+&emsp;&emsp;&emsp;"(vi) encourage the adoption of smart city or community technologies by communities;
+
+&emsp;&emsp;&emsp;"(vii) promote industry practices regarding cybersecurity; and
+
+&emsp;&emsp;&emsp;"(viii) safeguard individual privacy.
+
+&emsp;"(4)
+
+Technical assistance.—On request of an eligible entity that submitted an application under paragraph (1) with respect to a project that is not selected for a SMART grant, the Secretary shall provide to the eligible entity technical assistance and briefings relating to the project.
+
+"(e)
+
+Use of Grant Funds.—
+
+&emsp;"(1)
+
+Eligible projects.—
+
+&emsp;&emsp;"(A)
+
+In general.—A SMART grant may be used to carry out a project that demonstrates at least 1 of the following:
+
+&emsp;&emsp;&emsp;"(i)
+
+Coordinated automation.—The use of automated transportation and autonomous vehicles, while working to minimize the impact on the accessibility of any other user group or mode of travel.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Connected vehicles.—Vehicles that send and receive information regarding vehicle movements in the network and use vehicle-to-vehicle and vehicle-to-everything communications to provide advanced and reliable connectivity.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Intelligent, sensor-based infrastructure.—The deployment and use of a collective intelligent infrastructure that allows sensors to collect and report real-time data to inform everyday transportation-related operations and performance.
+
+&emsp;&emsp;&emsp;"(iv)
+
+Systems integration.—The integration of intelligent transportation systems with other existing systems and other advanced transportation technologies.
+
+&emsp;&emsp;&emsp;"(v)
+
+Commerce delivery and logistics.—Innovative data and technological solutions supporting efficient goods movement, such as connected vehicle probe data, road weather data, or global positioning data to improve on-time pickup and delivery, improved travel time reliability, reduced fuel consumption and emissions, and reduced labor and vehicle maintenance costs.
+
+&emsp;&emsp;&emsp;"(vi)
+
+Leveraging use of innovative aviation technology.—Leveraging the use of innovative aviation technologies, such as unmanned aircraft systems, to support transportation safety and efficiencies, including traffic monitoring and infrastructure inspection.
+
+&emsp;&emsp;&emsp;"(vii)
+
+Smart grid.—Development of a programmable and efficient energy transmission and distribution system to support the adoption or expansion of energy capture, electric vehicle deployment, or freight or commercial fleet fuel efficiency.
+
+&emsp;&emsp;&emsp;"(viii)
+
+Smart technology traffic signals.—Improving the active management and functioning of traffic signals, including through—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the use of automated traffic signal performance measures;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) implementing strategies, activities, and projects that support active management of traffic signal operations, including through optimization of corridor timing, improved vehicle, pedestrian, and bicycle detection at traffic signals, or the use of connected vehicle technologies;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) replacing outdated traffic signals; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) for an eligible entity serving a population of less than 500,000, paying the costs of temporary staffing hours dedicated to updating traffic signal technology.
+
+&emsp;"(2)
+
+Eligible project costs.—A SMART grant may be used for—
+
+&emsp;&emsp;"(A) development phase activities, including—
+
+&emsp;&emsp;&emsp;"(i) planning;
+
+&emsp;&emsp;&emsp;"(ii) feasibility analyses;
+
+&emsp;&emsp;&emsp;"(iii) revenue forecasting;
+
+&emsp;&emsp;&emsp;"(iv) environmental review;
+
+&emsp;&emsp;&emsp;"(v) permitting;
+
+&emsp;&emsp;&emsp;"(vi) preliminary engineering and design work;
+
+&emsp;&emsp;&emsp;"(vii) systems development or information technology work; and
+
+&emsp;&emsp;&emsp;"(viii) acquisition of real property (including land and improvements to land relating to an eligible project); and
+
+&emsp;&emsp;"(B) construction phase activities, including—
+
+&emsp;&emsp;&emsp;"(i) construction;
+
+&emsp;&emsp;&emsp;"(ii) reconstruction;
+
+&emsp;&emsp;&emsp;"(iii) rehabilitation;
+
+&emsp;&emsp;&emsp;"(iv) replacement;
+
+&emsp;&emsp;&emsp;"(v) environmental mitigation;
+
+&emsp;&emsp;&emsp;"(vi) construction contingencies; and
+
+&emsp;&emsp;&emsp;"(vii) acquisition of equipment, including vehicles.
+
+&emsp;"(3)
+
+Prohibited uses.—A SMART grant shall not be used—
+
+&emsp;&emsp;"(A) to reimburse any preaward costs or application preparation costs of the SMART grant application;
+
+&emsp;&emsp;"(B) for any traffic or parking enforcement activity; or
+
+&emsp;&emsp;"(C) to purchase or lease a license plate reader.
+
+"(f)
+
+Reports.—
+
+&emsp;"(1)
+
+Eligible entities.—Not later than 2 years after the date on which an eligible entity receives a SMART grant, and annually thereafter until the dateon which the SMART grant is expended, the eligible entity shall submit to the Secretary an implementation report that describes—
+
+&emsp;&emsp;"(A) the deployment and operational costs of each eligible project carried out by the eligible entity, as compared to the benefits and savings from the eligible project; and
+
+&emsp;&emsp;"(B) the means by which each eligible project carried out by the eligible entity has met the original expectation, as projected in the SMART grant application, including—
+
+&emsp;&emsp;&emsp;"(i) data describing the means by which the eligible project met the specific goals for the project, such as—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) reducing traffic-related fatalities and injuries;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) reducing traffic congestion or improving travel-time reliability;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) providing the public with access to real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) reducing barriers or improving access to jobs, education, or various essential services;
+
+&emsp;&emsp;&emsp;"(ii) the effectiveness of providing to the public real-time integrated traffic, transit, and multimodal transportation information to make informed travel decisions; and
+
+&emsp;&emsp;&emsp;"(iii) lessons learned and recommendations for future deployment strategies to optimize transportation efficiency and multimodal system performance.
+
+&emsp;"(2)
+
+GAO.—Not later than 4 years after the date of enactment of this Act \[Nov. 15, 2021\], the Comptroller General of the United States shall conduct, and submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the results of, a review of the SMART grant program under this section.
+
+&emsp;"(3)
+
+Secretary.—
+
+&emsp;&emsp;"(A)
+
+Report to congress.—Not later than 2 years after the date on which the initial SMART grants are provided under this section, the Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Energy and Commerce of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+&emsp;&emsp;&emsp;"(i) describes each eligible entity that received a SMART grant;
+
+&emsp;&emsp;&emsp;"(ii) identifies the amount of each SMART grant provided;
+
+&emsp;&emsp;&emsp;"(iii) summarizes the intended uses of each SMART grant;
+
+&emsp;&emsp;&emsp;"(iv) describes the effectiveness of eligible entities in meeting the goals described in the SMART grant application of the eligible entity, including an assessment or measurement of the realized improvements or benefits resulting from each SMART grant; and
+
+&emsp;&emsp;&emsp;"(v) describes lessons learned and recommendations for future deployment strategies to optimize transportation efficiency and multimodal system performance.
+
+&emsp;&emsp;"(B)
+
+Best practices.—The Secretary shall—
+
+&emsp;&emsp;&emsp;"(i) develop and regularly update best practices based on, among other information, the data, lessons learned, and feedback from eligible entities that received SMART grants;
+
+&emsp;&emsp;&emsp;"(ii) publish the best practices under clause (i) on a publicly available website; and
+
+&emsp;&emsp;&emsp;"(iii) update the best practices published on the website under clause (ii) regularly.
+
+"(g)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated to the Secretary $100,000,000 for each of the first 5 fiscal years beginning after the date of enactment of this Act, of which—
+
+&emsp;&emsp;"(A) not more than 40 percent shall be used to provide SMART grants for eligible projects that primarily benefit large communities;
+
+&emsp;&emsp;"(B) not more than 30 percent shall be provided for eligible projects that primarily benefit midsized communities; and
+
+&emsp;&emsp;"(C) not more than 30 percent shall be used to provide SMART grants for eligible projects that primarily benefit rural communities or regional partnerships.
+
+&emsp;"(2)
+
+Administrative costs.—Of the amounts made available under paragraph (1) for each fiscal year, not more than 2 percent shall be used for administrative costs of the Secretary in carrying out this section.
+
+&emsp;"(3)
+
+Limitation.—An eligible entity may not use more than 3 percent of the amount of a SMART grant for each fiscal year to achieve compliance with applicable planning and reporting requirements.
+
+&emsp;"(4)
+
+Availability.—The amounts made available for a fiscal year pursuant to this subsection shall be available for obligation during the 2-fiscal-year period beginning on the first day of the fiscal year for which the amounts were appropriated."
 
 #### Transportation Safety Information Management System Project
 
@@ -548,7 +920,7 @@ Improved surface transportation congestion management system measures.—The pur
 
 &emsp;&emsp;"(A) to examine the effectiveness of surface transportation congestion management systems since enactment of the Intermodal Surface Transportation Efficiency Act of 1991 (Public Law 102–240) \[Dec. 18, 1991\];
 
-&emsp;&emsp;"(B) to identify best case examples of locally designed reporting methods and incorporate such methods in research on national models for developing and recommending improved surface transportation congestion measurement and reporting; and
+&emsp;&emsp;"(B) to identify best case examples of locally designed reporting methods and incorporate suchmethods in research on national models for developing and recommending improved surface transportation congestion measurement and reporting; and
 
 &emsp;&emsp;"(C) to incorporate such methods in the development of national models and methods to monitor, measure, and report surface transportation congestion information.
 
@@ -646,7 +1018,7 @@ Program Stages.—
 
 &emsp;"(1)
 
-First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatialinformation technologies in national transportation infrastructure development and construction.
+First stage.—Not later than 18 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall establish a national policy for the use of commercial remote sensing products and spatial information technologies in national transportation infrastructure development and construction.
 
 &emsp;"(2)
 
@@ -780,7 +1152,7 @@ Objectives.—The objectives of the program are—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) to aggregate data into reports for multipoint data distribution techniques; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by anentity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) with respect to part I of the program under subparagraph (C), to use an advanced information system designed and monitored by an entity with experience with the Department of Transportation in the design and monitoring of high-reliability, mission-critical voice and data systems.
 
 &emsp;&emsp;"(C)
 
@@ -984,6 +1356,26 @@ Funding.—Of the amounts made available for each of fiscal years 1998 through 2
 
 #### Intelligent Transportation Systems
 
+Pub. L. 117–58, div. A, title I, §11304, Nov. 15, 2021, 135 Stat. 531, provided that:
+
+"(a)
+
+In General.—The Secretary \[of Transportation\] shall develop guidance for using existing flexibilities with respect to the systems engineering analysis described in part 940 of title 23, Code of Federal Regulations (or successor regulations).
+
+"(b)
+
+Implementation.—The Secretary shall ensure that any guidance developed under subsection (a)—
+
+&emsp;"(1) clearly identifies criteria for low-risk and exempt intelligent transportation systems projects, with a goal of minimizing unnecessary delay or paperwork burden;
+
+&emsp;"(2) is consistently implemented by the Department \[of Transportation\] nationwide; and
+
+&emsp;"(3) is disseminated to Federal-aid recipients.
+
+"(c)
+
+Savings Provision.—Nothing in this section prevents the Secretary from amending part 940 of title 23, Code of Federal Regulations (or successor regulations), to reduce State administrative burdens."
+
 Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended by Pub. L. 105–206, title IX, §9011(c), July 22, 1998, 112 Stat. 863; Pub. L. 105–277, div. A, §101(g) \[title III, §370\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–478; Pub. L. 109–59, title V, §5509, Aug. 10, 2005, 119 Stat. 1828; Pub. L. 114–94, div. A, title VI, §6019(d)(2), Dec. 4, 2015, 129 Stat. 1581, provided that:
 
 #### "SEC. 5201. SHORT TITLE.
@@ -1010,7 +1402,7 @@ Goals.—The goals of the intelligent transportation system program include—
 
 &emsp;"(3) protection and enhancement of the natural environment and communities affected by surface transportation, with particular emphasis on assisting State and local governments to achieve national environmental goals;
 
-&emsp;"(4) accommodation of the needs of all users of surface transportation systems, including operators of commercial vehicles, passenger vehicles, and motorcycles, and including individuals with disabilities; and
+&emsp;"(4) accommodation of the needs of all users of surface transportation systems, including operators ofcommercial vehicles, passenger vehicles, and motorcycles, and including individuals with disabilities; and
 
 &emsp;"(5) improvement of the Nation's ability to respond to emergencies and natural disasters and enhancement of national defense mobility.
 
@@ -1140,7 +1532,7 @@ In General.—
 
 &emsp;"(1)
 
-Updates.—The Secretary shall maintain and update, as necessary, the National ITS Program Plan developed by the Department of Transportation and the Intelligent Transportation Society of America.
+Updates.—The Secretary shall maintain and update, as necessary, the National ITS Program Plandeveloped by the Department of Transportation and the Intelligent Transportation Society of America.
 
 &emsp;"(2)
 
@@ -1394,7 +1786,7 @@ In general.—The Secretary shall continue to support the Urban Consortium's ITS
 
 &emsp;"(2)
 
-Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
+Funding.—Of the amounts made available for each of fiscal years 1998 through 2003 by section 5001(a)(5) of this Act \[112 Stat. 420\], $500,000 per fiscal year shall be available to carry out this paragraph.
 
 "(c)
 

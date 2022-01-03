@@ -54,7 +54,7 @@ The Commissioner shall—
 
 (1) An individual excluded from participation under this section may apply to the Commissioner, in the manner specified by the Commissioner in regulations and at the end of the minimum period of exclusion provided under subsection (b)(3) and at such other times as the Commissioner may provide, for termination of the exclusion effected under this section.
 
-(2) The Commissioner may terminate the exclusion if the Commissioner determines, on the basis of the conduct of the applicant which occurred after the date of the notice of exclusion or which was unknown to the Commissioner at the time of the exclusion, that—
+(2) The Commissioner may terminate the exclusion if the Commissioner determines, on the basis of the conduct of the applicant which occurred after the date of the notice of exclusionor which was unknown to the Commissioner at the time of the exclusion, that—
 
 &emsp;(A) there is no basis under subsection (a) for a continuation of the exclusion; and
 
@@ -64,7 +64,7 @@ The Commissioner shall—
 
 #### (g) Availability of records of excluded representatives and health care providers
 
-Nothing in this section shall be construed to have the effect of limiting access by any applicant or beneficiary under subchapter II or XVI,any State agency acting under section 421 or 1383b(a) of this title, or the Commissioner to records maintained by any representative or health care provider in connection with services provided to the applicant or beneficiary prior to the exclusion of such representative or health care provider under this section.
+Nothing in this section shall be construed to have the effect of limiting access by any applicant or beneficiary under subchapter II or XVI, any State agency acting under section 421 or 1383b(a) of this title, or the Commissioner to records maintained by any representative or health care provider in connection with services provided to the applicant or beneficiary prior to the exclusion of such representative or health care provider under this section.
 
 #### (h) Reporting requirement
 
@@ -104,6 +104,8 @@ For purposes of this section:
 
 (Aug. 14, 1935, ch. 531, title XI, §1136, as added Pub. L. 106–169, title II, §208(a), Dec. 14, 1999, 113 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
@@ -111,6 +113,8 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 
 #### Prior Provisions
 
 A prior section 1320b–6, act Aug. 14, 1935, ch. 531, title XI, §1136, as added Pub. L. 98–369, div. B, title VI, §2630, July 18, 1984, 98 Stat. 1137; amended Pub. L. 99–514, title XVIII, §1883(c)(2), Oct. 22, 1986, 100 Stat. 2918, related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior to repeal by Pub. L. 104–193, title I, §§108(q)(7), 116, Aug. 22, 1996, 110 Stat. 2168, 2181, effective July 1, 1997, with certain transition rules.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

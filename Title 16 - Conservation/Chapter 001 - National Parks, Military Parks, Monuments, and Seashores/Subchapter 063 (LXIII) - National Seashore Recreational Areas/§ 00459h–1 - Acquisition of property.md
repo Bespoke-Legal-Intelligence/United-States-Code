@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary; concurrence of State owner; administrative site and related facilities; transfer from Federal agency to administrative jurisdiction of Secretary
 
-Within the boundaries of the seashore, the Secretary may acquire submerged land, land, waters, and interests therein by donation, purchase with donated or appropriated funds, or exchange, except that property owned by a State or any political subdivision thereof may be acquired only with the consent of the owner. The Secretary may acquire by any of the above methods not more than four hundred acres of land or interests therein outside of the seashore boundaries on the mainland in the vicinity of Biloxi-Gulfport, Mississippi, for an administrative site and related facilities for access to theseashore. With the concurrence of the agency having custody thereof, any Federal property within the seashore and mainland site may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the seashore.
+Within the boundaries of the seashore, the Secretary may acquire submerged land, land, waters, and interests therein by donation, purchase with donated or appropriated funds, or exchange, except that property owned by a State or any political subdivision thereof may be acquired only with the consent of the owner. The Secretary may acquire by any of the above methods not more than four hundred acres of land or interests therein outside of the seashore boundaries on the mainland in the vicinity of Biloxi-Gulfport, Mississippi, for an administrative site and related facilities for access to the seashore. With the concurrence of the agency having custody thereof, any Federal property within the seashore and mainland site may be transferred without consideration to the administrative jurisdiction of the Secretary for the purposes of the seashore.
 
 #### (b) Improved residential property owner's reservation of right of use and occupancy for residential purposes for life or fixed term of years; election by owner; transfer or assignment of right; adjustment of compensation
 
@@ -10,7 +10,7 @@ With respect to improved residential property acquired for the purposes of secti
 
 #### (c) "Improved residential property" defined
 
-As used in sections 459h to 459h–10 of this title, "improved residential property" means a single-family year-round dwelling, the construction of which began before January 1, 1967, and which serves as the owner's permanent place of abode at the time of its acquisition by the United States, together with not more than three acres of land on which the dwelling and appurtenant buildings are located that the Secretary finds is reasonably necessary for the owner's continued use and occupancy of the dwelling: <i>Provided</i>, That the Secretary may exclude from improved residential property any marsh, beach, or waters and adjoining land that the Secretary deems is necessary for public access to such marsh, beach, or waters.
+As used in sections 459h to 459h–10 of this title, "improved residential property" means a single-family year-round dwelling, the construction of which began before January 1, 1967, and which serves as the owner's permanent place of abode at the time of its acquisition by the United States, together with not more than three acres of land on which the dwelling and appurtenant buildings are located that the Secretary finds is reasonably necessary for the owner's continued use and occupancy of the dwelling: <i>Provided</i>,That the Secretary may exclude from improved residential property any marsh, beach, or waters and adjoining land that the Secretary deems is necessary for public access to such marsh, beach, or waters.
 
 #### (d) Termination of use and occupancy inconsistent with statutory purposes and upon tender of sum for unexpired right
 
@@ -46,6 +46,8 @@ The Secretary may terminate a right of use and occupancy retained pursuant to th
 
 (Pub. L. 91–660, §2, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 92–275, §1(1), Apr. 20, 1972, 86 Stat. 123; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–231.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (b)(3), referred to in subsec. (e)(1)(A), probably means subsection (b)(3) of section 459h of this title. Subsection (b) of this section does not contain a par. (3).
@@ -60,9 +62,11 @@ Subsec. (e). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §137(b)(2)\], adde
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–275 increased amount of property authorized to be acquired from one hundred thirty-five to four hundred acres.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Gulf Islands National Seashore Land Exchange
 
-Pub. L. 115–279, Nov. 20, 2018, 132 Stat. 4187, known as the Gulf Islands National Seashore Land Exchange Act, authorized the Secretary of the Interior to exchange certain Federal lands located within the Gulf Islands National Seashore in Jackson County, Mississippi, for non-Federal land identified as "VFW Exchange Area"located in Jackson County, Mississippi, owned by the Veterans of Foreign Wars Post 5699, with the stipulation for equal value exchange and provision for methods of equalizing the exchange, for the conveyance agreement and title approval, and for the modification of the boundary of the Gulf Islands National Seashore to reflect the exchange.
+Pub. L. 115–279, Nov. 20, 2018, 132 Stat. 4187, known as the Gulf Islands National Seashore Land Exchange Act, authorized the Secretary of the Interior to exchange certain Federal lands located within the Gulf Islands National Seashore in Jackson County, Mississippi, for non-Federal land identified as "VFW Exchange Area" located in Jackson County, Mississippi, owned by the Veterans of Foreign Wars Post 5699, with the stipulation for equal value exchange and provision for methods of equalizing the exchange, for the conveyance agreement and title approval, and for the modification of the boundary of the Gulf Islands National Seashore to reflect the exchange.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "the".</i>
 

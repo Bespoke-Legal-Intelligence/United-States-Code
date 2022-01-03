@@ -98,7 +98,7 @@ Additional Duties and Powers.—In addition to carrying out the functions specif
 
 &emsp;(5) serve as the primary liaison for transportation security to the intelligence and law enforcement communities;
 
-&emsp;(6) on a day-to-day basis, manage and provide operational guidance to the field security resources of the Administration, including Federal Security Managers as provided by section 44933;
+&emsp;(6) on a day-to-day basis, manage and provide operational guidance to the field securityresources of the Administration, including Federal Security Managers as provided by section 44933;
 
 &emsp;(7) enforce security-related regulations and requirements;
 
@@ -178,7 +178,7 @@ In general.—The Administrator is authorized—
 
 &emsp;&emsp;(C) to lease to others such real and personal property and to provide by contract or otherwise for necessary facilities for the welfare of its employees and to acquire, maintain, and operate equipment for these facilities;
 
-&emsp;&emsp;(D) to acquire services, including such personal services as the Secretary of Homeland Security determines necessary, and to acquire (by purchase, lease, condemnation, or otherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
+&emsp;&emsp;(D) to acquire services, including such personal services as the Secretary of Homeland Security determines necessary, and to acquire (by purchase, lease, condemnation, orotherwise) and to construct, repair, operate, and maintain research and testing sites and facilities; and
 
 &emsp;&emsp;(E) in cooperation with the Administrator of the Federal Aviation Administration, to utilize the research and development facilities of the Federal Aviation Administration.
 
@@ -262,7 +262,7 @@ Meritorious executive or distinguished executive rank awards.—Notwithstanding 
 
 &emsp;&emsp;(B) receipt by a career appointee or a senior career employee of the rank of Meritorious Executive or Meritorious Senior Professional entitles the individual to a lump-sum payment of an amount equal to 20 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system; and
 
-&emsp;&emsp;(C) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished Senior Professional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system.
+&emsp;&emsp;(C) receipt by a career appointee or a senior career employee of the rank of Distinguished Executive or Distinguished SeniorProfessional entitles the individual to a lump-sum payment of an amount equal to 35 percent of annual basic pay, which shall be in addition to the basic pay paid under the applicable Transportation Security Administration pay system.
 
 &emsp;(3)
 
@@ -326,7 +326,7 @@ Availability of information to congress.—Paragraph (1) does not authorize info
 
 &emsp;(3)
 
-Limitation on transferability of duties.—Except as otherwise provided by law,the Administrator may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
+Limitation on transferability of duties.—Except as otherwise provided by law, the Administrator may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
 
 &emsp;(4)
 
@@ -360,7 +360,7 @@ Role of secretary of transportation.—The Secretary of Homeland Security shall 
 
 Contents of national strategy for transportation security.—The National Strategy for Transportation Security shall include the following:
 
-&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, and other public transportation infrastructure assets that could be at risk of such an attack or disruption.
+&emsp;&emsp;(A) An identification and evaluation of the transportation assets in the United States that, in the interests of national security and commerce, must be protected from attack or disruption by terrorist or other hostile forces, including modal security plans for aviation, bridge and tunnel, commuter rail and ferry, highway, maritime, pipeline, rail, mass transit, over-the-road bus, andother public transportation infrastructure assets that could be at risk of such an attack or disruption.
 
 &emsp;&emsp;(B) The development of risk-based priorities, based on risk assessments conducted or received by the Secretary of Homeland Security (including assessments conducted under the Implementing Recommendations of the 9/11 Commission Act of 2007) across all transportation modes and realistic deadlines for addressing security needs associated with those assets referred to in subparagraph (A).
 
@@ -392,7 +392,7 @@ Periodic progress report.—
 
 &emsp;&emsp;&emsp;(i)
 
-Requirement for report.—Each year, in conjunction with the submission of the budget to Congress under section 1105(a) of title 31, United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progressmade on implementing the National Strategy for Transportation Security, including the transportation modal security plans.
+Requirement for report.—Each year, in conjunction with the submission of the budget to Congress under section 1105(a) of title 31, United States Code, the Secretary of Homeland Security shall submit to the appropriate congressional committees an assessment of the progress made on implementing the National Strategy for Transportation Security, including the transportation modal security plans.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -412,7 +412,7 @@ Content.—Each progress report submitted under this subparagraph shall include,
 
 &emsp;&emsp;&emsp;(iii)
 
-Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for Transportation Security, including the amount of funds to be expended for the activity and the number of personnel involved.
+Written explanation of transportation security activities not delineated in the national strategy for transportation security.—At the end of each fiscal year, the Secretary of Homeland Security shall submit to the appropriate congressional committees a written explanation of any Federal transportation security activity that is inconsistent with the National Strategy for TransportationSecurity, including the amount of funds to be expended for the activity and the number of personnel involved.
 
 &emsp;&emsp;(C)
 
@@ -474,7 +474,7 @@ Public and private stakeholders.—The term "public and private stakeholders" me
 
 &emsp;&emsp;(D)
 
-Transportation security information.—The term "transportation security information" means information relating tothe risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
+Transportation security information.—The term "transportation security information" means information relating to the risks to transportation modes, including aviation, public transportation, railroad, ferry, highway, maritime, pipeline, and over-the-road bus transportation, and may include specific and general intelligence products, as appropriate.
 
 &emsp;(2)
 
@@ -714,7 +714,77 @@ Notification.—The Administrator shall submit to the appropriate committees of 
 
 &emsp;&emsp;(B) an update of the list not later than 5 days after any new individual is appointed under paragraph (1).
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130 Stat. 1514; Pub. L. 115–254, div. K, title I, §§1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, 132 Stat. 3543, 3544, 3546, 3549, 3623.)
+(x)
+
+Transportation Security Preparedness Plan.—
+
+&emsp;(1)
+
+In general.—Not later than two years after the date of the enactment of this subsection, the Secretary of Homeland Security, acting through the Administrator, in coordination with the Chief Medical Officer of the Department of Homeland Security, and in consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), shall develop a transportation security preparedness plan to address the event of a communicable disease outbreak. The Secretary, acting through the Administrator, shall ensure such plan aligns with relevant Federal plans and strategies for communicable disease outbreaks.
+
+&emsp;(2)
+
+Considerations.—In developing the plan required under paragraph (1), the Secretary, acting through the Administrator, shall consider each of the following:
+
+&emsp;&emsp;(A) The findings of the survey required under section 6411 of the National Defense Authorization Act for Fiscal Year 2022.
+
+&emsp;&emsp;(B) The findings of the analysis required under section 6414 of the National Defense Authorization Act for Fiscal Year 2022.
+
+&emsp;&emsp;(C) The plan required under section 6415 of the National Defense Authorization Act for Fiscal Year 2022.
+
+&emsp;&emsp;(D) All relevant reports and recommendations regarding the Administration's response to the COVID–19 pandemic, including any reports and recommendations issued by the Comptroller General and the Inspector General of the Department of Homeland Security.
+
+&emsp;&emsp;(E) Lessons learned from Federal interagency efforts during the COVID–19 pandemic.
+
+&emsp;(3)
+
+Contents of plan.—The plan developed under paragraph (1) shall include each of the following:
+
+&emsp;&emsp;(A) Plans for communicating and collaborating in the event of a communicable disease outbreak with the following partners:
+
+&emsp;&emsp;&emsp;(i) Appropriate Federal departments and agencies, including the Department of Health and Human Services, the Centers for Disease Control and Prevention, the Department of Transportation, the Department of Labor, and appropriate interagency task forces.
+
+&emsp;&emsp;&emsp;(ii) The workforce of the Administration, including through the labor organization certified as the exclusive representative of full- and part-time non-supervisory Administration personnel carrying out screening functions under section 44901 of this title.
+
+&emsp;&emsp;&emsp;(iii) International partners, including the International Civil Aviation Organization and foreign governments, airports, and air carriers.
+
+&emsp;&emsp;&emsp;(iv) Public and private stakeholders, as such term is defined under subsection (t)(1)(C).
+
+&emsp;&emsp;&emsp;(v) The traveling public.
+
+&emsp;&emsp;(B) Plans for protecting the safety of the Transportation Security Administration workforce, including—
+
+&emsp;&emsp;&emsp;(i) reducing the risk of communicable disease transmission at screening checkpoints and within the Administration's workforce related to the Administration's transportation security operations and mission;
+
+&emsp;&emsp;&emsp;(ii) ensuring the safety and hygiene of screening checkpoints and other workstations;
+
+&emsp;&emsp;&emsp;(iii) supporting equitable and appropriate access to relevant vaccines, prescriptions, and other medical care; and
+
+&emsp;&emsp;&emsp;(iv) tracking rates of employee illness, recovery, and death.
+
+&emsp;&emsp;(C) Criteria for determining the conditions that may warrant the integration of additional actions in the aviation screening system in response to the communicable disease outbreak and a range of potential roles and responsibilities that align with such conditions.
+
+&emsp;&emsp;(D) Contingency plans for temporarily adjusting checkpoint operations to provide for passenger and employee safety while maintaining security during the communicable disease outbreak.
+
+&emsp;&emsp;(E) Provisions setting forth criteria for establishing an interagency task force or other standing engagement platform with other appropriate Federal departments and agencies, including the Department of Health and Human Services and the Department of Transportation, to address such communicable disease outbreak.
+
+&emsp;&emsp;(F) A description of scenarios in which the Administrator should consider exercising authorities provided under subsection (g) and for what purposes.
+
+&emsp;&emsp;(G) Considerations for assessing the appropriateness of issuing security directives and emergency amendments to regulated parties in various modes of transportation, including surface transportation, and plans for ensuring compliance with such measures.
+
+&emsp;&emsp;(H) A description of any potential obstacles, including funding constraints and limitations to authorities, that could restrict the ability of the Administration to respond appropriately to a communicable disease outbreak.
+
+&emsp;(4)
+
+Dissemination.—Upon development of the plan required under paragraph (1), the Administrator shall disseminate the plan to the partners identified under paragraph (3)(A) and to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Commerce, Science, and Transportation of the Senate.
+
+&emsp;(5)
+
+Review of plan.—Not later than two years after the date on which the plan is disseminated under paragraph (4), and biennially thereafter, the Secretary, acting through the Administrator and in coordination with the Chief Medical Officer of the Department of Homeland Security, shall review the plan and, after consultation with the partners identified under paragraphs (3)(A)(i) through (3)(A)(iv), update the plan as appropriate.
+
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, title XVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318; Pub. L. 108–7, div. I, title III, §351(d), Feb. 20, 2003, 117 Stat. 420; Pub. L. 108–458, title IV, §4001(a), Dec. 17, 2004, 118 Stat. 3710; Pub. L. 110–53, title XII, §§1202, 1203(a), title XIII, §1302(a), title XV, §1503(a), Aug. 3, 2007, 121 Stat. 381, 383, 390, 425; Pub. L. 110–161, div. E, title V, §568(a), Dec. 26, 2007, 121 Stat. 2092; Pub. L. 111–83, title V, §561(c)(1), Oct. 28, 2009, 123 Stat. 2182; Pub. L. 114–301, §2(d), Dec. 16, 2016, 130 Stat. 1514; Pub. L. 115–254, div. K, title I, §§1903, 1904(a), (b)(1), 1905, 1909, 1988(c), Oct. 5, 2018, 132 Stat. 3543, 3544, 3546, 3549, 3623; Pub. L. 117–81, div. F, title LXIV, §6412(a), Dec. 27, 2021, 135 Stat. 2409.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -728,7 +798,17 @@ The Implementing Recommendations of the 9/11 Commission Act of 2007, referred to
 
 The date of enactment of the Implementing Recommendations of the 9/11 Commission Act of 2007, referred to in subsec. (s)(3)(F), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
+The date of the enactment of this subsection, referred to in subsec. (x)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
+
+Section 6411 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(A), is section 6411 of div. F of Pub. L. 117–81, Dec. 27, 2021, 135 Stat. 2409, which is not classified to the Code.
+
+Section 6414 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(B), is section 6414 of div. F of Pub. L. 117–81, Dec. 27, 2021, 135 Stat. 2412, which is not classified to the Code.
+
+Section 6415 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (x)(2)(C), is section 6415 of Pub. L. 117–81, which is set out as a note under section 44901 of this title.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (x). Pub. L. 117–81 added subsec. (x).
 
 <b>2018</b>—Pub. L. 115–254, §1904(a)(3), substituted "Administrator" for "Under Secretary" wherever appearing in subsecs. (c) to (n), (p), (q), and (r).
 
@@ -784,7 +864,7 @@ Subsec. (s)(4)(B). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated sub
 
 Subsec. (s)(4)(B)(ii)(III)(cc). Pub. L. 115–254, §1904(b)(1)(H)(ii)(V), substituted "for the Department of Homeland Security" for "for the Department".
 
-Subsec. (s)(4)(C) to (E). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated subpars. (D) and (E) as (C) and (D), respectively. Former subpar. (C) redesignated (B).
+Subsec. (s)(4)(C) to (E). Pub. L. 115–254, §1904(b)(1)(H)(ii)(III), redesignated subpars. (D) and (E)as (C) and (D), respectively. Former subpar. (C) redesignated (B).
 
 Subsec. (t). Pub. L. 115–254, §1904(b)(1)(I), redesignated subsec. (u) as (t).
 
@@ -870,9 +950,11 @@ Subsec. (w). Pub. L. 110–53, §1503(a), added subsec. (w).
 
 Subsec. (s). Pub. L. 107–296, §1601(b), added subsec. (s).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Pub. L. 115–254, div. K, title I, §1994, Oct. 5, 2018, 132 Stat. 3646, provided that: "References relating to the Under Secretary of Transportation for Security in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede the effective date of this Act \[meaning the date of enactment of Pub. L. 115–254, Oct. 5, 2018\] shall be deemed to refer, as appropriate, to the Administrator of the Transportation Security Administration."
+Pub. L. 115–254, div. K, title I, §1994, Oct. 5, 2018, 132 Stat. 3646, provided that: "References relating to theUnder Secretary of Transportation for Security in statutes, Executive orders, rules, regulations, directives, or delegations of authority that precede the effective date of this Act \[meaning the date of enactment of Pub. L. 115–254, Oct. 5, 2018\] shall be deemed to refer, as appropriate, to the Administrator of the Transportation Security Administration."
 
 #### Effective Date of 2007 Amendment
 
@@ -889,6 +971,102 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Authorization of Transportation Security Administration Personnel Details
+
+Pub. L. 117–81, div. F, title LXIV, §6413, Dec. 27, 2021, 135 Stat. 2412, provided that:
+
+"(a)
+
+Coordination.—Pursuant to sections 106(m) and 114(m) of title 49, United States Code, the Administrator of the Transportation Security Administration may provide Transportation Security Administration personnel, who are not engaged in front line transportation security efforts, to other components of the Department and other Federal agencies to improve coordination with such components and agencies to prepare for, protect against, and respond to public health threats to the transportation security system of the United States.
+
+"(b)
+
+Briefing.—Not later than 180 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Administrator shall brief the appropriate congressional committees regarding efforts to improve coordination with other components of the Department of Homeland Security and other Federal agencies to prepare for, protect against, and respond to public health threats to the transportation security system of the United States."
+
+#### Aviation Security
+
+Pub. L. 117–81, div. F, title LXIV, §6423(b), Dec. 27, 2021, 135 Stat. 2420, provided that:
+
+"(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Administrator of the Transportation Security Administration shall develop and implement guidelines with respect to domestic and last point of departure airports to—
+
+&emsp;"(A) ensure the inclusion, as appropriate, of air carriers, domestic airport operators, and other transportation security stakeholders in the development and implementation of security directives and emergency amendments;
+
+&emsp;"(B) document input provided by air carriers, domestic airport operators, and other transportation security stakeholders during the security directive and emergency amendment, development, and implementation processes;
+
+&emsp;"(C) define a process, including timeframes, and with the inclusion of feedback from air carriers, domestic airport operators, and other transportation security stakeholders, for cancelling or incorporating security directives and emergency amendments into security programs;
+
+&emsp;"(D) conduct engagement with foreign partners on the implementation of security directives and emergency amendments, as appropriate, including recognition if existing security measures at a last point of departure airport are found to provide commensurate security as intended by potential new security directives and emergency amendments; and
+
+&emsp;"(E) ensure that new security directives and emergency amendments are focused on defined security outcomes.
+
+"(2)
+
+Briefing to congress.—Not later than 90 days after the date of the enactment of this Act \[Dec. 27, 2021\], the Administrator of the Transportation Security Administration shall brief the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the guidelines described in paragraph (1).
+
+"(3)
+
+Decisions not subject to judicial review.—Notwithstanding any other provision of law, any action of the Administrator of the Transportation Security Administration under paragraph (1) is not subject to judicial review."
+
+#### Emergency TSA Employee Leave Fund
+
+Pub. L. 117–2, title VII, §7104, Mar. 11, 2021, 135 Stat. 100, provided that:
+
+"(a)
+
+Establishment; Appropriation.—There is established in the Transportation Security Administration (in this section referred to as the 'Administration') the Emergency TSA Employee Leave Fund (in this section referred to as the 'Fund'), to be administered by the Administrator of the Administration, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $13,000,000, which shall be deposited into the Fund and remain available through September 30, 2022.
+
+"(b)
+
+Purpose.—Amounts in the Fund shall be available to the Administration for the use of paid leave under this section by any employee of the Administration who is unable to work because the employee—
+
+&emsp;"(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19;
+
+&emsp;"(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19;
+
+&emsp;"(3) is caring for an individual who is subject to such an order or has been so advised;
+
+&emsp;"(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
+
+&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions;
+
+&emsp;"(6) is experiencing any other substantially similar condition;
+
+&emsp;"(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or
+
+&emsp;"(8) is obtaining immunization related to COVID–19 or is recovering from any injury, disability, illness, or condition related to such immunization.
+
+"(c)
+
+Limitations.—
+
+&emsp;"(1)
+
+Period of availability.—Paid leave under this section may only be provided to and used by an employee of the Administration during the period beginning on the date of enactment of this section \[Mar. 11, 2021\] and ending on September 30, 2021.
+
+&emsp;"(2)
+
+Total hours; amount.—Paid leave under this section—
+
+&emsp;&emsp;"(A) shall be provided to an employee of the Administration in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement;
+
+&emsp;&emsp;"(B) shall be paid at the same hourly rate as other leave payments; and
+
+&emsp;&emsp;"(C) may not be provided to an employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee.
+
+&emsp;"(3)
+
+Relationship to other leave.—Paid leave under this section—
+
+&emsp;&emsp;"(A) is in addition to any other leave provided to an employee of the Administration; and
+
+&emsp;&emsp;"(B) may not be used by an employee of the Administration concurrently with any other paid leave.
+
+&emsp;"(4)
+
+Calculation of retirement benefit.—Any paid leave provided to an employee of the Administration under this section shall reduce the total service used to calculate any Federal civilian retirement benefit."
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
@@ -1124,7 +1302,7 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Public and private stakeholders.—The term 'public and private stakeholders' has the meaning given the term in section 114(t)(1)(C) of title 49, United States Code.
+Public and private stakeholders.—The term 'public and private stakeholders' has the meaninggiven the term in section 114(t)(1)(C) of title 49, United States Code.
 
 &emsp;"(2)
 
@@ -1252,7 +1430,7 @@ Information Sharing.—The Administrator shall, in accordance with law—
 
 &emsp;"(3) continue to disseminate Transportation Intelligence Notes, tear-lines, and related intelligence products to appropriate transportation security stakeholders on a regular basis; and
 
-&emsp;"(4) continue to conduct both regular routine and threat-specific classified briefings between the TSA and appropriate transportation sector stakeholders on an individual or group basis to provide greater information sharing between public and private sectors.
+&emsp;"(4) continue to conduct both regular routine and threat-specific classified briefings between the TSAand appropriate transportation sector stakeholders on an individual or group basis to provide greater information sharing between public and private sectors.
 
 "(c)
 
@@ -1460,7 +1638,7 @@ Pub. L. 115–254, div. K, title I, §1968(a), Oct. 5, 2018, 132 Stat. 3608, pro
 
 "(1)
 
-In general.—If the Administrator \[of the Transportation Security Administration\] deploys any counterterrorism personnel or resource, such as explosive detection sweeps, random bag inspections, or patrols by Visible Intermodal Prevention and Response teams, to enhance security at a transportation system or transportation facility for a period of not less than 180 consecutive days, the Administrator shall providesufficient notification to the system or facility operator, as applicable, not less than 14 days prior to terminating the deployment.
+In general.—If the Administrator \[of the Transportation Security Administration\] deploys any counterterrorism personnel or resource, such as explosive detection sweeps, random bag inspections, or patrols by Visible Intermodal Prevention and Response teams, to enhance security at a transportation system or transportation facility for a period of not less than 180 consecutive days, the Administrator shall provide sufficient notification to the system or facility operator, as applicable, not less than 14 days prior to terminating the deployment.
 
 "(2)
 
@@ -1604,7 +1782,7 @@ Submission to congress.—Not later than 30 days after the date the evaluation u
 
 Definitions.—In this subsection, the terms 'cybersecurity risk' and 'incident' have the meanings given the terms in section 227 \[now section 2209\] of the Homeland Security Act of 2002 (6 U.S.C. 148) \[now 6 U.S.C. 659\]."
 
-\[For definitions of terms used in section 1989 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I of Div. K of Pub. L. 115–254 note under section 101 of this title.\]
+\[For definitions of terms used in section 1989 of Pub. L. 115–254, set out above, see section 1902 of Pub. L. 115–254, set out as a Definitions of Terms in Title I ofDiv. K of Pub. L. 115–254 note under section 101 of this title.\]
 
 #### Safeguarding and Disposal of Personal Information of Registered Traveler Program Participants
 
@@ -1658,7 +1836,7 @@ In General.—Notwithstanding any provision of law, any statutory limitation on 
 
 "(b)
 
-Aviation Security.—Notwithstanding any provision of law imposing a limitation on the recruiting orhiring of personnel into the Transportation Security Administration to a maximum number of permanent positions, the Secretary of Homeland Security shall recruit and hire such personnel into the Administration as may be necessary—
+Aviation Security.—Notwithstanding any provision of law imposing a limitation on the recruiting or hiring of personnel into the Transportation Security Administration to a maximum number of permanent positions, the Secretary of Homeland Security shall recruit and hire such personnel into the Administration as may be necessary—
 
 &emsp;"(1) to provide appropriate levels of aviation security; and
 

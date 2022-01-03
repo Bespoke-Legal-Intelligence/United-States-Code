@@ -68,7 +68,7 @@ Conditions for grant.—An amount is available for a grant under this subsection
 
 &emsp;&emsp;(B) the Secretary decides that using the amount to repay the borrowed money will not defer an airport development project outside the terminal area at that airport; and
 
-&emsp;&emsp;(C) amounts available for airport development under this subchapter will not be used for additional terminal development projects at the airport for at least 1 year beginning on the date the grant is used to repay the borrowed money.
+&emsp;&emsp;(C) amounts available for airport development under this subchapter will not be usedfor additional terminal development projects at the airport for at least 1 year beginning on the date the grant is used to repay the borrowed money.
 
 &emsp;(5)
 
@@ -134,7 +134,7 @@ Sept. 3, 1982, Pub. L. 97–248, §513(b)(2), 96 Stat. 690; Dec. 30, 1987, Pub. 
 
 Sept. 3, 1982, Pub. L. 97–248, §513(b)(3), 96 Stat. 690.
 
-In subsection (a), before clause (1), the words "(within the meaning of section 11(1) of the Airport and Airway Development Act of 1970 \[49 App. U.S.C. 1711(1)\] as in effect immediately before September 3, 1982)" are omitted because of the definition of "air carrier airport" in section 47102 of the revised title. The words "after June 30, 1970" are substituted for "on or after July 1, 1970" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words "to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title" are substituted for "for the immediate retirement of the principal of bonds or other evidences of indebtednessthe proceeds of which were used for that part of the terminal development at such airport the cost of which would be allowable under paragraph (1) of this subsection" for clarity and to eliminate unnecessary words.
+In subsection (a), before clause (1), the words "(within the meaning of section 11(1) of the Airport and Airway Development Act of 1970 \[49 App. U.S.C. 1711(1)\] as in effect immediately before September 3, 1982)" are omitted because of the definition of "air carrier airport" in section 47102 of the revised title. The words "after June 30, 1970" are substituted for "on or after July 1, 1970" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words "to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title" are substituted for "for the immediate retirement of the principal of bonds or other evidences of indebtedness the proceeds of which were used for that part of the terminal development at such airport the cost of which would be allowable under paragraph (1) of this subsection" for clarity and to eliminate unnecessary words.
 
 In subsection (b), before clause (1), the words "In a fiscal year" are added for clarity. In clause (2), the words "from the discretionary fund" are substituted for "sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix" for clarity and consistency in this chapter. In clause (3), the words "for projects" are added for clarity.
 
@@ -155,6 +155,8 @@ Pub. L. 103–429
 Sept. 3, 1982, Pub. L. 97–248, §513(b)(2), as amended May 26, 1994, Pub. L. 103–260, §107, 108 Stat. 700.
 
 In subsection (b)(3), the words "from the discretionary fund and small airport fund" are substituted for "sums to be distributed at the discretion of the Secretary under section 2206(c) and 2206(d) of this Appendix" for clarity and consistency in this chapter.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -215,6 +217,8 @@ Subsec. (b)(3). Pub. L. 103–429, §6(69)(B), added par. (3). Former par. (3) r
 Subsec. (b)(4). Pub. L. 103–429, §6(69)(A), redesignated par. (3) as (4).
 
 Subsec. (c). Pub. L. 103–305, §117(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

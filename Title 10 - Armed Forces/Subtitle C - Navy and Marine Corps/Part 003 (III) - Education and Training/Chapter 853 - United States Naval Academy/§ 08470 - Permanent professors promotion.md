@@ -10,9 +10,13 @@ Effective Date of Promotion.—If made, the promotion of an officer under subsec
 
 (Added Pub. L. 110–181, div. A, title V, §508(a)(1)(B), Jan. 28, 2008, 122 Stat. 97, §6970; renumbered §8470, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6970 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -35,6 +35,7 @@
 | [1273\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001273%20-%20Lake%20Pontchartrain%20Basin.md) | Lake Pontchartrain Basin. |
 | [1274\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001274%20-%20Watershed%20pilot%20projects.md) | Watershed pilot projects. |
 | [1275\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001275%20-%20Columbia%20River%20Basin%20Restoration.md) | Columbia River Basin Restoration. |
+| [1276\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001276%20-%20Enhanced%20aquifer%20use%20and%20recharge.md) | Enhanced aquifer use and recharge. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,6 +67,13 @@
 | [1299\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001299%20-%20State%20certification%20of%20projects.md) | State certification of projects. |
 | [1300\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001300%20-%20Pilot%20program%20for%20alternative%20water%20source%20projects.md) | Pilot program for alternative water source projects. |
 | [1301\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001301%20-%20Sewer%20overflow%20and%20stormwater%20reuse%20municipal%20grants.md) | Sewer overflow and stormwater reuse municipal grants. |
+| [1302\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302%20-%20Wastewater%20efficiency%20grant%20pilot%20program.md) | Wastewater efficiency grant pilot program. |
+| [1302a.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302a%20-%20Clean%20water%20infrastructure%20resiliency%20and%20sustainability%20program.md) | Clean water infrastructure resiliency and sustainability program. |
+| [1302b.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302b%20-%20Small%20and%20medium%20publicly%20owned%20treatment%20works%20circuit%20rider%20program.md) | Small and medium publicly owned treatment works circuit rider program. |
+| [1302c.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302c%20-%20Small%20publicly%20owned%20treatment%20works%20efficiency%20grant%20program.md) | Small publicly owned treatment works efficiency grant program. |
+| [1302d.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302d%20-%20Grants%20for%20construction%20and%20refurbishing%20of%20individual%20household%20decentralized%20wastewater%20systems%20for%20individuals%20with%20low%20or%20moderate%E2%80%A6.md) | Grants for construction and refurbishing of individual household decentralized wastewater systems for individuals with low or moderate income. |
+| [1302e.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302e%20-%20Connection%20to%20publicly%20owned%20treatment%20works.md) | Connection to publicly owned treatment works. |
+| [1302f.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001302f%20-%20Stormwater%20infrastructure%20technology.md) | Stormwater infrastructure technology. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,6 +160,7 @@
 | [1386\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001386%20-%20Audits%2C%20reports%2C%20and%20fiscal%20controls%3B%20intended%20use%20plan.md) | Audits, reports, and fiscal controls; intended use plan. |
 | [1387\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001387%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1388\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001388%20-%20Requirements.md) | Requirements. |
+| [1389\.](Subchapter%20006%20%28VI%29%20-%20State%20Water%20Pollution%20Control%20Revolving%20Funds/%C2%A7%2001389%20-%20Clean%20watersheds%20needs%20survey.md) | Clean watersheds needs survey. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

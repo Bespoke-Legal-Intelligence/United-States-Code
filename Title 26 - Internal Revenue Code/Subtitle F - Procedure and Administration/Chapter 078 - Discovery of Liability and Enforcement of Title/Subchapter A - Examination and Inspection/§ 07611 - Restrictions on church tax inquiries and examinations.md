@@ -136,7 +136,7 @@
 
 #### (i) 3-year statute of limitations generally
 
-&emsp;&emsp;&emsp;In the case of any church tax examination with respect to the revocation of tax-exempt status under section 501(a), any tax imposed by chapter 1 (other than section 511) may be assessed, or a proceeding in court for collection of such tax may be begun without assessment, only for the 3 most recent taxable years ending before the examination notice date.
+&emsp;&emsp;&emsp;In the case of any church tax examination with respect to the revocation of tax-exempt status under section 501(a), any tax imposed by chapter 1 (other than section 511) may be assessed, or a proceeding incourt for collection of such tax may be begun without assessment, only for the 3 most recent taxable years ending before the examination notice date.
 
 #### (ii) 6-year statute of limitations where tax-exempt status revoked
 
@@ -258,6 +258,8 @@ This section shall not apply to—
 
 (Added Pub. L. 98–369, div. A, title X, §1033(a), July 18, 1984, 98 Stat. 1034; amended Pub. L. 99–514, title XVIII, §1899A(61), (62), Oct. 22, 1986, 100 Stat. 2962; Pub. L. 100–203, title X, §10713(b)(2)(G), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title I, §1018(u)(49), Nov. 10, 1988, 102 Stat. 3593; Pub. L. 101–239, title VII, §7822(d)(1), Dec. 19, 1989, 103 Stat. 2425; Pub. L. 104–188, title I, §1704(t)(59), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title I, §1102(e)(3), July 22, 1998, 112 Stat. 705.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7611 was renumbered section 7613 of this title.
@@ -277,6 +279,8 @@ A prior section 7611 was renumbered section 7613 of this title.
 <b>1986</b>—Subsec. (a)(1)(B). Pub. L. 99–514, §1899A(62), reenacted subpar. (B) without change.
 
 Subsec. (i). Pub. L. 99–514, §1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted "etc.)" for "etc)", and in par. (5), substituted "the title" for "the title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

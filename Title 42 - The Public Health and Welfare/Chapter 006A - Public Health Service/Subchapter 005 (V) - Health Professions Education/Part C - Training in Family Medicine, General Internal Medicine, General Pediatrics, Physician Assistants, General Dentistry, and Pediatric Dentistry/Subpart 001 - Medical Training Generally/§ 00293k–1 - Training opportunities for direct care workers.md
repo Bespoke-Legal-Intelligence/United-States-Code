@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award grants to eligible entities to enable such entities to provide new training opportunities for direct care workers who are employed in long-term care settings such as nursing homes (as defined in section 1396g(e)(1) of this title), assisted living facilities and skilled nursing facilities, intermediate care facilities for individuals with mental retardation, home and community based settings, and any other setting the Secretary determines to be appropriate.
+The Secretary shall award grants to eligible entities to enable such entities to provide new training opportunities for direct care workers who are employed in long-term care settings such as nursing homes (as defined in section 1396g(e)(1) of this title), assisted living facilities and skilled nursing facilities, intermediate care facilities for individuals with mental retardation, home and community based settings, andany other setting the Secretary determines to be appropriate.
 
 #### (b) Eligibility
 
@@ -24,7 +24,7 @@ An eligible entity shall use amounts awarded under a grant under this section to
 
 #### (1) Eligibility
 
-&emsp;To be eligible for assistance under this section, an individual shall be enrolled in coursesprovided by a grantee under this subsection and maintain satisfactory academic progress in such courses.
+&emsp;To be eligible for assistance under this section, an individual shall be enrolled in courses provided by a grantee under this subsection and maintain satisfactory academic progress in such courses.
 
 #### (2) Condition of assistance
 

@@ -40,7 +40,7 @@ Two-for-one exception.—An air carrier that otherwise could not use 2 slots as 
 
 &emsp;(3)
 
-Withdrawal of slot.—If the Secretary determines that an air carrier that is using aslot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation, the Secretary shall withdraw the slot that is being used under paragraph (2).
+Withdrawal of slot.—If the Secretary determines that an air carrier that is using a slot under paragraph (2) is no longer providing the air transportation that replaced the turboprop air transportation, the Secretary shall withdraw the slot that is being used under paragraph (2).
 
 &emsp;(4)
 
@@ -74,9 +74,13 @@ Preservation of Certain Existing Slot-Related Air Service.—An air carrier that
 
 (Added Pub. L. 106–181, title II, §231(d)(1), Apr. 5, 2000, 114 Stat. 110.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

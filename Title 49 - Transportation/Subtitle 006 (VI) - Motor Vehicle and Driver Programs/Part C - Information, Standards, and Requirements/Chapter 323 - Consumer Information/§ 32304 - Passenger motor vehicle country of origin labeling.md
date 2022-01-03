@@ -62,7 +62,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(A) with value being expressed in terms of the purchase price; and
 
-&emsp;&emsp;(B) for outside suppliers and allied suppliers, the value used is the purchase price of the equipment paid at the final assembly place.
+&emsp;&emsp;(B) for outside suppliers and allied suppliers, the value used is the purchase price ofthe equipment paid at the final assembly place.
 
 &emsp;(14) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
@@ -122,7 +122,7 @@ Form and Content of Label.—The Secretary of Transportation shall prescribe by 
 
 (h)
 
-Regulations.—In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulations shall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturer to comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
+Regulations.—In consultation with the Secretaries of Commerce and the Treasury, the Secretary of Transportation shall prescribe regulations necessary to carry out this section, including regulations establishing a procedure to verify the label information required under subsection (b)(1) of this section. Those regulationsshall provide the ultimate purchaser of a new passenger motor vehicle with the best and most understandable information possible about the foreign content and United States/Canadian origin of the equipment of the vehicles without imposing costly and unnecessary burdens on the manufacturers. The Secretary of Transportation shall prescribe the regulations promptly to provide adequate lead time for each manufacturer to comply with this section. The regulations shall include provisions applicable to outside suppliers and allied suppliers to require those suppliers to certify whether passenger motor vehicle equipment provided by those suppliers is of United States origin, of United States/Canadian origin, or of foreign content and to provide other information the Secretary of Transportation decides is necessary to allow each manufacturer to comply reasonably with this section and to rely on that certification and information.
 
 (i)
 
@@ -188,7 +188,7 @@ In subsection (a)(5), the words "in such a condition" are omitted as surplus.
 
 In subsection (a)(6), the words "United States/Canadian origin" are substituted for "U.S./Canadian origin" for consistency with the defined term restated in the revised section. The word "foreign" is omitted as being included in "foreign content".
 
-In subsection (a)(9), before subclause (A), the words "originated in the United States and Canada" and"U.S./Canadian origin" are omitted as unnecessary because of the defined term "of United States/Canadian origin". In subclause (A), the words "passenger motor vehicle equipment whose purchase price contains" are substituted for "the purchase price of automotive equipment which contains" for clarity. In subclause (B), the words "that part of the individual passenger motor vehicle equipment whose purchase price the manufacturer determines remains after subtracting the total of the purchase price of all material of foreign content purchased from outside suppliers" are substituted for "the manufacturer shall determine the foreign content of any passenger motor vehicle equipment supplied by the allied supplier by adding up the purchase price of all foreign material purchased from outside suppliers that comprise the individual passenger motor vehicle equipment and subtracting such purchase price from the total purchase price of such equipment" for clarity.
+In subsection (a)(9), before subclause (A), the words "originated in the United States and Canada" and "U.S./Canadian origin" are omitted as unnecessary because of the defined term "of United States/Canadian origin". In subclause (A), the words "passenger motor vehicle equipment whose purchase price contains" are substituted for "the purchase price of automotive equipment which contains" for clarity. In subclause (B), the words "that part of the individual passenger motor vehicle equipment whose purchase price the manufacturer determines remains after subtracting the total of the purchase price of all material of foreign content purchased from outside suppliers" are substituted for "the manufacturer shall determine the foreign content of any passenger motor vehicle equipment supplied by the allied supplier by adding up the purchase price of all foreign material purchased from outside suppliers that comprise the individual passenger motor vehicle equipment and subtracting such purchase price from the total purchase price of such equipment" for clarity.
 
 In subsection (a)(10), the word "person" is substituted for "anyone" for clarity and consistency in the revised title.
 
@@ -215,6 +215,8 @@ This amends 32304(a)(11) to clarify the restatement of 15:1950(f)(3) by section 
 #### Pub. L. 103–429, §6(30)
 
 This amends 49:32304(a)(14) to reflect the inclusion of the Northern Mariana Islands and the exclusion of the Canal Zone. The words "the Northern Mariana Islands" are added because of section 502(a)(2) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as enacted by the Act of March 24, 1976 (Public Law 94–241, 90 Stat. 268), and as proclaimed to be in effect by the President on January 9, 1978 (Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593). The words "the Canal Zone" are omitted because of the Panama Canal Treaty of 1977.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -247,6 +249,8 @@ Subsecs. (f) to (i). Pub. L. 105–178, §7106(d)(3), redesignated subsecs. (c) 
 &emsp;&emsp;"(iii) a vehicle operated only on a rail line."
 
 Subsec. (a)(14). Pub. L. 103–429, §6(30), inserted "the Northern Mariana Islands," after "Puerto Rico," and struck out "the Canal Zone," after "Guam,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

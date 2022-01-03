@@ -50,7 +50,7 @@ Appointments shall be made to the Board of Advisors under subsection (a) in a ma
 
 #### (c) Term of service; vacancy
 
-Members of the Board of Advisors shall serve for a term of 2 years, and may be reappointed.Any vacancy in the Board of Advisors shall be filled in the manner in which the original appointment was made.
+Members of the Board of Advisors shall serve for a term of 2 years, and may be reappointed. Any vacancy in the Board of Advisors shall be filled in the manner in which the original appointment was made.
 
 #### (d) Chair
 

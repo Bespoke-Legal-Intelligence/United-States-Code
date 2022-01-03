@@ -1,6 +1,6 @@
 ### §3754. Congressional restraints on property transfers and tax expenditures; formal apprisal of Panama
 
-(a) The Congress enacts this section in the exercise of its authority under Article IV, section 3, clause 2 of the Constitution of the United States to dispose of and make necessary rules and regulations with respect to property of the United States.
+(a) The Congress enacts this section in the exercise of its authority under Article IV, section3, clause 2 of the Constitution of the United States to dispose of and make necessary rules and regulations with respect to property of the United States.
 
 (b) Prior to the transfer of property of the United States located in the Republic of Panama to the Republic of Panama pursuant to section 3784 of this title the President shall formally advise the Government of Panama that—
 

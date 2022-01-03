@@ -10,6 +10,8 @@ Investigations.—The Administrator of the Transportation Security Administratio
 
 (Added Pub. L. 104–264, title III, §312(a), Oct. 9, 1996, 110 Stat. 3253; amended Pub. L. 107–71, title I, §101(f)(3), (7), Nov. 19, 2001, 115 Stat. 603; Pub. L. 115–254, div. K, title I, §1991(d)(14), Oct. 5, 2018, 132 Stat. 3635.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(14)(A), substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security".
@@ -19,6 +21,8 @@ Subsec. (b). Pub. L. 115–254, §1991(d)(14)(B), substituted "Administrator of 
 <b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(3), substituted "Under Secretary of Transportation for Security" for "Administrator" in first sentence and "Transportation Security Administration" for "Administration" in second sentence.
 
 Subsec. (b). Pub. L. 107–71, §101(f)(7), substituted "Under Secretary" for "Administrator" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

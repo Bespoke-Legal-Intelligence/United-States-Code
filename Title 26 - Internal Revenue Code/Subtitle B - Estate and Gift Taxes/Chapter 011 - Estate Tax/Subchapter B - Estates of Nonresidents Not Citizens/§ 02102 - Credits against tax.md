@@ -22,7 +22,7 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 
 #### (A) Coordination with treaties
 
-&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to the applicable credit amount in effect under section 2010(c) for the calendar year which includes the date of death as the value of the part of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated. For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.
+&emsp;&emsp;To the extent required under any treaty obligation of the United States, the credit allowed under this subsection shall be equal to the amount which bears the same ratio to the applicable credit amount in effect under section 2010(c) for the calendar year which includes the date of death as the value of thepart of the decedent's gross estate which at the time of his death is situated in the United States bears to the value of his entire gross estate wherever situated. For purposes of the preceding sentence, property shall not be treated as situated in the United States if such property is exempt from the tax imposed by this subchapter under any treaty obligation of the United States.
 
 #### (B) Coordination with gift tax unified credit
 
@@ -37,6 +37,8 @@ The tax imposed by section 2101 shall be credited with the amounts determined in
 &emsp;For purposes of subsection (a), sections 2012 and 2013 shall be applied as if the credit allowed under this subsection were allowed under section 2010.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(b), Nov. 13, 1966, 80 Stat. 1572; Pub. L. 94–455, title XX, §2001(c)(1)(E)(i), Oct. 4, 1976, 90 Stat. 1851; Pub. L. 100–647, title V, §5032(b), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 104–188, title I, §1704(f)(1), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 105–34, title V, §501(a)(1)(E), Aug. 5, 1997, 111 Stat. 845; Pub. L. 107–16, title V, §532(c)(7), June 7, 2001, 115 Stat. 75.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -62,6 +64,8 @@ Subsec. (c)(3). Pub. L. 100–647, §5032(b)(2), amended par. (3) generally, sub
 
 <b>1966</b>—Pub. L. 89–809 redesignated existing provisions as subsec. (a), inserted reference to special limitation provided in subsec. (b), and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to estates of decedents dying, and generation-skipping transfers, after Dec. 31, 2004, see section 532(d) of Pub. L. 107–16, set out as a note under section 2012 of this title.
@@ -76,7 +80,7 @@ Amendment by Pub. L. 100–647 applicable to estates of decedents dying after No
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1)of Pub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1966 Amendment
 

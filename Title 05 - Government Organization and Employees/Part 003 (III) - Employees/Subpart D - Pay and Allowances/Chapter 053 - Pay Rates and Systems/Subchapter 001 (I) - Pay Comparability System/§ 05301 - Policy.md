@@ -82,7 +82,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: "This title \[enacting provisions set out as notes under sections 5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the 'Law Enforcement Pay Equity Act of 2000'."
+Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §901\], Dec. 21, 2000, 114 Stat. 2763, 2763A–303, provided that: "This title \[enacting provisions set out as notes under sections5304 and 5305 of this title and section 204 of Title 3, The President, and amending provisions set out as a note under section 5305 of this title\] may be cited as the 'Law Enforcement Pay Equity Act of 2000'."
 
 #### Short Title of 1993 Amendment
 

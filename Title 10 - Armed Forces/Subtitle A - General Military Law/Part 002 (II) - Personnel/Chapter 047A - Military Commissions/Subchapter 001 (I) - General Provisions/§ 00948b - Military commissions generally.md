@@ -10,13 +10,13 @@ Authority for Military Commissions Under This Chapter.—The President is author
 
 (c)
 
-Construction of Provisions.—The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
+Construction of Provisions.—The procedures for military commissions set forth in thischapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
 
 (d)
 
 Inapplicability of Certain Provisions.—(1) The following provisions of this title shall not apply to trial by military commission under this chapter:
 
-&emsp;(A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedytrial, including any rule of courts-martial relating to speedy trial.
+&emsp;(A) Section 810 (article 10 of the Uniform Code of Military Justice), relating to speedy trial, including any rule of courts-martial relating to speedy trial.
 
 &emsp;(B) Sections 831(a), (b), and (d) (articles 31(a), (b), and (d) of the Uniform Code of Military Justice), relating to compulsory self-incrimination.
 
@@ -30,6 +30,8 @@ Geneva Conventions Not Establishing Private Right of Action.—No alien unprivil
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
@@ -38,9 +40,13 @@ A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 <b>2013</b>—Subsec. (d)(1)(C). Pub. L. 113–66 substituted "preliminary hearing" for "pretrial investigation".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission
 

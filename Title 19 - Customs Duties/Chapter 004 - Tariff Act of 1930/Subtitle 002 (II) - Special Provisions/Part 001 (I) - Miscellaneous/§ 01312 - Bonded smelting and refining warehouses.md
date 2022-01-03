@@ -2,7 +2,7 @@
 
 #### (a) Bond; charges against bond
 
-Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methodsand assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
+Any plant engaged in smelting or refining, or both, of metal-bearing materials as defined in this section may, upon the giving of satisfactory bond, be designated a bonded smelting or refining warehouse. Metal-bearing materials may be entered into a bonded smelting or refining warehouse without the payment of duties thereon and there smelted or refined, or both, together with metal-bearing materials of domestic or foreign origin. Upon arrival of imported metal-bearing materials at the warehouse they shall be sampled according to commercial methods and assayed, both under customs supervision. The bond shall be charged with a sum equal in amount to the duties which would be payable on such metal-bearing materials in their condition as imported if entered for consumption, and the bond charge shall be adjusted to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond.
 
 #### (b) Cancellation of charges against bond
 
@@ -108,6 +108,8 @@ Labor performed and services rendered pursuant to this section shall be under th
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 202 and 204 of the United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsecs. (b) and (d), are sections 202 and 204 of Pub. L. 100–449, which are set out in a note under section 2112 of this title.
@@ -182,6 +184,8 @@ Subsec. (f)(3). Pub. L. 100–418, §1214(h)(1)(C), substituted "of chapter 26 o
 
 <b>1962</b>—Pub. L. 87–456 amended section generally, and among other changes, substituted "metal-bearing minerals" for "ores or crude metals", authorized adjustment of the bond charge to reflect changes in the applicable rate of duty occurring while the imported materials are still covered by the bond, permitted two or more warehouses to be included under one general bond, prohibited allowances for wastage of copper, lead, and zinc, and defined "metal-bearing materials", "smelting or refining", and "product of smelting or refining".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
@@ -200,7 +204,7 @@ Amendment by Pub. L. 103–182 applicable (1) with respect to exports from the U
 
 Amendment by Pub. L. 100–449 effective on date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on date Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of this title.
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418,set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date of 1962 Amendment
 

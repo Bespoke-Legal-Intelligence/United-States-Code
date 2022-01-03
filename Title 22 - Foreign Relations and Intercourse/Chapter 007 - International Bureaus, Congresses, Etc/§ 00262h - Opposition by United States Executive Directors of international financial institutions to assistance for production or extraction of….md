@@ -12,7 +12,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 #### Similar Provisions
 
-Pub. L. 116–260, div. K, title VII, §7025(c), Dec. 27, 2020, 134 Stat. 1736, provided that: "The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions to use the voice and vote of the United States to opposeany assistance by such institutions, using funds appropriated or otherwise made available by this Act \[titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."
+Pub. L. 116–260, div. K, title VII, §7025(c), Dec. 27, 2020, 134 Stat. 1736, provided that: "The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or otherwise made available by this Act \[titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification\], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity."
 
 Similar provisions were contained in the following appropriation acts:
 

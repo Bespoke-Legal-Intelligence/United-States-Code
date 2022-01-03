@@ -16,6 +16,8 @@ In order to assist the States in carrying out the purposes of section 291 of thi
 
 (July 1, 1944, ch. 373, title VI, §601, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 448; amended Pub. L. 90–574, title IV, §402(a), Oct. 15, 1968, 82 Stat. 1011; Pub. L. 91–296, title I, §§101(a), 102(a), 116(a), June 30, 1970, 84 Stat. 337, 341; Pub. L. 93–45, title I, §108(a), June 18, 1973, 87 Stat. 92.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 291a, act July 1, 1944, ch. 373, title VI, §611, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, authorized appropriations for surveys and planning, prior to the general amendment of this subchapter by Pub. L. 88–443.
@@ -44,9 +46,11 @@ Par. (c). Pub. L. 91–296, §102(a)(2), added par. (c).
 
 Par. (b). Pub. L. 90–574, §402(a)(2), authorized appropriation of $195,000,000 for fiscal year ending June 30, 1970.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–296, title I, §101(b), June 30, 1970, 84 Stat. 337, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect with respect to appropriations made under such section 601 \[42 U.S.C. 291a\] for fiscal years beginning after June 30, 1970."
+Pub. L. 91–296, title I, §101(b), June 30, 1970, 84 Stat. 337, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect with respect to appropriations made under such section601 \[42 U.S.C. 291a\] for fiscal years beginning after June 30, 1970."
 
 Pub. L. 91–296, title I, §102(a), June 30, 1970, 84 Stat. 337, provided that the amendment made by that section is effective with respect to appropriations made under this section for fiscal years beginning after June 30, 1970.
 

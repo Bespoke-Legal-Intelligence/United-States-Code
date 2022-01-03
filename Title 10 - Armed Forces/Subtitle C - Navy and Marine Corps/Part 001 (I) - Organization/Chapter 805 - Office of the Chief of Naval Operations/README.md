@@ -9,14 +9,19 @@
 | [8036\.](%C2%A7%2008036%20-%20Deputy%20Chiefs%20of%20Naval%20Operations.md) | Deputy Chiefs of Naval Operations. |
 | [8037\.](%C2%A7%2008037%20-%20Assistant%20Chiefs%20of%20Naval%20Operations.md) | Assistant Chiefs of Naval Operations. |
 | [8038\.](%C2%A7%2008038%20-%20Director%20for%20Expeditionary%20Warfare.md) | Director for Expeditionary Warfare. |
+| [8039\.](%C2%A7%2008039%20-%20Deputy%20Commander%20of%20the%20Naval%20Sea%20Systems%20Command%20for%20the%20Supervision%20of%20Shipbuilding%2C%20Conversion%2C%20and%20Repair.md) | Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior chapter 805, consisting of sections 8031 to 8040, related to Air Staff of the Department of the Air Force, prior to renumbering as chapter 905 of this title.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1012(b), Dec. 27, 2021, 135 Stat. 1892, added item 8039.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 505 of this title as this chapter and items 5031 to 5038 as 8031 to 8038, respectively.
 
@@ -38,3 +43,4 @@ A prior chapter 805, consisting of sections 8031 to 8040, related to Air Staff o
 - [&sect; 08036 - Deputy Chiefs of Naval Operations](%C2%A7%2008036%20-%20Deputy%20Chiefs%20of%20Naval%20Operations.md)
 - [&sect; 08037 - Assistant Chiefs of Naval Operations](%C2%A7%2008037%20-%20Assistant%20Chiefs%20of%20Naval%20Operations.md)
 - [&sect; 08038 - Director for Expeditionary Warfare](%C2%A7%2008038%20-%20Director%20for%20Expeditionary%20Warfare.md)
+- [&sect; 08039 - Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair](%C2%A7%2008039%20-%20Deputy%20Commander%20of%20the%20Naval%20Sea%20Systems%20Command%20for%20the%20Supervision%20of%20Shipbuilding%2C%20Conversion%2C%20and%20Repair.md)

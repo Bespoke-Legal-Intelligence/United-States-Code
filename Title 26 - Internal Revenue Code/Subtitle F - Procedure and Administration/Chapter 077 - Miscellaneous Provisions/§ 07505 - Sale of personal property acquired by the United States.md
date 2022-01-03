@@ -10,13 +10,17 @@ In case of the resale of such property, the proceeds of the sale shall be paid i
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 89–719, title I, §111(a), (c)(1), Nov. 2, 1966, 80 Stat. 1145; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1966</b>—Pub. L. 89–719 substituted "acquired by the United States in payment of or as security for debts arising under the internal revenue laws" for "purchased by the United States under the authority of section 6335(e) (relating to purchase for the account of the United States of property sold under levy)" in subsec. (a), and substituted "acquired" for "purchased" in section catchline.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
+Amendment by Pub. L. 89–719 applicable after Nov. 2, 1966, regardless of when title or lien of United Statesarose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as a note under section 6323 of this title.
 

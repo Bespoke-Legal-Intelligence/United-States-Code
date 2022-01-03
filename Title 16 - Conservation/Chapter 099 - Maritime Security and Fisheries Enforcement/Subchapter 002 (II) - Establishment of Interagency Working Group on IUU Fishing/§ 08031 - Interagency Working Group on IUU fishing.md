@@ -8,7 +8,7 @@ There is established a collaborative interagency working group on maritime secur
 
 The members of the Working Group shall be composed of—
 
-&emsp;(1) 1 chair, who shall rotate between the Secretary of the Department in which the Coast Guard is operating, acting through the Commandant of the Coast Guard, the Secretary of State, and the National Oceanographic and Atmospheric Administration, acting through the Administrator, on a 3-year term;
+&emsp;(1) 1 chair, who shall rotate between the Secretary of the Department in which the CoastGuard is operating, acting through the Commandant of the Coast Guard, the Secretary of State, and the National Oceanographic and Atmospheric Administration, acting through the Administrator, on a 3-year term;
 
 &emsp;(2) 2 deputy chairs, who shall be appointed by their respective agency heads and shall be from a different Department than that of the chair, from—
 
@@ -89,6 +89,8 @@ The Working Group shall ensure an integrated, Federal Government-wide response t
 &emsp;(13) publishing annual reports summarizing nonsensitive information about the Working Group's efforts to investigate, enforce, and prosecute groups and individuals engaging in IUU fishing.
 
 (Pub. L. 116–92, div. C, title XXXV, §3551, Dec. 20, 2019, 133 Stat. 2005.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

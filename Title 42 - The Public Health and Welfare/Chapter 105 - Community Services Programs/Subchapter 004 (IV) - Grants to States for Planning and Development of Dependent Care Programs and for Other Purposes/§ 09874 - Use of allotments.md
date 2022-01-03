@@ -60,7 +60,7 @@
 
 &emsp;(A) that the amount of funds available as a result of one of such percentage requirements is not needed in such fiscal year for the activities for which such amount is so made available; and
 
-&emsp;(B) the adequacy of the alternative percentages, relative to need, the State specifies the State will apply with respect to all of the activities referred to in paragraph (1) if such waiver is granted.
+&emsp;(B) the adequacy of the alternative percentages, relative to need, the State specifies theState will apply with respect to all of the activities referred to in paragraph (1) if such waiver is granted.
 
 #### (d) Prohibition; use of amounts
 
@@ -87,6 +87,8 @@ Projects supported under this section to plan, develop, establish, expand, opera
 The Secretary may provide technical assistance to States in planning and carrying out activities under this subchapter.
 
 (Pub. L. 97–35, title VI, §670D, as added Pub. L. 98–558, title I, §109, Oct. 30, 1984, 98 Stat. 2880; amended Pub. L. 99–425, title III, §302, Sept. 30, 1986, 100 Stat. 967; Pub. L. 101–501, title III, §§302, 303, 305(a), Nov. 3, 1990, 104 Stat. 1249, 1250.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ Subsec. (g). Pub. L. 101–501, §305(a)(6), substituted "carrying out activitie
 Subsec. (b)(1). Pub. L. 99–425, §302(b)(1), struck out "where school facilities are not available" after "centers in communities".
 
 Subsec. (b)(2)(E). Pub. L. 99–425, §302(b)(2), inserted "child care" before "licensing laws".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

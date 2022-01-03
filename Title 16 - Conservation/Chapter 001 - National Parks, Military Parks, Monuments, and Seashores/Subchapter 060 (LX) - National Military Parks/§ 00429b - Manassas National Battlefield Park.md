@@ -22,6 +22,8 @@ The Secretary shall not allow any unauthorized use of the Addition after Novembe
 
 (Apr. 17, 1954, ch. 153, §1, 68 Stat. 56, as renumbered and amended Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1885; Pub. L. 100–647, title X, §10002, Nov. 10, 1988, 102 Stat. 3810.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this Act and effective date of this Act, referred to in subsec. (a), probably means the date of the enactment of the Manassas National Battlefield Park Amendments of 1980, Pub. L. 96–442, which was approved Oct. 13, 1980.
@@ -35,6 +37,8 @@ In subsec. (a), "section 100506(c) of title 54" substituted for "section 7(c) of
 <b>1988</b>—Pub. L. 100–647 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 <b>1980</b>—Pub. L. 96–442 substituted a referenced map for specific boundaries, limited the expanded battlefield park to 4,525 acres, included the park in the National Park System, required the Secretary to publish more detailed map, prohibited the Secretary from making boundary adjustments and required him to administer the Park in accordance with the laws and regulations applicable to the National Park System.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1988 Amendment
 
@@ -50,7 +54,7 @@ Pub. L. 100–647, title X, §10004, Nov. 10, 1988, 102 Stat. 3811, provided tha
 
 "(a)
 
-Study.—The Secretary of the Interior (hereafter in this section referred to as the 'Secretary'), in consultation and consensus with the Commonwealth of Virginia, the Federal Highway Administration, and Prince William County, shall conduct a study regarding the relocation of highways (known as routes 29 and 234) in, and in the vicinity of, the Manassas National Battlefield Park (hereinafter in this section referred to as the 'park'). The study shall include an assessment of the available alternatives, together with cost estimates and recommendations regarding preferred options. The study shall specifically consider and develop plans for the closing of those public highways (known as routes 29 and 234) that transect the park and shall include analysis of the timing and method of such closures and of means to provide alternative routes for traffic now transecting the park. The Secretary shall provide for extensive public involvement in the preparation of the study.
+Study.—The Secretary of the Interior (hereafter in this section referred to as the 'Secretary'), in consultation and consensus with the Commonwealth ofVirginia, the Federal Highway Administration, and Prince William County, shall conduct a study regarding the relocation of highways (known as routes 29 and 234) in, and in the vicinity of, the Manassas National Battlefield Park (hereinafter in this section referred to as the 'park'). The study shall include an assessment of the available alternatives, together with cost estimates and recommendations regarding preferred options. The study shall specifically consider and develop plans for the closing of those public highways (known as routes 29 and 234) that transect the park and shall include analysis of the timing and method of such closures and of means to provide alternative routes for traffic now transecting the park. The Secretary shall provide for extensive public involvement in the preparation of the study.
 
 "(b)
 

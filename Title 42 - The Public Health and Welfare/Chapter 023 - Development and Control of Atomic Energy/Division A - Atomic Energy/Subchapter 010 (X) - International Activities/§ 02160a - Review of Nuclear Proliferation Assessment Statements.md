@@ -4,6 +4,8 @@ No court or regulatory body shall have any jurisdiction under any law to compel 
 
 (Pub. L. 95–242, title IV, §406, Mar. 10, 1978, 92 Stat. 148; Pub. L. 105–277, div. G, title XII, §1225(e)(5), Oct. 21, 1998, 112 Stat. 2681–775.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
@@ -15,6 +17,8 @@ Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and no
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–277 inserted ", or any annexes thereto," before "called for in".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

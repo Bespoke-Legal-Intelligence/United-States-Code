@@ -2,7 +2,7 @@
 
 #### (a) Preparation and distribution
 
-The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists, organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
+The Director of the Bureau of Consumer Financial Protection (hereafter in this section referred to as the "Director") shall prepare, at least once every 5 years, a booklet to help consumers applying for federally related mortgage loans to understand the nature and costs of real estate settlement services. The Director shall prepare the booklet in various languages and cultural styles, as the Director determines to be appropriate, so that the booklet is understandable and accessible to homebuyers of different ethnic and cultural backgrounds. The Director shall distribute such booklets to all lenders that make federally related mortgage loans. The Director shall also distribute to such lenders lists,organized by location, of homeownership counselors certified under section 1701x(e) of this title for use in complying with the requirement under subsection (c) of this section.
 
 #### (b) Contents
 
@@ -52,13 +52,13 @@ Each lender shall include with the booklet a good faith estimate of the amount o
 
 #### (d) Distribution by lenders to loan applicants at time of receipt or preparation of applications
 
-Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide thebooklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
+Each lender referred to in subsection (a) shall provide the booklet described in such subsection to each person from whom it receives or for whom it prepares a written application to borrow money to finance the purchase of residential real estate. The lender shall provide the booklet in the version that is most appropriate for the person receiving it. Such booklet shall be provided by delivering it or placing it in the mail not later than 3 business days after the lender receives the application, but no booklet need be provided if the lender denies the application for credit before the end of the 3-day period.
 
 #### (e) Printing and distribution by lenders of booklets approved by Bureau
 
 Booklets may be printed and distributed by lenders if their form and content are approved by the Bureau as meeting the requirements of subsection (b) of this section.
 
-(Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub. L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, §13(b), Mar. 21, 2014, 128 Stat. 1026.)
+(Pub. L. 93–533, §5, Dec. 22, 1974, 88 Stat. 1725; Pub. L. 94–205, §4, Jan. 2, 1976, 89 Stat. 1158; Pub.L. 102–550, title IX, §951, Oct. 28, 1992, 106 Stat. 3892; Pub. L. 111–203, title X, §1098(3), title XIV, §1450, July 21, 2010, 124 Stat. 2104, 2174; Pub. L. 112–141, div. F, title II, §100222, July 6, 2012, 126 Stat. 934; Pub. L. 113–89, §13(b), Mar. 21, 2014, 128 Stat. 1026.)
 
 #### <b>Editorial Notes</b>
 

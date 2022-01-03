@@ -150,7 +150,7 @@
 
 (B) For the purposes of paragraph (2)(A)(i), a separation for failure to accept a directed reassignment to a position outside the commuting area of the employee concerned or to accompany a position outside of such area pursuant to a transfer of function may not be considered to be a removal for cause.
 
-(3) For the purposes of paragraph (1), an employee referred to in that paragraph is eligiblefor an immediate annuity under this paragraph if the employee satisfies all of the following conditions:
+(3) For the purposes of paragraph (1), an employee referred to in that paragraph is eligible for an immediate annuity under this paragraph if the employee satisfies all of the following conditions:
 
 &emsp;(A) The employee is separated from the service voluntarily during a period in which the organization within the Department of Defense in which the employee is serving is undergoing a major organizational adjustment.
 
@@ -250,11 +250,11 @@ In subsections (a) and (b), the words "is entitled to" are substituted for "shal
 
 #### References in Text
 
-Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat. 2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act was formerly classified to section 450i(e)(2) of Title 25, Indians, prior to editorial reclassification as section 5323(e)(2) of Title 25.
+Section 105(e)(2) of the Indian Self-Determination Act (25 U.S.C. 450i(a)(2); 88 Stat. 2209), referred to in subsec. (j)(2)(B), was renumbered section 104(e)(2) of that Act by Pub. L. 100–472, title II, §203(a), Oct. 5, 1988, 102 Stat.2290, without corresponding amendment to this section. Section 104(e)(2) of the Indian Self-Determination Act was formerly classified to section 450i(e)(2) of Title 25, Indians, prior to editorial reclassification as section 5323(e)(2) of Title 25.
 
 The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii), is Dec. 5, 1979, the date of the enactment of Pub. L. 96–135, which was approved Dec. 5, 1979.
 
-Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 ofact June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
+Section 12 of the Act of June 18, 1934 (25 U.S.C. 472; 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 of act June 18, 1934, ch. 576, 48 Stat. 986, which was classified to section 472 of Title 25, Indians, prior to editorial reclassification as section 5116 of Title 25.
 
 #### Amendments
 
@@ -342,7 +342,7 @@ Subsecs. (h), (i). Pub. L. 95–454, §412(a), added subsec. (h) and redesignate
 
 <b>1975</b>—Subsecs. (d), (g). Pub. L. 94–183 substituted "an" for "a reduced" after "is entitled to".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and theCivil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
+<b>1974</b>—Subsec. (c). Pub. L. 93–350 substituted provisions granting annuity entitlement to employees separated from the service after becoming 50 years of age and completing 20 years of service as a law enforcement officer or firefighter or any combination of such service totaling at least 20 years for provisions requiring the head of the employing agency to recommend, and the Civil Service Commission to approve, the retirement of an otherwise eligible employee requiring the agency and the Commission to consider the degree of hazard the employee was subjected to in the performance of his duties, and defining "detention" to include the duties of specified employees.
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–39 reenacted existing provisions, designated part of such provisions as item (1) and added item (2).
 
@@ -426,7 +426,7 @@ Amendment by Pub. L. 93–350 effective July 12, 1974, see section 7 of Pub. L. 
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, setout as an Effective Date note under section 3381 of this title.
+Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under section 3381 of this title.
 
 #### Regulations
 

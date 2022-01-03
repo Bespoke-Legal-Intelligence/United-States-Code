@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(ii) a manipulation of the price of any such contract or swap or the price of the commodity underlying such contract or swap.
 
-(2) Except as provided in subsection (b), the rights of action authorized by this subsection and by sections 7(d)(13), 7a–1(c)(2)(H), and 21(b)(10) of this title shall be the exclusive remedies under this chapter available to any person who sustains loss as a result of any alleged violation of this chapter. Nothing in this subsection shall limit or abridge the rights of the parties to agree in advance of a dispute upon any forum for resolving claims under this section, including arbitration.
+(2) Except as provided in subsection (b), the rights of action authorized by this subsection and by sections 7(d)(13), 7a–1(c)(2)(H), and 21(b)(10) of this title shall be the exclusive remedies under this chapter available to any personwho sustains loss as a result of any alleged violation of this chapter. Nothing in this subsection shall limit or abridge the rights of the parties to agree in advance of a dispute upon any forum for resolving claims under this section, including arbitration.
 
 (3) In any action arising from a violation in the execution of an order on the floor of a registered entity, the person referred to in paragraph (1) shall be liable for—
 
@@ -70,7 +70,7 @@ Contract enforcement for foreign futures contracts.—A contract of sale of a co
 
 (2) A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
 
-(3) Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered <sup>2</sup> entity or a registered futures association willfully aids, abets, counsels, induces, or procures any failure by any such entity to enforce (or any violation of the chapter in enforcing) any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, shall be liable for actual damages sustained by a person who engaged in any transaction specified in subsection (a) of this section on, or subject to the rules of, suchregistered entity or, in the case of an officer, director, governor, committee member, or employee of a registered futures association, any transaction specified in subsection (a) of this section, in either case to the extent of such person's actual losses that resulted from such transaction and were caused by such failure or violation.
+(3) Any individual who, in the capacity as an officer, director, governor, committee member, or employee of registered <sup>2</sup> entity or a registeredfutures association willfully aids, abets, counsels, induces, or procures any failure by any such entity to enforce (or any violation of the chapter in enforcing) any bylaw, rule, regulation, or resolution referred to in paragraph (1) or (2) of this subsection, shall be liable for actual damages sustained by a person who engaged in any transaction specified in subsection (a) of this section on, or subject to the rules of, such registered entity or, in the case of an officer, director, governor, committee member, or employee of a registered futures association, any transaction specified in subsection (a) of this section, in either case to the extent of such person's actual losses that resulted from such transaction and were caused by such failure or violation.
 
 (4) A person seeking to enforce liability under this section must establish that the registered entity <sup>3</sup> registered futures association, officer, director, governor, committee member, or employee acted in bad faith in failing to take action or in taking such action as was taken, and that such failure or action caused the loss.
 
@@ -85,6 +85,8 @@ The United States district courts shall have exclusive jurisdiction of actions b
 The provisions of this section shall become effective with respect to causes of action accruing on or after the date of enactment of the Futures Trading Act of 1982 \[January 11, 1983\]: <i>Provided</i>, That the enactment of the Futures Trading Act of 1982 shall not affect any right of any parties which may exist with respect to causes of action accruing prior to such date.
 
 (Sept. 21, 1922, ch. 369, §22, as added Pub. L. 97–444, title II, §235, Jan. 11, 1983, 96 Stat. 2322; amended Pub. L. 102–546, title II, §§211, 222(d), title IV, §402(14), Oct. 28, 1992, 106 Stat. 3607, 3616, 3625; Pub. L. 106–554, §1(a)(5) \[title I, §§120, 123(a)(25)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–404, 2763A–410; Pub. L. 110–234, title XIII, §§13105(i), 13203(n), May 22, 2008, 122 Stat. 1435, 1441; Pub. L. 110–246, §4(a), title XIII, §§13105(i), 13203(n), June 18, 2008, 122 Stat. 1664, 2197, 2203; Pub. L. 111–203, title VII, §§738(c), 739, 749(h), 753(c), July 21, 2010, 124 Stat. 1728, 1729, 1748, 1754.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -116,7 +118,7 @@ Subsec. (b)(1)(A). Pub. L. 111–203, §749(h)(3), substituted "section 7, 7a–
 
 Subsec. (b)(1)(A). Pub. L. 110–246, §13203(n), inserted "section 2(h)(7) of this title or" before "sections 7 through 7a–2".
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(i)(I)\], substituted "registered entity" for "contract market, clearing organization of a contract market, licensed board of trade," in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(i)(I)\], substituted "registered entity" for "contract market, clearing organization of a contractmarket, licensed board of trade," in introductory provisions.
 
 Subsec. (a)(1)(C)(i). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(i)(II)\], substituted "registered entity" for "contract market".
 
@@ -126,7 +128,7 @@ Subsec. (a)(3). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(A)(iii)\], 
 
 Subsec. (a)(4). Pub. L. 106–554, §1(a)(5) \[title I, §120\], added par. (4).
 
-Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(i)\], substituted "registered entity thatfails" for "contract market or clearing organization of a contract market that fails", "sections 7 through 7a–2 of this title" for "section 7a(8) and section 7a(9) of this title", "registered entity that in" for "contract market, clearing organization of a contract market, or licensed board of trade that in", and "registered entity to the" for "contract market or licensed board of trade to the".
+Subsec. (b)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(i)\], substituted "registered entity that fails" for "contract market or clearing organization of a contract market that fails", "sections 7 through 7a–2 of this title" for "section 7a(8) and section 7a(9) of this title", "registered entity that in" for "contract market, clearing organization of a contract market, or licensed board of trade that in", and "registered entity to the" for "contract market or licensed board of trade to the".
 
 Subsec. (b)(3). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(ii)\], substituted "employee of registered entity" for "employee of a contract market, clearing organization, licensed board of trade," and "such registered entity" for "such contract market, licensed board of trade".
 
@@ -141,6 +143,8 @@ Subsec. (a)(2). Pub. L. 102–546, §402(14)(B), made technical amendment to ref
 Subsec. (a)(3). Pub. L. 102–546, §222(d), added par. (3).
 
 Subsec. (c). Pub. L. 102–546, §211, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The United States district courts shall have exclusive jurisdiction of actions brought under this section. Any such action must be brought within two years after the date the cause of action accrued."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

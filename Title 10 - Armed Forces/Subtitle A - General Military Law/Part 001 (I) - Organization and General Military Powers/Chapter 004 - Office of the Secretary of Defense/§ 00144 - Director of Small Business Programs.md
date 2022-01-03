@@ -16,6 +16,8 @@ Duties and Powers.—(1) The Director of Small Business Programs shall, subject 
 
 (Added Pub. L. 109–163, div. A, title IX, §904(b)(1), Jan. 6, 2006, 119 Stat. 3400.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 109–163, div. A, title IX, §904(a), Jan. 6, 2006, 119 Stat. 3399, provided that:

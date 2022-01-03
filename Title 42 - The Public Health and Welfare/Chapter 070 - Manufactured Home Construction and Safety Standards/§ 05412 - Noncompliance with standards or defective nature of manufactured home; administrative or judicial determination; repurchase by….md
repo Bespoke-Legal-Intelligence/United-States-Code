@@ -12,11 +12,15 @@
 
 (Pub. L. 93–383, title VI, §613, Aug. 22, 1974, 88 Stat. 706; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2999.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsecs. (a), (b). Pub. L. 106–569 substituted "retailer" for "dealer" wherever appearing.
 
 <b>1980</b>—Subsecs. (a), (b). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

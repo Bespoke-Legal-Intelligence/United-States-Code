@@ -32,7 +32,7 @@ The Director shall—
 
 #### (2) Use of certain strategies
 
-&emsp;In carrying out this section, the Director shall implement research strategies and mechanisms that will enhance the involvement of individuals who are members of minority health disparity populations or other health disparity populations, health services researchers who are such individuals, institutions that train such individuals as researchers, members of minority health disparity populations or other health disparity populations for whom the Agency is attempting to improve the quality and outcomes of care, and representatives of appropriate tribal or other community-based organizations with respect to health disparity populations. Such research strategies and mechanisms may include the use of—
+&emsp;In carrying out this section, the Director shall implement research strategies and mechanisms that will enhance the involvement of individuals who are members of minorityhealth disparity populations or other health disparity populations, health services researchers who are such individuals, institutions that train such individuals as researchers, members of minority health disparity populations or other health disparity populations for whom the Agency is attempting to improve the quality and outcomes of care, and representatives of appropriate tribal or other community-based organizations with respect to health disparity populations. Such research strategies and mechanisms may include the use of—
 
 &emsp;&emsp;(A) centers of excellence that can demonstrate, either individually or through consortia, a combination of multi-disciplinary expertise in outcomes or quality improvement research, linkages to relevant sites of care, and a demonstrated capacity to involve members and communities of health disparity populations, including minority health disparity populations, in the planning, conduct, dissemination, and translation of research;
 
@@ -65,6 +65,8 @@ For purposes of this section:
 &emsp;(2) The term "minority", with respect to populations, refers to racial and ethnic minority groups as defined in section 300u–6 of this title.
 
 (July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 106–525, title II, §201(a)(2), Nov. 22, 2000, 114 Stat. 2505; amended Pub. L. 111–148, title X, §10334(c)(3)(B), Mar. 23, 2010, 124 Stat. 974.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

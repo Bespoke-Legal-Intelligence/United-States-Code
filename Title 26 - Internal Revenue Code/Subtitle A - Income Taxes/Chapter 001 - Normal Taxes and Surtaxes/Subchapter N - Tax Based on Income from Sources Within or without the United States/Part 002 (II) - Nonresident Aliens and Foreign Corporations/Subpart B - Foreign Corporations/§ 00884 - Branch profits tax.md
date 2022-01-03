@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;If a foreign corporation is subject to the tax imposed by subsection (a) for any taxable year (determined after the application of any treaty), no tax shall be imposed by section 871(a), 881(a), 1441, or 1442 on any dividends paid by such corporation out of its earnings and profits for such taxable year.
+&emsp;&emsp;If a foreign corporation is subject to the tax imposed by subsection (a) for any taxable year (determined after the application of any treaty), no tax shall be imposed by section 871(a), 881(a), 1441, or 1442 on anydividends paid by such corporation out of its earnings and profits for such taxable year.
 
 #### (B) Limitation on certain treaty benefits
 
@@ -184,7 +184,7 @@ For purposes of this section—
 
 #### (2) Allocable interest
 
-&emsp;For purposes of this subsection, the term "allocable interest" means any interest which is allocable to income which is effectively connected (or treated as effectively connected)with the conduct of a trade or business in the United States.
+&emsp;For purposes of this subsection, the term "allocable interest" means any interest which is allocable to income which is effectively connected (or treated as effectively connected) with the conduct of a trade or business in the United States.
 
 #### (3) Coordination with treaties
 
@@ -206,9 +206,11 @@ For purposes of this section—
 
 #### (g) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry outthe purposes of this section, including regulations providing for appropriate adjustments in the determination of the dividend equivalent amount in connection with the distribution to shareholders or transfer to a controlled corporation of the taxpayer's U.S. assets and other adjustments in such determination as are necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 99–514, title XII, §1241(a), Oct. 22, 1986, 100 Stat. 2576; amended Pub. L. 100–647, title I, §1012(q)(1)(A), (2)–(6), (14), title VI, §6133(b), Nov. 10, 1988, 102 Stat. 3522–3525, 3721; Pub. L. 104–188, title I, §1704(f)(3)(A), Aug. 20, 1996, 110 Stat. 1879; Pub. L. 110–172, §11(g)(8), Dec. 29, 2007, 121 Stat. 2490.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -265,6 +267,8 @@ Subsec. (f)(1). Pub. L. 100–647, §1012(f)(3)(A), (14), substituted "this subt
 Pub. L. 100–647, §1012(q)(2)(C)(i), (3)(B), inserted sentence at end and struck out former last sentence which read as follows: "Rules similar to the rules of subsection (e)(3)(B) shall apply to interest described in the preceding sentence."
 
 Subsec. (f)(3). Pub. L. 100–647, §1012(q)(2)(C)(ii), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -18,7 +18,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (1) Requirement of consistency with approved mitigation plan
 
-&emsp;Amounts provided under this section may be used only for mitigation activities that are consistent with mitigation plans that are approved by the Administrator and identified under paragraph (4). The Administrator shall provide assistance under this section to the extent amounts are available in the National Flood Mitigation Fund pursuant to appropriation Acts, subject only to the absence of approvable mitigation plans.
+&emsp;Amounts provided under this section may be used only for mitigation activities that are consistent with mitigation plans that are approved by the Administrator and identified under paragraph (4). The Administrator shall provide assistance under this section to theextent amounts are available in the National Flood Mitigation Fund pursuant to appropriation Acts, subject only to the absence of approvable mitigation plans.
 
 #### (2) Requirements of technical feasibility, cost effectiveness, and interest of National Flood Insurance Fund
 
@@ -134,6 +134,8 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 90–448, title XIII, §1366, as added Pub. L. 103–325, title V, §553(a), Sept. 23, 1994, 108 Stat. 2270; amended Pub. L. 108–264, title I, §103(a)–(c), (e), (f), June 30, 2004, 118 Stat. 721, 722; Pub. L. 112–95, title VIII, §815(b), Feb. 14, 2012, 126 Stat. 125; Pub. L. 112–141, div. F, title II, §§100225(a), 100238(b)(1), July 6, 2012, 126 Stat. 938, 958.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), and (h)(3)(A), (B)(i), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -215,6 +217,8 @@ Subsec. (e)(4). Pub. L. 108–264, §103(b), added par. (4) and struck out headi
 Subsec. (g)(2), (3). Pub. L. 108–264, §103(e), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (m). Pub. L. 108–264, §103(c), added subsec. (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

@@ -24,7 +24,7 @@ In general.—The Secretary of Transportation shall develop and carry out a trai
 
 &emsp;&emsp;(B)
 
-Conduct.—In carrying out this paragraph, the Secretary of Transportation shall train inspectors, including Department of Transportation personnel, State employeesdescribed under subsection (c), or personnel paid with funds authorized under sections 31102 and 31104, in the recognition of adulteration problems associated with the transportation of cosmetics, devices, drugs, food, and food additives and in the procedures for obtaining assistance of the appropriate departments, agencies, and instrumentalities of the Government and State authorities to support the enforcement.
+Conduct.—In carrying out this paragraph, the Secretary of Transportation shall train inspectors, including Department of Transportation personnel, State employees described under subsection (c), or personnel paid with funds authorized under sections 31102 and 31104, in the recognition of adulteration problems associated with the transportation of cosmetics, devices, drugs, food, and food additives and in the procedures for obtaining assistance of the appropriate departments, agencies, and instrumentalities of the Government and State authorities to support the enforcement.
 
 &emsp;(3)
 
@@ -39,6 +39,8 @@ Notification of Secretary of Health and Human Services or Secretary of Agricultu
 Use of State Employees.—The means by which the Secretary of Transportation carries out subsection (b) may include inspections conducted by State employees using funds authorized to be appropriated under sections 31102 through 31104.
 
 (Added Pub. L. 109–59, title VII, §7203, Aug. 10, 2005, 119 Stat. 1913.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -75,6 +77,8 @@ Section 5712, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859, related to
 Section 5713, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859, related to application of sections 5711 and 5712.
 
 Section 5714, Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 859, related to coordination between departments, agencies, and instrumentalities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

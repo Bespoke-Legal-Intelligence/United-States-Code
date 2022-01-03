@@ -6,11 +6,13 @@ Such request, if approved by the Comptroller of the Currency, shall be, together
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Transfer of Functions
-
-For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
-
 #### Application to District of Columbia
 
 Provisions of this section were made applicable to banks, etc., in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions to Secretary of the Treasury, see note set out under section 55 of this title.
 

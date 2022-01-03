@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Nothing in this part shall be interpreted as limiting the authority of the financial aid administrator, on the basis of adequate documentation, to make adjustments on a case-by-case basis to the cost of attendance or the values of the data items required to calculate the expected student or parent contribution (or both) to allow for treatment of an individual eligible applicant with special circumstances. However, this authority shall not be construed to permit aid administrators to deviate from the contributions expected in the absence of special circumstances. Special circumstances may include tuition expenses at an elementary or secondary school, medical, dental, or nursing home expenses not covered by insurance, unusually high child care or dependent care costs, recent unemployment of a family member or an independent student, a student or family member who is a dislocated worker (as defined in section 3102 of title 29), the number of parents enrolled at least half-time in a degree, certificate, or other program leading to a recognized educational credential at an institution with a program participation agreement under section 1094 of this title, a change in housing status that results in an individual being homeless (as defined in section 11302 of title 42), or other changes in a family's income, a family's assets, or a student's status. Special circumstances shall be conditions that differentiate an individual student from a class of students rather than conditions that exist across a class of students. Adequate documentation for such adjustments shall substantiate such special circumstances of individual students. In addition, nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter, or (2) to offer a dependent student financial assistance under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under section 1090 of this title if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form. No student or parent shall be charged a fee for collecting, processing, or delivering such supplementary information.
+Nothing in this part shall be interpreted as limiting the authority of the financial aid administrator, on the basis of adequate documentation, to make adjustments on a case-by-case basis to the cost of attendance or the values of the data items required to calculate the expected student or parent contribution (or both) to allow for treatment of an individual eligible applicant with special circumstances. However, this authority shall not be construed to permit aid administrators to deviate from the contributions expected in the absence of special circumstances. Special circumstances may include tuition expenses at an elementary or secondary school, medical, dental, or nursing home expenses not covered by insurance, unusually high child care or dependent care costs, recent unemployment of a family member or an independent student, a student or family member who is a dislocated worker (as defined in section 3102 of title 29), the number of parents enrolledat least half-time in a degree, certificate, or other program leading to a recognized educational credential at an institution with a program participation agreement under section 1094 of this title, a change in housing status that results in an individual being homeless (as defined in section 11302 of title 42), or other changes in a family's income, a family's assets, or a student's status. Special circumstances shall be conditions that differentiate an individual student from a class of students rather than conditions that exist across a class of students. Adequate documentation for such adjustments shall substantiate such special circumstances of individual students. In addition, nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter, or (2) to offer a dependent student financial assistance under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under section 1090 of this title if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form. No student or parent shall be charged a fee for collecting, processing, or delivering such supplementary information.
 
 #### (b) Adjustments to assets taken into account
 
@@ -52,7 +52,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 #### <i>(C) Rule of construction</i>
 
-&emsp;&emsp;<i>The authority to make adjustments under paragraph (1)(A) shall not be construed to per</i><i>mit financial aid administrators to deviate from the cost of attendance, the values of data used to calculate the student aid index or the values of data used to calculate the Federal Pell Grant award (or both) for awarding aid under this subchapter in the absence of special circumstances.</i>
+&emsp;&emsp;<i>The authority to make adjustments under paragraph (1)(A) shall not be construed to permit financial aid administrators to deviate from the cost of attendance, the values of data used to calculate the student aid index or the values of data used to calculate the Federal Pell Grant award (or both) for awarding aid under this subchapter in the absence of special circumstances.</i>
 
 #### <i>(3) Adequate documentation</i>
 
@@ -128,7 +128,7 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 &emsp;&emsp;&emsp;<i>(ii) medical, dental, or nursing home expenses not covered by insurance;</i>
 
-&emsp;&emsp;&emsp;<i>(iii) child care or dependent care costs not covered by the dependent care cost allowance</i><i>calculated in accordance with section 1087ll of this title;</i>
+&emsp;&emsp;&emsp;<i>(iii) child care or dependent care costs not covered by the dependent care cost allowance calculated in accordance with section 1087ll of this title;</i>
 
 &emsp;&emsp;&emsp;<i>(iv) recent unemployment of a family member or student;</i>
 
@@ -228,6 +228,8 @@ On a case-by-case basis, an eligible institution may refuse to certify a stateme
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1087tt, Pub. L. 89–329, title IV, §479A, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
@@ -252,9 +254,11 @@ Subsec. (c). Pub. L. 105–244, §478(2), amended heading and text of subsec. (c
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B, C, and E of this subchapter."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter,see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2014 Amendment
 

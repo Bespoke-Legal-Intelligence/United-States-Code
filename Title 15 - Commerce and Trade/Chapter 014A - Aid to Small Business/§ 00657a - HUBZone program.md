@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established within the Administration a program (to be known as the HUBZone program) to be carried out by the Administrator to provide for Federal contracting assistance, including promoting economic development in economically distressed areas (as defined in section 636(m)(11)),<sup>1</sup> to qualified HUBZone small business concerns in accordance with this section.
+There is established within the Administration a program (to be known as the HUBZone program) to be carried out by the Administrator to provide for Federal contracting assistance, including promoting economic development in economically distressed areas (as defined in section 636(m)(11)),<sup>1</sup> to qualified HUBZone smallbusiness concerns in accordance with this section.
 
 #### (b) Definitions relating to HUBZones
 
@@ -78,7 +78,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 years after the date that the Administrator implements this clause, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the date on which the Financial Oversight and Management Board for theCommonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
+&emsp;&emsp;&emsp;&emsp;(II) the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist,
 
 &emsp;&emsp;&nbsp;whichever event occurs first.
 
@@ -232,7 +232,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) has the same meaning as the term "Indian country" in section 1151 of title 18, except that such term does not include—
 
-&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
+&emsp;&emsp;&emsp;&emsp;(I) any lands that are located within a State in which a tribe did not exercise governmental jurisdiction on December 21, 2000, unless that tribe is recognized after December 21, 2000, by either an Act of Congress or pursuant to regulations of the Secretary of the Interior for the administrative recognition that an Indian group exists as an Indian tribe (part 83 of title 25, Code of Federal Regulations); and
 
 &emsp;&emsp;&emsp;&emsp;(II) lands taken into trust or acquired by an Indian tribe after December 21, 2000, if such lands are not located within the external boundaries of an Indian reservation or former reservation or are not contiguous to the lands held in trust or restricted status on December 21, 2000; and
 
@@ -406,6 +406,8 @@ There is authorized to be appropriated to carry out the program established by t
 
 (Pub. L. 85–536, §2\[31\], as added Pub. L. 105–135, title VI, §602(b)(1)(B), Dec. 2, 1997, 111 Stat. 2629; amended Pub. L. 106–554, §1(a)(9) \[title V, §503(b), title VI, §612(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–695, 2763A–699; Pub. L. 108–447, div. K, title I, §§153, 154, Dec. 8, 2004, 118 Stat. 3458; Pub. L. 111–240, title I, §1347(b)(1), (c), Sept. 27, 2010, 124 Stat. 2547; Pub. L. 114–92, div. A, title VIII, §866(c), Nov. 25, 2015, 129 Stat. 932; Pub. L. 115–91, div. A, title XVII, §1701(a)(1), (2), (b)–(e), (g), (h), Dec. 12, 2017, 131 Stat. 1795–1798, 1800; Pub. L. 116–283, div. A, title VIII, §864(2), Jan. 1, 2021, 134 Stat. 3784.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 636(m)(11) of this title, referred to in subsec. (a), no longer defines the term "economically distressed areas". See 1994 Amendment note for subsec. (m)(11)(D) under section 636 of this title.
@@ -508,6 +510,8 @@ Subsec. (d). Pub. L. 108–447, §154, substituted "2004 through 2006" for "2001
 
 Subsec. (d). Pub. L. 106–554, §1(a)(9) \[title V, §503(b)\], added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–91, div. A, title XVII, §1701(j), Dec. 12, 2017, 131 Stat. 1803, provided that: "The provisions of this section shall take effect—
@@ -526,7 +530,7 @@ Pub. L. 105–135, title VI, §602(b)(2), Dec. 2, 1997, 111 Stat. 2631, as amend
 
 #### Construction of 2017 Amendment
 
-Pub. L. 115–91, div. A, title XVII, §1701(i), Dec. 12, 2017, 131 Stat. 1803, provided that: "A HUBZone small business concern that was qualified pursuant to section3(p)(5) of the Small Business Act \[formerly 15 U.S.C. 632(p)(5), now 15 U.S.C. 657a(b)(4)\] on or before December 31, 2019, shall continue to be considered as a qualified HUBZone small business concern during the period beginning on January 1, 2020, and ending on the date that the Administrator of the Small Business Administration prepares the online tool depicting qualified areas described under section 31(d)(7) \[15 U.S.C. 657a(d)(7)\] (as added by subsection (h) of this section)."
+Pub. L. 115–91, div. A, title XVII, §1701(i), Dec. 12, 2017, 131 Stat. 1803, provided that: "A HUBZone small business concern that was qualified pursuant to section 3(p)(5) of the Small Business Act \[formerly 15 U.S.C. 632(p)(5), now 15 U.S.C. 657a(b)(4)\] on or before December 31, 2019, shall continue to be considered as a qualified HUBZone small business concern during the period beginning on January 1, 2020, and ending on the date that the Administrator of the Small Business Administration prepares the online tool depicting qualified areas described under section 31(d)(7) \[15 U.S.C. 657a(d)(7)\] (as added by subsection (h) of this section)."
 
 #### Report
 

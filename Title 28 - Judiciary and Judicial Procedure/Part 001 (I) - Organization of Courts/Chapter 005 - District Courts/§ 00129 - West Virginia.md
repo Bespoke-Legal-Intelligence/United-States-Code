@@ -10,7 +10,7 @@ West Virginia is divided into two judicial districts to be known as the Northern
 
 ### Southern District
 
-(b) The Southern District comprises the counties of Boone, Cabell, Clay, Fayette, Greenbrier,Jackson, Kanawha, Lincoln, Logan, McDowell, Mason, Mercer, Mingo, Monroe, Nicholas, Putnam, Raleigh, Roane, Summers, Wayne, Wirt, Wood, and Wyoming.
+(b) The Southern District comprises the counties of Boone, Cabell, Clay, Fayette, Greenbrier, Jackson, Kanawha, Lincoln, Logan, McDowell, Mason, Mercer, Mingo, Monroe, Nicholas, Putnam, Raleigh, Roane, Summers, Wayne, Wirt, Wood, and Wyoming.
 
 &emsp;&emsp;Court for the Southern District shall be held at Beckley, Bluefield, Charleston, Huntington, Lewisburg, and Parkersburg.
 

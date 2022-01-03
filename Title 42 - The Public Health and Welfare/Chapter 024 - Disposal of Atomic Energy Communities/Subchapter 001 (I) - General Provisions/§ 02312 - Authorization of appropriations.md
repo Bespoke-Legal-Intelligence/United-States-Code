@@ -4,7 +4,9 @@
 
 (b) There are authorized to be appropriated the sum of $518,000 at Oak Ridge, the sum of $2,215,000 at Richland and the sum of $8,719,000 at Los Alamos for construction, modification, or expansion of municipal installations and utilities authorized to be transferred pursuant to subchapters VI and VII of this chapter.
 
-(Aug. 4, 1955, ch. 543, ch. 11, §118, 69 Stat. 484; July 25, 1956, ch. 731, §§5, 6, 70 Stat. 654; Pub. L.87–719, §24, Sept. 28, 1962, 76 Stat. 666; Pub. L. 90–190, §4, Dec. 14, 1967, 81 Stat. 576.)
+(Aug. 4, 1955, ch. 543, ch. 11, §118, 69 Stat. 484; July 25, 1956, ch. 731, §§5, 6, 70 Stat. 654; Pub. L. 87–719, §24, Sept. 28, 1962, 76 Stat. 666; Pub. L. 90–190, §4, Dec. 14, 1967, 81 Stat. 576.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

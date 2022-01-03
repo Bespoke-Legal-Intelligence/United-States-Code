@@ -18,6 +18,8 @@ The Securities and Exchange Commission shall establish a separate office within 
 
 (Pub. L. 111–203, title IX, §924, July 21, 2010, 124 Stat. 1850.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subtitle, referred to in subsecs. (a) to (c), means subtitle B (§§921–929Z) of title IX of Pub. L. 111–203.
@@ -27,6 +29,8 @@ Section 922(a), referred to in subsec. (d), means section 922(a) of Pub. L. 111�
 #### Codification
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010, and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

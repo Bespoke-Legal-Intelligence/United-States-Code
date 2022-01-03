@@ -4,9 +4,13 @@ The Trustees of the National Gallery of Art are authorized to construct within t
 
 (Pub. L. 90–376, §1, July 5, 1968, 82 Stat. 286.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of act Mar. 24, 1937, ch. 50, 50 Stat. 51, which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Jurisdiction
 

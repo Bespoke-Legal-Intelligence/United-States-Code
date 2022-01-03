@@ -4,6 +4,8 @@ Nothing in this chapter shall be deemed to repeal, modify, amend, or alter the p
 
 (Aug. 1, 1946, ch. 724, title I, §241, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
@@ -14,7 +16,7 @@ Section 9(a) of the Atomic Energy Act of 1946, as heretofore amended, referred t
 
 "(2) All facilities, equipment, and materials, devoted primarily to atomic energy research and development; and
 
-"(3) Such other property owned by or in the custody or control of the Manhattan Engineer District or other Government agencies as the President may determine."
+"(3) Such other property owned by or in the custody or control of the Manhattan Engineer District or otherGovernment agencies as the President may determine."
 
 #### Prior Provisions
 

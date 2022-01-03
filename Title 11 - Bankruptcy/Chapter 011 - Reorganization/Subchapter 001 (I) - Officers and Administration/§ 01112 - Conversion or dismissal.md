@@ -8,7 +8,7 @@
 
 &emsp;(3) the case was converted to a case under this chapter other than on the debtor's request.
 
-(b)(1) Except as provided in paragraph (2) and subsection (c), on request of a party in interest,and after notice and a hearing, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause unless the court determines that the appointment under section 1104(a) of a trustee or an examiner is in the best interests of creditors and the estate.
+(b)(1) Except as provided in paragraph (2) and subsection (c), on request of a party in interest, and after notice and a hearing, the court shall convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter, whichever is in the best interests of creditors and the estate, for cause unless the court determines that the appointment under section 1104(a) of a trustee or an examiner is in the best interests of creditors and the estate.
 
 (2) The court may not convert a case under this chapter to a case under chapter 7 or dismiss a case under this chapter if the court finds and specifically identifies unusual circumstances establishing that converting or dismissing the case is not in the best interests of creditors and the estate, and the debtor or any other party in interest establishes that—
 
@@ -68,7 +68,7 @@
 
 (e) Except as provided in subsections (c) and (f), the court, on request of the United States trustee, may convert a case under this chapter to a case under chapter 7 of this title or may dismiss a case under this chapter, whichever is in the best interest of creditors and the estate if the debtor in a voluntary case fails to file, within fifteen days after the filing of the petition commencing such case or such additional time as the court may allow, the information required by paragraph (1) of section 521(a), including a list containing the names and addresses of the holders of the twenty largest unsecured claims (or of all unsecured claims if there are fewer than twenty unsecured claims), and the approximate dollar amounts of each of such claims.
 
-(f) Notwithstanding any other provision of this section, a case may not be converted to a case under another chapter of this title unless the debtor may be a debtor under such chapter.
+(f) Notwithstanding any other provision of this section, a case may not be converted to a caseunder another chapter of this title unless the debtor may be a debtor under such chapter.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2630; Pub. L. 98–353, title III, §505, July 10, 1984, 98 Stat. 384; Pub. L. 99–554, title II, §§224, 256, Oct. 27, 1986, 100 Stat. 3102, 3114; Pub. L. 103–394, title II, §217(c), Oct. 22, 1994, 108 Stat. 4127; Pub. L. 109–8, title IV, §442(a), Apr. 20, 2005, 119 Stat. 115; Pub. L. 111–327, §2(a)(33), Dec. 22, 2010, 124 Stat. 3561.)
 

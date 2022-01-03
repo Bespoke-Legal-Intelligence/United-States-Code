@@ -4,9 +4,13 @@ The Director of Central Intelligence shall include the same level of budgetary d
 
 (Pub. L. 103–359, title VI, §603, Oct. 14, 1994, 108 Stat. 3433.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified as a note under section 403–1 of this title prior to editorial reclassification as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

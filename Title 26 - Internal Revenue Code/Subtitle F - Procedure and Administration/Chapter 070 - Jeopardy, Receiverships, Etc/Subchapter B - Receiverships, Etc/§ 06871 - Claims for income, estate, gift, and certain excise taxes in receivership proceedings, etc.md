@@ -24,6 +24,8 @@ In the case of a tax imposed by subtitle A or B or by chapter 41, 42, 43, or 44�
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 85–866, title I, §88, Sept. 2, 1958, 72 Stat. 1665; Pub. L. 94–455, title XIX, §§1906(b)(13)(A), (c)(1), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 96–589, §6(g)(1), Dec. 24, 1980, 94 Stat. 3409; Pub. L. 101–239, title VII, §7841(d)(2), Dec. 19, 1989, 103 Stat. 2428.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–239 substituted "or 44" for "44, or 45" in subsecs. (a), (b), and (c).
@@ -40,9 +42,11 @@ Pub. L. 94–455, §1906(c)(1), struck out "or Territory" after "any State".
 
 Subsec. (b). Pub. L. 85–866, §88(b), substituted "the filing or (where approval is required by the Bankruptcy Act) the approval of a petition of, or the approval of a petition against, any taxpayer" for "approval of the petition".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e)of Pub. L. 96–589, set out as a note under section 108 of this title.
+Amendment by Pub. L. 96–589 effective Oct. 1, 1979, but not applicable to proceedings under Title 11, Bankruptcy, commenced before Oct. 1, 1979, see section 7(e) of Pub. L. 96–589, set out as a note under section 108 of this title.
 
 #### Effective Date of 1976 Amendment
 

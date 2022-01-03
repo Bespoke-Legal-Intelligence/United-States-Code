@@ -24,6 +24,8 @@ The Congress hereby finds and declares that, in keeping with the traditional Ame
 
 (Pub. L. 89–73, title I, §101, July 14, 1965, 79 Stat. 219; Pub. L. 93–29, title I, §102, May 3, 1973, 87 Stat. 30; Pub. L. 95–478, title I, §101, Oct. 18, 1978, 92 Stat. 1513; Pub. L. 97–115, §2(a)(1), Dec. 29, 1981, 95 Stat. 1595; Pub. L. 98–459, title I, §102, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §101, Nov. 29, 1987, 101 Stat. 928; Pub. L. 102–375, title I, §101, title IX, §904(a)(1), Sept. 30, 1992, 106 Stat. 1197, 1305; Pub. L. 116–131, title I, §102, Mar. 25, 2020, 134 Stat. 242.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Par. (2). Pub. L. 116–131 inserted "(including access to person-centered, trauma-informed services as appropriate)" after "health".
@@ -51,6 +53,8 @@ Par. (10). Pub. L. 98–459, §102(c), inserted reference to full participation 
 <b>1978</b>—Par. (8). Pub. L. 95–478 included objective of community services which provide a choice in supported living arrangements.
 
 <b>1973</b>—Par. (8). Pub. L. 93–29 inserted reference to access to low-cost transportation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 
@@ -166,7 +170,7 @@ Pub. L. 102–375, §1(a), Sept. 30, 1992, 106 Stat. 1195, provided that: "This 
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: "This Act \[enacting sections 280c to 280c–5,2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a, 3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the 'Older Americans Act Amendments of 1987'."
+Pub. L. 100–175, §1, Nov. 29, 1987, 101 Stat. 926, provided that: "This Act \[enacting sections 280c to 280c–5, 2991b–1, 2991d–1, 2992b–1, 3030h to 3030p, 3035f, 3035g, 3056g, and 3057 to 3057n of this title, amending this section and sections 1766, 2991a, 2991b, 2991d–1, 2991f, 2992c, 2992d, 3002, 3011 to 3013, 3015 to 3018, 3020c, 3021 to 3029, 3030a, 3030d, 3030g, 3030aa, 3030bb, 3030jj, 3031, 3032, 3035a,3035b, 3035d, 3037, 3056, 3056a, 3056d, 3056e, and 3056f of this title, repealing sections 3058 to 3058d, of this title, enacting provisions set out as notes under this section, sections 201, 285e–2, 2991, 3026, 3027, and 3057b of this title, and section 2 of Title 29, Labor, and repealing provisions set out as a note under section 3058 of this title\] may be cited as the 'Older Americans Act Amendments of 1987'."
 
 #### Short Title of 1986 Amendment
 
@@ -222,7 +226,7 @@ Definitions.—
 
 &emsp;"(1)
 
-Administrator.—The term 'Administrator means the Administrator of the Administration for Community Living.
+Administrator.—The term 'Administrator' means the Administrator of the Administration for Community Living.
 
 &emsp;"(2)
 
@@ -230,7 +234,7 @@ Covered agency.—The term 'covered agency' means—
 
 &emsp;&emsp;"(A) a State agency or area agency on aging; and
 
-&emsp;&emsp;"(B) a Federal agency other than the Department of Health and Human Services, and a unit of thatDepartment other than the Administration on Aging, that the Assistant Secretary determines performs functions for which the principles are relevant, and the Centers for Medicare \& Medicaid Services.
+&emsp;&emsp;"(B) a Federal agency other than the Department of Health and Human Services, and a unit of that Department other than the Administration on Aging, that the Assistant Secretary determines performs functions for which the principles are relevant, and the Centers for Medicare \& Medicaid Services.
 
 &emsp;"(3)
 
@@ -820,7 +824,9 @@ Pub. L. 95–478, title II, §§201–207, Oct. 18, 1978, 92 Stat. 1551–1554, 
 
 Pub. L. 116–131, §4, Mar. 25, 2020, 134 Stat. 241, provided that: "In this Act \[see Short Title of 2020 Amendment note set out above\], the terms 'area agency on aging', 'Assistant Secretary', 'greatest social need', 'older individual', and 'Secretary' have the meanings given such terms in section 102 of the Older Americans Act of 1965 (42 U.S.C. 3002)."
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 11022
 
-Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376, Oct. 17, 1967, 32 F.R. 14545; Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053, which established the President's Council on Aging and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §12, Aug. 17, 1982, 47 F.R.36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11022, May 14, 1962, 27 F.R. 4659, as amended by Ex. Ord. No. 11376, Oct. 17, 1967, 32 F.R. 14545; Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053,which established the President's Council on Aging and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §12, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

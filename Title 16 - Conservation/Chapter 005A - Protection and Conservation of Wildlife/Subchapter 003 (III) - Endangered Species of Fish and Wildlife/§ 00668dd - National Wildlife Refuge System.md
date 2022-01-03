@@ -38,7 +38,7 @@
 
 &emsp;(J) ensure that priority general public uses of the System receive enhanced consideration over other general public uses in planning and management within the System;
 
-&emsp;(K) provide increased opportunities for families to experience compatible wildlife-dependent recreation, particularly opportunities for parents and their children to safely engage intraditional outdoor activities, such as fishing and hunting;
+&emsp;(K) provide increased opportunities for families to experience compatible wildlife-dependent recreation, particularly opportunities for parents and their children to safely engage in traditional outdoor activities, such as fishing and hunting;
 
 &emsp;(L) continue, consistent with existing laws and interagency agreements, authorized or permitted uses of units of the System by other Federal agencies, including those necessary to facilitate military preparedness;
 
@@ -124,7 +124,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 &emsp;(vii) require, after an opportunity for public comment, reevaluation of each existing use, other than those uses specified in clause (viii), if conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than once every 10 years, to ensure that the use remains a compatible use, except that, in the case of any use authorized for a period longer than 10 years (such as an electric utility right-of-way), the reevaluation required by this clause shall examine compliance with the terms and conditions of the authorization, not examine the authorization itself;
 
-&emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatiblewildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
+&emsp;(viii) require, after an opportunity for public comment, reevaluation of each compatible wildlife-dependent recreational use when conditions under which the use is permitted change significantly or if there is significant new information regarding the effects of the use, but not less frequently than in conjunction with each preparation or revision of a conservation plan under subsection (e) or at least every 15 years, whichever is earlier; and
 
 &emsp;(ix) provide an opportunity for public review and comment on each evaluation of a use, unless an opportunity for public review and comment on the evaluation of the use has already been provided during the development or revision of a conservation plan for the refuge under subsection (e) or has otherwise been provided during routine, periodic determinations of compatibility for wildlife-dependent recreational uses.
 
@@ -182,7 +182,7 @@ No person shall disturb, injure, cut, burn, remove, destroy, or possess any real
 
 #### (1) Knowing violations
 
-&emsp;Any person who knowingly violates or fails to comply with any of the provisions of this Act or any regulations issued thereunder shallbe fined under title 18 or imprisoned for not more than 1 year, or both.
+&emsp;Any person who knowingly violates or fails to comply with any of the provisions of this Act or any regulations issued thereunder shall be fined under title 18 or imprisoned for not more than 1 year, or both.
 
 #### (2) Other violations
 
@@ -233,6 +233,8 @@ Nothing in this Act shall be construed as affecting the authority, jurisdiction,
 Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (Pub. L. 89–669, §4, Oct. 15, 1966, 80 Stat. 927; Pub. L. 90–404, §1, July 18, 1968, 82 Stat. 359; Pub. L. 93–205, §13(a), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §2, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 94–215, §5, Feb. 17, 1976, 90 Stat. 190; Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199; Pub. L. 95–616, §§3(f), 6, Nov. 8, 1978, 92 Stat. 3111, 3114; Pub. L. 100–226, §4, Dec. 31, 1987, 101 Stat. 1551; Pub. L. 100–653, title IX, §904, Nov. 14, 1988, 102 Stat. 3834; Pub. L. 105–57, §§3(b)–8, Oct. 9, 1997, 111 Stat. 1254–1259; Pub. L. 105–312, title II, §206, Oct. 30, 1998, 112 Stat. 2958.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -320,6 +322,8 @@ Subsec. (b)(3). Pub. L. 94–215 substituted designations "(A)" and "(B)" for "(
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–404 inserted provisions that no acquired lands which are or become a part of the National Wildlife Refuge System may be transferred or otherwise disposed of except under the specified conditions, and provisions that the Secretary pay into the migratory bird conservation fund the proceeds of any such transfer or disposal.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1974 Amendment
 
 Pub. L. 93–509, §3, Dec. 3, 1974, 88 Stat. 1603, provided that: "Section 4 (d)(2) of the Act of October 15, 1966 (as added by this Act) \[subsec. (d)(2) of this section\], shall apply with respect to any right-of-way, easement, or reservation granted by the Secretary of the Interior on or after the date of the enactment of this Act \[Dec. 3, 1974\], including any right-of-way, easement, or reservation granted on or after such date in connection with any use permitted by him pursuant to section 4(d)(2) of the Act of October 15, 1966 \[now subsec. (d)(1)(B) of this section\] (as in effect before the date of the enactment of this Act)."
@@ -351,10 +355,6 @@ Pub. L. 93–509, §1, Dec. 3, 1974, 88 Stat. 1603, provided: "That this Act \[a
 #### Short Title
 
 Pub. L. 91–135, §12(f), Dec. 5, 1969, 83 Stat. 283, provided that: "The provisions of sections 4 and 5 of the Act of October 15, 1966 (80 Stat. 929; 16 U.S.C. 668dd–668ee), as amended, shall hereinafter be cited as the 'National Wildlife Refuge System Administration Act of 1966'."
-
-#### Transfer of Functions
-
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### National Wildlife Refuge System Centennial
 
@@ -646,7 +646,7 @@ In General.—Nothing in this Act \[see Short Title of 1997 Amendment note above
 
 "(b)
 
-Conflicts of Laws.—If any conflict arises between any provision of this Act and any provision of the Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail."
+Conflicts of Laws.—If any conflict arises between any provision of this Act and any provision ofthe Alaska National Interest Lands Conservation Act, then the provision in the Alaska National Interest Lands Conservation Act shall prevail."
 
 #### Land Transfer and Conveyance, Pease Air Force Base, New Hampshire
 
@@ -674,7 +674,7 @@ Condition of conveyance.—The conveyance under paragraph (1) shall be subject t
 
 &emsp;"(3)
 
-Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the propertyconveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
+Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
 
 &emsp;"(4)
 
@@ -911,6 +911,12 @@ National Environmental Centers
 &nbsp;
 
 Tinicum National Environmental Center, Pennsylvania.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; renamed John Heinz National Wildlife Refuge at Tinicum, Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 995.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with approval to cross national wildlife refuges under sections 668dd and 668ee of this title with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Ex. Ord. No. 12996. Management and General Public Use of National Wildlife Refuge System
 

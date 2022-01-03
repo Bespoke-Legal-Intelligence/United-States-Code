@@ -14,7 +14,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(5) a description of any shortfall in United States financial, physical, technical, or human resources that hinder the effective use and monitoring of such funds;
 
-&emsp;(6) a description of any negative impact, including the absorptive capacity of the region for which the resources are intended, of United States bilateral or multilateral assistance and recommendations for modification of funding, if any;
+&emsp;(6) a description of any negative impact, including the absorptive capacity of the regionfor which the resources are intended, of United States bilateral or multilateral assistance and recommendations for modification of funding, if any;
 
 &emsp;(7) any incidents or reports of waste, fraud, and abuse of expenditures under subchapter I of this chapter;
 
@@ -46,7 +46,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 &emsp;(14) a detailed description of the extent to which funds obligated and expended pursuant to section 8422(b) of this title meet the requirements of such section; and
 
-&emsp;(15) an assessment of the extent to which the Government of Pakistan exercises effective civilian control of the military, including a description of the extent to which civilian executive leaders and parliament exercise oversight and approval of military budgets, the chain of command, the process of promotion for seniormilitary leaders, civilian involvement in strategic guidance and planning, and military involvement in civil administration.
+&emsp;(15) an assessment of the extent to which the Government of Pakistan exercises effective civilian control of the military, including a description of the extent to which civilian executive leaders and parliament exercise oversight and approval of military budgets, the chain of command, the process of promotion for senior military leaders, civilian involvement in strategic guidance and planning, and military involvement in civil administration.
 
 #### (b) Government Accountability Office reports
 

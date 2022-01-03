@@ -16,7 +16,7 @@
 
 &emsp;(1) a covered agency shall notify the Chief Counsel for Advocacy of the Small Business Administration and provide the Chief Counsel with information on the potential impacts of the proposed rule on small entities and the type of small entities that might be affected;
 
-&emsp;(2) not later than 15 days after the date of receipt of the materials described in paragraph (1), the Chief Counsel shall identify individuals representative of affected small entities forthe purpose of obtaining advice and recommendations from those individuals about the potential impacts of the proposed rule;
+&emsp;(2) not later than 15 days after the date of receipt of the materials described in paragraph (1), the Chief Counsel shall identify individuals representative of affected small entities for the purpose of obtaining advice and recommendations from those individuals about the potential impacts of the proposed rule;
 
 &emsp;(3) the agency shall convene a review panel for such rule consisting wholly of full time Federal employees of the office within the agency responsible for carrying out the proposed rule, the Office of Information and Regulatory Affairs within the Office of Management and Budget, and the Chief Counsel;
 

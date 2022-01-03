@@ -36,7 +36,7 @@ Employing poison or similar weapons.—Any person subject to this chapter who in
 
 &emsp;(9)
 
-Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Using protected persons as a shield.—Any person subject to this chapter who positions, or otherwise takes advantage of, a protected person with the intent to shield a military objective from attack, or to shield, favor, or impede military operations, shall be punished, if death results to one or more of thevictims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(10)
 
@@ -96,7 +96,7 @@ Using treachery or perfidy.—Any person subject to this chapter who, after invi
 
 &emsp;(18)
 
-Improperly using a flag of truce.—Any person subject to this chapter who uses aflag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
+Improperly using a flag of truce.—Any person subject to this chapter who uses a flag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
 
 &emsp;(19)
 
@@ -108,7 +108,7 @@ Intentionally mistreating a dead body.—Any person subject to this chapter who 
 
 &emsp;(21)
 
-Rape.—Any person subject to this chapter who forcibly or with coercion or threat of force wrongfully invades the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part of the body of the accused, or with any foreign object, shall be punished as a military commission under this chapter may direct.
+Rape.—Any person subject to this chapter who forcibly or with coercion or threat of force wrongfully invades the body of a person by penetrating, however slightly, the anal or genital opening of the victim with any part ofthe body of the accused, or with any foreign object, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(22)
 
@@ -164,7 +164,7 @@ Conspiracy.—Any person subject to this chapter who conspires to commit one or 
 
 &emsp;(30)
 
-Solicitation.—Any person subject to this chapter who solicits or advises another or others to commit one or more substantive offenses triable by military commission under this chapter shall, if the offense solicited or advised is attempted or committed, be punished with the punishment provided for the commission of the offense, but, if the offensesolicited or advised is not committed or attempted, shall be punished as a military commission under this chapter may direct.
+Solicitation.—Any person subject to this chapter who solicits or advises another or others to commit one or more substantive offenses triable by military commission under this chapter shall, if the offense solicited or advised is attempted or committed, be punished with the punishment provided for the commission of the offense, but, if the offense solicited or advised is not committed or attempted, shall be punished as a military commission under this chapter may direct.
 
 &emsp;(31)
 
@@ -175,6 +175,8 @@ Contempt.—A military commission under this chapter may punish for contempt any
 Perjury and obstruction of justice.—A military commission under this chapter may try offenses and impose such punishment as the military commission may direct for perjury, false testimony, or obstruction of justice related to the military commission.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2607; amended Pub. L. 115–232, div. A, title X, §1081(a)(12), Aug. 13, 2018, 132 Stat. 1983.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

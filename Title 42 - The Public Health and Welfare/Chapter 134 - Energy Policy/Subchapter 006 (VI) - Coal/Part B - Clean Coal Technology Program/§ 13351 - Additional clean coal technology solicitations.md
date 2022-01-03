@@ -10,9 +10,11 @@ In conducting the Clean Coal Program established by Public Law 98–473, the Sec
 
 (Pub. L. 102–486, title XIII, §1321, Oct. 24, 1992, 106 Stat. 2976.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Public Law 98–473, referred to in subsec. (b), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 98–473, referred to in subsec. (b), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. Forcomplete classification of this Act to the Code, see Tables.
 
 Public Law 101–121, referred to in subsec. (b), is Pub. L. 101–121, Oct. 23, 1989, 103 Stat. 701, as amended. For complete classification of this Act to the Code, see Tables.
 

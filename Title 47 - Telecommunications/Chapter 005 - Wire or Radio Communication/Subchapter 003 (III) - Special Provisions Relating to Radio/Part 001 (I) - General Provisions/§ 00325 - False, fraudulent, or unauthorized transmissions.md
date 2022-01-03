@@ -60,7 +60,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 &emsp;&emsp;(II) it is a violation of the obligation to negotiate in good faith under clause (iii) for the qualified MVPD buying group to disclose the prices, terms, or conditions of an ongoing negotiation or the final terms of a negotiation to a member of the qualified MVPD buying group that is not intending, or is unlikely, to enter into the final terms negotiated by the qualified MVPD buying group; and
 
-&emsp;&emsp;(III) a large station group has an obligation to negotiate in good faith under clause\(ii) with respect to a negotiation for retransmission consent under this section with a qualified MVPD buying group.
+&emsp;&emsp;(III) a large station group has an obligation to negotiate in good faith under clause (ii) with respect to a negotiation for retransmission consent under this section with a qualified MVPD buying group.
 
 (4) If an originating television station elects under paragraph (3)(B) to exercise its right to grant retransmission consent under this subsection with respect to a cable system, the provisions of section 534 of this title shall not apply to the carriage of the signal of such station by such cable system. If an originating television station elects under paragraph (3)(C) to exercise its right to grant retransmission consent under this subsection with respect to a satellite carrier, section 338 of this title shall not apply to the carriage of the signal of such station by such satellite carrier.
 
@@ -216,11 +216,11 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (B) Appeal
 
-&emsp;&emsp;If the Commission denies relief in response to a complaint filed by a television broadcast station under this subsection, the television broadcast station filing the complaint may file an appeal with the United States Court of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;If the Commission denies relief in response to a complaint filed by a television broadcast station under this subsection, the television broadcast station filing the complaintmay file an appeal with the United States Court of Appeals for the District of Columbia Circuit.
 
 #### (12) Sunset
 
-&emsp;No complaint or civil action may be filed under this subsection after December 31, 2001.This subsection shall continue to apply to any complaint or civil action filed on or before such date.
+&emsp;No complaint or civil action may be filed under this subsection after December 31, 2001. This subsection shall continue to apply to any complaint or civil action filed on or before such date.
 
 (June 19, 1934, ch. 652, title III, §325, 48 Stat. 1091; Pub. L. 102–385, §6, Oct. 5, 1992, 106 Stat. 1482; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1009\], Nov. 29, 1999, 113 Stat. 1536, 1501A–537; Pub. L. 108–447, div. J, title IX \[title II, §§201, 207(a)\], Dec. 8, 2004, 118 Stat. 3409, 3428; Pub. L. 111–118, div. B, §1003(b), Dec. 19, 2009, 123 Stat. 3469; Pub. L. 111–144, §10(b), Mar. 2, 2010, 124 Stat. 47; Pub. L. 111–151, §2(b), Mar. 26, 2010, 124 Stat. 1027; Pub. L. 111–157, §9(b), Apr. 15, 2010, 124 Stat. 1119; Pub. L. 111–175, title II, §202, May 27, 2010, 124 Stat. 1245; Pub. L. 113–200, title I, §§101, 103(a), (b), (d), Dec. 4, 2014, 128 Stat. 2060, 2062; Pub. L. 116–94, div. P, title X, §§1002–1003(c), Dec. 20, 2019, 133 Stat. 3198, 3199.)
 

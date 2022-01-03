@@ -4,6 +4,8 @@ The Secretary shall proclaim a national acreage allotment for each crop of wheat
 
 (Feb. 16, 1938, ch. 30, title III, §333, 52 Stat. 53; June 20, 1938, ch. 518, 52 Stat. 775; July 26, 1939, ch. 377, 53 Stat. 1125; July 3, 1948, ch. 827, title II, §207(b), 62 Stat. 1257; Pub. L. 87–703, title III, §312, Sept. 27, 1962, 76 Stat. 620; Pub. L. 89–321, title V, §501(2), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 99–198, title III, §303, Dec. 23, 1985, 99 Stat. 1379.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1985</b>—Pub. L. 99–198 amended section generally, temporarily substituting provisions relating to the establishment and determination of a marketing quota apportionment factor for each crop of wheat for which a national marketing quota is proclaimed under section 1332 of this title for provisions relating to the proclamation and determination of a national acreage allotment for each crop of wheat. See Effective and Termination Dates of 1985 Amendment note below.
@@ -17,6 +19,8 @@ The Secretary shall proclaim a national acreage allotment for each crop of wheat
 <b>1939</b>—Act July 26, 1939, amended last sentence.
 
 <b>1938</b>—Act June 20, 1938, inserted last sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1985 Amendment
 
@@ -36,7 +40,7 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 #### Inapplicability of Section
 
-Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicableto milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
+Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see section 9092(a)(1) of this title.
 
 Section inapplicable to 2008 through 2012 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning June 18, 2008, through Dec. 31, 2012, see section 8782(a)(1) of this title.
 
@@ -56,5 +60,5 @@ Pub. L. 91–524, title IV, §404(2), Nov. 30, 1970, 84 Stat. 1366, as amended b
 
 #### 1965 Crop Acreage Allotment
 
-Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequate supply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
+Proclamation of a national acreage allotment for 1965 crop of wheat that will make available an adequatesupply of wheat but shall not be less than forty-nine million five hundred thousand acres, see section 201 of Pub. L. 88–297, set out as a note under section 1332 of this title.
 

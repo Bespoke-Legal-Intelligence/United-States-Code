@@ -40,6 +40,8 @@ In providing services under this part, for family caregivers who provide care fo
 
 (Pub. L. 89–73, title III, §372, as added Pub. L. 106–501, title III, §316(2), Nov. 13, 2000, 114 Stat. 2254; amended Pub. L. 109–365, title III, §320, Oct. 17, 2006, 120 Stat. 2551; Pub. L. 114–144, §4(k)(2), (m), Apr. 19, 2016, 130 Stat. 340, 341; Pub. L. 116–131, title II, §217(a), Mar. 25, 2020, 134 Stat. 260.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–131 added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
@@ -53,6 +55,8 @@ Subsec. (a)(2), (3). Pub. L. 114–144, §4(k)(2)(A)(ii), added pars. (2) and (3
 Subsec. (b). Pub. L. 114–144, §4(k)(2)(B), substituted "this part," for "this subpart—", struck out par. (1) designation before "for family caregivers", and struck out par. (2) which read as follows: "for grandparents or older individuals who are relative caregivers, the State involved shall give priority to caregivers who provide care for children with severe disabilities."
 
 <b>2006</b>—Pub. L. 109–365 designated existing provisions as subsec. (a) and inserted heading, inserted "or who is an individual with a disability" after "age" in par. (1), substituted "a child by blood, marriage, or adoption" for "a child by blood or marriage" and "55 years" for "60 years" in par. (3), redesignated par. (3) as (2), struck out former par. (2) which defined term "family caregiver", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -218,7 +222,7 @@ Advisory Council Annual Reports.—
 
 &emsp;"(1)
 
-In general.—Not later than 12 months after the date of enactment of this Act, and annually thereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate.
+In general.—Not later than 12 months after the date of enactment of this Act, and annuallythereafter, the Advisory Council shall submit to the Secretary, the Committee on Health, Education, Labor, and Pensions and the Special Committee on Aging of the Senate, the Committee on Education and the Workforce \[now Committee on Education and Labor\] of the House of Representatives, and the State agencies responsible for carrying out family caregiver programs, and make publicly available on the internet website of the Department of Health and Human Services, a report concerning the development, maintenance, and updating of the Strategy, including a description of the outcomes of the recommendations and any priorities included in the initial report pursuant to paragraph (2), as appropriate.
 
 &emsp;"(2)
 

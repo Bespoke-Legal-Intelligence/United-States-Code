@@ -1,6 +1,6 @@
 ### §4108. Verification of consent of offender to transfer to the United States
 
-(a) Prior to the transfer of an offender to the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof, shall be verified in the country in which the sentence was imposed by a United States magistrate judge, or by a citizen specifically designated by a judge of the United States as defined in section 451 of title 28, United States Code. The designation of a citizen who is an employee or officer of a department or agency of the United States shall be with the approval of the head of that department or agency.
+(a) Prior to the transfer of an offender to the United States, the fact that the offender consents to such transfer and that such consent is voluntary and with full knowledge of the consequences thereof, shall be verified in the country in which the sentence was imposed by a United States magistrate judge, or by a citizen specifically designated by a judge of the United States as defined in section 451 of title 28, United States Code. The designation of a citizen who is an employee or officer of a department oragency of the United States shall be with the approval of the head of that department or agency.
 
 (b) The verifying officer shall inquire of the offender whether he understands and agrees that the transfer will be subject to the following conditions:
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) the sentence shall be carried out according to the laws of the United States and that those laws are subject to change;
 
-&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to thecountry which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
+&emsp;(3) if a United States court should determine upon a proceeding initiated by him or on his behalf that his transfer was not accomplished in accordance with the treaty or laws of the United States, he may be returned to the country which imposed the sentence for the purpose of completing the sentence if that country requests his return; and
 
 &emsp;(4) his consent to transfer, once verified by the verifying officer, is irrevocable.
 

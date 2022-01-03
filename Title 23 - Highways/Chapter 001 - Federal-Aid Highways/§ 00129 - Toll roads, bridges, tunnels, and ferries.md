@@ -6,7 +6,7 @@ Basic Program.—
 
 &emsp;(1)
 
-Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner as construction of toll-free highways is permitted under this chapter in the—
+Authorization for federal participation.—Subject to the provisions of this section, Federal participation shall be permitted on the same basis and in the same manner asconstruction of toll-free highways is permitted under this chapter in the—
 
 &emsp;&emsp;(A) initial construction of a toll highway, bridge, or tunnel or approach to the highway, bridge, or tunnel;
 
@@ -58,7 +58,7 @@ Annual audit.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A public authority with jurisdiction over a toll facility shall conduct or have an independent auditor conduct an annual audit of toll facility records to verify adequate maintenance and compliance with subparagraph (A), and report the results of the audits to the Secretary.
+In general.—A public authority with jurisdiction over a toll facility shall conduct or have an independent auditor conduct an annual audit of toll facility records to verify adequate maintenance and compliance with subparagraph (A), and report the results of the audits, together with the results of the audit under paragraph (9)(C), to the Secretary.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -78,7 +78,7 @@ In general.—In the case of a toll facility under the jurisdiction of a public 
 
 &emsp;&emsp;(B)
 
-Source.—The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects on the Federal-aid highways in the State on which the project is being carried out.
+Source.—The reimbursement of funds under this paragraph shall be from sums apportioned to the State under this chapter and available for obligations on projects onthe Federal-aid highways in the State on which the project is being carried out.
 
 &emsp;(5)
 
@@ -134,7 +134,7 @@ Reuse of funds.—Amounts repaid to a State from a loan made under this paragrap
 
 &emsp;&emsp;&emsp;(i) for any purpose for which the loan funds were available under this title; and
 
-&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access orto lower interest rates for projects eligible for assistance under this title.
+&emsp;&emsp;&emsp;(ii) for the purchase of insurance or for use as a capital reserve for other forms of credit enhancement for project debt in order to improve credit market access or to lower interest rates for projects eligible for assistance under this title.
 
 &emsp;&emsp;(I)
 
@@ -146,9 +146,53 @@ State law permitting tolling.—If a State does not have a highway, bridge, or t
 
 &emsp;(9)
 
-Equal access for over-the-road buses.—An over-the-road bus that serves the public shall be provided access to a toll facility under the same rates, terms, and conditions as public transportation buses.
+Equal access for over-the-road buses.—
+
+&emsp;&emsp;(A)
+
+In general.—An over-the-road bus that serves the public shall be provided access to a toll facility under the same rates, terms, and conditions as public transportation vehicles.
+
+&emsp;&emsp;(B)
+
+Reports.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Not later than 90 days after the date of enactment of this subparagraph, a public authority that operates a toll facility shall report to the Secretary any rates, terms, or conditions for access to the toll facility by public transportation vehicles that differ from the rates, terms, or conditions applicable to over-the-road buses.
+
+&emsp;&emsp;&emsp;(ii)
+
+Updates.—A public authority that operates a toll facility shall report to the Secretary any change to the rates, terms, or conditions for access to the toll facility by public transportation vehicles that differ from the rates, terms, or conditions applicable to over-the-road buses by not later than 30 days after the date on which the change takes effect.
+
+&emsp;&emsp;&emsp;(iii)
+
+Publication.—The Secretary shall publish information reported to the Secretary under clauses (i) and (ii) on a publicly accessible internet website.
+
+&emsp;&emsp;(C)
+
+Annual audit.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—A public authority (as defined in section 101(a)) with jurisdiction over a toll facility shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) conduct or have an independent auditor conduct an annual audit of toll facility records to verify compliance with this paragraph; and
+
+&emsp;&emsp;&emsp;&emsp;(II) report the results of the audit, together with the results of the audit under paragraph (3)(B), to the Secretary.
+
+&emsp;&emsp;&emsp;(ii)
+
+Records.—After providing reasonable notice, a public authority described in clause (i) shall make all records of the public authority pertaining to the toll facility available for audit by the Secretary.
+
+&emsp;&emsp;&emsp;(iii)
+
+Noncompliance.—If the Secretary determines that a public authority described in clause (i) has not complied with this paragraph, the Secretary may require the public authority to discontinue collecting tolls until an agreement with the Secretary is reached to achieve compliance.
 
 &emsp;(10)
+
+High occupancy vehicle use of certain toll facilities.—Notwithstanding section 102(a), in the case of a toll facility that is on the Interstate System and that is constructed or converted after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the public authority with jurisdiction over the toll facility shall allow high occupancy vehicles, transit, and paratransit vehicles to use the facility at a discount rate or without charge, unless the public authority, in consultation with the Secretary, determines that the number of those vehicles using the facility reduces the travel time reliability of the facility.
+
+&emsp;(11)
 
 Definitions.—In this subsection, the following definitions apply:
 
@@ -182,7 +226,7 @@ Toll facility.—The term "toll facility" means a toll highway, bridge, or tunne
 
 (b) Notwithstanding the provisions of section 301 of this title, the Secretary may permit Federal participation under this title in the construction of a project constituting an approach to a ferry, whether toll or free, the route of which is a public road and has not been designated as a route on the Interstate System. Such ferry may be either publicly or privately owned and operated, but the operating authority and the amount of fares charged for passage shall be under the control of a State agency or official, and all revenues derived from publicly owned or operated ferries shall be applied to payment of the cost of construction or acquisition thereof, including debt service, and to actual and necessary costs of operation, maintenance, repair, and replacement.
 
-(c) Notwithstanding section 301 of this title, the Secretary may permit Federal participation under this title in the construction of ferry boats and ferry terminal facilities, whether toll or free, subject to the following conditions:
+(c) Notwithstanding section 301 of this title, the Secretary may permit Federal participation under this title in the construction of ferry boats and ferry terminal facilities (including ferry maintenance facilities), whether toll or free, and the procurement of transit vehicles used exclusively as an integral part of an intermodal ferry trip, subject to the following conditions:
 
 &emsp;(1) It is not feasible to build a bridge, tunnel, combination thereof, or other normal highway structure in lieu of the use of such ferry.
 
@@ -202,7 +246,121 @@ Toll facility.—The term "toll facility" means a toll highway, bridge, or tunne
 
 &emsp;(B) The Federal share of any proceeds from a disposition referred to in subparagraph (A) shall be used for eligible purposes under this title.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III,§347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c), Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1112(c), 1411(a), Dec. 4, 2015, 129 Stat. 1346, 1412.)
+(d)
+
+Congestion Relief Program.—
+
+&emsp;(1)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Eligible entity.—The term "eligible entity" means any of the following:
+
+&emsp;&emsp;&emsp;(i) A State, for the purpose of carrying out a project in an urbanized area with a population of more than 1,000,000.
+
+&emsp;&emsp;&emsp;(ii) A metropolitan planning organization, city, or municipality, for the purpose of carrying out a project in an urbanized area with a population of more than 1,000,000.
+
+&emsp;&emsp;(B)
+
+Integrated congestion management system.—The term "integrated congestion management system" means a system for the integration of management and operations of a regional transportation system that includes, at a minimum, traffic incident management, work zone management, traffic signal timing, managed lanes, real-time traveler information, and active traffic management, in order to maximize the capacity of all facilities and modes across the applicable region.
+
+&emsp;&emsp;(C)
+
+Program.—The term "program" means the congestion relief program established under paragraph (2).
+
+&emsp;(2)
+
+Establishment.—The Secretary shall establish a congestion relief program to provide discretionary grants to eligible entities to advance innovative, integrated, and multimodal solutions to congestion relief in the most congested metropolitan areas of the United States.
+
+&emsp;(3)
+
+Program goals.—The goals of the program are to reduce highway congestion, reduce economic and environmental costs associated with that congestion, including transportation emissions, and optimize existing highway capacity and usage of highway and transit systems through—
+
+&emsp;&emsp;(A) improving intermodal integration with highways, highway operations, and highway performance;
+
+&emsp;&emsp;(B) reducing or shifting highway users to off-peak travel times or to nonhighway travel modes during peak travel times; and
+
+&emsp;&emsp;(C) pricing of, or based on, as applicable—
+
+&emsp;&emsp;&emsp;(i) parking;
+
+&emsp;&emsp;&emsp;(ii) use of roadways, including in designated geographic zones; or
+
+&emsp;&emsp;&emsp;(iii) congestion.
+
+&emsp;(4)
+
+Eligible projects.—Funds from a grant under the program may be used for a project or an integrated collection of projects, including planning, design, implementation, and construction activities, to achieve the program goals under paragraph (3), including—
+
+&emsp;&emsp;(A) deployment and operation of an integrated congestion management system;
+
+&emsp;&emsp;(B) deployment and operation of a system that implements or enforces high occupancy vehicle toll lanes, cordon pricing, parking pricing, or congestion pricing;
+
+&emsp;&emsp;(C) deployment and operation of mobility services, including establishing account-based financial systems, commuter buses, commuter vans, express operations, paratransit, and on-demand microtransit; and
+
+&emsp;&emsp;(D) incentive programs that encourage travelers to carpool, use nonhighway travel modes during peak period, or travel during nonpeak periods.
+
+&emsp;(5)
+
+Application; selection.—
+
+&emsp;&emsp;(A)
+
+Application.—To be eligible to receive a grant under the program, an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+&emsp;&emsp;(B)
+
+Priority.—In providing grants under the program, the Secretary shall give priority to projects in urbanized areas that are experiencing a high degree of recurrent congestion.
+
+&emsp;&emsp;(C)
+
+Federal share.—The Federal share of the cost of a project carried out with a grant under the program shall not exceed 80 percent of the total project cost.
+
+&emsp;&emsp;(D)
+
+Minimum award.—A grant provided under the program shall be not less than $10,000,000.
+
+&emsp;(6)
+
+Use of tolling.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding subsection (a)(1) and section 301 and subject to subparagraphs (B) and (C), the Secretary shall allow the use of tolls on the Interstate System as part of a project carried out with a grant under the program.
+
+&emsp;&emsp;(B)
+
+Requirements.—The Secretary may only approve the use of tolls under subparagraph (A) if—
+
+&emsp;&emsp;&emsp;(i) the eligible entity has authority under State, and if applicable, local, law to assess the applicable toll;
+
+&emsp;&emsp;&emsp;(ii) the maximum toll rate for any vehicle class is not greater than the product obtained by multiplying—
+
+&emsp;&emsp;&emsp;&emsp;(I) the toll rate for any other vehicle class; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 5;
+
+&emsp;&emsp;&emsp;(iii) the toll rates are not charged or varied on the basis of State residency;
+
+&emsp;&emsp;&emsp;(iv) the Secretary determines that the use of tolls will enable the eligible entity to achieve the program goals under paragraph (3) without a significant impact to safety or mobility within the urbanized area in which the project is located; and
+
+&emsp;&emsp;&emsp;(v) the use of toll revenues complies with subsection (a)(3).
+
+&emsp;&emsp;(C)
+
+Limitation.—The Secretary may not approve the use of tolls on the Interstate System under the program in more than 10 urbanized areas.
+
+&emsp;(7)
+
+Financial effects on low-income drivers.—A project under the program—
+
+&emsp;&emsp;(A) shall include, if appropriate, an analysis of the potential effects of the project on low-income drivers; and
+
+&emsp;&emsp;(B) may include mitigation measures to deal with any potential adverse financial effects on low-income drivers.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 902; Pub. L. 86–657, §§5, 8(a), July 14, 1960, 74 Stat. 523, 524; Pub. L. 90–495, §28, Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §§133, 139, Dec. 31, 1970, 84 Stat. 1732, 1736; Pub. L. 92–434, §7, Sept. 26, 1972, 86 Stat. 732; Pub. L. 93–87, title I, §§118, 132, 139, Aug. 13, 1973, 87 Stat. 259, 267, 270; Pub. L. 93–643, §108, Jan. 4, 1975, 88 Stat. 2284; Pub. L. 94–280, title I, §121, May 5, 1976, 90 Stat. 438; Pub. L. 95–599, title I, §120, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 100–17, title I, §120(a), (b), Apr. 2, 1987, 101 Stat. 157, 158; Pub. L. 100–202, §101(l) \[title III, §347(d)\], Dec. 22, 1987, 101 Stat. 1329–358, 1329–388; Pub. L. 100–457, title III, §§326, 335, Sept. 30, 1988, 102 Stat. 2150, 2153; Pub. L. 102–240, title I, §1012(a), (c), Dec. 18, 1991, 105 Stat. 1936, 1938; Pub. L. 102–388, title IV, §410, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 104–59, title III, §313(a)–(c),Nov. 28, 1995, 109 Stat. 585, 586; Pub. L. 105–178, title I, §§1106(c)(1)(C), 1207(a), 1211(f), formerly 1211(g), June 9, 1998, 112 Stat. 136, 185, 189; Pub. L. 105–206, title IX, §9003(d)(5), July 22, 1998, 112 Stat. 840; Pub. L. 109–59, title I, §1801(f), Aug. 10, 2005, 119 Stat. 1456; Pub. L. 112–141, div. A, title I, §1512(a), July 6, 2012, 126 Stat. 567; Pub. L. 114–94, div. A, title I, §§1112(c), 1411(a), Dec. 4, 2015, 129 Stat. 1346, 1412; Pub. L. 117–58, div. A, title I, §§11117(a), 11404, 11523, Nov. 15, 2021, 135 Stat. 483, 558, 605.)
 
 #### <b>Editorial Notes</b>
 
@@ -212,7 +370,19 @@ For the effective date of title I of the Intermodal Surface Transportation Effic
 
 The date of enactment of the MAP–21, referred to in subsec. (a)(8), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
+The date of enactment of this subparagraph and the date of enactment of the Surface Transportation Reauthorization Act of 2021, referred to in subsec. (a)(9)(B)(i), (10), is the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3)(B)(i). Pub. L. 117–58, §11523(1), inserted ", together with the results of the audit under paragraph (9)(C)," after "the audits".
+
+Subsec. (a)(9). Pub. L. 117–58, §11523(2), designated existing provisions as subpar. (A), inserted heading, substituted "public transportation vehicles" for "public transportation buses", and added subpars. (B) and (C).
+
+Subsec. (a)(10), (11). Pub. L. 117–58, §11404(b), added par. (10) and redesignated former par. (10) as (11).
+
+Subsec. (c). Pub. L. 117–58, §11117(a), in introductory provisions, substituted "the construction of ferry boats and ferry terminal facilities (including ferry maintenance facilities), whether toll or free, and the procurement of transit vehicles used exclusively as an integral part of an intermodal ferry trip," for "the construction of ferry boats and ferry terminal facilities, whether toll or free,".
+
+Subsec. (d). Pub. L. 117–58, §11404(a), added subsec. (d).
 
 <b>2015</b>—Subsec. (a)(3)(A). Pub. L. 114–94, §1411(a)(1), in introductory provisions, substituted "shall ensure that" for "shall use" and inserted "are used" before "only for".
 
@@ -262,7 +432,7 @@ Subsec. (c)(5). Pub. L. 104–59, §313(c), inserted before period at end of fir
 
 Subsec. (c)(2). Pub. L. 102–388, §410(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The operation of the ferry shall be on a route which has been approved under section 103(b) or (c) of this title as a part of one of the Federal-aid systems within the State and has not been designated as a route on the Interstate System."
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1012(a), amended subsec. (a) generally, substituting present provisionsfor provisions authorizing Federal participation in construction or acquisition of toll bridges, tunnels and approaches, provided that facility was publicly owned and operated by State or public authority, and State or authority agreed that all tolls, less those used to offset cost of operation and maintenance, were to be applied to repayment of State or authority for cost of construction or acquisition, that no tolls were to be charged after such repayment, and that facility was to be free of charge thereafter, except in case of bridge connecting United States with foreign country.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, §1012(a), amended subsec. (a) generally, substituting present provisions for provisions authorizing Federal participation in construction or acquisition of toll bridges, tunnels and approaches, provided that facility was publicly owned and operated by State or public authority, and State or authority agreed that all tolls, less those used to offset cost of operation and maintenance, were to be applied to repayment of State or authority for cost of construction or acquisition, that no tolls were to be charged after such repayment, and that facility was to be free of charge thereafter, except in case of bridge connecting United States with foreign country.
 
 Subsec. (b). Pub. L. 102–240, §1012(c)(1), (2), redesignated subsec. (f) as (b) and struck out former subsec. (b) which authorized Secretary to approve toll roads, bridges and tunnels as part of Interstate System, authorized expenditure of Federal-aid highway funds on toll roads after they became toll-free, and required agreements between Secretary and State highway departments on construction of Interstate projects to forbid construction of toll roads, but not toll bridges and tunnels, on interstate highway route without official concurrence of Secretary, after June 30, 1968.
 
@@ -304,7 +474,7 @@ Subsec. (k). Pub. L. 100–17, §120(b), added subsec. (k).
 
 <b>1975</b>—Subsec. (g)(5). Pub. L. 93–643 substituted "operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada" for "operations between the islands which comprise the State of Hawaii and operations between the States of Alaska and Washington, or between any two points within the State of Alaska".
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this title may be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
+<b>1973</b>—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this titlemay be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
 
 Subsec. (e). Pub. L. 93–87, §118(b), struck from first sentence "on the date of enactment of this subsection" before "as he may find necessary" and substituted in third sentence "1973" for "1968".
 
@@ -327,6 +497,10 @@ Subsec. (c). Pub. L. 86–657, §8(a), struck out "under prior Acts" after "Fund
 Subsec. (e). Pub. L. 86–657, §5(a), added subsec. (e).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -404,7 +578,7 @@ In general.—Toll revenues received under paragraph (2) shall be used by a Stat
 
 &emsp;&emsp;&emsp;"(III) the costs necessary for proper operation and maintenance of any facilities under paragraph (2) (including reconstruction, resurfacing, restoration, and rehabilitation); or
 
-&emsp;&emsp;&emsp;"(IV) if the State, public authority, or private entity annually certifies that the tolled facility is being adequately operated and maintained, any other purpose relating to a highway or transit project carried out under title 23 or 49, United States Code.
+&emsp;&emsp;&emsp;"(IV) if the State, public authority, or private entity annually certifies that the tolled facility is being adequately operated and maintained, anyother purpose relating to a highway or transit project carried out under title 23 or 49, United States Code.
 
 &emsp;"(B)
 
@@ -428,7 +602,7 @@ Agreement.—
 
 &emsp;&emsp;"(i)
 
-In general.—Before the Secretary may permit a facility to charge tolls under this subsection, the Secretary and the applicable State, public authority, or private entity designated by a Stateshall enter into an agreement for each facility incorporating the conditions described in subparagraphs (A) and (B).
+In general.—Before the Secretary may permit a facility to charge tolls under this subsection, the Secretary and the applicable State, public authority, or private entity designated by a State shall enter into an agreement for each facility incorporating the conditions described in subparagraphs (A) and (B).
 
 &emsp;&emsp;"(ii)
 
@@ -532,7 +706,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;&emsp;"(iii) a description of the public transportation agency that will be responsible for implementation and administration of the pilot program;
 
-&emsp;&emsp;"(iv) a description of whether consideration will be given to privatizing the maintenance and operational aspects of the facility, while retaining legal and administrative control of the portion of the Interstate route; and
+&emsp;&emsp;"(iv) a description of whether consideration will be given to privatizing the maintenance and operational aspects of the facility, while retaining legaland administrative control of the portion of the Interstate route; and
 
 &emsp;&emsp;"(v) such other information as the Secretary may require.
 
@@ -654,7 +828,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;"(A) An identification of the facility on the Interstate System proposed to be a toll facility, including the age, condition, and intensity of use of the facility.
 
-&emsp;"(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitan planning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
+&emsp;"(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitanplanning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
 
 &emsp;"(C) An analysis demonstrating that the facility could not be maintained or improved to meet current or future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
 

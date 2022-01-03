@@ -4,7 +4,7 @@
 
 (2) Any commitment to make the contribution authorized in paragraph (1) shall be made subject to obtaining the necessary appropriations.
 
-(b) In order to pay for the United States contribution provided for in this section, there areauthorized to be appropriated, without fiscal year limitation, $225,000,000 for payment by the Secretary of the Treasury.
+(b) In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $225,000,000 for payment by the Secretary of the Treasury.
 
 (Pub. L. 94–302, title II, §214, as added Pub. L. 99–190, §101(i) \[title I, (a)\], Dec. 19, 1985, 99 Stat. 1291, 1294.)
 

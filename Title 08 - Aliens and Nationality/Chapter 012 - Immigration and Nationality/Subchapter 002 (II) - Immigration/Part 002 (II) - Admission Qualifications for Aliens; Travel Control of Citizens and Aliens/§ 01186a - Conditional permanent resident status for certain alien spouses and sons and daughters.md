@@ -80,7 +80,7 @@
 
 #### (B) Removal of conditional basis if favorable determination
 
-&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information are true, the Secretary of Homeland Security shall so notify the parties involved and shall remove the conditional basis of the parties effective as of the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
+&emsp;&emsp;If the Secretary of Homeland Security determines that such facts and information are true, the Secretary of Homeland Securityshall so notify the parties involved and shall remove the conditional basis of the parties effective as of the second anniversary of the alien's obtaining the status of lawful admission for permanent residence.
 
 #### (C) Termination if adverse determination
 
@@ -144,7 +144,7 @@
 
 #### (C) Filing of petitions during removal
 
-&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Secretary of Homeland Security may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
+&emsp;&emsp;In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Secretary of Homeland Security may stay such removalproceedings against an alien pending the filing of the petition under subparagraph (B).
 
 #### (3) Personal interview
 
@@ -204,7 +204,7 @@ Another section 216 of act June 27, 1952, was renumbered section 218 and is clas
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(4). Pub. L. 113–4, §806(b)(2), which, in concluding provisions, directed the substitution of"Secretary of Homeland Security" for "Attorney General" in the first sentence and "Secretary" for "Attorney General" in the second to fourth sentences, could not be executed because of the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
+<b>2013</b>—Subsec. (c)(4). Pub. L. 113–4, §806(b)(2), which, in concluding provisions, directed the substitution of "Secretary of Homeland Security" for "Attorney General" in the first sentence and "Secretary" for "Attorney General" in the second to fourth sentences, could not be executed because of the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
 
 Pub. L. 113–4, §806(b)(1), which directed the substitution of "The Secretary of Homeland Security, in the Secretary's" for "The Attorney General, in the Attorney General's" in introductory provisions, was executed by making the substitution for "The Secretary of Homeland Security, in the Attorney General's", to reflect the probable intent of Congress and the prior amendment by Pub. L. 112–58, §1(b)(2)(B). See 2011 Amendment note below.
 

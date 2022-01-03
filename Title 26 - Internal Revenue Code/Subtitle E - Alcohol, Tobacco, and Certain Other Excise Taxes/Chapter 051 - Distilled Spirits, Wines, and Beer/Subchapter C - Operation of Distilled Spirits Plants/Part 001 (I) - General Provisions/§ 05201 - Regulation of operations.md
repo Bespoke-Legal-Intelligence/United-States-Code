@@ -18,6 +18,8 @@ The Secretary may provide by regulations for the addition of tracer elements to 
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1357; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(21), July 26, 1979, 93 Stat. 283.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) to (c) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
@@ -37,6 +39,8 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 633, 63
 <b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "all operations authorized to be conducted" for "their operations relating to the production, storage, denaturing, rectification and bottling of distilled spirits, and all other operations authorized to be conducted".
 
 <b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

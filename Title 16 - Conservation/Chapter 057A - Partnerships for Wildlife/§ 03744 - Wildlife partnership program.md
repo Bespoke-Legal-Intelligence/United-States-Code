@@ -52,7 +52,7 @@ The amount of appropriated Federal funds provided from the Fund by the Secretary
 
 #### (1) State share
 
-&emsp;Of the total cost each fiscal year of each project carried out with amounts provided bythe Secretary under subsection (a), at least 1/3 shall be paid with amounts from State, non-Federal sources, except that if designated State agencies from 2 or more States cooperate in implementing such a project at least 30 percent shall be paid with amounts from such State, non-Federal sources. Payments required by this paragraph may not be in the form of an in-kind contribution.
+&emsp;Of the total cost each fiscal year of each project carried out with amounts provided by the Secretary under subsection (a), at least 1/3 shall be paid with amounts from State, non-Federal sources, except that if designated State agencies from 2 or more States cooperate in implementing such a project at least 30 percent shall be paid with amounts from such State, non-Federal sources. Payments required by this paragraph may not be in the form of an in-kind contribution.
 
 #### (2) Private share
 
@@ -73,6 +73,8 @@ No designated State agency shall be eligible to receive matching funds from the 
 There are authorized to be appropriated to the Fund and to the Secretary not to exceed $6,250,000 for each of fiscal years 1999 through 2003.
 
 (Pub. L. 102–587, title VII, §7105, Nov. 4, 1992, 106 Stat. 5097; Pub. L. 103–375, §6(4)–(7), Oct. 19, 1994, 108 Stat. 3495, 3496; Pub. L. 105–312, title III, §303, Oct. 30, 1998, 112 Stat. 2958.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

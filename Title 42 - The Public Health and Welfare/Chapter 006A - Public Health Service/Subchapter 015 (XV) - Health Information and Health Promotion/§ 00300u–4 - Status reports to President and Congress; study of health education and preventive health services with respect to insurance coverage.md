@@ -14,9 +14,13 @@
 
 (July 1, 1944, ch. 373, title XVII, §1705, as added Pub. L. 94–317, title I, §102, June 23, 1976, 90 Stat. 699; amended Pub. L. 104–66, title I, §1062(d), Dec. 21, 1995, 109 Stat. 720.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–66 substituted "biannually" for "annually" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

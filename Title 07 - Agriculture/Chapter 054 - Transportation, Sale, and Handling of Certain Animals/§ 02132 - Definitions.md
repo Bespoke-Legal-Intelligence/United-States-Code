@@ -18,7 +18,7 @@ In this chapter:
 
 (f) The term "dealer" means any person who, in commerce, for compensation or profit, delivers for transportation, or transports, except as a carrier, buys, or sells, or negotiates the purchase or sale of, (1) any dog or other animal whether alive or dead for research, teaching, exhibition, or use as a pet, or (2) any dog for hunting, security, or breeding purposes. Such term does not include a retail pet store (other than a retail pet store which sells any animals to a research facility, an exhibitor, or another dealer).
 
-(g) The term "animal" means any live or dead dog, cat, monkey (nonhuman primate mammal), guinea pig, hamster, rabbit, or such other warm-blooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3) other farm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes.
+(g) The term "animal" means any live or dead dog, cat, monkey (nonhuman primate mammal),guinea pig, hamster, rabbit, or such other warm-blooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3) other farm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes.
 
 (h) The term "exhibitor" means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, an owner of a common, domesticated household pet who derives less than a substantial portion of income from a nonprimary source (as determined by the Secretary) for exhibiting an animal that exclusively resides at the residence of the pet owner, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary.
 
@@ -37,6 +37,8 @@ In this chapter:
 (o) The term "Federal research facility" means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
 
 (Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650; Pub. L. 107–171, title X, §10301, May 13, 2002, 116 Stat. 491; Pub. L. 112–261, §1, Jan. 10, 2013, 126 Stat. 2428; Pub. L. 113–79, title XII, §12308(a)(1), Feb. 7, 2014, 128 Stat. 990.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -78,13 +80,15 @@ Subsec. (c). Pub. L. 91–579, §3(2), substituted "trade, traffic, commerce, tr
 
 Subsec. (d). Pub. L. 91–579, §3(3), substituted definition of "affecting commerce" for definition of "dog".
 
-Subsec. (e). Pub. L. 91–579, §3(3), struck out definition of "cat" and substituted for it a definition of "research facility" formerly set out in subsec. (f), and, in suchdefinition as transferred from former subsec. (f), extended the term's meaning to include those using "animals" rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
+Subsec. (e). Pub. L. 91–579, §3(3), struck out definition of "cat" and substituted for it a definition of "research facility" formerly set out in subsec. (f), and, in such definition as transferred from former subsec. (f), extended the term's meaning to include those using "animals" rather than only dogs and cats and allowed exemptions of schools, organizations, institutions, or persons which do not use live dogs or cats, with such exemption to be inapplicable in the case of schools, organizations, institutions, and persons in biomedical research using a substantial number of live animals.
 
 Subsec. (f). Pub. L. 91–579, §3(3), substituted definition of "dealer" formerly contained in subsec. (g) for definition of "research facility" and in such definition of "dealer" as thus transferred inserted provisions extending meaning to include live or dead animals rather than only dogs and cats, adding teaching and exhibition purposes or uses as pets, and exempting retail pet stores unless such stores sell animals to a research facility, an exhibitor, or a dealer. Definition of "research facility" transferred to subsec. (e) and amended.
 
 Subsec. (g). Pub. L. 91–579, §3(3), substituted definition of "animal" formerly contained in subsec. (h) for definition of "dealer" and in such definition of "animal" as thus transferred inserted stipulation "live or dead" to the species already covered, and inserted provisions to include such warm-blooded animals as may be determined by the Secretary but to exclude specific animals used for research, food and fiber, and the improvement of animal breeding, nutrition, management, or production efficiency. Definition of "dealer" transferred to subsec. (f) and amended.
 
 Subsec. (h). Pub. L. 91–579, §3(3), substituted definition of "exhibitor" for definition of "animal". Definition of "animal" transferred to subsec. (g) and amended.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

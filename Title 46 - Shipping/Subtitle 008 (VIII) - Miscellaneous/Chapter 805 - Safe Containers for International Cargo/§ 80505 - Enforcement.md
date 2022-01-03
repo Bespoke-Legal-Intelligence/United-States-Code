@@ -14,7 +14,7 @@ In General.—To enforce the Convention, this chapter, and regulations prescribe
 
 &emsp;&emsp;(A) does not have a safety approval plate attached to it; or
 
-&emsp;&emsp;(B) has a safety approval plate attached but there is significant evidence that the container is in a condition that creates an obvious risk to safety;
+&emsp;&emsp;(B) has a safety approval plate attached but there is significant evidence that thecontainer is in a condition that creates an obvious risk to safety;
 
 &emsp;(5) take other appropriate action, including issuing necessary orders, to remove a container from service or restrict its use if the container is not in compliance with the Convention, this chapter, or regulations prescribed under this chapter, but does not present an obvious risk to safety; and
 
@@ -56,7 +56,7 @@ In general.—When the Secretary issues a detention or other order under this se
 
 &emsp;(2)
 
-Information to include.—The notification shall identify the container involved, givethe location of the container, and describe the condition or situation giving rise to the order.
+Information to include.—The notification shall identify the container involved, give the location of the container, and describe the condition or situation giving rise to the order.
 
 (e)
 

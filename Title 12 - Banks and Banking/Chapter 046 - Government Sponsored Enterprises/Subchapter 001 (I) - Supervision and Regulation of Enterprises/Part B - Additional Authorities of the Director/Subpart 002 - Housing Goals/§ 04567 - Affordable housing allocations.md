@@ -36,7 +36,7 @@ The Director shall temporarily suspend allocations under subsection (a) by an en
 
 #### (c) Prohibition of pass-through of cost of allocations
 
-The Director shall, by regulation, prohibit each enterprise from redirecting the costs of any allocation required under this section, through increased charges or fees, or decreased premiums, or in any other manner, to the originators of mortgages purchased or securitized by the enterprise.
+The Director shall, by regulation, prohibit each enterprise from redirecting the costs of anyallocation required under this section, through increased charges or fees, or decreased premiums, or in any other manner, to the originators of mortgages purchased or securitized by the enterprise.
 
 #### (d) Enforcement of requirements on enterprise
 

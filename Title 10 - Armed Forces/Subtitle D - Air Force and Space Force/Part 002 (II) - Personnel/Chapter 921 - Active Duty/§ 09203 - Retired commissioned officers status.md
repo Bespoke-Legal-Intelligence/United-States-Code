@@ -20,11 +20,15 @@ July 9, 1918, ch. 143, subch. XX (2d par.), 40 Stat. 893.
 
 The words "and shall be an extra number therein" are omitted, since, in the opinion of the Judge Advocate General of the Army (JAG 210.85, Feb. 21, 1923), they were repealed by the Act of July 31, 1935, ch. 422, 49 Stat. 505. The words "in the discretion of the President, employed \* \* \* assigned to duty" are omitted as surplusage. The words "arms, corps, department" are omitted, since the Air Force does not have organic corps created by statute.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "the Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8503 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

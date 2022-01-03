@@ -2,7 +2,7 @@
 
 The Secretary shall—
 
-&emsp;(1) not later than 60 days after December 10, 2015, identify the number of Department full-time equivalent employees who worked on or administered each education program or project authorized under this chapter, as such program or project was in effect on the day before December 10, 2015, and publish such information on the Department's website;
+&emsp;(1) not later than 60 days after December 10, 2015, identify the number of Department full-time equivalent employees who worked on oradministered each education program or project authorized under this chapter, as such program or project was in effect on the day before December 10, 2015, and publish such information on the Department's website;
 
 &emsp;(2) not later than 60 days after December 10, 2015, identify the number of full-time equivalent employees who worked on or administered each program or project authorized under this chapter, as such program or project was in effect on the day before December 10, 2015, that has been eliminated or consolidated since December 10, 2015;
 
@@ -22,6 +22,8 @@ The Secretary shall—
 
 (Pub. L. 89–10, title VIII, §8205, as added Pub. L. 114–95, title VIII, §8008, Dec. 10, 2015, 129 Stat. 2101.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7831 to 7835 were omitted in the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
@@ -35,6 +37,8 @@ Section 7833, Pub. L. 89–10, title IX, §9123, as added Pub. L. 103–382, tit
 Section 7834, Pub. L. 89–10, title IX, §9124, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3787; amended Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, related to gifted and talented Indian students.
 
 Section 7835, Pub. L. 89–10, title IX, §9125, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3789, related to grants to tribes for education administrative planning and development.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

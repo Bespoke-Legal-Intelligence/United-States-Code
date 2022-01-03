@@ -44,7 +44,7 @@ In paragraph (2), the words "section 40102(4) of title 46" are substituted for "
 
 #### Effective Date of 2021 Amendment
 
-Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(4)(A) to section 836(a)(2)(B) of Pub. L.115–232, which amended this section, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
+Pub. L. 116–283, div. A, title X, §1081(d), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(d)(4)(A) to section 836(a)(2)(B) of Pub. L. 115–232, which amended this section, is effective as of Aug. 13, 2018, and as if included in Pub. L. 115–232.
 
 #### Effective Date of 2018 Amendment
 

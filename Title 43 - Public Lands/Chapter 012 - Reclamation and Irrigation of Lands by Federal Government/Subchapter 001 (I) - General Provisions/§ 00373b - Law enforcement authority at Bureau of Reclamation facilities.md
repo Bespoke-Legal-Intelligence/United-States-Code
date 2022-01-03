@@ -36,7 +36,7 @@ A law enforcement officer authorized by the Secretary of the Interior under subs
 
 &emsp;&emsp;&emsp;(ii) such arrest occurs within a Reclamation project or on Reclamation lands or the person to be arrested is fleeing therefrom to avoid arrest;
 
-&emsp;(3) execute within a Reclamation project or on Reclamation lands any warrant or other process issued by a court or officer of competent jurisdiction for the enforcement of the provisions of any Federal law or regulation issued pursuant to law for any offense committed within a Reclamation project or on Reclamation lands; and
+&emsp;(3) execute within a Reclamation project or on Reclamation lands any warrant or otherprocess issued by a court or officer of competent jurisdiction for the enforcement of the provisions of any Federal law or regulation issued pursuant to law for any offense committed within a Reclamation project or on Reclamation lands; and
 
 &emsp;(4) conduct investigations within a Reclamation project or on Reclamation lands of offenses against the United States committed within a Reclamation project or on Reclamation lands if the Federal law enforcement agency having investigative jurisdiction over the offense committed declines to investigate the offense.
 

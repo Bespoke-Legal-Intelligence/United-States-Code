@@ -108,7 +108,7 @@ Subsection (a) shall not apply to—
 
 #### (3) Reimbursed expenses
 
-&emsp;Expenses paid or incurred by the taxpayer, in connection with the performance by him of services for another person (whether or not such other person is his employer), under a reimbursement or other expense allowance arrangement with such other person, but this paragraph shall apply—
+&emsp;Expenses paid or incurred by the taxpayer, in connection with the performance by him ofservices for another person (whether or not such other person is his employer), under a reimbursement or other expense allowance arrangement with such other person, but this paragraph shall apply—
 
 &emsp;&emsp;(A) where the services are performed for an employer, only if the employer has not treated such expenses in the manner provided in paragraph (2), or
 
@@ -146,7 +146,7 @@ This section shall not apply to any deduction allowable to the taxpayer without 
 
 #### (g) Treatment of entertainment, etc., type facility
 
-For purposes of this chapter, if deductions are disallowed under subsection (a) with respect to any portion of a facility, such portion shall betreated as an asset which is used for personal, living, and family purposes (and not as an asset used in the trade or business).
+For purposes of this chapter, if deductions are disallowed under subsection (a) with respect to any portion of a facility, such portion shall be treated as an asset which is used for personal, living, and family purposes (and not as an asset used in the trade or business).
 
 #### (h) Attendance at conventions, etc.
 
@@ -224,7 +224,7 @@ For purposes of this chapter, if deductions are disallowed under subsection (a) 
 
 #### (B) Beneficiary country
 
-&emsp;&emsp;For purposes of this paragraph, the term "beneficiary country" has the meaning given to such term by section 212(a)(1)(A) ofthe Caribbean Basin Economic Recovery Act; except that such term shall include Bermuda.
+&emsp;&emsp;For purposes of this paragraph, the term "beneficiary country" has the meaning given to such term by section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act; except that such term shall include Bermuda.
 
 #### (C) Authority to conclude exchange of information agreements
 
@@ -444,7 +444,7 @@ The Secretary shall prescribe such regulations as he may deem necessary to carry
 
 #### Amendment of Section
 
-<i>Pub. L. 115–97, title I, §13304(d), (e)(2), Dec. 22, 2017, 131 Stat. 2126, provided that, applicable</i><i>to amounts incurred or paid after Dec. 31, 2025, this section is amended by redesignating subsection (o) as (p) and adding the following new subsection (o):</i>
+<i>Pub. L. 115–97, title I, §13304(d), (e)(2), Dec. 22, 2017, 131 Stat. 2126, provided that, applicable to amounts incurred or paid after Dec. 31, 2025, this section is amended by redesignating subsection (o) as (p) and adding the following new subsection (o):</i>
 
 #### <i>(o) Meals provided at convenience of employer</i>
 
@@ -455,6 +455,8 @@ The Secretary shall prescribe such regulations as he may deem necessary to carry
 &emsp;<i>(2) any expense for meals described in section 119(a).</i>
 
 <i>See 2017 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -478,7 +480,7 @@ Subsec. (a)(4). Pub. L. 115–97, §13304(c)(1)(B), added par. (4).
 
 Subsec. (d). Pub. L. 115–97, §13304(a)(2)(A)(ii), in concluding provisions, struck out ", entertainment, amusement, recreation, or use of the facility or property," after "travel" and substituted "(D) the business relationship to the taxpayer of the person receiving the benefit" for "(D) the business relationship to the taxpayer of persons entertained, using the facility or property, or receiving the gift".
 
-Subsec. (d)(2) to (4). Pub. L. 115–97, §13304(a)(2)(A)(i), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: "for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,".
+Subsec. (d)(2) to (4). Pub. L. 115–97, §13304(a)(2)(A)(i), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out former par. (2) which read as follows: "for any item with respect to an activity which is of a type generally considered to constitute entertainment, amusement, or recreation, or with respect to a facility used in connection with such an activity,".
 
 Subsec. (j)(3)(A). Pub. L. 115–97, §13310(a), designated text of subpar. (A) as cl. (i) and inserted heading, redesignated former cls. (i) to (iii) as subcls. (I) to (III), respectively, of cl. (i), and added cl. (ii).
 
@@ -524,7 +526,7 @@ Subsec. (n). Pub. L. 103–66, §13209(a), (b), substituted "50" for "80" in hea
 
 Subsec. (n)(2). Pub. L. 101–508, §11802(b)(2)(A)(ii), (iii), substituted "described in subparagraph (D)" for "described in subparagraph (E)" and "of subparagraph (E)" for "of subparagraph (F)" in concluding provisions.
 
-Subsec. (n)(2)(D) to (F). Pub. L. 101–508, §11802(b)(2)(A)(i), redesignated subpars. (E) and (F) as\(D) and (E), respectively, and struck out former subpar. (D) which read as follows: "in the case of an expense for food or beverages before January 1, 1989, such expense is an integral part of a qualified meeting,".
+Subsec. (n)(2)(D) to (F). Pub. L. 101–508, §11802(b)(2)(A)(i), redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: "in the case of an expense for food or beverages before January 1, 1989, such expense is an integral part of a qualified meeting,".
 
 Subsec. (n)(3). Pub. L. 101–508, §11802(b)(2)(B), struck out par. (3) "Qualified meeting" which read as follows: "For purposes of paragraph (2)(D), the term 'qualified meeting' means any convention, seminar, annual meeting, or similar business program with respect to which—
 
@@ -560,7 +562,7 @@ Pub. L. 100–647, §1001(g)(1), amended subpar. (A) generally. Prior to amendme
 
 &emsp;"(ii) such item is a qualified plan award."
 
-Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining such term in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
+Subsec. (b)(3). Pub. L. 99–514, §122(c)(4), struck out par. (3) relating to qualified plan award, defining suchterm in subpar. (A), and providing for average amount of awards in subpar. (B) and maximum amount per item in subpar. (C).
 
 Subsec. (e)(1). Pub. L. 99–514, §142(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1), business meals, which read as follows: "Expenses for food and beverages furnished to any individual under circumstances which (taking into account the surroundings in which furnished, the taxpayer's trade, business, or income-producing activity and the relationship to such trade, business, or activity of the persons to whom the food and beverages are furnished) are of a type generally considered to be conducive to a business discussion."
 
@@ -632,6 +634,8 @@ Subsec. (i). Pub. L. 94–455, §§602(a), 1906(b)(13)(A), redesignated former s
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 limited subsec. (c) to individuals traveling outside the United States.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title II, §210(b), Dec. 27, 2020, 134 Stat. 3066, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2020."
@@ -690,7 +694,7 @@ Pub. L. 100–647, title VI, §6003(b), Nov. 10, 1988, 102 Stat. 3685, provided 
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 122(c), (d) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986,see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
+Amendment by section 122(c), (d) of Pub. L. 99–514 applicable to prizes and awards granted after Dec. 31, 1986, see section 151(c) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
 Amendment by section 142(a)–(c) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 151(a) of Pub. L. 99–514, set out as a note under section 1 of this title.
 
@@ -730,7 +734,7 @@ Pub. L. 97–34, title II, §265(c), Aug. 13, 1981, 95 Stat. 265, provided that:
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–608, §4(b), Dec. 28, 1980, 94 Stat. 3552, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall apply to conventions, seminars, and meetings beginning after December 31, 1980, except that in the case of any convention, seminar, or meeting beginning after such date which was scheduled on or before such date, a person, in such manner as the Secretary of the Treasury or his delegate may prescribe, may elect to have the provisions of section 274(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] be applied to such convention seminar or meeting without regard to such amendment."
+Pub. L. 96–608, §4(b), Dec. 28, 1980, 94 Stat. 3552, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall apply to conventions, seminars, and meetings beginning after December 31, 1980, except that in the case of any convention, seminar, or meeting beginning after such date which was scheduled on or before such date, a person, in such manner as the Secretary of the Treasury or his delegate may prescribe, may elect to have the provisions of section 274(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] be applied to such convention seminar or meeting without regard to such amendment."
 
 Pub. L. 96–598, §5(b), Dec. 24, 1980, 94 Stat. 3488, and Pub. L. 96–605, title I, §108(b), Dec. 28, 1980, 94 Stat. 3525, provided that: "The amendment made by this section \[amending this section\] shall apply to any expenses paid or incurred after December 31, 1980, in taxable years ending after such date."
 
@@ -766,10 +770,6 @@ Pub. L. 99–44, §1(c), May 24, 1985, 99 Stat. 77, provided that: "Regulations 
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
@@ -797,6 +797,12 @@ Information return requirement.—Clause (i) shall not apply to any amount paid 
 "(iii)
 
 Application of subparagraph.—This subparagraph shall only apply with respect to expenses paid or incurred during 1979 or 1980."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> See Amendment of Section note below.</i>
 

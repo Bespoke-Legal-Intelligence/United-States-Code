@@ -12,7 +12,7 @@ If the taxpayer has gain from a constructive ownership transaction with respect 
 
 #### (1) In general
 
-&emsp;If any gain is treated as ordinary income for any taxable year by reason of subsection (a)(1), the tax imposed by this chapter for such taxable year shall be increased by the amount of interest determined under paragraph (2) with respect to each prior taxable year during any portion of which the constructive ownership transaction was open. Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
+&emsp;If any gain is treated as ordinary income for any taxable year by reason of subsection (a)(1), the tax imposed by this chapter for such taxable year shall be increased by the amountof interest determined under paragraph (2) with respect to each prior taxable year during any portion of which the constructive ownership transaction was open. Any amount payable under this paragraph shall be taken into account in computing the amount of any deduction allowable to the taxpayer for interest paid or accrued during such taxable year.
 
 #### (2) Amount of interest
 
@@ -110,7 +110,7 @@ For purposes of this section, in the case of any constructive ownership transact
 
 #### (f) Special rule where taxpayer takes delivery
 
-Except as provided in regulations prescribed by the Secretary, if a constructive ownership transaction is closed by reason of taking delivery, this section shall be applied as if the taxpayer had sold all the contracts, options, or other positions which are part of such transaction for fair market value on the closing date. The amount of gain recognized under the preceding sentence shall not exceed the amount of gain treated as ordinary income under subsection (a). Proper adjustments shall be made in the amount of any gain or loss subsequently realized for gain recognized and treated as ordinary income under this subsection.
+Except as provided in regulations prescribed by the Secretary, if a constructive ownershiptransaction is closed by reason of taking delivery, this section shall be applied as if the taxpayer had sold all the contracts, options, or other positions which are part of such transaction for fair market value on the closing date. The amount of gain recognized under the preceding sentence shall not exceed the amount of gain treated as ordinary income under subsection (a). Proper adjustments shall be made in the amount of any gain or loss subsequently realized for gain recognized and treated as ordinary income under this subsection.
 
 #### (g) Regulations
 
@@ -122,11 +122,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 106–170, title V, §534(a), Dec. 17, 1999, 113 Stat. 1931; amended Pub. L. 108–357, title IV, §413(c)(23), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 110–172, §11(a)(23), (24)(B), Dec. 29, 2007, 121 Stat. 2486.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (c)(2)(G). Pub. L. 110–172 substituted "subsection (d)" for "subsection (e)" and inserted "and" at end.
 
 <b>2004</b>—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of "pass-thru entity".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

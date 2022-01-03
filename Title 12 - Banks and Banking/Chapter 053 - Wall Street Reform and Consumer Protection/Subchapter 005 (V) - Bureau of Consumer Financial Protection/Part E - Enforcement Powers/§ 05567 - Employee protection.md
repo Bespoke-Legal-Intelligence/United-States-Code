@@ -52,7 +52,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (C) Request for hearing
 
-&emsp;&emsp;Not later than 30 days after the date of receipt of notification of a determination of the Secretary of Labor under this paragraph,either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously, and if a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
+&emsp;&emsp;Not later than 30 days after the date of receipt of notification of a determination of the Secretary of Labor under this paragraph, either the person alleged to have committed the violation or the complainant may file objections to the findings or preliminary order, or both, and request a hearing on the record. The filing of such objections shall not operate to stay any reinstatement remedy contained in the preliminary order. Any such hearing shall be conducted expeditiously, and if a hearing is not requested in such 30-day period, the preliminary order shall be deemed a final order that is not subject to judicial review.
 
 #### (3) Grounds for determination of complaints
 
@@ -92,7 +92,7 @@ For the purposes of this section, the term "covered employee" means any individu
 
 #### (C) Penalty for frivolous claims
 
-&emsp;&emsp;If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employer a reasonable attorney fee, not exceeding $1,000, to be paid by the complainant.
+&emsp;&emsp;If the Secretary of Labor finds that a complaint under paragraph (1) is frivolous or has been brought in bad faith, the Secretary of Labor may award to the prevailing employera reasonable attorney fee, not exceeding $1,000, to be paid by the complainant.
 
 #### (D) De novo review
 

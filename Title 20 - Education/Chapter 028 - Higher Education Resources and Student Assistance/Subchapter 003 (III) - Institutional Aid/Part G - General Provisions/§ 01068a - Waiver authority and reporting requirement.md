@@ -26,7 +26,7 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 &emsp;(A) identify the factors referred to in paragraph (1) which were considered by the Secretary as factors that distorted the determination of compliance with subparagraphs (A) and (B) of section 1058(b)(1) of this title; and
 
-&emsp;(B) contain a list of each institution determined to be an eligible institution under partA including a statement of the reasons for each such determination.
+&emsp;(B) contain a list of each institution determined to be an eligible institution under part A including a statement of the reasons for each such determination.
 
 (3) The Secretary may waive the requirement set forth in section 1058(b)(1)(E) <sup>2</sup> of this title in the case of an institution located on or near an Indian reservation or a substantial population of Indians, if the Secretary determines that the waiver will substantially increase higher education opportunities appropriate to the needs of American Indians.
 
@@ -80,6 +80,8 @@ The Secretary may waive the requirements set forth in section 1058(b)(1)(A) of t
 
 (Pub. L. 89–329, title III, §392, formerly §352, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1304; amended Pub. L. 100–50, §2(a)(14), (15), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(b), July 23, 1992, 106 Stat. 478; renumbered §392 and amended Pub. L. 105–244, title III, §§301(a)(2), 308(d), Oct. 7, 1998, 112 Stat. 1636, 1649; Pub. L. 110–315, title III, §§318, 320(5), Aug. 14, 2008, 122 Stat. 3185, 3188; Pub. L. 111–39, title III, §301(8), July 1, 2009, 123 Stat. 1938.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1058(b)(1)(E) of this title, referred to in subsec. (b)(3), was repealed and section 1058(b)(1)(F) was redesignated section 1058(b)(1)(E) by Pub. L. 102–325, title III, §302(a)(1)(B), (C), July 23, 1992, 106 Stat. 472.
@@ -105,6 +107,8 @@ Subsec. (c). Pub. L. 110–315, §318, added subsec. (c).
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–50, §2(a)(14), substituted "low-income" for "low- and middle-income".
 
 Subsec. (b)(3). Pub. L. 100–50, §2(a)(15), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

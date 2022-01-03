@@ -14,6 +14,8 @@ No suit shall be maintained in any court for the purpose of restraining the asse
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 876; Pub. L. 89–719, title I, §110(c), Nov. 2, 1966, 80 Stat. 1144; Pub. L. 94–455, title XII, §1204(c)(11), Oct. 4, 1976, 90 Stat. 1699; Pub. L. 95–628, §9(b)(1), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 97–258, §3(f)(13), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 105–34, title XII, §§1222(b)(1), 1239(e)(3), title XIV, §1454(b)(2), Aug. 5, 1997, 111 Stat. 1019, 1028, 1057; Pub. L. 105–206, title III, §3201(e)(3), July 22, 1998, 112 Stat. 740; Pub. L. 105–277, div. J, title IV, §4002(c)(1), (f), Oct. 21, 1998, 112 Stat. 2681–906, 2681–907; Pub. L. 106–554, §1(a)(7) \[title III, §§313(b)(2)(B), 319(24)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–647; Pub. L. 114–74, title XI, §1101(f)(10), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(324), Mar. 23, 2018, 132 Stat. 1199.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–141 substituted "Code, in" for "Code in".
@@ -40,6 +42,8 @@ Pub. L. 105–34, §1222(b)(1), inserted "6246(b)," after "6213(a),".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–719 inserted reference to section 7426(a), (b)(1), and "by any person, whether or not such person is the person against whom such tax was assessed".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–74 applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, see section 1101(g) of Pub. L. 114–74, set out as an Effective Date note under section 6221 of this title.
@@ -52,7 +56,7 @@ Amendment by Pub. L. 105–206 applicable to any liability for tax arising after
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 1222(b)(1) of Pub. L. 105–34 applicable to partnership taxable years beginning after Dec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
+Amendment by section 1222(b)(1) of Pub. L. 105–34 applicable to partnership taxable years beginning afterDec. 31, 1997, see section 1226 of Pub. L. 105–34, as amended, set out as a note under section 6011 of this title.
 
 Amendment by section 1239(e)(3) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1239(f) of Pub. L. 105–34, set out as a note under section 6501 of this title.
 

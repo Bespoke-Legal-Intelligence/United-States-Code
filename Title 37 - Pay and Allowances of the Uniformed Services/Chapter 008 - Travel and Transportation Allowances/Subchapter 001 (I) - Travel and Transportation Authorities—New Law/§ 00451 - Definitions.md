@@ -20,7 +20,7 @@ Definitions Relating to Persons.—In this subchapter and subchapter II:
 
 &emsp;&emsp;(B) A family member of a member of the uniformed services.
 
-&emsp;&emsp;(C) A person acting as an escort or attendant for a member or family member who is traveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
+&emsp;&emsp;(C) A person acting as an escort or attendant for a member or family member who istraveling on official travel or is traveling with the remains of a deceased member or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone.
 
 &emsp;&emsp;(D) A person who participates in a military funeral honors detail.
 
@@ -32,17 +32,23 @@ Definitions Relating to Persons.—In this subchapter and subchapter II:
 
 &emsp;&emsp;(H) Any other person not covered by subparagraphs (A) through (G) who is determined by the administering Secretary pursuant to regulations prescribed under section 464 of this title as warranting the provision of travel benefits for purposes of the following:
 
-&emsp;&emsp;&emsp;(i) Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 481f of this title.
+&emsp;&emsp;&emsp;(i) Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 481f <sup>1</sup> of this title.
 
-&emsp;&emsp;&emsp;(ii) Transportation of designated individuals incident to the hospitalization of members as provided in section 481h of this title.
+&emsp;&emsp;&emsp;(ii) Transportation of designated individuals incident to the hospitalization of members as provided in section 481h <sup>1</sup> of this title.
 
-&emsp;&emsp;&emsp;(iii) Transportation of designated individuals incident to the repatriation of members as provided in section 481j of this title.
+&emsp;&emsp;&emsp;(iii) Transportation of designated individuals incident to the repatriation of members as provided in section 481j <sup>1</sup> of this title.
 
-&emsp;&emsp;&emsp;(iv) Transportation of non-medical attendants as provided in section 481k of this title.
+&emsp;&emsp;&emsp;(iv) Transportation of non-medical attendants as provided in section 481k <sup>1</sup> of this title.
 
-&emsp;&emsp;&emsp;(v) Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481l of this title.
+&emsp;&emsp;&emsp;(v) Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481l <sup>1</sup> of this title.
 
 &emsp;&emsp;&emsp;(vi) Transportation of a person with regard to a single event when the administering Secretary determines that the travel is necessary to ensure fairness and equity, respond to emergency or humanitarian circumstances, or serve the best interests of the Government.
+
+&emsp;&emsp;&emsp;(vii) Transportation of a dependent child of a member of the uniformed services to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is outside the continental United States (other than in Alaska or Hawaii).
+
+&emsp;&emsp;&emsp;(viii) Transportation of a dependent child of a member of the uniformed services within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
+
+&emsp;&emsp;&emsp;(ix) Transportation of a dependent to a location where a member of the uniformed services is on permanent duty aboard a ship that is overhauling, inactivating, or under construction.
 
 &emsp;(3) The term "family member", with respect to a member of the uniformed services, means the following:
 
@@ -84,15 +90,35 @@ Definitions Relating to Travel and Transportation Allowances.—In this subchapt
 
 &emsp;(7) The term "personal property", with respect to transportation allowances, includes baggage, furniture, and other household items, clothing, privately owned vehicles, house trailers, mobile homes, and any other personal items that would not otherwise be prohibited by any other provision of law or regulation prescribed under section 464 of this title.
 
-&emsp;(8) The term "relocation allowances" means the costs associated with relocating a member of the uniformed services and the member's dependents between an old and new temporary or permanent duty assignment location or other authorized location.
+&emsp;(8) The term "relocation allowances" means the costs associated with relocating a memberof the uniformed services and the member's dependents between an old and new temporary or permanent duty assignment location or other authorized location. Such costs include pet quarantine expenses.
 
 &emsp;(9) The term "dislocation allowances" means the costs associated with relocation of the household of a member of the uniformed services and the member's dependents in relation to a change in the member's permanent duty assignment location ordered for the convenience of the Government or incident to an evacuation.
 
-(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1453; amended Pub. L. 113–66, div. A, title VI, §621(a)(1), Dec. 26, 2013, 127 Stat. 783.)
+&emsp;(10)(A) The term "permanent duty assignment location" means—
+
+&emsp;&emsp;(i) the official station of a member of the uniformed services; or
+
+&emsp;&emsp;(ii) the residence of a dependent of a member of the uniformed services.
+
+&emsp;(B) As used in subparagraph (A)(ii), the residence of a dependent who is a student not living with the member while at school is the permanent duty assignment location of the dependent student.
+
+(Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1453; amended Pub. L. 113–66, div. A, title VI, §621(a)(1), Dec. 26, 2013, 127 Stat. 783; Pub. L. 117–81, div. A, title VI, §603(b), (c)(2), (d)(2), Dec. 27, 2021, 135 Stat. 1766, 1767.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Sections 481f, 481h, 481j, 481k, and 481l of this title, referred to in subsec. (a)(2)(H), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(H)(vii), (viii). Pub. L. 117–81, §603(c)(2)(A), added cls. (vii) and (viii).
+
+Subsec. (a)(2)(H)(ix). Pub. L. 117–81, §603(d)(2), added cl. (ix).
+
+Subsec. (b)(8). Pub. L. 117–81, §603(b), inserted at end "Such costs include pet quarantine expenses."
+
+Subsec. (b)(10). Pub. L. 117–81, §603(c)(2)(B), added par. (10).
 
 <b>2013</b>—Subsec. (a)(2)(C). Pub. L. 113–66 inserted "or as an escort or attendant for dependents of a member for necessary travel performed not later than one year after the member is unable to accompany the dependents who are incapable of traveling alone" before period at end.
 
@@ -131,4 +157,6 @@ Program of Compliance.—The Secretary of Defense and the other administering Se
 "(e)
 
 Transition Period.—In this section, the term 'transition period' means the 10-year period beginning on the first day of the first month beginning after the date of the enactment of this Act."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

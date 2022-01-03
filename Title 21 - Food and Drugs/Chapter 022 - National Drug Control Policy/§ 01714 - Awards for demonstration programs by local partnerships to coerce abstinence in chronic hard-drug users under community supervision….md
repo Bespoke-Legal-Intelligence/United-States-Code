@@ -28,7 +28,7 @@ In this section, the term "eligible partnership" means a working group whose app
 
 &emsp;(2) includes a qualified researcher;
 
-&emsp;(3) includes a plan for using judicial or other criminal justice authority to administer drug tests to individuals described in subsection (a) at least twice a week, and to swiftly and certainly impose a known set of graduated sanctions for non-compliance with community-release provisions relating to drug abstinence (whether imposed as a pre-trial, probation, or parole condition or otherwise);
+&emsp;(3) includes a plan for using judicial or other criminal justice authority to administer drug tests to individuals described in subsection (a) at least twice a week, and to swiftly and certainly impose a known set of graduated sanctions for non-compliance with community-release provisions relating to drug abstinence\(whether imposed as a pre-trial, probation, or parole condition or otherwise);
 
 &emsp;(4) includes a strategy for responding to a range of substance use and abuse problems and a range of criminal histories;
 

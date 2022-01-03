@@ -208,7 +208,7 @@ From the total amount appropriated under section 6603(a) of this title for a fis
 
 &emsp;&emsp;(H) An assurance that the State educational agency will work in consultation with the entity responsible for teacher, principal, or other school leader professional standards, certification, and licensing for the State, and encourage collaboration between educator preparation programs, the State, and local educational agencies to promote the readiness of new educators entering the profession.
 
-&emsp;&emsp;(I) An assurance that the State educational agency will comply with section 7881 of this title (regarding participation by private school children and teachers).
+&emsp;&emsp;(I) An assurance that the State educational agency will comply with section7881 of this title (regarding participation by private school children and teachers).
 
 &emsp;&emsp;(J) A description of how the State educational agency will improve the skills of teachers, principals, or other school leaders in order to enable them to identify students with specific learning needs, particularly children with disabilities, English learners, students who are gifted and talented, and students with low literacy levels, and provide instruction based on the needs of such students.
 
@@ -244,6 +244,8 @@ Nothing in this section shall be construed to authorize the Secretary or any oth
 
 (Pub. L. 89–10, title II, §2101, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1917; amended Pub. L. 116–260, div. H, title III, §315, Dec. 27, 2020, 134 Stat. 1610.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2202(b) of this Act (as in effect on the day before January 8, 2002), referred to in subsec. (b)(1)(A)(i), is section 2202(b) of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3621, which was classified to section 6642(b) of this title prior to the general amendment of this subchapter by Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620.
@@ -265,6 +267,8 @@ Another prior section 2101 of Pub. L. 89–10 was classified to section 3001 of 
 <b>2020</b>—Subsec. (b)(2)(A)(iv). Pub. L. 116–260, §315(1), in introductory provisions, inserted "through fiscal year 2022" after "for fiscal year 2020".
 
 Subsec. (b)(3). Pub. L. 116–260, §315(2), substituted "2023" for "2021" in heading and text of introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

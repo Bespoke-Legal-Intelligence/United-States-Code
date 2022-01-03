@@ -4,9 +4,13 @@ Except as provided elsewhere in this Act or any other Act of Congress, funds ava
 
 (Pub. L. 95–113, title XIV, §1467, Sept. 29, 1977, 91 Stat. 1018.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in text, see note set out under section 3102 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

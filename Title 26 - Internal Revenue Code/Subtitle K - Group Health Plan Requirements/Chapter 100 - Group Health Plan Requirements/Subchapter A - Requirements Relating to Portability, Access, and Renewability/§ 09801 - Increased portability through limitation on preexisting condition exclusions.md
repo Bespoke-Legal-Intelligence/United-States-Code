@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (2) Exclusion not applicable to certain adopted children
 
-&emsp;Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
+&emsp;Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered undercreditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
 
 #### (3) Exclusion not applicable to pregnancy
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (C) Issuer compliance
 
-&emsp;&emsp;To the extent that medical care under a group health plan consists of health insurance coverage offered in connection with the plan, the plan is deemed to have satisfiedthe certification requirement under this paragraph if the issuer provides for such certification in accordance with this paragraph.
+&emsp;&emsp;To the extent that medical care under a group health plan consists of health insurance coverage offered in connection with the plan, the plan is deemed to have satisfied the certification requirement under this paragraph if the issuer provides for such certification in accordance with this paragraph.
 
 #### (2) Disclosure of information on previous benefits
 
@@ -264,9 +264,11 @@ For purposes of this section—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity,as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 (Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -285,6 +287,8 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
 <b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 substituted "section 9832(c)" for "section 9805(c)" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -344,7 +348,7 @@ Period of coverage.—
 
 &emsp;&emsp;"(i)
 
-In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under chapter 100 of the Internal Revenue Code of 1986 (as added by this section) in determining creditable coverage.
+In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into accountunder chapter 100 of the Internal Revenue Code of 1986 (as added by this section) in determining creditable coverage.
 
 &emsp;&emsp;"(ii)
 

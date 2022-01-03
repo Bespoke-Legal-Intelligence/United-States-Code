@@ -20,11 +20,15 @@ Aug. 29, 1916, ch. 418, §1, 39 Stat. 630 (less words before semicolon of 3d pro
 
 This section is expanded to cover sales to members of the Air Force, as authorized by §305(a) of the National Security Act of 1947, as amended (5 U.S.C. 171l).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "Sales: members of Army, Air Force, and Space Force; prices" for "Sales: members of Army and Air Force; prices" in section catchline and ", the Air Force, or the Space Force" for "or the Air Force" in text.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7602 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

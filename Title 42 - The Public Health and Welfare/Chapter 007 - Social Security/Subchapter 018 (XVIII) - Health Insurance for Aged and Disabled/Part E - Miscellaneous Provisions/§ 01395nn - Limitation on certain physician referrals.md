@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (b), if a physician (or an immediate family member ofsuch physician) has a financial relationship with an entity specified in paragraph (2), then—
+&emsp;Except as provided in subsection (b), if a physician (or an immediate family member of such physician) has a financial relationship with an entity specified in paragraph (2), then—
 
 &emsp;&emsp;(A) the physician may not make a referral to the entity for the furnishing of designated health services for which payment otherwise may be made under this subchapter, and
 
@@ -216,7 +216,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (ii) "Physician incentive plan" defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "physician incentive plan" means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting servicesprovided with respect to individuals enrolled with the entity.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "physician incentive plan" means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
 
 #### (C) Holdover personal service arrangement
 
@@ -354,7 +354,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(II) the payment is made to the physician on behalf of the covered individual and would otherwise be made directly to such individual,
 
-&emsp;&emsp;&emsp;(III) the amount of the payment is set in advance, does not exceed fair marketvalue, and is not determined in a manner that takes into account directly or indirectly the volume or value of any referrals, and
+&emsp;&emsp;&emsp;(III) the amount of the payment is set in advance, does not exceed fair market value, and is not determined in a manner that takes into account directly or indirectly the volume or value of any referrals, and
 
 &emsp;&emsp;&emsp;(IV) the payment meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -524,7 +524,7 @@ Special rule for signature requirements.—In the case of any requirement pursua
 
 &emsp;&emsp;(i) The percentage of the total value of the ownership or investment interests held in the hospital, or in an entity whose assets include the hospital, by physician owners or investors in the aggregate does not exceed such percentage as of March 23, 2010.
 
-&emsp;&emsp;(ii) Any ownership or investment interests that the hospital offers to a physician owner or investor are not offered on more favorable terms than the terms offered to a person who is not a physician owner or investor.
+&emsp;&emsp;(ii) Any ownership or investment interests that the hospital offers to a physician owneror investor are not offered on more favorable terms than the terms offered to a person who is not a physician owner or investor.
 
 &emsp;&emsp;(iii) The hospital (or any owner or investor in the hospital) does not directly or indirectly provide loans or financing for any investment in the hospital by a physician owner or investor.
 
@@ -650,13 +650,15 @@ Special rule for signature requirements.—In the case of any requirement pursua
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387; Pub. L. 108–173, title I, §101(e)(8)(B), title V, §507(a), Dec. 8, 2003, 117 Stat. 2152, 2295; Pub. L. 110–275, title I, §143(b)(9), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title VI, §§6001(a), 6003(a), title X, §10601(a), Mar. 23, 2010, 124 Stat. 684, 697, 1005; Pub. L. 111–152, title I, §1106, Mar. 30, 2010, 124 Stat. 1049; Pub. L. 115–123, div. E, title IV, §50404, Feb. 9, 2018, 132 Stat. 218.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) ofPub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
+Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (b)(3)(C), is section 222(a) of Pub. L. 92–603, Oct. 30, 1972, 86 Stat. 1329, which is set out as a note under section 1395b–1 of this title.
 
 Section 300e–9(d) of this title, referred to in subsec. (b)(3)(D), was redesignated section 300e–9(c) of this title by Pub. L. 100–517, §7(b), Oct. 24, 1988, 102 Stat. 2580.
 
-Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original "section 1860D–3(e)(6)", and was translated as reading "section 1860D–4(e)(6)", meaning section 1860D–4(e)(6) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
+Section 1395w–104(e)(6) of this title, referred to in subsec. (b)(5), was in the original "section 1860D–3(e)(6)", and was translated as reading "section 1860D–4(e)(6)", meaning section 1860D–4(e)(6) of the Social SecurityAct, to reflect the probable intent of Congress, because section 1860D–3, which is classified to section 1395w–103 of this title, does not contain a subsec. (e), and section 1860D–4(e)(6) relates to electronic prescription program regulations.
 
 The Internal Revenue Code, referred to in subsecs. (c)(2) and (h)(2), is classified generally to Title 26, Internal Revenue Code.
 
@@ -726,7 +728,7 @@ Subsec. (f). Pub. L. 103–66, §13562(a)(3), substituted "designated health ser
 
 Subsec. (g)(1). Pub. L. 103–66, §13562(a)(4), substituted "designated health service" for "clinical laboratory service".
 
-Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars. (1) to (6) for former pars. (1) to (7) which defined "compensation arrangement", "remuneration", "employee", "fair market value", "group practice", "investor", "interested investor", "disinterested investor", "referral", and "referring physician".
+Subsec. (h). Pub. L. 103–66, §13562(a)(2), amended heading and text of subsec. (h) generally, substituting pars.\(1) to (6) for former pars. (1) to (7) which defined "compensation arrangement", "remuneration", "employee", "fair market value", "group practice", "investor", "interested investor", "disinterested investor", "referral", and "referring physician".
 
 <b>1990</b>—Subsec. (b)(4), (5). Pub. L. 101–508, §4207(e)(2), formerly §4027(e)(2), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (4) and redesignated former par. (4) as (5).
 
@@ -741,6 +743,8 @@ Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as
 Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted "in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service," for "in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service," in subpar. (A) and struck out "in the case of another clinical laboratory service," after "subparagraph (C)," in subpar. (B).
 
 Subsec. (h)(7). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), redesignated par. (6) as (7).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -794,7 +798,7 @@ Exceptions.—With respect to referrals made for clinical laboratory services on
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4207(e)(5), formerly §4027(e)(5), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that: "The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\]."
+Pub. L. 101–508, title IV, §4207(e)(5), formerly §4027(e)(5), Nov. 5, 1990, 104 Stat. 1388–123, as renumbered by Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994,108 Stat. 4444, provided that: "The amendments made by this subsection \[amending this section and provisions set out below\] shall be effective as if included in the enactment of section 6204 of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\]."
 
 #### Effective Date
 

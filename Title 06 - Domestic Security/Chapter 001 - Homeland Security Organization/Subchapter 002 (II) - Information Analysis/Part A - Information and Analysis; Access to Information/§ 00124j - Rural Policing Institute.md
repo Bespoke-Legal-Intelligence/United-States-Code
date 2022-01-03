@@ -6,7 +6,7 @@ The Secretary shall establish a Rural Policing Institute, which shall be adminis
 
 &emsp;(1) evaluate the needs of law enforcement agencies and other emergency response providers in rural areas;
 
-&emsp;(2) develop expert training programs designed to address the needs of law enforcementagencies and other emergency response providers in rural areas as identified in the evaluation conducted under paragraph (1), including training programs about intelligence-led policing and protections for privacy, civil rights, and civil liberties;
+&emsp;(2) develop expert training programs designed to address the needs of law enforcement agencies and other emergency response providers in rural areas as identified in the evaluation conducted under paragraph (1), including training programs about intelligence-led policing and protections for privacy, civil rights, and civil liberties;
 
 &emsp;(3) provide the training programs developed under paragraph (2) to law enforcement agencies and other emergency response providers in rural areas; and
 

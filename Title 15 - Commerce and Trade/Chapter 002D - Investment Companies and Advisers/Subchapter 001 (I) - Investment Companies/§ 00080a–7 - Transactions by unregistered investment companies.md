@@ -34,7 +34,7 @@ No promoter of a proposed investment company, and no underwriter for such a prom
 
 #### (d) Prohibition of transactions in interstate commerce by companies not organized under laws of the United States or a State; exceptions
 
-No investment company, unless organized or otherwise created under the laws of the United States or of a State, and no depositor or trustee of or underwriter for such a company not so organized or created, shall make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to offer for sale, sell, or deliver after sale, in connection with a public offering, any security of which such company is the issuer. Notwithstanding the provisions of this subsection and of section 80a–8(a) of this title, the Commission is authorized, upon application by an investment company organized or otherwise created under the laws of a foreign country, to issue a conditional or unconditional order permitting such company to register under this subchapter, and to make a public offering of its securities by use of the mails and means or instrumentalities of interstate commerce, if the Commission finds that, by reason of special circumstances or arrangements, it is both legally and practically feasible effectively to enforce the provisions of this subchapter against such company and that the issuance of such order is otherwise consistent with the public interest and the protection of investors.
+No investment company, unless organized or otherwise created under the laws of the United States or of a State, and no depositor or trustee of or underwriter for such a company not so organized or created, shall make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to offer for sale, sell, or deliver after sale, in connection with a public offering, any security of which such company is the issuer. Notwithstanding the provisions of this subsection and of section 80a–8(a) of this title, the Commission is authorized, upon application by an investment company organized or otherwise created under the laws of a foreign country, to issue a conditional or unconditional order permitting such companyto register under this subchapter, and to make a public offering of its securities by use of the mails and means or instrumentalities of interstate commerce, if the Commission finds that, by reason of special circumstances or arrangements, it is both legally and practically feasible effectively to enforce the provisions of this subchapter against such company and that the issuance of such order is otherwise consistent with the public interest and the protection of investors.
 
 #### (e) Disclosure by exempt charitable organizations
 
@@ -42,13 +42,19 @@ Each fund that is excluded from the definition of an investment company under se
 
 (Aug. 22, 1940, ch. 686, title I, §7, 54 Stat. 802; Pub. L. 104–62, §2(b), Dec. 8, 1995, 109 Stat. 683.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (e). Pub. L. 104–62 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–62 applicable as defense to any claim in administrative and judicial actions pending on or commenced after Dec. 8, 1995, that any person, security, interest, or participation of type described in Pub. L. 104–62 is subject to the Securities Act of 1933, the Securities Exchange Act of 1934, the Investment Company Act of 1940, the Investment Advisers Act of 1940, or any State statute or regulation preempted as provided in section 80a–3a of this title, except as specifically provided in such statutes, see section 7 of Pub. L. 104–62, set out as a note under section 77c of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -16,7 +16,9 @@ If, after the proclamation of a national marketing quota for wheat for any marke
 
 Notwithstanding any other provision of this chapter, the Secretary shall proclaim a national marketing quota for the crops of wheat planted for harvest in the calendar years 1966 through 1970, and farm marketing quotas shall not be in effect for such crops of wheat.
 
-(Feb. 16, 1938, ch. 30, title III, §332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, §307, 68 Stat. 903; Pub. L. 87–703, title III, §311, Sept. 27, 1962, 76 Stat. 619; Pub. L. 89–321, title V, §501(1), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 99–198, title III, §302, Dec. 23, 1985, 99 Stat. 1378.)
+(Feb. 16, 1938, ch. 30, title III, §332, 52 Stat. 53; Aug. 28, 1954, ch. 1041, title III, §307, 68 Stat. 903;Pub. L. 87–703, title III, §311, Sept. 27, 1962, 76 Stat. 619; Pub. L. 89–321, title V, §501(1), Nov. 3, 1965, 79 Stat. 1199; Pub. L. 90–559, §1(1), Oct. 11, 1968, 82 Stat. 996; Pub. L. 99–198, title III, §302, Dec. 23, 1985, 99 Stat. 1378.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (d). Pub. L. 89–321 added subsec. (d).
 <b>1962</b>—Pub. L. 87–703 substituted provisions for proclamation of a national marketing quota upon a determination made prior to April 15 in any calendar year, the duration of such a program, the amount of, including the minimum, quota, and investigation of stocks to increase or terminate the quota during national emergencies or material increase in demand for provision for proclamation, not later than May 15 of each calendar year, of a national marketing quota for the crop produced in the next calendar year.
 
 <b>1954</b>—Act Aug. 28, 1954, struck out proclamations relating to supplies, and changed proclamation date from July 15 to May 15.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1985 Amendment
 
@@ -80,7 +84,7 @@ Pub. L. 88–297, title II, §201, Apr. 11, 1964, 78 Stat. 178, directed Secreta
 
 #### Deferral of Proclamation for 1963 Crop
 
-Pub. L. 87–485, June 15, 1962, 76 Stat. 103, authorized Secretary of Agriculture to defer until July 15, 1962, any proclamation under this section with respect to a national acreage allotment for 1963 crop of wheat and any proclamation under section 1335 of this title with respect to marketing quotas for such crop of wheat.
+Pub. L. 87–485, June 15, 1962, 76 Stat. 103, authorized Secretary of Agriculture to defer until July 15, 1962,any proclamation under this section with respect to a national acreage allotment for 1963 crop of wheat and any proclamation under section 1335 of this title with respect to marketing quotas for such crop of wheat.
 
 Pub. L. 87–450, May 15, 1962, 76 Stat. 69, authorized Secretary of Agriculture to defer until June 15, 1962, any proclamation under this section with respect to a national acreage allotment for 1963 crop of wheat and any proclamation under section 1335 of this title for such crop of wheat.
 

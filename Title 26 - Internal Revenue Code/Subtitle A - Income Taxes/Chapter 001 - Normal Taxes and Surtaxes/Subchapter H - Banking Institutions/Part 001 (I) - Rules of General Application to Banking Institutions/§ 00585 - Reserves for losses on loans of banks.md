@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(i) the balance of the reserve at the close of the base year, or
 
-&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less than the amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
+&emsp;&emsp;&emsp;(ii) if the amount of loans outstanding at the close of the taxable year is less thanthe amount of loans outstanding at the close of the base year, the amount which bears the same ratio to loans outstanding at the close of the taxable year as the balance of the reserve at the close of the base year bears to the amount of loans outstanding at the close of the base year.
 
 > &emsp;For purposes of this paragraph, the base year shall be the last taxable year before the most recent adoption of the experience method, except that for taxable years beginning after 1987 the base year shall be the last taxable year beginning before 1988.
 
@@ -124,7 +124,7 @@
 
 #### (C) Coordination with estimated tax payments
 
-&emsp;&emsp;For purposes of applying section 6655(e)(2)(A)(i) with respect to any installment, the determination under subparagraph (B) of whether an adjustment is required to be taken into account under subparagraph (A) shall be made as of the last day prescribed for payment of such installment.
+&emsp;&emsp;For purposes of applying section 6655(e)(2)(A)(i) with respect to any installment, the determination under subparagraph (B) of whether an adjustment is required tobe taken into account under subparagraph (A) shall be made as of the last day prescribed for payment of such installment.
 
 #### (4) Elective cut-off method
 
@@ -155,6 +155,8 @@
 &emsp;&emsp;In the case of a parent-subsidiary controlled group, any election under this section shall be made separately by each member of such group.
 
 (Added Pub. L. 91–172, title IV, §431(a), Dec. 30, 1969, 83 Stat. 616; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–34, title II, §267(a), Aug. 13, 1981, 95 Stat. 266; Pub. L. 99–514, title IX, §901(a), (d)(1), Oct. 22, 1986, 100 Stat. 2375, 2378; Pub. L. 100–203, title X, §10301(b)(2), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 100–647, title I, §1009(a)(2), (3), Nov. 10, 1988, 102 Stat. 3445; Pub. L. 101–508, title XI, §11801(a)(26), (c)(12)(C)–(E), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, §1616(b)(6), Aug. 20, 1996, 110 Stat. 1856.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -209,6 +211,8 @@ Subsec. (c). Pub. L. 99–514, §901(a)(2), added subsec. (c).
 <b>1981</b>—Subsec. (b)(2). Pub. L. 97–34 defined "allowable percentage" to mean 1.0 percent for taxable years beginning in 1982 and 0.6 percent for taxable years beginning after 1982, previously so applicable for taxable years beginning after 1981 and redefined "base year" by substituting the last taxable year beginning before 1976 for taxable years beginning after 1975 but before 1983, for the last taxable year beginning before 1976 for taxable years after 1975 but before 1982; and the last taxable year beginning before 1983 for taxable years beginning after 1982, for the last taxable year beginning before 1982 for taxable years beginning after 1981.
 
 <b>1976</b>—Subsec. (b)(3), (4). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

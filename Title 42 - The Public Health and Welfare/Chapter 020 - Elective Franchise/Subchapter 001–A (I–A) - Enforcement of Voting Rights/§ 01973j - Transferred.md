@@ -1,5 +1,7 @@
 ### §1973j. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1973j was editorially reclassified as section 10308 of Title 52, Voting and Elections.

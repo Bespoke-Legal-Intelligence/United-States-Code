@@ -14,7 +14,7 @@ Receipt, Possession, Concealment, or Disposal of Property.—A person who receiv
 
 Based on title 18, U.S.C., 1940 ed., §320 (Mar. 4, 1909, ch. 321, §197, 35 Stat. 1126; Aug. 26, 1935, ch. 694, 49 Stat. 867).
 
-The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. Theyare calculated to work manifest injustice in many cases.
+The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
 
 Minor changes were made in phraseology.
 

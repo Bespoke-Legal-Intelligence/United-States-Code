@@ -42,7 +42,7 @@
 
 #### (b) Allocation of excess based on share of excess eligible amounts
 
-(1) From the remainder of the amount appropriated pursuant to section 1087–51(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution whichhas an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 1087–51(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
@@ -104,9 +104,9 @@
 
 #### (d) Reallocation of excess allocations
 
-(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate studentsemployed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
+(1) If institutions return to the Secretary any portion of the sums allocated to such institutions under this section for any fiscal year, the Secretary shall reallot such excess to eligible institutions which used at least 5 percent of the total amount of funds granted to such institution under this section to compensate students employed in tutoring in reading and family literacy activities in the preceding fiscal year. Such excess funds shall be reallotted to institutions which qualify under this subsection on the same basis as excess eligible amounts are allocated to institutions pursuant to subsection (b) of this section. Funds received by institutions pursuant to this subsection shall be used to compensate students employed in community service.
 
-(2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
+(2) If, under paragraph (1) of this subsection, an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by theamount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing this paragraph would be contrary to the interest of the program.
 
 #### (e) Filing deadlines
 
@@ -125,6 +125,8 @@ The Secretary shall, from time to time, set dates before which institutions must
 <i>(3) by striking "average expected family contribution" each place the term appears and inserting "average student aid index".</i>
 
 <i>See 2020 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -189,6 +191,8 @@ Subsec. (e). Pub. L. 102–325, §442(b), amended subsec. (e) generally. Prior t
 "(2) The Secretary shall reallot not to exceed 25 percent of the amount available pursuant to paragraph (1) to eligible institutions for use in initiating, improving, and expanding programs of community service-learning conducted in accordance with section 1087–57 of this title. The Secretary shall allocate the remainder of the amounts available pursuant to paragraph (1) to eligible institutions based upon the criteria described in section 1087–57(c) of this title."
 
 <b>1987</b>—Subsec. (e)(2). Pub. L. 100–50, substituted "not to exceed 25 percent" for "25 percent" and "section 1087–57(c) of this title" for "subsection (c) of this section", and made technical amendment to reference to section 1087–57 of this title to correct numerical designation of corresponding section of original act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

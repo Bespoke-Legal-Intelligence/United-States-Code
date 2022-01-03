@@ -22,7 +22,7 @@ In Guam.—The Governor of Guam—
 
 In Northern Mariana Islands.—The Governor of the Northern Mariana Islands—
 
-&emsp;(1) or officers of the government of the Northern Mariana Islands designated by the Governor shall carry out this chapter in the Northern Mariana Islands;
+&emsp;(1) or officers of the government of the Northern Mariana Islands designated by theGovernor shall carry out this chapter in the Northern Mariana Islands;
 
 &emsp;(2) may carry out laws referred to in section 80306(b) of this title with modifications the Governor decides are necessary to meet conditions in the Northern Mariana Islands; and
 
@@ -82,11 +82,15 @@ Subsection (c) is added because, under section 502(a)(2) of the Covenant to Esta
 
 In subsection (d), the word "Secretary" is substituted for "by such officers, agents, or other persons as may be authorized or designated for that purpose by the Secretary of the Treasury" because of subsection (a)(1) of this section. The words "or the Governor of Guam or of the Northern Mariana Islands as provided in subsections (b) and (c) of this section" are added because under 49 App.:789 the Governor of Guam enforces 49 App.:ch. 11 in Guam and because of section 502(a)(2) of the Covenant referred to in the revision note for subsection (c) of this section. The words "the customs laws" are substituted for "That such duties as are imposed upon the collector of customs or any other person with respect to the seizure and forfeiture of vessels and vehicles under the customs laws" because of the restatement and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–296, §1112(r)(1), substituted "(b), (c), and (d)" for "(b) and (c)" in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 107–296, §1112(r)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -14,6 +14,8 @@ Neither section 136w–1 of this title nor this section shall limit the authorit
 
 (June 25, 1947, ch. 125, §27, as added Pub. L. 95–396, §24(2), Sept. 30, 1978, 92 Stat. 837; amended Pub. L. 100–532, title VIII, §801(p), Oct. 25, 1988, 102 Stat. 2683.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 35 and is classified to section 136y of this title.
@@ -21,6 +23,8 @@ A prior section 27 of act June 25, 1947, ch. 125, was renumbered section 35 and 
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–532 inserted headings for subsecs. (a) to (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

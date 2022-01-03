@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The President is authorized to transfer excess defense articles under this section to countries for which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
+The President is authorized to transfer excess defense articles under this section to countriesfor which receipt of such articles was justified pursuant to the annual congressional presentation documents for military assistance programs, or for programs under part VIII of subchapter I of this chapter, submitted under section 2394 of this title, or for which receipt of such articles was separately justified to the Congress, for the fiscal year in which the transfer is authorized.
 
 #### (b) Limitations on transfers
 
@@ -68,7 +68,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 &emsp;&emsp;(B) an assessment of the impact of the transfer on the military readiness of the United States;
 
-&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are to be transferred; and
+&emsp;&emsp;(C) an assessment of the impact of the transfer on the national technology and industrial base and, particularly, the impact on opportunities of entities in the national technology and industrial base to sell new orused equipment to the countries to which such articles are to be transferred; and
 
 &emsp;&emsp;(D) a statement describing the current value of such article and the value of such article at acquisition.
 
@@ -188,7 +188,7 @@ Authority To Transfer Excess Defense Articles.—
 
 NATO southern flank countries.—The President may transfer—
 
-&emsp;&emsp;"(A) to any NATO southern flank country which is eligible for United States security assistance andwhich is integrated into NATO's military structure; and
+&emsp;&emsp;"(A) to any NATO southern flank country which is eligible for United States security assistance and which is integrated into NATO's military structure; and
 
 &emsp;&emsp;"(B) to any major non-NATO ally on the southern and southeastern flank of NATO which is eligible for United States security assistance, such excess defense articles as may be necessary to help modernize the defense capabilities of such country.
 

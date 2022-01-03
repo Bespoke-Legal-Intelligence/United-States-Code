@@ -1,5 +1,7 @@
 ## Subpart I—Defense Industrial Base
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1831, added subpart heading.

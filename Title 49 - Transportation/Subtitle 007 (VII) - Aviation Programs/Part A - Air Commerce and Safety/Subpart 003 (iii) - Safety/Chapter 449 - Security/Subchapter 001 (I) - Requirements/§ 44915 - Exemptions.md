@@ -30,6 +30,8 @@ In clause (1), the word "issued" is substituted for "granted" for consistency in
 
 Clause (3) is substituted for 49 App.:1358 (words after 3d comma) for consistency in the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254 substituted "Administrator of the Transportation Security Administration" for "Under Secretary of Transportation for Security" in introductory provisions.

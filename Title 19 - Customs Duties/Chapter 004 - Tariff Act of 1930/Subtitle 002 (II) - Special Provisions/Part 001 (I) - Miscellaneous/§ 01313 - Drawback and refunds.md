@@ -8,7 +8,7 @@ Upon the exportation or destruction under customs supervision of articles manufa
 
 #### (1) In general
 
-&emsp;If imported duty-paid merchandise or merchandise classifiable under the same 8-digitHTS subheading number as such imported merchandise is used in the manufacture or production of articles within a period not to exceed 5 years from the date of importation of such imported merchandise, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l), but only if those articles have not been used prior to such exportation or destruction.
+&emsp;If imported duty-paid merchandise or merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise is used in the manufacture or production of articles within a period not to exceed 5 years from the date of importation of such imported merchandise, there shall be allowed upon the exportation, or destruction under customs supervision, of any such articles, notwithstanding the fact that none of the imported merchandise may actually have been used in the manufacture or production of the exported or destroyed articles, an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l), but only if those articles have not been used prior to such exportation or destruction.
 
 #### (2) Requirements relating to transfer of merchandise
 
@@ -62,7 +62,7 @@ Upon the exportation or destruction under customs supervision of articles manufa
 
 &emsp;&emsp;&emsp;(i) not conforming to sample or specifications, shipped without the consent of the consignee, or determined to be defective as of the time of importation, or
 
-&emsp;&emsp;&emsp;(ii) ultimately sold at retail by the importer, or the person who received the merchandise from the importer, and for any reason returned to and accepted by the importer, or the person who received the merchandise from the importer, and
+&emsp;&emsp;&emsp;(ii) ultimately sold at retail by the importer, or the person who received themerchandise from the importer, and for any reason returned to and accepted by the importer, or the person who received the merchandise from the importer, and
 
 &emsp;&emsp;(D) which, within 5 years after the date of importation or withdrawal, as applicable, has been exported or destroyed under the supervision of U.S. Customs and Border Protection,
 
@@ -120,7 +120,7 @@ A person claiming drawback under this section based on the exportation of an art
 
 > then upon such exportation or destruction an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback. The exporter (or destroyer) has the right to claim drawback under this paragraph, but may endorse such right to the importer or any intermediate party.
 
-(2) Subject to paragraphs (4), (5), and (6), if there is, with respect to imported merchandise on which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
+(2) Subject to paragraphs (4), (5), and (6), if there is, with respect to imported merchandiseon which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, any other merchandise (whether imported or domestic), that—
 
 &emsp;(A) is classifiable under the same 8-digit HTS subheading number as such imported merchandise;
 
@@ -134,7 +134,7 @@ A person claiming drawback under this section based on the exportation of an art
 
 &emsp;&emsp;&emsp;(I) is the importer of the imported merchandise, or
 
-&emsp;&emsp;&emsp;(II) received the imported merchandise, other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, or any combination of such imported merchandise and such other merchandise, directly orindirectly from the person who imported and paid any duties, taxes, and fees imposed under Federal law upon importation or entry and due on the imported merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
+&emsp;&emsp;&emsp;(II) received the imported merchandise, other merchandise classifiable under the same 8-digit HTS subheading number as such imported merchandise, or any combination of such imported merchandise and such other merchandise, directly or indirectly from the person who imported and paid any duties, taxes, and fees imposed under Federal law upon importation or entry and due on the imported merchandise (and any such transferred merchandise, regardless of its origin, will be treated as the imported merchandise and any retained merchandise will be treated as domestic merchandise);
 
 > then, notwithstanding any other provision of law, upon the exportation or destruction of such other merchandise an amount calculated pursuant to regulations prescribed by the Secretary of the Treasury under subsection (l) shall be refunded as drawback. Notwithstanding subparagraph (A), drawback shall be allowed under this paragraph with respect to wine if the imported wine and the exported wine are of the same color and the price variation between the imported wine and the exported wine does not exceed 50 percent. Transfers of merchandise may be evidenced by business records kept in the normal course of business and no additional certificates of transfer shall be required.
 
@@ -196,7 +196,7 @@ A person claiming drawback under this section based on the exportation of an art
 
 #### (B) Claims with respect to unused merchandise
 
-&emsp;&emsp;The regulations required by subparagraph (A) for determining the calculation ofamounts refunded as drawback under this section shall provide for a refund of equal to 99 percent of the duties, taxes, and fees paid on the imported merchandise, which were imposed under Federal law upon entry or importation of the imported merchandise, and may require the claim to be based upon the average per unit duties, taxes, and fees as reported on the entry summary line item or, if not reported on the entry summary line item, as otherwise allocated by U.S. Customs and Border Protection, except that where there is substitution of the merchandise, then—
+&emsp;&emsp;The regulations required by subparagraph (A) for determining the calculation of amounts refunded as drawback under this section shall provide for a refund of equal to 99 percent of the duties, taxes, and fees paid on the imported merchandise, which were imposed under Federal law upon entry or importation of the imported merchandise, and may require the claim to be based upon the average per unit duties, taxes, and fees as reported on the entry summary line item or, if not reported on the entry summary line item, as otherwise allocated by U.S. Customs and Border Protection, except that where there is substitution of the merchandise, then—
 
 &emsp;&emsp;&emsp;(i) in the case of an article that is exported, the amount of the refund shall be equal to 99 percent of the lesser of—
 
@@ -248,7 +248,7 @@ A person claiming drawback under this section based on the exportation of an art
 
 #### (m) Source of payment
 
-Any drawback of duties that may be authorized under the provisions of this chapter shall be paid from the customs receipts of Puerto Rico, if the duties were originally paid into the Treasury of Puerto Rico.
+Any drawback of duties that may be authorized under the provisions of this chapter shall bepaid from the customs receipts of Puerto Rico, if the duties were originally paid into the Treasury of Puerto Rico.
 
 #### (n) Refunds, waivers, or reductions under certain free trade agreements
 
@@ -262,7 +262,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;(D) the term "good subject to Chile FTA drawback" has the meaning given that term in section 203(a) of the United States-Chile Free Trade Agreement Implementation Act.
 
-(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may berefunded, waived, or reduced in an amount that exceeds the lesser of—
+(2) For purposes of subsections (a), (b), (f), (h), (p), and (q), if an article that is exported to a USMCA country is a good subject to USMCA drawback, no customs duties on the good may be refunded, waived, or reduced in an amount that exceeds the lesser of—
 
 &emsp;(A) the total amount of customs duties paid or owed on the good on importation into the United States, or
 
@@ -344,7 +344,7 @@ Any drawback of duties that may be authorized under the provisions of this chapt
 
 &emsp;&emsp;(C) In the case of the requirement of subparagraph (A)(i) or (A)(ii), the exported article is exported during the period that the qualified article described in subparagraph (A)(i) or (A)(ii) (whichever is applicable) is manufactured or produced, or within 180 days after the close of such period.
 
-&emsp;&emsp;(D) In the case of the requirement of subparagraph (A)(i) or (A)(ii), the specific petroleum refinery or production facility whichmade the qualified article concerned is identified.
+&emsp;&emsp;(D) In the case of the requirement of subparagraph (A)(i) or (A)(ii), the specific petroleum refinery or production facility which made the qualified article concerned is identified.
 
 &emsp;&emsp;(E) In the case of the requirement of subparagraph (A)(iii) or (A)(iv), the exported article is exported within 180 days after the date of entry of an imported qualified article described in subparagraph (A)(iii) or (A)(iv) (whichever is applicable).
 
@@ -504,6 +504,8 @@ In this section:
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 203(a) of the United States-Chile Free Trade Agreement Implementation Act, referred to in subsecs. (j)(4)(B), (n)(1)(D), and (o)(3)(B), is section 203(a) of Pub. L. 108–77, which is set out in a note under section 3805 of this title.
@@ -520,7 +522,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, O, 38 Stat. 200, which was superseded by act Sept. 21, 1922, ch. 356, title III, §313, 42 Stat. 940, and repealed by section 321 thereof. Section 313 of the 1922 act was superseded by section 313 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36 Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended by act Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
+Earlier provisions relating to this subject were made by the Tariff Acts of Oct. 1, 1890, ch. 1244, §25, 26 Stat. 617; Aug. 27, 1894, ch. 349, §22, 28 Stat. 551; July 24, 1897, ch. 11, §30, 30 Stat. 211; and Aug. 5, 1909, ch. 6, §25, 36 Stat. 90, which superseded provisions of a similar nature contained in R.S. §§3019, 3020, 3026, as amended byact Mar. 10, 1880, ch. 37, 21 Stat. 67, and said sections 3019, 3020, and 3026, were also repealed by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
 The provisions of section IV, O, of the act of 1913, similar to subdivision (g) of this section concerning materials used in the construction and equipment of vessels built for foreign account, superseded a similar provision of act June 26, 1884, ch. 121, §17, 23 Stat. 57.
 
@@ -716,7 +718,7 @@ Pub. L. 103–465, §404(e)(5)(A), added subsec. (w).
 
 Subsec. (b). Pub. L. 103–182, §632(a)(2), substituted "any other merchandise (whether imported or domestic)" for "duty-free or domestic merchandise", inserted ", or destruction under customs supervision," after "there shall be allowed upon the exportation", substituted "production of the exported or destroyed articles" for "production of the exported articles", inserted ", but only if those articles have not been used prior to such exportation or destruction" after "merchandise used therein been imported" and "or destruction under customs supervision" after "but the total amount of drawback allowed upon the exportation".
 
-Subsec. (c). Pub. L. 103–182, §632(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Upon the exportation of merchandise not conforming to sample or specifications or shipped without the consent of the consignee upon which the duties have been paid and which have been entered or withdrawn for consumption and, within ninety days after release from customs custody, unless the Secretary authorizes in writing a longer time, returned to customs custody for exportation, the full amount of the duties paid upon such merchandise shall be refunded as drawback, less 1 per centum of such duties."
+Subsec. (c). Pub. L. 103–182, §632(a)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Upon the exportation of merchandise not conforming to sample or specifications or shipped without the consent of the consignee upon which the duties have been paid and which have been entered or withdrawn for consumption and, within ninety days after release from customs custody, unless the Secretary authorizes in writing a longer time, returned to customs custody for exportation, the full amount of the dutiespaid upon such merchandise shall be refunded as drawback, less 1 per centum of such duties."
 
 Subsec. (j). Pub. L. 103–182, §203(c)(1), (2), substituted "Subject to paragraph (4), if" for "If" in par. (2) and added par. (4). See Construction of 1993 Amendment note below.
 
@@ -732,7 +734,7 @@ Subsecs. (q) to (v). Pub. L. 103–182, §632(a)(7), added subsecs. (q) to (v).
 
 <b>1990</b>—Subsec. (n). Pub. L. 101–382, §134(a)(1), inserted ", except an article" before "made from" and substituted comma for "of 1988" before "does not".
 
-Subsec. (o). Pub. L. 101–382, §134(a)(2), inserted at end "This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the dateproclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988)."
+Subsec. (o). Pub. L. 101–382, §134(a)(2), inserted at end "This subsection shall apply to vessels delivered to Canadian account or owner, or to the Government of Canada, on and after January 1, 1994 (or, if later, the date proclaimed by the President under section 204(b)(2)(B) of the United States-Canada Free-Trade Agreement Implementation Act of 1988)."
 
 Subsec. (p). Pub. L. 101–382, §484A(a), added subsec. (p).
 
@@ -767,6 +769,8 @@ Subsec. (i). Act Aug. 8, 1953, §12(c), broadened the authority of the Secretary
 <b>1951</b>—Subsec. (b). Act Aug. 8, 1951, extended the provisions of such subsection to flaxseed and linseed, and flaxseed and linseed oil, and omitted "(or shipment to the Philippine Islands)" before "of any such articles".
 
 <b>1936</b>—Subsec. (d). Act June 26, 1936, inserted second par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -864,7 +868,7 @@ Pub. L. 106–36, title II, §2420(e), June 25, 1999, 113 Stat. 179, provided th
 
 Pub. L. 103–465, title IV, §404(e)(5)(B), Dec. 8, 1994, 108 Stat. 4961, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect on the earlier of the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\] or January 1, 1995."
 
-Pub. L. 103–465, title IV, §422(e), Dec. 8, 1994, 108 Stat. 4965, provided that: "This section \[amending this section and sections 1314i and 1445 of Title 7, Agriculture, and enacting provisions set out as a note under section 1445 of Title 7\] and the amendments made by this section shall be effective beginning on the effective date of the Presidential proclamation, authorized under section 421 \[set out as a note under section 2135 of this title\], establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco."
+Pub. L. 103–465, title IV, §422(e), Dec. 8, 1994, 108 Stat. 4965, provided that: "This section \[amending this section and sections 1314i and 1445 of Title 7, Agriculture, and enacting provisions set out as a note under section 1445 of Title 7\] and the amendments made by this section shall be effective beginning on the effective date of the Presidential proclamation, authorized under section 421 \[set out as a note under section 2135 of thistitle\], establishing a tariff-rate quota pursuant to Article XXVIII of the GATT 1947 or the GATT 1994 with respect to tobacco."
 
 \[Proc. No. 6821, Sept. 12, 1995, 60 F.R. 47663, effective Sept. 13, 1995, established tariff-rate quotas on certain tobacco.\]
 
@@ -916,9 +920,13 @@ Amendment by section 203(c) of Pub. L. 103–182 to be made after amendment by s
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
-
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 

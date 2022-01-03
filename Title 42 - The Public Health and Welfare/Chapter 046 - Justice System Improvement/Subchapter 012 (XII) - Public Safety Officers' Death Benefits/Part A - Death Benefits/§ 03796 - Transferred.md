@@ -1,5 +1,7 @@
 ### §3796. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3796 was editorially reclassified as section 10281 of Title 34, Crime Control and Law Enforcement.

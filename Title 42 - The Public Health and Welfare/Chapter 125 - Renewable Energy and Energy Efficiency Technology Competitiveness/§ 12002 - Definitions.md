@@ -32,9 +32,11 @@ As used in this chapter—
 
 (Pub. L. 101–218, §3, Dec. 11, 1989, 103 Stat. 1859; Pub. L. 102–486, title XII, §1202(d)(4), Oct. 24, 1992, 106 Stat. 2960.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in introductory provisions and pars. (1) and (4), was in the original "this Act",meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
+This chapter, referred to in introductory provisions and pars. (1) and (4), was in the original "this Act", meaning Pub. L. 101–218, Dec. 11, 1989, 103 Stat. 1859, known as the Renewable Energy and Energy Efficiency Technology Competitiveness Act of 1989, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12001 of this title and Tables.
 
 The Plant Variety Protection Act, referred to in par. (1), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2321 of Title 7 and Tables.
 

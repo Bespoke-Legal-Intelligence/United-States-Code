@@ -32,7 +32,7 @@ The President may delegate all or any portion of the authority granted to him un
 
 #### (1) Defenses
 
-&emsp;There shall be available as a defense for any person to civil or criminal action brought forviolation of the Federal antitrust laws (or any similar law of any State) with respect to any action taken, or meeting held, pursuant to any order of the President under section 3363(b), (c), (d), or (i) of this title, or any meeting held pursuant to a request of the President under section 3363(g) of this title, if—
+&emsp;There shall be available as a defense for any person to civil or criminal action brought for violation of the Federal antitrust laws (or any similar law of any State) with respect to any action taken, or meeting held, pursuant to any order of the President under section 3363(b), (c), (d), or (i) of this title, or any meeting held pursuant to a request of the President under section 3363(g) of this title, if—
 
 &emsp;&emsp;(A) such action was taken or meeting held solely for the purpose of complying with the President's request or order;
 
@@ -63,6 +63,8 @@ There shall be available as a defense to any action brought for breach of contra
 Any order issued pursuant to this subchapter shall preempt any provision of any program for the allocation, emergency delivery, transportation, or purchase of natural gas established by any State or local government if such program is in conflict with any such order.
 
 (Pub. L. 95–621, title III, §304, Nov. 9, 1978, 92 Stat. 3387.)
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12235. Assignment of Management Responsibility in Cases of Natural Gas Emergencies
 

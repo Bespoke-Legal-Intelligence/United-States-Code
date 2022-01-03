@@ -46,6 +46,8 @@ Except as provided in subsection (d)(3) and section 4613(g) of this title, on th
 
 (Pub. L. 98–590, §13, Oct. 30, 1984, 98 Stat. 3123; Pub. L. 101–624, title XIX, §1985, Nov. 28, 1990, 104 Stat. 3907; Pub. L. 105–185, title VI, §605(l), June 23, 1998, 112 Stat. 601.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) authorized Secretary to terminate or suspend order, in subsec. (b) provided for conducting of referendum every five years and alternative first referendum, in subsec. (c) provided for referendum upon request of Honey Board or petition of ten percent or more of producers and importers, and in subsec. (d) directed termination or suspension of order where favored by majority voting in referendum and majority produce and import more than 50 percent of volume of honey of those voting.

@@ -20,9 +20,11 @@ For the purpose of this Act—
 
 (4) The term "special packaging" means packaging that is designed or constructed to be significantly difficult for children under five years of age to open or obtain a toxic or harmful amount of the substance contained therein within a reasonable time and not difficult for normal adults to use properly, but does not mean packaging which all such children cannot open or obtain a toxic or harmful amount within a reasonable time.
 
-(5) The term "labeling" means all labels and other written, printed, or graphic matter (A) upon any household substance or its package, or (B) accompanying such substance.
+(5) The term "labeling" means all labels and other written, printed, or graphic matter (A)upon any household substance or its package, or (B) accompanying such substance.
 
 (Pub. L. 91–601, §2, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–516, §3(2), Oct. 21, 1972, 86 Stat. 998; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 94–284, §3(a), May 11, 1976, 90 Stat. 503.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -34,6 +36,8 @@ This Act, referred to in text, means Pub. L. 91–601 which enacted this chapter
 
 <b>1972</b>—Par. (2)(B). Pub. L. 92–516 substituted "a pesticide" for "an economic poison".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1972 Amendment
 
 For effective date of amendment by Pub. L. 92–516, see section 4 of Pub. L. 92–516, set out as an Effective Date note under section 136 of Title 7, Agriculture.
@@ -44,7 +48,7 @@ Pub. L. 91–601, §8, formerly §9, Dec. 30, 1970, 84 Stat. 1674, as amended by
 
 #### Short Title of 2016 Amendment
 
-Pub. L. 114–116, §1, Jan. 28, 2016, 130 Stat. 3, provided that: "This Act \[enacting section 1472a of this title and provisions set out as a note under section 1472a of thistitle\] may be cited as the 'Child Nicotine Poisoning Prevention Act of 2015'."
+Pub. L. 114–116, §1, Jan. 28, 2016, 130 Stat. 3, provided that: "This Act \[enacting section 1472a of this title and provisions set out as a note under section 1472a of this title\] may be cited as the 'Child Nicotine Poisoning Prevention Act of 2015'."
 
 #### Short Title
 

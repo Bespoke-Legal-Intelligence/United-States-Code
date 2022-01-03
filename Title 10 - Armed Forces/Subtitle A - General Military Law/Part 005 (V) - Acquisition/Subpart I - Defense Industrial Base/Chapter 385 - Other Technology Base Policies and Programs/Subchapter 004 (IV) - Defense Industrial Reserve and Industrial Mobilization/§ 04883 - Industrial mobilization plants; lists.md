@@ -14,9 +14,17 @@ Conversion Plans.—The Secretary of Defense may prepare comprehensive plans for
 
 (Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1705, §2539; renumbered §4883, Pub. L. 116–283, div. A, title XVIII, §1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4286.)
 
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 4502(a)–(c) and 9502(a)–(c) of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2539 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

@@ -56,9 +56,11 @@ In this part:
 
 #### (10) United States
 
-&emsp;The term "United States", in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the VirginIslands of the United States, and any other territory or possession of the United States.
+&emsp;The term "United States", in a geographical sense, means the 50 States, the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and any other territory or possession of the United States.
 
 (Pub. L. 113–79, title I, §1401, Feb. 7, 2014, 128 Stat. 688; Pub. L. 115–123, div. F, §60101(b)(1)(A), Feb. 9, 2018, 132 Stat. 311; Pub. L. 115–334, title I, §§1401(k)(2), 1404(b)(2), Dec. 20, 2018, 132 Stat. 4516, 4521.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Pars. (7), (8). Pub. L. 115–334, §1401(k)(2)(B), substituted "dairy margin co
 Pub. L. 115–123, §60101(b)(1)(A)(ii), redesignated pars. (8) and (9) as (7) and (8), respectively. Former par. (7) redesignated (6).
 
 Pars. (9) to (11). Pub. L. 115–123, §60101(b)(1)(A)(ii), redesignated pars. (10) and (11) as (9) and (10), respectively. Former par. (9) redesignated (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

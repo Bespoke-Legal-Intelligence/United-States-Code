@@ -150,7 +150,7 @@ Schedule I
 
 &emsp;(42) Trimeperidine.
 
-(b) Unless specifically excepted or unless listed in another schedule, any of the followingopium derivatives, their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
+(b) Unless specifically excepted or unless listed in another schedule, any of the following opium derivatives, their salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible within the specific chemical designation:
 
 &emsp;(1) Acetorphine.
 
@@ -376,7 +376,7 @@ Schedule III
 
 &emsp;(1) Any substance which contains any quantity of a derivative of barbituric acid, or any salt of a derivative of barbituric acid.
 
-&emsp;(2) Chorhexadol.
+&emsp;(2) Chorhexadol. <sup>4</sup>
 
 &emsp;(3) Glutethimide.
 
@@ -406,7 +406,7 @@ Schedule III
 
 &emsp;(4) Not more than 300 milligrams of dihydrocodeinone per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
-&emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not morethan 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
+&emsp;(5) Not more than 1.8 grams of dihydrocodeine per 100 milliliters or not more than 90 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
 &emsp;(6) Not more than 300 milligrams of ethylmorphine per 100 milliliters or not more than 15 milligrams per dosage unit, with one or more active, nonnarcotic ingredients in recognized therapeutic amounts.
 
@@ -541,4 +541,6 @@ Provision of section 102(c) of Pub. L. 95–633, set out above, effective on the
 <i><sup>2</sup></i><i> So in original. Probably should be "Alphacetylmethadol."</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>4</sup></i><i> So in original. Probably should be "Chlorhexadol."</i>
 

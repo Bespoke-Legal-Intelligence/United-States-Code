@@ -2,7 +2,7 @@
 
 (a)
 
-General.—The Secretary of Transportation shall provide financial assistance to a State, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to part A of subtitle IV of this title maintains a rail line in the State. The assistance is for the cost of—
+General.—The Secretary of Transportation shall provide financial assistance to aState, as provided under this chapter, for a rail freight assistance project of the State when a rail carrier subject to part A of subtitle IV of this title maintains a rail line in the State. The assistance is for the cost of—
 
 &emsp;(1) acquiring, in any way the State considers appropriate, an interest in a rail line or rail property to maintain existing, or to provide future, rail freight transportation, but only if the Surface Transportation Board has authorized, or exempted from the requirements of that authorization, the abandonment of, or the discontinuance of rail transportation on, the rail line related to the project;
 
@@ -78,9 +78,13 @@ In subsection (c)(1), before clause (A), the words "Assistance for a project sha
 
 In subsection (c)(2), the words "If the rail carrier that provided the transportation on the rail line" are substituted for "In a case where the railroad", and the words "information required by the certification under paragraph (1)(A) of this subsection" are substituted for "such information", for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "part A of subtitle IV" for "subchapter I of chapter 105" in introductory provisions and "Surface Transportation Board" for "Interstate Commerce Commission" in par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

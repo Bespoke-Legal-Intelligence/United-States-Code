@@ -1,6 +1,6 @@
 ### §5304a. Authority to fix an alternative level of comparability payments
 
-(a) If, because of national emergency or serious economic conditions affecting the generalwelfare, the President should consider the level of comparability payments which would otherwise be payable under section 5304 in any year to be inappropriate, the President shall—
+(a) If, because of national emergency or serious economic conditions affecting the general welfare, the President should consider the level of comparability payments which would otherwise be payable under section 5304 in any year to be inappropriate, the President shall—
 
 &emsp;(1) prepare and transmit to Congress, at least 1 month before those comparability payments (disregarding this section) would otherwise become payable, a report describing the alternative level of payments which the President instead intends to provide, including the reasons why such alternative level is considered necessary; and
 
@@ -32,7 +32,7 @@ Pub. L. 101–509, title VI, §634, Nov. 5, 1990, 104 Stat. 1482, provided that:
 
 &emsp;" '(A) the "threshold amount" is $1,800,000,000; and
 
-&emsp;" '(B) "severe economic conditions" shall be considered to exist relative to comparability payments scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters before such date, there occurred 2 consecutive quarters of negative growth in the GNP.
+&emsp;" '(B) "severe economic conditions" shall be considered to exist relative to comparability payments scheduled to take effect on a given date if, during the 12-month period ending 2 calendar quarters beforesuch date, there occurred 2 consecutive quarters of negative growth in the GNP.
 
 " '(2) Authority under this section to provide an alternative level of comparability payments in any year may not be exercised except in accordance with the following:
 

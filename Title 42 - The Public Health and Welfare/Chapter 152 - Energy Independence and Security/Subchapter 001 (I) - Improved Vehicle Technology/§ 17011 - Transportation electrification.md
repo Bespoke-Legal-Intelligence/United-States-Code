@@ -132,7 +132,7 @@ In this section:
 
 #### (2) Electric vehicle competition
 
-&emsp;The program established under paragraph (1) shall include a plug-in hybrid electric vehicle competition for institutions of higher education, which shall be known as the "Dr. Andrew Frank Plug-In Electric Vehicle Competition".
+&emsp;The program established under paragraph (1) shall include a plug-in hybrid electric vehiclecompetition for institutions of higher education, which shall be known as the "Dr. Andrew Frank Plug-In Electric Vehicle Competition".
 
 #### (3) Engineers
 
@@ -147,6 +147,8 @@ In this section:
 &emsp;There are authorized to be appropriated such sums as may be necessary to carry out this subsection.
 
 (Pub. L. 110–140, title I, §131, Dec. 19, 2007, 121 Stat. 1508.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

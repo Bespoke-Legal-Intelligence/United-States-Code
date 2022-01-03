@@ -16,7 +16,7 @@
 
 #### (3) Biennial registration renewal
 
-&emsp;During the period beginning on October 1 and ending on December 31 of each even-numbered year, a registrant that has submitted a registration under paragraph (1) shall submit to the Secretary a renewal registration containing the information described in paragraph (2). The Secretary shall provide for an abbreviated registration renewal process for any registrant that has not had any changes to such information since the registrant submitted the preceding registration or registration renewal for the facility involved.
+&emsp;During the period beginning on October 1 and ending on December 31 of each even-numbered year, a registrant that has submitted a registration under paragraph (1) shall submit to the Secretary a renewal registration containing the information described in paragraph (2). The Secretary shall provide for anabbreviated registration renewal process for any registrant that has not had any changes to such information since the registrant submitted the preceding registration or registration renewal for the facility involved.
 
 #### (4) Procedure
 
@@ -40,7 +40,7 @@
 
 #### (2) Hearing on suspension
 
-&emsp;The Secretary shall provide the registrant subject to an order under paragraph (1) with an opportunity for an informal hearing, to be held as soon as possible but not later than 2 business days after the issuance of the order or such other time period, as agreed upon by the Secretary and the registrant, on the actionsrequired for reinstatement of registration and why the registration that is subject to suspension should be reinstated. The Secretary shall reinstate a registration if the Secretary determines, based on evidence presented, that adequate grounds do not exist to continue the suspension of the registration.
+&emsp;The Secretary shall provide the registrant subject to an order under paragraph (1) with an opportunity for an informal hearing, to be held as soon as possible but not later than 2 business days after the issuance of the order or such other time period, as agreed upon by the Secretary and the registrant, on the actions required for reinstatement of registration and why the registration that is subject to suspension should be reinstated. The Secretary shall reinstate a registration if the Secretary determines, based on evidence presented, that adequate grounds do not exist to continue the suspension of the registration.
 
 #### (3) Post-hearing corrective action plan; vacating of order
 

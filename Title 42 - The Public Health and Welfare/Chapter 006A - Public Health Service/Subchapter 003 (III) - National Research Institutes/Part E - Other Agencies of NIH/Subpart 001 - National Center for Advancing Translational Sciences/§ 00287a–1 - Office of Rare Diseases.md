@@ -14,7 +14,7 @@ There is established within the Center an office to be known as the Office of Ra
 
 &emsp;&emsp;(B) The Director shall, with respect to rare diseases, promote coordination and cooperation among the national research institutes and centers and entities whose research is supported by such institutes.
 
-&emsp;&emsp;(C) The Director, in collaboration with the directors of the other relevant institutes and centers of the National Institutes of Health, may enter into cooperative agreements with and make grants for regional centers of excellence on rare diseases in accordance with section 287a–2 of this title.
+&emsp;&emsp;(C) The Director, in collaboration with the directors of the other relevant institutes andcenters of the National Institutes of Health, may enter into cooperative agreements with and make grants for regional centers of excellence on rare diseases in accordance with section 287a–2 of this title.
 
 &emsp;&emsp;(D) The Director shall promote the sufficient allocation of the resources of the National Institutes of Health for conducting and supporting research on rare diseases.
 
@@ -29,6 +29,8 @@ There is established within the Center an office to be known as the Office of Ra
 For purposes of this section, the term "rare disease" means any disease or condition that affects less than 200,000 persons in the United States.
 
 (July 1, 1944, ch. 373, title IV, §481, formerly §404F, as added Pub. L. 107–280, §3, Nov. 6, 2002, 116 Stat. 1989; amended Pub. L. 109–482, title I, §§103(b)(5), 104(b)(1)(B), Jan. 15, 2007, 120 Stat. 3687, 3693; renumbered §481 and amended Pub. L. 112–74, div. F, title II, §221(c)(2)(A), Dec. 23, 2011, 125 Stat. 1089.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -51,6 +53,8 @@ Subsec. (b)(1)(C). Pub. L. 112–74, §221(c)(2)(A)(iii), substituted "287a–2"
 "(G) The Director shall prepare the NIH Director's annual report to Congress on rare disease research conducted by or supported through the national research institutes and centers."
 
 Subsec. (d). Pub. L. 109–482, §103(b)(5), struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $4,000,000 for each of the fiscal years 2003 through 2006."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -10,6 +10,8 @@ Subsection (a) shall apply to only such part of the value of the annuity or othe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 384; Pub. L. 85–866, title I, §§23(e), 67(a), Sept. 2, 1958, 72 Stat. 1622, 1658; Pub. L. 87–792, §7(i), Oct. 10, 1962, 76 Stat. 830; Pub. L. 89–365, §2(a), Mar. 8, 1966, 80 Stat. 33; Pub. L. 91–172, title I, §101(j)(23), Dec. 30, 1969, 83 Stat. 528; Pub. L. 92–580, §2(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 93–406, title II, §2007(b)(4), Sept. 2, 1974, 88 Stat. 994; Pub. L. 94–455, title XX, §2009(c)(1)–(3), Oct. 4, 1976, 90 Stat. 1894, 1895; Pub. L. 95–600, title I, §§142(a), (b), 156(c)(4), title VII, §702(j)(1), Nov. 6, 1978, 92 Stat. 2796, 2803, 2931; Pub. L. 96–222, title I, §101(a)(8)(B), Apr. 1, 1980, 94 Stat. 201; Pub. L. 97–34, title III, §§311(d)(1), (h)(4), 313(b)(3), Aug. 13, 1981, 95 Stat. 280, 282, 286; Pub. L. 97–248, title II, §245(a), (b), Sept. 3, 1982, 96 Stat. 524; Pub. L. 97–448, title I, §103(c)(9), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(34), title V, §525(a), July 18, 1984, 98 Stat. 851, 873; Pub. L. 99–514, title XVIII, §§1848(d), 1852(e)(1)(A), Oct. 22, 1986, 100 Stat. 2857, 2868.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514, §1852(e)(1), struck out subsec. (c) which provided an exclusion from gross estate of certain annuity interests created by community property laws.
@@ -60,13 +62,15 @@ Subsec. (e). Pub. L. 94–455, §2009(c)(1), added subsec. (e).
 
 <b>1969</b>—Subsec. (c)(3). Pub. L. 91–172 substituted "section 170(b)(1)(A)(ii) or (vi), or which is a religious organization (other than a trust)," for "section 503(b) (1), (2), or (3),".
 
-<b>1966</b>—Subsec. (c). Pub. L. 89–365 added par. (4), inserted reference to chapter 73 of title 10 of the United States Code in the enumeration of the plans and contracts set out in the prohibition against allowance of exclusion for that part of the value of the amount payable under the plan or contract in the proportion that the total payments or contributions made by the decedent bear to the total payments or contributions made, and provided that, for purposes of this section, amounts payable under chapter 73 of title 10 are attributable to payments or contributions made by the decedent only to the extent of amounts deposited by him pursuant to section 1438 of title 10.
+<b>1966</b>—Subsec. (c). Pub. L. 89–365 added par. (4), inserted reference to chapter 73 of title 10 of the United States Code in the enumeration of the plans and contracts set out in the prohibition against allowance of exclusion for that part of the value of the amount payable under the plan or contract in the proportion that the total payments or contributions made by the decedent bear to the total payments or contributions made,and provided that, for purposes of this section, amounts payable under chapter 73 of title 10 are attributable to payments or contributions made by the decedent only to the extent of amounts deposited by him pursuant to section 1438 of title 10.
 
 <b>1962</b>—Subsec. (c). Pub. L. 87–792 substituted "was a plan described in section 403(a)" for "met the requirements of section 401(a)(3), (4), (5), and (6)" in par. (2), and inserted sentence providing, for purposes of this subsection, that contributions or payments on behalf of the decedent while he was an employee within the meaning of section 401(c)(1) made under a trust or plan described in paragraph (1) or (2) shall be considered to be contributions or payments made by the decedent.
 
 <b>1958</b>—Subsec. (c)(2). Pub. L. 85–866, §67(a), inserted "(4), (5), and (6)" after "section 401(a)(3)".
 
 Subsec. (c)(3) and closing sentences. Pub. L. 85–866, §23(e), added par. (3), inserted "or under contract described in paragraph (3)" in second sentence of subsec. (c) and substituted "paragraph (1) or (2) shall not be considered to be contributed by the decedent, and contributions or payments made by the decedent's employer or former employer toward the purchase of an annuity contract described in paragraph (3) shall, to the extent excludable from gross income under section 403(b)," for "this subsection shall" in third sentence of subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -138,7 +142,7 @@ Amendment by Pub. L. 93–406 applicable to taxable years ending on or after Sep
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–580, §2(b), Oct. 27, 1972, 86 Stat. 1276, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendment made by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act."
+Pub. L. 92–580, §2(b), Oct. 27, 1972, 86 Stat. 1276, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to estate of decedents for which the period prescribed by the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] for filing of a claim for credit or refund of an overpayment of estate tax ends on or after the date of enactment of this Act \[Oct. 27, 1972\]. No interest shall be allowed or paid on any overpayment of estate tax resulting from the application of the amendmentmade by subsection (a) for any period prior to the expiration of the one hundred and eightieth day following the date of the enactment of this Act."
 
 #### Effective Date of 1969 Amendment
 

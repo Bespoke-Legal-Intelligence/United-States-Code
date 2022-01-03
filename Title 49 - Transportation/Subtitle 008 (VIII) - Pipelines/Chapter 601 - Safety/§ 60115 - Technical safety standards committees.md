@@ -8,7 +8,7 @@ Organization.—The Technical Pipeline Safety Standards Committee and the Techni
 
 Composition and Appointment.—(1) The Technical Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary of Transportation after consulting with public and private agencies concerned with the technical aspect of transporting gas or operating a gas pipeline facility. Each member must be experienced in the safety regulation of transporting gas and of gas pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting gas or operating a gas pipeline facility, to evaluate gas pipeline safety standards or risk management principles.
 
-(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field ofengineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
+(2) The Technical Hazardous Liquid Pipeline Safety Standards Committee is composed of 15 members appointed by the Secretary after consulting with public and private agencies concerned with the technical aspect of transporting hazardous liquid or operating a hazardous liquid pipeline facility. Each member must be experienced in the safety regulation of transporting hazardous liquid and of hazardous liquid pipeline facilities or technically qualified, by training, experience, or knowledge in at least one field of engineering applicable to transporting hazardous liquid or operating a hazardous liquid pipeline facility, to evaluate hazardous liquid pipeline safety standards or risk management principles.
 
 (3) The members of each committee are appointed as follows:
 
@@ -22,7 +22,7 @@ Composition and Appointment.—(1) The Technical Pipeline Safety Standards Commi
 
 (B) At least 3 of the individuals selected for each committee under paragraph (3)(B) of this subsection must be currently in the active operation of natural gas pipelines or hazardous liquid pipeline facilities, as appropriate. At least 1 of the individuals selected for each committee under paragraph (3)(B) shall have education, background, or experience in risk assessment and cost-benefit analysis. The Secretary shall consult with the national organizations representing the owners and operators of pipeline facilities before selecting individuals under paragraph (3)(B).
 
-(C) Two of the individuals selected for each committee under paragraph (3)(C) of this subsection must have education, background, or experience in environmental protection or public safety. At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis. At least one individual selected for each committee under paragraph (3)(C) may not have a financial interest in the pipeline, petroleum, or natural gas industries.
+(C) Two of the individuals selected for each committee under paragraph (3)(C) of this subsection must have education, background, or experience in environmental protection or public safety. At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis. At least one individual selected for each committee under paragraph (3)(C) may not have a financialinterest in the pipeline, petroleum, or natural gas industries.
 
 (D) None of the individuals selected for a committee under paragraph (3)(C) may have a significant financial interest in the pipeline, petroleum, or gas industry.
 
@@ -168,6 +168,8 @@ In subsection (e), the words "(or his designee)" are omitted as surplus because 
 
 In subsection (f), the words "The Secretary may establish the pay" are substituted for "may be compensated at a rate to be fixed by the Secretary" for consistency and to eliminate unnecessary words. The words "of the Committee" after "Members", "actual", and "then currently" are omitted as surplus. The reference to section 5376 of title 5 is substituted for the reference to section 5332 of title 5 because of section 529 of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442). The words "A member is entitled to expenses under section 5703 of title 5" are substituted for 49 App.:1673(c) (2d sentence) and 2003(c) (2d sentence) to eliminate unnecessary words. The words "for any purpose" are omitted as surplus. The words "This subsection does not apply to members regularly employed by the Government" are substituted for "other than Federal employees" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996, referred to in subsec. (a), is the date of enactment of Pub. L. 104–304, which was approved Oct. 12, 1996.
@@ -209,6 +211,8 @@ Expenses" for "
 Pay and Expenses" in heading, struck out "The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5." after heading, and inserted "of a committee under this section" after "A member".
 
 <b>1995</b>—Subsec. (b)(4)(A). Pub. L. 104–88 struck out "(referred to in section 10344(f) of this title)" after "commissions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

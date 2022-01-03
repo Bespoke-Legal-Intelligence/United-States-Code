@@ -24,13 +24,15 @@ The Congress declares that it is the purpose of this subchapter—
 
 &emsp;(2) to evaluate the environmental, social, and economic effects of acid precipitation; and
 
-&emsp;(3) based on the results of the research program established by this subchapter and to the extent consistent with existing law, to take action to the extent necessary and practicable (A) to limit or eliminate the identified emissions which are sources of acid precipitation, and (B) to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation.
+&emsp;(3) based on the results of the research program established by this subchapter and to the extent consistent with existing law, to take action to the extent necessary and practicable\(A) to limit or eliminate the identified emissions which are sources of acid precipitation, and (B) to remedy or otherwise ameliorate the harmful effects which may result from acid precipitation.
 
 #### (c) "Acid precipitation" defined
 
 For purposes of this subchapter the term "acid precipitation" means the wet or dry deposition from the atmosphere of acid chemical compounds.
 
 (Pub. L. 96–294, title VII, §702, June 30, 1980, 94 Stat. 770.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -64,7 +64,7 @@
 
 &emsp;(III) the State has not failed such a review.
 
-(ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, the Secretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
+(ii) If a State with respect to which a reduction is made under this paragraph for a fiscal year with respect to a failure to comply with a subparagraph of section 654(24) of this title achieves compliance with such subparagraph by the beginning of the succeeding fiscal year, theSecretary shall increase the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the succeeding fiscal year by an amount equal to 90 percent of the reduction for the fiscal year.
 
 (iii) The Secretary shall reduce the amount of any reduction that, in the absence of this clause, would be required to be made under this paragraph by reason of the failure of a State to achieve compliance with section 654(24)(B) of this title during the fiscal year, by an amount equal to 20 percent of the amount of the otherwise required reduction, for each State performance measure described in section 658a(b)(4) of this title with respect to which the applicable percentage under section 658a(b)(6) of this title for the fiscal year is 100 percent, if the Secretary has made the determination described in section 658a(b)(5)(B) of this title with respect to the State for the fiscal year.
 
@@ -74,7 +74,7 @@
 
 &emsp;(I) the Secretary determines that a State plan under section 654 of this title would (in the absence of this paragraph) be disapproved for the failure of the State to comply with subparagraphs (A) and (B)(i) of section 654(27) of this title, and that the State has made and is continuing to make a good faith effort to so comply; and
 
-&emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achievesuch compliance, which has been approved by the Secretary,
+&emsp;(II) the State has submitted to the Secretary, not later than April 1, 2000, a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
 > then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 (1) In order to encourage and promote the development and use of more effective methods of enforcing support obligations under this part in cases where either the children on whose behalf the support is sought or their noncustodial parents do not reside in the State where such cases are filed, the Secretary is authorized to make grants, in such amounts and on such terms and conditions as the Secretary determines to be appropriate, to States which propose to undertake new or innovative methods of support collection in such cases and which will use the proceeds of such grants to carry out special projects designed to demonstrate and test such methods.
 
-(2) A grant under this subsection shall be made only upon a finding by the Secretary that the project involved is likely to be of significant assistance in carrying out the purpose of this subsection; and with respect to such project the Secretary may waive any of the requirements of this part which would otherwise be applicable,to such extent and for such period as the Secretary determines is necessary or desirable in order to enable the State to carry out the project.
+(2) A grant under this subsection shall be made only upon a finding by the Secretary that the project involved is likely to be of significant assistance in carrying out the purpose of this subsection; and with respect to such project the Secretary may waive any of the requirements of this part which would otherwise be applicable, to such extent and for such period as the Secretary determines is necessary or desirable in order to enable the State to carry out the project.
 
 (3) At the time of its application for a grant under this subsection the State shall submit to the Secretary a statement describing in reasonable detail the project for which the proceeds of the grant are to be used, and the State shall from time to time thereafter submit to the Secretary such reports with respect to the project as the Secretary may specify.
 
@@ -133,6 +133,8 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
 
 (Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858; Pub. L. 109–171, title VII, §§7308(a), 7309(a), Feb. 8, 2006, 120 Stat. 147.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -216,6 +218,8 @@ Subsecs. (c), (d). Pub. L. 96–265, §§404(a), 407(b), added subsecs. (c) and 
 
 Subsec. (b). Pub. L. 94–88, §205, added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–171, title VII, §7308(b), Feb. 8, 2006, 120 Stat. 147, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply to costs incurred on or after that date."
@@ -296,7 +300,7 @@ Allocation of limitation among states.—The total amount payable to a State or 
 
 "(C)
 
-Allocation formula.—The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 (Public Law 100–485; 102 Stat. 2343) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effect on and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to section 1315(a) of this title\], which shall take into account—
+Allocation formula.—The regulations referred to in subparagraph (B) shall prescribe a formula for allocating the amount specified in subparagraph (A) among States with plans approved under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\], and among systems that have been approved by the Secretary to receive enhanced funding pursuant to the Family Support Act of 1988 (Public Law 100–485; 102 Stat. 2343) for the purpose of developing a system that meets the requirements of sections 454(16) (as in effecton and after September 30, 1995) and 454A \[probably means sections 454(16) and 454A of the Social Security Act which are classified to sections 654(16) and 654a, respectively, of this title\], including systems that have received funding for such purpose pursuant to a waiver under section 1115(a) \[probably means section 1115(a) of the Social Security Act which is classified to section 1315(a) of this title\], which shall take into account—
 
 &emsp;"(i) the relative size of such State and system caseloads under part D of title IV of the Social Security Act \[42 U.S.C. 651 et seq.\]; and
 

@@ -28,7 +28,7 @@ It is the purpose of this subchapter to create a partnership among the Federal G
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 
 #### Short Title
 
@@ -66,7 +66,7 @@ Sec. 4. <i>Membership and Operation of the Working Group</i>.
 
 (ii) the Secretary of the Treasury, the Attorney General, and the Secretaries of the Interior, Labor, Health and Human Services, Housing and Urban Development, and Veterans Affairs; and
 
-(iii) other officers or full-time or permanent part-time employees of the United States, as determined bythe Chair, with the concurrence of the head of the agency concerned.
+(iii) other officers or full-time or permanent part-time employees of the United States, as determined by the Chair, with the concurrence of the head of the agency concerned.
 
 (b) The Chair, or the Chair's designee under subsection (c) of this section, in implementing section 5 of this order, shall convene and preside at the meetings of the Working Group, determine its agenda, direct its work, and establish and direct subgroups of the Working Group, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Working Group or their designees under subsection (c) of this section.
 
@@ -130,7 +130,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 In order to compete in the global economy, the United States needs the most educated workforce in the world. The high-wage jobs of the 21st century will require more knowledge and skills than the jobs of the past. We therefore must develop innovative strategies to train more Americans with the skills that businesses and the economy will need to ensure American competitiveness.
 
-Community colleges are a key part of our education system, providing a flexible and affordable place to sharpen relevant workforce skills and align them with the needs of employers in their communities. Traditional four-year colleges, on-line institutions, and nontraditional educational outlets also can play an essential role in providing training opportunities. To prepare students for 21st-century jobs, these institutions need to develop flexible, affordable, and responsive training programs that meet regional and national economic needs. An important way to ensure that training programs meet such needs is through partnerships between these institutions and labor unions, small businesses, and other regional employers. As educational institutions develop these innovative programs, we should assess what works and what does not, so that we reward excellent outcomes and true innovation that meets the needs of entrepreneurs and other employers in every part of the country, from rural communities to urban centers.
+Community colleges are a key part of our education system, providing a flexible and affordable place tosharpen relevant workforce skills and align them with the needs of employers in their communities. Traditional four-year colleges, on-line institutions, and nontraditional educational outlets also can play an essential role in providing training opportunities. To prepare students for 21st-century jobs, these institutions need to develop flexible, affordable, and responsive training programs that meet regional and national economic needs. An important way to ensure that training programs meet such needs is through partnerships between these institutions and labor unions, small businesses, and other regional employers. As educational institutions develop these innovative programs, we should assess what works and what does not, so that we reward excellent outcomes and true innovation that meets the needs of entrepreneurs and other employers in every part of the country, from rural communities to urban centers.
 
 Therefore, I am establishing a task force to develop skills for America's future by identifying, developing, and increasing the scale of promising approaches to improving the skills of our Nation's workers. By coordinating the work of relevant agencies with that of nonprofits, labor unions, and private sector organizations, and by leveraging the assets of these entities, this effort will build better partnerships between businesses, community colleges, and other training providers to get Americans trained for the jobs of today and tomorrow.
 

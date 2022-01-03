@@ -13,13 +13,17 @@
 | [688a.](%C2%A7%2000688a%20-%20Retired%20members%20temporary%20authority%20to%20order%20to%20active%20duty%20in%20high-demand%2C%20low-density%20assignments.md) | Retired members: temporary authority to order to active duty in high-demand, low-density assignments. |
 | [689\.](%C2%A7%2000689%20-%20Retired%20members%20grade%20in%20which%20ordered%20to%20active%20duty%20and%20upon%20release%20from%20active%20duty.md) | Retired members: grade in which ordered to active duty and upon release from active duty. |
 | [690\.](%C2%A7%2000690%20-%20Retired%20members%20ordered%20to%20active%20duty%20limitation%20on%20number.md) | Retired members ordered to active duty: limitation on number. |
-| [691\.](%C2%A7%2000691%20-%20Permanent%20end%20strength%20levels%20to%20support%20the%20National%20Defense%20Strategy.md) | Permanent end strength levels to support the National Defense Strategy <sup>1</sup> |
+| [691\.](%C2%A7%2000691%20-%20Permanent%20end%20strength%20levels%20to%20support%20the%20National%20Defense%20Strategy.md) | Permanent end strength levels to support the National Defense Strategy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IV, §402(b), Jan. 1, 2021, 134 Stat. 3556, added item 691 and struck out former item 691 "Permanent end strength levels to support two major regional contingencies".
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1081(a)(12), Dec. 27, 2021, 135 Stat. 1920, inserted period at end of item 691.
+
+Pub. L. 116–283, div. A, title IV, §402(b), Jan. 1, 2021, 134 Stat. 3556, added item 691 and struck out former item 691 "Permanent end strength levels to support two major regional contingencies".
 
 <b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1713(b), Dec. 26, 2013, 127 Stat. 964, added item 674.
 
@@ -37,7 +41,7 @@ Pub. L. 104–106, div. A, title IV, §401(b)(2), title XV, §1501(c)(7), Feb. 1
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1061(a)(4)(B), Dec. 5, 1991, 105 Stat. 1472, substituted "Corps" for "Corp" in item 690.
 
-Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferred item 687 "Limitation on dutywith Reserve Officer Training Corp units" to appear after item 689 and redesignated that item as 690.
+Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferred item 687 "Limitation on duty with Reserve Officer Training Corp units" to appear after item 689 and redesignated that item as 690.
 
 <b>1990</b>—Pub. L. 101–510, div. A, title V, §559(a)(2), Nov. 5, 1990, 104 Stat. 1571, added item 687 "Limitation on duty with Reserve Officer Training Corp units".
 
@@ -62,8 +66,6 @@ Pub. L. 102–25, title VII, §701(e)(3), Apr. 6, 1991, 105 Stat. 114, transferr
 <b>1962</b>—Pub. L. 87–651, title I, §102(b), Sept. 7, 1962, 76 Stat. 508, added item 687.
 
 <b>1958</b>—Pub. L. 85–861, §1(16), Sept. 2, 1958, 72 Stat. 1441, added items 684 and 685.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 
 
 ---

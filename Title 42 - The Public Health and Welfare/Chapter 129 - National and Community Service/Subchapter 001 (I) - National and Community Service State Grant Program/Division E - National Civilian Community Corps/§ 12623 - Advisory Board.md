@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-There shall be established a National Civilian Community Corps Advisory Board to advise the Director concerning the administration of this division and to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.
+There shall be established a National Civilian Community Corps Advisory Board to advise the Director concerning the administration of this division and to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization ofvolunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.
 
 #### (b) Membership
 
@@ -42,6 +42,8 @@ Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply
 
 (Pub. L. 101–610, title I, §163, formerly §195L, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §163 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(3), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920; Pub. L. 111–13, title I, §1513, Apr. 21, 2009, 123 Stat. 1527.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -69,6 +71,8 @@ Subsec. (b)(14). Pub. L. 111–13, §1513(2)(A), redesignated par. (9) as (14).
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §403(b), substituted "Director" for "Director of the Civilian Community Corps".
 
 Subsec. (b)(9). Pub. L. 103–82, §402(b)(3), substituted "Chief Executive Officer" for "Chair of the Commission on National and Community Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

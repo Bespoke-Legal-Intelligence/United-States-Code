@@ -2,7 +2,7 @@
 
 The President may appoint, by and with the advice and consent of the Senate, a Deputy Attorney General.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 107–77, title VI, §612(c), Nov. 28, 2001, 115 Stat. 800; Pub. L. 107–273, div. B, title IV, §4004(f), Nov. 2, 2002, 116 Stat. 1812.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 107–77, title VI, §612(c),Nov. 28, 2001, 115 Stat. 800; Pub. L. 107–273, div. B, title IV, §4004(f), Nov. 2, 2002, 116 Stat. 1812.)
 
 Historical and Revision Notes
 

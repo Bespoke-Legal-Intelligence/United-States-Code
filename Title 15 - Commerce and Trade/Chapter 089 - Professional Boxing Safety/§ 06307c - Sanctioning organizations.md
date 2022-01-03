@@ -58,6 +58,8 @@ A sanctioning organization shall not be entitled to receive any compensation, di
 
 (Pub. L. 104–272, §11, as added Pub. L. 106–210, §4(2), May 26, 2000, 114 Stat. 323.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 11 of Pub. L. 104–272 was renumbered section 19 and is classified to section 6310 of this title.

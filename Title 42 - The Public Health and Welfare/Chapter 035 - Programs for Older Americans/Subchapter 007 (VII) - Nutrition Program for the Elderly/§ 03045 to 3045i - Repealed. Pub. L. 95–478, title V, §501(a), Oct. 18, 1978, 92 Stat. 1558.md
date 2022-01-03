@@ -16,9 +16,11 @@ Section 3045f, Pub. L. 89–73, title VII, §707, as added Pub. L. 92–258, §2
 
 Section 3045g, Pub. L. 89–73, title VII, §708, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 94; amended Pub. L. 93–351, §1, July 12, 1974, 88 Stat. 357; Pub. L. 94–135, title I, §§111(e), 112(f), Nov. 28, 1975, 89 Stat. 719, 720, provided for authorization of appropriations. See section 3023 of this title.
 
-Section 3045h, Pub. L. 89–73, title VII, §709, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, concerned with relationship to other laws. See section 3020a(b) of this title.
+Section 3045h, Pub. L. 89–73, title VII, §709, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, concernedwith relationship to other laws. See section 3020a(b) of this title.
 
 Section 3045i, Pub. L. 89–73, title VII, §710, as added Pub. L. 92–258, §2, Mar. 22, 1972, 86 Stat. 95, related to agreements with profitmaking organizations. See section 3020c of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 
@@ -26,5 +28,5 @@ Pub. L. 95–478, title V, §501(a), Oct. 18, 1978, 92 Stat. 1558, provided that
 
 #### Nutrition Projects for Elderly Under Prior Provisions, Qualified Under Successor Provisions, Eligible for Funds Under Such Provisions; Competitive Bidding; Discontinuance of Payments for Ineffective Activities
 
-Pub. L. 95–478, title V, §501(b), Oct. 18, 1978, 92 Stat. 1558, as amended by Pub. L. 97–115, §14(a), Dec. 29, 1981, 95 Stat. 1608; Pub. L. 98–459, title VIII, §801(b), Oct. 9, 1984, 98 Stat. 1792, provided that: "No contract awarded after September 30, 1982, shall be entered into for the provision of nutrition services unless such contract hasbeen awarded through a competitive process. Such process shall include evaluation of each bidder's experience in providing services to older individuals. Whenever there is no evidence of improved quality of service and cost effectiveness on the part of another bidder, a provider of services who received funds under title VII of the Older Americans Act of 1965 \[former sections 3045 to 3045i of this title\] as in effect on September 29, 1978, shall be given preference."
+Pub. L. 95–478, title V, §501(b), Oct. 18, 1978, 92 Stat. 1558, as amended by Pub. L. 97–115, §14(a), Dec. 29, 1981, 95 Stat. 1608; Pub. L. 98–459, title VIII, §801(b), Oct. 9, 1984, 98 Stat. 1792, provided that: "No contract awarded after September 30, 1982, shall be entered into for the provision of nutrition services unless such contract has been awarded through a competitive process. Such process shall include evaluation of each bidder's experience in providing services to older individuals. Whenever there is no evidence of improved quality of service and cost effectiveness on the part of another bidder, a provider of services who received funds under title VII of the Older Americans Act of 1965 \[former sections 3045 to 3045i of this title\] as in effect on September 29, 1978, shall be given preference."
 

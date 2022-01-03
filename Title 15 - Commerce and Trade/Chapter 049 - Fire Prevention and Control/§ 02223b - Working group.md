@@ -22,6 +22,8 @@ For the purpose of carrying out section 2223a of this title, the Administrator s
 
 (Pub. L. 101–446, §3, Oct. 22, 1990, 104 Stat. 1045; Pub. L. 107–296, title XI, §1112(d), Nov. 25, 2002, 116 Stat. 2276.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Firefighters' Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
@@ -29,6 +31,8 @@ Section was enacted as part of the Firefighters' Safety Study Act, and not as pa
 #### Amendments
 
 <b>2002</b>—Par. (1)(E). Pub. L. 107–296 substituted "the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice," for "the Bureau of Alcohol, Tobacco, and Firearms,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

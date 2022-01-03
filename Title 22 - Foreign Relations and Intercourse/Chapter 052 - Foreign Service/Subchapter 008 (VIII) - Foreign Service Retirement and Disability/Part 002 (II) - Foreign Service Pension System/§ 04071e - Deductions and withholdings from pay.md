@@ -53,7 +53,7 @@ Under such regulations as the Secretary of State may issue, amounts deducted und
 
 Subsec. (a)(2)(C). Pub. L. 113–67, §402(b)(2), added subpar. (C).
 
-<b>2012</b>—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted "The applicablepercentage for a participant other than a revised annuity participant" for "The applicable percentage under this subsection", and added subpar. (B).
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted "The applicable percentage for a participant other than a revised annuity participant" for "The applicable percentage under this subsection", and added subpar. (B).
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–228, in table, substituted item relating to applicable percentage after January 11, 2003, for item relating to applicable percentage after December 31, 2000.
 

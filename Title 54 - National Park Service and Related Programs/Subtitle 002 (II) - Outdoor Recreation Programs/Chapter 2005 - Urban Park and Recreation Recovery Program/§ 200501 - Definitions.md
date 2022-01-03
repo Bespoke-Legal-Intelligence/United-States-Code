@@ -42,7 +42,7 @@ Maintenance.—The term "maintenance" means all commonly accepted practices nece
 
 &emsp;(5)
 
-Private, nonprofit agency.—The term "private, nonprofit agency" means a community-based, nonprofit organization, corporation, or association organized for purposes of providing recreational, conservation, and educational services directly to urban residents on a neighborhood or communitywide basis through voluntary donations, voluntary labor, or public or private grants.
+Private, nonprofit agency.—The term "private, nonprofit agency" means a community-based, nonprofit organization, corporation, or association organized for purposes ofproviding recreational, conservation, and educational services directly to urban residents on a neighborhood or communitywide basis through voluntary donations, voluntary labor, or public or private grants.
 
 &emsp;(6)
 

@@ -4,7 +4,7 @@
 
 #### (1) Grants required
 
-&emsp;With funds allocated to carry out this section, the Secretary of Agriculture shall make grants to not fewer than 10 eligible States to plan and administer, in cooperation with persons described in paragraph (2), advisory programs for State agricultural weather information systems.
+&emsp;With funds allocated to carry out this section, the Secretary of Agriculture shall make grants to not fewer than 10 eligible States toplan and administer, in cooperation with persons described in paragraph (2), advisory programs for State agricultural weather information systems.
 
 #### (2) Persons described
 
@@ -30,6 +30,8 @@ To be eligible to receive a grant under this section, the chief executive office
 
 (Pub. L. 101–624, title XVI, §1640, Nov. 28, 1990, 104 Stat. 3749; Pub. L. 107–171, title VII, §7304(b), May 13, 2002, 116 Stat. 455; Pub. L. 110–234, title VII, §7511(c)(19), May 22, 2008, 122 Stat. 1269; Pub. L. 110–246, §4(a), title VII, §7511(c)(19), June 18, 2008, 122 Stat. 1664, 2030.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -39,6 +41,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–246, §7511(c)(19), substituted "the Director of the National Institute of Food and Agriculture" for "the Administrator of the Extension Service, the Administrator of the Cooperative State Research Service".
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–171 struck out "take into consideration the recommendation of the Advisory Board on Agricultural Weather and" before "consult with the Director".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

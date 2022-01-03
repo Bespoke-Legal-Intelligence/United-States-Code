@@ -44,7 +44,9 @@ The Administrator shall ensure that an applicant for disaster assistance receive
 
 &emsp;&emsp;(F) such additional information as is determined necessary by the Administrator.
 
-(Pub. L. 85–536, §2\[38\], as added Pub. L. 110–234, title XII, §12067, May 22, 2008, 122 Stat. 1410, and Pub. L. 110–246, §4(a), title XII, §12067, June 18, 2008, 122 Stat. 1664, 2172; Pub. L. 114–88, div. B, title III, §2303, Nov. 25, 2015, 129 Stat. 696.)
+(Pub. L. 85–536, §2\[38\], as added Pub. L. 110–234, title XII, §12067, May 22, 2008, 122 Stat. 1410, andPub. L. 110–246, §4(a), title XII, §12067, June 18, 2008, 122 Stat. 1664, 2172; Pub. L. 114–88, div. B, title III, §2303, Nov. 25, 2015, 129 Stat. 696.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -53,6 +55,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–88 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

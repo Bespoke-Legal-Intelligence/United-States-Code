@@ -18,7 +18,7 @@
 
 <b>1968</b>—Subsec. (a)(1). Pub. L. 90–448 inserted ", or issuing securities" in first proviso.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–230 inserted "and subjected, by the laws of the United States, or of theState, Territory, or District wherein located, to examination and regulation," after "District," in cl. (2)(A).
+<b>1959</b>—Subsec. (a). Pub. L. 86–230 inserted "and subjected, by the laws of the United States, or of the State, Territory, or District wherein located, to examination and regulation," after "District," in cl. (2)(A).
 
 <b>1935</b>—Subsec. (a). Act Aug. 23, 1935, added two provisos to end of par. (1) and amended par. (2) generally.
 

@@ -52,7 +52,7 @@ Each State shall—
 
 #### (c) Report on number of absentee ballots transmitted and received
 
-Not later than 90 days after the date of each regularly scheduled general election for Federal office, each State and unit of local government which administered the election shall (through the State, in the case of a unit of local government) submit a report to the Election Assistance Commission (established under the Help America Vote Act of 2002 \[52 U.S.C. 20901 et seq.\]) on the combined number of absentee ballots transmitted to absent uniformed services voters and overseas voters for the election and the combined number of such ballots which were returned by such voters and cast in the election, and shall make such report available to the general public.
+Not later than 90 days after the date of each regularly scheduled general election for Federal office, each State and unit of local government which administered the election shall (through the State, in the case of a unit of local government) submit a report to the Election Assistance Commission (established under the Help America Vote Act of 2002 \[52 U.S.C. 20901 et seq.\]) on the combined number of absentee ballots transmitted to absent uniformed services voters and overseas voters for the election andthe combined number of such ballots which were returned by such voters and cast in the election, and shall make such report available to the general public.
 
 #### (d) Registration notification
 
@@ -118,7 +118,7 @@ With respect to each absent uniformed services voter and each overseas voter who
 
 #### (B) Privacy protections
 
-&emsp;&emsp;To the extent practicable, the procedures established under subsection (a)(7) shall ensure that the privacy of the identity and other personal data of an absent uniformed services voter or overseas voter to whom a blank absentee ballot is transmitted under such subsection is protected throughout the process of such transmission.
+&emsp;&emsp;To the extent practicable, the procedures established under subsection (a)(7) shall ensure that the privacy of the identity andother personal data of an absent uniformed services voter or overseas voter to whom a blank absentee ballot is transmitted under such subsection is protected throughout the process of such transmission.
 
 #### (g) Hardship exemption
 
@@ -182,7 +182,7 @@ A State shall not refuse to accept and process any otherwise valid voter registr
 
 &emsp;(3) Restrictions on envelope type, including weight and size.
 
-(Pub. L. 99–410, title I, §102, Aug. 28, 1986, 100 Stat. 925; Pub. L. 107–107, div. A, title XVI, §1606(a)(1), Dec. 28, 2001, 115 Stat. 1278; Pub. L. 107–252, title VII, §§702, 703(a), 705(b)(2), 707, Oct. 29, 2002, 116 Stat. 1723–1725; Pub. L. 108–375, div. A, title V, §566(b), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§577(a), 578(a), 579(a), (b), 580(c), (d), 582(a), 584(b), Oct. 28, 2009, 123 Stat. 2319, 2321–2323, 2325, 2327, 2330.)
+(Pub. L. 99–410, title I, §102, Aug. 28, 1986, 100 Stat. 925; Pub. L. 107–107, div. A, title XVI,§1606(a)(1), Dec. 28, 2001, 115 Stat. 1278; Pub. L. 107–252, title VII, §§702, 703(a), 705(b)(2), 707, Oct. 29, 2002, 116 Stat. 1723–1725; Pub. L. 108–375, div. A, title V, §566(b), Oct. 28, 2004, 118 Stat. 1919; Pub. L. 111–84, div. A, title V, §§577(a), 578(a), 579(a), (b), 580(c), (d), 582(a), 584(b), Oct. 28, 2009, 123 Stat. 2319, 2321–2323, 2325, 2327, 2330.)
 
 #### <b>Editorial Notes</b>
 
@@ -196,7 +196,7 @@ The Help America Vote Act of 2002, referred to in subsec. (c), is Pub. L. 107–
 
 Section was formerly classified to section 1973ff–1 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
-Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), added pars. (6) to (11), respectively, tosubsec. (a) of this section. In making the addition of par. (9) to subsec. (a), section 579(b)(1) of Pub. L. 111–84 directed the striking out of "and" at the end of par. (7), which could not be executed because the word "and" did not appear at the end.
+Pub. L. 111–84, §§577(a)(1), 578(a)(1), 579(a)(1), (b), 580(c), and 584(b), added pars. (6) to (11), respectively, to subsec. (a) of this section. In making the addition of par. (9) to subsec. (a), section 579(b)(1) of Pub. L. 111–84 directed the striking out of "and" at the end of par. (7), which could not be executed because the word "and" did not appear at the end.
 
 #### Amendments
 

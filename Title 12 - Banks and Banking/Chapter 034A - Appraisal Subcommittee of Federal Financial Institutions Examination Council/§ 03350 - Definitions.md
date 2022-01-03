@@ -38,7 +38,7 @@ For purposes of this chapter:
 
 #### (7) Financial institution
 
-&emsp;The term "financial institution" means an insured depository institution as defined in section 1813 of this title or an insured credit union as defined in section 1752 of this title.
+&emsp;The term "financial institution" means an insured depository institution as defined insection 1813 of this title or an insured credit union as defined in section 1752 of this title.
 
 #### (8) Chairperson
 

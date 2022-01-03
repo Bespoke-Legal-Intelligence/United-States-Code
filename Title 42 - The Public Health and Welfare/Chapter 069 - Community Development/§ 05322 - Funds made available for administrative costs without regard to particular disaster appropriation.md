@@ -1,8 +1,10 @@
 ### §5322. Funds made available for administrative costs without regard to particular disaster appropriation
 
-Amounts made available for administrative costs for activities authorized under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) related to disaster relief, long-term recovery, restoration of infrastructure and housing, economic revitalization, and mitigation in the most impacted and distressed areas under this Act or any future Act, and amounts previously provided under section 420 of division L of Public Law 114–113, section 145 of division C of Public Law 114–223, section 192 of division C of Public Law 114–223 (as added by section 101(3) of division A of Public Law 114–254), section 421 of division K of Public Law 115–31, and under the heading "Department of Housing and Urban Development—Community Planning and Development—Community Development Fund" of division B of Public Law 115–56, Public Law 115–123, and Public Law 115–254, shall be available for eligible administrative costs of the grantee related to any disaster relief funding identified in this section without regard to the particular disaster appropriation from which such funds originated.
+Amounts made available for administrative costs for activities authorized under title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.) related to disaster relief, long-term recovery, restoration of infrastructure and housing, economic revitalization, and mitigation in the most impacted and distressed areas under this Act or any future Act, and amounts previously provided under section 420 of division L of Public Law 114–113, section 145 of division C of Public Law 114–223, section 192 of division C of Public Law 114–223 (as added by section 101(3) of division A of Public Law 114–254), section 421 of division K of Public Law 115–31, and under the heading "Department of Housing and Urban Development—Community Planning and Development—Community Development Fund" of division B of Public Law 115–56, Public Law 115–123, and Public Law115–254, shall be available for eligible administrative costs of the grantee related to any disaster relief funding identified in this section without regard to the particular disaster appropriation from which such funds originated.
 
 (Pub. L. 116–20, title XI, §1101(b), June 6, 2019, 133 Stat. 900.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,4 +27,10 @@ Public Law 115–254, referred to in text, is Pub. L. 115–254, Oct. 5, 2018, 1
 #### Codification
 
 Section was enacted as part of the Additional Supplemental Appropriations for Disaster Relief Act, 2019, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Similar Provisions
+
+Pub. L. 117–43, div. B, title VIII, Sept. 30, 2021, 135 Stat. 370, provided in part: "That a State, unit of general local government, or Indian tribe may use up to 5 percent of its allocation for administrative costs related to a major disaster under this heading \[Department of Housing and Urban Development—Community Planning and Development—Community Development Fund\] in this Act \[div. B of Pub. L. 117–43, see Tables for classification\] and for the same purposes in prior and future Acts and such amounts shall be available for any eligible administrative costs without regard to a particular disaster".
 

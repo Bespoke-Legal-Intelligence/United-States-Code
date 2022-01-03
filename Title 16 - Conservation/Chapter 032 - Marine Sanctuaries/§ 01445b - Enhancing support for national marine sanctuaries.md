@@ -54,7 +54,7 @@ The Secretary may authorize the use of a symbol adopted by the Secretary under s
 
 #### (1) In general
 
-&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under thissection. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization to solicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
+&emsp;The Secretary may enter into an agreement with a non-profit partner organization authorizing it to assist in the administration of the sponsorship program established under this section. Under an agreement entered into under this paragraph, the Secretary may authorize the non-profit partner organization to solicit persons to be official sponsors of the national marine sanctuary system or of individual national marine sanctuaries, upon such terms as the Secretary deems reasonable and will contribute to the successful administration of the sanctuary system. The Secretary may also authorize the non-profit partner organization to collect the statutory contribution from the sponsor, and, subject to paragraph (2), transfer the contribution to the Secretary.
 
 #### (2) Reimbursement for administrative costs
 
@@ -69,6 +69,8 @@ The Secretary may authorize the use of a symbol adopted by the Secretary under s
 &emsp;&emsp;(B) is established to promote the understanding of, education relating to, and the conservation of the resources of a particular sanctuary or 2 or more related sanctuaries.
 
 (Pub. L. 92–532, title III, §316, formerly Pub. L. 102–587, title II, §2204, Nov. 4, 1992, 106 Stat. 5049; renumbered §316 of Pub. L. 92–532 and amended Pub. L. 104–283, §6, Oct. 11, 1996, 110 Stat. 3364; Pub. L. 106–513, §17, Nov. 13, 2000, 114 Stat. 2391.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

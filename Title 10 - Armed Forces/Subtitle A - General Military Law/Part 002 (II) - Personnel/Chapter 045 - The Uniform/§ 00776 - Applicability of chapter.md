@@ -26,6 +26,8 @@ June 3, 1916, ch. 134, §125 (less 1st and last pars.), 39 Stat. 216; Apr. 15, 1
 
 The words "the Canal Zone, Guam, American Samoa, and the Virgin Islands as well as to \* \* \* other" are omitted as covered by the words "possessions, and all other places under its jurisdiction".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–484 renumbered section 775 of this title as this section.
@@ -35,6 +37,8 @@ The words "the Canal Zone, Guam, American Samoa, and the Virgin Islands as well 
 Pub. L. 100–26 amended directory language of Pub. L. 99–661. See 1986 Amendment note below.
 
 <b>1986</b>—Pub. L. 99–661, as amended by Pub. L. 100–26, amended section generally. Prior to amendment, section read as follows: "This chapter applies in the United States, the Territories, Commonwealths, and possessions, and all other places under its jurisdiction."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

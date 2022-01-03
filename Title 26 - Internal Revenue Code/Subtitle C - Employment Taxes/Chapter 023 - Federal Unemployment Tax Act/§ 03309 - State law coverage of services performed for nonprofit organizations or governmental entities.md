@@ -56,6 +56,8 @@ The State law shall provide that an Indian tribe may make contributions for empl
 
 (Added Pub. L. 91–373, title I, §104(b)(1), Aug. 10, 1970, 84 Stat. 697; amended Pub. L. 94–566, title I, §115(a), (b), (c)(2), (3), title V, §506(a), Oct. 20, 1976, 90 Stat. 2670, 2671, 2687; Pub. L. 95–19, title III, §302(b), Apr. 12, 1977, 91 Stat. 44; Pub. L. 105–33, title V, §§5405(a), 5407(a), Aug. 5, 1997, 111 Stat. 604, 605; Pub. L. 106–554, §1(a)(7) \[title I, §166(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–627; Pub. L. 115–141, div. U, title IV, §401(a)(216), Mar. 23, 2018, 132 Stat. 1194.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3309 was renumbered section 3311 of this title.
@@ -86,11 +88,13 @@ Subsec. (a)(1)(B). Pub. L. 94–566, §115(a), struck out "performed in the empl
 
 Subsec. (a)(2). Pub. L. 94–566, §506(a), substituted "a governmental entity or any other organization" for "an organization", "paragraph (1)" for "paragraph (1)(A)", and "that governmental entities or other organizations" for "that organizations".
 
-Subsec. (b)(3). Pub. L. 94–566, §115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section 3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
+Subsec. (b)(3). Pub. L. 94–566, §115(b)(1), substituted reference to services performed in the employ of a governmental entity referred to in paragraph (7) of section3306(c), if such services are performed by an individual in the exercise of his duties as an elected official, as a member of a legislative body, or a member of the judiciary, of a State or political subdivision thereof, as a member of the State National Guard or Air National Guard, as an employee serving on a temporary basis in case of fire, storm, snow, earthquake, flood, or similar emergency, or in a position which, under or pursuant to the State law, is designated as a major nontenured policymaker or advisory position or a policymaking or advisory position the performance of the duties of which ordinarily does not require more than 8 hours per week, for reference to services performed in the employ of a school which is not an institution of higher education.
 
 Subsec. (b)(6). Pub. L. 94–566, §115(b)(2), substituted "by an inmate of a custodial or penal institution" for "for a hospital in a State prison or other State correctional institution by an inmate of the prison or correctional institution".
 
 Subsec. (d). Pub. L. 94–566, §115(c)(2), struck out subsec. (d) which defined "institution of higher education". See section 3304(f) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

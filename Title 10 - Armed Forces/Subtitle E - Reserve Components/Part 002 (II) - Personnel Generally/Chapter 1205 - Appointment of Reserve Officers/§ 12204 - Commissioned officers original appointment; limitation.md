@@ -30,6 +30,8 @@ July 9, 1952, ch. 608 §217(c), 66 Stat. 487.
 
 In subsection (a), the words "unless \* \* \* he was formerly" are substituted for the words "has not held an appointment as". The words "or any component thereof" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b). Pub. L. 109–163 struck out "and Territories" after "States".

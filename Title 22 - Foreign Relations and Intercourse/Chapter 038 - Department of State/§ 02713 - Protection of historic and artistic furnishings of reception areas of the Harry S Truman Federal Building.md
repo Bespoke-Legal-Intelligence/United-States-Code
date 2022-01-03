@@ -22,7 +22,7 @@ The Secretary of State shall administer the historic and artistic articles of fu
 
 #### (3) Smithsonian Institution
 
-&emsp;The Secretary of State may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to theSmithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
+&emsp;The Secretary of State may also lend items covered by paragraph (1), when not needed for use or display in the reception areas, to the Smithsonian Institution or a similar institution for care, repair, study, storage, or exhibition.
 
 #### (c) "Reception areas" defined
 
@@ -34,7 +34,7 @@ For purposes of this section, the term "reception areas" means the areas of the 
 
 #### Codification
 
-In subsec. (b)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(2), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 

@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–178, title IV, §4013, June 9, 1998, 112 Stat. 409, struck out items 31702 "Working group", 31703 "Grants", and 31708 "Authorization of appropriations".

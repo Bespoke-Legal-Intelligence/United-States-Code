@@ -4,6 +4,8 @@ The discoverer shall, as soon as practicable, give notice verified by affidavit,
 
 (R.S. §5571.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5571 derived from act Aug. 18, 1856, ch. 164, §1, 11 Stat. 119.

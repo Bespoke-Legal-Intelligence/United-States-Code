@@ -14,7 +14,7 @@ For purposes of this chapter, the term "wages" means all remuneration (other tha
 
 &emsp;&emsp;(A) on each of some 24 days during such quarter such individual performs for such employer for some portion of the day service not in the course of the employer's trade or business, or
 
-&emsp;&emsp;(B) such individual was regularly employed (as determined under subparagraph\(A)) by such employer in the performance of such service during the preceding calendar quarter,
+&emsp;&emsp;(B) such individual was regularly employed (as determined under subparagraph (A)) by such employer in the performance of such service during the preceding calendar quarter,
 
 &emsp;(5) for services by a citizen or resident of the United States for a foreign government or an international organization,
 
@@ -128,7 +128,9 @@ For purposes of subsection (a), qualified stock (as defined in section 83(i)) wi
 
 &emsp;(2) in an amount equal to the amount included in income under section 83 for the taxable year which includes such date.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(l), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI,§6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–245, title I, §§105(a)(1), 115(c), June 17, 2008, 122 Stat. 1628, 1637; Pub. L. 115–97, title I, §§11041(c)(2)(A), 13603(b)(1), Dec. 22, 2017, 131 Stat. 2082, 2163; Pub. L. 115–141, div. U, title IV, §401(a)(217), Mar. 23, 2018, 132 Stat. 1194.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 455; Aug. 9, 1955, ch. 681, 69 Stat. 616; Pub. L. 87–256, §110(g)(1), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §201(c), Sept. 22, 1961, 75 Stat. 625; Pub. L. 87–792, §7(l), Oct. 10, 1962, 76 Stat. 830; Pub. L. 88–272, title II, §§204(b), 213(c), Feb. 26, 1964, 78 Stat. 36, 52; Pub. L. 89–97, title III, §313(d)(1), (2), July 30, 1965, 79 Stat. 383, 384; Pub. L. 89–809, title I, §103(k), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 92–279, §2, Apr. 26, 1972, 86 Stat. 125; Pub. L. 93–406, title II, §2002(g)(7), Sept. 2, 1974, 88 Stat. 970; Pub. L. 94–455, title XII, §1207(e)(1)(C), title XV, §1501(b)(7), title XIX, §§1903(c), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1707, 1736, 1810, 1834; Pub. L. 95–600, title I, §164(b)(1), Nov. 6, 1978, 92 Stat. 2813; Pub. L. 95–615, §207(a), Nov. 8, 1978, 92 Stat. 3108; Pub. L. 96–222, title I, §103(a)(13)(A), Apr. 1, 1980, 94 Stat. 213; Pub. L. 97–34, title I, §§112(b)(5), 124(e)(2)(A), title III, §311(h)(6), Aug. 13, 1981, 95 Stat. 195, 200, 282; Pub. L. 97–448, title I, §103(c)(12)(B), Jan. 12, 1983, 96 Stat. 2377; Pub. L. 98–369, div. A, title IV, §491(d)(38), title V, §531(d)(4), July 18, 1984, 98 Stat. 851, 885; Pub. L. 99–514, title I, §122(e)(4), title XII, §1272(c), Oct. 22, 1986, 100 Stat. 2112, 2594; Pub. L. 100–647, title I, §§1001(g)(4)(B)(iii), 1011(f)(9), 1011B(a)(22)(D), (33), Nov. 10, 1988, 102 Stat. 3352, 3463, 3486, 3488; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §7631(a), (b), Dec. 19, 1989, 103 Stat. 2378; Pub. L. 101–508, title XI, §11703(f)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 104–117, §1(c), Mar. 20, 1996, 110 Stat. 828; Pub. L. 104–188, title I, §§1421(b)(8)(D), 1704(t)(4)(C), Aug. 20, 1996, 110 Stat. 1798, 1887; Pub. L. 104–191, title III, §301(c)(2)(C), Aug. 21, 1996, 110 Stat. 2049; Pub. L. 105–206, title VI, §6023(14), (15), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title VI, §641(a)(1)(D)(i), June 7, 2001, 115 Stat. 119; Pub. L. 108–121, title I, §106(b)(4), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–173, title XII, §1201(d)(2)(C), Dec. 8, 2003, 117 Stat. 2477; Pub. L. 108–357, title III, §320(b)(4), title VIII, §885(b)(2), Oct. 22, 2004, 118 Stat. 1473, 1639; Pub. L. 108–375, div. A, title V, §585(b)(2)(D), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–135, title IV, §412(tt), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–245, title I, §§105(a)(1), 115(c), June 17, 2008, 122 Stat. 1628, 1637; Pub. L. 115–97, title I, §§11041(c)(2)(A), 13603(b)(1), Dec. 22, 2017, 131 Stat. 2082, 2163; Pub. L. 115–141, div. U, title IV, §401(a)(217), Mar. 23, 2018, 132 Stat. 1194.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -224,7 +226,7 @@ Subsec. (c). Pub. L. 94–455, §1903(c), struck out "Territory" after "a State"
 
 <b>1972</b>—Subsec. (a)(1). Pub. L. 92–279 struck out "as a member of the Armed Forces of the United States" after "active service", substituted "employee" for "member", and parenthetical text "(relating to certain combat pay of members of the Armed Forces of the United States)".
 
-<b>1966</b>—Subsec. (a)(6), (7). Pub. L. 89–809, §103(k), struck out par. (6) dealing with services performed by nonresident alien individuals other than residents of contiguous countries who enter and leave the United States at frequent intervals, residents of Puerto Rico if such services are performed as an employee of the United States or any agency thereof, or individuals temporarily present in the United States as nonimmigrants under certain conditions, redesignated par. (7) as (6), and in par (6) as so redesignated, struck out"who is a resident of a contiguous country and who enters and leaves the United States at frequent intervals" after "nonresident alien individual".
+<b>1966</b>—Subsec. (a)(6), (7). Pub. L. 89–809, §103(k), struck out par. (6) dealing with services performed by nonresident alien individuals other than residents of contiguous countries who enter and leave the United States at frequent intervals, residents of Puerto Rico if such services are performed as an employee of the United States or any agency thereof, or individuals temporarily present in the United States as nonimmigrants under certain conditions, redesignated par. (7) as (6), and in par (6) as so redesignated, struck out "who is a resident of a contiguous country and who enters and leaves the United States at frequent intervals" after "nonresident alien individual".
 
 <b>1965</b>—Subsec. (a)(16). Pub. L. 89–97, §313(d)(2), added par. (16).
 
@@ -241,6 +243,8 @@ Subsec. (a)(15). Pub. L. 88–272, §213(c), added par. (15).
 Subsec. (a)(13). Pub. L. 87–293 added par. (13).
 
 <b>1955</b>—Subsec. (a). Act Aug. 9, 1955, excluded from definition of wages, remuneration paid for services performed in a possession of the United States by a United States citizen if the employer is required by the law of the possession to withhold income tax on the remuneration.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -282,7 +286,7 @@ Amendment by Pub. L. 104–117 applicable to remuneration paid after Mar. 20, 19
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11703(f)(2), Nov. 5, 1990, 104 Stat. 1388–518, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79 of this title\] but shall not apply to any amount paid before the date of the enactment of this Act \[Nov. 5, 1990\] which the employer treated as wages for purposes of chapter 24 of the Internal Revenue Code of 1986 when paid."
+Pub. L. 101–508, title XI, §11703(f)(2), Nov. 5, 1990, 104 Stat. 1388–518, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the amendments made by section 1151 of the Tax Reform Act of 1986 \[Pub. L. 99–514, see Effective Date of 1986 Amendment note set out under section 79of this title\] but shall not apply to any amount paid before the date of the enactment of this Act \[Nov. 5, 1990\] which the employer treated as wages for purposes of chapter 24 of the Internal Revenue Code of 1986 when paid."
 
 #### Effective Date of 1989 Amendments
 
@@ -314,7 +318,7 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by section 112(b)(5) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec.31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
+Amendment by section 112(b)(5) of Pub. L. 97–34 applicable with respect to taxable years beginning after Dec. 31, 1981, see section 115 of Pub. L. 97–34, set out as a note under section 911 of this title.
 
 Amendment by section 124(e)(2)(A) of Pub. L. 97–34 applicable to remuneration paid after Dec. 31, 1981, see section 124(f)(2) of Pub. L. 97–34, set out as a note under section 21 of this title.
 
@@ -398,7 +402,7 @@ In general.—If—
 
 &emsp;&emsp;"(B) in the case of periods after December 31, 1978, all Federal tax returns (including information returns) required to be filed by the taxpayer with respect to such individual for such period are filed on a basis consistent with the taxpayer's treatment of such individual as not being an employee,
 
-> &emsp;then, for purposes of applying such taxes for such period with respect to the taxpayer, the individual shallbe deemed not to be an employee unless the taxpayer had no reasonable basis for not treating such individual as an employee.
+> &emsp;then, for purposes of applying such taxes for such period with respect to the taxpayer, the individual shall be deemed not to be an employee unless the taxpayer had no reasonable basis for not treating such individual as an employee.
 
 &emsp;"(2)
 
@@ -512,7 +516,7 @@ Applicability.—An individual is described in this paragraph if the individual�
 
 &emsp;&emsp;"(B) is not otherwise treated as an employee of such organization for purposes of subtitle C of such Code (relating to employment taxes)."
 
-\[Pub. L. 109–280, title VIII, §864(b), Aug. 17, 2006, 120 Stat. 1024, provided that: "The amendment made bythis section \[amending section 530 of Pub. L. 95–600, set out above\] shall apply to remuneration for services performed after December 31, 2006."\]
+\[Pub. L. 109–280, title VIII, §864(b), Aug. 17, 2006, 120 Stat. 1024, provided that: "The amendment made by this section \[amending section 530 of Pub. L. 95–600, set out above\] shall apply to remuneration for services performed after December 31, 2006."\]
 
 \[Pub. L. 104–188, title I, §1122(b), Aug. 20, 1996, 110 Stat. 1767, provided that:
 

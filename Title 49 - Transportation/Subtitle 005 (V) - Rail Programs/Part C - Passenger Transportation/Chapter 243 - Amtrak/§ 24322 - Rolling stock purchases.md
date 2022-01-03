@@ -24,6 +24,8 @@ Rule of Construction.—Nothing in this section shall be construed as requiring 
 
 (Added Pub. L. 114–94, div. A, title XI, §11208(a), Dec. 4, 2015, 129 Stat. 1639.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.

@@ -40,6 +40,8 @@ The Congress finds that—
 
 (Pub. L. 94–136, title I, §101, Nov. 28, 1975, 89 Stat. 733.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 94–136, §1, Nov. 28, 1975, 89 Stat. 733, provided: "That this Act \[enacting this chapter, repealing section 1026 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'National Productivity And Quality of Working Life Act of 1975'."
@@ -48,11 +50,13 @@ Pub. L. 94–136, §1, Nov. 28, 1975, 89 Stat. 733, provided: "That this Act \[e
 
 Pub. L. 97–367, Oct. 25, 1982, 96 Stat. 1761, required the President to conduct a White House Conference on Productivity not later than Oct. 25, 1983, prescribed the duties of the Conference, required the Conference to submit to the President a final report not later than 120 days after the date the Conference is called, and required the President (within 120 days after submission of the final report) to transmit to Congress his recommendations for the administrative action and legislation necessary to implement recommendations contained in the final report with which he concurs.
 
+#### <b>Executive Documents</b>
+
 #### Executive Order No. 12089
 
 Ex. Ord. No. 12089, Oct. 23, 1978, 43 F.R. 49773, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the National Productivity Council and provided for its membership, functions, etc. was revoked by Ex. Ord. No. 12379, §16, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Executive Order No. 12332
 
-Ex. Ord. No. 12332, Nov. 10, 1981, 46 F.R. 55913, which established the National Productivity Advisory Committee, and provided for its membership, functions, etc. and was extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set outas a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12332, Nov. 10, 1981, 46 F.R. 55913, which established the National Productivity Advisory Committee, and provided for its membership, functions, etc. and was extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 

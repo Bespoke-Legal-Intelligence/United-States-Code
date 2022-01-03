@@ -4,11 +4,15 @@ In responding orally to any inquiry about the cost of credit, a creditor, regard
 
 (Pub. L. 90–321, title I, §146, as added Pub. L. 93–495, title IV, §401(a), Oct. 28, 1974, 88 Stat. 1517; amended Pub. L. 96–221, title VI, §623(a), Mar. 31, 1980, 94 Stat. 185; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>1980</b>—Pub. L. 96–221 substituted provisions relating to use of annual percentage rate in oral disclosures by creditors, for provisions setting forth requirements for advertisements concerning consumer credit repayable in more than four installments.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

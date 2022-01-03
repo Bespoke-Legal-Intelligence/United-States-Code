@@ -96,6 +96,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title XXVI, §2671, as added and amended Pub. L. 109–415, title IV, §401, title VII, §703, Dec. 19, 2006, 120 Stat. 2810, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), (e), 11, Oct. 30, 2009, 123 Stat. 2885, 2886, 2895.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (c)(1) and (i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XVIII, XIX, and XXI of the Act are classified generally to subchapters V (§701 et seq.), XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -104,7 +106,7 @@ The Social Security Act, referred to in subsecs. (c)(1) and (i), is act Aug. 14,
 
 Prior sections 300ff–71 to 300ff–78 were omitted in the general amendment of this part by Pub. L. 109–415.
 
-Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18,1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
+Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
 
 Section 300ff–72, act July 1, 1944, ch. 373, title XXVI, §2672, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 618, contained provisions relating to blood banks.
 
@@ -139,6 +141,8 @@ Pub. L. 111–87, §2(e), inserted ", $75,390,000 for fiscal year 2010, $79,160
 Subsec. (j). Pub. L. 111–87, §11(a)(1), redesignated subsec. (i) as (j).
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

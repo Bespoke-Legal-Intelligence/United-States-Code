@@ -6,7 +6,7 @@ The Farm Credit Administration and all departments and other agencies of the Gov
 
 (b) To take such action and to make such settlements as are necessary in order to acquire full legal title to all cotton on which money has been loaned or advanced by any department or agency of the United States, including futures contracts for cotton or which is held as collateral for loans or advances and to make final settlement of such loans and advances as follows:
 
-&emsp;(1) In making such settlements with regard to cotton, including operations to which such cotton is related, such cotton shall be taken over by all such departments or agencies other than the Secretary of Agriculture at a price or sum equal to the amounts directly or indirectly loaned or advanced thereon and outstanding, including loans by the Government, department or agency and any loans senior thereto, plus any sums required to adjust advances to growers to 90 per centum of the value of their cotton at the date of its deliveryin the first instance as collateral to the department or agency involved, such sums to be computed by subtracting the total amount already advanced to growers on account of pools of which such cotton was a part, from 90 per centum of the value of the cotton to be taken over as of the time of such delivery as collateral, plus unpaid accrued carrying charges and operating costs on such cotton, less, however, any existing assets of the borrower derived from net income, earnings, or profits arising from such cotton, and from operations to which such cotton is related; all as determined by the department or agency making the settlement.
+&emsp;(1) In making such settlements with regard to cotton, including operations to which such cotton is related, such cotton shall be taken over by all such departments or agencies other than the Secretary of Agriculture at a price or sum equal to the amounts directly or indirectly loaned or advanced thereon and outstanding, including loans by the Government, department or agency and any loans senior thereto, plus any sums required to adjust advances to growers to 90 per centum of the value of their cotton at the date of its delivery in the first instance as collateral to the department or agency involved, such sums to be computed by subtracting the total amount already advanced to growers on account of pools of which such cotton was a part, from 90 per centum of the value of the cotton to be taken over as of the time of such delivery as collateral, plus unpaid accrued carrying charges and operating costs on such cotton, less, however, any existing assets of the borrower derived from net income, earnings, or profits arising from such cotton, and from operations to which such cotton is related; all as determined by the department or agency making the settlement.
 
 &emsp;(2) The Secretary of Agriculture shall make settlements with respect to cotton held as collateral for loans or advances made by him on such terms as in his judgment may be deemed advisable, and to carry out the provisions of this section, is authorized to indemnify or furnish bonds to warehousemen for lost warehouse receipts and to pay the premiums on such bonds.
 
@@ -16,13 +16,21 @@ When full legal title to the cotton referred to in this subsection has been acqu
 
 (May 12, 1933, ch. 25, title I, §3, 48 Stat. 32; 1933 Ex. Ord. No. 6084, Mar. 27, 1933.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Farm Credit Administration
+
+Establishment of Farm Credit Administration as independent agency, and other changes in status, functions, etc., see section 2241 et seq., of Title 12, Banks and Banking.
+
+#### <b>Executive Documents</b>
+
 #### Change of Name
 
 Ex. Ord. No. 6084, set out as a note preceding section 2241 of Title 12, Banks and Banking, changed the name of "Federal Farm Board" to "Farm Credit Administration".
 
 #### Transfer of Functions
 
-Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, removed Farm Credit Administration from Food Production Administration of Department of Agriculture and returned it to its former status as a separate agency of Department.
+Ex. Ord. No. 9322, Mar. 26, 1943, 8 F.R. 3807, as amended by Ex. Ord. No. 9334, Apr. 19, 1943, 8 F.R. 5423, removed Farm Credit Administration from Food Production Administration of Department of Agriculture andreturned it to its former status as a separate agency of Department.
 
 Ex. Ord. No. 9280, Dec. 5, 1942, 7 F.R. 10179, made Farm Credit Administration a part of Food Production Administration of Department of Agriculture.
 
@@ -31,8 +39,4 @@ Farm Credit Administration transferred to Department of Agriculture by 1939 Reor
 #### Exceptions From Transfer of Functions
 
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
-
-#### Farm Credit Administration
-
-Establishment of Farm Credit Administration as independent agency, and other changes in status, functions, etc., see section 2241 et seq., of Title 12, Banks and Banking.
 

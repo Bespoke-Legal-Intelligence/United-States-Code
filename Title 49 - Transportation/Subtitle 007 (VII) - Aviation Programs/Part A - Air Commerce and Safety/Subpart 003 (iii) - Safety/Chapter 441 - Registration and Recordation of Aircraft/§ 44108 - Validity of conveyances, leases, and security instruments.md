@@ -80,9 +80,13 @@ In subsection (c)(1), the words "conveyance, lease, or" are added for consistenc
 
 In subsection (d)(2), the words "lease or instrument" are substituted for "instrument" for clarity and consistency in this subchapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(2). Pub. L. 108–297 inserted "or the Cape Town Treaty, as applicable" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

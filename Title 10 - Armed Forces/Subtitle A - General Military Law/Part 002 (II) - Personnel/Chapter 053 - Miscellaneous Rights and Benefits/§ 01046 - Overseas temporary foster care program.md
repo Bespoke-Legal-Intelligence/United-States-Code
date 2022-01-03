@@ -10,6 +10,8 @@ Expenses.—Under regulations prescribed by the Secretary concerned, the expense
 
 (Added Pub. L. 102–484, div. A, title VI, §651(a), Oct. 23, 1992, 106 Stat. 2425.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1046, added Pub. L. 98–525, title VII, §708(a)(1), Oct. 19, 1984, 98 Stat. 2572, related to preseparation counseling, prior to repeal by Pub. L. 101–510, div. A, title V, §502(b)(1), Nov. 5, 1990, 104 Stat. 1557.

@@ -18,7 +18,7 @@
 
 &emsp;(D) contain adequate provisions—
 
-&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the Statefrom emitting any air pollutant in amounts which will—
+&emsp;&emsp;(i) prohibiting, consistent with the provisions of this subchapter, any source or other type of emissions activity within the State from emitting any air pollutant in amounts which will—
 
 &emsp;&emsp;&emsp;(I) contribute significantly to nonattainment in, or interfere with maintenance by, any other State with respect to any such national primary or secondary ambient air quality standard, or
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) insuring compliance with the applicable requirements of sections 7426 and 7415 of this title (relating to interstate and international pollution abatement);
 
-&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regional agency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
+&emsp;(E) provide (i) necessary assurances that the State (or, except where the Administrator deems inappropriate, the general purpose local government or governments, or a regionalagency designated by the State or general purpose local governments for such purpose) will have adequate personnel, funding, and authority under State (and, as appropriate, local) law to carry out such implementation plan (and is not prohibited by any provision of Federal or State law from carrying out such implementation plan or portion thereof), (ii) requirements that the State comply with the requirements respecting State boards under section 7428 of this title, and (iii) necessary assurances that, where the State has relied on a local or regional government, agency, or instrumentality for the implementation of any plan provision, the State has responsibility for ensuring adequate implementation of such plan provision;
 
 &emsp;(F) require, as may be prescribed by the Administrator—
 
@@ -68,7 +68,7 @@
 
 (B) As soon as practicable, the Administrator shall, consistent with the purposes of this chapter and the Energy Supply and Environmental Coordination Act of 1974 \[15 U.S.C. 791 et seq.\], review each State's applicable implementation plans and report to the State on whether such plans can be revised in relation to fuel burning stationary sources (or persons supplying fuel to such sources) without interfering with the attainment and maintenance of any national ambient air quality standard within the period permitted in this section. If the Administrator determines that any such plan can be revised, he shall notify the State that a plan revision may be submitted by the State. Any plan revision which is submitted by the State shall, after public notice and opportunity for public hearing, be approved by the Administrator if the revision relates only to fuel burning stationary sources (or persons supplying fuel to such sources), and the plan as revised complies with paragraph (2) of this subsection. The Administrator shall approve or disapprove any revision no later than three months after its submission.
 
-(C) Neither the State, in the case of a plan (or portion thereof) approved under this subsection,nor the Administrator, in the case of a plan (or portion thereof) promulgated under subsection (c), shall be required to revise an applicable implementation plan because one or more exemptions under section 7418 of this title (relating to Federal facilities), enforcement orders under section 7413(d) <sup>1</sup> of this title, suspensions under subsection (f) or (g) (relating to temporary energy or economic authority), orders under section 7419 of this title (relating to primary nonferrous smelters), or extensions of compliance in decrees entered under section 7413(e) <sup>1</sup> of this title (relating to iron- and steel-producing operations) have been granted, if such plan would have met the requirements of this section if no such exemptions, orders, or extensions had been granted.
+(C) Neither the State, in the case of a plan (or portion thereof) approved under this subsection, nor the Administrator, in the case of a plan (or portion thereof) promulgated under subsection (c), shall be required to revise an applicable implementation plan because one or more exemptions under section 7418 of this title (relating to Federal facilities), enforcement orders under section 7413(d) <sup>1</sup> of this title, suspensions under subsection (f) or (g) (relating to temporary energy or economic authority), orders under section 7419 of this title (relating to primary nonferrous smelters), or extensions of compliance in decrees entered under section 7413(e) <sup>1</sup> of this title (relating to iron- and steel-producing operations) have been granted, if such plan would have met the requirements of this section if no such exemptions, orders, or extensions had been granted.
 
 (4) Repealed. Pub. L. 101–549, title I, §101(d)(2), Nov. 15, 1990, 104 Stat. 2409.
 
@@ -114,13 +114,13 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (D) For purposes of this paragraph—
 
-&emsp;(i) The term "parking surcharge regulation" means a regulation imposing or requiring theimposition of any tax, surcharge, fee, or other charge on parking spaces, or any other area used for the temporary storage of motor vehicles.
+&emsp;(i) The term "parking surcharge regulation" means a regulation imposing or requiring the imposition of any tax, surcharge, fee, or other charge on parking spaces, or any other area used for the temporary storage of motor vehicles.
 
 &emsp;(ii) The term "management of parking supply" shall include any requirement providing that any new facility containing a given number of parking spaces shall receive a permit or other prior approval, issuance of which is to be conditioned on air quality considerations.
 
 &emsp;(iii) The term "preferential bus/carpool lane" shall include any requirement for the setting aside of one or more lanes of a street or highway on a permanent or temporary basis for the exclusive use of buses or carpools, or both.
 
-(E) No standard, plan, or requirement, relating to management of parking supply or preferential bus/carpool lanes shall be promulgated after June 22, 1974, by the Administrator pursuant to this section, unless such promulgation has been subjected to at least one public hearing which has been held in the area affected and for which reasonable notice has been given in such area. If substantial changes are made following public hearings, one or more additional hearings shall be held in such area after such notice.
+(E) No standard, plan, or requirement, relating to management of parking supply or preferential bus/carpool lanes shall be promulgated after June 22, 1974, by the Administrator pursuant to this section, unless such promulgation has been subjected to at least one public hearingwhich has been held in the area affected and for which reasonable notice has been given in such area. If substantial changes are made following public hearings, one or more additional hearings shall be held in such area after such notice.
 
 (3) Upon application of the chief executive officer of any general purpose unit of local government, if the Administrator determines that such unit has adequate authority under State or local law, the Administrator may delegate to such unit the authority to implement and enforce within the jurisdiction of such unit any part of a plan promulgated under this subsection. Nothing in this paragraph shall prevent the Administrator from implementing or enforcing any applicable provision of a plan promulgated under this subsection.
 
@@ -160,7 +160,7 @@ The Administrator may, wherever he determines necessary, extend the period for s
 
 (3) A temporary emergency suspension issued by a Governor under this subsection shall remain in effect for a maximum of four months or such lesser period as may be specified in a disapproval order of the Administrator, if any. The Administrator may disapprove such suspension if he determines that it does not meet the requirements of paragraph (2).
 
-(4) This subsection shall not apply in the case of a plan provision or requirement promulgated by the Administrator under subsection (c) of this section, but in any such case the President may grant a temporary emergency suspension for a four month period of any such provision orrequirement if he makes the determinations and findings specified in paragraphs (1) and (2).
+(4) This subsection shall not apply in the case of a plan provision or requirement promulgated by the Administrator under subsection (c) of this section, but in any such case the President may grant a temporary emergency suspension for a four month period of any such provision or requirement if he makes the determinations and findings specified in paragraphs (1) and (2).
 
 (5) The Governor may include in any temporary emergency suspension issued under this subsection a provision delaying for a period identical to the period of such suspension any compliance schedule (or increment of progress) to which such source is subject under section 1857c–10 <sup>1</sup> of this title, as in effect before August 7, 1977, or section 7413(d) <sup>1</sup> of this title, upon a finding that such source is unable to comply with such schedule (or increment) solely because of the conditions on the basis of which a suspension was issued under this subsection.
 
@@ -254,7 +254,7 @@ The Administrator may apply any of the sanctions listed in section 7509(b) of th
 
 #### (3) Retention of construction moratorium in certain areas
 
-&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) (as in effect immediately before November 15, 1990) applied by virtue of a finding of the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
+&emsp;In the case of an area to which, immediately before November 15, 1990, the prohibition on construction or modification of major stationary sources prescribed in subsection (a)(2)(I) (as in effect immediately before November 15, 1990) applied by virtue of a findingof the Administrator that the State containing such area had not submitted an implementation plan meeting the requirements of section 7502(b)(6) of this title (relating to establishment of a permit program) (as in effect immediately before November 15, 1990) or 7502(a)(1) of this title (to the extent such requirements relate to provision for attainment of the primary national ambient air quality standard for sulfur oxides by December 31, 1982) as in effect immediately before November 15, 1990, no major stationary source of the relevant air pollutant or pollutants shall be constructed or modified in such area until the Administrator finds that the plan for such area meets the applicable requirements of section 7502(c)(5) of this title (relating to permit programs) or subpart 5 of part D (relating to attainment of the primary national ambient air quality standard for sulfur dioxide), respectively.
 
 #### (o) Indian tribes
 
@@ -265,6 +265,8 @@ If an Indian tribe submits an implementation plan to the Administrator pursuant 
 Any State shall submit, according to such schedule as the Administrator may prescribe, such reports as the Administrator may require relating to emission reductions, vehicle miles traveled, congestion levels, and any other information the Administrator may deem necessary to assess the development <sup>2</sup> effectiveness, need for revision, or implementation of any plan or plan revision required under this chapter.
 
 (July 14, 1955, ch. 360, title I, §110, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1680; amended Pub. L. 93–319, §4, June 22, 1974, 88 Stat. 256; Pub. L. 95–95, title I, §§107, 108, Aug. 7, 1977, 91 Stat. 691, 693; Pub. L. 95–190, §14(a)(1)–(6), Nov. 16, 1977, 91 Stat. 1399; Pub. L. 97–23, §3, July 17, 1981, 95 Stat. 142; Pub. L. 101–549, title I, §§101(b)–(d), 102(h), 107(c), 108(d), title IV, §412, Nov. 15, 1990, 104 Stat. 2404–2408, 2422, 2464, 2466, 2634.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -376,13 +378,15 @@ Subsec. (j). Pub. L. 95–190 §14(a)(5), (6), redesignated subsec. (i), added b
 
 Subsec. (c). Pub. L. 93–319, §4(b), designated existing provisions as par. (1) and existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, of such redesignated par. (1), and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Pending Actions and Proceedings
 
-Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+Suits, actions, and other proceedings lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his officialduties under act July 14, 1955, the Clean Air Act, as in effect immediately prior to the enactment of Pub. L. 95–95 \[Aug. 7, 1977\], not to abate by reason of the taking effect of Pub. L. 95–95, see section 406(a) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

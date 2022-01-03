@@ -6,17 +6,17 @@ The Secretary shall limit the sale of timber from each national forest to a quan
 
 #### (b) Salvage harvesting
 
-Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timberthat would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
+Nothing in subsection (a) of this section shall prohibit the Secretary from salvage or sanitation harvesting of timber stands which are substantially damaged by fire, windthrow, or other catastrophe, or which are in imminent danger from insect or disease attack. The Secretary may either substitute such timber for timber that would otherwise be sold under the plan or, if not feasible, sell such timber over and above the plan volume.
 
 (Pub. L. 93–378, §13, as added Pub. L. 94–588, §11, Oct. 22, 1976, 90 Stat. 2957; amended Pub. L. 115–141, div. O, title II, §208(b)(2), Mar. 23, 2018, 132 Stat. 1066.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–141 substituted "Secretary shall limit" for "Secretary of Agriculture shall limit".
 
-#### Transfer of Functions
-
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Timber Sales Pipeline Restoration Fund
 
@@ -49,4 +49,10 @@ Pub. L. 104–134, title I, §101(c) \[title III, §327\], Apr. 26, 1996, 110 St
 #### Emergency Salvage Timber Sale Program
 
 Pub. L. 104–19, title II, §2001, July 27, 1995, 109 Stat. 240, as amended by Pub. L. 104–134, title I, §101(c) \[title III, §316\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–202; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided for salvage timber sales from certain Federal lands by the Secretary of Agriculture and the Secretary of the Interior from July 27, 1995 to Dec. 31, 1996.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 

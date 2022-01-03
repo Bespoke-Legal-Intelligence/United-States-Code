@@ -4,9 +4,13 @@ Not later than 15 days after March 27, 2020, the Administrator shall issue regul
 
 (Pub. L. 116–136, div. A, title I, §1114, Mar. 27, 2020, 134 Stat. 312.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in text, is title I of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286, which enacted this subchapter and amended, and enacted provisions set out as notes under, section 636 of this title and several sections in Title 11, Bankruptcy. For complete classification of title I to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Emergency Rulemaking Authority in Public Law 116–260
 

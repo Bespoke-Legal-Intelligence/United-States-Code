@@ -20,9 +20,13 @@ R.S. 1551; July 1, 1916, ch. 209, §1, 39 Stat. 309.
 
 The words "that \* \* \* will provide the most beneficial treatment" are substituted for the words "best calculated to promise a restoration of reason" for clarity. The second sentence of 34 U.S.C. 595 is omitted as superseded. It provided a method by which the Secretary of the Navy, in his discretion, could compensate other agencies for expenses involved in hospitalizing insane naval patients. Other provisions of law, principally 24 U.S.C. 31, 31 U.S.C. 686, and 37 U.S.C. 284, and regulations, principally Executive Order 10122, of April 14, 1950, establish the method currently used.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6202 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

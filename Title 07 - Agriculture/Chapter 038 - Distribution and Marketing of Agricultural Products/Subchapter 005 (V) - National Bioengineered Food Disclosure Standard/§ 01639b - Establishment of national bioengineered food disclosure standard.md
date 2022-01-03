@@ -4,7 +4,7 @@
 
 Not later than 2 years after July 29, 2016, the Secretary shall—
 
-&emsp;(1) establish a national mandatory bioengineered food disclosure standard with respectto any bioengineered food and any food that may be bioengineered; and
+&emsp;(1) establish a national mandatory bioengineered food disclosure standard with respect to any bioengineered food and any food that may be bioengineered; and
 
 &emsp;(2) establish such requirements and procedures as the Secretary determines necessary to carry out the standard.
 
@@ -86,7 +86,7 @@ In promulgating regulations under this section, the Secretary shall ensure that�
 
 &emsp;&emsp;(B) any telephone number disclosure, indicating that the telephone number will provide access to additional information by stating only "Call for more food information.";
 
-&emsp;(2) the electronic or digital link will provide access to the bioengineering disclosure located, in a consistent and conspicuous manner, on the first product information page that appears for the product on a mobile device, Internet website, or other landing page, whichshall exclude marketing and promotional information;
+&emsp;(2) the electronic or digital link will provide access to the bioengineering disclosure located, in a consistent and conspicuous manner, on the first product information page that appears for the product on a mobile device, Internet website, or other landing page, which shall exclude marketing and promotional information;
 
 &emsp;(3)(A) the electronic or digital link disclosure may not collect, analyze, or sell any personally identifiable information about consumers or the devices of consumers; but
 
@@ -98,7 +98,7 @@ In promulgating regulations under this section, the Secretary shall ensure that�
 
 #### (e) State food labeling standards
 
-Notwithstanding section 1639i of this title, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced using bioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
+Notwithstanding section 1639i of this title, no State or political subdivision of a State may directly or indirectly establish under any authority or continue in effect as to any food in interstate commerce any requirement relating to the labeling or disclosure of whether a food is bioengineered or was developed or produced usingbioengineering for a food that is the subject of the national bioengineered food disclosure standard under this section that is not identical to the mandatory disclosure requirement under that standard.
 
 #### (f) Consistency with certain laws
 
@@ -137,6 +137,8 @@ The Secretary shall consider establishing consistency between—
 &emsp;The Secretary shall have no authority to recall any food subject to this subchapter on the basis of whether the food bears a disclosure that the food is bioengineered.
 
 (Aug. 14, 1946, ch. 966, title II, §293, as added Pub. L. 114–216, §1, July 29, 2016, 130 Stat. 835.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

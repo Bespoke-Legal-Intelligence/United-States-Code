@@ -192,7 +192,7 @@ In subsection (a)(2), the words "by the Secretary" and "to the Secretary" are om
 
 In subsection (a)(3), the words "subject to such regulations, supervision, and review as he may prescribe" are omitted because of 49:322(a). The words "from time to time make such provision as he shall deem appropriate" are omitted as surplus. The words "duty or power" are substituted for "function" for consistency in the revised title and with other titles of the Code. The words "the head of" are added for clarity and consistency.
 
-In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section 40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
+In subsection (b), the words "(whether or not in cooperation with State or other local governmental agencies)" and "thereon" are omitted as surplus. The words "landing area" are omitted as being included in the definition of "air navigation facility" in section40102(a) of the revised title. The words "recommendation and" are omitted as surplus. The words "under regulations prescribed by him" are omitted because of 49:322(a). The word "proposed" is omitted as surplus. The word "acquired" is added for consistency in this subsection.
 
 In subsection (c)(1), the words "In order", "layout", and "In case of . . . the matter" are omitted as surplus. The words "Secretary of Defense" are substituted for "Department of Defense" because of 10:133(a). The words "the Administrator of" are added because of 42:2472(a).
 
@@ -218,6 +218,8 @@ This amends 49:44502(c)(1) to correct an error in the codification enacted by se
 
 This strikes 49:44502(e) and redesignates 49:44502(f) as 49:44502(e) because of the restatement of former 49:44502(e) as 49:40121.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e). Pub. L. 115–254, §147(1), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "An airport may transfer, without consideration, to the Administrator of the Federal Aviation Administration an instrument landing system (and associated approach lighting equipment and runway visual range equipment) that conforms to performance specifications of the Administrator if a Government airport aid program, airport development aid program, or airport improvement project grant was used to assist in purchasing the system. The Administrator shall accept the system and operate and maintain it under criteria of the Administrator."
@@ -240,9 +242,11 @@ Consent of Congress.—Congress consents to a State making an agreement, not in 
 
 Subsec. (b). Pub. L. 103–429 inserted "Government" before "money may be expended".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendment
 

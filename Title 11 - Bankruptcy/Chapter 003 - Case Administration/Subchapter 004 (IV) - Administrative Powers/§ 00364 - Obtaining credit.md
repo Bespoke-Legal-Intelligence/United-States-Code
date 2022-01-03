@@ -76,7 +76,7 @@ The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act
 
 "(g)(1) The court, after notice and a hearing, may authorize a debtor in possession or a trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title to obtain a loan under paragraph (36) or (37) of section 7(a) of the Small Business Act (15 U.S.C. 636(a)), and such loan shall be treated as a debt to the extent the loan is not forgiven in accordance with section 7A of the Small Business Act or subparagraph (J) of such paragraph (37), as applicable, with priority equal to a claim of the kind specified in subsection (c)(1) of this section.
 
-"(2) The trustee may incur debt described in paragraph (1) notwithstanding any provision in a contract, prior order authorizing the trustee to incur debt underthis section, prior order authorizing the trustee to use cash collateral under section 363, or applicable law that prohibits the debtor from incurring additional debt.
+"(2) The trustee may incur debt described in paragraph (1) notwithstanding any provision in a contract, prior order authorizing the trustee to incur debt under this section, prior order authorizing the trustee to use cash collateral under section 363, or applicable law that prohibits the debtor from incurring additional debt.
 
 "(3) The court shall hold a hearing within 7 days after the filing and service of the motion to obtain a loan described in paragraph (1). Notwithstanding the Federal Rules of Bankruptcy Procedure, at such hearing, the court may grant relief on a final basis."
 

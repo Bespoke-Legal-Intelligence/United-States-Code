@@ -24,7 +24,7 @@ Function.—(1) The function of the Office is to carry out the Patient Advocacy 
 
 (d)
 
-Patient Advocacy Responsibilities.—The responsibilities of each patient advocate at a medical facility of the Department are the following:
+Patient Advocacy Responsibilities.—The responsibilities of each patient advocate at amedical facility of the Department are the following:
 
 &emsp;(1) To resolve complaints by veterans with respect to health care furnished under the laws administered by the Secretary that cannot be resolved at the point of service or at a higher level easily accessible to the veteran.
 

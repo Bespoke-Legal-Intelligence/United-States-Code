@@ -18,11 +18,13 @@ The Administrator of the Environmental Protection Agency shall coordinate enviro
 
 #### (c) Joint study by Council on Environmental Quality in consultation with Office of Science and Technology Policy for coordination of activities; report to President and Congress; report by President to Congress on implementation of joint study and report
 
-(1) In order to promote the coordination of environmental research and development activities, and to assure that the action taken and methods used (under subsection (a) and otherwise) to bring about such coordination will be as effective as possible for that purpose, the Council on Environmental Quality in consultation with the Office of Science and Technology Policy shall promptly undertake and carry out a joint study of all aspects of the coordination of environmental research and development. The Chairman of the Council shall prepare a report on the results of such study, together with such recommendations (including legislative recommendations) as he deems appropriate, and shall submit such report to the President and the Congress not later than May 31, 1978.
+(1) In order to promote the coordination of environmental research and development activities, and to assure that the action taken and methods used (under subsection (a) and otherwise) to bring about such coordination will be as effective as possible for that purpose, the Council on Environmental Quality in consultation with the Office of Science and Technology Policy shall promptly undertake and carry out a joint study of all aspects of the coordination of environmental research and development. TheChairman of the Council shall prepare a report on the results of such study, together with such recommendations (including legislative recommendations) as he deems appropriate, and shall submit such report to the President and the Congress not later than May 31, 1978.
 
 (2) Not later than September 30, 1978, the President shall report to the Congress on steps he has taken to implement the recommendations included in the report under paragraph (1), including any recommendations he may have for legislation.
 
 (Pub. L. 95–155, §9, Nov. 8, 1977, 91 Stat. 1261.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -31,6 +33,8 @@ Section 4361 of this title, referred to in subsec. (a), was repealed by Pub. L. 
 #### Codification
 
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coordination of Environmental Research, Development, and Demonstration Efforts; Study and Report
 

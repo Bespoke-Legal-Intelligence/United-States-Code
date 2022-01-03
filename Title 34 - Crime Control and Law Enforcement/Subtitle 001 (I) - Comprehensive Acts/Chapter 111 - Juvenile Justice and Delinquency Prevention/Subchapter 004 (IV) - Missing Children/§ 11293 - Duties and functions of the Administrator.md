@@ -228,7 +228,7 @@ Subsec. (b)(1)(S) to (V). Pub. L. 115–267, §2(c)(2)(G), redesignated subpars.
 
 Subsec. (a)(5). Pub. L. 113–38, §2(b)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Pub. L. 113–38, §2(b)(1)(A), in introductory provisions, substituted "Representatives, the Committee on Education and the Workforce of the House of Representatives," for "Representatives, and" and inserted ", and the Committee on the Judiciary of the Senate" after "Senate".
+Pub. L. 113–38, §2(b)(1)(A), in introductory provisions, substituted "Representatives, the Committee on Education and the Workforce of the House of Representatives," for "Representatives, and" and inserted ", andthe Committee on the Judiciary of the Senate" after "Senate".
 
 Subsec. (a)(6). Pub. L. 113–38, §2(b)(1)(B), redesignated par. (5) as (6).
 
@@ -274,7 +274,7 @@ Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Pri
 
 &emsp;"(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and".
 
-Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: "prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan forfacilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children."
+Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: "prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children."
 
 Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions as subpar. (A), inserted "24-hour" after "national" and "and" at end, and added subpar. (B).
 

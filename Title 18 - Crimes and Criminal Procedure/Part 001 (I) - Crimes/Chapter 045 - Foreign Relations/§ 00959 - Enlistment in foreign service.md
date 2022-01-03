@@ -12,7 +12,7 @@
 
 Based on title 18, U.S.C., 1940 ed., §§22, 30 (Mar. 4, 1909, ch. 321, §§10, 18, 35 Stat. 1089, 1091; May 7, 1917, ch. 11, 40 Stat. 39).
 
-Section consolidates said sections of title 18, U.S.C., 1940 ed. Last sentence of section 30 of title 18, U.S.C.,1940 ed., relating to piracy and treason, was omitted as unnecessary.
+Section consolidates said sections of title 18, U.S.C., 1940 ed. Last sentence of section 30 of title 18, U.S.C., 1940 ed., relating to piracy and treason, was omitted as unnecessary.
 
 Words "within the United States" were substituted for "within the jurisdiction" etc., in view of the definition of United States in section 5 of this title.
 

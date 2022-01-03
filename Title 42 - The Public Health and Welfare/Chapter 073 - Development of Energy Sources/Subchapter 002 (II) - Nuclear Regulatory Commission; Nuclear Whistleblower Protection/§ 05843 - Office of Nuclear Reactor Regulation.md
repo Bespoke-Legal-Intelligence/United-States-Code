@@ -14,7 +14,7 @@ Subject to the provisions of this chapter, the Director of Nuclear Reactor Regul
 
 &emsp;&emsp;(A) monitoring, testing and recommending upgrading of systems designed to prevent substantial health or safety hazards; and
 
-&emsp;&emsp;(B) evaluating methods of transporting special nuclear and other nuclear materials and of transporting and storing high-level radioactive wastes to prevent radiation hazards to employees and the general public.
+&emsp;&emsp;(B) evaluating methods of transporting special nuclear and other nuclear materials and of transporting and storing high-levelradioactive wastes to prevent radiation hazards to employees and the general public.
 
 &emsp;(3) Recommend research necessary for the discharge of the functions of the Commission.
 
@@ -24,11 +24,15 @@ Nothing in this section shall be construed to limit in any way the functions of 
 
 (Pub. L. 93–438, title II, §203, Oct. 11, 1974, 88 Stat. 1244.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -166,7 +166,7 @@ In order to fulfill the objectives described under subsection (d), each officer 
 
 #### (2) Participation
 
-&emsp;Nothing in this section shall be construed to require a State, local, or regional government or entity to accept the assignment of officers or intelligence analysts of the Department into the fusion center of that State, locality, or region.
+&emsp;Nothing in this section shall be construed to require a State, local, or regional governmentor entity to accept the assignment of officers or intelligence analysts of the Department into the fusion center of that State, locality, or region.
 
 #### (i) Guidelines
 
@@ -194,7 +194,7 @@ The Secretary, in consultation with the Attorney General, shall establish guidel
 
 #### (j) Fusion center information sharing strategy
 
-Not later than 1 year after March 2, 2020, and not less frequently than once every 5 yearsthereafter, the Secretary shall develop or update a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer, the Officer for Civil Rights and Civil Liberties, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
+Not later than 1 year after March 2, 2020, and not less frequently than once every 5 years thereafter, the Secretary shall develop or update a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer, the Officer for Civil Rights and Civil Liberties, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
 
 &emsp;(1) Specific goals and objectives for sharing information and engaging with fusion centers—
 

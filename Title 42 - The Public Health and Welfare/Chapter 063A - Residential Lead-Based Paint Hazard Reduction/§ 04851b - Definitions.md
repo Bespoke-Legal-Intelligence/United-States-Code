@@ -150,6 +150,8 @@ For the purposes of this chapter, the following definitions shall apply:
 
 (Pub. L. 102–550, title X, §1004, Oct. 28, 1992, 106 Stat. 3898; Pub. L. 115–31, div. K, title II, §237(b), May 5, 2017, 131 Stat. 789.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
@@ -158,7 +160,7 @@ Section 1 of the Housing and Urban Development Act of 1965, referred to in par. 
 
 #### Amendments
 
-<b>2017</b>—Par. (27). Pub. L. 115–31, §237(b)(1), which directed insertion of "or any 0-bedroom dwelling" after"disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
+<b>2017</b>—Par. (27). Pub. L. 115–31, §237(b)(1), which directed insertion of "or any 0-bedroom dwelling" after "disabilities,", was executed by making the insertion after "disabilities" the first place appearing to reflect the probable intent of Congress.
 
 Pub. L. 115–31, §237(b)(2), which directed substitution of "housing)" for "housing for the elderly or persons with disabilities) or any 0 bedroom dwelling", was executed by making the substitution for "housing for the elderly or persons with disabilities) or any 0-bedroom dwelling" to reflect the probable intent of Congress.
 

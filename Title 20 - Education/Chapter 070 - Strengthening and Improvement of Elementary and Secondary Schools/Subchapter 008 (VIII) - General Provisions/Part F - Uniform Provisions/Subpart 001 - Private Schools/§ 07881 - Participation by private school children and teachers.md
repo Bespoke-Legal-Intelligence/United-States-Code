@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Expenditures for educational services and other benefits provided under this section for eligible private school children, their teachers, and other educational personnel serving those children shall be equal, taking into account the number and educational needs of the children to be served, to the expenditures for participating public school children.
+&emsp;&emsp;Expenditures for educational services and other benefits provided under this section for eligible private school children, their teachers, and other educational personnel serving those children shall be equal, taking into account the number and educationalneeds of the children to be served, to the expenditures for participating public school children.
 
 #### (B) Obligation of funds
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;&emsp;(i) requested that the State educational agency provide such services directly; and
 
-&emsp;&emsp;&emsp;(ii) demonstrated that the local educational agency involved has not met therequirements of this section in accordance with the procedures for making such a request, as prescribed by the State educational agency.
+&emsp;&emsp;&emsp;(ii) demonstrated that the local educational agency involved has not met the requirements of this section in accordance with the procedures for making such a request, as prescribed by the State educational agency.
 
 #### (d) Public control of funds
 
@@ -145,6 +145,8 @@
 &emsp;&emsp;Funds used to provide services under this section shall not be commingled with non-Federal funds.
 
 (Pub. L. 89–10, title VIII, §8501, formerly title IX, §9501, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1975; renumbered title VIII, §8501, and amended Pub. L. 114–95, title VIII, §§8001(a)(5), 8015, Dec. 10, 2015, 129 Stat. 2088, 2089, 2109; Pub. L. 115–64, §3, Sept. 29, 2017, 131 Stat. 1189.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -187,6 +189,8 @@ Subsec. (c)(1)(F). Pub. L. 114–95, §8015(3)(B)(ii), struck out "contract" aft
 Subsec. (c)(1)(G), (H). Pub. L. 114–95, §8015(3)(B)(iii), added subpars. (G) and (H).
 
 Subsec. (c)(5), (6). Pub. L. 114–95, §8015(4), which directed amendment of this section by adding pars. (5) and (6) at the end, was executed by adding pars. (5) and (6) at the end of subsec. (c), to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

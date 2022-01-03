@@ -5,9 +5,11 @@
 | [5851\.](%C2%A7%2005851%20-%20Special%20%28occupational%29%20tax%20exemption.md) | Special (occupational) tax exemption. |
 | [5852\.](%C2%A7%2005852%20-%20General%20transfer%20and%20making%20tax%20exemption.md) | General transfer and making tax exemption. |
 | [5853\.](%C2%A7%2005853%20-%20Transfer%20and%20making%20tax%20exemption%20available%20to%20certain%20governmental%20entities.md) | Transfer and making tax exemption available to certain governmental entities. |
-| [5854\.](%C2%A7%2005854%20-%20Exportation%20of%20firearms%20exempt%20from%20transfer%20tax.md) | Exportation of firearms exempt from transfer tax. |
+| [5854\.](%C2%A7%2005854%20-%20Exportation%20of%20firearms%20exempt%20from%20transfer%20tax.md) | Exportation of firearms exempt from transfer tax.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

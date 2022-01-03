@@ -14,7 +14,7 @@ It is the policy of the United States that all water resources projects should r
 
 #### (1) Principles and guidelines defined
 
-&emsp;In this subsection, the term "principles and guidelines" means the principles and guidelines contained in the document prepared by the Water Resources Council pursuant to section 1962a–2 of this title, entitled "Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies", and dated March 10, 1983.
+&emsp;In this subsection, the term "principles and guidelines" means the principles and guidelines contained in the document prepared bythe Water Resources Council pursuant to section 1962a–2 of this title, entitled "Economic and Environmental Principles and Guidelines for Water and Related Land Resources Implementation Studies", and dated March 10, 1983.
 
 #### (2) In general
 
@@ -80,9 +80,13 @@ It is the policy of the United States that all water resources projects should r
 
 (Pub. L. 110–114, title II, §2031, Nov. 8, 2007, 121 Stat. 1082.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Planning Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Secretary" Defined
 

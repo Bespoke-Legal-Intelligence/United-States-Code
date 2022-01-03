@@ -18,6 +18,8 @@ In connection with all public hearings under this subchapter the Administrator s
 
 (June 25, 1947, ch. 125, §21, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 996; amended Pub. L. 94–140, §2(b), Nov. 28, 1975, 89 Stat. 752; Pub. L. 100–532, title VIII, §801(l), Oct. 25, 1988, 102 Stat. 2682; Pub. L. 102–237, title X, §1006(b)(1), (2), Dec. 13, 1991, 105 Stat. 1895; Pub. L. 104–170, title II, §234, Aug. 3, 1996, 110 Stat. 1509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–170 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
@@ -27,6 +29,8 @@ In connection with all public hearings under this subchapter the Administrator s
 <b>1988</b>—Pub. L. 100–532, §801(l), inserted headings for subsecs. (a) to (c).
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–140 inserted "in accordance with the procedure described in section 136w(a) of this title" after "Secretary of Agriculture".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -32,7 +32,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 &emsp;(II) Except as provided in subclause (III), the Secretary may not reduce the amount of a payment under this section to a local educational agency for a fiscal year by (aa) the amount equal to the amount of revenue, if any, the agency received during the previous fiscal year from activities conducted on Federal property eligible under this section and located in a school district served by the agency, including amounts received from any Federal department or agency (other than the Department of Education) from such activities, by reason of receipt of such revenue, or (bb) any other amount by reason of receipt of such revenue.
 
-&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to a local educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, then the Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
+&emsp;(III) If the amount equal to the sum of (aa) the proposed payment under this section to alocal educational agency for a fiscal year and (bb) the amount of revenue described in subclause (II)(aa) received by the agency during the previous fiscal year, exceeds the maximum amount the agency is eligible to receive under this section for the fiscal year involved, then the Secretary shall reduce the amount of the proposed payment under this section by an amount equal to such excess amount.
 
 &emsp;(ii) For purposes of clause (i), the amount of revenue that a local educational agency receives during the previous fiscal year from activities conducted on Federal property shall not include payments received by the agency from the Secretary of Defense to support—
 
@@ -46,7 +46,7 @@ Where the Secretary, after consultation with any local educational agency and wi
 
 #### (2) Application of current levied real property tax rate
 
-&emsp;In calculating the amount that a local educational agency is eligible to receive for a fiscal year, the Secretary shall apply the currentlevied real property tax rate for current expenditures levied by fiscally independent local educational agencies, or imputed for fiscally dependent local educational agencies, to the current annually determined estimated taxable value of such acquired Federal property.
+&emsp;In calculating the amount that a local educational agency is eligible to receive for a fiscal year, the Secretary shall apply the current levied real property tax rate for current expenditures levied by fiscally independent local educational agencies, or imputed for fiscally dependent local educational agencies, to the current annually determined estimated taxable value of such acquired Federal property.
 
 #### (3) Determination of taxable value for eligible Federal property
 
@@ -226,7 +226,9 @@ Notwithstanding any other provision of this section, in determining the eligibil
 
 &emsp;&emsp;(B) beginning in fiscal year 2003 or a subsequent fiscal year, is no longer eligible for payments under this section as provided for in subsection (a)(1)(C) as a result of the transfer of the Federal property involved to a non-Federal entity.
 
-(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4),Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
+(Pub. L. 89–10, title VII, §7002, formerly title VIII, §8002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3749; amended Pub. L. 104–195, §§1, 6, Sept. 16, 1996, 110 Stat. 2379, 2382; Pub. L. 105–18, title VI, §§60004, 60006, June 12, 1997, 111 Stat. 214, 215; Pub. L. 105–78, title III, Nov. 13, 1997, 111 Stat. 1498; Pub. L. 105–277, div. A, §101(f) \[title III\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–365; Pub. L. 106–113, div. B, §1000(a)(4) \[title III\], Nov. 29, 1999, 113 Stat. 1535, 1501A–247; Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1803\], Oct. 30, 2000, 114 Stat. 1654, 1654A–369; Pub. L. 107–110, title VIII, §801(a)–(e), Jan. 8, 2002, 115 Stat. 1947, 1948; Pub. L. 108–447, div. F, title III, §305, Dec. 8, 2004, 118 Stat. 3151; Pub. L. 112–239, div. A, title V, §563(b)(1), (c)(4), Jan. 2, 2013, 126 Stat. 1744, 1748; renumbered title VII, §7002, and amended Pub. L. 114–95, title VII, §§7001(a)(1), (c)(1), (d)(6), (9), 7003, Dec. 10, 2015, 129 Stat. 2074, 2075.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -276,7 +278,7 @@ Subsec. (n). Pub. L. 114–95, §7003(10), redesignated subsec. (n) as (k).
 
 <b>2013</b>—Pub. L. 112–239, §563(c)(4), which directed repeal of the amendments by Pub. L. 112–239, §563(b)(1), on the day after the 5-year period that began on Jan. 3, 2013, was itself repealed by Pub. L. 114–95, §7001(a)(1).
 
-Subsec. (a). Pub. L. 112–239, §563(b)(1)(A), struck out "for a fiscal year ending prior to October 1, 2003" at end of introductory provisions and inserted "or (h)" after "subsection (b)" in concluding provisions.
+Subsec. (a). Pub. L. 112–239, §563(b)(1)(A), struck out "for a fiscal year ending prior to October 1, 2003" at endof introductory provisions and inserted "or (h)" after "subsection (b)" in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 112–239, §563(b)(1)(B)(i), substituted "estimated taxable" for "aggregate assessed".
 
@@ -349,6 +351,8 @@ Subsec. (j). Pub. L. 105–78 added subsec. (j).
 <b>1996</b>—Subsecs. (g), (h). Pub. L. 104–195, §1, added subsecs. (g) and (h).
 
 Subsec. (i). Pub. L. 104–195, §6, added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

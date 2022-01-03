@@ -40,6 +40,8 @@ In this section, the term "brownfield site" has the meaning given the term in se
 
 (Pub. L. 89–136, title VI, §611, as added Pub. L. 108–373, title VI, §603(a), Oct. 27, 2004, 118 Stat. 1769.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3221, Pub. L. 89–136, title VII, §711, Aug. 26, 1965, 79 Stat. 574, related to employment of expediters and administrative employees, prior to repeal by Pub. L. 105–393, title I, §102(b)(3), Nov. 13, 1998, 112 Stat. 3617.

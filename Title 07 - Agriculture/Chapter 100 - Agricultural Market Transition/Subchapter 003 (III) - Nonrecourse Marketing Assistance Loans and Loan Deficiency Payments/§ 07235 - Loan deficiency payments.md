@@ -6,7 +6,7 @@ Except as provided in subsection (d), the Secretary may make loan deficiency pay
 
 &emsp;(1) producers who, although eligible to obtain a marketing assistance loan under section 7231 of this title with respect to a loan commodity, agree to forgo obtaining the loan for the commodity in return for payments under this section; and
 
-&emsp;(2) effective only for the 2000 and 2001 crop years, producers that, although not eligible to obtain such a marketing assistance loan under section 7231 of this title, produce a contract commodity.
+&emsp;(2) effective only for the 2000 and 2001 crop years, producers that, although not eligible to obtain such a marketing assistance loan undersection 7231 of this title, produce a contract commodity.
 
 #### (b) Computation
 
@@ -45,6 +45,8 @@ For the 2001 crop year, the Secretary shall determine the amount of the loan def
 &emsp;(2) The date the producers requested the payment.
 
 (Pub. L. 104–127, title I, §135, Apr. 4, 1996, 110 Stat. 909; Pub. L. 106–224, title II, §206, June 20, 2000, 114 Stat. 405; Pub. L. 107–171, title I, §1205(f)(2), May 13, 2002, 116 Stat. 159.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

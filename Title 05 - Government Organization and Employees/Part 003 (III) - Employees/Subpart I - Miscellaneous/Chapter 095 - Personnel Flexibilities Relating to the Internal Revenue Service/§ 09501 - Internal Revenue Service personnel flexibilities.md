@@ -12,9 +12,9 @@
 
 &emsp;(5) subject to subsections (b) and (c) of section 1104, as though such authorities were delegated to the Secretary of the Treasury under section 1104(a)(2).
 
-(b) The Secretary of the Treasury shall provide the Office of Personnel Management withany information that Office requires in carrying out its responsibilities under this section.
+(b) The Secretary of the Treasury shall provide the Office of Personnel Management with any information that Office requires in carrying out its responsibilities under this section.
 
-(c) Employees within a unit to which a labor organization is accorded exclusive recognition under chapter 71 shall not be subject to any flexibility provided by sections 9507 through 9510 of this chapter unless the exclusive representative and the Internal Revenue Service have entered into a written agreement which specifically provides for the exercise of that flexibility. Such written agreement may be imposed by the Federal Services Impasses Panel under section 7119.
+(c) Employees within a unit to which a labor organization is accorded exclusive recognition under chapter 71 shall not be subject to any flexibility provided by sections 9507 through 9510 of this chapter unless the exclusive representative and the Internal Revenue Service have entered into a written agreement which specifically provides for the exercise of that flexibility.Such written agreement may be imposed by the Federal Services Impasses Panel under section 7119.
 
 (Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 712.)
 

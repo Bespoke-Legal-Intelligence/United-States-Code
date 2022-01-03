@@ -16,7 +16,7 @@ In conducting the program authorized by this section, the Secretary shall—
 
 #### (c) Innovative energy technologies
 
-The Secretary is authorized to evaluate any reasonable new or improved technology, including basic research on highly innovative energy technologies, that could lead or contribute to the development of economic hydrogen production, storage, and utilization.
+The Secretary is authorized to evaluate any reasonable new or improved technology, including basic research on highly innovative energy technologies, that could lead or contribute tothe development of economic hydrogen production, storage, and utilization.
 
 #### (d) Renewable energy systems; hybrid systems
 
@@ -44,9 +44,13 @@ The Secretary shall establish, after consultation with other Federal agencies, t
 
 (Pub. L. 101–566, §104, Nov. 15, 1990, 104 Stat. 2798; Pub. L. 104–271, title I, §103(a), Oct. 9, 1996, 110 Stat. 3305.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–271 amended section generally, substituting present provisions for provisions which stated in subsec. (a) the Secretary was to conduct a research and development program for development of a domestic hydrogen fuel production capability; subsec. (b) attention was to be given to research of critical technical issues; subsec. (c) renewable energy priority; subsec. (d) new technologies; and subsec. (e) gathering and dissemination of information to support research and development efforts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Fuel Cells
 

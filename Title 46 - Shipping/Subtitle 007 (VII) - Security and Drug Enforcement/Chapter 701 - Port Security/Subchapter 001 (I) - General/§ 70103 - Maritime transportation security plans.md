@@ -40,7 +40,7 @@ National Maritime Transportation Security Plan.—(1) The Secretary shall prepar
 
 (4) Actions by Federal agencies to deter and minimize damage from a transportation security incident shall, to the greatest extent possible, be in accordance with the National Maritime Transportation Security Plan.
 
-(5) The Secretary shall inform vessel and facility owners or operators of the provisions in the National Transportation Security Plan that the Secretary considers necessary for security purposes.
+(5) The Secretary shall inform vessel and facility owners or operators of the provisions in theNational Transportation Security Plan that the Secretary considers necessary for security purposes.
 
 (b)
 
@@ -142,7 +142,7 @@ Vessel and Facility Security Plans.—(1) Within 6 months after the prescription
 
 (6) Notwithstanding paragraph (5), the Secretary may authorize a vessel or facility to operate without a security plan approved under this subsection, until not later than 1 year after the date of the submission to the Secretary of a plan for the vessel or facility, if the owner or operator of the vessel or facility certifies that the owner or operator has ensured by contract or other means approved by the Secretary to deter to the maximum extent practicable a transportation security incident or a substantial threat of such a security incident.
 
-(7) The Secretary shall require each owner or operator of a vessel or facility located within oradjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
+(7) The Secretary shall require each owner or operator of a vessel or facility located within or adjacent to waters subject to the jurisdiction of the United States to implement any necessary interim security measures, including cargo security programs, to deter to the maximum extent practicable a transportation security incident until the security plan for that vessel or facility operator is approved.
 
 (8)(A) The Secretary shall require that the qualified individual having full authority to implement security actions for a facility described in paragraph (2) shall be a citizen of the United States.
 

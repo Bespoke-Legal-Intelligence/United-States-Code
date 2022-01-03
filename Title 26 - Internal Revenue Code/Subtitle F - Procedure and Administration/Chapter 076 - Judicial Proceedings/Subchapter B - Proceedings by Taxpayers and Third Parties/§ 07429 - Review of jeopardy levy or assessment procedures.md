@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(B) the 16th day after the request described in subsection (a)(2) was made,
 
-> &emsp;the taxpayer may bring a civil action against the United States for a determination under this subsection in the court with jurisdiction determined under paragraph (2).
+> &emsp;the taxpayer may bring a civil action against the United States for a determination underthis subsection in the court with jurisdiction determined under paragraph (2).
 
 #### (2) Jurisdiction for determination
 
@@ -84,7 +84,7 @@ For purposes of this section, Saturday, Sunday, or a legal holiday in the Distri
 
 #### (2) Transfer of actions
 
-&emsp;If a civil action is filed under subsection (b) with the Tax Court and such court finds thatthere is want of jurisdiction because of the jurisdiction provisions of subsection (b)(2), then the Tax Court shall, if such court determines it is in the interest of justice, transfer the civil action to the district court in which the action could have been brought at the time such action was filed. Any civil action so transferred shall proceed as if such action had been filed in the district court to which such action is transferred on the date on which such action was actually filed in the Tax Court from which such action is transferred.
+&emsp;If a civil action is filed under subsection (b) with the Tax Court and such court finds that there is want of jurisdiction because of the jurisdiction provisions of subsection (b)(2), then the Tax Court shall, if such court determines it is in the interest of justice, transfer the civil action to the district court in which the action could have been brought at the time such action was filed. Any civil action so transferred shall proceed as if such action had been filed in the district court to which such action is transferred on the date on which such action was actually filed in the Tax Court from which such action is transferred.
 
 #### (f) Finality of determination
 
@@ -102,9 +102,11 @@ Any determination made by a court under this section shall be final and conclusi
 
 (Added Pub. L. 94–455, title XII, §1204(a), Oct. 4, 1976, 90 Stat. 1695; amended Pub. L. 98–369, div. A, title IV, §446(a), July 18, 1984, 98 Stat. 817; Pub. L. 100–203, title X, §10713(b)(2)(F), Dec. 22, 1987, 101 Stat. 1330–470; Pub. L. 100–647, title VI, §6237(a)–(e)(3), Nov. 10, 1988, 102 Stat. 3741–3743; Pub. L. 105–206, title III, §3434(a), July 22, 1998, 112 Stat. 760.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days after the day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–206 substituted "Administrative review" for "Information to taxpayer" in heading and amended text of par. (1) generally. Prior to amendment, text read as follows: "Within 5 days afterthe day on which an assessment is made under section 6851(a), 6852(a), 6861(a), or 6862, or levy is made under section 6331(a) less than 30 days after notice and demand for payment is made under section 6331(a), the Secretary shall provide the taxpayer with a written statement of the information upon which the Secretary relies in making such assessment or levy."
 
 <b>1988</b>—Pub. L. 100–647, §6237(e)(3), inserted "levy or" after "jeopardy" in section catchline.
 
@@ -133,6 +135,8 @@ Subsec. (g)(2). Pub. L. 100–647, §6237(e)(2)(C), substituted "a proceeding" f
 Subsecs. (a)(3)(A), (B), (b)(2)(A), (B), (g)(1), (2). Pub. L. 100–203, §10713(b)(2)(F)(ii), substituted "6851, 6852," for "6851," wherever appearing.
 
 <b>1984</b>—Subsec. (b)(2). Pub. L. 98–369 inserted provision that if the court determines that proper service was not made on the United States within 5 days after the date of the commencement of the action, the running of the 20-day period shall not begin before the day on which proper service was made on the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

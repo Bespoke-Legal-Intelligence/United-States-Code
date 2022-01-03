@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;With respect to the costs of the activities to be carried out by an entity pursuant to paragraph (1), a condition for the receipt of a grant under such paragraph is that the entity agree to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 25 percent of such costs.
+&emsp;&emsp;With respect to the costs of the activities to be carried out by an entity pursuant to paragraph (1), a condition for the receipt of a grant under such paragraph is that the entity agree to make available (directly or through donations from public or private entities) non-Federal contributions towardsuch costs in an amount that is not less than 25 percent of such costs.
 
 #### (B) Determination of amount contributed
 

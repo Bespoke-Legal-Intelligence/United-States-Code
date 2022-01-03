@@ -1,5 +1,7 @@
 ### §§3251 to 3254f. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 3251 to 3254f were omitted in the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795.
@@ -10,7 +12,7 @@ Section 3252, Pub. L. 89–272, title II, §203, Oct. 20, 1965, 79 Stat. 998; Pu
 
 Section 3253, Pub. L. 89–272, title II, §204, Oct. 20, 1965, 79 Stat. 998; Pub. L. 91–512, title I, §103, Oct. 26, 1970, 84 Stat. 1228, made provisions for research, demonstrations, training, and other activities relating to solid waste disposal. See section 6981 of this title.
 
-Section 3253a, Pub. L. 89–272, title II, §205, as added Pub. L. 91–512, title I, §104(a), Oct. 26, 1970, 84 Stat. 1228, directed Secretary to study methods of recovering useful energy and materials. See section 6985 of this title.
+Section 3253a, Pub. L. 89–272, title II, §205, as added Pub. L. 91–512, title I, §104(a), Oct. 26, 1970, 84 Stat. 1228,directed Secretary to study methods of recovering useful energy and materials. See section 6985 of this title.
 
 Section 3254, Pub. L. 89–272, title II, §206, formerly §205, Oct. 20, 1965, 79 Stat. 999; renumbered §206, Pub. L. 91–512, title I, §104(a), Oct. 26, 1970, 84 Stat. 1228, directed Secretary to encourage interstate and interlocal cooperation. See section 6941 of this title.
 

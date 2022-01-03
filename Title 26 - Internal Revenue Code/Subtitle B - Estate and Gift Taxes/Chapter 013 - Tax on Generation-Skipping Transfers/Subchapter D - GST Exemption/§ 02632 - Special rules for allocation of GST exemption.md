@@ -28,7 +28,7 @@
 
 #### (1) In general
 
-&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratiofor such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
+&emsp;If any individual makes an indirect skip during such individual's lifetime, any unused portion of such individual's GST exemption shall be allocated to the property transferred to the extent necessary to make the inclusion ratio for such property zero. If the amount of the indirect skip exceeds such unused portion, the entire unused portion shall be allocated to the property transferred.
 
 #### (2) Unused portion
 
@@ -152,6 +152,8 @@
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2721; amended Pub. L. 100–647, title I, §1014(g)(16), Nov. 10, 1988, 102 Stat. 3566; Pub. L. 107–16, title V, §561(a), (b), June 7, 2001, 115 Stat. 86, 89.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (b)(2). Pub. L. 107–16, §561(b), substituted "or subsection (c)(1)" for "with respect to a prior direct skip".
@@ -159,6 +161,8 @@
 Subsecs. (c) to (e). Pub. L. 107–16, §561(a), added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 
 <b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "paragraph (1) with respect to a prior direct skip)" for "paragraph (1)) with respect to a prior direct skip".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

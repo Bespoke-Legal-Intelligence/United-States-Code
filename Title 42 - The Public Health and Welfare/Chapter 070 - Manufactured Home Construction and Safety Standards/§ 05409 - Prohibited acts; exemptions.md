@@ -20,7 +20,7 @@
 
 (2) For purposes of section 5410 of this title, paragraph (1) of subsection (a) shall not apply to any person who establishes that he did not have reason to know in the exercise of due care that such manufactured home is not in conformity with applicable Federal manufactured home construction and safety standards, or to any person who, prior to such first purchase, holds a certificate issued by the manufacturer or importer of such manufactured home to the effect that such manufactured home conforms to all applicable Federal manufactured home construction and safety standards, unless such person knows that such manufactured home does not so conform.
 
-(3) A manufactured home offered for importation in violation of paragraph (1) of subsection (a) shall be refused admission into the United States under joint regulations issued by the Secretary of the Treasury and the Secretary, exceptthat the Secretary of the Treasury and the Secretary may, by such regulations, provide for authorizing the importation of such manufactured home into the United States upon such terms and conditions (including the furnishing of a bond) as may appear to them appropriate to insure that any such manufactured home will be brought into conformity with any applicable Federal manufactured home construction or safety standard prescribed under this chapter, or will be exported from, or forfeited to, the United States.
+(3) A manufactured home offered for importation in violation of paragraph (1) of subsection (a) shall be refused admission into the United States under joint regulations issued by the Secretary of the Treasury and the Secretary, except that the Secretary of the Treasury and the Secretary may, by such regulations, provide for authorizing the importation of such manufactured home into the United States upon such terms and conditions (including the furnishing of a bond) as may appear to them appropriate to insure that any such manufactured home will be brought into conformity with any applicable Federal manufactured home construction or safety standard prescribed under this chapter, or will be exported from, or forfeited to, the United States.
 
 (4) The Secretary of the Treasury and the Secretary may, by joint regulations, permit the importation of any manufactured home after the first purchase of it in good faith for purposes other than resale.
 
@@ -30,6 +30,8 @@
 
 (Pub. L. 93–383, title VI, §610, Aug. 22, 1974, 88 Stat. 704; Pub. L. 95–128, title IX, §902(b), Oct. 12, 1977, 91 Stat. 1149; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §608, Dec. 27, 2000, 114 Stat. 3009.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(7). Pub. L. 106–569 added par. (7).
@@ -37,6 +39,8 @@
 <b>1980</b>—Subsecs. (a)(1), (4), (b)(1) to (5), (c). Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
 
 <b>1977</b>—Subsec. (a)(6). Pub. L. 95–128 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

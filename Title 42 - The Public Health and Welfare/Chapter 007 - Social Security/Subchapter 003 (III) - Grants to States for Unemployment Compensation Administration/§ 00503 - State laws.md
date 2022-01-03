@@ -18,7 +18,7 @@ The Secretary of Labor shall make no certification for payment to any State unle
 
 &emsp;(7) Making available upon request to any agency of the United States charged with the administration of public works or assistance through public employment, the name, address, ordinary occupation and employment status of each recipient of unemployment compensation, and a statement of such recipient's rights to further compensation under such law; and
 
-&emsp;(8) Effective July 1, 1941, the expenditure of all moneys received pursuant to section 502 of this title solely for the purposes and in the amounts found necessary by the Secretary of Labor for the proper and efficient administration of such State law; and
+&emsp;(8) Effective July 1, 1941, the expenditure of all moneys received pursuant to section 502 ofthis title solely for the purposes and in the amounts found necessary by the Secretary of Labor for the proper and efficient administration of such State law; and
 
 &emsp;(9) Effective July 1, 1941, the replacement, within a reasonable time, of any moneys received pursuant to section 502 of this title, which, because of any action or contingency, have been lost or have been expended for purposes other than, or in amounts in excess of, those found necessary by the Secretary of Labor for the proper administration of such State law; and
 
@@ -68,7 +68,7 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(iv) whether an individual has refused an offer of employment and, if so, a description of the employment so offered and the terms, conditions, and rate of pay therefor, and
 
-&emsp;(B) shall establish such safeguards as are necessary (as determined by the Secretary ofLabor in regulations) to insure that information disclosed under subparagraph (A) is used only for purposes of determining an individual's eligibility for benefits, or the amount of benefits, under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\].
+&emsp;(B) shall establish such safeguards as are necessary (as determined by the Secretary of Labor in regulations) to insure that information disclosed under subparagraph (A) is used only for purposes of determining an individual's eligibility for benefits, or the amount of benefits, under the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 \[7 U.S.C. 2011 et seq.\].
 
 (2)(A) For purposes of this paragraph, the term "unemployment compensation" means any unemployment compensation payable under the State law (including amounts payable pursuant to an agreement under a Federal unemployment compensation law).
 
@@ -116,13 +116,13 @@ The Secretary of Labor shall make no certification for payment to any State if h
 
 &emsp;&emsp;(I) the amount specified by the individual to the State agency to be deducted and withheld under this clause,
 
-&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the Stateagency under section 654(19)(B)(i) of this title, or
+&emsp;&emsp;(II) the amount (if any) determined pursuant to an agreement submitted to the State agency under section 654(19)(B)(i) of this title, or
 
 &emsp;&emsp;(III) any amount otherwise required to be so deducted and withheld from such unemployment compensation through legal process (as defined in section 662(e) <sup>4</sup> of this title), and
 
 &emsp;(iv) shall pay any amount deducted and withheld under clause (iii) to the appropriate State or local child support enforcement agency.
 
-> Any amount deducted and withheld under clause (iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by such individual to the State or local child support enforcement agency in satisfaction of his child support obligations.
+> Any amount deducted and withheld under clause (iii) shall for all purposes be treated as if it were paid to the individual as unemployment compensation and paid by such individual to theState or local child support enforcement agency in satisfaction of his child support obligations.
 
 (B) For purposes of this paragraph, the term "unemployment compensation" means any compensation payable under the State law (including amounts payable pursuant to agreements under any Federal unemployment compensation law).
 
@@ -160,7 +160,7 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;(C) establish such safeguards as the Secretary of Labor determines are necessary to insure that information disclosed under subparagraph (A) is used only for purposes of subsections (i)(1), (i)(3), and (j) of section 653 of this title.
 
-(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until theSecretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
+(2) Whenever the Secretary of Labor, after reasonable notice and opportunity for hearing to the State agency charged with the administration of the State law, finds that there is a failure to comply substantially with the requirements of paragraph (1), the Secretary of Labor shall notify such State agency that further payments will not be made to the State until the Secretary of Labor is satisfied that there is no longer any such failure. Until the Secretary of Labor is so satisfied, the Secretary shall make no future certification to the Secretary of the Treasury with respect to the State.
 
 (3) For purposes of this subsection—
 
@@ -216,7 +216,7 @@ The State agency charged with the administration of the State law shall provide 
 
 &emsp;(D) that meaningful civil and criminal penalties are imposed with respect to—
 
-&emsp;&emsp;(i) persons that knowingly violate or attempt to violate those provisions of theState law which implement subparagraph (A) or (B) or regulations under subparagraph (C), and
+&emsp;&emsp;(i) persons that knowingly violate or attempt to violate those provisions of the State law which implement subparagraph (A) or (B) or regulations under subparagraph (C), and
 
 &emsp;&emsp;(ii) persons that knowingly advise another person to violate those provisions of the State law which implement subparagraph (A) or (B) or regulations under subparagraph (C), and
 
@@ -260,13 +260,15 @@ In the case of a covered unemployment compensation debt (as defined under sectio
 
 (Aug. 14, 1935, ch. 531, title III, §303, 49 Stat. 626; June 25, 1938, ch. 680, §13(g), 52 Stat. 1112; June 20, 1939, ch. 227, §18, 53 Stat. 848; Aug. 10, 1939, ch. 666, title III, §302, 53 Stat. 1378; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §416(c), 60 Stat. 991; 1949 Reorg. Plan No. 2, §1, eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065; Aug. 28, 1950, ch. 809, title IV, §405(b), 64 Stat. 560; Aug. 5, 1954, ch. 657, §5(a)(1), 68 Stat. 673; Pub. L. 96–249, title I, §127(b)(1), May 26, 1980, 94 Stat. 366; Pub. L. 96–265, title IV, §408(b)(1), June 9, 1980, 94 Stat. 468; Pub. L. 96–473, §6(e)(1), Oct. 19, 1980, 94 Stat. 2265; Pub. L. 97–35, title XXIII, §2335(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(3), 175(a)(2), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–21, title V, §§515(a), 523(b), Apr. 20, 1983, 97 Stat. 147, 148; Pub. L. 98–369, div. B, title VI, §§2651(d), 2663(b)(2)–(5), July 18, 1984, 98 Stat. 1149, 1165; Pub. L. 99–198, title XV, §1535(b)(3), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 99–272, title XII, §12401(a), Apr. 7, 1986, 100 Stat. 297; Pub. L. 100–485, title I, §124(b)(1), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 100–628, title IX, §904(c)(1)(A), Nov. 7, 1988, 102 Stat. 3260; Pub. L. 102–318, title IV, §401(a)(3), July 3, 1992, 106 Stat. 298; Pub. L. 103–152, §4(a)(1), (b), Nov. 24, 1993, 107 Stat. 1517; Pub. L. 103–182, title V, §507(b)(3), Dec. 8, 1993, 107 Stat. 2154; Pub. L. 103–465, title VII, §702(c)(3), Dec. 8, 1994, 108 Stat. 4997; Pub. L. 104–193, title III, §§313(d), 316(g)(3), Aug. 22, 1996, 110 Stat. 2212, 2219; Pub. L. 105–33, title V, §5201, Aug. 5, 1997, 111 Stat. 597; Pub. L. 105–65, title V, §542(a)(1), Oct. 27, 1997, 111 Stat. 1412; Pub. L. 107–147, title II, §209(d)(2), Mar. 9, 2002, 116 Stat. 33; Pub. L. 108–295, §2(a), Aug. 9, 2004, 118 Stat. 1090; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), May 22, 2008, 122 Stat. 1095–1097, 1109, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (D), (2)(V), 4115(c)(1)(A)(i), (B)(iii), (2)(F), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1870, 1871; Pub. L. 112–40, title II, §251(a), Oct. 21, 2011, 125 Stat. 420; Pub. L. 112–96, title II, §§2101(a), 2103(a), (b), 2105, 2161(b)(2), Feb. 22, 2012, 126 Stat. 159, 161, 162, 172; Pub. L. 113–67, div. A, title II, §201(a), Dec. 26, 2013, 127 Stat. 1176.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Unemployment Tax Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§3301–3311, 68A Stat. 439, which is classified generally to chapter 23 (§3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3311 of Title 26 and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(5), (k)(2)(D), (F), and (m), is classified generally to Title 26, Internal Revenue Code.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(1)(B), (4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(t)(1) of the Act was redesignated section 3(s)(1) by Pub. L. 113–79, title IV, §4030(a)(4), Feb. 7, 2014, 128 Stat. 813, and is classified to section 2012(s)(1) of Title 7. For complete classification of this Act to the Code, see ShortTitle note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(1)(B), (4), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. Section 3(t)(1) of the Act was redesignated section 3(s)(1) by Pub. L. 113–79, title IV, §4030(a)(4), Feb. 7, 2014, 128 Stat. 813, and is classified to section 2012(s)(1) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 Section 662 of this title, referred to in subsec. (e)(2)(A)(iii)(III), was repealed by Pub. L. 104–193, title III, §362(b)(1), Aug. 22, 1996, 110 Stat. 2246.
 
@@ -380,6 +382,8 @@ Subsec. (c)(2). Act June 20, 1939, substituted "unemployment" for "employment".
 
 <b>1938</b>—Subsec. (c). Act June 25, 1938, added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 113–67, div. A, title II, §201(b), Dec. 26, 2013, 127 Stat. 1176, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect upon the date of enactment of this Act \[Dec. 26, 2013\]."
@@ -474,7 +478,7 @@ Pub. L. 97–248, title I, §175(b), Sept. 3, 1982, 96 Stat. 403, provided that:
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XXIII, §2335(c), Aug. 13, 1981, 95 Stat. 864, provided that: "The amendments made by this section \[amending this section and section 654 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\], except that such amendments shall not be requirements under section 454 or 303 of the Social Security Act \[42 U.S.C. 654, 503\] before October 1, 1982."
+Pub. L. 97–35, title XXIII, §2335(c), Aug. 13, 1981, 95 Stat. 864, provided that: "The amendments made bythis section \[amending this section and section 654 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 13, 1981\], except that such amendments shall not be requirements under section 454 or 303 of the Social Security Act \[42 U.S.C. 654, 503\] before October 1, 1982."
 
 #### Effective Date of 1980 Amendment
 
@@ -485,14 +489,6 @@ Pub. L. 96–249, title I, §127(b)(3), May 26, 1980, 94 Stat. 367, provided tha
 #### Transfer of Functions
 
 Functions, powers, and duties of Secretary of Labor under subsec. (a)(1) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(2)(B) of this title.
-
-For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Functions of Federal Security Administrator with respect to unemployment compensation transferred to Secretary of Labor by section 1 of Reorg. Plan No. 2 of 1949 set out in the Appendix to Title 5.
-
-Section 1 of Reorg. Plan No. 2 of 1949 also provided that functions transferred by this section shall be performed by Secretary of Labor, or subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
-
-"Administrator" substituted for "Board" by section 2 of Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5.
 
 #### Application to Federal Payments
 
@@ -543,6 +539,18 @@ Pub. L. 103–152, §4(c), Nov. 24, 1993, 107 Stat. 1518, provided that: "The Se
 #### Profiling System Report to Congress
 
 Pub. L. 103–152, §4(d), Nov. 24, 1993, 107 Stat. 1518, provided that, not later than 3 years after Nov. 24, 1993, the Secretary of Labor was to report to the Congress on the operation and effectiveness of the profiling system required under the amendments made by section 4(a) of Pub. L. 103–152 (amending this section and section 504 of this title) and the participation requirement provided by the amendments made under section 4(b) of Pub. L. 103–152 (amending this section).
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Functions of Federal Security Administrator with respect to unemployment compensation transferred to Secretary of Labor by section 1 of Reorg. Plan No. 2 of 1949 set out in the Appendix to Title 5.
+
+Section 1 of Reorg. Plan No. 2 of 1949 also provided that functions transferred by this section shall be performed by Secretary of Labor, or subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
+
+"Administrator" substituted for "Board" by section 2 of Reorg. Plan No. 2 of 1946, set out in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Unemployment Trust Fund".</i>
 

@@ -14,6 +14,8 @@ Time Spent in Seaman to Admiral Program.—The months of active service in pursu
 
 (Added Pub. L. 104–106, div. A, title V, §561(d)(3)(A), Feb. 10, 1996, 110 Stat. 322, §6328; amended Pub. L. 107–107, div. A, title X, §1048(c)(13), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 111–84, div. A, title V, §505, Oct. 28, 2009, 123 Stat. 2277; Pub. L. 113–291, div. A, title X, §1071(e)(5), Dec. 19, 2014, 128 Stat. 3510; renumbered §8328, Pub. L. 115–232, div. A, title VIII, §807(b)(15), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6328 of this title as this section.
@@ -23,6 +25,8 @@ Time Spent in Seaman to Admiral Program.—The months of active service in pursu
 <b>2009</b>—Subsec. (c). Pub. L. 111–84 added subsec. (c).
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 substituted "February 10, 1996," for "the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

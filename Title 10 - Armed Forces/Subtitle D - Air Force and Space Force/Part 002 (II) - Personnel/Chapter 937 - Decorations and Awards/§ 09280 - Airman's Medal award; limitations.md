@@ -26,9 +26,11 @@ July 2, 1926, ch. 721, §11, 44 Stat. 789.
 
 10:1428 (last sentence).
 
-The words "Under such rules and regulations as he may prescribe" are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words "but not in the nameof Congress" are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word "award" is substituted for the word "present" to cover the determination of the recipients as well as the actual presentation of the medal. The words "a decoration called" are substituted for the words "a medal to be known as". The words "including the National Guard and the Organized Reserves" are omitted as surplusage. The words "or herself" are omitted, since, under section 1 of title 1, words importing the masculine gender include the feminine. The words "after July 2, 1926" are omitted as executed.
+The words "Under such rules and regulations as he may prescribe" are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words "but not in the name of Congress" are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word "award" is substituted for the word "present" to cover the determination of the recipients as well as the actual presentation of the medal. The words "a decoration called" are substituted for the words "a medal to be known as". The words "including the National Guard and the Organized Reserves" are omitted as surplusage. The words "or herself" are omitted, since, under section 1 of title 1, words importing the masculine gender include the feminine. The words "after July 2, 1926" are omitted as executed.
 
 In subsection (b), the words "that would otherwise justify" are substituted for the words "sufficient to".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +39,8 @@ In subsection (b), the words "that would otherwise justify" are substituted for 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85 designated existing provisions as par. (1) and added par. (2).
 
 <b>1960</b>—Pub. L. 86–593 substituted "Airman's Medal" for "Soldier's Medal" in section catchline and wherever appearing in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

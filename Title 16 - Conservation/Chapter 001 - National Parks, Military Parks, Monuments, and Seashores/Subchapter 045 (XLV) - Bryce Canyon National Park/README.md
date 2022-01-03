@@ -1,5 +1,7 @@
 ### SUBCHAPTER XLV—BRYCE CANYON NATIONAL PARK
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Utah National Park changed to Bryce Canyon National Park, see section 402a of this title.

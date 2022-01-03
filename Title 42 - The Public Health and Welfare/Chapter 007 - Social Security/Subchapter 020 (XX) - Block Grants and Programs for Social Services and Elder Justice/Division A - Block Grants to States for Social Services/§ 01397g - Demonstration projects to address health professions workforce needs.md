@@ -20,7 +20,7 @@
 
 #### (B) Consultation and coordination
 
-&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the application that the entity has consulted with the State agency responsible for administering theState TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
+&emsp;&emsp;An eligible entity applying for a grant to carry out a demonstration project under this section shall demonstrate in the applicationthat the entity has consulted with the State agency responsible for administering the State TANF program, the local workforce investment board in the area in which the project is to be conducted (unless the applicant is such board), the State workforce development board established under section 3111 of title 29, and the State Apprenticeship Agency recognized under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act") \[29 U.S.C. 50 et seq.\] (or if no agency has been recognized in the State, the Office of Apprenticeship of the Department of Labor) and that the project will be carried out in coordination with such entities.
 
 #### (C) Assurance of opportunities for Indian populations
 
@@ -254,6 +254,8 @@
 
 (Aug. 14, 1935, ch. 531, title XX, §2008, as added and amended Pub. L. 111–148, title V, §5507(a), title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 663, 803; Pub. L. 113–93, title II, §208, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 113–128, title V, §512(dd)(4), July 22, 2014, 128 Stat. 1718; Pub. L. 114–10, title II, §217, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title VI, §50611, Feb. 9, 2018, 132 Stat. 232.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of August 16, 1937, referred to in subsec. (a)(2)(B), (4)(A), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, popularly known as the National Apprenticeship Act, which is classified generally to chapter 4C (§50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 50 of Title 29 and Tables.
@@ -273,6 +275,8 @@ Subsec. (a)(4)(A). Pub. L. 113–128, §512(dd)(4)(B), substituted "a local work
 Subsec. (c)(1). Pub. L. 113–93 substituted "2015" for "2014".
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–148, §6703(d)(1)(B), which directed substitution of "this division" for "this subchapter" wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in subsec. (d) of this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

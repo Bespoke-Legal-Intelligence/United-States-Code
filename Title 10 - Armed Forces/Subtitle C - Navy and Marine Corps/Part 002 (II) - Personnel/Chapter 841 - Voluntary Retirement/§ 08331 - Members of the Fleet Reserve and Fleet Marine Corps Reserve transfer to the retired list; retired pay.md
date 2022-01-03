@@ -16,7 +16,7 @@
 
 (c) Unless otherwise entitled to higher pay, each member transferred to the retired list or the Retired Reserve under this section is entitled to retired pay at the same rate as the retainer pay to which he was entitled at the time of his transfer to the retired list or the Retired Reserve.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 397, §6331; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480; Pub.L. 109–163, div. A, title V, §515(b)(1)(K), Jan. 6, 2006, 119 Stat. 3233; renumbered §8331 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(15), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 397, §6331; Pub. L. 85–583, §1(4–6), Aug. 1, 1958, 72 Stat. 480; Pub. L. 109–163, div. A, title V, §515(b)(1)(K), Jan. 6, 2006, 119 Stat. 3233; renumbered §8331 and amended Pub. L. 115–232, div. A, title VIII, §§807(b)(15), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
 Historical and Revision Notes
 
@@ -50,6 +50,8 @@ Subsection (b) is worded so as to cover all members of the Fleet Reserve and the
 
 In subsection (c) references to the "allowances to which enlisted men of the Navy are entitled on retirement after thirty years' service", in the second and fourth provisos of 34 U.S.C. 854e, are omitted because of the repeal, by §19 of the Pay Readjustment Act of 1942, 56 Stat. 369, of the laws authorizing such allowances.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(15), renumbered section 6331 of this title as this section.
@@ -63,6 +65,8 @@ Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 8385" for "sectio
 Subsec. (b). Pub. L. 85–583, §1(5), struck out "of clause (2)".
 
 Subsec. (c). Pub. L. 85–583, §1(6), inserted "or the Retired Reserve" after "retired list" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

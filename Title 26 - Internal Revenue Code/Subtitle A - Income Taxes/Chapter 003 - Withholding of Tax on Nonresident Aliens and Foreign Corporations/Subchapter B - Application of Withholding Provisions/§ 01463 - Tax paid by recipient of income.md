@@ -10,11 +10,15 @@ If—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 360; Pub. L. 101–239, title VII, §7743(a), Dec. 19, 1989, 103 Stat. 2406; Pub. L. 104–188, title I, §1704(t)(9), Aug. 20, 1996, 110 Stat. 1887.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–188 substituted "this section" for "this subsection".
 
 <b>1989</b>—Pub. L. 101–239 amended section generally. Prior to amendment, section read as follows: "If any tax required under this chapter to be deducted and withheld is paid by the recipient of the income, it shall not be re-collected from the withholding agent; nor in cases in which the tax is so paid shall any penalty be imposed on or collected from the recipient of the income or the withholding agent for failure to return or pay the same, unless such failure was fraudulent and for the purpose of evading payment."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

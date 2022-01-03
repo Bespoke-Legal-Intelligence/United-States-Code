@@ -8,7 +8,7 @@ Whenever the witness resides outside the county in which the hearing occurs any 
 
 #### Codification
 
-The original text of this section referred to both registers and receivers, but reference to the latter was omitted in view of the abolition of such office under acts Mar. 3, 1925, and Oct. 28, 1921, which provided for the consolidation of the two offices under a register only. See, also, Transfer of Functions note below.
+The original text of this section referred to both registers and receivers, but reference to the latter wasomitted in view of the abolition of such office under acts Mar. 3, 1925, and Oct. 28, 1921, which provided for the consolidation of the two offices under a register only. See, also, Transfer of Functions note below.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

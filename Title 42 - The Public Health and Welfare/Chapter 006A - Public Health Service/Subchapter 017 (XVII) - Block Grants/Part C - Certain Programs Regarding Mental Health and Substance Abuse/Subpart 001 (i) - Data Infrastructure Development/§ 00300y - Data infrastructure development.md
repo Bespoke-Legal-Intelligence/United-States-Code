@@ -20,7 +20,7 @@ As a condition of the receipt of an award under this section a State shall agree
 
 #### (2) Determination of amount contributed
 
-&emsp;Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to anysignificant extent by the Federal Government, may not be included in determining the amount of such contributions.
+&emsp;Non-Federal contributions under paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
 
 #### (e) Duration of support
 
@@ -37,6 +37,8 @@ The period during which payments may be made for a project under subsection (a) 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, 50 percent shall be expended to support data infrastructure development for mental health and 50 percent shall be expended to support data infrastructure development for substance abuse.
 
 (July 1, 1944, ch. 373, title XIX, §1971, as added Pub. L. 106–310, div. B, title XXXIV, §3404(2), Oct. 17, 2000, 114 Stat. 1220.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

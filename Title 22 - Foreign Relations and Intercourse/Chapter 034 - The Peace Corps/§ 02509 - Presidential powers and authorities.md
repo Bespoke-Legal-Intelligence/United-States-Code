@@ -8,7 +8,7 @@ In furtherance of the purposes of this chapter, the President may—
 
 &emsp;(2) assign volunteers in special cases to temporary duty with international organizations and agencies when the Secretary of State determines that such assignment would serve the purposes of this chapter;
 
-&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
+&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing developmentor other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
 
 &emsp;(4) accept in the name of the Peace Corps and employ or transfer in furtherance of the purposes of this chapter (A) voluntary services notwithstanding the provisions of section 1342 of title 31, and (B) any money or property (real, personal or mixed, tangible or intangible) received by gift, devise, bequest, or otherwise; and
 
@@ -44,7 +44,7 @@ The President may provide hospitalization and medical treatment to Foreign Servi
 
 #### (i) Procurement of legal services
 
-The Director of the Peace Corps shall have the same authority as is available to the Secretary of State under section 2698(a) of this title. For purposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
+The Director of the Peace Corps shall have the same authority as is available to the Secretary of State under section 2698(a) of this title. Forpurposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
 
 #### (j) Malpractice protection
 
@@ -62,7 +62,7 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 &emsp;(B) the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
-(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360;Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, §5(2), Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title II, §203, Oct. 9, 2018, 132 Stat. 3655.)
+(Pub. L. 87–293, title I, §10, Sept. 22, 1961, 75 Stat. 617; Pub. L. 88–200, §5, Dec. 13, 1963, 77 Stat. 360; Pub. L. 89–134, §6, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §6, Sept. 13, 1966, 80 Stat. 765; Pub. L. 93–49, §2, June 25, 1973, 87 Stat. 99; Pub. L. 95–331, §5(a), (c), Aug. 2, 1978, 92 Stat. 414, 415; Pub. L. 97–113, title VI, §604(a), Dec. 29, 1981, 95 Stat. 1543; Pub. L. 103–236, title VI, §602, Apr. 30, 1994, 108 Stat. 491; Pub. L. 106–30, §2(b)(4), May 21, 1999, 113 Stat. 56; Pub. L. 112–57, §5(2), Nov. 21, 2011, 125 Stat. 744; Pub. L. 115–256, title II, §203, Oct. 9, 2018, 132 Stat. 3655.)
 
 #### <b>Editorial Notes</b>
 
@@ -112,7 +112,7 @@ Subsec. (h). Pub. L. 95–331, §5(a)(3), added subsec. (h).
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: "The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to claims made after the date of the enactment of this Act \[Aug. 2, 1978\]."
+Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: "The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply toclaims made after the date of the enactment of this Act \[Aug. 2, 1978\]."
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 

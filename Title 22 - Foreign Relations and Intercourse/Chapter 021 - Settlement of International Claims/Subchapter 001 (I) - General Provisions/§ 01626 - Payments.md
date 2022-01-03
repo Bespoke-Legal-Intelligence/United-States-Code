@@ -6,7 +6,7 @@ Subject to the limitations hereinafter provided, the Secretary of the Treasury i
 
 #### (b) Deductions; coverage into Treasury; reimbursement for expenses
 
-(1) There shall be deducted from the amount of each payment made pursuant to subsection (c)of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
+(1) There shall be deducted from the amount of each payment made pursuant to subsection (c) of section 1627 of this title, as reimbursement for the expenses incurred by the United States, an amount equal to 5 per centum of such payment. All amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
 (2) The Secretary of the Treasury shall deduct from any amounts covered, subsequent to July 24, 1968, into any special fund, created pursuant to section 1627 of this title, 5 per centum thereof as reimbursement to the Government of the United States for expenses incurred by the Commission and by the Treasury Department in the administration of this subchapter. The amounts so deducted shall be covered into the Treasury to the credit of miscellaneous receipts.
 
@@ -48,7 +48,7 @@ Subsec. (d). Pub. L. 104–316, §202(h)(2), struck out ", or the Comptroller G
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–421, §1(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted "any person to whom any payment is to be made pursuant to this subchapter" for "such person" and ", except that if any payment to be made is not over $1000" for ": <i>Provided</i>, That if the total award is not over $500", and struck out "of the United States" after "Comptroller General".
+Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted "any person to whom any payment is to be made pursuant to this subchapter" for "such person" and ", except thatif any payment to be made is not over $1000" for ": <i>Provided</i>, That if the total award is not over $500", and struck out "of the United States" after "Comptroller General".
 
 <b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as "title I".
 

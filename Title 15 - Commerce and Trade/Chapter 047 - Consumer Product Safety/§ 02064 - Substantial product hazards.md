@@ -42,7 +42,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 (2) The Commission may require a notice described in paragraph (1) to be distributed in a language other than English if the Commission determines that doing so is necessary to adequately protect the public.
 
-(3) If a district court determines, in an action filed under section 2061 of this title, that the product that is the subject of such action is not an imminently hazardous consumer product, theCommission shall rescind any order issued under this subsection with respect to such product.
+(3) If a district court determines, in an action filed under section 2061 of this title, that the product that is the subject of such action is not an imminently hazardous consumer product, the Commission shall rescind any order issued under this subsection with respect to such product.
 
 #### (d) Repair; replacement; refunds; action plan
 
@@ -76,7 +76,7 @@ Every manufacturer of a consumer product, or other product or substance over whi
 
 #### (g) Preliminary injunction
 
-(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply tothe issuing court for extensions of such preliminary injunction.
+(1) If the Commission has initiated a proceeding under this section for the issuance of an order under subsection (d) with respect to a product which the Commission has reason to believe presents a substantial product hazard, the Commission (without regard to section 2076(b)(7) of this title) or the Attorney General may, in accordance with 2061(d)(1) <sup>3</sup> of this title, apply to a district court of the United States for the issuance of a preliminary injunction to restrain the distribution in commerce of such product pending the completion of such proceeding. If such a preliminary injunction has been issued, the Commission (or the Attorney General if the preliminary injunction was issued upon an application of the Attorney General) may apply to the issuing court for extensions of such preliminary injunction.
 
 (2) Any preliminary injunction, and any extension of a preliminary injunction, issued under this subsection with respect to a product shall be in effect for such period as the issuing court prescribes not to exceed a period which extends beyond the thirtieth day from the date of the issuance of the preliminary injunction (or, in the case of a preliminary injunction which has been extended, the date of its extension) or the date of the completion or termination of the proceeding under this section respecting such product, whichever date occurs first.
 
@@ -148,6 +148,8 @@ Nothing in this section shall be construed to require the Commission, in determi
 
 (Pub. L. 92–573, §15, Oct. 27, 1972, 86 Stat. 1221; Pub. L. 94–284, §12(a), May 11, 1976, 90 Stat. 508; Pub. L. 97–35, title XII, §1211(h)(4), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(3), (m), Jan. 4, 1983, 96 Stat. 2064, 2065; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §§111(a)(2), 112(a), 113, Nov. 16, 1990, 104 Stat. 3114, 3115, 3117; Pub. L. 110–314, title II, §§214, 223(a), Aug. 14, 2008, 122 Stat. 3052, 3068.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 30102(a)(7) of title 49, referred to in subsec. (b), was redesignated section 30102(a)(8) of title 49 by section 24109(b)(2) of Pub. L. 114–94, div. B, title XXIV, Dec. 4, 2015, 129 Stat. 1706.
@@ -156,7 +158,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (d)(
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted "under this chapter or a similar rule, regulation,standard, or ban under any other Act enforced by the Commission" after "consumer product safety rule".
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–314, §214(a)(1), inserted "under this chapter or a similar rule, regulation, standard, or ban under any other Act enforced by the Commission" after "consumer product safety rule".
 
 Subsec. (b). Pub. L. 110–314, §214(a)(2)(B)–(D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and inserted "A report provided under paragraph (2) may not be used as the basis for criminal prosecution of the reporting person under section 1264 of this title, except for offenses which require a showing of intent to defraud or mislead." at end of concluding provisions.
 
@@ -180,7 +182,7 @@ Subsec. (d)(1)(C). Pub. L. 110–314, §214(b)(6), (7), substituted "more (i)" f
 
 Subsec. (d)(2). Pub. L. 110–314, §214(b)(13), which directed substitution of "described in paragraph (1)(C)." for "described in paragraph (3).", could not be executed because "paragraph (3)" did not appear subsequent to amendment by Pub. L. 110–314, §214(b)(11). See below.
 
-Pub. L. 110–314, §214(b)(12), struck out "If an order under this subsection is directed to more than one person, the Commission shall specify which person has the election under this subsection" before ". An order under this subsection may prohibit".
+Pub. L. 110–314, §214(b)(12), struck out "If an order under this subsection is directed to more than one person, the Commission shall specify which person has theelection under this subsection" before ". An order under this subsection may prohibit".
 
 Pub. L. 110–314, §214(b)(11), substituted "if the Commission orders the action described in subparagraph (C)" for "if the person to whom the order is directed elects to take the action described in paragraph (3)".
 
@@ -220,6 +222,8 @@ Pub. L. 97–35, §1211(h)(4), which directed insertion of ", Science and Trans
 
 Subsec. (g). Pub. L. 94–284, §12(a)(2), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by section 214(a)(2) of Pub. L. 110–314 effective on the date that is 60 days after Aug. 14, 2008, see section 239(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
@@ -246,7 +250,7 @@ Reports to Consumer Product Safety Commission.—
 
 &emsp;"(1)
 
-Requirement to report.—Each manufacturer, distributor, retailer, and importer of a marble, smallball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—
+Requirement to report.—Each manufacturer, distributor, retailer, and importer of a marble, small ball, or latex balloon, or a toy or game that contains a marble, small ball, latex balloon, or other small part, shall report to the Commission any information obtained by such manufacturer, distributor, retailer, or importer which reasonably supports the conclusion that—
 
 &emsp;&emsp;"(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in such toy or game; and
 

@@ -20,6 +20,8 @@ For purposes of subsection (a), the term "affiliated group" has the meaning assi
 
 (Added Pub. L. 91–258, title II, §205(a)(1), May 21, 1970, 84 Stat. 241; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 104–188, title I, §1609(f), Aug. 20, 1996, 110 Stat. 1842.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined "fair charge" in connection with tax on transportation of oil by pipeline, prior to repeal by Pub. L. 85–475, §4(a), June 30, 1958, 72 Stat. 260. For effective date of repeal, see section 4(c) of Pub. L. 85–475, set out as an Effective Date of 1958 Amendment note under section 6415 of this title.
@@ -30,7 +32,9 @@ A prior section 4282, act Aug. 16, 1954, ch. 736, 68A Stat. 508, defined "fair c
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub. L. 104–188, set out as a note under section 4041 of this title.
+Amendment by Pub. L. 104–188 effective on 7th calendar day after Aug. 20, 1996, see section 1609(i) of Pub.L. 104–188, set out as a note under section 4041 of this title.
 

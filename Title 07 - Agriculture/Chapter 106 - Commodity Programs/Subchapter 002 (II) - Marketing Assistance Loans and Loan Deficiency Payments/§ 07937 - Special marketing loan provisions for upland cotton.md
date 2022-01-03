@@ -8,7 +8,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The President shall carry out an import quota program during the period beginning on May 13, 2002, through July 31, 2008, as provided in this subsection.
+&emsp;&emsp;The President shall carry out an import quota program during the period beginningon May 13, 2002, through July 31, 2008, as provided in this subsection.
 
 #### (B) Program requirements
 
@@ -124,6 +124,8 @@
 
 (Pub. L. 107–171, title I, §1207, May 13, 2002, 116 Stat. 161; Pub. L. 109–171, title I, §1103(a), Feb. 8, 2006, 120 Stat. 5.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(iv), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
@@ -135,6 +137,8 @@ The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(
 Subsec. (b)(1)(B). Pub. L. 109–171, §1103(a)(2)(A), struck out ", adjusted for the value of any certificate issued under subsection (a) of this section," after "C.I.F. Northern Europe".
 
 Subsec. (b)(1)(C). Pub. L. 109–171, §1103(a)(2)(B), struck out ", for the value of any certificates issued under subsection (a) of this section" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

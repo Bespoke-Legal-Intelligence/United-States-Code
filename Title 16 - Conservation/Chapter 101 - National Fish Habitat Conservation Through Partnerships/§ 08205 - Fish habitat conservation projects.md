@@ -118,7 +118,7 @@ The Board shall select each fish habitat conservation project recommended to the
 
 #### (4) Waiver authority
 
-&emsp;The Secretary, in consultation with the Secretary of Commerce with respect to marine or estuarine projects, may waive the application of paragraph (2)(A) with respect to a State or an Indian Tribe, or otherwise reduce the portion of the non-Federal share of the cost of an activity required to be paid by a State or an Indian Tribe under paragraph (1), if the Secretary determines that the State or Indian Tribe does not have sufficient funds not derived from another Federal grant program to pay such non-Federal share, or portion of the non-Federal share, without the use of loans.
+&emsp;The Secretary, in consultation with the Secretary of Commerce with respect to marine orestuarine projects, may waive the application of paragraph (2)(A) with respect to a State or an Indian Tribe, or otherwise reduce the portion of the non-Federal share of the cost of an activity required to be paid by a State or an Indian Tribe under paragraph (1), if the Secretary determines that the State or Indian Tribe does not have sufficient funds not derived from another Federal grant program to pay such non-Federal share, or portion of the non-Federal share, without the use of loans.
 
 #### (f) Approval
 
@@ -135,6 +135,8 @@ The Board shall select each fish habitat conservation project recommended to the
 &emsp;If the Secretary rejects under paragraph (1) any fish habitat conservation project recommended by the Board, not later than 90 days after the date of receipt of the recommendation, the Secretary shall provide to the Board, the appropriate Partnership, and the appropriate congressional committees a written statement of the reasons that the Secretary rejected the fish habitat conservation project.
 
 (Pub. L. 116–188, title II, §205, Oct. 30, 2020, 134 Stat. 931.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

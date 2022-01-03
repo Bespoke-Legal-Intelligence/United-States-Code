@@ -6,10 +6,15 @@
 | [8592\.](%C2%A7%2008592%20-%20Degree%20granting%20authority%20for%20Marine%20Corps%20University.md) | Degree granting authority for Marine Corps University. |
 | [8593\.](%C2%A7%2008593%20-%20Naval%20War%20College%20acceptance%20of%20grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes.md) | Naval War College: acceptance of grants for faculty research for scientific, literary, and educational purposes. |
 | [8594\.](%C2%A7%2008594%20-%20Marine%20Corps%20University%20acceptance%20of%20grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes.md) | Marine Corps University: acceptance of grants for faculty research for scientific, literary, and educational purposes. |
+| [8595\.](%C2%A7%2008595%20-%20United%20States%20Naval%20Community%20College%20establishment%20and%20degree%20granting%20authority.md) | United States Naval Community College: establishment and degree granting authority. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §557(b), Dec. 27, 2021, 135 Stat. 1741, added item 8595.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 609 of this title as this chapter and items 7101 to 7104 as 8591 to 8594, respectively.
 
@@ -30,3 +35,4 @@
 - [&sect; 08592 - Degree granting authority for Marine Corps University](%C2%A7%2008592%20-%20Degree%20granting%20authority%20for%20Marine%20Corps%20University.md)
 - [&sect; 08593 - Naval War College acceptance of grants for faculty research for scientific, literary, and educational purposes](%C2%A7%2008593%20-%20Naval%20War%20College%20acceptance%20of%20grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes.md)
 - [&sect; 08594 - Marine Corps University acceptance of grants for faculty research for scientific, literary, and educational purposes](%C2%A7%2008594%20-%20Marine%20Corps%20University%20acceptance%20of%20grants%20for%20faculty%20research%20for%20scientific%2C%20literary%2C%20and%20educational%20purposes.md)
+- [&sect; 08595 - United States Naval Community College establishment and degree granting authority](%C2%A7%2008595%20-%20United%20States%20Naval%20Community%20College%20establishment%20and%20degree%20granting%20authority.md)

@@ -20,6 +20,8 @@ To be eligible to receive funding to establish the Agricultural Marketing Resour
 
 (Pub. L. 106–224, title II, §231, June 20, 2000, 114 Stat. 409; Pub. L. 107–171, title VI, §6401(a), May 13, 2002, 116 Stat. 424; Pub. L. 110–234, title VI, §6202, May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, §4(a), title VI, §6202, June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, §6203, Feb. 7, 2014, 128 Stat. 857; Pub. L. 115–334, title X, §10102(c)(1), Dec. 20, 2018, 132 Stat. 4897.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -62,7 +64,7 @@ Subsec. (b)(1). Pub. L. 110–246, §6202(b)(1), substituted "paragraph (7)" for
 
 Subsec. (b)(4) to (7). Pub. L. 110–246, §6202(b)(2), added pars. (4) to (7) and struck out former par. (4). Prior to amendment, text read as follows: "Not later than 30 days after May 13, 2002, on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended."
 
-<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–171, §6401(a)(2), added subsecs. (a) and (b) and struck out former subsec. (a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
+<b>2002</b>—Subsecs. (a), (b). Pub. L. 107–171, §6401(a)(2), added subsecs. (a) and (b) and struck out former subsec.\(a) which related to establishment of grant program, maximum amount per grant recipient, and producer strategies. Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 107–171, §6401(a)(1), (3), redesignated subsec. (b) as (c) and, in par. (1), substituted "subsection (b)(2)" for "subsection (a)(2)", "5 percent" for "$5,000,000", and "subsection (b)" for "subsection (a)" in introductory provisions. Former subsec. (c) redesignated (d).
 
@@ -71,6 +73,8 @@ Subsec. (d). Pub. L. 107–171, §6401(a)(4), which directed amendment of subsec
 Pub. L. 107–171, §6401(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 107–171, §6401(a)(1), redesignated subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

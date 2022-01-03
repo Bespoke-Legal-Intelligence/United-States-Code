@@ -86,6 +86,8 @@
 
 (July 1, 1944, ch. 373, title XXVII, §2794, as added and amended Pub. L. 111–148, title I, §1003, title X, §10101(i), Mar. 23, 2010, 124 Stat. 139, 891.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 2794 of act July 1, 1944, is classified to section 300gg–95 of this title.
@@ -95,6 +97,8 @@ Another section 2794 of act July 1, 1944, is classified to section 300gg–95 of
 <b>2010</b>—Subsec. (c)(1)(C). Pub. L. 111–148, §10101(i)(1), added subpar. (C).
 
 Subsec. (d). Pub. L. 111–148, §10101(i)(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

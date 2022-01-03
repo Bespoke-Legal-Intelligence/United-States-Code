@@ -2,7 +2,7 @@
 
 #### (a) American Nanotechnology Preparedness Center
 
-The Program shall provide for the establishment, on a merit-reviewed and competitivebasis, of an American Nanotechnology Preparedness Center which shall—
+The Program shall provide for the establishment, on a merit-reviewed and competitive basis, of an American Nanotechnology Preparedness Center which shall—
 
 &emsp;(1) conduct, coordinate, collect, and disseminate studies on the societal, ethical, environmental, educational, legal, and workforce implications of nanotechnology; and
 
@@ -25,6 +25,8 @@ The Council, through the Director of the National Nanotechnology Coordination Of
 &emsp;(2) within 18 months after December 3, 2003, a report describing how the Centers described in this section have been established.
 
 (Pub. L. 108–153, §9, Dec. 3, 2003, 117 Stat. 1930.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

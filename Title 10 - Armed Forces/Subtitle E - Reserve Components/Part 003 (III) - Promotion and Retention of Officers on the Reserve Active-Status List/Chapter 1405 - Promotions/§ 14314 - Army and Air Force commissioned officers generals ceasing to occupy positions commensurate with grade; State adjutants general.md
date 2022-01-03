@@ -32,6 +32,8 @@ Credit for Service in Grade.—An officer who is appointed under subsection (a)(
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2942; amended Pub. L. 104–201, div. A, title V, §544(c), Sept. 23, 1996, 110 Stat. 2523.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3375, 8375, and 8381 of this title, prior to repeal by Pub. L. 103–337, §1629(a)(1), (c)(1).
@@ -39,6 +41,8 @@ Provisions similar to those in this section were contained in sections 3375, 837
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–201 struck out "of the Air Force" after "reserve officer".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

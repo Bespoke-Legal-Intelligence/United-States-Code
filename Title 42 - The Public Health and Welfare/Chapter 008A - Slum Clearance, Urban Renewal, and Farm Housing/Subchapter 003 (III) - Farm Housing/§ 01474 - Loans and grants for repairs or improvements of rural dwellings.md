@@ -20,11 +20,13 @@ In order to encourage adequate family-size farms the Secretary may make loans un
 
 (July 15, 1949, ch. 338, title V, §504, 63 Stat. 434; Pub. L. 87–723, §4(c)(3), Sept. 28, 1962, 76 Stat. 672; Pub. L. 89–754, title VIII, §803, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §803(a), Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §504, Aug. 22, 1974, 88 Stat. 693; Pub. L. 95–619, title II, §232(a), Nov. 9, 1978, 92 Stat. 3226; Pub. L. 96–153, title V, §510, Dec. 21, 1979, 93 Stat. 1137; Pub. L. 98–181, title I \[title V, §504\], Nov. 30, 1983, 97 Stat. 1242; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(32), (f)(24)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–425, 2681–433; Pub. L. 106–569, title VII, §702, Dec. 27, 2000, 114 Stat. 3013; Pub. L. 113–128, title V, §512(o), July 22, 2014, 128 Stat. 1711.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2809 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(1), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(1), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 6801 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified principally to chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -54,13 +56,15 @@ Pub. L. 105–277, §101(f) \[title VIII, §405(d)(32)\], substituted "pursuant 
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–723 substituted "in the form of a loan, grant, or combined loan and grant in excess of $1,000" for "(1) in the form of a loan, or combined loan and grant, in excess of $1,000, or (2) in the form of a grant (whether or not combined with a loan) in excess of $500."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(32)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(24)\] of Pub. L. 105–277effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(32)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(24)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Community Services Administration
 

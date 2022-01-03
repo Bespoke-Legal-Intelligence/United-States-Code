@@ -4,6 +4,8 @@ Effective on the date when section 502 of the Covenant to Establish a Commonweal
 
 (Pub. L. 95–134, title IV, §403, Oct. 15, 1977, 91 Stat. 1163; Pub. L. 95–135, §1, Oct. 15, 1977, 91 Stat. 1166; Pub. L. 108–173, title IX, §900(e)(7), Dec. 8, 2003, 117 Stat. 2374.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in text, is contained in section 1 of Pub. L. 94–241, set out as a note under section 1801 of this title. For Jan. 9, 1978, as the date section 502 of the Covenant came into force, see Proc. No. 4534, §2, set out as a note under section 1801 of this title.
@@ -26,7 +28,9 @@ Section was formerly set out as a note under section 1681 of this title.
 
 <b>1977</b>—Pub. L. 95–135 amended section generally. Prior to amendment, section read as follows: "Effective on October 15, 1977, those laws, except for any laws administered by the Social Security Administration and except for medicaid which is now administered by the Health Care Financing Administration, which are referred to in section 502(a)(1) (except for the reference to the Micronesian Claims Act of 1971 (85 Stat. 96)) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, approved by joint resolution approved on March 24, 1976 (90 Stat. 263), and 502(a)(2) of said Covenant shall be applicable to the territories of Guam and the Virgin Islands on the same terms and conditions as such laws are applied to the Commonwealth of the Northern Mariana Islands."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–135, §2, Oct. 15, 1977, 91 Stat. 1166, provided that: "This amendatory joint resolution \[amending this section\] shall be effective as of the approval of said Act entitled 'To authorize certain appropriations for the territories of the United States, to amend certain Acts relating thereto, and for other purposes' (enrolled bill H.R. 6550, Ninety-fifth Congress, first session) \[Pub. L. 95–134, approved Oct. 15, 1977\]."
+Pub. L. 95–135, §2, Oct. 15, 1977, 91 Stat. 1166, provided that: "This amendatory joint resolution \[amending this section\] shall be effective as of the approval of said Actentitled 'To authorize certain appropriations for the territories of the United States, to amend certain Acts relating thereto, and for other purposes' (enrolled bill H.R. 6550, Ninety-fifth Congress, first session) \[Pub. L. 95–134, approved Oct. 15, 1977\]."
 

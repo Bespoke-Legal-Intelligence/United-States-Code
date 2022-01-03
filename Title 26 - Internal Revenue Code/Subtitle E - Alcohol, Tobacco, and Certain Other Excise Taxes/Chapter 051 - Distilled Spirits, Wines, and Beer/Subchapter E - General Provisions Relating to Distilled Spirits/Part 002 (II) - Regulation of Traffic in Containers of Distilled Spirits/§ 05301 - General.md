@@ -38,6 +38,8 @@ The immediate container of distilled spirits withdrawn from bonded premises, or 
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1374; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(41), July 26, 1979, 93 Stat. 287; Pub. L. 98–369, div. A, title IV, §454(b), (c)(9), July 18, 1984, 98 Stat. 820, 821.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5301, act Aug. 16, 1954, ch. 736, 68A Stat. 654, related to establishment of industrial alcohol plants, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (b)(1), 5172, 5173(a), (b) of this title.
@@ -52,7 +54,7 @@ A prior section 5304, act Aug. 16, 1954, ch. 736, 68A Stat. 655, related to alco
 
 A prior section 5305, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to regulations for establishing, bonding, and operations of plants and warehouses, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171, 5172, 5173(a), 5178(a)(1)(A), (5), 5201(a), (b), 5207(a), (c), (d), 5211, 5223(a), 5235, 5273(b)(1), (2), (d), 5275, and 5312(b) of this title.
 
-A prior section 5306, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to exemption of industrial alcoholplants and warehouses from certain laws, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5025(d), (e)(1), 5173(c), 5201(a), (c), 5204(c), 5234(a)(1)(A), 5306, and 5312(c) of this title.
+A prior section 5306, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to exemption of industrial alcohol plants and warehouses from certain laws, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5025(d), (e)(1), 5173(c), 5201(a), (c), 5204(c), 5234(a)(1)(A), 5306, and 5312(c) of this title.
 
 A prior section 5307, act Aug. 16, 1954, ch. 736, 68A Stat. 657, related to production, use, or sale of alcohol, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5178(a)(2)(A) and 5201(a) of this title.
 
@@ -71,6 +73,8 @@ Subsec. (d). Pub. L. 98–369, §454(b), added subsec. (d) and redesignated form
 <b>1979</b>—Subsec. (a)(1). Pub. L. 96–39 substituted "section 5002(a)(8)" for "section 5002(a)(6)".
 
 <b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

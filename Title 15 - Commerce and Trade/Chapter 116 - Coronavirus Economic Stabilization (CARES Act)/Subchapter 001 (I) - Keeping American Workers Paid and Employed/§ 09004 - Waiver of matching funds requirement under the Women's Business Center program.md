@@ -4,9 +4,13 @@ During the period beginning on March 27, 2020, and ending on June 30, 2021, the 
 
 (Pub. L. 116–136, div. A, title I, §1105, Mar. 27, 2020, 134 Stat. 297; Pub. L. 116–260, div. N, title III, §345(a), Dec. 27, 2020, 134 Stat. 2051.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 substituted "the period beginning on March 27, 2020, and ending on June 30, 2021" for "the 3-month period beginning on March 27, 2020".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

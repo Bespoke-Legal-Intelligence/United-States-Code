@@ -18,7 +18,7 @@ Once a volunteer has arrived in his or her country of service, the President sha
 
 &emsp;Each applicant for enrollment as a volunteer shall be provided, with respect to each country in which the applicant may be invited to serve, with specific, aggregated, and easily accessible information regarding crimes against and risks to volunteers, including—
 
-&emsp;&emsp;(A) an overview of past crimes against volunteers in such country, including statisticsregarding unreported crime collected through anonymous surveys;
+&emsp;&emsp;(A) an overview of past crimes against volunteers in such country, including statistics regarding unreported crime collected through anonymous surveys;
 
 &emsp;&emsp;(B) the current early termination rate of volunteers serving in such country;
 
@@ -72,7 +72,7 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (A) In general
 
-&emsp;&emsp;The term "restricted reporting" means a system of reporting that allows a volunteer who is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 2507b(c) of this title without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
+&emsp;&emsp;The term "restricted reporting" means a system of reporting that allows a volunteerwho is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 2507b(c) of this title without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
 
 #### (B) Exceptions
 
@@ -106,7 +106,7 @@ In this section and sections 2507b through 2507g of this title:
 
 &emsp;&emsp;(B) suffer substantial emotional distress.
 
-(Pub. L. 87–293, title I, §8A, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 736; amendedPub. L. 115–256, title III, §302, Oct. 9, 2018, 132 Stat. 3656.)
+(Pub. L. 87–293, title I, §8A, as added Pub. L. 112–57, §2, Nov. 21, 2011, 125 Stat. 736; amended Pub. L. 115–256, title III, §302, Oct. 9, 2018, 132 Stat. 3656.)
 
 #### <b>Editorial Notes</b>
 

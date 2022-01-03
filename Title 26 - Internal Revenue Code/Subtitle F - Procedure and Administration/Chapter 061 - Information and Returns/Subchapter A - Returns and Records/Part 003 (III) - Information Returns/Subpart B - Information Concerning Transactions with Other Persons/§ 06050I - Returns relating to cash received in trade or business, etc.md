@@ -74,7 +74,7 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 #### (2) Penalties
 
-&emsp;A person violating paragraph (1) of this subsection shall be subject to the same civil and criminal sanctions applicable to a person which fails to file or completes a false or incorrect return under this section.
+&emsp;A person violating paragraph (1) of this subsection shall be subject to the same civil and criminal sanctions applicable to a personwhich fails to file or completes a false or incorrect return under this section.
 
 #### (g) Cash received by criminal court clerks
 
@@ -126,9 +126,27 @@ Every person required to make a return under subsection (a) shall furnish to eac
 
 &emsp;&emsp;(B) the aggregate amount of cash described in paragraph (1) received by such clerk.
 
-(Added Pub. L. 98–369, div. A, title I, §146(a), July 18, 1984, 98 Stat. 685; amended Pub. L. 99–514, title XV, §1501(c)(12), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 100–690, title VII, §7601(a)(1), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–508, title XI, §11318(a), (c), Nov. 5, 1990, 104 Stat. 1388–458, 1388–459; Pub. L. 103–322, title II, §20415(a), (b)(3), Sept. 13, 1994, 108 Stat. 1832, 1833; Pub. L. 104–168, title XII, §1201(a)(9), July 30, 1996, 110 Stat. 1469.)
+(Added Pub. L. 98–369, div. A, title I, §146(a), July 18, 1984, 98 Stat. 685; amended Pub. L. 99–514, title XV, §1501(c)(12), Oct. 22, 1986, 100 Stat. 2739; Pub. L. 100–690, title VII, §7601(a)(1), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–508, title XI, §11318(a), (c), Nov. 5, 1990, 104 Stat. 1388–458, 1388–459; Pub. L. 103–322, title II, §20415(a), (b)(3), Sept. 13, 1994, 108 Stat. 1832, 1833; Pub. L. 104–168, title XII, §1201(a)(9), July 30, 1996, 110 Stat. 1469; Pub. L. 117–58, div. H, title VI, §80603(b)(3), Nov. 15, 2021, 135 Stat. 1341.)
+
+#### Amendment of Subsection (d)
+
+<i>Pub. L. 117–58, div. H, title VI, §80603(b)(3), (c), Nov. 15, 2021, 135 Stat. 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d) of this section is amended—</i>
+
+<i>(1) in paragraph (1), by striking "and" at the end;</i>
+
+<i>(2) in paragraph (2), by striking the period at the end and inserting ", and"; and</i>
+
+<i>(3) by inserting after paragraph (2) the following new paragraph:</i>
+
+&emsp;<i>"(3) any digital asset (as defined in section 6045(g)(3)(D))."</i>
+
+<i>See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(3). Pub. L. 117–58 added par. (3).
 
 <b>1996</b>—Subsec. (e)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
@@ -144,13 +162,19 @@ Subsec. (f). Pub. L. 101–508, §11318(c), substituted heading for one which re
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, see section 80603(c) of Pub. L. 117–58, set out as a note under section 6045 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–168 applicable to statements required to be furnished after Dec. 31, 1996 (determined without regard to any extension), see section 1201(b) of Pub. L. 104–168, set out as a note under section 6041 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 were filed Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
+Pub. L. 103–322, title II, §20415(d), Sept. 13, 1994, 108 Stat. 1833, provided that: "The amendments made by this section \[amending this section and section 6724 of this title\] shall take effect on the 60th day after the date on which the temporary regulations are prescribed under subsection (c) \[section 20415(c) of Pub. L. 103–322, set out as a Regulations note below\]." \[Temporary regulations under section 20415(c) of Pub. L. 103–322 werefiled Dec. 12, 1994, published Dec. 15, 1994, 59 F.R. 64572, and effective Feb. 13, 1995.\]
 
 #### Effective Date of 1990 Amendment
 
@@ -180,7 +204,7 @@ Pub. L. 103–322, title II, §20415(c), Sept. 13, 1994, 108 Stat. 1833, provide
 
 #### Reports on Uses Made of Currency Transaction Reports
 
-For requirement of Secretary of the Treasury to report to Congress on number of reports filed under thissection yearly, the rate of compliance with reporting requirements, the manner in which Federal agencies collect, organize and analyze such data, and sanctions imposed and indictments filed for failure to comply, see section 101 of Pub. L. 101–647, set out as a note under section 5311 of Title 31, Money and Finance.
+For requirement of Secretary of the Treasury to report to Congress on number of reports filed under this section yearly, the rate of compliance with reporting requirements, the manner in which Federal agencies collect, organize and analyze such data, and sanctions imposed and indictments filed for failure to comply, see section 101 of Pub. L. 101–647, set out as a note under section 5311 of Title 31, Money and Finance.
 
 #### No Inference To Be Drawn From Amendment
 

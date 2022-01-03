@@ -108,11 +108,13 @@
 
 (Pub. L. 110–234, title I, §1101, May 22, 2008, 122 Stat. 938; Pub. L. 110–246, §4(a), title I, §1101, June 18, 2008, 122 Stat. 1664, 1666; Pub. L. 110–398, §1(a)(1), Oct. 13, 2008, 122 Stat. 4213.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (b)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 This chapter, referred to in subsec. (d)(1), was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
@@ -124,9 +126,11 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the semicolon.</i>
 

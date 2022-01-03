@@ -4,7 +4,7 @@
 
 Appointment; Term of Office.—(1) There is a Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces. The Chairman serves at the pleasure of the President for a term of four years, beginning on October 1 of an odd-numbered year. The limitation does not apply in time of war.
 
-(2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term,but may be reappointed as provided in paragraph (1).
+(2) In the event of the death, retirement, resignation, or reassignment of the officer serving as Chairman before the end of the term for which the officer was appointed, an officer appointed to fill the vacancy shall serve as Chairman only for the remainder of the original term, but may be reappointed as provided in paragraph (1).
 
 (3) The President may extend to eight years the combined period of service of an officer as Chairman and Vice Chairman if the President determines that such action is in the national interest. The limitation in this paragraph does not apply in time of war.
 
@@ -26,6 +26,8 @@ Grade and Rank.—The Chairman, while so serving, holds the grade of general, in
 
 (Added Pub. L. 99–433, title II, §201, Oct. 1, 1986, 100 Stat. 1006; amended Pub. L. 100–180, div. A, title XIII, §1314(b)(1)(A), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 114–328, div. A, title IX, §921(b)(1), Dec. 23, 2016, 130 Stat. 2351; Pub. L. 116–283, div. A, title IX, §924(b)(7)(A), Jan. 1, 2021, 134 Stat. 3822.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(1)(B). Pub. L. 116–283, §924(b)(7)(A)(i), which directed substitution of "the Commandant of the Marine Corps, or the Chief of Space Operations" for "or the Commandant of the Marine Corps" in subpar. (C), was executed by making the substitution in subpar. (B), to reflect the probable intent of Congress.
@@ -37,6 +39,8 @@ Subsec. (c). Pub. L. 116–283, §924(b)(7)(A)(ii), which directed substitution 
 Subsec. (a)(3). Pub. L. 114–328, §921(b)(1)(B), added par. (3) and struck out former par. (3) which read as follows: "An officer may not serve as Chairman or Vice Chairman of the Joint Chiefs of Staff if the combined period of service of such officer in such positions exceeds six years. However, the President may extend to eight years the combined period of service an officer may serve in such positions if he determines such action is in the national interest. The limitations of this paragraph do not apply in time of war."
 
 <b>1987</b>—Pub. L. 100–180 substituted "grade and rank" for "rank" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

@@ -22,7 +22,7 @@ The provisions of paragraphs (1), (2), (3), (4), and (5) of subsection (a) shall
 
 #### (c) Exemption from filing requirement
 
-Nothing contained in this section shall be construed to require any officer or employee of alabor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
+Nothing contained in this section shall be construed to require any officer or employee of a labor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
 
 (Pub. L. 86–257, title II, §202, Sept. 14, 1959, 73 Stat. 525.)
 

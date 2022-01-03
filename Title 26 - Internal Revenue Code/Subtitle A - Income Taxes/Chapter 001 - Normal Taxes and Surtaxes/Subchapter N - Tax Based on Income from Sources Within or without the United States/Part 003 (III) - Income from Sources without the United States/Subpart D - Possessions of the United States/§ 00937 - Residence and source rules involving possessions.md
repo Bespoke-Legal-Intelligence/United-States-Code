@@ -16,7 +16,7 @@ Except as provided in regulations, for purposes of this title—
 
 &emsp;(1) except as provided in paragraph (2), rules similar to the rules for determining whether income is income from sources within the United States or is effectively connected with the conduct of a trade or business within the United States shall apply for purposes of determining whether income is from sources within a possession specified in subsection (a)(1) or effectively connected with the conduct of a trade or business within any such possession, and
 
-&emsp;(2) any income treated as income from sources within the United States or as effectively connected with the conduct of a trade or business within the United States shall not be treated as income from sources within any such possession or as effectively connected with the conduct of a trade or business within any such possession.
+&emsp;(2) any income treated as income from sources within the United States or as effectively connected with the conduct of a trade or business within the United States shall notbe treated as income from sources within any such possession or as effectively connected with the conduct of a trade or business within any such possession.
 
 #### (c) Reporting requirement
 
@@ -30,9 +30,13 @@ Except as provided in regulations, for purposes of this title—
 
 (Added Pub. L. 108–357, title VIII, §908(a), Oct. 22, 2004, 118 Stat. 1655.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

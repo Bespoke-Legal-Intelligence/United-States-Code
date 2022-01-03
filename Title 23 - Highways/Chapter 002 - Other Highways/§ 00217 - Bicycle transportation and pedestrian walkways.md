@@ -2,7 +2,7 @@
 
 (a)
 
-Use of STP and Congestion Mitigation Program Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle transportation facilities and for carrying out nonconstruction projects related to safe bicycle use.
+Use of STP and Congestion Mitigation Program Funds.—Subject to project approval by the Secretary, a State may obligate funds apportioned to it under sections 104(b)(2) and 104(b)(4) of this title for construction of pedestrian walkways and bicycle and shared micromobility transportation facilities and for carrying out nonconstruction projects related to safe access for bicyclists and pedestrians.
 
 (b)
 
@@ -14,15 +14,15 @@ Use of Federal Lands Highway Funds.—Funds authorized for forest highways, fore
 
 (d)
 
-State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(3) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation a position of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
+State Bicycle and Pedestrian Coordinators.—Each State receiving an apportionment under sections 104(b)(2) and 104(b)(4) of this title shall use such amount of the apportionment as may be necessary to fund in the State department of transportation up to 2 positions of bicycle and pedestrian coordinator for promoting and facilitating the increased use of nonmotorized modes of transportation, including developing facilities for the use of pedestrians and bicyclists and public education, promotional, and safety programs for using such facilities.
 
 (e)
 
-Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which bicycles are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of bicycles can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
+Bridges.—In any case where a highway bridge deck being replaced or rehabilitated with Federal financial participation is located on a highway on which pedestrians or bicyclists are permitted to operate at each end of such bridge, and the Secretary determines that the safe accommodation of pedestrians or bicyclists can be provided at reasonable cost as part of such replacement or rehabilitation, then such bridge shall be so replaced or rehabilitated as to provide such safe accommodations.
 
 (f)
 
-Federal Share.—For all purposes of this title, construction of a pedestrian walkway and a bicycle transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
+Federal Share.—For all purposes of this title, construction of a pedestrian walkway or a bicycle or shared micromobility transportation facility shall be deemed to be a highway project and the Federal share payable on account of such construction shall be determined in accordance with section 120(b).
 
 (g)
 
@@ -64,7 +64,45 @@ Bicycle transportation facility.—The term "bicycle transportation facility" me
 
 &emsp;(2)
 
-Electric bicycle.—The term "electric bicycle" means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour.
+Electric bicycle.—
+
+&emsp;&emsp;(A)
+
+In general.—The term "electric bicycle" means a bicycle—
+
+&emsp;&emsp;&emsp;(i) equipped with fully operable pedals, a saddle or seat for the rider, and an electric motor of less than 750 watts;
+
+&emsp;&emsp;&emsp;(ii) that can safely share a bicycle transportation facility with other users of such facility; and
+
+&emsp;&emsp;&emsp;(iii) that is a class 1 electric bicycle, class 2 electric bicycle, or class 3 electric bicycle.
+
+&emsp;&emsp;(B)
+
+Classes of electric bicycles.—
+
+&emsp;&emsp;&emsp;(i)
+
+Class 1 electric bicycle.—For purposes of subparagraph (A)(iii), the term "class 1 electric bicycle" means an electric bicycle, other than a class 3 electric bicycle, equipped with a motor that—
+
+&emsp;&emsp;&emsp;&emsp;(I) provides assistance only when the rider is pedaling; and
+
+&emsp;&emsp;&emsp;&emsp;(II) ceases to provide assistance when the speed of the bicycle reaches or exceeds 20 miles per hour.
+
+&emsp;&emsp;&emsp;(ii)
+
+Class 2 electric bicycle.—For purposes of subparagraph (A)(iii), the term "class 2 electric bicycle" means an electric bicycle equipped with a motor that—
+
+&emsp;&emsp;&emsp;&emsp;(I) may be used exclusively to propel the bicycle; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is not capable of providing assistance when the speed of the bicycle reaches or exceeds 20 miles per hour.
+
+&emsp;&emsp;&emsp;(iii)
+
+Class 3 electric bicycle.—For purposes of subparagraph (A)(iii), the term "class 3 electric bicycle" means an electric bicycle equipped with a motor that—
+
+&emsp;&emsp;&emsp;&emsp;(I) provides assistance only when the rider is pedaling; and
+
+&emsp;&emsp;&emsp;&emsp;(II) ceases to provide assistance when the speed of the bicycle reaches or exceeds 28 miles per hour.
 
 &emsp;(3)
 
@@ -74,11 +112,21 @@ Pedestrian.—The term "pedestrian" means any person traveling by foot and any m
 
 Wheelchair.—The term "wheelchair" means a mobility aid, usable indoors, and designed for and used by individuals with mobility impairments, whether operated manually or motorized.
 
-(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, §1446(a)(13), Dec. 4, 2015, 129 Stat. 1438.)
+(Added Pub. L. 93–87, title I, §124(a), Aug. 13, 1973, 87 Stat. 262; amended Pub. L. 94–280, title I, §134, May 5, 1976, 90 Stat. 441; Pub. L. 95–599, title I, §141(h), Nov. 6, 1978, 92 Stat. 2712; Pub. L. 97–424, title I, §126A, formerly §126, Jan. 6, 1983, 96 Stat. 2116, renumbered §126A, Pub. L. 100–17, title I, §133(a)(2), Apr. 2, 1987, 101 Stat. 170; Pub. L. 100–17, title I, §127, Apr. 2, 1987, 101 Stat. 167; Pub. L. 102–240, title I, §1033, Dec. 18, 1991, 105 Stat. 1975; Pub. L. 104–59, title III, §310(b), Nov. 28, 1995, 109 Stat. 582; Pub. L. 105–178, title I, §1202(a), June 9, 1998, 112 Stat. 168; Pub. L. 109–59, title I, §1954, Aug. 10, 2005, 119 Stat. 1515; Pub. L. 112–141, div. A, title I, §1104(c)(4), July 6, 2012, 126 Stat. 427; Pub. L. 114–94, div. A, title I, §1446(a)(13), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 117–58, div. A, title I, §§11133, 11525(p), Nov. 15, 2021, 135 Stat. 514, 608.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §11133(1), substituted "pedestrian walkways and bicycle and shared micromobility" for "pedestrian walkways and bicycle" and "safe access for bicyclists and pedestrians" for "safe bicycle use".
+
+Subsec. (d). Pub. L. 117–58, §§11133(2), 11525(p), substituted "104(b)(4)" for "104(b)(3)" and "up to 2 positions" for "a position".
+
+Subsec. (e). Pub. L. 117–58, §11133(3), substituted "pedestrians or bicyclists" for "bicycles" in two places.
+
+Subsec. (f). Pub. L. 117–58, §11133(4), substituted "or a bicycle or shared micromobility" for "and a bicycle".
+
+Subsec. (j)(2). Pub. L. 117–58, §11133(5), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The term 'electric bicycle' means any bicycle or tricycle with a low-powered electric motor weighing under 100 pounds, with a top motor-powered speed not in excess of 20 miles per hour."
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94 substituted "104(b)(4)" for "104(b)(3)".
 
@@ -128,6 +176,10 @@ Subsec. (h). Pub. L. 97–424 redesignated former subsec. (e) as (h), substitute
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -139,6 +191,218 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Active Transportation Infrastructure Investment Program
+
+Pub. L. 117–58, div. A, title I, §11529, Nov. 15, 2021, 135 Stat. 612, provided that:
+
+"(a)
+
+In General.—Subject to the availability of appropriations, the Secretary \[of Transportation\] shall carry out an active transportation infrastructure investment program to make grants, on a competitive basis, to eligible organizations to construct eligible projects to provide safe and connected active transportation facilities in an active transportation network or active transportation spine.
+
+"(b)
+
+Application.—
+
+&emsp;"(1)
+
+In general.—To be eligible to receive a grant under this section, an eligible organization shall submit to the Secretary an application in such manner and containing such information as the Secretary may require.
+
+&emsp;"(2)
+
+Eligible projects partially on federal land.—With respect to an application for an eligible project that is located in part on Federal land, an eligible organization shall enter into a cooperative agreement with the appropriate Federal agency with jurisdiction over such land to submit an application described in paragraph (1).
+
+"(c)
+
+Application Considerations.—In making a grant for construction of an active transportation network or active transportation spine under this section, the Secretary shall consider the following:
+
+&emsp;"(1) Whether the eligible organization submitted a plan for an eligible project for the development of walking and bicycling infrastructure that is likely to provide substantial additional opportunities for walking and bicycling, including effective plans—
+
+&emsp;&emsp;"(A) to create an active transportation network connecting destinations within or between communities, including schools, workplaces, residences, businesses, recreation areas, and other community areas, or create an active transportation spine connecting two or more communities, metropolitan regions, or States; and
+
+&emsp;&emsp;"(B) to integrate active transportation facilities with transit services, where available, to improve access to public transportation.
+
+&emsp;"(2) Whether the eligible organization demonstrates broad community support through—
+
+&emsp;&emsp;"(A) the use of public input in the development of transportation plans; and
+
+&emsp;&emsp;"(B) the commitment of community leaders to the success and timely implementation of an eligible project.
+
+&emsp;"(3) Whether the eligible organization provides evidence of commitment to traffic safety, regulations, financial incentives, or community design policies that facilitate significant increases in walking and bicycling.
+
+&emsp;"(4) The extent to which the eligible organization demonstrates commitment of State, local, or eligible Federal matching funds, and land or in-kind contributions, in addition to the local match required under subsection (f)(1), unless the applicant qualifies for an exception under subsection (f)(2).
+
+&emsp;"(5) The extent to which the eligible organization demonstrates that the grant will address existing disparities in bicyclist and pedestrian fatality rates based on race or income level or provide access to jobs and services for low-income communities and disadvantaged communities.
+
+&emsp;"(6) Whether the eligible organization demonstrates how investment in active transportation will advance safety for pedestrians and cyclists, accessibility to jobs and key destinations, economic competitiveness, environmental protection, and quality of life.
+
+"(d)
+
+Use of Funds.—
+
+&emsp;"(1)
+
+In general.—Of the amounts made available to carry out this section and subject to paragraphs (2) and (3), the Secretary shall obligate—
+
+&emsp;&emsp;"(A) not less than 30 percent to eligible projects that construct active transportation networks that connect people with public transportation, businesses, workplaces, schools, residences, recreation areas, and other community activity centers; and
+
+&emsp;&emsp;"(B) not less than 30 percent to eligible projects that construct active transportation spines.
+
+&emsp;"(2)
+
+Planning and design grants.—Each fiscal year, the Secretary shall set aside not less than $3,000,000 of the funds made available to carry out this section to provide planning grants for eligible organizations to develop plans for active transportation networks and active transportation spines.
+
+&emsp;"(3)
+
+Administrative costs.—Each fiscal year, the Secretary shall set aside not more than $2,000,000 of the funds made available to carry out this section to cover the costs of administration, research, technical assistance, communications, and training activities under the program.
+
+&emsp;"(4)
+
+Limitation on statutory construction.—Nothing in this subsection prohibits an eligible organization from receiving research or other funds under title 23 or 49, United States Code.
+
+"(e)
+
+Grant Timing.—
+
+&emsp;"(1)
+
+Request for application.—Not later than 30 days after funds are made available to carry out this section for a fiscal year, the Secretary shall publish in the Federal Register a request for applications for grants under this section for that fiscal year.
+
+&emsp;"(2)
+
+Selection of grant recipients.—Not later than 150 days after funds are made available to carry out this section for a fiscal year, the Secretary shall select grant recipients of grants under this section for that fiscal year.
+
+"(f)
+
+Federal Share.—
+
+&emsp;"(1)
+
+In general.—Except as provided in paragraph (2), the Federal share of the cost of an eligible project carried out using a grant under this section shall not exceed 80 percent of the total project cost.
+
+&emsp;"(2)
+
+Exception for disadvantaged communities.—For eligible projects serving communities with a poverty rate of over 40 percent based on the majority of census tracts served by the eligible project, the Secretary may increase the Federal share of the cost of the eligible project up to 100 percent of the total project cost.
+
+"(g)
+
+Assistance to Indian Tribes.—In carrying out this section, the Secretary may enter into grant agreements, self-determination contracts, and self-governance compacts under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5301 et seq.) with Indian tribes that are eligible organizations, and such agreements, contracts, and compacts shall be administered in accordance with that Act.
+
+"(h)
+
+Reports.—
+
+&emsp;"(1)
+
+Interim report.—Not later than September 30, 2024, the Secretary shall submit to Congress a report containing the information described in paragraph (3).
+
+&emsp;"(2)
+
+Final report.—Not later than September 30, 2026, the Secretary shall submit to Congress a report containing the information described in paragraph (3).
+
+&emsp;"(3)
+
+Report information.—A report submitted under this subsection shall contain the following, with respect to the period covered by the applicable report:
+
+&emsp;&emsp;"(A) A list of grants made under this section.
+
+&emsp;&emsp;"(B) Best practices of eligible organizations that receive grants under this section in implementing eligible projects.
+
+&emsp;&emsp;"(C) Impediments experienced by eligible organizations that receive grants under this section in developing and shifting to active transportation.
+
+"(i)
+
+Rule Required.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall issue a final rule that encourages the use of the programmatic categorical exclusion, expedited procurement techniques, and other best practices to facilitate productive and timely expenditures for eligible projects that are small, low-impact, and constructed within an existing built environment.
+
+"(j)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated to the Secretary to carry out this section $200,000,000 for each of fiscal years 2022 through 2026.
+
+&emsp;"(2)
+
+Availability.—The amounts made available to carry out this section shall remain available until expended.
+
+"(k)
+
+Treatment of Projects.—Notwithstanding any other provision of law, a project assisted under this section shall be treated as a project on a Federal-aid highway under chapter 1 of title 23, United States Code.
+
+"(l)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Active transportation.—The term 'active transportation' means mobility options powered primarily by human energy, including bicycling and walking.
+
+&emsp;"(2)
+
+Active transportation network.—The term 'active transportation network' means facilities built for active transportation, including sidewalks, bikeways, and pedestrian and bicycle trails, that connect between destinations within a community or metropolitan region.
+
+&emsp;"(3)
+
+Active transportation spine.—The term 'active transportation spine' means facilities built for active transportation, including sidewalks, bikeways, and pedestrian and bicycle trails that connect between communities, metropolitan regions, or States.
+
+&emsp;"(4)
+
+Community.—The term 'community' means a geographic area that is socioeconomically interdependent and may include rural, suburban, and urban jurisdictions.
+
+&emsp;"(5)
+
+Eligible organization.—The term 'eligible organization' means—
+
+&emsp;&emsp;"(A) a local or regional governmental organization, including a metropolitan planning organization or regional planning organization or council;
+
+&emsp;&emsp;"(B) a multicounty special district;
+
+&emsp;&emsp;"(C) a State;
+
+&emsp;&emsp;"(D) a multistate group of governments; or
+
+&emsp;&emsp;"(E) an Indian tribe.
+
+&emsp;"(6)
+
+Eligible project.—The term 'eligible project' means an active transportation project or group of projects—
+
+&emsp;&emsp;"(A) within or between a community or group of communities, at least one of which falls within the jurisdiction of an eligible organization, which has submitted an application under this section; and
+
+&emsp;&emsp;"(B) that has—
+
+&emsp;&emsp;&emsp;"(i) a total cost of not less than $15,000,000; or
+
+&emsp;&emsp;&emsp;"(ii) with respect to planning and design grants, planning and design costs of not less than $100,000.
+
+&emsp;"(7)
+
+Indian tribe.—The term 'Indian tribe' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+&emsp;"(8)
+
+Total project cost.—The term 'total project cost' means the sum total of all costs incurred in the development of an eligible project that are approved by the Secretary as reasonable and necessary, including—
+
+&emsp;&emsp;"(A) the cost of acquiring real property;
+
+&emsp;&emsp;"(B) the cost of site preparation, demolition, and development;
+
+&emsp;&emsp;"(C) expenses related to the issuance of bonds or notes;
+
+&emsp;&emsp;"(D) fees in connection with the planning, execution, and financing of the eligible project;
+
+&emsp;&emsp;"(E) the cost of studies, surveys, plans, permits, insurance, interest, financing, tax, and assessments;
+
+&emsp;&emsp;"(F) the cost of construction, rehabilitation, reconstruction, and equipping the eligible project;
+
+&emsp;&emsp;"(G) the cost of land improvements;
+
+&emsp;&emsp;"(H) contractor fees;
+
+&emsp;&emsp;"(I) the cost of training and education related to the safety of users of any bicycle or pedestrian network or spine constructed as part of an eligible project; and
+
+&emsp;&emsp;"(J) any other cost that the Secretary determines is necessary and reasonable."
 
 #### Nonmotorized Transportation Pilot Program
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In carrying out any competitive agricultural research, education, or extension grant programauthorized under this or any other Act, the Secretary may cooperate with 1 or more other Federal agencies (including the National Science Foundation) in issuing joint requests for proposals, awarding grants, and administering grants, for similar or related research, education, or extension projects or activities.
+In carrying out any competitive agricultural research, education, or extension grant program authorized under this or any other Act, the Secretary may cooperate with 1 or more other Federal agencies (including the National Science Foundation) in issuing joint requests for proposals, awarding grants, and administering grants, for similar or related research, education, or extension projects or activities.
 
 #### (b) Administration
 
@@ -28,9 +28,13 @@ Subject to section 3129a of this title, the Secretary and a cooperating Federal 
 
 (Pub. L. 95–113, title XIV, §1473B, as added Pub. L. 107–171, title VII, §7403(b), May 13, 2002, 116 Stat. 456.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3319b, Pub. L. 95–113, title XIV, §1473B, as added Pub. L. 99–198, title XIV, §1427, Dec. 23, 1985, 99 Stat. 1553, provided for technology development for small- and medium-sized farming operations, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(E), Nov. 28, 1990, 104 Stat. 3704.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Purposes
 

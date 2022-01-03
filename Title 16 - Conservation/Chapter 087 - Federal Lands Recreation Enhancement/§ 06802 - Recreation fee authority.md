@@ -42,7 +42,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 &emsp;&emsp;(F) For use of overlooks or scenic pullouts.
 
-&emsp;&emsp;(G) For travel by private, noncommercial vehicle over any national parkway or any road or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,<sup>1</sup> which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
+&emsp;&emsp;(G) For travel by private, noncommercial vehicle over any national parkway or anyroad or highway established as a part of the Federal-aid System, as defined in section 101 of title 23,<sup>1</sup> which is commonly used by the public as a means of travel between two places either or both of which are outside any unit or area at which recreation fees are charged under this chapter.
 
 &emsp;&emsp;(H) For travel by private, noncommercial vehicle, boat, or aircraft over any road or highway, waterway, or airway to any land in which such person has any property right if such land is within any unit or area at which recreation fees are charged under this chapter.
 
@@ -92,7 +92,7 @@ The Secretary shall establish the minimum number of recreation fees and shall av
 
 #### (2) Prohibited sites
 
-&emsp;The Secretary shall not charge an entrance fee for Federal recreational lands and waters managed by the Bureau of Land Management,the Bureau of Reclamation, or the Forest Service.
+&emsp;The Secretary shall not charge an entrance fee for Federal recreational lands and waters managed by the Bureau of Land Management, the Bureau of Reclamation, or the Forest Service.
 
 #### (f) Standard amenity recreation fee
 
@@ -194,6 +194,8 @@ The Secretary may issue a special recreation permit, and charge a special recrea
 
 (Pub. L. 108–447, div. J, title VIII, §803, Dec. 8, 2004, 118 Stat. 3378.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6803 of this title, referred to in subsec. (b)(5), was in the original a reference to section 4, and was translated as meaning section 804 of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
@@ -203,6 +205,8 @@ This chapter, referred to in subsec. (d)(1), (4), was in the original "this Act"
 Section 101 of title 23, referred to in subsec. (d)(1)(G), was subsequently amended, and section 101 no longer defines "Federal-aid System".
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibition on Entrance Fee at Statue of Liberty National Monument
 

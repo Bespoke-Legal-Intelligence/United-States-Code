@@ -10,9 +10,13 @@ As used in this chapter:
 
 (Pub. L. 95–192, §3, Nov. 18, 1977, 91 Stat. 1407; Pub. L. 103–354, title II, §246(f)(2)(B), Oct. 13, 1994, 108 Stat. 3225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Par. (2). Pub. L. 103–354 struck out "through the Soil Conservation Service" after "Agriculture".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

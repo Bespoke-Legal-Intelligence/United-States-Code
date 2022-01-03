@@ -22,17 +22,19 @@ To the extent consistent with the provisions of this chapter, a liquidation proc
 
 #### (c) Determination of customer status
 
-In a liquidation proceeding under this chapter, whenever a person has acted with respect to cash or securities with the debtor after the filing date and in a manner which would have given him the status of a customer with respect to such cash or securities had the action occurred prior to the filing date, and the trustee is satisfied that such action was taken by the customer in good faith and prior to the appointment of the trustee, the date on which such action was taken shall be deemed to be the filing date for purposes of determining the net equity of such customer with respect to such cash or securities.
+In a liquidation proceeding under this chapter, whenever a person has acted with respect tocash or securities with the debtor after the filing date and in a manner which would have given him the status of a customer with respect to such cash or securities had the action occurred prior to the filing date, and the trustee is satisfied that such action was taken by the customer in good faith and prior to the appointment of the trustee, the date on which such action was taken shall be deemed to be the filing date for purposes of determining the net equity of such customer with respect to such cash or securities.
 
 #### (d) Apportionment
 
-In a liquidation proceeding under this chapter, any cash or securities remaining after the liquidation of a lien or pledge made by a debtor shall be apportioned between his general estate and customer property in the proportion inwhich the general property of the debtor and the cash and securities of the customers of such debtor contributed to such lien or pledge. Securities apportioned to the general estate under this subsection shall be subject to the provisions of section 78lll(5)(A) of this title.
+In a liquidation proceeding under this chapter, any cash or securities remaining after the liquidation of a lien or pledge made by a debtor shall be apportioned between his general estate and customer property in the proportion in which the general property of the debtor and the cash and securities of the customers of such debtor contributed to such lien or pledge. Securities apportioned to the general estate under this subsection shall be subject to the provisions of section 78lll(5)(A) of this title.
 
 #### (e) Costs and expenses of administration
 
 All costs and expenses of administration of the estate of the debtor and of the liquidation proceeding shall be borne by the general estate of the debtor to the extent it is sufficient therefor, and the priorities of distribution from the general estate shall be as provided in section 726 of title 11. Costs and expenses of administration shall include payments pursuant to section 78fff–2(e) of this title and section 78fff–3(c)(1) of this title (to the extent such payments recovered securities which were apportioned to the general estate pursuant to subsection (d)) and costs and expenses of SIPC employees utilized by the trustee pursuant to section 78fff–1(a)(2) of this title. All funds advanced by SIPC to a trustee for such costs and expenses of administration shall be recouped from the general estate under section 507(a)(2) of title 11.
 
 (Pub. L. 91–598, §6, Dec. 30, 1970, 84 Stat. 1646; Pub. L. 95–283, §8, May 21, 1978, 92 Stat. 259; Pub. L. 95–598, title III, §308(g), (h), Nov. 6, 1978, 92 Stat. 2675; Pub. L. 109–8, title XV, §1502(b), Apr. 20, 2005, 119 Stat. 217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -66,7 +68,9 @@ Subsec. (h). Pub. L. 95–283 struck out subsec. (h) relating to nonapplicabilit
 
 Subsec. (i). Pub. L. 95–283 struck out subsec. (i) setting forth provisions relating to reports by the trustee to the court. See section 78fff–1(c) of this title.
 
-Subsec. (j). Pub. L. 95–283 struck out subsec. (j) which related to nonapplicability of provisions to rights of persons to establish by formal proof such claims as they may have to payment or delivery of specific securities. See section 78fff–2(a)(4) of this title.
+Subsec. (j). Pub. L. 95–283 struck out subsec. (j) which related to nonapplicability of provisions to rights ofpersons to establish by formal proof such claims as they may have to payment or delivery of specific securities. See section 78fff–2(a)(4) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

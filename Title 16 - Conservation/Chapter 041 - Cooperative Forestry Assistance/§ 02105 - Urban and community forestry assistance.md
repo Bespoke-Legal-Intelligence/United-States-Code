@@ -52,7 +52,7 @@ The Secretary is authorized to provide financial, technical, and related assista
 
 #### (d) Program of education and technical assistance
 
-The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
+The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of educationand technical assistance for urban and community forest resources. The program shall be designed to—
 
 &emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species, number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
 
@@ -130,7 +130,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (C) Chairperson
 
-&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who is not an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
+&emsp;&emsp;The Secretary shall select 1 member, from members appointed to the Council, who isnot an officer or employee of the United States nor any State, county, city, or town government, who shall serve as the chairperson of the Council.
 
 #### (D) Terms
 
@@ -202,7 +202,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 &emsp;&emsp;(C) the Council's recommendations for the urban and community forestry challenge cost share projects to be funded during the succeeding year.
 
-> &emsp;The review submitted to the Secretary shall be incorporated into the annual report required under section 1601(d) of this title.
+> &emsp;The review submitted to the Secretary shall be incorporated into the annual report required under subsection (e) of section 1601 of this title.
 
 #### (6) Detail of personnel
 
@@ -222,7 +222,9 @@ For the purposes of this section—
 
 There are hereby authorized to be appropriated $30,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each fiscal year thereafter, for the implementation of this section.
 
-(Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L. 101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, §7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032.)
+(Pub. L. 95–313, §9, formerly §6, July 1, 1978, 92 Stat. 369; renumbered §9 and amended Pub. L. 101–624, title XII, §§1215(1), 1219(a), Nov. 28, 1990, 104 Stat. 3525, 3533; Pub. L. 102–237, title X, §1018(a)(3), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 110–234, title VII, §7511(c)(36), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(36), June 18, 2008, 122 Stat. 1664, 2032; Pub. L. 117–58, div. G, title III, §70302(a)(1)(B), Nov. 15, 2021, 135 Stat. 1260.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -231,6 +233,8 @@ November 28, 1990, referred to in subsec. (g)(3), was in the original "the date 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (g). Pub. L. 117–58, in concluding provisions, substituted "subsection (e) of section 1601" for "section 1601(d)" and made technical amendment to reference in original act which appears in text as reference to section 1601 of this title.
 
 <b>2008</b>—Subsec. (g)(2)(A)(viii). Pub. L. 110–246, §7511(c)(36), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
@@ -241,6 +245,8 @@ Subsec. (h)(1). Pub. L. 102–237, §1018(a)(3)(C), substituted "subsection (g)"
 Subsec. (h)(2). Pub. L. 102–237, §1018(a)(3)(D), substituted "subsection (g)(3)" for "subsection (f)(3)".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to Congressional findings concerning urban forestry assistance, financial, technical, and related assistance to State foresters or equivalent State officials to encourage planning of urban forestry programs, and authorization of appropriations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

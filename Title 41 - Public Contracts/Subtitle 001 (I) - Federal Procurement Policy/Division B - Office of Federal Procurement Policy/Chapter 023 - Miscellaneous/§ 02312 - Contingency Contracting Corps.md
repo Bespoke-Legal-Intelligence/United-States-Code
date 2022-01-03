@@ -46,7 +46,7 @@ Director of the Office of Management and Budget.—The Director of the Office of
 
 &emsp;(2)
 
-Secretary of Defense.—Nothing in this section shall preclude the Secretary of Defenseor the Secretary's designee from deploying members of the Armed Forces or civilian personnel of the Department of Defense in support of a contingency operation as defined in section 101(a)(13) of title 10.
+Secretary of Defense.—Nothing in this section shall preclude the Secretary of Defense or the Secretary's designee from deploying members of the Armed Forces or civilian personnel of the Department of Defense in support of a contingency operation as defined in section 101(a)(13) of title 10.
 
 (i)
 

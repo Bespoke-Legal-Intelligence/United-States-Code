@@ -6,7 +6,7 @@ The Secretary shall carry out, and expand upon, a national media campaign to edu
 
 #### (b) Contract with entity
 
-The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison controland national media firms, for the development and implementation of a nationwide poisoning and toxic exposure prevention and poison control center awareness campaign, which may include—
+The Secretary may carry out subsection (a) by entering into contracts with one or more public or private entities, including nationally recognized organizations in the field of poison control and national media firms, for the development and implementation of a nationwide poisoning and toxic exposure prevention and poison control center awareness campaign, which may include—
 
 &emsp;(1) the development and distribution of poisoning and toxic exposure prevention awareness materials, applicable public health emergency preparedness and response information, and poison control center awareness materials;
 
@@ -19,6 +19,8 @@ The Secretary may carry out subsection (a) by entering into contracts with one o
 There is authorized to be appropriated to carry out this section, $800,000 for each of fiscal years 2020 through 2024.
 
 (July 1, 1944, ch. 373, title XII, §1272, as added Pub. L. 108–194, §3, Dec. 19, 2003, 117 Stat. 2889; amended Pub. L. 110–377, §4(a), Oct. 8, 2008, 122 Stat. 4064; Pub. L. 113–77, §3, Jan. 24, 2014, 128 Stat. 644; Pub. L. 116–94, div. N, title I, §403(b), Dec. 20, 2019, 133 Stat. 3114.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -41,6 +43,8 @@ Subsecs. (c), (d). Pub. L. 116–94, §403(b)(4)–(6), redesignated subsec. (d)
 Subsec. (d). Pub. L. 113–77, §3(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out this section, such sums as may be necessary for fiscal year 2009, and $800,000 for each of fiscal years 2010 through 2014."
 
 <b>2008</b>—Pub. L. 110–377 amended section generally. Prior to amendment, section required the Secretary to establish a national media campaign to educate the public and health care providers about poison control and prevention and authorized appropriations for fiscal years 2000 through 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

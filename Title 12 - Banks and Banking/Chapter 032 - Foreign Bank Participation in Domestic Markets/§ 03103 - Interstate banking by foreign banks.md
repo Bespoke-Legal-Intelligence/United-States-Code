@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(ii) consult with the Secretary of the Treasury regarding capital equivalency; and
 
-&emsp;&emsp;(C) shall apply the same requirements and conditions to which an application for aninterstate merger transaction is subject under paragraphs (1), (3), and (4) of section 1831u(b) of this title.
+&emsp;&emsp;(C) shall apply the same requirements and conditions to which an application for an interstate merger transaction is subject under paragraphs (1), (3), and (4) of section 1831u(b) of this title.
 
 #### (4) Operation
 

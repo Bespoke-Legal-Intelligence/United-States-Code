@@ -248,7 +248,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 &emsp;&emsp;(B) coordinate and support U.S. Customs and Border Protection's personnel stationed abroad;
 
-&emsp;&emsp;(C) maintain partnerships and information-sharing agreements and arrangementswith foreign governments, international organizations, and United States agencies in support of U.S. Customs and Border Protection's duties and responsibilities;
+&emsp;&emsp;(C) maintain partnerships and information-sharing agreements and arrangements with foreign governments, international organizations, and United States agencies in support of U.S. Customs and Border Protection's duties and responsibilities;
 
 &emsp;&emsp;(D) provide necessary capacity building, training, and assistance to foreign customs and border control agencies to strengthen border, global supply chain, and travel security, as appropriate;
 
@@ -320,7 +320,7 @@ There shall be in U.S. Customs and Border Protection a Deputy Commissioner who s
 
 #### (3) Exceptions
 
-&emsp;The Commissioner may withhold the notifications required under paragraphs (1)(C) and\(2) if the Commissioner determines, in the sole and unreviewable discretion of the Commissioner, that such notifications would impair national security, law enforcement, or other operational interests.
+&emsp;The Commissioner may withhold the notifications required under paragraphs (1)(C) and (2) if the Commissioner determines, in the sole and unreviewable discretion of the Commissioner, that such notifications would impair national security, law enforcement, or other operational interests.
 
 #### (4) Update and review
 
@@ -388,7 +388,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 #### (4) Daytime repatriation
 
-&emsp;When practicable, repatriations shall be limited to daylight hours and avoid locations thatare determined to have high indices of crime and violence.
+&emsp;When practicable, repatriations shall be limited to daylight hours and avoid locations that are determined to have high indices of crime and violence.
 
 #### (5) Report on procurement process and standards
 
@@ -412,7 +412,7 @@ The Commissioner shall require all officers and agents of U.S. Customs and Borde
 
 &emsp;&emsp;(B) make information about such wait times available to the public in real time through the U.S. Customs and Border Protection website;
 
-&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Finance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
+&emsp;&emsp;(C) submit to the Committee on Homeland Security and the Committee on Ways and Means of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee onFinance of the Senate, for each of the five calendar years beginning in the calendar year that begins after February 24, 2016, a report that includes compilations of all such wait times and a ranking of such United States airports by wait times; and
 
 &emsp;&emsp;(D) provide adequate staffing at the U.S. Customs and Border Protection information center to ensure timely access for travelers attempting to submit comments or speak with a representative about their entry experiences.
 
@@ -456,7 +456,7 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
 #### Codification
 
-Section is comprised of section 411 of Pub. L. 107–296. Former subsec. (b)(2) of section 411 of Pub. L. 107–296amended section 5314 of Title 5, Government Organization and Employees.
+Section is comprised of section 411 of Pub. L. 107–296. Former subsec. (b)(2) of section 411 of Pub. L. 107–296 amended section 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
 
@@ -662,7 +662,7 @@ CBP Agriculture Canine Teams.—The Commissioner of U.S. Customs and Border Prot
 
 "(d)
 
-Traffic Forecasts.—In calculating the number of CBP Agriculture Specialists needed at each port ofentry through the Agriculture Resource Allocation Model, the Office of Field Operations shall—
+Traffic Forecasts.—In calculating the number of CBP Agriculture Specialists needed at each port of entry through the Agriculture Resource Allocation Model, the Office of Field Operations shall—
 
 &emsp;"(1) rely on data collected regarding the inspections and other activities conducted at each such port of entry; and
 

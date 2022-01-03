@@ -26,9 +26,11 @@ The Secretary, upon recommendation from the Director of the National Park Servic
 
 (2) The head of any Federal agency (hereafter in this subsection referred to as the "agency") having direct or indirect jurisdiction over a proposed Federal or federally assisted undertaking in the historic district, and the head of any Federal agency having authority to license or permit any undertaking in such area, shall at the earliest feasible date prepare a detailed analysis of any proposed action and submit it to the Secretary.
 
-(3) The Secretary shall review the analysis and consult with the agency. If after such review and consultation, the Secretary finds that the proposed action is not consistent with the purposesidentified in this subsection, the agency shall not proceed with the action until after a justification for the action has been submitted to the appropriate committees of Congress with adequate time allowed for Congressional comment. Such justification shall include the following elements: the anticipated effects on the historic and commemorative character of the historic district, the social and economic necessity for the proposed action, all possible alternatives to the proposed action, the comparative benefits of proposed alternative actions, and the mitigation measures outlined in the proposed action.
+(3) The Secretary shall review the analysis and consult with the agency. If after such review and consultation, the Secretary finds that the proposed action is not consistent with the purposes identified in this subsection, the agency shall not proceed with the action until after a justification for the action has been submitted to the appropriate committees of Congress with adequate time allowed for Congressional comment. Such justification shall include the following elements: the anticipated effects on the historic and commemorative character of the historic district, the social and economic necessity for the proposed action, all possible alternatives to the proposed action, the comparative benefits of proposed alternative actions, and the mitigation measures outlined in the proposed action.
 
 (Pub. L. 101–377, §4, Aug. 17, 1990, 104 Stat. 465.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

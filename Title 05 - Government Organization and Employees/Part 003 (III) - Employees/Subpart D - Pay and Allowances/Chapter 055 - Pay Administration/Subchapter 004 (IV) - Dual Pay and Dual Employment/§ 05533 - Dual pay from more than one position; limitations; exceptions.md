@@ -8,7 +8,7 @@
 
 (2) Notwithstanding paragraph (1) of this subsection, appropriated funds are not available for payment to an individual of pay from more than one position, for each of which the pay is disbursed by the Chief Administrative Officer of the House of Representatives or the Chief of the Capitol Police, if the aggregate gross pay from those positions exceeds the maximum per annum gross rate of pay authorized to be paid to an employee out of the clerk hire allowance of a Member of the House.
 
-(3) For the purposes of this subsection, "gross pay" means the annual rate of pay (or equivalent thereof in the case of an individual paid onother than an annual basis) received by an individual.
+(3) For the purposes of this subsection, "gross pay" means the annual rate of pay (or equivalent thereof in the case of an individual paid on other than an annual basis) received by an individual.
 
 (4) Paragraph (1) of this subsection does not apply to pay on a when-actually-employed basis received from more than one consultant or expert position if the pay is not received for the same day.
 
@@ -196,7 +196,7 @@ The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, ef
 
 <b>1993</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1993, to the figure "$21,764", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 17, 1992, formerly set out as a note under section 4571 of Title 2.
 
-<b>1992</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to the figure "$20,987", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under section 4571 of Title 2.
+<b>1992</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1992, to thefigure "$20,987", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 18, 1991, formerly set out as a note under section 4571 of Title 2.
 
 <b>1991</b>—The figure "$10,540" in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 1991, to the figure "$20,141", see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 1990, formerly set out as a note under section 4571 of Title 2.
 

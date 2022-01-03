@@ -12,13 +12,17 @@
 
 &emsp;(4) recommendations for necessary program changes and other proposals to meet the requirements of the policy and goals as set forth by the Commission and in the Plan as currently in effect; and
 
-&emsp;(5) a description of the actions taken by the Interagency Committee to coordinate thebudget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
+&emsp;(5) a description of the actions taken by the Interagency Committee to coordinate the budget review process in order to ensure interagency coordination and cooperation in (A) carrying out Federal Arctic research programs, and (B) eliminating unnecessary duplication of effort among these programs.
 
 (Pub. L. 98–373, title I, §109, July 31, 1984, 98 Stat. 1247.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the biennial revision required under subsec. (a) of this section is listed on page 174), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -20,7 +20,7 @@ Nothing in this chapter shall be construed to prevent any Federal agency or inst
 
 Any requirements established for individuals in the position of "Trainee Appraiser" and "Supervisory Appraiser" shall meet or exceed the minimum qualification requirements of the Appraiser Qualifications Board of The Appraisal Foundation. The Appraisal Subcommittee shall have the authority to enforce these requirements.
 
-(Pub. L. 101–73, title XI, §1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, §701(a), Dec. 12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, §1473(j), July 21, 2010, 124 Stat. 2195.)
+(Pub. L. 101–73, title XI, §1116, Aug. 9, 1989, 103 Stat. 515; Pub. L. 102–233, title VII, §701(a), Dec.12, 1991, 105 Stat. 1792; Pub. L. 102–242, title IV, §472(a), Dec. 19, 1991, 105 Stat. 2386; Pub. L. 102–550, title XVI, §1617(a), Oct. 28, 1992, 106 Stat. 4096; Pub. L. 111–203, title XIV, §1473(j), July 21, 2010, 124 Stat. 2195.)
 
 #### <b>Editorial Notes</b>
 

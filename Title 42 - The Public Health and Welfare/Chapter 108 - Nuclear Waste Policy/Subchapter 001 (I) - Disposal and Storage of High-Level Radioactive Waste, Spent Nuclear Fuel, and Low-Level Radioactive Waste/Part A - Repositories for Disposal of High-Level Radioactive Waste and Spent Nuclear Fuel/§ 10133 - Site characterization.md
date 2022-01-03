@@ -20,7 +20,7 @@ The Secretary shall carry out, in accordance with the provisions of this section
 
 &emsp;&emsp;(v) any other information required by the Commission;
 
-&emsp;(B) a description of the possible form or packaging for the high-level radioactive waste and spent nuclear fuel to be emplaced in such repository, a description, to the extent practicable, of the relationship between such waste form or packaging and the geologic medium of such site, and a description of the activities being conducted by the Secretary with respect to such possible waste form or packaging or such relationship; and
+&emsp;(B) a description of the possible form or packaging for the high-level radioactive waste and spent nuclear fuel to be emplaced in such repository, a description, to the extent practicable, of the relationship between such waste form or packaging and the geologic medium of such site, and a description of the activitiesbeing conducted by the Secretary with respect to such possible waste form or packaging or such relationship; and
 
 &emsp;(C) a conceptual repository design that takes into account likely site-specific requirements.
 
@@ -61,6 +61,8 @@ The Secretary shall carry out, in accordance with the provisions of this section
 Each activity of the Secretary under this section that is in compliance with the provisions of subsection (c) shall be considered a preliminary decisionmaking activity. No such activity shall require the preparation of an environmental impact statement under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)), or to <sup>3</sup> require any environmental review under subparagraph (E) or (F) of section 102(2) of such Act.
 
 (Pub. L. 97–425, title I, §113, Jan. 7, 1983, 96 Stat. 2211; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5011(e)–(g), Dec. 22, 1987, 101 Stat. 1330–228.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

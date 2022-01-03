@@ -60,7 +60,7 @@ Certification elements.—The certification on a class of naval vessels describe
 
 &emsp;&emsp;(D) The date on which the Senior Technical Authority approved the systems engineering, engineering development, and land-based engineering and testing plans for such class of vessels.
 
-&emsp;&emsp;(E) A description by the Senior Technical Authority of the key technical knowledge objectives and demonstrated system performance of each plan approved as described in subparagraph (D).
+&emsp;&emsp;(E) A description by the Senior Technical Authority of the key technical knowledgeobjectives and demonstrated system performance of each plan approved as described in subparagraph (D).
 
 &emsp;&emsp;(F) A determination by the Senior Technical Authority that such plans are sufficient to achieve thorough technical knowledge of critical systems of such class of vessels before the start of detail design and construction.
 
@@ -94,13 +94,11 @@ Definitions.—In this section:
 
 &emsp;(2) The term "future-years defense program" has the meaning given that term in section 221 of this title.
 
-&emsp;(3) The term "Milestone A approval" has the meaning given that term in section 2431a of this title.
+&emsp;(3) The term "Milestone A approval" has the meaning given that term in section 4211 of this title.
 
 (Added Pub. L. 116–92, div. A, title X, §1034(a), Dec. 20, 2019, 133 Stat. 1580; amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283 is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -109,6 +107,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 #### Amendments
 
 <b>2021</b>—Subsec. (d)(3). Pub. L. 116–283 substituted "section 4211" for "section 2431a".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

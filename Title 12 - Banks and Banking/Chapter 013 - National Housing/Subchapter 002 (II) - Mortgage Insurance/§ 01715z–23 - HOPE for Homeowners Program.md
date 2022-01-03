@@ -84,7 +84,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may establish standards and policies that will allow for the payment to the holder of any existing subordinate mortgage of a portion of any future appreciation in the property secured bysuch eligible mortgage that is owed to the Secretary pursuant to subsection (k).
+&emsp;&emsp;&emsp;The Secretary may establish standards and policies that will allow for the payment to the holder of any existing subordinate mortgage of a portion of any future appreciation in the property secured by such eligible mortgage that is owed to the Secretary pursuant to subsection (k).
 
 #### (ii) Factors
 
@@ -212,7 +212,7 @@ To be eligible for insurance under this section, a refinanced eligible mortgage 
 
 #### (3) Other authority
 
-&emsp;The Secretary may establish such other standards or policies as necessary to protect against adverse selection, including requiring loans identified by the Secretary as higher risk loans to demonstrate payment performance for a reasonable period of time prior to being insured under the program.
+&emsp;The Secretary may establish such other standards or policies as necessary to protectagainst adverse selection, including requiring loans identified by the Secretary as higher risk loans to demonstrate payment performance for a reasonable period of time prior to being insured under the program.
 
 #### (i) Premiums
 
@@ -310,7 +310,7 @@ The Secretary shall take such actions as may be necessary to—
 
 #### (1) Guarantees
 
-&emsp;The Secretary shall take such actions as may be necessary to ensure that securitiesbased on and backed by a trust or pool composed of mortgages insured under this section are available to be guaranteed by the Government National Mortgage Association as to the timely payment of principal and interest.
+&emsp;The Secretary shall take such actions as may be necessary to ensure that securities based on and backed by a trust or pool composed of mortgages insured under this section are available to be guaranteed by the Government National Mortgage Association as to the timely payment of principal and interest.
 
 #### (2) Guarantee authority
 

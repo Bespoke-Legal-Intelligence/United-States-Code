@@ -12,9 +12,13 @@ As used in this subchapter:
 
 (Pub. L. 108–387, title I, §102, Oct. 30, 2004, 118 Stat. 2234.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in introductory provisions, was in the original "this title", meaning title I of Pub. L. 108–387, Oct. 30, 2004, 118 Stat. 2234, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

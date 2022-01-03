@@ -112,7 +112,7 @@ Subsec. (d)(3)(B). Pub. L. 102–40, §402(d)(1), substituted "7103(d)" for "400
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–687, §202(b), inserted "and" after "Vice Chairman," substituted "necessary in order to conduct hearings and dispose of appeals properly before the Board in a timely manner. The Board shall have" for "necessary, and", and inserted provisions which required that Board have sufficient personnel to conduct hearings and consider and dispose of appeals.
 
-Subsec. (b). Pub. L. 100–687, §201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: "Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President."
+Subsec. (b). Pub. L. 100–687, §201(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Members of the Board (including the Chairman and Vice Chairman) shall be appointed by the Administrator with the approval of the President."
 
 Subsec. (d). Pub. L. 100–687, §208, added subsec. (d).
 

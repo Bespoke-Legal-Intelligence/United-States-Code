@@ -2,7 +2,7 @@
 
 #### (a) Publication for public comment in Federal Register
 
-Notwithstanding any other provision of law, no rule or regulation pursuant to this subchapter may become effective unless it has first been published for public comment in the Federal Register for at least 60 days, and published in final form for at least 30 days.
+Notwithstanding any other provision of law, no rule or regulation pursuant to this subchapter may become effective unless it has firstbeen published for public comment in the Federal Register for at least 60 days, and published in final form for at least 30 days.
 
 #### (b) Transmittal to Congressional committee members prior to publication in Federal Register
 
@@ -18,9 +18,13 @@ The Secretary shall include with each rule or regulation required to be transmit
 
 (July 15, 1949, ch. 338, title V, §534, as added Pub. L. 98–181, title I \[title V, §523\], Nov. 30, 1983, 97 Stat. 1254; amended Pub. L. 100–242, title V, §563(b), Feb. 5, 1988, 101 Stat. 1944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (d). Pub. L. 100–242 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) Promulgation and revision of rules for protection from hazards at inactive or depository sites
 
-As soon as practicable, but not later than October 1, 1982, the Administrator of the Environmental Protection Agency (hereinafter referred to in this section as the "Administrator") shall, by rule, promulgate standards of general application (including standards applicable to licenses under section 104(h) of the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7914(h)\]) for the protection of the public health, safety, and the environment from radiological and nonradiological hazards associated with residual radioactive materials (as defined in section 101 of the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7911\]) located at inactive uranium mill tailings sites and depository sites for such materials selected by the Secretary of Energy, pursuant to title I of the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7911 et seq.\]. Standards promulgated pursuant to this subsection shall, to the maximum extent practicable, be consistent with the requirements of the Solid Waste Disposal Act, as amended \[42 U.S.C. 6901 et seq.\]. In establishing such standards, the Administrator shall consider the risk to the public health, safety, and the environment, the environmental and economic costs of applying such standards, and such other factors as the Administrator determines to be appropriate. The Administrator may periodically revise any standard promulgated pursuant to this subsection. After October 1,1982, if the Administrator has not promulgated standards in final form under this subsection, any action of the Secretary of Energy under title I of the Uranium Mill Tailings Radiation Control Act of 1978 which is required to comply with, or be taken in accordance with, standards of the Administrator shall comply with, or be taken in accordance with, the standards proposed by the Administrator under this subsection until such time as the Administrator promulgates such standards in final form.
+As soon as practicable, but not later than October 1, 1982, the Administrator of the Environmental Protection Agency (hereinafter referred to in this section as the "Administrator") shall, by rule, promulgate standards of general application (including standards applicable to licenses under section 104(h) of the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7914(h)\]) for the protection of the public health, safety, and the environment from radiological and nonradiological hazards associated with residual radioactive materials (as defined in section 101 of the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7911\]) located at inactive uranium mill tailings sites and depository sites for such materials selected by the Secretary of Energy, pursuant to title I of the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7911 et seq.\]. Standards promulgated pursuant to this subsection shall, to the maximum extent practicable, be consistent with the requirements of the Solid Waste Disposal Act, as amended \[42 U.S.C. 6901 et seq.\]. In establishing such standards, the Administrator shall consider the risk to the public health, safety, and the environment, the environmental and economic costs of applying such standards, and such other factors as the Administrator determines to be appropriate. The Administrator may periodically revise any standard promulgated pursuant to this subsection. After October 1, 1982, if the Administrator has not promulgated standards in final form under this subsection, any action of the Secretary of Energy under title I of the Uranium Mill Tailings Radiation Control Act of 1978 which is required to comply with, or be taken in accordance with, standards of the Administrator shall comply with, or be taken in accordance with, the standards proposed by the Administrator under this subsection until such time as the Administrator promulgates such standards in final form.
 
 #### (b) Promulgation and revision of rules for protection from hazards at processing or disposal sites
 
@@ -20,7 +20,7 @@ As soon as practicable, but not later than October 1, 1982, the Administrator of
 
 #### (d) Federal and State implementation and enforcement
 
-Implementation and enforcement of the standards promulgated pursuant to subsection (b) of this section shall be the responsibility of the Commission in the conduct of its licensing activities under this chapter. States exercising authority pursuant to section 2021(b)(2) of thistitle shall implement and enforce such standards in accordance with subsection (o) of such section.
+Implementation and enforcement of the standards promulgated pursuant to subsection (b) of this section shall be the responsibility of the Commission in the conduct of its licensing activities under this chapter. States exercising authority pursuant to section 2021(b)(2) of this title shall implement and enforce such standards in accordance with subsection (o) of such section.
 
 #### (e) Other authorities of Administrator unaffected
 
@@ -44,6 +44,8 @@ Nothing in this chapter applicable to byproduct material, as defined in section 
 
 (Aug. 1, 1946, ch. 724, title I, §275, as added Pub. L. 95–604, title II, §206(a), Nov. 8, 1978, 92 Stat. 3039; amended Pub. L. 97–415, §§18(a), 22(b), Jan. 4, 1983, 96 Stat. 2077, 2080; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (a), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended. Title I of such act is classified generally to subchapter I (§7911 et seq.) of chapter 88 of this title. For complete classification of this act to the Code, see Short Title note set out under section 7901 of this title and Tables.
@@ -63,6 +65,8 @@ The Federal Water Pollution Control Act, as amended, referred to in subsec. (e),
 Subsec. (b)(1). Pub. L. 97–415, §§18(a)(2), (3), 22(b)(2), substituted "October 31, 1982, the Administrator shall, by rule, propose, and within 11 months thereafter promulgate in final form," for "eighteen months after November 8, 1978, the Administrator shall, by rule, promulgate" inserted provisions relating to the consequences of failure by the Administrator to promulgate standards in final form by Oct. 1, 1983, and inserted provisions that in establishing standards, the Administrator shall consider risk to public health, safety, and the environment, environmental and economic costs of applying such standards, and such other factors as the Administrator determines to be appropriate.
 
 Subsec. (f). Pub. L. 97–415, §18(a)(4), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -36,9 +36,13 @@ Jan. 6, 1983, Pub. L. 97–424, §412, 96 Stat. 2160; Oct. 30, 1984, Pub. L. 98�
 
 In subsection (a), the words "Dwight D. Eisenhower System of Interstate and Defense Highways" are substituted for "Interstate and Defense Highway System" for consistency in the revised chapter.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–94 inserted "any towaway trailer transporter combination (as defined in section 31111(a))," after "passengers,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

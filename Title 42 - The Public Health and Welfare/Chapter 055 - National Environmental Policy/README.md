@@ -75,7 +75,7 @@
 |  |  |
 | :--- | ---: |
 | [4370m.](Subchapter%20004%20%28IV%29%20-%20Federal%20Permitting%20Improvement/%C2%A7%2004370m%20-%20Definitions.md) | Definitions. |
-| 4370m–1. | Federal Permitting Improvement Council. |
+| 4370m–1. | Federal Permitting Improvement Steering Council. |
 | 4370m–2. | Permitting process improvement. |
 | 4370m–3. | Interstate compacts. |
 | 4370m–4. | Coordination of required reviews. |
@@ -86,7 +86,7 @@
 | 4370m–9. | Application. |
 | 4370m–10. | GAO report. |
 | 4370m–11. | Savings provision. |
-| 4370m–12. | Sunset. |
+| 4370m–12. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

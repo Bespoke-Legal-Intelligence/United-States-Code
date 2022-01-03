@@ -18,6 +18,8 @@ Safeguarding and Forwarding of Records.—A commander making a preliminary asses
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(b)(1), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(b)(1), Nov. 18, 1997, 111 Stat. 1768.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsecs. (b), (c). Pub. L. 105–85 added subsec. (b) and redesignated former subsec. (b) as (c).

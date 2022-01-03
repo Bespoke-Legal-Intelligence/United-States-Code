@@ -72,7 +72,7 @@ Upon request of the Commission, the head of any Federal agency represented by me
 
 #### (g) Gifts, bequests, or donations
 
-The Commission may, for the purposes of carrying out the Commission's duties under section 450jj–7 of this title, seek, accept, and dispose of gifts, bequests, or donations of money, personal property, or services, received from any source.
+The Commission may, for the purposes of carrying out the Commission's duties under section 450jj–7 of this title, seek, accept, and dispose ofgifts, bequests, or donations of money, personal property, or services, received from any source.
 
 #### (h) Termination; extension
 
@@ -81,6 +81,8 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 (2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary in order for the Commission to carry out sections 450jj to 450jj–9 of this title.
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

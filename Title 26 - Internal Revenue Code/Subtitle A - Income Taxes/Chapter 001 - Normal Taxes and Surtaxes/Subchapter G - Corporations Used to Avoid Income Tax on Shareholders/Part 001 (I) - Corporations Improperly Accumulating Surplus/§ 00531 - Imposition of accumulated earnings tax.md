@@ -4,6 +4,8 @@ In addition to other taxes imposed by this chapter, there is hereby imposed for 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 179; Pub. L. 100–647, title I, §1001(a)(2)(A), Nov. 10, 1988, 102 Stat. 3349; Pub. L. 103–66, title XIII, §§13201(b)(1), 13202(b), Aug. 10, 1993, 107 Stat. 459, 461; Pub. L. 107–16, title I, §101(c)(4), June 7, 2001, 115 Stat. 43; Pub. L. 108–27, title III, §302(e)(5), May 28, 2003, 117 Stat. 764; Pub. L. 112–240, title I, §102(c)(1)(A), Jan. 2, 2013, 126 Stat. 2319.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 112–240 substituted "20 percent" for "15 percent".
@@ -21,6 +23,8 @@ Pub. L. 103–66, §13201(b)(1), substituted "36 percent" for "28 percent".
 &emsp;"(1) 27½ percent of the accumulated taxable income not in excess of $100,000, plus
 
 &emsp;"(2) 38½ percent of the accumulated taxable income in excess of $100,000."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 
@@ -40,5 +44,5 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1001(a)(2)(B), Nov. 10, 1988, 102 Stat. 3349, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code."
+Pub. L. 100–647, title I, §1001(a)(2)(B), Nov. 10, 1988, 102 Stat. 3349, provided that: "The amendment made bysubparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987. Such amendment shall not be treated as a change in a rate of tax for purposes of section 15 of the 1986 Code."
 

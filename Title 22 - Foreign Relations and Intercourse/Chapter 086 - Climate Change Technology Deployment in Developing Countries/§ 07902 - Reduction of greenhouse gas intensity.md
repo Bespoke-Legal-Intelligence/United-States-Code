@@ -40,7 +40,7 @@
 
 #### (b) Projects
 
-The Secretary of State, in coordination with Administrator of the United States Agency for International Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the United States International Development Finance Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
+The Secretary of State, in coordination with Administrator of the United States Agency forInternational Development, shall (directly or through agreements with the World Bank, the International Monetary Fund, the United States International Development Finance Corporation, and other development institutions) provide assistance to developing countries specifically for projects to reduce greenhouse gas intensity, including projects to—
 
 &emsp;(1) leverage, through bilateral agreements, funds for reduction of greenhouse gas intensity;
 

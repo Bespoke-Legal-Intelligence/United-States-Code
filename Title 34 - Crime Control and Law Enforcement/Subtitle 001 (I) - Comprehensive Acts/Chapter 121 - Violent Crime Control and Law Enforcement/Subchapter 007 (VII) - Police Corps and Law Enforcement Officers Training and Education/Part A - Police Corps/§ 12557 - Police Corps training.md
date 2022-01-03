@@ -24,7 +24,7 @@ The training sessions at training centers established under this section shall b
 
 #### (e) Evaluation of participants
 
-A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performance standards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
+A participant shall be evaluated during training for mental, physical, and emotional fitness, and shall be required to meet performancestandards prescribed by the Director at the conclusion of each training session in order to remain in the Police Corps program.
 
 #### (f) Stipend
 

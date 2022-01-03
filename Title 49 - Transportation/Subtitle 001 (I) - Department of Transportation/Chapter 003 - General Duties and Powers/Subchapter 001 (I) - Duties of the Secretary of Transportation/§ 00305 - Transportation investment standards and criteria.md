@@ -14,7 +14,7 @@
 
 &emsp;(6) grant-in-aid programs authorized by law.
 
-(b) A department, agency, or instrumentality of the Government preparing a survey, plan, or report that includes a proposal about which the Secretary has prescribed standards and criteria under subsection (a) of this section shall—
+(b) A department, agency, or instrumentality of the Government preparing a survey, plan, orreport that includes a proposal about which the Secretary has prescribed standards and criteria under subsection (a) of this section shall—
 
 &emsp;(1) prepare the survey, plan, or report under those standards and criteria and on the basis of information provided by the Secretary on the—
 
@@ -61,6 +61,8 @@ In subsection (a), before clause (1), the words "consistent with national transp
 The text of 49:1656(a) (last par.) that provided that the Secretary of Transportation was a member of the Water Resources Council on matters pertaining to navigation features of water resource projects is omitted as superseded because 42:1962(a) gave the Secretary membership on the Council without limitation.
 
 In subsection (b)(2), the words "unit of" before "governments" are omitted as surplus. In clause (3), the word "thereafter" after "send" is omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

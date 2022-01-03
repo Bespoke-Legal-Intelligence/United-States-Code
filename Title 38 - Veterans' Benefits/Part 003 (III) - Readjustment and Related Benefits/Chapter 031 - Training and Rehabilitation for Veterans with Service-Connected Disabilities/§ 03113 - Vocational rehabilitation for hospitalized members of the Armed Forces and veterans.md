@@ -4,7 +4,7 @@
 
 (b) Services and assistance may be provided under this chapter to a veteran who is receiving care in a Department of Veterans Affairs hospital, nursing home, or domiciliary facility or in any other hospital or medical facility.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2181, §1513; amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103 Stat. 2092; renumbered §3113 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(10), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 116–283, div. A, title IX, §926(a)(43), Jan. 1, 2021, 134 Stat. 3830.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2181, §1513; amended Pub. L. 101–237, title IV, §423(b)(1)(B), Dec. 18, 1989, 103Stat. 2092; renumbered §3113 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title XII, §1201(d)(10), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 116–283, div. A, title IX, §926(a)(43), Jan. 1, 2021, 134 Stat. 3830.)
 
 #### <b>Editorial Notes</b>
 

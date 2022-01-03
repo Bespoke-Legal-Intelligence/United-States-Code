@@ -38,7 +38,7 @@
 
 #### (2) Monitoring
 
-&emsp;The President shall establish a monitoring program to verify that a person that receivesa waiver under paragraph (1)(B) is not trafficking illicit opioids.
+&emsp;The President shall establish a monitoring program to verify that a person that receives a waiver under paragraph (1)(B) is not trafficking illicit opioids.
 
 #### (3) Notification
 

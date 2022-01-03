@@ -110,7 +110,7 @@ Upon making a determination under subsection (a) or (h), the President shall—
 
 #### (k) Damages for certain violations
 
-(1) In any case in which the President makes a determination under subsection (a), the Secretary of Defense shall determine the costs of restoring the military preparedness of the United States on account of the violation involved. The Secretary of Defense shall notify the Attorney General of his determination, and the Attorney General may bring an action fordamages, in any appropriate district court of the United States, to recover such costs against the person who committed the violation, any person that is owned or controlled by the person who committed the violation, and any person who owns and controls the person who committed the violation.
+(1) In any case in which the President makes a determination under subsection (a), the Secretary of Defense shall determine the costs of restoring the military preparedness of the United States on account of the violation involved. The Secretary of Defense shall notify the Attorney General of his determination, and the Attorney General may bring an action for damages, in any appropriate district court of the United States, to recover such costs against the person who committed the violation, any person that is owned or controlled by the person who committed the violation, and any person who owns and controls the person who committed the violation.
 
 (3) <sup>2</sup> The total amount awarded in any case brought under paragraph (2) <sup>2</sup> shall be determined by the court in light of the facts and circumstances, but shall not exceed the amount of the net loss to the national security of the United States. An action under this subsection shall be commenced not later than 3 years after the violation occurs, or one year after the violation is discovered, whichever is later.
 
@@ -120,6 +120,8 @@ For purposes of this section, the term "foreign person" means any person other t
 
 (Pub. L. 96–72, §11A, as added Pub. L. 100–418, title II, §2444, Aug. 23, 1988, 102 Stat. 1366.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4616 of this title, referred to in subsec. (g), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -127,6 +129,8 @@ Section 4616 of this title, referred to in subsec. (g), was repealed by Pub. L. 
 #### Codification
 
 Section was formerly classified to section 2410a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

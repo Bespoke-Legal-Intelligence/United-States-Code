@@ -14,7 +14,7 @@ The plan referred to in subsection (a) shall—
 
 &emsp;(3) include a tentative budget for the subsequent five fiscal years;
 
-&emsp;(4) propose a management strategy for a permanent organizational structure to enhanceand coordinate such resources, and aviation-related properties, and institutions;
+&emsp;(4) propose a management strategy for a permanent organizational structure to enhance and coordinate such resources, and aviation-related properties, and institutions;
 
 &emsp;(5) recommend methods for establishing partnerships with Federal, State, and local governments and the private sector to foster development and to preserve and enhance such resources;
 

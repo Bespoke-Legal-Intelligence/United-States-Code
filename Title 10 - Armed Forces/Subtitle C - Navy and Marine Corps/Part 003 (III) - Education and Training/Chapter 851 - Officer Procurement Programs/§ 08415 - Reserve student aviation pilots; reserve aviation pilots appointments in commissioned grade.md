@@ -10,7 +10,7 @@
 
 (e) Under regulations prescribed by the Secretary, a student aviation pilot of the Navy Reserve or the Marine Corps Reserve may be designated an aviation pilot upon successfully completing flight training.
 
-(f) In time of peace, an aviation pilot who is obligated under subsection (b) to serve on active duty for a period of two years may serve, with his consent, for an additional period of not more than two years.
+(f) In time of peace, an aviation pilot who is obligated under subsection (b) to serve on active duty for a period of two years may serve, withhis consent, for an additional period of not more than two years.
 
 (g) An aviation pilot of the Navy Reserve or the Marine Corps Reserve may be released from active duty or discharged at any time by any administrative authority prescribed by the Secretary.
 
@@ -50,6 +50,8 @@ In subsection (f) the words "pay grade E–5" are substituted for the words "thi
 
 In subsection (h) the words "of the Naval Reserve or the Marine Corps Reserve" are substituted for the words "designated as such in accordance with sections 841a and 841b of this title" for uniformity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6915 of this title as this section.
@@ -59,6 +61,8 @@ In subsection (h) the words "of the Naval Reserve or the Marine Corps Reserve" a
 <b>1980</b>—Subsecs. (f) to (i). Pub. L. 96–513 redesignated subsecs. (g), (h), and (i) as (f), (g), and (h), respectively.
 
 <b>1962</b>—Subsec. (f). Pub. L. 87–649 repealed subsec. (f) which provided that while on active duty, an aviation pilot of the Naval Reserve or the Marine Corps Reserve is entitled to the pay of an enlisted member in pay grade E–5 or that of his grade, whichever is greater. See section 201 of Title 37, Pay and Allowances of the Uniformed Services.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

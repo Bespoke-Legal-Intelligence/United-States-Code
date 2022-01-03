@@ -48,7 +48,7 @@
 
 &emsp;&emsp;&emsp;(vii) meets such other criteria as the Secretary determines to be appropriate to participate in the demonstration program.
 
-> &emsp;&emsp;The entity shall report on quality measures (in such form, manner, and frequency as specified by the Secretary, which may be for the group, for providers of services and suppliers, or both) and report to the Secretary (in a form, manner, and frequency as specified by the Secretary) such data as the Secretary determines appropriate to monitor and evaluate the demonstration program.
+> &emsp;&emsp;The entity shall report on quality measures (in such form, manner, and frequency asspecified by the Secretary, which may be for the group, for providers of services and suppliers, or both) and report to the Secretary (in a form, manner, and frequency as specified by the Secretary) such data as the Secretary determines appropriate to monitor and evaluate the demonstration program.
 
 #### (B) Physician
 
@@ -76,7 +76,7 @@
 
 #### (1) Establishment of target spending level
 
-&emsp;The Secretary shall establish an estimated annual spending target, for the amount the Secretary estimates would have been spent in the absence of the demonstration, for items and services covered under parts A and B furnished to applicable beneficiaries for each qualifying independence at home medicalpractice under this section. Such spending targets shall be determined on a per capita basis. Such spending targets shall include a risk corridor that takes into account normal variation in expenditures for items and services covered under parts A and B furnished to such beneficiaries with the size of the corridor being related to the number of applicable beneficiaries furnished services by each independence at home medical practice. The spending targets may also be adjusted for other factors as the Secretary determines appropriate.
+&emsp;The Secretary shall establish an estimated annual spending target, for the amount the Secretary estimates would have been spent in the absence of the demonstration, for items and services covered under parts A and B furnished to applicable beneficiaries for each qualifying independence at home medical practice under this section. Such spending targets shall be determined on a per capita basis. Such spending targets shall include a risk corridor that takes into account normal variation in expenditures for items and services covered under parts A and B furnished to such beneficiaries with the size of the corridor being related to the number of applicable beneficiaries furnished services by each independence at home medical practice. The spending targets may also be adjusted for other factors as the Secretary determines appropriate.
 
 #### (2) Incentive payments
 
@@ -178,7 +178,9 @@ For purposes of administering and carrying out the demonstration program, other 
 
 &emsp;The Secretary may terminate an agreement with an independence at home medical practice for such other reasons determined appropriate by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866E, formerly §1866D, as added and renumbered §1866E, Pub. L. 111–148, title III, §3024, title X, §10308(b)(2), Mar. 23, 2010, 124 Stat. 404, 942; amended Pub. L. 114–39, §2, July 30, 2015, 129 Stat. 440; Pub. L. 115–123, div. E, title III, §50301(a), Feb. 9, 2018, 132 Stat. 190; Pub. L. 116–260, div. CC, title I, §105(a), Dec. 27, 2020, 134 Stat. 2944.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866E, formerly §1866D, as added and renumbered §1866E, Pub. L. 111–148, title III, §3024, title X,§10308(b)(2), Mar. 23, 2010, 124 Stat. 404, 942; amended Pub. L. 114–39, §2, July 30, 2015, 129 Stat. 440; Pub. L. 115–123, div. E, title III, §50301(a), Feb. 9, 2018, 132 Stat. 190; Pub. L. 116–260, div. CC, title I, §105(a), Dec. 27, 2020, 134 Stat. 2944.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -206,9 +208,11 @@ Subsec. (i)(1)(A). Pub. L. 115–123, §50301(a)(3), substituted "did not achiev
 
 <b>2015</b>—Subsec. (e)(1). Pub. L. 114–39 substituted "5-year" for "3-year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Pub. L. 116–260, div. CC, title I, §105(b), Dec. 27, 2020, 134 Stat. 2944, provided that: "The amendments madeby subsection (a) \[amending this section\] shall take effect as if included in the enactment of Public Law 111–148."
+Pub. L. 116–260, div. CC, title I, §105(b), Dec. 27, 2020, 134 Stat. 2944, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of Public Law 111–148."
 
 #### Effective Date of 2018 Amendment
 

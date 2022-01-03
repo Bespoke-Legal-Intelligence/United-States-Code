@@ -12,7 +12,7 @@
 
 (2) A commission established under this subsection shall be composed of the following members appointed by the Secretary:
 
-&emsp;(A) Three persons representing education and training, real estate, mortgage finance,and related industries, and survivor benefits activities affected by the Veterans Benefits Administration.
+&emsp;(A) Three persons representing education and training, real estate, mortgage finance, and related industries, and survivor benefits activities affected by the Veterans Benefits Administration.
 
 &emsp;(B) Two persons representing veterans served by the Veterans Benefits Administration.
 

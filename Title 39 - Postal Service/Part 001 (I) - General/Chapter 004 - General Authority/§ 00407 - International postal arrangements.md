@@ -60,9 +60,9 @@ The date of enactment of this subsection, referred to in subsec. (e)(4), is the 
 
 <b>1998</b>—Pub. L. 105–277 substituted "International Postal Arrangements" for "International postal arrangements" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-"(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of the Postal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
+"(a) The Postal Service, with the consent of the President, may negotiate and conclude postal treaties or conventions, and may establish the rates of postage or other charges on mail matter conveyed between the United States and other countries. The decisions of thePostal Service construing or interpreting the provisions of any treaty or convention which has been or may be negotiated and concluded shall, if approved by the President, be conclusive upon all officers of the Government of the United States.
 
-"(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments tothe Secretary of State, who shall furnish a copy of the same to the Public Printer for publication."
+"(b) The Postal Service shall transmit a copy of each postal convention concluded with other governments to the Secretary of State, who shall furnish a copy of the same to the Public Printer for publication."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -128,9 +128,9 @@ It is the policy of the United States to promote and encourage the development o
 
 &emsp;(A) the United States, along with other member countries of the UPU, is in many cases not fully reimbursed by the foreign postal operator for the cost of delivering foreign-origin letter post items, which can result in substantial preferences for foreign mailers relative to domestic mailers;
 
-&emsp;(B) the current terminal dues rates undermine the goal of unrestricted and undistorted competition in cross-border delivery services because they disadvantage non-postal operators seeking to offer competing collection and outward transportation services for goods covered by terminal dues in foreign markets; and
+&emsp;(B) the current terminal dues rates undermine the goal of unrestricted and undistorted competition incross-border delivery services because they disadvantage non-postal operators seeking to offer competing collection and outward transportation services for goods covered by terminal dues in foreign markets; and
 
-&emsp;(C) the current system of terminal dues distorts the flow of small packages around the world byincentivizing the shipping of goods from foreign countries that benefit from artificially low reimbursement rates.
+&emsp;(C) the current system of terminal dues distorts the flow of small packages around the world by incentivizing the shipping of goods from foreign countries that benefit from artificially low reimbursement rates.
 
 (ii) The UPU has not done enough to reorient international mail to achieve a clear distinction between documents and goods. Without such a distinction, it is difficult to achieve essential pricing reforms or to ensure that customs requirements, including provision of electronic customs data for goods, are met. Under the current system, foreign postal operators do not uniformly furnish advance electronic customs data that are needed to enhance targeting and risk management for national security and to facilitate importation and customs clearance. My Administration's Initiative to Stop Opioids Abuse and Reduce Drug Supply and Demand, launched in March of this year \[2018\], requires accurate advance electronic customs data for 90 percent of all international mail shipments that contain goods and consignment shipments within 3 years, so that the Department of Homeland Security can better detect and flag high-risk shipments.
 

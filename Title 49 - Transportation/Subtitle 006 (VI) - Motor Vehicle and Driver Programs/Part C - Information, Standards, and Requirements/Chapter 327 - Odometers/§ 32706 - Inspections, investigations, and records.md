@@ -124,11 +124,15 @@ This amends 49:32706(e)(3) to clarify the restatement of 15:1990d(c)(4) by secti
 
 This amends 49:32706(c) to correct a cross-reference necessary because of the restatement of subtitle IV of title 49 by the ICC Termination Act (Public Law 104–88, 109 Stat. 803).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–102 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105".
 
 <b>1994</b>—Subsec. (e)(3). Pub. L. 103–429 substituted "any judicial district in which the proceeding by the Secretary is conducted." for "the judicial district in which the proceeding by the Secretary was conducted."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

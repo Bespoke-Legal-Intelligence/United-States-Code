@@ -36,6 +36,8 @@ The provisions of this chapter applicable to orders shall be applicable to amend
 
 (Pub. L. 101–624, title XIX, §1974, Nov. 28, 1990, 104 Stat. 3903; Pub. L. 102–237, title VIII, §806(3), Dec. 13, 1991, 105 Stat. 1883.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b). Pub. L. 102–237, §806(3)(B), redesignated second subsec. (b), relating to amendments to orders, as (c).

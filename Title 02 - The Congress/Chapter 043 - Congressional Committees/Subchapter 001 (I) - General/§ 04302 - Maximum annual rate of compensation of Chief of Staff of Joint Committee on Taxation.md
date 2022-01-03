@@ -12,7 +12,7 @@ Section was formerly classified to section 74a–2 of this title prior to editor
 
 #### Amendments
 
-<b>2019</b>—Pub. L. 116–94 substituted "The maximum annual rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title." for "The per annum rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall be the same as the per annum rate of compensation of the Legislative Counsel of the House of Representatives."
+<b>2019</b>—Pub. L. 116–94 substituted "The maximum annual rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall not exceed the greater of $173,900 or the rate of pay in effect for such position under an order issued by the Speaker of theHouse of Representatives pursuant to the authority of section 4532 of this title." for "The per annum rate of compensation of the Chief of Staff of the Joint Committee on Taxation shall be the same as the per annum rate of compensation of the Legislative Counsel of the House of Representatives."
 
 <b>1994</b>—Pub. L. 103–437 substituted "Joint Committee on Taxation" for "Joint Committee on Internal Revenue Taxation".
 

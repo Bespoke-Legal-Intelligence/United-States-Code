@@ -36,7 +36,7 @@ Officers in Pay Grades O–2
 
 and O–1
 
-Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—(1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failedof selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
+Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—(1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
 
 (2) Each regular officer on the active-duty list of the Navy serving in the grade of ensign who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of second lieutenant who is an officer designated for limited duty, who is found not qualified for promotion to the grade of lieutenant (junior grade) (in the case of an officer of the Navy) or first lieutenant (in the case of an officer of the Marine Corps) shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the officer was found not qualified for promotion.
 
@@ -174,6 +174,8 @@ In subsection (f) the words "to which he would otherwise become entitled" are om
 
 The second proviso in §312(f) of the Officer Personnel Act of 1947 (34 U.S.C. 410j(f)), which provides that officers who exercise their option to revert to a warrant officer grade shall be retired upon completing 30 years of active naval service, is omitted as superseded by §14(b)(2) of the Warrant Officer Act of 1954 (34 U.S.C. 430(b)(2)), codified in §1305 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1370 of this title, referred to in subsec. (c)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
@@ -250,7 +252,7 @@ Subsec. (c)(2). Pub. L. 96–513, §513(17), substituted "September 8, 1980" for
 
 Pub. L. 96–342, designated existing provisions as subpar. (A), inserted provision limiting applicability to officers who became members of the uniformed services before the date of the enactment of the Department of Defense Authorization Act, 1981, and added subpar. (B).
 
-Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and Marine Corps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
+Subsec. (d). Pub. L. 96–513, §336(d), provided that Navy lieutenants designated for limited duty and MarineCorps captains similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection.
 
 Subsec. (e). Pub. L. 96–513, §336(d), designated existing provisions as par. (1), provided that Navy lieutenants (junior grade) designated for limited duty and Marine Corps first lieutenants similarly designated who were considered as having failed of selection for promotion were to be honorably discharged on a date requested by the officer concerned and approved by the Secretary of the Navy but not later than the first day of the seventh calendar month beginning after the month in which the President approved the report of the selection board rather than on June 30th of the fiscal year in which he was considered as having failed of selection, and added par. (2).
 
@@ -267,6 +269,8 @@ Subsecs. (g) to (j). Pub. L. 96–513, §336(f)–(h), added subsecs. (h) to (j)
 Subsec. (e). Pub. L. 86–616 permits an officer, if he so requests, to be honorably discharged at any time during the fiscal year in which he is considered as having failed of selection for promotion to the grade of lieutenant or captain for the second time.
 
 <b>1958</b>—Subsec. (c)(2). Pub. L. 85–422 substituted "that may be credited to him under section 1405 of this title" for "creditable for basic pay".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -286,7 +290,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 

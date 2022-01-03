@@ -234,7 +234,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Loans under this subsection shall be at an interest rate that is set by reference toa benchmark interest rate (yield) on marketable Treasury securities with a similar maturity to the direct loans being made.
+&emsp;&emsp;&emsp;Loans under this subsection shall be at an interest rate that is set by reference to a benchmark interest rate (yield) on marketable Treasury securities with a similar maturity to the direct loans being made.
 
 #### (ii) Minimum
 
@@ -288,7 +288,7 @@ Not later than 180 days after December 19, 2007, the Secretary shall establish p
 
 #### (1) Grants
 
-&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections (b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
+&emsp;There is authorized to be appropriated for the cost of grants authorized in subsections\(b), (c), and (d) $250,000,000 for each of fiscal years 2009 through 2013, of which not more than 5 percent may be used for administrative expenses.
 
 #### (2) Loans
 
@@ -296,9 +296,13 @@ Not later than 180 days after December 19, 2007, the Secretary shall establish p
 
 (Pub. L. 94–163, title III, §399A, as added Pub. L. 110–140, title IV, §471, Dec. 19, 2007, 121 Stat. 1642.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reorganization Plan Number 14 of 1950, referred to in subsec. (g)(4)(B), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

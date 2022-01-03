@@ -60,7 +60,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;Clause (i) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable,receives not less than the amount of funds received by that other eligible institution under this section for the preceding fiscal year.
+&emsp;&emsp;&emsp;Clause (i) shall apply only if amounts are appropriated under this section in an amount sufficient to provide that each other eligible institution receiving an allocation of funds under this section for fiscal year 2019, 2020, 2021, or 2022, as applicable, receives not less than the amount of funds received by that other eligible institution under this section for the preceding fiscal year.
 
 #### (C) Subsequent fiscal years
 
@@ -124,13 +124,15 @@ The State director of the cooperative extension service and the extension admini
 
 #### (e) Diminution, loss, or misapplication of funds
 
-If any portion of the moneys received by any eligible institution for the support and maintenance of extension work as provided in this section shall by any action or contingency be diminished or lost or be misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be apportioned or paid to such institution. No portion of such moneys shall be applied, directly or indirectly, to the purchase, erection, preservation, or repair of any building or buildings, or the purchase or rental of land, or in college course teaching, lectures in college, or any other purpose not specified in this section. It shall be the duty of such institution, annually, on or about the first day of January, to make to the Governor of the State in which it is located a fulland detailed report of its operations in extension work, including a detailed statement of receipts and expenditures from all sources for this purpose, a copy of which report shall be sent to the Secretary.
+If any portion of the moneys received by any eligible institution for the support and maintenance of extension work as provided in this section shall by any action or contingency be diminished or lost or be misapplied, it shall be replaced by such institution and until so replaced no subsequent appropriation shall be apportioned or paid to such institution. No portion of such moneys shall be applied, directly or indirectly, to the purchase, erection, preservation, or repair of any building or buildings, or the purchase or rental of land, or in college course teaching, lectures in college, or any other purpose not specified in this section. It shall be the duty of such institution, annually, on or about the first day of January, to make to the Governor of the State in which it is located a full and detailed report of its operations in extension work, including a detailed statement of receipts and expenditures from all sources for this purpose, a copy of which report shall be sent to the Secretary.
 
 #### (f) Mailing of correspondence, bulletins, and reports
 
 To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
 (Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, §7203(a), May 13, 2002, 116 Stat. 438; Pub. L. 110–234, title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), May 22, 2008, 122 Stat. 1222, 1246, 1247, 1268; Pub. L. 110–246, §4(a), title VII, §§7121, 7403(c), 7404(b)(2)(A)(i), 7511(c)(12), June 18, 2008, 122 Stat. 1664, 1983, 2008, 2029; Pub. L. 115–334, title VII, §§7114, 7115(a), 7612(c)(1), Dec. 20, 2018, 132 Stat. 4785, 4832.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -180,7 +182,7 @@ Subsec. (b)(2)(A). Pub. L. 110–246, §7511(c)(12), substituted "National Insti
 
 Subsec. (f). Pub. L. 110–246, §7404(b)(2)(A)(i), struck out "under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe" after "United States".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out "Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C.343(d)." after "(hereinafter in this section referred to as 'eligible institutions')." in par. (1), and substituted "Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent" for "Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 5½ per centum, and for each fiscal year thereafter an amount not less than 6 per centum" in par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out "Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d)." after "(hereinafter in this section referred to as 'eligible institutions')." in par. (1), and substituted "Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent" for "Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 5½ per centum, and for each fiscal year thereafter an amount not less than 6 per centum" in par. (2).
 
 <b>1998</b>—Pub. L. 105–185, §226(c)(2)(A), substituted "University" for "Institute" in section catchline.
 
@@ -201,6 +203,8 @@ Subsec. (b)(2)(B). Pub. L., 97–98, §1431(3), inserted "current at the time ea
 Subsec. (c). Pub. L. 97–98, §1431(4), substituted "extension administrator" for "administrative head for extension" and inserted provision for the submission of a comprehensive program of extension for approval by the Secretary each five years after Sept. 29, 1977.
 
 Subsec. (d). Pub. L. 97–98, §1431(5), substituted "submitted, as part of the State plan of work," for "submitted by the proper officials of each institution".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

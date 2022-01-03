@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title XII, §1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 "Participation in multinational military centers of excellence".
@@ -24,6 +26,8 @@
 <b>2019</b>—Pub. L. 116–92, div. A, title XVII, §1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out "Sec." after item 350.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XII, §§1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted "Centers for Security Studies" for "centers for security studies" in item 342, inserted "and Irregular Warfare" after "Terrorism" in item 345, and added items 351 and 352.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Defense Institute of International Legal Studies
 
@@ -83,7 +87,7 @@ Comptroller General of the United States Report.—
 
 &emsp;"(1)
 
-In general.—Not later than 270 days after the date of the enactment of this Act \[Dec. 12, 2017\], theComptroller General of the United States shall submit to the appropriate committees of Congress a report that sets forth the following:
+In general.—Not later than 270 days after the date of the enactment of this Act \[Dec. 12, 2017\], the Comptroller General of the United States shall submit to the appropriate committees of Congress a report that sets forth the following:
 
 &emsp;&emsp;"(A) A description of the mechanisms and authorities used by the Department of Defense and the Department of State to conduct training of foreign security forces on human rights and international humanitarian law.
 

@@ -26,7 +26,7 @@ In General.—For the sport that it governs, a national governing body shall—
 
 &emsp;(11) promote a safe environment in sports that is free from abuse of any amateur athlete, including emotional, physical, and sexual abuse;
 
-&emsp;(12) take care to promote a safe environment in sports using information relating to anytemporary measure or sanction issued pursuant to the authority of the Center;
+&emsp;(12) take care to promote a safe environment in sports using information relating to any temporary measure or sanction issued pursuant to the authority of the Center;
 
 &emsp;(13) immediately report to law enforcement any allegation of child abuse of an amateur athlete who is a minor; and
 

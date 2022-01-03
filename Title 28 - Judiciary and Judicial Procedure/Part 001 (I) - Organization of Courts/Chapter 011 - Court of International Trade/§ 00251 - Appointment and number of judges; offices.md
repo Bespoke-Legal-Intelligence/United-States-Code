@@ -30,7 +30,7 @@ Changes in phraseology were made.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–417 incorporated first par. in provisions designated subsec. (a), redesignated the United States Customs Court as the United States Court of International Trade, and deleted "appointed" before "shall be".
 
-Subsec. (b). Pub. L. 96–417 added subsec. (b) and struck out a second paragraph requiring the President to designate from time to time one of the judges to act as chief judge.
+Subsec. (b). Pub. L. 96–417 added subsec. (b) and struck out a second paragraph requiring the Presidentto designate from time to time one of the judges to act as chief judge.
 
 Subsec. (c). Pub. L. 96–417 designated third par. as subsec. (c) and substituted "Court of International Trade" for "court" and "located in New York, New York" for "located at the port of New York".
 

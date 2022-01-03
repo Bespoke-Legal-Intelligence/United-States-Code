@@ -50,7 +50,7 @@ Grants to which percentage limitation doesn't apply.—Discretionary grants made
 
 &emsp;&emsp;&emsp;(ii)
 
-Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
+Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percentof the amount appropriated under section 14703 of this title for the fiscal year, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount.
 
 &emsp;(3)
 

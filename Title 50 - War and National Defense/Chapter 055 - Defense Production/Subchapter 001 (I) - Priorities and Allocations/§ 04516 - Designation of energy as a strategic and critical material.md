@@ -8,6 +8,8 @@ For purposes of this chapter, "energy" shall be designated as a "strategic and c
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -19,6 +21,8 @@ Section was formerly classified to section 2076 of the former Appendix to this t
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–67 substituted "such designation" for "such designation—" and "energy." for "energy; or", struck out par. (1) designation before "grant any new direct or indirect authority to the President for", and struck out par. (2) which read as follows: "grant any new direct or indirect authority to the President to engage in the production of energy in any manner whatsoever (such as oil and gas exploration and development, or any energy facility construction), except as expressly provided in sections 305 and 306 \[of act Sept. 8, 1950, ch. 932\] for synthetic fuel production."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

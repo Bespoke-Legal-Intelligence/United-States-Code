@@ -4,6 +4,8 @@ Before any violation of this chapter is reported by the Secretary of Agriculture
 
 (Aug. 9, 1939, ch. 615, title IV, §408, 53 Stat. 1286.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 See section 1610 of this title.

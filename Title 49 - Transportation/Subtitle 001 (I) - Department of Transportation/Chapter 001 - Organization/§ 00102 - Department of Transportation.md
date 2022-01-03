@@ -1,8 +1,8 @@
 ### §102. Department of Transportation
 
-(a) The Department of Transportation is an executive department of the United States Government at the seat of Government.
+(a) The Department of Transportation (referred to in this section as the "Department") is an executive department of the United States Government at the seat of Government.
 
-(b) The head of the Department is the Secretary of Transportation. The Secretary is appointed by the President, by and with the advice and consent of the Senate.
+(b) The head of the Department is the Secretary of Transportation (referred to in this section as the "Secretary"). The Secretary is appointed by the President, by and with the advice and consent of the Senate.
 
 (c) The Department has a Deputy Secretary of Transportation appointed by the President, by and with the advice and consent of the Senate. The Deputy Secretary—
 
@@ -18,15 +18,17 @@ Assistant Secretaries; General Counsel.—
 
 &emsp;(1)
 
-Appointment.—The Department has 6 Assistant Secretaries and a General Counsel, including—
+Appointment.—The Department has 7 Assistant Secretaries and a General Counsel, including—
 
 &emsp;&emsp;(A) an Assistant Secretary for Aviation and International Affairs, an Assistant Secretary for Governmental Affairs, an Assistant Secretary for Research and Technology, and an Assistant Secretary for Transportation Policy, who shall each be appointed by the President, with the advice and consent of the Senate;
 
 &emsp;&emsp;(B) an Assistant Secretary for Budget and Programs who shall be appointed by the President;
 
-&emsp;&emsp;(C) an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President; and
+&emsp;&emsp;(C) an Assistant Secretary for Administration, who shall be appointed by the Secretary, with the approval of the President;
 
-&emsp;&emsp;(D) a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
+&emsp;&emsp;(D) an Assistant Secretary for Tribal Government Affairs, who shall be appointed by the President; and
+
+&emsp;&emsp;(E) a General Counsel, who shall be appointed by the President, with the advice and consent of the Senate.
 
 &emsp;(2)
 
@@ -34,11 +36,19 @@ Duties and powers.—The officers set forth in paragraph (1) shall carry out dut
 
 (f)
 
-Deputy Assistant Secretary for Tribal Government Affairs.—
+Office of Tribal Government Affairs.—
 
 &emsp;(1)
 
-Establishment.—In accordance with Federal policies promoting Indian self determination, the Department of Transportation shall have, within the office of the Secretary, a Deputy Assistant Secretary for Tribal Government Affairs appointed by the President to plan, coordinate, and implement the Department of Transportation policy and programs serving Indian tribes and tribal organizations and to coordinate tribal transportation programs and activities in all offices and administrations of the Department and to be a participant in any negotiated rulemaking relating to, or having an impact on, projects, programs, or funding associated with the tribal transportation program.
+Establishment.—There is established in the Department an Office of Tribal Government Affairs, under the Assistant Secretary for Tribal Government Affairs—
+
+&emsp;&emsp;(A) to oversee the tribal self-governance program under section 207 of title 23;
+
+&emsp;&emsp;(B) to plan, coordinate, and implement policies and programs serving Indian Tribes and Tribal organizations;
+
+&emsp;&emsp;(C) to coordinate Tribal transportation programs and activities in all offices and administrations of the Department; and
+
+&emsp;&emsp;(D) to be a participant in any negotiated rulemakings relating to, or having an impact on, projects, programs, or funding associated with the Tribal transportation program under section 202 of title 23.
 
 &emsp;(2)
 
@@ -68,9 +78,145 @@ Establishment.—There is established in the Department an Office of Climate Cha
 
 Clearinghouse.—The Office shall establish a clearinghouse of solutions, including cost-effective congestion reduction approaches, to reduce air pollution and transportation-related energy use and mitigate the effects of climate change.
 
-(h) The Department shall have a seal that shall be judicially recognized.
+(h)
 
-(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(l), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756; Pub. L. 112–166, §2(k)(1), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 114–94, div. A, title VI, §6011(a), Dec. 4, 2015, 129 Stat. 1568.)
+Interagency Infrastructure Permitting Improvement Center.—
+
+&emsp;(1)
+
+Definitions.—In this subsection:
+
+&emsp;&emsp;(A)
+
+Center.—The term "Center" means the Interagency Infrastructure Permitting Improvement Center established by paragraph (2).
+
+&emsp;&emsp;(B)
+
+Project.—The term "project" means a project authorized or funded under—
+
+&emsp;&emsp;&emsp;(i) this title; or
+
+&emsp;&emsp;&emsp;(ii) title 14, 23, 46, or 51.
+
+&emsp;(2)
+
+Establishment.—There is established within the Office of the Secretary a center, to be known as the "Interagency Infrastructure Permitting Improvement Center".
+
+&emsp;(3)
+
+Purposes.—The purposes of the Center shall be—
+
+&emsp;&emsp;(A) to implement reforms to improve interagency coordination and expedite projects relating to the permitting and environmental review of major transportation infrastructure projects, including—
+
+&emsp;&emsp;&emsp;(i) developing and deploying information technology tools to track project schedules and metrics; and
+
+&emsp;&emsp;&emsp;(ii) improving the transparency and accountability of the permitting process;
+
+&emsp;&emsp;(B)(i) to identify appropriate methods to assess environmental impacts; and
+
+&emsp;&emsp;(ii) to develop innovative methods for reasonable mitigation;
+
+&emsp;&emsp;(C) to reduce uncertainty and delays with respect to environmental reviews and permitting; and
+
+&emsp;&emsp;(D) to reduce costs and risks to taxpayers in project delivery.
+
+&emsp;(4)
+
+Executive director.—The Center shall be headed by an Executive Director, who shall—
+
+&emsp;&emsp;(A) report to the Under Secretary of Transportation for Policy;
+
+&emsp;&emsp;(B) be responsible for the management and oversight of the daily activities, decisions, operations, and personnel of the Center; and
+
+&emsp;&emsp;(C) carry out such additional duties as the Secretary may prescribe.
+
+&emsp;(5)
+
+Duties.—The Center shall carry out the following duties:
+
+&emsp;&emsp;(A) Coordinate and support implementation of priority reform actions for Federal agency permitting and reviews.
+
+&emsp;&emsp;(B) Support modernization efforts at the operating administrations within the Department and interagency pilot programs relating to innovative approaches to the permitting and review of transportation infrastructure projects.
+
+&emsp;&emsp;(C) Provide technical assistance and training to Department staff on policy changes, innovative approaches to project delivery, and other topics, as appropriate.
+
+&emsp;&emsp;(D) Identify, develop, and track metrics for timeliness of permit reviews, permit decisions, and project outcomes.
+
+&emsp;&emsp;(E) Administer and expand the use of online transparency tools providing for—
+
+&emsp;&emsp;&emsp;(i) tracking and reporting of metrics;
+
+&emsp;&emsp;&emsp;(ii) development and posting of schedules for permit reviews and permit decisions;
+
+&emsp;&emsp;&emsp;(iii) the sharing of best practices relating to efficient project permitting and reviews; and
+
+&emsp;&emsp;&emsp;(iv) the visual display of relevant geospatial data to support the permitting process.
+
+&emsp;&emsp;(F) Submit to the Secretary reports describing progress made toward achieving—
+
+&emsp;&emsp;&emsp;(i) greater efficiency in permitting decisions and review of infrastructure projects; and
+
+&emsp;&emsp;&emsp;(ii) better outcomes for communities and the environment.
+
+&emsp;(6)
+
+Innovative best practices.—
+
+&emsp;&emsp;(A)
+
+In general.—The Center shall work with the operating administrations within the Department, eligible entities, and other public and private interests to develop and promote best practices for innovative project delivery.
+
+&emsp;&emsp;(B)
+
+Activities.—The Center shall support the Department and operating administrations in conducting environmental reviews and permitting, together with project sponsor technical assistance activities, by—
+
+&emsp;&emsp;&emsp;(i) carrying out activities that are appropriate and consistent with the goals and policies of the Department to improve the delivery timelines for projects;
+
+&emsp;&emsp;&emsp;(ii) serving as the Department liaison to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Council on Environmental Quality; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the Federal Permitting Improvement Steering Council established by section 41002(a) of the Fixing America's Surface Transportation Act (42 U.S.C. 4370m–1(a));
+
+&emsp;&emsp;&emsp;(iii) supporting the National Surface Transportation and Innovative Finance Bureau (referred to in this paragraph as the "Bureau") in implementing activities to improve delivery timelines, as described in section 116(f), for projects carried out under the programs described in section 116(d)(1) for which the Bureau administers the application process;
+
+&emsp;&emsp;&emsp;(iv) leading activities to improve delivery timelines for projects carried out under programs not administered by the Bureau by—
+
+&emsp;&emsp;&emsp;&emsp;(I) coordinating efforts to improve the efficiency and effectiveness of the environmental review and permitting process;
+
+&emsp;&emsp;&emsp;&emsp;(II) providing technical assistance and training to field and headquarters staff of Federal agencies with respect to policy changes and innovative approaches to the delivery of projects; and
+
+&emsp;&emsp;&emsp;&emsp;(III) identifying, developing, and tracking metrics for permit reviews and decisions by Federal agencies for projects under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+
+&emsp;&emsp;(C)
+
+NEPA compliance assistance.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—Subject to clause (ii), at the request of an entity that is carrying out a project, the Center, in coordination with the appropriate operating administrations within the Department, shall provide technical assistance relating to compliance with the applicable requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and applicable Federal authorizations.
+
+&emsp;&emsp;&emsp;(ii)
+
+Assistance from the bureau.—For projects carried out under the programs described in section 116(d)(1) for which the Bureau administers the application process, the Bureau, on request of the entity carrying out the project, shall provide the technical assistance described in clause (i).
+
+(i)
+
+Chief Travel and Tourism Officer.—
+
+&emsp;(1)
+
+Establishment.—There is established in the Office of the Secretary of Transportation a position, to be known as the "Chief Travel and Tourism Officer".
+
+&emsp;(2)
+
+Duties.—The Chief Travel and Tourism Officer shall collaborate with the Assistant Secretary for Aviation and International Affairs to carry out—
+
+&emsp;&emsp;(A) the National Travel and Tourism Infrastructure Strategic Plan under section 1431(e) of Public Law 114–94 (49 U.S.C. 301 note); and
+
+&emsp;&emsp;(B) other travel- and tourism-related matters involving the Department of Transportation.
+
+(Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102; Pub. L. 109–59, title I, §1119(l), Aug. 10, 2005, 119 Stat. 1189; Pub. L. 110–140, title XI, §1101(a), Dec. 19, 2007, 121 Stat. 1756; Pub. L. 112–166, §2(k)(1), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 114–94, div. A, title VI, §6011(a), Dec. 4, 2015, 129 Stat. 1568; Pub. L. 117–58, div. A, title IV, §14009, div. B, title V, §§25009(a), 25018(b), Nov. 15, 2021, 135 Stat. 651, 852, 875.)
 
 Historical and Revision Notes
 
@@ -118,7 +264,31 @@ In subsection (d), the words "in the competitive service" are substituted for "u
 
 In subsection (e), the words "The Secretary shall cause a . . . of office" and "of such device" are omitted as unnecessary because of the restatement. The words "as he shall approve" are omitted as unnecessary because subsection (b) of the section establishes the Secretary of Transportation as the head of the Department of Transportation.
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(6)(B)(iii)(III), (C)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §25009(a)(1), inserted "(referred to in this section as the 'Department')" after "Transportation".
+
+Subsec. (b). Pub. L. 117–58, §25009(a)(2), inserted "(referred to in this section as the 'Secretary')" after "Transportation" in first sentence.
+
+Subsec. (e)(1). Pub. L. 117–58, §14009(1)(A), substituted "7 Assistant" for "6 Assistant" in introductory provisions.
+
+Subsec. (e)(1)(D), (E). Pub. L. 117–58, §14009(1)(B)–(D), added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (f). Pub. L. 117–58, §14009(2), substituted "Office of Tribal Government Affairs" for "Deputy Assistant Secretary for Tribal Government Affairs" in heading.
+
+Subsec. (f)(1). Pub. L. 117–58, §14009(2), added par. (1) and struck out former par. (1) which provided for a Deputy Assistant Secretary for Tribal Government Affairs appointed by the President.
+
+Subsec. (h). Pub. L. 117–58, §25009(a)(4), added subsec. (h). Former subsec. (h) redesignated (i) and subsequently struck out.
+
+Subsec. (i). Pub. L. 117–58, §25018(b), added subsec. (i) and struck out former subsec. (i). Prior to amendment, text read as follows: "The Department shall have a seal that shall be judicially recognized."
+
+Pub. L. 117–58, §25009(a)(3), redesignated subsec. (h) as (i).
 
 <b>2015</b>—Subsec. (e)(1). Pub. L. 114–94, §6011(a)(1), substituted "6" for "5" in introductory provisions.
 
@@ -142,6 +312,12 @@ Pub. L. 107–295, §215(a)(1), redesignated subsec. (d) as (g).
 
 <b>1984</b>—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 14009 of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of Title 23, Highways.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -161,6 +337,170 @@ Pub. L. 107–295, title II, §215(c), Nov. 25, 2002, 116 Stat. 2102, provided t
 #### Deemed References to Chapters 509 and 511 of Title 51
 
 General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+
+#### Rural Opportunities To Use Transportation for Economic Success Initiative
+
+Pub. L. 117–58, div. B, title V, §25010, Nov. 15, 2021, 135 Stat. 854, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Build america bureau.—The term 'Build America Bureau' means the National Surface Transportation and Innovative Finance Bureau established under section 116 of title 49, United States Code.
+
+&emsp;"(2)
+
+Indian tribe.—The term 'Indian Tribe' has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+&emsp;"(3)
+
+ROUTES council.—The term 'ROUTES Council' means the Rural Opportunities to Use Transportation for Economic Success Council established by subsection (c)(1).
+
+&emsp;"(4)
+
+ROUTES office.—The term 'ROUTES Office' means the Rural Opportunities to Use Transportation for Economic Success Office established by subsection (b)(1).
+
+"(b)
+
+Routes Office.—
+
+&emsp;"(1)
+
+In general.—The Secretary \[of Transportation\] shall establish within the Department \[of Transportation\] the Rural Opportunities to Use Transportation for Economic Success Office—
+
+&emsp;&emsp;"(A) to improve analysis of projects from rural areas, Indian Tribes, and historically disadvantaged communities in rural areas applying for Department discretionary grants, including ensuring that project costs, local resources, and the larger benefits to the people and the economy of the United States are appropriately considered; and
+
+&emsp;&emsp;"(B) to provide rural communities, Indian Tribes, and historically disadvantaged communities in rural areas with technical assistance for meeting the transportation infrastructure investment needs of the United States in a financially sustainable manner.
+
+&emsp;"(2)
+
+Objectives.—The ROUTES Office shall—
+
+&emsp;&emsp;"(A) collect input from knowledgeable entities and the public on—
+
+&emsp;&emsp;&emsp;"(i) the benefits of rural and Tribal transportation projects;
+
+&emsp;&emsp;&emsp;"(ii) the technical and financial assistance required for constructing and operating transportation infrastructure and services within rural areas and on the land of Indian Tribes;
+
+&emsp;&emsp;&emsp;"(iii) barriers and opportunities to funding transportation projects in rural areas and on the land of Indian Tribes; and
+
+&emsp;&emsp;&emsp;"(iv) unique transportation barriers and challenges faced by Indian Tribes and historically disadvantaged communities in rural areas;
+
+&emsp;&emsp;"(B) evaluate data on transportation challenges faced by rural communities and Indian Tribes and determine methods to align the discretionary funding and financing opportunities of the Department with the needs of those communities for meeting national transportation goals;
+
+&emsp;&emsp;"(C) provide education and technical assistance to rural communities and Indian Tribes about applicable Department discretionary grants, develop effective methods to evaluate projects in those communities in discretionary grant programs, and communicate those methods through program guidance;
+
+&emsp;&emsp;"(D) carry out research and utilize innovative approaches to resolve the transportation challenges faced by rural areas and Indian Tribes; and
+
+&emsp;&emsp;"(E) perform such other duties as determined by the Secretary.
+
+"(c)
+
+Routes Council.—
+
+&emsp;"(1)
+
+In general.—The Secretary shall establish a Rural Opportunities to Use Transportation for Economic Success Council—
+
+&emsp;&emsp;"(A) to organize, guide, and lead the ROUTES Office; and
+
+&emsp;&emsp;"(B) to coordinate rural-related and Tribal-related funding programs and assistance among the modal administrations of the Department, the offices of the Department, and other Federal agencies, as appropriate—
+
+&emsp;&emsp;&emsp;"(i) to ensure that the unique transportation needs and attributes of rural areas and Indian Tribes are fully addressed during the development and implementation of programs, policies, and activities of the Department;
+
+&emsp;&emsp;&emsp;"(ii) to increase coordination of programs, policies, and activities of the Department in a manner that improves and expands transportation infrastructure in order to further economic development in, and the quality of life of, rural areas and Indian Tribes; and
+
+&emsp;&emsp;&emsp;"(iii) to provide rural areas and Indian Tribes with proactive outreach—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) to improve access to discretionary funding and financing programs; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to facilitate timely resolution of environmental reviews for complex or high-priority projects.
+
+&emsp;"(2)
+
+Membership.—
+
+&emsp;&emsp;"(A)
+
+In general.—The ROUTES Council shall be composed of the following officers of the Department, or their designees:
+
+&emsp;&emsp;&emsp;"(i) The Deputy Secretary of Transportation.
+
+&emsp;&emsp;&emsp;"(ii) The Under Secretary of Transportation for Policy.
+
+&emsp;&emsp;&emsp;"(iii) The General Counsel.
+
+&emsp;&emsp;&emsp;"(iv) The Chief Financial Officer and Assistant Secretary for Budget and Programs.
+
+&emsp;&emsp;&emsp;"(v) The Assistant Secretary for Research and Technology.
+
+&emsp;&emsp;&emsp;"(vi) The Assistant Secretary for Multimodal Freight.
+
+&emsp;&emsp;&emsp;"(vii) The Administrators of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the Federal Aviation Administration;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) the Federal Highway Administration;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) the Federal Railroad Administration; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) the Federal Transit Administration.
+
+&emsp;&emsp;&emsp;"(viii) The Executive Director of the Build America Bureau.
+
+&emsp;&emsp;&emsp;"(ix) The Assistant Secretary for Governmental Affairs.
+
+&emsp;&emsp;&emsp;"(x) The Assistant Secretary for Transportation Policy.
+
+&emsp;&emsp;&emsp;"(xi) The Deputy Assistant Secretary for Tribal Government Affairs.
+
+&emsp;&emsp;"(B)
+
+Chair.—The Deputy Secretary of Transportation shall be the Chair of the ROUTES Council.
+
+&emsp;&emsp;"(C)
+
+Additional members.—The Secretary or the Chair of the ROUTES Council may designate additional members to serve on the ROUTES Council.
+
+&emsp;"(3)
+
+Additional modal input.—To address issues related to safety and transport of commodities produced in or by, or transported through, as applicable, rural areas, Indian Tribes, or the land of Indian Tribes, the ROUTES Council shall consult with the Administrators (or their designees) of—
+
+&emsp;&emsp;"(A) the Maritime Administration;
+
+&emsp;&emsp;"(B) the Great Lakes St. Lawrence Seaway Development Corporation; and
+
+&emsp;&emsp;"(C) the National Highway Traffic Safety Administration.
+
+&emsp;"(4)
+
+Duties.—Members of the ROUTES Council shall—
+
+&emsp;&emsp;"(A) participate in all meetings and relevant ROUTES Council activities and be prepared to share information relevant to rural and Tribal transportation infrastructure projects and issues;
+
+&emsp;&emsp;"(B) provide guidance and leadership on rural and Tribal transportation infrastructure issues and represent the work of the ROUTES Council and the Department on those issues to external stakeholders; and
+
+&emsp;&emsp;"(C) recommend initiatives for the consideration of the Chair of the ROUTES Council to establish and staff any resulting activities or working groups.
+
+&emsp;"(5)
+
+Meetings.—The ROUTES Council shall meet bimonthly.
+
+&emsp;"(6)
+
+Additional staffing.—The Secretary shall ensure that the ROUTES Council and ROUTES Office have adequate staff support to carry out the duties of the ROUTES Council and the ROUTES Office, respectively, under this section.
+
+&emsp;"(7)
+
+Work products and deliverables.—The ROUTES Council may develop work products or deliverables to meet the goals of the ROUTES Council, including—
+
+&emsp;&emsp;"(A) an annual report to Congress describing ROUTES Council activities for the past year and expected activities for the coming year;
+
+&emsp;&emsp;"(B) any recommendations to enhance the effectiveness of Department discretionary grant programs regarding rural and Tribal infrastructure issues; and
+
+&emsp;&emsp;"(C) other guides and reports for relevant groups and the public."
 
 #### Highly Automated Systems Safety Center of Excellence
 
@@ -204,7 +544,7 @@ Notice of Reprogramming.—If any funds authorized for carrying out this title \
 
 "(b)
 
-Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science, Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate."
+Notice of Reorganization.—On or before the 15th day preceding the date of any major reorganization of a program, project, or activity of the Department \[of Transportation\] for which funds are authorized by this title or the amendments made by this title, the Secretary \[of Transportation\] shall provide notice of the reorganization to the Committees on Transportation and Infrastructure and Science \[now Science,Space, and Technology\] of the House of Representatives and the Committee on Environment and Public Works of the Senate."
 
 Pub. L. 105–178, title V, §5003, June 9, 1998, 112 Stat. 422, provided that:
 
@@ -218,19 +558,11 @@ Notice of Reorganization.—On or before the 15th day preceding the date of any 
 
 #### Surface Transportation Administration
 
-Pub. L. 102–240, title V, §5004, Dec. 18, 1991, 105 Stat. 2160, provided that:
-
-"(a)
-
-Study.—Not later than 60 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall enter into an agreement with the National Academy of Public Administration to continue a study of options for organizing the Department of Transportation to increase the effectiveness of program delivery, reduce costs, and improve intermodal coordination among surface transportation-related agencies.
-
-"(b)
-
-Report.—The Secretary shall report to Congress on the findings of the study continued under subsection (a) and recommend appropriate organizational changes no later than January 1, 1993. No organizational changes shall be implemented until such changes are approved by law."
+Pub. L. 102–240, title V, §5004, Dec. 18, 1991, 105 Stat. 2160, provided that, not later than 60 days after Dec. 18, 1991, the Secretary was to enter into an agreement with the National Academy of Public Administration to continue a study of options for organizing the Department of Transportation to increase effectiveness and report to Congress on the study and recommend appropriate organizational changes no later than Jan. 1, 1993, to be implemented if approved by law.
 
 #### Person Holding Position of Associate Deputy Secretary Until April 15, 1985
 
-Pub. L. 98–557, §26(c), Oct. 30, 1984, 98 Stat. 2873, provided that: "Notwithstanding any other provision of law, until April 15, 1985, the position created by subsection (a) of this section \[adding subsec. (d) of this section\] may be held by a person named by the President alone from among qualified individuals."
+Pub. L. 98–557, §26(c), Oct. 30, 1984, 98 Stat. 2873, provided that, until Apr. 15, 1985, the position of Associate Deputy Secretary could be held by a person named by the President alone.
 
 #### Ex. Ord. No. 11340. Effective Date
 

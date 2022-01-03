@@ -4,9 +4,13 @@ In the case of property acquired before March 1, 1913, if the basis otherwise de
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 311; Pub. L. 85–866, title I, §47, Sept. 2, 1958, 72 Stat. 1642.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Pub. L. 85–866 substituted "subtitle" for "part".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

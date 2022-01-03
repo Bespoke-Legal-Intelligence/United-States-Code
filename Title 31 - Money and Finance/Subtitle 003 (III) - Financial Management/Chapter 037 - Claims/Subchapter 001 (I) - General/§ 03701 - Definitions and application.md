@@ -22,7 +22,7 @@
 
 &emsp;(6) "system of records" has the same meaning given that term in section 552a(a)(5) of title 5.
 
-&emsp;(7) "uniformed services" means the Army, Navy, Air Force, Marine Corps, Space Force,Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
+&emsp;(7) "uniformed services" means the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, Commissioned Corps of the National Oceanic and Atmospheric Administration, and Commissioned Corps of the Public Health Service.
 
 &emsp;(8) "nontax" means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
@@ -156,7 +156,7 @@ Oct. 25, 1982, Pub. L. 97–365, §8(e)(related to §§3, 10(2)–12, 13(b)), 96
 
 In subsections (a)(1), (b), and (c), the word "Government" is added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(3)(B), before clause (i), the word "money" is substituted for "monetary fees, dues" to eliminate unnecessary words. The words "engages in whole or in part in the practice of" are omitted as surplus. In clause (i), the words "credit or other" and "(asdefined in clause (i) of this subparagraph)" are omitted as surplus.
+In subsection (a)(3)(B), before clause (i), the word "money" is substituted for "monetary fees, dues" to eliminate unnecessary words. The words "engages in whole or in part in the practice of" are omitted as surplus. In clause (i), the words "credit or other" and "(as defined in clause (i) of this subparagraph)" are omitted as surplus.
 
 In subsection (a)(6), 31 App.:952(d)(4)(C) is omitted as unnecessary.
 
@@ -232,7 +232,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 104–134, title III, §31001(b), Apr. 26, 1996, 110 Stat. 1321–358, provided that: "The purposes of this section \[see Short Title of 1996 Amendment note above\] are the following:
 
-&emsp;"(1) To maximize collections of delinquent debts owed to the Government by ensuring quick action toenforce recovery of debts and the use of all appropriate collection tools.
+&emsp;"(1) To maximize collections of delinquent debts owed to the Government by ensuring quick action to enforce recovery of debts and the use of all appropriate collection tools.
 
 &emsp;"(2) To minimize the costs of debt collection by consolidating related functions and activities and utilizing interagency teams.
 

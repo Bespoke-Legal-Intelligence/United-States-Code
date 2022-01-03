@@ -26,6 +26,8 @@ In carrying <sup>1</sup> subsection (a), the Postmaster General shall—
 
 (Pub. L. 102–486, title I, §166, Oct. 24, 1992, 106 Stat. 2861.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.

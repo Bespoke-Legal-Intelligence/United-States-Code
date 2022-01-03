@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(b) the Attorney General fails to take any action with respect to the Commission's request.
 
-(B) In any case where the Attorney General represents the Commission before the SupremeCourt in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
+(B) In any case where the Attorney General represents the Commission before the Supreme Court in any civil action in which the Commission represented itself pursuant to paragraph (1) or (2), the Attorney General may not agree to any settlement, compromise, or dismissal of such action, or confess error in the Supreme Court with respect to such action, unless the Commission concurs.
 
 (C) For purposes of this paragraph (with respect to representation before the Supreme Court), the term "Attorney General" includes the Solicitor General.
 
@@ -70,6 +70,8 @@ Whenever the Commission has reason to believe that any person, partnership, or c
 
 <i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–203, §1, amended Pub. L. 109–455, §13. See 2006 Amendment notes below.
@@ -82,6 +84,8 @@ Subsec. (c). Pub. L. 109–455, §5, which added subsec. (c) relating to attorne
 
 <b>1973</b>—Pub. L. 93–153 inserted provisions authorizing the Federal Trade Commission to itself cause appropriate proceedings to be brought after compliance with the requirements of section 45(m) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination Date of 2006 Amendment
 
 Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
@@ -89,6 +93,8 @@ Amendment by sections 5 and 7(b) of Pub. L. 109–455 repealed effective Sept. 3
 #### Effective Date of 1975 Amendment
 
 Pub. L. 93–637, title II, §204(c), Jan. 4, 1975, 88 Stat. 2200, provided that: "The amendment and repeal made by this section \[amending this section and repealing section 45(m) of this title\] shall not apply to any civil action commenced before the date of enactment of this Act \[Jan. 4, 1975\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

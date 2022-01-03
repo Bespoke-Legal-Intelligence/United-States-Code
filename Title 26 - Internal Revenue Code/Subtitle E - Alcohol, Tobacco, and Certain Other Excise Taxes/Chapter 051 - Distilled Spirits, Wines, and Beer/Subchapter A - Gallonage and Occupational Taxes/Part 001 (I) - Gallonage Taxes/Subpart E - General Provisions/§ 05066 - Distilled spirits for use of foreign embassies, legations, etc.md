@@ -4,7 +4,7 @@
 
 #### (1) Bottled distilled spirits withdrawn from bonded premises
 
-&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
+&emsp;Under such regulations as the Secretary may prescribe, bottled distilled spirits may be withdrawn from bonded premises as provided in section 5214(a)(4) for transfer to customs bonded warehouses in which imported distilled spirits are permitted to be stored in bond for entry therein pending withdrawal therefrom as provided in subsection (b). For the purposes of this chapter, the withdrawal of distilled spirits from bonded premises under the provisions of this paragraph shall be treated as a withdrawal for exportation and all provisions of law applicable to distilled spirits withdrawn for exportation under the provisions of section 5214(a)(4) shall apply with respect to spirits withdrawn under this paragraph.
 
 #### (2) Bottled distilled spirits eligible for export with benefit of drawback
 
@@ -28,6 +28,8 @@ No distilled spirits withdrawn from customs bonded warehouses or otherwise broug
 
 (Added Pub. L. 91–659, §3(a), Jan. 8, 1971, 84 Stat. 1965; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §2(d), Nov. 14, 1977, 91 Stat. 1364; Pub. L. 96–39, title VIII, §807(a)(11), July 26, 1979, 93 Stat. 282; Pub. L. 98–369, div. A, title IV, §454(c)(2), July 18, 1984, 98 Stat. 820; Pub. L. 115–141, div. U, title IV, §401(a)(240), Mar. 23, 2018, 132 Stat. 1195.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5066 was renumbered 5068 of this title.
@@ -46,6 +48,8 @@ Subsec. (b). Pub. L. 96–39, §807(a)(11)(B), struck out "or domestic distilled
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–369 effective July 1, 1985, see section 456(b) of Pub. L. 98–369, set out as an Effective Date note under section 5101 of this title.
@@ -60,5 +64,5 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date
 
-Pub. L. 91–659, §6, Jan. 8, 1971, 84 Stat. 1966, provided that: "This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\]."
+Pub. L. 91–659, §6, Jan. 8, 1971, 84 Stat. 1966, provided that: "This Act \[enacting this section and amending sections 5008, 5173, 5178, 5215, and 5232 of this title\] shall take effect on the first day of the first calendar monthwhich begins more than 90 days after the date of the enactment of this Act \[Jan. 8, 1971\]."
 

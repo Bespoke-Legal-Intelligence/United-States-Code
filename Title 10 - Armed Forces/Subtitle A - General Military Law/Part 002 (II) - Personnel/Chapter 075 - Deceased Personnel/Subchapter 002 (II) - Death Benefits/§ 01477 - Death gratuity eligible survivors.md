@@ -22,7 +22,7 @@ Distribution of Remainder; Distribution in Absence of Designated Recipient.—If
 
 (c)
 
-Treatment of Parents.—For purposes of subsection (b)(3), parents include fathers and mothers through adoption. However, only one father and one mother may be recognized in any case, and preference shall be given to those who exercised a parental relationship on the date, or most nearly before the date, on which the decedent entered a status described in section 1475 or 1476 of this title.
+Treatment of Parents.—For purposes of subsection (b)(3), parents include fathers and mothers through adoption. However, only one father and one mother may be recognized in any case, and preference shall be given to those whoexercised a parental relationship on the date, or most nearly before the date, on which the decedent entered a status described in section 1475 or 1476 of this title.
 
 (d)
 
@@ -94,6 +94,8 @@ In subsection (a), the words "highest on the following list" are substituted for
 
 In subsection (d), the words "the death gratuity" are substituted for the words "the amount to which he is entitled under this subchapter". The words "next in the order prescribed" are substituted for the words "first listed under".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181, §645(a)(3), added subsec. (a) and struck out former subsec. (a) which required a death gratuity payable upon the death of a person covered by section 1475 or 1476 of this title to be paid to or for the living survivor highest on a specified list.
@@ -120,6 +122,8 @@ Subsec. (e). Pub. L. 110–28, §3306(2), redesignated subsec. (d) as (e) and su
 
 <b>1989</b>—Subsec. (b)(5)(C). Pub. L. 101–189 substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Regulations
 
 Pub. L. 110–181, div. A, title VI, §645(d), Jan. 28, 2008, 122 Stat. 160, provided that:
@@ -134,5 +138,5 @@ Elements.—The regulations required by paragraph (1) shall include forms for th
 
 #### Existing Designation Authority
 
-Pub. L. 110–181, div. A, title VI, §645(c), Jan. 28, 2008, 122 Stat. 159, provided that: "The authority provided by subsection (d) of section 1477 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 28, 2008\], shall remain available to persons covered by section 1475 or 1476 of such title until July 1, 2008, or such earlier date as the Secretary of Defense may prescribe, and any designation under such subsection made before July 1, 2008, or the earlier date prescribed by the Secretary, shall continue in effect until such time as the person who made the designation makes a new designation under such section 1477, as amended by subsection (a) of this section."
+Pub. L. 110–181, div. A, title VI, §645(c), Jan. 28, 2008, 122 Stat. 159, provided that: "The authority provided bysubsection (d) of section 1477 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act \[Jan. 28, 2008\], shall remain available to persons covered by section 1475 or 1476 of such title until July 1, 2008, or such earlier date as the Secretary of Defense may prescribe, and any designation under such subsection made before July 1, 2008, or the earlier date prescribed by the Secretary, shall continue in effect until such time as the person who made the designation makes a new designation under such section 1477, as amended by subsection (a) of this section."
 

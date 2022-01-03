@@ -14,7 +14,7 @@
 
 &emsp;(2) evaluate the performance plan for the current fiscal year relative to the performance achieved towards the performance goals in the fiscal year covered by the report;
 
-&emsp;(3) explain and describe, where a performance goal has not been met (including when a program activity's performance is determined not to have met the criteria of a successful program activity under section 2803(b)(2))—
+&emsp;(3) explain and describe, where a performance goal has not been met (including when a program activity's performance is determinednot to have met the criteria of a successful program activity under section 2803(b)(2))—
 
 &emsp;&emsp;(A) why the goal was not met;
 

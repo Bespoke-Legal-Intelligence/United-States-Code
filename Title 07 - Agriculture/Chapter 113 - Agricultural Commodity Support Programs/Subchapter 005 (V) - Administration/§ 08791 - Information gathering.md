@@ -40,7 +40,7 @@ The Secretary shall ensure that all the geospatial data of the agencies of the D
 
 &emsp;&emsp;&emsp;(ii) specific data gathering site; or
 
-&emsp;&emsp;(C) the disclosure of information described in paragraph (2) pursuant to the consent of the agricultural producer or owner of agricultural land.
+&emsp;&emsp;(C) the disclosure of information described in paragraph (2) pursuant to the consent ofthe agricultural producer or owner of agricultural land.
 
 #### (5) Condition of other programs
 
@@ -52,9 +52,13 @@ The Secretary shall ensure that all the geospatial data of the agencies of the D
 
 (Pub. L. 110–234, title I, §1619, May 22, 2008, 122 Stat. 1022; Pub. L. 110–246, §4(a), title I, §1619, June 18, 2008, 122 Stat. 1664, 1750.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -252,6 +252,8 @@ There is authorized to be appropriated to carry out this section $5,000,000 for 
 
 (Pub. L. 87–128, title III, §333B, as added Pub. L. 110–234, title V, §5301, May 22, 2008, 122 Stat. 1147, and Pub. L. 110–246, §4(a), title V, §5301, June 18, 2008, 122 Stat. 1664, 1908; amended Pub. L. 113–79, title V, §5301, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, §5301, Dec. 20, 2018, 132 Stat. 4671.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -269,6 +271,8 @@ A prior section 1983b, Pub. L. 87–128, title III, §333B, as added Pub. L. 99�
 <b>2018</b>—Subsec. (h). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (h). Pub. L. 113–79 substituted "2018" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -48,6 +48,8 @@ For purposes of this section—
 
 (Added Pub. L. 98–611, §1(d)(1), Oct. 31, 1984, 98 Stat. 3176; amended Pub. L. 99–514, title XI, §1151(h), title XVIII, §1879(d)(1), Oct. 22, 1986, 100 Stat. 2507, 2906; Pub. L. 100–647, title I, §1011B(a)(24), title III, §3021(a)(15)(A), Nov. 10, 1988, 102 Stat. 3486, 3631; Pub. L. 101–508, title XI, §11704(a)(24), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XVI, §1601(h)(2)(D)(iii), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(vii), (108), Dec. 19, 2014, 128 Stat. 4040, 4053.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 6039D, added Pub. L. 98–612, §1(b)(1), Oct. 31, 1984, 98 Stat. 3180, also related to returns and records with respect to certain fringe benefits, prior to repeal by Pub. L. 99–514, title XVIII, §1879(d)(2), Oct. 22, 1986, 100 Stat. 2906, effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such repeal relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
@@ -76,6 +78,8 @@ Subsec. (d). Pub. L. 99–514, §1151(h)(1), amended subsec. (d) generally. Prio
 
 Pub. L. 99–514, §1879(d)(1), in amending subsec. (d) generally, added subpars. (1)(A) and (2)(A). Former subpars. (1)(A) and (B) and (2)(A) and (B) were redesignated as subpars. (1)(B) and (C) and (2)(B) and (C), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -102,7 +106,7 @@ Section effective Jan. 1, 1985, see section 1(g)(2) of Pub. L. 98–611, set out
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

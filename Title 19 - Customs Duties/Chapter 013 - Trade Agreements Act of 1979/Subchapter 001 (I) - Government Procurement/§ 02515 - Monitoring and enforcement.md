@@ -26,6 +26,8 @@ In the preparation of the recommendations for the reorganization of trade functi
 
 (Pub. L. 96–39, title III, §305, July 26, 1979, 93 Stat. 239; Pub. L. 100–418, title VII, §7003, Aug. 23, 1988, 102 Stat. 1548; Pub. L. 103–465, title III, §§341, 342(c), 343(c), Dec. 8, 1994, 108 Stat. 4951, 4953, 4955; Pub. L. 104–295, §20(c)(10), (13), Oct. 11, 1996, 110 Stat. 3528.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (d)(2)(B), (C). Pub. L. 104–295, §20(c)(10), struck out "or" at end of subpar. (B) and substituted semicolon for period at end of subpar. (C).
@@ -92,7 +94,7 @@ In general.—If subparagraph (A) applies to any signatory country—
 
 Time sanctions are imposed.—Any sanction—
 
-&emsp;&emsp;&emsp;"(I) described in clause (i)(I) shall apply from the date that is the last day of the 18-month period described in subparagraph (A)(i) or, in the case of paragraph (2)(C), from the date procedures for suspending concessions under the Agreement have been completed, and
+&emsp;&emsp;&emsp;"(I) described in clause (i)(I) shall apply from the date that is the last day of the 18-month period described in subparagraph (A)(i) or, in thecase of paragraph (2)(C), from the date procedures for suspending concessions under the Agreement have been completed, and
 
 &emsp;&emsp;&emsp;"(II) described in clause (i)(II) shall apply beginning on the day after the date described in subclause (I)."
 
@@ -120,7 +122,7 @@ Identifications required.—In the annual report, the President shall identify (
 
 &emsp;&emsp;"(B)(i) are signatories to the Agreement; (ii) are in compliance with the Agreement but, in the government procurement of products or services not covered by the Agreement, maintain a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government; or
 
-&emsp;&emsp;"(C)(i) are not signatories to the Agreement; (ii) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services areacquired in significant amounts by the United States Government.
+&emsp;&emsp;"(C)(i) are not signatories to the Agreement; (ii) maintain, in government procurement, a significant and persistent pattern or practice of discrimination against United States products or services which results in identifiable harm to United States businesses; and (iii) whose products or services are acquired in significant amounts by the United States Government.
 
 &emsp;"(3)
 
@@ -174,7 +176,7 @@ Procedures With Respect to Violations of Agreement.—
 
 &emsp;"(1)
 
-Initiation of dispute settlement procedures.—If, within 60 days after the annual report is submitted under subsection (d)(1) of this section, a signatory country identified pursuant to subsection (d)(1)(A) of this section has not complied with the Agreement, then the United States Trade Representative shall promptly request proceedings on the matter under the formal dispute settlement procedures provided under the Agreement unless such proceedings are already underway pursuant to the identification of the signatory country under subsection (d)(1) of this section as not in compliance in a preceding annual report.
+Initiation of dispute settlement procedures.—If, within 60 days after the annual report is submitted under subsection (d)(1) of this section, a signatory country identified pursuant to subsection (d)(1)(A) of this section has not complied with the Agreement, then the United States Trade Representative shall promptly request proceedings on the matter under the formal dispute settlement proceduresprovided under the Agreement unless such proceedings are already underway pursuant to the identification of the signatory country under subsection (d)(1) of this section as not in compliance in a preceding annual report.
 
 &emsp;"(2)
 
@@ -286,13 +288,15 @@ Advice to congress.—The President shall, as necessary, advise the Congress and
 
 &emsp;"(2)
 
-Contents of report.—The general report required by this subsection shall include an evaluation of the adequacy and effectiveness of actions taken pursuant to subsections (e), (f), and (g) of this section as a means toward eliminating discriminatory government procurement practices against United States businesses.
+Contents of report.—The general report required by this subsection shall include an evaluation of the adequacy and effectiveness of actions takenpursuant to subsections (e), (f), and (g) of this section as a means toward eliminating discriminatory government procurement practices against United States businesses.
 
 &emsp;"(3)
 
 Legislative recommendations.—The general report may also include, if appropriate, legislative recommendations for enhancing the usefulness of this section or for other measures to be used as means for eliminating or responding to discriminatory foreign government procurement practices."
 
 > See Termination Date of 1988 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -305,6 +309,8 @@ Amendment by Pub. L. 100–418 to cease to be effective on Apr. 30, 1996, unless
 #### Transfer of Functions
 
 Pub. L. 96–609, title II, §205, Dec. 28, 1980, 94 Stat. 3562, provided that: "Notwithstanding subparagraph (1)(A) of subsection 5(a) of Reorganization Plan No. 3 of 1979 (44 F.R. 69272, 93 Stat. 1381) \[set out as a note under section 2171 of this title\], the Secretary of the Treasury or his delegate shall issue such advisory rulings and make such determinations as are authorized by subsection 305(b)(1) of the Trade Agreements Act of 1979 (19 U.S.C. 2515(b)(1))."
+
+#### <b>Executive Documents</b>
 
 #### Delegation and Transfer of Functions
 

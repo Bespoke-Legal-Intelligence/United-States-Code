@@ -1,6 +1,6 @@
 ### §10154. Review of applications
 
-The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this part without first affording the applicant reasonable notice of any deficiencies in the application and opportunity for correction and reconsideration.
+The Attorney General shall not finally disapprove any application (or any amendment to that application) submitted under this part without first affording the applicant reasonablenotice of any deficiencies in the application and opportunity for correction and reconsideration.
 
 (Pub. L. 90–351, title I, §503, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3097.)
 

@@ -24,7 +24,7 @@ The President shall impose the sanctions described in subsection (b) with respec
 
 #### (2) Penalties
 
-&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
+&emsp;A person that violates, attempts to violate, conspires to violate, or causes a violation of paragraph (1)(A) or any regulation, license, or order issued to carry out paragraph (1)(A) shall be subject to the penalties set forth insubsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section.
 
 #### (3) Exception relating to the importation of goods
 
@@ -84,7 +84,7 @@ Section 4618 of title 50, referred to in subsec. (b)(3)(B), was repealed by Pub.
 
 #### Codification
 
-Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the "Sovereignty, Integrity, Democracy, and Economic Stability ofUkraine Act of 2014", were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
+Sections 227 and 230(b) of Pub. L. 115–44, which directed the amendment of section 9 of the "Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014", were executed to this section, which is section 9 of the Support for the Sovereignty, Integrity, Democracy, and Economic Stability of Ukraine Act of 2014, to reflect the probable intent of Congress. See 2017 Amendment notes below.
 
 #### Amendments
 

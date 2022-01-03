@@ -10,17 +10,29 @@ Filing.—Any interested person may file a petition with the Secretary of Transp
 
 (b)
 
-Statement of Facts.—The petition must state facts that the person claims establish that a motor vehicle safety standard or order referred to in subsection (a) of this section is necessary and briefly describe the order the Secretary should issue.
+Statement of Facts.—A petition under this section must state facts that the person claims establish that a motor vehicle safetystandard or order referred to in subsection (a) of this section is necessary and briefly describe the order the Secretary should issue.
 
 (c)
 
-Proceedings.—The Secretary may hold a public hearing or conduct an investigation or proceeding to decide whether to grant the petition.
+Proceedings.—The Secretary may hold a public hearing or conduct an investigation or proceeding to decide whether to grant a petition under this section.
 
 (d)
 
-Actions of Secretary.—The Secretary shall grant or deny a petition not later than 120 days after the petition is filed. If a petition is granted, the Secretary shall begin the proceeding promptly. If a petition is denied, the Secretary shall publish the reasons for the denial in the Federal Register.
+Actions of Secretary.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 967.)
+&emsp;(1)
+
+In general.—The Secretary shall determine whether to approve or deny a petition under this section by not later than 120 days after the petition is filed.
+
+&emsp;(2)
+
+Approval.—If a petition under this section is approved, the Secretary shall begin the proceeding promptly.
+
+&emsp;(3)
+
+Denial.—If a petition under this section is denied, the Secretary shall publish the reasons for the denial in the Federal Register.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 967; Pub. L. 117–58, div. B, title IV, §24206, Nov. 15, 2021, 135 Stat. 822.)
 
 Historical and Revision Notes
 
@@ -57,4 +69,20 @@ In subsection (b), the words "a motor vehicle safety standard" are added because
 In subsection (c), the words "as he deems appropriate in order" and "or not" are omitted as surplus.
 
 In subsection (d), the words "described in subsection (b) of this section", "either", and "requested in the petition" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b). Pub. L. 117–58, §24206(1), substituted "A petition under this section" for "The petition".
+
+Subsec. (c). Pub. L. 117–58, §24206(2), substituted "a petition under this section" for "the petition".
+
+Subsec. (d). Pub. L. 117–58, §24206(3), designated first to third sentences of existing provisions as pars. (1) to (3), respectively, and inserted headings.
+
+Subsec. (d)(1). Pub. L. 117–58, §24206(3)(C), substituted "The Secretary shall determine whether to approve or deny a petition under this section by" for "The Secretary shall grant or deny a petition".
+
+Subsec. (d)(2). Pub. L. 117–58, §24206(3)(B), substituted "If a petition under this section is approved" for "If a petition is granted".
+
+Subsec. (d)(3). Pub. L. 117–58, §24206(3)(A), substituted "If a petition under this section" for "If a petition".
 

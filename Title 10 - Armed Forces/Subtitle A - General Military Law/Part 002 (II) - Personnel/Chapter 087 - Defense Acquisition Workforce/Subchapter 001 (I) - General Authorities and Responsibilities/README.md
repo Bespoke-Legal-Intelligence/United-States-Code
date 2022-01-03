@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title X, §1081(a)(30), title XI, §1114(b), Jan. 1, 2021, 134 Stat. 3872, 3895, added items 1701b and 1702 and struck out former item 1702 "Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities".

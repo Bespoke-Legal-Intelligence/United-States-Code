@@ -4,7 +4,7 @@
 
 &emsp;(1) the transfer was conducted consistent with regulations prescribed by the Secretary;
 
-&emsp;(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfer taken place in a port or place subject to the jurisdiction of the United States;
+&emsp;(2) both the delivering and receiving vessels had on board, at the time of transfer, a certificate of inspection or a certificate of compliance, as would have been required under section 3710 or 3711 of this title, had the transfertaken place in a port or place subject to the jurisdiction of the United States;
 
 &emsp;(3) the delivering and the receiving vessel had on board at the time of transfer, a certificate of financial responsibility as would have been required under section 1016 of the Oil Pollution Act of 1990, had the transfer taken place in a place subject to the jurisdiction of the United States;
 
@@ -26,7 +26,7 @@
 
 &emsp;(6) requirements for communication and prearrival messages.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 526; Pub. L. 101–380, title IV, §4115(d), Aug. 18, 1990, 104 Stat.520; Pub. L. 114–120, title III, §306(a)(4), Feb. 8, 2016, 130 Stat. 54.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 526; Pub. L. 101–380, title IV, §4115(d), Aug. 18, 1990, 104 Stat. 520; Pub. L. 114–120, title III, §306(a)(4), Feb. 8, 2016, 130 Stat. 54.)
 
 Historical and Revision Notes
 

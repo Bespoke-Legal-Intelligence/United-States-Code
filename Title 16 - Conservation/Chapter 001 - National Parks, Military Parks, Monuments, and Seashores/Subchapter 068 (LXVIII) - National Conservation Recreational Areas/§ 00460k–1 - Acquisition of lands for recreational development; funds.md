@@ -8,17 +8,21 @@ The Secretary is authorized to acquire areas of land, or interests therein, whic
 
 &emsp;(3) the conservation of endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title, or
 
-&emsp;(4) carrying out two or more of the purposes set forth in paragraphs (1) through (3) of this section, and are adjacent to, or within, the said conservation areas, except that the acquisition of any land or interest therein pursuant to this section shall be accomplished only with such funds as may be appropriated therefor by the Congress or donated for such purposes, but such property shall not be acquired with funds obtained from the sale of Federal migratory bird hunting stamps.
+&emsp;(4) carrying out two or more of the purposes set forth in paragraphs (1) through (3) of this section, and are adjacent to, or within, the said conservation areas, except that the acquisition of any land or interest therein pursuant to this section shall be accomplished onlywith such funds as may be appropriated therefor by the Congress or donated for such purposes, but such property shall not be acquired with funds obtained from the sale of Federal migratory bird hunting stamps.
 
 > Lands acquired pursuant to this section shall become a part of the particular conservation area to which they are adjacent.
 
 (Pub. L. 87–714, §2, Sept. 28, 1962, 76 Stat. 653; Pub. L. 92–534, Oct. 23, 1972, 86 Stat. 1063; Pub. L. 93–205, §13(d), Dec. 28, 1973, 87 Stat. 902.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1973</b>—Pub. L. 93–205 inserted references to the acquisition of interest in land the conservation of endangered species or threatened species listed by the Secretary pursuant to section 1533 of this title.
 
 <b>1972</b>—Pub. L. 92–534 substituted provisions authorizing the Secretary to acquire lands suitable for fish and wildlife oriented recreational development, or for the protection of natural resources and adjacent to conservation areas, for provisions authorizing the Secretary to acquire limited areas of land for recreational development adjacent to conservation areas in existence or approved by the Migratory Bird Conservation Commission as of September 28, 1962.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

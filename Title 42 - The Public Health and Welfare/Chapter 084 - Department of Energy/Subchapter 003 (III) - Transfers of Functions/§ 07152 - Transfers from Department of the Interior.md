@@ -32,6 +32,8 @@ There are transferred to, and vested in, the Secretary those functions of the Se
 
 (Pub. L. 95–91, title III, §302, Aug. 4, 1977, 91 Stat. 578; Pub. L. 97–100, title II, §201, Dec. 23, 1981, 95 Stat. 1407; Pub. L. 104–58, title I, §104(h), Nov. 28, 1995, 109 Stat. 560.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
@@ -51,6 +53,8 @@ Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act 
 Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted "and" after "Southwestern Power Administration," and struck out "and the Alaska Power Administration" after "Bonneville Power Administration,".
 
 <b>1981</b>—Subsecs. (b), (c). Pub. L. 97–100 struck out subsecs. (b) and (c) which related, respectively, to the functions of the Secretary of Energy to promulgate regulations under certain provisions of the Outer Continental Shelf Lands Act, the Mineral Lands Leasing Act, the Mineral Leasing Act for Acquired Lands, the Geothermal Steam Act of 1970, and the Energy Policy and Conservation Act and to the functions of establishing production rates for all Federal leases.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -126,7 +130,7 @@ Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna 
 
 "(c)
 
-Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to reviewdecisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
 "(2) An action seeking review of a Fish and Wildlife Program ('Program') of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
 
@@ -196,7 +200,7 @@ Pub. L. 102–377, title V, §505, Oct. 2, 1992, 106 Stat. 1343, provided that: 
 
 #### Transfers to Secretary of the Interior of Certain Fossil Energy Research and Development Authorities
 
-Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: "That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 of the Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the 'Mines and minerals' account of the Bureau of Mines."
+Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 841, provided: "That there are transferred to, and vested in, the Secretary of the Interior all functions vested in, or delegated to, the Secretary of Energy and the Department of Energy under or with respect to (1) the Act of May 16, 1910 \[30 U.S.C. 1, 3, 5–7\], and other authorities formerly exercised by the Bureau of Mines \[now United States Bureau of Mines\], but limited to research and development relating to increased efficiency of production technology of solid fuel minerals; (2) section 908 ofthe Surface Mining Control and Reclamation Act of 1977, relating to research and development concerning alternative coal mining technologies (30 U.S.C. 1328); (3) sections 5(g)(2), 8(a)(4), 8(a)(9), 27(b)(2)(3) of the Outer Continental Shelf Lands Act (43 U.S.C. 1334(g)(2) and 1337(a)(4) and 1337(a)(9) \[and 1353(b)(2) and (3)\]); and (4) section 105 of the Energy Policy and Conservation Act (42 U.S.C. 6213): <i>Provided further</i>, That the personnel employed, personnel positions, equipment, facilities, and unexpended balances of the aforementioned transferred programs shall be merged with the 'Mines and minerals' account of the Bureau of Mines."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

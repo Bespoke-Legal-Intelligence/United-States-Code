@@ -20,11 +20,13 @@ When so provided by regulations promulgated by the Secretary in connection with 
 
 #### (c) Cross references
 
-&emsp;&emsp;<b>(1) For rules relating to the recognition of gain or loss in a case where subsection (a) would apply ex</b><b>cept for the fact that the exchange was not made solely for other obligations of the United States, see subsections (b) and (c) of section 1031.</b>
+&emsp;&emsp;<b>(1) For rules relating to the recognition of gain or loss in a case where subsection (a) would apply except for the fact that the exchange was not made solely for other obligations of the United States, see subsections (b) and (c) of section 1031.</b>
 
 &emsp;&emsp;<b>(2) For rules relating to the basis of obligations of the United States acquired in an exchange for other obligations described in subsection (a), see subsection (d) of section 1031.</b>
 
 (Added Pub. L. 86–346, title II, §201(a), Sept. 22, 1959, 73 Stat. 622; amended Pub. L. 94–455, title XIX, §1901(a)(130), (b)(3)(I), Oct. 4, 1976, 90 Stat. 1786, 1793; Pub. L. 97–452, §2(c)(3), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–369, div. A, title I, §42(a)(11), July 18, 1984, 98 Stat. 557.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -41,6 +43,8 @@ Subsec. (b)(2). Pub. L. 98–369, §42(a)(11)(B), substituted "subpart A of part
 <b>1983</b>—Subsec. (a). Pub. L. 97–452 substituted "chapter 31 of title 31" and "chapter" for "the Second Liberty Bond Act" and "Act", respectively.
 
 <b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 substituted in introductory provisions "section 1232(a)(2)(B)" for "section 1232(a)(2)(A)" and in subpar. (A) "ordinary income" for "gain from the sale or exchange of property which is not a capital asset".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

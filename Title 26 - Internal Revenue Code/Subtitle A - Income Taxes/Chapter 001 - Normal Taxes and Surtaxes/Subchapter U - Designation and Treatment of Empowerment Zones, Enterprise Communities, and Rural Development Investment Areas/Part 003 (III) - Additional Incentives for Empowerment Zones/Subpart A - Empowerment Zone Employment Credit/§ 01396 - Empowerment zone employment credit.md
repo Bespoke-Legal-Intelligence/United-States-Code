@@ -2,7 +2,7 @@
 
 #### (a) Amount of credit
 
-For purposes of section 38, the amount of the empowerment zone employment credit determined under this section with respect to anyemployer for any taxable year is the applicable percentage of the qualified zone wages paid or incurred during the calendar year which ends with or within such taxable year.
+For purposes of section 38, the amount of the empowerment zone employment credit determined under this section with respect to any employer for any taxable year is the applicable percentage of the qualified zone wages paid or incurred during the calendar year which ends with or within such taxable year.
 
 #### (b) Applicable percentage
 
@@ -80,6 +80,8 @@ For purposes of this section—
 
 (Added Pub. L. 103–66, title XIII, §13301(a), Aug. 10, 1993, 107 Stat. 549; amended Pub. L. 104–188, title I, §1201(e)(4), Aug. 20, 1996, 110 Stat. 1772; Pub. L. 105–34, title IX, §§951(b), 952(b), Aug. 5, 1997, 111 Stat. 885, 887; Pub. L. 106–554, §1(a)(7) \[title I, §113(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–601.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Taxpayer Relief Act of 1997, referred to in subsec. (b)(2), is Pub. L. 105–34, Aug. 5, 1997, 111 Stat. 788. For complete classification of this Act to the Code, see Tables.
@@ -92,7 +94,7 @@ A prior section 1396, added Pub. L. 95–600, title VI, §601(a), Nov. 6, 1978, 
 
 <b>2000</b>—Subsec. (b). Pub. L. 106–554, §1(a)(7) \[title I, §113(a)\], amended subsec. (b) generally, substituting provisions establishing an applicable percentage of 20 percent for provisions setting out tables for determining the applicable percentage.
 
-Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: "This section shall be applied without regardto any empowerment zone designated under section 1391(g)."
+Subsec. (e). Pub. L. 106–554, §1(a)(7) \[title I, §113(b)\], struck out heading and text of subsec. (e). Text read as follows: "This section shall be applied without regard to any empowerment zone designated under section 1391(g)."
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–34 substituted "For purposes of this section—
 
@@ -105,6 +107,8 @@ In general.—Except as provided in paragraph (2), the term 'applicable percenta
 Subsec. (e). Pub. L. 105–34, §952(b), added subsec. (e).
 
 <b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted "work opportunity credit" for "targeted jobs credit" in heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

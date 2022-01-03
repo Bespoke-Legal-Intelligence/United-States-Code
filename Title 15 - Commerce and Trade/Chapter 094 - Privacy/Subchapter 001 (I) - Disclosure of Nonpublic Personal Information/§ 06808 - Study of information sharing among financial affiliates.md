@@ -24,7 +24,7 @@ The Secretary of the Treasury, in conjunction with the Federal functional regula
 
 #### (b) Consultation
 
-The Secretary shall consult with representatives of State insurance authorities designatedby the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a).
+The Secretary shall consult with representatives of State insurance authorities designated by the National Association of Insurance Commissioners, and also with financial services industry, consumer organizations and privacy groups, and other representatives of the general public, in formulating and conducting the study required by subsection (a).
 
 #### (c) Report
 

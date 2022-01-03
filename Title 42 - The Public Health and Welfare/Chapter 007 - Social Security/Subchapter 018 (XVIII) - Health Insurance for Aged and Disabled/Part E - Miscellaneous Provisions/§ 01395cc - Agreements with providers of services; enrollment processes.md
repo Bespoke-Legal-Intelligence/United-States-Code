@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(iv) to post conspicuously (in a form specified by the Secretary) information indicating whether or not the hospital, critical access hospital, or rural emergency hospital participates in the medicaid program under a State plan approved under subchapter XIX,
 
-&emsp;(O) to accept as payment in full for services that are covered under this subchapter and are furnished to any individual enrolled with a Medicare+Choice organization under part C, with a PACE provider under section 1395eee or 1396u–4 of this title, or with an eligible organization with a risk-sharing contract under section 1395mm of this title, under section 1395mm(i)(2)(A) of this title (as in effect beforeFebruary 1, 1985), under section 1395b–1(a) of this title, or under section 222(a) of the Social Security Amendments of 1972, which does not have a contract (or, in the case of a PACE provider, contract or other agreement) establishing payment amounts for services furnished to members of the organization or PACE program eligible individuals enrolled with the PACE provider, the amounts that would be made as a payment in full under this subchapter (less any payments under sections 1395ww(d)(11) and 1395ww(h)(3)(D) of this title) if the individuals were not so enrolled,
+&emsp;(O) to accept as payment in full for services that are covered under this subchapter and are furnished to any individual enrolled with a Medicare+Choice organization under part C, with a PACE provider under section 1395eee or 1396u–4 of this title, or with an eligible organization with a risk-sharing contract under section 1395mm of this title, under section 1395mm(i)(2)(A) of this title (as in effect before February 1, 1985), under section 1395b–1(a) of this title, or under section 222(a) of the Social Security Amendments of 1972, which does not have a contract (or, in the case of a PACE provider, contract or other agreement) establishing payment amounts for services furnished to members of the organization or PACE program eligible individuals enrolled with the PACE provider, the amounts that would be made as a payment in full under this subchapter (less any payments under sections 1395ww(d)(11) and 1395ww(h)(3)(D) of this title) if the individuals were not so enrolled,
 
 &emsp;(P) in the case of home health agencies which provide home health services to individuals entitled to benefits under this subchapter who require catheters, catheter supplies, ostomy bags, and supplies related to ostomy care (described in section 1395x(m)(5) of this title), to offer to furnish such supplies to such an individual as part of their furnishing of home health services,
 
@@ -92,7 +92,7 @@
 
 > &emsp;in accordance with regulations promulgated by the Secretary regarding admission practices, payment methodology, and rates of payment (including the acceptance of no more than such payment rate as payment in full for such items and services,<sup>2</sup>
 
-&emsp;(V) in the case of hospitals that are not otherwise subject to the Occupational Safety and Health Act of 1970 \[29 U.S.C. 651 et seq.\] (or a State occupational safety and health plan that is approved under 18(b) <sup>3</sup> of such Act \[29 U.S.C. 667(b)\]), to comply with the Bloodborne Pathogens standard under section 1910.1030 of title 29 of the Code of Federal Regulations (or as subsequently redesignated),
+&emsp;(V) in the case of hospitals that are not otherwise subject to the Occupational Safety andHealth Act of 1970 \[29 U.S.C. 651 et seq.\] (or a State occupational safety and health plan that is approved under 18(b) <sup>3</sup> of such Act \[29 U.S.C. 667(b)\]), to comply with the Bloodborne Pathogens standard under section 1910.1030 of title 29 of the Code of Federal Regulations (or as subsequently redesignated),
 
 &emsp;(W) in the case of a hospital described in section 1395ww(d)(1)(B)(v) of this title, to report quality data to the Secretary in accordance with subsection (k),
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;&emsp;(I) explains the status of the individual as an outpatient receiving observation services and not as an inpatient of the hospital or critical access hospital and the reasons for such status of such individual;
 
-&emsp;&emsp;&emsp;(II) explains the implications of such status on services furnished by the hospital or critical access hospital (including services furnished on an inpatient basis), such as implications for cost-sharing requirements under this title and for subsequent eligibility for coverage under this title forservices furnished by a skilled nursing facility;
+&emsp;&emsp;&emsp;(II) explains the implications of such status on services furnished by the hospital or critical access hospital (including services furnished on an inpatient basis), such as implications for cost-sharing requirements under this title and for subsequent eligibility for coverage under this title for services furnished by a skilled nursing facility;
 
 &emsp;&emsp;&emsp;(III) includes such additional information as the Secretary determines appropriate;
 
@@ -126,7 +126,7 @@
 
 (C) A provider of services may in accordance with its customary practice also appropriately charge any such individual for any whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished him with respect to which a deductible is imposed under section 1395e(a)(2) of this title, except that (i) any excess of such charge over the cost to such provider for the blood (or equivalent quantities of packed red blood cells, as so defined) shall be deducted from any payment to such provider under this subchapter, (ii) no such charge may be imposed for the cost of administration of such blood (or equivalent quantities of packed red blood cells, as so defined), and (iii) such charge may not be made to the extent such blood (or equivalent quantities of packed red blood cells, as so defined) has been replaced on behalf of such individual or arrangements have been made for its replacement on his behalf. For purposes of this subparagraph, whole blood (or equivalent quantities of packed red blood cells, as so defined) furnished an individual shall be deemed replaced when the provider of services is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is imposed under section 1395e(a)(2) of this title.
 
-(D) Where a provider of services customarily furnishes items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under this subchapter, such provider, notwithstanding the preceding provisions of this paragraph, may not, under the authority of subparagraph (B)(ii) of this paragraph, charge any individual or other person any amount for such items or services in excess of the amount of thepayment which may otherwise be made for such items or services under this subchapter if the admitting physician has a direct or indirect financial interest in such provider.
+(D) Where a provider of services customarily furnishes items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under this subchapter, such provider, notwithstanding the preceding provisions of this paragraph, may not, under the authority of subparagraph (B)(ii) of this paragraph, charge any individual or other person any amount for such items or services in excess of the amount of the payment which may otherwise be made for such items or services under this subchapter if the admitting physician has a direct or indirect financial interest in such provider.
 
 (3)(A) Under the agreement required under paragraph (1)(F)(ii), the quality improvement organization must perform functions (other than those covered under an agreement under paragraph (1)(F)(i)) under the third sentence of section 1320c–3(a)(4)(A) of this title and under section 1320c–3(a)(14) of this title with respect to services, furnished by the hospital, critical access hospital, rural emergency hospital, facility, or agency involved, for which payment may be made under this subchapter.
 
@@ -158,7 +158,7 @@
 
 (3) A termination of an agreement or a refusal to renew an agreement under this subsection shall become effective on the same date and in the same manner as an exclusion from participation under the programs under this subchapter becomes effective under section 1320a–7(c) of this title.
 
-(4)(A) A hospital that fails to comply with the requirement of subsection (a)(1)(V) (relating to the Bloodborne Pathogens standard) is subject to a civil money penalty in an amount described in subparagraph (B), but is not subject to termination of an agreement under this section.
+(4)(A) A hospital that fails to comply with the requirement of subsection (a)(1)(V) (relating tothe Bloodborne Pathogens standard) is subject to a civil money penalty in an amount described in subparagraph (B), but is not subject to termination of an agreement under this section.
 
 (B) The amount referred to in subparagraph (A) is an amount that is similar to the amount of civil penalties that may be imposed under section 17 of the Occupational Safety and Health Act of 1970 \[29 U.S.C. 666\] for a violation of the Bloodborne Pathogens standard referred to in subsection (a)(1)(U) <sup>4</sup> by a hospital that is subject to the provisions of such Act \[29 U.S.C. 651 et seq.\].
 
@@ -256,7 +256,7 @@ Except as permitted under subsection (a)(2), any person who knowingly and willfu
 
 &emsp;(A) within 3 months after the date the hospital is found to be out of compliance with such requirements, the Secretary shall provide that no payment will be made under this subchapter with respect to any individual admitted to such hospital after the end of such 3-month period, or
 
-&emsp;(B) within 6 months after the date the hospital is found to be out of compliance with such requirements, no payment may be made under this subchapter with respect to any individual in the hospital until the Secretary finds that the hospital is in compliance with the requirements of this subchapter.
+&emsp;(B) within 6 months after the date the hospital is found to be out of compliance withsuch requirements, no payment may be made under this subchapter with respect to any individual in the hospital until the Secretary finds that the hospital is in compliance with the requirements of this subchapter.
 
 #### (j) Enrollment process for providers of services and suppliers
 
@@ -278,7 +278,7 @@ Except as permitted under subsection (a)(2), any person who knowingly and willfu
 
 #### (A) Procedures
 
-&emsp;&emsp;Not later than 180 days after March 23, 2010, the Secretary, in consultation with the Inspector General of the Department ofHealth and Human Services, shall establish procedures under which screening is conducted with respect to providers of medical or other items or services and suppliers under the program under this subchapter, the Medicaid program under subchapter XIX, and the CHIP program under subchapter XXI.
+&emsp;&emsp;Not later than 180 days after March 23, 2010, the Secretary, in consultation with the Inspector General of the Department of Health and Human Services, shall establish procedures under which screening is conducted with respect to providers of medical or other items or services and suppliers under the program under this subchapter, the Medicaid program under subchapter XIX, and the CHIP program under subchapter XXI.
 
 #### (B) Level of screening
 
@@ -378,7 +378,7 @@ Except as permitted under subsection (a)(2), any person who knowingly and willfu
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "applicable provider of services or supplier" means a provider of services or supplier that has the same taxpayer identification number assigned under section 6109 of the Internal Revenue Code of 1986 as is assigned to the obligated provider of services or supplier under such section, regardless of whether the applicable provider of services or supplier is assigned a different billing number or national provider identification number under the program under this subchapter than is assigned to the obligated provider of services or supplier.
+&emsp;&emsp;&emsp;The term "applicable provider of services or supplier" means a provider of services or supplier that has the same taxpayer identification number assigned under section 6109 of the Internal Revenue Code of 1986 as is assigned to the obligated provider of services or supplier under such section, regardless of whether the applicable provider of services or supplier is assigned a different billing number or national provider identification numberunder the program under this subchapter than is assigned to the obligated provider of services or supplier.
 
 #### (ii) Obligated provider of services or supplier
 
@@ -466,11 +466,13 @@ Except as permitted under subsection (a)(2), any person who knowingly and willfu
 
 &emsp;The Secretary shall establish procedures for making data submitted under paragraph (4) available to the public. Such procedures shall ensure that a hospital described in section 1395ww(d)(1)(B)(v) of this title has the opportunity to review the data that is to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures of process, structure, outcome, patients' perspective on care, efficiency, and costs of care that relate to services furnished in such hospitals on the Internet website of the Centers for Medicare \& Medicaid Services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1866, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 327; amended Pub. L. 90–248, title I, §§129(c)(12), 133(c), 135(b), Jan. 2, 1968, 81 Stat. 849, 851, 852; Pub. L. 92–603, title II, §§223(e), (g), 227(d)(2), 229(b), 249A(b)–(d), 278(a)(17), (b)(18), 281(c), Oct. 30, 1972, 86 Stat. 1394, 1406, 1409, 1427, 1453–1455; Pub. L. 95–142, §§3(b), 8(b), 13(b)(3), 15(a), Oct. 25, 1977, 91 Stat. 1178, 1194, 1195, 1198,1200; Pub. L. 95–210, §2(e), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 95–292, §4(e), June 13, 1978, 92 Stat. 315; Pub. L. 96–272, title III, §308(b), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §916(a), Dec. 5, 1980, 94 Stat. 2623; Pub. L. 96–611, §1(b)(4), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §2153, Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §§122(g)(5), (6), 128(a)(5), (d)(4), 144, Sept. 3, 1982, 96 Stat. 362, 366, 367, 393; Pub. L. 97–448, title III, §309(a)(5), (b)(11), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 98–21, title VI, §602(f), (l), Apr. 20, 1983, 97 Stat. 163, 166; Pub. L. 98–369, div. B, title III, §§2303(f), 2315(d), 2321(c), 2323(b)(3), 2335(d), 2347(a), 2348(a), 2354(b)(33), (34), July 18, 1984, 98 Stat. 1066, 1080, 1084, 1086, 1090, 1096, 1097, 1102; Pub. L. 99–272, title IX, §§9121(a), 9122(a), 9401(b)(2)(F), 9402(a), 9403(b), Apr. 7, 1986, 100 Stat. 164, 167, 199, 200; Pub. L. 99–509, title IX, §§9305(b)(1), 9320(h)(2), 9332(e)(1), 9337(c)(2), 9343(c)(2), (3), 9353(e)(1), Oct. 21, 1986, 100 Stat. 1989, 2016, 2025, 2034, 2040, 2047; Pub. L. 99–514, title XVIII, §1895(b)(5), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 99–576, title II, §233(a), Oct. 28, 1986, 100 Stat. 3265; Pub. L. 100–93, §8(d), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4012(a), 4062(d)(4), 4085(i)(17), (28), 4097(a), (b), 4212(e)(4), Dec. 22, 1987, 101 Stat. 1330–60, 1330–109, 1330–133, 1330–140, 1330–213, as amended Pub. L. 100–360, title IV, §411(i)(4)(C)(vi), (j)(5), July 1, 1988, 102 Stat. 790, 791; Pub. L. 100–360, title I, §104(d)(5), title II, §§201(b), (d), 202(h)(1), title IV, §411(c)(2)(A)(i), (C), (g)(1)(D), July 1, 1988, 102 Stat. 689, 702, 718, 772, 782, as amended Pub. L. 100–485, title VI, §608(d)(3)(F), (19)(A), Oct. 13, 1988, 102 Stat. 2414, 2419; Pub. L. 100–485, title VI, §608(f)(1), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–234, title I, §101(a), title II, §201(a), title III, §301(b)(4), (d)(1), Dec. 13, 1989, 103 Stat. 1979, 1981, 1985, 1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xii), (xiii), 6017, 6018(a), 6020, 6112(e)(3), Dec. 19, 1989, 103 Stat. 2154, 2165, 2166, 2216; Pub. L. 101–508, title IV, §§4008(b)(3)(B), (m)(3)(G)\[(F)\], 4153(d)(1), 4157(c)(2), 4162(b)(2), 4206(a), Nov. 5, 1990, 104 Stat. 1388–44, 1388–54, 1388–84, 1388–89, 1388–96, 1388–115; Pub. L. 102–54, §13(q)(3)(F), June 13, 1991, 105 Stat. 280; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 103–432, title I, §§106(b)(1)(B), 147(e)(7), 156(a)(2)(E), 160(d)(2), Oct. 31, 1994, 108 Stat. 4406, 4430, 4441, 4443; Pub. L. 104–191, title II, §262(b)(1), Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–12, §9(a)(2), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4002(d), (e), 4201(c)(1), 4302(a), 4321(b), 4432(b)(5)(F), 4511(a)(2)(D), 4523(b), 4541(a)(3), 4641(a), 4714(b)(1), Aug. 5, 1997, 111 Stat. 329, 373, 382, 395, 422, 442, 449, 456, 487, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(11), (12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–499; Pub. L. 108–173, title II, §236(a)(1), title V, §§505(b), 506(a), title VII, §736(a)(13), title IX, §§932(b), (c)(1), 936(a), 947(a), Dec. 8, 2003, 117 Stat. 2210, 2294, 2355, 2400, 2401, 2411, 2425; Pub. L. 110–275, title I, §143(b)(8), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title III, §3005, title VI, §§6401(a), 6406(b), title X, §10603, Mar. 23, 2010, 124 Stat. 371, 747, 769, 1006; Pub. L. 111–152, title I, §1304, Mar. 30, 2010, 124 Stat. 1058; Pub. L. 111–192, title I, §103(b), (c), June 25, 2010, 124 Stat. 1283; Pub. L. 112–40, title II, §261(a)(3)(A), (D), Oct. 21, 2011, 125 Stat. 423; Pub. L. 114–42, §2, Aug. 6, 2015, 129 Stat. 468; Pub. L. 114–255, div. C, title XVII, §17004(a), (b)(2)(A), Dec. 13, 2016, 130 Stat. 1331, 1333; Pub. L. 115–182, title I, §144(a)(2), June 6, 2018, 132 Stat. 1430; Pub. L. 115–271, title II, §2005(d), Oct. 24, 2018, 132 Stat. 3930; Pub. L. 116–260, div. CC, title I, §125(b)(1), (2)(A), Dec. 27, 2020, 134 Stat. 2965.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1866, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 327; amended Pub. L. 90–248, title I, §§129(c)(12), 133(c), 135(b), Jan. 2, 1968, 81 Stat. 849, 851, 852; Pub. L. 92–603, title II, §§223(e), (g), 227(d)(2), 229(b), 249A(b)–(d), 278(a)(17), (b)(18), 281(c), Oct. 30, 1972, 86 Stat. 1394, 1406, 1409, 1427, 1453–1455; Pub. L. 95–142, §§3(b), 8(b), 13(b)(3), 15(a), Oct. 25, 1977, 91 Stat. 1178, 1194, 1195, 1198, 1200; Pub. L. 95–210, §2(e), Dec. 13, 1977, 91 Stat. 1489; Pub. L. 95–292, §4(e), June 13, 1978, 92 Stat. 315; Pub. L. 96–272, title III, §308(b), June 17, 1980, 94 Stat. 531; Pub. L. 96–499, title IX, §916(a), Dec. 5, 1980, 94 Stat. 2623; Pub. L. 96–611, §1(b)(4), Dec. 28, 1980, 94 Stat. 3566; Pub. L. 97–35, title XXI, §2153, Aug. 13, 1981, 95 Stat. 802; Pub. L. 97–248, title I, §§122(g)(5), (6), 128(a)(5), (d)(4), 144, Sept. 3, 1982, 96 Stat. 362, 366, 367, 393; Pub. L. 97–448, title III, §309(a)(5), (b)(11), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 98–21, title VI, §602(f), (l), Apr. 20, 1983, 97 Stat. 163, 166; Pub. L. 98–369, div. B, title III, §§2303(f), 2315(d), 2321(c), 2323(b)(3), 2335(d), 2347(a), 2348(a), 2354(b)(33), (34), July 18, 1984, 98 Stat. 1066, 1080, 1084, 1086, 1090, 1096, 1097, 1102; Pub. L. 99–272, title IX, §§9121(a), 9122(a), 9401(b)(2)(F), 9402(a), 9403(b), Apr. 7, 1986, 100 Stat. 164, 167, 199, 200; Pub. L. 99–509, title IX, §§9305(b)(1), 9320(h)(2), 9332(e)(1), 9337(c)(2), 9343(c)(2), (3), 9353(e)(1), Oct. 21, 1986, 100 Stat. 1989, 2016, 2025, 2034, 2040, 2047; Pub. L. 99–514, title XVIII, §1895(b)(5), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 99–576, title II, §233(a), Oct. 28, 1986, 100 Stat. 3265; Pub. L. 100–93, §8(d), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4012(a), 4062(d)(4), 4085(i)(17), (28), 4097(a), (b), 4212(e)(4), Dec. 22, 1987, 101 Stat. 1330–60, 1330–109, 1330–133, 1330–140, 1330–213, as amended Pub. L. 100–360, title IV, §411(i)(4)(C)(vi), (j)(5), July 1, 1988, 102 Stat. 790, 791; Pub. L. 100–360, title I, §104(d)(5), title II, §§201(b), (d), 202(h)(1), title IV, §411(c)(2)(A)(i), (C), (g)(1)(D), July 1, 1988, 102 Stat. 689, 702, 718, 772, 782, as amended Pub. L. 100–485, title VI, §608(d)(3)(F), (19)(A), Oct. 13, 1988, 102 Stat. 2414, 2419; Pub. L. 100–485, title VI, §608(f)(1), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 101–234, title I, §101(a), title II, §201(a), title III, §301(b)(4), (d)(1), Dec. 13, 1989, 103 Stat. 1979, 1981, 1985, 1986; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xii), (xiii), 6017, 6018(a), 6020, 6112(e)(3), Dec. 19, 1989, 103 Stat. 2154, 2165, 2166, 2216; Pub. L. 101–508, title IV, §§4008(b)(3)(B), (m)(3)(G)\[(F)\], 4153(d)(1), 4157(c)(2), 4162(b)(2), 4206(a), Nov. 5, 1990, 104 Stat. 1388–44, 1388–54, 1388–84, 1388–89, 1388–96, 1388–115; Pub. L. 102–54, §13(q)(3)(F), June 13, 1991, 105 Stat. 280; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–296, title I, §108(c)(5), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 103–432, title I, §§106(b)(1)(B), 147(e)(7), 156(a)(2)(E), 160(d)(2), Oct. 31, 1994, 108 Stat. 4406, 4430, 4441, 4443; Pub. L. 104–191, title II, §262(b)(1), Aug. 21, 1996, 110 Stat. 2031; Pub. L. 105–12, §9(a)(2), Apr. 30, 1997, 111 Stat. 26; Pub. L. 105–33, title IV, §§4002(d), (e), 4201(c)(1), 4302(a), 4321(b), 4432(b)(5)(F), 4511(a)(2)(D), 4523(b), 4541(a)(3), 4641(a), 4714(b)(1), Aug. 5, 1997, 111 Stat. 329, 373, 382, 395, 422, 442, 449, 456, 487, 510; Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(11), (12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title III, §313(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–499; Pub. L. 108–173, title II, §236(a)(1), title V, §§505(b), 506(a), title VII, §736(a)(13), title IX, §§932(b), (c)(1), 936(a), 947(a), Dec. 8, 2003, 117 Stat. 2210, 2294, 2355, 2400, 2401, 2411, 2425; Pub. L. 110–275, title I, §143(b)(8), July 15, 2008, 122 Stat. 2543; Pub. L. 111–148, title III, §3005, title VI, §§6401(a), 6406(b), title X, §10603, Mar. 23, 2010, 124 Stat. 371, 747, 769, 1006; Pub. L. 111–152, title I, §1304, Mar. 30, 2010, 124 Stat. 1058; Pub. L. 111–192, title I, §103(b), (c), June 25, 2010, 124 Stat. 1283; Pub. L. 112–40, title II, §261(a)(3)(A), (D), Oct. 21, 2011, 125 Stat. 423; Pub. L. 114–42, §2, Aug. 6, 2015, 129 Stat. 468; Pub. L. 114–255, div. C, title XVII, §17004(a), (b)(2)(A), Dec. 13, 2016, 130 Stat. 1331, 1333; Pub. L. 115–182, title I, §144(a)(2), June 6, 2018, 132 Stat. 1430; Pub. L. 115–271, title II, §2005(d), Oct. 24, 2018, 132 Stat. 3930; Pub. L. 116–260, div. CC, title I, §125(b)(1), (2)(A), Dec. 27, 2020, 134 Stat. 2965.)
 
 #### Applicability of Amendment
 
 <i>Amendment of section by section 125(b)(1), (2)(A) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -676,7 +678,7 @@ Subsec. (f). Pub. L. 101–508, §4206(a)(2), added subsec. (f).
 
 Subsec. (a)(1)(F)(ii). Pub. L. 101–239, §6003(g)(3)(D)(xii)(I), inserted "rural primary care hospitals," after "hospitals,".
 
-Subsec. (a)(1)(H). Pub. L. 101–239, §6003(g)(3)(D)(xii)(II), inserted "and in the case of ruralprimary care hospitals which provide rural primary care hospital services" after "payment may be made under this subchapter".
+Subsec. (a)(1)(H). Pub. L. 101–239, §6003(g)(3)(D)(xii)(II), inserted "and in the case of rural primary care hospitals which provide rural primary care hospital services" after "payment may be made under this subchapter".
 
 Subsec. (a)(1)(I). Pub. L. 101–239, §6018(a)(1), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: "in the case of a hospital and in the case of a rural primary care hospital, to comply with the requirements of section 1395dd of this title to the extent applicable,".
 
@@ -728,7 +730,7 @@ Subsec. (a)(1)(O). Pub. L. 100–203, §4012(a), added subpar. (O).
 
 Subsec. (a)(2)(A). Pub. L. 100–203, §4062(d)(4), inserted at end "Notwithstanding the first sentence of this subparagraph, a home health agency may charge such an individual or person, with respect to covered items subject to payment under section 1395m(a) of this title, the amount of any deduction imposed under section 1395l(b) of this title and 20 percent of the payment basis described in section 1395m(a)(2) of this title."
 
-Subsec. (a)(3). Pub. L. 100–93, §8(d)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The Secretary may refuse to enter into or renew an agreement under this section with a provider of services if any person who has a direct or indirect ownership or control interest of 5 percent or more in such provider, or who is an officer, director, agent, or managing employee (as defined in section 1320a–5(b) of this title) of such provider, is a person described in section 1320a–5(a) of this title."
+Subsec. (a)(3). Pub. L. 100–93, §8(d)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The Secretary may refuse to enter into or renew an agreement under this section with a provider of services if any person who has a direct or indirect ownership or control interest of 5 percent or more in such provider, or who is an officer, director, agent, ormanaging employee (as defined in section 1320a–5(b) of this title) of such provider, is a person described in section 1320a–5(a) of this title."
 
 Subsec. (a)(3)(C)(ii). Pub. L. 100–203, §4097(b), as amended by Pub. L. 100–360, §411(j)(5), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "shall not be less in the aggregate for hospitals, facilities, and agencies for a fiscal year than the amounts the Secretary determines to be sufficient to cover the costs of such organizations' conducting the activities described in subparagraph (A) with respect to such hospitals, facilities, or agencies under part B of subchapter XI of this chapter."
 
@@ -804,7 +806,7 @@ Subsec. (b)(4). Pub. L. 98–369, §2348(a), substituted "more than 30 days afte
 
 Subsec. (d). Pub. L. 98–369, §2335(d)(2), substituted "(including inpatient psychiatric hospital services)" for "(including inpatient tuberculosis hospital services and inpatient psychiatric hospital services)".
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 98–21, §602(l)(2), inserted provision at end of par. (1) that in the case of a hospital which has an agreement in effect with an organization described in subparagraph (F), which organization's contract with the Secretary under part B of subchapter XI terminates on or after October 1, 1984, the hospital shall not be determined to be out of compliance with the requirement of such subparagraph during the six month period beginning on the date of the termination of that contract.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–21, §602(l)(2), inserted provision at end of par. (1) that in the case of a hospital which has an agreement in effect with an organization described in subparagraph (F), which organization'scontract with the Secretary under part B of subchapter XI terminates on or after October 1, 1984, the hospital shall not be determined to be out of compliance with the requirement of such subparagraph during the six month period beginning on the date of the termination of that contract.
 
 Subsec. (a)(1)(F). Pub. L. 98–21, §602(l)(1), which provided that, effective Oct. 1, 1984, subpar. (F) is amended by substituting "(with an organization" for "(if there is such an organization", was repealed by Pub. L. 98–369, §2347(a)(2), effective July 18, 1984.
 
@@ -834,7 +836,7 @@ Subsec. (c)(3). Pub. L. 96–272 added par. (3).
 
 Subsec. (f). Pub. L. 96–499 added subsec. (f).
 
-<b>1978</b>—Subsec. (a)(2)(A). Pub. L. 95–292 provided for computation of and charging of coinsurance amountsfor items and services furnished individuals with end stage renal disease on the basis established by the Secretary.
+<b>1978</b>—Subsec. (a)(2)(A). Pub. L. 95–292 provided for computation of and charging of coinsurance amounts for items and services furnished individuals with end stage renal disease on the basis established by the Secretary.
 
 <b>1977</b>—Subsec. (a)(1)(D). Pub. L. 95–142, §15(a), added subpar. (D).
 
@@ -870,6 +872,8 @@ Pub. L. 90–248, §135(b), authorized a provider of services to charge for bloo
 
 Subsec. (e). Pub. L. 90–248, §133(c), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
@@ -888,7 +892,7 @@ Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on
 
 #### Effective Date of 2010 Amendment
 
-Amendment by section 6406(b) of Pub. L. 111–148 applicable to orders, certifications, and referrals made on or after Jan. 1, 2010, see section 6406(d) of Pub. L. 111–148, set out as a note under section 1320a–7 of this title.
+Amendment by section 6406(b) of Pub. L. 111–148 applicable to orders, certifications, and referrals made onor after Jan. 1, 2010, see section 6406(d) of Pub. L. 111–148, set out as a note under section 1320a–7 of this title.
 
 #### Effective Date of 2008 Amendment
 
@@ -964,7 +968,7 @@ Pub. L. 101–508, title IV, §4008(b)(4), Nov. 5, 1990, 104 Stat. 1388–44, pr
 
 Pub. L. 101–508, title IV, §4153(d)(2), Nov. 5, 1990, 104 Stat. 1388–84, as amended by Pub. L. 103–432, title I, §135(e)(7), Oct. 31, 1994, 108 Stat. 4424, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989 \[Pub. L. 101–239\]."
 
-Amendment by section 4157(c)(2) of Pub. L. 101–508 applicable to services furnished on or after Jan. 1, 1991, see section 4157(d) of Pub. L. 101–508, set out as a note under section 1395k of this title.
+Amendment by section 4157(c)(2) of Pub. L. 101–508 applicable to services furnished on or after Jan. 1, 1991,see section 4157(d) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
 Amendment by section 4162(b)(2) of Pub. L. 101–508 applicable with respect to partial hospitalization services provided on or after Oct. 1, 1991, see section 4162(c) of Pub. L. 101–508, set out as a note under section 1395k of this title.
 
@@ -986,7 +990,7 @@ Amendment by section 608(d)(3)(F), (19)(A) of Pub. L. 100–485 effective as if 
 
 Amendment by section 104(d)(5) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
-Amendment by section 202(h)(1) of Pub. L. 100–360 applicable to items dispensed on or after Jan. 1, 1990, seesection 202(m)(1) of Pub. L. 100–360, set out as a note under section 1395u of this title.
+Amendment by section 202(h)(1) of Pub. L. 100–360 applicable to items dispensed on or after Jan. 1, 1990, see section 202(m)(1) of Pub. L. 100–360, set out as a note under section 1395u of this title.
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(c)(2)(C), (g)(1)(D), (i)(4)(C)(vi), (j)(5) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
@@ -1024,7 +1028,7 @@ Amendment by section 9343(c)(2), (3) of Pub. L. 99–509 applicable to services 
 
 Pub. L. 99–509, title IX, §9353(e)(3)(A), Oct. 21, 1986, 100 Stat. 2049, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to provider agreements as of October 1, 1987."
 
-Amendment by section 9121(a) of Pub. L. 99–272 effective on first day of first month that begins at least 90 days after Apr. 7, 1986, see section 9121(c) of Pub. L. 99–272, set out as a note under section 1395dd of this title.
+Amendment by section 9121(a) of Pub. L. 99–272 effective on first day of first month that begins at least 90days after Apr. 7, 1986, see section 9121(c) of Pub. L. 99–272, set out as a note under section 1395dd of this title.
 
 Pub. L. 99–272, title IX, §9122(b), Apr. 7, 1986, 100 Stat. 167, as amended by Pub. L. 99–514, title XVIII, §1895(b)(6), Oct. 22, 1986, 100 Stat. 2933, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to inpatient hospital services provided pursuant to admissions to hospitals occurring on or after January 1, 1987."
 
@@ -1086,7 +1090,7 @@ Pub. L. 95–210, §2(f), Dec. 13, 1977, 91 Stat. 1489, provided that:
 
 "(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
 
-"(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[42 U.S.C. 1396 et seq.\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Dec. 13, 1977\]."
+"(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[42 U.S.C. 1396 et seq.\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislaturethat begins after the date of enactment of this Act \[Dec. 13, 1977\]."
 
 Amendment by section 3(b) of Pub. L. 95–142 effective Oct. 25, 1977, see section 3(e) of Pub. L. 95–142, set out as an Effective Date note under section 1320a–3 of this title.
 
@@ -1112,7 +1116,7 @@ Amendment by section 129(c)(12) of Pub. L. 90–248 applicable with respect to s
 
 Amendment by section 133(c) of Pub. L. 90–248 applicable with respect to services furnished after June 30, 1968, see section 133(g) of Pub. L. 90–248, set out as a note under section 1395k of this title.
 
-Amendment by section 135(b) of Pub. L. 90–248 applicable with respect to payment for blood (or packed redblood cells) furnished an individual after Dec. 31, 1967, see section 135(d) of Pub. L. 90–248, set out as a note under section 1395e of this title.
+Amendment by section 135(b) of Pub. L. 90–248 applicable with respect to payment for blood (or packed red blood cells) furnished an individual after Dec. 31, 1967, see section 135(d) of Pub. L. 90–248, set out as a note under section 1395e of this title.
 
 #### Regulations
 
@@ -1170,7 +1174,7 @@ Concierge care.—In this section, the term 'concierge care' means an arrangemen
 
 "(b)
 
-Report.—Not later than the date that is 12 months after the date of enactment of this Act \[Dec. 8, 2003\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a)(1) together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate."
+Report.—Not later than the date that is 12 months after the date of enactment of this Act \[Dec. 8,2003\], the Comptroller General of the United States shall submit to Congress a report on the study conducted under subsection (a)(1) together with such recommendations for legislative or administrative action as the Comptroller General determines to be appropriate."
 
 #### Effect on State Law
 
@@ -1188,7 +1192,7 @@ Pub. L. 99–576, title II, §233(c), Oct. 28, 1986, 100 Stat. 3265, provided th
 
 Pub. L. 99–272, title IX, §9122(d), Apr. 7, 1986, 100 Stat. 167, provided that: "The Secretary of Health and Human Services shall report to Congress periodically on the number of hospitals that have terminated or failed to renew an agreement under section 1866 of the Social Security Act \[42 U.S.C. 1395cc\] as a result of the additional conditions imposed under the amendments made by subsection (a) \[amending this section\]."
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 7 on page 96 identifies a report on "Hospitals that have terminated or failed to renew an agreement under section 1866 of Social Security Act as a result of the additional conditions imposed" authorized by 42 U.S.C. 1395cc note), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 7 on page 96 identifies a report on "Hospitals that have terminated or failed to renew an agreement under section 1866 of Social Security Act as a result of the additional conditions imposed" authorized by 42 U.S.C. 1395cc note), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Delay in Implementation of Requirement That Hospitals Maintain Agreements With Utilization and Quality Control Peer Review Organization
 

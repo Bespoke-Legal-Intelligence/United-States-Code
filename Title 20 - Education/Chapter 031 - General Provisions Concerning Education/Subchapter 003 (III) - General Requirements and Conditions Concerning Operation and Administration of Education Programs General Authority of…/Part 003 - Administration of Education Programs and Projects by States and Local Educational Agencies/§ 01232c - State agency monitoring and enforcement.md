@@ -6,7 +6,7 @@ In the case of any applicable program in which Federal funds are made available 
 
 &emsp;(1) for periodic visits by State personnel of programs administered by local agencies to determine whether such programs are being conducted in accordance with such requirements;
 
-&emsp;(2) for periodic audits of expenditures under such programs by auditors of the State orother auditors not under the control, direction, or supervision of the local educational agency; and
+&emsp;(2) for periodic audits of expenditures under such programs by auditors of the State or other auditors not under the control, direction, or supervision of the local educational agency; and
 
 &emsp;(3) that the State investigate and resolve all complaints received by the State, or referred to the State by the Secretary, relating to the administration of such programs.
 
@@ -26,6 +26,8 @@ Any withholding of payments under subsection (b)(3) of this subsection <sup>1</
 
 (Pub. L. 90–247, title IV, §440, formerly §434, as added Pub. L. 95–561, title XII, §1231(a)(3), Nov. 1, 1978, 92 Stat. 2342; renumbered §440 and amended Pub. L. 103–382, title II, §§212(b)(1), 261(e), Oct. 20, 1994, 108 Stat. 3913, 3927.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1232c, Pub. L. 90–247, title IV, §434, formerly §424, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §434 and amended Pub. L. 92–318, title III, §301(a)(1), title V, §501, June 23, 1972, 86 Stat. 326, 345; Pub. L. 93–380, title V, §§510, 511(a), Aug. 21, 1974, 88 Stat. 568, 569; Pub. L. 94–482, title V, §501(f)(1), Oct. 12, 1976, 90 Stat. 2237, related to administration of education programs and projects, prior to repeal by section 1231(a)(3) of Pub. L. 95–561.
@@ -40,9 +42,11 @@ Subsec. (a). Pub. L. 103–382, §261(e)(2)(A), substituted "Secretary" for "Com
 
 Subsecs. (b), (c). Pub. L. 103–382, §261(e)(2)(B), (C), redesignated provision following par. (3) of subsec. (b) as subsec. (c) and substituted "subsection (b)(3)" for "paragraph (3)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 95–561, title XII, §1261, Nov. 1, 1978, 92 Stat. 2356, provided that: "The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\] shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\]."
+Pub. L. 95–561, title XII, §1261, Nov. 1, 1978, 92 Stat. 2356, provided that: "The amendments made by section 1231 \[enacting this section and sections 1232d, 1232e, and 1232f of this title and amending section 1088f–1 of this title\] shall take effect with respect to appropriations for fiscal year 1980 and subsequent fiscal years. The amendments made by section 1232 \[enacting sections 1234, 1234a, 1234b, 1234c, 1234d, and 1234e of this title\]shall take effect 120 days after the enactment of this Act \[Nov. 1, 1978\]."
 
 #### Applicability of Administrative Procedure to Office of Education or Actions by Commissioner Unaffected by Subsections (b) to (e)
 

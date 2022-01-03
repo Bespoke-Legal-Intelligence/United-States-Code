@@ -16,7 +16,7 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(2) all relevant information about the activities during the preceding year of any terrorist group, and any umbrella group under which such terrorist group falls, known to be responsible for the kidnapping or death of an American citizen during the preceding five years, any terrorist group known to have obtained or developed, or to have attempted to obtain or develop, weapons of mass destruction, any terrorist group known to be financed by countries about which Congress was notified during the preceding year pursuant to section 4605(j) <sup>1</sup> of title 50, any group designated by the Secretary as a foreign terrorist organization under section 1189 of title 8, and any other known international terrorist group which the Secretary determines should be the subject of such report;
 
-&emsp;(3) with respect to each foreign country from which the United States Government has sought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
+&emsp;(3) with respect to each foreign country from which the United States Government hassought cooperation during the previous five years in the investigation or prosecution of an act of international terrorism against United States citizens or interests, information on—
 
 &emsp;&emsp;(A) the extent to which the government of the foreign country is cooperating with the United States Government in apprehending, convicting, and punishing the individual or individuals responsible for the act; and
 
@@ -90,7 +90,7 @@ The report required under subsection (a) should to the extent feasible include (
 
 #### (c) Classification of report
 
-(1) Except as provided in paragraph (2), the report required under subsection (a) shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
+(1) Except as provided in paragraph (2), the report required under subsection (a) shall, to theextent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
 (2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
@@ -180,7 +180,7 @@ Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated exist
 
 Pub. L. 108–487, title VII, §701(b), Dec. 23, 2004, 118 Stat. 3962, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply beginning with the first report under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 \[this section\] that is submitted more than one year after the date of the enactment of this Act \[Dec. 23, 2004\]."
 
-Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise expressly provided in this Act, this Act \[enacting sections 1912, 3032, 3201 to 3205, 3221, 3523, and 3617 of Title 50, War and National Defense, amending this section and sections 1902, 1903, 1910, 1911, 3036, 3361, and 3519a of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 1902, 3001,3032, 3036, 3106, and 3322 of Title 50, and amending provisions set out as a note under section 8331 of Title 5, Government Organization and Employees\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\]."
+Pub. L. 108–487, title VIII, §801, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise expressly provided in this Act, this Act \[enacting sections 1912, 3032, 3201 to 3205, 3221, 3523, and 3617 of Title 50, War and National Defense, amending this section and sections 1902, 1903, 1910, 1911, 3036, 3361, and 3519a of Title 50, enacting provisions set out as notes under this section, section 873 of Title 21, Food and Drugs, and sections 1902, 3001, 3032, 3036, 3106, and 3322 of Title 50, and amending provisions set out as a note under section 8331 of Title 5, Government Organization and Employees\] (and the amendments made by this Act) shall take effect on the date of the enactment of this Act \[Dec. 23, 2004\]."
 
 Pub. L. 108–458, title VII, §7102(d)(4), Dec. 17, 2004, 118 Stat. 3778, provided that: "The amendments made by this subsection \[amending this section\] apply with respect to the report required to be transmitted under section 140 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 (22 U.S.C. 2656f), by April 30, 2006, and by April 30 of each subsequent year."
 

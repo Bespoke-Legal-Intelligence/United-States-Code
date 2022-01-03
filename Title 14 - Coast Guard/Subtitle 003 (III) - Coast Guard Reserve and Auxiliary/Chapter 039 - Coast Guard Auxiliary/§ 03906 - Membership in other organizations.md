@@ -1,6 +1,6 @@
 ### §3906. Membership in other organizations
 
-Members of the Auxiliary may be appointed or enlisted in the Reserve, pursuant to applicableregulations, and membership in the Auxiliary shall not be a bar to membership in any other naval or military organization.
+Members of the Auxiliary may be appointed or enlisted in the Reserve, pursuant to applicable regulations, and membership in the Auxiliary shall not be a bar to membership in any other naval or military organization.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 555, §825; renumbered §3906, Pub. L. 115–282, title I, §119(b), Dec. 4, 2018, 132 Stat. 4236.)
 

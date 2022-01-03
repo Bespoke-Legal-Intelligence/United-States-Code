@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(a)(95), Mar. 23, 2018, 132 Stat. 1188, substituted "Insolvent plans" for "Special rules for multiemployer plans" in heading for subpart C.

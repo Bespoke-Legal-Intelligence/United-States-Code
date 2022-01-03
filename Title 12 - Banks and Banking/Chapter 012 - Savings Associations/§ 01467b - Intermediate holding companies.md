@@ -44,7 +44,7 @@ For purposes of this section:
 
 #### (B) Grandfathered activities
 
-&emsp;&emsp;A grandfathered unitary savings and loan holding company may continue to engage inan internal financial activity, subject to review by the Board to determine whether engaging in such activity presents undue risk to the grandfathered unitary savings and loan holding company or to the financial stability of the United States, if—
+&emsp;&emsp;A grandfathered unitary savings and loan holding company may continue to engage in an internal financial activity, subject to review by the Board to determine whether engaging in such activity presents undue risk to the grandfathered unitary savings and loan holding company or to the financial stability of the United States, if—
 
 &emsp;&emsp;&emsp;(i) the grandfathered unitary savings and loan holding company engaged in the activity during the year before July 21, 2010; and
 

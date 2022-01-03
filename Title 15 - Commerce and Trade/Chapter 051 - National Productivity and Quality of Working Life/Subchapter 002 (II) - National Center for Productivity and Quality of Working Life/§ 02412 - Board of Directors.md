@@ -20,7 +20,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 &emsp;(8) not less than five members who shall be appointed by the President, by and with the advice and consent of the Senate, from among qualified private individuals from labor organizations;
 
-&emsp;(9) not less than two members who shall be appointed by the President, by and with the advice and consent of the Senate, from among qualified individuals in State or local governments;
+&emsp;(9) not less than two members who shall be appointed by the President, by and with theadvice and consent of the Senate, from among qualified individuals in State or local governments;
 
 &emsp;(10) not less than one member who shall be appointed by the President, by and with the advice and consent of the Senate, from among the general public;
 
@@ -32,7 +32,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 #### (b) Term
 
-(1) The members of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) shall be appointed for a four-year term coterminous with the term of the President. Members other than members appointed under such clauses, with the exception of theChairman, shall serve as long as such member is head of the department or agency represented on the Board. No person shall serve as an acting or temporary member in positions requiring Senate confirmation including that of Chairman, for a period in excess of three months.
+(1) The members of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) shall be appointed for a four-year term coterminous with the term of the President. Members other than members appointed under such clauses, with the exception of the Chairman, shall serve as long as such member is head of the department or agency represented on the Board. No person shall serve as an acting or temporary member in positions requiring Senate confirmation including that of Chairman, for a period in excess of three months.
 
 (2) The President shall appoint a Chairman for a term of four years coterminous with the term of the President. In appointing a Chairman, the President may appoint an individual who is an officer of the United States. If that officer has been appointed to his current position, by and with the advice and consent of the Senate, or if such individual is the Vice President of the United States, such individual may be appointed chairman by the President without the requirement of confirmation by the Senate.
 
@@ -55,6 +55,8 @@ Any member appointed to fill a vacancy occurring before the expiration of the te
 (2) The Executive Committee of the Board shall meet at the call of the Chairman, but in no case less frequently than once every ninety days.
 
 (Pub. L. 94–136, title II, §202, Nov. 28, 1975, 89 Stat. 735.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

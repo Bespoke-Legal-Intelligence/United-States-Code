@@ -10,13 +10,15 @@
 
 (1) Not later than 5 days after the designation of an adjacent coastal State pursuant to this section, the Administrator shall transmit a complete copy of the application to the Governor of such State. The Administrator shall not issue a license without consultation with the Governor of each adjacent coastal State which has an approved coastal zone management program in good standing pursuant to the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.). If the Governor of such a State has not transmitted his approval or disapproval to the Administrator by the 45th day after public hearings on the application are concluded pursuant to section 9112(g) of this title, such approval shall be conclusively presumed. If the Governor of such a State notifies the Administrator that an application which the Governor would otherwise approve pursuant to this paragraph is inconsistent in some respect with the State's coastal zone management program, the Administrator shall condition the license granted so as to make it consistent with such State program.
 
-(2) Any adjacent coastal State which does not have an approved coastal zone management program in good standing, and any other interested State, shall have the opportunity to make its views known to, and to have them given full consideration by, the Administrator regarding the location, construction, and operation of anocean thermal energy conversion facility or plantship.
+(2) Any adjacent coastal State which does not have an approved coastal zone management program in good standing, and any other interested State, shall have the opportunity to make its views known to, and to have them given full consideration by, the Administrator regarding the location, construction, and operation of an ocean thermal energy conversion facility or plantship.
 
 #### (c) Agreements and compacts between States
 
 The consent of Congress is given to 2 or more States to negotiate and enter into agreements or compacts, not in conflict with any law or treaty of the United States, (1) to apply for a license for the ownership, construction, and operation of an ocean thermal energy conversion facility or plantship or for the transfer of such a license, and (2) to establish such agencies, joint or otherwise, as are deemed necessary or appropriate for implementing and carrying out the provisions of any such agreement or compact. Such agreement or compact shall be binding and obligatory upon any State or other party thereto without further approval by the Congress.
 
 (Pub. L. 96–320, title I, §105, Aug. 3, 1980, 94 Stat. 983; Pub. L. 98–623, title VI, §602(e)(12)–(14), Nov. 8, 1984, 98 Stat. 3412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

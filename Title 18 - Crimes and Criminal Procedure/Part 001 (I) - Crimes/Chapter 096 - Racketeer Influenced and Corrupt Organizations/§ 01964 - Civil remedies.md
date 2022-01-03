@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–67 inserted before period at end ", except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shallstart to run on the date on which the conviction becomes final".
+<b>1995</b>—Subsec. (c). Pub. L. 104–67 inserted before period at end ", except that no person may rely upon any conduct that would have been actionable as fraud in the purchase or sale of securities to establish a violation of section 1962. The exception contained in the preceding sentence does not apply to an action against any person that is criminally convicted in connection with the fraud, in which case the statute of limitations shall start to run on the date on which the conviction becomes final".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–620 struck out provision that in any action brought by the United States under this section, the court had to proceed as soon as practicable to the hearing and determination thereof.
 

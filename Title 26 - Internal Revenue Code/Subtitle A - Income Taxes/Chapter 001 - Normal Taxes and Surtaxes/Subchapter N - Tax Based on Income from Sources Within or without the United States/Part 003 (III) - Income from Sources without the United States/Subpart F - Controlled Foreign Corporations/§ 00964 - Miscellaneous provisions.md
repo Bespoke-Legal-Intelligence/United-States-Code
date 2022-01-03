@@ -16,7 +16,7 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 #### (2) Two or more persons required to maintain or furnish the same records and accounts with respect to the same foreign corporation
 
-&emsp;Where, but for this paragraph, two or more United States persons would be required tomaintain or furnish the same records and accounts as may by regulations be required under paragraph (1) with respect to the same controlled foreign corporation for the same period, the Secretary may by regulations provide that the maintenance or furnishing of such records and accounts by only one such person shall satisfy the requirements of paragraph (1) for such other persons.
+&emsp;Where, but for this paragraph, two or more United States persons would be required to maintain or furnish the same records and accounts as may by regulations be required under paragraph (1) with respect to the same controlled foreign corporation for the same period, the Secretary may by regulations provide that the maintenance or furnishing of such records and accounts by only one such person shall satisfy the requirements of paragraph (1) for such other persons.
 
 #### (d) Treatment of certain branches
 
@@ -80,7 +80,9 @@ Under regulations prescribed by the Secretary, no part of the earnings and profi
 
 &emsp;&emsp;For purposes of this paragraph, the foreign-source portion of any amount treated as a dividend under paragraph (1) shall be determined in the same manner as under section 245A(c).
 
-(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 91–172, title IV, §442(b)(1), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §1065(b), title XIX, §§1901(b)(32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1654, 1800, 1834; Pub. L. 97–34, title II,§206(c), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §288(b)(2), Sept. 3, 1982, 96 Stat. 571; Pub. L. 100–647, title VI, §6129(a), Nov. 10, 1988, 102 Stat. 3716; Pub. L. 105–34, title XI, §1111(a), Aug. 5, 1997, 111 Stat. 968; Pub. L. 115–97, title I, §§14102(c)(1), 14212(b)(4), Dec. 22, 2017, 131 Stat. 2193, 2217.)
+(Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1027; amended Pub. L. 91–172, title IV, §442(b)(1), Dec. 30, 1969, 83 Stat. 628; Pub. L. 94–455, title X, §1065(b), title XIX, §§1901(b)(32)(B)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1654, 1800, 1834; Pub. L. 97–34, title II, §206(c), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §288(b)(2), Sept. 3, 1982, 96 Stat. 571; Pub. L. 100–647, title VI, §6129(a), Nov. 10, 1988, 102 Stat. 3716; Pub. L. 105–34, title XI, §1111(a), Aug. 5, 1997, 111 Stat. 968; Pub. L. 115–97, title I, §§14102(c)(1), 14212(b)(4), Dec. 22, 2017, 131 Stat. 2193, 2217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -105,6 +107,8 @@ Subsec. (e)(4). Pub. L. 115–97, §14102(c)(1), added par. (4).
 Subsecs. (b), (c)(1), (2). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" whenever appearing.
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–172 inserted reference to the exception provided for in section 312(m)(3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

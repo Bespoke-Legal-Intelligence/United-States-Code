@@ -4,7 +4,7 @@
 
 (b) In the case of any veteran who engaged in combat with the enemy in active service with a military, naval, air, or space organization of the United States during a period of war, campaign, or expedition, the Secretary shall accept as sufficient proof of service-connection of any disease or injury alleged to have been incurred in or aggravated by such service satisfactory lay or other evidence of service incurrence or aggravation of such injury or disease, if consistent with the circumstances, conditions, or hardships of such service, notwithstanding the fact that there is no official record of such incurrence or aggravation in such service, and, to that end, shall resolve every reasonable doubt in favor of the veteran. Service-connection of such injury or disease may be rebutted by clear and convincing evidence to the contrary. The reasons for granting or denying service-connection in each case shall be recorded in full.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, §354; Pub. L. 94–433, title IV, §404(20), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–542, §4, Oct. 24, 1984, 98 Stat. 2727; Pub. L. 102–54, §14(b)(1), June 13, 1991, 105 Stat. 282; renumbered §1154 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991,105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, §926(d), Jan. 1, 2021, 134 Stat. 3831.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1124, §354; Pub. L. 94–433, title IV, §404(20), Sept. 30, 1976, 90 Stat. 1379; Pub. L. 98–542, §4, Oct. 24, 1984, 98 Stat. 2727; Pub. L. 102–54, §14(b)(1), June 13, 1991, 105 Stat. 282; renumbered §1154 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 116–283, div. A, title IX, §926(d), Jan. 1, 2021, 134 Stat. 3831.)
 
 #### <b>Editorial Notes</b>
 
@@ -122,7 +122,7 @@ Report.—(1) Not later than 60 days after the conclusion of the period referred
 
 &emsp;"(A) A detailed description of the activities of the National Academy of Sciences under the contract.
 
-&emsp;"(B) Any recommendations that the National Academy of Sciences considers appropriate regarding apermanent system of review of the dose reconstruction program of the Defense Threat Reduction Agency."
+&emsp;"(B) Any recommendations that the National Academy of Sciences considers appropriate regarding a permanent system of review of the dose reconstruction program of the Defense Threat Reduction Agency."
 
 #### Ionizing Radiation Registry
 
@@ -210,7 +210,7 @@ Sec. 2. The Congress makes the following findings:
 
 &emsp;"(6) As of the date of the enactment of this Act \[Oct. 24, 1984\], there are sixty-six federally sponsored research projects being conducted relating to herbicides containing dioxin, at a cost to the Federal Government in excess of $130,000,000 and, as of 1981, federally sponsored research projects relating to ionizing radiation were costing the Federal Government more than $115,000,000.
 
-&emsp;"(7) The initial results of one project—an epidemiological study, conducted by the United States Air Force School of Aerospace Medicine, of the health status of the 'Ranch Hand' veterans who carried outthe loading and aerial spraying of herbicides containing dioxin in Vietnam and in the process came into direct skin contact with such herbicides in their most concentrated liquid form—were released on February 24, 1984, and contained the conclusion 'that there is insufficient evidence to support a cause and effect relationship between herbicide exposure and adverse health in the Ranch Hand group at this time'.
+&emsp;"(7) The initial results of one project—an epidemiological study, conducted by the United States Air Force School of Aerospace Medicine, of the health status of the 'Ranch Hand' veterans who carried out the loading and aerial spraying of herbicides containing dioxin in Vietnam and in the process came into direct skin contact with such herbicides in their most concentrated liquid form—were released on February 24, 1984, and contained the conclusion 'that there is insufficient evidence to support a cause and effect relationship between herbicide exposure and adverse health in the Ranch Hand group at this time'.
 
 &emsp;"(8) The 'film badges' which were originally issued to members of the Armed Forces in connection with the atmospheric nuclear test program have previously constituted a primary source of dose information for veterans (and survivors of veterans) filing claims for Veterans' Administration \[now Department of Veterans Affairs\] disability compensation or dependency and indemnity compensation in connection with exposure to radiation.
 
@@ -242,7 +242,7 @@ Pub. L. 98–542, §5–7, Oct. 24, 1984, 98 Stat. 2727–2730, as amended by Pu
 
 Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veterans' Affairs \[now Secretary of Veterans Affairs\] under section 1154(a)(2) \[formerly 354(a)(2)\] of title 38, United States Code, and in order to promote consistency in claims processing and decisions, the Administrator shall prescribe regulations to—
 
-&emsp;"(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans' Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit include a requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
+&emsp;"(1) establish guidelines and (where appropriate) standards and criteria for the resolution of claims for benefits under laws administered by the Veterans' Administration \[now Department of Veterans Affairs\] where the criteria for eligibility for a benefit includea requirement that a death or disability be service connected and the claim of service connection is based on a veteran's exposure during service in connection with such veteran's participation in atmospheric nuclear tests or with the American occupation of Hiroshima or Nagasaki, Japan, prior to July 1, 1946, to ionizing radiation from the detonation of a nuclear device; and
 
 &emsp;"(2) ensure that, with respect to those claims, the policy of the United States described in section 2(13) \[set out above\] is carried out.
 
@@ -282,7 +282,7 @@ Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of sec
 
 &emsp;&emsp;"(A) three individuals who are recognized medical or scientific authorities in fields pertinent to understanding the health effects of exposure to ionizing radiation; and
 
-&emsp;&emsp;"(B) three individuals who are recognized medical or scientific authorities in fields, such as epidemiology and other scientific disciplines, pertinent to determining and assessing the health effects of exposure to ionizing radiation in exposed populations; and
+&emsp;&emsp;"(B) three individuals who are recognized medical or scientific authorities in fields, such as epidemiology and other scientific disciplines, pertinent todetermining and assessing the health effects of exposure to ionizing radiation in exposed populations; and
 
 &emsp;"(2) three individuals from the general public, including at least one disabled veteran, having a demonstrated interest in and experience relating to veterans' concerns regarding exposure to ionizing radiation.
 
@@ -306,7 +306,7 @@ Sec. 6. (a) The advisory committee referred to in subsections (b) and (c) of sec
 
 "
 
-Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear Agency, as Department of Defense Executive Agent for the Nuclear Test Personnel Review Program, relating to the preparation of radiation dose estimates with regard to claims for Veterans' Administration \[now Department of VeteransAffairs\] disability compensation and dependency and indemnity compensation under chapters 11 and 13, respectively, of title 38, United States Code—
+Sec. 7. (a) In connection with the duties of the Director of the Defense Nuclear Agency, as Department of Defense Executive Agent for the Nuclear Test Personnel Review Program, relating to the preparation of radiation dose estimates with regard to claims for Veterans' Administration \[now Department of Veterans Affairs\] disability compensation and dependency and indemnity compensation under chapters 11 and 13, respectively, of title 38, United States Code—
 
 &emsp;"(1) the Secretary of Defense shall prescribe guidelines (and any amendment to those guidelines) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code—
 
@@ -344,7 +344,7 @@ Section 10 of Pub. L. 98–542, as added by Pub. L. 102–578, §3, Oct. 30, 199
 
 In General.—(1) In order to determine whether activities (other than the tests or occupation activities referred to in section 5(a)(1)(B) \[probably means section 5(a)(1), set out above\]) resulted in the exposure of veterans to ionizing radiation during the service of such veterans that occurred before January 1, 1970, and whether adverse health effects have been observed or may have resulted from such exposure in a significant number of such veterans, the Advisory Committee established under section 6 \[set out above\] shall—
 
-&emsp;"(A) review all available scientific studies and other relevant information relating to the exposure of such veterans to ionizing radiation during such service;
+&emsp;"(A) review all available scientific studies and other relevant information relating to the exposureof such veterans to ionizing radiation during such service;
 
 &emsp;"(B) identify any activity during which significant numbers of veterans received exposure; and
 
@@ -372,7 +372,7 @@ Investigation Plan and Report.—(1) Upon receipt of the report referred to in s
 
 #### Interim Benefits for Disability or Death in Certain Cases
 
-Pub. L. 98–542, §9, Oct. 24, 1984, 98 Stat. 2732, provided for payment of interim monthly disability benefits to veterans who had served in Vietnam during Vietnam era and who had diseases chloracne and porphyria cutanea tarda which manifested themselves within oneyear after date of veteran's most recent departure from Vietnam, but with no such interim benefits to be paid after Sept. 30, 1986.
+Pub. L. 98–542, §9, Oct. 24, 1984, 98 Stat. 2732, provided for payment of interim monthly disability benefits to veterans who had served in Vietnam during Vietnam era and who had diseases chloracne and porphyria cutanea tarda which manifested themselves within one year after date of veteran's most recent departure from Vietnam, but with no such interim benefits to be paid after Sept. 30, 1986.
 
 #### Radiation Exposure Study and Guide
 

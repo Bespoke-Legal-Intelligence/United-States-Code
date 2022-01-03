@@ -44,7 +44,7 @@ Requirements for Designation.—(1) The Secretary may not designate a Department
 
 (d)
 
-Peer Review Panel.—(1) The Under Secretary for Health shall establish a panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the establishment of centers under this section.
+Peer Review Panel.—(1) The Under Secretary for Health shall establish a panel to assess the scientific and clinical merit of proposalsthat are submitted to the Secretary for the establishment of centers under this section.
 
 (2)(A) The membership of the panel shall consist of experts in autoimmune disease affecting the central nervous system.
 

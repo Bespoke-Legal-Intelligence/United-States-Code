@@ -2,7 +2,7 @@
 
 The Secretary of the Treasury shall make information in a report filed under this subchapter available to an agency, including any State financial institutions supervisory agency, United States intelligence agency or self-regulatory organization registered with the Securities and Exchange Commission or the Commodity Futures Trading Commission, upon request of the head of the agency or organization. The report shall be available for a purpose that is consistent with this subchapter. The Secretary may only require reports on the use of such information by any State financial institutions supervisory agency for other than supervisory purposes or by United States intelligence agencies. However, a report and records of reports are exempt from search and disclosure under section 552 of title 5, and may not be disclosed under any State, local, tribal, or territorial "freedom of information", "open government", or similar law.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 102–550, title XV, §1506, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 107–56, title III, §358(c), Oct. 26, 2001, 115 Stat. 326; Pub. L. 112–74, div. C, title I, §119,Dec. 23, 2011, 125 Stat. 891; Pub. L. 116–283, div. F, title LXI, §6109(b), Jan. 1, 2021, 134 Stat. 4561.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 102–550, title XV, §1506, Oct. 28, 1992, 106 Stat. 4055; Pub. L. 107–56, title III, §358(c), Oct. 26, 2001, 115 Stat. 326; Pub. L. 112–74, div. C, title I, §119, Dec. 23, 2011, 125 Stat. 891; Pub. L. 116–283, div. F, title LXI, §6109(b), Jan. 1, 2021, 134 Stat. 4561.)
 
 Historical and Revision Notes
 

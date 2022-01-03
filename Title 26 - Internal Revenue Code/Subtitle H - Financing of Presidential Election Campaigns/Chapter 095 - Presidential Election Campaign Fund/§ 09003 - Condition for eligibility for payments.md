@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to be eligible to receive any payments under section 9006, the candidates of a political party in a presidential election shall, in writing—
+In order to be eligible to receive any payments under section 9006, the candidates of a politicalparty in a presidential election shall, in writing—
 
 &emsp;(1) agree to obtain and furnish to the Commission such evidence as it may request of the qualified campaign expenses of such candidates,
 
@@ -18,7 +18,7 @@ In order to be eligible to receive any payments under section 9006, the candidat
 
 &emsp;(2) no contributions to defray qualified campaign expenses have been or will be accepted by such candidates or any of their authorized committees except to the extent necessary to make up any deficiency in payments received out of the fund on account of the application of section 9006(c), and no contributions to defray expenses which would be qualified campaign expenses but for subparagraph (C) of section 9002(11) have been or will be accepted by such candidates or any of their authorized committees.
 
-> Such certification shall be made within such time prior to the day of the presidential electionas the Commission shall prescribe by rules or regulations.
+> Such certification shall be made within such time prior to the day of the presidential election as the Commission shall prescribe by rules or regulations.
 
 #### (c) Minor and new parties
 
@@ -44,6 +44,8 @@ No candidate for the office of President or Vice President may receive amounts f
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 564; amended Pub. L. 93–53, §6(c), July 1, 1973, 87 Stat. 139; Pub. L. 93–443, title IV, §§404(c)(4), (5), 405(b), Oct. 15, 1974, 88 Stat. 1292, 1294; Pub. L. 94–283, title III, §306(a)(2), May 11, 1976, 90 Stat. 500; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 102–393, title V, §534(a), Oct. 6, 1992, 106 Stat. 1764; Pub. L. 115–141, div. U, title IV, §401(a)(338), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–141 substituted "section 9006(c)" for "section 9006(d)".
@@ -60,9 +62,11 @@ Subsecs. (b), (c). Pub. L. 93–443, §404(c)(5), substituted "Commission" for "
 
 <b>1973</b>—Subsec. (b)(2). Pub. L. 93–53 substituted section "9006(d)" for "9006(c)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
+Pub. L. 102–393, title V, §534(b), Oct. 6, 1992, 106 Stat. 1764, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply toamounts made available under chapter 95 or 96 of the Internal Revenue Code of 1986 more than thirty days after the date of the enactment of this Act \[Oct. 6, 1992\]."
 
 #### Effective Date of 1976 Amendment
 

@@ -16,7 +16,7 @@ There is established in the Treasury a separate fund to be known as the "Consula
 
 #### (i) Effective date
 
-The amendments made by this section shall take effect no later than October 1, 2018, and shall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
+The amendments made by this section shall take effect no later than October 1, 2018, andshall be implemented in a manner that ensures the fees collected, transferred, and used in fiscal year 2019 can be readily tracked.
 
 (Pub. L. 115–31, div. J, title VII, §7081, May 5, 2017, 131 Stat. 716.)
 

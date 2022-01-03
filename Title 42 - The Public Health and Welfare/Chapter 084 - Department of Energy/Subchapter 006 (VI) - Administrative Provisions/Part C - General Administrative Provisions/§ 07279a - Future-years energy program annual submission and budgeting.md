@@ -10,7 +10,7 @@ Each future-years energy program shall contain the following:
 
 &emsp;(1) The estimated expenditures and proposed appropriations necessary to support programs, projects, and activities of the Secretary of Energy during the 5-fiscal year period covered by the program, expressed in a level of detail comparable to that contained in the budget submitted by the President to Congress under section 1105 of title 31.
 
-&emsp;(2) The estimated expenditures and proposed appropriations shaped by high-level, prioritized program and budgetary guidance that is consistent with the administration's policies and out year budget projections and reviewed by the Department of Energy's (DOE) senior leadership to ensure that the future-years energy program is consistent and congruent with previously established program and budgetary guidance.
+&emsp;(2) The estimated expenditures and proposed appropriations shaped by high-level, prioritized program and budgetary guidancethat is consistent with the administration's policies and out year budget projections and reviewed by the Department of Energy's (DOE) senior leadership to ensure that the future-years energy program is consistent and congruent with previously established program and budgetary guidance.
 
 &emsp;(3) A description of the anticipated workload requirements for each DOE national laboratory during the 5-fiscal year period.
 
@@ -25,6 +25,8 @@ Each future-years energy program shall contain the following:
 &emsp;(B) The total amounts of estimated expenditures and proposed appropriations necessary to support the programs, projects, and activities of the administration included pursuant to paragraph (5) of section 1105(a) of such title in the budget submitted to Congress under that section for any fiscal year.
 
 (Pub. L. 112–74, div. B, title III, §304, Dec. 23, 2011, 125 Stat. 876.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -30,7 +30,7 @@
 
 &emsp;(A) A list of the members of the committee.
 
-&emsp;(B) The assessment of the Under Secretary for Health, after review of the initial findingsof the committee, regarding the capability of the Veterans Health Administration, on a systemwide and facility-by-facility basis, to meet effectively the treatment and rehabilitation needs of severely chronically mentally ill veterans who are eligible for Department care.
+&emsp;(B) The assessment of the Under Secretary for Health, after review of the initial findings of the committee, regarding the capability of the Veterans Health Administration, on a systemwide and facility-by-facility basis, to meet effectively the treatment and rehabilitation needs of severely chronically mentally ill veterans who are eligible for Department care.
 
 &emsp;(C) The plans of the committee for further assessments.
 

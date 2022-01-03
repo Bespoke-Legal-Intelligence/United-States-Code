@@ -8,6 +8,8 @@ Subpart G—Export Trade Corporations
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(27)(B), Oct. 4, 1976, 90 Stat. 1799, struck out item 972 "Consolidation of group of export trade corporations".

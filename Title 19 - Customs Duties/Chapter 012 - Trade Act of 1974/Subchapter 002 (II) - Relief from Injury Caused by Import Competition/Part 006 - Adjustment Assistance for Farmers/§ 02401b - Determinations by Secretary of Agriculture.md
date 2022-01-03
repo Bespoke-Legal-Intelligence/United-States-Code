@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-As soon as practicable after the date on which a petition is filed under section 2401a of this title, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2401a(c) of this title and shall, if the group meets the requirements, issue a certification of eligibility to apply for assistance under this part covering agricultural commodity producers in any group that meets the requirements. Each certification shall specify the date on which eligibility under this part begins.
+As soon as practicable after the date on which a petition is filed under section 2401a of this title, but in any event not later than 40 days after that date, the Secretary shall determine whether the petitioning group meets the requirements of section 2401a(c) of this title and shall, if the group meets the requirements, issue a certification of eligibility to apply for assistance under this part covering agricultural commodity producers in any group that meets therequirements. Each certification shall specify the date on which eligibility under this part begins.
 
 #### (b) Notice
 
@@ -60,6 +60,8 @@ Not later than January 30 of each year, the Secretary shall submit to the Commit
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
@@ -89,6 +91,8 @@ Subsec. (d). Pub. L. 112–40, §§223(a)(1), 233, temporarily amended subsec. (
 Subsec. (c). Pub. L. 111–5, §§1882(b)(2), 1893, temporarily substituted "decrease in the national average price, quantity of production, or value of production of, or cash receipts for," for "decline in price for". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (d). Pub. L. 111–5, §§1884, 1893, temporarily added subsec. (d). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

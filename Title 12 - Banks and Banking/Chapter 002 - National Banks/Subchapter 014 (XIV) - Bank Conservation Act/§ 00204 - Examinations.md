@@ -10,7 +10,7 @@ The Comptroller of the Currency (in consultation with the Board of Directors of 
 
 <b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "The Comptroller of the Currency shall cause to be made such examinations of the affairs of such bank as shall be necessary to inform him as to the financial condition of such bank, and the examiner shall make a report thereon to the Comptroller of the Currency at the earliest practicable date."
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

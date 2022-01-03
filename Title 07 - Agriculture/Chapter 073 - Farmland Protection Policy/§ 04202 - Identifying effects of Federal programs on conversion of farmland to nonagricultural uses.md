@@ -6,7 +6,7 @@ The Department of Agriculture, in cooperation with other departments, agencies, 
 
 #### (b) Use of criteria to identify
 
-Departments, agencies, independent commissions, and other units of the Federal Government shall use the criteria established under subsection (a) of this section, to identify thequantity of farmland actually converted by Federal programs, and to identify and take into account the adverse effects of Federal programs on the preservation of farmland; consider alternative actions, as appropriate, that could lessen such adverse effects; and assure that such Federal programs, to the extent practicable, are compatible with State, unit of local government, and private programs and policies to protect farmland.
+Departments, agencies, independent commissions, and other units of the Federal Government shall use the criteria established under subsection (a) of this section, to identify the quantity of farmland actually converted by Federal programs, and to identify and take into account the adverse effects of Federal programs on the preservation of farmland; consider alternative actions, as appropriate, that could lessen such adverse effects; and assure that such Federal programs, to the extent practicable, are compatible with State, unit of local government, and private programs and policies to protect farmland.
 
 #### (c) Availability of restorative, etc., information
 
@@ -14,9 +14,13 @@ The Department of Agriculture may make available to States, units of local gover
 
 (Pub. L. 97–98, title XV, §1541, Dec. 22, 1981, 95 Stat. 1342; Pub. L. 101–624, title XIV, §1454, Nov. 28, 1990, 104 Stat. 3614.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted "to identify the quantity of farmland actually converted by Federal programs, and" after "of this section,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

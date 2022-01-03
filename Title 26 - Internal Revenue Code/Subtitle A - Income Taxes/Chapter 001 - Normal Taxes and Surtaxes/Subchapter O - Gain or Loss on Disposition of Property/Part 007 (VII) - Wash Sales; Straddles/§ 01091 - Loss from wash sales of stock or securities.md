@@ -32,6 +32,8 @@ This section shall not fail to apply to a contract or option to acquire or sell 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 319; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–369, div. A, title I, §106(a), (b), July 18, 1984, 98 Stat. 629; Pub. L. 100–647, title V, §5075(a), Nov. 10, 1988, 102 Stat. 3682; Pub. L. 106–554, §1(a)(7) \[title IV, §401(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–649; Pub. L. 107–147, title IV, §412(d)(2), Mar. 9, 2002, 116 Stat. 53.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (e). Pub. L. 107–147 substituted "securities and securities futures contracts to sell" for "securities" in heading, inserted "(or the sale, exchange, or termination of a securities futures contract to sell)" after "closing of a short sale of" in introductory provisions and "(or securities futures contracts to sell)" after "short sale of" in par. (2), and inserted concluding provisions.
@@ -40,11 +42,13 @@ This section shall not fail to apply to a contract or option to acquire or sell 
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 inserted sentence at end defining "stock or securities".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §106(b), substituted "no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and the loss is sustained in a transaction made in the ordinary course of such business" for "no deduction for the loss shall be allowed under section 165(c)(2); nor shall such deduction be allowed a corporation under section 165(a) unless it is a dealer in stocks or securities, and the loss is sustained in a transaction made in the ordinary course of business".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §106(b), substituted "no deduction shall be allowed under section 165 unless the taxpayer is a dealer in stock or securities and theloss is sustained in a transaction made in the ordinary course of such business" for "no deduction for the loss shall be allowed under section 165(c)(2); nor shall such deduction be allowed a corporation under section 165(a) unless it is a dealer in stocks or securities, and the loss is sustained in a transaction made in the ordinary course of business".
 
 Subsec. (e). Pub. L. 98–369, §106(a), added subsec. (e).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

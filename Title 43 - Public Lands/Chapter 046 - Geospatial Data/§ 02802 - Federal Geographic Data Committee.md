@@ -60,7 +60,7 @@ The Committee shall—
 
 &emsp;&emsp;&emsp;(ii) a determination of whether, for each of subparagraphs (A), (B), (C), and (D) of section 2805(b)(3) of this title, each lead covered agency meets expectations, has made progress toward expectations, or fails to meet expectations;
 
-&emsp;&emsp;(B) a summary and evaluation of the achievements of each covered agency, based on the annual report submitted by the covered agency under section 2808(b)(1) of this title, which shall include a determination of whether the covered agency meets expectations, has made progress toward expectations, or fails to meet expectations for each of paragraphs (1) through (13) of section 2808(a) of this title;
+&emsp;&emsp;(B) a summary and evaluation of the achievements of each covered agency, based on the annual report submitted by the covered agency under section 2808(b)(1) of thistitle, which shall include a determination of whether the covered agency meets expectations, has made progress toward expectations, or fails to meet expectations for each of paragraphs (1) through (13) of section 2808(a) of this title;
 
 &emsp;&emsp;(C) a collection of periodic technical publications, management articles, and reports related to the National Spatial Data Infrastructure; and
 

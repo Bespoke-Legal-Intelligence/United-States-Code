@@ -12,7 +12,7 @@ The Peanut Administrative Committee established under Marketing Agreement No. 14
 
 #### (1) Establishment and purpose
 
-&emsp;The Secretary shall establish a Peanut Standards Board for the purpose of advising the Secretary regarding the establishment of quality and handling standards for domestically produced and imported peanuts.
+&emsp;The Secretary shall establish a Peanut Standards Board for the purpose of advisingthe Secretary regarding the establishment of quality and handling standards for domestically produced and imported peanuts.
 
 #### (2) Membership and appointment
 
@@ -99,6 +99,8 @@ Imported peanuts shall be subject to the same quality and handling standards as 
 This section shall take effect with the 2002 crop of peanuts.
 
 (Pub. L. 107–171, title I, §1308, May 13, 2002, 116 Stat. 178; Pub. L. 115–334, title XII, §12517, Dec. 20, 2018, 132 Stat. 5000.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

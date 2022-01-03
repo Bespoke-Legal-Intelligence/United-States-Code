@@ -1,0 +1,4 @@
+### §4370m–12. Repealed. Pub. L. 117–58, div. G, title VIII, §70801(h), Nov. 15, 2021, 135 Stat. 1294
+
+Section, Pub. L. 114–94, div. D, title XLI, §41013, Dec. 4, 2015, 129 Stat. 1761, provided that this subchapter shall terminate 7 years after Dec. 4, 2015.
+

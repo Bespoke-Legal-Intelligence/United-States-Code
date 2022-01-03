@@ -24,7 +24,7 @@ The Secretary may use funds appropriated from the general fund of the Treasury t
 
 #### (d) Assistance procedures; cost and benefits, review; technical assistance; report to Congress; food quality standards contracting procedures
 
-In providing assistance under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 etseq.\] for school lunch and breakfast programs, the Secretary shall establish procedures which will—
+In providing assistance under this chapter and the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] for school lunch and breakfast programs, the Secretary shall establish procedures which will—
 
 &emsp;(1) ensure that the views of local school districts and private nonprofit schools with respect to the type of commodity assistance needed in schools are fully and accurately reflected in reports to the Secretary by the State with respect to State commodity preferences and that such views are considered by the Secretary in the purchase and distribution of commodities and by the States in the allocation of such commodities among schools within the States;
 
@@ -48,7 +48,7 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 (1) As used in this subsection, the term "eligible school district" has the same meaning given such term in section 1581(a) of the Food Security Act of 1985.
 
-(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretary shall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
+(2) In accordance with the terms and conditions of section 1581 of such Act, the Secretaryshall permit an eligible school district to continue to receive assistance in the form of cash or commodity letters of credit assistance, in lieu of commodities, to carry out the school lunch program operated in the district.
 
 #### (h) Notice of irradiated food products
 
@@ -86,7 +86,9 @@ Commodity only schools shall be eligible to receive donated commodities equal in
 
 &emsp;&emsp;(G) schools that offer irradiated food products are encouraged to offer alternatives to irradiated food products as part of the meal plan used by the schools.
 
-(June 4, 1946, ch. 281, §14, as added Pub. L. 93–326, §2, June 30, 1974, 88 Stat. 286; amended Pub. L. 94–105, §10, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §6, Nov. 10, 1977, 91 Stat. 1334; Pub. L. 95–627, §12(b), Nov. 10, 1978, 92 Stat. 3625; Pub. L. 96–499, title II, §202(c), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§813(a), 819(j), Aug. 13, 1981, 95 Stat. 530, 533; Pub. L. 98–459, title VIII, §801(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–500, title III, §§312, 363, Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, and Pub. L. 99–591, title III, §§312, 363, Oct. 30, 1986, 100 Stat. 3341–363, 3341–371; Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, Nov. 14, 1986, 100 Stat. 4071, 4079; Pub. L. 100–356, §2, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), Nov. 10, 1989, 103 Stat. 882; Pub. L. 103–448, title I, §115, Nov. 2,1994, 108 Stat. 4713; Pub. L. 104–193, title VII, §707, Aug. 22, 1996, 110 Stat. 2293; Pub. L. 105–336, title I, §§101(b), 106, Oct. 31, 1998, 112 Stat. 3144, 3149; Pub. L. 108–134, §4, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §4, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§117, 118, June 30, 2004, 118 Stat. 752; Pub. L. 111–296, title IV, §441(a)(6), Dec. 13, 2010, 124 Stat. 3264.)
+(June 4, 1946, ch. 281, §14, as added Pub. L. 93–326, §2, June 30, 1974, 88 Stat. 286; amended Pub. L. 94–105, §10, Oct. 7, 1975, 89 Stat. 515; Pub. L. 95–166, §6, Nov. 10, 1977, 91 Stat. 1334; Pub. L. 95–627, §12(b), Nov. 10, 1978, 92 Stat. 3625; Pub. L. 96–499, title II, §202(c), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§813(a), 819(j), Aug. 13, 1981, 95 Stat. 530, 533; Pub. L. 98–459, title VIII, §801(a), Oct. 9, 1984, 98 Stat. 1792; Pub. L. 99–500, title III, §§312, 363, Oct. 18, 1986, 100 Stat. 1783–360, 1783–368, and Pub. L. 99–591, title III, §§312, 363, Oct. 30, 1986, 100 Stat. 3341–363, 3341–371; Pub. L. 99–661, div. D, title I, §4102, title IV, §4403, Nov. 14, 1986, 100 Stat. 4071, 4079; Pub. L. 100–356, §2, June 28, 1988, 102 Stat. 669; Pub. L. 101–147, title I, §103(a)–(b)(2)(A), (c), Nov. 10, 1989, 103 Stat. 882; Pub. L. 103–448, title I, §115, Nov. 2, 1994, 108 Stat. 4713; Pub. L. 104–193, title VII, §707, Aug. 22, 1996, 110 Stat. 2293; Pub. L. 105–336, title I, §§101(b), 106, Oct. 31, 1998, 112 Stat. 3144, 3149; Pub. L. 108–134, §4, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §4, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title I, §§117, 118, June 30, 2004, 118 Stat. 752; Pub. L. 111–296, title IV, §441(a)(6), Dec. 13, 2010, 124 Stat. 3264.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -171,6 +173,8 @@ Subsec. (f). Pub. L. 97–35, §813(a), added subsec. (f).
 Subsecs. (c) to (e). Pub. L. 95–166, §6(2), added subsecs. (c) to (e).
 
 <b>1975</b>—Pub. L. 94–105 designated existing provisions as subsec. (a), substituted "September 30, 1977" for "June 30, 1975", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

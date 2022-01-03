@@ -20,7 +20,7 @@ The requirements of this part shall not apply to any group health plan (and grou
 
 #### (2) Noncoordinated, excepted benefits
 
-&emsp;The requirements of this part shall not apply to any group health plan (and grouphealth insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(3) of this title if all of the following conditions are met:
+&emsp;The requirements of this part shall not apply to any group health plan (and group health insurance coverage offered in connection with a group health plan) in relation to its provision of excepted benefits described in section 1191b(c)(3) of this title if all of the following conditions are met:
 
 &emsp;&emsp;(A) The benefits are provided under a separate policy, certificate, or contract of insurance.
 

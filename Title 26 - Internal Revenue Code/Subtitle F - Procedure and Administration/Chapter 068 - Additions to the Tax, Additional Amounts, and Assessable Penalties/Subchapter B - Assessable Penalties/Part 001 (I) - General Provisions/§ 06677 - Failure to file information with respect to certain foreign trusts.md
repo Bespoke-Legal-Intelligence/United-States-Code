@@ -38,6 +38,8 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 (Added Pub. L. 87–834, §7(g), Oct. 16, 1962, 76 Stat. 988; amended Pub. L. 91–172, title I, §101(j)(53), Dec. 30, 1969, 83 Stat. 531; Pub. L. 93–406, title II, §1016(a)(21), Sept. 2, 1974, 88 Stat. 931; Pub. L. 94–455, title X, §1013(d)(2), Oct. 4, 1976, 90 Stat. 1616; Pub. L. 104–188, title I, §1901(b), Aug. 20, 1996, 110 Stat. 1907; Pub. L. 111–147, title V, §535(a), Mar. 18, 2010, 124 Stat. 115.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–147, in concluding provisions, inserted "the greater of $10,000 or" before "35 percent" and substituted "At such time as the gross reportable amount with respect to any failure can be determined by the Secretary, any subsequent penalty imposed under this subsection with respect to such failure shall be reduced as necessary to assure that the aggregate amount of such penalties do not exceed the gross reportable amount (and to the extent that such aggregate amount already exceeds the gross reportable amount the Secretary shall refund such excess to the taxpayer)." for "In no event shall the penalty under this subsection with respect to any failure exceed the gross reportable amount."
@@ -50,13 +52,15 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 <b>1969</b>—Subsec. (b). Pub. L. 91–172 inserted reference to chapter 42 taxes.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–147, title V, §535(b), Mar. 18, 2010, 124 Stat. 115, provided that: "The amendments made by this section \[amending this section\] shall apply to notices and returns required to be filed after December 31, 2009."
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportableevents (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section 1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
+Amendment by Pub. L. 104–188, to the extent related to section 6048(a) of this title, applicable to reportable events (as defined in such section) occurring after Aug. 20, 1996, to the extent related to section 6048(b) of this title, applicable to taxable years of United States persons beginning after Dec. 31, 1995, and to the extent related to section 6048(c) of this title, applicable to distributions received after Aug. 20, 1996, see section 1901(d) of Pub. L. 104–188, set out as a note under section 6048 of this title.
 
 #### Effective Date of 1976 Amendment
 

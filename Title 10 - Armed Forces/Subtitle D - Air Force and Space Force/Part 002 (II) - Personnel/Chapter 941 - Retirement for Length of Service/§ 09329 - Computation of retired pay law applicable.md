@@ -20,6 +20,8 @@ Historical and Revision Notes
 
 The revised section is based on the various retirement provisions in this chapter and is inserted to make explicit the entitlement to retired pay upon retirement.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 9331 to 9336 were renumbered sections 9431 to 9436 of this title, respectively.
@@ -33,6 +35,8 @@ A prior section 9338 was renumbered section 9438 of this title.
 <b>2021</b>—Pub. L. 116–283 inserted "or the Space Force" after "Air Force".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8929 of this title as this section and substituted "chapter 945" for "chapter 871".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

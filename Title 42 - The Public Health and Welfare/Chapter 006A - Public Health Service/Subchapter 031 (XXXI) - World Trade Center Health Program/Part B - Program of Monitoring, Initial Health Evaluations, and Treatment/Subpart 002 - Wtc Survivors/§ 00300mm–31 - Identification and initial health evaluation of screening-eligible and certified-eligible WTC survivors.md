@@ -94,7 +94,7 @@
 
 #### (I) Currently identified survivors
 
-&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in paragraph (1)(A)(i), the WTCProgram Administrator shall provide the certification under clause (i) not later than July 1, 2011.
+&emsp;&emsp;&emsp;&emsp;In the case of an individual who is described in paragraph (1)(A)(i), the WTC Program Administrator shall provide the certification under clause (i) not later than July 1, 2011.
 
 #### (II) Other members
 
@@ -138,11 +138,15 @@
 
 (July 1, 1944, ch. 373, title XXXIII, §3321, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3648; amended Pub. L. 114–113, div. O, title III, §302(f), Dec. 18, 2015, 129 Stat. 3000; Pub. L. 116–59, div. B, title VI, §1602(b), Sept. 27, 2019, 133 Stat. 1107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(3)(A). Pub. L. 116–59 substituted "75,000" for "25,000".
 
 <b>2015</b>—Subsec. (a)(3)(B)(i)(II). Pub. L. 114–113 struck out "through the end of fiscal year 2020" after "certifications".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Rule of Construction
 

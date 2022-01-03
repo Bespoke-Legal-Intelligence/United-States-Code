@@ -16,6 +16,8 @@ Funds made available pursuant to this subpart may not be used for the general op
 
 (Pub. L. 89–329, title VII, §715, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1793; amended Pub. L. 110–315, title VII, §703(c), Aug. 14, 2008, 122 Stat. 3346.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1134q of this title, prior to repeal by Pub. L. 105–244.
@@ -26,7 +28,7 @@ A prior section 715 of Pub. L. 89–329 was classified to section 1132b–4 of t
 
 A prior section 1135d–1, Pub. L. 89–329, title X, §1042, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564, which related to grant applications, was renumbered section 362 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067h of this title.
 
-A prior section 1135d–2, Pub. L. 89–329, title X, §1043, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564, and amended, which related to cross program and cross agency cooperation, was renumbered section 363 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067i of this title.
+A prior section 1135d–2, Pub. L. 89–329, title X, §1043, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100Stat. 1564, and amended, which related to cross program and cross agency cooperation, was renumbered section 363 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067i of this title.
 
 A prior section 1135d–3, Pub. L. 89–329, title X, §1044, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1564, which contained administrative provisions, was renumbered section 364 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067j of this title.
 

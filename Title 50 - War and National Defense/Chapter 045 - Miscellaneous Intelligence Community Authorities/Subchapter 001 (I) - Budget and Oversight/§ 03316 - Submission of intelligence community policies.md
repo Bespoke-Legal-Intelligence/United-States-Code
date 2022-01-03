@@ -34,6 +34,8 @@ In this section:
 
 (Pub. L. 116–92, div. E, title LXIII, §6315, Dec. 20, 2019, 133 Stat. 2194.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 For definitions of "intelligence community" and "congressional intelligence committees", referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of this title.

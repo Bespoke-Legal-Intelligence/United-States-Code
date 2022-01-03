@@ -28,6 +28,8 @@ Duties.—The individual designated as the head of the National Deployment Offic
 
 (Added Pub. L. 115–254, div. K, title I, §1988(a), Oct. 5, 2018, 132 Stat. 3622.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Career Development
 
 Pub. L. 115–254, div. K, title I, §1988(d), Oct. 5, 2018, 132 Stat. 3623, provided that: "The Administrator \[of the Transportation Security Administration\] may consider service in the National Deployment Force as a positive factor when evaluating applicants for promotion opportunities within the TSA \[Transportation Security Administration\]."

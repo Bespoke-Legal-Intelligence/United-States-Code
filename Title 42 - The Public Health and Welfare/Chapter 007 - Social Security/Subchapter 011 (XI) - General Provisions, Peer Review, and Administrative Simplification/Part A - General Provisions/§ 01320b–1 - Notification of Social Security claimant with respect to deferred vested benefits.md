@@ -24,6 +24,8 @@
 
 (Aug. 14, 1935, ch. 531, title XI, §1131, as added Pub. L. 93–406, title II, §1032, Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 98–369, div. B, title VI, §2663(e)(7), July 18, 1984, 98 Stat. 1168; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(b)(11), Aug. 15, 1994, 108 Stat. 1484.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A), is classified generally to Title 26, Internal Revenue Code.
@@ -45,6 +47,8 @@ Subsec. (b)(2). Pub. L. 103–296, §108(b)(11)(A), substituted "Commissioner of
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §2663(e)(7)(B), realigned margin of provisions following par. (2)(B).
 
 Subsec. (a)(2)(B). Pub. L. 98–369, §2663(e)(7)(A), substituted a comma for the period after "section 404(d) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

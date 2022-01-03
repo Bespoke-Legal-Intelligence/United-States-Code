@@ -105,6 +105,8 @@ If—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 373; Pub. L. 94–455, title XX, §2001(a)(1), Oct. 4, 1976, 90 Stat. 1846; Pub. L. 95–600, title VII, §702(h)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §402(a)–(c), Aug. 13, 1981, 95 Stat. 300; Pub. L. 98–369, div. A, title I, §21(a), July 18, 1984, 98 Stat. 506; Pub. L. 100–203, title X, §10401(a)–(b)(2)(A), Dec. 22, 1987, 101 Stat. 1330–430, 1330–431; Pub. L. 103–66, title XIII, §13208(a)–(b)(2), Aug. 10, 1993, 107 Stat. 469; Pub. L. 105–34, title V, §§501(a)(1)(D), 506(a), Aug. 5, 1997, 111 Stat. 845, 855; Pub. L. 105–206, title VI, §6007(e)(2)(B), July 22, 1998, 112 Stat. 810; Pub. L. 105–277, div. J, title IV, §4003(c), Oct. 21, 1998, 112 Stat. 2681–909; Pub. L. 107–16, title V, §511(a)–(c), June 7, 2001, 115 Stat. 70; Pub. L. 111–312, title III, §302(a)(2), (d)(1), Dec. 17, 2010, 124 Stat. 3301, 3302; Pub. L. 112–240, title I, §101(c)(1), Jan. 2, 2013, 126 Stat. 2317; Pub. L. 115–97, title I, §11061(b), Dec. 22, 2017, 131 Stat. 2091.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (g). Pub. L. 115–97 amended subsec. (g) generally. Prior to amendment, text read as follows: "For purposes of applying subsection (b)(2) with respect to 1 or more gifts, the rates of tax under subsection (c) in effect at the decedent's death shall, in lieu of the rates of tax in effect at the time of such gifts, be used both to compute—
@@ -169,6 +171,8 @@ Subsec. (c). Pub. L. 97–34, §402(a), (b)(1), designated existing provision as
 
 <b>1976</b>—Pub. L. 94–455 substituted provisions setting a unified rate schedule for estate and gift taxes ranging from 18 percent for the first $10,000 in taxable transfers to 70 percent of taxable transfers in excess of $5,000,000, with provision for adjustments for gift taxes paid by spouses, for provisions setting an estate tax of 3 percent of the first $5,000 of the taxable estate to 77 percent of the taxable estate in excess of $10,000,000.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §11061(c), Dec. 22, 2017, 131 Stat. 2091, provided that: "The amendments made by this section \[amending this section and section 2010 of this title\] shall apply to estates of decedents dying and gifts made after December 31, 2017."
@@ -211,7 +215,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: "The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601 of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997."
+Pub. L. 105–34, title V, §501(f), Aug. 5, 1997, 111 Stat. 847, as amended by Pub. L. 105–206, title VI, §6007(a)(2), July 22, 1998, 112 Stat. 807, provided that: "The amendments made by this section \[amending this section and sections 2010, 2032A, 2102, 2503, 2505, 2631, 6018, and 6601of this title\] (other than the amendment made by subsection (d) \[amending section 2631 of this title\]) shall apply to the estates of decedents dying, and gifts made, after December 31, 1997."
 
 Pub. L. 105–34, title V, §506(e)(1), Aug. 5, 1997, 111 Stat. 856, as amended by Pub. L. 105–206, title VI, §6007(e)(1), July 22, 1998, 112 Stat. 809, provided that: "The amendments made by subsections (a), (c), and (d) \[enacting section 7477 of this title and amending this section and section 2504 of this title\] shall apply to gifts made after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
@@ -265,7 +269,7 @@ In general.—The provisions of subsection (a) shall apply to the estates of dec
 
 &emsp;"(2)
 
-Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estateor gift tax return showing such transfer as subject to Federal estate or gift tax.
+Treatment of certain transfers treated as taxable.—The provisions of subsection (a) shall also apply in the case of any transfer of property (or interest therein) if at any time there was filed an estate or gift tax return showing such transfer as subject to Federal estate or gift tax.
 
 &emsp;"(3)
 

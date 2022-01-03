@@ -98,7 +98,7 @@ Beginning 1 year after November 27, 2013, a facility of a third-party logistics 
 
 #### (e) Validity
 
-A license issued under this section shall remain valid as long as such third-party logistics provider remains licensed consistent with this section. If the Secretary finds that the third-party accreditation program demonstrates thatall applicable requirements for licensure under this section are met, the Secretary shall issue a license under this section to a third-party logistics provider receiving accreditation, pursuant to subsection (d)(2)(A).
+A license issued under this section shall remain valid as long as such third-party logistics provider remains licensed consistent with this section. If the Secretary finds that the third-party accreditation program demonstrates that all applicable requirements for licensure under this section are met, the Secretary shall issue a license under this section to a third-party logistics provider receiving accreditation, pursuant to subsection (d)(2)(A).
 
 (June 25, 1938, ch. 675, §584, as added Pub. L. 113–54, title II, §205, Nov. 27, 2013, 127 Stat. 636.)
 

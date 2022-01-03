@@ -16,7 +16,7 @@ Upon the request of the Administrator, the head of any Federal agency is authori
 
 The Administrator may obtain services as authorized by section 3109 of title 5, at rates not to exceed the rate now or hereafter payable under section 5376 of title 5.
 
-(Pub. L. 93–415, title II, §202, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 95–115, §3(a)(3)(A), Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §19(c), Dec. 8, 1980, 94 Stat. 2763; Pub. L. 98–473, title II, §621, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 102–586, §2(b), Nov. 4,1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12221(a)(1), Nov. 2, 2002, 116 Stat. 1894.)
+(Pub. L. 93–415, title II, §202, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 95–115, §3(a)(3)(A), Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §19(c), Dec. 8, 1980, 94 Stat. 2763; Pub. L. 98–473, title II, §621, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 102–586, §2(b), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12221(a)(1), Nov. 2, 2002, 116 Stat. 1894.)
 
 #### <b>Editorial Notes</b>
 

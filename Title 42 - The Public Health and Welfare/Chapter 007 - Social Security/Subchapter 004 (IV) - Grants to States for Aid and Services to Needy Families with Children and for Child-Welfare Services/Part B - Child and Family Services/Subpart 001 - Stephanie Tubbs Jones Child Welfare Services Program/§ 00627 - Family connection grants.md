@@ -8,7 +8,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 &emsp;&emsp;(A) shall be coordinated with other State or local agencies that promote service coordination or provide information and referral services, including the entities that provide 2–1–1 or 3–1–1 information systems where available, to avoid duplication or fragmentation of services to kinship care families;
 
-&emsp;&emsp;(B) shall be planned and operated in consultation with kinship caregivers and organizations representing them, youth raised by kinship caregivers, relevant governmentagencies, and relevant community-based or faith-based organizations;
+&emsp;&emsp;(B) shall be planned and operated in consultation with kinship caregivers and organizations representing them, youth raised by kinship caregivers, relevant government agencies, and relevant community-based or faith-based organizations;
 
 &emsp;&emsp;(C) shall establish information and referral systems that link (via toll-free access) kinship caregivers, kinship support group facilitators, and kinship service providers to—
 
@@ -44,7 +44,7 @@ The Secretary of Health and Human Services may make matching grants to State, lo
 
 #### (b) Applications
 
-An entity desiring to receive a matching grant under this section shall submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
+An entity desiring to receive a matching grant under this section shall submit to the Secretaryan application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 &emsp;(1) a description of how the grant will be used to implement 1 or more of the activities described in subsection (a);
 
@@ -96,9 +96,11 @@ A grantee under this section shall use the grant in accordance with the approved
 
 #### (h) Appropriation
 
-Out of any money in the Treasury of the United States not otherwise appropriated, thereare appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2014.
+Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for purposes of making grants under this section $15,000,000 for each of fiscal years 2009 through 2014.
 
 (Aug. 14, 1935, ch. 531, title IV, §427, as added Pub. L. 110–351, title I, §102(a), Oct. 7, 2008, 122 Stat. 3953; amended Pub. L. 113–183, title II, §221(a)–(d), Sept. 29, 2014, 128 Stat. 1942, 1943.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -113,6 +115,8 @@ Subsec. (a)(1)(E). Pub. L. 113–183, §221(c), inserted "and other individuals 
 Subsec. (g)(1) to (3). Pub. L. 113–183, §221(d), redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "The Secretary shall reserve $5,000,000 of the funds made available under subsection (h) for each fiscal year for grants to implement kinship navigator programs described in subsection (a)(1)."
 
 Subsec. (h). Pub. L. 113–183, §221(a), substituted "2014" for "2013".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

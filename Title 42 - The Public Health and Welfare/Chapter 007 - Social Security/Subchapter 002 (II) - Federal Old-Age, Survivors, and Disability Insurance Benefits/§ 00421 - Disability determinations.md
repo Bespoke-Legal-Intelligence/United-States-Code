@@ -10,7 +10,7 @@
 
 &emsp;(B) the physical location of and relationship among agency staff units, and other individuals or organizations performing tasks for the State agency, and standards for the availability to applicants and beneficiaries of facilities for making disability determinations,
 
-&emsp;(C) State agency performance criteria, including the rate of accuracy of decisions, the time periods within which determinations must be made, the procedures for and the scope of review by the Commissioner of Social Security, and, as the Commissioner finds appropriate, by the State, of its performance in individual cases and in classes of cases, and rules governing access of appropriate Federal officials to State offices and to State records relating to its administration of the disability determination function,
+&emsp;(C) State agency performance criteria, including the rate of accuracy of decisions, the time periods within which determinations must be made, the procedures for and the scope of review by the Commissioner of SocialSecurity, and, as the Commissioner finds appropriate, by the State, of its performance in individual cases and in classes of cases, and rules governing access of appropriate Federal officials to State offices and to State records relating to its administration of the disability determination function,
 
 &emsp;(D) fiscal control procedures that the State agency may be required to adopt, and
 
@@ -20,7 +20,7 @@
 
 #### (b) Determinations by Commissioner
 
-(1) If the Commissioner of Social Security finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with the Commissioner's regulations and other written guidelines, the Commissioner of Social Security shall, not earlier than 180 days following the Commissioner's finding, andafter the Commissioner has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1).
+(1) If the Commissioner of Social Security finds, after notice and opportunity for a hearing, that a State agency is substantially failing to make disability determinations in a manner consistent with the Commissioner's regulations and other written guidelines, the Commissioner of Social Security shall, not earlier than 180 days following the Commissioner's finding, and after the Commissioner has complied with the requirements of paragraph (3), make the disability determinations referred to in subsection (a)(1).
 
 (2) If a State, having notified the Commissioner of Social Security of its intent to make disability determinations under subsection (a)(1), no longer wishes to make such determinations, it shall notify the Commissioner of Social Security in writing of that fact, and, if an agency of the State is making disability determinations at the time such notice is given, it shall continue to do so for not less than 180 days, or (if later) until the Commissioner of Social Security has complied with the requirements of paragraph (3). Thereafter, the Commissioner of Social Security shall make the disability determinations referred to in subsection (a)(1).
 
@@ -72,11 +72,11 @@ An initial determination under subsection (a), (c), (g), or (i) shall not be mad
 
 (1) In any case where an individual is or has been determined to be under a disability, the case shall be reviewed by the applicable State agency or the Commissioner of Social Security (as may be appropriate), for purposes of continuing eligibility, at least once every 3 years, subject to paragraph (2); except that where a finding has been made that such disability is permanent, such reviews shall be made at such times as the Commissioner of Social Security determines to be appropriate. Reviews of cases under the preceding sentence shall be in addition to, and shall not be considered as a substitute for, any other reviews which are required or provided for under or in the administration of this subchapter.
 
-(2) The requirement of paragraph (1) that cases be reviewed at least every 3 years shall not apply to the extent that the Commissioner of Social Security determines, on a State-by-State basis, that such requirement should be waived to insure that only the appropriate number of such cases are reviewed. The Commissioner of Social Security shall determine the appropriate number of cases to be reviewed in each State after consultation with the State agency performing such reviews, based upon the backlog of pending reviews, the projected number of new applications for disability insurance benefits, and the current and projected staffing levels of the State agency, but the Commissioner of Social Security shall provide for a waiver of such requirement only in the case of a State which makes a good faith effort to meet proper staffing requirements for the State agency and to process case reviews in a timely fashion. The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the determinations made by the Commissioner of Social Security under the preceding sentence.
+(2) The requirement of paragraph (1) that cases be reviewed at least every 3 years shall not apply to the extent that the Commissioner of Social Security determines, on a State-by-State basis, that such requirement should be waived to insure that only the appropriate number of such cases are reviewed. The Commissioner of Social Security shall determine the appropriate number of cases to be reviewed in each State after consultation with the State agency performing such reviews, based upon the backlog of pending reviews, the projected number of new applications for disability insurance benefits, and the current and projected staffing levels of the Stateagency, but the Commissioner of Social Security shall provide for a waiver of such requirement only in the case of a State which makes a good faith effort to meet proper staffing requirements for the State agency and to process case reviews in a timely fashion. The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the determinations made by the Commissioner of Social Security under the preceding sentence.
 
 (3) The Commissioner of Social Security shall report annually to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives with respect to the number of reviews of continuing disability carried out under paragraph (1), the number of such reviews which result in an initial termination of benefits, the number of requests for reconsideration of such initial termination or for a hearing with respect to such termination under subsection (d), or both, and the number of such initial terminations which are overturned as the result of a reconsideration or hearing.
 
-(4) In any case in which the Commissioner of Social Security initiates a review under thissubsection of the case of an individual who has been determined to be under a disability, the Commissioner of Social Security shall notify such individual of the nature of the review to be carried out, the possibility that such review could result in the termination of benefits, and the right of the individual to provide medical evidence with respect to such review.
+(4) In any case in which the Commissioner of Social Security initiates a review under this subsection of the case of an individual who has been determined to be under a disability, the Commissioner of Social Security shall notify such individual of the nature of the review to be carried out, the possibility that such review could result in the termination of benefits, and the right of the individual to provide medical evidence with respect to such review.
 
 (5) For suspension of reviews under this subsection in the case of an individual using a ticket to work and self-sufficiency, see section 1320b–19(i) of this title.
 
@@ -120,7 +120,9 @@ The Commissioner of Social Security shall prescribe regulations which set forth,
 
 &emsp;(B) termination of benefits under this subchapter in the event that the individual has earnings that exceed the level of earnings established by the Commissioner to represent substantial gainful activity.
 
-(Aug. 14, 1935, ch. 531, title II, §221, as added Sept. 1, 1954, ch. 1206, title I, §106(g), 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(c)(7), (8), (h), 70 Stat. 818, 823; Pub. L. 90–248, title I, §158(c)(3), (4), Jan. 2, 1968, 81 Stat. 869; Pub. L. 96–265, title III, §§304(a)–(f), 311(a), June 9, 1980, 94 Stat. 453–456, 460; Pub. L. 97–455, §§3(a), 6, Jan. 12, 1983, 96 Stat. 2499, 2500; Pub. L. 98–369, div. B, title VI, §2663(a)(14), July 18, 1984, 98 Stat. 1164; Pub. L. 98–460, §§6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, 98 Stat. 1802, 1804, 1805, 1811; Pub. L. 99–514, title XVIII, §1883(a)(9), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–647, title VIII, §8012(a), Nov. 10, 1988, 102 Stat. 3789; Pub. L. 101–239, title X, §10306(a)(1), Dec. 19, 1989, 103 Stat. 2484; Pub. L. 101–508, title V, §5128(a), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 106–170, title I, §§101(b)(1)(A), 111(a), Dec. 17, 1999, 113 Stat. 1873, 1881; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–74, title VIII, §832(a), Nov. 2, 2015, 129 Stat. 613.)
+(Aug. 14, 1935, ch. 531, title II, §221, as added Sept. 1, 1954, ch. 1206, title I, §106(g), 68 Stat. 1081; amended Aug. 1, 1956, ch. 836, title I, §103(c)(7), (8), (h), 70 Stat. 818, 823; Pub. L. 90–248, title I, §158(c)(3), (4), Jan. 2, 1968, 81 Stat. 869; Pub. L. 96–265, title III, §§304(a)–(f), 311(a), June 9, 1980, 94 Stat. 453–456, 460; Pub. L. 97–455, §§3(a),6, Jan. 12, 1983, 96 Stat. 2499, 2500; Pub. L. 98–369, div. B, title VI, §2663(a)(14), July 18, 1984, 98 Stat. 1164; Pub. L. 98–460, §§6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, 98 Stat. 1802, 1804, 1805, 1811; Pub. L. 99–514, title XVIII, §1883(a)(9), Oct. 22, 1986, 100 Stat. 2916; Pub. L. 100–647, title VIII, §8012(a), Nov. 10, 1988, 102 Stat. 3789; Pub. L. 101–239, title X, §10306(a)(1), Dec. 19, 1989, 103 Stat. 2484; Pub. L. 101–508, title V, §5128(a), Nov. 5, 1990, 104 Stat. 1388–286; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 106–170, title I, §§101(b)(1)(A), 111(a), Dec. 17, 1999, 113 Stat. 1873, 1881; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 114–74, title VIII, §832(a), Nov. 2, 2015, 129 Stat. 613.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -128,7 +130,7 @@ A prior section 421, act Aug. 14, 1935, ch. 531, title II, §221, as added July 
 
 #### Amendments
 
-<b>2015</b>—Subsec. (h). Pub. L. 114–74 amended subsec. (h) generally. Prior to amendment, text read as follows:"An initial determination under subsection (a), (c), (g), or (i) that an individual is not under a disability, in any case where there is evidence which indicates the existence of a mental impairment, shall be made only if the Commissioner of Social Security has made every reasonable effort to ensure that a qualified psychiatrist or psychologist has completed the medical portion of the case review and any applicable residual functional capacity assessment."
+<b>2015</b>—Subsec. (h). Pub. L. 114–74 amended subsec. (h) generally. Prior to amendment, text read as follows: "An initial determination under subsection (a), (c), (g), or (i) that an individual is not under a disability, in any case where there is evidence which indicates the existence of a mental impairment, shall be made only if the Commissioner of Social Security has made every reasonable effort to ensure that a qualified psychiatrist or psychologist has completed the medical portion of the case review and any applicable residual functional capacity assessment."
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
@@ -198,6 +200,8 @@ Subsec. (e). Act Aug. 1, 1956, §103(h), substituted "Trust Funds" for "Trust Fu
 
 Subsec. (f). Act Aug. 1, 1956, §103(h), substituted "Trust Funds" for "Trust Fund".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–74, title VIII, §832(b), Nov. 2, 2015, 129 Stat. 613, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of disability made on or after the date that is 1 year after the date of the enactment of this Act \[Nov. 2, 2015\]."
@@ -264,7 +268,7 @@ Pub. L. 114–74, title VIII, §845(b), Nov. 2, 2015, 129 Stat. 618, provided th
 
 "The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the number of work-related continuing disability reviews conducted each year to determine whether earnings derived from services demonstrate an individual's ability to engage in substantial gainful activity. Such report shall include—
 
-&emsp;"(1) the number of individuals receiving benefits based on disability under title II of such Act \[probably means title II of act Aug. 14, 1935, ch. 531, which is classified to 42 U.S.C. 401 et seq.\] for whom reports of earnings were received from any source by the Commissioner in the previous calendar year, reported as a total number and separately by the source of the report;
+&emsp;"(1) the number of individuals receiving benefits based on disability under title II of such Act \[probably means title II of act Aug. 14, 1935, ch. 531, which is classified to 42 U.S.C. 401 et seq.\] for whom reports of earnings were received from any source by the Commissioner in the previous calendar year, reportedas a total number and separately by the source of the report;
 
 &emsp;"(2) the number of individuals for whom such reports resulted in a determination to conduct a work-related continuing disability review, and the basis on which such determinations were made;
 
@@ -322,7 +326,7 @@ Pub. L. 98–460, §5, Oct. 9, 1984, 98 Stat. 1801, provided that:
 
 #### Institution of Notification System
 
-Pub. L. 98–460, §6(c), Oct. 9, 1984, 98 Stat. 1802, provided that: "The Secretary shall institute a system of notification required by the amendments made by subsections (a) and (b) \[amending this section and section 1383b of this title\] as soon as is practicable after the date of the enactment of this Act \[Oct. 9, 1984\]."
+Pub. L. 98–460, §6(c), Oct. 9, 1984, 98 Stat. 1802, provided that: "The Secretary shall institute a system of notification required by the amendments made by subsections (a) and (b) \[amending this section and section1383b of this title\] as soon as is practicable after the date of the enactment of this Act \[Oct. 9, 1984\]."
 
 #### Demonstration Projects; Opportunity for Personal Appearance Prior to Disability Determinations; Report to Congressional Committees
 
@@ -334,7 +338,7 @@ Pub. L. 98–460, §9(a)(2), Oct. 9, 1984, 98 Stat. 1805, provided that: "The Se
 
 #### Frequency of Continuing Eligibility Reviews
 
-Pub. L. 98–460, §15, Oct. 9, 1984, 98 Stat. 1808, provided that: "The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviewsunder section 221(i) of the Social Security Act \[42 U.S.C. 421(j)\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act."
+Pub. L. 98–460, §15, Oct. 9, 1984, 98 Stat. 1808, provided that: "The Secretary of Health and Human Services shall promulgate final regulations, within 180 days after the date of the enactment of this Act \[Oct. 9, 1984\], which establish the standards to be used by the Secretary in determining the frequency of reviews under section 221(i) of the Social Security Act \[42 U.S.C. 421(j)\]. Until such regulations have been issued as final regulations, no individual may be reviewed more than once under section 221(i) of the Social Security Act."
 
 #### Travel Expenses for Medical Examinations, Reconsideration Interviews, and Proceedings Before Administrative Law Judges
 

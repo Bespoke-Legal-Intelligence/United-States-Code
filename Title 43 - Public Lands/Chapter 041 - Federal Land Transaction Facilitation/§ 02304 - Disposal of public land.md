@@ -6,7 +6,7 @@ The Secretary shall establish a program, using funds made available under sectio
 
 &emsp;(1) to complete appraisals and satisfy other legal requirements for the sale or exchange of public land identified for disposal under approved land use plans under section 1712 of this title;
 
-&emsp;(2) not later than 180 days after March 23, 2018, to establish and make available to thepublic, on the website of the Department of the Interior, a database containing a comprehensive list of all the land referred to in paragraph (1); and
+&emsp;(2) not later than 180 days after March 23, 2018, to establish and make available to the public, on the website of the Department of the Interior, a database containing a comprehensive list of all the land referred to in paragraph (1); and
 
 &emsp;(3) to maintain the database referred to in paragraph (2).
 

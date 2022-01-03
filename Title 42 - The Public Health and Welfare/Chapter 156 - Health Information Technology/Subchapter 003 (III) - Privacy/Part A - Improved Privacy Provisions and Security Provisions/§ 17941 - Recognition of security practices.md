@@ -22,11 +22,11 @@ Consistent with the authority of the Secretary under sections 1320d–5 and 1320
 
 #### (3) No liability for nonparticipation
 
-&emsp;Subject to paragraph (4), nothing in this section shall be construed to subject a coveredentity or business associate to liability for electing not to engage in the recognized security practices defined by this section.
+&emsp;Subject to paragraph (4), nothing in this section shall be construed to subject a covered entity or business associate to liability for electing not to engage in the recognized security practices defined by this section.
 
 #### (4) Rule of construction
 
-&emsp;Nothing in this section shall be construed to limit the Secretary's authority to enforce the HIPAA Security rule (part 160 of title 45 Code of Federal Regulations and subparts A and C of part 164 of such title), or to supersede or conflict with an entity or business associate's obligations under the HIPAA Security rule.
+&emsp;Nothing in this section shall be construed to limit the Secretary's authority to enforce the HIPAA Security rule (part 160 of title 45 Code of Federal Regulations and subparts A and C of part 164 of such title), or to supersede orconflict with an entity or business associate's obligations under the HIPAA Security rule.
 
 (Pub. L. 111–5, div. A, title XIII, §13412, as added Pub. L. 116–321, §1, Jan. 5, 2021, 134 Stat. 5072.)
 

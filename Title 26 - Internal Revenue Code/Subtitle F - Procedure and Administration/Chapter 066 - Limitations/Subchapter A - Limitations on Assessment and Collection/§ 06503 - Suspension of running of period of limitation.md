@@ -44,7 +44,7 @@ The running of the period of limitations for collection of the tax attributable 
 
 #### (g) Suspension pending correction
 
-The running of the periods of limitations provided in sections 6501 and 6502 on the making of assessments or the collection by levy or a proceeding in court in respect of any tax imposed by chapter 42 or section 507, 4971, or 4975 shall be suspended for any period described in section 507(g)(2) or during which the Secretary has extended the time for making correction under section 4963(e).
+The running of the periods of limitations provided in sections 6501 and 6502 on the making ofassessments or the collection by levy or a proceeding in court in respect of any tax imposed by chapter 42 or section 507, 4971, or 4975 shall be suspended for any period described in section 507(g)(2) or during which the Secretary has extended the time for making correction under section 4963(e).
 
 #### (h) Cases under title 11 of the United States Code
 
@@ -94,7 +94,7 @@ The running of any period of limitations for collection of any amount of undistr
 
 #### (B) Limitation
 
-&emsp;&emsp;A summons which relates to any return shall not be treated as a designated summons if a prior summons which relates tosuch return was treated as a designated summons for purposes of this subsection.
+&emsp;&emsp;A summons which relates to any return shall not be treated as a designated summons if a prior summons which relates to such return was treated as a designated summons for purposes of this subsection.
 
 #### (3) Judicial enforcement period
 
@@ -122,7 +122,9 @@ The running of any period of limitations for collection of any amount of undistr
 
 &emsp;&emsp;&emsp;<b>(5) Deficiency dividends in the case of a regulated investment company or a real estate investment trust, see section 860(h).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719, title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L. 96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201; Pub. L. 114–74, title XI, §1101(f)(4), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(296), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–25, title I, §1207(a)–(c), July 1, 2019, 133 Stat. 990, 991.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 806; Aug. 6, 1956, ch. 1020, §2, 70 Stat. 1075; Pub. L. 85–866, title II, §206(d), Sept. 2, 1958, 72 Stat. 1685; Pub. L. 89–384, §1(e), Apr. 8, 1966, 80 Stat. 104; Pub. L. 89–719, title I, §106, Nov. 2, 1966, 80 Stat. 1139; Pub. L. 91–172, title I, §101(g)(4), (j)(46), Dec. 30, 1969, 83 Stat. 525, 531; Pub. L. 93–406, title II, §1016(a)(15), Sept. 2, 1974, 88 Stat. 930; Pub. L. 94–452, §3(b), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XII, §1203(h)(1), title XVI, §1601(f)(2), title XIX, §§1902(b)(2)(A), 1906(b)(13)(A), title XX, §2004(c)(4), Oct. 4, 1976, 90 Stat. 1694, 1746, 1806, 1834, 1868; Pub. L. 95–227, §4(d)(6), Feb. 10, 1978, 92 Stat. 23; Pub. L. 95–600, title III, §362(d)(5), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 96–222, title I, §108(b)(1)(A), Apr. 1, 1980, 94 Stat. 226; Pub. L.96–589, §6(a), (i)(11), Dec. 24, 1980, 94 Stat. 3407, 3411; Pub. L. 96–596, §2(a)(4)(D), (E), Dec. 24, 1980, 94 Stat. 3472; Pub. L. 97–34, title IV, §422(e)(7), Aug. 13, 1981, 95 Stat. 316; Pub. L. 98–369, div. A, title III, §305(b)(4), July 18, 1984, 98 Stat. 784; Pub. L. 99–514, title XII, §1235(d), title XVIII, §1875(d)(2)(B)(ii), Oct. 22, 1986, 100 Stat. 2575, 2896; Pub. L. 100–203, title X, §10712(c)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 101–508, title XI, §§11311(a), 11801(c)(20)(A), Nov. 5, 1990, 104 Stat. 1388–453, 1388–528; Pub. L. 104–168, title X, §1002(a)–(c), July 30, 1996, 110 Stat. 1468; Pub. L. 104–188, title I, §1702(h)(17), Aug. 20, 1996, 110 Stat. 1874; Pub. L. 105–34, title XII, §1237(c)(2), Aug. 5, 1997, 111 Stat. 1026; Pub. L. 105–206, title III, §3106(b)(3), July 22, 1998, 112 Stat. 734; Pub. L. 110–28, title VIII, §8246(a)(2)(E), May 25, 2007, 121 Stat. 201; Pub. L. 114–74, title XI, §1101(f)(4), Nov. 2, 2015, 129 Stat. 638; Pub. L. 115–141, div. U, title IV, §401(a)(296), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–25, title I, §1207(a)–(c), July 1, 2019, 133 Stat. 990, 991.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -158,7 +160,7 @@ Subsec. (j)(4). Pub. L. 116–25, §1207(c), added par. (4).
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (k) be redesignated as (j), could not be executed, because that subsection was redesignated (j) by Pub. L. 101–508, §11801(c)(20)(A). See 1990 Amendment note below.
 
-Subsec. (j)(1). Pub. L. 104–168, §1002(b), which directed substitution of "to a corporation (or to any other person to whom the corporation has transferred records)with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service" for "with respect to any return of tax by a corporation" in subsec. (k)(1), was executed by making the substitution in subsec. (j)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
+Subsec. (j)(1). Pub. L. 104–168, §1002(b), which directed substitution of "to a corporation (or to any other person to whom the corporation has transferred records) with respect to any return of tax by such corporation for a taxable year (or other period) for which such corporation is being examined under the coordinated examination program (or any successor program) of the Internal Revenue Service" for "with respect to any return of tax by a corporation" in subsec. (k)(1), was executed by making the substitution in subsec. (j)(1) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
 
 Subsec. (j)(2)(A). Pub. L. 104–168, §1002(a), which directed addition of cl. (i) and redesignation of former cls. (i) and (ii) as (ii) and (iii), respectively, in subsec. (k)(2)(A), was executed by making the amendment in subsec. (j)(2)(A) to reflect the probable intent of Congress and the amendment by Pub. L. 101–508, §11801(c)(20)(A), which redesignated subsec. (k) as (j). See 1990 Amendment note below.
 
@@ -172,7 +174,7 @@ Subsec. (l). Pub. L. 104–188, §1702(h)(17)(B), redesignated the subsection re
 
 Pub. L. 104–168, §1002(c), which directed that subsec. (l) be redesignated as (k), could not be executed, because that subsection was redesignated (k) by Pub. L. 104–188, §1702(h)(17). See above and see Effective Date of 1996 Amendments note below.
 
-<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) "Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970" which read as follows: "The running of the period of limitations for collection of the tax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax."
+<b>1990</b>—Subsecs. (h) to (j). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) "Extension of time for collecting tax attributable to divestitures pursuant to Bank Holding Company Act Amendments of 1970" which read as follows: "The running of the period of limitations for collection of thetax attributable to a sale with respect to which the taxpayer makes an election under section 6158(a) shall be suspended for the period during which there are any unpaid installments of such tax."
 
 Subsec. (k). Pub. L. 101–508, §11801(c)(20)(A), redesignated subsec. (k) as (j).
 
@@ -249,6 +251,8 @@ Subsec. (h). Pub. L. 89–719, §106(c), redesignated former subsec. (g) as (h).
 <b>1958</b>—Subsec. (d). Pub. L. 85–866 struck out "assessment or" after "period of limitations for" and inserted "or under the provisions of section 6166".
 
 <b>1956</b>—Subsecs. (e), (f). Act Aug. 6, 1956, added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

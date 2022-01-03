@@ -4,9 +4,13 @@ As lands or interests in lands are designated from time to time under sections 8
 
 (Apr. 23, 1946, ch. 199, §2, 60 Stat. 118.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of act May 18, 1938, which comprises this chapter.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

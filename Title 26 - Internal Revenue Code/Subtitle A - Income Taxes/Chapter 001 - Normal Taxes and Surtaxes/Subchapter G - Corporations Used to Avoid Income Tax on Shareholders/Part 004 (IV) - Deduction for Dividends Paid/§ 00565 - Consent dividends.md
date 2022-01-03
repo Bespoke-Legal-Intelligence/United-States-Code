@@ -40,6 +40,8 @@ In the case of a consent dividend which, if paid in money would be subject to th
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 200; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsecs. (a), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".

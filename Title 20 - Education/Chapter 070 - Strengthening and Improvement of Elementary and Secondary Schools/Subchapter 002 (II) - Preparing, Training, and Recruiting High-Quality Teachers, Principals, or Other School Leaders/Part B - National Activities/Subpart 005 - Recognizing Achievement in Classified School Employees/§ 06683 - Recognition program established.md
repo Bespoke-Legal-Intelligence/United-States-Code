@@ -62,6 +62,8 @@ The Secretary of Education shall establish a national recognition program to be 
 
 (Pub. L. 116–13, §4, Apr. 12, 2019, 133 Stat. 848.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Recognizing Achievement in Classified School Employees Act, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.

@@ -14,9 +14,13 @@ Agreement With Secretary of Homeland Security.—The Secretary and the Secretary
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 299; amended Pub. L. 107–296, title XVII, §1704(b)(1), (7), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "Homeland Security" for "Transportation" in heading and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

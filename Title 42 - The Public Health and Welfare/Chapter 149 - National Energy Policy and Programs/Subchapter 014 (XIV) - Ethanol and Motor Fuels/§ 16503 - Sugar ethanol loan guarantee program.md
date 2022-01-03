@@ -46,6 +46,8 @@ An applicant for a loan guarantee under this section may provide assurances, sat
 
 (Pub. L. 109–58, title XV, §1516, Aug. 8, 2005, 119 Stat. 1091.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title XIV, referred to in subsec. (a), is title XIV of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 1061, which enacted subchapter XIII of this chapter and section 13557 of this title.

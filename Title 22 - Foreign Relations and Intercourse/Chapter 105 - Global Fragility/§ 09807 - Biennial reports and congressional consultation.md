@@ -2,7 +2,7 @@
 
 #### (a) Biennial reports
 
-Not later than two years after the submission of the plans required in section 9805 of this title, and every two years thereafter until the date that is ten years after the date of submission of such plans, the President, the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of Defense, and the heads of other relevant Federal departments and agencies shall jointly submit to the appropriate congressional committees an unclassified report, which may include a classified annex, on progress made andlessons learned with respect to implementation of the Global Fragility Strategy established pursuant to section 9803 of this title. The report shall include the following elements:
+Not later than two years after the submission of the plans required in section 9805 of this title, and every two years thereafter until the date that is ten years after the date of submission of such plans, the President, the Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of Defense, and the heads of other relevant Federal departments and agencies shall jointly submit to the appropriate congressional committees an unclassified report, which may include a classified annex, on progress made and lessons learned with respect to implementation of the Global Fragility Strategy established pursuant to section 9803 of this title. The report shall include the following elements:
 
 &emsp;(1) Descriptions of steps taken to incorporate the strategy into any relevant, existing country and regional plans or strategies.
 

@@ -78,7 +78,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall publish, by July 1, 1991, a regulation (that shall be effective on an interim basis pending the promulgation of final regulations), and by October 1, 1992, a final regulation, that sets forth interim and final requirements, respectively, consistent with subparagraph (B), to protect the health, safety, and welfare of individuals receiving community supported living arrangements services.
+&emsp;&emsp;The Secretary shall publish, by July 1, 1991, a regulation (that shall be effective onan interim basis pending the promulgation of final regulations), and by October 1, 1992, a final regulation, that sets forth interim and final requirements, respectively, consistent with subparagraph (B), to protect the health, safety, and welfare of individuals receiving community supported living arrangements services.
 
 #### (B) Minimum protections
 
@@ -86,7 +86,7 @@ The Secretary may waive such provisions of this subchapter as necessary to carry
 
 &emsp;&emsp;&emsp;(i) individuals receiving community supported living arrangements services are protected from neglect, physical and sexual abuse, and financial exploitation;
 
-&emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the providerhave histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
+&emsp;&emsp;&emsp;(ii) a provider of community supported living arrangements services may not use individuals who have been convicted of child or client abuse, neglect, or mistreatment or of a felony involving physical harm to an individual and shall take all reasonable steps to determine whether applicants for employment by the provider have histories indicating involvement in child or client abuse, neglect, or mistreatment or a criminal record involving physical harm to an individual;
 
 &emsp;&emsp;&emsp;(iii) individuals or entities delivering such services are not unjustly enriched as a result of abusive financial arrangements (such as owner lease-backs); and
 
@@ -106,6 +106,8 @@ The amount of funds that may be expended as medical assistance to carry out the 
 
 (Aug. 14, 1935, ch. 531, title XIX, §1930, as added Pub. L. 101–508, title IV, §4712(b), Nov. 5, 1990, 104 Stat. 1388–187; amended Pub. L. 106–402, title IV, §401(b)(6)(B), Oct. 30, 2000, 114 Stat. 1738.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(7), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of this title and Tables.
@@ -117,6 +119,8 @@ Pub. L. 101–508, title IV, §4712(b)(1), Nov. 5, 1990, 104 Stat. 1388–187, w
 #### Amendments
 
 <b>2000</b>—Subsec. (d)(7). Pub. L. 106–402 substituted "State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 and the protection and advocacy system established under subtitle C of that Act" for "State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

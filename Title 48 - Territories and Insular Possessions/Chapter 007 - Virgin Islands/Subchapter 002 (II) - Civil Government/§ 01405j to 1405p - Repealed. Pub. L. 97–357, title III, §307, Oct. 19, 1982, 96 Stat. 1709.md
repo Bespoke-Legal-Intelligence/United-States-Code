@@ -12,5 +12,5 @@ Section 1405n, act June 22, 1936, ch. 699, §15, 49 Stat. 1810, related to quoru
 
 Section 1405o, act June 22, 1936, ch. 699, §16, 49 Stat. 1810, related to acts of councils and assembly, approval or veto thereof by Governor, submission of repassed vetoed bills to the President, annulment of acts by Congress, and authorization of appropriations.
 
-Section 1405p, act June 22, 1936, ch. 699, §17, 49 Stat. 1811, related to vesting of voting franchise in residents of the Virgin Islands who are citizens of the United States and prescription by legislative assembly of additional qualifications.
+Section 1405p, act June 22, 1936, ch. 699, §17, 49 Stat. 1811, related to vesting of voting franchise in residentsof the Virgin Islands who are citizens of the United States and prescription by legislative assembly of additional qualifications.
 

@@ -2,7 +2,7 @@
 
 #### (a) Training
 
-Not later than 1 year after October 17, 2000, the Secretary, after consultation with appropriate State and local protection and advocacy organizations, physicians, facilities, and other health care professionals and patients, shall promulgate regulations that require facilities to which the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.) applies, to meet the requirements of subsection (b).
+Not later than 1 year after October 17, 2000, the Secretary, after consultation with appropriate State and local protection and advocacy organizations, physicians, facilities, and other health care professionals and patients, shall promulgate regulations that require facilities towhich the Protection and Advocacy for Mentally Ill Individuals Act of 1986 <sup>1</sup> (42 U.S.C. 10801 et seq.) applies, to meet the requirements of subsection (b).
 
 #### (b) Requirements
 
@@ -19,6 +19,8 @@ The regulations promulgated under subsection (a) shall require that—
 A facility to which this part applies that fails to comply with any requirement of this part, including a failure to provide appropriate training, shall not be eligible for participation in any program supported in whole or in part by funds appropriated to any Federal department or agency.
 
 (July 1, 1944, ch. 373, title V, §593, as added Pub. L. 106–310, div. B, title XXXII, §3207, Oct. 17, 2000, 114 Stat. 1196.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -16,9 +16,13 @@ The Postmaster General shall actively undertake a program to identify and procur
 
 (Pub. L. 102–486, title I, §163, Oct. 24, 1992, 106 Stat. 2860.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### United States Postal Service Building Energy Survey and Report
 

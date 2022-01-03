@@ -14,7 +14,7 @@ Pending Sentence or Appeal.—A judicial officer of a court of original jurisdic
 
 #### Prior Provisions
 
-A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(b), 80 Stat. 217, related to powers of courts and magistrates with respect to release on bail or otherwise, prior to repeal inthe revision of this chapter by section 203(a) of Pub. L. 98–473.
+A prior section 3141, acts June 25, 1948, ch. 645, 62 Stat. 821; June 22, 1966, Pub. L. 89–465, §5(b), 80 Stat. 217, related to powers of courts and magistrates with respect to release on bail or otherwise, prior to repeal in the revision of this chapter by section 203(a) of Pub. L. 98–473.
 
 #### Amendments
 
@@ -50,5 +50,5 @@ Pub. L. 89–465, §1, June 22, 1966, 80 Stat. 214, provided: "That this Act \[e
 
 #### Purpose of Bail Reform Act of 1966
 
-Pub. L. 89–465, §2, June 22, 1966, 80 Stat. 214, provided that: "The purpose of this Act \[enacting sections 3146 to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest."
+Pub. L. 89–465, §2, June 22, 1966, 80 Stat. 214, provided that: "The purpose of this Act \[enacting sections 3146to 3152 of this title, amending sections 3041, 3141 to 3143, and 3568 of this title and enacting provisions set out as a note above\] is to revise the practices relating to bail to assure that all persons, regardless of their financial status, shall not needlessly be detained pending their appearance to answer charges, to testify, or pending appeal, when detention serves neither the ends of justice nor the public interest."
 

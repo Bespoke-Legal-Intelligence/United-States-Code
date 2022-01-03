@@ -24,7 +24,7 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §502(1), substituted "prevention, management," for "management" and inserted ", elodea, quagga mussels," after "Asian carp".
 
-Subsec. (b). Pub. L. 116–260, §502(2), inserted "or could be impacted in the future" after "that are impacted" and substituted "Pacific, Arctic, and Gulf Coasts, the Great Lakes, and reservoirs operated and maintained by the Secretary." for "Pacific, and Gulf coasts and the Great Lakes."
+Subsec. (b). Pub. L. 116–260, §502(2), inserted "or could be impacted in the future" after "that are impacted" and substituted "Pacific, Arctic, and Gulf Coasts, theGreat Lakes, and reservoirs operated and maintained by the Secretary." for "Pacific, and Gulf coasts and the Great Lakes."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

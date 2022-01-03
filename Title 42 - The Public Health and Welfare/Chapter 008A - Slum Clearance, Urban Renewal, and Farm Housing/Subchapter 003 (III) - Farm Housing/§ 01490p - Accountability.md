@@ -12,7 +12,7 @@
 
 #### (3) Publication of selection criteria
 
-&emsp;Not less than 30 days before any deadline by which applications or requests for assistanceunder any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
+&emsp;Not less than 30 days before any deadline by which applications or requests for assistance under any program or discretionary fund administered by the Secretary must be submitted, the Secretary shall publish in the Federal Register the criteria by which selection for the assistance will be made. Such criteria shall include any objective measures of housing need, project merit, or efficient use of resources that the Secretary determines are appropriate and consistent with the statute under which the assistance is made available.
 
 #### (4) Documentation of decisions
 
@@ -48,7 +48,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (c) Updating of disclosure
 
-During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
+During the period when an application is pending or assistance is being provided, the applicantshall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
 #### (d) Repealed. Pub. L. 104–65, §11(b)(2), Dec. 19, 1995, 109 Stat. 701
 
@@ -76,7 +76,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (2) Civil penalties
 
-&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district courtof the United States. A civil penalty under this paragraph may not exceed—
+&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district court of the United States. A civil penalty under this paragraph may not exceed—
 
 &emsp;&emsp;(A) $100,000 in the case of an individual; or
 
@@ -108,6 +108,8 @@ The Secretary shall submit to the Congress, not later than 180 days following De
 
 (July 15, 1949, ch. 338, title V, §536, as added Pub. L. 101–235, title IV, §401(a), Dec. 15, 1989, 103 Stat. 2045; amended Pub. L. 101–625, title VII, §719(a), Nov. 28, 1990, 104 Stat. 4297; Pub. L. 104–65, §11(b)(2), Dec. 19, 1995, 109 Stat. 701.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 December 15, 1989, referred to in subsec. (g), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 101–235, which enacted this section, to reflect the probable intent of Congress.
@@ -117,6 +119,8 @@ December 15, 1989, referred to in subsec. (g), was in the original "the date of 
 <b>1995</b>—Subsec. (d). Pub. L. 104–65 struck out subsec. (d) which related to regulation of lobbyists and consultants.
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–625 inserted before period at end ", for the original construction or development of the project".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

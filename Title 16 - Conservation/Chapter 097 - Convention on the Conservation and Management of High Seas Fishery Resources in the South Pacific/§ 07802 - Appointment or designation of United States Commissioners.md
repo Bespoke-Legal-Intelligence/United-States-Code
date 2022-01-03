@@ -84,7 +84,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (iv) Public meetings
 
-&emsp;&emsp;&emsp;Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;&emsp;&emsp;Meetings of the Advisory Committee, except when in executive session, shall beopen to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
 #### (v) Cost savings
 
@@ -109,6 +109,8 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 &emsp;&emsp;&emsp;(ii) shall not be considered a Federal employee, except for the purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28.
 
 (Pub. L. 114–327, title II, §202, Dec. 16, 2016, 130 Stat. 1987.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

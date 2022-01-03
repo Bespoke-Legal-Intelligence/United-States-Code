@@ -26,7 +26,7 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 #### (3) Procedure
 
-&emsp;Before an administrative penalty order issued under this subsection becomes final, the Administrator shall provide the agency an opportunity to confer with the Administrator and shall provide the agency notice and an opportunity for a hearing on the record in accordance with chapters 5 and 7 of title 5.
+&emsp;Before an administrative penalty order issued under this subsection becomes final, the Administrator shall provide the agency an opportunity to confer with the Administratorand shall provide the agency notice and an opportunity for a hearing on the record in accordance with chapters 5 and 7 of title 5.
 
 #### (4) Public review
 
@@ -61,6 +61,8 @@ Unless a State law in effect on August 6, 1996, or a State constitution requires
 The Secretary of the Army shall not pass the cost of any penalty assessed under this subchapter on to any customer, user, or other purchaser of drinking water from the Washington Aqueduct system, including finished water from the Dalecarlia or McMillan treatment plant.
 
 (July 1, 1944, ch. 373, title XIV, §1447, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1688; amended Pub. L. 95–190, §8(a), (d), Nov. 16, 1977, 91 Stat. 1396, 1397; Pub. L. 104–182, title I, §129(a), (c), Aug. 6, 1996, 110 Stat. 1660, 1662.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

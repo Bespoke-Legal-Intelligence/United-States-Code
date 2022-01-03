@@ -28,7 +28,7 @@ Increased Federal Share.—
 
 &emsp;(1)
 
-Certain safety projects.—The Federal share payable on account of any project for traffic control signalization, maintaining minimum levels of retroreflectivity of highway signs or pavement markings, traffic circles (also known as "roundabouts"), safety rest areas, pavement marking, shoulder and centerline rumble strips and stripes, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid programs for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term "safety rest area" means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
+Certain safety projects.—The Federal share payable on account of any project for traffic control signalization, maintaining minimum levels of retroreflectivity of highway signs or pavement markings, traffic circles (also known as "roundabouts"), safety rest areas, pavement marking, shoulder and centerline rumble strips and stripes, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, vehicle-to-infrastructure communication equipment, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid programs for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term "safety rest area" means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
 
 &emsp;(2) CMAQ
 
@@ -62,9 +62,11 @@ Examples.—Projects, programs, and activities described in subparagraph (A) may
 
 &emsp;&emsp;&emsp;(iv) intelligent compaction equipment;
 
-&emsp;&emsp;&emsp;(v) innovative pavement materials that have a demonstrated life cycle of 75 or more years, are manufactured with reduced greenhouse gas emissions, and reduce construction-related congestion by rapidly curing; or
+&emsp;&emsp;&emsp;(v) innovative pavement materials that have a demonstrated life cycle of 75 or more years, are manufactured with reduced greenhouse gas emissions, and reduce construction-related congestion by rapidly curing;
 
-&emsp;&emsp;&emsp;(vi) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
+&emsp;&emsp;&emsp;(vi) contractual provisions that provide safety contingency funds to incorporatesafety enhancements to work zones prior to or during roadway construction activities; or
+
+&emsp;&emsp;&emsp;(vii) contractual provisions that offer a contractor an incentive payment for early completion of the project, program, or activity, subject to the condition that the incentives are accounted for in the financial plan of the project, when applicable.
 
 &emsp;&emsp;(C)
 
@@ -78,19 +80,27 @@ In general.—In each fiscal year, a State may use the authority under subparagr
 
 Federal share increase.—The Federal share payable on account of a project, program, or activity described in subparagraph (A) may be increased by up to 5 percent of the total project cost.
 
+&emsp;(4)
+
+Pooled funding.—Notwithstanding any other provision of law, the Secretary may waive the non-Federal share of the cost of a project or activity under section 502(b)(6) that is carried out with amounts apportioned under section 104(b)(2) after considering appropriate factors, including whether—
+
+&emsp;&emsp;(A) decreasing or eliminating the non-Federal share would best serve the interests of the Federal-aid highway program; and
+
+&emsp;&emsp;(B) the project or activity addresses national or regional high priority research, development, and technology transfer problems in a manner that would benefit multiple States or metropolitan planning organizations.
+
 (d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
 
 (e)
 
 Emergency Relief.—The Federal share payable for any repair or reconstruction provided for by funds made available under section 125 for any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on the system as provided in subsections (a) and (b), except that—
 
-&emsp;(1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the cost of the repairs;
+&emsp;(1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 270 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the cost of the repairs;
 
 &emsp;(2) the Federal share payable for any repair or reconstruction of Federal land transportation facilities, other Federally owned roads that are open to public travel, and tribal transportation facilities may amount to 100 percent of the cost of the repair or reconstruction;
 
 &emsp;(3) the Secretary shall extend the time period in paragraph (1) taking into consideration any delay in the ability of the State to access damaged facilities to evaluate damage and the cost of repair; and
 
-&emsp;(4) the Federal share payable for eligible permanent repairs to restore damaged facilities to predisaster condition may amount to 90 percent of the cost of the repairs if the eligible expenses incurred by the State due to natural disasters or catastrophic failures in a Federal fiscal year exceeds the annual apportionment of the State under section 104 for the fiscal year in which the disasters or failures occurred.
+&emsp;(4) the Federal share payable for eligible repairs to restore damaged facilities to predisaster condition may amount to 90 percent of the cost of the repairs if the eligible expenses incurred by the State due to natural disasters or catastrophic failures in a Federal fiscal year exceeds the annual apportionment of the State under section 104 for the fiscal year in which the disasters or failures occurred.
 
 (f) The Secretary is authorized to cooperate with the State transportation departments and with the Department of the Interior in the construction of Federal-aid highways within Indian reservations and national parks and monuments under the jurisdiction of the Department of the Interior and to pay the amount assumed therefor from the funds apportioned in accordance with section 104 of this title to the State wherein the reservations and national parks and monuments are located.
 
@@ -160,11 +170,89 @@ Use of Federal Agency Funds.—Notwithstanding any other provision of law, any F
 
 Use of Federal Land and Tribal Transportation Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the tribal transportation program under section 202 and the Federal lands transportation program under section 203 may be used to pay the non-Federal share of the cost of any project that is funded under this title or chapter 53 of title 49 and that provides access to or within Federal or tribal land.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763; Pub. L. 112–141, div. A, title I, §§1304(b), 1508, July 6, 2012, 126 Stat. 532, 565; Pub. L. 114–94, div. A, title I, §§1104(e)(2), 1408, Dec. 4, 2015, 129 Stat. 1332, 1410.)
+(l)
+
+Federal Share Flexibility Pilot Program.—
+
+&emsp;(1)
+
+Establishment.—Not later than 180 days after the date of enactment of the Surface Transportation Reauthorization Act of 2021, the Secretary shall establish a pilot program (referred to in this subsection as the "pilot program") to give States additional flexibility with respect to the Federal requirements under this section.
+
+&emsp;(2)
+
+Program.—
+
+&emsp;&emsp;(A)
+
+In general.—Notwithstanding any other provision of law, a State participating in the pilot program (referred to in this subsection as a "participating State") may determine the Federal share on a project, multiple-project, or program basis for projects under any of the following:
+
+&emsp;&emsp;&emsp;(i) The national highway performance program under section 119.
+
+&emsp;&emsp;&emsp;(ii) The surface transportation block grant program under section 133.
+
+&emsp;&emsp;&emsp;(iii) The highway safety improvement program under section 148.
+
+&emsp;&emsp;&emsp;(iv) The congestion mitigation and air quality improvement program under section 149.
+
+&emsp;&emsp;&emsp;(v) The national highway freight program under section 167.
+
+&emsp;&emsp;&emsp;(vi) The carbon reduction program under section 175.
+
+&emsp;&emsp;&emsp;(vii) Subsection (c) of the PROTECT program under section 176.
+
+&emsp;&emsp;(B)
+
+Requirements.—
+
+&emsp;&emsp;&emsp;(i)
+
+Maximum federal share.—Subject to clause (iii), the Federal share of the cost of an individual project carried out under a program described in subparagraph (A) by a participating State and to which the participating State is applying the Federal share requirements under the pilot program may be up to 100 percent.
+
+&emsp;&emsp;&emsp;(ii)
+
+Minimum federal share.—No individual project carried out under a program described in subparagraph (A) by a participating State and to which the participating State is applying the Federal share requirements under the pilot program shall have a Federal share of 0 percent.
+
+&emsp;&emsp;&emsp;(iii)
+
+Determination.—The average annual Federal share of the total cost of all projects authorized under a program described in subparagraph (A) to which a participating State is applying the Federal share requirements under the pilot program shall be not more than the average of the maximum Federal share of those projects if those projects were not carried out under the pilot program.
+
+&emsp;&emsp;(C)
+
+Selection.—
+
+&emsp;&emsp;&emsp;(i)
+
+Application.—A State seeking to be a participating State shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) submit to the Secretary an application in such form, at such time, and containing such information as the Secretary may require; and
+
+&emsp;&emsp;&emsp;&emsp;(II) have in place adequate financial controls to allow the State to determine the average annual Federal share requirements under the pilot program.
+
+&emsp;&emsp;&emsp;(ii)
+
+Requirement.—For each of fiscal years 2022 through 2026, the Secretary shall select not more than 10 States to be participating States.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145,146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848; Pub. L. 109–59, title I, §§1111(b)(2), 1116(c), 1119(a), 1905, 1947, Aug. 10, 2005, 119 Stat. 1171, 1177, 1181, 1467, 1513; Pub. L. 110–140, title XI, §1131, Dec. 19, 2007, 121 Stat. 1763; Pub. L. 112–141, div. A, title I, §§1304(b), 1508, July 6, 2012, 126 Stat. 532, 565; Pub. L. 114–94, div. A, title I, §§1104(e)(2), 1408, Dec. 4, 2015, 129 Stat. 1332, 1410; Pub. L. 117–58, div. A, title I, §11107, Nov. 15, 2021, 135 Stat. 459.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of enactment of the Surface Transportation Reauthorization Act of 2021, referred to in subsec. (l)(1), is the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 117–58, §11107(1)(A), inserted "vehicle-to-infrastructure communication equipment," after "breakaway utility poles,".
+
+Subsec. (c)(3)(B)(vi), (vii). Pub. L. 117–58, §11107(1)(B), added cl. (vi) and redesignated former cl. (vi) as (vii).
+
+Subsec. (c)(4). Pub. L. 117–58, §11107(1)(C), added par. (4).
+
+Subsec. (e)(1). Pub. L. 117–58, §11107(2)(A), substituted "270 days" for "180 days".
+
+Subsec. (e)(4). Pub. L. 117–58, §11107(2)(B), struck out "permanent" before "repairs to restore".
+
+Subsec. (l). Pub. L. 117–58, §11107(3), added subsec. (l).
 
 <b>2015</b>—Subsec. (c)(3)(A). Pub. L. 114–94, §1104(e)(2)(A), substituted "(5)(D), or (6)" for "or (5)" in introductory provisions.
 
@@ -182,7 +270,7 @@ Subsec. (e)(2). Pub. L. 114–94, §1408(b), substituted "other Federally owned 
 
 Subsec. (c)(3). Pub. L. 112–141, §1304(b), added par. (3).
 
-Subsec. (e). Pub. L. 112–141, §1508(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title onaccount of any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on such highway as provided in subsections (a) and (b) of this section; except that (1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof; and (2) the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 percent of the cost thereof. The total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility. As used in this section with respect to bridges and in section 144 of this title, 'a comparable facility' shall mean a facility which meets the current geometric and construction standards required for the types and volume of traffic which such facility will carry over its design life."
+Subsec. (e). Pub. L. 112–141, §1508(2), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "The Federal share payable on account of any repair or reconstruction provided for by funds made available under section 125 of this title on account of any project on a Federal-aid highway, including the Interstate System, shall not exceed the Federal share payable on a project on such highway as provided in subsections (a) and (b) of this section; except that (1) the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof; and (2) the Federal share payable on account of any repair or reconstruction of forest highways, forest development roads and trails, park roads and trails, parkways, public lands highways, public lands development roads and trails, and Indian reservation roads may amount to 100 percent of the cost thereof. The total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility. As used in this section with respect to bridges and in section 144 of this title, 'a comparable facility' shall mean a facility which meets the current geometric and construction standards required for the types and volume of traffic which such facility will carry over its design life."
 
 Subsecs. (g), (h). Pub. L. 112–141, §1508(3), redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: "At the request of any State, the Secretary may from time to time enter into agreements with such State to reimburse the State for the Federal share of the costs of preliminary and construction engineering at an agreed percentage of actual construction costs for each project, in lieu of the actual engineering costs for such project. The Secretary shall annually review each such agreement to insure that such percentage reasonably represents the engineering costs actually incurred by such State."
 
@@ -284,7 +372,7 @@ Subsec. (d). Pub. L. 97–424, §117(b), inserted "or for pavement marking" afte
 
 Pub. L. 97–424, §123(a), inserted "or for commuter carpooling and vanpooling" before ", may amount to 100 per centum".
 
-Subsec. (f). Pub. L. 97–424, §153(f), substituted "100 per centum" for "75 per centum" after "shall not exceed", struck out provision that in the case of any State containing nontaxable Indian lands, individual and tribal, and public domain lands (both reserved and unreserved) exclusive of national forests and national parks and monuments exceeding 5 per centum of the total area of all lands therein, the Federal share would be increased by a percentage of the remaining cost equal to the percentage that the area of all such lands in such State is of its total area, struck out ", whether or not such highways, roads, or trails are on any Federal-aid highway system" after "may amount to 100 per centum of the cost thereof", substituted provision that the total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility for provision that the Secretary might increase the Federal share payable on account of any repair or reconstruction under this section up to 100 per centum of the replacement cost of a comparable facility if he determined it to be in the public interest, and struck out provision that any project agreement for which the final voucher had not been approved by the Secretary on or before the date of this Act might be modified to provide for the Federal share authorized herein.
+Subsec. (f). Pub. L. 97–424, §153(f), substituted "100 per centum" for "75 per centum" after "shall not exceed", struck out provision that in the case of any State containing nontaxable Indian lands, individual and tribal, and public domain lands (both reserved and unreserved) exclusive of national forests and national parks and monuments exceeding 5 per centum of the total area ofall lands therein, the Federal share would be increased by a percentage of the remaining cost equal to the percentage that the area of all such lands in such State is of its total area, struck out ", whether or not such highways, roads, or trails are on any Federal-aid highway system" after "may amount to 100 per centum of the cost thereof", substituted provision that the total cost of a project may not exceed the cost of repair or reconstruction of a comparable facility for provision that the Secretary might increase the Federal share payable on account of any repair or reconstruction under this section up to 100 per centum of the replacement cost of a comparable facility if he determined it to be in the public interest, and struck out provision that any project agreement for which the final voucher had not been approved by the Secretary on or before the date of this Act might be modified to provide for the Federal share authorized herein.
 
 Subsec. (i). Pub. L. 97–424, §156(c), added subsec. (i) relating to Federal share payable for any project financed under section 307(c) of this title.
 
@@ -325,6 +413,10 @@ Subsec. (f). Pub. L. 86–342 provided that the Federal share payable on account
 Subsec. (h). Pub. L. 86–70, §21(d)(4), repealed subsec. (h) which related to contributions by the Territory of Alaska and to the expenditure of Federal funds apportioned to the Territory of Alaska and funds contributed by the Territory.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -375,6 +467,164 @@ Amendment by section 34 of Pub. L. 90–495 effective Aug. 23, 1968, see section
 Amendment by section 21(d)(4) of Pub. L. 86–70 effective July 1, 1959, see section 21(d) of Pub. L. 86–70, set out as a note under section 103 of this title.
 
 Amendment by section 21(e)(4) of Pub. L. 86–70 effective July 1, 1959, see section 12(e) of Pub. L. 86–70, set out as a note under section 101 of this title.
+
+#### Transfer and Sale of Toll Credits
+
+Pub. L. 117–58, div. A, title I, §11503, Nov. 15, 2021, 135 Stat. 578, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Originating state.—The term 'originating State' means a State that—
+
+&emsp;&emsp;"(A) is eligible to use a credit under section 120(i) of title 23, United States Code; and
+
+&emsp;&emsp;"(B) has been selected by the Secretary \[of Transportation\] under subsection (d)(2).
+
+&emsp;"(2)
+
+Pilot program.—The term 'pilot program' means the pilot program established under subsection (b).
+
+&emsp;"(3)
+
+Recipient state.—The term 'recipient State' means a State that receives a credit by transfer or by sale under this section from an originating State.
+
+&emsp;"(4)
+
+State.—The term 'State' has the meaning given the term in section 101(a) of title 23, United States Code.
+
+"(b)
+
+Establishment of Pilot Program.—The Secretary shall establish and implement a toll credit exchange pilot program in accordance with this section.
+
+"(c)
+
+Purposes.—The purposes of the pilot program are—
+
+&emsp;"(1) to identify the extent of the demand to purchase toll credits;
+
+&emsp;"(2) to identify the cash price of toll credits through bilateral transactions between States;
+
+&emsp;"(3) to analyze the impact of the purchase or sale of toll credits on transportation expenditures;
+
+&emsp;"(4) to test the feasibility of expanding the pilot program to allow all States to participate on a permanent basis; and
+
+&emsp;"(5) to identify any other repercussions of the toll credit exchange.
+
+"(d)
+
+Selection of Originating States.—
+
+&emsp;"(1)
+
+Application.—In order to participate in the pilot program as an originating State, a State shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including, at a minimum, such information as is required for the Secretary to verify—
+
+&emsp;&emsp;"(A) the amount of unused toll credits for which the State has submitted certification to the Secretary that are available to be sold or transferred under the pilot program, including—
+
+&emsp;&emsp;&emsp;"(i) toll revenue generated and the sources of that revenue;
+
+&emsp;&emsp;&emsp;"(ii) toll revenue used by public, quasi-public, and private agencies to build, improve, or maintain highways, bridges, or tunnels that serve the public purpose of interstate commerce; and
+
+&emsp;&emsp;&emsp;"(iii) an accounting of any Federal funds used by the public, quasi-public, or private agency to build, improve, or maintain the toll facility, to validate that the credit has been reduced by a percentage equal to the percentage of the total cost of building, improving, or maintaining the facility that was derived from Federal funds;
+
+&emsp;&emsp;"(B) the documentation of maintenance of effort for toll credits earned by the originating State; and
+
+&emsp;&emsp;"(C) the accuracy of the accounting system of the State to earn and track toll credits.
+
+&emsp;"(2)
+
+Selection.—Of the States that submit an application under paragraph (1), the Secretary may select not more than 10 States to be designated as an originating State.
+
+&emsp;"(3)
+
+Limitation on sales.—At any time, the Secretary may limit the amount of unused toll credits that may be offered for sale under the pilot program.
+
+"(e)
+
+Transfer or Sale of Credits.—
+
+&emsp;"(1)
+
+In general.—In carrying out the pilot program, the Secretary shall provide that an originating State may transfer or sell to a recipient State a credit not previously used by the originating State under section 120(i) of title 23, United States Code.
+
+&emsp;"(2)
+
+Website support.—The Secretary shall make available a publicly accessible website on which originating States shall post the amount of toll credits, verified under subsection (d)(1)(A), that are available for sale or transfer to a recipient State.
+
+&emsp;"(3)
+
+Bilateral transactions.—An originating State and a recipient State may enter into a bilateral transaction to sell or transfer verified toll credits.
+
+&emsp;"(4)
+
+Notification.—Not later than 30 days after the date on which a credit is transferred or sold, the originating State and the recipient State shall jointly submit to the Secretary a written notification of the transfer or sale, including details on—
+
+&emsp;&emsp;"(A) the amount of toll credits that have been sold or transferred;
+
+&emsp;&emsp;"(B) the price paid or other value transferred in exchange for the toll credits;
+
+&emsp;&emsp;"(C) the intended use by the recipient State of the toll credits, if known;
+
+&emsp;&emsp;"(D) the intended use by the originating State of the cash or other value transferred;
+
+&emsp;&emsp;"(E) an update on the toll credit balance of the originating State and the recipient State; and
+
+&emsp;&emsp;"(F) any other information about the transaction that the Secretary may require.
+
+&emsp;"(5)
+
+Use of credits by transferee or purchaser.—A recipient State may use a credit received under paragraph (1) toward the non-Federal share requirement for any funds made available to carry out title 23 or chapter 53 of title 49, United States Code, in accordance with section 120(i) of title 23, United States Code.
+
+&emsp;"(6)
+
+Use of proceeds from sale of credits.—An originating State shall use the proceeds from the sale of a credit under paragraph (1) for the construction costs of any project in the originating State that is eligible under title 23, United States Code.
+
+"(f)
+
+Reporting Requirements.—
+
+&emsp;"(1)
+
+Initial report.—Not later than 1 year after the date on which the pilot program is established, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the progress of the pilot program.
+
+&emsp;"(2)
+
+Final report.—Not later than 3 years after the date on which the pilot program is established, the Secretary shall—
+
+&emsp;&emsp;"(A) submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+
+&emsp;&emsp;&emsp;"(i) determines whether a toll credit marketplace is viable and cost-effective;
+
+&emsp;&emsp;&emsp;"(ii) describes the buying and selling activities under the pilot program;
+
+&emsp;&emsp;&emsp;"(iii) describes the average sale price of toll credits;
+
+&emsp;&emsp;&emsp;"(iv) determines whether the pilot program could be expanded to more States or all States or to non-State operators of toll facilities;
+
+&emsp;&emsp;&emsp;"(v) provides updated information on the toll credit balance accumulated by each State; and
+
+&emsp;&emsp;&emsp;"(vi) describes the list of projects that were assisted by the pilot program; and
+
+&emsp;&emsp;"(B) make the report under subparagraph (A) publicly available on the website of the Department \[of Transportation\].
+
+"(g)
+
+Termination.—
+
+&emsp;"(1)
+
+In general.—The Secretary may terminate the pilot program or the participation of any State in the pilot program if the Secretary determines that—
+
+&emsp;&emsp;"(A) the pilot program is not serving a public benefit; or
+
+&emsp;&emsp;"(B) it is not cost effective to carry out the pilot program.
+
+&emsp;"(2)
+
+Procedures.—The termination of the pilot program or the participation of a State in the pilot program shall be carried out consistent with Federal requirements for project closeout, adjustment, and continuing responsibilities."
 
 #### Credit for Non-Federal Share
 

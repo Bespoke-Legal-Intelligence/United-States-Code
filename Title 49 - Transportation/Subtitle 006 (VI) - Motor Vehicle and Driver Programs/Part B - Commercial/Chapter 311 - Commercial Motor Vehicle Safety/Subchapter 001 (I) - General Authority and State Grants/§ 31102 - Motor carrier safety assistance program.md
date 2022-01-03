@@ -22,13 +22,13 @@ State Plans.—
 
 &emsp;(1)
 
-In general.—In carrying out the program, the Secretary shall prescribe procedures for a State to submit a multiple-year plan, and annual updates thereto, under which theState agrees to assume responsibility for improving motor carrier safety by adopting and enforcing State regulations, standards, and orders that are compatible with the regulations, standards, and orders of the Federal Government on commercial motor vehicle safety and hazardous materials transportation safety.
+In general.—In carrying out the program, the Secretary shall prescribe procedures for a State to submit a multiple-year plan, and annual updates thereto, under which the State agrees to assume responsibility for improving motor carrier safety by adopting and enforcing State regulations, standards, and orders that are compatible with the regulations, standards, and orders of the Federal Government on commercial motor vehicle safety and hazardous materials transportation safety.
 
 &emsp;(2)
 
 Contents.—The Secretary shall approve a State plan if the Secretary determines that the plan is adequate to comply with the requirements of this section, and the plan—
 
-&emsp;&emsp;(A) implements performance-based activities, including deployment and maintenance of technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
+&emsp;&emsp;(A) implements performance-based activities, including deployment and maintenanceof technology to enhance the efficiency and effectiveness of commercial motor vehicle safety programs;
 
 &emsp;&emsp;(B) designates a lead State commercial motor vehicle safety agency responsible for administering the plan throughout the State;
 
@@ -78,11 +78,11 @@ Contents.—The Secretary shall approve a State plan if the Secretary determines
 
 &emsp;&emsp;(T) provides that the State will include in the training manuals for the licensing examination to drive noncommercial motor vehicles and commercial motor vehicles information on best practices for driving safely in the vicinity of noncommercial and commercial motor vehicles;
 
-&emsp;&emsp;(U) provides that the State will enforce the registration requirements of sections13902 and 31134 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under those sections or to be operated beyond the scope of the motor carrier's registration;
+&emsp;&emsp;(U) provides that the State will enforce the registration requirements of sections 13902 and 31134 by prohibiting the operation of any vehicle discovered to be operated by a motor carrier without a registration issued under those sections or to be operated beyond the scope of the motor carrier's registration;
 
 &emsp;&emsp;(V) provides that the State will conduct comprehensive and highly visible traffic enforcement and commercial motor vehicle safety inspection programs in high-risk locations and corridors;
 
-&emsp;&emsp;(W) except in the case of an imminent hazard or obvious safety hazard, ensures that an inspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a bus station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop (excluding a weigh station);
+&emsp;&emsp;(W) except in the case of an imminent hazard or obvious safety hazard, ensures that aninspection of a vehicle transporting passengers for a motor carrier of passengers is conducted at a bus station, terminal, border crossing, maintenance facility, destination, or other location where a motor carrier may make a planned stop (excluding a weigh station);
 
 &emsp;&emsp;(X) ensures that the State will transmit to its roadside inspectors notice of each Federal exemption granted under section 31315(b) of this title and sections 390.23 and 390.25 of title 49, Code of Federal Regulations, and provided to the State by the Secretary, including the name of the person that received the exemption and any terms and conditions that apply to the exemption;
 
@@ -144,7 +144,7 @@ Adjusted baseline after fiscal year 2017.—At the request of a State, the Secre
 
 &emsp;(3)
 
-Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that thewaiver or modification is reasonable, based on circumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
+Waivers.—At the request of a State, the Secretary may waive or modify the requirements of this subsection for a total of 1 fiscal year if the Secretary determines that the waiver or modification is reasonable, based on circumstances described by the State, to ensure the continuation of commercial motor vehicle enforcement activities in the State.
 
 &emsp;(4)
 
@@ -172,7 +172,7 @@ Use of Grants To Enforce Other Laws.—When approved as part of a State's plan u
 
 &emsp;(2) for documented enforcement of State traffic laws and regulations designed to promote the safe operation of commercial motor vehicles, including documented enforcement of such laws and regulations relating to noncommercial motor vehicles when necessary to promote the safe operation of commercial motor vehicles, if—
 
-&emsp;&emsp;(A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2004 and 2005; and
+&emsp;&emsp;(A) the number of motor carrier safety activities, including roadside safety inspections, conducted in the State is maintained at a level at least equal to the average level of such activities conducted in the State in fiscal years 2014 and 2015; and
 
 &emsp;&emsp;(B) the State does not use more than 10 percent of the basic amount the State receives under a grant awarded under section 31104(a)(1) for enforcement activities relating to noncommercial motor vehicles necessary to promote the safe operation of commercial motor vehicles unless the Secretary determines that a higher percentage will result in significant increases in commercial motor vehicle safety.
 
@@ -222,7 +222,7 @@ Disapproval.—If, after notice and an opportunity to be heard, the Secretary fi
 
 &emsp;&emsp;(B)
 
-Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and anopportunity to be heard, withhold funding from the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
+Noncompliance withholding.—In lieu of withdrawing approval of a State plan under subparagraph (A), the Secretary may, after providing notice to the State and an opportunity to be heard, withhold funding from the State to which the State would otherwise be entitled under this section for the period of the State's noncompliance. In exercising this option, the Secretary may withhold—
 
 &emsp;&emsp;&emsp;(i) up to 5 percent of funds during the fiscal year that the Secretary notifies the State of its noncompliance;
 
@@ -242,7 +242,7 @@ High Priority Program.—
 
 &emsp;(1)
 
-In general.—The Secretary shall administer a high priority program funded under section 31104(a)(2) for the purposes described in paragraphs (2) and (3).
+In general.—The Secretary shall administer a high priority program funded under section 31104(a)(2) for the purposes described in paragraphs (2) through (5).
 
 &emsp;(2)
 
@@ -272,9 +272,23 @@ Activities related to motor carrier safety.—The Secretary may make discretiona
 
 &emsp;&emsp;&emsp;(i) that complete or exceed the requirements under subsection (c)(2)(P) for entities not responsible for submitting the plan under subsection (c); or
 
-&emsp;&emsp;&emsp;(ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c); and
+&emsp;&emsp;&emsp;(ii) that exceed the requirements under subsection (c)(2)(P) for entities responsible for submitting the plan under subsection (c);
 
-&emsp;&emsp;(H) otherwise improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations.
+&emsp;&emsp;(H) support, through the use of funds otherwise available for such purposes—
+
+&emsp;&emsp;&emsp;(i) the recognition, prevention, and reporting of human trafficking, including the trafficking of human beings—
+
+&emsp;&emsp;&emsp;&emsp;(I) in a commercial motor vehicle; or
+
+&emsp;&emsp;&emsp;&emsp;(II) by any occupant, including the operator, of a commercial motor vehicle;
+
+&emsp;&emsp;&emsp;(ii) the detection of criminal activity or any other violation of law relating to human trafficking; and
+
+&emsp;&emsp;&emsp;(iii) enforcement of laws relating to human trafficking;
+
+&emsp;&emsp;(I) otherwise support the recognition, prevention, and reporting of human trafficking; and
+
+&emsp;&emsp;(J) otherwise improve commercial motor vehicle safety and compliance with commercial motor vehicle safety regulations.
 
 &emsp;(3)
 
@@ -318,15 +332,89 @@ Use of funds.—Grant funds received under this paragraph may be used—
 
 &emsp;&emsp;&emsp;(i) for deployment activities and activities to develop new and innovative advanced technology solutions that support commercial motor vehicle information systems and networks;
 
-&emsp;&emsp;&emsp;(ii) for planning activities, including the development or updating of program or top level design plans in order to become eligible or maintain eligibility under subparagraph (C); and
+&emsp;&emsp;&emsp;(ii) for planning activities, including the development or updating of program or top level design plans in order to become eligible or maintain eligibility under subparagraph (C);
 
-&emsp;&emsp;&emsp;(iii) for the operation and maintenance costs associated with innovative technology.
+&emsp;&emsp;&emsp;(iii) for the operation and maintenance costs associated with innovative technology;
+
+&emsp;&emsp;&emsp;(iv) for the detection of, and enforcement actions taken as a result of, criminal activity (including the trafficking of human beings)—
+
+&emsp;&emsp;&emsp;&emsp;(I) in a commercial motor vehicle; or
+
+&emsp;&emsp;&emsp;&emsp;(II) by any occupant, including the operator, of a commercial motor vehicle; and
+
+&emsp;&emsp;&emsp;(v) in addition to any funds otherwise made available for the recognition, prevention, and reporting of human trafficking, to support the recognition, prevention, and reporting of human trafficking.
 
 &emsp;&emsp;(E)
 
 Secretary authorization.—The Secretary is authorized to award a State funding for the operation and maintenance costs associated with innovative technology deployment with funds made available under sections 31104(a)(1) and 31104(a)(2).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514.)
+&emsp;(4)
+
+Immobilization grant program.—
+
+&emsp;&emsp;(A)
+
+Definition of passenger-carrying commercial motor vehicle.—In this paragraph, the term "passenger-carrying commercial motor vehicle" has the meaning given the term "commercial motor vehicle" in section 31301.
+
+&emsp;&emsp;(B)
+
+Establishment.—The Secretary shall establish an immobilization grant program under which the Secretary shall provide to States discretionary grants for the immobilization or impoundment of passenger-carrying commercial motor vehicles that—
+
+&emsp;&emsp;&emsp;(i) are determined to be unsafe; or
+
+&emsp;&emsp;&emsp;(ii) fail inspection.
+
+&emsp;&emsp;(C)
+
+List of criteria for immobilization.—The Secretary, in consultation with State commercial motor vehicle entities, shall develop a list of commercial motor vehicle safety violations and defects that the Secretary determines warrant the immediate immobilization of a passenger-carrying commercial motor vehicle.
+
+&emsp;&emsp;(D)
+
+Eligibility.—A State shall be eligible to receive a grant under this paragraph only if the State has the authority to require the immobilization or impoundment of a passenger-carrying commercial motor vehicle—
+
+&emsp;&emsp;&emsp;(i) with respect to which a motor vehicle safety violation included in the list developed under subparagraph (C) is determined to exist; or
+
+&emsp;&emsp;&emsp;(ii) that is determined to have a defect included in that list.
+
+&emsp;&emsp;(E)
+
+Use of funds.—A grant provided under this paragraph may be used for—
+
+&emsp;&emsp;&emsp;(i) the immobilization or impoundment of passenger-carrying commercial motor vehicles described in subparagraph (D);
+
+&emsp;&emsp;&emsp;(ii) safety inspections of those passenger-carrying commercial motor vehicles; and
+
+&emsp;&emsp;&emsp;(iii) any other activity relating to an activity described in clause (i) or (ii), as determined by the Secretary.
+
+&emsp;&emsp;(F)
+
+Secretary authorization.—The Secretary may provide to a State amounts for the costs associated with carrying out an immobilization program using funds made available under section 31104(a)(2).
+
+&emsp;(5)
+
+Commercial motor vehicle enforcement training and support grant program.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall administer a commercial motor vehicle enforcement training and support grant program funded under section 31104(a)(3), under which the Secretary shall make discretionary grants to eligible entities described in subparagraph (C) for the purposes described in subparagraph (B).
+
+&emsp;&emsp;(B)
+
+Purposes.—The purposes of the grant program under subparagraph (A) are—
+
+&emsp;&emsp;&emsp;(i) to train non-Federal employees who conduct commercial motor vehicle enforcement activities; and
+
+&emsp;&emsp;&emsp;(ii) to develop related training materials.
+
+&emsp;&emsp;(C)
+
+Eligible entities.—An entity eligible for a discretionary grant under the program described in subparagraph (A) is a nonprofit organization that has—
+
+&emsp;&emsp;&emsp;(i) expertise in conducting a training program for non-Federal employees; and
+
+&emsp;&emsp;&emsp;(ii) the ability to reach and involve in a training program a target population of commercial motor vehicle safety enforcement employees.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 984; Pub. L. 104–88, title I, §104(a), Dec. 29, 1995, 109 Stat. 918; Pub. L. 105–178, title IV, §4003(b), (c), June 9, 1998, 112 Stat. 395, 396; Pub. L. 106–159, title II, §207, Dec. 9, 1999, 113 Stat. 1764; Pub. L. 109–59, title IV, §§4106, 4307(b), Aug. 10, 2005, 119 Stat. 1717, 1774; Pub. L. 112–141, div. C, title II, §32601(a), July 6, 2012, 126 Stat. 805; Pub. L. 114–94, div. A, title V, §5101(a), Dec. 4, 2015, 129 Stat. 1514; Pub. L. 117–58, div. B, title III, §§23001(c), 23003–23005, Nov. 15, 2021, 135 Stat. 758–760.)
 
 Historical and Revision Notes
 
@@ -372,11 +460,25 @@ In subsection (c), before clause (1), the words "type of" are omitted as unneces
 
 In subsection (d), the words "the regulations, standards, or orders" are substituted for "Federal rules, regulations, standards, or orders applicable to commercial motor vehicle safety or compatible State rules, regulations, standards, or orders" for consistency and to eliminate unnecessary words. The last sentence is substituted for 49 App.:2302(c) (last sentence) for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 5106 and 5107 of the FAST Act, referred to in subsecs. (f)(1), (2) and (j)(3), are sections 5106 and 5107 of Pub. L. 114–94, which are set out as notes below.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h)(2)(A). Pub. L. 117–58, §23001(c), substituted "2014 and 2015" for "2004 and 2005".
+
+Subsec. (l)(1). Pub. L. 117–58, §23005(1), substituted "(2) through (5)" for "(2) and (3)".
+
+Subsec. (l)(2)(H) to (J). Pub. L. 117–58, §23003(1), added subpars. (H) and (I) and redesignated former subpar. (H) as (J).
+
+Subsec. (l)(3)(D)(iv), (v). Pub. L. 117–58, §23003(2), added cls. (iv) and (v).
+
+Subsec. (l)(4). Pub. L. 117–58, §23004, added par. (4).
+
+Subsec. (l)(5). Pub. L. 117–58, §23005(2), added par. (5).
 
 <b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to grants to States for programs to improve motor carrier safety.
 
@@ -478,6 +580,8 @@ Subsec. (b)(1)(S), (T). Pub. L. 105–178, §4003(c)(5)(B), (8), added subpars. 
 
 <b>1995</b>—Subsec. (b)(1)(Q). Pub. L. 104–88 added subpar. (Q).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–94, div. A, title V, §5101(f), Dec. 4, 2015, 129 Stat. 1526, provided that: "The amendments made by this section \[amending this section and sections 31103, 31104, 31106, and 31144 of this title, repealing sections 31107 and 31109 of this title, amending provisions set out as a note under section 31133 of this title, and repealing provisions set out as notes under this section and sections 31100, 31106, 31136, and 31301 of this title\] shall take effect on October 1, 2016."
@@ -489,6 +593,10 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of this title.
+
+#### Report on Human Trafficking Violations Involving Commercial Motor Vehicles
+
+Pub. L. 117–58, div. B, title III, §23020, Nov. 15, 2021, 135 Stat. 777, provided that: "Not later than 3 years after the date of enactment of this Act \[Nov. 15, 2021\], and every 3 years thereafter, the Secretary \[of Transportation\], acting through the Department of Transportation Advisory Committee on Human Trafficking established under section 5(a) of the Combating Human Trafficking in Commercial Vehicles Act (Public Law 115–99; 131 Stat. 2243), shall coordinate with the Attorney General to prepare and submit to Congress a report relating to human trafficking violations involving commercial motor vehicles, which shall include recommendations for countering human trafficking, including an assessment of previous best practices by transportation stakeholders."
 
 #### Relief for Recipients of Financial Assistance Awards for Fiscal Years 2019 and 2020
 
@@ -504,7 +612,7 @@ Relief for Recipients of Financial Assistance Awarded for Fiscal Years 2019 and 
 
 &emsp;"(1)
 
-In general.—Notwithstanding any provision of chapter 311 of title 49, United States Code (including any applicable period of availability under section 31104(f) of that title), and any regulations promulgated under that chapter and subject to paragraph (2), the period of availability during which a recipient may expend amounts made available to the recipient under a grant or cooperative agreement described in subparagraphs (A) through (E) shall be—
+In general.—Notwithstanding any provision of chapter 311 of title 49, United States Code (including any applicable period of availability under section 31104(f) of that title), and any regulations promulgated under that chapter and subject to paragraph (2), the period of availability during which a recipientmay expend amounts made available to the recipient under a grant or cooperative agreement described in subparagraphs (A) through (E) shall be—
 
 &emsp;&emsp;"(A) for a grant made under section 31102 of that title (other than subsection (l) of that section)—
 
@@ -730,7 +838,7 @@ Maintenance of effort described.—The maintenance of effort calculated under th
 
 "(c)
 
-Termination of Effectiveness.—The authority of the Secretary under this section shall terminate effective on the date that a new maintenance of effortbaseline is calculated based on a new allocation formula for the motor carrier safety assistance program implemented under section 31102 of title 49, United States Code."
+Termination of Effectiveness.—The authority of the Secretary under this section shall terminate effective on the date that a new maintenance of effort baseline is calculated based on a new allocation formula for the motor carrier safety assistance program implemented under section 31102 of title 49, United States Code."
 
 #### Relationship to Other Laws
 

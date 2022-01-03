@@ -134,7 +134,7 @@ In general.—The term "crime victim" means a person directly and proximately ha
 
 &emsp;&emsp;(B)
 
-Minors and certain other victims.—In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim's estate, family members, or any other persons appointed as suitable by the court, may assume the crime victim's rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
+Minors and certain other victims.—In the case of a crime victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardians of the crime victim or the representatives of the crime victim's estate, family members, or any other persons appointed as suitable by thecourt, may assume the crime victim's rights under this chapter, but in no event shall the defendant be named as such guardian or representative.
 
 &emsp;(3)
 

@@ -4,6 +4,8 @@ Any person bottling, packaging, or repackaging taxpaid wines shall, before comme
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1378; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(42), July 26, 1979, 93 Stat. 287.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5352, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -13,6 +15,8 @@ A prior section 5352, act Aug. 16, 1954, ch. 736, 68A Stat. 663, consisted of pr
 <b>1979</b>—Pub. L. 96–39 struck out "at premises other than the bottling premises of a distilled spirits plant" after "taxpaid wines".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

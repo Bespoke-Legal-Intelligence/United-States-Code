@@ -2,7 +2,9 @@
 
 There are authorized to be appropriated for purposes of making reimbursements under section 2905 of this title to States for the development and implementation of conservation plans and for administration of this chapter under section 2907 of this title not to exceed $5,000,000 for each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997.
 
-(Pub. L. 96–366, §11, Sept. 29, 1980, 94 Stat. 1329; Pub. L. 99–375, Aug. 7, 1986, 100 Stat. 803; Pub. L. 100–653, title VIII, §801, Nov. 14, 1988, 102 Stat. 3833; Pub. L. 101–593, title I, §106, Nov. 16, 1990,104 Stat. 2955; Pub. L. 102–440, title III, §301, Oct. 23, 1992, 106 Stat. 2234.)
+(Pub. L. 96–366, §11, Sept. 29, 1980, 94 Stat. 1329; Pub. L. 99–375, Aug. 7, 1986, 100 Stat. 803; Pub. L. 100–653, title VIII, §801, Nov. 14, 1988, 102 Stat. 3833; Pub. L. 101–593, title I, §106, Nov. 16, 1990, 104 Stat. 2955; Pub. L. 102–440, title III, §301, Oct. 23, 1992, 106 Stat. 2234.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

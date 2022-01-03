@@ -20,9 +20,13 @@ July 9, 1918, ch. 143 (16th par., less words after semicolon, under "Ordnance De
 
 The words "under such conditions, regulations, and limitations as he shall prescribe" are omitted as surplusage. The words "his authority" are substituted for the words "the power conferred upon him by sections 1403, 1406–1408, 1409–1412, 1416, 1420, 1422, 1423, and 1424 of this title".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3745 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

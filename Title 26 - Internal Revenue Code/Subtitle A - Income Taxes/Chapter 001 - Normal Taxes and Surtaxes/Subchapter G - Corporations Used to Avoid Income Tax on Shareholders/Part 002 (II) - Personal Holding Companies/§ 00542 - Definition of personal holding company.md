@@ -100,7 +100,7 @@ The term "personal holding company" as defined in subsection (a) does not includ
 
 &emsp;&emsp;&emsp;&emsp;(I) the loans, notes, or installment obligations are evidenced or secured by contracts of conditional sale, chattel mortgages, or chattel lease agreements arising out of the sale of goods or services in the course of the borrower's or transferor's trade or business, or
 
-&emsp;&emsp;&emsp;&emsp;(II) the loans, notes, or installment obligations are made or acquired by thetaxpayer and meet the requirements of subparagraph (C), or
+&emsp;&emsp;&emsp;&emsp;(II) the loans, notes, or installment obligations are made or acquired by the taxpayer and meet the requirements of subparagraph (C), or
 
 &emsp;&emsp;&emsp;(ii) making loans evidenced by, or purchasing, certificates of indebtedness issued in a series, under a trust indenture, and in registered form or with interest coupons attached.
 
@@ -127,6 +127,8 @@ The term "personal holding company" as defined in subsection (a) does not includ
 &emsp;For purposes of subsection (c)(6)(B), in the case of a lending or finance company which meets the requirements of subsection (c)(6)(A), there shall not be treated as personal holding company income the lawful income received from a corporation which meets the requirements of subsection (c)(6) and which is a member of the same affiliated group (as defined in section 1504) of which such company is a member.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 182; ch. 871, §3, Aug. 12, 1955, 69 Stat. 718; Pub. L. 86–376, §3(a), Sept. 23, 1959, 73 Stat. 700; Pub. L. 87–768, §1, Oct. 9, 1962, 76 Stat. 766; Pub. L. 88–272, title II, §225(b), (c), (k)(1), Feb. 26, 1964, 78 Stat. 79, 93; Pub. L. 89–809, title I, §104(h)(1), Nov. 13, 1966, 80 Stat. 1559; Pub. L. 91–172, title I, §101(j)(16), Dec. 30, 1969, 83 Stat. 528; Pub. L. 93–480, §3(a), Oct. 26, 1974, 88 Stat. 1454; Pub. L. 94–455, title XIX, §1901(a)(76), Oct. 4, 1976, 90 Stat. 1777; Pub. L. 96–589, §5(a), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §293(a)–(c), Sept. 3, 1982, 96 Stat. 575; Pub. L. 98–369, div. A, title II, §211(b)(7), July 18, 1984, 98 Stat. 755; Pub. L. 99–514, title XII, §1235(f)(2), Oct. 22, 1986, 100 Stat. 2575; Pub. L. 105–34, title XI, §1122(d)(1), Aug. 5, 1997, 111 Stat. 977; Pub. L. 108–357, title IV, §413(b)(1), Oct. 22, 2004, 118 Stat. 1506; Pub. L. 115–141, div. U, title IV, §401(a)(132), (133), Mar. 23, 2018, 132 Stat. 1190.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -166,7 +168,7 @@ Subsec. (c)(8). Pub. L. 94–455, §1901(a)(76)(D), inserted "(15 U.S.C. 661 and
 
 <b>1974</b>—Subsec. (b)(5). Pub. L. 93–480 added par. (5).
 
-<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172 substituted "section 401(a), 501(c)(17), or 509(a)" for "section 503(b)" in the list of sections that contain the description of organizations that may be considered as individuals for the purpose of establishing stock ownership, and struck out provisions which would have kept an organization ortrust created before July 1, 1950, from being so designated if it had been denied exemption under section 504 or an unlimited charitable deduction under section 681(c) of this title.
+<b>1969</b>—Subsec. (a)(2). Pub. L. 91–172 substituted "section 401(a), 501(c)(17), or 509(a)" for "section 503(b)" in the list of sections that contain the description of organizations that may be considered as individuals for the purpose of establishing stock ownership, and struck out provisions which would have kept an organization or trust created before July 1, 1950, from being so designated if it had been denied exemption under section 504 or an unlimited charitable deduction under section 681(c) of this title.
 
 <b>1966</b>—Subsec. (c)(7). Pub. L. 89–809 substituted requirement that the foreign corporation be other than a corporation which has income to which section 543(a)(7) applies for the taxable year for requirement that the foreign corporation's gross income from sources within the United States for the period specified in section 861(a)(2)(B) be less than 50 percent of its total gross income from all sources, and expanded the devices included in methods of indirect ownership to encompass foreign estates, foreign trusts, and foreign partnerships.
 
@@ -183,6 +185,8 @@ Subsec. (d). Pub. L. 88–272, §225(c)(3), added subsec. (d).
 <b>1959</b>—Subsec. (c)(11). Pub. L. 86–376 added par. (11).
 
 <b>1955</b>—Subsec. (a)(2). Act Aug. 12, 1955, §3, inserted sentence at end excepting from consideration as "individuals" certain charitable foundations created before July 1, 1950.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -248,7 +252,7 @@ Pub. L. 86–376, §3(b), Sept. 23, 1959, 73 Stat. 700, provided that: "The amen
 
 #### Effective Date of 1955 Amendment
 
-Act Aug. 12, 1955, ch. 871, §4, 69 Stat. 718, provided that: "The amendment made by section 3 of this Act\[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1954."
+Act Aug. 12, 1955, ch. 871, §4, 69 Stat. 718, provided that: "The amendment made by section 3 of this Act \[amending this section\] shall apply only with respect to taxable years beginning after December 31, 1954."
 
 #### Stock Ownership Requirement; Organization or Trust Organized or Created Before July 1, 1950
 

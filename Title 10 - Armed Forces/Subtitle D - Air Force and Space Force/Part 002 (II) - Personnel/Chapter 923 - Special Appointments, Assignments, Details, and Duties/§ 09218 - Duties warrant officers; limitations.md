@@ -20,11 +20,15 @@ Aug. 21, 1941, ch. 384, §4 (1st sentence), 55 Stat. 653.
 
 10:593 (1st sentence, less provisos) is omitted as superseded by section 8012(e) of this title. 10:593 (last proviso) is omitted as covered by section 936(a)(4) of this title (article 136(a)(4) of the Uniform Code of Military Justice). The words "may be assigned" are substituted for the words "shall be vested with power to".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8548 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Cooperation between Federal Government and State fish and game departments; expenditure of funds
 
-The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and managementprojects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
+The Secretary of the Interior is authorized and directed to cooperate with the States through their respective State fish and game departments in fish restoration and management projects as hereinafter set forth: No money apportioned under this chapter to any State, except as hereinafter provided, shall be expended therein until its legislature, or other State agency authorized by the State constitution to make laws governing the conservation of fish, shall have assented to the provisions of this chapter and shall have passed laws for the conservation of fish, which shall include a prohibition against the diversion of license fees paid by fishermen for any other purpose than the administration of said State fish and game department, except that, until the final adjournment of the first regular session of the legislature held after passage of this chapter, the assent of the governor of the State shall be sufficient. The Secretary of the Interior and the State fish and game department of each State accepting the benefits of this chapter shall agree upon the fish restoration and management projects to be aided in such State under the terms of this chapter, and all projects shall conform to the standards fixed by the Secretary of the Interior.
 
 #### (b) Allocation of amounts by coastal States between marine fish projects and freshwater fish projects
 
@@ -22,6 +22,8 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 
 (Aug. 9, 1950, ch. 658, §1, 64 Stat. 430; Pub. L. 98–369, div. A, title X, §1014(a)(1), July 18, 1984, 98 Stat. 1015; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–448, §6(c)(1), Sept. 28, 1988, 102 Stat. 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–448 substituted "Allocation of amounts by coastal States between marine fish projects and freshwater fish projects" for "Allocation of funds by coastal States; formula; 'coastal State' defined" in heading and amended text generally. Prior to amendment, text read as follows: "Each coastal State, to the extent practicable, shall equitably allocate the following sums between marine fish projects and freshwater fish projects in the same proportion as the estimated number of resident marine anglers and the estimated number of resident freshwater anglers, respectively, bear to the estimated number of all resident anglers in that State:
@@ -35,6 +37,8 @@ The Secretary of the Interior is authorized and directed to cooperate with the S
 <b>1986</b>—Subsec. (b)(1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1984</b>—Pub. L. 98–369 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -71,10 +75,6 @@ Pub. L. 91–503, title II, §204, Oct. 23, 1970, 84 Stat. 1104, provided that: 
 Act Aug. 9, 1950, ch. 658, §15, formerly §16, formerly §15, as added by Pub. L. 106–408, title I, §101(c), Nov. 1, 2000, 114 Stat. 1763; renumbered §16, Pub. L. 109–59, title X, §10119, Aug. 10, 2005, 119 Stat. 1929; renumbered §15, Pub. L. 114–94, div. A, title X, §10001(g)(2), Dec. 4, 2015, 129 Stat. 1621, provided that: "This Act \[enacting this chapter\] may be cited as the 'Dingell-Johnson Sport Fish Restoration Act'."
 
 Act Aug. 9, 1950, ch. 658, as amended, is also popularly known as the "Federal Aid in Fish Restoration Act" and the "Fish Restoration and Management Projects Act".
-
-#### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Fisheries Restoration and Irrigation Mitigation
 
@@ -311,4 +311,10 @@ State expenses.—Amounts made available to States for administrative expenses u
 &emsp;&emsp;&emsp;"(cc) visiting construction sites to provide technical assistance, if requested by the applicant."
 
 \[Pub. L. 114–322, title III, §4010(b)(7)(A), Dec. 16, 2016, 130 Stat. 1874, which directed the amendment of section 10(a) of Pub. L. 106–502, set out above, by substituting "$15 million through 2021" for "$25 million for each of fiscal years 2009 through 2015", was executed by making the substitution for "$25,000,000 for each of fiscal years 2009 through 2015" to reflect the probable intent of Congress.\]
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in Department of the Interior and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or Department of the Interior which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf-Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer ofmarine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 

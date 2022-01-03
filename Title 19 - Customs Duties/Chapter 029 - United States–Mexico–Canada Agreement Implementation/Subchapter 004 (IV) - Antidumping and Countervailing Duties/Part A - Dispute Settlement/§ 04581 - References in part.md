@@ -4,6 +4,8 @@ Any reference in this part to an Annex, chapter, or article shall be considered 
 
 (Pub. L. 116–113, title IV, §411, formerly Pub. L. 103–182, title IV, §401, Dec. 8, 1993, 107 Stat. 2129; renumbered §411 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §504(b), Jan. 29, 2020, 134 Stat. 72.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3431 of this title prior to renumbering by Pub. L. 116–113.
@@ -11,6 +13,8 @@ Section was formerly classified to section 3431 of this title prior to renumberi
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–113, §504(b)(3), substituted "the USMCA" for "the Agreement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -28,7 +32,7 @@ In general.—Each transfer, redesignation, and amendment made by this section \
 
 Transition from nafta.—The transfers, redesignations, and amendments made by this section shall not apply, and the provisions of title IV of the North American Free Trade Agreement Implementation Act \[19 U.S.C. 3431 et seq.\], as in effect on the day before the date on which the USMCA enters into force, shall continue to apply on and after that date with respect—
 
-&emsp;"(A) to any final determination described in paragraph (1)(B) or clause (i), (ii), or (iii) of paragraph (2)(B) of section 516A(a) of the Tariff Act of 1930 (19 U.S.C. 1516a(a)) notice of which is published in the Federal Register before such date, or to a determination described in paragraph (2)(B)(vi) of that section notice of which is received by the Government of Canada or Mexico before the date on which the USMCA enters into force; and
+&emsp;"(A) to any final determination described in paragraph (1)(B) or clause (i), (ii), or (iii) of paragraph (2)(B) of section 516A(a) of the Tariff Act of 1930 (19 U.S.C. 1516a(a)) notice of which is published in the Federal Register before such date, or to a determination described in paragraph (2)(B)(vi) of that section notice of which is received by the Government ofCanada or Mexico before the date on which the USMCA enters into force; and
 
 &emsp;"(B) to any binational panel review under NAFTA, or any extraordinary challenge arising out of any such review, that was commenced before the date on which the USMCA enters into force."
 

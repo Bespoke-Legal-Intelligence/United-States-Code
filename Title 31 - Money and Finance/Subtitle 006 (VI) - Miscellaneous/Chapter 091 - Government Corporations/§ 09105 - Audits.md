@@ -86,7 +86,7 @@ In subsection (c), before clause (1), the words "at the place or places" and "of
 
 Subsection (d) is substituted for 31:850(1st sentence proviso words before 7th comma) because of the restatement.
 
-In subsection (e), the words "The Comptroller General shall pay the cost of an audit" are substituted for "The expenses of auditing the financial transactions of wholly owned and mixed-ownership Government corporations as provided in sections 850 and 857 of this title shall be borne out of appropriations to the General Accounting Office" to eliminate unnecessary words. The words "full" and "otherwise . . . funds of any . . .be used to . . . of the offices" are omitted as surplus. The words "except the cost of such audits contracted for and undertaken prior to April 25, 1945" are omitted as executed.
+In subsection (e), the words "The Comptroller General shall pay the cost of an audit" are substituted for "The expenses of auditing the financial transactions of wholly owned and mixed-ownership Government corporations as provided in sections 850 and 857 of this title shall be borne out of appropriations to the General Accounting Office" to eliminate unnecessary words. The words "full" and "otherwise . . . funds of any . . . be used to . . . of the offices" are omitted as surplus. The words "except the cost of such audits contracted for and undertaken prior to April 25, 1945" are omitted as executed.
 
 Subsection (g) is substituted for 31:866(a)(words between 1st comma and 1st proviso) for clarity and consistency.
 

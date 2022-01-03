@@ -120,9 +120,9 @@ The Director shall consult with the Director of the Office of Management and Bud
 
 #### (4) Strategy
 
-&emsp;Not later than 180 days after December 27, 2020, the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, theCommittee on Oversight and Reform, and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
+&emsp;Not later than 180 days after December 27, 2020, the Director shall develop and submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Rules and Administration of the Senate and the Committee on Homeland Security, the Committee on Oversight and Reform, and the Committee on House Administration of the House of Representatives a strategy to utilize the information collected under this subsection for countering malicious cyber activity.
 
-(Pub. L. 107–296, title XXII, §2215, as added Pub. L. 116–260, div. U, title IX, §904(b)(1)(B), Dec. 27, 2020, 134 Stat. 2298.)
+(Pub. L. 107–296, title XXII, §2215, as added Pub. L. 116–260, div. U, title IX, §904(b)(1)(B), Dec. 27, 2020, 134 Stat. 2298; Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(ii), (B), Dec. 27, 2021, 135 Stat. 2060, 2061.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,9 +130,11 @@ The Director shall consult with the Director of the Office of Management and Bud
 
 The 21st Century IDEA Act, referred to in subsec. (d)(3), is Pub. L. 115–336, Dec. 20, 2018, 132 Stat. 5025, also known as the 21st Century Integrated Digital Experience Act, which is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 
-#### Codification
+#### Amendments
 
-Other sections 2215 of Pub. L. 107–296 are classified to sections 665b, 665c, and 665d of this title.
+<b>2021</b>—Pub. L. 117–81, §1547(b)(1)(B), made technical amendment to the directory language of section 904(b)(1) of Pub. L. 116–260.
+
+Pub. L. 117–81, §1547(b)(1)(A)(ii), reenacted section catchline.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

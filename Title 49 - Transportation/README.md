@@ -23,6 +23,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94, div. A, title VIII, §8001(b), Dec. 4, 2015, 129 Stat. 1612, substituted "Multimodal Freight Transportation . . .70101" for "\[TRANSFERRED\]" in item for subtitle IX.
@@ -7457,6 +7459,8 @@ Rep.
 
 5714
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enacting Clauses
 
 Pub. L. 103–272, §1(a), July 5, 1994, 108 Stat. 745, provided that: "Certain general and permanent laws of the United States, related to transportation, are revised, codified, and enacted by subsections (c)–(e) of this section without substantive change as subtitles II, III, and V–X of title 49, United States Code, 'Transportation'. Those laws may be cited as '49 U.S.C. ————'."
@@ -7513,7 +7517,7 @@ Continuing Effect.—An order, rule, or regulation in effect under a law replace
 
 "(d)
 
-Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken orcommitted under the corresponding provision enacted by this Act.
+Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
 "(e)
 

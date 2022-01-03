@@ -8,6 +8,8 @@ Subpart C—Information Regarding Wages Paid Employees
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–97, title III, §313(e)(2)(D), July 30, 1965, 79 Stat. 385, added item 6053.

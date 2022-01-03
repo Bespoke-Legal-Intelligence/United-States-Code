@@ -14,7 +14,7 @@ The Secretary shall develop a strategy for implementing Federal agricultural exp
 
 #### (b) Purpose of strategy
 
-The strategy developed under subsection (a) shall encourage the maintenance, development,and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
+The strategy developed under subsection (a) shall encourage the maintenance, development, and expansion of export markets for United States agricultural commodities and related products, including high-value and value-added products.
 
 #### (c) Goals of strategy
 
@@ -50,11 +50,15 @@ The strategy developed under subsection (a) shall have the following goals:
 
 (Pub. L. 95–501, title I, §103, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3670; amended Pub. L. 102–237, title III, §308, Dec. 13, 1991, 105 Stat. 1856; Pub. L. 104–127, title II, §241(a), Apr. 4, 1996, 110 Stat. 963.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions requiring development of long-term agricultural trade strategy and providing for goals and contents of strategy, establishment of priority markets, review of strategy, confidentiality, withholding of information from Congress, and termination of section on Dec. 31, 1995.
 
 <b>1991</b>—Subsec. (d)(2). Pub. L. 102–237 inserted a closing parenthesis before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibition on Use of Funds for Promotion of Tobacco or Tobacco Products
 

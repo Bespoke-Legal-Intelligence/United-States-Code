@@ -54,7 +54,7 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;(2) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
 
-&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services; and
+&emsp;(3) construct, or acquire an interest in, a public building (as defined in section 3301(a) oftitle 40) only under a delegation of authority from the Administrator of General Services; and
 
 &emsp;(4) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
@@ -136,13 +136,13 @@ General rule.—Except as provided in paragraph (2), a proposal in the possessio
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
+Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offerorthe disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
 
 &emsp;(3)
 
 Proposal defined.—In this subsection, the term "proposal" means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a),\(b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44; Pub. L. 115–254, div. B, title V, §544, Oct. 5, 2018, 132 Stat. 3374.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 108–176, title II, §§222, 224(a), (b), Dec. 12, 2003, 117 Stat. 2527; Pub. L. 108–178, §4(k), Dec. 15, 2003, 117 Stat. 2642; Pub. L. 111–350, §5(o)(7), Jan. 4, 2011, 124 Stat. 3853; Pub. L. 112–95, title II, §§206, 210, Feb. 14, 2012, 126 Stat. 39, 44; Pub. L. 115–254, div. B, title V, §544, Oct. 5, 2018, 132 Stat. 3374.)
 
 Historical and Revision Notes
 
@@ -208,6 +208,8 @@ Subsection (b)(2)(E) is substituted for 49 App.:1344(g) to eliminate the cross-r
 
 This amends 49:40110(a) to clarify the restatement of 49 App.:1344(a)(1)–(3) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1106).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Acquisition Streamlining Act of 1994, referred to in subsec. (d)(2)(C), is Pub. L. 103–355, Oct. 13, 1994, 108 Stat. 3243. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 101 of Title 41, Public Contracts, and Tables.
@@ -270,6 +272,8 @@ Subsec. (c)(2)(F). Pub. L. 107–217, §3(n)(5)(B), substituted "sections 121, 1
 
 Subsec. (b)(2)(A). Pub. L. 103–429, §6(80), inserted "notwithstanding section 1341(a)(1) of title 31," before "lease".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendments
 
 Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
@@ -298,27 +302,11 @@ Pub. L. 112–95, title VIII, §814, Feb. 14, 2012, 126 Stat. 125, provided that
 
 #### FAA Evaluation of Long-Term Capital Leasing
 
-Pub. L. 106–181, title VII, §704, Apr. 5, 2000, 114 Stat. 157, provided that:
-
-"(a)
-
-In General.—The Administrator \[of the Federal Aviation Administration\] may carry out a pilot program in fiscal years 2001 through 2003 to test and evaluate the benefits of long-term contracts for the leasing of aviation equipment and facilities.
-
-"(b)
-
-Period of Contracts.—Notwithstanding any other provision of law, the Administrator may enter into a contract under the program to lease aviation equipment or facilities for a period of greater than 5 years.
-
-"(c)
-
-Number of Contracts.—The Administrator may not enter into more that \[than\] 10 contracts under the program.
-
-"(d)
-
-Types of Contracts.—The contracts to be evaluated under the program may include contracts for telecommunication services that are provided through the use of a satellite, requirements related to oceanic and air traffic control, air-to-ground radio communications, and air traffic control tower construction."
+Pub. L. 106–181, title VII, §704, Apr. 5, 2000, 114 Stat. 157, authorized the Administrator of the Federal Aviation Administration to carry out a pilot program in fiscal years 2001 through 2003 to test and evaluate the benefits of long-term contracts for the leasing of aviation equipment and facilities and to enter into certain types of contracts for this purpose.
 
 #### Assessment of Acquisition Management System
 
-Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: "Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
+Pub. L. 104–264, title II, §251, Oct. 9, 1996, 110 Stat. 3236, provided that: "Not later than April 1, 1999, the Administrator \[of the Federal Aviation Administration\] shall employ outside experts to provide an independent evaluation of the effectiveness of the Administration's \[Federal Aviation Administration\] acquisition management system within 3 months after such date. The Administrator shall transmit a copy of the evaluation to the Committee on Commerce, Science, and Transportation of the Senate and the Committee onTransportation and Infrastructure of the House of Representatives."
 
 Pub. L. 104–205, title III, §351, Sept. 30, 1996, 110 Stat. 2979, provided that: "Not later than December 31, 1997, the Administrator of the Federal Aviation Administration shall—
 

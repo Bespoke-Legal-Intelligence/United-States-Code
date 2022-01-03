@@ -42,9 +42,13 @@ Gross income of a corporation (other than an electing corporation) which is a me
 
 (Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1455.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subchapter, referred to in subsec. (c)(2)(B)(ii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

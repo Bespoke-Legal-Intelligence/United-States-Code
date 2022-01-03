@@ -154,6 +154,8 @@ Not later than 1 year after February 7, 2014, the Secretary shall promulgate reg
 
 (Pub. L. 95–113, title XIV, §1415B, as added Pub. L. 113–79, title VII, §7104, Feb. 7, 2014, 128 Stat. 866; amended Pub. L. 115–334, title VII, §7106, Dec. 20, 2018, 132 Stat. 4783.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(1)(F). Pub. L. 115–334, §7106(1), added subpar. (F).

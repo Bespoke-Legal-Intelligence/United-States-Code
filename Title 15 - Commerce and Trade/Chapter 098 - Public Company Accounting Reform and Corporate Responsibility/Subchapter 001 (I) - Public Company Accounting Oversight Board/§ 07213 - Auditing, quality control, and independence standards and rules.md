@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 or more professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
+&emsp;The Board shall, by rule, establish, including, to the extent it determines appropriate, through adoption of standards proposed by 1 ormore professional groups of accountants designated pursuant to paragraph (3)(A) or advisory groups convened pursuant to paragraph (4), and amend or otherwise modify or alter, such auditing and related attestation standards, such quality control standards, such ethics standards, and such independence standards to be used by registered public accounting firms in the preparation and issuance of audit reports, as required by this Act or the rules of the Commission, or as may be necessary or appropriate in the public interest or for the protection of investors.
 
 #### (2) Rule requirements
 
@@ -64,7 +64,7 @@
 
 #### (4) Advisory groups
 
-&emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may include practicing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
+&emsp;The Board shall convene, or authorize its staff to convene, such expert advisory groups as may be appropriate, which may includepracticing accountants and other experts, as well as representatives of other interested groups, subject to such rules as the Board may prescribe to prevent conflicts of interest, to make recommendations concerning the content (including proposed drafts) of auditing, quality control, ethics, independence, or other standards required to be established under this section.
 
 #### (b) Independence standards and rules
 
@@ -86,6 +86,8 @@ The Board shall include in the annual report required by section 7211(h) of this
 
 (Pub. L. 107–204, title I, §103, July 30, 2002, 116 Stat. 755; Pub. L. 111–203, title IX, §982(d), July 21, 2010, 124 Stat. 1929; Pub. L. 112–106, title I, §104, Apr. 5, 2012, 126 Stat. 310.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
@@ -101,6 +103,8 @@ Title II of this Act, referred to in subsec. (b), is title II of Pub. L. 107–2
 Subsec. (a)(2)(A)(iii). Pub. L. 111–203, §982(d)(2), substituted "in each audit report for an issuer, describe" for "describe in each audit report" in introductory provisions.
 
 Subsec. (a)(2)(B)(i). Pub. L. 111–203, §982(d)(3), substituted "issuers, brokers, and dealers" for "issuers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

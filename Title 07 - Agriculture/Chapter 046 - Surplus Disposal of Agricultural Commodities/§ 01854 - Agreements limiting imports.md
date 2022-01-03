@@ -4,6 +4,8 @@ The President may, whenever he determines such action appropriate, negotiate wit
 
 (May 28, 1956, ch. 327, title II, §204, 70 Stat. 200; Pub. L. 87–488, June 19, 1962, 76 Stat. 104; Pub. L. 103–465, title III, §332, Dec. 8, 1994, 108 Stat. 4947; Pub. L. 104–295, §20(c)(8), Oct. 11, 1996, 110 Stat. 3528.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to section 3511(d)(4) of title 19.
@@ -12,9 +14,13 @@ The President may, whenever he determines such action appropriate, negotiate wit
 
 <b>1962</b>—Pub. L. 87–488 authorized President to issue regulations governing entry or withdrawal from warehouse of articles which are products of countries not parties to a multilateral agreement respecting such articles.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 335 of Pub. L. 103–465, set out as an Effective Date note under section 3591 of Title 19, Customs Duties.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11539. Delegations of Authority Concerning Certain Meats
 
@@ -28,7 +34,7 @@ Section 1. The United States Trade Representative, with the concurrence of the S
 
 (2) fresh, chilled, or frozen meat of goats and sheep (except lambs), and
 
-(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, orfrozen, but not otherwise preserved, that are the products of such countries.
+(3) prepared and preserved beef and veal (except sausage) if articles are prepared, whether fresh, chilled, or frozen, but not otherwise preserved, that are the products of such countries.
 
 Sec. 2. The Secretary of Agriculture, with the concurrence of the Secretary of State and the Special Representative for Trade Negotiations \[United States Trade Representative\], is authorized to issue regulations governing the entry or withdrawal from warehouse for consumption in the United States of any such meats to carry out any such agreement.
 

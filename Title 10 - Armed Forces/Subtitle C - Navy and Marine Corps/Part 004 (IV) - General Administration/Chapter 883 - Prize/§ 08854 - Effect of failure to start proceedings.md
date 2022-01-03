@@ -24,6 +24,8 @@ Historical and Revision Notes
 
 R.S. 4625 (last sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7654 of this title as this section.

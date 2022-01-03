@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Attorney General, working in collaboration with the Secretary of Health and Human Services and the Secretary of Education, shall award grants to enhance the safety of youth and children who are victims of, or exposed to, domestic violence, dating violence, sexual assault, stalking, or sex trafficking and prevent future violence.
+The Attorney General, working in collaboration with the Secretary of Health and HumanServices and the Secretary of Education, shall award grants to enhance the safety of youth and children who are victims of, or exposed to, domestic violence, dating violence, sexual assault, stalking, or sex trafficking and prevent future violence.
 
 #### (b) Program purposes
 
@@ -24,7 +24,7 @@ Funds provided under this section may be used for the following program purpose 
 
 &emsp;&emsp;(A) provide training to school personnel, including healthcare providers and security personnel, on the needs of students who are victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking;
 
-&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and highschools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
+&emsp;&emsp;(B) develop and implement prevention and intervention policies in middle and high schools, including appropriate responses to, and identification and referral procedures for, students who are experiencing or perpetrating domestic violence, dating violence, sexual assault, stalking, or sex trafficking, and procedures for handling the requirements of court protective orders issued to or against students;
 
 &emsp;&emsp;(C) provide support services for student victims of domestic violence, dating violence, sexual assault, stalking, or sex trafficking, such as a resource person who is either on-site or on-call;
 
@@ -104,7 +104,7 @@ Section was formerly classified to section 14043c of Title 42, The Public Health
 
 #### Prior Provisions
 
-A prior section 41201 of title IV of Pub. L. 103–322, as added Pub. L. 109–162, title III, §303, Jan. 5, 2006, 119Stat. 3004, related to services to advocate for and respond to youth, prior to repeal by Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84.
+A prior section 41201 of title IV of Pub. L. 103–322, as added Pub. L. 109–162, title III, §303, Jan. 5, 2006, 119 Stat. 3004, related to services to advocate for and respond to youth, prior to repeal by Pub. L. 113–4, title III, §302, Mar. 7, 2013, 127 Stat. 84.
 
 #### Amendments
 

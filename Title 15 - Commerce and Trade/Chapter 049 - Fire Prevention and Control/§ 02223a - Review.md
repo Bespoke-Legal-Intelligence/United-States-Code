@@ -4,9 +4,13 @@ The Administrator of the United States Fire Administration (hereafter in section
 
 (Pub. L. 101–446, §2, Oct. 22, 1990, 104 Stat. 1045.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Firefighters' Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

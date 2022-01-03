@@ -20,7 +20,7 @@ General Requirements.—(1) Not later than July 25, 1993, the Attorney General s
 
 &emsp;(B) the National Crime Information Center Policy Advisory Board to ensure the security of the information in the System and that the System will not compromise the security of stolen passenger motor vehicle and passenger motor vehicle parts information in the System.
 
-(3) If the Attorney General decides that the Center is not able to perform the functions of the System, the Attorney General shall make anagreement for the operation of the System separate from the Center.
+(3) If the Attorney General decides that the Center is not able to perform the functions of the System, the Attorney General shall make an agreement for the operation of the System separate from the Center.
 
 (4) The Attorney General shall prescribe by regulation the effective date of the System.
 
@@ -28,7 +28,7 @@ General Requirements.—(1) Not later than July 25, 1993, the Attorney General s
 
 Requests for Information.—(1) The Attorney General shall prescribe by regulation procedures under which an individual or entity intending to transfer a passenger motor vehicle or passenger motor vehicle part may obtain information on whether the vehicle or part is listed in the System as stolen.
 
-(2) On request of an insurance carrier, a person lawfully selling or distributing passenger motor vehicle parts in interstate commerce, or an individual or enterprise engaged in the business of repairing passenger motor vehicles, the Attorney General (or the entity the Attorney General designates) immediately shall inform the insurance carrier, person, individual, or enterprise whether the System has a record of a vehicle or vehicle part with a particular vehicle identification number (or derivative of that number) being reported as stolen. The Attorney General may require appropriate verification to ensure that the request is legitimate and will not compromise the security of the System.
+(2) On request of an insurance carrier, a person lawfully selling or distributing passenger motor vehicle parts in interstate commerce, or an individual or enterprise engaged in the business of repairing passenger motor vehicles, the Attorney General (or the entity the Attorney General designates) immediately shall inform the insurance carrier, person, individual, or enterprise whether the System has a record of a vehicle or vehicle part with a particular vehicle identification number (or derivative of that number) being reported as stolen. The Attorney General may require appropriate verification to ensurethat the request is legitimate and will not compromise the security of the System.
 
 (c)
 
@@ -110,9 +110,13 @@ In subsection (b)(2), the words "shall inform the insurance carrier, person, ind
 
 In subsection (c)(1), the words "and appoint" are omitted as unnecessary because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–152 added subsec. (d).
+
+#### <b>Editorial Notes</b>
 
 #### Termination of Advisory Committees
 

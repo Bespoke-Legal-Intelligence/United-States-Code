@@ -2,7 +2,7 @@
 
 #### (a) Regulations respecting general terms and conditions of insurability
 
-The Administrator shall from time to time, after consultation with the advisory committeeauthorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, provide by regulation for general terms and conditions of insurability which shall be applicable to properties eligible for flood insurance coverage under section 4012 of this title, including—
+The Administrator shall from time to time, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, provide by regulation for general terms and conditions of insurability which shall be applicable to properties eligible for flood insurance coverage under section 4012 of this title, including—
 
 &emsp;(1) the types, classes, and locations of any such properties which shall be eligible for flood insurance;
 
@@ -50,7 +50,7 @@ In addition to any other terms and conditions under subsection (a), such regulat
 
 #### (1) Waiting period
 
-&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurance coverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shall become effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
+&emsp;Except as provided in paragraph (2), coverage under a new contract for flood insurancecoverage under this chapter entered into after September 23, 1994, and any modification to coverage under an existing flood insurance contract made after September 23, 1994, shall become effective upon the expiration of the 30-day period beginning on the date that all obligations for such coverage (including completion of the application and payment of any initial premiums owed) are satisfactorily completed.
 
 #### (2) Exception
 
@@ -88,6 +88,8 @@ In addition to any other terms and conditions under subsection (a), such regulat
 
 (Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(o), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284; Pub. L. 112–141, div. F, title II, §§100228, 100238(b)(1), 100241, July 6, 2012, 126 Stat. 944, 958, 962; Pub. L. 113–89, §12, Mar. 21, 2014, 128 Stat. 1025.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(6) and (c)(1), (2)(A), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -110,7 +112,7 @@ Subsec. (c)(2)(C). Pub. L. 112–141, §100241, added subpar. (C).
 
 Subsec. (b)(3). Pub. L. 103–325, §573(a)(2), substituted "a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000" for "an amount of $50,000 under the provisions of this clause".
 
-Subsec. (b)(4). Pub. L. 103–325, §573(a)(3), added par. (4) and struck out former par. (4) which read as follows: "in the case of business property owned, leased, or operated by small business concerns for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraph (B) of paragraph (1) shall be made available to every such owner, lessee, or operator in respect to any single structure, including any contents thereof, related to premises of small business occupants (as that term is defined by the Director), up to an amount equalto (i) $250,000 plus (ii) $200,000 multiplied by the number of such occupants which coverage shall be allocated among such occupants (or among the occupant or occupants and the owner) in accordance with the regulations prescribed by the Director pursuant to such subparagraph (B), except that the aggregate liability for the structure itself may in no case exceed $250,000;".
+Subsec. (b)(4). Pub. L. 103–325, §573(a)(3), added par. (4) and struck out former par. (4) which read as follows: "in the case of business property owned, leased, or operated by small business concerns for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in subparagraph (B) of paragraph (1) shall be made available to every such owner, lessee, or operator in respect to any single structure, including any contents thereof, related to premises of small business occupants (as that term is defined by the Director), up to an amount equal to (i) $250,000 plus (ii) $200,000 multiplied by the number of such occupants which coverage shall be allocated among such occupants (or among the occupant or occupants and the owner) in accordance with the regulations prescribed by the Director pursuant to such subparagraph (B), except that the aggregate liability for the structure itself may in no case exceed $250,000;".
 
 Subsec. (b)(5). Pub. L. 103–325, §573(b)(1), substituted a period for "; and" at end.
 
@@ -147,6 +149,8 @@ Subsec. (b)(1)(B). Pub. L. 93–234, §101(b), substituted "$100,000" for "$30,0
 Subsec. (b)(1)(C). Pub. L. 93–234, §101(c), increased cl. (i) limits to $100,000 from $30,000 and substituted cl. (ii) "$100,000 aggregate liability per unit for any contents related to such unit" for "$5,000 aggregate liability per dwelling unit for any contents related to such unit in the case of residential properties, or per occupant (as that term is defined by the Secretary) for any contents related to the premises occupied in the case of any other properties".
 
 <b>1971</b>—Subsec. (b)(1)(C). Pub. L. 92–213 inserted "church properties, and" before "any other properties which may become".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

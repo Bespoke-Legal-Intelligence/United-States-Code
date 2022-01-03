@@ -28,6 +28,8 @@ In this section, the term "eligible entity" means a State, a political subdivisi
 
 (Pub. L. 110–234, title XI, §11013, May 22, 2008, 122 Stat. 1361; Pub. L. 110–246, §4(a), title XI, §11013, June 18, 2008, 122 Stat. 1664, 2122; Pub. L. 113–79, title XII, §12103, Feb. 7, 2014, 128 Stat. 979; Pub. L. 115–334, title XII, §12105, Dec. 20, 2018, 132 Stat. 4943.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Animal Health Protection Act, referred to in subsec. (c), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -44,7 +46,9 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 <b>2014</b>—Subsec. (d). Pub. L. 113–79 substituted "2018" for "2012".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 

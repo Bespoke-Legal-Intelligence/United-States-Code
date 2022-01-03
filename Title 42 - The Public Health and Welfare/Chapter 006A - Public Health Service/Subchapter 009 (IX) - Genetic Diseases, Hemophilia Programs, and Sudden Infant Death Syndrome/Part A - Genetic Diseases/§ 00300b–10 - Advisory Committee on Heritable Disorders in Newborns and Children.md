@@ -16,7 +16,7 @@ The Advisory Committee shall—
 
 &emsp;(4) provide technical assistance, as appropriate, to individuals and organizations regarding the submission of nominations to the uniform screening panel, including prior to the submission of such nominations;
 
-&emsp;(5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are not yet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
+&emsp;(5) take appropriate steps, at its discretion, to prepare for the review of nominations prior to their submission, including for conditions for which a screening method has been validated but other nomination criteria are notyet met, in order to facilitate timely action by the Advisory Committee once such submission has been received by the Committee;
 
 &emsp;(6) develop a model decision-matrix for newborn screening expansion, including an evaluation of the potential public health impact, including the cost of such expansion, and periodically update the recommended uniform screening panel, as appropriate, based on such decision-matrix;
 
@@ -116,6 +116,8 @@ The Advisory Committee shall meet at least 4 times each calendar year, or at the
 
 (July 1, 1944, ch. 373, title XI, §1111, as added Pub. L. 106–310, div. A, title XXVI, §2601, Oct. 17, 2000, 114 Stat. 1166; amended Pub. L. 110–204, §4, Apr. 24, 2008, 122 Stat. 706; Pub. L. 110–237, §1(a)(3), (b)(2), May 27, 2008, 122 Stat. 1556, 1557; Pub. L. 113–240, §4, Dec. 18, 2014, 128 Stat. 2853.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -138,7 +140,7 @@ Subsec. (b)(8)(L). Pub. L. 113–240, §4(1)(D)(iii)–(v), added subpar. (L).
 
 Subsec. (d)(1). Pub. L. 113–240, §4(2)(A), substituted "120 days" for "180 days" and inserted at end "If the Secretary is unable to make a determination to adopt or reject such recommendation within such 120-day period, the Secretary shall notify the Advisory Committee and the appropriate committees of Congress of such determination together with an explanation for why the Secretary was unable to comply within such 120-day period, as well as a plan of action for consideration of such pending recommendation."
 
-Subsec. (d)(2). Pub. L. 113–240, §4(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Priorto amendment, text of par. (2) read as follows: "The Secretary shall adopt or reject any recommendation issued by the Advisory Committee that is pending on April 24, 2008, by not later than 180 days after April 24, 2008."
+Subsec. (d)(2). Pub. L. 113–240, §4(2)(B), (C), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary shall adopt or reject any recommendation issued by the Advisory Committee that is pending on April 24, 2008, by not later than 180 days after April 24, 2008."
 
 Subsec. (d)(3). Pub. L. 113–240, §4(2)(D), added par. (3). Former par. (3) redesignated (2).
 
@@ -166,9 +168,11 @@ Subsec. (g). Pub. L. 110–237, §1(a)(3)(D), substituted "2009, $1,012,500 for 
 
 Pub. L. 110–204, §4(3), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

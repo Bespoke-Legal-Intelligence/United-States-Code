@@ -12,7 +12,7 @@ Establishment.—(1) The Secretary shall establish an advisory committee to prov
 
 (b)
 
-Membership.—(1) The Committee shall be comprised of 15 voting members selected by theSecretary from among individuals nominated as specified under this subsection.
+Membership.—(1) The Committee shall be comprised of 15 voting members selected by the Secretary from among individuals nominated as specified under this subsection.
 
 (2) In selecting members under paragraph (1), the Secretary shall ensure that—
 

@@ -20,7 +20,7 @@
 
 &emsp;(ii) in excess of 50 per centum up to 100 per centum of the net book worth of the purchaser, the buy-out cost shall be 10 per centum of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out; or
 
-&emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out costshall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
+&emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out cost shall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
 
 (B) For purposes of this paragraph, the term "net book worth" does not include the value of any outstanding uncut Federal timber sales contracts.
 
@@ -42,7 +42,7 @@
 
 (B) Timber sales in Forest Service region 6 shall not exceed four billion three hundred million board feet of net merchantable sawtimber in fiscal year 1984.
 
-(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
+(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volumeshall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
 
 (6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
 
@@ -56,7 +56,7 @@
 
 #### (b) Extension of time for performance of contracts; covered contracts; damages for default
 
-(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) and included in the President's program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President's program of July 28,1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
+(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) and included in the President's program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President's program of July 28, 1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
 
 (2) Notwithstanding any other provision of law, timber contracts extended pursuant to the President's program of July 28, 1983, as implemented by the Secretary of Agriculture shall not be subject to inclusion of additional provisions for calculating damages for default.
 
@@ -70,9 +70,13 @@ Effective January 1, 1985, in any contract for the sale of timber from the Natio
 
 (Pub. L. 98–478, §2, Oct. 16, 1984, 98 Stat. 2213.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(4)(B), (7)(C), is Pub. L. 98–478, Oct. 16, 1984, 98 Stat. 2213, which enacted sections 539f, 618, and 619 of this title and provisions set out as a note under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

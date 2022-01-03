@@ -30,9 +30,11 @@ To the maximum extent possible, each department <sup>1</sup> or agency's repres
 
 #### (d) Chair
 
-The President shall designate an official to direct the coordination mechanism established pursuant to subsection (a). The official so designated may invite the head of any other department or agency of the United States to designate a representative of that department or agency to participate from time to time in the activities of the Committee.
+The President shall designate an official to direct the coordination mechanism establishedpursuant to subsection (a). The official so designated may invite the head of any other department or agency of the United States to designate a representative of that department or agency to participate from time to time in the activities of the Committee.
 
 (Pub. L. 107–228, div. B, title XIII, §1334, Sept. 30, 2002, 116 Stat. 1449.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Russian Federation Debt Reduction for Nonproliferation
 
@@ -116,7 +118,7 @@ Cost.—The term 'cost' has the meaning given that term in section 502(5) of the
 
 &emsp;"(3)
 
-Russian federation nonproliferation investment agreement or agreement.—The term 'Russian Federation Nonproliferation Investment Agreement' or 'Agreement' means the agreement between the United States and the Russian Federation entered into under section 1315(a).
+Russian federation nonproliferation investment agreement or agreement.—The term 'RussianFederation Nonproliferation Investment Agreement' or 'Agreement' means the agreement between the United States and the Russian Federation entered into under section 1315(a).
 
 &emsp;"(4)
 

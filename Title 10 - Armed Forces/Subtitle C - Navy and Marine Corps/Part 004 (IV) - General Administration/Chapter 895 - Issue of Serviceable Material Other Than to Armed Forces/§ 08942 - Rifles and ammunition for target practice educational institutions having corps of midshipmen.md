@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Lend.—The Secretary of the Navy may lend, without expense to the United States, magazine rifles and appendages that are not of the existing service models in use at the time and that are not necessary for a proper reserve supply, to any educational institution having a uniformed corps of midshipmen of sufficient number for target practice. The Secretary may also issue 40 rounds of ball cartridges for each midshipman for each range atwhich target practice is held, but not more than 120 rounds each year for each midshipman participating in target practice.
+Authority To Lend.—The Secretary of the Navy may lend, without expense to the United States, magazine rifles and appendages that are not of the existing service models in use at the time and that are not necessary for a proper reserve supply, to any educational institution having a uniformed corps of midshipmen of sufficient number for target practice. The Secretary may also issue 40 rounds of ball cartridges for each midshipman for each range at which target practice is held, but not more than 120 rounds each year for each midshipman participating in target practice.
 
 (b)
 
@@ -20,9 +20,13 @@ Regulations.—The Secretary of the Navy shall prescribe regulations to carry ou
 
 (Added Pub. L. 110–181, div. A, title III, §377(a), Jan. 28, 2008, 122 Stat. 85, §7912; renumbered §8942, Pub. L. 115–232, div. A, title VIII, §807(d)(15), Aug. 13, 2018, 132 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7912 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

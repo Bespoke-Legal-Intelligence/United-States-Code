@@ -40,6 +40,8 @@ As used in this chapter:
 
 (Pub. L. 101–624, title XIX, §1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, §2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, §146(c), Apr. 4, 1996, 110 Stat. 918; Pub. L. 107–171, title I, §1506(a), (b), May 13, 2002, 116 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Par. (3). Pub. L. 107–171, §1506(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "The term 'fluid milk product'—

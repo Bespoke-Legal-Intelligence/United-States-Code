@@ -21,8 +21,10 @@
 | [2656h.](%C2%A7%2002656h%20-%20International%20credit%20reports.md) | International credit reports. |
 | [2656i.](%C2%A7%2002656i%20-%20Counterdrug%20and%20anticrime%20activities%20of%20Department%20of%20State.md) | Counterdrug and anticrime activities of Department of State. |
 | [2656j.](%C2%A7%2002656j%20-%20Countering%20white%20identity%20terrorism%20globally.md) | Countering white identity terrorism globally. |
+| [2656k.](%C2%A7%2002656k%20-%20Human%20rights%20awareness%20for%20American%20athletic%20delegations.md) | Human rights awareness for American athletic delegations. |
 | [2657\.](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md) | Custody of seals and property. |
 | [2658\.](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md) | Repealed. |
+| [2658a.](%C2%A7%2002658a%20-%20Foreign%20Affairs%20Manual%20and%20Foreign%20Affairs%20Handbook%20changes.md) | Foreign Affairs Manual and Foreign Affairs Handbook changes. |
 | [2659\.](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md) | State statutes to be procured. |
 | [2660\.](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Director%20of%20the%20Government%20Publishing%20Office.md) | Copies of treaties furnished to Director of the Government Publishing Office. |
 | [2661\.](%C2%A7%2002661%20-%20Procurement%20of%20information%20for%20corporations%2C%20firms%20and%20individuals%3B%20expense%20of%20cablegrams%20and%20telephone%20service%20involved%3B%20appropriation.md) | Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation. |
@@ -56,6 +58,7 @@
 | [2679b.](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md) | Prohibition against fraudulent use of "Made in America" labels. |
 | [2679c.](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md) | Prohibition on discriminatory contracts. |
 | [2679d.](%C2%A7%2002679d%20-%20Exemption%20from%20certain%20procurement%20protest%20procedures%20for%20noncompetitive%20contracting%20in%20emergency%20circumstances.md) | Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances. |
+| [2679e.](%C2%A7%2002679e%20-%20List%20of%20certain%20telecommunications%20providers.md) | List of certain telecommunications providers. |
 | [2680\.](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md) | Appropriations for State Department; information to congressional committees. |
 | 2680–1. | Deadline for responses to questions from congressional committees. |
 | 2680–2. | Facilitating access to Department of State. |
@@ -123,13 +126,23 @@
 | [2730\.](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md) | Prohibition on funding the involuntary return of refugees. |
 | [2731\.](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md) | Monitoring and combating anti-Semitism. |
 | [2732\.](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md) | Public diplomacy responsibilities of the Department of State. |
+| [2732a.](%C2%A7%2002732a%20-%20Avoiding%20duplication%20of%20programs%20and%20efforts.md) | Avoiding duplication of programs and efforts. |
+| [2732b.](%C2%A7%2002732b%20-%20Improving%20research%20and%20evaluation%20of%20public%20diplomacy.md) | Improving research and evaluation of public diplomacy. |
 | [2733\.](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%27%20Retirement%20System.md) | Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System. |
 | [2734\.](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md) | Reconstruction and stabilization. |
 | [2734a.](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md) | Authorities related to personnel. |
 | [2734b.](%C2%A7%2002734b%20-%20Report%20on%20diversity%20recruitment%2C%20employment%2C%20retention%2C%20and%20promotion.md) | Report on diversity recruitment, employment, retention, and promotion. |
 | [2734c.](%C2%A7%2002734c%20-%20Employee%20assignment%20restrictions.md) | Employee assignment restrictions. |
 | [2734d.](%C2%A7%2002734d%20-%20Recruitment%20and%20retention%20of%20individuals%20who%20have%20lived%2C%20worked%2C%20or%20studied%20in%20predominantly%20Muslim%20countries%20or%20communities.md) | Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities. |
+| [2734e.](%C2%A7%2002734e%20-%20Annual%20Report.md) | Annual Report. |
+| [2734f.](%C2%A7%2002734f%20-%20Strategic%20staffing%20plan%20for%20the%20Department%20of%20State.md) | Strategic staffing plan for the Department of State. |
 | [2735\.](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md) | Foreign relations exchange programs. |
+| [2736\.](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md) | Exit interviews for workforce. |
+| [2736a.](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md) | Recruitment and retention. |
+| [2736b.](%C2%A7%2002736b%20-%20Leadership%20engagement%20and%20accountability.md) | Leadership engagement and accountability. |
+| [2736c.](%C2%A7%2002736c%20-%20Professional%20development%20opportunities%20and%20tools.md) | Professional development opportunities and tools. |
+| [2736d.](%C2%A7%2002736d%20-%20Payne%20fellowship%20authorization.md) | Payne fellowship authorization. |
+| [2736e.](%C2%A7%2002736e%20-%20Voluntary%20participation.md) | Voluntary participation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -157,8 +170,10 @@
 - [&sect; 02656h - International credit reports](%C2%A7%2002656h%20-%20International%20credit%20reports.md)
 - [&sect; 02656i - Counterdrug and anticrime activities of Department of State](%C2%A7%2002656i%20-%20Counterdrug%20and%20anticrime%20activities%20of%20Department%20of%20State.md)
 - [&sect; 02656j - Countering white identity terrorism globally](%C2%A7%2002656j%20-%20Countering%20white%20identity%20terrorism%20globally.md)
+- [&sect; 02656k - Human rights awareness for American athletic delegations](%C2%A7%2002656k%20-%20Human%20rights%20awareness%20for%20American%20athletic%20delegations.md)
 - [&sect; 02657 - Custody of seals and property](%C2%A7%2002657%20-%20Custody%20of%20seals%20and%20property.md)
 - [&sect; 02658 - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), Apr. 30, 1994, 108 Stat. 405](%C2%A7%2002658%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405.md)
+- [&sect; 02658a - Foreign Affairs Manual and Foreign Affairs Handbook changes](%C2%A7%2002658a%20-%20Foreign%20Affairs%20Manual%20and%20Foreign%20Affairs%20Handbook%20changes.md)
 - [&sect; 02659 - State statutes to be procured](%C2%A7%2002659%20-%20State%20statutes%20to%20be%20procured.md)
 - [&sect; 02660 - Copies of treaties furnished to Director of the Government Publishing Office](%C2%A7%2002660%20-%20Copies%20of%20treaties%20furnished%20to%20Director%20of%20the%20Government%20Publishing%20Office.md)
 - [&sect; 02661 - Procurement of information for corporations, firms and individuals; expense of cablegrams and telephone service involved; appropriation](%C2%A7%2002661%20-%20Procurement%20of%20information%20for%20corporations%2C%20firms%20and%20individuals%3B%20expense%20of%20cablegrams%20and%20telephone%20service%20involved%3B%20appropriation.md)
@@ -193,6 +208,7 @@
 - [&sect; 02679b - Prohibition against fraudulent use of Made in America labels](%C2%A7%2002679b%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md)
 - [&sect; 02679c - Prohibition on discriminatory contracts](%C2%A7%2002679c%20-%20Prohibition%20on%20discriminatory%20contracts.md)
 - [&sect; 02679d - Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances](%C2%A7%2002679d%20-%20Exemption%20from%20certain%20procurement%20protest%20procedures%20for%20noncompetitive%20contracting%20in%20emergency%20circumstances.md)
+- [&sect; 02679e - List of certain telecommunications providers](%C2%A7%2002679e%20-%20List%20of%20certain%20telecommunications%20providers.md)
 - [&sect; 02680 - Appropriations for State Department; information to congressional committees](%C2%A7%2002680%20-%20Appropriations%20for%20State%20Department%3B%20information%20to%20congressional%20committees.md)
 - [&sect; 02680&#8211;1 - Deadline for responses to questions from congressional committees](%C2%A7%2002680%E2%80%931%20-%20Deadline%20for%20responses%20to%20questions%20from%20congressional%20committees.md)
 - [&sect; 02680&#8211;2 - Facilitating access to Department of State](%C2%A7%2002680%E2%80%932%20-%20Facilitating%20access%20to%20Department%20of%20State.md)
@@ -260,10 +276,20 @@
 - [&sect; 02730 - Prohibition on funding the involuntary return of refugees](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md)
 - [&sect; 02731 - Monitoring and combating anti-Semitism](%C2%A7%2002731%20-%20Monitoring%20and%20combating%20anti-Semitism.md)
 - [&sect; 02732 - Public diplomacy responsibilities of the Department of State](%C2%A7%2002732%20-%20Public%20diplomacy%20responsibilities%20of%20the%20Department%20of%20State.md)
+- [&sect; 02732a - Avoiding duplication of programs and efforts](%C2%A7%2002732a%20-%20Avoiding%20duplication%20of%20programs%20and%20efforts.md)
+- [&sect; 02732b - Improving research and evaluation of public diplomacy](%C2%A7%2002732b%20-%20Improving%20research%20and%20evaluation%20of%20public%20diplomacy.md)
 - [&sect; 02733 - Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System](%C2%A7%2002733%20-%20Reemployment%20of%20annuitants%20under%20the%20Civil%20Service%20Retirement%20System%20and%20Federal%20Employees%27%20Retirement%20System.md)
 - [&sect; 02734 - Reconstruction and stabilization](%C2%A7%2002734%20-%20Reconstruction%20and%20stabilization.md)
 - [&sect; 02734a - Authorities related to personnel](%C2%A7%2002734a%20-%20Authorities%20related%20to%20personnel.md)
 - [&sect; 02734b - Report on diversity recruitment, employment, retention, and promotion](%C2%A7%2002734b%20-%20Report%20on%20diversity%20recruitment%2C%20employment%2C%20retention%2C%20and%20promotion.md)
 - [&sect; 02734c - Employee assignment restrictions](%C2%A7%2002734c%20-%20Employee%20assignment%20restrictions.md)
 - [&sect; 02734d - Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities](%C2%A7%2002734d%20-%20Recruitment%20and%20retention%20of%20individuals%20who%20have%20lived%2C%20worked%2C%20or%20studied%20in%20predominantly%20Muslim%20countries%20or%20communities.md)
+- [&sect; 02734e - Annual Report](%C2%A7%2002734e%20-%20Annual%20Report.md)
+- [&sect; 02734f - Strategic staffing plan for the Department of State](%C2%A7%2002734f%20-%20Strategic%20staffing%20plan%20for%20the%20Department%20of%20State.md)
 - [&sect; 02735 - Foreign relations exchange programs](%C2%A7%2002735%20-%20Foreign%20relations%20exchange%20programs.md)
+- [&sect; 02736 - Exit interviews for workforce](%C2%A7%2002736%20-%20Exit%20interviews%20for%20workforce.md)
+- [&sect; 02736a - Recruitment and retention](%C2%A7%2002736a%20-%20Recruitment%20and%20retention.md)
+- [&sect; 02736b - Leadership engagement and accountability](%C2%A7%2002736b%20-%20Leadership%20engagement%20and%20accountability.md)
+- [&sect; 02736c - Professional development opportunities and tools](%C2%A7%2002736c%20-%20Professional%20development%20opportunities%20and%20tools.md)
+- [&sect; 02736d - Payne fellowship authorization](%C2%A7%2002736d%20-%20Payne%20fellowship%20authorization.md)
+- [&sect; 02736e - Voluntary participation](%C2%A7%2002736e%20-%20Voluntary%20participation.md)

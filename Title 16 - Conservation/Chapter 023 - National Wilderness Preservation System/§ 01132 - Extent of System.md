@@ -6,7 +6,7 @@ All areas within the national forests classified at least 30 days before Septemb
 
 &emsp;(1) Within one year after September 3, 1964, file a map and legal description of each wilderness area with the Interior and Insular Affairs Committees of the United States Senate and the House of Representatives, and such descriptions shall have the same force and effect as if included in this chapter: <i>Provided, however</i>, That correction of clerical and typographical errors in such legal descriptions and maps may be made.
 
-&emsp;(2) Maintain, available to the public, records pertaining to said wilderness areas, including maps and legal descriptions, copies of regulations governing them, copies of public notices of, and reports submitted to Congress regarding pending additions, eliminations, or modifications. Maps, legal descriptions, and regulations pertaining to wilderness areas within their respective jurisdictions also shall beavailable to the public in the offices of regional foresters, national forest supervisors, and forest rangers.
+&emsp;(2) Maintain, available to the public, records pertaining to said wilderness areas, including maps and legal descriptions, copies of regulations governing them, copies of public notices of, and reports submitted to Congress regarding pending additions, eliminations, or modifications. Maps, legal descriptions, and regulations pertaining to wilderness areas within their respective jurisdictions also shall be available to the public in the offices of regional foresters, national forest supervisors, and forest rangers.
 
 #### (b) Review by Secretary of Agriculture of classifications as primitive areas; Presidential recommendations to Congress; approval of Congress; size of primitive areas; Gore Range-Eagles Nest Primitive Area, Colorado
 
@@ -22,7 +22,7 @@ Within ten years after September 3, 1964 the Secretary of the Interior shall rev
 
 &emsp;(A) give such public notice of the proposed action as they deem appropriate, including publication in the Federal Register and in a newspaper having general circulation in the area or areas in the vicinity of the affected land;
 
-&emsp;(B) hold a public hearing or hearings at a location or locations convenient to the area affected. The hearings shall be announced through such means as the respective Secretaries involved deem appropriate, including notices in the Federal Register and in newspapers of general circulation in the area: <i>Provided</i>, That if the lands involved are located in more than one State, at least one hearing shall be held in each State in which a portion of the land lies;
+&emsp;(B) hold a public hearing or hearings at a location or locations convenient to the area affected. The hearings shall be announcedthrough such means as the respective Secretaries involved deem appropriate, including notices in the Federal Register and in newspapers of general circulation in the area: <i>Provided</i>, That if the lands involved are located in more than one State, at least one hearing shall be held in each State in which a portion of the land lies;
 
 &emsp;(C) at least thirty days before the date of a hearing advise the Governor of each State and the governing board of each county, or in Alaska the borough, in which the lands are located, and Federal departments and agencies concerned, and invite such officials and Federal agencies to submit their views on the proposed action at the hearing or by no later than thirty days following the date of the hearing.
 
@@ -33,6 +33,8 @@ Within ten years after September 3, 1964 the Secretary of the Interior shall rev
 Any modification or adjustment of boundaries of any wilderness area shall be recommended by the appropriate Secretary after public notice of such proposal and public hearing or hearings as provided in subsection (d) of this section. The proposed modification or adjustment shall then be recommended with map and description thereof to the President. The President shall advise the United States Senate and the House of Representatives of his recommendations with respect to such modification or adjustment and such recommendations shall become effective only in the same manner as provided for in subsections (b) and (c) of this section.
 
 (Pub. L. 88–577, §3, Sept. 3, 1964, 78 Stat. 891.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -50,9 +52,9 @@ Aden Lava Flow Wilderness, Doña Ana County, New Mexico.—Pub. L. 116–9, titl
 
 Agassiz Wilderness, Agassiz National Wildlife Refuge, Minnesota.—Pub. L. 94–557, §1(h), Oct. 19, 1976, 90 Stat. 2633.
 
-Ah-shi-sle-pah Wilderness, New Mexico.—Pub. L. 116–9, title I, §1121(c)(1), Mar. 12, 2019, 133 Stat. 639.
-
 Agua Tibia Wilderness, Cleveland National Forest, California.—Pub. L. 93–632, §2(a), Jan. 3, 1975, 88 Stat. 2154; Pub. L. 111–11, title I, §1851(b)(1)(A), Mar. 30, 2009, 123 Stat. 1062.
+
+Ah-shi-sle-pah Wilderness, New Mexico.—Pub. L. 116–9, title I, §1121(c)(1), Mar. 12, 2019, 133 Stat. 639.
 
 Alaska Peninsula National Wildlife Refuge Wilderness, Alaska.—Pub. L. 111–11, title VI, §6404(3), Mar. 30, 2009, 123 Stat. 1182.
 

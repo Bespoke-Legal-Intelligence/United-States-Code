@@ -128,7 +128,7 @@ In general.—Each annual financial statement prepared under paragraph (1) shall
 
 &emsp;&emsp;(B)
 
-Auditor's report required.—The auditor designated to audit any financialstatement of the Fund pursuant to subparagraph (A) shall submit a report—
+Auditor's report required.—The auditor designated to audit any financial statement of the Fund pursuant to subparagraph (A) shall submit a report—
 
 &emsp;&emsp;&emsp;(i) to the Secretary by March 31 of the year beginning after the end of the fiscal year covered by such financial statement; and
 
@@ -196,7 +196,7 @@ In general.—Notwithstanding any other provision of law, no amount derived from
 
 &emsp;&emsp;&emsp;(i) all numismatic operation and program costs allocable to the program under which such numismatic item is produced and sold have been recovered; and
 
-&emsp;&emsp;&emsp;(ii) the designated recipient organization submits an audited financial statement that demonstrates, to the satisfaction of the Secretary, that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from private sources for such projects and purposes in an amount that is equal to or greater than the total amount of the proceeds of such surcharge derived from the sale of such numismatic item.
+&emsp;&emsp;&emsp;(ii) the designated recipient organization submits an audited financial statement that demonstrates, to the satisfaction of the Secretary, that, with respect to all projects or purposes for which the proceeds of such surcharge may be used, the organization has raised funds from privatesources for such projects and purposes in an amount that is equal to or greater than the total amount of the proceeds of such surcharge derived from the sale of such numismatic item.
 
 &emsp;&emsp;(B)
 
@@ -222,7 +222,7 @@ Minimum requirements for annual audits.—At a minimum, each audit of a designat
 
 &emsp;&emsp;&emsp;(i) the amount of payments received by the designated recipient organization from the fund <sup>1</sup> during the fiscal year of the organization for which the audit is conducted that are derived from the proceeds of any surcharge imposed on the sale of any numismatic item;
 
-&emsp;&emsp;&emsp;(ii) the amount expended by the designated recipient organization from theproceeds of such surcharges during the fiscal year of the organization for which the audit is conducted; and
+&emsp;&emsp;&emsp;(ii) the amount expended by the designated recipient organization from the proceeds of such surcharges during the fiscal year of the organization for which the audit is conducted; and
 
 &emsp;&emsp;&emsp;(iii) whether all expenditures by the designated recipient organization during the fiscal year of the organization for which the audit is conducted from the proceeds of such surcharges were for authorized purposes.
 
@@ -260,7 +260,7 @@ Use of agents or attorneys to influence commemorative coin legislation.—No por
 
 &emsp;(4)
 
-Designated recipient organization defined.—For purposes of this subsection, the term "designated recipient organization" means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
+Designated recipient organization defined.—For purposes of this subsection, theterm "designated recipient organization" means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
 (g)
 
@@ -298,7 +298,7 @@ Requirements.—Each report submitted under paragraph (1) shall include, with re
 
 #### References in Text
 
-Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b),is section 221(b) of Pub. L. 102–390, which is set out below.
+Section 221(b) of the United States Mint Reauthorization and Reform Act of 1992, referred to in subsec. (b), is section 221(b) of Pub. L. 102–390, which is set out below.
 
 The date of the enactment of the American 5-Cent Coin Design Continuity Act of 2003, referred to in subsec. (f)(1)(B)(ii), is the date of enactment of Pub. L. 108–15, which was approved Apr. 23, 2003.
 

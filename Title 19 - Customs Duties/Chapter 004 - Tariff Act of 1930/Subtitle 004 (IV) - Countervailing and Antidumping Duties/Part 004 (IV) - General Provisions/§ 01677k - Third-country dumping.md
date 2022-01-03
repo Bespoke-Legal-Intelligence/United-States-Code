@@ -40,13 +40,17 @@ If the appropriate authority of an Agreement country refuses to undertake antidu
 
 (Pub. L. 100–418, title I, §1317, Aug. 23, 1988, 102 Stat. 1188; Pub. L. 103–465, title VI, §621(a)(1), Dec. 8, 1994, 108 Stat. 4992.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Omnibus Trade and Competitiveness Act of 1988, and not as part of the Tariff Act of 1930 which comprises this chapter.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted "GATT 1994"for "General Agreement on Tariffs and Trade", and added subpar. (B).
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–465 designated existing provisions as subpar. (A), substituted "GATT 1994" for "General Agreement on Tariffs and Trade", and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

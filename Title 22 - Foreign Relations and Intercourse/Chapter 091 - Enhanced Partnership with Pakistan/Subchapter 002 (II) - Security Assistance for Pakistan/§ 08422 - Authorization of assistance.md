@@ -28,7 +28,7 @@
 
 #### (3) Additional authority
 
-&emsp;Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J <sup>1</sup> of the Foreign Assistance Act of 1961 (as added by Public Law 110–161) \[22 U.S.C. 2378d\], and any provision of an Act making appropriations for the Department of State, foreign operations, and related programs that restricts assistance to the government of any country whose duly elected head of government is deposed by military coup or decree, and except as otherwise provided in this subchapter,amounts authorized to be made available to carry out paragraph (2) for fiscal years 2010 and 2011 are authorized to be made available notwithstanding any other provision of law.
+&emsp;Except as provided in sections 2753 and 2799aa–1 of this title, the second section 620J <sup>1</sup> of the Foreign Assistance Act of 1961 (as added by Public Law 110–161) \[22 U.S.C. 2378d\], and any provision of an Act making appropriations for the Department of State, foreign operations, and related programs that restricts assistance to the government of any country whose duly elected head of government is deposed by military coup or decree, and except as otherwise provided in this subchapter, amounts authorized to be made available to carry out paragraph (2) for fiscal years 2010 and 2011 are authorized to be made available notwithstanding any other provision of law.
 
 #### (4) Definitions
 
@@ -70,7 +70,7 @@ It is the sense of Congress that the United States should facilitate Pakistan's 
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 5 of part II of the Act is classified generally to part V (§2347 et seq.) of subchapter II of chapter 32 ofthis title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The second section 620J of the Foreign Assistance Act of 1961 (as added by Public Law 110–161), referred to in subsec. (b), which is classified to section 2378d of this title, was renumbered section 620M of the Foreign Assistance Act of 1961 by Pub. L. 112–74, div. I, title VII, §7034(k)(1), Dec. 23, 2011, 125 Stat. 1216.
 

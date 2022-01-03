@@ -36,9 +36,13 @@ Covered General or Flag Officer Defined.—In this section, the term "covered ge
 
 (Added Pub. L. 109–364, div. A, title VI, §641(a), Oct. 17, 2006, 120 Stat. 2258; amended Pub. L. 113–291, div. A, title VI, §622(a), Dec. 19, 2014, 128 Stat. 3401.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–291 amended section generally. Prior to amendment section related to retired pay base: officers retired in general or flag officer grades, consisting of subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

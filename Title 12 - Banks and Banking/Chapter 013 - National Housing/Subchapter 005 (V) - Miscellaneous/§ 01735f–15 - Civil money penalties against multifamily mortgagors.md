@@ -48,7 +48,7 @@ The penalties set forth in this section shall be in addition to any other availa
 
 &emsp;&emsp;(vii) Payment for services, supplies, or materials which exceeds $500 and substantially exceeds the amount ordinarily paid for such services, supplies, or materials in the area where the services are rendered or the supplies or materials furnished.
 
-&emsp;&emsp;(viii) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instruments which affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
+&emsp;&emsp;(viii) Failure to maintain at any time the mortgaged property, equipment, buildings, plans, offices, apparatus, devices, books, contracts, records, documents, and other related papers (including failure to keep copies of all written contracts or other instrumentswhich affect the mortgaged property) in reasonable condition for proper audit and for examination and inspection at any reasonable time by the Secretary or any duly authorized agents of the Secretary.
 
 &emsp;&emsp;(ix) Failure to maintain the books and accounts of the operations of the mortgaged property and of the project in accordance with requirements prescribed by the Secretary.
 
@@ -172,7 +172,7 @@ Subsec. (c)(1). Pub. L. 105–65, §561(a)(2)(B)(i), (iv), substituted "violatio
 
 Subsec. (c)(1)(A). Pub. L. 105–65, §561(a)(2)(B)(i), (ii), added subpar. (A) and redesignated former subpar. (A) as cl. (i) of subpar. (B).
 
-Subsec. (c)(1)(B) to (L). Pub. L. 105–65, §561(a)(2)(B)(i)–(iii), inserted heading and introductory provisions of subpar. (B), redesignated former subpars. (A) to (L) as cls. (i) to (xii) of subpar. (B), respectively, and added cls. (xiii) to (xv).
+Subsec. (c)(1)(B) to (L). Pub. L. 105–65, §561(a)(2)(B)(i)–(iii), inserted heading and introductoryprovisions of subpar. (B), redesignated former subpars. (A) to (L) as cls. (i) to (xii) of subpar. (B), respectively, and added cls. (xiii) to (xv).
 
 Subsec. (d)(1)(B). Pub. L. 105–65, §561(a)(3)(A), inserted ", general partner of a partnership mortgagor, officer or director of a corporate mortgagor, or identity of interest agent employed to manage the property" after "mortgagor".
 
@@ -208,5 +208,5 @@ Public comment.—The Secretary shall implement the amendments made by this sect
 
 "(2)
 
-Timing.—A proposed rule implementing the amendments made by this section shall be publishednot later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
+Timing.—A proposed rule implementing the amendments made by this section shall be published not later than 1 year after the date of enactment of this Act \[Oct. 27, 1997\]."
 

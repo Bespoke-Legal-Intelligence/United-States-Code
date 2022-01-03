@@ -12,13 +12,15 @@ Any person whose property has been levied upon shall have the right to pay the a
 
 #### (2) Price
 
-&emsp;Such property or tract of property shall be permitted to be redeemed upon payment to the purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
+&emsp;Such property or tract of property shall be permitted to be redeemed upon payment tothe purchaser, or in case he cannot be found in the county in which the property to be redeemed is situated, then to the Secretary, for the use of the purchaser, his heirs, or assigns, the amount paid by such purchaser and interest thereon at the rate of 20 percent per annum.
 
 #### (c) Record
 
 When any lands sold are redeemed as provided in this section, the Secretary shall cause entry of the fact to be made upon the record mentioned in section 6340, and such entry shall be evidence of such redemption.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 787; Pub. L. 89–719, title I, §104(e), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §349A(a), Sept. 3, 1982, 96 Stat. 639.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -27,6 +29,8 @@ When any lands sold are redeemed as provided in this section, the Secretary shal
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1966</b>—Subsec. (b)(1). Pub. L. 89–719 substituted "120 days" for "1 year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

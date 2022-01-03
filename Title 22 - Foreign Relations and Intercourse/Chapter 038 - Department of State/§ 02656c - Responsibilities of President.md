@@ -16,7 +16,7 @@ The President, in consultation with the Director of the Office of Science and Te
 
 #### (c) Disclosure of sensitive information
 
-Except as otherwise provided by law, nothing in this section shall be construed as requiring the public disclosure of sensitive information relating to intelligence sources or methods or to persons engaged in monitoring scientific or technological developments for intelligence purposes.
+Except as otherwise provided by law, nothing in this section shall be construed as requiringthe public disclosure of sensitive information relating to intelligence sources or methods or to persons engaged in monitoring scientific or technological developments for intelligence purposes.
 
 #### (d) Availability to United States Trade Representative of information and recommendations
 

@@ -18,7 +18,7 @@ Pub. L. 102–233, title III, §317, Dec. 12, 1991, 105 Stat. 1773, provided tha
 
 #### Abolition of Thrift Depositor Protection Oversight Board
 
-Pub. L. 105–216, §14(a)–(d), July 29, 1998, 112 Stat. 908–910, abolished the Thrift Depositor Protection Oversight Board established under former section 1441a of this title, effective at the end of the 3-month period beginning July 29, 1998, provided that, effective July 29, 1998, the Chairperson of the Oversight Board (or the designee of the Chairperson) may exercise on behalf of the Oversight Board any power of the Oversight Board necessary to settle and conclude the affairs of the Oversight Board, included savings provisions, and transferred authority and duties of the Oversight Board under former section 1441a(a)(6)(I) and section 1441b of this title to the Secretary of the Treasury (or the designee of the Secretary).
+Pub. L. 105–216, §14(a)–(d), July 29, 1998, 112 Stat. 908–910, abolished the Thrift Depositor Protection Oversight Board established under former section 1441a of this title, effective at the end of the 3-month period beginning July 29, 1998, provided that, effective July 29,1998, the Chairperson of the Oversight Board (or the designee of the Chairperson) may exercise on behalf of the Oversight Board any power of the Oversight Board necessary to settle and conclude the affairs of the Oversight Board, included savings provisions, and transferred authority and duties of the Oversight Board under former section 1441a(a)(6)(I) and section 1441b of this title to the Secretary of the Treasury (or the designee of the Secretary).
 
 #### FDIC–RTC Transition Task Force
 

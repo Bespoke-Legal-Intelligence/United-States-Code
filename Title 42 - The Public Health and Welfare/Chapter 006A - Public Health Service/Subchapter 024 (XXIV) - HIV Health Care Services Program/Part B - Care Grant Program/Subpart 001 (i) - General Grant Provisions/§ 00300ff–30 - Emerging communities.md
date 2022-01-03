@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall award supplemental grants to States determined to be eligible undersubsection (b) to enable such States to provide comprehensive services of the type described in section 300ff–22(a) of this title to supplement the services otherwise provided by the State under a grant under this subpart in emerging communities within the State that are not eligible to receive grants under part A.
+The Secretary shall award supplemental grants to States determined to be eligible under subsection (b) to enable such States to provide comprehensive services of the type described in section 300ff–22(a) of this title to supplement the services otherwise provided by the State under a grant under this subpart in emerging communities within the State that are not eligible to receive grants under part A.
 
 #### (b) Eligibility
 
@@ -24,7 +24,7 @@ A State that desires a grant under this section shall, as part of the State appl
 
 &emsp;(2) a demonstration of the existing commitment of local resources, both financial and in-kind;
 
-&emsp;(3) a demonstration that the State will maintain HIV-related activities at a level that is equal to not less than the level of such activities in the State for the 1-year period preceding the fiscal year for which the State is applying to receive a grant under section 300ff–21 of this title;
+&emsp;(3) a demonstration that the State will maintain HIV-related activities at a level that is equal to not less than the level of such activities in the State for the 1-year period preceding the fiscal year for which the State isapplying to receive a grant under section 300ff–21 of this title;
 
 &emsp;(4) a demonstration of the ability of the State to utilize such supplemental financial resources in a manner that is immediately responsive and cost effective;
 
@@ -56,6 +56,8 @@ The amount of a grant under subsection (a) for a State for a fiscal year shall b
 
 (July 1, 1944, ch. 373, title XXVI, §2621, formerly §2620, as added Pub. L. 106–345, title II, §207(2), Oct. 20, 2000, 114 Stat. 1337; renumbered §2621 and amended Pub. L. 109–415, title II, §§204(a), 205(1), 206, title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2796, 2797, 2799, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300ff–30, act July 1, 1944, ch. 373, title XXVI, §2620, as added Aug. 18, 1990, Pub. L. 101–381, title II, §201, 104 Stat. 597, authorized appropriations for fiscal years 1991 through 1995, prior to repeal by Pub. L. 104–146, §§6(b), 13, May 20, 1996, 110 Stat. 1367, 1374, effective Oct. 1, 1996.
@@ -78,7 +80,9 @@ Subsec. (c)(5), (6). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HI
 
 Subsecs. (d) to (f). Pub. L. 109–415, §206(3), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) defining "emerging community" and relating to funding, respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 

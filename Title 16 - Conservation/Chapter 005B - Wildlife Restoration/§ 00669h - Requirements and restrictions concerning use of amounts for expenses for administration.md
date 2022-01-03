@@ -4,45 +4,43 @@
 
 Except as provided in subsection (b), the Secretary of the Interior may use available amounts under section 669c(a)(1) of this title only for expenses for administration that directly support the implementation of this chapter that consist of—
 
-&emsp;(1) personnel costs of employees who directly administer this chapter on a full-time basis;
+&emsp;(1) personnel costs of employees for the work hours of each employee spent directly administering this chapter, as those hours are certified by the supervisor of the employee;
 
-&emsp;(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
+&emsp;(2) support costs directly associated with personnel costs authorized under paragraph (1), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
-&emsp;(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
+&emsp;(3) costs of determining under section 669e(a) of this title whether State comprehensive plans and projects are substantial in character and design;
 
-&emsp;(4) costs of determining under section 669e(a) of this title whether State comprehensive plans and projects are substantial in character and design;
-
-&emsp;(5) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
+&emsp;(4) overhead costs, including the costs of general administrative services, that are directly attributable to administration of this chapter and are based on—
 
 &emsp;&emsp;(A) actual costs, as determined by a direct cost allocation methodology approved by the Director of the Office of Management and Budget for use by Federal agencies; and
 
-&emsp;&emsp;(B) in the case of costs that are not determinable under subparagraph (A), an amount per full-time equivalent employee authorized under paragraphs (1) and (2) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
+&emsp;&emsp;(B) in the case of costs that are not determinable under subparagraph (A), an amount per employee authorized under paragraph (1) that does not exceed the amount charged or assessed for costs per full-time equivalent employee for any other division or program of the United States Fish and Wildlife Service;
 
-&emsp;(6) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under section 669e of this title by each State fish and game department;
+&emsp;(5) costs incurred in auditing, every 5 years, the wildlife and sport fish activities of each State fish and game department and the use of funds under section 669e of this title by each State fish and game department;
 
-&emsp;(7) costs of audits under subsection (d);
+&emsp;(6) costs of audits under subsection (d);
 
-&emsp;(8) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+&emsp;(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
 
-&emsp;(9) costs of travel to States, territories, and Canada by personnel who—
+&emsp;(8) costs of travel to States, territories, and Canada by personnel who—
 
-&emsp;&emsp;(A) administer this chapter on a full-time basis for purposes directly related to administration of State programs or projects; or
+&emsp;&emsp;(A) administer this chapter for purposes directly related to administration of State programs or projects; or
 
 &emsp;&emsp;(B) administer grants under section 669e, 669h–1, or 669h–2 of this title;
 
-&emsp;(10) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+&emsp;(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
-&emsp;(11) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred; and
+&emsp;(10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
-&emsp;(12) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 669e, 669h–1, and 669h–2 of this title.
+&emsp;(11) costs to audit, evaluate, approve, disapprove, and advise concerning grants under sections 669e, 669h–1, and 669h–2 of this title.
 
 #### (b) Reporting of other uses
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this titleshould be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
+&emsp;Subject to paragraph (2), if the Secretary of the Interior determines that available amounts under section 669c(a)(1) of this title should be used for an expense for administration other than an expense for administration described in subsection (a), the Secretary—
 
-&emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describing the expense for administration and stating the amount of the expense; and
+&emsp;&emsp;(A) shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Resources of the House of Representatives a report describingthe expense for administration and stating the amount of the expense; and
 
 &emsp;&emsp;(B) may use any such available amounts for the expense for administration only after the end of the 30-day period beginning on the date of submission of the report under subparagraph (A).
 
@@ -78,7 +76,9 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 &emsp;&emsp;(B) a copy of each audit under this subsection.
 
-(Sept. 2, 1937, ch. 899, §9, 50 Stat. 919; Pub. L. 106–408, title I, §111(b), Nov. 1, 2000, 114 Stat. 1764.)
+(Sept. 2, 1937, ch. 899, §9, 50 Stat. 919; Pub. L. 106–408, title I, §111(b), Nov. 1, 2000, 114 Stat. 1764; Pub. L. 117–58, div. B, title VIII, §28001(b)(2), Nov. 15, 2021, 135 Stat. 888.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -86,7 +86,25 @@ In subsec. (d)(2)(A), "section 132 of title 41" substituted for "section 4 of th
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §28001(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "personnel costs of employees who directly administer this chapter on a full-time basis;".
+
+Subsec. (a)(2). Pub. L. 117–58, §28001(b)(2)(C), substituted "paragraph (1)" for "paragraphs (1) and (2)".
+
+Pub. L. 117–58, §28001(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;".
+
+Subsec. (a)(3), (4). Pub. L. 117–58, §28001(b)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
+
+Subsec. (a)(4)(B). Pub. L. 117–58, §28001(b)(2)(D), substituted "employee authorized under paragraph (1)" for "full-time equivalent employee authorized under paragraphs (1) and (2)".
+
+Subsec. (a)(5) to (8). Pub. L. 117–58, §28001(b)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
+
+Subsec. (a)(8)(A). Pub. L. 117–58, §28001(b)(2)(E), struck out "on a full-time basis" after "administer this chapter".
+
+Subsec. (a)(9) to (12). Pub. L. 117–58, §28001(b)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted "or part-time" after "full-time" and ", subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter" after "incurred". Former par. (9) redesignated (8).
+
 <b>2000</b>—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: "Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

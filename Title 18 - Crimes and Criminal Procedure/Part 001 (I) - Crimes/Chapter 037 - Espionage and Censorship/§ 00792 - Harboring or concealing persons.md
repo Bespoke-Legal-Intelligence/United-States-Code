@@ -22,5 +22,5 @@ Mandatory punishment provision was rephrased in the alternative.
 
 #### Indictment for Violating This Section and Sections 793, 794; Limitation Period
 
-Act Sept. 23, 1950, ch. 1024, §19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violation constituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense "now" barred by the provisions of existing law.
+Act Sept. 23, 1950, ch. 1024, §19, 64 Stat. 1005, provided that an indictment for any violation of this section and sections 793 and 794 of this title, other than a violationconstituting a capital offense, may be found at any time within ten years next after such violation shall have been committed, but that such section 19 shall not authorize prosecution, trial, or punishment for any offense "now" barred by the provisions of existing law.
 

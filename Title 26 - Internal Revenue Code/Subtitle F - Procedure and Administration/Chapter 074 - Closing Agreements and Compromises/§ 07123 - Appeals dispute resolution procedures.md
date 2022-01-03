@@ -40,6 +40,8 @@ The Secretary shall prescribe procedures by which any taxpayer may request early
 
 (Added Pub. L. 105–206, title III, §3465(a)(1), July 22, 1998, 112 Stat. 768; amended Pub. L. 114–113, div. Q, title IV, §404(a), Dec. 18, 2015, 129 Stat. 3118; Pub. L. 116–25, title I, §1001(b)(1)(G), July 1, 2019, 133 Stat. 985.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7123 was renumbered section 7124 of this title.
@@ -49,6 +51,8 @@ A prior section 7123 was renumbered section 7124 of this title.
 <b>2019</b>—Pub. L. 116–25 substituted "Internal Revenue Service Independent Office of Appeals" for "Internal Revenue Service Office of Appeals" wherever appearing.
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–113 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

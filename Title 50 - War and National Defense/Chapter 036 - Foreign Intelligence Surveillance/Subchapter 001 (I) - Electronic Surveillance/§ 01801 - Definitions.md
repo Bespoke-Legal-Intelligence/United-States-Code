@@ -90,7 +90,7 @@ As used in this subchapter:
 
 &emsp;(h) "Minimization procedures", with respect to electronic surveillance, means—
 
-&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that are reasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerningunconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
+&emsp;&emsp;(1) specific procedures, which shall be adopted by the Attorney General, that arereasonably designed in light of the purpose and technique of the particular surveillance, to minimize the acquisition and retention, and prohibit the dissemination, of nonpublicly available information concerning unconsenting United States persons consistent with the need of the United States to obtain, produce, and disseminate foreign intelligence information;
 
 &emsp;&emsp;(2) procedures that require that nonpublicly available information, which is not foreign intelligence information, as defined in subsection (e)(1), shall not be disseminated in a manner that identifies any United States person, without such person's consent, unless such person's identity is necessary to understand foreign intelligence information or assess its importance;
 
@@ -124,6 +124,8 @@ As used in this subchapter:
 
 (Pub. L. 95–511, title I, §101, Oct. 25, 1978, 92 Stat. 1783; Pub. L. 106–120, title VI, §601, Dec. 3, 1999, 113 Stat. 1619; Pub. L. 107–56, title X, §1003, Oct. 26, 2001, 115 Stat. 392; Pub. L. 107–108, title III, §314(a)(1), (c)(2), Dec. 28, 2001, 115 Stat. 1402, 1403; Pub. L. 108–458, title VI, §6001(a), Dec. 17, 2004, 118 Stat. 3742; Pub. L. 109–177, title V, §506(a)(5), Mar. 9, 2006, 120 Stat. 248; Pub. L. 110–261, title I, §110(a), July 10, 2008, 122 Stat. 2465; Pub. L. 111–259, title VIII, §801(1), Oct. 7, 2010, 124 Stat. 2746; Pub. L. 114–23, title VII, §§702, 703, June 2, 2015, 129 Stat. 300.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–23, §702(1), inserted ", irrespective of whether the person is inside the United States" before semicolon at end.
@@ -146,11 +148,13 @@ Subsec. (p). Pub. L. 110–261, §110(a)(4), added subsec. (p).
 
 <b>2004</b>—Subsec. (b)(1)(C). Pub. L. 108–458, §6001, temporarily added subpar. (C) which read as follows: "engages in international terrorism or activities in preparation therefore;". See Termination Date of 2004 Amendment note below.
 
-<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted ", but does notinclude the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18" before semicolon at end.
+<b>2001</b>—Subsec. (f)(2). Pub. L. 107–56, §1003, as amended by Pub. L. 107–108, §314(c)(2), inserted ", but does not include the acquisition of those communications of computer trespassers that would be permissible under section 2511(2)(i) of title 18" before semicolon at end.
 
 Subsec. (h)(4). Pub. L. 107–108, §314(a)(1), substituted "72 hours" for "twenty-four hours".
 
 <b>1999</b>—Subsec. (b)(2)(D), (E). Pub. L. 106–120 added subpar. (D) and redesignated former subpar. (D) as (E).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -288,7 +292,7 @@ Replacement of orders, authorizations, and directives.—
 
 &emsp;&emsp;"(A)
 
-In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) \[now subsection (h)\] of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
+In general.—If the Attorney General and the Director of National Intelligence seek to replace an authorization issued pursuant to section 105B of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1805b\], as added by section 2 of the Protect America Act of 2007 (Public Law 110–55), with an authorization under section 702 of the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C.1881a\] (as added by section 101(a) of this Act), the Attorney General and the Director of National Intelligence shall, to the extent practicable, submit to the Foreign Intelligence Surveillance Court (as such term is defined in section 701(b)(2) of such Act \[50 U.S.C. 1881(b)(2)\] (as so added)) a certification prepared in accordance with subsection (g) \[now subsection (h)\] of such section 702 and the procedures adopted in accordance with subsections (d) and (e) of such section 702 at least 30 days before the expiration of such authorization.
 
 &emsp;&emsp;"(B)
 
@@ -357,6 +361,8 @@ Transition procedures concerning the targeting of united states persons overseas
 &emsp;&emsp;"(A) the date that authorization expires; or
 
 &emsp;&emsp;"(B) the date that is 90 days after the date of the enactment of this Act \[July 10, 2008\]."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -30,7 +30,7 @@ For purposes of this chapter, the term "qualified alien" includes—
 
 &emsp;(1) an alien who—
 
-&emsp;&emsp;(A) has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouseor parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
+&emsp;&emsp;(A) has been battered or subjected to extreme cruelty in the United States by a spouse or a parent, or by a member of the spouse or parent's family residing in the same household as the alien and the spouse or parent consented to, or acquiesced in, such battery or cruelty, but only if (in the opinion of the agency providing such benefits) there is a substantial connection between such battery or cruelty and the need for the benefits to be provided; and
 
 &emsp;&emsp;(B) has been approved or has a petition pending which sets forth a prima facie case for—
 
@@ -76,7 +76,7 @@ Section 243 of such Act, referred to in subsec. (b)(5), is section 243 of act Ju
 
 Section 203(a)(7) of such Act as in effect prior to April 1, 1980, referred to in subsec. (b)(6), means section 203(a)(7) of act June 27, 1952, which was classified to section 1153(a)(7) of this title. Section 1153(a)(7) of this title was repealed and section 1153(a)(8) was redesignated section 1153(a)(7) by Pub. L. 96–212, title II, §203(c)(3), (6), Mar. 17, 1980, 94 Stat. 107, effective Apr. 1, 1980.
 
-Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e)of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
+Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsec. (b)(7), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
 Section 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, referred to in subsec. (c)(1)(B)(iii), is section 309 of title III of div. C of Pub. L. 104–208, as amended, which is set out as a note under section 1101 of this title.
 
@@ -118,7 +118,7 @@ Amendment by section 208(c) of Pub. L. 116–260 applicable to benefits for item
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–457, title II, §211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act \[Dec. 23, 2008\] without regard to whether regulations have been implemented to carry out such amendments."
+Pub. L. 110–457, title II, §211(b), Dec. 23, 2008, 122 Stat. 5063, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to applications for public benefits and public benefits provided on or after the date of the enactment of this Act \[Dec.23, 2008\] without regard to whether regulations have been implemented to carry out such amendments."
 
 #### Effective Date of 1997 Amendment
 

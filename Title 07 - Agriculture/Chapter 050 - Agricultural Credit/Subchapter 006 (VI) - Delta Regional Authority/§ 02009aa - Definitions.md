@@ -26,6 +26,8 @@ In this subchapter:
 
 (Pub. L. 87–128, title III, §382A, as added and amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b), title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–269; Pub. L. 115–334, title VI, §6701(f)(1), Dec. 20, 2018, 132 Stat. 4778.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
@@ -36,9 +38,11 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 <b>2000</b>—Par. (4). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(b)\], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–334, title VI, §6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made bythis subsection \[amending this section\] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252)."
+Pub. L. 115–334, title VI, §6701(f)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 153(b) of division B of H.R. 5666, as introduced in the 106th Congress, and as enacted by section 1(4) of the Consolidated Appropriations Act, 2001 (Appendix D of Public Law 106–554; 114 Stat. 2763A–252)."
 
 #### Findings and Purposes
 

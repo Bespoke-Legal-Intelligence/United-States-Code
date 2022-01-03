@@ -4,7 +4,7 @@
 
 #### Codification
 
-Section 615dddd, Pub. L. 92–514, title V, §501, Oct. 20, 1972, 86 Stat. 969; Pub. L. 108–318, §1, Oct. 5, 2004, 118 Stat. 1211, authorized North Loup division, Pick-Sloan Missouri Basin program, Nebraska, and described principal features of this division.
+Section 615dddd, Pub. L. 92–514, title V, §501, Oct. 20, 1972, 86 Stat. 969; Pub. L. 108–318, §1, Oct. 5, 2004, 118Stat. 1211, authorized North Loup division, Pick-Sloan Missouri Basin program, Nebraska, and described principal features of this division.
 
 Section 615eeee, Pub. L. 92–514, title V, §502, Oct. 20, 1972, 86 Stat. 969, related to interest rates.
 

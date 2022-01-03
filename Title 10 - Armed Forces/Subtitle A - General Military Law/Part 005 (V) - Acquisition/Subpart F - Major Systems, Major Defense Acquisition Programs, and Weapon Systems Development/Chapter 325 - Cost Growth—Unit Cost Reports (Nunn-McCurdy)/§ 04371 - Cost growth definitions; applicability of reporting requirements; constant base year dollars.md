@@ -6,7 +6,7 @@ Definitions.—In this chapter:
 
 &emsp;(1)
 
-Program acquisition unit cost; procurement unit cost; major contract.—Except as provided in section 4203(d) of this title, the terms "program acquisition unit cost", "procurement unit cost", and "major contract" have the same meanings as provided in section 4351 of this title.
+Program acquisition unit cost; procurement unit cost; major contract.—Except as provided in section 4203(d) of this title, the terms "program acquisition unit cost", "procurement unit cost", and "major contract" have the same meanings as provided in section 4351(a) of this title.
 
 &emsp;(2)
 
@@ -46,21 +46,23 @@ Baseline estimate.—The term "Baseline Estimate", with respect to a unit cost r
 
 &emsp;(5)
 
-Original baseline estimate.—The term "original Baseline Estimate" has the same meaning as provided in section 4214(d) of this title.
+Original baseline estimate.—The term "original Baseline Estimate" has the samemeaning as provided in section 4214(d) of this title.
 
 &emsp;(6)
 
 Procurement program.—The term "procurement program" means a program for which funds for procurement are authorized to be appropriated in a fiscal year.
 
-(b) Reporting under this chapter shall not apply if a program has received a limited reporting waiver under section 4358 of this title.
+(b) Reporting under this chapter shall not apply if a program has received a limited reporting waiver under section 4351(h) of this title.
 
 (c) Any determination of a percentage increase under this chapter shall be stated in terms of constant base year dollars (as described in section 4202 of this title).
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a)–(d), Jan. 1, 2021, 134 Stat. 4265, 4266.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1850(a)–(d), Jan. 1, 2021, 134 Stat. 4265, 4266; Pub. L. 117–81, div. A, title XVII, §1701(o)(6)(E)(i), (ii), Dec. 27, 2021, 135 Stat. 2147, 2148.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
-The text of subsec. (a) of section 2433 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1850(b)(1), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; Pub. L. 98–525, title XII, §1242(b)(1), Oct. 19, 1984, 98 Stat. 2607; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(g)(8)(A), Oct. 1, 1986, 100 Stat. 995, 1004; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a)(1), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 102–484, div. A, title VIII, §817(d)(1), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–355, title III, §3003(a)(1), Oct. 13, 1994, 108 Stat. 3329; Pub. L. 109–163, div. A, titleVIII, §802(a), (d)(2), Jan. 6, 2006, 119 Stat. 3367, 3370; Pub. L. 110–417, \[div. A\], title VIII, §811(c)(1), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–383, div. A, title X, §1075(b)(34), Jan. 7, 2011, 124 Stat. 4371.
+The text of subsec. (a) of section 2433 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1850(b)(1), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; Pub. L. 98–525, title XII, §1242(b)(1), Oct. 19, 1984, 98 Stat. 2607; renumbered §2433 and amended Pub. L. 99–433, title I, §§101(a)(5), 110(g)(8)(A), Oct. 1, 1986, 100 Stat. 995, 1004; Pub. L. 100–26, §7(b)(4), (k)(7), Apr. 21, 1987, 101 Stat. 279, 284; Pub. L. 100–180, div. A, title XIII, §1314(a)(1), Dec. 4, 1987, 101 Stat. 1175; Pub. L. 101–189, div. A, title VIII, §811(a)(1), Nov. 29, 1989, 103 Stat. 1490; Pub. L. 102–484, div. A, title VIII, §817(d)(1), Oct. 23, 1992, 106 Stat. 2456; Pub. L. 103–355, title III, §3003(a)(1), Oct. 13, 1994, 108 Stat. 3329; Pub. L. 109–163, div. A, title VIII, §802(a), (d)(2), Jan. 6, 2006, 119 Stat. 3367, 3370; Pub. L. 110–417, \[div. A\], title VIII, §811(c)(1), Oct. 14, 2008, 122 Stat. 4522; Pub. L. 111–383, div. A, title X, §1075(b)(34), Jan. 7, 2011, 124 Stat. 4371.
 
 The text of subsec. (f) of section 2433 of this title, which was transferred to this section, redesignated subsec. (c) and amended by Pub. L. 116–283, §1850(d), was based on Pub. L. 97–252, title XI, §1107(a)(1), Sept. 8, 1982, 96 Stat. 741, §139b; renumbered §2433, Pub. L. 99–433, title I, §101(a)(5), Oct. 1, 1986, 100 Stat. 995; Pub. L. 103–355, title III, §3003(d), Oct. 13, 1994, 108 Stat. 3329.
 
@@ -72,7 +74,7 @@ The text of subsec. (h) of section 2433 of this title, which was transferred to 
 
 Pub. L. 116–283, §1850(b)(1), transferred subsec. (a) of section 2433 of this title to this section and substituted "this chapter" for "this section" in introductory provisions and par. (2).
 
-Subsec. (a)(1). Pub. L. 116–283, §1850(b)(3)(A), substituted "section 4203(d)" for "section 2430a(d)" and "section 4351" for "section 2432(a)".
+Subsec. (a)(1). Pub. L. 116–283, §1850(b)(3)(A), as amended by Pub. L. 117–81, §1701(o)(6)(E)(i), substituted "section 4203(d)" for "section 2430a(d)" and "section 4351(a)" for "section 2432(a)".
 
 Subsec. (a)(2). Pub. L. 116–283, §1850(b)(4), redesignated par. (4) as (2) and transferred it to appear in numerical order. Former par. (2) redesignated (4).
 
@@ -84,9 +86,15 @@ Subsec. (a)(6). Pub. L. 116–283, §1850(b)(4), redesignated par. (3) as (6) an
 
 Pub. L. 116–283, §1850(b)(3)(C), substituted "section 4214(d)" for "section 2435(d)".
 
-Subsec. (b). Pub. L. 116–283, §1850(c), transferred subsec. (h) of section 2433 of this title to this section, redesignated it as subsec. (b), and substituted "under this chapter" for "under this section" and "section 4358" for "section 2432(h)".
+Subsec. (b). Pub. L. 116–283, §1850(c), as amended by Pub. L. 117–81, §1701(o)(6)(E)(ii), transferred subsec. (h) of section 2433 of this title to this section, redesignated it as subsec. (b), and substituted "under this chapter" for "under this section" and "section 4351(h)" for "section 2432(h)".
 
 Subsec. (c). Pub. L. 116–283, §1850(d), transferred subsec. (f) of section 2433 of this title to this section, redesignated it as subsec. (c), and substituted "under this chapter" for "under this section" and "section 4202" for "section 2430".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
 
 #### Effective Date
 

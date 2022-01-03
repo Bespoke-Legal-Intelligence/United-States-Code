@@ -20,7 +20,7 @@ Notwithstanding any other provision of law, funds appropriated (for any fiscal y
 
 #### (d) Reimbursement to departments or agencies furnishing services
 
-Amounts expended for furnishing services referred to in subsection (c) of this section to persons eligible to receive them, less amounts payable by such persons, shall be fully reimbursable to the department or agency furnishing the services, except to the extent that such expenditures are the responsibility of that department or agency. The funds of the Commission shall be available for such reimbursements on behalf of—
+Amounts expended for furnishing services referred to in subsection (c) of this section to persons eligible to receive them, less amounts payable by such persons, shall be fully reimbursable to the department or agency furnishing the services, except to the extent that such expenditures are the responsibility of that departmentor agency. The funds of the Commission shall be available for such reimbursements on behalf of—
 
 &emsp;(1) employees of the Commission, and
 
@@ -48,7 +48,7 @@ Except as expressly provided in this chapter, funds available to the Panama Cana
 
 #### References in Text
 
-This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27,1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Amendments
 

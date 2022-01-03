@@ -104,7 +104,7 @@ Nothing in this section affects the technology transfer responsibilities of Fede
 
 &emsp;&emsp;In awarding funds under this section, the Secretary may give special consideration to applications that involve at least one applicant that has participated in an entrepreneurial or commercialization training program, such as Energy Innovation Corps.
 
-#### (f) <sup>1</sup> Annual report
+#### (f) Annual report
 
 The Secretary shall include in the annual report required under section 16391a(a) of this title—
 
@@ -114,7 +114,7 @@ The Secretary shall include in the annual report required under section 16391a(a
 
 &emsp;(3) each project's partners for that fiscal year.
 
-#### (g) <sup>2</sup> Technology commercialization fund report
+#### (g) Technology commercialization fund report
 
 #### (1) In general
 
@@ -130,7 +130,7 @@ The Secretary shall include in the annual report required under section 16391a(a
 
 &emsp;&emsp;(C) an analysis on how to spend funds optimally on technology areas that have the greatest need and opportunity for commercial application, rather than spending funds at the programmatic level or under current funding restrictions.
 
-#### (f) <sup>1</sup> Planning and reporting
+#### (h) Planning and reporting
 
 #### (1) In general
 
@@ -140,7 +140,7 @@ The Secretary shall include in the annual report required under section 16391a(a
 
 &emsp;Each year after the submission of the plan under paragraph (1), the Secretary shall submit to Congress an updated execution plan and reports that describe progress toward meeting goals set forth in the execution plan and the funds expended under subsection (c).
 
-#### (g) <sup>2</sup> Additional technology transfer programs
+#### (i) Additional technology transfer programs
 
 The Secretary may develop additional programs to—
 
@@ -158,13 +158,17 @@ The Secretary may develop additional programs to—
 
 &emsp;(7) further support the mission and goals of the Office.
 
-(Pub. L. 109–58, title X, §1001, Aug. 8, 2005, 119 Stat. 926; Pub. L. 113–291, div. C, title XXXI, §3144, Dec. 19, 2014, 128 Stat. 3902; Pub. L. 115–246, title I, §102, Sept. 28, 2018, 132 Stat. 3131; Pub. L. 116–260, div. Z, title IX, §§9001, 9003, Dec. 27, 2020, 134 Stat. 2595, 2597.)
+(Pub. L. 109–58, title X, §1001, Aug. 8, 2005, 119 Stat. 926; Pub. L. 113–291, div. C, title XXXI, §3144, Dec. 19, 2014, 128 Stat. 3902; Pub. L. 115–246, title I, §102, Sept. 28, 2018, 132 Stat. 3131; Pub. L. 116–260, div. Z, title IX, §§9001, 9003, Dec. 27, 2020, 134 Stat. 2595, 2597; Pub. L. 117–58, div. D, title XII, §41201(g), Nov. 15, 2021, 135 Stat. 1131.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (d), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (f) to (i). Pub. L. 117–58 redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
 
 <b>2020</b>—Subsec. (a). Pub. L. 116–260, §9001(1), added subsec. (a) through par. (4)(B) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization."
 
@@ -203,6 +207,12 @@ Subsec. (h). Pub. L. 116–260, §9001(4), redesignated subsec. (h) as (f) relat
 <b>2018</b>—Subsecs. (g), (h). Pub. L. 115–246 added subsec. (g) and redesignated former subsec. (g) as (h).
 
 <b>2014</b>—Subsec. (e). Pub. L. 113–291 inserted "based on future planned activities and the amount of the appropriations for the fiscal year" after "each fiscal year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Lab Partnering Service Pilot Program
 
@@ -259,8 +269,4 @@ Evaluation.—Not later than 6 months after the completion of this pilot program
 "(g)
 
 Definition.—In this section, the term 'National Laboratory' has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 (42 U.S.C. 15801(3))."
-
-<i><sup>1</sup></i><i> So in original. There are two subsecs. (f).</i>
-
-<i><sup>2</sup></i><i> So in original. There are two subsecs. (g).</i>
 

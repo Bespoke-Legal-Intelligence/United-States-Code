@@ -10,11 +10,15 @@ The Administrator may, in the name of the United States, under the supervision o
 
 (Aug. 20, 1937, ch. 720, §12, 50 Stat. 736; Oct. 23, 1945, ch. 433, §6, 59 Stat. 547; July 26, 1946, ch. 673, 60 Stat. 701.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1946</b>—Subsec. (b). Act July 26, 1946, took from the Administrator the authority to make settlement of suits.
 
 <b>1945</b>—Act Oct. 23, 1945, added subsec. (a), designated existing provisions as subsec. (b), and amended such provisions generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

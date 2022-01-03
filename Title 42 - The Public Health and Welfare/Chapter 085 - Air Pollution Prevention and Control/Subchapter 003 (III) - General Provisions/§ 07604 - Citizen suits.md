@@ -28,7 +28,7 @@ No action may be commenced—
 
 #### (c) Venue; intervention by Administrator; service of complaint; consent judgment
 
-(1) Any action respecting a violation by a stationary source of an emission standard or limitation or an order respecting such standard or limitation may be brought only in the judicial district in which such source is located.
+(1) Any action respecting a violation by a stationary source of an emission standard or limitation or an order respecting such standard orlimitation may be brought only in the judicial district in which such source is located.
 
 (2) In any action under this section, the Administrator, if not a party, may intervene as a matter of right at any time in the proceeding. A judgment in an action under this section to which the United States is not a party shall not, however, have any binding effect upon the United States.
 
@@ -70,6 +70,8 @@ For purposes of this section, the term "emission standard or limitation under th
 
 (July 14, 1955, ch. 360, title III, §304, as added Pub. L. 91–604, §12(a), Dec. 31, 1970, 84 Stat. 1706; amended Pub. L. 95–95, title III, §303(a)–(c), Aug. 7, 1977, 91 Stat. 771, 772; Pub. L. 95–190, §14(a) (77), (78), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title III, §302(f), title VII, §707(a)–(g), Nov. 15, 1990, 104 Stat. 2574, 2682, 2683.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -109,6 +111,8 @@ Subsec. (e). Pub. L. 95–95, §303(c), inserted provisions which prohibited any
 Subsec. (f)(3). Pub. L. 95–190, §14(a)(78), inserted ", or" after "(relating to ozone protection)", substituted "any condition or requirement under an" for "requirements under an", and struck out "or" before "section 7491".
 
 Pub. L. 95–95, §303(b), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

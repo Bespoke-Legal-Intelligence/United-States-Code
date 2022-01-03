@@ -10,7 +10,7 @@ The requirements of this chapter shall not apply to—
 
 #### (b) Exception for certain benefits
 
-The requirements of this chapter shall not apply to any group health plan in relation to itsprovision of excepted benefits described in section 9832(c)(1).
+The requirements of this chapter shall not apply to any group health plan in relation to its provision of excepted benefits described in section 9832(c)(1).
 
 #### (c) Exception for certain benefits if certain conditions met
 
@@ -40,7 +40,7 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 #### (1) In general
 
-&emsp;For purposes of this title (and notwithstanding any other provision of this title), the term "group health plan" shall not include any qualified small employer health reimbursement arrangement.
+&emsp;For purposes of this title (and notwithstanding any other provision of this title), theterm "group health plan" shall not include any qualified small employer health reimbursement arrangement.
 
 #### (2) Qualified small employer health reimbursement arrangement
 
@@ -132,6 +132,8 @@ The requirements of this chapter shall not apply to any group health plan in rel
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(1). Pub. L. 116–94 struck out "except as provided in section 4980I(f)(4)" before "and notwithstanding any other provision of this title".
@@ -141,6 +143,8 @@ The requirements of this chapter shall not apply to any group health plan in rel
 <b>2016</b>—Subsec. (d). Pub. L. 114–255 added subsec. (d).
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 9804 of this title as this section and substituted reference to section 9832 of this title for reference to section 9805 of this title in subsecs. (b) and (c)(1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

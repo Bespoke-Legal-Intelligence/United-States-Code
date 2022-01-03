@@ -12,9 +12,13 @@ Except as provided in subsection (b), this chapter shall take effect on June 30,
 
 (Pub. L. 114–187, §2, June 30, 2016, 130 Stat. 550.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of scholarship program
 
-The Administrator of the Agency for International Development is authorized to establishand administer a program of scholarship assistance, in cooperation with State governments, universities, community colleges, and businesses, to provide scholarships to enable students from Poland and Hungary to study in the United States.
+The Administrator of the Agency for International Development is authorized to establish and administer a program of scholarship assistance, in cooperation with State governments, universities, community colleges, and businesses, to provide scholarships to enable students from Poland and Hungary to study in the United States.
 
 #### (b) Emphasis on business and economics
 
@@ -30,7 +30,7 @@ The obligation of any recipient to reimburse any entity for any or all scholarsh
 
 #### (h) Private sector participation
 
-To the maximum extent practicable, each participating State shall enlist the assistance of the private sector to enable the State to meet the non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
+To the maximum extent practicable, each participating State shall enlist the assistance of the private sector to enable the State to meetthe non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
 
 #### (i) Funding
 

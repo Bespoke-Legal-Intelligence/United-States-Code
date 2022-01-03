@@ -60,7 +60,7 @@
 
 #### (E) Maintenance of halls
 
-&emsp;&emsp;The Board shall maintain the Hall of Nations, the Hall of States, and the GrandFoyer of the John F. Kennedy Center for the Performing Arts in a manner that is suitable to a national performing arts center that is operated as a Presidential memorial and in a manner consistent with other national Presidential memorials.
+&emsp;&emsp;The Board shall maintain the Hall of Nations, the Hall of States, and the Grand Foyer of the John F. Kennedy Center for the Performing Arts in a manner that is suitable to a national performing arts center that is operated as a Presidential memorial and in a manner consistent with other national Presidential memorials.
 
 #### (F) Maintenance of grounds
 
@@ -83,6 +83,8 @@
 (3) For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
 
 (Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§2, 3, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 107–224, §4(a), Sept. 18, 2002, 116 Stat. 1343.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -109,6 +111,8 @@ Subsec. (a)(1)(H)(ii). Pub. L. 105–226, §3, amended cl. (ii) generally. Prior
 <b>1983</b>—Pub. L. 98–205 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1964</b>—Pub. L. 88–260 struck out "and" at end of par. (3), substituted "John F. Kennedy Center for the Performing Arts" for "Cultural Center" in par. (4), and added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Commemoration of the John F. Kennedy Center for the Performing Arts
 

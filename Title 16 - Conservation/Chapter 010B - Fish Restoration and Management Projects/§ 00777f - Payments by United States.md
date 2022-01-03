@@ -10,11 +10,15 @@ Any construction work and labor in each State shall be performed in accordance w
 
 (Aug. 9, 1950, ch. 658, §7, 64 Stat. 433; Pub. L. 91–503, title II, §202, Oct. 23, 1970, 84 Stat. 1103.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–503 divided existing provisions into subsecs. (a) and (b) and authorized advance payments by the Secretary to the States for financing the United States' pro rata share of the comprehensive fish and wildlife plan.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970,eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 777 of this title.
 

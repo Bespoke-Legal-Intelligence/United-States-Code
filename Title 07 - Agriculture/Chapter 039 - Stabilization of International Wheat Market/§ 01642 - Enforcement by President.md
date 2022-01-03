@@ -6,11 +6,11 @@ The President is further authorized to take such other action, including prohibi
 
 #### (b) Reports; keeping and examination of books and records
 
-All persons exporting or importing wheat or wheat-flour or selling wheat or wheat-flour for export shall report to the President such information as he may from time to time require and keep such records as he finds to be necessary toenable him to carry out the purposes of this chapter. Such information shall be reported and such records shall be kept in accordance with such regulations as the President may prescribe. For the purposes of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the President is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memoranda as are relevant to transactions under the International Wheat Agreement and are within the control of any such person.
+All persons exporting or importing wheat or wheat-flour or selling wheat or wheat-flour for export shall report to the President such information as he may from time to time require and keep such records as he finds to be necessary to enable him to carry out the purposes of this chapter. Such information shall be reported and such records shall be kept in accordance with such regulations as the President may prescribe. For the purposes of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the President is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memoranda as are relevant to transactions under the International Wheat Agreement and are within the control of any such person.
 
 #### (c) Penalty for violation
 
-Any person failing to make any report or keep any record as required by or pursuant to this section, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
+Any person failing to make any report or keep any record as required by or pursuant to thissection, or making any false report or record or knowingly violating any rule or regulation of the President issued pursuant to this section shall be deemed guilty of a misdemeanor and upon conviction thereof shall be subject to a fine of not more than $1,000 for each violation.
 
 #### (d) Forfeiture for excessive exports or imports
 
@@ -42,6 +42,8 @@ The term "person" as used in this section shall include the singular and the plu
 
 (Oct. 27, 1949, ch. 772, §3, 63 Stat. 946; Oct. 28, 1949, ch. 782, title II, §202(27), title XI, §1106(a), 63 Stat. 956, 972.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 607(g) of the Federal Employees Pay Act of 1945, as amended, referred to in subsec. (h), was repealed by act Sept. 12, 1950, ch. 946, title III, §301 (85), 64 Stat. 843.
@@ -58,9 +60,13 @@ In subsec. (h), "chapter 51 and subchapter III of chapter 53 of title 5" was sub
 
 <b>1949</b>—Subsec. (h). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act \[of 1923\]".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11108
 

@@ -162,7 +162,7 @@ In order to accelerate the development, stockpiling, approval, licensure, and cl
 
 #### (g) Annual report
 
-Not later than 180 days after March 13, 2013, and annually thereafter, the Secretary shallmake publicly available on the Web site of the Food and Drug Administration a report that details the countermeasure development and review activities of the Food and Drug Administration, including—
+Not later than 180 days after March 13, 2013, and annually thereafter, the Secretary shall make publicly available on the Web site of the Food and Drug Administration a report that details the countermeasure development and review activities of the Food and Drug Administration, including—
 
 &emsp;(1) with respect to the development of new tools, standards, and approaches to assess and evaluate countermeasures—
 
@@ -194,7 +194,7 @@ Not later than 180 days after March 13, 2013, and annually thereafter, the Secre
 
 &emsp;&emsp;(A) sponsors of a countermeasure as defined in subsection (a); or
 
-&emsp;&emsp;(B) another agency engaged in development or management of portfolios for such countermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
+&emsp;&emsp;(B) another agency engaged in development or management of portfolios for suchcountermeasures, including the Centers for Disease Control and Prevention, the Biomedical Advanced Research and Development Authority, the National Institutes of Health, and the appropriate agencies of the Department of Defense.
 
 (June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190; Pub. L. 116–22, title V, §503, June 24, 2019, 133 Stat. 951.)
 

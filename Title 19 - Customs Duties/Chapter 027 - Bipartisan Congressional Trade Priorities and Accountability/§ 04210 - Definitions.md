@@ -74,7 +74,7 @@ In this chapter:
 
 #### (10) Environmental laws
 
-&emsp;The term "environmental laws", with respect to the laws of the United States, meansenvironmental statutes and regulations enforceable by action of the Federal Government.
+&emsp;The term "environmental laws", with respect to the laws of the United States, means environmental statutes and regulations enforceable by action of the Federal Government.
 
 #### (11) GATT 1994
 
@@ -139,6 +139,8 @@ In this chapter:
 &emsp;The term "WTO member" has the meaning given that term in section 3501(10) of this title.
 
 (Pub. L. 114–26, title I, §111, June 29, 2015, 129 Stat. 358.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

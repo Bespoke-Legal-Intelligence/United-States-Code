@@ -20,7 +20,7 @@
 
 > such carrier, organization, bank, institution, or plan sponsor shall transmit and certify the accuracy of such information to the administrator within 120 days after the end of the plan year (or such other date as may be prescribed under regulations of the Secretary).
 
-(3)(A) Except as provided in subparagraph (C), the administrator of an employee benefit plan shall engage, on behalf of all plan participants, an independent qualified public accountant, who shall conduct such an examination of any financial statements of the plan, and of other books and records of the plan, as the accountant may deem necessary to enable the accountant to form an opinion as to whether the financial statements and schedules required to be included in the annual reports by subsection (b) of this section are presented fairly in conformity with generally accepted accounting principles applied on a basis consistent with that of the preceding year. Such examination shall be conducted in accordance with generally accepted auditing standards, and shall involve such tests of the books and records of the plan as are considered necessary by the independent qualified public accountant. The independent qualified public accountant shall also offer his opinion as to whether the separate schedules specified in subsection (b)(3) of this section and the summary material required under section 1024(b)(3)of this title present fairly, and in all material respects the information contained therein when considered in conjunction with the financial statements taken as a whole. The opinion by the independent qualified public accountant shall be made a part of the annual report. In a case where a plan is not required to file an annual report, the requirements of this paragraph shall not apply. In a case where by reason of section 1024(a)(2) of this title a plan is required only to file a simplified annual report, the Secretary may waive the requirements of this paragraph.
+(3)(A) Except as provided in subparagraph (C), the administrator of an employee benefit plan shall engage, on behalf of all plan participants, an independent qualified public accountant, who shall conduct such an examination of any financial statements of the plan, and of other books and records of the plan, as the accountant may deem necessary to enable the accountant to form an opinion as to whether the financial statements and schedules required to be included in the annual reports by subsection (b) of this section are presented fairly in conformity with generally accepted accounting principles applied on a basis consistent with that of the preceding year. Such examination shall be conducted in accordance with generally accepted auditing standards, and shall involve such tests of the books and records of the plan as are considered necessary by the independent qualified public accountant. The independent qualified public accountant shall also offer his opinion as to whether the separate schedules specified in subsection (b)(3) of this section and the summary material required under section 1024(b)(3) of this title present fairly, and in all material respects the information contained therein when considered in conjunction with the financial statements taken as a whole. The opinion by the independent qualified public accountant shall be made a part of the annual report. In a case where a plan is not required to file an annual report, the requirements of this paragraph shall not apply. In a case where by reason of section 1024(a)(2) of this title a plan is required only to file a simplified annual report, the Secretary may waive the requirements of this paragraph.
 
 (B) In offering his opinion under this section the accountant may rely on the correctness of any actuarial matter certified to by an enrolled actuary, if he so states his reliance.
 
@@ -62,7 +62,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(B) a statement of receipts and disbursements during the preceding twelve-month period aggregated by general sources and applications;
 
-&emsp;(C) a schedule of all assets held for investment purposes aggregated and identified by issuer, borrower, or lessor, or similar party to the transaction (including a notation as towhether such party is known to be a party in interest), maturity date, rate of interest, collateral, par or maturity value, cost, and current value;
+&emsp;(C) a schedule of all assets held for investment purposes aggregated and identified by issuer, borrower, or lessor, or similar party to the transaction (including a notation as to whether such party is known to be a party in interest), maturity date, rate of interest, collateral, par or maturity value, cost, and current value;
 
 &emsp;(D) a schedule of each transaction involving a person known to be party in interest, the identity of such party in interest and his relationship or that of any other party in interest to the plan, a description of each asset to which the transaction relates; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expense incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction;
 
@@ -72,7 +72,7 @@ An annual report under this section shall include a financial statement containi
 
 &emsp;(G) if some or all of the assets of a plan or plans are held in a common or collective trust maintained by a bank or similar institution or in a separate account maintained by an insurance carrier or a separate trust maintained by a bank as trustee, the report shall include the most recent annual statement of assets and liabilities of such common or collective trust, and in the case of a separate account or a separate trust, such other information as is required by the administrator in order to comply with this subsection; and
 
-&emsp;(H) a schedule of each reportable transaction, the name of each party to the transaction (except that, in the case of an acquisition or sale of a security on the market, the report need not identify the person from whom the security was acquired or to whom it was sold) and a description of each asset to which the transaction applies; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expenses incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction. For purposes of the preceding sentence, the term "reportable transaction" means a transaction to which the plan is a party if such transaction is—
+&emsp;(H) a schedule of each reportable transaction, the name of each party to the transaction (except that, in the case of an acquisition or sale of a security on the market, the report need not identify the person from whom the security was acquired or to whom it wassold) and a description of each asset to which the transaction applies; the purchase or selling price in case of a sale or purchase, the rental in case of a lease, or the interest rate and maturity date in case of a loan; expenses incurred in connection with the transaction; the cost of the asset, the current value of the asset, and the net gain (or loss) on each transaction. For purposes of the preceding sentence, the term "reportable transaction" means a transaction to which the plan is a party if such transaction is—
 
 &emsp;&emsp;(i) a transaction involving an amount in excess of 3 percent of the current value of the assets of the plan;
 
@@ -124,7 +124,7 @@ With respect to an employee pension benefit plan (other than (A) a profit sharin
 
 &emsp;&emsp;(E) the actuarial assumptions and techniques used in determining the values described in subparagraphs (A) through (D).
 
-&emsp;(7) A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of this title, or the accumulated funding deficiency determined under section 1084 of this title, to zero.
+&emsp;(7) A certification of the contribution necessary to reduce the minimum required contribution determined under section 1083 of thistitle, or the accumulated funding deficiency determined under section 1084 of this title, to zero.
 
 &emsp;(8) A statement by the enrolled actuary—
 
@@ -190,7 +190,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 &emsp;&emsp;(B) A list of the employers that contributed more than 5 percent of the total contributions to the plan during such plan year.
 
-&emsp;&emsp;(C) The number of participants under the plan on whose behalf no contributions were made by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years.
+&emsp;&emsp;(C) The number of participants under the plan on whose behalf no contributions weremade by an employer as an employer of the participant for such plan year and for each of the 2 preceding plan years.
 
 &emsp;&emsp;(D) The ratios of—
 
@@ -212,7 +212,7 @@ If some or all of the benefits under the plan are purchased from and guaranteed 
 
 An annual report under this section for a plan year shall include—
 
-&emsp;(1) with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage oftotal contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
+&emsp;(1) with respect to any plan to which section 1060(a) of this title applies (including a pooled employer plan), a list of employers in the plan and a good faith estimate of the percentage of total contributions made by such employers during the plan year and the aggregate account balances attributable to each employer in the plan (determined as the sum of the account balances of the employees of such employer (and the beneficiaries of such employees)); and
 
 &emsp;(2) with respect to a pooled employer plan, the identifying information for the person designated under the terms of the plan as the pooled plan provider.
 
@@ -248,7 +248,7 @@ Subsec. (f). Pub. L. 109–280, §503(a)(1)(B), added subsec. (f).
 
 <b>1987</b>—Subsec. (d)(11) to (13). Pub. L. 100–203 added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
 
-<b>1986</b>—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) 'termination priority categories' and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories."
+<b>1986</b>—Subsec. (d)(6). Pub. L. 99–272 amended par. (6) generally. Prior to amendment, par. (6) read as follows:"The present value of all of the plan's liabilities for nonforfeitable pension benefits allocated by the termination priority categories as set forth in section 1344 of this title, and the actuarial assumptions used in these computations. The Secretary shall establish regulations defining (for purposes of this section) 'termination priority categories' and acceptable methods, including approximate methods, for allocating the plan's liabilities to such termination priority categories."
 
 <b>1980</b>—Subsec. (d)(10) to (12). Pub. L. 96–364 added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
 

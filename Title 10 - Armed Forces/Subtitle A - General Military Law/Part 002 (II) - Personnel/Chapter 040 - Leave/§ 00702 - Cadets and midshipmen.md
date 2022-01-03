@@ -76,6 +76,8 @@ In subsection (a), the words "outside the United States or in Alaska or Hawaii" 
 
 In subsections (a) and (b), the words ", or his designated representative," are substituted for the last 8 words of section 32(f) of existing title 37.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 substituted "section 203(c)" for "section 230(c)".
@@ -93,6 +95,8 @@ Subsec. (e). Pub. L. 105–261, §562(b)(2), added subsec. (e).
 <b>1993</b>—Subsec. (a). Pub. L. 103–160 struck out "regular" before "component" in first sentence.
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–513 substituted "Sections 701, 703, and 704 of this title and subsection (a)" for "Sections 701, 702(a), 703, and 704 of this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

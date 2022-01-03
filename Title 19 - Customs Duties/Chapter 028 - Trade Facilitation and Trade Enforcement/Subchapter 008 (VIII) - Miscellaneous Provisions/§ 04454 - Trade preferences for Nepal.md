@@ -36,7 +36,7 @@ Congress makes the following findings:
 
 &emsp;&emsp;&emsp;(i)(I) the article is the growth, product, or manufacture of Nepal; and
 
-&emsp;&emsp;&emsp;(II) in the case of a textile or apparel article, Nepal is the country of origin of thearticle, as determined under section 102.21 of title 19, Code of Federal Regulations (as in effect on the day before February 24, 2016);
+&emsp;&emsp;&emsp;(II) in the case of a textile or apparel article, Nepal is the country of origin of the article, as determined under section 102.21 of title 19, Code of Federal Regulations (as in effect on the day before February 24, 2016);
 
 &emsp;&emsp;&emsp;(ii) the article is imported directly from Nepal into the customs territory of the United States;
 
@@ -138,6 +138,8 @@ The provisions of this section shall take effect on the date that is 30 days aft
 
 (Pub. L. 114–125, title IX, §915, Feb. 24, 2016, 130 Stat. 276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3703(a) of this title, referred to in subsec. (b)(1)(A), was amended and the subsection (a) designation struck out by Pub. L. 114–27, title I, §111, June 29, 2015, 129 Stat. 370.
@@ -145,6 +147,8 @@ Section 3703(a) of this title, referred to in subsec. (b)(1)(A), was amended and
 The Trade Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see section 2101 of this title and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (c)(2)(A)(iii), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

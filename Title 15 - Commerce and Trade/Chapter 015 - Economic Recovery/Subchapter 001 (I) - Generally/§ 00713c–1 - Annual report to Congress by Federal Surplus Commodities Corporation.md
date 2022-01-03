@@ -4,9 +4,13 @@ The Federal Surplus Commodities Corporation shall submit to Congress on the firs
 
 (Feb. 16, 1938, ch. 30, title II, §204, 52 Stat. 38.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was previously classified to section 1293 of Title 7, Agriculture.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -2,13 +2,15 @@
 
 #### (a) Promulgation of regulations; fair hearing
 
-In any State where there is no agreement in force between a State or its agency under section 2311 of this title, the Secretary shall arrange under regulations prescribed by him for performance of all necessary functions under subpart B of this part, including provision for a fair hearing for any worker whose application for payments is denied.
+In any State where there is no agreement in force between a State or its agency under section 2311 of this title, the Secretary shall arrange under regulations prescribed by him forperformance of all necessary functions under subpart B of this part, including provision for a fair hearing for any worker whose application for payments is denied.
 
 #### (b) Review of final determination
 
 A final determination under subsection (a) with respect to entitlement to program benefits under subpart B of this part is subject to review by the courts in the same manner and to the same extent as is provided by section 405(g) of title 42.
 
 (Pub. L. 93–618, title II, §240, Jan. 3, 1975, 88 Stat. 2025.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date
 

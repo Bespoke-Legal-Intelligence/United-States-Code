@@ -12,7 +12,7 @@ The period during which payments are made to a State from a grant under section 
 
 (C) For the third year of such payments to a State, the Secretary may not make such payments in an amount exceeding 55 percent of the costs of such services.
 
-(2) The Secretary may not make a grant under section 280c(a) of this title to a State unless the State agrees to make available, directly or through donations from public or private entities, non-Federal contributions toward the costs of services to be provided pursuant to such section in an amount equal to—
+(2) The Secretary may not make a grant under section 280c(a) of this title to a State unless the State agrees to make available, directly orthrough donations from public or private entities, non-Federal contributions toward the costs of services to be provided pursuant to such section in an amount equal to—
 
 &emsp;(A) for the first year of payments to the State from the grant, not less than $25 (in cash or in kind under subsection (c)) for each $75 of Federal funds provided in the grant;
 
@@ -26,9 +26,13 @@ Non-Federal contributions required in subsection (b) may be in cash or in kind, 
 
 (July 1, 1944, ch. 373, title III, §396, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 979.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 396 of act July 1, 1944, ch. 373, title III, formerly §398, as added Oct. 22, 1965, Pub. L. 89–291, §2, 79 Stat. 1065; renumbered §397 and amended Mar. 13, 1970, Pub. L. 91–212, §§2(f), 7, 10(c)(3), (d)(2)(A), 84 Stat. 63, 65, 67; June 18, 1973, Pub. L. 93–45, title I, §107(e), 87 Stat. 92; renumbered §396 and amended July 23, 1974, Pub. L. 93–353, title II, §§202(e), (f), 203(d), 204, 88 Stat. 372, 373, which related to grants for establishment of regional medical libraries, was classified to section 280b–8 of this title, prior to repeal by Pub. L. 99–158, §3(b), Nov. 20, 1985, 99 Stat. 879.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

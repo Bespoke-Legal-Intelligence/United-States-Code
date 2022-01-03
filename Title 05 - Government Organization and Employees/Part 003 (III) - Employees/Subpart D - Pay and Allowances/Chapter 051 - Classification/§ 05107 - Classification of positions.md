@@ -32,7 +32,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 803(a)(3)(E) of Pub. L. 95–454, substituting reference to subchapter VI of chapter 53 for reference to section 5337, effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
+Amendment by section 803(a)(3)(E) of Pub. L. 95–454, substituting reference to subchapter VI of chapter 53for reference to section 5337, effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
 Amendment by section 906(a)(2), (3) of Pub. L. 95–454, substituting reference to Office of Personnel Management for reference to Civil Service Commission, effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 

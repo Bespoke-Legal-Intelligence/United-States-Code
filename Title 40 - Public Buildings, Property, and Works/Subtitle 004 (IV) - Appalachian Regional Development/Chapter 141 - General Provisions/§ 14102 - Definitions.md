@@ -8,11 +8,11 @@ Definitions.—In this subtitle—
 
 Appalachian region.—The term "Appalachian region" means that area of the eastern United States consisting of the following counties (including any political subdivision located within the area):
 
-&emsp;&emsp;(A) In Alabama, the counties of Bibb, Blount, Calhoun, Chambers, Cherokee, Chilton, Clay, Cleburne, Colbert, Coosa, Cullman, De Kalb, Elmore, Etowah, Fayette, Franklin, Hale, Jackson, Jefferson, Lamar, Lauderdale, Lawrence, Limestone, Macon, Madison, Marion, Marshall, Morgan, Pickens, Randolph, St. Clair, Shelby, Talladega, Tallapoosa, Tuscaloosa, Walker, and Winston.
+&emsp;&emsp;(A) In Alabama, the counties of Bibb, Blount, Calhoun, Chambers, Cherokee, Chilton, Clay, Cleburne, Colbert, Coosa, Cullman, De Kalb, Elmore, Etowah, Fayette,Franklin, Hale, Jackson, Jefferson, Lamar, Lauderdale, Lawrence, Limestone, Macon, Madison, Marion, Marshall, Morgan, Pickens, Randolph, St. Clair, Shelby, Talladega, Tallapoosa, Tuscaloosa, Walker, and Winston.
 
 &emsp;&emsp;(B) In Georgia, the counties of Banks, Barrow, Bartow, Carroll, Catoosa, Chattooga, Cherokee, Dade, Dawson, Douglas, Elbert, Fannin, Floyd, Forsyth, Franklin, Gilmer, Gordon, Gwinnett, Habersham, Hall, Haralson, Hart, Heard, Jackson, Lumpkin, Madison, Murray, Paulding, Pickens, Polk, Rabun, Stephens, Towns, Union, Walker, White, and Whitfield.
 
-&emsp;&emsp;(C) In Kentucky, the counties of Adair, Bath, Bell, Boyd, Breathitt, Carter, Casey,Clark, Clay, Clinton, Cumberland, Edmonson, Elliott, Estill, Fleming, Floyd, Garrard, Green, Greenup, Harlan, Hart, Jackson, Johnson, Knott, Knox, Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Menifee, Metcalfe, Monroe, Montgomery, Morgan, Nicholas, Owsley, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Russell, Wayne, Whitley, and Wolfe.
+&emsp;&emsp;(C) In Kentucky, the counties of Adair, Bath, Bell, Boyd, Breathitt, Carter, Casey, Clark, Clay, Clinton, Cumberland, Edmonson, Elliott, Estill, Fleming, Floyd, Garrard, Green, Greenup, Harlan, Hart, Jackson, Johnson, Knott, Knox, Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Menifee, Metcalfe, Monroe, Montgomery, Morgan, Nicholas, Owsley, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Russell, Wayne, Whitley, and Wolfe.
 
 &emsp;&emsp;(D) In Maryland, the counties of Allegany, Garrett, and Washington.
 
@@ -20,19 +20,19 @@ Appalachian region.—The term "Appalachian region" means that area of the easte
 
 &emsp;&emsp;(F) In New York, the counties of Allegany, Broome, Cattaraugus, Chautauqua, Chemung, Chenango, Cortland, Delaware, Otsego, Schoharie, Schuyler, Steuben, Tioga, and Tompkins.
 
-&emsp;&emsp;(G) In North Carolina, the counties of Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Cherokee, Clay, Davie, Forsyth, Graham, Haywood, Henderson, Jackson, McDowell, Macon, Madison, Mitchell, Polk, Rutherford, Stokes, Surry, Swain, Transylvania, Watauga, Wilkes, Yadkin, and Yancey.
+&emsp;&emsp;(G) In North Carolina, the counties of Alexander, Alleghany, Ashe, Avery, Buncombe, Burke, Caldwell, Catawba, Cherokee, Clay, Cleveland, Davie, Forsyth, Graham, Haywood, Henderson, Jackson, McDowell, Macon, Madison, Mitchell, Polk, Rutherford, Stokes, Surry, Swain, Transylvania, Watauga, Wilkes, Yadkin, and Yancey.
 
 &emsp;&emsp;(H) In Ohio, the counties of Adams, Ashtabula, Athens, Belmont, Brown, Carroll, Clermont, Columbiana, Coshocton, Gallia, Guernsey, Harrison, Highland, Hocking, Holmes, Jackson, Jefferson, Lawrence, Mahoning, Meigs, Monroe, Morgan, Muskingum, Noble, Perry, Pike, Ross, Scioto, Trumbull, Tuscarawas, Vinton, and Washington.
 
 &emsp;&emsp;(I) In Pennsylvania, the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Bradford, Butler, Cambria, Cameron, Carbon, Centre, Clarion, Clearfield, Clinton, Columbia, Crawford, Elk, Erie, Fayette, Forest, Fulton, Greene, Huntingdon, Indiana, Jefferson, Juniata, Lackawanna, Lawrence, Luzerne, Lycoming, McKean, Mercer, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Somerset, Sullivan, Susquehanna, Tioga, Union, Venango, Warren, Washington, Wayne, Westmoreland, and Wyoming.
 
-&emsp;&emsp;(J) In South Carolina, the counties of Anderson, Cherokee, Greenville, Oconee, Pickens, and Spartanburg.
+&emsp;&emsp;(J) In South Carolina, the counties of Anderson, Cherokee, Greenville, Oconee, Pickens, Spartanburg, and Union.
 
 &emsp;&emsp;(K) In Tennessee, the counties of Anderson, Bledsoe, Blount, Bradley, Campbell, Cannon, Carter, Claiborne, Clay, Cocke, Coffee, Cumberland, De Kalb, Fentress, Franklin, Grainger, Greene, Grundy, Hamblen, Hamilton, Hancock, Hawkins, Jackson, Jefferson, Johnson, Knox, Lawrence, Lewis, Loudon, McMinn, Macon, Marion, Meigs, Monroe, Morgan, Overton, Pickett, Polk, Putnam, Rhea, Roane, Scott, Sequatchie, Sevier, Smith, Sullivan, Unicoi, Union, Van Buren, Warren, Washington, and White.
 
 &emsp;&emsp;(L) In Virginia, the counties of Alleghany, Bath, Bland, Botetourt, Buchanan, Carroll, Craig, Dickenson, Floyd, Giles, Grayson, Henry, Highland, Lee, Montgomery, Patrick, Pulaski, Rockbridge, Russell, Scott, Smyth, Tazewell, Washington, Wise, and Wythe.
 
-&emsp;&emsp;(M) All the counties of West Virginia.
+&emsp;&emsp;(M) All the counties of West Virginia, of which the counties of Brooke, Hancock, Marshall, and Ohio shall be considered to be located in the North Central subregion.
 
 &emsp;(2)
 
@@ -50,7 +50,7 @@ Local development district.—The term "local development district" means any of
 
 Change in Definition.—The Commission may not propose or consider a recommendation for any change in the definition of the Appalachian region as set forth in this section without a prior resolution by the Committee on Environment and Public Works of the Senate or the Committee on Transportation and Infrastructure of the House of Representatives that directs a study of the change.
 
-(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1254; Pub. L. 110–371, §7, Oct. 8, 2008, 122 Stat. 4042.)
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1254; Pub. L. 110–371, §7, Oct. 8, 2008, 122 Stat. 4042; Pub. L. 117–58, div. A, title I, §11506(a), Nov. 15, 2021, 135 Stat. 584.)
 
 Historical and Revision Notes
 
@@ -86,6 +86,12 @@ In subsection (b), the text of 40 App.:403 (last par.) is omitted as obsolete.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a)(1)(G). Pub. L. 117–58, §11506(a)(1), inserted "Catawba," after "Caldwell," and "Cleveland," after "Clay,".
+
+Subsec. (a)(1)(J). Pub. L. 117–58, §11506(a)(2), substituted "Spartanburg, and Union" for "and Spartanburg".
+
+Subsec. (a)(1)(M). Pub. L. 117–58, §11506(a)(3), inserted ", of which the counties of Brooke, Hancock, Marshall, and Ohio shall be considered to be located in the North Central subregion" after "West Virginia".
+
 <b>2008</b>—Subsec. (a)(1)(C). Pub. L. 110–371, §7(a), inserted "Metcalfe," after "Menifee,", "Nicholas," after "Morgan,", and "Robertson," after "Pulaski,".
 
 Subsec. (a)(1)(H). Pub. L. 110–371, §7(b), inserted "Ashtabula," after "Adams,", "Mahoning," after "Lawrence,", and "Trumbull," after "Scioto,".
@@ -93,4 +99,10 @@ Subsec. (a)(1)(H). Pub. L. 110–371, §7(b), inserted "Ashtabula," after "Adams
 Subsec. (a)(1)(K). Pub. L. 110–371, §7(c), inserted "Lawrence, Lewis," after "Knox,".
 
 Subsec. (a)(1)(L). Pub. L. 110–371, §7(d), inserted "Henry," after "Grayson," and "Patrick," after "Montgomery,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of Title 23, Highways.
 

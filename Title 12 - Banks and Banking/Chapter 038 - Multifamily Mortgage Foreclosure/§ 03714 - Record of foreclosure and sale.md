@@ -1,6 +1,6 @@
 ### §3714. Record of foreclosure and sale
 
-(a) To establish a sufficient record of foreclosure and sale, the foreclosure commissionershall include in the recitals of the deed to the purchaser or prepare an affidavit or addendum to the deed stating—
+(a) To establish a sufficient record of foreclosure and sale, the foreclosure commissioner shall include in the recitals of the deed to the purchaser or prepare an affidavit or addendum to the deed stating—
 
 &emsp;(1) that the mortgage was held by the Secretary;
 

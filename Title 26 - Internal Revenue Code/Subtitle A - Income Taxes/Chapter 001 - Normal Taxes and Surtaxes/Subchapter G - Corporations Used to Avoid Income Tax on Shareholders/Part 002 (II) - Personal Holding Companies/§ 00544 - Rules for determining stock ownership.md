@@ -40,13 +40,15 @@ Outstanding securities convertible into stock (whether or not convertible during
 
 &emsp;(2) for purposes of section 543(a)(7) (relating to personal service contracts), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income;
 
-&emsp;(3) for purposes of section 543(a)(6) (relating to the use of property by shareholders), butonly if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income; and
+&emsp;(3) for purposes of section 543(a)(6) (relating to the use of property by shareholders), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income; and
 
 &emsp;(4) for purposes of section 543(a)(4) (relating to copyright royalties), but only if the effect of the inclusion of all such securities is to make the amounts therein referred to includible under such paragraph as personal holding company income.
 
 > The requirement in paragraphs (1), (2), (3), and (4) that all convertible securities must be included if any are to be included shall be subject to the exception that, where some of the outstanding securities are convertible only after a later date than in the case of others, the class having the earlier conversion date may be included although the others are not included, but no convertible securities shall be included unless all outstanding securities having a prior conversion date are also included.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 188; Pub. L. 86–435, §1(c), (d), Apr. 22, 1960, 74 Stat. 78; Pub. L. 88–272, title II, §225(k)(3), Feb. 26, 1964, 78 Stat. 93.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Outstanding securities convertible into stock (whether or not convertible during
 Subsec. (a)(4)(B). Pub. L. 86–435, §1(c)(2), included reference to section 543(a)(9).
 
 Subsec. (b). Pub. L. 86–435, §1(d), added par. (4), and inserted reference to par. (4) in last sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1964 Amendment
 

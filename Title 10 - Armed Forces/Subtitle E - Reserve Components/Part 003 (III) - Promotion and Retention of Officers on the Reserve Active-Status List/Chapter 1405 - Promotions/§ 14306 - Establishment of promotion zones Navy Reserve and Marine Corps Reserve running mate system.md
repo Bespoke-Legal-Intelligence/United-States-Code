@@ -14,6 +14,8 @@ Consideration of Officers Below the Zone Under a Running Mate System.—If the S
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2935; amended Pub. L. 109–163, div. A, title V, §515(b)(3)(J), Jan. 6, 2006, 119 Stat. 3235.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsec. (b) of this section were contained in section 5899 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
@@ -21,6 +23,8 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

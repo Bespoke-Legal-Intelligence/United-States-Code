@@ -100,7 +100,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;(2) may obtain insurance or make other arrangements for the cost of such services provided to its enrolled members other than through the organization because medical necessity required their provision before they could be secured through the organization,
 
-&emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent of the amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
+&emsp;(3) may obtain insurance or make other arrangements for not more than 90 percent ofthe amount by which its costs for any of its fiscal years exceed 115 percent of its income for such fiscal year, and
 
 &emsp;(4) may make arrangements with physicians or other health care professionals, health care institutions, or any combination of such individuals or institutions to assume all or part of the financial risk on a prospective basis for the provision of basic health services by the physicians or other health professionals or through the institutions.
 
@@ -172,9 +172,13 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1855, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 312.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), (D), is classified generally to Title 26, Internal Revenue Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

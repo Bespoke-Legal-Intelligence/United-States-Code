@@ -36,7 +36,7 @@
 
 &emsp;(4) does not relieve a disbursing or certifying official from liability to the Government for payment resulting from erroneously issuing the original check.
 
-(e) Before issuing a substitute check under this section, the Secretary may require the owner or holder of the original check to agree to indemnify the Government with security in theform and amount the Secretary decides is necessary.
+(e) Before issuing a substitute check under this section, the Secretary may require the owner or holder of the original check to agree to indemnify the Government with security in the form and amount the Secretary decides is necessary.
 
 (f) The Secretary may waive any provision of this section as may be necessary to ensure that claimants receive timely payments.
 
@@ -80,7 +80,7 @@ In subsection (a), before clause (1), the words "The term . . . wherever used"
 
 In subsections (b) and (c), the words "When the Secretary is satisfied" are substituted for "whenever it is clearly proved to the satisfaction of the Secretary" to eliminate unnecessary words. The words "mutilated or" are omitted as being covered by "defaced".
 
-In subsection (c), before clause (1), the words "Notwithstanding the provisions of subsections (a) and (b) of this section" are omitted as unnecessary. The words "including the Panama Canal Zone" are omitted because of the Panama Canal Treaty of 1977. The words "official designated" are substituted for "officer or employee of the United States as may be authorized" for consistency in the revised title and with other titles of the United States Code. The word "agency" is substituted for "department or agency" because of section 101 of the revised title and for consistency. In clause (2), the words "drawn on" are substituted for "drawn against" for consistency in the revised chapter.
+In subsection (c), before clause (1), the words "Notwithstanding the provisions of subsections (a) and (b) of this section" are omitted as unnecessary. The words "including the Panama Canal Zone" are omitted because of the Panama Canal Treaty of 1977. The words "official designated" are substituted for "officer or employee of the United States as may be authorized" for consistency in the revised title and with other titles ofthe United States Code. The word "agency" is substituted for "department or agency" because of section 101 of the revised title and for consistency. In clause (2), the words "drawn on" are substituted for "drawn against" for consistency in the revised chapter.
 
 In subsection (d)(3), before subclause (A), the word "Treasury" is substituted for "Treasurer of the United States" because of the source provisions restated in section 321 of the revised title and Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280).
 

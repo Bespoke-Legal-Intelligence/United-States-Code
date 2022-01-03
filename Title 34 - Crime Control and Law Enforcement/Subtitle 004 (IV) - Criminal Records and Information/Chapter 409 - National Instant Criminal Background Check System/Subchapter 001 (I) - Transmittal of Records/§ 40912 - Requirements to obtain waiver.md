@@ -92,7 +92,7 @@ Section was formerly classified in a note under section 922 of Title 18, Crimes 
 
 #### Amendments
 
-<b>2018</b>—Subsec. (a). Pub. L. 115–141, §603(a)(1), substituted "section 40301 of this title" for "the Crime Identification Technology Act of 1988 (42 U.S.C. 14601)" and inserted "is in compliance with an implementation plan established under subsection (b) or" before "provides at least 90 percent of the information described in subsection (c)".
+<b>2018</b>—Subsec. (a). Pub. L. 115–141, §603(a)(1), substituted "section 40301 of this title" for "the CrimeIdentification Technology Act of 1988 (42 U.S.C. 14601)" and inserted "is in compliance with an implementation plan established under subsection (b) or" before "provides at least 90 percent of the information described in subsection (c)".
 
 Subsec. (b)(1)(B). Pub. L. 115–141, §603(a)(2), inserted "or has established an implementation plan under section 40917 of this title" after "the Attorney General".
 

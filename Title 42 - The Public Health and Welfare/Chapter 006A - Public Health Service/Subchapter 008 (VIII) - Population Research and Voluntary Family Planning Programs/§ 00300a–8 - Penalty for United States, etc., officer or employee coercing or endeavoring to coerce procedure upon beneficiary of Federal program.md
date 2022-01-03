@@ -12,9 +12,13 @@ Any—
 
 (Pub. L. 94–63, title II, §205, July 29, 1975, 89 Stat. 308.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Family Planning and Population Research Act of 1975, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

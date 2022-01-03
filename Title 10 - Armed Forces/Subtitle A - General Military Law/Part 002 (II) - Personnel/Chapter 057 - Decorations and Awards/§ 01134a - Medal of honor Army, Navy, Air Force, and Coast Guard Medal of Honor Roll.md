@@ -14,9 +14,11 @@ Issuance of Enrollment Certificate.—Each living person whose name is entered o
 
 (d)
 
-Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection (c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by section 1562 of title 38 to the person named in the certificate.
+Entitlement to Special Pension; Notice to Secretary of Veterans Affairs.—The Secretary concerned shall deliver to the Secretary of Veterans Affairs a certified copy of each certificate of enrollment issued under subsection\(c). The copy of the certificate shall authorize the Secretary of Veterans Affairs to pay the special pension provided by section 1562 of title 38 to the person named in the certificate.
 
 (Added Pub. L. 113–66, div. A, title V, §563(a)(1), Dec. 26, 2013, 127 Stat. 767; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -25,6 +27,8 @@ Section 491 of title 14, referred to in subsec. (b), was redesignated section 27
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–232 substituted "section 7271, 8291, or 9271" for "section 3741, 6241, or 8741".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

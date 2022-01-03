@@ -6,7 +6,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;(1) as to any commodity produced during that crop year by such person—
 
-&emsp;&emsp;(A) contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\],the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
+&emsp;&emsp;(A) contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;
 
 &emsp;&emsp;(B) a farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b(h));
 
@@ -37,6 +37,8 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
 
 (Pub. L. 99–198, title XII, §1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, §1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982; Pub. L. 107–171, title II, §2002(a), May 13, 2002, 116 Stat. 233; Pub. L. 113–79, title II, §§2611(a)(1), 2713(b), Feb. 7, 2014, 128 Stat. 762, 772; Pub. L. 115–334, title II, §2301(d)(1)(A), Dec. 20, 2018, 132 Stat. 4553.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -86,13 +88,15 @@ Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par.
 
 <b>1991</b>—Par. (1)(D). Pub. L. 102–237, §204(1)(A), substituted "(7 U.S.C. 1421 note)" for "(16 U.S.C. 1421 note)".
 
-Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, toclarify references in corresponding provisions of original Act.
+Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
 
 <b>1990</b>—Pub. L. 101–624, §1411(1), inserted ", or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary" after "is predominate" in first sentence.
 
 Par. (1)(D). Pub. L. 101–624, §1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 
 Par. (3). Pub. L. 101–624, §1411(3)–(5), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

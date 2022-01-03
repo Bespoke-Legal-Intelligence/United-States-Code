@@ -12,7 +12,7 @@ As used in this paragraph, the term "any person" includes the United States, all
 
 (2) Notwithstanding any other provision of this chapter, the remedies given to the owner of a right infringed under this chapter or to a person bringing an action under section 1125(a) or (d) of this title shall be limited as follows:
 
-&emsp;(A) Where an infringer or violator is engaged solely in the business of printing the mark or violating matter for others and establishesthat he or she was an innocent infringer or innocent violator, the owner of the right infringed or person bringing the action under section 1125(a) of this title shall be entitled as against such infringer or violator only to an injunction against future printing.
+&emsp;(A) Where an infringer or violator is engaged solely in the business of printing the mark or violating matter for others and establishes that he or she was an innocent infringer or innocent violator, the owner of the right infringed or person bringing the action under section 1125(a) of this title shall be entitled as against such infringer or violator only to an injunction against future printing.
 
 &emsp;(B) Where the infringement or violation complained of is contained in or is part of paid advertising matter in a newspaper, magazine, or other similar periodical or in an electronic communication as defined in section 2510(12) of title 18, the remedies of the owner of the right infringed or person bringing the action under section 1125(a) of this title as against the publisher or distributor of such newspaper, magazine, or other similar periodical or electronic communication shall be limited to an injunction against the presentation of such advertising matter in future issues of such newspapers, magazines, or other similar periodicals or in future transmissions of such electronic communications. The limitations of this subparagraph shall apply only to innocent infringers and innocent violators.
 
@@ -48,13 +48,15 @@ As used in this paragraph, the term "any person" includes the United States, all
 
 (3)(A) Any person who engages in the conduct described in paragraph (11) of section 110 of title 17 and who complies with the requirements set forth in that paragraph is not liable on account of such conduct for a violation of any right under this chapter. This subparagraph does not preclude liability, nor shall it be construed to restrict the defenses or limitations on rights granted under this chapter, of a person for conduct not described in paragraph (11) of section 110 of title 17, even if that person also engages in conduct described in paragraph (11) of section 110 of such title.
 
-(B) A manufacturer, licensee, or licensor of technology that enables the making of limitedportions of audio or video content of a motion picture imperceptible as described in subparagraph (A) is not liable on account of such manufacture or license for a violation of any right under this chapter, if such manufacturer, licensee, or licensor ensures that the technology provides a clear and conspicuous notice at the beginning of each performance that the performance of the motion picture is altered from the performance intended by the director or copyright holder of the motion picture. The limitations on liability in subparagraph (A) and this subparagraph shall not apply to a manufacturer, licensee, or licensor of technology that fails to comply with this paragraph.
+(B) A manufacturer, licensee, or licensor of technology that enables the making of limited portions of audio or video content of a motion picture imperceptible as described in subparagraph (A) is not liable on account of such manufacture or license for a violation of any right under this chapter, if such manufacturer, licensee, or licensor ensures that the technology provides a clear and conspicuous notice at the beginning of each performance that the performance of the motion picture is altered from the performance intended by the director or copyright holder of the motion picture. The limitations on liability in subparagraph (A) and this subparagraph shall not apply to a manufacturer, licensee, or licensor of technology that fails to comply with this paragraph.
 
 (C) The requirement under subparagraph (B) to provide notice shall apply only with respect to technology manufactured after the end of the 180-day period beginning on April 27, 2005.
 
 (D) Any failure by a manufacturer, licensee, or licensor of technology to qualify for the exemption under subparagraphs (A) and (B) shall not be construed to create an inference that any such party that engages in conduct described in paragraph (11) of section 110 of title 17 is liable for trademark infringement by reason of such conduct.
 
-(July 5, 1946, ch. 540, title VI, §32, 60 Stat. 437; Pub. L. 87–772, §17, Oct. 9, 1962, 76 Stat. 773; Pub. L. 100–667, title I, §127, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 102–542, §3(a), Oct. 27, 1992, 106 Stat. 3567; Pub. L. 105–330, title II, §201(a)(8), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §4(a), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3004\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 109–9, title II, §202(b), Apr. 27, 2005, 119 Stat. 223.)
+(July 5, 1946, ch. 540, title VI, §32, 60 Stat. 437; Pub. L. 87–772, §17, Oct. 9, 1962, 76 Stat. 773; Pub.L. 100–667, title I, §127, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 102–542, §3(a), Oct. 27, 1992, 106 Stat. 3567; Pub. L. 105–330, title II, §201(a)(8), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §4(a), Aug. 5, 1999, 113 Stat. 219; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3004\], Nov. 29, 1999, 113 Stat. 1536, 1501A–549; Pub. L. 109–9, title II, §202(b), Apr. 27, 2005, 119 Stat. 223.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -79,6 +81,8 @@ Par. (2)(D), (E). Pub. L. 106–113, §1000(a)(9) \[title III, §3004(2)\], adde
 <b>1962</b>—Par. (1). Pub. L. 87–772 amended provisions generally, and among other changes, inserted "distribution", and struck out "purchasers as to the source of origin of such goods or services" after "or to deceive" in subsec. (a), inserted provisions regarding the likelihood of such use causing confusion, mistake, or deception, in subsec. (b), and struck out the limitation on recovery under subsec. (b) to acts committed with knowledge that such acts would deceive purchasers.
 
 Par. (2)(b). Pub. L. 87–772 substituted "publisher" for "published".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

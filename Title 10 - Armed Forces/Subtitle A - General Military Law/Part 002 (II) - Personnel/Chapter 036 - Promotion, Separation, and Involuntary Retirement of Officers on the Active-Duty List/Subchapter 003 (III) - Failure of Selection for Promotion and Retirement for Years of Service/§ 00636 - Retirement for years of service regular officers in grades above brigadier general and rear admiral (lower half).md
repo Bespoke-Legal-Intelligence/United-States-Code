@@ -14,6 +14,8 @@ Generals and Admirals.—In the administration of subsection (a) in the case of 
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2863; amended Pub. L. 98–525, title XIV, §1405(14), Oct. 19, 1984, 98 Stat. 2622; Pub. L. 105–85, div. A, title V, §506(a), (b), Nov. 18, 1997, 111 Stat. 1726; Pub. L. 114–328, div. A, title V, §505(b)(4), Dec. 23, 2016, 130 Stat. 2108; Pub. L. 116–283, div. A, title IX, §924(b)(4)(G), Jan. 1, 2021, 134 Stat. 3822.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Regular Marine Corps, or Regular Space Force" for "or Regular Marine Corps".
@@ -26,7 +28,9 @@ Pub. L. 105–85, §506(a), designated existing provisions as subsec. (a), inser
 
 <b>1984</b>—Pub. L. 98–525 substituted "35" for "thirty-five".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective onDec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under section 101 of this title.
 

@@ -32,6 +32,8 @@ Limitation on Transportation Assistance.—Transportation services authorized un
 
 (Added Pub. L. 103–337, div. A, title XIV, §1412(a), Oct. 5, 1994, 108 Stat. 2912; amended Pub. L. 108–136, div. A, title III, §312(c), Nov. 24, 2003, 117 Stat. 1430.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 404 was renumbered section 401(d) of this title.
@@ -43,6 +45,8 @@ A prior section 404 was renumbered section 401(d) of this title.
 Subsec. (c)(2). Pub. L. 108–136, §312(c)(2), inserted "or the environment" after "human lives".
 
 Subsec. (e). Pub. L. 108–136, §312(c)(3), added subsec. (e).
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12966. Foreign Disaster Assistance
 

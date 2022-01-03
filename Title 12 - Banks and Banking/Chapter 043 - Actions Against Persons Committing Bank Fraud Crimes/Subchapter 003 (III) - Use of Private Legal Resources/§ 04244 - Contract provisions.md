@@ -2,7 +2,7 @@
 
 A contract made with a private counsel under section 4241 of this title shall include—
 
-&emsp;(1) a provision permitting the Attorney General to terminate either the contract or theprivate counsel's representation of the United States in particular cases if the Attorney General finds that such action is in the best interests of the United States;
+&emsp;(1) a provision permitting the Attorney General to terminate either the contract or the private counsel's representation of the United States in particular cases if the Attorney General finds that such action is in the best interests of the United States;
 
 &emsp;(2) a provision requiring private counsel to transmit monthly to the Attorney General a report on the services relating to matters handled pursuant to the contract during the preceding month and the progress made during that period; and
 

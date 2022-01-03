@@ -158,7 +158,7 @@ In subsection (a)(1), the words "sit and act at such times and places" are omitt
 
 In subsection (a)(2), the words "the witness would have been" are added for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(4), the words "If a person disobeys" are substituted for "In case of contumacy or refusal to obey" for consistency in the revised title and with other titles of the Code. The words "of the Board" are substituted for "of the Board, or of any duly designated employee thereof" to eliminate unnecessary words. The words "the Board may bring a civil action in a district court of the United States" are substituted for "such district court shall, upon the request of the Board, have jurisdiction" for consistency in the revised title and because of 28:1331. The word "forthwith" is omitted as surplus. The words "An action under this paragraph may be brought in the judicial district" are added for clarity.
+In subsection (a)(4), the words "If a person disobeys" are substituted for "In case of contumacy or refusal toobey" for consistency in the revised title and with other titles of the Code. The words "of the Board" are substituted for "of the Board, or of any duly designated employee thereof" to eliminate unnecessary words. The words "the Board may bring a civil action in a district court of the United States" are substituted for "such district court shall, upon the request of the Board, have jurisdiction" for consistency in the revised title and because of 28:1331. The word "forthwith" is omitted as surplus. The words "An action under this paragraph may be brought in the judicial district" are added for clarity.
 
 In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is omitted as superseded by 49 App.:1903(b)(6)(C).
 
@@ -183,6 +183,8 @@ In subsection (d), the word "appropriate" is substituted for "necessary or appro
 In subsection (e), the words "officer or employee" are substituted for "employee" for consistency in the revised title. The words "by order" are substituted for "by special or general orders" to eliminate unnecessary words. The word "individuals" is substituted for "people" for consistency in the revised title.
 
 In subsection (f), the words "prescribe regulations to carry out this chapter" are substituted for "rules and regulations as may be necessary to the exercise of its functions" for consistency in the revised title and with other titles of the Code and because "rule" and "regulation" are synonymous.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -212,6 +214,8 @@ Subsec. (b)(2). Pub. L. 106–424, §3(b)(1), inserted "as offsetting collection
 
 Subsec. (g). Pub. L. 106–424, §4, added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Relief From Contracting Requirements for Investigations Services
 
 Pub. L. 108–168, §4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, §3, Dec. 21, 2006, 120 Stat. 3298, provided that:
@@ -230,5 +234,5 @@ Report on Usage.—On July 1 of each year, as part of the annual report required
 
 #### Travel Budgets
 
-Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: "The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel."
+Pub. L. 106–424, §9, Nov. 1, 2000, 114 Stat. 1886, provided that: "The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expendituresfor Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel."
 

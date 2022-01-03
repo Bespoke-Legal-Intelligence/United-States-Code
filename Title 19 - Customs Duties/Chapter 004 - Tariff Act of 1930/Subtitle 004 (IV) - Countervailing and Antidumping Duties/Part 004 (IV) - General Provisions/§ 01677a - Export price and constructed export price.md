@@ -22,7 +22,7 @@ The price used to establish export price and constructed export price shall be�
 
 &emsp;(2) reduced by—
 
-&emsp;&emsp;(A) except as provided in paragraph (1)(C), the amount, if any, included in such price, attributable to any additional costs, charges, or expenses, and United States import duties, which are incident to bringing the subject merchandise from the original place of shipment in the exporting country to the place of delivery in the United States, and
+&emsp;&emsp;(A) except as provided in paragraph (1)(C), the amount, if any, included in such price, attributable to any additional costs, charges, or expenses, and United States import duties, which are incident to bringingthe subject merchandise from the original place of shipment in the exporting country to the place of delivery in the United States, and
 
 &emsp;&emsp;(B) the amount, if included in such price, of any export tax, duty, or other charge imposed by the exporting country on the exportation of the subject merchandise to the United States, other than an export tax, duty, or other charge described in section 1677(6)(C) of this title.
 
@@ -88,15 +88,19 @@ Where the subject merchandise is imported by a person affiliated with the export
 
 (June 17, 1930, ch. 497, title VII, §772, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 181; amended Pub. L. 98–573, title VI, §614, Oct. 30, 1984, 98 Stat. 3036; Pub. L. 103–465, title II, §223, Dec. 8, 1994, 108 Stat. 4876.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–465 amended section generally, substituting present provisions for provisions defining "United States price", "purchase price", and "exporter's sales price" and providing for adjustments to purchase price and exporter's sales price.
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–573 inserted "a reseller or" before "the manufacturer".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of this chapter after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 

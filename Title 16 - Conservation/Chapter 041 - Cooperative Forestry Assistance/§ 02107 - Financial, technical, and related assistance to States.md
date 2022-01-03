@@ -6,7 +6,7 @@ To aid in achieving maximum effectiveness in the programs and activities conduct
 
 #### (b) Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected
 
-To ensure that data regarding forest lands are available for and effectively presented in Stateand Federal natural resources planning, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials in the assembly, analysis, display, and reporting of State forest resources data, in the training of State forest resources planners, and in participating in natural resources planning at the State and Federal levels. The Secretary shall restrict assistance under this subsection to the implementation of the forestry aspects of State and Federal natural resources planning conducted under other laws. This subsection shall not be construed, in any way whatsoever, as extending, limiting, amending, repealing, or otherwise affecting any other law or authority.
+To ensure that data regarding forest lands are available for and effectively presented in State and Federal natural resources planning, the Secretary is authorized to provide financial, technical, and related assistance to State foresters or equivalent State officials in the assembly, analysis, display, and reporting of State forest resources data, in the training of State forest resources planners, and in participating in natural resources planning at the State and Federal levels. The Secretary shall restrict assistance under this subsection to the implementation of the forestry aspects of State and Federal natural resources planning conducted under other laws. This subsection shall not be construed, in any way whatsoever, as extending, limiting, amending, repealing, or otherwise affecting any other law or authority.
 
 #### (c) Technology implementation program; scope of program; availability of funds; use of forest resources planning committees
 
@@ -33,6 +33,8 @@ To ensure that new technology is introduced, new information is integrated into 
 There are hereby authorized to be appropriated annually such sums as may be needed to implement this section.
 
 (Pub. L. 95–313, §11, formerly §8, July 1, 1978, 92 Stat. 371; renumbered §11, Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

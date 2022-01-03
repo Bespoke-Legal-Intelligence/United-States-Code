@@ -86,7 +86,7 @@ For purposes of this subchapter, the term "per-unit retain certificate" means an
 
 #### (1) Defined
 
-&emsp;For purposes of this subchapter, the term "qualified per-unit retain certificate" meansany per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
+&emsp;For purposes of this subchapter, the term "qualified per-unit retain certificate" means any per-unit retain certificate which the distributee has agreed, in the manner provided in paragraph (2), to take into account at its stated dollar amount as provided in section 1385(a).
 
 #### (2) Manner of obtaining agreement
 
@@ -176,6 +176,8 @@ For purposes of section 521 and this subchapter, the marketing of the products o
 
 (Added Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1049; amended Pub. L. 89–809, title II, §211(c), Nov. 13, 1966, 80 Stat. 1582; Pub. L. 91–172, title IX, §911(b), Dec. 30, 1969, 83 Stat. 722; Pub. L. 94–455, title XIX, §1901(a)(153), Oct. 4, 1976, 90 Stat. 1789; Pub. L. 95–600, title III, §316(b)(3), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 99–272, title XIII, §13210(a), Apr. 7, 1986, 100 Stat. 323; Pub. L. 101–508, title XI, §11813(b)(24), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 108–357, title III, §§312(a), 316(a), Oct. 22, 2004, 118 Stat. 1467, 1469.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–357, §312(a), inserted at end of concluding provisions "For purposes of paragraph (3), net earnings shall not be reduced by amounts paid during the year as dividends on capital stock or other proprietary capital interests of the organization to the extent that the articles of incorporation or bylaws of such organization or other contract with patrons provide that such dividends are in addition to amounts otherwise payable to patrons which are derived from business done with or for patrons during the taxable year."
@@ -197,6 +199,8 @@ Subsec. (h)(2)(B)(i). Pub. L. 94–455, §1901(a)(153)(B), substituted "November
 <b>1966</b>—Subsec. (e). Pub. L. 89–809, §211(c)(1), inserted references to per-unit retain certificates.
 
 Subsecs. (f) to (i). Pub. L. 89–809, §211(c)(2), added subsecs. (f) to (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

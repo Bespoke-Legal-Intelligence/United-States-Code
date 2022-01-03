@@ -52,7 +52,7 @@ Exceptions.—This section does not apply to—
 
 Definitions.—In this section—
 
-&emsp;(1) "continental shelf" means the sea-bed and subsoil of the submarine areas that extend beyond a country's territorial sea to the limits provided by customary international law as reflected in Article 76 of the 1982 Convention on the Law of the Sea; and
+&emsp;(1) "continental shelf" means the sea-bed and subsoil of the submarine areas that extend beyond a country's territorial sea to the limits provided by customary international law asreflected in Article 76 of the 1982 Convention on the Law of the Sea; and
 
 &emsp;(2) "fixed platform" means an artificial island, installation, or structure permanently attached to the sea-bed for the purpose of exploration or exploitation of resources or for other economic purposes.
 

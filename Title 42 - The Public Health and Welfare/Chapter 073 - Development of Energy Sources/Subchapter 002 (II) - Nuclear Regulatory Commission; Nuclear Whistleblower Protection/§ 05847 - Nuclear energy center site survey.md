@@ -6,7 +6,7 @@
 
 (3) The survey shall include—
 
-&emsp;(a) a regional evaluation of natural resources, including land, air, and water resources, available for use in connection with nuclear energy center sites; estimates of future electric power requirements that can beserved by each nuclear energy center site; an assessment of the economic impact of each nuclear energy site; and consideration of any other relevant factors, including but not limited to population distribution, proximity to electric load centers and to other elements of the fuel cycle, transmission line rights-of-way, and the availability of other fuel resources;
+&emsp;(a) a regional evaluation of natural resources, including land, air, and water resources, available for use in connection with nuclear energy center sites; estimates of future electric power requirements that can be served by each nuclear energy center site; an assessment of the economic impact of each nuclear energy site; and consideration of any other relevant factors, including but not limited to population distribution, proximity to electric load centers and to other elements of the fuel cycle, transmission line rights-of-way, and the availability of other fuel resources;
 
 &emsp;(b) an evaluation of the environmental impact likely to result from construction and operation of such nuclear energy centers, including an evaluation whether such nuclear energy centers will result in greater or lesser environmental impact than separate siting of the reactors and/or fuel cycle facilities; and
 
@@ -15,6 +15,8 @@
 (4) A report of the results of the survey shall be published and transmitted to the Congress and the Council on Environmental Quality not later than one year from October 11, 1974, and shall be made available to the public, and shall be updated from time to time thereafter as the Commission, in its discretion, deems advisable. The report shall include the Commission's evaluation of the results of the survey and any conclusions and recommendations, including recommendations for legislation, which the Commission may have concerning the feasibility and practicality of locating nuclear power reactors and/or other elements of the nuclear fuel cycle on nuclear energy center sites. The Commission is authorized to adopt policies which will encourage the location of nuclear power reactors and related fuel cycle facilities on nuclear energy center sites insofar as practicable.
 
 (Pub. L. 93–438, title II, §207, Oct. 11, 1974, 88 Stat. 1247.)
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

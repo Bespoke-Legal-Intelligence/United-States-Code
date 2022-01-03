@@ -6,7 +6,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 #### (b) Russian HEU
 
-(1) On or before December 31, 1996, the United States Executive Agent under the Russian HEU Agreement shall transfer to the Secretary without charge title to an amount of uranium hexafluoride equivalent to the natural uranium component of low-enriched uranium derived from at least 18 metric tons of highly enriched uranium purchased from the Russian Executive Agent under the Russian HEU Agreement. The quantity of such uranium hexafluoride delivered to the Secretary shall be based on a tails assay of 0.30 U<sup>235</sup>. Uranium hexafluoride transferred to the Secretary pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
+(1) On or before December 31, 1996, the United States Executive Agent under the Russian HEU Agreement shall transfer to the Secretary without charge title to an amount of uranium hexafluoride equivalent to the natural uranium component of low-enriched uranium derived from at least 18 metric tons of highly enriched uranium purchased from the Russian Executive Agent under the Russian HEU Agreement. The quantity of such uranium hexafluoride delivered to the Secretary shall be based on a tails assayof 0.30 U<sup>235</sup>. Uranium hexafluoride transferred to the Secretary pursuant to this paragraph shall be deemed under United States law for all purposes to be of Russian origin.
 
 (2) Within 7 years of April 26, 1996, the Secretary shall sell, and receive payment for, the uranium hexafluoride transferred to the Secretary pursuant to paragraph (1). Such uranium hexafluoride shall be sold—
 
@@ -48,7 +48,7 @@ The Secretary shall not provide enrichment services or transfer or sell any uran
 
 (8) Nothing in this subsection (b) shall restrict the sale of the conversion component of such uranium hexafluoride.
 
-(9) The Secretary of Commerce shall have responsibility for the administration and enforcement of the limitations set forth in this subsection. The Secretary of Commerce may require any person to provide any certifications, information, or take any action that may be necessary to enforce these limitations. The United States Customs Service shall maintain and provide any information required by the Secretary of Commerce and shall take any action requested by the Secretary of Commerce which is necessary for the administration and enforcement of the uranium delivery limitations set forth in this section.
+(9) The Secretary of Commerce shall have responsibility for the administration and enforcement of the limitations set forth in this subsection. The Secretary of Commerce may require any person to provide any certifications, information, or take any action that may be necessary to enforce these limitations. The United States Customs Service shall maintain and provide any information required by theSecretary of Commerce and shall take any action requested by the Secretary of Commerce which is necessary for the administration and enforcement of the uranium delivery limitations set forth in this section.
 
 (10) The President shall monitor the actions of the United States Executive Agent under the Russian HEU Agreement and shall report to the Congress not later than December 31 of each year on the effect the low-enriched uranium delivered under the Russian HEU Agreement is having on the domestic uranium mining, conversion, and enrichment industries, and the operation of the gaseous diffusion plants. Such report shall include a description of actions taken or proposed to be taken by the President to prevent or mitigate any material adverse impact on such industries or any loss of employment at the gaseous diffusion plants as a result of the Russian HEU Agreement.
 
@@ -92,6 +92,8 @@ Nothing in this subchapter shall be read to modify the terms of the Russian HEU 
 
 (Pub. L. 104–134, title III, §3112, Apr. 26, 1996, 110 Stat. 1321–344.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in subsec. (f), means subchapter A of chapter 1 of title III of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321–335, known as the USEC Privatization Act, which is classified principally to this subchapter. For complete classification of subchapter A to the Code, see Short Title of 1996 Amendment note set out under section 2011 of this title and Tables.
@@ -99,6 +101,8 @@ This subchapter, referred to in subsec. (f), means subchapter A of chapter 1 of 
 #### Codification
 
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

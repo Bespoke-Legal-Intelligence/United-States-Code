@@ -26,7 +26,7 @@
 
 &emsp;(i) is prohibited under the laws of that State; or
 
-&emsp;(ii) as determined by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when itis not operating as a service in the Navy, interferes with the performance of the officer's duties as an officer of the armed forces.
+&emsp;(ii) as determined by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, interferes with the performance of the officer's duties as an officer of the armed forces.
 
 (B) Except as otherwise authorized by law, while an officer referred to in subparagraph (A) is serving on active duty, the officer may not exercise the functions of a civil office held by the officer as described in that subparagraph.
 
@@ -39,6 +39,8 @@
 (d) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating in the Navy, shall prescribe regulations to implement this section.
 
 (Added Pub. L. 90–235, §4(a)(5)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 96–513, title I, §116, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 98–94, title X, §1002(a), Sept. 24, 1983, 97 Stat. 655; Pub. L. 101–510, div. A, title V, §556, Nov. 5, 1990, 104 Stat. 1570; Pub. L. 106–65, div. A, title V, §506, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, §545, Nov. 24, 2003, 117 Stat. 1479.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -64,6 +66,8 @@ Subsec. (a). Pub. L. 96–513, §116(a), substituted "of an armed force on activ
 
 Subsec. (b). Pub. L. 96–513, §116(b), substituted "regular officer of an armed force on active duty" for "on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
@@ -82,5 +86,5 @@ Pub. L. 98–94, title X, §1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, pro
 
 &emsp;"(2) to have terminated the military appointment of an officer of an Armed Force by reason of the acceptance of a civil office, or the exercise of its functions, by that officer in furtherance of assigned official duties.
 
-"(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall preclude a Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election."
+"(c) Nothing in section 973(b)(3) of title 10, United States Code, as added by subsection (a), shall precludea Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act \[Sept. 24, 1983\], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election."
 

@@ -20,7 +20,7 @@
 
 &emsp;Amounts transferred to the Combined Fund under paragraph (1) shall—
 
-&emsp;&emsp;(A) in the case of the transfer on February 1, 1993, be used to proportionately reduce the premium of each assigned operator undersection 9704(a) for the plan year of the Fund beginning February 1, 1993, and
+&emsp;&emsp;(A) in the case of the transfer on February 1, 1993, be used to proportionately reduce the premium of each assigned operator under section 9704(a) for the plan year of the Fund beginning February 1, 1993, and
 
 &emsp;&emsp;(B) in the case of any other such transfer, be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) and the death benefit premium under section 9704(a)(2) of each assigned operator for the plan year in which transferred and for any subsequent plan year in which such funds remain available.
 
@@ -56,6 +56,8 @@
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3046; amended Pub. L. 109–432, div. C, title II, §212(a)(1), Dec. 20, 2006, 120 Stat. 3023; Pub. L. 115–141, div. U, title IV, §401(a)(345), (346), Mar. 23, 2018, 132 Stat. 1200, 1201.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(1). Pub. L. 115–141, §401(a)(345), substituted "1232" for "1232(h)".
@@ -67,6 +69,8 @@ Subsec. (b)(2). Pub. L. 115–141, §401(a)(346), substituted "Act" for "Acts".
 Subsec. (b)(1). Pub. L. 109–432, §212(a)(1)(A), substituted "subsections (h) and (i) of section 402" for "section 402(h)".
 
 Subsec. (b)(2). Pub. L. 109–432, §212(a)(1)(B), reenacted heading without change and amended text of par. (2) generally. Prior to amendment, text read as follows: "Any amount transferred under paragraph (1) for any fiscal year shall be used to proportionately reduce the unassigned beneficiary premium under section 9704(a)(3) of each assigned operator for the plan year in which transferred."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

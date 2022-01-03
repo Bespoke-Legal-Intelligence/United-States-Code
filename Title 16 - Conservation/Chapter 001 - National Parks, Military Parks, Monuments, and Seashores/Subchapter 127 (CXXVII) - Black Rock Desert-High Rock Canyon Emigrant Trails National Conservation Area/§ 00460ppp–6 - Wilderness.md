@@ -56,9 +56,11 @@ Congress—
 
 &emsp;(1) finds that the parcels of land in the wilderness study areas referred to in subsection (a) that are not designated as wilderness by subsection (a) have been adequately studied for wilderness designation under section 1782 of title 43; and
 
-&emsp;(2) declares that those parcels are no longer subject to the requirement of subsection (c) of that section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
+&emsp;(2) declares that those parcels are no longer subject to the requirement of subsection (c) ofthat section pertaining to the management of wilderness study areas in a manner that does not impair the suitability of such areas for preservation as wilderness.
 
 (Pub. L. 106–554, §1(a)(4) \[div. B, title I, §125 \[§8\]\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, §135(a), (c)–(e), Nov. 5, 2001, 115 Stat. 443.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

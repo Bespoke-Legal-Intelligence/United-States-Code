@@ -4,6 +4,8 @@ The Secretary is authorized in consultation with other Federal agencies, to inve
 
 (Pub. L. 96–487, title XIII, §1305, Dec. 2, 1980, 94 Stat. 2478.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Authorization of Appropriations; Purposes of Center; Operation of Center; Development Plans
 
 Pub. L. 99–664, §11, Nov. 17, 1986, 100 Stat. 4308, provided that:
@@ -16,7 +18,7 @@ Authorization.—There is hereby authorized to be appropriated $250,000 to be us
 
 Purposes.—The purposes of the Center authorized by subsection (a) shall be—
 
-&emsp;"(1) to collect and disseminate to visitors to and residents of Alaska information about the natural,recreational, cultural, historical, archeological, multiple use, and other resources and values of Alaska, with special emphasis on the Tongass National Forest and Southeast Alaska and its people;
+&emsp;"(1) to collect and disseminate to visitors to and residents of Alaska information about the natural, recreational, cultural, historical, archeological, multiple use, and other resources and values of Alaska, with special emphasis on the Tongass National Forest and Southeast Alaska and its people;
 
 &emsp;"(2) to publicly display temporary and permanent exhibits illustrating and interpreting these resources and values;
 

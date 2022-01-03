@@ -28,15 +28,19 @@ The Secretary shall—
 
 &emsp;(4) evaluate the actual performance of wind energy systems in various applications, including but not limited to residential, agricultural, large and small scale irrigation pumping, industrial, commercial, remote nonnetwork utility, and other applications, and report thereon to the Congress within two years after September 8, 1980; and
 
-&emsp;(5) in carrying out his functions under this section, consult with the appropriate government agencies, industry representatives, and members of the scientific and technical community having expertise and interest in this subject.
+&emsp;(5) in carrying out his functions under this section, consult with the appropriate government agencies, industry representatives, andmembers of the scientific and technical community having expertise and interest in this subject.
 
 > The Secretary, as appropriate, may merge any continuing or on-going studies within the Department of Energy or any other Federal agency with those required under this section to avoid any unnecessary duplication of effort or funding.
 
 (Pub. L. 96–345, §11, Sept. 8, 1980, 94 Stat. 1145; Pub. L. 99–386, title I, §104(b), Aug. 22, 1986, 100 Stat. 821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pars. (5), (6). Pub. L. 99–386 redesignated par. (6) as (5) and struck out former par. (5) which read as follows: "initiate and conduct a study involving the prospects for applications of wind energy systems for power generation in foreign countries, particularly lesser developed countries and the potential for the exploration of these energy systems. This study shall involve the cooperation of the Department of State and the Department of Commerce, as well as other Federal agencies which the Secretary deems appropriate. A final report shall be submitted to the Congress, as well as a preliminary report within twelve months of September 8, 1980; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

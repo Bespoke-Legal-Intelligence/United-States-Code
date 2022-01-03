@@ -12,6 +12,7 @@
 - [&sect; 01135 - Public transportation security assistance](%C2%A7%2001135%20-%20Public%20transportation%20security%20assistance.md)
 - [&sect; 01136 - Security exercises](%C2%A7%2001136%20-%20Security%20exercises.md)
 - [&sect; 01137 - Public transportation security training program](%C2%A7%2001137%20-%20Public%20transportation%20security%20training%20program.md)
+- [&sect; 01137a - Local law enforcement security training](%C2%A7%2001137a%20-%20Local%20law%20enforcement%20security%20training.md)
 - [&sect; 01138 - Public transportation research and development](%C2%A7%2001138%20-%20Public%20transportation%20research%20and%20development.md)
 - [&sect; 01139 - Information sharing](%C2%A7%2001139%20-%20Information%20sharing.md)
 - [&sect; 01140 - Threat assessments](%C2%A7%2001140%20-%20Threat%20assessments.md)

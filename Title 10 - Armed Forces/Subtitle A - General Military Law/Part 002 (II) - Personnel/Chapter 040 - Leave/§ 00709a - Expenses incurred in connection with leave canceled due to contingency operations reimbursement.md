@@ -2,7 +2,7 @@
 
 (a)
 
-Authorization To Reimburse.—The Secretary concerned may reimburse a member ofthe armed forces under the jurisdiction of the Secretary for travel and related expenses (to the extent not otherwise reimbursable under law) incurred by the member as a result of the cancellation of previously approved leave when—
+Authorization To Reimburse.—The Secretary concerned may reimburse a member of the armed forces under the jurisdiction of the Secretary for travel and related expenses (to the extent not otherwise reimbursable under law) incurred by the member as a result of the cancellation of previously approved leave when—
 
 &emsp;(1) the leave is canceled in connection with the member's participation in a contingency operation; and
 

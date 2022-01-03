@@ -14,9 +14,13 @@ Not later than 270 days after August 13, 2018, the Secretary shall implement the
 
 (Pub. L. 115–232, div. A, title XVII, §1759, Aug. 13, 2018, 132 Stat. 2223; Pub. L. 116–283, div. A, title X, §1081(d)(8), Jan. 1, 2021, 134 Stat. 3874.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a)(2). Pub. L. 116–283 substituted period for semicolon at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

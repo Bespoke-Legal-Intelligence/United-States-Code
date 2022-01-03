@@ -2,9 +2,9 @@
 
 (a)
 
-In General.—Except as provided in sections 3203, 3204(a), and 3205 of this title, and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
+In General.—Except as provided in sections 3203, 3204(a), and 3205 of this title and except in the case of procurement procedures otherwise expressly authorized by statute, the head of an agency in conducting a procurement for property or services—
 
-&emsp;(1) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901 <sup>1</sup> 4501, and 4502 of this title and the Federal Acquisition Regulation; and
+&emsp;(1) shall obtain full and open competition through the use of competitive procedures in accordance with the requirements of this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title and the Federal Acquisition Regulation; and
 
 &emsp;(2) shall use the competitive procedure or combination of competitive procedures that is best suited under the circumstances of the procurement.
 
@@ -62,7 +62,9 @@ Provision of law described.—A provision of law may not be construed as requiri
 
 Exception.—This subsection shall not apply with respect to any contract that calls upon the National Academy of Sciences to investigate, examine, or experiment upon any subject of science or art of significance to an agency named in section 3063 of this title and to report on such matters to the Congress or any agency of the Federal Government.
 
-(Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(c), Jan. 1, 2021, 134 Stat. 4165.)
+(Added and amended Pub. L. 116–283, div. A, title XVIII, §1811(c), Jan. 1, 2021, 134 Stat. 4165; Pub. L. 117–81, div. A, title XVII, §1701(b)(4)(A), Dec. 27, 2021, 135 Stat. 2132.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -72,7 +74,7 @@ The text of subsec. (j) of section 2304 of this title, which was transferred to 
 
 The text of subsec. (h) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (d), and amended by Pub. L. 116–283, §1811(c)(4), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 128; Pub. L. 96–513, title V, §511(76), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 97–295, §1(24)(B), Oct. 12, 1982, 96 Stat. 1291; Pub. L. 98–369, div. B, title VII, §§2723(a)(1)(B), 2727(b), July 18, 1984, 98 Stat. 1187, 1194; Pub. L. 98–577, title V, §504(b)(2), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 104–106, div. D, title XLIII, §4321(b)(5), Feb. 10, 1996, 110 Stat. 672; Pub. L. 107–217, §3(b)(3), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 111–350, §5(b)(12)(E), Jan. 4, 2011, 124 Stat. 3843.
 
-The text of subsec. (k) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, §1811(c)(5), was based on Pub. L. 103–355, title VII, §7203(a)(1)(B),Oct. 13, 1994, 108 Stat. 3379; Pub. L. 104–106, div. D, title XLI, §4101(a)(1), Feb. 10, 1996, 110 Stat. 642.
+The text of subsec. (k) of section 2304 of this title, which was transferred to this section, redesignated as subsec. (e), and amended by Pub. L. 116–283, §1811(c)(5), was based on Pub. L. 103–355, title VII, §7203(a)(1)(B), Oct. 13, 1994, 108 Stat. 3379; Pub. L. 104–106, div. D, title XLI, §4101(a)(1), Feb. 10, 1996, 110 Stat. 642.
 
 #### Prior Provisions
 
@@ -84,11 +86,11 @@ A prior section 3202, act Aug. 10, 1956, ch. 1041, 70A Stat. 172; Pub. L. 85–8
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1811(c)(2)(B), (C), inserted heading, struck out par. (1) designation at beginning and substituted "Except as provided in sections 3203, 3204(a), and 3205 of this title," for "Except as provided in subsections (b), (c), and (g)" in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Substitution was executed to reflect the probable intent of Congress because quoted text directed to be stricken contained a comma after "(g)" but no comma was present. Par. (2) subsequently redesignated subsec. (b).
+<b>2021</b>—Subsec. (a). Pub. L. 116–283, §1811(c)(2)(B), (C), as amended by Pub. L. 117–81, §1701(b)(4)(A)(i), inserted heading, struck out par. (1) designation at beginning and substituted "Except as provided in sections 3203, 3204(a), and 3205 of this title" for "Except as provided in subsections (b), (c), and (g)" in introductory provisions, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Par. (2) subsequently redesignated subsec. (b).
 
 Pub. L. 116–283, §1811(c)(2), transferred subsec. (a) of section 2304 of this title to this section.
 
-Subsec. (a)(1). Pub. L. 116–283, §1811(c)(2)(D), substituted "this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901 4501, and 4502 of this title" for "this chapter".
+Subsec. (a)(1). Pub. L. 116–283, §1811(c)(2)(D), as amended by Pub. L. 117–81, §1701(b)(4)(A)(ii), substituted "this section and sections 3069, 3203, 3204, 3205, 3403, 3405, 3406, 3901, 4501, and 4502 of this title" for "this chapter".
 
 Subsec. (b). Pub. L. 116–283, §1811(c)(2)(A), (E), redesignated subsec. (a)(2) as (b) and inserted heading, redesignated subpar. (A) and cls. (i) to (iv) as par. (1) and subpars. (A) to (D), respectively, and redesignated subpar. (B) as par. (2) and substituted "paragraph (1)" for "clause (A)".
 
@@ -98,9 +100,39 @@ Subsec. (d). Pub. L. 116–283, §1811(c)(4), redesignated subsec. (h) of sectio
 
 Subsec. (e). Pub. L. 116–283, §1811(c)(5), redesignated subsec. (k) of section 2304 of this title as subsec. (e) of this section, inserted subsec. and par. headings, switched order and designations of pars. (2) and (3), realigned margins of pars. (2) to (4), and substituted "section 3063" for "section 2303(a)" in pars. (1) and (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and Effective Date note below.
+
 #### Effective Date
 
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding section 3001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+#### Competition for Procurement of Small Arms Supplied to Iraq and Afghanistan
+
+Pub. L. 110–181, div. A, title VIII, §892, Jan. 28, 2008, 122 Stat. 270, provided that:
+
+"(a)
+
+Competition Requirement.—For the procurement of pistols and other weapons described in subsection (b), the Secretary of Defense shall ensure, consistent with the provisions of section 2304 of title 10, United States Code \[see 10 U.S.C. 3201 et seq.\], that—
+
+&emsp;"(1) full and open competition is obtained to the maximum extent practicable;
+
+&emsp;"(2) no responsible United States manufacturer is excluded from competing for such procurements; and
+
+&emsp;"(3) products manufactured in the United States are not excluded from the competition.
+
+"(b)
+
+Procurements Covered.—This section applies to the procurement of the following:
+
+&emsp;"(1) Pistols and other weapons less than 0.50 caliber for assistance to the Army of Iraq, the Iraqi Police Forces, and other Iraqi security organizations.
+
+&emsp;"(2) Pistols and other weapons less than 0.50 caliber for assistance to the Army of Afghanistan, the Afghani Police Forces, and other Afghani security organizations."
+
+#### Competitive Award of Contracts for Reconstruction Activities in Iraq
+
+Pub. L. 108–136, div. A, title VIII, §805(a), Nov. 24, 2003, 117 Stat. 1542, provided that: "The Department of Defense shall fully comply with \[former\] chapter 137 of title 10, United States Code, and other applicable procurement laws and regulations for any contract awarded for reconstruction activities in Iraq, and shall conduct a full and open competition for performing work needed for the reconstruction of the Iraqi oil industry."
 

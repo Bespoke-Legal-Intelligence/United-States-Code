@@ -1,8 +1,12 @@
 ### §2397. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 93–618, title II, §287, as added Pub. L. 100–418, title I, §1428(b), Aug. 23, 1988, 102 Stat. 1255, which imposed an additional fee, did not become effective pursuant to section 1430(b) of Pub. L. 100–418, set out below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -60,13 +64,13 @@ Pub. L. 100–418, title I, §1428(a), Aug. 23, 1988, 102 Stat. 1254, provided t
 
 &emsp;"(A) undertake negotiations necessary to achieve changes in the General Agreement on Tariffs and Trade that would allow any country to impose a small uniform fee of not more than 0.15 percent on all imports to such country for the purpose of using the revenue from such fee to fund programs which directly assist adjustment to import competition, and
 
-&emsp;"(B) undertake negotiations with any foreign country that has entered into a free trade agreement with the United States under subtitle A \[§§1101 to 1125, of title I of Pub. L. 100–418, see Tables for classification\] or under section 102 of the Trade Act of 1974 \[19 U.S.C.2112\] to obtain the consent of such country to the imposition of such a fee by the United States.
+&emsp;"(B) undertake negotiations with any foreign country that has entered into a free trade agreement with the United States under subtitle A \[§§1101 to 1125, of title I of Pub. L. 100–418, see Tables for classification\] or under section 102 of the Trade Act of 1974 \[19 U.S.C. 2112\] to obtain the consent of such country to the imposition of such a fee by the United States.
 
 "(2) In the report that is submitted under section 163 of the Trade Act of 1974 \[19 U.S.C. 2213\] for 1989 and 1990, the President shall include a statement on the progress of negotiations conducted under paragraph (1).
 
 "(3)(A) On the first day after the date of enactment of this Act \[Aug. 23, 1988\] on which the General Agreement on Tariffs and Trade allows any country to impose a fee described in paragraph (1), the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such allowance.
 
-"(B) On the first day after the date of enactment of this Act on which any foreign country described in paragraph (1)(B) consents to the imposition of such a fee by the United States, the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such consent.
+"(B) On the first day after the date of enactment of this Act on which any foreign country described inparagraph (1)(B) consents to the imposition of such a fee by the United States, the President shall submit to the Congress, and publish in the Federal Register, a written statement certifying such consent.
 
 "(4) If—
 
@@ -79,6 +83,8 @@ Pub. L. 100–418, title I, §1428(a), Aug. 23, 1988, 102 Stat. 1254, provided t
 "(5)(A) Any disapproval resolution that is introduced in the Senate or House of Representatives within the 90-day period beginning on the date that is 2 years after the date of enactment of this Act \[Aug. 23, 1988\] shall, for purposes of section 152 of the Trade Act of 1974 (19 U.S.C. 2192), be treated as a joint resolution described in section 152(a)(1)(A) of such Act.
 
 "(B) For purposes of this part \[see Effective Date note above\], the term 'disapproval resolution' means a joint resolution of the two Houses of the Congress, the matter after the resolving clause of which is as follows: 'That the Congress disapproves of the determination made by the President under section 1428(a)(4)(A) of the Omnibus Trade and Competitiveness Act of 1988 \[subsec. (a)(4)(A) of this note\].' "
+
+#### <b>Executive Documents</b>
 
 #### Determination That Certain Import Fees Are Not in the National Economic Interest
 

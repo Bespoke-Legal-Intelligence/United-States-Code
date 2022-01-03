@@ -24,9 +24,13 @@ For purposes of this chapter—
 
 (Pub. L. 95–617, title III, §302, Nov. 9, 1978, 92 Stat. 3150; Pub. L. 102–486, title I, §115(a), Oct. 24, 1992, 106 Stat. 2803.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pars. (9), (10). Pub. L. 102–486 added pars. (9) and (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Additional Definitions
 

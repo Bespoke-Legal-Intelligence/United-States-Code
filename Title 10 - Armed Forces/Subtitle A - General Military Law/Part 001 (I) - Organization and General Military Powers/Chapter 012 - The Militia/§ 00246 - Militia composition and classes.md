@@ -52,6 +52,8 @@ July 30, 1956, ch. 789, §1, 70 Stat. 729.
 
 The words "appointed as . . . under section 4 of this title" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328 renumbered section 311 of this title as this section.

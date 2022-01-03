@@ -12,7 +12,7 @@ Grant Requirements.—
 
 In general.—The Secretary may not make a grant under subsection (a) unless the grant is made—
 
-&emsp;&emsp;(A) to enable the State or political subdivision to purchase development rights in order to ensure that the airport propertywill continue to be available for use as a public airport; and
+&emsp;&emsp;(A) to enable the State or political subdivision to purchase development rights in order to ensure that the airport property will continue to be available for use as a public airport; and
 
 &emsp;&emsp;(B) subject to a requirement that the State or political subdivision acquire an easement or other appropriate covenant requiring that the airport shall remain a public use airport in perpetuity.
 
@@ -37,6 +37,8 @@ Release of Purchased Rights and Covenant.—Any development rights purchased und
 Limitation.—The Secretary may not make a grant under the pilot program for the purchase of development rights at more than 10 airports.
 
 (Added Pub. L. 108–176, title I, §152(a), Dec. 12, 2003, 117 Stat. 2506.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

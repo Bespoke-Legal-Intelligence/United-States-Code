@@ -12,7 +12,7 @@ For the purposes of this chapter:
 
 (e) The term "processor" means any person who commercially produces processed wheat within the United States.
 
-(f) The term "end product manufacturer" means any person who commercially producesan end product within the United States, but such term shall not include such persons to the extent that they produce end products on the premises where such end products are to be consumed by an ultimate consumer, including, but not limited to, hotels, restaurants, and institutions, nor shall such term include persons who produce end products for their own personal, family, or household use.
+(f) The term "end product manufacturer" means any person who commercially produces an end product within the United States, but such term shall not include such persons to the extent that they produce end products on the premises where such end products are to be consumed by an ultimate consumer, including, but not limited to, hotels, restaurants, and institutions, nor shall such term include persons who produce end products for their own personal, family, or household use.
 
 (g) The term "research" means any type of research to advance the nutritional quality, marketability, production, or other qualities of wheat, processed wheat, or end products.
 
@@ -29,6 +29,8 @@ For the purposes of this chapter:
 (m) The term "United States" means the several States and the District of Columbia, including any territory or possession.
 
 (Pub. L. 95–113, title XVII, §1703, Sept. 29, 1977, 91 Stat. 1032.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

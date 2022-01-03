@@ -148,7 +148,7 @@ In the preparation and application of a conservation compliance plan under subch
 
 #### (A) Shelterbelts and windbreaks
 
-&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that issubject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
+&emsp;&emsp;The limitations established under paragraph (1) shall not apply to cropland that is subject to an easement under subpart B of part I of subchapter IV that is used for the establishment of shelterbelts and windbreaks.
 
 #### (B) Wet and saturated soils
 
@@ -206,7 +206,7 @@ In carrying out any conservation program administered by the Secretary, the Secr
 
 #### (3) Implementation and notification
 
-&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
+&emsp;Not later than 1 year after the date of enactment of the Food, Conservation, and EnergyAct of 2008, the Secretary shall submit to Congress a written notification of completion of the requirements of this subsection.
 
 #### (j) Review and guidance for practice costs and payment rates
 
@@ -354,6 +354,8 @@ The Secretary may not prohibit, through a contract, easement, or agreement under
 
 (Pub. L. 99–198, title XII, §1244, as added Pub. L. 107–171, title II, §2004(a), May 13, 2002, 116 Stat. 235; amended Pub. L. 110–234, title II, §§2707(a), 2708, May 22, 2008, 122 Stat. 1077, 1079; Pub. L. 110–246, §4(a), title II, §§2707(a), 2708, June 18, 2008, 122 Stat. 1664, 1805, 1807; Pub. L. 113–79, title II, §§2301(b), 2606, Feb. 7, 2014, 128 Stat. 743, 760; Pub. L. 115–141, div. A, title VII, §766, Mar. 23, 2018, 132 Stat. 397; Pub. L. 115–334, title II, §§2202(b)(2), 2301(d)(1)(K), (L), 2503, 2821(f), Dec. 20, 2018, 132 Stat. 4538, 4554, 4580, 4603.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2279(e) of title 7, referred to in subsec. (a)(2)(E), was redesignated section 2279(a) of title 7 by Pub. L. 115–334, title XII, §12301(b)(3), Dec. 20, 2018, 132 Stat. 4951.
@@ -444,9 +446,11 @@ Subsecs. (c) to (e). Pub. L. 110–246, §2707(a), transferred subsecs. (a), (c)
 
 Subsecs. (f) to (i). Pub. L. 110–246, §2708(2), added subsecs. (f) to (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

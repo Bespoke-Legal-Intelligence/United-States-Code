@@ -20,11 +20,15 @@ Mar. 2, 1907, ch. 2511 (1st proviso under "Quartermaster's Department"), 34 Stat
 
 The word "members" is substituted for the words "officers and enlisted men". The words "under such regulations as the Secretary of the Army may prescribe" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
-#### Charges for Excess Energy Consumption; Deposit of Proceeds; Applicability; Implementation
-
-Assessment of members for excess energy consumption in military family housing facilities, see section 507 of Pub. L. 95–82, title V, Aug. 1, 1977, 91 Stat. 372, set out as a note under section 4593 of this title.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "and members of the Space Force" after "the Air Force".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Charges for Excess Energy Consumption; Deposit of Proceeds; Applicability; Implementation
+
+Assessment of members for excess energy consumption in military family housing facilities, see section 507 of Pub. L. 95–82, title V, Aug. 1, 1977, 91 Stat. 372, set out as a note under section 4593 of this title.
 

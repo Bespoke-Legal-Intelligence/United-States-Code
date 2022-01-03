@@ -12,11 +12,11 @@
 
 &emsp;(2) who does not satisfactorily complete the probationary period under subsection (a)(2) of this section,
 
-> shall be returned to a position of no lower grade and pay than the position from which the individual was transferred, assigned, or promoted. Nothing in this section prohibits an agency from taking an action against an individual serving aprobationary period under subsection (a)(2) of this section for cause unrelated to supervisory or managerial performance.
+> shall be returned to a position of no lower grade and pay than the position from which the individual was transferred, assigned, or promoted. Nothing in this section prohibits an agency from taking an action against an individual serving a probationary period under subsection (a)(2) of this section for cause unrelated to supervisory or managerial performance.
 
 (c) Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or any individual covered by section 1599e of title 10.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422; Pub. L. 95–454, title III, §303(a), Oct. 13, 1978, 92 Stat. 1146; Pub. L. 100–325, §2(d), May 30, 1988, 102 Stat. 581; Pub. L. 114–92, div. A, title XI, §1105(c)(1), Nov. 25, 2015, 129 Stat. 1024.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422; Pub. L. 95–454, title III, §303(a), Oct. 13, 1978, 92 Stat. 1146; Pub. L. 100–325, §2(d), May 30, 1988, 102 Stat.581; Pub. L. 114–92, div. A, title XI, §1105(c)(1), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, §1106(b)(2)(A), Dec. 27, 2021, 135 Stat. 1950.)
 
 Historical and Revision Notes
 
@@ -36,9 +36,15 @@ The authority of the President to prescribe rules is added on authority of forme
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### Amendment of Subsection (c)
+
+<i>Pub. L. 117–81, div. A, title XI, §1106(a)(1), (b)(2)(A), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of section 1599e of title 10, provided that subsection (c) of this section is amended by striking out ", or any individual covered by section 1599e of title 10". See 2021 Amendment note below.</i>
+
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–81 struck out ", or any individual covered by section 1599e of title 10" after "Drug Enforcement Administration Senior Executive Service".
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–92 inserted ", or any individual covered by section 1599e of title 10" before period at end.
 
@@ -47,6 +53,10 @@ Standard changes are made to conform with the definitions applicable and the sty
 <b>1978</b>—Pub. L. 95–454 substituted "probationary period" for "probation; period of" in section catchline, designated existing provisions as subsec. (a), substituted provisions authorizing the President to take necessary action, for provisions authorizing the President to prescribe rules, and added subsecs. (b) and (c).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+For repeal of section 1599e of title 10, effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under section 1599e of Title 10, Armed Forces.
 
 #### Effective Date of 1978 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Collection of Information on Foreign-Controlled Contractors.—The Secretary of Defense and the Secretary of Energy shall each collect and maintain a data base containing alist of, and other pertinent information on, all contractors with the Department of Defense and the Department of Energy, respectively, that are controlled by foreign persons. The data base shall contain information on such contractors for 1988 and thereafter in all cases where they are awarded contracts exceeding $10,000,000 in any single year by the Department of Defense or the Department of Energy.
+Collection of Information on Foreign-Controlled Contractors.—The Secretary of Defense and the Secretary of Energy shall each collect and maintain a data base containing a list of, and other pertinent information on, all contractors with the Department of Defense and the Department of Energy, respectively, that are controlled by foreign persons. The data base shall contain information on such contractors for 1988 and thereafter in all cases where they are awarded contracts exceeding $10,000,000 in any single year by the Department of Defense or the Department of Energy.
 
 (b)
 
@@ -20,6 +20,8 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 
 (Added Pub. L. 102–484, div. A, title VIII, §838(a), Oct. 23, 1992, 106 Stat. 2465, §2537; amended Pub. L. 103–35, title II, §201(d)(5), (h)(2), May 31, 1993, 107 Stat. 99, 100; Pub. L. 107–314, div. A, title X, §1041(a)(16), Dec. 2, 2002, 116 Stat. 2645; Pub. L. 114–328, div. A, title X, §1081(b)(4)(B), Dec. 23, 2016, 130 Stat. 2419; Pub. L. 115–91, div. A, title X, §1051(a)(19), Dec. 12, 2017, 131 Stat. 1561; renumbered §4891, Pub. L. 116–283, div. A, title XVIII, §1870(f)(2), Jan. 1, 2021, 134 Stat. 4287.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (b), is section 721(a) of act Sept. 8, 1950, ch. 932, as added by Pub. L. 100–418, title V, §5021, Aug. 23, 1988, 102 Stat. 1425, which is classified to section 4565(a) of Title 50, War and National Defense. Section 721(a) of the Act was struck out, and a new section 721(a) was added, by Pub. L. 110–49, §2, July 26, 2007, 121 Stat. 246. As so added, section 721(a) does not refer to investigations by the President or the President's designee.
@@ -27,6 +29,18 @@ Section 721(a) of the Defense Production Act of 1950, referred to in subsec. (b)
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2537 of this title as this section.
+
+<b>2017</b>—Subsecs. (b), (c). Pub. L. 115–91 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required annual reports to Congress regarding the information collected under subsec. (a).
+
+<b>2016</b>—Subsec. (c). Pub. L. 114–328 substituted "(50 U.S.C. 4565(a))" for "(50 U.S.C. App. 2170(a))".
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "$10,000,000" for "$100,000".
+
+<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted "respectively, that" for "respectively, which".
+
+Subsec. (d). Pub. L. 103–35, §201(h)(2), struck out subsec. (d) which read as follows: "In this section, the term 'defense critical technology' has the meaning provided that term by section 2491(8) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

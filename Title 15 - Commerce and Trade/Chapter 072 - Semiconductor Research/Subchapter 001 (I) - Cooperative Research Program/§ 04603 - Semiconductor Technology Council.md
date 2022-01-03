@@ -32,7 +32,7 @@ There is established the Semiconductor Technology Council.
 
 &emsp;(H) Appoint subgroups as appropriate in connection with the updating of the semiconductor technology roadmap.
 
-&emsp;(I) Publish and submit to Congress by March 31 of each year an annual report addressing the semiconductor technology challenges and developments for industry, government, and institutions of higher education and the relationship among the challenges and developments for each, including an evaluation of the role of Sematech.
+&emsp;(I) Publish and submit to Congress by March 31 of each year an annual report addressing the semiconductor technology challenges anddevelopments for industry, government, and institutions of higher education and the relationship among the challenges and developments for each, including an evaluation of the role of Sematech.
 
 #### (c) Membership
 
@@ -92,6 +92,8 @@ The Council shall use Federal funds made available to Sematech as needed for gen
 
 (Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -108,7 +110,7 @@ Subsec. (a). Pub. L. 103–160, §263(b), added subsec. (a) and struck out forme
 
 Subsec. (b). Pub. L. 103–160, §263(b), added subsec. (b) and struck out former subsec. (b) which related to the functions of the Advisory Council of Federal Participation in Sematech.
 
-Subsec. (c). Pub. L. 103–160, §263(b), added subsec. (c) and struck out former subsec. (c) which related to themembership of the Advisory Council on Federal Participation in Sematech.
+Subsec. (c). Pub. L. 103–160, §263(b), added subsec. (c) and struck out former subsec. (c) which related to the membership of the Advisory Council on Federal Participation in Sematech.
 
 Subsec. (d). Pub. L. 103–160, §263(c)(3)(A), substituted "subsection (c)(7)" for "subsection (c)(6)" and "five shall be appointed for a term of two years" for "two shall be appointed for a term of two years".
 
@@ -121,6 +123,8 @@ Subsec. (g). Pub. L. 103–160, §263(d), substituted "a Cochairman" for "the Ch
 Subsec. (j). Pub. L. 103–160, §263(e), added subsec. (j).
 
 <b>1992</b>—Subsec. (c)(4). Pub. L. 102–245 substituted "Technology" for "Economic Affairs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Council on Federal Participation in Sematech
 

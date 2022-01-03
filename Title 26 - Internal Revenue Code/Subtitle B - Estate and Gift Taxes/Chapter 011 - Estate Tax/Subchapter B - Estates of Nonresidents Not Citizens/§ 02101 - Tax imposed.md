@@ -28,6 +28,8 @@ The tax imposed by this section shall be the amount equal to the excess (if any)
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 397; Pub. L. 89–809, title I, §108(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 94–455, title XX, §2001(c)(1)(D), Oct. 4, 1976, 90 Stat. 1850; Pub. L. 100–647, title V, §5032(a), (c), Nov. 10, 1988, 102 Stat. 3669; Pub. L. 101–239, title VII, §7815(c), Dec. 19, 1989, 103 Stat. 2415; Pub. L. 103–66, title XIII, §13208(b)(3), Aug. 10, 1993, 107 Stat. 469; Pub. L. 107–147, title IV, §411(g)(2), Mar. 9, 2002, 116 Stat. 46.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–147 struck out concluding provisions which read as follows: "For purposes of the preceding sentence, there shall be appropriate adjustments in the application of section 2001(c)(2) to reflect the difference between the amount of the credit provided under section 2102(c) and the amount of the credit provided under section 2010."
@@ -43,6 +45,8 @@ Subsec. (d). Pub. L. 100–647, §5032(c), struck out subsec. (d) which provided
 <b>1976</b>—Pub. L. 94–455 redesignated existing provisions as (a) to (d), inserted provisions for adjustments for taxable gifts, revised the tax rate schedule, and struck out provisions relating to property held by Alien Property Custodian.
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted table to be used in computing the tax imposed on transfer of taxable estate, determined as provided in section 2106, of every decedent nonresident not a citizen of the United States for provisions sending taxpayer to table in section 2001 for computation of tax imposed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -66,5 +70,5 @@ Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–809, title I, §108(i), Nov. 13, 1966, 80 Stat. 1574, provided that: "The amendments made by thissection \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\]."
+Pub. L. 89–809, title I, §108(i), Nov. 13, 1966, 80 Stat. 1574, provided that: "The amendments made by this section \[amending this section and sections 2102, 2104, 2105, 2106, and 6018 of this title and enacting sections 2107 and 2108 of this title\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[Nov. 13, 1966\]."
 

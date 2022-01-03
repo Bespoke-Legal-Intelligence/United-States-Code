@@ -92,6 +92,8 @@ The Secretary of Commerce, acting through the Service, shall—
 
 (Pub. L. 100–519, title II, §212, Oct. 24, 1988, 102 Stat. 2594; Pub. L. 102–140, title II, Oct. 28, 1991, 105 Stat. 804; Pub. L. 102–245, title V, §506(c), Feb. 14, 1992, 106 Stat. 27; Pub. L. 110–161, div. B, title I, §109, Dec. 26, 2007, 121 Stat. 1893; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsec. (a)(1), was in the original "this subtitle", meaning subtitle B (§§211, 212) of title II of Pub. L. 100–519, Oct. 24, 1988, 102 Stat. 2594, which enacted section 3704b of this title and amended section 3710 of this title. For complete classification of this subtitle to the Code, see Short Title of 1988 Amendment note set out under section 3701 of this title and Tables.
@@ -116,6 +118,8 @@ Subsec. (a)(4) of this section repealed subsec. (h) of section 3710 of this titl
 
 <b>1991</b>—Subsec. (a)(1)(E). Pub. L. 102–140 added subpar. (E).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Government Publishing Office" substituted for "Government Printing Office" in subsec. (e)(3) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding section 301 of Title 44, Public Printing and Documents.
@@ -126,7 +130,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 
 #### National Technical Information Service Revolving Fund
 
-Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National Technical Information Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
+Pub. L. 102–395, title II, Oct. 6, 1992, 106 Stat. 1853, provided that: "For establishment of a National TechnicalInformation Service Revolving Fund, $8,000,000 without fiscal year limitation: <i>Provided</i>, That unexpended balances in Information Products and Services shall be transferred to and merged with this account, to remain available until expended. Notwithstanding 15 U.S.C. 1525 and 1526, all payments collected by the National Technical Information Service in performing its activities authorized by chapters 23 and 63 of title 15 of the United States Code shall be credited to this Revolving Fund. Without further appropriations action, all expenses incurred in performing the activities of the National Technical Information Service, including modernization, capital equipment and inventory, shall be paid from the fund. A business-type budget for the fund shall be prepared in the manner prescribed by 31 U.S.C. 9103."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Program required
 
-The Secretary, acting through the Assistant Secretary for the Countering Weapons of Mass Destruction Office, shall carry out a program to coordinate the Department's efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
+The Secretary, acting through the Assistant Secretary for the Countering Weapons of MassDestruction Office, shall carry out a program to coordinate the Department's efforts related to defending the food, agriculture, and veterinary systems of the United States against terrorism and other high-consequence events that pose a high risk to homeland security.
 
 #### (b) Program elements
 

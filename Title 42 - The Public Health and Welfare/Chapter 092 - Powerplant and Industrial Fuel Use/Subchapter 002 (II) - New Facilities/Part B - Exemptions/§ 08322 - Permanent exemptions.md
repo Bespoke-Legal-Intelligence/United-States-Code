@@ -26,7 +26,7 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 #### (c) Permanent exemption for cogeneration
 
-After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order, grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a cogeneration facility, the Secretary may, by order,grant a permanent exemption under this subsection with respect to natural gas or petroleum, if he—
 
 &emsp;(1) finds that the petitioner has demonstrated that economic and other benefits of cogeneration are unobtainable unless petroleum or natural gas, or both, are used in such facility, and
 
@@ -54,13 +54,15 @@ After consideration of a petition (and comments thereon) for an exemption for a 
 
 (Pub. L. 95–620, title II, §212, Nov. 9, 1978, 92 Stat. 3300; Pub. L. 100–42, §1(c)(6), May 21, 1987, 101 Stat. 312.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(3), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(6)(A)–(C), substituted "from" for "or installation from one or more of" in introductory provisions, substituted "thefuel that would be used" for "using imported petroleum" and struck out "or installation" after "powerplant" wherever appearing in subpar. (A), and struck out "or installation" after "powerplant" in subpars. (B) and (D).
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(6)(A)–(C), substituted "from" for "or installation from one or more of" in introductory provisions, substituted "the fuel that would be used" for "using imported petroleum" and struck out "or installation" after "powerplant" wherever appearing in subpar. (A), and struck out "or installation" after "powerplant" in subpars. (B) and (D).
 
 Subsec. (a)(2). Pub. L. 100–42, §1(c)(1)(D), struck out "—
 
@@ -85,6 +87,8 @@ Subsec. (h). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (h) which relate
 Subsec. (i). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (i) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
 Subsec. (j). Pub. L. 100–42, §1(c)(6)(H), struck out subsec. (j) which related to issuance, by order of Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 

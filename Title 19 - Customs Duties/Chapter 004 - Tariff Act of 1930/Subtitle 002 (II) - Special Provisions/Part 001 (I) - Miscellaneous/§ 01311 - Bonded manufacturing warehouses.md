@@ -46,11 +46,13 @@ No article manufactured in a bonded warehouse from materials that are goods subj
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act March 24, 1874, referred to in text, which provided that "importers' bonded warehouses, to be used for the storage and cleansing of imported rice intended for exportation to foreign countries, may be established at any port of entry in the United States, under such rules and regulations as the Secretary of the Treasury may prescribe", was repealed by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
-R.S. §3433, referred to in text, was amended by act Feb. 27, 1877, ch. 69, 19 Stat. 248. The provisions of R.S. §3433 as they existed prior to the amendment by act Feb. 27, 1877, were reenacted as section 10 of act Oct. 1, 1890, ch. 1244, 26 Stat. 614. Section 55 of said act Oct. 1, 1890, repealed all laws and parts of laws inconsistent therewith. The provisions of said section 10 of act Oct. 1, 1890, were incorporated into the Internal Revenue Code of 1939, as subsections (a), (b), (c), and (d)(1) of section 3177. See section 5521 of Title 26, Internal Revenue Code.
+R.S. §3433, referred to in text, was amended by act Feb. 27, 1877, ch. 69, 19 Stat. 248. The provisions of R.S. §3433 as they existed prior to the amendment by act Feb. 27, 1877, were reenacted as section 10 of act Oct. 1, 1890, ch. 1244, 26 Stat. 614. Section 55 of said act Oct. 1, 1890, repealed all laws and parts of laws inconsistent therewith. The provisions of said section 10 of act Oct. 1, 1890, were incorporated into the Internal RevenueCode of 1939, as subsections (a), (b), (c), and (d)(1) of section 3177. See section 5521 of Title 26, Internal Revenue Code.
 
 The terms "drawback" and "country", referred to in text, are not defined in sections 4534(a) and 4502 of this title. However, the terms "USMCA drawback" and "USMCA country" are defined in those two sections, respectively. Amendment by section 501(e)(1)(A) of Pub. L. 116–113 struck out "NAFTA" before those terms but did not insert "USMCA". See 2020 Amendment note below.
 
@@ -62,7 +64,7 @@ Section 203(a) of the United States-Chile Free Trade Agreement Implementation Ac
 
 Provisions similar to those in this section were contained in act Oct. 3, 1913, ch. 16, §IV, M, 38 Stat. 197, which was superseded by act Sept. 21, 1922, ch. 356, title III, §311, 42 Stat. 938, and repealed by section 321 thereof. Section 311 of the 1922 act was superseded by section 311 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 88, which supersededthose of the Dingley Tariff Act of July 24, 1897, ch. 11, §15, 30 Stat. 207. Similar provisions were contained in the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §9, 28 Stat. 548.
+Section IV, M, of the act of 1913 superseded previous similar provisions of the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §23, 36 Stat. 88, which superseded those of the Dingley Tariff Act of July 24, 1897, ch. 11, §15, 30 Stat. 207. Similar provisions were contained in the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §9, 28 Stat. 548.
 
 #### Amendments
 
@@ -85,6 +87,8 @@ Pub. L. 116–113, §501(e)(1)(A), in eleventh par., struck out "NAFTA" before "
 <b>1970</b>—Pub. L. 91–271 substituted references to the appropriate customs officer for references to the collector wherever appearing.
 
 <b>1936</b>—Act June 26, 1936, inserted par. at end relating to distilled spirits and wine.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -112,13 +116,15 @@ Pub. L. 96–39, title VIII, §856(b), July 26, 1979, 93 Stat. 295, provided tha
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
 
-#### Transfer of Functions
-
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, are under Department of the Treasury.
-
 #### Withdrawal of Distilled Spirits to Manufacturing Bonded Warehouses; Transfers to Warehouses Pending Exportation
 
 Pub. L. 96–39, title VIII, §856(a), July 26, 1979, 93 Stat. 295, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In the case of articles described in section 5522(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, 26 U.S.C. 5522(a)\] (as in effect before its repeal by section 807(a)(50) of the Distilled Spirits Tax Revision Act of 1979 \[section 807(50) of Pub. L. 96–39\]) the first sentence of the eighth paragraph of section 311 of the Tariff Act of 1930 (19 U.S.C. 1311) shall be applied as if such first sentence did not include the phrase 'at an exterior port'."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, are under Department of the Treasury.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ By Council of the District of Columbia.—The Council of the District of Columbi
 
 (b)
 
-By Planning Commission.—The Commission shall submit to the Council any proposedchange in, or amendment to, the general orders that the Commission considers appropriate. The Council shall treat the amendments proposed in the same manner as other proposed amendments.
+By Planning Commission.—The Commission shall submit to the Council any proposed change in, or amendment to, the general orders that the Commission considers appropriate. The Council shall treat the amendments proposed in the same manner as other proposed amendments.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1224.)
 

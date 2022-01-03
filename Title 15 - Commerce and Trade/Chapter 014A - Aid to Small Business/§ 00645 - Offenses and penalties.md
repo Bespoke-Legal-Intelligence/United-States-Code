@@ -36,7 +36,7 @@ Whoever, with intent to defraud, knowingly conceals, removes, disposes of, or co
 
 (3)
 
-Limitation on liability.—This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in good faith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 142 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
+Limitation on liability.—This subsection shall not apply to any conduct in violation of subsection (a) if the defendant acted in good faith reliance on a written advisory opinion from a Small Business Development Center (as defined in this chapter), or an entity participating in the Procurement Technical Assistance Cooperative Agreement Program defined in chapter 388 of title 10; however nothing in this chapter shall obligate either entity to provide such a letter nor shall the provision of such a letter in any way render the providing entity liable to the business concern should the Administrator later determine that the concern is not a small business concern. Upon issuance of an advisory opinion under this paragraph, the entity issuing the advisory opinion shall remit a copy of the opinion to the General Counsel of the Administration, who may reject the advisory opinion. If the General Counsel of the Administration rejects the advisory opinion, the Administration shall notify the entity issuing the advisory opinion and the recipient of the opinion, after which time the business concern may not rely upon the opinion.
 
 #### (e) Representations under subsection (d) to be in writing
 
@@ -50,7 +50,7 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 #### (1) In general
 
-&emsp;Whoever violates a requirement established under section 657s of this title shall be subject to the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section, the fine described in subsection (d)(2)(A) shall be treated as the greater of—
+&emsp;Whoever violates a requirement established under section 657s of this title shall be subjectto the penalties prescribed in subsection (d), except that, for an entity that exceeded a limitation on subcontracting under such section, the fine described in subsection (d)(2)(A) shall be treated as the greater of—
 
 &emsp;&emsp;(A) $500,000; or
 
@@ -60,11 +60,13 @@ Whoever falsely certifies past compliance with the requirements of section 636(j
 
 &emsp;Not later than 1 year after January 2, 2013, the Administrator shall take such actions as are necessary to ensure that an existing Federal subcontracting reporting system is modified to notify the Administrator, the appropriate Director of the Office of Small and Disadvantaged Business Utilization, and the appropriate contracting officer if a requirement established under section 657s of this title is violated.
 
-(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 112–239, div. A, title XVI, §§1652, 1681(a), 1682(a), Jan. 2, 2013, 126 Stat. 2081, 2085, 2086; Pub. L. 116–283, div. A, title VIII, §862(d)(2), Jan. 1, 2021, 134 Stat. 3780.)
+(Pub. L. 85–536, §2\[16\], July 18, 1958, 72 Stat. 395; Pub. L. 88–264, §2, Feb. 5, 1964, 78 Stat. 8; Pub. L. 99–272, title XVIII, §18009, Apr. 7, 1986, 100 Stat. 368; Pub. L. 100–656, title IV, §405, Nov. 15, 1988, 102 Stat. 3875; Pub. L. 103–355, title VII, §7106(c), Oct. 13, 1994, 108 Stat. 3376; Pub. L. 105–85, div. A, title X, §1073(g)(4), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 105–135, title VI, §603(c), Dec. 2, 1997, 111 Stat. 2632; Pub. L. 112–239, div. A, title XVI, §§1652, 1681(a), 1682(a), Jan. 2, 2013, 126 Stat. 2081, 2085, 2086; Pub. L. 116–283, div. A, title VIII, §862(d)(2), Jan. 1, 2021, 134 Stat. 3780; Pub. L. 117–81, div. A, title XVII, §1702(e)(6), Dec. 27, 2021, 135 Stat. 2157.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, as amended, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to theCode, see Short Title note set out under section 3801 of Title 31 and Tables.
+The Program Fraud Civil Remedies Act of 1986 (31 U.S.C. 3801–3812), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, as amended, which is classified generally to chapter 38 (§3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 3801 of Title 31 and Tables.
 
 The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
 
@@ -77,6 +79,8 @@ Prior similar provisions were contained in section 209 of act July 30, 1953, ch.
 <b>2021</b>—Subsec. (d)(1). Pub. L. 116–283, §862(d)(2)(A)(i), substituted " 'small business concern'," for " 'small business concern',," and ", a 'small business concern owned and controlled by service-disabled veterans', a 'small business concern owned and controlled by veterans', a 'small business concern owned and controlled by socially and economically disadvantaged individuals' " for ", a 'small business concern owned and controlled by socially and economically disadvantaged individuals' " in introductory provisions.
 
 Subsec. (d)(1)(A). Pub. L. 116–283, §862(d)(2)(A)(ii), substituted "section 637, 638, 644, 657a, 657f, or 657f–1" for "section 638, 644, or 657a".
+
+Subsec. (d)(3). Pub. L. 117–81 substituted "chapter 388" for "chapter 142".
 
 Subsec. (e). Pub. L. 116–283, §862(d)(2)(B), substituted " 'small business concern'," for " 'small business concern',," and ", a 'small business concern owned and controlled by service-disabled veterans', a 'small business concern owned and controlled by veterans', a 'small business concern owned and controlled by socially and economically disadvantaged individuals' " for ", a 'small business concern owned and controlled by socially and economically disadvantaged individuals' ".
 
@@ -108,17 +112,19 @@ Subsec. (f). Pub. L. 100–656, §405(b), added subsec. (f).
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–264 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under section 631 of this title.
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
 
 #### Regulations
 
-Pub. L. 112–239, div. A, title XVI, §1681(b), Jan. 2, 2013, 126 Stat. 2085, provided that: "Not later than 270 days after the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act \[15 U.S.C. 645(d)(3)\]."
+Pub. L. 112–239, div. A, title XVI, §1681(b), Jan. 2, 2013, 126 Stat. 2085, provided that: "Not later than 270 daysafter the date of enactment of this part \[Jan. 2, 2013\], the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act \[15 U.S.C. 645(d)(3)\]."
 
 #### Development and Promulgation of Guidance
 

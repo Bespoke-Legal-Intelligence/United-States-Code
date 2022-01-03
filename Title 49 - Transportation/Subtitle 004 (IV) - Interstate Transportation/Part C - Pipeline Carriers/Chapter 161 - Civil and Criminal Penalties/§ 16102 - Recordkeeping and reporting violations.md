@@ -16,6 +16,8 @@ A person required to make a report to the Board, or make, prepare, or preserve a
 
 (Added Pub. L. 104–88, title I, §106(a), Dec. 29, 1995, 109 Stat. 930.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11909 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).

@@ -6,7 +6,7 @@ All persons engaged in a trade or business and making payment in the course of s
 
 #### (b) Collection of foreign items
 
-In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bondsof and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
+In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bonds of and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
 
 #### (c) Recipient to furnish name and address
 
@@ -43,6 +43,8 @@ Subsection (a) shall apply to—
 &emsp;(2) any amount includible under section 409A and which is not treated as wages under section 3401(a).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b), Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561; Pub. L. 112–9, §§2(a), (b), 3(a), Apr. 14, 2011, 125 Stat. 36.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Subsec. (d). Pub. L. 99–514, §1501(c)(1), in amending subsec. (d) generally, 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834, §19(f)(1), substituted "(other than payments to which section 6042(a)(1), 6044(a)(1), or 6049(a)(1) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), 6045, 6049(a)(2), or 6049(a)(3))" for "other than payments described in section 6042(1) or section 6045)".
 
 Subsec. (c). Pub. L. 87–834, §19(f)(2), repealed subsec. (c) which related to returns of payments of interest by corporations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -34,7 +34,7 @@ During both the nine-month period, and the succeeding three-month period plus an
 
 #### (g) Agency decision
 
-(1) Within four months after the final environmental impact statement is published in accordance with subsection (e) with respect to anytransportation or utility system, each Federal agency shall make a decision to approve or disapprove, in accordance with applicable law, each authorization that applies with respect to the system and that is within the jurisdiction of that agency.
+(1) Within four months after the final environmental impact statement is published in accordance with subsection (e) with respect to any transportation or utility system, each Federal agency shall make a decision to approve or disapprove, in accordance with applicable law, each authorization that applies with respect to the system and that is within the jurisdiction of that agency.
 
 (2) The head of each Federal agency, in making a decision referred to in paragraph (1), shall consider, and make detailed findings supported by substantial evidence, with respect to—
 
@@ -55,6 +55,8 @@ During both the nine-month period, and the succeeding three-month period plus an
 &emsp;(H) the short- and long-term public values which may be adversely affected by approval of the transportation or utility system versus the short- and long-term public benefits which may accrue from such approval.
 
 (Pub. L. 96–487, title XI, §1104, Dec. 2, 1980, 94 Stat. 2459.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

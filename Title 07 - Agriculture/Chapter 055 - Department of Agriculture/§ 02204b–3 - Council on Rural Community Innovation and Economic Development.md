@@ -192,9 +192,13 @@ The Council shall—
 
 (Pub. L. 115–334, title VI, §6306, Dec. 20, 2018, 132 Stat. 4752.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 13790, referred to in subsec. (b)(2), is Ex. Ord. No. 13790, §6, Apr. 25, 2017, 82 F.R. 20239, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

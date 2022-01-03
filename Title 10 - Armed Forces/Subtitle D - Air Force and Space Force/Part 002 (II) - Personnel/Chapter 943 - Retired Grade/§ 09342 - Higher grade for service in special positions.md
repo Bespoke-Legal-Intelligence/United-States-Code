@@ -58,6 +58,8 @@ Act
 
 The amendment reflects section 1 of the Act of May 31, 1956, ch. 348 (70 Stat. 222), which in effect amended section 8963 of this title to cover regular and reserve officers covered by section 8962(b). As to temporary officers, section 8962(b) is obsolete. (See opinion of the Judge Advocate General of the Air Force, May 2, 1957.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9342 was renumbered section 9442 of this title.
@@ -66,7 +68,7 @@ A prior section 9342 was renumbered section 9442 of this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8962 of this title as this section.
 
-<b>1996</b>—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: "Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to thePresident, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty."
+<b>1996</b>—Pub. L. 104–106 designated subsec. (b) as entire section and struck out subsec. (a) which read as follows: "Upon retirement, a commissioned officer of the Air Force who has served (1) as Chief of Staff to the President, (2) as Chief of Staff of the Air Force, (3) as a senior member of the Military Staff Committee of the United Nations, or (4) as Surgeon General of the Air Force in the grade of lieutenant general may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade in which he served on active duty."
 
 <b>1980</b>—Pub. L. 96–343, §13(b)(2), substituted "positions" for "positions: regular commissioned officers" in section catchline.
 
@@ -77,6 +79,8 @@ Pub. L. 96–343, §13(b)(1), substituted "Air Force who has" for "Regular Air F
 <b>1965</b>—Subsec. (a). Pub. L. 89–288 added the Surgeon General of the Air Force to the list of commissioned officers who may, in the discretion of the President, be retired, by and with the advice and consent of the Senate, in the highest grade held by him at any time on the active list.
 
 <b>1958</b>—Subsecs. (b), (c). Pub. L. 85–861 redesignated subsec. (c) as (b), and struck out former subsec. (b) which related to retirement grade of a woman Air Force officer who served at least two and one-half years on active duty in the temporary grade of colonel in the Air Force under section 8071 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

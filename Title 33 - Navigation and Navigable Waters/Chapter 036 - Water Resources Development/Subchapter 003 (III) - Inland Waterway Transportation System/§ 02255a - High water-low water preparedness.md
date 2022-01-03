@@ -40,7 +40,7 @@ The Secretary, in consultation with the District Commanders responsible for main
 
 #### (d) Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 foreach of fiscal years 2022 through 2024, to remain available until expended.
+There is authorized to be appropriated to the Secretary to carry out this section $25,000,000 for each of fiscal years 2022 through 2024, to remain available until expended.
 
 (Pub. L. 116–260, div. AA, title I, §151, Dec. 27, 2020, 134 Stat. 2657.)
 

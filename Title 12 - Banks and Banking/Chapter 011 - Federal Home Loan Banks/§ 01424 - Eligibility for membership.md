@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) is subject to inspection and regulation under the banking laws, or under similar laws, of the State or of the United States or, in the case of a community development financial institution, is certified as a community development financial institution under the Community Development Banking and Financial Institutions Act of 1994 \[12 U.S.C. 4701 et seq.\].; <sup>1</sup> and
 
-&emsp;&emsp;(C) makes such home mortgage loans as, in the judgment of the Director, are long-term loans (except that in the case of a savings bank, this subparagraph applies only if, in the judgment of the Director, its time deposits, as defined in section 461 of this title, warrant its making such loans).
+&emsp;&emsp;(C) makes such home mortgage loans as, in the judgment of the Director, are long-termloans (except that in the case of a savings bank, this subparagraph applies only if, in the judgment of the Director, its time deposits, as defined in section 461 of this title, warrant its making such loans).
 
 #### (2) Qualified thrift lender
 
@@ -44,7 +44,7 @@
 
 #### (ii) Certification deemed valid
 
-&emsp;&emsp;&emsp;If, in the case of any credit union to which clause (i) applies, the appropriatesupervisor of the State in which such credit union is chartered fails to make a determination pursuant to such clause by the end of the 6-month period beginning on the date of the application, the credit union shall be deemed to have met the requirements of clause (i).
+&emsp;&emsp;&emsp;If, in the case of any credit union to which clause (i) applies, the appropriate supervisor of the State in which such credit union is chartered fails to make a determination pursuant to such clause by the end of the 6-month period beginning on the date of the application, the credit union shall be deemed to have met the requirements of clause (i).
 
 #### (C) Security interests of Federal home loan bank not avoidable
 

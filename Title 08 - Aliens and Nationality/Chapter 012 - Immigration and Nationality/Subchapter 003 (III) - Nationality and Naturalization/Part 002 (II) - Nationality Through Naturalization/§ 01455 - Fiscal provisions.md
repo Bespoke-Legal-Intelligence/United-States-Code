@@ -42,7 +42,7 @@ Subsec. (f). Pub. L. 102–232, §102(b)(3), added subsec. (f).
 
 Subsec. (a)(1). Pub. L. 101–649, §407(c)(20), (d)(19)(A)(ii), (iii), substituted "an application" for "a petition" and "application" for "petition", struck out "final" before "hearing", and substituted "the Attorney General" for "the naturalization court".
 
-Subsec. (c). Pub. L. 101–649, §407(d)(19)(B), (C), (F), redesignated subsec. (g) as (c), struck out ", and all fees paid over to the Attorney General by clerks of courts under the provisions of this subchapter," before "shall be deposited by" and "or by the clerks of the courts" before "from applicants residing in", and struck out former subsec. (c) which read as follows: "The clerk of any naturalization court specified in subsection (a) of section 1421 of this title (except the courts specified in subsection (d) of this section) shall account for and pay over to the Attorney General one-half of all fees up tothe sum of $40,000, and all fees in excess of $40,000, collected by any such clerk in naturalization proceedings in any fiscal year."
+Subsec. (c). Pub. L. 101–649, §407(d)(19)(B), (C), (F), redesignated subsec. (g) as (c), struck out ", and all fees paid over to the Attorney General by clerks of courts under the provisions of this subchapter," before "shall be deposited by" and "or by the clerks of the courts" before "from applicants residing in", and struck out former subsec. (c) which read as follows: "The clerk of any naturalization court specified in subsection (a) of section 1421 of this title (except the courts specified in subsection (d) of this section) shall account for and pay over to the Attorney General one-half of all fees up to the sum of $40,000, and all fees in excess of $40,000, collected by any such clerk in naturalization proceedings in any fiscal year."
 
 Subsec. (d). Pub. L. 101–649, §407(c)(20), (d)(19)(B), (D), (F), redesignated subsec. (h) as (d), substituted "the Attorney General may not" for "no clerk of a United States court shall" and "an application" for "a petition", struck out before period at end ", and no clerk of any State court shall charge or collect any fee for such services unless the laws of the State require such charge to be made, in which case nothing more than the portion of the fee required to be paid to the State shall be charged or collected. A report of all transactions under this subsection shall be made to the Attorney General as in the case of other reports required of clerks of courts by this subchapter" and struck out former subsec. (d) which read as follows: "The clerk of any United States district court (except in the District Court of the Virgin Islands of the United States and in the District Court of Guam) shall account for and pay over to the Attorney General all fees collected by any such clerk in naturalization proceedings: <i>Provided, however</i>, That the clerk of the District Court of the Virgin Islands of the United States and of the District Court of Guam shall report but shall not be required to pay over to the Attorney General the fees collected by any such clerk in naturalization proceedings."
 
@@ -83,6 +83,8 @@ Amendment by Pub. L. 97–116 applicable to fiscal years beginning on or after O
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Admission of Alaska as State
 

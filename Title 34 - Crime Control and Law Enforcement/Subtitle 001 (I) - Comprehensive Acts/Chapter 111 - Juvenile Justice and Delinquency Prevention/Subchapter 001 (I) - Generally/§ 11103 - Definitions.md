@@ -284,7 +284,7 @@ Pars. (17), (18). Pub. L. 100–690, §7251(a), added pars. (17) and (18).
 
 Par. (4)(A). Pub. L. 98–473, §613(2), substituted " 'Bureau of Justice Assistance' means the bureau established by section 3741 of this title" for " 'Office of Justice Assistance, Research, and Statistics' means the office established by section 3781(a) of this title".
 
-Par. (4)(B). Pub. L. 98–473, §613(2), substituted " 'Office of Justice Programs' means the office established by section 3711 of this title" for " 'Law Enforcement Assistance Administration' means the administration established by section 3711 of this title".
+Par. (4)(B). Pub. L. 98–473, §613(2), substituted " 'Office of Justice Programs' means the office establishedby section 3711 of this title" for " 'Law Enforcement Assistance Administration' means the administration established by section 3711 of this title".
 
 Par. (6). Pub. L. 98–473, §613(3), substituted "services)," for "services," before "activities of".
 
@@ -331,6 +331,8 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 670(a) of Pub
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, §7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under section 11101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -2,7 +2,7 @@
 
 #### (a) Providing site
 
-The Secretary through the General Services Administration, is authorized to provide, uponadequate reimbursement, a site, including necessary structures, for the Center by—
+The Secretary through the General Services Administration, is authorized to provide, upon adequate reimbursement, a site, including necessary structures, for the Center by—
 
 &emsp;(1) using an existing structure or modifying an existing structure for use; or
 

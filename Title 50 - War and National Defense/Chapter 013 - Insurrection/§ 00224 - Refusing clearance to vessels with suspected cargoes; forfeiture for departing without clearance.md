@@ -4,6 +4,8 @@ The Secretary of the Treasury is authorized to refuse a clearance to any vessel 
 
 (R.S. §5320.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5320 derived from act May 20, 1862, ch. 81, §1, 12 Stat. 404.

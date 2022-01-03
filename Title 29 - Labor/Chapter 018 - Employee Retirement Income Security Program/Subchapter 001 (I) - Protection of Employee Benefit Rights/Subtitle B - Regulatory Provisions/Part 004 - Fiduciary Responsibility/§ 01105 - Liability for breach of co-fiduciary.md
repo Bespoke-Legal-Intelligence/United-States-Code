@@ -6,7 +6,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 &emsp;(1) if he participates knowingly in, or knowingly undertakes to conceal, an act or omission of such other fiduciary, knowing such act or omission is a breach;
 
-&emsp;(2) if, by his failure to comply with section 1104(a)(1) of this title in the administration ofhis specific responsibilities which give rise to his status as a fiduciary, he has enabled such other fiduciary to commit a breach; or
+&emsp;(2) if, by his failure to comply with section 1104(a)(1) of this title in the administration of his specific responsibilities which give rise to his status as a fiduciary, he has enabled such other fiduciary to commit a breach; or
 
 &emsp;(3) if he has knowledge of a breach by such other fiduciary, unless he makes reasonable efforts under the circumstances to remedy the breach.
 
@@ -44,7 +44,7 @@ In addition to any liability which he may have under any other provisions of thi
 
 #### (d) Investment managers
 
-(1) If an investment manager or managers have been appointed under section 1102(c)(3) of this title, then, notwithstanding subsections (a)(2) and (3) and subsection (b), no trustee shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
+(1) If an investment manager or managers have been appointed under section 1102(c)(3) ofthis title, then, notwithstanding subsections (a)(2) and (3) and subsection (b), no trustee shall be liable for the acts or omissions of such investment manager or managers, or be under an obligation to invest or otherwise manage any asset of the plan which is subject to the management of such investment manager.
 
 (2) Nothing in this subsection shall relieve any trustee of any liability under this part for any act of such trustee.
 

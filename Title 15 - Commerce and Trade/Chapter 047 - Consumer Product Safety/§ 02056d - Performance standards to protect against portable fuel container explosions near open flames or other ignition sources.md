@@ -90,6 +90,8 @@ This section may be cited as the "Portable Fuel Container Safety Act of 2020".
 
 (Pub. L. 116–260, div. FF, title IX, §901, Dec. 27, 2020, 134 Stat. 3204.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsec. (b)(1), (3)(A), (8), and (9), was in the original "this Act", which was translated as reading "this section", meaning section 901 of Pub. L. 116–260, div. FF, title IX, Dec. 27, 2020, 134 Stat. 3204, to reflect the probable intent of Congress.

@@ -6,7 +6,7 @@ The Tax Court shall prescribe rules, consistent with the provisions of chapter 1
 
 #### (b) Judicial council
 
-The provisions of sections 354(b) through 360 of title 28, United States Code, regarding referralor certification to, and petition for review in the Judicial Conference of the United States, and action thereon, shall apply to the exercise by the Tax Court of the powers of a judicial council under subsection (a). The determination pursuant to section 354(b) or 355 of title 28, United States Code, shall be made based on the grounds for removal of a judge from office under section 7443(f), and certification and transmittal by the Conference of any complaint shall be made to the President for consideration under section 7443(f).
+The provisions of sections 354(b) through 360 of title 28, United States Code, regarding referral or certification to, and petition for review in the Judicial Conference of the United States, and action thereon, shall apply to the exercise by the Tax Court of the powers of a judicial council under subsection (a). The determination pursuant to section 354(b) or 355 of title 28, United States Code, shall be made based on the grounds for removal of a judge from office under section 7443(f), and certification and transmittal by the Conference of any complaint shall be made to the President for consideration under section 7443(f).
 
 #### (c) Hearings
 
@@ -19,6 +19,8 @@ The provisions of sections 354(b) through 360 of title 28, United States Code, r
 &emsp;The Tax Court shall have the power provided under section 361 of such title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this paragraph shall be made out of any funds appropriated for purposes of the Tax Court.
 
 (Added Pub. L. 114–113, div. Q, title IV, §431(a), Dec. 18, 2015, 129 Stat. 3125.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -58,13 +58,15 @@ Aug. 8, 1953, ch. 393, §§2 (less (e) and (f)), 3(a) (less 5th sentence), (b), 
 
 In subsection (a), the language of the revised subsection is substituted for 37:371(b) and (c), to make clear that the section was intended to include enlisted members and members of the Army, or the Air Force, without component. The words "the United States Air Force Academy" are inserted to reflect its establishment by the Air Force Academy Act (68 Stat. 47). The words "retirement pay" are omitted as covered by the words "retired pay". The words "equivalent pay" are omitted as surplusage. 37:371(c) (less 1st 21 words) is omitted as executed, since the persons described must have completed 18 years of the required service on the effective date of the source statute and exercised the option by 180 days after that date. 37:371(a) is omitted, since the revised chapter applies only to the armed forces. 37:371(d) is omitted, since the words "person entitled to retired or retainer pay", or their equivalent, are used throughout the revised chapter. 37:371(g) is omitted, since the words "retired or retainer pay" are used throughout the revised chapter. 37:371(h) is omitted as unnecessary in view of the definitions contained in section 101(5), (7), and (8). 37:372(a) (2d sentence) is omitted as surplusage.
 
-In subsection (b), 37:372(a) (last 28 words of 1st sentence) is omitted as covered by section 1434 of this title. The words "or naval" are omitted as covered by the word "military". The last sentence is substitutedfor 37:372(a) (4th sentence, less 61st through 81st words). 37:372(a) (3d sentence, and 61st through 85th words of 4th sentence) and 37:372(b) (less last sentence) are omitted as executed.
+In subsection (b), 37:372(a) (last 28 words of 1st sentence) is omitted as covered by section 1434 of this title. The words "or naval" are omitted as covered by the word "military". The last sentence is substituted for 37:372(a) (4th sentence, less 61st through 81st words). 37:372(a) (3d sentence, and 61st through 85th words of 4th sentence) and 37:372(b) (less last sentence) are omitted as executed.
 
 In subsection (c), the words "is retired or becomes entitled to retired or retainer pay" are substituted for the words "his retirement" and "he retires" since, under sections 1331–1333 of this title, a person may be granted retired pay without having been retired. The last eight words are substituted for 37:372(a) (7th through 17th words of last sentence). 37:372(a) (last sentence, less 1st 17 words) is omitted as surplusage.
 
 #### 1958 Act
 
 The change makes clear that section 1431 applies to a person who, because of military operations, is missing under any circumstances.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -89,6 +91,8 @@ Subsec. (c). Pub. L. 87–381 substituted "the first day for which retired or re
 Subsec. (d). Pub. L. 87–381 substituted permission to make a corrected election within 90 days after notice that the election is void for any reason, except fraud or willful intent of the member making election, with such election effective as of the date of the election it replaces, for provisions which denied the ability to revoke any election by a person retired or granted retired or retainer pay before Nov. 1, 1953, and who elected within 180 days after that date to receive reduced pay to provide for an annuity.
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 struck out "in action" after "he is missing".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -120,7 +124,7 @@ Pub. L. 90–485, §3, Aug. 13, 1968, 82 Stat. 754, provided that: "For members 
 
 #### Election of Annuity Made Prior to August 13, 1968
 
-Pub. L. 90–485, §4, Aug. 13, 1968, 82 Stat. 754, provided that: "A retired member who elected an annuity underchapter 73 of title 10, United States Code \[this chapter\], before the date of enactment of this Act \[Aug. 13, 1968\], but did not make the election that was then provided by section 1434(c) of that title, may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, make that election. That election becomes effective on the first day of the month following the month in which the election is made. Under regulations prescribed under section 1444(a) of this title, on or before the effective date the retired member must pay the total additional amount that would otherwise have been deducted from his retired or retainer pay to reflect such an election, had it been effective when he retired, plus the interest which would have accrued on that additional amount up to the effective date, except that if an undue hardship or financial burden would otherwise result payment may be made in from two to twelve monthly installments when the monthly amounts involved are $25, or less, or in from two to thirty-six monthly installments when the monthly amounts involved exceed $25. No amounts by which a member's retired or retainer pay was reduced may be refunded to, or credited on behalf of, the retired member by virtue of an application made by him under this section. A retired member described in the first sentence of this section, who does not make the election provided under this section, will not be allowed under section 1436(b) of title 10, to reduce an annuity or withdraw from participation in an annuity program under that title."
+Pub. L. 90–485, §4, Aug. 13, 1968, 82 Stat. 754, provided that: "A retired member who elected an annuity under chapter 73 of title 10, United States Code \[this chapter\], before the date of enactment of this Act \[Aug. 13, 1968\], but did not make the election that was then provided by section 1434(c) of that title, may, before the first day of the thirteenth calendar month beginning after the date of enactment of this Act, make that election. That election becomes effective on the first day of the month following the month in which the election is made. Under regulations prescribed under section 1444(a) of this title, on or before the effective date the retired member must pay the total additional amount that would otherwise have been deducted from his retired or retainer pay to reflect such an election, had it been effective when he retired, plus the interest which would have accrued on that additional amount up to the effective date, except that if an undue hardship or financial burden would otherwise result payment may be made in from two to twelve monthly installments when the monthly amounts involved are $25, or less, or in from two to thirty-six monthly installments when the monthly amounts involved exceed $25. No amountsby which a member's retired or retainer pay was reduced may be refunded to, or credited on behalf of, the retired member by virtue of an application made by him under this section. A retired member described in the first sentence of this section, who does not make the election provided under this section, will not be allowed under section 1436(b) of title 10, to reduce an annuity or withdraw from participation in an annuity program under that title."
 
 #### Elections Subject to Cost Tables Applicable on Date of Retirement; Annuities Payable to Beneficiaries Eligible Under Law in Effect the Day Prior to August 13, 1968
 
@@ -158,7 +162,7 @@ Pub. L. 86–616, §13, July 12, 1960, 74 Stat. 396, provided that: "An officer 
 
 #### Election of Annuity by Certain Personnel
 
-Pub. L. 86–197, §4, Aug. 25, 1959, 73 Stat. 426, provided that: "Any person who, on the effective date of this Act \[August 25, 1959\], would not have completed 18 years ofservice for which he is entitled to credit in the computation of his basic pay under the laws in effect prior to the effective date of this Act, and who, as a result of the enactment of this Act \[amending sections 1332 \[now 12732\], 3683, 3926, 6324, 8683 and 8926 of this title, and enacting provisions set out as notes under sections 3441 and 12732 of this title\], is credited with more than 17 years of such service, shall be allowed twelve months from the effective date of this Act to make the election provided by section 1431(b) of title 10, United States Code \[subsection (b) of this section\], notwithstanding the requirement of the second sentence of that section."
+Pub. L. 86–197, §4, Aug. 25, 1959, 73 Stat. 426, provided that: "Any person who, on the effective date of this Act \[August 25, 1959\], would not have completed 18 years of service for which he is entitled to credit in the computation of his basic pay under the laws in effect prior to the effective date of this Act, and who, as a result of the enactment of this Act \[amending sections 1332 \[now 12732\], 3683, 3926, 6324, 8683 and 8926 of this title, and enacting provisions set out as notes under sections 3441 and 12732 of this title\], is credited with more than 17 years of such service, shall be allowed twelve months from the effective date of this Act to make the election provided by section 1431(b) of title 10, United States Code \[subsection (b) of this section\], notwithstanding the requirement of the second sentence of that section."
 
 #### Change or Revocation of Election by Certain Officers
 
@@ -166,7 +170,7 @@ Effective date of change or revocation of election by certain officers, see sect
 
 #### Public Health Service
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

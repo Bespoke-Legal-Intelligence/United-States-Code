@@ -62,7 +62,7 @@ In this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Administration shall award 80 percent of funds authorized to carry out this subsection to small business development centers, which shall be awarded pursuant to a formula jointly developed, negotiated, and agreed upon, with full participation of both parties, between the association formed under section 648(a)(3)(A) of this title and the Administration.
+&emsp;&emsp;&emsp;The Administration shall award 80 percent of funds authorized to carry out this subsection to small business developmentcenters, which shall be awarded pursuant to a formula jointly developed, negotiated, and agreed upon, with full participation of both parties, between the association formed under section 648(a)(3)(A) of this title and the Administration.
 
 #### (ii) Clarification of use
 
@@ -138,9 +138,13 @@ Not later than 6 months after March 27, 2020, and annually thereafter, the Admin
 
 (Pub. L. 116–136, div. A, title I, §1103, Mar. 27, 2020, 134 Stat. 294; Pub. L. 116–260, div. N, title III, §346(a), Dec. 27, 2020, 134 Stat. 2051.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (b)(3)(A). Pub. L. 116–260 designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

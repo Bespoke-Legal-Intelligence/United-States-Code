@@ -172,6 +172,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 98–369, div. A, title I, §92(a), July 18, 1984, 98 Stat. 609; amended Pub. L. 99–514, title II, §201(d)(8), title V, §511(d)(2)(A), title VI, §631(e)(10), title XVIII, §§1807(b), 1879(f)(1), Oct. 22, 1986, 100 Stat. 2141, 2248, 2274, 2816, 2906; Pub. L. 100–647, title I, §§1002(i)(2)(H), 1005(c)(10), Nov. 10, 1988, 102 Stat. 3371, 3392; Pub. L. 108–27, title III, §302(e)(4)(B)(ii), May 28, 2003, 117 Stat. 764.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (c)(5)(C). Pub. L. 108–27 struck out ", 341(e)(12)," after "170(e)".
@@ -202,9 +204,11 @@ Pub. L. 99–514, §1807(b)(2)(D), substituted "section 168(e)(4)(D)" for "secti
 
 Subsec. (g). Pub. L. 99–514, §1807(b)(1), inserted at end "The preceding sentence shall not apply to any amount to which section 404 or 404A (or any other provision specified in regulations) applies."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning afterDec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -308,5 +312,5 @@ Paragraph not to apply.—This paragraph shall not apply to any agreement if the
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

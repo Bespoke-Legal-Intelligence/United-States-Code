@@ -36,7 +36,7 @@ Acquisition or rehabilitation of a property under a homeownership program under 
 
 &emsp;&emsp;(A) such encumbrance will not threaten the long-term availability of the property for occupancy by low-income families;
 
-&emsp;&emsp;(B) neither the Federal Government nor the public housing agency will be exposed toundue risks related to action that may have to be taken pursuant to paragraph (3);
+&emsp;&emsp;(B) neither the Federal Government nor the public housing agency will be exposed to undue risks related to action that may have to be taken pursuant to paragraph (3);
 
 &emsp;&emsp;(C) any debt obligation can be serviced from project income, including operating assistance; and
 
@@ -70,9 +70,11 @@ The application shall include a plan ensuring that the unit—
 
 (Pub. L. 101–625, title IV, §424, Nov. 28, 1990, 104 Stat. 4166.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
+The National Housing Act, referred to in subsec. (e)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, asamended. Title II of the Act is classified principally to subchapter II (§1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
 This title, referred to in subsec. (f)(2), is title IV of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4148, known as the Homeownership and Opportunity Through HOPE Act, which enacted this subchapter and subchapter II–A (§1437aaa et seq.) of chapter 8 of this title, amended sections 1437c, 1437f, 1437l, 1437p, 1437r, and 1437s of this title and section 1709 of Title 12, and enacted provisions set out as notes under sections 1437c, 1437aa, and 1437aaa of this title. For complete classification of title IV to the Code, see Short Title note set out under section 1437aaa of this title and Tables.
 

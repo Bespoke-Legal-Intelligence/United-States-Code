@@ -4,6 +4,8 @@ After June 30, 1952, transfers to the Department of the Interior pursuant to cha
 
 (July 9, 1952, ch. 597, title I, §108, 66 Stat. 460.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1438 of this title.

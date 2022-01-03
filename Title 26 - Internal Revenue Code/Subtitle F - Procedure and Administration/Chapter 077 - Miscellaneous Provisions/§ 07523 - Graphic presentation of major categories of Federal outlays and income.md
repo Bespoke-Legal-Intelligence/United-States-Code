@@ -58,6 +58,8 @@ For purposes of subsection (a)—
 
 (Added Pub. L. 101–508, title XI, §11622(a), Nov. 5, 1990, 104 Stat. 1388–504; amended Pub. L. 104–193, title I, §110(l)(4), formerly §110(l)(8), Aug. 22, 1996, 110 Stat. 2173, renumbered Pub. L. 105–33, title V, §5514(a)(2), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(O), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(O), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -72,6 +74,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1996</b>—Subsec. (b)(3)(C). Pub. L. 104–193, §110(l)(4), formerly §110(l)(8), as renumbered by Pub. L. 105–33, substituted "assistance under a State program funded under part A of title IV of the Social Security Act" for "aid to families with dependent children".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -84,5 +88,5 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 #### Effective Date
 
-Pub. L. 101–508, title XI, §11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: "The amendments made by this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990."
+Pub. L. 101–508, title XI, §11622(c), Nov. 5, 1990, 104 Stat. 1388–505, provided that: "The amendments madeby this section \[enacting this section\] shall apply to instructions prepared for taxable years beginning after 1990."
 

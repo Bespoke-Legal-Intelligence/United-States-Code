@@ -150,6 +150,8 @@ In subsection (b), the word "Administrator" in section 610(b) of the Federal Avi
 
 This amends 49:44711(a)(2)(B), (5), and (7) and 46310(b) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (d). Pub. L. 116–260 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to postemployment restrictions for flight standards inspectors.
@@ -163,6 +165,8 @@ Subsec. (d). Pub. L. 112–95, §342(a), added subsec. (d).
 <b>2000</b>—Subsec. (c). Pub. L. 106–181 added subsec. (c).
 
 <b>1994</b>—Subsec. (a)(2)(B), (5), (7). Pub. L. 103–429 inserted "any of sections" before "44702–44716".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

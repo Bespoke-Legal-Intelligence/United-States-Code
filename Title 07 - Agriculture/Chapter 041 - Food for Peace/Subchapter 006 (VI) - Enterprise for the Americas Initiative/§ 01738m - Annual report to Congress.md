@@ -18,15 +18,21 @@ No later than December 15 of each fiscal year, each member of the Board shall be
 
 (July 10, 1954, ch. 469, title VI, §614, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3662; as amended Pub. L. 102–237, title III, §330, Dec. 13, 1991, 105 Stat. 1858; Pub. L. 102–532, §3, Oct. 27, 1992, 106 Stat. 3512.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–532 inserted at end "This report shall include—" and pars. (1) to (4).
 
 <b>1991</b>—Pub. L. 102–237 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which certain reporting requirements under this section are listed on page 20), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

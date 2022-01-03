@@ -26,6 +26,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–110, §§3(a)(1), (2), 10, Dec. 18, 2015, 129 Stat. 2228, 2233, renumbered chapter 7 of this title as this chapter and amended analysis generally, substituting items 1301 to 1306 and 1321 to 1326 for former items 701 to 706 and 721 to 727, respectively.

@@ -30,9 +30,13 @@ If the Administrator modifies the plan or the timetable under subsection (a), th
 
 (Pub. L. 114–132, §3, Feb. 29, 2016, 130 Stat. 294.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Directing Dollars to Disaster Relief Act of 2015, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reporting Requirement
 
@@ -76,7 +80,7 @@ Contents of Reports.—Each report required under subsections (a) and (b) shall 
 
 "(d)
 
-Public Availability.—Not later than 30 days after the date on which the Administrator submits a report to Congress under this section, the Administrator shall make the report publicly available on the website of the Agency."
+Public Availability.—Not later than 30 days after the date on which the Administrator submits areport to Congress under this section, the Administrator shall make the report publicly available on the website of the Agency."
 
 #### Definitions
 

@@ -4,7 +4,7 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
 
 &emsp;(1) building on the efforts of States and localities to develop challenging academic and technical standards and to assist students in meeting such standards, including preparation for high skill, high wage, or in-demand occupations in current or emerging professions;
 
-&emsp;(2) promoting the development of services and activities that integrate rigorous and challenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;
+&emsp;(2) promoting the development of services and activities that integrate rigorous andchallenging academic and career and technical instruction, and that link secondary education and postsecondary education for participating career and technical education students;
 
 &emsp;(3) increasing State and local flexibility in providing services and activities designed to develop, implement, and improve career and technical education;
 
@@ -24,6 +24,8 @@ The purpose of this chapter is to develop more fully the academic knowledge and 
 
 (Pub. L. 88–210, §2, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 684; amended Pub. L. 115–224, §6, July 31, 2018, 132 Stat. 1565.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2301, Pub. L. 88–210, §2, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3077, stated purpose of this chapter, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -41,6 +43,8 @@ Par. (3). Pub. L. 115–224, §6(3), struck out ", including tech prep educatio
 Par. (4). Pub. L. 115–224, §6(4), inserted "and programs of study" after "technical education programs".
 
 Par. (8). Pub. L. 115–224, §6(5)–(7), added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

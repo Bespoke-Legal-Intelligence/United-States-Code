@@ -1,8 +1,10 @@
 ### §1232a. Prohibition against Federal control of education
 
-No provision of any applicable program shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or school system, or to require the assignment or transportation of students or teachers in order to overcome racial imbalance.
+No provision of any applicable program shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or schoolsystem, or to require the assignment or transportation of students or teachers in order to overcome racial imbalance.
 
 (Pub. L. 90–247, title IV, §438, formerly §422, as added Pub. L. 91–230, title IV, §401(a)(10), Apr. 13, 1970, 84 Stat. 169; renumbered §432 and amended Pub. L. 92–318, title III, §301(a)(1), title VII, §717(b), June 23, 1972, 86 Stat. 326, 369; Pub. L. 94–482, title IV, §404(b), Oct. 12, 1976, 90 Stat. 2230; renumbered §438, Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -16,9 +18,13 @@ Another prior section 438 of Pub. L. 90–247 was renumbered section 448, and wa
 
 <b>1972</b>—Pub. L. 92–318, §717(b), inserted "the Emergency School Aid Act;" after "the International Education Act of 1966;".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except either as specifically otherwise provided or, if not so specifically otherwise provided, effective July 1, 1976, for those amendments providing for authorization of appropriations, see section 532 of Pub. L. 94–482, set out as a note under section 1001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13791. Enforcing Statutory Prohibitions on Federal Control of Education
 

@@ -2,11 +2,11 @@
 
 #### (a) In general
 
-The Director is authorized to make grants to or enter into contracts with public or nonprofit organizations, including organizations funded under part A, B, or C, for the purposes of demonstrating innovative activities involving older Americans as volunteers. The Director may support under this part both volunteers receiving stipends and volunteers not receiving stipends.
+The Director is authorized to make grants to or enter into contracts with public or nonprofitorganizations, including organizations funded under part A, B, or C, for the purposes of demonstrating innovative activities involving older Americans as volunteers. The Director may support under this part both volunteers receiving stipends and volunteers not receiving stipends.
 
 #### (b) Activities
 
-An organization that receives a grant or enters into a contract under subsection (a) mayuse funds made available through the grant or contract for activities such as—
+An organization that receives a grant or enters into a contract under subsection (a) may use funds made available through the grant or contract for activities such as—
 
 &emsp;(1) linking youth groups and older American organizations in volunteer activities;
 
@@ -15,6 +15,8 @@ An organization that receives a grant or enters into a contract under subsection
 &emsp;(3) testing whether older American volunteer programs may contribute to new objectives or certain national priorities.
 
 (Pub. L. 93–113, title II, §231, as added Pub. L. 103–82, title III, §351, Sept. 21, 1993, 107 Stat. 906.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

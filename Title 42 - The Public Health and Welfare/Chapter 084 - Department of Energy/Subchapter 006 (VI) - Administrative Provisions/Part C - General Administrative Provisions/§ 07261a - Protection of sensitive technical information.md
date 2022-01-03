@@ -14,13 +14,15 @@ In making a decision under this section, the Secretary shall consider, in additi
 
 &emsp;(1) whether national security will be compromised;
 
-&emsp;(2) whether sensitive technical information (whether classified or unclassified) under the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy for which dissemination is controlled under Federal statutes and regulations will be released to unauthorized persons;
+&emsp;(2) whether sensitive technical information (whether classified or unclassified) under theNaval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy for which dissemination is controlled under Federal statutes and regulations will be released to unauthorized persons;
 
 &emsp;(3) whether an organizational conflict of interest contemplated by Federal statutes and regulations will result; and
 
 &emsp;(4) whether failure to assert such a claim will adversely affect the operation of the Naval Nuclear Propulsion Program or the nuclear weapons programs or other atomic energy defense activities of the Department of Energy.
 
 (Pub. L. 99–661, div. C, title I, §3131, Nov. 14, 1986, 100 Stat. 4062; Pub. L. 100–180, div. C, title I, §3135(a), Dec. 4, 1987, 101 Stat. 1240.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -29,6 +31,8 @@ Section was enacted as part of the Department of Energy National Security and Mi
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–180 designated existing provisions as par. (1), struck out at end "Such decision shall be made within a reasonable time (which shall usually be six months from the date of the request by the contractor for assignment of such rights).", and added pars. (2) and (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

@@ -80,7 +80,7 @@ In general.—The Secretary of Defense shall develop a plan to achieve the limit
 
 &emsp;&emsp;"(B) the by-year reductions to Senior Executive Service positions consistent with the distribution required under subparagraph (A); and
 
-&emsp;&emsp;"(C) recommendations for any legislative action that may be necessary for personnel management and shaping authorities to achieve the required limitation.
+&emsp;&emsp;"(C) recommendations for any legislative action that may be necessary for personnel managementand shaping authorities to achieve the required limitation.
 
 &emsp;"(2)
 
@@ -146,7 +146,7 @@ Pub. L. 95–454, title IV, §413, Oct. 13, 1978, 92 Stat. 1175, provided that:
 
 "(f) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a career reserved position under subsection (b) of this section shall be appointed as a noncareer appointee to an appropriate general position in the Senior Executive Service or shall be separated.
 
-"(g) Each employee who has elected conversion to a Senior Executive Service position under subsection\(c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a Senior Executive Service position and who has reinstatement eligibility to a position in the competitive service, may, on request to the Office, be appointed as a career appointee to a Senior Executive Service position. The name of, and basis for reinstatement eligibility for, each employee appointed as a career appointee under this subsection shall be published in the Federal Register.
+"(g) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section, who is serving in a position described in paragraph (1), (2), or (3) of subsection (e) of this section, and whose position is designated as a Senior Executive Service position and who has reinstatement eligibility to a position in the competitive service, may, on request to the Office, be appointed as a career appointee to a Senior Executive Service position. The name of, and basis for reinstatement eligibility for, each employee appointed as a career appointee under this subsection shall be published in the Federal Register.
 
 "(h) Each employee who has elected conversion to a Senior Executive Service position under subsection (c)(1)(B) of this section and who is serving under a limited executive assignment under subpart F of part 305 of title 5, Code of Federal Regulations, shall—
 

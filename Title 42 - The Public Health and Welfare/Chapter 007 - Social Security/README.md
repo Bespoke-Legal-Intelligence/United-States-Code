@@ -243,17 +243,22 @@
 | [709\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000709%20-%20Administration%20of%20Federal%20and%20State%20programs.md) | Administration of Federal and State programs. |
 | [710\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000710%20-%20Sexual%20risk%20avoidance%20education.md) | Sexual risk avoidance education. |
 | [711\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000711%20-%20Maternal%2C%20infant%2C%20and%20early%20childhood%20home%20visiting%20programs.md) | Maternal, infant, and early childhood home visiting programs. |
+| [711a.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000711a%20-%20Emergency%20assistance%20to%20families%20through%20home%20visiting%20programs.md) | Emergency assistance to families through home visiting programs. |
 | [712\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000712%20-%20Services%20to%20individuals%20with%20a%20postpartum%20condition%20and%20their%20families.md) | Services to individuals with a postpartum condition and their families. |
 | [713\.](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/%C2%A7%2000713%20-%20Personal%20responsibility%20education.md) | Personal responsibility education. |
 | 714 to 731. | Omitted or Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VI—CORONAVIRUS RELIEF FUND
+#### SUBCHAPTER VI—CORONAVIRUS RELIEF, FISCAL RECOVERY, AND CRITICAL CAPITAL PROJECTS FUNDS
 
 |  |  |
 | :--- | ---: |
-| [801\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%20Fund/%C2%A7%2000801%20-%20Coronavirus%20relief%20fund.md) | Coronavirus relief fund. |
+| [801\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000801%20-%20Coronavirus%20relief%20fund.md) | Coronavirus relief fund. |
+| [802\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000802%20-%20Coronavirus%20State%20fiscal%20recovery%20fund.md) | Coronavirus State fiscal recovery fund. |
+| [803\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000803%20-%20Coronavirus%20local%20fiscal%20recovery%20fund.md) | Coronavirus local fiscal recovery fund. |
+| [804\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000804%20-%20Coronavirus%20capital%20projects%20fund.md) | Coronavirus capital projects fund. |
+| [805\.](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/%C2%A7%2000805%20-%20Local%20assistance%20and%20Tribal%20consistency%20fund.md) | Local assistance and Tribal consistency fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -426,6 +431,7 @@
 | 1320b–23. | Pharmacy benefit managers transparency requirements. |
 | 1320b–24. | Consultation with Tribal Technical Advisory Group. |
 | 1320b–25. | Reporting to law enforcement of crimes occurring in federally funded long-term care facilities. |
+| 1320b–26. | Funding for providers relating to COVID–19. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -837,6 +843,7 @@
 | 1396w–4. | State option to provide coordinated care through a health home for individuals with chronic conditions. |
 | 1396w–4a. | State option to provide coordinated care through a health home for children with medically complex conditions. |
 | 1396w–5. | Addressing health care disparities. |
+| 1396w–6. | State option to provide qualifying community-based mobile crisis intervention services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -855,6 +862,7 @@
 | [1397f.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397f%20-%20Additional%20grants.md) | Additional grants. |
 | [1397g.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397g%20-%20Demonstration%20projects%20to%20address%20health%20professions%20workforce%20needs.md) | Demonstration projects to address health professions workforce needs. |
 | [1397h.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397h%20-%20Program%20for%20early%20detection%20of%20certain%20medical%20conditions%20related%20to%20environmental%20health%20hazards.md) | Program for early detection of certain medical conditions related to environmental health hazards. |
+| [1397i.](Subchapter%20020%20%28XX%29%20-%20Block%20Grants%20and%20Programs%20for%20Social%20Services%20and%20Elder%20Justice/Division%20A%20-%20Block%20Grants%20to%20States%20for%20Social%20Services/%C2%A7%2001397i%20-%20Additional%20funding%20for%20aging%20and%20disability%20services%20programs.md) | Additional funding for aging and disability services programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -952,7 +960,7 @@
 - [Subchapter 003 (III) - Grants to States for Unemployment Compensation Administration](Subchapter%20003%20%28III%29%20-%20Grants%20to%20States%20for%20Unemployment%20Compensation%20Administration/README.md)
 - [Subchapter 004 (IV) - Grants to States for Aid and Services to Needy Families with Children and for Child-Welfare Services](Subchapter%20004%20%28IV%29%20-%20Grants%20to%20States%20for%20Aid%20and%20Services%20to%20Needy%20Families%20with%20Children%20and%20for%20Child-Welfare%20Services/README.md)
 - [Subchapter 005 (V) - Maternal and Child Health Services Block Grant](Subchapter%20005%20%28V%29%20-%20Maternal%20and%20Child%20Health%20Services%20Block%20Grant/README.md)
-- [Subchapter 006 (VI) - Coronavirus Relief Fund](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%20Fund/README.md)
+- [Subchapter 006 (VI) - Coronavirus Relief, Fiscal Recovery, and Critical Capital Projects Funds](Subchapter%20006%20%28VI%29%20-%20Coronavirus%20Relief%2C%20Fiscal%20Recovery%2C%20and%20Critical%20Capital%20Projects%20Funds/README.md)
 - [Subchapter 007 (VII) - Administration](Subchapter%20007%20%28VII%29%20-%20Administration/README.md)
 - [Subchapter 008 (VIII) - Special Benefits for Certain World War II Veterans](Subchapter%20008%20%28VIII%29%20-%20Special%20Benefits%20for%20Certain%20World%20War%20II%20Veterans/README.md)
 - [Subchapter 009 (IX) - Employment Security Administrative Financing](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/README.md)

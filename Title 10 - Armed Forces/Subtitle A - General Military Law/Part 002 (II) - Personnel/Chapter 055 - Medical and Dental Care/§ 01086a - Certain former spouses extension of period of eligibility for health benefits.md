@@ -36,6 +36,8 @@ Conversion Health Policy Defined.—In this section, the term "conversion health
 
 (Added Pub. L. 101–189, div. A, title VII, §731(b)(1), Nov. 29, 1989, 103 Stat. 1482; amended Pub. L. 102–484, div. D, title XLIV, §4407(b), Oct. 23, 1992, 106 Stat. 2707; Pub. L. 103–35, title II, §202(a)(16), May 31, 1993, 107 Stat. 102.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Subsec. (b)(1). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §4407(b)(2). See 1992 Amendment note below.
@@ -46,9 +48,11 @@ Subsec. (b)(1). Pub. L. 102–484, §4407(b)(2), as amended by Pub. L. 103–35,
 
 Subsecs. (c), (d). Pub. L. 102–484, §4407(b)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
+Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section202(b) of Pub. L. 103–35, set out as a note under section 155 of this title.
 
 #### Effective Date
 

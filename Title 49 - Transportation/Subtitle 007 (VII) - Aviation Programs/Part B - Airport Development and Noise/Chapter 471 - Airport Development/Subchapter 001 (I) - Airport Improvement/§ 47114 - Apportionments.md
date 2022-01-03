@@ -140,7 +140,7 @@ Apportionment.—Except as provided in paragraph (3), the Secretary shall apport
 
 &emsp;(3)
 
-Special rule.—In any fiscal year in which the total amount made available undersection 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 20 percent of the amount subject to apportionment for each fiscal year as follows:
+Special rule.—In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, rather than making an apportionment under paragraph (2), the Secretary shall apportion 20 percent of the amount subject to apportionment for each fiscal year as follows:
 
 &emsp;&emsp;(A) To each airport, excluding primary airports but including reliever and nonprimary commercial service airports, in States the lesser of—
 
@@ -234,7 +234,7 @@ In general.—Subject to paragraph (3), an amount that would be apportioned unde
 
 &emsp;&emsp;&emsp;&emsp;(I) the amount that otherwise would be apportioned under this section; over
 
-&emsp;&emsp;&emsp;&emsp;(II) the amount equal to the amount specified in subclause (I) multiplied by the percentage of the total passenger boardings at the applicable airport that are comprised of interisland passengers; and
+&emsp;&emsp;&emsp;&emsp;(II) the amount equal to the amount specified in subclause (I) multiplied bythe percentage of the total passenger boardings at the applicable airport that are comprised of interisland passengers; and
 
 &emsp;&emsp;(B) in the case of a charge of more than $3.00—
 
@@ -369,6 +369,8 @@ In subsection (c)(3)(A), the words "Except as provided in subparagraph (B) of th
 
 In subsection (c)(3)(B), the words "the total of all amounts apportioned under paragraphs (1) and (2) of this subsection may not be more than 44 percent of the amount subject to apportionment for that fiscal year" are substituted for 49 App.:2206(b)(3)(A), as in effect on July 4, 1994, for clarity and to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 15(a) of the Airport and Airway Development Act of 1970, referred to in subsec. (e)(1), is section 15(a) of Pub. L. 91–258, which was classified to section 1715(a) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, §523(a), Sept. 3, 1982, 96 Stat. 695.
@@ -449,7 +451,7 @@ Subsec. (d). Pub. L. 106–181, §104(c), amended heading and text of subsec. (d
 
 Subsec. (e). Pub. L. 106–181, §104(d)(1), substituted "Supplemental" for "Alternative" in heading.
 
-Subsec. (e)(1). Pub. L. 106–181, §104(d)(2), (5), inserted heading, realigned margins, and in introductory provisions substituted "Notwithstanding" for "Instead of apportioning amounts for airports in Alaska under" and "airports in Alaska" for "those airports".
+Subsec. (e)(1). Pub. L. 106–181, §104(d)(2), (5), inserted heading, realigned margins, and in introductory provisions substituted "Notwithstanding" for "Instead ofapportioning amounts for airports in Alaska under" and "airports in Alaska" for "those airports".
 
 Subsec. (e)(2). Pub. L. 106–181, §104(d)(3), (5), inserted heading and realigned margins.
 
@@ -483,6 +485,8 @@ Subsec. (d)(2)(B), (C). Pub. L. 104–264, §121(b)(3), (4), substituted "49.67"
 
 Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B) of this paragraph, the" for "The", "49.5" for "44" in two places, and "If this subparagraph" for "If this paragraph", and added subpar. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -501,19 +505,15 @@ Pub. L. 104–264, title I, §125, Oct. 9, 1996, 110 Stat. 3220, which provided 
 
 Amendment by section 6(66)(B) of Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
+#### Apportioned Funds
+
+Pub. L. 107–71, title I, §119(b), Nov. 19, 2001, 115 Stat. 629, provided that, for the purpose of carrying out this section, for fiscal year 2003, the Secretary would use, in lieu of passenger boardings at an airport during the prior calendar year, the greater of the number of passenger boardings at that airport during 2000 or 2001.
+
+#### <b>Executive Documents</b>
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
-#### Apportioned Funds
-
-Pub. L. 107–71, title I, §119(b), Nov. 19, 2001, 115 Stat. 629, provided that: "For the purpose of carrying out section 47114 of title 49, United States Code, for fiscal year 2003, the Secretary shall use, in lieu of passenger boardings at an airport during the prior calendar year, the greater of—
-
-&emsp;"(1) the number of passenger boardings at that airport during 2000; or
-
-&emsp;"(2) the number of passenger boardings at that airport during 2001."
-
-\[For definition of "airport" used in section 119(b) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably means "subparagraph (A)".</i>
 

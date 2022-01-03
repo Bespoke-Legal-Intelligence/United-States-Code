@@ -46,7 +46,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 #### (3) State preemption
 
-&emsp;(A) Notwithstanding sections 152(b) and 221(b) of this title, no State or local government shall have any authority to regulate the entry of or the rates charged by any commercial mobile service or any private mobile service, except that this paragraph shall not prohibit a State from regulating the other terms and conditions of commercial mobile services.Nothing in this subparagraph shall exempt providers of commercial mobile services (where such services are a substitute for land line telephone exchange service for a substantial portion of the communications within such State) from requirements imposed by a State commission on all providers of telecommunications services necessary to ensure the universal availability of telecommunications service at affordable rates. Notwithstanding the first sentence of this subparagraph, a State may petition the Commission for authority to regulate the rates for any commercial mobile service and the Commission shall grant such petition if such State demonstrates that—
+&emsp;(A) Notwithstanding sections 152(b) and 221(b) of this title, no State or local government shall have any authority to regulate the entry of or the rates charged by any commercial mobile service or any private mobile service, except that this paragraph shall not prohibit a State from regulating the other terms and conditions of commercial mobile services. Nothing in this subparagraph shall exempt providers of commercial mobile services (where such services are a substitute for land line telephone exchange service for a substantial portion of the communications within such State) from requirements imposed by a State commission on all providers of telecommunications services necessary to ensure the universal availability of telecommunications service at affordable rates. Notwithstanding the first sentence of this subparagraph, a State may petition the Commission for authority to regulate the rates for any commercial mobile service and the Commission shall grant such petition if such State demonstrates that—
 
 &emsp;&emsp;(i) market conditions with respect to such services fail to protect subscribers adequately from unjust and unreasonable rates or rates that are unjustly or unreasonably discriminatory; or
 
@@ -86,7 +86,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;&emsp;(II) shall not prohibit or have the effect of prohibiting the provision of personal wireless services.
 
-&emsp;&emsp;(ii) A State or local government or instrumentality thereof shall act on any request for authorization to place, construct, or modify personal wireless service facilities within a reasonable period of time after the request is duly filed with such government or instrumentality, taking into account the nature and scope of such request.
+&emsp;&emsp;(ii) A State or local government or instrumentality thereof shall act on any requestfor authorization to place, construct, or modify personal wireless service facilities within a reasonable period of time after the request is duly filed with such government or instrumentality, taking into account the nature and scope of such request.
 
 &emsp;&emsp;(iii) Any decision by a State or local government or instrumentality thereof to deny a request to place, construct, or modify personal wireless service facilities shall be in writing and supported by substantial evidence contained in a written record.
 
@@ -140,7 +140,7 @@ In subsec. (b)(2), "section 1342 of title 31" substituted for "section 3679(b) o
 
 #### Amendments
 
-<b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–141 struck out first and second sentences which read as follows: "The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additionalproviders or classes of providers in those services would be likely to enhance competition."
+<b>2018</b>—Subsec. (c)(1)(C). Pub. L. 115–141 struck out first and second sentences which read as follows: "The Commission shall review competitive market conditions with respect to commercial mobile services and shall include in its annual report an analysis of those conditions. Such analysis shall include an identification of the number of competitors in various commercial mobile services, an analysis of whether or not there is effective competition, an analysis of whether any of such competitors have a dominant share of the market for such services, and a statement of whether additional providers or classes of providers in those services would be likely to enhance competition."
 
 <b>1996</b>—Subsec. (c)(7). Pub. L. 104–104, §704(a), added par. (7).
 

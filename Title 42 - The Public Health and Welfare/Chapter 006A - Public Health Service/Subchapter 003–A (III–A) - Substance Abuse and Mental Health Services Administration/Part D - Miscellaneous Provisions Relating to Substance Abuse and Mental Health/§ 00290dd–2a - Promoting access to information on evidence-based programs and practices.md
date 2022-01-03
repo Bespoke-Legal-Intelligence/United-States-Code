@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Assistant Secretary shall, as appropriate, improve access to reliable and valid information on evidence-based programs and practices, including information on the strength of evidence associated with such programs and practices, related to mental and substance use disorders for States, local communities, nonprofit entities, and other stakeholders, by posting on the Internet website of the Administration information on evidence-based programs and practices that have been reviewed by the Assistant Secretary in accordance with the requirements of this section.
+The Assistant Secretary shall, as appropriate, improve access to reliable and valid informationon evidence-based programs and practices, including information on the strength of evidence associated with such programs and practices, related to mental and substance use disorders for States, local communities, nonprofit entities, and other stakeholders, by posting on the Internet website of the Administration information on evidence-based programs and practices that have been reviewed by the Assistant Secretary in accordance with the requirements of this section.
 
 #### (b) Applications
 
@@ -33,6 +33,8 @@ The Assistant Secretary may establish minimum requirements for the applications 
 &emsp;The Assistant Secretary shall make the metrics used to evaluate applications under this section, and any resulting ratings of such applications, publicly available.
 
 (July 1, 1944, ch. 373, title V, §543A, as added Pub. L. 114–255, div. B, title VII, §7002, Dec. 13, 2016, 130 Stat. 1222.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

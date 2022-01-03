@@ -32,9 +32,13 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §305(i); added Oct. 28, 1974, P
 
 In this section, before clause (1), the words "points within", "points in", and "including Montreal, Canada; Vancouver, Canada; and Nuevo Laredo, Mexico" in 45:545(e)(7) are omitted as surplus. The words "establish and" in 45:545(i) (1st sentence) are omitted as executed. The words "trains operated in" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94 substituted "The Secretary of Homeland Security," for "The Secretary of the Treasury and the Attorney General," in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

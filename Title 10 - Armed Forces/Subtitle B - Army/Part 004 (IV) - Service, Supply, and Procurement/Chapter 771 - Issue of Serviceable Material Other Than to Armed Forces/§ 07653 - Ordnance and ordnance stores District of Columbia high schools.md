@@ -1,6 +1,6 @@
 ### §7653. Ordnance and ordnance stores: District of Columbia high schools
 
-The Secretary of the Army, under regulations to be prescribed by him, may issue to the high schools of the District of Columbia ordnance and ordnance stores required for military instruction and practice. The Secretary shall require a bond in double the value of the property issued under this section, for the care and safekeepingof that property and, except for property properly expended, for its return when required.
+The Secretary of the Army, under regulations to be prescribed by him, may issue to the high schools of the District of Columbia ordnance and ordnance stores required for military instruction and practice. The Secretary shall require a bond in double the value of the property issued under this section, for the care and safekeeping of that property and, except for property properly expended, for its return when required.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 261, §4653; renumbered §7653, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
@@ -20,6 +20,8 @@ Feb. 5, 1891, J. Res. 9, 26 Stat. 1113.
 
 The words "at his discretion and", "belonging to the Government, and which can be spared for that purpose", and "in each case" are omitted as surplusage. The words "high schools of the" are substituted for the words "High School of Washington" since the various high schools of the District of Columbia have succeeded the Washington High School that existed at the time the statute was enacted. The words "except for property properly expended" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7653 was renumbered section 8853 of this title.
@@ -27,6 +29,8 @@ A prior section 7653 was renumbered section 8853 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4653 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

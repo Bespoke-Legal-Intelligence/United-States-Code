@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Neither the Secretary nor the Board has jurisdiction under this part over the transportation of property by motor vehicle when—
+In General.—Neither the Secretary nor the Board has jurisdiction under this part overthe transportation of property by motor vehicle when—
 
 &emsp;(1) the property is transported by a person engaged in a business other than transportation; and
 
@@ -22,9 +22,13 @@ Definition.—In this section, "corporate family" means a group of corporations 
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10524 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

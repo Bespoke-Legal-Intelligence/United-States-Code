@@ -46,7 +46,7 @@
 
 #### (5) Highly compensated individual
 
-&emsp;For purposes of this subsection, the determination as to whether an individual is a highly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
+&emsp;For purposes of this subsection, the determination as to whether an individual is ahighly compensated individual shall be made under rules similar to the rules for determining whether an individual is a highly compensated employee (within the meaning of section 414(q)).
 
 #### (6) Compensation
 
@@ -70,7 +70,9 @@
 
 &emsp;In the case of any organization in existence on July 18, 1984, the time for giving notice under paragraph (1) shall not expire before the date 1 year after such date of the enactment.
 
-(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov.10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97; Pub. L. 115–141, div. U, title IV, §401(b)(21)(D), Mar. 23, 2018, 132 Stat. 1203.)
+(Added Pub. L. 98–369, div. A, title V, §513(a), July 18, 1984, 98 Stat. 863; amended Pub. L. 99–514, title XI, §§1114(b)(16), 1151(e)(2)(B), (g)(6), (j)(3), title XVIII, §§1851(c), 1899A(16), Oct. 22, 1986, 100 Stat. 2452, 2506–2508, 2863, 2959; Pub. L. 100–647, title I, §1011B(a)(27)(C), (31)(B), (32), Nov. 10, 1988, 102 Stat. 3487, 3488; Pub. L. 101–140, title II, §§203(a)(1), (2), 204(c), Nov. 8, 1989, 103 Stat. 830, 833; Pub. L. 103–66, title XIII, §13212(c), Aug. 10, 1993, 107 Stat. 472; Pub. L. 107–16, title VI, §611(c)(1), June 7, 2001, 115 Stat. 97; Pub. L. 115–141, div. U, title IV, §401(b)(21)(D), Mar. 23, 2018, 132 Stat. 1203.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -133,6 +135,8 @@ Subsec. (b)(5). Pub. L. 99–514, §1114(b)(16), amended par. (5) generally. Pri
 Subsec. (b)(6). Pub. L. 99–514, §1151(j)(3), added par. (6).
 
 Subsec. (c)(2). Pub. L. 99–514, §1899A(16), substituted "July 18, 1984" for "the date of the enactment of the Tax Reform Act of 1984".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2001 Amendment
 

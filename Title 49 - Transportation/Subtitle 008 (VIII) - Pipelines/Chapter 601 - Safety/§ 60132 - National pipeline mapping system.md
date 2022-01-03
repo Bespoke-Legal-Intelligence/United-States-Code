@@ -38,6 +38,8 @@ Public Disclosure Limited.—The Secretary may not disclose information collecte
 
 (Added Pub. L. 107–355, §15(a), Dec. 17, 2002, 116 Stat. 3005; amended Pub. L. 112–90, §§6(a), 11, Jan. 3, 2012, 125 Stat. 1909, 1913.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
@@ -51,6 +53,8 @@ The date of enactment of this subsection, referred to in subsec. (e), is the dat
 Subsecs. (d), (e). Pub. L. 112–90, §6(a), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 112–90, §11(b), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Information to Emergency Response Agencies
 

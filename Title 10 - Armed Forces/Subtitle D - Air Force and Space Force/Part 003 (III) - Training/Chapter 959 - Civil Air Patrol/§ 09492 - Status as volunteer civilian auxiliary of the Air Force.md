@@ -12,13 +12,17 @@ Use by Air Force.—(1) The Secretary of the Air Force may use the services of t
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, §9442; renumbered §9492, Pub. L. 115–232, div. A, title VIII, §806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9442 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date
 

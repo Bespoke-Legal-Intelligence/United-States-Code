@@ -44,9 +44,11 @@ If a group health plan requires or provides for designation by a participant or 
 
 (Added Pub. L. 116–260, div. BB, title I, §102(c)(2), Dec. 27, 2020, 134 Stat. 2795.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BBof Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
+Section applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 8902 of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No section 9821 has been enacted.</i>
 

@@ -14,7 +14,7 @@ Any officer or employee duly designated by the Secretary shall have access to an
 
 (June 25, 1938, ch. 675, §404, 52 Stat. 1048.)
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

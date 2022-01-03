@@ -12,9 +12,13 @@ It further finds that present requirements for areawide planning and programing 
 
 (Pub. L. 89–754, title II, §201, Nov. 3, 1966, 80 Stat. 1261; Pub. L. 90–448, title VI, §602(b), Aug. 1, 1968, 82 Stat. 531.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–448 extended scope from metropolitan planning and programing to areawide planning and programing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

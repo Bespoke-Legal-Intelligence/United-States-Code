@@ -14,11 +14,11 @@
 
 #### (c) Portion of monthly premium in excess of deducted amount
 
-If an individual to whom subsection (a) or (b) applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay to the Secretary such portion of the monthly premiums for such period as he desires.
+If an individual to whom subsection (a) or (b) applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay tothe Secretary such portion of the monthly premiums for such period as he desires.
 
 #### (d) Deductions from civil service retirement annuities
 
-(1) In the case of an individual receiving an annuity under subchapter III of chapter 83 of title 5 or any other law administered by the Director of the Office of Personnel Management providing retirement or survivorship protection, to whom neither subsection (a) nor subsection (b) applies, his monthly premiums under this part (and the monthly premiums of the spouse of such individual under this part if neither subsection (a) nor subsection (b) applies to such spouse and if such individual agrees) shall, upon notice from the Secretary of Health and Human Services to the Director of the Office of Personnel Management, be collected by deducting the amount thereof from each installment ofsuch annuity. Such deduction shall be made in such manner and at such times as the Director of the Office of Personnel Management may determine. The Director of the Office of Personnel Management shall furnish such information as the Secretary of Health and Human Services may reasonably request in order to carry out his functions under this part with respect to individuals to whom this subsection applies. A plan described in section 8903 or 8903a of title 5 may reimburse each annuitant enrolled in such plan an amount equal to the premiums paid by him under this part if such reimbursement is paid entirely from funds of such plan which are derived from sources other than the contributions described in section 8906 of such title.
+(1) In the case of an individual receiving an annuity under subchapter III of chapter 83 of title 5 or any other law administered by the Director of the Office of Personnel Management providing retirement or survivorship protection, to whom neither subsection (a) nor subsection (b) applies, his monthly premiums under this part (and the monthly premiums of the spouse of such individual under this part if neither subsection (a) nor subsection (b) applies to such spouse and if such individual agrees) shall, upon notice from the Secretary of Health and Human Services to the Director of the Office of Personnel Management, be collected by deducting the amount thereof from each installment of such annuity. Such deduction shall be made in such manner and at such times as the Director of the Office of Personnel Management may determine. The Director of the Office of Personnel Management shall furnish such information as the Secretary of Health and Human Services may reasonably request in order to carry out his functions under this part with respect to individuals to whom this subsection applies. A plan described in section 8903 or 8903a of title 5 may reimburse each annuitant enrolled in such plan an amount equal to the premiums paid by him under this part if such reimbursement is paid entirely from funds of such plan which are derived from sources other than the contributions described in section 8906 of such title.
 
 (2) The Secretary of the Treasury shall, from time to time, but not less often than quarterly, transfer from the Civil Service Retirement and Disability Fund, or the account (if any) applicable in the case of such other law administered by the Director of the Office of Personnel Management, to the Federal Supplementary Medical Insurance Trust Fund the aggregate amount deducted under paragraph (1) for the period to which such transfer relates. Such transfer shall be made on the basis of a certification by the Director of the Office of Personnel Management and shall be appropriately adjusted to the extent that prior transfers were too great or too small.
 
@@ -44,9 +44,11 @@ In the case of an individual enrolled in a Medicare+Choice plan, the Secretary s
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1840, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 306; amended Pub. L. 89–384, §4(c), Apr. 8, 1966, 80 Stat. 106; Pub. L. 90–248, title I, §166, title IV, §403(g), Jan. 2, 1968, 81 Stat. 874, 932; Pub. L. 92–603, title II, §§201(c)(6), 263(a)–(d)(3), Oct. 30, 1972, 86 Stat. 1373, 1448, 1449; Pub. L. 93–445, title III, §306, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 98–369, div. B, title III, §2354(b)(11), title VI, §2663(j)(2)(F)(ii), July 18, 1984, 98 Stat. 1101, 1170; Pub. L. 99–53, §2(g), June 17, 1985, 99 Stat. 94; Pub. L. 100–360, title II, §212(b)(1), July 1, 1988, 102 Stat. 740; Pub. L. 100–485, title VI, §608(d)(10)(B), Oct. 13, 1988, 102 Stat. 2415; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(2), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(B)(ii)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557; Pub. L. 108–173, title II, §222(l)(2)(B), Dec. 8, 2003, 117 Stat. 2206.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out precedingsection 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (i), was redesignated section 1395w–24(b)(1)(C)(v) of this title by Pub. L. 111–148, title III, §3202(b)(1)(B), Mar. 23, 2010, 124 Stat. 454, and subsequently redesignated section 1395w–24(b)(1)(C)(viii) of this title by Pub. L. 111–152, title I, §1102(d)(2), Mar. 30, 2010, 124 Stat. 1045.
 
@@ -60,7 +62,7 @@ Section 1395w–24(b)(1)(C)(iv) of this title, referred to in subsec. (i), was r
 
 Subsec. (a)(2). Pub. L. 103–296, §108(c)(2)(B), substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
-<b>1989</b>—Subsec. (i). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(1), and provided that the provisions oflaw amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
+<b>1989</b>—Subsec. (i). Pub. L. 101–234 repealed Pub. L. 100–360, §212(b)(1), and provided that the provisions of law amended or repealed by such section are restored or revised as if such section had not been enacted, see 1988 Amendment note below.
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–485 substituted "Supplementary" for "Supplemental".
 
@@ -99,6 +101,8 @@ Subsecs. (h), (i). Pub. L. 92–603, §263(c), (d)(3), redesignated subsec. (i) 
 <b>1968</b>—Subsec. (e). Pub. L. 90–248 provided for reimbursement of civil service retirement annuitants for certain premium payments under supplementary medical insurance program, and substituted "subchapter III of chapter 83 of Title 5 or any other law" and "such other law" for "the Civil Service Retirement Act, or other Act" and "such other Act", in pars. (1) and (2), respectively.
 
 <b>1966</b>—Subsec. (i). Pub. L. 89–384 added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -24,11 +24,11 @@
 
 #### (b) Gain from exchanges not solely in kind
 
-If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain, but also of other property or money, then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
+If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition ofgain, but also of other property or money, then the gain, if any, to the recipient shall be recognized, but in an amount not in excess of the sum of such money and the fair market value of such other property.
 
 #### (c) Loss from exchanges not solely in kind
 
-If an exchange would be within the provisions of subsection (a), of section 1035(a), of section1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
+If an exchange would be within the provisions of subsection (a), of section 1035(a), of section 1036(a), or of section 1037(a), if it were not for the fact that the property received in exchange consists not only of property permitted by such provisions to be received without the recognition of gain or loss, but also of other property or money, then no loss from the exchange shall be recognized.
 
 #### (d) Basis
 
@@ -94,11 +94,13 @@ For purposes of this section, an interest in a partnership which has in effect a
 
 Real property located in the United States and real property located outside the United States are not property of a like kind.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183; Pub. L. 109–135, title IV, §412(pp), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–234, title XV, §15342(a), May 22, 2008, 122 Stat. 1518; Pub. L. 110–246, §4(a), title XV, §15342(a), June 18, 2008, 122 Stat. 1664, 2280; Pub. L. 115–97, title I, §13303(a)–(b)(5), Dec. 22, 2017, 131 Stat. 2123, 2124.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 302; Pub. L. 85–866, title I, §44, Sept. 2, 1958, 72 Stat. 1641; Pub. L. 86–346, title II, §201(c)–(e), Sept. 22, 1959, 73 Stat. 624; Pub. L. 91–172, title II, §212(c)(1), Dec. 30, 1969, 83 Stat. 571; Pub. L. 98–369, div. A, title I, §77(a), July 18, 1984, 98 Stat. 595; Pub. L. 99–514, title XVIII, §1805(d), Oct. 22, 1986, 100 Stat. 2810; Pub. L. 101–239, title VII, §7601(a), Dec. 19, 1989, 103 Stat. 2370; Pub. L. 101–508, title XI, §§11701(h), 11703(d)(1), Nov. 5, 1990, 104 Stat. 1388–508, 1388–517; Pub. L. 105–34, title X, §1052(a), Aug. 5, 1997, 111 Stat. 940; Pub. L. 106–36, title III, §3001(c)(2), June 25, 1999, 113 Stat. 183; Pub. L.109–135, title IV, §412(pp), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 110–234, title XV, §15342(a), May 22, 2008, 122 Stat. 1518; Pub. L. 110–246, §4(a), title XV, §15342(a), June 18, 2008, 122 Stat. 1664, 2280; Pub. L. 115–97, title I, §13303(a)–(b)(5), Dec. 22, 2017, 131 Stat. 2123, 2124.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -171,6 +173,8 @@ Transition rule.—The amendments made by this section shall not apply to any ex
 &emsp;"(A) the property disposed of by the taxpayer in the exchange is disposed of on or before December 31, 2017, or
 
 &emsp;"(B) the property received by the taxpayer in the exchange is received on or before December 31, 2017."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

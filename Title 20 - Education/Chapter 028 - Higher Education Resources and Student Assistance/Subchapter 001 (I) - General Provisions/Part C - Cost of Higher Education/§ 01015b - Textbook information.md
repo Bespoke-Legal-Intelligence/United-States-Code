@@ -84,7 +84,7 @@ In this section:
 
 To the maximum extent practicable, each institution of higher education receiving Federal financial assistance shall—
 
-&emsp;(1) disclose, on the institution's Internet course schedule and in a manner of the institution's choosing, the International Standard Book Number and retail price information of required and recommended college textbooks and supplemental materials for each course listed in the institution's course schedule used for preregistration and registration purposes, except that—
+&emsp;(1) disclose, on the institution's Internet course schedule and in a manner of the institution's choosing, the International Standard Book Number and retail price information of required and recommended college textbooks and supplemental materials for each course listed in the institution's course schedule usedfor preregistration and registration purposes, except that—
 
 &emsp;&emsp;(A) if the International Standard Book Number is not available for such college textbook or supplemental material, then the institution shall include in the Internet course schedule the author, title, publisher, and copyright date for such college textbook or supplemental material; and
 
@@ -140,11 +140,15 @@ The Secretary shall not promulgate regulations with respect to this section.
 
 (Pub. L. 89–329, title I, §133, as added Pub. L. 110–315, title I, §112(a), Aug. 14, 2008, 122 Stat. 3107.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 466, related to activities for which grants could be used, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1015b, Pub. L. 89–329, title I, §133, as added Pub. L. 94–482, title I, §101(g)(3), Oct. 12, 1976, 90 Stat. 2087; amended Pub. L. 95–43, §1(a)(4), June 15, 1977, 91 Stat. 213, related to implementation of lifelong learning program by Assistant Secretary, prior to the general amendment of this subchapter by Pub. L. 96–374.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

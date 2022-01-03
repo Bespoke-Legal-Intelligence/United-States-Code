@@ -2,11 +2,11 @@
 
 #### (a) Notice and hearing
 
-Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be givenin the same manner or by publication in the Federal Register.
+Orders of the Commission under this subchapter shall be issued only after appropriate notice and opportunity for hearing. Notice to the parties to a proceeding before the Commission shall be given by personal service upon each party or by registered mail or certified mail or confirmed telegraphic notice to the party's last known business address. Notice to interested persons, if any, other than parties may be given in the same manner or by publication in the Federal Register.
 
 #### (b) Application verified under oath admissible as evidence
 
-The Commission may provide, by appropriate rules or regulations, that an application verified under oath may be admissible in evidence in a proceeding before the Commission and that the record in such a proceeding may consist, in whole or in part, of such application.
+The Commission may provide, by appropriate rules or regulations, that an application verifiedunder oath may be admissible in evidence in a proceeding before the Commission and that the record in such a proceeding may consist, in whole or in part, of such application.
 
 #### (c) Parties
 
@@ -14,9 +14,13 @@ In any proceeding before the Commission, the Commission, in accordance with such
 
 (Aug. 22, 1940, ch. 686, title I, §40, 54 Stat. 842; Pub. L. 86–507, §1(15), June 11, 1960, 74 Stat. 201.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–507 inserted "or certified mail" after "registered mail".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

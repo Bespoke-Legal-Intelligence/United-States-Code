@@ -16,9 +16,13 @@
 
 (Added Pub. L. 90–377, §1, July 5, 1968, 82 Stat. 287; amended Pub. L. 96–513, title V, §511(27), Dec. 12, 1980, 94 Stat. 2922.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–513 substituted "at such facilities" for "as such facilities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980
 

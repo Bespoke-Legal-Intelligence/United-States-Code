@@ -8,7 +8,7 @@
 
 #### (2) Transfer of liability
 
-&emsp;When tobacco products and cigarette papers and tubes are transferred, without payment of tax, pursuant to section 5704, the liability for tax shall be transferred in accordance with the provisions of this paragraph. When tobacco products and cigarette papers and tubes are transferred between the bonded premises of manufacturers and export warehouse proprietors, the transferee shall become liable for the tax upon receipt by him of such articles, and the transferor shall thereupon be relieved of his liability for such tax. When tobacco products and cigarette papers and tubes are released in bond from customs custody for transfer to the bonded premises of a manufacturer of tobacco products or cigarette papers and tubes, the transferee shall become liable for the tax on such articles upon release from customs custody, and the importer shall thereupon be relieved of his liability for such tax. All provisions of this chapter applicable to tobacco products and cigarette papers and tubes in bond shall be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
+&emsp;When tobacco products and cigarette papers and tubes are transferred, without payment of tax, pursuant to section 5704, the liability for tax shall be transferred in accordance with the provisions of this paragraph. When tobacco products and cigarette papers and tubes are transferred between the bonded premises of manufacturers and export warehouse proprietors, the transferee shall become liable for the tax upon receipt by him of such articles, and the transferor shall thereupon be relieved of his liability for such tax. When tobaccoproducts and cigarette papers and tubes are released in bond from customs custody for transfer to the bonded premises of a manufacturer of tobacco products or cigarette papers and tubes, the transferee shall become liable for the tax on such articles upon release from customs custody, and the importer shall thereupon be relieved of his liability for such tax. All provisions of this chapter applicable to tobacco products and cigarette papers and tubes in bond shall be applicable to such articles returned to bond upon withdrawal from the market or returned to bond after previous removal for a tax-exempt purpose.
 
 #### (b) Method of payment of tax
 
@@ -66,7 +66,7 @@
 
 #### (F) Special rule for unlawfully manufactured tobacco products
 
-&emsp;&emsp;In the case of any tobacco products, cigarette paper, or cigarette tubes manufactured in the United States at any place other than the premises of a manufacturer of tobacco products, cigarette paper, or cigarette tubes that has filed the bond and obtained the permit required under this chapter, tax shall be due and payable immediately upon manufacture.
+&emsp;&emsp;In the case of any tobacco products, cigarette paper, or cigarette tubes manufactured in the United States at any place other than the premises of a manufacturer of tobacco products, cigarette paper, or cigarette tubesthat has filed the bond and obtained the permit required under this chapter, tax shall be due and payable immediately upon manufacture.
 
 #### (3) Payment by electronic fund transfer
 
@@ -81,6 +81,8 @@ The Secretary may authorize Federal Reserve banks, and incorporated banks or tru
 Whenever any tax required to be paid by this chapter is not paid in full at the time required for such payment, it shall be the duty of the Secretary, subject to the limitations prescribed in section 6501, on proof satisfactory to him, to determine the amount of tax which has been omitted to be paid, and to make an assessment therefor against the person liable for the tax. The tax so assessed shall be in addition to the penalties imposed by law for failure to pay such tax when required. Except in cases where delay may jeopardize collection of the tax, or where the amount is nominal or the result of an evident mathematical error, no such assessment shall be made until and after the person liable for the tax has been afforded reasonable notice and opportunity to show cause, in writing, against such assessment.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 707; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1417; Pub. L. 94–455, title XIX, §§1905(a)(25), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1821, 1834; Pub. L. 97–448, title III, §308(a), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 98–369, div. A, title I, §27(c)(2), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(a)(1), Oct. 21, 1986, 100 Stat. 1951; Pub. L. 99–514, title XVIII, §1801(c)(2), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(C), (D), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 103–465, title VII, §712(c), Dec. 8, 1994, 108 Stat. 5000; Pub. L. 111–3, title VII, §702(e)(1), Feb. 4, 2009, 123 Stat. 110.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -120,6 +122,8 @@ Subsec. (d). Pub. L. 85–859 redesignated former subsec. (c) as (d). Former sub
 
 Subsec. (e). Pub. L. 85–859 designated former subsec. (d) as (e) and permitted assessments in cases where delay may jeopardize collection of the tax, or where the amount is nominal or the result of an evident mathematical error.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–3, title VII, §702(e)(2), Feb. 4, 2009, 123 Stat. 110, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on the date of the enactment of this Act \[Feb. 4, 2009\]."
@@ -156,5 +160,5 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 

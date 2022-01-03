@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(B) purchases such insurance only for its group members and only to cover their similar or related liability exposure, as described in subparagraph (C);
 
-&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or relatedwith respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
+&emsp;&emsp;(C) is composed of members whose businesses or activities are similar or related with respect to the liability to which members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations; and
 
 &emsp;&emsp;(D) is domiciled in any State;
 
@@ -71,6 +71,8 @@
 (b) Nothing in this chapter shall be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and the definitions of liability, personal risk liability, and insurance under any State law shall not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups.
 
 (Pub. L. 97–45, §2, Sept. 25, 1981, 95 Stat. 949; Pub. L. 98–193, Dec. 1, 1983, 97 Stat. 1344; Pub. L. 99–563, §§3, 4, 12(b), Oct. 27, 1986, 100 Stat. 3170, 3171, 3177.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -99,6 +101,8 @@ Subsec. (a)(7). Pub. L. 99–563, §3(b), added par. (7).
 Subsec. (b). Pub. L. 99–563, §12(b), substituted "liability, personal risk liability, and insurance" for "product liability and product liability insurance".
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–193 substituted provision that nothing in this chapter would be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State, and that the definitions of product liability and product liability insurance under any State law would not be applied for the purposes of this chapter, including recognition or qualification of risk retention groups or purchasing groups for provision that the definition of product liability in this section would not be construed to affect either the tort law or the law governing the interpretation of insurance contracts of any State.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment; Applicability
 

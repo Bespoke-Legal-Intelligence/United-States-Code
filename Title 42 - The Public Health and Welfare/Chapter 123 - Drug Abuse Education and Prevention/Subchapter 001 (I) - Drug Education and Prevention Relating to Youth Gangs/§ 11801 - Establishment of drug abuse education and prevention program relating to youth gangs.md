@@ -26,9 +26,13 @@ The Secretary of Health and Human Services, through the Administration on Childr
 
 (Pub. L. 100–690, title III, §3501, Nov. 18, 1988, 102 Stat. 4254; Pub. L. 102–132, §1(a), Oct. 18, 1991, 105 Stat. 630.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–132 inserted "(including agencies described in paragraph (7)(A) acting jointly)" after "agencies" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

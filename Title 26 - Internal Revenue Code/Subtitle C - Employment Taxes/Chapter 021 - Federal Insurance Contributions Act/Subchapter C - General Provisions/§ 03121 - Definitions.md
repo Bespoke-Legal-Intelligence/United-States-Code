@@ -122,7 +122,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;&emsp;(ii) a son, daughter, stepson, or stepdaughter of such employer is living in the home, and
 
-&emsp;&emsp;(iii) the son, daughter, stepson, or stepdaughter (referred to in clause (ii)) has not attained age 18 or has a mental or physical condition which requires the personal care and supervision of an adult for at least 4 continuous weeks in the calendar quarter in which the service is rendered;
+&emsp;&emsp;(iii) the son, daughter, stepson, or stepdaughter (referred to in clause (ii)) has not attained age 18 or has a mental or physical condition which requires the personal careand supervision of an adult for at least 4 continuous weeks in the calendar quarter in which the service is rendered;
 
 &emsp;(4) service performed by an individual on or in connection with a vessel not an American vessel, or on or in connection with an aircraft not an American aircraft, if (A) the individual is employed on and in connection with such vessel or aircraft, when outside the United States and (B)(i) such individual is not a citizen of the United States or (ii) the employer is not an American employer;
 
@@ -144,7 +144,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;&emsp;&emsp;&emsp;(V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 104(e)(2) of the Indian Self-Determination Act applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
 
-&emsp;&emsp;&emsp;(ii) is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement systemestablished by a law of the United States for employees of the Federal Government (other than for members of the uniformed service);
+&emsp;&emsp;&emsp;(ii) is receiving an annuity from the Civil Service Retirement and Disability Fund, or benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed service);
 
 > &emsp;except that this paragraph shall not apply with respect to any such service performed on or after any date on which such individual performs—
 
@@ -168,7 +168,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;&emsp;&emsp;(ii) is performed by an individual who has, at any time after December 31, 1983, received a lump-sum payment under section 8342(a) of title 5, United States Code, or under the corresponding provision of the law establishing the other retirement system described in clause (i), or
 
-&emsp;&emsp;&emsp;(iii) is performed by an individual after such individual has otherwise ceased to be subject to subchapter III of chapter 83 of title 5, United States Code (without having an application pending for coverage under such subchapter), while performing service in the legislative branch (determined without regard to the provisions of subparagraph (B) relating to continuity of employment), for any period of time after December 31, 1983,
+&emsp;&emsp;&emsp;(iii) is performed by an individual after such individual has otherwise ceased to besubject to subchapter III of chapter 83 of title 5, United States Code (without having an application pending for coverage under such subchapter), while performing service in the legislative branch (determined without regard to the provisions of subparagraph (B) relating to continuity of employment), for any period of time after December 31, 1983,
 
 > &emsp;&emsp;and for purposes of this subparagraph (G) an individual is subject to such subchapter III or to any such other retirement system at any time only if (a) such individual's pay is subject to deductions, contributions, or similar payments (concurrent with the service being performed at that time) under section 8334(a) of such title 5 or the corresponding provision of the law establishing such other system, or (in a case to which section 8332(k)(1) of such title applies) such individual is making payments of amounts equivalent to such deductions, contributions, or similar payments while on leave without pay, or (b) such individual is receiving an annuity from the Civil Service Retirement and Disability Fund, or is receiving benefits (for service as an employee) under another retirement system established by a law of the United States for employees of the Federal Government (other than for members of the uniformed services), or
 
@@ -190,7 +190,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;&emsp;(A) service which, under subsection (j), constitutes covered transportation service,
 
-&emsp;&emsp;(B) service in the employ of the Government of Guam or the Government of American Samoa or any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, performed by an officer or employee thereof (including a member of thelegislature of any such Government or political subdivision), and, for purposes of this title with respect to the taxes imposed by this chapter—
+&emsp;&emsp;(B) service in the employ of the Government of Guam or the Government of American Samoa or any political subdivision thereof, or of any instrumentality of any one or more of the foregoing which is wholly owned thereby, performed by an officer or employee thereof (including a member of the legislature of any such Government or political subdivision), and, for purposes of this title with respect to the taxes imposed by this chapter—
 
 &emsp;&emsp;&emsp;(i) any person whose service as such an officer or employee is not covered by a retirement system established by a law of the United States shall not, with respect to such service, be regarded as an employee of the United States or any agency or instrumentality thereof, and
 
@@ -206,7 +206,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;&emsp;&emsp;(iv) by a member of a board, committee, or council of the District of Columbia, paid on a per diem, meeting, or other fee basis,
 
-&emsp;&emsp;(D) service performed in the employ of the Government of Guam (or any instrumentality which is wholly owned by such Government) by an employee properly classified as a temporary or intermittent employee, if such service is not covered by a retirement system established by a law of Guam; except that (i) the provisions of this subparagraph shall not be applicable to services performed by an elected official or a member of the legislature or in a hospital or penal institution by a patient or inmate thereof, and (ii) for purposes of this subparagraph, clauses (i) and (ii) of subparagraph (B) shall apply,
+&emsp;&emsp;(D) service performed in the employ of the Government of Guam (or any instrumentality which is wholly owned by such Government) by an employee properly classified as a temporary or intermittent employee, if such service is not covered by a retirement system established by a law of Guam; except that (i) the provisions of this subparagraph shall not be applicable to services performed by an elected official or a member of the legislature or in a hospital or penal institution by a patient or inmate thereof, and (ii) forpurposes of this subparagraph, clauses (i) and (ii) of subparagraph (B) shall apply,
 
 &emsp;&emsp;(E) service included under an agreement entered into pursuant to section 218 of the Social Security Act, or
 
@@ -234,7 +234,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;&emsp;(A) a school, college, or university, or
 
-&emsp;&emsp;(B) an organization described in section 509(a)(3) if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivisionthereof and the services performed in its employ by a student referred to in section 218(c)(5) of the Social Security Act are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 218 of such Act;
+&emsp;&emsp;(B) an organization described in section 509(a)(3) if the organization is organized, and at all times thereafter is operated, exclusively for the benefit of, to perform the functions of, or to carry out the purposes of a school, college, or university and is operated, supervised, or controlled by or in connection with such school, college, or university, unless it is a school, college, or university of a State or a political subdivision thereof and the services performed in its employ by a student referred to in section 218(c)(5) of the Social Security Act are covered under the agreement between the Commissioner of Social Security and such State entered into pursuant to section 218 of such Act;
 
 > &emsp;if such service is performed by a student who is enrolled and regularly attending classes at such school, college, or university;
 
@@ -292,7 +292,7 @@ For purposes of this chapter, the term "employment" means any service, of whatev
 
 &emsp;(22) service performed by members of Indian tribal councils as tribal council members in the employ of an Indian tribal government, except that this paragraph shall not apply in the case of service included under an agreement under section 218A of the Social Security Act.
 
-> For purposes of paragraph (20), the operating crew of a boat shall be treated as normally madeup of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.
+> For purposes of paragraph (20), the operating crew of a boat shall be treated as normally made up of fewer than 10 individuals if the average size of the operating crew on trips made during the preceding 4 calendar quarters consisted of fewer than 10 individuals.
 
 #### (c) Included and excluded service
 
@@ -314,7 +314,7 @@ For purposes of this chapter, the term "employee" means—
 
 &emsp;&emsp;(C) as a home worker performing work, according to specifications furnished by the person for whom the services are performed, on materials or goods furnished by such person which are required to be returned to such person or a person designated by him; or
 
-&emsp;&emsp;(D) as a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for side-line sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, or other similar establishments for merchandise for resale or supplies for use in their business operations;
+&emsp;&emsp;(D) as a traveling or city salesman, other than as an agent-driver or commission-driver, engaged upon a full-time basis in the solicitation on behalf of, and the transmission to, his principal (except for side-line sales activities on behalf of some other person) of orders from wholesalers, retailers, contractors, or operators of hotels, restaurants, orother similar establishments for merchandise for resale or supplies for use in their business operations;
 
 > &emsp;if the contract of service contemplates that substantially all of such services are to be performed personally by such individual; except that an individual shall not be included in the term "employee" under the provisions of this paragraph if such individual has a substantial investment in facilities used in connection with the performance of such services (other than in facilities for transportation), or if the services are in the nature of a single transaction not part of a continuing relationship with the person for whom the services are performed; or
 
@@ -376,7 +376,7 @@ For purposes of this chapter, the term "American employer" means an employer whi
 
 #### (1) Domestic service
 
-&emsp;For purposes of this chapter, in the case of domestic service described in subsection (a)(7)(B), any payment of cash remuneration for such service which is more or less than a whole-dollar amount shall, under such conditions and to such extent as may be prescribed by regulations made under this chapter, be computed to the nearest dollar. For the purpose of the computation to the nearest dollar, the payment of a fractional part of a dollar shall be disregarded unless it amounts to one-half dollar or more, in which case it shall be increased to $1. The amount of any payment of cash remuneration so computed to the nearest dollar shall, in lieu of the amount actually paid, be deemed to constitute the amount of cash remuneration for purposes of subsection (a)(7)(B).
+&emsp;For purposes of this chapter, in the case of domestic service described in subsection\(a)(7)(B), any payment of cash remuneration for such service which is more or less than a whole-dollar amount shall, under such conditions and to such extent as may be prescribed by regulations made under this chapter, be computed to the nearest dollar. For the purpose of the computation to the nearest dollar, the payment of a fractional part of a dollar shall be disregarded unless it amounts to one-half dollar or more, in which case it shall be increased to $1. The amount of any payment of cash remuneration so computed to the nearest dollar shall, in lieu of the amount actually paid, be deemed to constitute the amount of cash remuneration for purposes of subsection (a)(7)(B).
 
 #### (2) Service in the uniformed services
 
@@ -416,7 +416,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(D) prior to such acquisition rendered service in employment (including as employment service covered by an agreement under section 218 of the Social Security Act) in connection with the operation of such part of the transportation system acquired by the State or political subdivision,
 
-> &emsp;the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C).
+> &emsp;the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such parttook place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C).
 
 #### (3) Transportation systems acquired after 1950
 
@@ -460,7 +460,7 @@ For purposes of this chapter—
 
 #### (4) Deposits in trust funds
 
-&emsp;For purposes of section 201 of the Social Security Act, relating to appropriations to the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, such remuneration—
+&emsp;For purposes of section 201 of the Social Security Act, relating to appropriations to theFederal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund, such remuneration—
 
 &emsp;&emsp;(A) paid for services covered by an agreement entered into pursuant to paragraph (1) as would be wages if the services constituted employment, and
 
@@ -564,7 +564,7 @@ For purposes of this chapter, tips received by an employee in the course of his 
 
 &emsp;&emsp;(C) all services performed by a member of such an order or subdivision in the exercise of duties required by such order or subdivision shall be deemed to have been performed by such member as an employee of such order or subdivision; and
 
-&emsp;&emsp;(D) the wages of each member, upon which such order or subdivision shall pay the taxesimposed by sections 3101 and 3111, will be determined as provided in subsection (i)(4).
+&emsp;&emsp;(D) the wages of each member, upon which such order or subdivision shall pay the taxes imposed by sections 3101 and 3111, will be determined as provided in subsection (i)(4).
 
 #### (2) Definition of member
 
@@ -712,7 +712,7 @@ For purposes of sections 3102, 3111, and 3121(a)(1), if two or more related corp
 
 #### (2) Timing and duration of election
 
-&emsp;An election under this subsection must be made prior to the first date, more than 90 days after July 18, 1984, on which a quarterly employment tax return for the tax imposed under section 3111 is due, or would be due but for the election, from such church or organization. An election under this subsection shall apply to current and future employees, and shall apply to service performed after December 31, 1983.The election may be revoked by the church or organization under regulations prescribed by the Secretary. The election shall be revoked by the Secretary if such church or organization fails to furnish the information required under section 6051 to the Secretary for a period of 2 years or more with respect to remuneration paid for such services by such church or organization, and, upon request by the Secretary, fails to furnish all such previously unfurnished information for the period covered by the election. Any revocation under the preceding sentence shall apply retroactively to the beginning of the 2-year period for which the information was not furnished.
+&emsp;An election under this subsection must be made prior to the first date, more than 90 days after July 18, 1984, on which a quarterly employment tax return for the tax imposed under section 3111 is due, or would be due but for the election, from such church or organization. An election under this subsection shall apply to current and future employees, and shall apply to service performed after December 31, 1983. The election may be revoked by the church or organization under regulations prescribed by the Secretary. The election shall be revoked by the Secretary if such church or organization fails to furnish the information required under section 6051 to the Secretary for a period of 2 years or more with respect to remuneration paid for such services by such church or organization, and, upon request by the Secretary, fails to furnish all such previously unfurnished information for the period covered by the election. Any revocation under the preceding sentence shall apply retroactively to the beginning of the 2-year period for which the information was not furnished.
 
 #### (3) Definitions
 
@@ -726,7 +726,7 @@ For purposes of sections 3102, 3111, and 3121(a)(1), if two or more related corp
 
 #### (x) Applicable dollar threshold
 
-For purposes of subsection (a)(7)(B), the term "applicable dollar threshold" means $1,000. In the case of calendar years after 1995, the Commissioner of Social Security shall adjust such $1,000 amount at the same time and in the same manner as under section 215(a)(1)(B)(ii) of the Social Security Act with respect to the amounts referred to in section 215(a)(1)(B)(i) of such Act, except that, for purposes of this paragraph, 1993 shall be substituted for the calendar year referred to in section 215(a)(1)(B)(ii)(II) of such Act. If any amount as adjusted under the preceding sentence is not a multiple of $100, such amount shall be rounded to the next lowest multiple of $100.
+For purposes of subsection (a)(7)(B), the term "applicable dollar threshold" means $1,000. In the case of calendar years after 1995, the Commissioner of Social Security shall adjust such $1,000 amount at the same time and in the same manner as under section 215(a)(1)(B)(ii) of the Social Security Act with respect to the amounts referred to in section 215(a)(1)(B)(i) of such Act, except that, for purposes of this paragraph, 1993shall be substituted for the calendar year referred to in section 215(a)(1)(B)(ii)(II) of such Act. If any amount as adjusted under the preceding sentence is not a multiple of $100, such amount shall be rounded to the next lowest multiple of $100.
 
 #### (y) Service in the employ of international organizations by certain transferred Federal employees
 
@@ -776,7 +776,7 @@ For purposes of subsection (a)(7)(B), the term "applicable dollar threshold" mea
 
 #### (3) Liability of common parent
 
-&emsp;In the case of a foreign person who is a member of any domestically controlled group of entities, the common parent of such group shall be jointly and severally liable for any tax under this chapter for which such foreign person is liable by reason of this subsection, and for any penalty imposed on such person bythis title with respect to any failure to pay such tax or to file any return or statement with respect to such tax or wages subject to such tax. No deduction shall be allowed under this title for any liability imposed by the preceding sentence.
+&emsp;In the case of a foreign person who is a member of any domestically controlled group of entities, the common parent of such group shall be jointly and severally liable for any tax under this chapter for which such foreign person is liable by reason of this subsection, and for any penalty imposed on such person by this title with respect to any failure to pay such tax or to file any return or statement with respect to such tax or wages subject to such tax. No deduction shall be allowed under this title for any liability imposed by the preceding sentence.
 
 #### (4) Provisions preventing double taxation
 
@@ -792,7 +792,9 @@ For purposes of subsection (a)(7)(B), the term "applicable dollar threshold" mea
 
 &emsp;&emsp;<b>For relief from taxes in cases covered by certain international agreements, see sections 3101(c) and 3111(c).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 417; Sept. 1, 1954, ch. 1206, title II, §§204(a), (b), 205(a)–(e), 206(a), 207, 209, 68 Stat. 1091–1094; Aug. 1, 1956, ch. 836, title I, §§103(j), 121(d), title II, §§201(b)–(d), (e)(1), (h)(1), (2), (j)–(l), 70 Stat. 824, 839–841, 843; Aug. 1, 1956, ch. 837, title IV, §§410, 411(a), 70 Stat. 878; Pub. L. 85–840, title IV, §§402(b), 404(a), 405(a), (b), Aug. 28, 1958, 72 Stat. 1042, 1044–1046; Pub. L. 85–866, title I, §69, Sept. 2, 1958, 72 Stat. 1659; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §18(c), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §§103(n)–(p), 104(b), 105(a), Sept. 13, 1960, 74 Stat. 938, 939, 942; Pub. L. 87–256, §110(e)(1), Sept. 21, 1961, 75 Stat. 536; Pub. L. 87–293, title II, §202(a)(1), (2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, §220(c)(2), Feb. 26, 1964, 78 Stat. 62; Pub. L. 88–650, §4(b), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§311(b)(4), (5), 313(c)(3), (4), 316(a)(1), (b), 317(b), 320(b)(2), July 30, 1965, 79 Stat. 381, 383, 386, 388, 393; Pub. L. 90–248, title I, §§108(b)(2), 123(b), title IV, §403(i), title V, §504(a), Jan. 2, 1968, 81 Stat. 835, 845, 932, 934; Pub. L. 91–172, title IX, §943(c)(1)–(3), Dec. 30, 1969, 83 Stat. 728; Pub. L. 92–5, title II, §203(b)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(2), July 1, 1972, 86 Stat. 419; Pub. L. 92–603, title I, §§104(i), 122(b), 123(a)(2), (b), (c)(2), 128(b), 129(a)(2), 138(b), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1358, 1359, 1365; Pub. L. 93–66, title II, §203(b)(2), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(2), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XII, §1207(e)(1)(A), title XIX, §§1903(a)(3), 1906(b)(13)(A), (C), Oct. 4, 1976, 90 Stat. 1706, 1807, 1834; Pub. L. 94–563, §1(b), (c), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §§312(a), (b), (d), (f), (g), 314(a), 315(a), 356(a)–(d), Dec. 20, 1977, 91 Stat. 1532–1536, 1555; Pub. L. 95–472, §3(b), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(3), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–222, title I, §101(a)(10)(B)(i), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(a)(1), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(A), Aug. 13, 1981, 95 Stat. 200; Pub. L. 97–123, §3(b), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 97–248, title II, §278(a)(1), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §§101(b), (c)(2), 102(b), title III, §§321(a), (e)(1), 322(a)(2), 323(a)(1), 324(a), 327(a)(1), (b)(1), 328(a), Apr. 20, 1983, 97 Stat. 69, 70, 118, 119, 121, 122, 126–128; Pub. L. 98–369, div. A, title I, §67(c), title IV, §491(d)(36), title V, §531(d)(1)(A), div. B, title VI, §§2601(b), 2603(a)(2), (b), 2661(o)(3), 2663(i), (j)(5)(C), July 18, 1984, 98 Stat. 587, 851, 884, 1124, 1128, 1159, 1169, 1171; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XII, §12112(b), title XIII, §§13205(a)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 288, 313, 327; Pub. L. 99–335, title III, §304(b), June 6, 1986, 100 Stat. 606; Pub. L. 99–509, title IX, §9002(b)(1)(A), (2)(A), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(1), title XI, §§1108(g)(7), 1147(b), 1151(d)(2)(A), title XVIII, §§1882(c), 1883(a)(11)(B), 1895(b)(18)(A), 1899A(38)–(40), Oct. 22, 1986, 100 Stat. 2112, 2435, 2494, 2505, 2915, 2916, 2935, 2960; Pub. L. 100–203, title IX, §§9001(b), 9002(b), 9003(a)(2), 9004(b), 9005(b), 9006(a), (b)(2), 9023(d), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–289, 1330–296; Pub. L. 100–647, title I, §§1001(d)(2)(C)(i), (g)(4)(B)(i), 1011(e)(8), 1011B(a)(22)(A), (23)(A), 1018(r)(2)(A), (u)(35), title III, §3043(c)(2), title VIII, §§8015(b)(2), (c)(2), 8016(a)(3)(A), (4)(A), (C), 8017(b), Nov. 10, 1988, 102 Stat. 3351, 3352, 3461, 3485, 3486, 3586, 3592, 3642, 3791–3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10201(a), (b)(3), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §§11331(a), 11332(b), Nov. 5, 1990, 104 Stat. 1388–467, 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–318, title V, §521(b)(34), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13207(a), Aug. 10, 1993, 107 Stat. 467; Pub. L. 103–178, title II, §204(c), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §108(h)(2), title III, §§303(a)(2), (b)(2), 319(a)(1), (5), 320(a)(1)(C), Aug. 15, 1994, 108 Stat. 1487, 1519, 1533–1535; Pub. L. 103–387, §2(a)(1)(A)–(C), Oct. 22, 1994, 108 Stat. 4071; Pub. L. 104–188, title I, §§1116(a)(1)(A), (B), 1421(b)(8)(A), 1458(b)(1), Aug. 20, 1996, 110 Stat. 1762, 1798, 1819; Pub. L. 105–33, title XI, §11246(b)(2)(A), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 105–61, title VI, §642(d)(2), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–206, title VI, §6023(13), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title III, §319(15)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 108–121, title I, §106(b)(2), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–203, title IV, §423(a), (c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, §251(a)(1)(A), title III, §320(b)(1), title VIII, §802(c)(1), Oct. 22, 2004, 118 Stat. 1458, 1473, 1568; Pub. L. 108–375, div. A, title V, §585(b)(2)(B), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–280, title VIII, §854(c)(8), Aug. 17, 2006, 120 Stat. 1018; Pub. L. 110–172, §8(a)(2), Dec. 29, 2007, 121 Stat. 2483; Pub. L. 110–245, title I, §115(a)(1), title III, §302(a), June 17, 2008, 122 Stat. 1636, 1647; Pub. L. 110–458, title I, §108(k)(1), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iv), (99)(C)(i), Dec. 19, 2014, 128 Stat. 4040, 4052; Pub. L. 115–141, div. U, title IV, §401(a)(209), (210), (325)(A), Mar. 23, 2018, 132 Stat. 1194, 1199; Pub. L. 115–243, §2(b)(2), Sept. 20, 2018, 132 Stat. 2895; Pub. L. 116–94, div. O, title III, §301(c), Dec. 20, 2019, 133 Stat. 3175.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 417; Sept. 1, 1954, ch. 1206, title II, §§204(a), (b), 205(a)–(e), 206(a), 207, 209, 68 Stat. 1091–1094; Aug. 1, 1956, ch. 836, title I, §§103(j), 121(d), title II, §§201(b)–(d), (e)(1), (h)(1), (2), (j)–(l), 70 Stat. 824, 839–841, 843; Aug. 1, 1956, ch. 837, title IV, §§410, 411(a), 70 Stat. 878; Pub. L. 85–840, title IV, §§402(b), 404(a), 405(a), (b), Aug. 28, 1958, 72 Stat. 1042, 1044–1046; Pub. L. 85–866, title I, §69, Sept. 2, 1958, 72 Stat. 1659; Pub. L. 86–70, §22(a), June 25, 1959, 73 Stat. 146; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §18(c), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §§103(n)–(p), 104(b), 105(a), Sept. 13, 1960, 74 Stat. 938, 939, 942; Pub. L. 87–256, §110(e)(1), Sept. 21, 1961, 75 Stat. 536; Pub. L. 87–293, title II, §202(a)(1), (2), Sept. 22, 1961, 75 Stat. 626; Pub. L. 88–272, title II, §220(c)(2), Feb. 26, 1964, 78 Stat. 62; Pub. L. 88–650, §4(b), Oct. 13, 1964, 78 Stat. 1077; Pub. L. 89–97, title III, §§311(b)(4), (5), 313(c)(3), (4), 316(a)(1), (b), 317(b), 320(b)(2), July 30, 1965, 79 Stat. 381, 383, 386, 388, 393; Pub. L. 90–248, title I, §§108(b)(2), 123(b), title IV, §403(i), title V, §504(a), Jan. 2, 1968, 81 Stat. 835, 845, 932, 934; Pub. L. 91–172, title IX, §943(c)(1)–(3), Dec. 30,1969, 83 Stat. 728; Pub. L. 92–5, title II, §203(b)(2), Mar. 17, 1971, 85 Stat. 11; Pub. L. 92–336, title II, §203(b)(2), July 1, 1972, 86 Stat. 419; Pub. L. 92–603, title I, §§104(i), 122(b), 123(a)(2), (b), (c)(2), 128(b), 129(a)(2), 138(b), Oct. 30, 1972, 86 Stat. 1341, 1354, 1356, 1358, 1359, 1365; Pub. L. 93–66, title II, §203(b)(2), (d), July 9, 1973, 87 Stat. 153; Pub. L. 93–233, §5(b)(2), (d), Dec. 31, 1973, 87 Stat. 954; Pub. L. 94–455, title XII, §1207(e)(1)(A), title XIX, §§1903(a)(3), 1906(b)(13)(A), (C), Oct. 4, 1976, 90 Stat. 1706, 1807, 1834; Pub. L. 94–563, §1(b), (c), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §§312(a), (b), (d), (f), (g), 314(a), 315(a), 356(a)–(d), Dec. 20, 1977, 91 Stat. 1532–1536, 1555; Pub. L. 95–472, §3(b), Oct. 17, 1978, 92 Stat. 1333; Pub. L. 95–600, title I, §164(b)(3), Nov. 6, 1978, 92 Stat. 2814; Pub. L. 96–222, title I, §101(a)(10)(B)(i), Apr. 1, 1980, 94 Stat. 201; Pub. L. 96–499, title XI, §1141(a)(1), Dec. 5, 1980, 94 Stat. 2693; Pub. L. 97–34, title I, §124(e)(2)(A), Aug. 13, 1981, 95 Stat. 200; Pub. L. 97–123, §3(b), Dec. 29, 1981, 95 Stat. 1662; Pub. L. 97–248, title II, §278(a)(1), Sept. 3, 1982, 96 Stat. 559; Pub. L. 98–21, title I, §§101(b), (c)(2), 102(b), title III, §§321(a), (e)(1), 322(a)(2), 323(a)(1), 324(a), 327(a)(1), (b)(1), 328(a), Apr. 20, 1983, 97 Stat. 69, 70, 118, 119, 121, 122, 126–128; Pub. L. 98–369, div. A, title I, §67(c), title IV, §491(d)(36), title V, §531(d)(1)(A), div. B, title VI, §§2601(b), 2603(a)(2), (b), 2661(o)(3), 2663(i), (j)(5)(C), July 18, 1984, 98 Stat. 587, 851, 884, 1124, 1128, 1159, 1169, 1171; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XII, §12112(b), title XIII, §§13205(a)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 288, 313, 327; Pub. L. 99–335, title III, §304(b), June 6, 1986, 100 Stat. 606; Pub. L. 99–509, title IX, §9002(b)(1)(A), (2)(A), Oct. 21, 1986, 100 Stat. 1971; Pub. L. 99–514, title I, §122(e)(1), title XI, §§1108(g)(7), 1147(b), 1151(d)(2)(A), title XVIII, §§1882(c), 1883(a)(11)(B), 1895(b)(18)(A), 1899A(38)–(40), Oct. 22, 1986, 100 Stat. 2112, 2435, 2494, 2505, 2915, 2916, 2935, 2960; Pub. L. 100–203, title IX, §§9001(b), 9002(b), 9003(a)(2), 9004(b), 9005(b), 9006(a), (b)(2), 9023(d), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–289, 1330–296; Pub. L. 100–647, title I, §§1001(d)(2)(C)(i), (g)(4)(B)(i), 1011(e)(8), 1011B(a)(22)(A), (23)(A), 1018(r)(2)(A), (u)(35), title III, §3043(c)(2), title VIII, §§8015(b)(2), (c)(2), 8016(a)(3)(A), (4)(A), (C), 8017(b), Nov. 10, 1988, 102 Stat. 3351, 3352, 3461, 3485, 3486, 3586, 3592, 3642, 3791–3793; Pub. L. 101–140, title II, §203(a)(2), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title X, §10201(a), (b)(3), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §§11331(a), 11332(b), Nov. 5, 1990, 104 Stat. 1388–467, 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–318, title V, §521(b)(34), July 3, 1992, 106 Stat. 312; Pub. L. 103–66, title XIII, §13207(a), Aug. 10, 1993, 107 Stat. 467; Pub. L. 103–178, title II, §204(c), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §108(h)(2), title III, §§303(a)(2), (b)(2), 319(a)(1), (5), 320(a)(1)(C), Aug. 15, 1994, 108 Stat. 1487, 1519, 1533–1535; Pub. L. 103–387, §2(a)(1)(A)–(C), Oct. 22, 1994, 108 Stat. 4071; Pub. L. 104–188, title I, §§1116(a)(1)(A), (B), 1421(b)(8)(A), 1458(b)(1), Aug. 20, 1996, 110 Stat. 1762, 1798, 1819; Pub. L. 105–33, title XI, §11246(b)(2)(A), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532; Pub. L. 105–61, title VI, §642(d)(2), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–206, title VI, §6023(13), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title III, §319(15)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 108–121, title I, §106(b)(2), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–203, title IV, §423(a), (c), Mar. 2, 2004, 118 Stat. 536; Pub. L. 108–357, title II, §251(a)(1)(A), title III, §320(b)(1), title VIII, §802(c)(1), Oct. 22, 2004, 118 Stat. 1458, 1473, 1568; Pub. L. 108–375, div. A, title V, §585(b)(2)(B), Oct. 28, 2004, 118 Stat. 1932; Pub. L. 109–280, title VIII, §854(c)(8), Aug. 17, 2006, 120 Stat. 1018; Pub. L. 110–172, §8(a)(2), Dec. 29, 2007, 121 Stat. 2483; Pub. L. 110–245, title I, §115(a)(1), title III, §302(a), June 17, 2008, 122 Stat. 1636, 1647; Pub. L. 110–458, title I, §108(k)(1), Dec. 23, 2008, 122 Stat. 5110; Pub. L. 113–295, div. A, title II, §221(a)(19)(B)(iv), (99)(C)(i), Dec. 19, 2014, 128 Stat. 4040, 4052; Pub. L. 115–141, div. U, title IV, §401(a)(209), (210), (325)(A), Mar. 23, 2018, 132 Stat. 1194, 1199; Pub. L. 115–243, §2(b)(2), Sept. 20, 2018, 132 Stat. 2895; Pub. L. 116–94, div. O, title III, §301(c), Dec. 20, 2019, 133 Stat. 3175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -822,7 +824,7 @@ The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act Jun
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 3121 of act Aug. 16, 1954, as amended by section 101(b)(1) of Pub. L. 98–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see note under section 410 of Title 42, The Public Health and Welfare.
 
 #### Amendments
 
@@ -1028,7 +1030,7 @@ Pub. L. 99–514, §1899A(40), substituted "July 18, 1984" for "the date of the 
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §531(d)(1)(A)(i), inserted "(including benefits)" before "paid in any medium" in introductory provisions.
 
-Subsec. (a)(5)(C) to (G). Pub. L. 98–369, §491(d)(36), struck out subpar. (C) which provided: "under or to abond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a)," and redesignated subpars, (D) to (G) as (C) to (F), respectively.
+Subsec. (a)(5)(C) to (G). Pub. L. 98–369, §491(d)(36), struck out subpar. (C) which provided: "under or to a bond purchase plan which, at the time of such payment, is a qualified bond purchase plan described in section 405(a)," and redesignated subpars, (D) to (G) as (C) to (F), respectively.
 
 Subsec. (a)(20). Pub. L. 98–369, §531(d)(1)(A)(ii), added par. (20).
 
@@ -1122,7 +1124,7 @@ Subsec. (k). Pub. L. 98–21, §102(b)(2), struck out subsec. (k) which related 
 
 Subsec. (l). Pub. L. 98–21, §321(a)(1), substituted "Agreements entered into by American employers with respect to foreign affiliates" for "Agreements entered into by domestic corporations with respect to foreign subsidiaries" in heading.
 
-Subsec. (l)(1). Pub. L. 98–21, §321(a)(1), substituted "affiliates" for "subsidiaries" in par. (1) heading, and in first sentence of provisions preceding subpar. (A), substituted "at the American employer's request" for "at the request of any domestic corporation", "any American employer (as defined in subsection (h)) who" for "any such corporation which", "such manner and form" for "such form and manner", and "affiliates" for "subsidiaries" after "such employer's foreign", and inserted "or residents" after "citizens".
+Subsec. (l)(1). Pub. L. 98–21, §321(a)(1), substituted "affiliates" for "subsidiaries" in par. (1) heading, andin first sentence of provisions preceding subpar. (A), substituted "at the American employer's request" for "at the request of any domestic corporation", "any American employer (as defined in subsection (h)) who" for "any such corporation which", "such manner and form" for "such form and manner", and "affiliates" for "subsidiaries" after "such employer's foreign", and inserted "or residents" after "citizens".
 
 Pub. L. 98–21, §321(e)(1), substituted "American employer" for "domestic corporation", "affiliate" for "subsidiary" and "citizens or residents" for "citizens" wherever appearing in second and third sentences of provisions preceding subpar. (A) and substituted "American employer" for "domestic corporation" in subpars. (A) and (B).
 
@@ -1192,7 +1194,7 @@ Subsec. (b)(1). Pub. L. 94–455, §1903(a)(3)(B), struck out "65 Stat. 119;" be
 
 Subsec. (b)(6)(B)(v). Pub. L. 94–455, §1903(a)(3)(C), substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
-Subsec. (b)(8)(B). Pub. L. 94–563, §1(b), inserted "or deemed to have been so filed under paragraph (4) or (5) of such subsection" after "filed pursuant to subsection (k) (or the corresponding subsection of prior law)" in provisions preceding cl. (i), inserted "(or deemed to have been filed)" after "filed" in cls. (i), (ii), and (iii), and substituted "is (or is deemed to be) in effect" for "is in effect" in provisions following cl. (iii).
+Subsec. (b)(8)(B). Pub. L. 94–563, §1(b), inserted "or deemed to have been so filed under paragraph (4) or (5) of such subsection" after "filed pursuant to subsection (k) (or the corresponding subsection of prior law)" inprovisions preceding cl. (i), inserted "(or deemed to have been filed)" after "filed" in cls. (i), (ii), and (iii), and substituted "is (or is deemed to be) in effect" for "is in effect" in provisions following cl. (iii).
 
 Subsec. (b)(12)(B). Pub. L. 94–455, §1906(b)(13)(C), substituted "to the Secretary of the Treasury" for "to the Secretary".
 
@@ -1370,6 +1372,8 @@ Subsec. (k)(1). Act Sept. 1, 1954, §§205(b), 207, substituted "(b)(8)(B)" for 
 
 Subsec. (l). Act Sept. 1, 1954, §209, added subsec. (l).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in subsec. (b)(5)(E) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
@@ -1482,7 +1486,7 @@ Amendment by section 3043(c)(2) of Pub. L. 100–647 applicable to all periods b
 
 Pub. L. 100–647, title VIII, §8015(b)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: "The amendments made by this subsection \[amending this section and section 410 of Title 42, The Public Health and Welfare\] shall apply as if such amendments had been included or reflected in section 304 of the Federal Employees' Retirement System Act of 1986 (100 Stat. 606) \[Pub. L. 99–335\] at the time of its enactment \[June 6, 1986\]."
 
-Pub. L. 100–647, title VIII, §8015(c)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: "The amendments made bythis subsection \[amending this section and section 410 of Title 42\] shall apply to any individual only upon the performance by such individual of service described in subparagraph (C), (D), (E), (F), (G), or (H) of section 210(a)(5) of the Social Security Act (42 U.S.C. 410(a)(5)) on or after the date of the enactment of this Act \[Nov. 10, 1988\]."
+Pub. L. 100–647, title VIII, §8015(c)(3), Nov. 10, 1988, 102 Stat. 3792, provided that: "The amendments made by this subsection \[amending this section and section 410 of Title 42\] shall apply to any individual only upon the performance by such individual of service described in subparagraph (C), (D), (E), (F), (G), or (H) of section 210(a)(5) of the Social Security Act (42 U.S.C. 410(a)(5)) on or after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 Amendment by section 8016(a)(3)(A), (4)(A), (C) of Pub. L. 100–647 effective Nov. 10, 1988, except that any amendment to a provision of a particular Public Law which is referred to by its number, or to a provision of the Social Security Act \[42 U.S.C. 301 et seq.\], or to this title as added or amended by a provision of a particular Public Law which is so referred to, effective as though included or reflected in the relevant provisions of that Public Law at the time of its enactment, see section 8016(b) of Pub. L. 100–647, set out as a note under section 3111 of this title.
 
@@ -1556,7 +1560,7 @@ Pub. L. 98–21, title III, §323(c)(1), Apr. 20, 1983, 97 Stat. 121, provided t
 
 Pub. L. 98–21, title III, §324(d), Apr. 20, 1983, 97 Stat. 125, as amended by Pub. L. 98–369, div. B, title VI, §2662(f)(2), July 18, 1984, 98 Stat. 1159; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(1) Except as otherwise provided in this subsection, the amendments made by this section \[amending this section, section 3306 of this title, and sections 403 and 409 of Title 42 and enacting provisions set out as a note under section 3306 of this title\] shall apply to remuneration paid after December 31, 1983. For purposes of applying such amendments to remuneration paid after December 31, 1983, which would have been taken into account before January 1, 1984, if such amendments had applied to periods before January 1, 1984, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied).
+"(1) Except as otherwise provided in this subsection, the amendments made by this section \[amending this section, section 3306 of this title, and sections 403 and 409 of Title 42 and enacting provisions set out as a note under section 3306 of this title\] shall apply to remuneration paid after December 31, 1983. For purposes of applying such amendments to remuneration paid after December 31, 1983, which would have been taken into account before January 1, 1984, if such amendments had applied to periods before January 1, 1984, such remuneration shall be taken into account when paid (or, atthe election of the payor, at the time which would be appropriate if such amendments had applied).
 
 "(2) Except as otherwise provided in this subsection, the amendments made by subsection (b) \[amending section 3306 of this title and enacting provisions set out as a note under section 3306 of this title\] shall apply to remuneration paid after December 31, 1984. For purposes of applying such amendments to remuneration paid after December 31, 1984, which would have been taken into account before January 1, 1985, if such amendments had applied to periods before January 1, 1985, such remuneration shall be taken into account when paid (or, at the election of the payor, at the time which would be appropriate if such amendments had applied).
 
@@ -1636,7 +1640,7 @@ Pub. L. 95–472, §3(d), Oct. 17, 1978, 92 Stat. 1333, provided that: "The amen
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–216, title III, §312(h), Dec. 20, 1977, 91 Stat. 1535, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a), (b), (d), (e), (f), and (g) of this section \[amending this section and provisions set out below\] shall be effective as though they had been included as a part of the amendments made to section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by the first section of Public Law 94–563 (or, in the case of the amendments made by subsection (e), as a part of section 3 of such Public Law)."
+Pub. L. 95–216, title III, §312(h), Dec. 20, 1977, 91 Stat. 1535, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100Stat. 2095, provided that: "The amendments made by subsections (a), (b), (d), (e), (f), and (g) of this section \[amending this section and provisions set out below\] shall be effective as though they had been included as a part of the amendments made to section 3121(k) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by the first section of Public Law 94–563 (or, in the case of the amendments made by subsection (e), as a part of section 3 of such Public Law)."
 
 Pub. L. 95–216, title III, §314(c), Dec. 20, 1977, 91 Stat. 1536, provided that: "The amendments made by this section \[amending this section and section 3306 of this title\] shall apply with respect to wages paid after December 31, 1978."
 
@@ -1672,7 +1676,7 @@ Amendment by sections 122(b) and 138(b) of Pub. L. 92–603 applicable in the ca
 
 Amendment by section 128(b) of Pub. L. 92–603 applicable with respect to service performed on and after first day of calendar quarter which begins on or after Oct. 30, 1972, see section 128(c) of Pub. L. 92–603, set out as a note under section 410 of Title 42.
 
-Amendment by section 129(a)(2) of Pub. L. 92–603 applicable to services performed after Dec. 31, 1972, seesection 129(b) of Pub. L. 92–603, set out as a note under section 410 of Title 42.
+Amendment by section 129(a)(2) of Pub. L. 92–603 applicable to services performed after Dec. 31, 1972, see section 129(b) of Pub. L. 92–603, set out as a note under section 410 of Title 42.
 
 Amendment by Pub. L. 92–336 applicable only with respect to remuneration paid after December 1972, see section 203(c) of Pub. L. 92–336, set out as a note under section 409 of Title 42.
 
@@ -1764,7 +1768,7 @@ Act Aug. 1, 1956, ch. 836, title II, §201(m), 70 Stat. 843, as amended by act O
 
 "(F) No interest or penalty shall be assessed or collected for failure to file a return within the time prescribed by law, if such failure arises solely by reason of an election made by an individual under subparagraph (B), or for any underpayment of the tax imposed by section 1401 of such Code arising solely by reason of such election, for the period ending with the date such individual makes an election under subparagraph (B).
 
-"(3) Any tax under chapter 2 of the Internal Revenue Code of 1986 \[section 1401 et seq. of this title\] which is due, solely by reason of the enactment of subsection (f) \[amending section 1402 of this title\], or paragraph (2) ofsubsection (e), of this section \[amending section 1402 of this title\], for any taxable year ending on or before the date of the enactment of this Act \[Aug. 1, 1956\] shall be considered timely paid if payment is made in full on or before the last day of the sixth calendar month following the month in which this Act is enacted. In no event shall interest be imposed on the amount of any tax due under such chapter solely by reason of the enactment of subsection (f), or paragraph (2) of subsection (e), of this section for any period before the day after the date of enactment of this Act.
+"(3) Any tax under chapter 2 of the Internal Revenue Code of 1986 \[section 1401 et seq. of this title\] which is due, solely by reason of the enactment of subsection (f) \[amending section 1402 of this title\], or paragraph (2) of subsection (e), of this section \[amending section 1402 of this title\], for any taxable year ending on or before the date of the enactment of this Act \[Aug. 1, 1956\] shall be considered timely paid if payment is made in full on or before the last day of the sixth calendar month following the month in which this Act is enacted. In no event shall interest be imposed on the amount of any tax due under such chapter solely by reason of the enactment of subsection (f), or paragraph (2) of subsection (e), of this section for any period before the day after the date of enactment of this Act.
 
 "(4) Any tax due under chapter 21 of the Internal Revenue Code of 1986 \[this chapter\] which is due, solely by reason of the enactment of subsection (d) \[amending this section\] and an effective date prescribed pursuant to paragraph (2)(B) or (2)(C) of section 104(i) \[set out as a note under section 410 of Title 42, The Public Health and Welfare\], for any calendar quarter beginning prior to the day on which the Secretary of Health, Education, and Welfare approves the plan which prescribes such effective date shall be considered timely paid if payment is made in full on or before the last day of the sixth calendar month following the month in which such plan is approved. In no event shall interest be imposed on the amount of any such tax due under such chapter for any period before the day on which the Secretary of Health, Education, and Welfare approves such plan."
 
@@ -1812,9 +1816,7 @@ Pub. L. 115–243, §2(c), Sept. 20, 2018, 132 Stat. 2895, provided that: "Nothi
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-Functions of Public Health Service, of Surgeon General of Public Health Service, and of all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
-
-Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508 of Title 20, Education.
 
 #### Subversive Activities Control Board
 
@@ -1823,10 +1825,6 @@ The Subversive Activities Control Board was established by act Sept. 23, 1950, c
 #### No Inference To Be Drawn From Amendment by Pub. L. 108–121
 
 No inference to be drawn from amendment to subsec. (a)(18) of this section by section 106 of Pub. L. 108–121 with respect to tax treatment of any amounts under program described in section 134(b)(4) of this title for any taxable year beginning before Jan. 1, 2003, see section 106(d) of Pub. L. 108–121, set out as a note under section 134 of this title.
-
-#### Line Item Veto
-
-Section 642(d)(2) of Pub. L. 105–61, amending this section, was subject to line item veto by the President, Cancellation No. 97–56, signed Oct. 16, 1997, 62 F.R. 54338, Oct. 17, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 #### Clarification of Standard To Be Used in Determining Employment Tax Status of Securities Brokers
 
@@ -1872,7 +1870,7 @@ For purposes of this chapter, the term "wages" shall not include the amount of a
 
 #### Nonenforcement of Amendment Made by Section 1151 of Pub. L. 99–514 for Fiscal Year 1990
 
-No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514 or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
+No monies appropriated by Pub. L. 101–136 to be used to implement or enforce section 1151 of Pub. L. 99–514or the amendments made by such section, see section 528 of Pub. L. 101–136, set out as a note under section 89 of this title.
 
 #### Treatment of Certain Family Services Care Providers
 
@@ -1912,7 +1910,7 @@ Report.—The Secretary of the Treasury shall report to the Senate Committee on 
 
 #### Certain Employer Pension Contributions Not Included in FICA Wage Base
 
-Pub. L. 100–647, title VIII, §8018, Nov. 10, 1988, 102 Stat. 3794, provided that: "In the case of any State (within the meaning of section 3121(e)(1) of the Internal Revenue Code of 1986) or political subdivision thereof which received a letter ruling of the Internal Revenue Service issued after December 31, 1983, and before the date of the enactment of this Act \[Nov. 10, 1988\] maintaining that any amount treated as an employer contribution under section 414(h)(2) of the Internal Revenue Code of 1986 is excluded from the definition of'wages' for purposes of tax liability under section 3121(v)(1)(B) of such Code, such State or political subdivision shall be relieved of any liability for taxes under such section 3121(v)(1)(B) which, in good faith reliance on such letter ruling, were not paid and which would otherwise have been required to be paid (but for this section) on or before the earlier of the date of the enactment of this Act or the date of the receipt of a notice of revocation from the Internal Revenue Service of such letter ruling."
+Pub. L. 100–647, title VIII, §8018, Nov. 10, 1988, 102 Stat. 3794, provided that: "In the case of any State (within the meaning of section 3121(e)(1) of the Internal Revenue Code of 1986) or political subdivision thereof which received a letter ruling of the Internal Revenue Service issued after December 31, 1983, and before the date of the enactment of this Act \[Nov. 10, 1988\] maintaining that any amount treated as an employer contribution under section 414(h)(2) of the Internal Revenue Code of 1986 is excluded from the definition of 'wages' for purposes of tax liability under section 3121(v)(1)(B) of such Code, such State or political subdivision shall be relieved of any liability for taxes under such section 3121(v)(1)(B) which, in good faith reliance on such letter ruling, were not paid and which would otherwise have been required to be paid (but for this section) on or before the earlier of the date of the enactment of this Act or the date of the receipt of a notice of revocation from the Internal Revenue Service of such letter ruling."
 
 #### Plan Amendments Not Required Until January 1, 1998
 
@@ -1936,7 +1934,7 @@ For purposes of subsec. (b)(5) of this section as in effect in January 1983 and 
 
 #### Refunds to Churches or Qualified Church-Controlled Organizations
 
-Pub. L. 98–369, div. B, title VI, §2603(f), July 18, 1984, 98 Stat. 1130, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In any case where a church or qualified church-controlled organization makes an election under section 3121(w) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Secretary of the Treasury shall refund (without interest) to such church or organization any taxes paid under sections 3101 and 3111 of such Code with respect to service performed after December 31, 1983, which is covered under such election. The refund shall be conditional upon the church or organization agreeing to pay to each employee (or former employee) the portion of the refund attributable to the tax imposed on such employee (or former employee) under section 3101, and such employee (or former employee) may not receive any other refund payment of such taxes."
+Pub. L. 98–369, div. B, title VI, §2603(f), July 18, 1984, 98 Stat. 1130, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "In any case where a church or qualified church-controlled organization makes an election under section 3121(w) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the Secretary of the Treasury shall refund (without interest) to such church or organization any taxes paid under sections 3101 and 3111 of such Code with respect to service performed after December 31, 1983, which is covered under such election. The refund shall be conditional upon the church or organization agreeing to pay to each employee (or former employee) the portion of therefund attributable to the tax imposed on such employee (or former employee) under section 3101, and such employee (or former employee) may not receive any other refund payment of such taxes."
 
 #### Social Security Coverage of Retired Federal Judges on Active Duty
 
@@ -1972,7 +1970,7 @@ Pub. L. 98–21, title I, §102(d), Apr. 20, 1983, 97 Stat. 71, as amended by Pu
 
 #### Payments Under State Temporary Disability Law To Be Treated as Remuneration for Service
 
-Pub. L. 97–123, §3(e), Dec. 29, 1981, 95 Stat. 1663, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat.2095, provided that: "For purposes of applying section 209 of the Social Security Act \[section 409 of Title 42, The Public Health and Welfare\], section 3121(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and section 3231(e) of such Code with respect to the parenthetical matter contained in section 209(b)(2) of the Social Security Act or section 3121(a)(2)(B) of the Internal Revenue Code of 1986, or with respect to section 3231(e)(4) of such Code (as the case may be), payments under a State temporary disability law shall be treated as remuneration for service."
+Pub. L. 97–123, §3(e), Dec. 29, 1981, 95 Stat. 1663, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of applying section 209 of the Social Security Act \[section 409 of Title 42, The Public Health and Welfare\], section 3121(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and section 3231(e) of such Code with respect to the parenthetical matter contained in section 209(b)(2) of the Social Security Act or section 3121(a)(2)(B) of the Internal Revenue Code of 1986, or with respect to section 3231(e)(4) of such Code (as the case may be), payments under a State temporary disability law shall be treated as remuneration for service."
 
 #### Waiver of Exemption From Social Security Taxes by Certain Organizations
 
@@ -2012,7 +2010,7 @@ Credit against tax.—Under regulations prescribed by the Secretary, there shall
 
 "(b)
 
-Treatment for Purposes of Social Security Act.—In the administration of titles II and XVIII of the Social Security Act \[42 U.S.C. 401 et seq. and 1395 et seq.\], any wages paid to any individual to which the provisions of subsection (a) apply shall be treated as wages (within the meaning of section 209 of such Act) \[42 U.S.C. 409\] for purposes of determining—
+Treatment for Purposes of Social Security Act.—In the administration of titles II and XVIII of the Social Security Act \[42 U.S.C. 401 et seq. and 1395 etseq.\], any wages paid to any individual to which the provisions of subsection (a) apply shall be treated as wages (within the meaning of section 209 of such Act) \[42 U.S.C. 409\] for purposes of determining—
 
 &emsp;"(1) entitlement to, or amount of, any insurance benefit payable to such individual or any other person on the basis of the wages and self-employment income of such individual, or
 
@@ -2044,7 +2042,7 @@ Pub. L. 95–216, title III, §312(c), Dec. 20, 1977, 91 Stat. 1533, as amended 
 
 &emsp;"(1) an individual performed service, as an employee of an organization which is deemed under section 3121(k)(4) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to have filed a waiver certificate under section 3121(k)(1) of such Code, on or after the first day of the applicable period described in subparagraph (A)(ii) of such section 3121(k)(4) and before July 1, 1977; and
 
-&emsp;"(2) the service so performed does not constitute employment (as defined in section 210(a) of the Social Security Act \[42 U.S.C. 410(a)\] and section 3121(b) of such Code) because the waiver certificate which the organization is deemed to have filed is made inapplicable to such service by section 3121(k)(4)(C) of suchCode, but would constitute employment (as so defined) in the absence of such section 3121(k)(4)(C),
+&emsp;"(2) the service so performed does not constitute employment (as defined in section 210(a) of the Social Security Act \[42 U.S.C. 410(a)\] and section 3121(b) of such Code) because the waiver certificate which the organization is deemed to have filed is made inapplicable to such service by section 3121(k)(4)(C) of such Code, but would constitute employment (as so defined) in the absence of such section 3121(k)(4)(C),
 
 > the remuneration paid for such service shall, upon the request of such individual (filed on or before April 15, 1980, in such manner and form, and with such official, as may be prescribed by regulations made under title II of the Social Security Act \[42 U.S.C. 401 et seq.\]) accompanied by full payment of all of the taxes which would have been paid under section 3101 of such Code with respect to such remuneration but for such section 3121(k)(4)(C) (or by satisfactory evidence that appropriate arrangements have been made for the payment of such taxes in installments as provided in section 3121(k)(8) of such Code), be deemed to constitute remuneration for employment as so defined. In any case where remuneration paid by an organization to an individual is deemed under the preceding sentence to constitute remuneration for employment, such organization shall be liable (notwithstanding any other provision of such Code) for payment of the taxes which it would have been required to pay under section 3111 of such Code with respect to such remuneration in the absence of such section 3121(k)(4)(C)."
 
@@ -2062,7 +2060,7 @@ Pub. L. 94–563, §3, Oct. 19, 1976, 90 Stat. 2658, as amended by Pub. L. 95–
 
 #### Service for Certain Tax-Exempt Organizations Prior to Filing of Waiver Certificate
 
-Pub. L. 86–778, title I, §105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, as amended by Pub. L. 89–97, title III, §316(c)(1), July 30, 1965, 79 Stat. 386; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+Pub. L. 86–778, title I, §105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944, as amended by Pub. L. 89–97, title III,§316(c)(1), July 30, 1965, 79 Stat. 386; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
 "(1) If—
 
@@ -2099,6 +2097,18 @@ Pub. L. 86–778, title I, §105(b)(1)–(5), Sept. 13, 1960, 74 Stat. 943, 944,
 #### Service for Certain Tax-Exempt Organizations Performed After 1950 and Prior to 1957
 
 Act Sept. 1, 1954, ch. 1206, title IV, §403, 68 Stat. 1098, as amended by acts Aug. 1, 1956, ch. 836, title IV, §401, 70 Stat. 855; Aug. 27, 1958, Pub. L. 85–785, §§1–3, 72 Stat. 938, provided that where an individual has been employed after 1950 and before Aug. 1, 1956, by an organization exempt from income tax under section 501(c)(3) of this title but which did not have in effect during the individual's period of employment a valid waiver certificate, or, which failed to have the individual's signature appear on the list of signatures of employees who concurred in the filing of such certificate, where one was in effect, and the service performed by the individual would have constituted employment for purposes of title II of the Social Security Act (42 U.S.C. 401 et seq.) had such requirements been met, then under certain conditions, the remuneration paid was to be deemed remuneration for employment for purposes of title II of the Social Security Act.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of Public Health Service, of Surgeon General of Public Health Service, and of all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by 1966 Reorg. Plan No. 3, 31 F.R. 8855, 80 Stat. 1610, effective June 25, 1966, set out in the Appendix to Title 5, Government Organization and Employees.
+
+Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, set out in the Appendix to Title 5, Government Organization and Employees. Commissioned Officer Corps of Environmental Science Services Administration changed to Commissioned Officer Corps of National Oceanic and Atmospheric Administration, see 1970 Reorg. Plan No. 4, §4(d), eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5.
+
+#### Line Item Veto
+
+Pub. L. 105–34, title IX, §968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set outas a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 <i><sup>1</sup></i><i> So in original.</i>
 

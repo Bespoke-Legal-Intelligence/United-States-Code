@@ -28,9 +28,13 @@ In addition to the acquisition of instrumentation and equipment, funds made avai
 
 (Pub. L. 110–69, title VII, §7036, Aug. 9, 2007, 121 Stat. 714.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

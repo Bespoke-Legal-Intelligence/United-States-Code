@@ -24,7 +24,7 @@ The Secretary shall conduct evaluation, dissemination, and technical assistance 
 
 #### (e) Submission and distribution
 
-The Secretary shall require applications for grants under this part to be submitted to theSecretary not later than the expiration of the 120-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 180-day period beginning on such date.
+The Secretary shall require applications for grants under this part to be submitted to the Secretary not later than the expiration of the 120-day period beginning on the date that funds are available for purposes of making such grants and shall make such grants not later than the expiration of the 180-day period beginning on such date.
 
 #### (f) Determination by Secretary
 
@@ -66,6 +66,8 @@ Not later than 4 years after December 10, 2015, the Secretary shall prepare and 
 
 (Pub. L. 100–77, title VII, §724, as added Pub. L. 107–110, title X, §1032, Jan. 8, 2002, 115 Stat. 2004; amended Pub. L. 114–95, title IX, §9104, Dec. 10, 2015, 129 Stat. 2136.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 That Act, referred to in subsec. (g)(1), is Pub. L. 114–95, Dec. 10, 2015, 129 Stat. 1802, known as The Every Student Succeeds Act. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 6301 of this title and Tables.
@@ -96,9 +98,11 @@ Subsec. (h)(1)(A). Pub. L. 114–95, §9104(6), substituted "primary nighttime r
 
 Subsec. (i). Pub. L. 114–95, §9104(7), substituted "December 10, 2015" for "January 8, 2002".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Educationand Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 

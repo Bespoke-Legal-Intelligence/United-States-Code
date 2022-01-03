@@ -18,7 +18,7 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;(5) a description of the nature of the information sought and the type of communications or activities to be subjected to the surveillance;
 
-&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President from among those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
+&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President fromamong those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
@@ -64,6 +64,8 @@ The judge may require the applicant to furnish such other information as may be 
 
 (Pub. L. 95–511, title I, §104, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 106–567, title VI, §602(a), Dec. 27, 2000, 114 Stat. 2851; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §108(a)(1), Mar. 9, 2006, 120 Stat. 203; Pub. L. 110–261, title I, §104, July 10, 2008, 122 Stat. 2460; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458, §1071(e). See 2004 Amendment note below.
@@ -76,7 +78,7 @@ Subsec. (a)(6). Pub. L. 110–261, §104(1)(B), (D), redesignated par. (7) as (6
 
 Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7) and substituted "summary statement of" for "statement of". Former par. (7) redesignated (6).
 
-Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows:"whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device." Former par. (8) redesignated (7).
+Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: "whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device." Former par. (8) redesignated (7).
 
 Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted "the Director of National Intelligence, or the Director of the Central Intelligence Agency" for "or the Director of National Intelligence", and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
@@ -88,6 +90,8 @@ Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–567 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
@@ -97,6 +101,8 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Designation of Certain Officials To Make Certifications
 

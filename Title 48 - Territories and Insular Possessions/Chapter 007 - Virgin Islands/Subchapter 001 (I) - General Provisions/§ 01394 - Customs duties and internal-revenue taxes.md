@@ -4,7 +4,9 @@ There shall be levied, collected, and paid upon all articles coming into the Uni
 
 (Mar. 3, 1917, ch. 171, §3, 39 Stat. 1133; Sept. 7, 1950, ch. 909, 64 Stat. 784.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1950</b>—Act Sept. 7, 1950, permitted free entry of articles into the United States from the Virgin Islands when such articles contain foreign materials which may be imported directly into the United States free of duty.
+<b>1950</b>—Act Sept. 7, 1950, permitted free entry of articles into the United States from the Virgin Islandswhen such articles contain foreign materials which may be imported directly into the United States free of duty.
 

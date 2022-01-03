@@ -22,7 +22,7 @@
 
 &emsp;(A) the individual's not having paid such deductible or copayment with respect to care or services furnished under this chapter shall not preclude recovery or collection under this section; and
 
-&emsp;(B) the amount that the United States may collect or recover under this section shall be reduced by the appropriate deductible or copayment amount, or both.
+&emsp;(B) the amount that the United States may collect or recover under this section shall bereduced by the appropriate deductible or copayment amount, or both.
 
 (b)(1) As to the right provided in subsection (a) of this section, the United States shall be subrogated to any right or claim that the individual (or the individual's personal representative, successor, dependents, or survivors) may have against a third party.
 
@@ -248,7 +248,7 @@ Pub. L. 97–72, title I, §106(b), Nov. 3, 1981, 95 Stat. 1051, provided that: 
 
 #### Healthcare Facilities Certified as Medicare and Medicaid Providers for Collection Purposes
 
-Pub. L. 107–206, title I, Aug. 2, 2002, 116 Stat. 888, provided in part: "That for the purposes of enabling the collection from third-party insurance carriers for non-service related medical care of veterans, all Department of Veterans Affairs healthcare facilities are hereby certified as Medicare and Medicaid providers and the Centers for Medicare and Medicaid Services within the Department of Health and Human Services shall issue each Department of Veterans Affairs healthcare facility a provider number as soon as practicable after the date of enactment of this Act \[Aug. 2, 2002\]: <i>Provided further</i>, That nothing in the preceding proviso shall be construed to enable the Department of Veterans Affairs to bill Medicare or Medicaid for any medical services provided by the Veterans Health Administration or to require the Centers for Medicare and Medicaid Servicesto pay for any medical services provided by the Department of Veterans Affairs".
+Pub. L. 107–206, title I, Aug. 2, 2002, 116 Stat. 888, provided in part: "That for the purposes of enabling the collection from third-party insurance carriers for non-service related medical care of veterans, all Department of Veterans Affairs healthcare facilities are hereby certified as Medicare and Medicaid providers and the Centers for Medicare and Medicaid Services within the Department of Health and Human Services shall issue each Department of Veterans Affairs healthcare facility a provider number as soon as practicable after the date of enactment of this Act \[Aug. 2, 2002\]: <i>Provided further</i>, That nothing in the preceding proviso shall be construed to enable the Department of Veterans Affairs to bill Medicare or Medicaid for any medical services provided by the Veterans Health Administration or to require the Centers for Medicare and Medicaid Services to pay for any medical services provided by the Department of Veterans Affairs".
 
 #### Disposition of Funds in and Termination of Department of Veterans Affairs Medical-Care Cost Recovery Fund
 

@@ -34,7 +34,7 @@ For purposes of subsection (a), a contract fails to meet the 7-pay test of this 
 
 #### (B) Reductions attributable to nonpayment of premiums
 
-&emsp;&emsp;Any reduction in benefits attributable to the nonpayment of premiums due under the contract shall not be taken into account under subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
+&emsp;&emsp;Any reduction in benefits attributable to the nonpayment of premiums due under thecontract shall not be taken into account under subparagraph (A) if the benefits are reinstated within 90 days after the reduction in such benefits.
 
 #### (3) Treatment of material changes
 
@@ -118,7 +118,9 @@ For purposes of this section—
 
 &emsp;Except as otherwise provided in this section, terms used in this section shall have the same meaning as when used in section 7702.
 
-(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239, title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
+(Added Pub. L. 100–647, title V, §5012(c)(1), Nov. 10, 1988, 102 Stat. 3662; amended Pub. L. 101–239,title VII, §§7647(a), 7815(a)(1), (4), Dec. 19, 1989, 103 Stat. 2382, 2414; Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(1), (2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645; Pub. L. 107–147, title IV, §416(f), Mar. 9, 2002, 116 Stat. 55.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -137,6 +139,8 @@ Subsec. (c)(3)(A)(ii). Pub. L. 106–554, §1(a)(7) \[title III, §318(a)(2)\], 
 Subsec. (c)(4). Pub. L. 101–239, §7815(a)(4), substituted "of $10,000 or less" for "under $10,000" in heading and "the same policyholder" for "the same insurer" in concluding provisions.
 
 Subsec. (c)(6). Pub. L. 101–239, §7647(a), added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

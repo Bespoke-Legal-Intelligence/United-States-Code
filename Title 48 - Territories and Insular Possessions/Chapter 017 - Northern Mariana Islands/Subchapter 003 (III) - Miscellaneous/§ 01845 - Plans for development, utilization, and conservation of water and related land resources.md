@@ -6,6 +6,8 @@
 
 (Pub. L. 98–213, §13, Dec. 8, 1983, 97 Stat. 1462.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.

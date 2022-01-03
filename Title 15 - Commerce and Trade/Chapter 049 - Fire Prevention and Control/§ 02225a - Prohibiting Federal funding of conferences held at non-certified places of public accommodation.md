@@ -30,9 +30,11 @@ No Federal funds may be used to sponsor or fund in whole or in part a meeting, c
 
 #### (d) Effective date
 
-The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day period that begins on the date of the publication in the Federal Register of the master list referred to in section 2224(b) of this title.
+The provisions of this section shall take effect on the first day of the first fiscal year that begins after the expiration of the 425-day periodthat begins on the date of the publication in the Federal Register of the master list referred to in section 2224(b) of this title.
 
 (Pub. L. 101–391, §6, Sept. 25, 1990, 104 Stat. 751.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

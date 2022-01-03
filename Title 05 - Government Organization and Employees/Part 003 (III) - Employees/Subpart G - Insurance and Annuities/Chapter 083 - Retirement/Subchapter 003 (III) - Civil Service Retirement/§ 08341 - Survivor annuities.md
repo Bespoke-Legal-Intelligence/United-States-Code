@@ -26,7 +26,7 @@
 
 > &emsp;For the purpose of this paragraph and subsection (e) of this section, a child whose 22nd birthday occurs before July 1 or after August 31 of a calendar year, and while he is regularly pursuing such a course of study or training, is deemed to have become 22 years of age on the first day of July after that birthday. A child who is a student is deemed not to have ceased to be a student during an interim between school years if the interim is not more than 5 months and if he shows to the satisfaction of the Office of Personnel Management that he has a bona fide intention of continuing to pursue a course of study or training in the same or different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
-(b)(1) Except as provided in paragraph (2) of this subsection, if an employee or Member dies after having retired under this subchapter and is survived by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent if retired before October 11, 1962) of an annuity computed under section 8339(a)–(i), (n), (p), (q), (r), and (s) as may apply with respect to the annuitant, or of such portion thereof as may have been designated for this purpose under section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not filean election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be.
+(b)(1) Except as provided in paragraph (2) of this subsection, if an employee or Member dies after having retired under this subchapter and is survived by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent if retired before October 11, 1962) of an annuity computed under section 8339(a)–(i), (n), (p), (q), (r), and (s) as may applywith respect to the annuitant, or of such portion thereof as may have been designated for this purpose under section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be.
 
 (2) If an annuitant—
 
@@ -100,7 +100,7 @@
 
 &emsp;(E) dies or marries;
 
-> whichever first occurs. On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paidas though the spouse, former spouse, or child had not survived the employee or Member.
+> whichever first occurs. On the death of the surviving spouse or former spouse or termination of the annuity of a child, the annuity of any other child or children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the employee or Member.
 
 (4) If the annuity of a child under this subchapter terminates under paragraph (3)(E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if—
 

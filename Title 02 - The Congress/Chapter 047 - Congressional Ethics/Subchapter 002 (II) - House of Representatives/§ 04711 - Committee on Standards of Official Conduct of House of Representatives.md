@@ -26,7 +26,7 @@ The Committee on Standards of Official Conduct shall adopt rules providing—
 
 &emsp;(2) that, if an investigative subcommittee by majority vote of its membership adopts a statement of alleged violation, the remaining members of the committee shall comprise an adjudicatory subcommittee to hold a disciplinary hearing on the violation alleged in the statement;
 
-&emsp;(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearing or meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee's final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
+&emsp;(3) that any statement of alleged violation and any written response thereto shall be made public at the first meeting or hearing on the matter which is open to the public after the respondent has been given full opportunity to respond to the statement in accordance with committee rules, but, if no public hearingor meeting is held on the matter, the statement of alleged violation and any written response thereto shall be included in the committee's final report to the House of Representatives as required by clause 4(e)(1)(B) of rule X <sup>1</sup> of the Rules of the House of Representatives;
 
 &emsp;(4) that a quorum for an adjudicatory subcommittee for the purpose of taking testimony and conducting any business shall consist of a majority of the membership of the subcommittee plus one; and
 
@@ -80,7 +80,7 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Acceptance of Gifts; Amendments to Advisory Opinions
 
-Pub. L. 101–194, title VIII, §801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: "The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed notin connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives."
+Pub. L. 101–194, title VIII, §801(e), Nov. 30, 1989, 103 Stat. 1772, provided that: "The Committee on Standards of Official Conduct \[now Committee on Ethics\] of the House of Representatives shall amend its advisory opinions relating to the acceptance of gifts (1) to prohibit lodging received as personal hospitality in excess of 30 days in any calendar year from any individual unless a written waiver is granted by the committee and (2) to exempt gifts of food and beverages consumed not in connection with gifts of lodging from coverage under clause 4 of rule XLIII \[now clause 4 of rule XXIII\] of the Rules of the House of Representatives."
 
 #### Noncampaign Use of Campaign Vehicles
 

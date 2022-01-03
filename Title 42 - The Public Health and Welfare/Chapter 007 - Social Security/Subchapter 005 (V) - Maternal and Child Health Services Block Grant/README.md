@@ -1,5 +1,7 @@
 ### SUBCHAPTER V—MATERNAL AND CHILD HEALTH SERVICES BLOCK GRANT
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818, substituted "MATERNAL AND CHILD HEALTH SERVICES BLOCK GRANT" for "MATERNAL AND CHILD HEALTH AND CRIPPLED CHILDREN'S SERVICES" as the heading of title V of the Social Security Act \[42 U.S.C. 701 et seq.\] as part of the general revision of this subchapter.
@@ -23,6 +25,7 @@ Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818, substituted 
 - [&sect; 00709 - Administration of Federal and State programs](%C2%A7%2000709%20-%20Administration%20of%20Federal%20and%20State%20programs.md)
 - [&sect; 00710 - Sexual risk avoidance education](%C2%A7%2000710%20-%20Sexual%20risk%20avoidance%20education.md)
 - [&sect; 00711 - Maternal, infant, and early childhood home visiting programs](%C2%A7%2000711%20-%20Maternal%2C%20infant%2C%20and%20early%20childhood%20home%20visiting%20programs.md)
+- [&sect; 00711a - Emergency assistance to families through home visiting programs](%C2%A7%2000711a%20-%20Emergency%20assistance%20to%20families%20through%20home%20visiting%20programs.md)
 - [&sect; 00712 - Services to individuals with a postpartum condition and their families](%C2%A7%2000712%20-%20Services%20to%20individuals%20with%20a%20postpartum%20condition%20and%20their%20families.md)
 - [&sect; 00713 - Personal responsibility education](%C2%A7%2000713%20-%20Personal%20responsibility%20education.md)
 - [&sect; 00714 to 716 - Omitted](%C2%A7%2000714%20to%20716%20-%20Omitted.md)

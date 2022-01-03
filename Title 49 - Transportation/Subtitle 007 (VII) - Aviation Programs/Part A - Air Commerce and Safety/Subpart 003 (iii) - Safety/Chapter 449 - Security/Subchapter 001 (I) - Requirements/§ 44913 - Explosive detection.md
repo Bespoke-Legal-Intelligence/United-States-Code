@@ -48,6 +48,8 @@ In subsection (a), the words "after November 16, 1990" are omitted as executed. 
 
 In subsection (b), the words "but not be limited to" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1991(d)(11)(A)(iv), substituted "Administrator" for "Under Secretary" wherever appearing.
@@ -70,9 +72,11 @@ Subsec. (a)(2) to (4). Pub. L. 107–71, §101(f)(7), substituted "Under Secreta
 
 Subsec. (a)(3), (4). Pub. L. 104–264 added par. (3) and redesignated former par. (3) as (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Improved Explosive Detection Systems
 

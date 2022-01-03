@@ -32,7 +32,7 @@ First mortgage.—The term "first mortgage" means such classes of first liens as
 
 #### (c) Insurance authority
 
-The Secretary may, upon application by a mortgagee, insure any home equity conversion mortgage eligible for insurance under this section and, upon such terms and conditions as the Secretary may prescribe, make commitments for the insurance of such mortgages prior to the date of their execution or disbursement to the extent that the Secretary determines such mortgages—
+The Secretary may, upon application by a mortgagee, insure any home equity conversion mortgage eligible for insurance under this section and, upon such terms and conditions as theSecretary may prescribe, make commitments for the insurance of such mortgages prior to the date of their execution or disbursement to the extent that the Secretary determines such mortgages—
 
 &emsp;(1) have promise for improving the financial situation or otherwise meeting the special needs of elderly homeowners;
 
@@ -58,7 +58,7 @@ To be eligible for insurance under this section, a mortgage shall—
 
 &emsp;&emsp;&emsp;(iii) the sale of annuities, investments, long-term care insurance, or any other type of financial or insurance product;
 
-&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage andwhich are not required to obtain the mortgage; and
+&emsp;&emsp;(C) has received full disclosure, as prescribed by the Secretary, of all costs charged to the mortgagor, including costs of estate planning, financial advice, and other services that are related to the mortgage but are not required to obtain the mortgage, which disclosure shall clearly state which charges are required to obtain the mortgage and which are not required to obtain the mortgage; and
 
 &emsp;&emsp;(D) meets any additional requirements prescribed by the Secretary;
 
@@ -106,7 +106,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
-&emsp;(4) prior to loan closing, a statement of the projected total cost of the mortgage to the homeowner based on the projected total future loan balance (such cost expressed as a single average annual interest rate for at least 2 different appreciation rates for the term of the mortgage) for not less than 2 projected loan terms, as the Secretary shall determine, which shall include—
+&emsp;(4) prior to loan closing, a statement of the projected total cost of the mortgage to the homeowner based on the projected total futureloan balance (such cost expressed as a single average annual interest rate for at least 2 different appreciation rates for the term of the mortgage) for not less than 2 projected loan terms, as the Secretary shall determine, which shall include—
 
 &emsp;&emsp;(A) the cost for a short-term mortgage; and
 
@@ -172,7 +172,7 @@ The Secretary may not insure a home equity conversion mortgage under this sectio
 
 #### (1) In general
 
-&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection any mortgage given to refinance an existing home equity conversion mortgage insured under this section.
+&emsp;The Secretary may, upon application by a mortgagee, insure under this subsection anymortgage given to refinance an existing home equity conversion mortgage insured under this section.
 
 #### (2) Anti-churning disclosure
 
@@ -240,7 +240,7 @@ The Secretary may use a portion of the mortgage insurance premiums collected und
 
 #### (o) Prohibition against requirements to purchase additional products
 
-The mortgagor or any other party shall not be required by the mortgagee or any other party to purchase an insurance, annuity, or other similar product as a requirement or condition of eligibility for insurance under subsection (c), except for title insurance, hazard, flood, or other peril insurance, or other such products that are customary and normal under subsection (c), as determined by the Secretary.
+The mortgagor or any other party shall not be required by the mortgagee or any other party topurchase an insurance, annuity, or other similar product as a requirement or condition of eligibility for insurance under subsection (c), except for title insurance, hazard, flood, or other peril insurance, or other such products that are customary and normal under subsection (c), as determined by the Secretary.
 
 #### (p) Study to determine consumer protections and underwriting standards
 

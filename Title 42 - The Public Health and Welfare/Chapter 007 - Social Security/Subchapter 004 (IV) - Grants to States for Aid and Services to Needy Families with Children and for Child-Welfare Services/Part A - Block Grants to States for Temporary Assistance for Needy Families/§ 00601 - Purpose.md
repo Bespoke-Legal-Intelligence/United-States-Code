@@ -8,7 +8,7 @@ The purpose of this part is to increase the flexibility of States in operating a
 
 &emsp;(2) end the dependence of needy parents on government benefits by promoting job preparation, work, and marriage;
 
-&emsp;(3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annualnumerical goals for preventing and reducing the incidence of these pregnancies; and
+&emsp;(3) prevent and reduce the incidence of out-of-wedlock pregnancies and establish annual numerical goals for preventing and reducing the incidence of these pregnancies; and
 
 &emsp;(4) encourage the formation and maintenance of two-parent families.
 
@@ -18,6 +18,8 @@ This part shall not be interpreted to entitle any individual or family to assist
 
 (Aug. 14, 1935, ch. 531, title IV, §401, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 601, acts Aug. 14, 1935, ch. 531, title IV, §401, 49 Stat. 627; 1946 Reorg. Plan No. 2, §4, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 1, 1956, ch. 836, title III, §312(a), 70 Stat. 848; July 25, 1962, Pub. L. 87–543, title I, §104(a)(4), (c)(2), 76 Stat. 185, 186; Jan. 2, 1968, Pub. L. 90–248, title II, §241(b)(1), 81 Stat. 916, related to authorization of appropriations for Aid to Families With Dependent Children program prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
@@ -25,6 +27,8 @@ A prior section 601, acts Aug. 14, 1935, ch. 531, title IV, §401, 49 Stat. 627;
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33 made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -108,7 +112,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;"(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[42 U.S.C. 603(b)\] (as amended by section103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[42 U.S.C. 602(a)\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+&emsp;&emsp;&emsp;"(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[42 U.S.C. 603(b)\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[42 U.S.C. 602(a)\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
 
 &emsp;&emsp;&emsp;"(bb) the sum of the State family assistance grant, multiplied by 1/365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
 
@@ -266,7 +270,7 @@ Pub. L. 104–193, title I, §101, Aug. 22, 1996, 110 Stat. 2110, provided that:
 
 &emsp;"(10) Therefore, in light of this demonstration of the crisis in our Nation, it is the sense of the Congress that prevention of out-of-wedlock pregnancy and reduction in out-of-wedlock birth are very important Government interests and the policy contained in part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] (as amended by section 103(a) of this Act) is intended to address the crisis."
 
-\[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance programestablished under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.\]
+\[References to the food stamp program established under the Food and Nutrition Act of 2008 considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.\]
 
 #### Appropriation by State Legislatures
 

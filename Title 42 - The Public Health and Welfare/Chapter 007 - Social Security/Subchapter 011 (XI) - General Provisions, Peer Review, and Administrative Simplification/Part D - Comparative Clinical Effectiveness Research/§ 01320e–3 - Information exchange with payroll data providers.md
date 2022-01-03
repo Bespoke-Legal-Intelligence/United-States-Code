@@ -40,6 +40,8 @@ For purposes of this section:
 
 (Aug. 14, 1935, ch. 531, title XI, §1184, as added Pub. L. 114–74, title VIII, §824(a), Nov. 2, 2015, 129 Stat. 607.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective one year after Nov. 2, 2015, see section 824(e) of Pub. L. 114–74, set out as an Effective Date of 2015 Amendment note under section 425 of this title.

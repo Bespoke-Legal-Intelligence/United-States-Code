@@ -2,7 +2,7 @@
 
 #### (a) Required disclosure before disbursement
 
-Each eligible lender, at or prior to the time such lender disburses a loan that is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), shall provide thorough and accurate loan information on such loan to the borrower in simple and understandable terms. Any disclosure required by this subsection may be made by an eligible lender by written or electronic means, including as part of the application material provided to the borrower, as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. Each lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure shall include—
+Each eligible lender, at or prior to the time such lender disburses a loan that is insured or guaranteed under this part (other than a loan made under section 1078–3 of this title), shall provide thorough and accurate loan information on such loan to the borrower in simple and understandable terms. Any disclosure required bythis subsection may be made by an eligible lender by written or electronic means, including as part of the application material provided to the borrower, as part of the promissory note evidencing the loan, or on a separate written form provided to the borrower. Each lender shall provide to each borrower a telephone number, and may provide an electronic address, through which additional loan information can be obtained. The disclosure shall include—
 
 &emsp;(1) a statement prominently and clearly displayed and in bold print that the borrower is receiving a loan that must be repaid;
 
@@ -204,13 +204,15 @@ Loans made under sections 1078–2 and 1078–8 of this title shall not be subje
 
 (Pub. L. 89–329, title IV, §433, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1406; amended Pub. L. 100–50, §10(z), June 3, 1987, 101 Stat. 346; Pub. L. 102–325, title IV, §426, July 23, 1992, 106 Stat. 548; Pub. L. 103–208, §2(c)(53), (54), (k)(4), Dec. 20, 1993, 107 Stat. 2468, 2485; Pub. L. 105–244, title IV, §428, Oct. 7, 1998, 112 Stat. 1704; Pub. L. 110–315, title IV, §434(a), Aug. 14, 2008, 122 Stat. 3247.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (f)(3), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 #### Prior Provisions
 
-A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct.16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct. 16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -228,7 +230,7 @@ Pub. L. 103–208, §2(c)(54), substituted "sections" for "section" before "1078
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325, §426(a), added par. (1) and redesignated former pars. (1) to (13) as (2) to (14), respectively.
 
-Subsec. (b). Pub. L. 102–325, §426(b)(1), in introductory provisions, inserted second sentence and struck out former second sentence which read as follows: "Any disclosure required by this subsection may be made by an eligible lender either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower."
+Subsec. (b). Pub. L. 102–325, §426(b)(1), in introductory provisions, inserted second sentence and struck outformer second sentence which read as follows: "Any disclosure required by this subsection may be made by an eligible lender either in a promissory note evidencing the loan or loans or in a written statement provided to the borrower."
 
 Subsec. (b)(8). Pub. L. 102–325, §426(b)(2), inserted "except as provided in subsection (e) of this section," before "the projected".
 
@@ -241,6 +243,8 @@ Subsec. (a)(8). Pub. L. 100–50, §10(z)(2), added par. (8) and struck out form
 Subsec. (b)(7). Pub. L. 100–50, §10(z)(3), inserted ", except that such explanation is not required when the loan being made is a consolidation loan under section 1078–3 of this title" before semicolon at end.
 
 Subsec. (d). Pub. L. 100–50, §10(z)(4), substituted "notifies a borrower of approval of a loan" for "makes the first disbursement of a loan with respect to a borrower".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

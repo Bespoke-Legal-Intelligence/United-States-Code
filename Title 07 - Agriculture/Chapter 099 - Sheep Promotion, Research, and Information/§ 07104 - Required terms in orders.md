@@ -57,7 +57,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 | Oregon | 2&nbsp;&nbsp;&nbsp; |
 | Pennsylvania | 1&nbsp;&nbsp;&nbsp; |
 | Rhode Island | 1&nbsp;&nbsp;&nbsp; |
-| South Carolina | 1&nbsp;&nbsp;&nbsp; |
+| South Carolina | 1    |
 | South Dakota | 4&nbsp;&nbsp;&nbsp; |
 | Tennessee | 1&nbsp;&nbsp;&nbsp; |
 | Texas | 10&nbsp;&nbsp;&nbsp; |
@@ -205,7 +205,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall provide that the Board shall review budgets submitted by the ExecutiveCommittee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
+&emsp;The order shall provide that the Board shall review budgets submitted by the Executive Committee, on a fiscal year basis, of anticipated expenses and disbursements by the Board, including probable costs of administration and promotion, research, consumer information, education, industry information, and producer information projects. On approval by the Board, the Board shall submit the budget to the Secretary for the approval of the Secretary.
 
 #### (2) Limitation
 
@@ -239,7 +239,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (B) Budgets
 
-&emsp;&emsp;The Executive Committee shall be responsible for developing and submitting to the Board, for the approval of the Board, budgets, on a fiscal year basis, of the anticipated expenses and disbursements of the Board, including probable costs of promotion, research, consumer information, education, industry information, and producer information projects. The Board shall approve or disapprove a budget submitted by the Executive Committee, and, if approved, shall submit the budget to the Secretary for the approval of the Secretary.
+&emsp;&emsp;The Executive Committee shall be responsible for developing and submitting to the Board, for the approval of the Board, budgets, on a fiscal year basis, of the anticipatedexpenses and disbursements of the Board, including probable costs of promotion, research, consumer information, education, industry information, and producer information projects. The Board shall approve or disapprove a budget submitted by the Executive Committee, and, if approved, shall submit the budget to the Secretary for the approval of the Secretary.
 
 #### (4) Terms
 
@@ -303,7 +303,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that each person making payment to a producer, feeder, orhandler of wool for wool purchased from the producer, feeder, or handler shall, in the manner prescribed by the order, collect an assessment on each pound of greasy wool sold.
+&emsp;&emsp;The order shall provide that each person making payment to a producer, feeder, or handler of wool for wool purchased from the producer, feeder, or handler shall, in the manner prescribed by the order, collect an assessment on each pound of greasy wool sold.
 
 #### (B) Processing
 
@@ -339,7 +339,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (A) In general
 
-&emsp;&emsp;The order shall provide that any person importing sheep or sheep product, and any person importing wool or products containing wool, into the United States shall pay an assessment to the Board in the manner prescribed by the order, except that this paragraph shall not apply to raw wool that is imported into the United States.
+&emsp;&emsp;The order shall provide that any person importing sheep or sheep product, and any person importing wool or products containing wool, into the United States shall pay an assessment to the Board in the manner prescribed by the order, except that thisparagraph shall not apply to raw wool that is imported into the United States.
 
 #### (B) Collection
 
@@ -443,7 +443,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;&emsp;(A) the development and recommendation to the Secretary of amendments to the order; or
 
-&emsp;&emsp;(B) the communication to appropriate government officials, in response to a request made by the officials, of information relating to the conduct, implementation, or results of promotion, research, consumer information, education, industry information, or producer information activities under the order.
+&emsp;&emsp;(B) the communication to appropriate government officials, in response to a request made by the officials, of information relating to the conduct, implementation, or results of promotion, research, consumer information, education, industry information,or producer information activities under the order.
 
 #### (3) False or misleading claims
 
@@ -495,7 +495,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (E) Penalty
 
-&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, andif the person is an officer or employee of the Board or the Department, shall be removed from office.
+&emsp;&emsp;Any person who willfully violates this paragraph, on conviction, shall be subject to a fine of not more than $1,000 or to imprisonment for not more than 1 year, or both, and if the person is an officer or employee of the Board or the Department, shall be removed from office.
 
 #### (n) Other terms and conditions
 

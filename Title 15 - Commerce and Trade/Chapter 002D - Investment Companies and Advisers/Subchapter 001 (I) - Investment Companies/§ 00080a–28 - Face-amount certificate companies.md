@@ -2,7 +2,7 @@
 
 #### (a) Issuance or sale of certificates
 
-It shall be unlawful for any registered face-amount certificate company to issue or sell any face-amount certificate, or to collect or accept any payment on any such certificate issued by such company on or after the effective date of this subchapter, unless—
+It shall be unlawful for any registered face-amount certificate company to issue or sell any face-amount certificate, or to collect or acceptany payment on any such certificate issued by such company on or after the effective date of this subchapter, unless—
 
 &emsp;(1) such company, if organized before March 15, 1940, was actively and continuously engaged in selling face-amount certificates on and before that date, and has outstanding capital stock worth upon a fair valuation of assets not less than $50,000; or if organized on or after March 15, 1940, has capital stock in an amount not less than $250,000 which has been bona fide subscribed and paid for in cash; and
 
@@ -12,7 +12,7 @@ It shall be unlawful for any registered face-amount certificate company to issue
 
 &emsp;&emsp;(B) if the foregoing minimum percentages of the gross annual payments required under the provisions of such certificate should produce reserve payments larger than are necessary at 3½ per centum per annum compounded annually to provide the minimum maturity or face amount of the certificate when due, the reserve shall be based upon reserve payments accumulated as provided under preceding subparagraph (A) of this paragraph except that in lieu of the 3½ per centum rate specified therein, such rate shall be lowered to the minimum rate, expressed in multiples of one-eighth of 1 per centum, which will accumulate such reserve payments to the maturity value when due;
 
-&emsp;&emsp;(C) if the actual annual gross payment to be made by the certificate holder on any certificate issued prior to or after the effective date of this chapter is less than the amount of any assumed reserve payment or payments for a certificate year, such companyshall maintain as a part of such minimum certificate reserves a deficiency reserve equal to the total present value of future deficiencies in the gross payments, calculated at a rate not to exceed 3½ per centum per annum compounded annually;
+&emsp;&emsp;(C) if the actual annual gross payment to be made by the certificate holder on any certificate issued prior to or after the effective date of this chapter is less than the amount of any assumed reserve payment or payments for a certificate year, such company shall maintain as a part of such minimum certificate reserves a deficiency reserve equal to the total present value of future deficiencies in the gross payments, calculated at a rate not to exceed 3½ per centum per annum compounded annually;
 
 &emsp;&emsp;(D) for each certificate of the installment type the amount of the reserve shall at any time be at least equal to (1) the then amount of the reserve payments set up under subparagraphs (A) or (B) of this paragraph; (2) the accumulations on such reserve payments as computed under subparagraphs (A) or (B) of this paragraph; (3) the amount of any deficiency reserve required under subparagraph (C) of this paragraph; and (4) such amount as shall have been credited to the account of each certificate holder in the form of any credit, or any dividend, or any interest in addition to the minimum maturity amount specified in such certificate, plus any accumulations on any amount or amounts so credited, at a rate not exceeding 3½ per centum per annum compounded annually;
 
@@ -62,13 +62,13 @@ It shall be unlawful for any registered face-amount certificate company to issue
 
 #### (f) Optional right to paid up certificate in lieu of cash surrender value
 
-It shall be unlawful for any registered face-amount certificate company to issue or sell any face-amount certificate, or to collect or accept any payment on any such certificate issued by such company on or after the effective date of this subchapter, (1) unless such face-amount certificate contains a provision or provisions to the effect that the holder shall have an optional right to receive a paid-up certificate in lieu of the then attained cash surrender value provided therein and in the amount of such value plus accumulations thereon at a rate to be specified inthe paid-up certificate equal to that used in computing the reserve on the original certificate under subparagraph (A) or (B) of paragraph (2) of subsection (a) of this section, such paid-up certificate to become due and payable at the end of a period equal to the balance of the term of such original certificate before maturity; and during the period prior to maturity such paid-up certificate shall have a cash value upon surrender thereof equal to the then amount of the reserve therefor; and (2) unless such face-amount certificate contains a further provision or provisions to the effect that if the holder be in continuous default in his payments on such certificate for a period of six months without having exercised his option to receive a paid-up certificate, as herein provided, the company at the expiration of such six months shall pay the surrender value in cash if such value is less than $100 or if such value is $100 or more shall issue such paid-up certificate to such holder and such payment or issuance, plus the payment of all other amounts to which he may be then entitled under the original certificate, shall operate to cancel his original certificate: <i>Provided</i>, That in lieu of the issuance of a new paid-up certificate the original certificate may be converted into a paid-up certificate with the same effect; and (3) unless, where such certificate provides, in the event of default, for the deferment of payments thereon by the holder or of the due dates of such payments or of the maturity date of the certificate, it shall also provide in effect for the right of reinstatement by the holder of the certificate after default and for an option in the holder, at the time of reinstatement, to make up the payment or payments for the default period next preceding such reinstatement with interest thereon not exceeding 6 per centum per annum, with the same effect as if no such default in making such payments had occurred.
+It shall be unlawful for any registered face-amount certificate company to issue or sell any face-amount certificate, or to collect or accept any payment on any such certificate issued by such company on or after the effective date of this subchapter, (1) unless such face-amount certificate contains a provision or provisions to the effect that the holder shall have an optional right to receive a paid-up certificate in lieu of the then attained cash surrender value provided therein and in the amount of such value plus accumulations thereon at a rate to be specified in the paid-up certificate equal to that used in computing the reserve on the original certificate under subparagraph (A) or (B) of paragraph (2) of subsection (a) of this section, such paid-up certificate to become due and payable at the end of a period equal to the balance of the term of such original certificate before maturity; and during the period prior to maturity such paid-up certificate shall have a cash value upon surrender thereof equal to the then amount of the reserve therefor; and (2) unless such face-amount certificate contains a further provision or provisions to the effect that if the holder be in continuous default in his payments on such certificate for a period of six months without having exercised his option to receive a paid-up certificate, as herein provided, the company at the expiration of such six months shall pay the surrender value in cash if such value is less than $100 or if such value is $100 or more shall issue such paid-up certificate to such holder and such payment or issuance, plus the payment of all other amounts to which he may be then entitled under the original certificate, shall operate to cancel his original certificate: <i>Provided</i>, That in lieu of the issuance of a new paid-up certificate the original certificate may be converted into a paid-up certificate with the same effect; and (3) unless, where such certificate provides, in the event of default, for the deferment of payments thereon by the holder or of the due dates of such payments or of the maturity date of the certificate, it shall also provide in effect for the right of reinstatement by the holder of the certificate after default and for an option in the holder, at the time of reinstatement, to make up the payment or payments for the default period next preceding such reinstatement with interest thereon not exceeding 6 per centum per annum, with the same effect as if no such default in making such payments had occurred.
 
 The term "default" as used in this subsection shall, without restricting its usual meaning, include a failure to make a payment or payments as and when provided by the certificate.
 
 #### (g) Application of section to company issuing certificates only to holders of previously issued certificates
 
-The foregoing provisions of this section shall not apply to a face-amount certificate company which on or before the effective date of this chapter has discontinued the offering of face-amount certificates to the public and issues face-amount certificates only to the holders of certificates previously issued pursuant to an obligation expressed or implied in such certificates.
+The foregoing provisions of this section shall not apply to a face-amount certificate company which on or before the effective date of this chapter has discontinued the offering of face-amount certificates to the public and issues face-amount certificates only to the holders ofcertificates previously issued pursuant to an obligation expressed or implied in such certificates.
 
 #### (h) Declaration or payment of dividends
 
@@ -84,13 +84,15 @@ The foregoing provisions of this section shall apply to all face-amount certific
 
 (Aug. 22, 1940, ch. 686, title I, §28, 54 Stat. 829; Pub. L. 91–547, §17, Dec. 14, 1970, 84 Stat. 1426; Pub. L. 100–181, title VI, §§620, 621, Dec. 4, 1987, 101 Stat. 1262.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of this subchapter, referred to in subsecs. (a), (b), (d), (e), and (f), see section 80a–52 of this title.
 
 For the effective date of this chapter, referred to in subsecs. (a)(2)(C), (g), and (h), see sections 80a–52 and 80b–21 of this title.
 
-For the effective date of this subsection, referred to in subsec. (i), as the day upon expiration of 6 months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+For the effective date of this subsection, referred to in subsec. (i), as the day upon expiration of 6 monthsafter Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
 #### Amendments
 
@@ -100,9 +102,13 @@ Subsec. (d)(2). Pub. L. 100–181, §621, inserted "of" before "subsection (a)".
 
 <b>1970</b>—Subsec. (i). Pub. L. 91–547 added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective on expiration of six months after Dec. 14, 1970, see section 30(3) of Pub. L. 91–547, set out as a note under section 80a–2 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

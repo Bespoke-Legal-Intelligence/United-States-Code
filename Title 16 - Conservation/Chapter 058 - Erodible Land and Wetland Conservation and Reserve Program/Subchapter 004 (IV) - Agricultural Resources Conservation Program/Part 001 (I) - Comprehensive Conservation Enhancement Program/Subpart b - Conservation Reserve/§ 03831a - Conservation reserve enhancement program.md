@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Management
 
-&emsp;The term "management" means an activity conducted by an owner or operator under a contract entered into under this subpart after the establishment of a conservation practiceon eligible land, to regularly maintain or enhance the vegetative cover established by the conservation practice—
+&emsp;The term "management" means an activity conducted by an owner or operator under a contract entered into under this subpart after the establishment of a conservation practice on eligible land, to regularly maintain or enhance the vegetative cover established by the conservation practice—
 
 &emsp;&emsp;(A) throughout the term of the contract; and
 
@@ -76,7 +76,7 @@ In this section:
 
 #### (B) Modification of existing agreements
 
-&emsp;&emsp;To implement this section, the signatories to an agreement under this subsection may mutually agree to a modification of an agreement entered into before December 20, 2018, under the Conservation Reserve Enhancement Program established by the Secretary under this subpart.
+&emsp;&emsp;To implement this section, the signatories to an agreement under this subsection may mutually agree to a modification of anagreement entered into before December 20, 2018, under the Conservation Reserve Enhancement Program established by the Secretary under this subpart.
 
 #### (c) Payments
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (1) Food-producing woody plants
 
-&emsp;In the case of an agreement under subsection (b)(1) that includes forested riparian buffers asan eligible practice, the Secretary shall allow an owner or operator—
+&emsp;In the case of an agreement under subsection (b)(1) that includes forested riparian buffers as an eligible practice, the Secretary shall allow an owner or operator—
 
 &emsp;&emsp;(A) to plant food-producing woody plants in the forested riparian buffers, on the conditions that—
 
@@ -160,9 +160,13 @@ Not later than 180 days after the end of each fiscal year, the Secretary shall s
 
 (Pub. L. 99–198, title XII, §1231A, as added Pub. L. 115–334, title II, §2202(a), Dec. 20, 2018, 132 Stat. 4534.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3831a, Pub. L. 99–198, title XII, §1231A, as added and amended Pub. L. 110–234, title II, §2106(b), May 22, 2008, 122 Stat. 1032, and Pub. L. 110–246, §4(a), title II, §2106(b), June 18, 2008, 122 Stat. 1664, 1760, related to emergency forestry conservation reserve program, prior to repeal by Pub. L. 113–79, title II, §2702(a), Feb. 7, 2014, 128 Stat. 766.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeal of Former Section 3831a; Transitional Provisions
 

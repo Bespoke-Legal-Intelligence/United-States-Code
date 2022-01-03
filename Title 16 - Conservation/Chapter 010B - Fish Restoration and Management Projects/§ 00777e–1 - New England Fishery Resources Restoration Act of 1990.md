@@ -16,7 +16,7 @@ The purposes of this section are to—
 
 #### (c) Implementation of fishery resource restoration plans
 
-The Director of the United States Fish and Wildlife Service, hereinafter referred to as the Director, in consultation with the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration shall formulate, establish and implement programs to restore and maintain nationally significant,interjurisdictional fishery resources originating in New England river systems, including the Connecticut, Thames, Pawcatuck, Merrimack, Saco, Androscoggin, Kennebec, Sheepscot, Duck Trap, St. George, Penobscot, Union, Narraguagus, Pleasant, Machias, Dennys, St. Croix, Meduxnekeag and Aroostock and their tributaries. These programs shall be in accordance with the schedule and responsibilities established in comprehensive basin-wide restoration plans prepared by the Director in cooperation with State, local, and other entities involved and interested in the conservation and management of the affected fishery resources. Preparation and periodic revision of restoration plans, and their implementation, shall be based on a Memorandum of Agreement for each restoration program which shall be entered into by the Director and cooperating entities. The Director shall prepare and submit to the House Committee on Merchant Marine and Fisheries and the Senate Committee on Environment and Public Works an annual report documenting activities undertaken and accomplishments achieved in fulfillment of this section, including an assessment of the prognosis for restoration of each of the stocks and species involved.
+The Director of the United States Fish and Wildlife Service, hereinafter referred to as the Director, in consultation with the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration shall formulate, establish and implement programs to restore and maintain nationally significant, interjurisdictional fishery resources originating in New England river systems, including the Connecticut, Thames, Pawcatuck, Merrimack, Saco, Androscoggin, Kennebec, Sheepscot, Duck Trap, St. George, Penobscot, Union, Narraguagus, Pleasant, Machias, Dennys, St. Croix, Meduxnekeag and Aroostock and their tributaries. These programs shall be in accordance with the schedule and responsibilities established in comprehensive basin-wide restoration plans prepared by the Director in cooperation with State, local, and other entities involved and interested in the conservation and management of the affected fishery resources. Preparation and periodic revision of restoration plans, and their implementation, shall be based on a Memorandum of Agreement for each restoration program which shall be entered into by the Director and cooperating entities. The Director shall prepare and submit to the House Committee on Merchant Marine and Fisheries and the Senate Committee on Environment and Public Works an annual report documenting activities undertaken and accomplishments achieved in fulfillment of this section, including an assessment of the prognosis for restoration of each of the stocks and species involved.
 
 #### (d) Fish passage study
 
@@ -44,6 +44,8 @@ There are authorized to be appropriated to the Director—
 
 (Pub. L. 101–593, title I, §111, Nov. 16, 1990, 104 Stat. 2960.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This section, referred to in subsec. (b), was in the original "this Act", which probably was intended as a reference to New England Fishery Resources Restoration Act of 1990, section 111 of Pub. L. 101–593, title I, Nov. 16, 1990, 104 Stat. 2960, which is classified generally to this section.
@@ -51,6 +53,8 @@ This section, referred to in subsec. (b), was in the original "this Act", which 
 #### Codification
 
 Section was enacted as the New England Fishery Resources Restoration Act of 1990, and not as part of the Fish Restoration and Management Projects Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

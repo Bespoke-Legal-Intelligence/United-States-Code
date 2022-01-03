@@ -40,7 +40,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 &emsp;&emsp;(i) contain such terms and conditions as are required under section 670i(b) of this title;
 
-&emsp;&emsp;(ii) require the maintenance of accurate records and the filing of annual reports by the State agency to the Secretary of the Interior or the Secretary of Agriculture, or both, as the case may be, setting forth the amount and disposition of the fees collected for such stamps; and
+&emsp;&emsp;(ii) require the maintenance of accurate records and the filing of annual reports by the State agency to the Secretary of the Interior or the Secretary of Agriculture, orboth, as the case may be, setting forth the amount and disposition of the fees collected for such stamps; and
 
 &emsp;&emsp;(iii) authorize the Secretary concerned and the Comptroller General of the United States, or their authorized representatives, to have access to such records for purposes of audit and examination; and
 
@@ -58,6 +58,8 @@ Agreements entered into by State agencies under the authority of this section sh
 
 (Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 112–81, div. A, title III, §312(b)(8), Dec. 31, 2011, 125 Stat. 1354.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (c)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
@@ -71,6 +73,8 @@ In subsec. (d), "chapter 63 of title 31" substituted for "the Federal Grant and 
 <b>2011</b>—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) to (d).
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–396 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

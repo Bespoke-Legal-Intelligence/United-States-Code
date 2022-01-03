@@ -140,7 +140,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
-Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, §1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, §889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
+Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, titleXIV, §1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, §889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
 
 #### Termination of Reporting Requirements
 
@@ -260,7 +260,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;"(15) Section 304(d) of the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1992 (49 U.S.C. 47508 note).
 
-&emsp;"(16) Section 2367(c) of title 10, United States Code.
+&emsp;"(16) Section 2367(c) of title 10, United States Code \[now 10 U.S.C. 4126(c)\].
 
 &emsp;"(17) Section 303(c)(7) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(c)(7)) \[see 41 U.S.C. 3304(a)(7)\].
 
@@ -270,7 +270,7 @@ Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, as amended by Pub. L. 110�
 
 &emsp;"(20) Section 11(e)(6) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710(e)(6)).
 
-&emsp;"(21) Section 2304(c)(7) of title 10, United States Code, but only to the extent of its application to the National Aeronautics and Space Administration.
+&emsp;"(21) Section 2304(c)(7) of title 10, United States Code \[now 10 U.S.C. 3204(a)(7)\], but only to the extent of its application to the National Aeronautics and Space Administration.
 
 &emsp;"(22) Section 4(j)(1) of the National Science Foundation Act of 1950 (42 U.S.C. 1863(j)(1)).
 
@@ -838,7 +838,7 @@ Pub. L. 103–356, title III, §301, Oct. 13, 1994, 108 Stat. 3412, provided tha
 
 "(a)
 
-Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlines that shall provide for more efficient workload distribution or improve the quality of reports.
+Purpose.—The purpose of this title is to improve the efficiency of executive branch performance in implementing statutory requirements for reports to Congress and committees of Congress such as the elimination or consolidation of duplicative or obsolete reporting requirements and adjustments to deadlinesthat shall provide for more efficient workload distribution or improve the quality of reports.
 
 "(b)
 

@@ -148,7 +148,7 @@ Limitations on Subcontracting.—(1)(A) The requirements applicable to a covered
 
 (B) For purposes of applying the requirements of section 46 of the Small Business Act (15 U.S.C. 657s) pursuant to subparagraph (A), the term "similarly situated entity" used in such section 46 includes a subcontractor for a small business concern owned and controlled by veterans described in such subparagraph (A).
 
-(2) The Secretary may award a contract under this section only after the Secretary obtainsfrom the offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—
+(2) The Secretary may award a contract under this section only after the Secretary obtains from the offeror a certification that the offeror will comply with the requirements described in paragraph (1)(A) if awarded the contract. Such certification shall—
 
 &emsp;(A) specify the exact performance requirements applicable under such paragraph; and
 
@@ -212,7 +212,7 @@ Definitions.—In this section:
 
 <i>(f)</i>
 
-<i>Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small</i><i>business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.</i>
+<i>Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.</i>
 
 <i>(2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under section 552a of title 5, United States Code, (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.</i>
 
@@ -282,7 +282,7 @@ Subsec. (f)(5). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (6) as 
 
 Subsec. (f)(6). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (8) as (6). Former par. (6) redesignated (5).
 
-Subsec. (f)(6)(A). Pub. L. 116–283, §862(b)(1)(B)(viii)(I), substituted "certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)" for "verify the status of the concern as a small business concern or theownership or control of the concern", "certification" for "verification", and "the Administration (as established under section 5(i))" for "the Small Business Administration (as established under section 5(i) of the Small Business Act)".
+Subsec. (f)(6)(A). Pub. L. 116–283, §862(b)(1)(B)(viii)(I), substituted "certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section)" for "verify the status of the concern as a small business concern or the ownership or control of the concern", "certification" for "verification", and "the Administration (as established under section 5(i))" for "the Small Business Administration (as established under section 5(i) of the Small Business Act)".
 
 Subsec. (f)(6)(B)(i). Pub. L. 116–283, §862(b)(1)(B)(viii)(II)(aa), substituted "small business concern owned and controlled by service-disabled veterans" for "small business concern owned and controlled by veterans with service-connected disabilities" and struck out "of the Small Business Administration" after "Hearings and Appeals".
 
@@ -298,13 +298,9 @@ Subsec. (f)(8). Pub. L. 116–283, §862(b)(1)(B)(vi), redesignated par. (8) as 
 
 Subsec. (k). Pub. L. 116–283, §862(b)(1)(D), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Pub. L. 116–183, §2(a)(2), added subsec. (k). Former subsec. (k) redesignated (l).
-
 Subsec. (k)(3)(A). Pub. L. 116–315 substituted "or any other" for "and any other".
 
 Subsec. (l). Pub. L. 116–283, §862(b)(1)(C), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
-
-Pub. L. 116–183, §2(a)(1), redesignated subsec. (k) as (l).
 
 Subsec. (m). Pub. L. 116–283, §862(b)(1)(E), added par. (1) and redesigated pars. (1) to (3) as (2) to (4), respectively.
 

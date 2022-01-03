@@ -30,7 +30,7 @@ Not later than one year after February 24, 2016, the Secretary shall submit to t
 
 #### (d) Number defined
 
-In this section, the term "number", with respect to an importer of record, means a filingidentification number described in section 24.5 of title 19, Code of Federal Regulations (or any corresponding similar regulation) that fully supports the requirements of subsection (b) with respect to the collection and maintenance of information.
+In this section, the term "number", with respect to an importer of record, means a filing identification number described in section 24.5 of title 19, Code of Federal Regulations (or any corresponding similar regulation) that fully supports the requirements of subsection (b) with respect to the collection and maintenance of information.
 
 (Pub. L. 114–125, title I, §114, Feb. 24, 2016, 130 Stat. 142.)
 

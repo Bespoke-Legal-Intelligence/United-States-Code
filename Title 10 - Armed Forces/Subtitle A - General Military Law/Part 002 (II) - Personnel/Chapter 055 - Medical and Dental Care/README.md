@@ -10,6 +10,7 @@
 | [1073c.](%C2%A7%2001073c%20-%20Administration%20of%20Defense%20Health%20Agency%20and%20military%20medical%20treatment%20facilities.md) | Administration of Defense Health Agency and military medical treatment facilities. |
 | [1073d.](%C2%A7%2001073d%20-%20Military%20medical%20treatment%20facilities.md) | Military medical treatment facilities. |
 | [1073e.](%C2%A7%2001073e%20-%20Protection%20of%20armed%20forces%20from%20infectious%20diseases.md) | Protection of armed forces from infectious diseases. |
+| [1073f.](%C2%A7%2001073f%20-%20Health%20care%20fraud%20and%20abuse%20prevention%20program.md) | Health care fraud and abuse prevention program. |
 | [1074\.](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md) | Medical and dental care for members and certain former members. |
 | [1074a.](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md) | Medical and dental care: members on duty other than active duty for a period of more than 30 days. |
 | [1074b.](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md) | Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC. |
@@ -85,21 +86,30 @@
 | [1102\.](%C2%A7%2001102%20-%20Confidentiality%20of%20medical%20quality%20assurance%20records%20qualified%20immunity%20for%20participants.md) | Confidentiality of medical quality assurance records: qualified immunity for participants. |
 | [1103\.](%C2%A7%2001103%20-%20Contracts%20for%20medical%20and%20dental%20care%20State%20and%20local%20preemption.md) | Contracts for medical and dental care: State and local preemption. |
 | [1104\.](%C2%A7%2001104%20-%20Sharing%20of%20health-care%20resources%20with%20the%20Department%20of%20Veterans%20Affairs.md) | Sharing of health-care resources with the Department of Veterans Affairs. |
+| [1104a.](%C2%A7%2001104a%20-%20Shared%20medical%20facilities%20with%20Department%20of%20Veterans%20Affairs.md) | Shared medical facilities with Department of Veterans Affairs. |
 | [1105\.](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md) | Specialized treatment facility program. |
 | [1106\.](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md) | Submittal of claims: standard form; time limits. |
 | [1107\.](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md) | Notice of use of an investigational new drug or a drug unapproved for its applied use. |
 | [1107a.](%C2%A7%2001107a%20-%20Emergency%20use%20products.md) | Emergency use products. |
 | [1108\.](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md) | Health care coverage through Federal Employees Health Benefits program: demonstration project. |
 | [1109\.](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md) | Organ and tissue donor program. |
-| [1110\.](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md) | Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions. |
+| [1110\.](%C2%A7%2001110%20-%20System%20for%20tracking%20and%20recording%20vaccine%20information%3B%20anthrax%20vaccine%20immunization%20program.md) | System for tracking and recording vaccine information; anthrax vaccine immunization program. |
 | [1110a.](%C2%A7%2001110a%20-%20Notification%20of%20certain%20individuals%20regarding%20options%20for%20enrollment%20under%20Medicare%20part%20B.md) | Notification of certain individuals regarding options for enrollment under Medicare part B. |
 | [1110b.](%C2%A7%2001110b%20-%20TRICARE%20program%20extension%20of%20dependent%20coverage.md) | TRICARE program: extension of dependent coverage. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 117–81, div. A, title VII, §701(c)(2), (d), Dec. 27, 2021, 135 Stat. 1779, provided that, effective Oct. 1, 2022, this analysis is amended by striking item 1090a and inserting new items 1090a "Identifying and treating eating disorders" and 1090b "Commanding officer and supervisor referrals of members for mental health evaluations". See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
+<b>2021</b>—Pub. L. 117–81, div. A, title VII, §§701(c)(2), 713(b), 714(a)(2), 716(c), Dec. 27, 2021, 135 Stat. 1779, 1784, 1786, 1789, added items 1073f, 1090a, 1090b, 1104a, and 1110 and struck out former items 1090a "Commanding officer and supervisor referrals of members for mental health evaluations" and 1110 "Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions".
+
+Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VII, §702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system".
 
@@ -139,7 +149,7 @@ Pub. L. 108–106, title I, §1115(b), Nov. 6, 2003, 117 Stat. 1218, added item 
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VII, §§706(a)(2), 728(a)(2), 751(b)(2), 758(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–175, 1654A–189, 1654A–194, 1654A–200, added items 1074h, 1074i, 1095f, and 1110.
 
-<b>1999</b>—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5,1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a "Dependents' dental program" and 1076b "Selected Reserve dental insurance".
+<b>1999</b>—Pub. L. 106–65, div. A, title VII, §§701(a)(2), 711(b), 713(a)(2), 714(b), 715(a)(2), 716(a)(2), 722(b), Oct. 5, 1999, 113 Stat. 680, 687, 689–691, 695, added items 1073a, 1074g, 1076a, 1095c, 1095d, 1095e, and 1097b and struck out former items 1076a "Dependents' dental program" and 1076b "Selected Reserve dental insurance".
 
 <b>1998</b>—Pub. L. 105–261, div. A, title VII, §§711(b), 712(a)(2), 721(a)(2), 734(b)(2), 741(b)(2), Oct. 17, 1998, 112 Stat. 2058, 2059, 2065, 2073, 2074, added items 1094a, 1095b, 1097a, 1108, and 1109.
 
@@ -202,6 +212,7 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01073c - Administration of Defense Health Agency and military medical treatment facilities](%C2%A7%2001073c%20-%20Administration%20of%20Defense%20Health%20Agency%20and%20military%20medical%20treatment%20facilities.md)
 - [&sect; 01073d - Military medical treatment facilities](%C2%A7%2001073d%20-%20Military%20medical%20treatment%20facilities.md)
 - [&sect; 01073e - Protection of armed forces from infectious diseases](%C2%A7%2001073e%20-%20Protection%20of%20armed%20forces%20from%20infectious%20diseases.md)
+- [&sect; 01073f - Health care fraud and abuse prevention program](%C2%A7%2001073f%20-%20Health%20care%20fraud%20and%20abuse%20prevention%20program.md)
 - [&sect; 01074 - Medical and dental care for members and certain former members](%C2%A7%2001074%20-%20Medical%20and%20dental%20care%20for%20members%20and%20certain%20former%20members.md)
 - [&sect; 01074a - Medical and dental care members on duty other than active duty for a period of more than 30 days](%C2%A7%2001074a%20-%20Medical%20and%20dental%20care%20members%20on%20duty%20other%20than%20active%20duty%20for%20a%20period%20of%20more%20than%2030%20days.md)
 - [&sect; 01074b - Medical and dental care Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC](%C2%A7%2001074b%20-%20Medical%20and%20dental%20care%20Academy%20cadets%20and%20midshipmen%3B%20members%20of%2C%20and%20designated%20applicants%20for%20membership%20in%2C%20Senior%20ROTC.md)
@@ -277,12 +288,13 @@ Pub. L. 99–272, title II, §2001(a)(2), Apr. 7, 1986, 100 Stat. 101, added ite
 - [&sect; 01102 - Confidentiality of medical quality assurance records qualified immunity for participants](%C2%A7%2001102%20-%20Confidentiality%20of%20medical%20quality%20assurance%20records%20qualified%20immunity%20for%20participants.md)
 - [&sect; 01103 - Contracts for medical and dental care State and local preemption](%C2%A7%2001103%20-%20Contracts%20for%20medical%20and%20dental%20care%20State%20and%20local%20preemption.md)
 - [&sect; 01104 - Sharing of health-care resources with the Department of Veterans Affairs](%C2%A7%2001104%20-%20Sharing%20of%20health-care%20resources%20with%20the%20Department%20of%20Veterans%20Affairs.md)
+- [&sect; 01104a - Shared medical facilities with Department of Veterans Affairs](%C2%A7%2001104a%20-%20Shared%20medical%20facilities%20with%20Department%20of%20Veterans%20Affairs.md)
 - [&sect; 01105 - Specialized treatment facility program](%C2%A7%2001105%20-%20Specialized%20treatment%20facility%20program.md)
 - [&sect; 01106 - Submittal of claims standard form; time limits](%C2%A7%2001106%20-%20Submittal%20of%20claims%20standard%20form%3B%20time%20limits.md)
 - [&sect; 01107 - Notice of use of an investigational new drug or a drug unapproved for its applied use](%C2%A7%2001107%20-%20Notice%20of%20use%20of%20an%20investigational%20new%20drug%20or%20a%20drug%20unapproved%20for%20its%20applied%20use.md)
 - [&sect; 01107a - Emergency use products](%C2%A7%2001107a%20-%20Emergency%20use%20products.md)
 - [&sect; 01108 - Health care coverage through Federal Employees Health Benefits program demonstration project](%C2%A7%2001108%20-%20Health%20care%20coverage%20through%20Federal%20Employees%20Health%20Benefits%20program%20demonstration%20project.md)
 - [&sect; 01109 - Organ and tissue donor program](%C2%A7%2001109%20-%20Organ%20and%20tissue%20donor%20program.md)
-- [&sect; 01110 - Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions](%C2%A7%2001110%20-%20Anthrax%20vaccine%20immunization%20program%3B%20procedures%20for%20exemptions%20and%20monitoring%20reactions.md)
+- [&sect; 01110 - System for tracking and recording vaccine information; anthrax vaccine immunization program](%C2%A7%2001110%20-%20System%20for%20tracking%20and%20recording%20vaccine%20information%3B%20anthrax%20vaccine%20immunization%20program.md)
 - [&sect; 01110a - Notification of certain individuals regarding options for enrollment under Medicare part B](%C2%A7%2001110a%20-%20Notification%20of%20certain%20individuals%20regarding%20options%20for%20enrollment%20under%20Medicare%20part%20B.md)
 - [&sect; 01110b - TRICARE program extension of dependent coverage](%C2%A7%2001110b%20-%20TRICARE%20program%20extension%20of%20dependent%20coverage.md)

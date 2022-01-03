@@ -24,7 +24,7 @@ The Secretary of Health and Human Services (referred to in this part as the "Sec
 
 #### (3) Exception
 
-&emsp;Notwithstanding the provisions of paragraph (2)(D), the Secretary may reduce local contributions to not less than 25 percent of the amount of the line of credit requested by thecommunity development corporation if the Secretary determines such to be appropriate in accordance with section 12186 of this title.
+&emsp;Notwithstanding the provisions of paragraph (2)(D), the Secretary may reduce local contributions to not less than 25 percent of the amount of the line of credit requested by the community development corporation if the Secretary determines such to be appropriate in accordance with section 12186 of this title.
 
 (Pub. L. 103–322, title III, §31112, Sept. 13, 1994, 108 Stat. 1882.)
 

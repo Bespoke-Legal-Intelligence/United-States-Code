@@ -36,6 +36,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title III, §383(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–86; amended Pub. L. 107–107, div. A, title X, §1048(a)(30), Dec. 28, 2001, 115 Stat. 1225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (e)(1). Pub. L. 107–107 substituted "40102(a)(2)" for "40101(a)(2)".

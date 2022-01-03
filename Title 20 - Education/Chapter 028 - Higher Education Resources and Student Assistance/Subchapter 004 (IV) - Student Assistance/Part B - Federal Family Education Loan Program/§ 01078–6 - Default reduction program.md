@@ -66,7 +66,7 @@
 
 #### (4) Applicability of general loan conditions
 
-&emsp;A loan that is sold or assigned under paragraph (1) shall, so long as the borrower continues to make scheduled repayments thereon, be subject to the same terms and conditions and qualify for the same benefits and privileges as other loans made under this part.
+&emsp;A loan that is sold or assigned under paragraph (1) shall, so long as the borrower continues to make scheduled repayments thereon,be subject to the same terms and conditions and qualify for the same benefits and privileges as other loans made under this part.
 
 #### (5) Limitation
 
@@ -81,6 +81,8 @@ Each guaranty agency shall establish a program which allows a borrower with a de
 Each program described in subsection (b) shall include making available financial and economic education materials for a borrower who has rehabilitated a loan.
 
 (Pub. L. 89–329, title IV, §428F, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1394; amended Pub. L. 100–50, §10(u), June 3, 1987, 101 Stat. 346; Pub. L. 101–239, title II, §2005(a), Dec. 19, 1989, 103 Stat. 2116; Pub. L. 102–325, title IV, §420, July 23, 1992, 106 Stat. 534; Pub. L. 103–208, §2(c)(38)–(40), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §421, Oct. 7, 1998, 112 Stat. 1696; Pub. L. 109–171, title VIII, §8014(h), Feb. 8, 2006, 120 Stat. 171; Pub. L. 110–315, title IV, §426, Aug. 14, 2008, 122 Stat. 3235; Pub. L. 111–39, title IV, §402(d)(1), July 1, 2009, 123 Stat. 1941; Pub. L. 113–67, div. A, title V, §501, Dec. 26, 2013, 127 Stat. 1186.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -139,6 +141,8 @@ Subsec. (b). Pub. L. 102–325, §420(4), added subsec. (b). Former subsec. (b) 
 <b>1989</b>—Pub. L. 101–239 amended section generally, substituting provisions relating to default reduction program for former provisions relating to rehabilitation of defaulted loans.
 
 <b>1987</b>—Subsecs. (b), (c). Pub. L. 100–50 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: "The loans which shall be eligible for rehabilitation under this section shall be only those loans which are made to borrowers who, at the time of default on the loan, are unemployed or institutionalized."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

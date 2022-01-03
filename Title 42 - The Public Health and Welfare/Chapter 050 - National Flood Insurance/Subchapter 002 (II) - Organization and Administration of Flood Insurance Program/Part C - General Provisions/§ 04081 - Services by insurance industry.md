@@ -22,6 +22,8 @@ The Administrator may secure reinsurance of coverage provided by the flood insur
 
 (Pub. L. 90–448, title XIII, §1345, Aug. 1, 1968, 82 Stat. 585; Pub. L. 97–35, title III, §341(e), Aug. 13, 1981, 95 Stat. 419; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 103–325, title V, §574, Sept. 23, 1994, 108 Stat. 2278; Pub. L. 112–141, div. F, title II, §§100238(b)(1), 100245, July 6, 2012, 126 Stat. 958, 966; Pub. L. 113–89, §10, Mar. 21, 2014, 128 Stat. 1025.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 112–141, §100245, added subsec. (d).
 <b>1983</b>—Subsec. (a). Pub. L. 98–181 substituted "Director" for "Secretary".
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 
@@ -132,7 +136,7 @@ GAO authority.—In conducting the study and report required under paragraph (1)
 
 &emsp;&emsp;"(B) shall determine if—
 
-&emsp;&emsp;&emsp;"(i) the final rule issued pursuant to subsection (d) allows the Federal Emergency Management Agency to access adequate information regarding the actual expenses of property and casualty insurance companies participating in the Write Your Own program; and
+&emsp;&emsp;&emsp;"(i) the final rule issued pursuant to subsection (d) allows the Federal Emergency ManagementAgency to access adequate information regarding the actual expenses of property and casualty insurance companies participating in the Write Your Own program; and
 
 &emsp;&emsp;&emsp;"(ii) the actual reimbursements paid out under the final rule issued pursuant to subsection (d) accurately reflect the expenses reported by property and casualty insurance companies participating in the Write Your Own program, including the standard business costs and operating expenses of such companies; and
 

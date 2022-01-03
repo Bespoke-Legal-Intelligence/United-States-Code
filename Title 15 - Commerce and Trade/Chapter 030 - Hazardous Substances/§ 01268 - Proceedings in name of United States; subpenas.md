@@ -4,6 +4,8 @@ All criminal proceedings and all libel or injunction proceedings for the enforce
 
 (Pub. L. 86–613, §9, July 12, 1960, 74 Stat. 378.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Functions of Secretary of Health, Education, and Welfare under this chapter transferred to Consumer Product Safety Commission, see section 2079 of this title.

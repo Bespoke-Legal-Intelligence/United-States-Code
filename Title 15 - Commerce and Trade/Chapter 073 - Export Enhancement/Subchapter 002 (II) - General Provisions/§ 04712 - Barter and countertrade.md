@@ -52,6 +52,8 @@
 
 (Pub. L. 100–418, title II, §2205, Aug. 23, 1988, 102 Stat. 1332.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Composition of Interagency Group
 
 For composition of Interagency Group on Countertrade, see section 2–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.

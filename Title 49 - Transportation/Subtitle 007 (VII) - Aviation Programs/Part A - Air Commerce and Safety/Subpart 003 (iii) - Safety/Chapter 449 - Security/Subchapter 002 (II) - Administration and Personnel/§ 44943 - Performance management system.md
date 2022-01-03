@@ -18,9 +18,11 @@ Goals.—Each year, the Administrator of the Transportation Security Administrat
 
 (c)
 
-Performance-Based Service Contracting.—To the extent contracts, if any, are used to implement the Aviation and Transportation Security Act (Public Law 107–71; 115 Stat. 597), the Administrator of the Transportation Security Administration shall, to the extent practical, maximize the use of performance-based service contracts. These contracts shouldbe consistent with guidelines published by the Office of Federal Procurement Policy.
+Performance-Based Service Contracting.—To the extent contracts, if any, are used to implement the Aviation and Transportation Security Act (Public Law 107–71; 115 Stat. 597), the Administrator of the Transportation Security Administration shall, to the extent practical, maximize the use of performance-based service contracts. These contracts should be consistent with guidelines published by the Office of Federal Procurement Policy.
 
 (Added Pub. L. 107–71, title I, §130, Nov. 19, 2001, 115 Stat. 634; amended Pub. L. 115–254, div. K, title I, §1991(d)(34), Oct. 5, 2018, 132 Stat. 3640.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

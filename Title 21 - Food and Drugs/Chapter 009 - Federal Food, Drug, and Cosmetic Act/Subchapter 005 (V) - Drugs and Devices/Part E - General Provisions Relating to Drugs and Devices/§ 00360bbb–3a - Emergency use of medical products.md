@@ -50,7 +50,7 @@ In this section:
 
 #### (3) Effect
 
-&emsp;Notwithstanding any other provision of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated or misbranded under this chapter because, with respect to such product, the Secretary has, under paragraph (1), extended the expiration date and authorized the introduction or delivery for introduction into interstate commerce of such product after the expiration date provided by the manufacturer.
+&emsp;Notwithstanding any other provision of this chapter or the Public Health Service Act \[42 U.S.C. 201 et seq.\], an eligible product shall not be considered an unapproved product (as defined in section 360bbb–3(a)(2)(A) of this title) and shall not be deemed adulterated ormisbranded under this chapter because, with respect to such product, the Secretary has, under paragraph (1), extended the expiration date and authorized the introduction or delivery for introduction into interstate commerce of such product after the expiration date provided by the manufacturer.
 
 #### (4) Expiration date
 
@@ -82,7 +82,7 @@ The requirements of subsections (b) and (f) of section 353, section 354, and sec
 
 #### (1) In general
 
-&emsp;The Secretary, acting through an appropriate official within the Department ofHealth and Human Services, may create and issue emergency use instructions to inform health care providers or individuals to whom an eligible product is to be administered concerning such product's approved, licensed, or cleared conditions of use.
+&emsp;The Secretary, acting through an appropriate official within the Department of Health and Human Services, may create and issue emergency use instructions to inform health care providers or individuals to whom an eligible product is to be administered concerning such product's approved, licensed, or cleared conditions of use.
 
 #### (2) Effect
 

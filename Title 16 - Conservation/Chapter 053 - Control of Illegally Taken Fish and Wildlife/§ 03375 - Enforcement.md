@@ -14,9 +14,11 @@ The several district courts of the United States, including the courts enumerate
 
 #### (d) Rewards and certain incidental expenses
 
-Beginning in fiscal year 1983, the Secretary or the Secretary of the Treasury shall pay, from sums received as penalties, fines, or forfeitures of property for any violation of this chapter or any regulation issued hereunder (1) a reward to any person who furnishes information which leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of property for any violation of this chapter or any regulation issued hereunder, and (2) the reasonable and necessary costs incurred by any person in providing temporary care for any fish, wildlife, or plant pending the disposition of any civil or criminalproceeding alleging a violation of this chapter with respect to that fish, wildlife, or plant. The amount of the reward, if any, is to be designated by the Secretary or the Secretary of the Treasury, as appropriate. Any officer or employee of the United States or any State or local government who furnishes information or renders service in the performance of his official duties is ineligible for payment under this subsection.
+Beginning in fiscal year 1983, the Secretary or the Secretary of the Treasury shall pay, from sums received as penalties, fines, or forfeitures of property for any violation of this chapter or any regulation issued hereunder (1) a reward to any person who furnishes information which leads to an arrest, a criminal conviction, civil penalty assessment, or forfeiture of property for any violation of this chapter or any regulation issued hereunder, and (2) the reasonable and necessary costs incurred by any person in providing temporary care for any fish, wildlife, or plant pending the disposition of any civil or criminal proceeding alleging a violation of this chapterwith respect to that fish, wildlife, or plant. The amount of the reward, if any, is to be designated by the Secretary or the Secretary of the Treasury, as appropriate. Any officer or employee of the United States or any State or local government who furnishes information or renders service in the performance of his official duties is ineligible for payment under this subsection.
 
 (Pub. L. 97–79, §6, Nov. 16, 1981, 95 Stat. 1077; Pub. L. 98–327, §4, June 25, 1984, 98 Stat. 271; Pub. L. 100–653, title I, §104, Nov. 14, 1988, 102 Stat. 3826; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 <b>1988</b>—Subsec. (b). Pub. L. 100–653 substituted "may, when enforcing this chapter, make an arrest without a warrant, in accordance with any guidelines which may be issued by the Attorney General, for any offense under the laws of the United States committed in the person's presence, or for the commission of any felony under the laws of the United States, if the person has reasonable grounds to believe that the person to be arrested has committed or is committing a felony; may search and seize, with or without a warrant, in accordance with any guidelines which may be issued by the Attorney General;" for "may make an arrest without a warrant for any felony violation of this chapter if he has reasonable grounds to believe that the person to be arrested has committed or is committing such violation:".
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–327, in first sentence, substituted a comma for "a reward" after "shall pay", inserted "(1) a reward" before "to any person", and added cl. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

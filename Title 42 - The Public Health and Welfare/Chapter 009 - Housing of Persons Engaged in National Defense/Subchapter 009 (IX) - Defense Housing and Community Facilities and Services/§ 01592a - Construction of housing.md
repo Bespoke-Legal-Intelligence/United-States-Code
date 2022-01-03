@@ -10,9 +10,11 @@ Where it is necessary to provide housing under this subchapter in locations wher
 
 #### (c) Preference in admission to occupancy pending ultimate disposition
 
-When the Secretary of Housing and Urban Development determines that any housing provided under this subchapter is no longer required for persons engaged in national defense activities, preference in admission to occupancy thereof shall be given to veterans pending its ultimate sale or disposition in accordance with the provisions of this subchapter. As among veterans, preference in admission to occupancy shall be given to disabled veterans whose disability has been determined by the Secretary of Veterans Affairs to be service-connected.
+When the Secretary of Housing and Urban Development determines that any housing provided under this subchapter is no longer required for persons engaged in national defenseactivities, preference in admission to occupancy thereof shall be given to veterans pending its ultimate sale or disposition in accordance with the provisions of this subchapter. As among veterans, preference in admission to occupancy shall be given to disabled veterans whose disability has been determined by the Secretary of Veterans Affairs to be service-connected.
 
 (Sept. 1, 1951, ch. 378, title III, §302, 65 Stat. 303; July 14, 1952, ch. 723, §5, 66 Stat. 602; Aug. 2, 1954, ch. 649, title VIII, §806, 68 Stat. 645; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669; Pub. L. 102–54, §13(q)(7)(A), June 13, 1991, 105 Stat. 281.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -25,6 +27,8 @@ In subsec. (b), "chapters 1 to 11 of title 40 and division C (except sections 33
 <b>1954</b>—Subsec. (b). Act Aug. 2, 1954, in second sentence, substituted provisions prescribing the disposition procedure, for former provisions that the housing should "be disposed of by the Administrator not later than the date, and subject to the conditions and requirements, hereafter prescribed by the Congress: <i>Provided</i>, That nothing in this sentence shall be construed as prohibiting the Administrator from removing any such housing by demolition or otherwise prior to the enactment of such legislation".
 
 <b>1952</b>—Subsec. (b). Act July 14, 1952, inserted "or existing housing built or acquired by the United States under authority of any other law" after "for reuse at other locations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

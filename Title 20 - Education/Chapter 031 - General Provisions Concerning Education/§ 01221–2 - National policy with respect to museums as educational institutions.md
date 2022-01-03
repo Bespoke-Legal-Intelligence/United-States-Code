@@ -12,9 +12,13 @@ The Congress, recognizing—
 
 (Pub. L. 93–380, title VIII, §803, Aug. 21, 1974, 88 Stat. 597.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of Education Amendments of 1974, and not as part of General Education Provisions Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

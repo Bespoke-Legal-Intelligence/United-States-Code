@@ -40,7 +40,7 @@ Reimbursement or Payment for Health Care Services or Transportation.—(1) Pursu
 
 (3) In this subsection, the term "covered entity" means any individual, transportation carrier, organization, or other entity that furnished or paid for health care services or transportation under this section.
 
-(Added Pub. L. 111–163, title II, §206(a), May 5, 2010, 124 Stat. 1145; amended Pub. L. 116–283, div. H, title XCI, §9102, Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title III, §3006(a), Jan. 5, 2021, 134 Stat. 4994.)
+(Added Pub. L. 111–163, title II, §206(a), May 5, 2010, 124 Stat. 1145; amended Pub. L. 116–283, div.H, title XCI, §9102, Jan. 1, 2021, 134 Stat. 4781; Pub. L. 116–315, title III, §3006(a), Jan. 5, 2021, 134 Stat. 4994.)
 
 #### <b>Editorial Notes</b>
 

@@ -100,6 +100,8 @@ The Secretary shall—
 
 (Pub. L. 116–260, div. Z, title V, §5002, Dec. 27, 2020, 134 Stat. 2550.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.

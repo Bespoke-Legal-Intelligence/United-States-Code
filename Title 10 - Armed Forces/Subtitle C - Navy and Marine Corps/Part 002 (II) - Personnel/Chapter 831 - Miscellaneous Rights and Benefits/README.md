@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 831, consisting of sections 8201 to 8230, related to the force strength of the Air Force, prior to renumbering as chapter 911 of this title.

@@ -10,7 +10,7 @@
 
 #### (B) Senate
 
-&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall includethe following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.".
+&emsp;&emsp;To establish the budgetary effects of a PAYGO Act consistent with the determination made by the Chairman of the Senate Budget Committee, a PAYGO Act originated in or amended by the Senate shall include the following statement: "The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go-Act <sup>1</sup> of 2010, shall be determined by reference to the latest statement titled 'Budgetary Effects of PAYGO Legislation' for this Act, submitted for printing in the Congressional Record by the Chairman of the Senate Budget Committee, provided that such statement has been submitted prior to the vote on passage.".
 
 #### (C) Conference reports and amendments between the Houses
 
@@ -64,7 +64,7 @@
 
 #### (1) In general
 
-&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) ofsection 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designated under subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
+&emsp;For any provision of legislation that meets the criteria in subsection (c), (d), (e) or (f) of section 936 of this title, the Chairs of the Committees on the Budget of the House and Senate, as applicable, shall request that CBO adjust the estimate of budgetary effects of that legislation pursuant to paragraph (2) for the purposes of this chapter. A single piece of legislation may contain provisions that meet criteria in more than one of the subsections referred to in the preceding sentence. CBO shall adjust estimates for legislation designated under subsection (a) and estimated under subsection (b). OMB shall adjust estimates for legislation estimated under subsection (d)(3).
 
 #### (2) Adjustments
 
@@ -84,7 +84,7 @@
 
 #### (B) Prohibition on use of excess savings across budget areas
 
-&emsp;&emsp;For provisions eligible for a current policy adjustment under subsections (c) through (f) of section 936 of this title, to the extent the adjustment for current policy of any provision exceeds the estimated budgetary effects of that same provision, the excess savings shall be available only to offset the costs of other provisions that qualify for a current policy adjustment in that same subsection. Each paragraph in section 936(f)(1) of this title shall be considered a separate subsection for purposes of this section.
+&emsp;&emsp;For provisions eligible for a current policy adjustment under subsections (c) through (f) of section 936 of this title, to the extent the adjustment for current policy of any provision exceeds the estimated budgetary effects of that same provision, the excess savingsshall be available only to offset the costs of other provisions that qualify for a current policy adjustment in that same subsection. Each paragraph in section 936(f)(1) of this title shall be considered a separate subsection for purposes of this section.
 
 #### (4) Further guidance on estimating budgetary effects
 
@@ -156,7 +156,7 @@ OMB shall cumulate the budgetary effects of a PAYGO Act over the budget year (wh
 
 #### (ii) Appeals
 
-&emsp;&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision of this subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
+&emsp;&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision ofthis subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
 
 #### (C) Definition of an emergency designation
 
@@ -184,7 +184,7 @@ The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (a)(1), is title
 
 This Act, referred to in subsecs. (a)(2)(A)(i), (B)(i) and (g)(1), (4), is Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which enacted this chapter, amended sections 639, 900, 905, and 906 of this title and section 3101 of Title 31, Money and Finance, and enacted provisions set out as a note under section 712 of Title 31. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub.L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
+This chapter, referred to in subsecs. (c)(1) and (g)(2), was in the original "this title", meaning title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 931 of this title and Tables.
 
 As amended by this title, referred to in subsec. (d)(3), means as amended by title I of Pub. L. 111–139.
 

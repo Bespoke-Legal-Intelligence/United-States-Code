@@ -92,7 +92,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;&emsp;Adjustments to service fees described in clause (i) shall be made—
 
-&emsp;&emsp;&emsp;&emsp;(I) initially, at the time at which initial development costs of the systemhave been recovered by the Administrator such that the service fee may be reduced to reflect the elimination of the system development component of the fee; and
+&emsp;&emsp;&emsp;&emsp;(I) initially, at the time at which initial development costs of the system have been recovered by the Administrator such that the service fee may be reduced to reflect the elimination of the system development component of the fee; and
 
 &emsp;&emsp;&emsp;&emsp;(II) periodically thereafter, upon receipt and acceptance of the findings of any annual accounting or auditing report under subsection (d)(3), if the report discloses a significant disparity for a fiscal year between the funds collected from service fees under this subsection for the fiscal year and expenditures made for the fiscal year to provide system-related services.
 
@@ -266,11 +266,11 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (3) Administration
 
-&emsp;The Administrator shall carry out regulations promulgated under this subsection in each State unless the State program is fullyauthorized to carry out such regulations in lieu of the Administrator.
+&emsp;The Administrator shall carry out regulations promulgated under this subsection in each State unless the State program is fully authorized to carry out such regulations in lieu of the Administrator.
 
 #### (h) Requirement of compliance with respect to certain States
 
-In any case in which the State in which waste is generated, or the State in which waste will be transported to a designated facility, requires that the waste be tracked through a hazardous waste manifest, the designated facility that receives the waste shall, regardless of the State in which the facility is located—
+In any case in which the State in which waste is generated, or the State in which waste will betransported to a designated facility, requires that the waste be tracked through a hazardous waste manifest, the designated facility that receives the waste shall, regardless of the State in which the facility is located—
 
 &emsp;(1) complete the facility portion of the applicable manifest;
 
@@ -283,6 +283,8 @@ In any case in which the State in which waste is generated, or the State in whic
 There are authorized to be appropriated $2,000,000 for each of fiscal years 2013 through 2015 for start-up activities to carry out this section, to be offset by collection of user fees under subsection (c) such that all such appropriated funds are offset by fees as provided in subsection (c).
 
 (Pub. L. 89–272, title II, §3024, as added Pub. L. 112–195, §2(a), Oct. 5, 2012, 126 Stat. 1452.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

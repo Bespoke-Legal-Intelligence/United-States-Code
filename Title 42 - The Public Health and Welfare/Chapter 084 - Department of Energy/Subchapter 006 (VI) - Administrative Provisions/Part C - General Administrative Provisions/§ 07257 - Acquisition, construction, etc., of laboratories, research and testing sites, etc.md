@@ -4,6 +4,8 @@ The Secretary is authorized to acquire (by purchase, lease, condemnation, or oth
 
 (Pub. L. 95–91, title VI, §647, Aug. 4, 1977, 91 Stat. 599.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Pilot Program for Project Management Oversight Regarding Department of Energy Construction Projects
 
 Pub. L. 106–65, div. C, title XXXI, §3175, Oct. 5, 1999, 113 Stat. 950, provided that:
@@ -60,7 +62,7 @@ Pub. L. 106–60, title III, §310, Sept. 29, 1999, 113 Stat. 496, which provide
 
 Pub. L. 95–238, title I, §104(c), Feb. 25, 1978, 92 Stat. 53, provided that: "As part of the Department of Energy's responsibility to keep the Congress fully and currently informed, the Secretary shall make the following reports:
 
-&emsp;"(i) any proposal by the Secretary of the Department of Energy to terminate or make major changes in activities of the Government-owned and contractor-operated facilities, the national laboratories, energy research centers and the operations offices managing such laboratories, shall not be implemented until the Secretary transmits the proposal, together with all pertinent data, to the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, and waits a period of thirty calendar days (not including any day on which either House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report is received by such committees; and
+&emsp;"(i) any proposal by the Secretary of the Department of Energy to terminate or make major changes in activities of the Government-owned and contractor-operated facilities, the national laboratories, energy research centers and the operations offices managing such laboratories, shall not be implemented until the Secretary transmits the proposal, together with all pertinent data, to the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, and waits a period of thirty calendar days (not including any day on whicheither House of Congress is not in session because of an adjournment of more than three calendar days to a day certain) from the date on which such report is received by such committees; and
 
 &emsp;"(ii) by January 31, 1978, the Secretary shall file a full and complete report on each such proposal which he has implemented, as described in the preceding paragraph, and any major program structure change with the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Energy and Natural Resources of the Senate."
 

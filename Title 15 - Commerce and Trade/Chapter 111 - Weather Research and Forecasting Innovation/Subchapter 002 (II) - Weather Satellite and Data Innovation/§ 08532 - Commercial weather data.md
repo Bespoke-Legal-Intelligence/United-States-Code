@@ -24,7 +24,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 &emsp;&emsp;&emsp;(i) how standards will be set to ensure that data is reliable and effective;
 
-&emsp;&emsp;&emsp;(ii) how data may be acquired through commercial experimental or innovative techniques and then evaluated for integration into operational use;
+&emsp;&emsp;&emsp;(ii) how data may be acquired through commercial experimental or innovativetechniques and then evaluated for integration into operational use;
 
 &emsp;&emsp;&emsp;(iii) how to guarantee public access to all forecast-critical data to ensure that the United States weather industry and the public continue to have access to information critical to their work; and
 
@@ -50,7 +50,7 @@ Notwithstanding any other provision of law, the Secretary of Commerce may enter 
 
 #### (B) Assessment of data viability
 
-&emsp;&emsp;Not later than the date that is 3 years after the date on which the Under Secretary enters into a contract under subparagraph (A), the Under Secretary shall assess and submit to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives the results of a determination of the extent to which data provided under the contract entered into under subparagraph (A) meet the criteria published under paragraph (1) and the extent to which the pilot program has demonstrated—
+&emsp;&emsp;Not later than the date that is 3 years after the date on which the Under Secretary enters into a contract under subparagraph (A), the Under Secretary shall assess and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives the results of a determination of the extent to which data provided under the contract entered into under subparagraph (A) meet the criteria published under paragraph (1) and the extent to which the pilot program has demonstrated—
 
 &emsp;&emsp;&emsp;(i) the viability of assimilating the commercially provided data into National Oceanic and Atmospheric Administration meteorological models;
 
@@ -79,6 +79,8 @@ If an assessment under subsection (c)(2)(B) demonstrates the ability of commerci
 The Under Secretary shall continue to meet the international meteorological agreements into which the Under Secretary has entered, including practices set forth through World Meteorological Organization Resolution 40.
 
 (Pub. L. 115–25, title III, §302, Apr. 18, 2017, 131 Stat. 103; Pub. L. 115–423, §7(b), Jan. 7, 2019, 132 Stat. 5461.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

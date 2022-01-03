@@ -2,7 +2,7 @@
 
 #### (a) Definition of eligible student
 
-In this section, the term "eligible student" means a student who attends an institution ofhigher education that offers a doctoral degree in a field relevant to a mission area of the Department.
+In this section, the term "eligible student" means a student who attends an institution of higher education that offers a doctoral degree in a field relevant to a mission area of the Department.
 
 #### (b) Establishment
 
@@ -79,6 +79,8 @@ There are authorized to be appropriated to carry out this section—
 &emsp;(6) $21,900,000 for fiscal year 2013.
 
 (Pub. L. 110–69, title V, §5009, Aug. 9, 2007, 121 Stat. 618; Pub. L. 111–358, title IX, §902(d), Jan. 4, 2011, 124 Stat. 4045.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

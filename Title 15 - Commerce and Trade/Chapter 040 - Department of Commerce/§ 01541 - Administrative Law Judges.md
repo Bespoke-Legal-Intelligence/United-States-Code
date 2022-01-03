@@ -4,9 +4,13 @@ Notwithstanding section 559 of title 5, with respect to any marine resource cons
 
 (Pub. L. 105–160, §10, Mar. 6, 1998, 112 Stat. 27; Pub. L. 114–327, title I, §122, Dec. 16, 2016, 130 Stat. 1985.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–327 substituted "another Federal agency" for "the United States Coast Guard" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

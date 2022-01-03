@@ -28,7 +28,7 @@ Within 18 months after February 8, 1996, the Commission shall prescribe such reg
 
 #### (C) Cost
 
-&emsp;&emsp;The Commission may delay or waive the regulation promulgated under subparagraph\(A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effective date of such regulations would be economically burdensome to providers of video programming or program owners.
+&emsp;&emsp;The Commission may delay or waive the regulation promulgated under subparagraph (A) to the extent the Commission finds that the application of the regulation to live video programming delivered using Internet protocol with captions after the effectivedate of such regulations would be economically burdensome to providers of video programming or program owners.
 
 #### (D) Requirements for regulations
 
@@ -162,7 +162,7 @@ Not later than 1 year after the Advisory Committee report under subsection (e)(2
 
 &emsp;(1) identify methods to convey emergency information (as that term is defined in section 79.2 of title 47, Code of Federal Regulations) in a manner accessible to individuals who are blind or visually impaired; and
 
-&emsp;(2) promulgate regulations that require video programming providers and video programming distributors (as those terms are defined in section 79.1 of title 47, Code of FederalRegulations) and program owners to convey such emergency information in a manner accessible to individuals who are blind or visually impaired.
+&emsp;(2) promulgate regulations that require video programming providers and video programming distributors (as those terms are defined in section 79.1 of title 47, Code of Federal Regulations) and program owners to convey such emergency information in a manner accessible to individuals who are blind or visually impaired.
 
 #### (h) Definitions
 
@@ -236,7 +236,7 @@ Membership.—As soon as practicable after the date of enactment of this Act, th
 
 &emsp;"(1) Representatives of distributors and providers of video programming or a national organization representing such distributors.
 
-&emsp;"(2) Representatives of vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of video programmingdelivered using Internet protocol or a national organization representing such vendors, developers, or manufacturers.
+&emsp;"(2) Representatives of vendors, developers, and manufacturers of systems, facilities, equipment, and capabilities for the provision of video programming delivered using Internet protocol or a national organization representing such vendors, developers, or manufacturers.
 
 &emsp;"(3) Representatives of manufacturers of consumer electronics or information technology equipment or a national organization representing such manufacturers.
 

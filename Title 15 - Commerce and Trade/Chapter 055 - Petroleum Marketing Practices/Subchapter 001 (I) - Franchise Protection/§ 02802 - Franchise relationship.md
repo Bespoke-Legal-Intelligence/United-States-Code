@@ -86,9 +86,9 @@ Except as provided in subsection (b) and section 2803 of this title, no franchis
 
 &emsp;&emsp;&emsp;(III) to sell such premises, or
 
-&emsp;&emsp;&emsp;(IV) that renewal of the franchise relationship is likely to be uneconomical tothe franchisor despite any reasonable changes or reasonable additions to the provisions of the franchise which may be acceptable to the franchisee;
+&emsp;&emsp;&emsp;(IV) that renewal of the franchise relationship is likely to be uneconomical to the franchisor despite any reasonable changes or reasonable additions to the provisions of the franchise which may be acceptable to the franchisee;
 
-&emsp;&emsp;(ii) with respect to a determination referred to in subclause (II) or (IV), such determination is not made for the purpose of converting the leased marketing premises to operation by employees or agents of the franchisor for such franchisor's own account; and
+&emsp;&emsp;(ii) with respect to a determination referred to in subclause (II) or (IV), such determination is not made for the purpose of converting the leased marketing premises to operation by employees or agents of thefranchisor for such franchisor's own account; and
 
 &emsp;&emsp;(iii) in the case of leased marketing premises such franchisor, during the 90-day period after notification was given pursuant to section 2804 of this title, either—
 
@@ -161,6 +161,8 @@ In the case of any termination of a franchise (entered into or renewed on or aft
 &emsp;(2) if such termination or nonrenewal is based upon an event described in subsection (c)(7) and the leased marketing premises are subsequently rebuilt or replaced by the franchisor and operated under a franchise, the franchisor shall, within a reasonable period of time, grant to the franchisee a right of first refusal of the franchise under which such premises are to be operated.
 
 (Pub. L. 95–297, title I, §102, June 19, 1978, 92 Stat. 324; Pub. L. 103–371, §§2, 3, Oct. 19, 1994, 108 Stat. 3484.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

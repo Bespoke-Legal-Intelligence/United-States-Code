@@ -22,9 +22,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(j); added Oct. 24, 1978, Pu
 
 The words "air service or air transportation" are substituted for "air service", and the words "the service or transportation" are substituted for "service", for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–176 inserted ", including joint fares," after "joint proposals".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

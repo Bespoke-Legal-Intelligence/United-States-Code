@@ -26,6 +26,7 @@ Pub. L. 110–53, title V, §531(b)(3), Aug. 3, 2007, 121 Stat. 334, substituted
 - [&sect; 00124f - Intelligence training development for State and local government officials](%C2%A7%2000124f%20-%20Intelligence%20training%20development%20for%20State%20and%20local%20government%20officials.md)
 - [&sect; 00124g - Information sharing incentives](%C2%A7%2000124g%20-%20Information%20sharing%20incentives.md)
 - [&sect; 00124h - Department of Homeland Security State, Local, and Regional Fusion Center Initiative](%C2%A7%2000124h%20-%20Department%20of%20Homeland%20Security%20State%2C%20Local%2C%20and%20Regional%20Fusion%20Center%20Initiative.md)
+- [&sect; 00124h&#8211;1 - Threat information sharing](%C2%A7%2000124h%E2%80%931%20-%20Threat%20information%20sharing.md)
 - [&sect; 00124i - Homeland Security Information Sharing Fellows Program](%C2%A7%2000124i%20-%20Homeland%20Security%20Information%20Sharing%20Fellows%20Program.md)
 - [&sect; 00124j - Rural Policing Institute](%C2%A7%2000124j%20-%20Rural%20Policing%20Institute.md)
 - [&sect; 00124k - Interagency Threat Assessment and Coordination Group](%C2%A7%2000124k%20-%20Interagency%20Threat%20Assessment%20and%20Coordination%20Group.md)

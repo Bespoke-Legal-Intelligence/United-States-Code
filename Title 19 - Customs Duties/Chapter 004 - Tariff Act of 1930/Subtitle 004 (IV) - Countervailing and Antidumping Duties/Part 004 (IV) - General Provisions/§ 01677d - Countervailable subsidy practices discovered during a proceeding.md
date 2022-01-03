@@ -1,12 +1,14 @@
 ### §1677d. Countervailable subsidy practices discovered during a proceeding
 
-If, in the course of a proceeding under this subtitle, the administering authority discoversa practice which appears to be a countervailable subsidy, but was not included in the matters alleged in a countervailing duty petition, or if the administering authority receives notice from the Trade Representative that a subsidy or subsidy program is in violation of Article 8 of the Subsidies Agreement, then the administering authority—
+If, in the course of a proceeding under this subtitle, the administering authority discovers a practice which appears to be a countervailable subsidy, but was not included in the matters alleged in a countervailing duty petition, or if the administering authority receives notice from the Trade Representative that a subsidy or subsidy program is in violation of Article 8 of the Subsidies Agreement, then the administering authority—
 
 &emsp;(1) shall include the practice, subsidy, or subsidy program in the proceeding if the practice, subsidy, or subsidy program appears to be a countervailable subsidy with respect to the merchandise which is the subject of the proceeding, or
 
 &emsp;(2) shall transfer the information (other than confidential information) concerning the practice, subsidy, or subsidy program to the library maintained under section 1677f(a)(1) of this title, if the practice, subsidy, or subsidy program appears to be a countervailable subsidy with respect to any other merchandise.
 
 (June 17, 1930, ch. 497, title VII, §775, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 186; amended Pub. L. 98–573, title VI, §617, Oct. 30, 1984, 98 Stat. 3037; Pub. L. 99–514, title XVIII, §1886(a)(12), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 103–465, title II, §283(b), Dec. 8, 1994, 108 Stat. 4930.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -19,6 +21,8 @@ If, in the course of a proceeding under this subtitle, the administering authori
 <b>1986</b>—Pub. L. 99–514 substituted "a proceeding" for "an proceeding" in introductory provisions.
 
 <b>1984</b>—Pub. L. 98–573 substituted "proceeding" for "investigation" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

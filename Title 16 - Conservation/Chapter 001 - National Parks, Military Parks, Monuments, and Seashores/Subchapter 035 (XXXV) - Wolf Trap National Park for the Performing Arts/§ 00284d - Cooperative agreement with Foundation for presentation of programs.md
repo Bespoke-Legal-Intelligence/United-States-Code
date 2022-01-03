@@ -28,11 +28,15 @@ A cooperative agreement under this section shall provide that—
 
 (Pub. L. 89–671, §5, as added Pub. L. 97–310, Oct. 14, 1982, 96 Stat. 1456; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–636, §2, Nov. 28, 1990, 104 Stat. 4587.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Subsec. (c)(4). Pub. L. 101–636 added par. (4).
 
 <b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

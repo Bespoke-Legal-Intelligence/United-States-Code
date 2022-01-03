@@ -64,11 +64,15 @@ In subsection (b), the first sentence is included to provide the name of the off
 
 Section 4(j)(4) amends 49:108(a) to reflect the intent of 49 App.:1655(b)(2), on which 49:108(a) was based.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–426 amended section catchline and text generally, substituting provisions relating to Pipeline and Hazardous Materials Safety Administration for provisions relating to Coast Guard.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–272 designated existing provisions as par. (1), substituted "The Coast Guard" for "Except when operating as a service in the Navy, the Coast Guard", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Provisions
 
@@ -176,5 +180,5 @@ Statutory mandates.—Not later than 90 days after the date of enactment of this
 
 &emsp;"(2) NTSB
 
-and inspector general recommendations.—Not later than January 1st of each year, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing each recommendation referred to in subsection (a)(2) and a copy of the Department of Transportation response to each such recommendation."
+and inspector general recommendations.—Not later than January 1st of each year, the Secretary shall transmit to the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate a report containing each recommendation referred to in subsection (a)(2) and a copy of the Department of Transportation response to each such recommendation."
 

@@ -26,7 +26,7 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 &emsp;(5) to determine its necessary expenditures and the manner in which the same shall be incurred, allowed, and paid, and appoint, employ, and fix and provide for the compensation of consultants, without regard to any other law, except as provided in section 8107(d) of this title;
 
-&emsp;(6) to settle, adjust, and compromise, and with or without compensation or benefit tothe corporation to release or waive in whole or in part, in advance or otherwise, any claim, demand, or right of, by, or against the corporation;
+&emsp;(6) to settle, adjust, and compromise, and with or without compensation or benefit to the corporation to release or waive in whole or in part, in advance or otherwise, any claim, demand, or right of, by, or against the corporation;
 
 &emsp;(7) to invest such funds of the corporation in such investments as the board of directors may prescribe;
 
@@ -56,6 +56,8 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 (Pub. L. 95–557, title VI, §606, Oct. 31, 1978, 92 Stat. 2117; Pub. L. 96–399, title III, §315(2), Oct. 8, 1980, 94 Stat. 1645; Pub. L. 97–320, title VII, §710(b), Oct. 15, 1982, 96 Stat. 1544; Pub. L. 111–203, title III, §374, July 21, 2010, 124 Stat. 1566.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(3). Pub. L. 111–203 substituted "Federal Housing Finance Agency" for "Federal Home Loan Bank Board".
@@ -63,6 +65,8 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 <b>1982</b>—Subsec. (c)(3). Pub. L. 97–320 inserted "funds," after "provide".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted "monitoring" for "supervising".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

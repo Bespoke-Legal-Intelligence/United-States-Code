@@ -34,7 +34,7 @@ The Chairman of the Board shall be the spokesman for the Board and shall represe
 
 #### (f) Audit by Government Accountability Office
 
-The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. Theaudit shall be conducted at the place or places where the accounts of the Administration are kept.
+The financial transactions of the Administration shall be subject to audit by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The audit shall be conducted at the place or places where the accounts of the Administration are kept.
 
 (June 26, 1934, ch. 750, title I, §102, formerly §3, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 628; amended Pub. L. 91–206, §3, Mar. 10, 1970, 84 Stat. 49; renumbered title I, §102, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994; amended Pub. L. 95–630, title V, §501, Nov. 10, 1978, 92 Stat. 3680; Pub. L. 97–320, title V, §502, Oct. 15, 1982, 96 Stat. 1528; Pub. L. 105–219, title II, §204, Aug. 7, 1998, 112 Stat. 922; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
@@ -84,7 +84,7 @@ Pub. L. 105–219, title IV, §401, Aug. 7, 1998, 112 Stat. 934, required the Se
 
 #### Study of Corporate Credit Unions
 
-Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses,Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
+Pub. L. 104–208, div. A, title II, §2606, Sept. 30, 1996, 110 Stat. 3009–473, directed the Secretary of the Treasury to conduct a study and evaluation of the oversight and supervisory practices of the National Credit Union Administration concerning the National Credit Union Share Insurance Fund, including analysis of expenses, Fund administration, the 10 largest U.S. corporate credit unions, and Administration supervision and regulations, and required the Secretary, not later than 12 months after Sept. 30, 1996, to submit to Congress a report that includes the results of the study and recommendations.
 
 #### Study of Credit Union System by GAO
 

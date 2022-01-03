@@ -12,7 +12,7 @@
 
 &emsp;(2) "public debt obligation" means a domestic obligation issued or guaranteed by the United States Government to repay money or interest.
 
-(b) The United States Government may not pay out any gold coin. A person lawfully holding United States coins and currency may present the coins and currency to the Secretary of the Treasury for exchange (dollar for dollar) for other United States coins and currency (other than gold and silver coins) that may be lawfully held. The Secretary shall make the exchange under regulations prescribed by the Secretary.
+(b) The United States Government may not pay out any gold coin. A person lawfully holding United States coins and currency may presentthe coins and currency to the Secretary of the Treasury for exchange (dollar for dollar) for other United States coins and currency (other than gold and silver coins) that may be lawfully held. The Secretary shall make the exchange under regulations prescribed by the Secretary.
 
 (c)(1) The Government withdraws its consent given to anyone to assert against the Government, its agencies, or its officers, employees, or agents, a claim—
 
@@ -78,7 +78,7 @@ Oct. 28, 1977, Pub. L. 95–147, §4(c), 91 Stat. 1229.
 
 In subsection (a), before clause (1), the words "the phrase" are omitted as surplus. In clause (1), the words "declared to be against public policy by section 463 of this title" are omitted as surplus. Clause (2) is substituted for 31:773d(words after semicolon) for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (b), the words "after January 30, 1934" in 31:315b are omitted as executed. The words "that may be lawfully held" are substituted for "which may be lawfully acquired and are legal tender for public and private debts" in 31:773a for consistency in the subsection and to eliminate unnecessary words. The words "and that the owners of the gold clause securities ofthe United States shall be, at their election, entitled to receive immediate payment of the stated dollar amount thereof with interest to the date of payment or to prior maturity or to prior redemption date, whichever is earlier" in section 1 of the Act of August 27, 1935 (ch. 780, 49 Stat. 938), are omitted as expired. The words "make the exchange" are substituted for "make such exchanges and payments upon presentation hereunder" to eliminate unnecessary words. The words "No gold shall after January 30, 1934, be coined" in 31:315b are omitted because of section 5112 of the revised title. The text of 31:315b(proviso) is omitted as unnecessary because of the restatement. The text of 31:315b(last sentence) is omitted as executed.
+In subsection (b), the words "after January 30, 1934" in 31:315b are omitted as executed. The words "that may be lawfully held" are substituted for "which may be lawfully acquired and are legal tender for public and private debts" in 31:773a for consistency in the subsection and to eliminate unnecessary words. The words "and that the owners of the gold clause securities of the United States shall be, at their election, entitled to receive immediate payment of the stated dollar amount thereof with interest to the date of payment or to prior maturity or to prior redemption date, whichever is earlier" in section 1 of the Act of August 27, 1935 (ch. 780, 49 Stat. 938), are omitted as expired. The words "make the exchange" are substituted for "make such exchanges and payments upon presentation hereunder" to eliminate unnecessary words. The words "No gold shall after January 30, 1934, be coined" in 31:315b are omitted because of section 5112 of the revised title. The text of 31:315b(proviso) is omitted as unnecessary because of the restatement. The text of 31:315b(last sentence) is omitted as executed.
 
 In subsection (c)(1), before clause (A), the word "Government" is substituted for "United States" for consistency in the revised title and with other titles of the United States Code. The words "to anyone" are added for clarity. The words "whether by way of suit, counterclaim, set-off, recoupment, or other affirmative action or defense in its own name or in the name of" are omitted as surplus. The word "employees" is added for consistency in the revised title and with other titles of the Code. The word "instrumentalities" is omitted as unnecessary because of section 101 of the revised title. The word "claim" is substituted for "right, privilege, or power" to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code. The words "in any proceeding of any nature whatsoever" are omitted as surplus. In clause (C), the words "or demand" are omitted as surplus.
 
@@ -89,10 +89,6 @@ In subsection (c)(3), the words "may be expended" are substituted for "an amount
 In subsection (d)(1), the words "including every obligation of and to the United States" are omitted as surplus. The text of 31:463(b)(words after semicolon) is omitted as unnecessary because of the restatement.
 
 #### <b>Editorial Notes</b>
-
-#### Constitutionality
-
-For information regarding constitutionality of section 1 of act June 5, 1933, cited in the Historical and Revision Notes as a source for provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Amendments
 

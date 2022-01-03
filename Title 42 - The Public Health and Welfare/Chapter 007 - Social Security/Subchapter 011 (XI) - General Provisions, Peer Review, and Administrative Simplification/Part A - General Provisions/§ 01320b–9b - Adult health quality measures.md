@@ -36,7 +36,7 @@ The Secretary shall identify and publish a recommended core set of adult health 
 
 #### (B) Revising, strengthening, and improving initial core measures
 
-&emsp;&emsp;Beginning not later than 24 months after the establishment of the Medicaid Quality Measurement Program, and annually thereafter, the Secretary shall publish recommended changes to the initial core set of adult health quality measures that shall reflect the results of the testing, validation,and consensus process for the development of adult health quality measures.
+&emsp;&emsp;Beginning not later than 24 months after the establishment of the Medicaid Quality Measurement Program, and annually thereafter, the Secretary shall publish recommended changes to the initial core set of adult health quality measures that shall reflect the results of the testing, validation, and consensus process for the development of adult health quality measures.
 
 #### (C) Behavioral health measures
 
@@ -65,6 +65,8 @@ Nothing in this section shall be construed as supporting the restriction of cove
 Out of any funds in the Treasury not otherwise appropriated, there is appropriated for each of fiscal years 2010 through 2014, $60,000,000 for the purpose of carrying out this section. Funds appropriated under this subsection shall remain available until expended. Of the funds appropriated under this subsection, not less than $15,000,000 shall be used to carry out section 1320b–9a(b) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1139B, as added Pub. L. 111–148, title II, §2701, Mar. 23, 2010, 124 Stat. 317; amended Pub. L. 113–93, title II, §210, Apr. 1, 2014, 128 Stat. 1047; Pub. L. 115–271, title V, §5001, Oct. 24, 2018, 132 Stat. 3961.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

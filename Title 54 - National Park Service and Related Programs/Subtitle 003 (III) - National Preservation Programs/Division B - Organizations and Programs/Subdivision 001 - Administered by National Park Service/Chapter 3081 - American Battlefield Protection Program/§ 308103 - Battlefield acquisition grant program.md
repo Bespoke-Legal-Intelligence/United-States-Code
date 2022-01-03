@@ -32,7 +32,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 #### Amendment Not Shown in Text
 
-<i>This section was derived from section 469k–1(c)(1)(A) to (C), (2) to (6) of Title 16, Conservation, which was amended by Pub. L. 113–76, div. G, title IV, §429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, §421, Dec. 16, 2014, 128 Stat. 2449; and Pub. L. 113–291, div. B, title XXX, §3050, Dec. 19, 2014, 128 Stat. 3799. For applicability of those amendments to this section, see section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding section 100101 of this title.</i>
+<i>This section was derived from section 469k–1(c)(1)(A) to (C), (2) to (6) of Title 16, Conservation, which was amended by Pub. L. 113–76, div. G, title IV, §429, Jan. 17, 2014, 128 Stat. 345; Pub. L. 113–235, div. F, title IV, §421, Dec. 16, 2014, 128 Stat. 2449; and Pub. L. 113–291, div. B, title XXX, §3050, Dec. 19, 2014,</i><i>128 Stat. 3799. For applicability of those amendments to this section, see section 6(b) of Pub. L. 113–287, set out as a Transitional and Savings Provisions note preceding section 100101 of this title.</i>
 
 <i>Subsec. (c)(6) of former section 469k–1 of Title 16 \[restated in subsec. (f) of this section\] was amended by Pub. L. 113–76 by striking "2013" and inserting "2014" and by Pub. L. 113–235 by striking "2014" and inserting "2021".</i>
 
@@ -72,7 +72,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to the
 
 &emsp;&emsp;<i>"(C) any other relevant developments relating to the battlefields and associated sites during that period.</i>
 
-&emsp;<i>"(8) PROHIBITION ON LOBBYING.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or</i><i>appropriation matters pending before Congress."; and</i>
+&emsp;<i>"(8) PROHIBITION ON LOBBYING.—None of the funds provided pursuant to this section shall be used in any way, directly or indirectly, to influence congressional action on any legislation or appropriation matters pending before Congress."; and</i>
 
 <i>(8) In paragraph (9) \[restated as subsec. (f) of this section\] (as redesignated), by striking "2014" and inserting "2021".</i>
 

@@ -24,7 +24,7 @@ Section is from the Congressional Operations Appropriations Act, 1998, which is 
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a). Pub. L. 113–76 substituted ", and for reimbursing the Secretary of Labor for any amountspaid with respect to unemployment compensation payments for former employees of the House." for period at end.
+<b>2014</b>—Subsec. (a). Pub. L. 113–76 substituted ", and for reimbursing the Secretary of Labor for any amounts paid with respect to unemployment compensation payments for former employees of the House." for period at end.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

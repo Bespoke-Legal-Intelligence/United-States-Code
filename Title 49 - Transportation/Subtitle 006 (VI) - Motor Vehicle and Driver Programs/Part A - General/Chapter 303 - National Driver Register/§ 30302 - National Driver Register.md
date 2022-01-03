@@ -20,7 +20,7 @@ Accuracy of Information.—The Secretary is not responsible for the accuracy of 
 
 Transition From Prior Register.—(1) The Secretary shall provide by regulation for the orderly transition from the register maintained under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), to the Register maintained under this chapter.
 
-(2)(A) The Secretary shall delete from the Register a report or information that was compiled under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of1966 (Public Law 89–563, 80 Stat. 730), and transferred to the Register, after the earlier of—
+(2)(A) The Secretary shall delete from the Register a report or information that was compiled under the Act of July 14, 1960 (Public Law 86–660, 74 Stat. 526), as restated by section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), and transferred to the Register, after the earlier of—
 
 &emsp;(i) the date the State of record removes it from the State's file;
 
@@ -84,6 +84,8 @@ In subsection (c)(1), the words "The Secretary shall provide by regulation" are 
 
 The text of section 203(e) of the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1742) is omitted as unnecessary because of 49:322(a).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
@@ -93,6 +95,8 @@ Act of July 14, 1960, referred to in subsec. (c)(1), (2)(A), is set out below.
 <b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted at end "The Secretary shall make continual improvements to modernize the Register's data processing system."
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -70,7 +70,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) any option entered into on a national securities exchange relating to foreign currencies;
 
-&emsp;&emsp;&emsp;(iii) the guarantee (including by novation) by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option (whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi));
+&emsp;&emsp;&emsp;(iii) the guarantee (including by novation) by or to any securities clearing agency of a settlement of cash, securities, certificates of deposit, mortgage loans or interests therein, group or index of securities, or mortgage loans or interests therein (including any interest therein or based on the value thereof), or option on any of the foregoing, including an option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group orindex, or option (whether or not such settlement is in connection with any agreement or transaction referred to in clauses (i) through (xi));
 
 &emsp;&emsp;&emsp;(iv) any margin loan;
 
@@ -84,7 +84,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ix) any option to enter into any agreement or transaction referred to in this subparagraph;
 
-&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to inclause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
+&emsp;&emsp;&emsp;(x) a master agreement that provides for an agreement or transaction referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix), together with all supplements to any such master agreement, without regard to whether the master agreement provides for an agreement or transaction that is not a securities contract under this subparagraph, except that such master agreement shall be considered to be a securities contract under this subparagraph only with respect to each agreement or transaction under such master agreement that is referred to in clause (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), or (ix); or
 
 &emsp;&emsp;&emsp;(xi) any security agreement or arrangement or other credit enhancement related to any agreement or transaction referred to in this subparagraph, including any guarantee or reimbursement obligation by or to a stockbroker, securities clearing agency, financial institution, or financial participant in connection with any agreement or transaction referred to in this subparagraph, but not to exceed the damages in connection with any such agreement or transaction, measured in accordance with section 562; and
 

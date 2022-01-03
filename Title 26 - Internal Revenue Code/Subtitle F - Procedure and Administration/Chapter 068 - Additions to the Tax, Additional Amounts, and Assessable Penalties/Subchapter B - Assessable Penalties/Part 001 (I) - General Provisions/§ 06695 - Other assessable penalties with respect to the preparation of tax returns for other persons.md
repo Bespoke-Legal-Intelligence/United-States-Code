@@ -60,6 +60,8 @@ Any person who is a tax return preparer with respect to any return or claim for 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (h)(1). Pub. L. 115–141, §401(a)(299)(C), inserted "an amount equal to" after "increased by" and "for the calendar year" after "section 1(f)(3)".
@@ -104,6 +106,8 @@ Subsec. (e). Pub. L. 101–239, §7733(d), substituted "returns" for "return" in
 
 <b>1978</b>—Subsec. (f). Pub. L. 95–600 inserted provision relating to deposits by a bank.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11001(b) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11001(c) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -116,7 +120,7 @@ Pub. L. 114–113, div. Q, title II, §207(c), Dec. 18, 2015, 129 Stat. 3083, pr
 
 #### Effective Date of 2014 Amendment
 
-Amendment by Pub. L. 113–295 applicable to returns or claims for refund filed after Dec. 31, 2014, see section 208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
+Amendment by Pub. L. 113–295 applicable to returns or claims for refund filed after Dec. 31, 2014, see section208(h) of Pub. L. 113–295, set out as a note under section 6651 of this title.
 
 #### Effective Date of 2011 Amendment
 
@@ -132,7 +136,7 @@ Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made bythis section \[amending this section\] shall apply to documents prepared after December 31, 1989."
+Pub. L. 101–239, title VII, §7733(e), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendments made by this section \[amending this section\] shall apply to documents prepared after December 31, 1989."
 
 #### Effective Date of 1985 Amendment
 

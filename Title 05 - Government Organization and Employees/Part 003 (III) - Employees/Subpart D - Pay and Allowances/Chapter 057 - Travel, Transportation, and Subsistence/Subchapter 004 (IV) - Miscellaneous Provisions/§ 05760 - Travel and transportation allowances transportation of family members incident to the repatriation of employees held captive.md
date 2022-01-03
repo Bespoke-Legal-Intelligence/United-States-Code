@@ -4,13 +4,13 @@
 
 Allowance for Family Members and Certain Others.—(1) Under uniform regulations prescribed by the heads of agencies, travel and transportation described in subsection (d) may be provided for not more than 3 family members of an employee described in subsection (b).
 
-(2) In addition to the family members authorized to be provided travel and transportation under paragraph (1), the head of an agency may provide travel and transportation described in subsection (d) to an attendant to accompany a family member described in subsection (b) if the head of an agency determines—
+(2) In addition to the family members authorized to be provided travel and transportation under paragraph (1), the head of an agency mayprovide travel and transportation described in subsection (d) to an attendant to accompany a family member described in subsection (b) if the head of an agency determines—
 
 &emsp;(A) the family member to be accompanied is unable to travel unattended because of age, physical condition, or other reason determined by the head of the agency; and
 
 &emsp;(B) no other family member who is eligible for travel and transportation under subsection (a) is able to serve as an attendant for the family member.
 
-(3) If no family member of an employee described in subsection (b) is able to travel to therepatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
+(3) If no family member of an employee described in subsection (b) is able to travel to the repatriation site of the employee, travel and transportation described in subsection (d) may be provided to not more than 2 persons related to and selected by the employee.
 
 (b)
 
@@ -22,15 +22,15 @@ Covered Employees.—An employee described in this subsection is an employee (as
 
 (c)
 
-Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 481h(b) of title 37.
+Eligible Family Members.—In this section, the term "family member" has the meaning given the term in section 481h(b) <sup>1</sup> of title 37.
 
 (d)
 
 Travel and Transportation Authorized.—(1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
 
-(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) of title 37.
+(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) <sup>1</sup> of title 37.
 
-(3) The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) of title 37.
+(3) The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) <sup>1</sup> of title 37.
 
 (4) An allowance under this subsection may be paid in advance.
 
@@ -39,6 +39,12 @@ Travel and Transportation Authorized.—(1) The transportation authorized by sub
 (Added Pub. L. 109–163, div. A, title XI, §1121(a), Jan. 6, 2006, 119 Stat. 3451; amended Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 481h of title 37, referred to in subsecs. (c) and (d)(3), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+Section 474 of title 37, referred to in subsec. (d)(2), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 
@@ -51,4 +57,6 @@ Travel and Transportation Authorized.—(1) The transportation authorized by sub
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

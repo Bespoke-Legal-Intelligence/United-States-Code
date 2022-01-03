@@ -26,7 +26,7 @@ Process.—An ODA holder described in subsection (a) may submit to the Administr
 
 &emsp;(3)
 
-Timeline.—The Administrator shall approve or reject an individual that is selectedby an ODA holder to become an ODA unit member under this section not later than 30 days after the receipt of an application by an ODA holder.
+Timeline.—The Administrator shall approve or reject an individual that is selected by an ODA holder to become an ODA unit member under this section not later than 30 days after the receipt of an application by an ODA holder.
 
 &emsp;(4)
 
@@ -62,7 +62,7 @@ Previously rejected application.—In reviewing an application for an individual
 
 (d)
 
-Rescission of Approval.—The Administrator may rescind an approval of an individual as an ODA unit member granted pursuant to this section at any time and for any reason the Administrator considers appropriate. The Administrator shall develop procedures to provide for notice and opportunity to appeal rescission decisions made by the Administrator. Such decisions by the Administrator are not subject to judicial review.
+Rescission of Approval.—The Administrator may rescind an approval of an individualas an ODA unit member granted pursuant to this section at any time and for any reason the Administrator considers appropriate. The Administrator shall develop procedures to provide for notice and opportunity to appeal rescission decisions made by the Administrator. Such decisions by the Administrator are not subject to judicial review.
 
 (e)
 

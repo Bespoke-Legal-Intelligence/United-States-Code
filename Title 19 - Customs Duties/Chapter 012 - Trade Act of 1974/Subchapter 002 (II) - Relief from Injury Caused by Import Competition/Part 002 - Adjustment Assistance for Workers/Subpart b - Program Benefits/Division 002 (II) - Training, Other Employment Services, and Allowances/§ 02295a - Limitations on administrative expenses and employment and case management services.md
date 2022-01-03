@@ -16,7 +16,9 @@ Of the funds made available to a State to carry out sections 2295 through 2298 o
 
 #### Termination of Section
 
-<i>For termination of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates notes below.</i>
+<i>For termination of section beginning on July 1, 2021, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification</i><i>and Effective and Termination Dates notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -27,6 +29,8 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 #### Amendments
 
 <b>2011</b>—Pub. L. 112–40, §§214(b)(1), 233, temporarily substituted "Limitations on" for "Funding for" in section catchline and temporarily substituted text for former text consisting of subsecs. (a) and (b) which related to funding for administrative expenses and employment and case management services. See Codification note above and Effective and Termination Dates note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

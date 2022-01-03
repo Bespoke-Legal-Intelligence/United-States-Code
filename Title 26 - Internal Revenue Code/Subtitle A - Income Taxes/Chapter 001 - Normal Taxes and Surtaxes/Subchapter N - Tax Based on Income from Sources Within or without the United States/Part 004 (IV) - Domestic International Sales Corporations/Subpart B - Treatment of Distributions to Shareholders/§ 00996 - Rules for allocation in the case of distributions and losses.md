@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) finally, out of previously taxed income.
 
-> &emsp;In the case of any amount of any actual distribution to a C corporation made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to 16/17ths of suchamount and paragraph (1) shall apply to the remaining 1/17th of such amount.
+> &emsp;In the case of any amount of any actual distribution to a C corporation made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to 16/17ths of such amount and paragraph (1) shall apply to the remaining 1/17th of such amount.
 
 #### (3) Exclusion from gross income
 
@@ -90,6 +90,8 @@ In the case of a shareholder who is a nonresident alien individual or a foreign 
 
 (Added Pub. L. 92–178, title V, §501 Dec. 10, 1971, 85 Stat. 547; amended Pub. L. 94–455, title XI, §1101(e), title XIX, §§1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1659, 1793; Pub. L. 95–600, title VII, §703(i)(3), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 98–369, div. A, title VIII, §801(d)(10), July 18, 1984, 98 Stat. 997; Pub. L. 99–514, title XVIII, §1876(k), Oct. 22, 1986, 100 Stat. 2900.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a)(2). Pub. L. 99–514 inserted last sentence and struck out former last sentence which read as follows: "In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount."
@@ -101,6 +103,8 @@ In the case of a shareholder who is a nonresident alien individual or a foreign 
 <b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1101(e), inserted at end "In the case of any amount of any actual distribution made pursuant to section 992(c) which is required to satisfy the condition of section 992(a)(1)(A), the preceding sentence shall apply to one-half of such amount, and paragraph (1) shall apply to the remaining one-half of such amount."
 
 Subsec. (d). Pub. L. 94–455, §1901(b)(3)(I), substituted "ordinary income" for "gain from the sale or exchange of property which is not a capital asset" in par. (1)(A) after "dividend or as" and, in par. (2), after "treated as".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 
@@ -118,7 +122,7 @@ Amendment by Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of P
 
 Amendment by section 1101(e) of Pub. L. 94–455 applicable to taxable years beginning after Dec. 31, 1975, see section 1101(g)(1) of Pub. L. 94–455, set out as a note under section 905 of this title.
 
-Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
+Amendment by section 1901(b)(3)(I) of Pub. L. 94–455 applicable with respect to taxable years beginning afterDec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

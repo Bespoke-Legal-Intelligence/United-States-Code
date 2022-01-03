@@ -42,11 +42,15 @@ In subsection (b), the word "Secretary" is substituted for the words "appointing
 
 In subsection (c), the words "as a part-time adviser" are substituted for the words "in any other part-time capacity for a department or agency" to conform to subsections (a) and (b).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service." for "Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary determines."
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–718 repealed subsec. (c) which provided that sections 281, 283, and 284 of title 18 did not apply to a person because of his service on a committee or as a part-time advisor under subsec. (a) of this section unless the unlawful act related to a matter directly involving a department or agency which he was advising or to a matter in which that department or agency was directly interested.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

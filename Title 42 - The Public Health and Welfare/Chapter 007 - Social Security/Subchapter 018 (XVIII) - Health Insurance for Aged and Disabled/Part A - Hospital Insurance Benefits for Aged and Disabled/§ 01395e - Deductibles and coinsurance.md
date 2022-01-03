@@ -40,6 +40,8 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1813, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 292; amended Pub. L. 90–248, title I, §§129(c)(3), (4), 135(a), 137(b), Jan. 2, 1968, 81 Stat. 847, 848, 852, 854; Pub. L. 97–35, title XXI, §§2131(a), 2132(a), Aug. 13, 1981, 95 Stat. 797; Pub. L. 97–248, title I, §122(e), Sept. 3, 1982, 96 Stat. 361; Pub. L. 99–272, title IX, §9125(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 99–509, title IX, §9301(a), Oct. 21, 1986, 100 Stat. 1981; Pub. L. 100–203, title IV, §4002(f)(3), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(1)(H)(ii), July 1, 1988, 102 Stat. 769; Pub. L. 100–360, title I, §102, July 1, 1988, 102 Stat. 685; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 103–432, title I, §102(g)(2), (3), Oct. 31, 1994, 108 Stat. 4404; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33 substituted "critical access" for "rural primary care" wherever appearing.
@@ -64,7 +66,7 @@ Subsec. (b)(3). Pub. L. 100–360, §102(2), struck out par. (3) which related t
 
 "(1) The inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section shall be $40 in the case of any spell of illness beginning before 1969.
 
-"(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between two multiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatient hospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section."
+"(2) The Secretary shall, between July 1 and September 15 of 1968, and of each year thereafter, determine and promulgate the inpatient hospital deductible which shall be applicable for the purposes of subsection (a) of this section in the case of any inpatient hospital services or post-hospital extended care services furnished during the succeeding calendar year. Such inpatient hospital deductible shall be equal to $45 multiplied by the ratio of (A) the current average per diem rate for inpatient hospital services for the calendar year preceding the promulgation, to (B) the current average per diem rate for such services for 1966. Any amount determined under the preceding sentence which is not a multiple of $4 shall be rounded to the nearest multiple of $4 (or, if it is midway between twomultiplies of $4, to the next higher multiple of $4). The current average per diem rate for any year shall be determined by the Secretary on the basis of the best information available to him (at the time the determination is made) as to the amounts paid under this part on account of inpatient hospital services furnished during such year, by hospitals which have agreements in effect under section 1395cc of this title, to individuals who are entitled to hospital insurance benefits under section 426 of this title, plus the amount which would have been so paid but for subsection (a)(1) of this section."
 
 Subsec. (b)(2). Pub. L. 99–272 substituted "September 15" for "October 1".
 
@@ -79,6 +81,8 @@ Subsec. (a)(2). Pub. L. 90–248, §135(a), made the three pint deductible appli
 Subsec. (a)(2) to (4). Pub. L. 90–248, §129(c)(3), struck out par. (2) which provided for reduction of amount payable for outpatient hospital diagnostic services furnished an individual during a diagnostic study, and redesignated pars. (3) and (4) as (2) and (3), respectively.
 
 Subsec. (b)(1), (2). Pub. L. 90–248, §129(c)(4)(A), (B), struck out diagnostic studies from application of inpatient hospital deductible.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -140,13 +144,13 @@ Transition Provisions for Medicare Beneficiaries.—
 
 &emsp;"(1)
 
-Inpatient hospital services and post-hospital extended care services.—In applying sections1812 and 1813 of the Social Security Act \[42 U.S.C. 1395d, 1395e\], as restored by subsection (a)(1), with respect to inpatient hospital services and extended care services provided on or after January 1, 1990—
+Inpatient hospital services and post-hospital extended care services.—In applying sections 1812 and 1813 of the Social Security Act \[42 U.S.C. 1395d, 1395e\], as restored by subsection (a)(1), with respect to inpatient hospital services and extended care services provided on or after January 1, 1990—
 
 &emsp;&emsp;"(A) no day before January 1, 1990, shall be counted in determining the beginning (or period) of a spell of illness;
 
 &emsp;&emsp;"(B) with respect to the limitation (other than the limitation under section 1812(c) of such Act \[42 U.S.C. 1395d(c)\]) on such services provided in a spell of illness, days of such services before January 1, 1990, shall not be counted, except that days of inpatient hospital services before January 1, 1989, which were applied with respect to an individual after receiving 90 days of services in a spell of illness (commonly known as 'lifetime reserve days') shall be counted;
 
-&emsp;&emsp;"(C) the limitation of coverage of extended care services to post-hospital extended care services shall not apply to an individual receiving such services from a skilled nursing facility during a continuous period beginning before (and including) January 1, 1990, until the end of the period of 30 consecutive days in which the individual is not provided inpatient hospital services or extended care services; and
+&emsp;&emsp;"(C) the limitation of coverage of extended care services to post-hospital extended care servicesshall not apply to an individual receiving such services from a skilled nursing facility during a continuous period beginning before (and including) January 1, 1990, until the end of the period of 30 consecutive days in which the individual is not provided inpatient hospital services or extended care services; and
 
 &emsp;&emsp;"(D) the inpatient hospital deductible under section 1813(a)(1) of such Act \[42 U.S.C. 1395e(a)(1)\] shall not apply—
 

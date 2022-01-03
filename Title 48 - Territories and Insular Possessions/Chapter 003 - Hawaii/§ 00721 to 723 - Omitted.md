@@ -1,12 +1,14 @@
 ### §§721 to 723. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 721 to 723, relating to Territory of Hawaii, were omitted in view of admission of Hawaii into the Union.
 
 Section 721, acts July 18, 1950, ch. 466, title I, §101, 64 Stat. 344; Aug. 11, 1955, ch. 783, title I, §107(3), (7), (9), 69 Stat. 637, 638, authorized Hawaiian government to undertake slum clearance and urban redevelopment and renewal projects.
 
-Section 721a, acts July 18, 1950, ch. 466, title I, §102, 64 Stat. 344; Aug. 11, 1955, ch. 783, title I, §107(3), 69 Stat. 637, authorized government of Hawaii to assist slumclearance and urban redevelopment projects through cash donations, loans conveyances of real and personal property, facilities and services.
+Section 721a, acts July 18, 1950, ch. 466, title I, §102, 64 Stat. 344; Aug. 11, 1955, ch. 783, title I, §107(3), 69 Stat. 637, authorized government of Hawaii to assist slum clearance and urban redevelopment projects through cash donations, loans conveyances of real and personal property, facilities and services.
 
 Section 721b, act July 18, 1950, ch. 466, title I, §103, 64 Stat. 345, ratified all legislation enacted by Legislature of Territory of Hawaii dealing with subject matter of sections 721 to 722 of this title.
 

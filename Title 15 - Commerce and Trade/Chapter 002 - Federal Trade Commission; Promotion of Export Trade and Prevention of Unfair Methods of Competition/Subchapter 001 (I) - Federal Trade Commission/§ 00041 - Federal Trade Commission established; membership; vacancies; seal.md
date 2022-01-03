@@ -1,18 +1,20 @@
 ### §41. Federal Trade Commission established; membership; vacancies; seal
 
-A commission is created and established, to be known as the Federal Trade Commission (hereinafter referred to as the Commission), which shall be composed of five Commissioners, who shall be appointed by the President, by and withthe advice and consent of the Senate. Not more than three of the Commissioners shall be members of the same political party. The first Commissioners appointed shall continue in office for terms of three, four, five, six, and seven years, respectively, from September 26, 1914, the term of each to be designated by the President, but their successors shall be appointed for terms of seven years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom he shall succeed: <i>Provided, however</i>, That upon the expiration of his term of office a Commissioner shall continue to serve until his successor shall have been appointed and shall have qualified..<sup>1</sup> The President shall choose a chairman from the Commission's membership. No Commissioner shall engage in any other business, vocation, or employment. Any Commissioner may be removed by the President for inefficiency, neglect of duty, or malfeasance in office. A vacancy in the Commission shall not impair the right of the remaining Commissioners to exercise all the powers of the Commission.
+A commission is created and established, to be known as the Federal Trade Commission (hereinafter referred to as the Commission), which shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. Not more than three of the Commissioners shall be members of the same political party. The first Commissioners appointed shall continue in office for terms of three, four, five, six, and seven years, respectively, from September 26, 1914, the term of each to be designated by the President, buttheir successors shall be appointed for terms of seven years, except that any person chosen to fill a vacancy shall be appointed only for the unexpired term of the Commissioner whom he shall succeed: <i>Provided, however</i>, That upon the expiration of his term of office a Commissioner shall continue to serve until his successor shall have been appointed and shall have qualified..<sup>1</sup> The President shall choose a chairman from the Commission's membership. No Commissioner shall engage in any other business, vocation, or employment. Any Commissioner may be removed by the President for inefficiency, neglect of duty, or malfeasance in office. A vacancy in the Commission shall not impair the right of the remaining Commissioners to exercise all the powers of the Commission.
 
 The Commission shall have an official seal, which shall be judicially noticed.
 
 (Sept. 26, 1914, ch. 311, §1, 38 Stat. 717; Mar. 21, 1938, ch. 49, §1, 52 Stat. 111; 1950 Reorg. Plan No. 8, §3, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1938</b>—Act Mar. 21, 1938, inserted proviso clause to third sentence.
 
-#### Transfer of Functions
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
-Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by Reorg. Plan No. 8 of 1950, set out below.
+#### Transfer of Functions
 
 Functions of Federal Trade Commission (1) under Flammable Fabrics Act \[section 1191 et seq. of this title\] and under this subchapter to extent that such functions relate to administration of Flammable Fabrics Act, and (2) under Act of August 2, 1956, \[section 1211 et seq. of this title\], transferred to Consumer Product Safety Commission by section 30 of Act Oct. 27, 1972, Pub. L. 92–573 \[section 2079 of this title\].
 
@@ -29,6 +31,12 @@ Clarification of Federal Trade Commission Jurisdiction.—Any person that direct
 "(b)
 
 Savings Provision.—No provision of this section \[amending section 18a of this title\] shall be construed as restricting the authority of any Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]) under any Federal banking law, including section 8 of the Federal Deposit Insurance Act \[12 U.S.C. 1818\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Executive and administrative functions of Federal Trade Commission, with certain reservations, transferred to Chairman of such Commission by Reorg. Plan No. 8 of 1950, set out below.
 
 #### <b>REORGANIZATION PLAN NO. 8 OF 1950</b>
 

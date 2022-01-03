@@ -28,7 +28,7 @@
 
 #### (D) Grants for State Domestic Violence Coalitions
 
-&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year and not reserved under subparagraph (A)(i), not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10411 of this title.
+&emsp;&emsp;Of the amounts appropriated under paragraph (1) for a fiscal year and not reservedunder subparagraph (A)(i), not less than 10 percent of such amounts shall be used by the Secretary for making grants under section 10411 of this title.
 
 #### (E) Administration, evaluation and monitoring
 
@@ -42,11 +42,39 @@ There is authorized to be appropriated to carry out section 10413 of this title 
 
 There is authorized to be appropriated to carry out section 10414 of this title $6,000,000 for each of fiscal years 2011 through 2015.
 
-(Pub. L. 98–457, title III, §303, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3486.)
+#### (d) Additional funding
+
+For the purposes of carrying out this chapter, in addition to amounts otherwise made available for such purposes, there are appropriated, out of any amounts in the Treasury not otherwise appropriated, for fiscal year 2021, to remain available until expended except as otherwise provided in this subsection, each of the following:
+
+&emsp;(1) $180,000,000 to carry out sections 10401 through 10412 of this title, to be allocated in the manner described in subsection (a)(2), except that—
+
+&emsp;&emsp;(A) a reference in subsection (a)(2) to an amount appropriated under subsection (a)(1) shall be considered to be a reference to an amount appropriated under this paragraph;
+
+&emsp;&emsp;(B) the matching requirement in section 10406(c)(4) of this title and condition in section 10408(d)(3) <sup>1</sup> of this title shall not apply; and
+
+&emsp;&emsp;(C) each reference in section 10405(e) of this title to "the end of the following fiscal year" shall be considered to be a reference to "the end of fiscal year 2025"; and
+
+&emsp;&emsp;(D) funds made available to a State in a grant under section 10406(a) of this title and obligated in a timely manner shall be available for expenditure, by the State or a recipient of funds from the grant, through the end of fiscal year 2025;<sup>2</sup>
+
+&emsp;(2) $18,000,000 to carry out section 10409 of this title.
+
+&emsp;(3) $2,000,000 to carry out section 10413 of this title, of which $1,000,000 shall be allocated to support Indian communities.
+
+(Pub. L. 98–457, title III, §303, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3486; amended Pub. L. 117–2, title II, §2204(a), Mar. 11, 2021, 135 Stat. 34.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 10403, Pub. L. 98–457, title III, §304, Oct. 9, 1984, 98 Stat. 1759; Pub. L. 102–295, title III, §312, May 28, 1992, 106 Stat. 204; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §213\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254; Pub. L. 104–235, title II, §202, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 106–386, div. B, title II, §1202(b), Oct. 28, 2000, 114 Stat. 1505, related to allotment of funds, prior to the general amendment of this chapter by Pub. L. 111–320. See section 10405 of this title.
 
 A prior section 303 of Pub. L. 98–457 was classified to section 10402 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 117–2 added subsec. (d).
+
+<i><sup>1</sup></i><i> So in original. There is no par. (3) of section 10408(d) of this title.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

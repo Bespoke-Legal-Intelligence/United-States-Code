@@ -26,11 +26,11 @@ In general.—To be eligible for assistance under the TIFIA program, a project s
 
 &emsp;&emsp;&emsp;(iii) an investment grade rating from at least 2 rating agencies on debt senior to the Federal credit instrument; and
 
-&emsp;&emsp;&emsp;(iv) a rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than $75,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
+&emsp;&emsp;&emsp;(iv) an investment-grade rating from at least 2 rating agencies on the Federal credit instrument, subject to the condition that, with respect to clause (iii), if the total amount of the senior debt and the Federal credit instrument is less than$150,000,000, 1 rating agency opinion for each of the senior debt and Federal credit instrument shall be sufficient.
 
 &emsp;&emsp;(B)
 
-Senior debt.—Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is the senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the credit instrument is for an amount less than $75,000,000, in which case 1 rating agency opinion shall be sufficient.
+Senior debt.—Notwithstanding subparagraph (A), in a case in which the Federal credit instrument is senior debt, the Federal credit instrument shall be required to receive an investment grade rating from at least 2 rating agencies, unless the total amount of other senior debt and the Federal credit instrument is less than $150,000,000, in which case 1 rating agency opinion shall be sufficient.
 
 &emsp;(3)
 
@@ -38,7 +38,7 @@ Inclusion in transportation plans and programs.—A project shall satisfy the ap
 
 &emsp;(4)
 
-Application.—A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shallsubmit a project application that is acceptable to the Secretary.
+Application.—A State, local government, public authority, public-private partnership, or any other legal entity undertaking the project and authorized by the Secretary shall submit a project application that is acceptable to the Secretary.
 
 &emsp;(5)
 
@@ -124,6 +124,14 @@ In general.—Except as provided in subparagraph (B), to be eligible for assista
 
 Rural projects fund.—In the case of a project capitalizing a rural projects fund, the State infrastructure bank shall demonstrate, not later than 2 years after the date on which a secured loan is obligated for the project under the TIFIA program, that the bank has executed a loan agreement with a borrower for a rural infrastructure project in accordance with section 610. After the demonstration is made, the bank may draw upon the secured loan. At the end of the 2-year period, to the extent the bank has not used the loan commitment, the Secretary may extend the term of the loan or withdraw the loan commitment.
 
+&emsp;(11)
+
+Public-private partnerships.—In the case of a project to be carried out through a public-private partnership, the public partner shall have—
+
+&emsp;&emsp;(A) conducted a value for money analysis or similar comparative analysis; and
+
+&emsp;&emsp;(B) determined the appropriateness of the public-private partnership agreement.
+
 (b)
 
 Selection Among Eligible Projects.—
@@ -158,7 +166,7 @@ Federal Requirements.—
 
 &emsp;(1)
 
-In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, and the requirements of section 5333(a) of title 49 for rail projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
+In general.—In addition to the requirements of this title for highway projects, the requirements of chapter 53 of title 49 for transit projects, the requirements of section 5333(a) of title 49 for rail projects, and the requirements of sections 47112(b) and 50101 of title 49 for airport-related projects, the following provisions of law shall apply to funds made available under the TIFIA program and projects assisted with those funds:
 
 &emsp;&emsp;(A) Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
 
@@ -170,11 +178,31 @@ In general.—In addition to the requirements of this title for highway projects
 
 NEPA.—No funding shall be obligated for a project that has not received an environmental categorical exclusion, a finding of no significant impact, or a record of decision under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
+&emsp;(3)
+
+Payment and performance security.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall ensure that the design and construction of a project carried out with assistance under the TIFIA program shall have appropriate payment and performance security, regardless of whether the obligor is a State, local government, agency or instrumentality of a State or local government, public authority, or private party.
+
+&emsp;&emsp;(B)
+
+Written determination.—If payment and performance security is required to be furnished by applicable State or local statute or regulation, the Secretary may accept such payment and performance security requirements applicable to the obligor if the Federal interest with respect to Federal funds and other project risk related to design and construction is adequately protected.
+
+&emsp;&emsp;(C)
+
+No determination or applicable requirements.—If there are no payment and performance security requirements applicable to the obligor, the security under section 3131(b) of title 40 or an equivalent State or local requirement, as determined by the Secretary, shall be required.
+
 (d)
 
 Application Processing Procedures.—
 
 &emsp;(1)
+
+Processing timelines.—Except in the case of an application described in subsection (a)(8) and to the maximum extent practicable, the Secretary shall provide an applicant with a specific estimate of the timeline for the approval or disapproval of the application of the applicant, which, to the maximum extent practicable, the Secretary shall endeavor to complete by not later than 150 days after the date on which the applicant submits a letter of interest to the Secretary.
+
+&emsp;(2)
 
 Notice of complete application.—Not later than 30 days after the date of receipt of an application under this section, the Secretary shall provide to the applicant a written notice to inform the applicant whether—
 
@@ -182,27 +210,41 @@ Notice of complete application.—Not later than 30 days after the date of recei
 
 &emsp;&emsp;(B) additional information or materials are needed to complete the application.
 
-&emsp;(2)
+&emsp;(3)
 
-Approval or denial of application.—Not later than 60 days after the date of issuance of the written notice under paragraph (1), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
+Approval or denial of application.—Not later than 60 days after the date of issuance of the written notice under paragraph (2), the Secretary shall provide to the applicant a written notice informing the applicant whether the Secretary has approved or disapproved the application.
 
 (e)
 
-Development Phase Activities.—Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(1)(A).
+Development Phase Activities.—Any credit instrument secured under the TIFIA program may be used to finance up to 100 percent of the cost of development phase activities as described in section 601(a)(2)(A).
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 611; Pub. L. 114–94, div. A, title II, §2001(b), Dec. 4, 2015, 129 Stat. 1440.)
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 243, §182; renumbered §602 and amended Pub. L. 109–59, title I, §§1601(b), (c), 1602(b)(2), (5), (d), Aug. 10, 2005, 119 Stat. 1240, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 611; Pub. L. 114–94, div. A, title II, §2001(b), Dec. 4, 2015, 129 Stat. 1440; Pub. L. 117–58, div. A, title I, §11508(d)(3), title II, §§12001(b)–(d), (g), 12002(a), Nov. 15, 2021, 135 Stat. 588, 618, 619, 622.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241.Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(B), (2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (c)(1)(C), is act Jan. 2, 1971, Pub. L. 91–646, 84 Stat. 1894, and which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(A)(iv). Pub. L. 117–58, §12001(b)(1), substituted "an investment-grade rating" for "a rating" and "$150,000,000" for "$75,000,000".
+
+Subsec. (a)(2)(B). Pub. L. 117–58, §12001(b)(2), substituted "is senior debt" for "is the senior debt" and "total amount of other senior debt and the Federal credit instrument is less than $150,000,000" for "credit instrument is for an amount less than $75,000,000".
+
+Subsec. (a)(11). Pub. L. 117–58, §11508(d)(3), added par. (11).
+
+Subsec. (c)(1). Pub. L. 117–58, §12001(c), substituted "the requirements of section 5333(a) of title 49 for rail projects, and the requirements of sections 47112(b) and 50101 of title 49 for airport-related projects," for "and the requirements of section 5333(a) of title 49 for rail projects," in introductory provisions.
+
+Subsec. (c)(3). Pub. L. 117–58, §12002(a), added par. (3).
+
+Subsec. (d). Pub. L. 117–58, §12001(d), added par. (1), redesignated former pars. (1) and (2) as (2) and (3), respectively, and, in par. (3), substituted "paragraph (2)" for "paragraph (1)".
+
+Subsec. (e). Pub. L. 117–58, §12001(g), substituted "section 601(a)(2)(A)" for "section 601(a)(1)(A)".
 
 <b>2015</b>—Subsec. (a)(1), (2)(A), (3). Pub. L. 114–94, §2001(b)(1)(A)–(C), substituted "the TIFIA program" for "this chapter".
 
@@ -254,7 +296,7 @@ Pub. L. 109–59, §1601(b)(1), added par. (1) and struck out heading and text o
 
 &emsp;"(B) at such time as an agreement to make available a Federal credit instrument is entered into under this subchapter, shall be included in the approved State transportation improvement program required under section 134."
 
-Subsec. (a)(2). Pub. L. 109–59, §1601(b)(1), added par. (2) and struck out heading and text of former par. (2). Textread as follows: "A State, a local servicer identified under section 185(a), or the entity undertaking the project shall submit a project application to the Secretary."
+Subsec. (a)(2). Pub. L. 109–59, §1601(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "A State, a local servicer identified under section 185(a), or the entity undertaking the project shall submit a project application to the Secretary."
 
 Subsec. (a)(3)(A). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter" in introductory provisions.
 
@@ -276,7 +318,15 @@ Subsec. (b)(2)(B). Pub. L. 109–59, §1601(c)(2), inserted ", which may be the
 
 Subsec. (c). Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter" in introductory provisions.
 
-#### <b>Statutory Notes and Related Notes</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 11508(d)(3) of Pub. L. 117–58 only applicable to a public-private partnership agreement entered into on or after Nov. 15, 2021, see section 11508(e) of Pub. L. 117–58, set out in a Requirements for Transportation Projects Carried Out Through Public-Private Partnerships note under section 106 of this title.
+
+Amendment by section 12001(b)–(d), (g) of Pub. L. 117–58 effective Oct. 1, 2021, except as otherwise provided, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
+Pub. L. 117–58, div. A, title II, §12002(b), Nov. 15, 2021, 135 Stat. 622, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to any agreement for credit assistance entered into on or after the date of enactment of this Act \[Nov. 15, 2021\]."
 
 #### Effective Date of 2015 Amendment
 

@@ -44,7 +44,7 @@ In this section, the following definitions apply:
 
 #### (B) Effect
 
-&emsp;&emsp;(i) The establishment of the Program does not modify any legal or regulatory authorityor program in effect as of December 16, 2016, including the roles of Federal agencies in the Columbia River Basin.
+&emsp;&emsp;(i) The establishment of the Program does not modify any legal or regulatory authority or program in effect as of December 16, 2016, including the roles of Federal agencies in the Columbia River Basin.
 
 &emsp;&emsp;(ii) This section does not create any new regulatory authority.
 

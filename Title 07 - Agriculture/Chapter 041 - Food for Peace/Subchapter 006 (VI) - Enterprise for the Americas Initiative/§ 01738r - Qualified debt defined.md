@@ -10,6 +10,8 @@ As used in sections 1738o, 1738p, and 1738q of this title, the term "qualified d
 
 (July 10, 1954, ch. 469, title VI, §619, as added Pub. L. 102–532, §2, Oct. 27, 1992, 106 Stat. 3511.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1707a of this title, referred to in text, was repealed by Pub. L. 101–624, title XV, §1574, Nov. 28, 1990, 104 Stat. 3702. See section 5621 et seq. of this title.

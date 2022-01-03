@@ -72,7 +72,7 @@ The Institute shall—
 
 &emsp;&emsp;(A) to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
 
-&emsp;&emsp;(B) to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44, and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
+&emsp;&emsp;(B) to review and determine prevalent information security challenges and deficiencies identified by agencies or the Institute, including any challenges or deficiencies described in any of the annual reports under section 3553 or 3554 of title 44,and in any of the reports and the independent evaluations under section 3555 of that title, that may undermine the effectiveness of agency information security programs and practices; and
 
 &emsp;&emsp;(C) to evaluate the effectiveness and sufficiency of, and challenges to, Federal agencies' implementation of standards and guidelines developed under this section and policies and standards promulgated under section 11331 of title 40;
 
@@ -119,6 +119,8 @@ As used in this section—
 &emsp;(5) the term "national security system" has the same meaning as provided in section 3552(b)(5) <sup>1</sup> of such title.<sup>3</sup>
 
 (Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–274, title II, §204, Dec. 18, 2014, 128 Stat. 2980; Pub. L. 113–283, §2(e)(4), Dec. 18, 2014, 128 Stat. 3087; Pub. L. 114–329, title I, §104(b)(3), Jan. 6, 2017, 130 Stat. 2976; Pub. L. 116–283, div. H, title XCIV, §9402(a), Jan. 1, 2021, 134 Stat. 4810.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -340,7 +342,7 @@ Subsecs. (e), (f). Pub. L. 107–305, §§9, 10, added subsecs. (e) and (f).
 
 Subsec. (a)(4). Pub. L. 104–106, §5607(a)(1)(B), substituted "section 1441 of title 40" for "section 759(d) of title 40".
 
-Subsec. (b)(2). Pub. L. 104–106, §5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;".
+Subsec. (b)(2). Pub. L. 104–106, §5607(a)(2)(A), (C), redesignated par. (3) as (2) and struck out former par. (2)which read as follows: "to make recommendations, as appropriate, to the Administrator of General Services on policies and regulations proposed pursuant to section 1441 of title 40;".
 
 Subsec. (b)(3). Pub. L. 104–106, §5607(a)(2)(C), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
@@ -354,9 +356,11 @@ Subsec. (d)(2). Pub. L. 104–106, §5607(a)(3)(B), substituted "system' " for 
 
 <b>1988</b>—Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards" in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendments
 
-Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a noteunder section 3504 of Title 44, Public Printing and Documents.
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as a note under section 3504 of Title 44, Public Printing and Documents.
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 

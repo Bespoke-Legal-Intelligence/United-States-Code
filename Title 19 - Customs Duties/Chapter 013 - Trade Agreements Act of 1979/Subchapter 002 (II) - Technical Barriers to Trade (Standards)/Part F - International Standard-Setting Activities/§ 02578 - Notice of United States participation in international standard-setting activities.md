@@ -30,11 +30,15 @@ The agency specified in subsection (c)(2)(D) shall provide an opportunity for pu
 
 (Pub. L. 96–39, title IV, §491, as added Pub. L. 103–465, title IV, §432, Dec. 8, 1994, 108 Stat. 4970.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under section 3601 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Designation of Agency
 
-Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
+Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, seepar. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under section 3511 of this title.
 

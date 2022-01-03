@@ -80,6 +80,8 @@
 
 (Pub. L. 95–621, title VI, §601, Nov. 9, 1978, 92 Stat. 3409; Pub. L. 101–60, §3(a)(7), (b)(7), July 26, 1989, 103 Stat. 158, 159.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Natural Gas Act, referred to in subsec. (a)(1), (2)(A), (B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of this title. For complete classification of this act to the Code, see section 717w of this title and Tables.
@@ -94,7 +96,7 @@ Subsec. (a)(1)(C). Pub. L. 101–60, §3(b)(7)(C), (D), redesignated subpar. (D)
 
 Subsec. (a)(1)(D). Pub. L. 101–60, §3(b)(7)(C), redesignated subpar. (D) as (C).
 
-Subsec. (a)(1)(E). Pub. L. 101–60, §3(b)(7)(B), struck out subpar. (E), "Certain additional natural gas",which read as follows: "For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of July 25, 1989, and which is not subject to a maximum lawful price under part A of subchapter I of this chapter by reason of section 3331(f) of this title, effective as of the date such gas ceases to be subject to such maximum lawful price."
+Subsec. (a)(1)(E). Pub. L. 101–60, §3(b)(7)(B), struck out subpar. (E), "Certain additional natural gas", which read as follows: "For purposes of section 1(b) of the Natural Gas Act, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply solely by reason of any first sale of natural gas which is committed or dedicated to interstate commerce as of July 25, 1989, and which is not subject to a maximum lawful price under part A of subchapter I of this chapter by reason of section 3331(f) of this title, effective as of the date such gas ceases to be subject to such maximum lawful price."
 
 Pub. L. 101–60, §3(a)(7)(A), substituted "Certain additional natural gas" for "Alaskan natural gas" in heading and amended text generally. Prior to amendment, text read as follows: "Subparagraph (B)(ii) and (iii) shall not apply with respect to natural gas produced from the Prudhoe Bay unit of Alaska and transported through the transportation system approved under the Alaska Natural Gas Transportation Act of 1976."
 
@@ -111,6 +113,8 @@ Subsec. (c)(2). Pub. L. 101–60, §3(a)(7)(B), substituted "purchase of natural
 &emsp;"(A) under subsection (b) of this section, such amount is deemed to be just and reasonable for purposes of sections 4 and 5 of such Act, and
 
 &emsp;"(B) such recovery is not inconsistent with any requirement of any rule under section 3341 of this title (including any amendment under section 3342 of this title),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

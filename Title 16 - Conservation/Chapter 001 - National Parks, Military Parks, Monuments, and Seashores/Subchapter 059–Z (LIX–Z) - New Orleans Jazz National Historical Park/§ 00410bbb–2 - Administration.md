@@ -12,7 +12,7 @@ The Secretary may accept and retain donations of funds, property, or services fr
 
 #### (c) Interpretive center
 
-The Secretary is authorized to construct, operate, and maintain an interpretive center in the historical park on lands identified by the Secretary pursuant to section 410bbb–1(b)(1) of this title. Programs at the center shall include, but need not be limited to, live jazz interpretive and educational programs, and shall provide visitors with information about jazz-related programs, performances, and opportunities.
+The Secretary is authorized to construct, operate, and maintain an interpretive center inthe historical park on lands identified by the Secretary pursuant to section 410bbb–1(b)(1) of this title. Programs at the center shall include, but need not be limited to, live jazz interpretive and educational programs, and shall provide visitors with information about jazz-related programs, performances, and opportunities.
 
 #### (d) Jazz heritage districts
 
@@ -22,7 +22,7 @@ The Secretary may provide technical assistance to the city of New Orleans and ot
 
 In furtherance of the purposes of this subchapter—
 
-&emsp;(1) the Secretary, after consultation with the New Orleans Jazz Commission established pursuant to section 410bbb–5 of this title, is authorized to enter into cooperative agreements with owners of properties that are designated pursuant to section 410bbb–1(b)(3) of this title which provide outstanding educational and interpretive opportunities relating to the evolution of jazz in New Orleans. The Secretary may assist in rehabilitating, restoring, marking, and interpreting and may provide technical assistance for the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the National Park Service will have reasonable rights of access for operational and visitor use needs, that rehabilitation and restoration will meet the Secretary's standards for rehabilitation of historic buildings, and that specify the roles andresponsibilities of the Secretary for each site or structure;
+&emsp;(1) the Secretary, after consultation with the New Orleans Jazz Commission established pursuant to section 410bbb–5 of this title, is authorized to enter into cooperative agreements with owners of properties that are designated pursuant to section 410bbb–1(b)(3) of this title which provide outstanding educational and interpretive opportunities relating to the evolution of jazz in New Orleans. The Secretary may assist in rehabilitating, restoring, marking, and interpreting and may provide technical assistance for the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the National Park Service will have reasonable rights of access for operational and visitor use needs, that rehabilitation and restoration will meet the Secretary's standards for rehabilitation of historic buildings, and that specify the roles and responsibilities of the Secretary for each site or structure;
 
 &emsp;(2) the Secretary is authorized to enter into cooperative agreements with the city of New Orleans, the State of Louisiana, and other appropriate public and private organizations under which the other parties to the agreement may contribute to the acquisition, construction, operation, and maintenance of the interpretive center and to the operation of educational and interpretive programs to further the purposes of this subchapter; and
 
@@ -33,6 +33,8 @@ In furtherance of the purposes of this subchapter—
 The Secretary shall, in the administration of the historical park, promote a broad range of educational activities relating to jazz and its history. The Secretary shall cooperate with schools, universities, and organizations supporting jazz education to develop educational programs that provide expanded public understanding of jazz and enhanced opportunities for public appreciation. The Secretary may assist appropriate entities in the development of an information base including archival material, audiovisual records, and objects that relate to the history of jazz.
 
 (Pub. L. 103–433, title XII, §1204, Oct. 31, 1994, 108 Stat. 4520.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

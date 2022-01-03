@@ -68,7 +68,7 @@ Level V of the Executive Schedule, referred to in subsec. (f), is set out in sec
 
 <b>1975</b>—Subsec. (c). Pub. L. 94–183 struck out "and section 3552 of title 39" after "of section 5335(a) of this title".
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–375 repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field servicesubject to higher minimum rates established by the President.
+<b>1970</b>—Subsec. (a)(2). Pub. L. 91–375 repealed cl. (2) making positions paid under provisions of part III of title 39 relating to employees in the postal field service subject to higher minimum rates established by the President.
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–206, §207(a), substituted "maximum pay rate" for "seventh pay rate".
 
@@ -206,7 +206,7 @@ FY 2019—Pub. L. 116–6, div. D, title VII, §748, Feb. 15, 2019, 133 Stat. 19
 
 "(2) Notwithstanding sections 5382 and 5383 of title 5, United States Code, an employee described in paragraph (1) who is serving at the time official rates of the Executive Schedule are adjusted may receive a single increase in the employee's pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i).
 
-"(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality-based payments under section 5304 of title 5, United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment, and who is serving at the time official rates of the Executive Schedule are adjusted, may receive a single increase in the employee's pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under section 3161 of title 5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
+"(e) Notwithstanding any other provision of law, any employee paid a rate of basic pay (including any locality-based payments under section 5304 of title 5, United States Code, or similar authority) at or above the official rate for level IV of the Executive Schedule who serves under a political appointment, and who is serving at the time official rates of the Executive Schedule are adjusted, may receive a single increase in the employee's pay rate of no more than 1.9 percent during calendar year 2019, subject to the normally applicable pay rules and pay limitations in effect on December 31, 2013, after those pay limitations are increased by 1.9 percent (after applicable rounding). Such an employee may receive no other pay increase during calendar year 2019, except as provided in subsection (i). This subsection does not apply to employees in the General Schedule pay system or the Foreign Service pay system, to employees appointed under section 3161 of title5, United States Code, or to employees in another pay system whose position would be classified at GS–15 or below if chapter 51 of title 5, United States Code, applied to them.
 
 "(f) Nothing in subsections (b) through (e) shall prevent employees who do not serve under a political appointment from receiving pay increases as otherwise provided under applicable law.
 
@@ -352,7 +352,7 @@ Pub. L. 108–199, div. F, title VI, §640, Jan. 23, 2004, 118 Stat. 359, provid
 
 "(b) Notwithstanding section 613 of this Act \[div. F of Pub. L. 108–199, 5 U.S.C. 5343 note\], the adjustment in rates of basic pay for the statutory pay systems that take place in fiscal year 2004 under sections 5344 and 5348 of title 5, United States Code, shall be no less than the percentage in paragraph (a) as employees in the same location whose rates of basic pay are adjusted pursuant to the statutory pay systems under section 5303 and 5304 of title 5, United States Code. Prevailing rate employees at locations where there are no employees whose pay is increased pursuant to sections 5303 and 5304 of title 5 and prevailing rate employees described in section 5343(a)(5) of title 5 shall be considered to be located in the pay locality designated as 'Rest of US' pursuant to section 5304 of title 5 for purposes of this paragraph.
 
-"(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicabledepartment or agency for salaries and expenses for fiscal year 2004."
+"(c) Funds used to carry out this section shall be paid from appropriations, which are made to each applicable department or agency for salaries and expenses for fiscal year 2004."
 
 <b>2003</b>—Pub. L. 108–7, div. J, title VI, §637, Feb. 20, 2003, 117 Stat. 472, provided that:
 
@@ -386,7 +386,7 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §647\], Oct. 21, 1998, 112 Stat
 
 "(b) Funds used to carry out this section shall be paid from appropriations which are made to each applicable department or agency for salaries and expenses for fiscal year 1999."
 
-<b>1996</b>—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §637\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, provided that: "For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems."
+<b>1996</b>—Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §637\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–364, provided that: "For purposes of each provision of law amendedby section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1997 in the rates of basic pay for the statutory pay systems."
 
 <b>1995</b>—Pub. L. 104–52, title VI, §633, Nov. 19, 1995, 109 Stat. 507, provided that: "For purposes of each provision of law amended by section 704(a)(2) of the Ethics Reform Act of 1989 \[Pub. L. 101–194\] (5 U.S.C. 5318 note), no adjustment under section 5303 of title 5, United States Code, shall be considered to have taken effect in fiscal year 1996 in the rates of basic pay for the statutory pay systems."
 
@@ -508,7 +508,7 @@ Pub. L. 101–136, title VI, §619, Nov. 3, 1989, 103 Stat. 820, provided that:
 
 &emsp;"(C) by the Chief Justice of the United States, in the case of any office or position within the judicial branch.
 
-"(3) The rate of basic pay described in this paragraph is the rate equal to the rate of basic pay payable for level III of the Executive Schedule under section 5314 oftitle 5, United States Code, as of September 30, 1989, increased by 3.6 percent."
+"(3) The rate of basic pay described in this paragraph is the rate equal to the rate of basic pay payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, as of September 30, 1989, increased by 3.6 percent."
 
 <b>1988</b>—Pub. L. 100–440, title VI, §620, Sept. 22, 1988, 102 Stat. 1756, provided that:
 
@@ -578,7 +578,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 "(1) The rates of pay under the General Schedule and the rates of pay under the other statutory pay systems referred to in section 5301(c) of title 5, United States Code, shall not be adjusted under section 5305 of such title during fiscal year 1986.
 
-"(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection\(b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
+"(2)(A)(i) For fiscal years 1987 and 1988, the President shall provide for the adjustment of rates of pay under section 5305 of title 5, United States Code, as appropriate to reduce outlays, relating to pay of officers and employees of the Federal Government, by at least $746,000,000 in fiscal year 1987 and $1,264,000,000 in fiscal year 1988 (without regard to reductions in outlays which result by reason of subparagraph (B)(ii) of this paragraph, paragraph (1) of this subsection, subsection (b) of this section, and the application of section 1009 of title 37, United States Code), computed using the baseline used for the First Concurrent Resolution on the Budget for Fiscal Year 1986 (S. Con. Res. 32, 99th Congress), agreed to on August 1, 1985.
 
 "(ii) Clause (i) of this subparagraph shall not be construed to suspend the requirements of section 5305 of title 5, United States Code, with respect to fiscal years 1987 and 1988.
 
@@ -610,7 +610,7 @@ Pub. L. 99–272, title XV, §15201(a), Apr. 7, 1986, 100 Stat. 332, provided th
 
 <b>1978</b>—Pub. L. 95–429, title VI, §614, Oct. 10, 1978, 92 Stat. 1018, provided that:
 
-"(a) No part of any of the funds appropriated for the fiscal year ending September 30, 1979, by this Act or any other Act, may be used to pay the salary or pay of any individual in any office or position in an amount which exceeds the rate of salary or basic pay payable for such office or position on September 30, 1978, by more than 5.5 percent, as a result of any adjustments which take effect during such fiscal year under—
+"(a) No part of any of the funds appropriated for the fiscal year ending September 30, 1979, by this Act orany other Act, may be used to pay the salary or pay of any individual in any office or position in an amount which exceeds the rate of salary or basic pay payable for such office or position on September 30, 1978, by more than 5.5 percent, as a result of any adjustments which take effect during such fiscal year under—
 
 &emsp;"(1) section 5305 of title 5, United States Code;
 

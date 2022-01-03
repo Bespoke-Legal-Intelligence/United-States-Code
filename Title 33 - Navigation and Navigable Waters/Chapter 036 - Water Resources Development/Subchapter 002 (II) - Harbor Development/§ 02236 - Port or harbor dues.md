@@ -6,7 +6,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 #### (1) Purposes
 
-&emsp;Port or harbor dues may be levied only in conjunction with a harbor navigation project whose construction is complete (including ausable increment of the project) and for the following purposes and in amounts not to exceed those necessary to carry out those purposes:
+&emsp;Port or harbor dues may be levied only in conjunction with a harbor navigation project whose construction is complete (including a usable increment of the project) and for the following purposes and in amounts not to exceed those necessary to carry out those purposes:
 
 &emsp;&emsp;(A)(i) to finance the non-Federal share of construction and operation and maintenance costs of a navigation project for a harbor under the requirements of section 2211 of this title; or
 
@@ -60,7 +60,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(ii) the name, address, and telephone number of an official to whom comments on and requests for further information on the proposal are to be directed;
 
-&emsp;&emsp;(iii) the date by which comments on the proposal are due and a date for a public hearing on the proposal at which any interested party may present a statement; however, the non-Federal interest may not set a hearing date earlier than 45 days after the date of publication of the notice in the Federal Register required by subparagraph (B) of this paragraph or set a deadline for receipt of comments earlier than 60 days after the date of publication; and
+&emsp;&emsp;(iii) the date by which comments on the proposal are due and a date for a publichearing on the proposal at which any interested party may present a statement; however, the non-Federal interest may not set a hearing date earlier than 45 days after the date of publication of the notice in the Federal Register required by subparagraph (B) of this paragraph or set a deadline for receipt of comments earlier than 60 days after the date of publication; and
 
 &emsp;&emsp;(iv) a written statement signed by an appropriate official that the non-Federal interest agrees to be governed by the provisions of this section.
 
@@ -76,7 +76,7 @@ Subject to the following conditions, a non-Federal interest may levy port or har
 
 &emsp;&emsp;(B) provide to the Comptroller General of the United States on request of the Comptroller General any records or other evidence that the Comptroller General considers to be necessary and appropriate to enable the Comptroller General to carry out the audit required under subsection (b) <sup>1</sup> of this section;
 
-&emsp;&emsp;(C) designate an officer or authorized representative, including the Secretary of the Treasury acting on a cost-reimbursable basis, to receive tonnage certificates and cargo manifests from vessels which may be subject to the levy of port or harbor dues, export declarations from shippers, consignors, and terminal operators, and suchother documents as the non-Federal interest may by law, regulation, or ordinance require for the imposition, computation, and collection of port or harbor dues; and
+&emsp;&emsp;(C) designate an officer or authorized representative, including the Secretary of the Treasury acting on a cost-reimbursable basis, to receive tonnage certificates and cargo manifests from vessels which may be subject to the levy of port or harbor dues, export declarations from shippers, consignors, and terminal operators, and such other documents as the non-Federal interest may by law, regulation, or ordinance require for the imposition, computation, and collection of port or harbor dues; and
 
 &emsp;&emsp;(D) consent expressly to the exclusive exercise of Federal jurisdiction under subsection (c) <sup>1</sup> of this section.
 
@@ -116,7 +116,7 @@ At the request of an authorized representative referred to in subsection (a)(6)(
 
 #### (e) Maritime Lien
 
-Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues levied against cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
+Port or harbor dues levied under this section against a vessel constitute a maritime lien against the vessel and port or harbor dues leviedagainst cargo constitute a lien against the cargo that may be recovered in an action in the district court of the United States for the district in which the vessel or cargo is found.
 
 (Pub. L. 99–662, title II, §208, Nov. 17, 1986, 100 Stat. 4102; Pub. L. 104–66, title I, §1021(g), Dec. 21, 1995, 109 Stat. 713.)
 

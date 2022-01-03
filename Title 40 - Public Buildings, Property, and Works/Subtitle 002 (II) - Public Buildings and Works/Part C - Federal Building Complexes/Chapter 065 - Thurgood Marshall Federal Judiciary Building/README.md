@@ -8,7 +8,7 @@
 | [6504\.](%C2%A7%2006504%20-%20Lease%20of%20building.md) | Lease of building. |
 | [6505\.](%C2%A7%2006505%20-%20Structural%20and%20mechanical%20care%20and%20security.md) | Structural and mechanical care and security. |
 | [6506\.](%C2%A7%2006506%20-%20Allocation%20of%20space.md) | Allocation of space. |
-| [6507\.](%C2%A7%2006507%20-%20Account%20in%20Treasury.md) | Account in Treasury.<br> |
+| [6507\.](%C2%A7%2006507%20-%20Account%20in%20Treasury.md) | Account in Treasury. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Working Group.—The Secretary shall establish a working group of State and local government officials, including representatives of the National Governors' Association, the National Association of Counties, the National League of Cities, the United States Conference of Mayors, the National Conference of State Legislatures, and the Alliance for Uniform Hazmat Transportation Procedures.
+Establishment of Working Group.—The Secretary shall establish a working group of State and local government officials, including representatives of the National Governors' Association, the National Association of Counties, the National League of Cities, the United StatesConference of Mayors, the National Conference of State Legislatures, and the Alliance for Uniform Hazmat Transportation Procedures.
 
 (b)
 
@@ -69,6 +69,8 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §121(a)–(g); added Nov. 16, 19
 In subsection (a), before clause (1), the words "As soon as practicable after November 16, 1990" are omitted as obsolete.
 
 In subsection (c)(1), the words "Subject to the provisions of this subsection" and "to the Secretary" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

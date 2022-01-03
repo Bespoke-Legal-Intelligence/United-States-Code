@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;With respect to a demonstration project that is designed to accomplish 1 or more of the goals described in clause (i), the State may elect to establish a program—
 
-&emsp;&emsp;&emsp;&emsp;(I) to permit foster care maintenance payments to be made under part E of subchapter IV to a long-term therapeutic family treatment center (as described in paragraph (8)(B)) on behalf of a child residing in the center; or
+&emsp;&emsp;&emsp;&emsp;(I) to permit foster care maintenance payments to be made under part E ofsubchapter IV to a long-term therapeutic family treatment center (as described in paragraph (8)(B)) on behalf of a child residing in the center; or
 
 &emsp;&emsp;&emsp;&emsp;(II) to identify and address domestic violence that endangers children and results in the placement of children in foster care.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) the term "youth" means, with respect to a State, an individual who has attained age 12 but has not attained the age at which an individual is no longer considered to be a child under the State plans under parts B and E of subchapter IV, and
 
-&emsp;&emsp;(B) the term "long-term therapeutic family treatment center" means a State licensed or certified program that enables parents and their children to live together in asafe environment for a period of not less than 6 months and provides, on-site or by referral, substance abuse treatment services, children's early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, prenatal care, sexual abuse therapy, relapse prevention, transportation, and job or vocational training or classes leading to a secondary school diploma or a certificate of general equivalence.
+&emsp;&emsp;(B) the term "long-term therapeutic family treatment center" means a State licensed or certified program that enables parents and their children to live together in a safe environment for a period of not less than 6 months and provides, on-site or by referral, substance abuse treatment services, children's early intervention services, family counseling, legal services, medical care, mental health services, nursery and preschool, parenting skills training, pediatric care, prenatal care, sexual abuse therapy, relapse prevention, transportation, and job or vocational training or classes leading to a secondary school diploma or a certificate of general equivalence.
 
 #### (b) Waiver authority
 
@@ -194,6 +194,8 @@ An Indian tribe, tribal organization, or tribal consortium that has elected to o
 
 (Aug. 14, 1935, ch. 531, title XI, §1130, as added Pub. L. 103–432, title II, §208, Oct. 31, 1994, 108 Stat. 4457; amended Pub. L. 105–89, title III, §301(a), (c), Nov. 19, 1997, 111 Stat. 2127, 2128; Pub. L. 108–40, §5, June 30, 2003, 117 Stat. 837; Pub. L. 109–288, §6(f)(8), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 112–34, title II, §201, Sept. 30, 2011, 125 Stat. 378.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1130 of act Aug. 14, 1935, was classified to section 1320b of this title prior to repeal by Pub. L. 93–647, §3(e)(1), Jan. 4, 1975, 88 Stat. 2349.
@@ -225,6 +227,8 @@ Subsec. (i). Pub. L. 112–34, §201(6), added subsec. (i).
 <b>1997</b>—Subsec. (a). Pub. L. 105–89, §301(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary may authorize not more than 10 States to conduct demonstration projects pursuant to this section which the Secretary finds are likely to promote the objectives of part B or E of subchapter IV of this chapter."
 
 Subsec. (d). Pub. L. 105–89, §301(c), inserted before period at end ", unless in the judgment of the Secretary, the demonstration project should be allowed to continue".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

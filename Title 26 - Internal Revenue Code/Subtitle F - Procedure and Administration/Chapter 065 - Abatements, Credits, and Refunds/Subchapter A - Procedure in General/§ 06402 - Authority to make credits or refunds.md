@@ -6,7 +6,7 @@ In the case of any overpayment, the Secretary, within the applicable period of l
 
 #### (b) Credits against estimated tax
 
-The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year ofthe amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
+The Secretary is authorized to prescribe regulations providing for the crediting against the estimated income tax for any taxable year of the amount determined by the taxpayer or the Secretary to be an overpayment of the income tax for a preceding taxable year.
 
 #### (c) Offset of past-due support against overpayments
 
@@ -202,7 +202,7 @@ No court of the United States shall have jurisdiction to hear any action, whethe
 
 #### (h) Federal agency
 
-For purposes of this section, the term "Federal agency" means a department, agency, or instrumentality of the United States, and includesa Government corporation (as such term is defined in section 103 of title 5, United States Code).
+For purposes of this section, the term "Federal agency" means a department, agency, or instrumentality of the United States, and includes a Government corporation (as such term is defined in section 103 of title 5, United States Code).
 
 #### (i) Treatment of payments to States
 
@@ -239,6 +239,8 @@ Not later than the date which is 6 months after the date of the enactment of the
 &emsp;(3) the refund to be delivered to the correct account of the taxpayer.
 
 (Aug. 6, 1954, ch. 736, 68A Stat. 791; Pub. L. 94–455, title XIX, §1906(b)(13) (A), (K), Oct. 4, 1976, 90 Stat. 1834, 1835; Pub. L. 97–35, title XXIII, §2331(c), Aug. 13, 1981, 95 Stat. 861; Pub. L. 98–369, div. B, title VI, §2653(b)(1), (2), July 18, 1984, 98 Stat. 1154, 1155; Pub. L. 98–378, §21(e), Aug. 16, 1984, 98 Stat. 1325; Pub. L. 100–647, title VI, §6276, Nov. 10, 1988, 102 Stat. 3753; Pub. L. 101–508, title V, §5129(c), Nov. 5, 1990, 104 Stat. 1388–288; Pub. L. 103–296, title I, §108(h)(7), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–134, title III, §31001(u)(2), Apr. 26, 1996, 110 Stat. 1321–375; Pub. L. 104–193, title I, §110(l)(7), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–33, title V, §5514(a)(1), Aug. 5, 1997, 111 Stat. 620; Pub. L. 105–206, title III, §§3505(a), 3711(a), (c), July 22, 1998, 112 Stat. 771, 779, 781; Pub. L. 109–171, title VII, §7301(d), Feb. 8, 2006, 120 Stat. 144; Pub. L. 110–328, §3(a), (d), Sept. 30, 2008, 122 Stat. 3570, 3573; Pub. L. 111–291, title VIII, §801(a), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 111–312, title V, §503(a), Dec. 17, 2010, 124 Stat. 3308; Pub. L. 114–113, div. Q, title II, §201(b), Dec. 18, 2015, 129 Stat. 3076; Pub. L. 115–141, div. U, title IV, §401(a)(285)–(287), Mar. 23, 2018, 132 Stat. 1198; Pub. L. 116–25, title I, §1407, July 1, 2019, 133 Stat. 1001.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -358,6 +360,8 @@ Subsec. (c). Pub. L. 97–35, §2331(c)(2), added subsec. (c).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–113 applicable to credits or refunds made after Dec. 31, 2016, see section 201(d) of Pub. L. 114–113, set out as a note under section 6071 of this title.
@@ -370,7 +374,7 @@ Pub. L. 111–291, title VIII, §801(b), Dec. 8, 2010, 124 Stat. 3157, provided 
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–328 applicable to refunds payable under section 6402 of this title on or after Sept.30, 2008, see section 3(e) of Pub. L. 110–328, set out as a note under section 3304 of this title.
+Amendment by Pub. L. 110–328 applicable to refunds payable under section 6402 of this title on or after Sept. 30, 2008, see section 3(e) of Pub. L. 110–328, set out as a note under section 3304 of this title.
 
 #### Effective Date of 2006 Amendment
 

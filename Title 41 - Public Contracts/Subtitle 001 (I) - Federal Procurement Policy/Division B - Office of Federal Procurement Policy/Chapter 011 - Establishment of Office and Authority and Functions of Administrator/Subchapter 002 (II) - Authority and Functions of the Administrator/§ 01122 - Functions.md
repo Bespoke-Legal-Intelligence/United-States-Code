@@ -10,7 +10,7 @@ In General.—The functions of the Administrator include—
 
 &emsp;(3) providing leadership and coordination in formulating the executive branch position on legislation relating to procurement;
 
-&emsp;(4)(A) providing for and directing the activities of the computer-based Federal Procurement Data System (including recommending to the Administrator of General Services a sufficient budget for those activities), which shall be located in the General Services Administration, in order to adequately collect, develop, and disseminate procurement data; and
+&emsp;(4)(A) providing for and directing the activities of the computer-based Federal Procurement Data System (including recommendingto the Administrator of General Services a sufficient budget for those activities), which shall be located in the General Services Administration, in order to adequately collect, develop, and disseminate procurement data; and
 
 &emsp;(B) ensuring executive agency compliance with the record requirements of section 1712 of this title;
 

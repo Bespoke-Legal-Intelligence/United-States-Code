@@ -14,6 +14,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–227, §4(c)(2)(A), Feb. 10, 1978, 92 Stat. 22, added subchapter A heading and designated sections 4940 to 4948 as subchapter A.

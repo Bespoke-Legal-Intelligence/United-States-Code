@@ -14,7 +14,7 @@ The Secretary may use funds made available to carry out this subpart for each fi
 
 #### (b) Eligibility
 
-The Secretary may carry out any of the activities described in subsection (a) directly or through grants to, or contracts or cooperative agreements with, Indian tribes, Indian organizations, State educational agencies, local educational agencies, institutions of higher education, including Indian institutions of higher education, and other public and private agencies and institutions.
+The Secretary may carry out any of the activities described in subsection (a) directly or through grants to, or contracts or cooperativeagreements with, Indian tribes, Indian organizations, State educational agencies, local educational agencies, institutions of higher education, including Indian institutions of higher education, and other public and private agencies and institutions.
 
 #### (c) Coordination
 
@@ -25,6 +25,8 @@ Research activities supported under this section—
 &emsp;(2) may include collaborative research activities that are jointly funded and carried out by the Office of Indian Education Programs, the Bureau of Indian Education, and the Institute of Education Sciences.
 
 (Pub. L. 89–10, title VI, §6131, formerly title VII, §7131, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1923; amended Pub. L. 107–279, title IV, §404(d)(5)(E), (8), Nov. 5, 2002, 116 Stat. 1986; renumbered title VI, §6131, and amended Pub. L. 114–95, title VI, §§6001(a), (b)(1), 6002(m), Dec. 10, 2015, 129 Stat. 2046, 2057.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -41,6 +43,8 @@ Subsec. (c)(2). Pub. L. 114–95, §6002(m)(2), inserted ", the Bureau of India
 <b>2002</b>—Subsec. (c)(1). Pub. L. 107–279 substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement" and "by the Institute" for "by the Office".
 
 Subsec. (c)(2). Pub. L. 107–279, §404(d)(5)(E), substituted "Institute of Education Sciences" for "Office of Educational Research and Improvement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

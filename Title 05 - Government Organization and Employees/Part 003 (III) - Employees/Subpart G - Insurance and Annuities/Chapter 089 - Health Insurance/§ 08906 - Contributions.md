@@ -10,9 +10,9 @@
 
 (2) In determining each weighted average under paragraph (1), the weight to be given to a particular subscription charge shall, with respect to each plan (and option) to which it is to apply, be commensurate with the number of enrollees enrolled in such plan (and option) as of March 31 of the year in which the determination is being made.
 
-(3) For purposes of paragraph (2), the term "enrollee" means any individual who, duringthe contract year for which the weighted average is to be used under this section, will be eligible for a Government contribution for health benefits.
+(3) For purposes of paragraph (2), the term "enrollee" means any individual who, during the contract year for which the weighted average is to be used under this section, will be eligible for a Government contribution for health benefits.
 
-(b)(1) Except as provided in paragraphs (2), (3), and (4), the biweekly Government contribution for health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 72 percent of the weighted average under subsection (a)(1)(A) or (B), as applicable. For an employee, the adjustment begins on the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.
+(b)(1) Except as provided in paragraphs (2), (3), and (4), the biweekly Government contributionfor health benefits for an employee or annuitant enrolled in a health benefits plan under this chapter is adjusted to an amount equal to 72 percent of the weighted average under subsection (a)(1)(A) or (B), as applicable. For an employee, the adjustment begins on the first day of the employee's first pay period of each year. For an annuitant, the adjustment begins on the first day of the first period of each year for which an annuity payment is made.
 
 (2) The biweekly Government contribution for an employee or annuitant enrolled in a plan under this chapter shall not exceed 75 percent of the subscription charge.
 
@@ -62,9 +62,9 @@
 
 &emsp;(4) in the case of an employee in a leave without pay status, from the appropriation or fund which would be used to pay the employee if he were in a pay status.
 
-(g)(1) Except as provided in paragraphs (2) and (3), the Government contributions authorized by this section for health benefits for an annuitant shall be paid from annual appropriations whichare authorized to be made for that purpose and which may be made available until expended.
+(g)(1) Except as provided in paragraphs (2) and (3), the Government contributions authorized by this section for health benefits for an annuitant shall be paid from annual appropriations which are authorized to be made for that purpose and which may be made available until expended.
 
-(2)(A) The Government contributions authorized by this section for health benefits for an individual who first becomes an annuitant by reason of retirement from employment with the United States Postal Service on or after July 1, 1971, or for a survivor of such an individual or of an individual who died on or after July 1, 1971, while employed by the United States Postal Service, shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service.
+(2)(A) The Government contributions authorized by this section for health benefits for an individual who first becomes an annuitant by reason of retirement from employment with theUnited States Postal Service on or after July 1, 1971, or for a survivor of such an individual or of an individual who died on or after July 1, 1971, while employed by the United States Postal Service, shall through September 30, 2016, be paid by the United States Postal Service, and thereafter shall be paid first from the Postal Service Retiree Health Benefits Fund up to the amount contained in the Fund, with any remaining amount paid by the United States Postal Service.
 
 (B) In determining any amount for which the Postal Service is liable under this paragraph, the amount of the liability shall be prorated to reflect only that portion of total service which is attributable to civilian service performed (by the former postal employee or by the deceased individual referred to in subparagraph (A), as the case may be) after June 30, 1971, as estimated by the Office of Personnel Management.
 
@@ -226,11 +226,11 @@ Pub. L. 107–107, div. A, title V, §519(c), Dec. 28, 2001, 115 Stat. 1096, pro
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–33, title VII, §7002(b), Aug. 5, 1997, 111 Stat. 662, provided that: "This section \[amending thissection\] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section."
+Pub. L. 105–33, title VII, §7002(b), Aug. 5, 1997, 111 Stat. 662, provided that: "This section \[amending this section\] shall take effect on the first day of the contract year that begins in 1999. Nothing in this subsection shall prevent the Office of Personnel Management from taking any action, before such first day, which it considers necessary in order to ensure the timely implementation of this section."
 
 #### Effective Date of 1990 Amendments
 
-Pub. L. 101–508, title VII, §7102(c), Nov. 5, 1990, 104 Stat. 1388–333, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date."
+Pub. L. 101–508, title VII, §7102(c), Nov. 5, 1990, 104 Stat. 1388–333, provided that: "The amendments madeby this section \[amending this section\] shall take effect on October 1, 1990, and shall apply with respect to amounts payable for periods beginning on or after that date."
 
 Pub. L. 101–303, §1(c), May 29, 1990, 104 Stat. 250, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[May 29, 1990\]. Any annuitant whose enrollment was terminated at any time before such date on account of such annuitant's annuity being insufficient to cover the amount of the required withholdings may, under regulations prescribed by the Office of Personnel Management, be prospectively reinstated in any available health benefits plan upon application of the annuitant."
 
@@ -298,7 +298,7 @@ Pub. L. 100–203, title VI, §6003, Dec. 22, 1987, 101 Stat. 1330–277, direct
 
 #### Employees Serving on Part-Time Career Employment Basis on October 10, 1978
 
-Pub. L. 95–437, §4(c)(2)(B), Oct. 10, 1978, 92 Stat. 1059, provided that: "The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employeeserving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to serve without a break in service in that or any other position on such part-time basis."
+Pub. L. 95–437, §4(c)(2)(B), Oct. 10, 1978, 92 Stat. 1059, provided that: "The amendments made by subparagraph (A) \[amending subsec. (b)(1) and (3) of this section\] shall not apply with respect to any employee serving in a position on a part-time career employment basis on the date of the enactment of this Act \[Oct. 10, 1978\] for such period as the employee continues to servewithout a break in service in that or any other position on such part-time basis."
 
 #### Calculation and Payment by Government of Contributions to Contingency Reserves of All Health Benefit Plans
 

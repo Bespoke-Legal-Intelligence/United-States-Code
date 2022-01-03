@@ -16,6 +16,8 @@ International registry.—The term "International Registry" means the registry e
 
 (Added Pub. L. 108–297, §6(a), Aug. 9, 2004, 118 Stat. 1097.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter or any legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as an Effective Date of 2004 Amendment note under section 44101 of this title.

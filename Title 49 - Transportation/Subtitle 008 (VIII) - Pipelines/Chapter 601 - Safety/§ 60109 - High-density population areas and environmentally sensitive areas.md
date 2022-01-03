@@ -102,7 +102,7 @@ Additional optional standards.—The Secretary may also prescribe standards requ
 
 &emsp;(8)
 
-Lack of regulations.—In the absence of regulations addressing the elements of an integrity management program described in this subsection, the operator of a pipeline facility shall conduct a risk analysis and adopt and implement an integrity management program described in this subsection not later than 24 months after the date of enactment of this subsection and shall complete the baseline integrity assessment described in this subsection not later than 10 years after such dateof enactment. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
+Lack of regulations.—In the absence of regulations addressing the elements of an integrity management program described in this subsection, the operator of a pipeline facility shall conduct a risk analysis and adopt and implement an integrity management program described in this subsection not later than 24 months after the date of enactment of this subsection and shall complete the baseline integrity assessment described in this subsection not later than 10 years after such date of enactment. At least 50 percent of such facilities shall be assessed not later than 5 years after such date of enactment. The operator shall prioritize such facilities for assessment based on all risk factors, including any previously discovered defects or anomalies and any history of leaks, repairs, or failures. The operator shall ensure that assessments of facilities with the highest risks are given priority for completion and that such assessments will be completed not later than 5 years after such date of enactment.
 
 &emsp;(9)
 
@@ -134,7 +134,7 @@ Transmittal of programs to state authorities.—The Secretary shall provide a co
 
 &emsp;(10)
 
-State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the risk analysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
+State review of integrity management plans.—A State authority that enters into an agreement pursuant to section 60106, permitting the State authority to review the riskanalysis and integrity management program pursuant to paragraph (9), may provide the Secretary with a written assessment of the risk analysis and integrity management program, make recommendations, as appropriate, to address safety concerns not adequately addressed by the operator's risk analysis or integrity management program, and submit documentation explaining the State-proposed revisions. The Secretary shall consider carefully the State's proposals and work in consultation with the States and operators to address safety concerns.
 
 &emsp;(11)
 
@@ -276,7 +276,7 @@ Grace period.—For the third, fourth, and fifth years after the date of promulg
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) shall—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerceof the House of Representatives a list of States found to be noncompliant with subclause (I) during the annual program evaluation; and
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a list of States found to be noncompliant with subclause (I) during the annual program evaluation; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) provide a written notice to each State authority described in item (aa) that is not in compliance with the requirements of subclause (I).
 
@@ -382,6 +382,8 @@ In subsection (a)(1)(B)(i) and (ii), the words "regulation under" and "or not" a
 
 This amends 49:60109(a)(2) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1315).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsecs. (c) and (d), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
@@ -428,7 +430,7 @@ Subsec. (d). Pub. L. 107–355, §14(b), added subsec. (d).
 
 Subsec. (a)(1)(B)(i). Pub. L. 104–304, §7(a), substituted "waters where a substantial likelihood of commercial navigation exists" for "a navigable waterway (as the Secretary defines by regulation)".
 
-Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
+Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and amended text generally. Prior toamendment, text read as follows: "When describing an area that is unusually sensitive to environmental damage if there is a hazardous liquid pipeline accident, the Secretary shall consider including—
 
 &emsp;"(1) earthquake zones and areas subject to landslides and other substantial ground movements;
 
@@ -439,6 +441,8 @@ Subsec. (b). Pub. L. 104–304, §7(b), reenacted heading without change and ame
 &emsp;"(4) river deltas and other areas subject to soil erosion or subsidence from flooding or other water action where a hazardous liquid pipeline facility is likely to become exposed or undermined."
 
 <b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 substituted "section 60102(e)" for "section 60102(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

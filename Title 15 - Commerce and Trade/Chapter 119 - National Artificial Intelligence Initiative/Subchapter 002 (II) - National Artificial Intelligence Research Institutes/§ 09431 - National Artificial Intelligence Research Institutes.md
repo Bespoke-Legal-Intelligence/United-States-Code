@@ -46,7 +46,7 @@ Subject to the availability of funds appropriated for this purpose, the Director
 
 &emsp;&emsp;(F) engaging in outreach and engagement to broaden participation in artificial intelligence research and the artificial intelligence workforce; and
 
-&emsp;&emsp;(G) such other activities that an agency head, whose agency's missions contribute to or are affected by artificial intelligence, considers consistent with the purposes described in section 9411(a) of this title.
+&emsp;&emsp;(G) such other activities that an agency head, whose agency's missions contribute toor are affected by artificial intelligence, considers consistent with the purposes described in section 9411(a) of this title.
 
 #### (4) Duration
 
@@ -85,6 +85,8 @@ Subject to the availability of funds appropriated for this purpose, the Director
 &emsp;No funds authorized in this subchapter shall be awarded to Institutes outside of the United States. All awardees and subawardees for such Institute shall be based in the United States, in addition to any other eligibility criteria as established by each agency head.
 
 (Pub. L. 116–283, div. E, title LII, §5201, Jan. 1, 2021, 134 Stat. 4534.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

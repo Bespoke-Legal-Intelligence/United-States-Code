@@ -26,7 +26,7 @@ To be eligible to receive funds under this section, an entity shall demonstrate 
 
 &emsp;&emsp;(B) a nonprofit, nongovernmental community housing development organization or a Department of Agriculture rural housing service program; or
 
-&emsp;&emsp;(C) in the absence of a homeless service provider on tribal lands or nonprofit, nongovernmental community housing development organization on tribal lands, a tribally designated housing entity or tribal housing consortium;
+&emsp;&emsp;(C) in the absence of a homeless service provider on tribal lands or nonprofit, nongovernmental community housing development organization on tribal lands, a triballydesignated housing entity or tribal housing consortium;
 
 &emsp;(3) may include a dating violence, sexual assault, or stalking victim service provider;
 
@@ -62,7 +62,7 @@ Funds awarded to eligible entities under subsection (a) shall be used to design 
 
 &emsp;(3) may use funds for the administrative expenses related to the continuing operation, upkeep, maintenance, and use of housing described in paragraph (2); and
 
-&emsp;(4) may provide to the community information about housing and housing programs, andthe process to locate and obtain long-term housing.
+&emsp;(4) may provide to the community information about housing and housing programs, and the process to locate and obtain long-term housing.
 
 #### (e) Limitation
 

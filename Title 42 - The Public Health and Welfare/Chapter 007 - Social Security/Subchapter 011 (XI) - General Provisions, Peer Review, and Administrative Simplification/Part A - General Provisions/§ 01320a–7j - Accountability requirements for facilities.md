@@ -30,7 +30,7 @@ In this section, the term "facility" means—
 
 #### (3) Requirements for compliance and ethics programs
 
-&emsp;In this subsection, the term "compliance and ethics program" means, with respect to afacility, a program of the operating organization that—
+&emsp;In this subsection, the term "compliance and ethics program" means, with respect to a facility, a program of the operating organization that—
 
 &emsp;&emsp;(A) has been reasonably designed, implemented, and enforced so that it generally will be effective in preventing and detecting criminal, civil, and administrative violations under this chapter and in promoting quality of care; and
 
@@ -94,7 +94,7 @@ In this section, the term "facility" means—
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed as preventing a resident of a facility (ora person acting on the resident's behalf) from submitting a complaint in a manner or format other than by using the standardized complaint form developed under paragraph (1) (including submitting a complaint orally).
+&emsp;Nothing in this subsection shall be construed as preventing a resident of a facility (or a person acting on the resident's behalf) from submitting a complaint in a manner or format other than by using the standardized complaint form developed under paragraph (1) (including submitting a complaint orally).
 
 #### (g) Submission of staffing information based on payroll data in a uniform format
 
@@ -152,6 +152,8 @@ Beginning not later than 2 years after March 23, 2010, and after consulting with
 
 (Aug. 14, 1935, ch. 531, title XI, §1128I, as added and amended Pub. L. 111–148, title VI, §§6102, 6105(a), 6106, 6113(a), Mar. 23, 2010, 124 Stat. 702, 711, 712, 718.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (f). Pub. L. 111–148, §6105(a), added subsec. (f).
@@ -159,6 +161,8 @@ Beginning not later than 2 years after March 23, 2010, and after consulting with
 Subsec. (g). Pub. L. 111–148, §6106, added subsec. (g).
 
 Subsec. (h). Pub. L. 111–148, §6113(a), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -226,7 +230,7 @@ Receipt of report by independent monitor.—Not later than 10 days after receipt
 
 "(e)
 
-Cost of Appointment.—A chain shall be responsible for a portion of the costs associated with the appointment of independent monitors under the demonstration project under this section. The chain shall pay such portion to the Secretary (in an amount and in accordance with procedures established by the Secretary).
+Cost of Appointment.—A chain shall be responsible for a portion of the costs associated with the appointment of independent monitors under the demonstration project under this section. The chain shall pay such portion to the Secretary (in an amount and inaccordance with procedures established by the Secretary).
 
 "(f)
 

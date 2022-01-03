@@ -12,7 +12,7 @@
 
 (4) A course offered by an educational institution that does not begin on the first day of an academic term, but does begin seven or fewer days after such day, shall be treated as beginning on such day for purposes of this section.
 
-(5) For purposes of this subsection, the term "educational institution" may include a group, district, or consortium of separately accredited educational institutions located in the same State that are organized in a manner that facilitates the centralized reporting of the enrollments in such group, district, or consortium of institutions.
+(5) For purposes of this subsection, the term "educational institution" may include a group, district, or consortium of separately accredited educational institutions located in the sameState that are organized in a manner that facilitates the centralized reporting of the enrollments in such group, district, or consortium of institutions.
 
 (b) The Secretary, prior to making payment of a reporting fee to an educational institution, as provided for in subsection (c) of this section, shall require such institution to certify that it has exercised reasonable diligence in determining whether such institution or any course offered by such institution approved for the enrollment of veterans or eligible persons meets all of the applicable requirements of chapters 31, 34, 35, and 36 of this title and that it will, without delay, report any failure to meet any such requirement to the Secretary.
 
@@ -102,7 +102,7 @@ Subsec. (c). Pub. L. 96–466, §§343(a)(2), 601(e), redesignated former subsec
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–202 substituted "$7" and "$11" for "$5" and "$6", respectively, and inserted provision that no reporting fee payable to an educational institution under this subsection be subject to offset by the Administrator against any liability of the institution for any overpayment for which the institution may be administratively determined to be liable under section 1785 of this title unless that liability is not contested by the institution or has been upheld by a final decree of a court of appropriate jurisdiction.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§507, 513(a)(17), substituted "prescribed by the Administrator" for "prescribed by him", and specified the date of interruption or termination as the last date of pursuit, or in thecase of a correspondence school, the last date a lesson was serviced.
+<b>1976</b>—Subsec. (a). Pub. L. 94–502, §§507, 513(a)(17), substituted "prescribed by the Administrator" for "prescribed by him", and specified the date of interruption or termination as the last date of pursuit, or in the case of a correspondence school, the last date a lesson was serviced.
 
 Subsec. (b). Pub. L. 94–502, §§508, 513(a)(17), substituted "$5" for "$3", "$6" for "$4", and "submit to the Administrator" for "submit to him".
 
@@ -148,7 +148,7 @@ Amendment by section 304(a)(1)(A) of Pub. L. 95–202 effective retroactively to
 
 #### Effective Date of 1976 Amendment
 
-Amendment by sections 507, 508, and 513(a)(17) of Pub. L. 94–502 effective Dec. 1, 1976, Oct. 1, 1976, and Oct. 15, 1976, respectively, see section 703 of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by sections 507, 508, and 513(a)(17) of Pub. L. 94–502 effective Dec. 1, 1976, Oct. 1, 1976, and Oct. 15,1976, respectively, see section 703 of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
 #### Effective Date of 1974 Amendment
 
@@ -196,7 +196,7 @@ Through July 31, 2018.—During the period beginning on the date of the enactmen
 
 \[(b) Repealed. Pub. L. 115–62, title IV, §411(a)(1)(B), Sept. 29, 2017, 131 Stat. 1165.\]
 
-Pub. L. 113–175, title IV, §406, Sept. 26, 2014, 128 Stat. 1905, as amended by Pub. L. 114–58, title IV, §410, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §413, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §412(c), Dec. 16, 2016, 130 Stat. 1562, provided that: "During the period beginning on the date of the enactment of this Act \[Sept. 26, 2014\] and ending on the day beforethe date of the enactment of the Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016 \[Dec. 16, 2016\], the second sentence of section 3684(c) shall be applied—
+Pub. L. 113–175, title IV, §406, Sept. 26, 2014, 128 Stat. 1905, as amended by Pub. L. 114–58, title IV, §410, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §413, Sept. 29, 2016, 130 Stat. 941; Pub. L. 114–315, title IV, §412(c), Dec. 16, 2016, 130 Stat. 1562, provided that: "During the period beginning on the date of the enactment of this Act \[Sept. 26, 2014\] and ending on the day before the date of the enactment of the Jeff Miller and Richard Blumenthal Veterans Health Care and Benefits Improvement Act of 2016 \[Dec. 16, 2016\], the second sentence of section 3684(c) shall be applied—
 
 &emsp;"(1) by substituting '$9' for '$12'; and
 

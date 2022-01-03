@@ -54,7 +54,7 @@ The regional volunteer and partnership coordinators may be responsible for assis
 
 #### (f) Revision
 
-The Secretary shall periodically review the priority areas to determine whether revisionsare necessary and may revise the priority areas, including the selection of new priority areas or removal of existing priority areas, at his sole discretion.
+The Secretary shall periodically review the priority areas to determine whether revisions are necessary and may revise the priority areas, including the selection of new priority areas orremoval of existing priority areas, at his sole discretion.
 
 (Pub. L. 114–245, §5, Nov. 28, 2016, 130 Stat. 993.)
 

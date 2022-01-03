@@ -24,6 +24,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–291, div. A, title IX, §902(b)(2), Dec. 19, 2014, 128 Stat. 3470, added item 10201 and struck out former item 10201 "Assistant Secretary of Defense for Reserve Affairs".

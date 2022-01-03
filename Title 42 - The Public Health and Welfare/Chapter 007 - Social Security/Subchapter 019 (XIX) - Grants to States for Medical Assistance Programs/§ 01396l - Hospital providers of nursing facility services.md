@@ -10,6 +10,8 @@
 
 (Aug. 14, 1935, ch. 531, title XIX, §1913, as added Pub. L. 96–499, title IX, §904(b), Dec. 5, 1980, 94 Stat. 2617; amended Pub. L. 98–369, div. B, title III, §2369(a), July 18, 1984, 98 Stat. 1110; Pub. L. 100–203, title IV, §4211(h)(9), Dec. 22, 1987, 101 Stat. 1330–206.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–203, §4211(h)(9)(A), substituted "nursing facility services" for "skilled nursing and intermediate care services" in section catchline.
@@ -24,6 +26,8 @@ Subsec. (b)(3). Pub. L. 100–203, §4211(h)(9)(D), substituted "nursing facilit
 
 Subsec. (b)(3). Pub. L. 98–369, §2369(a)(2), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
@@ -34,7 +38,7 @@ Pub. L. 98–369, div. B, title III, §2369(b), July 18, 1984, 98 Stat. 1110, pr
 
 #### Effective Date
 
-Section effective on date on which final regulations to implement the section are first issued, see section 904(d) of Pub. L. 96–499, set out as an Effective Date note under section 1395tt of this title.
+Section effective on date on which final regulations to implement the section are first issued, see section904(d) of Pub. L. 96–499, set out as an Effective Date note under section 1395tt of this title.
 
 <i><sup>1</sup></i><i> So in original, ", respectively," probably should not appear.</i>
 

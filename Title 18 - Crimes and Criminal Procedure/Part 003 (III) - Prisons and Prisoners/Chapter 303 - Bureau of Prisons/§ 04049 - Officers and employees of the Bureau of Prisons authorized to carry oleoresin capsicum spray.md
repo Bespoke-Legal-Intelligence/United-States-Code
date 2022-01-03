@@ -18,7 +18,7 @@ Training Requirement.—
 
 &emsp;(1)
 
-In general.—In order for an officer or employee of the Bureau of Prisons, including a correctional officer, to be eligible to receive and carry oleoresin capsicum spray pursuant to this section, the officer or employee shall complete a training course before being issued such spray, and annually thereafter, on the use of oleoresin capsicum spray.
+In general.—In order for an officer or employee of the Bureau of Prisons, including acorrectional officer, to be eligible to receive and carry oleoresin capsicum spray pursuant to this section, the officer or employee shall complete a training course before being issued such spray, and annually thereafter, on the use of oleoresin capsicum spray.
 
 &emsp;(2)
 
@@ -26,7 +26,7 @@ Transferability of training.—An officer or employee of the Bureau of Prisons w
 
 &emsp;(3)
 
-Training conducted during regular employment.—An officer or employee of the Bureau of Prisons who completes a training course required under paragraph (1) shall do soduring the course of that officer or employee's regular employment, and shall be compensated at the same rate that the officer or employee would be compensated for conducting the officer or employee's regular duties.
+Training conducted during regular employment.—An officer or employee of the Bureau of Prisons who completes a training course required under paragraph (1) shall do so during the course of that officer or employee's regular employment, and shall be compensated at the same rate that the officer or employee would be compensated for conducting the officer or employee's regular duties.
 
 (c)
 

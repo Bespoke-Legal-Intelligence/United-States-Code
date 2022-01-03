@@ -18,7 +18,7 @@ The Administrator, in coordination with the Director of the Office of Victims of
 
 (2) In general, the grant criteria established pursuant to paragraph (1) may require that a program include any of the following elements:
 
-&emsp;(A) A written agreement between local law enforcement, child protective service, health, and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
+&emsp;(A) A written agreement between local law enforcement, child protective service, health,and other related agencies to coordinate child abuse investigation, prosecution, treatment, and counseling services.
 
 &emsp;(B) An appropriate site for referring, interviewing, treating, and counseling child victims of sexual and serious physical abuse and neglect and nonoffending family members (referred to as a "children's advocacy center").
 

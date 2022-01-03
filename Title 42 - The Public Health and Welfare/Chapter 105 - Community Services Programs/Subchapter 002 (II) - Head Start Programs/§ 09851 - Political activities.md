@@ -24,6 +24,8 @@ For purposes of chapter 15 of title 5, any agency which assumes responsibility f
 
 (Pub. L. 97–35, title VI, §656, Aug. 13, 1981, 95 Stat. 508; Pub. L. 110–134, §24, Dec. 12, 2007, 121 Stat. 1443.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–134, §24(1), inserted heading.

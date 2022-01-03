@@ -12,7 +12,7 @@ The following areas are hereby established as units of the National Park System 
 
 &emsp;(b) Congress finds that there is a need for access for surface transportation purposes across the Western (Kobuk River) unit of the Gates of the Arctic National Preserve (from the Ambler Mining District to the Alaska Pipeline Haul Road) and the Secretary shall permit such access in accordance with the provisions of this subsection.
 
-&emsp;(c) Upon the filing of an application pursuant to section 3164(b) and (c) of this title for a right-of-way across the Western (Kobuk River) unit of the preserve, including the Kobuk Wild and Scenic River, the Secretary shall give notice in the Federal Register of a thirty-day period for other applicants to apply for access.
+&emsp;(c) Upon the filing of an application pursuant to section 3164(b) and (c) of this title for aright-of-way across the Western (Kobuk River) unit of the preserve, including the Kobuk Wild and Scenic River, the Secretary shall give notice in the Federal Register of a thirty-day period for other applicants to apply for access.
 
 &emsp;(d) The Secretary and the Secretary of Transportation shall jointly prepare an environmental and economic analysis solely for the purpose of determining the most desirable route for the right-of-way and terms and conditions which may be required for the issuance of that right-of-way. This analysis shall be completed within one year and the draft thereof within nine months of the receipt of the application and shall be prepared in lieu of an environmental impact statement which would otherwise be required under section 102(2)(C) of the National Environmental Policy Act \[42 U.S.C. 4332(2)(C)\]. Such analysis shall be deemed to satisfy all requirements of that Act \[42 U.S.C. 4321 et seq.\] and shall not be subject to judicial review. Such environmental and economic analysis shall be prepared in accordance with the procedural requirements of section 3164(e) of this title. The Secretaries in preparing the analysis shall consider the following—
 
@@ -42,13 +42,15 @@ The following areas are hereby established as units of the National Park System 
 
 &emsp;&emsp;(2) adjacent to public lands within a unit of the National Park System as designated under this Act, and
 
-&emsp;&emsp;(3) not conveyed to such Village or other Native Corporation before the final conveyance date, shall, on such final conveyance date, be added to and included within, theadjacent unit of the National Park System (notwithstanding the applicable acreage specified in this paragraph) and managed in the manner provided in the foregoing provisions of this paragraph. For purposes of the preceding sentence the term "final conveyance date" means the date of the conveyance of lands under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or by operation of this Act, to the Village of Noatak, or to any other Native Corporation which completes the entitlement of such Village or other Corporation to conveyance of lands from the withdrawals referred to in subparagraph (1).
+&emsp;&emsp;(3) not conveyed to such Village or other Native Corporation before the final conveyance date, shall, on such final conveyance date, be added to and included within, the adjacent unit of the National Park System (notwithstanding the applicable acreage specified in this paragraph) and managed in the manner provided in the foregoing provisions of this paragraph. For purposes of the preceding sentence the term "final conveyance date" means the date of the conveyance of lands under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], or by operation of this Act, to the Village of Noatak, or to any other Native Corporation which completes the entitlement of such Village or other Corporation to conveyance of lands from the withdrawals referred to in subparagraph (1).
 
 &emsp;(9) Wrangell-Saint Elias National Park, containing approximately eight million one hundred and forty-seven thousand acres of public lands, and Wrangell-Saint Elias National Preserve, containing approximately four million one hundred and seventy-one thousand acres of public lands, as generally depicted on map numbered WRST–90,007, and dated August 1980. The park and preserve shall be managed for the following purposes, among others: To maintain unimpaired the scenic beauty and quality of high mountain peaks, foothills, glacial systems, lakes, and streams, valleys, and coastal landscapes in their natural state; to protect habitat for, and populations of, fish and wildlife including but not limited to caribou, brown/grizzly bears, Dall sheep, moose, wolves, trumpeter swans and other waterfowl, and marine mammals; and to provide continued opportunities, including reasonable access for mountain climbing, mountaineering, and other wilderness recreational activities. Subsistence uses by local residents shall be permitted in the park, where such uses are traditional, in accordance with the provisions of subchapter II of chapter 51 of this title.
 
 &emsp;(10) Yukon-Charley Rivers National Preserve, containing approximately one million seven hundred and thirteen thousand acres of public lands, as generally depicted on map numbered YUCH–90,008, and dated October 1978. The preserve shall be managed for the following purposes, among others: To maintain the environmental integrity of the entire Charley River basin, including streams, lakes and other natural features, in its undeveloped natural condition for public benefit and scientific study; to protect habitat for, and populations of, fish and wildlife, including but not limited to the peregrine falcons and other raptorial birds, caribou, moose, Dall sheep, grizzly bears, and wolves; and in a manner consistent with the foregoing, to protect and interpret historical sites and events associated with the gold rush on the Yukon River and the geological and paleontological history and cultural prehistory of the area. Except at such times when and locations where to do so would be inconsistent with the purposes of the preserve, the Secretary shall permit aircraft to continue to land at sites in the Upper Charley River watershed.
 
 (Pub. L. 96–487, title II, §201, Dec. 2, 1980, 94 Stat. 2377; Pub. L. 104–333, div. I, title III, §302(c)(2), Nov. 12, 1996, 110 Stat. 4119.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -62,6 +64,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (8)(b)(1)(A), (3), 
 
 <b>1996</b>—Par. (8)(a). Pub. L. 104–333 substituted "approximately 6,477,168 acres" for "approximately six million four hundred and sixty thousand acres" and inserted "and the map entitled 'Noatak National Preserve and Noatak Wilderness Addition' dated September 1994" after "July 1980".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Anaktuvuk Pass Land Exchange
 
 Pub. L. 104–333, div. I, title III, §302, Nov. 12, 1996, 110 Stat. 4117, provided that:
@@ -70,7 +74,7 @@ Pub. L. 104–333, div. I, title III, §302, Nov. 12, 1996, 110 Stat. 4117, prov
 
 Findings.—The Congress makes the following findings:
 
-&emsp;"(1) The Alaska National Interest Lands Conservation Act (94 Stat. 2371 \[Pub. L. 96–487, see Short Title note set out under section 3101 of this title\]), enacted on December 2, 1980, established Gates of the Arctic National Park and Preserve and Gates of the Arctic Wilderness. The Village of Anaktuvuk Pass, located in the highlands of the central Brooks Range is virtually surrounded by these national park and wilderness lands and is the only Native village located within the boundary of a National Park System unit in Alaska.
+&emsp;"(1) The Alaska National Interest Lands Conservation Act (94 Stat. 2371 \[Pub. L. 96–487, see Short Title note set out under section 3101 of this title\]), enactedon December 2, 1980, established Gates of the Arctic National Park and Preserve and Gates of the Arctic Wilderness. The Village of Anaktuvuk Pass, located in the highlands of the central Brooks Range is virtually surrounded by these national park and wilderness lands and is the only Native village located within the boundary of a National Park System unit in Alaska.
 
 &emsp;"(2) Unlike most other Alaskan Native communities, the village \[sic\] of Anaktuvuk Pass is not located on a major river, lake, or coastline that can be used as a means of access. The residents of Anaktuvuk pass \[sic\] have relied increasingly on snow machines in winter and all-terrain vehicles in summer as their primary means of access to pursue caribou and other subsistence resources.
 
@@ -88,7 +92,7 @@ Ratification.—
 
 &emsp;&emsp;"(A)
 
-In general.—The terms, conditions, procedures, covenants, reservations, and other provisions set forth in the document entitled 'Donation, Exchange of Lands and Interests in Lands and Wilderness Redesignation Agreement Among Arctic SlopeRegional Corporation, Nunamiut Corporation, City of Anaktuvuk Pass and the United States of America' (hereinafter referred to in this section as 'the Agreement'), executed by the parties on December 17, 1992, as amended, are hereby incorporated in this title \[see Tables for classification\], are ratified and confirmed, and set forth the obligations and commitments of the United States, Arctic Slope Regional Corporation, Nunamiut Corporation and the City of Anaktuvuk Pass, as a matter of Federal law.
+In general.—The terms, conditions, procedures, covenants, reservations, and other provisions set forth in the document entitled 'Donation, Exchange of Lands and Interests in Lands and Wilderness Redesignation Agreement Among Arctic Slope Regional Corporation, Nunamiut Corporation, City of Anaktuvuk Pass and the United States of America' (hereinafter referred to in this section as 'the Agreement'), executed by the parties on December 17, 1992, as amended, are hereby incorporated in this title \[see Tables for classification\], are ratified and confirmed, and set forth the obligations and commitments of the United States, Arctic Slope Regional Corporation, Nunamiut Corporation and the City of Anaktuvuk Pass, as a matter of Federal law.
 
 &emsp;&emsp;"(B)
 

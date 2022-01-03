@@ -62,7 +62,7 @@
 
 &emsp;The State election system shall include provisions to ensure that voter registration records in the State are accurate and are updated regularly, including the following:
 
-&emsp;&emsp;(A) A system of file maintenance that makes a reasonable effort to remove registrants who are ineligible to vote from the official list of eligible voters. Under such system, consistent with the National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.) \[now 52 U.S.C. 20501 et seq.\], registrantswho have not responded to a notice and who have not voted in 2 consecutive general elections for Federal office shall be removed from the official list of eligible voters, except that no registrant may be removed solely by reason of a failure to vote.
+&emsp;&emsp;(A) A system of file maintenance that makes a reasonable effort to remove registrants who are ineligible to vote from the official list of eligible voters. Under such system, consistent with the National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.) \[now 52 U.S.C. 20501 et seq.\], registrants who have not responded to a notice and who have not voted in 2 consecutive general elections for Federal office shall be removed from the official list of eligible voters, except that no registrant may be removed solely by reason of a failure to vote.
 
 &emsp;&emsp;(B) Safeguards to ensure that eligible voters are not removed in error from the official list of eligible voters.
 

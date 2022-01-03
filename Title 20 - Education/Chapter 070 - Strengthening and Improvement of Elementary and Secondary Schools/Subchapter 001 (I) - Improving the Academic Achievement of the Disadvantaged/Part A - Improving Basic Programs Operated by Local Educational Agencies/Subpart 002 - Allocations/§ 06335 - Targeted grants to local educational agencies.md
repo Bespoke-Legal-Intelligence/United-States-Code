@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;The amount of the grant that a local educational agency in a State (other than theCommonwealth of Puerto Rico) is eligible to receive under this section for any fiscal year shall be the product of—
+&emsp;The amount of the grant that a local educational agency in a State (other than the Commonwealth of Puerto Rico) is eligible to receive under this section for any fiscal year shall be the product of—
 
 &emsp;&emsp;(A) the weighted child count determined under subsection (c); and
 
@@ -123,6 +123,8 @@ Notwithstanding any other provision of this section or section 6332 of this titl
 &emsp;&emsp;(B) 150 percent of the national average grant under this section per child described in section 6333(c) of this title, without application of a weighting factor, multiplied by the State's total number of children described in section 6333(c) of this title, without application of a weighting factor.
 
 (Pub. L. 89–10, title I, §1125, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1522.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

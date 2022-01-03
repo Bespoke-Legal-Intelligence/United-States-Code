@@ -34,6 +34,8 @@ As used in this subpart:
 
 (Pub. L. 101–336, title II, §241, July 26, 1990, 104 Stat. 346; Pub. L. 104–287, §6(k), Oct. 11, 1996, 110 Stat. 3400.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 24102 of title 49, referred to in pars. (1) and (2), was subsequently amended, and pars. (4) and (5) of section 24102 no longer define "commuter authority" and "commuter rail passenger transportation", respectively. However, such terms are defined elsewhere in that section.
@@ -45,6 +47,8 @@ In pars. (1) and (2), "section 24102(4) of title 49" substituted for "section 10
 #### Amendments
 
 <b>1996</b>—Par. (2). Pub. L. 104–287 substituted "commuter rail passenger transportation" for "commuter service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

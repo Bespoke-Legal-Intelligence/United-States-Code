@@ -66,7 +66,7 @@ State Authority.—Under a coordinated review process being implemented under th
 
 (f)
 
-Memorandum of Understanding.—The coordinated review process developed under thissection may be incorporated into a memorandum of understanding for a project between the Secretary and the heads of other Federal and State agencies identified under subsection (d) with respect to the project and, if applicable, the airport sponsor.
+Memorandum of Understanding.—The coordinated review process developed under this section may be incorporated into a memorandum of understanding for a project between the Secretary and the heads of other Federal and State agencies identified under subsection (d) with respect to the project and, if applicable, the airport sponsor.
 
 (g)
 
@@ -98,7 +98,7 @@ Agency report.—Not later than 30 days after date of receipt of a notice under 
 
 (j)
 
-Purpose and Need.—For any environmental review, analysis, opinion, permit, license, or approval that must be issued or made by a Federal or State agency that is participating in a coordinated review process under this section and that requires an analysis of purpose and need for the project, the agency, notwithstanding any other provision of law, shall be bound by the project purpose and need as defined by the Secretary.
+Purpose and Need.—For any environmental review, analysis, opinion, permit, license, or approval that must be issued or madeby a Federal or State agency that is participating in a coordinated review process under this section and that requires an analysis of purpose and need for the project, the agency, notwithstanding any other provision of law, shall be bound by the project purpose and need as defined by the Secretary.
 
 (k)
 
@@ -113,6 +113,8 @@ Solicitation and Consideration of Comments.—In applying subsections (j) and (k
 Monitoring by Task Force.—The Transportation Infrastructure Streamlining Task Force, established by Executive Order 13274 (67 Fed. Reg. 59449; relating to environmental stewardship and transportation infrastructure project reviews), may monitor airport projects that are subject to the coordinated review process under this section.
 
 (Added Pub. L. 108–176, title III, §304(a), Dec. 12, 2003, 117 Stat. 2534; amended Pub. L. 115–254, div. B, title I, §191(a), title V, §539(q), Oct. 5, 2018, 132 Stat. 3238, 3371.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (b)(2), (3). Pub. L. 115–254, §191(a)(2), added par. (2) and redesign
 Subsecs. (c)(1), (d), (h), (k). Pub. L. 115–254, §191(a)(3)–(6), substituted "subsection (b)(3)" for "subsection (b)(2)".
 
 Subsec. (l). Pub. L. 115–254, §539(q), substituted "4321" for "4371".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

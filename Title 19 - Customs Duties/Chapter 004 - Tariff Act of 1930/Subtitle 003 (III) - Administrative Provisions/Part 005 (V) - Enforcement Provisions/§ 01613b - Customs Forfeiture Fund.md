@@ -112,6 +112,8 @@ Amounts in the Fund which are not currently needed for the purposes of this sect
 
 (June 17, 1930, ch. 497, title IV, §613A, as added Pub. L. 98–573, title II, §213(a)(11), Oct. 30, 1984, 98 Stat. 2986; amended Pub. L. 99–570, title I, §1152(b)(2), title III, §3142(a), Oct. 27, 1986, 100 Stat. 3207–12, 3207–93; Pub. L. 100–71, title I, §101, July 11, 1987, 101 Stat. 438; Pub. L. 100–202, §101(m) \[title I, §106\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–397; Pub. L. 100–418, title I, §1912, Aug. 23, 1988, 102 Stat. 1320; Pub. L. 100–690, title VII, §7364, Nov. 18, 1988, 102 Stat. 4475; Pub. L. 101–382, title I, §121, Aug. 20, 1990, 104 Stat. 640; Pub. L. 101–508, title X, §10012(a), Nov. 5, 1990, 104 Stat. 1388–390; Pub. L. 104–316, title I, §110(a), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior similar provisions were contained in section 613a of act June 17, 1930, as added by Pub. L. 98–473, title II, §317, Oct. 12, 1984, 98 Stat. 2054, which was classified to section 1613a of this title and subsequently repealed.
@@ -156,7 +158,7 @@ Subsec. (a)(5)(v), (vi). Pub. L. 100–202 added cls. (v) and (vi).
 
 <b>1986</b>—Pub. L. 99–570, §1152(b)(2), which directed the repeal of this section, was itself repealed by Pub. L. 100–71. See Repeal and Revival of Section note below.
 
-Subsec. (a). Pub. L. 99–570, §3142(a)(1)(A), (F), substituted "1991" for "1987" in introductory provisionsand amended generally concluding provisions which had read as follows: "In addition to the purposes described in paragraphs (1) through (6), the fund shall be available for purchases by the United States Customs Service of evidence of (A) smuggling of controlled substances, and (B) violations of the currency and foreign transaction reporting requirements of chapter 53 of title 31 if there is a substantial probability that the violations of these requirements are related to the smuggling of controlled substances."
+Subsec. (a). Pub. L. 99–570, §3142(a)(1)(A), (F), substituted "1991" for "1987" in introductory provisions and amended generally concluding provisions which had read as follows: "In addition to the purposes described in paragraphs (1) through (6), the fund shall be available for purchases by the United States Customs Service of evidence of (A) smuggling of controlled substances, and (B) violations of the currency and foreign transaction reporting requirements of chapter 53 of title 31 if there is a substantial probability that the violations of these requirements are related to the smuggling of controlled substances."
 
 Subsec. (a)(1). Pub. L. 99–570, §3142(a)(1)(B), inserted "(including investigative costs leading to seizures)" after "of the seizure".
 
@@ -167,6 +169,8 @@ Subsec. (f). Pub. L. 99–570, §3142(a)(2), amended subsec. (f) generally. Prio
 "(1) There are authorized to be appropriated from the fund for each of the four fiscal years beginning with fiscal year 1984, not more than $10,000,000.
 
 "(2) At the end of each of the first three of such four fiscal years, any amount in the fund in excess of $10,000,000 shall be deposited in the general fund of the Treasury. At the end of the last of such four fiscal years, any amount in the fund shall be deposited in the general fund of the Treasury, and the fund shall cease to exist."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

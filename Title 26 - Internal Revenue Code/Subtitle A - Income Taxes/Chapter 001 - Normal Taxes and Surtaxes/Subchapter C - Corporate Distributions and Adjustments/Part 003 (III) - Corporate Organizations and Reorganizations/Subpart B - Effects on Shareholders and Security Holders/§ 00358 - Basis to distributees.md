@@ -56,7 +56,7 @@ This section shall not apply to property acquired by a corporation by the exchan
 
 #### (f) Definition of nonrecognition property in case of section 361 exchange
 
-For purposes of this section, the property permitted to be received under section 361 withoutthe recognition of gain or loss shall be treated as consisting only of stock or securities in another corporation a party to the reorganization.
+For purposes of this section, the property permitted to be received under section 361 without the recognition of gain or loss shall be treated as consisting only of stock or securities in another corporation a party to the reorganization.
 
 #### (g) Adjustments in intragroup transactions involving section 355
 
@@ -92,6 +92,8 @@ In the case of a distribution to which section 355 (or so much of section 356 as
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 117; Pub. L. 85–866, title I, §21(a), Sept. 2, 1958, 72 Stat. 1620; Pub. L. 90–621, §2(a), Oct. 22, 1968, 82 Stat. 1311; Pub. L. 94–253, §1(b), Mar. 31, 1976, 90 Stat. 296; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title III, §365(b), Nov. 6, 1978, 92 Stat. 2855; Pub. L. 100–647, title I, §1018(d)(5)(B), Nov. 10, 1988, 102 Stat. 3580; Pub. L. 101–508, title XI, §11801(c)(8)(G), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 105–34, title X, §1012(b)(2), Aug. 5, 1997, 111 Stat. 916; Pub. L. 106–36, title III, §3001(a)(2), (d)(6), June 25, 1999, 113 Stat. 182, 184; Pub. L. 106–554, §1(a)(7) \[title III, §309(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–638; Pub. L. 107–147, title IV, §412(c), Mar. 9, 2002, 116 Stat. 53.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (h)(1)(A). Pub. L. 107–147 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "which is assumed in exchange for such property, and".
@@ -120,6 +122,8 @@ Pub. L. 94–253, §1(b)(2), added par. (3).
 
 <b>1958</b>—Subsec. (a)(1)(A)(iii). Pub. L. 85–866 added cl. (iii).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–147 effective as if included in the provisions of the Community Renewal Tax Relief Act of 2000 \[H.R. 5662, as enacted by Pub. L. 106–554\], to which such amendment relates, see section 412(e) of Pub. L. 107–147, set out as a note under section 151 of this title.
@@ -146,7 +150,7 @@ Amendment by Pub. L. 105–34 applicable, with certain exceptions, to distributi
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -166,7 +170,7 @@ Pub. L. 85–866, §21(b), Sept. 2, 1958, 72 Stat. 1620, as amended by Pub. L. 9
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Subject to the provisions of subsection (b) hereof, all rights and interests of individuals in estates, trusts, insurance policies, annuities, remainders, pensions, workmen's compensationand veterans' benefits vested under this chapter after December 17, 1941, which have not become payable or deliverable to or have not vested in possession in the Attorney General prior to December 31, 1961, are divested: <i>Provided</i>, That the provisions of this section shall not affect the right of the Attorney General to retain all such property rights and interests and to collect all income which is payable to or vested in possession in him prior to December 31, 1961.
+Subject to the provisions of subsection (b) hereof, all rights and interests of individuals in estates, trusts, insurance policies, annuities, remainders, pensions, workmen's compensation and veterans' benefits vested under this chapter after December 17, 1941, which have not become payable or deliverable to or have not vested in possession in the Attorney General prior to December 31, 1961, are divested: <i>Provided</i>, That the provisions of this section shall not affect the right of the Attorney General to retain all such property rights and interests and to collect all income which is payable to or vested in possession in him prior to December 31, 1961.
 
 #### (b) Exception to requirement where beneficial owner convicted of certain crimes
 
@@ -13,6 +13,8 @@ Nothing contained in this section shall divest or require the divestment of any 
 At the earliest practicable time after the effective date of this Act, the Attorney General shall transmit to the lawful owner or custodian of any interest divested by this section written notice of such divestment.
 
 (Oct. 6, 1917, ch. 106, §40, as added Pub. L. 87–846, title II, §205, Oct. 22, 1962, 76 Stat. 1115.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -8,7 +8,7 @@ Notice Required.—An air carrier may end, suspend, or reduce air transportation
 
 Continuation of Service for 30
 
-Days After Notice Period.—If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to provide basic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
+Days After Notice Period.—If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to providebasic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
 
 (c)
 
@@ -26,7 +26,7 @@ Continuation of Compensation After Notice Period.—If an air carrier receiving 
 
 (e)
 
-Compensation to Air Carriers Originally Providing Service Without Compensation.—If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under section 41733 of thistitle to continue providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—
+Compensation to Air Carriers Originally Providing Service Without Compensation.—If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under section 41733 of this title to continue providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—
 
 &emsp;(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
 
@@ -96,7 +96,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(b)(2), (5)–(8); added Oct
 
 In subsection (b), the words "If at the end of the notice period under subsection (a) of this section" are substituted for "If an air carrier has provided notice to the Secretary under paragraph (2) of such air carrier's intention to suspend, terminate, or reduce service to any eligible point below the level of basic essential air service to such point, and if at the conclusion of the applicable period of notice" for clarity and to eliminate unnecessary words.
 
-In subsection (c), the words "either with or without compensation" are omitted as unnecessary. The words "shall require the carrier providing service to continue to provide service for additional 30-day periods" are substituted for "shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point", and the words "the Secretary shall decide if another carrier will provide service on a continuing basis" are substituted for "making the same determination", for clarity.
+In subsection (c), the words "either with or without compensation" are omitted as unnecessary. The words "shall require the carrier providing service to continue to provide service for additional 30-day periods" aresubstituted for "shall extend such requirement for such additional 30-day periods . . . as may be necessary to continue basic essential air service to such eligible point", and the words "the Secretary shall decide if another carrier will provide service on a continuing basis" are substituted for "making the same determination", for clarity.
 
 In subsections (d)(1) and (e)(1), the word "fair" is omitted as being included in "reasonable".
 
@@ -107,6 +107,8 @@ In subsection (e), before clause (1), the words "basic essential air service" ar
 In subsection (f), the words "basic essential air service" are substituted for "air transportation which such air carrier has proposed to terminate, reduce, or suspend" for consistency with the source provisions restated in this section.
 
 In subsection (g)(2), the words "the authority to be transferred is being used only to provide air service to the eligible place" are substituted for "unless . . . such authority is being used to provide air service with respect to more than 1 eligible point" for clarity and because of the restatement.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ The date of enactment of this subsection, referred to in subsec. (i), is the dat
 <b>1994</b>—Subsec. (g)(2). Pub. L. 103–429 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "the authority to be transferred is being used only to provide air service to the eligible place."
 
 Subsec. (h). Pub. L. 103–305 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -10,7 +10,7 @@ In General.—A person shall be entitled to a rehabilitation program under the t
 
 &emsp;&emsp;&emsp;(i) a veteran who has a service-connected disability rated at 20 percent or more which was incurred or aggravated in service on or after September 16, 1940; or
 
-&emsp;&emsp;&emsp;(ii) hospitalized or receiving outpatient medical care, services, or treatment for a service-connected disability pending discharge from the active military, naval, air, or space service, and the Secretary determines that—
+&emsp;&emsp;&emsp;(ii) hospitalized or receiving outpatient medical care, services, or treatment for aservice-connected disability pending discharge from the active military, naval, air, or space service, and the Secretary determines that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the hospital (or other medical facility) providing the hospitalization, care, services, or treatment is doing so under contract or agreement with the Secretary concerned, or is under the jurisdiction of the Secretary of Veterans Affairs or the Secretary concerned; and
 
@@ -56,7 +56,7 @@ Additional Rehabilitation Programs for Persons Who Have Exhausted Rights to Unem
 
 #### References in Text
 
-Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec.\(b)(3), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
+Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (b)(3), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Prior Provisions
 

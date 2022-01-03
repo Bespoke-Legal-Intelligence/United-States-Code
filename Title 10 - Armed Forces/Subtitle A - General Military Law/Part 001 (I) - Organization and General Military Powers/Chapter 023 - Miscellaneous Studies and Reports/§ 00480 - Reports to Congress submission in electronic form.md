@@ -14,6 +14,8 @@ Definition.—In this section, the term "report" includes any certification, not
 
 (Added Pub. L. 107–107, div. A, title X, §1042(a), Dec. 28, 2001, 115 Stat. 1218; amended Pub. L. 107–314, div. A, title X, §1042, Dec. 2, 2002, 116 Stat. 2646.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "shall provide to Congress (or" for "shall, upon request by any committee of Congress to which the report is submitted or referred, provide to Congress (or each".

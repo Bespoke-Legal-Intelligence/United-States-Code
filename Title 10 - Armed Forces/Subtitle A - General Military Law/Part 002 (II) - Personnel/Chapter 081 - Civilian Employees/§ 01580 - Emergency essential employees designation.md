@@ -24,6 +24,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 106–65, div. A, title XI, §1103(b)(1), Oct. 5, 1999, 113 Stat. 776.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (c)(1), is classified to section 112(c)(2) of Title 26, Internal Revenue Code.

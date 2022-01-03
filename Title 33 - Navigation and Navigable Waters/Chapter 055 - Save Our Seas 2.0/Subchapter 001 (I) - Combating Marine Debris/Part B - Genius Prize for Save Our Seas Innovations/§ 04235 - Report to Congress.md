@@ -12,5 +12,5 @@ Not later than 60 days after the date on which a cash prize is awarded under thi
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 116–224, Dec. 18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 116–224, Dec.18, 2020, 134 Stat. 1074, which is classified principally to this subchapter. For complete classification of title I to the Code, see Tables.
 

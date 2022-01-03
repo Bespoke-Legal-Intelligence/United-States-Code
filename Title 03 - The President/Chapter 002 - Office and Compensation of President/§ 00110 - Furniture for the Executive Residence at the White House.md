@@ -1,6 +1,6 @@
 ### §110. Furniture for the Executive Residence at the White House
 
-All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of the National Academy of Design, one member of the American Institute of Architects, and five members representing the public at large; the said committee to have full power to select and passon the articles in question and to recommend the same for acceptance.
+All furniture purchased for the use of the Executive Residence at the White House shall be, as far as practicable, of domestic manufacture. With a view to conserving in the Executive Residence at the White House the best specimens of the early American furniture and furnishings, and for the purpose of maintaining the interior of the Executive Residence at the White House in keeping with its original design, the Director of the National Park Service is authorized and directed, with the approval of the President, to accept donations of furniture and furnishings for use in the Executive Residence at the White House, all such articles thus donated to become the property of the United States and to be accounted for as such. The said Director of the National Park Service is further authorized and directed, with the approval of the President, to appoint a temporary committee composed of one representative of the American Federation of Arts, one representative of the National Commission of Fine Arts, one representative of the National Academy of Design, one member of theAmerican Institute of Architects, and five members representing the public at large; the said committee to have full power to select and pass on the articles in question and to recommend the same for acceptance.
 
 (June 25, 1948, ch. 644, 62 Stat. 679; Pub. L. 95–570, §5(c)(1), Nov. 2, 1978, 92 Stat. 2451.)
 
@@ -15,10 +15,6 @@ All furniture purchased for the use of the Executive Residence at the White Hous
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under section 102 of this title.
-
-#### Transfer of Functions
-
-Functions of officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, see Transfer of Functions note set out under section 109 of this title.
 
 #### Commission on Renovation of the Executive Mansion
 
@@ -39,6 +35,10 @@ Sec. 3. Nothing in this Act shall alter any privileges, powers, or duties vested
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, see Transfer of Functions note set out under section 109 of this title.
 
 #### Ex. Ord. No. 11145. Curator of White House; Committee for Preservation of White House
 
@@ -74,7 +74,7 @@ Section 1. (a) There shall be in the White House a Curator of the White House. T
 
 Sec. 2. There is hereby established the Committee for the Preservation of the White House, hereinafter referred to as the "Committee". The Committee shall be composed of the Director of the National Park Service, the Curator of the White House, the Secretary of the Smithsonian Institution, the Chairman of the Commission of Fine Arts, the Director of the National Gallery of Art, the Chief Usher of the White House, and so many other members as the President may from time to time appoint. The Director of the National Park Service shall serve as Chairman of the Committee and shall designate an employee of that Service to act as Executive Secretary of the Committee. Members of the Committee shall serve without compensation.
 
-Sec. 3. (a) The Committee shall report to the President and shall advise the Director of the National ParkService with respect to the discharge of his responsibility under the Act of September 22, 1961, for the preservation and the interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House. Among other things, the Committee shall make recommendations as to the articles of furniture, fixtures, and decorative objects which shall be used or displayed in the aforesaid areas of the White House and as to the decor and arrangements therein best suited to enhance the historic and artistic values of the White House and of such articles, fixtures, and objects.
+Sec. 3. (a) The Committee shall report to the President and shall advise the Director of the National Park Service with respect to the discharge of his responsibility under the Act of September 22, 1961, for the preservation and the interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House. Among other things, the Committee shall make recommendations as to the articles of furniture, fixtures, and decorative objects which shall be used or displayed in the aforesaid areas of the White House and as to the decor and arrangements therein best suited to enhance the historic and artistic values of the White House and of such articles, fixtures, and objects.
 
 (b) The Committee shall cooperate with the White House Historical Association, a nonprofit organization heretofore formed under the laws of the District of Columbia.
 
@@ -84,9 +84,11 @@ Sec. 4. Consonant with law, each Federal department and agency represented on th
 
 #### Extension of Term of Committee for the Preservation of the White House
 
-Term of Committee for the Preservation of the White House extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Committee for the Preservation of the White House extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Committee for the Preservation of the White House were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

@@ -80,7 +80,7 @@ Covered procurement action.—The term "covered procurement action" means any of
 
 Covered procurement.—The term "covered procurement" means—
 
-&emsp;&emsp;(A) a source selection for a covered system or a covered item of supply involving either a performance specification, as provided in section 3206(a)(3)(B) of this title, or an evaluation factor, as provided in section3206(b)(1) of this title, relating to supply chain risk;
+&emsp;&emsp;(A) a source selection for a covered system or a covered item of supply involving either a performance specification, as provided in section 3206(a)(3)(B) of this title, or an evaluation factor, as provided in section 3206(b)(1) of this title, relating to supply chain risk;
 
 &emsp;&emsp;(B) the consideration of proposals for and issuance of a task or delivery order for a covered system or a covered item of supply, as provided in section 3406(d)(3) of this title, where the task or delivery order contract concerned includes a contract clause establishing a requirement relating to supply chain risk; or
 
@@ -108,13 +108,15 @@ Appropriate congressional committees.—The term "appropriate congressional comm
 
 (Added Pub. L. 115–232, div. A, title VIII, §881(a)(1), Aug. 13, 2018, 132 Stat. 1910, §2339a; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(43), Dec. 20, 2019, 133 Stat. 1814; renumbered §3252 and amended Pub. L. 116–283, div. A, title X, §1081(a)(36), title XVIII, §1813(g), Jan. 1, 2021, 134 Stat. 3872, 4181.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3252, added Pub. L. 110–181, div. A, title VI, §671(a)(1), Jan. 28, 2008, 122 Stat. 181; amended Pub. L. 110–417, \[div. A\], title VI, §615(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §616(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §616(2), Jan. 7, 2011, 124 Stat. 4238, related to bonus to encourage Army personnel to refer persons for enlistment in the Army, prior to repeal by Pub. L. 114–92, div. A, title VI, §618(a), Nov. 25, 2015, 129 Stat. 840.
 
 Another prior section 3252, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, provided that temporary enlistments could be made only in the Army without specification of component, prior to repeal by Pub. L. 90–235, §2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
 
-A prior section 3253, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 87–143, §1(1), Aug. 17, 1961, 75 Stat. 364; Pub. L. 90–235, §2(a)(2)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, §512(3), Dec. 12, 1980, 94 Stat. 2929, provided that, in peace time, Army enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, §542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
+A prior section 3253, acts Aug. 10, 1956, ch. 1041, 70A Stat. 177; Pub. L. 87–143, §1(1), Aug. 17, 1961, 75 Stat. 364;Pub. L. 90–235, §2(a)(2)(A), Jan. 2, 1968, 81 Stat. 756; Pub. L. 96–513, title V, §512(3), Dec. 12, 1980, 94 Stat. 2929, provided that, in peace time, Army enlistment was available only to citizens and persons lawfully admitted to the United States for permanent residence, prior to repeal by Pub. L. 109–163, div. A, title V, §542(b)(1), Jan. 6, 2006, 119 Stat. 3253.
 
 Prior sections 3254 to 3256 were repealed by Pub. L. 90–235, §2(a)(2)(B), Jan. 2, 1968, 81 Stat. 756.
 
@@ -193,6 +195,10 @@ Subsec. (e)(2)(A). Pub. L. 116–283, §1813(g)(2), substituted "section 3243" f
 Subsec. (e)(3)(A). Pub. L. 116–283, §1813(g)(3)(A), substituted "section 3206(a)(3)(B)" for "section 2305(a)(1)(C)(ii)" and "section 3206(b)(1)" for "section 2305(a)(2)(A)".
 
 Subsec. (e)(3)(B). Pub. L. 116–283, §1813(g)(3)(B), substituted "section 3406(d)(3)" for "section 2304c(d)(3)".
+
+<b>2019</b>—Subsec. (e)(5). Pub. L. 116–92 substituted "section 3552(b)(6)" for "section 3542(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

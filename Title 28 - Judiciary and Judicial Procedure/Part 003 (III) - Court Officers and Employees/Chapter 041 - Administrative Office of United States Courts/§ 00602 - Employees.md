@@ -2,7 +2,7 @@
 
 (a) The Director shall appoint and fix the compensation of necessary employees of the Administrative Office in accordance with the Administrative Office of the United States Courts Personnel Act of 1990.
 
-(b) Notwithstanding any other law, the Director may appoint certified interpreters in accordance with section 604(a)(16)(B) of this title without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating toclassification and General Schedule pay rates, but the compensation of any person appointed under this subsection shall not exceed the appropriate equivalent of the highest rate of pay payable for the highest grade established in the General Schedule, section 5332 of title 5.
+(b) Notwithstanding any other law, the Director may appoint certified interpreters in accordance with section 604(a)(16)(B) of this title without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates, but the compensation of any person appointed under this subsection shall not exceed the appropriate equivalent of the highest rate of pay payable for the highest grade established in the General Schedule, section 5332 of title 5.
 
 (c) The Director may obtain personal services as authorized by section 3109 of title 5, at rates not to exceed the appropriate equivalent of the highest rate of pay payable for the highest grade established in the General Schedule, section 5332 of title 5.
 
@@ -48,7 +48,7 @@ Pub. L. 95–539, §10, Oct. 28, 1978, 92 Stat. 2045, provided that:
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\]of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Administrative Office of United States Courts Personnel
 

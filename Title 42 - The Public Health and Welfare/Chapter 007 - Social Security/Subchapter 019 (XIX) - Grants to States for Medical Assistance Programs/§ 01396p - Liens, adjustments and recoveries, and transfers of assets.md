@@ -72,7 +72,7 @@
 
 &emsp;(iv) With respect to a State which had a State plan amendment approved as of May 14, 1993, such a State satisfies this clause for purposes of clause (ii) if the Secretary determines that the State plan amendment provides for consumer protection standards which are no less stringent than the consumer protection standards which applied under such State plan amendment as of December 31, 2005.
 
-&emsp;(v) The regulations of the Secretary required under clause (iii)(VI) shall be promulgated after consultation with the National Association of Insurance Commissioners, issuers of long-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, and shall specify the type and format of the data and information to be reported and the frequency with which such reports are to be made. The Secretary, as appropriate, shall provide copies of the reports provided in accordance with that clause to the State involved.
+&emsp;(v) The regulations of the Secretary required under clause (iii)(VI) shall be promulgated after consultation with the National Association of Insurance Commissioners, issuers oflong-term care insurance policies, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, and shall specify the type and format of the data and information to be reported and the frequency with which such reports are to be made. The Secretary, as appropriate, shall provide copies of the reports provided in accordance with that clause to the State involved.
 
 &emsp;(vi) The Secretary, in consultation with other appropriate Federal agencies, issuers of long-term care insurance, the National Association of Insurance Commissioners, State insurance commissioners, States with experience with long-term care insurance partnership plans, other States, and representatives of consumers of long-term care insurance policies, shall develop recommendations for Congress to authorize and fund a uniform minimum data set to be reported electronically by all issuers of long-term care insurance policies under qualified State long-term care insurance partnerships to a secure, centralized electronic query and report-generating mechanism that the State, the Secretary, and other Federal agencies can access.
 
@@ -222,7 +222,7 @@
 
 &emsp;(ii) the State is named as such a beneficiary in the second position after the community spouse or minor or disabled child and is named in the first position if such spouse or a representative of such child disposes of any such remainder for less than fair market value.
 
-(G) For purposes of this paragraph with respect to a transfer of assets, the term "assets"includes an annuity purchased by or on behalf of an annuitant who has applied for medical assistance with respect to nursing facility services or other long-term care services under this subchapter unless—
+(G) For purposes of this paragraph with respect to a transfer of assets, the term "assets" includes an annuity purchased by or on behalf of an annuitant who has applied for medical assistance with respect to nursing facility services or other long-term care services under this subchapter unless—
 
 &emsp;(i) the annuity is—
 
@@ -260,7 +260,7 @@
 
 > In the case of a promissory note, loan, or mortgage that does not satisfy the requirements of clauses (i) through (iii), the value of such note, loan, or mortgage shall be the outstanding balance due as of the date of the individual's application for medical assistance for services described in subparagraph (C).
 
-(J) For purposes of this paragraph with respect to a transfer of assets, the term "assets" includes the purchase of a life estate interest in another individual's home unless the purchaser resides in the home for a period of at least 1 year after the date of the purchase.
+(J) For purposes of this paragraph with respect to a transfer of assets, the term "assets" includes the purchase of a life estate interest inanother individual's home unless the purchaser resides in the home for a period of at least 1 year after the date of the purchase.
 
 (2) An individual shall not be ineligible for medical assistance by reason of paragraph (1) to the extent that—
 
@@ -370,7 +370,7 @@
 
 (1) In order to meet the requirements of this section for purposes of section 1396a(a)(18) of this title, a State shall require, as a condition for the provision of medical assistance for services described in subsection (c)(1)(C)(i) (relating to long-term care services) for an individual, the application of the individual for such assistance (including any recertification of eligibility for such assistance) shall disclose a description of any interest the individual or community spouse has in an annuity (or similar financial instrument, as may be specified by the Secretary), regardless of whether the annuity is irrevocable or is treated as an asset. Such application or recertification form shall include a statement that under paragraph (2) the State becomes a remainder beneficiary under such an annuity or similar financial instrument by virtue of the provision of such medical assistance.
 
-(2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of the right of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
+(2)(A) In the case of disclosure concerning an annuity under subsection (c)(1)(F), the State shall notify the issuer of the annuity of theright of the State under such subsection as a preferred remainder beneficiary in the annuity for medical assistance furnished to the individual. Nothing in this paragraph shall be construed as preventing such an issuer from notifying persons with any other remainder interest of the State's remainder interest under such subsection.
 
 (B) In the case of such an issuer receiving notice under subparagraph (A), the State may require the issuer to notify the State when there is a change in the amount of income or principal being withdrawn from the amount that was being withdrawn at the time of the most recent disclosure described in paragraph (1). A State shall take such information into account in determining the amount of the State's obligations for medical assistance or in the individual's eligibility for such assistance.
 
@@ -394,7 +394,7 @@
 
 > is lawfully residing in the individual's home.
 
-(3) Nothing in this subsection shall be construed as preventing an individual from using a reverse mortgage or home equity loan to reducethe individual's total equity interest in the home.
+(3) Nothing in this subsection shall be construed as preventing an individual from using a reverse mortgage or home equity loan to reduce the individual's total equity interest in the home.
 
 (4) The Secretary shall establish a process whereby paragraph (1) is waived in the case of a demonstrated hardship.
 
@@ -430,11 +430,13 @@ In this section, the following definitions shall apply:
 
 &emsp;(3) The term "institutionalized individual" means an individual who is an inpatient in a nursing facility, who is an inpatient in a medical institution and with respect to whom payment is made based on a level of care provided in a nursing facility, or who is described in section 1396a(a)(10)(A)(ii)(VI) of this title.
 
-&emsp;(4) The term "noninstitutionalized individual" means an individual receiving any of the services specified in subsection (c)(1)(C)(ii).
+&emsp;(4) The term "noninstitutionalized individual" means an individual receiving any ofthe services specified in subsection (c)(1)(C)(ii).
 
 &emsp;(5) The term "resources" has the meaning given such term in section 1382b of this title, without regard (in the case of an institutionalized individual) to the exclusion described in subsection (a)(1) of such section.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1917, as added Pub. L. 97–248, title I, §132(b), Sept. 3, 1982, 96 Stat. 370; amended Pub. L. 97–448, title III, §309(b)(21), (22), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 100–203, title IV, §4211(h)(12), Dec. 22, 1987, 101 Stat. 1330–207; Pub. L. 100–360, title III, §303(b), title IV, §411(l)(3)(I), July 1, 1988, 102 Stat. 760, 803; Pub. L. 100–485, title VI, §608(d)(16)(B), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(1), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 103–66, title XIII, §§13611(a)–(c), 13612(a)–(c), Aug. 10, 1993, 107 Stat. 622–628; Pub. L. 109–171, title VI, §§6011(a), (b), (e), 6012(a)–(c), 6014(a), 6015(b), 6016(a)–(d), 6021(a)(1), Feb. 8, 2006, 120 Stat. 61–68; Pub. L. 109–432, div. B, title IV, §405(b)(1), Dec. 20, 2006, 120 Stat. 2998; Pub. L. 110–275, title I, §115(a), July 15, 2008, 122 Stat. 2507; Pub. L. 111–5, div. B, title V, §5006(c), Feb. 17, 2009, 123 Stat. 507; Pub. L. 113–67, div. A, title II, §202(b)(3), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 114–255, div. A, title V, §5007(a), Dec. 13, 2016, 130 Stat. 1197; Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -540,7 +542,7 @@ Subsec. (c)(1). Pub. L. 100–485, §608(d)(16)(B)(i), substituted "period of in
 
 Subsec. (c)(2)(A)(ii). Pub. L. 100–485, §608(d)(16)(B)(ii), inserted subcl. (I) and (II) designations.
 
-Subsec. (c)(2)(A)(iii). Pub. L. 100–485, §608(d)(16)(B)(iii), substituted "the individual becomes an institutionalized individual" for "of the individual'sadmission to the medical institution or nursing facility".
+Subsec. (c)(2)(A)(iii). Pub. L. 100–485, §608(d)(16)(B)(iii), substituted "the individual becomes an institutionalized individual" for "of the individual's admission to the medical institution or nursing facility".
 
 Subsec. (c)(2)(A)(iv). Pub. L. 100–485, §608(d)(16)(B)(iv), substituted "the individual becomes an institutionalized individual" for "of such individual's admission to the medical institution or nursing facility".
 
@@ -559,6 +561,8 @@ Subsec. (c)(2)(B)(ii). Pub. L. 100–203, §4211(h)(12)(B), as amended by Pub. L
 <b>1983</b>—Subsec. (b)(2)(B). Pub. L. 97–448, §309(b)(21), substituted "who" for "and" before "has lawfully resided".
 
 Subsec. (c)(2)(B)(iii). Pub. L. 97–448, §309(b)(22), substituted in subcl. (I) "can" for "cannot" and struck out from subcl. (IV) the introductory word "if".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -620,7 +624,7 @@ Pub. L. 103–66, title XIII, §13611(e), Aug. 10, 1993, 107 Stat. 627, provided
 
 &emsp;"(C) with respect to trusts established on or before the date of the enactment of this Act.
 
-"(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements imposed by such amendment solely on the basis of its failure to meet these additional requirements before the first day ofthe first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
+"(3) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by the amendment made by subsection (b) \[amending this section\], the State plan shall not be regarded as failing to comply with the requirements imposed by such amendment solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act \[Aug. 10, 1993\]. For purposes of the preceding sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature."
 
 Pub. L. 103–66, title XIII, §13612(d), Aug. 10, 1993, 107 Stat. 628, provided that:
 
@@ -644,7 +648,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of thistitle, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1983 Amendment
 

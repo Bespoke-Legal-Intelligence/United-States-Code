@@ -68,6 +68,8 @@ In subsection (c), the word "regulations" is substituted for "rule" for consiste
 
 In subsection (d), before clause (1), the words "In combination" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted "Secretary shall" for "Secretary of Transportation shall" wherever appearing.

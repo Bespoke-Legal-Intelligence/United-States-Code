@@ -2,7 +2,7 @@
 
 #### (a) Guidance
 
-The Secretary shall provide and revise guidance, not later than September 1, 2002, and of every second year thereafter, to State educational agencies, local educational agencies, and the public on constitutionally protected prayer in public elementary schools and secondary schools, including making the guidance available by electronic means, including by posting the guidance on the Department's website in a clear and easily accessible manner. The guidance shall be reviewed, prior to distribution, by the Office of Legal Counsel of the Department of Justice for verification that theguidance represents the current state of the law concerning constitutionally protected prayer in public elementary schools and secondary schools.
+The Secretary shall provide and revise guidance, not later than September 1, 2002, and of every second year thereafter, to State educational agencies, local educational agencies, and the public on constitutionally protected prayer in public elementary schools and secondary schools, including making the guidance available by electronic means, including by posting the guidance on the Department's website in a clear and easily accessible manner. The guidance shall be reviewed, prior to distribution, by the Office of Legal Counsel of the Department of Justice for verification that the guidance represents the current state of the law concerning constitutionally protected prayer in public elementary schools and secondary schools.
 
 #### (b) Certification
 
@@ -14,6 +14,8 @@ The Secretary is authorized and directed to effectuate subsection (b) by issuing
 
 (Pub. L. 89–10, title VIII, §8524, formerly title IX, §9524, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1980; renumbered title VIII, §8524, and amended Pub. L. 114–95, title VIII, §§8001(a)(6), 8021, Dec. 10, 2015, 129 Stat. 2088, 2089, 2112.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7904, Pub. L. 89–10, title IX, §9204, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3798, established the Native Hawaiian Education Council and island councils, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
@@ -21,6 +23,8 @@ A prior section 7904, Pub. L. 89–10, title IX, §9204, as added Pub. L. 103–
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §8021, substituted "by electronic means, including by posting the guidance on the Department's website in a clear and easily accessible manner" for "on the Internet".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -46,7 +46,7 @@ Different treatment under state law of members and dependents prohibited.—Stat
 
 &emsp;&emsp;(A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for any consumer credit or loans higher than the legal limit for residents of the State; or
 
-&emsp;&emsp;(B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of themember's or dependent's domicile or permanent home of record.
+&emsp;&emsp;(B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member's or dependent's domicile or permanent home of record.
 
 (e)
 
@@ -140,7 +140,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(B) The method for calculating the applicable annual percentage rate of interest on such obligations, in accordance with the limit established under this section.
 
-&emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount andas a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
+&emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount and as a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
 
 &emsp;(D) Definitions of "creditor" under paragraph (5) and "consumer credit" under paragraph (6) of subsection (i), consistent with the provisions of this section.
 
@@ -204,6 +204,8 @@ Consumer credit.—The term "consumer credit" has the meaning provided for such 
 
 (Added Pub. L. 109–364, div. A, title VI, §670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786; Pub. L. 114–328, div. A, title X, §1081(b)(2)(A), Dec. 23, 2016, 130 Stat. 2418.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
@@ -227,6 +229,8 @@ Subsec. (h)(3). Pub. L. 112–239, §661(b)(1), inserted "and not less often tha
 Subsec. (h)(3)(E). Pub. L. 112–239, §661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: "The Office of Thrift Supervision."
 
 Subsec. (i)(2). Pub. L. 112–239, §663, amended par. (2) generally. Prior to amendment, par. (2) defined the term "dependent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

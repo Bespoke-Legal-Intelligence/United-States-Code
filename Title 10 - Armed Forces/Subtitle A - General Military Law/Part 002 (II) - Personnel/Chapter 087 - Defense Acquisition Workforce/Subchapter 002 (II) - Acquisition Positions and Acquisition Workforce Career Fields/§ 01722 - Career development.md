@@ -24,7 +24,7 @@ Best Qualified.—The Secretary of Defense shall ensure that the policies establ
 
 (f)
 
-Assignments Policy.—(1) The Secretary of Defense shall establish a policy on assigning military personnel to acquisition positions that provides for a balance between (A) the need for personnel to serve in career broadening positions, and (B) the need for requiring service ineach such position for sufficient time to provide the stability necessary to effectively carry out the duties of the position and to allow for the establishment of responsibility and accountability for actions taken in the position.
+Assignments Policy.—(1) The Secretary of Defense shall establish a policy on assigning military personnel to acquisition positions that provides for a balance between (A) the need for personnel to serve in career broadening positions, and (B) the need for requiring service in each such position for sufficient time to provide the stability necessary to effectively carry out the duties of the position and to allow for the establishment of responsibility and accountability for actions taken in the position.
 
 (2) In implementing the policy established under paragraph (1), the Secretaries of the military departments shall provide, as appropriate, for longer lengths of assignments to acquisition positions than assignments to other positions.
 
@@ -37,6 +37,8 @@ Performance Appraisals.—The Secretary of each military department, acting thro
 Balanced Workforce Policy.—In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of section 2301(b) of title 5, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1641; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), (e)(3), Dec. 28, 2001, 115 Stat. 1225, 1227; Pub. L. 116–92, div. A, title VIII, §861(e)(2), title IX, §902(15), Dec. 20, 2019, 133 Stat. 1517, 1544.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -51,6 +53,8 @@ Subsec. (b)(2)(B). Pub. L. 116–92, §902(15)(B), substituted "Under Secretary 
 Subsec. (e). Pub. L. 107–107, §1048(e)(3), struck out heading and text of subsec. (e). Text read as follows: "The Secretary of Defense shall ensure that the acquisition workforce is managed such that, for each fiscal year from October 1, 1991, through September 30, 1996, there is a substantial increase in the proportion of civilians (as compared to armed forces personnel) serving in critical acquisition positions in general, in program manager positions, and in division head positions over the proportion of civilians (as compared to armed forces personnel) in such positions on October 1, 1990."
 
 <b>1993</b>—Subsecs. (a), (b)(2)(B). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Military Positions and Assignments Policy Deadlines
 

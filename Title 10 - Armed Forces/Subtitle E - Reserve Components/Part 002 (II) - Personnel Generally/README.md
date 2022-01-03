@@ -19,6 +19,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–85, div. A, title V, §515(b), Nov. 18, 1997, 111 Stat. 1733, substituted "12551" for "\[No present sections\]" in item for chapter 1215.

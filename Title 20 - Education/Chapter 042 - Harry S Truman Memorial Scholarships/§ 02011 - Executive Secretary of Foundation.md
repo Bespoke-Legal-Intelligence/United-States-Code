@@ -2,13 +2,15 @@
 
 #### (a) Appointment; functions
 
-There shall be an Executive Secretary of the Foundation who shall be appointed by the Board. The Executive Secretary shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Secretary shall carry out such other functions consistent with the provisions of this chapter as the Board shall delegate.
+There shall be an Executive Secretary of the Foundation who shall be appointed by theBoard. The Executive Secretary shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Secretary shall carry out such other functions consistent with the provisions of this chapter as the Board shall delegate.
 
 #### (b) Compensation
 
 The Executive Secretary of the Foundation shall be compensated at the rate specified for employees placed in grade 18 of the General Schedule set forth in section 5332 of title 5.
 
 (Pub. L. 93–642, §12, Jan. 4, 1975, 88 Stat. 2280.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

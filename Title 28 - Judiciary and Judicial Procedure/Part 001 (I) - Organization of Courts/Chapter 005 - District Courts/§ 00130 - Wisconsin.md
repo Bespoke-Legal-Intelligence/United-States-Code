@@ -26,7 +26,7 @@ Provisions for maintenance of offices by the clerk and marshal, and for the appo
 
 Words "All causes and proceedings instituted in the court at Superior shall be tried therein, unless by consent of the parties, or upon the order of the court, they are transferred to another place for trial," were omitted as unnecessary. Such provision, as to civil cases, is covered by section 1404 of this title, and, as to criminal cases, is rendered unnecessary because of inherent power of the court and Rules 18–20 of the Federal Rules of Criminal Procedure.
 
-Provisions for the return of process, including criminal warrants, at Superior and other places in the western district and for the keeping of records in the clerk's office at Superior, were omitted, since such matters can be regulated more appropriately by court rule or order. (See Federal Rules of Civil Procedure, Rule 4, and Federal Rules of Criminal Procedure, Rule 4(g).)
+Provisions for the return of process, including criminal warrants, at Superior and other places in the western district and for the keeping of records in the clerk's office at Superior, were omitted, since such matterscan be regulated more appropriately by court rule or order. (See Federal Rules of Civil Procedure, Rule 4, and Federal Rules of Criminal Procedure, Rule 4(g).)
 
 Changes in arrangement and phraseology were made.
 

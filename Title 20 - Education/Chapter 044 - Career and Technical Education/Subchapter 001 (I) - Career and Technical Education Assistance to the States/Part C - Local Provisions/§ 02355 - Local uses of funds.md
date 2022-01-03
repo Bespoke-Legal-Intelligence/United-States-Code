@@ -44,7 +44,7 @@ Funds made available to eligible recipients under this part shall be used to sup
 
 &emsp;&emsp;(F) providing teachers, faculty, specialized instructional support personnel, career guidance and academic counselors, principals, school leaders, or paraprofessionals, as appropriate, with opportunities to advance knowledge, skills, and understanding in pedagogical practices, including, to the extent the eligible recipient determines that such evidence is reasonably available, evidence-based pedagogical practices;
 
-&emsp;&emsp;(G) training teachers, faculty, school leaders, administrators, specialized instructional support personnel, career guidance and academic counselors, or paraprofessionals, as appropriate, to provide appropriate accommodations for individuals with disabilities, and students with disabilities who are provided accommodations under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) or the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\];
+&emsp;&emsp;(G) training teachers, faculty, school leaders, administrators, specialized instructional support personnel, career guidance and academic counselors, or paraprofessionals, as appropriate, to provide appropriate accommodations for individuals with disabilities, and students with disabilities who are provided accommodations under the Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.) or theIndividuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\];
 
 &emsp;&emsp;(H) training teachers, faculty, specialized instructional support personnel, career guidance and academic counselors, and paraprofessionals in frameworks to effectively teach students, including a particular focus on students with disabilities and English learners, which may include universal design for learning, multi-tier systems of supports, and positive behavioral interventions and support; or
 
@@ -112,13 +112,15 @@ Each eligible recipient receiving funds under this part shall not use more than 
 
 (Pub. L. 88–210, title I, §135, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 734; amended Pub. L. 113–128, title V, §512(e)(6), July 22, 2014, 128 Stat. 1707; Pub. L. 114–95, title IX, §9215(n)(9), Dec. 10, 2015, 129 Stat. 2170; Pub. L. 115–224, title I, §134, July 31, 2018, 132 Stat. 1616.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(2)(G), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(G), (5)(H), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
-The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(H), is Pub. L. 113–128, July 22,2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5)(H), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -141,6 +143,8 @@ For prior sections 2371 to 2383, see Prior Provisions note preceding section 239
 <b>2015</b>—Subsec. (b)(1)(A). Pub. L. 114–95 substituted "a well-rounded education (as defined in section 7801 of this title)" for "the core academic subjects (as defined in section 7801 of this title)".
 
 <b>2014</b>—Subsec. (c)(16). Pub. L. 113–128 substituted "such as through referral to the system established under section 3151 of title 29" for "such as through referral to the system established under section 2841 of title 29".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

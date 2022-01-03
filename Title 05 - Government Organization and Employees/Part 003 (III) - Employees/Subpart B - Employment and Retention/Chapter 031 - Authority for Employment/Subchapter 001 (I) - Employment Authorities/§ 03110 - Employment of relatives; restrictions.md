@@ -40,7 +40,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Effective Date
 
-Pub. L. 90–206, title II, §220(a)(1), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: "This section \[enacting provisions set out as a note under section 8704 of this title\] and sections 201 \[enacting provisions set out as Short Title note under section 5332 of this title\], 207 \[amending section 5303 of this title\], 212 \[enacting provisions set out as a note under section 5303 of this title\], 218 \[enacting provisionsset out as a note under section 5332 of this title\], 221 \[enacting this section and provisions set out as a note under this section\], 224(a) and (b) \[amending sections 4101 and 8339 of this title\], and 225 \[enacting sections 351–361 of Title 2, The Congress\] shall become effective on the date of enactment of this title \[Dec. 16, 1967\]."
+Pub. L. 90–206, title II, §220(a)(1), Dec. 16, 1967, 81 Stat. 639, provided, except as otherwise expressly provided, that: "This section \[enacting provisions set out as a note under section 8704 of this title\] and sections 201 \[enacting provisions set out as Short Title note under section 5332 of this title\], 207 \[amending section 5303 of this title\], 212 \[enacting provisions set out as a note under section 5303 of this title\], 218 \[enacting provisions set out as a note under section 5332 of this title\], 221 \[enacting this section and provisions set out as a note under this section\], 224(a) and (b) \[amending sections 4101 and 8339 of this title\], and 225 \[enacting sections 351–361 of Title 2, The Congress\] shall become effective on the date of enactment of this title \[Dec. 16, 1967\]."
 
 #### Retroactive Effect
 

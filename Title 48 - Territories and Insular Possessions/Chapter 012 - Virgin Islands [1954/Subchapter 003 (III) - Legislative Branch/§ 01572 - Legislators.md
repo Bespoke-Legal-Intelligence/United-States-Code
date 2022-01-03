@@ -26,13 +26,15 @@ No member of the legislature shall hold or be appointed to any office which has 
 
 #### (g) General powers; parliamentary rules
 
-The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths.The rules of the Legislative Assembly of the Virgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
+The legislature shall be the sole judge of the elections and qualifications of its members, shall have and exercise all the authority and attributes, inherent in legislative assemblies, and shall have the power to institute and conduct investigations, issue subpena to witnesses and other parties concerned, and administer oaths. The rules of the Legislative Assembly of the Virgin Islands existing on July 22, 1954 shall continue in force and effect for sessions of the legislature, except as inconsistent with this chapter, until altered, amended, or repealed by the legislature.
 
 #### (h) Vacancies
 
 The Legislature of the Virgin Islands shall by law provide the procedure for filling any vacancy in the office of member of the legislature.
 
 (July 22, 1954, ch. 558, §6, 68 Stat. 499; Pub. L. 86–289, §2(a), (b), Sept. 16, 1959, 73 Stat. 568; Pub. L. 89–98, July 30, 1965, 79 Stat. 423; Pub. L. 90–496, §8(b), Aug. 23, 1968, 82 Stat. 839; Pub. L. 92–389, Aug. 17, 1972, 86 Stat. 563; Pub. L. 93–130, §1, Oct. 19, 1973, 87 Stat. 460.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ This chapter, referred to in subsec. (g), was in the original "this Act", meanin
 <b>1959</b>—Subsec. (a). Pub. L. 86–289, §2(a), substituted, in second sentence, "January" for "April", before "following his election", and substituted, in proviso, "1958" for "1954", "April 1959" for "January 1955", and "1961, and the term of office of each member elected in November 1960 shall commence on the second Monday in April 1961 and continue until the second Monday in January 1963" for "1957".
 
 Subsec. (e). Pub. L. 86–289, §2(b), changed the date of payment of salaries, increased the per diem from $10 to $20, and provided that the per diem paid to members of the legislature for official travel outside the Virgin Islands should not be at rates in excess of those paid Federal Government employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1973 Amendment
 

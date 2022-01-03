@@ -24,7 +24,7 @@ The Secretary and the Board of Directors of the Helen Keller National Center are
 
 #### (A) Federally insured investments and other investments
 
-&emsp;&emsp;The Endowment Fund corpus and income shall be invested in federally insured bank savings accounts or comparable interest bearing accounts, certificates of deposit, money market funds, mutual funds, obligations of the United States, or other low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State of New York.
+&emsp;&emsp;The Endowment Fund corpus and income shall be invested in federally insured banksavings accounts or comparable interest bearing accounts, certificates of deposit, money market funds, mutual funds, obligations of the United States, or other low-risk instruments and securities in which a regulated insurance company may invest under the laws of the State of New York.
 
 #### (B) Real estate
 
@@ -80,7 +80,7 @@ The Secretary and the Board of Directors of the Helen Keller National Center are
 
 #### (A) Audit
 
-&emsp;&emsp;The Center shall arrange for the conduct of an annual financial and compliance auditof the Endowment Fund in the manner prescribed by the Secretary pursuant to section 1903(a) of this title.
+&emsp;&emsp;The Center shall arrange for the conduct of an annual financial and compliance audit of the Endowment Fund in the manner prescribed by the Secretary pursuant to section 1903(a) of this title.
 
 #### (B) Report
 

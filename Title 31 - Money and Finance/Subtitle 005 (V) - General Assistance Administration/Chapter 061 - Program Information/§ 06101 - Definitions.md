@@ -112,6 +112,10 @@ Par. (7). Pub. L. 98–169, §3(a), added par. (7).
 
 Pub. L. 104–287, §6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–40, §1, Sept. 24, 2021, 135 Stat. 337, provided that: "This Act \[amending section 1105 of this title and provisions set out as a note under this section\] may be cited as the 'Congressional Budget Justification Transparency Act of 2021'."
+
 #### Short Title of 2014 Amendment
 
 Pub. L. 113–101, §1, May 9, 2014, 128 Stat. 1146, provided that: "This Act \[amending sections 3512 and 3716 of this title and enacting and amending provisions set out as notes under this section\] may be cited as the 'Digital Accountability and Transparency Act of 2014' or the 'DATA Act'."
@@ -286,7 +290,7 @@ Definitions.—In this section:
 
 Pub. L. 110–252, title VI, §6202(b), June 30, 2008, 122 Stat. 2387, provided that: "The Director of the Office of Management and Budget shall promulgate regulations to implement the amendment made by this chapter \[amending Pub. L. 109–282, set out below\]. Such regulations shall include a definition of 'total compensation' that is consistent with regulations of the Securities and Exchange Commission at section 402 of part 229 of title 17 of the Code of Federal Regulations (or any subsequent regulation)."
 
-Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, §6202(a), June 30, 2008, 122 Stat. 2387; Pub. L. 113–101, §3, May 9, 2014, 128 Stat. 1146, provided that:
+Pub. L. 109–282, Sept. 26, 2006, 120 Stat. 1186, as amended by Pub. L. 110–252, title VI, §6202(a), June 30, 2008, 122 Stat. 2387; Pub. L. 113–101, §3, May 9, 2014, 128 Stat. 1146; Pub. L. 117–40, §2(a), Sept. 24, 2021, 135 Stat. 337, provided that:
 
 #### "SECTION 1. SHORT TITLE.
 
@@ -490,7 +494,7 @@ In general.—Based on the pilot program conducted under paragraph (1), and, exc
 
 &emsp;&emsp;"(B)
 
-Extension of deadline.—For subaward recipients that receive Federal funds through State, local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
+Extension of deadline.—For subaward recipients that receive Federal funds through State,local, or tribal governments, the Director may extend the deadline for ensuring that data regarding such subawards are disclosed in the same manner as data regarding other Federal awards for a period not to exceed 18 months, if the Director determines that compliance would impose an undue burden on the subaward recipient.
 
 "(e)
 
@@ -526,39 +530,85 @@ Publication.—The Director shall make each report submitted under paragraph (1)
 
 "(a)
 
-In General.—Not later than 3 years after the date of enactment of the Digital Accountability and Transparency Act of 2014 \[May 9, 2014\], and monthly when practicable but not less than quarterly thereafter, the Secretary, in consultation with the Director, shall ensure that the information in subsection (b) is posted on the website established under section 2.
+In General.—Not less frequently than monthly when practicable, and in any event not less frequently than quarterly, the Secretary (in consultation with the Director and, with respect to information described in subsection (b)(2), the head of the applicable Federal agency) shall ensure that updated information with respect to the information described in subsection (b) is posted on the website established under section 2.
 
 "(b)
 
-Information To Be Posted.—For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
+Information To Be Posted.—
 
-&emsp;"(1) for each appropriations account, including an expired or unexpired appropriations account, the amount—
+&emsp;"(1)
 
-&emsp;&emsp;"(A) of budget authority appropriated;
+Funds.—For any funds made available to or expended by a Federal agency or component of a Federal agency, the information to be posted shall include—
 
-&emsp;&emsp;"(B) that is obligated;
+&emsp;&emsp;"(A) for each appropriations account, including an expired or unexpired appropriations account, the amount—
 
-&emsp;&emsp;"(C) of unobligated balances; and
+&emsp;&emsp;&emsp;"(i) of budget authority appropriated;
 
-&emsp;&emsp;"(D) of any other budgetary resources;
+&emsp;&emsp;&emsp;"(ii) that is obligated;
 
-&emsp;"(2) from which accounts and in what amount—
+&emsp;&emsp;&emsp;"(iii) of unobligated balances; and
 
-&emsp;&emsp;"(A) appropriations are obligated for each program activity; and
+&emsp;&emsp;&emsp;"(iv) of any other budgetary resources;
 
-&emsp;&emsp;"(B) outlays are made for each program activity;
+&emsp;&emsp;"(B) from which accounts and in what amount—
 
-&emsp;"(3) from which accounts and in what amount—
+&emsp;&emsp;&emsp;"(i) appropriations are obligated for each program activity; and
 
-&emsp;&emsp;"(A) appropriations are obligated for each object class; and
+&emsp;&emsp;&emsp;"(ii) outlays are made for each program activity;
 
-&emsp;&emsp;"(B) outlays are made for each object class; and
+&emsp;&emsp;"(C) from which accounts and in what amount—
 
-&emsp;"(4) for each program activity, the amount—
+&emsp;&emsp;&emsp;"(i) appropriations are obligated for each object class; and
 
-&emsp;&emsp;"(A) obligated for each object class; and
+&emsp;&emsp;&emsp;"(ii) outlays are made for each object class; and
 
-&emsp;&emsp;"(B) of outlays made for each object class.
+&emsp;&emsp;"(D) for each program activity, the amount—
+
+&emsp;&emsp;&emsp;"(i) obligated for each object class; and
+
+&emsp;&emsp;&emsp;"(ii) of outlays made for each object class.
+
+&emsp;"(2)
+
+Budget justifications.—
+
+&emsp;&emsp;"(A)
+
+Definitions.—In this paragraph—
+
+&emsp;&emsp;&emsp;"(i) the term 'budget justification materials' means the annual budget justification materials of a Federal agency, or a component of a Federal agency, that are submitted, in conjunction with the budget of the United States Government submitted under section 1105(a) of title 31, United States Code; and
+
+&emsp;&emsp;&emsp;"(ii) the term 'open Government data asset' has the meaning given that term in section 3502 of title 44, United States Code.
+
+&emsp;&emsp;"(B)
+
+Information.—The information to be posted—
+
+&emsp;&emsp;&emsp;"(i) shall include any budget justification materials—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) for the second fiscal year beginning after the date of enactment of this paragraph \[Sept. 24, 2021\], and each fiscal year thereafter; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) to the extent practicable, that were released for any fiscal year before the date of enactment of this paragraph; and
+
+&emsp;&emsp;&emsp;"(ii) shall not include budget justification materials the disclosure of which is prohibited by law, that are classified, or that are exempt from disclosure under section 552(b) of title 5, United States Code.
+
+&emsp;&emsp;"(C)
+
+Format.—Budget justification materials shall be posted under subparagraph (B)—
+
+&emsp;&emsp;&emsp;"(i) as an open Government data asset;
+
+&emsp;&emsp;&emsp;"(ii) in a manner that enables users to download individual reports, download all reports in bulk, and download in bulk the results of a search, to the extent practicable; and
+
+&emsp;&emsp;&emsp;"(iii) in a structured data format, to the extent practicable.
+
+&emsp;&emsp;"(D)
+
+Deadline.—The budget justification materials required to be posted under subparagraph (B)(i) shall be posted not later than 2 weeks after the date on which the budget justification materials are first submitted to Congress.
+
+&emsp;&emsp;"(E)
+
+Rule of construction.—Nothing in this paragraph shall be construed to authorize a Federal agency, or a component of a Federal agency, to destroy any budget justification materials relating to a fiscal year before the fiscal year described in subparagraph (B)(i).
 
 #### "SEC. 4. DATA STANDARDS.
 
@@ -612,7 +662,7 @@ Agencies.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued,each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
+In general.—Except as provided in subparagraph (B), not later than 2 years after the date on which the guidance under paragraph (1) is issued, each Federal agency shall report financial and payment information data in accordance with the data standards established under subsection (a).
 
 &emsp;&emsp;"(B)
 
@@ -830,7 +880,7 @@ Pub. L. 98–169, §7, Nov. 29, 1983, 97 Stat. 1115, provided that: "The Directo
 
 Ex. Ord. No. 12549, Feb. 18, 1986, 51 F.R. 6370, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to curb fraud, waste, and abuse in Federalprograms, increase agency accountability, and ensure consistency among agency regulations concerning debarment and suspension of participants in Federal programs, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to curb fraud, waste, and abuse in Federal programs, increase agency accountability, and ensure consistency among agency regulations concerning debarment and suspension of participants in Federal programs, it is hereby ordered that:
 
 Section 1. (a) To the extent permitted by law and subject to the limitations in Section 1(c), Executive departments and agencies shall participate in a system for debarment and suspension from programs and activities involving Federal financial and nonfinancial assistance and benefits. Debarment or suspension of a participant in a program by one agency shall have government-wide effect.
 

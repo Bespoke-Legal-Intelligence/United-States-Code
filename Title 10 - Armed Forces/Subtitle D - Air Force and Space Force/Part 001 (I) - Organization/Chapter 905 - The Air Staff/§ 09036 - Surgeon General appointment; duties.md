@@ -14,6 +14,8 @@ Duties.—(1) The Surgeon General serves as the principal advisor to the Secreta
 
 (Added Pub. L. 89–288, §5(a), Oct. 22, 1965, 79 Stat. 1050, §8036; amended Pub. L. 99–433, title V, §522(g)(2), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 104–106, div. A, title V, §506(c), Feb. 10, 1996, 110 Stat. 296; Pub. L. 114–328, div. A, title VII, §702(b)(3)(A), Dec. 23, 2016, 130 Stat. 2196; renumbered §9036, Pub. L. 115–232, div. A, title VIII, §806(c), Aug. 13, 2018, 132 Stat. 1833; Pub. L. 116–283, div. A, title IX, §923(b)(6), Jan. 1, 2021, 134 Stat. 3809.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 116–283, §923(b)(6)(A), substituted "Secretary of the Air Force, the Chief of Staff of the Air Force, and the Chief of Space Operations on all health and medical matters of the Air Force and the Space Force" for "Secretary of the Air Force and the Chief of Staff of the Air Force on all health and medical matters of the Air Force".
@@ -28,9 +30,11 @@ Subsec. (b)(2). Pub. L. 116–283, §923(b)(6)(B), inserted "and the Space Force
 
 <b>1986</b>—Pub. L. 99–433 substituted a semicolon for the comma in section catchline.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Service of Incumbents in Certain Positions Without Reappointment
 

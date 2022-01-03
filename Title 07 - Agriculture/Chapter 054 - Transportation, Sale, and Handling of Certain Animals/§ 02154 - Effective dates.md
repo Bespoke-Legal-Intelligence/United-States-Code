@@ -4,11 +4,13 @@ The regulations referred to in sections 2140 and 2143 of this title shall be pre
 
 (Pub. L. 89–544, §24, Aug. 24, 1966, 80 Stat. 353; Pub. L. 94–279, §15, Apr. 22, 1976, 90 Stat. 421.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Animal Welfare Act Amendments of 1976, referred to in text, is Pub. L. 94–279, Apr. 22, 1976, 90 Stat. 417, which enacted section 2156 of this title, amended sections 2131, 2132, 2134, 2136, 2139 to 2146, 2149, 2153 to 2155 of this title, and section 3001 of Title 39, Postal Service, repealed section 2150 of this title, and enacted provisions set out as notes under section 2131 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 3121 of this title and Tables.
 
-Subsections (b), (c), and (d) of section 2143 of this title, referred to in text, were redesignated subsecs. (f), (g), and (h), respectively, and new subsecs. (b), (c), and (d) of section 2143 were enacted, by Pub. L. 99–198, title XVII, §1752(a)(1), (c), Dec. 23, 1985, 99 Stat. 1645, 1647.
+Subsections (b), (c), and (d) of section 2143 of this title, referred to in text, were redesignated subsecs. (f),\(g), and (h), respectively, and new subsecs. (b), (c), and (d) of section 2143 were enacted, by Pub. L. 99–198, title XVII, §1752(a)(1), (c), Dec. 23, 1985, 99 Stat. 1645, 1647.
 
 #### Amendments
 

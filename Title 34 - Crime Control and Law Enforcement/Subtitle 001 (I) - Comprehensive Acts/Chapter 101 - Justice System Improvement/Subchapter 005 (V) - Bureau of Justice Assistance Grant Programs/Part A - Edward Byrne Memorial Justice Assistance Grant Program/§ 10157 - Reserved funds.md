@@ -10,7 +10,7 @@
 
 &emsp;(1) to combat, address, or otherwise respond to precipitous or extraordinary increases in crime, or in a type or types of crime; or
 
-&emsp;(2) to prevent, compensate for, or mitigate significant programmatic harm resulting fromoperation of the formula established under section 10156 of this title.
+&emsp;(2) to prevent, compensate for, or mitigate significant programmatic harm resulting from operation of the formula established under section 10156 of this title.
 
 (Pub. L. 90–351, title I, §506, as added Pub. L. 109–162, title XI, §1111(a)(2)(C), Jan. 5, 2006, 119 Stat. 3100.)
 

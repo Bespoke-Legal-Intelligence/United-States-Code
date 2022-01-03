@@ -90,6 +90,8 @@ Operationally critical contractor.—The term "operationally critical contractor
 
 (Added Pub. L. 113–291, div. A, title XVI, §1632(a), Dec. 19, 2014, 128 Stat. 3639; amended Pub. L. 114–92, div. A, title XVI, §1641(b), (c)(1), Nov. 25, 2015, 129 Stat. 1115, 1116; Pub. L. 116–283, div. A, title XVII, §1704, Jan. 1, 2021, 134 Stat. 4082.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (d)(1). Pub. L. 116–283 inserted "and contract requirements established pursuant to Defense Federal Acquisition Regulation Supplement clause 252.204-7012, Safeguarding Covered Defense Information and Cyber Incident Reporting," after "compliance with this section" and "and such contract requirements" before period at end.
@@ -98,9 +100,11 @@ Operationally critical contractor.—The term "operationally critical contractor
 
 Subsecs. (d), (e). Pub. L. 114–92, §1641(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Senior Military Advisor for Cyber Policy and Deputy Principal Cyber Advisor
 
-Pub. L. 116–92, div. A, title IX, §905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, §1713(b), Jan. 1, 2021, 134 Stat. 4090, provided that:
+Pub. L. 116–92, div. A, title IX, §905, Dec. 20, 2019, 133 Stat. 1557, as amended by Pub. L. 116–283, div. A, title XVII, §1713(b), Jan. 1, 2021, 134 Stat. 4090; Pub. L. 117–81, div. A, title XV, §1503(b), Dec. 27, 2021, 135 Stat. 2021, provided that:
 
 "(a)
 
@@ -108,7 +112,7 @@ Advisor.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense shall, acting through the Joint Staff, designate an officer within the Office of the Secretary of Defense to serve within that Office as the Senior Military Advisor for Cyber Policy, and concurrently, as the Deputy Principal Cyber Advisor.
+In general.—The Secretary of Defense shall, acting through the Joint Staff, designate an officer within the Office of the Under Secretary of Defense for Policy to serve within that Office as the Senior Military Advisor for Cyber Policy, and concurrently, as the Deputy Principal Cyber Advisor.
 
 &emsp;"(2)
 
@@ -250,7 +254,7 @@ Review.—Each Principal Cyber Advisor under subsection (a)(1) shall review each
 
 &emsp;"(3)
 
-Report.—Not later than March 31 of each year, each of the secretaries of the military departments shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report specifying each proposed budget for the subsequent fiscal year contained in the most-recent report submitted under paragraph (2) that the Principal Cyber Advisor did not certify to be adequate. The report of the secretary shall include a discussion of the actions that the secretary took or proposes to take, together with any additional comments that the Secretary considers appropriate regarding the adequacy or inadequacy of the proposed budgets.
+Report.—Not later than March 31 of each year, each of the secretaries of the military departmentsshall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report specifying each proposed budget for the subsequent fiscal year contained in the most-recent report submitted under paragraph (2) that the Principal Cyber Advisor did not certify to be adequate. The report of the secretary shall include a discussion of the actions that the secretary took or proposes to take, together with any additional comments that the Secretary considers appropriate regarding the adequacy or inadequacy of the proposed budgets.
 
 "(e)
 
@@ -284,17 +288,17 @@ Elements.—Each review under paragraph (1) shall include the following:
 
 &emsp;"(3)
 
-Briefing.—Not later than October 1, 2020, each of the secretaries of the military departments shall brief the Committees on Armed Services of the Senate and House of Representatives on the findings ofthe Secretary with respect to the review conducted by the Secretary pursuant to paragraph (1)."
+Briefing.—Not later than October 1, 2020, each of the secretaries of the military departments shall brief the Committees on Armed Services of the Senate and House of Representatives on the findings of the Secretary with respect to the review conducted by the Secretary pursuant to paragraph (1)."
 
 #### Consortia of Universities To Advise Secretary of Defense on Cybersecurity Matters
 
-Pub. L. 116–92, div. A, title XVI, §1659, Dec. 20, 2019, 133 Stat. 1770, provided that:
+Pub. L. 116–92, div. A, title XVI, §1659, Dec. 20, 2019, 133 Stat. 1770, as amended by Pub. L. 117–81, div. A, title XV, §1530, Dec. 27, 2021, 135 Stat. 2049, provided that:
 
 "(a)
 
-Establishment and Function.—The Secretary of Defense shall establish one or more consortia of universities to assist the Secretary on cybersecurity matters relating to the following:
+Establishment and Function.—The Secretary of Defense shall establish a consortium of universities to assist the Secretary on cybersecurity matters relating to the following:
 
-&emsp;"(1) To provide the Secretary a formal mechanism to communicate with consortium or consortia members regarding the Department of Defense's cybersecurity strategic plans, cybersecurity requirements, and priorities for basic and applied cybersecurity research.
+&emsp;"(1) To provide the Secretary a formal mechanism to communicate with consortium members regarding the Department of Defense's cybersecurity strategic plans, cybersecurity requirements, and priorities for basic and applied cybersecurity research.
 
 &emsp;"(2) To advise the Secretary on the needs of academic institutions related to cybersecurity and research conducted on behalf of the Department and provide feedback to the Secretary from members of the consortium or consortia.
 
@@ -306,7 +310,7 @@ Establishment and Function.—The Secretary of Defense shall establish one or mo
 
 "(b)
 
-Membership.—The consortium or consortia established under subsection (a) shall be open to all universities that have been designated as centers of academic excellence by the Director of the National Security Agency or the Secretary of Homeland Security.
+Membership.—The consortium established under subsection (a) shall be open to all universities that have been designated as centers of academic excellence by the Director of the National Security Agency or the Secretary of Homeland Security.
 
 "(c)
 
@@ -314,17 +318,13 @@ Organization.—
 
 &emsp;"(1)
 
-Designation of administrative chair and terms.—For each consortium established under subsection (a), the Secretary of Defense, based on recommendations from the members of the consortium, shall designate one member of the consortium to function as an administrative chair of the consortium for a term with a specific duration specified by the Secretary.
+Designation of administrative chair.—The Secretary of Defense shall designate the National Defense University College of Information and Cyberspace to function as the administrative chair of the consortium established pursuant to subsection (a).
 
 &emsp;"(2)
 
-Subsequent terms.—No member of a consortium designated under paragraph (1) may serve as the administrative chair of that consortium for two consecutive terms.
+Duties of administrative chair.—The administrative chair designated under paragraph (1) for the consortium shall—
 
-&emsp;"(3)
-
-Duties of administrative chair.—Each administrative chair designated under paragraph (1) for a consortium shall—
-
-&emsp;&emsp;"(A) act as the leader of the consortium for the term specified by the Secretary under paragraph (1);
+&emsp;&emsp;"(A) act as the leader of the consortium;
 
 &emsp;&emsp;"(B) be the liaison between the consortium and the Secretary;
 
@@ -332,13 +332,13 @@ Duties of administrative chair.—Each administrative chair designated under par
 
 &emsp;&emsp;"(D) act as a clearinghouse for Department of Defense requests relating to assistance on matters relating to cybersecurity and to provide feedback to the Secretary from members of the consortium.
 
-&emsp;"(4)
+&emsp;"(3)
 
-Executive committee.—For each consortium, the Secretary, in consultation with the administrative chair, may form an executive committee comprised of university representatives to assist the chair with the management and functions of the consortia. Executive committee institutions may not serve consecutive terms before all other consortium institutions have been afforded the opportunity to hold the position.
+Executive committee.—The Secretary, in consultation with the administrative chair, may form an executive committee for the consortium that is comprised of representatives of the Federal Government to assist the chair with the management and functions of the consortium.
 
 "(d)
 
-Consultation.—The Secretary, or a senior level designee, shall meet with each consortium not less frequently than twice per year, or at a periodicity agreed to between the Department and each such consortium.
+Consultation.—The Secretary shall meet with such members of the consortium as the Secretary considers appropriate, not less frequently than twice each year or at such periodicity as is agreed to by the Secretary and the consortium.
 
 "(e)
 

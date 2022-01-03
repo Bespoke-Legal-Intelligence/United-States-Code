@@ -78,7 +78,7 @@
 
 #### (E) Information returns
 
-&emsp;&emsp;Except to the extent provided by the Secretary, this paragraph shall not apply to part III of subchapter A of chapter 61 (relating to information returns).
+&emsp;&emsp;Except to the extent provided by the Secretary, this paragraph shall not apply topart III of subchapter A of chapter 61 (relating to information returns).
 
 #### (c) Special rules for applying subsection (b)
 
@@ -180,7 +180,7 @@
 
 #### (C) Regulations
 
-&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate toprovide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
+&emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to provide for the proper treatment of straight debt under this subchapter and for the coordination of such treatment with other provisions of this title.
 
 #### (6) Certain exempt organizations permitted as shareholders
 
@@ -326,13 +326,15 @@ In the case of a bank which changes from the reserve method of accounting for ba
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1669; amended Pub. L. 98–369, div. A, title VII, §721(c), (f), July 18, 1984, 98 Stat. 967; Pub. L. 99–514, title IX, §901(d)(4)(G), title XVIII, §1879(m)(1)(A), Oct. 22, 1986, 100 Stat. 2380, 2910; Pub. L. 100–647, title I, §1018(q)(2), Nov. 10, 1988, 102 Stat. 3585; Pub. L. 101–239, title VII, §7811(c)(6), Dec. 19, 1989, 103 Stat. 2407; Pub. L. 104–188, title I, §§1301–1302(c), 1303, 1304, 1308(a), (b), (d)(1), 1315, 1316(a), (e), 1616(b)(15), Aug. 20, 1996, 110 Stat. 1777, 1779, 1782, 1783, 1785, 1786, 1857; Pub. L. 105–34, title XVI, §1601(c)(1), (3), (4)(B), (C), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 105–206, title VI, §6007(f)(3), July 22, 1998, 112 Stat. 810; Pub. L. 106–554, §1(a)(7) \[title III, §316(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 108–357, title II, §§231(a), 232(a), 233(a), (b), 234(a), 236(a), 239(a), Oct. 22, 2004, 118 Stat. 1433–1435, 1437; Pub. L. 109–135, title IV, §§403(b), 413(a)(1), (c), Dec. 21, 2005, 119 Stat. 2620, 2641; Pub. L. 110–28, title VIII, §§8232(a), 8233(a), 8234(a), May 25, 2007, 121 Stat. 197, 198; Pub. L. 115–97, title I, §13541(a), Dec. 22, 2017, 131 Stat. 2154; Pub. L. 115–141, div. U, title I, §109(a), title IV, §401(a)(190), (d)(1)(D)(xvi), Mar. 23, 2018, 132 Stat. 1171, 1193, 1208.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this clause, referred to in subsec. (c)(2)(A)(vi), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 #### Prior Provisions
 
-A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829; Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
+A prior section 1361, acts Aug. 16, 1954, ch. 736, 68A Stat. 350; Oct. 10, 1962, Pub. L. 87–792, §7(h), 76 Stat. 829;Feb. 26, 1964, Pub. L. 88–272, title II, §225(k)(5), 78 Stat. 94; Apr. 14, 1966, Pub. L. 89–389, §4(a), 80 Stat. 115, related to election of certain partnerships and proprietorships to be taxed as domestic corporations, prior to repeal by Pub. L. 89–389, §4(b)(1), Apr. 14, 1966, 80 Stat. 116, effective Jan. 1, 1969.
 
 #### Amendments
 
@@ -434,7 +436,7 @@ Subsec. (e)(1)(A)(i). Pub. L. 104–188, §1316(e), struck out "which holds a co
 
 Subsec. (d)(3). Pub. L. 99–514, §1879(m)(1)(A), inserted at end "A substantially separate and independent share of a trust treated as a separate trust under section 663(c) shall be treated as a separate trust for purposes of this subsection and subsection (c)."
 
-<b>1984</b>—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting "during any period within a taxable year" for "during any taxable year" in provisions preceding subpar. (A), and substituting "on or before the close of such period" for "on or after the date of its incorporation and before the close of such taxable year" in subpar. (A), and "does not have gross income for such period" for "does not have taxable income for the period included within such taxable year" in subpar. (B).
+<b>1984</b>—Subsec. (c)(6). Pub. L. 98–369, §721(c), amended par. (6) generally, substituting "during any period within a taxable year" for "during any taxable year" in provisions preceding subpar. (A), and substituting "onor before the close of such period" for "on or after the date of its incorporation and before the close of such taxable year" in subpar. (A), and "does not have gross income for such period" for "does not have taxable income for the period included within such taxable year" in subpar. (B).
 
 Subsec. (d)(2)(B)(i). Pub. L. 98–369, §721(f)(3), substituted "corporation" for "S corporation" in heading and text.
 
@@ -443,6 +445,8 @@ Subsec. (d)(2)(D). Pub. L. 98–369, §721(f)(1), substituted "15 days and 2 mon
 Subsec. (d)(3). Pub. L. 98–369, §721(f)(2), in amending par. (3) generally, redesignated subpar. (C) as (A), substituted a period for ", and" at end of subpar. (B), and struck out former subpar. (A) which read "which owns stock in 1 or more S corporations".
 
 Subsec. (d)(4). Pub. L. 98–369, §721(f)(2), in amending par. (4) generally, redesignated existing provisions as subpar. (A), inserted "Failure to meet requirements of paragraph (3)(A)" as subpar. (A) heading, substituted "of paragraph (3)(A)" for "under paragraph (3)", and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date 2018 Amendment
 
@@ -520,7 +524,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Amendment by section 901(d)(4)(G) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, see section 901(e) of Pub. L. 99–514, set out as a note under section 166 of this title.
 
-Pub. L. 99–514, title XVIII, §1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: "The amendments made by this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982."
+Pub. L. 99–514, title XVIII, §1879(m)(2), Oct. 22, 1986, 100 Stat. 2910, provided that: "The amendments madeby this subsection \[amending this section and section 1368 of this title\] shall apply to taxable years beginning after December 31, 1982."
 
 #### Effective Date of 1984 Amendment
 
@@ -542,7 +546,7 @@ Amendment made by subsection (g)
 
 (1).—If—
 
-&emsp;"(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on orafter October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;"(A) any portion of a qualified stock purchase is pursuant to a binding contract entered into on or after October 19, 1982, and before the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;"(B) the purchasing corporation establishes by clear and convincing evidence that such contract was negotiated on the contemplation that, with respect to the deemed sale under section 338 of the Internal Revenue Code of 1986, paragraph (2) of section 1362(e) of such Code would apply,
 
@@ -652,7 +656,7 @@ Qualified oil corporation.—For purposes of this paragraph, the term 'qualified
 
 &emsp;&emsp;"(C)
 
-Average daily production.—For purposes of subparagraph (B), the average daily production ofdomestic crude oil or domestic natural gas shall be determined under section 613A(c)(2) of such Code without regard to the last sentence thereof.
+Average daily production.—For purposes of subparagraph (B), the average daily production of domestic crude oil or domestic natural gas shall be determined under section 613A(c)(2) of such Code without regard to the last sentence thereof.
 
 &emsp;&emsp;"(D)
 
@@ -734,7 +738,7 @@ Pub. L. 104–188, title I, §1311(a), Aug. 20, 1996, 110 Stat. 1784, provided t
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Provisions
 

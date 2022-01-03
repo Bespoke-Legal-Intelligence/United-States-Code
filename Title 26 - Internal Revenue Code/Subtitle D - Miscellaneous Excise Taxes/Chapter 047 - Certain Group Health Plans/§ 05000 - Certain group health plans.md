@@ -30,7 +30,9 @@ For purposes of this section, the term "nonconforming group health plan" means a
 
 For purposes of this section, the term "employer" does not include a Federal or other governmental entity.
 
-(Added Pub. L. 99–509, title IX, §9319(d)(1), Oct. 21, 1986, 100 Stat. 2012; amended Pub. L. 101–239, title VI, §6202(b)(2), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–66, title XIII, §13561(d)(2), (e)(2)(A), Aug. 10, 1993, 107 Stat. 594, 595.)
+(Added Pub. L. 99–509, title IX, §9319(d)(1), Oct. 21, 1986, 100 Stat. 2012; amended Pub. L. 101–239,title VI, §6202(b)(2), Dec. 19, 1989, 103 Stat. 2233; Pub. L. 103–66, title XIII, §13561(d)(2), (e)(2)(A), Aug. 10, 1993, 107 Stat. 594, 595.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -54,9 +56,11 @@ Subsec. (b). Pub. L. 101–239, §6202(b)(2)(C), substituted "Group health plan 
 
 Subsec. (c). Pub. L. 101–239, §6202(b)(2)(C), substituted "group" for "large group" in heading and amended text generally. Prior to amendment, text read as follows: "For purposes of this section, the term 'nonconforming large group health plan' means a large group health plan that at any time during a calendar year does not comply with the requirements of section 1862(b)(4)(A)(i) of the Social Security Act."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13561(d)(3), Aug. 10, 1993, 107 Stat. 594, provided that: "The amendments made bythis subsection \[amending this section and section 1395y of Title 42, The Public Health and Welfare\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 10, 1993\]."
+Pub. L. 103–66, title XIII, §13561(d)(3), Aug. 10, 1993, 107 Stat. 594, provided that: "The amendments made by this subsection \[amending this section and section 1395y of Title 42, The Public Health and Welfare\] shall take effect 90 days after the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 #### Effective Date of 1989 Amendment
 

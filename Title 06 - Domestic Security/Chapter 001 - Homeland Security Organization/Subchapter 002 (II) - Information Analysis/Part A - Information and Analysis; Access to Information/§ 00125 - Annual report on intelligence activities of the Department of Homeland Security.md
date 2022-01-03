@@ -42,5 +42,5 @@ Section was enacted as part of the Intelligence Authorization Act for Fiscal Yea
 
 #### Definitions
 
-"Congressional intelligence committees" means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives, see section 2 of Pub. L. 113–293, set out as a note under section 3003 of Title 50, War and National Defense.
+"Congressional intelligence committees" means the Select Committee on Intelligence of the Senate and thePermanent Select Committee on Intelligence of the House of Representatives, see section 2 of Pub. L. 113–293, set out as a note under section 3003 of Title 50, War and National Defense.
 

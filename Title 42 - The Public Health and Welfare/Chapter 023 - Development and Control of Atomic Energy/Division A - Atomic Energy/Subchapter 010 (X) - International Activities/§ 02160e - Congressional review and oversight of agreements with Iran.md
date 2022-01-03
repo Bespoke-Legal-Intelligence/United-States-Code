@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(ii) the adequacy of the safeguards and other control mechanisms and other assurances contained in the agreement with respect to Iran's nuclear program to ensure Iran's activities permitted thereunder will not be used to further any nuclear-related military or nuclear explosive purpose, including for any research on or development of any nuclear explosive device or any other nuclear-related military purpose; and
 
-&emsp;&emsp;&emsp;(iii) the capacity and capability of the International Atomic Energy Agency to effectively implement the verification regime required by or related to the agreement, including whether the International Atomic Energy Agency will have sufficient access to investigate suspicious sites or allegations of covert nuclear-related activities and whether it has the required funding, manpower, and authority to undertake the verification regime required by or related to the agreement.
+&emsp;&emsp;&emsp;(iii) the capacity and capability of the International Atomic Energy Agency to effectively implement the verification regime required by or related to the agreement, including whether the InternationalAtomic Energy Agency will have sufficient access to investigate suspicious sites or allegations of covert nuclear-related activities and whether it has the required funding, manpower, and authority to undertake the verification regime required by or related to the agreement.
 
 #### (B) Assumptions
 
@@ -90,7 +90,7 @@
 
 &emsp;It is the sense of Congress that—
 
-&emsp;&emsp;(A) the sanctions regime imposed on Iran by Congress is primarily responsible for bringing Iran to the table to negotiate on its nuclear program;
+&emsp;&emsp;(A) the sanctions regime imposed on Iran by Congress is primarily responsible forbringing Iran to the table to negotiate on its nuclear program;
 
 &emsp;&emsp;(B) these negotiations are a critically important matter of national security and foreign policy for the United States and its closest allies;
 
@@ -220,7 +220,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;In the House of Representatives, for purposes of this paragraph, the terms "submit" and "submits" mean submit and submits, respectively, to the Speaker of the House of Representatives.
+&emsp;&emsp;In the House of Representatives, for purposes of this paragraph, the terms "submit"and "submits" mean submit and submits, respectively, to the Speaker of the House of Representatives.
 
 #### (2) Qualifying legislation defined
 
@@ -264,7 +264,7 @@
 
 #### (C) Proceeding to consideration
 
-&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee authorized to consider qualifying legislation reports it to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of qualifying legislation, and all points of order against qualifying legislation (and against consideration of the qualifying legislation) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motionto proceed to the consideration of the qualifying legislation is agreed to, the qualifying legislation shall remain the unfinished business until disposed of.
+&emsp;&emsp;Notwithstanding Rule XXII of the Standing Rules of the Senate, it is in order at any time after the committee authorized to consider qualifying legislation reports it to the Senate or has been discharged from its consideration (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of qualifying legislation, and all points of order against qualifying legislation (and against consideration of the qualifying legislation) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the qualifying legislation is agreed to, the qualifying legislation shall remain the unfinished business until disposed of.
 
 #### (D) Debate
 
@@ -276,7 +276,7 @@
 
 #### (F) Rulings of the Chair on procedure
 
-&emsp;&emsp;Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to qualifying legislation shall be decided without debate.
+&emsp;&emsp;Appeals from the decisions of the Chair relating to the application of the rules of theSenate, as the case may be, to the procedure relating to qualifying legislation shall be decided without debate.
 
 #### (G) Consideration of veto messages
 
@@ -338,7 +338,7 @@ In this section:
 
 #### (2) Appropriate congressional committees
 
-&emsp;The term "appropriate congressional committees" means the Committee on Finance,the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;The term "appropriate congressional committees" means the Committee on Finance, the Committee on Banking, Housing, and Urban Affairs, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate and the Committee on Ways and Means, the Committee on Financial Services, the Permanent Select Committee on Intelligence, and the Committee on Foreign Affairs of the House of Representatives.
 
 #### (3) Appropriate congressional committees and leadership
 
@@ -379,6 +379,8 @@ In this section:
 &emsp;The term "United States person" has the meaning given that term in section 8511 of title 22.
 
 (Aug. 1, 1946, ch. 724, title I, §135, as added Pub. L. 114–17, §2, May 22, 2015, 129 Stat. 201.)
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Certain Functions and Authorities Under Section 135 of the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.), as amended by the Iran Nuclear Agreement Review Act of 2015
 

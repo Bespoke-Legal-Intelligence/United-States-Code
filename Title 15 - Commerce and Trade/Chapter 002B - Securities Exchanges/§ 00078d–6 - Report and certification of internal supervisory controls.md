@@ -38,7 +38,7 @@ Each report under subsection (a) shall contain—
 
 #### (d) New Director or Acting Director
 
-Notwithstanding subsection (a), if the Director of the Division of Enforcement, the Directorof the Division of Corporate Finance, or the Director of the Office of Compliance Inspections and Examinations has served as Director of the Division or Office for less than 90 days on the date on which a report is required to be submitted under subsection (a), the Commission may submit the report on the date on which the Director has served as Director for 90 days. If there is no Director of the Division of Enforcement, the Division of Corporate Finance, or the Office of Compliance Inspections and Examinations, on the date on which a report is required to be submitted under subsection (a), the Acting Director of the Division or Office may make the certification required under subsection (c).
+Notwithstanding subsection (a), if the Director of the Division of Enforcement, the Director of the Division of Corporate Finance, or the Director of the Office of Compliance Inspections and Examinations has served as Director of the Division or Office for less than 90 days on the date on which a report is required to be submitted under subsection (a), the Commission may submit the report on the date on which the Director has served as Director for 90 days. If there is no Director of the Division of Enforcement, the Division of Corporate Finance, or the Office of Compliance Inspections and Examinations, on the date on which a report is required to be submitted under subsection (a), the Acting Director of the Division or Office may make the certification required under subsection (c).
 
 #### (e) Review by the Comptroller General
 
@@ -52,9 +52,13 @@ Notwithstanding subsection (a), if the Director of the Division of Enforcement, 
 
 (Pub. L. 111–203, title IX, §961, July 21, 2010, 124 Stat. 1907.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

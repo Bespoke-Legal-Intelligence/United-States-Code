@@ -58,7 +58,7 @@ With respect to review of an order of removal under subsection (a)(1), the follo
 
 #### (2) Venue and forms
 
-&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit in which the immigration judge completed the proceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
+&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit inwhich the immigration judge completed the proceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
 
 #### (3) Service
 
@@ -208,7 +208,7 @@ A court may review a final order of removal only if—
 
 &emsp;&emsp;(A) is an alien who was not ordered removed under section 1225(b)(1) of this title, or
 
-&emsp;&emsp;(B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under section 1157 of this title, or has been granted asylum under section 1158 of this title, the court may order no remedy or relief other than to require that the petitioner be provided a hearing in accordance with section 1229a of this title. Any alien who is provided a hearing under section 1229a of this title pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1).
+&emsp;&emsp;(B) has demonstrated by a preponderance of the evidence that the alien is an alien lawfully admitted for permanent residence, has been admitted as a refugee under section 1157 of this title, or has been granted asylum under section 1158 of this title, the court may order no remedy or relief other than to require that the petitioner be provided ahearing in accordance with section 1229a of this title. Any alien who is provided a hearing under section 1229a of this title pursuant to this paragraph may thereafter obtain judicial review of any resulting final order of removal pursuant to subsection (a)(1).
 
 #### (5) Scope of inquiry
 
@@ -340,7 +340,7 @@ Subsec. (e). Pub. L. 97–116, §18(h)(1)(B), substituted "(18), or (19)" for "o
 
 Pub. L. 109–13, div. B, title I, §101(h)(3), (4), May 11, 2005, 119 Stat. 305, 306, provided that:
 
-"(3) The amendment made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to all cases in which the final administrative removal order is or was issued before, on, or after such date.
+"(3) The amendment made by subsection (e) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall applyto all cases in which the final administrative removal order is or was issued before, on, or after such date.
 
 "(4) The amendments made by subsection (f) \[amending this section\] shall take effect on the date of the enactment of this division \[May 11, 2005\] and shall apply to all cases pending before any court on or after such date."
 

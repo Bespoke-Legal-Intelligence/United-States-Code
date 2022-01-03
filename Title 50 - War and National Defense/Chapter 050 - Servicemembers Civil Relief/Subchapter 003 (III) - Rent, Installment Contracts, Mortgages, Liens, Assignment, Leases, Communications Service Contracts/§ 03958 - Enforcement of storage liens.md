@@ -12,7 +12,7 @@
 
 #### (b) Stay of proceedings
 
-In a proceeding to foreclose or enforce a lien subject to this section, the court may on its own motion, and shall if requested by a servicemember whose ability to comply with theobligation resulting in the proceeding is materially affected by military service—
+In a proceeding to foreclose or enforce a lien subject to this section, the court may on its own motion, and shall if requested by a servicemember whose ability to comply with the obligation resulting in the proceeding is materially affected by military service—
 
 &emsp;(1) stay the proceeding for a period of time as justice and equity require; or
 
@@ -26,6 +26,8 @@ A person who knowingly takes an action contrary to this section, or attempts to 
 
 (Oct. 17, 1940, ch. 888, title III, §307, as added Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2851; amended Pub. L. 111–275, title III, §303(b)(7), Oct. 13, 2010, 124 Stat. 2878.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 537 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -33,6 +35,8 @@ Section was formerly classified to section 537 of the former Appendix to this ti
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–275 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to penalties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

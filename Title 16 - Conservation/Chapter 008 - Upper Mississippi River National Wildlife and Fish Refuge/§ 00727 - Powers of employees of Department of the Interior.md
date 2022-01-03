@@ -2,7 +2,7 @@
 
 #### (a) Arrest; execution of warrants; searches
 
-Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this chapter (1) shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or of any regulation made pursuant to this chapter, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, (2) shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto, and (3) shall have authority, with a search warrant issued by an officer or court of competent jurisdiction to make a search in accordance with the terms of such warrant. Any judge of a court established under the laws of the United States, or any UnitedStates magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.
+Any employee of the Department of the Interior authorized by the Secretary of the Interior to enforce the provisions of this chapter (1) shall have power, without warrant, to arrest any person committing in the presence of such employee a violation of this chapter or of any regulation made pursuant to this chapter, and to take such person immediately for examination or trial before an officer or court of competent jurisdiction, (2) shall have power to execute any warrant or other process issued by an officer or court of competent jurisdiction to enforce the provisions of this chapter or regulations made pursuant thereto, and (3) shall have authority, with a search warrant issued by an officer or court of competent jurisdiction to make a search in accordance with the terms of such warrant. Any judge of a court established under the laws of the United States, or any United States magistrate judge may, within his respective jurisdiction, upon proper oath or affirmation showing probable cause, issue warrants in all such cases.
 
 #### (b) Seizures
 
@@ -14,9 +14,13 @@ A report of the seizure shall be made to the United States attorney for the judi
 
 (June 7, 1924, ch. 346, §8, 43 Stat. 651; 1939 Reorg. Plan No. II, §4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrate" substituted in subsec. (a) for "United States commissioner" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

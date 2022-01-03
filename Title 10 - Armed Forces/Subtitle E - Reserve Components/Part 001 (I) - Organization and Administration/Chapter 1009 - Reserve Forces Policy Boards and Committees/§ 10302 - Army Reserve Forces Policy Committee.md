@@ -82,6 +82,8 @@ In subsection (e), the words "For the purpose specified herein" are omitted as s
 
 The change is necessary to make subsection (d) coextensive with subsection (c), to which it was a proviso in the source law, the Act of June 3, 1916, chapter 134, section 5 (1st sentence of 2d par.) (formerly 10 U.S.C. 38 (1st sentence of 2d par.)).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2), (3). Pub. L. 115–232, §516(1), struck out "not on active duty" after "United States" in par. (2) and after "Army Reserve" in par. (3).
@@ -100,9 +102,11 @@ Subsec. (h). Pub. L. 99–433, §501(a)(8)(B), struck out "General" before "Staf
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–861 substituted "affecting the organization, distribution, training, appointment, assignment, promotion, or discharge of members of the Army Reserve and those of either" for "affecting the Army Reserve and either".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–168 effective on first day of first calendar month following date of enactment ofPub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
+Amendment by Pub. L. 90–168 effective on first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under section 138 of this title.
 
 #### Effective Date of 1958 Amendment
 

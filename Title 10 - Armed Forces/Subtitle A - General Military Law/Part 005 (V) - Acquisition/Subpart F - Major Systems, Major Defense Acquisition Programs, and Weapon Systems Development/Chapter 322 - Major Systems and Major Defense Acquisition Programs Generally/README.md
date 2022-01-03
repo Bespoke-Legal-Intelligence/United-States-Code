@@ -6,11 +6,15 @@
 | [<b>II.</b>](Subchapter%20002%20%28II%29%20-%20Contracting/README.md) | <b>Contracting</b> | <b>4231</b> |
 | [<b>III.</b>](Subchapter%20003%20%28III%29%20-%20Milestones%20for%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Milestones for Major Defense Acquisition Programs</b> | <b>4251</b> |
 | [<b>IV.</b>](Subchapter%20004%20%28IV%29%20-%20Additional%20Provisions%20Applicable%20Specifically%20to%20Major%20Defense%20Acquisition%20Programs/README.md) | <b>Additional Provisions Applicable Specifically to Major Defense Acquisition Programs</b> | <b>4271</b> |
-| <b>III. </b><b><sup>1</sup></b> | <b>Contractors</b> | <b>4291</b> |
+| [<b>V.</b>](Subchapter%20005%20%28V%29%20-%20Contractors/README.md) | <b>Contractors</b> | <b>4291</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be "V."</i>
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+Pub. L. 117–81, div. A, title XVII, §1701(b)(16)(A), Dec. 27, 2021, 135 Stat. 2134, amended Pub. L. 116–283, div. A, title XVIII, §1847(a), Jan. 1, 2021, 134 Stat. 4252, which added this analysis, by adding item for subchapter V and striking out a second item for subchapter III "Contractors".
 
 
 ---

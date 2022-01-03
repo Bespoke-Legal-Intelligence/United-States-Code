@@ -8,7 +8,7 @@ Every issuer of a security registered pursuant to section 78l of this title shal
 
 &emsp;(2) such annual reports (and such copies thereof), certified if required by the rules and regulations of the Commission by independent public accountants, and such quarterly reports (and such copies thereof), as the Commission may prescribe.
 
-> Every issuer of a security registered on a national securities exchange shall also file a duplicate original of such information, documents, and reports with the exchange. In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for any period prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.
+> Every issuer of a security registered on a national securities exchange shall also file a duplicate original of such information, documents, and reports with the exchange. In any registration statement, periodic report, or other reports to be filed with the Commission, an emerging growth company need not present selected financial data in accordance with section 229.301 of title 17, Code of Federal Regulations, for anyperiod prior to the earliest audited period presented in connection with its first registration statement that became effective under this chapter or the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] and, with respect to any such statement or reports, an emerging growth company may not be required to comply with any new or revised financial accounting standard until such date that a company that is not an issuer (as defined under section 7201 of this title) is required to comply with such new or revised accounting standard, if such standard applies to companies that are not issuers.
 
 #### (b) Form of report; books, records, and internal accounting; directives
 
@@ -162,7 +162,7 @@ Pro rata application.—The rates per $1,000,000 required by this subsection sha
 
 (5) In exercising its authority under this subsection, the Commission shall take such steps as it deems necessary or appropriate in the public interest or for the protection of investors (A) to achieve centralized reporting of information regarding ownership, (B) to avoid unnecessarily duplicative reporting by and minimize the compliance burden on persons required to report, and (C) to tabulate and promptly make available the information contained in any report filed pursuant to this subsection in a manner which will, in the view of the Commission, maximize the usefulness of the information to other Federal and State agencies and the public.
 
-(6) The Commission may, by rule or order, exempt, in whole or in part, any person or class ofpersons from any or all of the reporting requirements of this subsection as it deems necessary or appropriate in the public interest or for the protection of investors.
+(6) The Commission may, by rule or order, exempt, in whole or in part, any person or class of persons from any or all of the reporting requirements of this subsection as it deems necessary or appropriate in the public interest or for the protection of investors.
 
 #### (h) Large trader reporting
 
@@ -442,7 +442,7 @@ Confidentiality agreement.—Before the security-based swap data repository may 
 
 &emsp;&emsp;&emsp;&emsp;(V) validated complaint; and
 
-&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, managementresponse, remediation, retesting, and closing of noncompliance issues.
+&emsp;&emsp;&emsp;(vii) establish and follow appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues.
 
 #### (C) Annual reports
 
@@ -572,7 +572,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;In this subsection—
 
-&emsp;&emsp;(A) the term "commercial development of oil, natural gas, or minerals" includes exploration, extraction, processing, export, and other significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
+&emsp;&emsp;(A) the term "commercial development of oil, natural gas, or minerals" includes exploration, extraction, processing, export, andother significant actions relating to oil, natural gas, or minerals, or the acquisition of a license for any such activity, as determined by the Commission;
 
 &emsp;&emsp;(B) the term "foreign government" means a foreign government, a department, agency, or instrumentality of a foreign government, or a company owned by a foreign government, as determined by the Commission;
 
@@ -674,7 +674,7 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 &emsp;&emsp;(D) knowingly conducted any transaction or dealing with—
 
-&emsp;&emsp;&emsp;(i) any person the property and interests in property of which are blocked pursuantto Executive Order No. 13224 (66 Fed. Reg. 49079; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism);
+&emsp;&emsp;&emsp;(i) any person the property and interests in property of which are blocked pursuant to Executive Order No. 13224 (66 Fed. Reg. 49079; relating to blocking property and prohibiting transactions with persons who commit, threaten to commit, or support terrorism);
 
 &emsp;&emsp;&emsp;(ii) any person the property and interests in property of which are blocked pursuant to Executive Order No. 13382 (70 Fed. Reg. 38567; relating to blocking of property of weapons of mass destruction proliferators and their supporters); or
 
@@ -722,6 +722,8 @@ For purposes of this section and section 78p of this title, a person shall be de
 
 (June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", and this chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), (i), and (n)(6)(B)(v), (C)(i)(I), (7)(A), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -734,7 +736,7 @@ The Federal Deposit Insurance Act, referred to in subsec. (f)(5), is act Sept. 2
 
 Section 7201 of this title, referred to in subsec. (k)(1), was in the original "section 2 of the Sarbanes-Oxley Act of 2002", Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
 
-The Commodity Exchange Act, referred to in subsec. (n)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which isclassified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
+The Commodity Exchange Act, referred to in subsec. (n)(8), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
 Section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (p)(5), is section 1502 of Pub. L. 111–203, which amended this section and enacted provisions set out as a note below.
 
@@ -822,7 +824,7 @@ Subsecs. (g), (h). Pub. L. 95–213, §203, added subsecs. (g) and (h).
 
 <b>1975</b>—Subsec. (f). Pub. L. 94–29 added subsec. (f).
 
-<b>1970</b>—Subsec. (d)(1). Pub. L. 91–567, §1(a), included equity securities of insurance companies which wouldhave been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted "5 per centum" for "10 per centum".
+<b>1970</b>—Subsec. (d)(1). Pub. L. 91–567, §1(a), included equity securities of insurance companies which would have been required to be registered except for the exemption contained in section 78l(g)(2)(G) of this title, and substituted "5 per centum" for "10 per centum".
 
 Subsec. (d)(5), (6). Pub. L. 91–567, §1(b), added par. (5) and redesignated former par. (5) as (6).
 
@@ -831,6 +833,8 @@ Subsec. (e)(2). Pub. L. 91–567, §2, inserted provisions empowering the Commis
 <b>1968</b>—Subsecs. (d), (e). Pub. L. 90–439 added subsecs. (d) and (e).
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–467 substituted provisions which require the issuer of a security registered pursuant to section 78l of this title to file reports with the Commission rather than with the exchange and to furnish the exchange with duplicate originals and prohibit the Commission from requiring the filing of any material contract wholly executed before July 1, 1962 for former provisions which required the issuer of a security registered on a national securities exchange to file certain reports with the exchange and to file duplicates with the Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -864,10 +868,6 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under section 78c of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Improving Access to Capital
 
 Pub. L. 115–174, title V, §508, May 24, 2018, 132 Stat. 1364, provided that: "The Securities and Exchange Commission shall amend—
@@ -882,7 +882,7 @@ Pub. L. 114–94, div. G, title LXXII, §72001, Dec. 4, 2015, 129 Stat. 1784, pr
 
 #### Elimination of Exemption From Fair Disclosure Rule
 
-Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided that: "Not later than 90 days after the date of enactment of this subtitle \[July 21, 2010\], the Securities \[and\] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primary business is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii))."
+Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided that: "Not later than 90 days after the date of enactment of this subtitle \[July 21, 2010\], the Securities \[and\] Exchange Commission shall revise Regulation FD (17 C.F.R. 243.100) to remove from such regulation the exemption for entities whose primarybusiness is the issuance of credit ratings (17 C.F.R. 243.100(b)(2)(iii))."
 
 #### Conflict Minerals
 
@@ -1046,6 +1046,8 @@ Definitions.—For purposes of subsection (a), the terms 'insured depository ins
 
 #### Adjustment of Registration Fee Rate
 
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
@@ -1065,6 +1067,12 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Assignment of Function Relating to Granting of Authority for Issuance of Certain Directives
 

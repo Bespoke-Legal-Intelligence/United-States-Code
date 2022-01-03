@@ -30,7 +30,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis orrule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
+&emsp;In carrying out subsection (b)(1), the Secretary, in collaboration with the Secretary of Education and the Secretary of Agriculture, shall, subject to the availability of appropriations, provide culturally competent information regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, and evidence-based interventions to meet the needs of individuals with autism spectrum disorder and other developmental disabilities across their lifespan and the needs of their families through—
 
 &emsp;&emsp;(A) Federal programs, including—
 
@@ -66,7 +66,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 &emsp;&emsp;&emsp;(i) to designate a public agency as a lead agency to coordinate the activities provided for under paragraph (1) in the State at the State level; and
 
-&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite care for caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
+&emsp;&emsp;&emsp;(ii) acting through such lead agency, to make available to individuals and their family members, guardians, advocates, or authorized representatives; providers; and other appropriate individuals in the State, comprehensive culturally competent information about State and local resources regarding autism spectrum disorder and other developmental disabilities, risk factors, characteristics, identification, diagnosis or rule out, available services and supports (which may include respite carefor caregivers of individuals with autism spectrum disorder or other developmental disabilities), and evidence-based interventions.
 
 #### (B) Requirements of agency
 
@@ -150,7 +150,7 @@ The Secretary shall, subject to the availability of appropriations, establish an
 
 #### (3) Technical assistance
 
-&emsp;The Secretary may award one or more grants under this section to provide technical assistance to the network of interdisciplinary training programs.
+&emsp;The Secretary may award one or more grants under this section to provide technicalassistance to the network of interdisciplinary training programs.
 
 #### (4) Best practices
 
@@ -165,6 +165,8 @@ The Secretary shall promote research, through grants or contracts, which may inc
 This section shall not apply after September 30, 2024.
 
 (July 1, 1944, ch. 373, title III, §399BB, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2823; amended Pub. L. 112–32, §2(2), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §4, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(b), Sept. 30, 2019, 133 Stat. 1111.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

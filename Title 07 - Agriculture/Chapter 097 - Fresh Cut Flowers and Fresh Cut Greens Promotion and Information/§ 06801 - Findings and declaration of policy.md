@@ -28,7 +28,7 @@ Congress finds that—
 
 &emsp;(B) cut flowers and cut greens that do not move in interstate or foreign channels of commerce but only in intrastate commerce directly affect interstate commerce in cut flowers and cut greens;
 
-&emsp;(6) the maintenance and expansion of markets in existence on December 14, 1993, and thedevelopment of new or improved markets or uses for cut flowers and cut greens, are needed to preserve and strengthen the economic viability of the domestic cut flowers and cut greens industry for the benefit of producers, handlers, retailers, and the entire floral industry;
+&emsp;(6) the maintenance and expansion of markets in existence on December 14, 1993, and the development of new or improved markets or uses for cut flowers and cut greens, are needed to preserve and strengthen the economic viability of the domestic cut flowers and cut greens industry for the benefit of producers, handlers, retailers, and the entire floral industry;
 
 &emsp;(7) generic programs of promotion and consumer information can be effective in maintaining and developing markets for cut flowers and cut greens, and have the advantage of equally enhancing the market position for all cut flowers and cut greens;
 
@@ -45,6 +45,8 @@ Congress finds that—
 It is the policy of Congress that it is in the public interest, and it is the purpose of this chapter, to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on cut flowers and cut greens sold by handlers to retailers and related entities in the United States) of an effective and coordinated program of generic promotion, consumer information, and related research designed to strengthen the position of the cut flowers and cut greens industry in the marketplace and to maintain, develop, and expand markets for cut flowers and cut greens.
 
 (Pub. L. 103–190, §2, Dec. 14, 1993, 107 Stat. 2266.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

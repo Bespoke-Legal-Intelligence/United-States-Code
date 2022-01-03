@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;(A) the Western Area Power Administration may borrow funds from the Treasury; and
 
-&emsp;&emsp;(B) the Secretary shall, without further appropriation and without fiscal year limitation, loan to the Western Area Power Administration, on such terms as may be fixed by the Administrator and the Secretary, such sums (not to exceed, in the aggregate (including deferred interest), $3,250,000,000 in outstanding repayable balances at any one time) as, in the judgment of the Administrator, are from time to time required for the purpose of—
+&emsp;&emsp;(B) the Secretary shall, without further appropriation and without fiscal year limitation, loan to the Western Area Power Administration, on such terms as may be fixed by the Administrator and the Secretary,such sums (not to exceed, in the aggregate (including deferred interest), $3,250,000,000 in outstanding repayable balances at any one time) as, in the judgment of the Administrator, are from time to time required for the purpose of—
 
 &emsp;&emsp;&emsp;(i) constructing, financing, facilitating, planning, operating, maintaining, or studying construction of new or upgraded electric power transmission lines and related facilities with at least one terminus within the area served by the Western Area Power Administration; and
 
@@ -110,9 +110,11 @@ In this section:
 
 #### (2) Requests for interest
 
-&emsp;In the course of selecting potential projects to be funded under this section, the Administrator shall seek Requests For Interest from entities interested in identifying potential projects through one or more notices published in the Federal Register.
+&emsp;In the course of selecting potential projects to be funded under this section, the Administrator shall seek Requests For Interest from entities interested in identifying potentialprojects through one or more notices published in the Federal Register.
 
 (Pub. L. 98–381, title III, §301, as added Pub. L. 111–5, div. A, title IV, §402, Feb. 17, 2009, 123 Stat. 141.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

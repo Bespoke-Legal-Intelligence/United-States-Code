@@ -10,13 +10,17 @@ Except for "program accessibility, existing facilities", and "communications", r
 
 #### (c) Standards
 
-Regulations under subsection (a) shall include standards applicable to facilities and vehicles covered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204(a) of this title.
+Regulations under subsection (a) shall include standards applicable to facilities and vehiclescovered by this part, other than facilities, stations, rail passenger cars, and vehicles covered by part B. Such standards shall be consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board in accordance with section 12204(a) of this title.
 
 (Pub. L. 101–336, title II, §204, July 26, 1990, 104 Stat. 337.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -404,7 +404,7 @@ Ex. Ord. No. 12839, Feb. 10, 1993, 58 F.R. 8515, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, section 3301 of title 5, United States Code, and section 1111 of title 31, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Limits on Hiring Civilian Personnel</i>. Each executive department or agency with over 100 employees shall eliminate not less than 4 percent of its civilian personnel positions (measured on a full-time equivalent (FTE) basis) over the next 3 fiscal years. The positionsshall be vacated through attrition or early out programs established at the discretion of the department and agency heads. At least 10 percent of the reductions shall come from the Senior Executive Service, GS–15 and GS–14 levels or equivalent.
+Section 1. <i>Limits on Hiring Civilian Personnel</i>. Each executive department or agency with over 100 employees shall eliminate not less than 4 percent of its civilian personnel positions (measured on a full-time equivalent (FTE) basis) over the next 3 fiscal years. The positions shall be vacated through attrition or early out programs established at the discretion of the department and agency heads. At least 10 percent of the reductions shall come from the Senior Executive Service, GS–15 and GS–14 levels or equivalent.
 
 Sec. 2. <i>Coverage</i>. This order applies to all executive branch departments and agencies with over 100 employees (measured on a FTE basis).
 

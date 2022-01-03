@@ -20,7 +20,7 @@
 
 #### (C) Suspension of period
 
-&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien may remain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
+&emsp;&emsp;The removal period shall be extended beyond a period of 90 days and the alien mayremain in detention during such extended period if the alien fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure or conspires or acts to prevent the alien's removal subject to an order of removal.
 
 #### (2) Detention
 
@@ -70,7 +70,7 @@
 
 #### (7) Employment authorization
 
-&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in theUnited States unless the Attorney General makes a specific finding that—
+&emsp;No alien ordered removed shall be eligible to receive authorization to be employed in the United States unless the Attorney General makes a specific finding that—
 
 &emsp;&emsp;(A) the alien cannot be removed due to the refusal of all countries designated by the alien or under this section to receive the alien, or
 
@@ -160,7 +160,7 @@
 
 &emsp;&emsp;When the United States is at war and the Attorney General decides that it is impracticable, inadvisable, inconvenient, or impossible to remove an alien under this subsection because of the war, the Attorney General may remove the alien—
 
-&emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of which the alien is a citizen or subject if the government of the host country will permit the alien's entry; or
+&emsp;&emsp;&emsp;(i) to the country that is host to a government in exile of the country of whichthe alien is a citizen or subject if the government of the host country will permit the alien's entry; or
 
 &emsp;&emsp;&emsp;(ii) if the recognized government of the country of which the alien is a citizen or subject is not in exile, to a country, or a political or territorial subdivision of a country, that is very near the country of which the alien is a citizen or subject, or, with the consent of the government of the country of which the alien is a citizen or subject, to another country.
 
@@ -236,7 +236,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d),<sup>4</sup> an owner of a vessel or aircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
+&emsp;&emsp;Except as provided in subparagraph (B) and subsection (d),<sup>4</sup> an owner of a vessel oraircraft bringing an alien to the United States shall pay the costs of detaining and maintaining the alien—
 
 &emsp;&emsp;&emsp;(i) while the alien is detained under subsection (d)(1), and
 
@@ -304,7 +304,7 @@
 
 #### (1) Costs of removal at time of arrival
 
-&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner ofthe vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
+&emsp;In the case of an alien who is a stowaway or who is ordered removed either without a hearing under section 1225(a)(1) <sup>5</sup> or 1225(c) of this title or pursuant to proceedings under section 1229a of this title initiated at the time of such alien's arrival, the owner of the vessel or aircraft (if any) on which the alien arrived in the United States shall pay the transportation cost of removing the alien. If removal is on a vessel or aircraft not owned by the owner of the vessel or aircraft on which the alien arrived in the United States, the Attorney General may—
 
 &emsp;&emsp;(A) pay the cost from the appropriation "Immigration and Naturalization Service—Salaries and Expenses"; and
 
@@ -462,11 +462,11 @@ Pub. L. 105–277, div. G, subdiv. B, title XXII, §2242, Oct. 21, 1998, 112 Sta
 
 "(a)
 
-Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect theinvoluntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
+Policy.—It shall be the policy of the United States not to expel, extradite, or otherwise effect the involuntary return of any person to a country in which there are substantial grounds for believing the person would be in danger of being subjected to torture, regardless of whether the person is physically present in the United States.
 
 "(b)
 
-Regulations.—Not later than 120 days after the date of enactment of this Act \[Oct. 21, 1998\], the heads of the appropriate agencies shall prescribe regulations to implement the obligations of the United States under Article 3 of the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
+Regulations.—Not later than 120 days after the date of enactment of this Act \[Oct. 21, 1998\], the heads of the appropriate agencies shall prescribe regulationsto implement the obligations of the United States under Article 3 of the United Nations Convention Against Torture and Other Forms of Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
 
 "(c)
 

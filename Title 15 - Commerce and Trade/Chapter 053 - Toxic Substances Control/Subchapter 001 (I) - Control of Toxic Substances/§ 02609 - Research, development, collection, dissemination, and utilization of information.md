@@ -14,7 +14,7 @@ The Administrator shall, in consultation and cooperation with the Secretary of H
 
 #### (c) Screening techniques
 
-The Administrator shall coordinate, with the Assistant Secretary for Health of the Department of Health and Human Services, research undertaken by the Administrator and directed toward the development of rapid, reliable, and economical screening techniques for carcinogenic, mutagenic, teratogenic, and ecological effects of chemical substances and mixtures.
+The Administrator shall coordinate, with the Assistant Secretary for Health of the Department of Health and Human Services, research undertaken by the Administrator and directedtoward the development of rapid, reliable, and economical screening techniques for carcinogenic, mutagenic, teratogenic, and ecological effects of chemical substances and mixtures.
 
 #### (d) Monitoring
 
@@ -33,6 +33,8 @@ The Administrator shall establish and promote programs and workshops to train or
 The Administrator shall, in consultation with the Secretary of Health and Human Services and other heads of appropriate departments and agencies, establish and coordinate a system for exchange among Federal, State, and local authorities of research and development results respecting toxic chemical substances and mixtures, including a system to facilitate and promote the development of standard information format and analysis and consistent testing procedures.
 
 (Pub. L. 94–469, title I, §10, Oct. 11, 1976, 90 Stat. 2031; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(i), June 22, 2016, 130 Stat. 507.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -55,6 +57,8 @@ Subsec. (g). Pub. L. 114–182, §19(i)(4), substituted "information" for "data"
 In subsec. (a), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 14 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (b)(2)(B), "section 3324(a) and (b) of title 31 and section 6101 of title 41" substituted for "sections 3648 and 3709 of the Revised Statutes (31 U.S.C. 529, 41 U.S.C. 5)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

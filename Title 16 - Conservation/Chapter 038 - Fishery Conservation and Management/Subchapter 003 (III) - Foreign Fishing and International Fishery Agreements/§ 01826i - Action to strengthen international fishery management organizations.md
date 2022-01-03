@@ -12,7 +12,7 @@ The Secretary, in consultation with the Secretary of State, and in cooperation w
 
 &emsp;&emsp;(C) to seek international adoption of a centralized vessel monitoring system in order to monitor and document capacity in fleets of all nations involved in fishing in areas under an international fishery management organization's jurisdiction;
 
-&emsp;&emsp;(D) to increase use of observers and technologies needed to monitor compliance with conservation and management measures established by the organization, including vessel monitoring systems and automatic identification systems;
+&emsp;&emsp;(D) to increase use of observers and technologies needed to monitor compliance withconservation and management measures established by the organization, including vessel monitoring systems and automatic identification systems;
 
 &emsp;&emsp;(E) to seek adoption of stronger port state controls in all nations, particularly those nations in whose ports vessels engaged in illegal, unreported, or unregulated fishing land or transship fish; and
 
@@ -62,6 +62,8 @@ The Secretary may promulgate regulations to implement this section.
 
 (Pub. L. 104–43, title VI, §608, as added Pub. L. 109–479, title IV, §403(a), Jan. 12, 2007, 120 Stat. 3627; amended Pub. L. 111–348, title I, §102(a), Jan. 4, 2011, 124 Stat. 3668; Pub. L. 114–81, title I, §101(b), Nov. 5, 2015, 129 Stat. 653.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -87,6 +89,8 @@ Par. (2)(C). Pub. L. 111–348, §102(a)(2), struck out "and" at end.
 Par. (3). Pub. L. 111–348, §102(a)(4), added par. (3). Former par. (3) redesignated (4).
 
 Par. (4). Pub. L. 111–348, §102(a)(3), redesignated par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Construction
 

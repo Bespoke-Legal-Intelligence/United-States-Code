@@ -4,9 +4,13 @@ The Bureau shall by regulation exempt from the requirements of this subchapter a
 
 (Pub. L. 90–321, title VIII, §817, as added Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 883; amended Pub. L. 111–203, title X, §1089(1), July 21, 2010, 124 Stat. 2092.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Commission" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

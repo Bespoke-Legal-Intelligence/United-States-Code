@@ -26,9 +26,13 @@ Subsequent to March 24, 1972, the Commission shall have authority to investigate
 
 (Pub. L. 88–352, title VII, §707, July 2, 1964, 78 Stat. 261; Pub. L. 92–261, §5, Mar. 24, 1972, 86 Stat. 107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1972</b>—Subsecs. (c) to (e). Pub. L. 92–261 added subsecs. (c) to (e).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

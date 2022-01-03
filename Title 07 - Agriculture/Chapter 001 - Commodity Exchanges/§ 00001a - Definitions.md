@@ -44,7 +44,7 @@ As used in this chapter:
 
 #### (B) Exclusion
 
-&emsp;&emsp;Other than for purposes of section 6s(b)(6) of this title, the term "associated person of a swap dealer or major swap participant" does not include any person associated with a swap dealer or major swap participant the functions of which are solely clerical or ministerial.
+&emsp;&emsp;Other than for purposes of section 6s(b)(6) of this title, the term "associated person ofa swap dealer or major swap participant" does not include any person associated with a swap dealer or major swap participant the functions of which are solely clerical or ministerial.
 
 #### (5) Board
 
@@ -134,7 +134,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(i) any bank or trust company or any person acting as an employee thereof;
 
-&emsp;&emsp;&emsp;(ii) any news reporter, news columnist, or news editor of the print or electronicmedia, or any lawyer, accountant, or teacher;
+&emsp;&emsp;&emsp;(ii) any news reporter, news columnist, or news editor of the print or electronic media, or any lawyer, accountant, or teacher;
 
 &emsp;&emsp;&emsp;(iii) any floor broker or futures commission merchant;
 
@@ -432,7 +432,7 @@ As used in this chapter:
 
 #### (B) Further definition
 
-&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, the term "futures commission merchant" any person who engages in soliciting or accepting orders for, or acting as a counterparty in, any agreement, contract, or transaction subject to this chapter, and who accepts any money, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that resultor may result therefrom, if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
+&emsp;&emsp;The Commission, by rule or regulation, may include within, or exclude from, the term "futures commission merchant" any person who engages in soliciting or accepting orders for, or acting as a counterparty in, any agreement, contract, or transaction subject to this chapter, and who accepts any money, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom, if the Commission determines that the rule or regulation will effectuate the purposes of this chapter.
 
 #### (29) Hybrid instrument
 
@@ -662,7 +662,7 @@ As used in this chapter:
 
 #### (44) Security future
 
-&emsp;The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] as in effect on January 11, 1983). The term "security future" does not include anyagreement, contract, or transaction excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title (as in effect on December 21, 2000) or sections 27 to 27f of this title.
+&emsp;The term "security future" means a contract of sale for future delivery of a single security or of a narrow-based security index, including any interest therein or based on the value thereof, except an exempted security under section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as ineffect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] as in effect on January 11, 1983). The term "security future" does not include any agreement, contract, or transaction excluded from this chapter under section 2(c), 2(d), 2(f), or 2(g) of this title (as in effect on December 21, 2000) or sections 27 to 27f of this title.
 
 #### (45) Security futures product
 
@@ -756,7 +756,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
 
-&emsp;&emsp;&emsp;(vi) any agreement, contract, or transaction providing for the purchase or sale of 1 or more securities on a contingent basis that is subject to the Securities Act of 1933 (15 U.S.C. 77a et seq.) and the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), unless the agreement, contract, or transaction predicates the purchase or sale on the occurrence of a bona fide contingency that might reasonably be expected to affect or be affected by the creditworthiness of a party other than a party to the agreement, contract, or transaction;
+&emsp;&emsp;&emsp;(vi) any agreement, contract, or transaction providing for the purchase or sale of1 or more securities on a contingent basis that is subject to the Securities Act of 1933 (15 U.S.C. 77a et seq.) and the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), unless the agreement, contract, or transaction predicates the purchase or sale on the occurrence of a bona fide contingency that might reasonably be expected to affect or be affected by the creditworthiness of a party other than a party to the agreement, contract, or transaction;
 
 &emsp;&emsp;&emsp;(vii) any note, bond, or evidence of indebtedness that is a security, as defined in section 2(a)(1) of the Securities Act of 1933 (15 U.S.C. 77b(a)(1));
 
@@ -814,7 +814,7 @@ As used in this chapter:
 
 #### (i) Registered entities
 
-&emsp;&emsp;&emsp;Any foreign exchange swap and any foreign exchange forward that is listed and traded on or subject to the rules of a designated contract market or a swap execution facility, or that is cleared by a derivatives clearing organization, shall not be exempt from any provision of this chapter or amendments made by the Wall StreetTransparency and Accountability Act of 2010 prohibiting fraud or manipulation.
+&emsp;&emsp;&emsp;Any foreign exchange swap and any foreign exchange forward that is listed and traded on or subject to the rules of a designated contract market or a swap execution facility, or that is cleared by a derivatives clearing organization, shall not be exempt from any provision of this chapter or amendments made by the Wall Street Transparency and Accountability Act of 2010 prohibiting fraud or manipulation.
 
 #### (ii) Retail transactions
 
@@ -884,9 +884,11 @@ As used in this chapter:
 
 #### (C) Special rule
 
-&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
+&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to aderivatives clearing organization of transactions executed on or through the person or group of persons.
 
-(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I,§§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732.)
+(Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405; Pub. L. 110–234, title XIII, §§13105(j), 13201(a), 13203(a), (b), May 22, 2008, 122 Stat. 1435, 1439; Pub. L. 110–246, §4(a), title XIII, §§13105(j), 13201(a), 13203(a), (b), June 18, 2008, 122 Stat. 1664, 2197, 2201; Pub. L. 111–203, title VII, §§721(a), 741(b)(10), July 21, 2010, 124 Stat. 1658, 1732.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -938,7 +940,7 @@ Par. (7). Pub. L. 111–203, §721(a)(3), added par. (7). Former par. (7) redesi
 
 Par. (10). Pub. L. 111–203, §721(a)(5), added par. (10). Former par. (10) redesignated (16).
 
-Par. (11). Pub. L. 111–203, §721(a)(6), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: "The term 'commodity pool operator' means any person engaged in a business that is of the nature of an investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility, except that the term does not include such persons not within the intent of the definition of the term as the Commission may specify by rule, regulation, or order."
+Par. (11). Pub. L. 111–203, §721(a)(6), added par. (11) and struck out former par. (11). Prior to amendment, text read as follows: "The term 'commodity pool operator' means any person engaged in a business that is of the nature of an investment trust, syndicate, or similar form of enterprise, and who, in connection therewith, solicits, accepts, or receives from others, funds, securities, or property, either directly or through capital contributions, the sale of stock or other forms of securities, or otherwise, for the purpose of trading in anycommodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility, except that the term does not include such persons not within the intent of the definition of the term as the Commission may specify by rule, regulation, or order."
 
 Par. (12)(A)(i)(I). Pub. L. 111–203, §721(a)(7)(A)(i), substituted ", security futures product, or swap" for "made or to be made on or subject to the rules of a contract market or derivatives transaction execution facility".
 
@@ -1043,6 +1045,8 @@ Pars. (25) to (27). Pub. L. 106–554, §1(a)(5) \[title I, §101(6)\], added pa
 Par. (28). Pub. L. 106–554, §1(a)(5) \[title I, §101(1)\], redesignated par. (16) as (28).
 
 Pars. (29) to (33). Pub. L. 106–554, §1(a)(5) \[title I, §101(7)\], added pars. (29) to (33).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

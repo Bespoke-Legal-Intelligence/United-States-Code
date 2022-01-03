@@ -34,13 +34,13 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;(II) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a lawful permanent resident (or is the parent of a child of an alien who is or was a lawful permanent resident and the child has been battered or subjected to extreme cruelty by such permanent resident parent); or
 
-&emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry,but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
+&emsp;&emsp;&emsp;(III) the alien has been battered or subjected to extreme cruelty by a United States citizen or lawful permanent resident whom the alien intended to marry, but whose marriage is not legitimate because of that United States citizen's or lawful permanent resident's bigamy;
 
 &emsp;&emsp;&emsp;(ii) the alien has been physically present in the United States for a continuous period of not less than 3 years immediately preceding the date of such application, and the issuance of a charging document for removal proceedings shall not toll the 3-year period of continuous physical presence in the United States;
 
 &emsp;&emsp;&emsp;(iii) the alien has been a person of good moral character during such period, subject to the provisions of subparagraph (C);
 
-&emsp;&emsp;&emsp;(iv) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraphs (1)(G) or (2) through (4) of section 1227(a) of this title, subject to paragraph (5), and has not been convicted of an aggravated felony; and
+&emsp;&emsp;&emsp;(iv) the alien is not inadmissible under paragraph (2) or (3) of section 1182(a) of this title, is not deportable under paragraphs (1)(G) or (2) through (4) of section1227(a) of this title, subject to paragraph (5), and has not been convicted of an aggravated felony; and
 
 &emsp;&emsp;&emsp;(v) the removal would result in extreme hardship to the alien, the alien's child, or the alien's parent.
 
@@ -162,7 +162,7 @@ The provisions of subsections (a) and (b)(1) shall not apply to any of the follo
 
 #### (1) Aggregate limitation
 
-&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
+&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effectbefore September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
 
 #### (2) Fiscal year 1997
 

@@ -16,7 +16,7 @@ If the Secretary of Agriculture determines that application of the Consolidated 
 
 &emsp;&emsp;(A) whether socially disadvantaged producers are underrepresented on State, county, area, or local committees established under section 590h(b)(5) of title 16 or local review committees established under section 1363 of this title because of racial, ethnic, or gender prejudice; and
 
-&emsp;&emsp;(B) if such underrepresentation exists, whether it inhibits or interferes with the participation of socially disadvantaged producers in programs of the Department of Agriculture.
+&emsp;&emsp;(B) if such underrepresentation exists, whether it inhibits or interferes with theparticipation of socially disadvantaged producers in programs of the Department of Agriculture.
 
 #### (2) Submission of report
 
@@ -27,6 +27,8 @@ If the Secretary of Agriculture determines that application of the Consolidated 
 For purposes of this section, the term "socially disadvantaged producer" means a producer who is a member of a group whose members have been subjected to racial, ethnic, or gender prejudice because of their identity as members of a group without regard to their individual qualities.
 
 (Pub. L. 103–354, title III, §305, Oct. 13, 1994, 108 Stat. 3240.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

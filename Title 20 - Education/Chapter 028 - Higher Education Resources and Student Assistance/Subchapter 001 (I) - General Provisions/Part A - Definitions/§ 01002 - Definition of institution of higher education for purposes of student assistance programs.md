@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I)(aa) at least 60 percent of those enrolled in, and at least 60 percent of the graduates of, the graduate medical school outside the United States were not persons described in section 1091(a)(5) of this title in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; and
 
-&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passingscore in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; or
+&emsp;&emsp;&emsp;&emsp;(bb) at least 75 percent of the individuals who were students or graduates of the graduate medical school outside the United States or Canada (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part D of subchapter IV; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the institution—
 
@@ -48,7 +48,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C) of this subsection, the Secretary shall establish an advisory panel of medical experts that shall—
+&emsp;&emsp;&emsp;For the purpose of qualifying as an institution under paragraph (1)(C) of this subsection, the Secretary shall establish anadvisory panel of medical experts that shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) evaluate the standards of accreditation applied to applicant foreign medical schools; and
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(B) enrolls 50 percent or more of the institution's students in correspondence courses (excluding courses offered by telecommunications as defined in section 1091(l)(4) <sup>1</sup> of this title), unless the institution is an institution that meets the definition in such section, except that the Secretary, at the request of such institution, may waive the applicability of this subparagraph to such institution for good cause, as determined by the Secretary in the case of an institution of higher education that provides a 2- or 4-year program of instruction (or both) for which the institution awards an associate or baccalaureate degree, respectively;
 
-&emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary may waive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
+&emsp;&emsp;(C) has a student enrollment in which more than 25 percent of the students are incarcerated, except that the Secretary maywaive the limitation contained in this subparagraph for a nonprofit institution that provides a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree, or an associate's degree or a postsecondary diploma, respectively; or
 
 &emsp;&emsp;(D) has a student enrollment in which more than 50 percent of the students do not have a secondary school diploma or its recognized equivalent, and does not provide a 2- or 4-year program of instruction (or both) for which the institution awards a bachelor's degree or an associate's degree, respectively, except that the Secretary may waive the limitation contained in this subparagraph if a nonprofit institution demonstrates to the satisfaction of the Secretary that the institution exceeds such limitation because the institution serves, through contracts with Federal, State, or local government agencies, significant numbers of students who do not have a secondary school diploma or its recognized equivalent.
 
@@ -188,6 +188,8 @@
 
 (Pub. L. 89–329, title I, §102, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1586; amended Pub. L. 108–98, §1(a), Oct. 10, 2003, 117 Stat. 1174; Pub. L. 109–171, title VIII, §8002, Feb. 8, 2006, 120 Stat. 155; Pub. L. 109–270, §2(c)(1), Aug. 12, 2006, 120 Stat. 746; Pub. L. 110–315, title I, §102(a)–(d)(1), Aug. 14, 2008, 122 Stat. 3083–3085; Pub. L. 111–39, title I, §101(b)(1), July 1, 2009, 123 Stat. 1935; Pub. L. 111–152, title II, §2209(b)(1), Mar. 30, 2010, 124 Stat. 1077.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1101 of the Higher Education Opportunity Act, referred to in subsec. (a)(2)(B)(iii)(II)(gg), is section 1101 of title XI of 110–315, Aug. 14, 2008, 122 Stat. 3490, which is not classified to the Code.
@@ -248,6 +250,8 @@ Subsec. (a)(3)(B). Pub. L. 109–171, §8002(2), inserted "(excluding courses of
 
 <b>2003</b>—Subsec. (a)(2)(A). Pub. L. 108–98 amended subpar. (A) generally. Prior to amendment, subpar. (A) required the Secretary to establish criteria for approval of institutions outside the United States for purposes of par. (1)(C), including certain requirements for graduate medical or veterinary schools.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–152, title II, §2209(b)(2), Mar. 30, 2010, 124 Stat. 1078, provided that: "The amendments made by subparagraph (C) of paragraph (1) \[amending this section\] shall be effective on July 1, 2010, as if enacted as part of section 102(a)(1) of the Higher Education Opportunity Act (Public Law 110–315) and subject to section 102(e) of such Act as amended by section 101(a)(2) of Public Law 111–39 (20 U.S.C. 1002 note)."
@@ -258,7 +262,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended by Pub. L. 111–39, title I, §101(a)(2), July 1, 2009, 123 Stat. 1935, provided that: "The amendments made by subsections (a)(1), (b), and (d) \[amending this section\] shall take effect on July 1, 2010, except that, with respect to foreign nursing schools that were eligible to participate in part B of title IV \[20 U.S.C. 1071 et seq.\] as of the day before the date of enactment of this Act \[Aug. 14, 2008\], the amendments made by subsection (a)(1)(D) \[amending this section\] shall take effect on July 1, 2012."
+Pub. L. 110–315, title I, §102(e), Aug. 14, 2008, 122 Stat. 3086, as amended by Pub. L. 111–39, title I, §101(a)(2),July 1, 2009, 123 Stat. 1935, provided that: "The amendments made by subsections (a)(1), (b), and (d) \[amending this section\] shall take effect on July 1, 2010, except that, with respect to foreign nursing schools that were eligible to participate in part B of title IV \[20 U.S.C. 1071 et seq.\] as of the day before the date of enactment of this Act \[Aug. 14, 2008\], the amendments made by subsection (a)(1)(D) \[amending this section\] shall take effect on July 1, 2012."
 
 #### Effective Date of 2006 Amendment
 

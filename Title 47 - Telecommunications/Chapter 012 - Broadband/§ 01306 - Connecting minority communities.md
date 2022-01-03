@@ -32,7 +32,7 @@ In this section:
 
 #### (5) Connected device
 
-&emsp;The term "connected device" means a laptop computer, tablet computer, or similar devicethat is capable of connecting to broadband internet access service.
+&emsp;The term "connected device" means a laptop computer, tablet computer, or similar device that is capable of connecting to broadband internet access service.
 
 #### (6) Director
 
@@ -174,7 +174,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which the Assistant Secretary establishes the Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
+&emsp;&emsp;Not later than 1 year after the date on which the Assistant Secretary establishesthe Office under paragraph (1), and annually thereafter, the Assistant Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that—
 
 &emsp;&emsp;&emsp;(i) for the year covered by the report, details the work of the Office in expanding access to fixed and mobile broadband internet access service—
 

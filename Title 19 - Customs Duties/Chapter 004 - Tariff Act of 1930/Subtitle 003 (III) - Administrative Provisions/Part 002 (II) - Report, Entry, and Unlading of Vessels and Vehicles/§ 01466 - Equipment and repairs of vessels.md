@@ -30,7 +30,7 @@ If the owner or master of such vessel furnishes good and sufficient evidence tha
 
 &emsp;(2) such equipments or parts thereof or repair parts or materials, were manufactured or produced in the United States, and the labor necessary to install such equipments or to make such repairs was performed by residents of the United States, or by members of the regular crew of such vessel; or
 
-&emsp;(3) such equipments, or parts thereof, or materials, or labor, were used as dunnage for cargo, or for the packing or shoring thereof, or in the erection of temporary bulkheads or other similar devices for the control of bulk cargo, or in the preparation (without permanent repair or alteration) of tanks for the carriage of liquid cargo;
+&emsp;(3) such equipments, or parts thereof, or materials, or labor, were used as dunnage for cargo, or for the packing or shoring thereof, or in the erection of temporary bulkheads or other similar devices for the control of bulkcargo, or in the preparation (without permanent repair or alteration) of tanks for the carriage of liquid cargo;
 
 > then the Secretary of the Treasury is authorized to remit or refund such duties, and such vessel shall not be liable to forfeiture, and no license or enrollment and license, or renewal of either, shall hereafter be issued to any such vessel until the collector to whom application is made for the same shall be satisfied, from the oath of the owner or master, that all such equipments or parts thereof or materials and repairs made within the year immediately preceding such application have been duly accounted for under the provisions of this section, and the duties accruing thereon duly paid; and if such owner or master shall refuse to take such oath, or take it falsely, the vessel shall be seized and forfeited.
 
@@ -76,6 +76,8 @@ The duty imposed by subsection (a) of this section shall not apply to—
 
 (June 17, 1930, ch. 497, title IV, §466, 46 Stat. 719; Pub. L. 91–654, §1, Jan. 5, 1971, 84 Stat. 1944; Pub. L. 95–410, title II, §206, Oct. 3, 1978, 92 Stat. 900; Pub. L. 96–39, title VI, §601(a)(3), July 26, 1979, 93 Stat. 268; Pub. L. 96–467, §14(a)(3)(B), Oct. 17, 1980, 94 Stat. 2225; Pub. L. 96–609, title I, §115(a), Dec. 28, 1980, 94 Stat. 3558; Pub. L. 98–573, title II, §208, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 100–418, title I, §1214(h)(4), Aug. 23, 1988, 102 Stat. 1157; Pub. L. 101–382, title III, §484E(a), Aug. 20, 1990, 104 Stat. 709; Pub. L. 103–465, title I, §112(b), Dec. 8, 1994, 108 Stat. 4825; Pub. L. 108–429, title I, §1554(a), Dec. 3, 2004, 118 Stat. 2578; Pub. L. 109–280, title XIV, §1631(a), Aug. 17, 2006, 120 Stat. 1164.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f) and (h)(2), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -86,7 +88,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 #### Amendments
 
-<b>2006</b>—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: "thecost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas."
+<b>2006</b>—Subsec. (h)(4). Pub. L. 109–280 added par. (4) and struck out former par. (4) which read as follows: "the cost of equipment, repair parts, and materials that are installed on a vessel documented under the laws of the United States and engaged in the foreign or coasting trade, if the installation is done by members of the regular crew of such vessel while the vessel is on the high seas."
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–429 added par. (4) and concluding provisions.
 
@@ -109,6 +111,8 @@ Subsec. (g). Pub. L. 96–609 added subsec. (g).
 Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
 <b>1971</b>—Subsec. (c). Pub. L. 91–654 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

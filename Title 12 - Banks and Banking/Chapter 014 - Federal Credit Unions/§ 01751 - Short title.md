@@ -34,7 +34,7 @@ Pub. L. 105–219, §2, Aug. 7, 1998, 112 Stat. 913, provided that: "The Congres
 
 &emsp;"(1) The American credit union movement began as a cooperative effort to serve the productive and provident credit needs of individuals of modest means.
 
-&emsp;"(2) Credit unions continue to fulfill this public purpose, and current members and membershipgroups should not face divestiture from the financial services institution of their choice as a result of recent court action.
+&emsp;"(2) Credit unions continue to fulfill this public purpose, and current members and membership groups should not face divestiture from the financial services institution of their choice as a result of recent court action.
 
 &emsp;"(3) To promote thrift and credit extension, a meaningful affinity and bond among members, manifested by a commonality of routine interaction, shared and related work experiences, interests, or activities, or the maintenance of an otherwise well-understood sense of cohesion or identity is essential to the fulfillment of the public mission of credit unions.
 

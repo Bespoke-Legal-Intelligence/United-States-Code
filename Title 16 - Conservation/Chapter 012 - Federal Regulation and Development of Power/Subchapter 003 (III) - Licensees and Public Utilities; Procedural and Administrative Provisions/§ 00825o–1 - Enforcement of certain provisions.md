@@ -10,9 +10,13 @@ Any person who violates any provision of subchapter II or any provision of any r
 
 (June 10, 1920, ch. 285, pt. III, §316A, as added Pub. L. 102–486, title VII, §725(b), Oct. 24, 1992, 106 Stat. 2920; amended Pub. L. 109–58, title XII, §1284(e), Aug. 8, 2005, 119 Stat. 980.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 substituted "subchapter II" for "section 824j, 824k, 824l, or 824m of this title" in subsecs. (a) and (b) and "$1,000,000" for "$10,000" in subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### State Authorities; Construction
 

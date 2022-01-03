@@ -20,11 +20,15 @@ Upon application of a State or political subdivision of a State, the Commission 
 
 (Pub. L. 92–573, §26, Oct. 27, 1972, 86 Stat. 1227; Pub. L. 94–284, §17(d), May 11, 1976, 90 Stat. 514.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–284 substituted provision that a standard provide a significantly higher degree of protection from the risk of injury for the provision that the standard impose a higher level of performance.
 
 Subsec. (c). Pub. L. 94–284 substituted requirement that a State standard provide a significantly higher degree of protection from the risk of injury than the standard under this chapter for the requirement that the State standard impose a higher level of performance, eliminated the requirement of a compelling local condition, and inserted the requirement that the Commission make specific findings in determining the burden on interstate commerce.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

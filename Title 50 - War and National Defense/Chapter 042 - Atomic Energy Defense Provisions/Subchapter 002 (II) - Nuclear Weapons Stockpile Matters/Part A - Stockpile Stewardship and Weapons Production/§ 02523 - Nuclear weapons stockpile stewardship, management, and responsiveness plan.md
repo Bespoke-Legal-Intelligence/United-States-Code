@@ -94,7 +94,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(C) an assessment of the science-based tools (including advanced simulation and computing capabilities) of each national security laboratory that exist at the time of the assessment compared with the science-based tools expected to exist during the period covered by the future-years nuclear security program; and
 
-&emsp;&emsp;(D) an assessment of the core scientific and technical competencies required to achieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
+&emsp;&emsp;(D) an assessment of the core scientific and technical competencies required toachieve the objectives of the stockpile stewardship program and other weapons activities and weapons-related activities of the Administration, including—
 
 &emsp;&emsp;&emsp;(i) the number of scientists, engineers, and technicians, by discipline, required to maintain such competencies; and
 
@@ -142,7 +142,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(C) An assessment of manufacturing and handling technology for plutonium and plutonium components.
 
-&emsp;&emsp;(D) An assessment of computational models of plutonium performance under staticand dynamic loading, including manufactured and nonmanufactured conditions.
+&emsp;&emsp;(D) An assessment of computational models of plutonium performance under static and dynamic loading, including manufactured and nonmanufactured conditions.
 
 &emsp;&emsp;(E) An identification of any capability gaps with respect to the assessments described in subparagraphs (A) through (D).
 
@@ -158,7 +158,7 @@ Each detailed report on the plan submitted under subsection (b)(2) shall include
 
 &emsp;&emsp;(B) for each site and for the nuclear security enterprise, the methods used by the Administration to establish priorities among investments in physical and cybersecurity technologies; and
 
-&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budget for the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
+&emsp;&emsp;(C) a detailed description of how the funds identified for each program element specified pursuant to paragraph (1) in the budgetfor the Administration for each fiscal year during that five-fiscal-year period will help carry out that plan.
 
 &emsp;(8) An assessment of whether the programs described by the report can be executed with current and projected budgets and any associated risks.
 
@@ -212,7 +212,9 @@ In this section:
 
 &emsp;&emsp;(E) nuclear incident response.
 
-(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C,title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190; Pub. L. 115–91, div. C, title XXXI, §§3111(c), 3133(c)(1), 3134, 3135(a), Dec. 12, 2017, 131 Stat. 1882, 1896, 1898; Pub. L. 116–92, div. C, title XXXI, §3139(b)(2), Dec. 20, 2019, 133 Stat. 1962.)
+(Pub. L. 107–314, div. D, title XLII, §4203, formerly Pub. L. 105–85, div. C, title XXXI, §3151, Nov. 18, 1997, 111 Stat. 2041; renumbered Pub. L. 107–314, div. D, title XLII, §4203, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(4), Nov. 24, 2003, 117 Stat. 1758; amended Pub. L. 108–375, div. C, title XXXI, §3115, Oct. 28, 2004, 118 Stat. 2162; Pub. L. 112–239, div. C, title XXXI, §3133(a)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §§3123, 3146(a)(2)(A), Dec. 26, 2013, 127 Stat. 1061, 1072; Pub. L. 113–291, div. C, title XXXI, §3142(c), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(c)(1), Nov. 25, 2015, 129 Stat. 1190; Pub. L. 115–91, div. C, title XXXI, §§3111(c), 3133(c)(1), 3134, 3135(a), Dec. 12, 2017, 131 Stat. 1882, 1896, 1898; Pub. L. 116–92, div. C, title XXXI, §3139(b)(2), Dec. 20, 2019, 133 Stat. 1962.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -269,6 +271,8 @@ Subsec. (d)(6), (7). Pub. L. 113–66, §3123, added par. (6) and redesignated f
 Subsec. (e)(1). Pub. L. 113–66, §3146(a)(2)(A), struck out "established by section 179 of title 10" after "Council" in introductory provisions.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 substituted "May 1 of each year thereafter" for "March 15 of each year thereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report on the Plan for the Nuclear Weapons Stockpile, Nuclear Weapons Complex, and Delivery Platforms and Sense of Congress on Follow-on Negotiations to START Treaty
 
@@ -337,6 +341,8 @@ Matters Included.—The matters referred to in subsection (a) are the following:
 "(c) 2005
 
 Stockpile Stewardship Plan Defined.—In this section, the term '2005 stockpile stewardship plan' means the updated version of the plan for maintaining the nuclear weapons stockpile developed under section 4203 of the Atomic Energy Defense Act \[50 U.S.C. 2523\] (as transferred and redesignated by section 3161(e)(4) \[probably should be "3141(e)(4)"\] of this Act) that is required to be submitted to Congress not later than March 15, 2005."
+
+#### <b>Executive Documents</b>
 
 #### Annual Update to the Report Specified in Section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84)
 

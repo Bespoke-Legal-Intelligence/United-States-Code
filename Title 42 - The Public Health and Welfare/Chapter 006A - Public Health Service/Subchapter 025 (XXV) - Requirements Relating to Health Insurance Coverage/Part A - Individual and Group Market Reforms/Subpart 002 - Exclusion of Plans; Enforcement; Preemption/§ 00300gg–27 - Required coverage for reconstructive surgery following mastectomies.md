@@ -2,7 +2,9 @@
 
 The provisions of section 1185b of title 29 shall apply to group health plans, and and <sup>1</sup> health insurance issuers offering group or individual health insurance coverage, as if included in this subpart.
 
-(July 1, 1944, ch. 373, title XXVII, §2727, formerly §2706, as added Pub. L. 105–277, div. A, §101(f) \[title IX, §903(a)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–438; renumbered §2727 and amended Pub. L. 111–148, title I, §§1001(2), 1563(c)(5), formerly §1562(c)(5), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911.)
+(July 1, 1944, ch. 373, title XXVII, §2727, formerly §2706, as added Pub. L. 105–277, div. A, §101(f) \[title IX, §903(a)\], Oct. 21, 1998, 112 Stat. 2681–337,2681–438; renumbered §2727 and amended Pub. L. 111–148, title I, §§1001(2), 1563(c)(5), formerly §1562(c)(5), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 266, 911.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -11,6 +13,8 @@ Section was formerly classified to section 300gg–6 of this title prior to renu
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, §1563(c)(5), formerly §1562(c)(5), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "and health insurance issuers offering group or individual health insurance coverage" for "health insurance issuers providing health insurance coverage in connection with group health plans".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

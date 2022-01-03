@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relativeto the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
+&emsp;(1) The term "national defense" includes the needs of, and the planning and preparedness to meet, essential defense, industrial, and military emergency energy requirements relative to the national safety, welfare, and economy, particularly resulting from foreign military or economic actions.
 
 &emsp;(2) The term "naval petroleum reserves" means the naval petroleum and oil shale reserves established by this chapter, including Naval Petroleum Reserve Numbered 1 (Elk Hills), located in Kern County, California, established by Executive order of the President, dated September 2, 1912; Naval Petroleum Reserve Numbered 2 (Buena Vista), located in Kern County, California, established by Executive order of the President, dated December 13, 1912; Naval Petroleum Reserve Numbered 3 (Teapot Dome), located in Wyoming, established by Executive order of the President, dated April 30, 1915; Oil Shale Reserve Numbered 1, located in Colorado, established by Executive order of the President, dated December 6, 1916, as amended by Executive order dated June 12, 1919; Oil Shale Reserve Numbered 2, located in Utah, established by Executive order of the President, dated December 6, 1916; and Oil Shale Reserve Numbered 3, located in Colorado, established by Executive order of the President, dated September 27, 1924.
 
@@ -10,11 +10,13 @@ In this chapter:
 
 &emsp;(4) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(5) The term "small refiner" means an owner of a refinery or refineries (including refineries not in operation) who qualifies as a small business refiner under the rules and regulations of the Small Business Administration.
+&emsp;(5) The term "small refiner" means an owner of a refinery or refineries (including refineriesnot in operation) who qualifies as a small business refiner under the rules and regulations of the Small Business Administration.
 
 &emsp;(6) The term "maximum efficient rate" means the maximum sustainable daily oil or gas rate from a reservoir which will permit economic development and depletion of that reservoir without detriment to the ultimate recovery.
 
 (Added Pub. L. 94–258, title II, §201(1), Apr. 5, 1976, 90 Stat. 307, §7420; amended Pub. L. 96–513, title V, §513(30), Dec. 12, 1980, 94 Stat. 2933; Pub. L. 100–26, §7(k)(5), Apr. 21, 1987, 101 Stat. 284; renumbered §8720, Pub. L. 115–232, div. A, title VIII, §807(d)(5), Aug. 13, 2018, 132 Stat. 1836.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ In this chapter:
 <b>1987</b>—Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted "The term" in each par., substituted periods for semicolons in pars. (1) to (4) and period for "; and" in par. (5).
 
 <b>1980</b>—Pub. L. 96–513 in introductory text struck out "(a)" before "In", in par. (2) struck out provisions relating to Naval Petroleum Reserve Numbered 4, and in par. (4) substituted "Energy" for "the Navy".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -94,7 +98,7 @@ Funding.—The lease revenue account shall consist of the following:
 
 &emsp;"(1) Notwithstanding any other provision of law, for a period of three years after the date of the transfer of the Naval Petroleum Reserve Numbered 2 lands under section 331, the sum of $500,000 per year of revenue from leases entered into before that date, including bonuses, rents, royalties, and interest charges collected pursuant to the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et. seq.), derived from the Naval Petroleum Reserve Numbered 2 lands, shall be deposited into the lease revenue account.
 
-&emsp;"(2) Subject to subsection (d), all revenues derived from leases on Naval Petroleum Reserve Numbered 2 lands issued on or after the date of the transfer of such lands, including bonuses, rents, royalties, and interest charges collected pursuant to the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.), shall be deposited into the lease revenue account.
+&emsp;"(2) Subject to subsection (d), all revenues derived from leases on Naval Petroleum Reserve Numbered 2 lands issued on or after the date of the transfer of such lands, including bonuses, rents, royalties, andinterest charges collected pursuant to the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1701 et seq.), shall be deposited into the lease revenue account.
 
 "(d)
 
@@ -260,7 +264,7 @@ Conditions on Conveyance.—(1) The conveyance under subsection (b) is subject t
 
 "(5) Each withdrawal that applies to NOSR–2 and that is in effect on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\] is revoked to the extent that the withdrawal applies to NOSR–2.
 
-"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to bepart of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
+"(6) Notwithstanding that the land conveyed to the Tribe under subsection (b) shall not be part of the reservation of the Tribe, such land shall be deemed to be part of the reservation of the Tribe for the purposes of criminal and civil jurisdiction.
 
 "(d)
 
@@ -418,7 +422,7 @@ Notice of Sale.—Not later than two months after the effective date, the Secret
 
 "(d)
 
-Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, theSecretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
+Establishment of Minimum Sale Price.—(1) Not later than seven months after the effective date, the Secretary shall retain the services of five independent experts in the valuation of oil and gas fields to conduct separate assessments, in a manner consistent with commercial practices, of the value of the interest of the United States in Naval Petroleum Reserve Numbered 1. The independent experts shall complete their assessments within 11 months after the effective date. In making their assessments, the independent experts shall consider (among other factors)—
 
 &emsp;"(A) all equipment and facilities to be included in the sale;
 
@@ -436,7 +440,7 @@ Establishment of Minimum Sale Price.—(1) Not later than seven months after the
 
 "(e)
 
-Administration of Sale; Draft Contract.—(1) Not later than two months after the effective date, the Secretary shall retain the services of an investment banker or an appropriate equivalent financial adviser to independently administer, in a manner consistent with commercial practices and in a manner that maximizes sale proceeds to the Government, the sale of Naval Petroleum Reserve Numbered 1 under this section. Costs and fees of retaining the investment banker or financial adviser may be paid out of the proceeds of the sale of the reserve.
+Administration of Sale; Draft Contract.—(1) Not later than two months after the effective date, theSecretary shall retain the services of an investment banker or an appropriate equivalent financial adviser to independently administer, in a manner consistent with commercial practices and in a manner that maximizes sale proceeds to the Government, the sale of Naval Petroleum Reserve Numbered 1 under this section. Costs and fees of retaining the investment banker or financial adviser may be paid out of the proceeds of the sale of the reserve.
 
 "(2) Not later than 11 months after the effective date, the investment banker or financial adviser retained under paragraph (1) shall complete a draft contract or contracts for the sale of Naval Petroleum Reserve Numbered 1, which shall accompany the solicitation of offers and describe the terms and provisions of the sale of the interest of the United States in the reserve.
 

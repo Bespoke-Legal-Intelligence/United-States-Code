@@ -14,7 +14,7 @@ The Secretary shall make an annual report to the President on the activities car
 
 &emsp;(3) an analysis, developed in consultation with the Federal Trade Commission and the Department of Justice, of the impact on competition of each prototype residential energy efficiency program established under a plan approved under section 8235a(a) of this title; and
 
-&emsp;(4) if the Secretary determines that it is appropriate, an analysis of the impact of expanding the approval of plans under section 8235a(a) of this title to establish prototype residential energy efficiency programs, and the provision of financial assistance to such programs, on a national basis and an assessment of the alternative methods by which such an expansion could be accomplished.
+&emsp;(4) if the Secretary determines that it is appropriate, an analysis of the impact of expanding the approval of plans under section 8235a(a) of this title to establish prototype residential energy efficiency programs, and theprovision of financial assistance to such programs, on a national basis and an assessment of the alternative methods by which such an expansion could be accomplished.
 
 (Pub. L. 95–619, title II, §268, as added Pub. L. 96–294, title V, §562, June 30, 1980, 94 Stat. 750.)
 

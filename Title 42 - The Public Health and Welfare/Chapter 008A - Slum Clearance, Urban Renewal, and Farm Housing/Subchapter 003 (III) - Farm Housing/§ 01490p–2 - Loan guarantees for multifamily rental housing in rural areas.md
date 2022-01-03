@@ -10,7 +10,7 @@ A guarantee made under this section shall guarantee repayment of an amount not e
 
 #### (c) Eligible borrowers
 
-A loan guaranteed under this section may be made to a nonprofit organization, an agency orbody of any State government or political subdivision thereof, an Indian tribe, or a private entity.
+A loan guaranteed under this section may be made to a nonprofit organization, an agency or body of any State government or political subdivision thereof, an Indian tribe, or a private entity.
 
 #### (d) Eligible housing
 
@@ -56,7 +56,7 @@ Each loan guaranteed pursuant to this section shall—
 
 &emsp;(3) involve a principal obligation (including initial service charges, appraisal, inspection, and other fees as the Secretary may approve) not to exceed—
 
-&emsp;&emsp;(A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
+&emsp;&emsp;(A) in the case of a borrower that is a nonprofit organization or an agency or body of any State or local government, 97 percent ofthe development costs of the housing and related facilities or the value of the housing and facilities, whichever is less;
 
 &emsp;&emsp;(B) in the case of a borrower that is a for-profit entity not referred to in subparagraph (A), 90 percent of the development costs of the housing and related facilities or the value of the housing and facilities, whichever is less; and
 
@@ -78,7 +78,7 @@ The Secretary may authorize certain eligible lenders to determine whether a loan
 
 #### (1) Notice of default
 
-&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holderof the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
+&emsp;In the event of default by the borrower on a loan guaranteed under this section, the holder of the guarantee certificate for the loan shall provide written notice of the default to the Secretary.
 
 #### (2) Foreclosure
 
@@ -126,7 +126,7 @@ Section 1471(c) of this title shall not apply to guarantees, or loans guaranteed
 
 #### (n) Tenant protections
 
-The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed underthis section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
+The Secretary shall establish standards for the treatment of tenants of housing developed using amounts from a loan guaranteed under this section, which shall incorporate, to the extent applicable, existing standards applicable to tenants of housing developed with loans made under section 1485 of this title. Such standards shall include standards for fair housing and equal opportunity, lease and grievance procedures, and tenant appeals of adverse actions.
 
 #### (o) Housing standards
 
@@ -192,9 +192,11 @@ Any amounts collected by the Secretary pursuant to the fees charged to lenders f
 
 #### (v) Defaults of loans secured by reservation lands
 
-In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by theSecretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.),<sup>2</sup> the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
+In the event of a default involving a loan to an Indian tribe or tribal corporation made under this section which is secured by an interest in land within such tribe's reservation (as determined by the Secretary of the Interior), including a community in Alaska incorporated by the Secretary of the Interior pursuant to the Indian Reorganization Act (25 U.S.C. 461 et seq.),<sup>2</sup> the lender shall only pursue liquidation after offering to transfer the account to an eligible tribal member, the tribe, or the Indian housing authority serving the tribe. If the lender subsequently proceeds to liquidate the account, the lender shall not sell, transfer, or otherwise dispose of or alienate the property except to one of the entities described in the preceding sentence.
 
 (July 15, 1949, ch. 338, title V, §538, as added and amended Pub. L. 104–120, §5, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–86, title VII, §735(c), Nov. 18, 1997, 111 Stat. 2111; Pub. L. 105–276, title V, §599C(c), Oct. 21, 1998, 112 Stat. 2661; Pub. L. 106–569, title VII, §707, Dec. 27, 2000, 114 Stat. 3015.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -230,7 +232,7 @@ Subsec. (s)(4). Pub. L. 106–569, §707(4), added par. (4).
 
 Subsec. (t). Pub. L. 106–569, §707(7), redesignated subsec. (u) as (t). Former subsec. (t) redesignated (s).
 
-Pub. L. 106–569, §707(5), inserted before period at end "to provide guarantees under this section for eligible loans having an aggregate principal amount of $500,000,000".
+Pub. L. 106–569, §707(5), inserted before period at end "to provide guarantees under this section for eligibleloans having an aggregate principal amount of $500,000,000".
 
 Subsec. (u). Pub. L. 106–569, §707(8), added subsec. (u). Former subsec. (u) redesignated (t).
 
@@ -247,6 +249,8 @@ Subsec. (t). Pub. L. 105–86, §735(c)(2), added subsec. (t) and struck out tex
 Subsec. (u). Pub. L. 105–86, §735(c)(3), substituted "1998" for "1996".
 
 <b>1996</b>—Subsecs. (m)(1), (r)(1). Pub. L. 104–120, §5(b), made technical amendment to reference in original act which appears in text as reference to March 28, 1996.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

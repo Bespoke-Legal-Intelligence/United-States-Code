@@ -20,11 +20,15 @@ In this subchapter:
 
 (Pub. L. 110–69, title V, §5002, Aug. 9, 2007, 121 Stat. 600.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in introductory provisions, was in the original "this title", meaning title V of Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 600, known as the Protecting America's Competitive Edge Through Energy Act and also as the PACE–Energy Act, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 2007 Amendment note set out under section 15801 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-For short title of title V of Pub. L. 110–69, which enacted this subchapter, as the "Protecting America's Competitive Edge Through Energy Act" or the "PACE–Energy Act", see section 5001 of Pub. L. 110–69, set out as a note under section 15801 of this title .
+For short title of title V of Pub. L. 110–69, which enacted this subchapter, as the "Protecting America's Competitive Edge Through Energy Act" or the "PACE–Energy Act", see section 5001 of Pub. L. 110–69, set out as a note under section 15801 of this title.
 

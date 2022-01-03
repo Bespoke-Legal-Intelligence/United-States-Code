@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of each military department shall ensure that an applicant seeking corrective action by the Army Review Boards Agency, the Air Force Review Boards Agency, or the Board for Correction of Naval Records, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant's case or have a material effect on the applicant's case.
+In General.—The Secretary of each military department shall ensure that an applicantseeking corrective action by the Army Review Boards Agency, the Air Force Review Boards Agency, or the Board for Correction of Naval Records, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant's case or have a material effect on the applicant's case.
 
 (b)
 
@@ -19,6 +19,8 @@ Exceptions.—Subsection (a) does not apply to the following:
 &emsp;(5) Any military record that is (or may be) provided to the applicant by the Secretary of the military department or other source.
 
 (Added Pub. L. 105–261, div. A, title V, §543(a)(1), Oct. 17, 1998, 112 Stat. 2020.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

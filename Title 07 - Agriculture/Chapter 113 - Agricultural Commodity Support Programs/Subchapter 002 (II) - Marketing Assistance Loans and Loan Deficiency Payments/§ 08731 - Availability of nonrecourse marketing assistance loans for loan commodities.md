@@ -4,7 +4,7 @@
 
 #### (1) Availability
 
-&emsp;For each of the 2008 through 2012 crops of each loan commodity, the Secretary shallmake available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
+&emsp;For each of the 2008 through 2012 crops of each loan commodity, the Secretary shall make available to producers on a farm nonrecourse marketing assistance loans for loan commodities produced on the farm.
 
 #### (2) Terms and conditions
 
@@ -20,6 +20,8 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 (Pub. L. 110–234, title I, §1201, May 22, 2008, 122 Stat. 953; Pub. L. 110–246, §4(a), title I, §1201, June 18, 2008, 122 Stat. 1664, 1681.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
@@ -27,6 +29,8 @@ The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

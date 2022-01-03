@@ -148,13 +148,17 @@ Nothing in this section prohibits the authorization of the development of utilit
 
 (Pub. L. 111–11, title I, §1974, Mar. 30, 2009, 123 Stat. 1081.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsecs. (e)(1)(B)(i) and (f)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
-Pub. L. 111–11, title I, §1971, Mar. 30, 2009, 123 Stat. 1075, as amended by Pub. L. 111–88, div. A, title IV, §436, Oct. 30, 2009, 123 Stat. 2965, provided that: "In this subtitle \[subtitle O (§§1971–1983) of title I of Pub. L. 111–11, enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title, amending section 1274 of this title, enacting provisions set out as notes under section 1274 of this title and provisions formerly set out as a note under section 766 of Title 25, Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\]:
+Pub. L. 111–11, title I, §1971, Mar. 30, 2009, 123 Stat. 1075, as amended by Pub. L. 111–88, div. A, title IV, §436, Oct. 30, 2009, 123 Stat. 2965, provided that: "In this subtitle \[subtitle O (§§1971–1983) of title I of Pub. L. 111–11, enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title, amending section 1274 of this title, enacting provisions set out asnotes under section 1274 of this title and provisions formerly set out as a note under section 766 of Title 25, Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\]:
 
 &emsp;"(1)
 
@@ -174,7 +178,7 @@ Northeastern washington county wilderness map.—The term 'Northeastern Washingt
 
 &emsp;"(5)
 
-Northwestern washington county wilderness map.—The term 'Northwestern WashingtonCounty Wilderness Map' means the map entitled 'Northwestern Washington County Wilderness' and dated June 21, 2008.
+Northwestern washington county wilderness map.—The term 'Northwestern Washington County Wilderness Map' means the map entitled 'Northwestern Washington County Wilderness' and dated June 21, 2008.
 
 &emsp;"(6)
 

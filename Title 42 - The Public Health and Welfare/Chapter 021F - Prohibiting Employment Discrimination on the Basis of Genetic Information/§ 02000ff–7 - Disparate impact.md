@@ -50,7 +50,7 @@ On the date that is 6 years after May 21, 2008, there shall be established a com
 
 #### (4) Hearings
 
-&emsp;The Commission may hold such hearings, sit and act at such times and places, take suchtestimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, to the extent possible, the Commission shall use existing data and research.
+&emsp;The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out the objectives of this section, except that, to the extent possible, the Commission shall use existing data and research.
 
 #### (5) Postal services
 
@@ -66,9 +66,13 @@ There are authorized to be appropriated to the Equal Employment Opportunity Comm
 
 (Pub. L. 110–233, title II, §208, May 21, 2008, 122 Stat. 917.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881, known as the Genetic Information Nondiscrimination Act of 2008. For complete classification of this Act to the Code, see Short Title note set out under section 2000ff of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

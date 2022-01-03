@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall manage the Park for the purpose of preserving and interpreting the Battles of the River Raisin in accordance with the National Park Service Organic Act (16 U.S.C. 1 et seq.) <sup>1</sup> and the Act of August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
+&emsp;The Secretary shall manage the Park for the purpose of preserving and interpreting theBattles of the River Raisin in accordance with the National Park Service Organic Act (16 U.S.C. 1 et seq.) <sup>1</sup> and the Act of August 21, 1935 (16 U.S.C. 461 et seq.).<sup>1</sup>
 
 #### (2) General management plan
 
@@ -61,6 +61,8 @@ Not later than 3 years after March 30, 2009, the Secretary shall submit to the C
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 111–11, title VII, §7003, Mar. 30, 2009, 123 Stat. 1188.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

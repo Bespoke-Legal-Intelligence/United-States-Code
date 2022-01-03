@@ -14,7 +14,7 @@
 
 &emsp;(5) any other receipts of the Postal Service;
 
-&emsp;(6) the balance in the Post Office Department Fund established under former section2202 of title 39 as of the commencement of operations of the Postal Service;
+&emsp;(6) the balance in the Post Office Department Fund established under former section 2202 of title 39 as of the commencement of operations of the Postal Service;
 
 &emsp;(7) amounts (including proceeds from the sale of forfeited items) from any civil forfeiture conducted by the Postal Service;
 
@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 109–435, §401(b)(3)(B), substituted "Except as otherwise
 
 Subsec. (b)(9). Pub. L. 109–435, §1008(c)(1), added par. (9).
 
-Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted "The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) allexpenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978." for "The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission."
+Subsec. (e)(1). Pub. L. 109–435, §603(c)(2), substituted "The Fund shall be available for the payment of (A) all expenses incurred by the Postal Service in carrying out its functions as provided by law, subject to the same limitation as set forth in the parenthetical matter under subsection (a); (B) all expenses of the Postal Regulatory Commission, subject to the availability of amounts appropriated under section 504(d); and (C) all expenses of the Office of Inspector General, subject to the availability of amounts appropriated under section 8G(f) of the Inspector General Act of 1978." for "The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission."
 
 <b>1997</b>—Subsec. (e)(2). Pub. L. 105–33, §7003(a)(2)(B), substituted "section 2401" for "sections 2401 and 2004" in two places.
 

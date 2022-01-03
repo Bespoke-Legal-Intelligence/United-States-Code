@@ -94,6 +94,8 @@ In this section:
 
 (Pub. L. 116–283, div. A, title II, §223, Jan. 1, 2021, 134 Stat. 3470.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.

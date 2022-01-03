@@ -144,7 +144,7 @@ There is established a Health Information Technology Advisory Committee (referre
 
 #### (3) Significant advancement determination
 
-&emsp;The Secretary shall periodically, based on the reports submitted under this subsection, review the target areas described in subsection (b)(2)(B), and, based on the objectives and benchmarks established under paragraph (1), the Secretary shall determine if significant advancement has been achieved with respect to such an area. Such determination shall be taken into consideration by the HIT AdvisoryCommittee when determining to what extent the Committee makes recommendations for an area other than an area described in subsection (b)(2)(B).
+&emsp;The Secretary shall periodically, based on the reports submitted under this subsection, review the target areas described in subsection (b)(2)(B), and, based on the objectives and benchmarks established under paragraph (1), the Secretary shall determine if significant advancement has been achieved with respect to such an area. Such determination shall be taken into consideration by the HIT Advisory Committee when determining to what extent the Committee makes recommendations for an area other than an area described in subsection (b)(2)(B).
 
 #### (d) Membership and operations
 
@@ -218,6 +218,8 @@ The Secretary shall provide for publication in the Federal Register and the post
 
 (July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(2)(B)(ii), is section 264(c) of Pub. L. 104–191, which is set out as a note under section 1320d–2 of this title.
@@ -228,7 +230,9 @@ The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–
 
 A prior section 300jj–12, act July 1, 1944, ch. 373, title XXX, §3002, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 234, related to the establishment, duties, and membership of the HIT Policy Committee, prior to repeal by Pub. L. 114–255, div. A, title IV, §4003(e)(1), Dec. 13, 2016, 130 Stat. 1168.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transition to the HIT Advisory Committee
 
-Pub. L. 114–255, div. A, title IV, §4003(e)(3), Dec. 13, 2016, 130 Stat. 1175, provided that: "The Secretary ofHealth and Human Services shall provide for an orderly and timely transition to the HIT Advisory Committee established under amendments made by this section \[enacting this section and section 300jj–13 of this title, amending sections 300jj, 300jj–11, 300jj–14, 300jj–17, 300jj–18, and 300jj–51 of this title, and repealing former sections 300jj–12 and 300jj–13 of this title\]."
+Pub. L. 114–255, div. A, title IV, §4003(e)(3), Dec. 13, 2016, 130 Stat. 1175, provided that: "The Secretary of Health and Human Services shall provide for an orderly and timely transition to the HIT Advisory Committee established under amendments made by this section \[enacting this section and section 300jj–13 of this title, amending sections 300jj, 300jj–11, 300jj–14, 300jj–17, 300jj–18, and 300jj–51 of this title, and repealing former sections 300jj–12 and 300jj–13 of this title\]."
 

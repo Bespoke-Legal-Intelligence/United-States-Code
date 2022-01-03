@@ -4,7 +4,7 @@
 
 In order to satisfy section 654(20)(A) of this title, each State must have in effect laws requiring the use of the following procedures, consistent with this section and with regulations of the Secretary, to increase the effectiveness of the program which the State administers under this part:
 
-&emsp;(1)(A) Procedures described in subsection (b) for the withholding from income of amounts payable as support in cases subject to enforcement under the State plan.
+&emsp;(1)(A) Procedures described in subsection (b) for the withholding from income of amountspayable as support in cases subject to enforcement under the State plan.
 
 &emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b), shall become subject to withholding as provided in subsection (b) if arrearages occur, without the need for a judicial or administrative hearing.
 
@@ -222,7 +222,7 @@ In general.—Procedures under which every 3 years (or such shorter cycle as the
 
 &emsp;&emsp;&emsp;&emsp;(II) apply a cost-of-living adjustment to the order in accordance with a formula developed by the State; or
 
-&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment, and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
+&emsp;&emsp;&emsp;&emsp;(III) use automated methods (including automated comparisons with wage or State income tax data) to identify orders eligible for review, conduct the review, identify orders eligible for adjustment,and apply the appropriate adjustment to the orders eligible for adjustment under any threshold that may be established by the State.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -294,7 +294,7 @@ High-volume automated administrative enforcement.—In this part, the term "high
 
 &emsp;(15)
 
-Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overdue support with respect to a child receiving assistance under a State program funded under part A, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
+Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overduesupport with respect to a child receiving assistance under a State program funded under part A, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
 
 &emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the option of the State, a plan approved by the State agency administering the State program under this part; or
 
@@ -376,7 +376,7 @@ The procedures referred to in subsection (a)(1)(A) (relating to the withholding 
 
 &emsp;(3)(A) The income of a noncustodial parent shall be subject to such withholding, regardless of whether support payments by such parent are in arrears, in the case of a support order being enforced under this part that is issued or modified on or after the first day of the 25th month beginning after October 13, 1988, on the effective date of the order; except that such income shall not be subject to such withholding under this subparagraph in any case where (i) one of the parties demonstrates, and the court (or administrative process) finds, that there is good cause not to require immediate income withholding, or (ii) a written agreement is reached between both parties which provides for an alternative arrangement.
 
-&emsp;(B) The income of a noncustodial parent shall become subject to such withholding, in the case of income not subject to withholding under subparagraph (A), on the date on whichthe payments which the noncustodial parent has failed to make under a support order are at least equal to the support payable for one month or, if earlier, and without regard to whether there is an arrearage, the earliest of—
+&emsp;(B) The income of a noncustodial parent shall become subject to such withholding, in the case of income not subject to withholding under subparagraph (A), on the date on which the payments which the noncustodial parent has failed to make under a support order are at least equal to the support payable for one month or, if earlier, and without regard to whether there is an arrearage, the earliest of—
 
 &emsp;&emsp;(i) the date as of which the noncustodial parent requests that such withholding begin,
 
@@ -562,7 +562,9 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;&emsp;(B) obtain a settlement in the best interests of the child support creditor.
 
-(Aug. 14, 1935, ch. 531, title IV, §466, as added Pub. L. 98–378, §3(b), Aug. 16, 1984, 98 Stat. 1306; amended Pub. L. 99–509, title IX, §9103(a), Oct. 21, 1986, 100 Stat. 1973; Pub. L. 100–485, title I, §§101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, 102 Stat. 2344–2346, 2349, 2350; Pub. L. 100–647, title VIII, §8105(4), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 103–66, title XIII, §13721(b), Aug. 10, 1993, 107 Stat. 659; Pub. L. 103–432, title II, §212(a), Oct. 31, 1994, 108 Stat. 4460; Pub. L. 104–193, title I,§108(c)(14), (15), title III, §§301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, 110 Stat. 2166, 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; Pub. L. 105–33, title V, §§5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, 111 Stat. 627, 629–631, 633, 634, 637; Pub. L. 105–200, title IV, §§401(c)(1), 404(a), 406(a), July 16, 1998, 112 Stat. 661, 671; Pub. L. 106–169, title IV, §401(f), (m), (n), Dec. 14, 1999, 113 Stat. 1858, 1859; Pub. L. 109–171, title VII, §§7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 113–183, title III, §301(f)(1), Sept. 29, 2014, 128 Stat. 1944.)
+(Aug. 14, 1935, ch. 531, title IV, §466, as added Pub. L. 98–378, §3(b), Aug. 16, 1984, 98 Stat. 1306; amended Pub. L. 99–509, title IX, §9103(a), Oct. 21, 1986, 100 Stat. 1973; Pub. L. 100–485, title I, §§101(a), (b), 103(c), 111(b), (e), Oct. 13, 1988, 102 Stat. 2344–2346, 2349, 2350; Pub. L. 100–647, title VIII, §8105(4), Nov. 10, 1988, 102 Stat. 3797; Pub. L. 103–66, title XIII, §13721(b), Aug. 10, 1993, 107 Stat. 659; Pub. L. 103–432, title II, §212(a), Oct. 31, 1994, 108 Stat. 4460; Pub. L. 104–193, title I, §108(c)(14), (15), title III, §§301(c)(3), (4), 314, 315, 317, 321, 323, 325(a), 331(a), 351, 364, 365, 367–369, 372, 373, 382, 395(d)(1)(H), (2)(D), Aug. 22, 1996, 110 Stat. 2166, 2200, 2212, 2214, 2220–2222, 2224, 2227, 2239, 2249–2251, 2254, 2255, 2257, 2259, 2260; Pub. L. 105–33, title V, §§5532(i)(2), 5536–5539, 5544, 5550(a), 5551, 5556(a), (e), Aug. 5, 1997, 111 Stat. 627, 629–631, 633, 634, 637; Pub. L. 105–200, title IV, §§401(c)(1), 404(a), 406(a), July 16, 1998, 112 Stat. 661, 671; Pub. L. 106–169, title IV, §401(f), (m), (n), Dec. 14, 1999, 113 Stat. 1858, 1859; Pub. L. 109–171, title VII, §§7301(g), 7302(a), 7307(a)(1), (2)(A)(ii), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 113–183, title III, §301(f)(1), Sept. 29, 2014, 128 Stat. 1944.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -700,7 +702,7 @@ Subsec. (b)(4). Pub. L. 104–193, §314(a)(2)(B), amended par. (4) generally. P
 
 "(B) The requirement of advance notice set forth in the first sentence of subparagraph (A) shall not apply in the case of any State which has a system of income withholding for child support purposes in effect on August 16, 1984, if such system provides on that date, and continues to provide, such procedures as may be necessary to meet the procedural due process requirements of State law."
 
-Subsec. (b)(5). Pub. L. 104–193, §314(a)(2)(C), substituted "the State through the State disbursement unit established pursuant to section 654b of this title, in accordance with the requirements of section 654b of this title." for "a public agency designated by the State, and the amounts withheld must be expeditiously distributed by the State or such agency in accordance with section 657 of this title under procedures (specified by the State) adequate to document payments of support and to track and monitor such payments, except that the State may establish or permit the establishment of alternative procedures for the collection anddistribution of such amounts (under the supervision of such public agency) otherwise than through such public agency so long as the entity making such collection and distribution is publicly accountable for its actions taken in carrying out such procedures, and so long as such procedures will assure prompt distribution, provide for the keeping of adequate records to document payments of support, and permit the tracking and monitoring of such payments."
+Subsec. (b)(5). Pub. L. 104–193, §314(a)(2)(C), substituted "the State through the State disbursement unit established pursuant to section 654b of this title, in accordance with the requirements of section 654b of this title." for "a public agency designated by the State, and the amounts withheld must be expeditiously distributed by the State or such agency in accordance with section 657 of this title under procedures (specified by the State) adequate to document payments of support and to track and monitor such payments, except that the State may establish or permit the establishment of alternative procedures for the collection and distribution of such amounts (under the supervision of such public agency) otherwise than through such public agency so long as the entity making such collection and distribution is publicly accountable for its actions taken in carrying out such procedures, and so long as such procedures will assure prompt distribution, provide for the keeping of adequate records to document payments of support, and permit the tracking and monitoring of such payments."
 
 Subsec. (b)(6)(A)(i). Pub. L. 104–193, §§314(a)(2)(D)(i), (b)(2)(A), 395(d)(1)(H), substituted "The employer of any noncustodial parent" for "The employer of any absent parent", "withhold from such noncustodial parent's income" for "withhold from such absent parent's wages", and "to the State disbursement unit within 7 business days after the date the amount would (but for this subsection) have been paid or credited to the employee, for distribution in accordance with this part. The employer shall withhold funds as directed in the notice, except that when an employer receives an income withholding order issued by another State, the employer shall apply the income withholding law of the state of the obligor's principal place of employment in determining—" for "to the appropriate agency (or other entity authorized to collect the amounts withheld under the alternative procedures described in paragraph (5)) for distribution in accordance with section 657 of this title.", and added subcls. (I) to (V) and closing provisions.
 
@@ -757,6 +759,8 @@ Subsec. (b)(3). Pub. L. 100–485, §101(a), amended par. (3) generally. Prior t
 &emsp;"(C) such earlier date as the State may select."
 
 <b>1986</b>—Subsec. (a)(9). Pub. L. 99–509 added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

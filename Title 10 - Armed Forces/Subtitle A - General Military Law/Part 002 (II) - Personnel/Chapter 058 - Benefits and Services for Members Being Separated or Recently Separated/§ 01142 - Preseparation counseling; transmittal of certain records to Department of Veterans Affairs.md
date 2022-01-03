@@ -8,7 +8,7 @@ Requirement.—(1) Within the time periods specified in paragraph (3), the Secre
 
 (3)(A) In the case of an anticipated retirement, preseparation counseling shall commence as soon as possible during the 24-month period preceding the anticipated retirement date. In the case of a separation other than a retirement, preseparation counseling shall commence not later than 365 days before the anticipated date. Except as provided in subparagraph (B), in no event shall preseparation counseling commence later than 365 days before the date of retirement or other separation.
 
-(B) In the event that a retirement or other separation is unanticipated until there are 365 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by the Secretary concerned) operational requirements make the 365-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
+(B) In the event that a retirement or other separation is unanticipated until there are 365 or fewer days before the anticipated retirement or separation date, or in the event a member of a reserve component is being demobilized under circumstances in which (as determined by theSecretary concerned) operational requirements make the 365-day requirement under subparagraph (A) unfeasible, preseparation counseling shall begin as soon as possible within the remaining period of service.
 
 (4)(A) Subject to subparagraph (B), the Secretary concerned shall not provide preseparation counseling to a member who is being discharged or released before the completion of the first 180 continuous days of active duty of the member.
 
@@ -144,6 +144,8 @@ Joint Service Transcript.—The Secretary concerned shall provide a copy of the 
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1552; amended Pub. L. 102–190, div. A, title X, §1061(a)(5), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4401, 4441(b), 4462(b), Oct. 23, 1992, 106 Stat. 2701, 2730, 2740; Pub. L. 103–35, title II, §201(i)(1), May 31, 1993, 107 Stat. 100; Pub. L. 103–160, div. A, title XIII, §1332(c), Nov. 30, 1993, 107 Stat. 1797; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(9)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290; Pub. L. 107–103, title III, §302(a), Dec. 27, 2001, 115 Stat. 991; Pub. L. 109–163, div. A, title V, §594, Jan. 6, 2006, 119 Stat. 3281; Pub. L. 111–84, div. A, title X, §1073(a)(13), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 112–56, title II, §221(b), Nov. 21, 2011, 125 Stat. 716; Pub. L. 112–81, div. A, title V, §§513, 529, 533(c), Dec. 31, 2011, 125 Stat. 1393, 1402, 1404; Pub. L. 112–239, div. A, title V, §541(c), title X, §1076(f)(12), title XVI, §1699(c)(1), Jan. 2, 2013, 126 Stat. 1735, 1952, 2092; Pub. L. 114–92, div. A, title V, §552, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §562, Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–91, div. A, title V, §§541(a), 542(d), Dec. 12, 2017, 131 Stat. 1393, 1395; Pub. L. 115–232, div. A, title V, §§552(a)(1), 553(b)(2), Aug. 13, 2018, 132 Stat. 1769, 1772; Pub. L. 116–92, div. A, title V, §561, title XVII, §1731(a)(26), Dec. 20, 2019, 133 Stat. 1394, 1813.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b)(19). Pub. L. 116–92, §561, added par. (19).
@@ -212,7 +214,7 @@ Subsec. (b)(15). Pub. L. 111–84, §1073(a)(13)(B), substituted "Federal" for "
 
 Subsec. (b)(11) to (17). Pub. L. 109–163, §594(2), added pars. (11) to (17).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, firstsentence read as follows: "As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member."
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–103, §302(a)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "As soon as possible before, but in no event later than 90 days before, the date of the discharge or release from active duty of a member of the armed forces, the Secretary concerned shall provide for individual preseparation counseling of the member."
 
 Subsec. (a)(3), (4). Pub. L. 107–103, §302(a)(2), added pars. (3) and (4).
 
@@ -232,9 +234,15 @@ Subsec. (b)(10). Pub. L. 102–484, §4401(b), added par. (10).
 
 <b>1991</b>—Subsec. (b)(5). Pub. L. 102–190 substituted period for semicolon at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–56, title II, §221(c), Nov. 21, 2011, 125 Stat. 716, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 1144 of this title\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Nov. 21, 2011\]."
+
+#### Notice of Options for Naturalization Upon Separation
+
+Pub. L. 117–81, div. A, title V, §523(b), Dec. 27, 2021, 135 Stat. 1687, provided that: "The Secretary of Homeland Security, acting through the Director of U.S. Citizenship and Immigration Services, and in coordination with the Secretary of Defense, shall provide to a member of the Armed Forces who is not a citizen of the United States, upon separation of such member, notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)\[.\] Such notice shall inform the member of existing programs or services that may aid in the naturalization process of such member."
 
 #### Inclusion of Question Regarding Immigration Status on Preseparation Counseling Checklist (DD Form 2648)
 

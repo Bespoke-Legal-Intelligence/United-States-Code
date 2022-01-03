@@ -24,7 +24,7 @@
 
 #### (b) Transmittal to Congress
 
-The decision of the President made pursuant to subsection (a) of this section shall be transmitted to both Houses of Congress and shall be considered received by such Houses for the purposes of this section on the first day on which both are in session occurring after such decision is transmitted. Such decision shall be accompanied by a report explaining in detail the basis for his decision with specific reference to the factors set forth in sections 719c(c) and 719d(a) of this title, and the reasons for any revision, modification of, or substitution for, the Commission recommendation.
+The decision of the President made pursuant to subsection (a) of this section shall be transmitted to both Houses of Congress and shall be considered received by such Houses for the purposes of this section on the first day on which both are in session occurring after such decision is transmitted. Such decision shall be accompanied by a report explaining in detail the basis for his decision with specific reference to the factors set forth in sections 719c(c) and 719d(a) ofthis title, and the reasons for any revision, modification of, or substitution for, the Commission recommendation.
 
 #### (c) Financial analysis
 
@@ -40,21 +40,29 @@ If the President determines to designate a transportation system for approval, t
 
 (Pub. L. 94–586, §7, Oct. 22, 1976, 90 Stat. 2907; Pub. L. 102–486, title XXX, §3012(a), Oct. 24, 1992, 106 Stat. 3128.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(5). Pub. L. 102–486 struck out par. (5) which provided for Presidential appointment of officer or board to serve as Federal inspector of construction of Alaska natural gas transportation system and specified duties and powers of such inspector.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-Enforcement functions authorized by, and supplemental enforcement authority created by this chapter, all functions assigned to the person or board to be appointed by the President under subsec. (a)(5) of this section, and, pursuant to subsec. (a)(6) of this section, function of enforcing terms and conditions described in section 5 of the Decision and Report to the Congress on the Alaska Natural Gas Transportation System, approved by Congress pursuant to Pub. L. 95–158, set out under section 719f of this title, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see sections 102(h) and 203(a) of Reorg. Plan No. 1 of 1979 set out below. Subsec. (a)(5) of this section was repealed, Office of the Federal Inspector for the Alaska Natural Gas Transportation System, created pursuant to subsec. (a)(5) abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out below. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
-
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a)(1), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 #### Abolition of Office of Federal Inspector
 
 Pub. L. 102–486, title XXX, §3012(b), Oct. 24, 1992, 106 Stat. 3128, provided that: "The Office of Federal Inspector of Construction for the Alaska Natural Gas Transportation System \[also known as "Office of the Federal Inspector for the Alaska Natural Gas Transportation System"\], created pursuant to the paragraph \[15 U.S.C. 719e(a)(5)\] repealed by subsection (a) of this section, is abolished. All functions and authority vested in the Inspector are hereby transferred to the Secretary of Energy."
 
 \[Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.\]
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions authorized by, and supplemental enforcement authority created by this chapter, all functions assigned to the person or board to be appointed by the President under subsec. (a)(5) of this section, and, pursuant to subsec. (a)(6) of this section, function of enforcing terms and conditions described in section 5 of the Decision and Report to the Congress on the Alaska Natural Gas Transportation System, approved by Congress pursuant to Pub. L. 95–158, set out under section 719f of this title, with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see sections 102(h) and 203(a) of Reorg. Plan No. 1 of 1979 set out below. Subsec. (a)(5) of this section was repealed, Office of the Federal Inspector for the Alaska Natural Gas Transportation System, created pursuant to subsec. (a)(5) abolished, and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out below. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of this title.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1979</b>
 
@@ -142,7 +150,7 @@ The Alaska Gas Transportation System is a 4,748-mile pipeline to be constructed 
 
 Natural gas is among the Nation's most valuable fuels. It is in the national interest to bring Alaskan gas reserves to market at the lowest possible price for consumers. Construction of a gas pipeline from the Prudhoe Bay reserves in Alaska through Canada to points in the West and Midwest United States will provide a system which will deliver more Alaskan natural gas at less cost to a greater number of Americans than any alternative transportation system. Every effort must be made to ensure timely completion of the pipeline at the lowest possible cost consistent with Federal regulatory policies.
 
-As a result of our experience in construction of the Trans-Alaska Oil Pipeline, we recognize the need for the Federal Government to be in a strong position to manage its own role in this project through prompt, coordinated decisionmaking in pre-construction approval functions and in enforcing the terms and conditions of the permits, certificates, leases, and other authorizations to be issued by various Federal agencies. We mustavoid duplicating the delays and cost escalations experienced in the construction of the Trans-Alaska Pipeline System. The Plan I am submitting would establish clear responsibility for the efficient functioning of Federal enforcement activities by assigning the Federal Inspector authority to carry out these responsibilities.
+As a result of our experience in construction of the Trans-Alaska Oil Pipeline, we recognize the need for the Federal Government to be in a strong position to manage its own role in this project through prompt, coordinated decisionmaking in pre-construction approval functions and in enforcing the terms and conditions of the permits, certificates, leases, and other authorizations to be issued by various Federal agencies. We must avoid duplicating the delays and cost escalations experienced in the construction of the Trans-Alaska Pipeline System. The Plan I am submitting would establish clear responsibility for the efficient functioning of Federal enforcement activities by assigning the Federal Inspector authority to carry out these responsibilities.
 
 The Alaska Natural Gas Transportation Act of 1976 \[15 U.S.C. 719 et seq.\] only provided for monitoring the construction of the pipeline. The Plan transfers to the Federal Inspector the authority to supervise the enforcement of terms and conditions of the permits and other authorizations, including those to be issued by the Departments of Agriculture, Interior, Transportation, and Treasury, and the Environmental Protection Agency, the Federal Energy Regulatory Commission, and the U.S. Army Corps of Engineers. The Plan provides for the Federal Inspector to coordinate other Federal activities directly related to the pipeline project. Federal agencies retain their authority to issue permits and related authorizations, but enforcement of the terms and conditions of these authorizations is transferred to the Federal Inspector. Transfer of enforcement authority from Federal agencies to the Federal Inspector is limited in scope to their participation in this project and in duration to the pre-construction, construction, and initial operation phases of the project.
 

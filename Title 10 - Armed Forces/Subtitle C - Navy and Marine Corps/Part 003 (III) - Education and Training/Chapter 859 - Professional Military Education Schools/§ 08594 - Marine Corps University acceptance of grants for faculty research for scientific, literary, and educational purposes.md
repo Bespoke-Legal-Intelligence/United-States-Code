@@ -26,9 +26,13 @@ Regulations.—The Secretary shall prescribe regulations for the administration 
 
 (Added Pub. L. 109–163, div. A, title V, §522(d)(1), Jan. 6, 2006, 119 Stat. 3242, §7104; renumbered §8594, Pub. L. 115–232, div. A, title VIII, §807(c)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7104 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

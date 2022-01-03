@@ -2,7 +2,7 @@
 
 #### (a) Election of directors
 
-No person shall serve as a director of a registered investment company unless elected to that office by the holders of the outstanding voting securities of such company, at an annual or a special meeting duly called for that purpose; except that vacancies occurring between such meetings may be filled in any otherwise legal manner if immediately after filling any such vacancy at least two-thirds of the directors then holding office shall have been elected to such office by the holders of the outstanding voting securities of the company at such an annual or special meeting. In the event that at any time less than a majority of the directors of such company holding office at that time were so elected by the holders of the outstanding voting securities, the board of directors or proper officer of such company shall forthwith cause to be held as promptly as possible and in any event within sixty days a meeting of such holders for the purpose of electing directors to fill any existing vacancies in the board of directors unless the Commission shall by order extend such period. The foregoing provisions of this subsection shall not apply to members of an advisory board.
+No person shall serve as a director of a registered investment company unless elected to that office by the holders of the outstanding voting securities of such company, at an annual or a special meeting duly called for that purpose; except that vacancies occurring between such meetings may be filled in any otherwise legal manner if immediately after filling anysuch vacancy at least two-thirds of the directors then holding office shall have been elected to such office by the holders of the outstanding voting securities of the company at such an annual or special meeting. In the event that at any time less than a majority of the directors of such company holding office at that time were so elected by the holders of the outstanding voting securities, the board of directors or proper officer of such company shall forthwith cause to be held as promptly as possible and in any event within sixty days a meeting of such holders for the purpose of electing directors to fill any existing vacancies in the board of directors unless the Commission shall by order extend such period. The foregoing provisions of this subsection shall not apply to members of an advisory board.
 
 Nothing herein shall, however, preclude a registered investment company from dividing its directors into classes if its charter, certificate of incorporation, articles of association, by-laws, trust indenture, or other instrument or the law under which it is organized, so provides and prescribes the tenure of office of the several classes: <i>Provided</i>, That no class shall be elected for a shorter period than one year or for a longer period than five years and the term of office of at least one class shall expire each year.
 
@@ -28,13 +28,19 @@ After opportunity for hearing upon the objections specified in the written state
 
 (Aug. 22, 1940, ch. 686, title I, §16, 54 Stat. 813; Pub. L. 94–29, §28(3), June 4, 1975, 89 Stat. 165.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Subsecs. (b), (c). Pub. L. 94–29 added subsec. (b), redesignated former subsec. (b) as (c), and substituted "The foregoing provisions of this section" for "The provisions of subsection (a) of this section" in first sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

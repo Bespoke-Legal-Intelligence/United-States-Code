@@ -4,6 +4,8 @@ This chapter and chapters 1403 through 1411 of this title apply, as appropriate,
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2922.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under section 10001 of this title.
@@ -22,7 +24,7 @@ Promotions Other Than To Fill Vacancies.—A reserve officer of the Army or Air 
 
 "(c)
 
-Officers Found Qualified for Promotion to First Lieutenant.—A reserve officer of the Army or Air Force who, on the effective date of this title, holds the grade of second lieutenant and has been found qualified for promotion to the grade of first lieutenant in accordance with section 3365, 3382, or 8365 of title 10, United States Code, as in effect on the day before the effective date of this title, shall be promoted to that grade on the date on which the officer would have been promoted under the provisions of chapter 337 or 837 of such title, as in effect on the day before the effectivedate of this title, unless sooner promoted under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force under section 14308(b) of title 10, United States Code, as added by this title.
+Officers Found Qualified for Promotion to First Lieutenant.—A reserve officer of the Army orAir Force who, on the effective date of this title, holds the grade of second lieutenant and has been found qualified for promotion to the grade of first lieutenant in accordance with section 3365, 3382, or 8365 of title 10, United States Code, as in effect on the day before the effective date of this title, shall be promoted to that grade on the date on which the officer would have been promoted under the provisions of chapter 337 or 837 of such title, as in effect on the day before the effective date of this title, unless sooner promoted under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force under section 14308(b) of title 10, United States Code, as added by this title.
 
 "(d)
 

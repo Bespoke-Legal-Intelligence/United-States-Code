@@ -30,7 +30,9 @@ Review of Proposed Actions.—(1) Not later than 75 days after receiving from th
 
 (B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project, or others to mitigate any adverse impact on military operations and readiness.
 
-(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
+(C) A notice of presumed risk issued under subparagraph (A) is a preliminary assessment only and does not represent a formal objection pursuant to subsection (e). Discussions of possible mitigation actions under such subparagraph could favorably resolve any concerns identified in the notice of presumed risk.
+
+(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of theState in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary's evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to section 44718(f) of title 49.
 
 (4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
 
@@ -39,6 +41,8 @@ Review of Proposed Actions.—(1) Not later than 75 days after receiving from th
 (6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
 
 (7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+
+(8) If, in reviewing an application for an energy project pursuant to paragraph (1), the Clearinghouse finds no adverse impact on military operations under section 44718(b)(1) of title 49, the Clearinghouse shall communicate to the Secretary of Transportation in writing, not later than five business days after making such finding, the following: "No Part 77 concerns, national security review ongoing."
 
 (d)
 
@@ -68,7 +72,7 @@ Comprehensive Review.—(1) The Secretary of Defense shall develop a comprehensi
 
 &emsp;&emsp;(v) modifications to the projects for which such applications are filed with the Secretary of Transportation pursuant to section 44718 of title 49, including changes in size, location, or technology.
 
-(3) The governor of a State may recommend to the Secretary of Defense additional geographical areas of concern within that State. Any such recommendation shall be submitted for notice and comment pursuant to paragraph (2)(C).
+(3) The governor of a State may recommend to the Secretary of Defense additional geographical areas of concern within that State. Any such recommendation shall be submittedfor notice and comment pursuant to paragraph (2)(C).
 
 (4) The Clearinghouse shall make access to data reflecting geographic areas identified under subparagraph (B) of paragraph (2) and reviewed and modified under subparagraph (C) of such paragraph available online.
 
@@ -120,15 +124,21 @@ Definitions.—In this section:
 
 &emsp;&emsp;(C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
-(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513.)
+(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329; Pub. L. 116–283, div. A, title III, §311, Jan. 1, 2021, 134 Stat. 3513; Pub. L. 117–81, div. A, title III, §371(b), Dec. 27, 2021, 135 Stat. 1663.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2021</b>—Subsec. (c)(2). Pub. L. 116–283, §311(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
+Subsec. (c)(2)(C). Pub. L. 117–81, §371(b)(1), added subpar. (C).
+
 Subsec. (c)(4) to (6). Pub. L. 116–283, §311(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 116–283, §311(2), (4), redesignated par. (6) as (7) and struck out "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity." before "Material marked".
+
+Subsec. (c)(8). Pub. L. 117–81, §371(b)(2), added par. (8).
 
 <b>2019</b>—Subsec. (c)(1). Pub. L. 116–92, §311, substituted "75 days" for "60 days" in introductory provisions.
 
@@ -145,6 +155,8 @@ Subsec. (f). Pub. L. 116–92, §371(4), which directed the substitution of "fro
 Pub. L. 116–92, §312, substituted "for an energy project" for "for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49".
 
 Subsec. (h)(3) to (9). Pub. L. 116–92, §371(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (7) substituted "the Administrator of the Federal Aviation Administration" for "the Federal Aviation Administration", added par. (8), and redesignated former par. (7) as (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of Existing Rules and Regulations
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 5304 of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
+&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 5304 of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementaryschools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
 
 #### (2) Allocation
 
@@ -82,7 +82,7 @@ If a State elects not to receive its allotment under subsection (c), the Secreta
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide a grant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
+&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide a grant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in theState bears to the number of infants and toddlers in all States receiving grants under such paragraph.
 
 #### (B) Maximum amount
 
@@ -99,6 +99,8 @@ If a State elects not to receive its allotment under subsection (c), the Secreta
 &emsp;&emsp;Amounts under a grant provided under paragraph (1) that are not obligated and expended prior to the beginning of the second fiscal year succeeding the fiscal year for which such amounts were appropriated shall be returned to the Secretary and used to make grants to States under section 1433 of this title (from their allotments under this section) during such second succeeding fiscal year.
 
 (Pub. L. 91–230, title VI, §643, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2760.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -28,7 +28,7 @@ Enrollment Eligibility.—(1) The beneficiary categories for purposes of eligibi
 
 Cost-sharing Requirements.—The cost-sharing requirements under TRICARE Select are as follows:
 
-&emsp;(1) With respect to beneficiaries in the active-duty family member category or the retired category by reason of being a member or former member of the uniformed services whooriginally enlists or is appointed in the uniformed services on or after January 1, 2018, or by reason of being a dependent of such a member, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1).
+&emsp;(1) With respect to beneficiaries in the active-duty family member category or the retired category by reason of being a member or former member of the uniformed services who originally enlists or is appointed in the uniformed services on or after January 1, 2018, or by reason of being a dependent of such a member, the cost-sharing requirements shall be calculated pursuant to subsection (d)(1).
 
 &emsp;(2)(A) Except as provided by subsection (e), with respect to beneficiaries described in subparagraph (B) in the active-duty family member category or the retired category, the cost-sharing requirements shall be calculated as if the beneficiary were enrolled in TRICARE Extra or TRICARE Standard as if TRICARE Extra or TRICARE Standard, as the case may be, were still being carried out by the Secretary.
 
@@ -78,7 +78,7 @@ Cost-sharing Amounts for Certain Beneficiaries.—(1) Beneficiaries described in
 
 (3) Enrollment fees, deductible amounts, and catastrophic caps under this section are on a calendar-year basis.
 
-(4) The cost-sharing requirements applicable to services not specifically addressed in thetable set forth in paragraph (1) shall be established by the Secretary.
+(4) The cost-sharing requirements applicable to services not specifically addressed in the table set forth in paragraph (1) shall be established by the Secretary.
 
 (e)
 
@@ -114,6 +114,16 @@ Construction.—Nothing in this section may be construed as affecting the availa
 
 (h)
 
+Authority for Multiple Networks in the Same Geographic Area.—(1) The Secretary may establish a system of multiple networks of providers under TRICARE Select in the same geographic area or areas.
+
+(2) Under a system established under paragraph (1), the Secretary may—
+
+&emsp;(A) require a covered beneficiary enrolling in TRICARE Select to enroll in a specific provider network established pursuant to such system, in which case any provider not in that specific provider network shall be deemed an out-of-network provider with respect to the covered beneficiary (regardless of whether the provider is in a different TRICARE Select provider network) for purposes of this section or any other provision of law limiting the coverage or provision of health care services to those provided by network providers under the TRICARE program; and
+
+&emsp;(B) include beneficiaries covered by subsection (c)(2).
+
+(i)
+
 Definitions.—In this section:
 
 &emsp;(1) The terms "active-duty family member category", "retired category", and "reserve and young adult category" mean the respective categories of TRICARE Select enrollment described in subsection (b).
@@ -126,7 +136,9 @@ Definitions.—In this section:
 
 &emsp;(3) The term "out-of-network" means, with respect to health care services, such services provided by TRICARE-authorized civilian providers who have not entered into a contract under this chapter with a contractor under the TRICARE program.
 
-(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813.)
+(Added Pub. L. 114–328, div. A, title VII, §701(a)(1), Dec. 23, 2016, 130 Stat. 2180; amended Pub. L. 115–91, div. A, title VII, §739(b)(1), Dec. 12, 2017, 131 Stat. 1446; Pub. L. 116–92, div. A, title XVII, §1731(a)(23), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 117–81, div. A, title VII, §703(a), Dec. 27, 2021, 135 Stat. 1779.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -136,11 +148,15 @@ Another prior section 1075, act Aug. 10, 1956, ch. 1041, 70A Stat. 82, related t
 
 #### Amendments
 
+<b>2021</b>—Subsecs. (h), (i). Pub. L. 117–81 added subsec. (h) and redesignated former subsec. (h) as (i).
+
 <b>2019</b>—Subsec. (d)(1). Pub. L. 116–92 substituted "25% out of network" for "25% of out of network" in third column of table row relating to Outpatient visit civilian network.
 
 <b>2017</b>—Subsec. (d)(1). Pub. L. 115–91, §739(b)(1)(B), substituted "Ground ambulance civilian network" for "Ambulance civilian network" in first column of table.
 
 Subsec. (d)(4). Pub. L. 115–91, §739(b)(1)(A), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -148,7 +164,7 @@ Section applicable with respect to the provision of health care under the TRICAR
 
 #### Pilot Program on Health Care Assistance System
 
-Pub. L. 115–91, div. A, title VII, §731, Dec. 12, 2017, 131 Stat. 1441, provided that:
+Pub. L. 115–91, div. A, title VII, §731, Dec. 12, 2017, 131 Stat. 1441, as amended by Pub. L. 117–81, div. A, title VII, §705, Dec. 27, 2021, 135 Stat. 1781, provided that:
 
 "(a)
 
@@ -162,7 +178,7 @@ Elements.—The pilot program under subsection (a) may include the following ele
 
 &emsp;"(2) Supporting such beneficiaries in accessing and navigating the purchased care health care delivery system.
 
-&emsp;"(3) Providing such beneficiaries with information to allow the beneficiaries to make informed decisions regarding the quality, safety, and cost of available health care services.
+&emsp;"(3) Providing such beneficiaries with information to allow the beneficiaries to make informed decisionsregarding the quality, safety, and cost of available health care services.
 
 &emsp;"(4) Improving the health outcomes for such beneficiaries.
 
@@ -172,11 +188,13 @@ Duration.—The Secretary shall carry out the pilot program for an amount of tim
 
 "(d)
 
-Report.—Not later than January 1, 2021, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing an evaluation of the success of the pilot program under subsection (a), including—
+Report.—Not later than November 1, 2022, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing an evaluation of the success of the pilot program under subsection (a), including—
 
-&emsp;"(1) an analysis of the implementation of the elements under subsection (b); and
+&emsp;"(1) an analysis of the implementation of the elements under subsection (b);
 
-&emsp;"(2) the feasibility of incorporating such elements into TRICARE support contracts.
+&emsp;"(2) the feasibility of incorporating such elements into TRICARE support contracts; and
+
+&emsp;"(3) input from covered beneficiaries who have participated in the pilot program regarding their satisfaction with, and any benefits attained from, such participation.
 
 "(e)
 

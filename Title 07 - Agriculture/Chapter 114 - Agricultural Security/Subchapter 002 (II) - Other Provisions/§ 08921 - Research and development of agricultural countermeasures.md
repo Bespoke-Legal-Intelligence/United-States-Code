@@ -24,6 +24,8 @@ There are authorized to be appropriated to carry out this section—
 
 (Pub. L. 110–234, title XIV, §14121, May 22, 2008, 122 Stat. 1455; Pub. L. 110–246, §4(a), title XIV, §14121, June 18, 2008, 122 Stat. 1664, 2217; Pub. L. 113–79, title VII, §7503, Feb. 7, 2014, 128 Stat. 900; Pub. L. 115–334, title VII, §7403, Dec. 20, 2018, 132 Stat. 4817.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Plant Protection Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
@@ -39,6 +41,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79 substituted "are authorized to be appropriated to carry out this section—" for "is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2008 through 2012." and added pars. (1) and (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

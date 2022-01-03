@@ -24,7 +24,7 @@ Agreement.—Each member of the armed forces who participates in a program under
 
 &emsp;(2) To undergo during the period of the inactivation of the member from active service under the program such inactive service training as the Secretary concerned shall require in order to ensure that the member retains proficiency, at a level determined by the Secretary concerned to be sufficient, in the military skills, professional qualifications, and physical readiness of the member during the inactivation of the member from active service.
 
-&emsp;(3) Following completion of the period of the inactivation of the member from active service under the program, to serve two months as a member of the armed forces on active service for each month of the period of the inactivation of the member from active service under the program.
+&emsp;(3) Following completion of the period of the inactivation of the member from active service under the program, to serve one month as a member of the armed forces on active service for each month of the period of the inactivation of the member from active service under the program.
 
 (d)
 
@@ -44,7 +44,7 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (3)(A) Subject to subparagraph (B), upon the return of a member to active service after completion by the member of participation in a program—
 
-&emsp;(i) any agreement entered into by the member under chapter 5 of title 37 for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to runwhen the member commenced participation in the program; and
+&emsp;(i) any agreement entered into by the member under chapter 5 of title 37 for the payment of a special or incentive pay or bonus that was in force when the member commenced participation in the program shall be revived, with the term of such agreement after revival being the period of the agreement remaining to run when the member commenced participation in the program; and
 
 &emsp;(ii) any special or incentive pay or bonus shall be payable to the member in accordance with the terms of the agreement concerned for the term specified in clause (i).
 
@@ -60,9 +60,9 @@ Pay and Allowances.—(1) During each month of participation in a program under 
 
 (D) Any service required of a member under an agreement covered by this paragraph after the member returns to active service as described in subparagraph (A) shall be in addition to any service required of the member under an agreement under subsection (c).
 
-(4)(A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 of title 37 for—
+(4)(A) Subject to subparagraph (B), a member who participates in a program is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 <sup>1</sup> of title 37 for—
 
-&emsp;(i) travel performed from the residence of the member, at the time of release from active service to participate in the program, to the location in the United States designated by the member as his residence during the period of participation in the program; and
+&emsp;(i) travel performed from the residence of the member, at the time of release from active service to participate in the program, to thelocation in the United States designated by the member as his residence during the period of participation in the program; and
 
 &emsp;(ii) travel performed to the residence of the member upon return to active service at the end of the participation of the member in the program.
 
@@ -96,15 +96,27 @@ Continued Entitlements.—A member participating in a program under this section
 
 &emsp;(3) the entitlement of the member and of the survivors of the member to all death benefits under the provisions of chapter 75 of this title;
 
-&emsp;(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f of title 37; and
+&emsp;(4) the provision of all travel and transportation allowances for the survivors of deceased members to attend burial ceremonies under section 481f <sup>1</sup> of title 37; and
 
 &emsp;(5) the eligibility of the member for general benefits as provided in part II of title 38.
 
-(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 116–283, div. A, title IX, §924(b)(18), Jan. 1, 2021, 134 Stat. 3823.)
+(Added Pub. L. 115–232, div. A, title V, §551(a), Aug. 13, 2018, 132 Stat. 1766; amended Pub. L. 116–92, div. A, title VI, §602, Dec. 20, 2019, 133 Stat. 1423; Pub. L. 116–283, div. A, title IX, §924(b)(18), Jan. 1, 2021, 134 Stat. 3823; Pub. L. 117–81, div. A, title V, §521, Dec. 27, 2021, 135 Stat. 1686.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 474 of title 37, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
+Section 481f of title 37, referred to in subsec. (h)(4), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 
 <b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 substituted "an armed force" for "the armed force concerned".
 
+Subsec. (c)(3). Pub. L. 117–81 substituted "one month" for "two months".
+
 <b>2019</b>—Subsec. (h)(3) to (5). Pub. L. 116–92 added pars. (3) to (5).
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

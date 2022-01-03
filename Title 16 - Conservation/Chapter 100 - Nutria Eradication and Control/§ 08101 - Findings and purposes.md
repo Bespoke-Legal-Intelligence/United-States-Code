@@ -18,6 +18,8 @@ The purpose of this chapter is to authorize the Secretary of the Interior to pro
 
 (Pub. L. 108–16, §2, Apr. 23, 2003, 117 Stat. 621; Pub. L. 116–186, §1(1), Oct. 30, 2020, 134 Stat. 901.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 105–322, referred to in subsec. (a)(4), is Pub. L. 105–322, Oct. 30, 1998, 112 Stat. 3027, which is not classified to the Code.
@@ -26,13 +28,15 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a)(1). Pub. L. 116–186, §1(1)(A)(i), substituted "Wetlands, tidal marshes, and agricultural lands" for "Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana".
+<b>2020</b>—Subsec. (a)(1). Pub. L. 116–186, §1(1)(A)(i), substituted "Wetlands, tidal marshes, and agriculturallands" for "Wetlands and tidal marshes of the Chesapeake Bay and in Louisiana".
 
 Subsec. (a)(2). Pub. L. 116–186, §1(1)(A)(ii), struck out "in Maryland and Louisiana" after "substantial marsh loss".
 
 Subsec. (a)(3). Pub. L. 116–186, §1(1)(A)(iii), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Traditional harvest methods to control or eradicate nutria have failed in Maryland and have had limited success in the eradication of nutria in Louisiana. Consequently, marsh loss is accelerating."
 
 Subsec. (b). Pub. L. 116–186, §1(1)(B), substituted "any State that has demonstrated the need" for "the State of Maryland and the State of Louisiana".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

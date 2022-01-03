@@ -4,7 +4,7 @@ The Secretary shall furnish, without prepayment, to—
 
 #### (1) Postmaster General
 
-&emsp;The Postmaster General a suitable quantity of adhesive stamps, coupons, tickets, or such other devices as may be prescribed by the Secretary pursuant to section 6302(b) or this chapter, to be distributed to, and kept on sale by, the various postmasters in the United States in all post offices of the first and second classes, and such post offices of the third and fourth classes as—
+&emsp;The Postmaster General a suitable quantity of adhesive stamps, coupons, tickets, or suchother devices as may be prescribed by the Secretary pursuant to section 6302(b) or this chapter, to be distributed to, and kept on sale by, the various postmasters in the United States in all post offices of the first and second classes, and such post offices of the third and fourth classes as—
 
 &emsp;&emsp;(A) are located in county seats, or
 
@@ -16,6 +16,8 @@ The Secretary shall furnish, without prepayment, to—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 829; Pub. L. 89–44, title VI, §601(d), June 21, 1965, 79 Stat. 154; Pub. L. 94–455, title XIX, §1906(a)(36), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1829, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing and substituted in par. (2) "designated depositary." for "designated depositary;".
@@ -23,6 +25,8 @@ The Secretary shall furnish, without prepayment, to—
 <b>1965</b>—Par. (1). Pub. L. 89–44, §601(d)(1), struck out "(other than the stamps on playing cards)" after "quantity of adhesive stamps".
 
 Par. (3). Pub. L. 89–44, §601(d)(2), struck out par. (3) which related to supply and distribution of stamps to State agents.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1965 Amendment
 

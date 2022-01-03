@@ -8,7 +8,7 @@ The Director of the Office of Foreign Buildings Operations shall—
 
 &emsp;(3) direct the Office of Foreign Buildings Operations to provide proper training and assistance to posts to ensure that annual surveys are effectively completed; and
 
-&emsp;(4) direct overseas posts to ensure that all maintenance program fiscal transactions are properly encoded in the Department of State accounting system to enable compilation of actual expenditures on routine maintenance and specific maintenance funded by the Office of Foreign Buildings Operations.
+&emsp;(4) direct overseas posts to ensure that all maintenance program fiscal transactions are properly encoded in the Department of State accounting system to enable compilation ofactual expenditures on routine maintenance and specific maintenance funded by the Office of Foreign Buildings Operations.
 
 (Pub. L. 102–138, title I, §125, Oct. 28, 1991, 105 Stat. 659.)
 

@@ -18,11 +18,15 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §501, 66 Stat. 500.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7851 of this title as this section.
 
 <b>2006</b>—Pub. L. 109–163 substituted "States, the District of Columbia, Guam, and the Virgin Islands" for "States, the Territories, and the District of Columbia".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

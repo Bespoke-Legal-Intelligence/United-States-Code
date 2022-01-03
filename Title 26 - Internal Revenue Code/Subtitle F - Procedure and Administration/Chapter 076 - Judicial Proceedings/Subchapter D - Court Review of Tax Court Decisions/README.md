@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Pub. L. 91–172, title IX, §§959(b), 960(i)(2), Dec. 30, 1969, 83 Stat. 734, 735, substituted "Notice of appeal" for "Petition for review" in item 7483 and substituted "Cross references" for "Cross reference" in item 7487.

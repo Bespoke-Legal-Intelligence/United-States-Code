@@ -40,6 +40,8 @@ In subsection (b) the words "first class" are omitted as obsolete.
 
 In subsection (c) the words "by authority of law" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8662, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided for military training, organization, and equipping of prisoners who have been sent to United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, §6(3), July 5, 1968, 82 Stat. 288.
@@ -57,6 +59,8 @@ A prior section 8662, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided for m
 <b>2014</b>—Subsec. (d)(2). Pub. L. 113–291 substituted "section 1018(a)" for "section 1024(a)".
 
 <b>2013</b>—Subsec. (d). Pub. L. 112–239 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

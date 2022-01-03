@@ -10,6 +10,8 @@
 
 &emsp;Memorial Day, the last Monday in May.
 
+&emsp;Juneteenth National Independence Day, June 19.
+
 &emsp;Independence Day, July 4.
 
 &emsp;Labor Day, the first Monday in September.
@@ -36,7 +38,7 @@
 
 > This subsection, except subparagraph (B) of paragraph (1), does not apply to an employee whose basic workweek is Monday through Saturday.
 
-(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery and Prince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
+(c) January 20 of each fourth year after 1965, Inauguration Day, is a legal public holiday for the purpose of statutes relating to pay and leave of employees as defined by section 2105 of this title and individuals employed by the government of the District of Columbia employed in the District of Columbia, Montgomery andPrince Georges Counties in Maryland, Arlington and Fairfax Counties in Virginia, and the cities of Alexandria and Falls Church in Virginia. When January 20 of any fourth year after 1965 falls on Sunday, the next succeeding day selected for the public observance of the inauguration of the President is a legal public holiday for the purpose of this subsection.
 
 (d)(1) For purposes of this subsection—
 
@@ -46,7 +48,7 @@
 
 (2) An agency may prescribe rules under which employees on a compressed schedule may, in the case of a holiday that occurs on a regularly scheduled non-workday for such employees, and notwithstanding any other provision of law or the terms of any collective bargaining agreement, be required to observe such holiday on a workday other than as provided by subsection (b), if the agency head determines that it is necessary to do so in order to prevent an adverse agency impact.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 515; Pub. L. 90–363, §1(a), June 28, 1968, 82 Stat. 250; Pub. L. 94–97, Sept. 18, 1975, 89 Stat. 479; Pub. L. 98–144, §1, Nov. 2, 1983, 97 Stat. 917; Pub. L. 104–201, div. A, title XVI, §1613, Sept. 23, 1996, 110 Stat. 2739; Pub. L. 105–261, div. A, title XI, §1107, Oct. 17, 1998, 112 Stat. 2142; Pub. L. 117–17, §2, June 17, 2021, 135 Stat. 287.)
 
 Historical and Revision Notes
 
@@ -106,6 +108,8 @@ Section 6309 of this title, referred to in subsec. (b)(1)(B), was repealed by Pu
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 117–17 inserted item relating to Juneteenth National Independence Day.
+
 <b>1998</b>—Subsec. (b)(3). Pub. L. 105–261 added par. (3).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–201 added subsec. (d).
@@ -154,7 +158,7 @@ Sec. 2. As used in this order:
 
 (b) <i>Workday</i> means those hours which comprise in sequence the employee's regular daily tour of duty within any 24-hour period, whether falling entirely within one calendar day or not.
 
-Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
+Sec. 3. (a) Any employee whose basic workweek does not include Sunday and who would ordinarily be excused from work on a holiday falling within his basicworkweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on Sunday.
 
 (b) Any employee whose basic workweek includes Sunday and who would ordinarily be excused from work on a holiday falling within his basic workweek shall be excused from work on the next workday of his basic workweek whenever a holiday falls on a day that has been administratively scheduled as his <i>regular</i> weekly nonworkday in lieu of Sunday.
 

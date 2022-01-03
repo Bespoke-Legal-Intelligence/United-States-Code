@@ -48,6 +48,8 @@ In the case of a common-law trust of the character described in section 80a–16
 
 <i>For termination of amendment by section 12 of Pub. L. 110–174, see Termination Date of 2007 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(d) of the Sudan Accountability and Divestment Act of 2007, referred to in subsec. (c)(1)(A), is section 3(d) of Pub. L. 110–174, which is set out in a note under section 1701 of Title 50, War and National Defense.
@@ -65,6 +67,8 @@ Subsec. (c)(2)(A). Pub. L. 111–195, §205(b)(1), amended subpar. (A) generally
 <b>1970</b>—Subsec. (a)(3). Pub. L. 91–547, §3(d), prohibited deviation from any investment policy which is changeable only if authorized by shareholder vote, substituted "section 8(b)(3)" for "section 8(b)(2)", and in the latter deviation provision struck out "fundamental" before "policy".
 
 Subsec. (b). Pub. L. 91–547, §2(b), substituted reference to "paragraph (42)" for "paragraph (40)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -4,11 +4,15 @@ Dealers and exhibitors shall make and retain for such reasonable period of time 
 
 (Pub. L. 89–544, §10, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §11, Dec. 24, 1970, 84 Stat. 1562; Pub. L. 94–279, §8, Apr. 22, 1976, 90 Stat. 418.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–279 struck out ", upon forms supplied by the Secretary" after "ownership of animals as the Secretary may prescribe" and inserted provisions dealing with the records required to be maintained by intermediate handlers and carriers relating to the transportation, receiving, handling and delivery of animals.
 
 <b>1970</b>—Pub. L. 91–579 extended recordkeeping requirements to include exhibitors and to include animals, as defined, rather than only dogs and cats, except that research facilities shall continue to keep required records only for live dogs and cats.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

@@ -14,11 +14,15 @@ For purposes of this section, the term "foreign tax redetermination" means any r
 
 (Added Pub. L. 96–603, §2(c)(2), Dec. 28, 1980, 94 Stat. 3509.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6689, added Pub. L. 93–17, §3(d)(2), Apr. 10, 1973, 87 Stat. 16, related to failure by certain foreign issuers and obligors to comply with United States investment equalization tax requirements, prior to repeal by Pub. L. 94–455, title XIX, §1904(b)(10)(E)(i), Oct. 4, 1976, 90 Stat. 1817.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-For applicability of section with respect to employer contributions or accruals for taxable years beginningafter Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance of prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as a note under section 404A of this title.
+For applicability of section with respect to employer contributions or accruals for taxable years beginning after Dec. 31, 1979, election to apply amendments retroactively with respect to foreign subsidiaries, allowance of prior deductions in case of certain funded branch plans, and time and manner for making elections, see section 2(e) of Pub. L. 96–603, set out as a note under section 404A of this title.
 

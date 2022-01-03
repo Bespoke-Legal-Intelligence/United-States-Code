@@ -42,6 +42,8 @@ In subsection (b), the words "if the Chief of Staff is absent or disabled or if 
 
 In subsection (c), the words "If the Vice Chief of Staff is absent or disabled or if that office is vacant" are substituted for 10:1813(b) (1st 19 words).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8034 of this title as this section.
@@ -66,7 +68,9 @@ Subsec. (d). Pub. L. 99–433, §522(d)(3), (4), added subsec. (d). Former subse
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–599 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

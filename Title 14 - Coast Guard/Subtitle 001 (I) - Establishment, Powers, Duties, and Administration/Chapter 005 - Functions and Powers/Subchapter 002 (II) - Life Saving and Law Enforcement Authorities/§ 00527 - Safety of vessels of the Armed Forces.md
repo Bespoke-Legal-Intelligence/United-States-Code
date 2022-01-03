@@ -12,7 +12,7 @@
 
 &emsp;(1) any vessel owned or operated by the Department of Defense or the Coast Guard, other than a time- or voyage-chartered vessel; and
 
-&emsp;(2) any vessel owned and operated by the Department of Transportation that is designated by the Secretary of the department in which the Coast Guard is operating as a vessel equivalent to a vessel described in paragraph (1).
+&emsp;(2) any vessel owned and operated by the Department of Transportation that is designated by the Secretary of the department in whichthe Coast Guard is operating as a vessel equivalent to a vessel described in paragraph (1).
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 503, §91; Pub. L. 99–640, §10(a)(4), Nov. 10, 1986, 100 Stat. 3549; Pub. L. 109–241, title II, §201, July 11, 2006, 120 Stat. 519; renumbered §527 and amended Pub. L. 115–282, title I, §105(b), title III, §318(a), Dec. 4, 2018, 132 Stat. 4200, 4251.)
 

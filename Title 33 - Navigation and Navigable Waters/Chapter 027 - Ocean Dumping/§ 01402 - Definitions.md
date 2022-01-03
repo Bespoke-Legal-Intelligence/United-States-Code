@@ -6,7 +6,7 @@ For the purposes of this Act the term—
 
 (b) "Ocean waters" means those waters of the open seas lying seaward of the base line from which the territorial sea is measured, as provided for in the Convention on the Territorial Sea and the Contiguous Zone (15 UST 1606; TIAS 5639).
 
-(c) "Material" means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discarded equipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and otherwaste; but such term does not mean sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
+(c) "Material" means matter of any kind or description, including, but not limited to, dredged material, solid waste, incinerator residue, garbage, sewage, sewage sludge, munitions, radiological, chemical, and biological warfare agents, radioactive materials, chemicals, biological and laboratory waste, wreck or discarded equipment, rock, sand, excavation debris, and industrial, municipal, agricultural, and other waste; but such term does not mean sewage from vessels within the meaning of section 1322 of this title. Oil within the meaning of section 1321 of this title shall be included only to the extent that such oil is taken on board a vessel or aircraft for the purpose of dumping.
 
 (d) "United States" includes the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Canal Zone, the territories and possessions of the United States, and the Trust Territory of the Pacific Islands.
 
@@ -56,15 +56,15 @@ Subsec. (l). Pub. L. 93–254, §1(2)(C), added subsec. (l).
 
 Amendment by Pub. L. 93–254 effective Mar. 22, 1974, see section 2 of Pub. L. 93–254, set out in part as a note under section 1401 of this title.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Territorial Sea and Contiguous Zone of United States
 

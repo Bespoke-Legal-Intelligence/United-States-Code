@@ -4,7 +4,7 @@
 
 General.—Except as provided in this section and section 32502 of this title, a person may not—
 
-&emsp;(1) manufacture for sale, sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States, a passenger motor vehicle or passenger motor vehicle equipment manufactured on or after the date an applicable standard under section 32502 of this title takes effect, unless it conforms to the standard;
+&emsp;(1) manufacture for sale, sell, offer for sale, introduce or deliver for introduction in interstate commerce, or import into the United States, a passenger motor vehicle or passengermotor vehicle equipment manufactured on or after the date an applicable standard under section 32502 of this title takes effect, unless it conforms to the standard;
 
 &emsp;(2) fail to comply with an applicable regulation prescribed by the Secretary of Transportation under this chapter;
 
@@ -73,6 +73,8 @@ Oct. 20, 1972, Pub. L. 92–513, §106, 86 Stat. 952.
 In subsection (a)(4), the words "required by such subsection to the effect that a passenger motor vehicle or passenger motor vehicle equipment conforms to all applicable bumper standards" are omitted as surplus.
 
 In subsection (c)(1), before clause (A), the word "conditions" is substituted for "such terms and conditions" to eliminate unnecessary words. In clause (A), the words "comply, after importation" are substituted for "brought into conformity" for clarity and consistency.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

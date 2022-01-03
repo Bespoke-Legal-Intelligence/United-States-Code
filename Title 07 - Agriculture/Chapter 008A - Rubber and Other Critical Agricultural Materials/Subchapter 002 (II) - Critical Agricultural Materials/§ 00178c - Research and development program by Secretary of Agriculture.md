@@ -42,6 +42,8 @@ Notwithstanding any other provision of law, in carrying out a demonstration proj
 
 (Pub. L. 95–592, §5, Nov. 4, 1978, 92 Stat. 2531; Pub. L. 98–284, §5, May 16, 1984, 98 Stat. 182; Pub. L. 99–198, title XIV, §1439, Dec. 23, 1985, 99 Stat. 1559; Pub. L. 102–237, title X, §1005(1), Dec. 13, 1991, 105 Stat. 1894; Pub. L. 115–334, title VII, §7501(a), Dec. 20, 2018, 132 Stat. 4819.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(9). Pub. L. 115–334 inserted ", and including hemp (as defined in section 1639o of this title)" after "hydrocarbon-containing plants".
@@ -58,7 +60,7 @@ Subsec. (b). Pub. L. 98–284, §5(1), designated existing provisions as subsec.
 
 Subsec. (b)(1), (2). Pub. L. 98–284, §5(2), redesignated cls. (a) and (b) as pars. (1) and (2) of subsec. (b).
 
-Subsec. (b)(3). Pub. L. 98–284, §5(2), (3), redesignated cl. (c) as par. (3) of subsec. (b) and substituted "accelerating present plant breeding, genetics, and selection programs for the purpose of improving and increasing latex yields, expanding insect and disease resistance, broadening the ranges of drought and cold resistance of the Parthenium plant, and providing a system of regional research trials for enhancing and increasing the supply of foundation seed for certified seed production" for "carrying out breeding and selection programs for the purpose of improving latex yields, expanding insect and disease resistance, and broadening the ranges of drought and cold tolerance of the Parthenium plant".
+Subsec. (b)(3). Pub. L. 98–284, §5(2), (3), redesignated cl. (c) as par. (3) of subsec. (b) and substituted "accelerating present plant breeding, genetics, and selection programs for the purpose of improving and increasing latex yields, expanding insect and disease resistance, broadening the ranges of drought and cold resistance of the Parthenium plant, and providing a system of regional research trials for enhancing and increasing the supply of foundation seed for certified seed production"for "carrying out breeding and selection programs for the purpose of improving latex yields, expanding insect and disease resistance, and broadening the ranges of drought and cold tolerance of the Parthenium plant".
 
 Subsec. (b)(4). Pub. L. 98–284, §5(2), (4), redesignated cl. (d) as par. (4) of subsec. (b) and substituted "establishing a system of large-scale experimental plantings (aggregating ten thousand acres or more) to provide shrub for feedstock to process in the developmental rubber processing facility described in paragraph (7)" for "establishing a system of experimental plantings in arid and semiarid regions of the United States having suitable climatic and soil conditions for the culture of Parthenium".
 

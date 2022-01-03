@@ -72,6 +72,8 @@
 
 (July 26, 1947, ch. 343, title VII, §702, formerly title I, §105B, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616; renumbered §105C, Pub. L. 107–56, title IX, §905(a)(1), Oct. 26, 2001, 115 Stat. 388; amended Pub. L. 107–306, title III, §353(b)(5), Nov. 27, 2002, 116 Stat. 2402; renumbered title VII, §702, and amended Pub. L. 108–136, div. A, title IX, §§921(e)(4), 922(c), (d)(1)(C), Nov. 24, 2003, 117 Stat. 1569, 1573, 1574; Pub. L. 108–375, div. A, title X, §1084(j), Oct. 28, 2004, 118 Stat. 2064; Pub. L. 108–458, title I, §1071(a)(1)(DD)–(FF), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 109–163, div. A, title IX, §933(b)(1), Jan. 6, 2006, 119 Stat. 3416.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (a)(6)(B)(v), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -118,6 +120,8 @@ Subsec. (b)(3). Pub. L. 108–136, §921(e)(4)(B), substituted "NGA" for "NIMA" 
 
 "(ii) The Select Committee on Intelligence of the Senate."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
@@ -126,5 +130,5 @@ Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17
 
 #### Treatment of Certain Transferred Records
 
-Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] of the National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
+Pub. L. 106–120, title V, §501(b), Dec. 3, 1999, 113 Stat. 1619, as amended by Pub. L. 108–136, div. A, title IX, §921(g), Nov. 24, 2003, 117 Stat. 1570, provided that: "Any record transferred to the National Geospatial-Intelligence Agency from exempted operational files of the Central Intelligence Agency covered by section 701(a) of the National Security Act of 1947 (50 U.S.C. 431(a)) \[now 50 U.S.C. 3141(a)\] shall be placed in the operational files of the National Geospatial-Intelligence Agency that are established pursuant to section 105B \[now 702\] ofthe National Security Act of 1947 \[50 U.S.C. 3142\], as added by subsection (a)."
 

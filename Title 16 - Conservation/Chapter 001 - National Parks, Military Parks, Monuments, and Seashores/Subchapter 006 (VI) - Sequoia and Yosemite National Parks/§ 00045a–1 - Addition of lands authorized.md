@@ -12,6 +12,8 @@ The owners of the lands to be conveyed to the United States, before any exchange
 
 (Dec. 21, 1943, ch. 372, §1, 57 Stat. 606.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Electric Power Development Permits
 
 Pub. L. 99–338, June 19, 1986, 100 Stat. 641, as amended by Pub. L. 103–437, §6(d)(4), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 108–447, div. E, title I, §139(c), Dec. 8, 2004, 118 Stat. 3069, provided: "That the Secretary of the Interior is hereby authorized to issue a permit for ten years, and may issue not more than 3 renewals of equivalent duration, for portions of an existing hydroelectric project, known as the Kaweah Project of Southern California Edison Company, to continue to occupy and use lands of the United States within Sequoia National Park as necessary for continued operation and maintenance.
@@ -42,5 +44,5 @@ Pub. L. 93–522, Dec. 14, 1974, 88 Stat. 1660, as amended by Pub. L. 95–625, 
 
 Pub. L. 88–47, June 21, 1963, 77 Stat. 70, authorized Secretary of the Interior to issue a permit to use and occupy United States lands within Sequoia National Park necessary for continued operation, maintenance, and use of the Kaweah number 3 hydroelectric project of Southern California Edison Company, which by its terms was to provide that any privileges granted thereunder were to be exercised in accord with Federal Power Act (16 U.S.C. 791a et seq.) and rules and regulations promulgated thereunder, and which was to expire no later than Aug. 6, 1974.
 
-Act Dec. 21, 1943, ch. 372, §3, 57 Stat. 606, provided as follows: "Nothing in this Act \[sections 45a–1 and 45a–2 of this title\] shall be construed to alter or affect in any manner the provisions, or extend the term, of the permit heretofore granted to the Southern California Edison Company and predecessors thereof for the use of lands in the Sequoia National Park for electric power development purposes, or to relieve the company of any financial or other obligation under said permit, orunder agreements or orders relating or supplementary thereto."
+Act Dec. 21, 1943, ch. 372, §3, 57 Stat. 606, provided as follows: "Nothing in this Act \[sections 45a–1 and 45a–2 of this title\] shall be construed to alter or affect in any manner the provisions, or extend the term, of the permit heretofore granted to the Southern California Edison Company and predecessors thereof for the use of lands in the Sequoia National Park for electric power development purposes, or to relieve the company of any financial or other obligation under said permit, or under agreements or orders relating or supplementary thereto."
 

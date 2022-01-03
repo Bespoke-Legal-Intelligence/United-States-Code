@@ -18,9 +18,13 @@ Covered Programs.—In this section, the term "Naval Academy mixed-funded athlet
 
 (Added Pub. L. 108–375, div. A, title V, §544(b)(1), Oct. 28, 2004, 118 Stat. 1906, §6978; renumbered §8478, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6978 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

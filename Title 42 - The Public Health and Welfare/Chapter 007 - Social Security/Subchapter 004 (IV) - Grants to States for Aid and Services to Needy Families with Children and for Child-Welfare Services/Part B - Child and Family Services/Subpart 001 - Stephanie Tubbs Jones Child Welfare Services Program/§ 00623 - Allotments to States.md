@@ -42,6 +42,8 @@ For purposes of this section, the term "United States" means the 50 States and t
 
 (Aug. 14, 1935, ch. 531, title IV, §423, formerly §421, as added Pub. L. 90–248, title II, §240(c), Jan. 2, 1968, 81 Stat. 912; amended Pub. L. 96–272, title I, §103(a), June 17, 1980, 94 Stat. 516; Pub. L. 100–203, title IX, §9135(b)(2), Dec. 22, 1987, 101 Stat. 1330–315; renumbered §423 and amended Pub. L. 109–288, §§6(b)(2), (d), 11(a)(1), Sept. 28, 2006, 120 Stat. 1244, 1246, 1255; Pub. L. 112–34, title I, §101(d), Sept. 30, 2011, 125 Stat. 371.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 621 of this title prior to renumbering by Pub. L. 109–288.
@@ -72,9 +74,11 @@ Subsec. (e). Pub. L. 109–288, §6(d)(5), added subsec. (e).
 
 <b>1980</b>—Pub. L. 96–272 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
+Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning onor after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 107 of Pub. L. 112–34, set out as a note under section 622 of this title.
 
 #### Effective Date of 2006 Amendment
 

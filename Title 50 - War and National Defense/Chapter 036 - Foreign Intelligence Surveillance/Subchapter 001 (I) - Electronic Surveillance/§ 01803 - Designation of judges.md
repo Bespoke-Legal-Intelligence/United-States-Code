@@ -34,7 +34,7 @@ Each judge designated under this section shall so serve for a maximum of seven y
 
 #### (f) Stay of order
 
-(1) A judge of the court established under subsection (a), the court established under subsection (b) or a judge of that court, or the Supreme Court of the United States or a justice of that court, may, in accordance with the rules of their respective courts, enter a stay of an order or an order modifying an order of the court established under subsection (a) or the court established under subsection (b) entered under anysubchapter of this chapter, while the court established under subsection (a) conducts a rehearing, while an appeal is pending to the court established under subsection (b), or while a petition of certiorari is pending in the Supreme Court of the United States, or during the pendency of any review by that court.
+(1) A judge of the court established under subsection (a), the court established under subsection (b) or a judge of that court, or the Supreme Court of the United States or a justice of that court, may, in accordance with the rules of their respective courts, enter a stay of an order or an order modifying an order of the court established under subsection (a) or the court established under subsection (b) entered under any subchapter of this chapter, while the court established under subsection (a) conducts a rehearing, while an appeal is pending to the court established under subsection (b), or while a petition of certiorari is pending in the Supreme Court of the United States, or during the pendency of any review by that court.
 
 (2) The authority described in paragraph (1) shall apply to an order entered under any provision of this chapter.
 
@@ -160,6 +160,8 @@ Following issuance of an order under this chapter, a court established under sub
 
 (Pub. L. 95–511, title I, §103, Oct. 25, 1978, 92 Stat. 1788; Pub. L. 107–56, title II, §208, Oct. 26, 2001, 115 Stat. 283; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 109–177, title I, §§106(f)(1), 109(d), Mar. 9, 2006, 120 Stat. 197, 205; Pub. L. 110–55, §5(a), Aug. 5, 2007, 121 Stat. 556; Pub. L. 110–261, title I, §109(a)–(b)(2)(A), (c), (d), title IV, §403(a)(1)(B)(ii), July 10, 2008, 122 Stat. 2464, 2465, 2474; Pub. L. 111–259, title VIII, §§801(2), 806(a)(2), Oct. 7, 2010, 124 Stat. 2746, 2748; Pub. L. 114–23, title IV, §401, June 2, 2015, 129 Stat. 279; Pub. L. 115–118, title I, §§101(b)(2)(A), 106, title II, §205(a)(1), (b)(1), Jan. 19, 2018, 132 Stat. 8, 13, 21, 22.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b), (c), (f), (g)(1), (h), (i)(6)(B), and (j), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -201,6 +203,8 @@ Subsec. (i). Pub. L. 110–261, §109(d), added subsec. (i).
 <b>2004</b>—Subsec. (c). Pub. L. 108–458, as amended by Pub. L. 111–259, §806(a)(2), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–56 substituted "11 district court judges" for "seven district court judges" and inserted "of whom no fewer than 3 shall reside within 20 miles of the District of Columbia" after "judicial circuits".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

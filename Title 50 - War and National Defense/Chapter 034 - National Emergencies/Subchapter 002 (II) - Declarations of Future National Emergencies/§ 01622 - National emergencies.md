@@ -26,9 +26,9 @@ Not later than six months after a national emergency is declared, and not later 
 
 (2) Any joint resolution so reported shall become the pending business of the House in question (in the case of the Senate the time for debate shall be equally divided between the proponents and the opponents) and shall be voted on within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
 
-(3) Such a joint resolution passed by one House shall be referred to the appropriate committee of the other House and shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee and shall thereupon become the pending business of such House and shall be voted upon within three calendar days after the day on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
+(3) Such a joint resolution passed by one House shall be referred to the appropriate committee of the other House and shall be reported out by such committee together with its recommendations within fifteen calendar days after the day on which such resolution is referred to such committee and shall thereupon become the pending business of such House and shall be voted upon within three calendar days after theday on which such resolution is reported, unless such House shall otherwise determine by yeas and nays.
 
-(4) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the day on which managers on the part of the Senate and the House have been appointed. Notwithstanding any rule in either House concerning the printing of conference reports or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed in the House in which such report is filed first.In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.
+(4) In the case of any disagreement between the two Houses of Congress with respect to a joint resolution passed by both Houses, conferees shall be promptly appointed and the committee of conference shall make and file a report with respect to such joint resolution within six calendar days after the day on which managers on the part of the Senate and the House have been appointed. Notwithstanding any rule in either House concerning the printing of conference reports or concerning any delay in the consideration of such reports, such report shall be acted on by both Houses not later than six calendar days after the conference report is filed in the House in which such report is filed first. In the event the conferees are unable to agree within forty-eight hours, they shall report back to their respective Houses in disagreement.
 
 (5) Paragraphs (1)–(4) of this subsection, subsection (b) of this section, and section 1651(b) of this title are enacted by Congress—
 
@@ -41,6 +41,8 @@ Not later than six months after a national emergency is declared, and not later 
 Any national emergency declared by the President in accordance with this subchapter, and not otherwise previously terminated, shall terminate on the anniversary of the declaration of that emergency if, within the ninety-day period prior to each anniversary date, the President does not publish in the Federal Register and transmit to the Congress a notice stating that such emergency is to continue in effect after such anniversary.
 
 (Pub. L. 94–412, title II, §202, Sept. 14, 1976, 90 Stat. 1255; Pub. L. 99–93, title VIII, §801, Aug. 16, 1985, 99 Stat. 448.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

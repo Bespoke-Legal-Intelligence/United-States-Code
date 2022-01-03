@@ -10,7 +10,7 @@
 
 (B) Except as provided in subparagraph (C), a nurse to whom this subsection is applicable is not entitled to additional pay under section 7453 of this title, or other applicable law, for any period included in a regularly scheduled 12-hour tour of duty.
 
-(C) If the Secretary determines it to be further necessary in order to obtain or retain the services of nurses at a particular facility, a nurse to whom this paragraph is applicable who performs service in excess of such nurse's regularly scheduled two 12-hour tours of duty may be paid overtime pay under section 7453(e) of this title, orother applicable law, for all or part of the hours of officially ordered or approved service performed by such nurse in excess of 40 hours during an administrative workweek.
+(C) If the Secretary determines it to be further necessary in order to obtain or retain the services of nurses at a particular facility, a nurse to whom this paragraph is applicable who performs service in excess of such nurse's regularly scheduled two 12-hour tours of duty may be paid overtime pay under section 7453(e) of this title, or other applicable law, for all or part of the hours of officially ordered or approved service performed by such nurse in excess of 40 hours during an administrative workweek.
 
 (c) The Secretary shall prescribe regulations for the implementation of this section.
 

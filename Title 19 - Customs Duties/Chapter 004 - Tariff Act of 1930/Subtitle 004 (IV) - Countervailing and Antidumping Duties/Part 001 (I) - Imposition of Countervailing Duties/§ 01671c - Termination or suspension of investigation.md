@@ -142,7 +142,7 @@ Before an investigation may be suspended under subsection (b) or (c) the adminis
 
 #### (B) Other agreements
 
-&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c), then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determinationin the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
+&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c), then the liquidation of entries of the subject merchandise shall be suspended under section 1671b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3), but the security required under section 1671b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
 
 #### (3) Where investigation is continued
 
@@ -172,7 +172,7 @@ If the administering authority, within 20 days after the date of publication of 
 
 #### (1) In general
 
-&emsp;Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation and which is described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
+&emsp;Within 20 days after the suspension of an investigation under subsection (c), an interested party which is a party to the investigation andwhich is described in subparagraph (C), (D), (E), (F), or (G) of section 1677(9) of this title may, by petition filed with the Commission and with notice to the administering authority, ask for a review of the suspension.
 
 #### (2) Commission investigation
 
@@ -226,13 +226,15 @@ The administering authority may terminate any investigation initiated by the adm
 
 #### (2) Requirements for suspension agreements
 
-&emsp;Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b) or (c), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under section 1671d(b) of this title but not in the preliminary affirmative determination under section 1671b(a) of this title, any agreement described in paragraph (1) may be accepted within 60 days after the countervailing duty order is published under section 1671e of this title.
+&emsp;Any agreement described in paragraph (1) shall be subject to all the requirements imposed under this section for other agreements under subsection (b) or (c), except that if the Commission makes a regional industry determination described in paragraph (1) in the final affirmative determination under section 1671d(b) of this title but not in the preliminaryaffirmative determination under section 1671b(a) of this title, any agreement described in paragraph (1) may be accepted within 60 days after the countervailing duty order is published under section 1671e of this title.
 
 #### (3) Effect of suspension agreement on countervailing duty order
 
 &emsp;If an agreement described in paragraph (1) is accepted after the countervailing duty order is published, the administering authority shall rescind the order, refund any cash deposit and release any bond or other security deposited under section 1671b(d)(1)(B) of this title, and instruct the Customs Service that entries of the subject merchandise that were made during the period that the order was in effect shall be liquidated without regard to countervailing duties.
 
 (June 17, 1930, ch. 497, title VII, §704, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 154; amended Pub. L. 98–573, title VI, §§604(a), 612(b)(2), Oct. 30, 1984, 98 Stat. 3025, 3034; Pub. L. 99–514, title XVIII, §1886(a)(4), Oct. 22, 1986, 100 Stat. 2921; Pub. L. 100–418, title I, §1326(d)(2), Aug. 23, 1988, 102 Stat. 1204; Pub. L. 103–465, title II, §§216(a), 217(a), 218(a)(1), 233(a)(5)(D)–(M), 264(c)(3)–(6), 270(a)(1)(E), (2)(A), (c)(1), Dec. 8, 1994, 108 Stat. 4853, 4854, 4899, 4914, 4917; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -272,7 +274,7 @@ Subsec. (g)(1). Pub. L. 103–465, §270(a)(1)(E), substituted "countervailable 
 
 Subsec. (h)(2). Pub. L. 103–465, §233(a)(5)(L), substituted "subject merchandise" for "merchandise which is the subject of the investigation".
 
-Subsec. (h)(3). Pub. L. 103–465, §§233(a)(5)(L), 264(c)(5), in introductory provisions, substituted "subject merchandise" for "merchandise which is the subject of theinvestigation", in subpar. (A), substituted "1671b(d)(2)" for "1671b(d)(1)", and in subpar. (B), substituted "1671b(d)(1)(B)" for "1671b(d)(2)".
+Subsec. (h)(3). Pub. L. 103–465, §§233(a)(5)(L), 264(c)(5), in introductory provisions, substituted "subject merchandise" for "merchandise which is the subject of the investigation", in subpar. (A), substituted "1671b(d)(2)" for "1671b(d)(1)", and in subpar. (B), substituted "1671b(d)(1)(B)" for "1671b(d)(2)".
 
 Subsec. (i)(1)(A). Pub. L. 103–465, §264(c)(6), substituted "1671b(d)(2)" for "1671b(d)(1)" in introductory provisions.
 
@@ -299,6 +301,8 @@ Subsecs. (g)(2), (h)(1). Pub. L. 98–573, §612(b)(2), substituted reference to
 Subsec. (i)(1)(D), (E). Pub. L. 98–573, §604(a)(4)(A)–(C), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (k). Pub. L. 98–573, §604(a)(5), added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

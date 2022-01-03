@@ -34,7 +34,7 @@
 
 #### (4) Container recycling
 
-&emsp;The Secretary may promulgate a regulation for the return and recycling of disposable pesticide containers used for the distribution or sale of registered pesticide products in interstate commerce. Any such regulation requiring recycling of disposable pesticide containers shall not apply to antimicrobial pesticides (as defined in section 136 of this title) or other pesticide products intended for non-agricultural uses.
+&emsp;The Secretary may promulgate a regulation for the return and recycling of disposable pesticide containers used for the distribution or sale of registered pesticide products in interstate commerce. Any such regulation requiring recycling of disposable pesticide containers shall not apply to antimicrobial pesticides (as defined in section 136 of this title)or other pesticide products intended for non-agricultural uses.
 
 #### (b) Recalls
 
@@ -188,9 +188,11 @@
 
 #### (2) Antimicrobial products
 
-&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions to prevent an unreasonable adverse effect on the environment.
+&emsp;A household, industrial, or institutional antimicrobial product that is not subject to regulation under the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) shall not be subject to the provisions of subsections (a), (e), and (f), unless the Administrator determines that such product must be subject to such provisions toprevent an unreasonable adverse effect on the environment.
 
 (June 25, 1947, ch. 125, §19, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 995; amended Pub. L. 95–396, §19, Sept. 30, 1978, 92 Stat. 833; Pub. L. 100–532, title IV, §§401–403, title VIII, §801(q)(1)(D), Oct. 25, 1988, 102 Stat. 2669, 2672, 2683; Pub. L. 104–170, title II, §225, Aug. 3, 1996, 110 Stat. 1507; Pub. L. 110–234, title XIV, §14209(b), May 22, 2008, 122 Stat. 1463; Pub. L. 110–246, §4(a), title XIV, §14209(b), June 18, 2008, 122 Stat. 1664, 2225.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -219,6 +221,8 @@ Subsec. (f)(2). Pub. L. 100–532, §801(q)(1)(D), substituted "136i" for "136b"
 Subsecs. (g), (h). Pub. L. 100–532, §403, added subsecs. (g) and (h).
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–396 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

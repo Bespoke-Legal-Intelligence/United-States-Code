@@ -4,6 +4,8 @@ It is declared to be the policy of Congress, in order to promote the general wel
 
 (Pub. L. 88–525, §2, Aug. 31, 1964, 78 Stat. 703; Pub. L. 91–671, §1, Jan. 11, 1971, 84 Stat. 2048; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958; Pub. L. 110–234, title IV, §4001(b), May 22, 2008, 122 Stat. 1092; Pub. L. 110–246, §4(a), title IV, §4001(b), June 18, 2008, 122 Stat. 1664, 1853.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -15,6 +17,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 <b>1977</b>—Pub. L. 95–113 substituted "a more nutritious diet" for "a nutritionally adequate diet" as the object of the program.
 
 <b>1971</b>—Pub. L. 91–671 provided for cooperation in utilization of Nation's abundance of food by other agencies, struck out "to the maximum extent practicable" before "to safeguard the health", enunciated finding that limited food purchasing power of low-income households contributes to hunger and malnutrition, and substituted "promote the distribution" for "will tend to cause the distribution" and authorization of a program (to alleviate hunger and malnutrition) which will permit low-income households to purchase a nutritionally adequate diet through normal channels of trade for prior authorization of a program (to effectuate policy of Congress and purposes of this chapter) which will permit such households to receive a greater share of Nation's abundance of food.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -28,7 +32,7 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: "This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022,2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Food Stamp Reauthorization Act of 2002'."
+Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: "This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the 'Food Stamp Reauthorization Act of 2002'."
 
 #### Short Title of 2000 Amendment
 
@@ -44,7 +48,7 @@ Pub. L. 103–66, title XIII, §13901(a), Aug. 10, 1993, 107 Stat. 672, provided
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section 2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
+Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided that: "This title \[enacting section2032 of this title, amending sections 1431, 1431e, 2012, 2014 to 2018, 2020 to 2022, 2024 to 2028, 3175, and 3175e of this title, section 6109 of Title 26, Internal Revenue Code, and sections 405 and 9904 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 612c, 2012, 2014, 2020, 2025, and 2028 of this title and section 1751 of Title 42, and amending provisions set out as notes under sections 612c and 2012 of this title\] may be cited as the 'Mickey Leland Memorial Domestic Hunger Relief Act'."
 
 #### Short Title of 1988 Amendments
 
@@ -78,11 +82,11 @@ Pub. L. 88–525, §1, Aug. 31, 1964, 78 Stat. 703, as amended by Pub. L. 95–1
 
 #### Supplemental Nutrition Assistance Program During COVID–19 Public Health Emergency
 
-Pub. L. 116–260, div. N, title VII, §702, Dec. 27, 2020, 134 Stat. 2092, provided that:
+Pub. L. 116–260, div. N, title VII, §702, Dec. 27, 2020, 134 Stat. 2092, as amended by Pub. L. 117–2, title I, §1101(a), Mar. 11, 2021, 135 Stat. 15, provided that:
 
 "(a)
 
-Value of Benefits.—Notwithstanding any other provision of law, beginning on January 1, 2021, and for each subsequent month through June 30, 2021, the value of benefits determined under section 8(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 15 \[sic\] 2017(a)) shall be calculated using 115 percent of the June 2020 value of the thrifty food plan (as defined in section 3 of such Act (7 U.S.C. 2012)) if the value of the benefits would be greater under that calculation than in the absence of this subsection.
+Value of Benefits.—Notwithstanding any other provision of law, beginning on January 1, 2021, and for each subsequent month through September 30, 2021, the value of benefits determined under section 8(a) of the Food and Nutrition Act of 2008 (7 U.S.C. 15 \[sic\] 2017(a)) shall be calculated using 115 percent of the June 2020 value of the thrifty food plan (as defined in section 3 of such Act (7 U.S.C. 2012)) if the value of the benefits would be greater under that calculation than in the absence of this subsection.
 
 "(b)
 
@@ -102,7 +106,7 @@ Administrative Expenses.—
 
 &emsp;"(1)
 
-In general.—For the costs of State administrative expenses associated with carrying out this section and administering the supplemental nutrition assistance program established under the Food andNutrition Act of 2008 (7 U.S.C. 2011 et seq.) during the COVID-19 public health emergency, the Secretary shall make available $100,000,000 for fiscal year 2021.
+In general.—For the costs of State administrative expenses associated with carrying out this section and administering the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) during the COVID-19 public health emergency, the Secretary shall make available $100,000,000 for fiscal year 2021.
 
 &emsp;"(2)
 
@@ -118,7 +122,7 @@ Allocation of funds.—Funds described in paragraph (1) shall be made available 
 
 "(d)
 
-Certain Exclusions From Snap Income.—A Federal pandemic unemployment compensation payment made to an individual under section 2104 of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136) \[15 U.S.C. 9023\] shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for the purpose of determining eligibility of such individual or any other individual for benefits or assistance, or the amount of benefits or assistance, under any programs authorized under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
+Certain Exclusions From Snap Income.—A Federal pandemic unemployment compensation payment made to an individual under section 2104 of the Coronavirus Aid, Relief, and Economic Security Act\(Public Law 116–136) \[15 U.S.C. 9023\] shall not be regarded as income and shall not be regarded as a resource for the month of receipt and the following 9 months, for the purpose of determining eligibility of such individual or any other individual for benefits or assistance, or the amount of benefits or assistance, under any programs authorized under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 
 "(e)
 
@@ -168,11 +172,11 @@ Report.—Not later than July 31, 2021, the Secretary shall submit to the Commit
 
 #### Assistance for Households During School Closures
 
-Pub. L. 116–127, div. A, title I, §1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, §4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, §721, Dec. 27, 2020, 134 Stat. 2096, provided that:
+Pub. L. 116–127, div. A, title I, §1101, Mar. 18, 2020, 134 Stat. 179, as amended by Pub. L. 116–159, div. D, title VI, §4601, Oct. 1, 2020, 134 Stat. 744; Pub. L. 116–260, div. N, title VII, §721, Dec. 27, 2020, 134 Stat. 2096; Pub. L. 117–2, title I, §1108, Mar. 11, 2021, 135 Stat. 18, provided that:
 
 "(a)
 
-Public Health Emergency.—During fiscal years 2020 and 2021, in any case in which a school is closed or has reduced the number of days or hours that students attend the school for at least 5 consecutive days during a public health emergency designation during which the school would otherwise be in session, each household containing at least 1 member who is an eligible child attending the school shall be eligible to receive assistance pursuant to a state \[sic\] agency plan approved under subsection (b).
+Public Health Emergency.—In any school year in which there is a public health emergency designation, in any case in which a school is closed or has reduced the number of days or hours that students attend the school for at least 5 consecutive days during a public health emergency designation during which the school would otherwise be in session or in a covered summer period following a school session, each household containing at least 1 member who is an eligible child attending the school shall be eligible to receive assistance pursuant to a state \[sic\] agency plan approved under subsection (b).
 
 "(b)
 
@@ -204,7 +208,7 @@ Simplifying assumptions for school year 2020-2021.—For purposes of this sectio
 
 "(g)
 
-Availability of Commodities.—During fiscal year 2020, the Secretary of Agriculture may purchase commodities for emergency distribution in any area of the United States during a public health emergency designation.
+Availability of Commodities.—The Secretary of Agriculture may purchase commodities for emergency distribution in any area of the United States during a public health emergency designation.
 
 "(h)
 
@@ -212,7 +216,7 @@ Assistance for Children in Child Care.—
 
 &emsp;"(1)
 
-In general.—Beginning on October 1, 2020, subject to an approved State agency plan under subsection (b) or an approved amendment to such a plan, in any case in which, during a public health emergency designation, a covered child care facility is closed or has reduced attendance or hours for at least 5 consecutive days, or 1 or more schools in the area of a covered child care facility or the area of a child's residence are closed or have reduced attendance or hours for at least 5 consecutive days, each household containing at least 1 child enrolled in such a covered child care facility and the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) shall be eligible to receive assistance, in accordance with paragraph (2), until covered child care facilities or schools in the area reopen or operate at full attendance and hours, as applicable, as determined by the State agency.
+In general.—Beginning on October 1, 2020, subject to an approved State agency plan under subsection (b) or an approved amendment to such a plan, in any case in which, during a public health emergency designation, a covered child care facility is closed or has reduced attendance or hours for at least 5 consecutive days, or 1 or more schools in the area of a covered child care facility or the area of a child's residence are closed or have reduced attendance or hours for at least 5 consecutive days, each household containing at least 1 child enrolled in such a coveredchild care facility and either the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) or a Department of Agriculture grant-funded nutrition assistance program in the Commonwealth of the Northern Mariana Islands, Puerto Rico, or American Samoa shall be eligible to receive assistance, in accordance with paragraph (2), until covered child care facilities or schools in the area reopen or operate at full attendance and hours, as applicable, as determined by the State agency.
 
 &emsp;"(2)
 
@@ -228,11 +232,15 @@ Deemed population.—For purposes of an approved State agency plan described in 
 
 "(i)
 
+Emergencies During Summer.—The Secretary of Agriculture may permit a State agency to extend a State agency plan approved under subsection (b) for not more than 90 days for the purpose of operating the plan during a covered summer period, during which time schools participating in the school lunch program under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] or the school breakfast program under section 4 of the Child Nutrition Act of 1966 (42 U.S.C. 1773) and covered child care facilities shall be deemed closed for purposes of this section.
+
+"(j)
+
 Definitions.—In this section:
 
 &emsp;"(1)
 
-Covered child care facility.—The term "covered child care facility" means—
+Covered child care facility.—The term 'covered child care facility' means—
 
 &emsp;&emsp;"(A) an organization described in subparagraph (A) or (B) of section 17(a)(2) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1766(a)(2)); and
 
@@ -240,9 +248,13 @@ Covered child care facility.—The term "covered child care facility" means—
 
 &emsp;"(2)
 
-Eligible child.—The term 'eligible child' means a child (as defined in section 12(d) or served under section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d), 1759(a)(1) \[1759a(a)(1)\]) who, if not for the closure or reduced attendance or hours of the school attended by the child during a public health emergency designation and due to concerns about a COVID–19 outbreak, would receive free or reduced price school meals under the Richard B. Russell National School Lunch Act (42 U.S.C. 175l et seq.) at the school.
+Covered summer period.—The term 'covered summer period' means a summer period that follows a school year during which there was a public health emergency designation.
 
 &emsp;"(3)
+
+Eligible child.—The term 'eligible child' means a child (as defined in section 12(d) or served under section 11(a)(1) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d), 1759(a)(1) \[1759a(a)(1)\]) who, if not for the closure or reduced attendance or hours of the school attended by the child during a public health emergency designation and due to concerns about a COVID–19 outbreak, would receive free or reduced price school meals under the Richard B. Russell National School Lunch Act (42 U.S.C. 175l et seq.) at the school.
+
+&emsp;"(4)
 
 Free rate.—The term 'free rate' means—
 
@@ -250,21 +262,21 @@ Free rate.—The term 'free rate' means—
 
 &emsp;&emsp;"(B) with respect to a lunch, the rate of a free lunch under the school lunch program under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).
 
-&emsp;"(4)
-
-Public health emergency designation.—The term 'public health emergency designation' means the declaration of a public health emergency, based on an outbreak of SARS–CoV–2 or another coronavirus with pandemic potential, by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d).
-
 &emsp;"(5)
 
-School.—The term 'school' has the meaning given the term in section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)).
+Public health emergency designation.—The term 'public health emergency designation' means the declaration of a public health emergency, based on an outbreak of SARS–CoV–2, by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d).
 
 &emsp;"(6)
 
+School.—The term 'school' has the meaning given the term in section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)).
+
+&emsp;"(7)
+
 State.—The term 'State' has the meaning given the term in section 12(d) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1760(d)).
 
-"(j)
+"(k)
 
-Funding.—There are hereby appropriated to the Secretary of Agriculture such amounts as are necessary to carry out this section (including all administrative expenses for State agencies, other agencies of the State, local units, and schools): <i>Provided</i>, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
+Funding.—There are hereby appropriated to the Secretary of Agriculture such amounts as are necessary to carry out this section (including all administrative expenses for Federal agencies, State agencies, other agencies of the State, local units, and schools): <i>Provided</i>, That such amount is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(A)(i)\]."
 
 #### SNAP Waivers
 
@@ -360,7 +372,7 @@ Purpose.—It shall be the purpose of the Committee, in consultation, where appr
 
 &emsp;"(2) to examine the major reasons for such different programs and policies;
 
-&emsp;"(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more thanone program and substantially restrict administrators' ability to provide efficient, timely, and appropriate benefits;
+&emsp;"(3) to evaluate how and the extent to which such different programs and policies hinder, to a significant degree, the receipt of benefits from more than one program and substantially restrict administrators' ability to provide efficient, timely, and appropriate benefits;
 
 &emsp;"(4) to recommend common or simplified programs and policies (including recommendations for changes in law, regulations, and administrative practice and for policies that do not currently exist in such programs) that would substantially reduce difficulties in applying for and obtaining benefits from more than one program and significantly increase the ability of administrators of such programs to efficiently provide timely and appropriate assistance to those eligible for more than one type of assistance; and
 

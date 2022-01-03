@@ -16,6 +16,8 @@ Premiums To Be Deposited in Fund.—Premium amounts deducted and withheld from t
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 302; amended Pub. L. 104–201, div. A, title V, §547, Sept. 23, 1996, 110 Stat. 2524; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -23,6 +25,8 @@ Premiums To Be Deposited in Fund.—Premium amounts deducted and withheld from t
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–201, §547(1), inserted "of the Selected Reserve" after "a member".
 
 Subsec. (a)(2). Pub. L. 104–201, §547(2), added par. (2) and struck out former par. (2) which read as follows: "An insured member who does not receive pay on a monthly basis shall pay the Secretary directly the premium amount applicable for the level of benefits for which the member is insured."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

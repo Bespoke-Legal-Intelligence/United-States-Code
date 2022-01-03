@@ -10,6 +10,8 @@ For purposes of subsection (a), control means, with respect to any foreign corpo
 
 (Added Pub. L. 87–834, §16(a), Oct. 16, 1962, 76 Stat. 1045; amended Pub. L. 89–809, title I, §104(m)(3), Nov. 13, 1966, 80 Stat. 1563; Pub. L. 94–455, title XIX, §1901(b)(3)(K), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 113–295, div. A, title II, §221(a)(84), Dec. 19, 2014, 128 Stat. 4049.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–295 struck out "after December 31, 1962," before "of a patent".
@@ -17,6 +19,8 @@ For purposes of subsection (a), control means, with respect to any foreign corpo
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted "Gain" for "Except as provided in subsection (c), gain".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

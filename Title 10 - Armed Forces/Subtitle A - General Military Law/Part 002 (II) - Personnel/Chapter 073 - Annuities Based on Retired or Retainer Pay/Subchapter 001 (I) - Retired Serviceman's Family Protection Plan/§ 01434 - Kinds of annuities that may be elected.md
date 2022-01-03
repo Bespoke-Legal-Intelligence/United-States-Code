@@ -10,9 +10,9 @@
 
 (b) A person may elect to provide both the annuity provided in clause (1) of subsection (a) and that provided in clause (2) of subsection (a), but the combined amount of the annuities may not be more than 50 percent nor less than 12½ percent of his retired or retainer pay but in no case less than $25.
 
-(c) An election of any annuity under clause (1) or (2) of subsection (a), or any combination of annuities under subsection (b), shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no beneficiary who would be eligible for the annuity if the elector died. For the purposes of the preceding sentence, a child (other than a child who is incapable ofsupporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) who is at least eighteen, but under twenty-three years of age, and who is not pursuing a course of study or training defined in section 1435 of this title, shall be considered an eligible beneficiary unless the Secretary concerned approves an application submitted by the member under section 1436(b)(4) of this title. An election of an annuity under clause (3) of subsection (a) shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no eligible spouse because of death or divorce.
+(c) An election of any annuity under clause (1) or (2) of subsection (a), or any combination of annuities under subsection (b), shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no beneficiary who would be eligible for the annuity if the elector died. For the purposes of the preceding sentence, a child (other than a child who is incapable of supporting himself because of a mental defect or physical incapacity existing before his eighteenth birthday) who is at least eighteen, but under twenty-three years of age, and who is not pursuing a course of study or training defined in section 1435 of this title, shall be considered an eligible beneficiary unless the Secretary concerned approves an application submitted by the member under section 1436(b)(4) of this title. An election of an annuity under clause (3) of subsection (a) shall provide that no deduction may be made from the elector's retired or retainer pay after the last day of the month in which there is no eligible spouse because of death or divorce.
 
-(d) Under regulations prescribed under section 1444(a) of this title, a person may, before or after the first day for which retired or retainer pay is granted, provided for allocating, during the period of the surviving spouse's eligibility, a part of the annuity under subsection (a)(3) for payment to those of his surviving children who are not children of that spouse.
+(d) Under regulations prescribed under section 1444(a) of this title, a person may, before or after the first day for which retired or retainer pay is granted, provided for allocating, during the period of the surviving spouse's eligibility, a partof the annuity under subsection (a)(3) for payment to those of his surviving children who are not children of that spouse.
 
 (e) Whenever there is an increase in retired and retainer pay under section 1401a of this title, each annuity that is payable under this subchapter on the day before the effective date of that increase to a spouse or child of a member who died on or before March 20, 1974, shall be increased by the same percentage as the percentage of that increase, effective on the effective date of that increase.
 
@@ -44,6 +44,8 @@ In subsection (a), the first 17 words are substituted for 37:373(a) (1st 26 word
 
 In subsection (c), the first 11 words are substituted for 37:373(a)(4) (1st 24 words). The words "the annuity" are substituted for the words "an annuity payable under the election made by him".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513 substituted "percent" for "per centum" wherever appearing.
@@ -65,6 +67,8 @@ Subsec. (d). Pub. L. 90–485 reenacted subsec. (d) without change.
 <b>1961</b>—Subsec. (b). Pub. L. 87–381, §3(1), substituted permission to elect only 25 or 12½ percent of the member's reduced retired or retainer pay for each annuity for provisions limiting the combined amount of the annuities to not more than 50 percent or the reduced pay, and added that the reduction in pay on account of each annuity, and the amount of each annuity, shall be determined as if the other annuity had not been elected.
 
 Subsec. (d). Pub. L. 87–381, §3(2), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

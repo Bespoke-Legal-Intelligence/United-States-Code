@@ -10,9 +10,13 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 823.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 10902, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1403, related to authorizing action by rail carriers to provide adequate, efficient, and safe facilities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

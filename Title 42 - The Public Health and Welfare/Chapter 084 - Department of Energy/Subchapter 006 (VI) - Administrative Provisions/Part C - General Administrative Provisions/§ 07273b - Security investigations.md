@@ -10,6 +10,8 @@
 
 (Pub. L. 101–510, div. C, title XXXI, §3104(d), Nov. 5, 1990, 104 Stat. 1828.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as part of the Department of Energy Organization Act which comprises this chapter.

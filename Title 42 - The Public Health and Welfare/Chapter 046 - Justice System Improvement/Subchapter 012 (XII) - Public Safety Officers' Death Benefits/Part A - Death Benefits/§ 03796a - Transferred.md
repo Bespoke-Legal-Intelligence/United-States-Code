@@ -1,5 +1,7 @@
 ### §3796a. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3796a was editorially reclassified as section 10282 of Title 34, Crime Control and Law Enforcement.

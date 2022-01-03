@@ -18,7 +18,7 @@ Before the Secretary prescribes any rule or issues any order imposing a prohibit
 
 #### (d) Public comment on prohibitions and exemptions
 
-(1) In the case of any proposed rule or order by the Secretary imposing a prohibition or any petition for any order granting an exemption under this chapter, any interested person shallbe afforded an opportunity to present oral data, views, and arguments at a public hearing. At such hearing any interested person shall have an opportunity to question—
+(1) In the case of any proposed rule or order by the Secretary imposing a prohibition or any petition for any order granting an exemption under this chapter, any interested person shall be afforded an opportunity to present oral data, views, and arguments at a public hearing. At such hearing any interested person shall have an opportunity to question—
 
 &emsp;(A) other interested persons who make oral presentations,
 
@@ -53,6 +53,8 @@ A copy of any proposed rule or order to be prescribed or issued by the Secretary
 &emsp;(B) be considered to be superseded by any other provision of law unless such other provision does so in specific terms, referring to this chapter, and declaring that such provision supersedes, in whole or in part, the procedures of this chapter.
 
 (Pub. L. 95–620, title VII, §701, Nov. 9, 1978, 92 Stat. 3329; Pub. L. 100–42, §1(c)(16), May 21, 1987, 101 Stat. 313.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

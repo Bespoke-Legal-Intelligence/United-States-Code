@@ -14,7 +14,7 @@ Term of Office.—The term of office of the judges of the Court of Appeals for V
 
 (d)
 
-Chief Judge.—(1) The chief judge of the Court is the head of the Court. The chief judgeof the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
+Chief Judge.—(1) The chief judge of the Court is the head of the Court. The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
 
 &emsp;(A) have served for one or more years as judges of the Court;
 
@@ -58,7 +58,7 @@ Rules.—(1) The Court shall prescribe rules, consistent with the provisions of 
 
 (3)(A) In conducting hearings pursuant to paragraph (1), the Court may exercise the authority provided under section 1821 of title 28 to pay the fees and allowances described in that section.
 
-(B) The Court shall have the power provided under section 361 of title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
+(B) The Court shall have the power provided under section 361 of title 28 to award reimbursement for the reasonable expenses described inthat section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
 
 (h)
 
@@ -74,7 +74,7 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (3) The term of office and the eligibility for retirement of a judge appointed under this subsection, other than a judge described in paragraph (4), are governed by the provisions of section 1012 of the Court of Appeals for Veterans Claims Amendments of 1999 (title X of Public Law 106–117; 113 Stat. 1590; 38 U.S.C. 7296 note) if the judge is one of the first two judges appointed to the Court after November 30, 1999.
 
-(4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term ofthe judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
+(4) A judge of the Court as of December 27, 2001, who was appointed to the Court before January 1, 1991, may accept appointment as a judge of the Court under this subsection notwithstanding that the term of office of the judge on the Court has not yet expired under this section. The term of office of an incumbent judge who receives an appointment as described in the preceding sentence shall be 15 years, which includes any period remaining in the unexpired term of the judge. Any service following an appointment under this subsection shall be treated as though served as part of the original term of office of that judge on the Court.
 
 (5) Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997. For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 
@@ -154,7 +154,7 @@ Pub. L. 114–315, title II, §204(b), Dec. 16, 2016, 130 Stat. 1550, provided t
 
 Amendment by Pub. L. 112–260 effective on the date that is 180 days after Jan. 10, 2013, see section 302(c)(1) of Pub. L. 112–260, set out as a note under section 7255 of this title.
 
-Pub. L. 112–260, title III, §302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply withrespect to judges confirmed on or after January 1, 2012."
+Pub. L. 112–260, title III, §302(c)(2), Jan. 10, 2013, 126 Stat. 2426, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to judges confirmed on or after January 1, 2012."
 
 #### Effective Date of 1999 Amendment
 

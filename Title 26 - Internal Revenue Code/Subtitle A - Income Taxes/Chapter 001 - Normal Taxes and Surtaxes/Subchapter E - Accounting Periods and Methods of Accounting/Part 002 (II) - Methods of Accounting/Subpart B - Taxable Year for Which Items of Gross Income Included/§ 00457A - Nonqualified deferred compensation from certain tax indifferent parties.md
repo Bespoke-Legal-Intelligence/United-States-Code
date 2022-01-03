@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) acquired directly by an investment fund or similar entity,
 
-&emsp;&emsp;&emsp;&emsp;(II) with respect to which such entity does not (nor does any person related to such entity) participate in the active management of such asset (or if such asset is an interest in an entity, in the active management of the activities of such entity), and
+&emsp;&emsp;&emsp;&emsp;(II) with respect to which such entity does not (nor does any person related to such entity) participate in the active management of such asset (or if such asset is an interest in an entity, in theactive management of the activities of such entity), and
 
 &emsp;&emsp;&emsp;&emsp;(III) substantially all of any gain on the disposition of which (other than such deferred compensation) is allocated to investors in such entity.
 
@@ -100,9 +100,13 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 110–343, div. C, title VIII, §801(a), Oct. 3, 2008, 122 Stat. 3929; amended Pub. L. 115–141, div. U, title IV, §401(a)(113), Mar. 23, 2018, 132 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (d)(4). Pub. L. 115–141 substituted "case of a foreign" for "case a foreign" and "been paid" for "had been paid".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

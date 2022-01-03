@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(iii) such new vehicles will meet the applicable non-Federal and non-State fleet performance requirements of such fleets (including range, passenger or cargo-carrying capacity, reliability, refueling capability, vehicle mix, and economical operation and maintenance); and
 
-&emsp;&emsp;(iv) establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantagesor disadvantages, or result in undue economic hardship, to the affected fleets.
+&emsp;&emsp;(iv) establishment of a fleet requirement program by rule under this subsection will not result in unfair competitive advantages or disadvantages, or result in undue economic hardship, to the affected fleets.
 
 &emsp;(2) The Secretary shall not promulgate a rule under this subsection if he is unable to make affirmative findings in the case of each of the subparagraphs under paragraph (1), and each of the clauses under subparagraph (C) of paragraph (1).
 
@@ -80,7 +80,7 @@ Before May 1, 1999, the Secretary shall publish in the Federal Register a propos
 
 &emsp;(B) such goal is practicable and actually achievable within periods specified in section 13252(b)(2) of this title, as modified under section 13254 of this title, through implementation of such a fleet requirement program in combination with voluntary means and the application of other programs relevant to achieving such goals.
 
-(2) The rule under subsection (b) or (g) shall also modify the goal described in section 13252(b)(2)(B) of this title and establish a revised goal pursuant to section 13254 of this title if the Secretary determines, based on the proceeding required under subsection (a) or (c), that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) and the minimum percentage stated in subsection (a)(2) or (g)(2) shall be not less than 10 percent.
+(2) The rule under subsection (b) or (g) shall also modify the goal described in section13252(b)(2)(B) of this title and establish a revised goal pursuant to section 13254 of this title if the Secretary determines, based on the proceeding required under subsection (a) or (c), that the goal in effect at the time of that proceeding is inadequate or impracticable, and not expected to be achievable. Such goal as modified and established shall be applicable in making the findings described in paragraph (1). If the Secretary modifies the goal under this paragraph, he may also modify the percentages stated in subsection (a)(1) or (g)(1) and the minimum percentage stated in subsection (a)(2) or (g)(2) shall be not less than 10 percent.
 
 #### (f) Explanation of determination that fleet requirement program is not necessary
 
@@ -136,7 +136,7 @@ Nothing in this subchapter or the amendments made by this subchapter shall requi
 
 (1) If the Secretary determines, by rule, that the inclusion of fleets of law enforcement motor vehicles in the fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, and the Secretary finds that such inclusion would not hinder the use of the motor vehicles for law enforcement purposes, the Secretary may include such fleets in such program. The Secretary may only initiate one rulemaking under this paragraph.
 
-(2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and the needs and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
+(2) If the Secretary determines, by rule, that the inclusion of new urban buses, as defined by the Administrator under title II of the Clean Air Act \[42 U.S.C. 7521 et seq.\], in a fleet requirement program established under subsection (g) would contribute to achieving the goal described in section 13252(b)(2)(B) of this title, as modified under section 13254 of this title, the Secretary may include such urban buses in such program, if the Secretary finds that such application will be consistent with energy security goals and theneeds and objectives of encouraging and facilitating the greater use of such urban buses by the public, taking into consideration the impact of such application on public transit entities. The Secretary may only initiate one rulemaking under this paragraph.
 
 (3) Rulemakings under paragraph (1) or (2) shall be separate from a rulemaking under subsection (g), but may not occur unless a rulemaking is carried out under subsection (g).
 
@@ -171,6 +171,8 @@ As part of the rule promulgated either pursuant to subsection (b) or (g) of this
 (B) The plan, if approved by the Secretary, would be in lieu of the State meeting such annual percentages solely through purchases of new State-owned vehicles. All conversions or acquisitions or combinations thereof of any alternative fueled vehicles under the plan must be voluntary and must conform with the requirements of section 247 of the Clean Air Act \[42 U.S.C. 7587\] and must comply with applicable safety requirements. The Secretary of Transportation shall within 3 years after enactment promulgate rules setting forth safety standards in accordance with chapter 301 of title 49 applicable to all conversions.
 
 (Pub. L. 102–486, title V, §507, Oct. 24, 1992, 106 Stat. 2891.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

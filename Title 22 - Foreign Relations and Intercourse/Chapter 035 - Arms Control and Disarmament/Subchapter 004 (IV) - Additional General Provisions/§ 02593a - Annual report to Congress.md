@@ -30,7 +30,7 @@ Not later than April 15 of each year, the President shall submit to the appropri
 
 #### (b) Classification of report
 
-The report required by this section shall be submitted in unclassified form, with classified annexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
+The report required by this section shall be submitted in unclassified form, with classifiedannexes, as appropriate. The portions of this report described in paragraphs (4) and (5) of subsection (a) shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.
 
 #### (c) Reporting consecutive noncompliance
 
@@ -140,7 +140,7 @@ Notification Required.—Not later than 120 days before the provision of notice 
 
 "(d)
 
-Definition of Open Skies Treaty; Treaty.—In this section \[enacting this note\], the term 'Open SkiesTreaty' or 'Treaty' means the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002."
+Definition of Open Skies Treaty; Treaty.—In this section \[enacting this note\], the term 'Open Skies Treaty' or 'Treaty' means the Treaty on Open Skies, done at Helsinki March 24, 1992, and entered into force January 1, 2002."
 
 #### Notification of Breach of INF Treaty by the Russian Federation
 
@@ -308,7 +308,7 @@ Definition.—In this section, the term 'appropriate congressional committees' m
 
 #### Requirement for Transmittal of Summaries
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, providedthat: "Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly."
 
 #### Transmission of Executive Branch Reports Providing Congress With Classified Summaries of Arms Control Developments
 

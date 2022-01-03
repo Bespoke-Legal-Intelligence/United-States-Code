@@ -30,7 +30,7 @@
 
 #### (i) Maximum fair and equitable price
 
-&emsp;&emsp;&emsp;The rates and charges of any intrastate pipeline with respect to any transportation authorized under subparagraph (A), including any amount computed in accordance with the rule prescribed under clause\(ii), shall be fair and equitable and may not exceed an amount which is reasonably comparable to the rates and charges which interstate pipelines would be permitted to charge for providing similar transportation service.
+&emsp;&emsp;&emsp;The rates and charges of any intrastate pipeline with respect to any transportation authorized under subparagraph (A), including any amount computed in accordance with the rule prescribed under clause (ii), shall be fair and equitable and may not exceed an amount which is reasonably comparable to the rates and charges which interstate pipelines would be permitted to charge for providing similar transportation service.
 
 #### (ii) Commission rule
 
@@ -116,7 +116,7 @@
 
 #### (B) Verification of compliance
 
-&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastate pipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable tosuch sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
+&emsp;&emsp;Any application for authorization of any sale under paragraph (1) shall be accompanied by a statement by the intrastate pipeline involved verifying by oath or affirmation that such sale, if authorized, would comply with all requirements applicable to such sale under this subsection and all terms and conditions established, by rule or order, by the Commission and applicable to such sale.
 
 #### (6) Termination of sales
 
@@ -161,6 +161,8 @@
 Any authorization granted under this section shall be under such terms and conditions as the Commission may prescribe.
 
 (Pub. L. 95–621, title III, §311, Nov. 9, 1978, 92 Stat. 3388.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -16,7 +16,7 @@ A distribution of property to a shareholder by a corporation in redemption of pa
 
 &emsp;Subsection (a) shall apply only to amounts distributed after the death of the decedent and—
 
-&emsp;&emsp;(A) within the period of limitations provided in section 6501(a) for the assessment ofthe Federal estate tax (determined without the application of any provision other than section 6501(a)), or within 90 days after the expiration of such period,
+&emsp;&emsp;(A) within the period of limitations provided in section 6501(a) for the assessment of the Federal estate tax (determined without the application of any provision other than section 6501(a)), or within 90 days after the expiration of such period,
 
 &emsp;&emsp;(B) if a petition for redetermination of a deficiency in such estate tax has been filed with the Tax Court within the time prescribed in section 6213, at any time before the expiration of 60 days after the decision of the Tax Court becomes final, or
 
@@ -74,13 +74,15 @@ Where stock in a corporation is the subject of a generation-skipping transfer (w
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 88; Pub. L. 94–455, title XX, §§2004(e), 2006(b)(4), Oct. 4, 1976, 90 Stat. 1871, 1889; Pub. L. 97–34, title IV, §422(b), (e)(1), Aug. 13, 1981, 95 Stat. 314, 316; Pub. L. 99–514, title XIV, §1432(b), Oct. 22, 1986, 100 Stat. 2730.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Under regulations prescribed by the Secretary, where stock in a corporation is subject to tax under section 2601 as a result of a generation-skipping transfer (within the meaning of section 2611(a)), which occurs at or after the death of the deemed transferor (within the meaning of section 2612)—
 
 &emsp;"(1) the stock shall be deemed to be included in the gross estate of the deemed transferor;
 
-&emsp;"(2) taxes of the kind referred to in subsection (a)(1) which are imposed because of the generation-skipping transfer shall be treated as imposed because of the deemed transferor's death (and for this purpose the tax imposed by section 2601 shall be treated as an estate tax);
+&emsp;"(2) taxes of the kind referred to in subsection (a)(1) which are imposed because of the generation-skipping transfer shall be treated as imposed because of thedeemed transferor's death (and for this purpose the tax imposed by section 2601 shall be treated as an estate tax);
 
 &emsp;"(3) the period of distribution shall be measured from the date of the generation-skipping transfer; and
 
@@ -103,6 +105,8 @@ Subsec. (b)(3), (4). Pub. L. 94–455, §2004(e)(3), added pars. (3) and (4).
 Subsec. (c). Pub. L. 94–455, §2004(e)(4), substituted "limitation specified in subsection (b)" for "limitation specified in subsection (b)(1)".
 
 Subsec. (d). Pub. L. 94–455, §2006(b)(4), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

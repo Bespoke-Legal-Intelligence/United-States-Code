@@ -16,13 +16,15 @@ The Secretary may, to the extent that he finds such action to be necessary, pres
 
 #### (c) Detail of Federal and State employees
 
-The Secretary, with the concurrence of the State, may detail Federal employees to Stateunemployment compensation administration and the Secretary may concur in the detailing of State employees to the United States Department of Labor for temporary periods for training or for purposes of unemployment compensation administration, and the provisions of section 869b <sup>1</sup> of title 20 or any more general program of interchange enacted by a law amending, supplementing, or replacing section 869b <sup>1</sup> of title 20 shall apply to any such assignment.
+The Secretary, with the concurrence of the State, may detail Federal employees to State unemployment compensation administration and the Secretary may concur in the detailing of State employees to the United States Department of Labor for temporary periods for training or for purposes of unemployment compensation administration, and the provisions of section 869b <sup>1</sup> of title 20 or any more general program of interchange enacted by a law amending, supplementing, or replacing section 869b <sup>1</sup> of title 20 shall apply to any such assignment.
 
 #### (d) Authorization of appropriations
 
 There are hereby authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter such sums, not to exceed $5,000,000, as may be necessary to carry out the purposes of this section.
 
 (Aug. 14, 1935, ch. 531, title IX, §907, as added Pub. L. 91–373, title I, §141, Aug. 10, 1970, 84 Stat. 705.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

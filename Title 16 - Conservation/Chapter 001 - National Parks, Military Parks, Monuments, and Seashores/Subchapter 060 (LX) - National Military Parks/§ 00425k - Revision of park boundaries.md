@@ -10,11 +10,15 @@ Lands and interests in lands within the boundary depicted on the maps referred t
 
 (Pub. L. 101–214, §2, Dec. 11, 1989, 103 Stat. 1849; Pub. L. 102–541, §2(a), Oct. 27, 1992, 106 Stat. 3565; Pub. L. 106–150, §1(c), Dec. 9, 1999, 113 Stat. 1730.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–150 substituted "Spotsylvania National" for "Spotslyvania National".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–541 struck out "326–40072E/89," after "326–40071C/89." and substituted "1989, and the map entitled 'Fredericksburg and Spotsylvania National Military Park,' numbered 326–40072E/89/A and dated September, 1990." for "1989."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 
@@ -30,5 +34,5 @@ Pub. L. 102–541, §1, Oct. 27, 1992, 106 Stat. 3565, provided that: "Congress 
 
 #### Acquisition of Certain Lands by Donation Only
 
-Pub. L. 102–541, §2(b), Oct. 27, 1992, 106 Stat. 3565, provided that lands included within the boundaries of theFredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by Pub. L. 106–150, §1(b)(2), Dec. 9, 1999, 113 Stat. 1730.
+Pub. L. 102–541, §2(b), Oct. 27, 1992, 106 Stat. 3565, provided that lands included within the boundaries of the Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park pursuant to that section, amending this section and enacting provisions formerly set out as a note above, could be acquired only by donation, prior to repeal by Pub. L. 106–150, §1(b)(2), Dec. 9, 1999, 113 Stat. 1730.
 

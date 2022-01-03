@@ -6,7 +6,7 @@ For a period of 24 months after funds under part A are made available to a juris
 
 #### (b) Recapture and reuse
 
-If any funds reserved under subsection (a) remain uninvested for a period of 24 months, then the Secretary shall deduct such funds from the line of credit in the participating jurisdiction's HOME Investment Trust Fund and make such funds available by direct reallocation (1) to other participating jurisdictions for affordable housing developed, sponsored or owned by community housing development organizations, or (2) to nonprofit intermediary organizations to carry out activities that develop the capacity of community housing development organizations consistent with section 12773 of this title, with preference to community housing developmentorganizations serving the jurisdiction from which the funds were recaptured.
+If any funds reserved under subsection (a) remain uninvested for a period of 24 months, then the Secretary shall deduct such funds from the line of credit in the participating jurisdiction's HOME Investment Trust Fund and make such funds available by direct reallocation (1) to other participating jurisdictions for affordable housing developed, sponsored or owned by community housing development organizations, or (2) to nonprofit intermediary organizations to carry out activities that develop the capacity of community housing development organizationsconsistent with section 12773 of this title, with preference to community housing development organizations serving the jurisdiction from which the funds were recaptured.
 
 #### (c) Direct reallocation criteria
 
@@ -14,11 +14,15 @@ Insofar as practicable, direct reallocations under this section shall be made ac
 
 (Pub. L. 101–625, title II, §231, Nov. 28, 1990, 104 Stat. 4114; Pub. L. 102–550, title II, §212(a), (b), Oct. 28, 1992, 106 Stat. 3757.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550 substituted "24" for "18" in first sentence and inserted after second sentence "If during the first 24 months of its participation under this subchapter, a participating jurisdiction is unable to identify a sufficient number of capable community housing development organizations, then up to 20 percent of the funds allocated to that jurisdiction under this section, but not to exceed $150,000, may be made available to carry out activities that develop the capacity of community housing development organizations in that jurisdiction."
 
 Subsec. (b). Pub. L. 102–550, §212(a), substituted "24" for "18".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

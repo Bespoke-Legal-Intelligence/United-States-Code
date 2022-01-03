@@ -2,7 +2,7 @@
 
 (a)
 
-Designating Material as Hazardous.—The Secretary shall designate material (including an explosive, radioactive material, infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary determines that transporting the material in commerce in a particular amount andform may pose an unreasonable risk to health and safety or property.
+Designating Material as Hazardous.—The Secretary shall designate material (including an explosive, radioactive material, infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material, and compressed gas) or a group or class of material as hazardous when the Secretary determines that transporting the material in commerce in a particular amount and form may pose an unreasonable risk to health and safety or property.
 
 (b)
 
@@ -56,7 +56,7 @@ Consultation.—When prescribing a security regulation or issuing a security ord
 
 (e)
 
-Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safety or property when transported in commerce in a particular amount and form.
+Biennial Report.—The Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Senate Committee on Commerce, Science, and Transportation a biennial report providing information on whether the Secretary has designated as hazardous materials for purposes of chapter 51 of such title all by-products of the methamphetamine-production process that are known by the Secretary to pose an unreasonable risk to health and safetyor property when transported in commerce in a particular amount and form.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 109–59, title VII, §§7103, 7126, Aug. 10, 2005, 119 Stat. 1893, 1909; Pub. L. 109–177, title VII, §741, Mar. 9, 2006, 120 Stat. 272; Pub. L. 114–94, div. A, title VII, §7201, Dec. 4, 2015, 129 Stat. 1589.)
 
@@ -92,6 +92,8 @@ In subsection (b)(1), before clause (A), the words "in accordance with section 5
 
 This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 761).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1)(C), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
@@ -104,7 +106,7 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59, §7126, substituted "Secretary shall designate" for "Secretary of Transportation shall designate".
 
-Pub. L. 109–59, §7103(a), substituted "infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material," for "etiologic agent, flammable or combustible liquid or solid, poison,oxidizing or corrosive material," and "determines" for "decides".
+Pub. L. 109–59, §7103(a), substituted "infectious substance, flammable or combustible liquid, solid, or gas, toxic, oxidizing, or corrosive material," for "etiologic agent, flammable or combustible liquid or solid, poison, oxidizing or corrosive material," and "determines" for "decides".
 
 Subsec. (b)(1)(A). Pub. L. 109–59, §7103(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "apply to a person—
 
@@ -127,6 +129,8 @@ Subsec. (b)(1)(C). Pub. L. 107–296, §1711(a)(3), added subpar. (C).
 <b>1994</b>—Subsec. (b)(1)(A)(iii). Pub. L. 103–311 substituted "a packaging or a" for "a package or".
 
 Subsec. (b)(2). Pub. L. 103–429 substituted "be conducted under section 553 of title 5, including" for "include" and "presentation" for "presentations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -158,7 +162,7 @@ Evaluation.—The evaluation required under subsection (a) shall—
 
 &emsp;"(3) identify what standards and protocols exist to rescind, suspend, or deny approval of persons who perform such classifications, assess the adequacy of such standards and protocols, and make recommendations to enhance such standards and protocols if necessary; and
 
-&emsp;"(4) include annual data for fiscal years 2005 through 2015 on the number of applications received for new classifications pursuant to section 173.56(b) of title 49, Code of Federal Regulations, of those applications how many classifications recommended by persons approved by the Secretary were changed to another classification and the reasons for the change, and how many hazardous materials incidents have been attributed to a classification recommended by such approved persons in the United States.
+&emsp;"(4) include annual data for fiscal years 2005 through 2015 on the number of applications received for new classifications pursuant to section 173.56(b) of title 49, Code of Federal Regulations, of those applications how many classifications recommended bypersons approved by the Secretary were changed to another classification and the reasons for the change, and how many hazardous materials incidents have been attributed to a classification recommended by such approved persons in the United States.
 
 "(c)
 
@@ -186,7 +190,7 @@ Study.—The Secretary of Transportation shall, in consultation with the Secreta
 
 "(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to arailroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary of Transportation shall transmit a report on the results of the study required by subsection (a) and any recommendations to further protect employees of a railroad carrier or of a contractor or subcontractor to a railroad carrier from unsafe exposure to radiation during the transportation of high-level radioactive waste and spent nuclear fuel to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
 "(c)
 
@@ -196,7 +200,7 @@ Regulatory Authority.—The Secretary of Transportation may issue regulations th
 
 #### Safe Placement of Train Cars
 
-Pub. L. 103–311, title I, §111, Aug. 26, 1994, 108 Stat. 1676, provided that: "The Secretary of Transportation shall conduct a study of existing practices regarding the placement of cars on trains, with particular attention to the placement of cars that carry hazardous materials. In conducting the study, the Secretary shall consider whether such placement practices increase the risk of derailment, hazardous materials spills, or tank ruptures or have any other adverse effect on safety. The results of the study shall be submitted to Congress within 1 year after the date of enactment of this Act \[Aug. 26, 1994\]."
+Pub. L. 103–311, title I, §111, Aug. 26, 1994, 108 Stat. 1676, provided that the Secretary of Transportation would conduct a study of existing practices regarding the placement of cars, particularly hazardous-materials cars, on trains, consider whether such placement practices increase the risk of adverse effects on safety, and report the results of the study to Congress within 1 year after Aug. 26, 1994.
 
 #### Fiber Drum Packaging
 

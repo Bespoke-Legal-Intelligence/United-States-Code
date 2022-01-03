@@ -6,7 +6,7 @@ It is unlawful for any person or entity knowingly—
 
 &emsp;(1) to forge, counterfeit, alter, or falsely make any document for the purpose of satisfying a requirement of this chapter or to obtain a benefit under this chapter,
 
-&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of thischapter or to obtain a benefit under this chapter,
+&emsp;(2) to use, attempt to use, possess, obtain, accept, or receive or to provide any forged, counterfeit, altered, or falsely made document in order to satisfy any requirement of this chapter or to obtain a benefit under this chapter,
 
 &emsp;(3) to use or attempt to use or to provide or attempt to provide any document lawfully issued to or with respect to a person other than the possessor (including a deceased individual) for the purpose of satisfying a requirement of this chapter or obtaining a benefit under this chapter,
 
@@ -114,7 +114,7 @@ Subsec. (d)(3)(A), (B). Pub. L. 104–208, §212(c), substituted "each document 
 
 Subsec. (d)(4). Pub. L. 104–208, §379(a)(2), substituted "the final agency decision and order under this subsection" for "a final order under this subsection".
 
-Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B) within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
+Pub. L. 104–208, §379(a)(1), substituted "unless either (A) within 30 days, an official delegated by regulation to exercise review authority over the decision and order modifies or vacates the decision and order, or (B)within 30 days of the date of such a modification or vacation (or within 60 days of the date of decision and order of an administrative law judge if not so modified or vacated) the decision and order is referred to the Attorney General pursuant to regulations" for "unless, within 30 days, the Attorney General modifies or vacates the decision and order".
 
 Subsec. (d)(7). Pub. L. 104–208, §308(g)(10)(D), substituted "withholding of removal under section 1231(b)(3) of this title" for "withholding of deportation under section 1253(h) of this title".
 
@@ -132,7 +132,7 @@ Subsec. (f). Pub. L. 104–208, §212(b), added subsec. (f).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], asadded by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
+Pub. L. 104–208, div. C, title II, §212(e), Sept. 30, 1996, 110 Stat. 3009–571, provided that: "Section 274C(f) of the Immigration and Nationality Act \[8 U.S.C. 1324c(f)\], as added by subsection (b), applies to the preparation of applications before, on, or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 Amendment by section 308(g)(10)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 

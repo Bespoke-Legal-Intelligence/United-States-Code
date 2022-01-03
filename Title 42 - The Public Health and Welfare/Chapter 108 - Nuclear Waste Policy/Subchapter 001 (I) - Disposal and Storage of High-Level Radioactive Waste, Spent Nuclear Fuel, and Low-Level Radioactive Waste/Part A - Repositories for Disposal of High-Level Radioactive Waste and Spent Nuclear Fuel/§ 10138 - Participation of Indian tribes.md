@@ -6,7 +6,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 #### (b) Financial assistance
 
-(1) The Secretary shall make grants to each affected tribe notified under section 10136(a) of this title for the purpose of participating in activities required by section 10137 of this title or authorized by written agreement entered intopursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such tribe, may not be considered eligible for funding under this paragraph.
+(1) The Secretary shall make grants to each affected tribe notified under section 10136(a) of this title for the purpose of participating in activities required by section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such tribe, may not be considered eligible for funding under this paragraph.
 
 (2)(A) The Secretary shall make grants to each affected Indian tribe where a candidate site for a repository is approved under section 10132(c) of this title. Such grants may be made to each such Indian tribe only for purposes of enabling such Indian tribe—
 
@@ -51,6 +51,8 @@ Upon the submission by the President to the Congress of a recommendation of a si
 (6) Financial assistance authorized in this subsection shall be made out of amounts held in the Nuclear Waste Fund established in section 10222 of this title.
 
 (Pub. L. 97–425, title I, §118, Jan. 7, 1983, 96 Stat. 2225; Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5033, Dec. 22, 1987, 101 Stat. 1330–243.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

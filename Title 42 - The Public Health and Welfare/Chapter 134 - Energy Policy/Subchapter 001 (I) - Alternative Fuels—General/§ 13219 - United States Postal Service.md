@@ -24,11 +24,13 @@ The Postmaster General shall consider the following criteria in the procurement 
 
 (Pub. L. 102–486, title III, §311, Oct. 24, 1992, 106 Stat. 2874.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Air Act Amendments of 1990, referred to in subsec. (c)(4), probably means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 7401 of this title and Tables.
 
 #### Codification
 
-Subsec. (a) of this section, which required the Postmaster General to biennially submit to Congress a report on the Postal Service's alternative fueled vehicle program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 15th item on page 194 of House Document No. 103–7.
+Subsec. (a) of this section, which required the Postmaster General to biennially submit to Congress a report on the Postal Service's alternative fueled vehicleprogram, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 15th item on page 194 of House Document No. 103–7.
 

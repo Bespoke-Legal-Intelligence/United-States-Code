@@ -4,6 +4,8 @@ In addition to any other funds otherwise authorized to be appropriated for the p
 
 (Pub. L. 95–367, §9, Sept. 17, 1978, 92 Stat. 605; Pub. L. 96–547, §1, Dec. 18, 1980, 94 Stat. 3217.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–547 revised former subsec. (a) into entire section with additional provisions relating to fiscal year ending Sept. 30, 1981, and struck out subsec. (b) setting forth authorization of appropriations for grants.

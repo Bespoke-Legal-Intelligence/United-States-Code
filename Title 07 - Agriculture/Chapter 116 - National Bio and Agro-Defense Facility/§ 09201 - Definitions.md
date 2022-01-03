@@ -16,6 +16,8 @@ In this chapter:
 
 (Pub. L. 116–260, div. P, §2, Dec. 27, 2020, 134 Stat. 2159.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 116–260, div. P, §1, Dec. 27, 2020, 134 Stat. 2159, provided that: "This division \[enacting this chapter\] may be cited as the 'National Bio and Agro-Defense Facility Act of 2020'."

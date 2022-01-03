@@ -62,7 +62,7 @@ In general.—Except as provided under paragraph (2), a person subject to the ju
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any person who is unable to pay a civil penalty because such person is a debtor in a case under chapter 11 of title 11.
+Exception.—Paragraph (1) shall not apply to any person who is unable to pay acivil penalty because such person is a debtor in a case under chapter 11 of title 11.
 
 &emsp;(3)
 
@@ -134,6 +134,8 @@ In subsection (c)(2), the words "the violator" are substituted for "the person f
 
 In subsection (f), the words "imposed or compromised" are substituted for "of such penalty, when finally determined (or agreed upon in compromise)" to eliminate unnecessary words and for consistency. The words "liable for the penalty" are substituted for "charged" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 112–141, which was approved July 6, 2012.
@@ -157,6 +159,8 @@ Subsec. (b). Pub. L. 109–59, §7126, substituted "Secretary may" for "Secretar
 Pub. L. 109–59, §7120(b), substituted "regulation prescribed or order, special permit, or approval issued" for "regulation prescribed".
 
 Subsec. (d). Pub. L. 109–59, §7120(c), substituted "section and any accrued interest on the civil penalty as calculated in accordance with section 1005 of the Oil Pollution Act of 1990 (33 U.S.C. 2705). In the civil action, the amount and appropriateness of the civil penalty shall not be subject to review." for "section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

@@ -22,7 +22,7 @@
 
 (b)(1) In cooperation with nongovernmental organizations, the Administrator of the Agency for International Development shall seek to identify those areas, which because of an imminent threat, are in particular need of immediate attention to prevent the loss of unique biological life or valuable ecosystem.
 
-(2) The Administrator of the Agency for International Development shall encourage as manyeligible countries as possible to propose such exchanges with the purpose of demonstrating to a large number of governments the feasibility and benefits of sustainable development.
+(2) The Administrator of the Agency for International Development shall encourage as many eligible countries as possible to propose such exchanges with the purpose of demonstrating to a large number of governments the feasibility and benefits of sustainable development.
 
 (Pub. L. 87–195, pt. I, §463 \[473\], as added Pub. L. 101–240, title VII, §711, Dec. 19, 1989, 103 Stat. 2522.)
 

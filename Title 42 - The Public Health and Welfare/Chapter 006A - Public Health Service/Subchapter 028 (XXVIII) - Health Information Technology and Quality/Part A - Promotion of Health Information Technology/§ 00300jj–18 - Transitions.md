@@ -12,7 +12,9 @@ Nothing in sections <sup>1</sup> 300jj–12 of this title or this subsection sh
 
 In carrying out section 300jj–12(b)(2) of this title, until recommendations are made by the HIT Advisory Committee,<sup>4</sup> recommendations of the HIT Advisory Committee <sup>4</sup> shall be consistent with the most recent recommendations made by such AHIC Successor, Inc.
 
-(July 1, 1944, ch. 373, title XXX, §3008, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17,2009, 123 Stat. 241; amended Pub. L. 114–255, div. A, title IV, §4003(e)(2)(A)(i), (iii), (F), Dec. 13, 2016, 130 Stat. 1174, 1175.)
+(July 1, 1944, ch. 373, title XXX, §3008, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 241; amended Pub. L. 114–255, div. A, title IV, §4003(e)(2)(A)(i), (iii), (F), Dec. 13, 2016, 130 Stat. 1174, 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

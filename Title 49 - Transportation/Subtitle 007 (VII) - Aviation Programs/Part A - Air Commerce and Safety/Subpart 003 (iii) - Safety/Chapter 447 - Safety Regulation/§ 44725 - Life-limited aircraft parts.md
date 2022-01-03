@@ -32,9 +32,13 @@ Prior-Removed Life-Limited Parts.—No rule issued under subsection (a) shall re
 
 (Added Pub. L. 106–181, title V, §504(a), Apr. 5, 2000, 114 Stat. 134.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -230,7 +230,7 @@ In this section:
 
 &emsp;&emsp;(B) to the Secretary of the Interior, all right, title, and interest that the Secretary of the Interior determines to be acceptable in and to—
 
-&emsp;&emsp;&emsp;(i) the approximately 3,050 acres of land located in Pinal County, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Actof 2011–Non-Federal Parcel–Lower San Pedro River" and dated July 6, 2011;
+&emsp;&emsp;&emsp;(i) the approximately 3,050 acres of land located in Pinal County, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Lower San Pedro River" and dated July 6, 2011;
 
 &emsp;&emsp;&emsp;(ii) the approximately 160 acres of land located in Gila and Pinal Counties, Arizona, identified as "Lands to DOI" as generally depicted on the map entitled "Southeast Arizona Land Exchange and Conservation Act of 2011–Non-Federal Parcel–Dripping Springs" and dated July 6, 2011; and
 
@@ -437,6 +437,8 @@ Subject to valid existing rights, Apache Leap and any land acquired by the Unite
 &emsp;As a condition of conveyance of the Federal land, Resolution Copper shall agree to provide access to the surface of the Oak Flat Campground to members of the public, including Indian tribes, to the maximum extent practicable, consistent with health and safety requirements, until such time as the operation of the mine precludes continued public access for safety reasons, as determined by Resolution Copper.
 
 (Pub. L. 113–291, div. B, title XXX, §3003, Dec. 19, 2014, 128 Stat. 3732.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

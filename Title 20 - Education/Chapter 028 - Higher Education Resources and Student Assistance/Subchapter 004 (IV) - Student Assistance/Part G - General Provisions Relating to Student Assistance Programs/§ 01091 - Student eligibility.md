@@ -82,7 +82,7 @@ In order to receive any grant, loan, or work assistance under this subchapter, a
 
 &emsp;&emsp;&emsp;(i) The student shall take an independently administered examination and shall achieve a score, specified by the Secretary, demonstrating that such student can benefit from the education or training being offered. Such examination shall be approved by the Secretary on the basis of compliance with such standards for development, administration, and scoring as the Secretary may prescribe in regulations.
 
-&emsp;&emsp;&emsp;(ii) The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take intoaccount the effectiveness of such process in enabling students without secondary school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.
+&emsp;&emsp;&emsp;(ii) The student shall be determined as having the ability to benefit from the education or training in accordance with such process as the State shall prescribe. Any such process described or approved by a State for the purposes of this section shall be effective 6 months after the date of submission to the Secretary unless the Secretary disapproves such process. In determining whether to approve or disapprove such process, the Secretary shall take into account the effectiveness of such process in enabling students without secondary school diplomas or the equivalent thereof to benefit from the instruction offered by institutions utilizing such process, and shall also take into account the cultural diversity, economic circumstances, and educational preparation of the populations served by the institutions.
 
 &emsp;&emsp;&emsp;(iii) The student shall be determined by the institution of higher education as having the ability to benefit from the education or training offered by the institution of higher education upon satisfactory completion of 6 credit hours or the equivalent coursework that are applicable toward a degree or certificate offered by the institution of higher education.
 
@@ -130,7 +130,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 #### (2) Special rule
 
-&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by the student in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 to verify eligibility to participate in work-study programs under part C of this subchapter.
+&emsp;The documents collected and maintained by an eligible institution in the admission of a student to the institution may be used by thestudent in lieu of the documents used to establish both employment authorization and identity under section 1324a(b)(1)(B) of title 8 to verify eligibility to participate in work-study programs under part C of this subchapter.
 
 #### (3) Verification mechanisms
 
@@ -144,7 +144,7 @@ Each eligible institution may certify student eligibility for a loan by an eligi
 
 &emsp;&emsp;&emsp;(i) shall provide a reasonable opportunity to submit to the institution evidence indicating a satisfactory immigration status, and
 
-&emsp;&emsp;&emsp;(ii) may not delay, deny, reduce, or terminate the individual's eligibility for thegrant, loan, or work assistance on the basis of the individual's immigration status until such a reasonable opportunity has been provided; and
+&emsp;&emsp;&emsp;(ii) may not delay, deny, reduce, or terminate the individual's eligibility for the grant, loan, or work assistance on the basis of the individual's immigration status until such a reasonable opportunity has been provided; and
 
 &emsp;&emsp;(B) if there are submitted documents which the institution determines constitute reasonable evidence indicating such status—
 
@@ -202,7 +202,7 @@ A student shall not be eligible to receive grant, loan, or work assistance under
 
 #### (3) Special rule
 
-&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other action based on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
+&emsp;For award years beginning prior to July 1, 2008, the Secretary shall not take any compliance, disallowance, penalty, or other actionbased on a violation of this subsection against a student or an eligible institution when such action arises out of such institution's prior award of student assistance under this subchapter if the institution demonstrates to the satisfaction of the Secretary that its course of instruction would have been in conformance with the requirements of this subsection.
 
 #### (m) Students with a first baccalaureate or professional degree
 
@@ -210,7 +210,7 @@ A student shall not be ineligible for assistance under parts B, C, D, and E of t
 
 #### (n) Data base matching
 
-To enforce the Selective Service registration provisions of section 3811(f) of title 50, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person's registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student's registration, or theabsence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
+To enforce the Selective Service registration provisions of section 3811(f) of title 50, the Secretary shall conduct data base matches with the Selective Service, using common demographic data elements. Appropriate confirmation, through an application output document or through other means, of any person's registration shall fulfill the requirement to file a separate statement of compliance. In the absence of a confirmation from such data matches, an institution may also use data or documents that support either the student's registration, or the absence of a registration requirement for the student, to fulfill the requirement to file a separate statement of compliance. The mechanism for reporting the resolution of nonconfirmed matches shall be prescribed by the Secretary in regulations.
 
 #### (o) Study abroad
 
@@ -263,7 +263,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;&emsp;(ii) includes two unannounced drug tests;
 
-&emsp;&emsp;(B) the student successfully passes two unannounced drug tests conducted by a drug rehabilitation program that complies with such criteria as the Secretary shall prescribe in regulations for purposes of subparagraph (A)(i); or
+&emsp;&emsp;(B) the student successfully passes two unannounced drug tests conducted by a drug rehabilitation program that complies withsuch criteria as the Secretary shall prescribe in regulations for purposes of subparagraph (A)(i); or
 
 &emsp;&emsp;(C) the conviction is reversed, set aside, or otherwise rendered nugatory.
 
@@ -397,7 +397,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 #### <i>"(A) In general</i>
 
-&emsp;&emsp;<i>"Not later than 1 year after December 27, 2020, in order to evaluate and improve the impact of activities supported under this subsection, the Secretary, in partnership with the Director of the Institute of Education Sciences, shall award 1 or more grants or contracts to, or enter into cooperative agreements with, experienced public and private institutions and organizations to enable the institutions and organizations to conduct an external evaluation that shall—</i>
+&emsp;&emsp;<i>"Not later than 1 year after December 27, 2020, in order to evaluate and improve the impact of activities supported under this subsection, the Secretary, in partnership with the Director of the Institute of Education Sciences,</i><i>shall award 1 or more grants or contracts to, or enter into cooperative agreements with, experienced public and private institutions and organizations to enable the institutions and organizations to conduct an external evaluation that shall—</i>
 
 &emsp;&emsp;&emsp;<i>"(i) assess the ability of confined or incarcerated individuals to access and complete the Free Application for Federal Student Aid;</i>
 
@@ -415,7 +415,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;&emsp;&emsp;&emsp;<i>"(VI) rates of recidivism for such individuals;</i>
 
-&emsp;&emsp;&emsp;<i>"(iii) track individuals who received Federal Pell Grants under subpart 1 of part A at</i><i>1, 3, and 5 years after the individuals' release from confinement or incarceration; and</i>
+&emsp;&emsp;&emsp;<i>"(iii) track individuals who received Federal Pell Grants under subpart 1 of part A at 1, 3, and 5 years after the individuals' release from confinement or incarceration; and</i>
 
 &emsp;&emsp;&emsp;<i>"(iv) examine the extent to which institutions provide re-entry or relevant career services to participating confined or incarcerated individuals as part of the prison education program and the efficacy of such services, if offered.</i>
 
@@ -461,6 +461,8 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1078–1 of this title, referred to in subsec. (b)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
@@ -473,7 +475,7 @@ Subsection (h), referred to in subsec. (i), was redesignated subsec. (g) of this
 
 #### Prior Provisions
 
-A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1091, Pub. L. 89–329, title IV, §484, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94Stat. 1448; Pub. L. 99–272, title XVI, §16032(a), (b), Apr. 7, 1986, 100 Stat. 354, related to student eligibility for assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 Stat. 1254; Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 82; Pub. L. 92–318, title I, §141(b)(1), June 23, 1972, 86 Stat. 285, set forth statement of purpose and authorization of appropriations for education professions development program, prior to repeal effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
@@ -485,7 +487,7 @@ Another prior section 1091, Pub. L. 89–329, title V, §501, Nov. 8, 1965, 79 S
 
 <b>2015</b>—Subsec. (d)(2). Pub. L. 114–113 amended par. (2) generally. Prior to amendment, par. (2) contained a different definition of "eligible career pathway program".
 
-<b>2014</b>—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate,to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law."
+<b>2014</b>—Subsec. (d). Pub. L. 113–235 amended subsec. (d) generally. Prior to amendment, text read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 3, and 4 of part A and parts B, C, D, and E of this subchapter, the student shall have completed a secondary school education in a home school setting that is treated as a home school or private school under State law."
 
 <b>2011</b>—Subsec. (d). Pub. L. 112–74 struck out "meet one of the following standards:" after "the student shall", substituted "have completed" for "(3) The student has completed", and struck out pars. (1), (2) and (4), which required students to take an independently administered examination, required a State process, or required an institution of higher education, respectively, to determine ability of students to benefit from education or training.
 
@@ -539,7 +541,7 @@ Subsec. (q)(1). Pub. L. 109–171, §8021(b), amended heading and text of par. (
 
 Subsec. (r)(1). Pub. L. 109–171, §8021(c), amended heading and text of introductory provisions generally. Prior to amendment, text of introductory provisions read as follows: "A student who has been convicted of any offense under any Federal or State law involving the possession or sale of a controlled substance shall not be eligible to receive any grant, loan, or work assistance under this subchapter during the period beginning on the date of such conviction and ending after the interval specified in the following table:".
 
-<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted "the Secretary, as part of the original financial aid application process, a certification," for "the institution of higher education which the student intends to attend, or is attending (or in the case of a loan or loan guarantee with the lender), a document" in introductory provisions.
+<b>1998</b>—Subsec. (a)(4). Pub. L. 105–244, §483(a)(1), substituted "the Secretary, as part of the original financial aid application process, a certification," for "the institution of higher education which the student intends to attend, or is attending (or in the case of a loanor loan guarantee with the lender), a document" in introductory provisions.
 
 Subsec. (a)(5). Pub. L. 105–244, §483(a)(2), substituted "a citizen of any one of the Freely Associated States" for "or a permanent resident of the Trust Territory of the Pacific Islands, Guam, or the Northern Mariana Islands".
 
@@ -607,7 +609,7 @@ Subsec. (b)(4). Pub. L. 102–325, §484(b)(1)(A), substituted "part B, D, or E 
 
 Subsec. (b)(5). Pub. L. 102–325, §484(b)(1)(B), added par. (5).
 
-Subsec. (d). Pub. L. 102–325, §484(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of such certificate, to be eligible for any assistance under subparts 1, 2, and 3 of part A and parts B, C, D, and E of this subchapter, the student shall pass an independently administered examination approved by the Secretary."
+Subsec. (d). Pub. L. 102–325, §484(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In order for a student who does not have a certificate of graduation from a school providing secondary education, or the recognized equivalent of suchcertificate, to be eligible for any assistance under subparts 1, 2, and 3 of part A and parts B, C, D, and E of this subchapter, the student shall pass an independently administered examination approved by the Secretary."
 
 Subsec. (f). Pub. L. 102–325, §484(d), inserted at end "Nothing in this subsection shall preclude the Secretary from verifying all applications for aid through the use of any means available, including through the exchange of information with any other Federal agency."
 
@@ -669,6 +671,8 @@ Subsec. (d). Pub. L. 99–603 added subsec. (d) limiting enforcement actions aga
 
 Subsec. (e). Pub. L. 99–603 added subsec. (e) relating to validity of loan guarantees for loan payments made before completion of immigration status verification.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
@@ -705,7 +709,7 @@ Pub. L. 105–244, title IV, §483(f)(2), Oct. 7, 1998, 112 Stat. 1737, provided
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -767,7 +771,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Satisfactory Progress
 
-Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office of Educational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1301, Oct. 17, 1986, 100 Stat. 1579, as amended by Pub. L. 100–50, §23(1), June 3, 1987, 101 Stat. 362, directed Secretary, through the Office ofEducational Research and Improvement, to conduct survey over 5-year period ending Sept. 30, 1991, on impact on grades of students of amendments made by Pub. L. 99–498 to subsec. (c) of this section and to submit annual reports to Congress of survey, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Denial of Student Assistance to Certain Noncitizens
 

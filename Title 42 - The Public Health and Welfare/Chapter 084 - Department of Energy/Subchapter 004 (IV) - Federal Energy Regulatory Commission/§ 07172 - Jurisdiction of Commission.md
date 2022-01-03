@@ -42,7 +42,7 @@ The Commission shall have jurisdiction to hear and determine any other matter ar
 
 #### (e) Matters assigned by Secretary after public notice and matters referred under section 7174 of this title
 
-In addition to the other provisions of this section, the Commission shall have jurisdiction over any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to section 7174 of this title.
+In addition to the other provisions of this section, the Commission shall have jurisdictionover any other matter which the Secretary may assign to the Commission after public notice, or which are required to be referred to the Commission pursuant to section 7174 of this title.
 
 #### (f) Limitation
 
@@ -58,6 +58,8 @@ The Commission is authorized to prescribe rules, regulations, and statements of 
 
 (Pub. L. 95–91, title IV, §402, Aug. 4, 1977, 91 Stat. 583; Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§791a et seq.) and II (§824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
@@ -71,6 +73,8 @@ Section 6214 of this title, referred to in subsec. (d), was repealed by Pub. L. 
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–272 struck out subsec. (b) which read as follows: "There are transferred to, and vested in, the Commission all functions and authority of the Interstate Commerce Commission or any officer or component of such Commission where the regulatory function establishes rates or charges for the transportation of oil by pipeline or establishes the valuation of any such pipeline." See section 60502 of Title 49, Transportation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Oil Pipeline Regulatory Reform
 
@@ -156,7 +160,7 @@ Changed Circumstances.—No person may file a complaint under section 13 of the 
 
 &emsp;"(2) the person filing the complaint was under a contractual prohibition against the filing of a complaint which was in effect on the date of enactment of this Act and had been in effect prior to January 1, 1991, provided that a complaint by a party bound by such prohibition is brought within 30 days after the expiration of such prohibition.
 
-> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 ofthe Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
+> If the Commission determines pursuant to a proceeding instituted as a result of a complaint under section 13 of the Interstate Commerce Act that the rate is not just and reasonable, the rate shall not be deemed to be just and reasonable. Any tariff reduction or refunds that may result as an outcome of such a complaint shall be prospective from the date of the filing of the complaint.
 
 "(c)
 

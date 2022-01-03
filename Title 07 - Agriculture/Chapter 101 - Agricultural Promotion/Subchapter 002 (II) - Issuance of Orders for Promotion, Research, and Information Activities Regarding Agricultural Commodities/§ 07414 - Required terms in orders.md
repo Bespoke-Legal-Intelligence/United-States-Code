@@ -72,7 +72,7 @@ Each order shall contain the terms and conditions specified in this section.
 
 #### (B) Travel expenses
 
-&emsp;&emsp;If approved by a board, members or alternates shall be reimbursed for reasonable travel expenses, which may include a per diem allowance or actual subsistence incurred while away from their homes or regular places of business in the performance of services for the board.
+&emsp;&emsp;If approved by a board, members or alternates shall be reimbursed for reasonable travel expenses, which may include a perdiem allowance or actual subsistence incurred while away from their homes or regular places of business in the performance of services for the board.
 
 #### (c) Powers and duties of board
 
@@ -146,7 +146,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 &emsp;Each order shall provide that, with the approval of the Secretary, the board established under the order may—
 
-&emsp;&emsp;(A) enter into contracts and agreements to carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order,including contracts and agreements with producer associations or other entities as considered appropriate by the Secretary; and
+&emsp;&emsp;(A) enter into contracts and agreements to carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order, including contracts and agreements with producer associations or other entities as considered appropriate by the Secretary; and
 
 &emsp;&emsp;(B) pay the cost of approved generic promotion, research, and information activities using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board.
 

@@ -142,6 +142,8 @@ A written report of the findings of the Board for each inspection under this sec
 
 (Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757; Pub. L. 111–203, title IX, §982(e)(1), July 21, 2010, 124 Stat. 1929; Pub. L. 116–222, §2, Dec. 18, 2020, 134 Stat. 1063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
@@ -151,6 +153,8 @@ This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, Ju
 <b>2020</b>—Subsec. (i). Pub. L. 116–222 added subsec. (i).
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

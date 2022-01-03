@@ -46,7 +46,7 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(e), (j); added Feb. 5, 1976, 
 
 In this section, the words "project" and "projects" are substituted for "program" for clarity and consistency in this section.
 
-In subsection (a)(1), before clause (A), the words "financial assistance for a project under this chapter" are substituted for "rail freight assistance project" for clarity and consistency in this chapter. In clause (B), the words "for use in its rail freight assistance program" are omitted as unnecessary because of the restatement. In clause (D), the words "State employees" are substituted for "State public employees" to eliminate an unnecessary word.
+In subsection (a)(1), before clause (A), the words "financial assistance for a project under this chapter" are substituted for "rail freight assistance project" forclarity and consistency in this chapter. In clause (B), the words "for use in its rail freight assistance program" are omitted as unnecessary because of the restatement. In clause (D), the words "State employees" are substituted for "State public employees" to eliminate an unnecessary word.
 
 In subsection (b), before clause (1), the words "States may agree" are substituted for "Two or more States . . . enter into an agreement" to eliminate unnecessary words.
 

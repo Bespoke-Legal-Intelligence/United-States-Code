@@ -12,7 +12,7 @@
 
 &emsp;(i) greater than the sum of—
 
-&emsp;&emsp;(I) an amount that does not exceed one-half of the current average market yield on outstanding marketable obligations of the United States with maturities of 5 years; and
+&emsp;&emsp;(I) an amount that does not exceed one-half of the current average market yield onoutstanding marketable obligations of the United States with maturities of 5 years; and
 
 &emsp;&emsp;(II) an amount not exceeding 1 percent per year, as the Secretary determines is appropriate; or
 
@@ -72,7 +72,7 @@ The borrower shall pay such fees and other charges as the Secretary may require,
 
 #### (c) Mortgages, liens, and other security
 
-The Secretary shall take as security for the obligations entered into in connection with loans, mortgages on farms with respect to which such loans are made or such other security asthe Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
+The Secretary shall take as security for the obligations entered into in connection withloans, mortgages on farms with respect to which such loans are made or such other security as the Secretary may require, and for obligations in connection with loans to associations under section 1926 of this title, shall take liens on the facility or such other security as he may determine to be necessary. Such security instruments may constitute liens running to the United States notwithstanding the fact that the notes may be held by lenders other than the United States. A borrower may use the same collateral to secure two or more loans made, insured, or guaranteed under this subchapter, except that the outstanding amount of such loans may not exceed the total value of the collateral so used.
 
 #### (d) Additional collateral
 
@@ -83,6 +83,8 @@ The Secretary may not—
 &emsp;(2) bring any action to foreclose, or otherwise liquidate, any such loan as a result of the failure of a borrower to provide additional collateral to secure a loan, if the borrower was current in the payment of principal and interest on the loan at the time the additional collateral was requested.
 
 (Pub. L. 87–128, title III, §307, Aug. 8, 1961, 75 Stat. 308; Pub. L. 92–419, title I, §§113, 114, 128(b), Aug. 30, 1972, 86 Stat. 660, 666; Pub. L. 95–334, title I, §108, Aug. 4, 1978, 92 Stat. 422; Pub. L. 97–35, title I, §160(a), Aug. 13, 1981, 95 Stat. 376; Pub. L. 99–198, title XIII, §§1304A, 1305, Dec. 23, 1985, 99 Stat. 1521; Pub. L. 100–233, title VI, §§603, 604, Jan. 6, 1988, 101 Stat. 1665, 1666; Pub. L. 101–624, title XVIII, §1803(a), title XXIII, §2383, Nov. 28, 1990, 104 Stat. 3818, 4050; Pub. L. 102–552, title V, §516(c)(1), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 103–328, title I, §113(a), Sept. 29, 1994, 108 Stat. 2366; Pub. L. 104–127, title VI, §§604, 661(a), title VII, §747(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1128; Pub. L. 110–234, title VI, §§6011, 6012(b)(1), May 22, 2008, 122 Stat. 1163, 1165; Pub. L. 110–246, §4(a), title VI, §§6011, 6012(b)(1), June 18, 2008, 122 Stat. 1664, 1925, 1927; Pub. L. 113–79, title V, §§5003, 5004, Feb. 7, 2014, 128 Stat. 834.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -134,7 +136,7 @@ Subsec. (a)(3)(B). Pub. L. 101–624, §1803(a), amended subpar. (B) generally. 
 
 Subsec. (a)(3)(C). Pub. L. 101–624, §2383(2), added subpar. (C).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to secure two or more loans made, insured, or guaranteed under this subchapter.
+<b>1988</b>—Subsec. (c). Pub. L. 100–233, §603, inserted provisions at end relating to use of same collateral to securetwo or more loans made, insured, or guaranteed under this subchapter.
 
 Subsec. (e). Pub. L. 100–233, §604, added subsec. (e).
 
@@ -151,6 +153,8 @@ Subsecs. (b), (c). Pub. L. 95–334, §108(2), (3), added subsec. (b) and redesi
 <b>1972</b>—Subsec. (a). Pub. L. 92–419, §§113, 114, prescribed interest rates on rural development other than guaranteed and guaranteed loans and escrow payment of taxes and insurance, respectively.
 
 Subsec. (b). Pub. L. 92–419, §128(b), substituted "may" for "shall" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

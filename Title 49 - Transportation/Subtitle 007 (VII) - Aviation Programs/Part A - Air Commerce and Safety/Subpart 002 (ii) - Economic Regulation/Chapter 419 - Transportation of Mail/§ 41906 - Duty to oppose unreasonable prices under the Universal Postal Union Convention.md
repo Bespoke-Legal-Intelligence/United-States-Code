@@ -26,9 +26,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §406(h)(2); added Jan. 3, 1975, 
 
 The words "necessary and" are omitted as being included in the word "appropriate". The words "each" and "all" are omitted as surplus. The words "transporting mail" are substituted for "such services" for consistency in this section. The word "reasonable" is substituted for "fair and reasonable" for consistency in the revised title and to eliminate an unnecessary word. See revision notes following 49:10101.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 41906 was renumbered section 41905 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Amendments
 

@@ -22,7 +22,7 @@ Pub. L. 101–650, title I, §102, Dec. 1, 1990, 104 Stat. 5089, provided that: 
 
 &emsp;"(4) In identifying, developing, and implementing solutions to problems of cost and delay in civil litigation, it is necessary to achieve a method of consultation so that individual judicial officers, litigants, and litigants' attorneys who have developed techniques for litigation management and cost and delay reduction can effectively and promptly communicate those techniques to all participants in the civil justice system.
 
-&emsp;"(5) Evidence suggests that an effective litigation management and cost and delay reduction program should incorporate several interrelated principles, including—
+&emsp;"(5) Evidence suggests that an effective litigation management and cost and delay reduction programshould incorporate several interrelated principles, including—
 
 &emsp;&emsp;"(A) the differential treatment of cases that provides for individualized and specific management according to their needs, complexity, duration, and probable litigation careers;
 
@@ -44,7 +44,7 @@ Pub. L. 101–650, title I, §103(b), (c), Dec. 1, 1990, 104 Stat. 5096, as amen
 
 Implementation.—(1) Except as provided in section 105 of this Act \[set out below\], each United States district court shall, within three years after the date of the enactment of this title \[Dec. 1, 1990\], implement a civil justice expense and delay reduction plan under section 471 of title 28, United States Code, as added by subsection (a).
 
-"(2)(A) The requirements set forth in sections 471, 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect forseven years after the date of the enactment of this title.
+"(2)(A) The requirements set forth in sections 471, 472, 473, 474, 475, 477, and 478 of title 28, United States Code, as added by subsection (a), shall remain in effect for seven years after the date of the enactment of this title.
 
 "(B) The requirements set forth in section 476 of title 28, United States Code, as added by subsection (a), shall remain in effect permanently.
 

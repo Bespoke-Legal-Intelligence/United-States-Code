@@ -16,7 +16,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 > &emsp;and no deduction shall be allowed with respect to such interest (even if such deduction is not disallowed under subparagraphs (A) and (B))—
 
-&emsp;&emsp;(C) if such interest is to be acquired for the surviving spouse, pursuant to directions ofthe decedent, by his executor or by the trustee of a trust.
+&emsp;&emsp;(C) if such interest is to be acquired for the surviving spouse, pursuant to directions of the decedent, by his executor or by the trustee of a trust.
 
 > &emsp;For purposes of this paragraph, an interest shall not be considered as an interest which will terminate or fail merely because it is the ownership of a bond, note, or similar contractual obligation, the discharge of which would not have the effect of an annuity for life or for a term.
 
@@ -38,7 +38,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;&emsp;(A) there shall be taken into account the effect which the tax imposed by section 2001, or any estate, succession, legacy, or inheritance tax, has on the net value to the surviving spouse of such interest; and
 
-&emsp;&emsp;(B) where such interest or property is encumbered in any manner, or where the surviving spouse incurs any obligation imposed by the decedent with respect to the passing of such interest, such encumbrance or obligation shall be taken into account in the same manner as if the amount of a gift to such spouse of such interest were being determined.
+&emsp;&emsp;(B) where such interest or property is encumbered in any manner, or where the surviving spouse incurs any obligation imposed by the decedent with respect to the passing of such interest, such encumbrance or obligation shall be taken into account in the same manner as if the amount of a gift tosuch spouse of such interest were being determined.
 
 #### (5) Life estate with power of appointment in surviving spouse
 
@@ -68,7 +68,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 &emsp;&emsp;&emsp;(i) for purposes of subsection (a), such property shall be treated as passing to the surviving spouse, and
 
-&emsp;&emsp;&emsp;(ii) for purposes of paragraph (1)(A), no part of such property shall be treated aspassing to any person other than the surviving spouse.
+&emsp;&emsp;&emsp;(ii) for purposes of paragraph (1)(A), no part of such property shall be treated as passing to any person other than the surviving spouse.
 
 #### (B) Qualified terminable interest property defined
 
@@ -108,7 +108,7 @@ For purposes of the tax imposed by section 2001, the value of the taxable estate
 
 #### (C) Treatment of survivor annuities
 
-&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) where only the surviving spouse has the right to receive payments before the death of such surviving spouse—
+&emsp;&emsp;In the case of an annuity included in the gross estate of the decedent under section 2039 (or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033) whereonly the surviving spouse has the right to receive payments before the death of such surviving spouse—
 
 &emsp;&emsp;&emsp;(i) the interest of such surviving spouse shall be treated as a qualifying income interest for life, and
 
@@ -200,7 +200,7 @@ For purposes of this section, an interest in property shall be considered as pas
 
 &emsp;&emsp;(C) such surviving spouse dies and the estate of such surviving spouse is subject to the tax imposed by this chapter,
 
-> &emsp;the Federal estate tax paid (or treated as paid under section 2056A(b)(7)) by the first decedent with respect to such property shall be allowed as a credit under section 2013 to the estate of such surviving spouse and the amount of such credit shall be determined under such section without regard to when the first decedent died and without regard to subsection (d)(3) of such section.
+> &emsp;the Federal estate tax paid (or treated as paid under section 2056A(b)(7)) by the first decedent with respect to such property shall be allowedas a credit under section 2013 to the estate of such surviving spouse and the amount of such credit shall be determined under such section without regard to when the first decedent died and without regard to subsection (d)(3) of such section.
 
 #### (4) Special rule where resident spouse becomes citizen
 
@@ -226,6 +226,8 @@ For purposes of this section, an interest in property shall be considered as pas
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 392; Pub. L. 89–621, §1(a), Oct. 4, 1966, 80 Stat. 872; Pub. L. 94–455, title XIX, §1902(a)(12)(A), title XX, §§2002(a), 2009(b)(4)(D), (E), Oct. 4, 1976, 90 Stat. 1805, 1854, 1894; Pub. L. 95–600, title VII, §702(g)(1), (2), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §403(a)(1), (d)(1), Aug. 13, 1981, 95 Stat. 301, 302; Pub. L. 97–448, title I, §104(a)(2)(A), (8), Jan. 12, 1983, 96 Stat. 2380, 2381; Pub. L. 98–369, div. A, title X, §1027(a), July 18, 1984, 98 Stat. 1031; Pub. L. 100–647, title V, §5033(a)(1), title VI, §6152(a), Nov. 10, 1988, 102 Stat. 3670, 3725; Pub. L. 101–239, title VII, §7815(d)(4)(A), (5), (6), (8), 7816(q), Dec. 19, 1989, 103 Stat. 2415, 2416, 2423; Pub. L. 101–508, title XI, §§11701(l)(1), 11702(g)(5), Nov. 5, 1990, 104 Stat. 1388–513, 1388–516; Pub. L. 102–486, title XIX, §1941(a), Oct. 24, 1992, 106 Stat. 3036; Pub. L. 105–34, title XIII, §1311(a), title XV, §1530(c)(8), Aug. 5, 1997, 111 Stat. 1044, 1078.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (b)(7)(C). Pub. L. 105–34, §1311(a), inserted "(or, in the case of an interest in an annuity arising under the community property laws of a State, included in the gross estate of the decedent under section 2033)" after "section 2039".
@@ -246,7 +248,7 @@ Definitions.—For purposes of subparagraph (A)—
 
 &emsp;&emsp;"(i)
 
-Noncharitable beneficiary.—The term 'noncharitable beneficiary' means any beneficiary ofthe qualified charitable remainder trust other than an organization described in section 170(c).
+Noncharitable beneficiary.—The term 'noncharitable beneficiary' means any beneficiary of the qualified charitable remainder trust other than an organization described in section 170(c).
 
 &emsp;&emsp;"(ii)
 
@@ -296,6 +298,8 @@ Subsecs. (d), (e). Pub. L. 94–455, §2009(b)(4)(D), redesignated subsec. (e) a
 
 <b>1966</b>—Subsec. (d)(2). Pub. L. 89–621 provided that if the disclaimer is made by the person before the date prescribed for the filing of the estate tax return and if the person does not accept the interest before making the disclaimer, the interest shall, for purposes of this section, be considered as passing from the decedent to the surviving spouse.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title XIII, §1311(b), Aug. 5, 1997, 111 Stat. 1044, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
@@ -336,7 +340,7 @@ Amendment by section 11702(g)(5) of Pub. L. 101–508 effective as if included i
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7815(d)(4)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shallnot expire before the date 1 year after such date of enactment."
+Pub. L. 101–239, title VII, §7815(d)(4)(B), Dec. 19, 1989, 103 Stat. 2415, provided that: "In the case of the estate of a decedent dying before the date of the enactment of this Act \[Dec. 19, 1989\], the period during which the transfer (or irrevocable assignment) referred to in section 2056(d)(2)(B) of the Internal Revenue Code of 1986 (as amended by subparagraph (A)) may be made shall not expire before the date 1 year after such date of enactment."
 
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -422,7 +426,7 @@ Pub. L. 89–621, §1(b), Oct. 4, 1966, 80 Stat. 872, provided that: "The amendm
 
 #### Commencement of Judicial Proceeding To Reform Trust
 
-Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, provided that: "The period during whicha proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–508, title XI, §11701(l)(2), Nov. 5, 1990, 104 Stat. 1388–513, provided that: "The period during which a proceeding may be commenced under section 2056(d)(5)(A)(ii) of the Internal Revenue Code of 1986 (as redesignated by paragraph (1)) shall not expire before the date 6 months after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Application of Amendments by Section 5033 of Pub. L. 100–647 to Estates of, or Gifts by, Noncitizen and Nonresident Individuals
 

@@ -10,7 +10,7 @@ General rule.—
 
 &emsp;&emsp;(A) In this chapter, the term "long-term lease or charter" (except as provided in paragraph (2)) means a lease, charter, service contract, or conditional sale agreement—
 
-&emsp;&emsp;&emsp;(i) the term of which is for a period of five years or longer or more than one-half the useful life of the vessel, aircraft, or combat vehicle; or
+&emsp;&emsp;&emsp;(i) the term of which is for a period of five years or longer or more than one-halfthe useful life of the vessel, aircraft, or combat vehicle; or
 
 &emsp;&emsp;&emsp;(ii) the initial term of which is for a period of less than five years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is five years or longer.
 
@@ -24,7 +24,7 @@ Special rule.—
 
 &emsp;&emsp;&emsp;(i) the term of which is for a period of three years or longer; or
 
-&emsp;&emsp;&emsp;(ii) the initial term of which is for a period of less than three years but which contains an option to renew or extend the agreement for a period which, when addedto the initial term (or any previous renewal or extension), is three years or longer.
+&emsp;&emsp;&emsp;(ii) the initial term of which is for a period of less than three years but which contains an option to renew or extend the agreement for a period which, when added to the initial term (or any previous renewal or extension), is three years or longer.
 
 &emsp;&emsp;(B) Such term includes the extension or renewal of a lease or charter agreement if the term of the extension or renewal thereof is for a period of three years or longer or if the term of the lease or charter agreement being extended or renewed was for a period of three years or longer.
 
@@ -44,6 +44,8 @@ Substantial Termination Liability.—For the purposes of this chapter, the Unite
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1825(a), (f), Jan. 1, 2021, 134 Stat. 4206, 4207.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 168 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2)(A), is classified to section 168 of Title 26, Internal Revenue Code.
@@ -61,6 +63,8 @@ Subsec. (a). Pub. L. 116–283, §1825(f)(2)(A), (C), (D), (E), after redesignat
 Subsec. (a)(1)(A). Pub. L. 116–283, §1825(f)(2)(A), (B), substituted "In this chapter" for "In this section" and "paragraph (2)" for "subparagraph (B)" in introductory provisions.
 
 Subsec. (b). Pub. L. 116–283, §1825(f)(3), after redesignation of section 2401(d)(2) of this title as subsec. (b) of this section, inserted heading, substituted "this chapter" for "this section" in introductory provisions, and redesignated subpar. (A) as par. (1) and subpar. (B) and its cls. (i) and (ii) as par. (2) and subpars. (A) and (B), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

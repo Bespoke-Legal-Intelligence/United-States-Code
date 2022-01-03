@@ -22,7 +22,7 @@ Contents.—The record established under subsection (a) shall include, with resp
 
 &emsp;&emsp;(A) the information described in paragraph (1);
 
-&emsp;&emsp;(B) the reason under section 3304(a) of this title or section 2304(c) of title 10 for using the procedures; and
+&emsp;&emsp;(B) the reason under section 3304(a) of this title or section 3204(a) of title 10 for using the procedures; and
 
 &emsp;&emsp;(C) the identity of the organization or activity that conducted the procurement.
 
@@ -38,7 +38,7 @@ Transmission and Data Entry of Information.—The head of each executive agency 
 
 &emsp;(2) transmit in a timely manner such information to the General Services Administration for entry into the Federal Procurement Data System referred to in section 1122(a)(4) of this title, or any successor system.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3718.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3718; Pub. L. 117–81, div. A, title XVII, §1702(h)(5), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -55,4 +55,10 @@ Historical and Revision Notes
 41:417.
 
 Pub. L. 93–400, §19, as added Pub. L. 98–369, title VII, §2732(a), July 18, 1984, 98 Stat. 1197; Pub. L. 103–355, title IV, §4403, Oct. 13, 1994, 108 Stat. 3349; Pub. L. 110–417, title VIII, §874(b), Oct. 14, 2008, 122 Stat. 4558.
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(B). Pub. L. 117–81 substituted "section 3204(a)" for "section 2304(c)".
 

@@ -8,7 +8,7 @@
 
 #### (2) Board authority
 
-&emsp;The Board may, by rule, determine that a foreign public accounting firm (or a class of such firms) that does not issue audit reports nonetheless plays such a substantial role in the preparation and furnishing of such reports for particular issuers, brokers, or dealers, that it is necessary or appropriate, in light of the purposes of this Act and in the public interestor for the protection of investors, that such firm (or class of firms) should be treated as a public accounting firm (or firms) for purposes of registration under, and oversight by the Board in accordance with, this subchapter.
+&emsp;The Board may, by rule, determine that a foreign public accounting firm (or a class of such firms) that does not issue audit reports nonetheless plays such a substantial role in the preparation and furnishing of such reports for particular issuers, brokers, or dealers, that it is necessary or appropriate, in light of the purposes of this Act and in the public interest or for the protection of investors, that such firm (or class of firms) should be treated as a public accounting firm (or firms) for purposes of registration under, and oversight by the Board in accordance with, this subchapter.
 
 #### (b) Production of documents
 
@@ -16,7 +16,7 @@
 
 &emsp;If a foreign public accounting firm performs material services upon which a registered public accounting firm relies in the conduct of an audit or interim review, issues an audit report, performs audit work, or conducts interim reviews, the foreign public accounting firm shall—
 
-&emsp;&emsp;(A) produce the audit work papers of the foreign public accounting firm and all other documents of the firm related to any such audit work or interim review to the Commission or the Board, upon request of the Commission or the Board; and
+&emsp;&emsp;(A) produce the audit work papers of the foreign public accounting firm and all otherdocuments of the firm related to any such audit work or interim review to the Commission or the Board, upon request of the Commission or the Board; and
 
 &emsp;&emsp;(B) be subject to the jurisdiction of the courts of the United States for purposes of enforcement of any request for such documents.
 
@@ -56,6 +56,8 @@ In this section, the term "foreign public accounting firm" means a public accoun
 
 (Pub. L. 107–204, title I, §106, July 30, 2002, 116 Stat. 764; Pub. L. 111–203, title IX, §§929J, 982(g), July 21, 2010, 124 Stat. 1859, 1930.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a), (c), and (e), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
@@ -69,6 +71,8 @@ Subsec. (a)(2). Pub. L. 111–203, §982(g)(2), substituted "issuers, brokers, o
 Subsec. (b). Pub. L. 111–203, §929J(1), added subsec. (b) and struck out former subsec. (b) which related to deemed consent to production of audit workpapers by foreign and domestic firms.
 
 Subsecs. (d) to (g). Pub. L. 111–203, §929J(2), (3), added subsecs. (d) to (f) and redesignated former subsec. (d) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

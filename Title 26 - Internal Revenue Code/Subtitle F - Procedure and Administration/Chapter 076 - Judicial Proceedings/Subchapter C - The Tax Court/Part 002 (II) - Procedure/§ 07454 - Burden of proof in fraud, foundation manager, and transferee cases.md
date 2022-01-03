@@ -6,13 +6,15 @@ In any proceeding involving the issue whether the petitioner has been guilty of 
 
 #### (b) Foundation managers
 
-In any proceeding involving the issue whether a foundation manager (as defined in section 4946(b)) has "knowingly" participated in an act of self-dealing (within the meaning of section 4941), participated in an investment which jeopardizes the carrying out of exempt purposes (within the meaning of section 4944), or agreed to the making of a taxable expenditure (within the meaning of section 4945), or whether the trustee of a trust described in section 501(c)(21) has "knowingly" participated in an act of self-dealing (within the meaning of section 4951) or agreed to the making of a taxable expenditure (within the meaning of section 4952), or whether an organization manager (as defined in section4955(f)(2)) has "knowingly" agreed to the making of a political expenditure (within the meaning of section 4955), or whether an organization manager (as defined in section 4912(d)(2)) has "knowingly" agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), or whether an organization manager (as defined in section 4958(f)(2)) has "knowingly" participated in an excess benefit transaction (as defined in section 4958(c)), the burden of proof in respect of such issue shall be upon the Secretary.
+In any proceeding involving the issue whether a foundation manager (as defined in section 4946(b)) has "knowingly" participated in an act of self-dealing (within the meaning of section 4941), participated in an investment which jeopardizes the carrying out of exempt purposes (within the meaning of section 4944), or agreed to the making of a taxable expenditure (within the meaning of section 4945), or whether the trustee of a trust described in section 501(c)(21) has "knowingly" participated in an act of self-dealing (within the meaning of section 4951) or agreed to the making of a taxable expenditure (within the meaning of section 4952), or whether an organization manager (as defined in section 4955(f)(2)) has "knowingly" agreed to the making of a political expenditure (within the meaning of section 4955), or whether an organization manager (as defined in section 4912(d)(2)) has "knowingly" agreed to the making of disqualifying lobbying expenditures within the meaning of section 4912(b), or whether an organization manager (as defined in section 4958(f)(2)) has "knowingly" participated in an excess benefit transaction (as defined in section 4958(c)), the burden of proof in respect of such issue shall be upon the Secretary.
 
 #### (c) Cross reference
 
 &emsp;&emsp;<b>For provisions relating to burden of proof as to transferee liability, see section 6902(a).</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 884; Pub. L. 91–172, title I, §101(j)(57), Dec. 30, 1969, 83 Stat. 532; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–227, §4(d)(7), Feb. 10, 1978, 92 Stat. 23; Pub. L. 96–222, title I, §108(b)(3)(B), Apr. 1, 1980, 94 Stat. 226; Pub. L. 100–203, title X, §§10712(c)(6), 10714(b), Dec. 22, 1987, 101 Stat. 1330–467, 1330–471; Pub. L. 104–168, title XIII, §1311(c)(5), July 30, 1996, 110 Stat. 1478; Pub. L. 104–188, title I, §1704(t)(43), Aug. 20, 1996, 110 Stat. 1889; Pub. L. 115–141, div. U, title IV, §401(a)(329), Mar. 23, 2018, 132 Stat. 1200.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Pub. L. 100–203, §10712(c)(6), substituted "or whether an organization manage
 <b>1969</b>—Pub. L. 91–172 inserted ", foundation manager" in section catchline.
 
 Subsecs (b), (c). Pub. L. 91–172 added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

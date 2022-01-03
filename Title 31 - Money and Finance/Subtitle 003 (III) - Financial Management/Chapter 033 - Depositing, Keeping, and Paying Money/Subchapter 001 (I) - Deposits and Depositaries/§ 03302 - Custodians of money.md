@@ -10,7 +10,7 @@
 
 &emsp;(4) exchanging the money for other amounts.
 
-(b) Except as provided in section 3718(b) <sup>1</sup> of this title, an official or agent of the Government receiving money for the Government from anysource shall deposit the money in the Treasury as soon as practicable without deduction for any charge or claim.
+(b) Except as provided in section 3718(b) <sup>1</sup> of this title, an official or agent of the Government receiving money for the Government from any source shall deposit the money in the Treasury as soon as practicable without deduction for any charge or claim.
 
 (c)(1) A person having custody or possession of public money, including a disbursing official having public money not for current expenditure, shall deposit the money without delay in the Treasury or with a depositary designated by the Secretary of the Treasury under law. Except as provided in paragraph (2), money required to be deposited pursuant to this subsection shall be deposited not later than the third day after the custodian receives the money. The Secretary or a depositary receiving a deposit shall issue duplicate receipts for the money deposited. The original receipt is for the Secretary and the duplicate is for the custodian.
 
@@ -108,7 +108,7 @@ The reference to "952(g)(2)" in 31 App.:484 is incorrect and should be "952(f)(2
 
 #### 1984 Act (Pub. L. 98–216)
 
-Section 3618 (1st sentence related to non-military deposits) of the Revised Statutes inadvertently was omitted as a source credit for 31:3302. Table 2A of H. Rep. 97–651 (p. 298) states that the sentence was omitted as superseded by various sections of title 10. Title 10 supersedes the sentence only as it applies to military deposits. However, the language of section 3618 (1st sentence related to non-military deposits) is subsumed in the broader language of section 3617 of the RevisedStatutes, the source credit for 31:3302(b). Therefore, while section 3618 (1st sentence related to non-military deposits) should be a source credit for 31:3302(b), it is not necessary that the language of the sentence be restated.
+Section 3618 (1st sentence related to non-military deposits) of the Revised Statutes inadvertently was omitted as a source credit for 31:3302. Table 2A of H. Rep. 97–651 (p. 298) states that the sentence was omitted as superseded by various sections of title 10. Title 10 supersedes the sentence only as it applies to military deposits. However, the language of section 3618 (1st sentence related to non-military deposits) is subsumed in the broader language of section 3617 of the Revised Statutes, the source credit for 31:3302(b). Therefore, while section 3618 (1st sentence related to non-military deposits) should be a source credit for 31:3302(b), it is not necessary that the language of the sentence be restated.
 
 #### <b>Editorial Notes</b>
 

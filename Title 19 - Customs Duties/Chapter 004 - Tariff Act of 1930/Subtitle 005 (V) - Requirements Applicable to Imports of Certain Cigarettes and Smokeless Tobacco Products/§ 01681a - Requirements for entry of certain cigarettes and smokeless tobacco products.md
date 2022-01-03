@@ -44,7 +44,7 @@ Cigarettes or smokeless tobacco products satisfying the conditions of any of the
 
 The certificates that must be submitted by the importer of cigarettes or smokeless tobacco products at the time of entry in order to comply with subsection (a)(5) are—
 
-&emsp;(1) a certificate signed by the manufacturer of such cigarettes or smokeless tobacco products or an authorized official of such manufacturer stating under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that such manufacturer hastimely submitted, and will continue to submit timely, to the Secretary of Health and Human Services the ingredient reporting information required by section 1335a of title 15 or section 4403 of title 15, as the case may be;
+&emsp;(1) a certificate signed by the manufacturer of such cigarettes or smokeless tobacco products or an authorized official of such manufacturer stating under penalties of perjury, with respect to those cigarettes or smokeless tobacco products, that such manufacturer has timely submitted, and will continue to submit timely, to the Secretary of Health and Human Services the ingredient reporting information required by section 1335a of title 15 or section 4403 of title 15, as the case may be;
 
 &emsp;(2) a certificate signed by such importer or an authorized official of such importer stating under penalties of perjury that—
 
@@ -56,7 +56,7 @@ The certificates that must be submitted by the importer of cigarettes or smokele
 
 &emsp;&emsp;(B) with respect to those cigarettes or smokeless tobacco products being imported into the United States, such importer has complied, and will continue to comply, with a rotation plan approved by the Federal Trade Commission pursuant to section 1333(c) <sup>1</sup> of title 15 or section 4402(d) <sup>1</sup> of title 15, as the case may be; and
 
-&emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettes or smokeless tobacco products into the United States; and
+&emsp;(3)(A) if such cigarettes or smokeless tobacco products bear a United States trademark registered for cigarettes or smokeless tobacco products, a certificate signed by the owner of such United States trademark registration for cigarettes or smokeless tobacco products (or a person authorized to act on behalf of such owner) stating under penalties of perjury that such owner (or authorized person) consents to the importation of such cigarettesor smokeless tobacco products into the United States; and
 
 &emsp;(B) a certificate signed by the importer or an authorized official of such importer stating under penalties of perjury that the consent referred to in subparagraph (A) is accurate, remains in effect, and has not been withdrawn.
 
@@ -71,6 +71,8 @@ A State, through its Attorney General, shall be entitled to obtain copies of any
 &emsp;(2) upon request to the importer, manufacturer, or authorized official of such importer or manufacturer.
 
 (June 17, 1930, ch. 497, title VIII, §802, as added Pub. L. 106–476, title IV, §4004(a), Nov. 9, 2000, 114 Stat. 2178; amended Pub. L. 109–432, div. C, title IV, §401(b), (c), (e)(1), (2), (4)(B), Dec. 20, 2006, 120 Stat. 3048, 3049.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -135,6 +137,8 @@ Pub. L. 109–432, §401(e)(1), inserted "or smokeless tobacco products" after "
 Subsec. (c)(3)(A). Pub. L. 109–432, §401(e)(1), inserted "or smokeless tobacco products" after "cigarettes" wherever appearing.
 
 Subsec. (d). Pub. L. 109–432, §401(c), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

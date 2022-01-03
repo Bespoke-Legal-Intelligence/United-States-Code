@@ -70,7 +70,9 @@ Students participating in research under a project under this section may receiv
 
 From amounts appropriated pursuant to the authority of section 1070a–11(g) of this title, the Secretary shall, to the extent practicable, allocate funds for projects authorized by this section in an amount which is not less than $11,000,000 for each of the fiscal years 2009 through 2014.
 
-(Pub. L. 89–329, title IV, §402E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 489; amended Pub. L. 105–244, title IV, §402(e),Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(e), Aug. 14, 2008, 122 Stat. 3203; Pub. L. 111–39, title IV, §401(a)(5), July 1, 2009, 123 Stat. 1938; Pub. L. 114–95, title IX, §9215(oo)(7), Dec. 10, 2015, 129 Stat. 2179.)
+(Pub. L. 89–329, title IV, §402E, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 489; amended Pub. L. 105–244, title IV, §402(e), Oct. 7, 1998, 112 Stat. 1655; Pub. L. 110–315, title IV, §403(e), Aug. 14, 2008, 122 Stat. 3203; Pub. L. 111–39, title IV, §401(a)(5), July 1, 2009, 123 Stat. 1938; Pub. L. 114–95, title IX, §9215(oo)(7), Dec. 10, 2015, 129 Stat. 2179.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -101,6 +103,8 @@ Subsec. (f). Pub. L. 110–315, §403(e)(2), (5), redesignated subsec. (e) as (f
 Subsec. (g). Pub. L. 110–315, §403(e)(2), (6), redesignated subsec. (f) as (g) and substituted "section 1070a–11(g)" for "section 1070a–11(f)" and "2009 through 2014" for "1993 through 1997".
 
 <b>1998</b>—Subsec. (e)(1). Pub. L. 105–244 substituted "$2,800" for "$2,400".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

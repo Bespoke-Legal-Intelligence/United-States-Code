@@ -6,7 +6,7 @@ This chapter shall not apply to any fabric, related material, or product which i
 
 #### (b) Imports intended for export; risk of injury to residents of United States
 
-This chapter shall not apply to any fabric, related material, or product which is imported into the United States for dyeing, finishing, other processing, or storage in bond, and export from the United States, if such fabric, related material, or product, and any container in which it is enclosed, bears a stamp or label stating that such fabric, related material, or product is intended for export, and such fabric, related material, or product is in fact exported from the United States, unless the Commission determines that exportation of such fabric, related material, or product presents an unreasonable risk of injury to persons residing within the United States; except that this chapter shall apply to any such imported fabric, related material, or product manufactured for sale, offered for sale, or intended for shipment to any installation of the United States located outside of the United States.
+This chapter shall not apply to any fabric, related material, or product which is imported into the United States for dyeing, finishing, other processing, or storage in bond, and export from the United States, if such fabric, related material, or product, and any container in which it is enclosed, bears a stamp or label statingthat such fabric, related material, or product is intended for export, and such fabric, related material, or product is in fact exported from the United States, unless the Commission determines that exportation of such fabric, related material, or product presents an unreasonable risk of injury to persons residing within the United States; except that this chapter shall apply to any such imported fabric, related material, or product manufactured for sale, offered for sale, or intended for shipment to any installation of the United States located outside of the United States.
 
 #### (c) Statement of exportation: filing period, information; notification of foreign country; petition for minimum filing period; good cause
 
@@ -21,6 +21,8 @@ Notwithstanding any other provision of this section, the Consumer Product Safety
 Nothing in this section shall apply to any fabric or related material, the export of which is permitted by the Secretary of the Treasury pursuant to section 2066(e) of this title.
 
 (June 30, 1953, ch. 164, §15, as added Pub. L. 90–189, §10, Dec. 14, 1967, 81 Stat. 574; amended Pub. L. 95–631, §8(a), Nov. 10, 1978, 92 Stat. 3746; Pub. L. 110–314, title II, §§204(c)(2)(F), 221(b), Aug. 14, 2008, 122 Stat. 3042, 3066.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

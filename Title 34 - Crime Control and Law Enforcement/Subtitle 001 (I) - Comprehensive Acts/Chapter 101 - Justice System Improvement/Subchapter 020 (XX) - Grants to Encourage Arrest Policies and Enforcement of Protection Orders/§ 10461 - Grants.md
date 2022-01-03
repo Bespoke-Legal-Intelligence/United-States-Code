@@ -24,7 +24,7 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(8) To develop or strengthen policies and training for police, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence <sup>1</sup> dating violence, sexual assault, and stalking against older individuals (as defined in section 3002 of title 42) and individuals with disabilities (as defined in section 12102(2) of title 42).
 
-&emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions incases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
+&emsp;(9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions in cases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
 
 &emsp;(10) To plan, develop and establish comprehensive victim service and support centers, such as family justice centers, designed to bring together victim advocates from victim service providers, staff from population specific organizations, law enforcement officers, prosecutors, probation officers, governmental victim assistants, forensic medical professionals, civil legal attorneys, chaplains, legal advocates, representatives from community-based organizations and other relevant public or private agencies or organizations into one centralized location, in order to improve safety, access to services, and confidentiality for victims and families. Although funds may be used to support the colocation of project partners under this paragraph, funds may not support construction or major renovation expenses or activities that fall outside of the scope of the other statutory purpose areas.
 
@@ -48,7 +48,7 @@ The Attorney General may make grants to eligible grantees for the following purp
 
 &emsp;(20) To provide human immunodeficiency virus testing programs, counseling, and prophylaxis for victims of sexual assault.
 
-&emsp;(21) To identify and inventory backlogs of sexual assault evidence collection kits and to develop protocols for responding to and addressing such backlogs, including policies and protocols for notifying and involving victims.
+&emsp;(21) To identify and inventory backlogs of sexual assault evidence collection kits and todevelop protocols for responding to and addressing such backlogs, including policies and protocols for notifying and involving victims.
 
 &emsp;(22) To develop multidisciplinary high-risk teams focusing on reducing domestic violence and dating violence homicides by—
 
@@ -78,7 +78,7 @@ Eligible grantees are—
 
 &emsp;&emsp;(C) certify that their laws, policies, or practices prohibit issuance of mutual restraining orders of protection except in cases where both parties file a claim and the court makes detailed findings of fact indicating that both parties acted primarily as aggressors and that neither party acted primarily in self-defense;
 
-&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking,or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
+&emsp;&emsp;(D) certify that their laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence, dating violence, sexual assault, or stalking offense, or in connection with the filing, issuance, registration, modification, enforcement, dismissal, or service of a protection order, or a petition for a protection order, to protect a victim of domestic violence, dating violence, stalking, or sexual assault, that the victim bear the costs associated with the filing of criminal charges against the offender, or the costs associated with the filing, issuance, registration, modification, enforcement, dismissal, or service of a warrant, protection order, petition for a protection order, or witness subpoena, whether issued inside or outside the State, tribal, or local jurisdiction;
 
 &emsp;&emsp;(E) certify that,<sup>2</sup> their laws, policies, or practices will ensure that—
 
@@ -110,7 +110,7 @@ A State or unit of local government shall not be entitled to 5 percent of the fu
 
 #### (1) In general
 
-&emsp;Not less than 10 percent of the total amount available under this section for each fiscal year shall be available for grants under the program authorized by section 10452 of this title.
+&emsp;Not less than 10 percent of the total amount available under this section for each fiscalyear shall be available for grants under the program authorized by section 10452 of this title.
 
 #### (2) Applicability of subchapter
 
@@ -228,7 +228,7 @@ Subsec. (b)(8). Pub. L. 106–386, §1209(b), added par. (8).
 
 Subsec. (c). Pub. L. 106–386, §1102(b)(3), inserted "State and local courts (including juvenile courts)," after "Indian tribal governments" in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: "certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, thatthe abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena."
+Subsec. (c)(4). Pub. L. 106–386, §1101(b)(2)(A), added par. (4) and struck out former par. (4) which read as follows: "certify that their laws, policies, or practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges or the service of such charges on an abuser, or that the abused bear the costs associated with the issuance or service of a warrant, protection order, or witness subpoena."
 
 Subsec. (d). Pub. L. 106–386, §1101(b)(2)(B), added subsec. (d).
 

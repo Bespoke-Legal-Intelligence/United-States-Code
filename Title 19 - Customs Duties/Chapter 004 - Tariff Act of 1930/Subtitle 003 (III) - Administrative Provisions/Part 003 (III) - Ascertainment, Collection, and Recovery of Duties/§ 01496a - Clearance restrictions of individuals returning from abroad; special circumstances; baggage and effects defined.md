@@ -10,9 +10,13 @@ Except as otherwise provided by law, no individual returning to the United State
 
 (Pub. L. 95–410, title II, §215, Oct. 3, 1978, 92 Stat. 904.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of Customs Procedural Reform and Simplification Act of 1978, and not as part of Tariff Act of 1930 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Clearance Procedures Study; Report to Congressional Committees
 

@@ -36,7 +36,7 @@ For purposes of chapter 2 and subtitle C, qualified disaster relief payments and
 
 #### (e) No relief for certain individuals
 
-Subsections (a), (f), and (g) shall not apply with respect to any individual identified by the Attorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
+Subsections (a), (f), and (g) shall not apply with respect to any individual identified by theAttorney General to have been a participant or conspirator in a terroristic action (as so defined), or a representative of such individual.
 
 #### (f) Exclusion of certain additional payments
 
@@ -50,7 +50,7 @@ Gross income shall not include any amount received as payment under section 406 
 
 #### (2) Qualified disaster mitigation payment defined
 
-&emsp;For purposes of this section, the term "qualified disaster mitigation payment" means any amount which is paid pursuant tothe Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
+&emsp;For purposes of this section, the term "qualified disaster mitigation payment" means any amount which is paid pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (as in effect on the date of the enactment of this subsection) or the National Flood Insurance Act (as in effect on such date) to or for the benefit of the owner of any property for hazard mitigation with respect to such property. Such term shall not include any amount received for the sale or disposition of any property.
 
 #### (3) No increase in basis
 
@@ -61,6 +61,8 @@ Gross income shall not include any amount received as payment under section 406 
 Notwithstanding any other provision of this subtitle, no deduction or credit shall be allowed (to the person for whose benefit a qualified disaster relief payment or qualified disaster mitigation payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure.
 
 (Added Pub. L. 107–134, title I, §111(a), Jan. 23, 2002, 115 Stat. 2432; amended Pub. L. 109–7, §1(a), Apr. 15, 2005, 119 Stat. 21; Pub. L. 110–343, div. C, title VII, §706(a)(2)(D)(iv), Oct. 3, 2008, 122 Stat. 3922; Pub. L. 115–141, div. U, title IV, §401(a)(41), (b)(10)(A), Mar. 23, 2018, 132 Stat. 1186, 1202.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Pub. L. 115–141, §401(a)(41), substituted "a federally" for "federally".
 Subsec. (e). Pub. L. 109–7, §1(a)(2)(B), substituted ", (f), and (g)" for "and (f)".
 
 Subsecs. (g), (h). Pub. L. 109–7, §1(a)(1), added subsecs. (g) and (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

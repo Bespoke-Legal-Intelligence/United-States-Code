@@ -18,7 +18,7 @@ In all cases of sale pursuant to section 6335 of property (other than real prope
 
 #### (4) As receipts
 
-&emsp;If the subject of sale is securities or other evidences of debt, shall be a good and valid receipt to the person holding the same, as against any person holding or claiming to hold possession of such securities or other evidences of debt; and
+&emsp;If the subject of sale is securities or other evidences of debt, shall be a good and valid receipt to the person holding the same, as against any person holding or claiming to holdpossession of such securities or other evidences of debt; and
 
 #### (5) As authority for transfer of title to motor vehicle
 
@@ -46,7 +46,9 @@ A certificate of sale of personal property given or a deed to real property exec
 
 &emsp;&emsp;<b>(2) For judicial procedure with respect to surplus proceeds, see section 7426(a)(2).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 788; Pub. L. 85–866, title I, §79, Sept. 2, 1958, 72 Stat. 1662;Pub. L. 89–719, title I, §104(g), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 788; Pub. L. 85–866, title I, §79, Sept. 2, 1958, 72 Stat. 1662; Pub. L. 89–719, title I, §104(g), Nov. 2, 1966, 80 Stat. 1137; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -55,6 +57,8 @@ A certificate of sale of personal property given or a deed to real property exec
 <b>1966</b>—Subsecs. (c), (d). Pub. L. 89–719 added subsecs. (c) and (d).
 
 <b>1958</b>—Subsec. (b)(2). Pub. L. 85–866 substituted "as" for "of" after "Deed" in heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

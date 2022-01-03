@@ -8,7 +8,7 @@ The Executive departments are:
 
 &emsp;&emsp;The Department of Defense.
 
-&emsp;&emsp;The Department of Justice.
+&emsp;&emsp;The Department of Justice.)
 
 &emsp;&emsp;The Department of the Interior.
 
@@ -112,6 +112,10 @@ Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the Presi
 
 #### Short Title of 2021 Amendment
 
+Pub. L. 117–81, div. F, title LXII, §6201, Dec. 27, 2021, 135 Stat. 2389, provided that: "This title \[enacting section 4087 of Title 22, Foreign Relations and Intercourse, amending section 6502 of this title, section 1015d of Title 20, Education, and sections 3951 and 4026 of Title 22, and enacting provisions set out as notes under section 6502 of this title and section 1015d of Title 20\] may be cited as the 'Foreign Service Families Act of 2021'."
+
+Pub. L. 117–17, §1, June 17, 2021, 135 Stat. 287, provided that: "This Act \[amending section 6103 of this title\] may be cited as the 'Juneteenth National Independence Day Act'."
+
 Pub. L. 116–283, div. A, title XI, §1131, Jan. 1, 2021, 134 Stat. 3900, provided that: "This subtitle \[subtitle B (§§1131–1138) of title XI of div. A of Pub. L. 116–283, amending section 2302 of this title and enacting and amending provisions set out as notes under section 2301 of this title\] may be cited as the 'Elijah E. Cummings Federal Employee Antidiscrimination Act of 2020'."
 
 #### Short Title of 2020 Amendment
@@ -122,7 +126,7 @@ Pub. L. 116–126, §1, Mar. 18, 2020, 134 Stat. 174, provided that: "This Act \
 
 #### Short Title of 2019 Amendment
 
-Pub. L. 116–92, div. A, title XI, §1121, Dec. 20, 2019, 133 Stat. 1605, provided that: "This subtitle \[subtitle B\(§§1121–1124) of title XI of Pub. L. 116–92, enacting chapter 92 of this title, section 1316b of Title 2, The Congress, section 2339 of Title 10, Armed Forces, and section 4714 of Title 41, Public Contracts, amending sections 1302 and 1317 of Title 2, section 62 of Title 26, Internal Revenue Code, and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 9201 and 9202 of this title, section 2339 of Title 10, section 10132 of Title 34, Crime Control and Law Enforcement, and section 4714 of Title 41\] may be cited as the 'Fair Chance to Compete for Jobs Act of 2019' or the 'Fair Chance Act'."
+Pub. L. 116–92, div. A, title XI, §1121, Dec. 20, 2019, 133 Stat. 1605, provided that: "This subtitle \[subtitle B (§§1121–1124) of title XI of Pub. L. 116–92, enacting chapter 92 of this title, section 1316b of Title 2, The Congress, section 2339 of Title 10, Armed Forces, and section 4714 of Title 41, Public Contracts, amending sections 1302 and 1317 of Title 2, section 62 of Title 26, Internal Revenue Code, and section 604 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 9201 and 9202 of this title, section 2339 of Title 10, section 10132 of Title 34, Crime Control and Law Enforcement, and section 4714 of Title 41\] may be cited as the 'Fair Chance to Compete for Jobs Act of 2019' or the 'Fair Chance Act'."
 
 Pub. L. 116–92, div. F, title LXXVI, §7601, Dec. 20, 2019, 133 Stat. 2304, provided that: "This subtitle \[subtitle A (§§7601–7606) of title LXXVI of Pub. L. 116–92, amending section 6382 of this title, section 1312 of Title 2, The Congress, and sections 2611 and 2612 of Title 29, Labor, enacting provisions set out as notes under section 6382 of this title, section 1312 of Title 2, and sections 2611 and 2612 of Title 29, and amending provisions set out as a note under section 44935 of Title 49, Transportation\] may be cited as the 'Federal Employee Paid Leave Act'."
 
@@ -176,7 +180,7 @@ Pub. L. 114–47, §1, Aug. 7, 2015, 129 Stat. 485, provided that: "This Act \[e
 
 #### Short Title of 2014 Amendment
 
-Pub. L. 113–277, §1, Dec. 18, 2014, 128 Stat. 2995, provided that: "This Act \[enacting section 5550 of this title and section 147 of Title 6, Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and section 213 of Title 29, Labor, and enacting provisions setout as notes under sections 5542 and 5550 of this title and section 146 of Title 6\] may be cited as the 'Border Patrol Agent Pay Reform Act of 2014'."
+Pub. L. 113–277, §1, Dec. 18, 2014, 128 Stat. 2995, provided that: "This Act \[enacting section 5550 of this title and section 147 of Title 6, Domestic Security, amending sections 3132, 5542, 5547, and 8331 of this title and section 213 of Title 29, Labor, and enacting provisions set out as notes under sections 5542 and 5550 of this title and section 146 of Title 6\] may be cited as the 'Border Patrol Agent Pay Reform Act of 2014'."
 
 Pub. L. 113–255, §1, Dec. 18, 2014, 128 Stat. 2920, provided that: "This Act \[amending sections 8438, 8439, 8472, and 8477 of this title and enacting provisions set out as notes under section 8438 of this title\] may be cited as the 'Smart Savings Act'."
 

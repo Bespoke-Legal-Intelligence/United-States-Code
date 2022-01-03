@@ -20,7 +20,7 @@ Function.—Each Performance Improvement Officer shall report directly to the Ch
 
 &emsp;&emsp;(D) support the head of agency and the Chief Operating Officer in the conduct of regular reviews of agency performance, including at least quarterly reviews of progress achieved toward agency priority goals, if applicable;
 
-&emsp;&emsp;(E) assist the head of the agency and the Chief Operating Officer in the development and use within the agency of performance measures in personnel performance appraisals, and, as appropriate, other agency personnel and planning processes and assessments; and
+&emsp;&emsp;(E) assist the head of the agency and the Chief Operating Officer in the developmentand use within the agency of performance measures in personnel performance appraisals, and, as appropriate, other agency personnel and planning processes and assessments; and
 
 &emsp;&emsp;(F) ensure that agency progress toward the achievement of all goals is communicated to leaders, managers, and employees in the agency and Congress, and made available on a public website of the agency.
 

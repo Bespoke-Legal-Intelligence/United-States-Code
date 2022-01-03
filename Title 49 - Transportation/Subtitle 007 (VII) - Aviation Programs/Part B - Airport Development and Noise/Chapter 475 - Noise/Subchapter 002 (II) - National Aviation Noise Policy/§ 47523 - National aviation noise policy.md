@@ -6,7 +6,7 @@ General Requirements.—Not later than July 1, 1991, the Secretary of Transporta
 
 (b)
 
-Detailed Economic Analysis.—The policy shall be based on a detailed economic analysis ofthe impact of the phaseout date for stage 2 aircraft on competition in the airline industry, including—
+Detailed Economic Analysis.—The policy shall be based on a detailed economic analysis of the impact of the phaseout date for stage 2 aircraft on competition in the airline industry, including—
 
 &emsp;(1) the ability of air carriers to achieve capacity growth consistent with the projected rate of growth for the airline industry;
 

@@ -6,7 +6,7 @@ It is the purpose of this subchapter—
 
 &emsp;(2) to encourage and support museums in carrying out their public service role of connecting the whole of society to the cultural, artistic, historical, natural, and scientific understandings that constitute our diverse heritage;
 
-&emsp;(3) to encourage leadership, innovation, and applications of the most current technologies and practices to enhance museum services through international, national, regional, State, and local networks and partnerships;
+&emsp;(3) to encourage leadership, innovation, and applications of the most current technologiesand practices to enhance museum services through international, national, regional, State, and local networks and partnerships;
 
 &emsp;(4) to assist, encourage, and support museums in carrying out their stewardship responsibilities to achieve the highest standards in conservation and care of the diverse cultural, historic, natural, and scientific heritage of the United States to benefit future generations;
 
@@ -23,6 +23,8 @@ It is the purpose of this subchapter—
 &emsp;(10) to assist museums in their civic engagement efforts to ensure that every person in the United States has access to high-quality museum services.
 
 (Pub. L. 94–462, title II, §272, formerly §271, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–302; renumbered §272 and amended Pub. L. 108–81, title III, §§301, 306(1), Sept. 25, 2003, 117 Stat. 1000, 1002; Pub. L. 111–340, title III, §301, Dec. 22, 2010, 124 Stat. 3603; Pub. L. 115–410, §16, Dec. 31, 2018, 132 Stat. 5419.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

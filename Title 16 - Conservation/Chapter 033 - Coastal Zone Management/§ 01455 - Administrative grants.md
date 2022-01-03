@@ -34,7 +34,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;(E) Broad guidelines on priorities of uses in particular areas, including specifically those uses of lowest priority.
 
-&emsp;&emsp;(F) A description of the organizational structure proposed to implement such management program, including the responsibilities and interrelationships of local,areawide, State, regional, and interstate agencies in the management process.
+&emsp;&emsp;(F) A description of the organizational structure proposed to implement such management program, including the responsibilities and interrelationships of local, areawide, State, regional, and interstate agencies in the management process.
 
 &emsp;&emsp;(G) A definition of the term "beach" and a planning process for the protection of, and access to, public beaches and other public coastal areas of environmental, recreational, historical, esthetic, ecological, or cultural value.
 
@@ -50,7 +50,7 @@ Before approving a management program submitted by a coastal state, the Secretar
 
 &emsp;&emsp;&emsp;(ii) which have been developed by a local government, an areawide agency, a regional agency, or an interstate agency; and
 
-&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within the coastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter; except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
+&emsp;&emsp;(B) established an effective mechanism for continuing consultation and coordination between the management agency designated pursuant to paragraph (6) and with local governments, interstate agencies, regional agencies, and areawide agencies within the coastal zone to assure the full participation of those local governments and agencies in carrying out the purposes of this chapter;except that the Secretary shall not find any mechanism to be effective for purposes of this subparagraph unless it requires that—
 
 &emsp;&emsp;&emsp;(i) the management agency, before implementing any management program decision which would conflict with any local zoning ordinance, decision, or other action, shall send a notice of the management program decision to any local government whose zoning authority is affected;
 
@@ -110,13 +110,15 @@ A coastal state may amend or modify a management program which it has submitted 
 
 &emsp;(1) The State shall promptly notify the Secretary of any proposed amendment, modification, or other program change and submit it for the Secretary's approval. The Secretary may suspend all or part of any grant made under this section pending State submission of the proposed amendments, modification, or other program change.
 
-&emsp;(2) Within 30 days after the date the Secretary receives any proposed amendment, the Secretary shall notify the State whether the Secretary approves or disapproves the amendment, or whether the Secretary finds it is necessary to extend the review of the proposed amendment for a period not to exceed 120 days after the date the Secretary received the proposed amendment. The Secretary may extend this period only as necessary to meet the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). If the Secretary does not notify the coastal state that the Secretary approves or disapproves the amendment within that period, then the amendment shall be conclusively presumed as approved.
+&emsp;(2) Within 30 days after the date the Secretary receives any proposed amendment, the Secretary shall notify the State whether the Secretary approves or disapproves the amendment, or whether the Secretary finds it is necessary to extend the review of the proposed amendment for a period not to exceed 120 days after the date the Secretary received the proposed amendment. The Secretary may extend this period only as necessary to meet the requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.). If the Secretary does not notify the coastal statethat the Secretary approves or disapproves the amendment within that period, then the amendment shall be conclusively presumed as approved.
 
 &emsp;(3)(A) Except as provided in subparagraph (B), a coastal state may not implement any amendment, modification, or other change as part of its approved management program unless the amendment, modification, or other change is approved by the Secretary under this subsection.
 
 &emsp;(B) The Secretary, after determining on a preliminary basis, that an amendment, modification, or other change which has been submitted for approval under this subsection is likely to meet the program approval standards in this section, may permit the State to expend funds awarded under this section to begin implementing the proposed amendment, modification, or change. This preliminary approval shall not extend for more than 6 months and may not be renewed. A proposed amendment, modification, or change which has been given preliminary approval and is not finally approved under this paragraph shall not be considered an enforceable policy for purposes of section 1456 of this title.
 
 (Pub. L. 89–454, title III, §306, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1283; amended Pub. L. 93–612, §1(2), Jan. 2, 1975, 88 Stat. 1974; Pub. L. 94–370, §5, July 26, 1976, 90 Stat. 1017; Pub. L. 96–464, §5(a), Oct. 17, 1980, 94 Stat. 2062; Pub. L. 99–272, title VI, §6043(b)(1), (c), Apr. 7, 1986, 100 Stat. 124, 125; Pub. L. 101–508, title VI, §6206(a), Nov. 5, 1990, 104 Stat. 1388–303; Pub. L. 102–587, title II, §2205(b)(1)(A), (B), (8), Nov. 4, 1992, 106 Stat. 5050, 5051.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -147,6 +149,8 @@ Subsec. (c)(8). Pub. L. 94–370, §5(3), inserted "planning for, and" before "i
 Subsec. (g). Pub. L. 94–370, §5(4), inserted requirement that except for pre-Oct. 1, 1978 amendments of management programs, for purposes of complying with section 1454(b)(7), (8), and (9) of this title, no grant shall be made under this section to any coastal state after the date of an amendment until approved by Secretary.
 
 <b>1975</b>—Subsec. (b). Pub. L. 93–612 substituted provisos establishing maximum amount of annual grant for fiscal years 1975, 1976, and 1977, establishing a minimum of 1 per centum of the total appropriated amount, and providing for waiver of the 1 per centum minimum upon request of the coastal State, for proviso limiting an annual administrative grant to a maximum of 10 per centum and a minimum of 1 per centum of the total appropriated amount.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

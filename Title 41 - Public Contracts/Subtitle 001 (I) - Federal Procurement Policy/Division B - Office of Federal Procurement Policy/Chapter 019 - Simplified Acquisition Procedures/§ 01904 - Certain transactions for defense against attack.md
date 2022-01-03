@@ -6,11 +6,11 @@ Authority.—
 
 &emsp;(1)
 
-In general.—The head of an executive agency that engages in basic research, applied research, advanced research, and development projects that are necessary to the responsibilities of the executive agency in the field of research and development and have the potential to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack may exercise the same authority (subject to the same restrictions and conditions) with respect to the research and projects as the Secretary of Defense may exercise under section 2371 of title 10, except for subsections (b) and (f) of section 2371.
+In general.—The head of an executive agency that engages in basic research, applied research, advanced research, and development projects that are necessary to the responsibilities of the executive agency in the field of research and development and have the potential to facilitate defense against or recovery from terrorism or nuclear, biological, chemical, or radiological attack may exercise the same authority (subject to the same restrictions and conditions) with respect to the research and projects as the Secretary of Defense may exercise under section 2371 <sup>1</sup> of title 10, except for subsections (b) and (f) of section 2371.
 
 &emsp;(2)
 
-Prototype projects.—The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry outprojects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
+Prototype projects.—The head of an executive agency, under the authority of paragraph (1), may carry out prototype projects that meet the requirements of paragraph (1) in accordance with the requirements and conditions provided for carrying out prototype projects under section 845 <sup>1</sup> of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), including that, to the maximum extent practicable, competitive procedures shall be used when entering into agreements to carry out projects under section 845(a) of that Act and that the period of authority to carry out projects under section 845(a) of that Act terminates as provided in section 845(i) of that Act.
 
 &emsp;(3)
 
@@ -38,7 +38,7 @@ Regulations.—The Director of the Office of Management and Budget shall prescri
 
 (c)
 
-Annual Report.—The annual report of the head of an executive agency that is required under section 2371(h) of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+Annual Report.—The annual report of the head of an executive agency that is required under section 2371(h) <sup>1</sup> of title 10, as applied to the head of the executive agency by subsection (a), shall be submitted to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
 
 (d)
 
@@ -74,7 +74,11 @@ In subsection (c), the words "Committee on Homeland Security and Governmental Af
 
 #### References in Text
 
+Section 2371 of title 10, referred to in subsec. (a)(1), was renumbered section 4021 of title 10 by Pub. L. 116–283, §1841(b)(1), as amended by Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
+
 Section 845 of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160, 10 U.S.C. 2371 note), referred to in subsec. (a)(2), was repealed by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896.
+
+Section 2371(h) of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–291, div. A, title X, §1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) no payments of regular compensation can be made under such law because such individual has received all regular compensation available to such individual based on employment or wages during such individual's base period; or
 
-&emsp;&emsp;(B) such individual's rights to such compensation have been terminated by reason ofthe expiration of the benefit year with respect to which such rights existed.
+&emsp;&emsp;(B) such individual's rights to such compensation have been terminated by reason of the expiration of the benefit year with respect to which such rights existed.
 
 #### (4) Weekly benefit amount, etc.
 
@@ -52,7 +52,7 @@
 
 #### (B) Special rule
 
-&emsp;&emsp;In the case of an individual who is receiving extended compensation under the State law for the week that includes December 27, 2020 (without regard to the amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020), such individual shall not be eligible to receive pandemic emergency unemployment compensation by reason of such amendments until such individual has exhausted all rights to such extended benefits.
+&emsp;&emsp;In the case of an individual who is receiving extended compensation under the State law for the week that includes December 27, 2020 (without regard to the amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020) or for the week that includes March 11, 2021 (without regard to the amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021), such individual shall not be eligible to receive pandemic emergency unemployment compensation by reason of such amendments until such individual has exhausted all rights to such extended benefits.
 
 #### (6) Nonreduction rule
 
@@ -84,7 +84,7 @@
 
 #### (8) Special rule for extended compensation
 
-&emsp;At the option of a State, for any weeks of unemployment beginning after December 27, 2020, and before April 12, 2021, an individual's eligibility period (as described in section 203(c)of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note)) shall, for purposes of any determination of eligibility for extended compensation under the State law of such State, be considered to include any week which begins—
+&emsp;At the option of a State, for any weeks of unemployment beginning after December 27, 2020, and before September 6, 2021, an individual's eligibility period (as described in section 203(c) of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note)) shall, for purposes of any determination of eligibility for extended compensation under the State law of such State, be considered to include any week which begins—
 
 &emsp;&emsp;(A) after the date as of which such individual exhausts all rights to pandemic emergency unemployment compensation; and
 
@@ -98,7 +98,7 @@
 
 #### (2) Amount in account
 
-&emsp;The amount established in an account under subsection (a) shall be equal to 24 times the individual's average weekly benefit amount, which includes the amount of Federal Pandemic Unemployment Compensation under section 9023 of this title, for the benefit year.
+&emsp;The amount established in an account under subsection (a) shall be equal to 53 times the individual's average weekly benefit amount, which includes the amount of Federal Pandemic Unemployment Compensation under section 9023 of this title, for the benefit year.
 
 #### (3) Weekly benefit amount
 
@@ -148,7 +148,7 @@
 
 #### (3) Determination of amount
 
-&emsp;Sums payable to any State by reason of such State having an agreement under this section shall be payable, either in advance or by way of reimbursement (as may be determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that the Secretary's estimates for any prior calendar month were greater or less thanthe amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
+&emsp;Sums payable to any State by reason of such State having an agreement under this section shall be payable, either in advance or by way of reimbursement (as may be determined by the Secretary), in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that the Secretary's estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
 
 #### (d) Financing provisions
 
@@ -188,7 +188,7 @@
 
 #### (2) Repayment
 
-&emsp;In the case of individuals who have received amounts of pandemic emergency unemployment compensation under this section to which they were not entitled, the State shall require such individuals to repay the amounts of such pandemic emergency unemployment compensation to the State agency, except that the State agency may waive such repayment if it determines that—
+&emsp;In the case of individuals who have received amounts of pandemic emergency unemployment compensation under this section to which they were not entitled, the State shallrequire such individuals to repay the amounts of such pandemic emergency unemployment compensation to the State agency, except that the State agency may waive such repayment if it determines that—
 
 &emsp;&emsp;(A) the payment of such pandemic emergency unemployment compensation was without fault on the part of any such individual; and
 
@@ -214,33 +214,35 @@ In this section, the terms "compensation", "regular compensation", "extended com
 
 #### (g) Applicability
 
-#### (1) In general
+An agreement entered into under this section shall apply to weeks of unemployment—
 
-&emsp;Except as provided in paragraphs (2) and (3), an agreement entered into under this section shall apply to weeks of unemployment—
+&emsp;(1) beginning after the date on which such agreement is entered into; and
 
-&emsp;&emsp;(A) beginning after the date on which such agreement is entered into; and
+&emsp;(2) ending on or before September 6, 2021.
 
-&emsp;&emsp;(B) ending on or before March 14, 2021.
+(Pub. L. 116–136, div. A, title II, §2107, Mar. 27, 2020, 134 Stat. 323; Pub. L. 116–260, div. N, title II, §§206(a)–(c), 261(b)(2), Dec. 27, 2020, 134 Stat. 1954, 1962; Pub. L. 117–2, title IX, §9016(a)–(d), Mar. 11, 2021, 135 Stat. 119, 120.)
 
-#### (2) Transition rule for individuals remaining entitled to Pandemic Emergency Unemployment Compensation as of March 14, 2021
-
-&emsp;In the case of any individual who, as of the date specified in paragraph (1)(B), is receiving Pandemic Emergency Unemployment Compensation but has not yet exhausted all rights to such assistance under this section, Pandemic Emergency Unemployment Compensation shall continue to be payable to such individual for any week beginning on or after such date for which the individual is otherwise eligible for Pandemic Emergency Unemployment Compensation.
-
-#### (3) Termination
-
-&emsp;Notwithstanding any other provision of this subsection, no Pandemic Emergency Unemployment Compensation shall be payable for any week beginning after April 5, 2021.
-
-(Pub. L. 116–136, div. A, title II, §2107, Mar. 27, 2020, 134 Stat. 323; Pub. L. 116–260, div. N, title II, §§206(a)–(c), 261(b)(2), Dec. 27, 2020, 134 Stat. 1954, 1962.)
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The amendments made by subsections (a) and (b) of section 206 of the Continued Assistance for Unemployed Workers Act of 2020, referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 206 of chapter 1 of subtitle A of title II of div. N of Pub. L. 116–260, which amended this section.
+
+The amendments made by subsections (a) and (b) of section 9016 of the American Rescue Plan Act of 2021, referred to in subsec. (a)(5)(B), are the amendments made by subsecs. (a) and (b) of section 9016 of Pub. L. 117–2, which amended this section.
 
 Sections 203(c) and 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(8) and (f), respectively, are sections 203(c) and 205 of Pub. L. 91–373, which are set out in a note under section 3304 of Title 26, Internal Revenue Code.
 
 The Social Security Act, referred to in subsec. (d)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title III of the Act is classified generally to subchapter III (§501 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(5)(B). Pub. L. 117–2, §9016(c), inserted "or for the week that includes March 11, 2021 (without regard to the amendments made by subsections (a) and (b) of section 9016 of American Rescue Plan Act of 2021)" after "2020)".
+
+Subsec. (a)(8). Pub. L. 117–2, §9016(d), substituted "September 6, 2021" for "April 12, 2021" in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 117–2, §9016(b), substituted "53 times" for "24 times".
+
+Subsec. (g). Pub. L. 117–2, §9016(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to applicability, transition rule, and termination date.
 
 <b>2020</b>—Subsec. (a)(4)(A). Pub. L. 116–260, §261(b)(2), struck out "and" at end of cl. (i), substituted "section 9023(b)(1)(B) of this title; and" for "section 9023 of this title;" in cl. (ii), and added cl. (iii).
 
@@ -258,13 +260,19 @@ Subsec. (g). Pub. L. 116–260, §206(a), amended subsec. (g) generally. Prior t
 
 &emsp;"(2) ending on or before December 31, 2020."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–2, title IX, §9016(e), Mar. 11, 2021, 135 Stat. 120, provided that: "The amendments made by this section \[amending this section\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment ending on or before March 14, 2021."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. N, title II, §206(d), Dec. 27, 2020, 134 Stat. 1956, provided that:
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Dec. 27, 2020\].
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Dec. 27, 2020\].
 
 "(2)
 

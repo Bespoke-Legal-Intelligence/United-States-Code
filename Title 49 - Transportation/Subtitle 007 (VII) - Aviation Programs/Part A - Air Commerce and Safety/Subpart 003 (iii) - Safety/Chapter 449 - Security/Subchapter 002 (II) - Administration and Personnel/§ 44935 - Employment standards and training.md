@@ -114,11 +114,11 @@ Screener requirements.—Notwithstanding any other provision of law, an individu
 
 &emsp;(2)
 
-Veterans preference.—The Administrator shall provide a preference for the hiringof an individual as a security screener if the individual is a member or former member of the armed forces and if the individual is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
+Veterans preference.—The Administrator shall provide a preference for the hiring of an individual as a security screener if the individual is a member or former member of the armed forces and if the individual is entitled, under statute, to retired, retirement, or retainer pay on account of service as a member of the armed forces.
 
 &emsp;(3)
 
-Exceptions.—An individual who has not completed the training required by this section may be deployed during the on-the-job portion of training to perform functions if that individual—
+Exceptions.—An individual who has not completed the training required by this section may be deployed during the on-the-jobportion of training to perform functions if that individual—
 
 &emsp;&emsp;(A) is closely supervised; and
 
@@ -220,13 +220,13 @@ In general.—Not later than 180 days after the date of enactment of the TSA Mod
 
 Contents.—The training under subparagraph (A) shall include—
 
-&emsp;&emsp;&emsp;(i) internal controls for monitoring and documenting compliance of transportationsecurity officers with such training requirements; and
+&emsp;&emsp;&emsp;(i) internal controls for monitoring and documenting compliance of transportation security officers with such training requirements; and
 
 &emsp;&emsp;&emsp;(ii) such other matters as identified by the Administrator with regard to such training.
 
 (l) <sup>1</sup>
 
-Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
+Definition of Administrator.—In this section, the term "Administrator" means theAdministrator of the Transportation Security Administration.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(a), Nov. 19, 2001, 115 Stat. 603, 616; Pub. L. 107–296, title XVI, §1603, Nov. 25, 2002, 116 Stat. 2313; Pub. L. 115–254, div. K, title I, §§1948(a), 1991(d)(26), Oct. 5, 2018, 132 Stat. 3587, 3638.)
 
@@ -269,6 +269,8 @@ In subsection (c)(1)(B), the words "individuals eligible" are substituted for "p
 In subsection (c)(2), the words "under this section" are omitted as unnecessary. The words "United States" before "air carriers" are omitted because of the definition of "air carrier" in section 40102(a) of the revised title.
 
 In subsection (d)(1), before clause (A), the words "Not later than 180 days after November 16, 1990" are omitted as obsolete.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -328,6 +330,8 @@ Subsec. (j). Pub. L. 107–71, §111(a)(2), added subsec. (j).
 
 <b>2000</b>—Subsecs. (e), (f). Pub. L. 106–528 added subsecs. (e) and (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
@@ -338,7 +342,7 @@ Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see sectio
 
 #### Transition
 
-Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall complete the full implementation of section 44935 (e), (f), (g), and (h) of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
+Pub. L. 107–71, title I, §111(c), Nov. 19, 2001, 115 Stat. 620, provided that: "The Under Secretary of Transportation for Security \[now Administrator of the Transportation Security Administration\] shall complete the full implementation of section 44935 (e), (f), (g), and (h)of title 49, United States Code, as amended by subsection (a), as soon as is practicable. The Under Secretary may make or continue such arrangements for the training of security screeners under that section as the Under Secretary determines necessary pending full implementation of that section as so amended."
 
 #### Improvement of Screener Job Performance
 
@@ -382,35 +386,11 @@ Pub. L. 104–264, title III, §302, Oct. 9, 1996, 110 Stat. 3250, provided that
 
 #### Studies of Minimum Standards for Pilot Qualifications and of Pay for Training
 
-Pub. L. 104–264, title V, §503, Oct. 9, 1996, 110 Stat. 3263, provided that:
-
-"(a)
-
-Study.—The Administrator of the Federal Aviation Administration shall appoint a task force consisting of appropriate representatives of the aviation industry to conduct—
-
-&emsp;"(1) a study directed toward the development of—
-
-&emsp;&emsp;"(A) standards and criteria for preemployment screening tests measuring the psychomotor coordination, general intellectual capacity, instrument and mechanical comprehension, and physical and mental fitness of an applicant for employment as a pilot by an air carrier; and
-
-&emsp;&emsp;"(B) standards and criteria for pilot training facilities to be licensed by the Administrator and which will assure that pilots trained at such facilities meet the preemployment screening standards and criteria described in subparagraph (A); and
-
-&emsp;"(2) a study to determine if the practice of some air carriers to require employees or prospective employees to pay for the training or experience that is needed to perform flight check duties for an air carrier is in the public interest.
-
-"(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study conducted under subsection (a)(2)."
+Pub. L. 104–264, title V, §503, Oct. 9, 1996, 110 Stat. 3263, provided that the Administrator of the Federal Aviation Administration would appoint a task force consisting of appropriate representatives of the aviation industry to study the development of standards and criteria for preemployment screening tests measuring the psychomotor coordination, general intellectual capacity, instrument and mechanical comprehension, and physical and mental fitness of applicants for employment as a pilot by an air carrier, the standards and criteria for pilot training facilities to be licensed by the Administrator, and to determine if the practice of some air carriers to require employees or prospective employees to pay for necessary training or experience was in the public interest; and provided that, not later than 1 year after Oct. 9, 1996, the Administrator would send Congress a report on the results of the studies.
 
 #### Study of Minimum Flight Time
 
-Pub. L. 104–264, title V, §504, Oct. 9, 1996, 110 Stat. 3263, provided that:
-
-"(a)
-
-Study.—The Administrator of the Federal Aviation Administration shall conduct a study to determine whether current minimum flight time requirements applicable to individuals seeking employment as a pilot with an air carrier are sufficient to ensure public safety.
-
-"(b)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Administrator shall transmit to Congress a report on the results of the study."
+Pub. L. 104–264, title V, §504, Oct. 9, 1996, 110 Stat. 3263, required the Administrator of the Federal Aviation Administration to conduct a study to determine the sufficiency of existing minimum flight time requirements for individuals seeking employment as pilots with air carriers and to report to Congress on the study results not later than 1 year after Oct. 9, 1996.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (l) have been enacted.</i>
 

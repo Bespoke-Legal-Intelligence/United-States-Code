@@ -18,7 +18,7 @@ The Secretary, after consulting with the Salt River Bay National Historical Park
 
 &emsp;(B) Proposals for visitor use facilities to be developed for the park.
 
-&emsp;(C) Plans for management of the natural and cultural resources of the park, with particular emphasis on the preservation of both the cultural and natural resources and long-term scientific study of terrestrial, marine, and archeological resources, giving high priority to the enforcement of the provisions of the Archeological <sup>2</sup> Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act<sup>1</sup> within the park. The natural and cultural resources management plans shall be prepared in consultation with the Virgin Islands Division of Archeology and Historic Preservation.
+&emsp;(C) Plans for management of the natural and cultural resources of the park, with particularemphasis on the preservation of both the cultural and natural resources and long-term scientific study of terrestrial, marine, and archeological resources, giving high priority to the enforcement of the provisions of the Archeological <sup>2</sup> Resources Protection Act of 1979 (16 U.S.C. 470aa et seq.) and the National Historic Preservation Act<sup>1</sup> within the park. The natural and cultural resources management plans shall be prepared in consultation with the Virgin Islands Division of Archeology and Historic Preservation.
 
 &emsp;(D) Proposals for assessing the potential operation and supply of park concessions by qualified Virgin Islands-owned businesses.
 
@@ -29,6 +29,8 @@ The Secretary, after consulting with the Salt River Bay National Historical Park
 During the 10-year period beginning on February 24, 1992, the Secretary shall, subject to appropriations, provide the funds for the employees of the Government of the United States Virgin Islands directly engaged in the joint management of the park and shall implement, in consultation with the Government of the United States Virgin Islands, a program under which Virgin Islands citizens may be trained in all phases of park operations and management: <i>Provided, however</i>, That in no event shall the Secretary provide more than 50 percent of the funding for such purposes. A primary objective of the program shall be to train employees in the skills necessary for operating and managing a Virgin Islands Territorial Park System.
 
 (Pub. L. 102–247, title I, §105, Feb. 24, 1992, 106 Stat. 34; Pub. L. 103–437, §6(d)(13), Nov. 2, 1994, 108 Stat. 4584.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

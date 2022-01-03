@@ -30,7 +30,7 @@ When used in this chapter—
 
 (g) The term "air pollutant" means any air pollution agent or combination of such agents, including any physical, chemical, biological, radioactive (including source material, special nuclear material, and byproduct material) substance or matter which is emitted into or otherwise enters the ambient air. Such term includes any precursors to the formation of any air pollutant, to the extent the Administrator has identified such precursor or precursors for the particular purpose for which the term "air pollutant" is used.
 
-(h) All language referring to effects on welfare includes, but is not limited to, effects on soils, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate, damage to and deterioration of property, and hazards to transportation, as well as effects on economic values and on personal comfort and well-being, whether caused by transformation, conversion, or combination with other air pollutants.
+(h) All language referring to effects on welfare includes, but is not limited to, effects on soils,water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate, damage to and deterioration of property, and hazards to transportation, as well as effects on economic values and on personal comfort and well-being, whether caused by transformation, conversion, or combination with other air pollutants.
 
 (i) The term "Federal land manager" means, with respect to any lands in the United States, the Secretary of the department with authority over such lands.
 
@@ -80,13 +80,15 @@ Stationary Source.—The term "stationary source" means generally any source of 
 
 (July 14, 1955, ch. 360, title III, §302, formerly §9, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §15(a)(1), (c)(1), Dec. 31, 1970, 84 Stat. 1710, 1713; Pub. L. 95–95, title II, §218(c), title III, §301, Aug. 7, 1977, 91 Stat. 761, 769; Pub. L. 95–190, §14(a)(76), Nov. 16, 1977, 91 Stat. 1404; Pub. L. 101–549, title I, §§101(d)(4), 107(a), (b), 108(j), 109(b), title III, §302(e), title VII, §709, Nov. 15, 1990, 104 Stat. 2409, 2464, 2468, 2470, 2574, 2684.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1857h of this title.
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (b) and (d) of this section were contained in a section 1857e of this title, act July 14, 1955, ch. 360, §6, 69 Stat. 323, prior to the general amendment of this chapter by Pub. L. 88–206.
+Provisions similar to those in subsecs. (b) and (d) of this section were contained in a section 1857e of this title, act July 14, 1955, ch. 360, §6, 69 Stat. 323, prior tothe general amendment of this chapter by Pub. L. 88–206.
 
 #### Amendments
 
@@ -123,6 +125,8 @@ Subsecs. (i) to (p). Pub. L. 95–95, §301(a), added subsecs. (i) to (p).
 Subsecs. (g), (h). Pub. L. 91–604, §15(a)(1), added subsec. (g) defining "air pollutant", redesignated former subsec. (g) as (h) and substituted references to effects on soil, water, crops, vegetation, manmade materials, animals, wildlife, weather, visibility, and climate for references to injury to agricultural crops and livestock, and inserted references to effects on economic values and on personal comfort and well being.
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

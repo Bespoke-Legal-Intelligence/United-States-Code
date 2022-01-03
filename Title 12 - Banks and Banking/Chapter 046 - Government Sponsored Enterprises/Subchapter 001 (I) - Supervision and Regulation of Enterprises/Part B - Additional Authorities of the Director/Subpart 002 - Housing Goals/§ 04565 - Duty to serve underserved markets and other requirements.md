@@ -38,7 +38,7 @@
 
 #### (b) In general
 
-To meet the housing goals established under this subpart and to carry out the duty undersubsection (a) of this section, each enterprise shall—
+To meet the housing goals established under this subpart and to carry out the duty under subsection (a) of this section, each enterprise shall—
 
 &emsp;(1) design programs and products that facilitate the use of assistance provided by the Federal Government and State and local governments;
 
@@ -68,7 +68,7 @@ The Director may submit recommendations to the Committee on Financial Services o
 
 &emsp;In determining whether an enterprise has complied with the duty referred to in paragraph (1), the Director shall separately evaluate whether the enterprise has complied with such duty with respect to each of the underserved markets identified in subsection (a), taking into consideration\_\_<sup>2</sup>
 
-&emsp;&emsp;(A) the development of loan products, more flexible underwriting guidelines, and other innovative approaches to providing financing to each of such underserved markets;
+&emsp;&emsp;(A) the development of loan products, more flexible underwriting guidelines, andother innovative approaches to providing financing to each of such underserved markets;
 
 &emsp;&emsp;(B) the extent of outreach to qualified loan sellers and other market participants in each of such underserved markets;
 
@@ -106,7 +106,7 @@ Pub. L. 110–289, §1128(c)(1), substituted "housing goals established under th
 
 Subsec. (b). Pub. L. 110–289, §1129(a)(3)(E), redesignated subsec. (a) as (b).
 
-Pub. L. 110–289, §1129(a)(2), struck out subsec. (b). Text read as follows: "Actions taken under subsection\(a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary."
+Pub. L. 110–289, §1129(a)(2), struck out subsec. (b). Text read as follows: "Actions taken under subsection (a)(5) of this section shall constitute part of the contribution of each entity in meeting its affordable housing goals under sections 4562, 4563, and 4564 of this title for any fiscal year, as determined by the Secretary."
 
 Subsecs. (c), (d). Pub. L. 110–289, §1129(a)(5), added subsecs. (c) and (d).
 

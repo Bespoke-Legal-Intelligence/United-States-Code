@@ -18,11 +18,15 @@ Historical and Revision Notes
 
 July 9, 1918, ch. 143, subch. XX (1st par.), 40 Stat. 893; May 29, 1928, ch. 901 (par. 37), 45 Stat. 989; Aug. 1, 1953, ch. 305, Title VI, §645 (7th clause), 67 Stat. 357.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4591 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

@@ -30,11 +30,15 @@ Not later than 3 years after December 16, 2016, the Comptroller General of the U
 
 (Pub. L. 114–322, title II, §2108, Dec. 16, 2016, 130 Stat. 1728.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water and Waste Act of 2016, and also as part of the Water Infrastructure Improvements for the Nation Act, also known as the WIIN Act, and not as part of the Public Health Service Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definition of "Administrator"
 
-Pub. L. 114–322, title II, §2002, Dec. 16, 2016, 130 Stat. 1716, provided that: "In this title \[see section 2001 ofPub. L. 114–322, set out as a Short Title of 2016 Amendment note under section 201 of this title\], the term 'Administrator' means the Administrator of the Environmental Protection Agency."
+Pub. L. 114–322, title II, §2002, Dec. 16, 2016, 130 Stat. 1716, provided that: "In this title \[see section 2001 of Pub. L. 114–322, set out as a Short Title of 2016 Amendment note under section 201 of this title\], the term 'Administrator' means the Administrator of the Environmental Protection Agency."
 

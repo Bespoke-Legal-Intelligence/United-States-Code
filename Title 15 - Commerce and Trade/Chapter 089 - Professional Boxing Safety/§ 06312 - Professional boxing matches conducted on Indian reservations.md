@@ -36,6 +36,8 @@ For purposes of this section, the following definitions shall apply:
 
 (Pub. L. 104–272, §21, formerly §13, Oct. 9, 1996, 110 Stat. 3313; renumbered §21, Pub. L. 106–210, §4(1), May 26, 2000, 114 Stat. 322.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 1997, see section 23 of Pub. L. 104–272, set out as a note under section 6301 of this title.

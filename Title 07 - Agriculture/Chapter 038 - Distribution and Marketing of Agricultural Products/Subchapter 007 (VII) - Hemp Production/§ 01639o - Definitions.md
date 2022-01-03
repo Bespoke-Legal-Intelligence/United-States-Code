@@ -36,6 +36,8 @@ In this subchapter:
 
 (Aug. 14, 1946, ch. 966, title II, §297A, as added Pub. L. 115–334, title X, §10113, Dec. 20, 2018, 132 Stat. 4908.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Interstate Commerce
 
 Pub. L. 115–334, title X, §10114, Dec. 20, 2018, 132 Stat. 4914, provided that:

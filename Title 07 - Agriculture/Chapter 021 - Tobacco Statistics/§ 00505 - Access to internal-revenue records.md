@@ -4,9 +4,13 @@ The Secretary of Agriculture shall have access to the tobacco records of the Com
 
 (Jan. 14, 1929, ch. 69, §5, 45 Stat. 1080; Aug. 27, 1935, ch. 749, §3, 49 Stat. 894.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1935</b>—Act Aug. 27, 1935, reenacted section without change.
+
+#### <b>Executive Documents</b>
 
 #### Abolition of Offices and Transfer of Functions
 

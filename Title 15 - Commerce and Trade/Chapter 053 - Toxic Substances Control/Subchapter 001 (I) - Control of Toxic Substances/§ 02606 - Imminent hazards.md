@@ -16,7 +16,7 @@
 
 #### (b) Relief authorized
 
-(1) The district court of the United States in which an action under subsection (a) is broughtshall have jurisdiction to grant such temporary or permanent relief as may be necessary to protect health or the environment from the unreasonable risk (as identified by the Administrator without consideration of costs or other nonrisk factors) associated with the chemical substance, mixture, or article involved in such action.
+(1) The district court of the United States in which an action under subsection (a) is brought shall have jurisdiction to grant such temporary or permanent relief as may be necessary to protect health or the environment from the unreasonable risk (as identified by the Administrator without consideration of costs or other nonrisk factors) associated with the chemical substance, mixture, or article involved in such action.
 
 (2) In the case of an action under subsection (a) brought against a person who manufactures, processes, or distributes in commerce a chemical substance or mixture or an article containing a chemical substance or mixture, the relief authorized by paragraph (1) may include the issuance of a mandatory order requiring (A) in the case of purchasers of such substance, mixture, or article known to the defendant, notification to such purchasers of the risk associated with it; (B) public notice of such risk; (C) recall; (D) the replacement or repurchase of such substance, mixture, or article; or (E) any combination of the actions described in the preceding clauses.
 
@@ -46,6 +46,8 @@ For the purposes of subsection (a), the term "imminently hazardous chemical subs
 
 (Pub. L. 94–469, title I, §7, Oct. 11, 1976, 90 Stat. 2026; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(1), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §§7, 19(f), June 22, 2016, 130 Stat. 470, 507.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–182, §19(f)(1), in concluding provisions, substituted "a determination under section 2604 or 2605 of this title, a rule under section 2603, 2604, or 2605 of this title or subchapter IV, an order under section 2603, 2604, or 2605 of this title or subchapter IV, or a consent agreement under section 2603 of this title" for "a rule under section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV or an order under section 2604 of this title or subchapter IV".
@@ -59,6 +61,8 @@ Subsec. (f). Pub. L. 114–182, §7(2), inserted ", without consideration of co
 <b>1992</b>—Subsec. (a)(1). Pub. L. 102–550 substituted "section 2603 of this title, 2604 of this title, 2605 of this title, or subchapter IV" for "section 2603, 2604, or 2605 of this title" in last sentence.
 
 Pub. L. 102–550, which directed the insertion of "or subchapter IV" after "2604", was executed by making the insertion after "2604" the second time appearing in last sentence, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

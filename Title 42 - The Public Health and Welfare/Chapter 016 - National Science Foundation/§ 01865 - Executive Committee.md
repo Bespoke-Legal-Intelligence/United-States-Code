@@ -18,13 +18,15 @@ The Executive Committee shall render an annual report to the Board, and such oth
 
 (May 10, 1950, ch. 171, §7, formerly §6, 64 Stat. 151; Pub. L. 86–232, §4, Sept. 8, 1959, 73 Stat. 467; renumbered and amended Pub. L. 90–407, §§4, 5, July 18, 1968, 82 Stat. 363, 364.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–407, §5, made mandatory the organization of the Executive Committee, struck out prohibition that the Board may not assign to the Executive Committee the function of establishing policies, and inserted provisions setting forth the number of members, their manner of election, and the status of the Director.
 
 Subsec. (b). Pub. L. 90–407, §5, substituted provisions that Board elect two members as members of Executive Committee at its annual meeting, with period between any two consecutive annual meetings to be deemed one year, for provisions covering composition of Executive Committee, setting forth a special one year term of office for four members first elected after May 10, 1950, and directing that membership of Committee represent diverse interests and areas. Provisions of former subsecs. (b)(2)(A) and (b)(5) were redesignated as subsecs. (c) and (d), respectively.
 
-Subsec. (c). Pub. L. 90–407, §5, redesignated former subsec. (b)(2)(A) as (c) and substituted "Any person elected as a member of the Executive Committee" for "any member elected". Former subsec. (c), authorizingthe Board to appoint such additional committees as it deems necessary, and to delegate to such committees survey and advisory functions as it deems appropriate, was struck out.
+Subsec. (c). Pub. L. 90–407, §5, redesignated former subsec. (b)(2)(A) as (c) and substituted "Any person elected as a member of the Executive Committee" for "any member elected". Former subsec. (c), authorizing the Board to appoint such additional committees as it deems necessary, and to delegate to such committees survey and advisory functions as it deems appropriate, was struck out.
 
 Subsec. (d). Pub. L. 90–407, §5, redesignated former subsec. (b)(5) as (d) and substituted "The Executive Committee" for "Such Committee".
 
@@ -32,11 +34,15 @@ Subsec. (d). Pub. L. 90–407, §5, redesignated former subsec. (b)(5) as (d) an
 
 Subsec. (b)(1). Pub. L. 86–232 authorized Board to have an Executive Committee consisting of from five to nine members rather than fixed number of nine.
 
-#### Transfer of Functions
-
-Executive Committee of National Science Board appointed under provisions of this section abolished and functions conferred by this section transferred to Executive Committee of National Science Board established by Reorg. Plan No. 2 of 1962, see sections 21(e) and 23(a)(1) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Executive Committee of National Science Board appointed under provisions of this section abolished and functions conferred by this section transferred to Executive Committee of National Science Board established by Reorg. Plan No. 2 of 1962, see sections 21(e) and 23(a)(1) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 

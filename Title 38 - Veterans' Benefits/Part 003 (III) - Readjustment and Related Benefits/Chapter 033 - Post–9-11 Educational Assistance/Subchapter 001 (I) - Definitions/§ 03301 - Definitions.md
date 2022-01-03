@@ -12,7 +12,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(i) in the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard; or
 
-&emsp;&emsp;&emsp;(ii) in the National Guard under section 502(f) of title 32 when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
+&emsp;&emsp;&emsp;(ii) in the National Guard under section 502(f) of title 32 when authorized by the President or the Secretary of Defense forthe purpose of responding to a national emergency declared by the President and supported by Federal funds.
 
 &emsp;(2) The term "entry level and skill training" means the following:
 
@@ -92,7 +92,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 #### Construction of Active Duty
 
-Pub. L. 115–48, title I, §106(b), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3301(1) of title 38, United States Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 of such title) that satisfies the requirements of section 16163(a)(1) of such title."
+Pub. L. 115–48, title I, §106(b), Aug. 16, 2017, 131 Stat. 977, provided that: "Section 3301(1) of title 38, United States Code, shall be construed to include, in the case of a member of a reserve component of the Armed Forces who, before November 25, 2015, established eligibility for educational assistance under chapter 1607 of title 10, United States Code, pursuant to section 16163(a)(1) of such title, but lost eligibility for such educational assistance pursuant to section 16167(b) of such title, service on active duty (as defined in section 101 ofsuch title) that satisfies the requirements of section 16163(a)(1) of such title."
 
 #### Improvement of Information Technology of the Veterans Benefits Administration of the Department of Veterans Affairs
 
@@ -148,7 +148,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The original GI Bill, approved just weeks after D-Day, educated nearly 8 million Americans and helped transform this Nation. We owe the same obligations to this generation of service men and women as was afforded that previous one. This is the promise of the Post-9/11 Veterans Educational Assistance Act of 2008 (title V, Public Law 110–252) (Post-9/11 GI Bill) and the continued provision of educational benefits in the Department of Defense's Tuition Assistance Program (10 U.S.C. 2007): to provide our service members, veterans, spouses, and other family members the opportunity to pursue a high-quality education and gain the skills and training they need to fill the jobs of tomorrow.
 
-Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potentialstudents to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
+Since the Post-9/11 GI Bill became law, there have been reports of aggressive and deceptive targeting of service members, veterans, and their families by some educational institutions. For example, some institutions have recruited veterans with serious brain injuries and emotional vulnerabilities without providing academic support and counseling; encouraged service members and veterans to take out costly institutional loans rather than encouraging them to apply for Federal student loans first; engaged in misleading recruiting practices on military installations; and failed to disclose meaningful information that allows potential students to determine whether the institution has a good record of graduating service members, veterans, and their families and positioning them for success in the workforce.
 
 To ensure our service members, veterans, spouses, and other family members have the information they need to make informed decisions concerning their well-earned Federal military and veterans educational benefits, I am directing my Administration to develop Principles of Excellence to strengthen oversight, enforcement, and accountability within these benefits programs.
 
@@ -192,7 +192,7 @@ Sec. 4. <i>Strengthening Enforcement and Compliance Mechanisms</i>. Service memb
 
 (d) establish procedures for targeted risk-based program reviews of institutions to ensure compliance with the Principles;
 
-(e) establish new uniform rules and strengthen existing procedures for access to military installations by educational institutions. These new rules should ensure, at a minimum, that only those institutions that enter into a memorandum of agreement pursuant to section 3(a) of this order are permitted entry onto a Federal military installation for the purposes of recruitment. The Department of Defense shall include specific steps for instructing installation commanders on commercial solicitation rules and the requirement of the Principles outlined in section 2(c) of this order; and
+(e) establish new uniform rules and strengthen existing procedures for access to military installations by educational institutions. These new rules should ensure, at a minimum, that only those institutions thatenter into a memorandum of agreement pursuant to section 3(a) of this order are permitted entry onto a Federal military installation for the purposes of recruitment. The Department of Defense shall include specific steps for instructing installation commanders on commercial solicitation rules and the requirement of the Principles outlined in section 2(c) of this order; and
 
 (f) take all appropriate steps to ensure that websites and programs are not deceptively and fraudulently marketing educational services and benefits to program beneficiaries, including initiating a process to protect the term "GI Bill" and other military or veterans-related terms as trademarks, as appropriate.
 

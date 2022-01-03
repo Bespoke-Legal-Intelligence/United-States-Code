@@ -10,7 +10,7 @@ General Requirements.—(1) If an insurance carrier selling comprehensive motor 
 
 &emsp;(A) under procedures the Attorney General prescribes by regulation under section 33109 of this title in consultation with the Secretary of Transportation, verify whether the vehicle is reported as stolen; and
 
-&emsp;(B) provide the purchaser or transferee of the vehicle from the insurance carrier verification identifying the vehicle identification number and verifying that the vehicle has not been reported as stolen or, if reported as stolen, that the carrier has recovered the vehicle and has proper legal title to the vehicle.
+&emsp;(B) provide the purchaser or transferee of the vehicle from the insurance carrierverification identifying the vehicle identification number and verifying that the vehicle has not been reported as stolen or, if reported as stolen, that the carrier has recovered the vehicle and has proper legal title to the vehicle.
 
 (2)(A) This subsection does not prohibit an insurance carrier from transferring a motor vehicle if, within a reasonable period of time during normal business operations (as decided by the Attorney General under section 33109 of this title) using reasonable efforts, the carrier—
 
@@ -55,6 +55,8 @@ In subsection (b)(1)(B), the words "or derivative thereof" are omitted as unnece
 In subsection (b)(2)(A)(i), the words "has not been informed under the procedures prescribed" are substituted for "has not received a determination under" for clarity and consistency in the revised chapter. In clause (ii), the words "has not otherwise established whether" are substituted for "to otherwise determine whether" for clarity.
 
 In subsection (b)(2)(B), the words "When a carrier transfers a motor vehicle for which the carrier has not established whether the vehicle has been reported as stolen, the carrier shall provide written certification to the transferee that the carrier has not established whether the vehicle has been reported as stolen" are substituted for "except that such carrier shall provide a written certification of such lack of determination" for clarity and because of the restatement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

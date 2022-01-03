@@ -40,7 +40,7 @@ Following any adjustment made under subsection (a), the Committees on Appropriat
 
 #### (B) Appeals
 
-&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision of thissubsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
+&emsp;&emsp;Appeals in the Senate from the decisions of the Chair relating to any provision of this subsection shall be limited to 1 hour, to be equally divided between, and controlled by, the appellant and the manager of the bill or joint resolution, as the case may be. An affirmative vote of three-fifths of the Members of the Senate, duly chosen and sworn, shall be required to sustain an appeal of the ruling of the Chair on a point of order raised under this subsection.
 
 #### (3) Definition of an emergency designation
 
@@ -116,7 +116,7 @@ This Act, referred to in subsec. (g)(1)(C), is Pub. L. 115–123, Feb. 9, 2018, 
 
 <b>2018</b>—Subsec. (g). Pub. L. 115–123 added subsec. (g).
 
-<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted "under paragraph (1)" for "under subparagraph (A)", redesignated subpar. (C)as (B) and substituted "under subparagraph (A)" for "under subparagraph (B)", and struck out former subpar. (A) which read as follows: "In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives."
+<b>2013</b>—Subsec. (d)(2). Pub. L. 113–67 redesignated subpar. (B) as (A) and substituted "under paragraph (1)" for "under subparagraph (A)", redesignated subpar. (C) as (B) and substituted "under subparagraph (A)" for "under subparagraph (B)", and struck out former subpar. (A) which read as follows: "In the House of Representatives, if a reported bill or joint resolution, or amendment thereto or conference report thereon, contains a provision providing new budget authority and outlays or reducing revenue, and a designation of such provision as an emergency pursuant to paragraph (1), the chair of the Committee on the Budget shall not count the budgetary effects of such provision for purposes of this subchapter and subchapter II and the Rules of the House of Representatives."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–25, §105(a)(1), added subsec. (a) and struck out former subsec. (a) which related to general adjustment provisions and described the matters to be adjusted.
 

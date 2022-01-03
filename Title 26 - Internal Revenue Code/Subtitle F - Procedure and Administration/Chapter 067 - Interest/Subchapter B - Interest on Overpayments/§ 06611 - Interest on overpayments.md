@@ -126,6 +126,8 @@ The provisions of section 6513 (except the provisions of subsection (c) thereof,
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 819; Pub. L. 85–866, title I, §§42(b), 83(b), (c), Sept. 2, 1958, 72 Stat. 1640, 1664; Pub. L. 87–834, §2(e)(4), Oct. 16, 1962, 76 Stat. 972; Pub. L. 88–571, §3(e), Sept. 2, 1964, 78 Stat. 858; Pub. L. 89–721, §1(a), Nov. 2, 1966, 80 Stat. 1150; Pub. L. 90–225, §2(f), Dec. 27, 1967, 81 Stat. 732; Pub. L. 91–172, title V, §512(e)(4), Dec. 30, 1969, 83 Stat. 641; Pub. L. 92–178, title VI, §601(d)(4), Dec. 10, 1971, 85 Stat. 559; Pub. L. 93–17, §3(i)(2), Apr. 10, 1973, 87 Stat. 19; Pub. L. 93–625, §7(a)(2)(C), Jan. 3, 1975, 88Stat. 2115; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(iv), 1906(b)(13)(A), title XXI, §2107(g)(2)(D), Oct. 4, 1976, 90 Stat. 1817, 1834, 1904; Pub. L. 95–30, title II, §202(d)(4)(D), May 23, 1977, 91 Stat. 150; Pub. L. 95–628, §8(c)(3), Nov. 10, 1978, 92 Stat. 3632; Pub. L. 96–223, title I, §101(h), Apr. 2, 1980, 94 Stat. 254; Pub. L. 97–248, title III, §346(a)–(c)(1), Sept. 3, 1982, 96 Stat. 636, 637; Pub. L. 98–369, div. A, title II, §211(b)(27), title VII, §714(n)(2)(A), July 18, 1984, 98 Stat. 757, 963; Pub. L. 99–514, title XV, §1511(c)(13), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–418, title I, §1941(b)(2)(L), Aug. 23, 1988, 102 Stat. 1323; Pub. L. 103–66, title XIII, §13271(a), Aug. 10, 1993, 107 Stat. 541; Pub. L. 105–34, title X, §1055(b), Aug. 5, 1997, 111 Stat. 944; Pub. L. 105–206, title VI, §6010(l), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) \[title III, §319(20)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–647; Pub. L. 111–147, title V, §501(b), Mar. 18, 2010, 124 Stat. 105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(4). Pub. L. 111–147 added par. (4).
@@ -212,6 +214,8 @@ Subsec. (c). Pub. L. 85–866, §83(c), repealed subsec. (c) which defined "addi
 
 Subsecs. (g), (h). Pub. L. 85–866, §42(b), added subsec. (g) and redesignated former subsec. (g) as (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–147 applicable, with respect to subsec. (e)(1) of this section, to returns due (without regard to extensions) after Mar. 18, 2010; with respect to subsec. (e)(2) of this section, to claims for credit or refund of any overpayment filed after Mar. 18, 2010 (regardless of the taxable period to which such refund relates); and with respect to subsec. (e)(3) of this section, to refunds paid after Mar. 18, 2010 (regardless of the taxable period to which such refund relates), see section 501(d) of Pub. L. 111–147, set out as an Effective Date note under section 1471 of this title.
@@ -296,11 +300,11 @@ Pub. L. 89–721, §1(b), Nov. 2, 1966, 80 Stat. 1150, provided that: "The amend
 
 #### Effective Date of 1964 Amendment
 
-Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts, for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under section 6501 of this title.
+Amendment by Pub. L. 88–571 effective, with respect to amounts added to policyholders surplus accounts,for taxable years beginning after Dec. 31, 1958, see section 3(f) of Pub. L. 88–571, set out as a note under section 6501 of this title.
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–834 applicable with respect to taxable years ending after Dec. 31, 1961, see section2(h) of Pub. L. 87–834, set out as an Effective Date note under section 46 of this title.
+Amendment by Pub. L. 87–834 applicable with respect to taxable years ending after Dec. 31, 1961, see section 2(h) of Pub. L. 87–834, set out as an Effective Date note under section 46 of this title.
 
 #### Effective Date of 1958 Amendment
 

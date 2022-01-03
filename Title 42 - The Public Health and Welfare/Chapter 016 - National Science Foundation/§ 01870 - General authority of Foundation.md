@@ -22,9 +22,15 @@ The Foundation shall have the authority, within the limits of available appropri
 
 &emsp;(j) to arrange with and reimburse the heads of other Federal agencies for the performance of any activity which the Foundation is authorized to conduct; and
 
-&emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 of title 10 with all approvals and certifications required by such indemnification made by the Director.
+&emsp;(k) during the 5-year period beginning on August 21, 1986, to indemnify grantees, contractors, and subcontractors associated with the Ocean Drilling Program under the provisions of section 2354 <sup>1</sup> of title 10 with all approvals and certifications required by such indemnification made by the Director.
 
 (May 10, 1950, ch. 171, §11, 64 Stat. 153; Pub. L. 86–232, §6, Sept. 8, 1959, 73 Stat. 468; Pub. L. 90–407, §9, July 18, 1968, 82 Stat. 365; Pub. L. 99–159, title I, §110(a)(14), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(d), Aug. 21, 1986, 100 Stat. 814; Pub. L. 110–69, title VII, §7023, Aug. 9, 2007, 121 Stat. 686.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 2354 of title 10, referred to in subsec. (k), was renumbered section 3861 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1836(b), Jan. 1, 2021, 134 Stat. 4241.
 
 #### Codification
 
@@ -56,6 +62,8 @@ Subsec. (j). Pub. L. 90–407, §9(d), added subsec. (j).
 
 <b>1959</b>—Subsec. (e). Pub. L. 86–232 included acquisition of property by condemnation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under section 1862 of this title.
@@ -72,5 +80,7 @@ Prohibition.—The Director of the Foundation may revise the regulations under p
 
 Interagency Communication.—Upon a finding that research misconduct has occurred, the Foundation shall, in addition to any possible final action under section 689.3 of title 45, Code of Federal Regulations, notify other Federal science agencies of the finding."
 
-\[For definitions of "Foundation" and "Federal science agency" as used in section 115 of Pub. L.114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.\]
+\[For definitions of "Foundation" and "Federal science agency" as used in section 115 of Pub. L. 114–329, set out above, see section 2 of Pub. L. 114–329, set out as a note under section 1862s of this title.\]
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

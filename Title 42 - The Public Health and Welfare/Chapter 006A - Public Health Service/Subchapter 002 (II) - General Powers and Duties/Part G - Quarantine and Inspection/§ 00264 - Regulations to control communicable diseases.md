@@ -28,6 +28,8 @@ Nothing in this section or section 266 of this title, or the regulations promulg
 
 (July 1, 1944, ch. 373, title III, §361, 58 Stat. 703; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 86–624, §29(c), July 12, 1960, 74 Stat. 419; Pub. L. 94–317, title III, §301(b)(1), June 23, 1976, 90 Stat. 707; Pub. L. 107–188, title I, §142(a)(1), (2), (b)(1), (c), June 12, 2002, 116 Stat. 626, 627.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
@@ -42,15 +44,15 @@ Subsec. (e). Pub. L. 107–188, §142(c), added subsec. (e).
 
 <b>1960</b>—Subsec. (c). Pub. L. 86–624 struck out reference to Territory of Hawaii.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) and (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1960 Amendment
 
 Amendment by Pub. L. 86–624 effective Aug. 21, 1959, see section 47(f) of Pub. L. 86–624, set out as a note under section 201 of this title.
-
-#### Transfer of Functions
-
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Extension of Eviction Moratorium
 
@@ -78,19 +80,27 @@ Contents of Evaluation.—The report described in subsection (a) shall include�
 
 Update of Quarantine Regulations.—Not later than 240 days after the date of enactment of this Act \[Oct. 13, 2008\], the Secretary of Health and Human Services shall promulgate regulations to update the current interstate and foreign quarantine regulations found in parts 70 and 71 of title 42, Code of Federal Regulations."
 
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
+
 #### Executive Order No. 12452
 
 Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of such diseases, was revoked by Ex. Ord. No. 13295, §5, Apr. 4, 2003, 68 F.R. 17255, set out below.
 
 #### Ex. Ord. No. 13295. Revised List of Quarantinable Communicable Diseases
 
-Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, §1, Apr. 1, 2005, 70 F.R. 17299; Ex. Ord. No. 13674, §1, July 31, 2014, 79 F.R. 45671, provided:
+Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, §1, Apr. 1, 2005, 70 F.R. 17299; Ex. Ord. No. 13674, §1, July 31, 2014, 79 F.R. 45671; Ex. Ord. No. 14047, Sept. 17, 2021, 86 F.R. 52591, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 361(b) of the Public Health Service Act (42 U.S.C. 264(b)), it is hereby ordered as follows:
 
 Section 1. Based upon the recommendation of the Secretary of Health and Human Services (the "Secretary"), in consultation with the Surgeon General, and for the purpose of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of suspected communicable diseases, the following communicable diseases are hereby specified pursuant to section 361(b) of the Public Health Service Act:
 
-(a) Cholera; Diphtheria; infectious Tuberculosis; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
+(a) Cholera; Diphtheria; infectious Tuberculosis; Measles; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
 
 (b) Severe acute respiratory syndromes, which are diseases that are associated with fever and signs and symptoms of pneumonia or other respiratory illness, are capable of being transmitted from person to person, and that either are causing, or have the potential to cause, a pandemic, or, upon infection, are highly likely to cause mortality or serious morbidity if not properly controlled. This subsection does not apply to influenza.
 

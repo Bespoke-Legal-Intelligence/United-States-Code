@@ -42,7 +42,7 @@ Metrics to Measure Progress in Developing and Implementing Plan and Mentoring an
 
 (d)
 
-Definition of Diversity.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary of Homeland Security shall develop a uniform definition of diversity.
+Definition of Diversity.—In developing and implementing the plan under subsection (a), the Secretary of Defense and the Secretary ofHomeland Security shall develop a uniform definition of diversity.
 
 (e)
 
@@ -54,6 +54,8 @@ Cooperation With States.—The Secretary of Defense shall coordinate with the Na
 
 (Added Pub. L. 112–239, div. A, title V, §519(a)(1), Jan. 2, 2013, 126 Stat. 1720; amended Pub. L. 116–283, div. A, title V, §571(a)(1)–(3)(A), Jan. 1, 2021, 134 Stat. 3642, 3643.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §571(a)(3)(A), amended section catchline generally, substituting "Diversity in military leadership: plan; mentoring and career counseling program" for "Diversity in military leadership: plan".
@@ -63,6 +65,8 @@ Subsec. (b). Pub. L. 116–283, §571(a)(1)(B), added subsec. (b). Former subsec
 Subsec. (c). Pub. L. 116–283, §571(a)(1)(A), (2), redesignated subsec. (b) as (c) and inserted "and Mentoring and Career Counseling Program" after "Developing and Implementing Plan" in heading and "and the mentoring and career counseling program under subsection (b)" after "the plan under subsection (a)" in text. Former subsec. (c) redesignated (d).
 
 Subsecs. (d) to (f). Pub. L. 116–283, §571(a)(1)(A), redesignated subsecs. (c) to (e) as (d) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Strategic Plan for Diversity and Inclusion
 

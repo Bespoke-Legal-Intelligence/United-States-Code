@@ -212,6 +212,8 @@ There are hereby appropriated, out of any funds in the Treasury not otherwise ap
 
 (Pub. L. 111–148, title I, §1322, title X, §10104(l), Mar. 23, 2010, 124 Stat. 187, 902.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(4)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -229,6 +231,8 @@ Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of sectio
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(3), (4). Pub. L. 111–148, §10104(l), added par. (3) and redesignated former par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Consumer Operated and Oriented Plan Program Contingency Fund
 

@@ -2,7 +2,7 @@
 
 #### (a) State payment
 
-For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
+For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary of Agriculture shall calculate for each eligible State an amount equal to the sum of the products obtained by multiplying—
 
 &emsp;(1) the adjusted share for each eligible county within the eligible State; by
 
@@ -10,7 +10,7 @@ For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secr
 
 #### (b) County payment
 
-For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
+For each of fiscal years 2008 through 2015 and 2017 through 2023, the Secretary of the Interior shall calculate for each eligible county that received a 50-percent payment during the eligibility period an amount equal to the product obtained by multiplying—
 
 &emsp;(1) the 50-percent adjusted share for the eligible county; by
 
@@ -20,7 +20,7 @@ For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secr
 
 #### (1) State payment
 
-&emsp;If an eligible county in a State that will receive a share of the State payment for fiscalyear 2014 has already received, or will receive, a share of the 25-percent payment for fiscal year 2014 distributed to the State before April 16, 2015, the amount of the State payment shall be reduced by the amount of that eligible county's share of the 25-percent payment.
+&emsp;If an eligible county in a State that will receive a share of the State payment for fiscal year 2014 has already received, or will receive, a share of the 25-percent payment for fiscal year 2014 distributed to the State before April 16, 2015, the amount of the State payment shall be reduced by the amount of that eligible county's share of the 25-percent payment.
 
 #### (2) County payment
 
@@ -40,13 +40,17 @@ For each of fiscal years 2008 through 2015, 2017, 2018, 2019, and 2020, the Secr
 
 &emsp;Not later than 45 days after March 23, 2018, the Secretary of the Treasury shall make all payments under this subchapter for fiscal year 2017.
 
-(Pub. L. 106–393, title I, §101, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(A), Oct. 2, 2013, 127 Stat. 544; Pub. L. 114–10, title V, §524(a)(1), (3), Apr. 16, 2015, 129 Stat. 178, 179; Pub. L. 115–141, div. O, title IV, §401(a)(2), Mar. 23, 2018, 132 Stat. 1077; Pub. L. 116–94, div. I, title III, §301(a)(1), Dec. 20, 2019, 133 Stat. 3020.)
+(Pub. L. 106–393, title I, §101, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(A), Oct. 2, 2013, 127 Stat. 544; Pub. L. 114–10, title V, §524(a)(1), (3), Apr. 16, 2015, 129 Stat. 178, 179; Pub. L. 115–141, div. O, title IV, §401(a)(2), Mar. 23, 2018, 132 Stat. 1077; Pub. L. 116–94, div. I, title III, §301(a)(1), Dec. 20, 2019, 133 Stat. 3020; Pub. L. 117–58, div. D, title XII, §41202(b)(1), Nov. 15, 2021, 135 Stat. 1132.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 101 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (a), (b). Pub. L. 117–58 substituted "2015 and 2017 through 2023" for "2015, 2017, 2018, 2019, and 2020" in introductory provisions.
 
 <b>2019</b>—Subsecs. (a), (b). Pub. L. 116–94 substituted "2018, 2019, and 2020" for "and 2018" in introductory provisions.
 
@@ -61,4 +65,10 @@ Subsec. (c). Pub. L. 114–10, §524(a)(3), added subsec. (c).
 <b>2013</b>—Subsecs. (a), (b). Pub. L. 113–40 substituted "2013" for "2012" in introductory provisions.
 
 <b>2012</b>—Subsecs. (a), (b). Pub. L. 112–141 substituted "2012" for "2011" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
 

@@ -206,7 +206,7 @@ Task Force.—
 
 &emsp;"(1)
 
-In general.—Not later than 90 days after the date on which the Secretary completes the study under subsection (a), the Secretary, in consultationwith the Attorney General and the Secretary of Health and Human Services, shall establish a national task force (in this section referred to as the 'Task Force') to develop a comprehensive national program, including by integrating facilities, services, and benefits of the Department of Veterans Affairs into existing networks of community-based intimate partner violence and sexual assault services, to address intimate partner violence and sexual assault among veterans.
+In general.—Not later than 90 days after the date on which the Secretary completes the study under subsection (a), the Secretary, in consultation with the Attorney General and the Secretary of Health and Human Services, shall establish a national task force (in this section referred to as the 'Task Force') to develop a comprehensive national program, including by integrating facilities, services, and benefits of the Department of Veterans Affairs into existing networks of community-based intimate partner violence and sexual assault services, to address intimate partner violence and sexual assault among veterans.
 
 &emsp;"(2)
 

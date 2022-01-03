@@ -274,7 +274,7 @@ Sec. 9. (a) Pursuant to Section 210 of the Act there is established in the Depar
 
 (e) The Secretary of State shall provide all necessary administrative services and facilities for the Board.
 
-Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 3922(a)(2)(B), (a)(3)(B)), it is herebydetermined to be necessary, in order to enable the Department of Agriculture and the Department of Commerce to carry out functions which require service abroad, for the respective Secretaries, in consultation with the Office of Personnel Management and the Office of Management and Budget, to be able to utilize the Foreign Service personnel system with respect to personnel of the following:
+Sec. 10. Pursuant to Section 202(a)(2)(B) and (a)(3)(B) of the Act (22 U.S.C. 3922(a)(2)(B), (a)(3)(B)), it is hereby determined to be necessary, in order to enable the Department of Agriculture and the Department of Commerce to carry out functions which require service abroad, for the respective Secretaries, in consultation with the Office of Personnel Management and the Office of Management and Budget, to be able to utilize the Foreign Service personnel system with respect to personnel of the following:
 
 (a) The Animal and Plant Health Inspection Service of the Department of Agriculture, not to exceed 125 positions, without the prior approval of the Director of the Office of Personnel Management;
 

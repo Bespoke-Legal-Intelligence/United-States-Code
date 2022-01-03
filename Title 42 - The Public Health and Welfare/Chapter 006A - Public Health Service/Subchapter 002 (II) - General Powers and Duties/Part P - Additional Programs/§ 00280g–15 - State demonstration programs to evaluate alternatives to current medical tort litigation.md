@@ -42,7 +42,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (3) Sources of compensation
 
-&emsp;Each State desiring a grant under subsection (a) shall identify the sources from and methods by which compensation would be paid for claims resolved under the proposed alternative to current tort litigation, which may include public or private funding sources, or a combination of such sources. Funding methods shall to the extent practicable provide financial incentives for activities that improve patient safety.
+&emsp;Each State desiring a grant under subsection (a) shall identify the sources from and methods by which compensation would be paid for claims resolved under the proposed alternativeto current tort litigation, which may include public or private funding sources, or a combination of such sources. Funding methods shall to the extent practicable provide financial incentives for activities that improve patient safety.
 
 #### (4) Scope
 
@@ -204,7 +204,7 @@ The Secretary may award grants under subsection (a) for a period not to exceed 5
 
 #### (i) Option to provide for initial planning grants
 
-Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting the criteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the application would not prohibit the adoption of an alternative to current tort litigation.
+Of the funds appropriated pursuant to subsection (k), the Secretary may use a portion not to exceed $500,000 per State to provide planning grants to such States for the development of demonstration project applications meeting the criteria described in subsection (c). In selecting States to receive such planning grants, the Secretary shall give preference to those States in which State law at the time of the applicationwould not prohibit the adoption of an alternative to current tort litigation.
 
 #### (j) Definitions
 
@@ -244,9 +244,11 @@ Nothing in this section shall be construed as limiting states' <sup>1</sup> aut
 
 (July 1, 1944, ch. 373, title III, §399V–4, as added Pub. L. 111–148, title X, §10607, Mar. 23, 2010, 124 Stat. 1009; amended Pub. L. 114–301, §3(d), Dec. 16, 2016, 130 Stat. 1515.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Social Security Act, referred to in subsec. (h)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitlesXVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (h)(1), (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 

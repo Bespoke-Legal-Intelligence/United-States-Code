@@ -8,7 +8,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms ofchildhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identify and appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
+&emsp;The Secretary shall award grants to States, political subdivisions of States, Indian tribes, tribal organizations, and nonprofit private entities to train teachers and other relevant school personnel to recognize symptoms of childhood and adolescent mental disorders, to refer family members to the appropriate mental health services if necessary, to train emergency services personnel <sup>1</sup> veterans, law enforcement, and other categories of individuals, as determined by the Secretary, to identify and appropriately respond to persons with a mental illness, and to provide education to such teachers and personnel regarding resources that are available in the community for individuals with a mental illness.
 
 #### (2) Emergency services personnel
 
@@ -20,7 +20,7 @@ The Secretary shall award grants in accordance with the provisions of this secti
 
 #### (4) Application
 
-&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that desires a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received under a grant under this subsection.
+&emsp;A State, political subdivision of a State, Indian tribe, tribal organization, or nonprofit private entity that desires a grant under thissubsection shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the rigorous evaluation of activities that are carried out with funds received under a grant under this subsection.
 
 #### (5) Use of funds
 
@@ -41,6 +41,8 @@ The Secretary shall award grants in accordance with the provisions of this secti
 &emsp;There is authorized to be appropriated to carry out this subsection $14,693,000 for each of fiscal years 2018 through 2022.
 
 (July 1, 1944, ch. 373, title V, §520J, as added Pub. L. 106–310, div. B, title XXXII, §3213, Oct. 17, 2000, 114 Stat. 1206; amended Pub. L. 114–255, div. B, title IX, §9010, Dec. 13, 2016, 130 Stat. 1244.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -26,7 +26,7 @@ In this section:
 
 #### (c) Pilot projects
 
-The Secretary shall award a contract or grant under subsection (a) to an eligible entity that proposes a pilot project to design, implement, and evaluate an emergency medical and trauma system that—
+The Secretary shall award a contract or grant under subsection (a) to an eligible entity thatproposes a pilot project to design, implement, and evaluate an emergency medical and trauma system that—
 
 &emsp;(1) coordinates with public health and safety services, emergency medical services, medical facilities, trauma centers, and other entities in a region to develop an approach to emergency medical and trauma system access throughout the region, including 9–1–1 Public Safety Answering Points and emergency medical dispatch;
 
@@ -103,6 +103,8 @@ Not later than 90 days after the completion of a pilot project under subsection 
 The Secretary shall, as appropriate, disseminate to the public and to the appropriate Committees of the Congress, the information contained in a report made under subsection (g).
 
 (July 1, 1944, ch. 373, title XII, §1204, as added Pub. L. 111–148, title III, §3504(a)(2), Mar. 23, 2010, 124 Stat. 518.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

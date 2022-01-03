@@ -4,7 +4,7 @@
 
 &emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed pursuant to section 6372a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures in buildings owned by units of local government and public care institutions;
 
-&emsp;(2) a recommendation as to the types of technical assistance programs considered appropriate for buildings owned by units of local government and public care institutions insuch State, together with an estimate of the costs of carrying out such programs;
+&emsp;(2) a recommendation as to the types of technical assistance programs considered appropriate for buildings owned by units of local government and public care institutions in such State, together with an estimate of the costs of carrying out such programs;
 
 &emsp;(3) a program for identifying persons qualified to carry out technical assistance programs;
 
@@ -19,6 +19,8 @@
 (b) Each State plan submitted under this section shall be reviewed and approved or disapproved by the Secretary not later than 60 days after receipt by the Secretary. If such plan meets the requirements of subsection (a), the Secretary shall approve the plan. If a State plan submitted within the 90 day period specified in subsection (a) has not been disapproved within the 60-day period following its receipt by the Secretary, such plan shall be treated as approved by the Secretary. A State energy agency may submit a new or amended plan at any time after the submission of the original plan if the agency obtains the consent of the Secretary.
 
 (Pub. L. 94–163, title III, §400D, as added Pub. L. 95–619, title III, §311(a), Nov. 9, 1978, 92 Stat. 3251; amended Pub. L. 105–388, §5(a)(12), Nov. 13, 1998, 112 Stat. 3479.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

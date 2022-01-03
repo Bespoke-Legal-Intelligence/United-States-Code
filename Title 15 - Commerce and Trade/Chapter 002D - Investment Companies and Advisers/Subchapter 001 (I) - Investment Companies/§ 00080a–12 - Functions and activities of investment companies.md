@@ -24,7 +24,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;(i) more than 3 per centum of the total outstanding voting stock of the acquired company;
 
-&emsp;(ii) securities issued by the acquired company having an aggregate value in excess of 5per centum of the value of the total assets of the acquiring company; or
+&emsp;(ii) securities issued by the acquired company having an aggregate value in excess of 5 per centum of the value of the total assets of the acquiring company; or
 
 &emsp;(iii) securities issued by the acquired company and all other investment companies (other than treasury stock of the acquiring company) having an aggregate value in excess of 10 per centum of the value of the total assets of the acquiring company.
 
@@ -68,7 +68,7 @@ It shall be unlawful for any registered diversified company to make any commitme
 
 &emsp;&emsp;(aa) securities of the acquired company, the acquiring company does not pay and is not assessed any charges or fees for distribution-related activities, unless the acquiring company does not charge a sales load or other fees or charges for distribution-related activities; or
 
-&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated with any sales load and distribution-related fees paid by the acquiring company with respectto securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\], or the Commission;
+&emsp;&emsp;(bb) securities of the acquiring company, any sales loads and other distribution-related fees charged, when aggregated withany sales load and distribution-related fees paid by the acquiring company with respect to securities of the acquired company, are not excessive under rules adopted pursuant to section 80a–22(b) of this title or section 80a–22(c) of this title by a securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\], or the Commission;
 
 &emsp;(IV) the acquired company has a policy that prohibits it from acquiring any securities of registered open-end investment companies or registered unit investment trusts in reliance on this subparagraph or subparagraph (F); and
 
@@ -107,6 +107,8 @@ Notwithstanding any provisions of this chapter, any registered face-amount certi
 Notwithstanding the provisions of this section any registered investment company and any company or companies controlled by such registered company may purchase or otherwise acquire from another investment company or any company or companies controlled by such registered company more than 10 per centum of the total outstanding voting stock of any insurance company owned by any such company or companies, or may acquire the securities of any insurance company if the Commission by order determines that such acquisition is in the public interest because the financial condition of such insurance company will be improved as a result of such acquisition or any plan contemplated as a result thereof. This section shall not be deemed to prohibit the promotion of a new insurance company or the acquisition of the securities of any newly created insurance company by a registered investment company, alone or with other persons. Nothing contained in this section shall in any way affect or derogate from the powers of any insurance commissioner or similar official or agency of the United States or any State, or to affect the right under State law of any insurance company to acquire securities of any other insurance company or insurance companies.
 
 (Aug. 22, 1940, ch. 686, title I, §12, 54 Stat. 808; Pub. L. 91–547, §7, Dec. 14, 1970, 84 Stat. 1417; Pub. L. 100–181, title VI, §610, Dec. 4, 1987, 101 Stat. 1261; Pub. L. 104–290, title II, §202, Oct. 11, 1996, 110 Stat. 3426; Pub. L. 105–353, title III, §301(c)(3), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 111–203, title IX, §985(d)(3), July 21, 2010, 124 Stat. 1934.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -150,6 +152,8 @@ Subsec. (d)(2). Pub. L. 91–547 incorporated existing introductory text and sub
 
 Subsec. (d)(3). Pub. L. 91–547 incorporated existing introductory text and subpar. (3) provisions in provisions redesignated as par. (3) and struck out "after August 22, 1940," after "purchase or otherwise acquire".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -158,7 +162,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

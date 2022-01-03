@@ -22,7 +22,7 @@ June 30, 1949, ch. 286, title I, 63 Stat. 358.
 
 June 14, 1948, ch. 466, title I, 62 Stat. 409.
 
-Section 363, act June 1, 1955, ch. 113, title I, 69 Stat. 72, which related to reimbursement of Federal Reserve banks and branches for necessary expenses incident to verification and destruction of unfit United States paper currency, was from the Treasury-Post Office Appropriation Act, 1956, and was not repeated in subsequent appropriation acts.
+Section 363, act June 1, 1955, ch. 113, title I, 69 Stat. 72, which related to reimbursement of Federal Reservebanks and branches for necessary expenses incident to verification and destruction of unfit United States paper currency, was from the Treasury-Post Office Appropriation Act, 1956, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation act: May 28, 1954, ch. 242, title I, 68 Stat. 144.
 

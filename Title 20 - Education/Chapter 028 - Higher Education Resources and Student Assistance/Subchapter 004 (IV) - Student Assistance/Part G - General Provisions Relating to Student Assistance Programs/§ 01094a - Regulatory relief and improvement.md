@@ -66,6 +66,8 @@ For purposes of this section, the term "current award year" means the award year
 
 (Pub. L. 89–329, title IV, §487A, as added Pub. L. 102–325, title IV, §491, July 23, 1992, 106 Stat. 629; amended Pub. L. 105–244, title IV, §490, Oct. 7, 1998, 112 Stat. 1751; Pub. L. 110–315, title I, §103(b)(13), title IV, §494, Aug. 14, 2008, 122 Stat. 3090, 3318; Pub. L. 111–39, title IV, §407(b)(9), July 1, 2009, 123 Stat. 1952.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–39, §407(b)(9)(A), substituted "Any experimental sites" for "Any activities" and "June 30, 2010" for "June 30, 2009".
@@ -76,7 +78,7 @@ Subsec. (b)(4). Pub. L. 111–39, §407(b)(9)(B), added par. (4).
 
 Subsec. (b)(1). Pub. L. 110–315, §494(1), amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary may continue any experimental sites in existence on October 7, 1998. Any activities approved by the Secretary prior to October 7, 1998, that are inconsistent with this section shall be discontinued not later than June 30, 1999."
 
-Subsec. (b)(2). Pub. L. 110–315, §494(2), added introductory provisions and struck out former introductory provisions which read as follows: "The Secretary shall review and evaluate the experience of institutions participating as experimental sites during the period of 1993 through 1998 under this section (as such section was in effect on the day before October 7, 1998), and shall submit a report based on this review and evaluation to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 6 months after October 7, 1998. Such report shall include—".
+Subsec. (b)(2). Pub. L. 110–315, §494(2), added introductory provisions and struck out former introductory provisions which read as follows: "The Secretary shall review and evaluate the experience of institutions participating as experimental sites during the period of 1993 through 1998 under this section (as such sectionwas in effect on the day before October 7, 1998), and shall submit a report based on this review and evaluation to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not later than 6 months after October 7, 1998. Such report shall include—".
 
 Subsec. (b)(3)(A). Pub. L. 110–315, §494(3)(A), substituted "The" for "Upon the submission of the report required by paragraph (2), the" and inserted "periodically" after "authorized to".
 
@@ -93,6 +95,8 @@ Pub. L. 110–315, §494(3)(B), (C), redesignated subpar. (C) as (B) and struck 
 Subsec. (b)(3)(C). Pub. L. 110–315, §494(3)(C), redesignated subpar. (C) as (B).
 
 <b>1998</b>—Pub. L. 105–244 amended section catchline and text generally. Prior to amendment, section authorized a Quality Assurance Program for institutions to develop and implement systems for verifying student financial aid application data.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

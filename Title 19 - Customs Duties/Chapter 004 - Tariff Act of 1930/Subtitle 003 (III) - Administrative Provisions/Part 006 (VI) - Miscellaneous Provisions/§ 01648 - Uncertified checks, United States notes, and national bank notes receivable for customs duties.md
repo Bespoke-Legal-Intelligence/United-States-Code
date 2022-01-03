@@ -4,9 +4,13 @@ Customs officers may receive uncertified checks, United States notes, and circul
 
 (June 17, 1930, ch. 497, title IV, §648, 46 Stat. 762; Pub. L. 91–271, title III, §301(kk), June 2, 1970, 84 Stat. 291.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to customs officers for reference to collectors of customs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

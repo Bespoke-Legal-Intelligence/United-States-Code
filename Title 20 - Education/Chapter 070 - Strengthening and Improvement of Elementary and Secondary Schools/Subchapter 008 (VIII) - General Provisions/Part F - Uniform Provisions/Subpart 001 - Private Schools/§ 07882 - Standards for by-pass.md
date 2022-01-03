@@ -6,13 +6,15 @@ If, by reason of any provision of law, a State educational agency, local educati
 
 &emsp;(1) waive the requirements of that section for the agency, consortium, or entity; and
 
-&emsp;(2) arrange for the provision of equitable services to those children, teachers, or other educational personnel through arrangements that shall be subject to the requirements ofthis section and of sections 7881, 7883, and 7884 of this title.
+&emsp;(2) arrange for the provision of equitable services to those children, teachers, or other educational personnel through arrangements that shall be subject to the requirements of this section and of sections 7881, 7883, and 7884 of this title.
 
 #### (b) Determination
 
 In making the determination under subsection (a), the Secretary shall consider one or more factors, including the quality, size, scope, and location of the program, and the opportunity of private school children, teachers, and other educational personnel to participate in the program.
 
 (Pub. L. 89–10, title VIII, §8502, formerly title IX, §9502, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1977; renumbered title VIII, §8502, and amended Pub. L. 114–95, title VIII, §§8001(a)(5), (b)(4), 8016, Dec. 10, 2015, 129 Stat. 2088, 2089, 2111.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -23,6 +25,8 @@ A prior section 7882, Pub. L. 89–10, title IX, §9162, as added Pub. L. 103–
 <b>2015</b>—Subsec. (a). Pub. L. 114–95, §8001(b)(4), made technical amendment to reference in original act which appears in two places in text as reference to section 7881 of this title.
 
 Subsec. (a)(2). Pub. L. 114–95, §8016, made technical amendment to reference in original act which appears in text as reference to sections 7883 and 7884 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

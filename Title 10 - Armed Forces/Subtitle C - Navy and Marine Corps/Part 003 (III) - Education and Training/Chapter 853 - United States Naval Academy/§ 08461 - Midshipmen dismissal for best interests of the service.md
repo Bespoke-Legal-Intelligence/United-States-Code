@@ -22,13 +22,19 @@ Apr. 9, 1906, ch. 1370, §1, 34 Stat. 104.
 
 The words "court of inquiry" are substituted for the words "board of inquiry" to conform to the terminology of the Uniform Code of Military Justice. The words "under the rules and regulations for the government of the Navy" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6961 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -52,7 +52,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted "which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of theleased articles to be performed prior to the delivery of the leased articles," for "of not to exceed five years", and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted "which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles," for "of not to exceed five years", and added par. (2).
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted "the current fiscal year" for "1998" in par. (B).
 

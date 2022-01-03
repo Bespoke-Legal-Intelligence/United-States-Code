@@ -8,7 +8,7 @@ For the purposes specified in this section there is authorized to be appropriate
 
 &emsp;(2) Payment of any claim for necessary response costs incurred by any other person as a result of carrying out the national contingency plan established under section 1321(c) <sup>1</sup> of title 33 and amended by section 9605 of this title: <i>Provided, however</i>, That such costs must be approved under said plan and certified by the responsible Federal official.
 
-&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decidedpursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
+&emsp;(3) Payment of any claim authorized by subsection (b) of this section and finally decided pursuant to section 9612 of this title, including those costs set out in subsection 9612(c)(3) of this title.
 
 &emsp;(4) Payment of costs specified under subsection (c) of this section.
 
@@ -26,7 +26,7 @@ Lead contaminated soil.—Payment of not to exceed $15,000,000 for the costs of 
 
 #### (1) In general
 
-&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 of title 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
+&emsp;Claims asserted and compensable but unsatisfied under provisions of section 1321 oftitle 33, which are modified by section 304 of this Act may be asserted against the Fund under this subchapter; and other claims resulting from a release or threat of release of a hazardous substance from a vessel or a facility may be asserted against the Fund under this subchapter for injury to, or destruction or loss of, natural resources, including cost for damage assessment: <i>Provided, however</i>, That any such claim may be asserted only by the President, as trustee, for natural resources over which the United States has sovereign rights, or natural resources within the territory or the fishery conservation zone of the United States to the extent they are managed or protected by the United States, or by any State for natural resources within the boundary of that State belonging to, managed by, controlled by, or appertaining to the State, or by any Indian tribe or by the United States acting on behalf of any Indian tribe for natural resources belonging to, managed by, controlled by, or appertaining to such tribe, or held in trust for the benefit of such tribe, or belonging to a member of such tribe if such resources are subject to a trust restriction on alienation.
 
 #### (2) Limitation on payment of natural resource claims
 
@@ -60,7 +60,7 @@ Evaluation costs under petition provisions of section 9605(d).—Costs incurred 
 
 &emsp;(8)
 
-Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studiesundertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
+Contract costs under section 9604(a)(1).—The costs of contracts or arrangements entered into under section 9604(a)(1) of this title to oversee and review the conduct of remedial investigations and feasibility studies undertaken by persons other than the President and the costs of appropriate Federal and State oversight of remedial activities at National Priorities List sites resulting from consent orders or settlement agreements.
 
 &emsp;(9)
 
@@ -118,7 +118,7 @@ Except in a situation requiring action to avoid an irreversible loss of natural 
 
 #### (j) Use of Post-closure Liability Fund
 
-The President shall use the money in the Post-closure Liability Fund for any of the purposes specified in subsection (a) of this section with respect to a hazardous waste disposal facility for which liability has transferred to such fund under section 9607(k) of this title, and, in addition, for payment of any claim or appropriate request for costs of response, damages, or other compensation for injury or loss under section 9607 of this title or any other State or Federal law, resulting from a release of a hazardous substance from such a facility.
+The President shall use the money in the Post-closure Liability Fund for any of the purposes specified in subsection (a) of this section withrespect to a hazardous waste disposal facility for which liability has transferred to such fund under section 9607(k) of this title, and, in addition, for payment of any claim or appropriate request for costs of response, damages, or other compensation for injury or loss under section 9607 of this title or any other State or Federal law, resulting from a release of a hazardous substance from such a facility.
 
 #### (k) Inspector General
 
@@ -200,6 +200,8 @@ Not later than 90 days after October 17, 1986, the President shall develop and i
 
 (Pub. L. 96–510, title I, §111, Dec. 11, 1980, 94 Stat. 2788; Pub. L. 99–499, title I, §111, title II, §207(d), Oct. 17, 1986, 100 Stat. 1642, 1706; Pub. L. 101–144, title III, Nov. 9, 1989, 103 Stat. 857; Pub. L. 101–508, title VI, §6301, Nov. 5, 1990, 104 Stat. 1388–319.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title II of Public Law 99–160 (relating to payment to the Hazardous Substances Trust Fund), referred to in subsec. (a), is title II of Pub. L. 99–160, Nov. 25, 1985, 99 Stat. 914. Provisions of title II relating to the Hazardous Substance Response Trust Fund are not classified to the Code. For complete classification of this Act to the Code, see Tables.
@@ -269,6 +271,8 @@ Subsec. (i). Pub. L. 99–499, §207(d)(4), inserted "and by the governing body 
 Subsec. (k). Pub. L. 99–499, §111(g), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The Inspector General of each department or agency to which responsibility to obligate money in the Fund is delegated shall provide an audit review team to audit all payments, obligations, reimbursements, or other uses of the Fund, to assure that the Fund is being properly administered and that claims are being appropriately and expeditiously considered. Each such Inspector General shall submit to the Congress an interim report one year after the establishment of the Fund and a final report two years after the establishment of the Fund. Each such Inspector General shall thereafter provide such auditing of the Fund as is appropriate. Each Federal agency shall cooperate with the Inspector General in carrying out this subsection."
 
 Subsecs. (m) to (p). Pub. L. 99–499, §111(h), (i), added subsecs. (m) to (p).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

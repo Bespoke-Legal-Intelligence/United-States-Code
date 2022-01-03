@@ -34,6 +34,8 @@ For purposes of this section—
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5124; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; renumbered §5122 and amended Pub. L. 109–59, title XI, §11125(b)(6), Aug. 10, 2005, 119 Stat. 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5122, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1344; amended Pub. L. 94–455, title XIX, §1905(a)(10), Oct. 4, 1976, 90 Stat. 1819, defined "retail dealer in liquors", "retail dealer in beer", and "limited retail dealer", prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(D), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
@@ -51,6 +53,8 @@ Pub. L. 109–59, §11125(b)(6)(B)(ii), substituted "section 5123" for "section 
 Subsec. (d). Pub. L. 109–59, §11125(b)(6)(B)(iii), redesignated subsec. (c) as (d).
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

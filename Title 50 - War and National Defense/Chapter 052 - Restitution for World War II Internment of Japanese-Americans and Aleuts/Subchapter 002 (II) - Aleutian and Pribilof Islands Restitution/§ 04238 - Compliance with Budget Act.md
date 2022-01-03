@@ -8,9 +8,11 @@ No authority under this subchapter to enter into contracts or to make payments s
 
 &emsp;(3) the provisions of sections 4236 and 4237 of this title,
 
-> shall limit the total benefits conferred to an amount not in excess of the appropriations for such fiscal year. Any provision of this subchapter which, directly or indirectly, authorizes the enactment of new budget authority shall be effective only for fiscal year 1989 and thereafter.
+> shall limit the total benefits conferred to an amount not in excess of the appropriations forsuch fiscal year. Any provision of this subchapter which, directly or indirectly, authorizes the enactment of new budget authority shall be effective only for fiscal year 1989 and thereafter.
 
 (Pub. L. 100–383, title II, §208, Aug. 10, 1988, 102 Stat. 916.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

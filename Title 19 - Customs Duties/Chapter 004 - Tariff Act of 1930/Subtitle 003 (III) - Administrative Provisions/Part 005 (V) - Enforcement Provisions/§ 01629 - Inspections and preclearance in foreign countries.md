@@ -36,7 +36,7 @@ Any person designated to perform the duties of an officer of the Customs Service
 
 #### (1) In general
 
-&emsp;The Secretary of Homeland Security, the United States Trade Representative, and other appropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
+&emsp;The Secretary of Homeland Security, the United States Trade Representative, and otherappropriate Federal officials shall work through appropriate international organizations including the World Customs Organization (WCO), the World Trade Organization (WTO), the International Maritime Organization, and the Asia-Pacific Economic Cooperation, to align, to the extent practicable, customs procedures, standards, requirements, and commitments in order to facilitate the efficient flow of international trade.
 
 #### (2) United States Trade Representative
 
@@ -86,6 +86,8 @@ Any person designated to perform the duties of an officer of the Customs Service
 
 (June 17, 1930, ch. 497, title IV, §629, as added Pub. L. 99–570, title III, §3128, Oct. 27, 1986, 100 Stat. 3207–89; amended Pub. L. 108–7, div. J, title I, §127(c), Feb. 20, 2003, 117 Stat. 441; Pub. L. 108–429, title I, §1561(b), (c), Dec. 3, 2004, 118 Stat. 2581, 2582; Pub. L. 109–280, title XIV, §1635(f)(1), Aug. 17, 2006, 120 Stat. 1171; Pub. L. 109–347, title IV, §404, Oct. 13, 2006, 120 Stat. 1928.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–280 substituted "ensuring" for "insuring".
@@ -110,9 +112,11 @@ Subsec. (e). Pub. L. 108–7, §127(c)(3), which directed substitution of "such 
 
 Subsec. (g). Pub. L. 108–7, §127(c)(4), which directed addition of subsec. (g) to section 1629 of title 19, was repealed by Pub. L. 108–429, §1561(c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
+Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehousefor consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
 
 #### Authority for the Establishment of Integrated Border Inspection Areas at the United States-Canada Border
 
@@ -126,7 +130,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(2) One concern that has come to light is the vulnerability of the international bridges and tunnels along the United States borders.
 
-&emsp;"(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing thesebridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States.
+&emsp;"(3) It is necessary to ensure that potentially dangerous vehicles are inspected prior to crossing these bridges and tunnels; however, currently these vehicles are not inspected until after they have crossed into the United States.
 
 &emsp;"(4) Establishing Integrated Border Inspection Areas (IBIAs) would address these concerns by inspecting vehicles before they gained access to the infrastructure of international bridges and tunnels joining the United States and Canada.
 

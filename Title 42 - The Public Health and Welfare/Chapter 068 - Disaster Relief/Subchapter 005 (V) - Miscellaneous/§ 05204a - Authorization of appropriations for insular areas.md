@@ -10,6 +10,8 @@ There are hereby authorized to be appropriated to the Secretary such sums as may
 
 (Pub. L. 102–247, title II, §202, Feb. 24, 1992, 106 Stat. 37.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Omnibus Insular Areas Act of 1992, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.

@@ -68,6 +68,8 @@ In this section:
 
 (Pub. L. 116–113, title VI, §611, Jan. 29, 2020, 134 Stat. 79.)
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 Proc. No. 10053, par. (14), June 29, 2020, 85 F.R. 39826, authorized the United States Trade Representative to exercise the function assigned to the President under subsec. (a) of this section to consult with the appropriate congressional committees and stakeholders regarding joint reviews under article 34.7 of the USMCA.

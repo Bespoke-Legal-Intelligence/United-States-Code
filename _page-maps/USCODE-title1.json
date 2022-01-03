@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title1",
- "package": "USCODE-2020-title1",
+ "package": "USCODE-2021-title1",
  "pieces": [
   {
    "id": "1_",
@@ -39,21 +39,17 @@
    "id": "1_1",
    "marks": [
     [
-     "I",
-     86,
-     [
-      [
-       320,
-       "[Page 3]"
-      ]
-     ]
+     "L",
+     88,
+     "[Page 3]",
+     true
     ],
     [
      "I",
      162,
      [
       [
-       107,
+       166,
        "[Page 4]"
       ]
      ]
@@ -114,10 +110,14 @@
    "id": "1_7",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 5]",
-     true
+     "I",
+     2,
+     [
+      [
+       185,
+       "[Page 5]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 001 - Rules of Construction/§ 00007 - Definition of marriage and spouse.md",
@@ -182,60 +182,53 @@
   },
   {
    "id": "1_105",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       112,
+       "[Page 6]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00105 - Title of appropriation Acts.md",
    "printed_pages": [
     5,
-    5
+    6
    ]
   },
   {
    "id": "1_106",
    "marks": [
     [
-     "I",
-     2,
-     [
-      [
-       471,
-       "[Page 6]"
-      ]
-     ]
+     "L",
+     60,
+     "[Page 7]",
+     true
     ],
     [
      "I",
-     68,
+     170,
      [
       [
-       397,
-       "[Page 7]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     184,
-     [
-      [
-       259,
+       156,
        "[Page 8]"
       ]
      ]
     ],
     [
-     "I",
-     286,
-     [
-      [
-       96,
-       "[Page 9]"
-      ]
-     ]
+     "L",
+     276,
+     "[Page 9]",
+     true
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106 - Printing bills and joint resolutions.md",
    "printed_pages": [
-    5,
+    6,
     9
    ]
   },
@@ -243,10 +236,14 @@
    "id": "1_106a",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 10]",
-     true
+     "I",
+     2,
+     [
+      [
+       568,
+       "[Page 10]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00106a - Promulgation of laws.md",
@@ -302,11 +299,22 @@
   },
   {
    "id": "1_111",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       144,
+       "[Page 11]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00111 - Repeals as evidence of prior effectiveness.md",
    "printed_pages": [
     10,
-    10
+    11
    ]
   },
   {
@@ -314,20 +322,10 @@
    "marks": [
     [
      "I",
-     2,
+     42,
      [
       [
-       94,
-       "[Page 11]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     46,
-     [
-      [
-       390,
+       391,
        "[Page 12]"
       ]
      ]
@@ -335,7 +333,7 @@
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112 - Statutes at Large; contents; admissibility in evidence.md",
    "printed_pages": [
-    10,
+    11,
     12
    ]
   },
@@ -344,10 +342,10 @@
    "marks": [
     [
      "I",
-     38,
+     34,
      [
       [
-       168,
+       229,
        "[Page 13]"
       ]
      ]
@@ -363,10 +361,14 @@
    "id": "1_112b",
    "marks": [
     [
-     "L",
-     52,
-     "[Page 14]",
-     true
+     "I",
+     36,
+     [
+      [
+       225,
+       "[Page 14]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 002 - Acts and Resolutions; Formalities of Enactment; Repeals; Sealing of Instruments/§ 00112b - United States international agreements; transmission to Congress.md",
@@ -398,10 +400,10 @@
    "marks": [
     [
      "I",
-     19,
+     8,
      [
       [
-       75,
+       63,
        "[Page 15]"
       ]
      ]
@@ -424,26 +426,30 @@
   },
   {
    "id": "1_202",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     16,
+     [
+      [
+       106,
+       "[Page 16]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00202 - Preparation and publication of Codes and Supplements.md",
    "printed_pages": [
     15,
-    15
+    16
    ]
   },
   {
    "id": "1_203",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 16]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00203 - District of Columbia Code; preparation and publication; cumulative supplements.md",
    "printed_pages": [
-    15,
+    16,
     16
    ]
   },
@@ -452,7 +458,7 @@
    "marks": [
     [
      "L",
-     82,
+     70,
      "[Page 17]",
      true
     ]
@@ -501,11 +507,18 @@
   },
   {
    "id": "1_209",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 18]",
+     true
+    ]
+   ],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00209 - Copies of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; conclusive evidence of original.md",
    "printed_pages": [
     17,
-    17
+    18
    ]
   },
   {
@@ -513,27 +526,16 @@
    "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00210 - Distribution of Supplements to Code of Laws of United States and of District of Columbia Code and Supplements; slip and pamphlet copies.md",
    "printed_pages": [
-    17,
-    17
+    18,
+    18
    ]
   },
   {
    "id": "1_211",
-   "marks": [
-    [
-     "I",
-     2,
-     [
-      [
-       98,
-       "[Page 18]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 003 - Code of Laws of United States and Supplements; District of Columbia Code and Supplements/§ 00211 - Copies to Members of Congress.md",
    "printed_pages": [
-    17,
+    18,
     18
    ]
   },
@@ -556,6 +558,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2020-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2021-title1 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 01 - General Provisions"
 }

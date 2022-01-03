@@ -1,8 +1,12 @@
 ### §437. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Apr. 21, 1948, ch. 224, §2, 62 Stat. 197, authorized Secretary of Agriculture to receive the property transferred by former section 436 of this title and directed the Secretary to administer it to best advance the livestock and agricultural interests of the United States, and was omitted from the Code as obsolete.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization of Appropriations; Abolition of Army Remount Program
 

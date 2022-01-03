@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction
 
-The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued by the Secretary under this chapter.
+The several district courts of the United States are vested with jurisdiction specificallyto enforce, and to prevent and restrain any person from violating, any order or regulation made or issued by the Secretary under this chapter.
 
 #### (b) Referral to Attorney General
 
@@ -53,6 +53,8 @@ A person who fails to obey a cease and desist order after the order has become f
 If a person fails to pay an assessment of a civil penalty after it has become final and unappealable, or after the appropriate United States district court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in any district court in which the person resides or conducts business. In such action, the validity and appropriateness of such civil penalty shall not be subject to review.
 
 (Pub. L. 101–624, title XIX, §1928, Nov. 28, 1990, 104 Stat. 3863; Pub. L. 102–237, title VIII, §803(2), Dec. 13, 1991, 105 Stat. 1882.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

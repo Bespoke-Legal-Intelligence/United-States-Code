@@ -6,7 +6,7 @@ Notwithstanding any other provision of law (including section 407 of this title 
 
 #### (b) Consent to requirements applicable to private person
 
-With respect to notice to withhold income pursuant to subsection (a)(1) or (b) of section 666 of this title, or any other order or process to enforce support obligations against an individual (if the order or process contains or is accompanied by sufficient data to permit prompt identification of the individual and the moneys involved), each governmental entity specified in subsection (a) shall be subject to the same requirements as would apply if the entity were a private person, except as otherwise provided in this section.
+With respect to notice to withhold income pursuant to subsection (a)(1) or (b) of section 666of this title, or any other order or process to enforce support obligations against an individual (if the order or process contains or is accompanied by sufficient data to permit prompt identification of the individual and the moneys involved), each governmental entity specified in subsection (a) shall be subject to the same requirements as would apply if the entity were a private person, except as otherwise provided in this section.
 
 #### (c) Designation of agent; response to notice or process
 
@@ -32,7 +32,7 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 If a governmental entity specified in subsection (a) receives notice or is served with process, as provided in this section, concerning amounts owed by an individual to more than 1 person—
 
-&emsp;(1) support collection under section 666(b) of this title must be given priority over anyother process, as provided in section 666(b)(7) of this title;
+&emsp;(1) support collection under section 666(b) of this title must be given priority over any other process, as provided in section 666(b)(7) of this title;
 
 &emsp;(2) allocation of moneys due or payable to an individual among claimants under section 666(b) of this title shall be governed by section 666(b) of this title and the regulations prescribed under such section; and
 
@@ -72,7 +72,7 @@ Authority to promulgate regulations for the implementation of this section shall
 
 &emsp;&emsp;&emsp;&emsp;(I) under the insurance system established by subchapter II;
 
-&emsp;&emsp;&emsp;&emsp;(II) under any other system or fund established by the United States which provides for the payment of pensions, retirement or retired pay, annuities, dependents' or survivors' benefits, or similar amounts payable on account of personal services performed by the individual or any other individual;
+&emsp;&emsp;&emsp;&emsp;(II) under any other system or fund established by the United States whichprovides for the payment of pensions, retirement or retired pay, annuities, dependents' or survivors' benefits, or similar amounts payable on account of personal services performed by the individual or any other individual;
 
 &emsp;&emsp;&emsp;&emsp;(III) as compensation for death under any Federal program;
 
@@ -156,6 +156,8 @@ For purposes of this section—
 
 (Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (h)(2)(C), is classified generally to Title 26, Internal Revenue Code.
@@ -186,6 +188,8 @@ Subsec. (h)(1)(B)(iii). Pub. L. 105–33, §5542(b)(3), added cl. (iii).
 
 Subsecs. (b) to (f). Pub. L. 95–30, §501(b)(2), added subsecs. (b) to (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
@@ -195,6 +199,8 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 Pub. L. 104–193, title III, §362(d), Aug. 22, 1996, 110 Stat. 2247, provided that: "The amendments made by this section \[amending this section, section 5520a of Title 5, Government Organization and Employees, and section 1408 of Title 10, Armed Forces, and repealing sections 661 and 662 of this title\] shall become effective 6 months after the date of the enactment of this Act \[Aug. 22, 1996\]."
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 11881
 
@@ -278,7 +284,7 @@ Sec. 306. <i>Report on Actions Taken</i>. Within 90 days of the date of this ord
 
 #### PART 4—ADDITIONAL ACTIONS
 
-Sec. 401. <i>Additional Review for the Uniformed Services</i>. (a) In addition to the requirements outlined above, the Secretary of the Department of Defense (DOD) will chair a task force, with participation by the Department of Health and Human Services (HHS), the Department of Commerce, and the Department of Transportation, that shall conduct a full review of current policies and practices within the Uniformed Services to ensure that children of Uniformed Services personnel are provided financial and medical support in the same manner and within the same time frames as is mandated for all other children due such support. This review shall include, but not be limited to, issues related to withholding non-custodial parents' wages, service of legal process, activities to locate parents and their income and assets, release time to attend civil paternity and support proceedings, and health insurance coverage under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS). All relevant existing statutes, including the Soldiers\['\] and Sailors\['\] Civil Relief Act of 1940 \[now Servicemembers Civil Relief Act\] \[50 U.S.C. 3901 et seq.\], the Uniformed Services Former Spouses\['\] Protection Act \[see Short Title of 1982 Amendment note set out under section 1401 of Title 10, Armed Forces\], and the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, see Tables for classification\], shall be reviewed and appropriate legislative modifications shall be identified.
+Sec. 401. <i>Additional Review for the Uniformed Services</i>. (a) In addition to the requirements outlined above, the Secretary of the Department of Defense (DOD) will chair a task force, with participation by the Department of Health and Human Services (HHS), the Department of Commerce, and the Department of Transportation, that shall conduct a full review of current policies and practices within the Uniformed Services to ensure that children of Uniformed Services personnel areprovided financial and medical support in the same manner and within the same time frames as is mandated for all other children due such support. This review shall include, but not be limited to, issues related to withholding non-custodial parents' wages, service of legal process, activities to locate parents and their income and assets, release time to attend civil paternity and support proceedings, and health insurance coverage under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS). All relevant existing statutes, including the Soldiers\['\] and Sailors\['\] Civil Relief Act of 1940 \[now Servicemembers Civil Relief Act\] \[50 U.S.C. 3901 et seq.\], the Uniformed Services Former Spouses\['\] Protection Act \[see Short Title of 1982 Amendment note set out under section 1401 of Title 10, Armed Forces\], and the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, see Tables for classification\], shall be reviewed and appropriate legislative modifications shall be identified.
 
 (b) Within 180 days of the date of this order, DOD shall submit to OMB a report based on this review. The report shall recommend additional policy, regulatory and legislative changes that would improve and enhance the Federal Government's commitment to ensuring parental support for all children.
 
@@ -300,7 +306,7 @@ Sec. 402. <i>Additional Federal Agency Actions</i>. (a) OPM and HHS shall jointl
 
 Sec. 501. <i>Internal Management</i>. This order is intended only to improve the internal management of the executive branch with regard to child support enforcement and shall not be interpreted to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its officers, or any other person.
 
-Sec. 502. <i>Sovereignty of the United States Government</i>. This order is intended only to provide that the FederalGovernment has elected to require Federal agencies to adhere to the same standards as are applicable to all other employers in the Nation and shall not be interpreted as subjecting the Federal Government to any State law or requirement. This order should not be construed as a waiver of the sovereign immunity of the United States Government or of any existing statutory or regulatory provisions, including 42 U.S.C. 659, 662, and 665; 5 CFR Part 581; 42 CFR Part 21, Subpart C; 32 CFR Part 54; and 32 CFR Part 81.
+Sec. 502. <i>Sovereignty of the United States Government</i>. This order is intended only to provide that the Federal Government has elected to require Federal agencies to adhere to the same standards as are applicable to all other employers in the Nation and shall not be interpreted as subjecting the Federal Government to any State law or requirement. This order should not be construed as a waiver of the sovereign immunity of the United States Government or of any existing statutory or regulatory provisions, including 42 U.S.C. 659, 662, and 665; 5 CFR Part 581; 42 CFR Part 21, Subpart C; 32 CFR Part 54; and 32 CFR Part 81.
 
 Sec. 503. <i>Defense and Security.</i>
 

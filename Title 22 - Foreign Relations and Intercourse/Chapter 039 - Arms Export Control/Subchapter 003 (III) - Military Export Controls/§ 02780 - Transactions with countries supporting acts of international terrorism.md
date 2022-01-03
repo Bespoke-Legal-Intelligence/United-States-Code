@@ -10,11 +10,11 @@ The following transactions by the United States Government are prohibited:
 
 &emsp;&emsp;(B) shall terminate any lease or loan to such country of any such item which is in effect at the time the Secretary of State makes that determination.
 
-&emsp;(2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except as provided in subsection (h)), with respect to the acquisition of any munitions item by a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d). The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
+&emsp;(2) Providing credits, guarantees, or other financial assistance under the authority of this chapter, the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other law (except asprovided in subsection (h)), with respect to the acquisition of any munitions item by a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend expenditures pursuant to any such assistance obligated before the Secretary of State makes the determination described in subsection (d). The President may authorize expenditures otherwise required to be suspended pursuant to the preceding sentence if the President has determined, and reported to the Congress, that suspension of those expenditures causes undue financial hardship to a supplier, shipper, or similar person and allowing the expenditure will not result in any munitions item being made available for use by such country.
 
 &emsp;(3) Consenting under section 2753(a) of this title, under section 505(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2314(a)\], under the regulations issued to carry out section 2778 of this title, or under any other law (except as provided in subsection (h)), to any transfer of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall withdraw any such consent which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been transferred to such country.
 
-&emsp;(4) Providing any license or other approval under section 2778 of this title for any exportor other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
+&emsp;(4) Providing any license or other approval under section 2778 of this title for any export or other transfer (including by means of a technical assistance agreement, manufacturing licensing agreement, or coproduction agreement) of any munitions item to a country described in subsection (d). In implementing this paragraph, the United States Government shall suspend any such license or other approval which is in effect at the time the Secretary of State makes the determination described in subsection (d), except that this sentence does not apply with respect to any item that has already been exported or otherwise transferred to such country.
 
 &emsp;(5) Otherwise facilitating the acquisition of any munitions item by a country described in subsection (d). This paragraph applies with respect to activities undertaken—
 
@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
+The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclearexplosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
 
 #### (e) Publication of determinations
 
@@ -184,7 +184,7 @@ The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96
 
 <b>2010</b>—Subsec. (j). Pub. L. 111–195 substituted "20 years" for "10 years".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
+<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abetthe efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
 
 <b>1999</b>—Subsec. (k). Pub. L. 106–113 inserted "section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that" after "except that".
 
@@ -202,7 +202,7 @@ Prohibition.—Except as provided in subsection (b) of this section, items on th
 
 "(b)
 
-Waiver.—The President may waive the prohibition contained in subsection (a) of this section in thecase of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver."
+Waiver.—The President may waive the prohibition contained in subsection (a) of this section in the case of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

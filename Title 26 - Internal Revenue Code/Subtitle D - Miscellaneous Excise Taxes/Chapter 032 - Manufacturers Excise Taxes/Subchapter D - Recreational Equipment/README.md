@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–44, title II, §205(b), June 21, 1965, 79 Stat. 140, struck out item relating to part II.

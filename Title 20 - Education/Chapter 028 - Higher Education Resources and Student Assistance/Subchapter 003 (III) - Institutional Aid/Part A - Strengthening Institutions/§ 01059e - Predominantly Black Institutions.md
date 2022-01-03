@@ -20,7 +20,7 @@ In this section:
 
 &emsp;&emsp;(D) is legally authorized to provide, and provides, within the State an educational program for which the institution of higher education awards a baccalaureate degree or, in the case of a junior or community college, an associate's degree;
 
-&emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency or association, making reasonable progress toward accreditation; and
+&emsp;&emsp;(E) is accredited by a nationally recognized accrediting agency or association determined by the Secretary to be a reliable authority as to the quality of training offered or is, according to such an agency orassociation, making reasonable progress toward accreditation; and
 
 &emsp;&emsp;(F) is not receiving assistance under—
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A Predominantly Black Institution may use not more than 20 percent of the grantfunds provided under this section to establish or increase an endowment fund at the institution.
+&emsp;&emsp;A Predominantly Black Institution may use not more than 20 percent of the grant funds provided under this section to establish or increase an endowment fund at the institution.
 
 #### (B) Matching requirement
 
@@ -176,6 +176,8 @@ No Predominantly Black Institution that receives funds under this section shall 
 
 (Pub. L. 89–329, title III, §318, as added Pub. L. 110–315, title III, §305(a), Aug. 14, 2008, 122 Stat. 3169; amended Pub. L. 111–39, title III, §301(2), July 1, 2009, 123 Stat. 1937.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of March 2, 1867, referred to in subsec. (b)(1)(F)(iii), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
@@ -185,6 +187,8 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2
 #### Amendments
 
 <b>2009</b>—Subsec. (b)(1)(F). Pub. L. 111–39 added subpar. (F) and struck out former subpar. (F) which read as follows: "is not receiving assistance under part B or part A of subchapter V."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

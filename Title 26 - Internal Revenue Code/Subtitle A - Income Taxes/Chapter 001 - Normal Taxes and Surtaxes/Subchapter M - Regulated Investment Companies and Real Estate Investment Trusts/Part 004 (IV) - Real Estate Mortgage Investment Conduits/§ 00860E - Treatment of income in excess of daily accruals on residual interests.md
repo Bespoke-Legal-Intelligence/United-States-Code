@@ -94,7 +94,7 @@ If a residual interest in a REMIC is held by a real estate investment trust, und
 
 &emsp;The amount of the tax imposed by paragraph (1) on any transfer of a residual interest shall be equal to the product of—
 
-&emsp;&emsp;(A) the amount (determined under regulations) equal to the present value of the total anticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
+&emsp;&emsp;(A) the amount (determined under regulations) equal to the present value of the totalanticipated excess inclusions with respect to such interest for periods after such transfer, multiplied by
 
 &emsp;&emsp;(B) the highest rate of tax specified in section 11(b).
 
@@ -174,6 +174,8 @@ Except as provided in regulations, with respect to any variable contract (as def
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2311; amended Pub. L. 100–647, title I, §1006(t)(13), (15), (16)(B), (17), (23), (26), (27), Nov. 10, 1988, 102 Stat. 3423, 3426, 3427; Pub. L. 104–188, title I, §§1616(b)(10), 1704(h)(1), Aug. 20, 1996, 110 Stat. 1857, 1881; Pub. L. 115–97, title I, §13001(b)(1)(B), Dec. 22, 2017, 131 Stat. 2096; Pub. L. 116–136, div. A, title II, §2303(a)(2)(C), Mar. 27, 2020, 134 Stat. 353.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(3)(B). Pub. L. 116–136 substituted "subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172." for "the 2nd sentence of section 172(b)(2)."
@@ -182,7 +184,7 @@ Except as provided in regulations, with respect to any variable contract (as def
 
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–188, §1616(b)(10)(A), substituted "The" for "Except as provided in paragraph (2), the".
 
-Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out ", except that paragraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies" after "of this subsection", and struck out former par. (2) which read as follows: "
+Subsec. (a)(2). Pub. L. 104–188, §1616(b)(10)(B), (C), redesignated par. (3) as (2), struck out ", except thatparagraph (2) shall be applied separately with respect to each corporation which is a member of such group and to which section 593 applies" after "of this subsection", and struck out former par. (2) which read as follows: "
 
 Exception for certain financial institutions.—Paragraph (1) shall not apply to any organization to which section 593 applies. The Secretary may by regulations provide that the preceding sentence shall not apply where necessary or appropriate to prevent avoidance of tax imposed by this chapter."
 
@@ -207,6 +209,8 @@ Subsec. (d). Pub. L. 100–647, §1006(t)(23), inserted at end "Rules similar to
 Subsec. (e). Pub. L. 100–647, §1006(t)(16)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, §1006(t)(26), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

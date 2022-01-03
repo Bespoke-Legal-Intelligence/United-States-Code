@@ -28,6 +28,8 @@ The Office of Science and Technology Policy shall prepare an annual report setti
 
 (Pub. L. 100–697, §3, Nov. 19, 1988, 102 Stat. 4614; Pub. L. 116–260, div. Z, title VII, §7002(n)(2), Dec. 27, 2020, 134 Stat. 2576.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (d). Pub. L. 116–260 struck out ", with the assistance of the National Critical Materials Council as specified in the National Critical Materials Act of 1984 (30 U.S.C. 1801 et seq.)," after "Policy".

@@ -10,7 +10,7 @@
 
 #### (b) Scope of judicial review
 
-Judicial review of the interim consumer product safety standard established in subsection (a), as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review, any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
+Judicial review of the interim consumer product safety standard established in subsection (a), as such standard is in effect on and after the last day of the 60-day period specified in such subsection, shall be limited solely to the issue of whether any changes made by the Commission under paragraph (1) are technical, nonsubstantive changes. For purposes of such review,any change made by the Commission under paragraph (1) which requires that any test to determine the flame spread rating of cellulose insulation shall include a correction for variations in test results caused by equipment used in the test shall be considered a technical, nonsubstantive change.
 
 #### (c) Enforcement; violations; promulgation of final standard; procedures applicable to promulgation; revision of interim standard; procedures applicable to revision
 
@@ -46,7 +46,7 @@ Judicial review of the interim consumer product safety standard established in s
 
 &emsp;(ii) implementation of such amendment will create an undue burden upon persons who are subject to the interim consumer product safety standard.
 
-(G) The provisions of section 2060 of this title shall not apply to any judicial review of any amendment to the interim product safety standard promulgated under this paragraph.
+(G) The provisions of section 2060 of this title shall not apply to any judicial review of anyamendment to the interim product safety standard promulgated under this paragraph.
 
 #### (d) Reporting requirements of other Federal departments, agencies, etc., of violations
 
@@ -74,6 +74,8 @@ There are authorized to be appropriated, for each of the fiscal years 1978, 1979
 
 (Pub. L. 92–573, §35, as added Pub. L. 95–319, §3(a), July 11, 1978, 92 Stat. 386; amended Pub. L. 103–437, §5(c)(2), Nov. 2, 1994, 108 Stat. 4582; Pub. L. 110–314, title II, §235(c)(3), (5), Aug. 14, 2008, 122 Stat. 3074, 3075.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c)(2)(D)(iii). Pub. L. 110–314, §235(c)(3), substituted "the appropriate Congressional committees" for "the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives".
@@ -81,6 +83,8 @@ There are authorized to be appropriated, for each of the fiscal years 1978, 1979
 Subsec. (e)(1). Pub. L. 110–314, §235(c)(5), substituted "the appropriate Congressional committees" for "the Committee on Commerce, Science, and Transportation of the Senate and to the Committee on Energy and Commerce of the House of Representatives".
 
 <b>1994</b>—Subsecs. (c)(2)(D)(iii), (e)(1). Pub. L. 103–437 substituted "Committee on Energy and Commerce" for "Committee on Interstate and Foreign Commerce".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Statement of Findings and Purpose
 

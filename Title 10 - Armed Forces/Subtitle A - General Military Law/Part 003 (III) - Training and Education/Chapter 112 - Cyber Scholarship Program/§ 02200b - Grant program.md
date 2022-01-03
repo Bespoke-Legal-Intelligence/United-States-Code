@@ -18,6 +18,8 @@ Purposes.—The proceeds of grants under this section may be used by an institut
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–235; amended Pub. L. 115–91, div. A, title XVI, §1649(d)(1)(D), Dec. 12, 2017, 131 Stat. 1753.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Subsec. (a). Pub. L. 115–91 substituted "cyber disciplines" for "information assurance disciplines".

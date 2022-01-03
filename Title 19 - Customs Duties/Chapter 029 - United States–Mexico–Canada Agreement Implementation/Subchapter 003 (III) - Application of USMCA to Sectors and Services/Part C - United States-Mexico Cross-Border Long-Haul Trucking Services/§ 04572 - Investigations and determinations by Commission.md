@@ -6,7 +6,7 @@ Upon the filing of a petition by an interested party described in subparagraph (
 
 &emsp;(1) whether a request by a person of Mexico to receive a grant of authority that is pending as of the date of the filing of the petition threatens to cause material harm to a United States long-haul trucking services industry;
 
-&emsp;(2) whether a person of Mexico who has received a grant of authority on or after thedate of entry into force of the USMCA and retains such grant of authority is causing or threatens to cause material harm to a United States long-haul trucking services industry; or
+&emsp;(2) whether a person of Mexico who has received a grant of authority on or after the date of entry into force of the USMCA and retains such grant of authority is causing or threatens to cause material harm to a United States long-haul trucking services industry; or
 
 &emsp;(3) whether, with respect to a person of Mexico who has received a grant of authority before the date of entry into force of the USMCA and retains such grant of authority, there has been a change in circumstances such that such person of Mexico is causing or threatens to cause material harm to a United States long-haul trucking services industry.
 
@@ -69,6 +69,8 @@ The Commission shall promulgate regulations to provide access to confidential bu
 For purposes of this part, the provisions of paragraphs (1), (2), and (3) of section 1330(d) of this title shall be applied with respect to determinations and findings made under this section as if such determinations and findings were made under section 2252 of this title.
 
 (Pub. L. 116–113, title III, §322, Jan. 29, 2020, 134 Stat. 55.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

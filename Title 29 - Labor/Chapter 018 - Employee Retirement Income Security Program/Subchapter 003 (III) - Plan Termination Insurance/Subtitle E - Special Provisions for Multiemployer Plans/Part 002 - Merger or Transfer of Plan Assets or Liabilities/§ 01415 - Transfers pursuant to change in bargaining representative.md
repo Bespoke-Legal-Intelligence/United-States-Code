@@ -20,7 +20,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 &emsp;(B) notify the plan sponsor of the new plan of the benefits, assets, and liabilities which will be transferred to the new plan.
 
-(3) Within 60 days after receipt of the notice described in paragraph (2)(B), the new plan mayfile an appeal with the corporation to prevent the transfer. The transfer shall not be made if the corporation determines that the new plan would suffer substantial financial harm as a result of the transfer. Upon notification described in paragraph (2), if—
+(3) Within 60 days after receipt of the notice described in paragraph (2)(B), the new plan may file an appeal with the corporation to prevent the transfer. The transfer shall not be made if the corporation determines that the new plan would suffer substantial financial harm as a result of the transfer. Upon notification described in paragraph (2), if—
 
 &emsp;(A) the employer fails to object to the transfer within 60 days after receipt of the notice described in paragraph (2)(A), or
 
@@ -34,7 +34,7 @@ In any case in which an employer has completely or partially withdrawn from a mu
 
 #### (c) Reduction of amount of withdrawal liability of employer upon transfer of appropriate amount of assets and liabilities by plan sponsor of old plan to new plan
 
-If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section) with respect to the old plan shall be reduced by the amount by which—
+If the plan sponsor of the old plan transfers the appropriate amount of assets and liabilities under this section to the new plan, then the amount of the employer's withdrawal liability (as determined under section 1381(b) of this title without regard to such transfer and this section)with respect to the old plan shall be reduced by the amount by which—
 
 &emsp;(1) the value of the unfunded vested benefits allocable to the employer which were transferred by the plan sponsor of the old plan to the new plan, exceeds
 

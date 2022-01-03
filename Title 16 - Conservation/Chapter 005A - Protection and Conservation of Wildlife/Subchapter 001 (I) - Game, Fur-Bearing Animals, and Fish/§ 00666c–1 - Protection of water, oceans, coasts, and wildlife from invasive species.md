@@ -74,7 +74,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(v) the National Park Service;
 
-&emsp;&emsp;(C) the Secretary of Agriculture, with respect to Federal land administered by the Secretary of Agriculture through the Forest Service; and
+&emsp;&emsp;(C) the Secretary of Agriculture, with respect to Federal land administered by theSecretary of Agriculture through the Forest Service; and
 
 &emsp;&emsp;(D) the head or a representative of any other Federal agency the duties of whom require planning relating to, and the treatment of, invasive species for the purpose of protecting water and wildlife on land and coasts and in oceans and water.
 
@@ -277,6 +277,8 @@ There are authorized to be appropriated to carry out this section for each of fi
 &emsp;(2) $2,500,000 to the Secretary of the Interior.
 
 (Mar. 10, 1934, ch. 55, §10, as added Pub. L. 116–9, title VII, §7001(b)(2)(B), Mar. 12, 2019, 133 Stat. 779; amended Pub. L. 116–188, title I, §105, Oct. 30, 2020, 134 Stat. 916.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

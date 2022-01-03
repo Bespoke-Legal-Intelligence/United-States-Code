@@ -26,6 +26,8 @@ Subsection (b) does not apply to the free dissemination of new varieties of seed
 
 (Pub. L. 103–354, title III, §307, as added Pub. L. 110–234, title VII, §7408, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7408, June 18, 2008, 122 Stat. 1664, 2013; amended Pub. L. 113–79, title VII, §7605, Feb. 7, 2014, 128 Stat. 912.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -33,6 +35,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–79 made technical amendment to directory language of Pub. L. 110–246, §7408, which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

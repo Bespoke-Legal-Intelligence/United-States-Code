@@ -114,11 +114,11 @@ The Administrator is authorized to—
 
 &emsp;(3) make or enter into contracts to make payments to institutions of higher education for loans, not to exceed $2,500 per academic year for any individual who is enrolled on a full-time basis in an undergraduate or graduate program of fire research or engineering which is certified by the Superintendent. Loans under this paragraph shall be made on such terms and subject to such conditions as the Superintendent and each institution involved may jointly determine; and
 
-&emsp;(4) establish and maintain a placement and promotion opportunities center in cooperation with the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
+&emsp;(4) establish and maintain a placement and promotion opportunities center in cooperationwith the fire services, for firefighters who wish to learn and take advantage of different or better career opportunities. Such center shall not limit such assistance to students and graduates of the Academy, but shall undertake to assist all fire service personnel.
 
 #### (j) Board of Visitors
 
-Upon establishment of the Academy, the Administrator of FEMA shall establish a procedure for the selection of professionals in the field offire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Administrator of FEMA shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Administrator of FEMA may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Administrator of FEMA regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
+Upon establishment of the Academy, the Administrator of FEMA shall establish a procedure for the selection of professionals in the field of fire safety, fire prevention, fire control, research and development in fire protection, treatment and rehabilitation of fire victims, or local government services management to serve as members of a Board of Visitors for the Academy. Pursuant to such procedure, the Administrator of FEMA shall select eight such persons to serve as members of such Board of Visitors to serve such terms as the Administrator of FEMA may prescribe. The function of such Board shall be to review annually the program of the Academy and to make comments and recommendations to the Administrator of FEMA regarding the operation of the Academy and any improvements therein which such Board deems appropriate. Each member of such Board shall be reimbursed for any expenses actually incurred by him in the performance of his duties as a member of such Board.
 
 #### (k) Accreditation
 
@@ -162,6 +162,8 @@ In the first annual report filed pursuant to section 2215 of this title for whic
 
 (Pub. L. 93–498, §7, Oct. 29, 1974, 88 Stat. 1537; Pub. L. 106–503, title I, §110(a)(2)(B)(ii), Nov. 13, 2000, 114 Stat. 2302; Pub. L. 108–169, title II, §204(a), (d), Dec. 6, 2003, 117 Stat. 2039; Pub. L. 110–376, §4(a)–(c), Oct. 8, 2008, 122 Stat. 4057, 4058; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsecs. (a), (b), (g), (j). Pub. L. 112–239 substituted "Administrator of FEMA" for "Director" wherever appearing.
@@ -194,13 +196,13 @@ Subsec. (l). Pub. L. 108–169, §204(d), inserted at end "The Superintendent sh
 
 <b>2000</b>—Subsecs. (a), (b), (g), (j). Pub. L. 106–503 substituted "Director" for "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
-
-Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
 #### Consultation on Fire Academy Classes
 
@@ -217,4 +219,10 @@ Pub. L. 108–169, title II, §204(c), Dec. 6, 2003, 117 Stat. 2039, provided th
 #### Limitations on Authority of Superintendent of Fire Academy; Exclusive Control and Direction of United States Fire Administrator
 
 Pub. L. 101–507, title III, Nov. 5, 1990, 104 Stat. 1377, provided that: "The Superintendent of the Fire Academy, in exercising the powers and authority provided by section 7 of the Federal Fire Prevention Control Act of 1974 \[15 U.S.C. 2206\], shall be subject to the exclusive direction of the Administrator, United States Fire Administration: <i>Provided</i>, That all funds appropriated by this or any other Act, with respect for any fiscal year, or otherwise made available, for the National Fire Academy in Emmitsburg, Maryland, or any Fire Academy field programs, shall be placed under the exclusive control of the United States Fire Administration."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

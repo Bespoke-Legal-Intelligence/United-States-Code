@@ -22,7 +22,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) a substance intended for final crystallization, purification, or salt formation, or any combination of those activities, to become a substance or mixture described in subparagraph (A).
 
-&emsp;(3) The term "adjustment factor" means a factor applicable to a fiscal year that is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2011.
+&emsp;(3) The term "adjustment factor" means a factor applicable to a fiscal year that is theConsumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by such Index for October 2011.
 
 &emsp;(4) The term "affiliate" means a business entity that has a relationship with a second business entity if, directly or indirectly—
 
@@ -98,7 +98,7 @@ For purposes of this subpart:
 
 &emsp;(10) The term "positron emission tomography drug" has the meaning given to the term "compounded positron emission tomography drug" in section 321(ii) of this title, except that paragraph (1)(B) of such section shall not apply.
 
-&emsp;(11) The term "prior approval supplement" means a request to the Secretary to approve a change in the drug substance, drug product, production process, quality controls, equipment, or facilities covered by an approved abbreviated new drug application when that change has a substantial potential to have an adverse effect on the identity, strength, quality, purity, or potency of the drug product as these factors may relate to the safety or effectiveness of the drug product.
+&emsp;(11) The term "prior approval supplement" means a request to the Secretary to approve a change in the drug substance, drug product, production process, quality controls, equipment, or facilities covered by an approved abbreviated new drug application when thatchange has a substantial potential to have an adverse effect on the identity, strength, quality, purity, or potency of the drug product as these factors may relate to the safety or effectiveness of the drug product.
 
 &emsp;(12) The term "resources allocated for human generic drug activities" means the expenses for—
 
@@ -154,9 +154,9 @@ Pub. L. 115–52, title III, §307, Aug. 18, 2017, 131 Stat. 1027, provided that
 
 #### Finding of 2017 Amendment
 
-Pub. L. 115–52, title III, §301(b), Aug. 18, 2017, 131 Stat. 1020, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–42 and 379j–43of this title and repealing provisions set out as notes under this section and section 379j–43 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–41 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
+Pub. L. 115–52, title III, §301(b), Aug. 18, 2017, 131 Stat. 1020, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[amending this section and sections 379j–42 and 379j–43 of this title and repealing provisions set out as notes under this section and section 379j–43 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–41 et seq.\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 
 #### Finding of 2012 Amendment
 
-Pub. L. 112–144, title III, §301(b), July 9, 2012, 126 Stat. 1008, provided that: "The Congress finds that the fees authorized by the amendments made in this title \[enacting this section and sections 379d–4, 379j–42, and 379j–43 of this title and amending sections 352 and 379d–3 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
+Pub. L. 112–144, title III, §301(b), July 9, 2012, 126 Stat. 1008, provided that: "The Congress finds that the feesauthorized by the amendments made in this title \[enacting this section and sections 379d–4, 379j–42, and 379j–43 of this title and amending sections 352 and 379d–3 of this title\] will be dedicated to human generic drug activities, as set forth in the goals identified for purposes of part 7 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[this subpart\], in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate and the Chairman of the Committee on Energy and Commerce of the House of Representatives, as set forth in the Congressional Record."
 

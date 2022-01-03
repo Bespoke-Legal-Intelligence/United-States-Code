@@ -12,7 +12,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(5) "coastal State" means a State in, or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes;
 
-&emsp;(6) "construction" means any activities conducted at sea to supervise, inspect, actually build, or perform other functions incidental to the building, repairing, or expanding of an ocean thermal energy conversion facility or plantship or any of its components, including but not limited to, piledriving, emplacement of mooring devices, emplacement of cables and pipelines, and deployment of the cold water pipe, and alterations, modifications, or additions to an ocean thermal energy conversion facility or plantship;
+&emsp;(6) "construction" means any activities conducted at sea to supervise, inspect, actually build, or perform other functions incidental tothe building, repairing, or expanding of an ocean thermal energy conversion facility or plantship or any of its components, including but not limited to, piledriving, emplacement of mooring devices, emplacement of cables and pipelines, and deployment of the cold water pipe, and alterations, modifications, or additions to an ocean thermal energy conversion facility or plantship;
 
 &emsp;(7) "facility" means an ocean thermal energy conversion facility;
 
@@ -40,6 +40,8 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 (Pub. L. 96–320, §3, Aug. 3, 1980, 94 Stat. 975; Pub. L. 98–623, title VI, §602(a)(2), (e)(7), Nov. 8, 1984, 98 Stat. 3410, 3412.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in introductory provisions and pars. (4), (8), and (10), was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
@@ -55,6 +57,8 @@ Sections 73 and 74 of the Act of August 27, 1894, as amended, referred to in par
 <b>1984</b>—Par. (11). Pub. L. 98–623, §602(a)(2), substituted "standing, fixed or moored in whole or in part seaward of the highwater mark" for "standing or moored in or beyond the territorial sea of the United States".
 
 Pub. L. 98–623, §602(e)(7), substituted "fresh water" for "freshwater".
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

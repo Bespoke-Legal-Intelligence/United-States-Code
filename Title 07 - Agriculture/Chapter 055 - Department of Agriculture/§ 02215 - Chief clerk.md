@@ -4,11 +4,15 @@ The Secretary of Agriculture shall appoint a chief clerk.
 
 (R.S. §523; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Feb. 10, 1925, ch. 200, 43 Stat. 822.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §523 derived from act May 15, 1862, ch. 72, §4, 12 Stat. 388.
 
 Section was formerly classified to section 519 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

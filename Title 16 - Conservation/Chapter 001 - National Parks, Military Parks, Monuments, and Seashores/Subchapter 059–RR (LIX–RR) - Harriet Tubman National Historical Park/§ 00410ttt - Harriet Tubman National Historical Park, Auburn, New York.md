@@ -38,7 +38,7 @@ In this section:
 
 #### (C) Notice
 
-&emsp;&emsp;Not later than 30 days after the date on which the Secretary makes a determination under subparagraph (B), the Secretary shall publish in the Federal Register notice of the establishment of the historical park.
+&emsp;&emsp;Not later than 30 days after the date on which the Secretary makes a determinationunder subparagraph (B), the Secretary shall publish in the Federal Register notice of the establishment of the historical park.
 
 #### (D) Map
 
@@ -130,9 +130,11 @@ In this section:
 
 (Pub. L. 113–291, div. B, title XXX, §3036, Dec. 19, 2014, 128 Stat. 3780; Pub. L. 114–289, title VI, §601(d), Dec. 16, 2016, 130 Stat. 1491.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Park System Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(1)(A), probably means the National Park Service Organic Act, act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+The National Park System Organic Act (16 U.S.C. 1 et seq.), referred to in subsec. (c)(1)(A), probably means the National Park Service Organic Act, act Aug. 25, 1916, ch. 408, 39 Stat. 535, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1)(B), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

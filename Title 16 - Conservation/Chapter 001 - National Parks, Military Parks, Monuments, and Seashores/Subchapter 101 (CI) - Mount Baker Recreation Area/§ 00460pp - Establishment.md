@@ -14,13 +14,17 @@ The Secretary of Agriculture shall, as soon as practicable after July 3, 1984, f
 
 #### (d) Administration
 
-The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best provide for (1) publicoutdoor recreation (including but not limited to snowmobile use); (2) conservation of scenic, natural, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of natural resources on federally owned lands within the recreation area which are compatible with and which do not significantly impair the purposes for which the recreation area is established.
+The Secretary shall administer the recreation area in accordance with the laws, rules and regulations applicable to the national forests in such manner as will best provide for (1) public outdoor recreation (including but not limited to snowmobile use); (2) conservation of scenic, natural, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of natural resources on federally owned lands within the recreation area which are compatible with and which do not significantly impair the purposes for which the recreation area is established.
 
 (Pub. L. 98–339, §7, July 3, 1984, 98 Stat. 304.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This subchapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 98–339, July 3, 1984, 98 Stat. 299, known as the Washington State Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 98–339, July 3,1984, 98 Stat. 299, known as the Washington State Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

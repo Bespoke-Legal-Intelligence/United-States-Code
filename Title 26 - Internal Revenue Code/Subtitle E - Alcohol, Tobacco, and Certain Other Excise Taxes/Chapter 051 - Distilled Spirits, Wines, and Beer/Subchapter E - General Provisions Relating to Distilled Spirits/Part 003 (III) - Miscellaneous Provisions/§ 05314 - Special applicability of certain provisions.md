@@ -54,6 +54,8 @@
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1375; amended Pub. L. 94–455, title XIX, §§1905(a)(18), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1820, 1834; Pub. L. 115–141, div. U, title IV, §401(a)(245), Mar. 23, 2018, 132 Stat. 1195.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5314, act Aug. 16, 1954, ch. 736, 68A Stat. 659, related to officers and agents authorized to investigate, issue search warrants, and prosecute for violations, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5557 of this title.
@@ -67,6 +69,8 @@ Provisions similar to those comprising subsec. (a)(2) of this section were conta
 <b>1976</b>—Subsec. (a)(2). Pub. L. 94–455, §1905(a)(18), substituted "section 5001(a)(10)" for "section 5001(a)(4)".
 
 Subsec. (b)(2), (3). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

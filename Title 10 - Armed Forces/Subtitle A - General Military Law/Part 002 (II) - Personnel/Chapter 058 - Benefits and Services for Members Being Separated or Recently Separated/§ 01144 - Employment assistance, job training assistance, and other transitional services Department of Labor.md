@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
+In General.—(1) The Secretary of Labor, in conjunction with the Secretary of Defense,the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Subject to subsection (f)(2), such services shall be provided to a member within the time periods provided under paragraph (3) of section 1142(a) of this title, except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
 (2) The Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs shall cooperate with the Secretary of Labor in establishing and maintaining the program under this section.
 
@@ -56,7 +56,7 @@ Use of Personnel and Organizations.—In carrying out the program established un
 
 &emsp;(5) enter into contracts with public entities;
 
-&emsp;(6) enter into contracts with private entities, particularly with qualified private entities that have experience with instructing members of the armed forces eligible for assistance under the program carried out under this section on—
+&emsp;(6) enter into contracts with private entities, particularly with qualified private entities that have experience with instructingmembers of the armed forces eligible for assistance under the program carried out under this section on—
 
 &emsp;&emsp;(A) private sector culture, resume writing, career networking, and training on job search technologies;
 
@@ -103,6 +103,8 @@ Program Contents.—(1) The program carried out under this section shall consist
 &emsp;(B) in addition to such training and instruction required during such time periods.
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1553; amended Pub. L. 102–190, div. A, title X, §1061(a)(6), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. D, title XLIV, §§4462(c), 4469, Oct. 23, 1992, 106 Stat. 2740, 2752; Pub. L. 103–337, div. A, title V, §543(b), Oct. 5, 1994, 108 Stat. 2769; Pub. L. 107–103, title III, §302(b), Dec. 27, 2001, 115 Stat. 992; Pub. L. 107–107, div. A, title X, §1048(e)(1), Dec. 28, 2001, 115 Stat. 1227; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–56, title II, §§221(a), 224, 225, Nov. 21, 2011, 125 Stat. 715, 718; Pub. L. 113–66, div. A, title V, §521(a), Dec. 26, 2013, 127 Stat. 755; Pub. L. 114–92, div. A, title V, §553, Nov. 25, 2015, 129 Stat. 823; Pub. L. 114–328, div. A, title V, §§563, 564(a), Dec. 23, 2016, 130 Stat. 2138; Pub. L. 115–232, div. A, title V, §§552(b)(1), 553(b)(1), Aug. 13, 2018, 132 Stat. 1770, 1772.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,8 @@ Subsec. (e)(2). Pub. L. 102–484, §4469(2), substituted "$6,500,000 for each o
 Subsec. (b)(3). Pub. L. 102–190, §1061(a)(6)(B), substituted "veterans' service organizations" for "veterans service organization" and "armed forces" for "Armed Forces".
 
 Subsec. (b)(6). Pub. L. 102–190, §1061(a)(6)(C), substituted "those areas" for "such area".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 
@@ -234,7 +238,7 @@ Pub. L. 115–232, div. A, title V, §552(b)(2), Aug. 13, 2018, 132 Stat. 1771, 
 
 #### Deadline for Implementation
 
-Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried outunder section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
+Pub. L. 114–328, div. A, title V, §564(b), Dec. 23, 2016, 130 Stat. 2138, provided that: "The program carried out under section 1144 of title 10, United States Code, shall satisfy the requirements of subsection (b)(11) of such section (as added by subsection (a) of this section) by not later than 180 days after the date of the enactment of this Act \[Dec. 23, 2016\]."
 
 #### Enhancement of Information Provided to Members of the Armed Forces and Veterans Regarding Use of Post-9/11 Educational Assistance and Federal Financial Aid Through Transition Assistance Program
 

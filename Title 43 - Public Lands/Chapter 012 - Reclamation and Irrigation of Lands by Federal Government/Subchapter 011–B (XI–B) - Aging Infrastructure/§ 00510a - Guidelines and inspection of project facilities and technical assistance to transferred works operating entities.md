@@ -18,7 +18,7 @@
 
 The Secretary shall use the data collected through the conduct of the inspections under subsection (a)(2) to—
 
-&emsp;(1) provide recommendations to the transferred works operating entities for improvement of operation and maintenance processes, operating procedures including operation guidelines consistent with existing transfercontracts, and structural modifications to those transferred works;
+&emsp;(1) provide recommendations to the transferred works operating entities for improvement of operation and maintenance processes, operating procedures including operation guidelines consistent with existing transfer contracts, and structural modifications to those transferred works;
 
 &emsp;(2) determine an appropriate inspection frequency for such nondam project facilities which shall not exceed 6 years; and
 

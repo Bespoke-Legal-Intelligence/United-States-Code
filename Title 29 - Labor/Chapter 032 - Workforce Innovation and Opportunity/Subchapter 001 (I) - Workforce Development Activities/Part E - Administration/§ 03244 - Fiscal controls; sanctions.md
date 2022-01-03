@@ -80,7 +80,7 @@
 
 &emsp;&emsp;&emsp;(iv) merging the local area into one or more other local areas; or
 
-&emsp;&emsp;&emsp;(v) making such other changes as the Secretary or Governor determines to benecessary to secure compliance with the provision.
+&emsp;&emsp;&emsp;(v) making such other changes as the Secretary or Governor determines to be necessary to secure compliance with the provision.
 
 #### (2) Appeal
 
@@ -146,7 +146,7 @@
 
 #### (e) Immediate termination or suspension of assistance in emergency situations
 
-In emergency situations, if the Secretary determines it is necessary to protect the integrity of the funds or ensure the proper operation of the program or activity involved, the Secretary may immediately terminate or suspend financial assistance, in whole or in part, to the recipient if the recipient is given prompt notice and the opportunity for a subsequent hearing within30 days after such termination or suspension. The Secretary shall not delegate any of the functions or authority specified in this subsection, other than to an officer whose appointment is required to be made by and with the advice and consent of the Senate.
+In emergency situations, if the Secretary determines it is necessary to protect the integrity of the funds or ensure the proper operation of the program or activity involved, the Secretary may immediately terminate or suspend financial assistance, in whole or in part, to the recipient if the recipient is given prompt notice and the opportunity for a subsequent hearing within 30 days after such termination or suspension. The Secretary shall not delegate any of the functions or authority specified in this subsection, other than to an officer whose appointment is required to be made by and with the advice and consent of the Senate.
 
 #### (f) Discrimination against participants
 

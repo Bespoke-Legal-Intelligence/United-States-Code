@@ -30,6 +30,8 @@ The words "armed forces" are substituted for the words "land or naval forces of 
 
 Act Apr. 20, 1871, ch. 22, §3, 17 Stat. 14.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 253 was renumbered section 240c of this title.
@@ -41,6 +43,8 @@ Another section 253 was renumbered section 240c of this title.
 <b>2008</b>—Pub. L. 110–181 amended section generally, substituting provisions directing the President to suppress certain insurrections and domestic violence in a State for provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority.
 
 <b>2006</b>—Pub. L. 109–364 amended section catchline and text generally, substituting provisions authorizing the President to employ the armed forces during a natural disaster or terrorist attack or to suppress an insurrection in a State and requiring notice to Congress during the exercise of such authority for provisions directing the President to suppress certain insurrections and domestic violence in a State.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

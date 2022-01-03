@@ -36,7 +36,7 @@
 
 (f) The provisions of section 2117 of this title apply to boards convened under this section. The Secretary shall determine the procedure to be used by a selection board.
 
-(g) The report of a selection board shall be submitted to the Secretary for review and transmission to the President for approval. When an officer recommended by a board for promotion is not acceptable to the President, the President may remove the name of that officer from the report of the board.
+(g) The report of a selection board shall be submitted to the Secretary for review and transmission to the President for approval. When an officer recommended by a board for promotion isnot acceptable to the President, the President may remove the name of that officer from the report of the board.
 
 (h) The recommendations of a selection board, as approved by the President, constitute a list of selectees from which the promotions of Reserve officers shall be made. An officer on a list of selectees remains thereon until promoted unless removed by the President under section 3749 of this title. If an existing list of selectees has not been exhausted by the time a later list has been approved, all officers remaining on the older list shall be tendered appointments prior to those on the later list.
 

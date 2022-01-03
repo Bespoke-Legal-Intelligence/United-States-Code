@@ -38,7 +38,7 @@ In this subtitle:
 
 &emsp;&emsp;&emsp;(iii)(I) In the case of softwood lumber or a softwood lumber product described in subclause (II), the value that would be determined F.O.B. at the facility where the product underwent the last processing before export.
 
-&emsp;&emsp;&emsp;(II) Softwood lumber or a softwood lumber product described in this subclause is lumber or a product that undergoes the last remanufacturing before export by a manufacturer who—
+&emsp;&emsp;&emsp;(II) Softwood lumber or a softwood lumber product described in this subclause islumber or a product that undergoes the last remanufacturing before export by a manufacturer who—
 
 &emsp;&emsp;&emsp;&emsp;(aa) holds tenure rights provided by the country of export;
 
@@ -98,6 +98,8 @@ In this subtitle:
 
 (June 17, 1930, ch. 497, title VIII, §802, as added Pub. L. 110–246, title III, §3301(a), June 18, 2008, 122 Stat. 1844.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (7), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -105,6 +107,8 @@ The Harmonized Tariff Schedule of the United States, referred to in par. (7), is
 #### Codification
 
 Another section 802 of act June 17, 1930, is classified to section 1681a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

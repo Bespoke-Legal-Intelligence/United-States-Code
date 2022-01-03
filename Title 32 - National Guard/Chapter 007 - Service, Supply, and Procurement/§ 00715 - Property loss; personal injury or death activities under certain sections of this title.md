@@ -28,7 +28,7 @@
 
 (e) Except as provided in subsection (d), no claim may be paid under this section unless the amount tendered is accepted by the claimant in full satisfaction.
 
-(f) Under regulations prescribed by the Secretary concerned, an officer or employee underthe jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
+(f) Under regulations prescribed by the Secretary concerned, an officer or employee under the jurisdiction of the Secretary may settle a claim that otherwise would be payable under this section in an amount not to exceed $25,000. A decision of the officer or employee who makes a final settlement decision under this section may be appealed by the claimant to the Secretary concerned or an officer or employee designated by the Secretary for that purpose.
 
 (g) Notwithstanding any other provision of law, the settlement of a claim under this section is final and conclusive.
 

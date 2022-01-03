@@ -110,7 +110,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(i) provides that the preferred stock will—
 
-&emsp;&emsp;&emsp;&emsp;(I) be repaid not later than the end of the 10-year period beginning on the dateof the capital investment under the Program; or
+&emsp;&emsp;&emsp;&emsp;(I) be repaid not later than the end of the 10-year period beginning on the date of the capital investment under the Program; or
 
 &emsp;&emsp;&emsp;&emsp;(II) at the end of such 10-year period, be subject to such additional terms as the Secretary shall prescribe, which shall include a requirement that the stock shall carry the highest dividend or interest rate payable; and
 
@@ -132,7 +132,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) If the amount of lending by the institution within minority, rural, and urban low-income and underserved communities and to low- and moderate-income borrowers has increased in amount between 200 percent and 400 percent of the amount of the capital investment, the annual payment rate shall not exceed 1.25 percent per annum.
 
-&emsp;&emsp;&emsp;(iii) If the amount of lending by the institution within minority, rural, and urban low-income and underserved communities and to low- and moderate-income borrowers has increased by more than 400 percent of the capital investment, the annual payment rate shall not exceed 0.5 percent per annum.
+&emsp;&emsp;&emsp;(iii) If the amount of lending by the institution within minority, rural, and urban low-income and underserved communities and to low- and moderate-incomeborrowers has increased by more than 400 percent of the capital investment, the annual payment rate shall not exceed 0.5 percent per annum.
 
 #### (7) Contingency of payments based on certain financial criteria
 
@@ -174,7 +174,7 @@ In this section—
 
 #### (2) Set-asides
 
-&emsp;Of the amounts made available under subsection (c)(2), not less than $4,000,000,000 shallbe made available for eligible institutions with total assets of not more than $2,000,000,000 that timely apply to receive a capital investment under the Program, of which not less than $2,000,000,000 shall be made available for eligible institutions with total assets of less than $500,000,000 that timely apply to receive a capital investment under the Program.
+&emsp;Of the amounts made available under subsection (c)(2), not less than $4,000,000,000 shall be made available for eligible institutions with total assets of not more than $2,000,000,000 that timely apply to receive a capital investment under the Program, of which not less than $2,000,000,000 shall be made available for eligible institutions with total assets of less than $500,000,000 that timely apply to receive a capital investment under the Program.
 
 #### (3) Holding of instruments
 
@@ -290,7 +290,7 @@ Notwithstanding the Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.)—
 
 #### (<i>l)</i> Deposit of funds
 
-All funds received by the Secretary in connection with purchases made pursuant this section, including interest payments, dividend payments, and proceeds from the sale of any financial instrument, shall be deposited into the Fund and used to provide financial and technical assistance pursuant to section 4707 of this title, except that subsection (e) of that section shall be waived.
+All funds received by the Secretary in connection with purchases made pursuant this section, including interest payments, dividend payments, and proceeds from the sale of any financial instrument, shall be deposited into theFund and used to provide financial and technical assistance pursuant to section 4707 of this title, except that subsection (e) of that section shall be waived.
 
 #### (m) Direct appropriation
 
@@ -360,7 +360,7 @@ Pub. L. 116–260, div. N, title V, §524, Dec. 27, 2020, 134 Stat. 2089, provid
 
 "(a)
 
-In General.—The Inspector General of the Department of the Treasury shall conduct, supervise, and coordinate audits and investigations of any program established under this subtitle \[subtitle B (§§520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section\] or the amendments made by this subtitle.
+In General.—The Inspector General of the Department of the Treasury shall conduct, supervise, andcoordinate audits and investigations of any program established under this subtitle \[subtitle B (§§520–524) of title V of div. N of Pub. L. 116–260, enacting this section and provisions set out as notes under this section\] or the amendments made by this subtitle.
 
 "(b)
 

@@ -36,6 +36,8 @@ For purposes of this section, the Secretary, working in conjunction with the Sec
 
 (Pub. L. 110–315, title X, §1042, Aug. 14, 2008, 122 Stat. 3489.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Financial Literacy and Education Improvement Act, referred to in subsec. (a), is title V of Pub. L. 108–159, Dec. 4, 2003, 117 Stat. 2003, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9701 of this title and Tables.
@@ -44,13 +46,15 @@ The Financial Literacy and Education Improvement Act, referred to in subsec. (a)
 
 Section was enacted as part of the Higher Education Opportunity Act, and also as part of the Private Student Loan Transparency and Improvement Act of 2008, and not as part of the Financial Literacy and Education Improvement Act which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 Pub. L. 110–315, title X, §1041, Aug. 14, 2008, 122 Stat. 3489, provided that: "As used in this subtitle \[subtitle D (§§1041, 1042) of title X of Pub. L. 110–315, enacting this section\]—
 
 &emsp;"(1) the terms 'covered educational institution', 'private educational lender', and 'private education loan' have the same meanings as in section 140 of the Truth in Lending Act \[15 U.S.C. 1650\], as added by this Act;
 
-&emsp;"(2) the term 'historically Black colleges and universities' means a 'part B institution', within the meaning of section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061))\[sic\]; and
+&emsp;"(2) the term 'historically Black colleges and universities' means a 'part B institution', within themeaning of section 322 of the Higher Education Act of 1965 (20 U.S.C. 1061))\[sic\]; and
 
 &emsp;"(3) the term 'land-grant colleges and universities' has the same meaning as in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103)."
 

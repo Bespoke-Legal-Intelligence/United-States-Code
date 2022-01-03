@@ -18,11 +18,11 @@
 
 &emsp;(8) it is the proper and appropriate role of the Federal Government to undertake research and development, to participate in demonstration programs for wind energy systems, and to assist private industry, other entities, and the general public in hastening the widespread utilization of such systems;
 
-&emsp;(9) the widespread use of wind energy systems to supplement and replace conventional methods for the generation of electricity and mechanical power would have a beneficial effect upon the environment;
+&emsp;(9) the widespread use of wind energy systems to supplement and replace conventional methods for the generation of electricity andmechanical power would have a beneficial effect upon the environment;
 
 &emsp;(10) the evaluation of the performance and reliability of wind energy technologies can be expedited by the testing of prototypes under carefully controlled conditions;
 
-&emsp;(11) innovation and creativity in the development of components and systems for converting wind energy into electricity and mechanical energy can be fostered through encouraging direct contact between the manufacturers of such components and systems andutilities and other persons interested in utilizing such components and systems; and
+&emsp;(11) innovation and creativity in the development of components and systems for converting wind energy into electricity and mechanical energy can be fostered through encouraging direct contact between the manufacturers of such components and systems and utilities and other persons interested in utilizing such components and systems; and
 
 &emsp;(12) consistent with the findings of the Domestic Policy Review on Solar Energy, wind energy can potentially contribute 1.7 quads of energy per year by the year 2000.
 
@@ -35,6 +35,8 @@
 &emsp;(3) to accelerate the growth of a commercially viable and competitive industry to make wind energy systems available to the general public as an option in order to reduce national consumption of fossil fuel.
 
 (Pub. L. 96–345, §2, Sept. 8, 1980, 94 Stat. 1139.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

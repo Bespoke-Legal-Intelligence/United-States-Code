@@ -2,7 +2,7 @@
 
 (a)
 
-Separability.—If any provision of this chapter, or the application of a provision of thischapter to a person or circumstance, is held invalid, the remainder of this chapter and the application of the provision to other persons or circumstances is not affected.
+Separability.—If any provision of this chapter, or the application of a provision of this chapter to a person or circumstance, is held invalid, the remainder of this chapter and the application of the provision to other persons or circumstances is not affected.
 
 (b)
 
@@ -55,6 +55,8 @@ Oct. 9, 1996, Pub. L. 104–264, title IX, §904(d), 110 Stat. 3276.
 In subsection (a), the word "thereby" is omitted as surplus.
 
 In subsection (b)(1), the words "the limitations described in" are omitted as unnecessary.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

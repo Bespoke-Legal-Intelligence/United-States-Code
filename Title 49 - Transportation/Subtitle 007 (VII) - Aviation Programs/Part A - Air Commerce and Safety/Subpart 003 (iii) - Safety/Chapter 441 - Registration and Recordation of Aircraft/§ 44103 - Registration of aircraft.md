@@ -28,7 +28,7 @@ Controlled Substance Violations.—(1) The Administrator may not issue an owner'
 
 Certificates as Evidence.—A certificate of registration issued under this section is—
 
-&emsp;(1) conclusive evidence of the nationality of an aircraft for international purposes, but notconclusive evidence in a proceeding under the laws of the United States; and
+&emsp;(1) conclusive evidence of the nationality of an aircraft for international purposes, but not conclusive evidence in a proceeding under the laws of the United States; and
 
 &emsp;(2) not evidence of ownership of an aircraft in a proceeding in which ownership is or may be in issue.
 
@@ -89,6 +89,8 @@ In subsection (a)(1), the words "On application" are substituted for "upon reque
 In subsection (b)(1)(B), before subclause (i), the words "after the one-year period beginning on the date of the revocation" are substituted for "before the end of such five-year period (but not before the end of the one-year period beginning on the date of such revocation)" for clarity and to eliminate unnecessary words. The words "otherwise meets the requirements of section 44102 of this title" are substituted for "is otherwise eligible for registration under this section" because of the restatement. The words "denial of a certificate" are substituted for "revocation of the certificate" for clarity.
 
 In subsection (c), before clause (1), the words "A certificate of registration" are substituted for "Registration" for clarity. In clause (2), the words "by a particular person" are omitted as surplus.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Aircraft Registration
 

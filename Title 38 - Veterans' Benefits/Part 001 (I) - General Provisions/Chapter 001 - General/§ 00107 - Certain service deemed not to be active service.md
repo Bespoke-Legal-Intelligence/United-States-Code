@@ -40,7 +40,7 @@
 
 #### References in Text
 
-Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in subsec. (b), is section 14of act Oct. 6, 1945, ch. 393, 59 Stat. 543, which enacted section 637 of former Title 10, Army and Air Force, and was omitted from the Code in the revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
+Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in subsec. (b), is section 14 of act Oct. 6, 1945, ch. 393, 59 Stat. 543, which enacted section 637 of former Title 10, Army and Air Force, and was omitted from the Code in the revision and reenactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1.
 
 Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans' Relief, which were repealed and the provisions thereof reenacted as sections 722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
@@ -124,7 +124,7 @@ Section 507(c) of Pub. L. 103–446 provided that: "The amendments made by this 
 
 #### Effective Date of 1966 Amendment
 
-Section 2(b) of Pub. L. 89–641 provided that: "The amendments made by subsection (a) of this section\[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[Oct. 11, 1966\]."
+Section 2(b) of Pub. L. 89–641 provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall take effect on the first day of the second calendar month which begins after the date of enactment of this Act \[Oct. 11, 1966\]."
 
 #### Effective Date of 1961 Amendment
 
@@ -184,7 +184,7 @@ Eligible Persons.—An eligible person is any person who—
 
 &emsp;"(1) served—
 
-&emsp;&emsp;"(A) before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President dated July 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States; or
+&emsp;&emsp;"(A) before July 1, 1946, in the organized military forces of the Government of the Commonwealth of the Philippines, while such forces were in the service of the Armed Forces of the United States pursuant to the military order of the President datedJuly 26, 1941, including among such military forces organized guerrilla forces under commanders appointed, designated, or subsequently recognized by the Commander in Chief, Southwest Pacific Area, or other competent authority in the Army of the United States; or
 
 &emsp;&emsp;"(B) in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 (59 Stat. 538 \[543\])\[enacting section 637 of former Title 10, Army and Air Force\]; and
 
@@ -238,7 +238,7 @@ Administration.—
 
 &emsp;"(1) The Secretary shall promptly issue application forms and instructions to ensure the prompt and efficient administration of the provisions of this section.
 
-&emsp;"(2) The Secretary shall administer the provisions of this section in a manner consistent with applicable provisions of title 38, United States Code, and otherprovisions of law, and shall apply the definitions in section 101 of such title in the administration of such provisions, except to the extent otherwise provided in this section.
+&emsp;"(2) The Secretary shall administer the provisions of this section in a manner consistent with applicable provisions of title 38, United States Code, and other provisions of law, and shall apply the definitions in section 101 of such title in the administration of such provisions, except to the extent otherwise provided in this section.
 
 "(k)
 

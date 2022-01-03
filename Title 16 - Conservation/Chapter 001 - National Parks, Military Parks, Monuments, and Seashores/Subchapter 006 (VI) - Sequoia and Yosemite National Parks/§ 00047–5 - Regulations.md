@@ -4,6 +4,8 @@ After October 27, 1986, no lease may be issued for the purpose of providing hous
 
 (Pub. L. 90–409, §4, as added Pub. L. 99–542, §1(5), Oct. 27, 1986, 100 Stat. 3038; amended Pub. L. 103–437, §6(d)(6), Nov. 2, 1994, 108 Stat. 4583.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

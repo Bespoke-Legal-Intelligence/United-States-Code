@@ -18,7 +18,7 @@ Data shall be made available according to the following guidelines:
 
 &emsp;&emsp;(D) The number of requests for mortgage modifications under the Program that the servicer or lender has denied.
 
-&emsp;(2) Not more than 60 days after each monthly deadline for submission of data by mortgage servicers and lenders participating in the Program, the Secretary shall make data tables available to the public at the individual record level. The Secretary shall issue regulations prescribing—
+&emsp;(2) Not more than 60 days after each monthly deadline for submission of data by mortgage servicers and lenders participating in the Program, the Secretary shall make data tables available to the public at the individual recordlevel. The Secretary shall issue regulations prescribing—
 
 &emsp;&emsp;(A) the procedures for disclosing such data to the public; and
 

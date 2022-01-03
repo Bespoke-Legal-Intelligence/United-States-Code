@@ -178,7 +178,7 @@ The use of Commodity Credit Corporation funds under subsection (c) to provide te
 
 #### (i) Report on program enrollments and assistance
 
-Not later than December 15 of each of calendar years 2019 through 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report containing statistics by State related to enrollments in conservation programs under this chapter, as follows:
+Not later than December 15 of each of calendar years 2019 through 2023, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report containing statistics byState related to enrollments in conservation programs under this chapter, as follows:
 
 &emsp;(1) The annual and current cumulative activity reflecting active agreement and contract enrollment statistics.
 
@@ -216,6 +216,8 @@ Not later than December 15 of each of calendar years 2019 through 2023, the Secr
 
 (Pub. L. 99–198, title XII, §1241, as added Pub. L. 107–171, title II, §2701, May 13, 2002, 116 Stat. 278; amended Pub. L. 108–7, div. N, title II, §§213, 216(c), Feb. 20, 2003, 117 Stat. 545, 546; Pub. L. 108–11, title II, §2106(a), Apr. 16, 2003, 117 Stat. 590; Pub. L. 108–199, div. H, §101, Jan. 23, 2004, 118 Stat. 434; Pub. L. 108–324, div. B, §101(e), Oct. 13, 2004, 118 Stat. 1235; Pub. L. 108–498, §1(a), Dec. 23, 2004, 118 Stat. 4020; Pub. L. 109–171, title I, §§1202(b), 1203(c), Feb. 8, 2006, 120 Stat. 5, 6; Pub. L. 110–234, title II, §§2701–2705, May 22, 2008, 122 Stat. 1071–1074; Pub. L. 110–246, §4(a), title II, §§2701–2705, June 18, 2008, 122 Stat. 1664, 1799–1802; Pub. L. 112–55, div. A, title VII, §716(d)–(f), Nov. 18, 2011, 125 Stat. 582; Pub. L. 113–76, div. A, title VII, §750(b), Jan. 17, 2014, 128 Stat. 42; Pub. L. 113–79, title II, §§2601–2605, Feb. 7, 2014, 128 Stat. 756–759; Pub. L. 115–123, div. F, §60102(b), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title II, §2501, title XII, §12306(g), Dec. 20, 2018, 132 Stat. 4576, 4970.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (c)(2)(A), (g)(1), (i), and (j)(1), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
@@ -250,7 +252,7 @@ Subsec. (a)(1)(A). Pub. L. 115–334, §2501(a)(2)(A), substituted "$12,000,000 
 
 Subsec. (a)(1)(B). Pub. L. 115–334, §12306(g), substituted "covered farmers or ranchers, as defined in section 3835(f)(1) of this title" for "beginning farmers or ranchers and socially disadvantaged farmers or ranchers".
 
-Pub. L. 115–334, §2501(a)(2)(B), substituted "$50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance," for "$33,000,000 for the period of fiscal years 2014 through 2018" and "contract holders" for "retired or retiring owners and operators".
+Pub. L. 115–334, §2501(a)(2)(B), substituted "$50,000,000 for the period of fiscal years 2019 through 2023, including not more than $5,000,000 to provide outreach and technical assistance," for "$33,000,000 for the period offiscal years 2014 through 2018" and "contract holders" for "retired or retiring owners and operators".
 
 Subsec. (a)(2)(F). Pub. L. 115–334, §2501(a)(3), added subpar. (F).
 
@@ -278,7 +280,7 @@ Pub. L. 115–123, §60102(b)(2), substituted "2018 (and fiscal year 2019 in the
 
 Subsec. (g)(1). Pub. L. 115–334, §2501(d)(1), substituted "1 year after December 20, 2018, the Secretary, acting through the Chief of the Natural Resources Conservation Service and the Administrator of the Farm Service Agency, shall" for "January 1, 2012, the Secretary shall" and inserted "annual" after "utilize" and "relevant data on local natural resource concerns, resource inventories, evaluations and reports, recommendations from State technical committees established under section 3861(a) of this title," after "accounting for".
 
-Subsec. (g)(2). Pub. L. 115–334, §2501(d)(2), substituted "that—" for "that", inserted subpar. (A) designationbefore "the formulas" and substituted semicolon for period at end, and added subpars. (B) to (D).
+Subsec. (g)(2). Pub. L. 115–334, §2501(d)(2), substituted "that—" for "that", inserted subpar. (A) designation before "the formulas" and substituted semicolon for period at end, and added subpars. (B) to (D).
 
 Subsec. (h)(1). Pub. L. 115–334, §2501(e)(1), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), added subpar. (B), and realigned margins.
 
@@ -425,6 +427,8 @@ Subsequent fiscal years.—Effective beginning on October 1, 2003, Commodity Cre
 Pub. L. 108–7, §213(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Nothing in this section affects the limit on expenditures for technical assistance imposed by section 714i of title 15."
 
 Subsecs. (c), (d). Pub. L. 108–7, §213(2), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

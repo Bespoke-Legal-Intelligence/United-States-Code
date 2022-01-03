@@ -14,13 +14,17 @@ Application to Certain Faculty Members.—(1) Except as provided in paragraph (2
 
 (2) This section shall not apply with respect to professors, instructors, and lecturers employed at a school of the Air University if the duration of the principal course of instruction offered at that school is less than 10 months.
 
-(Added Pub. L. 101–189, div. A, title XI, §1124(d)(1), Nov. 29, 1989, 103 Stat. 1559, §9021; amended Pub. L. 103–337, div. A, title X, §1070(a)(17), Oct. 5, 1994, 108 Stat. 2856; renumbered §9371, Pub. L. 115–232, div. A, title VIII, §806(b)(16), Aug. 13, 2018, 132 Stat. 1833.)
+(Added Pub. L. 101–189, div. A, title XI, §1124(d)(1), Nov. 29, 1989, 103 Stat. 1559, §9021; amended Pub. L. 103–337, div. A, title X,§1070(a)(17), Oct. 5, 1994, 108 Stat. 2856; renumbered §9371, Pub. L. 115–232, div. A, title VIII, §806(b)(16), Aug. 13, 2018, 132 Stat. 1833.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9021 of this title as this section.
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–337 substituted "after February 27, 1990" for "after the end of the 90-day period beginning on the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

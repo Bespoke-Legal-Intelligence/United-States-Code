@@ -24,7 +24,7 @@ In this chapter:
 
 #### (6) Convention Area
 
-&emsp;The term "Convention Area" means the waters of the Northwest Atlantic Ocean north of 35°00′ N and west of a line extending due north from 35°00′ N and 42°00′ W to 59°00′ N, thence due west to 44°00′ W, and thence due north to the coast of Greenland, and the waters of the Gulf of St. Lawrence, Davis Strait and Baffin Bay south of 78°10′ N.
+&emsp;The term "Convention Area" means the waters of the Northwest Atlantic Ocean north of35°00′ N and west of a line extending due north from 35°00′ N and 42°00′ W to 59°00′ N, thence due west to 44°00′ W, and thence due north to the coast of Greenland, and the waters of the Gulf of St. Lawrence, Davis Strait and Baffin Bay south of 78°10′ N.
 
 #### (7) Council
 
@@ -103,6 +103,8 @@ In this chapter:
 &emsp;The term "transshipment" means the unloading of all or any of the fishery resources on board a fishing vessel to another fishing vessel either at sea or in port.
 
 (Pub. L. 104–43, title II, §210, Nov. 3, 1995, 109 Stat. 381; Pub. L. 105–384, title II, §201(b)(3), Nov. 13, 1998, 112 Stat. 3451; Pub. L. 114–327, title V, §508, Dec. 16, 2016, 130 Stat. 1996.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

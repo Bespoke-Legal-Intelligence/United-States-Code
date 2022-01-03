@@ -4,6 +4,8 @@ Notwithstanding section 3571 of title 18, United States Code, the criminal penal
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 852.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 11908 to 11917 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -14,7 +16,7 @@ Section 11909, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1460; Pub. L. 96–258,
 
 Section 11910, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1461; Pub. L. 96–448, title III, §303(b), Oct. 14, 1980, 94 Stat. 1938; Pub. L. 99–521, §13(d), Oct. 22, 1986, 100 Stat. 2999, related to penalties for unlawful disclosure of information. See sections 11904, 14908, and 16103 of this title.
 
-Section 11911, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1462; Pub. L. 97–261, §19(c), Sept. 20, 1982, 96 Stat. 1121, related to penalties for violations involving issuance of securities, disposition of funds, and restrictions on ownership.
+Section 11911, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1462; Pub. L. 97–261, §19(c), Sept. 20, 1982, 96 Stat. 1121, related to penalties for violations involving issuance ofsecurities, disposition of funds, and restrictions on ownership.
 
 Section 11912, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1462; Pub. L. 96–258, §1(13)(C), June 3, 1980, 94 Stat. 427, related to penalties for violations by persons, not carriers, involving consolidations, mergers, and acquisitions of control.
 
@@ -29,6 +31,8 @@ Section 11915, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1464, related to punish
 Section 11916, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1464, related to conclusiveness of rates in certain prosecutions. See section 14913 of this title.
 
 Section 11917, added Pub. L. 96–454, §9(a), Oct. 15, 1980, 94 Stat. 2021, related to weight-bumping in household goods transportation. See section 14912 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

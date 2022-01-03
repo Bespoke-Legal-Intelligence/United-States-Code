@@ -6,7 +6,7 @@ A principal United States negotiating objective under sections 2111 and 2112 of 
 
 #### (b) Conduct of negotiations on basis of appropriate product sectors of manufacturing
 
-As a means of achieving the negotiating objective set forth in subsection (a), to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on the basis of appropriate product sectors of manufacturing.
+As a means of achieving the negotiating objective set forth in subsection (a), to the extent consistent with the objective of maximizing overall economic benefit to the United States (through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, through the development of fair and equitable market opportunities, and through open and nondiscriminatory world trade), negotiations shall, to the extent feasible be conducted on thebasis of appropriate product sectors of manufacturing.
 
 #### (c) Identification of appropriate product sectors of manufacturing
 
@@ -18,9 +18,13 @@ If the President determines that competitive opportunities in one or more produc
 
 (Pub. L. 93–618, title I, §104, Jan. 3, 1975, 88 Stat. 1984; 1979 Reorg. Plan No. 3, §1(b)(1), eff. Jan. 2, 1980, 44 F.R. 69273, 93 Stat. 1381; Pub. L. 98–573, title III, §306(c)(2)(C)(i), Oct. 30, 1984, 98 Stat. 3012.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–573 inserted "or non-Federal governmental" after "private".
+
+#### <b>Executive Documents</b>
 
 #### Change of Name
 

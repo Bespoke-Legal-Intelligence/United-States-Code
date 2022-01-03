@@ -314,7 +314,7 @@ Pub. L. 87–793, title VI, §1005(c), (d), Oct. 11, 1962, 76 Stat. 867, provide
 
 "(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading 'SENATE' in the Legislative Appropriation Act, 1956, as amended (74 Stat. 304; Public Law 86–568), is amended to read as follows:
 
-" 'No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paidbasic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $18,880 per annum, unless expressly authorized by law.' " \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+" 'No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $18,880 per annum, unless expressly authorized by law.' " \[The paragraph in the Legislative Appropriation Act, 1956, referred to above, was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1960
 
@@ -324,7 +324,7 @@ Pub. L. 86–568, title I, §117(c), (d), July 1, 1960, 74 Stat. 303, provided t
 
 "(d) The paragraph imposing limitations on basic and gross compensation of officers and employees of the Senate appearing under the heading 'SENATE' in the Legislative Appropriation Act, 1956 (69 Stat. 510; Public Law 242, Eighty-fourth Congress), is amended to read as follows:
 
-" 'No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of $17,525 per annum, unless expressly authorized by law.' " \[Prior to this amendment "$8,880" and "$17,525" were, respectively, "$8,880" and "$16,300" per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
+" 'No officer or employee whose compensation is disbursed by the Secretary of the Senate shall be paid basic compensation at a rate in excess of $8,880 per annum, or gross compensation at a rate in excess of$17,525 per annum, unless expressly authorized by law.' " \[Prior to this amendment "$8,880" and "$17,525" were, respectively, "$8,880" and "$16,300" per annum.\] \[The paragraph in the Legislative Appropriation Act, 1956, referred to above was repealed by Pub. L. 90–57, §105(i)(3), July 28, 1967, 81 Stat. 144, eff. Aug. 1, 1967.\]
 
 #### Increase in Compensation of Officers of Senate; Limitations on Basic and Gross Compensation—1958
 

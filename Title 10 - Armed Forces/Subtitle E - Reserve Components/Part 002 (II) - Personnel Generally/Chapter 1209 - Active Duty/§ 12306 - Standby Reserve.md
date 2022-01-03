@@ -6,7 +6,7 @@
 
 &emsp;(1) no unit in the Standby Reserve organized to serve as a unit or any member thereof may be ordered to active duty under section 12301(a) of this title, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough of the required kinds of units in the Ready Reserve that are readily available; and
 
-&emsp;(2) notwithstanding section 12301(a) of this title, no other member in the Standby Reserve may be ordered to active duty as an individual under such section without his consent, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determinesthat there are not enough qualified members in the Ready Reserve in the required category who are readily available.
+&emsp;(2) notwithstanding section 12301(a) of this title, no other member in the Standby Reserve may be ordered to active duty as an individual under such section without his consent, unless the Secretary concerned, with the approval of the Secretary of Defense in the case of a Secretary of a military department, determines that there are not enough qualified members in the Ready Reserve in the required category who are readily available.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 29, §674; Pub. L. 87–651, title I, §130, Sept. 7, 1962, 76 Stat. 514; renumbered §12306 and amended Pub. L. 103–337, div. A, title XVI, §§1662(e)(2), 1675(c)(4), Oct. 5, 1994, 108 Stat. 2992, 3017; Pub. L. 108–375, div. A, title V, §514(d), Oct. 28, 2004, 118 Stat. 1883.)
 
@@ -38,6 +38,8 @@ In subsection (b), the words "to serve" are substituted for the words "for the p
 
 The change is made to conform section 674(a) more closely to the source law for that section, section 206(a) of the Armed Forces Reserve Act of 1952 (66 Stat. 483). Section 206(a) of that Act defined the Standby Reserve in terms of units and members of the reserve components according to their liability to be ordered to active duty. It did not provide authority to order units and members of the Standby Reserve to active duty. This authority was provided by section 233(a) of the Armed Forces Reserve Act of 1952 (66 Stat. 489), which is restated in section 672(a) of title 10. Since the present language of section 674(a) may be interpreted to provide independent authority to order units and members of the Standby Reserve to active duty, it is revised to make clear that this is not the case and that section 672 is the authority for that action.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375, §514(d)(1), substituted "active duty only as provided in section 12301 of this title, but subject to the limitations in subsection (b)" for "active duty (other than for training) only as provided in section 12301 of this title".
@@ -51,6 +53,8 @@ Subsec. (b)(2). Pub. L. 108–375, §514(d)(2)(B), substituted "notwithstanding 
 Subsec. (a). Pub. L. 103–337, §1675(c)(4), substituted "12301" for "672".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–651 substituted "only as provided in section 672 of this title" for "only in time of war, of national emergency declared by Congress, or when otherwise authorized by law".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

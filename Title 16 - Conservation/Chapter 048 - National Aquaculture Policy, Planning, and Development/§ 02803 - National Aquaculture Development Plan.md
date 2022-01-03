@@ -84,7 +84,9 @@ The Secretaries, through the coordinating group, shall undertake a continuing as
 
 &emsp;(6) the identification of the economic, physical, legal, institutional, and social constraints that inhibit the development of aquaculture in the United States.
 
-(Pub. L. 96–362, §4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, §1734, Dec.23, 1985, 99 Stat. 1641; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+(Pub. L. 96–362, §4, Sept. 26, 1980, 94 Stat. 1199; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 99–198, title XVII, §1734, Dec. 23, 1985, 99 Stat. 1641; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -105,6 +107,8 @@ Subsec. (c)(1). Pub. L. 99–198, §1734(3)(A), substituted "Secretary determine
 Subsec. (c)(2)(C). Pub. L. 99–198, §1734(3)(B)–(D), added subpar. (C).
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–561 made technical amendment to reference in original act which appears in text as reference to section 1852 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

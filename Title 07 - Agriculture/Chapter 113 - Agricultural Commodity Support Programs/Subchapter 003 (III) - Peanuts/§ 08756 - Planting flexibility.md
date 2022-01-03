@@ -30,7 +30,7 @@ Paragraphs (1) and (2) of subsection (b) shall not limit the planting of an agri
 
 &emsp;(1) in any region in which there is a history of double-cropping of peanuts with agricultural commodities specified in subsection (b)(3), as determined by the Secretary, in which case the double-cropping shall be permitted;
 
-&emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) on thebase acres for peanuts, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
+&emsp;(2) on a farm that the Secretary determines has a history of planting agricultural commodities specified in subsection (b)(3) on the base acres for peanuts, except that direct payments and counter-cyclical payments shall be reduced by an acre for each acre planted to such an agricultural commodity; or
 
 &emsp;(3) by the producers on a farm that the Secretary determines has an established planting history of a specific agricultural commodity specified in subsection (b)(3), except that—
 
@@ -40,9 +40,13 @@ Paragraphs (1) and (2) of subsection (b) shall not limit the planting of an agri
 
 (Pub. L. 110–234, title I, §1306, May 22, 2008, 122 Stat. 973; Pub. L. 110–246, §4(a), title I, §1306, June 18, 2008, 122 Stat. 1664, 1702.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

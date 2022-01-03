@@ -14,7 +14,7 @@ For the purpose of this section, the population of each State, and the total pop
 
 #### (c) Ratable reduction
 
-If the sums appropriated under section 10403 of this title for any fiscal year and available forgrants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
+If the sums appropriated under section 10403 of this title for any fiscal year and available for grants to States under section 10406(a) of this title are not sufficient to pay in full the total amounts that all States are entitled to receive under subsection (a) for such fiscal year, then the maximum amounts that all States are entitled to receive under subsection (a) for such fiscal year shall be ratably reduced. In the event that additional funds become available for making such grants for any fiscal year during which the preceding sentence is applicable, such reduced amounts shall be increased on the same basis as they were reduced.
 
 #### (d) Reallotment
 
@@ -22,13 +22,15 @@ If, at the end of the sixth month of any fiscal year for which sums are appropri
 
 #### (e) Continued availability of funds
 
-All funds allotted to a State for a fiscal year under this section, and made available to such State in a grant under section 10406(a) of this title, shall remain available for obligation by the State until the end of the following fiscal year. All such funds that are not obligated by the State by the end of the following fiscal year shall be made available to the Secretary for discretionary activities under section 10414 of this title. Such funds shall remain available for obligation, and for expenditure by a recipient of the funds under section 10414 of this title, for not more than 1 year from the date on which the funds are made available to the Secretary.
+All funds allotted to a State for a fiscal year under this section, and made available to such State in a grant under section 10406(a) of this title, shall remain available for obligation by the State until the end of the following fiscal year. All such funds that are not obligated bythe State by the end of the following fiscal year shall be made available to the Secretary for discretionary activities under section 10414 of this title. Such funds shall remain available for obligation, and for expenditure by a recipient of the funds under section 10414 of this title, for not more than 1 year from the date on which the funds are made available to the Secretary.
 
 #### (f) Definition
 
 In subsection (a)(2), the term "State" does not include any jurisdiction specified in subsection (a)(1).
 
 (Pub. L. 98–457, title III, §305, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3488.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

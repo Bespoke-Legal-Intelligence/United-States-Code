@@ -48,7 +48,7 @@
 
 &emsp;Not later than 18 months after April 30, 2015, and following opportunity for public notice and comment, the Secretary of Energy, in coordination with other relevant agencies, shall maintain, and if necessary create, a database for the purpose of storing and making available public energy-related information on commercial and multifamily buildings, including—
 
-&emsp;&emsp;(A) data provided under Federal, State, local, and other laws or programs regarding building benchmarking and energy information disclosure;
+&emsp;&emsp;(A) data provided under Federal, State, local, and other laws or programs regardingbuilding benchmarking and energy information disclosure;
 
 &emsp;&emsp;(B) information on buildings that have disclosed energy ratings and certifications; and
 
@@ -67,6 +67,8 @@ The Secretary of Energy shall seek input from stakeholders to maximize the effec
 Not later than 2 years after April 30, 2015, and every 2 years thereafter, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and Committee on Energy and Natural Resources of the Senate a report on the progress made in complying with this section.
 
 (Pub. L. 114–11, title III, §301, Apr. 30, 2015, 129 Stat. 189.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

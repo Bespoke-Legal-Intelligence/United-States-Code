@@ -4,9 +4,13 @@ There shall be a joint congressional committee known as the Joint Committee on T
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 925; Pub. L. 94–455, title XIX, §1907(a)(1), Oct. 4, 1976, 90 Stat. 1835.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "Internal Revenue" after "Committee on".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

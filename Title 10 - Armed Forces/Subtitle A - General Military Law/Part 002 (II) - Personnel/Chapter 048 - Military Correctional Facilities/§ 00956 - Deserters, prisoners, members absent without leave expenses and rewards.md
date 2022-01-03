@@ -14,9 +14,11 @@ Funds appropriated to the Department of Defense may be used for the following pu
 
 (Added Pub. L. 98–525, title XIV, §1401(b)(1), Oct. 19, 1984, 98 Stat. 2614.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-Provisions similar to those in pars. (1) to (5) of this section were contained in the following appropriation acts, with the exception of the provisions similar to par. (2) which first appeared in the act of July 1, 1943:
+Provisions similar to those in pars. (1) to (5) of this section were contained in the following appropriationacts, with the exception of the provisions similar to par. (2) which first appeared in the act of July 1, 1943:
 
 Oct. 12, 1984, Pub. L. 98–473, title I, §101(h) \[title VIII, §8006\], 98 Stat. 1904, 1923.
 
@@ -141,6 +143,8 @@ Apr. 15, 1926, ch. 146, title I, 44 Stat. 259, 262.
 Feb. 12, 1925, ch. 225, title I, 43 Stat. 900.
 
 Provisions similar to those in par. (5) of this section were contained in Pub. L. 98–212, title VII, §706, Dec. 8, 1983, 97 Stat. 1437, which was set out as a note under section 138 of this title, prior to repeal by Pub. L. 98–525, §§1403(a)(1), eff. Oct. 1, 1985.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

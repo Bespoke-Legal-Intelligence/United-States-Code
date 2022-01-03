@@ -4,7 +4,7 @@
 
 #### (1) Continuation and expansion of program
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and ServicesAdministration, Maternal and Child Health Bureau, shall under authority of this section continue in effect the Healthy Start Initiative and may carry out such program on a national basis.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, Maternal and Child Health Bureau, shall under authority of this section continue in effect the Healthy Start Initiative and may carry out such program on a national basis.
 
 #### (2) Definition
 
@@ -102,11 +102,13 @@ Except to the extent inconsistent with this section, this section may not be con
 
 (July 1, 1944, ch. 373, title III, §330H, as added Pub. L. 106–310, div. A, title XV, §1501, Oct. 17, 2000, 114 Stat. 1146; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–339, §2, Oct. 3, 2008, 122 Stat. 3733; Pub. L. 116–136, div. A, title III, §3225, Mar. 27, 2020, 134 Stat. 381.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this section, referred to in subsec. (a)(2), is the date of enactment of Pub. L. 106–310, which was approved Oct. 17, 2000.
 
-The Social Security Act, referred to in subsecs. (b)(1) and (c)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (c)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. TitleV of the Act is classified generally to subchapter V (§701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
 
@@ -120,7 +122,7 @@ Subsec. (b)(2)(A). Pub. L. 116–136, §3225(2)(B)(i), substituted "including po
 
 Subsec. (b)(2)(B). Pub. L. 116–136, §3225(2)(B)(iii), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(2)(C). Pub. L. 116–136, §3225(2)(B)(iv), added cls. (i) and (iv) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
+Subsec. (b)(2)(C). Pub. L. 116–136, §3225(2)(B)(iv), added cl. (i) and (iv) and redesignated former cls. (i) and (ii) as (ii) and (iii), respectively.
 
 Pub. L. 116–136, §3225(2)(B)(ii), redesignated subpar. (B) as (C).
 

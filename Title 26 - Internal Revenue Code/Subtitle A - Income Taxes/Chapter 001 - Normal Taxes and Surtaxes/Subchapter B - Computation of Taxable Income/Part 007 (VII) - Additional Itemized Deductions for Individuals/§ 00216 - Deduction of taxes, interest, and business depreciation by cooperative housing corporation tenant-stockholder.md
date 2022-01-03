@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (B) Carryforward of disallowed amount
 
-&emsp;&emsp;The amount of any deduction which is not allowed by reason of subparagraph (A) shall, subject to the provisions of subparagraph (A), be treated as a deduction allowable under section 167(a) in the succeeding taxable year.
+&emsp;&emsp;The amount of any deduction which is not allowed by reason of subparagraph (A) shall,subject to the provisions of subparagraph (A), be treated as a deduction allowable under section 167(a) in the succeeding taxable year.
 
 #### (d) Disallowance of deduction for certain payments to the corporation
 
@@ -103,6 +103,8 @@ No deduction shall be allowed to a stockholder in a cooperative housing corporat
 Except as provided in regulations no gain or loss shall be recognized on the distribution by a cooperative housing corporation of a dwelling unit to a stockholder in such corporation if such distribution is in exchange for the stockholder's stock in such corporation and such dwelling unit is used as his principal residence (within the meaning of section 121).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 71; Pub. L. 87–834, §28(a), Oct. 16, 1962, 76 Stat. 1068; Pub. L. 91–172, title IX, §913(a), Dec. 30, 1969, 83 Stat. 723; Pub. L. 94–455, title XIX, §1906(b)(13)(A), title XXI, §2101(b), (f)(1), Oct. 4, 1976, 90 Stat. 1834, 1899; Pub. L. 95–600, title V, §531(a), Nov. 6, 1978, 92 Stat. 2886; Pub. L. 96–222, title I, §105(a)(6), Apr. 1, 1980, 94 Stat. 219; Pub. L. 99–514, title VI, §644(a)–(d), Oct. 22, 1986, 100 Stat. 2285, 2286; Pub. L. 100–647, title VI, §6282(a), Nov. 10, 1988, 102 Stat. 3755; Pub. L. 101–508, title XI, §11702(i), Nov. 5, 1990, 104 Stat. 1388–516; Pub. L. 105–34, title III, §312(d)(4), Aug. 5, 1997, 111 Stat. 840; Pub. L. 110–142, §4(a), Dec. 20, 2007, 121 Stat. 1804.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -141,6 +143,8 @@ Subsec. (c). Pub. L. 94–455, §§1906(b)(13)(A), 2101(b), struck out "or his d
 <b>1969</b>—Subsec. (b)(4). Pub. L. 91–172 added par. (4).
 
 <b>1962</b>—Pub. L. 87–834 substituted "Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholders" for "Amounts representing taxes and interest paid to cooperative housing corporation" in section catchline, and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 
@@ -192,7 +196,7 @@ Pub. L. 91–172, title IX, §913(b), Dec. 30, 1969, 83 Stat. 723, provided that
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–834, §28(c), Oct. 16, 1962, 76 Stat. 1068, provided that: "The amendments made by subsection (a)\[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1961."
+Pub. L. 87–834, §28(c), Oct. 16, 1962, 76 Stat. 1068, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning after December 31, 1961."
 
 #### Treatment of Amounts Received in Connection With Refinancing of Indebtedness of Certain Cooperative Housing Corporations; Treatment of Amounts Paid From Qualified Refinancing-Related Reserve
 

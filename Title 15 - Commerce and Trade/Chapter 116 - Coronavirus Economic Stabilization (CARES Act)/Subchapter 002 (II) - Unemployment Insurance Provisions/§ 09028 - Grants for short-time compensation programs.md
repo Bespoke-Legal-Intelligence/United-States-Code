@@ -8,7 +8,7 @@
 
 #### (2) For promotion and enrollment
 
-&emsp;The Secretary shall award grants to States that are eligible and submit plans for a grant under paragraph (1) for such States to promote and enroll employers in short-time compensation programs (as so defined).
+&emsp;The Secretary shall award grants to States that are eligible and submit plans for a grant under paragraph (1) for such States to promoteand enroll employers in short-time compensation programs (as so defined).
 
 #### (3) Eligibility
 
@@ -88,7 +88,7 @@ There are appropriated, out of moneys in the Treasury not otherwise appropriated
 
 #### (h) Reporting
 
-The Secretary may establish reporting requirements for States receiving a grant under this section in order to provide oversight of grant funds.
+The Secretary may establish reporting requirements for States receiving a grant underthis section in order to provide oversight of grant funds.
 
 #### (i) Definitions
 
@@ -107,6 +107,8 @@ In this section:
 &emsp;The terms "State", "State agency", and "State law" have the meanings given those terms in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
 (Pub. L. 116–136, div. A, title II, §2110, Mar. 27, 2020, 134 Stat. 331.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

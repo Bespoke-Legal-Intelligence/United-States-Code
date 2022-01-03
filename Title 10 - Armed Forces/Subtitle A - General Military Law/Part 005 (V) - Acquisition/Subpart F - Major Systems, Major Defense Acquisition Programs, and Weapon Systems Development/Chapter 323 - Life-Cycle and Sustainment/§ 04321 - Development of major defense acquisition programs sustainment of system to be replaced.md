@@ -44,6 +44,8 @@ Waiver.—The Secretary of Defense may waive the applicability of subsection (a)
 
 (Added Pub. L. 108–375, div. A, title VIII, §805(a)(1), Oct. 28, 2004, 118 Stat. 2008, §2437; renumbered §4321, Pub. L. 116–283, div. A, title XVIII, §1848(b), Jan. 1, 2021, 134 Stat. 4258.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4321 was renumbered section 7421 of this title.
@@ -52,7 +54,13 @@ A prior section 4321 was renumbered section 7421 of this title.
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2437 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Pub. L. 108–375, div. A, title VIII, §805(b), Oct. 28, 2004, 118 Stat. 2009, provided that: "Section 2437 of title 10, United States Code \[now 10 U.S.C. 4321\], as added by subsection (a), shall apply with respect to a major defense acquisition program for a system that is under development as of the date of the enactment of this Act \[Oct. 28, 2004\] and is not expected to reach initial operational capability before October 1, 2008. The Secretary of Defense shall require that a sustainment plan under that section be developed not later than one year after the date of the enactment of this Act for the existing system that the system under development is intended to replace."
 

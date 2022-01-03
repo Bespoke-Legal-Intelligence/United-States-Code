@@ -56,7 +56,7 @@ For the purpose of this subchapter—
 
 > &emsp;Notwithstanding this paragraph, the employment of a teacher in the recess period between two school years in a position other than a teaching position in which he served immediately before the recess period does not qualify the individual as an employee for the purpose of this subchapter. For the purpose of the preceding sentence, "teacher" and "teaching position" have the meanings given them by section 901 of title 20;
 
-&emsp;(2) "Member" means a Member of Congress as defined by section 2106 of this title, after he gives notice in writing to the official by whom he is paid of his desire to become subject to this subchapter, but does not include any such Member of Congress who is subject to the Federal Employees' Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System;
+&emsp;(2) "Member" means a Member of Congress as defined by section 2106 of this title, after he gives notice in writing to the official by whomhe is paid of his desire to become subject to this subchapter, but does not include any such Member of Congress who is subject to the Federal Employees' Retirement System or who makes an election under section 8401(20) of this title not to be subject to such System;
 
 &emsp;(3) "basic pay" includes—
 
@@ -126,7 +126,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(C) as a commissioned officer of the Environmental Science Services Administration after June 30, 1961;
 
-> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United States Coast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
+> &emsp;and includes service as a cadet at the United States Military Academy, the United States Air Force Academy, or the United StatesCoast Guard Academy, or as a midshipman at the United States Naval Academy, but does not include service in the National Guard except when ordered to active duty in the service of the United States or full-time National Guard duty (as such term is defined in section 101(d) of title 10) if such service interrupts creditable civilian service under this subchapter and is followed by reemployment in accordance with chapter 43 of title 38 that occurs on or after August 1, 1990;
 
 &emsp;(14) "Member service" means service as a Member and includes the period from the date of the beginning of the term for which elected or appointed to the date on which he takes office as a Member;
 
@@ -406,7 +406,7 @@ Section 167 of the Federal Courts Improvement Act of 1982, referred to in par. (
 
 <b>2020</b>—Par. (33). Pub. L. 116–126 added par. (33).
 
-<b>2018</b>—Par. (3)(E)(ii). Pub. L. 115–254 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "received after September 11, 2001, by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;".
+<b>2018</b>—Par. (3)(E)(ii). Pub. L. 115–254 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows:"received after September 11, 2001, by a Federal air marshal of the Department of Transportation, subject to all restrictions and earning limitations imposed on criminal investigators under section 5545a;".
 
 <b>2016</b>—Par. (1)(K). Pub. L. 114–136 substituted "section 5" for "section 4".
 
@@ -560,7 +560,7 @@ Pars. (17) to (19). Pub. L. 91–93, §101, added pars. (17) to (19).
 
 #### Change of Name
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 Words "magistrate judge" and "United States magistrate judge" substituted for "magistrate" and "United States magistrate", respectively, in par. (25) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
@@ -618,7 +618,7 @@ Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the f
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to anyannuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
+Amendment by Pub. L. 108–176 effective on 60th day after Dec. 12, 2003, and applicable with respect to any annuity entitlement based on an individual's separation from service occurring on or after such effective date, and any service performed by any such individual before, on, or after such effective date, subject to special rule relating to deposit requirement, see section 226(c) of Pub. L. 108–176, set out as a note under section 8401 of this title.
 
 #### Effective Date of 1998 Amendments
 
@@ -760,7 +760,7 @@ Pub. L. 116–126, §3(b), Mar. 18, 2020, 134 Stat. 177, provided that: "Not lat
 
 #### Savings Provision
 
-Pub. L. 92–352, title I, §105(c), July 13, 1972, 86 Stat. 491, provided that: "The amendments made by such subsection (a) \[amending this section\] shall not apply in the cases of persons retired or otherwise separated prior to the effective date established under subsection (b) of this section \[see Effective Date of 1972 Amendment note above\], and the rights of such persons and their survivors shall continue in the same manner and to the same extent as if such amendments had not been enacted."
+Pub. L. 92–352, title I, §105(c), July 13, 1972, 86 Stat. 491, provided that: "The amendments made by such subsection (a) \[amending this section\] shall not apply in the cases of persons retired or otherwise separated prior to the effective date established under subsection (b) of this section \[see Effective Date of 1972 Amendment note above\], and the rights of such persons andtheir survivors shall continue in the same manner and to the same extent as if such amendments had not been enacted."
 
 #### Transfer of Functions
 
@@ -776,7 +776,7 @@ Retirement Treatment.—
 
 &emsp;"(1)
 
-In general.—For purposes of chapters 83 and 84 of title 5, United States Code, a hazardous materialsresponse team member of the Capitol Police shall be treated as a member of the Capitol Police.
+In general.—For purposes of chapters 83 and 84 of title 5, United States Code, a hazardous materials response team member of the Capitol Police shall be treated as a member of the Capitol Police.
 
 &emsp;"(2)
 
@@ -884,7 +884,7 @@ Source of funds.—Payments under this subsection shall be made from amounts ava
 
 No Mandatory Separation for a 2
 
-\-Year Period.—Nothing in section 8335(e) or 8425(d) of title 5, United States Code, as added by this section, shall require the automatic separation of any member of the Supreme Court Police before the end of the 2-year period beginning on the effective date of this section.
+\-Year Period.—Nothing in section 8335(e) or 8425(d) of title 5, United States Code, as added by this section, shall require the automatic separation of any member of theSupreme Court Police before the end of the 2-year period beginning on the effective date of this section.
 
 "(f)
 
@@ -1034,7 +1034,7 @@ Uncorrected Error.—
 
 &emsp;"(1)
 
-Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described under paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered or CSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
+Applicability.—This subsection applies if the retirement coverage error has not been corrected before the effective date of the regulations described under paragraph (3). As soon as practicable after discovery of the error, and subject to the right of an election under paragraph (2), if CSRS covered orCSRS-Offset covered, such individual shall be treated as CSRS-Offset covered, retroactive to the date of the retirement coverage error.
 
 &emsp;"(2)
 
@@ -1306,7 +1306,7 @@ Declining fers coverage.—If an individual described under paragraph (1)(B) dec
 
 "(b)
 
-Employee Contributions in Thrift Savings Fund.—If under this section, an individual declines to be FERS covered and instead is Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would apply in the absence of a FERS election, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstandingany limit under title 5, United States Code, that would otherwise be applicable.
+Employee Contributions in Thrift Savings Fund.—If under this section, an individual declines to be FERS covered and instead is Social Security-Only covered, CSRS covered, or CSRS-Offset covered, as would apply in the absence of a FERS election, all employee contributions to the Thrift Savings Fund made during the period of erroneous FERS coverage (and all earnings on such contributions) may remain in the Thrift Savings Fund in accordance with regulations prescribed by the Executive Director, notwithstanding any limit under title 5, United States Code, that would otherwise be applicable.
 
 "(c)
 
@@ -1420,7 +1420,7 @@ In general.—If at the time of commencement of an annuity there is remaining un
 
 &emsp;&emsp;"(B)
 
-Amount.—The reduced annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of the unreduced annuity benefit that would have been provided the individual.
+Amount.—The reduced annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of the unreducedannuity benefit that would have been provided the individual.
 
 &emsp;"(3)
 
@@ -1432,7 +1432,7 @@ In general.—If at the time of commencement of a survivor annuity, there is rem
 
 &emsp;&emsp;"(B)
 
-Amount.—The reduced survivor annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result inthe present value of the total being actuarially equivalent to the present value of an unreduced survivor annuity benefit that would have been provided the individual.
+Amount.—The reduced survivor annuity to which the individual is entitled shall be equal to an amount that, when taken together with the amount referred to under subparagraph (A), would result in the present value of the total being actuarially equivalent to the present value of an unreduced survivor annuity benefit that would have been provided the individual.
 
 #### "SEC. 2204. PROVISIONS RELATED TO SOCIAL SECURITY COVERAGE OF MISCLASSIFIED EMPLOYEES.
 
@@ -1550,7 +1550,7 @@ Amounts.—Paragraph (1) refers to any amount of contributions made by an agency
 
 "(b)
 
-Additional Employee Retirement Deductions To Be Paid by Agency.—If a correction in a retirement coverage error results in an increase in employee deductions under section 8334 or 8422 of title 5, United States Code, that cannot be fully paid by a reallocationof otherwise available amounts previously deducted from the employee's pay as employment taxes or retirement deductions, the employing agency—
+Additional Employee Retirement Deductions To Be Paid by Agency.—If a correction in a retirement coverage error results in an increase in employee deductions under section 8334 or 8422 of title 5, United States Code, that cannot be fully paid by a reallocation of otherwise available amounts previously deducted from the employee's pay as employment taxes or retirement deductions, the employing agency—
 
 &emsp;"(1) shall pay the required additional amount into the CSRDF; and
 
@@ -1648,7 +1648,7 @@ Pub. L. 104–201, div. A, title XVI, §1616, Sept. 23, 1996, 110 Stat. 2741, as
 
 "(a)
 
-Pilot Programs Authorized.—(1) The Secretary of Defense, after consultation with the Director of the Office of Personnel Management, may establish one or more pilot programs under which Federal retirement benefits are provided in accordance with this section to persons who convert from Federal employment to employment by a Department of Defense contractor in connection with the privatization of the performance of functions at selected military installations being closed under the base closure and realignment process.
+Pilot Programs Authorized.—(1) The Secretary of Defense, after consultation with the Director of the Office of Personnel Management, may establish one ormore pilot programs under which Federal retirement benefits are provided in accordance with this section to persons who convert from Federal employment to employment by a Department of Defense contractor in connection with the privatization of the performance of functions at selected military installations being closed under the base closure and realignment process.
 
 "(2) The Secretary of Defense shall select the military installations to be covered by a pilot program under this section.
 
@@ -1656,7 +1656,7 @@ Pilot Programs Authorized.—(1) The Secretary of Defense, after consultation wi
 
 Eligible Converted Employees.—(1) A person is a converted employee eligible for Federal retirement benefits under this section if the person is a former employee of the Department of Defense (other than a temporary employee) who—
 
-&emsp;"(A) while employed by the Department of Defense at a military installation selected to participate in a pilot program, performed a function that was recommended, in a report of the Defense Base Closureand Realignment Commission submitted to the President under the Defense Base Closure and Realignment Act of 1990 (\[part A of\] title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), to be privatized for performance by a defense contractor at the same installation or in the vicinity of the installation;
+&emsp;"(A) while employed by the Department of Defense at a military installation selected to participate in a pilot program, performed a function that was recommended, in a report of the Defense Base Closure and Realignment Commission submitted to the President under the Defense Base Closure and Realignment Act of 1990 (\[part A of\] title XXIX of Public Law 101–510; 10 U.S.C. 2687 note), to be privatized for performance by a defense contractor at the same installation or in the vicinity of the installation;
 
 &emsp;"(B) while so employed, separated from Federal service after being notified that the employee would be separated in a reduction in force resulting from such privatization;
 
@@ -1814,11 +1814,11 @@ Regulations.—The Director of the Office of Personnel Management may prescribe 
 
 #### Coordination With Pay Periods
 
-Pub. L. 99–556, title V, §505, Oct. 27, 1986, 100 Stat. 3141, provided that: "Under regulations prescribed by the Office of Personnel Management, any reference to a specific date in section 302, 303, 305 \[5 U.S.C. 8331 notes\], or 702(a) \[5 U.S.C. 8401 note\] of the Federal Employees' Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 514) shall, for purposes of individual contributions (including deductions from basic pay), Government contributions, and refunds, be deemed to be a reference to the first day of the first applicable pay period beginning on or after such date, or to the day before such first day, as appropriate."
+Pub. L. 99–556, title V, §505, Oct. 27, 1986, 100 Stat. 3141, provided that: "Under regulations prescribed by the Office of Personnel Management, any reference to a specific date in section 302, 303, 305 \[5 U.S.C. 8331notes\], or 702(a) \[5 U.S.C. 8401 note\] of the Federal Employees' Retirement System Act of 1986 (Public Law 99–335; 100 Stat. 514) shall, for purposes of individual contributions (including deductions from basic pay), Government contributions, and refunds, be deemed to be a reference to the first day of the first applicable pay period beginning on or after such date, or to the day before such first day, as appropriate."
 
 #### Continued Coverage Under Certain Federal Employee Benefit Programs for Certain Employees of Saint Elizabeths Hospital
 
-Pub. L. 99–335, title II, §207(o), as added by Pub. L. 100–238, title I, §109(a), Jan. 8, 1988, 101 Stat. 1748, provided that: "An employee of Saint Elizabeths Hospital who is appointed to a position in the government of the District of Columbia on October 1, 1987, pursuant to the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (Public Law 98–621; 98 Stat. 3369 and following) \[see Short Title note set out undersection 225 of Title 24, Hospitals and Asylums\] shall, for purposes of chapters 83, 87, and 89 of title 5, United States Code, be treated in the same way as an individual first employed by the government of the District of Columbia before October 1, 1987."
+Pub. L. 99–335, title II, §207(o), as added by Pub. L. 100–238, title I, §109(a), Jan. 8, 1988, 101 Stat. 1748, provided that: "An employee of Saint Elizabeths Hospital who is appointed to a position in the government of the District of Columbia on October 1, 1987, pursuant to the Saint Elizabeths Hospital and District of Columbia Mental Health Services Act (Public Law 98–621; 98 Stat. 3369 and following) \[see Short Title note set out under section 225 of Title 24, Hospitals and Asylums\] shall, for purposes of chapters 83, 87, and 89 of title 5, United States Code, be treated in the same way as an individual first employed by the government of the District of Columbia before October 1, 1987."
 
 \[Pub. L. 100–238, title I, §109(b), Jan. 8, 1988, 101 Stat. 1749, provided that: "The amendment made by this section \[enacting note above\] shall be effective as of October 1, 1987."\]
 
@@ -1904,7 +1904,7 @@ Condition for Making an Election; Extension To Satisfy Condition.—(1) An elect
 
 &emsp;"(B) that, due to exceptional circumstances, requiring the individual to seek the former spouse's consent would otherwise be inappropriate.
 
-"(4)(A) The Office shall, upon application of an individual, grant an extension for such individual to makean election referred to in paragraph (1) if such individual—
+"(4)(A) The Office shall, upon application of an individual, grant an extension for such individual to make an election referred to in paragraph (1) if such individual—
 
 &emsp;"(i) files application for extension before the end of the period during which such individual would otherwise be eligible to make such election; and
 
@@ -2096,7 +2096,7 @@ Deposit Requirements.—(1) In the case of an individual who becomes subject to 
 
 "(2) A deposit under this subsection may be made by the individual or, for purposes of survivor annuities, a survivor of such individual."
 
-\[Pub. L. 100–238, title I, §113(a)(2), Jan. 8, 1988, 101 Stat. 1750, provided that: "The amendment made by paragraph (1) \[amending section 301(a) of Pub. L. 99–335 set out above\] shall be effective as of June 30, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5, United States Code), be adjusted to reflect any earnings attributable thereto."\]
+\[Pub. L. 100–238, title I, §113(a)(2), Jan. 8, 1988, 101 Stat. 1750, provided that: "The amendment made by paragraph (1) \[amending section 301(a) of Pub. L. 99–335 set out above\] shall be effective as of June 30, 1987. Any refund which becomes payable as a result of the preceding sentence shall, to the extent that such refund involves an individual's contributions to the Thrift Savings Fund (established under section 8437 of title 5,United States Code), be adjusted to reflect any earnings attributable thereto."\]
 
 \[Amendment by section 134(b) of Pub. L. 100–238 to section 302(a) of Pub. L. 99–335 applicable with respect to any election made by a reemployed annuitant on or after Jan. 8, 1988, see section 134(d) of Pub. L. 100–238, set out as an Effective Date of 1988 Amendment note under section 8468 of this title.\]
 
@@ -2302,7 +2302,7 @@ Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended by Pub. L. 
 
 \["(3) For purposes of this subsection, the term 'retirement system' means a covered retirement system as defined by section 203(a)(2) of the Federal Employees' Retirement Contribution Temporary Adjustment Act of 1983 (97 Stat. 1107; 5 U.S.C. 8331 note)."\]
 
-\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out asa note under section 3001 of Title 50, War and National Defense.\]
+\[Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.\]
 
 \[The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in Pub. L. 98–168, set out above, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, is known as the Central Intelligence Agency Retirement Act and is classified generally to chapter 38 (§2001 et seq.) of Title 50, War and National Defense.\]
 

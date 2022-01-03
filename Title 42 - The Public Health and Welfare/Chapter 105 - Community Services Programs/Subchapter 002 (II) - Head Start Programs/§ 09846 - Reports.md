@@ -6,7 +6,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;(1) a statement for the then most recently concluded fiscal year specifying—
 
-&emsp;&emsp;(A) the amount of funds received by Head Start agencies designated under section 9836 of this title to provide Head Start services in a period before such fiscal year; and
+&emsp;&emsp;(A) the amount of funds received by Head Start agencies designated under section 9836of this title to provide Head Start services in a period before such fiscal year; and
 
 &emsp;&emsp;(B) the amount of funds received by Head Start agencies newly designated under section 9836 of this title to provide such services in such fiscal year;
 
@@ -86,11 +86,13 @@ Not later than 1 year after December 12, 2007, the Secretary shall submit to the
 
 (Pub. L. 97–35, title VI, §650, formerly §651, Aug. 13, 1981, 95 Stat. 506; Pub. L. 98–558, title I, §108, Oct. 30, 1984, 98 Stat. 2880; Pub. L. 101–501, title I, §§118, 119, Nov. 3, 1990, 104 Stat. 1234; Pub. L. 102–401, §2(k)(5), Oct. 7, 1992, 106 Stat. 1959; renumbered §650 and amended Pub. L. 103–252, title I, §118, May 18, 1994, 108 Stat. 648; Pub. L. 105–285, title I, §117, Oct. 27, 1998, 112 Stat. 2727; Pub. L. 110–134, §21, Dec. 12, 2007, 121 Stat. 1441.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generallyto chapter 33 (§1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 
@@ -126,6 +128,8 @@ Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–558 substituted "not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards" for "result in standards which are no less comprehensive than those" in second sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act (42 U.S.C. 9831 et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under section 9832 of this title.
@@ -140,5 +144,5 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual,semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 4th item on page 79 identifies a reporting provision which, as subsequently amended, is contained in subsec. (a) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 

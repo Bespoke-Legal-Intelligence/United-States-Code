@@ -7,6 +7,7 @@
 | [8452\.](%C2%A7%2008452%20-%20Civilian%20teachers%20number%3B%20compensation.md) | Civilian teachers: number; compensation. |
 | [8453\.](%C2%A7%2008453%20-%20Midshipmen%20appointment.md) | Midshipmen: appointment. |
 | [8454\.](%C2%A7%2008454%20-%20Midshipmen%20number.md) | Midshipmen: number. |
+| [8454a.](%C2%A7%2008454a%20-%20Midshipmen%20nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Member%20of%20Congress%20otherwise%20authorized%20to%20nominate.md) | Midshipmen: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate. |
 | [8455\.](%C2%A7%2008455%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md) | Midshipmen: allotment upon redistricting of Congressional Districts. |
 | [8456\.](%C2%A7%2008456%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md) | Midshipmen: nomination and selection to fill vacancies. |
 | [8458\.](%C2%A7%2008458%20-%20Midshipmen%20qualifications%20for%20admission.md) | Midshipmen: qualifications for admission. |
@@ -37,11 +38,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneous rights and benefits in the Air Force, prior to renumbering as chapter 933 of this title.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §553(b)(2), Dec. 27, 2021, 135 Stat. 1737, added item 8454a.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 603 of this title as this chapter and items 6951 to 6956 and 6958 to 6981 as 8451 to 8456 and 8458 to 8481, respectively.
 
@@ -87,6 +92,7 @@ Pub. L. 108–375, div. A, title V, §544(b)(2), Oct. 28, 2004, 118 Stat. 1907, 
 - [&sect; 08452 - Civilian teachers number; compensation](%C2%A7%2008452%20-%20Civilian%20teachers%20number%3B%20compensation.md)
 - [&sect; 08453 - Midshipmen appointment](%C2%A7%2008453%20-%20Midshipmen%20appointment.md)
 - [&sect; 08454 - Midshipmen number](%C2%A7%2008454%20-%20Midshipmen%20number.md)
+- [&sect; 08454a - Midshipmen nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate](%C2%A7%2008454a%20-%20Midshipmen%20nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Member%20of%20Congress%20otherwise%20authorized%20to%20nominate.md)
 - [&sect; 08455 - Midshipmen allotment upon redistricting of Congressional Districts](%C2%A7%2008455%20-%20Midshipmen%20allotment%20upon%20redistricting%20of%20Congressional%20Districts.md)
 - [&sect; 08456 - Midshipmen nomination and selection to fill vacancies](%C2%A7%2008456%20-%20Midshipmen%20nomination%20and%20selection%20to%20fill%20vacancies.md)
 - [&sect; 08458 - Midshipmen qualifications for admission](%C2%A7%2008458%20-%20Midshipmen%20qualifications%20for%20admission.md)

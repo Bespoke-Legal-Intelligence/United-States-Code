@@ -214,9 +214,11 @@ There are authorized to be appropriated to carry out this section $79,500,000 fo
 
 (July 1, 1944, ch. 373, title III, §330A, as added Pub. L. 104–299, §3(a), Oct. 11, 1996, 110 Stat. 3642; amended Pub. L. 107–251, title II, §201, Oct. 26, 2002, 116 Stat. 1628; Pub. L. 108–163, §2(b), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 110–355, §4, Oct. 8, 2008, 122 Stat. 3994; Pub. L. 116–136, div. A, title III, §3213, Mar. 27, 2020, 134 Stat. 370.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6, 1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
+A prior section 254c, act July 1, 1944, ch. 373, title III, §330, as added July 29, 1975, Pub. L. 94–63, title V, §501(a), 89 Stat. 342; amended Apr. 22, 1976, Pub. L. 94–278, title VIII, §801(b), 90 Stat. 415; Aug. 1, 1977, Pub. L. 95–83, title III, §304, 91 Stat. 388; Nov. 10, 1978, Pub. L. 95–626, title I, §104(a)–(d)(3)(B), (4), (5), (e), (f), 92 Stat. 3556–3559; July 10, 1979, Pub. L. 96–32, §§6(b)–(d), 7(c), 93 Stat. 83, 84; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695; Oct. 19, 1980, Pub. L. 96–470, title I, §106(e), 94 Stat. 2238; Aug. 13, 1981, Pub. L. 97–35, title IX, §§903(a), 905, 906, 95 Stat. 561, 562; Jan. 4, 1983, Pub. L. 97–414, §8(e), 96 Stat. 2060; Apr. 24, 1986, Pub. L. 99–280, §§2–4, 100 Stat. 399, 400; Aug. 10, 1988, Pub. L. 100–386, §§3, 4, 102 Stat. 921, 923; Nov. 4, 1988, Pub. L. 100–607, title I, §163(3), 102 Stat. 3062; Dec. 19, 1989, Pub. L. 101–239, title VI, §6103(e)(5), 103 Stat. 2207; Nov. 6,1990, Pub. L. 101–527, §9(a), 104 Stat. 2332; Oct. 27, 1992, Pub. L. 102–531, title III, §309(b), 106 Stat. 3500, related to community health centers, prior to the general amendment of this subpart by Pub. L. 104–299, §2.
 
 #### Amendments
 
@@ -240,7 +242,7 @@ Subsec. (f)(1)(A). Pub. L. 116–136, §3213(3)(A)(i)(I), substituted "plan, dev
 
 Subsec. (f)(1)(A)(ii). Pub. L. 116–136, §3213(3)(A)(i)(II), substituted "basic health care services and associated health outcomes" for "essential health care services".
 
-Subsec. (f)(1)(B). Pub. L. 116–136, §3213(3)(A)(ii), amended subpar. (B) generally. Prior to amendment,text read as follows: "The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate."
+Subsec. (f)(1)(B). Pub. L. 116–136, §3213(3)(A)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: "The Director may award such a rural health network development grant for implementation activities for a period of 3 years. The Director may also award such a rural health network development grant for planning activities for a period of 1 year, to assist in the development of an integrated health care network, if the proposed participants in the network do not have a history of collaborative efforts and a 3-year grant would be inappropriate."
 
 Subsec. (f)(2). Pub. L. 116–136, §3213(3)(B)(i), inserted "shall" after "entity" in introductory provisions.
 
@@ -276,6 +278,8 @@ Subsec. (j). Pub. L. 116–136, §3213(7), substituted "$79,500,000 for each of 
 
 <b>2002</b>—Pub. L. 107–251 amended section generally. Prior to amendment, section related to a rural health outreach, network development, and telemedicine grant program, and in subsec. (a), provided for administration by the Office of Rural Health Policy; in subsec. (b), set out the objectives of grants; in subsec. (c), set out eligibility requirements; in subsec. (d), described preferred characteristics of applicant networks; in subsec. (e), specified permitted uses of grant funds; in subsec. (f), limited the duration of grants; and in subsec. (g), authorized appropriations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
@@ -302,7 +306,7 @@ Pub. L. 106–505, title IV, subtitle B, Nov. 13, 2000, 114 Stat. 2340, provided
 
 &emsp;"(3) A cardiac arrest victim's chance of survival drops 10 percent for every minute that passes before his or her heart is returned to normal rhythm.
 
-&emsp;"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation, prompt access to defibrillation to return the heart to normal rhythm is essential.
+&emsp;"(4) Because most cardiac arrest victims are initially in ventricular fibrillation, and the only treatment for ventricular fibrillation is defibrillation,prompt access to defibrillation to return the heart to normal rhythm is essential.
 
 &emsp;"(5) Lifesaving technology, the automated external defibrillator, has been developed to allow trained lay rescuers to respond to cardiac arrest by using this simple device to shock the heart into normal rhythm.
 
@@ -364,6 +368,8 @@ Pub. L. 106–129, §6, Dec. 6, 1999, 113 Stat. 1675, provided that: "Not later 
 
 &emsp;"(6) identifies legal and medical issues relating to State licensing of health professionals that are presented by telemedicine services, and provides any recommendations of the Secretary for responding to such issues."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13941. Improving Rural Health and Telehealth Access
 
 Ex. Ord. No. 13941, Aug. 3, 2020, 85 F.R. 47881, provided:
@@ -374,7 +380,7 @@ Section 1. <i>Purpose</i>. My Administration is committed to improving the healt
 
 Since 2010, the year the \[Patient Protection and\] Affordable Care Act \[Pub. L. 111–148\] was passed, 129 rural hospitals in the United States have closed. Predictably, financial distress is the strongest driver for risk of closure, and many rural hospitals lack sufficient patient volume to be sustainable under traditional healthcare-reimbursement mechanisms. From 2015 to 2017, the average occupancy rate of a hospital that closed was only 22 percent. When hospitals close, the patient population around them carries an increased risk of mortality due to increased travel time and decreased access.
 
-During the COVID–19 public health emergency (PHE), hospitals curtailed elective medical procedures and access to in-person clinical care was limited. To help patients better access healthcare providers, my Administration implemented new flexibility regarding what services may be provided via telehealth, who may provide them, and in what circumstances, and the use of telehealth increased dramatically across the Nation. Internal analysis by the Centers for Medicare and Medicaid Services (CMS) of the Department of Health and Human Services (HHS) showed a weekly jump in virtual visits for CMS beneficiaries, from approximately 14,000 pre-PHE to almost 1.7 million in the last week of April. Additionally, a recent report by HHS shows that nearly half (43.5 percent) of Medicare fee-for-service primary care visits were provided through telehealth in April, compared with far less than one percent (0.1 percent) in February before the PHE. Importantly, the report finds that telehealth visits continued to be frequent even after in-person primary care visits resumed in May, indicating that the expansion of telehealth services is likely to be a more permanent feature of the healthcare delivery system.
+During the COVID–19 public health emergency (PHE), hospitals curtailed elective medical procedures and access to in-person clinical care was limited. To help patients better access healthcare providers, my Administration implemented new flexibility regarding what services may be provided via telehealth, who may provide them, and in what circumstances, and the use of telehealth increased dramatically across the Nation. Internal analysis by the Centers for Medicare and Medicaid Services (CMS) of the Department of Health and Human Services (HHS) showed a weekly jump in virtual visits for CMS beneficiaries, from approximately 14,000 pre-PHE to almost 1.7 million in the last week of April. Additionally, a recent report by HHS shows that nearly half (43.5 percent) of Medicare fee-for-service primary care visits were provided through telehealth in April, compared with far less than one percent (0.1 percent) in February before the PHE. Importantly, the report finds that telehealth visits continued to be frequent even after in-person primary care visits resumedin May, indicating that the expansion of telehealth services is likely to be a more permanent feature of the healthcare delivery system.
 
 Rural healthcare providers, in particular, need these types of flexibilities to provide continuous care to patients in their communities. It is the purpose of this order to increase access to, improve the quality of, and improve the financial economics of rural healthcare, including by increasing access to high-quality care through telehealth.
 

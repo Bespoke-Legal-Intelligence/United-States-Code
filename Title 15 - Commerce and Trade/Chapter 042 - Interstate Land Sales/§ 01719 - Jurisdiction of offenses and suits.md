@@ -4,11 +4,15 @@ The district courts of the United States, the United States courts of any territ
 
 (Pub. L. 90–448, title XIV, §1420, Aug. 1, 1968, 82 Stat. 598; Pub. L. 100–628, title X, §1089(b), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" in two places.
 
 <b>1988</b>—Pub. L. 100–628 struck out "(a)" after section designation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -16,5 +20,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date
 
-Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 ofPub. L. 90–448, set out as a note under section 1701 of this title.
+Section effective upon the expiration of two hundred and seventy days after Aug. 1, 1968, see section 1423 of Pub. L. 90–448, set out as a note under section 1701 of this title.
 

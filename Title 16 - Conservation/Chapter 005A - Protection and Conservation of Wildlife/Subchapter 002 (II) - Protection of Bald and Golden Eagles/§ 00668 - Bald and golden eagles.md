@@ -6,13 +6,15 @@ Whoever, within the United States or any place subject to the jurisdiction there
 
 #### (b) Civil penalties
 
-Whoever, within the United States or any place subject to the jurisdiction thereof, without being permitted to do so as provided in this subchapter, shall take, possess, sell, purchase, barter, offer to sell, purchase or barter, transport, export or import, at any time or in any manner, any bald eagle, commonly known as the American eagle, or any golden eagle, alive or dead, or any part, nest, or egg thereof of the foregoing eagles, or whoever violates any permit or regulation issued pursuant to this subchapter, may be assessed a civil penalty by the Secretary of not more than $5,000 for each such violation. Each violation shall be a separate offense. No penalty shall be assessed unless suchperson is given notice and opportunity for a hearing with respect to such violation. In determining the amount of the penalty, the gravity of the violation, and the demonstrated good faith of the person charged shall be considered by the Secretary. For good cause shown, the Secretary may remit or mitigate any such penalty. Upon any failure to pay the penalty assessed under this section, the Secretary may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found or resides or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. In hearing any such action, the court must sustain the Secretary's action if supported by substantial evidence.
+Whoever, within the United States or any place subject to the jurisdiction thereof, without being permitted to do so as provided in this subchapter, shall take, possess, sell, purchase, barter, offer to sell, purchase or barter, transport, export or import, at any time or in any manner, any bald eagle, commonly known as the American eagle, or any golden eagle, alive or dead, or any part, nest, or egg thereof of the foregoing eagles, or whoever violates any permit or regulation issued pursuant to this subchapter, may be assessed a civil penalty by the Secretary of not more than $5,000 for each such violation. Each violation shall be a separate offense. No penalty shall be assessed unless such person is given notice and opportunity for a hearing with respect to such violation. In determining the amount of the penalty, the gravity of the violation, and the demonstrated good faith of the person charged shall be considered by the Secretary. For good cause shown, the Secretary may remit or mitigate any such penalty. Upon any failure to pay the penalty assessed under this section, the Secretary may request the Attorney General to institute a civil action in a district court of the United States for any district in which such person is found or resides or transacts business to collect the penalty and such court shall have jurisdiction to hear and decide any such action. In hearing any such action, the court must sustain the Secretary's action if supported by substantial evidence.
 
 #### (c) Cancellation of grazing agreements
 
 The head of any Federal agency who has issued a lease, license, permit, or other agreement authorizing the grazing of domestic livestock on Federal lands to any person who is convicted of a violation of this subchapter or of any permit or regulation issued hereunder may immediately cancel each such lease, license, permit, or other agreement. The United States shall not be liable for the payment of any compensation, reimbursement, or damages in connection with the cancellation of any lease, license, permit, or other agreement pursuant to this section.
 
 (June 8, 1940, ch. 278, §1, 54 Stat. 250; Pub. L. 86–70, §14, June 25, 1959, 73 Stat. 143; Pub. L. 87–884, Oct. 24, 1962, 76 Stat. 1246; Pub. L. 92–535, §1, Oct. 23, 1972, 86 Stat. 1064.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,13 +28,11 @@ Prior to the addition to this subchapter of the provisions relating to preservat
 
 <b>1959</b>—Pub. L. 86–70 struck out "except the Territory of Alaska," after "subject to the jurisdiction thereof,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Act June 8, 1940, ch. 278, 54 Stat. 250, which is classified to this subchapter, is popularly known as the "Bald and Golden Eagle Protection Act" and also as the "Bald Eagle Protection Act".
-
-#### Transfer of Functions
-
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
 #### Legislative Intent
 
@@ -47,4 +47,10 @@ Enacting clause of act June 8, 1940, provided:
 "Whereas the bald eagle is now threatened with extinction: Therefore
 
 "Be it enacted \* \* \*", etc.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), 203(a), 44 F.R. 33663, 33666, 93 Stat.1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

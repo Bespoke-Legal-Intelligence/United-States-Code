@@ -4,9 +4,13 @@ The provisions of sections 515, 564, 565,<sup>1</sup> and 569 of this title are 
 
 (Mar. 3, 1931, ch. 452, 46 Stat. 1516; May 17, 1932, ch. 190, 47 Stat. 158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 564 and 565 of this title, referred to in text, were repealed by Pub. L. 95–313, §13(a)(1), July 1, 1978, 92 Stat. 374.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

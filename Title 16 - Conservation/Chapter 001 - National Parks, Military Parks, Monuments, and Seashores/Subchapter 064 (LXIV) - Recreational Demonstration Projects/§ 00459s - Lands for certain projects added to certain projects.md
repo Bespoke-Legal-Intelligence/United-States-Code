@@ -4,9 +4,13 @@ After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah,
 
 (June 6, 1942, ch. 380, §2, 56 Stat. 327.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Proviso directing the Secretary of the Interior to file with the National Archives within six months after June 6, 1942, a map of each recreational demonstration project enumerated in the section has been omitted as executed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -22,7 +26,7 @@ Act June 9, 1947, ch. 100, 61 Stat. 129, provided: "That for the purpose of cons
 
 "
 
-Sec. 2. Upon the conveyance of the Silver Creek recreational demonstration project to the State of Oregon, or political subdivision thereof, pursuant to the Act of June 6, 1942 (56 Stat. 326) \[sections 459r to 459t of this title\], the Secretary of the Interior may authorize the grantee to exchange or otherwise dispose of any lands so conveyed in order to acquire other lands of approximately equal value for the purpose of consolidating the holdings of the grantee, the title to lands so acquired to be satisfactory to the Attorney General. For the aforesaid purpose the Secretary is authorized to execute a release, as to the particular lands involved, of any condition providing for a reversion of title to the United States, that may be contained in the conveyance by the United States to said grantee. No such release shall be executed, however, unless the grantee shall agree, in form satisfactory to the Secretary, that the lands to be acquired by it shall be subject to the conditions contained in the original conveyance from the United States, except that, in lieu of a provision for reversion, the grantee shall agree to convey said lands to the United States upon a finding by the Secretary in accordance with the procedure provided in said Act of June 6, 1942, that the grantee has not complied withsuch conditions during a period of more than three years. Lands so conveyed to the United States shall be subject to administration or disposition in like manner as recreational demonstration project lands that revert to the United States under the terms of the aforesaid Act."
+Sec. 2. Upon the conveyance of the Silver Creek recreational demonstration project to the State of Oregon, or political subdivision thereof, pursuant to the Act of June 6, 1942 (56 Stat. 326) \[sections 459r to 459t of this title\], the Secretary of the Interior may authorize the grantee to exchange or otherwise dispose of any lands so conveyed in order to acquire other lands of approximately equal value for the purpose of consolidating the holdings of the grantee, the title to lands so acquired to be satisfactory to the Attorney General. For the aforesaid purpose the Secretary is authorized to execute a release, as to the particular lands involved, of any condition providing for a reversion of title to the United States, that may be contained in the conveyance by the United States to said grantee. No such release shall be executed, however, unless the grantee shall agree, in form satisfactory to the Secretary, that the lands to be acquired by it shall be subject to the conditions contained in the original conveyance from the United States, except that, in lieu of a provision for reversion, the grantee shall agree to convey said lands to the United States upon a finding by the Secretary in accordance with the procedure provided in said Act of June 6, 1942, that the grantee has not complied with such conditions during a period of more than three years. Lands so conveyed to the United States shall be subject to administration or disposition in like manner as recreational demonstration project lands that revert to the United States under the terms of the aforesaid Act."
 
 #### Catoctin Recreational Demonstration Area
 

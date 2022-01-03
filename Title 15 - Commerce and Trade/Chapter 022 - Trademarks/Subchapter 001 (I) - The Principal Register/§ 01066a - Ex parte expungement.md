@@ -38,7 +38,7 @@ A petition filed under subsection (a), together with any supporting documents, s
 
 #### (d) Ex parte expungement procedures
 
-The procedures for ex parte expungement shall be the same as the procedures for examinationunder section 1062(b) of this title, except that the Director shall promulgate regulations establishing and governing a proceeding under this section, which may include regulations that—
+The procedures for ex parte expungement shall be the same as the procedures for examination under section 1062(b) of this title, except that the Director shall promulgate regulations establishing and governing a proceeding under this section, which may include regulations that—
 
 &emsp;(1) set response and extension times particular to this type of proceeding, which, notwithstanding section 1062(b)(3) of this title, need not be extendable to 6 months;
 
@@ -94,9 +94,11 @@ Nothing in this section shall affect the requirement for use in commerce of a ma
 
 (July 5, 1946, ch. 540, title I, §16A, as added Pub. L. 116–260, div. Q, title II, §225(a), Dec. 27, 2020, 134 Stat. 2202.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to anymark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1064 of this title.
+Section effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under section 1064 of this title.
 
 #### Regulations
 

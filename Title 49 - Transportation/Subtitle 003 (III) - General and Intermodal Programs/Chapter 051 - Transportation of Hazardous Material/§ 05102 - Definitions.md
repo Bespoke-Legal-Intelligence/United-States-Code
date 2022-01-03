@@ -182,6 +182,8 @@ In clause (9), before subclause (A), the words "including any trustee, receiver,
 
 In clause (12), the words "by any mode" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in par. (6), is section 4 of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2204, which was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
@@ -221,6 +223,8 @@ Pars. (11) to (14). Pub. L. 109–59, §7102(8), added par. (11) and redesignate
 <b>1995</b>—Par. (7). Pub. L. 104–88 substituted "motor carrier, motor private" for "motor common carrier, motor contract carrier, motor private" and "section 13102" for "section 10102".
 
 <b>1994</b>—Pars. (3)(C)(ii), (4)(A)(iii). Pub. L. 103–311 substituted "packagings" for "packages".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

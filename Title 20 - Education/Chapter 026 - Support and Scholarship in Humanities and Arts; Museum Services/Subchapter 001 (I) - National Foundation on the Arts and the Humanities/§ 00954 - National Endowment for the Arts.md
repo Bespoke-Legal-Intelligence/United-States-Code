@@ -90,7 +90,7 @@ Any group shall be eligible for financial assistance pursuant to this section on
 
 > but in no event shall any State be allotted less than $200,000.
 
-(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment forsuch fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+(4)(A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: <i>Provided</i>, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
 
 &emsp;(i) give consideration to the various circumstances the State is encountering at the time of such request; and
 
@@ -236,6 +236,8 @@ The Chairperson of the National Endowment for the Arts shall, in ongoing consult
 
 (Pub. L. 89–209, §5, Sept. 29, 1965, 79 Stat. 846; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–348, §§2, 3, June 18, 1968, 82 Stat. 185; Pub. L. 91–346, §§4, 5(a)(1), (2), 6, 7, July 20, 1970, 84 Stat. 443, 445; Pub. L. 93–133, §2(a)(3), (4), Oct. 19, 1973, 87 Stat. 462; Pub. L. 94–462, title I, §§101, 102, title III, §301(a), title IV, §401(a), Oct. 8, 1976, 90 Stat. 1971, 1978, 1980; Pub. L. 96–496, title I, §§102, 109(a), (b), Dec. 4, 1980, 94 Stat. 2583, 2591; renumbered title I, §5, Pub. L. 98–306, §2, May 31, 1984, 98 Stat. 223; renumbered §5 and amended Pub. L. 99–194, title I, §§101(1), 105, Dec. 20, 1985, 99 Stat. 1332, 1333; Pub. L. 101–512, title III, §318 \[title I, §§103(a)–(i)(1), 104\], Nov. 5, 1990, 104 Stat. 1960, 1963–1966; Pub. L. 113–76, div. G, title IV, §416, Jan. 17, 2014, 128 Stat. 341.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The effective date of this subsection, referred to in subsec. (l)(3)(A), is October 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
@@ -268,7 +270,7 @@ Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\],
 
 Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson."
 
-Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted "Internal Revenue Code of 1986" for "InternalRevenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 Subsec. (g)(2)(E)(i), (ii). Pub. L. 101–512, §318 \[title I, §103(d)\], added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
@@ -385,6 +387,8 @@ Subsec. (h)(5). Pub. L. 90–348, §3, struck out provision that amounts availab
 Subsecs. (j), (k). Pub. L. 90–348, §2(b), inserted "of exceptional talent" after "the group or individual".
 
 <b>1967</b>—Subsec. (d). Pub. L. 90–83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -48,7 +48,7 @@ Murder.—The act of a person who intentionally kills, or conspires or attempts 
 
 &emsp;&emsp;(E)
 
-Mutilation or maiming.—The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally in the course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by any mutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
+Mutilation or maiming.—The act of a person who intentionally injures, or conspires or attempts to injure, or injures whether intentionally or unintentionally inthe course of committing any other offense under this subsection, one or more persons taking no active part in the hostilities, including those placed out of combat by sickness, wounds, detention, or any other cause, by disfiguring the person or persons by any mutilation thereof or by permanently disabling any member, limb, or organ of his body, without any legitimate medical or dental purpose.
 
 &emsp;&emsp;(F)
 

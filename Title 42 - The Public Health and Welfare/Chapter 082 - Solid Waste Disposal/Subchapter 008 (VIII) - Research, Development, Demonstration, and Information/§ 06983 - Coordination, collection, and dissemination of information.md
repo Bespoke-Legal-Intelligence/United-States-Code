@@ -48,7 +48,7 @@ The Administrator is authorized, in cooperation with appropriate State and local
 
 #### (e) Information programs
 
-(1) The Administrator shall implement a program for the rapid dissemination of information on solid waste management, hazardous wastemanagement, resource conservation, and methods of resource recovery from solid waste, including the results of any relevant research, investigations, experiments, surveys, studies, or other information which may be useful in the implementation of new or improved solid waste management practices and methods and information on any other technical, managerial, financial, or market aspect of resource conservation and recovery facilities.
+(1) The Administrator shall implement a program for the rapid dissemination of information on solid waste management, hazardous waste management, resource conservation, and methods of resource recovery from solid waste, including the results of any relevant research, investigations, experiments, surveys, studies, or other information which may be useful in the implementation of new or improved solid waste management practices and methods and information on any other technical, managerial, financial, or market aspect of resource conservation and recovery facilities.
 
 (2) The Administrator shall develop and implement educational programs to promote citizen understanding of the need for environmentally sound solid waste management practices.
 
@@ -62,9 +62,13 @@ Upon request, the full range of alternative technologies, programs or processes 
 
 (Pub. L. 89–272, title II, §8003, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2834; amended Pub. L. 95–609, §7(u), Nov. 8, 1978, 92 Stat. 3083.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a)(3). Pub. L. 95–609 substituted "solid waste" for "discarded materials".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

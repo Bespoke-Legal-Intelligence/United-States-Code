@@ -10,9 +10,13 @@ For purposes of subsection (a), in the case of an individual, any charge (includ
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 76; Pub. L. 100–647, title V, §5073(a), Nov. 10, 1988, 102 Stat. 3682.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–647 amended section generally. Prior to amendment, section read as follows: "Except as otherwise expressly provided in this chapter, no deduction shall be allowed for personal, living, or family expenses."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

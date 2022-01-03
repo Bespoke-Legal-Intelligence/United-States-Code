@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (3) Declassification
 
-&emsp;The term "declassification" means the process by which records or materials that havebeen classified are determined no longer to require protection from unauthorized disclosure to protect the national security of the United States.
+&emsp;The term "declassification" means the process by which records or materials that have been classified are determined no longer to require protection from unauthorized disclosure to protect the national security of the United States.
 
 #### (4) Donated historical material
 
@@ -53,6 +53,8 @@ In this subchapter:
 &emsp;The term "records of archival value" means records that have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government.
 
 (Pub. L. 106–567, title VII, §709, Dec. 27, 2000, 114 Stat. 2863.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

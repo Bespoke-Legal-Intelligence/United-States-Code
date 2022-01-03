@@ -30,13 +30,19 @@ Except as limited by subsection (c), there shall be deposited in the Fund—
 
 &emsp;(3) the proceeds of forfeited appearance bonds, bail bonds, and collateral collected under section 3146 of title 18;
 
-&emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18; and
+&emsp;(4) any money ordered to be paid into the Fund under section 3671(c)(2) of title 18;
 
 &emsp;(5) any gifts, bequests, or donations to the Fund from private entities or individuals, which the Director is hereby authorized to accept for deposit into the Fund, except that the Director is not hereby authorized to accept any such gift, bequest, or donation that—
 
 &emsp;&emsp;(A) attaches conditions inconsistent with applicable laws or regulations; or
 
-&emsp;&emsp;(B) is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime.
+&emsp;&emsp;(B) is conditioned upon or would require the expenditure of appropriated funds that are not available to the Office for Victims of Crime; and
+
+&emsp;(6) any funds that would otherwise be deposited in the general fund of the Treasury collected pursuant to—
+
+&emsp;&emsp;(A) a deferred prosecution agreement; or
+
+&emsp;&emsp;(B) a non-prosecution agreement.
 
 #### (c) Retention of sums in Fund; availability for expenditure without fiscal year limitation
 
@@ -78,11 +84,11 @@ The Fund shall be available as follows:
 
 &emsp;(6)(A) The Director may set aside up to $10,000,000 of the amounts remaining in the Fund in any fiscal year after distributing the amounts under paragraphs (2), (3), and (4), in a Child Pornography Victims Reserve, which may be used by the Attorney General for payments under section 2259(d) of title 18.
 
-&emsp;(B) Amounts in the reserve may be carried over from fiscal year to fiscal year, but thetotal amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
+&emsp;(B) Amounts in the reserve may be carried over from fiscal year to fiscal year, but the total amount of the reserve shall not exceed $10,000,000. Notwithstanding subsection (c) and any limitation on Fund obligations in any future Act, unless the same should expressly refer to this section, any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
 #### (e) Amounts awarded and unspent
 
-Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director. Any remaining unobligated sums shall be returned to the Fund.
+Any amount awarded as part of a grant under this subchapter that remains unspent at the end of a fiscal year in which the grant is made may be expended for the purpose for which the grant is made at any time during the 3 succeeding fiscal years, at the end of which period, any remaining unobligated sums shall be available for deposit into the emergency reserve fund referred to in subsection (d)(5) at the discretion of the Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General. Any remaining unobligated sums shall be returned to the Fund.
 
 #### (f) "Offenses against the United States" as excluding
 
@@ -106,7 +112,7 @@ As used in this section, the term "offenses against the United States" does not 
 
 (3) As used in this subsection, the term "tribe" <sup>2</sup> has the meaning given that term in section 5304(b) <sup>1</sup> of title 25.
 
-(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29, 1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, §3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, §113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, §2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, §5(b), Dec. 7, 2018, 132 Stat. 4387.)
+(Pub. L. 98–473, title II, §1402, Oct. 12, 1984, 98 Stat. 2170; Pub. L. 99–401, title I, §102(b)(1), (2), Aug. 27, 1986, 100 Stat. 904; Pub. L. 99–646, §82, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VII, §§7121, 7124, Nov. 18, 1988, 102 Stat. 4419, 4422; Pub. L. 101–647, title V, §504, Nov. 29, 1990, 104 Stat. 4822; Pub. L. 102–572, title X, §1001, Oct. 29,1992, 106 Stat. 4520; Pub. L. 103–121, title I, §110(a), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–322, title XXIII, §230201, title XXXIII, §330025(a), Sept. 13, 1994, 108 Stat. 2079, 2151; Pub. L. 104–132, title II, §§232(b), (c)(1), 236, Apr. 24, 1996, 110 Stat. 1243, 1244, 1247; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §112\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–119, title I, §109(a), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §119\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–177, title I, §104(a), Mar. 10, 2000, 114 Stat. 36; Pub. L. 106–386, div. C, §2003(b), (c)(2), (d), Oct. 28, 2000, 114 Stat. 1544, 1546; Pub. L. 106–553, §1(a)(2) \[title I, §113, formerly §114\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68, renumbered Pub. L. 106–554, §1(a)(4) \[div. A, §213(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–179; Pub. L. 107–56, title VI, §621(a)–(d), Oct. 26, 2001, 115 Stat. 370, 371; Pub. L. 107–77, title I, §111, Nov. 28, 2001, 115 Stat. 765; Pub. L. 109–162, title XI, §1132, Jan. 5, 2006, 119 Stat. 3107; Pub. L. 109–435, title I, §102(b), Dec. 20, 2006, 120 Stat. 3200; Pub. L. 113–163, §3, Aug. 8, 2014, 128 Stat. 1866; Pub. L. 114–22, title I, §113(b), May 29, 2015, 129 Stat. 241; Pub. L. 114–236, §2(c), Oct. 7, 2016, 130 Stat. 967; Pub. L. 115–299, §5(b), Dec. 7, 2018, 132 Stat. 4387; Pub. L. 117–27, §2(a), July 22, 2021, 135 Stat. 301.)
 
 #### <b>Editorial Notes</b>
 
@@ -129,6 +135,10 @@ Section 5304 of title 25, referred to in subsec. (g)(3), has been amended, and s
 Section was formerly classified to section 10601 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(6). Pub. L. 117–27, §2(a)(1), added par. (6).
+
+Subsec. (e). Pub. L. 117–27, §2(a)(2), substituted "Director, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General" for "Director".
 
 <b>2018</b>—Subsec. (d)(6). Pub. L. 115–299 added par. (6).
 
@@ -166,7 +176,7 @@ Subsec. (d)(5). Pub. L. 107–56, §621(d), amended par. (5) generally. Prior to
 
 "(5)(A) If the sums available in the Fund are sufficient to fully provide grants to the States pursuant to section 10602(a)(1) of this title, the Director may retain any portion of the Fund that was deposited during a fiscal year that was in excess of 110 percent of the total amount deposited in the Fund during the preceding fiscal year as an emergency reserve. Such reserve shall not exceed $100,000,000.
 
-"(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections 10602 and 10603 of this title in years in which supplemental grants are needed."
+"(B) The emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title, to provide compensation to victims of international terrorism under the program under section 10603c of this title, and to supplement the funds available to provide grants to States for compensation and assistance in accordance with sections10602 and 10603 of this title in years in which supplemental grants are needed."
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–386, §2003(d), which directed insertion of "Notwithstanding subsection (d)(5), all sums deposited in the Fund in any fiscal year that are not made available for obligation by Congress in the subsequent fiscal year shall remain in the Fund for obligation in future fiscal years, without fiscal year limitation." at the end of section 1402(c) of the Victims of Crime Act 1984, was executed by making the insertion at the end of subsec. (c) of this section, which is section 1402 of the Victims of Crime Act of 1984, to reflect the probable intent of Congress.
 

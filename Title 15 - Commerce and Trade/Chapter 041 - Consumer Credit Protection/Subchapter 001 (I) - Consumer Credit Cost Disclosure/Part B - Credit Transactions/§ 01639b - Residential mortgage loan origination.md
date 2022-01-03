@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For any mortgage loan, a mortgage originator may not receive from any person otherthan the consumer and no person, other than the consumer, who knows or has reason to know that a consumer has directly compensated or will directly compensate a mortgage originator may pay a mortgage originator any origination fee or charge except bona fide third party charges not retained by the creditor, mortgage originator, or an affiliate of the creditor or mortgage originator.
+&emsp;&emsp;For any mortgage loan, a mortgage originator may not receive from any person other than the consumer and no person, other than the consumer, who knows or has reason to know that a consumer has directly compensated or will directly compensate a mortgage originator may pay a mortgage originator any origination fee or charge except bona fide third party charges not retained by the creditor, mortgage originator, or an affiliate of the creditor or mortgage originator.
 
 #### (B) Exception
 
@@ -92,7 +92,7 @@
 
 #### (1) In general
 
-&emsp;The Bureau shall, by regulations, prohibit or condition terms, acts or practices relating to residential mortgage loans that the Bureau finds to be abusive, unfair, deceptive, predatory, necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section and section1639c of this title, necessary or proper to effectuate the purposes of this section and section 1639c of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections, or are not in the interest of the borrower.
+&emsp;The Bureau shall, by regulations, prohibit or condition terms, acts or practices relating to residential mortgage loans that the Bureau finds to be abusive, unfair, deceptive, predatory, necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section and section 1639c of this title, necessary or proper to effectuate the purposes of this section and section 1639c of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections, or are not in the interest of the borrower.
 
 #### (2) Application
 
@@ -103,6 +103,8 @@
 This section and any regulations promulgated thereunder do not apply to an extension of credit relating to a plan described in section 101(53D) of title 11.
 
 (Pub. L. 90–321, title I, §129B, as added and amended Pub. L. 111–203, title X, §1100A(2), title XIV, §§1402(a)(2), 1403–1405(a), July 21, 2010, 124 Stat. 2107, 2139–2141.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +125,8 @@ Subsecs. (e), (f). Pub. L. 111–203, §1405(a), added subsecs. (e) and (f).
 Amendment by section 1100A(2) of Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 Amendment by sections 1403–1405(a) of Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

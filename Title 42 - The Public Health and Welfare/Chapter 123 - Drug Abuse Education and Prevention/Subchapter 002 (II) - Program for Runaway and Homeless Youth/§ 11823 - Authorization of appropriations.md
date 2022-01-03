@@ -4,6 +4,8 @@ To carry out this subchapter, there are authorized to be appropriated $16,000,00
 
 (Pub. L. 100–690, title III, §3513, Nov. 18, 1988, 102 Stat. 4256; Pub. L. 102–132, §2, Oct. 18, 1991, 105 Stat. 630.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–132 amended section generally. Prior to amendment, section read as follows:
@@ -15,6 +17,8 @@ Authorization.—Subject to subsection (b) of this section, to carry out this su
 "(b)
 
 Limitation.—No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title III of the Juvenile Justice and Delinquency Prevention Act of 1974 (42 U.S.C. 5701–5751) for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

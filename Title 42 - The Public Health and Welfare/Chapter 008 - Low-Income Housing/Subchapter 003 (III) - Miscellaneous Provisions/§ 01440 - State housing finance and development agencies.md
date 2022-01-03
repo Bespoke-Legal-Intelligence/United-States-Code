@@ -12,13 +12,13 @@ It is the purpose of this section to encourage the formation and effective opera
 
 &emsp;(A) the term "State housing finance or State development agency" means any public body or agency, publicly sponsored corporation, or instrumentality of one or more States which is designated by the Governor (or Governors in the case of an interstate development agency) for purposes of this section;
 
-&emsp;(B) the term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or any territory or possession of the United States; and
+&emsp;(B) the term "State" means any State of the United States, the District of Columbia, theCommonwealth of Puerto Rico, or any territory or possession of the United States; and
 
 &emsp;(C) the term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (c) Guarantee of obligations issued by agencies; grants to agencies for interest payments on obligations; maximum amount of grants; prerequisites for guarantee; full faith and credit pledged for payment of guarantee; effect and validity of guarantee; fees and charges for guarantee; authorization of appropriations for grants; maximum amount of obligations guaranteed
 
-(1) The Secretary is authorized to guarantee, and enter into commitments to guarantee, thebonds, debentures, notes, and other obligations issued by State housing finance or State development agencies to finance development activities as determined by him to be in furtherance of the purpose of clause (1) or (2) of subsection (a), except that obligations issued to finance activities solely in furtherance of the purpose of clause (1) of subsection (a) may be guaranteed only if the activities are in connection with the revitalization of slum or blighted areas under title I of this Act \[42 U.S.C. 5301 et seq.\] or under any other program determined to be acceptable by the Secretary for this purpose.
+(1) The Secretary is authorized to guarantee, and enter into commitments to guarantee, the bonds, debentures, notes, and other obligations issued by State housing finance or State development agencies to finance development activities as determined by him to be in furtherance of the purpose of clause (1) or (2) of subsection (a), except that obligations issued to finance activities solely in furtherance of the purpose of clause (1) of subsection (a) may be guaranteed only if the activities are in connection with the revitalization of slum or blighted areas under title I of this Act \[42 U.S.C. 5301 et seq.\] or under any other program determined to be acceptable by the Secretary for this purpose.
 
 (2) The Secretary is authorized to make, and to contract to make, grants to or on behalf of a State housing finance or State development agency to cover not to exceed 331/3 per centum of the interest payable on bonds, debentures, notes, and other obligations issued by such agency to finance development activities in furtherance of the purposes of this section.
 
@@ -46,13 +46,13 @@ The Secretary shall take such steps as he considers reasonable to assure that bo
 
 (1) The Secretary is authorized to establish a revolving fund to provide for the timely payment of any liabilities incurred as a result of guarantees under subsection (c) and for the payment of obligations issued to the Secretary of the Treasury under paragraph (2) of this subsection. Such revolving fund shall be comprised of (A) receipts from fees and charges; (B) recoveries under security, subrogation, and other rights; (C) repayments, interest income, and any other receipts obtained in connection with guarantees made under subsection (c); (D) proceeds of the obligations issued to the Secretary of the Treasury pursuant to paragraph (2) of this subsection; and (E) such sums, which are hereby authorized to be appropriated, as may be required for such purposes. Money in the revolving fund not currently needed for the purpose of this section shall be kept on hand or on deposit, or invested in obligations of the United States or guaranteed thereby, or in obligations, participations, or other instruments which are lawful investments for fiduciary, trust, or public funds.
 
-(2) The Secretary may issue obligations to the Secretary of the Treasury in an amount sufficient to enable the Secretary to carry out his functions with respect to the guarantees authorized by subsection (c). The obligations issued under this paragraph shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations so issued, and for that purpose he is authorized to use a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extended to include purchases of the obligations hereunder.
+(2) The Secretary may issue obligations to the Secretary of the Treasury in an amount sufficient to enable the Secretary to carry out his functions with respect to the guarantees authorized by subsection (c). The obligations issued under this paragraph shall have such maturities and bear such rate or rates of interest as shall be determined by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any obligations so issued, and for that purpose he is authorized to use a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which securities may be issued under such chapter are extendedto include purchases of the obligations hereunder.
 
 (3) Notwithstanding any other provision of law relating to the acquisition, handling, improvement, or disposal of real and other property by the United States, the Secretary shall have power, for the protection of the interests of the fund authorized under this subsection, to pay out of such fund all expenses or charges in connection with the acquisition, handling, improvement, or disposal of any property, real or personal, acquired by him as a result of recoveries under security, subrogation, or other rights.
 
 #### (f) Technical assistance to agencies for planning and execution of development activities
 
-The Secretary is authorized to provide, either directly or by contract or other arrangements,technical assistance to State housing finance or State development agencies to assist them in connection with planning and carrying out development activities in furtherance of the purpose of this section.
+The Secretary is authorized to provide, either directly or by contract or other arrangements, technical assistance to State housing finance or State development agencies to assist them in connection with planning and carrying out development activities in furtherance of the purpose of this section.
 
 #### (g) Labor standards
 
@@ -69,6 +69,8 @@ All laborers and mechanics employed by contractors or subcontractors in housing 
 (2) With respect to any obligation issued by a State housing finance or State development agency for which the issuer has elected to receive the benefits of the assistance provided under this section, the interest paid on such obligation and received by the purchaser thereof (or his successor in interest) shall be included in gross income for the purposes of chapter 1 of title 26.
 
 (Pub. L. 93–383, title VIII, §802(a)–(h), Aug. 22, 1974, 88 Stat. 722–724; Pub. L. 98–479, title II, §203(l)(4), Oct. 17, 1984, 98 Stat. 2231.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

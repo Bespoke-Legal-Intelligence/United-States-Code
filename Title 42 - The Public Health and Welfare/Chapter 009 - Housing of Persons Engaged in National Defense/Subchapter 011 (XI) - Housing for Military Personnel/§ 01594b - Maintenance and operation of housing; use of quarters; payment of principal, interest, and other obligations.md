@@ -4,13 +4,17 @@ The Secretary of Defense or his designee is authorized to maintain and operate a
 
 (Aug. 11, 1955, ch. 783, title IV, §405, 69 Stat. 652; Aug. 7, 1956, ch. 1029, title V, §508, 70 Stat. 1110.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, as amended, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title12, Banks and Banking, and enacted provisions set out as a note under section 1748 of Title 12. For complete classification of this Act to the Code, see Tables.
+This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, as amended, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under section 1748 of Title 12. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 <b>1956</b>—Act Aug. 7, 1956, substituted "$21,000,000" for "$9,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -6,7 +6,7 @@
 
 (c) A person must file a complaint with the Board to recover damages under section 11704(b) of this title within 2 years after the claim accrues.
 
-(d) The limitation period under subsection (b) of this section is extended for 6 months from the time written notice is given to the claimant by the rail carrier of disallowance of any part of the claim specified in the notice if a written claim is given to the rail carrier within that limitation period. The limitation periods under subsections (b) and (c) of this section are extended for 90 days from the time the rail carrierbegins a civil action under subsection (a) of this section to recover charges related to the same transportation or service, or collects (without beginning a civil action under that subsection) the charge for that transportation or service if that action is begun or collection is made within the appropriate period.
+(d) The limitation period under subsection (b) of this section is extended for 6 months from the time written notice is given to the claimant by the rail carrier of disallowance of any part of the claim specified in the notice if a written claim is given to the rail carrier within that limitation period. The limitation periods under subsections (b) and (c) of this section are extended for 90 days from the time the rail carrier begins a civil action under subsection (a) of this section to recover charges related to the same transportation or service, or collects (without beginning a civil action under that subsection) the charge for that transportation or service if that action is begun or collection is made within the appropriate period.
 
 (e) A person must begin a civil action to enforce an order of the Board against a rail carrier for the payment of money within one year after the date the order required the money to be paid.
 
@@ -22,11 +22,15 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 847.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11706 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 11705, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451; Pub. L. 99–521, §12(b), Oct. 22, 1986, 100 Stat. 2998, related to rights and remedies of persons injured by certain carriers, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a). See sections 11704, 14704, and 15904 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

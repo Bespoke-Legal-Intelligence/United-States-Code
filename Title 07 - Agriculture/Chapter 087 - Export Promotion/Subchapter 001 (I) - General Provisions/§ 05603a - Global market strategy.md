@@ -20,9 +20,13 @@ The consultations under subsection (a) shall include a review of—
 
 (Pub. L. 107–171, title III, §3206, May 13, 2002, 116 Stat. 301.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

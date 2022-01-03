@@ -4,6 +4,8 @@ Except as otherwise specifically provided by law, sections 2034 to 2042, inclusi
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 388, §2044; Pub. L. 94–455, title XX, §2001(c)(1)(M), Oct. 4, 1976, 90 Stat. 1853; renumbered §2045, Pub. L. 97–34, title IV, §403(d)(3)(A)(i), Aug. 13, 1981, 95 Stat. 304.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2045 was renumbered section 2046 of this title.
@@ -12,7 +14,9 @@ A prior section 2045 was renumbered section 2046 of this title.
 
 <b>1976</b>—Pub. L. 94–455 substituted "specifically provided by law" for "specifically provided therein".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, see section 2001(d) ofPub. L. 94–455, set out as a note under section 2001 of this title.
 

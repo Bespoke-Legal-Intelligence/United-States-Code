@@ -68,7 +68,7 @@ No loan guarantee shall be made unless the Secretary determines that—
 
 #### (B) Superiority of rights
 
-&emsp;&emsp;The rights of the Secretary, with respect to any property acquired pursuant to a loanguarantee or related agreements, shall be superior to the rights of any other person with respect to the property.
+&emsp;&emsp;The rights of the Secretary, with respect to any property acquired pursuant to a loan guarantee or related agreements, shall be superior to the rights of any other person with respect to the property.
 
 #### (3) Notification
 
@@ -90,7 +90,7 @@ In establishing the terms and conditions of a loan guarantee under this section,
 
 #### (1) In general
 
-&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretary determines are sufficient to cover applicable administrative expenses.
+&emsp;The Secretary shall charge and collect fees for loan guarantees in amounts the Secretarydetermines are sufficient to cover applicable administrative expenses.
 
 #### (2) Availability
 
@@ -166,7 +166,7 @@ The Secretary shall promulgate regulations and policies to carry out this sectio
 
 #### (r) Sense of Congress
 
-It is the sense of Congress that no loan guarantee shall be made under this section unlessthe borrower agrees to use a federally-approved electronic employment eligibility verification system to verify the employment eligibility of—
+It is the sense of Congress that no loan guarantee shall be made under this section unless the borrower agrees to use a federally-approved electronic employment eligibility verification system to verify the employment eligibility of—
 
 &emsp;(1) all persons hired during the contract term by the borrower to perform employment duties within the United States; and
 
@@ -186,7 +186,7 @@ In this section:
 
 #### (3) Innovative technology
 
-&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
+&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the UnitedStates at the time the loan guarantee is issued.
 
 #### (4) Loan guarantee
 
@@ -205,6 +205,8 @@ In this section:
 There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
 
 (Pub. L. 96–480, §26, as added Pub. L. 111–358, title VI, §602, Jan. 4, 2011, 124 Stat. 4026.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -10,13 +10,15 @@ In establishing the program under subsection (a), the Secretary shall permit eac
 
 #### (c) Consultation
 
-In developing the program under subsection (a), and the National List under section 6517 of this title, the Secretary shall consult with the National Organic Standards Board established under section 6518 of this title.
+In developing the program under subsection (a), and the National List under section 6517 ofthis title, the Secretary shall consult with the National Organic Standards Board established under section 6518 of this title.
 
 #### (d) Certification
 
 The Secretary shall implement the program established under subsection (a) through certifying agents. Such certifying agents may certify a farm or handling operation that meets the requirements of this chapter and the requirements of the organic certification program of the State (if applicable) as an organically certified farm or handling operation.
 
 (Pub. L. 101–624, title XXI, §2104, Nov. 28, 1990, 104 Stat. 3937.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exclusions From Organic Certification
 

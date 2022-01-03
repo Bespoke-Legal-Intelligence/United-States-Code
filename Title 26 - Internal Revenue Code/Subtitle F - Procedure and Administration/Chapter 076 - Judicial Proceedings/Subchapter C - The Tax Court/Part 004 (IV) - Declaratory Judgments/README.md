@@ -5,9 +5,11 @@
 | [7476\.](%C2%A7%2007476%20-%20Declaratory%20judgments%20relating%20to%20qualification%20of%20certain%20retirement%20plans.md) | Declaratory judgments relating to qualification of certain retirement plans. |
 | [7477\.](%C2%A7%2007477%20-%20Declaratory%20judgments%20relating%20to%20value%20of%20certain%20gifts.md) | Declaratory judgments relating to value of certain gifts. |
 | [7478\.](%C2%A7%2007478%20-%20Declaratory%20judgments%20relating%20to%20status%20of%20certain%20governmental%20obligations.md) | Declaratory judgments relating to status of certain governmental obligations. |
-| [7479\.](%C2%A7%2007479%20-%20Declaratory%20judgments%20relating%20to%20eligibility%20of%20estate%20with%20respect%20to%20installment%20payments%20under%20section%206166.md) | Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166. |
+| [7479\.](%C2%A7%2007479%20-%20Declaratory%20judgments%20relating%20to%20eligibility%20of%20estate%20with%20respect%20to%20installment%20payments%20under%20section%206166.md) | Declaratory judgments relating to eligibility of estate with respect to installment payments under section 6166.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -108,13 +108,15 @@ Each grantee which receives funds for a demonstration project for services under
 
 #### (e) Submission of applications to Governor; comments by Governor
 
-Each applicant shall provide the Governor of the State in which the applicant is located a copy of each application submitted to the Secretary for a grant for a demonstration projectfor services under this subchapter. The Governor shall submit to the applicant comments on any such application within the period of sixty days beginning on the day when the Governor receives such copy. The applicant shall include the comments of the Governor with such application.
+Each applicant shall provide the Governor of the State in which the applicant is located a copy of each application submitted to the Secretary for a grant for a demonstration project for services under this subchapter. The Governor shall submit to the applicant comments on any such application within the period of sixty days beginning on the day when the Governor receives such copy. The applicant shall include the comments of the Governor with such application.
 
 #### (f) Availability of core services
 
 No application submitted for a grant for a demonstration project for care services under this subchapter may be approved unless the Secretary is satisfied that core services shall be available through the applicant within a reasonable time after such grant is received.
 
 (July 1, 1944, ch. 373, title XX, §2006, as added Pub. L. 97–35, title IX, §955(a), Aug. 13, 1981, 95 Stat. 585.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

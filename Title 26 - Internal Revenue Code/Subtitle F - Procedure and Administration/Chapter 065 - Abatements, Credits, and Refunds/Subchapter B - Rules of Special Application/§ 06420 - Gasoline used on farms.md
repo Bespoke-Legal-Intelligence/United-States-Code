@@ -84,7 +84,7 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 
 &emsp;Payment shall be made under subsection (a), only to—
 
-&emsp;&emsp;(A) the United States or an agency or instrumentality thereof, a State, a politicalsubdivision of a State, or an agency or instrumentality of one or more States or political subdivisions, or
+&emsp;&emsp;(A) the United States or an agency or instrumentality thereof, a State, a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions, or
 
 &emsp;&emsp;(B) an organization exempt from tax under section 501(a) (other than an organization required to make a return of the tax imposed under subtitle A for its taxable year).
 
@@ -105,6 +105,8 @@ The Secretary may by regulations prescribe the conditions, not inconsistent with
 &emsp;&emsp;<b>(4) For treatment of an Indian tribal government as a State (and a subdivision of an Indian tribal government as a political subdivision of a State), see section 7871.</b>
 
 (Added Apr. 2, 1956, ch. 160, §1, 70 Stat. 87; amended Pub. L. 85–859, title I, §163(d)(2), Sept. 2, 1958, 72 Stat. 1311; Pub. L. 89–44, title VIII, §809(a), June 21, 1965, 79 Stat. 165; Pub. L. 91–258, title II, §§205(c)(7), 207(b), May 21, 1970, 84 Stat. 242, 248; Pub. L. 94–455, title XIX, §§1906(a)(26), (b)(6)(A), (13)(A), Oct. 4, 1976, 90 Stat. 1827, 1833, 1834; Pub. L. 95–458, §3(a), (c), Oct. 14, 1978, 92 Stat. 1257; Pub. L. 97–424, title V, §§511(f), 516(b)(4), Jan. 6, 1983, 96 Stat. 2172, 2183; Pub. L. 97–473, title II, §202(b)(12), Jan. 14, 1983, 96 Stat. 2610; Pub. L. 98–369, div. A, title IV, §474(r)(38), July 18, 1984, 98 Stat. 846; Pub. L. 99–499, title V, §521(c)(1), Oct. 17, 1986, 100 Stat. 1778; Pub. L. 100–17, title V, §502(b)(6), Apr. 2, 1987, 101 Stat. 257; Pub. L. 101–239, title VII, §7841(d)(20), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11211(d)(5), Nov. 5, 1990, 104 Stat. 1388–427; Pub. L. 102–240, title VIII, §8002(b)(5), Dec. 18, 1991, 105 Stat. 2203; Pub. L. 103–66, title XIII, §§13241(f)(5), 13242(d)(20), Aug. 10, 1993, 107 Stat. 512, 524; Pub. L. 109–59, title XI, §11121(a), (b), Aug. 10, 2005, 119 Stat. 1951; Pub. L. 115–141, div. U, title IV, §401(a)(289), Mar. 23, 2018, 132 Stat. 1198.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -158,7 +160,7 @@ Subsec. (c)(4), (5). Pub. L. 95–458, §3(a), added par. (4) and redesignated f
 
 Subsec. (b). Pub. L. 94–455, §1906(a)(26)(A), among other changes, struck out provisions relating to gasoline used before July 1, 1965, and struck out requirement that a person's first taxable year beginning after June 30, 1965, include the period after June 30, 1965, and before the beginning of that first taxable year.
 
-Subsec. (c)(3)(A). Pub. L. 94–455, §1906(b)(6)(A), among other changes, struck out "and for purposes of section 6416(b)(2)(G)(ii) (but not for purposes of section 4041)," after "in applying subsection (a) to this subparagraph," and provision that if the use of gasoline is by any person other than the owner, tenant, or operator of the farm, then, for purposes of applying section6416(b)(2)(G)(ii), any tax paid under section 4041 in respect of a liquid used on a farm for farming purposes be treated as having been paid by the owner, tenant, or operator of the farm on which such liquid is used.
+Subsec. (c)(3)(A). Pub. L. 94–455, §1906(b)(6)(A), among other changes, struck out "and for purposes of section 6416(b)(2)(G)(ii) (but not for purposes of section 4041)," after "in applying subsection (a) to this subparagraph," and provision that if the use of gasoline is by any person other than the owner, tenant, or operator of the farm, then, for purposes of applying section 6416(b)(2)(G)(ii), any tax paid under section 4041 in respect of a liquid used on a farm for farming purposes be treated as having been paid by the owner, tenant, or operator of the farm on which such liquid is used.
 
 Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
@@ -183,6 +185,8 @@ Subsec. (d). Pub. L. 89–44, §809(a)(3), substituted "payable" for "paid" in f
 Subsecs. (h), (i). Pub. L. 89–44, §809(a)(1)(B), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 <b>1958</b>—Subsec. (c)(3)(A). Pub. L. 85–859 substituted "section 6416(b)(2)(G)(ii)" for "section 6416(b)(2)(C)(ii)" in two places in cl. (A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

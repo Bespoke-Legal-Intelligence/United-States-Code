@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than May 1 of each year, the Commission shall submit a report to the President, the Secretary of State, and Congress setting forth its recommendations for United States policy options based on its evaluations under section 6432 of this title.
+Not later than May 1 of each year, the Commission shall submit a report to the President,the Secretary of State, and Congress setting forth its recommendations for United States policy options based on its evaluations under section 6432 of this title.
 
 #### (b) Classified form of report
 

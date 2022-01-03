@@ -4,9 +4,13 @@ When such fish and game sanctuaries or refuges have been established as provided
 
 (Mar. 10, 1934, ch. 54, §2, 48 Stat. 400; June 25, 1948, ch. 645, §16, 62 Stat. 861.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, struck out penal provisions. See section 41 of Title 18, Crimes and Criminal Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

@@ -106,7 +106,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;&emsp;(B) for an unlicensed driver or a driver holding a foreign non-commercial driver's license, each conviction relating to the operation of a commercial motor vehicle.
 
-&emsp;(23) Not later than 1 year after the date of enactment of the Commercial Motor VehicleSafety Enhancement Act of 2012, the State shall implement a system and practices for the exclusive electronic exchange of driver history record information on the system the Secretary maintains under section 31309, including the posting of convictions, withdrawals, and disqualifications.
+&emsp;(23) Not later than 1 year after the date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, the State shall implement a system and practices for the exclusive electronic exchange of driver history record information on the system the Secretary maintains under section 31309, including the posting of convictions, withdrawals, and disqualifications.
 
 &emsp;(24) Before renewing or issuing a commercial driver's license to an individual, the State shall request information pertaining to the individual from the drug and alcohol clearinghouse maintained under section 31306a.
 
@@ -200,6 +200,8 @@ Subsection (a)(15) is substituted for 49 App.:2708(a)(15)–(19) for consistency
 
 In subsection (b), the words "in accordance with the requirements of such subsection" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Par. (3) of section 31308 of this title, referred to in subsec. (a)(4), was redesignated par. (4) by Pub. L. 109–59, title IV, §4122(2)(C), Aug. 10, 2005, 119 Stat. 1734.
@@ -232,7 +234,7 @@ Subsec. (a)(21). Pub. L. 109–59, §4123(b)(3), added par. (21).
 
 Subsec. (a)(8). Pub. L. 106–159, §202(b), inserted ", and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded" before the period at end.
 
-Subsec. (a)(9). Pub. L. 106–159, §202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation."
+Subsec. (a)(9). Pub. L. 106–159, §202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of theviolation not later than 10 days after the date the individual is found to have committed the violation."
 
 Subsec. (a)(10). Pub. L. 106–159, §202(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -251,6 +253,8 @@ Subsec. (a)(18) to (20). Pub. L. 106–159, §202(f)–(h), added pars. (18) to 
 Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: "The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title."
 
 <b>1995</b>—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

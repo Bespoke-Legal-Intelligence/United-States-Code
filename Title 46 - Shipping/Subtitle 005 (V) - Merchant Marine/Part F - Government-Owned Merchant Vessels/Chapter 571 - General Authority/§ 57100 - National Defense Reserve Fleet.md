@@ -22,7 +22,7 @@ Permitted Uses.—Except as otherwise provided by law, a vessel in the fleet may
 
 &emsp;(4) for training purposes to the extent authorized by the Secretary of Transportation with the concurrence of the Secretary of Defense;
 
-&emsp;(5) on a reimbursable basis, for charter to the government of any State, locality, or Territory of the United States, except that the prior consent of the Secretary of Defense for such use shall be required with respect to anyvessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense; or
+&emsp;(5) on a reimbursable basis, for charter to the government of any State, locality, or Territory of the United States, except that the prior consent of the Secretary of Defense for such use shall be required with respect to any vessel in the Ready Reserve Force or in the National Defense Reserve Fleet which is maintained in a retention status for the Department of Defense; or
 
 &emsp;(6) for civil contingency operations and Maritime Administration promotional and media events, in accordance with subsection (f).
 
@@ -78,7 +78,7 @@ Exemption From Tank Vessel Construction Standards.—Vessels in the National Def
 
 (f)
 
-Use of NDRF Vessels for Civil Contingency Operations and Promotional and Media Events.—With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration's mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
+Use of NDRF Vessels for Civil Contingency Operations and Promotional and MediaEvents.—With the concurrence of the Secretary of Defense, the Secretary of Transportation may allow the use of vessels in the National Defense Reserve Fleet (NDRF) for civil contingency operations requested by another Federal agency, and for Maritime Administration promotional and media events relating to demonstration projects and research and development supporting the Administration's mission, if the Secretary of Transportation determines such use is in the best interest of the Government after considering the following factors:
 
 &emsp;(1)
 
@@ -110,7 +110,7 @@ Vessel Status.—A vessel in the National Defense Reserve Fleet determined by th
 
 #### References in Text
 
-Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to this title prior to repeal and restatement as chapter 563 of this title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
+Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to in subsec. (b)(1), is section 902 of act June 29, 1936, ch. 858, 49 Stat. 2015, which was classified to section 1242 of the former Appendix to this title prior to repeal and restatement as chapter 563 of this title by Pub. L. 109–304, §§8(c), 19, Oct. 6, 2006, 120 Stat. 1654, 1713.
 
 #### Codification
 

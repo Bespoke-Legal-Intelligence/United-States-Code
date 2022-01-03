@@ -2,7 +2,7 @@
 
 #### (a) Offenses
 
-A person is guilty of any <sup>1</sup> offense if he commits an act prohibited by section 773e(a)(2), (3), (4), or (6) <sup>2</sup> of this title; or section 773e(b) <sup>2</sup> of this title.
+A person is guilty of any <sup>1</sup> offense if he commits an act prohibited by section 773e(a)(2), (3),\(4), or (6) <sup>2</sup> of this title; or section 773e(b) <sup>2</sup> of this title.
 
 #### (b) Fines; imprisonment
 
@@ -13,6 +13,8 @@ Any offense described in subsection (a) is punishable by a fine of not more than
 There is Federal jurisdiction over any offense described in this section.
 
 (Pub. L. 97–176, §9, May 17, 1982, 96 Stat. 81; Pub. L. 109–479, title III, §301(c), Jan. 12, 2007, 120 Stat. 3623.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 Notwithstanding the exclusions provided for in section 110a. \[42 U.S.C. 2140(a)\] or any other provisions of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], the Nuclear Regulatory Commission shall, except as otherwise specifically provided by section 110b. of the Atomic Energy Act of 1954, as amended (42 U.S.C. 2140(b)), or other law, have licensing and related regulatory authority pursuant to chapters 6, 7, 8, and 10 of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2071 et seq., 2091 et seq., 2111 et seq., 2131 et seq.\], as to the following facilities of the Administration:
 
-&emsp;(1) Demonstration Liquid Metal Fast Breeder reactors when operated as part of the power generation facilities of an electric utility system, or when operated in any other manner for the purpose of demonstrating the suitability for commercial application of such a reactor.
+&emsp;(1) Demonstration Liquid Metal Fast Breeder reactors when operated as part of the power generation facilities of an electric utility system, or when operated in any other manner forthe purpose of demonstrating the suitability for commercial application of such a reactor.
 
 &emsp;(2) Other demonstration nuclear reactors—except those in existence on the effective date of this chapter—when operated as part of the power generation facilities of an electric utility system, or when operated in any other manner for the purpose of demonstrating the suitability for commercial application of such a reactor.
 
@@ -14,6 +14,8 @@ Notwithstanding the exclusions provided for in section 110a. \[42 U.S.C. 2140(a)
 
 (Pub. L. 93–438, title II, §202, Oct. 11, 1974, 88 Stat. 1244; Pub. L. 105–261, div. C, title XXXI, §3134(a), Oct. 17, 1998, 112 Stat. 2247.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. Chapters 6, 7, 8, and 10 of the Atomic Energy Act of 1954, as amended, are classified generally to subchapters V (§2071 et seq.), VI (§2091 et seq.), VII (§2111 et seq.), and IX (§2131 et seq.) of division A of chapter 23 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
@@ -24,9 +26,7 @@ The effective date of this chapter, referred to in par. (2), refers to the effec
 
 <b>1998</b>—Par. (5). Pub. L. 105–261 added par. (5).
 
-#### Transfer of Functions
-
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Availability of Funds for Licensing by NRC
 
@@ -47,4 +47,10 @@ Pub. L. 96–295, title III, §305(a), June 30, 1980, 94 Stat. 790, provided tha
 #### Study of Extension of Licensing and Regulatory Authority of Commission; Report to Congress
 
 Pub. L. 95–601, §12, Nov. 6, 1978, 92 Stat. 2953, directed Commission, in cooperation with Department of Energy, to conduct a study of extending the Commission's licensing or regulatory authority to include categories of existing and future Federal radioactive waste storage and disposal activities not presently subject to such authority, and on or before Mar. 1, 1979, to submit a report to Congress containing results of study, which report was to include a complete listing and inventory of all radioactive waste storage and disposal activities being conducted or planned by Federal agencies.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under section 5841 of this title.
 

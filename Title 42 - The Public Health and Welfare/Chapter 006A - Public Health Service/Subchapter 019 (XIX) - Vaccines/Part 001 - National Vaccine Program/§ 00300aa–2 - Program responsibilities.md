@@ -4,11 +4,11 @@
 
 #### (1) Vaccine research
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for research carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development on means to induce human immunity against naturally occurring infectious diseases and to prevent adverse reactions to vaccines.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of thistitle, coordinate and provide direction for research carried out in or through the National Institutes of Health, the Centers for Disease Control and Prevention, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development on means to induce human immunity against naturally occurring infectious diseases and to prevent adverse reactions to vaccines.
 
 #### (2) Vaccine development
 
-&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for activities carried out in or through the NationalInstitutes of Health, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development to develop the techniques needed to produce safe and effective vaccines.
+&emsp;The Director of the Program shall, through the plan issued under section 300aa–3 of this title, coordinate and provide direction for activities carried out in or through the National Institutes of Health, the Office of Biologics Research and Review of the Food and Drug Administration, the Department of Defense, and the Agency for International Development to develop the techniques needed to produce safe and effective vaccines.
 
 #### (3) Safety and efficacy testing of vaccines
 
@@ -42,6 +42,8 @@
 
 (July 1, 1944, ch. 373, title XXI, §2102, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3756; amended Pub. L. 102–531, title III, §312(d)(13), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 108–173, title IX, §900(e)(2)(F), Dec. 8, 2003, 117 Stat. 2372.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 300aa–2, act July 1, 1944, §2103, was successively renumbered by subsequent acts and transferred, see section 238b of this title.
@@ -53,6 +55,8 @@ A prior section 2102 of act July 1, 1944, was successively renumbered by subsequ
 <b>2003</b>—Subsec. (a)(7). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
 <b>1992</b>—Subsec. (a)(1), (3), (6), (7). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Encouraging Vaccine Innovation; Meetings
 

@@ -22,7 +22,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(i) for fiscal year 2017, received a grant in the previous year under subpart 1 of part A of title VII <sup>1</sup> (as such subpart was in effect on the day before December 10, 2015) that exceeded $40,000; or
 
-&emsp;&emsp;&emsp;(ii) for any fiscal year following fiscal year 2017, received a grant in the previousfiscal year under subpart 1 of part A of subchapter VI that exceeded $40,000.
+&emsp;&emsp;&emsp;(ii) for any fiscal year following fiscal year 2017, received a grant in the previous fiscal year under subpart 1 of part A of subchapter VI that exceeded $40,000.
 
 #### (2) Appropriate officials
 
@@ -46,9 +46,13 @@ Consultation required under this section shall not interfere with the timely sub
 
 (Pub. L. 89–10, title VIII, §8538, as added Pub. L. 114–95, title VIII, §8030, Dec. 10, 2015, 129 Stat. 2116.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subpart 1 of part A of title VII (as such subpart was in effect on the day before December 10, 2015), referred to in subsec. (c)(1)(B)(i), means subpart 1 of part A of title VII of Pub. L. 89–10, which was classified generally to subpart 1 (§7421 et seq.) of part A of subchapter VII of this chapter prior to being redesignated as subpart 1 of part A of title VI of Pub. L. 89–10 and amended by Pub. L. 114–95, title VI, §§6001(a), 6002(c)–(j), Dec. 10, 2015, 129 Stat. 2046–2049, 2052–2054, and transferred to subpart 1 (§7421 et seq.) of part A of subchapter VI of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

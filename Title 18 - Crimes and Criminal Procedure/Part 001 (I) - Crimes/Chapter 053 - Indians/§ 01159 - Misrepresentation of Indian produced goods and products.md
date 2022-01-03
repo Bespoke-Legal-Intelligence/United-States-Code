@@ -66,7 +66,7 @@ Minor changes were made in phraseology.
 
 #### References in Text
 
-Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to in subsec. (c)(3)(A), was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
+Section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b), referred to insubsec. (c)(3)(A), was classified to section 450b of Title 25, Indians, prior to editorial reclassification as section 5304 of Title 25.
 
 #### Amendments
 

@@ -160,7 +160,7 @@ Section was formerly classified to section 5783 of Title 42, The Public Health a
 
 A prior section 504 of title V of Pub. L. 93–415, as added Pub. L. 102–586, §5(a), Nov. 4, 1992, 106 Stat. 5027, set out the duties and functions of the Administrator, prior to the general amendment of title V of Pub. L. 93–415 by Pub. L. 107–273.
 
-Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
+Another prior section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure, prior to repeal byPub. L. 115–385, title III, §307, Dec. 21, 2018, 132 Stat. 5152. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -228,7 +228,7 @@ Criteria.—In making grants under this section, the Attorney General shall give
 
 &emsp;&emsp;"(A) A program focusing on—
 
-&emsp;&emsp;&emsp;"(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and youngadults who have had or are likely to have contact with the juvenile justice system;
+&emsp;&emsp;&emsp;"(i) reducing youth violence and homicides, with an emphasis on juvenile and young adult probationers and other juveniles and young adults who have had or are likely to have contact with the juvenile justice system;
 
 &emsp;&emsp;&emsp;"(ii) fostering positive relationships between program participants and supportive adults in the community; and
 
@@ -362,7 +362,7 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 &emsp;"(4) Based on PAL chapter demographics, approximately 85 percent of the youths who benefit from PAL programs live in inner cities and urban areas.
 
-&emsp;"(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters rarely receive direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations.PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
+&emsp;"(5) PAL chapters are locally operated, volunteer-driven organizations. Although most PAL chapters are sponsored by a law enforcement agency, PAL chapters rarely receive direct funding from law enforcement agencies and are dependent in large part on support from the private sector, such as individuals, business leaders, corporations, and foundations. PAL chapters have been exceptionally successful in balancing public funds with private sector donations and maximizing community involvement.
 
 &emsp;"(6) Today's youth face far greater risks than did their parents and grandparents. Law enforcement statistics demonstrate that youth between the ages of 12 and 18 are at risk of committing violent acts and being victims of violent acts between the hours of 3 p.m. and 8 p.m.
 

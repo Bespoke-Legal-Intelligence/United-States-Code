@@ -120,7 +120,7 @@ The President shall ensure that any grant, contract, or cooperative agreement pr
 
 &emsp;&emsp;&emsp;(i) exempted from the requirement to provide or pay for such return transportation by the Federal department or agency providing or entering into the grant, contract, or cooperative agreement; or
 
-&emsp;&emsp;&emsp;(ii) the employee is a victim of human trafficking seeking victim services or legal redress in the country of employment or a witness in a human trafficking enforcement action.
+&emsp;&emsp;&emsp;(ii) the employee is a victim of human trafficking seeking victim services or legalredress in the country of employment or a witness in a human trafficking enforcement action.
 
 &emsp;&emsp;(C) Soliciting a person for the purpose of employment, or offering employment, by means of materially false or fraudulent pretenses, representations, or promises regarding that employment.
 
@@ -208,7 +208,7 @@ The Secretary of State shall establish and implement a multi-year, multi-sectora
 
 &emsp;&emsp;(H) any remedial action taken as a result of such investigation, including whether—
 
-&emsp;&emsp;&emsp;(i) a contractor or subcontractor (at any tier) was debarred or suspended due to a violation of a law or regulation relating to severe forms of trafficking in persons; or
+&emsp;&emsp;&emsp;(i) a contractor or subcontractor (at any tier) was debarred or suspended due to aviolation of a law or regulation relating to severe forms of trafficking in persons; or
 
 &emsp;&emsp;&emsp;(ii) a contract was terminated pursuant to subsection (g) as a result of such violation;
 
@@ -294,7 +294,7 @@ Subsec. (j). Pub. L. 113–4 added subsec. (j).
 
 Subsec. (h). Pub. L. 109–164, §101(a), added subsec. (h).
 
-<b>2003</b>—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f),and in subsec. (f) substituted "initiatives and programs described in subsections (a) through (e)" for "initiatives described in subsections (a) and (b)".
+<b>2003</b>—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted "initiatives and programs described in subsections (a) through (e)" for "initiatives described in subsections (a) and (b)".
 
 Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 

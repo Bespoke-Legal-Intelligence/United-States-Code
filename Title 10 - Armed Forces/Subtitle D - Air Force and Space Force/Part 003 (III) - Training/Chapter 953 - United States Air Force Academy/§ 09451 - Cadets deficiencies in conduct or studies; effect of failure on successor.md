@@ -44,9 +44,13 @@ In subsection (b), the words "is entitled to" are substituted for the words "sha
 
 In subsection (c), the words "by reason of sickness, or deficiency in his studies, or other cause" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9351 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

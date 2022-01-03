@@ -14,6 +14,8 @@ Any officer or agency head may—
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -30,13 +32,17 @@ Section was formerly classified to section 2153 of the former Appendix to this t
 
 Subsec. (b). Act July 31, 1951, §109(b), inserted provision to provide for State representation in regional offices.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13603. National Defense Resources Preparedness
 
@@ -102,13 +108,13 @@ Sec. 201. <i>Priorities and Allocations Authorities</i>. (a) The authority of th
 
 (b) The Secretary of each agency delegated authority under subsection (a) of this section (resource departments) shall plan for and issue regulations to prioritize and allocate resources and establish standards and procedures by which the authority shall be used to promote the national defense, under both emergency and non-emergency conditions. Each Secretary shall authorize the heads of other agencies, as appropriate, to place priority ratings on contracts and orders for materials, services, and facilities needed in support of programs approved under section 202 of this order.
 
-(c) Each resource department shall act, as necessary and appropriate, upon requests for special priorities assistance, as defined by section 801(l) of this order, in a time frame consistent with the urgency of the need at hand. In situations where there are competing program requirements for limited resources, the resource department shall consult with the Secretary who made the required determination under section 202 of this order. Such Secretary shall coordinate with and identify for the resource department which program requirements to prioritize on the basis of operational urgency. In situations involving more than one Secretary making such a required determination under section 202 of this order, the Secretaries shall coordinate with and identify for the resource department which program requirements should receive priority on the basis of operational urgency.
+(c) Each resource department shall act, as necessary and appropriate, upon requests for special priorities assistance, as defined by section 801(l) of this order, in a time frame consistent with the urgency of the need at hand. In situations where there are competing program requirements for limited resources, the resource department shall consult with the Secretary who made the required determination under section 202 of thisorder. Such Secretary shall coordinate with and identify for the resource department which program requirements to prioritize on the basis of operational urgency. In situations involving more than one Secretary making such a required determination under section 202 of this order, the Secretaries shall coordinate with and identify for the resource department which program requirements should receive priority on the basis of operational urgency.
 
 (d) If agreement cannot be reached between two such Secretaries, then the issue shall be referred to the President through the Assistant to the President and National Security Advisor and the Assistant to the President for Homeland Security and Counterterrorism.
 
 (e) The Secretary of each resource department, when necessary, shall make the finding required under section 101(b) of the Act, 50 U.S.C. App. 2071(b) \[now 50 U.S.C. 4511(b)\]. This finding shall be submitted for the President's approval through the Assistant to the President and National Security Advisor and the Assistant to the President for Homeland Security and Counterterrorism. Upon such approval, the Secretary of the resource department that made the finding may use the authority of section 101(a) of the Act, 50 U.S.C. App. 2071(a) \[now 50 U.S.C. 4511(a)\], to control the general distribution of any material (including applicable services) in the civilian market.
 
-Sec. 202. <i>Determinations</i>. Except as provided in section 201(e) of this order, the authority delegated by section201 of this order may be used only to support programs that have been determined in writing as necessary or appropriate to promote the national defense:
+Sec. 202. <i>Determinations</i>. Except as provided in section 201(e) of this order, the authority delegated by section 201 of this order may be used only to support programs that have been determined in writing as necessary or appropriate to promote the national defense:
 
 (a) by the Secretary of Defense with respect to military production and construction, military assistance to foreign nations, military use of civil transportation, stockpiles managed by the Department of Defense, space, and directly related activities;
 
@@ -140,7 +146,7 @@ Sec. 305. <i>Determinations and Findings</i>. (a) Pursuant to budget authority p
 
 (b) Other than any determination by the President under section 303(a)(7)(b) of the Act \[probably means section 303(a)(7)(B) of the Act, 50 U.S.C. 4533(a)(7)(B)\], the head of each agency engaged in procurement for the national defense is delegated the authority to make the required determinations, judgments, certifications, findings, and notifications defined under section 303 of the Act, 50 U.S.C. App. 2093 \[now 50 U.S.C. 4533\], in consultation with the Secretary making the required determination under section 202 of this order.
 
-Sec. 306. <i>Strategic and Critical Materials</i>. The Secretary of Defense, and the Secretary of the Interior in consultation with the Secretary of Defense as the National Defense Stockpile Manager, are each delegated the authority of the President under section 303(a)(1)(B) of the Act, 50 U.S.C. App. 2093(a)(1)(B) \[now 50 U.S.C. 4533(a)(1)(B)\], to encourage the exploration, development, and mining of strategic and critical materials and other materials.
+Sec. 306. <i>Strategic and Critical Materials</i>. The Secretary of Defense, and the Secretary of the Interior in consultation with the Secretary of Defense as the National Defense Stockpile Manager, are each delegatedthe authority of the President under section 303(a)(1)(B) of the Act, 50 U.S.C. App. 2093(a)(1)(B) \[now 50 U.S.C. 4533(a)(1)(B)\], to encourage the exploration, development, and mining of strategic and critical materials and other materials.
 
 Sec. 307. <i>Substitutes</i>. The head of each agency engaged in procurement for the national defense is delegated the authority of the President under section 303(g) of the Act, 50 U.S.C. App. 2093(g) \[now 50 U.S.C. 4533(g)\], to make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other resources to aid the national defense.
 
@@ -150,7 +156,7 @@ Sec. 308. <i>Government-Owned Equipment</i>. The head of each agency engaged in 
 
 (b) provide for the modification or expansion of privately owned facilities, including the modification or improvement of production processes, when taking actions under sections 301, 302, or 303 of the Act, 50 U.S.C. App. 2091, 2092, 2093 \[now 50 U.S.C. 4531, 4532, 4533\]; and
 
-(c) sell or otherwise transfer equipment owned by the Federal Government and installed under section 303(e)of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to the owners of such plants, factories, or other industrial facilities.
+(c) sell or otherwise transfer equipment owned by the Federal Government and installed under section 303(e) of the Act, 50 U.S.C. App. 2093(e) \[now 50 U.S.C. 4533(e)\], to the owners of such plants, factories, or other industrial facilities.
 
 Sec. 309. <i>Defense Production Act Fund</i>. The Secretary of Defense is designated the Defense Production Act Fund Manager, in accordance with section 304(f) of the Act, 50 U.S.C. App. 2094(f) \[50 U.S.C. 4534(f)\], and shall carry out the duties specified in section 304 of the Act, in consultation with the agency heads having approved, and appropriated funds for, projects under title III of the Act \[50 U.S.C. 4531 et seq.\].
 
@@ -272,7 +278,7 @@ Sec. 801. <i>Definitions</i>. In addition to the definitions in section 702 of t
 
 (m) "Strategic and critical materials" means materials (including energy) that (1) would be needed to supply the military, industrial, and essential civilian needs of the United States during a national emergency, and (2) are not found or produced in the United States in sufficient quantities to meet such need and are vulnerable to the termination or reduction of the availability of the material.
 
-(n) "Water resources" means all usable water, from all sources, within the jurisdiction of the UnitedStates, that can be managed, controlled, and allocated to meet emergency requirements, except "water resources" does not include usable water that qualifies as "food resources."
+(n) "Water resources" means all usable water, from all sources, within the jurisdiction of the United States, that can be managed, controlled, and allocated to meet emergency requirements, except "water resources" does not include usable water that qualifies as "food resources."
 
 Sec. 802. <i>General</i>. (a) Except as otherwise provided in section 802(c) of this order, the authorities vested in the President by title VII of the Act, 50 U.S.C. App. 2151 et seq. \[now 50 U.S.C. 4551 et seq.\], are delegated to the head of each agency in carrying out the delegated authorities under the Act \[50 U.S.C. 4501 et seq.\] and this order, by the Secretary of Labor in carrying out part VI of this order, and by the Secretary of the Treasury in exercising the functions assigned in Executive Order 11858 \[50 U.S.C. 4565 note\], as amended.
 

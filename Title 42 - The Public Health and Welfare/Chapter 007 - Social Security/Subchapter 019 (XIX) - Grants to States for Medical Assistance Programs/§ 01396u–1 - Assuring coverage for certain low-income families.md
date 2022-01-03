@@ -26,7 +26,7 @@ Subject to the succeeding provisions of this section, with respect to a State an
 
 &emsp;&emsp;(A) may lower its income standards applicable with respect to part A of subchapter IV, but not below the income standards applicable under its State plan under such part on May 1, 1988;
 
-&emsp;&emsp;(B) may increase income or resource standards under the State plan referred to inparagraph (1) over a period (beginning after July 16, 1996) by a percentage that does not exceed the percentage increase in the Consumer Price Index for all urban consumers (all items; United States city average) over such period; and
+&emsp;&emsp;(B) may increase income or resource standards under the State plan referred to in paragraph (1) over a period (beginning after July 16, 1996) by a percentage that does not exceed the percentage increase in the Consumer Price Index for all urban consumers (all items; United States city average) over such period; and
 
 &emsp;&emsp;(C) may use income and resource methodologies that are less restrictive than the methodologies used under the State plan under such part as of July 16, 1996.
 
@@ -98,6 +98,8 @@ In this section, the term "welfare reform effective date" means the effective da
 
 (Aug. 14, 1935, ch. 531, title XIX, §1931, as added Pub. L. 104–193, title I, §114(a)(2), Aug. 22, 1996, 110 Stat. 2177; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §602(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date, with respect to a State, of title I of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (as specified in section 116 of such Act), referred to in subsec. (i), see section 116 of Pub. L. 104–193, set out as an Effective Date note under section 601 of this title.
@@ -111,6 +113,8 @@ A prior section 1931 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 <b>1999</b>—Subsec. (h)(3). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(1)\], struck out "and ending with fiscal year 2000" after "fiscal year 1997".
 
 Subsec. (h)(4). Pub. L. 106–113, §1000(a)(6) \[title VI, §602(a)(2)\], struck out heading and text of par. (4). Prior to amendment, text read as follows: "This subsection shall only apply with respect to a State for expenditures incurred during the first 12 calendar quarters in which the State program funded under part A of subchapter IV of this chapter (as in effect on and after the welfare reform effective date) is in effect."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

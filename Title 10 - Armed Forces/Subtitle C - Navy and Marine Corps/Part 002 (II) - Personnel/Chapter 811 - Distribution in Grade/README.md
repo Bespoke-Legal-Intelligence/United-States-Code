@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 533 of this title as this chapter and items 5441, 5450, and 5451 as 8101 to 8103, respectively.
@@ -26,7 +28,7 @@
 
 Pub. L. 97–22, §10(b)(6)(B), July 10, 1981, 95 Stat. 137, struck out item 5455 "Computations and determinations: effect on status of officers".
 
-<b>1980</b>—Pub. L. 96–513, title V, §§503(18), 513(9)(A), Dec. 12, 1980, 94 Stat. 2912, 2931, inserted "; commodore admirals and rear admirals" in item 5442, inserted "; brigadier generals and major generals" in item 5443, inserted "; commodore admirals and rear admirals" in item 5444, struck out items 5445 "Suspension: sections 5442, 5443, 5444", 5447 "Navy: line officers on the active list; permanent grade", 5448 "Marine Corps: officers on the active list; permanent grade", 5449 "Navy: staff corps officers on the active list; permanent grade", and 5452 "Navy: women line officers on active duty; Marine Corps: women officers on active duty", and substituted "in grades" for "in permanent grades" in items 5457 and 5458.
+<b>1980</b>—Pub. L. 96–513, title V, §§503(18), 513(9)(A), Dec. 12, 1980, 94 Stat. 2912, 2931, inserted "; commodore admirals and rear admirals" in item 5442, inserted "; brigadier generals and major generals" in item 5443, inserted "; commodore admirals and rear admirals" in item 5444, struck out items 5445 "Suspension: sections5442, 5443, 5444", 5447 "Navy: line officers on the active list; permanent grade", 5448 "Marine Corps: officers on the active list; permanent grade", 5449 "Navy: staff corps officers on the active list; permanent grade", and 5452 "Navy: women line officers on active duty; Marine Corps: women officers on active duty", and substituted "in grades" for "in permanent grades" in items 5457 and 5458.
 
 <b>1967</b>—Pub. L. 90–130, §1(17)(F), (H), Nov. 8, 1967, 81 Stat. 377, struck out item 5453 "Marine Corps: women officers on the active list; permanent grade", and substituted: "Navy: women line officers on active duty; Marine Corps: women officers on active duty" for "Navy: women line officers on the active list; permanent grade" in item 5452.
 

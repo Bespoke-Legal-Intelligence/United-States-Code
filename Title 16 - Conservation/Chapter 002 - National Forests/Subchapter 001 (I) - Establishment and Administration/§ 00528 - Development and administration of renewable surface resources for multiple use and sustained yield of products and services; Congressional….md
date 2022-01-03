@@ -4,6 +4,8 @@ It is the policy of the Congress that the national forests are established and s
 
 (Pub. L. 86–517, §1, June 12, 1960, 74 Stat. 215.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Section 5 of Pub. L. 86–517, as added Pub. L. 94–588, §19, Oct. 22, 1976, 90 Stat. 2962, provided that: "This Act \[enacting this section and sections 529 to 531 of this title\] may be cited as the 'Multiple-Use Sustained-Yield Act of 1960'."
@@ -14,7 +16,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §339\], Nov. 29, 1999, 113
 
 "(a)
 
-Definition of Forest Botanical Product.—For purposes of this section, the term 'forest botanicalproduct' means any naturally occurring mushrooms, fungi, flowers, seeds, roots, bark, leaves, and other vegetation (or portion thereof) that grow on National Forest System lands. The term does not include trees, except as provided in regulations issued under this section by the Secretary of Agriculture.
+Definition of Forest Botanical Product.—For purposes of this section, the term 'forest botanical product' means any naturally occurring mushrooms, fungi, flowers, seeds, roots, bark, leaves, and other vegetation (or portion thereof) that grow on National Forest System lands. The term does not include trees, except as provided in regulations issued under this section by the Secretary of Agriculture.
 
 "(b)
 

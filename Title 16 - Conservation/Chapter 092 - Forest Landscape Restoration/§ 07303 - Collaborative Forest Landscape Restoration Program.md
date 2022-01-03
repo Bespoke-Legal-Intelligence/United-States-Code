@@ -190,7 +190,7 @@ To be eligible for nomination under subsection (c), a collaborative forest lands
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), after consulting with the advisory panel established under subsection (e), if the Secretary determines that a proposal that has been selected under paragraph (1) and is being carried outcontinues to meet the eligibility criteria established by subsection (b), the Secretary, on a case-by-case basis, may issue for the proposal a 1-time extension of the 10-year period requirement under paragraph (1)(B) of that subsection.
+&emsp;&emsp;Subject to subparagraph (B), after consulting with the advisory panel established under subsection (e), if the Secretary determines that a proposal that has been selected under paragraph (1) and is being carried out continues to meet the eligibility criteria established by subsection (b), the Secretary, on a case-by-case basis, may issue for the proposal a 1-time extension of the 10-year period requirement under paragraph (1)(B) of that subsection.
 
 #### (B) Limitation
 
@@ -323,6 +323,8 @@ Not later than 5 years after the first fiscal year in which funding is made avai
 &emsp;(6) the Committee on Agriculture of the House of Representatives.
 
 (Pub. L. 111–11, title IV, §4003, Mar. 30, 2009, 123 Stat. 1141; Pub. L. 115–334, title VIII, §8629, Dec. 20, 2018, 132 Stat. 4865.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

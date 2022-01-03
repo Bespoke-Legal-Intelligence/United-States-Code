@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (B) Amount of adjustment in the case of redemptions
 
-&emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a) or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
+&emsp;&emsp;In the case of any redemption which is treated as an exchange under section 302(a)or 303(a), the adjustment in the accumulated adjustments account shall be an amount which bears the same ratio to the balance in such account as the number of shares redeemed in such redemption bears to the number of shares of stock in the corporation immediately before such redemption.
 
 #### (C) Net loss for year disregarded
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to haveparagraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
+&emsp;&emsp;An S corporation may, with the consent of all of its affected shareholders, elect to have paragraph (1) of subsection (c) not apply to all distributions made during the taxable year for which the election is made.
 
 #### (B) Affected shareholder
 
@@ -95,6 +95,8 @@ If a director receives a distribution (not in part or full payment in exchange f
 &emsp;(2) shall be deductible by the corporation for the taxable year of such corporation in which or with which ends the taxable year in which such amount is included in the gross income of the director.
 
 (Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1680; amended Pub. L. 97–448, title III, §305(d)(2), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 98–369, div. A, title VII, §721(r), July 18, 1984, 98 Stat. 970; Pub. L. 99–514, title XVIII, §1879(m)(1)(B), Oct. 22, 1986, 100 Stat. 2910; Pub. L. 104–188, title I, §1309(a)(2)–(c), Aug. 20, 1996, 110 Stat. 1783; Pub. L. 110–28, title VIII, §8232(b), May 25, 2007, 121 Stat. 197; Pub. L. 115–141, div. U, title IV, §401(a)(193), Mar. 23, 2018, 132 Stat. 1193.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -115,6 +117,8 @@ Subsec. (e)(1)(C). Pub. L. 104–188, §1309(b), added subpar. (C).
 Subsec. (e)(1)(A). Pub. L. 98–369, §721(r)(1), substituted "(except that no adjustment shall be made for income (and related expenses) which is exempt from tax under this title and the phrase '(but not below zero)' shall be disregarded in section 1367(b)(2)(A))" for "(except that no adjustment shall be made for income which is exempt from tax under this title and no adjustment shall be made for any expense not deductible in computing the corporation's taxable income and not properly chargeable to capital account)".
 
 <b>1983</b>—Subsec. (e)(3). Pub. L. 97–448 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

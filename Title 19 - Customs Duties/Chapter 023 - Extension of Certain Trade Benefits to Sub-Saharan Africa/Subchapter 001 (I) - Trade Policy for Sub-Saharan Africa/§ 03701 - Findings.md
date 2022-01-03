@@ -20,13 +20,17 @@ Congress finds that—
 
 &emsp;(9) offering the countries of sub-Saharan Africa enhanced trade preferences will encourage both higher levels of trade and direct investment in support of the positive economic and political developments under way throughout the region; and
 
-&emsp;(10) encouraging the reciprocal reduction of trade and investment barriers in Africa will enhance the benefits of trade and investment for the region as well as enhance commercial and political ties between the United States and sub-Saharan Africa.
+&emsp;(10) encouraging the reciprocal reduction of trade and investment barriers in Africa will enhance the benefits of trade and investment for the region as well as enhance commercialand political ties between the United States and sub-Saharan Africa.
 
 (Pub. L. 106–200, title I, §102, May 18, 2000, 114 Stat. 252; Pub. L. 112–163, §1(c), Aug. 10, 2012, 126 Stat. 1274.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2012</b>—Par. (2). Pub. L. 112–163 struck out "48" before "countries".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -342,7 +346,7 @@ In general.—The amendment made by paragraph (1) \[amending Pub. L. 108–274, 
 
 \["(B)
 
-Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall be applied with respect to the amendment made by paragraph (1) by substituting '90 days after the date of the enactment of the Miscellaneous Trade and Technical Corrections Act of 2004 \[Dec. 3, 2004\]' for '90 days after the date of the enactment of this Act'."\]
+Requests for retroactive application.—Section 8(b) of the AGOA Acceleration Act of 2004 shall be applied with respect to the amendment made by paragraph (1) by substituting '90 days after the date of the enactment of the Miscellaneous Trade and TechnicalCorrections Act of 2004 \[Dec. 3, 2004\]' for '90 days after the date of the enactment of this Act'."\]
 
 #### Definitions
 

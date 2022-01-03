@@ -10,7 +10,7 @@ The Advisory Board shall be composed of eighteen appointed members and nonvoting
 
 &emsp;(1) The Secretary shall appoint—
 
-&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States, and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
+&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States,and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
 
 &emsp;&emsp;(B) six members from the general public who are knowledgeable with respect to such disorders, including not less than one person with a communication disorder and not less than one person who is a parent of an individual with such a disorder.
 
@@ -50,7 +50,7 @@ The Advisory Board shall—
 
 &emsp;(2) for the purpose of assuring the most effective use and organization of resources respecting deafness and other communication disorders, advise and make recommendations to the Congress, the Secretary, the Director of NIH, the Director of the Institute, and the heads of other appropriate Federal agencies for the implementation and revision of such plan; and
 
-&emsp;(3) maintain liaison with other advisory bodies related to Federal agencies involved in the implementation of such plan and with keynon-Federal entities involved in activities affecting the control of such disorders.
+&emsp;(3) maintain liaison with other advisory bodies related to Federal agencies involved in the implementation of such plan and with key non-Federal entities involved in activities affecting the control of such disorders.
 
 #### (i) Subcommittee activities; workshops and conferences; collection of data
 
@@ -63,6 +63,8 @@ In carrying out its functions, the Advisory Board may establish subcommittees, c
 The National Deafness and Other Communication Disorders Advisory Board shall be established not later than April 1, 1989.
 
 (July 1, 1944, ch. 373, title IV, §464D, as added Pub. L. 100–553, §2(4), Oct. 28, 1988, 102 Stat. 2772, and Pub. L. 100–690, title II, §2613(a)(1), Nov. 18, 1988, 102 Stat. 4235; amended Pub. L. 100–690, title II, §2613(b)(2), Nov. 18, 1988, 102 Stat. 4238; Pub. L. 101–93, §5(b), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 102–531, title III, §312(d)(8), Oct. 27, 1992, 106 Stat. 3504; Pub. L. 103–43, title XX, §2008(b)(8), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §104(b)(1)(J), Jan. 15, 2007, 120 Stat. 3693.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -89,6 +91,8 @@ Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Di
 <b>1989</b>—Subsec. (k). Pub. L. 101–93 substituted "April 1, 1989" for "90 days after the date of the enactment of the National Institute on Deafness and Other Communication Disorders Act".
 
 <b>1988</b>—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

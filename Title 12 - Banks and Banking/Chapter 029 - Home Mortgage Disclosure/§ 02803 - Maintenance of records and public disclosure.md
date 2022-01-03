@@ -8,7 +8,7 @@
 
 &emsp;(A) The number and dollar amount for each item referred to in paragraph (1), by census tracts for mortgage loans secured by property located within any county with a population of more than 30,000, within that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas, otherwise, by county, for mortgage loans secured by property located within any other county within that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
-&emsp;(B) The number and dollar amount for each item referred to in paragraph (1) for all such mortgage loans which are secured by property located outside that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+&emsp;(B) The number and dollar amount for each item referred to in paragraph (1) for all such mortgage loans which are secured by property located outside that primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical areathat is not comprised of designated primary metropolitan statistical areas.
 
 > For the purpose of this paragraph, a depository institution which maintains offices in more than one primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas shall be required to make the information required by this paragraph available at any such office only to the extent that such information relates to mortgage loans which were originated or purchased (or for which completed applications were received) by an office of that depository institution located in the primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas in which the office making such information available is located. For purposes of this paragraph, other lending institutions shall be deemed to have a home office or branch office within a primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas if such institutions have originated or purchased or received completed applications for at least 5 mortgage loans in such area in the preceding calendar year.
 
@@ -62,7 +62,7 @@ Any information required to be compiled and made available under this section, o
 
 #### (d) Duration of disclosure requirements
 
-Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under thissection for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
+Notwithstanding the provisions of subsection (a)(1), data required to be disclosed under this section for 1980 and thereafter shall be disclosed for each calendar year. Any depository institution which is required to make disclosures under this section but which has been making disclosures on some basis other than a calendar year basis shall make available a separate disclosure statement containing data for any period prior to calendar year 1980 which is not covered by the last full year report prior to the 1980 calendar year report.
 
 #### (e) Format for disclosures
 
@@ -70,7 +70,7 @@ Subject to subsection (h), the Bureau shall prescribe a standard format for the 
 
 #### (f) Data disclosure system; operation, etc.
 
-The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
+The Federal Financial Institutions Examination Council, in consultation with the Secretary, shall implement a system to facilitate access to data required to be disclosed under this section. Such system shall include arrangements for a central depository of data in each primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised ofdesignated primary metropolitan statistical areas. Disclosure statements shall be made available to the public for inspection and copying at such central depository of data for all depository institutions which are required to disclose information under this section (or which are exempted pursuant to section 2805(b) of this title) and which have a home office or branch office within such primary metropolitan statistical area, metropolitan statistical area, or consolidated metropolitan statistical area that is not comprised of designated primary metropolitan statistical areas.
 
 #### (g) Exceptions
 
@@ -134,7 +134,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 #### (3) <sup>2</sup> Required compliance
 
-&emsp;Notwithstanding paragraphs (1) and (2), an insured depository institution shall comply with paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of "needs to improve record of meeting community credit needs" during each of its 2 most recent examinations or a rating of "substantial noncompliance in meeting community credit needs" on its most recent examination under section 2906(b)(2) of this title.
+&emsp;Notwithstanding paragraphs (1) and (2), an insured depository institution shall complywith paragraphs (5) and (6) of subsection (b) if the insured depository institution has received a rating of "needs to improve record of meeting community credit needs" during each of its 2 most recent examinations or a rating of "substantial noncompliance in meeting community credit needs" on its most recent examination under section 2906(b)(2) of this title.
 
 #### (3) <sup>2</sup> Exemption from certain disclosure requirements
 
@@ -196,7 +196,7 @@ The requirements of subsections (a) and (b) shall not apply with respect to mort
 
 &emsp;&emsp;(A) shall make a disclosure statement available, upon request, to the public no later than 3 business days after the institution receives the statement from the Federal Financial Institutions Examination Council; and
 
-&emsp;&emsp;(B) may make such statement available on a floppy disc which may be used with a personal computer or in any other media whichis not prohibited under regulations prescribed by the Bureau.
+&emsp;&emsp;(B) may make such statement available on a floppy disc which may be used with a personal computer or in any other media which is not prohibited under regulations prescribed by the Bureau.
 
 #### (2) Notice that data is subject to correction after final review
 
@@ -374,7 +374,7 @@ Amendment by section 565(a)(2) of Pub. L. 100–242 applicable to the portion of
 
 #### Evaluation and Report on Feasibility and Desirability of Establishing a Unified System for Enforcing Fair Lending Laws and Regulations
 
-Evaluation of status and effectiveness of data collection and analysis systems involving fair lending, etc.,and report thereof, see section 340(e) of Pub. L. 96–399, set out as a note under section 3305 of this title.
+Evaluation of status and effectiveness of data collection and analysis systems involving fair lending, etc., and report thereof, see section 340(e) of Pub. L. 96–399, set out as a note under section 3305 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

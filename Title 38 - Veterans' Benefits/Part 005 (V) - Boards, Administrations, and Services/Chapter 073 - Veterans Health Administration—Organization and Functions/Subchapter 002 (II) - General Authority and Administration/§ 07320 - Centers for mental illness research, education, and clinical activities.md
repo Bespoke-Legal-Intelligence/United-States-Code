@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(B) into the causes, prevention, and treatment of mental illness.
 
-&emsp;(5) The capability to evaluate effectively the activities of the center, including activities relating to the evaluation of specific efforts to improve the quality and effectiveness of mental health services provided by the Department at or through individual facilities.
+&emsp;(5) The capability to evaluate effectively the activities of the center, including activities relating to the evaluation of specific efforts toimprove the quality and effectiveness of mental health services provided by the Department at or through individual facilities.
 
 (e)(1) In order to provide advice to assist the Secretary and the Under Secretary for Health to carry out their responsibilities under this section, the official within the central office of the Veterans Health Administration responsible for mental health and behavioral sciences matters shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of centers under this section.
 

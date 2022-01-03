@@ -24,7 +24,7 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;By such date as the Administrator may reasonably require, but not later than 1 year after promulgation of a new or revised national ambient air quality standard for any pollutant under section 7409 of this title, the Governor of each State shall (and at any other time the Governor of a State deems appropriate the Governor may) submit to the Administrator a list of all areas (or portions thereof) in the State, designating as—
 
-&emsp;&emsp;&emsp;(i) nonattainment, any area that does not meet (or that contributes to ambient air quality in a nearby area that does not meet) the national primary or secondary ambient air quality standard for the pollutant,
+&emsp;&emsp;&emsp;(i) nonattainment, any area that does not meet (or that contributes to ambientair quality in a nearby area that does not meet) the national primary or secondary ambient air quality standard for the pollutant,
 
 &emsp;&emsp;&emsp;(ii) attainment, any area (other than an area identified in clause (i)) that meets the national primary or secondary ambient air quality standard for the pollutant, or
 
@@ -58,11 +58,11 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 #### (3) Redesignation
 
-&emsp;(A) Subject to the requirements of subparagraph (E), and on the basis of air quality data, planning and control considerations, or anyother air quality-related considerations the Administrator deems appropriate, the Administrator may at any time notify the Governor of any State that available information indicates that the designation of any area or portion of an area within the State or interstate area should be revised. In issuing such notification, which shall be public, to the Governor, the Administrator shall provide such information as the Administrator may have available explaining the basis for the notice.
+&emsp;(A) Subject to the requirements of subparagraph (E), and on the basis of air quality data, planning and control considerations, or any other air quality-related considerations the Administrator deems appropriate, the Administrator may at any time notify the Governor of any State that available information indicates that the designation of any area or portion of an area within the State or interstate area should be revised. In issuing such notification, which shall be public, to the Governor, the Administrator shall provide such information as the Administrator may have available explaining the basis for the notice.
 
 &emsp;(B) No later than 120 days after receiving a notification under subparagraph (A), the Governor shall submit to the Administrator such redesignation, if any, of the appropriate area (or areas) or portion thereof within the State or interstate area, as the Governor considers appropriate.
 
-&emsp;(C) No later than 120 days after the date described in subparagraph (B) (or paragraph (1)(B)(iii)), the Administrator shall promulgate the redesignation, if any, of the area or portion thereof, submitted by the Governor in accordance with subparagraph (B), making such modifications as the Administrator may deem necessary, in the same manner and under the same procedure as is applicable under clause (ii) of paragraph (1)(B), except that the phrase "60 days" shall be substituted for the phrase "120 days" in that clause. If the Governor does not submit, in accordance with subparagraph (B), a redesignation for an area (or portion thereof) identified by the Administrator under subparagraph (A), the Administrator shall promulgate such redesignation, if any, that the Administrator deems appropriate.
+&emsp;(C) No later than 120 days after the date described in subparagraph (B) (or paragraph (1)(B)(iii)), the Administrator shall promulgate the redesignation, if any, of the area or portion thereof, submitted by the Governor in accordance with subparagraph (B), making such modifications as the Administrator may deem necessary, in the same manner and under the same procedure as is applicable under clause (ii) of paragraph (1)(B), except that the phrase "60 days" shall be substituted for the phrase "120 days" in that clause. If the Governor does not submit, in accordance with subparagraph (B), a redesignation for an area\(or portion thereof) identified by the Administrator under subparagraph (A), the Administrator shall promulgate such redesignation, if any, that the Administrator deems appropriate.
 
 &emsp;(D) The Governor of any State may, on the Governor's own motion, submit to the Administrator a revised designation of any area or portion thereof within the State. Within 18 months of receipt of a complete State redesignation submittal, the Administrator shall approve or deny such redesignation. The submission of a redesignation by a Governor shall not affect the effectiveness or enforceability of the applicable implementation plan for the State.
 
@@ -92,13 +92,13 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 &emsp;&emsp;(iv) Notwithstanding paragraph (1)(C)(ii) of this subsection, if an ozone or carbon monoxide nonattainment area located within a metropolitan statistical area or consolidated metropolitan statistical area (as established by the Bureau of the Census) is classified under part D of this subchapter as a Serious, Severe, or Extreme Area, the boundaries of such area are hereby revised (on the date 45 days after such classification) by operation of law to include the entire metropolitan statistical area or consolidated metropolitan statistical area, as the case may be, unless within such 45-day period the Governor (in consultation with State and local air pollution control agencies) notifies the Administrator that additional time is necessary to evaluate the application of clause (v). Whenever a Governor has submitted such a notice to the Administrator, such boundary revision shall occur on the later of the date 8 months after such classification or 14 months after November 15, 1990, unless the Governor makes the finding referred to in clause (v), and the Administrator concurs in such finding, within such period. Except as otherwise provided in this paragraph, a boundary revision under this clause or clause (v) shall apply for purposes of any State implementation plan revision required to be submitted after November 15, 1990.
 
-&emsp;&emsp;(v) Whenever the Governor of a State has submitted a notice under clause (iv), theGovernor, in consultation with State and local air pollution control agencies, shall undertake a study to evaluate whether the entire metropolitan statistical area or consolidated metropolitan statistical area should be included within the nonattainment area. Whenever a Governor finds and demonstrates to the satisfaction of the Administrator, and the Administrator concurs in such finding, that with respect to a portion of a metropolitan statistical area or consolidated metropolitan statistical area, sources in the portion do not contribute significantly to violation of the national ambient air quality standard, the Administrator shall approve the Governor's request to exclude such portion from the nonattainment area. In making such finding, the Governor and the Administrator shall consider factors such as population density, traffic congestion, commercial development, industrial development, meteorological conditions, and pollution transport.
+&emsp;&emsp;(v) Whenever the Governor of a State has submitted a notice under clause (iv), the Governor, in consultation with State and local air pollution control agencies, shall undertake a study to evaluate whether the entire metropolitan statistical area or consolidated metropolitan statistical area should be included within the nonattainment area. Whenever a Governor finds and demonstrates to the satisfaction of the Administrator, and the Administrator concurs in such finding, that with respect to a portion of a metropolitan statistical area or consolidated metropolitan statistical area, sources in the portion do not contribute significantly to violation of the national ambient air quality standard, the Administrator shall approve the Governor's request to exclude such portion from the nonattainment area. In making such finding, the Governor and the Administrator shall consider factors such as population density, traffic congestion, commercial development, industrial development, meteorological conditions, and pollution transport.
 
 #### (B) PM–10 designations
 
 &emsp;&emsp;By operation of law, until redesignation by the Administrator pursuant to paragraph (3)—
 
-&emsp;&emsp;&emsp;(i) each area identified in 52 Federal Register 29383 (Aug. 7, 1987) as a Group I area (except to the extent that such identification was modified by the Administrator before November 15, 1990) is designated nonattainment for PM–10;
+&emsp;&emsp;&emsp;(i) each area identified in 52 Federal Register 29383 (Aug. 7, 1987) as a Group I area (except to the extent that such identification was modified by the Administratorbefore November 15, 1990) is designated nonattainment for PM–10;
 
 &emsp;&emsp;&emsp;(ii) any area containing a site for which air quality monitoring data show a violation of the national ambient air quality standard for PM–10 before January 1, 1989 (as determined under part 50, appendix K of title 40 of the Code of Federal Regulations) is hereby designated nonattainment for PM–10; and
 
@@ -140,6 +140,8 @@ The Administrator shall, within 90 days after December 31, 1970, after consultat
 
 (July 14, 1955, ch. 360, title I, §107, as added Pub. L. 91–604, §4(a), Dec. 31, 1970, 84 Stat. 1678; amended Pub. L. 95–95, title I, §103, Aug. 7, 1977, 91 Stat. 687; Pub. L. 101–549, title I, §101(a), Nov. 15, 1990, 104 Stat. 2399; Pub. L. 108–199, div. G, title IV, §425(a), Jan. 23, 2004, 118 Stat. 417.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7413 of this title, referred to in subsec. (e)(3), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
@@ -161,6 +163,8 @@ Another prior section 107 of act July 14, 1955, as added Dec. 17, 1963, Pub. L. 
 <b>1990</b>—Subsec. (d). Pub. L. 101–549 amended subsec. (d) generally, substituting present provisions for provisions which required States to submit lists of regions not in compliance on Aug. 7, 1977, with certain air quality standards to be submitted to the Administrator, and which authorized States to revise and resubmit such lists from time to time.
 
 <b>1977</b>—Subsecs. (d), (e). Pub. L. 95–95 added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

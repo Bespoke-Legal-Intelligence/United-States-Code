@@ -18,6 +18,8 @@ After consultation with appropriate Federal and nonprofit agencies and organizat
 
 (Pub. L. 89–329, title VII, §712, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1791; amended Pub. L. 110–315, title VII, §703(a), (e)(2), Aug. 14, 2008, 122 Stat. 3346, 3347.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1134n of this title, prior to repeal by Pub. L. 105–244.
@@ -38,7 +40,7 @@ A prior section 1135a–1, Pub. L. 89–329, title X, §1003, as added Pub. L. 9
 
 Another prior section 1135a–1, Pub. L. 89–329, title X, §1012, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 313; amended Pub. L. 94–482, title I, §176(b)(3), Oct. 12, 1976, 90 Stat. 2165; Pub. L. 95–180, §1(c), Nov. 15, 1977, 91 Stat. 1372, related to the apportionment of funds in the program of establishing and expanding community colleges, prior to repeal by section 1001(a) of Pub. L. 96–374.
 
-A prior section 1135a–2, Pub. L. 89–329, title X, §1004, as added Pub. L. 96–374, title X, §1001(a), Oct. 3, 1980, 94 Stat. 1490; amended Pub. L. 102–325, title X, §1001, July 23, 1992, 106 Stat. 779; Pub. L. 103–208, §2(j)(42), Dec. 20, 1993, 107 Stat. 2484, authorized appropriations for the Fund for the Improvement of Postsecondary Education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. See section 1138d of this title.
+A prior section 1135a–2, Pub. L. 89–329, title X, §1004, as added Pub. L. 96–374, title X, §1001(a), Oct. 3, 1980, 94 Stat. 1490; amended Pub. L. 102–325, title X, §1001, July 23, 1992, 106 Stat. 779; Pub. L. 103–208, §2(j)(42), Dec. 20, 1993, 107 Stat. 2484, authorized appropriations for the Fund for the Improvement of Postsecondary Education,prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998. See section 1138d of this title.
 
 Another prior section 1135a–2, Pub. L. 89–329, title X, §1013, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 314, provided for establishment grants and defined the term "new community college", prior to repeal by section 1001(a) of Pub. L. 96–374.
 

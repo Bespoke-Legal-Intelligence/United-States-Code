@@ -30,7 +30,7 @@
 
 #### References in Text
 
-Section 11344 of title 49, referred to in subsec. (b)(1), (2), was omitted in the general amendment of subtitleIV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11344 are contained in sections 11324 and 14303 of Title 49.
+Section 11344 of title 49, referred to in subsec. (b)(1), (2), was omitted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804. Provisions similar to those in section 11344 are contained in sections 11324 and 14303 of Title 49.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -4,9 +4,13 @@ Where a national forest is established under section 471(b) of this title on lan
 
 (June 7, 1924, ch. 348, §9, 43 Stat. 655; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is based on the second and third sentences of section 9 of act June 7, 1924. Section 471(b) of this title, referred to in text, was based on the first and fifth sentences of section 9 of the 1924 act, and was repealed by section 704(a) of Pub. L. 94–579. Section 499 of this title is based in part on the fourth sentence of section 9 of the 1924 act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

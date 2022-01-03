@@ -4,11 +4,15 @@ No dealer or exhibitor shall sell or offer to sell or transport or offer for tra
 
 (Pub. L. 89–544, §4, Aug. 24, 1966, 80 Stat. 351; Pub. L. 91–579, §5, Dec. 24, 1970, 84 Stat. 1561; Pub. L. 94–279, §5, Apr. 22, 1976, 90 Stat. 418.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–279 substituted "in commerce" for "affecting commerce" in two places.
 
 <b>1970</b>—Pub. L. 91–579 inserted references to exhibitors, offers to sell, and offers to transport, and substituted references to animals for references to dogs and cats.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

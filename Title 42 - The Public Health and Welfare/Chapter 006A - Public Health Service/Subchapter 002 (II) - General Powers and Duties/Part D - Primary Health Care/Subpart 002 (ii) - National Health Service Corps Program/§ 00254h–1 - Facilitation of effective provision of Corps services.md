@@ -40,7 +40,7 @@ With respect to individuals who have entered into contracts for obligated servic
 
 #### (2) Assistance in establishing professional relationships
 
-&emsp;In providing such assistance under paragraph (1), the Secretary shall focus on establishing relationships with hospitals, with academic medical centers and health professions schools, with area health education centersunder section 294a of this title, with health education and training centers under section 294b <sup>1</sup> of this title, and with border health education and training centers under such section 294b <sup>1</sup> of this title. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
+&emsp;In providing such assistance under paragraph (1), the Secretary shall focus on establishing relationships with hospitals, with academic medical centers and health professions schools, with area health education centers under section 294a of this title, with health education and training centers under section 294b <sup>1</sup> of this title, and with border health education and training centers under such section 294b <sup>1</sup> of this title. Such assistance shall include assistance in obtaining faculty appointments at health professions schools.
 
 #### (3) Supplement not supplant
 
@@ -89,6 +89,8 @@ In carrying out subsection (a) and sections 254l(d) and 254l–1(d) of this titl
 &emsp;(3) the appropriate conditions for the assignment and utilization in health manpower shortage areas of certified nurse practitioners, certified nurse midwives, and physician assistants.
 
 (July 1, 1944, ch. 373, title III, §336, as added Pub. L. 97–35, title XXVII, §2706(b), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 100–177, title II, §202(d), Dec. 1, 1987, 101 Stat. 997; Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §307(a), Oct. 26, 2002, 116 Stat. 1649; Pub. L. 110–355, §3(d), Oct. 8, 2008, 122 Stat. 3993.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

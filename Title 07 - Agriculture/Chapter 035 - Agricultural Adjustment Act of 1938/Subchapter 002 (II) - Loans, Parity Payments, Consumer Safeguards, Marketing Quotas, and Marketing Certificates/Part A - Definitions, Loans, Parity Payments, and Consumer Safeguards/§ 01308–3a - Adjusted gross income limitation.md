@@ -66,6 +66,8 @@ In the case of a payment or benefit described in subsection (b)(2) made in a cro
 
 (Pub. L. 99–198, title X, §1001D, as added Pub. L. 107–171, title I, §1604(2), May 13, 2002, 116 Stat. 215; amended Pub. L. 110–234, title I, §1604(a), May 22, 2008, 122 Stat. 1012; Pub. L. 110–246, §4(a), title I, §1604(a), June 18, 2008, 122 Stat. 1664, 1740; Pub. L. 113–79, title I, §1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708; Pub. L. 115–334, title I, §1704(a), (b), Dec. 20, 2018, 132 Stat. 4526.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Agricultural Act of 2014, referred to in subsec. (b)(2)(A) to (C), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. Subtitles A, B, and E of title I of the Act are classified principally to subchapter I (§9011 et seq.) and generally to subchapters II (§9031 et seq.) and IV (§9081), respectively, of chapter 115 of this title. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 9001 of this title and Tables.
@@ -122,6 +124,8 @@ Subsec. (f). Pub. L. 113–79, §1605(c)(2), redesignated subsec. (f) as (e).
 
 <b>2008</b>—Pub. L. 110–246, §1604(a), amended section generally, substituting subsecs. (a) to (f) for former provisions which related to: in subsec. (a), definition of "average adjusted gross income"; in subsec. (b), limitation on benefits if average adjusted gross income exceeded $2,500,000; in subsec. (c), certification that average adjusted gross income did not exceed limitation; in subsec. (d), reduction of benefits commensurate with ownership interest; and in subsec. (e), applicability of section during 2003 through 2007 crop years.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
@@ -132,7 +136,7 @@ Pub. L. 115–334, title I, §1704(c), Dec. 20, 2018, 132 Stat. 4526, provided t
 
 Pub. L. 113–79, title I, §1605(g), Feb. 7, 2014, 128 Stat. 708, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on the day before the date of the enactment of this Act \[Feb. 7, 2014\], shall apply with respect to the 2013 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as so in effect on that day)."
 
-Pub. L. 110–234, title I, §1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, §4(a), title I, §1604(b), June 18,2008, 122 Stat. 1664, 1744, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a))."
+Pub. L. 110–234, title I, §1604(b), May 22, 2008, 122 Stat. 1016, and Pub. L. 110–246, §4(a), title I, §1604(b), June 18, 2008, 122 Stat. 1664, 1744, provided that: "Section 1001D of the Food Security Act of 1985 (7 U.S.C. 1308–3a), as in effect on September 30, 2007, shall apply with respect to the 2007 and 2008 crop, fiscal, or program year, as appropriate, for each program described in paragraphs (1)(C) and (2)(B) of subsection (b) of that section (as amended by subsection (a))."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

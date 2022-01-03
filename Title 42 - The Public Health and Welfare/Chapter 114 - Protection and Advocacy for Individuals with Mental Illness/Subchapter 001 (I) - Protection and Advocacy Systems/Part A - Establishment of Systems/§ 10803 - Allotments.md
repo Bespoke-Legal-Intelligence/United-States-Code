@@ -12,6 +12,8 @@ The Secretary shall make allotments under this subchapter to eligible systems to
 
 (Pub. L. 99–319, title I, §103, May 23, 1986, 100 Stat. 479; Pub. L. 102–173, §10(2), Nov. 27, 1991, 105 Stat. 1219.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Par. (2). Pub. L. 102–173 substituted "individuals with mental illness" for "mentally ill individuals" in two places.

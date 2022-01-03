@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(20)(C), Oct. 4, 1976, 90 Stat. 1797, struck out item for part III "Bank affiliates".

@@ -56,7 +56,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 &emsp;&emsp;(C) the exercise of all other rights and powers granted to it by this chapter;
 
-&emsp;(5) to conduct its business (including the carrying on of operations and the maintenanceof offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to any qualification, licensing, or other statute in such State or other jurisdiction;
+&emsp;(5) to conduct its business (including the carrying on of operations and the maintenance of offices) and to exercise all other rights and powers granted to it by this chapter in any State or other jurisdiction without regard to any qualification, licensing, or other statute in such State or other jurisdiction;
 
 &emsp;(6) to lease, purchase, accept gifts or donations of or otherwise acquire, to own, hold, improve, use, or otherwise deal in or with, and to sell, convey, mortgage, pledge, lease, exchange or otherwise dispose of, any property, real, personal or mixed, or any interest therein, wherever situated;
 
@@ -122,7 +122,7 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 
 &emsp;&emsp;(A) the Commission, by notice to SIPC setting forth the reasons therefor, disapproves such proposed bylaw change as being contrary to the public interest or contrary to the purposes of this chapter; or
 
-&emsp;&emsp;(B) the Commission finds that such proposed bylaw change involves a matter of such significant public interest that public comment should be obtained, in which case it may, after notifying SIPC in writing of such finding, require that the procedures set forth in paragraph (2) be followed with respect to such proposed bylaw change, in the same manner as if such proposed bylaw change were a proposed rule change within the meaning of such paragraph.
+&emsp;&emsp;(B) the Commission finds that such proposed bylaw change involves a matter of such significant public interest that public comment should be obtained, in which case it may, after notifying SIPC in writing of such finding, require that the procedures setforth in paragraph (2) be followed with respect to such proposed bylaw change, in the same manner as if such proposed bylaw change were a proposed rule change within the meaning of such paragraph.
 
 #### (2) Proposed rule changes
 
@@ -161,6 +161,8 @@ The Board of Directors shall meet at the call of its Chairman, or as otherwise p
 &emsp;The Commission may, by such rules as it determines to be necessary or appropriate in the public interest or to carry out the purposes of this chapter, require SIPC to adopt, amend, or repeal any SIPC bylaw or rule, whenever adopted.
 
 (Pub. L. 91–598, §3, Dec. 30, 1970, 84 Stat. 1637; Pub. L. 95–283, §§2–5, May 21, 1978, 92 Stat. 249–251; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

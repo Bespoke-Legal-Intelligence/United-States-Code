@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) subject to paragraph (2), prepare, at least every year, an audit of the expenditures of the State of amounts received under this chapter and amounts transferred to carry out the purposes of this chapter; and
 
-&emsp;&emsp;(D) make appropriate books, documents, papers, and records available to the Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request for the items.
+&emsp;&emsp;(D) make appropriate books, documents, papers, and records available to the Secretary and the Comptroller General of theUnited States, or any of their duly authorized representatives, for examination, copying, or mechanical reproduction on or off the premises of the appropriate entity upon a reasonable request for the items.
 
 #### (2) Audits
 

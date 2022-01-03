@@ -12,7 +12,9 @@ For purposes of this subchapter:
 
 (Pub. L. 102–556, title II, §204, Oct. 28, 1992, 106 Stat. 4191; Pub. L. 104–104, title VII, §701(b)(1), Feb. 8, 1996, 110 Stat. 147.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1996</b>—Par. (1). Pub. L. 104–104 amended par. (1) generally. Prior to amendment, par. (1) read as follows:"The term 'pay-per-call services' has the meaning provided in section 228 of title 47."
+<b>1996</b>—Par. (1). Pub. L. 104–104 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The term 'pay-per-call services' has the meaning provided in section 228 of title 47."
 

@@ -30,6 +30,8 @@ In subsection (a), before clause (1), the text of 45:561(b) (1st sentence words 
 
 In subsection (b), the words "concerning auto-ferry service . . . railroad or any other" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–134 substituted section catchline for former catchline which read "Operation of basic system" and amended text generally. Prior to amendment, text read as follows:

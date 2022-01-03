@@ -44,7 +44,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;&emsp;(D) a detailed budget showing the manner in which funds for any proposed project would be spent by the institution; and
 
-&emsp;&emsp;(E) a detailed description of any activity which involves the expenditure of more than $25,000, as identified in the budget referred to in subparagraph (D);
+&emsp;&emsp;(E) a detailed description of any activity which involves the expenditure of more than$25,000, as identified in the budget referred to in subparagraph (D);
 
 &emsp;(8) provide for making reports, in such form and containing such information, as the Secretary may require to carry out the Secretary's functions under this subchapter, including not less than one report annually setting forth the institution's progress toward achieving the objectives for which the funds were awarded and for keeping such records and affording such access to such records, as the Secretary may find necessary to assure the correctness and verification of such reports; and
 
@@ -59,6 +59,8 @@ With respect to applications for assistance under this section, the Secretary sh
 The Secretary shall use the most recent and relevant data concerning the number and percentage of students receiving need-based assistance under subchapter IV in making eligibility determinations and shall advance the base-year for the determinations forward following each annual grant cycle.
 
 (Pub. L. 89–329, title V, §521, formerly §511, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1770; renumbered §521 and amended Pub. L. 110–315, title V, §§502(a)(2), (b)(2), 503, Aug. 14, 2008, 122 Stat. 3331, 3333.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -12,7 +12,7 @@ In order to receive funds under this chapter, a State shall conduct an assessmen
 
 #### (b) Termination of eligibility
 
-Any teacher preparation program from which the State has withdrawn the State's approval, orterminated the State's financial support, due to the low performance of the program based upon the State assessment described in subsection (a)—
+Any teacher preparation program from which the State has withdrawn the State's approval, or terminated the State's financial support, due to the low performance of the program based upon the State assessment described in subsection (a)—
 
 &emsp;(1) shall be ineligible for any funding for professional development activities awarded by the Department;
 
@@ -32,6 +32,8 @@ The requirements of this section shall apply to both traditional teacher prepara
 
 (Pub. L. 89–329, title II, §207, as added Pub. L. 110–315, title II, §201(2), Aug. 14, 2008, 122 Stat. 3152; amended Pub. L. 114–95, title IX, §9214(c)(6), Dec. 10, 2015, 129 Stat. 2163.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 207 of Pub. L. 89–329 was classified to section 1027 of this title, prior to repeal by Pub. L. 110–315.
@@ -41,6 +43,8 @@ Another prior section 207 of Pub. L. 89–329 was classified to section 1027 of 
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–95 substituted "teachers who meet the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title," for "highly qualified teachers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

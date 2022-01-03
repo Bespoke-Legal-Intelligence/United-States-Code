@@ -6,7 +6,7 @@ All laborers and mechanics employed by contractors or subcontractors (excluding 
 
 #### (b) Preference requirements for wages and grants
 
-Any contract, subcontract, grant, or subgrant pursuant to this chapter, the Act of April 16, 1934 (48 Stat. 596), as amended \[25 U.S.C. 5342 etseq.\], or any other Act authorizing Federal contracts with or grants to Indian organizations or for the benefit of Indians, shall require that to the greatest extent feasible—
+Any contract, subcontract, grant, or subgrant pursuant to this chapter, the Act of April 16, 1934 (48 Stat. 596), as amended \[25 U.S.C. 5342 et seq.\], or any other Act authorizing Federal contracts with or grants to Indian organizations or for the benefit of Indians, shall require that to the greatest extent feasible—
 
 &emsp;(1) preferences and opportunities for training and employment in connection with the administration of such contracts or grants shall be given to Indians; and
 
@@ -34,7 +34,7 @@ Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147
 
 Section was formerly classified to section 450e of this title prior to editorial reclassification and renumbering as this section.
 
-In subsec. (a), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (48 Stat. 948, 40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended" and "section 3145 of title 40" substituted for "section 2 of the Act of June13, 1934 (48 Stat. 948, 40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

@@ -52,6 +52,8 @@ Program Support.—(1) Funds appropriated for purposes of the ARMS Initiative ma
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title III, §344(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–68, §4553; amended Pub. L. 108–178, §4(b)(5), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109–163, div. A, title III, §323(d), Jan. 6, 2006, 119 Stat. 3194; renumbered §7553, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4553 of this title as this section.
@@ -59,6 +61,8 @@ Program Support.—(1) Funds appropriated for purposes of the ARMS Initiative ma
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–163 struck out "in manufacturing processes that are" after "having the skills".
 
 <b>2003</b>—Subsec. (d). Pub. L. 108–178 substituted "Section 1302 of title 40" for "Section 321 of the Act of June 30, 1932 (40 U.S.C. 303b),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

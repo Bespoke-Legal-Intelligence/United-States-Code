@@ -74,7 +74,7 @@ Nothing in the Twenty-First Century Communications and Video Accessibility Act o
 
 #### References in Text
 
-The Twenty-First Century Communications and Video Accessibility Act of 2010, referred to in subsec.\(h), is Pub. L. 111–260, Oct. 8, 2010, 124 Stat. 2751, which enacted sections 615c and 616 to 620 of this title, amended sections 153, 225, 303, 330, 402, 503, 610, and 613 of this title, and enacted provisions set out as notes under sections 153, 303, 609, 613, and 619 of this title. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 609 of this title and Tables.
+The Twenty-First Century Communications and Video Accessibility Act of 2010, referred to in subsec. (h), is Pub. L. 111–260, Oct. 8, 2010, 124 Stat. 2751, which enacted sections 615c and 616 to 620 of this title, amended sections 153, 225, 303, 330, 402, 503, 610, and 613 of this title, and enacted provisions set out as notes under sections 153, 303, 609, 613, and 619 of this title. For complete classification of this Act to the Code, see Short Title of2010 Amendment note set out under section 609 of this title and Tables.
 
 #### Amendments
 

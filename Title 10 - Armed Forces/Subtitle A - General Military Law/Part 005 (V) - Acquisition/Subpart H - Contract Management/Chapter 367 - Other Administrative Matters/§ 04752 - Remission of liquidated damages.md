@@ -4,9 +4,31 @@ Upon the recommendation of the head of an agency, the Secretary of the Treasury 
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 132, §2312; Pub. L. 104–316, title II, §202(c), Oct. 19, 1996, 110 Stat. 3842; renumbered §4752, Pub. L. 116–283, div. A, title XVIII, §1864(b), Jan. 1, 2021, 134 Stat. 4279.)
 
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2312
+
+41:155.
+
+Feb. 19, 1948, ch. 65, §6, 62 Stat. 24.
+
+The words "a contract, made by that agency, that provides for" are substituted for the words "any contract made on behalf of the Government by the agency head or by officers authorized by him so to do includes a provision".
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2312 of this title as this section.
+
+<b>1996</b>—Pub. L. 104–316 substituted "Secretary of the Treasury" for "Comptroller General".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

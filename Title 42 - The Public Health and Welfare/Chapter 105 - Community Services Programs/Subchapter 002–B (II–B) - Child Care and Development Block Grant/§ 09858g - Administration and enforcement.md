@@ -74,7 +74,7 @@ The Secretary shall—
 
 #### (3) Approval
 
-&emsp;Within 90 days after the receipt of a State's request under this subsection, the Secretary shall inform the State of approval or disapproval of the request. If the plan is disapproved, the Secretary shall, at this time, inform the State, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate of the reasons for the disapproval and give the State the opportunity to amend the request.In the case of approval, the Secretary shall, within 30 days of granting such waiver, notify and submit a report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the circumstances of the waiver including each specific sanction or provision waived, the reason as given by the State of the need for a waiver, and the expected impact of the waiver on children served under this program.
+&emsp;Within 90 days after the receipt of a State's request under this subsection, the Secretary shall inform the State of approval or disapproval of the request. If the plan is disapproved, the Secretary shall, at this time, inform the State, the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate of the reasons for the disapproval and give the State the opportunity to amend the request. In the case of approval, the Secretary shall, within 30 days of granting such waiver, notify and submit a report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the circumstances of the waiver including each specific sanction or provision waived, the reason as given by the State of the need for a waiver, and the expected impact of the waiver on children served under this program.
 
 #### (4) External conditions
 
@@ -98,6 +98,8 @@ The Secretary shall—
 
 (Pub. L. 97–35, title VI, §658I, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–242; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §609, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 113–186, §8(a), (b), Nov. 19, 2014, 128 Stat. 1994, 1995.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–186, §8(a)(1), inserted a comma after "publish" and struck out "and" at end.
@@ -113,6 +115,8 @@ Subsec. (c). Pub. L. 113–186, §8(b), added subsec. (c).
 Subsec. (b)(2)(A). Pub. L. 104–193, §609(2), in closing provisions, substituted before period at end "finding and shall require that the State reimburse the Secretary for any funds that were improperly expended for purposes prohibited or not authorized by this subchapter, that the Secretary deduct from the administrative portion of the State allotment for the following fiscal year an amount that is less than or equal to any improperly expended funds, or a combination of such options" for "finding and that no further payments may be made to such State under this subchapter (or, in the case of noncompliance in the operation of a program or activity, that no further payments to the State will be made with respect to such program or activity) until the Secretary is satisfied that there is no longer any such failure to comply or that the noncompliance will be promptly corrected".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

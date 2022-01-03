@@ -26,7 +26,7 @@
 
 (3)(A) The Office of Personnel Management and the Office of Management and Budget jointly shall promulgate such regulations as may be necessary to carry out this subsection, including the criteria and procedures in accordance with which any determinations under this subsection shall be made.
 
-(B) The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except that such certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
+(B) The certification of an agency performance appraisal system under this subsection shall be for a period not to exceed 24 months beginning on the date of certification, unless extended by the Director of the Office of Personnel Management for up to 6 additional months, except thatsuch certification may be terminated at any time upon a finding that the actions of such agency have not remained in conformance with applicable requirements.
 
 (C) Any certification or decertification under this subsection shall be made by the Office of Personnel Management, with the concurrence of the Office of Management and Budget.
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Construction
 
-Pub. L. 115–41, title II, §204(d), June 23, 2017, 131 Stat. 876, provided that: "Nothing in this Act \[see Short Title of 2017 Amendment note set out under section 101 of Title 38, Veterans' Benefits\] or the amendments made by this Act may be construed to modify the certification issued by the Office of Personnel Management and the Office of Management and Budget regarding the performance appraisal system of the Senior Executive Service of the Department of Veterans Affairs."
+Pub. L. 115–41, title II, §204(d), June 23, 2017, 131 Stat. 876, provided that: "Nothing in this Act \[see Short Titleof 2017 Amendment note set out under section 101 of Title 38, Veterans' Benefits\] or the amendments made by this Act may be construed to modify the certification issued by the Office of Personnel Management and the Office of Management and Budget regarding the performance appraisal system of the Senior Executive Service of the Department of Veterans Affairs."
 
 #### Extension of Certification
 

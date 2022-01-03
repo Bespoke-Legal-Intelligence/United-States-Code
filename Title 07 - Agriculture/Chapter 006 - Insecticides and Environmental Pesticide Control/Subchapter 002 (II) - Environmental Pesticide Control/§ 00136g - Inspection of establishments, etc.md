@@ -32,6 +32,8 @@ For purposes of enforcing the provisions of this subchapter and upon a showing t
 
 (June 25, 1947, ch. 125, §9, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 988; amended Pub. L. 100–532, title III, §302, Oct. 25, 1988, 102 Stat. 2669; Pub. L. 102–237, title X, §1006(b)(1), (3)(H), (I), Dec. 13, 1991, 105 Stat. 1895, 1896.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9 of act June 25, 1947, was classified to section 135g of this title prior to amendment of act June 25, 1947, by Pub. L. 92–516.
@@ -47,6 +49,8 @@ Subsec. (c)(3). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator"
 <b>1988</b>—Subsec. (a). Pub. L. 100–532, §302(a), substituted "(1) For purposes of" for "For purposes of", inserted "of the Environmental Protection Agency or of any State", substituted "at reasonable times (A)" for "at reasonable times,", added cl. (B), and substituted "(2) Before" for "Before".
 
 Subsec. (b)(1). Pub. L. 100–532, §302(b), amended par. (1) generally, substituting "entry, inspection, and copying of records for purposes of this section or section 136f of this title" for "entry for the purpose of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (6) Change in beneficiary
 
-&emsp;Any change in the beneficiary of a Coverdell education savings account shall not be treated as a distribution for purposes of paragraph (1) if the new beneficiary is a member of the family (as so defined) of the old beneficiary andhas not attained age 30 as of the date of such change.
+&emsp;Any change in the beneficiary of a Coverdell education savings account shall not be treated as a distribution for purposes of paragraph (1) if the new beneficiary is a member of the family (as so defined) of the old beneficiary and has not attained age 30 as of the date of such change.
 
 #### (7) Special rules for death and divorce
 
@@ -216,6 +216,8 @@ The trustee of a Coverdell education savings account shall make such reports reg
 
 (Added Pub. L. 105–34, title II, §213(a), Aug. 5, 1997, 111 Stat. 813; amended Pub. L. 105–206, title VI, §6004(d)(1)–(3)(A), (5)–(8), July 22, 1998, 112 Stat. 793, 794; Pub. L. 106–554, §1(a)(7) \[title III, §319(6)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 107–16, title IV, §§401(a)(1), (b)–(g)(1), (2)(C), 402(a)(4)(A), (C), June 7, 2001, 115 Stat. 57–61; Pub. L. 107–22, §1(a)(1)–(5), July 26, 2001, 115 Stat. 196; Pub. L. 107–147, title IV, §411(f), Mar. 9, 2002, 116 Stat. 46; Pub. L. 108–121, title I, §107(a), Nov. 11, 2003, 117 Stat. 1339; Pub. L. 108–311, title IV, §§404(a), 406(b), Oct. 4, 2004, 118 Stat. 1188, 1189; Pub. L. 109–135, title IV, §412(ff), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 110–245, title I, §109(c), June 17, 2008, 122 Stat. 1632; Pub. L. 115–141, div. U, title I, §101(l)(16), title IV, §401(a)(131), (b)(23), Mar. 23, 2018, 132 Stat. 1165, 1190, 1203.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (d)(4)(B)(iv), is the date of enactment of Pub. L. 105–34, which enacted this section and was approved Aug. 5, 1997.
@@ -248,7 +250,7 @@ Subsec. (d)(4)(B)(iii). Pub. L. 108–311, §406(b), substituted "designated ben
 
 Subsec. (a). Pub. L. 107–22, §1(a)(2), substituted "A Coverdell education savings account" for "An education individual retirement account" and "the Coverdell education savings account" for "the education individual retirement account".
 
-Subsec. (b)(1). Pub. L. 107–22, §1(a)(1), (3), in heading, substituted "Coverdell education savings account" for "Education individual retirement account" and, in introductory provisions, substituted " 'Coverdell education savings account' " for " 'education individual retirement account' " and "designated as a Coverdell education savings account" for "designated as an education individual retirement account".
+Subsec. (b)(1). Pub. L. 107–22, §1(a)(1), (3), in heading, substituted "Coverdell education savings account" for"Education individual retirement account" and, in introductory provisions, substituted " 'Coverdell education savings account' " for " 'education individual retirement account' " and "designated as a Coverdell education savings account" for "designated as an education individual retirement account".
 
 Pub. L. 107–16, §401(d), inserted concluding provisions.
 
@@ -316,6 +318,8 @@ Subsec. (d)(7). Pub. L. 105–206, §6004(d)(2)(B), inserted at end "In applying
 
 Subsec. (d)(8). Pub. L. 105–206, §6004(d)(2)(C), added par. (8).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by section 101(l)(16) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under section 24 of this title.
@@ -326,7 +330,7 @@ Amendment by Pub. L. 110–245 applicable with respect to deaths from injuries o
 
 #### Effective Date of 2004 Amendment
 
-Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
+Amendment by section 404(a) of Pub. L. 108–311 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 404(f) of Pub. L. 108–311, set out as a note under section 45A of this title.
 
 Amendment by section 406(b) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 

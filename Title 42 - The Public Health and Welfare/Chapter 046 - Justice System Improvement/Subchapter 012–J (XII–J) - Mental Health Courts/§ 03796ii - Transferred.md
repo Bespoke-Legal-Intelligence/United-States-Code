@@ -1,8 +1,12 @@
 ### §3796ii. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3796ii was editorially reclassified as section 10471 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study on Reentry, Mental Illness, and Public Safety
 

@@ -42,7 +42,7 @@ The proprietor of the distilled spirits plant or other persons liable for the ta
 
 #### (1) In general
 
-&emsp;Whenever any distilled spirits on which tax has been determined or paid are returned tothe bonded premises of a distilled spirits plant under section 5215(a), the Secretary shall abate or (without interest) credit or refund the tax imposed under section 5001(a)(1) (or the tax equal to such tax imposed under section 7652) on the spirits so returned.
+&emsp;Whenever any distilled spirits on which tax has been determined or paid are returned to the bonded premises of a distilled spirits plant under section 5215(a), the Secretary shall abate or (without interest) credit or refund the tax imposed under section 5001(a)(1) (or the tax equal to such tax imposed under section 7652) on the spirits so returned.
 
 #### (2) Claim must be filed within 6 months of return of spirits
 
@@ -73,6 +73,8 @@ All provisions of law, including penalties, applicable in respect of the interna
 &emsp;&emsp;<b>For provisions relating to allowance for loss in case of wine spirits withdrawn for use in wine production, see section 5373(b)(3).</b>
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1323; amended Pub. L. 89–44, title VIII, §805(a), June 21, 1965, 79 Stat. 160; Pub. L. 90–630, §1, Oct. 22, 1968, 82 Stat. 1328; Pub. L. 91–659, §§1, 2(a), (b), Jan. 8, 1971, 84 Stat. 1964; Pub. L. 94–273, §47, Apr. 21, 1976, 90 Stat. 382; Pub. L. 94–455, title XIX, §§1905(a)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1818, 1834; Pub. L. 95–176, §§2(f), 4(e), Nov. 14, 1977, 91 Stat. 1364, 1366; Pub. L. 96–39, title VIII, §807(a)(6), July 26, 1979, 93 Stat. 281; Pub. L. 105–34, title XIV, §1411(a), Aug. 5, 1997, 111 Stat. 1046.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -116,7 +118,7 @@ Subsec. (c)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate"
 
 Subsec. (d)(1). Pub. L. 94–455, §§1905(a)(2)(C), (D), 1906(b)(13)(A), struck out "on or after July 1, 1959," after "from bonded premises," and "or his delegate" after "Secretary" and inserted "or under section 7652" after "under section 5001(a)(1)".
 
-<b>1971</b>—Subsec. (b)(2). Pub. L. 91–659, §2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction aftercompletion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
+<b>1971</b>—Subsec. (b)(2). Pub. L. 91–659, §2(a), struck out condition that the distilled spirits can be destroyed only before bottling and permitted destruction after completion of bottling so long as the distilled spirits are on the bottling premises and added taxes imposed under subpart B of this Part as additional taxes which can be claimed for abatement, remission, credit or refund.
 
 Subsec. (c)(1)(A). Pub. L. 91–659, §1, added cl. (iii).
 
@@ -125,6 +127,8 @@ Subsec. (c)(5). Pub. L. 91–659, §2(b), permits distilled spirits returned to 
 <b>1968</b>—Subsec. (c)(1). Pub. L. 90–630 inserted provisions allowing abatement, remission, and refund if the casualty loss occurs after completion of the packaging but before the spirits have been removed from the premises of the distilled spirits plant to which the spirits were removed from bond.
 
 <b>1965</b>—Subsec. (d)(2). Pub. L. 89–44 struck out final clause prohibiting the allowance of a claim in respect to any distilled spirits withdrawn from bonded premises of a distilled spirits plant more than 6 months prior to the date of such return.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 
@@ -140,7 +144,7 @@ Amendment by Pub. L. 95–176 effective on first day of first calendar month beg
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(a)(2) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(a)(2) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 
 #### Effective Date of 1971 Amendment
 

@@ -60,13 +60,13 @@ A person that clears 1 or more agreements, contracts, or transactions that are n
 
 &emsp;&emsp;&emsp;Each derivatives clearing organization shall establish—
 
-&emsp;&emsp;&emsp;&emsp;(I) appropriate admission and continuing eligibility standards (including sufficient financial resources and operationalcapacity to meet obligations arising from participation in the derivatives clearing organization) for members of, and participants in, the derivatives clearing organization; and
+&emsp;&emsp;&emsp;&emsp;(I) appropriate admission and continuing eligibility standards (including sufficient financial resources and operational capacity to meet obligations arising from participation in the derivatives clearing organization) for members of, and participants in, the derivatives clearing organization; and
 
 &emsp;&emsp;&emsp;&emsp;(II) appropriate standards for determining the eligibility of agreements, contracts, or transactions submitted to the derivatives clearing organization for clearing.
 
 #### (ii) Required procedures
 
-&emsp;&emsp;&emsp;Each derivatives clearing organization shall establish and implement procedures to verify, on an ongoing basis, the compliance of each participation and membership requirement of the derivatives clearing organization.
+&emsp;&emsp;&emsp;Each derivatives clearing organization shall establish and implement proceduresto verify, on an ongoing basis, the compliance of each participation and membership requirement of the derivatives clearing organization.
 
 #### (iii) Requirements
 
@@ -450,6 +450,8 @@ The Commission may exempt, conditionally or unconditionally, a derivatives clear
 
 (Sept. 21, 1922, ch. 369, §5b, as added Pub. L. 106–554, §1(a)(5) \[title I, §112(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–396; amended Pub. L. 111–203, title VII, §§721(e)(6), 725(a)–(c), (e), (h), July 21, 2010, 124 Stat. 1671, 1685–1687, 1693, 1695; Pub. L. 114–94, div. G, title LXXXVI, §86001(a), Dec. 4, 2015, 129 Stat. 1797.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsecs. (a)(1)(A)(ii) and (g)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -479,6 +481,8 @@ Subsec. (f)(1). Pub. L. 111–203, §725(h), inserted at end "In order to minimi
 Subsecs. (g) to (i). Pub. L. 111–203, §725(b), added subsecs. (g) to (i).
 
 Subsec. (k). Pub. L. 111–203, §725(e), added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

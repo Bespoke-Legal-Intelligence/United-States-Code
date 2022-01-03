@@ -68,7 +68,7 @@ To be eligible for a grant under subsection (b), a public food program service p
 
 &emsp;&emsp;(C) efforts to reduce food insecurity in the community, including food distribution, improving access to services, or coordinating services and programs;
 
-&emsp;(2) demonstrate competency to implement a project, provide fiscal accountability, collect data, and prepare reports and other necessary documentation;
+&emsp;(2) demonstrate competency to implement a project, provide fiscal accountability, collectdata, and prepare reports and other necessary documentation;
 
 &emsp;(3) demonstrate a willingness to share information with researchers, practitioners, and other interested parties; and
 
@@ -146,6 +146,8 @@ Not later than September 30, 2014, and each year thereafter, the Secretary shall
 
 (Pub. L. 88–525, §25, as added Pub. L. 104–127, title IV, §401(h), Apr. 4, 1996, 110 Stat. 1027; amended Pub. L. 107–171, title IV, §4125(a), May 13, 2002, 116 Stat. 326; Pub. L. 110–234, title IV, §§4402, 4406(a)(7), May 22, 2008, 122 Stat. 1135, 1141; Pub. L. 110–246, §4(a), title IV, §§4402, 4406(a)(7), June 18, 2008, 122 Stat. 1664, 1896, 1902; Pub. L. 110–380, §1(a), Oct. 8, 2008, 122 Stat. 4080; Pub. L. 113–79, title IV, §4026, Feb. 7, 2014, 128 Stat. 810; Pub. L. 115–334, title IV, §§4017, 4022(8), Dec. 20, 2018, 132 Stat. 4648, 4654.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 House Concurrent Resolution 302, referred to in subsec. (a)(3), is H. Con. Res. 302, Oct. 5, 1992, 106 Stat. 5204, which is not classified to the Code.
@@ -211,6 +213,8 @@ In general.—The Secretary shall provide for the evaluation of the success of c
 "(2)
 
 Report.—Not later than January 30, 2002, the Secretary shall submit a report to Congress regarding the results of the evaluation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

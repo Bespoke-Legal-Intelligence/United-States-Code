@@ -116,7 +116,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after the date on which the members of the Task Force areappointed, the Task Force shall submit to the Secretaries, and the heads of the State agencies with jurisdiction over wildlife disease and farmed cervid regulation of each State with a representative on the Task Force, the interstate action plan developed by the Task Force under paragraph (2)(C).
+&emsp;&emsp;Not later than 1 year after the date on which the members of the Task Force are appointed, the Task Force shall submit to the Secretaries, and the heads of the State agencies with jurisdiction over wildlife disease and farmed cervid regulation of each State with a representative on the Task Force, the interstate action plan developed by the Task Force under paragraph (2)(C).
 
 #### (B) Cooperative agreements
 
@@ -194,7 +194,7 @@ In this section:
 
 &emsp;&emsp;(B) assess the effectiveness of the potential prevention, detection, or control measures, practices, or technologies identified under subparagraph (A)(v); and
 
-&emsp;&emsp;(C) review and compare science-based best practices, standards, and guidance regarding the prevention, detection, and managementof chronic wasting disease in wild, captive, and farmed populations of cervids in the United States that have been developed by—
+&emsp;&emsp;(C) review and compare science-based best practices, standards, and guidance regarding the prevention, detection, and management of chronic wasting disease in wild, captive, and farmed populations of cervids in the United States that have been developed by—
 
 &emsp;&emsp;&emsp;(i) the National Chronic Wasting Disease Herd Certification Program of the Animal and Plant Health Inspection Service;
 

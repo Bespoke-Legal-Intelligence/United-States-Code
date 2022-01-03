@@ -6,7 +6,7 @@ Whoever willfully violates, attempts to violate, or conspires to violate, any pr
 
 #### (b) Construction or supply of components for utilization facilities; impairment of basic components; "basic component" defined; posting at construction sites of utilization facilities and on premises of component fabrication plants
 
-Any individual director, officer, or employee of a firm constructing, or supplying the components of any utilization facility required to be licensed under section 2133 or 2134(b) of this title who by act or omission, in connection with such construction or supply, knowingly and willfullyviolates or causes to be violated, any section of this chapter, any rule, regulation, or order issued thereunder, or any license condition, which violation results, or if undetected could have resulted, in a significant impairment of a basic component of such a facility shall, upon conviction, be subject to a fine of not more than $25,000 for each day of violation, or to imprisonment not to exceed two years, or both. If the conviction is for a violation committed after a first conviction under this subsection, punishment shall be a fine of not more than $50,000 per day of violation, or imprisonment for not more than two years, or both. For the purposes of this subsection, the term "basic component" means a facility structure, system, component or part thereof necessary to assure—
+Any individual director, officer, or employee of a firm constructing, or supplying the components of any utilization facility required to be licensed under section 2133 or 2134(b) of this title who by act or omission, in connection with such construction or supply, knowingly and willfully violates or causes to be violated, any section of this chapter, any rule, regulation, or orderissued thereunder, or any license condition, which violation results, or if undetected could have resulted, in a significant impairment of a basic component of such a facility shall, upon conviction, be subject to a fine of not more than $25,000 for each day of violation, or to imprisonment not to exceed two years, or both. If the conviction is for a violation committed after a first conviction under this subsection, punishment shall be a fine of not more than $50,000 per day of violation, or imprisonment for not more than two years, or both. For the purposes of this subsection, the term "basic component" means a facility structure, system, component or part thereof necessary to assure—
 
 &emsp;(1) the integrity of the reactor coolant pressure boundary,
 
@@ -22,6 +22,8 @@ Any individual director, officer or employee of a person indemnified under an ag
 
 (Aug. 1, 1946, ch. 724, title I, §223, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 958; amended Pub. L. 90–190, §12, Dec. 14, 1967, 81 Stat. 578; Pub. L. 91–161, §6, Dec. 24, 1969, 83 Stat. 445; Pub. L. 96–295, title II, §203, June 30, 1980, 94 Stat. 786; Pub. L. 100–408, §18, Aug. 20, 1988, 102 Stat. 1083; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
@@ -35,6 +37,8 @@ This chapter, referred to in text, was in the original "this Act", meaning act A
 <b>1969</b>—Pub. L. 91–161 limited application of section to instances where no criminal penalties have been provided.
 
 <b>1967</b>—Pub. L. 90–190 substituted "(o)" for "(p)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -108,9 +108,13 @@ In subsection (e)(2), the words "established under section 9502 of the Internal 
 
 In subsection (f), the words "Not later than 6 months after December 30, 1987, the Administrator shall promulgate a final rule" and "Such final rule" are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (g). Pub. L. 106–181 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

@@ -30,7 +30,7 @@ The Secretary may designate any discrete area of the marine environment as a nat
 
 &emsp;&emsp;(B) the area's historical, cultural, archaeological, or paleontological significance;
 
-&emsp;&emsp;(C) the present and potential uses of the area that depend on maintenance of the area's resources, including commercial andrecreational fishing, subsistence uses, other commercial and recreational activities, and research and education;
+&emsp;&emsp;(C) the present and potential uses of the area that depend on maintenance of the area's resources, including commercial and recreational fishing, subsistence uses, other commercial and recreational activities, and research and education;
 
 &emsp;&emsp;(D) the present and potential activities that may adversely affect the factors identified in subparagraphs (A), (B), and (C);
 
@@ -65,6 +65,8 @@ The Secretary may designate any discrete area of the marine environment as a nat
 &emsp;&emsp;(E) other interested persons.
 
 (Pub. L. 92–532, title III, §303, Oct. 23, 1972, 86 Stat. 1062; Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2297; Pub. L. 102–587, title II, §2103, Nov. 4, 1992, 106 Stat. 5041; Pub. L. 106–513, §§5, 19(a)(1), (b)(3), Nov. 13, 2000, 114 Stat. 2383, 2392, 2393; Pub. L. 106–555, title II, §205(a), Dec. 21, 2000, 114 Stat. 2769.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -112,9 +114,11 @@ Subsec. (b)(3). Pub. L. 106–513, §5(b)(2), struck out heading and text of par
 
 Subsec. (b)(1)(A). Pub. L. 102–587, §2103(b)(1), inserted "maintenance of critical habitat of endangered species," after "assemblages,".
 
-Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted "1434(a)(2)" for "1434(a)(1)", inserted ", governmental,"after "other commercial" and after "any commercial", and inserted at end: "The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations."
+Subsec. (b)(3). Pub. L. 102–587, §2103(b)(2), substituted "1434(a)(2)" for "1434(a)(1)", inserted ", governmental," after "other commercial" and after "any commercial", and inserted at end: "The Secretary, in consultation with the Secretary of Defense, the Secretary of Energy, and the Administrator, shall draft a resource assessment section for the report, including information on any past, present, or proposed future disposal or discharge of materials in the vicinity of the proposed sanctuary. Public disclosure by the Secretary of such information shall be consistent with national security regulations."
 
 <b>1984</b>—Pub. L. 98–498 amended section generally, substituting provisions relating to sanctuary designation standards for provisions relating to penalties. See section 1437(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -155,6 +159,8 @@ National Marine Sanctuary of American Samoa (former Fagatele Bay National Marine
 Olympic Coast National Marine Sanctuary.—59 F.R. 24586, May 11, 1994; 15 C.F.R. 922, subpart O; Pub. L. 100–627, title II, §205(a)(4), Nov. 7, 1988, 102 Stat. 3217; Pub. L. 102–587, title II, §2207, Nov. 4, 1992, 106 Stat. 5053.
 
 Thunder Bay National Marine Sanctuary and Underwater Preserve.—65 F.R. 39042, June 19, 2000; 15 C.F.R. part 922, subpart R.
+
+Wisconsin Shipwreck Coast National Marine Sanctuary.—86 F.R. 32737, June 23, 2021; 15 C.F.R. part 922, subpart T.
 
 #### Northwest Straits
 

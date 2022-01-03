@@ -2,7 +2,9 @@
 
 Merchandise upon which any duties or charges are unpaid, remaining in bonded warehouse beyond 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, shall be regarded as abandoned to the Government and shall be sold under such regulations as the Secretary of the Treasury shall prescribe, and the proceeds of sale paid into the Treasury, as in the case of unclaimed merchandise covered by section 1493 of this title, subject to the payment to the owner or consignee of such amount, if any, as shall remain after deduction of duties, charges, and expenses. Merchandise upon which all duties and charges have been paid, remaining in bonded warehouse beyond 5 years from the date of importation, or such longer period of time as the Bureau of Customs and Border Protection may at its discretion permit upon proper request being filed and good cause shown, shall be held to be no longer in the custody or control of the officers of the customs.
 
-(June 17, 1930, ch. 497, title IV, §559, 46 Stat. 744; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; Pub. L. 95–410, title I, §108(b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 109–280, title XIV, §1635(d), Aug. 17, 2006, 120 Stat. 1170.)
+(June 17, 1930, ch. 497, title IV, §559, 46 Stat. 744; June 25, 1938, ch. 679, §23(a), 52 Stat. 1088; Pub. L. 95–410, title I, §108(b)(1), Oct. 3, 1978, 92 Stat. 892;Pub. L. 109–280, title XIV, §1635(d), Aug. 17, 2006, 120 Stat. 1170.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -18,6 +20,8 @@ Prior provisions that goods, remaining in public store or bonded warehouse beyon
 
 <b>1938</b>—Act June 25, 1938, struck out "(or ten months in the case of grain)" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable with respect to goods entered, or withdrawn from warehouse for consumption, on or after the 15th day after Aug. 17, 2006, see section 1641 of Pub. L. 109–280, set out as a note under section 58c of this title.
@@ -30,13 +34,15 @@ Period of time prior to Oct. 3, 1978, disregarded in application of amendment to
 
 Amendment by act June 25, 1938, applicable in the case of grain imported prior to the thirtieth day following June 25, 1938, except as otherwise provided, see section 23(b) of act June 25, 1938, set out as a note under section 1557 of this title.
 
+#### Appropriations
+
+Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Refunding proceeds of unclaimed merchandise (Customs) (2x326)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
+
+#### <b>Executive Documents</b>
+
 #### Extension of Three-Year Period
 
 For extension of three year period prescribed in this section (prior to amendment by Pub. L. 95–410), see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under section 1318 of this title.
 
 Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No. 2712, Dec. 4, 1946, 11 F.R. 14133, 61 Stat. 1047, was superseded by Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41.
-
-#### Appropriations
-
-Act June 26, 1934, ch. 756, §2, 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, repealed the permanent appropriation under the title "Refunding proceeds of unclaimed merchandise (Customs) (2x326)" effective July 1, 1935, and provided that such portions of any Acts as make permanent appropriations to be expended under such account are amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as now provided by the laws providing such permanent appropriations.
 

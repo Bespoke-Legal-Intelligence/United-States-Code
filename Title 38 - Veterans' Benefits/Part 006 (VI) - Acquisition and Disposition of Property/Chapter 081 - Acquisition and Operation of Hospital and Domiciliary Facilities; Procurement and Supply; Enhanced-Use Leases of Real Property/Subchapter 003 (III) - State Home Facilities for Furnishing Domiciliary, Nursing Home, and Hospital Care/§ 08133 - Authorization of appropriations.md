@@ -26,7 +26,7 @@ Pub. L. 101–110 substituted "1990" for "1989".
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–151 inserted provisions extending authorization of a like sum from one to two years, and provisions authorizing to be appropriated such sums as necessary for the fiscal years ending Sept. 30, 1981, and Sept. 30, 1982.
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–62 substituted "$15,000,000 for the fiscal year ending September 30, 1978, and a like sum for the succeeding fiscal year" for "$5,000,000 forthe fiscal year ending June 30, 1965, and a like sum for each of the fourteen succeeding fiscal years" and "applications for carrying out the purposes and meeting the requirements of this subchapter" for "applications for carrying out the purposes of section 5032 of this title".
+<b>1977</b>—Subsec. (a). Pub. L. 95–62 substituted "$15,000,000 for the fiscal year ending September 30, 1978, and a like sum for the succeeding fiscal year" for "$5,000,000 for the fiscal year ending June 30, 1965, and a like sum for each of the fourteen succeeding fiscal years" and "applications for carrying out the purposes and meeting the requirements of this subchapter" for "applications for carrying out the purposes of section 5032 of this title".
 
 Subsec. (b). Pub. L. 95–62 substituted "shall remain available until expended" for "shall remain available until the end of the second fiscal year following the fiscal year for which they are appropriated".
 

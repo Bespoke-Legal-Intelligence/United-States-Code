@@ -62,7 +62,7 @@ The following sanctions shall be imposed pursuant to any order issued under subs
 
 #### (3) Report to Congress
 
-&emsp;Before the end of the 90-day period beginning on the date on which an order is issued undersubsection (c), the President shall submit to the Congress a report on—
+&emsp;Before the end of the 90-day period beginning on the date on which an order is issued under subsection (c), the President shall submit to the Congress a report on—
 
 &emsp;&emsp;(A) the status of consultations under this subsection with the government referred to in paragraph (1); and
 
@@ -82,7 +82,7 @@ Any sanction imposed on any person pursuant to an order issued under subsection 
 
 #### (g) Waiver
 
-The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of the domestic or international financial system or on domestic or international payments systems.
+The President may waive the continued application of any sanction imposed on any person pursuant to an order issued under subsection (c) if the President determines, and certifies in writing to the Congress, that the continued imposition of the sanction would have a serious adverse effect on the safety and soundness of thedomestic or international financial system or on domestic or international payments systems.
 
 #### (h) Enforcement action
 

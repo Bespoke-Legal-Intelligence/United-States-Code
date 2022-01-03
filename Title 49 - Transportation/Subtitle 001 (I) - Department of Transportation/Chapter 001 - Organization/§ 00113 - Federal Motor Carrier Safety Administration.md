@@ -42,6 +42,8 @@ Consultation.—The Administrator shall consult with the Federal Highway Adminis
 
 (Added Pub. L. 106–159, title I, §101(a), Dec. 9, 1999, 113 Stat. 1750.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 2000, see section 107(a) of Pub. L. 106–159, set out as an Effective Date of 1999 Amendment note under section 104 of this title.
@@ -84,7 +86,7 @@ Reissuance.—If a guidance document is not incorporated into regulations in acc
 
 "(b)
 
-Initial Review.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to thepublic, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1).
+Initial Review.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Administrator shall review all guidance documents issued by the Federal Motor Carrier Safety Administration and in effect on such date of enactment to ensure that such documents are current, are readily accessible to the public, and meet the standards specified in subparagraphs (A), (B), and (C) of subsection (c)(1).
 
 "(c)
 
@@ -140,7 +142,7 @@ In General.—The Administrator of the Federal Motor Carrier Safety Administrati
 
 &emsp;"(4) prioritize responses to petitions consistent with a petition's potential to reduce crashes, improve enforcement, and reduce unnecessary burdens; and
 
-&emsp;"(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventory of the petitions described in paragraph (1), including any applicable disposition information for those petitions.
+&emsp;"(5) not later than 60 days after the date of receipt of a petition, publish on a publicly accessible Internet Web site of the Department an updated inventoryof the petitions described in paragraph (1), including any applicable disposition information for those petitions.
 
 "(b)
 

@@ -2,7 +2,7 @@
 
 #### (a) Implementation of conservation program; authorization of Secretary and Secretary of Agriculture
 
-The Secretary, and the Secretary of Agriculture with respect to the National Forest System, shall establish and implement a program to conserve fish, wildlife, and plants, including those which are listed as endangered species or threatened species pursuant to section 1533 of this title. To carry out such a program, the appropriate Secretary—
+The Secretary, and the Secretary of Agriculture with respect to the National Forest System, shall establish and implement a program to conserve fish, wildlife, and plants, including those which are listed as endangered species or threatened species pursuant to section 1533 ofthis title. To carry out such a program, the appropriate Secretary—
 
 &emsp;(1) shall utilize the land acquisition and other authority under the Fish and Wildlife Act of 1956, as amended \[16 U.S.C. 742a et seq.\], the Fish and Wildlife Coordination Act, as amended \[16 U.S.C. 661 et seq.\], and the Migratory Bird Conservation Act \[16 U.S.C. 715 et seq.\], as appropriate; and
 
@@ -13,6 +13,8 @@ The Secretary, and the Secretary of Agriculture with respect to the National For
 Funds made available pursuant to chapter 2003 of title 54 may be used for the purpose of acquiring lands, waters, or interests therein under subsection (a) of this section.
 
 (Pub. L. 93–205, §5, Dec. 28, 1973, 87 Stat. 889; Pub. L. 95–632, §12, Nov. 10, 1978, 92 Stat. 3766; Pub. L. 113–287, §5(d)(32), Dec. 19, 2014, 128 Stat. 3267.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

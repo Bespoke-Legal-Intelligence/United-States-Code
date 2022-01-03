@@ -4,13 +4,19 @@ The Secretary of the Army is authorized to furnish to the National Museum, for e
 
 (Mar. 4, 1921, ch. 166, §1, 41 Stat. 1438; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Oct. 31, 1951, ch. 654, §3(4), 65 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1951</b>—Act Oct. 31, 1951, struck out "are surplus or" after "articles".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+#### <b>Executive Documents</b>
 
 #### Secretary of Air Force
 

@@ -38,7 +38,7 @@
 
 #### (3) Participating levees
 
-&emsp;For non-Federal levees the owners of which are participating in the emergency response tonatural disasters program established under section 701n of this title, the Secretary shall establish an inventory and conduct an inspection of each such levee if the owner of the levee requests such inspection. The Federal share of the cost of an inspection under this paragraph shall be 65 percent.
+&emsp;For non-Federal levees the owners of which are participating in the emergency response to natural disasters program established under section 701n of this title, the Secretary shall establish an inventory and conduct an inspection of each such levee if the owner of the levee requests such inspection. The Federal share of the cost of an inspection under this paragraph shall be 65 percent.
 
 #### (c) Levee review
 

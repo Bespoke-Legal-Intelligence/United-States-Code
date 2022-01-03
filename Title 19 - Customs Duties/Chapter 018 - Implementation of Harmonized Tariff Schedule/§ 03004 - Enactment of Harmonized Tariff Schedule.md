@@ -62,6 +62,8 @@ Each—
 
 (Pub. L. 100–418, title I, §1204, Aug. 23, 1988, 102 Stat. 1148.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in text, is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -77,6 +79,8 @@ This chapter, referred to in subsec. (c)(1)(A), (2), was in the original "this s
 #### Codification
 
 Section is comprised of section 1204 of Pub. L. 100–418. Subsec. (a) of section 1204 of Pub. L. 100–418 amended title I of the Tariff Act of 1930, act June 17, 1930, ch. 497, title I, 46 Stat. 590. See note set out preceding section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

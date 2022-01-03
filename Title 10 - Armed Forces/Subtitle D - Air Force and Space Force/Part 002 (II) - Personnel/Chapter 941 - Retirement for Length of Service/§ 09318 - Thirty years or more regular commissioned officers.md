@@ -18,7 +18,9 @@ Historical and Revision Notes
 
 R.S. 1243; Dec. 16, 1930, ch. 14, §1 (as applicable to R.S. 1243), 46 Stat. 1028.
 
-The word "commissioned" is inserted, since the retirement of warrant officers for length of service is covered by section 1293 of this title. The word "regular" is inserted, since 10:943 is applicable historically only to officers of a regular component. The words "and placed on the retired list" are omitted as surplusage. Thewords "computed under section 8926 of this title" are inserted for clarity.
+The word "commissioned" is inserted, since the retirement of warrant officers for length of service is covered by section 1293 of this title. The word "regular" is inserted, since 10:943 is applicable historically only to officers of a regular component. The words "and placed on the retired list" are omitted as surplusage. The words "computed under section 8926 of this title" are inserted for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -30,9 +32,13 @@ A prior section 9319 was renumbered section 9419 of this title.
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8918 of this title as this section and substituted "section 9326" for "section 8926".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

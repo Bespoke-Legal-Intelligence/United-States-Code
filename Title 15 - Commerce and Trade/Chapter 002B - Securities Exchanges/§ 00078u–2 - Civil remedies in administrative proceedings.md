@@ -72,9 +72,11 @@ In any proceeding in which the Commission or the appropriate regulatory agency m
 
 #### (2) Security-based swap dealer or major security-based swap participant
 
-&emsp;Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 78c–3 of this title shall be liable for a civil money penalty in twice the amount otherwise available for a violation of section 78c–3 of this title.
+&emsp;Any security-based swap dealer or major security-based swap participant that knowingly or recklessly evades or participates in or facilitates an evasion of the requirements of section 78c–3 of this title shall be liable for a civilmoney penalty in twice the amount otherwise available for a violation of section 78c–3 of this title.
 
 (June 6, 1934, ch. 404, title I, §21B, as added Pub. L. 101–429, title II, §202(a), Oct. 15, 1990, 104 Stat. 937; amended Pub. L. 107–204, title V, §501(b), July 30, 2002, 116 Stat. 793; Pub. L. 109–291, §4(b)(1)(B), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title VII, §773, title IX, §929P(a)(2), July 21, 2010, 124 Stat. 1802, 1863.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -95,6 +97,8 @@ Subsec. (f). Pub. L. 111–203, §773, added subsec. (f).
 <b>2006</b>—Subsec. (a). Pub. L. 109–291 inserted "78o–7," after "78o–5," in introductory provisions.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–204 inserted "78o–6," before "78o–4," in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -6,7 +6,7 @@ Food, medicine, and medical supplies for humanitarian purposes should be made av
 
 &emsp;(2) has made a public commitment to respect, and is respecting, internationally recognized human rights and basic democratic freedoms; and
 
-&emsp;(3) is not providing weapons or funds to any group, in any other country, that seeks theviolent overthrow of the government of that country.
+&emsp;(3) is not providing weapons or funds to any group, in any other country, that seeks the violent overthrow of the government of that country.
 
 (Pub. L. 102–484, div. A, title XVII, §1707, Oct. 23, 1992, 106 Stat. 2579; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(V), June 18, 2008, 122 Stat. 1820, 1821.)
 

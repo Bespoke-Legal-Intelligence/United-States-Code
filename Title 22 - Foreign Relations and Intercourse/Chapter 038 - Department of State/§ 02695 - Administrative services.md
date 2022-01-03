@@ -20,7 +20,7 @@ Whenever the head of any Federal agency performing any foreign affairs functions
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277, §1335(l)(1), substituted "Broadcasting Board of Governors" for "United States Information Agency".
 
-Pub. L. 105–277, §1225(f), substituted "and the Agency for International Development" for "the Agency forInternational Development, and the Arms Control and Disarmament Agency".
+Pub. L. 105–277, §1225(f), substituted "and the Agency for International Development" for "the Agency for International Development, and the Arms Control and Disarmament Agency".
 
 <b>1991</b>—Pub. L. 102–138 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
@@ -38,5 +38,5 @@ Amendment by section 1335(l)(1) of Pub. L. 105–277 effective Oct. 1, 1999, see
 
 #### Effective Date
 
-Pub. L. 95–426, title I, §111(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendment made by this section \[enacting this section\] shall take effect on October 1, 1978."
+Pub. L. 95–426, title I, §111(b), Oct. 7, 1978, 92 Stat. 967, provided that: "The amendment made by this section\[enacting this section\] shall take effect on October 1, 1978."
 

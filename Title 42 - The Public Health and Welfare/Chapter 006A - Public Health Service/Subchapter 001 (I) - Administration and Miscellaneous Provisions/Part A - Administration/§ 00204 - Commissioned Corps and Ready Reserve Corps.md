@@ -24,7 +24,7 @@
 
 #### (b) Assimilating Reserve Corps officers into the Regular Corps
 
-Effective on March 23, 2010, all individuals classified as officers in the Reserve Corps under this section (as such section existed on the day before March 23, 2010) and serving on active duty shall be deemed to be commissioned officers of the Regular Corps.
+Effective on March 23, 2010, all individuals classified as officers in the Reserve Corps underthis section (as such section existed on the day before March 23, 2010) and serving on active duty shall be deemed to be commissioned officers of the Regular Corps.
 
 #### (c) Purpose and use of Ready Reserve Corps
 
@@ -53,6 +53,8 @@ Effective on March 23, 2010, all individuals classified as officers in the Reser
 For the purpose of carrying out the duties and responsibilities of the Commissioned Corps under this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2010 through 2014 for recruitment and training and $12,500,000 for each of fiscal years 2010 through 2014 for the Ready Reserve Corps.
 
 (July 1, 1944, ch. 373, title II, §203, 58 Stat. 683; Feb. 28, 1948, ch. 83, §2, 62 Stat. 39; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 96–76, title III, §302(a), Sept. 29, 1979, 93 Stat. 584; Pub. L. 111–148, title V, §5210, Mar. 23, 2010, 124 Stat. 614; Pub. L. 112–166, §2(ff)(1), Aug. 10, 2012, 126 Stat. 1290; Pub. L. 116–136, div. A, title III, §3214(a), Mar. 27, 2020, 134 Stat. 372.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -84,6 +86,8 @@ Subsec. (c)(3). Pub. L. 116–136, §3214(a)(2)(D), added par. (3).
 
 <b>1948</b>—Act Feb. 28, 1948, struck out provision that all active service in Reserve Corps, as well as service in Regular Corps, shall be credited for purpose of promotion in Regular Corps.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference in any Federal statute, except in the case of subsec. (b) of this section, to "Reserve Corps" of the Public Health Service or to the "reserve" of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see subsec. (c)(3) of this section.
@@ -111,6 +115,8 @@ Reports by Recipients of Funds.—The Secretary of Health and Human Services may
 #### Osteopaths as Reserve Officers
 
 Section 709 of act July 1, 1944, formerly §609, renumbered §709 by act Aug. 13, 1946, ch. 958, §5, 60 Stat. 1049, which provided for appointment of osteopaths as reserve officers until six months after World War II, was repealed by Joint Res. July 25, 1947, ch. 327, §1, 61 Stat. 449.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority to Appoint Commissioned Officers of the Ready Reserve Corps of the Public Health Service
 

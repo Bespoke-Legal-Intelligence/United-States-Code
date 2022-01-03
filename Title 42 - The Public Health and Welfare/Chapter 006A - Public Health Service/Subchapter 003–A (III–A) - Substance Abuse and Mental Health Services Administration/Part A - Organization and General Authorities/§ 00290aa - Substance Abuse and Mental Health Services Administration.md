@@ -34,7 +34,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(3) carry out the administrative and financial management, policy development and planning, evaluation, knowledge dissemination, and public information functions that are required for the implementation of this subchapter;
 
-&emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve the availability and quality of treatment, prevention and related services;
+&emsp;(4) assure that the Administration conduct and coordinate demonstration projects, evaluations, and service system assessments and other activities necessary to improve theavailability and quality of treatment, prevention and related services;
 
 &emsp;(5) support activities that will improve the provision of treatment, prevention and related services, including the development of national mental health and substance use disorder goals and model programs;
 
@@ -78,7 +78,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 &emsp;(19) consult with State, local, and tribal governments, nongovernmental entities, and individuals with mental illness, particularly adults with a serious mental illness, children with a serious emotional disturbance, and the family members of such adults and children, with respect to improving community-based and other mental health services;
 
-&emsp;(20) collaborate with the Secretary of Defense and the Secretary of Veterans Affairs to improve the provision of mental and substance use disorder services provided by the Department of Defense and the Department of Veterans Affairs to members of the Armed Forces, veterans, and the family members of such members and veterans, including through the provision of services using the telehealth capabilities of the Department of Defense and the Department of Veterans Affairs;
+&emsp;(20) collaborate with the Secretary of Defense and the Secretary of Veterans Affairs to improve the provision of mental and substance use disorder services provided by the Department of Defense and the Department of Veterans Affairs to members of the Armed Forces, veterans, and the family members of suchmembers and veterans, including through the provision of services using the telehealth capabilities of the Department of Defense and the Department of Veterans Affairs;
 
 &emsp;(21) collaborate with the heads of relevant Federal agencies and departments, States, communities, and nongovernmental experts to improve mental and substance use disorders services for chronically homeless individuals, including by designing strategies to provide such services in supportive housing;
 
@@ -114,7 +114,7 @@ The Secretary, acting through the Assistant Secretary, shall—
 
 #### (3) Report
 
-&emsp;(A) Not less than once during each 2 years, the Assistant Secretary, acting through theAssociate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
+&emsp;(A) Not less than once during each 2 years, the Assistant Secretary, acting through the Associate Administrator for Alcohol Prevention and Treatment Policy, shall prepare a report describing the alcoholism and alcohol abuse prevention and treatment programs undertaken by the Administration and its agencies, and the report shall include a detailed statement of the expenditures made for the activities reported on and the personnel used in connection with such activities.
 
 &emsp;(B) Each report under subparagraph (A) shall include a description of any revisions in the plan under paragraph (2) made during the preceding 2 years.
 
@@ -270,7 +270,7 @@ The Assistant Secretary shall ensure that programs and activities assigned under
 
 &emsp;&emsp;(B) identify ways to improve the quality of services for individuals with mental and substance use disorders, and to reduce homelessness, arrest, incarceration, violence, including self-directed violence, and unnecessary hospitalization of individuals with a mental or substance use disorder, including adults with a serious mental illness or children with a serious emotional disturbance;
 
-&emsp;&emsp;(C) ensure that programs provide, as appropriate, access to effective and evidence-based prevention, diagnosis, intervention, treatment, and recovery services, including culturally and linguistically appropriate services, as appropriate, for individuals with a mental or substance use disorder;
+&emsp;&emsp;(C) ensure that programs provide, as appropriate, access to effective and evidence-based prevention, diagnosis, intervention, treatment, and recovery services, includingculturally and linguistically appropriate services, as appropriate, for individuals with a mental or substance use disorder;
 
 &emsp;&emsp;(D) identify opportunities to collaborate with the Health Resources and Services Administration to develop or improve—
 
@@ -357,6 +357,8 @@ No information, if an establishment or person supplying the information or descr
 For the purpose of providing grants, cooperative agreements, and contracts under this section, there are authorized to be appropriated $25,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §501, formerly Pub. L. 93–282, title II, §201, May 14, 1974, 88 Stat. 134, as amended Pub. L. 94–371, §8, July 26, 1976, 90 Stat. 1040; renumbered §501 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(2), Apr. 26, 1983, 97 Stat. 176; Pub. L. 98–509, title II, §201, title III, §301(c)(1), Oct. 19, 1984, 98 Stat. 2359, 2364; Pub. L. 99–570, title IV, §4003, Oct. 27, 1986, 100 Stat. 3207–106; Pub. L. 100–690, title II, §2058(a)(2), Nov. 18, 1988, 102 Stat. 4213; Pub. L. 101–93, §3(f), Aug. 16, 1989, 103 Stat. 611; Pub. L. 102–321, title I, §101(a), July 10, 1992, 106 Stat. 324; Pub. L. 104–201, div. A, title XVII, §1723(a)(3)(A), Sept. 23, 1996, 110 Stat. 2759; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 106–310, div. B, title XXXI, §3102, title XXXIV, §3401(a), Oct. 17, 2000, 114 Stat. 1170, 1218; Pub. L. 108–173, title IX, §900(e)(2)(A), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 111–148, title III, §3509(d), Mar. 23, 2010, 124 Stat. 534; Pub. L. 114–255, div. B, title VI, §§6001(a), (c)(2), 6002, 6003, 6005, 6006(a), Dec. 13, 2016, 130 Stat. 1202–1206, 1209, 1210.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -474,7 +476,7 @@ Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), rede
 
 <b>1996</b>—Subsec. (g)(2)(A). Pub. L. 104–201 substituted "5724a(a), 5724a(c)" for "5724a(a)(1), 5724a(a)(3)".
 
-<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuse and Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
+<b>1992</b>—Pub. L. 102–321 amended section generally, substituting provisions relating to the Substance Abuseand Mental Health Services Administration for provisions relating to the Alcohol, Drug Abuse, and Mental Health Administration.
 
 <b>1989</b>—Subsec. (b)(4). Pub. L. 101–93, §3(f)(1), substituted "for" for "of".
 
@@ -508,13 +510,13 @@ Subsecs. (e), (f). Pub. L. 98–24, §2(b)(2)(D), added subsecs. (e) and (f).
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–371 added subsec. (d).
 
-#### Change of Name
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name; References
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### References
 
 Pub. L. 114–255, div. B, title VI, §6001(d), Dec. 13, 2016, 130 Stat. 1203, provided that: "After executing subsections (a), (b), and (c) \[see Tables for classification\], any reference in statute, regulation, or guidance to the Administrator of the Substance Abuse and Mental Health Services Administration shall be construed to be a reference to the Assistant Secretary for Mental Health and Substance Use."
 
@@ -550,7 +552,7 @@ Substance Abuse and Mental Health Services Administration.—Except as specifica
 
 "(b)
 
-National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator of the Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
+National Institutes.—Except as specifically provided otherwise in this Act or an amendment made by this Act, there are transferred to the appropriate Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, through the Director of the National Institutes of Health, all research related functions which the Administrator ofthe Alcohol, Drug Abuse and Mental Health Administration exercised before the date of the enactment of this Act and all related functions of any officer or employee of the Alcohol, Drug Abuse, and Mental Health Administration.
 
 "(c)
 
@@ -646,7 +648,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### "SEC. 149. CONDUCT OF MULTI-YEAR RESEARCH PROJECTS.
 
-"With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former 42 U.S.C. 300x(b)\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[42 U.S.C.285n, 285o, 285p\], as appropriate, subject to satisfactory performance.
+"With respect to multi-year grants awarded prior to fiscal year 1993 by the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health with amounts received under section 1911(b) \[former 42 U.S.C. 300x(b)\], as such section existed one day prior to the date of enactment of this Act \[July 10, 1992\], such grants shall be continued for the entire period of the grant through the utilization of funds made available pursuant to sections 464H, 464L, and 464R \[42 U.S.C. 285n, 285o, 285p\], as appropriate, subject to satisfactory performance.
 
 #### "SEC. 150. SEPARABILITY.
 
@@ -655,6 +657,26 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 #### "SEC. 151. BUDGETARY AUTHORITY.
 
 "With respect to fiscal years 1994 and 1995, the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse, and the National Institute of Mental Health shall notwithstanding section 405(a) \[42 U.S.C. 284(a)\], prepare and submit, directly to the President for review and transmittal to Congress, an annual budget estimate (including an estimate of the number and type of personnel needs for the Institute) for their respective Institutes, after reasonable opportunity for comment (but without change) by the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the Institute's advisory council."
+
+#### Funding for Community-Based Funding for Local Behavioral Health Needs
+
+Pub. L. 117–2, title II, §2707, Mar. 11, 2021, 135 Stat. 47, provided that:
+
+"(a)
+
+In General.—In addition to amounts otherwise available, there is appropriated to the Secretary \[of Health and Human Services\] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $50,000,000, to remain available until expended, to carry out the purpose described in subsection (b).
+
+"(b)
+
+Use of Funds.—
+
+&emsp;"(1)
+
+In general.—The Secretary, acting through the Assistant Secretary for Mental Health and Substance Use, shall award grants to State, local, Tribal, and territorial governments, Tribal organizations, nonprofit community-based entities, and primary care and behavioral health organizations to address increased community behavioral health needs worsened by the COVID–19 public health emergency.
+
+&emsp;"(2)
+
+Use of grant funds.—Grant funds awarded under this section to eligible entities shall be used for promoting care coordination among local entities; training the mental and behavioral health workforce, relevant stakeholders, and community members; expanding evidence-based integrated models of care; addressing surge capacity for mental and behavioral health needs; providing mental and behavioral health services to individuals with mental health needs (including co-occurring substance use disorders) as delivered by behavioral and mental health professionals utilizing telehealth services; and supporting, enhancing, or expanding mental and behavioral health preventive and crisis intervention services."
 
 #### Interdepartmental Substance Use Disorders Coordinating Committee
 
@@ -760,7 +782,7 @@ Annual Report.—Not later than 1 year after the date of the enactment of this A
 
 "(g)
 
-Working Groups.—The Committee may establish working groups for purposes of carrying out theduties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
+Working Groups.—The Committee may establish working groups for purposes of carrying out the duties described in subsection (e). Any such working group shall be composed of members of the Committee (or the designees of such members) and may hold such meetings as are necessary to enable the working group to carry out the duties delegated to the working group.
 
 "(h)
 
@@ -868,11 +890,11 @@ Funding.—
 
 &emsp;"(1)
 
-Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000for each of fiscal years 2015 through 2022. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
+Amount of grants.—A grant under this section shall be in an amount that is not more than $1,000,000 for each of fiscal years 2015 through 2022. Subject to the preceding sentence, the Secretary shall determine the amount of each grant based on the population of the area, including estimated patients, to be served under the grant.
 
 &emsp;"(2)
 
-Authorization of appropriations.—There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2017, $20,000,000 for fiscal year 2018, $19,000,000 for each of fiscal years 2019 and 2020, and $18,000,000 for each of fiscal years 2021 and 2022."
+Authorization of appropriations.—There are authorized to be appropriated to carry out this section $15,000,000 for each of fiscal years 2015 through 2017, $20,000,000 for fiscal year 2018, $19,000,000 for eachof fiscal years 2019 and 2020, and $18,000,000 for each of fiscal years 2021 and 2022."
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
@@ -916,6 +938,8 @@ Act July 8, 1947, ch. 210, title II, §201, 61 Stat. 269, provided: "That as of 
 
 \[Section 201 of act July 8, 1947, set out above, was formerly classified to section 258a of this title.\]
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13954. Saving Lives Through Increased Support for Mental- and Behavioral-Health Needs
 
 Ex. Ord. No. 13954, Oct. 3, 2020, 85 F.R. 63977, provided:
@@ -924,9 +948,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Purpose</i>. My Administration is committed to preventing the tragedy of suicide, ending the opioid crisis, and improving mental and behavioral health. Before the COVID–19 pandemic, these urgent issues were prioritized through significant initiatives, including the President's Roadmap to Empower Veterans and End a National Tragedy of Suicide (PREVENTS), expanded access to medication-assisted treatment and life-saving naloxone, and budget requests for significant investments in the funding of evidence-based treatment for mental- and behavioral-health needs.
 
-During the COVID–19 pandemic, the Federal Government has dedicated billions of dollars and thousands of hours in resources to help Americans, including approximately $425 million in emergency funds to address mental and substance use disorders through the Substance Abuse and Mental Health Services Administration. The pandemic has also exacerbated mental- and behavioral-health conditions as a result of stress from prolonged lockdown orders, lost employment, and social isolation. Survey data from the Centers for Disease Control and Prevention show that during the last week of June, 40.9 percent of Americans struggled with mental-health or substance-abuse issues and 10.7 percent reported seriously considering suicide. We must enhance the ability of the Federal Government, as well as itsState, local, and Tribal partners, to appropriately address these ongoing mental- and behavioral-health concerns.
+During the COVID–19 pandemic, the Federal Government has dedicated billions of dollars and thousands of hours in resources to help Americans, including approximately $425 million in emergency funds to address mental and substance use disorders through the Substance Abuse and Mental Health Services Administration. The pandemic has also exacerbated mental- and behavioral-health conditions as a result of stress from prolonged lockdown orders, lost employment, and social isolation. Survey data from the Centers for Disease Control and Prevention show that during the last week of June, 40.9 percent of Americans struggled with mental-health or substance-abuse issues and 10.7 percent reported seriously considering suicide. We must enhance the ability of the Federal Government, as well as its State, local, and Tribal partners, to appropriately address these ongoing mental- and behavioral-health concerns.
 
-Sec. 2. <i>Policy</i>. It is the policy of the United States to prevent suicides, drug-related deaths, and poor behavioral-health outcomes, particularly those that are induced or made worse by prolonged State and local COVID–19 shutdown orders. I am therefore issuing a national call to action to:
+Sec. 2. <i>Policy</i>. It is the policy of the United States to prevent suicides, drug-related deaths, and poor behavioral-health outcomes, particularly those that are induced or made worse by prolonged State and localCOVID–19 shutdown orders. I am therefore issuing a national call to action to:
 
 (a) Engage the resources of the Federal Government to address the mental- and behavioral-health needs of vulnerable Americans, including by:
 

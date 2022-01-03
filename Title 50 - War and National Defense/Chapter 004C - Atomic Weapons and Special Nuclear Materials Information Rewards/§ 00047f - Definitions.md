@@ -8,9 +8,11 @@ As used in this chapter—
 
 (c) The term "special nuclear material" means plutonium, or uranium enriched in the isotope 233 or in the isotope 235, or any other material which is found to be special nuclear material pursuant to the provisions of the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\].
 
-(d) The term "United States," when used in a geographical sense, includes Puerto Rico, all Territories and possessions of the United States and the Canal Zone; except that in section 47c of this title, the term "United States" when so used shall have the meaning given to it in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
+(d) The term "United States," when used in a geographical sense, includes Puerto Rico, all Territories and possessions of the United Statesand the Canal Zone; except that in section 47c of this title, the term "United States" when so used shall have the meaning given to it in the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].
 
 (July 15, 1955, ch. 372, §7, 69 Stat. 366.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

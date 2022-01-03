@@ -24,6 +24,8 @@ In subsection (a) the words "foreign country" are substituted for the words "ano
 
 In subsection (b) the word "for" is substituted for the words "in the event of" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 194 of title 30, referred to in subsec. (a), was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 644.
@@ -41,6 +43,8 @@ Section 227 of title 30, referred to in subsec. (a), was omitted from the Code.
 <b>1976</b>—Subsec. (b). Pub. L. 94–258 struck out "of the Navy" after "Secretary".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–796 substituted "land in the naval petroleum, naval oil shale, or other naval fuel reserves" for "land in the naval petroleum or other naval fuel reserves".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

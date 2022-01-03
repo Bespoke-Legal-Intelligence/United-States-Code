@@ -58,7 +58,7 @@ The district court in which a case under this subchapter is pending shall have p
 
 #### (f) Reallocation of court staff
 
-Notwithstanding any law to the contrary, the clerk of the court in which a case is pendingshall reallocate as many staff and assistants as the clerk deems necessary to ensure that the court has adequate resources to provide for proper case management.
+Notwithstanding any law to the contrary, the clerk of the court in which a case is pending shall reallocate as many staff and assistants as the clerk deems necessary to ensure that the court has adequate resources to provide for proper case management.
 
 (Pub. L. 114–187, title III, §306, June 30, 2016, 130 Stat. 580.)
 

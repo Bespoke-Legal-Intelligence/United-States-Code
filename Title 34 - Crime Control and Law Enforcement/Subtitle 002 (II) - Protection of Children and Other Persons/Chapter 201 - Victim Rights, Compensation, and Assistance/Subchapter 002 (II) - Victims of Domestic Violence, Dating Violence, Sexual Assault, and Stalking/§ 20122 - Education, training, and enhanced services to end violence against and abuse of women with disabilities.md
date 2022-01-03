@@ -48,7 +48,7 @@ Grants awarded under this section shall be used—
 
 #### (2) Limitation
 
-&emsp;A grant awarded for the purpose described in subsection (b)(8) shall only be awarded to an eligible agency (as defined in section 796f–5 <sup>1</sup> of title 29).
+&emsp;A grant awarded for the purpose described in subsection (b)(8) shall only be awarded to aneligible agency (as defined in section 796f–5 <sup>1</sup> of title 29).
 
 #### (d) Underserved populations
 

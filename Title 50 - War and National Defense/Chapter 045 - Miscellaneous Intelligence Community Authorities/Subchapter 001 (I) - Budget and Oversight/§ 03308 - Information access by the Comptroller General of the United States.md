@@ -44,13 +44,17 @@ The directive issued under subsection (a)(1) and any amendment to such directive
 
 (Pub. L. 111–259, title III, §348, Oct. 7, 2010, 124 Stat. 2700.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (a)(3)(B), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The National Security Act of 1947, referred to in subsec. (a)(3)(B), is act July 26, 1947, ch. 343, 61 Stat. 495,which is classified principally to chapter 44 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 Section was formerly classified to section 403–9 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition
 

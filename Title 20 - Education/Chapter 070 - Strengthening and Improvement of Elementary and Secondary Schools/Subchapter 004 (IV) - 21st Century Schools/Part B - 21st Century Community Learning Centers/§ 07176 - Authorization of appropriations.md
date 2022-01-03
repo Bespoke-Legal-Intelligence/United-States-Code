@@ -2,7 +2,9 @@
 
 There are authorized to be appropriated to carry out this part $1,000,000,000 for fiscal year 2017 and $1,100,000,000 for each of fiscal years 2018 through 2020.
 
-(Pub. L. 89–10, title IV, §4206, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773;amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1993.)
+(Pub. L. 89–10, title IV, §4206, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1773; amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1993.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -103,6 +105,8 @@ A prior section 5146 of Pub. L. 89–10 was classified to section 3224b of this 
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment section authorized appropriations for fiscal years 2002 to 2007.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (b) Federal Housing Commissioner
 
-There shall be in the Department a Federal Housing Commissioner, who shall be one of the Assistant Secretaries, who shall head a Federal Housing Administration within the Department, who shall have such duties and powers as may be prescribed by the Secretary, and who shall administer, under the supervision and direction of the Secretary, departmental programs relating to the private mortgage market. The Secretary shall ensure, to the extent practicable, that managers of Federal Housing Administration programs, at each level of the Department, shall be accountable for program operation, risk management, management of cash and other Federal assets, and program financing related to activities over which such managers have responsibility.
+There shall be in the Department a Federal Housing Commissioner, who shall be one of the Assistant Secretaries, who shall head a FederalHousing Administration within the Department, who shall have such duties and powers as may be prescribed by the Secretary, and who shall administer, under the supervision and direction of the Secretary, departmental programs relating to the private mortgage market. The Secretary shall ensure, to the extent practicable, that managers of Federal Housing Administration programs, at each level of the Department, shall be accountable for program operation, risk management, management of cash and other Federal assets, and program financing related to activities over which such managers have responsibility.
 
 #### (c) Director of Urban Program Coordination; designation; powers and duties; studies of urban and community problems and recommendations for administration of Federal programs affecting such problems
 
@@ -158,9 +158,11 @@ There shall be in the Department a Federal Housing Administration Comptroller, d
 
 (Pub. L. 89–174, §4, Sept. 9, 1965, 79 Stat. 668; Pub. L. 90–83, §10(b), Sept. 11, 1967, 81 Stat. 223; Pub. L. 90–284, title VIII, §808(b)(1), Apr. 11, 1968, 82 Stat. 84; Pub. L. 90–448, title XVII, §1708(a), Aug. 1, 1968, 82 Stat. 606; Pub. L. 91–609, title IX, §917, Dec. 31, 1970, 84 Stat. 1816; Pub. L. 93–383, title VIII, §818(a), Aug. 22, 1974, 88 Stat. 740; Pub. L. 95–128, title IX, §901, Oct. 12, 1977, 91 Stat. 1148; Pub. L. 101–235, title I, §§121, 122, 140, Dec. 15, 1989, 103 Stat. 2021, 2030; Pub. L. 101–509, title V, §529 \[title I, §112(a)(4)\], Nov. 5, 1990, 104 Stat.1427, 1454; Pub. L. 101–576, title II, §205(c)(2), Nov. 15, 1990, 104 Stat. 2845; Pub. L. 102–550, title IX, §902(a)(1), Oct. 28, 1992, 106 Stat. 3866; Pub. L. 111–203, title XIV, §1442, July 21, 2010, 124 Stat. 2163; Pub. L. 112–166, §2(g), Aug. 10, 2012, 126 Stat. 1285; Pub. L. 114–201, title IV, §403(a), July 29, 2016, 130 Stat. 808.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Section 6 of the Expand and Preserve Home Ownership Through Counseling Act, referred to in subsec. (g)(3)(B)(vi), probably means section 1446 of subtitle D of title XIV of Pub. L. 111–203, July 21, 2010, 124 Stat. 2172, which is not classified to the Code.
 
@@ -214,13 +216,15 @@ Pub. L. 90–284 increased number of Assistant Secretaries from four to five.
 
 Subsec. (b). Pub. L. 90–83 struck out provision covering the compensation to be paid the Assistant Secretary for Administration.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
+Amendment by Pub. L. 111–203 effective on the date on which final regulations implementing that amendment take effect, or on the date that is 18 months afterthe designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as a note under section 1601 of Title 15, Commerce and Trade.
 
 #### Effective Date of 1990 Amendment; Continued Service by Incumbents
 

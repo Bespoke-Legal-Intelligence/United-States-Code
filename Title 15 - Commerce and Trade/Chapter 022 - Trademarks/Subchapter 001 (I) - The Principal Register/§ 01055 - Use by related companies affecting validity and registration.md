@@ -4,9 +4,13 @@ Where a registered mark or a mark sought to be registered is or may be used legi
 
 (July 5, 1946, ch. 540, title I, §5, 60 Stat. 429; Pub. L. 100–667, title I, §107, Nov. 16, 1988, 102 Stat. 3938.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–667 inserted at end "If first use of a mark by a person is controlled by the registrant or applicant for registration of the mark with respect to the nature and quality of the goods or services, such first use shall inure to the benefit of the registrant or applicant, as the case may be."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

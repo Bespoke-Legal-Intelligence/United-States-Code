@@ -1,6 +1,6 @@
 ### §242p. National disease prevention data profile
 
-(a) The Secretary, acting through the National Center for Health Statistics, shall submitto Congress on March 15, 1990, and on March 15 of every third year thereafter, a national disease prevention data profile in order to provide a data base for the effective implementation of this Act and to increase public awareness of the prevalence, incidence, and any trends in the preventable causes of death and disability in the United States. Such profile shall include at a minimum—
+(a) The Secretary, acting through the National Center for Health Statistics, shall submit to Congress on March 15, 1990, and on March 15 of every third year thereafter, a national disease prevention data profile in order to provide a data base for the effective implementation of this Act and to increase public awareness of the prevalence, incidence, and any trends in the preventable causes of death and disability in the United States. Such profile shall include at a minimum—
 
 &emsp;(1) mortality rates for preventable diseases;
 
@@ -14,6 +14,8 @@
 
 (Pub. L. 95–626, title IV, §404, Nov. 10, 1978, 92 Stat. 3591; Pub. L. 100–177, title I, §106(b), Dec. 1, 1987, 101 Stat. 989.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551, known as the Health Services and Centers Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under section 201 of this title and Tables.
@@ -25,6 +27,8 @@ Section was enacted as part of the Health Services and Centers Amendments of 197
 #### Amendments
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–177 substituted "on March 15, 1990, and on March 15 of every third year thereafter" for "on December 1, 1980, and on December 1 of every third year thereafter" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

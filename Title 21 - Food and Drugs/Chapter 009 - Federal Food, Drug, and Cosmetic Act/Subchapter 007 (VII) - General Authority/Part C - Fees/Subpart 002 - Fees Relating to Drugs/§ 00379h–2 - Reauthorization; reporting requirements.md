@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018,and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
+&emsp;&emsp;Not later than 30 calendar days after the end of the second quarter of fiscal year 2018, and not later than 30 calendar days after the end of each quarter of each fiscal year thereafter, the Secretary shall post the data described in subparagraph (B) on the internet website of the Food and Drug Administration for such quarter and on a cumulative basis for such fiscal year, and may remove duplicative data from the annual performance report under this subsection.
 
 #### (B) Data
 
@@ -100,7 +100,7 @@ Beginning with fiscal year 2018, for each fiscal year for which fees are collect
 
 #### (2) Participation in congressional hearing
 
-&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this part.
+&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occurnot later than 120 days after the end of each fiscal year for which fees are collected under this part.
 
 #### (e) Public availability
 
@@ -168,7 +168,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840;amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103, title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082.)
+(June 25, 1938, ch. 675, §736B, as added Pub. L. 110–85, title I, §105, Sept. 27, 2007, 121 Stat. 840; amended Pub. L. 112–144, title I, §104, July 9, 2012, 126 Stat. 1000; Pub. L. 115–52, title I, §103, title IX, §§903(a), 904(a), Aug. 18, 2017, 131 Stat. 1012, 1077, 1082.)
 
 #### Termination of Section
 
@@ -200,7 +200,7 @@ Pub. L. 115–52, §103(3), substituted "2022" for "2017" in pars. (1) and (5).
 
 Subsecs. (e), (f). Pub. L. 115–52, §904(a)(2)(A), redesignated subsecs. (c) and (d) as (e) and (f), respectively.
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–144, §104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Beginning with fiscal year 2008, not later than 120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort."
+<b>2012</b>—Subsec. (a). Pub. L. 112–144, §104(1), amended subsec. (a) generally. Prior to amendment, text read as follows: "Beginning with fiscal year 2008, not later than120 days after the end of each fiscal year for which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(c) of the Food and Drug Administration Amendments Act of 2007 during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals. The report for a fiscal year shall include information on all previous cohorts for which the Secretary has not given a complete response on all human drug applications and supplements in the cohort."
 
 Subsec. (b). Pub. L. 112–144, §104(2), substituted "2013" for "2008".
 

@@ -14,10 +14,15 @@
 | [498\.](%C2%A7%2000498%20-%20Unilateral%20change%20in%20nuclear%20weapons%20stockpile%20of%20the%20United%20States.md) | Unilateral change in nuclear weapons stockpile of the United States. |
 | [499\.](%C2%A7%2000499%20-%20Annual%20assessment%20of%20cyber%20resiliency%20of%20nuclear%20command%20and%20control%20system.md) | Annual assessment of cyber resiliency of nuclear command and control system. |
 | [499a.](%C2%A7%2000499a%20-%20Collection%2C%20storage%2C%20and%20sharing%20of%20data%20relating%20to%20nuclear%20security%20enterprise%20and%20nuclear%20forces.md) | Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces. |
+| [499b.](%C2%A7%2000499b%20-%20Participation%20in%20United%20States%20Strategic%20Command%20strategic%20deterrence%20exercises.md) | Participation in United States Strategic Command strategic deterrence exercises. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title XVI, §1631, Dec. 27, 2021, 135 Stat. 2089, added item 499b.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1665(c)(2), Dec. 20, 2019, 133 Stat. 1774, added item 492a.
 
@@ -44,3 +49,4 @@ Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 10
 - [&sect; 00498 - Unilateral change in nuclear weapons stockpile of the United States](%C2%A7%2000498%20-%20Unilateral%20change%20in%20nuclear%20weapons%20stockpile%20of%20the%20United%20States.md)
 - [&sect; 00499 - Annual assessment of cyber resiliency of nuclear command and control system](%C2%A7%2000499%20-%20Annual%20assessment%20of%20cyber%20resiliency%20of%20nuclear%20command%20and%20control%20system.md)
 - [&sect; 00499a - Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces](%C2%A7%2000499a%20-%20Collection%2C%20storage%2C%20and%20sharing%20of%20data%20relating%20to%20nuclear%20security%20enterprise%20and%20nuclear%20forces.md)
+- [&sect; 00499b - Participation in United States Strategic Command strategic deterrence exercises](%C2%A7%2000499b%20-%20Participation%20in%20United%20States%20Strategic%20Command%20strategic%20deterrence%20exercises.md)

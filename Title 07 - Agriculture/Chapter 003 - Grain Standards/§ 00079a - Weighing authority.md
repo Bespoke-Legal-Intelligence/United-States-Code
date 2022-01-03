@@ -80,7 +80,7 @@ The provisions of this section shall not limit any authority vested in the Secre
 
 #### (k) Access to elevators, warehouses, or their storage or handling facilities
 
-The representatives of the Secretary shall be afforded access to any elevator, warehouse, or other storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
+The representatives of the Secretary shall be afforded access to any elevator, warehouse, orother storage or handling facility from which grain is delivered for shipment in interstate or foreign commerce or to which grain is delivered from shipment in interstate or foreign commerce and all facilities therein for weighing grain.
 
 #### (l) Fees
 
@@ -110,9 +110,11 @@ Export tonnage fees.—For an official weighing at an export facility performed 
 
 Adjustment of fees.—In order to maintain an operating reserve of not less than 3 and not more than 6 months, the Secretary shall adjust the fees described in paragraphs (1) and (2) not less frequently than annually.
 
-(4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated officialagency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+(4) The authority provided to the Secretary by paragraph (1) and the duties imposed by paragraph (2) on agencies and other persons described in such paragraph shall expire on September 30, 2025. After that date, the Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable fees to cover the estimated costs of official weighing and supervision of weighing except when the official weighing or supervision of weighing is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this paragraph shall, as nearly as practicable, cover the costs of the Secretary incident to its performance of official weighing and supervision of weighing services in the United States and on United States grain in Canadian ports, excluding administrative and supervisory costs. The fees authorized by this paragraph shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
 (Aug. 11, 1916, ch. 313, pt. B, §7A, as added Pub. L. 94–582, §9, Oct. 21, 1976, 90 Stat. 2875; amended Pub. L. 95–113, title XVI, §§1602(b), 1604(e), 1606(e), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(2), Aug. 13, 1981, 95 Stat. 371; Pub. L. 100–518, §2(2), Oct. 24, 1988, 102 Stat. 2585; Pub. L. 103–156, §§4(b), 5(b), 12(e), 14(b), Nov. 24, 1993, 107 Stat. 1526, 1528, 1530; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(b), 103(b), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(3)(B), (c), Sept. 30, 2015, 129 Stat. 518, 519; Pub. L. 115–334, title XII, §12610(b), Dec. 20, 2018, 132 Stat. 5012; Pub. L. 116–216, §3, Dec. 11, 2020, 134 Stat. 1048.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -126,7 +128,7 @@ The United States Warehouse Act, referred to in subsec. (j), is part C of act Au
 
 <b>2015</b>—Subsec. (c)(2). Pub. L. 114–54, §301(c)(1), substituted "subsections (e) and (g) of section 79" for "subsection (g) of section 79".
 
-Subsec. (i)(2). Pub. L. 114–54, §301(b)(3)(B), in introductory provisions, substituted "the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—" for "the Secretary may—", added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and a designated official agency crossing boundary lines to provide weighing in another geographic area.
+Subsec. (i)(2). Pub. L. 114–54, §301(b)(3)(B), in introductory provisions, substituted "the Secretary shall allow a designated official agency to cross boundary lines to carry out weighing in another geographic area if—" for "the Secretary may—", added subpars. (A) and (B), and struck out former subpars. (A) and (B) which related to more than one designated official agency providing weighing in the same geographic area and adesignated official agency crossing boundary lines to provide weighing in another geographic area.
 
 Subsec. (l). Pub. L. 114–54, §301(c)(2)(A), inserted heading.
 
@@ -177,6 +179,8 @@ Subsec. (g). Pub. L. 95–113, §1604(e)(6), substituted "official weighing or s
 Subsec. (i). Pub. L. 95–113, §1604(e)(7), (8), substituted "No State or local governmental agency" for "No State" and inserted provision that not more than one official agency or State delegated authority pursuant to subsection (c)(2) of this section for carrying out the weighing provisions of this chapter be operative at one time for any geographic area as determined by the Administrator to effectuate the objectives stated in section 74 of this title.
 
 Subsec. (l). Pub. L. 95–113, §1602(b), revised provisions relating to fees so as to remove requirement that field supervision of weighing be supported by fees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

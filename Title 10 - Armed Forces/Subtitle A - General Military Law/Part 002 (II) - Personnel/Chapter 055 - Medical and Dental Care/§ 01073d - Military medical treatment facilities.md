@@ -40,7 +40,7 @@ Hospitals.—(1) The Secretary of Defense shall maintain hospitals in areas wher
 
 (d)
 
-Ambulatory Care Centers.—(1) The Secretary of Defense shall maintain ambulatory care centers in areas where civilian health care facilities are able to support the health care needs of members of the armed forces and covered beneficiaries.
+Ambulatory Care Centers.—(1) The Secretary of Defense shall maintain ambulatorycare centers in areas where civilian health care facilities are able to support the health care needs of members of the armed forces and covered beneficiaries.
 
 (2) Ambulatory care centers shall provide the outpatient health services required to maintain medical readiness, including with respect to partnerships established pursuant to section 706 of the National Defense Authorization Act for Fiscal Year 2017.
 
@@ -74,6 +74,8 @@ Maintenance of Inpatient Capabilities at Military Medical Treatment Facilities L
 
 (Added Pub. L. 114–328, div. A, title VII, §703(a)(1), Dec. 23, 2016, 130 Stat. 2197; amended Pub. L. 115–91, div. A, title VII, §711, Dec. 12, 2017, 131 Stat. 1436.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 706 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (d)(2), is section 706 of Pub. L. 114–328, which is set out as a note under section 1096 of this title.
@@ -82,9 +84,51 @@ Section 706 of the National Defense Authorization Act for Fiscal Year 2017, refe
 
 <b>2017</b>—Subsec. (e). Pub. L. 115–91 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Establishment of Centers of Excellence for Enhanced Treatment of Ocular Injuries
+
+Pub. L. 117–81, div. A, title VII, §721, Dec. 27, 2021, 135 Stat. 1791, provided that:
+
+"(a)
+
+In General.—Not later than October 1, 2023, the Secretary of Defense, acting through the Director of the Defense Health Agency, shall establish within the Defense Health Agency not fewer than four regional centers of excellence for the enhanced treatment of—
+
+&emsp;"(1) ocular wounds or injuries; and
+
+&emsp;"(2) vision dysfunction related to traumatic brain injury.
+
+"(b)
+
+Location of Centers.—Each center of excellence established under subsection (a) shall be located at a military medical center that provides graduate medical education in ophthalmology and related subspecialties and shall be the primary center for providing specialized medical services for vision for members of the Armed Forces in the region in which the center of excellence is located.
+
+"(c)
+
+Policies for Referral of Beneficiaries.—Not later than October 1, 2023, the Director of the Defense Health Agency shall publish on a publicly available internet website of the Department of Defense policies for the referral of eligible beneficiaries of the Department to centers of excellence established under subsection (a) for evaluation and treatment.
+
+"(d)
+
+Identification of Medical Personnel Billets and Staffing.—The Secretary of each military department, in conjunction with the Joint Staff Surgeon and the Director of the Defense Health Agency, shall identify specific medical personnel billets essential for the evaluation and treatment of ocular sensory injuries and ensure that centers of excellence established under subsection (a) are staffed with such personnel at the level required for the enduring medical support of each such center.
+
+"(e)
+
+Briefing.—Not later than December 31, 2023, the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing that—
+
+&emsp;"(1) describes the establishment of each center of excellence established under subsection (a), to include the location, capability, and capacity of each such center;
+
+&emsp;"(2) describes the referral policy published by the Defense Health Agency under subsection (c);
+
+&emsp;"(3) identifies the medical personnel billets identified under subsection (d); and
+
+&emsp;"(4) provides a plan for the staffing of personnel at such centers to ensure the enduring medical support of each such center.
+
+"(f)
+
+Military Medical Center Defined.—In this section, the term 'military medical center' means a medical center described in section 1073d(b) of title 10, United States Code."
+
 #### Satellite Centers
 
-Pub. L. 114–328, div. A, title VII, §703(a)(3), Dec. 23, 2016, 130 Stat. 2198, provided that: "In addition to the centers of excellence designated under section 1073d(b)(4) of title 10, United States Code, as added by paragraph (1), the Secretary of Defense may establish satellite centers of excellence to provide specialty care for certain conditions, including with respect to—
+Pub. L. 114–328, div. A, title VII, §703(a)(3), Dec. 23, 2016, 130 Stat. 2198, provided that: "In addition to the centers of excellence designated under section 1073d(b)(4) of title 10, United States Code, as added byparagraph (1), the Secretary of Defense may establish satellite centers of excellence to provide specialty care for certain conditions, including with respect to—
 
 &emsp;"(A) post-traumatic stress;
 

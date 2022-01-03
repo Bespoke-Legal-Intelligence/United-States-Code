@@ -76,7 +76,9 @@ The Secretary shall allocate the amounts in each account specified in subsection
 
 The Secretary shall make available to each State the total amount allocated for the State under subsection (f) that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub.L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 115–334, title VI, §6701(e)(1), Dec. 20, 2018, 132 Stat. 4778.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372; Pub. L. 110–234, title VI, §6012(b)(4), May 22, 2008, 122 Stat. 1165; Pub. L. 110–246, §4(a), title VI, §6012(b)(4), June 18, 2008, 122 Stat. 1664, 1927; Pub. L. 115–334, title VI, §6701(e)(1), Dec. 20, 2018, 132 Stat. 4778.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -84,7 +86,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2018</b>—Subsec. (d)(3). Pub. L. 115–334 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: "rural business opportunity grants under section 1926(a)(11)(A) of this title;".
+<b>2018</b>—Subsec. (d)(3). Pub. L. 115–334 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struckout former subpar. (A) which read as follows: "rural business opportunity grants under section 1926(a)(11)(A) of this title;".
 
 <b>2008</b>—Subsec. (d)(3)(B). Pub. L. 110–246, §6012(b)(4), substituted "1932(a)(2)(A)" for "1932(a)(1)".
 
@@ -101,6 +103,8 @@ Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h
 Pub. L. 106–472, §304(b), substituted "paragraph (19) or (20) of section 1926(a)" for "section 1926(a)(19)".
 
 <b>1997</b>—Subsec. (d)(3)(B). Pub. L. 105–86 inserted "direct and" after "business and industry".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

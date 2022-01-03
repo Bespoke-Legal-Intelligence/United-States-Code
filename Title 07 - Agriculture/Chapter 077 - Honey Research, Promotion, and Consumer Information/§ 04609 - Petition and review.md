@@ -24,7 +24,7 @@
 
 #### (4) Statute of limitations
 
-&emsp;A petition filed under this subsection that challenges an order, any provision of the order, or any obligation imposed in connection with the order, shall be filed not later than 2 years after the later of—
+&emsp;A petition filed under this subsection that challenges an order, any provision of theorder, or any obligation imposed in connection with the order, shall be filed not later than 2 years after the later of—
 
 &emsp;&emsp;(A) the effective date of the order, provision, or obligation challenged in the petition; or
 
@@ -35,6 +35,8 @@
 The district courts of the United States in any district in which such person is an inhabitant, or carries on business, are hereby vested with jurisdiction to review such ruling, provided a complaint for that purpose is filed within twenty days from the date of the entry of such ruling. Service of process in such proceedings may be had upon the Secretary by delivering to the Secretary a copy of the complaint. If the court determines that such ruling is not in accordance with law, it shall remand such proceedings to the Secretary with directions either (1) to make such ruling as the court shall determine to be in accordance with law, or (2) to take such further proceedings as, in its opinion, the law requires. The pendency of proceedings instituted pursuant to subsection (a) of this section shall not impede, hinder, or delay the United States or the Secretary from obtaining relief pursuant to section 4610 of this title.
 
 (Pub. L. 98–590, §10, Oct. 30, 1984, 98 Stat. 3121; Pub. L. 105–185, title VI, §605(i), June 23, 1998, 112 Stat. 599.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

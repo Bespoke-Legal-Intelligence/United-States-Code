@@ -18,7 +18,7 @@
 
 (2) The salary paid to an individual under this subsection shall be adjusted by 50 percent of each adjustment, which takes effect after the appointment of such individual to the Senior Foreign Service, in the basic rate of pay at which that individual was paid under section 5382 of title 5 immediately prior to such appointment.
 
-(Pub. L. 96–465, title I, §402, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 97–241, title I, §124, Aug. 24, 1982, 96 Stat. 281; Pub. L. 108–447, div. B, title IV, §412(a), Dec. 8, 2004, 118 Stat. 2905.)
+(Pub. L. 96–465, title I, §402, Oct. 17, 1980, 94 Stat. 2087; Pub. L. 97–241, title I, §124, Aug. 24, 1982, 96Stat. 281; Pub. L. 108–447, div. B, title IV, §412(a), Dec. 8, 2004, 118 Stat. 2905.)
 
 #### <b>Editorial Notes</b>
 
@@ -28,7 +28,7 @@ Level II of the Executive Schedule, referred to in subsec. (a)(3)(A), is set out
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §412(a)(1), substituted "The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5." for "The President shall also prescribe one or more basic salary rates for each class. Basic salary rates forthe Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5, and shall be adjusted at the same time and in the same manner as rates of basic pay are adjusted for the Senior Executive Service."
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–447, §412(a)(1), substituted "The President shall also prescribe ranges of basic salary rates for each class. Except as provided in paragraph (3), basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5." for "The President shall also prescribe one or more basic salary rates for each class. Basic salary rates for the Senior Foreign Service may not exceed the maximum rate or be less than the minimum rate of basic pay payable for the Senior Executive Service under section 5382 of title 5, and shall be adjusted at the same time and in the same manner as rates of basic pay are adjusted for the Senior Executive Service."
 
 Subsec. (a)(2), (3). Pub. L. 108–447, §412(a)(2), added pars. (2) and (3) and struck out former par. (2) which read as follows: "The Secretary shall determine which of the basic salary rates prescribed by the President under paragraph (1) for any salary class shall be paid to each member of the Senior Foreign Service who is appointed to that class. The Secretary may adjust the basic salary rate of a member of the Senior Foreign Service not more than once during any 12-month period."
 

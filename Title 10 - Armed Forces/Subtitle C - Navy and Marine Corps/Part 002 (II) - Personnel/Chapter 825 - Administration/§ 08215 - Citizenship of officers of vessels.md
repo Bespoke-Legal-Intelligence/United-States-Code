@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 R.S. 1428.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Nov. 8, 1967, Pub. L. 90–130, §1(26)(E), (F), 81 Stat. 382, prescribed authorized strength of Regular Air Force in female warrant officers on active list, prior to repeal by Pub. L. 96–513, title II, §202, Dec. 12, 1980, 94 Stat. 2878, effective Sept. 15, 1981.
@@ -25,6 +27,8 @@ A prior section 8215, acts Aug. 10, 1956, ch. 1041, 70A Stat. 502; Nov. 8, 1967,
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6019 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

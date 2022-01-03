@@ -20,6 +20,8 @@ May 18, 1916, ch. 124, 39 Stat. 123.
 
 The words "at his discretion and" and "belonging to the Government, and which can be spared for that purpose, as may appear to be" are omitted as surplusage. The words "except for property properly expended" are inserted for clarity. The word "stores" is omitted as covered by the word "supplies".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 inserted "or Space Force" after "an Air Force" and substituted "science and tactics" for "air science and tactics".

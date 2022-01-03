@@ -34,6 +34,8 @@
 
 (Pub. L. 99–252, §4, Feb. 27, 1986, 100 Stat. 32.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Subsec. (a) effective one year after Feb. 27, 1986, and subsec. (b) effective Feb. 27, 1986, see section 11 of Pub. L. 99–252, set out as a note under section 4401 of this title.

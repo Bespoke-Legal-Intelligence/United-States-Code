@@ -48,7 +48,7 @@ The Secretary, acting through the Director and, if appropriate, through other Fe
 
 The objective of the Program shall be to enhance competitiveness, productivity, and technological performance in United States manufacturing through—
 
-&emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute toCenters and, through them, to manufacturing companies throughout the United States;
+&emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
 &emsp;(2) the participation of individuals from industry, institutions of higher education, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
 
@@ -202,7 +202,7 @@ The activities of a Center shall include—
 
 #### (A) Probation
 
-&emsp;&emsp;If an evaluation of a Center is other than positive, the Secretary shall put the Center on probation during the period beginning on the date that the Center receives notice under subparagraph (B)(i) and ending on the date that the reevaluation is complete under subparagraph (B)(iii).
+&emsp;&emsp;If an evaluation of a Center is other than positive, the Secretary shall put the Center on probation during the period beginning on the date that the Center receives noticeunder subparagraph (B)(i) and ending on the date that the reevaluation is complete under subparagraph (B)(iii).
 
 #### (B) Notice and reevaluation
 
@@ -238,7 +238,7 @@ The activities of a Center shall include—
 
 #### (1) In general
 
-&emsp;If an eligible entity has operated a Center under this section for a period of 10 consecutive years, the Secretary shall conduct a competition to select an eligible entity to operatethe Center in accordance with the process plan under subsection (i).
+&emsp;If an eligible entity has operated a Center under this section for a period of 10 consecutive years, the Secretary shall conduct a competition to select an eligible entity to operate the Center in accordance with the process plan under subsection (i).
 
 #### (2) Incumbent eligible entities
 
@@ -354,7 +354,7 @@ In addition to such sums as may be appropriated to the Secretary and Director to
 
 #### (C) Vacancies
 
-&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the termfor which his predecessor was appointed shall be appointed for the remainder of such term.
+&emsp;&emsp;Any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term.
 
 #### (D) Serving consecutive terms
 
@@ -410,7 +410,9 @@ In addition to such sums as may be appropriated to the Secretary and Director to
 
 &emsp;As part of the Program, the Secretary shall develop open access resources that address best practices related to inventory sourcing, supply chain management, manufacturing techniques, available Federal resources, and other topics to further the competitiveness and profitability of small manufacturers.
 
-(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat. 1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023.)
+(Mar. 3, 1901, ch. 872, §25, as added Pub. L. 100–418, title V, §5121(a), Aug. 23, 1988, 102 Stat.1433; amended Pub. L. 102–245, title I, §105(e), Feb. 14, 1992, 106 Stat. 12; Pub. L. 105–309, §2, Oct. 30, 1998, 112 Stat. 2935; Pub. L. 110–69, title III, §3003, Aug. 9, 2007, 121 Stat. 587; Pub. L. 111–240, title IV, §4226(a), Sept. 27, 2010, 124 Stat. 2598; Pub. L. 111–358, title IV, §404(a)–(f)(1), (3), (h), (i), title VII, §703, Jan. 4, 2011, 124 Stat. 4001–4003, 4042; Pub. L. 114–329, title V, §501(b), Jan. 6, 2017, 130 Stat. 3023.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -473,6 +475,8 @@ Subsec. (f). Pub. L. 110–69, §3003(e), added subsec. (f).
 <b>1992</b>—Subsec. (c)(6). Pub. L. 102–245, §105(e)(1), inserted before period at end "except for contracts for such specific technology extension or transfer services as may be specified by statute or by the Director".
 
 Subsec. (d). Pub. L. 102–245, §105(e)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "There are authorized to be appropriated for the purposes of carrying out this section, a combined total of not to exceed $40,000,000 for fiscal years 1989 and 1990. Such sums shall remain available until expended."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

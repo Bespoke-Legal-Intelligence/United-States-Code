@@ -14,9 +14,9 @@
 
 Subject to section 292s of this title, any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student—
 
-&emsp;(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree,doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
+&emsp;(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
 
-&emsp;(2) who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
+&emsp;(2) who, if required under section 3802 of title 50 to present himself for and submit to registration under such section, has presentedhimself and submitted to registration under such section.
 
 #### (c) Repayment; exclusions from repayment period
 
@@ -72,7 +72,7 @@ A school may provide, in accordance with regulations of the Secretary, that duri
 
 #### (k) Authority regarding repayments by Secretary
 
-Upon application by a person who received, and is under an obligation to repay, any loan made to such person as a health professions student to enable him to study medicine, osteopathy, dentistry, veterinary medicine, optometry, pharmacy, or podiatry, the Secretary may undertake to repay (without liability to the applicant) all or any part of such loan, and any interest or portion thereof outstanding thereon, upon his determination, pursuant to regulations establishing criteria therefor, that the applicant—
+Upon application by a person who received, and is under an obligation to repay, any loan made to such person as a health professions student to enable him to study medicine, osteopathy, dentistry, veterinary medicine, optometry, pharmacy, or podiatry, the Secretary may undertake to repay (without liability to the applicant) all or any part of such loan, and any interest or portion thereof outstanding thereon, upon his determination, pursuant to regulationsestablishing criteria therefor, that the applicant—
 
 &emsp;(1) failed to complete such studies leading to his first professional degree;
 
@@ -97,6 +97,8 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 &emsp;Notwithstanding any other provision of Federal or State law, no limitation shall terminate the period within which suit may be filed, a judgment may be enforced, or an offset, garnishment, or other action may be initiated or taken by a school that has an agreement with the Secretary pursuant to section 292q of this title that is seeking the repayment of the amount due from a borrower on a loan made under this subpart after the default of the borrower on such loan.
 
 (July 1, 1944, ch. 373, title VII, §722, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2012; amended Pub. L. 103–43, title XX, §2014(b), June 10, 1993, 107 Stat. 215; Pub. L. 105–392, title I, §134(a), (b)(1), Nov. 13, 1998, 112 Stat. 3577, 3578.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 &emsp;"(2) $2,500."
 
 Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -32,6 +32,8 @@ Of the total amount appropriated for any fiscal year pursuant to section 2910 of
 
 (Pub. L. 96–366, §8, Sept. 29, 1980, 94 Stat. 1328.)
 
+#### <b>Executive Documents</b>
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

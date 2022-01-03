@@ -8,6 +8,8 @@
 
 (Added Pub. L. 107–314, div. A, title V, §543(b)(1), Dec. 2, 2002, 116 Stat. 2549, §3755; renumbered §3756, Pub. L. 108–375, div. A, title X, §1084(d)(28), Oct. 28, 2004, 118 Stat. 2063; renumbered §7286, Pub. L. 115–232, div. A, title VIII, §808(b)(11), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 107–314, which was approved Dec. 2, 2002.
@@ -82,9 +84,11 @@ Another prior section 7310, added Pub. L. 97–295, §1(49)(A), Oct. 12, 1982, 9
 
 <b>2004</b>—Pub. L. 108–375 renumbered section 3755 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Findings
 

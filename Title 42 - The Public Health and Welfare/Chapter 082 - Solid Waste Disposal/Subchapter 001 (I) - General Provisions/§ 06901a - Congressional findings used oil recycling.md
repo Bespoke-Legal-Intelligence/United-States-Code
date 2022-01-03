@@ -12,6 +12,8 @@ The Congress finds and declares that—
 
 (Pub. L. 96–463, §2, Oct. 15, 1980, 94 Stat. 2055.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Used Oil Recycling Act of 1980, and not as part of the Solid Waste Disposal Act which comprises this chapter.

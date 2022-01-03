@@ -138,7 +138,7 @@
 
 #### (2) Voluntary beneficiary participation; limitation on number of beneficiaries
 
-&emsp;An applicable beneficiary may participate in the Program on a voluntary basis and may terminate participation in the Program at any time. Not more than 20,000 applicable beneficiaries may participate in the Program at any time.
+&emsp;An applicable beneficiary may participate in the Program on a voluntary basis and mayterminate participation in the Program at any time. Not more than 20,000 applicable beneficiaries may participate in the Program at any time.
 
 #### (3) Services
 
@@ -216,7 +216,7 @@ In carrying out the Program, the Secretary shall encourage other payers to provi
 
 &emsp;The Secretary shall submit to Congress—
 
-&emsp;&emsp;(A) a report with respect to the intermediate evaluation under paragraph (1) not later than 3 years after the date of the implementation of the Program; and
+&emsp;&emsp;(A) a report with respect to the intermediate evaluation under paragraph (1) notlater than 3 years after the date of the implementation of the Program; and
 
 &emsp;&emsp;(B) a report with respect to the final evaluation under paragraph (1) not later than 6 years after such date.
 
@@ -239,6 +239,8 @@ In carrying out the Program, the Secretary shall encourage other payers to provi
 The Secretary may waive any provision of this subchapter as may be necessary to carry out the Program under this section.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866F, as added Pub. L. 115–271, title VI, §6042, Oct. 24, 2018, 132 Stat. 3979.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

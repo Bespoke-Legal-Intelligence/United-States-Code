@@ -98,7 +98,7 @@ The 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan shall, by the later of
 
 #### (B) No error
 
-&emsp;&emsp;If the Commissioner of Social Security determines under a review conducted underparagraph (2) that no error occurred, the Commissioner shall notify the assigned operator.
+&emsp;&emsp;If the Commissioner of Social Security determines under a review conducted under paragraph (2) that no error occurred, the Commissioner shall notify the assigned operator.
 
 #### (4) Determinations
 
@@ -142,9 +142,7 @@ Any person to which information is provided by the Commissioner of Social Securi
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3047; amended Pub. L. 103–296, title I, §108(h)(9)(B), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, §212(a)(3), Dec. 20, 2006, 120 Stat. 3025.)
 
-#### Constitutionality
-
-For information regarding constitutionality of certain provisions of this section, as added by section 19143(a) of Pub. L. 102–486, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -152,11 +150,13 @@ For information regarding constitutionality of certain provisions of this sectio
 
 <b>1994</b>—Subsecs. (a), (c) to (g). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services", "Commissioner" for "Secretary", and "Commissioner's" for "Secretary's", wherever appearing in text.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–432 applicable to plan years of the Combined Fund beginning after Sept. 30, 2006, see section 212(a)(4) of Pub. L. 109–432, set out as a note under section 9704 of this title.
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a noteunder section 401 of Title 42, The Public Health and Welfare.
 

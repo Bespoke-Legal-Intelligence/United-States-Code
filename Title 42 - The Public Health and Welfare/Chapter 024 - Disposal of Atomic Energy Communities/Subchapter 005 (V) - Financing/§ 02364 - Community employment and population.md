@@ -10,11 +10,15 @@ The indemnity obligation specified in section 2363 of this title shall arise onl
 
 (Aug. 4, 1955, ch. 543, ch. 6, §64, 69 Stat. 479; Pub. L. 87–719, §§18, 19, Sept. 28, 1962, 76 Stat. 666.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–719, §18, inserted "or four thousand six hundred and twenty in the case of Los Alamos" after "Richland".
 
 Subsec. (b). Pub. L. 87–719, §19, inserted "or eleven thousand seven hundred and sixty-nine in the case of Los Alamos" after "Richland".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

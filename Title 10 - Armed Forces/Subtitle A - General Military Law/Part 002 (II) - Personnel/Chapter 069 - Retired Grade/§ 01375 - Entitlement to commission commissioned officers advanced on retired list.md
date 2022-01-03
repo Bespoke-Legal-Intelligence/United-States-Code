@@ -22,6 +22,8 @@ Mar. 4, 1911, ch. 266, 36 Stat. 1354.
 
 The words "has been or shall hereafter", "by operation of or in accordance with law", and "and shall receive" are omitted as surplusage. The words "in the grade to which he is advanced" are substituted for the words "in accordance with such advanced rank".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".

@@ -34,7 +34,7 @@ Notice to congress.—Each fiscal year quarter, the Secretary of Defense shall s
 
 &emsp;&emsp;(A) A list of activities under the program.
 
-&emsp;&emsp;(B) A list of any organization described in paragraph (1) to which the Secretary provided advisors or trainers under the program, including the number of such advisors or trainers so provided, the duration of each provision of such an advisor or trainer, a brief description of the activities of each advisor or trainer so provided, and a statement of the cost of each provision of such an advisor or trainer.
+&emsp;&emsp;(B) A list of any organization described in paragraph (1) to which the Secretary provided advisors or trainers under the program, including the number of such advisors or trainers so provided, the duration of each provision of such an advisor or trainer, abrief description of the activities of each advisor or trainer so provided, and a statement of the cost of each provision of such an advisor or trainer.
 
 &emsp;&emsp;(C) A comprehensive justification of any activities conducted pursuant to paragraph (1)(B).
 
@@ -51,6 +51,8 @@ Congressional Notice.—Not later than 15 days before assigning a civilian emplo
 &emsp;(4) Any other information relating to the assignment that the Secretary of Defense considers appropriate.
 
 (Added and amended Pub. L. 114–328, div. A, title XII, §1241(c)(1), (2), Dec. 23, 2016, 130 Stat. 2500; Pub. L. 115–91, div. A, title XII, §1204(a), Dec. 12, 2017, 131 Stat. 1642; Pub. L. 115–232, div. A, title XII, §1202, Aug. 13, 2018, 132 Stat. 2016.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -81,6 +83,8 @@ Subsec. (c)(1). Pub. L. 115–91, §1204(a)(3)(B), substituted "advisor or train
 Subsec. (c)(3). Pub. L. 115–91, §1204(a)(3)(C), substituted "advisor or trainer" for "employee".
 
 <b>2016</b>—Subsecs. (c), (d). Pub. L. 114–328, §1241(c)(2), redesignated subsec. (d) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Legal Institutional Capacity Building Initiative for Foreign Defense Institutions
 

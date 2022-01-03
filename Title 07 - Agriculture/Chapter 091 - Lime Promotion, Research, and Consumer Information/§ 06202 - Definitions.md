@@ -68,6 +68,8 @@ As used in this chapter:
 
 (Pub. L. 101–624, title XIX, §1953, Nov. 28, 1990, 104 Stat. 3871; Pub. L. 103–194, §3, Dec. 14, 1993, 107 Stat. 2295.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Par. (6). Pub. L. 103–194 substituted "citrus latifolia" for "citrus aurantifolia".

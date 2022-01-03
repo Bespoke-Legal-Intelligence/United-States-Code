@@ -26,9 +26,13 @@ Regulations.—The Secretary of the Air Force shall prescribe regulations for th
 
 (Added Pub. L. 105–261, div. A, title X, §1063(c)(1), Oct. 17, 1998, 112 Stat. 2131, §9357; renumbered §9457, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9357 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -54,7 +54,7 @@ No grant may be made under subsection (a), unless an application therefor has be
 
 &emsp;&emsp;(A) communicate to parents, educators, and local health officials the significance and prevalence of lead poisoning in infants and children (including the sources of lead exposure, the importance of screening young children for lead, and the preventive steps that parents can take in reducing the risk of lead poisoning) which the program is designed to detect and prevent; and
 
-&emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of lead poisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
+&emsp;&emsp;(B) communicate to health professionals and paraprofessionals updated knowledge concerning lead poisoning and research (including the health consequences, if any, of low-level lead burden; the prevalence of leadpoisoning among all socioeconomic groupings; the benefits of expanded lead screening; and the therapeutic and other interventions available to prevent and combat lead poisoning in affected children and families).
 
 &emsp;(3) Assurances satisfactory to the Secretary that the applicant will report on a quarterly basis the number of infants and children screened for elevated blood lead levels, the number of infants and children who were found to have elevated blood lead levels, the number and type of medical referrals made for such infants and children, the outcome of such referrals, and other information to measure program effectiveness.
 
@@ -94,7 +94,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a), ma
 
 &emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
-> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request ofsuch grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
+> when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
 #### (h) Records
 
@@ -112,7 +112,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### (2) Certain requirements
 
-&emsp;Each report under paragraph (1) shall include, in addition to any other information that the Secretary may require, the following information:
+&emsp;Each report under paragraph (1) shall include, in addition to any other informationthat the Secretary may require, the following information:
 
 &emsp;&emsp;(A) The number of infants and children screened.
 
@@ -148,6 +148,8 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 (July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reference to section 254b of this title the first place appearing, referred to in subsec. (a)(2), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626.
@@ -180,6 +182,8 @@ Subsec. (m). Pub. L. 106–310, §2501(b), added subsec. (m).
 
 <b>1992</b>—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
@@ -196,7 +200,7 @@ In general.—The Director of the Centers for Disease Control and Prevention sha
 
 &emsp;"(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
 
-&emsp;"(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
+&emsp;"(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program forwomen, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
 
 &emsp;"(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
 

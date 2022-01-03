@@ -6,9 +6,11 @@ The Secretary shall expeditiously acquire such lands, and undertake such develop
 
 #### (b) Interim measures
 
-Pending completion of the developments and improvements referred to in subsection (a), the Secretary shall permit the motorized towing of whitewater rafts in the section of the national river between Thurmond and Cunard when thevolume of flow in the river is less than three thousand cubic feet per second.
+Pending completion of the developments and improvements referred to in subsection (a), the Secretary shall permit the motorized towing of whitewater rafts in the section of the national river between Thurmond and Cunard when the volume of flow in the river is less than three thousand cubic feet per second.
 
 (Pub. L. 95–625, title XI, §1114, as added Pub. L. 100–534, title I, §103, Oct. 26, 1988, 102 Stat. 2700.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

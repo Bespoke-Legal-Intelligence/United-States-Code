@@ -38,5 +38,5 @@ Not later than 30 days after carrying out subsection (d)(1), the Council shall s
 
 #### Codification
 
-Section enacted as part of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Federal Financial Institutions Examination Council Act of 1978 which comprises this chapter.
+Section enacted as part of the Economic Growth and Regulatory Paperwork Reduction Act of 1996, and alsoas part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Federal Financial Institutions Examination Council Act of 1978 which comprises this chapter.
 

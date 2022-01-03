@@ -6,11 +6,11 @@ The governing body of an Indian tribe shall be afforded substantially the same t
 
 #### (b) Community relocation
 
-Should the President determine that proper remedial action is the permanent relocation of tribal members away from a contaminated site because it is cost effective and necessary to protect their health and welfare, such finding must be concurred in by the affected tribal government before relocation shall occur. The President, in cooperation with the Secretary of the Interior, shall also assure that all benefits of the relocation program are provided to the affected tribe and that alternative land of equivalent value is available and satisfactory to the tribe. Any lands acquired for relocation of tribal members shall be held in trust by the United States for the benefit of the tribe.
+Should the President determine that proper remedial action is the permanent relocation oftribal members away from a contaminated site because it is cost effective and necessary to protect their health and welfare, such finding must be concurred in by the affected tribal government before relocation shall occur. The President, in cooperation with the Secretary of the Interior, shall also assure that all benefits of the relocation program are provided to the affected tribe and that alternative land of equivalent value is available and satisfactory to the tribe. Any lands acquired for relocation of tribal members shall be held in trust by the United States for the benefit of the tribe.
 
 #### (c) Study
 
-The President shall conduct a survey, in consultation with the Indian tribes, to determine the extent of hazardous waste sites on Indian lands. Such survey shall be included within a report which shall make recommendations on the program needs of tribes under this chapter, with particular emphasis on how tribal participation in the administration of such programs can be maximized. Such report shall be submitted toCongress along with the President's budget request for fiscal year 1988.
+The President shall conduct a survey, in consultation with the Indian tribes, to determine the extent of hazardous waste sites on Indian lands. Such survey shall be included within a report which shall make recommendations on the program needs of tribes under this chapter, with particular emphasis on how tribal participation in the administration of such programs can be maximized. Such report shall be submitted to Congress along with the President's budget request for fiscal year 1988.
 
 #### (d) Limitation
 
@@ -21,6 +21,8 @@ Notwithstanding any other provision of this chapter, no action under this chapte
 &emsp;(2) 2 years after the United States, in its capacity as trustee for the tribe, gives written notice to the governing body of the tribe that it will not present a claim or commence an action on behalf of the tribe or fails to present a claim or commence an action within the time limitations specified in this chapter.
 
 (Pub. L. 96–510, title I, §126, as added Pub. L. 99–499, title II, §207(e), Oct. 17, 1986, 100 Stat. 1706.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

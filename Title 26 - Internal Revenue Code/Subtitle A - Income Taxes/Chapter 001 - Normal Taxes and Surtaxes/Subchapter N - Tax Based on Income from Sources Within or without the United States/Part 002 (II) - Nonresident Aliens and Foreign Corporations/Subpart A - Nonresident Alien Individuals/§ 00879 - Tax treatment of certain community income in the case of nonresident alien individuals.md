@@ -34,6 +34,8 @@ For purposes of this section—
 
 (Added Pub. L. 94–455, title X, §1012(b)(1), Oct. 4, 1976, 90 Stat. 1613; amended Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–369, div. A, title I, §139(a), (b)(1), July 18, 1984, 98 Stat. 677; Pub. L. 99–514, title XIII, §1301(j)(9), Oct. 22, 1986, 100 Stat. 2658.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted "section 7703(a)" for "section 143(a)".
@@ -44,13 +46,15 @@ Subsec. (a). Pub. L. 98–369, §139(a), substituted in provision preceding par.
 
 <b>1981</b>—Subsec. (a)(1). Pub. L. 97–34 substituted "section 911(d)(2)" for "section 911(b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 applicable to bonds issued after Aug. 15, 1986, except as otherwise provided, see sections 1311 to 1318 of Pub. L. 99–514, set out as an Effective Date; Transitional Rules note under section 141 of this title.
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §139(c), July 18, 1984, 98 Stat. 677, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after December 31, 1984."
+Pub. L. 98–369, div. A, title I, §139(c), July 18, 1984, 98 Stat. 677, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1984."
 
 #### Effective Date of 1981 Amendment
 

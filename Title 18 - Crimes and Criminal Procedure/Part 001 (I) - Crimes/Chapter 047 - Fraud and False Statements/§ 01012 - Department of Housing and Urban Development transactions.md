@@ -1,6 +1,6 @@
 ### §1012. Department of Housing and Urban Development transactions
 
-Whoever, with intent to defraud, makes any false entry in any book of the Department of Housing and Urban Development or makes anyfalse report or statement to or for such Department; or
+Whoever, with intent to defraud, makes any false entry in any book of the Department of Housing and Urban Development or makes any false report or statement to or for such Department; or
 
 Whoever receives any compensation, rebate, or reward, with intent to defraud such Department or with intent unlawfully to defeat its purposes; or
 

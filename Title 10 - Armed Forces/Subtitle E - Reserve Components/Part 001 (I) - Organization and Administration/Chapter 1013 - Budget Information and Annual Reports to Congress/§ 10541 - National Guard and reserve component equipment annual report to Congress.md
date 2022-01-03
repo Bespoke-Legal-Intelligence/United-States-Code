@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(E) the number of nondeployable items in the inventory as a substitute for a required major item of equipment.
 
-&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanation of the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
+&emsp;(6) A narrative explanation of the plan of the Secretary concerned to provide equipment needed to fill the war-time requirement for each major item of equipment to all units of the Selected Reserve, including an explanationof the plan to equip units of the Selected Reserve that are short of major items of equipment at the outset of war.
 
 &emsp;(7) For each item of major equipment reported under paragraph (3) in a report for one of the three previous years under this section as an item expected to be procured for the Selected Reserve or to be transferred to the Selected Reserve, the quantity of such equipment actually procured for or transferred to the Selected Reserve.
 
@@ -68,6 +68,8 @@
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1714, §115b; amended Pub. L. 102–484, div. A, title XI, §1134, Oct. 23, 1992, 106 Stat. 2541; renumbered §10541 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(2), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 110–181, div. A, title III, §351(a), title XVIII, §1826, Jan. 28, 2008, 122 Stat. 70, 503; Pub. L. 112–81, div. A, title X, §1070, Dec. 31, 2011, 125 Stat. 1592; Pub. L. 115–232, div. A, title I, §111(a), title XII, §1204(b)(1)(B), Aug. 13, 2018, 132 Stat. 1660, 2017.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 115(a)(2), (3) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
@@ -88,6 +90,8 @@ Subsec. (d). Pub. L. 110–181, §1826, added subsec. (d).
 
 <b>1992</b>—Subsec. (b)(8). Pub. L. 102–484 added par. (8).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–232, div. A, title I, §111(b), Aug. 13, 2018, 132 Stat. 1660, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to reports required to be submitted under section 10541 of title 10, United States Code, after the date of the enactment of this Act \[Aug. 13, 2018\]."
@@ -98,7 +102,7 @@ Pub. L. 110–181, div. A, title III, §351(c)(1), Jan. 28, 2008, 122 Stat. 70, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of this title.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of this title.
 
 #### Termination of Reporting Requirements
 

@@ -28,7 +28,7 @@ The Secretary shall establish 3 programs to award grants to qualified public, no
 
 &emsp;&emsp;The criteria for category A are as follows:
 
-&emsp;&emsp;&emsp;(i) At least 40 percent of the visits in the emergency department of the hospital in which the trauma center is located were charity or self-pay patients.
+&emsp;&emsp;&emsp;(i) At least 40 percent of the visits in the emergency department of the hospital inwhich the trauma center is located were charity or self-pay patients.
 
 &emsp;&emsp;&emsp;(ii) At least 50 percent of the visits in such emergency department were Medicaid (under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.)) and charity and self-pay patients combined.
 
@@ -66,6 +66,8 @@ The Secretary may not award a grant to a trauma center under subsection (a)(1) u
 
 (July 1, 1944, ch. 373, title XII, §1241, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 433; amended Pub. L. 111–148, title III, §3505(a)(1), Mar. 23, 2010, 124 Stat. 522.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -73,6 +75,8 @@ The Social Security Act, referred to in subsec. (b)(3)(A)(ii), is act Aug. 14, 1
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to grants for trauma centers in geographic areas with a significant incidence of violence arising from illicit trafficking in drugs and set forth minimum qualifications of such centers.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

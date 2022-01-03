@@ -22,7 +22,7 @@
 
 #### (b) Civil actions
 
-The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
+The Administrator is authorized to commence a civil action for appropriate relief, including a permanent or temporary injunction, for any violation for which he is authorized to issue a compliance order under subsection (a) of this section. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business, and such court shall have jurisdiction to restrain such violation and to require compliance. Notice of the commencement of such action shall be given immediately to the appropriate State.
 
 #### (c) Criminal penalties
 
@@ -72,7 +72,7 @@ The Administrator is authorized to commence a civil action for appropriate relie
 
 &emsp;&emsp;&nbsp;and such defense may be established under this subparagraph by a preponderance of the evidence;
 
-&emsp;&emsp;&emsp;(iii) the term "organization" means a legal entity, other than a government, established or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons; and
+&emsp;&emsp;&emsp;(iii) the term "organization" means a legal entity, other than a government, established or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, jointstock company, foundation, institution, trust, society, union, or any other association of persons; and
 
 &emsp;&emsp;&emsp;(iv) the term "serious bodily injury" means bodily injury which involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.
 
@@ -110,7 +110,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;Whenever on the basis of any information available—
 
-&emsp;&emsp;(A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or has violated any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by a State, or
+&emsp;&emsp;(A) the Administrator finds that any person has violated section 1311, 1312, 1316, 1317, 1318, 1322(p), 1328, or 1345 of this title, or hasviolated any permit condition or limitation implementing any of such sections in a permit issued under section 1342 of this title by the Administrator or by a State, or in a permit issued under section 1344 of this title by a State, or
 
 &emsp;&emsp;(B) the Secretary of the Army (hereinafter in this subsection referred to as the "Secretary") finds that any person has violated any permit condition or limitation in a permit issued under section 1344 of this title by the Secretary,
 
@@ -154,11 +154,11 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 &emsp;&emsp;Action taken by the Administrator or the Secretary, as the case may be, under this subsection shall not affect or limit the Administrator's or Secretary's authority to enforce any provision of this chapter; except that any violation—
 
-&emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commencedand is diligently prosecuting an action under this subsection,
+&emsp;&emsp;&emsp;(i) with respect to which the Administrator or the Secretary has commenced and is diligently prosecuting an action under this subsection,
 
 &emsp;&emsp;&emsp;(ii) with respect to which a State has commenced and is diligently prosecuting an action under a State law comparable to this subsection, or
 
-&emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a final order not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
+&emsp;&emsp;&emsp;(iii) for which the Administrator, the Secretary, or the State has issued a finalorder not subject to further judicial review and the violator has paid a penalty assessed under this subsection, or such comparable State law, as the case may be,
 
 > &emsp;&emsp;shall not be the subject of a civil penalty action under subsection (d) of this section or section 1321(b) of this title or section 1365 of this title.
 
@@ -210,7 +210,7 @@ Whenever, on the basis of any information available to him, the Administrator fi
 
 #### (2) Modification
 
-&emsp;Any municipality under an administrative order under subsection (a) or settlement agreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
+&emsp;Any municipality under an administrative order under subsection (a) or settlementagreement (including a judicial consent decree) under subsection (b) that has developed an integrated plan consistent with section 1342(s) of this title may request a modification of the administrative order or settlement agreement based on that integrated plan.
 
 (June 30, 1948, ch. 758, title III, §309, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 859; amended Pub. L. 95–217, §§54(b), 55, 56, 67(c)(2), Dec. 27, 1977, 91 Stat. 1591, 1592, 1606; Pub. L. 100–4, title III, §§312, 313(a)(1), (b)(1), (c), 314(a), Feb. 4, 1987, 101 Stat. 42, 45, 46; Pub. L. 101–380, title IV, §4301(c), Aug. 18, 1990, 104 Stat. 537; Pub. L. 115–282, title IX, §903(c)(2), Dec. 4, 2018, 132 Stat. 4356; Pub. L. 115–436, §3(b), Jan. 14, 2019, 132 Stat. 5560.)
 
@@ -280,7 +280,7 @@ Pub. L. 100–4, title III, §313(b)(2), Feb. 4, 1987, 101 Stat. 45, provided th
 
 #### Actions by Surgeon General Relating to Interstate Pollution
 
-Act July 9, 1956, ch. 518, §5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with the terms of act June 30, 1948, as amended by act July 9, 1956.
+Act July 9, 1956, ch. 518, §5, 70 Stat. 507, provided that actions by the Surgeon General with respect to water pollutants under section 2(d) of act June 30, 1948, ch. 758, 62 Stat. 1155, as in effect prior to July 9, 1956, which had been completed prior to such date, would still be subject to the terms of section 2(d) of act June 30, 1948, in effect prior to the July 9, 1956 amendment, but that actions with respect to such pollutants would nevertheless subsequently be possible in accordance with theterms of act June 30, 1948, as amended by act July 9, 1956.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

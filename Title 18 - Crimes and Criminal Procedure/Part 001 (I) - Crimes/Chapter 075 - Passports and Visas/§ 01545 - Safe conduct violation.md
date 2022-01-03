@@ -16,7 +16,7 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, §330016(1)(I), which directed the amendment of this section by substituting "under thistitle" for "not more than $2,000", could not be executed because the words "not more than $2,000" did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(3). See below.
+<b>1994</b>—Pub. L. 103–322, §330016(1)(I), which directed the amendment of this section by substituting "under this title" for "not more than $2,000", could not be executed because the words "not more than $2,000" did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(3). See below.
 
 Pub. L. 103–322, §130009(a)(3), substituted "under this title, imprisoned not more than 10 years" for "not more than $2,000 or imprisoned not more than three years".
 

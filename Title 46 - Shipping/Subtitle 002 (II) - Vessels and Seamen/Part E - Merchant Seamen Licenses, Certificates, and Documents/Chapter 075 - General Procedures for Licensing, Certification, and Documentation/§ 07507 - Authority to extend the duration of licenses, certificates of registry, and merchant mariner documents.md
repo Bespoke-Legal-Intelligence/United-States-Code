@@ -6,7 +6,7 @@ Licenses and Certificates of Registry.—Notwithstanding sections 7106 and 7107,
 
 &emsp;(1) extend for not more than one year an expiring license or certificate of registry issued for an individual under chapter 71 if the Secretary determines that the extension is required to enable the Coast Guard to eliminate a backlog in processing applications for those licenses or certificates of registry or in response to a national emergency or natural disaster, as deemed necessary by the Secretary; or
 
-&emsp;(2) issue for not more than five years an expiring license or certificate of registry issuedfor an individual under chapter 71 for the exclusive purpose of aligning the expiration date of such license or certificate of registry with the expiration date of a merchant mariner's document.
+&emsp;(2) issue for not more than five years an expiring license or certificate of registry issued for an individual under chapter 71 for the exclusive purpose of aligning the expiration date of such license or certificate of registry with the expiration date of a merchant mariner's document.
 
 (b)
 

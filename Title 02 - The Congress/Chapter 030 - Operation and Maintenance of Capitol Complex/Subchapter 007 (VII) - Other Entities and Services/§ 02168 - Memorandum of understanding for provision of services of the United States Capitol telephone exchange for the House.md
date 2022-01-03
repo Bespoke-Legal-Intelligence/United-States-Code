@@ -36,7 +36,7 @@ In carrying out a memorandum of understanding pursuant to this section, the Serg
 
 &emsp;(A) in the case of a reimbursement for salaries or agency contributions and related expenses, shall be deposited in the account under the heading "
 
-Office of the sergeant at armsand doorkeeper" or "
+Office of the sergeant at arms and doorkeeper" or "
 
 agency contributions and related expenses", under the heading "
 

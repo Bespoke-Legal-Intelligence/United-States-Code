@@ -32,6 +32,8 @@ The words "now or hereafter", in 10:948a, are omitted as surplusage. The words "
 
 The change makes clear that the Secretary of the Army is required to prescribe regulations in this case, and conforms this section to section 8914, its Air Force counterpart.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7314 to 7316 were renumbered sections 8684 to 8686 of this title, respectively.
@@ -47,6 +49,8 @@ Pub. L. 115–232, §808(b)(12), renumbered section 3914 of this title as this s
 <b>1980</b>—Pub. L. 96–343 struck out "regular" before "enlisted members" in section catchline and substituted in section "an enlisted member" for "a regular enlisted member", "A regular enlisted member" for "He", and "Army Reserve. A member retired under this section" for "Army Reserve, and".
 
 <b>1958</b>—Pub. L. 85–861 substituted "regulations to be prescribed" for "regulations prescribed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

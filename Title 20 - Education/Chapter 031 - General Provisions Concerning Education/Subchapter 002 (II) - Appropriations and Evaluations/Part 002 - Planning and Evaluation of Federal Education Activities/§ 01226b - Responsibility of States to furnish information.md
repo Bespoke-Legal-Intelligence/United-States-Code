@@ -48,6 +48,8 @@ On or before August 15 of each year in which reports are submitted under subsect
 
 (Pub. L. 90–247, title IV, §424, as added Pub. L. 103–382, title II, §234, Oct. 20, 1994, 108 Stat. 3915.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a), (b), and (f) of this section were contained in section 1221e–1a of this title prior to repeal by Pub. L. 103–382.
@@ -60,7 +62,9 @@ Another prior section 424 of Pub. L. 90–247 was renumbered section 433, and is
 
 Another prior section 424 of Pub. L. 90–247 was renumbered section 434, and was classified to section 1232c of this title prior to repeal by Pub. L. 95–561.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 

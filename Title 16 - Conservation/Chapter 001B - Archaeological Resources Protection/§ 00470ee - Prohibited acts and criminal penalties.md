@@ -34,6 +34,8 @@ Nothing in subsection (d) of this section shall be deemed applicable to any pers
 
 (Pub. L. 96–95, §6, Oct. 31, 1979, 93 Stat. 724; Pub. L. 100–588, §1(b), (c), Nov. 3, 1988, 102 Stat. 2983.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–588, §1(b), inserted ", or attempt to excavate, remove, damage, or otherwise alter or deface" after "deface".

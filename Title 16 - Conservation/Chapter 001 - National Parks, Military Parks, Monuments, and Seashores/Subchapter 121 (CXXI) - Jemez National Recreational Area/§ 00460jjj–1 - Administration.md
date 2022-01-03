@@ -6,7 +6,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 #### (b) Management plan
 
-The Secretary shall, no later than 5 years after October 12, 1993, develop a management plan for the recreation area, as an amendment to the Santa Fe National Forest Land and Resource Management Plan, to reflect the establishment of the recreation area and to conform to the provisions of this subchapter. Nothing in this subchapter shall require the Secretary to revise the Santa Fe Forest Land and ResourceManagement Plan pursuant to section 1604 of this title. During development of the management plan for the recreation area, the Secretary shall study newly designated land within the recreation area, and adjacent national forest land.
+The Secretary shall, no later than 5 years after October 12, 1993, develop a management plan for the recreation area, as an amendment to the Santa Fe National Forest Land and Resource Management Plan, to reflect the establishment of the recreation area and to conform to the provisions of this subchapter. Nothing in this subchapter shall require the Secretary to revise the Santa Fe Forest Land and Resource Management Plan pursuant to section 1604 of this title. During development of the management plan for the recreation area, the Secretary shall study newly designated land within the recreation area, and adjacent national forest land.
 
 #### (c) Cultural resources
 
@@ -75,6 +75,8 @@ The Secretary may permit scientific investigations within the recreation area up
 The Secretary may designate zones where, and establish periods when, any activity otherwise permitted in the recreation area will not be permitted for reasons of public safety, administration, fish and wildlife management, protection of archaeological or cultural resources, or public use and enjoyment. Except in emergencies such designations by the Secretary shall be put into effect only after consultation with the appropriate State agencies, appropriate tribal leaders, and other affected parties.
 
 (Pub. L. 103–104, §2, Oct. 12, 1993, 107 Stat. 1025.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

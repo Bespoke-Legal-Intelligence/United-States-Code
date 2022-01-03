@@ -26,6 +26,8 @@ The Secretary may delegate to the Assistant Secretary for Civil Rights responsib
 
 (Pub. L. 103–354, title II, §218, Oct. 13, 1994, 108 Stat. 3212; Pub. L. 105–277, div. A, §101(a) \[title X, §1001(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–41; Pub. L. 107–171, title X, §10704(a), May 13, 2002, 116 Stat. 518; Pub. L. 112–166, §2(a)(1), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 115–334, title XII, §§12401(a), 12415(b)(1), Dec. 20, 2018, 132 Stat. 4971, 4981.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–334, §12401(a), substituted "Relations and Intergovernmental Affairs" for "Relations".
@@ -42,9 +44,11 @@ Subsecs. (d), (e). Pub. L. 107–171, §10704(a)(2), added subsec. (d) and struc
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and" at end of par. (1), substituted a period for "; and" at end of par. (2), and struck out par. (3) which read as follows: "Assistant Secretary of Agriculture for Marketing and Regulatory Programs."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–334, title XII, §12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: "The amendments made by paragraph (1) \[amending this section\] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) \[see Effective Date of 2012 Amendment note below\]."
+Pub. L. 115–334, title XII, §12415(b)(2), Dec. 20, 2018, 132 Stat. 4981, provided that: "The amendments made byparagraph (1) \[amending this section\] take effect on the effective date described in section 6(a) of the Presidential Appointment Efficiency and Streamlining Act of 2011 (Public Law 112–166; 126 Stat. 1295) \[see Effective Date of 2012 Amendment note below\]."
 
 #### Effective Date of 2012 Amendment
 

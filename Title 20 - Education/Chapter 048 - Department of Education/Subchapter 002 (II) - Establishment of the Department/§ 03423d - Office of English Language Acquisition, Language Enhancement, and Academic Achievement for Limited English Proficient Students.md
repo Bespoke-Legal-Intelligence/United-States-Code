@@ -12,13 +12,15 @@ There shall be, in the Department, an Office of English Language Acquisition, La
 
 #### (2) Organization
 
-&emsp;The Office shall be organized as the Director determines to be appropriate in order to carryout such functions and responsibilities effectively.
+&emsp;The Office shall be organized as the Director determines to be appropriate in order to carry out such functions and responsibilities effectively.
 
 #### (3) Inclusion
 
 &emsp;The Secretary shall ensure that limited-English-proficient and language-minority students are included in ways that are valid, reliable, and fair under all standards and assessment development conducted or funded by the Department.
 
 (Pub. L. 96–88, title II, §216, as added Pub. L. 103–382, title III, §372(2), Oct. 20, 1994, 108 Stat. 3978; amended Pub. L. 107–110, title X, §1072(b), (c)(2)(B), (d), Jan. 8, 2002, 115 Stat. 2089.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -30,7 +32,9 @@ Another section 216 of Pub. L. 96–88 was renumbered section 218 and is classif
 
 Subsec. (a). Pub. L. 107–110, §1072(b), substituted "Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for "Office of Bilingual Education and Minority Languages Affairs".
 
-Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted "Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for 'Director of Bilingual Education and Minority Languages Affairs".
+Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted "Director of English Language Acquisition, Language Enhancement, and Academic Achievement for LimitedEnglish Proficient Students" for 'Director of Bilingual Education and Minority Languages Affairs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

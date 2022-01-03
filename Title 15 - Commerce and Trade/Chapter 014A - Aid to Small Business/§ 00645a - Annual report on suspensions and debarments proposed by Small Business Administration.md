@@ -30,6 +30,8 @@ The report required by subsection (a) shall include the following information fo
 
 (Pub. L. 112–239, div. A, title XVI, §1683, Jan. 2, 2013, 126 Stat. 2086.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Small Business Act which comprises this chapter.

@@ -98,7 +98,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 &emsp;&emsp;&emsp;(ii) Interviews with past and present owners, operators, and occupants of the facility and the real property on which the facility is located for the purpose of gathering information regarding the potential for oil at the facility and on the real property on which the facility is located.
 
-&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previoususes and occupancies of the real property on which the facility is located since the property was first developed.
+&emsp;&emsp;&emsp;(iii) Reviews of historical sources, such as chain of title documents, aerial photographs, building department records, and land use records, to determine previous uses and occupancies of the real property on which the facility is located since the property was first developed.
 
 &emsp;&emsp;&emsp;(iv) Searches for recorded environmental cleanup liens against the facility and the real property on which the facility is located that are filed under Federal, State, or local law.
 
@@ -132,7 +132,7 @@ Subsection (a) does not apply with respect to a responsible party who fails or r
 
 #### (ii) Real property purchased on or after May 31, 1997
 
-&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as "Standard E1527–97", entitled "Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process", shall satisfy the requirements in subparagraph (A).
+&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as"Standard E1527–97", entitled "Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process", shall satisfy the requirements in subparagraph (A).
 
 #### (E) Site inspection and title search
 

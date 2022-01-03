@@ -94,7 +94,7 @@
 
 #### (B) Study and analysis
 
-&emsp;&emsp;Prior to proposing rules under subparagraph (A), the Bureau shall undertake appropriate studies and analyses, which shall beconsistent with section 1693b(a)(2) of this title, and may include an advanced notice of proposed rulemaking, to determine whether a storefront notice or Internet notice facilitates the ability of a consumer—
+&emsp;&emsp;Prior to proposing rules under subparagraph (A), the Bureau shall undertake appropriate studies and analyses, which shall be consistent with section 1693b(a)(2) of this title, and may include an advanced notice of proposed rulemaking, to determine whether a storefront notice or Internet notice facilitates the ability of a consumer—
 
 &emsp;&emsp;&emsp;(i) to compare prices for remittance transfers; and
 
@@ -188,6 +188,8 @@ As used in this section—
 
 (Pub. L. 90–321, title IX, §919, as added and amended Pub. L. 111–203, title X, §§1073(a)(4), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Electronic Signatures in Global and National Commerce Act, referred to in subsec. (a)(3)(B), is Pub. L. 106–229, June 30, 2000, 114 Stat. 464, which is classified principally to chapter 96 (§7001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7001 of this title and Tables.
@@ -203,6 +205,8 @@ Another prior section 919 of Pub. L. 90–321 was renumbered section 922 and is 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

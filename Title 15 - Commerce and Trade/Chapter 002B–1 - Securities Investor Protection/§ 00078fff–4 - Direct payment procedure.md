@@ -20,7 +20,7 @@ If SIPC determines that—
 
 #### (b) Notice
 
-Promptly after a determination under subsection (a) that the direct payment procedure is to be used with respect to a member, SIPC shall cause notice of such direct payment procedure to be published in one or more newspapers of general circulation in a form and manner determined by SIPC, and at the same time shall cause to be mailed a copy of such notice to each person who appears, from the books and records of such member, to have been a customer of themember with an open account within the past twelve months, to the address of such person as it appears from the books and records of such member. Such notice shall state that SIPC will satisfy customer claims directly, without a liquidation proceeding, and shall set forth the form and manner in which claims may be presented. A direct payment procedure shall be deemed to commence on the date of first publication under this subsection and no claim by a customer shall be paid or otherwise satisfied by SIPC unless received within the six-month period beginning on such date, except that SIPC shall, upon application within such period, and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian.
+Promptly after a determination under subsection (a) that the direct payment procedure is to be used with respect to a member, SIPC shall cause notice of such direct payment procedure to be published in one or more newspapers of general circulation in a form and manner determined by SIPC, and at the same time shall cause to be mailed a copy of such notice to each person who appears, from the books and records of such member, to have been a customer of the member with an open account within the past twelve months, to the address of such person as it appears from the books and records of such member. Such notice shall state that SIPC will satisfy customer claims directly, without a liquidation proceeding, and shall set forth the form and manner in which claims may be presented. A direct payment procedure shall be deemed to commence on the date of first publication under this subsection and no claim by a customer shall be paid or otherwise satisfied by SIPC unless received within the six-month period beginning on such date, except that SIPC shall, upon application within such period, and for cause shown, grant a reasonable, fixed extension of time for the filing of a claim by the United States, by a State or political subdivision thereof, or by an infant or incompetent person without a guardian.
 
 #### (c) Payments to customers
 
@@ -40,9 +40,11 @@ If, at any time after the institution of a direct payment procedure with respect
 
 #### (g) References
 
-For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78lll(5) and 78lll(12) of this title shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
+For purposes of this section, any reference to the trustee in sections 78fff–1(b)(1), 78fff–2(d), 78fff–2(f), 78fff–3(a), 78lll(5) and 78lll(12) of thistitle shall be deemed a reference to SIPC, and any reference to the date of publication of notice under section 78fff–2(a) of this title shall be deemed a reference to the publication of notice under this section.
 
 (Pub. L. 91–598, §10, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 266; amended Pub. L. 95–598, title III, §308(n), Nov. 6, 1978, 92 Stat. 2675.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -53,6 +55,8 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 <b>1978</b>—Subsec. (e). Pub. L. 95–598, §308(n)(3), which directed striking out ", without regard to the citizenship of the parties or the amount in the controversy", was executed by striking out ", without regard to the citizenship of the parties or the amount in controversy" after "adjudication of such claim" to reflect the probable intent of Congress.
 
 Pub. L. 95–598, §308(n)(1), (2), substituted "Bankruptcy Courts" for "District Courts" in heading and "courts of the United States having jurisdiction over cases under title 11" for "district courts of the United States" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

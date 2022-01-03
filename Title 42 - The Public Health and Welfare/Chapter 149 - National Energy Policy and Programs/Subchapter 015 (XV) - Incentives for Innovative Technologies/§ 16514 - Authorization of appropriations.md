@@ -18,6 +18,8 @@ There are authorized to be appropriated—
 
 (Pub. L. 109–58, title XVII, §1704, Aug. 8, 2005, 119 Stat. 1122; Pub. L. 109–168, §1(b)(2), Jan. 10, 2006, 119 Stat. 3580; Pub. L. 116–260, div. Z, title IX, §9010(c), Dec. 27, 2020, 134 Stat. 2606.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (c). Pub. L. 116–260 added subsec. (c).

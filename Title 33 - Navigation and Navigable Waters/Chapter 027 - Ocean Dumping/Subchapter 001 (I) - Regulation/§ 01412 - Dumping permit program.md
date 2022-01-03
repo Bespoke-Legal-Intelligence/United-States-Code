@@ -52,7 +52,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 &emsp;&emsp;(B) a program for monitoring the site;
 
-&emsp;&emsp;(C) special management conditions or practices to be implemented at each site that are necessary for protection of the environment;
+&emsp;&emsp;(C) special management conditions or practices to be implemented at each sitethat are necessary for protection of the environment;
 
 &emsp;&emsp;(D) consideration of the quantity of the material to be disposed of at the site, and the presence, nature, and bioavailability of the contaminants in the material;
 
@@ -70,7 +70,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (d) Fish wastes
 
-No permit is required under this subchapter for the transportation for dumping or the dumping of fish wastes, except when deposited in harbors or other protected or enclosed coastal waters, or where the Administrator finds that such deposits could endanger health, the environment, or ecological systems in a specific location. Where the Administrator makes such afinding, such material may be deposited only as authorized by a permit issued by the Administrator under this section.
+No permit is required under this subchapter for the transportation for dumping or the dumping of fish wastes, except when deposited in harbors or other protected or enclosed coastal waters, or where the Administrator finds that such deposits could endanger health, the environment, or ecological systems in a specific location. Where the Administrator makes such a finding, such material may be deposited only as authorized by a permit issued by the Administrator under this section.
 
 #### (e) Foreign State permits; acceptance
 

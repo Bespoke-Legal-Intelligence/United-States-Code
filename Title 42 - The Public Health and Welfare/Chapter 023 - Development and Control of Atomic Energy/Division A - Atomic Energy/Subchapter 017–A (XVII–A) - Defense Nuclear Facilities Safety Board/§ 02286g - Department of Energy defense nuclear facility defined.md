@@ -16,6 +16,8 @@ As used in this subchapter, the term "Department of Energy defense nuclear facil
 
 (Aug. 1, 1946, ch. 724, title I, §318, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2083; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(1), Dec. 5, 1991, 105 Stat. 1582; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(7), (8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 12344, referred to in par. (1)(A), is set out as a note under section 2511 of Title 50, War and National Defense.
@@ -28,7 +30,9 @@ The Nuclear Waste Policy Act of 1982, referred to in par. (2), is Pub. L. 97–4
 
 <b>1991</b>—Par. (1)(B). Pub. L. 102–190 struck out "with the assembly or testing of nuclear explosives or" after "involved".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### References to United States Enrichment Corporation
 
-References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998),to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
+References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
 

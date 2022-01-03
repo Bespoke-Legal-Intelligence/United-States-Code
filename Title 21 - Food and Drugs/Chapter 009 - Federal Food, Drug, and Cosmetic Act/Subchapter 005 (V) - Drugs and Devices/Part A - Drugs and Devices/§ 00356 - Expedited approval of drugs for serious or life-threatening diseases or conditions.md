@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) holding meetings with the sponsor and the review team throughout the development of the drug;
 
-&emsp;&emsp;&emsp;(ii) providing timely advice to, and interactive communication with, the sponsor regarding the development of the drug to ensure that the development program to gather the nonclinical and clinical data necessary for approval is as efficient as practicable;
+&emsp;&emsp;&emsp;(ii) providing timely advice to, and interactive communication with, the sponsor regarding the development of the drug to ensure that the development program to gather the nonclinical and clinical datanecessary for approval is as efficient as practicable;
 
 &emsp;&emsp;&emsp;(iii) involving senior managers and experienced review staff, as appropriate, in a collaborative, cross-disciplinary review;
 
@@ -344,7 +344,7 @@ Consideration.—In developing the guidance under paragraphs (1) and (2)(A) and 
 
 "(4)
 
-Conforming changes.—The Secretary shall issue, as necessary, conforming amendments to the applicableregulations under title 21, Code of Federal Regulations, governing accelerated approval.
+Conforming changes.—The Secretary shall issue, as necessary, conforming amendments to the applicable regulations under title 21, Code of Federal Regulations, governing accelerated approval.
 
 "(5)
 
@@ -358,7 +358,7 @@ In general.—
 
 &emsp;"(A)
 
-Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
+Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
 
 &emsp;"(B)
 

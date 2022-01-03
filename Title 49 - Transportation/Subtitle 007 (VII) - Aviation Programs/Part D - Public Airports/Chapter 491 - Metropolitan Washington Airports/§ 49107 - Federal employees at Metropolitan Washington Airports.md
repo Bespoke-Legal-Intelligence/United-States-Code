@@ -66,9 +66,13 @@ In subsection (a)(1), the text of section 6008(a), (b)(2d and last sentences), (
 
 In subsection (c), the words "duty or power" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–225 substituted "is subject to subchapter III" for "is subject to subchapter II".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

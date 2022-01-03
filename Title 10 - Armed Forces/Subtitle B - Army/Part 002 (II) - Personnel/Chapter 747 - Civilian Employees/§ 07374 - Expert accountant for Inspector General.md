@@ -20,9 +20,13 @@ Feb. 24, 1891, ch. 284 (7th clause under "Miscellaneous"), 26 Stat. 773.
 
 The words "in case of vacancy" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4024 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

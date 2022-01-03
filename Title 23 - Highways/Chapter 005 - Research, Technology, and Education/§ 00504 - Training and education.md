@@ -272,35 +272,51 @@ Funding.—Subject to project approval by the Secretary, a State may obligate fu
 
 &emsp;&emsp;(C) student internships;
 
-&emsp;&emsp;(D) university or community college support;
+&emsp;&emsp;(D) pre-apprenticeships, apprenticeships, and career opportunities for on-the-job training;
 
-&emsp;&emsp;(E) education activities, including outreach, to develop interest and promote participation in surface transportation careers;
+&emsp;&emsp;(E) university, college, community college, or vocational school support;
 
-&emsp;&emsp;(F) activities carried out by the National Highway Institute under subsection (a); and
+&emsp;&emsp;(F) education activities, including outreach, to develop interest and promote participation in surface transportation careers;
 
-&emsp;&emsp;(G) local technical assistance programs under subsection (b).
+&emsp;&emsp;(G) activities associated with workforce training and employment services, such as targeted outreach and partnerships with industry, economic development organizations, workforce development boards, and labor organizations;
+
+&emsp;&emsp;(H) activities carried out by the National Highway Institute under subsection (a); and
+
+&emsp;&emsp;(I) local technical assistance programs under subsection (b).
 
 &emsp;(2)
 
-Federal share.—The Federal share of the cost of activities carried out in accordancewith this subsection shall be 100 percent, except for activities carried out under paragraph (1)(G), for which the Federal share shall be 50 percent.
+Federal share.—The Federal share of the cost of activities carried out in accordance with this subsection shall be 100 percent, except for activities carried out under paragraph (1)(I), for which the Federal share shall be 50 percent.
 
 &emsp;(3)
 
-Surface transportation workforce development, training, and education defined.—In this subsection, the term "surface transportation workforce development, training, and education" means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including activities for women and minorities.
+Surface transportation workforce development, training, and education defined.—In this subsection, the term "surface transportation workforce development, training, and education" means activities associated with surface transportation career awareness, student transportation career preparation, and training and professional development for surface transportation workers, including—
+
+&emsp;&emsp;(A) activities for women and minorities;
+
+&emsp;&emsp;(B) activities that address current workforce gaps, such as work on construction projects, of State and local transportation agencies;
+
+&emsp;&emsp;(C) activities to develop a robust surface transportation workforce with new skills resulting from emerging transportation technologies; and
+
+&emsp;&emsp;(D) activities to attract new sources of job-creating investment.
 
 (f)
 
-Transportation Education Development Program.—
+Transportation Education and Training Development and Deployment Program.—
 
 &emsp;(1)
 
-Establishment.—The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce.
+Establishment.—The Secretary shall establish a program to make grants to educational institutions or State departments of transportation, in partnership with industry and relevant Federal departments and agencies—
+
+&emsp;&emsp;(A) to develop, test, and review new curricula and education programs to train individuals at all levels of the transportation workforce; or
+
+&emsp;&emsp;(B) to implement the new curricula and education programs to provide for hands-on career opportunities to meet current and future needs.
 
 &emsp;(2)
 
-Selection of grant recipients.—In selecting applications for awards under this subsection, the Secretary shall consider—
+Selection of grant recipients.—In selecting applications for awards under this subsection, the Secretary may consider—
 
-&emsp;&emsp;(A) the degree to which the new curricula or education program meets the specific needs of a segment of the transportation industry, States, or regions;
+&emsp;&emsp;(A) the degree to which the new curricula or education program meets the specific current or future needs of a segment of the transportation industry, States, or regions;
 
 &emsp;&emsp;(B) providing for practical experience and on-the-job training;
 
@@ -308,11 +324,29 @@ Selection of grant recipients.—In selecting applications for awards under this
 
 &emsp;&emsp;(D) the degree to which the new curricula or program will provide training in areas other than engineering, such as business administration, economics, information technology, environmental science, and law;
 
-&emsp;&emsp;(E) programs or curricula in nontraditional departments that train professionals for work in the transportation field, such as materials, information technology, environmental science, urban planning, and industrial technology; and
+&emsp;&emsp;(E) programs or curricula that train professionals for work in the transportation field, such as construction, materials, information technology, environmental science, urban planning, and industrial or emerging technology; and
 
 &emsp;&emsp;(F) the commitment of industry or a State's department of transportation to the program.
 
 &emsp;(3)
+
+Reporting.—The Secretary shall establish minimum reporting requirements for grant recipients under this subsection, which may include, with respect to a program carried out with a grant under this subsection—
+
+&emsp;&emsp;(A) the percentage or number of program participants that are employed during the second quarter after exiting the program;
+
+&emsp;&emsp;(B) the percentage or number of program participants that are employed during the fourth quarter after exiting the program;
+
+&emsp;&emsp;(C) the median earnings of program participants that are employed during the second quarter after exiting the program;
+
+&emsp;&emsp;(D) the percentage or number of program participants that obtain a recognized postsecondary credential or a secondary school diploma (or a recognized equivalent) during participation in the program or by not later than 1 year after exiting the program; and
+
+&emsp;&emsp;(E) the percentage or number of program participants that, during a program year—
+
+&emsp;&emsp;&emsp;(i) are in an education or training program that leads to a recognized postsecondary credential or employment; and
+
+&emsp;&emsp;&emsp;(ii) are achieving measurable skill gains toward such a credential or employment.
+
+&emsp;(4)
 
 Limitations.—The amount of a grant under this subsection shall not exceed $300,000 per year. After a recipient has received 3 years of Federal funding under this subsection, Federal funding may equal not more than 75 percent of a grantee's program costs.
 
@@ -358,7 +392,7 @@ Federal share.—The Federal share of the cost of an activity carried out under 
 
 &emsp;(6)
 
-Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants or to <sup>1</sup> and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
+Use of funds.—Funds made available for the program established under this subsection may be used for research, program development, information collection and dissemination, and technical assistance. The Secretary may use such funds independently or make grants to and enter into contracts and cooperative agreements with a Federal agency, State agency, local agency, federally recognized Indian tribal government or tribal consortium, authority, association, nonprofit or for-profit corporation, or institution of higher education, to carry out the purposes of this subsection.
 
 (h)
 
@@ -370,7 +404,7 @@ In general.—The Secretary shall make grants under this section to establish an
 
 &emsp;(2)
 
-Goals.—The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the workof State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
+Goals.—The goals of a center referred to in paragraph (1) shall be to promote and support strategic national surface transportation programs and activities relating to the work of State departments of transportation in the areas of environment, surface transportation safety, rural safety, and project finance.
 
 &emsp;(3)
 
@@ -396,7 +430,15 @@ Strategic plan.—The Secretary shall require each center to develop a multiyear
 
 &emsp;&emsp;&emsp;&emsp;(II) how the work of the center will be coordinated with the activities of the Federal Highway Administration and the various other research, development, and technology transfer activities authorized under this chapter.
 
-(Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, §52004, July 6, 2012, 126 Stat. 880; Pub. L. 114–94, div. A, title I, §1109(c)(4), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 114–95, title IX, §9215(vvv), Dec. 10, 2015, 129 Stat. 2191.)
+(i)
+
+Use of Funds.—The Secretary may use funds made available to carry out this section to carry out activities related to workforce development and technical assistance and training if—
+
+&emsp;(1) the activities are authorized by another provision of this title; and
+
+&emsp;(2) the activities are for entities other than employees of the Secretary, such as States, units of local government, Federal land management agencies, and Tribal governments.
+
+(Added Pub. L. 105–178, title V, §5104, June 9, 1998, 112 Stat. 429; amended Pub. L. 109–59, title V, §5204(a)(1), (b), (d)(1), (e), (h)(1), Aug. 10, 2005, 119 Stat. 1790, 1792–1794; Pub. L. 112–141, div. E, title II, §52004, July 6, 2012, 126 Stat. 880; Pub. L. 114–94, div. A, title I, §1109(c)(4), Dec. 4, 2015, 129 Stat. 1343; Pub. L. 114–95, title IX, §9215(vvv), Dec. 10, 2015, 129 Stat. 2191; Pub. L. 117–58, div. A, title I, §11525(s), title III, §13007, Nov. 15, 2021, 135 Stat. 608, 639.)
 
 #### <b>Editorial Notes</b>
 
@@ -409,6 +451,32 @@ Section 8101 of the Elementary and Secondary Education Act of 1965, referred to 
 A prior section 504, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to Federal reimbursement for highway relocation assistance, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(1)(D). Pub. L. 117–58, §13007(a)(1)(B), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Subsec. (e)(1)(E). Pub. L. 117–58, §13007(a)(1)(A), (C), redesignated subpar. (D) as (E) and substituted ", college, community college, or vocational school" for "or community college". Former subpar. (E) redesignated (F).
+
+Subsec. (e)(1)(F) to (I). Pub. L. 117–58, §13007(a)(1)(A), (D), added subpar. (G) and redesignated former subpars. (E) to (G) as (F), (H), and (I), respectively.
+
+Subsec. (e)(2). Pub. L. 117–58, §13007(a)(2), substituted "paragraph (1)(I)" for "paragraph (1)(G)".
+
+Subsec. (e)(3). Pub. L. 117–58, §13007(a)(3), inserted dash after "including" and subpar. (A) designation before "activities" and added subpars. (B) to (D).
+
+Subsec. (f). Pub. L. 117–58, §13007(b)(1), substituted "and Training Development and Deployment" for "Development" in heading.
+
+Subsec. (f)(1). Pub. L. 117–58, §13007(b)(2), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary shall establish a program to make grants to institutions of higher education that, in partnership with industry or State departments of transportation, will develop, test, and revise new curricula and education programs to train individuals at all levels of the transportation workforce."
+
+Subsec. (f)(2). Pub. L. 117–58, §13007(b)(3)(A), substituted "may" for "shall" in introductory provisions.
+
+Subsec. (f)(2)(A). Pub. L. 117–58, §13007(b)(3)(B), inserted "current or future" after "specific".
+
+Subsec. (f)(2)(E). Pub. L. 117–58, §13007(b)(3)(C), struck out "in nontraditional departments" after "curricula" and inserted "construction," after "such as" and "or emerging" after "industrial".
+
+Subsec. (f)(3), (4). Pub. L. 117–58, §13007(b)(4), (5), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (g)(6). Pub. L. 117–58, §11525(s), substituted "make grants to" for "make grants or to".
+
+Subsec. (i). Pub. L. 117–58, §13007(c), added subsec. (i).
 
 <b>2015</b>—Subsec. (a)(4). Pub. L. 114–94 substituted "104(b)(2)" for "104(b)(3)" and "surface transportation block grant program" for "surface transportation program".
 
@@ -450,6 +518,10 @@ Subsec. (g). Pub. L. 109–59, §5204(h)(1), added subsec. (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of Title 20, Education.
@@ -466,7 +538,7 @@ Pub. L. 109–59, title V, §5504, Aug. 10, 2005, 119 Stat. 1822, provided that:
 
 "(a)
 
-Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to inthis section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
+Establishment.—The Secretary \[of Transportation\] shall establish a Center for Transportation Advancement and Regional Development (referred to in this section as the 'Center') to assist, through training, education, and research, in the comprehensive development of small metropolitan and rural regional transportation systems that are responsive to the needs of businesses and local communities.
 
 "(b)
 
@@ -517,6 +589,4 @@ Participation.—An operating administration of the Department and the Office of
 "(c)
 
 Funding.—Notwithstanding any other provision of law, the Secretary \[of Transportation\] may use funds available to an operating administration or from the Office of Inspector General of the Department for the purpose of carrying out this section."
-
-<i><sup>1</sup></i><i> So in original.</i>
 

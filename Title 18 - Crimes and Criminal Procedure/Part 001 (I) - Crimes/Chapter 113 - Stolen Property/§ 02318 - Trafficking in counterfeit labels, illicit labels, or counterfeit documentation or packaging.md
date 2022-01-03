@@ -144,7 +144,7 @@ Subsequent violation.—The court may increase an award of damages under this su
 
 Limitation on actions.—A civil action may not be commenced under this subsection unless it is commenced within 3 years after the date on which the claimant discovers the violation of subsection (a).
 
-(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31,1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, §202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, §6(i), Dec. 9, 2010, 124 Stat. 3182; Pub. L. 114–154, §3(1), May 16, 2016, 130 Stat. 387.)
+(Added Pub. L. 87–773, §1, Oct. 9, 1962, 76 Stat. 775; amended Pub. L. 93–573, title I, §103, Dec. 31, 1974, 88 Stat. 1873; Pub. L. 94–553, title I, §111, Oct. 19, 1976, 90 Stat. 2600; Pub. L. 97–180, §2, May 24, 1982, 96 Stat. 91; Pub. L. 101–647, title XXXV, §3567, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 103–272, §5(e)(10), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–153, §4(a), (b)(1), July 2, 1996, 110 Stat. 1386, 1387; Pub. L. 108–482, title I, §102(a), (b), Dec. 23, 2004, 118 Stat. 3912, 3914; Pub. L. 109–181, §2(c)(2), Mar. 16, 2006, 120 Stat. 288; Pub. L. 110–403, title II, §202, Oct. 13, 2008, 122 Stat. 4260; Pub. L. 111–295, §6(i), Dec. 9, 2010, 124 Stat. 3182; Pub. L. 114–154, §3(1), May 16, 2016, 130 Stat. 387.)
 
 #### <b>Editorial Notes</b>
 
@@ -168,7 +168,7 @@ Subsec. (a). Pub. L. 108–482, §102(a)(2), added subsec. (a) and struck out fo
 
 Subsec. (b)(2). Pub. L. 108–482, §102(a)(3)(A), struck out "and" after the semicolon at end.
 
-Subsec. (b)(3). Pub. L. 108–482, §102(a)(3)(B), substituted " 'audiovisual work', 'literary work', 'pictorial, graphic, or sculptural work', 'sound recording', 'work of visual art', and 'copyright owner' have" for "and 'audiovisual work' have" and a semicolon for the period at end.
+Subsec. (b)(3). Pub. L. 108–482, §102(a)(3)(B), substituted " 'audiovisual work', 'literary work', 'pictorial, graphic, or sculptural work', 'sound recording', 'workof visual art', and 'copyright owner' have" for "and 'audiovisual work' have" and a semicolon for the period at end.
 
 Subsec. (b)(4) to (6). Pub. L. 108–482, §102(a)(3)(C), added pars. (4) to (6).
 

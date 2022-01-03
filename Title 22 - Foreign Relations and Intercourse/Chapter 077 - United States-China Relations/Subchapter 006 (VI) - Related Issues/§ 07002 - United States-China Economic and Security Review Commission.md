@@ -78,7 +78,7 @@ The purposes of this section are as follows:
 
 #### (1) Annual report
 
-&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit toCongress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
+&emsp;Not later than December 1 each year (beginning in 2002), the Commission shall submit to Congress a report, in both unclassified and classified form, regarding the national security implications and impact of the bilateral trade and economic relationship between the United States and the People's Republic of China. The report shall include a full analysis, along with conclusions and recommendations for legislative and administrative actions, if any, of the national security implications for the United States of the trade and current balances with the People's Republic of China in goods and services, financial transactions, and technology transfers. The Commission shall also take into account patterns of trade and transfers through third countries to the extent practicable.
 
 #### (2) Contents of report
 
@@ -190,7 +190,7 @@ The first day of the 107th Congress, referred to in subsec. (h), was Jan. 3, 200
 
 #### Codification
 
-Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
+Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the U.S.-China Relations Act of 2000 which comprises this chapter.
 
 #### Amendments
 
@@ -270,7 +270,7 @@ Corporate reporting.—The Commission shall assess United States trade and inves
 
 &emsp;"(F)
 
-Regional economic and security impacts.—The Commission shall assess the extent of China's 'hollowing-out' of Asian manufacturing economies, and the impact on United States economic and security interests in the region; review the triangular economic and security relationship among the UnitedStates, Taipei and Beijing, including Beijing's military modernization and force deployments aimed at Taipei, and the adequacy of United States executive branch coordination and consultation with Congress on United States arms sales and defense relationship with Taipei.
+Regional economic and security impacts.—The Commission shall assess the extent of China's 'hollowing-out' of Asian manufacturing economies, and the impact on United States economic and security interests in the region; review the triangular economic and security relationship among the United States, Taipei and Beijing, including Beijing's military modernization and force deployments aimed at Taipei, and the adequacy of United States executive branch coordination and consultation with Congress on United States arms sales and defense relationship with Taipei.
 
 &emsp;"(G)
 

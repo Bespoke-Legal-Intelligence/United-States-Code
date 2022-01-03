@@ -20,7 +20,7 @@ The performance measures developed under subsection (a) shall—
 
 #### (c) Report
 
-Not later than 2 years after the development of the performance measures under subsection (a), and every 5 years thereafter, the Comptroller General of the United States shall prepare and submit to the authorizing committees and the Corporation's Board of Directors a report containing an assessment of each such program with respect to the performance measures developed under subsection (a).
+Not later than 2 years after the development of the performance measures under subsection\(a), and every 5 years thereafter, the Comptroller General of the United States shall prepare and submit to the authorizing committees and the Corporation's Board of Directors a report containing an assessment of each such program with respect to the performance measures developed under subsection (a).
 
 #### (d) Definitions
 
@@ -32,9 +32,11 @@ In this section:
 
 #### (2) Program
 
-&emsp;The term "program" means an entire program carried out by the Corporation under thenational service laws, such as the entire AmeriCorps program carried out under subtitle C.<sup>1</sup>
+&emsp;The term "program" means an entire program carried out by the Corporation under the national service laws, such as the entire AmeriCorps program carried out under subtitle C.<sup>1</sup>
 
 (Pub. L. 111–13, title I, §1712, Apr. 21, 2009, 123 Stat. 1551.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ Subtitle C, referred to in subsec. (d)(2), probably means subtitle C (§121 et s
 #### Codification
 
 Section was enacted as part of the Serve America Act, and not as part of the National and Community Service Act of 1990 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

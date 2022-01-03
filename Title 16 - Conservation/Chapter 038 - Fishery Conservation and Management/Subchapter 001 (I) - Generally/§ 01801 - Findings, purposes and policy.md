@@ -72,6 +72,8 @@ It is further declared to be the policy of the Congress in this chapter—
 
 <i>Pub. L. 102–251, title III, §§301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting ", and fishery resources in the special areas" before the semicolon at the end.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -138,6 +140,8 @@ Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1
 
 Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, provided that: "Effective 15 days after the date of enactment of this title \[Dec. 22, 1980\], all references to the Fishery Conservation and Management Act of 1976 \[see Short title note below\] shall be redesignated as references to the Magnuson Fishery Conservation and Management Act."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under section 773 of this title.
@@ -164,7 +168,7 @@ Pub. L. 111–348, title I, §101, Jan. 4, 2011, 124 Stat. 3668, provided that: 
 
 #### Short Title of 2007 Amendment
 
-Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855,1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the 'Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006'."
+Pub. L. 109–479, §1(a), Jan. 12, 2007, 120 Stat. 3575, provided that: "This Act \[enacting chapters 88 and 89 of this title, chapter 45 of Title 33, Navigation and Navigable Waters, subchapters VI of chapter 31 and of chapter 38 of this title, sections 1826h to 1826k, 1829, 1853a, 1864 to 1869, and 1884 of this title, amending this section, sections 757d, 773f, 773g, 971a, 971h, 971i, 1377, 1802, 1803, 1812, 1821, 1824, 1826a, 1826b, 1851 to 1853, 1854, 1855, 1857, 1861, 1861a, 1862, 1881, 1881a, 1881c, 1882, 1883, 3645, 4107, 5156, 5610, and 5727 of this title, and section 53706 of Title 46, Shipping, enacting provisions set out as notes under sections 460ss, 1361, 1853 to 1855, 1861a, 1864, 6901, and 7001 of this title and section 3201 of Title 33, and amending provisions set out as notes under sections 1822, 1851, 1855, and 1856 of this title\] may be cited as the 'Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006'."
 
 #### Short Title of 1996 Amendment
 
@@ -172,7 +176,7 @@ Pub. L. 104–297, §1(a), Oct. 11, 1996, 110 Stat. 3559, provided that: "This A
 
 #### Short Title of 1995 Amendment
 
-Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: "This title \[enacting sections 1826d to 1826g of this title and provisions set out as a note under section 1826d of this title\] may be cited as the 'High Seas Driftnet Fishing Moratorium Protection Act'."
+Pub. L. 104–43, title VI, §601, Nov. 3, 1995, 109 Stat. 391, provided that: "This title \[enacting sections 1826d to1826g of this title and provisions set out as a note under section 1826d of this title\] may be cited as the 'High Seas Driftnet Fishing Moratorium Protection Act'."
 
 #### Short Title of 1992 Amendment
 
@@ -208,6 +212,22 @@ Pub. L. 115–405, §301, Dec. 31, 2018, 132 Stat. 5360, provided that: "Nothing
 
 \[For definition of "mixed-use fishery" as used in section 301 of Pub. L. 115–405, set out above, see section 3 of Pub. L. 115–405, set out below\].
 
+#### Sport Fishing and Boating Partnership Council
+
+Pub. L. 117–58, div. B, title VIII, §28001(d), Nov. 15, 2021, 135 Stat. 889, provided that:
+
+"(1)
+
+In general.—The Sport Fishing and Boating Partnership Council established by the Secretary of the Interior shall be an advisory committee of the Department of the Interior and the Department of Commerce subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+
+"(2)
+
+FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1).
+
+"(3)
+
+Effective date.—This subsection shall take effect on January 1, 2023."
+
 #### Definitions
 
 Pub. L. 115–405, §3, Dec. 31, 2018, 132 Stat. 5355, provided that:
@@ -240,11 +260,13 @@ Mixed-use fishery.—The term 'mixed-use fishery' means a Federal fishery in whi
 
 &emsp;&emsp;"(C) Commercial fishing."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 12962. Recreational Fisheries
 
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), the Fish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in furtherance of the purposes of the Fish and Wildlife Act of 1956 (16 U.S.C. 742a–d, and e–j), theFish and Wildlife Coordination Act (16 U.S.C. 661–666c \[666c–1\]), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 <i>et seq</i>.), the National Marine Sanctuaries Act of 1972 (16 U.S.C. 1431 <i>et seq</i>.), the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–ee), the National Park Service Organic Act (\[former\] 16 U.S.C. 1 <i>et seq</i>.) \[see 18 U.S.C. 1865(a), 54 U.S.C. 100101(a), 100301 et seq., 100751(a), 100752, 100753, 102101\], the National Historic Preservation Act (\[former\] 16 U.S.C. 470 <i>et seq</i>.) \[see 54 U.S.C. 300101 et seq.\], \[the\] Wilderness Act (16 U.S.C. 1131 <i>et seq</i>.), the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 <i>et seq</i>.), the Coastal Zone Management Act \[of 1972\] (16 U.S.C. 1451 <i>et seq</i>.), the Outer Continental Shelf Lands Act (43 U.S.C. 1331 <i>et seq</i>.), and other pertinent statutes, and in order to conserve, restore, and enhance aquatic systems to provide for increased recreational fishing opportunities nationwide, it is ordered as follows:
 
 Section 1. <i>Federal Agency Duties</i>. Federal agencies shall, to the extent permitted by law and where practicable, and in cooperation with States and Tribes, improve the quantity, function, sustainable productivity, and distribution of U.S. aquatic resources for increased recreational fishing opportunities by: (a) developing and encouraging partnerships between governments and the private sector to advance aquatic resource conservation and enhance recreational fishing opportunities;
 
@@ -352,7 +374,7 @@ Sec. 5. <i>Combating Illegal, Unreported, and Unregulated Fishing</i>. (a) Withi
 
 (c) The Secretary of State, the Secretary of Commerce, the Secretary of Health and Human Services, and the Secretary of Homeland Security shall, consistent with applicable law and available appropriations, prioritize training and technical assistance in key geographic areas to promote sustainable fisheries management; to strengthen and enhance existing enforcement capabilities to combat illegal, unreported, and unregulated fishing; and to promote implementation of the Port State Measures Agreement.
 
-Sec. 6. <i>Removing Barriers to Aquaculture Permitting</i>. (a) For aquaculture projects that require environmentalreview or authorization by two or more agencies in order to proceed with the permitting of an aquaculture facility, when the lead agency has determined that it will prepare an environmental impact statement (EIS) under NEPA, the agencies shall undertake to complete all environmental reviews and authorization decisions within 2 years, measured from the date of the publication of a notice of intent to prepare an EIS to the date of issuance of the Record of Decision (ROD), and shall use the "One Federal Decision" process enhancements described in section 5(b) of Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects) \[42 U.S.C. 4370m note\], and in subsections (a)(ii) and (iii) of this section. For such projects:
+Sec. 6. <i>Removing Barriers to Aquaculture Permitting</i>. (a) For aquaculture projects that require environmental review or authorization by two or more agencies in order to proceed with the permitting of an aquaculture facility, when the lead agency has determined that it will prepare an environmental impact statement (EIS) under NEPA, the agencies shall undertake to complete all environmental reviews and authorization decisions within 2 years, measured from the date of the publication of a notice of intent to prepare an EIS to the date of issuance of the Record of Decision (ROD), and shall use the "One Federal Decision" process enhancementsdescribed in section 5(b) of Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects) \[42 U.S.C. 4370m note\], and in subsections (a)(ii) and (iii) of this section. For such projects:
 
 (i) NOAA is designated as the lead agency for aquaculture projects located outside of the waters of any State or Territory and within the exclusive economic zone of the United States and shall be responsible for navigating the project through the Federal environmental review and authorization process, including the identification of a primary point of contact at each cooperating and participating agency;
 
@@ -400,7 +422,7 @@ Sec. 9. <i>Updating National Aquaculture Development Plan</i>. (a) Within 180 da
 
 (i) include the elements described at 16 U.S.C. 2803(b) and (c) and the appropriate determinations described at 16 U.S.C. 2803(d);
 
-(ii) include programs to analyze, and formulate proposed resolutions of, the legal or regulatory constraints that may affect aquaculture, including any impediments to establishing security of tenure—that is, use rights with a specified duration tied to a particular location—for aquaculture operators, owners, and investors; and
+(ii) include programs to analyze, and formulate proposed resolutions of, the legal or regulatory constraintsthat may affect aquaculture, including any impediments to establishing security of tenure—that is, use rights with a specified duration tied to a particular location—for aquaculture operators, owners, and investors; and
 
 (iii) consider whether to include a permitting framework, including a delineation of agency responsibilities for permitting and associated agency operations, consistent with section 6 of this order and with the "One Federal Decision" Framework Memorandum issued on March 20, 2018, by the Office of Management and Budget and the Council on Environmental Quality, pursuant to Executive Order 13807 \[42 U.S.C. 4370m note\].
 

@@ -56,6 +56,8 @@ Nothing in this section shall be construed to require any State or any political
 
 (July 1, 1944, ch. 373, title III, §318, as added Pub. L. 92–449, title II, §203, Sept. 30, 1972, 86 Stat. 751; amended Pub. L. 94–317, title II, §203(b)–(i), June 23, 1976, 90 Stat. 704, 705; Pub. L. 94–484, title IX, §905(b)(2), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–626, title II, §204(b)(1), (c), (d), Nov. 10, 1978, 92 Stat. 3583; Pub. L. 96–32, §6(j), July 10, 1979, 93 Stat. 84; Pub. L. 97–35, title IX, §929, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §3, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 100–607, title III, §311, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 103–183, title IV, §401, Dec. 14, 1993, 107 Stat. 2236; Pub. L. 105–392, title IV, §401(b)(2), (c), Nov. 13, 1998, 112 Stat. 3587.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 247c, act July 1, 1944, ch. 373 title III, §318, as added Aug. 18, 1964, Pub. L. 88–443, §2, 78 Stat. 447, related to grants for assisting in the areawide planning of health and related facilities, prior to repeal by Pub. L. 89–749, §6, Nov. 3, 1966, 80 Stat. 1190 eff. July 1, 1967.
@@ -96,7 +98,7 @@ Subsec. (c). Pub. L. 98–555, §3(b)(3), (6)(A), substituted "sexually transmit
 
 Subsec. (d). Pub. L. 98–555, §3(b)(5)(A), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted "(b), (c), and (d)" for "(b) and (c)", inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted "10 per centum" for "5 per centum", and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of "(b), (c), or (d)" for "(b) or (c)" in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because "(b) or (c)" did not appear in second sentence. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 98–555, §3(a), (b)(4), (5), redesignated subsec. (d) as (e), and in par. (1) of subsec. (e) as so redesignated, substituted "(b), (c), and (d)" for "(b) and (c)", inserted provisions authorizing appropriationsfor fiscal years ending Sept. 30, 1985, 1986, and 1987, substituted "10 per centum" for "5 per centum", and inserted provisions directing that one-half the excess of appropriations in fiscal years 1985, 1986, and 1987 over certain amounts be made available for grants under subsec. (d). Notwithstanding language of section 3(b)(5)(B)(ii) directing the substitution of "(b), (c), or (d)" for "(b) or (c)" in second sentence of subsec. (e)(1), the amendment was executed by making the substitution in third sentence of subsec. (e)(1) to reflect the probable intent of Congress because "(b) or (c)" did not appear in second sentence. Former subsec. (e) redesignated (f).
 
 Subsecs. (f), (g). Pub. L. 98–555, §3(b)(5)(A), (6)(A), (C), redesignated subsecs. (e) and (f) as (f) and (g), respectively, in subsecs. (f) and (g) as so redesignated, substituted "sexually transmitted diseases" for "venereal disease", and struck out former subsec. (g) which defined venereal disease.
 
@@ -134,6 +136,8 @@ Subsec. (g). Pub. L. 94–317, §203(f)(7), (8), redesignated subsec. (h) as (g)
 
 Subsec. (h). Pub. L. 94–317, §203(h), added subsec. (h). Former subsec. (h) redesignated (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
@@ -152,7 +156,7 @@ Pub. L. 95–626, title II, §204(a), Nov. 10, 1978, 92 Stat. 3582, provided tha
 
 &emsp;"(3) the incidence of venereal disease continues to be particularly high among American youth, ages fifteen to twenty-nine, and among populations in metropolitan areas;
 
-&emsp;"(4) venereal disease accounts for severe permanent disabilities and sometimes death in newborns and causes reproductive dysfunction in women of childbearing age;
+&emsp;"(4) venereal disease accounts for severe permanent disabilities and sometimes death in newborns andcauses reproductive dysfunction in women of childbearing age;
 
 &emsp;"(5) it is conservatively estimated that the public cost of health care for persons suffering from complications of venereal disease exceeds one-half billion dollars annually;
 

@@ -38,7 +38,7 @@
 
 #### (ii) Amount
 
-&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rent for the accommodation provided plus the cost of any transportation, utility hookups, security deposits, or unit installation not provided directly by the President.
+&emsp;&emsp;&emsp;The amount of assistance under clause (i) shall be based on the fair market rentfor the accommodation provided plus the cost of any transportation, utility hookups, security deposits, or unit installation not provided directly by the President.
 
 #### (B) Direct assistance
 
@@ -148,7 +148,7 @@
 
 &emsp;&emsp;&emsp;(i) may be sold to any person; or
 
-&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to aState or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
+&emsp;&emsp;&emsp;(ii) may be sold, transferred, donated, or otherwise made available directly to a State or other governmental entity or to a voluntary organization for the sole purpose of providing temporary housing to disaster victims in major disasters and emergencies if, as a condition of the sale, transfer, or donation, the State, other governmental agency, or voluntary organization agrees—
 
 &emsp;&emsp;&emsp;&emsp;(I) to comply with the nondiscrimination provisions of section 5151 of this title; and
 
@@ -210,7 +210,7 @@
 
 &emsp;&emsp;&emsp;The housing strategy required under clause (i) shall—
 
-&emsp;&emsp;&emsp;&emsp;(I) outline the approach of the State in working with Federal partners, Indian tribal governments, local communities, nongovernmental organizations, and individual disaster survivors to meet disaster-related sheltering and housing needs; and
+&emsp;&emsp;&emsp;&emsp;(I) outline the approach of the State in working with Federal partners, Indiantribal governments, local communities, nongovernmental organizations, and individual disaster survivors to meet disaster-related sheltering and housing needs; and
 
 &emsp;&emsp;&emsp;&emsp;(II) include the establishment of an activation plan for a State Disaster Housing Task Force, as outlined in the National Disaster Housing Strategy, to bring together State, tribal, local, Federal, nongovernmental, and private sector expertise to evaluate housing requirements, consider potential solutions, recognize special needs populations, and propose recommendations.
 
@@ -284,7 +284,7 @@
 
 #### (3) Adjustment of limit
 
-&emsp;The limit established under paragraphs (1) and (2) shall be adjusted annually to reflectchanges in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+&emsp;The limit established under paragraphs (1) and (2) shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 #### (4) Exclusion of necessary expenses for individuals with disabilities
 
@@ -315,6 +315,8 @@ In carrying out this section, the President shall develop a system, including an
 The President shall prescribe rules and regulations to carry out this section, including criteria, standards, and procedures for determining eligibility for assistance.
 
 (Pub. L. 93–288, title IV, §408, as added Pub. L. 100–707, title I, §106(d), Nov. 23, 1988, 102 Stat. 4702; amended Pub. L. 106–390, title II, §206(a), Oct. 30, 2000, 114 Stat. 1566; Pub. L. 109–295, title VI, §§685, 686, 689(c), 689d, 696(c), Oct. 4, 2006, 120 Stat. 1447–1449, 1452, 1461; Pub. L. 113–2, div. B, §§1103, 1108(a), Jan. 29, 2013, 127 Stat. 42, 47; Pub. L. 115–254, div. D, §§1211(a), 1212, 1213(a), (b), Oct. 5, 2018, 132 Stat. 3445, 3448.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -370,6 +372,8 @@ Subsecs. (i), (j). Pub. L. 109–295, §696(c), added subsec. (i) and redesignat
 
 2000–Pub. L. 106–390 amended section catchline and text generally. Prior to amendment, text provided for temporary housing assistance through provision of temporary housing, temporary mortgage and rental payment assistance, expenditures to repair or restore owner-occupied private residential structures made uninhabitable by a major disaster which are capable of being restored quickly, and transfer of temporary housing to occupants or to States, local governments, and voluntary organizations, required notification to applicants for assistance, and set out location factors to be given consideration in the provision of assistance.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under section 5121 of this title.
@@ -377,6 +381,18 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–390, title II, §206(d), Oct. 30, 2000, 114 Stat. 1571, provided that: "The amendments made by this section \[amending this section and section 5192 of this title and repealing section 5178 of this title\] take effect 18 months after the date of the enactment of this Act \[Oct. 30, 2000\]."
+
+#### Funeral Assistance
+
+Pub. L. 117–2, title IV, §4006, Mar. 11, 2021, 135 Stat. 79, provided that:
+
+"(a)
+
+In General.—For the emergency declaration issued by the President on March 13, 2020 \[Proc. No. 9994, 50 U.S.C. 1621 note\], pursuant to section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191(b)), and for any subsequent major disaster declaration that supersedes such emergency declaration, the President shall provide financial assistance to an individual or household to meet disaster-related funeral expenses under section 408(e)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5174(e)(1)), for which the Federal cost share shall be 100 percent.
+
+"(b)
+
+Use of Funds.—Funds appropriated under section 4005 \[of Pub. L. 117–2, 135 Stat. 79\] may be used to carry out subsection (a) of this section."
 
 #### Lost Wages Assistance Recoupment Fairness
 

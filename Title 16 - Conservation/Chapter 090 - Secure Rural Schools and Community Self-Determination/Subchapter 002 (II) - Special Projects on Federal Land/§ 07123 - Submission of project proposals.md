@@ -12,7 +12,7 @@
 
 #### (3) Joint projects
 
-&emsp;Participating counties or other persons may propose to pool project funds or other funds,described in paragraph (2), and jointly propose a project or group of projects to a resource advisory committee established under section 7125 of this title.
+&emsp;Participating counties or other persons may propose to pool project funds or other funds, described in paragraph (2), and jointly propose a project or group of projects to a resource advisory committee established under section 7125 of this title.
 
 #### (b) Required description of projects
 
@@ -47,6 +47,8 @@ In submitting proposed projects to the Secretary concerned under subsection (a),
 Projects proposed under subsection (a) shall be consistent with section 7101 of this title.
 
 (Pub. L. 106–393, title II, §203, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(2)(A), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(c)(1), Apr. 16, 2015, 129 Stat. 180.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

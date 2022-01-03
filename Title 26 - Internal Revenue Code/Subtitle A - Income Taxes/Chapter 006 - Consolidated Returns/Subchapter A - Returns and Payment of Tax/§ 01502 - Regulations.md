@@ -4,11 +4,15 @@ The Secretary shall prescribe such regulations as he may deem necessary in order
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 367; Pub. L. 94–455, title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 108–357, title VIII, §844(a), Oct. 22, 2004, 118 Stat. 1600.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357 inserted at end "In carrying out the preceding sentence, the Secretary may prescribe rules that are different from the provisions of chapter 1 that would apply if such corporations filed separate returns."
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -100,5 +104,5 @@ Second same country corporation may be treated as domestic corporation in certai
 
 #### Special Rule for Disposition of Stock of Subsidiary
 
-Pub. L. 99–514, title VI, §647, Oct. 22, 1986, 100 Stat. 2294, provided that: "If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under the laws of the foreign country in which the joint venture mineral project is located."
+Pub. L. 99–514, title VI, §647, Oct. 22, 1986, 100 Stat. 2294, provided that: "If for a taxable year of an affiliated group filing a consolidated return ending on or before December 31, 1987, there is a disposition of stock of a subsidiary (within the meaning of Treasury Regulation section 1.1502–19), the amount required to be included in income with respect to such disposition under Treasury Regulation section 1.1502–19(a) shall, notwithstanding such section, be included in income ratably over the 15-year period beginning with the taxable year in which the disposition occurs. The preceding sentence shall apply only if such subsidiary was incorporated on December 24, 1969, and is a participant in a mineral joint venture with a corporation organized under thelaws of the foreign country in which the joint venture mineral project is located."
 

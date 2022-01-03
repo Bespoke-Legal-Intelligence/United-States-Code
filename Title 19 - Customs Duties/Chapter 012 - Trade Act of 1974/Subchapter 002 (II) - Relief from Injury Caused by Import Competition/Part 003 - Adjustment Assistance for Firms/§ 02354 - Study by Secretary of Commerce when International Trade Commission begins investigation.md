@@ -16,11 +16,13 @@ The report of the Secretary of the study under subsection (a) shall be made to t
 
 Whenever the Commission makes an affirmative finding under section 2252(b) of this title that increased imports are a substantial cause of serious injury or threat thereof with respect to an industry, the Secretary shall make available, to the extent feasible, full information to the firms in such industry about programs which may facilitate the orderly adjustment to import competition of such firms, and he shall provide assistance in the preparation and processing of petitions and applications of such firms for program benefits.
 
-(Pub. L. 93–618, title II, §261, formerly §264, Jan. 3, 1975, 88 Stat. 2035; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; renumbered §261, Pub. L. 111–5, div. B, title I,§1864(a)(2), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
+(Pub. L. 93–618, title II, §261, formerly §264, Jan. 3, 1975, 88 Stat. 2035; Pub. L. 100–418, title I, §1401(b)(1)(B), Aug. 23, 1988, 102 Stat. 1239; renumbered §261, Pub. L. 111–5, div. B, title I, §1864(a)(2), Feb. 17, 2009, 123 Stat. 397, and Pub. L. 112–40, title II, §201(b), (c), Oct. 21, 2011, 125 Stat. 403, and Pub. L. 114–27, title IV, §402(b), (c), June 29, 2015, 129 Stat. 374.)
 
 #### Renumbering of Section
 
 <i>For termination of renumbering of section, beginning on July 1, 2021, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -40,6 +42,8 @@ Subsec. (b). Pub. L. 100–418 substituted "section 2252(f)" for "section 2251".
 
 Subsec. (c). Pub. L. 100–418 substituted "section 2252(b)" for "section 2251(b)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2015 Revival
 
 For revival and applicability, beginning on June 29, 2015, of the provisions of this section as in effect on Dec. 31, 2013, see section 402(b), (c) of Pub. L. 114–27, set out as a note preceding section 2271 of this title.
@@ -48,7 +52,7 @@ For reversion, beginning on July 1, 2021, to the provisions of this section as i
 
 #### Effective and Termination Dates of 2011 Revival
 
-For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect on Feb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
+For revival and applicability, beginning on Oct. 21, 2011, of the provisions of this section as in effect onFeb. 12, 2011, see section 201(b), (c) of Pub. L. 112–40, set out as a note preceding section 2271 of this title.
 
 Section 233 of Pub. L. 112–40, formerly set out as a note preceding section 2271 of this title, which provided for the reversion, beginning on Jan. 1, 2014, of the provisions of this section to those in effect on Feb. 13, 2011, subject to certain exceptions, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, effective June 29, 2015. See Codification note above.
 

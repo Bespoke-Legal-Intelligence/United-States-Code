@@ -1,8 +1,10 @@
 ### §8262a. Report by General Services Administration
 
-Not later than one year after October 24, 1992, and annually thereafter, the Administrator of General Services shall report to the Committee on Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives on the activities of the General Services Administration conducted pursuant to this subtitle.<sup>1</sup>
+Not later than one year after October 24, 1992, and annually thereafter, the Administrator of General Services shall report to the Committeeon Governmental Affairs and the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce, the Committee on Government Operations, and the Committee on Public Works and Transportation of the House of Representatives on the activities of the General Services Administration conducted pursuant to this subtitle.<sup>1</sup>
 
 (Pub. L. 102–486, title I, §154, Oct. 24, 1992, 106 Stat. 2852.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -11,6 +13,8 @@ This subtitle, referred to in text, is subtitle F (§§151–168) of title I of 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the National Energy Conservation Policy Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

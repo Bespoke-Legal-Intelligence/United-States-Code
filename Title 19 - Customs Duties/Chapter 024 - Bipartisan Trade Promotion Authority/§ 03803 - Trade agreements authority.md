@@ -174,6 +174,8 @@ In order to contribute to the continued economic expansion of the United States,
 
 (Pub. L. 107–210, div. B, title XXI, §2103, Aug. 6, 2002, 116 Stat. 1004; Pub. L. 108–429, title II, §2004(a)(17), Dec. 3, 2004, 118 Stat. 2591.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (c)(5)(A), is title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which is classified principally to this chapter. Section 2103 of the Act is classified to this section. For complete classification of title XXI to the Code, see section 3801(a) of this title and Tables.
@@ -190,7 +192,9 @@ Subsec. (c)(2). Pub. L. 108–429, §2004(a)(17)(C)(ii), substituted "April 1" f
 
 Subsec. (c)(3). Pub. L. 108–429, §2004(a)(17)(C)(iii), substituted "June 1" for "May 1" in two places.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002,67 F.R. 70305, set out as a note under section 3801 of this title.
 

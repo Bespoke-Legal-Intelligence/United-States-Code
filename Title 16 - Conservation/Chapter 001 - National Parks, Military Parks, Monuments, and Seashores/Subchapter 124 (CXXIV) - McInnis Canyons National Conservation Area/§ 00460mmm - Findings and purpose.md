@@ -14,9 +14,13 @@ The purpose of this subchapter is to conserve, protect, and enhance for the bene
 
 (Pub. L. 106–353, §2, Oct. 24, 2000, 114 Stat. 1374; Pub. L. 108–400, §1(a), Oct. 30, 2004, 118 Stat. 2254.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–400 substituted "McInnis Canyons" for "Colorado Canyons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

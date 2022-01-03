@@ -4,6 +4,8 @@ Any person who, being duly summoned to appear to testify, or to appear and produ
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 854; Apr. 2, 1956, ch. 160, §4(h), 70 Stat. 91; June 29, 1956, ch. 462, title II, §208(d)(3), 70 Stat. 396; Pub. L. 89–44, title II, §202(c)(4), June 21, 1965, 79 Stat. 139; Pub. L. 91–258, title II, §207(d)(9), May 21, 1970, 84 Stat. 249; Pub. L. 94–530, §1(c)(6), Oct. 17, 1976, 90 Stat. 2488; Pub. L. 95–599, title V, §505(c)(5), Nov. 6, 1978, 92 Stat. 2760; Pub. L. 96–223, title II, §232(d)(4)(E), Apr. 2, 1980, 94 Stat. 278; Pub. L. 97–424, title V, §515(b)(12), Jan. 6, 1983, 96 Stat. 2182; Pub. L. 98–369, div. A, title IX, §911(d)(2)(G), July 18, 1984, 98 Stat. 1007; Pub. L. 99–514, title XVII, §1703(e)(2)(G), Oct. 22, 1986, 100 Stat. 2778; Pub. L. 100–647, title I, §1017(c)(9), (12), Nov. 10, 1988, 102 Stat. 3576, 3577.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
@@ -30,13 +32,15 @@ Pub. L. 100–647, §1017(c)(9), substituted "6421(g)(2)" for "6421(f)(2)".
 
 Act Apr. 2, 1956, inserted reference to section 6420(e)(2) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title as amended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
+Amendment by Pub. L. 99–514 applicable to gasoline removed (as defined in section 4082 of this title asamended by section 1703 of Pub. L. 99–514) after Dec. 31, 1987, see section 1703(h) of Pub. L. 99–514, set out as a note under section 4081 of this title.
 
 #### Effective Date of 1984 Amendment
 

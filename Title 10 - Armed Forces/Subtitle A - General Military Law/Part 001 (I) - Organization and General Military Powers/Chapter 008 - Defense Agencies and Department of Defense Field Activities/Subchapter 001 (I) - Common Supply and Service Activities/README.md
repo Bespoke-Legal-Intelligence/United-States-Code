@@ -7,12 +7,22 @@
 | [193\.](%C2%A7%2000193%20-%20Combat%20support%20agencies%20oversight.md) | Combat support agencies: oversight. |
 | [194\.](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md) | Limitations on personnel. |
 | [195\.](%C2%A7%2000195%20-%20Defense%20Automated%20Printing%20Service%20applicability%20of%20Federal%20printing%20requirements.md) | Defense Automated Printing Service: applicability of Federal printing requirements. |
-| [196\.](%C2%A7%2000196%20-%20Department%20of%20Defense%20Test%20Resource%20Management%20Center.md) | Department of Defense Test Resource Management Center. |
-| [197\.](%C2%A7%2000197%20-%20Defense%20Logistics%20Agency%20fees%20charged%20for%20logistics%20information.md) | Defense Logistics Agency: fees charged for logistics information. |
+| [196\.](%C2%A7%2000196%20-%20Renumbered%20%C2%A74173.md) | Department of Defense Test Resource Management Center.<sup>1</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+|  |  |
+| :--- | ---: |
+| [197\.](%C2%A7%2000197%20-%20Defense%20Logistics%20Agency%20fees%20charged%20for%20logistics%20information.md) | Defense Logistics Agency: fees charged for logistics information. |
+| [198\.](%C2%A7%2000198%20-%20Office%20of%20Local%20Defense%20Community%20Cooperation.md) | Office of Local Defense Community Cooperation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title IX, §902(a)(4)(B), Dec. 27, 2021, 135 Stat. 1869, which directed amendment of the table of sections at the beginning of "subtitle I" of this chapter by adding item 198 after item 197, was executed to the table of sections at the beginning of this subchapter, to reflect the probable intent of Congress.
 
 <b>2004</b>—Pub. L. 108–375, div. A, title X, §1010(b), Oct. 28, 2004, 118 Stat. 2038, added item 197.
 
@@ -28,6 +38,8 @@
 
 <b>1982</b>—Pub. L. 97–269, title V, §501(a), Sept. 27, 1982, 96 Stat. 1144, added chapter 8 heading and analysis of sections for chapter 8, consisting of a single item 191.
 
+<i><sup>1</sup></i><i> Section 196 was renumbered section 4173 of this title by Pub. L. 116–283 without corresponding amendment of subchapter analysis.</i>
+
 
 ---
 
@@ -38,5 +50,6 @@
 - [&sect; 00193 - Combat support agencies oversight](%C2%A7%2000193%20-%20Combat%20support%20agencies%20oversight.md)
 - [&sect; 00194 - Limitations on personnel](%C2%A7%2000194%20-%20Limitations%20on%20personnel.md)
 - [&sect; 00195 - Defense Automated Printing Service applicability of Federal printing requirements](%C2%A7%2000195%20-%20Defense%20Automated%20Printing%20Service%20applicability%20of%20Federal%20printing%20requirements.md)
-- [&sect; 00196 - Department of Defense Test Resource Management Center](%C2%A7%2000196%20-%20Department%20of%20Defense%20Test%20Resource%20Management%20Center.md)
+- [&sect; 00196 - Renumbered &sect;4173](%C2%A7%2000196%20-%20Renumbered%20%C2%A74173.md)
 - [&sect; 00197 - Defense Logistics Agency fees charged for logistics information](%C2%A7%2000197%20-%20Defense%20Logistics%20Agency%20fees%20charged%20for%20logistics%20information.md)
+- [&sect; 00198 - Office of Local Defense Community Cooperation](%C2%A7%2000198%20-%20Office%20of%20Local%20Defense%20Community%20Cooperation.md)

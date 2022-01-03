@@ -28,15 +28,19 @@ May 29, 1954, ch. 249, §14(d) (1st sentence), (f) (1st sentence, as applicable 
 
 34:430(f) (1st sentence, as applicable to retired grade).
 
-The first 13 words are substituted for 10:600l(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words "for a period of more than 30 days" are substituted for the words "under \* \* \* orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period", to conform to the definition of those words in section 101(23) of this title. The words "any full time duty" are omitted, since the duty specified would necessarily be full time duty. The words "under this section" and "competent" are omitted as surplusage.
+The first 13 words are substituted for 10:600l(f) (1st sentence, as applicable to retired grade) and 34:430 (1st sentence, as applicable to retired grade). The words "for a period of more than 30 days" are substituted for the words "under \* \* \* orders specifying that the period of such duty shall be for a period in excess of thirty days or for an indefinite period", to conform to thedefinition of those words in section 101(23) of this title. The words "any full time duty" are omitted, since the duty specified would necessarily be full time duty. The words "under this section" and "competent" are omitted as surplusage.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–92 amended section generally. Prior to amendment, text read as follows: "Unless entitled to a higher retired grade under some other provision of law, a warrant officer retires, as determined by the Secretary concerned, in the permanent regular or reserve warrant officer grade, if any, that he held on the day before the date of his retirement, or in any higher warrant officer grade in which he served on active duty satisfactorily, as determined by the Secretary, for a period of more than 30 days."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Public Health Service
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 

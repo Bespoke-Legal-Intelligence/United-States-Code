@@ -1,6 +1,6 @@
 ### §1401a. Birth abroad before 1952 to service parent
 
-Section 1401(g) of this title shall be considered to have been and to be applicable to a child born outside of the United States and its outlying possessions after January 12, 1941, and before December 24, 1952, of parents one of whom is a citizen of the United States who has served in the Armed Forces of the United States after December 31, 1946, and before December 24, 1952, and whose case does not come within the provisions of section 201(g) or (i) of the Nationality Act of 1940.
+Section 1401(g) of this title shall be considered to have been and to be applicable to a child born outside of the United States and its outlyingpossessions after January 12, 1941, and before December 24, 1952, of parents one of whom is a citizen of the United States who has served in the Armed Forces of the United States after December 31, 1946, and before December 24, 1952, and whose case does not come within the provisions of section 201(g) or (i) of the Nationality Act of 1940.
 
 (Mar. 16, 1956, ch. 85, 70 Stat. 50; Pub. L. 97–116, §18(u)(2), Dec. 29, 1981, 95 Stat. 1621.)
 
@@ -8,7 +8,7 @@ Section 1401(g) of this title shall be considered to have been and to be applica
 
 #### References in Text
 
-Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by act June 27,1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952, provided as follows:
+Section 201(g) and (i) of the Nationality Act of 1940, referred to in text, which were repealed by act June 27, 1952, ch. 477, title IV, §403(a)(42), 66 Stat. 280, eff. Dec. 24, 1952, provided as follows:
 
 "The following shall be nationals and citizens of the United States at birth:
 

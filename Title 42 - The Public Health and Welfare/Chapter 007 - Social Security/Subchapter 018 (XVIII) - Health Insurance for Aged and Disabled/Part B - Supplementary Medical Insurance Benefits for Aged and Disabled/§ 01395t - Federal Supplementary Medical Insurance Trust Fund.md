@@ -48,6 +48,8 @@ The Managing Trustee shall pay from time to time from the Trust Fund such amount
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1841, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 308; amended Pub. L. 90–248, title I, §169(a), Jan. 2, 1968, 81 Stat. 875; Pub. L. 92–603, title I, §132(e), title II, §263(d)(4), (e), Oct. 30, 1972, 86 Stat. 1361, 1449; Pub. L. 95–292, §5, June 13, 1978, 92 Stat. 315; Pub. L. 98–21, title I, §154(c), title III, §341(c), Apr. 20, 1983, 97 Stat. 107, 135; Pub. L. 98–369, div. B, title III, §2354(b)(2), (11), (12), title VI, §2663(j)(2)(F)(iii), July 18, 1984, 98 Stat. 1100, 1101, 1170; Pub. L. 99–272, title IX, §9213(b), Apr. 7, 1986, 100 Stat. 180; Pub. L. 100–360, title II, §212(b)(2), (c)(4), July 1, 1988, 102 Stat. 740, 741; Pub. L. 100–647, title VIII, §8005(a), Nov. 10, 1988, 102 Stat. 3781; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 103–296, title I, §108(c)(3), Aug. 15, 1994, 108 Stat. 1485; Pub. L. 108–173, title I, §§101(e)(3)(C), 105(d), title VIII, §801(d)(2), title IX, §900(e)(1)(E), Dec. 8, 2003, 117 Stat. 2151, 2166, 2359, 2371; Pub. L. 111–148, title IX, §9008(k), Mar. 23, 2010, 124 Stat. 862.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9008(c) of the Patient Protection and Affordable Care Act of 2009, referred to in subsec. (a), probably means section 9008(c) of Pub. L. 111–148, known as the Patient Protection and Affordable Care Act, which is set out as a note preceding section 4001 of Title 26, Internal Revenue Code.
@@ -70,7 +72,7 @@ Subsec. (g). Pub. L. 108–173, §105(d)(2), inserted at end "The payments provi
 
 Pub. L. 108–173, §101(e)(3)(C)(ii), inserted at end "The payments provided for under part D, other than under section 1395w–141(k)(2) of this title, shall be made from the Medicare Prescription Drug Account in the Trust Fund."
 
-Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted "or pursuant to section 1395w–113(c)(1) or1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395s(d) of this title".
+Subsec. (h). Pub. L. 108–173, §101(e)(3)(C)(iii), inserted "or pursuant to section 1395w–113(c)(1) or 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395s(d) of this title".
 
 Subsec. (i). Pub. L. 108–173, §101(e)(3)(C)(iv), inserted "and pursuant to sections 1395w–113(c)(1) and 1395w–24(d)(2)(A) of this title (in which case payments shall be made in appropriate part from the Medicare Prescription Drug Account in the Trust Fund)" after "section 1395u(g) of this title".
 
@@ -114,6 +116,8 @@ Subsec. (i). Pub. L. 92–603, §263(e), added subsec. (i).
 
 <b>1968</b>—Subsec. (b)(2). Pub. L. 90–248 substituted "April" for "March".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of this title.
@@ -144,7 +148,7 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 Amendment by section 132(e) of Pub. L. 92–603 applicable with respect to gifts and bequests received after Oct. 30, 1972, see section 132(f) of Pub. L. 92–603, set out as a note under section 401 of this title.
 
-Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable topremiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
+Amendment by section 263(d)(4), (e) of Pub. L. 92–603 with respect to collection of premiums applicable to premiums becoming due and payable after the fourth month following the month of enactment of Pub. L. 92–603 which was approved on Oct. 30, 1972, see section 263(f) of Pub. L. 92–603, set out as a note under section 1395s of this title.
 
 #### Disposal of Funds in Federal Hospital Insurance Catastrophic Coverage Reserve Fund
 

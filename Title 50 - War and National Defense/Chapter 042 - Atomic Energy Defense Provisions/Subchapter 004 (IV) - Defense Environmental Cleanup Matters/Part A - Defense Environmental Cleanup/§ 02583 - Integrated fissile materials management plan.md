@@ -12,7 +12,9 @@ The Secretary of Energy shall develop a long-term plan for the integrated manage
 
 The Secretary shall submit the plan required by subsection (a) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than March 31, 2014.
 
-(Pub. L. 107–314, div. D, title XLIV, §4403, formerly Pub. L. 106–65, div. C, title XXXI, §3172, Oct. 5, 1999, 113 Stat. 948; renumbered Pub. L. 107–314, div. D, title XLIV, §4403, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(4), Nov. 24, 2003, 117 Stat. 1764; Pub. L. 113–66, div. C, title XXXI, §3146(e)(4), Dec. 26, 2013, 127 Stat. 1076.)
+(Pub. L. 107–314, div. D, title XLIV, §4403, formerly Pub. L. 106–65, div. C, title XXXI, §3172, Oct. 5, 1999, 113 Stat. 948; renumbered Pub. L.107–314, div. D, title XLIV, §4403, by Pub. L. 108–136, div. C, title XXXI, §3141(g)(4), Nov. 24, 2003, 117 Stat. 1764; Pub. L. 113–66, div. C, title XXXI, §3146(e)(4), Dec. 26, 2013, 127 Stat. 1076.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

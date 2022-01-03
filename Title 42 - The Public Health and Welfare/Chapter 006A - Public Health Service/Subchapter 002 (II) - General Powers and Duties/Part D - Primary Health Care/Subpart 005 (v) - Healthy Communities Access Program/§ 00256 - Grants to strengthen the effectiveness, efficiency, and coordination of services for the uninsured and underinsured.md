@@ -44,7 +44,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;(G) demonstrates the consortium's ability to ensure that individuals participating in the program are enrolled in public insurance programs for which the individuals are eligible or know of private insurance programs where available;
 
-&emsp;&emsp;(H) presents a plan for leveraging other sources of revenue, which may include State and local sources and private grant funds, and integrating current and proposed newfunding sources in a way to assure long-term sustainability of the program;
+&emsp;&emsp;(H) presents a plan for leveraging other sources of revenue, which may include State and local sources and private grant funds, and integrating current and proposed new funding sources in a way to assure long-term sustainability of the program;
 
 &emsp;&emsp;(I) describes a plan for evaluation of the activities carried out under the grant, including measurement of progress toward the goals and objectives of the program and the use of evaluation findings to improve program performance;
 
@@ -134,7 +134,7 @@ In awarding grants under this section, the Secretary—
 
 &emsp;&emsp;&emsp;(iii) Improvements to coordination of transportation to health care facilities.
 
-&emsp;&emsp;&emsp;(iv) Development of provider networks and other innovative models to engage physicians in voluntary efforts to servethe medically underserved within a community.
+&emsp;&emsp;&emsp;(iv) Development of provider networks and other innovative models to engage physicians in voluntary efforts to serve the medically underserved within a community.
 
 &emsp;&emsp;&emsp;(v) Recruitment, training, and compensation of necessary personnel.
 
@@ -214,6 +214,8 @@ Funds may not be appropriated to carry out this section after September 30, 2006
 
 (July 1, 1944, ch. 373, title III, §340, as added Pub. L. 107–251, title IV, §402, Oct. 26, 2002, 116 Stat. 1655.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 256, act July 1, 1944, ch. 373, title III, §340, as added July 22, 1987, Pub. L. 100–77, title VI, §601, 101 Stat. 511; amended Nov. 4, 1988, Pub. L. 100–607, title VIII, §§801(a), (c), 802(a), (b)(1), 803, 804, 102 Stat. 3168, 3169; Nov. 7, 1988, Pub. L. 100–628, title VI, §§601(a), (c), 602(a), (b)(1), 603, 604, 102 Stat. 3241, 3242; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), (3), 103 Stat. 615; Nov. 29, 1990, Pub. L. 101–645, title V, §§501–503, 104 Stat. 4724; Oct. 27, 1992, Pub. L. 102–531, title III, §309(c), 106 Stat. 3501, related to grant program for certain health services for the homeless, prior to repeal by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645, eff. Oct. 1, 1996.
@@ -221,6 +223,8 @@ A prior section 256, act July 1, 1944, ch. 373, title III, §340, as added July 
 Another prior section 256, act July 1, 1944, ch. 373, title III, §340, as added Nov. 10, 1978, Pub. L. 95–626, title I, §115(2), 92 Stat. 3567; amended Dec. 12, 1979, Pub. L. 96–142, title III, §301(a), 93 Stat. 1073; Aug. 13, 1981, Pub. L. 97–35, title IX, §903(b)(1), 95 Stat. 561; Jan. 4, 1983, Pub. L. 97–414, §8(h), 96 Stat. 2061, related to primary care research and demonstration projects to serve medically underserved population, prior to repeal by Pub. L. 97–35, title IX, §903(c), Aug. 13, 1981, 95 Stat. 561, eff. Oct. 1, 1982.
 
 Another prior section 256, act July 1, 1944, ch. 373, title III, §340, formerly §332, 58 Stat. 698; renumbered §340, Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(2), 90 Stat. 2268, related to apprehension, detention, treatment, and release of persons being treated for leprosy, prior to repeal by Pub. L. 95–626, title I, §105(b), Nov. 10, 1978, 92 Stat. 3560.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Demonstration Project To Provide Access to Affordable Care
 

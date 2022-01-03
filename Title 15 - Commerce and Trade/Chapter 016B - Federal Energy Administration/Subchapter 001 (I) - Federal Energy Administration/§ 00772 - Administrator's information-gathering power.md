@@ -6,7 +6,7 @@ The Administrator shall collect, assemble, evaluate, and analyze energy informat
 
 #### (b) Information and data to Administrator from owners or operators of facilities or business premises engaged in energy matters
 
-All persons owning or operating facilities or business premises who are engaged in any phaseof energy supply or major energy consumption shall make available to the Administrator such information and periodic reports, records, documents, and other data, relating to the purposes of this chapter, including full identification of all data and projections as to source, time, and methodology of development, as the Administrator may prescribe by regulation or order as necessary or appropriate for the proper exercise of functions under this chapter.
+All persons owning or operating facilities or business premises who are engaged in any phase of energy supply or major energy consumption shall make available to the Administrator such information and periodic reports, records, documents, and other data, relating to the purposes of this chapter, including full identification ofall data and projections as to source, time, and methodology of development, as the Administrator may prescribe by regulation or order as necessary or appropriate for the proper exercise of functions under this chapter.
 
 #### (c) General or special orders for filing reports or answers in writing to specific questions, surveys, or questionnaires; oath or otherwise; filing period
 
@@ -40,11 +40,15 @@ Any failure to make information available to the Administrator under subsection 
 
 (Pub. L. 93–275, §13, May 7, 1974, 88 Stat. 107; Pub. L. 94–385, title I, §§107, 108, Aug. 14, 1976, 90 Stat. 1129.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsecs. (g), (h). Pub. L. 94–385, §107, added subsecs. (g) and (h).
 
 Subsec. (i). Pub. L. 94–385, §108, added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

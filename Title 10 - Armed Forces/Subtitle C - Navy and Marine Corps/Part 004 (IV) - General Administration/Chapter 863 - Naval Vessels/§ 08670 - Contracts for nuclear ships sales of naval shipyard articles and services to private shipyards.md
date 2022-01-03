@@ -4,11 +4,15 @@ The conditions set forth in section 2208(j)(1)(B) of this title and subsections 
 
 (Added Pub. L. 106–65, div. A, title X, §1016(a), Oct. 5, 1999, 113 Stat. 744, §7300; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(c)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–261; renumbered §8670, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7300 of this title as this section.
 
 <b>2000</b>—Pub. L. 106–398 substituted "section 2563" for "section 2553".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

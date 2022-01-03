@@ -26,6 +26,8 @@ Any person subpoenaed under this section shall have the right to make a record o
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -44,7 +46,7 @@ Subsec. (b). Pub. L. 102–558, §142(1), (2), redesignated subsec. (c) as (b) a
 
 Subsec. (c). Pub. L. 102–558, §142(2), (3), redesignated subsec. (d) as (c) and substituted "$10,000" for "$1,000". Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 102–558, §142(2), (4), redesignated subsec. (e) as (d) and struck out second undesignated par. which read as follows: "All information obtained by the Office of Price Stabilization under this section,as amended, and not made public prior to April 30, 1953, shall be deemed confidential and shall not be published or disclosed, either to the public or to another Federal agency except the Congress or any duly authorized committee thereof, and except the Department of Justice for such use as it may deem necessary in the performance of its functions, unless the President determines that the withholding thereof is contrary to the interests of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both." Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 102–558, §142(2), (4), redesignated subsec. (e) as (d) and struck out second undesignated par. which read as follows: "All information obtained by the Office of Price Stabilization under this section, as amended, and not made public prior to April 30, 1953, shall be deemed confidential and shall not be published or disclosed, either to the public or to another Federal agency except the Congress or any duly authorized committee thereof, and except the Department of Justice for such use as it may deem necessary in the performance of its functions, unless the President determines that the withholding thereof is contrary to the interests of the national defense, and any person willfully violating this provision shall, upon conviction, be fined not more than $10,000 or imprisoned for not more than one year, or both." Former subsec. (d) redesignated (c).
 
 Subsecs. (e), (f). Pub. L. 102–558, §142(2), (5), redesignated subsec. (f) as (e) and substituted "subpoenaed" for "subpenaed". Former subsec. (e) redesignated (d).
 
@@ -56,6 +58,8 @@ Subsecs. (e), (f). Pub. L. 102–558, §142(2), (5), redesignated subsec. (f) as
 
 <b>1951</b>—Subsec. (a). Act July 31, 1951, made it clear that President has authority to administer oaths and affirmations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
 Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as a note under section 4502 of this title.
@@ -63,6 +67,8 @@ Amendment by Pub. L. 102–558 deemed to have become effective Mar. 1, 1992, see
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

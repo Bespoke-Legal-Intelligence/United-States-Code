@@ -24,7 +24,7 @@ Proper garnishee for particular property.—
 
 &emsp;&emsp;(A) If the property consists of a right to or share in the stock of an association or corporation, or interests or profits therein, for which a certificate of stock or other negotiable instrument is not outstanding, the corporation, or the president or treasurer of the association shall be the garnishee.
 
-&emsp;&emsp;(B) If the property consists of an interest in a partnership interest, any partner otherthan the debtor shall be the garnishee on behalf of the partnership.
+&emsp;&emsp;(B) If the property consists of an interest in a partnership interest, any partner other than the debtor shall be the garnishee on behalf of the partnership.
 
 &emsp;&emsp;(C) If the property or a debt is evidenced by a negotiable instrument for the payment of money, a negotiable document of title or a certificate of stock of an association or corporation, the instrument, document, or certificate shall be treated as property capable of delivery and the person holding it shall be the garnishee, except that—
 
@@ -98,7 +98,7 @@ Priorities.—Judicial orders and garnishments for the support of a person shall
 
 Accounting.—(A) While a writ of garnishment is in effect under this section, the United States shall give an annual accounting on the garnishment to the judgment debtor and the garnishee.
 
-&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 days after such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
+&emsp;(B) Within 10 days after the garnishment terminates, the United States shall give a cumulative written accounting to the judgment debtor and garnishee of all property it receives under a writ of garnishment. Within 10 daysafter such accounting is received, the judgment debtor or garnishee may file a written objection to the accounting and a request for hearing. The party objecting shall state grounds for the objection. The court shall hold a hearing on the objection within 10 days after the court receives the request for a hearing, or as soon thereafter as is practicable.
 
 &emsp;(10)
 

@@ -28,9 +28,11 @@ The report required under subsection (a) shall be submitted in unclassified form
 
 (Pub. L. 115–232, div. A, title XVII, §1765, Aug. 13, 2018, 132 Stat. 2232.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This subchapter, referred to in subsec. (a), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
+This subchapter, referred to in subsec. (a), was in the original "this part", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L.115–232, set out as a Short Title note under section 4801 of this title and Tables.
 
 Section 4817 of this title, referred to in subsec. (a)(8), was in the original "section 1759", and was translated as meaning section 1758 of Pub. L. 115–232, which relates to requirements to identify and control the export of emerging and foundational technologies and is classified to section 4817 of this title, to reflect the probable intent of Congress.
 

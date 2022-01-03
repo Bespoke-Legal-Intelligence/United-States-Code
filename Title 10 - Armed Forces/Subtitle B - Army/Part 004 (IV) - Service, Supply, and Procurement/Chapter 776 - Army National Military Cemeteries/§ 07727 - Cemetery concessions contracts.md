@@ -24,6 +24,8 @@ Concession Contract Defined.—In this section, the term "concession contract" m
 
 (Added Pub. L. 113–66, div. A, title V, §585(a), Dec. 26, 2013, 127 Stat. 777, §4727; renumbered §7727, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7727 to 7730 were renumbered sections 8897 to 8900 of this title, respectively.
@@ -31,6 +33,8 @@ Prior sections 7727 to 7730 were renumbered sections 8897 to 8900 of this title,
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4727 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

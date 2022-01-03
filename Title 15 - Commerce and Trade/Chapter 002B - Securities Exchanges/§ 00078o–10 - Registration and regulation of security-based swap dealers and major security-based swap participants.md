@@ -24,7 +24,7 @@
 
 #### (B) Continual reporting
 
-&emsp;&emsp;A person that is registered as a security-based swap dealer or major security-based swap participant shall continue to submit to the Commission reports that contain such information pertaining to the business of the person as the Commission may require.
+&emsp;&emsp;A person that is registered as a security-based swap dealer or major security-basedswap participant shall continue to submit to the Commission reports that contain such information pertaining to the business of the person as the Commission may require.
 
 #### (3) Expiration
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;(A) establish a duty for a security-based swap dealer or major security-based swap participant to verify that any counterparty meets the eligibility standards for an eligible contract participant;
 
-&emsp;&emsp;(B) require disclosure by the security-based swap dealer or major security-based swap participant to any counterparty to the transaction (other than a security-basedswap dealer, major security-based swap participant, security-based swap dealer, or major security-based swap participant) of—
+&emsp;&emsp;(B) require disclosure by the security-based swap dealer or major security-based swap participant to any counterparty to the transaction (other than a security-based swap dealer, major security-based swap participant, security-based swap dealer, or major security-based swap participant) of—
 
 &emsp;&emsp;&emsp;(i) information about the material risks and characteristics of the security-based swap;
 
@@ -502,6 +502,8 @@ Each registered security-based swap dealer and major security-based swap partici
 
 (June 6, 1934, ch. 404, title I, §15F, as added Pub. L. 111–203, title VII, §764(a), July 21, 2010, 124 Stat. 1784; amended Pub. L. 114–1, title III, §302(b), Jan. 12, 2015, 129 Stat. 28.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (e)(3)(B)(ii), (j)(5)(A), (6), (k)(2)(E), (3)(A)(i), and (l)(1)(B), (C), was in the original "this title", and this chapter, referred to in subsec. (h)(3)(D), (5)(B), was in the original "this Act". See References in Text note set out under section 78a of this title.
@@ -515,6 +517,8 @@ Subtitle B of the Wall Street Transparency and Accountability Act of 2010, refer
 #### Amendments
 
 <b>2015</b>—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

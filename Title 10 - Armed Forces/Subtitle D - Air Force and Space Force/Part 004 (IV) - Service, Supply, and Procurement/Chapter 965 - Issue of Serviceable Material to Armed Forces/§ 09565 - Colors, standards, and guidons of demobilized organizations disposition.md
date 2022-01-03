@@ -38,6 +38,8 @@ Mar. 4, 1921, ch. 166, §2, 41 Stat. 1438.
 
 In subsection (a), the words "Any which were used during their service by such organizations and" are omitted as surplusage. The first 15 words of the last sentence are substituted for 5:202 (1st 45 words of 2d sentence). The words "the Quartermaster General" are omitted, since the functions which, for the Army, are assigned by statute to subordinate officers of the Army, are, for the Air Force, assigned to the Secretary of the Air Force.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §923(e)(5)(A), inserted "or the Space Force" after "organizations of the Air Force" in introductory provisions.

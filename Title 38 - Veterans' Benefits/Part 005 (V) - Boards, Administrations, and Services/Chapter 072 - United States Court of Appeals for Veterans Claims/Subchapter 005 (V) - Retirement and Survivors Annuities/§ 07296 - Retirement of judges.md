@@ -67,7 +67,7 @@
 
 (B) If such a cost-of-living adjustment would (but for this subparagraph) result in the retired pay of a retired judge being in excess of the annual rate of pay in effect for judges of the Court as provided in section 7253(e) of this title, such adjustment may be made only in such amount as results in the retired pay of the retired judge being equal to that annual rate of pay (as in effect on the effective date of such adjustment).
 
-(g)(1) A judge who becomes permanently disabled and as a result of that disability is unableto perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
+(g)(1) A judge who becomes permanently disabled and as a result of that disability is unable to perform the duties of the office shall certify to the President in writing that such permanent disability exists. If the chief judge retires for such a disability, the retirement of the chief judge shall not take effect until concurred in by the President. If any other judge retires for such a disability, the chief judge shall furnish to the President a certificate of disability signed by the chief judge.
 
 (2) Whenever the President finds that a judge has become permanently disabled and as a result of that disability is unable to perform the duties of the office, the President shall declare that judge to be retired. Before a judge may be retired under this paragraph, the judge shall be provided with a full specification of the reasons for the retirement and an opportunity to be heard.
 
@@ -97,7 +97,7 @@
 
 (j) A judge who makes an election under subsection (d) of this section shall deposit, for service on the Court performed before the election for which contributions may be made under this section, an amount equal to 1 percent of the salary received for the first years, not exceeding 15 years, of that service. Retired pay may not be allowed until a deposit required by this subsection has been made.
 
-(k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit to individual accounts in the name of each judge from whom such amounts are received.
+(k) The amounts deducted and withheld under subsection (i) of this section, and the amounts deposited under subsection (j) of this section, shall be deposited in the Court of Appeals for Veterans Claims Retirement Fund for credit toindividual accounts in the name of each judge from whom such amounts are received.
 
 (Added Pub. L. 101–94, title I, §101(a), Aug. 16, 1989, 103 Stat. 617, §4096; renumbered §7296 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–82, §5(c)(1), Aug. 6, 1991, 105 Stat. 376; Pub. L. 102–198, §7(c)(4)(D), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 105–368, title V, §512(a)(1), Nov. 11, 1998, 112 Stat. 3341; Pub. L. 106–117, title X, §§1022, 1035(2), Nov. 30, 1999, 113 Stat. 1592, 1595; Pub. L. 107–103, title VI, §602, Dec. 27, 2001, 115 Stat. 999; Pub. L. 110–389, title VI, §603(b)(1), (2), Oct. 10, 2008, 122 Stat. 4177, 4178.)
 

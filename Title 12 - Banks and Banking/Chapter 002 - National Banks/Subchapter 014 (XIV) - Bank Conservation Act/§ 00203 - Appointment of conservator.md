@@ -48,7 +48,7 @@ The Comptroller may, without notice or hearing, replace a conservator with anoth
 
 The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
-This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 4305 of Title 50, War and National Defense, and classified as a note under section 4305 of Title 50.
+This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to section 4305 of Title50, War and National Defense, and classified as a note under section 4305 of Title 50.
 
 Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, §206(b), (o), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under section 51b–1 of this title.
 
@@ -64,11 +64,11 @@ Section 51d of this title was repealed by act June 30, 1947, ch. 166, title II, 
 
 Amendment by Pub. L. 102–242 effective 1 year after Dec. 19, 1991, see section 133(g) of Pub. L. 102–242, set out as a note under section 191 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Exception as to Transfer of Functions
 
 Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
-
-#### <b>Executive Documents</b>
 
 #### Conservators of State Banks
 

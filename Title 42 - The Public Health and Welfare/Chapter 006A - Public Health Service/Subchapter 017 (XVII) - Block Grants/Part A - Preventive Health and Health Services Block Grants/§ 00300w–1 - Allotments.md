@@ -42,7 +42,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 &emsp;(A) receives a request from the governing body of an Indian tribe or tribal organization within any State that funds under this part be provided directly by the Secretary to such tribe or organization, and
 
-&emsp;(B) determines that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this part,
+&emsp;(B) determines that the members of such tribe or tribal organization would be betterserved by means of grants made directly by the Secretary under this part,
 
 > the Secretary shall reserve from amounts which would otherwise be allotted to such State under subsection (a) for the fiscal year the amount determined under paragraph (2).
 
@@ -52,7 +52,7 @@ To the extent that all the funds appropriated under section 300w of this title f
 
 (4) In order for an Indian tribe or tribal organization to be eligible for a grant for a fiscal year under this subsection, it shall submit to the Secretary a plan for such fiscal year which meets such criteria as the Secretary may prescribe.
 
-(5) The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in section 5304(b) and (c) <sup>2</sup> of title 25.
+(5) The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in section 5304(b) and (c) <sup>1</sup> of title 25.
 
 #### (e) Report on equitable distribution of available funds
 
@@ -68,6 +68,8 @@ The Secretary shall conduct a study for the purpose of devising a formula for th
 
 (July 1, 1944, ch. 373, title XIX, §1902, as added Pub. L. 97–35, title IX, §901, Aug. 13, 1981, 95 Stat. 535.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 247b–1 of this title, referred to in subsec. (a)(2)(D), was in the original a reference to section 401 of the Health Services and Centers Amendments of 1978, Pub. L. 95–626, which was repealed effective Oct. 1, 1981, by Pub. L. 97–35, title IX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561. Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887, enacted section 317A of act July 1, 1944, which is classified to section 247b–1 of this title.
@@ -82,11 +84,11 @@ Sections 300d–1, 300d–2, and 300d–3 of this title, referred to in subsec. 
 
 Section 5304 of title 25, referred to in subsec. (d)(5), has been amended, and subsecs. (b) and (c) of section 5304 no longer define the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in part as a note under section 300w of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

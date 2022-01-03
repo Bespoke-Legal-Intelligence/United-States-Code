@@ -54,13 +54,15 @@ The Secretary shall provide financial assistance under this part—
 
 #### (c) Pro rata reductions
 
-The Secretary shall have the authority to reduce, on a pro rata basis, the amounts due to passenger air carriers and contractors under subsection (a) in order to address any shortfall in assistance that would otherwise be provided under such subsection.
+The Secretary shall have the authority to reduce, on a pro rata basis, the amounts due to passenger air carriers and contractors under subsection (a) in order to address any shortfallin assistance that would otherwise be provided under such subsection.
 
 #### (d) Audits
 
 The Inspector General of the Department of the Treasury shall audit certifications made under subsection (a).
 
 (Pub. L. 116–260, div. N, title IV, §403, Dec. 27, 2020, 134 Stat. 2053.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

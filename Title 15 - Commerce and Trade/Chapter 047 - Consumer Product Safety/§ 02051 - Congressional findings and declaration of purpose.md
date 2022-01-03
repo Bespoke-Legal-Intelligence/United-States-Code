@@ -26,6 +26,8 @@
 
 (Pub. L. 92–573, §2, Oct. 27, 1972, 86 Stat. 1207.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Pub. L. 110–314, title II, §239(a), Aug. 14, 2008, 122 Stat. 3076, provided that:
@@ -68,7 +70,7 @@ Pub. L. 95–319, §1, July 11, 1978, 92 Stat. 386, provided: "That this Act \[e
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: "This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069,2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the 'Consumer Product Safety Commission Improvements Act of 1976'."
+Pub. L. 94–284, §1, May 11, 1976, 90 Stat. 503, provided that: "This Act \[amending sections 1193, 1203, 1204, 1261, 1471, 1476, 2052, 2053, 2056, 2058 to 2060, 2064, 2068, 2069, 2071 to 2073, 2075, 2076, 2078, 2079, and 2081 of this title, and section 1114 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 1193, 1261, and 2080 of this title\] may be cited as the 'Consumer Product Safety Commission Improvements Act of 1976'."
 
 #### Short Title
 

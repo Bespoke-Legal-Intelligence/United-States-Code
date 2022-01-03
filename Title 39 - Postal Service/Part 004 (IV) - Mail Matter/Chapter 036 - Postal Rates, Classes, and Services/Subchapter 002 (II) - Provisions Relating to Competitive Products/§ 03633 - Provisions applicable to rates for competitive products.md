@@ -12,7 +12,7 @@ In General.—The Postal Regulatory Commission shall, within 18 months after the
 
 (b)
 
-Review of Minimum Contribution.—Five years after the date of enactment of this section, and every 5 years thereafter, the Postal Regulatory Commission shall conduct a review to determine whether the institutional costs contribution requirement under subsection (a)(3)should be retained in its current form, modified, or eliminated. In making its determination, the Commission shall consider all relevant circumstances, including the prevailing competitive conditions in the market, and the degree to which any costs are uniquely or disproportionately associated with any competitive products.
+Review of Minimum Contribution.—Five years after the date of enactment of this section, and every 5 years thereafter, the Postal Regulatory Commission shall conduct a review to determine whether the institutional costs contribution requirement under subsection (a)(3) should be retained in its current form, modified, or eliminated. In making its determination, the Commission shall consider all relevant circumstances, including the prevailing competitive conditions in the market, and the degree to which any costs are uniquely or disproportionately associated with any competitive products.
 
 (Added Pub. L. 109–435, title II, §202, Dec. 20, 2006, 120 Stat. 3206.)
 

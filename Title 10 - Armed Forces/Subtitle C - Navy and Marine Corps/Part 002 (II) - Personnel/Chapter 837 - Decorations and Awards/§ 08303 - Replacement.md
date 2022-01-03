@@ -20,6 +20,8 @@ Feb. 4, 1919, ch. 14, §6 (proviso), 40 Stat. 1056; renumbered §8 and amended A
 
 The words "Secretary of the Navy may replace" are substituted for the words <i>"Provided</i>, That such replacement shall be made only in those cases where".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8303, acts Aug. 10, 1956, ch. 1041, 70A Stat. 514; Aug. 21, 1957, Pub. L. 85–155, title III, §301(13), 71 Stat. 388; July 12, 1960, Pub. L. 86–616, §6(3), 74 Stat. 391; June 28, 1962, Pub. L. 87–509, §4(a), 76 Stat. 121; Nov. 8, 1967, Pub. L. 90–130, §1(27)(D), 81 Stat. 382, related to effect of failure of a promotion-list officer considered for promotion to grade of captain, major, or lieutenant colonel under section 8299 of this title to be recommended for promotion, which officer was to be known as a "deferred officer", prior to repeal by Pub. L. 96–513, title II, §204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981. See sections 631 and 632 of this title.
@@ -29,6 +31,8 @@ A prior section 8303, acts Aug. 10, 1956, ch. 1041, 70A Stat. 514; Aug. 21, 1957
 <b>2018</b>—Pub. L. 115–232 renumbered section 6253 of this title as this section.
 
 <b>2001</b>—Pub. L. 107–107 substituted "stolen, lost, or destroyed" for "lost or destroyed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

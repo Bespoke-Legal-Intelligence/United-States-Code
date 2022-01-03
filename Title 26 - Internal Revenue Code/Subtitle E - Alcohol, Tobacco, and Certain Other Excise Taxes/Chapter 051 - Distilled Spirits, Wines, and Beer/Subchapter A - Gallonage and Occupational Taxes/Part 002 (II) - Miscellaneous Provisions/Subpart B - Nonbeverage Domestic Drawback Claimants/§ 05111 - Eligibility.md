@@ -4,6 +4,8 @@ Any person using distilled spirits on which the tax has been determined, in the 
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1345, §5131; amended Pub. L. 94–455, title XIX, §1905(a)(11), Oct. 4, 1976, 90 Stat. 1819; Pub. L. 100–203, title X, §10512(d), Dec. 22, 1987, 101 Stat. 1330–448; Pub. L. 103–465, title I, §136(b), Dec. 8, 1994, 108 Stat. 4841; renumbered §5111 and amended Pub. L. 109–59, title XI, §11125(a)(2), (b)(3)(A), (C), Aug. 10, 2005, 119 Stat. 1953, 1954.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5111, added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1340; amended Pub. L. 94–455, title XIX, §1905(b)(3)(B), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 100–203, title X, §10512(b), Dec. 22, 1987, 101 Stat. 1330–448, related to tax on wholesale dealers in liquors or beer, prior to repeal by Pub. L. 109–59, title XI, §11125(a)(1)(C), (c), Aug. 10, 2005, 119 Stat. 1953, 1957, effective July 1, 2008, but inapplicable to taxes imposed for periods before such date.
@@ -24,6 +26,8 @@ Subsec. (a). Pub. L. 109–59, §11125(a)(2), struck out ", on payment of a spe
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "produced in a domestic registered distillery or industrial alcohol plant and withdrawn from bond, or using distilled spirits withdrawn from the bonded premises of a distilled spirits plant," after "Any person using distilled spirits".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Amendment by Pub. L. 109–59 effective July 1, 2008, but inapplicable to taxes imposed for periods before such date, see section 11125(c) of Pub. L. 109–59, set out as a note under section 5002 of this title.
@@ -38,7 +42,7 @@ Pub. L. 100–203, title X, §10512(h), Dec. 22, 1987, 101 Stat. 1330–450, pro
 
 "(1)
 
-In general.—The amendments made by this section \[enacting sections 5081, 5276, and 5731 of this title and amending this section and sections 5091, 5121, 5131, 5691, and 5801 of this title\] shall take effect on January 1, 1988.
+In general.—The amendments made by this section \[enacting sections 5081, 5276, and 5731 of this titleand amending this section and sections 5091, 5121, 5131, 5691, and 5801 of this title\] shall take effect on January 1, 1988.
 
 "(2)
 

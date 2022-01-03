@@ -14,7 +14,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(iii) a third-party provider certified under section 3842(e) of this title (including a certified rangeland professional);
 
-&emsp;&emsp;(B) assesses rangeland or cropland function and describes conservation activities to enhance the economic and ecological management of that land; and
+&emsp;&emsp;(B) assesses rangeland or cropland function and describes conservation activities toenhance the economic and ecological management of that land; and
 
 &emsp;&emsp;(C) can be incorporated into a comprehensive planning document required by the Secretary for enrollment in a conservation program of the Department of Agriculture.
 
@@ -122,13 +122,15 @@ In this subpart:
 
 (Pub. L. 99–198, title XII, §1240A, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, §2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, §4(a), title II, §2502, June 18, 2008, 122 Stat. 1664, 1786; Pub. L. 113–79, title II, §2202, Feb. 7, 2014, 128 Stat. 729; Pub. L. 115–334, title II, §§2301(d)(1)(E), 2303, Dec. 20, 2018, 132 Stat. 4554, 4555.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Organic Foods Production Act of 1990, referred to in par. (4), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 
@@ -157,6 +159,8 @@ Pars. (9), (10). Pub. L. 115–334, §2303(7), added pars. (9) and (10).
 <b>2014</b>—Pars. (2) to (6). Pub. L. 113–79 redesignated pars. (3) to (6) as (2) to (5), respectively, inserted "established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.)" after "national organic program" in par. (2), and struck out former par. (2). Text of former par. (2) read as follows: "The term 'national organic program' means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.)."
 
 <b>2008</b>—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined "beginning farmer or rancher", "eligible land", "land management practice", "livestock", "practice", and "structural practice".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

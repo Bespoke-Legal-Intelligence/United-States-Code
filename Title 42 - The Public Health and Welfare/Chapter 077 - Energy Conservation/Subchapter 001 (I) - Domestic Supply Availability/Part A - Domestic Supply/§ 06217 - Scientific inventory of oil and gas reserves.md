@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy,shall conduct an inventory of all onshore Federal lands. The inventory shall identify—
+The Secretary of the Interior, in consultation with the Secretaries of Agriculture and Energy, shall conduct an inventory of all onshore Federal lands. The inventory shall identify—
 
 &emsp;(1) the United States Geological Survey estimates of the oil and gas resources underlying these lands;
 
@@ -30,6 +30,8 @@ Using the inventory, the Secretary of Energy shall make periodic assessments of 
 
 (Pub. L. 106–469, title VI, §604, Nov. 9, 2000, 114 Stat. 2041; Pub. L. 109–58, title III, §364(a), Aug. 8, 2005, 119 Stat. 723.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Energy Act of 2000, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
@@ -38,11 +40,13 @@ Section was enacted as part of the Energy Act of 2000, and not as part of the En
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–58, §364(a)(1)(A), struck out "reserve" before "estimates" and "and" after the semicolon.
 
-Subsec. (a)(2), (3). Pub. L. 109–58, §364(a)(1)(B), added pars. (2) and (3) and struck out former par. (2) which read as follows: "the extent and nature of any restrictions or impediments to the development of such resources."
+Subsec. (a)(2), (3). Pub. L. 109–58, §364(a)(1)(B), added pars. (2) and (3) and struck out former par. (2) whichread as follows: "the extent and nature of any restrictions or impediments to the development of such resources."
 
 Subsec. (b). Pub. L. 109–58, §364(a)(2), substituted "resource" for "reserve" and "publicly" for "publically".
 
 Subsec. (d). Pub. L. 109–58, §364(a)(3), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: "There are authorized to be appropriated such sums as may be necessary to implement this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -28,6 +28,8 @@ May 29, 1954, ch. 249, §§2(d) (as applicable to §14(a)), 14(a), 68 Stat. 157,
 
 The words, "The Secretary concerned may \* \* \* retire" are substituted for the words "may \* \* \* and in the discretion of the Secretary, be retired". 10:600l(a) (last 14 words) and 34:430(a) (last 14 words) are omitted as covered by section 1315 of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 511 of the Career Compensation Act of 1949, referred to in text, is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under section 580 of this title.
@@ -35,6 +37,8 @@ Section 511 of the Career Compensation Act of 1949, referred to in text, is sect
 #### Amendments
 
 <b>1962</b>—Pub. L. 87–649 substituted "section 511 of the Career Compensation Act of 1949, as amended (70 Stat. 114)" for "section 311 of title 37."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 
@@ -126,7 +130,7 @@ Funding.—(1) Notwithstanding section 1463 of title 10, United States Code, and
 
 "(2) In each fiscal year in which the Secretary of a military department retires a member of the Armed Forces under the authority of this section, the Secretary shall credit to a subaccount (which the Secretary shall establish) within the appropriation account for that fiscal year for pay and allowances of active duty members of the Armed Forces under the jurisdiction of that Secretary such amount as is necessary to pay the retired pay payable to such member for the entire initial period (determined under paragraph (3)) of the entitlement of that member to receive retired pay.
 
-"(3) The initial period applicable under paragraph (2) in the case of a retired member referred to in that paragraph is the number of years (and any fraction of a year) that is equal to the difference between 20 yearsand the number of years (and any fraction of a year) of service that were completed by the member (as computed under the provision of law used for determining the member's years of service for eligibility to retirement) before being retired under the authority of this section.
+"(3) The initial period applicable under paragraph (2) in the case of a retired member referred to in that paragraph is the number of years (and any fraction of a year) that is equal to the difference between 20 years and the number of years (and any fraction of a year) of service that were completed by the member (as computed under the provision of law used for determining the member's years of service for eligibility to retirement) before being retired under the authority of this section.
 
 "(4) The Secretary shall pay the member's retired pay for such initial period out of amounts credited to the subaccount under paragraph (2). The amounts so credited with respect to that member shall remain available for payment for that period.
 

@@ -32,9 +32,13 @@ A person that is connected in any capacity with the Secretary in the administrat
 
 (Pub. L. 89–136, title VI, §605, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3614.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3215, Pub. L. 89–136, title VII, §705, Aug. 26, 1965, 79 Stat. 573, related to separability of provisions, prior to repeal by Pub. L. 105–393, §102(b)(3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

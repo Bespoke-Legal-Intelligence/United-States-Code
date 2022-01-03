@@ -10,7 +10,7 @@ The actuarial report of a plan required by subsection (a) shall be prepared and 
 
 &emsp;(1) a description of the funding method and actuarial assumptions used to determine costs under the plan,
 
-&emsp;(2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section433, or the accumulated funding deficiency determined under section 431, to zero,
+&emsp;(2) a certification of the contribution necessary to reduce the minimum required contribution determined under section 430, the accumulated funding deficiency under section 433, or the accumulated funding deficiency determined under section 431, to zero,
 
 &emsp;(3) a statement—
 
@@ -32,6 +32,8 @@ The actuarial report and statement required by this section shall be filed at th
 
 (Added Pub. L. 93–406, title II, §1033(a), Sept. 2, 1974, 88 Stat. 947; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 109–280, title I, §114(f), Aug. 17, 2006, 120 Stat. 855; Pub. L. 113–97, title II, §202(c)(10), Apr. 7, 2014, 128 Stat. 1138; Pub. L. 115–141, div. U, title IV, §401(a)(265), Mar. 23, 2018, 132 Stat. 1197.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (d), is classified to section 1204 of Title 29, Labor.
@@ -49,6 +51,8 @@ Subsec. (b)(3)(B). Pub. L. 113–97, §202(c)(10)(B), substituted "430(h)(1), 43
 Subsec. (b)(3)(B). Pub. L. 109–280, §114(f)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "the requirements of section 412(c) (relating to reasonable actuarial assumptions) have been complied with,".
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

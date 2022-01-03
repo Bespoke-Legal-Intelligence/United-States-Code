@@ -44,7 +44,7 @@ Armed Forces Workplace and Gender Relations Surveys.—The Armed Forces Workplac
 
 (d)
 
-When Surveys Required.—(1) The Armed Forces Workplace and Gender Relations Surveys of the Active Duty and the Armed Forces Workplace and Gender Relations Survey of the Reserve Components shall each be conducted once every two years. The surveys may be conductedwithin the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
+When Surveys Required.—(1) The Armed Forces Workplace and Gender Relations Surveys of the Active Duty and the Armed Forces Workplace and Gender Relations Survey of the Reserve Components shall each be conducted once every two years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
 
 (2) The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The surveys may be conducted within the same year or in two separate years, and shall be conducted in a manner designed to reduce the burden of the surveys on members of the armed forces.
 
@@ -63,6 +63,8 @@ Reports to Congress.—Upon the completion of a survey under this section, the S
 Inapplicability to Coast Guard.—This section does not apply to the Coast Guard.
 
 (Added Pub. L. 103–337, div. A, title V, §554(a)(1), Oct. 5, 1994, 108 Stat. 2773, §451; renumbered §481 and amended Pub. L. 104–201, div. A, title V, §571(c)(1), title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2532, 2687; Pub. L. 107–314, div. A, title V, §561(a)(1), Dec. 2, 2002, 116 Stat. 2553; Pub. L. 112–239, div. A, title V, §570, Jan. 2, 2013, 126 Stat. 1752; Pub. L. 116–92, div. A, title V, §591(a), Dec. 20, 2019, 133 Stat. 1414; Pub. L. 116–283, div. A, title V, §552(a), Jan. 1, 2021, 134 Stat. 3631.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -85,6 +87,8 @@ Subsec. (d). Pub. L. 112–239, §570(b)(2), added subsec. (d) and struck out fo
 <b>1996</b>—Pub. L. 104–201, §1121(a), renumbered section 451 of this title as this section.
 
 Pub. L. 104–201, §571(c)(1), substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" as section catchline and amended text generally, substituting provisions requiring an annual survey and report for provisions requiring a biennial survey and report.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

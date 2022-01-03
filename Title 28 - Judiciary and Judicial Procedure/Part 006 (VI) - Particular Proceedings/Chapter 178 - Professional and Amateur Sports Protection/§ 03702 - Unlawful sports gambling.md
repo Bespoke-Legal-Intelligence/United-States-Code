@@ -14,7 +14,7 @@ It shall be unlawful for—
 
 #### Constitutionality
 
-For information regarding constitutionality of par. (1) of this section, as added by section 2(a) of Pub. L. 102–559, see Government Publishing Office, The Constitution of the United States of America: Analysis and Interpretation, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States, 2018 Supplement, prepared by the Congressional Research Service.
+For information regarding constitutionality of par. (1) of this section, as added by section 2(a) of Pub. L. 102–559, see note under section 3701 of this title.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

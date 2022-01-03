@@ -28,7 +28,7 @@ Depositions.—(1) In a proceeding or investigation, the Secretary, Administrato
 
 (5) If the laws of a foreign country allow, the testimony of a witness in that country may be taken by deposition—
 
-&emsp;(A) by a consular officer or an individual commissioned by the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration or agreed on by the parties by written stipulation filed with the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration; or
+&emsp;(A) by a consular officer or an individual commissioned by the Secretary, Administrator of the Transportation Security Administration, or Administrator of the FederalAviation Administration or agreed on by the parties by written stipulation filed with the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration; or
 
 &emsp;(B) under letters rogatory issued by a court of competent jurisdiction at the request of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.
 
@@ -204,13 +204,15 @@ Subsection (a)(1) is substituted for "sign and issue subpenas", "shall have the 
 
 In subsection (b), the words "petition a court of the United States to enforce the subpena" are substituted for "invoke the aid of any court of the United States in requiring attendance and testimony of witnesses and the production of such books, papers, and documents under the provisions of this section" in 49 App.:1484(c) to eliminate unnecessary words. The words "to enforce a subpena under this section" are substituted for "in case of contumacy or refusal to obey a subpena issued to any person, issue an order requiring such person to appear before the Board (and produce books, papers, or documents if so ordered) and give evidence touching the matter in question" in 49 App.:1484(d) to eliminate unnecessary words.
 
-In subsection (c)(1), the words "pending before it, at any stage of such proceeding or investigation" in 49 App.:1484(e) are omitted as surplus. The words "a person to give" are substituted for "to be taken", and the words "to produce records" are added, for clarity and consistency. The last sentence is substituted for 49 App.:1484(e) (last sentence) for clarity and consistency and to eliminate unnecessary words.
+In subsection (c)(1), the words "pending before it, at any stage of such proceeding or investigation" in 49 App.:1484(e) are omitted as surplus. The words "a person to give" are substituted for "to be taken", and the words "to produce records" are added, for clarity and consistency. The last sentence is substituted for 49App.:1484(e) (last sentence) for clarity and consistency and to eliminate unnecessary words.
 
 In subsection (c)(4), the words "shall be cautioned . . . to testify the whole truth, and shall be carefully examined" in 49 App.:1484(f) are omitted as surplus. The words "shall be under oath" are substituted for "shall be required to swear (or affirm, if he so requests)" for consistency and because of 1:1.
 
 In subsection (d), the words "that the witness and individual would have been" are added for clarity and consistency in the revised title and with other titles of the Code. The words "fees, charges, or" and "on the subject" are omitted as surplus.
 
 In subsection (e), the words "duly . . . for such purpose" are omitted as surplus. The words "employee appointed under section 3105 of title 5" are substituted for "examiner", and the words "subpena witnesses" are substituted for "sign and issue subpenas", for consistency in the revised title and with other titles of the Code. The words "In all cases heard by an examiner or a single member" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

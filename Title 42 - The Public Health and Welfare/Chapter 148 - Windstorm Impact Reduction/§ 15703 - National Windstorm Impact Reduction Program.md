@@ -10,7 +10,7 @@ There is established the National Windstorm Impact Reduction Program, the purpos
 
 &emsp;The National Institute of Standards and Technology shall have the primary responsibility for planning and coordinating the Program. In carrying out this paragraph, the Director shall—
 
-&emsp;&emsp;(A) ensure that the Program includes the necessary components to promote the implementation of windstorm risk reduction measures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
+&emsp;&emsp;(A) ensure that the Program includes the necessary components to promote the implementation of windstorm risk reductionmeasures by Federal, State, and local governments, national standards and model building code organizations, architects and engineers, and others with a role in planning and constructing buildings and lifelines;
 
 &emsp;&emsp;(B) support the development of performance-based engineering tools, and work with appropriate groups to promote the commercial application of such tools, including through wind-related model building codes, voluntary standards, and construction best practices;
 
@@ -56,7 +56,7 @@ There is established the National Windstorm Impact Reduction Program, the purpos
 
 #### (1) In general
 
-&emsp;The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to becomplementary to, and avoid duplication of, other public and private hazard reduction efforts.
+&emsp;The Program shall consist of three primary mitigation components: improved understanding of windstorms, windstorm impact assessment, and windstorm impact reduction. The components shall be implemented through activities such as data collection and analysis, risk assessment, outreach, technology transfer, and research and development. To the extent practicable, research activities authorized under this chapter shall be peer-reviewed, and the components shall be designed to be complementary to, and avoid duplication of, other public and private hazard reduction efforts.
 
 #### (2) Understanding of windstorms
 
@@ -150,6 +150,8 @@ The Director of the National Institute of Standards and Technology, the Director
 
 (Pub. L. 108–360, title II, §204, Oct. 25, 2004, 118 Stat. 1676; Pub. L. 114–52, §3, Sept. 30, 2015, 129 Stat. 496.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1)(C), was in the original "this Act" and was translated as reading "this title", to reflect the probable intent of Congress. See below.
@@ -165,6 +167,8 @@ Subsec. (c). Pub. L. 114–52, §3(1), (2), redesignated subsec. (d) as (c) and 
 Subsecs. (d), (e). Pub. L. 114–52, §3(2), (3), added subsecs. (d) and (e), redesignated former subsec. (d) as (c), and struck out former subsec. (e) which required an implementation plan from the Interagency Working Group.
 
 Subsec. (f). Pub. L. 114–52, §3(2), struck out subsec. (f) which required biennial reports on the status of the windstorm impact reduction program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

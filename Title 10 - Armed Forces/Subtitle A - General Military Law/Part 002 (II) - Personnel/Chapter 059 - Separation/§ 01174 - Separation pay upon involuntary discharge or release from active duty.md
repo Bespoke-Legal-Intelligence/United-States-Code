@@ -12,7 +12,7 @@ Regular Officers.—(1) A regular officer who is discharged under chapter 36 of 
 
 (b)
 
-Regular Enlisted Members.—(1) A regular enlisted member of an armed force who is discharged involuntarily or as the result of the denial of the reenlistment of the member and who has completed six or more, but less than 20, years of active service immediately before that discharge is entitled to separation pay computedunder subsection (d) unless the Secretary concerned determines that the conditions under which the member is discharged do not warrant payment of such pay.
+Regular Enlisted Members.—(1) A regular enlisted member of an armed force who is discharged involuntarily or as the result of the denial of the reenlistment of the member and who has completed six or more, but less than 20, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d) unless the Secretary concerned determines that the conditions under which the member is discharged do not warrant payment of such pay.
 
 (2) Separation pay of an enlisted member shall be computed under paragraph (1) of subsection (d), except that such pay shall be computed under paragraph (2) of such subsection in the case of a member who is discharged under criteria prescribed by the Secretary of Defense.
 
@@ -70,7 +70,7 @@ Coordination With Other Separation or Severance Pay Benefits.—A period for whi
 
 Coordination With Retired or Retainer Pay and Disability Compensation.—(1) A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary of Defense shall specify, taking into account the financial ability of the member to pay and avoiding the imposition of undue financial hardship on the member and member's dependents, until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay so paid.
 
-(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
+(2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal incometax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
 
 (i)
 
@@ -95,6 +95,8 @@ Regulations; Crediting of Other Commissioned Service.—(1) The Secretary of Def
 (2) Active commissioned service in the National Oceanic and Atmospheric Administration or the Public Health Service shall be credited as active service in the armed forces for the purposes of this section.
 
 (Added Pub. L. 96–513, title I, §109(c), Dec. 12, 1980, 94 Stat. 2870; amended Pub. L. 97–22, §10(b)(10)(A), July 10, 1981, 95 Stat. 137; Pub. L. 98–94, title IX, §§911(a), (b), 923(b), title X, §1007(c)(2), Sept. 24, 1983, 97 Stat. 639, 640, 643, 662; Pub. L. 98–498, title III, §320(a)(2), Oct. 19, 1984, 98 Stat. 2308; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 101–510, div. A, title V, §501(a)–(d), (g), (h), Nov. 5, 1990, 104 Stat. 1549–1551; Pub. L. 102–190, div. A, title XI, §1131(6), Dec. 5, 1991, 105 Stat. 1506; Pub. L. 103–160, div. A, title V, §501(a), Nov. 30, 1993, 107 Stat. 1644; Pub. L. 103–337, div. A, title V, §560(c), Oct. 5, 1994, 108 Stat. 2778; Pub. L. 104–201, div. A, title VI, §653(a), Sept. 23, 1996, 110 Stat. 2583; Pub. L. 105–85, div. A, title X, §1073(a)(22), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title V, §502(a), Oct. 17, 1998, 112 Stat. 2003; Pub. L. 106–398, §1 \[\[div. A\], title V, §508(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–107; Pub. L. 108–375, div. A, title V, §501(c)(2), Oct. 28, 2004, 118 Stat. 1874; Pub. L. 110–317, §3, Aug. 29, 2008, 122 Stat. 3527; Pub. L. 111–32, title III, §318(a), June 24, 2009, 123 Stat. 1873; Pub. L. 111–383, div. A, title X, §1075(b)(17), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840; Pub. L. 116–283, div. A, title IX, §924(b)(1)(K), (3)(S), Jan. 1, 2021, 134 Stat. 3820, 3821.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -189,6 +191,8 @@ Subsec. (g)(2). Pub. L. 98–94, §911(b), inserted ", other than section 1212 
 Subsec. (i). Pub. L. 98–94, §1007(c)(2), designated existing provisions as par. (1) and added par. (2).
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–22 substituted "after September 14, 1981," for "on or after the effective date of the Defense Officer Personnel Management Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

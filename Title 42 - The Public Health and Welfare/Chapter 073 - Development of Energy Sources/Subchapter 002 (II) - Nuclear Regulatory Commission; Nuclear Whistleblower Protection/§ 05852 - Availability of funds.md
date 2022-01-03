@@ -38,6 +38,8 @@ Subsections (a), (b), and (c) of this section shall apply to fiscal year 1999 an
 
 (Pub. L. 105–245, title V, §506, Oct. 7, 1998, 112 Stat. 1856.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 663 of Public Law 104–208, referred to in subsec. (d), is section 663 of Pub. L. 104–208, div. A, title I, §101(f) \[title VI\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–383, which is set out as a note under section 5597 of Title 5, Government Organization and Employees.
@@ -47,6 +49,8 @@ This Act, referred to in subsec. (d), is Pub. L. 105–245, Oct. 7, 1998, 112 St
 #### Codification
 
 Section was enacted as part of the Energy and Water Development Appropriations Act, 1999, and not as part of the Energy Reorganization Act of 1974 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Similar Provisions
 

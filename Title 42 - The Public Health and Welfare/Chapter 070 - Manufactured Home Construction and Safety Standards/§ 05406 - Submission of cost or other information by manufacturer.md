@@ -6,7 +6,7 @@ Whenever any manufacturer is opposed to any action of the Secretary under sectio
 
 #### (b) Conditions upon availability to public of submitted information
 
-Such information shall be available to the public unless the manufacturer establishes that it contains a trade secret or that disclosure of any portion of such information would put the manufacturer at a substantial competitive disadvantage. Notice of the availability of such information shall be published promptly in the Federal Register. If the Secretary determines that any portion of such information contains a trade secret or that the disclosure of any portion of such information would put the manufacturer at a substantial competitive disadvantage, such portion may be disclosed to the public only in such manner as to preserve the confidentiality of such trade secret or in such combined or summary form so as not to disclose the identity of any individual manufacturer, except that any such information may be disclosed to otherofficers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this subsection shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
+Such information shall be available to the public unless the manufacturer establishes that it contains a trade secret or that disclosure of any portion of such information would put the manufacturer at a substantial competitive disadvantage. Notice of the availability of such information shall be published promptly in the Federal Register. If the Secretary determines that any portion of such information contains a trade secret or that the disclosure of any portion of such information would put the manufacturer at a substantial competitive disadvantage, such portion may be disclosed to the public only in such manner as to preserve the confidentiality of such trade secret or in such combined or summary form so as not to disclose the identity of any individual manufacturer, except that any such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. Nothing in this subsection shall authorize the withholding of information by the Secretary or any officer or employee under his control from the duly authorized committees of the Congress.
 
 #### (c) "Cost information" defined
 
@@ -17,6 +17,8 @@ For purposes of this section, "cost information" means information with respect 
 Nothing in this section shall be construed to restrict the authority of the Secretary to obtain or require submission of information under any other provision of this chapter.
 
 (Pub. L. 93–383, title VI, §607, Aug. 22, 1974, 88 Stat. 703; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §606, Dec. 27, 2000, 114 Stat. 3009.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Pub. L. 106–569, §606(2), inserted ", the consensus committee," after "permi
 Subsec. (e). Pub. L. 106–569, §606(3), redesignated subsec. (e) as (d).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–399 substituted "manufactured home" for "mobile home".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

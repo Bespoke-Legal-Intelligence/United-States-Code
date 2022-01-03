@@ -58,7 +58,7 @@ The Secretary shall carry out this section through agreements entered into with 
 
 #### (d) Diversification of research
 
-The Secretary shall conduct projects and studies under this section in areas that are broadly representative of the diversity of United Statesagricultural production, including production on family farms, mixed-crop livestock farms and dairy operations.
+The Secretary shall conduct projects and studies under this section in areas that are broadly representative of the diversity of United States agricultural production, including production on family farms, mixed-crop livestock farms and dairy operations.
 
 #### (e) On-farm research
 
@@ -93,6 +93,8 @@ The Secretary shall ensure that research projects conducted under this section a
 &emsp;An indemnity payment under paragraph (1) shall be subject to any agreement between a project grantee and operator entered into prior to the initiation of such project.
 
 (Pub. L. 101–624, title XVI, §1621, Nov. 28, 1990, 104 Stat. 3734; Pub. L. 104–127, title VIII, §860(c)(2), Apr. 4, 1996, 110 Stat. 1173.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

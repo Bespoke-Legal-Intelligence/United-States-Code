@@ -22,7 +22,7 @@
 | [4118\.](%C2%A7%2004118%20-%20Regulations.md) | Regulations. |
 | [4119\.](%C2%A7%2004119%20-%20Training%20for%20employees%20under%20the%20Office%20of%20the%20Architect%20of%20the%20Capitol%20and%20the%20Botanic%20Garden.md) | Training for employees under the Office of the Architect of the Capitol and the Botanic Garden. |
 | [4120\.](%C2%A7%2004120%20-%20Training%20for%20employees%20of%20the%20Capitol%20Police.md) | Training for employees of the Capitol Police. |
-| [4121\.](%C2%A7%2004121%20-%20Specific%20training%20programs.md) | Specific training programs. |
+| [4121\.](%C2%A7%2004121%20-%20Specific%20training%20programs.md) | Specific training programs.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,7 +38,7 @@
 
 <b>1995</b>—Pub. L. 104–66, title II, §2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 "Agency review of training needs; annual program reports".
 
-<b>1994</b>—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 "Non-Government facilities;amount of training limited", substituted "Restriction on degree training" for "Non-Government facilities; restrictions" in item 4107, and struck out item 4114 "Non-Government facilities; review of training programs".
+<b>1994</b>—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 "Non-Government facilities; amount of training limited", substituted "Restriction on degree training" for "Non-Government facilities; restrictions" in item 4107, and struck out item 4114 "Non-Government facilities; review of training programs".
 
 <b>1982</b>—Pub. L. 97–346, §1(b), Oct. 15, 1982, 96 Stat. 1647, added item 4119.
 

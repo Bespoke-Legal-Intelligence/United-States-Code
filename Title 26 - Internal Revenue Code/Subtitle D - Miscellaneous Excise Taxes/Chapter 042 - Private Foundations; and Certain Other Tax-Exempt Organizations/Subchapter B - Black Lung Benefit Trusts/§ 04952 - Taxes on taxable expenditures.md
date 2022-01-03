@@ -8,7 +8,7 @@
 
 #### (2) On the trustee
 
-&emsp;There is hereby imposed on the agreement of any trustee of such a trust to the making ofan expenditure, knowing that it is a taxable expenditure, a tax equal to 2½ percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
+&emsp;There is hereby imposed on the agreement of any trustee of such a trust to the making of an expenditure, knowing that it is a taxable expenditure, a tax equal to 2½ percent of the amount thereof, unless such agreement is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by the trustee who agreed to the making of the expenditure.
 
 #### (b) Additional taxes
 
@@ -18,7 +18,7 @@
 
 #### (2) On the trustee
 
-&emsp;In any case in which an additional tax is imposed by paragraph (1), if a trustee refused to agree to a part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the taxable expenditure. The tax imposed by this paragraph shall be paid by any trustee who refused to agree to part or all of the correction.
+&emsp;In any case in which an additional tax is imposed by paragraph (1), if a trustee refused to agree to a part or all of the correction, there is hereby imposed a tax equal to 50 percent of the amount of the taxable expenditure. Thetax imposed by this paragraph shall be paid by any trustee who refused to agree to part or all of the correction.
 
 #### (c) Joint and several liability
 
@@ -44,11 +44,15 @@ For purposes of this section, the term "taxable expenditure" means any amount pa
 
 (Added Pub. L. 95–227, §4(c)(1), Feb. 10, 1978, 92 Stat. 21; amended Pub. L. 96–596, §2(a)(1)(I), (2)(G), Dec. 24, 1980, 94 Stat. 3469, 3471.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(I), substituted "taxable period" for "correction period".
 
 Subsec. (e)(2). Pub. L. 96–596, §2(a)(2)(G), substituted provision defining taxable period as the period beginning with the date on which the taxable expenditure occurs and ending on the earlier of the date of mailing a notice of deficiency with respect to the tax imposed by subsec. (a)(1) of this section under section 6212 of this title or the date on which the tax imposed by subsec. (a)(1) of this section is assessed for provision defining correction period as the period beginning with the date on which the taxable expenditure occurs and ending 90 days after the date of mailing a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines reasonable and necessary to bring about the correction of the taxable expenditure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

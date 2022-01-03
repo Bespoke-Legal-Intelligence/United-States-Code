@@ -64,7 +64,7 @@ For purposes of this section—
 
 #### (2) Adequate stated interest
 
-&emsp;For purposes of this section, there is adequate stated interest with respect to any debtinstrument if the stated principal amount for such debt instrument is less than or equal to the imputed principal amount of such debt instrument determined under subsection (b).
+&emsp;For purposes of this section, there is adequate stated interest with respect to any debt instrument if the stated principal amount for such debt instrument is less than or equal to the imputed principal amount of such debt instrument determined under subsection (b).
 
 #### (3) Exceptions
 
@@ -196,6 +196,8 @@ For purposes of this section—
 
 (Added Pub. L. 98–369, div. A, title I, §41(a), July 18, 1984, 98 Stat. 538; amended Pub. L. 99–121, title I, §§101(a)(1), (b), (c), 102(b), Oct. 11, 1985, 99 Stat. 505, 506, 508; Pub. L. 99–514, title XVIII, §1803(a)(14)(A), Oct. 22, 1986, 100 Stat. 2797; Pub. L. 101–239, title VII, §7721(c)(11), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 104–188, title I, §1704(t)(78), Aug. 20, 1996, 110 Stat. 1891; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 115–141, div. U, title IV, §401(a)(179), Mar. 23, 2018, 132 Stat. 1193.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(3)(B)(i). Pub. L. 115–141 substituted "section 6662(d)(2)(C)(ii)" for "section 6662(d)(2)(C)(iii)".
@@ -224,6 +226,8 @@ Subsec. (d)(2). Pub. L. 99–121, §101(b)(2), amended par. (2) generally. Prior
 
 Subsec. (e). Pub. L. 99–121, §101(c), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
@@ -250,7 +254,7 @@ Regulatory authority to establish lower rate.—Section 1274(d)(1)(D) of the Int
 
 #### Effective Date
 
-Section applicable to taxable years ending after July 18, 1984, and applicable to sales or exchanges after Dec. 31, 1984, but not applicable to any sale or exchange pursuant to a written contract which was binding on Mar. 1, 1984, and at all times thereafter before the sale or exchange, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
+Section applicable to taxable years ending after July 18, 1984, and applicable to sales or exchanges after Dec. 31, 1984, but not applicable to any sale or exchange pursuant to a written contract which was binding on Mar.1, 1984, and at all times thereafter before the sale or exchange, see section 44 of Pub. L. 98–369, set out as a note under section 1271 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

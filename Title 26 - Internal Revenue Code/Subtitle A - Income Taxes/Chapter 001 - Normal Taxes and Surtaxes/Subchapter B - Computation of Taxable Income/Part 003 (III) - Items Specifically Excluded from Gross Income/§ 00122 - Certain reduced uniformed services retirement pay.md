@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-In the case of a member or former member of the uniformed services of the United States, gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code.
+In the case of a member or former member of the uniformed services of the United States,gross income does not include the amount of any reduction in his retired or retainer pay pursuant to the provisions of chapter 73 of title 10, United States Code.
 
 #### (b) Special rule
 
@@ -20,6 +20,8 @@ In the case of a member or former member of the uniformed services of the United
 
 (Added Pub. L. 89–365, §1(a)(1), Mar. 8, 1966, 80 Stat. 32; amended Pub. L. 93–406, title II, §§2005(c)(10), 2007(a), (b)(1), Sept. 2, 1974, 88 Stat. 992, 994; Pub. L. 113–295, div. A, title II, §221(a)(21), Dec. 19, 2014, 128 Stat. 4040.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 122 was renumbered section 140 of this title.
@@ -33,6 +35,8 @@ A prior section 122 was renumbered section 140 of this title.
 Subsec. (b)(2). Pub. L. 93–406, §2005(c)(10), substituted "72(n)" for "72(o)".
 
 Subsec. (b)(2)(B). Pub. L. 93–406, §2007(b)(1), inserted reference to section 1452(d) of title 10.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

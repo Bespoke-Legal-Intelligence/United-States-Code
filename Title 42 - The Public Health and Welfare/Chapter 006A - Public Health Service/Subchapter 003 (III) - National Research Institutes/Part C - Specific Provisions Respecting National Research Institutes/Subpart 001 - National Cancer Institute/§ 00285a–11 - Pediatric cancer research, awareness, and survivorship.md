@@ -164,7 +164,9 @@ Nothing in this section shall be construed as being inconsistent with the goals 
 
 For purposes of carrying out this section and section 280e–3a of this title, there are authorized to be appropriated $30,000,000 for each of fiscal years 2019 through 2023. Funds appropriated under this subsection shall remain available until expended.
 
-(July 1, 1944, ch. 373, title IV, §417E, as added Pub. L. 110–285, §4(a), July 29, 2008, 122 Stat. 2629; amended Pub. L. 115–180, title I, §§101, 102(b), title II, §202, June 5, 2018, 132 Stat. 1383, 1386, 1389.)
+(July 1, 1944, ch. 373, title IV, §417E, as added Pub. L. 110–285, §4(a), July 29, 2008, 122 Stat. 2629; amended Pub. L. 115–180, title I, §§101, 102(b),title II, §202, June 5, 2018, 132 Stat. 1383, 1386, 1389.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -189,6 +191,8 @@ Subsec. (b). Pub. L. 115–180, §202, added subsec. (b) and struck out former s
 Subsec. (c). Pub. L. 115–180, §101(3), struck out "(42 U.S.C. 202 note)" before period at end.
 
 Subsec. (d). Pub. L. 115–180, §102(b), substituted "2019 through 2023" for "2009 through 2013" and struck out "Such authorization of appropriations is in addition to the authorization of appropriations established in section 282a of this title with respect to such purpose." before "Funds appropriated".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reporting on Childhood Cancer Research Projects
 

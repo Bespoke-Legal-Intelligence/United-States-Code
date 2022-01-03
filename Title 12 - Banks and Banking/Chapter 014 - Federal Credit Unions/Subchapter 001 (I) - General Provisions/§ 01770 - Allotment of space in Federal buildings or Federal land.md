@@ -24,7 +24,7 @@ Pub. L. 103–160, §2854(1), as amended by Pub. L. 103–337, struck out "at le
 
 <b>1983</b>—Pub. L. 97–457 inserted "of" after "including installation".
 
-<b>1982</b>—Pub. L. 97–320 inserted definition of "services", and provided that where there is an agreement for the payment of costs associated with the provision of space or services, nothing in title 31 or any other provision of law shall be construed to prohibit or restrict payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
+<b>1982</b>—Pub. L. 97–320 inserted definition of "services", and provided that where there is an agreement for thepayment of costs associated with the provision of space or services, nothing in title 31 or any other provision of law shall be construed to prohibit or restrict payment by reimbursement to the miscellaneous receipts or other appropriate account of the Treasury.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

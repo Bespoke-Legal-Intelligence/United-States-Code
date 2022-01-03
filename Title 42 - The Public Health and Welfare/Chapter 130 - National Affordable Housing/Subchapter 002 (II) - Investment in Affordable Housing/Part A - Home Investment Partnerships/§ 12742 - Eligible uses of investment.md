@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the jurisdiction's housing needs cannot be met through rehabilitation of the available stock.
 
-> &emsp;The Secretary shall not restrict a participating jurisdiction's choice of rehabilitation, substantial rehabilitation, new construction, reconstruction, acquisition, or other eligible housing use unless such restriction is explicitly authorized under section 12753(2) of this title.
+> &emsp;The Secretary shall not restrict a participating jurisdiction's choice of rehabilitation, substantial rehabilitation, new construction,reconstruction, acquisition, or other eligible housing use unless such restriction is explicitly authorized under section 12753(2) of this title.
 
 #### (3) Tenant-based rental assistance
 
@@ -62,7 +62,7 @@ Funds made available under this part may not be used to—
 
 &emsp;(1) defray any administrative cost of a participating jurisdiction that exceed the amount specified under subsection (c),
 
-&emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8\[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
+&emsp;(2) provide tenant-based rental assistance for the special purposes of the existing section 8 \[42 U.S.C. 1437f\] program, including replacing public housing that is demolished or disposed of, preserving federally assisted housing, assisting in the disposition of housing owned or held by the Secretary, preventing displacement from rental rehabilitation projects, or extending or renewing tenant-based assistance under section 1437f of this title,
 
 &emsp;(3) provide non-Federal matching contributions required under any other Federal program,
 
@@ -76,7 +76,7 @@ Funds made available under this part may not be used to—
 
 #### (1) In general
 
-&emsp;The Secretary shall establish limits on the amount of funds under this part that may be invested on a per unit basis. For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs. The limits shall be established on a market-by-market basis, with adjustments made for number of bedrooms, and shall reflect the actual cost of new construction, reconstruction, or rehabilitation of housing that meets applicable State and local housing and building codes and the cost of land, including necessary site improvements. Adjustments shall be made annually to reflect inflation. Separate limits may be set for different eligible activities.
+&emsp;The Secretary shall establish limits on the amount of funds under this part that may be invested on a per unit basis. For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715l(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs. The limits shall be established on a market-by-market basis, with adjustments made for number of bedrooms, and shall reflect the actual cost of new construction, reconstruction, or rehabilitation of housing that meets applicable State and localhousing and building codes and the cost of land, including necessary site improvements. Adjustments shall be made annually to reflect inflation. Separate limits may be set for different eligible activities.
 
 #### (2) Criteria
 
@@ -103,6 +103,8 @@ The requirements of section 3545(d) of this title shall be satisfied by a certif
 A participating jurisdiction may not use more than 5 percent of its allocation under this part for the payment of operating expenses for community housing development organizations.
 
 (Pub. L. 101–625, title II, §212, Nov. 28, 1990, 104 Stat. 4097; Pub. L. 102–550, title II, §§203(a), 204–207(b), (d), title X, §1012(e), Oct. 28, 1992, 106 Stat. 3752–3754, 3905; Pub. L. 105–276, title V, §522(b)(5), Oct. 21, 1998, 112 Stat. 2565.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -143,6 +145,8 @@ Pub. L. 102–550, §206, inserted after first sentence of par. (1) "For multifa
 Subsecs. (e), (f). Pub. L. 102–550, §207(b)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
 Subsec. (g). Pub. L. 102–550, §207(d), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

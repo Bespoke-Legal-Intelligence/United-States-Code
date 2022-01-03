@@ -18,7 +18,7 @@ In this section, the term "eligible entity" means—
 
 #### (1) In general
 
-&emsp;Subject to the requirements of this section and paragraph (2), on request of any eligible entity the Secretary may negotiate and enter into an agreement on behalf of the United States to fund the design, study, and construction of an aquatic ecosystem restoration and protection project in a Reclamation State if the Secretary determines that the project is likely to improve the health of fisheries, wildlife or aquatic habitat, including throughhabitat restoration and improved fish passage via the removal or bypass of barriers to fish passage.
+&emsp;Subject to the requirements of this section and paragraph (2), on request of any eligible entity the Secretary may negotiate and enter into an agreement on behalf of the United States to fund the design, study, and construction of an aquatic ecosystem restoration and protection project in a Reclamation State if the Secretary determines that the project is likely to improve the health of fisheries, wildlife or aquatic habitat, including through habitat restoration and improved fish passage via the removal or bypass of barriers to fish passage.
 
 #### (2) Exception
 
@@ -60,7 +60,7 @@ In this section, the term "eligible entity" means—
 
 &emsp;&emsp;&emsp;&emsp;(II) to ensure compliance with any applicable international and Tribal treaties and agreements and interstate compacts and agreements;
 
-&emsp;&emsp;&emsp;(iv) is in the financial interest of the United States based on a determination that the project advances Federal objectives including environmental enhancement objectives in a Reclamation State; and
+&emsp;&emsp;&emsp;(iv) is in the financial interest of the United States based on a determinationthat the project advances Federal objectives including environmental enhancement objectives in a Reclamation State; and
 
 &emsp;&emsp;&emsp;(v) complies with all applicable Federal and State law, including environmental laws; and
 

@@ -36,7 +36,7 @@ Report on Lease Consideration.—(1) Each year, as part of the annual budget sub
 
 #### References in Text
 
-The date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of2012, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
+The date of the enactment of the Honoring America's Veterans and Caring for Camp Lejeune Families Act of 2012, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 112–154, which was approved Aug. 6, 2012.
 
 #### Prior Provisions
 

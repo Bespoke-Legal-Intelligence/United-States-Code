@@ -4,7 +4,7 @@ The Congress finds that—
 
 &emsp;(1) recent developments in Russia and the other independent states of the former Soviet Union present an historic opportunity for a transition to a peaceful and stable international order and the integration of the independent states of the former Soviet Union into the community of democratic nations;
 
-&emsp;(2) the entire international community has a vital interest in the success of this transition, and the dimension of the problems now faced in the independent states of the former SovietUnion makes it imperative for donor countries and institutions to provide the expertise and support necessary to ensure continued progress on economic and political reforms;
+&emsp;(2) the entire international community has a vital interest in the success of this transition, and the dimension of the problems now faced in the independent states of the former Soviet Union makes it imperative for donor countries and institutions to provide the expertise and support necessary to ensure continued progress on economic and political reforms;
 
 &emsp;(3) the United States is especially well-positioned because of its heritage and traditions to make a substantial contribution to this transition by building on current technical cooperation, medical, and food assistance programs, by assisting in the development of democratic institutions, and by fostering conditions that will encourage the United States business community to engage in trade and investment;
 
@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) reciprocal commitments by the governments of the independent states to work toward the creation of democratic institutions and an environment hospitable to foreign investment based upon the rule of law, including negotiation of bilateral and multilateral agreements on open trade and investment, adoption of commercial codes, establishment of transparency in regulatory and other governmental decision making, and timely payment of obligations carried over from previous governmental entities; and
 
-&emsp;(7) trade and investment opportunities in the independent states of the former Soviet Union will generate employment and other economic benefits for the United States as the economies of the independent states of the former Soviet Union begin to realize their enormous potential as both customers and suppliers.
+&emsp;(7) trade and investment opportunities in the independent states of the former SovietUnion will generate employment and other economic benefits for the United States as the economies of the independent states of the former Soviet Union begin to realize their enormous potential as both customers and suppliers.
 
 (Pub. L. 102–511, title I, §101, Oct. 24, 1992, 106 Stat. 3321.)
 
@@ -60,7 +60,7 @@ Findings.—Congress finds the following:
 
 &emsp;"(8) On July 6, 2011, Russian President Dimitry Medvedev's Human Rights Council announced the results of its independent investigation into the death of Sergei Magnitsky. The Human Rights Council concluded that Sergei Magnitsky's arrest and detention was illegal; he was denied access to justice by the courts and prosecutors of the Russian Federation; he was investigated by the same law enforcement officers whom he had accused of stealing Hermitage Fund companies and illegally obtaining a fraudulent $230,000,000 tax refund; he was denied necessary medical care in custody; he was beaten by 8 guards with rubber batons on the last day of his life; and the ambulance crew that was called to treat him as he was dying was deliberately kept outside of his cell for one hour and 18 minutes until he was dead. The report of the Human Rights Council also states the officials falsified their accounts of what happened to Sergei Magnitsky and, 18 months after his death, no officials had been brought to trial for his false arrest or the crime he uncovered. The impunity continued in April 2012, when Russian authorities dropped criminal charges against Larisa Litvinova, the head doctor at the prison where Magnitsky died.
 
-&emsp;"(9) The systematic abuse of Sergei Magnitsky, including his repressive arrest and torture in custody by officers of the Ministry of the Interior of the Russian Federation that Mr. Magnitsky had implicated in the embezzlement of funds from the Russian Treasury and the misappropriation of 3 companies from hisclient, Hermitage Capital Management, reflects how deeply the protection of human rights is affected by corruption.
+&emsp;"(9) The systematic abuse of Sergei Magnitsky, including his repressive arrest and torture in custody by officers of the Ministry of the Interior of the Russian Federation that Mr. Magnitsky had implicated in the embezzlement of funds from the Russian Treasury and the misappropriation of 3 companies from his client, Hermitage Capital Management, reflects how deeply the protection of human rights is affected by corruption.
 
 &emsp;"(10) The politically motivated nature of the persecution of Mr. Magnitsky is demonstrated by—
 
@@ -592,7 +592,7 @@ In general.—Not later than 120 days after the date of the enactment of the Bel
 
 &emsp;&emsp;"(A) Expand independent radio, television, live stream, and social network broadcasting and communications in Belarus to provide news and information, particularly in the Belarusian language, that is credible, comprehensive, and accurate.
 
-&emsp;&emsp;"(B) Support the development and use of anti-censorship and circumvention technologies by theOpen Technology Fund and the Bureau of Democracy Human Rights and Labor that enable the citizens of Belarus to communicate securely and undertake internet activities without interference from the Government of Belarus.
+&emsp;&emsp;"(B) Support the development and use of anti-censorship and circumvention technologies by the Open Technology Fund and the Bureau of Democracy Human Rights and Labor that enable the citizens of Belarus to communicate securely and undertake internet activities without interference from the Government of Belarus.
 
 &emsp;&emsp;"(C) Assist efforts to overcome attempts by the Government of Belarus to disrupt internet access and block content online.
 
@@ -622,7 +622,7 @@ Application of Sanctions.—The sanctions described in subsections (c) through (
 
 Conditions.—The conditions referred to in subsection (a) are the following:
 
-&emsp;"(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs or expression, including those individuals jailed based on political beliefs or expression in connection with repression that attended the presidential election of August 9, 2020.
+&emsp;"(1) The release of individuals in Belarus who have been jailed based on political or religious beliefs or expression, including those individuals jailed basedon political beliefs or expression in connection with repression that attended the presidential election of August 9, 2020.
 
 &emsp;"(2) The withdrawal of politically motivated legal charges against all opposition activists, peaceful protesters, and independent journalists in Belarus, including politically motivated legal charges made in connection with repression that attended the presidential election of August 9, 2020.
 
@@ -678,7 +678,7 @@ Blocking of Assets and Other Prohibited Activities.—
 
 &emsp;"(1)
 
-Blocking of assets.—It is the sense of Congress that the President should block all property and interests in property, including all commercial, industrial, or public utility undertakings or entities, that, on or after the date of the enactment of theBelarus Democracy Reauthorization Act of 2006 \[Jan. 12, 2007\]—
+Blocking of assets.—It is the sense of Congress that the President should block all property and interests in property, including all commercial, industrial, or public utility undertakings or entities, that, on or after the date of the enactment of the Belarus Democracy Reauthorization Act of 2006 \[Jan. 12, 2007\]—
 
 &emsp;&emsp;"(A) are owned, in whole or in part, by the Government of Belarus, or by the senior leadership of the Government of Belarus or by any member or family member closely linked to the senior leadership of the Government of Belarus, or an official of the so-called 'Union State' with Russia, or any person who through his or her business dealings with senior leadership of the Government of Belarus derives significant financial benefit from policies or actions, including electoral fraud, human rights abuses, or corruption, that undermine or injure democratic institutions or impede the transition to democracy in Belarus; and
 
@@ -704,7 +704,7 @@ Payment of expenses.—All expenses incident to the blocking and maintenance of 
 
 &emsp;"(4)
 
-Rule of construction.—Nothing in this subsection shall be construed to prohibit any contract or other financial transaction with any private or nongovernmental organization or business in Belarus.
+Rule of construction.—Nothing in this subsection shall be construed to prohibit any contract orother financial transaction with any private or nongovernmental organization or business in Belarus.
 
 &emsp;"(5)
 
@@ -786,7 +786,7 @@ Report on Personal Assets of Alyaksandr Lukashenka.—
 
 In general.—Not later than 90 days after the date of the enactment of the Belarus Democracy, Human Rights, and Sovereignty Act of 2020 \[Dec. 27, 2020\], the Director of National Intelligence, in consultation with the Secretary of the Treasury and the Secretary of State, shall submit to the appropriate congressional committees a report describing—
 
-&emsp;&emsp;"(A) the total assets under the direct or indirect control of Alyaksandr Lukashenka, including estimated assets and known sources of income of Alyaksandr Lukashenka and his immediate familymembers, including assets, investments, bank accounts, and other business interests; and
+&emsp;&emsp;"(A) the total assets under the direct or indirect control of Alyaksandr Lukashenka, including estimated assets and known sources of income of Alyaksandr Lukashenka and his immediate family members, including assets, investments, bank accounts, and other business interests; and
 
 &emsp;&emsp;"(B) an identification of the most significant senior foreign political figures in Belarus, as determined by their closeness to Alyaksandr Lukashenka.
 
@@ -834,7 +834,7 @@ Senior leadership of the government of belarus.—The term 'senior leadership of
 
 &emsp;&emsp;&emsp;"(i) is personally and substantially involved in the suppression of freedom in Belarus, including judges, prosecutors, members of the security and intelligence services, and heads of professional associations and educational institutions; or
 
-&emsp;&emsp;&emsp;"(ii) is otherwise engaged in public corruption, electoral fraud, online censorship, or restrictions on independent media and journalists in Belarus; and
+&emsp;&emsp;&emsp;"(ii) is otherwise engaged in public corruption, electoral fraud, online censorship, or restrictionson independent media and journalists in Belarus; and
 
 &emsp;&emsp;"(C) any other individual determined by the Secretary of State (or the Secretary's designee) to be personally and substantially involved in the formulation or execution of the policies of the Government of Belarus that are in contradiction of internationally recognized human rights standards."
 

@@ -4,9 +4,11 @@
 
 (b) Whenever the face value per bushel of domestic marketing certificates for a marketing year is substantially different from the face value of domestic marketing certificates for the preceding marketing year, the Secretary is authorized to take such action as he determines necessary to facilitate the transition between marketing years. Notwithstanding any other provision of this part, such authority shall include, but shall not be limited to, the authority to sell certificates to persons engaged in the processing of wheat into food products covering such quantities of wheat, at such prices, and under such terms and conditions as the Secretary may by regulation provide. Any such certificate shall be issued by Commodity Credit Corporation.
 
-(c) The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the certificate program provided for under section 1379d of this title to a program under which no certificates are required. Notwithstanding any other provision of law, such authority shall include, but shall not be limited to the authority to exempt all or a portion of wheat or food products made therefrom in the channels of trade on July 1, 1973, from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products made therefrom at such price and under such terms and conditions as the Secretary may determine. Any such certificate shall be issued by the Commodity Credit Corporation. Nothing herein shall authorize the Secretary to require certificates on wheat processed after June 30, 1973.
+(c) The Secretary is authorized to take such action as he determines to be necessary to facilitate the transition from the certificate program provided for under section 1379d of this title to a program under which no certificates are required. Notwithstanding any other provision of law, such authority shall include, but shall not be limited to the authority to exempt all or a portion of wheat or food products made therefrom in the channels of trade on July 1,1973, from the marketing restrictions in subsection (b) of section 1379d of this title, or to sell certificates to persons owning such wheat or food products made therefrom at such price and under such terms and conditions as the Secretary may determine. Any such certificate shall be issued by the Commodity Credit Corporation. Nothing herein shall authorize the Secretary to require certificates on wheat processed after June 30, 1973.
 
 (Feb. 16, 1938, ch. 30, title III, §379g, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 629; amended Pub. L. 89–321, title V, §504(d), Nov. 3, 1965, 79 Stat. 1203; Pub. L. 91–524, title IV, §403(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(10), Aug. 10, 1973, 87 Stat. 228.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -17,6 +19,8 @@ This part, referred to in subsecs. (a) and (b), commences with section 1379a of 
 <b>1973</b>—Subsec. (c). Pub. L. 91–524, §403(b), as added by Pub. L. 93–86, added subsec. (c).
 
 <b>1965</b>—Pub. L. 89–321 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inapplicability of Section
 

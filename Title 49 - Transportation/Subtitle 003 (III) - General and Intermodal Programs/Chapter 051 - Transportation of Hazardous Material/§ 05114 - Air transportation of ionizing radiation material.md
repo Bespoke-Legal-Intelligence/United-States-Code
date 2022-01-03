@@ -2,7 +2,7 @@
 
 (a)
 
-Transporting in Air Commerce.—Material that emits ionizing radiation spontaneously may be transported on a passenger-carrying aircraft in air commerce (as defined in section 40102(a) of this title) only if the material is intended for a use in, or incident to, research or medical diagnosis or treatment and does not present an unreasonable hazard to health and safety when being prepared for, and during, transportation.
+Transporting in Air Commerce.—Material that emits ionizing radiation spontaneously may be transported on a passenger-carrying aircraft in air commerce (as defined in section 40102(a) of this title) only if the material is intended for a use in, or incident to, research or medical diagnosis or treatment and does notpresent an unreasonable hazard to health and safety when being prepared for, and during, transportation.
 
 (b)
 
@@ -41,6 +41,8 @@ Jan. 3, 1975, Pub. L. 93–633, §108, 88 Stat. 2159; Nov. 16, 1990, Pub. L. 101
 In subsection (a), the text of 49 App.:1807(a) (1st sentence) is omitted as executed. The words "or combination of materials" are omitted as surplus.
 
 In subsection (b), the words "further" and "effective" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

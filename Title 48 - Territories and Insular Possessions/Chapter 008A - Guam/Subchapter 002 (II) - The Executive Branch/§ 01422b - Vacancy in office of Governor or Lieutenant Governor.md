@@ -26,13 +26,17 @@ No additional compensation shall be paid to any person acting as Governor or Lie
 
 (Aug. 1, 1950, ch. 512, §8, 64 Stat. 387; Pub. L. 87–419, §1, Mar. 16, 1962, 76 Stat. 34; Pub. L. 90–497, §3, Sept. 11, 1968, 82 Stat. 844.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–497 designated existing provisions as subsec. (a), substituted provisions that the Lieutenant Governor have the powers of the Governor in the event of the temporary disability or temporary absence of the Governor for provisions authorizing the appointed department head to designate an acting Governor in the case of a vacancy or temporary absence of both the Governor and the Secretary of Guam, and added subsecs. (b) to (f).
 
 <b>1962</b>—Pub. L. 87–419 provided for appointment of an acting secretary under certain conditions, prescribed the powers of such secretary and proscribed additional compensation for an acting Governor or acting secretary.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–497 necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments unless otherwise provided effective Jan. 4, 1971, see section 13 of Pub. L. 90–497, set out as a note under section 1422 of this title.
+Amendment by Pub. L. 90–497 necessary to authorize the holding of an election for Governor and LieutenantGovernor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments unless otherwise provided effective Jan. 4, 1971, see section 13 of Pub. L. 90–497, set out as a note under section 1422 of this title.
 

@@ -38,6 +38,8 @@ For purposes of this section—
 
 (Added Pub. L. 100–203, title X, §10705(a), Dec. 22, 1987, 101 Stat. 1330–463.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 100–203, title X, §10705(c), Dec. 22, 1987, 101 Stat. 1330–464, provided that: "The amendments made by this section \[enacting this section\] shall apply to offers and solicitations after January 31, 1988."

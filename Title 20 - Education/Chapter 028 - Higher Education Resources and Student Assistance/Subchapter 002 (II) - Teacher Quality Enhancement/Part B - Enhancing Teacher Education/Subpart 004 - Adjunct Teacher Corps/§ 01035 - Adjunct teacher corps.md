@@ -42,7 +42,7 @@ An eligible entity that receives a grant under this section is authorized to use
 
 &emsp;&emsp;&emsp;(i) the need for, and expected benefits of using, adjunct content specialists in the schools served by the local educational agency, which may include information on the difficulty the local educational agency faces in recruiting qualified faculty in mathematics, science, and critical foreign language courses;
 
-&emsp;&emsp;&emsp;(ii) measurable objectives for the activities supported by the grant, including thenumber of adjunct content specialists the eligible entity intends to place in schools and classrooms, and the gains in academic achievement expected as a result of the addition of such specialists;
+&emsp;&emsp;&emsp;(ii) measurable objectives for the activities supported by the grant, including the number of adjunct content specialists the eligible entity intends to place in schools and classrooms, and the gains in academic achievement expected as a result of the addition of such specialists;
 
 &emsp;&emsp;&emsp;(iii) how the eligible entity will establish criteria for and recruit the most qualified individuals and public or private organizations and businesses to participate in the activities supported by the grant;
 
@@ -88,11 +88,15 @@ In this section, the term "adjunct content specialist" means an individual who�
 
 (Pub. L. 89–329, title II, §255, as added Pub. L. 110–315, title II, §201(3), Aug. 14, 2008, 122 Stat. 3161; amended Pub. L. 114–95, title IX, §9214(c)(10), Dec. 10, 2015, 129 Stat. 2164.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (k)(1). Pub. L. 114–95, §9214(c)(10)(A), added par. (1) and struck out former par. (1) which read as follows: "meets the requirements of section 7801(23)(B)(ii) of this title;".
 
 Subsec. (k)(3). Pub. L. 114–95, §9214(c)(10)(B), substituted "teacher who meets the applicable State certification and licensure requirements, including any requirements for certification obtained through alternative routes to certification, or, with regard to special education teachers, the qualifications described in section 1412(a)(14)(C) of this title" for "teacher who meets the requirements of section 7801(23) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

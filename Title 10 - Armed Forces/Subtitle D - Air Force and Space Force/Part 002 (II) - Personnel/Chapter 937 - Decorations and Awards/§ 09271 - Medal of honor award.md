@@ -24,7 +24,9 @@ Historical and Revision Notes
 
 July 9, 1918, ch. 143, (8th par. under "Ordnance Department"), 40 Stat. 870.
 
-The words "That the provisions of existing law relating to the award of medals of honor to officers, noncommissioned officers, and privates of the Army be, and they hereby are, amended so that", in the Act of July 9, 1918, ch. 143 (8th par. under "Ordnance Department"), 40 Stat. 870, are not contained in 10:1403. They are also omitted from the revised section as surplusage. The word "member" is substituted for the words "officer or enlisted man". The word "only" is omitted as surplusage. The word "award" is inserted for clarity,since the President determines the recipient of the medal in addition to presenting it.
+The words "That the provisions of existing law relating to the award of medals of honor to officers, noncommissioned officers, and privates of the Army be, and they hereby are, amended so that", in the Act of July 9, 1918, ch. 143 (8th par. under "Ordnance Department"), 40 Stat. 870, are not contained in 10:1403. They are also omitted from the revised section as surplusage. The word "member" is substituted for the words "officer or enlisted man". The word "only" is omitted as surplusage. The word "award" is inserted for clarity, since the President determines the recipient of the medal in addition to presenting it.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -33,6 +35,8 @@ The words "That the provisions of existing law relating to the award of medals o
 <b>2018</b>—Pub. L. 115–232 renumbered section 8741 of this title as this section.
 
 <b>1963</b>—Pub. L. 88–77 enlarged the authority to award the medal of honor, which was limited to those cases in which persons distinguished themselves in action involving actual conflict with an enemy, to permit its award for distinguished service while engaged in an action against an enemy of the United States, while engaged in military operations involving conflict with an opposing foreign force, or while serving with friendly foreign forces engaged in an armed conflict against an opposing armed force in which the United States is not a belligerent party.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

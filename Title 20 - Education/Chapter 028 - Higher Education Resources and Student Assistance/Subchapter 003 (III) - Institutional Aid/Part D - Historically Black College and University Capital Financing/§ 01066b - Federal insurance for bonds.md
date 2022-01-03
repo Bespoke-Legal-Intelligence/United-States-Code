@@ -74,7 +74,9 @@ Subject to subsection (c)(1) the full faith and credit of the United States is p
 
 Notwithstanding any other provision of law, a qualified bond guaranteed under this part may be sold to any party that offers terms that the Secretary determines are in the best interest of the eligible institution.
 
-(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
+(Pub. L. 89–329, title III, §343, formerly title VII, §723, as added Pub. L. 102–325, title VII, §704,July 23, 1992, 106 Stat. 743; amended Pub. L. 103–382, title III, §360C, Oct. 20, 1994, 108 Stat. 3972; renumbered title III, §343, and amended Pub. L. 105–244, title III, §§301(a)(3), (4), (c)(5), 306(b), Oct. 7, 1998, 112 Stat. 1636, 1637, 1646; Pub. L. 110–315, title III, §§314(b), 320(2), Aug. 14, 2008, 122 Stat. 3181, 3187.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -112,9 +114,11 @@ Subsec. (e). Pub. L. 105–244, §306(b)(2), added subsec. (e).
 
 <b>1994</b>—Subsec. (b)(8)(A). Pub. L. 103–382, §360C(1)(A), inserted before semicolon ", with each eligible institution required to maintain in the escrow account an amount equal to 10 percent of the outstanding principal of all loans made to such institution under this part".
 
-Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on thebasis of the amount of each such institution's deposit;".
+Subsec. (b)(8)(B)(ii). Pub. L. 103–382, §360C(1)(B), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "when all bonds under this part are retired or canceled, shall be divided among the eligible institutions making deposits into such account on the basis of the amount of each such institution's deposit;".
 
 Subsec. (b)(11). Pub. L. 103–382, §360C(2), substituted "conditions" for "regulations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

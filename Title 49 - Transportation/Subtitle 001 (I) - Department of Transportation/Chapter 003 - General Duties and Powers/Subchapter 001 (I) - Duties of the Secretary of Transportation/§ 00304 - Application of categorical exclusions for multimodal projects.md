@@ -6,7 +6,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Cooperating authority.—The term "cooperating authority" means a Department of Transportation operating administration or secretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
+Cooperating authority.—The term "cooperating authority" means a Department of Transportation operating administration orsecretarial office that has expertise but is not the lead authority with respect to a proposed multimodal project.
 
 &emsp;(2)
 
@@ -70,6 +70,8 @@ In subsection (a)(4), the word "ensure" is substituted for "assure" as being mor
 
 In subsection (b), the words "The Secretaries shall report on April 1 of each year" are substituted for "They shall, within one year after the effective date of the Act, and annually thereafter, report" to omit executed words and to specify the date of April 1 because the President prescribed April 1, 1967, as the effective date of the Department of Transportation Act (Pub. L. 89–670, 80 Stat. 931) by Executive Order No. 11340, March 30, 1967 (32 F.R. 5443). The word "consider" is substituted for "determine" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (a)(2) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -104,9 +106,11 @@ Use of categorical exclusion.—In a case described in paragraph (1), the 1 or m
 
 2012–Pub. L. 112–141 amended section generally. Prior to amendment, section related to joint activities with the Secretary of Housing and Urban Development.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

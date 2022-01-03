@@ -4,3 +4,9 @@ The Congress hereby finds and declares that the construction and maintenance of 
 
 (Pub. L. 88–657, §1, Oct. 13, 1964, 78 Stat. 1089.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title
+
+Pub. L. 88–657, Oct. 13, 1964, 78 Stat. 1089, which enacted sections 532 et seq. of this title, is popularly known as the "Forest Roads and Trails Act".
+

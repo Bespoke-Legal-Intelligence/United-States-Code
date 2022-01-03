@@ -4,6 +4,8 @@ The Trust shall terminate September 30, 1994.
 
 (Pub. L. 101–625, title III, §310, Nov. 28, 1990, 104 Stat. 4133; Pub. L. 102–550, title I, §182(a), Oct. 28, 1992, 106 Stat. 3736.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–550 substituted "September 30, 1994" for "on September 30, 1993".

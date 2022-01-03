@@ -4,9 +4,13 @@ When title to all the lands within boundaries to be determined by the Secretary 
 
 (May 30, 1934, ch. 371, §1, 48 Stat. 816.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of March 1, 1929 (45 Stat. 1443), referred to in text, is act Mar. 1, 1929, ch. 446, 45 Stat. 1443, which is not classified to the Code.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Miccosukee Reserved Area
 
@@ -64,7 +68,7 @@ Miccosukee reserved area; mra.—
 
 &emsp;&emsp;"(A)
 
-In general.—The term 'Miccosukee Reserved Area' or 'MRA' means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled 'Miccosukee Reserved Area' numberedNPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
+In general.—The term 'Miccosukee Reserved Area' or 'MRA' means, notwithstanding any other provision of law and subject to the limitations specified in section 6(d) of this Act, the portion of the Everglades National Park described in subparagraph (B) that is depicted on the map entitled 'Miccosukee Reserved Area' numbered NPS–160/41,038, and dated September 30, 1998, copies of which shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Miami-Dade County and the Miccosukee Tribe of Indians of Florida.
 
 &emsp;&emsp;"(B)
 
@@ -170,7 +174,7 @@ Prevention of degradation; abatement.—
 
 Prevention of degradation.—Pursuant to the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall prevent and abate degradation of the quality of surface or groundwater that is released into other parts of the Park, as follows:
 
-&emsp;&emsp;&emsp;"(i) With respect to water entering the MRA which fails to meet applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), actions of the Tribe shall not further degrade water quality.
+&emsp;&emsp;&emsp;"(i) With respect to water entering the MRA which fails to meet applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33U.S.C. 1251 et seq.), actions of the Tribe shall not further degrade water quality.
 
 &emsp;&emsp;&emsp;"(ii) With respect to water entering the MRA which meets applicable water quality standards approved by the Administrator under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), the Tribe shall not cause the water to fail to comply with applicable water quality standards.
 
@@ -426,7 +430,7 @@ In general.—The Secretary may use all or any part of the MRA lands to the exte
 
 &emsp;&emsp;"(B)
 
-Secretarial authority.—The Secretary may use lands referred to in subparagraph (A) either under an agreement with the tribal chairman or upon an order of the United States district court for the district in which the MRA is located, upon petition by the Secretary and finding by the court that—
+Secretarial authority.—The Secretary may use lands referred to in subparagraph (A) either under an agreement with the tribal chairman or upon an order of the United States district court for the district in which the MRA is located, uponpetition by the Secretary and finding by the court that—
 
 &emsp;&emsp;&emsp;"(i) the proposed actions of the Secretary are necessary; and
 
@@ -462,7 +466,7 @@ United states held harmless.—
 
 &emsp;&emsp;"(A)
 
-In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (includingan officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
+In general.—Subject to subparagraph (B) with respect to any tribal member, tribal employee, tribal contractor, tribal enterprise, or any person residing within the MRA, notwithstanding any other provision of law, the United States (including an officer, agent, or employee of the United States), shall not be liable for any action or failure to act by the Tribe (including an officer, employee, or member of the Tribe), including any failure to perform any of the obligations of the Tribe under this Act.
 
 &emsp;&emsp;"(B)
 

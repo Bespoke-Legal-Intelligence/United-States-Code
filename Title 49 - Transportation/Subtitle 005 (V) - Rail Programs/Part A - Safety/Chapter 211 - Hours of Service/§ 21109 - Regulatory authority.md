@@ -30,7 +30,7 @@ Considerations.—In issuing regulations under subsection (a) the Secretary shal
 
 Time Limits.—
 
-&emsp;(1) If the Secretary determines that regulations are necessary under subsection (a), the Secretary shall first request that the Railroad Safety Advisory Committee develop proposed regulations and, if the Committee accepts the task, provide the Committee with a reasonable time period in which to complete the task.
+&emsp;(1) If the Secretary determines that regulations are necessary under subsection (a), the Secretary shall first request that the RailroadSafety Advisory Committee develop proposed regulations and, if the Committee accepts the task, provide the Committee with a reasonable time period in which to complete the task.
 
 &emsp;(2) If the Secretary requests that the Railroad Safety Advisory Committee accept the task of developing regulations under subsection (b) and the Committee accepts the task, the Committee shall reach consensus on the rulemaking within 18 months after accepting the task. If the Committee does not reach consensus within 18 months after the Secretary makes the request, the Secretary shall prescribe appropriate regulations within 18 months.
 
@@ -58,7 +58,35 @@ Duty Call Defined.—In this section the term "duty call" means a telephone call
 
 (Added Pub. L. 110–432, div. A, title I, §108(e)(1), Oct. 16, 2008, 122 Stat. 4864.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsecs. (b), (d)(3), and (e)(1), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Completion of Hours of Service and Fatigue Studies
+
+Pub. L. 117–58, div. B, title II, §22408, Nov. 15, 2021, 135 Stat. 739, provided that:
+
+"(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 15, 2021\], the Administrator of the Federal Railroad Administration shall commence the pilot programs required under subparagraphs (A) and (B) of section 21109(e)(1) of title 49, United States Code.
+
+"(b)
+
+Consultation.—The Federal Railroad Administration shall consult with the class or craft of employees impacted by the pilot projects, including railroad carriers, and representatives of labor organizations representing the impacted employees when designing and conducting the pilot programs referred to in subsection (a).
+
+"(c)
+
+Report.—If the pilot programs required under section 21109(e)(1) of title 49, United States Code, have not commenced on the date that is 1 year and 120 days after the date of enactment of this Act, the Secretary \[of Transportation\], not later than 30 days after such date, submit \[sic\] a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes—
+
+&emsp;"(1) the status of such pilot programs;
+
+&emsp;"(2) actions that the Federal Railroad Administration has taken to commence the pilot programs, including efforts to recruit participant railroads;
+
+&emsp;"(3) any challenges impacting the commencement of the pilot programs; and
+
+&emsp;"(4) any other details associated with the development of the pilot programs that affect progress toward meeting the mandate under such section 21109(e)(1)."
 

@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of skilled nursing facilities, the resident's assessment under section 1395i–3(b)(3) of this title;
 
-&emsp;&emsp;&emsp;(iii) in the case of inpatient rehabilitation facilities, any Medicare beneficiary assessment instrument established by the Secretary for purposes of section 1395ww(j) of this title; and
+&emsp;&emsp;&emsp;(iii) in the case of inpatient rehabilitation facilities, any Medicare beneficiaryassessment instrument established by the Secretary for purposes of section 1395ww(j) of this title; and
 
 &emsp;&emsp;&emsp;(iv) in the case of long-term care hospitals, the Medicare beneficiary assessment instrument used with respect to such hospitals for the collection of data elements necessary to calculate quality measures as described in the August 18, 2011, Federal Register (76 Fed. Reg. 51754–51755), including for purposes of section 1395ww(m)(5)(C) of this title, or any other instrument used with respect to such hospitals for assessment purposes.
 
@@ -136,7 +136,7 @@
 
 #### (B) Standardized patient assessment data described
 
-&emsp;&emsp;For purposes of subparagraph (A), the standardized patient assessment data described in this subparagraph is data required for at least the quality measures described in subsection (c)(1) and that is with respect to the following categories:
+&emsp;&emsp;For purposes of subparagraph (A), the standardized patient assessment data described in this subparagraph is data requiredfor at least the quality measures described in subsection (c)(1) and that is with respect to the following categories:
 
 &emsp;&emsp;&emsp;(i) Functional status, such as mobility and self care at admission to a PAC provider and before discharge from a PAC provider.
 
@@ -152,7 +152,7 @@
 
 #### (2) Alignment of claims data with standardized patient assessment data
 
-&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedenthospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
+&emsp;To the extent practicable, not later than October 1, 2018, for PAC providers described in clauses (ii), (iii), and (iv) of subsection (a)(2)(A), and January 1, 2019, for PAC providers described in clause (i) of such subsection, the Secretary shall match claims data with assessment data pursuant to this section for purposes of assessing prior service use and concurrent service use, such as antecedent hospital or PAC provider use, and may use such matched data for such other uses as the Secretary determines appropriate.
 
 #### (3) Replacement of certain existing data
 
@@ -232,7 +232,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall consider applying adjustments to the resource use and othermeasures specified under this subsection with respect to the domain described in paragraph (1)(A), taking into consideration the studies under section 2(d) of the IMPACT Act of 2014.
+&emsp;&emsp;The Secretary shall consider applying adjustments to the resource use and other measures specified under this subsection with respect to the domain described in paragraph (1)(A), taking into consideration the studies under section 2(d) of the IMPACT Act of 2014.
 
 #### (B) Risk adjustment
 
@@ -354,7 +354,7 @@
 
 #### (j) Stakeholder input
 
-Before the initial rulemaking process to implement this section, the Secretary shall allow for stakeholder input, such as through town halls, open door forums, and mail-box submissions.
+Before the initial rulemaking process to implement this section, the Secretary shall allowfor stakeholder input, such as through town halls, open door forums, and mail-box submissions.
 
 #### (k) Funding
 
@@ -370,6 +370,8 @@ Chapter 35 of title 44 (commonly referred to as the "Paperwork Reduction Act of 
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1899B, as added Pub. L. 113–185, §2(a), Oct. 6, 2014, 128 Stat. 1952; amended Pub. L. 114–255, div. C, title XV, §15008(d)(1), Dec. 13, 2016, 130 Stat. 1321.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d)(3)(A), is section 2(d) of Pub. L. 113–185, which is set out as a note under this section.
@@ -377,6 +379,8 @@ Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted "1395ww(d)(1)(B)(vi)" for "1395ww(d)(1)(B)(iv)(II)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Permitting Occupational Therapists To Conduct the Initial Assessment Visit and Complete the Comprehensive Assessment With Respect to Certain Rehabilitation Services for Home Health Agencies Under the Medicare Program
 
@@ -432,7 +436,7 @@ Recommendations to account for information in payment adjustment mechanisms.—I
 
 &emsp;&emsp;"(ii) account for such factors—
 
-&emsp;&emsp;&emsp;"(I) in quality measures, resource use measures, and other measures under title XVIII of the Social Security Act (including such measures specified under subsections (c) and (d) of section 1899B of such Act \[42 U.S.C. 1395lll\], as added by subsection (a)); and
+&emsp;&emsp;&emsp;"(I) in quality measures, resource use measures, and other measures under title XVIII of the Social Security Act (including such measures specified under subsections (c) and (d) of section 1899Bof such Act \[42 U.S.C. 1395lll\], as added by subsection (a)); and
 
 &emsp;&emsp;&emsp;"(II) in determining payment adjustments based on such measures in other applicable provisions of such title.
 
@@ -462,7 +466,7 @@ Periodic analyses.—The Secretary shall carry out periodic analyses, at least e
 
 &emsp;"(D)
 
-Funding.—There are hereby appropriated to the Secretary from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) (in proportions determinedappropriate by the Secretary) to carry out this paragraph $10,000,000, to remain available until expended.
+Funding.—There are hereby appropriated to the Secretary from the Federal Hospital Insurance Trust Fund under section 1817 of the Social Security Act (42 U.S.C. 1395i) and the Federal Supplementary Medical Insurance Trust Fund under section 1841 of such Act (42 U.S.C. 1395t) (in proportions determined appropriate by the Secretary) to carry out this paragraph $10,000,000, to remain available until expended.
 
 "(3)
 

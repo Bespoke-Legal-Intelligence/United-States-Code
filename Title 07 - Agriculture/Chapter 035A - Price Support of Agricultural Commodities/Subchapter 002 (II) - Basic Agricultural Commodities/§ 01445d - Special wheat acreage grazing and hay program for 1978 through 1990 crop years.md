@@ -4,7 +4,7 @@ Notwithstanding any other provision of law—
 
 #### (a) Authorization for program; acreage designation; payment
 
-The Secretary is authorized to administer a special wheat acreage grazing and hay program (hereinafter in this section referred to as the "special program") in each of the crop years 1978 through 1990. If a special program is implemented, a producer shall be permitted to designate, under such regulations as established by the Secretary, a portion of the acreage on the farm intended to be planted to wheat, feed grains, or upland cotton for harvest, not in excess of 40 per centum thereof, or 50 acres, whichever is greater, which shall be planted to wheat (or some other commodity other than corn or grain sorghum) and used by the producer for grazing purposes or hay rather than for commercial grain production. A producer who elects to participate in the special program shall receive a payment as provided in subsection (c) of this section.
+The Secretary is authorized to administer a special wheat acreage grazing and hay program\(hereinafter in this section referred to as the "special program") in each of the crop years 1978 through 1990. If a special program is implemented, a producer shall be permitted to designate, under such regulations as established by the Secretary, a portion of the acreage on the farm intended to be planted to wheat, feed grains, or upland cotton for harvest, not in excess of 40 per centum thereof, or 50 acres, whichever is greater, which shall be planted to wheat (or some other commodity other than corn or grain sorghum) and used by the producer for grazing purposes or hay rather than for commercial grain production. A producer who elects to participate in the special program shall receive a payment as provided in subsection (c) of this section.
 
 #### (b) Specific farm acreage
 
@@ -26,7 +26,9 @@ The Secretary is authorized to issue such regulations as the Secretary determine
 
 The Secretary shall carry out the special program through the Commodity Credit Corporation.
 
-(Oct. 31, 1949, ch. 792, title I, §109, as added Pub. L. 95–113, title X, §1004, Sept. 29, 1977, 91 Stat. 950; amended Pub. L. 97–98, title XI, §1110, Dec.22, 1981, 95 Stat. 1267; Pub. L. 99–198, title X, §1015, Dec. 23, 1985, 99 Stat. 1457.)
+(Oct. 31, 1949, ch. 792, title I, §109, as added Pub. L. 95–113, title X, §1004, Sept. 29, 1977, 91 Stat. 950; amended Pub. L. 97–98, title XI, §1110, Dec. 22, 1981, 95 Stat. 1267; Pub. L. 99–198, title X, §1015, Dec. 23, 1985, 99 Stat. 1457.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ The Secretary shall carry out the special program through the Commodity Credit C
 <b>1981</b>—Subsec. (a). Pub. L. 97–98, §1110(1), (2), substituted "1985" for "1981" and "If a special program is implemented" for "Under the special program".
 
 Subsec. (d). Pub. L. 97–98, §1110(3), inserted ", reduced acreage, or land diversion".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

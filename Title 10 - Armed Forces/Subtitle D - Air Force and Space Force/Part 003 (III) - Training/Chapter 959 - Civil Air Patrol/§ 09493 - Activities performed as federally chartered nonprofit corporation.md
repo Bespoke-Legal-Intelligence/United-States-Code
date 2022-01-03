@@ -2,7 +2,7 @@
 
 (a)
 
-Use of Federally Provided Resources.—In its status as a federally chartered nonprofit corporation, the Civil Air Patrol may use equipment, supplies, and other resources, including aircraft, motor vehicles, computers, and communications equipment, provided to the Civil Air Patrol by a department or agency of the Federal Government or acquired by or for the Civil Air Patrol with appropriated funds (or with funds of the Civil Air Patrol, but reimbursed from appropriated funds)—
+Use of Federally Provided Resources.—In its status as a federally chartered nonprofitcorporation, the Civil Air Patrol may use equipment, supplies, and other resources, including aircraft, motor vehicles, computers, and communications equipment, provided to the Civil Air Patrol by a department or agency of the Federal Government or acquired by or for the Civil Air Patrol with appropriated funds (or with funds of the Civil Air Patrol, but reimbursed from appropriated funds)—
 
 &emsp;(1) to provide assistance requested by State or local governmental authorities to perform disaster relief missions and activities, other emergency missions and activities, and nonemergency missions and activities; and
 
@@ -22,9 +22,13 @@ Liability Insurance.—The Secretary of the Air Force may provide the Civil Air 
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1090(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–295, §9443; renumbered §9493, Pub. L. 115–232, div. A, title VIII, §806(a)(1), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9443 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

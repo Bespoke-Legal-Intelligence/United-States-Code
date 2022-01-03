@@ -1,5 +1,7 @@
 ### §1245. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, acts Jan. 17, 1933, ch. 11, §15, 47 Stat. 769; Mar. 24, 1934, ch. 84, §15, 48 Stat. 464, related to statutes continued in force, and was omitted in view of recognition of Philippine independence.

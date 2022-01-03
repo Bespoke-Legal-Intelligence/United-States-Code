@@ -6,7 +6,7 @@
 
 &emsp;(2) Whenever the processing tax is wholly terminated, (A) there shall be refunded or credited in the case of a person holding such stocks with respect to which a tax under this chapter has been paid, or (B) there shall be credited or abated in the case of a person holding such stocks with respect to which a tax under this chapter is payable, where such person is the processor liable for the payment of such tax, or (C) there shall be refunded or credited (but not before the tax has been paid) in the case of a person holding such stocks with respect to which a tax under this chapter is payable, where such person is not the processor liable for the payment of such tax, a sum in an amount equivalent to the processing tax which would have been payable with respect to the commodity from which processed if the processing had occurred on such date: <i>Provided</i>, That in the case of any commodity with respect to which there was any increase, effective prior to June 1, 1934, in the rate of the processing tax, no such refund, credit, or abatement, shall be in an amount which exceeds the equivalent of the initial rate of the processing tax in effect with respect to such commodity.
 
-(b) The tax imposed by subsection (a) of this section shall not apply to the retail stocks of persons engaged in retail trade, held at the date the processing tax first takes effect; but such retail stocks shall not be deemed to include stocks held in a warehouse on such date, or such portion of other stocks held on such date as are not sold or otherwise disposed of within thirty days thereafter. Except as to flour and prepared flour, and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1, and as to any article processed wholly or in chief value from cotton, the tax refund, credit, or abatement provided in subsection (a) of this section shall not apply to the retail stocks of persons engaged in retail trade, nor to any article (except sugar) processed wholly or in chief value from sugar beets, sugarcane, or any product thereof, nor to any article (except flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1) processed wholly or in chief value from wheat, held on the date the processing tax is wholly terminated.
+(b) The tax imposed by subsection (a) of this section shall not apply to the retail stocks ofpersons engaged in retail trade, held at the date the processing tax first takes effect; but such retail stocks shall not be deemed to include stocks held in a warehouse on such date, or such portion of other stocks held on such date as are not sold or otherwise disposed of within thirty days thereafter. Except as to flour and prepared flour, and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1, and as to any article processed wholly or in chief value from cotton, the tax refund, credit, or abatement provided in subsection (a) of this section shall not apply to the retail stocks of persons engaged in retail trade, nor to any article (except sugar) processed wholly or in chief value from sugar beets, sugarcane, or any product thereof, nor to any article (except flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1) processed wholly or in chief value from wheat, held on the date the processing tax is wholly terminated.
 
 (c)(1) Any sugar, imported prior to the effective date of a processing tax on sugar beets and sugarcane, with respect to which it is established (under regulations prescribed by the Commissioner of Internal Revenue, with the approval of the Secretary of the Treasury) that there was paid at the time of importation a duty at the rate in effect on January 1, 1934, and (2) any sugar held on April 25, 1934, by, or to be delivered under a bona fide contract of sale entered into prior to April 25, 1934, to, any manufacturer or converter, for use in the production of any article (except sugar) and not for ultimate consumption as sugar, and (3) any article (except sugar) processed wholly or in chief value from sugar beets, sugarcane, or any product thereof, shall be exempt from taxation under subsection (a) of this section, but sugar held in customs custody or control on April 25, 1934, shall not be exempt from taxation under subsection (a) of this section, unless the rate of duty paid upon the withdrawal thereof was the rate of duty in effect on January 1, 1934.
 
@@ -27,6 +27,8 @@
 (f) The provisions of this section shall not be applicable with respect to rice.
 
 (May 12, 1933, ch. 25, title I, §16, 48 Stat. 40; May 9, 1934, ch. 263, §§10, 17, 48 Stat. 676, 678; June 26, 1934, ch. 759, §1, 48 Stat. 1241; Mar. 18, 1935, ch. 32, §10, 49 Stat. 48; Aug. 24, 1935, ch. 641, §§20(b), 25–27, 49 Stat. 768, 769; June 4, 1936, ch. 501, 49 Stat. 1464; June 22, 1936, ch. 690, §601(a), (c), (g), 49 Stat. 1739, 1740.)
+
+#### <b>Editorial Notes</b>
 
 #### Constitutionality
 
@@ -50,7 +52,7 @@ Subsec. (c). Act Aug. 24, 1935, §20(b), struck out last sentence.
 
 Subsec. (e). Act Mar. 18, 1935, redesignated former subsec. (c) as (e).
 
-Subsec. (e)(1). Act Aug. 24, 1935, §27(a), inserted "subsequent to June 26, 1934" at beginning of paragraph, and "in the case of hogs" after "made" in proviso and inserted "In the case of wheat the provisions of this paragraph and of paragraph (2) of this subsection shallapply to flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1 only; in the case of sugarcane and sugar beets the provisions of this paragraph and of paragraph (2) of this subsection shall apply to sugar only."
+Subsec. (e)(1). Act Aug. 24, 1935, §27(a), inserted "subsequent to June 26, 1934" at beginning of paragraph, and "in the case of hogs" after "made" in proviso and inserted "In the case of wheat the provisions of this paragraph and of paragraph (2) of this subsection shall apply to flour, prepared flour and cereal preparations made chiefly from wheat, as classified in Wheat Regulations, Series 1, Supplement 1 only; in the case of sugarcane and sugar beets the provisions of this paragraph and of paragraph (2) of this subsection shall apply to sugar only."
 
 Subsec. (f). Act Mar. 18, 1935, added subsec. (f).
 
@@ -64,15 +66,19 @@ Subsec. (c)(1). Act May 9, 1934, §17, added par. (1).
 
 Subsec. (d). Act May 9, 1934, §17, added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Separability
 
 Validity of remainder of this chapter as not affected should any of the provisions of this chapter be declared unconstitutional. See section 614 of this title.
 
-#### Transfer of Functions
-
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
-
 #### Appropriations
 
 Appropriations for refunds, etc., see note set out under section 610 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 

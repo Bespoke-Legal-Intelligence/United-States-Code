@@ -6,7 +6,7 @@ In General.—In approving an act or transaction under section 56101 or 56102 of
 
 (b)
 
-Violations.—A violation of a condition of approval is subject to the same penalties as aviolation resulting from an act done without the required approval. The violation occurs at the time the condition is violated.
+Violations.—A violation of a condition of approval is subject to the same penalties as a violation resulting from an act done without the required approval. The violation occurs at the time the condition is violated.
 
 (Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1654.)
 

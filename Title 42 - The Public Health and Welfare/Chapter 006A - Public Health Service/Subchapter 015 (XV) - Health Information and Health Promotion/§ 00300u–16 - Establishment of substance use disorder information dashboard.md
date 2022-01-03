@@ -24,7 +24,7 @@ Not later than 6 months after October 24, 2018, the Secretary of Health and Huma
 
 &emsp;(3) provides data on substance use disorder prevention and treatment strategies in different regions of and populations in the United States;
 
-&emsp;(4) identifies information on alternatives to controlled substances for pain management,such as approaches studied by the National Institutes of Health Pain Consortium, the National Center for Complimentary and Integrative Health, and other institutes and centers at the National Institutes of Health, as appropriate; and
+&emsp;(4) identifies information on alternatives to controlled substances for pain management, such as approaches studied by the National Institutes of Health Pain Consortium, the National Center for Complimentary and Integrative Health, and other institutes and centers at the National Institutes of Health, as appropriate; and
 
 &emsp;(5) identifies guidelines and best practices for health care providers regarding treatment of substance use disorders.
 
@@ -33,6 +33,8 @@ Not later than 6 months after October 24, 2018, the Secretary of Health and Huma
 In this section, the term "controlled substance" has the meaning given that term in section 802 of title 21.
 
 (July 1, 1944, ch. 373, title XVII, §1711, as added Pub. L. 115–271, title VII, §7021, Oct. 24, 2018, 132 Stat. 4009.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Milestones To Measure Success in Curtailing the Opioid Crisis
 

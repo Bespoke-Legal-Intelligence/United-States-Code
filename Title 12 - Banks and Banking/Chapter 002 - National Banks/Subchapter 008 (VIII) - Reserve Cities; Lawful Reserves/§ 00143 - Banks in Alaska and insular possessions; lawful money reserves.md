@@ -12,7 +12,7 @@ R.S. §5191 derived from act June 3, 1864, ch. 106, §31, 13 Stat. 108, which wa
 
 Some of the other provisions of R.S. §5191 were classified to section 141 of this title prior to its omission from the Code, some are classified to section 142 of this title, and some were not included in the Code.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Pub. L. 108–121, title I, §110(a)(3)(B), Nov. 11, 2003, 117 Stat. 1342, inserted ", astronauts," after "Forces" in item 692.

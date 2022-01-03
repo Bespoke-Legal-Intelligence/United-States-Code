@@ -4,6 +4,8 @@ Licenses under this subchapter shall be issued for a period not exceeding fifty 
 
 (June 10, 1920, ch. 285, pt. I, §6, 41 Stat. 1067; renumbered pt. I and amended, Aug. 26, 1935, ch. 687, title II, §§204, 212, 49 Stat. 841, 847; Pub. L. 104–106, div. D, title XLIII, §4321(i)(6), Feb. 10, 1996, 110 Stat. 676; Pub. L. 104–316, title I, §108(a), Oct. 19, 1996, 110 Stat. 3832; Pub. L. 105–192, §2, July 14, 1998, 112 Stat. 625.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–192 inserted at end "Licenses may be revoked only for the reasons and in the manner prescribed under the provisions of this chapter, and may be altered or surrendered only upon mutual agreement between the licensee and the Commission after thirty days' public notice."
@@ -14,7 +16,9 @@ Pub. L. 104–106 struck out at end "Copies of all licenses issued under the pro
 
 <b>1935</b>—Act Aug. 26, 1935, §204, amended section generally, substituting "thirty days" for "ninety days" in third sentence and inserting last sentence.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 2220 of Title 10, Armed Forces.
 

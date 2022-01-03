@@ -8,7 +8,7 @@ The taxes on wine provided for in this subpart shall be paid—
 
 &emsp;In the case of wines removed from any bonded wine cellar, by the proprietor of such bonded wine cellar; except that—
 
-&emsp;&emsp;(A) in the case of any transfer of wine in bond as authorized under the provisions of section 5362(b), the liability for payment of the tax shall become the liability of the transferee from the time of removal of the wine from the transferor's premises, and the transferor shall thereupon be relieved of such liability; and
+&emsp;&emsp;(A) in the case of any transfer of wine in bond as authorized under the provisions ofsection 5362(b), the liability for payment of the tax shall become the liability of the transferee from the time of removal of the wine from the transferor's premises, and the transferor shall thereupon be relieved of such liability; and
 
 &emsp;&emsp;(B) in the case of any wine withdrawn by a person other than such proprietor without payment of tax as authorized under the provisions of section 5362(c), the liability for payment of the tax shall become the liability of such person from the time of the removal of the wine from the bonded wine cellar, and such proprietor shall thereupon be relieved of such liability.
 
@@ -26,6 +26,8 @@ The taxes on wines shall be paid in accordance with section 5061.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1332; amended Pub. L. 94–455, title XIX, §1905(b)(2)(C), Oct. 4, 1976, 90 Stat. 1822; Pub. L. 96–39, title VIII, §807(a)(8), July 26, 1979, 93 Stat. 281; Pub. L. 105–206, title VI, §6014(b)(1), July 22, 1998, 112 Stat. 820.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5043, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -37,6 +39,8 @@ A prior section 5043, act Aug. 16, 1954, ch. 736, 68A Stat. 610, consisted of pr
 <b>1979</b>—Subsec. (a)(1)(A). Pub. L. 96–39 struck out "between bonded wine cellars" after "transfer of wine in bond".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "The taxes" for "Except as provided in subsection (a)(3), the taxes".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

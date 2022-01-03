@@ -190,7 +190,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(i) Each program providing funding to any of the 1994 Institutions under sections 533, 534(a), and 535 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382).
 
-&emsp;&emsp;&emsp;(ii) The program established under section 536 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) providing research grants for 1994 Institutions.
+&emsp;&emsp;&emsp;(ii) The program established under section 536 of the Equity in EducationalLand-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382) providing research grants for 1994 Institutions.
 
 &emsp;&emsp;&emsp;(iii) Each program established under subsections (b) and (c) of section 343 of this title.
 
@@ -204,7 +204,7 @@ The Under Secretary shall—
 
 &emsp;&emsp;&emsp;(viii) The program established under section 1445 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222).
 
-&emsp;&emsp;&emsp;(ix) The program providing grants to upgrade agricultural and food sciences facilities at 1890 Institutions established undersection 1447 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222b).
+&emsp;&emsp;&emsp;(ix) The program providing grants to upgrade agricultural and food sciences facilities at 1890 Institutions established under section 1447 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3222b).
 
 &emsp;&emsp;&emsp;(x) The program providing distance education grants for insular areas established under section 1490 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3362).
 
@@ -268,7 +268,7 @@ The Under Secretary shall—
 
 #### (A) Establishment
 
-&emsp;&emsp;The Secretary shall establish within the Department an agency to be known as the "National Institute of Food and Agriculture".
+&emsp;&emsp;The Secretary shall establish within the Department an agency to be known as the"National Institute of Food and Agriculture".
 
 #### (B) Transfer of authorities
 
@@ -374,6 +374,8 @@ The Under Secretary shall—
 
 (Pub. L. 103–354, title II, §251, Oct. 13, 1994, 108 Stat. 3226; Pub. L. 110–234, title VII, §7511(a), May 22, 2008, 122 Stat. 1259; Pub. L. 110–246, §4(a), title VII, §7511(a), June 18, 2008, 122 Stat. 1664, 2021; Pub. L. 113–79, title VII, §§7111(b)(2), 7212(b), Feb. 7, 2014, 128 Stat. 874, 886; Pub. L. 115–334, title XI, §11125(b), title XII, §§12301(a)(2)(B), 12411(a), (b)(1), Dec. 20, 2018, 132 Stat. 4936, 4950, 4978, 4979.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this paragraph and the date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsecs. (e)(3)(A)(ii), (5)(A)(ii), and (f)(1)(C), (D), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -382,7 +384,7 @@ This Act, referred to in subsec. (e)(3)(E), is Pub. L. 103–354, Oct. 13, 1994,
 
 The Hatch Act of 1887, referred to in subsec. (f)(1)(C)(iv), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec.\(f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+The National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (f)(1)(C)(vi), is title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Subtitle E of the Act is classified generally to subchapter V (§3191 et seq.) of chapter 64 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Public Law 87–788, referred to in subsec. (f)(1)(C)(xii), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the "McIntire-Stennis Act of 1962" and also as the "McIntire-Stennis Cooperative Forestry Act", which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 582a of Title 16 and Tables.
 
@@ -427,6 +429,8 @@ Subsec. (f)(1)(D)(xi) to (xiii). Pub. L. 113–79, §7212(b), redesignated cls. 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(a)(1), inserted "(referred to in this section as the 'Under Secretary')" before period at end.
 
 Subsecs. (b) to (f). Pub. L. 110–246, §7511(a)(2), (4), added subsecs. (b) to (f) and struck out former subsecs. (b) to (d) which related to Senate confirmation, functions of the Under Secretary, and establishment and functions of the Cooperative State Research, Education, and Extension Service.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

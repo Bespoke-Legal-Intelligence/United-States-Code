@@ -20,7 +20,7 @@ Eligible Spouses.—(1) Assistance under this section is limited to a spouse of 
 
 Exceptions.—Subsection (b) does not include—
 
-&emsp;(1) a person who is married to, but legally separated from, a member of the armed forcesunder court order or statute of any State or territorial possession of the United States; and
+&emsp;(1) a person who is married to, but legally separated from, a member of the armed forces under court order or statute of any State or territorial possession of the United States; and
 
 &emsp;(2) a spouse of a member of the armed forces who is also a member of the armed forces.
 
@@ -34,9 +34,13 @@ Regulations.—The Secretary of Defense shall prescribe regulations to govern th
 
 (Added Pub. L. 110–417, \[div. A\], title V, §582(a), Oct. 14, 2008, 122 Stat. 4473; amended Pub. L. 116–92, div. A, title V, §576, Dec. 20, 2019, 133 Stat. 1406.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### First Expansion of the My Career Advancement Account Program for Military Spouses
 

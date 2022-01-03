@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;No provision of this section may be construed to prevent an applicant, department, or agency from obtaining or using a report or results of any self-test in any proceeding or civil action in which a violation of this subchapter is alleged, or in any examination or investigation of compliance with this subchapter if—
+&emsp;No provision of this section may be construed to prevent an applicant, department, oragency from obtaining or using a report or results of any self-test in any proceeding or civil action in which a violation of this subchapter is alleged, or in any examination or investigation of compliance with this subchapter if—
 
 &emsp;&emsp;(A) the creditor or any person with lawful access to the report or results—
 
@@ -54,9 +54,13 @@ An applicant, department, or agency that challenges a privilege asserted under t
 
 (Pub. L. 90–321, title VII, §704A, as added Pub. L. 104–208, div. A, title II, §2302(a)(1), Sept. 30, 1996, 110 Stat. 3009–420; amended Pub. L. 111–203, title X, §1085(1), July 21, 2010, 124 Stat. 2083.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–203 substituted "Bureau" for "Board" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

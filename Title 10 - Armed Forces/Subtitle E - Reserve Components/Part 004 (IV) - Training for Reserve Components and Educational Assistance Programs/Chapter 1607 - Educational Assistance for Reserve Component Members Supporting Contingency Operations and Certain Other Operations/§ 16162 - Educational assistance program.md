@@ -38,7 +38,7 @@ Maximum Months of Assistance.—(1) Subject to section 3695 of title 38, the max
 
 &emsp;(ii) be counted toward the aggregate period for which section 3695 of title 38 limits an individual's receipt of assistance.
 
-(B) The payment of the educational assistance allowance referred to in subparagraph (A) is thepayment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
+(B) The payment of the educational assistance allowance referred to in subparagraph (A) is the payment of such an allowance to the individual for pursuit of a course or courses under this chapter if the Secretary of Veterans Affairs finds that the individual—
 
 &emsp;(i) had to discontinue such course pursuit as a result of being ordered to serve on active duty under section 12301(a), 12301(d), 12301(g), 12302, or 12304 of this title; and
 
@@ -68,6 +68,8 @@ Contributions for Increased Amount of Educational Assistance.—(1)(A) Any indiv
 
 (Added Pub. L. 108–375, div. A, title V, §527(a), Oct. 28, 2004, 118 Stat. 1890; amended Pub. L. 109–163, div. A, title V, §539(b), Jan. 6, 2006, 119 Stat. 3250; Pub. L. 110–181, div. A, title V, §528(c), Jan. 28, 2008, 122 Stat. 109.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (c)(4)(C). Pub. L. 110–181, §528(c)(1), substituted "for—" for "for two continuous years or more." and added cls. (i) and (ii).
@@ -75,6 +77,8 @@ Contributions for Increased Amount of Educational Assistance.—(1)(A) Any indiv
 Subsec. (f). Pub. L. 110–181, §528(c)(2), added subsec. (f).
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–163 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

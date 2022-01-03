@@ -160,7 +160,7 @@
 
 &emsp;(A) in the judicial district of the United States in which the person alleged to be liable under section 3802 of this title resides or transacts business;
 
-&emsp;(B) in the judicial district of the United States in which the claim or statement upon which the allegation of liability under such section was made, presented, or submitted; or
+&emsp;(B) in the judicial district of the United States in which the claim or statement uponwhich the allegation of liability under such section was made, presented, or submitted; or
 
 &emsp;(C) in such other place as may be agreed upon by such person and the presiding officer who will conduct such hearing.
 
@@ -176,7 +176,7 @@
 
 (C) The authority head may affirm, reduce, reverse, compromise, remand, or settle any penalty or assessment determined by the presiding officer pursuant to this section. The authority head shall promptly send to each party to the appeal a copy of the decision of the authority head and a statement describing the right of any person determined to be liable under section 3802 of this title to judicial review under section 3805 of this title.
 
-(j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officerunder subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
+(j) The reviewing official has the exclusive authority to compromise or settle any allegations of liability under section 3802 of this title against a person without the consent of the presiding officer at any time after the date on which the reviewing official is permitted to refer allegations of liability to a presiding officer under subsection (b) of this section and prior to the date on which the presiding officer issues a decision under subsection (h) of this section. Any such compromise or settlement shall be in writing.
 
 (Added Pub. L. 99–509, title VI, §6103(a), Oct. 21, 1986, 100 Stat. 1939; amended Pub. L. 103–448, title II, §204(w)(2)(C), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 104–193, title I, §110(o), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 106–78, title VII, §752(b)(13), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 110–234, title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), May 22, 2008, 122 Stat. 1095–1097, 1110; Pub. L. 110–246, §4(a), title IV, §§4002(b)(1)(A), (B), (2)(S), 4115(c)(2)(E), June 18, 2008, 122 Stat. 1664, 1857, 1858, 1871; Pub. L. 113–79, title IV, §4030(o), Feb. 7, 2014, 128 Stat. 815.)
 

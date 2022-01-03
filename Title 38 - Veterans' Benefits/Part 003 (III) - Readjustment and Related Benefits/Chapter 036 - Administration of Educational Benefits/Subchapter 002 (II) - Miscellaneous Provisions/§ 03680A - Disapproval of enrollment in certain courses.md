@@ -36,7 +36,7 @@
 
 (c) The Secretary shall not approve the enrollment of an eligible veteran in any course to be pursued by radio.
 
-(d)(1) Except as provided in paragraph (2) of this subsection, the Secretary shall not approve the enrollment of any eligible veteran, not already enrolled, in any course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 106 of title 10. The Secretary may waive the requirements of this subsection, in whole or in part, if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, it to be in the interest of the eligible veteran and the Federal Government. The provisions of this subsection shall not apply to any course offered by an educational institution if the total number of veterans and persons receiving assistance under this chapter or chapter 30, 31, 32, or 35 of this title or under chapter 106 of title 10 who are enrolled in such institution equals 35 percent or less, or such other percent as the Secretary prescribes in regulations, of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution), except that the Secretary may apply the provisions of this subsection with respect to any course in which the Secretary has reason to believe that the enrollment of such veterans and persons may be in excess of 85 percent of the total student enrollment in such course.
+(d)(1) Except as provided in paragraph (2) of this subsection, the Secretary shall not approve the enrollment of any eligible veteran, not already enrolled, in any course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 106 of title 10. The Secretary may waive the requirements of this subsection, in whole or in part, if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, it to be in the interest of the eligible veteran and the Federal Government. The provisions ofthis subsection shall not apply to any course offered by an educational institution if the total number of veterans and persons receiving assistance under this chapter or chapter 30, 31, 32, or 35 of this title or under chapter 106 of title 10 who are enrolled in such institution equals 35 percent or less, or such other percent as the Secretary prescribes in regulations, of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution), except that the Secretary may apply the provisions of this subsection with respect to any course in which the Secretary has reason to believe that the enrollment of such veterans and persons may be in excess of 85 percent of the total student enrollment in such course.
 
 (2) Paragraph (1) of this subsection does not apply with respect to the enrollment of a veteran—
 
@@ -60,7 +60,7 @@
 
 &emsp;(2) the educational institution or entity providing the course under contract has not obtained approval for the course under this chapter.
 
-(g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department ofHomeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
+(g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 
 (h) In this section, the terms "State or local area", "recognized postsecondary credential", "industry or sector partnership", and "in-demand industry sector or occupation" have the meaning given such terms in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102).
 
@@ -104,7 +104,7 @@ Subsecs. (e) to (g). Pub. L. 104–275, §103(b), added subsecs. (e) to (g).
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 2001 Amendment
 

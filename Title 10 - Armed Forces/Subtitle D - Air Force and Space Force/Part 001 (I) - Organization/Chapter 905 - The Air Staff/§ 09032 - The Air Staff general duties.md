@@ -4,7 +4,7 @@
 
 (b) Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff shall—
 
-&emsp;(1) subject to subsections (c) and (d) of section 9014 of this title, prepare for such employment of the Air Force, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Air Force, as will assist in the execution of anypower, duty, or function of the Secretary or the Chief of Staff;
+&emsp;(1) subject to subsections (c) and (d) of section 9014 of this title, prepare for such employment of the Air Force, and for such recruiting, organizing, supplying, equipping (including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining of the Air Force, as will assist in the execution of any power, duty, or function of the Secretary or the Chief of Staff;
 
 &emsp;(2) investigate and report upon the efficiency of the Air Force and its preparation to support military operations by combatant commands;
 
@@ -40,6 +40,8 @@ In subsection (b)(1), the words "power, duty, or function of" are substituted fo
 
 In subsection (b)(2), the words "all questions affecting" and "state of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §806(c), renumbered section 8032 of this title as this section.
@@ -53,6 +55,8 @@ Subsec. (a). Pub. L. 99–433, §522(b)(1), inserted "of the Air Force" after "C
 Subsec. (b). Pub. L. 99–433, §522(b)(2), substituted "Under the authority, direction, and control of the Secretary of the Air Force, the Air Staff" for "The Air Staff" before par. (1), inserted "subject to subsections (c) and (d) of section 8014 of this title," and substituted "(including those aspects of research and development assigned by the Secretary of the Air Force), training, servicing, mobilizing, demobilizing, administering, and maintaining" for ", training, serving, mobilizing, and demobilizing" in par. (1), substituted "to support military operations by combatant commands" for "for military operations" in par. (2), and amended par. (4) generally. Prior to amendment, par. (4) read as follows: "act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Air Force; and".
 
 <b>1958</b>—Subsec. (b)(1). Pub. L. 85–599 substituted "prepare for such employment of the Air Force" for "prepare such plans for the national security, for employment of the Air Force for that purpose, both separately and in conjunction with the land and naval forces".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

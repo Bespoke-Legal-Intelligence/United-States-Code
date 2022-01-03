@@ -46,6 +46,8 @@ In subsection (a)(2)(C), the references to 10:22–23, 24–26, and 30–36 are 
 
 In subsection (b), the words "any other member" are substituted for the words "members of the reserve components", since the words "reserve components" are defined by section 102(k) of the Career Compensation Act of 1949, 63 Stat. 805 (37 U.S.C. 231(k)) to include members appointed, enlisted, or inducted without component.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "section 12733" for "section 1333".
@@ -54,9 +56,11 @@ In subsection (b), the words "any other member" are substituted for the words "m
 
 <b>1986</b>—Subsec. (a)(2)(A). Pub. L. 99–661 struck out "after February 2, 1901" after "a reserve nurse".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "separation, discharge, or retirement for length of service" for "separation or mandatory elimination from the active list" in par. (1), substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration" in par. (2)(B), and, in provisions following par. (2)(C), substituted "as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and" for "as a member of the Environmental Science Services Administration includes service as a member".
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "separation, discharge, or retirement for length of service" for "separation or mandatory elimination from the active list" in par. (1), substituted "National Oceanic and Atmospheric Administration" for "EnvironmentalScience Services Administration" in par. (2)(B), and, in provisions following par. (2)(C), substituted "as a member of the National Oceanic and Atmospheric Administration includes active service as a member of the Environmental Science Services Administration and" for "as a member of the Environmental Science Services Administration includes service as a member".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey" in clause (2)(B) and inserted provision that, for purposes of clause (2)(B) of subsec. (a), active service as a member of the Environmental Science Services Administration includes active service as a member of the Coast and Geodetic Survey.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -69,10 +73,6 @@ Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and a
 #### Repeals
 
 The directory language of, but not the amendment made by, Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, §6(b), Oct. 12, 1982, 96 Stat. 1314.
-
-#### Transfer of Functions
-
-For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 
 #### Additional Service Creditable to Certain Regulars
 
@@ -89,4 +89,10 @@ Act Aug. 10, 1956, ch. 1041, §39, 70A Stat. 635, provided that: "In addition to
 #### Officers of the Public Health Service
 
 Applicability of subsec. (a)(2) of this section to officers of the Reserve Corps and to officers of the Regular Corps of the Public Health Service, see section 212 of Title 42, The Public Health and Welfare.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Public Health Service, see note set out under section 802 of this title.
 

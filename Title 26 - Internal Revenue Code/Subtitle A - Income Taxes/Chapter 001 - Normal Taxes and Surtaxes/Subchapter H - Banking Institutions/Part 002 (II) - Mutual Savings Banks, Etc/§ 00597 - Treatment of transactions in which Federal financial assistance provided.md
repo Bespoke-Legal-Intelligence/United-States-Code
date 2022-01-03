@@ -36,7 +36,9 @@ For purposes of this section, the term "Federal financial assistance" means—
 
 For purposes of this section, the term "domestic building and loan association" has the meaning given such term by section 7701(a)(19) without regard to subparagraph (C) thereof.
 
-(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat.548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, §401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
+(Added Pub. L. 97–34, title II, §244(a), Aug. 13, 1981, 95 Stat. 255; amended Pub. L. 99–514, title IX, §904(b)(1), Oct. 22, 1986, 100 Stat. 2385; Pub. L. 100–647, title IV, §4012(b)(2)(A)–(D)(i), (c)(1), Nov. 10, 1988, 102 Stat. 3657, 3658; Pub. L. 101–73, title XIV, §1401(a)(3)(A), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 101–239, title VII, §7841(e)(1), Dec. 19, 1989, 103 Stat. 2429; Pub. L. 101–508, title XI, §11704(a)(7), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 115–141, div. U, title IV, §401(b)(25), Mar. 23, 2018, 132 Stat. 1203.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,7 +60,7 @@ Subsec. (b)(2). Pub. L. 101–239 substituted "in connection with such assistanc
 
 <b>1988</b>—Pub. L. 100–647, §4012(b)(2)(D)(i), substituted "FSLIC or FDIC" for "FSLIC" in section catchline.
 
-Subsec. (a). Pub. L. 100–647, §4012(b)(2)(A), inserted at end "Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor."
+Subsec. (a). Pub. L. 100–647, §4012(b)(2)(A), inserted at end "Gross income of a bank does not include any amount of money or other property received from the Federal Deposit Insurance Corporation pursuant to sections 13(c), 15(c)(1), and 15(c)(2) of the Federal DepositInsurance Act (12 U.S.C. 1821(f) and 1823(c)(1) and (c)(2)), regardless of whether any note or other instrument is issued in exchange therefor."
 
 Subsec. (b). Pub. L. 100–647, §4012(b)(2)(C), substituted "association or bank" for "association".
 
@@ -67,6 +69,8 @@ Subsec. (c). Pub. L. 100–647, §4012(c)(1), added subsec. (c).
 Subsec. (d). Pub. L. 100–647, §4012(b)(2)(B), which directed amendment of section 597(b), as amended by section 4012(c)(1) of Pub. L. 100–647, by adding at the end thereof subsec. (d), was executed by adding subsec. (d) at the end of section 597, as amended by section 4012(c)(1) of Pub. L. 100–647, as the probable intent of Congress.
 
 <b>1986</b>—Pub. L. 99–514, §904(b)(1), (c)(2)(A), as amended by Pub. L. 100–647, title IV, §4012(a)(2), which (applicable to transfers after Dec. 31, 1989, in taxable years ending after such date, with exceptions) directed repeal of this section, was repealed by Pub. L. 101–73, §1401(b)(1), (c)(4), eff. Oct. 22, 1986, and I.R.C. of 1986 applicable as if the amendments made by such section had not been enacted.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 
@@ -120,7 +124,7 @@ Pub. L. 97–34, title II, §246(c), Aug. 13, 1981, 95 Stat. 256, provided that:
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Transfer of Functions
 
@@ -136,5 +140,5 @@ Pub. L. 101–73, title XIV, §1401(c)(7), Aug. 9, 1989, 103 Stat. 550, provided
 
 #### Annual Reports on Transactions in Which Federal Financial Assistance Provided
 
-Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury to submit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
+Pub. L. 101–73, title XIV, §1403, Aug. 9, 1989, 103 Stat. 551, which required the Secretary of the Treasury tosubmit annual reports to the Senate and to the Committee on Ways and Means of the House of Representatives on transactions with respect to which Federal financial assistance subject to this section was provided, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
 

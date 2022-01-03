@@ -62,13 +62,13 @@ In this subchapter—
 
 &emsp;&emsp;(D) acquiring land for, or constructing, a burn area training structure on or off the airport to provide live fire drill training for aircraft rescue and firefighting personnel required to receive the training under regulations the Secretary prescribes, including basic equipment and minimum structures to support the training under standards the Administrator of the Federal Aviation Administration prescribes.
 
-&emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approvedby the Secretary under this subchapter or under section 40117.
+&emsp;&emsp;(E) relocating after December 31, 1991, an air traffic control tower and any navigational aid (including radar) if the relocation is necessary to carry out a project approved by the Secretary under this subchapter or under section 40117.
 
 &emsp;&emsp;(F) constructing, reconstructing, repairing, or improving an airport, or purchasing capital equipment for an airport, if necessary for compliance with the responsibilities of the operator or owner of the airport under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.), except constructing or purchasing capital equipment that would benefit primarily a revenue-producing area of the airport used by a nonaeronautical business.
 
 &emsp;&emsp;(G) acquiring land for, or work necessary to construct, a pad suitable for deicing aircraft before takeoff at a commercial service airport, including constructing or reconstructing paved areas, drainage collection structures, treatment and discharge systems, appropriate lighting, paved access for deicing vehicles and aircraft, and including acquiring glycol recovery vehicles, but not including acquiring aircraft deicing fluids or constructing or reconstructing storage facilities for aircraft deicing equipment or fluids.
 
-&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports that are not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
+&emsp;&emsp;(H) routine work to preserve and extend the useful life of runways, taxiways, and aprons at nonhub airports and airports thatare not primary airports, under guidelines issued by the Administrator of the Federal Aviation Administration.
 
 &emsp;&emsp;(I) constructing, reconstructing, or improving an airport, or purchasing nonrevenue generating capital equipment to be owned by an airport, for the purpose of transferring passengers, cargo, or baggage between the aeronautical and ground transportation modes on airport property.
 
@@ -106,7 +106,7 @@ In this subchapter—
 
 &emsp;(6) "amount made available under section 48103" or "amount newly made available" means the amount authorized for grants under section 48103 as that amount may be limited in that year by a subsequent law, but as determined without regard to grant obligation recoveries made in that year or amounts covered by section 47107(f).
 
-&emsp;(7) "commercial service airport" means a public airport in a State that the Secretary determines has at least 2,500 passengerboardings each year and is receiving scheduled passenger aircraft service.
+&emsp;(7) "commercial service airport" means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
 
 &emsp;(8) "general aviation airport" means a public-use airport that is located in a State and that, as determined by the Secretary—
 
@@ -124,7 +124,7 @@ In this subchapter—
 
 &emsp;&emsp;(D) standards prescribed by a State, except standards for safety of approaches, for airport development at nonprimary public-use airports.
 
-&emsp;(10) "landed weight" means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
+&emsp;(10) "landed weight" means the weight of aircraft transporting only cargo in intrastate, interstate, and foreign air transportation, asthe Secretary determines under regulations the Secretary prescribes.
 
 &emsp;(11) "large hub airport" means a commercial service airport that has at least 1.0 percent of the passenger boardings.
 
@@ -330,7 +330,7 @@ In clause (8), before subclause (A), the words "the initial as well as continuin
 
 In clause (9), the words "scheduled and nonscheduled" are omitted as surplus. The word "cargo" is substituted for "property (including mail)" for consistency in the revised title.
 
-In clause (10), before subclause (A), the words "passenger boardings" are substituted for "passengers enplaned" for clarity. In subclause (A), the words "domestic, territorial, and international", "in the States", "scheduled and nonscheduled", and "intrastate, interstate, and foreign" are omitted as surplus. In subclause (B), the words "who continue on an aircraft in" are substituted for "on board" for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words"that stops" are substituted for "which transit" for clarity. The word "located" is omitted as surplus.
+In clause (10), before subclause (A), the words "passenger boardings" are substituted for "passengers enplaned" for clarity. In subclause (A), the words "domestic, territorial, and international", "in the States", "scheduled and nonscheduled", and "intrastate, interstate, and foreign" are omitted as surplus. In subclause (B), the words "who continue on an aircraft in" are substituted for "on board" for clarity. (See Cong. Rec., pp. S15296, 15297, Oct. 28, 1987, daily ed.). The words "that stops" are substituted for "which transit" for clarity. The word "located" is omitted as surplus.
 
 In clause (12), the words "included in one project grant application" are substituted for "submitted together", and the words "or all projects to be undertaken" are substituted for "including the combined submission of all projects", for clarity and consistency in this chapter.
 
@@ -339,6 +339,8 @@ In clause (15)(A), the words "or any agency of a State, a municipality . . . o
 In clause (19)(A), the words "either individually or jointly with one or more other public agencies" are omitted as surplus.
 
 In clause (20), the words "the Commonwealth of" and "the Government of" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -422,7 +424,7 @@ Pars. (24), (25). Pub. L. 108–176, §801(a)(1), redesignated pars. (19) and (2
 
 Par. (3)(J) to (L). Pub. L. 107–71, §119(a)(1), added subpars. (J) to (L).
 
-<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted ", universal access systems, and emergencycall boxes," for "and universal access systems," and inserted "and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices" before semicolon at end.
+<b>2000</b>—Par. (3)(B)(ii). Pub. L. 106–181, §121(c)(1), substituted ", universal access systems, and emergency call boxes," for "and universal access systems," and inserted "and integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices" before semicolon at end.
 
 Par. (3)(B)(iii). Pub. L. 106–181, §121(c)(2), inserted before semicolon at end ", including closed circuit weather surveillance equipment if the airport is located in Alaska".
 
@@ -440,6 +442,8 @@ Par. (3)(F). Pub. L. 104–264, §142(b)(1)(B), struck out "paid for by a grant 
 
 <b>1994</b>—Par. (3)(B)(ii). Pub. L. 103–305 inserted ", including explosive detection devices and universal access systems," after "or security equipment".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under section 106 of this title.
@@ -451,10 +455,6 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Airport Access Roads in Remote Locations
 
@@ -501,4 +501,10 @@ Eligible low-emission modifications and improvements.—The Secretary of Transpo
 "(B)
 
 Eligible low-emission vehicle technology.—The Secretary, in consultation with the Administrator, shall issue guidance describing eligible low-emission vehicle technology, and stating how airport sponsors will demonstrate benefits, under section 47102(3)(L) of title 49, United States Code, as added by this subsection."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

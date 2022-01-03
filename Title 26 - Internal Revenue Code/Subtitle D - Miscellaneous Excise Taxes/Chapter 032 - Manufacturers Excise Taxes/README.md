@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–94, div. N, title I, §501(c) Dec. 20, 2019, 133 Stat. 3119, struck out item for subchapter E "Medical devices".

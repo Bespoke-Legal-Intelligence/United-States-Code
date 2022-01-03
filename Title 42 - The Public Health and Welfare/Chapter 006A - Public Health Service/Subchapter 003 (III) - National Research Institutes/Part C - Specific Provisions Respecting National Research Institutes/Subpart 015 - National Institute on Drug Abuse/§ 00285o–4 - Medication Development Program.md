@@ -16,7 +16,7 @@ There is established in the Institute a Medication Development Program through w
 
 &emsp;(6) directly or through grants, contracts, or cooperative agreements, support training in the fundamental sciences and clinical disciplines related to the pharmacotherapeutic treatment of drug abuse, including the use of training stipends, fellowships, and awards where appropriate; and
 
-&emsp;(7) coordinate the activities conducted under this section with related activities conducted within the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and other appropriate institutes and shall consult with the Directors of such Institutes.
+&emsp;(7) coordinate the activities conducted under this section with related activities conductedwithin the National Institute on Alcohol Abuse and Alcoholism, the National Institute of Mental Health, and other appropriate institutes and shall consult with the Directors of such Institutes.
 
 #### (b) Duties
 
@@ -60,6 +60,8 @@ For purposes of this section, the term "pharmacotherapeutics" means medications 
 
 (July 1, 1944, ch. 373, title IV, §464P, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 362; amended Pub. L. 103–43, title XX, §2008(b)(10), June 10, 1993, 107 Stat. 211; Pub. L. 109–482, title I, §103(b)(35), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by Pub. L. 100–690, title I, §1009, Nov. 18, 1988, 102 Stat. 4188, as amended.
@@ -69,6 +71,8 @@ Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by
 <b>2007</b>—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994."
 
 <b>1993</b>—Subsec. (b)(6). Pub. L. 103–43 substituted "Institute" for "Administration".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

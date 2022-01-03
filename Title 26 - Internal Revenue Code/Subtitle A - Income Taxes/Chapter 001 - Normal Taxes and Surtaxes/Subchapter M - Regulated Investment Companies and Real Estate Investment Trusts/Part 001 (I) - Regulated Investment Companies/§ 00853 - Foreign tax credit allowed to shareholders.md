@@ -52,11 +52,13 @@ This section shall not apply to any tax with respect to which the regulated inve
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 272; Pub. L. 88–272, title II, §229(a)(3), Feb. 26, 1964, 78 Stat. 99; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title VI, §655(a)(3), Oct. 22, 1986, 100 Stat. 2299; Pub. L. 105–34, title X, §1053(b), Aug. 5, 1997, 111 Stat. 943; Pub. L. 105–206, title VI, §6010(k)(1), (2), July 22, 1998, 112 Stat. 815; Pub. L. 109–135, title IV, §403(aa)(1), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 111–325, title III, §301(c), Dec. 22, 2010, 124 Stat. 3544.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–325, §301(c)(1)(B), substituted "Statements" for "Notice" in heading.
 
-Pub. L. 111–325, §301(c)(1)(A), which directed amendment by substituting "so reported by the company in a written statement furnished to such shareholder" for "so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year", was executed by making the substitution for "so designated by the company ina written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in concluding provisions to reflect the probable intent of Congress.
+Pub. L. 111–325, §301(c)(1)(A), which directed amendment by substituting "so reported by the company in a written statement furnished to such shareholder" for "so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of the taxable year", was executed by making the substitution for "so designated by the company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in concluding provisions to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 111–325, §301(c)(2), struck out "and notifying shareholders" after "election" in heading and "and the notice to shareholders required by subsection (c)" after "subsection (a)" in text.
 
@@ -74,6 +76,8 @@ Subsecs. (e), (f). Pub. L. 105–206, §6010(k)(1), added subsec. (e) and redesi
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–272 substituted "45 days" for "30 days".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as a note under section 852 of this title.
@@ -84,7 +88,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
+Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions ofthe Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
 
 #### Effective Date of 1997 Amendment
 

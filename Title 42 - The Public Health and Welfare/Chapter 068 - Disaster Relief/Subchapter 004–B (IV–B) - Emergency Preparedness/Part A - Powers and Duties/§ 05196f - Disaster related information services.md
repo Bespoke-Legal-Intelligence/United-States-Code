@@ -20,6 +20,8 @@ For purposes of subsection (a), the Administrator of Federal <sup>1</sup> Emerg
 
 (Pub. L. 93–288, title VI, §616, as added Pub. L. 109–295, title VI, §689e, Oct. 4, 2006, 120 Stat. 1452; amended Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" in subsecs. (a) and (b).

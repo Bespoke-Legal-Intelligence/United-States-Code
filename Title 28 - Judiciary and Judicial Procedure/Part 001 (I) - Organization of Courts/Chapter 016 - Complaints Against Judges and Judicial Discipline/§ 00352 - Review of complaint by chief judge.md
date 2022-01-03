@@ -2,7 +2,7 @@
 
 (a)
 
-Expeditious Review; Limited Inquiry.—The chief judge shall expeditiously review anycomplaint received under section 351(a) or identified under section 351(b). In determining what action to take, the chief judge may conduct a limited inquiry for the purpose of determining—
+Expeditious Review; Limited Inquiry.—The chief judge shall expeditiously review any complaint received under section 351(a) or identified under section 351(b). In determining what action to take, the chief judge may conduct a limited inquiry for the purpose of determining—
 
 &emsp;(1) whether appropriate corrective action has been or can be taken without the necessity for a formal investigation; and
 

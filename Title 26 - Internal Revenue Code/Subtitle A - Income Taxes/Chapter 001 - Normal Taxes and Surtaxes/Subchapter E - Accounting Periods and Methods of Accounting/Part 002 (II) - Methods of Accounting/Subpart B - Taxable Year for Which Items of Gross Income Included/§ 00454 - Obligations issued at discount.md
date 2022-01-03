@@ -26,6 +26,8 @@ In the case of a taxpayer who—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 156; Pub. L. 86–346, title I, §102, Sept. 22, 1959, 73 Stat. 621; Pub. L. 94–455, title XIX, §§1901(c)(2), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1803, 1834; Pub. L. 97–452, §2(c)(2), Jan. 12, 1983, 96 Stat. 2478.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (c)(2). Pub. L. 97–452 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act".

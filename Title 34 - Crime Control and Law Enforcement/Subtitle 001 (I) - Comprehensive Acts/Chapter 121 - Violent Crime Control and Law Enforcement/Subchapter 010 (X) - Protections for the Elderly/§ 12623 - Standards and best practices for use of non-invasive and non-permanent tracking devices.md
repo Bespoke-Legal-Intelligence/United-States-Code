@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;Each entity that receives a grant under subsection (a)(2) of section 12621 of this title, as added by this Act, shall comply with any standards and best practices relating to the use of tracking devices established by the Attorney General in accordance with subsection (a).
+&emsp;Each entity that receives a grant under subsection (a)(2) of section 12621 of this title, asadded by this Act, shall comply with any standards and best practices relating to the use of tracking devices established by the Attorney General in accordance with subsection (a).
 
 #### (2) Determination of compliance
 
@@ -94,7 +94,7 @@ Child.—The term 'child' means an individual who is less than 18 years of age.
 
 &emsp;"(2)
 
-Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4(e) of the IndianSelf-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304(e)).
 
 &emsp;"(3)
 

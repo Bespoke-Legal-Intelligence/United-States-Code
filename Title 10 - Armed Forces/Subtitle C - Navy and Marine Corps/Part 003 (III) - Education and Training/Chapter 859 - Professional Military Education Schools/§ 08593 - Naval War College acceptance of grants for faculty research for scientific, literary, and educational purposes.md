@@ -10,7 +10,7 @@ Qualifying Grants.—A qualifying research grant under this section is a grant t
 
 (c)
 
-Entities From Which Grants May Be Accepted.—A grant may be accepted under thissection only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
+Entities From Which Grants May Be Accepted.—A grant may be accepted under this section only from a corporation, fund, foundation, educational institution, or similar entity that is organized and operated primarily for scientific, literary, or educational purposes.
 
 (d)
 
@@ -26,9 +26,13 @@ Regulations.—The Secretary shall prescribe regulations for the administration 
 
 (Added Pub. L. 109–163, div. A, title V, §522(d)(1), Jan. 6, 2006, 119 Stat. 3242, §7103; renumbered §8593, Pub. L. 115–232, div. A, title VIII, §807(c)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7103 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

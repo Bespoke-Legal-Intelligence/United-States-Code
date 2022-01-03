@@ -22,6 +22,8 @@
 
 (July 1, 1944, ch. 373, title IV, §417D, as added Pub. L. 107–172, §3, May 14, 2002, 116 Stat. 541; amended Pub. L. 109–482, title I, §103(b)(17), Jan. 15, 2007, 120 Stat. 3688; Pub. L. 115–180, title II, §204(a), June 5, 2018, 132 Stat. 1390.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–180 made technical correction to directory language of Pub. L. 107–172, §3, which enacted this section.
@@ -30,9 +32,11 @@
 
 Subsec. (b)(3). Pub. L. 109–482, §103(b)(17)(B), struck out heading and text of par. (3). Text read as follows: "For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–180, title II, §204(b), June 5, 2018, 132 Stat. 1390, provided that: "The amendment made by subsection (a) \[amending section 3 of Pub. L. 107–172\] shall take effect as if included in section 3 of the Hematological Cancer Research Investment and Education Act of 2002 (Public Law 107–172; 116 Stat. 541) \[enacting this section\]."
+Pub. L. 115–180, title II, §204(b), June 5, 2018, 132 Stat. 1390, provided that: "The amendment made by subsection (a) \[amending section 3 of Pub. L. 107–172\] shalltake effect as if included in section 3 of the Hematological Cancer Research Investment and Education Act of 2002 (Public Law 107–172; 116 Stat. 541) \[enacting this section\]."
 
 #### Effective Date of 2007 Amendment
 

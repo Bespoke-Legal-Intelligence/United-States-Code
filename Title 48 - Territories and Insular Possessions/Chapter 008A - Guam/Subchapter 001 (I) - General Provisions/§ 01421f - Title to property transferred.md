@@ -14,13 +14,19 @@ All property owned by the United States in Guam, the title to which is not trans
 
 (Aug. 1, 1950, ch. 512, §28, 64 Stat. 392; Pub. L. 90–497, §12(b), Sept. 11, 1968, 82 Stat. 848.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–497 substituted "The Secretary of the Interior" for "the head of the department or agency designated by the President under section 1421a of this title" in text of subsec. (c) and "the Secretary of the Interior" for "the head of such department or agency" in proviso.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–497 necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments unless otherwise provided effective Jan. 4, 1971, see section 13 of Pub. L. 90–497, set out as a note under section 1422 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10178. Reservation of Property in Guam for Use of United States
 

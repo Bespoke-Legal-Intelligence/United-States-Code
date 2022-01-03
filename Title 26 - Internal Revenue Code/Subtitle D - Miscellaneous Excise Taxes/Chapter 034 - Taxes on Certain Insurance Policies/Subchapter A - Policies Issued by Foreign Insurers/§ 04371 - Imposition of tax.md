@@ -16,9 +16,7 @@ There is hereby imposed, on each policy of insurance, indemnity bond, annuity co
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 521; Mar. 13, 1956, ch. 83, §5(9), 70 Stat. 49; Pub. L. 85–859, title I, §141(a), Sept. 2, 1958, 72 Stat. 1300; Pub. L. 86–69, §3(f)(3), June 25, 1959, 73 Stat. 140; Pub. L. 89–44, title VIII, §804(b), June 21, 1965, 79 Stat. 160; Pub. L. 94–455, title XIX, §1904(a)(12), Oct. 4, 1976, 90 Stat. 1812; Pub. L. 98–369, div. A, title II, §211(b)(23), July 18, 1984, 98 Stat. 757; Pub. L. 100–203, title X, §10242(c)(3), Dec. 22, 1987, 101 Stat. 1330–423; Pub. L. 101–239, title VII, §7811(i)(11), Dec. 19, 1989, 103 Stat. 2411.)
 
-#### Constitutionality
-
-For information regarding constitutionality of section 4371 of act Aug. 16, 1954, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -37,6 +35,8 @@ For information regarding constitutionality of section 4371 of act Aug. 16, 1954
 <b>1958</b>—Pub. L. 85–859 substituted "is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax" for "shall be imposed a tax on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer".
 
 <b>1956</b>—Par. (2). Act Mar. 13, 1956, substituted "section 816" for "section 807".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

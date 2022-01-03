@@ -20,6 +20,8 @@ Whenever the Secretary is satisfied, with respect to any notification made under
 
 (Added Pub. L. 85–321, §1, Feb. 11, 1958, 72 Stat. 5; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–223, title I, §101(c)(3), Apr. 2, 1980, 94 Stat. 251; Pub. L. 100–418, title I, §1941(b)(2)(O), Aug. 23, 1988, 102 Stat. 1324.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–418, §1941(b)(2)(O)(i), substituted "or chapter 33" for ", by chapter 33, or by section 4986" in introductory provisions.
@@ -31,6 +33,8 @@ Subsec. (c). Pub. L. 100–418, §1941(b)(2)(O)(ii), substituted "or chapter 33"
 <b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–223 inserted references to tax imposed by section 4986.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

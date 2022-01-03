@@ -18,7 +18,7 @@ Subsec. (b). Pub. L. 112–141, §1104(c)(2)(B), substituted "Federal-aid highwa
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "sections 3141–3144, 3146, and 3147 of title 40" for "the Act of March 3, 1931, known as the Davis-Bacon Act (40 U.S.C. 276a)".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–240, which directed substitution of "highways" for "systems, the primary and secondary, as well as their extension in urban areas, and the Interstate system," was executed by making the substitution for the quoted words which in the original contained the word "extensions" rather than "extension", to reflect the probable intent of Congress.
+<b>1991</b>—Subsec. (a). Pub. L. 102–240, which directed substitution of "highways" for "systems, the primary and secondary, as well as their extension in urban areas, and the Interstate system," was executed by making the substitution for the quoted words which in theoriginal contained the word "extensions" rather than "extension", to reflect the probable intent of Congress.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–17 substituted "March 3, 1931" for "August 30, 1935" and "276a" for "267a".
 

@@ -1,5 +1,7 @@
 ### §603. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 3, 1878, ch. 151, §5, 20 Stat. 90, related to prosecutions for violating former section 595 of this title.

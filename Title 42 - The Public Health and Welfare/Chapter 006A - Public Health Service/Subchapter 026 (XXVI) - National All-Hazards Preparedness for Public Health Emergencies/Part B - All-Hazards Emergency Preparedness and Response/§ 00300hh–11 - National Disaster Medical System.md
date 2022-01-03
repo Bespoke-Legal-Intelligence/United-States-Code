@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The Secretary may activate the National Disaster Medical System to—
 
-&emsp;&emsp;&emsp;(i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliary services to respond to the needs of victims of a public health emergency, including at-risk individuals as applicable (whether or not determined to be a public health emergency under section 247d of this title); or
+&emsp;&emsp;&emsp;(i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliaryservices to respond to the needs of victims of a public health emergency, including at-risk individuals as applicable (whether or not determined to be a public health emergency under section 247d of this title); or
 
 &emsp;&emsp;&emsp;(ii) be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified, or there is a significant potential for a public health emergency.
 
@@ -84,7 +84,7 @@
 
 #### (2) Liability
 
-&emsp;For purposes of section 233(a) of this title and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individuals so appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
+&emsp;For purposes of section 233(a) of this title and the remedies described in such section, an individual appointed under paragraph (1) shall, while acting within the scope of such appointment, be considered to be an employee of thePublic Health Service performing medical, surgical, dental, or related functions. With respect to the participation of individuals appointed under paragraph (1) in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B), acts of individuals so appointed that are within the scope of such participation shall be considered within the scope of the appointment under paragraph (1) (regardless of whether the individuals receive compensation for such participation).
 
 #### (3) Notification
 
@@ -102,11 +102,9 @@
 
 #### (B) Sunset
 
-&emsp;&emsp;The authority under this paragraph shall expire on September 30, 2021.
+&emsp;&emsp;The authority under this paragraph shall expire on February 18, 2022.
 
-#### (5) Service benefit
-
-&emsp;Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 10281 et seq.\]. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities.
+#### (5) Omitted
 
 #### (d) Certain employment issues regarding intermittent appointments
 
@@ -162,11 +160,9 @@ For purposes of this section, the term "auxiliary services" includes mortuary se
 
 For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated $57,400,000 for each of fiscal years 2019 through 2023.
 
-(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I,§102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933.)
+(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–113, div. H, title V, §527, Dec. 18, 2015, 129 Stat. 2653; Pub. L. 116–22, title III, §301(a), (d)(1), June 24, 2019, 133 Stat. 931, 933; Pub. L. 117–43, div. D, title I, §3101, Sept. 30, 2021, 135 Stat. 379; Pub. L. 117–70, div. C, title I, §2101, Dec. 3, 2021, 135 Stat. 1504.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 301(d)(3) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -174,13 +170,17 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c)(4)(B). Pub. L. 117–70 substituted "February 18, 2022" for "December 3, 2021".
+
+Pub. L. 117–43 substituted "December 3, 2021" for "September 30, 2021".
+
 <b>2019</b>—Subsec. (a)(3)(A)(ii). Pub. L. 116–22, §301(a)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified."
 
 Subsec. (b)(2). Pub. L. 116–22, §301(a)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Not later than 180 days after December 19, 2006, the Secretary, in coordination with the Secretary of Homeland Security, the Secretary of Defense, and the Secretary of Veterans Affairs, shall conduct a joint review of the National Disaster Medical System. Such review shall include an evaluation of medical surge capacity, as described by section 300hh–2(a) of this title. As part of the National Health Security Strategy under section 300hh–1 of this title, the Secretary shall update the findings from such review and further modify the policies of the National Disaster Medical System as necessary."
 
 Subsec. (c)(3), (4). Pub. L. 116–22, §301(a)(3), added pars. (3) and (4).
 
-Subsec. (c)(5). Pub. L. 116–22, §§301(d)(1), (3), temporarily added par. (5). See Termination Date of 2019 Amendment note below.
+Subsec. (c)(5). Pub. L. 116–22, §§301(d)(1), (3), temporarily added par. (5). Prior to amendment, text read as follows: "Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 10281 et seq.\]. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities." See Termination Date of 2019 Amendment note below.
 
 Subsec. (g). Pub. L. 116–22, §301(a)(4), substituted "$57,400,000 for each of fiscal years 2019 through 2023" for "$52,700,000 for each of fiscal years 2014 through 2018".
 
@@ -236,6 +236,8 @@ Subsec. (h). Pub. L. 109–417, §301(a)(3), redesignated subsec. (h) as (g).
 
 Pub. L. 109–417, §102(a)(4), substituted "Assistant Secretary for Preparedness and Response" for "Assistant Secretary for Public Health Emergency Preparedness".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
@@ -248,7 +250,7 @@ Amendment by section 301(d)(1) of Pub. L. 116–22 to cease to have force or eff
 
 Pub. L. 109–417, title III, §301(b), Dec. 19, 2006, 120 Stat. 2854, provided that: "There shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Homeland Security, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto."
 
-Pub. L. 109–295, title III, Oct. 4, 2006, 120 Stat. 1372, provided in part: "That the total amount appropriatedand, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act (42 U.S.C. 300hh–11(b) \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007."
+Pub. L. 109–295, title III, Oct. 4, 2006, 120 Stat. 1372, provided in part: "That the total amount appropriated and, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act (42 U.S.C. 300hh–11(b) \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007."
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness (now Assistant Secretary for Preparedness and Response) relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

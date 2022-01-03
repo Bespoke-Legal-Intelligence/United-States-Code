@@ -14,7 +14,7 @@ The easterly one-half of Fort Baker in Marin County, California, shall remain un
 
 #### (d) Presidio of San Francisco; use and occupation of certain acreage by Secretary
 
-Upon enactment, the Secretary of the Army shall grant to the Secretary the irrevocable useand occupancy of one hundred acres of the Baker Beach area of the Presidio of San Francisco, as depicted on the map referred to in subsection (b).
+Upon enactment, the Secretary of the Army shall grant to the Secretary the irrevocable use and occupancy of one hundred acres of the Baker Beach area of the Presidio of San Francisco, as depicted on the map referred to in subsection (b).
 
 #### (e) Use and occupancy of airfield acreage by Secretary
 
@@ -66,6 +66,8 @@ With reference to those lands known as the San Francisco water department proper
 
 (Pub. L. 92–589, §3, Oct. 27, 1972, 86 Stat. 1299; Pub. L. 95–625, title III, §317(b)–(e), Nov. 10, 1978, 92 Stat. 3485; Pub. L. 96–607, title X, §1001(3)–(5), Dec. 28, 1980, 94 Stat. 3544.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Upon enactment, referred to in subsec. (d), probably means the date of enactment of this subchapter by Pub. L. 92–589, which was Oct. 27, 1972.
@@ -86,13 +88,15 @@ Subsec. (h). Pub. L. 96–607, §1001(4), transferred to the jurisdiction of the
 
 Subsec. (p). Pub. L. 96–607, §1001(5), added subsec. (p).
 
-<b>1978</b>—Subsec. (i). Pub. L. 95–625, §317(b), in revising the text, substituted provision prohibiting new construction and development in the recreation area on lands under the administrative jurisdiction of a department other than that of the Secretary but authorized reconstruction or demolition of improvements upon the nontransferred lands of such agency after consultations with the Secretary and upon notice and hearing forprior provision limited to new construction and development on property under administrative jurisdiction of the Department of the Army required to accommodate facilities being relocated from property being transferred to administrative jurisdiction of the Secretary or directly related to the essential missions of the Sixth United States Army.
+<b>1978</b>—Subsec. (i). Pub. L. 95–625, §317(b), in revising the text, substituted provision prohibiting new construction and development in the recreation area on lands under the administrative jurisdiction of a department other than that of the Secretary but authorized reconstruction or demolition of improvements upon the nontransferred lands of such agency after consultations with the Secretary and upon notice and hearing for prior provision limited to new construction and development on property under administrative jurisdiction of the Department of the Army required to accommodate facilities being relocated from property being transferred to administrative jurisdiction of the Secretary or directly related to the essential missions of the Sixth United States Army.
 
 Subsec. (j). Pub. L. 95–625, §317(c), substituted provision making the subsection applicable to improved residential property and agricultural property for prior provision for application to improved property of a noncommercial residential nature and authorized lease of Federally-owned lands, subject to restrictive covenants, with first offer to prior owner or leaseholder.
 
 Subsec. (k). Pub. L. 95–625, §317(d), defined "improved property" to include residential dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of "agricultural property".
 
 Subsecs. (n), (o). Pub. L. 95–625, §317(e), added subsecs. (n) and (o).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

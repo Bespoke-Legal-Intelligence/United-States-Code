@@ -14,7 +14,7 @@
 
 &emsp;(6) contribute to any State such amounts for the construction, alteration, or rehabilitation of critical portions of facilities as the Secretary determines to be required to meet a change in Department of Defense construction criteria or standards related to the execution of the Federal military mission assigned to the unit using the facility.
 
-(b) Title to property acquired by the United States under subsection (a)(1) vests in theUnited States. Such property may be transferred to any State incident to the expansion, rehabilitation, or conversion of such property under subsection (a)(2) so long as the transfer of such property does not result in the creation of an enclave owned by a State within a Federal installation.
+(b) Title to property acquired by the United States under subsection (a)(1) vests in the United States. Such property may be transferred to any State incident to the expansion, rehabilitation, or conversion of such property under subsection (a)(2) so long as the transfer of such property does not result in the creation of an enclave owned by a State within a Federal installation.
 
 (c) The Secretary of Defense may delegate any of his authority or functions under this chapter to any department, agency, or officer of the Department of Defense.
 
@@ -94,6 +94,8 @@ In subsections (a)(2), (3), and (4), the words "Territory, Puerto Rico, or the D
 
 In subsection (d), 50:882(a) (1st 28 words) is omitted as covered by section 2233(a)(1) of this title.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Historical and Revision Notes above) was amended by acts Aug. 9, 1955, ch. 662, 69 Stat. 593; Aug. 3, 1956, ch. 939, title IV, §414, 70 Stat. 1018; Aug. 29, 1957, Pub. L. 85–215, §2, 71 Stat. 490. The amendments were later repealed and reenacted in sections 2233 and 2236 to 2238 \[now 18233 and 18236 to 18238\] of this title by Pub. L. 85–685, title VI, §602, Aug. 20, 1958, 72 Stat. 665, and Pub. L. 85–861, §§1(37)–(39), 16, 36, Sept. 2, 1958, 72 Stat. 1456, 1558, 1568.
@@ -124,7 +126,7 @@ Subsec. (b). Pub. L. 98–525, §1405(34)(B), struck out "or Territory, Puerto R
 
 <b>1982</b>—Subsec. (a)(2) to (4). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto Rico, or the District of Columbia" after "contribute to any State".
 
-Subsec. (a)(5). Pub. L. 97–214, §3(e)(1), substituted "contribute to any State amounts for the acquisition,construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter" for "contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter" and "A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied".
+Subsec. (a)(5). Pub. L. 97–214, §3(e)(1), substituted "contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter" for "contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter" and "A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied".
 
 Subsec. (a)(6). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto Rico, or the District of Columbia" after "contribute to any State".
 
@@ -149,6 +151,8 @@ Subsec. (b). Pub. L. 85–861, §1(38), inserted "by the United States" after "p
 Subsec. (d). Pub. L. 85–861, §1(39), added subsec. (d).
 
 Subsecs. (e), (f). Pub. L. 85–685, §601(2), added subsecs. (e) and (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

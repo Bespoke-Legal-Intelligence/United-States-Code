@@ -16,7 +16,7 @@ There is established a commission to be known as the Indian Law and Order Commis
 
 &emsp;&emsp;&emsp;(ii) the Secretary;
 
-&emsp;&emsp;(B) 2 shall be appointed by the Majority Leader of the Senate, in consultation withthe Chairpersons of the Committees on Indian Affairs and the Judiciary of the Senate;
+&emsp;&emsp;(B) 2 shall be appointed by the Majority Leader of the Senate, in consultation with the Chairpersons of the Committees on Indian Affairs and the Judiciary of the Senate;
 
 &emsp;&emsp;(C) 1 shall be appointed by the Minority Leader of the Senate, in consultation with the Vice Chairperson and Ranking Member of the Committees on Indian Affairs and the Judiciary of the Senate;
 
@@ -218,7 +218,7 @@ Not later than 3 years after the date of enactment of this Act, the Commission s
 
 #### (A) Composition
 
-&emsp;&emsp;The Tribal Advisory Committee shall consist of 2 representatives of Indian tribes from each region of the Bureau of Indian Affairs.
+&emsp;&emsp;The Tribal Advisory Committee shall consist of 2 representatives of Indian tribesfrom each region of the Bureau of Indian Affairs.
 
 #### (B) Qualifications
 

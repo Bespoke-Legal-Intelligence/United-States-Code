@@ -62,6 +62,8 @@ This section shall not apply to any taxable year beginning after December 31, 20
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2). Pub. L. 115–141 substituted "shall be" for "shall be shall be" in introductory provisions.
@@ -94,6 +96,8 @@ Subsecs. (f), (g). Pub. L. 112–240, §101(b)(2)(A)(ii), struck out subsecs. (f
 
 Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: "This section shall not apply to any taxable year beginning after December 31, 1995."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11002(d)(2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -110,7 +114,7 @@ Pub. L. 107–16, title I, §103(b), June 7, 2001, 115 Stat. 45, provided that: 
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911, provided that: "The amendmentmade by subsection (b)(2) \[amending this section\] shall apply to taxable years beginning after December 31, 1990."
+Pub. L. 105–277, div. J, title IV, §4004(c)(3), Oct. 21, 1998, 112 Stat. 2681–911, provided that: "The amendment made by subsection (b)(2) \[amending this section\] shall apply to taxable years beginning after December 31, 1990."
 
 #### Effective Date of 1993 Amendment
 

@@ -24,7 +24,7 @@ For the purposes of this subchapter, the term "qualified opportunity zone" means
 
 #### (3) Special rule for Puerto Rico
 
-&emsp;Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as a qualified opportunity zone, effective on the date of the enactment of Public Law 115–97.
+&emsp;Each population census tract in Puerto Rico that is a low-income community shall be deemed to be certified and designated as aqualified opportunity zone, effective on the date of the enactment of Public Law 115–97.
 
 #### (c) Other definitions
 
@@ -78,6 +78,8 @@ A designation as a qualified opportunity zone shall remain in effect for the per
 
 (Added Pub. L. 115–97, title I, §13823(a), Dec. 22, 2017, 131 Stat. 2183; amended Pub. L. 115–123, div. D, title II, §41115, Feb. 9, 2018, 132 Stat. 161.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of Public Law 115–97, referred to in subsec. (b)(3), is Dec. 22, 2017.
@@ -89,6 +91,8 @@ The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (
 <b>2018</b>—Subsec. (b)(3). Pub. L. 115–123, §41115(a), added par. (3).
 
 Subsec. (d)(1). Pub. L. 115–123, §41115(b), inserted "and subsection (b)(3)" after "paragraph (2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

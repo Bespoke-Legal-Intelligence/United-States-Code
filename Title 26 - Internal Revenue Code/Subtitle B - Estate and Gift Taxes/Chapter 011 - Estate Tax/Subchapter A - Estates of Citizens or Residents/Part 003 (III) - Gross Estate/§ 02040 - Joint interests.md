@@ -20,6 +20,8 @@ The value of the gross estate shall include the value of all property to the ext
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 385; Pub. L. 87–834, §18(a)(2)(G), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2002(c)(1), (3), Oct. 4, 1976, 90 Stat. 1855, 1856; Pub. L. 95–600, title V, §511(a), title VII, §702(k)(2), Nov. 6, 1978, 92 Stat. 2881, 2932; Pub. L. 96–222, title I, §105(a)(3), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–34, title IV, §403(c)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 301, 302.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–34, §403(c)(2), substituted "joint tenants with right of survivorship" for "joint tenants" in three places.
@@ -39,6 +41,8 @@ Subsecs. (d), (e). Pub. L. 95–600, §702(k)(2), added subsecs. (d) and (e).
 <b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), added heading for subsec. (a), and added subsec. (b).
 
 <b>1962</b>—Pub. L. 87–834 struck out provisions which excepted real property outside of the United States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 
@@ -62,5 +66,5 @@ Amendment by Pub. L. 87–834 applicable to estates of decedents dying after Oct
 
 #### Consideration Given Before July 14, 1988 by Decedent to Noncitizen Spouse Treated as Originally Belonging to Spouse
 
-Pub. L. 101–239, title VII, §7815(d)(16), Dec. 19, 1989, 103 Stat. 2419, as amended by Pub. L. 101–508, title XI, §11701(l)(3), Nov. 5, 1990, 104 Stat. 1388–513, provided that: "For purposes of applying section 2040(a) of the Internal Revenue Code of 1986 with respect to any joint interest to which section 2040(b) of such Code does not apply solely by reason of section 2056(d)(1)(B) of suchCode, any consideration furnished before July 14, 1988, by the decedent for such interest to the extent treated as a gift to the spouse of the decedent for purposes of chapter 12 of such Code (or would have been so treated if the donor were a citizen of the United States) shall be treated as consideration originally belonging to such spouse and never acquired by such spouse from the decedent."
+Pub. L. 101–239, title VII, §7815(d)(16), Dec. 19, 1989, 103 Stat. 2419, as amended by Pub. L. 101–508, title XI, §11701(l)(3), Nov. 5, 1990, 104 Stat. 1388–513, provided that: "For purposes of applying section 2040(a) of the Internal Revenue Code of 1986 with respect to any joint interest to which section 2040(b) of such Code does not apply solely by reason of section 2056(d)(1)(B) of such Code, any consideration furnished before July 14, 1988, by the decedent for such interest to the extent treated as a gift to the spouse of the decedent for purposes of chapter 12 of such Code (or would have been so treated if the donor were a citizen of the United States) shall be treated as consideration originally belonging to such spouse and never acquired by such spouse from the decedent."
 

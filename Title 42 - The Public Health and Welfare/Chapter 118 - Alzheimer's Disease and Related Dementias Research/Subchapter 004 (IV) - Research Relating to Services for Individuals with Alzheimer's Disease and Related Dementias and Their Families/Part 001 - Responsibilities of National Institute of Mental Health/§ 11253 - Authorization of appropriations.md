@@ -2,7 +2,9 @@
 
 There are authorized to be appropriated to carry out this part such sums as may be necessary for each of the fiscal years 1992 through 1996.
 
-(Pub. L. 99–660, title IX, §933, formerly §946, Nov. 14, 1986, 100 Stat. 3810; renumbered §933, Pub. L. 100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102Stat. 3057; Pub. L. 102–507, §7(a)(3), Oct. 24, 1992, 106 Stat. 3284.)
+(Pub. L. 99–660, title IX, §933, formerly §946, Nov. 14, 1986, 100 Stat. 3810; renumbered §933, Pub. L. 100–607, title I, §142(c)(2)(B), Nov. 4, 1988, 102 Stat. 3057; Pub. L. 102–507, §7(a)(3), Oct. 24, 1992, 106 Stat. 3284.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

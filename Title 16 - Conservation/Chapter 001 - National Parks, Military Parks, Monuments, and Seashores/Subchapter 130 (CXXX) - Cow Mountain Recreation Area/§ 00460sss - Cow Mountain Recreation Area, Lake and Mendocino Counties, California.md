@@ -36,7 +36,7 @@ In order to enhance the recreational and scenic values of the Cow Mountain area 
 
 #### (2) Off-road and motorized recreation
 
-&emsp;Motorized recreation shall be a prescribed use within the South Cow Mountain OHV Management Area, occurring only on roads and trails designated by the Secretary for such use, except as needed for administrative purposes or to respond to an emergency. Nothing in this paragraph shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
+&emsp;Motorized recreation shall be a prescribed use within the South Cow Mountain OHV Management Area, occurring only on roads andtrails designated by the Secretary for such use, except as needed for administrative purposes or to respond to an emergency. Nothing in this paragraph shall be construed as precluding the Secretary from closing any trail or route from use for purposes of resource protection or public safety.
 
 #### (3) Mountain biking
 
@@ -68,11 +68,15 @@ Nothing in this section creates protective perimeters or buffer zones around the
 
 (Pub. L. 109–362, §9, Oct. 17, 2006, 120 Stat. 2071.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(2), is Pub. L. 109–362, Oct. 17, 2006, 120 Stat. 2064, known as the Northern California Coastal Wild Heritage Wilderness Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -14,7 +14,7 @@ Nothing contained in this chapter shall be held to make unlawful any of the foll
 
 (f) The owner of any patent, trade-mark, print, label, or copyright under which a license is granted hereunder may, after the end of the war and until the expiration of one year thereafter, file a bill in equity against the licensee in the district court of the United States for the district in which the said licensee resides, or, if a corporation, in which it has its principal place of business (to which suit the Treasurer of the United States shall be made a party), for recovery from the said licensee for all use and enjoyment of the said patented invention, trade-mark, print, label, or copyrighted matter: <i>Provided, however</i>, That whenever suit is brought, as above, notice shall be filed with the alien property custodian within thirty days after date of entry of suit: <i>Provided further</i>, That the licensee may make any and all defenses which would be available were no license granted. The court on due proceedings had may adjudge and decree to the said owner payment of a reasonable royalty. The amount of said judgment and decree, when final, shall be paid on order of the court to the owner of the patent from the fund deposited by the licensee, so far as such deposit will satisfy said judgment and decree; and the said payment shall be in full or partial satisfaction of said judgment and decree, as the facts may appear; and if, after payment of all such judgments and decrees, there shall remain any balance of said deposit, such balance shall be repaid to the licensee on order of the alien property custodian. If no suit is brought within one year after the end of the war, or no notice is filed as above required, then the licensee shall not be liable to make any further deposits, and all funds deposited by him shall be repaid to him on order of the alien property custodian. Upon entry of suit and notice filed as above required, or upon repayment of funds as above provided, the liability of the licensee to make further reports to the President shall cease.
 
-If suit is brought as above provided, the court may, at any time, terminate the license, and may, in such event, issue an injunction to restrain the licensee from infringement thereafter, or the court, in case the licensee, prior to suit, shall have made investment of capital based on possession of the license, may continue the license for such period and upon such terms and with such royalties as it shall find to be just and reasonable.
+If suit is brought as above provided, the court may, at any time, terminate the license, and may, in such event, issue an injunction to restrain the licensee from infringement thereafter, or the court, in case the licensee, prior to suit, shall have made investment of capital based on possession of the license, may continue the license for such period and upon such termsand with such royalties as it shall find to be just and reasonable.
 
 In the case of any such patent, trade-mark, print, label, or copyright, conveyed, assigned, transferred, or delivered to the Alien Property Custodian or seized by him, any suit brought under this subsection, within the time limited therein, shall be considered as having been brought by the owner within the meaning of this subsection, in so far as such suit relates to royalties for the period prior to the sale by the Alien Property Custodian of such patent, trade-mark, print, label, or copyright, if brought either by the Alien Property Custodian or by the person who was the owner thereof immediately prior to the date such patent, trade-mark, print, label, or copyright was seized or otherwise acquired by the Alien Property Custodian.
 
@@ -27,6 +27,8 @@ In the case of any such patent, trade-mark, print, label, or copyright, conveyed
 When an applicant whose patent is withheld as herein provided and who faithfully obeys the order of the President above referred to shall tender his invention to the Government of the United States for its use, he shall, if he ultimately receives a patent, have the right to sue for compensation in the United States Court of Federal Claims, such right to compensation to begin from the date of the use of the invention by the Government.
 
 (Oct. 6, 1917, ch. 106, §10, 40 Stat. 420; Mar. 10, 1928, ch. 167, §19, 45 Stat. 277; Aug. 8, 1946, ch. 910, §13, 60 Stat. 944; Pub. L. 97–164, title I, §160(a)(17), Apr. 2, 1982, 96 Stat. 48; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(26)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–585.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -52,6 +54,8 @@ The provisions of subsection (i) of this section are similar to the provisions o
 
 <b>1928</b>—Subsec. (f). Act Mar. 10, 1928, added par. at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
@@ -63,6 +67,8 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

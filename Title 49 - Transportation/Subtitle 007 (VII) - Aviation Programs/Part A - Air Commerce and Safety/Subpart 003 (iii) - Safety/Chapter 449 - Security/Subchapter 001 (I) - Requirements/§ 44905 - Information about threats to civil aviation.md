@@ -10,7 +10,7 @@ Flight Cancellation.—If a decision is made that a particular threat cannot be 
 
 (c)
 
-Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuringthat public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
+Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuring that public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
 
 &emsp;(A) deciding, on a case-by-case basis, if public notice of a threat is in the best interest of the United States and the traveling public;
 
@@ -105,6 +105,8 @@ In subsection (c)(1)(B), the words "when considered appropriate" are omitted as 
 In subsection (e), the words "selective potential travelers" are substituted for "only selective potential travelers" to eliminate an unnecessary word.
 
 In subsection (f), the words "departments, agencies, and instrumentalities of the Government" are substituted for "agencies" for clarity and consistency in the revised title and with other titles of the United States Code. The words "However, a restriction on access to that information may be imposed only if the restriction does not diminish" are substituted for "Any restriction adopted pursuant to this subsection shall not diminish" for clarity.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -102,9 +102,11 @@ Any person who violates any requirement of this subchapter shall be liable to th
 
 (1) Whenever on the basis of any information the Administrator determines that there is or has been a release of hazardous waste into the environment from a facility authorized to operate under section 6925(e) of this title, the Administrator may issue an order requiring corrective action or such other response measure as he deems necessary to protect human health or the environment or the Administrator may commence a civil action in the United States district court in the district in which the facility is located for appropriate relief, including a temporary or permanent injunction.
 
-(2) Any order issued under this subsection may include a suspension or revocation of authorization to operate under section 6925(e) of this title, shall state with reasonable specificity the nature of the required corrective action or other response measure, and shall specify a time for compliance. If any person named in an order fails to comply with the order, the Administrator may assess, and such person shall be liable to the United States for, a civil penalty in an amount not to exceed $25,000 for each day of noncompliance with the order.
+(2) Any order issued under this subsection may include a suspension or revocation of authorization to operate under section 6925(e) of this title, shall state with reasonable specificity the nature of the required corrective action or other response measure, and shall specify a time for compliance. If any person named in an order fails to comply with the order, the Administrator may assess, and such person shall be liable to the United States for, a civil penalty inan amount not to exceed $25,000 for each day of noncompliance with the order.
 
 (Pub. L. 89–272, title II, §3008, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2811; amended Pub. L. 95–609, §7(k), Nov. 8, 1978, 92 Stat. 3082; Pub. L. 96–482, §13, Oct. 21, 1980, 94 Stat. 2339; Pub. L. 98–616, title II, §§232, 233, 245(c), title IV, §403(d)(1)–(3), Nov. 8, 1984, 98 Stat. 3256, 3257, 3264, 3272; Pub. L. 99–499, title II, §205(i), Oct. 17, 1986, 100 Stat. 1703.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -163,6 +165,8 @@ Subsecs. (e) to (g). Pub. L. 96–482, §13(5), added subsecs. (e) to (g).
 <b>1978</b>—Subsec. (d)(1). Pub. L. 95–609, §7(k)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
 
 Subsec. (d)(2). Pub. L. 95–609, §7(k)(2), inserted provisions relating to treatment or storage of hazardous wastes and relating to title I of the Marine Protection, Research, and Sanctuaries Act.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

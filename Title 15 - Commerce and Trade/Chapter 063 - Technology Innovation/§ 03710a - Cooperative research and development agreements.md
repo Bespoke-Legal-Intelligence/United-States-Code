@@ -74,7 +74,7 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 &emsp;(B) give preference to business units located in the United States which agree that products embodying inventions made under the cooperative research and development agreement or produced through the use of such inventions will be manufactured substantially in the United States and, in the case of any industrial organization or other person subject to the control of a foreign company or government, as appropriate, take into consideration whether or not such foreign government permits United States agencies, organizations, or other persons to enter into cooperative research and development agreements and licensing agreements.
 
-(5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operated laboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
+(5)(A) If the head of the agency or his designee desires an opportunity to disapprove or require the modification of any such agreement presented by the director of a Government-operatedlaboratory, the agreement shall provide a 30-day period within which such action must be taken beginning on the date the agreement is presented to him or her by the head of the laboratory concerned.
 
 (B) In any case in which the head of an agency or his designee disapproves or requires the modification of an agreement presented by the director of a Government-operated laboratory under this section, the head of the agency or such designee shall transmit a written explanation of such disapproval or modification to the head of the laboratory concerned.
 
@@ -90,9 +90,11 @@ Each Federal agency may permit the director of any of its Government-operated Fe
 
 (6) Each agency shall maintain a record of all agreements entered into under this section.
 
-(7)(A) No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section 552(b)(4) of title 5, which is obtained in the conduct of research or as a result of activities under this chapter from a non-Federal party participating in a cooperative research and development agreement shall be disclosed.
+(7) (A) No trade secrets or commercial or financial information that is privileged or confidential, under the meaning of section 552(b)(4) of title 5, which is obtained in the conduct of research or as a result of activities under this chapter from a non-Federal party participating in a cooperative research and development agreement shall be disclosed.
 
-(B) The director, or in the case of a contractor-operated laboratory, the agency, for a period of up to 5 years after development of information that results from research and development activities conducted under this chapter and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement, may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
+(B)(i) Subject to clause (ii), the director, or in the case of a contractor-operated laboratory, the agency, for a period of up to 5 years after development of information that results from research and development activities conducted under this chapter and that would be a trade secret or commercial or financial information that is privileged or confidential if the information had been obtained from a non-Federal party participating in a cooperative research and development agreement, may provide appropriate protections against the dissemination of such information, including exemption from subchapter II of chapter 5 of title 5.
+
+(II) <sup>2</sup> The agency may authorize the director to provide appropriate protections against dissemination described in clause (i) for a total period of not more than 30 years if the agency determines that the nature of the information protected against dissemination, including nuclear technology, could reasonably require an extended period of that protection to reach commercialization.
 
 #### (d) Definitions
 
@@ -110,7 +112,7 @@ As used in this section—
 
 > &emsp;but such term does not include any facility covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
-&emsp;(3) the term "joint work statement" means a proposal prepared for a Federal agency by the director of a Government-owned, contractor-operated laboratory describing the purpose and scope of a proposed cooperative research and development agreement, and assigning rights and responsibilities among the agency, the laboratory, and any other party or parties to the proposed agreement; and
+&emsp;(3) the term "joint work statement" means a proposal prepared for a Federal agency by the director of a Government-owned, contractor-operated laboratory describing the purpose and scope of a proposed cooperativeresearch and development agreement, and assigning rights and responsibilities among the agency, the laboratory, and any other party or parties to the proposed agreement; and
 
 &emsp;(4) the term "weapon production facility of the Department of Energy" means a facility under the control or jurisdiction of the Secretary of Energy that is operated for national security purposes and is engaged in the production, maintenance, testing, or dismantlement of a nuclear weapon or its components.
 
@@ -130,7 +132,9 @@ In implementing this section, each agency which has contracted with a non-Federa
 
 &emsp;(2) Classified information and unclassified sensitive information protected by law, regulation, or Executive order shall be appropriately safeguarded.
 
-(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742.)
+(Pub. L. 96–480, §12, as added and renumbered §11, Pub. L. 99–502, §§2, 9(e)(1), Oct. 20, 1986, 100 Stat. 1785, 1797; renumbered §12, Pub. L. 100–418, title V, §5122(a)(1), Aug. 23, 1988, 102 Stat. 1438; amended Pub. L. 100–519, title III, §301, Oct. 24, 1988, 102 Stat. 2597; Pub. L. 101–189, div. C, title XXXI, §3133(a), (b), Nov. 29, 1989, 103 Stat. 1675, 1677; Pub. L. 102–25, title VII, §705(g), Apr. 6, 1991, 105 Stat. 121; Pub. L. 102–245, title III, §302(a), Feb. 14, 1992, 106 Stat. 20; Pub. L. 102–484, div. C, title XXXI, §3135(a), Oct. 23, 1992, 106 Stat. 2640; Pub. L. 103–160, div. C, title XXXI, §3160, Nov. 30, 1993, 107 Stat. 1957; Pub. L. 104–113, §4, Mar. 7, 1996, 110 Stat. 775; Pub. L. 106–398, §1 \[div. C, title XXXI, §3196\], Oct. 30, 2000, 114 Stat. 1654, 1654A–481; Pub. L. 106–404, §3, Nov. 1, 2000, 114 Stat. 1742; Pub. L. 117–58, div. D, title III, §40322(b)(1), Nov. 15, 2021, 135 Stat. 1018.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -139,6 +143,8 @@ Section 203(2) of title 35, referred to in subsec. (b)(1)(C), was redesignated s
 Executive Order No. 12344, referred to in subsec. (d)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(7)(B). Pub. L. 117–58 designated existing provisions as cl. (i), substituted "Subject to clause (ii), the director" for "The director", and added cl. (II).
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[div. C, title XXXI, §3196(a)\], substituted "joint work statement or, if permitted by the agency, in an agency-approved annual strategic plan," for "joint work statement," in introductory provisions.
 
@@ -168,7 +174,7 @@ Subsec. (d)(1). Pub. L. 102–245 inserted "intellectual property," after "equip
 
 Subsec. (a)(2). Pub. L. 101–189, §3133(a)(1)(B), (C), substituted "(in the case of a Government-owned, contractor-operated laboratory, subject to subsection (c) of this section) for" for "for Government-owned" and struck out "of Federal employees" before "that may be voluntarily".
 
-Subsec. (b). Pub. L. 101–189, §3133(a)(2)(A), (C), inserted ", and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory," after "Government-operated Federal laboratory" in introductory provisions and inserted concluding provisions "A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section may use or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory."
+Subsec. (b). Pub. L. 101–189, §3133(a)(2)(A), (C), inserted ", and, to the extent provided in an agency-approved joint work statement, a Government-owned, contractor-operated laboratory," after "Government-operated Federal laboratory" in introductory provisions and inserted concluding provisions "A Government-owned, contractor-operated laboratory that enters into a cooperative research and development agreement under subsection (a)(1) of this section mayuse or obligate royalties or other income accruing to such laboratory under such agreement with respect to any invention only (i) for payments to inventors; (ii) for the purposes described in section 3710c(a)(1)(B)(i), (ii), and (iv) of this title; and (iii) for scientific research and development consistent with the research and development mission and objectives of the laboratory."
 
 Subsec. (b)(2). Pub. L. 101–189, §3133(a)(2)(B), substituted "a laboratory employee" for "a Federal employee".
 
@@ -191,6 +197,20 @@ Subsec. (g). Pub. L. 101–189, §3133(b), added subsec. (g).
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–519, §301(1), substituted "or other intellectual property developed at the laboratory and other inventions or other intellectual property" for "at the laboratory and other inventions".
 
 Subsec. (b)(4), (5). Pub. L. 100–519, §301(2), added par. (4) and redesignated former par. (4) as (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Applicability of 2021 Amendment
+
+Pub. L. 117–58, div. D, title III, §40322(b)(2), Nov. 15, 2021, 135 Stat. 1018, provided that:
+
+"(A)
+
+Definition.—In this subsection, the term 'cooperative research and development agreement' has the meaning given the term in section 12(d) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(d)).
+
+"(B)
+
+Retroactive effect.—Clause (ii) \[sic\] of section 12(c)(7)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a(c)(7)(B)), as added by subsection (a) of this section, shall apply with respect to any cooperative research and development agreement that is in effect as of the day before the date of enactment of this Act \[Nov. 15, 2021\]."
 
 #### Review of Cooperative Research and Development Agreement Procedures
 
@@ -271,4 +291,6 @@ Section 3133(d) of Pub. L. 101–189, as amended by Pub. L. 101–510, div. A, t
 \[Pub. L. 101–510, div. A, title VIII, §828(b), Nov. 5, 1990, 104 Stat. 1607, provided that: "Paragraph (6) of 3133(d) of such Act \[Pub. L. 101–189, set out above\], as added by subsection (a), shall apply only to contracts entered into after the date of enactment of this Act \[Nov. 5, 1990\]."\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be (ii).</i>
 

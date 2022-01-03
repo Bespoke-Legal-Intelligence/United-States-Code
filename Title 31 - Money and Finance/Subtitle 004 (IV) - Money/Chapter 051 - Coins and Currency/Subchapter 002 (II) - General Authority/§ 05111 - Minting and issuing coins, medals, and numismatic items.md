@@ -10,7 +10,7 @@
 
 &emsp;(4) may mint coins for a foreign country if the minting does not interfere with regular minting operations, and shall prescribe a charge for minting the foreign coins equal to the cost of the minting (including labor, materials, and the use of machinery).
 
-(b) The Department of the Treasury has a coinage metal fund and a coinage profit fund. The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal.The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
+(b) The Department of the Treasury has a coinage metal fund and a coinage profit fund. The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal. The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
 
 (c)
 
@@ -44,7 +44,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
-(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
+(3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforceforfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 980; Pub. L. 100–274, §3, Mar. 31, 1988, 102 Stat. 49; Pub. L. 102–390, title II, §222, Oct. 6, 1992, 106 Stat. 1629.)
 
@@ -136,7 +136,7 @@ In subsection (a)(1), the words "coins described in" are substituted for "coins 
 
 In subsection (a)(2), the words "Secretary of the Treasury" are substituted for "engraver" and "superintendent of coining department of the mint at Philadelphia" because of the source provisions restated in section 321(c) of the revised title. The words "under such regulations as the superintendent, with the approval of the Director of the Mint, may prescribe" are omitted as unnecessary because of section 321(b) of the revised title. The words "national medal dies" are substituted for "Dies of a national character" for clarity. The words "or the machinery or apparatus thereof be used for that purpose" are omitted as unnecessary because of the restatement.
 
-In subsection (a)(3), the words "numismatic items" are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words "In connection with the operations of the Bureauof the Mint" are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
+In subsection (a)(3), the words "numismatic items" are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words "In connection with the operations of the Bureau of the Mint" are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
 In subsection (a)(4), the words "may mint" are substituted for "It shall be lawful for coinage to be executed" in 31:367, and the words "regular minting operations" are substituted for "required coinage of the United States", for consistency in the revised section. The words "at the mints of the United States" and "according to the legally prescribed standards and devices of such country" are omitted as unnecessary because of the restatement. The words "The Secretary of the Treasury . . . shall prescribe a charge" are substituted for "the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The words "minting the foreign coins" are substituted for "the same", for clarity. The words "under such regulations as the Secretary of the Treasury may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
 
@@ -172,6 +172,12 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 117–72, Dec. 16, 2021, 135 Stat. 1511, recognizing the 13 United States servicemembers killed at the Hamid Karzai International Airport in Kabul, Afghanistan, on Aug. 26, 2021.
+
+Pub. L. 117–38, Aug. 25, 2021, 135 Stat. 333, recognizing the 369th Infantry Regiment, commonly known as the "Harlem Hellfighters", for service during World War I.
+
+Pub. L. 117–32, Aug. 5, 2021, 135 Stat. 322, recognizing the United States Capitol Police and those who protected the U.S. Capitol on January 6, 2021.
+
 Pub. L. 116–208, Dec. 4, 2020, 134 Stat. 1008, recognizing Greg LeMond.
 
 Pub. L. 116–195, Dec. 3, 2020, 134 Stat. 984, recognizing female individuals who held employment or volunteered in support of the war efforts during World War II, known as "Rosie the Riveter".
@@ -186,7 +192,7 @@ Pub. L. 115–415, Jan. 3, 2019, 132 Stat. 5433, recognizing Stephen Michael Gle
 
 Pub. L. 115–338, Dec. 20, 2018, 132 Stat. 5033, recognizing the crew of the USS Indianapolis.
 
-Pub. L. 115–337, Dec. 20, 2018, 132 Stat. 5029, recognizing Chinese-American Veterans of World II.
+Pub. L. 115–337, Dec. 20, 2018, 132 Stat. 5029, recognizing Chinese-American Veterans of World War II.
 
 Pub. L. 115–322, Dec. 17, 2018, 132 Stat. 4440, recognizing Larry Doby.
 

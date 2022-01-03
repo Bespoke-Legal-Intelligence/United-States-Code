@@ -22,7 +22,7 @@ The Secretary shall begin to incorporate the standards and guidelines required b
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law,the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
+&emsp;&emsp;Except as provided in subparagraph (B), notwithstanding any other provision of law, the Secretary shall not be required to engage in consultation under this section or any other provision of law (including section 7 of Public Law 93–205 (16 U.S.C. 1536) and section 402.16 of title 50, Code of Federal Regulations (or a successor regulation)) with respect to—
 
 &emsp;&emsp;&emsp;(i) the listing of a species as threatened or endangered, or a designation of critical habitat pursuant to Public Law 93–205 (16 U.S.C. 1531 et seq.), if a land management plan has been adopted by the Secretary as of the date of listing or designation; and
 
@@ -126,7 +126,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
-Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits,contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
+Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
 
 #### (j) Effective date of land management plans and revisions
 
@@ -154,6 +154,8 @@ The Secretary shall establish—
 
 (Pub. L. 93–378, §6, formerly, §5, Aug. 17, 1974, 88 Stat. 477, renumbered §6 and amended Pub. L. 94–588, §§2, 6, 12(a), Oct. 22, 1976, 90 Stat. 2949, 2952, 2958; Pub. L. 115–141, div. O, title II, §208(a), (b)(2), Mar. 23, 2018, 132 Stat. 1065, 1066.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Public Law 93–205, referred to subsec. (d)(2)(A)(i), (C)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
@@ -176,9 +178,7 @@ Subsec. (h)(1). Pub. L. 115–141, §208(b)(2), substituted "Secretary shall app
 
 Subsecs. (c) to (m). Pub. L. 94–588, §6, added subsecs. (c) to (m).
 
-#### Transfer of Functions
-
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Revision of Forest Plans
 
@@ -229,6 +229,12 @@ Pub. L. 100–446, title III, §314, Sept. 27, 1988, 102 Stat. 1825.
 Pub. L. 100–202, §101(g) \[title III, §314\], Dec. 22, 1987, 101 Stat. 1329–213, 1329–254.
 
 Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–268, and Pub. L. 99–591, §101(h) \[title II\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–268.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this subchapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 1601 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

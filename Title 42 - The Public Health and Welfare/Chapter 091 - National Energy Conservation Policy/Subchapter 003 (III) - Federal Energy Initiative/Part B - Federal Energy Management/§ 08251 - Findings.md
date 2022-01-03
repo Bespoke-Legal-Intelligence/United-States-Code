@@ -14,9 +14,13 @@ The Congress finds that—
 
 (Pub. L. 95–619, title V, §541, Nov. 9, 1978, 92 Stat. 3277; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3185.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–615 amended Congressional findings provisions generally.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13123
 

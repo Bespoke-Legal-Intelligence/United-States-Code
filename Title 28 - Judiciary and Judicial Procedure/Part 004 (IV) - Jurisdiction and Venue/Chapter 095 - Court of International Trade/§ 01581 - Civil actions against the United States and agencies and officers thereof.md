@@ -64,7 +64,7 @@ The predecessor of the United States Customs Court was the Board of General Appr
 
 From 1890 to 1926, the Board of General Appraisers had jurisdiction over all protests from decisions of the collectors of customs and appeals for reappraisement under sections 13 and 14 of the Customs Administrative Act of June 10, 1890, ch. 407, 26 Stat. 136.
 
-The Customs Court was established by act May 28, 1926, ch. 411, §§1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Board of General Appraisers. The Tariff Act of June 1930, ch. 497, title IV, §518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
+The Customs Court was established by act May 28, 1926, ch. 411, §§1, 2, 44 Stat. 669, sections 405a and 405b of Title 19, Customs Duties, and said act transferred to it all the jurisdiction and powers of the former Boardof General Appraisers. The Tariff Act of June 1930, ch. 497, title IV, §518, 46 Stat. 737, section 1518 of Title 19, continued the Customs Court as constituted on June 17, 1930 with, however, several important changes.
 
 #### References in Text
 
@@ -136,11 +136,11 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 1984, see section 214(d) of Pub. L. 98–573, set out as a note under section 1304 of Title 19, Customs Duties.
+Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 1984, see section 214(d) of Pub.L. 98–573, set out as a note under section 1304 of Title 19, Customs Duties.
 
 #### Effective Date
 
-Chapter effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on orafter such date, see section 701(a) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
+Chapter effective Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under section 251 of this title.
 
 Subsecs. (d) and (g) to (i) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(A) of Pub. L. 96–417.
 

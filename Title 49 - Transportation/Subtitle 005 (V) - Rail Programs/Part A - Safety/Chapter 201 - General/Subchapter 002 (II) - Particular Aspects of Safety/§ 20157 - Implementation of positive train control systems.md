@@ -106,7 +106,7 @@ Decision.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Not later than 90 days after the receipt of the notification from a railroad carrier or other entity under subparagraph (A), the Secretary shall—
+In general.—Not later than 90 days after the receipt of the notification from arailroad carrier or other entity under subparagraph (A), the Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) approve an alternative schedule and sequence submitted pursuant to paragraph (2)(B) if the railroad carrier or other entity meets the criteria in subparagraph (B); and
 
@@ -138,7 +138,7 @@ Progress Reports and Review.—
 
 &emsp;(1)
 
-Progress reports.—Each railroad carrier or other entity subject to subsection (a)shall, not later than March 31, 2016, and annually thereafter until such carrier or entity has completed implementation of a positive train control system, submit to the Secretary a report on the progress toward implementing such systems, including—
+Progress reports.—Each railroad carrier or other entity subject to subsection (a) shall, not later than March 31, 2016, and annually thereafter until such carrier or entity has completed implementation of a positive train control system, submit to the Secretary a report on the progress toward implementing such systems, including—
 
 &emsp;&emsp;(A) the information on spectrum acquisition provided pursuant to subsection (a)(2)(A)(iii)(I);
 
@@ -282,7 +282,7 @@ Early Adoption.—
 
 &emsp;(1)
 
-Operations.—From the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015 through the 1-year period beginning on the date on which the last Class I railroad carrier's positive train control system subject to subsection (a) is certified by the Secretary under subsection (h)(1) of this section and is implemented on all of that railroad carrier's lines required to have operations governed by a positive train control system, any railroad carrier, including any railroad carrier that has its positive train control system certified by the Secretary, shall not be subject to the operational restrictions set forth in sections 236.567 and 236.1029 of title 49, Code of Federal Regulations, that would apply where a controlling locomotive that is operating in, or is to be operated in, a positive train control-equipped track segment experiences a positive train control system failure, a positive train control operated consist is not provided by another railroad carrier when provided in interchange, or a positive train control system otherwise fails to initialize, cuts out, or malfunctions, provided that such carrier operates at an equivalent or greater level of safety than the level achieved immediately prior to the use or implementation of its positive train control system.
+Operations.—From the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015 throughthe 1-year period beginning on the date on which the last Class I railroad carrier's positive train control system subject to subsection (a) is certified by the Secretary under subsection (h)(1) of this section and is implemented on all of that railroad carrier's lines required to have operations governed by a positive train control system, any railroad carrier, including any railroad carrier that has its positive train control system certified by the Secretary, shall not be subject to the operational restrictions set forth in sections 236.567 and 236.1029 of title 49, Code of Federal Regulations, that would apply where a controlling locomotive that is operating in, or is to be operated in, a positive train control-equipped track segment experiences a positive train control system failure, a positive train control operated consist is not provided by another railroad carrier when provided in interchange, or a positive train control system otherwise fails to initialize, cuts out, or malfunctions, provided that such carrier operates at an equivalent or greater level of safety than the level achieved immediately prior to the use or implementation of its positive train control system.
 
 &emsp;(2)
 
@@ -294,7 +294,7 @@ Plans.—The positive train control safety plan for each railroad carrier or oth
 
 &emsp;(4)
 
-Notification.—During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location anddeadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
+Notification.—During the period described in paragraph (1), if a positive train control system that has been certified and implemented fails to initialize, cuts out, or malfunctions, the affected railroad carrier or other entity shall submit a notification to the appropriate regional office of the Federal Railroad Administration within 7 days of the system failure, or under alternative location and deadline requirements set by the Secretary, and include in the notification a description of the safety measures the affected railroad carrier or other entity has in place.
 
 (k)
 
@@ -304,7 +304,69 @@ Small Railroads.—Not later than 120 days after the date of the enactment of th
 
 Revenue Service Demonstration.—When a railroad carrier or other entity subject to (a)(1) <sup>2</sup> notifies the Secretary it is prepared to initiate revenue service demonstration, it shall also notify any applicable tenant railroad carrier or other entity subject to subsection (a)(1).
 
-(Added Pub. L. 110–432, div. A, title I, §104(a), Oct. 16, 2008, 122 Stat. 4856; amended Pub. L. 114–73, title I, §1302(b), (c), Oct. 29, 2015, 129 Stat. 576, 582; Pub. L. 114–94, div. A, title XI, §11315(d), Dec. 4, 2015, 129 Stat. 1675.)
+(m)
+
+Reports on Positive Train Control System Performance.—
+
+&emsp;(1)
+
+In general.—Each host railroad subject to this section or subpart I of part 236 of title 49, Code of Federal Regulations, shall electronically submit to the Secretary of Transportation a Report of PTC System Performance on Form FRA F 6180.152, which shall be submitted on or before the applicable due date set forth in paragraph (3) and contain the information described in paragraph (2), which shall be separated by the host railroad, each applicable tenant railroad, and each positive train control-governed track segment, consistent with the railroad's positive train control Implementation Plan described in subsection (a)(1).
+
+&emsp;(2)
+
+Required information.—Each report submitted pursuant to paragraph (1) shall include, for the applicable reporting period—
+
+&emsp;&emsp;(A) the number of positive train control system initialization failures, disaggregated by the number of initialization failures for which the source or cause was the onboard subsystem, the wayside subsystem, the communications subsystem, the back office subsystem, or a non-positive train control component;
+
+&emsp;&emsp;(B) the number of positive train control system cut outs, disaggregated by each component listed in subparagraph (A) that was the source or cause of such cut outs;
+
+&emsp;&emsp;(C) the number of positive train control system malfunctions, disaggregated by each component listed in subparagraph (A) that was the source or cause of such malfunctions;
+
+&emsp;&emsp;(D) the number of enforcements by the positive train control system;
+
+&emsp;&emsp;(E) the number of enforcements by the positive train control system in which it is reasonable to assume an accident or incident was prevented;
+
+&emsp;&emsp;(F) the number of scheduled attempts at initialization of the positive train control system;
+
+&emsp;&emsp;(G) the number of train miles governed by the positive train control system; and
+
+&emsp;&emsp;(H) a summary of any actions the host railroad and its tenant railroads are taking to reduce the frequency and rate of initialization failures, cut outs, and malfunctions, such as any actions to correct or eliminate systemic issues and specific problems.
+
+&emsp;(3)
+
+Due dates.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), each host railroad shall electronically submit the report required under paragraph (1) not later than—
+
+&emsp;&emsp;&emsp;(i) April 30, for the period from January 1 through March 31;
+
+&emsp;&emsp;&emsp;(ii) July 31, for the period from April 1 through June 30;
+
+&emsp;&emsp;&emsp;(iii) October 31, for the period from July 1 through September 30; and
+
+&emsp;&emsp;&emsp;(iv) January 31, for the period from October 1 through December 31 of the prior calendar year.
+
+&emsp;&emsp;(B)
+
+Frequency reduction.—Beginning on the date that is 3 years after the date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, the Secretary shall reduce the frequency with which host railroads are required to submit the report described in paragraph (1) to not less frequently than twice per year, unless the Secretary—
+
+&emsp;&emsp;&emsp;(i) determines that quarterly reporting is in the public interest; and
+
+&emsp;&emsp;&emsp;(ii) publishes a justification for such determination in the Federal Register.
+
+&emsp;(4)
+
+Tenant railroads.—Each tenant railroad that operates on a host railroad's positive train control-governed main line and is not currently subject to an exception under section 236.1006(b) of title 49, Code of Federal Regulations, shall submit the information described in paragraph (2) to each applicable host railroad on a continuous basis.
+
+&emsp;(5)
+
+Enforcements.—Any railroad operating a positive train control system classified under Federal Railroad Administration Type Approval number FRA–TA–2010–001 or FRA–TA–2013–003 shall begin submitting the metric required under paragraph (2)(D) not later than January 31, 2023.
+
+(Added Pub. L. 110–432, div. A, title I, §104(a), Oct. 16, 2008, 122 Stat. 4856; amended Pub. L. 114–73, title I, §1302(b), (c), Oct. 29, 2015, 129 Stat. 576, 582; Pub. L. 114–94, div. A, title XI, §11315(d), Dec. 4, 2015, 129 Stat. 1675; Pub. L. 117–58, div. B, title II, §22414, Nov. 15, 2021, 135 Stat. 744.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -314,7 +376,11 @@ The Positive Train Control Enforcement and Implementation Act of 2015, referred 
 
 The date of the enactment of this Act, referred to in subsec. (k), probably means the date of enactment of section 1302 of Pub. L. 114–73, known as the Positive Train Control Enforcement and Implementation Act of 2015, which enacted subsec. (k) and was approved Oct. 29, 2015.
 
+The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (m)(3)(B), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (m). Pub. L. 117–58 added subsec. (m).
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–73, §1302(b)(1)(A)–(D), in introductory provisions, substituted "90 days after the date of enactment of the Positive Train Control Enforcement and Implementation Act of 2015" for "18 months after the date of enactment of the Rail Safety Improvement Act of 2008", "a revised plan for implementing" for "a plan for implementing", and "December 31, 2018" for "December 31, 2015" and struck out "develop and" before "submit to the Secretary of Transportation".
 
@@ -335,6 +401,8 @@ Subsec. (h). Pub. L. 114–73, §1302(b)(4), designated existing provisions as p
 Subsec. (i). Pub. L. 114–73, §1302(b)(5), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
 Subsecs. (j) to (l). Pub. L. 114–73, §1302(b)(6), added subsecs. (j) to (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

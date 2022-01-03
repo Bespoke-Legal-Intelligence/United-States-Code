@@ -74,7 +74,7 @@ Required Regulations.—The Secretary, in coordination with the Director of the 
 
 (h)
 
-Annual Report.—(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years after the date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
+Annual Report.—(1) Not later than one year after the date of the enactment of this section and not less frequently than once each year thereafter until the date that is five years afterthe date of the enactment of this section, the Director of the Office of Personnel Management, in coordination with the Secretary, shall submit to the appropriate committees of Congress a detailed report on the administration of this section during the most recent one-year period.
 
 (2) Each report submitted under paragraph (1) shall include, for the period covered by the report, the following:
 
@@ -138,6 +138,8 @@ Definitions.—In this section:
 
 (Added Pub. L. 114–92, div. A, title XI, §1107(a), Nov. 25, 2015, 129 Stat. 1024; amended Pub. L. 114–328, div. A, title XI, §1103(a), (b)(2), Dec. 23, 2016, 130 Stat. 2444.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (h)(1) and (j)(1), is the date of enactment of Pub. L. 114–92, which was approved Nov. 25, 2015.
@@ -151,6 +153,8 @@ Subsec. (h). Pub. L. 114–328, §1103(a)(1), redesignated subsec. (g) as (h). F
 Subsec. (h)(2)(E). Pub. L. 114–328, §1103(b)(2), substituted "employees described in subsection (f)(2) on the use of authorities under this section" for "supervisors of employees in qualified positions at the Department on the use of the new authorities".
 
 Subsecs. (i) to (k). Pub. L. 114–328, §1103(a)(1), redesignated subsecs. (h) to (j) as (i) to (k), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -174,7 +178,7 @@ Report.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Chief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—
+In general.—Not later than 90 days after the date of the enactment of this Act \[Jan. 1, 2021\], theChief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and the congressional intelligence committees a strategy for expanding the policies described in paragraph (1) to—
 
 &emsp;&emsp;&emsp;"(i) individuals who occupy positions described in section 1599f of title 10, United States Code; and
 

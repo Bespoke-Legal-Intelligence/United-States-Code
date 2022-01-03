@@ -22,9 +22,13 @@ The Food Access Liaison shall—
 
 (Pub. L. 103–354, title II, §225, as added Pub. L. 115–334, title XII, §12614(a), Dec. 20, 2018, 132 Stat. 5014.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 225 of Pub. L. 103–354 is classified to section 6931 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Technical Assistance
 

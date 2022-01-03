@@ -36,6 +36,8 @@ Not later than 180 days after July 30, 2002, the Commission shall issue final ru
 
 (Pub. L. 107–204, title IV, §401, July 30, 2002, 116 Stat. 785.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 401 of Pub. L. 107–204. Subsec. (a) of section 401 of Pub. L. 107–204 amended section 78m of this title.

@@ -14,6 +14,8 @@ Eligible Students.—A student enrolled at an institution of higher education th
 
 (Added Pub. L. 102–484, div. A, title X, §1073(a)(2), Oct. 23, 1992, 106 Stat. 2510, §7047; renumbered §8547, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8547 was renumbered section 9217 of this title.
@@ -21,6 +23,8 @@ A prior section 8547 was renumbered section 9217 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7047 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

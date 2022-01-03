@@ -86,7 +86,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 &emsp;For purposes of this subsection, the term "portfolio interest" shall not include any portfolio interest which—
 
-&emsp;&emsp;(A) except in the case of interest paid on an obligation of the United States, is received by a bank on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business,
+&emsp;&emsp;(A) except in the case of interest paid on an obligation of the United States, is received by a bank on an extension of credit made pursuant to a loan agreement enteredinto in the ordinary course of its trade or business,
 
 &emsp;&emsp;(B) is received by a 10-percent shareholder (within the meaning of section 871(h)(3)(B)), or
 
@@ -146,7 +146,7 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 
 #### (2) Short-term capital gain dividends
 
-&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capitalgain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
+&emsp;No tax shall be imposed under paragraph (1) of subsection (a) on any short-term capital gain dividend (as defined in section 871(k)(2)) received from a regulated investment company.
 
 #### (f) Cross reference
 
@@ -155,6 +155,8 @@ No tax shall be imposed under paragraph (1) or (3) of subsection (a) on any amou
 &emsp;&emsp;<b>For special rules for original issue discount, see section 871(g).</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 282; Pub. L. 89–809, title I, §104(a), Nov. 13, 1966, 80 Stat. 1555; Pub. L. 92–178, title III, §313(a), (c), Dec. 10, 1971, 85 Stat. 526, 527; Pub. L. 92–606, §1(e)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title XIX, §1901(b)(3)(I), Oct. 4, 1976, 90 Stat. 1793; Pub. L. 98–369, div. A, title I, §§42(a)(10), 127(b), 128(b), 130(a), July 18, 1984, 98 Stat. 557, 650, 654, 660; Pub. L. 99–514, title XII, §§1211(b)(6), 1214(c)(2), 1223(b)(2), 1273(b)(1), (2)(A), title XVIII, §§1810(d)(1)(B), (3)(C), (e)(2)(B), 1899A(22), (23), (68), Oct. 22, 1986, 100 Stat. 2536, 2542, 2558, 2595, 2596, 2825, 2826, 2959, 2962; Pub. L. 100–647, title I, §1012(i)(17), Nov. 10, 1988, 102 Stat. 3510; Pub. L. 103–66, title XIII, §13237(a)(2), (c)(2), (3), Aug. 10, 1993, 107 Stat. 507, 508; Pub. L. 108–357, title IV, §§411(a)(2), 420(a), (c), Oct. 22, 2004, 118 Stat. 1503, 1513, 1514; Pub. L. 109–135, title IV, §412(jj), Dec. 21, 2005, 119 Stat. 2639; Pub. L. 111–147, title V, §502(b)(2)(B), Mar. 18, 2010, 124 Stat. 107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -224,7 +226,7 @@ Subsecs. (d), (e). Pub. L. 99–514, §1214(c)(2), added subsec. (d) and redesig
 
 Subsec. (a)(1). Pub. L. 98–369, §42(a)(10), substituted "section 1273" for "section 1232(b)".
 
-Subsec. (a)(3). Pub. L. 98–369, §128(b)(1), amended par. (3) generally, substituting in subpar. (A), "a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and" for "bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued afterMay 27, 1969,", substituting in subpar. (B), "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and" for "bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and", and striking out subpar. (C) which required that in the case of the payment of interest on an obligation described in subpar. (B), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by par. (1) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
+Subsec. (a)(3). Pub. L. 98–369, §128(b)(1), amended par. (3) generally, substituting in subpar. (A), "a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and" for "bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,", substituting in subpar. (B), "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and" for "bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and", and striking out subpar. (C) which required that in the case of the payment of interest on an obligation described in subpar. (B), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by par. (1) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
 
 Subsec. (b). Pub. L. 98–369, §130(a), amended subsec. (b) generally, substituting provision establishing an exception for certain Guam and Virgin Islands corporations for provision establishing an exception for Guam corporations.
 
@@ -240,9 +242,11 @@ Subsec. (d). Pub. L. 98–369, §127(b)(1), as amended by Pub. L. 99–514, §18
 
 <b>1971</b>—Subsec. (a)(1). Pub. L. 92–178, §313(a), inserted "(other than original issue discount as defined in section 1232(b))" after "interest".
 
-Subsec. (a)(3). Pub. L. 92–178, §313(c), designated existing provisions as subpar. (A), inserted "and before April 1, 1972," after "September 28, 1965,", substituted "section 1232(a)(2)(B)" for "section 1232", and inserted ", in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact that the obligations were issued after May 27, 1969,", and added subpars. (B) and (C).
+Subsec. (a)(3). Pub. L. 92–178, §313(c), designated existing provisions as subpar. (A), inserted "and before April 1, 1972," after "September 28, 1965,", substituted "section 1232(a)(2)(B)" for "section 1232", and inserted ", in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would beso considered but for the fact that the obligations were issued after May 27, 1969,", and added subpars. (B) and (C).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, substituted the concept of amounts received from sources within the United States by foreign corporations but not effectively connected with the conduct of a trade or business within the United States for the concept of amounts received from sources within the United States by foreign corporations not engaged in trade or business within the United States as the amount upon which the existing 30 percent levy should be imposed, and added contingent income received from the sale of patents and other intangibles and amounts of original issue discount which are treated as ordinary income received on retirement or sale or exchange of bonds or other evidences of indebtedness issued after Sept. 28, 1965, to the specified types of fixed or determinable income.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -290,7 +294,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1(e)(1)\[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971."
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971."
 
 #### Effective Date of 1971 Amendment
 

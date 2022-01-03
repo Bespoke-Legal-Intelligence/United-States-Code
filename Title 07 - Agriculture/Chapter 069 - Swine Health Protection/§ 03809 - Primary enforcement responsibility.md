@@ -32,6 +32,8 @@ Nothing in this section shall limit the authority of the Secretary to enforce th
 
 (Pub. L. 96–468, §10, Oct. 17, 1980, 94 Stat. 2233; Pub. L. 104–127, title IX, §914(a), Apr. 4, 1996, 110 Stat. 1186.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsecs. (c), (d). Pub. L. 104–127 added subsec. (c) and redesignated former subsec. (c) as (d).

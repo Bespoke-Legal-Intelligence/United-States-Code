@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) in the case of a credit transaction with a fixed rate of interest, the annual percentage rate and the amount of the regular monthly payment; or
 
-&emsp;&emsp;(B) in the case of any other credit transaction, the annual percentage rate of the loan, the amount of the regular monthly payment, a statement that the interest rate and monthly payment may increase, and the amount of the maximum monthly payment, based on the maximum interest rate allowed pursuant to section 3806 of title 12.
+&emsp;&emsp;(B) in the case of any other credit transaction, the annual percentage rate of the loan, the amount of the regular monthly payment, a statement that the interest rateand monthly payment may increase, and the amount of the maximum monthly payment, based on the maximum interest rate allowed pursuant to section 3806 of title 12.
 
 #### (b) Time of disclosures
 
@@ -226,6 +226,8 @@ A creditor or assignee in a high-cost mortgage who, when acting in good faith, f
 
 (Pub. L. 90–321, title I, §129, as added Pub. L. 103–325, title I, §152(d), Sept. 23, 1994, 108 Stat. 2191; amended Pub. L. 111–8, div. D, title VI, §626(c), Mar. 11, 2009, 123 Stat. 679; Pub. L. 111–203, title X, §1100A(2), (9), title XIV, §§1432, 1433, July 21, 2010, 124 Stat. 2107, 2109, 2160; Pub. L. 115–174, title I, §109(a), May 24, 2018, 132 Stat. 1305.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(aa) of this title, referred to in text, was redesignated section 1602(bb) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -250,13 +252,15 @@ Subsecs. (j) to (l). Pub. L. 111–203, §1433(a)(2), added subsecs. (j) to (l).
 
 Subsec. (m). Pub. L. 111–203, §1433(a)(2), added subsec. (m). Former subsec. (m) redesignated (q).
 
-Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement by the Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
+Pub. L. 111–203, §1100A(9), added subsec. (m) and struck out former subsec. (m). Prior to amendment, text read as follows: "For purposes of enforcement bythe Federal Trade Commission, any violation of a regulation issued by the Federal Reserve Board pursuant to subsection (l)(2) of this section shall be treated as a violation of a rule promulgated under section 57a of this title regarding unfair or deceptive acts or practices."
 
 Subsecs. (n) to (q). Pub. L. 111–203, §1433(a)(1), redesignated former subsecs. (j) to (m) as (n) to (q), respectively.
 
 Subsecs. (r) to (v). Pub. L. 111–203, §1433(b)–(f), added subsecs. (r) to (v).
 
 <b>2009</b>—Subsec. (m). Pub. L. 111–8 added subsec. (m).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -58,7 +58,7 @@ Subsecs. (e), (f). Pub. L. 108–183, §708(a)(2)(C), (D), redesignated subsec. 
 
 <b>1999</b>—Subsec. (b)(5) to (7). Pub. L. 106–117, §111(b)(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-Subsec. (d). Pub. L. 106–117, §203, struck out par. (1) designation, substituted "each Department health care facility" for "each designated health care region" and "each facility" for "each region", substituted "such facility" for "such region" in two places, and struck out par. (2) which read as follows: "In this subsection, the term 'designated health care regions of the Department' means the geographic areas designated by the Secretary for purposes of the management of, and allocation of resources for, health care services provided by the Department."
+Subsec. (d). Pub. L. 106–117, §203, struck out par. (1) designation, substituted "each Department health carefacility" for "each designated health care region" and "each facility" for "each region", substituted "such facility" for "such region" in two places, and struck out par. (2) which read as follows: "In this subsection, the term 'designated health care regions of the Department' means the geographic areas designated by the Secretary for purposes of the management of, and allocation of resources for, health care services provided by the Department."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

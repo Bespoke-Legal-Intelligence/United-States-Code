@@ -1,8 +1,8 @@
 ### §1065. Incontestability of right to use mark under certain conditions
 
-Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the owner to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
+Except on a ground for which application to cancel may be filed at any time under paragraphs (3), (5), and (6) of section 1064 of this title, and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the owner to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: <i>Provided</i>, That—
 
-&emsp;(1) there has been no final decision adverse to the owner's claim of ownership of suchmark for such goods or services, or to the owner's right to register the same or to keep the same on the register; and
+&emsp;(1) there has been no final decision adverse to the owner's claim of ownership of such mark for such goods or services, or to the owner's right to register the same or to keep the same on the register; and
 
 &emsp;(2) there is no proceeding involving said rights pending in the United States Patent and Trademark Office or in a court and not finally disposed of; and
 
@@ -16,9 +16,7 @@ The Director shall notify any registrant who files the above-prescribed affidavi
 
 (July 5, 1946, ch. 540, title I, §15, 60 Stat. 433; Pub. L. 87–772, §10, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §10, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §116, Nov. 16, 1988, 102 Stat. 3941; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(b), Mar. 17, 2010, 124 Stat. 67; Pub. L. 116–260, div. Q, title II, §225(e)(1), Dec. 27, 2020, 134 Stat. 2207.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. Q, title II, §225(e)(1), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by striking "paragraphs (3) and (5)" and inserting "paragraphs (3), (5), and (6)". See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -44,6 +42,8 @@ Par. (2). Pub. L. 111–146, §3(b)(3), inserted "United States" before "Patent 
 
 <b>1962</b>—Pub. L. 87–772 substituted "(c) and (e) of section 1064" for "(c) and (d) of section 1064" in provision preceding par. (1), and struck out "or trade name" after "in a mark" in par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, see section 225(g) of div. Q of Pub. L. 116–260, set out as a note under section 1064 of this title.
@@ -67,6 +67,8 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

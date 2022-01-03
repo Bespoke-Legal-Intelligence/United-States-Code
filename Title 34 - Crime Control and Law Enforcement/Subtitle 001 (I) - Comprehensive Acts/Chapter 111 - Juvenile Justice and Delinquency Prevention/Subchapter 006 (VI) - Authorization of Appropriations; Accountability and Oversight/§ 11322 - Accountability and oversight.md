@@ -102,7 +102,7 @@ It is the sense of Congress that, in order to ensure that at-risk youth, and you
 
 #### (C) Public availability on website
 
-&emsp;&emsp;The Attorney General shall make the summary of each review conducted under thissection available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
+&emsp;&emsp;The Attorney General shall make the summary of each review conducted under this section available on the website of the Department of Justice, subject to redaction as the Attorney General determines necessary to protect classified and other sensitive information.
 
 #### (D) Mandatory exclusion
 

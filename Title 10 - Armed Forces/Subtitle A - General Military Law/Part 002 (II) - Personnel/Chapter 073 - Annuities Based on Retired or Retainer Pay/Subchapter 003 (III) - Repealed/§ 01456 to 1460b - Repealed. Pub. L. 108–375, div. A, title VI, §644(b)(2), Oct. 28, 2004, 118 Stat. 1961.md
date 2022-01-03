@@ -8,11 +8,13 @@ Section 1458, added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29,
 
 Section 1459, added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1584, related to former spouse coverage: special rules.
 
-Section 1460, added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1584; amended Pub. L. 102–190, div. A, title VI, §653(b)(2), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 110–181, div. A, title IX, §906(c)(2), Jan. 28,2008, 122 Stat. 277, related to supplemental spouse coverage: reductions in retired pay.
+Section 1460, added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1584; amended Pub. L. 102–190, div. A, title VI, §653(b)(2), Dec. 5, 1991, 105 Stat. 1388; Pub. L. 110–181, div. A, title IX, §906(c)(2), Jan. 28, 2008, 122 Stat. 277, related to supplemental spouse coverage: reductions in retired pay.
 
 Section 1460a, added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1585; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(5), Nov. 5, 1990, 104 Stat. 1719, related to incorporation of certain administrative provisions.
 
 Section 1460b, added Pub. L. 101–189, div. A, title XIV, §1404(a)(1), Nov. 29, 1989, 103 Stat. 1585, related to regulations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

@@ -24,7 +24,7 @@ Required Content of Solicitation and Contract.—
 
 &emsp;(1)
 
-Solicitation.—The solicitation for the proposed task order contract shall include the information (regarding services) described in 3403(b) <sup>1</sup> of this title.
+Solicitation.—The solicitation for the proposed task order contract shall include the information (regarding services) described in section 3403(b) of this title.
 
 &emsp;(2)
 
@@ -86,15 +86,17 @@ Limit of one extension.—A task order contract may be extended under the author
 
 Inapplicability to Certain Contracts.—This section does not apply to a contract for the acquisition of property or services that includes acquisition of advisory and assistance services if the head of an agency entering into such contract determines that, under the contract, advisory and assistance services are necessarily incident to, and not a significant component of, the contract.
 
-(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3251, §2304b; amended Pub. L. 111–350, §5(b)(13), Jan. 4, 2011, 124 Stat. 3843; renumbered §3405 and amended Pub. L. 116–283, div. A, title XVIII, §1820(d), Jan. 1, 2021, 134 Stat. 4192.)
+(Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3251, §2304b; amended Pub. L. 111–350, §5(b)(13), Jan. 4, 2011, 124 Stat. 3843; renumbered §3405 and amended Pub. L. 116–283, div. A, title XVIII, §1820(d), Jan. 1, 2021, 134 Stat. 4192; Pub. L. 117–81, div. A, title XVII, §1701(b)(8)(C), Dec. 27, 2021, 135 Stat. 2133.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1820(d)(1), (2), renumbered section 2304b of this title as this section, moved subsec. (i) to the beginning of the section and redesignated it as (a), and redesignated former subsecs. (a) to (h) as (b) to (i), respectively.
+<b>2021</b>—Pub. L. 116–283, §1820(d)(1), (2), renumbered section 2304b of this title as this section, moved subsec. (i)to the beginning of the section and redesignated it as (a), and redesignated former subsecs. (a) to (h) as (b) to (i), respectively.
 
 Subsec. (b)(1). Pub. L. 116–283, §1820(d)(3), substituted "section 3406" for "section 2304c" and "section 3401" for "section 2304d".
 
-Subsec. (e). Pub. L. 116–283, §1820(d)(4)(A), (B), inserted par. headings, substituted "3403(b)" for "section 2304a(b)" in par. (1), and realigned margin of par. (2).
+Subsec. (e). Pub. L. 116–283, §1820(d)(4)(A), (B), as amended by Pub. L. 117–81, §1701(b)(8)(C), inserted par. headings, substituted "section 3403(b)" for "section 2304a(b)" in par. (1), and realigned margin of par. (2).
 
 Subsec. (f). Pub. L. 116–283, §1820(d)(5), inserted par. headings and realigned margins of pars. (2) and (3).
 
@@ -108,9 +110,21 @@ Subsec. (h)(1). Pub. L. 116–283, §1820(d)(7)(A), (B), inserted heading, and s
 
 Subsec. (h)(2). Pub. L. 116–283, §1820(d)(7)(C), inserted heading and realigned margin.
 
+<b>2011</b>—Subsecs. (c), (f)(3). Pub. L. 111–350 substituted "section 1708 of title 41" for "section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
+#### Effective Date
+
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 8752 of this title.
+
+#### Provisions Not Affected by Pub. L. 103–355
+
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former 40 U.S.C. 759 or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding section 3401 of this title.
 

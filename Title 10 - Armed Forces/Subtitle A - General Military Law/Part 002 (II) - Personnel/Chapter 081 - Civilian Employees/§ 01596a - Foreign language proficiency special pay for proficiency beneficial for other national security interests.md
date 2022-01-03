@@ -24,11 +24,15 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title XI, §1131(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–317; amended Pub. L. 108–375, div. A, title XI, §1102(a), Oct. 28, 2004, 118 Stat. 2072.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 struck out "during a contingency operation supported by the armed forces" after "foreign language".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title XI, §1102(b), Oct. 28, 2004, 118 Stat. 2072, provided that: "The amendment by this section \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Oct. 28, 2004\]."
+Pub. L. 108–375, div. A, title XI, §1102(b), Oct. 28, 2004, 118 Stat. 2072, provided that: "The amendment by thissection \[amending this section\] shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Oct. 28, 2004\]."
 

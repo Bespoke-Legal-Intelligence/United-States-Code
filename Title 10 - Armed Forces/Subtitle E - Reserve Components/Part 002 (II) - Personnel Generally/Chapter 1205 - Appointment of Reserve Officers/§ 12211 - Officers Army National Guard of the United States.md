@@ -38,11 +38,15 @@ In subsection (a), the words "as a Reserve" are substituted for the words "as Re
 
 In subsection (c), the words "active duty" are substituted for the words "active military service of the United States". The words "and branch" are omitted as surplusage. The words "of the Army National Guard of the United States" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 inserted "the" after "National Guard of" in section catchline.
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 3351 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

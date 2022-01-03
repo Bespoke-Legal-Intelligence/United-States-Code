@@ -66,9 +66,11 @@ In carrying out the purposes of this chapter, the Secretary is authorized to ent
 
 <i>Substantially identical provisions repealing this section were contained in Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(5)(C)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–247.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-December 23, 2000, referred to in subsec. (c), was in the original "the date of the enactment of the Pribilof Islands Transition Act" which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the "Pribilof Islands Transition Act". See Short Title of 2000 Amendments notes under section 1151 of this title.
+December 23, 2000, referred to in subsec. (c), was in the original "the date of the enactment of the Pribilof Islands Transition Act" which was translated as referring to the date of enactment of title I of Pub. L. 106–562. Section 1(a)(4) \[div. B, title I, §144(e)\] of Pub. L. 106–554, which was approved Dec. 21, 2000, is also known as the "Pribilof Islands Transition Act". See ShortTitle of 2000 Amendments notes under section 1151 of this title.
 
 Section 1166(a) of this title, referred to in subsec. (d)(6), was amended generally by Pub. L. 106–554 and Pub. L. 106–562, and, as so amended, no longer contains provisions relating to establishment of a Trust.
 
@@ -79,6 +81,8 @@ Section 1166(a) of this title, referred to in subsec. (d)(6), was amended genera
 Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: "The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section."
 
 <b>1983</b>—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -112,7 +116,7 @@ Obligations of Secretary.—In carrying out cleanup activities under subsection 
 
 "(c)
 
-Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of thissection \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
+Resolution of Federal Responsibilities.—(1) Within 9 months after the date of enactment of this section \[Jan. 6, 1996\], and after consultation with the Secretary of the Interior, the State of Alaska, and local entities and residents of the Pribilof Islands, the Secretary of Commerce shall submit to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, a report proposing necessary actions by the Secretary of Commerce and Congress to resolve all claims with respect to, and permit the final implementation, fulfillment and completion of—
 
 &emsp;"(A) the land conveyance entitlements of local entities and residents of the Pribilof Islands under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
 

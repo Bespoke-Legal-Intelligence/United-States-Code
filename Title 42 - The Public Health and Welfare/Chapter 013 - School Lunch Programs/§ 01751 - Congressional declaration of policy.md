@@ -4,9 +4,13 @@ It is declared to be the policy of Congress, as a measure of national security, 
 
 (June 4, 1946, ch. 281, §2, 60 Stat. 230; Pub. L. 101–147, title III, §312(1), Nov. 10, 1989, 103 Stat. 916.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–147 substituted "school lunch" for "school-lunch".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -54,7 +58,7 @@ Pub. L. 101–147, §1(a), Nov. 10, 1989, 103 Stat. 877, provided that: "This Ac
 
 Pub. L. 99–661, §4001(a), Nov. 14, 1986, 100 Stat. 4070, provided that: "This division \[div. D (§§4001–4503) of Pub. L. 99–661, amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and section 1431e of Title 7, Agriculture\] may be cited as the 'Child Nutrition Amendments of 1986'."
 
-Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30, 1986, 100 Stat. 3341–362, provided that: "This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the 'School Lunch and Child Nutrition Amendments of 1986'."
+Pub. L. 99–500, title III, §301(a), Oct. 18, 1986, 100 Stat. 1783–359, and Pub. L. 99–591, title III, §301(a), Oct. 30,1986, 100 Stat. 3341–362, provided that: "This title \[amending sections 1752, 1755, 1758, 1760, 1761, 1762a, 1766, 1769 to 1769b, 1772, 1773, 1776, 1784, 1786, 1788, and 1789 of this title and section 1929a of Title 7, Agriculture, repealing sections 1767, 1768, and 1769c of this title, and enacting provisions set out as notes under sections 1758, 1760, 1766, 1772, 1773, and 1786 of this title and sections 1431e and 1929a of Title 7\] may be cited as the 'School Lunch and Child Nutrition Amendments of 1986'."
 
 #### Short Title of 1978 Amendment
 
@@ -150,9 +154,9 @@ Unexpended balance.—On March 31, 2022, any amounts allocated to a State under 
 
 &emsp;&emsp;"(D)
 
-Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only bemade available to a school food authority or new school food authority that—
+Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only be made available to a school food authority or new school food authority that—
 
-&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
+&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respectto a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
 
 &emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the school food authority or new school food authority will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the first full semester (or equivalent term) after the conclusion of the public health emergency, as determined by such State.
 
@@ -246,9 +250,9 @@ Unexpended balance.—On March 31, 2022, any amounts allocated to a State under 
 
 Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only be made available to a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home that—
 
-&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respectto a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
+&emsp;&emsp;&emsp;"(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or
 
-&emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring within 90 days after the conclusion of the public health emergency.
+&emsp;&emsp;&emsp;"(ii) provides an assurance to such State that the new covered institution, covered institution,new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring within 90 days after the conclusion of the public health emergency.
 
 &emsp;"(6)
 
@@ -362,7 +366,7 @@ Indirect Cost Study.—The Secretary shall—
 
 "(c)
 
-Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection (b)(2), the Secretary may promulgate regulations to address—
+Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection\(b)(2), the Secretary may promulgate regulations to address—
 
 &emsp;"(1) any identified deficiencies in the allocation of indirect costs; and
 

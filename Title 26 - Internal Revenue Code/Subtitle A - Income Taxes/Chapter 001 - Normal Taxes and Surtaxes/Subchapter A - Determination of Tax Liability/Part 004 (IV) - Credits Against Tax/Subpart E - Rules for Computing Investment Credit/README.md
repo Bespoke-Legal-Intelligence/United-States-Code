@@ -15,6 +15,8 @@ Subpart E—Rules for Computing Investment Credit
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–141, div. U, title IV, §401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209, struck out item 48D "Qualifying therapeutic discovery project credit".

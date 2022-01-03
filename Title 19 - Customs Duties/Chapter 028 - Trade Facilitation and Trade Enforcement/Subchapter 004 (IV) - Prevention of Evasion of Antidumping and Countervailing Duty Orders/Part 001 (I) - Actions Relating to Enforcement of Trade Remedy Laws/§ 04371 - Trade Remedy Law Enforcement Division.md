@@ -44,7 +44,7 @@ The duties of the Director of the Trade Remedy Law Enforcement Division shall in
 
 &emsp;&emsp;(B) upon request by the party or parties that submitted such an allegation of evasion, providing information to such party or parties on the status of U.S. Customs and Border Protection's consideration of the allegation and decision to pursue or not pursue any administrative inquiries or other actions, such as changes in policies, procedures, or resource allocation as a result of the allegation;
 
-&emsp;&emsp;(C) as needed, requesting from the party or parties that submitted such an allegation of evasion any additional information that may be relevant for U.S. Customs and Border Protection determining whether to initiate an administrative inquiry or take any other action regarding the allegation;
+&emsp;&emsp;(C) as needed, requesting from the party or parties that submitted such an allegation of evasion any additional information thatmay be relevant for U.S. Customs and Border Protection determining whether to initiate an administrative inquiry or take any other action regarding the allegation;
 
 &emsp;&emsp;(D) notifying on a timely basis the party or parties that submitted such an allegation of the results of any administrative, civil, or criminal actions taken by U.S. Customs and Border Protection or other Federal agency regarding evasion as a direct or indirect result of the allegation;
 

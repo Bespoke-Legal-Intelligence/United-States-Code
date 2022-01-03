@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(E) compliance by an individual or agreement by an individual to comply with the immigration or passport requirements of any country with respect to such individual or any member of such individual's family or with requests for information regarding requirements of employment of such individual within the boycotting country; and
 
-&emsp;&emsp;(F) compliance by a United States person resident in a foreign country or agreement by such person to comply with the laws of that country with respect to his activities exclusively therein, and such regulations may contain exceptions for such resident complying with the laws or regulations of that foreign country governing imports into such country of trademarked, trade named,or similarly specifically identifiable products, or components of products for his own use, including the performance of contractual services within that country, as may be defined by such regulations.
+&emsp;&emsp;(F) compliance by a United States person resident in a foreign country or agreement by such person to comply with the laws of that country with respect to his activities exclusively therein, and such regulations may contain exceptions for such resident complying with the laws or regulations of that foreign country governing imports into such country of trademarked, trade named, or similarly specifically identifiable products, or components of products for his own use, including the performance of contractual services within that country, as may be defined by such regulations.
 
 #### (3) Special rules
 
@@ -66,6 +66,8 @@ The provisions of this section and the regulations issued pursuant thereto shall
 
 (Pub. L. 115–232, div. A, title XVII, §1773, Aug. 13, 2018, 132 Stat. 2234; Pub. L. 116–283, div. A, title X, §1081(d)(10), Jan. 1, 2021, 134 Stat. 3874.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter I, referred to in subsec. (b)(1), was in the original "part I", meaning part I (§§1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to subchapter I of this chapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under section 4801 of this title and Tables.
@@ -73,6 +75,8 @@ Subchapter I, referred to in subsec. (b)(1), was in the original "part I", meani
 #### Amendments
 
 <b>2021</b>—Subsec. (b)(1). Pub. L. 116–283 substituted "(2)(D)" for "(1)(D)" in reference to section 4811(2)(D) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

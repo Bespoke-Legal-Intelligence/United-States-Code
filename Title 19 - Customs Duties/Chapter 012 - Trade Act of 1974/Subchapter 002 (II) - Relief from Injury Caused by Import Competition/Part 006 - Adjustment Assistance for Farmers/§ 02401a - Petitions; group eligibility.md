@@ -22,7 +22,7 @@ The Secretary shall certify a group of agricultural commodity producers as eligi
 
 &emsp;(2) the volume of imports of articles like or directly competitive with the agricultural commodity produced by the group in the marketing year with respect to which the group files the petition increased compared to the average volume of such imports during the 3 marketing years preceding such marketing year; and
 
-&emsp;(3) the increase in such imports contributed importantly to the decrease in the national average price, quantity of production, or value of production of, or cash receipts for, the agricultural commodity, as described in paragraph (1).
+&emsp;(3) the increase in such imports contributed importantly to the decrease in the national average price, quantity of production, or valueof production of, or cash receipts for, the agricultural commodity, as described in paragraph (1).
 
 #### (d) Eligibility of certain other producers
 
@@ -44,6 +44,8 @@ In any case in which there are separate classes of goods within an agricultural 
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 233 of Pub. L. 112–40, which provided for the Jan. 1, 2014, revival of this section as in effect on Feb. 13, 2011, was repealed by Pub. L. 114–27, title IV, §402(a), June 29, 2015, 129 Stat. 374, and the provisions of this section, as in effect on Dec. 31, 2013, were temporarily revived, effective June 29, 2015, until July 1, 2021, by Pub. L. 114–27, §§402(b), (c), 406. See 2011 and 2015 Amendment notes, Effective and Termination Dates of 2011 Revival notes, and Effective and Termination Dates of 2015 Revival notes below.
@@ -57,6 +59,8 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
 <b>2009</b>—Subsecs. (c) to (e). Pub. L. 111–5, §§1882(a), 1893, temporarily added subsecs. (c) to (e) and struck out former subsecs. (c) to (e), which related to eligibility requirements for groups of agricultural commodity producers to apply for adjustment assistance, a special rule for such groups after the first year of certification, and determination of qualified year and commodity, respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

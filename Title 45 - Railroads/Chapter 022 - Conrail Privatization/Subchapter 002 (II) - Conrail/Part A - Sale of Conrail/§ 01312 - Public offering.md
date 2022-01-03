@@ -28,7 +28,7 @@ Any public offering under this section may be made without the consent of the Co
 
 (1) In consideration for amounts transferred to the United States under section 1311(b) of this title, the Secretary of Transportation shall, concurrent with the initial public offering described in subsection (a), deliver to the Corporation all preferred stock, 7.5 percent debentures, and contingent interest notes of the Corporation. The Corporation shall immediately cancel such debentures, preferred stock, and contingent interest notes, and any interest of the United States in such debentures, preferred stock, and contingent interest notes shall be thereby extinguished.
 
-(2) For purposes of regulation by the Commission and State public utility regulation, the actions authorized by this subsection, the public offering, and the value of the consideration received therefor shall not change the value of the Corporation's assets net of depreciation and shall not be used to alter the calculation of the Corporation's stock or asset values, rate base, expenses, costs, returns, profits, or revenues, or otherwise affect or be the basis for a change in the regulation of any railroad service, rate, or practice provided or established by the Corporation, or any change in the financial reporting practice of the Corporation.
+(2) For purposes of regulation by the Commission and State public utility regulation, the actions authorized by this subsection, the public offering, and the value of the consideration received therefor shall not change the value of theCorporation's assets net of depreciation and shall not be used to alter the calculation of the Corporation's stock or asset values, rate base, expenses, costs, returns, profits, or revenues, or otherwise affect or be the basis for a change in the regulation of any railroad service, rate, or practice provided or established by the Corporation, or any change in the financial reporting practice of the Corporation.
 
 #### (f) Minority investment banking firms
 
@@ -50,7 +50,7 @@ The Government Accountability Office may make such audits as may be deemed appro
 
 #### References in Text
 
-This subchapter, referred to in subsec. (f), was in the original "this part" meaning part 2 (§§4011–4038) of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this subchapter, amended sections 702, 726, 727, 741, 797, 821, 825, 829, 831, 1105, 1115, and 1116 of this title and section 10362 of Title 49, Transportation, repealed sections 761 to 769c, 797l, 825a, 1107, 1110, and 1114 of this title, and enacted provisions set out as a note under section 797 of this title. For complete classification of part 2 to the Code, see Tables.
+This subchapter, referred to in subsec. (f), was in the original "this part" meaning part 2 (§§4011–4038) of subtitle A of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1895, which enacted this subchapter, amended sections 702, 726, 727, 741, 797, former section 821, and sections 825, 829, 831, 1105, 1115, and 1116 of this title and section 10362 of Title 49, Transportation, repealed sections 761 to 769c, 797l, 825a, 1107, 1110, and 1114 of this title, and enacted provisions set out as a note under section 797 of this title. For complete classification of part 2 to the Code, see Tables.
 
 #### Amendments
 

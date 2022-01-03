@@ -4,6 +4,8 @@ All persons in the military or naval service of the United States are prohibited
 
 (R.S. §5313.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5313 derived from act July 2, 1864, ch. 225, §10, 13 Stat. 377.

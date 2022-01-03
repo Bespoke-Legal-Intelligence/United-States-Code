@@ -4,7 +4,7 @@
 
 #### (1) Prohibition
 
-&emsp;Funds made available to carry out this part may not be used to acquire (by purchase orother means) any land or other real property for use by foreign military, paramilitary, or law enforcement forces.
+&emsp;Funds made available to carry out this part may not be used to acquire (by purchase or other means) any land or other real property for use by foreign military, paramilitary, or law enforcement forces.
 
 #### (2) Exception for certain leases
 

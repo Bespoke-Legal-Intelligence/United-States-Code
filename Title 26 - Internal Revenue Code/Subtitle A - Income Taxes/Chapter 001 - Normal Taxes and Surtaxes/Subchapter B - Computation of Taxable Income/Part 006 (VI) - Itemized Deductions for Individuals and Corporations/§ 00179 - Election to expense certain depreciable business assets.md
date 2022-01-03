@@ -72,7 +72,7 @@ A taxpayer may elect to treat the cost of any section 179 property as an expense
 
 &emsp;&emsp;&emsp;&emsp;(II) is equipped with a cargo area of at least 6 feet in interior length which is an open area or is designed for use as an open area but is enclosed by a cap and is not readily accessible directly from the passenger compartment, or
 
-&emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and has no body section protruding more than 30 inches ahead of the leading edge of the windshield.
+&emsp;&emsp;&emsp;&emsp;(III) has an integral enclosure, fully enclosing the driver compartment and load carrying device, does not have seating rearward of the driver's seat, and hasno body section protruding more than 30 inches ahead of the leading edge of the windshield.
 
 #### (6) Inflation adjustment
 
@@ -196,7 +196,9 @@ For purposes of this section, the term "qualified real property" means—
 
 &emsp;&emsp;(D) Security systems.
 
-(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17,2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102; Pub. L. 115–141, div. U, title IV, §401(b)(15)(A), (B), Mar. 23, 2018, 132 Stat. 1202.)
+(Added Pub. L. 85–866, title II, §204(a), Sept. 2, 1958, 72 Stat. 1679; amended Pub. L. 87–834, §13(c)(2), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 91–172, title IV, §401(f), Dec. 30, 1969, 83 Stat. 603; Pub. L. 94–455, title II, §213(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1547, 1834; Pub. L. 97–34, title II, §202(a), Aug. 13, 1981, 95 Stat. 219; Pub. L. 97–354, §3(f), Oct. 19, 1982, 96 Stat. 1689; Pub. L. 97–448, title I, §102(aa), Jan. 12, 1983, 96 Stat. 2369; Pub. L. 98–369, div. A, title I, §13, July 18, 1984, 98 Stat. 505; Pub. L. 99–514, title II, §§201(d)(3), 202, Oct. 22, 1986, 100 Stat. 2139, 2142; Pub. L. 100–647, title I, §1002(a)(19), (b)(1), Nov. 10, 1988, 102 Stat. 3356, 3357; Pub. L. 101–508, title XI, §11813(b)(11), Nov. 5, 1990, 104 Stat. 1388–554; Pub. L. 103–66, title XIII, §13116(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 104–188, title I, §§1111(a), 1702(h)(10), (19), Aug. 20, 1996, 110 Stat. 1758, 1874; Pub. L. 108–27, title II, §202(a)–(e), May 28, 2003, 117 Stat. 757, 758; Pub. L. 108–357, title II, §201, title VIII, §910(a), Oct. 22, 2004, 118 Stat. 1429, 1659; Pub. L. 109–222, title I, §101, May 17, 2006, 120 Stat. 346; Pub. L. 110–28, title VIII, §8212(a)–(c), May 25, 2007, 121 Stat. 192; Pub. L. 110–185, title I, §102(a), Feb. 13, 2008, 122 Stat. 618; Pub. L. 110–343, div. C, title VII, §711(a), Oct. 3, 2008, 122 Stat. 3928; Pub. L. 111–5, div. B, title I, §1202(a), Feb. 17, 2009, 123 Stat. 335; Pub. L. 111–147, title II, §201(a), Mar. 18, 2010, 124 Stat. 77; Pub. L. 111–240, title II, §2021(a)–(d), Sept. 27, 2010, 124 Stat. 2556, 2558; Pub. L. 111–312, title IV, §402(a)–(e), title VII, §737(b)(3), Dec. 17, 2010, 124 Stat. 3306, 3307, 3318; Pub. L. 112–240, title III, §315(a)–(d), Jan. 2, 2013, 126 Stat. 2330, 2331; Pub. L. 113–295, div. A, title I, §127(a)–(d), Dec. 19, 2014, 128 Stat. 4017; Pub. L. 114–113, div. Q, title I, §124(a)–(f), Dec. 18, 2015, 129 Stat. 3053; Pub. L. 115–97, title I, §§11002(d)(1)(R), 13101(a)–(c), Dec. 22, 2017, 131 Stat. 2060, 2101, 2102; Pub. L. 115–141, div. U, title IV, §401(b)(15)(A), (B), Mar. 23, 2018, 132 Stat. 1202.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -246,7 +248,7 @@ Subsec. (c)(2). Pub. L. 114–113, §124(d), struck out "irrevocable" after "Ele
 
 Subsec. (d)(1). Pub. L. 114–113, §124(e), struck out "and shall not include air conditioning or heating units" after "section 50(b)" in concluding provisions.
 
-Subsec. (d)(1)(A)(ii). Pub. L. 114–113, §124(b), substituted "and to which section 167 applies" for ", to which section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015".
+Subsec. (d)(1)(A)(ii). Pub. L. 114–113, §124(b), substituted "and to which section 167 applies" for ", towhich section 167 applies, and which is placed in service in a taxable year beginning after 2002 and before 2015".
 
 Subsec. (f)(1). Pub. L. 114–113, §124(c)(2)(A), struck out "beginning after 2009 and before 2016" after "any taxable year" in introductory provisions.
 
@@ -400,7 +402,7 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(a)(19), substituted "tangible property
 
 Subsec. (d)(1). Pub. L. 99–514, §202(b), inserted "in the active conduct of".
 
-Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted "Treatment of" for "Dollar limitation in case of" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of a partnership, the dollar limitation contained in subsection\(b)(1) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders."
+Subsec. (d)(8). Pub. L. 99–514, §201(d)(3), substituted "Treatment of" for "Dollar limitation in case of" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of a partnership, the dollar limitation contained in subsection (b)(1) shall apply with respect to the partnership and with respect to each partner. A similar rule shall apply in the case of an S corporation and its shareholders."
 
 Subsec. (d)(10). Pub. L. 99–514, §202(c), struck out "before the close of the second taxable year following the taxable year in which it is placed in service by the taxpayer" after "at any time".
 
@@ -424,6 +426,8 @@ Subsec. (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 Subsec. (d)(8). Pub. L. 87–834, §13(c)(2)(B), substituted "section 167(g)" for "section 167(f)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–141, div. U, title IV, §401(b)(15)(C), Mar. 23, 2018, 132 Stat. 1202, provided that: "The amendments made by this paragraph \[amending this section\] shall not apply to property placed in service before the date of the enactment of this Act \[Mar. 23, 2018\]."
@@ -444,7 +448,7 @@ Extension.—Except as provided in paragraph (2), the amendments made by this se
 
 "(2)
 
-Modifications.—The amendments made by subsections (c)(2) and (e) \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
+Modifications.—The amendments made by subsections (c)(2) and (e) \[amending this section\] shallapply to taxable years beginning after December 31, 2015."
 
 #### Effective Date of 2014 Amendment
 
@@ -498,7 +502,7 @@ Pub. L. 108–27, title II, §202(f), May 28, 2003, 117 Stat. 758, provided that
 
 Pub. L. 104–188, title I, §1111(b), Aug. 20, 1996, 110 Stat. 1758, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1996."
 
-Amendment by section 1702(h)(10), (19) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, towhich such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by section 1702(h)(10), (19) of Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -536,7 +540,7 @@ Amendment by Pub. L. 97–34 applicable to property placed in service after Dec.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginning after Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
+Amendment by section 213(a) of Pub. L. 94–455 applicable in the case of partnership taxable years beginningafter Dec. 31, 1975, see section 213(f) of Pub. L. 94–455, set out as an Effective Date note under section 709 of this title.
 
 #### Effective Date of 1969 Amendment
 

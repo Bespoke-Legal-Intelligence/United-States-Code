@@ -24,7 +24,9 @@ June 10, 1921, ch. 18, §304 (1st par. 1st sentence), 42 Stat. 24.
 
 R.S. §285.
 
-The words "disbursing official" are substituted for "disbursing officer" for consistency with other titles of the United States Code. The words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "of the Navy" are omitted because of the restatement. The words "when presented with" are substituted for "upon" for clarity. The words "by whose order such disbursement or disposal was made" are omitted as surplus.
+The words "disbursing official" are substituted for "disbursing officer" for consistency with other titles of the United States Code. The words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "of the Navy" are omittedbecause of the restatement. The words "when presented with" are substituted for "upon" for clarity. The words "by whose order such disbursement or disposal was made" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -36,7 +38,7 @@ Prior sections 8915 and 8916 were repealed by Pub. L. 96–513, title II, §217(
 
 Section 8915, acts Aug. 10, 1956, ch. 1041, 70A Stat. 550; Aug. 21, 1957, Pub. L. 85–155, title III, §301(18), 71 Stat. 389; Sept. 30, 1966, Pub. L. 89–609, §1(31), 80 Stat. 854; Nov. 2, 1966, Pub. L. 89–718, §3, 80 Stat. 1115; Nov. 8, 1967, Pub. L. 90–130, §1(32)(A), 89 Stat. 382, authorized the Secretary of the Air Force to defer the retirement of any Air Force nurse or medical specialist in the regular grade of major until the 30th day after the officer completes 28 years of service. See section 632 of this title.
 
-Section 8916, acts Aug. 10, 1956, ch. 1041, 70A Stat. 550; Aug. 21, 1957, Pub. L. 85–155, title III, §301(19), 71 Stat. 389, provided for retirement of a promotion-list lieutenant colonel, except as provided by section 8301 of title5, on the 30th day after he completes 28 years of service, with authority for the Secretary of the Air Force to defer retirement in certain cases. See section 633 of this title.
+Section 8916, acts Aug. 10, 1956, ch. 1041, 70A Stat. 550; Aug. 21, 1957, Pub. L. 85–155, title III, §301(19), 71 Stat. 389, provided for retirement of a promotion-list lieutenant colonel, except as provided by section 8301 of title 5, on the 30th day after he completes 28 years of service, with authority for the Secretary of the Air Force to defer retirement in certain cases. See section 633 of this title.
 
 Prior sections 8917 and 8918 were renumbered sections 9317 and 9318 of this title.
 
@@ -55,6 +57,8 @@ Pub. L. 104–106, §913(c)(3)(B)(i), substituted "Disposal of public stores" fo
 Pub. L. 104–106, §913(c)(3)(A), in first sentence, struck out "disbursements of public moneys or" after "Comptroller General shall allow" and "the money was paid or" after "the order was made and that" and, in second sentence, struck out "disbursement or" after "commanding officer is accountable for the".
 
 <b>1986</b>—Pub. L. 99–433 renumbered section 7862 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

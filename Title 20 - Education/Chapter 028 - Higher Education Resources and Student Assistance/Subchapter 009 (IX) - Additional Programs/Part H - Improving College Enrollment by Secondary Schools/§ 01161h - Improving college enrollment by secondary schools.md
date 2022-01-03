@@ -20,7 +20,7 @@ From the amounts appropriated under subsection (c), the Secretary shall award a 
 
 &emsp;&emsp;(F) strategies to mobilize student leaders to build a college-bound culture; and
 
-&emsp;(3) to provide comprehensive services to improve the schoolwide postsecondary education enrollment rates of each of not less than ten local educational agencies and States, with the federally funded portion of each project declining by not less than 20 percent each year beginning in the second year of the comprehensive services, that—
+&emsp;(3) to provide comprehensive services to improve the schoolwide postsecondary education enrollment rates of each of not less than ten local educational agencies and States, with the federally funded portion of each projectdeclining by not less than 20 percent each year beginning in the second year of the comprehensive services, that—
 
 &emsp;&emsp;(A) participated in the needs assessment described in paragraph (2); and
 
@@ -40,9 +40,13 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 89–329, title VIII, §808, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3396; amended Pub. L. 111–39, title VIII, §801(3), July 1, 2009, 123 Stat. 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–39 substituted "section 1232g of this title (commonly known as the 'Family Educational Rights and Privacy Act of 1974')" for "the Family Education Rights and Privacy Act of 1974".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

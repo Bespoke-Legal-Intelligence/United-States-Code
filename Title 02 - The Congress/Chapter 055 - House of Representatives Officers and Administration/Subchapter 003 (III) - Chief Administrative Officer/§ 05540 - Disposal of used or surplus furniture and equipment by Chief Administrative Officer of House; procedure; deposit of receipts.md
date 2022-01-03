@@ -8,7 +8,7 @@
 
 &emsp;(B) may be made only if the used equipment has no recoverable value because disposal in accordance with paragraph (1), under the most favorable terms available to the Government, would result in a loss to the Government.
 
-(3)(A) In the case of computer-related equipment, during fiscal year 1998 the Chief Administrative Officer may donate directly the equipment to a public elementary or secondary school of the District of Columbia without regard to whether the donation meets the requirements of the second sentence of paragraph (2), except that the total number of workstations donated as a result of this paragraph may not exceed 1,000.
+(3)(A) In the case of computer-related equipment, during fiscal year 1998 the Chief Administrative Officer may donate directly the equipment to a public elementary or secondary school of the District of Columbia without regard to whether the donation meets the requirements ofthe second sentence of paragraph (2), except that the total number of workstations donated as a result of this paragraph may not exceed 1,000.
 
 (B) In this paragraph—
 
@@ -92,7 +92,7 @@ Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425, provided that the amend
 
 #### Effective Date
 
-Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in Pub. L. 99–500, §101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, §101(j), Oct. 30, 1986, 100 Stat. 3341–287, as amended by Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425, to be effective as if enacted into law, provided that: "This section and the amendment made by this section \[enacting section 5540 of this title and amending section 84b of this title\] shall take effect on October 1, 1986."
+Section 104(c) of title I of H.R. 5203 (see House Report 99–805 as filed in the House on Aug. 15, 1986), as incorporated by reference in Pub. L. 99–500, §101(j), Oct. 18, 1986, 100 Stat. 1783–287, and Pub. L. 99–591, §101(j), Oct. 30, 1986, 100 Stat. 3341–287, as amended by Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 425, to be effective as if enacted into law, provided that: "This section and theamendment made by this section \[enacting section 5540 of this title and amending section 84b of this title\] shall take effect on October 1, 1986."
 
 #### Similar Provisions
 

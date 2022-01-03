@@ -32,7 +32,7 @@ In general.—The Secretary of the Treasury may impose a civil penalty on any pe
 
 &emsp;(2)
 
-Amount of penalty.—The amount of the civil penalty imposed by paragraph (1) shall not exceed $5,000 for each use of any material in violation of subsection (a). If such use is in a broadcast or telecast, the preceding sentence shall be applied by substituting "$25,000" for "$5,000".
+Amount of penalty.—The amount of the civil penalty imposed by paragraph (1) shallnot exceed $5,000 for each use of any material in violation of subsection (a). If such use is in a broadcast or telecast, the preceding sentence shall be applied by substituting "$25,000" for "$5,000".
 
 &emsp;(3)
 
@@ -76,7 +76,7 @@ Pub. L. 103–296, title III, §312(m), Aug. 15, 1994, 108 Stat. 1530, provided 
 
 "(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting thissection and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and amending section 1320b–10 of Title 42, The Public Health and Welfare\] shall apply with respect to violations occurring after March 31, 1995.
 
 "(2)
 

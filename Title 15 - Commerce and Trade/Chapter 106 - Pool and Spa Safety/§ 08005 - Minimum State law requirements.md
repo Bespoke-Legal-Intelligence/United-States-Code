@@ -96,6 +96,8 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 (Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797; Pub. L. 113–76, div. E, title V, §501(2), Jan. 17, 2014, 128 Stat. 209.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(1)(A). Pub. L. 113–76, §501(2)(A), inserted "and" at end of cl. (i), redesignated cl. (iii) as (ii) and inserted "and" at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
@@ -107,6 +109,8 @@ In establishing minimum State law requirements for swimming pools and spas under
 "(v) that periodic notification is provided to owners of residential swimming pools or spas about compliance with the entrapment protection standards of the ASME/ANSI A112.19.8 performance standard, or any successor standard; and".
 
 Subsec. (a)(2) to (4). Pub. L. 113–76, §501(2)(B), (C), redesignated pars. (3) and (4) as (2) and (3), respectively, substituted "paragraph (1)(B)" for "paragraph (1)" in introductory provisions of par. (3), and struck out former par. (2) which read as follows: "The minimum State law notification requirement under paragraph (1)(A)(v) shall not be construed to imply any liability on the part of a State related to that requirement."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

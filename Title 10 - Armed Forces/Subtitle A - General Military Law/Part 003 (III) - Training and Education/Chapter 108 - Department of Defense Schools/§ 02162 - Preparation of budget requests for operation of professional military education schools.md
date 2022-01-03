@@ -38,6 +38,8 @@ Professional Military Education Schools.—This section applies to each of the f
 
 (Added Pub. L. 101–510, div. A, title IX, §911(a), Nov. 5, 1990, 104 Stat. 1625; amended Pub. L. 105–85, div. A, title IX, §921(b), Nov. 18, 1997, 111 Stat. 1862; Pub. L. 107–107, div. A, title V, §527(b), Dec. 28, 2001, 115 Stat. 1102; Pub. L. 107–314, div. A, title X, §1062(a)(7), Dec. 2, 2002, 116 Stat. 2650.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b)(2). Pub. L. 107–314 substituted "December 28, 2001," for "the date of the enactment of this paragraph".
@@ -69,6 +71,8 @@ Definitions.—In this section:
 &emsp;&emsp;"(H) the Marine Corps Command and Staff College.
 
 &emsp;"(2) The term 'National Defense University' means the National War College, the Armed Forces Staff College, and the Industrial College of the Armed Forces."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

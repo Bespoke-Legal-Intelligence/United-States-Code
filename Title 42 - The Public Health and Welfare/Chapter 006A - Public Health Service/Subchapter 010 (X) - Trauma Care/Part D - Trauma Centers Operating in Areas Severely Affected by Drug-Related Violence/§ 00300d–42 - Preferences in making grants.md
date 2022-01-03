@@ -40,15 +40,19 @@
 
 In awarding grants under section 300d–41(a)(3) of this title, the Secretary shall—
 
-&emsp;(1) give preference to any application submitted by a trauma center that provides trauma care in a geographic area in which the availability of trauma care has significantly decreased or will significantly decrease if the center is forced to close or downgrade service or growth in demand for trauma services exceeds capacity; and
+&emsp;(1) give preference to any application submitted by a trauma center that provides trauma care in a geographic area in which the availability of trauma care has significantly decreased or will significantly decrease if thecenter is forced to close or downgrade service or growth in demand for trauma services exceeds capacity; and
 
 &emsp;(2) reallocate any emergency awards funds not obligated due to insufficient, or a lack of qualified, applications to the significant uncompensated care award program.
 
 (July 1, 1944, ch. 373, title XII, §1242, as added Pub. L. 102–321, title VI, §601, July 10, 1992, 106 Stat. 434; amended Pub. L. 111–148, title III, §3505(a)(2), Mar. 23, 2010, 124 Stat. 523.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148 added subsecs. (a) to (c) and struck out former subsecs. (a) and (b) which related to preferences in making grants and preferences for certain applications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

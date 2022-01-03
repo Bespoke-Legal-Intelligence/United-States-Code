@@ -46,6 +46,8 @@ Statutory Construction.—Nothing in this section shall be construed to affect t
 
 (Added Pub. L. 114–183, §12(b), June 22, 2016, 130 Stat. 522.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the PIPES Act of 2016, referred to in subsecs. (a) and (d)(1), is the date of enactment of Pub. L. 114–183, which was approved June 22, 2016.

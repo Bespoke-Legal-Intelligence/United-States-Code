@@ -24,7 +24,7 @@ In this section:
 
 &emsp;&emsp;(A) suspend the requirements under United States generally accepted accounting principles for loan modifications related to the coronavirus disease 2019 (COVID–19) pandemic that would otherwise be categorized as a troubled debt restructuring; and
 
-&emsp;&emsp;(B) suspend any determination of a loan modified as a result of the effects of the coronavirus disease 2019 (COVID–19) pandemic as being a troubled debt restructuring, including impairment for accountingpurposes under United States Generally Accepted Accounting Principles.
+&emsp;&emsp;(B) suspend any determination of a loan modified as a result of the effects of the coronavirus disease 2019 (COVID–19) pandemic as being a troubled debt restructuring, including impairment for accounting purposes under United States Generally Accepted Accounting Principles.
 
 #### (2) Applicability
 

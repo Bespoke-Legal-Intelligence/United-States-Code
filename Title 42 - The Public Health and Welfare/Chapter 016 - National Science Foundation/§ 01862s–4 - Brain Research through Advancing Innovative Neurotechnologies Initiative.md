@@ -10,9 +10,13 @@ It is the sense of Congress that the Foundation should work in conjunction with 
 
 (Pub. L. 114–329, title I, §117, Jan. 6, 2017, 130 Stat. 2995.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

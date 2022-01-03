@@ -14,7 +14,7 @@ Limitation.—A degree may not be conferred under this section unless—
 
 (c)
 
-Congressional Notification Requirements.—(1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+Congressional Notification Requirements.—(1) When seeking to establish degreegranting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
 
 &emsp;(A) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education's National Advisory Committee on Institutional Quality and Integrity; and
 
@@ -25,6 +25,8 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the National Defense University to award any new or existing degree.
 
 (Added Pub. L. 103–160, div. A, title IX, §922(a), Nov. 30, 1993, 107 Stat. 1730; amended Pub. L. 109–163, div. A, title V, §521(a), Jan. 6, 2006, 119 Stat. 3239; Pub. L. 110–181, div. A, title V, §526(a), (b)(1), Jan. 28, 2008, 122 Stat. 104, 105; Pub. L. 110–417, \[div. A\], title V, §543(b)(1), Oct. 14, 2008, 122 Stat. 4457.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -50,9 +52,11 @@ Degree.—The President of the National Defense University, upon the recommendat
 
 Regulations.—The authority provided by subsections (a) and (b) shall be exercised under regulations prescribed by the Secretary of Defense."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2161 of this title.
+Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: "The amendments made by this section \[amending this section and sections 2161, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments."
 
 Pub. L. 110–181, div. A, title V, §526(c), Jan. 28, 2008, 122 Stat. 105, provided that: "Paragraph (4) of section 2163(b) of title 10, United States Code, as added by subsection (a) of this section, applies with respect to any person who becomes a graduate of the National Defense University on or after September 6, 2006, and fulfills the requirements of the program referred to in such paragraph (4)."
 

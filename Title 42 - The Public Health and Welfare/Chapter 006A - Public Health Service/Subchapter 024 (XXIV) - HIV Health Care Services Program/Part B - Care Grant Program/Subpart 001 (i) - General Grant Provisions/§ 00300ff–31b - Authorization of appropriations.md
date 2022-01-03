@@ -14,13 +14,15 @@ For the purpose of carrying out this subpart, there are authorized to be appropr
 
 #### (A) In general
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) for a fiscal year in excess of the 2006 adjusted amount, the Secretary shall reserve 1/3 for grants under section 300ff–29a of this title, except that the availability of the reserved funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year, and except that anyamount appropriated exclusively for carrying out section 300ff–26 of this title (and, accordingly, distributed under section 300ff–28(a)(2)(F) of this title) is not subject to this subparagraph.
+&emsp;&emsp;Of the amount appropriated under subsection (a) for a fiscal year in excess of the 2006 adjusted amount, the Secretary shall reserve 1/3 for grants under section 300ff–29a of this title, except that the availability of the reserved funds for such grants is subject to section 300ff–28(a)(2)(H) of this title as applied for such year, and except that any amount appropriated exclusively for carrying out section 300ff–26 of this title (and, accordingly, distributed under section 300ff–28(a)(2)(F) of this title) is not subject to this subparagraph.
 
 #### (B) 2006 adjusted amount
 
 &emsp;&emsp;For purposes of subparagraph (A), the term "2006 adjusted amount" means the amount appropriated for fiscal year 2006 under section 300ff–77(b) of this title (as such section was in effect for such fiscal year), excluding any amount appropriated for such year exclusively for carrying out section 300ff–26 of this title (and, accordingly, distributed under section 300ff–28(a)(2)(I) of this title, as so in effect).
 
 (July 1, 1944, ch. 373, title XXVI, §2623, as added and amended Pub. L. 109–415, title II, §208, title VII, §703, Dec. 19, 2006, 120 Stat. 2801, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), (c), 5(c)(3), Oct. 30, 2009, 123 Stat. 2885, 2891.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Subsec. (a). Pub. L. 111–87, §2(c), substituted "$1,285,200,000 for fiscal ye
 Subsec. (b)(2)(A). Pub. L. 111–87, §5(c)(3), substituted "300ff–28(a)(2)(F)" for "300ff–28(a)(2)(G)".
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

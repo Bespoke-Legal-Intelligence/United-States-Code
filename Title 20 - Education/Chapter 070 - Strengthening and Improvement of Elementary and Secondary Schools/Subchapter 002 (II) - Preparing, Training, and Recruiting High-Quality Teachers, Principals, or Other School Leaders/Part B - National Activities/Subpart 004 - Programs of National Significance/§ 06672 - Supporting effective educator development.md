@@ -4,7 +4,7 @@
 
 From the funds reserved by the Secretary under section 6671(1) of this title for a fiscal year, the Secretary shall award grants, on a competitive basis, to eligible entities for the purposes of—
 
-&emsp;(1) providing teachers, principals, or other school leaders from nontraditional preparation and certification routes or pathways toserve in traditionally underserved local educational agencies;
+&emsp;(1) providing teachers, principals, or other school leaders from nontraditional preparation and certification routes or pathways to serve in traditionally underserved local educational agencies;
 
 &emsp;(2) providing evidence-based professional development activities that address literacy, numeracy, remedial, or other needs of local educational agencies and the students the agencies serve;
 
@@ -40,7 +40,7 @@ From the funds reserved by the Secretary under section 6671(1) of this title for
 
 #### (2) Acceptable contributions
 
-&emsp;An eligible entity that receives a grant under this section may meet the requirement of paragraph (1) by providing contributions in cash or in kind, fairly evaluated, including plant, equipment, and services.
+&emsp;An eligible entity that receives a grant under this section may meet the requirementof paragraph (1) by providing contributions in cash or in kind, fairly evaluated, including plant, equipment, and services.
 
 #### (3) Waivers
 
@@ -72,11 +72,15 @@ In this section, the term "eligible entity" means—
 
 (Pub. L. 89–10, title II, §2242, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1948.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6672, Pub. L. 89–10, title II, §2302, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1648, authorized funding and administration of the Troops-to-Teachers Program, prior to repeal by Pub. L. 112–239, div. A, title V, §541(d)(1), Jan. 2, 2013, 126 Stat. 1735.
 
 Another prior section 6672, Pub. L. 89–10, title II, §2302, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3633, authorized professional development demonstration program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

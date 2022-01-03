@@ -24,11 +24,15 @@ Any consumer product—
 
 (Pub. L. 92–573, §22, Oct. 27, 1972, 86 Stat. 1225; Pub. L. 94–284, §§11(b), 12(c), May 11, 1976, 90 Stat. 507, 508.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–284, §§11(b), 12(c)(1), designated existing provision as par. (1) and (3), added par. (2), and in provision following par. (3) substituted "(without regard to section 2076(b)(7)(A) of this title)" for "(with the concurrence of the Attorney General)".
 
 Subsec. (b). Pub. L. 94–284, §12(c)(2), amended subsec. (b) generally, inserting provision designated as par. (2) which included within consumer products liable to proceedings, a product of which the manufacture for sale, offering for sale, distribution in commerce, or importation into the United States has been prohibited.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

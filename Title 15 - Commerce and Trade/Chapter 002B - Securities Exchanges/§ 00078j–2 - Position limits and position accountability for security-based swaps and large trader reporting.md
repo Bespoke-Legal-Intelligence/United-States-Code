@@ -46,11 +46,15 @@ The Commission, by rule or regulation, may require any person that effects trans
 
 (June 6, 1934, ch. 404, title I, §10B, as added Pub. L. 111–203, title VII, §763(h), July 21, 2010, 124 Stat. 1778.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (c)(1), was in the original "this title". See References in Text note set out under section 78a of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B\(§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
+Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 

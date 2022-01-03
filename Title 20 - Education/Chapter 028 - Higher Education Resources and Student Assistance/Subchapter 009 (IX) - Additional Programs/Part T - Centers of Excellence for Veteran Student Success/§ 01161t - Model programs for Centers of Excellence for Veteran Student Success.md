@@ -32,7 +32,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 #### (2) Other authorized activities
 
-&emsp;An institution of higher education receiving a grant under this section may use such grant to carry out any of the following activities with respect to veteran students:
+&emsp;An institution of higher education receiving a grant under this section may use such grantto carry out any of the following activities with respect to veteran students:
 
 &emsp;&emsp;(A) Outreach and recruitment of such students.
 

@@ -4,6 +4,8 @@ Notwithstanding section 3161 of this title, the Secretary may provide such assis
 
 (Pub. L. 89–136, title IV, §405, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3609.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 405 of Pub. L. 89–136 was classified to section 3173 of this title prior to repeal by Pub. L. 105–393, §102(a).
@@ -26,11 +28,13 @@ Section 3187, Pub. L. 89–136, title V, §507, Aug. 26, 1965, 79 Stat. 568, rel
 
 Section 3188, Pub. L. 89–136, title V, §508, Aug. 26, 1965, 79 Stat. 568, related to personal financial interests of commission personnel.
 
-Section 3188a, Pub. L. 89–136, title V, §509, as added Pub. L. 90–103, title II, §203, Oct. 11, 1967, 81 Stat. 266; amended Pub. L. 91–123, title II, §205, Nov. 25, 1969, 83 Stat. 217; Pub. L. 91–258, title I, §52(b)(2), May 21, 1970, 84 Stat. 235; Pub. L. 92–65, title I, §109, Aug. 5, 1971, 85 Stat. 167; Pub. L. 93–46, §5, June 18, 1973, 87 Stat. 97;Pub. L. 93–423, §9(c), Sept. 27, 1974, 88 Stat. 1162; Pub. L. 94–188, title II, §202, Dec. 31, 1975, 89 Stat. 1087; Pub. L. 94–487, title I, §§118, 119, Oct. 12, 1976, 90 Stat. 2335, 2336; Pub. L. 96–506, §1(9), Dec. 8, 1980, 94 Stat. 2745, related to supplements to Federal grant-in-aid programs.
+Section 3188a, Pub. L. 89–136, title V, §509, as added Pub. L. 90–103, title II, §203, Oct. 11, 1967, 81 Stat. 266; amended Pub. L. 91–123, title II, §205, Nov. 25, 1969, 83 Stat. 217; Pub. L. 91–258, title I, §52(b)(2), May 21, 1970, 84 Stat. 235; Pub. L. 92–65, title I, §109, Aug. 5, 1971, 85 Stat. 167; Pub. L. 93–46, §5, June 18, 1973, 87 Stat. 97; Pub. L. 93–423, §9(c), Sept. 27, 1974, 88 Stat. 1162; Pub. L. 94–188, title II, §202, Dec. 31, 1975, 89 Stat. 1087; Pub. L. 94–487, title I, §§118, 119, Oct. 12, 1976, 90 Stat. 2335, 2336; Pub. L. 96–506, §1(9), Dec. 8, 1980, 94 Stat. 2745, related to supplements to Federal grant-in-aid programs.
 
-Section 3189, Pub. L. 89–136, title V, §510, formerly §509, Aug. 26, 1965, 79 Stat. 569; renumbered §510, Pub. L. 90–103, title II, §203, Oct. 11, 1967, 81 Stat. 266; Pub. L. 94–273, §25, Apr. 21, 1976, 90 Stat. 380, related to annual reports to Congress.
+Section 3189, Pub. L. 89–136, title V, §510, formerly §509, Aug. 26, 1965, 79 Stat. 569; renumbered §510, Pub. L. 90–103, title II, §203, Oct. 11, 1967, 81 Stat. 266; Pub.L. 94–273, §25, Apr. 21, 1976, 90 Stat. 380, related to annual reports to Congress.
 
 Section 3190, Pub. L. 89–136, title V, §511, as added Pub. L. 91–123, title II, §206, Nov. 25, 1969, 83 Stat. 218; amended Pub. L. 93–423, §9(d), Sept. 27, 1974, 88 Stat. 1162, required coordination of activities between Secretary and Federal cochairmen in grants and loans.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

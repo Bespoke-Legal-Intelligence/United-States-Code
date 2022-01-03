@@ -20,7 +20,7 @@ In ascertaining under this section the differences in costs of production, the c
 
 #### (1) In the case of a domestic article
 
-&emsp;(A) The cost of production as hereinafter in this section defined; (B) transportation costs and other costs incident to delivery to the principal market or markets of the United States for the article; and (C) other relevantfactors that constitute an advantage or disadvantage in competition.
+&emsp;(A) The cost of production as hereinafter in this section defined; (B) transportation costs and other costs incident to delivery to the principal market or markets of the United States for the article; and (C) other relevant factors that constitute an advantage or disadvantage in competition.
 
 #### (2) In the case of a foreign article
 
@@ -32,7 +32,7 @@ Any increased or decreased rate of duty or change in classification which has ta
 
 #### (g) Prohibition against transfers from the free list to the dutiable list or from the dutiable list to the free list
 
-Nothing in this section shall be construed to authorize a transfer of an article from the dutiable list to the free list or from the free list to the dutiable list, nor a change in form of duty. Whenever it is provided in any paragraph of Subtitle I of this chapter, or in any amendatory act, that the duty or duties shall not exceed a specified ad valorem rate upon the articles provided for in such paragraph, no rate determined under the provisions of this section upon such articles shall exceed the maximum ad valorem rate so specified.
+Nothing in this section shall be construed to authorize a transfer of an article from the dutiable list to the free list or from the free list to the dutiable list, nor a change in form of duty. Whenever it is provided in any paragraph of Subtitle I of this chapter, or in any amendatoryact, that the duty or duties shall not exceed a specified ad valorem rate upon the articles provided for in such paragraph, no rate determined under the provisions of this section upon such articles shall exceed the maximum ad valorem rate so specified.
 
 #### (h) Definitions
 
@@ -57,6 +57,8 @@ The President is authorized to make all needful rules and regulations for carryi
 All uncompleted investigations instituted prior to June 17, 1930, under the provisions of sections 154 to 159 <sup>1</sup> of this title, including investigations in which the President has not proclaimed changes in classification or increases or decreases in rates of duty, shall be dismissed without prejudice; but the information and evidence secured by the commission in any such investigation may be given due consideration in any investigation instituted under the provisions of this section.
 
 (June 17, 1930, ch. 497, title III, §336, 46 Stat. 701; Aug. 2, 1956, ch. 887, §2(d), 70 Stat. 946; Pub. L. 85–686, §9(c)(1), Aug. 20, 1958, 72 Stat. 679; Pub. L. 96–39, title II, §202(a)(2), July 26, 1979, 93 Stat. 202.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ Subsec. (k). Pub. L. 96–39, §202(a)(2)(C), substituted "changes in classifica
 <b>1958</b>—Subsec. (a). Pub. L. 85–686 struck out provisions which authorized the commission to adopt such reasonable procedure and rules and regulations as it deemed necessary to execute its functions under this section. See section 1335 of this title.
 
 <b>1956</b>—Subsec. (b). Act Aug. 2, 1956, struck out "(as defined in section 1402(g))" after "selling price".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

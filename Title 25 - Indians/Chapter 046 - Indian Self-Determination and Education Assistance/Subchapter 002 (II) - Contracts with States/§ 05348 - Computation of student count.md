@@ -40,7 +40,7 @@ For the purposes of sections 5342 to 5348 of this title, the following definitio
 
 #### (i) Preliminary report
 
-&emsp;&emsp;&emsp;Not later than 180 days after December 31, 2018, the Secretary shall publish a preliminary report describing the number of eligible Indian students served or potentially served by each eligible entity, using the most applicable and accurate data (as determined by the Secretary in consultation with eligible entities) from the fiscalyear preceding the fiscal year for which the initial determination is to be made from—
+&emsp;&emsp;&emsp;Not later than 180 days after December 31, 2018, the Secretary shall publish a preliminary report describing the number of eligible Indian students served or potentially served by each eligible entity, using the most applicable and accurate data (as determined by the Secretary in consultation with eligible entities) from the fiscal year preceding the fiscal year for which the initial determination is to be made from—
 
 &emsp;&emsp;&emsp;&emsp;(I) the Bureau of the Census;
 
@@ -160,7 +160,7 @@ For the purposes of sections 5342 to 5348 of this title, the following definitio
 
 #### (1) Funding reform
 
-&emsp;The Secretary may make recommendations for legislation to increase the amount of funds available per eligible Indian student through contracts under sections 5342 to 5348 of this title to equal to or greater than the amount of funds that were available per eligible Indian student through contracts under sections 5342 to 5348 of this title for fiscal year 1995, and attempt to identify additional sources of funding that do not reallocate existing funds otherwise utilized by Indian students served—
+&emsp;The Secretary may make recommendations for legislation to increase the amount of funds available per eligible Indian student through contracts under sections 5342 to 5348 of this title to equal to or greater than the amount of funds that were available per eligible Indianstudent through contracts under sections 5342 to 5348 of this title for fiscal year 1995, and attempt to identify additional sources of funding that do not reallocate existing funds otherwise utilized by Indian students served—
 
 &emsp;&emsp;(A) by the Bureau of Indian Education; or
 
@@ -246,7 +246,7 @@ Nothing in this section—
 
 #### References in Text
 
-The Johnson-O'Malley Supplemental Indian Education Program Modernization Act, referred to subsec. (a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 5301 of this title and Tables.
+The Johnson-O'Malley Supplemental Indian Education Program Modernization Act, referred to subsec.\(a)(4), is Pub. L. 115–404, Dec. 31, 2018, 132 Stat. 5349, which enacted this section and provisions set out as a note under section 5301 of this title. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 5301 of this title and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
 

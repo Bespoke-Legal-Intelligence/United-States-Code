@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3)) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
-&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for thescreening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
+&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
@@ -116,6 +116,8 @@
 
 (Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199; Pub. L. 113–93, title II, §207, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §216, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50501, Feb. 9, 2018, 132 Stat. 224; Pub. L. 116–39, §5, Aug. 6, 2019, 133 Stat. 1062.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
@@ -146,7 +148,7 @@ Subsec. (c)(3)(C). Pub. L. 116–39, §5(2), substituted "fiscal year 2018 and e
 
 <b>2018</b>—Subsec. (c)(1)(A)(vii). Pub. L. 115–123, §50501(1), added cl. (vii).
 
-Subsec. (c)(3)(C). Pub. L. 115–123, §50501(2), inserted ", and with respect to fiscal years 2018 and 2019, suchcenters shall also be developed in all territories and at least one such center shall be developed for Indian tribes" before period at end.
+Subsec. (c)(3)(C). Pub. L. 115–123, §50501(2), inserted ", and with respect to fiscal years 2018 and 2019, such centers shall also be developed in all territories and at least one such center shall be developed for Indian tribes" before period at end.
 
 Subsec. (c)(5). Pub. L. 115–123, §50501(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "For purposes of this subsection, the term 'State' means each of the 50 States and the District of Columbia."
 
@@ -187,6 +189,8 @@ Subsec. (b)(1)(A). Pub. L. 99–272, §9527(c), substituted "services for childr
 <b>1982</b>—Subsec. (b)(1)(D). Pub. L. 97–248, §137(b)(1), substituted "title VI" for "title IV".
 
 Subsec. (b)(2). Pub. L. 97–248, §137(b)(2), substituted "section 9902(2)" for "section 2971d".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -308,7 +312,7 @@ Field testing and evaluation.—The Secretary shall complete publication of the 
 
 &emsp;"(3)
 
-Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former 42 U.S.C. 254b, 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former 42 U.S.C. 256\], the 'WIC' program under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\], and the head start program under the Head Start Act \[42 U.S.C. 9831 et seq.\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments,State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
+Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former 42 U.S.C. 254b, 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former 42 U.S.C. 256\], the 'WIC' program under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\], and the head start program under the Head Start Act \[42 U.S.C. 9831 et seq.\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
 
 "(b)
 

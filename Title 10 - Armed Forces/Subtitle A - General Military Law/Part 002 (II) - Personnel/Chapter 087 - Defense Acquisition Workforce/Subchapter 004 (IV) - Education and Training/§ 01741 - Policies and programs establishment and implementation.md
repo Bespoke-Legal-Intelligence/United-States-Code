@@ -6,13 +6,15 @@ Policies and Procedures.—The Secretary of Defense shall establish policies and
 
 (b)
 
-Funding Levels.—The Under Secretary of Defense for Acquisition and Sustainment each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programsin the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
+Funding Levels.—The Under Secretary of Defense for Acquisition and Sustainment each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
 
 (c)
 
 Programs.—The Secretary of each military department, acting through the service acquisition executive for that department, shall establish and implement the education and training programs authorized by this subchapter. In carrying out such requirement, the Secretary concerned shall ensure that such programs are established and implemented throughout the military department concerned and, to the maximum extent practicable, uniformly with the programs of the other military departments.
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1651; amended Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 116–92, div. A, title IX, §902(22), Dec. 20, 2019, 133 Stat. 1545.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -21,6 +23,8 @@ Programs.—The Secretary of each military department, acting through the servic
 <b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Software Development and Software Acquisition Training and Management Programs
 
@@ -94,7 +98,7 @@ Service acquisition executive.—The terms 'military department', 'Defense Agenc
 
 &emsp;"(3)
 
-Major defense acquisition program.—The term 'major defense acquisition program' has the meaning given in section 2430 of title 10, United States Code.
+Major defense acquisition program.—The term 'major defense acquisition program' has the meaning given in section 2430 of title 10, United States Code \[now 10 U.S.C. 4201\].
 
 &emsp;"(4)
 
@@ -106,7 +110,7 @@ Pub. L. 116–92, div. A, title VIII, §885, Dec. 20, 2019, 133 Stat. 1535, prov
 
 "(a)
 
-Review.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Under Secretary of Defense for Acquisition and Sustainment, serving as the senior procurement executive for the Department of Defense pursuant to section 133b(b)(4)(B) of title 10, United States Code, shall conduct a review of the implementation of the requirement for Government contracting agencies under Executive Order 11246 (42 U.S.C. 2000e note) relating to expectations of contractors and subcontractors to ensure nondiscrimination on the basis of sex.
+Review.—Not later than 180 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Under Secretary of Defense for Acquisition and Sustainment, serving as the senior procurement executive for the Department of Defense pursuant to section 133b(b)(4)(B) of title 10, United States Code \[now 10 U.S.C. 133b(b)(5)(B)\], shall conduct a review of the implementation of the requirement for Government contracting agencies under Executive Order 11246 (42 U.S.C. 2000e note) relating to expectations of contractors and subcontractors to ensure nondiscrimination on the basis of sex.
 
 "(b)
 
@@ -114,7 +118,7 @@ Elements.—The review required under subsection (a) shall, at a minimum, consid
 
 &emsp;"(1) existing contracting processes and tools for oversight of contracts, including contractor responsibility determinations and documentation of performance; and
 
-&emsp;"(2) the extent to which best practices for contractors and subcontractors identified in the appendix topart 60–20 of title 41 of the Code of Federal Regulations, such as establishing and implementing procedures for handling and resolving complaints about harassment and intimidation based on sex, have been incorporated in Department policies and procedures.
+&emsp;"(2) the extent to which best practices for contractors and subcontractors identified in the appendix to part 60–20 of title 41 of the Code of Federal Regulations, such as establishing and implementing procedures for handling and resolving complaints about harassment and intimidation based on sex, have been incorporated in Department policies and procedures.
 
 "(c)
 
@@ -139,4 +143,28 @@ Identification of training and professional development opportunities and altern
 "(3)
 
 Treatment of training and professional development.—Any training and professional development provided pursuant to this subsection outside Department of Defense institutions shall be deemed to be equivalent to similar training certified or provided by the Defense Acquisition University."
+
+#### Requirements Management Certification Training Program
+
+Pub. L. 109–364, div. A, title VIII, §801, Oct. 17, 2006, 120 Stat. 2312, as amended by Pub. L. 116–92, div. A, title IX, §902(68), Dec. 20, 2019, 133 Stat. 1551, provided that:
+
+"(a)
+
+Training Program.—
+
+&emsp;"(1)
+
+Requirement.—The Under Secretary of Defense for Acquisition and Sustainment, in consultation with the Defense Acquisition University, shall develop a training program to certify military and civilian personnel of the Department of Defense with responsibility for generating requirements for major defense acquisition programs (as defined in section 2430(a) of title 10, United States Code \[now 10 U.S.C. 4201\]).
+
+&emsp;"(2)
+
+Competency and other requirements.—The Under Secretary shall establish competency requirements for the personnel undergoing the training program. The Under Secretary shall define the target population for such training program by identifying which military and civilian personnel should have responsibility for generating requirements. The Under Secretary also may establish other training programs for personnel not subject to chapter 87 of title 10, United States Code, who contribute significantly to other types of acquisitions by the Department of Defense.
+
+"(b)
+
+Applicability.—Effective on and after September 30, 2008, a member of the Armed Forces or an employee of the Department of Defense with authority to generate requirements for a major defense acquisition program may not continue to participate in the requirements generation process unless the member or employee successfully completes the certification training program developed under this section.
+
+"(c)
+
+Reports.—The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an interim report, not later than March 1, 2007, and a final report, not later than March 1, 2008, on the implementation of the training program required under this section."
 

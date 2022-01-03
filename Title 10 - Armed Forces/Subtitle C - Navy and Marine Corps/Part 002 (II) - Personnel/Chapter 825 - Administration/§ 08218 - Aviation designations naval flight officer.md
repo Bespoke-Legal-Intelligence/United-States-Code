@@ -20,6 +20,8 @@ June 24, 1926, ch. 668, §3 (par. 3), 44 Stat. 767.
 
 The phrase "by competent authority" is omitted as surplusage. The definition form of 34 U.S.C. 735 is not followed.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8218, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Stat. 1515; amended Pub. L. 96–107, title III, §302(d), Nov. 9, 1979, 93 Stat. 806; Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 102–190, div. A, title X, §1061(a)(23)(B), Dec. 5, 1991, 105 Stat. 1473, related to authorized strength of Air Force in reserve general officers in active status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1662(a)(3), Oct. 5, 1994, 108 Stat. 2988. See section 12004 of this title.
@@ -29,6 +31,8 @@ A prior section 8218, added Pub. L. 85–861, §1(164)(A), Sept. 2, 1958, 72 Sta
 <b>2018</b>—Pub. L. 115–232 renumbered section 6024 of this title as this section.
 
 <b>1970</b>—Pub. L. 91–198 substituted "naval flight officer" for "naval aviation observer" and "naval flight officers" for "naval aviation observers," and struck out requirement that such officer have been in the air at least 100 hours.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

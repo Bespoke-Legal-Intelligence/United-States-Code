@@ -4,9 +4,13 @@ If any provision of this chapter, or the application thereof to any person or ci
 
 (June 17, 1930, ch. 497, title IV, §652, 46 Stat. 763.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §645, 42 Stat. 990. That section was superseded by section 652 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Customs Procedural Reform and Simplification Act of 1978
 

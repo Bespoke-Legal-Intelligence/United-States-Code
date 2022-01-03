@@ -30,7 +30,7 @@ The proviso in section 250(1) of title 28, U.S.C., 1940 ed., relating to claims 
 
 The exception in section 250(1) of title 28, U.S.C., 1940 ed., as to pension claims appears in section 1501 of this title.
 
-Words "in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable" were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
+Words "in respect of which claims the party would be entitled to redress against the United States either in a court of law, equity, or admiralty, if the United States were suable" were omitted as unnecessary since the Court of Claims manifestly, under this section will determine whether a petition against the United States states a cause of action. In any event, the Court of Claims has no admiralty jurisdiction, but the Suits in Admiralty Act, sections 741–752 of title 46, U.S.C., 1940 ed., Shipping, vests exclusive jurisdiction over suits in admiralty against the United States in the district courts. <i>Sanday \& Co. v. U.S</i>., 1932, 76 Ct.Cl. 370.
 
 For additional provisions respecting jurisdiction of the court of claims in war contract settlement cases see section 114b of Title 41, U.S.C., 1940 ed., Public Contracts.
 

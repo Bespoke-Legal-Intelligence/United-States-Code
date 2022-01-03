@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §835(b)(12), Oct. 22, 2004, 118 Stat. 1594, struck out item for part V "Financial asset securitization investment trusts".

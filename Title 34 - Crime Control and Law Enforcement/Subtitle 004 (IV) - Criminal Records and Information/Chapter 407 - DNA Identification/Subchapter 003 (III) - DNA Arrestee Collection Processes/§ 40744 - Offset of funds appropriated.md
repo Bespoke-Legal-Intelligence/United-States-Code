@@ -8,7 +8,7 @@ Any funds appropriated to carry out this subchapter, not to exceed $10,000,000 f
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, known as the Katie Sepich EnhancedDNA Collection Act of 2012, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 2013 Act note set out under section 10101 of this title and Tables.
+This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, known as the Katie Sepich Enhanced DNA Collection Act of 2012, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 2013 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

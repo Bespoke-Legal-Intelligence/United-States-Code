@@ -17,6 +17,8 @@
 | [XI.](Subchapter%20011%20%28XI%29%20-%20Miscellaneous%20Provisions/README.md) | Miscellaneous Provisions | 935 | 135 |
 | [XII.](Subchapter%20012%20%28XII%29%20-%20United%20States%20Court%20of%20Appeals%20for%20the%20Armed%20Forces/README.md) | United States Court of Appeals for the Armed Forces | 941 | 141 |
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(c)(3)(B), Oct. 5, 1994, 108 Stat. 2832, substituted "United States Court of Appeals for the Armed Forces" for "Court of Military Appeals" in item for subchapter XII.

@@ -4,13 +4,15 @@
 
 (1) There is in the Administration a Principal Deputy Administrator, who is appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The Principal Deputy Administrator shall be appointed from among persons who have extensive background in organizational management and are well qualified to manage the nuclear weapons, nonproliferation, and materialsdisposition programs of the Administration in a manner that advances and protects the national security of the United States.
+(2) The Principal Deputy Administrator shall be appointed from among persons who have extensive background in organizational management and are well qualified to manage the nuclear weapons, nonproliferation, and materials disposition programs of the Administration in a manner that advances and protects the national security of the United States.
 
 #### (b) Duties
 
 Subject to the authority, direction, and control of the Administrator, the Principal Deputy Administrator shall perform such duties and exercise such powers as the Administrator may prescribe, including the coordination of activities among the elements of the Administration. The Principal Deputy Administrator shall act for, and exercise the powers of, the Administrator when the Administrator is disabled or the position of Administrator is vacant.
 
 (Pub. L. 106–65, div. C, title XXXII, §3213, as added Pub. L. 107–107, div. C, title XXXI, §3141(a)(2), Dec. 28, 2001, 115 Stat. 1370.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

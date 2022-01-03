@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
-&emsp;&emsp;(C) is used to transport material found by the Secretary to be hazardous under section5103 of this title, except that a vehicle shall not be included as a commercial motor vehicle under this subclause if—
+&emsp;&emsp;(C) is used to transport material found by the Secretary to be hazardous under section 5103 of this title, except that a vehicle shall not be included as a commercial motor vehicle under this subclause if—
 
 &emsp;&emsp;&emsp;(i) the vehicle does not satisfy the weight requirements of subclause (A) of this clause;
 
@@ -144,11 +144,13 @@ In clause (4)(A), the words "at least 26,001 pounds" are substituted for "26,001
 
 In clause (4)(B), the words "at least 16 passengers" are substituted for "more than 15 passengers" for consistency.
 
-Clause (4)(C)(i) is substituted for "and which has a gross vehicle weight rating of less than 26,001 pounds (or such gross vehicle weight rating as determined appropriate by the Secretary under subparagraph (A))" to eliminate unnecessary words. In subclause (iii), thewords "deny the application of this exception" are substituted for "waive the application of the preceding sentence" for clarity and because of the restatement.
+Clause (4)(C)(i) is substituted for "and which has a gross vehicle weight rating of less than 26,001 pounds (or such gross vehicle weight rating as determined appropriate by the Secretary under subparagraph (A))" to eliminate unnecessary words. In subclause (iii), the words "deny the application of this exception" are substituted for "waive the application of the preceding sentence" for clarity and because of the restatement.
 
 In clause (11), the words "public streets, roads, or" are added for consistency in the revised title.
 
 In clause (12)(C), the words "involving a fatality" are substituted for "arising in connection with a fatal traffic accident" to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -161,6 +163,8 @@ Par. (12)(D) to (G). Pub. L. 106–159, §201(c), added subpars. (D) to (F) and 
 <b>1998</b>—Par. (4)(A). Pub. L. 105–178, §4011(a)(1), inserted "or gross vehicle weight" after "rating" first two places that term appears and ", whichever is greater," after "26,001 pounds".
 
 Par. (4)(C)(ii). Pub. L. 105–178, §4011(a)(2), inserted "is" before "transporting" in two places and before "not otherwise regulated".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -248,7 +252,7 @@ For provisions relating to exemptions from certain requirements of this chapter 
 
 #### Grant Program for Commercial Motor Vehicle Operators
 
-Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div.A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, which established a grant program for persons to train operators of commercial motor vehicles, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(7), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
+Pub. L. 109–59, title IV, §4134, Aug. 10, 2005, 119 Stat. 1744, as amended by Pub. L. 111–147, title IV, §422(h), Mar. 18, 2010, 124 Stat. 87; Pub. L. 111–322, title II, §2202(h), Dec. 22, 2010, 124 Stat. 3525; Pub. L. 112–5, title II, §202(h), Mar. 4, 2011, 125 Stat. 17; Pub. L. 112–30, title I, §122(g), Sept. 16, 2011, 125 Stat. 349; Pub. L. 112–102, title II, §202(g), Mar. 30, 2012, 126 Stat. 274; Pub. L. 112–140, title II, §202(g), June 29, 2012, 126 Stat. 395; Pub. L. 112–141, div. C, title II, §32603(g), July 6, 2012, 126 Stat. 808; Pub. L. 113–159, title I, §1102(g), Aug. 8, 2014, 128 Stat. 1844; Pub. L. 114–21, title I, §1102(g), May 29, 2015, 129 Stat. 222; Pub. L. 114–41, title I, §1102(g), July 31, 2015, 129 Stat. 449; Pub. L. 114–73, title I, §1102(g), Oct. 29, 2015, 129 Stat. 572; Pub. L. 114–87, title I, §1102(g), Nov. 20, 2015, 129 Stat. 681; Pub. L. 114–94, div. A, title V, §5105(e), Dec. 4, 2015, 129 Stat. 1529, which established a grant program for persons to train operators of commercial motor vehicles, was repealed by Pub. L. 114–94, div. A, title V, §5101(e)(7), Dec. 4, 2015, 129 Stat. 1525, effective Oct. 1, 2016.
 
 #### CDL Task Force
 

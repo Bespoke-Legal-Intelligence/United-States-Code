@@ -14,7 +14,7 @@ Agreements.—The Secretary shall enter into an agreement with each college or u
 
 &emsp;(1) The manner (whether by direct grant, scholarship, or otherwise) of the contributions to be made by the college or university concerned.
 
-&emsp;(2) The maximum amount of the contribution to be made by the college or universityconcerned with respect to any particular individual in any given academic year.
+&emsp;(2) The maximum amount of the contribution to be made by the college or university concerned with respect to any particular individual in any given academic year.
 
 &emsp;(3) The maximum number of individuals for whom the college or university concerned will make contributions in any given academic year.
 

@@ -172,7 +172,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;There is established a Small Business Division (in this subsection referred to as the "Division") within the Bank in order to—
 
-&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy forsmall business concerns (as defined in section 632(a) of title 15);
+&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
 
 &emsp;&emsp;(B) advise and seek feedback from small business concerns on the opportunities and benefits for small business concerns in the financing products offered by the Bank, with particular emphasis on conducting outreach, enhancing the tailoring of products to small business needs and increasing loans to small business concerns;
 
@@ -270,7 +270,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) Establishment
 
-&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially and economically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
+&emsp;The President of the Bank shall establish in the Small Business Division an office whose sole functions shall be to continue and enhance the outreach activities of the Bank with respect to, and increase the total amount of loans, guarantees, and insurance provided by the Bank to support exports by, socially andeconomically disadvantaged small business concerns (as defined in section 637(a)(4) of title 15) and small business concerns owned by women.
 
 #### (2) Management
 
@@ -418,7 +418,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 &emsp;&emsp;(B) to review all required reports on the default rate of the Bank before submission to Congress under section 635g(g) of this title.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I,§113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title I \[title VI, §§613, 614(a), 620(b)\], Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709; Pub. L. 109–438, §§6(a), 14(a), 15, 18(a), Dec. 20, 2006, 120 Stat. 3270, 3280, 3281; Pub. L. 112–122, §§9(a), 19–20(b)(1), May 30, 2012, 126 Stat. 354, 361, 362; Pub. L. 114–94, div. E, title LI, §§51004–51006(a), title LIII, §53002, title LIV, §54002(c), Dec. 4, 2015, 129 Stat. 1764–1766, 1768, 1769; Pub. L. 116–94, div. I, title IV, §409(a), Dec. 20, 2019, 133 Stat. 3025.)
 
 #### Termination of Amendment
 
@@ -476,7 +476,7 @@ Subsec. (i). Pub. L. 109–438, §14(a), added subsec. (i).
 
 <b>2002</b>—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
-<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "A majority of the Board of Directors shall constitute a quorum."
+<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows:"A majority of the Board of Directors shall constitute a quorum."
 
 <b>1997</b>—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -618,7 +618,7 @@ A Board of Directors and an Advisory Committee reestablished for the Export-Impo
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### <b>Executive Documents</b>
 

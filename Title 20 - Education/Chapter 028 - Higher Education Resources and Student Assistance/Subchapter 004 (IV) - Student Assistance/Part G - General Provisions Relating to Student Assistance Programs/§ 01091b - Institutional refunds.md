@@ -130,7 +130,7 @@
 
 &emsp;&emsp;Excess funds returned by the institution or the student, as appropriate, in accordance with paragraph (1) or (2), respectively, shall be credited to outstanding balances on loans made under this subchapter to the student or on behalf of the student for the payment period or period of enrollment for which a return of funds is required. Such excess funds shall be credited in the following order:
 
-&emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title for the payment period or period of enrollment for which a return of funds is required.
+&emsp;&emsp;&emsp;(i) To outstanding balances on loans made under section 1078–8 of this title forthe payment period or period of enrollment for which a return of funds is required.
 
 &emsp;&emsp;&emsp;(ii) To outstanding balances on loans made under section 1078 of this title for the payment period or period of enrollment for which a return of funds is required.
 
@@ -188,6 +188,8 @@ The provisions of this section shall take effect 2 years after October 7, 1998. 
 
 (Pub. L. 89–329, title IV, §484B, as added Pub. L. 102–325, title IV, §485(a), July 23, 1992, 106 Stat. 619; amended Pub. L. 103–208, §2(h)(26), (27), Dec. 20, 1993, 107 Stat. 2477; Pub. L. 105–244, title IV, §485, Oct. 7, 1998, 112 Stat. 1737; Pub. L. 109–66, §2, Sept. 21, 2005, 119 Stat. 1999; Pub. L. 109–67, §2, Sept. 21, 2005, 119 Stat. 2001; Pub. L. 109–171, title VIII, §8022, Feb. 8, 2006, 120 Stat. 178.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 92–318, title IV, §451(a), June 23, 1972, 86 Stat. 344, authorized the Commissioner to appraise and annually report on existing and future education personnel needs, prior to repeal, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
@@ -222,9 +224,11 @@ Subsec. (b)(2)(E). Pub. L. 109–67 added subpar. (E).
 
 Subsec. (b)(3). Pub. L. 103–208, §2(h)(27), substituted "subsection (c) of this section" for "subsection (d) of this section".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
-Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub.L. 109–171, set out as a note under section 1002 of this title.
+Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 
 #### Effective Date of 1998 Amendment
 

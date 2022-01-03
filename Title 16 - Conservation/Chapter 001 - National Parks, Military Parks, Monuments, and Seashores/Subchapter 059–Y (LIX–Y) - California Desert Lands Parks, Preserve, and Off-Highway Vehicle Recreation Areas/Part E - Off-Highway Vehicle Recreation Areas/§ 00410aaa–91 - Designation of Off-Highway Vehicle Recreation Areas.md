@@ -58,7 +58,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall continue to authorize, maintain, and enhance the recreational uses of the off-highway vehicle recreation areas designated or expanded by subsection (a), as long as the recreational use is consistent with this section and any other applicable law.
+&emsp;&emsp;The Secretary shall continue to authorize, maintain, and enhance the recreational usesof the off-highway vehicle recreation areas designated or expanded by subsection (a), as long as the recreational use is consistent with this section and any other applicable law.
 
 #### (B) Off-highway vehicle and off-highway recreation
 
@@ -76,7 +76,7 @@ The purpose of the off-highway vehicle recreation areas designated or expanded u
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), commercial development (including development of energy facilities, but excluding energy transport facilities, rights-of-way, and related telecommunication facilities) shall be prohibited in the off-highway vehiclerecreation areas designated or expanded by subsection (a) if the Secretary determines that the development is incompatible with the purpose described in subsection (b).
+&emsp;&emsp;Except as provided in subparagraph (B), commercial development (including development of energy facilities, but excluding energy transport facilities, rights-of-way, and related telecommunication facilities) shall be prohibited in the off-highway vehicle recreation areas designated or expanded by subsection (a) if the Secretary determines that the development is incompatible with the purpose described in subsection (b).
 
 #### (B) Exception
 
@@ -196,11 +196,15 @@ Subject to valid existing rights, all Federal land within the off-highway vehicl
 
 (Pub. L. 103–433, title XIII, §1301, as added Pub. L. 116–9, title I, §1441, Mar. 12, 2019, 133 Stat. 702.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsecs. (a)(1) and (e)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 Section 2945 of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (a)(2), is section 2945 of title XXIX of div. B of Pub. L. 113–66, Dec. 26, 2013, 127 Stat. 1038, which is set out as a note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Johnson Valley Off-Highway Vehicle Recreation Area
 

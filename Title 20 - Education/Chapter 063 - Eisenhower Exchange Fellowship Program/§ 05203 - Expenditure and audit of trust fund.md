@@ -10,9 +10,13 @@ The activities of Eisenhower Exchange Fellowships, Incorporated, may be audited 
 
 (Pub. L. 101–454, §4, Oct. 24, 1990, 104 Stat. 1064; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading and in two places in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Use of Earned Unused Trust Income for Fellowship Purposes
 

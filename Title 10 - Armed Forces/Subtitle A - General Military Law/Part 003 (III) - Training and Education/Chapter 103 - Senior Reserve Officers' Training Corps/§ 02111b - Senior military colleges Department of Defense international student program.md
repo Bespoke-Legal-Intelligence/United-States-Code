@@ -26,6 +26,8 @@ DOD Financial Support.—An international student who is admitted to a senior mi
 
 (Added Pub. L. 106–65, div. A, title V, §541(a)(1), Oct. 5, 1999, 113 Stat. 606.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 106–65, div. A, title V, §541(b), Oct. 5, 1999, 113 Stat. 607, provided that: "The Secretary of Defense shall implement the program under section 2111b of title 10, United States Code, as added by subsection (a), with students entering the senior military colleges after May 1, 2000."

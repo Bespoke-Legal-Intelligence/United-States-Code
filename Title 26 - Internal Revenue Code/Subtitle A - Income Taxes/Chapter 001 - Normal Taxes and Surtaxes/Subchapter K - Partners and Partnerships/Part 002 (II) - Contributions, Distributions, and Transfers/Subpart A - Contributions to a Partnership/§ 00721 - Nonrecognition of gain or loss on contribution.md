@@ -18,6 +18,8 @@ The Secretary may provide by regulations that subsection (a) shall not apply to 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 245; Pub. L. 94–455, title XXI, §2131(b), Oct. 4, 1976, 90 Stat. 1924; Pub. L. 105–34, title XI, §1131(b)(3), (5)(B), Aug. 5, 1997, 111 Stat. 979, 980.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
@@ -29,6 +31,8 @@ Another section 1131(b) of Pub. L. 105–34 enacted section 684 of this title.
 Subsec. (d). Pub. L. 105–34, §1131(b)(5)(B), added subsec. (d).
 
 <b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), added subsec. (a) heading "General rule", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

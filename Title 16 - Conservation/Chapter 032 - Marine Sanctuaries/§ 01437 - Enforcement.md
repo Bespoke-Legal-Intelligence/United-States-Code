@@ -90,7 +90,7 @@ Any person who is authorized to enforce this chapter may—
 
 &emsp;&emsp;(i) manage and improve the national marine sanctuary with respect to which the violation occurred that resulted in the penalty or forfeiture;
 
-&emsp;&emsp;(ii) pay a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or any regulation or permit issued under this chapter; and
+&emsp;&emsp;(ii) pay a reward to any person who furnishes information leading to an assessment of a civil penalty, or to a forfeiture of property, for a violation of this chapter or anyregulation or permit issued under this chapter; and
 
 &emsp;&emsp;(iii) manage and improve any other national marine sanctuary.
 
@@ -112,7 +112,7 @@ Nothing in this section shall be considered to limit the authority of the Coast 
 
 #### (j) Injunctive relief
 
-If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title, the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction,loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
+If the Secretary determines that there is an imminent risk of destruction or loss of or injury to a sanctuary resource, or that there has been actual destruction or loss of, or injury to, a sanctuary resource which may give rise to liability under section 1443 of this title, the Attorney General, upon request of the Secretary, shall seek to obtain such relief as may be necessary to abate such risk or actual destruction, loss, or injury, or to restore or replace the sanctuary resource, or both. The district courts of the United States shall have jurisdiction in such a case to order such relief as the public interest and the equities of the case may require.
 
 #### (k) Area of application and enforceability
 
@@ -123,6 +123,8 @@ The area of application and enforceability of this chapter includes the territor
 In any action by the United States under this chapter, process may be served in any district where the defendant is found, resides, transacts business, or has appointed an agent for the service of process.
 
 (Pub. L. 92–532, title III, §307, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 100–627, title II, §207, Nov. 7, 1988, 102 Stat. 3219; Pub. L. 102–587, title II, §2107(a)–(c), (e), Nov. 4, 1992, 106 Stat. 5043, 5044; Pub. L. 104–283, §9(c), Oct. 11, 1996, 110 Stat. 3367; Pub. L. 106–513, §8, Nov. 13, 2000, 114 Stat. 2387.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -161,6 +163,8 @@ In general.—Notwithstanding any other law, the Secretary may use amounts recei
 Subsec. (j). Pub. L. 102–587, §2107(e), added subsec. (j).
 
 <b>1988</b>—Pub. L. 100–627 amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

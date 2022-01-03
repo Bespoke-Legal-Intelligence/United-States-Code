@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 A prior section 505 of Pub. L. 87–624 was classified to section 754 of this title prior to repeal by Pub. L. 103–414, §304(b)(5).
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

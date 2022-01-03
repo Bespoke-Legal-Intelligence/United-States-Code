@@ -288,6 +288,8 @@ For purposes of this section, in the case of property the acquisition of which b
 
 (Added Pub. L. 88–272, title II, §206(a), Feb. 26, 1964, 78 Stat. 38; amended Pub. L. 94–455, title XIV, §1404(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1733, 1834; Pub. L. 95–600, title IV, §404(a)–(c)(2), Nov. 6, 1978, 92 Stat. 2869, 2870; Pub. L. 97–34, title I, §123(a), Aug. 13, 1981, 95 Stat. 197; Pub. L. 100–647, title VI, §6011(a), Nov. 10, 1988, 102 Stat. 3691; Pub. L. 105–34, title III, §312(a), Aug. 5, 1997, 111 Stat. 836; Pub. L. 105–206, title VI, §6005(e)(1), (2), July 22, 1998, 112 Stat. 805; Pub. L. 107–16, title V, §542(c), June 7, 2001, 115 Stat. 84; Pub. L. 108–121, title I, §101(a), Nov. 11, 2003, 117 Stat. 1336; Pub. L. 108–357, title VIII, §840(a), Oct. 22, 2004, 118 Stat. 1597; Pub. L. 109–135, title IV, §§402(a)(3), 403(ee), Dec. 21, 2005, 119 Stat. 2610, 2631; Pub. L. 109–432, div. A, title IV, §417(a)–(d), Dec. 20, 2006, 120 Stat. 2965, 2966; Pub. L. 110–142, §7(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–172, §11(a)(11)(A), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–245, title I, §§110(a), 113(a), (b), June 17, 2008, 122 Stat. 1633, 1635; Pub. L. 110–289, div. C, title III, §3092(a), July 30, 2008, 122 Stat. 2911; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §§212(c), 213(c)(1), 221(a)(20), Dec. 19, 2014, 128 Stat. 4033, 4040; Pub. L. 115–97, title I, §11051(b)(3)(A), Dec. 22, 2017, 131 Stat. 2089.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(9)(C)(ii), (iii), is the date of enactment of Pub. L. 108–121, which was approved Nov. 11, 2003.
@@ -416,6 +418,8 @@ Subsec. (d)(8). Pub. L. 95–600, §404(b), added par. (8).
 
 Subsecs. (c), (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
@@ -426,7 +430,7 @@ Amendment by section 212(c) of Pub. L. 113–295 effective as if included in the
 
 Pub. L. 113–295, div. A, title II, §213(d), Dec. 19, 2014, 128 Stat. 4034, provided that: "The amendments made by this section \[amending this section and sections 125 and 877 of this title and provisions set out as a note under section 6511 of this title\] shall take effect as if included in the provisions of the Heroes Earnings Assistance and Relief Tax Act of 2008 \[Pub. L. 110–245\] to which they relate."
 
-Amendment by section 221(a)(20) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, seesection 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
+Amendment by section 221(a)(20) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -516,7 +520,7 @@ Binding contracts.—At the election of the taxpayer, the amendments made by thi
 
 &emsp;"(A) such sale or exchange is pursuant to a contract which was binding on such date, or
 
-&emsp;"(B) without regard to such amendments, gain would not be recognized under section 1034 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) on suchsale or exchange by reason of a new residence acquired on or before such date or with respect to the acquisition of which by the taxpayer a binding contract was in effect on such date.
+&emsp;"(B) without regard to such amendments, gain would not be recognized under section 1034 of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) on such sale or exchange by reason of a new residence acquired on or before such date or with respect to the acquisition of which by the taxpayer a binding contract was in effect on such date.
 
 > This paragraph shall not apply to any sale or exchange by an individual if the treatment provided by section 877(a)(1) of the Internal Revenue Code of 1986 applies to such individual."
 

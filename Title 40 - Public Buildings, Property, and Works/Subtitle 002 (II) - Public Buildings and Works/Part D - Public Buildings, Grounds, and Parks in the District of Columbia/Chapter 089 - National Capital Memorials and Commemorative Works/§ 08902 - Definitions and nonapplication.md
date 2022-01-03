@@ -92,5 +92,5 @@ The district of columbia and its environs.—The term 'the District of Columbia 
 
 #### Effective Date of 2003 Amendment
 
-Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved inaccordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
+Amendments by Pub. L. 108–126 not applicable to a commemorative work for which a site was approved in accordance with this chapter prior to Nov. 17, 2003, see section 205 of Pub. L. 108–126, set out as a note under section 8901 of this title.
 

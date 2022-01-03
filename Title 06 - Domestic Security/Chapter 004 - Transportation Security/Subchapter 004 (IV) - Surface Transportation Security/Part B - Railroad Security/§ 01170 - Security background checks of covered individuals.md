@@ -10,7 +10,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;(A) relevant criminal history databases;
 
-&emsp;&emsp;(B) in the case of an alien (as defined in the Immigration and Nationality Act (8U.S.C. 1101(a)(3)),<sup>1</sup> the relevant databases to determine the status of the alien under the immigration laws of the United States; and
+&emsp;&emsp;(B) in the case of an alien (as defined in the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)),<sup>1</sup> the relevant databases to determine the status of the alien under the immigration laws of the United States; and
 
 &emsp;&emsp;(C) other relevant information or databases, as determined by the Secretary.
 

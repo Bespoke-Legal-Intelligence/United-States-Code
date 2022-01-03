@@ -26,13 +26,15 @@ If a State fails to meet the standards for certification pursuant to subsection 
 
 #### (d) Periodic review of certified States' laws, regulations, and administration; withdrawal of certification
 
-The Director shall periodically review the laws and regulations, and the administration thereof, of States certified under subsection (a), and may withdraw such certification upon a determination that such laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of subsection (a).
+The Director shall periodically review the laws and regulations, and the administrationthereof, of States certified under subsection (a), and may withdraw such certification upon a determination that such laws, regulations, and the administration thereof, taken as a whole, no longer meet the requirements of subsection (a).
 
 #### (e) State and local governmental authorities affected; cooperation with State authorities
 
 Nothing in this chapter may be construed to prevent or limit the authority of any State or local government to enact and enforce with regard to the sale of land any law, ordinance, or code not in conflict with this chapter. In administering this chapter, the Director shall cooperate with State authorities charged with the responsibility of regulating the sale or lease of lots which are subject to this chapter.
 
 (Pub. L. 90–448, title XIV, §1409, Aug. 1, 1968, 82 Stat. 594; Pub. L. 96–153, title IV, §404, Dec. 21, 1979, 93 Stat. 1129; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ Nothing in this chapter may be construed to prevent or limit the authority of an
 Subsec. (b). Pub. L. 96–153 substituted provisions relating to filing requirements for State disclosure materials and related documentation for purposes of Federal statement of record and property report requirements, for provisions relating to the jurisdiction of the particular State real estate commission or similar body.
 
 Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

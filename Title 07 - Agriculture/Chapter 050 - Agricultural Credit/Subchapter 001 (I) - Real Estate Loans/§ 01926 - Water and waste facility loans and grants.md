@@ -110,7 +110,7 @@ Application requirements.—Not earlier than 60 days before a preliminary applic
 
 (9)
 
-Conformity with state drinking water standards.—No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the "Safe Drinking Water Act") (42 U.S.C. 300f et seq.).
+Conformity with state drinking water standards.—No Federal funds shall be made available under this section for a water systemunless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the "Safe Drinking Water Act") (42 U.S.C. 300f et seq.).
 
 (10)
 
@@ -152,7 +152,7 @@ Selection priority.—In selecting recipients of grants to be made under subpara
 
 &emsp;(C)
 
-Funding.—Not less than 3 percent and not more than 5 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved forgrants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 3 percent of those funds.
+Funding.—Not less than 3 percent and not more than 5 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 3 percent of those funds.
 
 (15) In the case of water and waste disposal facility projects serving more than one separate rural community, the Secretary shall use the median population level and the community income level of all the separate communities to be served in applying the standards specified in paragraph (2) of this subsection and section 1927(a)(3)(A) of this title.
 
@@ -234,7 +234,7 @@ Grant authority.—The Secretary may make grants to associations, units of gener
 
 &emsp;&emsp;(ii) that is located in a rural area (as defined in section 2009 <sup>2</sup> of this title);
 
-&emsp;&emsp;(iii) with respect to which, during the most recent 5-year period, the net out-migration of inhabitants, or other population loss,from the area equals or exceeds 5 percent of the population of the area; and
+&emsp;&emsp;(iii) with respect to which, during the most recent 5-year period, the net out-migration of inhabitants, or other population loss, from the area equals or exceeds 5 percent of the population of the area; and
 
 &emsp;&emsp;(iv) that has a median household income that is less than the nonmetropolitan median household income of the United States.
 
@@ -348,7 +348,7 @@ Funding.—Not less than 3 nor more than 5 percent of any funds appropriated to 
 
 #### (b) Curtailment or limitation of service prohibited
 
-The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such association to secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
+The service provided or made available through any such association shall not be curtailed or limited by inclusion of the area served by such association within the boundaries of any municipal corporation or other public body, or by the granting of any private franchise for similar service within such area during the term of such loan; nor shall the happening of any such event be the basis of requiring such associationto secure any franchise, license, or permit as a condition to continuing to serve the area served by the association at the time of the occurrence of such event.
 
 #### (c) Repealed. Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759
 
@@ -357,6 +357,8 @@ The service provided or made available through any such association shall not be
 Any amounts appropriated under this section shall remain available until expended, and any amounts authorized for any fiscal year under this section but not appropriated may be appropriated for any succeeding fiscal year.
 
 (Pub. L. 87–128, title III, §306, Aug. 8, 1961, 75 Stat. 308; Pub. L. 87–703, title IV, §401(2), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §1, Oct. 7, 1965, 79 Stat. 931; Pub. L. 89–769, §6(b), Nov. 6, 1966, 80 Stat. 1318; Pub. L. 90–488, §§3–5, Aug. 15, 1968, 82 Stat. 770; Pub. L. 91–524, title VIII, §806(a), Nov. 30, 1970, 84 Stat. 1383; Pub. L. 91–606, title III, §302(2), Dec. 31, 1970, 84 Stat. 1759; Pub. L. 91–617, §1(a), Dec. 31, 1970, 84 Stat. 1855; Pub. L. 92–419, title I, §§104–112, Aug. 30, 1972, 86 Stat. 658, 659; Pub. L. 91–524, title VIII, §816(c), as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 240; Pub. L. 95–334, title I, §§104–107(a), Aug. 4, 1978, 92 Stat. 421, 422; Pub. L. 96–355, §7, Sept. 24, 1980, 94 Stat. 1174; Pub. L. 96–438, §2(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–35, title I, §121, Aug. 13, 1981, 95 Stat. 368; Pub. L. 99–198, title XIII, §1304(a), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–624, title XXIII, §§2316(b), 2321, 2328, 2329, 2341, 2342, 2393, Nov. 28, 1990, 104 Stat. 4008, 4010, 4017, 4026, 4027, 4057; Pub. L. 102–237, title VII, §701(a), (h)(1)(A), (B), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 103–129, §3, Nov. 1, 1993, 107 Stat. 1366; Pub. L. 103–354, title II, §235(b)(5), Oct. 13, 1994, 108 Stat. 3222; Pub. L. 104–127, title VII, §§741(a), 758, 763, Apr. 4, 1996, 110 Stat. 1122, 1132, 1148; Pub. L. 106–387, §1(a) \[title VII, §773\], Oct. 28, 2000, 114 Stat. 1549, 1549A–45; Pub. L. 106–472, title III, §§304(a), 305(a), Nov. 9, 2000, 114 Stat. 2070, 2071; Pub. L. 107–76, title VII, §762, Nov. 28, 2001, 115 Stat. 743; Pub. L. 107–171, title VI, §§6001–6007(a), 6008, 6020(b)(1), May 13, 2002, 116 Stat. 352–355, 363; Pub. L. 110–234, title VI, §§6001, 6002(a), 6003–6007, title VII, §7511(c)(3), May 22, 2008, 122 Stat. 1161, 1162, 1267; Pub. L. 110–246, §4(a), title VI, §§6001, 6002(a), 6003–6007, title VII, §7511(c)(3), June 18, 2008, 122 Stat. 1664, 1923, 1924, 2029; Pub. L. 113–79, title VI, §§6001–6006, 6012(b), Feb. 7, 2014, 128 Stat. 841, 842, 845; Pub. L. 115–334, title VI, §§6402(b)–6406, 6601(a)(1)(A), 6701(a)(1), Dec. 20, 2018, 132 Stat. 4757–4759, 4775, 4778.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -464,13 +466,13 @@ Subsec. (a)(9), (10). Pub. L. 104–127, §741(a)(3), added pars. (9) and (10) a
 
 "(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established."
 
-Subsec. (a)(11). Pub. L. 104–127, §741(a)(3), added par. (11) and struck out former par. (11) which authorizedgrants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
+Subsec. (a)(11). Pub. L. 104–127, §741(a)(3), added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
 
 Subsec. (a)(14). Pub. L. 104–127, §741(a)(6)(A)–(D)(i), inserted par. heading and headings for subpars. (A) to (C), and realigned margins of subpars. and cls. (i) to (iii) of subpar. (A).
 
 Pub. L. 104–127, §741(a)(4), (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
 
-"(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
+"(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grantsto eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
 
 "(B) For the purposes of this subsection, the term 'eligible volunteer fire department' means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary."
 
@@ -558,6 +560,8 @@ Subsec. (d). Pub. L. 91–524 added subsec. (d).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–703 authorized loans to be made or insured to provide for the application or establishment of shifts in land use including the development of recreational facilities.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–334, title VI, §6701(a)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in section 773 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (H.R. 5426 of the 106th Congress, as enacted by Public Law 106–387 (114 Stat. 1549A–45)) in lieu of the amendment made by such section \[see 2000 Amendment note above\]."
@@ -596,7 +600,7 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Assistance in Rural Alaska
 
-Pub. L. 106–387, §1(a) \[title VII, §736\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: "Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
+Pub. L. 106–387, §1(a) \[title VII, §736\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: "Notwithstandingany other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
 
 &emsp;"(1) in the case of assistance provided by the Rural Housing Service for single family housing under title V of the Housing Act of 1949 (7 \[42\] U.S.C. 1471 et seq.), the maximum income level for the assistance shall be 150 percent of the average income level in metropolitan areas of the State;
 

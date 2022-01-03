@@ -62,7 +62,7 @@ This section shall not be construed to require any State to participate in the p
 
 &emsp;&emsp;(B) how the participation of chiropractic doctors and pharmacists in the Loan Repayment Program might affect the designation of health professional shortage areas; and
 
-&emsp;&emsp;(C) whether adding chiropractic doctors and pharmacists as permanent members of the National Health Service Corps would be feasible and would enhance the effectiveness of the National Health Service Corps.
+&emsp;&emsp;(C) whether adding chiropractic doctors and pharmacists as permanent members of the National Health Service Corps would befeasible and would enhance the effectiveness of the National Health Service Corps.
 
 #### (g) Authorization of appropriations
 
@@ -76,7 +76,9 @@ This section shall not be construed to require any State to participate in the p
 
 (July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 107–251, title III, §317, Oct. 26, 2002, 116 Stat. 1653.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 254t, act July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 101–527, §8, Nov. 6, 1990, 104 Stat. 2328, related to demonstration grants to States forcommunity scholarship programs, prior to repeal by Pub. L. 107–251, title III, §316, Oct. 26, 2002, 116 Stat. 1653.
+A prior section 254t, act July 1, 1944, ch. 373, title III, §338L, as added Pub. L. 101–527, §8, Nov. 6, 1990, 104 Stat. 2328, related to demonstration grants to States for community scholarship programs, prior to repeal by Pub. L. 107–251, title III, §316, Oct. 26, 2002, 116 Stat. 1653.
 

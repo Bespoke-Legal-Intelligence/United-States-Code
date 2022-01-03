@@ -8,7 +8,7 @@ The Secretary shall designate the anadromous fish habitats and resources of the 
 
 #### (1) Establishment
 
-&emsp;The Secretary shall, in consultation with the task force established under section460ss–3 of this title, formulate, establish, and implement a 20-year program to restore the anadromous fish populations of the Area to optimum levels and to maintain such levels. The program shall be based on the Klamath River Basin Fisheries Resource Plan referred to in section 460ss(6) of this title and shall be known as the Klamath River Basin Conservation Area Restoration Program.
+&emsp;The Secretary shall, in consultation with the task force established under section 460ss–3 of this title, formulate, establish, and implement a 20-year program to restore theanadromous fish populations of the Area to optimum levels and to maintain such levels. The program shall be based on the Klamath River Basin Fisheries Resource Plan referred to in section 460ss(6) of this title and shall be known as the Klamath River Basin Conservation Area Restoration Program.
 
 #### (2) Program activities
 

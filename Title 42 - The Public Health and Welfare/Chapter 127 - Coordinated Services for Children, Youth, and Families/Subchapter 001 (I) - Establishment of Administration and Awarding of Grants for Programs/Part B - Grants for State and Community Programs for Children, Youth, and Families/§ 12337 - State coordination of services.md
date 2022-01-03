@@ -78,9 +78,13 @@ If a State intends to apply for a grant under section 12339 <sup>2</sup> of thi
 
 (Pub. L. 101–501, title IX, §931, Nov. 3, 1990, 104 Stat. 1271.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12339 of this title, referred to in subsec. (f), was repealed by Pub. L. 103–252, title IV, §401(b)(1), May 18, 1994, 108 Stat. 672.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

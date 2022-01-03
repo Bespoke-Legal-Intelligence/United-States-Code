@@ -48,6 +48,8 @@ For purposes of subsection (a)—
 
 (Added Pub. L. 94–455, title XX, §2009(b)(1), Oct. 4, 1976, 90 Stat. 1893; amended Pub. L. 95–600, title VII, §702(m)(1), Nov. 6, 1978, 92 Stat. 2935; Pub. L. 97–34, title IV, §426(a), Aug. 13, 1981, 95 Stat. 318; Pub. L. 97–448, title I, §104(e), Jan. 12, 1983, 96 Stat. 2384.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (c)(3). Pub. L. 97–448 substituted "A written transfer" for "For purposes of subsection (a), a written transfer".
@@ -55,6 +57,8 @@ For purposes of subsection (a)—
 <b>1981</b>—Subsec. (c)(3). Pub. L. 97–34 added par. (3).
 
 <b>1978</b>—Subsec. (b)(4). Pub. L. 95–600 inserted provision relating to spouse of decedent.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1983 Amendment
 

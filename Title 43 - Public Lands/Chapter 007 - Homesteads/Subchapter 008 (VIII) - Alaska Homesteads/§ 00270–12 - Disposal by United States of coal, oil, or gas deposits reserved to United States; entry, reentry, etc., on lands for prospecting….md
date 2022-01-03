@@ -24,7 +24,7 @@ Section was formerly classified to section 377 of Title 48, Territories and Insu
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–579, title VII, §703(c), Oct. 21, 1976, 90 Stat. 2791, provided that the amendment made by section 703(c) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
+Pub. L. 94–579, title VII, §703(c), Oct. 21, 1976, 90 Stat. 2791, provided that the amendment made by section703(c) is effective on and after tenth anniversary of date of approval of this Act, Oct. 21, 1976.
 
 #### Savings Provision
 

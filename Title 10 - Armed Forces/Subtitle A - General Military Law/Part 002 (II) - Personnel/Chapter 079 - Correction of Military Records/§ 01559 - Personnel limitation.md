@@ -24,6 +24,8 @@ Service Review Agency Defined.—In this section, the term "service review agenc
 
 (Added Pub. L. 107–314, div. A, title V, §552(a), Dec. 2, 2002, 116 Stat. 2552; amended Pub. L. 108–375, div. A, title V, §581, Oct. 28, 2004, 118 Stat. 1928; Pub. L. 110–417, \[div. A\], title V, §593, Oct. 14, 2008, 122 Stat. 4475; Pub. L. 111–383, div. A, title V, §533(b), Jan. 7, 2011, 124 Stat. 4216; Pub. L. 112–239, div. A, title V, §520, title X, §1076(b)(2), Jan. 2, 2013, 126 Stat. 1722, 1949; Pub. L. 114–328, div. A, title V, §592, Dec. 23, 2016, 130 Stat. 2152; Pub. L. 116–92, div. A, title V, §524(a), Dec. 20, 2019, 133 Stat. 1355.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–92 substituted "December 31, 2025" for "December 31, 2019" and "that agency." for "that agency until—" and struck out pars. (1) and (2) which read as follows:
@@ -49,6 +51,8 @@ Pub. L. 112–239, §520, substituted "December 31, 2016" for "December 31, 2013
 <b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted "December 31, 2010" for "October 1, 2008" in introductory provisions.
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted "Before October 1, 2008," for "During fiscal years 2003, 2004, and 2005," in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

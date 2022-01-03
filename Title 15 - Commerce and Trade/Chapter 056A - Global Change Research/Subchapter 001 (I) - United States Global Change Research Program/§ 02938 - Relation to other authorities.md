@@ -2,11 +2,11 @@
 
 #### (a) National Climate Program research activities
 
-The President, the Chairman of the Council, and the Secretary of Commerce shall ensure that relevant research activities of the National Climate Program, established by the National Climate Program Act (15 U.S.C. 2901 et seq.), are considered in developing national global change research efforts.
+The President, the Chairman of the Council, and the Secretary of Commerce shall ensure that relevant research activities of the National Climate Program, established by the National Climate Program Act (15 U.S.C. 2901 et seq.), areconsidered in developing national global change research efforts.
 
 #### (b) Availability of research findings
 
-The President, the Chairman of the Council, and the heads of the agencies and departments represented on the Committee, shall ensure that the research findings of the Committee, and ofFederal agencies and departments, are available to—
+The President, the Chairman of the Council, and the heads of the agencies and departments represented on the Committee, shall ensure that the research findings of the Committee, and of Federal agencies and departments, are available to—
 
 &emsp;(1) the Environmental Protection Agency for use in the formulation of a coordinated national policy on global climate change pursuant to section 1103 of the Global Climate Protection Act of 1987 (15 U.S.C. 2901 note); and
 
@@ -17,6 +17,8 @@ The President, the Chairman of the Council, and the heads of the agencies and de
 Nothing in this subchapter shall be construed, interpreted, or applied to preclude or delay the planning or implementation of any Federal action designed, in whole or in part, to address the threats of stratospheric ozone depletion or global climate change.
 
 (Pub. L. 101–606, title I, §108, Nov. 16, 1990, 104 Stat. 3101.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -26,11 +26,11 @@ The Director of the National Institute of Standards and Technology (referred to 
 
 &emsp;(9) advising the Director of the Office of Management and Budget, as needed, in developing metrics to measure the effectiveness and effect of programs and initiatives to advance the cybersecurity workforce; and
 
-&emsp;(10) promoting initiatives to evaluate and forecast future cybersecurity workforce needsof the Federal Government and develop strategies for recruitment, training, and retention.
+&emsp;(10) promoting initiatives to evaluate and forecast future cybersecurity workforce needs of the Federal Government and develop strategies for recruitment, training, and retention.
 
 #### (b) Considerations
 
-In carrying out the authority described in subsection (a), the Director, in consultation with appropriate Federal agencies, shall leverage existing programs designed to inform the public of safety and security of products or services, including self-certifications and independently verified assessments regarding the quantification and valuation of information security risk.
+In carrying out the authority described in subsection (a), the Director, in consultation withappropriate Federal agencies, shall leverage existing programs designed to inform the public of safety and security of products or services, including self-certifications and independently verified assessments regarding the quantification and valuation of information security risk.
 
 #### (c) Strategic plan
 
@@ -130,6 +130,8 @@ In carrying out subsection (a), the Director of the Office of Management and Bud
 
 (Pub. L. 113–274, title III, §303, formerly title IV, §401, Dec. 18, 2014, 128 Stat. 2985; renumbered title III, §303, and amended Pub. L. 116–283, div. H, title XCIV, §9401(a), (b), (e)–(g)(1), Jan. 1, 2021, 134 Stat. 4805–4807, 4809.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 7451 of this title prior to renumbering by Pub. L. 116–283.
@@ -143,6 +145,8 @@ Subsec. (c). Pub. L. 116–283, §9401(b), designated existing provisions as par
 Subsec. (e). Pub. L. 116–283, §9401(e), added subsec. (e).
 
 Subsec. (f). Pub. L. 116–283, §9401(f), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Cybersecurity Career Pathways
 

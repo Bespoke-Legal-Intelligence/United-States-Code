@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department of Agriculture the position of Under Secretary of Agriculture for Food Safety. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals with specialized training or significant experience in food safety or public health programs.
+There is established in the Department of Agriculture the position of Under Secretary of Agriculture for Food Safety. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate, from among individuals with specialized training orsignificant experience in food safety or public health programs.
 
 #### (b) Functions of Under Secretary
 
@@ -25,6 +25,8 @@ The Secretary, acting through the Under Secretary for Research, Education, and E
 &emsp;(2) appoint and pay the members of the groups, except that officers and employees of the United States shall not receive additional compensation for service as a member of a group.
 
 (Pub. L. 103–354, title II, §261, Oct. 13, 1994, 108 Stat. 3227.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

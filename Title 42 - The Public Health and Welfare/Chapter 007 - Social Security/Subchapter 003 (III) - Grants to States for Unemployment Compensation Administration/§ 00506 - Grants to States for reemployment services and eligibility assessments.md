@@ -28,7 +28,7 @@ The purposes of this section are to accomplish the following goals:
 
 &emsp;&emsp;(A) for fiscal years 2023 and 2024, use no less than 25 percent of the grant funds awarded to the State under this section for interventions with a high or moderate causal evidence rating that show a demonstrated capacity to improve employment and earnings outcomes for program participants;
 
-&emsp;&emsp;(B) for fiscal years 2025 and 2026, use no less than 40 percent of such grant funds forinterventions described in subparagraph (A); and
+&emsp;&emsp;(B) for fiscal years 2025 and 2026, use no less than 40 percent of such grant funds for interventions described in subparagraph (A); and
 
 &emsp;&emsp;(C) for fiscal years beginning after fiscal year 2026, use no less than 50 percent of such grant funds for interventions described in subparagraph (A).
 
@@ -159,6 +159,8 @@ In this section:
 &emsp;The term unemployment compensation means "regular compensation", "extended compensation", and "additional compensation" (as such terms are defined by section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note)).
 
 (Aug. 14, 1935, ch. 531, title III, §306, as added Pub. L. 115–123, div. C, title II, §30206(a), Feb. 9, 2018, 132 Stat. 127.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

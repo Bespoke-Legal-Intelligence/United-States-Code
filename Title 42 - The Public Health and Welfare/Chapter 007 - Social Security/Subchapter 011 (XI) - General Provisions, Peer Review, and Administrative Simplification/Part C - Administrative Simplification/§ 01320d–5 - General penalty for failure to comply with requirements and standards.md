@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) in the case of a violation of such provision in which it is established that the violation was due to willful neglect—
 
-&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penalty in an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
+&emsp;&emsp;&emsp;(i) if the violation is corrected as described in subsection (b)(3)(A),<sup>1</sup> a penaltyin an amount that is at least the amount described in paragraph (3)(C) but not to exceed the amount described in paragraph (3)(D); and
 
 &emsp;&emsp;&emsp;(ii) if the violation is not corrected as described in such subsection, a penalty in an amount that is at least the amount described in paragraph (3)(D).
 
@@ -140,6 +140,8 @@ Nothing in this section shall be construed as preventing the Office for Civil Ri
 
 (Aug. 14, 1935, ch. 531, title XI, §1176, as added Pub. L. 104–191, title II, §262(a), Aug. 21, 1996, 110 Stat. 2028; amended Pub. L. 111–5, div. A, title XIII, §13410(a)(1), (d)(1)–(3), (e)(1), (2), (f), Feb. 17, 2009, 123 Stat. 271–276.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–5, §13410(d)(1), substituted "who violates a provision of this part—" for "who violates a provision of this part a penalty of not more than $100 for each such violation, except that the total amount imposed on the person for all violations of an identical requirement or prohibition during a calendar year may not exceed $25,000.", added subpars. (A) to (C), and inserted concluding provisions.
@@ -177,6 +179,8 @@ Subsec. (c). Pub. L. 111–5, §13410(a)(1)(B), added subsec. (c).
 Subsec. (d). Pub. L. 111–5, §13410(e)(1), added subsec. (d).
 
 Subsec. (e). Pub. L. 111–5, §13410(f), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -124,7 +124,7 @@ Notwithstanding any other provision of this section, the Attorney General may us
 
 Section 103(b) of the Brady Handgun Violence Prevention Act, referred to in subsecs. (b)(8) and (c)(1), is section 103(b) of Pub. L. 103–159, which was set out as a note under section 922 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification as section 40901(b) of this title.
 
-The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part Q of title I of the Act is classified generally to subchapter XVI (§10381 et seq.) of chapter 101 of this title. For complete classificationof this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(2)(G), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part Q of title I of the Act is classified generally to subchapter XVI (§10381 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under section 10101 of this title and Tables.
 
 #### Codification
 

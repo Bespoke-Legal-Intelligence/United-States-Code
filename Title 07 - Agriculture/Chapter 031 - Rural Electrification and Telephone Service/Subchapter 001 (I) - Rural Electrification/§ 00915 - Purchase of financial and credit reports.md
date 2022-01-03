@@ -4,9 +4,11 @@ The Secretary of Agriculture is authorized to purchase such financial and credit
 
 (Sept. 21, 1944, ch. 412, title V, §505, 58 Stat. 740; Pub. L. 103–354, title II, §235(b)(2), Oct. 13, 1994, 108 Stat. 3221.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of the Rural Electrification Act of 1936 which constitutes this chapter.
+Section was enacted as part of the Department of Agriculture Organic Act of 1944, and not as part of theRural Electrification Act of 1936 which constitutes this chapter.
 
 #### Amendments
 

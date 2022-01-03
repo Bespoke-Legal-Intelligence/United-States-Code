@@ -24,7 +24,7 @@ The Secretary, acting through the Director of NIH, shall establish guidelines fo
 
 (3) Each animal care committee of a research entity shall—
 
-&emsp;(A) review the care and treatment of animals in all animal study areas and facilities of the research entity at least semi-annually to evaluate compliance with applicable guidelines established under subsection (a) for appropriate animal care and treatment;
+&emsp;(A) review the care and treatment of animals in all animal study areas and facilities ofthe research entity at least semi-annually to evaluate compliance with applicable guidelines established under subsection (a) for appropriate animal care and treatment;
 
 &emsp;(B) keep appropriate records of reviews conducted under subparagraph (A); and
 
@@ -63,6 +63,8 @@ If the Director of NIH determines that—
 No guideline or regulation promulgated under subsection (a) or (c) may require a research entity to disclose publicly trade secrets or commercial or financial information which is privileged or confidential.
 
 (July 1, 1944, ch. 373, title IV, §495, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 875.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Prohibition on Funding of Projects Involving Use of Chimpanzees Obtained From the Wild
 

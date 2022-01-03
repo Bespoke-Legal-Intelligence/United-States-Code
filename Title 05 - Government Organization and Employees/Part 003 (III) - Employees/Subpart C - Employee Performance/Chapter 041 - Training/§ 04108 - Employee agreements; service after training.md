@@ -6,7 +6,7 @@
 
 &emsp;(2) pay to the Government the amount of the additional expenses incurred by the Government in connection with his training if he is voluntarily separated from the service of his agency before the end of the period for which he has agreed to continue in the service of his agency.
 
-(b) The payment agreed to under subsection (a)(2) of this section may not be required of an employee who leaves the service of his agency toenter into the service of another agency in any branch of the Government unless the head of the agency that authorized the training notifies the employee before the effective date of his entrance into the service of the other agency that payment will be required under this section.
+(b) The payment agreed to under subsection (a)(2) of this section may not be required of an employee who leaves the service of his agency to enter into the service of another agency in any branch of the Government unless the head of the agency that authorized the training notifies the employee before the effective date of his entrance into the service of the other agency that payment will be required under this section.
 
 (c) If an employee, except an employee relieved of liability under subsection (b) of this section or section 4102(b) of this title, fails to fulfill his agreement to pay to the Government the additional expenses incurred by the Government in connection with his training, a sum equal to the amount of the additional expenses of training is recoverable by the Government from the employee or his estate by—
 
@@ -60,5 +60,5 @@ Exception from provisions of this section of those elements of the Department of
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18,1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 

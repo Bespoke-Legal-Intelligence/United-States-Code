@@ -22,9 +22,13 @@ The purposes of this chapter are—
 
 (Pub. L. 108–148, §2, Dec. 3, 2003, 117 Stat. 1888.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -36,7 +40,7 @@ Pub. L. 115–141, div. O, title II, §210, Mar. 23, 2018, 132 Stat. 1067, provi
 
 "(a)
 
-Map Required.—Not later than 2 years after the date of the enactment of this section \[Mar. 23, 2018\], the Secretary of Agriculture, acting through the Chief of the Forest Service, shall—
+Map Required.—Not later than 2 years after the date of the enactment of this section \[Mar. 23, 2018\], theSecretary of Agriculture, acting through the Chief of the Forest Service, shall—
 
 &emsp;"(1) develop and publish a geospatial map appropriate for community-level use that depicts wildfire hazard severity to inform at-risk communities that are—
 

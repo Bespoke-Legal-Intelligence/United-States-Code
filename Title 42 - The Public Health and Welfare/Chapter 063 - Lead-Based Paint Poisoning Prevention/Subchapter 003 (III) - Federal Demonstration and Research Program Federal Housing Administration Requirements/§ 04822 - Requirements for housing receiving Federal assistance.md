@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(E) abatement of lead-based paint hazards in the course of substantial rehabilitation projects receiving more than $25,000 per unit in Federal funds;
 
-&emsp;&emsp;(F) where risk assessment, inspection, or reduction activities have been undertaken, the provision of notice to occupants describing the nature and scope of such activities and the actual risk assessment or inspectionreports (including available information on the location of any remaining lead-based paint on a surface-by-surface basis); and
+&emsp;&emsp;(F) where risk assessment, inspection, or reduction activities have been undertaken, the provision of notice to occupants describing the nature and scope of such activities and the actual risk assessment or inspection reports (including available information on the location of any remaining lead-based paint on a surface-by-surface basis); and
 
 &emsp;&emsp;(G) such other measures as the Secretary deems appropriate.
 
@@ -42,7 +42,7 @@
 
 #### (C) Budget authority
 
-&emsp;&emsp;To the extent that subparagraphs (A) and (B) increase the cost to the Government of outstanding direct loan obligations or loan guarantee commitments, such activities shall be treated as modifications under section 661c(e) of title 2 and shall be subject to the availability of appropriations. To the extent that paragraphs (A) and (B) impose additional costs to the Resolution Trust Corporation and the Federal Deposit Insurance Corporation, its requirements shall be carried out only if appropriations are provided in advance in an appropriations Act. In the absence of appropriations sufficient to cover the costs of subparagraphs (A) and (B), these requirements shall not apply to the affected agency or agencies.
+&emsp;&emsp;To the extent that subparagraphs (A) and (B) increase the cost to the Government ofoutstanding direct loan obligations or loan guarantee commitments, such activities shall be treated as modifications under section 661c(e) of title 2 and shall be subject to the availability of appropriations. To the extent that paragraphs (A) and (B) impose additional costs to the Resolution Trust Corporation and the Federal Deposit Insurance Corporation, its requirements shall be carried out only if appropriations are provided in advance in an appropriations Act. In the absence of appropriations sufficient to cover the costs of subparagraphs (A) and (B), these requirements shall not apply to the affected agency or agencies.
 
 #### (D) Definitions
 
@@ -80,7 +80,7 @@ The Secretary shall require the inspection of all intact and nonintact interior 
 
 #### (B) Report
 
-&emsp;&emsp;Not later than 18 months after the effective date of the regulations issued to carry out this subsection, the Secretary shall transmit to the Congress the findings and recommendations of the Secretary as a result of the demonstration program, including any recommendations of the Secretary for legislation to revise the requirements of this subsection. Based on the demonstration, the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B). In preparing such report, the Secretary shall examine—
+&emsp;&emsp;Not later than 18 months after the effective date of the regulations issued to carry out this subsection, the Secretary shall transmit to the Congress the findings and recommendations of the Secretary as a result of the demonstration program, including any recommendations of the Secretary for legislation to revise the requirements of this subsection. Based on the demonstration,the Secretary shall prepare and include in the report a comprehensive and workable plan for the cost-effective inspection and abatement of public housing in accordance with paragraph (3), including an estimate of the total cost of abatement in accordance with paragraph (3)(B). In preparing such report, the Secretary shall examine—
 
 &emsp;&emsp;&emsp;(i) the most reliable technology available for detecting lead-based paint, including X-ray fluorescence and atomic absorption spectroscopy;
 
@@ -131,6 +131,8 @@ The Secretary shall carry out the provisions of this section utilizing available
 This section may not be construed to affect the responsibilities of the Environmental Protection Agency with respect to the protection of the public health from hazards posed by lead-based paint.
 
 (Pub. L. 91–695, title III, §302, as added Pub. L. 93–151, §4(a)(1), Nov. 9, 1973, 87 Stat. 566; amended Pub. L. 100–242, title V, §566(a), Feb. 5, 1988, 101 Stat. 1945; Pub. L. 100–628, title X, §1088(a)–(f), (h), Nov. 7, 1988, 102 Stat. 3280–3282; Pub. L. 102–550, title X, §§1012(a)–(d), 1013, Oct. 28, 1992, 106 Stat. 3904, 3905, 3907; Pub. L. 105–276, title V, §522(b)(4), Oct. 21, 1998, 112 Stat. 2564; Pub. L. 115–31, div. K, title II, §237(a), May 5, 2017, 131 Stat. 788.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -198,6 +200,8 @@ Subsec. (f). Pub. L. 100–628, §1088(e), inserted at end "The Secretary shall 
 
 Subsec. (g). Pub. L. 100–628, §1088(h), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of this title.
@@ -216,7 +220,7 @@ Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 765, 766, which provided 
 
 #### Lead-Based Paint Technical Guidelines; Draft Guidelines
 
-Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that if the Secretary of the Department of Housing and Urban Development had not issued the lead-based paint technical guidelines on reliable testing protocols by April 1, 1990, the Department's Sept. 29, 1989, draft guidelines would take effect until revised by the Secretary.
+Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that if the Secretary of the Department of Housing and Urban Development had not issued the lead-based paint technical guidelines on reliable testing protocols by Apr. 1, 1990, the Department's Sept. 29, 1989, draft guidelines would take effect until revised by the Secretary.
 
 #### Prerequisites to Implementation of Regulations Regarding Testing and Abatement of Lead-Based Paint in Public Housing
 

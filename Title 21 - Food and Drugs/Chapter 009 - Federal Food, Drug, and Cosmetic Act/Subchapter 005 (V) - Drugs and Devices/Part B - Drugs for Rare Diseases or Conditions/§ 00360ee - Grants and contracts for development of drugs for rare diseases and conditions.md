@@ -24,7 +24,7 @@ For purposes of subsection (a):
 
 &emsp;&emsp;&emsp;(ii) understand the full spectrum of the disease manifestations, including describing genotypic and phenotypic variability and identifying and defining distinct subpopulations affected by a rare disease or condition.
 
-&emsp;(2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
+&emsp;(2) The term "rare disease or condition" means (1) in the case of a drug, any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug, (2) in the case of a medical device, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical device for such disease or condition will be developed without assistance under subsection (a), and (3) in the case of a medical food, any disease or condition that occurs so infrequently in the United States that there is no reasonable expectation that a medical food for such disease or condition will be developed without assistance under subsection (a). Determinations under the preceding sentence with respect to any drug shall be made on thebasis of the facts and circumstances as of the date the request for designation of the drug under section 360bb of this title is made.
 
 &emsp;(3) The term "medical food" means a food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.
 
@@ -79,6 +79,68 @@ Subsec. (c). Pub. L. 99–91, §5(b), substituted provisions authorizing appropr
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–91 effective Oct. 1, 1985, see section 8(a) of Pub. L. 99–91, set out as a note under section 360aa of this title.
+
+#### Grants for Research on Therapies for ALS
+
+Pub. L. 117–79, §2, Dec. 23, 2021, 135 Stat. 1533, provided that:
+
+"(a)
+
+In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall award grants to participating entities for purposes of scientific research utilizing data from expanded access to investigational drugs for individuals who are not otherwise eligible for clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis. In the case of a participating entity seeking such a grant, an expanded access request must be submitted, and allowed to proceed by the Secretary, under section 561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb) and part 312 of title 21, Code of Federal Regulations (or any successor regulations), before the application for such grant is submitted.
+
+"(b)
+
+Application.—
+
+&emsp;"(1)
+
+In general.—A participating entity seeking a grant under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall specify.
+
+&emsp;"(2)
+
+Use of data.—An application submitted under paragraph (1) shall include a description of how data generated through an expanded access request under section 561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb) with respect to the investigational drug involved will be used to support research or development related to the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis.
+
+&emsp;"(3)
+
+Noninterference with clinical trials.—An application submitted under paragraph (1) shall include a description of how the proposed expanded access program will be designed so as not to interfere with patient enrollment in ongoing clinical trials for investigational therapies for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis.
+
+"(c)
+
+Selection.—Consistent with sections 406 and 492 of the Public Health Service Act (42 U.S.C. 284a, 289a), the Secretary shall, in determining whether to award a grant under this section, confirm that—
+
+&emsp;"(1) such grant will be used to support a scientific research objective relating to the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis (as described in subsection (a));
+
+&emsp;"(2) such grant shall not have the effect of diminishing eligibility for, or impeding enrollment of, ongoing clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis by determining that individuals who receive expanded access to investigational drugs through such a grant are not eligible for enrollment in—
+
+&emsp;&emsp;"(A) ongoing clinical trials that are registered on ClinicalTrials.gov (or successor website), with respect to a drug for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis; or
+
+&emsp;&emsp;"(B) clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis for which an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) has been granted by the Food and Drug Administration and which are expected to begin enrollment within one year; and
+
+&emsp;"(3) the resulting project funded by such grant will allow for equitable access to investigational drugs by minority and underserved populations.
+
+"(d)
+
+Use of Funds.—A participating entity shall use funds received through the grant—
+
+&emsp;"(1) to pay the manufacturer or sponsor for the direct costs of the investigational drug, as authorized under section 312.8(d) of title 21, Code of Federal Regulations (or successor regulations), to prevent, diagnose, mitigate, treat, or cure amyotrophic lateral sclerosis that is the subject of an expanded access request described in subsection (a), if such costs are justified as part of peer review of the grant;
+
+&emsp;"(2) for the entity's direct costs incurred in providing such drug consistent with the research mission of the grant; or
+
+&emsp;"(3) for the direct and indirect costs of the entity in conducting research with respect to such drug.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'participating entity' means a participating clinical trial site or sites sponsored by a small business concern (as defined in section 3(a) of the Small Business Act (15 U.S.C. 632(a))) that is the sponsor of a drug that is the subject of an investigational new drug application under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) to prevent, diagnose, mitigate, treat, or cure amyotrophic lateral sclerosis.
+
+&emsp;"(2) The term 'participating clinical trial' means a phase 3 clinical trial conducted pursuant to an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) or section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) to investigate a drug intended to prevent, diagnose, mitigate, treat, or cure amyotrophic lateral sclerosis.
+
+&emsp;"(3) The term 'participating clinical trial site' means a health care facility, or network of facilities, at which patients participating in a participating clinical trial receive an investigational drug through such trial.
+
+"(f)
+
+Sunset.—The Secretary may not award grants under this section on or after September 30, 2026."
 
 #### Findings and Purposes
 

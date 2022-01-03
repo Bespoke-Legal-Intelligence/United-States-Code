@@ -10,7 +10,7 @@ The extension of Federal financial assistance to a local educational agency may 
 
 &emsp;(1) at least 30 days prior written notice of deferral to the agency, setting forth the particular program or programs which the Secretary finds to be operated in noncompliance with a specific provision of Federal law;
 
-&emsp;(2) the opportunity for a hearing on the record before a duly appointed administrative law judge within a 60-day period (unless such period is extended by mutual consent of the Secretary and such agency) from the commencement of any deferral;
+&emsp;(2) the opportunity for a hearing on the record before a duly appointed administrativelaw judge within a 60-day period (unless such period is extended by mutual consent of the Secretary and such agency) from the commencement of any deferral;
 
 &emsp;(3) the conclusion of such hearing and the rendering of a decision on the merits by the administrative law judge within a period not to exceed 90 days from the commencement of such hearing, unless the judge finds by a decision that such hearing cannot be concluded or such decision cannot be rendered within such period, in which case such judge may extend such period for not to exceed 60 additional days;
 
@@ -23,6 +23,8 @@ The extension of Federal financial assistance to a local educational agency may 
 It shall be unlawful for the Secretary to defer or limit any Federal financial assistance on the basis of any failure to comply with the imposition of quotas (or any other numerical requirements which have the effect of imposing quotas) on the student admission practices of an institution of higher education or community college receiving Federal financial assistance.
 
 (Pub. L. 90–247, title IV, §446, formerly §440, as added Pub. L. 93–380, title V, §515(a), Aug. 21, 1974, 88 Stat. 574; amended Pub. L. 94–482, title IV, §§407, 408, Oct. 12, 1976, 90 Stat. 2232, 2233; renumbered §446 and amended Pub. L. 103–382, title II, §212(b)(1), (3)(C), Oct. 20, 1994, 108 Stat. 3913.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ A prior section 446 of Pub. L. 90–247 was classified to section 1233e of this 
 <b>1994</b>—Subsec. (a). Pub. L. 103–382, §212(b)(3)(C), made technical amendment to reference to section 1232g(b)(1)(D) of this title to reflect renumbering of corresponding section of original act.
 
 <b>1976</b>—Pub. L. 94–482 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

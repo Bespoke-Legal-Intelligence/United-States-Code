@@ -82,9 +82,11 @@ An eligible entity may use a grant received under this part to carry out activit
 
 &emsp;&emsp;(C) fuel cells; and
 
-&emsp;&emsp;(D) biomass; and
+&emsp;&emsp;(D) biomass;
 
-&emsp;(14) any other appropriate activity, as determined by the Secretary, in consultation with—
+&emsp;(14) programs for financing energy efficiency, renewable energy, and zero-emissiontransportation (and associated infrastructure), capital investments, projects, and programs, which may include loan programs and performance contracting programs, for leveraging of additional public and private sector funds, and programs that allow rebates, grants, or other incentives for the purchase and installation of energy efficiency, renewable energy, and zero-emission transportation (and associated infrastructure) measures; and
+
+&emsp;(15) any other appropriate activity, as determined by the Secretary, in consultation with—
 
 &emsp;&emsp;(A) the Administrator of the Environmental Protection Agency;
 
@@ -92,9 +94,21 @@ An eligible entity may use a grant received under this part to carry out activit
 
 &emsp;&emsp;(C) the Secretary of Housing and Urban Development.
 
-(Pub. L. 110–140, title V, §544, Dec. 19, 2007, 121 Stat. 1669.)
+(Pub. L. 110–140, title V, §544, Dec. 19, 2007, 121 Stat. 1669; Pub. L. 117–58, div. D, title V, §40552(a), Nov. 15, 2021, 135 Stat. 1076.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pars. (14), (15). Pub. L. 117–58 added par. (14) and redesignated former par. (14) as (15).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 

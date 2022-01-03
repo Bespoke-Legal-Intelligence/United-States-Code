@@ -20,7 +20,7 @@ No vacancy in the Commission shall impair the right of the remaining Commissione
 
 #### (e) Offices
 
-The Commission shall maintain a principal office and such field offices as it deems necessary and may meet and exercise any of its powers at any other place.
+The Commission shall maintain a principal office and such field offices as it deems necessaryand may meet and exercise any of its powers at any other place.
 
 #### (f) Functions of Chairman; request for appropriations
 
@@ -70,6 +70,8 @@ At least 30 days before the beginning of each fiscal year, the Commission shall 
 
 (Pub. L. 92–573, §4, Oct. 27, 1972, 86 Stat. 1210; Pub. L. 94–284, §§4, 5(a), May 11, 1976, 90 Stat. 504; Pub. L. 95–631, §2, Nov. 10, 1978, 92 Stat. 3742; Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1366; Pub. L. 101–608, title I, §§102–105(a), Nov. 16, 1990, 104 Stat. 3110, 3111; Pub. L. 112–74, div. C, title V, §501, Dec. 23, 2011, 125 Stat. 907.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in subsec. (g)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of the Act probably means chapter 9 of title I of the Act which is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
@@ -84,7 +86,7 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission."
 
-Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the dateof the vacancy which caused the number of Commission members to decline to two".
+Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
 
 Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule."
 
@@ -101,6 +103,8 @@ Subsec. (i)(1)(A), (B). Pub. L. 95–631, §2(b), struck out "before January 1, 
 Subsec. (g). Pub. L. 94–284, §4(b), substituted "regular" for "full-time" before "officer or employee of the Commission" and added pars. (3) and (4).
 
 Subsec (i). Pub. L. 94–284, §5, added subsec. (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

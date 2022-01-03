@@ -12,7 +12,7 @@ Not later than 60 days after November 25, 2002, the President shall transmit to 
 
 The plan transmitted under subsection (a) shall contain, consistent with this chapter, such elements as the President deems appropriate, including the following:
 
-&emsp;(1) Identification of any functions of agencies transferred to the Department pursuantto this chapter that will not be transferred to the Department under the plan.
+&emsp;(1) Identification of any functions of agencies transferred to the Department pursuant to this chapter that will not be transferred to the Department under the plan.
 
 &emsp;(2) Specification of the steps to be taken by the Secretary to organize the Department, including the delegation or assignment of functions transferred to the Department among officers of the Department in order to permit the Department to carry out the functions transferred under the plan.
 
@@ -472,7 +472,7 @@ This Reorganization Plan Modification is submitted pursuant to the Homeland Secu
 
 #### Purpose of Modification
 
-This modification of the Plan is to establish and specify organizational units within the Border and Transportation Security Directorate. This modification presents a structural change, but does not consolidate, discontinue, or diminish transferred agencies' current operations in the field.
+This modification of the Plan is to establish and specify organizational units within the Border andTransportation Security Directorate. This modification presents a structural change, but does not consolidate, discontinue, or diminish transferred agencies' current operations in the field.
 
 #### Plan Modifications
 

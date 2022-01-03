@@ -26,6 +26,8 @@ Retired Grade and Retired Pay.—Each officer retired under this section—
 
 (Added Pub. L. 109–163, div. A, title V, §509(b)(1), Jan. 6, 2006, 119 Stat. 3229, §6970; renumbered §6970a, Pub. L. 110–181, div. A, title V, §508(a)(1)(A), Jan. 28, 2008, 122 Stat. 96; renumbered §8470a and amended Pub. L. 115–232, div. A, title VIII, §§807(c)(1), 809(a), Aug. 13, 2018, 132 Stat. 1836, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1370 of this title, referred to in subsec. (d)(1), was repealed and new sections 1370 and 1370a of this title were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3574, 3580. In determining the retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of this title in such determination with respect to such officers deemed to be a reference to section 1370a of this title, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of this title.
@@ -38,9 +40,11 @@ Subsec. (d)(2). Pub. L. 115–232, §809(a), substituted "section 8333" for "sec
 
 <b>2008</b>—Pub. L. 110–181 renumbered section 6970 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

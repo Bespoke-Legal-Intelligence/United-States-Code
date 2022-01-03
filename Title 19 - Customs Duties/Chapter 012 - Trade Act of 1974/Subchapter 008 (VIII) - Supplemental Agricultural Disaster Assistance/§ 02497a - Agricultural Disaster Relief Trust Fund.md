@@ -44,7 +44,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (C) Interest on certain proceeds
 
-&emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Agricultural Disaster Relief Trust Fund shall be credited to and form a part of such Trust Fund.
+&emsp;&emsp;The interest on, and the proceeds from the sale or redemption of, any obligations held in the Agricultural Disaster Relief TrustFund shall be credited to and form a part of such Trust Fund.
 
 #### (d) Expenditures from Trust Fund
 
@@ -54,7 +54,7 @@ Amounts in the Agricultural Disaster Relief Trust Fund shall be available for th
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated, and are appropriated, to the Agricultural DisasterRelief Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
+&emsp;There are authorized to be appropriated, and are appropriated, to the Agricultural Disaster Relief Trust Fund, as repayable advances, such sums as may be necessary to carry out the purposes of such Trust Fund.
 
 #### (2) Repayment of advances
 
@@ -72,6 +72,8 @@ Amounts in the Agricultural Disaster Relief Trust Fund shall be available for th
 
 (Pub. L. 93–618, title IX, §902, as added Pub. L. 110–234, title XV, §15101(a), May 22, 2008, 122 Stat. 1498, and Pub. L. 110–246, §4(a), title XV, §15101(a), June 18, 2008, 122 Stat. 1664, 2260.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -81,6 +83,8 @@ The date of the enactment of the Food, Conservation, and Energy Act of 2008, ref
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

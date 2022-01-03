@@ -20,6 +20,8 @@ June 7, 1956, ch. 374, §203, 70 Stat. 253.
 
 The word "organizations" is inserted for clarity. The words "consult" and "or plans" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1082, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to extension of time limit for making ballots available, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
@@ -27,6 +29,8 @@ A prior section 1082, act Aug. 10, 1956, ch. 1041, 70A Stat. 87, related to exte
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–614 substituted "Contracts for health care" for "Contracts for medical care for spouses and children" in section catchline and included reference to section 1086 in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1966 Amendment
 

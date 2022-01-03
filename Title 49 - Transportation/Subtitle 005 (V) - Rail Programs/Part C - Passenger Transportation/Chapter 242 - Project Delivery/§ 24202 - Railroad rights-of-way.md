@@ -10,9 +10,13 @@ Final Exemption.—Not later than 180 days after the date on which the Secretary
 
 (Added Pub. L. 114–94, div. A, title XI, §11504(a), Dec. 4, 2015, 129 Stat. 1692.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

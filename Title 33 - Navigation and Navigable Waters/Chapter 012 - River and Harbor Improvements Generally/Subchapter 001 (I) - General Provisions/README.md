@@ -87,6 +87,6 @@
 - [&sect; 00579c&#8211;2 - Repealed. Pub. L. 116&#8211;260, div. AA, title III, &sect;360(h), Dec. 27, 2020, 134 Stat. 2733](%C2%A7%2000579c%E2%80%932%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20AA%2C%20title%20III%2C%20%C2%A7360%28h%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202733.md)
 - [&sect; 00579d - Repealed. Pub. L. 116&#8211;260, div. AA, title III, &sect;360(e), Dec. 27, 2020, 134 Stat. 2733](%C2%A7%2000579d%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20AA%2C%20title%20III%2C%20%C2%A7360%28e%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202733.md)
 - [&sect; 00579d&#8211;1 - Repealed. Pub. L. 116&#8211;260, div. AA, title III, &sect;360(g), Dec. 27, 2020, 134 Stat. 2733](%C2%A7%2000579d%E2%80%931%20-%20Repealed.%20Pub.%20L.%20116%E2%80%93260%2C%20div.%20AA%2C%20title%20III%2C%20%C2%A7360%28g%29%2C%20Dec.%2027%2C%202020%2C%20134%20Stat.%202733.md)
-- [&sect; 00579d&#8211;2 - Deauthorization of inactive projects as of Public Law 116&#8211;260](%C2%A7%2000579d%E2%80%932%20-%20Deauthorization%20of%20inactive%20projects%20as%20of%20Public%20Law%20116%E2%80%93260.md)
+- [&sect; 00579d&#8211;2 - Deauthorization of inactive projects](%C2%A7%2000579d%E2%80%932%20-%20Deauthorization%20of%20inactive%20projects.md)
 - [&sect; 00579e - Access to real estate data](%C2%A7%2000579e%20-%20Access%20to%20real%20estate%20data.md)
 - [&sect; 00579f - Budgetary evaluation metrics and transparency; public participation](%C2%A7%2000579f%20-%20Budgetary%20evaluation%20metrics%20and%20transparency%3B%20public%20participation.md)

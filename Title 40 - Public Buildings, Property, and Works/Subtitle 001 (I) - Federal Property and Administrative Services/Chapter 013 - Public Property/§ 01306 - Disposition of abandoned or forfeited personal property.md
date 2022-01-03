@@ -16,7 +16,7 @@ Property.—The term "property" means all personal property, including vessels, 
 
 Voluntarily Abandoned Property.—Property voluntarily abandoned to any agency in a way that vests title to the property in the Government may be retained by the agency and devoted to official use only. If the agency does not desire to retain the property, the head of the agency immediately shall notify the Administrator of General Services to that effect, and the Administrator, within a reasonable time, shall—
 
-&emsp;(1) order the agency to deliver the property to another agency that requests the property and that the Administrator believes should be given the property; or
+&emsp;(1) order the agency to deliver the property to another agency that requests the propertyand that the Administrator believes should be given the property; or
 
 &emsp;(2) order disposal of the property as otherwise provided by law.
 
@@ -118,7 +118,7 @@ Other laws not repealed.—This section does not repeal any other laws relating 
 
 &emsp;(3)
 
-Property not subject to allocation under this section.—The following classes of property are not subject to allocation under this section, but shall be disposed of in the manner otherwise provided by law:
+Property not subject to allocation under this section.—The following classes of property are not subject to allocation underthis section, but shall be disposed of in the manner otherwise provided by law:
 
 &emsp;&emsp;(A) narcotic drugs, as defined in the Controlled Substances Act (21 U.S.C. 801 et seq.).
 

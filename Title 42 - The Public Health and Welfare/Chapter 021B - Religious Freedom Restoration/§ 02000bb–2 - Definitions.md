@@ -12,6 +12,8 @@ As used in this chapter—
 
 (Pub. L. 103–141, §5, Nov. 16, 1993, 107 Stat. 1489; Pub. L. 106–274, §7(a), Sept. 22, 2000, 114 Stat. 806.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of this title and Tables.
@@ -22,5 +24,5 @@ This chapter, referred to in text, was in the original "this Act", meaning Pub. 
 
 Par. (2). Pub. L. 106–274, §7(a)(2), substituted "term 'covered entity' means" for "term 'State' includes".
 
-Par. (4). Pub. L. 106–274, §7(a)(3), substituted "religious exercise, as defined in section 2000cc–5 of thistitle" for "the exercise of religion under the First Amendment to the Constitution".
+Par. (4). Pub. L. 106–274, §7(a)(3), substituted "religious exercise, as defined in section 2000cc–5 of this title" for "the exercise of religion under the First Amendment to the Constitution".
 

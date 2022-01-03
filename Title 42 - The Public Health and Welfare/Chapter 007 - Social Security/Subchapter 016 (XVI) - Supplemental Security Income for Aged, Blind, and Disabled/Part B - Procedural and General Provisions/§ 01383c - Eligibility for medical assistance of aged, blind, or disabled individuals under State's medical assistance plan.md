@@ -16,7 +16,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 &emsp;(A) was entitled to a monthly insurance benefit under subchapter II for December 1983,
 
-&emsp;(B) was entitled to a widow's or widower's insurance benefit based on a disability undersection 402(e) or (f) of this title for January 1984 and with respect to whom a benefit under this subchapter was paid in that month, and
+&emsp;(B) was entitled to a widow's or widower's insurance benefit based on a disability under section 402(e) or (f) of this title for January 1984 and with respect to whom a benefit under this subchapter was paid in that month, and
 
 &emsp;(C) because of the increase in the amount of his or her widow's or widower's insurance benefits which resulted from the amendments made by section 134 of the Social Security Amendments of 1983 (Public Law 98–21) (eliminating the additional reduction factor for disabled widows and widowers under age 60), was ineligible for benefits under this subchapter in the first month in which such increase was paid to him or her (and in which a retroactive payment of such increase for prior months was not made).
 
@@ -52,6 +52,8 @@ If any individual who has attained the age of 18 and is receiving benefits under
 
 (Aug. 14, 1935, ch. 531, title XVI, §1634, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1478; amended Pub. L. 99–272, title XII, §12202(a), Apr. 7, 1986, 100 Stat. 290; Pub. L. 99–643, §6(a), Nov. 10, 1986, 100 Stat. 3578; Pub. L. 100–203, title IX, §§9108, 9116(a), Dec. 22, 1987, 101 Stat. 1330–302, 1330–305; Pub. L. 101–508, title V, §5103(c)(1), Nov. 5, 1990, 104 Stat. 1388–251; Pub. L. 103–296, title I, §107(a)(4), title II, §201(b)(3)(D), Aug. 15, 1994, 108 Stat. 1478, 1504; Pub. L. 104–121, title I, §105(b)(4)(B), Mar. 29, 1996, 110 Stat. 854.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C), is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended section 402 of this title and enacted provisions set out as a note under section 402 of this title.
@@ -68,7 +70,7 @@ The effective date of this subsection, referred to in subsec. (c)(1), is July 1,
 
 Subsec. (e). Pub. L. 103–296, §201(b)(3)(D), added subsec. (e).
 
-<b>1990</b>—Subsec. (d). Pub. L. 101–508 designated existing provisions as par. (1), substituted "This subsection applies with respect to any person who—" for "If any person—" in introductory provisions, redesignated formerpars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted "being then not entitled" for "as required by section 1382(e)(2) of this title, being then at least 60 years of age but not entitled", in subpar. (B) substituted "section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66)." for "section 1382e(a) of this title," and substituted par. (2) for former concluding provisions which read as follows: "such person shall nevertheless be deemed to be a recipient of supplemental security income benefits under this subchapter for purposes of subchapter XIX of this chapter, so long as he or she (A) would be eligible for such supplemental security income benefits, or such State supplementary payments, in the absence of such benefits under section 402 of this title, and (B) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter."
+<b>1990</b>—Subsec. (d). Pub. L. 101–508 designated existing provisions as par. (1), substituted "This subsection applies with respect to any person who—" for "If any person—" in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, in subpar. (A) substituted "being then not entitled" for "as required by section 1382(e)(2) of this title, being then at least 60 years of age but not entitled", in subpar. (B) substituted "section 1382e(a) of this title (or payments of the type described in section 212(a) of Public Law 93–66)." for "section 1382e(a) of this title," and substituted par. (2) for former concluding provisions which read as follows: "such person shall nevertheless be deemed to be a recipient of supplemental security income benefits under this subchapter for purposes of subchapter XIX of this chapter, so long as he or she (A) would be eligible for such supplemental security income benefits, or such State supplementary payments, in the absence of such benefits under section 402 of this title, and (B) is not entitled to hospital insurance benefits under part A of subchapter XVIII of this chapter."
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–203, §9108, substituted "no later than July 1, 1988" for "during the 15-month period beginning with the month in which this subsection is enacted \[April 1986\]".
 
@@ -79,6 +81,8 @@ Subsec. (d). Pub. L. 100–203, §9116(a), added subsec. (d).
 Subsec. (b). Pub. L. 99–272, §12202(a)(2), added subsec. (b).
 
 Subsec. (c). Pub. L. 99–643 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

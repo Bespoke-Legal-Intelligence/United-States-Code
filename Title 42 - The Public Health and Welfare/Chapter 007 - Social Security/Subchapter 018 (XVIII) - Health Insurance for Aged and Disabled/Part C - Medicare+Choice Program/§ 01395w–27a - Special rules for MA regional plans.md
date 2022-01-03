@@ -36,7 +36,7 @@
 
 #### (D) Market survey and analysis
 
-&emsp;&emsp;Before establishing MA regions, the Secretary shall conduct a market survey and analysis, including an examination of current insurance markets, to determine how the regions should be established.
+&emsp;&emsp;Before establishing MA regions, the Secretary shall conduct a market survey andanalysis, including an examination of current insurance markets, to determine how the regions should be established.
 
 #### (3) National plan
 
@@ -268,7 +268,7 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 
 &emsp;&emsp;(A) the organization provides assurances satisfactory to the Secretary that the organization will make payment to the hospital for inpatient hospital services of an amount that is not less than the amount that would be payable to the hospital under section 1395ww of this title with respect to such services; and
 
-&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, the hospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
+&emsp;&emsp;(B) with respect to specific inpatient hospital services provided to an enrollee, thehospital demonstrates to the satisfaction of the Secretary that the hospital's costs of such services exceed the payment amount described in subparagraph (A).
 
 #### (2) Payment amounts
 
@@ -293,6 +293,8 @@ Instead of applying section 1395w–22(a)(2)(C) of this title with respect to an
 &emsp;In this subsection, the term "essential hospital" means, with respect to an MA regional plan offered by an MA organization, a subsection (d) hospital (as defined in section 1395ww(d) of this title) that the Secretary determines, based upon an application filed by the organization with the Secretary, is necessary to meet the requirements referred to in paragraph (1) for such plan.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1858, as added Pub. L. 108–173, title II, §221(c), Dec. 8, 2003, 117 Stat. 2181; amended Pub. L. 109–432, div. B, title III, §301, Dec. 20, 2006, 120 Stat. 2990; Pub. L. 110–48, §3, July 18, 2007, 121 Stat. 244; Pub. L. 110–173, title I, §110, Dec. 29, 2007, 121 Stat. 2497; Pub. L. 110–275, title I, §166, July 15, 2008, 122 Stat. 2575; Pub. L. 111–8, div. G, title I, §1301(f), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–148, title III, §3201(a)(2)(C), (f)(2), title X, §10327(c)(1), Mar. 23, 2010, 124 Stat. 444, 450, 964; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -325,6 +327,8 @@ Pub. L. 110–48 substituted "the Fund—
 > for "the Fund during the period beginning on January 1, 2012, and ending on December 31, 2013, a total of $3,500,000,000."
 
 <b>2006</b>—Subsec. (e)(2)(A)(i). Pub. L. 109–432 substituted "2012" for "2007" and "$3,500,000,000" for "$10,000,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

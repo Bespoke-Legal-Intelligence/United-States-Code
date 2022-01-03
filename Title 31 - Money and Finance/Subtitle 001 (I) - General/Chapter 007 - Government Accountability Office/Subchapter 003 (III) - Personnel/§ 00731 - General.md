@@ -52,7 +52,7 @@
 
 &emsp;(7) chapter 21 of title 41.
 
-(j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonable expenses incurred in connection with recruitment.
+(j) Funds appropriated to the Government Accountability Office for salaries and expenses are available for meals and other related reasonableexpenses incurred in connection with recruitment.
 
 (k)
 

@@ -94,6 +94,8 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(j); added Oct. 31, 1988, Pu
 
 The word "conditions" is omitted as being included in "terms", and the word "studies" is omitted as being included in "research". The word "solely" is omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94 designated existing provisions as subsec. "
@@ -101,6 +103,8 @@ The word "conditions" is omitted as being included in "terms", and the word "stu
 (a)", inserted heading, and added subsec. (b).
 
 <b>1998</b>—Pub. L. 105–178 substituted "competitive racing events, show, or display" for "or competitive racing events".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition Rule
 

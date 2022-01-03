@@ -38,11 +38,23 @@ Development of criteria.—The Secretary, in cooperation with State transportati
 
 &emsp;&emsp;(D) the publication entitled "Highway Safety Manual" of the American Association of State Highway and Transportation Officials;
 
-&emsp;&emsp;(E) the publication entitled "Urban Street Design Guide" of the National Association of City Transportation Officials; and
+&emsp;&emsp;(E) the publication entitled "Urban Street Design Guide" of the National Association of City Transportation Officials;
 
-&emsp;&emsp;(F) any other material that the Secretary determines to be appropriate.
+&emsp;&emsp;(F) the publication of the Federal Highway Administration entitled "Wildlife Crossing Structure Handbook: Design and Evaluation in North America" and dated March 2011; and
 
-(d) On any highway project in which Federal funds hereafter participate, or on any such project constructed since December 20, 1944, the location, form and character of informational, regulatory and warning signs, curb and pavement or other markings, and traffic signals installed or placed by any public authority or other agency, shall be subject to the approval of the State transportation department with the concurrence of the Secretary, who is directed to concur only in such installations as will promote the safe and efficient utilization of the highways.
+&emsp;&emsp;(G) any other material that the Secretary determines to be appropriate.
+
+(d)
+
+Manual on Uniform Traffic Control Devices.—
+
+&emsp;(1)
+
+In general.—On any highway project in which Federal funds hereafter participate, or on any such project constructed since December 20, 1944, the location, form and character of informational, regulatory and warning signs, curb and pavement or other markings, and traffic signals installed or placed by any public authority or other agency, shall be subject to the approval of the State transportation department with the concurrence of the Secretary, who is directed to concur only in such installations as will promote the safety, inclusion, and mobility of all users and efficient utilization of the highways.
+
+&emsp;(2)
+
+Updates.—Not later than 18 months after the date of enactment of the Surface Transportation Reauthorization Act of 2021 and not less frequently than every 4 years thereafter, the Secretary shall update the Manual on Uniform Traffic Control Devices.
 
 (e)
 
@@ -60,7 +72,7 @@ Temporary traffic control devices.—No funds shall be approved for expenditure 
 
 (g) Not later than January 30, 1971, the Secretary shall issue guidelines for minimizing possible soil erosion from highway construction. Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs of eliminating or minimizing such adverse effects and the following:
+(h) Not later than July 1, 1972, the Secretary, after consultation with appropriate Federal and State officials, shall submit to Congress, and not later than 90 days after such submission, promulgate guidelines designed to assure that possible adverse economic, social, and environmental effects relating to any proposed project on any Federal-aid system have been fully considered in developing such project, and that the final decisions on the project are made in the best overall public interest, taking into consideration the need for fast, safe and efficient transportation, public services, and the costs ofeliminating or minimizing such adverse effects and the following:
 
 &emsp;(1) air, noise, and water pollution;
 
@@ -106,7 +118,15 @@ Protection of Nonmotorized Transportation Traffic.—The Secretary shall not app
 
 (o)
 
-Compliance With State Laws for Non-NHS Projects.—Projects (other than highway projects on the National Highway System) shall be designed, constructed, operated, and maintained in accordance with State laws, regulations, directives, safety standards, design standards, and construction standards.
+Compliance With State Laws for Non-NHS Projects.—
+
+&emsp;(A) <sup>1</sup>
+
+In general.—Projects (other than highway projects on the National Highway System) shall be designed, constructed, operated, and maintained in accordance with State laws, regulations, directives, safety standards, design standards, and construction standards.
+
+&emsp;(B) <sup>1</sup>
+
+Local jurisdictions.—Notwithstanding subparagraph (A), a local jurisdiction may usea roadway design guide recognized by the Federal Highway Administration and adopted by the local jurisdiction that is different from the roadway design guide used by the State in which the local jurisdiction is located for the design of projects on all roadways under the ownership of the local jurisdiction (other than a highway on the National Highway System) for which the local jurisdiction is the project sponsor, provided that the design complies with all other applicable Federal laws.
 
 (p)
 
@@ -126,11 +146,39 @@ Phase Construction.—Safety considerations for a project under this title may b
 
 Pavement Markings.—The Secretary shall not approve any pavement markings project that includes the use of glass beads containing more than 200 parts per million of arsenic or lead, as determined in accordance with Environmental Protection Agency testing methods 3052, 6010B, or 6010C.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229; Pub. L. 109–59, title I, §1110(a), (c), title VI, §6008, Aug. 10, 2005, 119 Stat. 1170, 1171, 1874; Pub. L. 112–141, div. A, title I, §§1504, 1519(c)(3), formerly §1519(c)(4), July 6, 2012, 126 Stat. 564, 575, renumbered §1519(c)(3), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §1404(a), Dec. 4, 2015, 129 Stat. 1409.)
+(s)
+
+Electric Vehicle Charging Stations.—
+
+&emsp;(1)
+
+Standards.—Electric vehicle charging infrastructure installed using funds provided under this title shall provide, at a minimum—
+
+&emsp;&emsp;(A) non-proprietary charging connectors that meet applicable industry safety standards; and
+
+&emsp;&emsp;(B) open access to payment methods that are available to all members of the public to ensure secure, convenient, and equal access to the electric vehicle charging infrastructure that shall not be limited by membership to a particular payment provider.
+
+&emsp;(2)
+
+Treatment of projects.—Notwithstanding any other provision of law, a project to install electric vehicle charging infrastructure using funds provided under this title shall be treated as if the project is located on a Federal-aid highway.
+
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229; Pub. L. 109–59, title I, §1110(a), (c), title VI, §6008, Aug. 10, 2005, 119 Stat. 1170, 1171, 1874; Pub. L. 112–141, div. A, title I, §§1504, 1519(c)(3), formerly §1519(c)(4), July 6, 2012, 126 Stat. 564, 575, renumbered §1519(c)(3), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title I, §1404(a), Dec. 4, 2015, 129 Stat. 1409; Pub. L. 117–58, div. A, title I, §§11123(d), 11129, Nov. 15, 2021, 135 Stat. 506, 508.)
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+The date of enactment of the Surface Transportation Reauthorization Act of 2021, referred to in subsec. (d)(2), is the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(2)(F), (G). Pub. L. 117–58, §11123(d), added subpar. (F) and redesignated former subpar. (F) as (G).
+
+Subsec. (d). Pub. L. 117–58, §11129(1), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, substituted "promote the safety, inclusion, and mobility of all users" for "promote the safe", and added par. (2).
+
+Subsec. (o). Pub. L. 117–58, §11129(2), designated existing provisions as par. (A), inserted heading, and added par. (B).
+
+Subsec. (s). Pub. L. 117–58, §11129(3), added subsec. (s).
 
 <b>2015</b>—Subsec. (c)(1). Pub. L. 114–94, §1404(a)(1)(A)(i), substituted "shall consider" for "may take into account" in introductory provisions.
 
@@ -160,7 +208,7 @@ Subsec. (m). Pub. L. 105–178, §1306(a), redesignated subsec. (n) as (m) and s
 
 Subsec. (n). Pub. L. 105–178, §1306(a)(2), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
-Pub. L. 105–178, §1202(c), inserted heading and amended text of subsec. (n) generally. Prior to amendment, text read as follows: "The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists."
+Pub. L. 105–178, §1202(c), inserted heading and amended text of subsec. (n) generally. Prior to amendment,text read as follows: "The Secretary shall not approve any project under this title that will result in the severance or destruction of an existing major route for nonmotorized transportation traffic and light motorcycles, unless such project provides a reasonably alternate route or such a route exists."
 
 Subsecs. (o) to (q). Pub. L. 105–178, §1306(a)(2), (b), added subsec. (q) and redesignated former subsecs. (p) and (q) as (o) and (p), respectively. Former subsec. (o) redesignated (n).
 
@@ -170,7 +218,7 @@ Subsec. (c). Pub. L. 104–59, §304(2), added subsec. (c) and struck out former
 
 "(c)
 
-Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System,for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards."
+Design and Construction Standards for NHS.—Design and construction standards to be adopted for new construction on the National Highway System, for reconstruction on the National Highway System, and for resurfacing, restoring, and rehabilitating multilane limited access highways on the National Highway System shall be those approved by the Secretary in cooperation with the State highway departments. All eligible work for such projects shall meet or exceed such standards."
 
 Subsec. (j). Pub. L. 104–59, §305(a), substituted "plan for—" and pars. (1) and (2) for "plan for the implementation of any ambient air quality standard for any air quality control region designated pursuant to the Clean Air Act, as amended."
 
@@ -218,6 +266,10 @@ Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Except as otherwise provided, amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -231,6 +283,76 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 #### Effective Date of 1991 Amendment
 
 Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+
+#### Updates to Manual on Uniform Traffic Control Devices
+
+Pub. L. 117–58, div. A, title I, §11135, Nov. 15, 2021, 135 Stat. 516, provided that: "In carrying out the first update to the Manual on Uniform Traffic Control Devices under section 109(d)(2) of title 23, United States Code, to the greatest extent practicable, the Secretary \[of Transportation\] shall include updates necessary to provide for—
+
+&emsp;"(1) the protection of vulnerable road users (as defined in section 148(a) of title 23, United States Code);
+
+&emsp;"(2) supporting the safe testing of automated vehicle technology and any preparation necessary for the safe integration of automated vehicles onto public streets;
+
+&emsp;"(3) appropriate use of variable message signs to enhance public safety;
+
+&emsp;"(4) the minimum retroreflectivity of traffic control devices and pavement markings; and
+
+&emsp;"(5) any additional recommendations made by the National Committee on Uniform Traffic Control Devices that have not been incorporated into the Manual on Uniform Traffic Control Devices."
+
+#### Roadside Highway Safety Hardware
+
+Pub. L. 117–58, div. A, title I, §11517, Nov. 15, 2021, 135 Stat. 601, provided that:
+
+"(a)
+
+In General.—To the maximum extent practicable, the Secretary \[of Transportation\] shall develop a process for third party verification of full-scale crash testing results from crash test labs, including a method for formally verifying the testing outcomes and providing for an independent pass/fail determination. In establishing such a process, the Secretary shall seek to ensure the independence of crash test labs by ensuring that those labs have a clear separation between device development and testing in cases in which lab employees test devices that were developed within the parent organization of the employee.
+
+"(b)
+
+Continued Issuance of Eligibility Letters.—Until the implementation of the process described in subsection (a) is complete, the Secretary may, and is encouraged to, ensure that the Administrator of the Federal Highway Administration continues to issue Federal-aid reimbursement eligibility letters for roadside safety hardware as a service to States.
+
+"(c)
+
+Report to Congress.—
+
+&emsp;"(1)
+
+In general.—If the Secretary seeks to discontinue issuing the letters described in subsection (b), the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report at least 1 year before discontinuing the letters.
+
+&emsp;"(2)
+
+Inclusions.—The report described in paragraph (1) shall include a summary of the third-party verification process described in subsection (a) that will replace the Federal Highway Administration issuance of eligibility letters and any other relevant information that the Secretary deems necessary."
+
+#### Stormwater Best Management Practices Reports
+
+Pub. L. 117–58, div. A, title I, §11521, Nov. 15, 2021, 135 Stat. 603, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Federal Highway Administration.
+
+&emsp;"(2)
+
+Best management practices report.—The term 'best management practices report' means—
+
+&emsp;&emsp;"(A) the 2014 report sponsored by the Administrator entitled 'Determining the State of the Practice in Data Collection and Performance Measurement of Stormwater Best Management Practices'; and
+
+&emsp;&emsp;"(B) the 1997 report sponsored by the Administrator entitled 'Stormwater Best Management Practices in an Ultra-Urban Setting: Selection and Monitoring'.
+
+"(b)
+
+Reissuance.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Administrator shall update and reissue each best management practices report to reflect new information and advancements in stormwater management.
+
+"(c)
+
+Updates.—Not less frequently than once every 5 years after the date on which the Administrator reissues a best management practices report described in subsection (b), the Administrator shall update and reissue the best management practices report until the earlier of the date on which—
+
+&emsp;"(1) the best management practices report is withdrawn; or
+
+&emsp;"(2) the contents of the best management practices report are incorporated (including by reference) into applicable regulations of the Administrator."
 
 #### Retroactive Application of Adjustment to Criteria for Categorical Exclusion for Projects of Limited Federal Assistance
 
@@ -276,7 +398,7 @@ Exemptions and Expedited Procedures.—
 
 &emsp;"(1)
 
-Alternative arrangements.—Alternative arrangements for an emergency under section 1506.11 of title 40, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered necessary to control the immediate impacts of the emergency.
+Alternative arrangements.—Alternative arrangements for an emergency under section 1506.11 of title 40, Code of Federal Regulations (as in effect onthe date of enactment of this Act \[Dec. 4, 2015\]) shall apply to reconstruction under subsection (a), and the reconstruction shall be considered necessary to control the immediate impacts of the emergency.
 
 &emsp;"(2)
 
@@ -366,13 +488,13 @@ Definition of an Operational Right-of-way.—In this section, the term 'operatio
 
 #### Categorical Exclusion for Projects of Limited Federal Assistance
 
-Pub. L. 112–141, div. A, title I, §1317, July 6, 2012, 126 Stat. 550, as amended by Pub. L. 114–94, div. A, title I, §1314(a), Dec. 4, 2015, 129 Stat. 1402, provided that: "Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall—
+Pub. L. 112–141, div. A, title I, §1317, July 6, 2012, 126 Stat. 550, as amended by Pub. L. 114–94, div. A, title I,§1314(a), Dec. 4, 2015, 129 Stat. 1402; Pub. L. 117–58, div. A, title I, §11317, Nov. 15, 2021, 135 Stat. 543, provided that: "Not later than 180 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall—
 
 &emsp;"(1) designate as an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under section 1508.4 of title 40, Code of Federal Regulations, and section 771.117(c) of title 23, Code of Federal Regulations, any project—
 
-&emsp;&emsp;"(A) that receives less than $5,000,000 (as adjusted annually by the Secretary \[of Transportation\] to reflect any increases in the Consumer Price Index prepared by the Department of Labor) of Federal funds; or
+&emsp;&emsp;"(A) that receives less than $6,000,000 (as adjusted annually by the Secretary \[of Transportation\] to reflect any increases in the Consumer Price Index prepared by the Department of Labor) of Federal funds; or
 
-&emsp;&emsp;"(B) with a total estimated cost of not more than $30,000,000 (as adjusted annually by the Secretary to reflect any increases in the Consumer Price Index prepared by the Department of Labor) and Federal funds comprising less than 15 percent of the total estimated project cost; and
+&emsp;&emsp;"(B) with a total estimated cost of not more than $35,000,000 (as adjusted annually by the Secretary to reflect any increases in the Consumer Price Index prepared by the Department of Labor) and Federal funds comprising less than 15 percent of the total estimated project cost; and
 
 &emsp;"(2) not later than 150 days after the date of enactment of this Act, promulgate regulations to carry out paragraph (1)."
 
@@ -446,7 +568,7 @@ Outcome measurements.—The Secretary shall establish a method to verify that ac
 
 #### Engineering Judgment
 
-Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b)of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment."
+Pub. L. 112–141, div. A, title I, §1529, July 6, 2012, 126 Stat. 583, provided that: "Not later than 90 days after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title\], the Secretary \[of Transportation\] shall issue guidance to State transportation departments clarifying that the standards, guidance, and options for design and application of traffic control devices provided in the Manual on Uniform Traffic Control Devices should not be considered a substitute for engineering judgment."
 
 #### Highway Signs Relating to Veterans Cemeteries
 
@@ -466,7 +588,7 @@ Pub. L. 105–178, title I, §1213(b), June 9, 1998, 112 Stat. 200, provided tha
 
 "(1)
 
-Study.—The Comptroller General of the United States shall conduct a study on the international roughness index that is used as an indicator of pavement quality on the Federal-aid highway system.
+Study.—The Comptroller General of the United States shall conduct a study on the internationalroughness index that is used as an indicator of pavement quality on the Federal-aid highway system.
 
 "(2)
 
@@ -560,7 +682,7 @@ General rule.—No funds made available out of the Highway Trust Fund may be use
 
 "(2)
 
-Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial constructionbefore approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
+Exceptions.—Paragraph (1) shall not apply to construction of Type II noise barriers along lands that were developed or were under substantial construction before approval of the acquisition of the rights-of-ways for, or construction of, the existing highway."
 
 #### Highway Signs for National Highway System
 
@@ -580,7 +702,7 @@ Pub. L. 102–240, title I, §1038, Dec. 18, 1991, 105 Stat. 1987, as amended by
 
 "(a)
 
-Asphalt Pavement Containing Recycled Rubber Demonstration Program.—Notwithstanding any other provision of title 23, United States Code, or regulation or policy of the Department of Transportation, the Secretary (or a State acting as the Department's agent) may not disapprove a highway project under chapter 1 of title 23, United States Code, on the ground that the project includes the use of asphalt pavement containing recycled rubber. Under this subsection, a patented application process for recycled rubber shall be eligible for approval under the same conditions that an unpatented process is eligible for approval.
+Asphalt Pavement Containing Recycled Rubber Demonstration Program.—Notwithstanding any other provision of title 23, United States Code, or regulation or policy of the Department of Transportation, the Secretary (or a State acting as the Department's agent) may not disapprove a highway project under chapter 1 of title 23, United States Code, on the ground that the project includes the use of asphalt pavement containing recycled rubber. Under this subsection, apatented application process for recycled rubber shall be eligible for approval under the same conditions that an unpatented process is eligible for approval.
 
 "(b)
 
@@ -723,4 +845,6 @@ Pub. L. 95–599, title I, §144, Nov. 6, 1978, 92 Stat. 2713, as amended by Pub
 #### Modification of Project Agreements To Effectuate Requirement of Four-Lanes of Traffic
 
 Authorization to modify projects agreements entered into prior to September 13, 1966, to effectuate the amendment of this section by Pub. L. 89–574 which added the requirement of four-lanes of traffic, see section 5(b) of Pub. L. 89–574, set out as a note under section 106 of this title.
+
+<i><sup>1</sup></i><i> Designations so in original.</i>
 

@@ -34,7 +34,7 @@ For purposes of this part—
 
 &emsp;(12) The term "week" means a week as defined in the applicable State law.
 
-&emsp;(13) The term "week of unemployment" means a week of total, part-total, or partial unemployment as determined under the applicable State law or Federal unemployment insurance law.
+&emsp;(13) The term "week of unemployment" means a week of total, part-total, or partialunemployment as determined under the applicable State law or Federal unemployment insurance law.
 
 &emsp;(14) The term "benefit period" means, with respect to an individual—
 
@@ -67,6 +67,8 @@ For purposes of this part—
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -104,7 +106,7 @@ Par. (2). Pub. L. 111–5, §§1801(a)(2), 1893, temporarily substituted "employ
 
 Pars. (3), (7). Pub. L. 111–5, §§1801(a)(3), (4), 1893, temporarily added pars. (3) and (7). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Par. (11). Pub. L. 111–5, §§1801(a)(5), 1893, temporarily struck out ", or in a subdivision of which," after "firmin which". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Par. (11). Pub. L. 111–5, §§1801(a)(5), 1893, temporarily struck out ", or in a subdivision of which," after "firm in which". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Pars. (18), (19). Pub. L. 111–5, §§1801(a)(6), 1830(a)(2), 1893, temporarily added pars. (18) and (19). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
@@ -119,6 +121,8 @@ Par. (12). Pub. L. 97–35, §2511(2), revised par. (12) generally, inserting de
 Par. (14). Pub. L. 97–35, §2511(3), substituted provisions requiring determination under the applicable State law or Federal unemployment insurance law for provisions requiring computation applying percent of average weekly wage and time spent prior to separation.
 
 Par. (15). Pub. L. 97–35, §2511(4), added par. (15).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 

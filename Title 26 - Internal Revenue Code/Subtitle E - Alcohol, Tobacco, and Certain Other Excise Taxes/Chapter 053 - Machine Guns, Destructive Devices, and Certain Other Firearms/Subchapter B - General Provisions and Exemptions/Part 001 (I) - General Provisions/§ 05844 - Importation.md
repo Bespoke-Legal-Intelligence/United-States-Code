@@ -12,6 +12,8 @@ No firearm shall be imported or brought into the United States or any territory 
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1230; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5844, act Aug. 16, 1954, ch. 736, 68A Stat. 725, related to exportation, prior to the general revision of this chapter by Pub. L. 90–618.

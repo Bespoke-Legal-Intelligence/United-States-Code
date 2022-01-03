@@ -16,7 +16,7 @@ For the purposes of this chapter—
 
 (f) The term "food" means (1) articles used for food or drink for man or other animals, (2) chewing gum, and (3) articles used for components of any such article.
 
-(g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia,<sup>1</sup> official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
+(g)(1) The term "drug" means (A) articles recognized in the official United States Pharmacopoeia,<sup>1</sup> official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement forwhich a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
 (2) The term "counterfeit drug" means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
@@ -52,7 +52,7 @@ For the purposes of this chapter—
 
 &emsp;(2) Any drug (except a new animal drug or an animal feed bearing or containing a new animal drug) the composition of which is such that such drug, as a result of investigations to determine its safety and effectiveness for use under such conditions, has become so recognized, but which has not, otherwise than in such investigations, been used to a material extent or for a material time under such conditions.
 
-(q)(1)(A) Except as provided in clause (B), the term "pesticide chemical" means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], including all active and inert ingredients of such pesticide. Notwithstanding any other provision of law, the term "pesticide" within such meaning includes ethylene oxide and propylene oxide when such substances are applied on food.
+(q)(1)(A) Except as provided in clause (B), the term "pesticide chemical" means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], including all activeand inert ingredients of such pesticide. Notwithstanding any other provision of law, the term "pesticide" within such meaning includes ethylene oxide and propylene oxide when such substances are applied on food.
 
 (B) In the case of the use, with respect to food, of a substance described in clause (A) to prevent, destroy, repel, or mitigate microorganisms (including bacteria, viruses, fungi, protozoa, algae, and slime), the following applies for purposes of clause (A):
 
@@ -60,7 +60,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(I) The substance is applied in the field.
 
-&emsp;&emsp;(II) The substance is applied at a treatment facility where raw agricultural commodities are the only food treated, and thetreatment is in a manner that does not change the status of the food as a raw agricultural commodity (including treatment through washing, waxing, fumigating, and packing such commodities in such manner).
+&emsp;&emsp;(II) The substance is applied at a treatment facility where raw agricultural commodities are the only food treated, and the treatment is in a manner that does not change the status of the food as a raw agricultural commodity (including treatment through washing, waxing, fumigating, and packing such commodities in such manner).
 
 &emsp;&emsp;(III) The substance is applied during the transportation of such commodity between the field and such a treatment facility.
 
@@ -228,7 +228,7 @@ For the purposes of this chapter—
 
 &emsp;(2) includes any nonradioactive reagent, reagent kit, ingredient, nuclide generator, accelerator, target material, electronic synthesizer, or other apparatus or computer program to be used in the preparation of such a drug.
 
-(jj) The term "antibiotic drug" means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drug intended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
+(jj) The term "antibiotic drug" means any drug (except drugs for use in animals other than humans) composed wholly or partly of any kind of penicillin, streptomycin, chlortetracycline, chloramphenicol, bacitracin, or any other drugintended for human use containing any quantity of any chemical substance which is produced by a micro-organism and which has the capacity to inhibit or destroy micro-organisms in dilute solution (including a chemically synthesized equivalent of any such substance) or any derivative thereof.
 
 (kk)
 
@@ -270,13 +270,17 @@ Priority supplement.—The term "priority supplement" means a drug application r
 
 (4) A tobacco product shall not be marketed in combination with any other article or product regulated under this chapter (including a drug, biologic, food, cosmetic, medical device, or a dietary supplement).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133; Pub. L. 116–304, §2(b), Jan. 5, 2021, 134 Stat. 4916.)
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619; Pub. L. 108–282, title I, §102(b)(1), (5)(A), (B), title II, §203(c)(1), Aug. 2, 2004, 118 Stat. 891, 902, 908; Pub. L. 110–85, title X, §1005(c), Sept. 27, 2007, 121 Stat. 968; Pub. L. 111–31, div. A, title I, §101(a), June 22, 2009, 123 Stat. 1783; Pub. L. 114–255, div. A, title III, §3060(d), Dec. 13, 2016, 130 Stat. 1133; Pub. L. 116–304, §2(b), Jan. 5, 2021, 134 Stat. 4916; Pub. L. 117–11, §2(a), Apr. 23, 2021, 135 Stat. 262.)
+
+#### Amendment of Subsection (qq)(1)
+
+<i>Pub. L. 117–11, §2, Apr. 23, 2021, 135 Stat. 262, provided that, applicable to any food that is introduced or delivered for introduction into interstate commerce on or after Jan. 1, 2023, subsection (qq)(1) of this section is amended by striking "and soybeans" and inserting "soybeans, and sesame". See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act of June 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 376 of this title) by act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, and is covered by this chapter.
+The Food and Drugs Act of June 30, 1906, as amended, referred to in par. (p)(1), and the Food and Drug Act ofJune 30, 1906, as amended, referred to in par. (v)(1), is act June 30, 1906, ch. 3915, 34 Stat. 768, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 376 of this title) by act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, and is covered by this chapter.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (q)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
@@ -289,6 +293,8 @@ Section 101(4) of the Food and Drug Administration Modernization Act of 1997, re
 #### Amendments
 
 <b>2021</b>—Par. (h). Pub. L. 116–304 redesignated introductory provisions as subpar. (1) and former subpars. (1) to (3) as cls. (A) to (C), respectively, of subpar. (1) and added subpar. (2).
+
+Subsec. (qq)(1). Pub. L. 117–11 substituted "soybeans, and sesame" for "and soybeans".
 
 <b>2016</b>—Par. (h). Pub. L. 114–255 inserted at end of concluding provisions "The term 'device' does not include software functions excluded pursuant to section 360j(o) of this title."
 
@@ -414,6 +420,10 @@ Par. (u). Pub. L. 86–618, §101(b), redesignated par. (t) as (u) and inserted 
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–11, §2(b), Apr. 23, 2021, 135 Stat. 262, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any food that is introduced or delivered for introduction into interstate commerce on or after January 1, 2023."
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–282, title II, §203(d), Aug. 2, 2004, 118 Stat. 908, provided that: "The amendments made by this section \[amending this section and sections 343 and 343–1 of this title\] shall apply to any food that is labeled on or after January 1, 2006."
@@ -492,7 +502,7 @@ Amendments by Pub. L. 101–535 not to be construed to alter authority of Secret
 
 Pub. L. 91–513, title II, §702, Oct. 27, 1970, 84 Stat. 1283, as amended by Pub. L. 93–481, §2, Oct. 26, 1974, 88 Stat. 1455, provided that:
 
-"(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\] shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
+"(a) Prosecutions for any violation of law occurring prior to the effective date \[see Effective Date of 1970 Amendment note above\] of section 701 \[repealing section 360a of this title, and amending sections 321, 331,333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare\] shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 
 "(b) Civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of section 701 shall not be affected by the repeals or amendments made by such section, or abated by reason thereof.
 
@@ -574,7 +584,7 @@ Pub. L. 89–74, §10, July 15, 1965, 79 Stat. 235, provided that:
 
 #### Effect of Drug Amendments of 1962 on State Laws
 
-Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 ofthis title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law."
+Pub. L. 87–781, title II, §202, Oct. 10, 1962, 76 Stat. 793, provided that: "Nothing in the amendments made by this Act \[enacting sections 358 to 360, amending sections 321, 331, 332, 348, 351 to 353, 355, 357, 372, 374, 379e, and 381 of this title, and enacting provisions set out as notes under sections 321, 331, 332, 352, 355, 360, and 374 of this title\] to the Federal Food, Drug, and Cosmetic Act \[this chapter\] shall be construed as invalidating any provision of State law which would be valid in the absence of such amendments unless there is a direct and positive conflict between such amendments and such provision of State law."
 
 #### Definitions
 

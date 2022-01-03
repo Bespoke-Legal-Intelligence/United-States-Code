@@ -10,9 +10,13 @@ Subsection (a) shall not apply with respect to cases commenced before the effect
 
 (Pub. L. 98–544, §4, Oct. 24, 1984, 98 Stat. 2750.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For effective date of this Act, referred to in subsec. (b), see Effective Date note below.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -12,7 +12,7 @@
 | [9018\.](%C2%A7%2009018%20-%20Administrative%20Assistant.md) | Administrative Assistant. |
 | [9019\.](%C2%A7%2009019%20-%20General%20Counsel.md) | General Counsel. |
 | [9020\.](%C2%A7%2009020%20-%20Inspector%20General.md) | Inspector General. |
-| [9021\.](%C2%A7%2009021%20-%20Space%20Force%20Acquisition%20Council.md) | Space Force Acquisition Council. |
+| [9021\.](%C2%A7%2009021%20-%20Space%20Acquisition%20Council.md) | Space Acquisition Council. |
 | [9021a.](%C2%A7%2009021a%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md) | Air Force Reserve Forces Policy Committee. |
 | [9022\.](%C2%A7%2009022%20-%20Financial%20management.md) | Financial management. |
 | [9023\.](%C2%A7%2009023%20-%20Chief%20of%20Legislative%20Liaison.md) | Chief of Legislative Liaison. |
@@ -20,11 +20,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 903, consisting of sections 9331 to 9362, related to the United States Air Force Academy, prior to renumbering as chapter 953 of this title.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title XVI, §1602(a)(3), Dec. 27, 2021, 135 Stat. 2076, substituted "Space Acquisition Council" for "Space Force Acquisition Council" in item 9021.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title IX, §954(b), Dec. 20, 2019, 133 Stat. 1565, added items 9021 and 9021a and struck out former item 9021 "Air Force Reserve Forces Policy Committee".
 
@@ -61,7 +65,7 @@ A prior chapter 903, consisting of sections 9331 to 9362, related to the United 
 - [&sect; 09018 - Administrative Assistant](%C2%A7%2009018%20-%20Administrative%20Assistant.md)
 - [&sect; 09019 - General Counsel](%C2%A7%2009019%20-%20General%20Counsel.md)
 - [&sect; 09020 - Inspector General](%C2%A7%2009020%20-%20Inspector%20General.md)
-- [&sect; 09021 - Space Force Acquisition Council](%C2%A7%2009021%20-%20Space%20Force%20Acquisition%20Council.md)
+- [&sect; 09021 - Space Acquisition Council](%C2%A7%2009021%20-%20Space%20Acquisition%20Council.md)
 - [&sect; 09021a - Air Force Reserve Forces Policy Committee](%C2%A7%2009021a%20-%20Air%20Force%20Reserve%20Forces%20Policy%20Committee.md)
 - [&sect; 09022 - Financial management](%C2%A7%2009022%20-%20Financial%20management.md)
 - [&sect; 09023 - Chief of Legislative Liaison](%C2%A7%2009023%20-%20Chief%20of%20Legislative%20Liaison.md)

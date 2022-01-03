@@ -116,7 +116,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with the Secretary of Transportation, shall use the amounts made available under subsection (b) to provide grants to eligible providers of transportation services described in paragraph (2) that certify to the Secretary that the providers of transportation services have experienced a revenue loss of 25 percent or more, on an annual basis, as a direct or indirect result of COVID–19.
+&emsp;The Secretary, in consultation with the Secretary of Transportation, shall use the amounts made available under subsection (b) to provide grants to eligible providers of transportation services described in paragraph\(2) that certify to the Secretary that the providers of transportation services have experienced a revenue loss of 25 percent or more, on an annual basis, as a direct or indirect result of COVID–19.
 
 #### (2) Description of eligible providers of transportation services
 
@@ -190,7 +190,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 #### (6) Conditions of receipt
 
-&emsp;As a condition of receipt of assistance under this subsection, the Secretary shall require that a provider of transportation services shall agree—
+&emsp;As a condition of receipt of assistance under this subsection, the Secretary shall requirethat a provider of transportation services shall agree—
 
 &emsp;&emsp;(A) subject to paragraph (7)—
 
@@ -208,7 +208,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;(iii) to recall or rehire any employees laid off, furloughed, or terminated after March 27, 2020, to the extent warranted by increased service levels;
 
-&emsp;&emsp;(B) to return to the Secretary any funds received under this subsection that are notused by the provider of transportation services by the date that is 1 year after the date of receipt of the funds; and
+&emsp;&emsp;(B) to return to the Secretary any funds received under this subsection that are not used by the provider of transportation services by the date that is 1 year after the date of receipt of the funds; and
 
 &emsp;&emsp;(C) to examine the anticipated expenditure of the funds by the provider of transportation services for the purposes described in subparagraph (A) not less frequently than once every 90 days after the date of receipt of the funds.
 
@@ -266,7 +266,7 @@ Out of any funds in the Treasury not otherwise appropriated, there are appropria
 
 &emsp;&emsp;&emsp;(ii) not including any prepayment of, or payment of principal on, a debt obligation, except for any principal on a debt obligation accrued by the provider of transportation services directly to maintain the expenditures of the provider of transportation services on payroll costs throughout the COVID–19 pandemic; or
 
-&emsp;&emsp;(D) the compensation of returning employees for lost pay and benefits during the COVID–19 pandemic, subject to subsection (e).
+&emsp;&emsp;(D) the compensation of returning employees for lost pay and benefits during theCOVID–19 pandemic, subject to subsection (e).
 
 #### (2) Eligibility
 
@@ -315,6 +315,8 @@ Notwithstanding any other provision of law, any compensation provided to a retur
 &emsp;The funds made available under this section shall remain available for obligation until the date that is 3 years after December 27, 2020.
 
 (Pub. L. 116–260, div. N, title IV, §421, Dec. 27, 2020, 134 Stat. 2061.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -14,6 +14,8 @@ Any person who—
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1402.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5607, act Aug. 16, 1954, ch. 736, 68A Stat. 684, related to penalty for distilling on prohibited premises, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5505(i) and 5601(a)(6) of this title.

@@ -6,11 +6,11 @@ Qualifications of Copyright Royalty Judges.—
 
 &emsp;(1)
 
-In general.—Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright RoyaltyJudge only if the individual is free of any financial conflict of interest under subsection (h).
+In general.—Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h).
 
 &emsp;(2)
 
-Definition.—In this subsection, the term "adjudication" has the meaning given that term in section 551 of title 5, but does not include mediation.
+Definition.—In this subsection, the term "adjudication" has the meaning given thatterm in section 551 of title 5, but does not include mediation.
 
 (b)
 
@@ -64,7 +64,7 @@ In general.—(i) Subject to subparagraph (B) and clause (ii) of this subparagra
 
 &emsp;&emsp;(B)
 
-Novel questions.—(i) In any case in which a novel material question of substantive law concerning an interpretation of those provisions of this title that are the subject of the proceeding is presented, the Copyright Royalty Judges shall request a decision of the Register of Copyrights, in writing, to resolve such novel question. Reasonable provision shall be made for comment on such request by the participants in the proceeding, in such a way as to minimize duplication and delay. The Register of Copyrights shall transmit his or her decision to the Copyright Royalty Judges within 30 days after the Register of Copyrights receives all of the briefs or comments of the participants. Such decision shall be in writing and included by the Copyright Royalty Judges in the record that accompanies their final determination. If such a decision is timely delivered to the Copyright Royalty Judges, theCopyright Royalty Judges shall apply the legal determinations embodied in the decision of the Register of Copyrights in resolving material questions of substantive law.
+Novel questions.—(i) In any case in which a novel material question of substantive law concerning an interpretation of those provisions of this title that are the subject of the proceeding is presented, the Copyright Royalty Judges shall request a decision of the Register of Copyrights, in writing, to resolve such novel question. Reasonable provision shall be made for comment on such request by the participants in the proceeding, in such a way as to minimize duplication and delay. The Register of Copyrights shall transmit his or her decision to the Copyright Royalty Judges within 30 days after the Register of Copyrights receives all of the briefs or comments of the participants. Such decision shall be in writing and included by the Copyright Royalty Judges in the record that accompanies their final determination. If such a decision is timely delivered to the Copyright Royalty Judges, the Copyright Royalty Judges shall apply the legal determinations embodied in the decision of the Register of Copyrights in resolving material questions of substantive law.
 
 &emsp;&emsp;(ii) In clause (i), a "novel question of law" is a question of law that has not been determined in prior decisions, determinations, and rulings described in section 803(a).
 
@@ -114,7 +114,7 @@ The General Schedule, referred to in subsec. (e)(2), is set out under section 53
 
 #### Prior Provisions
 
-A prior section 802, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, §405(d), (e)(2)–(4), Oct. 28,1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, §13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
+A prior section 802, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2596; Pub. L. 101–319, §2(a), July 3, 1990, 104 Stat. 290; Pub. L. 103–198, §2(b), Dec. 17, 1993, 107 Stat. 2305; Pub. L. 104–39, §5(d)(2)–(4), Nov. 1, 1995, 109 Stat. 349; Pub. L. 105–80, §8(b), Nov. 13, 1997, 111 Stat. 1533; Pub. L. 105–304, title IV, §405(d), (e)(2)–(4), Oct. 28, 1998, 112 Stat. 2902; Pub. L. 107–273, div. C, title III, §13301(c)(2), Nov. 2, 2002, 116 Stat. 1912, related to membership and proceedings of copyright arbitration royalty panels, prior to the general amendment of this chapter by Pub. L. 108–419.
 
 #### Amendments
 

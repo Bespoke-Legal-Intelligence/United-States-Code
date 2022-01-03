@@ -136,7 +136,7 @@ Public Safety Program Requirements.—(1) The Secretary shall include in the sta
 
 &emsp;(A) notifies an operator of proposed demolition, excavation, tunneling, or construction near or affecting the facility;
 
-&emsp;(B) requires an operator to identify a pipeline facility that may be affected by the proposed demolition, excavation, tunneling, or construction, to prevent damaging the facility; and
+&emsp;(B) requires an operator to identify a pipeline facility that may be affected by the proposed demolition, excavation, tunneling, orconstruction, to prevent damaging the facility; and
 
 &emsp;(C) the Secretary decides will protect a facility adequately against a hazard caused by demolition, excavation, tunneling, or construction.
 
@@ -156,7 +156,7 @@ Promoting public awareness.—
 
 (d)
 
-Facility Operation Information Standards.—The Secretary shall prescribe minimum standards requiring an operator of a pipeline facility subject to this chapter to maintain, to theextent practicable, information related to operating the facility as required by the standards prescribed under this chapter and, when requested, to make the information available to the Secretary and an appropriate State official as determined by the Secretary. The information shall include—
+Facility Operation Information Standards.—The Secretary shall prescribe minimum standards requiring an operator of a pipeline facility subject to this chapter to maintain, to the extent practicable, information related to operating the facility as required by the standards prescribed under this chapter and, when requested, to make the information available to the Secretary and an appropriate State official as determined by the Secretary. The information shall include—
 
 &emsp;(1) the business name, address, and telephone number, including an operations emergency telephone number, of the operator;
 
@@ -202,7 +202,7 @@ Minimum safety standards.—The Secretary shall prescribe minimum safety standar
 
 &emsp;&emsp;(A) the design and construction of new natural gas transmission pipeline or hazardous liquid pipeline facilities, and
 
-&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardous liquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as "smart pigs"). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
+&emsp;&emsp;(B) when the replacement of existing natural gas transmission pipeline or hazardousliquid pipeline facilities or equipment is required, the replacement of such existing facilities be carried out, to the extent practicable, in a manner so as to accommodate the passage through such natural gas transmission pipeline or hazardous liquid pipeline facilities of instrumented internal inspection devices (commonly referred to as "smart pigs"). The Secretary may extend such standards to require existing natural gas transmission pipeline or hazardous liquid pipeline facilities, whose basic construction would accommodate an instrumented internal inspection device to be modified to permit the inspection of such facilities with instrumented internal inspection devices.
 
 &emsp;(2)
 
@@ -232,7 +232,7 @@ Submission of report.—As soon as practicable, but not later than 5 business da
 
 (3)
 
-Submission of report to other entities.—Upon request, a State authority or a Governorthat receives a report submitted under this subsection may submit the report to any relevant emergency response or planning entity, including any—
+Submission of report to other entities.—Upon request, a State authority or a Governor that receives a report submitted under this subsection may submit the report to any relevant emergency response or planning entity, including any—
 
 &emsp;(A) State emergency response commission established pursuant to section 301 of the Emergency Planning and Community Right-To-Know Act of 1986 (42 U.S.C. 11001);
 
@@ -424,7 +424,7 @@ Advanced leak detection technologies and practices described.—The advanced lea
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(II) periodic surveys with handheld equipment, equipment mounted on mobile platforms, or other means using commercially available technology; and
 
-&emsp;&emsp;&emsp;&emsp;(iii) for regulated gathering lines in Class 2 locations, Class 3 locations, orClass 4 locations, technologies and practices to detect pipeline leaks through—
+&emsp;&emsp;&emsp;&emsp;(iii) for regulated gathering lines in Class 2 locations, Class 3 locations, or Class 4 locations, technologies and practices to detect pipeline leaks through—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(I) equipment that is capable of continuous monitoring; or
 
@@ -514,7 +514,7 @@ In general.—Not later than 180 days after the date of enactment of this subsec
 
 &emsp;&emsp;(B)
 
-Exclusion.—In promulgating regulations under subparagraph (A), the Secretaryshall ensure that those regulations do not apply to a district regulating station that has a monitoring system and the capability for remote or automatic shutoff.
+Exclusion.—In promulgating regulations under subparagraph (A), the Secretary shall ensure that those regulations do not apply to a district regulating station that has a monitoring system and the capability for remote or automatic shutoff.
 
 &emsp;(3)
 
@@ -722,6 +722,8 @@ In subsection (i), the words "In addition to hazardous liquids", "under this cha
 
 In subsection (k), the words "In exercising any discretion under this chapter" are omitted as surplus. The word "because" is substituted for "on the basis of the fact that" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Accountable Pipeline Safety and Accountability Act of 1996, referred to in subsec. (c)(4)(A), probably means the date of enactment of the Accountable Pipeline Safety and Partnership Act of 1996, Pub. L. 104–304, which amended this section and was approved Oct. 12, 1996.
@@ -756,7 +758,7 @@ Subsec. (j)(3). Pub. L. 112–90, §4(1), struck out par. (3). Text read as foll
 
 "(A) Not later than June 1, 1998, the Secretary shall survey and assess the effectiveness of remotely controlled valves to shut off the flow of natural gas in the event of a rupture of an interstate natural gas pipeline facility and shall make a determination about whether the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility.
 
-"(B) Not later than one year after the survey and assessment are completed, if the Secretary has determined that the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility, the Secretary shall prescribestandards under which an operator of an interstate natural gas pipeline facility must use a remotely controlled valve. These standards shall include, but not be limited to, requirements for high-density population areas."
+"(B) Not later than one year after the survey and assessment are completed, if the Secretary has determined that the use of remotely controlled valves is technically and economically feasible and would reduce risks associated with a rupture of an interstate natural gas pipeline facility, the Secretary shall prescribe standards under which an operator of an interstate natural gas pipeline facility must use a remotely controlled valve. These standards shall include, but not be limited to, requirements for high-density population areas."
 
 Subsec. (n). Pub. L. 112–90, §4(2), added subsec. (n).
 
@@ -802,7 +804,7 @@ Subsec. (d). Pub. L. 104–304, §4(c), inserted "as required by the standards p
 
 Subsec. (e). Pub. L. 104–304, §4(d)(2), substituted "transportation" for "transmission" in introductory provisions.
 
-Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out text which read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
+Pub. L. 104–304, §4(d)(1), in introductory provisions, directed striking out "and, to the extent the Secretary considers necessary, an operator of a gathering line that is not a regulated gather line (as defined under section 60101(b)(2) of this title)," after "subject to this chapter", which was executed by striking out textwhich read in part "regulated gathering line" instead of "regulated gather line", to reflect the probable intent of Congress.
 
 Subsec. (f)(1). Pub. L. 104–304, §4(e)(1), added heading and text of par. (1) and struck out former par. (1) which read as follows: "The Secretary shall prescribe minimum safety standards requiring that the design and construction of a new gas pipeline transmission facility or hazardous liquid pipeline facility, and the required replacement of an existing gas pipeline transmission facility, hazardous liquid pipeline facility, or equipment, be carried out, to the extent practicable, in a way that accommodates the passage through the facility of an instrumented internal inspection device (commonly referred to as a 'smart pig'). The Secretary may apply the standard to an existing gas or hazardous liquid transmission facility and require the facility to be changed to allow the facility to be inspected with an instrumented internal inspection device if the basic construction of the facility will accommodate the device."
 
@@ -813,6 +815,8 @@ Subsecs. (i), (j)(2). Pub. L. 104–304, §20(g), substituted "standards" for "r
 Subsec. (j)(3). Pub. L. 104–304, §4(h), added par. (3).
 
 Subsec. (l). Pub. L. 104–304, §4(f), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Interstate Drug and Alcohol Oversight
 

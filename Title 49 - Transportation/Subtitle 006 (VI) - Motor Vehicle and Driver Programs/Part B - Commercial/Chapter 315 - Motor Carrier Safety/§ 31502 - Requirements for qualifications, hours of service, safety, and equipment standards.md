@@ -96,7 +96,7 @@ In general.—Notwithstanding any other provision of law, regulations issued und
 
 &emsp;(2)
 
-Definition.—In this section, the term "driver of a ready mixed concrete delivery vehicle" means a driver of a vehicle designed to deliver ready mixed concrete on a daily basisand is equipped with a mechanism under which the vehicle's propulsion engine provides the power to operate a mixer drum to agitate and mix the product en route to the delivery site.
+Definition.—In this section, the term "driver of a ready mixed concrete delivery vehicle" means a driver of a vehicle designed to deliver ready mixed concrete on a daily basis and is equipped with a mechanism under which the vehicle's propulsion engine provides the power to operate a mixer drum to agitate and mix the product en route to the delivery site.
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–178, title IV, §4012(a), June 9, 1998, 112 Stat. 408; Pub. L. 109–59, title IV, §4145(b), Aug. 10, 2005, 119 Stat. 1749; Pub. L. 114–94, div. A, title V, §5521, Dec. 4, 2015, 129 Stat. 1559.)
 
@@ -152,6 +152,8 @@ In subsection (b)(2), the words "when needed" are substituted for "if need there
 
 In subsection (c), the word "prescribe" is substituted for "establish" for consistency. The word "reasonable" is omitted as surplus. The words "for a total distance of" are omitted as unnecessary because of the restatement. The words "at least" are substituted for "more than" for consistency. The word "line" is omitted as surplus. The words "possession of the United States" are added for consistency in the revised title. The words "a foreign country" and "the District of Columbia" are omitted as unnecessary because a carrier crossing the boundary of a foreign country or the District of Columbia into or from the United States would necessarily cross the boundary of a State and be covered by the provision related to a State.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 345 of the National Highway System Designation Act of 1995, referred to in subsec. (e)(4), is section 345 of Pub. L. 104–59, which was set out as a note under section 31136 of this title, prior to repeal by Pub. L. 109–59, title IV, §4115(d), Aug. 10, 2005, 119 Stat. 1726. The text of section 345 of Pub. L. 104–59 was inserted as part of section 229 of Pub. L. 106–159, as added by section 4115(a) of Pub. L. 109–59, and is set out as a note under section 31136 of this title.
@@ -160,7 +162,7 @@ Section 345 of the National Highway System Designation Act of 1995, referred to 
 
 <b>2015</b>—Subsec. (f). Pub. L. 114–94 added subsec. (f).
 
-<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted "Field Administrator of the Federal Motor Carrier Safety Administration" for "Regional Director of the Federal Highway Administration".
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted "Field Administrator of the Federal MotorCarrier Safety Administration" for "Regional Director of the Federal Highway Administration".
 
 Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted "Field Administrator" for "Regional Director" in introductory provisions.
 
@@ -171,6 +173,8 @@ Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted "Field Administrator
 <b>1994</b>—Pub. L. 103–272 renumbered section 3102 of this title as this section and amended it generally, restating it without substantive change.
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–554 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -214,7 +218,7 @@ Regulation.—The term 'regulation' has the meaning that term has under section 
 
 &emsp;"(D)
 
-Utility service vehicle.—The term 'utility service vehicle' has the meaning that term has undersection 345(e)(6) of the National Highway System Designation Act of 1995 \[Pub. L. 104–59\] (49 U.S.C. 31136 note; 109 Stat. 614–615)."
+Utility service vehicle.—The term 'utility service vehicle' has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 \[Pub. L. 104–59\] (49 U.S.C. 31136 note; 109 Stat. 614–615)."
 
 #### Study of Adequacy of Parking Facilities
 

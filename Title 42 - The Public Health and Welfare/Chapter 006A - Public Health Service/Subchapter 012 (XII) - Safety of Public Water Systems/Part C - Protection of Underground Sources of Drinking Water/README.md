@@ -14,3 +14,4 @@ Part C—Protection of Underground Sources of Drinking Water
 - [&sect; 00300h&#8211;6 - Sole source aquifer demonstration program](%C2%A7%2000300h%E2%80%936%20-%20Sole%20source%20aquifer%20demonstration%20program.md)
 - [&sect; 00300h&#8211;7 - State programs to establish wellhead protection areas](%C2%A7%2000300h%E2%80%937%20-%20State%20programs%20to%20establish%20wellhead%20protection%20areas.md)
 - [&sect; 00300h&#8211;8 - State ground water protection grants](%C2%A7%2000300h%E2%80%938%20-%20State%20ground%20water%20protection%20grants.md)
+- [&sect; 00300h&#8211;9 - Secure geologic storage permitting](%C2%A7%2000300h%E2%80%939%20-%20Secure%20geologic%20storage%20permitting.md)

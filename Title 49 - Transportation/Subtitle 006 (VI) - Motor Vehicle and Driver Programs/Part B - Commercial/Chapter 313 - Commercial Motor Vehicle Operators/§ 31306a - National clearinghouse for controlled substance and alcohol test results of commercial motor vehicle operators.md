@@ -96,7 +96,7 @@ Specific considerations.—In carrying out subparagraph (A), the Secretary shall
 
 &emsp;&emsp;&emsp;&emsp;(II) the Commercial Driver's License Information System established under section 31309;
 
-&emsp;&emsp;&emsp;&emsp;(III) the Motor Carrier Management Information System for preemployment screening services under section 31150; and
+&emsp;&emsp;&emsp;&emsp;(III) the Motor Carrier Management Information System for preemploymentscreening services under section 31150; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) other data systems, as appropriate; and
 
@@ -200,7 +200,7 @@ Notification.—The Secretary shall expeditiously notify an individual, unless s
 
 &emsp;&emsp;(A) a record relating to the individual is received by the clearinghouse;
 
-&emsp;&emsp;(B) a record in the clearinghouse relating to the individual is modified or deleted, and include in the notification the reason for the modification or deletion; or
+&emsp;&emsp;(B) a record in the clearinghouse relating to the individual is modified or deleted, andinclude in the notification the reason for the modification or deletion; or
 
 &emsp;&emsp;(C) a record in the clearinghouse relating to the individual is released to an employer and specify the reason for the release.
 
@@ -310,7 +310,7 @@ Penalties.—
 
 &emsp;(1)
 
-In general.—An employer, employee, medical review officer, or service agent who violates any provision of this section shall be subject to civil penalties under section 521(b)(2)(C) and criminal penalties under section 521(b)(6)(B), and any other applicable civil and criminal penalties, as determined by the Secretary.
+In general.—An employer, employee, medical review officer, or service agent who violates any provision of this section shall be subject to civil penalties under section521(b)(2)(C) and criminal penalties under section 521(b)(6)(B), and any other applicable civil and criminal penalties, as determined by the Secretary.
 
 &emsp;(2)
 
@@ -400,6 +400,8 @@ Testing program.—The term "testing program" means the alcohol and controlled s
 
 (Added Pub. L. 112–141, div. C, title II, §32402(a)(2), July 6, 2012, 126 Stat. 795.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Safe Roads Act of 2012, referred to in subsec. (a)(1), is the date of enactment of subtitle D of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
@@ -409,6 +411,8 @@ Section 226 of the Motor Carrier Safety Improvement Act of 1999, referred to in 
 The Privacy Act of 1974, referred to in subsec. (d)(1), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 552a of Title 5 and Tables.
 
 The Fair Credit Reporting Act, referred to in subsec. (d)(2), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

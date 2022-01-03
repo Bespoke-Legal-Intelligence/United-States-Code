@@ -30,6 +30,8 @@ The Administrator shall include a report on the plan whenever the Administration
 
 (Pub. L. 85–536, §2\[40\], as added Pub. L. 110–234, title XII, §12075, May 22, 2008, 122 Stat. 1414, and Pub. L. 110–246, §4(a), title XII, §12075, June 18, 2008, 122 Stat. 1664, 2176.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -38,11 +40,13 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
 #### Disaster Plan Improvements
 
-Pub. L. 114–88, div. A, title I, §1105, Nov. 25, 2015, 129 Stat. 688, provided that: "The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), or any successor thereto, to incorporate the Administration's response to a situation in which an extreme volume of applications are received during the period oftime immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing."
+Pub. L. 114–88, div. A, title I, §1105, Nov. 25, 2015, 129 Stat. 688, provided that: "The Administrator of the Small Business Administration shall revise the comprehensive written disaster response plan required in section 40 of the Small Business Act (15 U.S.C. 657l), or any successor thereto, to incorporate the Administration's response to a situation in which an extreme volume of applications are received during the period of time immediately after a disaster, which shall include a plan to ensure that sufficient human and technological resources are made available and a plan to prevent delays in loan processing."
 

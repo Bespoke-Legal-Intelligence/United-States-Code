@@ -48,7 +48,7 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 #### (f) Permanent exemption for peakload powerplants
 
-After consideration of a petition (and comments thereon) for an exemption from one ormore of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection, if he finds that—
+After consideration of a petition (and comments thereon) for an exemption from one or more of the prohibitions of part A for a powerplant, the Secretary shall, by order, grant a permanent exemption under this subsection, if he finds that—
 
 &emsp;(1) the powerplant is operated solely as a peakload powerplant;
 
@@ -102,6 +102,8 @@ After consideration of a petition (and comments thereon) for an exemption from o
 
 (Pub. L. 95–620, title III, §312, Nov. 9, 1978, 92 Stat. 3309; Pub. L. 100–42, §1(c)(10), (12), May 21, 1987, 101 Stat. 313.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(3), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
@@ -118,9 +120,11 @@ Subsec. (e). Pub. L. 100–42, §1(c)(10), struck out "or installation" after "p
 
 Subsec. (j). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (j) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas for installations served by international pipelines.
 
-Subsec. (k). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (k) which related to granting, by Secretary ofEnergy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
+Subsec. (k). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (k) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations based upon product or process requirements.
 
 Subsec. (l). Pub. L. 100–42, §1(c)(12)(C), struck out subsec. (l) which related to granting, by Secretary of Energy, of permanent exemptions for use of natural gas or petroleum for installations necessary to meet scheduled equipment outages.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 

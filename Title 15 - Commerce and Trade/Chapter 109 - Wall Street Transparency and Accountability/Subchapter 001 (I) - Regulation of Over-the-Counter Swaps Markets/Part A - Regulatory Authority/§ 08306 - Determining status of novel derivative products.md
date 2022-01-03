@@ -68,6 +68,8 @@
 
 (Pub. L. 111–203, title VII, §718, July 21, 2010, 124 Stat. 1652.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definition
 
 For definition of "including" as used in this section, see section 5301 of Title 12, Banks and Banking.

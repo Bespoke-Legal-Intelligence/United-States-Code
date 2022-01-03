@@ -4,9 +4,13 @@ In carrying out the purposes of sections 1544 to 1548 of this title, the Secreta
 
 (July 19, 1940, ch. 642, §2, 54 Stat. 773.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 18a of Title 16, Conservation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

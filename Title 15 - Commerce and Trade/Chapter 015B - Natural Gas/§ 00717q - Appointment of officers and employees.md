@@ -1,8 +1,10 @@
 ### §717q. Appointment of officers and employees
 
-The Commission is authorized to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter; and the Commission may, subject to civil-service laws, appoint such other officers and employees as are necessary for carrying out such functions and fix their salaries in accordance withchapter 51 and subchapter III of chapter 53 of title 5.
+The Commission is authorized to appoint and fix the compensation of such officers, attorneys, examiners, and experts as may be necessary for carrying out its functions under this chapter; and the Commission may, subject to civil-service laws, appoint such other officers and employees as are necessary for carrying out such functions and fix their salaries in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 (June 21, 1938, ch. 556, §18, 52 Stat. 831; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -17,6 +19,8 @@ Such appointments are now subject to the civil service laws unless specifically 
 #### Amendments
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeals
 

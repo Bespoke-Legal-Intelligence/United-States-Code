@@ -48,7 +48,7 @@ Sept. 3, 1982, Pub. L. 97–248, §515, 96 Stat. 691.
 
 49 App.:2214(c).
 
-In this section, the words "for an airport development project carried out under a grant agreement under this subchapter" are substituted for "on any project for airport development contained in an approved project grant application submitted in accordance with this chapter" in 49 App.:2214(a), "on projects for airport development approved under this chapter" in 49 App.:2214(b), and "under project grants for airport development approved under this chapter" in 49App.:2214(c) for clarity and consistency in this section. See H.R. Rept. No. 97–760, 97th Cong., 2d Sess., p. 715 (1982).
+In this section, the words "for an airport development project carried out under a grant agreement under this subchapter" are substituted for "on any project for airport development contained in an approved project grant application submitted in accordance with this chapter" in 49 App.:2214(a), "on projects for airport development approved under this chapter" in 49 App.:2214(b), and "under project grants for airport development approved under this chapter" in 49 App.:2214(c) for clarity and consistency in this section. See H.R. Rept. No. 97–760, 97th Cong., 2d Sess., p. 715 (1982).
 
 In subsection (a), the words "or sponsors" are omitted because of 1:1.
 
@@ -59,6 +59,8 @@ Subsection (c)(1)(A) is substituted for "a disabled veteran is an individual des
 In subsection (c)(1)(B), the words "after August 4, 1964, and before May 8, 1975" are substituted for "during the period beginning August 5, 1964, and ending May 7, 1975" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words.
 
 In subsection (c)(2), the words "must require that" are substituted for "shall contain such provisions as are necessary to insure that", and the words "when they are available and qualified for the employment" are substituted for "However, this preference shall apply only where the individuals are available and qualified to perform the work to which the employment relates", to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -71,6 +73,8 @@ Subsec. (c)(1)(C), (D). Pub. L. 112–95, §139(1)(B), added subpars. (C) and (D
 Subsec. (c)(2). Pub. L. 112–95, §139(2), substituted "Vietnam-era veterans, Persian Gulf veterans, Afghanistan-Iraq war veterans, disabled veterans, and small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)) owned and controlled by disabled veterans" for "Vietnam-era veterans and disabled veterans".
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted "sections 3141–3144, 3146, and 3147 of title 40" for "the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Priority Review of Construction Projects in Cold Weather States
 

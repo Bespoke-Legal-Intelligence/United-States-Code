@@ -4,7 +4,7 @@
 
 (1) Except as provided in subsection (b), the Administration may guarantee the timely payment of all principal and interest as scheduled on any debenture issued by any qualified State or local development company.
 
-(2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: <i>Provided</i>, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) are not identical because one or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: <i>Provided further</i>, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
+(2) Such guarantees may be made on such terms and conditions as the Administration may be regulation determine to be appropriate: <i>Provided</i>, That the Administration shall not decline to issue such guarantee when the ownership interests of the small business concern and the ownership interests of the property to be financed with the proceeds of a loan made pursuant to subsection (b)(1) are not identical becauseone or more of the following classes of relatives have an ownership interest in either the small business concern or the property: father, mother, son, daughter, wife, husband, brother, or sister: <i>Provided further</i>, That the Administrator or his designee has determined on a case-by-case basis that such ownership interest, such guarantee, and the proceeds of such loan, will substantially benefit the small business concern.
 
 (3) The full faith and credit of the United States in pledged to the payment of all amounts guaranteed under this subsection.
 
@@ -114,6 +114,8 @@ The Administration may not assess or collect any up front guarantee fee with res
 
 (Pub. L. 85–699, title V, §503, as added Pub. L. 96–302, title I, §113(a), July 2, 1980, 94 Stat. 837; amended Pub. L. 100–590, title I, §§112(c), 114, 117(a), Nov. 3, 1988, 102 Stat. 2996–2998; Pub. L. 101–515, title V, §8, Nov. 5, 1990, 104 Stat. 2144; Pub. L. 103–403, title II, §213(1), Oct. 22, 1994, 108 Stat. 4184; Pub. L. 104–36, §6, Oct. 12, 1995, 109 Stat. 297; Pub. L. 104–208, div. D, title II, §§202(b)–(e), 203, Sept. 30, 1996, 110 Stat. 3009–735, 3009–736; Pub. L. 105–135, title II, §222, Dec. 2, 1997, 111 Stat. 2604; Pub. L. 106–554, §1(a)(9) \[title III, §304\], Dec. 21, 2000, 114 Stat. 2763, 2763A–684; Pub. L. 107–100, §6(b), Dec. 21, 2001, 115 Stat. 971; Pub. L. 108–199, div. B, title VI, §631, Jan. 23, 2004, 118 Stat. 100; Pub. L. 108–205, §2, Mar. 15, 2004, 118 Stat. 553; Pub. L. 108–217, §2, Apr. 5, 2004, 118 Stat. 591; Pub. L. 108–306, §2, Sept. 24, 2004, 118 Stat. 1131; Pub. L. 108–447, div. B, title V, div. K, title II, §204, Dec. 8, 2004, 118 Stat. 2911, 3466.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (b)(7)(A)(ii) and (g), see References in Text note set out under section 661 of this title.
@@ -144,7 +146,7 @@ Subsec. (i). Pub. L. 107–100, §6(b)(2), added subsec. (i).
 
 Subsec. (f). Pub. L. 105–135, §222(2), substituted "2000" for "1997".
 
-<b>1996</b>—Subsec. (b)(7)(A). Pub. L. 104–208, §202(b), substituted "equal to the lesser of—" for "equal to 0.125 percent per year of the outstanding balance of the loan" and added cls. (i) and (ii).
+<b>1996</b>—Subsec. (b)(7)(A). Pub. L. 104–208, §202(b), substituted "equal to the lesser of—" for "equal to 0.125percent per year of the outstanding balance of the loan" and added cls. (i) and (ii).
 
 Subsec. (d). Pub. L. 104–208, §202(c), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "The Administration may impose an additional charge for administrative expenses with respect to each debenture for which payment of principal and interest is guaranteed under subsection (a) of this section."
 
@@ -169,6 +171,8 @@ Subsec. (d). Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended
 Subsec. (e). Pub. L. 100–590, §117, which directed substitution of "(1) For purposes of" for "For purposes of", redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2), was executed to subsec. (e) to reflect the probable intent of Congress and the intervening redesignation of subsec. (d) as (e) by Pub. L. 100–590, §112(c)(1).
 
 Pub. L. 100–590, §112(c)(A), formerly §112(c)(1)(A), as amended by Pub. L. 103–403, redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

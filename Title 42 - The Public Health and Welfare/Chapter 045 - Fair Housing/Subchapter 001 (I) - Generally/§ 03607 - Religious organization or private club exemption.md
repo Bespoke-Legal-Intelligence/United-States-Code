@@ -1,6 +1,6 @@
 ### §3607. Religious organization or private club exemption
 
-(a) Nothing in this subchapter shall prohibit a religious organization, association, or society, or any nonprofit institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association, or society, from limiting the sale, rental or occupancy of dwellings which it owns or operates for other than a commercial purpose to persons of the same religion, or from giving preference to such persons, unless membership in such religion is restricted on account of race, color, or national origin. Nor shall anything in this subchapter prohibit a private club not in fact open to the public, which as an incident to its primary purpose or purposes provides lodgings which it owns or operates for other than a commercial purpose, from limiting the rental or occupancy of such lodgings to its members or from giving preference to its members.
+(a) Nothing in this subchapter shall prohibit a religious organization, association, or society,or any nonprofit institution or organization operated, supervised or controlled by or in conjunction with a religious organization, association, or society, from limiting the sale, rental or occupancy of dwellings which it owns or operates for other than a commercial purpose to persons of the same religion, or from giving preference to such persons, unless membership in such religion is restricted on account of race, color, or national origin. Nor shall anything in this subchapter prohibit a private club not in fact open to the public, which as an incident to its primary purpose or purposes provides lodgings which it owns or operates for other than a commercial purpose, from limiting the rental or occupancy of such lodgings to its members or from giving preference to its members.
 
 (b)(1) Nothing in this subchapter limits the applicability of any reasonable local, State, or Federal restrictions regarding the maximum number of occupants permitted to occupy a dwelling. Nor does any provision in this subchapter regarding familial status apply with respect to housing for older persons.
 
@@ -40,6 +40,8 @@
 
 (Pub. L. 90–284, title VIII, §807, Apr. 11, 1968, 82 Stat. 84; Pub. L. 100–430, §6(d), Sept. 13, 1988, 102 Stat. 1622; Pub. L. 104–76, §§2, 3, Dec. 28, 1995, 109 Stat. 787.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 September 13, 1988, referred to in subsec. (b)(3)(A), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 100–430, which enacted subsec. (b) of this section, to reflect the probable intent of Congress.
@@ -58,13 +60,15 @@ Subsec. (b)(5). Pub. L. 104–76, §3, added par. (5).
 
 <b>1988</b>—Pub. L. 100–430 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 
 #### Regulations
 
-Pub. L. 102–550, title IX, §919, Oct. 28, 1992, 106 Stat. 3883, provided that: "The Secretary of Housing andUrban Development shall, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 1992\], make rules defining what are 'significant facilities and services especially designed to meet the physical or social needs of older persons' required under section 807(b)(2) of the Fair Housing Act \[42 U.S.C. 3607(b)(2)\] to meet the definition of the term 'housing for older persons' in such section."
+Pub. L. 102–550, title IX, §919, Oct. 28, 1992, 106 Stat. 3883, provided that: "The Secretary of Housing and Urban Development shall, not later than 180 days after the date of the enactment of this Act \[Oct. 28, 1992\], make rules defining what are 'significant facilities and services especially designed to meet the physical or social needs of older persons' required under section 807(b)(2) of the Fair Housing Act \[42 U.S.C. 3607(b)(2)\] to meet the definition of the term 'housing for older persons' in such section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 

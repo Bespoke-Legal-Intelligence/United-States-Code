@@ -64,7 +64,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 (2) In providing contracts under the Loan Repayment Program, the Secretary shall give priority—
 
-&emsp;(A) to any application for such a contract submitted by an individual whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps;
+&emsp;(A) to any application for such a contract submitted by an individual whose training isin a health profession or specialty determined by the Secretary to be needed by the Corps;
 
 &emsp;(B) to any application for such a contract submitted by an individual who has (and whose spouse, if any, has) characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
@@ -150,6 +150,8 @@ Notwithstanding any other provision of law, individuals who have entered into wr
 
 (July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650; Pub. L. 108–163, §2(k), Dec. 6, 2003, 117 Stat. 2022; Pub. L. 111–148, title X, §10501(n)(4), Mar. 23, 2010, 124 Stat. 1003.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 338B of act July 1, 1944, was renumbered section 338C by section 201(2) of Pub. L. 100–177 and is classified to section 254m of this title.
@@ -210,7 +212,7 @@ Pub. L. 101–597, §202(c), added par. (4).
 
 Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
 
-Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:"In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
+Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
 
 &emsp;"(1) individuals whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps; and
 
@@ -253,6 +255,8 @@ Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, 
 &emsp;"(4) the amount of loan payments made in the year reported on."
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 substituted "osteopathic medicine" for "osteopathy" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

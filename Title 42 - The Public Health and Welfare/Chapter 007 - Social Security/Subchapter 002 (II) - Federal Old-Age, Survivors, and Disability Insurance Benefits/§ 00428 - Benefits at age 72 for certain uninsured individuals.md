@@ -40,7 +40,7 @@ The benefit amount to which an individual is entitled under this section for any
 
 (7) If any benefit amount computed under the foregoing provisions of this section is not a multiple of $0.10, it shall be raised to the next higher multiple of $0.10.
 
-(8) Under regulations prescribed by the Commissioner of Social Security, benefit paymentsunder this section to an individual (or aggregate benefit payments under this section in the case of a husband and wife) of less than $5 may be accumulated until they equal or exceed $5.
+(8) Under regulations prescribed by the Commissioner of Social Security, benefit payments under this section to an individual (or aggregate benefit payments under this section in the case of a husband and wife) of less than $5 may be accumulated until they equal or exceed $5.
 
 #### (d) Suspension for months in which cash payments are made under public assistance or in which supplemental security income benefits are payable
 
@@ -58,7 +58,7 @@ The benefit to which any individual is entitled under this section for any month
 
 #### (f) Treatment as monthly insurance benefits
 
-For purposes of subsections (t) and (u) of section 402 of this title, and of section 1395s of this title, a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title.
+For purposes of subsections (t) and (u) of section 402 of this title, and of section 1395s of thistitle, a monthly benefit under this section shall be treated as a monthly insurance benefit payable under section 402 of this title.
 
 #### (g) Annual reimbursement of Federal Old-Age and Survivors Insurance Trust Fund
 
@@ -86,11 +86,13 @@ For purposes of this section—
 
 (Aug. 14, 1935, ch. 531, title II, §228, as added Pub. L. 89–368, title III, §302(a), Mar. 15, 1966, 80 Stat. 67; amended Pub. L. 90–248, title I, §102(b), title II, §241(a) Jan. 2, 1968, 81 Stat. 827, 916; Pub. L. 91–172, title X, §1003(b), Dec. 30, 1969, 83 Stat. 740; Pub. L. 92–5, title II, §202(b), Mar. 17, 1971, 85 Stat. 10; Pub. L. 92–336, title II, §201(g)(2), July 1, 1972, 86 Stat. 411; Pub. L. 93–233, §§2(b)(1), 18(c), Dec. 31, 1973, 87 Stat. 952, 968; Pub. L. 98–21, title III, §305(a)–(d), Apr. 20, 1983, 97 Stat. 113; Pub. L. 98–369, div. B, title VI, §§2662(e), 2663(j)(3)(A)(iv), July 18, 1984, 98 Stat. 1159, 1170; Pub. L. 101–508, title V, §5114(a), Nov. 5, 1990, 104 Stat. 1388–273; Pub. L. 102–54, §13(q)(3)(B)(i), June 13, 1991, 105 Stat. 279; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 104–193, title I, §108(a)(2), Aug. 22, 1996, 110 Stat. 2165.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 211 of Pub. L. 93–66, referred to in subsec. (d), is set out as a note under section 1382 of this title.
 
-Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to section 5(l) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) ofchapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
+Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to section 5(l) of the Railroad Retirement Act of 1937. That Act was amended in its entirety and completely revised by Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305. The Act, as thus amended and revised, was redesignated the Railroad Retirement Act of 1974, and is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Section 228e of title 45 is covered by section 231e of Title 45.
 
 #### Amendments
 
@@ -166,6 +168,8 @@ Subsec. (c)(3)(B). Pub. L. 90–248, §102(b)(5), substituted "$20" for "$17.50"
 
 Subsec. (d)(1). Pub. L. 90–248, §241(a), struck out "IV," after "I," and inserted "or part A of subchapter IV," after "XVI,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of this title.
@@ -212,7 +216,7 @@ Amendment by section 102(b) of Pub. L. 90–248 applicable with respect to month
 
 #### Repeal of Amendment of Subsecs. (b)(1), (2) and (c)(3)(A), (B) Prior to Effective Date
 
-Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
+Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, andwith respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
 
 #### Application to Northern Mariana Islands
 

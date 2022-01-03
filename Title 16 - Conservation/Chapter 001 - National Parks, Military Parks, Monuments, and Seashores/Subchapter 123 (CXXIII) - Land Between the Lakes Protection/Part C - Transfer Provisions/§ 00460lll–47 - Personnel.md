@@ -100,7 +100,7 @@ The Tennessee Valley Authority—
 
 #### (II) Notification
 
-&emsp;&emsp;&emsp;&emsp;The Secretary shall notify the Tennessee Valley Authority Board of the cost associated with the transfer of retirement benefits.
+&emsp;&emsp;&emsp;&emsp;The Secretary shall notify the Tennessee Valley Authority Board of thecost associated with the transfer of retirement benefits.
 
 #### (III) Payment
 

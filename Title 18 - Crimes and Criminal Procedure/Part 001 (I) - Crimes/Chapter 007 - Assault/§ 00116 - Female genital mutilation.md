@@ -26,7 +26,7 @@
 
 &emsp;(3) any payment of any kind was made, directly or indirectly, in furtherance of or in connection with the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce;
 
-&emsp;(4) the defendant transmitted in interstate or foreign commerce any communication relating to or in furtherance of the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce by any means or in manner, including by computer, mail, wire, or electromagnetic transmission;
+&emsp;(4) the defendant transmitted in interstate or foreign commerce any communication relating to or in furtherance of the conduct described in subsection (a) using any means, channel, facility, or instrumentality of interstate or foreign commerce or in or affecting interstate or foreign commerce by any meansor in manner, including by computer, mail, wire, or electromagnetic transmission;
 
 &emsp;(5) any instrument, item, substance, or other object that has traveled in interstate or foreign commerce was used to perform the conduct described in subsection (a);
 
@@ -98,7 +98,7 @@ Pub. L. 104–208, div. C, title VI, §645(a), Sept. 30, 1996, 110 Stat. 3009–
 
 &emsp;"(3) such mutilation infringes upon the guarantees of rights secured by Federal and State law, both statutory and constitutional;
 
-&emsp;"(4) the unique circumstances surrounding the practice of female genital mutilation place it beyond the ability of any single State or local jurisdiction to control;
+&emsp;"(4) the unique circumstances surrounding the practice of female genital mutilation place it beyondthe ability of any single State or local jurisdiction to control;
 
 &emsp;"(5) the practice of female genital mutilation can be prohibited without abridging the exercise of any rights guaranteed under the first amendment to the Constitution or under any other law; and
 

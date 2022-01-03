@@ -6,7 +6,7 @@ No facilities or project modifications which will furnish recreation or fish and
 
 #### (b) Preservation of recreation and fish and wildlife enhancement potential; execution of agreements within ten year period; disposition of lands in absence of such agreements, prohibition against uses conflicting with project purposes, and preference to uses promoting and not detracting from such potential
 
-Notwithstanding the absence of an indication of intent as specified in section 460l–13(a) of this title, lands may be provided in connection with project construction to preserve the recreationand fish and wildlife enhancement potential of the project:
+Notwithstanding the absence of an indication of intent as specified in section 460l–13(a) of this title, lands may be provided in connection with project construction to preserve the recreation and fish and wildlife enhancement potential of the project:
 
 &emsp;(1) If non-Federal public bodies execute an agreement after initial operation of the project (which agreement shall provide that the non-Federal public bodies will administer project land and water areas for recreation or fish and wildlife enhancement or both pursuant to the plan for the development of the project approved by the head of the agency having administrative jurisdiction over it and will bear not less than one-half the costs of lands, facilities, and project modifications provided for recreation, and will bear one-quarter of such costs for fish and wildlife enhancement, and not less than one-half the costs of planning studies, and the costs of operation, maintenance, and replacement attributable thereto) the remainder of the costs of lands, facilities, and project modifications provided pursuant to this paragraph shall be nonreimbursable. Such agreement and subsequent development, however, shall not be the basis for any reallocation of joint costs of the project to recreation or fish and wildlife enhancement.
 
@@ -28,6 +28,8 @@ Notwithstanding the absence of an indication of intent as specified in section 4
 
 (Pub. L. 89–72, §3, July 9, 1965, 79 Stat. 214; Pub. L. 93–251, title I, §77(a)(3), Mar. 7, 1974, 88 Stat. 33; Pub. L. 102–575, title XXVIII, §2804(b), (d), Oct. 30, 1992, 106 Stat. 4691.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsec. (c)(1), was in the original "this Act", meaning Pub. L. 89–72, which enacted sections 460l–12 to 460l–21 of this title and amended former section 460l–5(a) and section 662(d) of this title.
@@ -39,6 +41,8 @@ This part, referred to in subsec. (c)(1), was in the original "this Act", meanin
 Subsec. (c). Pub. L. 102–575, §2804(d), added subsec. (c).
 
 <b>1974</b>—Subsec. (b)(1). Pub. L. 93–251 substituted "modifications provided for recreation, and will bear one-quarter of such costs for fish and wildlife enhancement" for "modifications provided for either or both of those purposes, as the case may be".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

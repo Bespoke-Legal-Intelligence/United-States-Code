@@ -6,7 +6,7 @@ To defray costs that accrue to the United States under the agreement or agreemen
 
 (2) Upon completion of construction, not to exceed $25,000 based on estimated calendar year 1976 costs, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually for costs of operation and maintenance.
 
-(Pub. L. 89–584, §2, Sept. 19, 1966, 80 Stat. 808; Pub. L. 93–126, §7(a), Oct. 18, 1973, 87 Stat. 452;Pub. L. 95–105, title V, §514(a), Aug. 17, 1977, 91 Stat. 862.)
+(Pub. L. 89–584, §2, Sept. 19, 1966, 80 Stat. 808; Pub. L. 93–126, §7(a), Oct. 18, 1973, 87 Stat. 452; Pub. L. 95–105, title V, §514(a), Aug. 17, 1977, 91 Stat. 862.)
 
 #### <b>Editorial Notes</b>
 

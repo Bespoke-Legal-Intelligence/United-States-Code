@@ -2,13 +2,13 @@
 
 #### (a) Agreement to reimburse for actual costs, confiscation or spoilage of fish, and loss of income
 
-The Secretary, upon receipt of an application filed with him at any time after the effective date of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
+The Secretary, upon receipt of an application filed with him at any time after the effectivedate of this section by the owner of any vessel of the United States which is documented or certificated as a commercial fishing vessel, shall enter into an agreement with such owner subject to the provision of this section and such other terms and conditions as the Secretary deems appropriate. Such agreement shall provide that, if said vessel is seized by a foreign country and detained under the conditions of section 1972 of this title, the Secretary shall guarantee—
 
 &emsp;(1) the owner of such vessel for all actual costs, except those covered by section 1973 of this title, incurred by the owner during the seizure and detention period and as a direct result thereof, as determined by the Secretary, resulting (A) from any damage to, or destruction of, such vessel, or its fishing gear or other equipment, (B) from the loss or confiscation of such vessel, gear, or equipment, or (C) from dockage fees or utilities;
 
 &emsp;(2) the owner of such vessel and its crew for the market value of fish caught before seizure of such vessel and confiscated or spoiled during the period of detention; and
 
-&emsp;(3) the owner of such vessel and its crew for not to exceed 50 per centum of the gross income lost as a direct result of such seizure and detention, as determined by the Secretary of State, based on the value of the average catch per day's fishing during the three most recent calendar years immediately preceding such seizure and detention of the vessel seized, or, if such experience is not available, then of all commercial fishing vessels of the UnitedStates engaged in the same fishery as that of the type and size of the seized vessel.
+&emsp;(3) the owner of such vessel and its crew for not to exceed 50 per centum of the gross income lost as a direct result of such seizure and detention, as determined by the Secretary of State, based on the value of the average catch per day's fishing during the three most recent calendar years immediately preceding such seizure and detention of the vessel seized, or, if such experience is not available, then of all commercial fishing vessels of the United States engaged in the same fishery as that of the type and size of the seized vessel.
 
 #### (b) Distribution of payments according to commercial fishing practices and procedures
 
@@ -22,9 +22,9 @@ The Secretary shall from time to time establish by regulation fees which shall b
 
 All determinations made under this section shall be final. No payment under this section shall be made with respect to any losses covered by any policy of insurance or other provision of law.
 
-#### (e) Effective date
+#### (e) Amounts
 
-The provisions of this section shall be effective until October 1, 2018; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
+Payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts.
 
 #### (f) Definitions
 
@@ -34,11 +34,13 @@ For the purposes of this section—
 
 &emsp;(2) the term "owner" includes any charterer of a commercial fishing vessel.
 
-(Aug. 27, 1954, ch. 1018, §7, as added Pub. L. 90–482, §1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, §4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, §3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, §1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, §1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, §1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, §301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, §1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, §2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, §301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, §403, Nov. 3, 1995, 109 Stat. 390; Pub. L. 106–450, title I, §102, Nov. 7, 2000, 114 Stat. 1941; Pub. L. 107–228, div. A, title II, §209, Sept. 30, 2002, 116 Stat. 1365; Pub. L. 108–219, title III, §302, Apr. 13, 2004, 118 Stat. 616; Pub. L. 114–323, title VII, §705, Dec. 16, 2016, 130 Stat. 1942.)
+(Aug. 27, 1954, ch. 1018, §7, as added Pub. L. 90–482, §1, Aug. 12, 1968, 82 Stat. 729; amended Pub. L. 92–569, §4, Oct. 26, 1972, 86 Stat. 1183; Pub. L. 92–594, §§1, 2, Oct. 27, 1972, 86 Stat. 1313; Pub. L. 94–273, §3(17), Apr. 21, 1976, 90 Stat. 377; Pub. L. 95–194, §1, Nov. 18, 1977, 91 Stat. 1413; Pub. L. 95–376, §1, Sept. 18, 1978, 92 Stat. 714; Pub. L. 97–68, §1, Oct. 26, 1981, 95 Stat. 1040; Pub. L. 98–364, title III, §301, July 17, 1984, 98 Stat. 444; Pub. L. 99–659, title IV, §408, Nov. 14, 1986, 100 Stat. 3740; Pub. L. 100–151, §1, Nov. 3, 1987, 101 Stat. 884; Pub. L. 100–350, §2, June 27, 1988, 102 Stat. 660; Pub. L. 101–627, title III, §301, Nov. 28, 1990, 104 Stat. 4462; Pub. L. 104–43, title IV, §403, Nov. 3, 1995, 109 Stat. 390; Pub. L. 106–450, title I, §102, Nov. 7, 2000, 114 Stat. 1941; Pub. L. 107–228, div. A, title II, §209, Sept. 30, 2002, 116 Stat. 1365; Pub. L. 108–219, title III, §302, Apr. 13, 2004, 118 Stat. 616; Pub. L. 114–323, title VII, §705, Dec. 16, 2016, 130 Stat. 1942; Pub. L. 117–81, div. E, title LI, §5111(a), Dec. 27, 2021, 135 Stat. 2350.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–81 inserted heading and amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The provisions of this section shall be effective until October 1, 2018; except that payments may be made under this section only to such extent and in such amounts as are provided in advance in appropriation Acts."
 
 <b>2016</b>—Subsec. (e). Pub. L. 114–323 substituted "2018" for "2008".
 
@@ -81,6 +83,24 @@ Subsec. (e). Pub. L. 92–594, §1, extended provisions of this section until Ju
 Subsec. (f)(1). Pub. L. 92–594, §2, substituted "Secretary of Commerce" for "Secretary of the Interior".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–81, div. E, title LI, §5111(b), Dec. 27, 2021, 135 Stat. 2350, provided that:
+
+"(1)
+
+Effective date.—The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 27, 2021\] and apply as if the date specified in subsection (e) of section 7 of the Fishermen's Protective Act of 1967 \[22 U.S.C. 1977(e)\], as in effect on the day before the date of the enactment of this Act, were the day after such date of enactment.
+
+"(2)
+
+Agreements and payments.—The Secretary is authorized to—
+
+&emsp;"(A) enter into agreements pursuant to section 7 of the Fishermen's Protective Act of 1967 \[22 U.S.C. 1977\] for any claims to which such section would otherwise apply but for the date specified in subsection (e) of such section, as in effect on the day before the date of the enactment of this Act; and
+
+&emsp;"(B) make payments in accordance with agreements entered into pursuant to such section if any such payments have not been made as a result of the expiration of the date specified in such section, as in effect on the day before the date of the enactment of this Act."
+
+\[For definition of "Secretary" as used in section 5111(b) of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under section 263c of this title.\]
 
 #### Effective Date of 1986 Amendment
 

@@ -1,8 +1,10 @@
 ### §2221. Details of persons from or to office of Secretary
 
-Details may be made from or to the office of the Secretary when necessary and the servicesof the person whom it is proposed to detail are not required in that office.
+Details may be made from or to the office of the Secretary when necessary and the services of the person whom it is proposed to detail are not required in that office.
 
 (Mar. 4, 1907, ch. 2907, 34 Stat. 1280.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

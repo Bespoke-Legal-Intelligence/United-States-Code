@@ -25,7 +25,7 @@
 
 (3) In any month in which an eligible veteran or person pursuing a program of apprenticeship or a program of other on-job training fails to complete one hundred and twenty hours of training in such month, the monthly training assistance allowance set forth in subsection (b)(1) or (2) of this section, as applicable, shall be reduced proportionately in the proportion that the number of hours worked bears to one hundred and twenty hours rounded off to the nearest eight hours.
 
-(c) For the purpose of this chapter, the terms "program of apprenticeship" and "program of other on-job training" shall have the same meaning as "program of education"; and the term "training assistance allowance" shall have the same meaning as "educational assistance allowance" as set forth in chapters 34 and 35 of this title.
+(c) For the purpose of this chapter, the terms "program of apprenticeship" and "program of other on-job training" shall have the samemeaning as "program of education"; and the term "training assistance allowance" shall have the same meaning as "educational assistance allowance" as set forth in chapters 34 and 35 of this title.
 
 (d) With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the rates payable under subsection (b)(2) equal to the percentage by which—
 
@@ -49,7 +49,7 @@
 
 > as the case may be.
 
-(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d),as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
+(Added Pub. L. 92–540, title III, §316(1), Oct. 24, 1972, 86 Stat. 1085, §1787; amended Pub. L. 93–508, title I, §104(2), (3), Dec. 3, 1974, 88 Stat. 1580; Pub. L. 93–602, title II, §205(b), Jan. 2, 1975, 88 Stat. 1959; Pub. L. 94–502, title V, §501(2), Oct. 15, 1976, 90 Stat. 2398; Pub. L. 95–202, title I, §104(2), Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title II, §§203(3), 213(3), Oct. 17, 1980, 94 Stat. 2189, 2191; Pub. L. 97–295, §4(57), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 98–543, title II, §204(2), Oct. 24, 1984, 98 Stat. 2742; Pub. L. 101–237, title IV, §403(b), Dec. 18, 1989, 103 Stat. 2080; renumbered §3687 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–178, title VIII, §8210(d), as added Pub. L. 105–206, title IX, §9014(b), July 22, 1998, 112 Stat. 866; Pub. L. 106–419, title I, §111(d), (f)(2), Nov. 1, 2000, 114 Stat. 1830, 1831; Pub. L. 107–103, title I, §102(d), Dec. 27, 2001, 115 Stat. 978; Pub. L. 108–183, title III, §302(d), Dec. 16, 2003, 117 Stat. 2659; Pub. L. 108–454, title I, §102(a), Dec. 10, 2004, 118 Stat. 3600.)
 
 #### <b>Editorial Notes</b>
 
@@ -155,7 +155,7 @@ Section effective Oct. 1, 1972, except for those veterans and eligible persons i
 
 #### Apprenticeship or On-Job Training Requirements
 
-Pub. L. 116–315, title I, §1106, Jan. 5, 2021, 134 Stat. 4965, provided that:
+Pub. L. 116–315, title I, §1106, Jan. 5, 2021, 134 Stat. 4965, as amended by Pub. L. 117–76, §5(e), Dec. 21, 2021, 135 Stat. 1520, provided that:
 
 "(a)
 
@@ -189,7 +189,7 @@ In General.—During the period described in subsection (b), subsection (e) of s
 
 "(b)
 
-Applicability Period.—The period described in this section is the period beginning on March 1, 2020, and ending on December 21, 2021."
+Applicability Period.—The period described in this section is the period beginning on March 1, 2020, and ending on June 1, 2022."
 
 #### Increase in Benefit for Individuals Pursuing Apprenticeship or On-Job Training; Survivors and Dependents Educational Assistance
 

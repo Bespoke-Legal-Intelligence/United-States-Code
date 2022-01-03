@@ -42,7 +42,7 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any gift made after December 31, 1976, the increase in basis provided by this subsection with respect to any gift for the gift tax paid under chapter 12 shall be anamount (not in excess of the amount of tax so paid) which bears the same ratio to the amount of tax so paid as—
+&emsp;&emsp;In the case of any gift made after December 31, 1976, the increase in basis provided by this subsection with respect to any gift for the gift tax paid under chapter 12 shall be an amount (not in excess of the amount of tax so paid) which bears the same ratio to the amount of tax so paid as—
 
 &emsp;&emsp;&emsp;(i) the net appreciation in value of the gift, bears to
 
@@ -56,13 +56,17 @@ If the property was acquired by gift or transfer in trust on or before December 
 
 In the case of any property acquired by gift in a transfer described in section 1041(a), the basis of such property in the hands of the transferee shall be determined under section 1041(b)(2) and not this section.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640; Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34, title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 298; Pub. L. 85–866, title I, §43(a), Sept. 2, 1958, 72 Stat. 1640;Pub. L. 91–614, title I, §102(d)(1), Dec. 31, 1970, 84 Stat. 1841; Pub. L. 94–455, title XIX, §§1901(a)(122), 1906(b) (13)(A), title XX, §2005(c), Oct. 4, 1976, 90 Stat. 1784, 1834, 1877; Pub. L. 97–34, title IV, §442(d)(1), Aug. 13, 1981, 95 Stat. 322; Pub. L. 98–369, div. A, title IV, §421(b)(5), July 18, 1984, 98 Stat. 794.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 2521, referred to in subsec. (d)(2), was repealed by Pub. L. 94–455, title XX, §2001(b)(3), Oct. 4, 1976, 90 Stat. 1849.
 
 The Internal Revenue Code of 1939, referred to in subsec. (d)(5), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -79,6 +83,8 @@ Subsec. (d)(6). Pub. L. 94–455, §2005(c), added par. (6).
 <b>1970</b>—Subsec. (d)(2). Pub. L. 91–614 substituted "calendar quarter (or calendar year if the gift was made before January 1, 1971)" for "calendar year" the first place it appears and "calendar quarter or year" for "calendar year" every other place it appears.
 
 <b>1958</b>—Subsec. (d). Pub. L. 85–866 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

@@ -4,7 +4,7 @@
 
 Subject to subsections (b) and (c), a financial institution shall be liable to a consumer for all damages proximately caused by—
 
-&emsp;(1) the financial institution's failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timelymanner when properly instructed to do so by the consumer, except where—
+&emsp;(1) the financial institution's failure to make an electronic fund transfer, in accordance with the terms and conditions of an account, in the correct amount or in a timely manner when properly instructed to do so by the consumer, except where—
 
 &emsp;&emsp;(A) the consumer's account has insufficient funds;
 
@@ -38,11 +38,15 @@ If the notice required to be posted pursuant to section 1693b(d)(3)(B)(i) of thi
 
 (Pub. L. 90–321, title IX, §910, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3735; amended Pub. L. 106–102, title VII, §705, Nov. 12, 1999, 113 Stat. 1465; Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a)(1)(E). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>1999</b>—Subsec. (d). Pub. L. 106–102 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

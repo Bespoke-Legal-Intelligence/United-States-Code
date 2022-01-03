@@ -10,7 +10,7 @@ Members Traveling In Connection With Medical Evacuation.—The Secretary of the 
 
 (b)
 
-Certain Enlisted Members.—The Secretary of the military department concerned may furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
+Certain Enlisted Members.—The Secretary of the military department concernedmay furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
 
 &emsp;(1) discharged for misconduct or unsuitability or under conditions other than honorable;
 
@@ -21,6 +21,8 @@ Certain Enlisted Members.—The Secretary of the military department concerned m
 &emsp;(4) discharged before completion of recruit training under honorable conditions for dependency, hardship, minority, or disability or for the convenience of the Government.
 
 (Added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2615; amended Pub. L. 108–375, div. A, title V, §584(a), Oct. 28, 2004, 118 Stat. 1929; Pub. L. 110–181, div. A, title VI, §634, Jan. 28, 2008, 122 Stat. 155.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -149,6 +151,8 @@ Apr. 15, 1926, ch. 146, title I, 44 Stat. 262.
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 inserted "and luggage" after "civilian clothing" in two places in introductory provisions.
 
 <b>2004</b>—Pub. L. 108–375 added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment; Retroactive Application
 

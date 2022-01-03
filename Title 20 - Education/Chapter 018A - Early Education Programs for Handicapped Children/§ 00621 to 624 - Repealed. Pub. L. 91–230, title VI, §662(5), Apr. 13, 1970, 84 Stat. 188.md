@@ -12,6 +12,8 @@ Section 624, appropriations authorization.
 
 For general subject matter of these sections, see sections 1423, 1425, 1401(1), and 1426 of this title, respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective July 1, 1971, see section 662 of Pub. L. 91–230.

@@ -1,5 +1,7 @@
 ### §§101 to 122. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 101 to 122, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

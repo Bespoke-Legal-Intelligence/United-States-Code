@@ -122,7 +122,7 @@ Activities assisted under this section may include such activities, in addition 
 
 #### (g) Annual review and audit; adjustments, withdrawals and reduction permitted
 
-The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approvedplans and timetables. The Secretary may adjust, reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
+The Secretary shall, at least on an annual basis, make reviews and audits of recipients of grants under this section as necessary to determine the progress made in carrying out activities substantially in accordance with approved plans and timetables. The Secretary may adjust, reduce, or withdraw grant funds, or take other action as appropriate in accordance with the findings of these reviews and audits, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future grants made to the recipient.
 
 #### (h) Limitations on grants for industrial or commercial relocations or expansions; appeal of denial or cancellation of assistance; grants to adversely affected individuals
 
@@ -172,7 +172,7 @@ The Secretary shall, at least on an annual basis, make reviews and audits of rec
 
 #### (i) Minimum percentage of funds to be allocated to certain noncentral cities; application by consortia of cities of less than 50,000 population
 
-Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to suchconsortia shall be administered in compliance with eligibility requirements applicable to individual cities.
+Not less than 25 per centum of the funds made available for grants under this section shall be used for cities with populations of less than fifty thousand persons which are not central cities of a metropolitan statistical area. The Secretary shall encourage cooperation by geographically proximate cities of less than 50,000 population by permitting consortia of such cities, which may also include county governments that are not urban counties, to apply for grants on behalf of a city that is otherwise eligible for assistance under this section. Any grants awarded to such consortia shall be administered in compliance with eligibility requirements applicable to individual cities.
 
 #### (j) Grant contingent on factors related to non-Federal funds
 
@@ -218,7 +218,7 @@ For fiscal years 1988 and 1989, the maximum grant amount for any project under t
 
 #### (t) UDAG retention program
 
-If a grant or a portion of a grant under this section remains unexpended upon the issuance of a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
+If a grant or a portion of a grant under this section remains unexpended upon the issuanceof a notice implementing this subsection, the grantee may enter into an agreement, as provided under this subsection, with the Secretary to receive a percentage of the grant amount and relinquish all claims to the balance of the grant within 90 days of the issuance of notice implementing this subsection (or such later date as the Secretary may approve). The Secretary shall not recapture any funds obligated pursuant to this section during a period beginning on April 11, 1994, until 90 days after the issuance of a notice implementing this subsection. A grantee may receive as a grant under this subsection—
 
 &emsp;(1) 33 percent of such unexpended amounts if—
 
@@ -235,6 +235,8 @@ If a grant or a portion of a grant under this section remains unexpended upon th
 &emsp;&emsp;(B) except when waived by the Secretary in the case of a severely distressed jurisdiction, not more than one-half of the costs of such activities are derived from such unexpended amount.
 
 (Pub. L. 93–383, title I, §119, as added Pub. L. 95–128, title I, §110(b), Oct. 12, 1977, 91 Stat. 1125; amended Pub. L. 95–557, title I, §103(g), (h), Oct. 31, 1978, 92 Stat. 2084; Pub. L. 96–153, title I, §§104, 105, Dec. 21, 1979, 93 Stat. 1102, 1104; Pub. L. 96–399, title I, §§110(a), (b), 117(a), Oct. 8, 1980, 94 Stat. 1619, 1623; Pub. L. 97–35, title III, §308(a), Aug. 13, 1981, 95 Stat. 392; Pub. L. 98–181, title I \[title I, §121\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–454, title VI, §601(c), Oct. 5, 1984, 98 Stat. 1736; Pub. L. 98–479, title II, §203(l)(3), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–272, title XIV, §14001(b)(6), Apr. 7, 1986, 100 Stat. 329; Pub. L. 99–500, §101(g), Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, §101(g), Oct. 30, 1986, 100 Stat. 3341–242; Pub. L. 100–202, §§101(f) \[title I, §101\], 106, Dec. 22, 1987, 101 Stat. 1329–187, 1329–193, 1329–433; Pub. L. 100–242, title V, §§501(c), 515(a)–(d), (g)(2)–(i), 516(a), Feb. 5, 1988, 101 Stat. 1923, 1930–1934; Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1020; Pub. L. 100–628, title X, §1084, Nov. 7, 1988, 102 Stat. 3277; Pub. L. 103–233, title II, §232(b), (c)(1), Apr. 11, 1994, 108 Stat. 367.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -278,7 +280,7 @@ Subsec. (n)(1). Pub. L. 100–628, §1084(b), directed that subsec. (n)(1) of th
 
 Pub. L. 100–242, §515(i), made amendment identical to Pub. L. 99–500 and 99–591. See 1986 Amendment note below.
 
-Subsec. (r). Pub. L. 100–242, §515(d), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "In providing assistance under this section, the Secretary may not discriminate among programs on the basis of the particular type of activity involved,whether such activity is primarily a neighborhood, industrial, or commercial activity."
+Subsec. (r). Pub. L. 100–242, §515(d), amended subsec. (r) generally. Prior to amendment, subsec. (r) read as follows: "In providing assistance under this section, the Secretary may not discriminate among programs on the basis of the particular type of activity involved, whether such activity is primarily a neighborhood, industrial, or commercial activity."
 
 Subsec. (s). Pub. L. 100–242, §515(h), added subsec. (s).
 
@@ -325,6 +327,8 @@ Subsecs. (l), (m). Pub. L. 96–153, §105, added subsecs. (l) and (m).
 <b>1978</b>—Subsec. (c)(6). Pub. L. 95–557, §103(g), added par. (6).
 
 Subsec. (e). Pub. L. 95–557, §103(h), inserted "impact of the proposed urban development action program on the residents, particularly those of low and moderate income, of the residential neighborhood, and on the neighborhood, in which the program is to be located" after "objectives of this chapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -442,7 +446,7 @@ Social services.—A description of the social and supportive services to be mad
 
 &emsp;"(8)
 
-Supplemental resources.—A description of any funds, assistance, in-kind contributions, and other resources to be made available in connection with the demonstration program, including the sources and amounts of any private capital resources and non-Federal funds required under section 1103(h).
+Supplemental resources.—A description of any funds, assistance, in-kind contributions, andother resources to be made available in connection with the demonstration program, including the sources and amounts of any private capital resources and non-Federal funds required under section 1103(h).
 
 &emsp;"(9)
 
@@ -554,7 +558,7 @@ Mortgage Terms.—Mortgages insured under this section shall—
 
 "(c)
 
-Board Approval.—The Secretary may provide insurance under this section for a mortgage only if the governing board for the demonstration program for the new town demonstration area in which the propertysubject to the mortgage is located has indicated to the Secretary approval of the mortgage in connection with the demonstration program.
+Board Approval.—The Secretary may provide insurance under this section for a mortgage only if the governing board for the demonstration program for the new town demonstration area in which the property subject to the mortgage is located has indicated to the Secretary approval of the mortgage in connection with the demonstration program.
 
 "(d)
 
@@ -648,7 +652,7 @@ Contents.—The residential antidisplacement and relocation assistance plan refe
 
 &emsp;&emsp;"(A) provide that, in the event of such displacement—
 
-&emsp;&emsp;&emsp;"(i) governmental agencies or private developers shall provide, within the same community, comparable replacement dwellings for the same number of occupants as could have been housed in the occupied and vacant occupiable low- and moderate-income dwelling units demolished or converted to a use other than for housing for low- and moderate-income persons, and provide that such replacement housing may include existinghousing assisted with project based assistance provided under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
+&emsp;&emsp;&emsp;"(i) governmental agencies or private developers shall provide, within the same community, comparable replacement dwellings for the same number of occupants as could have been housed in the occupied and vacant occupiable low- and moderate-income dwelling units demolished or converted to a use other than for housing for low- and moderate-income persons, and provide that such replacement housing may include existing housing assisted with project based assistance provided under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\];
 
 &emsp;&emsp;&emsp;"(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low- and moderate-income for 10 years from the time of initial occupancy;
 
@@ -726,7 +730,7 @@ Relocation assistance.—Relocation payments and assistance for individuals, fam
 
 &emsp;"(6)
 
-Payment of administrative expenses.—Payment of reasonable administrative costs associated with activities assisted under this section and any expenses of developing the new town plan under section 1102.
+Payment of administrative expenses.—Payment of reasonable administrative costs associatedwith activities assisted under this section and any expenses of developing the new town plan under section 1102.
 
 "(f)
 

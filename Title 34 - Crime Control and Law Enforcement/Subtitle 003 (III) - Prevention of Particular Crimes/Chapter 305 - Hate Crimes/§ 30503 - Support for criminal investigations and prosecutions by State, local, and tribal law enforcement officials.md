@@ -58,7 +58,7 @@
 
 #### (6) Report
 
-&emsp;Not later than December 31, 2011, the Attorney General shall submit to Congress a report describing the applications submitted for grants under this subsection, the award of such grants, and the purposes for which the grant amounts were expended.
+&emsp;Not later than December 31, 2011, the Attorney General shall submit to Congress a reportdescribing the applications submitted for grants under this subsection, the award of such grants, and the purposes for which the grant amounts were expended.
 
 #### (7) Authorization of appropriations
 

@@ -38,7 +38,7 @@ The State-owned railroad may take any necessary or appropriate action, consisten
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of this title, section 231t of this title, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1), is act Aug. 29, 1935, ch. 812, as amendedgenerally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of this title, section 231t of this title, and Tables.
 
 The Railroad Retirement Tax Act, referred to in subsec. (a)(1), is act Aug. 16, 1954, ch. 736, §§3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see section 3233 of Title 26 and Tables.
 

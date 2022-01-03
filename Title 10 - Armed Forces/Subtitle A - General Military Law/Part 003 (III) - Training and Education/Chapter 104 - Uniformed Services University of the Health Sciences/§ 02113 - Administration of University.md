@@ -28,7 +28,7 @@
 
 &emsp;(A) to enter into contracts with, accept grants from, and make grants to the Henry M. Jackson Foundation for the Advancement of Military Medicine established under section 178 of this title, or any other nonprofit entity, for the purpose of carrying out cooperative enterprises in medical research, medical consultation, and medical education;
 
-&emsp;(B) to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation, or nonprofit entity, and the University;
+&emsp;(B) to make available to the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity,on such terms and conditions as the Secretary determines appropriate, such space, facilities, equipment, and support services within the University as the Secretary considers necessary to accomplish cooperative enterprises undertaken by such Foundation, or nonprofit entity, and the University;
 
 &emsp;(C) to enter into contracts with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or any other nonprofit entity, under which the Secretary may furnish the services of such professional, technical, or clerical personnel as may be necessary to fulfill cooperative enterprises undertaken by such foundation, or nonprofit entity, and the University;
 
@@ -38,7 +38,7 @@
 
 &emsp;(F) to accept the voluntary services of guest scholars and other persons; and
 
-&emsp;(G) notwithstanding sections 2304, 2361, and 2374 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
+&emsp;(G) notwithstanding sections 2304,<sup>1</sup> 4141, and 4024 of this title, to enter into contracts and cooperative agreements with, accept grants from, and make grants to, nonprofit entities (on a sole-source basis) for the purpose specified in subparagraph (A) or for any other purpose the Secretary determines to be consistent with the mission of the University.
 
 (2) The Secretary may not enter into any contract with the Henry M. Jackson Foundation for the Advancement of Military Medicine, or with any other entity, if the contract would obligate the University to make outlays in advance of the enactment of budget authority for such outlays.
 
@@ -48,13 +48,15 @@
 
 (Added Pub. L. 92–426, §2(a), Sept. 21, 1972, 86 Stat. 714; amended Pub. L. 95–589, Nov. 4, 1978, 92 Stat. 2512; Pub. L. 96–513, title V, §511(64), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–36, §3, May 27, 1983, 97 Stat. 201; Pub. L. 98–132, §2(b), Oct. 17, 1983, 97 Stat. 849; Pub. L. 99–661, div. A, title V, §505, Nov. 14, 1986, 100 Stat. 3864; Pub. L. 101–189, div. A, title VII, §726(a), (b)(1), Nov. 29, 1989, 103 Stat. 1480; Pub. L. 101–510, div. A, title XIII, §1322(a)(3), Nov. 5, 1990, 104 Stat. 1671; Pub. L. 104–106, div. A, title X, §1072(a), (b)(2), (c)(1), Feb. 10, 1996, 110 Stat. 446; Pub. L. 106–65, div. A, title XI, §1108, Oct. 5, 1999, 113 Stat. 778; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(12)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 110–181, div. A, title IX, §954(a)(3)(A), (b)(1), title XI, §1116, Jan. 28, 2008, 122 Stat. 294, 361; Pub. L. 113–66, div. A, title VII, §711, Dec. 26, 2013, 127 Stat. 793; Pub. L. 114–328, div. A, title VII, §724(b), Dec. 23, 2016, 130 Stat. 2230; Pub. L. 116–283, div. A, title VII, §714(a), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3694, 4294.)
 
-#### Amendment of Section
+#### <b>Editorial Notes</b>
 
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### References in Text
+
+Section 2304 of this title, referred to in subsec. (g)(1)(G), was repealed by Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, §1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 #### Amendments
 
-<b>2021</b>—Subsec. (g)(1)(G). Pub. L. 116–283, §1883(b)(2), substituted "4015, and 4008 of this title" for "2361, and 2374 of this title". Amendment directing that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2304", which was redesignated as multiple sections.
+<b>2021</b>—Subsec. (g)(1)(G). Pub. L. 116–283, §1883(b)(2), substituted "4141, and 4024 of this title" for "2361, and 2374 of this title". Amendment directing that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2304", which was redesignated as multiple sections.
 
 Pub. L. 116–283, §714(a), added subpar. (G).
 
@@ -140,6 +142,8 @@ Pub. L. 98–36 added subsec. (j).
 
 <b>1978</b>—Subsec. (b)(3). Pub. L. 95–589 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
@@ -155,4 +159,6 @@ Pub. L. 116–283, div. A, title VII, §714(b), Jan. 1, 2021, 134 Stat. 3694, pr
 #### Transfer of Functions
 
 Pub. L. 101–511, title VIII, §8091, Nov. 5, 1990, 104 Stat. 1896, provided that: "Notwithstanding any other provision of law, all authority of the Board of Regents of the Uniformed Services University of the Health Sciences is hereby transferred to the Secretary of Defense, and the Board hereafter shall be an advisory board to the Secretary of Defense."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

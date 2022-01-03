@@ -38,6 +38,8 @@ There are authorized to be appropriated $25,000,000 for each of the fiscal years
 
 (Pub. L. 89–272, title II, §4009, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2819; amended Pub. L. 96–482, §31(e), Oct. 21, 1980, 94 Stat. 2353; Pub. L. 110–234, title VI, §6009(b), May 22, 2008, 122 Stat. 1163; Pub. L. 110–246, §4(a), title VI, §6009(b), June 18, 2008, 122 Stat. 1664, 1924.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
@@ -54,9 +56,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–482 authorized appropriation of $10,000,000, $15,000,000, and $15,000,000 for fiscal years 1980, 1981, 1982, respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

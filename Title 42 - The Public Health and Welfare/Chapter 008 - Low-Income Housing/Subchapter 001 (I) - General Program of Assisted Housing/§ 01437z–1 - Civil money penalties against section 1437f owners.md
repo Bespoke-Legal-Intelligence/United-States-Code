@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) any general partner of a partnership owner of that property; and
 
-&emsp;&emsp;(C) any agent employed to manage the property that has an identity of interestwith the owner or the general partner of a partnership owner of the property.
+&emsp;&emsp;(C) any agent employed to manage the property that has an identity of interest with the owner or the general partner of a partnership owner of the property.
 
 #### (2) Violations
 
@@ -50,7 +50,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If a hearing is not requested before the expiration of the 15-day period beginning on the date on which the notice of opportunity for hearing is received, the imposition of a penalty under subsection (b) shall constitute a final and unappealable determination.
+&emsp;&emsp;If a hearing is not requested before the expiration of the 15-day period beginning onthe date on which the notice of opportunity for hearing is received, the imposition of a penalty under subsection (b) shall constitute a final and unappealable determination.
 
 #### (B) Effect of review
 
@@ -116,7 +116,7 @@ The Secretary may compromise, modify, or remit any civil money penalty which may
 
 #### (2) Exception
 
-&emsp;Notwithstanding any other provision of law, if the mortgage covering the property receiving assistance under section 8 \[42 U.S.C. 1437f\] is neither insured nor formerly insured by the Secretary, the Secretary shall make all civil money penalties collected under this section available for use by the appropriate officewithin the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary.
+&emsp;Notwithstanding any other provision of law, if the mortgage covering the property receiving assistance under section 8 \[42 U.S.C. 1437f\] is neither insured nor formerly insured by the Secretary, the Secretary shall make all civil money penalties collected under this section available for use by the appropriate office within the Department for administrative costs related to enforcement of the requirements of the various programs administered by the Secretary.
 
 #### (h) Definitions
 
@@ -133,6 +133,8 @@ In this section—
 &emsp;(2) the term "knowing" means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
 (Sept. 1, 1937, ch. 896, title I, §29, as added Pub. L. 105–65, title V, §562(a)(2), Oct. 27, 1997, 111 Stat. 1416.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -152,7 +154,7 @@ Regulations.—
 
 &emsp;"(A)
 
-In general.—The Secretary shall implement the amendments made by this section \[enacting this section and amending section 1437z of this title\] by regulation issued after notice and opportunity for public comment.
+In general.—The Secretary shall implement the amendments made by this section \[enacting this section and amending section 1437z of this title\] byregulation issued after notice and opportunity for public comment.
 
 &emsp;"(B)
 

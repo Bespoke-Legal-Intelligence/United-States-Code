@@ -20,7 +20,7 @@
 
 (2) This subchapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 
-(d) Nothing in this subchapter shall be interpreted as increasing or decreasing the authorityconferred by sections 11331 and 11332 <sup>1</sup> of title 40 on the Secretary of Commerce or the Director of the Office of Management and Budget.
+(d) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority conferred by sections 11331 and 11332 <sup>1</sup> of title 40 on the Secretary of Commerce or the Director of the Office of Management and Budget.
 
 (e) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority of the President, the Office of Management and Budget or the Director thereof, under the laws of the United States, with respect to the substantive policies and programs of departments, agencies and offices, including the substantive authority of any Federal agency to enforce the civil rights laws.
 

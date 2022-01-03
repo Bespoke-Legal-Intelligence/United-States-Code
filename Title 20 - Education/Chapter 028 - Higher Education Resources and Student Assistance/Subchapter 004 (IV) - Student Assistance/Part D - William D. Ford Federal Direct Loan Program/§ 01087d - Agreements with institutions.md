@@ -8,7 +8,7 @@ An agreement with any institution of higher education for participation in the d
 
 &emsp;&emsp;(A) identify eligible students who seek student financial assistance at such institution in accordance with section 1091 of this title;
 
-&emsp;&emsp;(B) estimate the need of each such student as required by part F of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078–8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078–2 of this title (except as otherwise provided in thispart), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
+&emsp;&emsp;(B) estimate the need of each such student as required by part F of this subchapter for an academic year, except that, any loan obtained by a student under this part with the same terms as loans made under section 1078–8 of this title (except as otherwise provided in this part), or a loan obtained by a parent under this part with the same terms as loans made under section 1078–2 of this title (except as otherwise provided in this part), or obtained under any State-sponsored or private loan program, may be used to offset the expected family contribution of the student for that year;
 
 &emsp;&emsp;(C) provide a statement that certifies the eligibility of any student to receive a loan under this part that is not in excess of the annual or aggregate limit applicable to such loan, except that the institution may, in exceptional circumstances identified by the Secretary, refuse to certify a statement that permits a student to receive a loan under this part, or certify a loan amount that is less than the student's determination of need (as determined under part F of this subchapter), if the reason for such action is documented and provided in written form to such student;
 
@@ -52,6 +52,8 @@ The Secretary shall establish procedures by which institutions or consortia may 
 
 <i>Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1)(B) of this section is amended by striking "the expected family contribution" and inserting "the student aid index". See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (a)(1)(B). Pub. L. 116–260 substituted "the student aid index" for "the expected family contribution".
@@ -64,7 +66,9 @@ Subsec. (b)(2). Pub. L. 111–152, §2210(a)(2), substituted "(5), and (6)" for 
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to requirements of agreements for former provisions relating to terms of loans under pilot program.
 
-<b>1987</b>—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows:"The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent."
+<b>1987</b>—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

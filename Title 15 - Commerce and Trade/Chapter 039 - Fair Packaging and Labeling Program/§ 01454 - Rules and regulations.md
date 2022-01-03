@@ -10,7 +10,7 @@ If the promulgating authority specified in this section finds that, because of t
 
 #### (c) Scope of additional regulations
 
-Whenever the promulgating authority determines that regulations containing prohibitionsor requirements other than those prescribed by section 1453 of this title are necessary to prevent the deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
+Whenever the promulgating authority determines that regulations containing prohibitions or requirements other than those prescribed by section 1453 of this title are necessary to prevent the deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
 
 &emsp;(1) establish and define standards for characterization of the size of a package enclosing any consumer commodity, which may be used to supplement the label statement of net quantity of contents of packages containing such commodity, but this paragraph shall not be construed as authorizing any limitation on the size, shape, weight or mass, dimensions, or number of packages which may be used to enclose any commodity;
 
@@ -32,6 +32,8 @@ If (1) after one year after the date on which the Secretary of Commerce first ma
 
 (Pub. L. 89–755, §5, Nov. 3, 1966, 80 Stat. 1298; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–245, title I, §107(a)(1), (2), Feb. 14, 1992, 106 Stat. 13; Pub. L. 102–329, §§1(1), (2), 3, Aug. 3, 1992, 106 Stat. 847, 848.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting "weight or mass" for "weight" in subsec. (c)(1) and "weights or masses" for "weights" in subsec. (d), was repealed by Pub. L. 102–329, §3.
@@ -39,6 +41,8 @@ If (1) after one year after the date on which the Secretary of Commerce first ma
 Subsec. (c)(1). Pub. L. 102–329, §1(1), substituted "weight or mass" for "weight".
 
 Subsec. (d). Pub. L. 102–329, §1(2), substituted "weights or masses" for "weights".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

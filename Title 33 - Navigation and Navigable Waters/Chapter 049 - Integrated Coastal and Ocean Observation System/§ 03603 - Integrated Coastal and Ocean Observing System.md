@@ -52,7 +52,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;The Council shall serve as the policy and coordination oversight body for all aspects of the System. In carrying out its responsibilities under this chapter, the Council shall—
 
-&emsp;&emsp;(A) approve and adopt comprehensive System budgets developed and maintained bythe Interagency Ocean Observation Committee to support System operations, including operations of both Federal and non-Federal assets;
+&emsp;&emsp;(A) approve and adopt comprehensive System budgets developed and maintained by the Interagency Ocean Observation Committee to support System operations, including operations of both Federal and non-Federal assets;
 
 &emsp;&emsp;(B) ensure coordination of the System with other domestic and international earth observing activities including the Global Ocean Observing System and the Global Earth Observing System of Systems, and provide, as appropriate, support for and representation on United States delegations to international meetings on coastal and ocean observing programs; and
 
@@ -100,7 +100,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 &emsp;&emsp;&emsp;&emsp;(I) review the System Plan; and
 
-&emsp;&emsp;&emsp;&emsp;(II) submit to the Council such recommendations as the Interagency Ocean Observation Committee may have for improvements to the System Plan;
+&emsp;&emsp;&emsp;&emsp;(II) submit to the Council such recommendations as the Interagency OceanObservation Committee may have for improvements to the System Plan;
 
 &emsp;&emsp;&emsp;(ix) ensure collaboration among Federal agencies participating in the Interagency Ocean Observation Committee; and
 
@@ -272,7 +272,7 @@ The President, acting through the Council, shall establish a National Integrated
 
 #### (D) Compensation and expenses
 
-&emsp;&emsp;Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowedtravel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
+&emsp;&emsp;Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
 
 #### (E) Expiration
 

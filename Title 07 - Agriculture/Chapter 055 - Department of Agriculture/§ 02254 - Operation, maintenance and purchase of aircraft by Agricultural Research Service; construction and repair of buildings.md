@@ -4,6 +4,8 @@ Appropriations for the Agricultural Research Service shall be available for the 
 
 (Pub. L. 116–260, div. A, title I, Dec. 27, 2020, 134 Stat. 1189.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is from the appropriation act cited as the credit to this section.

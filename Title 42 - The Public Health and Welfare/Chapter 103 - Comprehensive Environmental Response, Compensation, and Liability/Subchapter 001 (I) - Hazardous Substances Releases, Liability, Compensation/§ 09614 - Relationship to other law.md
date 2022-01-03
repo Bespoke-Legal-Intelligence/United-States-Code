@@ -18,7 +18,7 @@ Any person who receives compensation for removal costs or damages or claims purs
 
 &emsp;&emsp;(B) is stored, treated, transported, or otherwise managed in compliance with regulations or standards promulgated pursuant to section 3014 of the Solid Waste Disposal Act \[42 U.S.C. 6935\] and other applicable authorities.
 
-> &emsp;Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of State or Federal law, including common law, for damages, injury, or loss resulting from a release or threatened release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action.
+> &emsp;Nothing in this paragraph shall affect or modify in any way the obligations or liability of any person under any other provision of Stateor Federal law, including common law, for damages, injury, or loss resulting from a release or threatened release of any hazardous substance or for removal or remedial action or the costs of removal or remedial action.
 
 #### (2) Presumption
 
@@ -41,6 +41,8 @@ Any person who receives compensation for removal costs or damages or claims purs
 Except as provided in this subchapter, no owner or operator of a vessel or facility who establishes and maintains evidence of financial responsibility in accordance with this subchapter shall be required under any State or local law, rule, or regulation to establish or maintain any other evidence of financial responsibility in connection with liability for the release of a hazardous substance from such vessel or facility. Evidence of compliance with the financial responsibility requirements of this subchapter shall be accepted by a State in lieu of any other requirement of financial responsibility imposed by such State in connection with liability for the release of a hazardous substance from such vessel or facility.
 
 (Pub. L. 96–510, title I, §114, Dec. 11, 1980, 94 Stat. 2795; Pub. L. 99–499, title I, §114(a), Oct. 17, 1986, 100 Stat. 1652.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

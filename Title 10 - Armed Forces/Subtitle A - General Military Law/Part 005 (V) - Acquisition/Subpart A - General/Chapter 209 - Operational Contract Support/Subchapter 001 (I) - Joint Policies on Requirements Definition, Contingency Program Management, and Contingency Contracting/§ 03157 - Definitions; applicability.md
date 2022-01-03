@@ -20,6 +20,8 @@ Contingency contracting personnel.—The term "contingency contracting personnel
 
 (Added and amended Pub. L. 116–283, div. A, title XVIII, §1810(a), (b)(7), Jan. 1, 2021, 134 Stat. 4162, 4164.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The text of subsec. (f)(1), (2), (5), and (6) of section 2333 of this title, which was transferred to this section and amended by Pub. L. 116–283, §1810(b)(7), was based on Pub. L. 109–364, div. A, title VIII, §854(a)(1), Oct. 17, 2006, 120 Stat. 2343; Pub. L. 110–181, div. A, title VIII, §849(a), Jan. 28, 2008, 122 Stat. 245.
@@ -27,6 +29,8 @@ The text of subsec. (f)(1), (2), (5), and (6) of section 2333 of this title, whi
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1810(b)(7), redesignated pars. (6), (5), (2), and (1) of subsec. (f) of section 2333 of this title as pars. (1) to (4), respectively, of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

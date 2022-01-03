@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make grants to eligible entities for the development and implementation of seminars in American government and civics for elementary and secondary school teachers and other educators who work with minority and Native American students.
+&emsp;The Secretary is authorized to make grants to eligible entities for the development andimplementation of seminars in American government and civics for elementary and secondary school teachers and other educators who work with minority and Native American students.
 
 #### (2) Award rule
 

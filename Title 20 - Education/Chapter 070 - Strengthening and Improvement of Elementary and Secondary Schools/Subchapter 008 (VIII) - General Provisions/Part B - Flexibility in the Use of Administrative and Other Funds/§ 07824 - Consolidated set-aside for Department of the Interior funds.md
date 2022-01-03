@@ -36,6 +36,8 @@ Technical assistance.—The Secretary of Interior and the Secretary shall, eithe
 
 (Pub. L. 89–10, title VIII, §8204, formerly title IX, §9204, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1968; renumbered title VIII, §8204, and amended Pub. L. 114–95, title VIII, §§8001(a)(2), 8007, Dec. 10, 2015, 129 Stat. 2088, 2089, 2100.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
@@ -51,6 +53,8 @@ Subsec. (a)(2)(B). Pub. L. 114–95, §8007(1)(B), added subpar. (B) and struck 
 &emsp;"(ii) be developed in consultation with Indian tribes."
 
 Subsec. (c). Pub. L. 114–95, §8007(2), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

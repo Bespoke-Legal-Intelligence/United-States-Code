@@ -12,9 +12,11 @@ The President shall make the determinations required to be made under subsection
 
 (1) The quantity of any material to be stockpiled under this subchapter, as in effect on September 30, 1987, may be changed only as provided in this subsection or as otherwise provided by law enacted after December 4, 1987.
 
-(2) The President shall notify Congress in writing of any change proposed to be made inthe quantity of any material to be stockpiled. The President may make the change after the end of the 45-day period beginning on the date of the notification. The President shall include a full explanation and justification for the proposed change with the notification.
+(2) The President shall notify Congress in writing of any change proposed to be made in the quantity of any material to be stockpiled. The President may make the change after the end of the 45-day period beginning on the date of the notification. The President shall include a full explanation and justification for the proposed change with the notification.
 
 (June 7, 1939, ch. 190, §3, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 319; amended Pub. L. 100–180, div. C, title II, §3202(a), Dec. 4, 1987, 101 Stat. 1245; Pub. L. 100–456, div. A, title XII, §1233(b)(2), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 102–484, div. C, title XXXIII, §3311, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 104–201, div. C, title XXXIII, §3312(a), Sept. 23, 1996, 110 Stat. 2857.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -43,6 +45,8 @@ Provisions similar to those in this section were contained in former section 98a
 Subsec. (b). Pub. L. 100–180, §3202(a)(2), substituted "the principles stated in section 98a(c) of this title." for "the following principles:" and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
 
 Subsec. (c). Pub. L. 100–180, §3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a), may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

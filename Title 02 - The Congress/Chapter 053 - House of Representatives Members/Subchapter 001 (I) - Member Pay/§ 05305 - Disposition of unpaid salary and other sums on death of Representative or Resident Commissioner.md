@@ -2,7 +2,7 @@
 
 When any individual who has been elected a Member of, or Resident Commissioner to, the House of Representatives dies after the commencement of the Congress to which he has been elected, any unpaid balance of salary and other sums due such individual shall be paid to the person or persons surviving at the date of death, in the following order of precedence, and such payment shall be a bar to the recovery by any other person of amounts so paid:
 
-First, to the beneficiary or beneficiaries designated by such individual in writing to receive such unpaid balance and other sums due filed with the Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer prior to such individual's death;
+First, to the beneficiary or beneficiaries designated by such individual in writing to receivesuch unpaid balance and other sums due filed with the Chief Administrative Officer of the House of Representatives and received by the Chief Administrative Officer prior to such individual's death;
 
 Second, if there be no such beneficiary, to the widow or widower of such individual;
 

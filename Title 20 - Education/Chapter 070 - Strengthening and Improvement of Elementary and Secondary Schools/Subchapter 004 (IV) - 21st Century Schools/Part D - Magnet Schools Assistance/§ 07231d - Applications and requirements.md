@@ -10,7 +10,7 @@ Each application submitted under subsection (a) shall include—
 
 &emsp;(1) a description of—
 
-&emsp;&emsp;(A) how a grant awarded under this part will be used to promote desegregation, including any available evidence on, or if suchevidence is not available, a rationale, based on current research, for how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
+&emsp;&emsp;(A) how a grant awarded under this part will be used to promote desegregation, including any available evidence on, or if such evidence is not available, a rationale, based on current research, for how the proposed magnet school programs will increase interaction among students of different social, economic, ethnic, and racial backgrounds;
 
 &emsp;&emsp;(B) the manner and extent to which the magnet school program will increase student academic achievement in the instructional area or areas offered by the school, including any evidence, or if such evidence is not available, a rationale based on current research findings, to support such description;
 
@@ -46,9 +46,11 @@ Each application submitted under subsection (a) shall include—
 
 #### (c) Special rule
 
-No grant shall be awarded under this part unless the Assistant Secretary of Education for Civil Rights determines that the assurances described in subsection (b)(2)(C) will be met.
+No grant shall be awarded under this part unless the Assistant Secretary of Education forCivil Rights determines that the assurances described in subsection (b)(2)(C) will be met.
 
 (Pub. L. 89–10, title IV, §4405, formerly title V, §5305, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1808; renumbered title IV, §4405, and amended Pub. L. 114–95, title IV, §§4001(b)(3)(A), (B), (D)(i), 4401(2), Dec. 10, 2015, 129 Stat. 1967, 2014.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -65,6 +67,8 @@ Subsec. (b)(1)(D) to (F). Pub. L. 114–95, §4401(2)(A)(iii), (iv), added subpa
 Subsec. (b)(2)(A). Pub. L. 114–95, §4401(2)(B)(i), made technical amendment to reference in original act which appears in text as reference to section 7231(b) of this title.
 
 Subsec. (b)(2)(B). Pub. L. 114–95, §4401(2)(B)(ii), substituted "effective" for "highly qualified".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

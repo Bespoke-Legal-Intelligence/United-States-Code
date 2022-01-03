@@ -20,11 +20,15 @@ Commissioned officers of the Army, Navy, and Air Force may be detailed for duty 
 
 (Added Pub. L. 90–235, §4(a)(1)(A), Jan. 2, 1968, 81 Stat. 759; amended Pub. L. 90–329, June 4, 1968, 82 Stat. 170; Pub. L. 96–513, title V, §511(21), Dec. 12, 1980, 94 Stat. 2921.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Pub. L. 96–513 struck out "(a)" before "Commissioned".
 
 <b>1968</b>—Subsec. (a)(1)(A). Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

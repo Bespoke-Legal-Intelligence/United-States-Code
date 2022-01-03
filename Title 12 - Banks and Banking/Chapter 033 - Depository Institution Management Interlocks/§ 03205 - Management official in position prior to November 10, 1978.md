@@ -34,7 +34,7 @@ Pub. L. 100–650, §6, substituted "15 years" for "ten years".
 
 Subsec. (b). Pub. L. 100–650, §6, substituted "15 years" for "ten years".
 
-<b>1981</b>—Pub. L. 97–110 designated existing provisions as subsec. (a), inserted provision that a merger, acquisition, increase in total assets, establishment of one or more offices, or change in management responsibilities shall not constitute changes in circumstances whichwould make such service prohibited by section 3202 or 3203 of this title, and added subsec. (b).
+<b>1981</b>—Pub. L. 97–110 designated existing provisions as subsec. (a), inserted provision that a merger, acquisition, increase in total assets, establishment of one or more offices, or change in management responsibilities shall not constitute changes in circumstances which would make such service prohibited by section 3202 or 3203 of this title, and added subsec. (b).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

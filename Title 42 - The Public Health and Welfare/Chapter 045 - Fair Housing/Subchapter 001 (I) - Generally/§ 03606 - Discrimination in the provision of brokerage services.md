@@ -4,13 +4,17 @@ After December 31, 1968, it shall be unlawful to deny any person access to or me
 
 (Pub. L. 90–284, title VIII, §806, Apr. 11, 1968, 82 Stat. 84; Pub. L. 93–383, title VIII, §808(b)(3), Aug. 22, 1974, 88 Stat. 729; Pub. L. 100–430, §6(b)(1), Sept. 13, 1988, 102 Stat. 1622.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–430 inserted "handicap, familial status," after "sex,".
 
 <b>1974</b>—Pub. L. 93–383 inserted ", sex" after "religion".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub.L. 100–430, set out as a note under section 3601 of this title.
+Amendment by Pub. L. 100–430 effective on 180th day beginning after Sept. 13, 1988, see section 13(a) of Pub. L. 100–430, set out as a note under section 3601 of this title.
 

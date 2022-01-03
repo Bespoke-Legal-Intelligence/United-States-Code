@@ -68,11 +68,13 @@ In this section the term "standing order" means a document prepared by a person 
 
 (July 1, 1944, ch. 373, title V, §545, as added Pub. L. 114–198, title I, §110(a), July 22, 2016, 130 Stat. 709.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 #### Prior Provisions
 
-A prior section 290ee, act July 1, 1944, ch. 373, title V, §545, formerly Pub. L. 92–255, title V, §502, as added Pub. L. 94–237, §12(b)(1), Mar. 19, 1976, 90 Stat. 247, and amended Pub. L. 95–461, §5, Oct. 14, 1978, 92 Stat. 1269; Pub. L. 96–181, §11, Jan. 2, 1980, 93 Stat. 1315; renumbered §524 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(15), 97 Stat. 181; renumbered §545, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; Nov. 4, 1988, Pub. L. 100–607, title VIII, §813(3), 102 Stat. 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §613(3), 102 Stat. 3243; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, which related to technical assistance to State and local agencies by the National Institute on Drug Abuse, was omitted in the general revision of this part by Pub. L. 102–321.
+A prior section 290ee, act July 1, 1944, ch. 373, title V, §545, formerly Pub. L. 92–255, title V, §502, as added Pub. L. 94–237, §12(b)(1), Mar. 19, 1976, 90 Stat. 247, and amended Pub. L. 95–461, §5, Oct. 14, 1978, 92 Stat. 1269; Pub. L. 96–181, §11, Jan. 2, 1980, 93 Stat. 1315; renumbered §524 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(15), 97 Stat. 181; renumbered §545,July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; Nov. 4, 1988, Pub. L. 100–607, title VIII, §813(3), 102 Stat. 3170; Nov. 7, 1988, Pub. L. 100–628, title VI, §613(3), 102 Stat. 3243; Aug. 16, 1989, Pub. L. 101–93, §5(t)(1), 103 Stat. 615, which related to technical assistance to State and local agencies by the National Institute on Drug Abuse, was omitted in the general revision of this part by Pub. L. 102–321.
 

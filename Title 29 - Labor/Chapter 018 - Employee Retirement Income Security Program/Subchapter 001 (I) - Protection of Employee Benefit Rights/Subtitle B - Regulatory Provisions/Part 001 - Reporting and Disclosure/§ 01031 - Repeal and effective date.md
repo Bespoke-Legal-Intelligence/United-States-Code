@@ -20,7 +20,7 @@ employee retirement income security act of 1974".
 
 (b)(1) Except as provided in paragraph (2), this part (including the amendments and repeals made by subsection (a)) shall take effect on January 1, 1975.
 
-(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2)) and the effective date of any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
+(2) In the case of a plan which has a plan year which begins before January 1, 1975, and ends after December 31, 1974, the Secretary may postpone by regulation the effective date of the repeal of any provision of the Welfare and Pension Plans Disclosure Act (and of any amendment made by subsection (a)(2)) and the effective dateof any provision of this part, until the beginning of the first plan year of such plan which begins after January 1, 1975.
 
 (c) The provisions of this subchapter authorizing the Secretary to promulgate regulations shall take effect on September 2, 1974.
 

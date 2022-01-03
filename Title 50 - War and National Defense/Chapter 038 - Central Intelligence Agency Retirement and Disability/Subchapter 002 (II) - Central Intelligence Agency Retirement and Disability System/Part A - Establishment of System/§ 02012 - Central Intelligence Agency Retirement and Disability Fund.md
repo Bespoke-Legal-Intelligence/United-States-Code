@@ -4,6 +4,8 @@ The Director shall maintain the fund in the Treasury known as the "Central Intel
 
 (Pub. L. 88–643, title II, §202, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3201.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in text, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, as amended, which was formerly set out as a note under section 403 of this title. Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
@@ -11,6 +13,8 @@ The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, re
 #### Prior Provisions
 
 A prior section 202 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043, related to establishment and maintenance of the Central Intelligence Agency Retirement and Disability Fund and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

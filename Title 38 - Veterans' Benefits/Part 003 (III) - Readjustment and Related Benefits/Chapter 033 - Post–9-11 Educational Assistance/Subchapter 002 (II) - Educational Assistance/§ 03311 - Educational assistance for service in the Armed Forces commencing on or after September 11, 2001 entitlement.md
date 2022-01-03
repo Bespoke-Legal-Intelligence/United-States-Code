@@ -56,7 +56,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(6) An individual who—
 
-&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 6months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
+&emsp;&emsp;(A) commencing on or after September 11, 2001, serves an aggregate of at least 6 months, but less than 18 months, on active duty in the Armed Forces (excluding service on active duty in entry level and skill training); and
 
 &emsp;&emsp;(B) after completion of service described in subparagraph (A)—
 
@@ -76,7 +76,7 @@ Covered Individuals.—An individual described in this subsection is any individ
 
 &emsp;(8) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on active duty as a member of the Armed Forces.
 
-&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001, dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
+&emsp;(9) An individual who is the child or spouse of a person who, on or after September 11, 2001,dies in line of duty while serving on duty other than active duty as a member of the Armed Forces.
 
 &emsp;(10) An individual who is the child or spouse of a member of the Selected Reserve who dies on or after September 11, 2001, while a member of the Selected Reserve from a service-connected disability.
 
@@ -138,7 +138,7 @@ Limitation.—The entitlement of an individual to assistance under subsection (a
 
 &emsp;(3)
 
-Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe)under which section or chapter to receive educational assistance.
+Election on receipt of certain benefits.—Except as provided in paragraph (4), a surviving spouse entitled to assistance under subsection (a) pursuant to paragraphs (8), (9), and (10) of subsection (b) who is also entitled to educational assistance under chapter 35 of this title may not receive assistance under both this section and such chapter, but shall make an irrevocable election (in such form and manner as the Secretary may prescribe) under which section or chapter to receive educational assistance.
 
 &emsp;(4)
 
@@ -160,7 +160,7 @@ Eligible surviving spouse.—A spouse described in this subparagraph is an indiv
 
 Definition of child.—For purposes of paragraphs (8), (9), and (10) of subsection (b), the term "child" includes a married individual or an individual who is above the age of twenty-three years.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug. 16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938.)
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2359; amended Pub. L. 111–32, title X, §1002(a), June 24, 2009, 123 Stat. 1889; Pub. L. 111–377, title I, §101(b), (c), Jan. 4, 2011, 124 Stat. 4107; Pub. L. 113–146, title VII, §701(a), (b), Aug. 7, 2014, 128 Stat. 1795; Pub. L. 114–315, title IV, §401(b), (c), Dec. 16, 2016, 130 Stat. 1553; Pub. L. 115–48, title I, §§102(a), 105(a), (c)(1), Aug.16, 2017, 131 Stat. 975; Pub. L. 115–232, div. A, title VIII, §809(n)(3), Aug. 13, 2018, 132 Stat. 1844; Pub. L. 116–315, title I, §1002(a), (b)(1), Jan. 5, 2021, 134 Stat. 4938.)
 
 #### <b>Editorial Notes</b>
 
@@ -268,7 +268,7 @@ Applicability.—The Secretary of Veterans Affairs shall begin making payments t
 
 #### Effective Date
 
-Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under section 16163 of Title 10, Armed Forces.
+Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008Amendment note under section 16163 of Title 10, Armed Forces.
 
 #### Construction of Covered Individuals
 

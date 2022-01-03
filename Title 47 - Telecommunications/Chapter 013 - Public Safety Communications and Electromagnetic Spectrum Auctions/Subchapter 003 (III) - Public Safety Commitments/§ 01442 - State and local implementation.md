@@ -8,7 +8,7 @@ The Assistant Secretary, in consultation with the First Responder Network Author
 
 #### (1) In general
 
-&emsp;The Federal share of the cost of any activity carried out using a grant under this section may not exceed 80 percent of the eligible costs of carrying out that activity, as determined by the Assistant Secretary, in consultation with the First Responder Network Authority.
+&emsp;The Federal share of the cost of any activity carried out using a grant under this sectionmay not exceed 80 percent of the eligible costs of carrying out that activity, as determined by the Assistant Secretary, in consultation with the First Responder Network Authority.
 
 #### (2) Waiver
 
@@ -56,7 +56,7 @@ In carrying out the grant program established under this section, the Assistant 
 
 #### (B) State request for proposals
 
-&emsp;&emsp;Not later than 180 days after the date on which a Governor provides notice under subparagraph (A), the Governor shall developand complete requests for proposals for the construction, maintenance, and operation of the radio access network within the State.
+&emsp;&emsp;Not later than 180 days after the date on which a Governor provides notice under subparagraph (A), the Governor shall develop and complete requests for proposals for the construction, maintenance, and operation of the radio access network within the State.
 
 #### (C) Submission and approval of alternative plan
 

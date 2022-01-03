@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) to hire, assign, direct, layoff, and retain employees in the agency, or to suspend, remove, reduce in grade or pay, or take other disciplinary action against such employees;
 
-&emsp;&emsp;(B) to assign work, to make determinations with respect to contracting out, and todetermine the personnel by which agency operations shall be conducted;
+&emsp;&emsp;(B) to assign work, to make determinations with respect to contracting out, and to determine the personnel by which agency operations shall be conducted;
 
 &emsp;&emsp;(C) with respect to filling positions, to make selections for appointments from—
 

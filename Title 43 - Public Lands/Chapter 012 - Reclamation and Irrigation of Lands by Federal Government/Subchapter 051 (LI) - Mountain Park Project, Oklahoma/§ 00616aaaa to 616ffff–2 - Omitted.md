@@ -12,7 +12,7 @@ Section 616cccc, Pub. L. 90–503, §3, Sept. 21, 1968, 82 Stat. 854, related to
 
 Section 616dddd, Pub. L. 90–503, §4, Sept. 21, 1968, 82 Stat. 854, related to soil survey and land classification.
 
-Section 616eeee, Pub. L. 90–503, §5, Sept. 21, 1968, 82 Stat. 854, related to conservation and development offish and wildlife and enhancement of recreational opportunities in connection with this project.
+Section 616eeee, Pub. L. 90–503, §5, Sept. 21, 1968, 82 Stat. 854, related to conservation and development of fish and wildlife and enhancement of recreational opportunities in connection with this project.
 
 Section 616ffff, Pub. L. 90–503, §6, Sept. 21, 1968, 82 Stat. 854, authorized appropriations for this project.
 

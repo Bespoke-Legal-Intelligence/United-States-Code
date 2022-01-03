@@ -82,7 +82,7 @@ As used in this chapter—
 
 #### (b) Data basis for definitions; reflection of technical changes or modifications
 
-Where appropriate, the definitions in subsection (a) shall be based, with respect to anyfiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
+Where appropriate, the definitions in subsection (a) shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
 
 #### (c) Designation of public agencies for undertaking a program or project
 
@@ -176,7 +176,7 @@ Exceptions.—
 
 &emsp;"(A)
 
-Rescue squads and ambulance crews.—For a member of a rescue squad or ambulance crew (as defined in section 1204(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[34 U.S.C. 10284(7)\], as amended by this section), the amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) \[now 34 U.S.C. 10284\] by this Act shall apply to injuries sustained on or after June 1, 2009.
+Rescue squads and ambulance crews.—For a member of a rescue squad or ambulance crew (as defined in section 1204(7) \[now 1204(10)\] of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[34 U.S.C. 10284(10)\], as amended by this section), the amendments made to section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (42 U.S.C. 3796b) \[now 34 U.S.C. 10284\] by this Act shall apply to injuries sustained on or after June 1, 2009.
 
 &emsp;"(B)
 

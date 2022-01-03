@@ -1,8 +1,10 @@
 ### §7263. Exemption
 
-Nothing in section 401, 402, or 404, the amendments made by those sections, or the rules ofthe Commission under those sections shall apply to any investment company registered under section 80a–8 of this title.
+Nothing in section 401, 402, or 404, the amendments made by those sections, or the rules of the Commission under those sections shall apply to any investment company registered under section 80a–8 of this title.
 
 (Pub. L. 107–204, title IV, §405, July 30, 2002, 116 Stat. 789.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

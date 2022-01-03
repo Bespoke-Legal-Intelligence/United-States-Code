@@ -20,7 +20,7 @@ For purposes of this section:
 
 (B) The custodian may prepare such copies of the documentary material, written reports or answers to questions, and transcripts of oral testimony, and may make tangible things available, as may be required for official use by any duly authorized officer or employee of the Commission under regulations which shall be promulgated by the Commission. Notwithstanding subparagraph (C), such material, things, and transcripts may be used by any such officer or employee in connection with the taking of oral testimony under this section.
 
-(C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owneror provider of any such information of a request for information designated as confidential by the owner or provider.
+(C) Except as otherwise provided in this section, while in the possession of the custodian, no documentary material, tangible things, reports or answers to questions, and transcripts of oral testimony shall be available for examination by any individual other than a duly authorized officer or employee of the Commission without the consent of the person who produced the material, things, or transcripts. Nothing in this section is intended to prevent disclosure to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider.
 
 (D) While in the possession of the custodian and under such reasonable terms and conditions as the Commission shall prescribe—
 
@@ -36,7 +36,7 @@ For purposes of this section:
 
 &emsp;(B) no proceeding in which the material may be used has been commenced within a reasonable time after completion of the examination and analysis of all such material and other information assembled in the course of the investigation;
 
-> then the custodian shall, upon written request of the person who produced the material, return to the person any such material which has not been received into the record of any such proceeding (other than copies of such material made by the custodian pursuant to paragraph (3)(B)).
+> then the custodian shall, upon written request of the person who produced the material, return to the person any such material which has not been received into the record of any such proceeding (other than copies of such materialmade by the custodian pursuant to paragraph (3)(B)).
 
 (6) The custodian of any documentary material, written reports or answers to questions, and transcripts of oral testimony may deliver to any officers or employees of appropriate Federal law enforcement agencies, in response to a written request, copies of such material for use in connection with an investigation or proceeding under the jurisdiction of any such agency. The custodian of any tangible things may make such things available for inspection to such persons on the same basis. Such materials shall not be made available to any such agency until the custodian receives certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes. Such documentary material, results of inspections of tangible things, written reports or answers to questions, and transcripts of oral testimony may be used by any officer or employee of such agency only in such manner and subject to such conditions as apply to the Commission under this section. The custodian may make such materials available to any State law enforcement agency upon the prior certification of any officer of such agency that such information will be maintained in confidence and will be used only for official law enforcement purposes. The custodian may make such material available to any foreign law enforcement agency upon the prior certification of an appropriate official of any such foreign law enforcement agency, either by a prior agreement or memorandum of understanding with the Commission or by other written certification, that such material will be maintained in confidence and will be used only for official law enforcement purposes, if—
 
@@ -70,7 +70,7 @@ For purposes of this section:
 
 (2) If the Commission determines that a document marked confidential by the person supplying it may be disclosed because it is not a trade secret or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, then the Commission shall notify such person in writing that the Commission intends to disclose the document at a date not less than 10 days after the date of receipt of notification.
 
-(3) Any person receiving such notification may, if he believes disclosure of the document would cause disclosure of a trade secret, or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, before the date set for release of the document, bring an action in the district court of the United States for the district within which the documents are located or in the United States District Court for the District of Columbia to restrain disclosure of the document. Any person receiving such notification may file with the appropriate district court or court of appeals of the United States, as appropriate, an application for a stay of disclosure. The documents shall not be disclosed until the court has ruled on the application for a stay.
+(3) Any person receiving such notification may, if he believes disclosure of the document would cause disclosure of a trade secret, or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section46(f) of this title, before the date set for release of the document, bring an action in the district court of the United States for the district within which the documents are located or in the United States District Court for the District of Columbia to restrain disclosure of the document. Any person receiving such notification may file with the appropriate district court or court of appeals of the United States, as appropriate, an application for a stay of disclosure. The documents shall not be disclosed until the court has ruled on the application for a stay.
 
 #### (d) Particular disclosures allowed
 
@@ -118,6 +118,8 @@ Nothing in this section shall supersede any statutory provision which expressly 
 
 <i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 552(e) of title 5, referred to in subsec. (a)(2), was redesignated section 552(f) of Title 5, Government Organization and Employees, by section 1802(b) of Pub. L. 99–570.
@@ -151,6 +153,8 @@ Subsec. (b)(4), (5). Pub. L. 103–312, §8(5), (6), inserted "tangible things,"
 Subsec. (b)(6). Pub. L. 103–312, §8(7), inserted "The custodian of any tangible things may make such things available for inspection to such persons on the same basis." after first sentence, and "results of inspections of tangible things," after "Such documentary material,".
 
 Subsec. (b)(7). Pub. L. 103–312, §8(8), inserted "tangible things," after "documentary material,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2006 Amendment
 

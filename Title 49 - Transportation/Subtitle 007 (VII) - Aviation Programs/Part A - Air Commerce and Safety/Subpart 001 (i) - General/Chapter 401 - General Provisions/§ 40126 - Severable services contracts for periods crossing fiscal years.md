@@ -10,6 +10,8 @@ Obligation of Funds.—Funds made available for a fiscal year may be obligated f
 
 (Added Pub. L. 106–181, title VII, §705(a), Apr. 5, 2000, 114 Stat. 157.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under section 106 of this title.

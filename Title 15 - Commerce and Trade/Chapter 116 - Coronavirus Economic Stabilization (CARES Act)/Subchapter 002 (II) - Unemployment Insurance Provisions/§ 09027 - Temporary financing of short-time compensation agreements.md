@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Any agreement under this section shall provide that the State agency of the State will make payments of short-time compensation under a plan approved by the State. Such plan shall provide that payments are made in accordance with the requirements under section 3306(v) of title 26.
+&emsp;Any agreement under this section shall provide that the State agency of the State willmake payments of short-time compensation under a plan approved by the State. Such plan shall provide that payments are made in accordance with the requirements under section 3306(v) of title 26.
 
 #### (2) Limitations on plans
 
@@ -42,7 +42,7 @@
 
 #### (2) Terms of payments
 
-&emsp;Payments made to a State under paragraph (1) shall be payable by way of reimbursementin such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that the Secretary's estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
+&emsp;Payments made to a State under paragraph (1) shall be payable by way of reimbursement in such amounts as the Secretary estimates the State will be entitled to receive under this section for each calendar month, reduced or increased, as the case may be, by any amount by which the Secretary finds that the Secretary's estimates for any prior calendar month were greater or less than the amounts which should have been paid to the State. Such estimates may be made on the basis of such statistical, sampling, or other method as may be agreed upon by the Secretary and the State agency of the State involved.
 
 #### (3) Funding
 
@@ -58,7 +58,7 @@ An agreement entered into under this section shall apply to weeks of unemploymen
 
 &emsp;(1) beginning on or after the date on which such agreement is entered into; and
 
-&emsp;(2) ending on or before March 14, 2021.
+&emsp;(2) ending on or before September 6, 2021.
 
 #### (e) Special rule
 
@@ -80,13 +80,17 @@ In this section:
 
 &emsp;The terms "State", "State agency", and "State law" have the meanings given those terms in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
-(Pub. L. 116–136, div. A, title II, §2109, Mar. 27, 2020, 134 Stat. 329; Pub. L. 116–260, div. N, title II, §208, Dec. 27, 2020, 134 Stat. 1956.)
+(Pub. L. 116–136, div. A, title II, §2109, Mar. 27, 2020, 134 Stat. 329; Pub. L. 116–260, div. N, title II, §208, Dec. 27, 2020, 134 Stat. 1956; Pub. L. 117–2, title IX, §9018, Mar. 11, 2021, 135 Stat. 120.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(2), is section 205 of Pub. L. 91–373, which is set out in a note under section 3304 of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(2). Pub. L. 117–2 substituted "September 6, 2021" for "March 14, 2021".
 
 <b>2020</b>—Subsec. (d)(2). Pub. L. 116–260 substituted "March 14, 2021" for "December 31, 2020".
 

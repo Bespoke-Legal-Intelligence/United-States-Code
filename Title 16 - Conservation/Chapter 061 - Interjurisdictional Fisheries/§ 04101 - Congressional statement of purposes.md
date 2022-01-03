@@ -10,6 +10,8 @@ The purposes of this chapter are—
 
 (Pub. L. 99–659, title III, §302, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 107–372, title III, §302(b), Dec. 19, 2002, 116 Stat. 3095.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
@@ -18,11 +20,13 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 <b>2002</b>—Par. (3). Pub. L. 107–372 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 99–659, title III, §310, Nov. 14, 1986, 100 Stat. 3736, provided that: "This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] takes effect October 1, 1987."
+Pub. L. 99–659, title III, §310, Nov. 14, 1986, 100 Stat. 3736, provided that: "This title \[enacting this chapterand repealing chapter 10D (§779 et seq.) of this title\] takes effect October 1, 1987."
 
 #### Short Title
 
-Pub. L. 99–659, title III, §301, Nov. 14, 1986, 100 Stat. 3731, provided that: "This title \[enacting this chapterand repealing chapter 10D (§779 et seq.) of this title\] may be cited as the 'Interjurisdictional Fisheries Act of 1986'."
+Pub. L. 99–659, title III, §301, Nov. 14, 1986, 100 Stat. 3731, provided that: "This title \[enacting this chapter and repealing chapter 10D (§779 et seq.) of this title\] may be cited as the 'Interjurisdictional Fisheries Act of 1986'."
 

@@ -4,7 +4,7 @@
 
 No accrediting agency or association may be determined by the Secretary to be a reliable authority as to the quality of education or training offered for the purposes of this chapter or for other Federal purposes, unless the agency or association meets criteria established by the Secretary pursuant to this section. The Secretary shall, after notice and opportunity for a hearing, establish criteria for such determinations. Such criteria shall include an appropriate measure or measures of student achievement. Such criteria shall require that—
 
-&emsp;(1) the accrediting agency or association shall be a State, regional, or national agencyor association and shall demonstrate the ability and the experience to operate as an accrediting agency or association within the State, region, or nationally, as appropriate;
+&emsp;(1) the accrediting agency or association shall be a State, regional, or national agency or association and shall demonstrate the ability and the experience to operate as an accrediting agency or association within the State, region, or nationally, as appropriate;
 
 &emsp;(2) such agency or association—
 
@@ -234,6 +234,8 @@ The Secretary shall require a review, at the next available meeting of the Natio
 
 (Pub. L. 89–329, title IV, §496, as added Pub. L. 102–325, title IV, §499, July 23, 1992, 106 Stat. 641; amended Pub. L. 103–208, §2(i)(3)–(8), Dec. 20, 1993, 107 Stat. 2478, 2479; Pub. L. 105–244, title I, §102(b)(5), title IV, §492(a)(2)–(d), Oct. 7, 1998, 112 Stat. 1622, 1759, 1760; Pub. L. 110–315, title IV, §495, Aug. 14, 2008, 122 Stat. 3324; Pub. L. 111–39, title IV, §408(1), July 1, 2009, 123 Stat. 1953.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (a)(6)(G). Pub. L. 111–39 substituted semicolon for period at end.
@@ -294,7 +296,7 @@ Subsec. (a)(8). Pub. L. 105–244, §492(b)(6), substituted "State licensing or 
 
 Subsec. (c). Pub. L. 105–244, §492(c)(1), substituted "recognized by the Secretary" for "approved by the Secretary" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–244, §492(c)(2), substituted "(which may include unannounced site visits)" for "(at least one of which inspections at each institution thatprovides vocational education and training shall be unannounced),".
+Subsec. (c)(1). Pub. L. 105–244, §492(c)(2), substituted "(which may include unannounced site visits)" for "(at least one of which inspections at each institution that provides vocational education and training shall be unannounced),".
 
 Subsec. (d). Pub. L. 105–244, §492(d)(1), substituted "recognition" for "approval" in heading and "recognized" for "approved" in text.
 
@@ -327,6 +329,8 @@ Subsec. (c). Pub. L. 103–208, §2(i)(6), substituted "as a reliable authority 
 Subsec. (l)(2). Pub. L. 103–208, §2(i)(7), substituted "institution" for "institutution" and "association, described in paragraph (2)(A)(i), (2)(B), or (2)(C) of subsection (a) of this section, leading to the suspension" for "association leading to the suspension".
 
 Subsec. (n)(1)(B). Pub. L. 103–208, §2(i)(8), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "site visits at both the accrediting agency or association and member institutions, including unannounced visits where appropriate."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

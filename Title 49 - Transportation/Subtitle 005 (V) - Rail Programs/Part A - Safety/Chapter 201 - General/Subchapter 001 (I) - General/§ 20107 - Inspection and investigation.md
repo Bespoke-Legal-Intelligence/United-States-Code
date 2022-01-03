@@ -10,7 +10,7 @@ General.—To carry out this part, the Secretary of Transportation may take acti
 
 (b)
 
-Entry and Inspection.—In carrying out this part, an officer, employee, or agent of the Secretary, at reasonable times and in a reasonable way, may enter and inspect railroad equipment, facilities, rolling stock, operations, and relevant records. When requested, the officer, employee, or agent shall display proper credentials. During an inspection, the officer, employee, or agent is an employee of the United States Government under chapter 171 of title 28.
+Entry and Inspection.—In carrying out this part, an officer, employee, or agent of the Secretary, at reasonable times and in a reasonable way, may enter and inspect railroad equipment, facilities, rolling stock, operations, and relevant records. When requested, the officer,employee, or agent shall display proper credentials. During an inspection, the officer, employee, or agent is an employee of the United States Government under chapter 171 of title 28.
 
 (c)
 
@@ -56,7 +56,7 @@ Use of information.—(A) Information obtained through activities authorized by 
 
 &emsp;(4)
 
-Application with other law.—Section 705 of the Communications Act of 1934 (47U.S.C. 605) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
+Application with other law.—Section 705 of the Communications Act of 1934 (47 U.S.C. 605) and chapter 119 of title 18 shall not apply to conduct authorized by and pursuant to this subsection.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 866; Pub. L. 110–432, div. A, title III, §306, Oct. 16, 2008, 122 Stat. 4880.)
 
@@ -91,6 +91,8 @@ Oct. 16, 1970, Pub. L. 91–458, §208(b), 84 Stat. 975; restated Nov. 2, 1978, 
 In subsection (a), before clause (1), the words "To carry out this part, the Secretary of Transportation may" are substituted for "In carrying out his functions under this subchapter, the Secretary is authorized to perform . . . to carry out the provisions of this subchapter" and "In carrying out the functions formerly vested in the Interstate Commerce Commission and transferred to the Secretary by section 1655(e)(1), (e)(2), and (e)(6)(A) of title 49, Appendix, the Secretary is authorized to perform any act authorized in subsection (a) of this section . . . to carry out such transferred functions" to eliminate unnecessary words. In clause (2), the word "entity" is substituted for "bodies" for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), the words "In carrying out this part" are substituted for "To carry out the Secretary's responsibilities under this subchapter and under the functions transferred by section 1655(e)(1), (e)(2), and (e)(6)(A) of title 49, Appendix" to eliminate unnecessary words. The word "way" is substituted for "manner" for consistency in the revised title and with other titles of the Code. The word "examine" is omitted as being included in "inspect". The word "considered" is omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

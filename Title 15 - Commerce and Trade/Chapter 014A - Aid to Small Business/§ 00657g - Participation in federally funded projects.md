@@ -4,9 +4,13 @@ Any small business concern that is certified, or otherwise meets the criteria fo
 
 (Pub. L. 108–447, div. K, title I, §155, Dec. 8, 2004, 118 Stat. 3458.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of 2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notice Regarding Participation of Small Business Concerns
 

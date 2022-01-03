@@ -60,5 +60,5 @@ Prohibition.—Except as provided in section 3641, no product that involves the 
 
 #### Effective Date
 
-Section applicable with respect to rates for mail sent after Sept. 30, 1993, see section 704(c)(1) of Pub. L. 103–123, set out as an Effective Date of 1993 Amendment note under section 3626 of this title.
+Section applicable with respect to rates for mail sent after Sept. 30, 1993, see section 704(c)(1) of Pub. L.103–123, set out as an Effective Date of 1993 Amendment note under section 3626 of this title.
 

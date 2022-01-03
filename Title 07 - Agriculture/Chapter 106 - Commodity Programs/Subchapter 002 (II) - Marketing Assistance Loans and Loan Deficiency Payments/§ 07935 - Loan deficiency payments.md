@@ -8,7 +8,7 @@
 
 #### (2) Unshorn pelts, hay, and silage
 
-&emsp;Nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 7931 of this title. However, effective for the 2002 through 2007 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshornpelts or hay and silage derived from a loan commodity.
+&emsp;Nongraded wool in the form of unshorn pelts and hay and silage derived from a loan commodity are not eligible for a marketing assistance loan under section 7931 of this title. However, effective for the 2002 through 2007 crop years, the Secretary may make loan deficiency payments available under this section to producers on a farm that produce unshorn pelts or hay and silage derived from a loan commodity.
 
 #### (b) Computation
 
@@ -61,6 +61,8 @@ The Secretary shall determine the amount of the loan deficiency payment to be ma
 #### (2) Omitted
 
 (Pub. L. 107–171, title I, §1205, May 13, 2002, 116 Stat. 158.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

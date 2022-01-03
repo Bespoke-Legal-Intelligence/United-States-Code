@@ -12,7 +12,7 @@ Subject to sections 4214(e) and 4215(g) of this title and except as provided in 
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated for fiscal year 1993 and each subsequent fiscal year such sums as may be necessary for the payments from discretionary appropriations described in paragraph (1).
+&emsp;There are authorized to be appropriated for fiscal year 1993 and each subsequent fiscal year such sums as may be necessary for thepayments from discretionary appropriations described in paragraph (1).
 
 #### (c) Definitions
 
@@ -23,6 +23,8 @@ As used in this section—
 &emsp;(2) the term "entitlement" means "spending authority" as defined in section 651(c)(2)(C) <sup>1</sup> of title 2.
 
 (Pub. L. 100–383, title I, §110, as added Pub. L. 101–162, title II, §209(a), Nov. 21, 1989, 103 Stat. 1005; amended Pub. L. 102–371, §7, Sept. 27, 1992, 106 Stat. 1168.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

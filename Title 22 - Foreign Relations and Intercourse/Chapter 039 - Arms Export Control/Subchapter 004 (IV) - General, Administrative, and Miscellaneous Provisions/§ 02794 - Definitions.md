@@ -42,7 +42,7 @@ For purposes of this chapter, the term—
 
 &emsp;(11) "Sales territory" means a country or group of countries to which a defense article or defense service is authorized to be reexported.
 
-(Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, §144, July 21, 1996, 110 Stat. 1434; Pub. L. 107–228, div. B, title XII, §1202(b), title XIV, §1405(a)(4), Sept. 30, 2002, 116 Stat. 1427, 1458; Pub. L. 113–276, title II, §§207, 208(b)(1)(B), Dec. 18, 2014, 128 Stat. 2992, 2993.)
+(Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub.L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, §144, July 21, 1996, 110 Stat. 1434; Pub. L. 107–228, div. B, title XII, §1202(b), title XIV, §1405(a)(4), Sept. 30, 2002, 116 Stat. 1427, 1458; Pub. L. 113–276, title II, §§207, 208(b)(1)(B), Dec. 18, 2014, 128 Stat. 2992, 2993.)
 
 #### <b>Editorial Notes</b>
 

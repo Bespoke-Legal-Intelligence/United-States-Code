@@ -10,6 +10,8 @@ Upon request of the Secretary of the Interior—
 
 (Pub. L. 87–688, §1, Sept. 25, 1962, 76 Stat. 586; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(7)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312; Pub. L. 106–78, title VII, §752(b)(18), Oct. 22, 1999, 113 Stat. 1170.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, as amended, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
@@ -24,7 +26,9 @@ The Hospital Survey and Construction Act, referred to in subsec. (c), is act Aug
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–208 struck out "the Library Services Act," after "the Vocational Education Act of 1946,".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of functions and offices (relating to education) of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education, and termination of certain offices and positions and redesignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441, 3503, and 3508 of Title 20, Education.
+For transfer of functions and offices (relating to education) of Secretary and Department of Health, Education, and Welfare to Secretary and Department ofEducation, and termination of certain offices and positions and redesignation of Secretary of Health, Education, and Welfare as Secretary of Health and Human Services, see sections 3441, 3503, and 3508 of Title 20, Education.
 

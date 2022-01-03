@@ -42,6 +42,8 @@ In subsection (a), the words "Notwithstanding any other provision of law", "whet
 
 In subsection (c), the words "an indemnification contract" are substituted for "coverage" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–440 renumbered section 26102 of this title as this section.

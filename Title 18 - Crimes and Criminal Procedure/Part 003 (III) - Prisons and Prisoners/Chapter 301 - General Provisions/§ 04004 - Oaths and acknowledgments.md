@@ -1,6 +1,6 @@
 ### §4004. Oaths and acknowledgments
 
-The wardens and superintendents, associate wardens and superintendents, chief clerks, and record clerks, of Federal penal or correctional institutions, may administer oaths to and takeacknowledgments of officers, employees, and inmates of such institutions, but shall not demand or accept any fee or compensation therefor.
+The wardens and superintendents, associate wardens and superintendents, chief clerks, and record clerks, of Federal penal or correctional institutions, may administer oaths to and take acknowledgments of officers, employees, and inmates of such institutions, but shall not demand or accept any fee or compensation therefor.
 
 (June 25, 1948, ch. 645, 62 Stat. 848; July 7, 1955, ch. 282, 69 Stat. 282; Pub. L. 98–473, title II, §223(l), Oct. 12, 1984, 98 Stat. 2029.)
 

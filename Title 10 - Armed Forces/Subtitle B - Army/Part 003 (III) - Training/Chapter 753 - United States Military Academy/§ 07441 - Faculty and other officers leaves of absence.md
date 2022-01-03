@@ -20,9 +20,13 @@ R.S. 1330.
 
 The words "under regulations prescribed by the Secretary of the Army" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4341 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

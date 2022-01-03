@@ -2,7 +2,7 @@
 
 The Architect of the Capitol may fix the rate of basic pay for not more than 32 positions at a rate not to exceed the highest total rate of pay for the Senior Executive Service under subchapter VIII of chapter 53 of title 5 for the locality involved.
 
-(Pub. L. 101–520, title I, §108, Nov. 5, 1990, 104 Stat. 2268; Pub. L. 102–90, title I, §104, Aug. 14, 1991, 105 Stat. 459; Pub. L. 105–55, title III, §311(a), (b), Oct. 7, 1997, 111 Stat. 1201; Pub. L. 107–68, title I, §129(c)(1), Nov. 12, 2001, 115 Stat. 580; Pub. L. 107–117, div. B, §914(a), Jan. 10, 2002,115 Stat. 2324; Pub. L. 109–55, title I, §1201(a), Aug. 2, 2005, 119 Stat. 579; Pub. L. 111–316, §1(a), Dec. 18, 2010, 124 Stat. 3452.)
+(Pub. L. 101–520, title I, §108, Nov. 5, 1990, 104 Stat. 2268; Pub. L. 102–90, title I, §104, Aug. 14, 1991, 105 Stat. 459; Pub. L. 105–55, title III, §311(a), (b), Oct. 7, 1997, 111 Stat. 1201; Pub. L. 107–68, title I, §129(c)(1), Nov. 12, 2001, 115 Stat. 580; Pub. L. 107–117, div. B, §914(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 109–55, title I, §1201(a), Aug. 2, 2005, 119 Stat. 579; Pub. L. 111–316, §1(a), Dec. 18, 2010, 124 Stat. 3452.)
 
 #### <b>Editorial Notes</b>
 

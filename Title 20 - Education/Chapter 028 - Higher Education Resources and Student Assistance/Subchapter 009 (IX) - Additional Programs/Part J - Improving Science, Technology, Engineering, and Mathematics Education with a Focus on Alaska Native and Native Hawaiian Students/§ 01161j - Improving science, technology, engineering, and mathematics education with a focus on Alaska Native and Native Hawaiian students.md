@@ -74,13 +74,15 @@ A grant under this section shall be awarded for a period of five years.
 
 #### (h) Evaluation and report
 
-Each eligible partnership that receives a grant under this section shall conduct an evaluationto determine the effectiveness of the programs funded under the grant and shall provide a report regarding the evaluation to the Secretary not later than six months after the end of the grant period.
+Each eligible partnership that receives a grant under this section shall conduct an evaluation to determine the effectiveness of the programs funded under the grant and shall provide a report regarding the evaluation to the Secretary not later than six months after the end of the grant period.
 
 #### (i) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 (Pub. L. 89–329, title VIII, §819, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3402; amended Pub. L. 111–39, title VIII, §801(4), July 1, 2009, 123 Stat. 1955; Pub. L. 114–95, title IX, §9215(oo)(11), Dec. 10, 2015, 129 Stat. 2180.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -89,6 +91,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 Subsec. (b)(4). Pub. L. 114–95, §9215(oo)(11)(B), made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
 
 <b>2009</b>—Subsec. (b)(3). Pub. L. 111–39 inserted period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

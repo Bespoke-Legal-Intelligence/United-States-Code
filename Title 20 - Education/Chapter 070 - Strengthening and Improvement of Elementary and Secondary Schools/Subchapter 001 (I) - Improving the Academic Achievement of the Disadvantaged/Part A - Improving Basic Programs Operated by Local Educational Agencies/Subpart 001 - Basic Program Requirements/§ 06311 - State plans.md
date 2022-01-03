@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) how to meet the needs of disadvantaged students, children with disabilities, and English learners, the needs of low-performing schools, and other educational needs of students;
 
-&emsp;&emsp;&emsp;&emsp;(II) that include, to the extent practicable, majority representation of individuals who, in the most recent 2 years, have had practical experience in the classroom, school administration, orState or local government (such as direct employees of a school, local educational agency, or State educational agency); and
+&emsp;&emsp;&emsp;&emsp;(II) that include, to the extent practicable, majority representation of individuals who, in the most recent 2 years, have had practical experience in the classroom, school administration, or State or local government (such as direct employees of a school, local educational agency, or State educational agency); and
 
 &emsp;&emsp;&emsp;&emsp;(III) who represent a regionally diverse cross-section of States;
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;&emsp;(ix) notwithstanding clause (vii)(III), provide for assessments (using tests in English) of reading or language arts of any student who has attended school in the United States (not including the Commonwealth of Puerto Rico) for 3 or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed 2 additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
-&emsp;&emsp;&emsp;(x) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii), regarding achievement on such assessments that allow parents, teachers, principals, andother school leaders to understand and address the specific academic needs of students, and that are provided to parents, teachers, and school leaders, as soon as is practicable after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
+&emsp;&emsp;&emsp;(x) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii), regarding achievement on such assessments that allow parents, teachers, principals, and other school leaders to understand and address the specific academic needs of students, and that are provided to parents, teachers, and school leaders, as soon as is practicable after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
 &emsp;&emsp;&emsp;(xi) enable results to be disaggregated within each State, local educational agency, and school by—
 
@@ -328,7 +328,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) who are tested based on challenging State academic standards for the grade level in which the student is enrolled; and
 
-&emsp;&emsp;&emsp;&emsp;(VII) does not preclude a student with the most significant cognitive disabilities who takes an alternate assessmentbased on alternate academic achievement standards from attempting to complete the requirements for a regular high school diploma.
+&emsp;&emsp;&emsp;&emsp;(VII) does not preclude a student with the most significant cognitive disabilities who takes an alternate assessment based on alternate academic achievement standards from attempting to complete the requirements for a regular high school diploma.
 
 #### (ii) Special rules
 
@@ -388,7 +388,7 @@
 
 #### (ii) State technical criteria
 
-&emsp;&emsp;&emsp;To allow for State approval of nationally-recognized high school academic assessments that are available for local selection under clause (i), a State educational agency shall establish technicalcriteria to determine if any such assessment meets the requirements of clause (v).
+&emsp;&emsp;&emsp;To allow for State approval of nationally-recognized high school academic assessments that are available for local selection under clause (i), a State educational agency shall establish technical criteria to determine if any such assessment meets the requirements of clause (v).
 
 #### (iii) State approval
 
@@ -454,7 +454,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) as the assessments allowed under subparagraph (D), a State shall ensure that such computer adaptive assessments—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the requirements of this paragraph, including subparagraph (D),except such assessments shall not be required to meet the requirements of clause (i)(II); and
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) meet the requirements of this paragraph, including subparagraph (D), except such assessments shall not be required to meet the requirements of clause (i)(II); and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) assess the student's academic achievement to measure, in the subject being assessed, whether the student is performing at the student's grade level; and
 
@@ -718,7 +718,7 @@
 
 #### (v) Funding for transportation
 
-&emsp;&emsp;&emsp;A local educational agency may spend an amount equal to not more than 5 percent of its allocation under subpart 2 of this part to pay for the provision of transportation for students who transfer under this paragraph to the public schools to which the students transfer.
+&emsp;&emsp;&emsp;A local educational agency may spend an amount equal to not more than 5 percentof its allocation under subpart 2 of this part to pay for the provision of transportation for students who transfer under this paragraph to the public schools to which the students transfer.
 
 #### (2) Targeted support and improvement
 
@@ -760,7 +760,7 @@
 
 &emsp;&emsp;&emsp;(i) establish statewide exit criteria for—
 
-&emsp;&emsp;&emsp;&emsp;(I) schools identified by the State for comprehensive support and improvement under subsection (c)(4)(D)(i), which, if not satisfied within a State-determinednumber of years (not to exceed four years), shall result in more rigorous State-determined action, such as the implementation of interventions (which may include addressing school-level operations); and
+&emsp;&emsp;&emsp;&emsp;(I) schools identified by the State for comprehensive support and improvement under subsection (c)(4)(D)(i), which, if not satisfied within a State-determined number of years (not to exceed four years), shall result in more rigorous State-determined action, such as the implementation of interventions (which may include addressing school-level operations); and
 
 &emsp;&emsp;&emsp;&emsp;(II) schools described in paragraph (2)(C), which, if not satisfied within a State-determined number of years, shall, in the case of such schools receiving assistance under this part, result in identification of the school by the State for comprehensive support and improvement under subsection (c)(4)(D)(i)(III);
 
@@ -886,7 +886,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;(F) how the State educational agency will provide support to local educational agencies in the identification, enrollment, attendance, and school stability of homeless children and youths; and
 
-&emsp;&emsp;(G) such other factors the State educational agency determines appropriate toprovide students an opportunity to achieve the knowledge and skills described in the challenging State academic standards.
+&emsp;&emsp;(G) such other factors the State educational agency determines appropriate to provide students an opportunity to achieve the knowledge and skills described in the challenging State academic standards.
 
 #### (2) Assurances
 
@@ -974,7 +974,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;&emsp;&emsp;(II) the long-term goals and measurements of interim progress for all students and for each of the subgroups of students, as defined in subsection (c)(2);
 
-&emsp;&emsp;&emsp;&emsp;(III) the indicators described in subsection (c)(4)(B) used to meaningfully differentiate all public schools in the State;
+&emsp;&emsp;&emsp;&emsp;(III) the indicators described in subsection (c)(4)(B) used to meaningfullydifferentiate all public schools in the State;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the State's system for meaningfully differentiating all public schools in the State, including—
 
@@ -1070,7 +1070,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;&emsp;The State educational agency shall ensure that each local educational agency collects appropriate data and includes in the local educational agency's annual report the information described in paragraph (1)(C), disaggregated in the same manner as required under such paragraph, except for clause (xii) of such paragraph, as applied to the local educational agency and each school served by the local educational agency, including—
 
-&emsp;&emsp;&emsp;(i) in the case of a local educational agency, information that shows how students served by the local educational agency achieved on the academic assessmentsdescribed in subsection (b)(2) compared to students in the State as a whole;
+&emsp;&emsp;&emsp;(i) in the case of a local educational agency, information that shows how students served by the local educational agency achieved on the academic assessments described in subsection (b)(2) compared to students in the State as a whole;
 
 &emsp;&emsp;&emsp;(ii) in the case of a school, information that shows how the school's students' achievement on the academic assessments described in subsection (b)(2) compared to students served by the local educational agency and the State as a whole; and
 
@@ -1092,7 +1092,7 @@ Nothing in this section shall be construed to alter any State law or regulation 
 
 &emsp;Each State educational agency receiving assistance under this part shall report annually to the Secretary, and make widely available within the State—
 
-&emsp;&emsp;(A) information on the achievement of students on the academic assessments required by subsection (b)(2), including the disaggregated results for the subgroups of students as defined in subsection (c)(2);
+&emsp;&emsp;(A) information on the achievement of students on the academic assessments requiredby subsection (b)(2), including the disaggregated results for the subgroups of students as defined in subsection (c)(2);
 
 &emsp;&emsp;(B) information on the acquisition of English proficiency by English learners;
 
@@ -1152,13 +1152,15 @@ Nothing in this part shall be construed to prescribe the use of the academic ass
 
 (Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985; Pub. L. 108–446, title III, §305(g)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 109–270, §2(f)(1), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1005, Dec. 10, 2015, 129 Stat. 1820; Pub. L. 115–224, title III, §302(1), July 31, 2018, 132 Stat. 1623; Pub. L. 116–92, div. A, title V, §579, Dec. 20, 2019, 133 Stat. 1407.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(B) and (b)(1)(E)(i)(II), (2)(B)(vii)(II), (D)(i)(III), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (a)(1)(B), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(1)(B), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generallyby Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -1199,6 +1201,8 @@ A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this t
 <b>2004</b>—Subsec. (b)(2)(I)(ii). Pub. L. 108–446 substituted "section 612(a)(16)(A)" for "section 612(a)(17)(A)".
 
 <b>2002</b>—Subsec. (c)(2). Pub. L. 107–279 substituted "section 9622(b)(2) of this title" for "section 9010(b)(2) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

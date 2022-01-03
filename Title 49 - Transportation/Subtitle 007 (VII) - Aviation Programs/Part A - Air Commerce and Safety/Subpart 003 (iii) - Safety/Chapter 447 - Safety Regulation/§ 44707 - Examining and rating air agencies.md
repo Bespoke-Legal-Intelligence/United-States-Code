@@ -34,6 +34,8 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 In this section, the word "Administrator" in section 607 (1st sentence) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g). In clauses (1) and (2), the word "overhaul" is omitted as surplus. In clause (1), the words "course of" are omitted as surplus. In clause (3), the words "in his opinion" are omitted as surplus.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Aircraft Repair and Maintenance Advisory Panel
 
 Pub. L. 106–181, title VII, §734, Apr. 5, 2000, 114 Stat. 170, provided that:

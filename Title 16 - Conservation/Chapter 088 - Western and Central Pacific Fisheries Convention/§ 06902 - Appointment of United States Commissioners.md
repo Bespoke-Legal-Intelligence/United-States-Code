@@ -16,7 +16,7 @@ The Secretary of State, in consultation with the Secretary, may designate from t
 
 #### (2) Compensation
 
-&emsp;The United States Commissioners or Alternate Commissioners, although officers of theUnited States while so serving, shall receive no compensation for their services as such Commissioners or Alternate Commissioners.
+&emsp;The United States Commissioners or Alternate Commissioners, although officers of the United States while so serving, shall receive no compensation for their services as such Commissioners or Alternate Commissioners.
 
 #### (3) Travel expenses
 
@@ -81,6 +81,8 @@ For highly migratory species in the Pacific, the Secretary, in coordination with
 &emsp;(4) recommending those domestic fishing regulations that are consistent with the actions of the international fishery organization, for approval and implementation under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.)
 
 (Pub. L. 109–479, title V, §503, Jan. 12, 2007, 120 Stat. 3636; Pub. L. 111–348, title III, §301, Jan. 4, 2011, 124 Stat. 3672; Pub. L. 114–327, title III, §301(a)(1), Dec. 16, 2016, 130 Stat. 1993.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

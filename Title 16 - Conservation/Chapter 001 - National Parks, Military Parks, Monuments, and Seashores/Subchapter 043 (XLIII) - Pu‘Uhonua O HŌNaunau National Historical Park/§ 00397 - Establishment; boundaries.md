@@ -10,7 +10,7 @@ Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 947
 
 Beginning at a one and one-half-inch pipe in concrete monument called "Kalani", at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundary of the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station "Lae-O-Kanoni" being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
 
-1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet along the land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called "Kuwaia", marked K+K at six hundred seventy-three and two-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
+1\. Seventy-nine degrees thirty-three minutes fifteen seconds six hundred and eighty feet alongthe land of Kiilae, L. C. Aw. 8521–B to G. D. Hueu and passing over a rock called "Kuwaia", marked K+K at six hundred seventy-three and two-tenths feet to high-water mark; thence along high-water mark, along seacoast for the next three courses, the direct azimuths and distances between points at seacoast being:
 
 2\. One hundred and thirty-five degrees fifty-one minutes three thousand nine hundred seventy-six and one-tenth feet;
 
@@ -104,6 +104,8 @@ The Secretary of the Interior is authorized to acquire approximately 159 acres o
 
 (July 26, 1955, ch. 385, §1, 69 Stat. 376; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477; Pub. L. 106–510, §3(d)(1), Nov. 13, 2000, 114 Stat. 2364; Pub. L. 107–340, §2, Dec. 16, 2002, 116 Stat. 2889.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–340 designated existing provisions as subsec. (a), substituted "When" for "That, when", and added subsecs. (b) and (c).
@@ -112,6 +114,8 @@ The Secretary of the Interior is authorized to acquire approximately 159 acres o
 
 <b>1978</b>—Pub. L. 95–625 redesignated as "Puuhonua o Honaunau National Historical Park" the Park previously designated "City of Refuge National Historical Park".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: "Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to 'Puuhonua o Honaunau National Historical Park\['\] shall be considered a reference to 'Pu‘uhonua o Hōnaunau National Historical Park'."
@@ -119,6 +123,8 @@ Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: "Any
 #### Short Title of 2002 Amendment
 
 Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: "This Act \[amending this section\] may be cited as the 'Pu‘uhonua o Hōnaunau National Historical Park Addition Act of 2002'."
+
+#### <b>Executive Documents</b>
 
 #### Admission of Hawaii as State
 

@@ -50,7 +50,7 @@ As used in this subchapter:
 
 #### (10) Loss ratio
 
-&emsp;The term "loss ratio" means the ratio of all sums paid by the Corporation as indemnities under any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
+&emsp;The term "loss ratio" means the ratio of all sums paid by the Corporation as indemnitiesunder any eligible crop insurance policy to that portion of the premium designated for anticipated losses and a reasonable reserve, other than that portion of the premium designated for operating and administrative expenses.
 
 #### (11) Organic crop
 
@@ -128,7 +128,9 @@ As used in this subchapter:
 
 &emsp;Nothing in this subchapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.) to any transaction conducted on a contract market under that Act by an approved insurance provider to offset the approved insurance provider's risk under a plan or policy of insurance under this subchapter.
 
-(Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Pub. L. 103–354, title I, §102(a), Oct. 13, 1994, 108 Stat. 3180; Pub. L. 106–224, title I, §§122, 141, June 20, 2000, 114 Stat. 377, 389; Pub. L. 110–234, title XII, §§12001, 12033(c)(2)(B), May 22, 2008, 122 Stat. 1371, 1405; Pub. L. 110–246, §4(a), title XII, §§12001, 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133, 2167; Pub. L. 113–79, title XI, §§11001, 11016(a), 11027(a), Feb. 7, 2014, 128 Stat. 954, 963, 977; Pub. L. 115–334, title XI, §11101, title XII, §12306(b)(1), Dec. 20, 2018, 132 Stat. 4919, 4968.)
+(Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Pub. L. 103–354, title I, §102(a), Oct. 13, 1994, 108 Stat. 3180; Pub. L. 106–224, title I, §§122, 141, June 20, 2000, 114 Stat.377, 389; Pub. L. 110–234, title XII, §§12001, 12033(c)(2)(B), May 22, 2008, 122 Stat. 1371, 1405; Pub. L. 110–246, §4(a), title XII, §§12001, 12033(c)(2)(B), June 18, 2008, 122 Stat. 1664, 2133, 2167; Pub. L. 113–79, title XI, §§11001, 11016(a), 11027(a), Feb. 7, 2014, 128 Stat. 954, 963, 977; Pub. L. 115–334, title XI, §11101, title XII, §12306(b)(1), Dec. 20, 2018, 132 Stat. 4919, 4968.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -167,6 +169,8 @@ Subsec. (d). Pub. L. 106–224, §141, added subsec. (d).
 <b>1947</b>—Act Aug. 1, 1947, amended section generally, restating purpose of chapter to improve all agriculture by crop insurance instead of being limited only to wheat.
 
 <b>1941</b>—Act June 21, 1941, substituted "crop" for "wheat-crop" and "agricultural commodities" for "wheat".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

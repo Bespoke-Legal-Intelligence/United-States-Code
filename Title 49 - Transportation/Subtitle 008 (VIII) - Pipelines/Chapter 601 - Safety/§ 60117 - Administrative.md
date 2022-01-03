@@ -218,7 +218,7 @@ Projects to which applicable.—Subparagraph (A) applies to any project that—
 
 &emsp;(2)
 
-Notification.—For any new pipeline facility construction project in which the Secretary will conduct design reviews, the person proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and relatedmaterials at least 120 days prior to the commencement of construction. To the maximum extent practicable, not later than 90 days after receiving such design specifications, construction plans and procedures, and related materials, the Secretary shall provide written comments, feedback, and guidance on the project.
+Notification.—For any new pipeline facility construction project in which the Secretary will conduct design reviews, the person proposing the project shall notify the Secretary and provide the design specifications, construction plans and procedures, and related materials at least 120 days prior to the commencement of construction. To the maximum extent practicable, not later than 90 days after receiving such design specifications, construction plans and procedures, and related materials, the Secretary shall provide written comments, feedback, and guidance on the project.
 
 &emsp;(3)
 
@@ -514,6 +514,8 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 | --- | --- | --- |
 | 60117(i)(2) | 49 App.:1682 (note). | Oct. 24, 1992, Pub. L. 102–508, §304(c), 106 Stat. 3308. |
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the PIPES Act of 2020, referred to in subsec. (b)(3)(B)(i), is the date of enactment of div. R of Pub. L. 116–260, which was approved Dec. 27, 2020.
@@ -555,6 +557,8 @@ Subsec. (b). Pub. L. 104–304, §12(1), (3), substituted "owning" for "transpor
 Subsec. (k). Pub. L. 104–304, §12(2), added subsec. (k).
 
 <b>1994</b>—Subsec. (i). Pub. L. 103–429 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 
@@ -616,7 +620,7 @@ Pub. L. 112–90, §9, Jan. 3, 2012, 125 Stat. 1912, provided that:
 
 "(a)
 
-Revision of Regulations.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall revise regulations issued under sections 191.5 and 195.52 of title 49, Code of Federal Regulations, to establish specific time limits for telephonic or electronic notice of accidentsand incidents involving pipeline facilities to the Secretary and the National Response Center.
+Revision of Regulations.—Not later than 18 months after the date of enactment of this Act \[Jan. 3, 2012\], the Secretary of Transportation shall revise regulations issued under sections 191.5 and 195.52 of title 49, Code of Federal Regulations, to establish specific time limits for telephonic or electronic notice of accidents and incidents involving pipeline facilities to the Secretary and the National Response Center.
 
 "(b)
 

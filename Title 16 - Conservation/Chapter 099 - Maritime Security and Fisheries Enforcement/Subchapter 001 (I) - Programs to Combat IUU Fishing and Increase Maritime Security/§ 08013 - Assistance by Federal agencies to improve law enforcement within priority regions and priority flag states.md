@@ -16,7 +16,7 @@ The officials referred to in subsection (a) shall evaluate opportunities to prov
 
 &emsp;(4) by supporting increased effectiveness and transparency of the fisheries enforcement sectors of the governments of such countries; and
 
-&emsp;(5) by supporting increased outreach to stakeholders in the affected communities askey partners in combating and prosecuting IUU fishing.
+&emsp;(5) by supporting increased outreach to stakeholders in the affected communities as key partners in combating and prosecuting IUU fishing.
 
 #### (c) Implementation of Port State Measures
 

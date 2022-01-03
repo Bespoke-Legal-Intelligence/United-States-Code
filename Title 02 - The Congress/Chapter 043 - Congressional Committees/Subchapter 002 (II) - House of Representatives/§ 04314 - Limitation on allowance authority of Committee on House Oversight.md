@@ -34,7 +34,7 @@ Section is based on House Resolution No. 1372, §1, Ninety-fourth Congress, July
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b)relating to limitations on authority of the Committee on House Administration to fix and adjust allowances.
+<b>1996</b>—Pub. L. 104–186 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to limitations on authority of the Committee on House Administration to fix and adjust allowances.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

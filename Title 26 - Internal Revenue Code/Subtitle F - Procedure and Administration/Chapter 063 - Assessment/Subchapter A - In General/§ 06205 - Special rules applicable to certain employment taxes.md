@@ -24,9 +24,11 @@
 
 #### (b) Underpayments
 
-If less than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of wages or compensation and the underpayment cannot be adjusted under subsection (a) of this section, the amount of the underpayment shall be assessed and collected in such manner and at suchtimes (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
+If less than the correct amount of tax imposed by section 3101, 3111, 3201, 3221, or 3402 is paid or deducted with respect to any payment of wages or compensation and the underpayment cannot be adjusted under subsection (a) of this section, the amount of the underpayment shall be assessed and collected in such manner and at such times (subject to the statute of limitations properly applicable thereto) as the Secretary may by regulations prescribe.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 768; Pub. L. 86–778, title I, §103(r)(1), Sept. 13, 1960, 74 Stat. 940; Pub. L. 89–97, title III, §317(d), July 30, 1965, 79 Stat. 389; Pub. L. 94–455, title XIX, §1906(a)(13), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1825, 1834; Pub. L. 99–272, title XIII, §13205(a)(2)(D), Apr. 7, 1986, 100 Stat. 315.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -42,6 +44,8 @@ Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" af
 
 <b>1960</b>—Subsec. (a)(3). Pub. L. 86–778 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 applicable to services performed after Mar. 31, 1986, see section 13205(d)(1) of Pub. L. 99–272, set out as a note under section 3121 of this title.
@@ -56,5 +60,5 @@ Amendment by Pub. L. 89–97 applicable with respect to services performed after
 
 #### Effective Date of 1960 Amendment
 
-Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, The Public Health and Welfare, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
+Amendment by Pub. L. 86–778 applicable only with respect to (1) service in the employ of the Government of Guam or any political subdivision thereof, or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receives a certification by the Governor of Guam that legislation has been enacted by the Government of Guam expressing its desire to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, The Public Health and Welfare, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, and (2) service in the employ of the Government of American Samoa or any political subdivision thereof or any instrumentality of any one or more of the foregoing wholly owned thereby, which is performed after 1960 and after the calendar quarter in which the Secretary of the Treasury receivesa certification by the Governor of American Samoa that the Government of American Samoa desires to have the insurance system established by title II of the Social Security Act, section 401 et seq. of Title 42, extended to the officers and employees of such Government and such political subdivisions and instrumentalities, see section 103(v)(1) of Pub. L. 86–778, set out as a note under section 402 of Title 42.
 

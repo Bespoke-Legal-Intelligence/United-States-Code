@@ -2,7 +2,7 @@
 
 #### (a) Congressional findings; directives; disavowal of prior approval of legislation
 
-The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and otherdistortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
+The Congress finds that barriers to (and other distortions of) international trade are reducing the growth of foreign markets for the products of United States agriculture, industry, mining, and commerce, diminishing the intended mutual benefits of reciprocal trade concessions, adversely affecting the United States economy, preventing fair and equitable access to supplies, and preventing the development of open and nondiscriminatory trade among nations. The President is urged to take all appropriate and feasible steps within his power (including the full exercise of the rights of the United States under international agreements) to harmonize, reduce, or eliminate such barriers to (and other distortions of) international trade. The President is further urged to utilize the authority granted by subsection (b) to negotiate trade agreements with other countries and instrumentalities providing on a basis of mutuality for the harmonization, reduction, or elimination of such barriers to (and other distortions of) international trade. Nothing in this subsection shall be construed as prior approval of any legislation which may be necessary to implement an agreement concerning barriers to (or other distortions of) international trade.
 
 #### (b) Presidential determinations prerequisite to entry into trade agreements; trade with Israel
 
@@ -52,7 +52,7 @@ Before the President enters into any trade agreement under this section providin
 
 #### (d) Submission to Congress of agreements, drafts of implementing bills, and statements of proposed administrative action
 
-Whenever the President enters into a trade agreement under this section providing for theharmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in section 2191(b) of this title) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e), and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) are complied with and the implementing bill submitted by the President is enacted into law.
+Whenever the President enters into a trade agreement under this section providing for the harmonization, reduction, or elimination of a barrier to (or other distortion of) international trade, he shall submit such agreement, together with a draft of an implementing bill (described in section 2191(b) of this title) and a statement of any administrative action proposed to implement such agreement, to the Congress as provided in subsection (e), and such agreement shall enter into force with respect to the United States only if the provisions of subsection (e) are complied with and the implementing bill submitted by the President is enacted into law.
 
 #### (e) Steps prerequisite to entry into force of trade agreements
 
@@ -92,6 +92,8 @@ For purposes of this section—
 
 (Pub. L. 93–618, title I, §102, Jan. 3, 1975, 88 Stat. 1982; Pub. L. 96–39, title XI, §§1101, 1106(c)(1), July 26, 1979, 93 Stat. 307, 311; Pub. L. 98–573, title III, §307(a), title IV, §401(a)–(c)(1), Oct. 30, 1984, 98 Stat. 3012, 3013–3015; Pub. L. 99–47, §8(b)(1), June 11, 1985, 99 Stat. 84; Pub. L. 99–514, title XVIII, §1887(a)(1), Oct. 22, 1986, 100 Stat. 2923.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
@@ -113,6 +115,8 @@ Subsec. (g)(3). Pub. L. 98–573, §307(a), designated existing provisions as su
 <b>1979</b>—Subsec. (b). Pub. L. 96–39, §1101, substituted "13-year period" for "5-year period".
 
 Subsec. (e)(2). Pub. L. 96–39, §1106(c)(1), substituted "copy of the final legal text of such agreement" for "copy of such agreement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 
@@ -218,7 +222,7 @@ General rule.—The requirements of this subparagraph are that with respect to a
 
 &emsp;&emsp;&emsp;"(ii)
 
-Materials produced in united states.—If the cost or value of materials produced in the customs territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
+Materials produced in united states.—If the cost or value of materials produced in thecustoms territory of the United States is included with respect to an article to which this paragraph applies, an amount not to exceed 15 percent of the appraised value of the article at the time it is entered that is attributable to such United States cost or value may be applied toward determining the percentage referred to in clause (i).
 
 &emsp;"(2)
 
@@ -396,7 +400,7 @@ Report to President.—No later than the date that is 30 days after the date on 
 
 "(d)
 
-Public Notice.—Upon submitting a report to the President under subsection (c), the Commission shall promptly make public such report (with the exceptionof information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
+Public Notice.—Upon submitting a report to the President under subsection (c), the Commission shall promptly make public such report (with the exception of information which the Commission determines to be confidential) and shall cause a summary thereof to be published in the Federal Register.
 
 "(e)
 
@@ -440,7 +444,7 @@ Rate After Termination of Import Relief.—When import relief under this subtitl
 
 &emsp;&emsp;"(A) the rate of duty conforming to the applicable rate set out in the United States Schedule to Annex 2.1; or
 
-&emsp;&emsp;"(B) the rate of duty resulting from the elimination of the tariff in equal annual stages ending on the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
+&emsp;&emsp;"(B) the rate of duty resulting from the elimination of the tariff in equal annual stages endingon the date set out in the United States Schedule to Annex 2.1 for the elimination of the tariff.
 
 #### "SEC. 214. TERMINATION OF RELIEF AUTHORITY.
 
@@ -566,7 +570,7 @@ Termination of the Agreement.—On the date on which the Agreement ceases to be 
 
 #### United States-Canada Free-Trade Agreement Implementation
 
-Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–113, title VI, §602, Jan. 29, 2020, 134 Stat. 78, provided that:
+Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, as amended by Pub. L. 101–207, §1(b), Dec. 7, 1989, 103 Stat. 1833;Pub. L. 101–382, title I, §§103(b), 134(b), Aug. 20, 1990, 104 Stat. 635, 651; Pub. L. 103–182, title I, §107, title III, §308(a), title IV, §413, Dec. 8, 1993, 107 Stat. 2065, 2104, 2147; Pub. L. 104–66, title I, §1021(d), Dec. 21, 1995, 109 Stat. 712; Pub. L. 105–206, title V, §5003(b)(3), July 22, 1998, 112 Stat. 789; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–113, title VI, §602, Jan. 29, 2020, 134 Stat. 78, provided that:
 
 #### "SECTION 1. SHORT TITLE AND TABLE OF CONTENTS.
 
@@ -866,7 +870,7 @@ Definitions.—For purposes of this section:
 
 &emsp;"(3) The term 'direct cost of processing or direct cost of assembling' means the costs directly incurred in, or that can reasonably be allocated to, the production of goods, including—
 
-&emsp;&emsp;"(A) the cost of all labor, including benefits and on-the-job training, labor provided in connection with supervision, quality control, shipping, receiving, storage, packaging, management at the location of the process or assembly, and other like labor, whether provided by employees or independent contractors;
+&emsp;&emsp;"(A) the cost of all labor, including benefits and on-the-job training, labor provided in connection with supervision, quality control, shipping, receiving, storage, packaging, management at the location of the process or assembly, and other likelabor, whether provided by employees or independent contractors;
 
 &emsp;&emsp;"(B) the cost of inspecting and testing the goods;
 
@@ -1140,7 +1144,7 @@ Special Tariff Provisions for Fresh Fruits and Vegetables.—
 
 &emsp;&emsp;&emsp;"(ii) the duty in effect for the fresh fruit or vegetable under column one of such Schedules, or column 1 (General) of the Harmonized System, at the time the temporary duty is applied.
 
-&emsp;"(8)(A) The Secretary shall, to the extent practicable, administer the provisions of this subsectionto the 8-digit level of classification under the Harmonized System.
+&emsp;"(8)(A) The Secretary shall, to the extent practicable, administer the provisions of this subsection to the 8-digit level of classification under the Harmonized System.
 
 &emsp;"(B) The Secretary may issue such regulations as may be necessary to implement the provisions of this subsection.
 
@@ -1202,7 +1206,7 @@ Relief From Imports of Canadian Articles.—
 
 &emsp;"(C) By no later than the date that is 120 days after the date on which an investigation is initiated under subparagraph (A), the Commission shall make a determination under subparagraph (A) with respect to such investigation.
 
-&emsp;"(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found by the Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
+&emsp;"(D) If the determination made by the Commission under subparagraph (A) with respect to imports of an article is affirmative, the Commission shall find and recommend to the President the amount of import relief that is necessary to remedy the injury found bythe Commission in such affirmative determination, which shall be limited to that set forth in paragraph (3)(C).
 
 &emsp;"(E)(i) By no later than the date that is 30 days after the date on which a determination is made under subparagraph (A) with respect to an investigation, the Commission shall submit to the President a report on the determination and the basis for the determination. The report shall include any dissenting or separate views and a transcript of the hearings and any briefs which were submitted to the Commission in the course of the investigation initiated under subparagraph (A).
 
@@ -1484,7 +1488,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;&emsp;&emsp;"(II) a list of individuals who are qualified to serve on extraordinary challenge committees convened under such chapter,
 
-&emsp;&emsp;"(ii) if the Trade Representative makes a request under paragraph (5)(A)(i) with respect to a final candidate list during any calendar year, prepare by July 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list,
+&emsp;&emsp;"(ii) if the Trade Representative makes a request under paragraph (5)(A)(i) with respect to a final candidate list during any calendar year, prepare byJuly 1 of such calendar year a list of those individuals who are qualified to be added to that final candidate list,
 
 &emsp;&emsp;"(iii) exercise oversight of the administration of the United States Secretariat that is authorized to be established under subsection (e), and
 
@@ -1538,7 +1542,7 @@ Appointment of Individuals to Panels and Committees.—
 
 &emsp;"(iv) No additions may be made to the final form of an amendment described in clause (i) after the final form of such amendment is submitted to the appropriate Congressional Committees under clause (i).
 
-&emsp;"(6)(A) The Trade Representative is the only officer of the Government of the United States authorized to act on behalf of the Government of the United States in making any selection or appointment of an individual to—
+&emsp;"(6)(A) The Trade Representative is the only officer of the Government of the United States authorized toact on behalf of the Government of the United States in making any selection or appointment of an individual to—
 
 &emsp;&emsp;"(i) the rosters described in Annex 1901.2(1) and Annex 1904.13(1) of the Agreement, or
 
@@ -1620,7 +1624,7 @@ Panels and Committees.—
 
 &emsp;"(2) The United States Trade Representative is authorized to transfer to any department or agency of the United States, from sums appropriated pursuant to the authorization provided under paragraph (1) or section 141(g)(1) of the Trade Act of 1974 \[19 U.S.C. 2171(g)(1)\], such funds as may be necessary to facilitate the payment of the expenses described in paragraph (1).
 
-&emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept. 28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
+&emsp;"(3) Funds appropriated for the payment of expenses described in paragraph (1) during any fiscal year may be expended only to the extent such funds do not exceed the amount authorized to be appropriated under paragraph (1) for such fiscal year. This paragraph shall apply, notwithstanding any law enacted after the date of enactment of this Act \[Sept.28, 1988\], unless such subsequent law specifically provides that this paragraph shall not apply and specifically cites this paragraph.
 
 &emsp;"(4) If the Canadian Secretariat described in chapter 19 of the Agreement provides funds during any fiscal year for the purpose of paying, in accordance with Annex 1901.2 of the Agreement, the Canadian share of the expenses of binational panels, the United States Secretariat established under section 405(e)(1) may hereafter retain and use such funds for such purposes.
 
@@ -1650,7 +1654,7 @@ Mandamus.—Any court referred to in subsection (b) shall have jurisdiction to i
 
 "(d)
 
-Depositions.—The committee may order testimony to be taken by deposition at any stage of the committee review. Such deposition may be taken before any person designated by the committee and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization or other entity may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify andproduce documentary evidence before the committee, as provided in this section.
+Depositions.—The committee may order testimony to be taken by deposition at any stage of the committee review. Such deposition may be taken before any person designated by the committee and having power to administer oaths. Such testimony shall be reduced to writing by the person taking the deposition, or under the direction of such person, and shall then be subscribed by the deponent. Any individual, partnership, corporation, association, organization or other entity may be compelled to appear and depose and to produce documentary evidence in the same manner as witnesses may be compelled to appear and testify and produce documentary evidence before the committee, as provided in this section.
 
 #### "SEC. 408. REQUESTS FOR REVIEW OF CANADIAN ANTIDUMPING AND COUNTERVAILING DUTY DETERMINATIONS.
 
@@ -2098,7 +2102,7 @@ Pub. L. 98–573, title IV, §§402–405, formerly §§402–404, 406, Oct. 30,
 
 &emsp;"(2) dies, molds, tooling, and depreciation on machinery and equipment which are allocable to the specific merchandise.
 
-> Such phrase does not include costs which are not directly attributable to the merchandise concerned, or are not costs of manufacturing the product, such as (A)profit, and (B) general expenses of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
+> Such phrase does not include costs which are not directly attributable to the merchandise concerned, or are not costs of manufacturing the product, such as (A) profit, and (B) general expenses of doing business which are either not allocable to the specific merchandise or are not related to the growth, production, manufacture, or assembly of the merchandise, such as administrative salaries, casualty and liability insurance, advertising, and salesmen's salaries, commissions or expenses.
 
 "(c)
 
@@ -2124,7 +2128,7 @@ ITC Reports.—In any report by the United States International Trade Commission
 
 #### "SEC. 404. FAST TRACK PROCEDURES FOR PERISHABLE ARTICLES.
 
-"(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with a request that emergency relief be granted under subsection (c) with respect to such article.
+"(a) If a petition is filed with the Commission under the provisions of section 202(a) of the Trade Act of 1974 \[19 U.S.C. 2252(a)\] regarding a perishable product which is subject to any reduction or elimination of a duty imposed by the United States under a trade agreement entered into with Israel under section 102(b)(1) of the Trade Act of 1974 \[19 U.S.C. 2112(b)(1)\] and alleges injury from imports of that product, then the petition may also be filed with the Secretary of Agriculture with arequest that emergency relief be granted under subsection (c) with respect to such article.
 
 "(b) Within 14 days after the filing of a petition under subsection (a)—
 
@@ -2163,6 +2167,8 @@ ITC Reports.—In any report by the United States International Trade Commission
 \[Amendment of sections 403 and 404 of Pub. L. 98–573 by section 1401 of Pub. L. 100–418 effective Aug. 23, 1988, and applicable with respect to investigations initiated under part 1 (§2251 et seq.) of subchapter II of this chapter on or after that date, see section 1401(c) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 2251 of this title.\]
 
 \[The Harmonized Tariff Schedule of the United States is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.\]
+
+#### <b>Executive Documents</b>
 
 #### Presidential Determination Regarding Multilateral Trade Negotiations
 

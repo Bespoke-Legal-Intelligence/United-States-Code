@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(F) a thrift institution;
 
-&emsp;&emsp;(G) a broker or dealer registered with the Securities and Exchange Commission underthe Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
+&emsp;&emsp;(G) a broker or dealer registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.);
 
 &emsp;&emsp;(H) a broker or dealer in securities or commodities;
 
@@ -204,7 +204,7 @@ Subsec. (a)(3)(C). Pub. L. 103–325, §405, added subpar. (C).
 
 <b>1988</b>—Subsec. (a)(2)(T) to (Y). Pub. L. 100–690, §6185(a), added subpars. (T) to (Y) and struck out former subpars. (T) and (U) which read as follows:
 
-"(T) an agency of the United States Government or of a State or local government carrying out a duty orpower of a business described in this clause (2), including the United States Postal Service; or
+"(T) an agency of the United States Government or of a State or local government carrying out a duty or power of a business described in this clause (2), including the United States Postal Service; or
 
 "(U) another business or agency carrying out a similar, related, or substitute duty or power the Secretary of the Treasury prescribes."
 
@@ -247,6 +247,8 @@ Considerations.—Before issuing a proposed rule under paragraph (1), the Secret
 &emsp;"(E) whether certain exemptions should apply to the regulations; and
 
 &emsp;"(F) any other matter the Secretary determines appropriate."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

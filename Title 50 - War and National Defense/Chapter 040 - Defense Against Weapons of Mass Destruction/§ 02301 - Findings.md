@@ -56,6 +56,8 @@ Congress makes the following findings:
 
 (Pub. L. 104–201, div. A, title XIV, §1402, Sept. 23, 1996, 110 Stat. 2715.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided that: "This title \[enacting section 2366 of this title and provisions set out as a note under section 2351 of this title\] may be cited as the 'Combatting Proliferation of Weapons of Mass Destruction Act of 1996'."
@@ -86,7 +88,7 @@ Years.—If an amount contributed under an agreement under subsection (a) is not
 
 "(d)
 
-Notice to Congressional Defense Committees.—Not later than 30 days after the receipt of an amount contributed under subsection (a), the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
+Notice to Congressional Defense Committees.—Not later than 30 days after the receipt of an amount contributed under subsection (a), the Secretary of Energy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a notice specifying the purpose and value of thecontribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.
 
 "(e)
 
@@ -243,6 +245,8 @@ Definition.—In this section, the term 'weapon of mass destruction' has the mea
 \[For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.\]
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13328
 

@@ -4,6 +4,8 @@ The Department of Defense shall select service providers for auditing services b
 
 (Added and amended Pub. L. 115–91, div. A, title X, §1002(g)(1), (2), Dec. 12, 2017, 131 Stat. 1542, §254b; renumbered §240f, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Text of section, as added by Pub. L. 115–91, is based on text of section 892 of Pub. L. 114–328, div. A, title VIII, Dec. 23, 2016, 130 Stat. 2324, which was formerly set out as a note under section 2331 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(g)(3), Dec. 12, 2017, 131 Stat. 1542.
@@ -13,6 +15,8 @@ Text of section, as added by Pub. L. 115–91, is based on text of section 892 o
 <b>2018</b>—Pub. L. 115–232 renumbered section 254b of this title as this section.
 
 <b>2017</b>—Pub. L. 115–91, §1002(g)(2), struck out "and audit readiness services" after "auditing services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notification Requirement for Certain Contracts for Audit Services
 

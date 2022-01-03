@@ -64,7 +64,7 @@ If the partnership—
 
 #### (1) Penalties
 
-&emsp;Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided under section 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
+&emsp;Notwithstanding subsections (a) and (b), any penalties, additions to tax, or additional amount shall be determined as provided undersection 6221 and the partners of the partnership for the reviewed year shall be liable for any such penalty, addition to tax, or additional amount.
 
 #### (2) Interest
 
@@ -81,6 +81,8 @@ If the partnership—
 For the time period within which a partnership may file a petition for a readjustment, see section 6234(a).
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 630; amended Pub. L. 114–113, div. Q, title IV, §411(b)(1), Dec. 18, 2015, 129 Stat. 3122; Pub. L. 115–141, div. U, title II, §§201(c)(4), 204, 206(d), (e), Mar. 23, 2018, 132 Stat. 1173, 1176, 1178.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -111,6 +113,8 @@ Subsec. (b)(4). Pub. L. 115–141, §204(a), added par. (4).
 Subsec. (c)(2). Pub. L. 115–141, §204(b)(2), inserted "or which is described in subsection (b)(4)(A)(ii)(I)," after "is elected," in introductory provisions.
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–113 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

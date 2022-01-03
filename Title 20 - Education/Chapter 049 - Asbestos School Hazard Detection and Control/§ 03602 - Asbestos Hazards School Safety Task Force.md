@@ -56,7 +56,7 @@ The duties of the Task Force shall include—
 
 &emsp;(3) the review of applications for grants and loans under sections 3604 and 3605 of this title, and the submission to the Secretary of recommendations respecting the approval or disapproval of such applications;
 
-&emsp;(4) the review of any guidelines established by the Environmental Protection Agency for identifying those schools in which exposure to asbestos fibers constitutes a health problem and for taking appropriate corrective actions at such schools, in order to determine whether any modifications of such guidelines should be recommended to the Secretary under paragraph (5); and
+&emsp;(4) the review of any guidelines established by the Environmental Protection Agency foridentifying those schools in which exposure to asbestos fibers constitutes a health problem and for taking appropriate corrective actions at such schools, in order to determine whether any modifications of such guidelines should be recommended to the Secretary under paragraph (5); and
 
 &emsp;(5) providing the Secretary with assistance in formulating standards and procedures under section 3606 of this title by—
 
@@ -71,6 +71,8 @@ The duties of the Task Force shall include—
 The Task Force shall cease to exist at the end of the 180-day period beginning on the date that the authority of the Secretary to make loans under section 3605 of this title has expired.
 
 (Pub. L. 96–270, §3, June 14, 1980, 94 Stat. 488.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

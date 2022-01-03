@@ -2,7 +2,7 @@
 
 (a) The Office of Personnel Management, subject to the rules prescribed by the President under this title for the administration of the competitive service, shall prescribe regulations for, control, supervise, and preserve the records of, examinations for the competitive service.
 
-(b) The Office shall prescribe and enforce regulations for the administration of the provisions of this title, and Executive orders issued in furtherance thereof, that implement the Congressional policy that preference shall be given to preference eligibles in certification for appointment, and in appointment, reinstatement, reemployment, and retention, in the competitive service in Executive agencies, permanent or temporary, and in the government of the District of Columbia.
+(b) The Office shall prescribe and enforce regulations for the administration of the provisions of this title, and Executive orders issued in furtherance thereof, that implement the Congressional policy that preference shall be given topreference eligibles in certification for appointment, and in appointment, reinstatement, reemployment, and retention, in the competitive service in Executive agencies, permanent or temporary, and in the government of the District of Columbia.
 
 (c) The Office shall prescribe regulations for the administration of the provisions of this title that implement the Congressional policy that preference shall be given to preference eligibles in certification for appointment, and in appointment, reinstatement, reemployment, and retention, in the excepted service in Executive agencies, permanent or temporary, and in the government of the District of Columbia.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Executive Order No. 10561
 
-Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official personnel folders, was revoked bysection 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
+Ex. Ord. No. 10561, Sept. 13, 1954, 19 F.R. 5963, which related to official personnel folders, was revoked by section 2–201 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out as a note under section 1101 of this title.
 
 #### Executive Order No. 11397
 

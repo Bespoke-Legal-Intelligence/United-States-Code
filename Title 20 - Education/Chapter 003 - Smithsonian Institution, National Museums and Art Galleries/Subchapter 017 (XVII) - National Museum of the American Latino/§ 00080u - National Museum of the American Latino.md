@@ -26,7 +26,7 @@ In this section:
 
 #### (2) Board of trustees
 
-&emsp;The term "Board of Trustees" means the Board of Trustees of the National Museum of the American Latino as established by subsection (d).
+&emsp;The term "Board of Trustees" means the Board of Trustees of the National Museum ofthe American Latino as established by subsection (d).
 
 #### (3) Director
 
@@ -314,7 +314,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) The area bounded by 3rd Street and 1st Street, Northwest and Constitution Avenue and Pennsylvania Avenue, Northwest, as measured from curb to curb, currently under the jurisdiction of the Architect of the Capitol.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(dd) The facility and grounds on the National Mall between 12th and 14th Streets, Southwest, and Jefferson Drive and Independence Avenue, Southwest, currently under the jurisdiction of the Department of Agriculture.
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) The facility and grounds on the National Mall between 12th and 14th Streets, Southwest, and JeffersonDrive and Independence Avenue, Southwest, currently under the jurisdiction of the Department of Agriculture.
 
 #### (iii) Factors considered
 
@@ -376,7 +376,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The Board of Regents shall not designate a site for the Museum that is under the administrative jurisdiction of another Federal agency or entity unless the head of the Federal agency or entity submits to each of the committees described in paragraph (1)(A)(iv)(VIII) written notification statingthat the head of the Federal agency or entity concurs with locating the Museum on the land or in the structure that is under the administrative jurisdiction of the Federal agency or entity.
+&emsp;&emsp;The Board of Regents shall not designate a site for the Museum that is under the administrative jurisdiction of another Federal agency or entity unless the head of the Federal agency or entity submits to each of the committees described in paragraph (1)(A)(iv)(VIII) written notification stating that the head of the Federal agency or entity concurs with locating the Museum on the land or in the structure that is under the administrative jurisdiction of the Federal agency or entity.
 
 #### (B) Transfer
 
@@ -425,6 +425,8 @@ Authority under this section to enter into contracts or to make payments shall b
 &emsp;Amounts appropriated pursuant to the authorization under this subsection may be used to conduct fundraising in support of the Museum from private sources.
 
 (Pub. L. 116–260, div. T, title II, §201, Dec. 27, 2020, 134 Stat. 2278.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

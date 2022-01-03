@@ -16,7 +16,7 @@ The Secretary shall make in each fiscal year a grant to each health system agenc
 
 (1) Except as provided in paragraph (2), the amount of any grant under subsection (a) shall be determined by the Secretary after taking into consideration the population of the health service area for which the health systems agency is designated, the average family income of the area, and the supply of health services in the area.
 
-(2) The amount of any grant under subsection (a) to a health systems agency for any fiscal year may not exceed the product of $1 and the population of the health service area for which such agency is designated.
+(2) The amount of any grant under subsection (a) to a health systems agency for any fiscalyear may not exceed the product of $1 and the population of the health service area for which such agency is designated.
 
 #### (c) Applications; submission and approval as prerequisite; form and contents
 
@@ -27,6 +27,8 @@ No grant may be made under subsection (a) unless an application therefor has bee
 For the purpose of making payments pursuant to grants under subsection (a), there are authorized to be appropriated $25,000,000 for the fiscal year ending June 30, 1975, $75,000,000 for the fiscal year ending June 30, 1976, $120,000,000 each for the fiscal years ending September 30, 1977, and September 30, 1978, $20,000,000 for the fiscal year ending September 30, 1981, and $30,000,000 for the fiscal year ending September 30, 1982.
 
 (July 1, 1944, ch. 373, title XVI, §1640, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2273; amended Pub. L. 95–83, title I, §103(c), Aug. 1, 1977, 91 Stat. 383; Pub. L. 96–79, title I, §127(e), Oct. 4, 1979, 93 Stat. 629.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

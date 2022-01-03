@@ -16,7 +16,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increase of farmers' access to capital at reasonable rates and terms as a result of secondary market operations.
 
-(D) This subsection shall not be interpreted to impede or extinguish the right of the borrower or the successor in interest to such borrower to prepay (in whole or in part) any loan made under this chapter, or to impede or extinguish the rights of any party under any provision of this chapter.
+(D) This subsection shall not be interpreted to impede or extinguish the right of the borroweror the successor in interest to such borrower to prepay (in whole or in part) any loan made under this chapter, or to impede or extinguish the rights of any party under any provision of this chapter.
 
 (2)(A) The Secretary may, directly or through a market maker approved by the Secretary, issue pool certificates representing ownership of part or all of the guaranteed portion of any loan guaranteed by the Secretary under this chapter. Such certificates shall be based on and backed by a pool established or approved by the Secretary and composed solely of the entire guaranteed portion of such loans.
 
@@ -58,6 +58,8 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (Pub. L. 87–128, title III, §338, Aug. 8, 1961, 75 Stat. 316; Pub. L. 89–429, §5, May 24, 1966, 80 Stat. 167; Pub. L. 100–233, title VII, §711(a), Jan. 6, 1988, 101 Stat. 1707; Pub. L. 100–399, title VI, §605, Aug. 17, 1988, 102 Stat. 1006; Pub. L. 101–624, title XXIII, §2303(d), Nov. 28, 1990, 104 Stat. 3981; Pub. L. 104–127, title VII, §749(a), Apr. 4, 1996, 110 Stat. 1129; Pub. L. 105–362, title I, §101(a), Nov. 10, 1998, 112 Stat. 3281.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
@@ -66,7 +68,7 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 
 <b>1998</b>—Subsec. (b)(4), (5). Pub. L. 105–362 redesignated par. (5) as (4) and struck out former par. (4) which provided that not later than March 31 of each year, Secretary was to transmit to Congress a report on secondary market operations under subsec. (b) during preceding calendar year, and described contents of reports.
 
-<b>1996</b>—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to\(e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
+<b>1996</b>—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to (e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624 inserted "or the Rural Development Administration" after "Farmers Home Administration".
 
@@ -75,6 +77,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 Subsec. (f). Pub. L. 100–233 added subsec. (f).
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–429 inserted references to section 8 of the Watershed Protection and Flood Prevention Act, as amended, and section 32(e) of the Bankhead-Jones Farm Tenant Act, as amended.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

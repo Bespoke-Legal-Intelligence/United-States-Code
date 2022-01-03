@@ -12,7 +12,7 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 
 &emsp;&emsp;(A) impede the activities of, take any action against, or apply any provision of law or regulation arbitrarily or discriminatorily to, any insurance producer because that insurance producer or any affiliate plans to become, has applied to become, or is a member of the Association;
 
-&emsp;&emsp;(B) impose any requirement upon a member of the Association that it pay fees different from those required to be paid to thatState were it not a member of the Association; or
+&emsp;&emsp;(B) impose any requirement upon a member of the Association that it pay fees different from those required to be paid to that State were it not a member of the Association; or
 
 &emsp;&emsp;(C) impose any continuing education requirements on any nonresident insurance producer that is a member of the Association.
 
@@ -24,7 +24,7 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 
 &emsp;&emsp;(B) impose any requirement upon a member of the Association that it be licensed, registered, or otherwise qualified to do business or remain in good standing in the State, including any requirement that the insurance producer register as a foreign company with the secretary of state or equivalent State official;
 
-&emsp;&emsp;(C) require that a member of the Association submit to a criminal history record check as a condition of doing business in the State; or
+&emsp;&emsp;(C) require that a member of the Association submit to a criminal history recordcheck as a condition of doing business in the State; or
 
 &emsp;&emsp;(D) impose any licensing, registration, or appointment requirements upon a member of the Association, or require a member of the Association to be authorized to operate as an insurance producer, in order to sell, solicit, or negotiate insurance for commercial property and casualty risks to an insured with risks located in more than one State, if the member is licensed or otherwise authorized to operate in the State where the insured maintains its principal place of business and the contract of insurance insures risks located in that State.
 
@@ -33,6 +33,8 @@ State laws, regulations, provisions, or other actions purporting to regulate ins
 &emsp;Nothing in this section may be construed to prohibit a State from investigating and taking appropriate disciplinary action, including suspension or revocation of authority of an insurance producer to do business in a State, in accordance with State law and that is not inconsistent with the provisions of this section, against a member of the Association as a result of a complaint or for any alleged activity, regardless of whether the activity occurred before or after the insurance producer commenced doing business in the State pursuant to Association membership.
 
 (Pub. L. 106–102, title III, §330, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 25.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

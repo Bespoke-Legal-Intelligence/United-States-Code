@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;In the case of any taxable year of a corporation beginning in 2018 or 2019, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
+&emsp;In the case of any taxable year of a corporation beginning in 2018 or 2019, the limitationunder subsection (c) shall be increased by the AMT refundable credit amount for such year.
 
 #### (2) AMT refundable credit amount
 
@@ -96,13 +96,15 @@ For purposes of this section—
 
 (Added Pub. L. 99–514, title VII, §701(b), Oct. 22, 1986, 100 Stat. 2339; amended Pub. L. 100–647, title I, §1007(g)(4), title VI, §6304(a), Nov. 10, 1988, 102 Stat. 3435, 3756; Pub. L. 101–239, title VII, §§7612(a)(1), (2), (b)(1), 7811(d)(2), Dec. 19, 1989, 103 Stat. 2373, 2374, 2408; Pub. L. 102–486, title XIX, §1913(b)(2)(C), Oct. 24, 1992, 106 Stat. 3020; Pub. L. 103–66, title XIII, §§13113(b)(2), 13171(c), Aug. 10, 1993, 107 Stat. 429, 455; Pub. L. 104–188, title I, §§1205(d)(5), 1704(j)(1), Aug. 20, 1996, 110 Stat. 1776, 1881; Pub. L. 108–357, title IV, §421(a)(2), Oct. 22, 2004, 118 Stat. 1514; Pub. L. 109–58, title XIII, §1322(a)(3)(G), Aug. 8, 2005, 119 Stat. 1012; Pub. L. 109–432, div. A, title IV, §402(a), Dec. 20, 2006, 120 Stat. 2953; Pub. L. 110–172, §2(a), Dec. 29, 2007, 121 Stat. 2473; Pub. L. 110–343, div. C, title I, §103(a), (b), Oct. 3, 2008, 122 Stat. 3863; Pub. L. 111–5, div. B, title I, §1142(b)(4), Feb. 17, 2009, 123 Stat. 331; Pub. L. 113–295, div. A, title II, §221(a)(8)(A)(i), Dec. 19, 2014, 128 Stat. 4038; Pub. L. 115–97, title I, §§12001(b)(2), 12002(a), (b), Dec. 22, 2017, 131 Stat. 2092, 2094; Pub. L. 116–136, div. A, title II, §2305(a), (b), Mar. 27, 2020, 134 Stat. 357.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I of Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97. For complete classification of title I of Pub. L. 115–97 to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L.95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
+A prior section 53, added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, §321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, §207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), and §265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, §5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, §102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, §122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, §713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
 
@@ -146,7 +148,7 @@ Subsec. (f). Pub. L. 110–343, §103(b), added subsec. (f).
 
 <b>2004</b>—Subsec. (d)(1)(B)(i)(II). Pub. L. 108–357 struck out "and if section 59(a)(2) did not apply" before period at end.
 
-<b>1996</b>—Subsec. (d)(1)(B)(iii). Pub. L. 104–188, §1205(d)(5)(A), which directed that cl. (iii) be amended by striking out "or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)," was executed by striking out "not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)," after "29(b)(6)(B),", to reflect the probable intent of Congress.
+<b>1996</b>—Subsec. (d)(1)(B)(iii). Pub. L. 104–188, §1205(d)(5)(A), which directed that cl. (iii) be amended by striking out "or not allowed under section 28 solelyby reason of the application of section 28(d)(2)(B)," was executed by striking out "not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)," after "29(b)(6)(B),", to reflect the probable intent of Congress.
 
 Subsec. (d)(1)(B)(iv)(II). Pub. L. 104–188, §1704(j)(1), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: "the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year increased by the amount of any credit not allowed under section 29 solely by reason of the application of section 29(b)(5)(B) or not allowed under section 28 solely by reason of the application of section 28(d)(2)(B)."
 
@@ -173,6 +175,8 @@ Pub. L. 101–239, §7612(a)(1), added cl. (iv).
 <b>1988</b>—Subsec. (d)(1)(B)(ii). Pub. L. 100–647, §1007(g)(4), substituted "current earnings" for "earnings and profits" in last sentence.
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, §6304(a), added cl. (iii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -236,7 +240,7 @@ Pub. L. 104–188, title I, §1704(j)(1), Aug. 20, 1996, 110 Stat. 1881, provide
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13113(e), Aug. 10, 1993, 107 Stat. 430, provided that: "The amendments made by this section \[enacting section 1202 of this title and amending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\]."
+Pub. L. 103–66, title XIII, §13113(e), Aug. 10, 1993, 107 Stat. 430, provided that: "The amendments made by this section \[enacting section 1202 of this title andamending this section and sections 57, 172, 642, 643, 691, 871, and 6652 of this title\] shall apply to stock issued after the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 Pub. L. 103–66, title XIII, §13171(d), Aug. 10, 1993, 107 Stat. 455, provided that: "The amendments made by this section \[amending this section and sections 56 and 57 of this title\] shall apply to contributions made after June 30, 1992, except that in the case of any contribution of capital gain property which is not tangible personal property, such amendments shall apply only if the contribution is made after December 31, 1992."
 

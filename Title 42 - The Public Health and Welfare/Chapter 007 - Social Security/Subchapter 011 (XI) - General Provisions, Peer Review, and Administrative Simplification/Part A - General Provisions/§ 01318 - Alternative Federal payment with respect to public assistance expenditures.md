@@ -4,6 +4,8 @@ In the case of any State which has in effect a plan approved under subchapter XI
 
 (Aug. 14, 1935, ch. 531, title XI, §1118, as added Pub. L. 89–97, title IV, §411, July 30, 1965, 79 Stat. 423; amended Pub. L. 90–248, title II, §241(c)(7), Jan. 2, 1968, 81 Stat. 917; Pub. L. 94–273, §2(23), Apr. 21, 1976, 90 Stat. 376; Pub. L. 95–600, title VIII, §802(a), Nov. 6, 1978, 92 Stat. 2945; Pub. L. 96–272, title III, §305(c), June 17, 1980, 94 Stat. 530; Pub. L. 100–485, title VI, §601(c)(3), Oct. 13, 1988, 102 Stat. 2408; Pub. L. 104–193, title I, §108(g)(4), Aug. 22, 1996, 110 Stat. 2168.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Paragraph (1) of sections 303(a), 1203(a), and 1353(a) of this title, referred to in text, were repealed by Pub. L. 97–35, title XXI, §2184(a)(4)(A), (c)(2)(A), Aug. 13, 1981, 95 Stat. 816, 817.
@@ -12,7 +14,7 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–193 struck out "603(a)," before "1203(a),", "and part A of subchapter IV," after "XVI,",and ", and shall, in the case of American Samoa, mean 75 per centum with respect to part A of subchapter IV" after "the Virgin Islands, and Guam, mean 75 per centum".
+<b>1996</b>—Pub. L. 104–193 struck out "603(a)," before "1203(a),", "and part A of subchapter IV," after "XVI,", and ", and shall, in the case of American Samoa, mean 75 per centum with respect to part A of subchapter IV" after "the Virgin Islands, and Guam, mean 75 per centum".
 
 <b>1988</b>—Pub. L. 100–485 inserted before period at end ", and shall, in the case of American Samoa, mean 75 per centum with respect to part A of subchapter IV".
 
@@ -23,6 +25,8 @@ Section 1383(a) of this title, referred to in text, is a reference to section 13
 <b>1976</b>—Pub. L. 94–273 substituted "September" for "June".
 
 <b>1968</b>—Pub. L. 90–248 struck out "IV," after "I," and inserted "and part A of subchapter IV," after "XVI".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

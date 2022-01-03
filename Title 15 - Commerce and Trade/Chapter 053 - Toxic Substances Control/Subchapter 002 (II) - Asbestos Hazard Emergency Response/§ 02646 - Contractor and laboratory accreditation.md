@@ -8,7 +8,7 @@ A person may not—
 
 &emsp;(2) prepare a management plan for such a school, or
 
-&emsp;(3) design or conduct response actions, other than the type of action described in sections2643(f) and 2644(c) of this title, with respect to friable asbestos-containing material in such a school or in a public or commercial building,
+&emsp;(3) design or conduct response actions, other than the type of action described in sections 2643(f) and 2644(c) of this title, with respect to friable asbestos-containing material in such a school or in a public or commercial building,
 
 > unless such person is accredited by a State under subsection (b) or is accredited pursuant to an Administrator-approved course under subsection (c).
 
@@ -116,6 +116,8 @@ Not later than August 31, 1988, and every three months thereafter until August 3
 
 (Pub. L. 94–469, title II, §206, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2980; amended Pub. L. 100–368, §3, July 18, 1988, 102 Stat. 832; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 101–637, §15(a)(1), (2), Nov. 28, 1990, 104 Stat. 4596.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Defense Dependents' Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
@@ -132,13 +134,15 @@ Subsec. (b)(1)(A)(i), (iii). Pub. L. 101–637, §15(a)(2), inserted before peri
 
 Subsec. (f). Pub. L. 100–368 added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1990 Amendment
 
 Pub. L. 101–637, §15(c), Nov. 28, 1990, 104 Stat. 4597, provided that: "This section \[amending this section and section 2647 of this title and enacting provisions set out as notes under this section\] shall take effect upon the expiration of the 12-month period following the date of the enactment of this Act \[Nov. 28, 1990\]. The Administrator may extend the effective date for a period not to exceed one year if the Administrator determines that accredited asbestos contractors are needed to perform school-site abatement required under the Asbestos Hazard Emergency Response Act \[of 1986\] (15 U.S.C. 2641) and such an extension is necessary to ensure effective implementation of section 203 of the Toxic Substances Control Act \[15 U.S.C. 2643\]."
 
 #### Revision of Model Contractor Accreditation Program
 
-Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additionalhours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\]."
+Pub. L. 101–637, §15(a)(3), Nov. 28, 1990, 104 Stat. 4596, provided that: "Not later than one year after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall revise the model contractor accreditation plan promulgated under section 206(b)(1) of the Toxic Substances Control Act (15 U.S.C. 2646(b)(1)) to increase the minimum number of hours of training, including additional hours of hands-on health and safety training, required for asbestos abatement workers and to make such other changes as may be necessary to implement the amendments made by paragraphs (1) and (2) \[amending this section\]."
 
 #### EPA Administrator Not Exercising "Statutory Authority" Under OSHA Law in Exercising Authority Under This Chapter
 

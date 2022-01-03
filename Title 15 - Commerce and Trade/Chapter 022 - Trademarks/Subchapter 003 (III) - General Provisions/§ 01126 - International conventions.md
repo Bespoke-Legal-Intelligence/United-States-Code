@@ -34,7 +34,7 @@ A mark duly registered in the country of origin of the foreign applicant may be 
 
 #### (f) Domestic registration independent of foreign registration
 
-The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) shallbe independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
+The registration of a mark under the provisions of subsections (c), (d), and (e) of this section by a person described in subsection (b) shall be independent of the registration in the country of origin and the duration, validity, or transfer in the United States of such registration shall be governed by the provisions of this chapter.
 
 #### (g) Trade or commercial names of foreign nationals protected without registration
 
@@ -49,6 +49,8 @@ Any person designated in subsection (b) of this section as entitled to the benef
 Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
 (July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(12), Nov. 2, 2002, 116 Stat. 1908.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -92,6 +94,8 @@ Subsec. (e). Pub. L. 87–772 inserted "certification or a" after "accompanied b
 
 <b>1961</b>—Subsec. (d). Pub. L. 87–333 inserted par. at end authorizing the right provided by this section to be based upon a subsequent application in the same foreign country, instead of the first application, provided that any foreign application filed prior to such subsequent one was withdrawn, or otherwise disposed of, without having been open to public inspection and without leaving any rights outstanding, nor any basis for claiming priority.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
@@ -113,6 +117,8 @@ Pub. L. 87–333, §3, Oct. 3, 1961, 75 Stat. 748, provided that: "This Act \[am
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

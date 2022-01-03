@@ -22,7 +22,7 @@
 
 &emsp;(1) at military installations outside the United States; and
 
-&emsp;(2) at military installations inside the United States where he determines that it isimpracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
+&emsp;(2) at military installations inside the United States where he determines that it is impracticable for those civilian officers, employees, and persons to obtain those stores from private agencies without impairing the efficient operation of military activities.
 
 > However, sales to officers and employees inside the United States may be made only to those residing within military installations.
 
@@ -136,7 +136,7 @@ Aug. 8, 1953, ch. 390, §1, 67 Stat. 499.
 
 Mar. 3, 1875, ch. 131 (proviso of 1st sentence of 1st par. under "War Department"), 18 Stat. 410.
 
-In subsection (a), the word "members" is substituted for the words "officers and enlisted men" in 10:1237. Clause (2) is substituted for 10:904. 32:156 is omitted as covered by 10:904, since the words "officers of the Army" necessarily cover all persons named in 32:156. The words "the Secretary of the Army or a person designated by him" are substituted for the words "by whatever branch, office, or officers of the Army the Secretary of the Army may from time to time designate", inserted by the Editors of the United States Code. R.S. 1114 which provided that this function should be invested in the Inspector General was not amended in this respect by section 402(a) of the Army Organization Act of 1950 (64 Stat. 272). However, these functions have now been transferred to the Secretary of the Army or a person designated by him. (See memorandum of the Secretary of Defense, dated October 29, 1954, subject "Transfer of Authority from the Inspector General to the Secretary of the Army to Designate Subsistence Articles for Sale," and opinion of the Judge Advocate General of the Army (JAGA 1954/9712, 2 December 1954).) The words "Except for articles and items acquired through the use of working capital funds under sections 172–172j of title 5" are inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+In subsection (a), the word "members" is substituted for the words "officers and enlisted men" in 10:1237. Clause (2) is substituted for 10:904. 32:156 is omitted as covered by 10:904, since the words "officers of the Army" necessarily cover all persons named in 32:156. The words "the Secretary of the Army or a person designated by him" are substituted for the words "bywhatever branch, office, or officers of the Army the Secretary of the Army may from time to time designate", inserted by the Editors of the United States Code. R.S. 1114 which provided that this function should be invested in the Inspector General was not amended in this respect by section 402(a) of the Army Organization Act of 1950 (64 Stat. 272). However, these functions have now been transferred to the Secretary of the Army or a person designated by him. (See memorandum of the Secretary of Defense, dated October 29, 1954, subject "Transfer of Authority from the Inspector General to the Secretary of the Army to Designate Subsistence Articles for Sale," and opinion of the Judge Advocate General of the Army (JAGA 1954/9712, 2 December 1954).) The words "Except for articles and items acquired through the use of working capital funds under sections 172–172j of title 5" are inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
 In subsection (b), the first sentence states expressly the rule which is implicit in 10:1238. The word "members" is substituted for the words "officers and enlisted men". The words "shall be understood, in all cases of such sales" are omitted as surplusage. The last sentence is inserted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Deputy General Counsel of the Office of the Secretary of Defense, March 28, 1956.)
 
@@ -148,7 +148,7 @@ In subsection (d), the words "other than subsistence supplies" are inserted, sin
 
 In subsection (e), the words "a person who has been discharged" are substituted for the words "discharged officers and enlisted men". The words "Navy \* \* \* or Marine Corps", omitted from the 1952 Edition of the United States Code, are inserted to conform to the source statute. The words "may buy" are substituted for the words "shall \* \* \* be permitted to purchase". The words "at the prices at which like property is sold" are substituted for the words "at the same price as charged". The word "member" is substituted for the words "officers and enlisted men". The words "while undergoing such care and treatment" are omitted as surplusage.
 
-In subsection (f), the words "person who has been discharged" are substituted for the words "former members \* \* \* who have been separated therefrom". Thewords "at the prices at which like articles are sold to members" are inserted to conform to the last sentence of subsection (a) and subsection (e).
+In subsection (f), the words "person who has been discharged" are substituted for the words "former members \* \* \* who have been separated therefrom". The words "at the prices at which like articles are sold to members" are inserted to conform to the last sentence of subsection (a) and subsection (e).
 
 In subsection (g), the words "regulations to be prescribed by the Secretary" are substituted for the words "Army Regulations". The words "of the Government" are omitted as surplusage. 10:1253 (last 22 words of 1st sentence) is omitted as surplusage. The words "or to another executive department of the Government" are omitted as superseded by section 7 of the Act of May 21, 1920, ch. 194, as amended (31 U.S.C. 686). The provisions of 10:1253 relating to computation of costs are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
@@ -159,6 +159,8 @@ In subsection (i), 10:1196 (last 30 words) is omitted as superseded by the Act o
 #### 1962 Act
 
 The change corrects an internal reference.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -184,6 +186,8 @@ Subsec. (f). Pub. L. 104–106, §375(b)(1)(C), inserted "or by commercial credi
 
 <b>1962</b>—Subsecs. (a), (b). Pub. L. 87–651 substituted "section 2208 of this title" for "sections 172–172j of title 5".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -191,6 +195,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

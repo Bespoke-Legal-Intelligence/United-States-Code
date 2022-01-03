@@ -1,5 +1,7 @@
 ### §13741. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 13741 was editorially reclassified as section 12131 of Title 34, Crime Control and Law Enforcement.

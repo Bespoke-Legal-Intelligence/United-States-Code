@@ -128,7 +128,7 @@
 
 #### (iii) Additional amounts treated as interest
 
-&emsp;&emsp;&emsp;In determining the net investment income of a person for any year, any amountwhich would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
+&emsp;&emsp;&emsp;In determining the net investment income of a person for any year, any amount which would be included in the gross income of such person for such year by reason of section 1272 if such section applied to all deferred payment obligations shall be treated as interest received by such person for such year.
 
 #### (iv) Deferred payment obligations
 
@@ -230,7 +230,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facilitypursuant to a continuing care contract if the lender (or the lender's spouse) attains age 65 before the close of such year.
+&emsp;This section shall not apply for any calendar year to any below-market loan made by a lender to a qualified continuing care facility pursuant to a continuing care contract if the lender (or the lender's spouse) attains age 65 before the close of such year.
 
 #### (2) $90,000 limit
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (B) Nursing homes excluded
 
-&emsp;&emsp;The term "qualified continuing care facility" shall not include any facility which isof a type which is traditionally considered a nursing home.
+&emsp;&emsp;The term "qualified continuing care facility" shall not include any facility which is of a type which is traditionally considered a nursing home.
 
 #### (i) Regulations
 
@@ -330,7 +330,7 @@ For purposes of this section—
 
 &emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section, including—
 
-&emsp;&emsp;(A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender's or borrower's interest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
+&emsp;&emsp;(A) regulations providing that where, by reason of varying rates of interest, conditional interest payments, waivers of interest, disposition of the lender's or borrower'sinterest in the loan, or other circumstances, the provisions of this section do not carry out the purposes of this section, adjustments to the provisions of this section will be made to the extent necessary to carry out the purposes of this section,
 
 &emsp;&emsp;(B) regulations for the purpose of assuring that the positions of the borrower and lender are consistent as to the application (or nonapplication) of this section, and
 
@@ -341,6 +341,8 @@ For purposes of this section—
 &emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
 (Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974; Pub. L. 115–97, title I, §11002(d)(14), Dec. 22, 2017, 131 Stat. 2062.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -410,6 +412,8 @@ Subsec. (f)(11). Pub. L. 99–121, §202, added par. (11) relating to time for d
 
 Subsecs. (g), (h). Pub. L. 99–121, §201(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -418,7 +422,7 @@ Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 109–432, div. A, title IV, §425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
-Amendment by Pub. L. 109–222 applicable to calendar years beginning after Dec. 31, 2005, with respect to loans made before, on, or after such date, see section 209(c) of Pub. L. 109–222, set out as a note under section 142 of this title.
+Amendment by Pub. L. 109–222 applicable to calendar years beginning after Dec. 31, 2005, with respect toloans made before, on, or after such date, see section 209(c) of Pub. L. 109–222, set out as a note under section 142 of this title.
 
 #### Effective Date of 1997 Amendment
 

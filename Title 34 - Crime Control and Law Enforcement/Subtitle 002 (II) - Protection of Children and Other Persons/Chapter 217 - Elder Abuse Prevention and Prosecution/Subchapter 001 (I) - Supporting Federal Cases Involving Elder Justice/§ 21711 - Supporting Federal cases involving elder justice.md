@@ -4,7 +4,7 @@
 
 #### (1) Elder Justice Coordinators
 
-&emsp;The Attorney General shall designate in each Federal judicial district not less than one Assistant United States Attorney to serve as the Elder Justice Coordinator for the district, who, in addition to any other responsibilities, shall be responsible for—
+&emsp;The Attorney General shall designate in each Federal judicial district not less than oneAssistant United States Attorney to serve as the Elder Justice Coordinator for the district, who, in addition to any other responsibilities, shall be responsible for—
 
 &emsp;&emsp;(A) serving as the legal counsel for the Federal judicial district on matters relating to elder abuse;
 
@@ -16,7 +16,7 @@
 
 #### (2) Investigative support
 
-&emsp;The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, shall, with respect to crimes relating to elder abuse, ensure the implementation of a regular and comprehensive training programto train agents of the Federal Bureau of Investigation in the investigation and prosecution of such crimes and the enforcement of laws related to elder abuse, which shall include—
+&emsp;The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, shall, with respect to crimes relating to elder abuse, ensure the implementation of a regular and comprehensive training program to train agents of the Federal Bureau of Investigation in the investigation and prosecution of such crimes and the enforcement of laws related to elder abuse, which shall include—
 
 &emsp;&emsp;(A) specialized strategies for communicating with and assisting elder abuse victims; and
 
@@ -70,13 +70,13 @@
 
 &emsp;&emsp;(A) coordinating and supporting the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues; and
 
-&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals, units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
+&emsp;&emsp;(B) serving as, or ensuring the availability of, a central point of contact for individuals,units of local government, States, and other Federal agencies on matters relating to the enforcement and consumer education efforts and policy activities of the Federal Trade Commission on elder justice issues.
 
 #### (2) <sup>1</sup> Reports to Congress
 
 &emsp;Not later than 1 year after October 18, 2017, and once every year thereafter, the Chairman of the Federal Trade Commission and the Attorney General shall each submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report—
 
-&emsp;&emsp;(A) detailing the enforcement actions taken by the Federal Trade Commission and the Department of Justice, respectively, over the preceding year in each case in which not less than one victim was an elderor that involved a financial scheme or scam that was either targeted directly toward or largely affected elders, including—
+&emsp;&emsp;(A) detailing the enforcement actions taken by the Federal Trade Commission and the Department of Justice, respectively, over the preceding year in each case in which not less than one victim was an elder or that involved a financial scheme or scam that was either targeted directly toward or largely affected elders, including—
 
 &emsp;&emsp;&emsp;(i) the name of the district where the case originated;
 
@@ -93,10 +93,6 @@
 No additional funds are authorized to be appropriated to carry out this section.
 
 (Pub. L. 115–70, title I, §101, Oct. 18, 2017, 131 Stat. 1209; Pub. L. 116–252, §§2(a), 3(a), Dec. 22, 2020, 134 Stat. 1133, 1134.)
-
-#### Applicability of Amendment
-
-<i>Amendment of section by section 3(a) of Pub. L. 116–252 applicable with respect to the report submitted during the second year beginning after Dec. 22, 2020, and each year thereafter. See 2020 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

@@ -144,6 +144,8 @@ This section shall not apply to any project the construction of which was commen
 
 (Pub. L. 91–611, title II, §221, Dec. 31, 1970, 84 Stat. 1831; Pub. L. 92–222, §4, Dec. 23, 1971, 85 Stat. 799; Pub. L. 99–662, title IX, §912(a), Nov. 17, 1986, 100 Stat. 4189; Pub. L. 104–106, div. A, title X, §1064(d), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–303, title II, §220, Oct. 12, 1996, 110 Stat. 3696; Pub. L. 106–541, title II, §201, Dec. 11, 2000, 114 Stat. 2587; Pub. L. 110–114, title II, §2003(a)–(c), Nov. 8, 2007, 121 Stat. 1067, 1069; Pub. L. 113–121, title I, §1018(a), June 10, 2014, 128 Stat. 1224; Pub. L. 114–322, title I, §1131, Dec. 16, 2016, 130 Stat. 1653; Pub. L. 115–270, title I, §1155(b), Oct. 23, 2018, 132 Stat. 3793.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Water Supply Act of 1958, as amended, referred to in subsec. (h), is Pub. L. 85–500, title III, §301, July 3, 1958, 72 Stat. 319, as amended, which is classified to section 390b of Title 43, Public Lands.
@@ -160,7 +162,7 @@ Subsec. (b)(1). Pub. L. 114–322 inserted "and, as defined in section 1602 of t
 
 <b>2014</b>—Subsec. (a)(4)(A). Pub. L. 113–121, §1018(a)(1), inserted "or a project under an environmental infrastructure assistance program" after "law" in introductory provisions.
 
-Subsec. (a)(4)(C). Pub. L. 113–121, §1018(a)(2), added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: "In any case in whichthe non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit."
+Subsec. (a)(4)(C). Pub. L. 113–121, §1018(a)(2), added text of subpar. (C) and struck out text of former subpar. (C) which read as follows: "In any case in which the non-Federal interest is to receive credit under subparagraph (A)(ii) for the cost of work carried out by the non-Federal interest and such work has not been carried out as of November 8, 2007, the Secretary and the non-Federal interest shall enter into an agreement under which the non-Federal interest shall carry out such work, and only work carried out following the execution of the agreement shall be eligible for credit."
 
 Subsec. (a)(4)(D)(iii). Pub. L. 113–121, §1018(a)(3), substituted "sections 2211(a)(2) and 2213(a)(1)(A) of title 33" for "sections 2211 and 2213 of title 33".
 
@@ -187,6 +189,8 @@ Subsecs. (e), (f). Pub. L. 104–106 redesignated subsec. (f) as (e) and struck 
 <b>1986</b>—Subsec. (a). Pub. L. 99–662 inserted ", or an acceptable separable element thereof,", "or the appropriate element of the project, as the case may be", and "In any such agreement entered into by a State, or a body politic of the State which derives its powers from the State constitution, or a governmental entity created by the State legislature, the agreement may reflect that it does not obligate future State legislative appropriations for such performance and payment when obligating future appropriations would be inconsistent with State constitutional or statutory limitations."
 
 <b>1971</b>—Subsec. (f). Pub. L. 92–222 made provisions of section inapplicable to the assurances for future demands required by the Water Supply Act of 1958, as amended.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

@@ -16,7 +16,7 @@ Members.—(1) The Secretary shall determine the number of members of the Board.
 
 Responsibilities.—The Board shall—
 
-&emsp;(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 2430(a) of this title), by—
+&emsp;(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 4201 of this title), by—
 
 &emsp;&emsp;(A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
 
@@ -38,15 +38,15 @@ Exclusion of Certain Programs.—The Board shall not include the consideration o
 
 (Added Pub. L. 113–66, div. A, title II, §261(a), Dec. 26, 2013, 127 Stat. 724; amended Pub. L. 113–291, div. A, title X, §1071(f)(4), Dec. 19, 2014, 128 Stat. 3510; Pub. L. 116–283, div. A, title XVIII, §1846(i)(2), Jan. 1, 2021, 134 Stat. 4252.)
 
-#### Amendment of Subsection (c)(1)
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1846(i)(2), Jan. 1, 2021, 134 Stat. 4151, 4252, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(1) of this section is amended by striking "section 2430(a)" and inserting "section 4201". See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2021</b>—Subsec. (c)(1). Pub. L. 116–283 substituted "section 4201" for "section 2430(a)".
 
 <b>2014</b>—Subsec. (c)(1). Pub. L. 113–291 substituted "2430(a)" for "139c" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

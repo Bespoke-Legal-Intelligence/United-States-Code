@@ -38,13 +38,15 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 #### (e) Other common law or statutory rights of action
 
-Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
+Nothing in this section shall restrict any right which any person (or class of persons) may haveunder any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
 
 #### (f) "Noise control requirement" defined
 
 For purposes of this section, the term "noise control requirement" means paragraph (1), (2), (3), (4), or (5) of section 4909(a) of this title, or a standard, rule, or regulation issued under section 4916 or 4917 of this title or under section 44715 of title 49.
 
 (Pub. L. 92–574, §12, Oct. 27, 1972, 86 Stat. 1243.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

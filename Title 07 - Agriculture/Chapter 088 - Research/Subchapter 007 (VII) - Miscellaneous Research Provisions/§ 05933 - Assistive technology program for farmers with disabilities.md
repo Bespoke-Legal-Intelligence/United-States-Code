@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies, shall make demonstration grants to support cooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
+&emsp;The Secretary of Agriculture, in consultation with other appropriate Federal agencies,shall make demonstration grants to support cooperative programs between State Cooperative Extension Service agencies and private nonprofit disability organizations to provide on-the-farm agricultural education and assistance directed at accommodating disability in farm operations for individuals with disabilities who are engaged in farming and farm-related occupations and their families.
 
 #### (2) Eligible services
 
@@ -64,6 +64,8 @@ The Secretary of Agriculture shall award a competitive grant to a national priva
 
 (Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556; Pub. L. 107–171, title VII, §§7122, 7208(c), May 13, 2002, 116 Stat. 434, 444; Pub. L. 110–234, title VII, §7210, May 22, 2008, 122 Stat. 1241; Pub. L. 110–246, §4(a), title VII, §7210, June 18, 2008, 122 Stat. 1664, 2003; Pub. L. 113–79, title VII, §7216, Feb. 7, 2014, 128 Stat. 887; Pub. L. 115–334, title VII, §7214, Dec. 20, 2018, 132 Stat. 4814.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -95,6 +97,8 @@ Subsec. (b). Pub. L. 105–185, §246(2), struck out par. (1) designation and he
 Subsec. (c). Pub. L. 105–185, §246(3), added subsec. (c).
 
 <b>1996</b>—Subsecs. (a)(6)(B), (b)(2). Pub. L. 104–127 substituted "1997" for "1996".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

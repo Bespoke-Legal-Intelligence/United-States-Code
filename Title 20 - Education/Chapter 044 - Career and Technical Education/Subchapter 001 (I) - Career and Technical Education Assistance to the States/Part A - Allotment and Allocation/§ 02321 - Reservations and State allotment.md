@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), for a fiscal year for which there are additional funds described in paragraph (3), no State shall receive for such fiscal year under paragraph (3) less than 1/2 of 1 percent of the additional funds available for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
+&emsp;&emsp;Subject to subparagraph (B), for a fiscal year for which there are additional funds described in paragraph (3), no State shall receive for such fiscal year under paragraph (3) less than 1/2 of 1 percent of the additionalfunds available for such fiscal year. Amounts necessary for increasing such payments to States to comply with the preceding sentence shall be obtained by ratably reducing the amounts to be paid to other States.
 
 #### (B) Special rule
 
@@ -106,6 +106,8 @@ For the purpose of this section, the term "State" means each of the several Stat
 
 (Pub. L. 88–210, title I, §111, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691; amended Pub. L. 115–224, title I, §110, July 31, 2018, 132 Stat. 1576.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2321, Pub. L. 88–210, title I, §111, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3083; amended Pub. L. 106–246, div. B, title II, §2403(b), July 13, 2000, 114 Stat. 555, related to reservations and State allotment, prior to the general amendment of this chapter by Pub. L. 109–270.
@@ -115,6 +117,8 @@ Another prior section 2321, Pub. L. 88–210, title I, §111, as added Pub. L. 9
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–224 amended section generally. Prior to amendment, section related to reservations and State allotment, reallotment, and allotment ratios.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

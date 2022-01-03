@@ -1,6 +1,6 @@
 ### §2704. Discontinued Job Corps centers; utilization for special youth programs
 
-(a) Notwithstanding any other provision of law, the Director of the Office of Economic Opportunity shall establish procedures and make arrangements which are designed to assure that facilities and equipment of Job Corps centers which are being discontinued will, where feasible, be made available for use by State or Federal agencies and other public or private agencies, institutions, and organizations with satisfactory arrangements for utilizing such facilities and equipment for conducting programs, especially those providing opportunities for low-income disadvantaged youth, including, without limitation—
+(a) Notwithstanding any other provision of law, the Director of the Office of Economic Opportunity shall establish procedures and make arrangements which are designed to assure that facilities and equipment of Job Corps centerswhich are being discontinued will, where feasible, be made available for use by State or Federal agencies and other public or private agencies, institutions, and organizations with satisfactory arrangements for utilizing such facilities and equipment for conducting programs, especially those providing opportunities for low-income disadvantaged youth, including, without limitation—
 
 &emsp;(1) special remedial programs;
 
@@ -18,9 +18,13 @@
 
 (Pub. L. 91–177, title I, §113, Dec. 30, 1969, 83 Stat. 832; Pub. L. 93–644, §9(a), Jan. 4, 1975, 88 Stat. 2310.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Economic Opportunity Amendments of 1969, and not as part of the Economic Opportunity Act of 1964 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Office of Economic Opportunity
 

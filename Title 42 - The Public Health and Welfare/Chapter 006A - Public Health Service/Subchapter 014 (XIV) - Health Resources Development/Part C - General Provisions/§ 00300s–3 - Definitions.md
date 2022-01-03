@@ -36,7 +36,7 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 
 (9) The term "modernization" includes the alteration, expansion, major repair (to the extent permitted by regulations), remodeling, replacement, and renovation of existing buildings (including initial equipment thereof), and the replacement of obsolete equipment of existing buildings.
 
-(10) The term "title," <sup>2</sup> when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Secretary finds sufficient to assure for a period of not less than twenty-five years' undisturbed use and possession for the purposes of construction, modernization, or conversion and operation of the project for a period of not less than (A) twenty years in the case of a project assisted under an allotment or grant under this subchapter, or (B) the term of repayment of a loan made or guaranteed under this subchapter in the case of a project assisted by a loan or loan guarantee.
+(10) The term "title," <sup>2</sup> when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Secretary finds sufficient to assure for a period of not less than twenty-five years' undisturbed use and possession for the purposes of construction,modernization, or conversion and operation of the project for a period of not less than (A) twenty years in the case of a project assisted under an allotment or grant under this subchapter, or (B) the term of repayment of a loan made or guaranteed under this subchapter in the case of a project assisted by a loan or loan guarantee.
 
 (11) The term "medical facility" means a hospital, public health center, outpatient medical facility, rehabilitation facility, facility for long-term care, or other facility (as may be designated by the Secretary) for the provision of health care to ambulatory patients.
 
@@ -51,6 +51,8 @@ Except as provided in section 300t–12(e) of this title, for purposes of this s
 (14) The term "medically underserved population" means the population of an urban or rural area designated by the Secretary as an area with a shortage of health facilities or a population group designated by the Secretary as having a shortage of such facilities.
 
 (July 1, 1944, ch. 373, title XVI, §1624, formerly §1633, as added Pub. L. 93–641, §4, Jan. 4, 1975, 88 Stat. 2270; amended Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–83, title I, §106(z), Aug. 1, 1977, 91 Stat. 386; renumbered §1624 and amended Pub. L. 96–79, title II, §§202(b), 203(e)(1), title III, §301(b), Oct. 4, 1979, 93 Stat. 632, 635, 640.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Pars. (1) to (16). Pub. L. 96–79, §203(e)(1), struck out pars. (1) and (2) wh
 <b>1977</b>—Par. (14). Pub. L. 95–83 substituted "subchapter XIII" for "subchapter XII".
 
 <b>1976</b>—Par. (1). Pub. L. 94–484 defined "State" to include Northern Mariana Islands.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

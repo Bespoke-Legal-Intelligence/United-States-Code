@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director may carry out a program under which elements of the Agency provide items and services on a reimbursable basis to other elements of the Agency, nonappropriated fund entities or instrumentalities associated or affiliated with the Agency, and other Government agencies. The Director shall carry out the program in accordance with the provisions of this section.
+The Director may carry out a program under which elements of the Agency provide items and services on a reimbursable basis to other elements of the Agency, nonappropriated fund entities or instrumentalities associated or affiliatedwith the Agency, and other Government agencies. The Director shall carry out the program in accordance with the provisions of this section.
 
 #### (b) Participation of Agency elements
 
@@ -62,7 +62,7 @@ The total value of all orders for items or services to be provided under the pro
 
 (1) The Director may permit a central service provider to impose and collect a fee with respect to the provision of an item or service under the program. The amount of the fee may not exceed an amount equal to four percent of the payment received by the provider for the item or service.
 
-(2) The Director may obligate and expend amounts in the Fund that are attributable to the fees imposed and collected under paragraph (1) to acquire equipment or systems for, or to improve the equipment or systems of, centralservice providers and any elements of the Agency that are not designated for participation in the program in order to facilitate the designation of such elements for future participation in the program.
+(2) The Director may obligate and expend amounts in the Fund that are attributable to the fees imposed and collected under paragraph (1) to acquire equipment or systems for, or to improve the equipment or systems of, central service providers and any elements of the Agency that are not designated for participation in the program in order to facilitate the designation of such elements for future participation in the program.
 
 #### (g) Termination
 
@@ -74,7 +74,9 @@ The total value of all orders for items or services to be provided under the pro
 
 (2) The Director of the Central Intelligence Agency and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV,§401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432; Pub. L. 108–177, title IV, §403, Dec. 13, 2003, 117 Stat. 2632; Pub. L. 108–458, title I, §1071(b)(3)(D), (E), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 112–277, title IV, §401, Jan. 14, 2013, 126 Stat. 2475; Pub. L. 113–126, title VII, §701, July 7, 2014, 128 Stat. 1422.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -125,6 +127,8 @@ Subsec. (c)(2)(E), (F). Pub. L. 106–120, §401(b)(2), (3), added subpar. (E) a
 Subsec. (f)(2)(A). Pub. L. 106–120, §401(c), inserted "central service providers and any" before "elements of the Agency".
 
 Subsec. (h)(1). Pub. L. 106–120, §401(d), substituted "2002" for "2000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

@@ -14,9 +14,9 @@ Required Metrics.—At a minimum, the materiel readiness metrics required by sub
 
 (c)
 
-Materiel Readiness Objectives.—(1) Not later than one year after the date of the enactment of this subsection, each head of an element described in subsection (a) shall establish themetrics required by subsection (b) necessary to support the strategic framework and guidance referred to in paragraph (1) and (2) of subsection (a).
+Materiel Readiness Objectives.—(1) Not later than one year after the date of the enactment of this subsection, each head of an element described in subsection (a) shall establish the metrics required by subsection (b) necessary to support the strategic framework and guidance referred to in paragraph (1) and (2) of subsection (a).
 
-(2) Annually, each head of an element described in subsection (a) shall review and revise the metrics required by subsection (b) and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31.
+(2) Annually, each head of an element described in subsection (a) shall review and revisethe metrics required by subsection (b) and include any such revisions in the materials submitted to Congress in support of the budget of the President under section 1105 of title 31.
 
 (d)
 
@@ -30,7 +30,7 @@ Budget Justification.—Not later than five days after the date on which the Sec
 
 Definitions.—In this section:
 
-&emsp;(1) The term "major weapon system" has the meaning given in section 2379(f) of this title.
+&emsp;(1) The term "major weapon system" has the meaning given in section 3455(f) of this title.
 
 &emsp;(2) The term "materiel availability" means a measure of the percentage of the total inventory of a major weapon system that is operationally capable of performing an assigned mission.
 
@@ -42,9 +42,7 @@ Definitions.—In this section:
 
 (Added Pub. L. 116–92, div. A, title III, §351(a)(1), Dec. 20, 2019, 133 Stat. 1319; amended Pub. L. 116–283, div. A, title III, §347(a), title X, §1081(a)(6), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3540, 3871, 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +71,8 @@ Pub. L. 116–283, §347(a)(4)(C), struck out par. (3). Text read as follows: "a
 Subsec. (e). Pub. L. 116–283, §347(a)(5), added subsec. (e).
 
 Subsec. (e)(1). Pub. L. 116–283, §1883(b)(2), substituted "section 3455" for "section 2379".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

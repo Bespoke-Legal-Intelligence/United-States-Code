@@ -26,7 +26,7 @@ System reliability.—To improve the efficiency of the surface transportation sy
 
 &emsp;(5)
 
-Freight movement and economic vitality.—To improve the National Highway Freight Network, strengthen the ability of rural communities to access national and international trade markets, and support regional economic development.
+Freight movement and economic vitality.—To improve the National HighwayFreight Network, strengthen the ability of rural communities to access national and international trade markets, and support regional economic development.
 
 &emsp;(6)
 
@@ -78,7 +78,7 @@ In general.—Subject to subparagraph (B), for the purpose of carrying out secti
 
 &emsp;&emsp;&emsp;(iii) minimum levels for the condition of pavement on the Interstate System, only for the purposes of carrying out section 119(f)(1); and
 
-&emsp;&emsp;&emsp;(iv) the data elements that are necessary to collect and maintain standardized datato carry out a performance-based approach.
+&emsp;&emsp;&emsp;(iv) the data elements that are necessary to collect and maintain standardized data to carry out a performance-based approach.
 
 &emsp;&emsp;(B)
 
@@ -138,7 +138,7 @@ The date of enactment of the MAP–21, referred to in subsecs. (c)(1) and (e), i
 
 #### Codification
 
-Pub. L. 114–94, div. A, title I, §1446(d)(2)(A), Dec. 4, 2015, 129 Stat. 1438, amended directory language of Pub. L. 112–141, div. A, title I, §1203(a), July 6, 2012, 126 Stat. 524, which enacted this section.
+Pub. L. 114–94, div. A, title I, §1446(d)(2)(A), Dec. 4, 2015, 129 Stat. 1438, amended directory language of Pub.L. 112–141, div. A, title I, §1203(a), July 6, 2012, 126 Stat. 524, which enacted this section.
 
 #### Prior Provisions
 
@@ -166,7 +166,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Performance Management Data Support Program
 
-Pub. L. 114–94, div. A, title VI, §6028, Dec. 4, 2015, 129 Stat. 1587, provided that:
+Pub. L. 114–94, div. A, title VI, §6028, Dec. 4, 2015, 129 Stat. 1587, as amended by Pub. L. 117–58, div. A, title III, §13003, Nov. 15, 2021, 135 Stat. 628, provided that:
 
 "(a)
 
@@ -192,5 +192,5 @@ Inclusions.—The data analysis activities authorized under subsection (a) may i
 
 "(c)
 
-Funding.—From amounts authorized to carry out the Highway Research and Development Program,the Administrator of the Federal Highway Administration may use up to $10,000,000 for each of fiscal years 2016 through 2020 to carry out this section."
+Funding.—From amounts authorized to carry out the Highway Research and Development Program, the Administrator of the Federal Highway Administration may use up to $10,000,000 for each of fiscal years 2022 through 2026 to carry out this section."
 

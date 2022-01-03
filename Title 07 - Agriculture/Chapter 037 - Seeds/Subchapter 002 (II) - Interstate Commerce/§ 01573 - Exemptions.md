@@ -2,7 +2,7 @@
 
 #### (a) Carrier transporting seeds
 
-The provisions of sections 1571 and 1572 of this title shall not apply to any carrier in respect to any seed transported or delivered for transportation in the ordinary course of its business as a carrier: <i>Provided</i>, That such carrier is not engaged in processing or merchandising seed subject to the provisions of this chapter; and such provisions shall not apply to seeds produced by any farmer on his own premises and sold by him directly to the consumer, provided such farmer is not engaged in the business of selling seeds not produced by him: <i>And provided further</i>, That such seeds produced or sold by him when transported or offered for transportation to any State, Territory, or District, shall not be exempted from the provisions of sections 1571 and 1572 of this title unless said seeds shall be in compliance with the operation and effect of thelaws of such State, Territory, or District, enacted in the exercise of its police power, to the same extent and in the same manner as though such seed had been produced, sold, offered or exposed for sale in such State, Territory, or District, and shall not be exempted therefrom by reason of being introduced therein in original packages or otherwise: <i>And provided further</i>, That such seeds produced or sold by him are in compliance with the seed laws of the State into which the seed is transported.
+The provisions of sections 1571 and 1572 of this title shall not apply to any carrier in respect to any seed transported or delivered for transportation in the ordinary course of its business as a carrier: <i>Provided</i>, That such carrier is not engaged in processing or merchandising seed subject to the provisions of this chapter; and such provisions shall not apply to seeds produced by any farmer on his own premises and sold by him directly to the consumer, provided such farmer is not engaged in the business of selling seeds not produced by him: <i>And provided further</i>, That such seeds produced or sold by him when transported or offered for transportation to any State, Territory, or District, shall not be exempted from the provisions of sections 1571 and 1572 of this title unless said seeds shall be in compliance with the operation and effect of the laws of such State, Territory, or District, enacted in the exercise of its police power, to the same extent and in the same manner as though such seed had been produced, sold, offered or exposed for sale in such State, Territory, or District, and shall not be exempted therefrom by reason of being introduced therein in original packages or otherwise: <i>And provided further</i>, That such seeds produced or sold by him are in compliance with the seed laws of the State into which the seed is transported.
 
 #### (b) Seeds not for seeding purposes
 
@@ -24,13 +24,15 @@ When the Secretary of Agriculture finds that, because of the time interval betwe
 
 #### (d) Intermixture of unidentified seeds; percentages of kind or kind and variety of seeds
 
-The provisions of sections <sup>1</sup> 1571(a) and (b) of this title relative to the labeling of agricultural and vegetable seeds with the percentages of the kind or kind and variety of seeds shall not be deemed violated if there are seeds in the container or bulk which could not be, or were not, identified because of their indistinguishability in appearance from the seeds intended to be transported or delivered for transportation in interstate commerce: <i>Provided</i>, That the records of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclose that said person has taken reasonable precautions to insure the identity of the seeds to be that stated.
+The provisions of sections <sup>1</sup> 1571(a) and (b) of this title relative to the labeling of agricultural and vegetable seeds with the percentages of the kind or kind and variety of seeds shall not be deemed violated if there are seeds in the container or bulk which could not be, or were not, identified because of their indistinguishability in appearance from the seeds intended to be transported or delivered for transportation in interstate commerce: <i>Provided</i>, That the records of the person charged with the duty under said section of labeling or invoicing the seeds, keptin accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclose that said person has taken reasonable precautions to insure the identity of the seeds to be that stated.
 
 #### (e) Name of substance used in treatment of seeds
 
 The provisions of section 1571(i) of this title relative to the labeling of agricultural and vegetable seeds with the name of any substance used in the treatment of seeds shall not be deemed violated if the substance or substances used in such treatment could not be or were not identified because of their indistinguishability from the substance or substances intended to be used in the treatment of the seeds: <i>Provided</i>, That the records of the person charged with the duty under said section of labeling or invoicing the seeds, kept in accordance with the rules and regulations of the Secretary of Agriculture, together with other pertinent facts, disclosed that said person has taken reasonable precautions to insure the identity of the substance or substances to be as stated.
 
 (Aug. 9, 1939, ch. 615, title II, §203, 53 Stat. 1281; Pub. L. 85–581, §10, Aug. 1, 1958, 72 Stat. 477; Pub. L. 89–686, §12, Oct. 15, 1966, 80 Stat. 978.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ The provisions of section 1571(i) of this title relative to the labeling of agri
 Subsec. (e). Pub. L. 89–686, §12(b), added subsec. (e).
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–581 inserted references to section 1571(i) of this title and eased labeling requirements with respect to shipment of seed in containers and in quantities of twenty thousand pounds or more.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

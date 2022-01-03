@@ -14,7 +14,7 @@ The Postmaster General shall submit semiannual reports to the Inspector General 
 
 &emsp;(6) such other information relating to the investigative activities of the Postal Service as the Inspector General may require.
 
-> The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 5 of the Inspector General Act of 1978 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.
+> The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 5 of the Inspector General Act of 1978 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by thePostmaster General under this section include any information relating to activities of the Inspector General.
 
 (Added Pub. L. 98–186, §3(a), Nov. 30, 1983, 97 Stat. 1317; amended Pub. L. 104–66, title II, §2211(b), Dec. 21, 1995, 109 Stat. 733; Pub. L. 106–168, title I, §§107(c), 110(b)(1), Dec. 12, 1999, 113 Stat. 1813, 1817.)
 

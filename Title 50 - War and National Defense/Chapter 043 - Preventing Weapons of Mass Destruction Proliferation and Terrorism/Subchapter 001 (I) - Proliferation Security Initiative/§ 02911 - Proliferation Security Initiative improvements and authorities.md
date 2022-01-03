@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that thePresident should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as "PSI") announced by the President on May 31, 2003, with a particular emphasis on the following:
+It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that the President should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as "PSI") announced by the President on May 31, 2003, with a particular emphasis on the following:
 
 &emsp;(1) Issuing a presidential directive to the relevant United States Government agencies and departments that directs such agencies and departments to—
 
@@ -40,6 +40,8 @@ The Government Accountability Office shall submit to Congress, for each of fisca
 
 (Pub. L. 110–53, title XVIII, §1821, Aug. 3, 2007, 121 Stat. 493; Pub. L. 112–81, div. A, title X, §1067, formerly §1067(b), Dec. 31, 2011, 125 Stat. 1589, renumbered §1067, Pub. L. 112–239, div. A, title X, §1076(a)(20)(B), Jan. 2, 2013, 126 Stat. 1949; Pub. L. 114–92, div. A, title X, §1076(b), Nov. 25, 2015, 129 Stat. 998.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–92 struck out par. (1) designation and heading "In general" and pars. (2) and (3) which related to report and classification, respectively.
@@ -48,9 +50,13 @@ The Government Accountability Office shall submit to Congress, for each of fisca
 
 <b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §1067, formerly §1067(b), as amended by Pub. L. 112–239, §1076(a)(20)(B), substituted "of each even-numbered year" for "of each year" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment by section 1076(a)(20)(B) is effective Dec. 31, 2011, as if included in Pub. L. 112–81 as enacted.
+
+#### <b>Executive Documents</b>
 
 #### Assignment of Functions Under Section 1821(c) of the Implementing Recommendations of the 9/11 Commission Act of 2007
 

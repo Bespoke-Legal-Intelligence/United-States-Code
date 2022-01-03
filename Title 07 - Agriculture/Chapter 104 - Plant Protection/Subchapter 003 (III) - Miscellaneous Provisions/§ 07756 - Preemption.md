@@ -14,7 +14,7 @@ No State or political subdivision of a State may regulate in foreign commerce an
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), no State or political subdivision of a State may regulate the movement in interstate commerce of any article, means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order to control a plant pest or noxious weed, eradicate a plant pest or noxious weed, or prevent the introduction or dissemination of a biological control organism, plant pest, or noxious weed, if theSecretary has issued a regulation or order to prevent the dissemination of the biological control organism, plant pest, or noxious weed within the United States.
+&emsp;Except as provided in paragraph (2), no State or political subdivision of a State may regulate the movement in interstate commerce of any article, means of conveyance, plant, biological control organism, plant pest, noxious weed, or plant product in order to control a plant pest or noxious weed, eradicate a plant pest or noxious weed, or prevent the introduction or dissemination of a biological control organism, plant pest, or noxious weed, if the Secretary has issued a regulation or order to prevent the dissemination of the biological control organism, plant pest, or noxious weed within the United States.
 
 #### (2) Exceptions
 
@@ -27,6 +27,8 @@ No State or political subdivision of a State may regulate in foreign commerce an
 &emsp;&emsp;A State or political subdivision of a State may impose prohibitions or restrictions upon the movement in interstate commerce of articles, means of conveyance, plants, plant products, biological control organisms, plant pests, or noxious weeds that are in addition to the prohibitions or restrictions imposed by the Secretary, if the State or political subdivision of a State demonstrates to the Secretary and the Secretary finds that there is a special need for additional prohibitions or restrictions based on sound scientific data or a thorough risk assessment.
 
 (Pub. L. 106–224, title IV, §436, June 20, 2000, 114 Stat. 453.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

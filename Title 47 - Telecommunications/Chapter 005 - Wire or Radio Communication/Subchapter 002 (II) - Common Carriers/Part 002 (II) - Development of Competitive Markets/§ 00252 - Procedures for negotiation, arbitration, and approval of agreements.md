@@ -34,7 +34,7 @@
 
 #### (4) Action by State commission
 
-&emsp;(A) The State commission shall limit its consideration of any petition under paragraph (1) (and any response thereto) to the issues set forth in the petition and in the response, if any, filed under paragraph (3).
+&emsp;(A) The State commission shall limit its consideration of any petition under paragraph\(1) (and any response thereto) to the issues set forth in the petition and in the response, if any, filed under paragraph (3).
 
 &emsp;(B) The State commission may require the petitioning party and the responding party to provide such information as may be necessary for the State commission to reach a decision on the unresolved issues. If any party refuses or fails unreasonably to respond on a timely basis to any reasonable request from the State commission, then the State commission may proceed on the basis of the best information available to it from whatever source derived.
 
@@ -42,7 +42,7 @@
 
 #### (5) Refusal to negotiate
 
-&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in thepresence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
+&emsp;The refusal of any other party to the negotiation to participate further in the negotiations, to cooperate with the State commission in carrying out its function as an arbitrator, or to continue to negotiate in good faith in the presence, or with the assistance, of the State commission shall be considered a failure to negotiate in good faith.
 
 #### (c) Standards for arbitration
 
@@ -118,7 +118,7 @@ In resolving by arbitration under subsection (b) any open issues and imposing co
 
 #### (5) Commission to act if State will not act
 
-&emsp;If a State commission fails to act to carry out its responsibility under this section in anyproceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
+&emsp;If a State commission fails to act to carry out its responsibility under this section in any proceeding or other matter under this section, then the Commission shall issue an order preempting the State commission's jurisdiction of that proceeding or matter within 90 days after being notified (or taking notice) of such failure, and shall assume the responsibility of the State commission under this section with respect to the proceeding or matter and act for the State commission.
 
 #### (6) Review of State commission actions
 
@@ -172,5 +172,5 @@ For purposes of this section, the term "incumbent local exchange carrier" has th
 
 #### References in Text
 
-This chapter, referred to in subsec. (g), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

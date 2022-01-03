@@ -40,13 +40,17 @@ Not later than 1 year after December 20, 2018, the Secretary shall conduct a rev
 
 (Pub. L. 115–334, title XII, §12512, Dec. 20, 2018, 132 Stat. 4995.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Crop Insurance Act, referred to in subsec. (b), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see section 1501 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of subtitle C oftitle XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of subtitle C of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

@@ -6,7 +6,7 @@ In this section:
 
 &emsp;(1) The term "cost estimate"—
 
-&emsp;&emsp;(A) means an assessment and quantification of all costs and risks associated with the acquisition of a major system based upon reasonably available information at the time the Director establishes the 2010 adjusted total acquisition cost for such system pursuant to subsection (h) or restructures such system pursuant to section 3102(c) of this title; and
+&emsp;&emsp;(A) means an assessment and quantification of all costs and risks associated with the acquisition of a major system basedupon reasonably available information at the time the Director establishes the 2010 adjusted total acquisition cost for such system pursuant to subsection (h) or restructures such system pursuant to section 3102(c) of this title; and
 
 &emsp;&emsp;(B) does not mean an "independent cost estimate".
 
@@ -132,7 +132,7 @@ If the program manager of a major system for which a report has previously been 
 
 #### (g) Prohibition on obligation of funds
 
-If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Director under subsection (d) and a Major System Congressional Report containing the information described in subsection (f) is not submitted to Congress under subsection (e)(1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Director under subsection (d) and the Major System Congressional Report containing the information described in subsection (f) and section 3102(b)(3) of this title and the certification required by section 3102(b)(2) of this title are not submitted to Congress under subsection (e)(2), funds appropriated for construction, research, development, test, evaluation,and procurement may not be obligated for a major contract under the major system. The prohibition on the obligation of funds for a major system shall cease to apply at the end of the 45-day period that begins on the date—
+If a determination of an increase by a percentage equal to or greater than the significant cost growth threshold is made by the Director under subsection (d) and a Major System Congressional Report containing the information described in subsection (f) is not submitted to Congress under subsection (e)(1), or if a determination of an increase by a percentage equal to or greater than the critical cost growth threshold is made by the Director under subsection (d) and the Major System Congressional Report containing the information described in subsection (f) and section 3102(b)(3) of this title and the certification required by section 3102(b)(2) of this title are not submitted to Congress under subsection (e)(2), funds appropriated for construction, research, development, test, evaluation, and procurement may not be obligated for a major contract under the major system. The prohibition on the obligation of funds for a major system shall cease to apply at the end of the 45-day period that begins on the date—
 
 &emsp;(1) on which Congress receives the Major System Congressional Report under subsection (e)(1) with respect to that major system, in the case of a determination of an increase by a percentage equal to or greater than the significant cost growth threshold (as determined in subsection (d)); or
 
@@ -168,9 +168,13 @@ Any report required to be submitted under this section may be submitted in a cla
 
 (July 26, 1947, ch. 343, title V, §506E, as added Pub. L. 111–259, title III, §323(a)(1), Oct. 7, 2010, 124 Stat. 2674.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 415a–7 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability Date of Quarterly Reports
 
@@ -178,5 +182,5 @@ Pub. L. 111–259, title III, §323(a)(2), Oct. 7, 2010, 124 Stat. 2678, provide
 
 #### Major Defense Acquisition Programs
 
-Pub. L. 111–259, title III, §323(b), Oct. 7, 2010, 124 Stat. 2678, provided that: "Nothing in this section \[enacting this section and provisions set out as a note under this section\], section 324 \[enacting section 3102 of this title\], or an amendment made by this section or section 324, shall be construed to exempt an acquisition program of the Department of Defense from the requirements of chapter 144 of title 10, United States Code\[,\] or Department of Defense Directive 5000, to the extent that such requirements are otherwise applicable."
+Pub. L. 111–259, title III, §323(b), Oct. 7, 2010, 124 Stat. 2678, provided that: "Nothing in this section \[enacting this section and provisions set out as a note under this section\], section 324 \[enacting section 3102 of this title\], or an amendment made by this section or section 324, shall be construed to exempt an acquisition program of the Department of Defense from the requirements of \[former\] chapter 144 of title 10, United States Code \[see chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328 of title 10\]\[,\] or Department of Defense Directive 5000, to the extent that such requirements are otherwise applicable."
 

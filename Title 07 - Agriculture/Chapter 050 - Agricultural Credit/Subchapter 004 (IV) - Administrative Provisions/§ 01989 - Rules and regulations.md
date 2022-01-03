@@ -44,13 +44,13 @@ Notwithstanding subsection (a), in providing farmer program loan guarantees unde
 
 #### (5) Relationship to other requirements
 
-&emsp;Neither this subsection nor subsection (d) shall affect the responsibility of the Secretary to certify eligibility, review financial information, and otherwise assess an application.
+&emsp;Neither this subsection nor subsection (d) shall affect the responsibility of the Secretaryto certify eligibility, review financial information, and otherwise assess an application.
 
 #### (d) Preferred Certified Lenders Program
 
 #### (1) In general
 
-&emsp;Commencing not later than two years after October 28, 1992, the Secretary shall establisha Preferred Certified Lenders Program for lenders who establish their—
+&emsp;Commencing not later than two years after October 28, 1992, the Secretary shall establish a Preferred Certified Lenders Program for lenders who establish their—
 
 &emsp;&emsp;(A) knowledge of, and experience under, the program established under subsection (c);
 
@@ -84,6 +84,8 @@ The Secretary may administer the loan guarantee programs under subsections (c) a
 
 (Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346; Pub. L. 115–334, title V, §5401(d), Dec. 20, 2018, 132 Stat. 4674.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 1921 of this title and Tables.
@@ -97,6 +99,8 @@ This chapter, referred to in text, was in the original "this title", meaning tit
 <b>1999</b>—Subsec. (b)(3). Pub. L. 106–31 struck out ", including expenses of replacing capital items (determined after taking into account depreciation of the items)" after "paragraph (1)".
 
 <b>1992</b>—Pub. L. 102–554, inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 
@@ -114,7 +118,7 @@ Pub. L. 100–233, title VI, §624, Jan. 6, 1988, 101 Stat. 1685, provided that:
 
 #### Study and Report to Congress Before Issuance of Certain Final Regulations
 
-Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before the Secretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of theenactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
+Pub. L. 100–233, title VI, §621, Jan. 6, 1988, 101 Stat. 1684, provided that: "Not later than 60 days before theSecretary of Agriculture issues final regulations providing for the use of ratios and standards as part of loan applications or preapplications, for determining the degree of potential loan risk on loans insured or guaranteed under the Consolidated Farm and Rural Development Act \[7 U.S.C. 1921 et seq.\], the Secretary shall complete a study and report to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Agriculture of the House of Representatives on the effects of such regulations on a representative sample of persons who, as of the date of the enactment of this Act \[Jan. 6, 1988\], are borrowers or potential borrowers of such loans, and shall demonstrate in such study that the implementation of such final regulations will not result in a portfolio of borrowers that is inconsistent with the purposes of the Consolidated Farm and Rural Development Act."
 
 #### Availability of Funds for Continuing Assistance to Delinquent Borrowers; Prohibition on Use of Funds
 

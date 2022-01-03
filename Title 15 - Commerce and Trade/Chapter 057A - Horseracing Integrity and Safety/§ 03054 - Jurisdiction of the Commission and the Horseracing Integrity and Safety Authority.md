@@ -88,7 +88,7 @@ The rules of the Authority promulgated in accordance with this chapter shall pre
 
 &emsp;&emsp;&emsp;(ii) ensure that covered horses and covered persons are deterred from using or administering medications, substances, and methods in violation of the rules established in accordance with this chapter;
 
-&emsp;&emsp;&emsp;(iii) implement anti-doping education, research, testing, compliance and adjudication programs designed to prevent covered persons and covered horses from using or administering medications, substances, and methods in violation of the rules established in accordance with this chapter;
+&emsp;&emsp;&emsp;(iii) implement anti-doping education, research, testing, compliance and adjudication programs designed to prevent covered persons and covered horses from using or administering medications, substances,and methods in violation of the rules established in accordance with this chapter;
 
 &emsp;&emsp;&emsp;(iv) exercise the powers specified in section 3055(c)(4) of this title in accordance with that section; and
 
@@ -190,7 +190,7 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 
 #### (1) Prospective application
 
-&emsp;The jurisdiction and authority of the Authority and the Commission with respect to the horseracing anti-doping and medication control program and the racetrack safety program shall be prospective only.
+&emsp;The jurisdiction and authority of the Authority and the Commission with respect tothe horseracing anti-doping and medication control program and the racetrack safety program shall be prospective only.
 
 #### (2) Previous matters
 
@@ -200,7 +200,7 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 
 #### (B) State racing commission
 
-&emsp;&emsp;With respect to conduct described in subparagraph (A), the applicable State racingcommission shall retain authority until the final resolution of the matter.
+&emsp;&emsp;With respect to conduct described in subparagraph (A), the applicable State racing commission shall retain authority until the final resolution of the matter.
 
 #### (3) Other laws unaffected
 
@@ -221,6 +221,8 @@ The Authority shall develop a list of civil penalties with respect to the enforc
 &emsp;The Authority shall apportion costs described in paragraph (2) in connection with an election under paragraph (1) fairly among all impacted segments of the horseracing industry, subject to approval by the Commission in accordance with section 3053 of this title. Such apportionment may not provide for the allocation of costs or funds among breeds of horses.
 
 (Pub. L. 116–260, div. FF, title XII, §1205, Dec. 27, 2020, 134 Stat. 3259.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

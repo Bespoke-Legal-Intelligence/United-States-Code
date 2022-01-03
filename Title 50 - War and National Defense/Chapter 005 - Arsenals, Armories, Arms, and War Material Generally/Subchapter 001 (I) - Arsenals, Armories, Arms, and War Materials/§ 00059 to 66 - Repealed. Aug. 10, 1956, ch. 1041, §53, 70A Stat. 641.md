@@ -22,5 +22,5 @@ Section 64a, act Mar. 3, 1875, ch. 130, 18 Stat. 388, provided for sale of usele
 
 Section 65, acts Apr. 23, 1904, ch. 1485, 33 Stat. 276; Aug. 1, 1953, ch. 305, title VI, §645, 67 Stat. 357, authorized sale of serviceable ordnance and ordnance stores to American designers.
 
-Section 66, acts Feb. 8, 1889, ch. 116, 25 Stat. 657; Mar. 3, 1899, ch. 423, 30 Stat. 1073; May 26, 1900, ch. 586, 31 Stat. 216; June 28, 1950, ch. 383, title IV, §402(e), 64 Stat. 273; Oct. 31, 1951, ch. 654, §2(27), 65 Stat. 707, authorized issuance of condemned ordnance to State homes for soldiers and sailors. See sections 4686 and 9686 of Title 10.
+Section 66, acts Feb. 8, 1889, ch. 116, 25 Stat. 657; Mar. 3, 1899, ch. 423, 30 Stat. 1073; May 26, 1900, ch. 586, 31Stat. 216; June 28, 1950, ch. 383, title IV, §402(e), 64 Stat. 273; Oct. 31, 1951, ch. 654, §2(27), 65 Stat. 707, authorized issuance of condemned ordnance to State homes for soldiers and sailors. See sections 4686 and 9686 of Title 10.
 

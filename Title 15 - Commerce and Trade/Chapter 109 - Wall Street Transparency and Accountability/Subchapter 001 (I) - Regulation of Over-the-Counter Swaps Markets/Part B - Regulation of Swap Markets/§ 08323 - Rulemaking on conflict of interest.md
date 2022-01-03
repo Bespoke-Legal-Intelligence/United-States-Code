@@ -6,13 +6,15 @@ In order to mitigate conflicts of interest, not later than 180 days after July 2
 
 #### (b) Purposes
 
-The Commission shall adopt rules if it determines, after the review described in subsection (a), that such rules are necessary or appropriate to improve the governance of, or to mitigate systemic risk, promote competition, or mitigate conflicts of interest in connection with a swap dealer or major swap participant's conduct of business with, a derivatives clearing organization, contract market, or swap execution facility that clears or posts swaps or makes swaps available for trading and in which such swap dealer or major swap participant has a material debt or equity investment.
+The Commission shall adopt rules if it determines, after the review described in subsection (a), that such rules are necessary or appropriate to improve the governance of, or to mitigate systemic risk, promote competition, or mitigate conflicts of interest in connection with a swap dealer or major swap participant's conduct of business with, a derivatives clearing organization, contract market, or swap execution facility that clears or posts swaps or makes swapsavailable for trading and in which such swap dealer or major swap participant has a material debt or equity investment.
 
 #### (c) Considerations
 
-In adopting rules pursuant to this section, the Commodity Futures Trading Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters bythe holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.
+In adopting rules pursuant to this section, the Commodity Futures Trading Commission shall consider any conflicts of interest arising from the amount of equity owned by a single investor, the ability to vote, cause the vote of, or withhold votes entitled to be cast on any matters by the holders of the ownership interest, and the governance arrangements of any derivatives clearing organization that clears swaps, or swap execution facility or board of trade designated as a contract market that posts swaps or makes swaps available for trading.
 
 (Pub. L. 111–203, title VII, §726, July 21, 2010, 124 Stat. 1695.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -32,7 +32,7 @@ Elections.—
 
 &emsp;&emsp;(A)
 
-Spousal consent for certain elections respecting standard annuity.—A married person who is eligible to provide a standard annuity may not without the concurrence of the person's spouse elect—
+Spousal consent for certain elections respecting standard annuity.—A married person who is eligible to provide astandard annuity may not without the concurrence of the person's spouse elect—
 
 &emsp;&emsp;&emsp;(i) not to participate in the Plan;
 
@@ -424,7 +424,7 @@ Dependent children annuity.—
 
 &emsp;&emsp;(A)
 
-Annuity when no eligible surviving spouse.—In the case of a person described in paragraph (1), the Secretary concerned shall pay an annuity under this subchapter to the dependent children of that person under section 1450(a)(2) of this title as applicable.
+Annuity when no eligible surviving spouse.—In the case of a person described inparagraph (1), the Secretary concerned shall pay an annuity under this subchapter to the dependent children of that person under section 1450(a)(2) of this title as applicable.
 
 &emsp;&emsp;(B)
 
@@ -432,7 +432,7 @@ Optional annuity when there is an eligible surviving spouse.—The Secretary may
 
 &emsp;(3)
 
-Mandatory former spouse annuity.—If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse uponbecoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
+Mandatory former spouse annuity.—If a person described in paragraph (1) is required under a court order or spousal agreement to provide an annuity to a former spouse upon becoming eligible to be a participant in the Plan or has made an election under subsection (b) to provide an annuity to a former spouse, the Secretary—
 
 &emsp;&emsp;(A) may not pay an annuity under paragraph (1) or (2); but
 
@@ -485,6 +485,8 @@ Disposition of payments.—A payment received under this subsection by the Secre
 #### Amendment of Subsection (d)(2)
 
 <i>Pub. L. 116–92, div. A, title VI, §622(d), (f), Dec. 20, 2019, 133 Stat. 1427, 1428, provided that, effective Jan. 1, 2023, subsection (d)(2) of this section is amended by striking "DEPENDENT CHILDREN.—" and all that follows through "In the case of a member described in paragraph (1)," and inserting "DEPENDENT CHILDREN.—In the case of a member described in paragraph (1)," and by striking subparagraph (B). See 2019 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -604,7 +606,7 @@ Subsec. (a)(3). Pub. L. 99–145, §721(a)(2), amended par. (3) generally. Prior
 
 "(B) If a person who is eligible under paragraph (1)(B) to participate in the Plan and who is married does not elect to participate in the Plan at the maximum level, or elects to provide an annuity for a dependent child but not for his spouse, or elects to provide an annuity for a former spouse under subsection (b)(2), that person's spouse shall be notified of that action."
 
-Subsec. (a)(6). Pub. L. 99–149, §715(a), added par. (6).
+Subsec. (a)(6). Pub. L. 99–145, §715(a), added par. (6).
 
 Subsec. (b)(1). Pub. L. 99–145, §719(3), substituted "a reserve-component annuity" for "an annuity under this paragraph by virtue of eligibility under subsection (a)(1)(B)".
 
@@ -652,9 +654,11 @@ Subsec. (e). Pub. L. 95–397, §202(c), added subsec. (e).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–496 inserted "or elects to provide an annuity for a dependent child but not for his spouse" after "maximum level".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–92, div. A, title VI, §622(f), Dec. 20, 2019, 133 Stat. 1428, provided that: "This section \[amending this section and sections 1450 and 1451 of this title and enacting provisions set out as notes under this section and section 1450 of this title\] and the amendments made by this section shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Dec. 20, 2019\], except subsections (d) and (e) of this section \[amending this section and enacting provisions set out as a note below\] and the amendments made thereby shall take effect on January 1, 2023."
+Pub. L. 116–92, div. A, title VI, §622(f), Dec. 20, 2019, 133 Stat. 1428, provided that: "This section \[amendingthis section and sections 1450 and 1451 of this title and enacting provisions set out as notes under this section and section 1450 of this title\] and the amendments made by this section shall take effect on the first day of the first month that begins after the date of the enactment of this Act \[Dec. 20, 2019\], except subsections (d) and (e) of this section \[amending this section and enacting provisions set out as a note below\] and the amendments made thereby shall take effect on January 1, 2023."
 
 #### Effective Date of 2016 Amendment
 
@@ -666,7 +670,7 @@ Payment.—No annuity benefit under subchapter II of chapter 73 of title 10, Uni
 
 "(2)
 
-Elections.—For any death that occurred before the date of the enactment of this Act with respect to which an annuity under such subchapter is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, determine it appropriate to provide an annuity for the dependentchildren of the decedent under paragraph 1448(f)(2)(B) of title 10, United States Code, as added by subsection (b), instead of an annuity for the surviving spouse. Any such determination and resulting change in beneficiary shall be effective as of the first day of the first month following the date of the determination."
+Elections.—For any death that occurred before the date of the enactment of this Act with respect to which an annuity under such subchapter is being paid (or could be paid) to a surviving spouse, the Secretary concerned may, within six months of that date and in consultation with the surviving spouse, determine it appropriate to provide an annuity for the dependent children of the decedent under paragraph 1448(f)(2)(B) of title 10, United States Code, as added by subsection (b), instead of an annuity for the surviving spouse. Any such determination and resulting change in beneficiary shall be effective as of the first day of the first month following the date of the determination."
 
 #### Effective Date of 2015 Amendment
 
@@ -724,7 +728,7 @@ Amendment by Pub. L. 94–496 effective Sept. 21, 1972, see section 3 of Pub. L.
 
 #### Restoration of Eligibility for Previously Eligible Spouses
 
-Pub. L. 116–92, div. A, title VI, §622(e), Dec. 20, 2019, 133 Stat. 1428, provided that: "The Secretary of the military department concerned shall restore annuity eligibility to any eligible surviving spouse who, in consultation with the Secretary, previously elected to transfer payment of such annuity to a surviving child or children under the provisions of section 1448(d)(2)(B) of title 10, United States Code, as in effect on the day before the effective date provided under subsection (f) \[set out as an Effective Date of 2019 Amendment note above\]. Such eligibility shall be restored whether or not payment to such child or children subsequently was terminated due to loss of dependent status or death. For the purposes of this subsection, an eligible spouse includes a spouse who was previously eligible for payment of such annuity and is not remarried, or remarried after having attained age 55, or whose second or subsequent marriage has been terminated by death, divorce or annulment."
+Pub. L. 116–92, div. A, title VI, §622(e), Dec. 20, 2019, 133 Stat. 1428, provided that: "The Secretary of themilitary department concerned shall restore annuity eligibility to any eligible surviving spouse who, in consultation with the Secretary, previously elected to transfer payment of such annuity to a surviving child or children under the provisions of section 1448(d)(2)(B) of title 10, United States Code, as in effect on the day before the effective date provided under subsection (f) \[set out as an Effective Date of 2019 Amendment note above\]. Such eligibility shall be restored whether or not payment to such child or children subsequently was terminated due to loss of dependent status or death. For the purposes of this subsection, an eligible spouse includes a spouse who was previously eligible for payment of such annuity and is not remarried, or remarried after having attained age 55, or whose second or subsequent marriage has been terminated by death, divorce or annulment."
 
 #### Applicability to Former Spouse Deaths Before Enactment of Pub. L. 114–92
 
@@ -826,7 +830,7 @@ Persons eligible.—Except as provided in paragraph (3), a person is eligible to
 
 &emsp;"(3)
 
-Limitation on eligibility for certain sbp participants not affected by two-tier annuity computation.—A person is not eligible to make an election under paragraph (1) if (as determined by the Secretary concerned) the annuity of a spouse or former spouse beneficiary of that person under the Survivor Benefit Plan is to be computed under section 1451(e) of title 10, United States Code. However, such a person may during the open enrollment period waive the right to have that annuity computed under such section 1451(e). Any such election is irrevocable. A person making such a waiver may make an election under paragraph (1) as in the case of any other participant in the Survivor Benefit Plan.
+Limitation on eligibility for certain sbp participants not affected by two-tier annuity computation.—A person is not eligible to make an election under paragraph (1) if (as determined by the Secretary concerned) the annuity of a spouse orformer spouse beneficiary of that person under the Survivor Benefit Plan is to be computed under section 1451(e) of title 10, United States Code. However, such a person may during the open enrollment period waive the right to have that annuity computed under such section 1451(e). Any such election is irrevocable. A person making such a waiver may make an election under paragraph (1) as in the case of any other participant in the Survivor Benefit Plan.
 
 "(d)
 
@@ -938,11 +942,11 @@ Pub. L. 104–106, div. A, title VI, §635, Feb. 10, 1996, 110 Stat. 366, author
 
 #### Open Enrollment Period for Survivor Benefit Plan Commencing April 1, 1992
 
-Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(l)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425,provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
+Pub. L. 101–189, div. A, title XIV, §1405, Nov. 29, 1989, 103 Stat. 1586, as amended by Pub. L. 101–510, div. A, title VI, §631(2), title XIV, §1484(l)(4)(B), Nov. 5, 1990, 104 Stat. 1580, 1720; Pub. L. 102–190, div. A, title VI, §653(a)(1), (c)(2), Dec. 5, 1991, 105 Stat. 1388, 1389; Pub. L. 102–484, div. A, title VI, §643, Oct. 23, 1992, 106 Stat. 2425, provided for a one-year open enrollment period beginning on Apr. 1, 1992, during which: (1) an eligible retired or former member who was not participating in the Survivor Benefit Plan could elect to participate in the Plan and also elect to participate in the Supplemental Survivor Benefit Plan, (2) a current participant in the Survivor Benefit Plan who was not participating at the maximum base amount could elect to participate in the Plan at a higher base amount or provide coverage for a previously uncovered spouse or former spouse, and (3) a participant in the Survivor Benefit Plan at the maximum level who was providing annuity coverage for a spouse or former spouse could elect to participate in the Supplemental Survivor Benefit Plan, and directed the Secretary of Defense to submit to committees of Congress a report on the open season not later than June 1, 1990.
 
 #### Definitions for 1989 Amendments
 
-Section 1406 of title XIV of div. A of Pub. L. 101–189, as amended by Pub. L. 102–190, div. A, title VI, §653(a)(2), Dec. 5, 1991, 105 Stat. 1388, provided that: "For the purpose of this title \[see Short Title of 1989 Amendment note set out under section 1447 of this title\]:
+Pub. L. 101–189, div. A, title XIV, §1406, Nov. 29, 1989, 103 Stat. 1588, as amended by Pub. L. 102–190, div. A, title VI, §653(a)(2), Dec. 5, 1991, 105 Stat. 1388, provided that: "For the purpose of this title \[see Short Title of 1989 Amendment note set out under section 1447 of this title\]:
 
 &emsp;"(1) The term 'Survivor Benefit Plan' means the program established under subchapter II of chapter 73 of title 10, United States Code.
 
@@ -1068,7 +1072,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 "(b)(1) The amount of retired or retainer pay to be used as the basis for the computation of an annuity under subsection (a) is the amount of the retired or retainer pay to which the member would have been entitled if the member had been entitled to that pay based upon his years of active service when he died, adjusted by the overall percentage increase in retired and retainer pay under section 1401a of title 10, United States Code (or any prior comparable provision of law), during the period beginning on the date of the member's death and ending on the day before the effective date of this section.
 
-"(2) In addition to any reduction required under the provisions of subchapter II of chapter 73 of title 10, United States Code, the annuity paid to any surviving spouse under this section shall be reduced by any amount such surviving spouse is entitled to receive as an annuity under subchapter I of such chapter.
+"(2) In addition to any reduction required under the provisions of subchapter II of chapter 73 of title 10,United States Code, the annuity paid to any surviving spouse under this section shall be reduced by any amount such surviving spouse is entitled to receive as an annuity under subchapter I of such chapter.
 
 "(c) If an individual entitled to an annuity under this section is also entitled to an annuity under subchapter II of chapter 73 of title 10, United States Code, based upon a subsequent marriage, the individual may not receive both annuities but must elect which to receive.
 
@@ -1080,7 +1084,7 @@ Pub. L. 96–402, §5, Oct. 9, 1980, 94 Stat. 1707, provided that:
 
 &emsp;"(3) The term 'Secretary concerned' has the meaning given such term in section 101(8) of title 10, United States Code, and includes the Secretary of Commerce, with respect to matters concerning the National Oceanic and Atmospheric Administration, and the Secretary of Health and Human Services, with respect to matters concerning the Public Health Service."
 
-Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after suchdate, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
+Provision effective Dec. 1, 1980, applicable to annuities payable for months beginning on or after such date, and prohibiting accrual of benefits for any period before Oct. 9, 1980, see section 7 of Pub. L. 96–402, set out as a note under section 1447 of this title.
 
 #### Election To Participate in the Survivor Benefit Plan and Withdraw From the Retired Serviceman's Family Protection Plan
 
@@ -1130,11 +1134,11 @@ Pub. L. 92–425, §4, Sept. 21, 1972, 86 Stat. 712, as amended by Pub. L. 94–
 
 &emsp;"(3) whose annual income, as determined in establishing that eligibility, is less than the maximum annual rate of pension in effect under section 1541(b) of title 38, United States Code;
 
-> shall be paid an annuity by the Secretary concerned unless she is eligible to receive an annuity under the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\]. However, such a person who is the widow of a retired officer of the Public Health Service or the National Oceanic and Atmospheric Administration, and who would otherwise be eligible for an annuity under this section except that she does not qualify for the pension described in clause (2) of this subsection because the service of her deceased spouse is not considered active duty under section 101(21) of title 38, United States Code, is entitled to an annuity under this section.
+> shall be paid an annuity by the Secretary concerned unless she is eligible to receive an annuity under the Survivor Benefit Plan established pursuant to clause (3) of the first section of this Act \[this subchapter\].However, such a person who is the widow of a retired officer of the Public Health Service or the National Oceanic and Atmospheric Administration, and who would otherwise be eligible for an annuity under this section except that she does not qualify for the pension described in clause (2) of this subsection because the service of her deceased spouse is not considered active duty under section 101(21) of title 38, United States Code, is entitled to an annuity under this section.
 
 "(b) The annuity under subsection (a) of this section shall be in an amount which when added to the widow's income determined under subsection (a)(3) of this section, plus the amount of any annuity being received under sections 1431–1436 of title 10, United States Code, but exclusive of a pension described in subsection (a)(2) of this section, equals the maximum annual rate of pension in effect under section 1541(b) of title 38, United States Code. In addition, the Secretary concerned shall pay to the widow, described in the last sentence of subsection (a) of this section, an amount equal to the pension she would otherwise have been eligible to receive under subchapter III of chapter 15 of title 38, United States Code, if the service of her deceased spouse was considered active duty under section 101(21) of that title.
 
-"(c) The amount of an annuity payable under this section, although counted as income in determining the amount of any pension described in subsection (a)(2) ofthis section, shall not be considered to affect the eligiblity \[sic\] of the recipient of such annuity for such pension, even though, as a result of including the amount of the annuity as income, no amount of such pension is due.
+"(c) The amount of an annuity payable under this section, although counted as income in determining the amount of any pension described in subsection (a)(2) of this section, shall not be considered to affect the eligiblity \[sic\] of the recipient of such annuity for such pension, even though, as a result of including the amount of the annuity as income, no amount of such pension is due.
 
 "(d) Subsection 1450(i) and section 1453 as added to title 10, United States Code, by clause 3 of the first section of this Act, are applicable to persons covered by this section.
 

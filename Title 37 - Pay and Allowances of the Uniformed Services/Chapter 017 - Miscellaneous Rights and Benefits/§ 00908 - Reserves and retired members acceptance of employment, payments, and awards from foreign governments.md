@@ -16,7 +16,7 @@ Approval Required for Employment and Compensation.—A person described in subse
 
 (c)
 
-Approval Required for Certain Payments and Awards.—A person described in subsection (a) may accept payment for speeches, travel, meals, lodging, or registration fees described in that subsection, or accept a non-cashaward described in that subsection, only if the Secretary concerned approves the payment or award.
+Approval Required for Certain Payments and Awards.—A person described in subsection (a) may accept payment for speeches, travel, meals, lodging, or registration fees described in that subsection, or accept a non-cash award described in that subsection, only if the Secretary concerned approves the payment or award.
 
 (d)
 

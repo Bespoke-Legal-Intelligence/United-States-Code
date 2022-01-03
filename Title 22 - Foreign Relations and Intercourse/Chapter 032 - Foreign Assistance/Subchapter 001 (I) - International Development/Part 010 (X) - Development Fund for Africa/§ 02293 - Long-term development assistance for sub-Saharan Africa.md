@@ -218,7 +218,7 @@ Pub. L. 114–121, Feb. 8, 2016, 130 Stat. 86, as amended by Pub. L. 115–254, 
 
 &emsp;"(3) promote non-discriminatory reliable, affordable, and sustainable power in urban areas (including small urban areas) to promote economic growth and job creation;
 
-&emsp;"(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable, sustainable, and affordable electrical service to rural and underserved populations;
+&emsp;"(4) promote policies to facilitate public-private partnerships to provide non-discriminatory reliable,sustainable, and affordable electrical service to rural and underserved populations;
 
 &emsp;"(5) encourage the necessary in-country reforms, including facilitating public-private partnerships specifically to support electricity access projects to make such expansion of power access possible;
 
@@ -474,7 +474,7 @@ Findings.—Congress finds the following:
 
 "(b)
 
-Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means titleXII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development."
+Declaration of Policy.—It is the policy of the United States, consistent with title XII of part I of the Foreign Assistance Act of 1961 \[probably means title XII of chapter 2 of part I of the Foreign Assistance Act of 1961, 22 U.S.C. 2220a et seq.\], to support governments of sub-Saharan African countries, United States and African nongovernmental organizations, universities, businesses, and international agencies, to help ensure the availability of basic nutrition and economic opportunities for individuals in sub-Saharan Africa, through sustainable agriculture and rural development."
 
 Pub. L. 105–385, title I, Nov. 13, 1998, 112 Stat. 3462, as amended by Pub. L. 110–234, title VII, §7511(c)(39), May 22, 2008, 122 Stat. 1271; Pub. L. 110–246, §4(a), title VII, §7511(c)(39), June 18, 2008, 122 Stat. 1664, 2032, provided that:
 
@@ -628,7 +628,7 @@ The Electrify Africa Act of 2015, enacted on February 8, 2016 (Public Law 114–
 
 Sec. 2. <i>Establishment of the Coordinator for Power Africa</i>. The United States Agency for International Development (USAID) shall serve as the lead agency to facilitate the implementation of Power Africa and associated activities across the United States Government. The Administrator of USAID shall establish the position of Coordinator for Power Africa within USAID.
 
-Sec. 3. <i>Power Africa Working Group</i>. (a) There is hereby established the Power Africa Working Group (Working Group), co-chaired by the Coordinator for Power Africa within USAID and a member of the National Security Council (NSC) staff to be designated by the Assistant to the President for National Security Affairs. The Working Group shall serve as the multi-agency coordinating and advisory body for the Federal Government's efforts to identify, evaluate, prioritize, and deliver assistance to energy projects across Sub-Saharan Africa in order to advance the energy access and electricity generation goals of Power Africa and promote policycohesion across the Federal Government. Through the Working Group, participating departments and agencies shall provide advice and promote coherence of United States Government positions on and assistance for priority energy projects and policy reforms in support of Power Africa.
+Sec. 3. <i>Power Africa Working Group</i>. (a) There is hereby established the Power Africa Working Group (Working Group), co-chaired by the Coordinator for Power Africa within USAID and a member of the National Security Council (NSC) staff to be designated by the Assistant to the President for National Security Affairs. The Working Group shall serve as the multi-agency coordinating and advisory body for the Federal Government's efforts to identify, evaluate, prioritize, and deliver assistance to energy projects across Sub-Saharan Africa in order to advance the energy access and electricity generation goals of Power Africa and promote policy cohesion across the Federal Government. Through the Working Group, participating departments and agencies shall provide advice and promote coherence of United States Government positions on and assistance for priority energy projects and policy reforms in support of Power Africa.
 
 (b) The Working Group shall consist of representatives of the following executive branch departments and agencies (Participating Agencies):
 

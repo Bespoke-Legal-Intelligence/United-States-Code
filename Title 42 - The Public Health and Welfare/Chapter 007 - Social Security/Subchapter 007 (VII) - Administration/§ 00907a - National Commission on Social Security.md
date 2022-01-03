@@ -14,7 +14,7 @@
 
 (B) At no time shall more than three of the members appointed by the President, one of the members appointed by the Speaker of the House of Representatives, or one of the members appointed by the President pro tempore of the Senate be members of the same political party.
 
-(C) The membership of the Commission shall consist of individuals who are of recognized standing and distinction and who possess the demonstrated capacity to discharge the duties imposed on the Commission, and shall include representatives of the private insurance industry and of recipients and potential recipients of benefits under the programs involved as well as individuals whose capacity is based on a special knowledge or expertise in those programs. No individual who is otherwise an officer or full-time employee of the United States shall serve as a member of the Commission.
+(C) The membership of the Commission shall consist of individuals who are of recognized standing and distinction and who possess the demonstrated capacity to discharge the duties imposed on the Commission, and shall include representatives of the private insurance industry and of recipients and potential recipients ofbenefits under the programs involved as well as individuals whose capacity is based on a special knowledge or expertise in those programs. No individual who is otherwise an officer or full-time employee of the United States shall serve as a member of the Commission.
 
 (D) The Chairman of the Commission shall designate a member of the Commission to act as Vice Chairman of the Commission.
 
@@ -84,6 +84,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 95–216, title III, §361, Dec. 20, 1977, 91 Stat. 1556; Pub. L. 96–265, title V, §502, June 9, 1980, 94 Stat. 470; Pub. L. 98–369, div. B, title III, §2349(b)(3), July 18, 1984, 98 Stat. 1097.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Level V of the Executive Schedule, referred to in subsec. (d)(1), is set out in section 5316 of Title 5, Government Officers and Employees.
@@ -99,6 +101,8 @@ Section was enacted as part of the Social Security Amendments of 1977, and not a
 <b>1980</b>—Subsec. (a)(2)(F). Pub. L. 96–265, §502(a), substituted "a term which shall end on April 1, 1981" for "a term of two years".
 
 Subsec. (c)(2). Pub. L. 96–265, §502(b), substituted "and the Commission shall cease to exist on April 1, 1981" for "and upon the submission of such final report the Commission shall cease to exist".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

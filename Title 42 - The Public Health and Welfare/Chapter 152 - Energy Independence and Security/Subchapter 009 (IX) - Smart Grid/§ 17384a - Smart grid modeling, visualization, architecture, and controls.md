@@ -28,7 +28,7 @@ The Secretary shall support development of models of emerging technologies and s
 
 #### (3) Severe events
 
-&emsp;The Secretary shall prioritize enhancing cyber and physical situational awareness of the electric grid during adverse manmade and naturally-occurring events.
+&emsp;The Secretary shall prioritize enhancing cyber and physical situational awareness ofthe electric grid during adverse manmade and naturally-occurring events.
 
 #### (d) Operation and controls research and development
 

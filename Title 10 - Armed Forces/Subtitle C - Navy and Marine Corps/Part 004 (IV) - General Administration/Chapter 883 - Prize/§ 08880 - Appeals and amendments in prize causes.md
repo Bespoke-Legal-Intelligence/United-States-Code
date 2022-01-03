@@ -28,9 +28,13 @@ R.S. 1006; R.S. 4636.
 
 The words "or of intention to appeal" are omitted as surplusage. Formerly "notices of appeal" were filed in some courts and "notices of intention to appeal" were filed in others. The difference was in terminology, not in substance. These notices are now known as "notices of appeal". The words "next" and "the rendition of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7680 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

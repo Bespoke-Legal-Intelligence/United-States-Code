@@ -66,6 +66,8 @@ Wines other than standard wines may be removed for consumption or sale and be ma
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1387; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title IX, §910(a), Aug. 5, 1997, 111 Stat. 877; Pub. L. 109–432, div. A, title IV, §422(a), Dec. 20, 2006, 120 Stat. 2972.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5388, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -77,6 +79,8 @@ A prior section 5388, act Aug. 16, 1954, ch. 736, 68A Stat. 672, consisted of pr
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

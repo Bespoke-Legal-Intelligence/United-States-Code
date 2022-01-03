@@ -46,6 +46,8 @@ Aug. 9, 1955, ch. 662, §1(g), (h), 69 Stat. 594.
 
 The last sentence of 50:886(b) is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Par. (2)(B). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(b)(1)\], substituted "armory, readiness center, or other structure" for "armory or other structure".
@@ -59,6 +61,8 @@ Par. (3). Pub. L. 106–398, §1 \[div. B, title XXVIII, §2807(a)\], substitute
 <b>1982</b>—Cl. (1). Pub. L. 97–214 substituted provision defining "State" as any State of the United States, the District of Columbia, Puerto Rico, and each territory and possession of the United States including political subdivisions and military units thereof and tax-supported agencies therein for provision defining "State" and "Territory" as including political subdivisions and military units thereof and tax-supported agencies therein.
 
 <b>1958</b>—Cl. (3). Pub. L. 85–861 added cl. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

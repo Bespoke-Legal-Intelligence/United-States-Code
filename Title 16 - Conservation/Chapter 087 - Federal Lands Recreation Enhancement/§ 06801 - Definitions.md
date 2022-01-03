@@ -24,7 +24,7 @@ In this chapter:
 
 #### (6) National Parks and Federal Recreational Lands Pass
 
-&emsp;The term "National Parks and Federal Recreational Lands Pass" means the interagency national pass authorized by section 6804 of this title.
+&emsp;The term "National Parks and Federal Recreational Lands Pass" means the interagencynational pass authorized by section 6804 of this title.
 
 #### (7) Passholder
 
@@ -60,11 +60,15 @@ In this chapter:
 
 (Pub. L. 108–447, div. J, title VIII, §802, Dec. 8, 2004, 118 Stat. 3377.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", and was translated as reading "this title", meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out below and Tables.
 
 Sections 6802, 6804 and 6806 of this title, referred to in text, were in the original references to sections 3, 5 and 7, respectively, and were translated as meaning sections 803, 805 and 807, respectively, of title VIII of div. J of Pub. L. 108–447, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2020 Amendment
 

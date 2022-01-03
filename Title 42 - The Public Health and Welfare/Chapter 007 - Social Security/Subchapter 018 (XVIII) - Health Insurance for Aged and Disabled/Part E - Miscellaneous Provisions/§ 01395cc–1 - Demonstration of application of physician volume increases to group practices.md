@@ -16,7 +16,7 @@
 
 #### (2) Administration by contract
 
-&emsp;Except as otherwise specifically provided, the Secretary may administer the program under this section in accordance with section 1395cc–2 of this title.
+&emsp;Except as otherwise specifically provided, the Secretary may administer the programunder this section in accordance with section 1395cc–2 of this title.
 
 #### (3) Definitions
 
@@ -85,6 +85,8 @@
 &emsp;The Secretary shall limit bonus payments under this section as necessary to ensure that the aggregate expenditures under this subchapter (inclusive of bonus payments) with respect to patients within the scope of the demonstration do not exceed the amount which the Secretary estimates would be expended if the demonstration projects under this section were not implemented.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866A, as added Pub. L. 106–554, §1(a)(6) \[title IV, §412(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–509.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### GAO Report
 

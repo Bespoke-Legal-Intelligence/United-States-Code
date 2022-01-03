@@ -4,7 +4,7 @@
 
 (b) To carry out the purposes of this subchapter, an agency planning or conducting a negotiated rulemaking may accept, hold, administer, and utilize gifts, devises, and bequests of property, both real and personal if that agency's acceptance and use of such gifts, devises, or bequests do not create a conflict of interest. Gifts and bequests of money and proceeds from sales of other property received as gifts, devises, or bequests shall be deposited in the Treasury and shall be disbursed upon the order of the head of such agency. Property accepted pursuant to this section, and the proceeds thereof, shall be used as nearly as possible in accordance with the terms of the gifts, devises, or bequests.
 
-(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4975, §589; renumbered §569 and amendedPub. L. 102–354, §3(a)(2), (5), Aug. 26, 1992, 106 Stat. 944; Pub. L. 104–320, §11(b)(1), Oct. 19, 1996, 110 Stat. 3873.)
+(Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4975, §589; renumbered §569 and amended Pub. L. 102–354, §3(a)(2), (5), Aug. 26, 1992, 106 Stat. 944; Pub. L. 104–320, §11(b)(1), Oct. 19, 1996, 110 Stat. 3873.)
 
 #### <b>Editorial Notes</b>
 

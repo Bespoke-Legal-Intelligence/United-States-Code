@@ -62,7 +62,7 @@ Notwithstanding section 107(a)(2) of the Ethics in Government Act of 1978, the f
 
 &emsp;&emsp;(A) the type, nature, and magnitude of the financial interests of the advisory committee member to which such determination or certification applies; and
 
-&emsp;&emsp;(B) the reasons of the Secretary for such determination or certification, including, asappropriate, the public health interest in having the expertise of the member with respect to the particular matter before the advisory committee.
+&emsp;&emsp;(B) the reasons of the Secretary for such determination or certification, including, as appropriate, the public health interest in having the expertise of the member with respect to the particular matter before the advisory committee.
 
 #### (2) Less than 30 days in advance
 
@@ -78,7 +78,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 &emsp;Not later than February 1 of each year, the Secretary shall submit to the Committee on Appropriations and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, a report that describes—
 
-&emsp;&emsp;(A) with respect to the fiscal year that ended on September 30 of the previous year, the number of persons nominated for participation at meetings for each advisory committee, the number of persons so nominated, and willing to serve, the number of vacancies on each advisory committee, and the number of persons contacted for service as members on each advisory committee meeting for each advisory committee who did not participate because of the potential for such participation to constitute a disqualifying financial interest under section 208 of title 18;
+&emsp;&emsp;(A) with respect to the fiscal year that ended on September 30 of the previous year, the number of persons nominated for participation at meetings for each advisory committee, the number of persons so nominated,and willing to serve, the number of vacancies on each advisory committee, and the number of persons contacted for service as members on each advisory committee meeting for each advisory committee who did not participate because of the potential for such participation to constitute a disqualifying financial interest under section 208 of title 18;
 
 &emsp;&emsp;(B) with respect to such year, the number of persons contacted for service as members for each advisory committee meeting for each advisory committee who did not participate because of reasons other than the potential for such participation to constitute a disqualifying financial interest under section 208 of title 18;
 

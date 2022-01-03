@@ -2,7 +2,7 @@
 
 (a)
 
-Shipbuilding Capability Preservation Agreements.—The Secretary of the Navy may enter into an agreement, to be known as a "shipbuilding capability preservation agreement", with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of this title.
+Shipbuilding Capability Preservation Agreements.—The Secretary of the Navy may enter into an agreement, to be known as a "shipbuilding capability preservation agreement", with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 4811(b) of this title.
 
 (b)
 
@@ -24,7 +24,7 @@ Cost Reimbursement Rules.—The cost reimbursement rules applicable under an agr
 
 (c)
 
-Authority To Modify Cost Reimbursement Rules.—The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in section 2501(b) of this title.
+Authority To Modify Cost Reimbursement Rules.—The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in section 4811(b) of this title.
 
 (d)
 
@@ -34,13 +34,11 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 &emsp;(B) A contract that is awarded during the term of the agreement.
 
-(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector work performed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
+(2) In a shipbuilding capability preservation agreement applicable to a shipbuilder, the Secretary may agree to apply the cost reimbursement rules set forth in subsection (b) to allocations of indirect costs to private sector workperformed by the shipbuilder only with respect to costs that the shipbuilder incurred on or after November 18, 1997, under a contract between the shipbuilder and a private sector customer of the shipbuilder that became effective on or after January 26, 1996.
 
 (Added Pub. L. 105–85, div. A, title X, §1027(a)(1), Nov. 18, 1997, 111 Stat. 1878, §7315; amended Pub. L. 106–65, div. A, title X, §1066(a)(29), Oct. 5, 1999, 113 Stat. 772; renumbered §8685, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836; Pub. L. 116–283, div. A, title XVIII, §1867(e)(3), Jan. 1, 2021, 134 Stat. 4282.)
 
-#### Amendment of Subsections (a) and (c)
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1867(e)(3), Jan. 1, 2021, 134 Stat. 4151, 4282, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended by striking "section 2501(b)" in subsections (a) and (c) and inserting "section 4811(b)". See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -53,6 +51,8 @@ A prior section 8685, acts Aug. 10, 1956, ch. 1041, 70A Stat. 535; Sept. 2, 1958
 <b>2018</b>—Pub. L. 115–232 renumbered section 7315 of this title as this section.
 
 <b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted "November 18, 1997," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
@@ -72,7 +72,7 @@ Establishment.—The Secretary of the Navy may carry out a pilot program to trai
 
 "(b)
 
-Partnerships.—In carrying out the pilot program under this section, the Secretary may partner with existing Federal or State projects relating to investment and infrastructure in training and education or workforce development, such as the National Network for Manufacturing Innovation, the IndustrialBase Analysis and Sustainment program of the Department of Defense, and the National Maritime Educational Council.
+Partnerships.—In carrying out the pilot program under this section, the Secretary may partner with existing Federal or State projects relating to investment and infrastructure in training and education or workforce development, such as the National Network for Manufacturing Innovation, the Industrial Base Analysis and Sustainment program of the Department of Defense, and the National Maritime Educational Council.
 
 "(c)
 

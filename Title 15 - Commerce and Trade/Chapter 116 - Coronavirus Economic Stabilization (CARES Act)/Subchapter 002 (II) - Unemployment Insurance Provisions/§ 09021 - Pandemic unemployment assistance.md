@@ -32,7 +32,7 @@ In this section:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) a child or other person in the household for which the individual has primary caregiving responsibility is unable to attend school or another facility that is closed as a direct result of the COVID–19 public health emergency and such school or facility care is required for the individual to work;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the individual is unable to reach the place of employment because of a quarantine imposed as a direct resultof the COVID–19 public health emergency;
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the individual is unable to reach the place of employment because of a quarantine imposed as a direct result of the COVID–19 public health emergency;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ff) the individual is unable to reach the place of employment because the individual has been advised by a health care provider to self-quarantine due to concerns related to COVID–19;
 
@@ -72,33 +72,25 @@ Subject to subsection (c), the Secretary shall provide to any covered individual
 
 #### (1) In general
 
-&emsp;Except as provided in paragraphs (2) and (3), the assistance authorized under subsection (b) shall be available to a covered individual—
+&emsp;Except as provided in paragraph (2), the assistance authorized under subsection (b) shall be available to a covered individual—
 
 &emsp;&emsp;(A) for weeks of unemployment, partial unemployment, or inability to work caused by COVID–19—
 
 &emsp;&emsp;&emsp;(i) beginning on or after January 27, 2020; and
 
-&emsp;&emsp;&emsp;(ii) ending on or before March 14, 2021; and
+&emsp;&emsp;&emsp;(ii) ending on or before September 6, 2021; and
 
 &emsp;&emsp;(B) subject to subparagraph (A)(ii), as long as the covered individual's unemployment, partial unemployment, or inability to work caused by COVID–19 continues.
 
 #### (2) Limitation on duration of assistance
 
-&emsp;The total number of weeks for which a covered individual may receive assistance under this section shall not exceed 50 weeks and such total shall include any week for which the covered individual received regular compensation or extended benefits under any Federal or State law, except that if after March 27, 2020, the duration of extended benefits is extended, the 50-week period described in this paragraph shall be extended by the number of weeks that is equal to the number of weeks by which the extended benefits were extended.
+&emsp;The total number of weeks for which a covered individual may receive assistance under this section shall not exceed 79 weeks and such total shall include any week for which the covered individual received regular compensation or extended benefits under any Federal or State law, except that if after March 27, 2020, the duration of extended benefits is extended, the 79-week period described in this paragraph shall be extended by the number of weeks that is equal to the number of weeks by which the extended benefits were extended.
 
-#### (3) Transition rule for individuals remaining entitled to pandemic unemployment assistance as of March 14, 2021
+#### (3) Assistance for unemployment before March 27, 2020
 
-#### (A) In general
+&emsp;The Secretary shall establish a process for making assistance under this section available for weeks beginning on or after January 27, 2020, and before March 27, 2020.
 
-&emsp;&emsp;Subject to subparagraph (B), in the case of any individual who, as of the date specified in paragraph (1)(A)(ii), is receiving pandemic unemployment assistance but has not yet exhausted all rights to such assistance under this section, pandemic unemployment assistance shall continue to be payable to such individual for any week beginning on or after such date for which the individual is otherwise eligible for pandemic unemployment assistance.
-
-#### (B) Termination
-
-&emsp;&emsp;Notwithstanding any other provision of this subsection, no pandemic unemployment assistance shall be payable for any week beginning after April 5, 2021.
-
-#### (4) Assistance for unemployment before March 27, 2020
-
-&emsp;The Secretary shall establish a process for making assistance under this section availablefor weeks beginning on or after January 27, 2020, and before March 27, 2020.
+#### (4) Redesignated (3)
 
 #### (5) Appeals by an individual
 
@@ -126,7 +118,7 @@ Subject to subsection (c), the Secretary shall provide to any covered individual
 
 #### (6) Continued eligibility for assistance
 
-&emsp;As a condition of continued eligibility for assistance under this section, a covered individual shall submit a recertification to the State for each week after the individual's 1st week of eligibility that certifies that the individual remains an individual described in subsection (a)(3)(A)(ii) for such week.
+&emsp;As a condition of continued eligibility for assistance under this section, a covered individual shall submit a recertification to theState for each week after the individual's 1st week of eligibility that certifies that the individual remains an individual described in subsection (a)(3)(A)(ii) for such week.
 
 #### (d) Amount of assistance
 
@@ -176,7 +168,7 @@ Notwithstanding State law, for purposes of assistance authorized under this sect
 
 &emsp;&emsp;(A) the total amount of assistance provided by the State pursuant to such agreement; and
 
-&emsp;&emsp;(B) any additional administrative expenses incurred by the State by reason of suchagreement (as determined by the Secretary), including any administrative expenses necessary to facilitate processing of applications for assistance under this section online or by telephone rather than in-person and expenses related to identity verification or validation and timely and accurate payment.
+&emsp;&emsp;(B) any additional administrative expenses incurred by the State by reason of such agreement (as determined by the Secretary), including any administrative expenses necessary to facilitate processing of applications for assistance under this section online or by telephone rather than in-person and expenses related to identity verification or validation and timely and accurate payment.
 
 #### (3) Terms of payments
 
@@ -192,7 +184,7 @@ Notwithstanding State law, for purposes of assistance authorized under this sect
 
 #### (B) Transfer of funds
 
-&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the extended unemployment compensation account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
+&emsp;&emsp;Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the extended unemployment compensation account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A).There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
 
 #### (2) Administrative expenses
 
@@ -216,13 +208,23 @@ Except as otherwise provided in this section or to the extent there is a conflic
 
 &emsp;(2) the term "pandemic" were substituted for the term "disaster" each place it appears in such part 625.
 
-(Pub. L. 116–136, div. A, title II, §2102, Mar. 27, 2020, 134 Stat. 313; Pub. L. 116–260, div. N, title II, §§201(a)–(c)(1), (d), 209(a), 241(a), 242(a), 263(a), Dec. 27, 2020, 134 Stat. 1950—1952, 1956, 1959, 1960, 1963.)
+(Pub. L. 116–136, div. A, title II, §2102, Mar. 27, 2020, 134 Stat. 313; Pub. L. 116–260, div. N, title II, §§201(a)–(c)(1), (d), 209(a), 241(a), 242(a), 263(a), Dec. 27, 2020, 134 Stat. 1950—1952, 1956, 1959, 1960, 1963; Pub. L. 117–2, title IX, §9011(a), (b), Mar. 11, 2021, 135 Stat. 118.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This Act, referred to in subsec. (e), is div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1). Pub. L. 117–2, §9011(a)(1)(A), substituted "paragraph (2)" for "paragraphs (2) and (3)" in introductory provisions.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 117–2, §9011(a)(1)(B), substituted "September 6, 2021" for "March 14, 2021".
+
+Subsec. (c)(2). Pub. L. 117–2, §9011(b), substituted "79 weeks" for "50 weeks" and "79-week period" for "50-week period".
+
+Subsec. (c)(3), (4). Pub. L. 117–2, §9011(a)(2), redesignated par. (4) as (3) and struck out former par. (3) which related to a transition rule for individuals remaining entitled to pandemic unemployment assistance as of Mar. 14, 2021.
 
 <b>2020</b>—Subsec. (a)(3)(A)(iii). Pub. L. 116–260, §241(a), added cl. (iii).
 
@@ -246,11 +248,17 @@ Subsec. (f)(2)(B). Pub. L. 116–260, §242(a)(2), inserted "and expenses relate
 
 Subsec. (h). Pub. L. 116–260, §209(a), substituted "part 625" for "section 625" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–2, title IX, §9011(d), Mar. 11, 2021, 135 Stat. 118, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment ending on or before March 14, 2021."
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. N, title II, §201(c)(2), Dec. 27, 2020, 134 Stat. 1952, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if enacted as part of division A of the CARES Act (Public Law 116–136), except that any decision issued on appeal or review before the date of enactment of this Act \[Dec. 27, 2020\] shall not be affected by the amendment made by paragraph (1)."
 
-Pub. L. 116–260, div. N, title II, §201(g), Dec. 27, 2020, 134 Stat. 1952, provided that: "The amendments madeby subsections (a), (b), (c), and (d) \[amending this section\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Dec. 27, 2020\]."
+Pub. L. 116–260, div. N, title II, §201(g), Dec. 27, 2020, 134 Stat. 1952, provided that: "The amendments made by subsections (a), (b), (c), and (d) \[amending this section\] shall apply as if included in the enactment of the CARES Act (Public Law 116–136), except that no amount shall be payable by virtue of such amendments with respect to any week of unemployment commencing before the date of the enactment of this Act \[Dec. 27, 2020\]."
 
 Pub. L. 116–260, div. N, title II, §209(b), Dec. 27, 2020, 134 Stat. 1956, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 2102 of the CARES Act (Public Law 116–136) \[enacting this section\]."
 
@@ -280,7 +288,9 @@ In general.—The amendment made by subsection (a) \[amending this section\] sha
 
 Special rule.—In the case of any State that made a good faith effort to implement section 2102 of division A of the CARES Act (15 U.S.C. 9021) in accordance with rules similar to those provided in section 625.6 of title 20, Code of Federal Regulations, for weeks ending before the effective date specified in paragraph (1), an individual who received pandemic unemployment assistance from such State for any such week shall not be considered ineligible for such assistance for such week solely by reason of failure to submit a recertification described in subsection (c)(5) of such section 2102."
 
-#### Hold Harmless for Proper Administration of 2020 Amendment
+#### Hold Harmless for Proper Administration of Amendment
+
+Pub. L. 117–2, title IX, §9011(c), Mar. 11, 2021, 135 Stat. 118, provided that: "In the case of an individual who is eligible to receive pandemic unemployment assistance under section 2102 of the CARES Act (15 U.S.C. 9021) as of the day before the date of enactment of this Act \[Mar. 11, 2021\] and on the date of enactment of this Act becomes eligible for pandemic emergency unemployment compensation under section 2107 of the CARES Act (15 U.S.C. 9025) by reason of the amendments made by section 9016(b) of this title \[amending section 9025 of this title\], any payment of pandemic unemployment assistance under such section 2102 made after the date of enactment of this Act to such individual during an appropriate period of time, as determined by the Secretary of Labor, that should have been made under such section 2107 shall not be considered to be an overpayment of assistance under such section 2102, except that an individual may not receive payment for assistance under section 2102 and a payment for assistance under section 2107 for the same week of unemployment."
 
 Pub. L. 116–260, div. N, title II, §201(e), Dec. 27, 2020, 134 Stat. 1952, provided that: "In the case of an individual who is eligible to receive pandemic unemployment assistance under section 2102 \[of\] the CARES Act (15 U.S.C. 9021) as of the day before the date of enactment of this Act \[Dec. 27, 2020\] and on the date of enactment of this Act becomes eligible for pandemic emergency unemployment compensation under section 2107 of the CARES Act (15 U.S.C. 9025) by reason of the amendments made by section 206(b) of this subtitle \[amending section 9025 of this title\], any payment of pandemic unemployment assistance under such section 2102 made after the date of enactment of this Act to such individual during an appropriate period of time, as determined by the Secretary of Labor, that should have been made under such section 2107 shall not be considered to be an overpayment of assistance under such section 2102, except that an individual may not receive payment for assistance under section 2102 and a payment for assistance under section 2107 for the same week of unemployment."
 

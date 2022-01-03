@@ -80,9 +80,13 @@ In subsection (c), the words "The Secretary shall make the appointments" and the
 
 In subsection (d), the words "in carrying out this section" are substituted for "in connection with the performance of its functions" for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–59 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 

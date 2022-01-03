@@ -6,7 +6,7 @@ The Department of Agriculture is authorized to employ qualified law enforcement 
 
 &emsp;(1) protection for the Secretary and the Deputy Secretary during the performance of official duties by each such officer and during any activity that is preliminary or postliminary to the performance of official duties by each such officer;
 
-&emsp;(2) protection, incidental to the protection provided pursuant to paragraph (1), to an individual accompanying each such officer who is participating in an activity or event relatingto the official duties of each such officer when there is an articulable threat to such individual;
+&emsp;(2) protection, incidental to the protection provided pursuant to paragraph (1), to an individual accompanying each such officer who is participating in an activity or event relating to the official duties of each such officer when there is an articulable threat to such individual;
 
 &emsp;(3) continuous protection to the Secretary and Deputy Secretary (including during periods not described in paragraph (1)) if there is an articulable threat of physical harm, in accordance with guidelines established by the Secretary; and
 
@@ -45,6 +45,8 @@ The authorities granted under this section may be exercised notwithstanding sect
 Not later than September 30, 2019, and each September 30 through 2024, the Secretary shall provide to the Committee on Agriculture of the House of Representatives and Committee on Agriculture, Nutrition, and Forestry of the Senate a report describing the protection provided, and accounting for the expenditures made, pursuant to this section.
 
 (Pub. L. 115–334, title XII, §12520, Dec. 20, 2018, 132 Stat. 5001.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

@@ -38,6 +38,8 @@ In subsection (b), the words "appointment as a Reserve" are substituted for the 
 
 The change reflects the implied repeal of the second sentence of section 8352(a) by section 502(a) of the Reserve Officer Personnel Act of 1954 (68 Stat. 1172).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 inserted "the" after "National Guard of" in section catchline.
@@ -49,6 +51,8 @@ Subsec. (a). Pub. L. 103–337, §1675(b)(2), struck out "or Territory, Puerto R
 <b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–651 struck out sentence which provided that upon transfer, an officer is eligible for promotion to the highest regular or reserve grade ever held by him in the Air Force, if his service has been honorable.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

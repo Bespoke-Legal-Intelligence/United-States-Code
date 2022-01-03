@@ -44,7 +44,7 @@
 
 #### (D) Use of stock of controlling corporation in paragraph (1)(A) and (1)(G) cases
 
-&emsp;&emsp;The acquisition by one corporation, in exchange for stock of a corporation (referred to in this subparagraph as "controlling corporation") which is in control of the acquiring corporation, of substantially all of the properties of another corporation shall notdisqualify a transaction under paragraph (1)(A) or (1)(G) if—
+&emsp;&emsp;The acquisition by one corporation, in exchange for stock of a corporation (referred to in this subparagraph as "controlling corporation") which is in control of the acquiring corporation, of substantially all of the properties of another corporation shall not disqualify a transaction under paragraph (1)(A) or (1)(G) if—
 
 &emsp;&emsp;&emsp;(i) no stock of the acquiring corporation is used in the transaction, and
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;A transaction otherwise qualifying under paragraph (1)(A) shall not be disqualified by reason of the fact that stock of a corporation (referred to in this subparagraph as the "controlling corporation") which before the merger was in control of the merged corporation is used in the transaction, if—
 
-&emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stock of the controlling corporation distributed in the transaction); and
+&emsp;&emsp;&emsp;(i) after the transaction, the corporation surviving the merger holds substantially all of its properties and of the properties of the merged corporation (other than stockof the controlling corporation distributed in the transaction); and
 
 &emsp;&emsp;&emsp;(ii) in the transaction, former shareholders of the surviving corporation exchanged, for an amount of voting stock of the controlling corporation, an amount of stock in the surviving corporation which constitutes control of such corporation.
 
@@ -80,7 +80,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock,securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.
+&emsp;&emsp;&emsp;A transaction shall fail to meet the requirements of paragraph (1)(C) unless the acquired corporation distributes the stock, securities, and other properties it receives, as well as its other properties, in pursuance of the plan of reorganization. For purposes of the preceding sentence, if the acquired corporation is liquidated pursuant to the plan of reorganization, any distribution to its creditors in connection with such liquidation shall be treated as pursuant to the plan of reorganization.
 
 #### (ii) Exception
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;For purposes of determining whether a transaction qualifies under paragraph (1)(D)—
 
-&emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1) are met, the term "control" has the meaning given such term by section 304(c), and
+&emsp;&emsp;&emsp;(i) in the case of a transaction with respect to which the requirements of subparagraphs (A) and (B) of section 354(b)(1)are met, the term "control" has the meaning given such term by section 304(c), and
 
 &emsp;&emsp;&emsp;(ii) in the case of a transaction with respect to which the requirements of section 355 (or so much of section 356 as relates to section 355) are met, the fact that the shareholders of the distributing corporation dispose of part or all of the distributed stock, or the fact that the corporation whose stock was distributed issues additional stock, shall not be taken into account.
 
@@ -148,7 +148,9 @@ For purposes of this part, the term "a party to a reorganization" includes—
 
 For purposes of part I (other than section 304), part II, this part, and part V, the term "control" means the ownership of stock possessing at least 80 percent of the total combined voting power of all classes of stock entitled to vote and at least 80 percent of the total number of shares of all other classes of stock of the corporation.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922;Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182; Pub. L. 115–141, div. U, title IV, §401(a)(68), Mar. 23, 2018, 132 Stat. 1187.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 120; Pub. L. 88–272, title II, §218(a), (b), Feb. 26, 1964, 78 Stat. 57; Pub. L. 90–621, §1(a), (b), Oct. 22, 1968, 82 Stat. 1310, 1311; Pub. L. 91–693, §1(a), (b), Jan. 12, 1971, 84 Stat. 2077; Pub. L. 94–455, title VIII, §806(f)(1), title XXI, §2131(a), Oct. 4, 1976, 90 Stat. 1605, 1922; Pub. L. 95–600, title VII, §701(j)(1), Nov. 6, 1978, 92 Stat. 2905; Pub. L. 96–589, §4(a)–(d), (h)(3), (4), Dec. 24, 1980, 94 Stat. 3401–3403, 3405; Pub. L. 97–34, title II, §241, Aug. 13, 1981, 95 Stat. 254; Pub. L. 97–248, title II, §225(a), Sept. 3, 1982, 96 Stat. 490; Pub. L. 97–448, title III, §304(b), (c), Jan. 12, 1983, 96 Stat. 2398; Pub. L. 98–369, div. A, title I, §§63(a), 64(a), 174(b)(5)(D), July 18, 1984, 98 Stat. 583, 584, 707; Pub. L. 99–514, title VI, §621(e)(1), title IX, §904(a), title XVIII, §§1804(g)(2), (h), 1879(l)(1), Oct. 22, 1986, 100 Stat. 2266, 2385, 2806, 2909; Pub. L. 100–647, title I, §1018(q)(5), title IV, §4012(b)(1)(A), Nov. 10, 1988, 102 Stat. 3586, 3656; Pub. L. 101–73, title XIV, §1401(a)(1), (b)(1), Aug. 9, 1989, 103 Stat. 548, 549; Pub. L. 105–34, title X, §1012(c)(2), Aug. 5, 1997, 111 Stat. 917; Pub. L. 105–206, title VI, §6010(c)(3)(B), July 22, 1998, 112 Stat. 813; Pub. L. 105–277, div. J, title IV, §4003(f)(2), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–36, title III, §3001(a)(3), June 25, 1999, 113 Stat. 182; Pub. L. 115–141, div. U, title IV, §401(a)(68), Mar. 23, 2018, 132 Stat. 1187.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -238,6 +240,8 @@ Subsec. (b). Pub. L. 90–621, §1(b), inserted reference to the inclusion of th
 
 Subsec. (b). Pub. L. 88–272, §218(b)(2), inserted references to par. (1)(B) wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–36 applicable to transfers after Oct. 18, 1998, see section 3001(e) of Pub. L. 106–36, set out as a note under section 351 of this title.
@@ -286,7 +290,7 @@ Amendment by section 174(b)(5)(D) of Pub. L. 98–369 applicable to transactions
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–448, title III, §311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendment made by subsection (b) of section 304 \[amending this section\] shall take effect as if included in the amendments made by section 4 of such Act \[Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above\]."
+Pub. L. 97–448, title III, §311(b)(2), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendment made by subsection (b) of section 304 \[amending this section\] shall take effect as if included in the amendmentsmade by section 4 of such Act \[Pub. L. 96–589, the Bankruptcy Tax Act of 1980, see 1980 Amendment notes above\]."
 
 #### Effective Date of 1982 Amendment
 

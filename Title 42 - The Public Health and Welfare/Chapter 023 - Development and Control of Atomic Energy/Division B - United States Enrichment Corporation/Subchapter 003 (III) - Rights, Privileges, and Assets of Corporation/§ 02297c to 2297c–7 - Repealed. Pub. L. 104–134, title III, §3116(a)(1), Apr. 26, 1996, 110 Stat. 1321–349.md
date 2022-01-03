@@ -8,13 +8,15 @@ Section 2297c–2, act Aug. 1, 1946, ch. 724, title II, §1403, as added Pub. L.
 
 Section 2297c–3, act Aug. 1, 1946, ch. 724, title II, §1404, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2935, related to capital structure of Corporation.
 
-Section 2297c–4, act Aug. 1, 1946, ch. 724, title II, §1405, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2936, authorized Corporation to apply for licenses for use of patented inventions and discoveries.
+Section 2297c–4, act Aug. 1, 1946, ch. 724, title II, §1405, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106Stat. 2936, authorized Corporation to apply for licenses for use of patented inventions and discoveries.
 
 Section 2297c–5, act Aug. 1, 1946, ch. 724, title II, §1406, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2936, related to liability for acts committed before and after transition date.
 
 Section 2297c–6, act Aug. 1, 1946, ch. 724, title II, §1407, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2937, related to transfer of uranium inventories to Corporation.
 
 Section 2297c–7, act Aug. 1, 1946, ch. 724, title II, §1408, as added Pub. L. 102–486, title IX, §901, Oct. 24, 1992, 106 Stat. 2937, related to purchase of highly enriched uranium from former Soviet Union.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

@@ -2,7 +2,7 @@
 
 #### (a) Use of additional funds
 
-Consistent, as determined by the President, with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, the Commodity Credit Corporation shall use, in addition to any other funds appropriated or made available for such purposes, any funds made available under subsection (b) for authorized export promotion, foreign market development, export credit financing, and promoting the development, commercialization, and marketing of products resulting from alternative uses of agricultural commodities.
+Consistent, as determined by the President, with the obligations undertaken by the United States set forth in the Uruguay Round Agreements, the Commodity Credit Corporation shalluse, in addition to any other funds appropriated or made available for such purposes, any funds made available under subsection (b) for authorized export promotion, foreign market development, export credit financing, and promoting the development, commercialization, and marketing of products resulting from alternative uses of agricultural commodities.
 
 #### (b) Amount of additional funds
 
@@ -20,9 +20,13 @@ This section shall take effect on December 8, 1994.
 
 (Pub. L. 103–465, title IV, §426, Dec. 8, 1994, 108 Stat. 4966.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Crop Insurance Reform Act of 1994, referred to in subsec. (b), is title I of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3179. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1501 of Title 7, Agriculture, and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

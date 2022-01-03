@@ -22,7 +22,7 @@ As used in this chapter—
 
 #### Amendments
 
-<b>2004</b>—Par. (3). Pub. L. 108–375 amended par. (3) generally. Prior to amendment, par. (3) read as follows: " 'United States' includes all areas under the jurisdiction of the United States including any of the places described in sections 5 and 7 of this title and section 46501(2) of title 49."
+<b>2004</b>—Par. (3). Pub. L. 108–375 amended par. (3) generally. Prior to amendment, par. (3) read as follows:" 'United States' includes all areas under the jurisdiction of the United States including any of the places described in sections 5 and 7 of this title and section 46501(2) of title 49."
 
 <b>1994</b>—Par. (1). Pub. L. 103–415 substituted "within his custody" for "with custody".
 

@@ -72,7 +72,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 #### (1) In general
 
-&emsp;The Secretary shall award up to 5 competitive grants for each fiscal year to institutions of higher education with existing academic degree programs that produce graduates in nuclear science.
+&emsp;The Secretary shall award up to 5 competitive grants for each fiscal year to institutionsof higher education with existing academic degree programs that produce graduates in nuclear science.
 
 #### (2) Criteria
 
@@ -137,6 +137,8 @@ The Secretary shall establish, in accordance with this section, a program to exp
 &emsp;&emsp;(F) $8,750,000 for fiscal year 2013.
 
 (Pub. L. 110–69, title V, §5004, Aug. 9, 2007, 121 Stat. 612; Pub. L. 111–358, title IX, §902(a), Jan. 4, 2011, 124 Stat. 4044.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

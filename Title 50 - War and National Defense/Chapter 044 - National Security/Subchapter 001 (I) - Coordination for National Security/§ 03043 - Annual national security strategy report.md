@@ -18,7 +18,7 @@ Each national security strategy report shall set forth the national security str
 
 &emsp;(3) The proposed short-term and long-term uses of the political, economic, military, and other elements of the national power of the United States to protect or promote the interests and achieve the goals and objectives referred to in paragraph (1).
 
-&emsp;(4) The adequacy of the capabilities of the United States to carry out the national security strategy of the United States, including an evaluation of the balance among the capabilities of all elements of the national power of the United States to support the implementation of the national security strategy.
+&emsp;(4) The adequacy of the capabilities of the United States to carry out the national security strategy of the United States, includingan evaluation of the balance among the capabilities of all elements of the national power of the United States to support the implementation of the national security strategy.
 
 &emsp;(5) Such other information as may be necessary to help inform Congress on matters relating to the national security strategy of the United States.
 
@@ -27,6 +27,8 @@ Each national security strategy report shall set forth the national security str
 Each national security strategy report shall be transmitted to Congress in classified form, but may include an unclassified summary.
 
 (July 26, 1947, ch. 343, title I, §108, formerly §104, as added Pub. L. 99–433, title VI, §603(a)(1), Oct. 1, 1986, 100 Stat. 1074; renumbered §108, Pub. L. 102–496, title VII, §705(a)(2), Oct. 24, 1992, 106 Stat. 3190; amended Pub. L. 106–65, div. A, title IX, §901(b), Oct. 5, 1999, 113 Stat. 717; Pub. L. 114–328, div. A, title IX, §944, Dec. 23, 2016, 130 Stat. 2371; Pub. L. 116–92, div. E, title LXVII, §6742(b)(4), Dec. 20, 2019, 133 Stat. 2240.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -39,6 +41,8 @@ Section was formerly classified to section 404a of this title prior to editorial
 <b>2016</b>—Subsec. (c). Pub. L. 114–328, which directed substitution of "to Congress in classified form, but may include an unclassified summary" for "in both a classified form and an unclassified form", could not be executed because the words "in both a classified form and an unclassified form" did not appear in text.
 
 <b>1999</b>—Subsec. (a)(3). Pub. L. 106–65 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### National Security Planning Guidance To Deny Safe Havens to Al-Qaeda and Its Violent Extremist Affiliates
 
@@ -88,7 +92,7 @@ Review and update of guidance.—The President shall review and update the guida
 
 &emsp;&emsp;"(B) The performance of each Federal department and agency involved in executing the guidance.
 
-&emsp;&emsp;"(C) The performance of the unified country team and appropriate combatant command, or in thecase of a cross-border effort, country teams in the area and the appropriate combatant command.
+&emsp;&emsp;"(C) The performance of the unified country team and appropriate combatant command, or in the case of a cross-border effort, country teams in the area and the appropriate combatant command.
 
 &emsp;&emsp;"(D) Any addition to, deletion from, or change in the order of the prioritized list maintained pursuant to paragraph (2)(A).
 

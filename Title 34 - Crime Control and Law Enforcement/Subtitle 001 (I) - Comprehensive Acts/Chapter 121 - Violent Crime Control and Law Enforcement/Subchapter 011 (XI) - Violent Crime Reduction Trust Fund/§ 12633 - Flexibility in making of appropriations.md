@@ -188,7 +188,7 @@ Section 14161 of title 42, referred to in subsec. (d), was repealed by Pub. L. 1
 
 Section 13812 of title 42, referred to in subsec. (d), was omitted from the Code as obsolete.
 
-Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–322, 108 Stat. 2065, which enacted subchapter XXIII (§10511 et seq.) of chapter 101 of this title, amended former sections 10152 and 10154 of this title and sections 10261 and 10541 of this title, and enacted provisions set out as a note under former section 3751 of Title 42, The Public Health and Welfare.
+Section 210302, referred to in subsec. (d), is section 210302 of Pub. L. 103–322, 108 Stat. 2065, which enactedsubchapter XXIII (§10511 et seq.) of chapter 101 of this title, amended former sections 10152 and 10154 of this title and sections 10261 and 10541 of this title, and enacted provisions set out as a note under former section 3751 of Title 42, The Public Health and Welfare.
 
 Section 14151 of title 42, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1154(b)(3), Jan. 5, 2006, 119 Stat. 3113.
 
@@ -234,7 +234,7 @@ Section 300w–10 of title 42, referred to in subsec. (d), was repealed by Pub. 
 
 Section 5712d of title 42, referred to in subsec. (d), was repealed by Pub. L. 109–162, title XI, §1172(b), Jan. 5, 2006, 119 Stat. 3123.
 
-Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 10261, 10332–10336, 20322, 20324, 20331, and 20334 ofthis title and repealed sections 3796aa–4 and 3796aa–7 of Title 42, The Public Health and Welfare.
+Section 40156, referred to in subsec. (d), is section 40156 of Pub. L. 103–322, 108 Stat. 1922, which amended sections 10261, 10332–10336, 20322, 20324, 20331, and 20334 of this title and repealed sections 3796aa–4 and 3796aa–7 of Title 42, The Public Health and Welfare.
 
 Section 40231, referred to in subsec. (d), is section 40231 of Pub. L. 103–322, 108 Stat. 1932, which enacted subchapter XX (§10461 et seq.) of chapter 101 of this title and amended sections 10221, 10222, 10261, and 10541 of this title.
 

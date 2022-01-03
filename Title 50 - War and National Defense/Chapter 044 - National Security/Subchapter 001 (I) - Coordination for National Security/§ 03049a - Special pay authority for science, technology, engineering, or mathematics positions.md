@@ -76,6 +76,8 @@ The head of each element of the intelligence community shall promulgate regulati
 
 (July 26, 1947, ch. 343, title I, §113B, as added Pub. L. 115–31, div. N, title III, §305(a), May 5, 2017, 131 Stat. 811; amended Pub. L. 116–92, div. E, title LXIII, §6303, Dec. 20, 2019, 133 Stat. 2186.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
@@ -101,6 +103,8 @@ Subsec. (g). Pub. L. 116–92, §6303(2), redesignated subsec. (f) as (g).
 Subsec. (g)(1). Pub. L. 116–92, §6303(6)(A), substituted "Not later than 90 days after the date of the enactment of the Damon Paul Nelson and Matthew Young Pollard Intelligence Authorization Act for Fiscal Years 2018 and 2019" for "Not later than 90 days after May 5, 2017".
 
 Subsec. (g)(2)(A). Pub. L. 116–92, §6303(6)(B), inserted "or (b)" after "subsection (a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

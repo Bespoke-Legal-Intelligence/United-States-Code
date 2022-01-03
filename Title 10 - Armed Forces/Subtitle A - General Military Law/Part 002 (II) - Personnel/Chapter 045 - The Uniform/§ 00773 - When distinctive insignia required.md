@@ -44,6 +44,8 @@ In subsection (a), the word "mark" is omitted as surplusage.
 
 In subsection (a)(2), the words "persons discharged honorably or under honorable conditions from" are substituted for the words "entirely of honorably discharged officers or enlisted men, or both, of". The words "Regular or Volunteer" are omitted as surplusage. The words "when authorized by regulations prescribed by" are substituted for the words "upon occasions authorized by regulations of".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsecs. (a), (b). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" in subsec. (a) wherever appearing and in subsec. (b).

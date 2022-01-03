@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(i) is owned or operated by a unit of State or local government, is a public or private non-profit corporation which is formally granted governmental powers by a unit of State or local government, or is a private non-profit hospital which has a contract with a State or local government to provide health care services to low income individuals who are not entitled to benefits under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] or eligible for assistance under the State plan under this subchapter;
 
-&emsp;&emsp;&emsp;(ii) for the most recent cost reporting period that ended before the calendar quarter involved, had a disproportionate shareadjustment percentage (as determined under section 1886(d)(5)(F) of the Social Security Act \[42 U.S.C. 1395ww(d)(5)(F)\]) greater than 11.75 percent or was described in section 1886(d)(5)(F)(i)(II) of such Act \[42 U.S.C. 1395ww(d)(5)(F)(i)(II)\]; and
+&emsp;&emsp;&emsp;(ii) for the most recent cost reporting period that ended before the calendar quarter involved, had a disproportionate share adjustment percentage (as determined under section 1886(d)(5)(F) of the Social Security Act \[42 U.S.C. 1395ww(d)(5)(F)\]) greater than 11.75 percent or was described in section 1886(d)(5)(F)(i)(II) of such Act \[42 U.S.C. 1395ww(d)(5)(F)(i)(II)\]; and
 
 &emsp;&emsp;&emsp;(iii) does not obtain covered outpatient drugs through a group purchasing organization or other group purchasing arrangement.
 
@@ -96,7 +96,7 @@
 
 #### (6) Treatment of distinct units of hospitals
 
-&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall not be considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
+&emsp;In the case of a covered entity that is a distinct part of a hospital, the hospital shall notbe considered a covered entity under this paragraph unless the hospital is otherwise a covered entity under this subsection.
 
 #### (7) Certification of certain covered entities
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) appropriate credits and refunds are issued to covered entities if such discounts or rebates have the effect of lowering the applicable ceiling price for the relevant quarter for the drugs involved.
 
-&emsp;&emsp;&emsp;(v) Selective auditing of manufacturers and wholesalers to ensure the integrity ofthe drug discount program under this section.
+&emsp;&emsp;&emsp;(v) Selective auditing of manufacturers and wholesalers to ensure the integrity of the drug discount program under this section.
 
 &emsp;&emsp;&emsp;(vi) The imposition of sanctions in the form of civil monetary penalties, which—
 
@@ -234,7 +234,7 @@
 
 &emsp;&emsp;&emsp;(ii) establish such deadlines and procedures as may be necessary to ensure that claims shall be resolved fairly, efficiently, and expeditiously;
 
-&emsp;&emsp;&emsp;(iii) establish procedures by which a covered entity may discover and obtain such information and documents from manufacturers and third parties as may be relevant to demonstrate the merits of a claim thatcharges for a manufacturer's product have exceeded the applicable ceiling price under this section, and may submit such documents and information to the administrative official or body responsible for adjudicating such claim;
+&emsp;&emsp;&emsp;(iii) establish procedures by which a covered entity may discover and obtain such information and documents from manufacturers and third parties as may be relevant to demonstrate the merits of a claim that charges for a manufacturer's product have exceeded the applicable ceiling price under this section, and may submit such documents and information to the administrative official or body responsible for adjudicating such claim;
 
 &emsp;&emsp;&emsp;(iv) require that a manufacturer conduct an audit of a covered entity pursuant to subsection (a)(5)(C) as a prerequisite to initiating administrative dispute resolution proceedings against a covered entity;
 
@@ -256,6 +256,8 @@ For covered entities described in subparagraph (M) (other than a children's hosp
 
 (July 1, 1944, ch. 373, title III, §340B, as added Pub. L. 102–585, title VI, §602(a), Nov. 4, 1992, 106 Stat. 4967; amended Pub. L. 103–43, title XX, §2008(i)(1)(A), June 10, 1993, 107 Stat. 212; Pub. L. 111–148, title II, §2501(f)(1), title VII, §§7101(a)–(d), 7102, Mar. 23, 2010, 124 Stat. 309, 821–823; Pub. L. 111–152, title II, §2302, Mar. 30, 2010, 124 Stat. 1082; Pub. L. 111–309, title II, §204(a)(1), Dec. 15, 2010, 124 Stat. 3289.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (a)(1), (3), (4)(L)(i), (5)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§1395 et seq.) and XIX (§1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -270,7 +272,7 @@ The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub
 
 Section 247b(j)(2) of this title, referred to in subsec. (a)(4)(K), was repealed and section 247b(j)(1)(B) was redesignated section 247b(j)(2) by Pub. L. 103–183, title III, §301(b)(1)(A), (C), Dec. 14, 1993, 107 Stat. 2235.
 
-The Prescription Drug Marketing Act, referred to in subsec. (d)(2)(B)(v)(III), probably means the Prescription Drug Marketing Act of 1987, Pub. L. 100–293, Apr. 22, 1988, 102 Stat. 95, which amended sections 331, 333, 353, and 381 of Title 21, Food and Drugs, and enacted provisions set out as notes under sections 301 and 353 of Title 21. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 301 of Title 21 and Tables.
+The Prescription Drug Marketing Act, referred to in subsec. (d)(2)(B)(v)(III), probably means the Prescription Drug Marketing Act of 1987, Pub. L. 100–293, Apr.22, 1988, 102 Stat. 95, which amended sections 331, 333, 353, and 381 of Title 21, Food and Drugs, and enacted provisions set out as notes under sections 301 and 353 of Title 21. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 301 of Title 21 and Tables.
 
 #### Codification
 
@@ -372,6 +374,8 @@ Pub. L. 111–152, §2302(4), added subsec. (e).
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–585, §602(a), which enacted this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Pub. L. 111–309, title II, §204(a)(2), Dec. 15, 2010, 124 Stat. 3289, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 2302 of the Health Care and Education Reconciliation Act of 2010 (Public Law 111–152)."
@@ -386,7 +390,7 @@ In general.—The amendments made by this section \[amending this section\] and 
 
 "(2)
 
-Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall betaken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
+Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
 
 #### Pricing of Diagnostic Testing
 

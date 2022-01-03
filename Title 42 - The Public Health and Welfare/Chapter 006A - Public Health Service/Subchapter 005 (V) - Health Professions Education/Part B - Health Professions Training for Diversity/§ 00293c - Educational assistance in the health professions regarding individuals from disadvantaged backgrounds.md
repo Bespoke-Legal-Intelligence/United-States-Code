@@ -20,13 +20,13 @@
 
 &emsp;&emsp;(E) publicizing existing sources of financial aid available to students in the education program of such a school or who are undertaking training necessary to qualify them to enroll in such a program;
 
-&emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individuals for any period of health professions education at a health professions school;
+&emsp;&emsp;(F) paying such scholarships as the Secretary may determine for such individualsfor any period of health professions education at a health professions school;
 
 &emsp;&emsp;(G) paying such stipends as the Secretary may approve for such individuals for any period of education in student-enhancement programs (other than regular courses), except that such a stipend may not be provided to an individual for more than 12 months, and such a stipend shall be in an amount determined appropriate by the Secretary (notwithstanding any other provision of law regarding the amount of stipends);
 
 &emsp;&emsp;(H) carrying out programs under which such individuals gain experience regarding a career in a field of primary health care through working at facilities of public or private nonprofit community-based providers of primary health services; and
 
-&emsp;&emsp;(I) conducting activities to develop a larger and more competitive applicant poolthrough partnerships with institutions of higher education, school districts, and other community-based entities.
+&emsp;&emsp;(I) conducting activities to develop a larger and more competitive applicant pool through partnerships with institutions of higher education, school districts, and other community-based entities.
 
 #### (3) Definition
 
@@ -53,6 +53,8 @@ The Secretary, to the extent practicable, shall ensure that services and activit
 The Secretary may require that an entity that applies for a grant or contract under subsection (a), provide non-Federal matching funds, as appropriate, to ensure the institutional commitment of the entity to the projects funded under the grant or contract. As determined by the Secretary, such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in-kind, fairly evaluated, including plant, equipment, or services.
 
 (July 1, 1944, ch. 373, title VII, §739, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3534.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

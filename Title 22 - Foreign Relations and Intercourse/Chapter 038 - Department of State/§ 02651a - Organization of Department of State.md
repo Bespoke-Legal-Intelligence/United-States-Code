@@ -4,7 +4,7 @@
 
 (1) The Department of State shall be administered, in accordance with this Act and other provisions of law, under the supervision and direction of the Secretary of State (hereinafter referred to as the "Secretary").
 
-(2) The Secretary, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources shall be appointed by the President, by and with the advice and consent of the Senate.
+(2) The Secretary, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources shall be appointedby the President, by and with the advice and consent of the Senate.
 
 (3)(A) Notwithstanding any other provision of law and except as provided in this section, the Secretary shall have and exercise any authority vested by law in any office or official of the Department of State. The Secretary shall administer, coordinate, and direct the Foreign Service of the United States and the personnel of the Department of State, except where authority is inherent in or vested in the President.
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the ExecutiveSchedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
+&emsp;There shall be in the Department of State not more than 24 Assistant Secretaries of State who shall be compensated at the rate provided for at level IV of the Executive Schedule under section 5315 of title 5. Each Assistant Secretary of State shall be appointed by the President, by and with the advice and consent of the Senate, except that the appointments of the Assistant Secretary for Public Affairs and the Assistant Secretary for Administration shall not be subject to the advice and consent of the Senate.
 
 #### (2) Assistant Secretary of State for Democracy, Human Rights, and Labor
 
@@ -62,11 +62,51 @@
 
 &emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
-#### (3) Assistant Secretary for economic and business matters
+#### (3) Assistant Secretary for International Narcotics and Law Enforcement Affairs
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the numerical limitation specified in paragraph (1), there is authorized to be established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
+&emsp;&emsp;There is authorized to be in the Department of State an Assistant Secretary for International Narcotics and Law Enforcement Affairs, who shall be responsible to the Secretary of State for all matters, programs, and related activities pertaining to international narcotics, anti-crime, and law enforcement affairs in the conduct of foreign policy by the Department, including, as appropriate, leading the coordination of programs carried out by United States Government agencies abroad, and such other related duties as the Secretary may from time to time designate.
+
+#### (B) Areas of responsibility
+
+&emsp;&emsp;The Assistant Secretary for International Narcotics and Law Enforcement Affairs shall maintain continuous observation and coordination of all matters pertaining to international narcotics, anti-crime, and law enforcement affairs in the conduct of foreign policy, including programs carried out by other United States Government agencies when such programs pertain to the following matters:
+
+&emsp;&emsp;&emsp;(i) Combating international narcotics production and trafficking.
+
+&emsp;&emsp;&emsp;(ii) Strengthening foreign justice systems, including judicial and prosecutorial capacity, appeals systems, law enforcement agencies, prison systems, and the sharing of recovered assets.
+
+&emsp;&emsp;&emsp;(iii) Training and equipping foreign police, border control, other government officials, and other civilian law enforcement authorities for anti-crime purposes, including ensuring that no foreign security unit or member of such unit shall receive such assistance from the United States Government absent appropriate vetting.
+
+&emsp;&emsp;&emsp;(iv) Ensuring the inclusion of human rights and women's participation issues in law enforcement programs, in consultation with the Assistant Secretary for Democracy, Human Rights, and Labor, and other senior officials in regional and thematic bureaus and offices.
+
+&emsp;&emsp;&emsp;(v) Combating, in conjunction with other relevant bureaus of the Department of State and other United States Government agencies, all forms of transnational organized crime, including human trafficking, illicit trafficking in arms, wildlife, and cultural property, migrant smuggling, corruption, money laundering, the illicit smuggling of bulk cash, the licit use of financial systems for malign purposes, and other new and emerging forms of crime.
+
+&emsp;&emsp;&emsp;(vi) Identifying and responding to global corruption, including strengthening the capacity of foreign government institutions responsible for addressing financial crimes and engaging with multilateral organizations responsible for monitoring and supporting foreign governments' anti-corruption efforts.
+
+#### (C) Additional duties
+
+&emsp;&emsp;In addition to the responsibilities specified in subparagraph (B), the Assistant Secretary for International Narcotics and Law Enforcement Affairs shall also—
+
+&emsp;&emsp;&emsp;(i) carry out timely and substantive consultation with chiefs of mission and, as appropriate, the heads of other United States Government agencies to ensure effective coordination of all international narcotics and law enforcement programs carried out overseas by the Department and such other agencies;
+
+&emsp;&emsp;&emsp;(ii) coordinate with the Office of National Drug Control Policy to ensure lessons learned from other United States Government agencies are available to the Bureau of International Narcotics and Law Enforcement Affairs of the Department;
+
+&emsp;&emsp;&emsp;(iii) develop standard requirements for monitoring and evaluation of Bureau programs, including metrics for success that do not rely solely on the amounts of illegal drugs that are produced or seized;
+
+&emsp;&emsp;&emsp;(iv) in coordination with the Secretary of State, annually certify in writing to the Committee on Foreign Relations of the Senate that United States and the Committee on Foreign Affairs of the House of Representatives enforcement personnel posted abroad whose activities are funded to any extent by the Bureau of International Narcotics and Law Enforcement Affairs are complying with section 3927 of this title; and
+
+&emsp;&emsp;&emsp;(v) carry out such other relevant duties as the Secretary may assign.
+
+#### (D) Rule of construction
+
+&emsp;&emsp;Nothing in this paragraph may be construed to limit or impair the authority or responsibility of any other Federal agency with respect to law enforcement, domestic security operations, or intelligence activities as defined in Executive Order 12333.
+
+#### (4) Assistant Secretary for economic and business matters
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the numerical limitation specified in paragraph (1), there is authorized tobe established in the Department of State an Assistant Secretary of State who shall be responsible to the Secretary of State for matters pertaining to international economics and business matters in the conduct of foreign policy.
 
 #### (B) Matters contemplated
 
@@ -92,7 +132,7 @@
 
 &emsp;&emsp;The Assistant Secretary authorized under subparagraph (A) shall coordinate with the Office of Sanctions Coordination established under subsection (h) with respect to the development and implementation of economic sanctions.
 
-#### (4) Nomination of Assistant Secretaries
+#### (5) Nomination of Assistant Secretaries
 
 &emsp;Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the regional or functional bureau or bureaus of the Department of State with respect to which the individual shall have responsibility.
 
@@ -114,7 +154,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 #### (B) Duties described
 
-&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on internationalcounterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
+&emsp;&emsp;The principal duty of the Coordinator shall be the overall supervision (including policy oversight of resources) of international counterterrorism activities. The Coordinator shall be the principal adviser to the Secretary of State on international counterterrorism matters. The Coordinator shall be the principal counterterrorism official within the senior management of the Department of State and shall report directly to the Secretary of State.
 
 #### (3) Rank and status of Ambassador
 
@@ -172,7 +212,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;&emsp;(VII) Holding annual consultations with nongovernmental organizations in partner countries that provide services to improve health, and advocating on behalf of the individuals with HIV/AIDS and those at particular risk of contracting HIV/AIDS, including organizations with members who are living with HIV/AIDS.
 
-&emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, thatHIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
+&emsp;&emsp;&emsp;&emsp;(VIII) Ensuring, through interagency and international coordination, that HIV/AIDS programs of the United States are coordinated with, and complementary to, the delivery of related global health, food security, development, and education.
 
 &emsp;&emsp;&emsp;&emsp;(IX) Directly approving all activities of the United States (including funding) relating to combatting HIV/AIDS in each of Botswana, Cote d'Ivoire, Ethiopia, Guyana, Haiti, Kenya, Mozambique, Namibia, Nigeria, Rwanda, South Africa, Tanzania, Uganda, Vietnam, Zambia, and other countries designated by the President, which other designated countries may include those countries in which the United States is implementing HIV/AIDS programs as of May 27, 2003, and other countries in which the United States is implementing HIV/AIDS programs as part of its foreign assistance program. In designating additional countries under this subparagraph, the President shall give priority to those countries in which there is a high prevalence of HIV or risk of significantly increasing incidence of HIV within the general population and inadequate financial means within the country.
 
@@ -204,7 +244,55 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;&emsp;The term "relevant executive branch agencies" means the Department of State, the United States Agency for International Development, the Department of Health and Human Services (including the Public Health Service), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this Act.
 
-#### (g) Qualifications of certain officers of the Department of State
+#### (g) Bureau of Consular Affairs
+
+There is in the Department of State the Bureau of Consular Affairs, which shall be headed by the Assistant Secretary of State for Consular Affairs.
+
+#### (h) <sup>2</sup> Bureau of Population, Refugees, and Migration
+
+There is in the Department of State the Bureau of Population, Refugees, and Migration, which shall be headed by the Assistant Secretary of State for Population, Refugees, and Migration.
+
+#### (i) Special appointments
+
+#### (1) Positions exercising significant authority
+
+&emsp;The President may, by and with the advice and consent of the Senate, appoint an individual as a Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Envoy, Representative, Coordinator, Special Advisor, or other position performing a similar function, regardless of title, at the Department of State exercising significant authority pursuant to the laws of the United States. Except as provided in paragraph (3) or in clause 3, section 2, article II of the Constitution (relating to recess appointments), an individual may not be designated as a Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Envoy, Representative, Coordinator, Special Advisor, or other position performing a similar function, regardless of title, at the Department exercising significant authority pursuant to the laws of the United States without the advice and consent of the Senate.
+
+#### (2) Positions not exercising significant authority
+
+&emsp;The President or Secretary of State may appoint any Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Special Envoy, Representative, Coordinator, Special Advisor, or other position performing a similar function, regardless of title, at the Department of State not exercising significant authority pursuant to the laws of the United States without the advice and consent of the Senate, if the President or Secretary, not later than 15 days before the appointment of a person to such a position, submits to the appropriate congressional committees a notification that includes the following:
+
+&emsp;&emsp;(A) A certification that the position does not require the exercise of significant authority pursuant to the laws of the United States.
+
+&emsp;&emsp;(B) A description of the duties and purpose of the position.
+
+&emsp;&emsp;(C) The rationale for giving the specific title and function to the position.
+
+#### (3) Limited exception for temporary appointments exercising significant authority
+
+&emsp;The President may maintain or establish a position with the title of Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Envoy, Representative, Coordinator, Special Advisor, or other position performing a similar function, regardless of title, at the Department of State exercising significant authority pursuant to the laws of the United States for not longer than 180 days if the Secretary of State, not later than 15 days after the appointment of a person to such a position, or 30 days after December 27, 2021, whichever is earlier, submits to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a notification that includes the following:
+
+&emsp;&emsp;(A) The necessity for conferring such title and function.
+
+&emsp;&emsp;(B) The dates during which such title and function will be held.
+
+&emsp;&emsp;(C) The justification for not submitting the proposed conferral of such title and function to the Senate as a nomination for advice and consent to appointment.
+
+&emsp;&emsp;(D) All relevant information concerning any potential conflict of interest which the proposed recipient of such title and function may have with regard to the appointment.
+
+#### (4) Renewal of temporary appointment
+
+&emsp;The President may renew for one period not to exceed 180 days any position maintained or established under paragraph (3) if the President, not later than 15 days before issuing such renewal, submits to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a detailed justification on the necessity of such extension, including the dates with respect to which such title will continue to be held and the justification for not submitting such title to the Senate as a nomination for advice and consent.
+
+#### (5) Exemption
+
+&emsp;Paragraphs (1) through (4) shall not apply to a Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Envoy, Representative, Coordinator, Special Advisor, or other person performing a similar function, regardless of title, at the Department of State if the position is expressly mandated by statute.
+
+#### (6) Effective date
+
+&emsp;This subsection shall apply to appointments made on or after January 3, 2023.
+
+#### (j) Qualifications of certain officers of the Department of State
 
 #### (1) Officer having primary responsibility for personnel management
 
@@ -218,7 +306,7 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-#### (h) Office of Sanctions Coordination
+#### (h) <sup>2</sup> Office of Sanctions Coordination
 
 #### (1) In general
 
@@ -260,13 +348,15 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;&emsp;The authority provided under subparagraph (A) shall terminate on the date that is two years after December 27, 2020.
 
-(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132.)
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377; Pub. L. 108–25, title I, §102(a), May 27, 2003, 117 Stat. 721; Pub. L. 108–458, title VII, §7109(b)(1), Dec. 17, 2004, 118 Stat. 3793; Pub. L. 110–293, title I, §102, July 30, 2008, 122 Stat. 2933; Pub. L. 112–166, §2(j), Aug. 10, 2012, 126 Stat. 1286; Pub. L. 116–94, div. J, title VII, §703, Dec. 20, 2019, 133 Stat. 3070; Pub. L. 116–260, div. FF, title III, §361(a)(1), (2), Dec. 27, 2020, 134 Stat. 3131, 3132; Pub. L. 117–81, div. E, title LI, §§5102(a), 5103, 5105, Dec. 27, 2021, 135 Stat. 2343, 2345, 2346.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1) and (f)(2)(C)(iv), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
+
+Executive Order 12333, referred to in subsec. (c)(3)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 3001 of Title 50, War and National Defense.
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and section 242l of Title 42, The Public Health and Welfare, and enacted provisions set out as a note under section 7601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7601 of this title and Tables.
 
@@ -277,6 +367,16 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(3) to (5). Pub. L. 117–81, §5102(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (g). Pub. L. 117–81, §5103(2), added subsec. (g). Former subsec. (g) redesignated (j).
+
+Subsec. (h). Pub. L. 117–81, §5103(2), added subsec. (h) relating to Bureau of Population, Refugees, and Migration.
+
+Subsec. (i). Pub. L. 117–81, §5105, added subsec. (i).
+
+Subsec. (j). Pub. L. 117–81, §5103(1), redesignated subsec. (g) as (j).
 
 <b>2020</b>—Subsec. (c)(3)(C). Pub. L. 116–260, §361(a)(2), added subpar. (C).
 
@@ -368,11 +468,15 @@ Amendment by section 1313 of Pub. L. 105–277 effective Oct. 1, 1999, see secti
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8, Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
+Pub. L. 103–236, title I, §161(b), Apr. 30, 1994, 108 Stat. 404, as amended by Pub. L. 103–415, §1(f)(2), Oct. 25, 1994, 108 Stat. 4300, provided that: "The amendments made by this section and section 162 \[amending this section, sections 2151n, 2304, 2314, 2349aa–2, 2384, 2652b, 2655a, 2669, 2670, 2707, 2755, 4302 to 4305, 4308, 4801, 4802, 4806, 4821 to 4823, and 4852 of this title, sections 5314 and 5315 of Title 5, Government Organization and Employees, sections 1101, 1104, 1105, and 1521 to 1523 of Title 8,Aliens and Nationality, repealing sections 811a, 2652, 2652a, 2653 to 2655, 2658, 4803, and 4804 of this title and section 1525 of Title 8, and amending provisions set out as a note under section 113 of Title 10, Armed Forces\] shall apply with respect to officials, offices, and bureaus of the Department of State when executive orders, regulations, or departmental directives implementing such amendments become effective, or 90 days after the date of enactment of this Act \[Apr. 30, 1994\], whichever comes earlier."
 
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### Waiver Authority for Individual Occupational Requirements of Certain Positions
+
+Pub. L. 117–81, div. E, title LIII, §5319, Dec. 27, 2021, 135 Stat. 2368, provided that: "The Secretary of State may waive any or all of the individual occupational requirements with respect to an employee or prospective employee of the Department of State for a civilian position categorized under the GS–0130 occupational series if the Secretary determines that the individual possesses significant scientific, technological, engineering, or mathematical expertise that is integral to performing the duties of the applicable position, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document that is transmitted to the Director of the Office of Personnel Management the rationale for the decision of the Secretary to waive such requirements."
 
 #### Sanctions Policy Coordination with Allies and Partners of United States
 
@@ -430,7 +534,7 @@ Pub. L. 116–136, div. B, title XI, §21007, Mar. 27, 2020, 134 Stat. 592, prov
 
 #### Oaths of Office Administered Remotely
 
-Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriate verification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
+Pub. L. 116–136, div. B, title XI, §21011, Mar. 27, 2020, 134 Stat. 593, provided that: "Notwithstanding any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may authorize any oath of office required by law to, in particular circumstances that could otherwise pose health risks, be administered remotely, subject to appropriate verification: <i>Provided</i>, That prior to initially exercising the authority of this section, the Secretary and the Administrator shall each submit a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives describing the process and procedures for administering such oaths, including appropriateverification: <i>Provided further</i>, That the authority made available pursuant to this section shall expire on September 30, 2021."
 
 #### Coordinator of United States Government Activities Providing Basic Education Assistance in Developing Countries
 
@@ -500,7 +604,7 @@ Pub. L. 108–447, div. B, title IV, §408, Dec. 8, 2004, 118 Stat. 2904, provid
 
 #### Comprehensive Workforce Plan
 
-Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit to the appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
+Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, required the Secretary of State to submit tothe appropriate congressional committees, not later than 180 days after Sept. 30, 2002, a comprehensive workforce plan for the Department of State for the fiscal years 2003 through 2007, considering personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations.
 
 #### "Rightsizing" Overseas Posts
 
@@ -578,7 +682,7 @@ Recruitment Activities at Academic Institutions.—The Secretary shall expand th
 
 "(c)
 
-Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the ForeignService and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\]."
+Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the Foreign Service and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\]."
 
 #### State Department Official for Northeastern Europe
 
@@ -604,7 +708,7 @@ Duties.—The Adviser shall—
 
 Pub. L. 103–236, title I, §161(c), Apr. 30, 1994, 108 Stat. 404, provided that: "Any officer of the Department of State holding office on the date of the enactment of this Act \[Apr. 30, 1994\] shall not be required to be reappointed to any other office, at the Department of State at the same level performing similar functions, as determined by the President, by reason of the enactment of the amendments made by this section and section 162 \[see Effective Date of 1994 Amendment note above for classification\]."
 
-\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
+\[Functions of President under section 161(c) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the UnitedStates, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
 #### References to Officials and Offices of Department of State Whose Authority Is vested in Secretary of State Deemed References to Secretary of State or Department of State
 
@@ -639,4 +743,6 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
 <i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

@@ -48,6 +48,8 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 (July 1, 1944, ch. 373, title XV, §1501, as added Pub. L. 101–354, §2, Aug. 10, 1990, 104 Stat. 409; amended Pub. L. 103–43, title XX, §2008(c)(1), June 10, 1993, 107 Stat. 211; Pub. L. 103–183, title I, §101(a), (b), (f), (g)(1), Dec. 14, 1993, 107 Stat. 2227–2229; Pub. L. 105–340, title II, §203(a), (b), Oct. 31, 1998, 112 Stat. 3194; Pub. L. 105–392, title IV, §401(b)(5), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 110–18, §2(1), Apr. 20, 2007, 121 Stat. 80.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -60,7 +62,7 @@ A prior section 1501 of act July 1, 1944, ch. 373, title XV, as added Jan. 4, 19
 
 Prior sections 300k–2 and 300k–3 were repealed by Pub. L. 99–660, title VII, §701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
 
-Section 300k–2, act July 1, 1944, ch. 373, title XV, §1502, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat.2227; amended Nov. 9, 1978, Pub. L. 95–619, title III, §303(a), 92 Stat. 3248; Oct. 4, 1979, Pub. L. 96–79, title I, §§102(a), 103(a), (b), 93 Stat. 594, 595, related to national health priorities and strengthening competition in supply of services.
+Section 300k–2, act July 1, 1944, ch. 373, title XV, §1502, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2227; amended Nov. 9, 1978, Pub. L. 95–619, title III, §303(a), 92 Stat. 3248; Oct. 4, 1979, Pub. L. 96–79, title I, §§102(a), 103(a), (b), 93 Stat. 594, 595, related to national health priorities and strengthening competition in supply of services.
 
 Section 300k–3, act July 1, 1944, ch. 373, title XV, §1503, as added Jan. 4, 1975, Pub. L. 93–641, §3, 88 Stat. 2228; amended Aug. 1, 1977, Pub. L. 95–83, title I, §106(a), 91 Stat. 384; July 10, 1979, Pub. L. 96–32, §7(g), 93 Stat. 84; Oct. 4, 1979, Pub. L. 96–79, title I, §102(b), 93 Stat. 594; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, related to National Council on Health Planning and Development.
 
@@ -85,6 +87,8 @@ Pub. L. 103–43, §2008(c)(1), designated existing provisions as par. (1), inse
 Subsec. (c). Pub. L. 103–183, §101(f), added subsec. (c) relating to coordinating committee regarding year 2000 health objectives.
 
 Pub. L. 103–183, §101(b), added subsec. (c) relating to special consideration for certain States.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

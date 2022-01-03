@@ -40,6 +40,8 @@ The service projects carried out by the National Civilian Community Corps shall�
 
 (Pub. L. 101–610, title I, §157, formerly §195F, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2526; renumbered §157 and amended Pub. L. 103–82, title I, §104(b), title IV, §§402(b)(2), 403(b), Sept. 21, 1993, 107 Stat. 840, 919, 920; Pub. L. 111–13, title I, §1507, Apr. 21, 2009, 123 Stat. 1524.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 12653f of this title prior to renumbering by Pub. L. 103–82, §104(b).
@@ -69,6 +71,8 @@ Subsec. (c)(2). Pub. L. 111–13, §1507(3)(B), substituted "campus directors" f
 <b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–82, §403(b), substituted "Director" for "Director of the Civilian Community Corps".
 
 Subsec. (b)(2). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

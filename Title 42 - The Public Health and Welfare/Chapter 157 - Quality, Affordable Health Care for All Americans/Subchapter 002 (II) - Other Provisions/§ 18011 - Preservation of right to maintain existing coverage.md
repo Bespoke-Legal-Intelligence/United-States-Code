@@ -12,7 +12,7 @@
 
 #### (3) Application of certain provisions
 
-&emsp;The provisions of sections 2715 \[42 U.S.C. 300gg–15\] and 2718 \[42 U.S.C. 300gg–18\] of thePublic Health Service Act (as added by subtitle A) shall apply to grandfathered health plans for plan years beginning on or after March 23, 2010.
+&emsp;The provisions of sections 2715 \[42 U.S.C. 300gg–15\] and 2718 \[42 U.S.C. 300gg–18\] of the Public Health Service Act (as added by subtitle A) shall apply to grandfathered health plans for plan years beginning on or after March 23, 2010.
 
 #### (4) Application of certain provisions
 
@@ -48,7 +48,7 @@ With respect to a group health plan or health insurance coverage in which an ind
 
 #### (c) Allowance for new employees to join current plan
 
-A group health plan that provides coverage on March 23, 2010, may provide for the enrolling of new employees (and their families) in such plan, and this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply with respect to such plan and such new employees (and their families).
+A group health plan that provides coverage on March 23, 2010, may provide for the enrolling ofnew employees (and their families) in such plan, and this subtitle and subtitle A (and the amendments made by such subtitles) shall not apply with respect to such plan and such new employees (and their families).
 
 #### (d) Effect on collective bargaining agreements
 
@@ -64,6 +64,8 @@ In this title,<sup>1</sup> the term "grandfathered health plan" means any group 
 
 <i>Amendment of section by section 102(d)(2) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
@@ -74,7 +76,7 @@ Subtitle A, referred to in subsecs. (a)(2), (3), (c), and (d), is subtitle A (§
 
 The Public Health Service Act, referred to in subsec. (a)(4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-This title, referred to in subsecs. (a)(4)(A) and (e), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130,which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
+This title, referred to in subsecs. (a)(4)(A) and (e), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 
@@ -85,6 +87,8 @@ This title, referred to in subsecs. (a)(4)(A) and (e), is title I of Pub. L. 111
 Subsec. (a)(3). Pub. L. 111–148, §10103(d)(2), added par. (3).
 
 Subsec. (a)(4). Pub. L. 111–152 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

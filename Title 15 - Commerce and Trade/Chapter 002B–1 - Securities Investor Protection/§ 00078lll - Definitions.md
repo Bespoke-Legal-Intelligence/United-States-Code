@@ -98,7 +98,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;&emsp;(L) fees and other income from such other categories of the securities business as SIPC shall provide by bylaw.
 
-> &emsp;Such term includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term does not include revenues received by a broker or dealer in connection with the distribution of shares of a registered open end investment company or unit investment trust or revenues derived by a broker or dealer from the sale of variable annuities or from the conduct of the business of insurance.
+> &emsp;Such term includes revenues earned by a broker or dealer in connection with a transaction in the portfolio margining account of a customer carried as securities accounts pursuant to a portfolio margining program approved by the Commission. Such term does not include revenues received by a broker or dealer in connection with the distribution of shares of a registered open end investment company or unit investment trust or revenues derivedby a broker or dealer from the sale of variable annuities or from the conduct of the business of insurance.
 
 #### (10) Liquidation proceeding
 
@@ -126,13 +126,15 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 #### (13) Protective decree
 
-&emsp;The term "protective decree" means a decree, issued by a court upon application ofSIPC under section 78eee(a)(3) of this title, that the customers of a member of SIPC are in need of the protection provided under this chapter.
+&emsp;The term "protective decree" means a decree, issued by a court upon application of SIPC under section 78eee(a)(3) of this title, that the customers of a member of SIPC are in need of the protection provided under this chapter.
 
 #### (14) Security
 
 &emsp;The term "Security" means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term "security" does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
 (Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(o), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424; Pub. L. 111–203, title IX, §983(b), July 21, 2010, 124 Stat. 1931.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -169,6 +171,8 @@ Par. (7). Pub. L. 95–598, §308(o)(2), (3), redesignated par. (8) as (7) and s
 Pars. (8) to (15). Pub. L. 95–598, §308(o)(3), redesignated pars. (9) to (15) as (8) to (14), respectively. Former par. (8) redesignated (7).
 
 Pub. L. 95–283 in introductory text inserted requirement for applicability of terms to a liquidation proceeding involving the Bankruptcy Act, in par. (1) heading substituted "Bankruptcy Act" for "Self-regulatory organization", and in text substituted provisions defining such terms, in par. (2) heading substituted "Commission" for "Financial responsibility rules", and in text substituted provisions defining such terms, in par. (3) heading substituted "Customer" for "Examining authority", and in text substituted provisions defining such terms, and added pars. (4) to (15).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

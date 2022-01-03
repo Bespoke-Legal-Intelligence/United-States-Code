@@ -208,7 +208,7 @@ Pub. L. 113–6, div. D, title II, Mar. 26, 2013, 127 Stat. 351, provided in par
 
 &emsp;&emsp;"(C) notes and explains any deviations in cost, performance parameters, schedule, or estimated date of completion from the original acquisition program baseline and the most recent baseline approved by the Department of Homeland Security's Acquisition Review Board, if applicable;
 
-&emsp;&emsp;"(D) aligns the acquisition of each asset to mission requirements by defining existing capabilities of comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps;
+&emsp;&emsp;"(D) aligns the acquisition of each asset to mission requirements by defining existing capabilitiesof comparable legacy assets, identifying known capability gaps between such existing capabilities and stated mission requirements, and explaining how the acquisition of each asset will address such known capability gaps;
 
 &emsp;&emsp;"(E) defines life-cycle costs for each asset and the date of the estimate on which such costs are based, including all associated costs of major acquisitions systems infrastructure and transition to operations, delineated by purpose and fiscal year for the projected service life of the asset;
 
@@ -246,7 +246,7 @@ Pub. L. 108–334, title V, §514, Oct. 18, 2004, 118 Stat. 1317, provided that:
 
 #### Status Reports on Polar Icebreaking Vessels
 
-Pub. L. 99–640, §15, Nov. 10, 1986, 100 Stat. 3552, provided that: "The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least twonew polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 \[now 5102\] of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard."
+Pub. L. 99–640, §15, Nov. 10, 1986, 100 Stat. 3552, provided that: "The Secretary of the department in which the Coast Guard is operating shall provide detailed reports to Congress concerning the status of design and construction plans for the procurement of at least two new polar icebreaking vessels. Such reports shall be included in the Cutter Plan required annually by section 663 \[now 5102\] of title 14, United States Code, and shall be submitted each year until at least two new polar icebreaking vessels have been delivered to the Coast Guard."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

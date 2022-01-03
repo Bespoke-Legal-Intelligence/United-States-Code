@@ -26,7 +26,7 @@
 
 (3) If the offense is one under paragraph (1) or (2)(A) of subsection (a) and results in serious bodily injury (as defined in section 1365), the offender shall be fined under this title or imprisoned for not more than 15 years, or both.
 
-(4) If the offense is one under paragraph (1) or (2)(A) of subsection (a), involves knowing transportation under inhumane conditions, and is committed in the course of a violation of section 274 of the Immigration and Nationality Act, or chapter 77 or section 113 (other than under subsection (a)(4) or (a)(5) of such section) or 117 of this title, the offender shall be fined under this title or imprisoned for not more than 15 years, or both.
+(4) If the offense is one under paragraph (1) or (2)(A) of subsection (a), involves knowing transportation under inhumane conditions, and is committed in the course of a violation of section274 of the Immigration and Nationality Act, or chapter 77 or section 113 (other than under subsection (a)(4) or (a)(5) of such section) or 117 of this title, the offender shall be fined under this title or imprisoned for not more than 15 years, or both.
 
 (c) This section does not limit the authority of a customs officer under section 581 of the Tariff Act of 1930 (19 U.S.C. 1581), or any other provision of law enforced or administered by the Secretary of the Treasury or the Secretary of Homeland Security, or the authority of any Federal law enforcement officer under any law of the United States, to order a vessel to stop or heave to.
 

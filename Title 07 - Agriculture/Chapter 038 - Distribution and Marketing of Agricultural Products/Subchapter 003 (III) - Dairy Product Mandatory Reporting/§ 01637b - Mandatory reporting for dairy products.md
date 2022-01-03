@@ -84,7 +84,7 @@ The Secretary shall establish a program of mandatory dairy product information r
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a person subject to this subchapter fails to obey an order issued under this paragraph after the order has become final and unappealable, or after the appropriate United States district court has entered afinal judgment in favor of the Secretary, the United States may apply to the appropriate United States district court for enforcement of the order.
+&emsp;&emsp;&emsp;If a person subject to this subchapter fails to obey an order issued under this paragraph after the order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, the United States may apply to the appropriate United States district court for enforcement of the order.
 
 #### (ii) Enforcement
 
@@ -124,6 +124,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Aug. 14, 1946, ch. 966, title II, §273, as added Pub. L. 106–532, §2, Nov. 22, 2000, 114 Stat. 2542; amended Pub. L. 110–234, title I, §1510, May 22, 2008, 122 Stat. 999; Pub. L. 110–246, §4(a), title I, §1510, June 18, 2008, 122 Stat. 1664, 1728; Pub. L. 111–239, §3(a), Sept. 27, 2010, 124 Stat. 2502.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -147,6 +149,8 @@ Authorization of appropriations.—There are authorized to be appropriated such 
 <b>2008</b>—Subsec. (c)(3). Pub. L. 110–246, §1510(b), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "The Secretary shall take such actions as the Secretary considers necessary to verify the accuracy of the information submitted or reported under this subchapter."
 
 Subsecs. (d), (e). Pub. L. 110–246, §1510(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

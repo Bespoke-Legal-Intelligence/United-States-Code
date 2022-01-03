@@ -26,7 +26,7 @@ For purposes of—
 
 #### (1) Additions under more than one paragraph
 
-&emsp;With respect to any return, the amount of the addition under paragraph (1) of subsection (a) shall be reduced by the amount of the addition under paragraph (2) of subsection (a) for any month (or fraction thereof) to which an addition to tax applies under both paragraphs (1) and (2). In any case described in the last sentence of subsection (a), the amount of the addition under paragraph (1) of subsection (a)shall not be reduced under the preceding sentence below the amount provided in such last sentence.
+&emsp;With respect to any return, the amount of the addition under paragraph (1) of subsection (a) shall be reduced by the amount of the addition under paragraph (2) of subsection (a) for any month (or fraction thereof) to which an addition to tax applies under both paragraphs (1) and (2). In any case described in the last sentence of subsection (a), the amount of the addition under paragraph (1) of subsection (a) shall not be reduced under the preceding sentence below the amount provided in such last sentence.
 
 #### (2) Amount of tax shown more than amount required to be shown
 
@@ -84,11 +84,13 @@ For purposes of this section, any failure to comply with section 6226(b)(4)(A)(i
 
 &emsp;If any amount adjusted under paragraph (1) is not a multiple of $5, such amount shall be rounded to the next lowest multiple of $5.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17, 2008, 122 Stat. 1649; Pub. L. 113–295, div. B, title II, §208(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 114–125, title IX, §921(a), (b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–97, title I, §11002(d)(1)(KK), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title II, §206(n)(1), title IV, §401(a)(299)(A), Mar. 23, 2018, 132 Stat. 1181, 1198; Pub. L. 116–25, title III, §3201(a), (b), July 1, 2019, 133 Stat. 1017; Pub. L. 116–94, div. O, title IV, §402(a), (b), Dec. 20, 2019, 133 Stat. 3179.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 821; Pub. L. 90–364, title I, §103(e)(4), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IX, §943(a), Dec. 30, 1969, 83 Stat. 727; Pub. L. 92–9, §3(j)(1), Apr. 1, 1971, 85 Stat. 22; Pub. L. 94–455, title XIX, §1904(b)(10)(A)(v), Oct. 4, 1976, 90 Stat. 1817; Pub. L. 97–248, title III, §318(a), (b), Sept. 3, 1982, 96 Stat. 610; Pub. L. 98–369, div. A, title IV, §412(b)(8), July 18, 1984, 98 Stat. 792; Pub. L. 99–514, title XV, §1502(a), (b), Oct. 22, 1986, 100 Stat. 2741; Pub. L. 100–203, title X, §10301(b)(6), Dec. 22, 1987, 101 Stat. 1330–429; Pub. L. 101–239, title VII, §7741(a), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 104–168, title III, §303(b)(2), title XIII, §1301(a), July 30, 1996, 110 Stat. 1458, 1475; Pub. L. 105–206, title III, §3303(a), July 22, 1998, 112 Stat. 742; Pub. L. 110–245, title III, §303(a), June 17,2008, 122 Stat. 1649; Pub. L. 113–295, div. B, title II, §208(a), Dec. 19, 2014, 128 Stat. 4072; Pub. L. 114–125, title IX, §921(a), (b), Feb. 24, 2016, 130 Stat. 281; Pub. L. 115–97, title I, §11002(d)(1)(KK), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title II, §206(n)(1), title IV, §401(a)(299)(A), Mar. 23, 2018, 132 Stat. 1181, 1198; Pub. L. 116–25, title III, §3201(a), (b), July 1, 2019, 133 Stat. 1017; Pub. L. 116–94, div. O, title IV, §402(a), (b), Dec. 20, 2019, 133 Stat. 3179.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -149,6 +151,8 @@ Subsec. (b). Pub. L. 91–172 designated existing provisions as par. (1) and add
 Subsecs. (c), (d). Pub. L. 91–172 added subsec. (c), redesignated former subsec. (c) as (d) and struck out reference to section 6016 of this title and provided that this section would not be applicable for failure to pay any estimated tax required under section 6153 or 6154 of this title.
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–364 struck out reference to section 6016.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

@@ -42,6 +42,8 @@ Mar. 31, 1944, ch. 147, §3, 58 Stat. 135.
 
 Mar. 31, 1944, ch. 147, §4, 58 Stat. 135.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6973 of this title as this section.
@@ -55,6 +57,8 @@ Subsecs. (b), (c). Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(c)(2)\],
 Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(c)(3)\], substituted "United States Naval Academy Gift and Museum Fund" for "United States Naval Academy general gift fund" in two places.
 
 Pub. L. 106–398, §1 \[\[div. A\], title IX, §942(c)(2)(A)\], redesignated subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

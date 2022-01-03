@@ -4,6 +4,8 @@ The Secretary of Commerce shall, from time to time, make regulations regarding t
 
 (Mar. 3, 1901, ch. 872, §9, 31 Stat. 1450; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act Mar. 4, 1913, substituted "Secretary of Commerce" for "Secretary of Commerce and Labor".

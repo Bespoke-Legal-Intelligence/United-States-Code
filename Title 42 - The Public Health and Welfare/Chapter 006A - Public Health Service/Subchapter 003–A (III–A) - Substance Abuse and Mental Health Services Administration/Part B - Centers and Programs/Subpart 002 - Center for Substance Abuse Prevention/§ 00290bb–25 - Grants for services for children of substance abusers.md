@@ -62,7 +62,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 &emsp;&emsp;(F) programs offered by vocational rehabilitation agencies, recreation departments, and housing agencies.
 
-&emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is defined in part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\].
+&emsp;(8) Additional developmental services that are consistent with the provision of early intervention services, as such term is definedin part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431 et seq.\].
 
 > Services shall be provided under paragraphs (2) through (8) by a public health nurse, social worker, or similar professional, or by a trained worker from the community who is supervised by a professional, or by an entity, where the professional or entity provides assurances that the professional or entity is licensed or certified by the State if required and is complying with applicable licensure or certification requirements.
 
@@ -134,7 +134,7 @@ The Secretary shall distribute the grants through the following types of entitie
 
 #### (f) Federal share
 
-The Federal share of a program carried out under subsection (a) shall be 90 percent. The Secretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
+The Federal share of a program carried out under subsection (a) shall be 90 percent. TheSecretary shall accept the value of in-kind contributions, including facilities and personnel, made by the grant recipient as a part or all of the non-Federal share of grants.
 
 #### (g) Restrictions on use of grant
 
@@ -156,7 +156,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 &emsp;(1) a description of the population that is to receive services under this section and a description of such services that are to be provided and measurable goals and objectives;
 
-&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>3</sup> of the Individuals with Disabilities Education Act; and; <sup>4</sup>
+&emsp;(2) a description of the mechanism that will be used to involve the local public agencies responsible for health, including maternal and child health <sup>2</sup> mental health, child welfare, education, juvenile justice, developmental disabilities, and substance abuse in planning and providing services under this section, as well as evidence that the proposal has been coordinated with the State agencies responsible for administering those programs, the State agency responsible for administering alcohol and drug programs, the State lead agency, and the State Interagency Coordinating Council under part H <sup>1</sup> of the Individuals with Disabilities Education Act; and; <sup>3</sup>
 
 &emsp;(3) such other information as the Secretary determines to be appropriate.
 
@@ -170,7 +170,7 @@ The Secretary may make a grant under subsection (a) only if the applicant involv
 
 &emsp;(3) information concerning the extent of use of services provided under the grant, including the number of referrals to related services and information on other programs or services accessed by children, parents, and other caretakers;
 
-&emsp;(4) information concerning the extent to which parents were able to access and receivetreatment for alcohol and drug abuse and sustain participation in treatment over time until the provider and the individual receiving treatment agree to end such treatment, and the extent to which parents re-enter treatment after the successful or unsuccessful termination of treatment;
+&emsp;(4) information concerning the extent to which parents were able to access and receive treatment for alcohol and drug abuse and sustain participation in treatment over time until the provider and the individual receiving treatment agree to end such treatment, and the extent to which parents re-enter treatment after the successful or unsuccessful termination of treatment;
 
 &emsp;(5) information concerning the costs of the services provided and the source of financing for health care services;
 
@@ -210,7 +210,7 @@ The Secretary shall periodically conduct evaluations to determine the effectiven
 
 #### (l) Report to Congress
 
-Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>5</sup> (o), the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
+Not later than 2 years after the date on which amounts are first appropriated under subjection <sup>4</sup> (o), the Secretary shall prepare and submitto the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report that contains a description of programs carried out under this section. At a minimum, the report shall contain—
 
 &emsp;(1) information concerning the number and type of programs receiving grants;
 
@@ -220,9 +220,9 @@ Not later than 2 years after the date on which amounts are first appropriated un
 
 &emsp;&emsp;(A) the number and characteristics of families, parents, and children served; and
 
-&emsp;&emsp;(B) the number of children served who remained with their parents during or after the period in which entities provided services under this section.<sup>6</sup>
+&emsp;&emsp;(B) the number of children served who remained with their parents during or after the period in which entities provided services under this section.<sup>5</sup>
 
-> &emsp;analyzed by the type of entity described in subsection (e) that provided services; <sup>7</sup>
+> &emsp;analyzed by the type of entity described in subsection (e) that provided services; <sup>6</sup>
 
 #### (m) Data collection
 
@@ -251,6 +251,8 @@ For purposes of this section:
 For the purpose of carrying out this section, there are authorized to be appropriated $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
 
 (July 1, 1944, ch. 373, title V, §519, formerly title III, §399D, as added Pub. L. 102–321, title IV, §401(a), July 10, 1992, 106 Stat. 419; renumbered §399A, renumbered title V, §519, and amended Pub. L. 106–310, div. A, title V, §502(1), div. B, title XXXI, §3106(a)–(m), Oct. 17, 2000, 114 Stat. 1115, 1175–1179; Pub. L. 108–446, title III, §305(i)(1), (3), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 114–255, div. B, title VI, §6001(c), Dec. 13, 2016, 130 Stat. 1203.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -312,7 +314,7 @@ Subsec. (c)(3)(D). Pub. L. 106–310, §3106(c)(3), inserted "which include chil
 
 Subsec. (d). Pub. L. 106–310, §3106(l)(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-Pub. L. 106–310, §3106(d)(1), substituted "Eligible entities" for "Considerations in making grants" in headingand "The Secretary shall distribute the grants through the following types of entities:" for "In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:" in introductory provisions.
+Pub. L. 106–310, §3106(d)(1), substituted "Eligible entities" for "Considerations in making grants" in heading and "The Secretary shall distribute the grants through the following types of entities:" for "In making grants under subsection (a) of this section, the Secretary shall ensure that the grants are reasonably distributed among the following types of entities:" in introductory provisions.
 
 Subsec. (d)(1). Pub. L. 106–310, §3106(d)(2), substituted "drug early intervention, prevention or treatment programs" for "drug treatment programs".
 
@@ -376,6 +378,8 @@ Subsec. (p). Pub. L. 106–310, §3106(l)(3), redesignated subsec. (p) as (o).
 
 Pub. L. 106–310, §3106(k), amended heading and text of subsec. (p) generally, substituting provisions relating to authorization of appropriations for provisions relating to funding for carrying out section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -388,7 +392,7 @@ Section effective July 10, 1992, with programs making awards providing financial
 
 #### Construction
 
-Pub. L. 102–321, title IV, §401(b), July 10, 1992, 106 Stat. 426, provided that: "With respect to the program established in section 399D \[now 519\] of the PublicHealth Service Act \[42 U.S.C. 290bb–25\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs."
+Pub. L. 102–321, title IV, §401(b), July 10, 1992, 106 Stat. 426, provided that: "With respect to the program established in section 399D \[now 519\] of the Public Health Service Act \[42 U.S.C. 290bb–25\] (as added by subsection (a) of this section), nothing in such section 399D may be construed as establishing for any other Federal program any requirement, authority, or prohibition, including with respect to recipients of funds under such other Federal programs."
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
@@ -398,13 +402,11 @@ Reference to community health center, migrant health center, public housing heal
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 
-<i><sup>3</sup></i><i> See References in Text note below.</i>
+<i><sup>3</sup></i><i> So in original. The semicolon probably should not appear after "and".</i>
 
-<i><sup>4</sup></i><i> So in original. The semicolon probably should not appear after "and".</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be "subsection".</i>
+<i><sup>5</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>6</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>7</sup></i><i> So in original. The semicolon probably should be a period.</i>
+<i><sup>6</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

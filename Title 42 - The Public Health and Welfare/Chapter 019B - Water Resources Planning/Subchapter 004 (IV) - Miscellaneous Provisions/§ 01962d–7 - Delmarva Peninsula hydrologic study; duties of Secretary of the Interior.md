@@ -22,9 +22,13 @@ The Secretary of the Interior (hereinafter referred to as the "Secretary") is au
 
 (Pub. L. 89–618, §1, Oct. 4, 1966, 80 Stat. 870.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Water Resources Planning Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Washington Metropolitan Area Water Needs and Estuarial Water Supplies; Studies
 

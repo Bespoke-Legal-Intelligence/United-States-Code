@@ -56,7 +56,7 @@ Defenses.—All defenses, affirmative defenses, and limitations on remedies that
 
 (e)
 
-Presentence Report.—(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope ofthe injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
+Presentence Report.—(1) During preparation of the presentence report pursuant to Rule 32(c) of the Federal Rules of Criminal Procedure, victims of the offense shall be permitted to submit, and the probation officer shall receive, a victim impact statement that identifies the victim of the offense and the extent and scope of the injury and loss suffered by the victim, including the estimated economic impact of the offense on that victim.
 
 (2) Persons permitted to submit victim impact statements shall include—
 
@@ -88,7 +88,7 @@ Definitions.—For the purposes of this section—
 
 &emsp;(2) the term "financial gain" includes the receipt, or expected receipt, of anything of value;
 
-&emsp;(3) the term "Lanham Act" means the Act entitled "An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes", approved July 5, 1946 (15 U.S.C. 1051 et seq.);
+&emsp;(3) the term "Lanham Act" means the Act entitled "An Act to provide for the registration and protection of trademarks used incommerce, to carry out the provisions of certain international conventions, and for other purposes", approved July 5, 1946 (15 U.S.C. 1051 et seq.);
 
 &emsp;(4) the term "counterfeit military good or service" means a good or service that uses a counterfeit mark on or in connection with such good or service and that—
 
@@ -122,7 +122,7 @@ Report to Congress.—(1) Beginning with the first year after the date of enactm
 
 &emsp;(ii) The number of online infringement cases.
 
-&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no finesordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
+&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
 
 &emsp;(iv) The total amount of restitution ordered in all copyright infringement cases.
 
@@ -158,7 +158,7 @@ Another section 2320 was renumbered section 2321 of this title.
 
 <b>2016</b>—Subsec. (a)(4). Pub. L. 114–154, §3(2)(A), added par. (4) and struck out former par. (4) which read as follows: "traffics in a counterfeit drug,".
 
-Subsec. (b)(3). Pub. L. 114–154, §3(2)(B), substituted "drug that uses a counterfeit mark on or in connection with the drug" for "counterfeit drug" in introductory provisions.
+Subsec. (b)(3). Pub. L. 114–154, §3(2)(B), substituted "drug that uses a counterfeit mark on or in connectionwith the drug" for "counterfeit drug" in introductory provisions.
 
 Subsec. (f)(6). Pub. L. 114–154, §3(2)(C), added par. (6) and struck out former par. (6) which defined "counterfeit drug".
 
@@ -198,7 +198,7 @@ Subsecs. (f), (g). Pub. L. 109–181, §1(b)(4), added subsec. (f) and redesigna
 
 <b>2002</b>—Subsec. (e)(1)(B). Pub. L. 107–140 substituted "section 220506 of title 36" for "section 220706 of title 36".
 
-Subsec. (f). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted "this title" for"title 18" wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+Subsec. (f). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted "this title" for "title 18" wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
 <b>1998</b>—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted "section 220706 of title 36" for "section 110 of the Olympic Charter Act".
 

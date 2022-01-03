@@ -66,7 +66,7 @@ In general.—No amount may be expended by the Federal Government, other than th
 
 &emsp;"(2)
 
-Department of defense agreements.—Any agreement between the Department of Defense and the Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) \[130 Stat. 2488\], as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[131 Stat. 1657\].
+Department of defense agreements.—Any agreement between the Department of Defense andthe Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) \[130 Stat. 2488\], as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) \[131 Stat. 1657\].
 
 "(c)
 
@@ -170,7 +170,7 @@ Sec. 2. <i>Cybersecurity of Critical Infrastructure</i>.
 
 (i) identify authorities and capabilities that agencies could employ to support the cybersecurity efforts of critical infrastructure entities identified pursuant to section 9 of Executive Order 13636 of February 12, 2013 (Improving Critical Infrastructure Cybersecurity), to be at greatest risk of attacks that could reasonably result in catastrophic regional or national effects on public health or safety, economic security, or national security (section 9 entities);
 
-(ii) engage section 9 entities and solicit input as appropriate to evaluate whether and how the authorities and capabilities identified pursuant to subsection (b)(i)of this section might be employed to support cybersecurity risk management efforts and any obstacles to doing so;
+(ii) engage section 9 entities and solicit input as appropriate to evaluate whether and how the authorities and capabilities identified pursuant to subsection (b)(i) of this section might be employed to support cybersecurity risk management efforts and any obstacles to doing so;
 
 (iii) provide a report to the President, which may be classified in full or in part, as appropriate, through the Assistant to the President for Homeland Security and Counterterrorism, within 180 days of the date of this order, that includes the following:
 
@@ -216,7 +216,7 @@ Sec. 3. <i>Cybersecurity for the Nation</i>.
 
 (ii) The Director of National Intelligence, in consultation with the heads of other agencies identified by the Director of National Intelligence, shall:
 
-&emsp;(A) review the workforce development efforts of potential foreign cyber peers in order to help identifyforeign workforce development practices likely to affect long-term United States cybersecurity competitiveness; and
+&emsp;(A) review the workforce development efforts of potential foreign cyber peers in order to help identify foreign workforce development practices likely to affect long-term United States cybersecurity competitiveness; and
 
 &emsp;(B) within 60 days of the date of this order, provide a report to the President through the Assistant to the President for Homeland Security and Counterterrorism on the findings of the review carried out pursuant to subsection (d)(ii)(A) of this section.
 
@@ -336,7 +336,7 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against theUnited States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

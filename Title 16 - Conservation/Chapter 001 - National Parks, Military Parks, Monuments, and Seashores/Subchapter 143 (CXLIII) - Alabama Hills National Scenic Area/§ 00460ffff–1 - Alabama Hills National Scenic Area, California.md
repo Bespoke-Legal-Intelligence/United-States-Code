@@ -56,7 +56,7 @@ The Secretary shall manage the Scenic Area—
 
 #### (3) Motorized vehicles
 
-&emsp;Except as otherwise specified in this subchapter, or as necessary for administrative purposes or to respond to an emergency, theuse of motorized vehicles in the Scenic Area shall be permitted only on—
+&emsp;Except as otherwise specified in this subchapter, or as necessary for administrative purposes or to respond to an emergency, the use of motorized vehicles in the Scenic Area shall be permitted only on—
 
 &emsp;&emsp;(A) roads and trails designated by the Secretary for use of motorized vehicles as part of a management plan sustaining a semiprimitive motorized experience; or
 
@@ -146,11 +146,15 @@ The Secretary may enter into cooperative agreements with, State, Tribal, and loc
 
 (Pub. L. 103–433, title XIV, §1402, as added Pub. L. 116–9, title I, §1441, Mar. 12, 2019, 133 Stat. 706.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(4)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (n)(1)(C)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (n)(1)(C)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

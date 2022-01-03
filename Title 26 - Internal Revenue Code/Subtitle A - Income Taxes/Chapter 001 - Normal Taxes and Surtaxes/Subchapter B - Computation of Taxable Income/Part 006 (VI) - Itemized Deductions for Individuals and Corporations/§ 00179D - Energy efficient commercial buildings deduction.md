@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (5) Notice to owner
 
-&emsp;Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annualenergy costs as provided in the notice under paragraph (3)(B)(iii).
+&emsp;Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (3)(B)(iii).
 
 #### (6) Certification
 
@@ -122,7 +122,7 @@ Until such time as the Secretary issues final regulations under subsection (d)(1
 
 #### (A) In general
 
-&emsp;&emsp;If, with respect to the lighting system of any building other than a warehouse, the reduction in lighting power density of the lighting system is not at least 40 percent, only the applicable percentage of the amount of deduction otherwise allowable under this section with respect to such property shall be allowed.
+&emsp;&emsp;If, with respect to the lighting system of any building other than a warehouse, the reduction in lighting power density of the lighting system is not at least 40 percent, only the applicable percentage of the amount of deduction otherwise allowableunder this section with respect to such property shall be allowed.
 
 #### (B) Applicable percentage
 
@@ -160,6 +160,12 @@ The Secretary shall promulgate such regulations as necessary—
 
 (Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, §131(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §102(a)–(c), Dec. 27, 2020, 134 Stat. 3039, 3040.)
 
+#### Inflation Adjusted Items for Certain Years
+
+<i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (c)(1)(B)(ii), (D). Pub. L. 116–260, §102(c)(1)(A), substituted "Reference Standard 90.1" for "Standard 90.1–2007".
@@ -192,13 +198,15 @@ Subsec. (h). Pub. L. 114–113, §190(a), substituted "December 31, 2016" for "D
 
 <b>2006</b>—Subsec. (h). Pub. L. 109–432 substituted "2008" for "2007".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title I, §102(d), Dec. 27, 2020, 134 Stat. 3040, provided that: "The amendments made by this section \[amending this section\] shall apply to property placed in service after December 31, 2020."
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. Q, title I, §131(b), Dec. 20, 2019, 133 Stat. 3232, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2017."
+Pub. L. 116–94, div. Q, title I, §131(b), Dec. 20, 2019, 133 Stat. 3232, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply to property placed in service after December 31, 2017."
 
 #### Effective Date of 2018 Amendment
 

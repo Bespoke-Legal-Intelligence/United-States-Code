@@ -4,7 +4,7 @@
 
 (b) The requirement for 12 consecutive months of participation required by subsection (a) of this section shall not apply when (1) the participant suspends participation or disenrolls from the program because of personal hardship as defined in regulations issued jointly by the Secretary and the Secretary of Defense, or (2) the participant is discharged or released from active duty.
 
-(c) A participant shall be permitted to suspend participation or disenroll from the program at the end of any 12-consecutive-month period of participation. If participation is suspended, the participant shall be eligible to make additional contributions to the program under such terms and conditions as shall be prescribed by regulations issued jointly by the Secretary and the Secretary of Defense.
+(c) A participant shall be permitted to suspend participation or disenroll from the program at the end of any 12-consecutive-month period of participation. If participation is suspended, theparticipant shall be eligible to make additional contributions to the program under such terms and conditions as shall be prescribed by regulations issued jointly by the Secretary and the Secretary of Defense.
 
 (d) If a participant disenrolls from the program, such participant forfeits any entitlement to benefits under the program except as provided in subsection (e) of this section. A participant who disenrolls from the program is eligible for a refund of such participant's contributions as provided in section 3223 of this title.
 
@@ -60,7 +60,7 @@ Pub. L. 94–502, title IV, §408, Oct. 15, 1976, 90 Stat. 2397, provided that:
 
 &emsp;"(B) any Saturday and Sunday, not excluded under the preceding subparagraph, when either House is not in session.
 
-> The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on thesame day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
+> The recommendation referred to in paragraph (1)(A) shall be delivered to both Houses of Congress on the same day and shall be delivered to the Clerk of the House of Representatives if the House is not in session and to the Secretary of the Senate if the Senate is not in session.
 
 "(b) If new enrollments after December 31, 1981, in the educational assistance program provided for in such chapter 32 are authorized after the application of the provisions of subsection (a), then effective January 1, 1982, section 1622(b) \[now 3222(b)\] of title 38, United States Code, is amended by striking out 'Veterans' Administration' and inserting in lieu thereof 'Department of Defense'."
 

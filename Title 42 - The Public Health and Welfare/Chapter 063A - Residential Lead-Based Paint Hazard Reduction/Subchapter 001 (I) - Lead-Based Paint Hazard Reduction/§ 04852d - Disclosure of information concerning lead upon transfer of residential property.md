@@ -56,17 +56,19 @@
 
 #### (5) Prohibited act
 
-&emsp;It shall be a prohibited act under section 409 of the Toxic Substances Control Act \[15 U.S.C. 2689\] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under theToxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the penalty for each violation applicable under section 16 of that Act \[15 U.S.C. 2615\] shall not be more than $10,000.
+&emsp;It shall be a prohibited act under section 409 of the Toxic Substances Control Act \[15 U.S.C. 2689\] for any person to fail or refuse to comply with a provision of this section or with any rule or order issued under this section. For purposes of enforcing this section under the Toxic Substances Control Act \[15 U.S.C. 2601 et seq.\], the penalty for each violation applicable under section 16 of that Act \[15 U.S.C. 2615\] shall not be more than $10,000.
 
 #### (c) Validity of contracts and liens
 
-Nothing in this section shall affect the validity or enforceability of any sale or contract for the purchase and sale or lease of any interest in residential real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a mortgage loan, nor shall anything in this section create a defect in title.
+Nothing in this section shall affect the validity or enforceability of any sale or contract forthe purchase and sale or lease of any interest in residential real property or any loan, loan agreement, mortgage, or lien made or arising in connection with a mortgage loan, nor shall anything in this section create a defect in title.
 
 #### (d) Effective date
 
 The regulations under this section shall take effect 3 years after October 28, 1992.
 
 (Pub. L. 102–550, title X, §1018, Oct. 28, 1992, 106 Stat. 3910.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

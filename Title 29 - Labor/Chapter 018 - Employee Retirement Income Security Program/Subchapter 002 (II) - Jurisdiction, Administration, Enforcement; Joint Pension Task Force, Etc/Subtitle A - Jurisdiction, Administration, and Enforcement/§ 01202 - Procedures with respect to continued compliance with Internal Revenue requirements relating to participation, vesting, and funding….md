@@ -10,7 +10,7 @@ Unless the Secretary of the Treasury finds that the collection of a tax is in je
 
 #### (c) Extended application of regulations prescribed by Secretary of the Treasury relating to minimum participation standards, minimum vesting standards, and minimum funding standards
 
-Regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, and 412 of title 26 (relating to minimum participation standards, minimum vesting standards, and minimum funding standards, respectively) shall also apply to the minimum participation, vesting, and funding standards set forth in parts 2 and 3 of subtitle B of subchapter I of this chapter. Except as otherwise expressly provided in this chapter, the Secretary of Labor shall not prescribe other regulations under such parts, or apply the regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, 412 of title 26 and applicable to the minimum participation, vesting, and funding standards under such parts in a manner inconsistent with the way such regulations apply under sections 410(a), 411, and 412 of title 26.
+Regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, and 412 of title 26 (relating to minimum participation standards, minimum vesting standards, and minimum funding standards, respectively) shallalso apply to the minimum participation, vesting, and funding standards set forth in parts 2 and 3 of subtitle B of subchapter I of this chapter. Except as otherwise expressly provided in this chapter, the Secretary of Labor shall not prescribe other regulations under such parts, or apply the regulations prescribed by the Secretary of the Treasury under sections 410(a), 411, 412 of title 26 and applicable to the minimum participation, vesting, and funding standards under such parts in a manner inconsistent with the way such regulations apply under sections 410(a), 411, and 412 of title 26.
 
 #### (d) Opportunity afforded Secretary of the Treasury to intervene in cases involving construction or application of minimum standards; review of briefs filed by Pension Benefit Guaranty Corporation or Secretary of Labor
 
@@ -26,7 +26,7 @@ The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Co
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (c), was in the original "this Act", meaning Pub. L. 93–406, knownas the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsecs. (a), (c), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former section 418 of Title 26, Internal Revenue Code. Section 418 was repealed by Pub. L. 113–235, div. O, title I, §108(b)(1), Dec. 16, 2014, 128 Stat. 2787.
 

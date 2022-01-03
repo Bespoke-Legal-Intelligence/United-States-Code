@@ -10,7 +10,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;(1) To make determinations and adjustments of reasonable terms and rates of royalty payments as provided in sections 112(e), 114, 115, 116, 118, 119, and 1004.
 
-&emsp;(2) To make determinations concerning the adjustment of the copyright royalty rates under section 111 solely in accordance with the following provisions:
+&emsp;(2) To make determinations concerning the adjustment of the copyright royalty ratesunder section 111 solely in accordance with the following provisions:
 
 &emsp;&emsp;(A) The rates established by section 111(d)(1)(B) may be adjusted to reflect—
 
@@ -50,7 +50,7 @@ Functions.—Subject to the provisions of this chapter, the functions of the Cop
 
 &emsp;&emsp;(iv) agree that such funds are available for distribution.
 
-&emsp;(D) The Copyright Royalty Judges and any other officer or employee acting in good faith in distributing funds under subparagraph (C) shall not be held liable for the payment of any excess fees under subparagraph (C). The Copyright Royalty Judges shall, at the time thefinal determination is made, calculate any such excess amounts.
+&emsp;(D) The Copyright Royalty Judges and any other officer or employee acting in good faith in distributing funds under subparagraph (C) shall not be held liable for the payment of any excess fees under subparagraph (C). The Copyright Royalty Judges shall, at the time the final determination is made, calculate any such excess amounts.
 
 &emsp;(4) To accept or reject royalty claims filed under sections 111, 119, and 1007, on the basis of timeliness or the failure to establish the basis for a claim.
 

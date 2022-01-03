@@ -1,8 +1,10 @@
 ### §9307. Program advisory committees
 
-The Secretary may direct the director of each laboratory or installation at which a major magnetic fusion facility is operated for, or funded primarily by, the Federal Government to establish, for the sole purpose of providing advice to such director, a program advisory committee composed of persons with expertise in magneticfusion from such domestic industry, universities, government laboratories, and other scientific and technical organizations as such director deems appropriate.
+The Secretary may direct the director of each laboratory or installation at which a major magnetic fusion facility is operated for, or funded primarily by, the Federal Government to establish, for the sole purpose of providing advice to such director, a program advisory committee composed of persons with expertise in magnetic fusion from such domestic industry, universities, government laboratories, and other scientific and technical organizations as such director deems appropriate.
 
 (Pub. L. 96–386, §8, Oct. 7, 1980, 94 Stat. 1543.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Committees
 

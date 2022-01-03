@@ -6,6 +6,8 @@
 
 (Pub. L. 88–643, title II, §233, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3225; amended Pub. L. 103–36, §3, June 8, 1993, 107 Stat. 106.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 233 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048, related to voluntary retirement and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -13,6 +15,8 @@ A prior section 233 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1048,
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–36 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -30,7 +30,7 @@ Activities eligible for grant assistance under this section are the following:
 
 &emsp;(4) Purchase by the State of radon measurement equipment or devices.
 
-&emsp;(5) Purchase and maintenance of analytical equipment connected to radon measurementand analysis, including costs of calibration of such equipment.
+&emsp;(5) Purchase and maintenance of analytical equipment connected to radon measurement and analysis, including costs of calibration of such equipment.
 
 &emsp;(6) Payment of costs of Environmental Protection Agency-approved training programs related to radon for permanent State or local employees.
 
@@ -48,7 +48,7 @@ Beginning in fiscal year 1991, the Administrator shall give a preference for gra
 
 #### (e) Priority activities and projects
 
-The Administrator shall support eligible activities contained in State applications with the full amount of available funds. In the event that State applications for funds exceed the total funds available in a fiscal year, the Administrator shall give priority to activities or projects proposed by States based on each of the following criteria:
+The Administrator shall support eligible activities contained in State applications with the full amount of available funds. In the event that State applications for funds exceed the total funds available in a fiscal year, the Administrator shall give priority to activities orprojects proposed by States based on each of the following criteria:
 
 &emsp;(1) The seriousness and extent of the radon contamination problem to be addressed.
 
@@ -97,6 +97,8 @@ States may, at the Governor's discretion, use funds from grants under this secti
 (5) No amount appropriated under this subsection may be used to cover the costs of the proficiency rating program under section 2665(a)(2) of this title.
 
 (Pub. L. 94–469, title III, §306, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2758.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Federal Share of Cost
 

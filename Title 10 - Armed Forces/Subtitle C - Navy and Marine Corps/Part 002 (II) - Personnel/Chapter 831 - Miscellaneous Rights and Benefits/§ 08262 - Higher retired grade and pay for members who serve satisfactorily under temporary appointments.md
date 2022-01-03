@@ -2,7 +2,7 @@
 
 (a) Unless otherwise entitled to a higher retired grade and subject to section 689, and section 1370 or 1370a (as applicable), of this title, each member, other than a retired member, of the Navy or the Marine Corps shall, when retired, be advanced on the retired list to the highest officer grade in which he served satisfactorily under a temporary appointment as determined by the Secretary of the Navy.
 
-(b) Each member (other than a former member of the Fleet Reserve or the Fleet Marine Corps Reserve) who is advanced on the retired list under this section is (unless otherwise entitled to higher retired pay) entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
+(b) Each member (other than a former member of the Fleet Reserve or the Fleet Marine CorpsReserve) who is advanced on the retired list under this section is (unless otherwise entitled to higher retired pay) entitled to retired pay determined in accordance with the following table. References in the table are to sections of this title.
 
 &nbsp;
 
@@ -98,6 +98,8 @@ May 31, 1956, ch. 348, §3, 70 Stat. 222.
 
 Reference to the provisions of law under which temporary appointments in officer grades were made is omitted as unnecessary, since the provisions cited comprise all existing authority for such appointments.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 506; Sept. 2, 1958, Pub. L. 85–861, §1(166)(A), 72 Stat. 1516, provided for extension of enlistment of members of the Air Force needing medical care or hospitalization, prior to repeal by Pub. L. 90–235, §2(a)(4)(B), Jan. 2, 1968, 81 Stat. 756.
@@ -110,7 +112,7 @@ A prior section 8262, acts Aug. 10, 1956, ch. 1041, 70A Stat. 506; Sept. 2, 1958
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "sections 689" for "sections 688".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–348 amended subsec. (b) generally, substituting provision that retired pay be determined in accordance with the table for provision that retired pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of 2½ percent of the basic pay of the grade to which advanced or, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at a rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based and, in determining the number of years to be used as a multiplier, each additional full month of service was to be counted as one-twelfth of a year and any remaining fractional part of a month was to be disregarded.
+<b>1986</b>—Subsec. (b). Pub. L. 99–348 amended subsec. (b) generally, substituting provision that retired pay be determined in accordance with the table for provision that retired pay, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at the rate of2½ percent of the basic pay of the grade to which advanced or, in the case of a member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, be at a rate of 2½ percent of the monthly retired pay base computed under section 1407(d), which rates were to be multiplied by the number of years of service credited under section 1405, but such retired pay was not to be more than 75 percent of the basic pay or monthly retired pay base upon which the computation of retired pay was based and, in determining the number of years to be used as a multiplier, each additional full month of service was to be counted as one-twelfth of a year and any remaining fractional part of a month was to be disregarded.
 
 Subsec. (c). Pub. L. 99–348 amended subsec. (c) generally, substituting provision that retired pay of a former member be determined in accordance with the table for provision that retired pay, in the case of a former member who first became a member of a uniformed service, as defined in section 1407(a)(2), before Sept. 8, 1980, be at a rate of 2½ percent of the basic pay of the grade to which advanced, determined by the same period of service used to determine the basic pay of the grade upon which his retainer pay was based, multiplied by the number of years of creditable service for his retainer pay at the time of retirement, but such retired pay was not to be more than 75 percent of the basic pay upon the computation of retired pay was based, or in the case of a former member who first became a member of a uniformed service, as defined in section 1407(a)(2), on or after Sept. 8, 1980, that retired pay be at a rate of 2½ percent of the monthly retired pay base computed under section 1407(d), multiplied by the number of years of creditable service for his retainer pay at the time of retirement, but such retired pay was not to be more than 75 percent of the monthly retired pay base upon which the computation of retired pay was based.
 
@@ -136,6 +138,8 @@ Subsec. (a). Pub. L. 85–861, §1(138), struck out provisions which restricted 
 
 Subsec. (b). Pub. L. 85–422 substituted "that may be credited to him under section 1405 of this title" for "creditable for basic pay".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -160,5 +164,5 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422.
+Amendment by Pub. L. 85–422 effective June 1, 1958, see section 9 of Pub. L. 85–422, May 20, 1958, 72 Stat. 130.
 

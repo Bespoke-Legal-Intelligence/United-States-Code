@@ -46,7 +46,7 @@ At any one time the outstanding aggregate principal amount of all certificates g
 
 The Secretary shall issue such rules and regulations as are appropriate to carry out the authority granted by this chapter.
 
-(Pub. L. 91–663, §3, Jan. 8, 1971, 84 Stat. 1975; Pub. L. 95–598, title III, §333, Nov. 6, 1978, 92 Stat. 2679; Pub. L. 95–611, §3(b), Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–86, §115(a), Oct. 12, 1979, 93 Stat. 662; Pub. L. 96–101, §7(a)–(c), Nov. 4, 1979, 93 Stat. 739, 740; Pub. L. 104–88, title III, §325(2), Dec. 29, 1995, 109 Stat. 951.)
+(Pub. L. 91–663, §3, Jan. 8, 1971, 84 Stat. 1975; Pub. L. 95–598, title III, §333, Nov. 6, 1978, 92 Stat. 2679;Pub. L. 95–611, §3(b), Nov. 8, 1978, 92 Stat. 3089; Pub. L. 96–86, §115(a), Oct. 12, 1979, 93 Stat. 662; Pub. L. 96–101, §7(a)–(c), Nov. 4, 1979, 93 Stat. 739, 740; Pub. L. 104–88, title III, §325(2), Dec. 29, 1995, 109 Stat. 951.)
 
 #### <b>Editorial Notes</b>
 

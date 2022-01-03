@@ -98,7 +98,7 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 &emsp;&emsp;&emsp;(ii) enters into a memorandum of understanding, or takes such other action as is necessary, to provide for the information sharing between the agency and U.S. Customs and Border Protection necessary for the operation and maintenance of the ITDS;
 
-&emsp;&emsp;&emsp;(iii) not later than June 30, 2016, identifies and transmits to the Commissioner of U.S. Customs and Border Protection the admissibility criteria and data elements required by the agency to authorize the release of cargo by U.S. Customs and Border Protection for incorporation into the operational functionality of the Automated Commercial Environment computer system authorized under section 58c(f)(4) of this title; and
+&emsp;&emsp;&emsp;(iii) not later than June 30, 2016, identifies and transmits to the Commissioner of U.S. Customs and Border Protection the admissibility criteria and data elements required by the agency to authorize the release of cargo by U.S. Customs and BorderProtection for incorporation into the operational functionality of the Automated Commercial Environment computer system authorized under section 58c(f)(4) of this title; and
 
 &emsp;&emsp;&emsp;(iv) not later than December 31, 2016, utilizes the ITDS as the primary means of receiving from users the standard set of data and other relevant documentation, exclusive of applications for permits, licenses, or certifications required for the release of imported cargo and clearance of cargo for export.
 
@@ -136,6 +136,8 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 (June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188; amended Pub. L. 106–36, title II, §2405, June 25, 1999, 113 Stat. 169; Pub. L. 107–210, div. A, title III, §338, Aug. 6, 2002, 116 Stat. 980; Pub. L. 109–347, title IV, §405, Oct. 13, 2006, 120 Stat. 1929; Pub. L. 114–125, title I, §107, Feb. 24, 2016, 130 Stat. 135.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (d)(4) to (8). Pub. L. 114–125 added par. (4), redesignated former pars. (4) to (7) as (5) to (8), respectively, and, in par. (8), substituted "section 4316 of this title" for "section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (19 U.S.C. 2071 note)".
@@ -146,6 +148,8 @@ Not later than January 1, 2000, the Secretary shall provide for the inclusion of
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–36 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of this title on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
@@ -153,6 +157,8 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13659. Streamlining the Export/Import Process for America's Businesses
 
@@ -162,11 +168,11 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy</i>. The United States is the world's largest economy and the largest trading Nation. Trade is critical to the Nation's prosperity—fueling economic growth, supporting good jobs at home, raising living standards, and helping Americans provide for their families with affordable goods and services. It is the policy of the United States to promote commerce through the effective implementation of an ambitious 21st century trade agenda and vigorous enforcement of our Nation's laws relating to trade, security, public health and safety, the environment, and natural resources. In support of these goals, and to ensure that our Nation is well-positioned to compete in an open, fair, and growing world economy, the Federal Government must increase efforts to improve the technologies, policies, and other controls governing the movement of goods across our national borders.
 
-In particular, we must increase efforts to complete the development of efficient and cost-effective trade processing infrastructure, such as the International Trade Data System (ITDS), to modernize and simplify the way that executive departments and agencies (agencies) interact with traders. We must also improve the broader trade environment through the development of innovative policies and operational processes that promote effective application of regulatory controls, collaborative arrangements with stakeholders, and a reduction of unnecessary procedural requirements that add costs to both agencies and industry and undermine our Nation's economic competitiveness. By demonstrating our commitment to utilizing technology, coordinating government processes, fulfilling international obligations, and embracing innovative approaches to promote new opportunities for trade facilitation in the 21st century, we can lead by example and partner with other countries willing to adopt similar programs. This will encourage compliance with applicable laws and, more broadly, result in a more prosperous, safe, secure, and sustainable trading environment for all.
+In particular, we must increase efforts to complete the development of efficient and cost-effective trade processing infrastructure, such as the International Trade Data System (ITDS), to modernize and simplifythe way that executive departments and agencies (agencies) interact with traders. We must also improve the broader trade environment through the development of innovative policies and operational processes that promote effective application of regulatory controls, collaborative arrangements with stakeholders, and a reduction of unnecessary procedural requirements that add costs to both agencies and industry and undermine our Nation's economic competitiveness. By demonstrating our commitment to utilizing technology, coordinating government processes, fulfilling international obligations, and embracing innovative approaches to promote new opportunities for trade facilitation in the 21st century, we can lead by example and partner with other countries willing to adopt similar programs. This will encourage compliance with applicable laws and, more broadly, result in a more prosperous, safe, secure, and sustainable trading environment for all.
 
 Sec. 2. <i>Policy Coordination</i>. Policy coordination, guidance, dispute resolution, and periodic reviews for the functions and programs set forth in this order shall be provided through the interagency process established in Presidential Policy Directive–1 of February 13, 2009 (Organization of the National Security Council System), or any successor.
 
-Sec. 3. <i>International Trade Data System</i>. The ITDS, as described in section 405 of the Security and Accountability for Every Port Act of 2006 (the "SAFE Port Act") (Public Law 109–347), is an electronic information exchange capability, or "single window," throughwhich businesses will transmit data required by participating agencies for the importation or exportation of cargo. To enhance Federal coordination associated with the development of the ITDS and to provide necessary transparency to businesses, agencies, and other potential users:
+Sec. 3. <i>International Trade Data System</i>. The ITDS, as described in section 405 of the Security and Accountability for Every Port Act of 2006 (the "SAFE Port Act") (Public Law 109–347), is an electronic information exchange capability, or "single window," through which businesses will transmit data required by participating agencies for the importation or exportation of cargo. To enhance Federal coordination associated with the development of the ITDS and to provide necessary transparency to businesses, agencies, and other potential users:
 
 (a) by December 31, 2016, participating agencies shall have capabilities, agreements, and other requirements in place to utilize the ITDS and supporting systems, such as the Automated Commercial Environment, as the primary means of receiving from users the standard set of data and other relevant documentation (exclusive of applications for permits, licenses, or certifications) required for the release of imported cargo and clearance of cargo for export;
 

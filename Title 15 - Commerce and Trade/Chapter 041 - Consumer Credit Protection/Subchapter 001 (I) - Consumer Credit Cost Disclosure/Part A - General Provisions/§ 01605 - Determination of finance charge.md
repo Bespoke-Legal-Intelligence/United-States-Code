@@ -2,7 +2,7 @@
 
 #### (a) "Finance charge" defined
 
-Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided anddoes not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
+Except as otherwise provided in this section, the amount of the finance charge in connection with any consumer credit transaction shall be determined as the sum of all charges, payable directly or indirectly by the person to whom the credit is extended, and imposed directly or indirectly by the creditor as an incident to the extension of credit. The finance charge does not include charges of a type payable in a comparable cash transaction. The finance charge shall not include fees and amounts imposed by third party closing agents (including settlement agents, attorneys, and escrow and title companies) if the creditor does not require the imposition of the charges or the services provided and does not retain the charges. Examples of charges which are included in the finance charge include any of the following types of charges which are applicable:
 
 &emsp;(1) Interest, time price differential, and any amount payable under a point, discount, or other system or additional charges.
 
@@ -56,7 +56,7 @@ The following items, when charged in connection with any extension of credit sec
 
 #### (f) Tolerances for accuracy
 
-In connection with credit transactions not under an open end credit plan that are secured by real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
+In connection with credit transactions not under an open end credit plan that are securedby real property or a dwelling, the disclosure of the finance charge and other disclosures affected by any finance charge—
 
 &emsp;(1) shall be treated as being accurate for purposes of this subchapter if the amount disclosed as the finance charge—
 
@@ -76,7 +76,9 @@ In connection with credit transactions not under an open end credit plan that ar
 
 > &emsp;&emsp;if the amount disclosed as the finance charge does not vary from the actual finance charge by more than an amount equal to one percent of the total amount of credit extended.
 
-(Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L.111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+(Pub. L. 90–321, title I, §106, May 29, 1968, 82 Stat. 148; Pub. L. 96–221, title VI §606, Mar. 31, 1980, 94 Stat. 170; Pub. L. 104–29, §§2(a), (b)(1), (c)–(e), 3(a), Sept. 30, 1995, 109 Stat. 271, 272; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -101,6 +103,8 @@ Subsec. (f). Pub. L. 104–29, §3(a), added subsec. (f).
 <b>1980</b>—Subsec. (a). Pub. L. 96–221, §606(a), inserted provisions excluding charges of a type payable in comparable cash transactions and indicated that pars. (1) to (5) are examples of charges.
 
 Subsec. (d). Pub. L. 96–221, §606(b), struck out pars. (3) and (4) setting forth applicability to taxes and any other type of charge, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

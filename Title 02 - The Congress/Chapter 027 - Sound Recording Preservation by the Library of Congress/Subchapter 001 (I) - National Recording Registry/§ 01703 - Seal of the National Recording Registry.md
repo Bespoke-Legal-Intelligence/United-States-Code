@@ -52,7 +52,7 @@ The use of the seal provided under subsection (a) with respect to a sound record
 
 #### (3) Limitation of remedies
 
-&emsp;The remedies provided in this subsection shall be the exclusive remedies under thischapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
+&emsp;The remedies provided in this subsection shall be the exclusive remedies under this chapter, or any other Federal or State law, regarding the use of the seal described in subsection (a).
 
 (Pub. L. 106–474, title I, §103, Nov. 9, 2000, 114 Stat. 2086.)
 

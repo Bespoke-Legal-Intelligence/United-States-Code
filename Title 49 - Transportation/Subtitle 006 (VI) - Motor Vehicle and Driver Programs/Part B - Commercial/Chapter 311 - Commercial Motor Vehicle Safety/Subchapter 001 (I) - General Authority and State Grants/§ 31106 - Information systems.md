@@ -10,7 +10,7 @@ In general.—Subject to the provisions of this section, the Secretary shall est
 
 &emsp;(2)
 
-Network coordination.—In cooperation with the States, the information systemsunder this section shall be coordinated into a network providing accurate identification of motor carriers and drivers, commercial motor vehicle registration and license tracking, and motor carrier, commercial motor vehicle, and driver safety performance data.
+Network coordination.—In cooperation with the States, the information systems under this section shall be coordinated into a network providing accurate identification of motor carriers and drivers, commercial motor vehicle registration and license tracking, and motor carrier, commercial motor vehicle, and driver safety performance data.
 
 &emsp;(3)
 
@@ -52,7 +52,7 @@ Information clearinghouse.—The Secretary shall include, as part of the motor c
 
 &emsp;(2)
 
-Design.—The program shall link Federal motor carrier safety information systems with State commercial vehicle registration and licensing systems and shall be designed to enable a State to—
+Design.—The program shall link Federal motor carrier safety information systems withState commercial vehicle registration and licensing systems and shall be designed to enable a State to—
 
 &emsp;&emsp;(A) determine the safety fitness of a motor carrier or registrant when licensing or registering the registrant or motor carrier or while the license or registration is in effect; and
 
@@ -144,6 +144,8 @@ Jan. 6, 1983, Pub. L. 97–424, 96 Stat. 2155, §407; added Dec. 18, 1991, Pub. 
 
 In subsection (b)(2), the word "schedule" is substituted for "system" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94, §5102, substituted "Systems Management" for "Program" in heading.
@@ -156,7 +158,7 @@ Subsec. (b)(3)(C). Pub. L. 112–141, §32602, amended subpar. (C) generally. Pr
 
 Subsec. (c). Pub. L. 112–141, §32306, struck out subsec. heading "
 
-Commercial Motor Vehicle Driver Safety Program", designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
+Commercial Motor Vehicle Driver SafetyProgram", designated existing provisions as par. (1) and inserted par. heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
 Subsec. (e). Pub. L. 112–141, §32508, designated existing provisions as par. (1) and added par. (2).
 
@@ -165,6 +167,8 @@ Subsec. (e). Pub. L. 112–141, §32508, designated existing provisions as par. 
 Subsec. (b)(2) to (4). Pub. L. 109–59, §4109(a), added pars. (2) to (4) and struck out former pars. (2) to (4), which related to design of program with State licensing systems in par. (2), conditions of participation in par. (3), and funding for fiscal years 1998 to 2003 in par. (4).
 
 <b>1998</b>—Pub. L. 105–178 amended section catchline and text generally, substituting, in subsec. (a), provisions relating to information systems and data analysis for provisions relating to definition of commercial motor vehicle, in subsec. (b), provisions relating to performance and registration information program for provisions relating to information system, in subsec. (c), provisions relating to commercial motor vehicle driver safety program for provisions relating to demonstration project, in subsec. (d), provisions relating to cooperative agreements, grants, and contracts for provisions relating to review of State systems, and in subsec. (e), provisions relating to information availability and privacy protection policy for provisions relating to regulations, and striking out subsecs. (f) and (g), which related to report to Congress and authorization of appropriations, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

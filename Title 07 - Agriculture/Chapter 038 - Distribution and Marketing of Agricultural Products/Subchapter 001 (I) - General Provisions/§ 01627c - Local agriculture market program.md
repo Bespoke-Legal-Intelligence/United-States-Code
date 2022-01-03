@@ -200,7 +200,7 @@ In administering the Program, the Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted for a grant underparagraph (1) shall include a description of the direct or indirect producer or food business benefits intended by the applicant to result from the proposed project within a reasonable period of time after the receipt of the grant.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted for a grant under paragraph (1) shall include a description of the direct or indirect producer or food business benefits intended by the applicant to result from the proposed project within a reasonable period of time after the receipt of the grant.
 
 #### (ii) Exception
 
@@ -304,7 +304,7 @@ In administering the Program, the Secretary shall—
 
 #### (E) Matching funds
 
-&emsp;&emsp;An eligible entity described in subparagraph (B) receiving a grant shall providematching funds in the form of cash or an in-kind contribution in an amount that is equal to 25 percent of the total amount of the Federal portion of the grant.
+&emsp;&emsp;An eligible entity described in subparagraph (B) receiving a grant shall provide matching funds in the form of cash or an in-kind contribution in an amount that is equal to 25 percent of the total amount of the Federal portion of the grant.
 
 #### (e) Partnerships
 
@@ -390,7 +390,7 @@ In administering the Program, the Secretary shall—
 
 #### (4) Contribution
 
-&emsp;A partnership receiving a grant under paragraph (2) shall provide funding in an amount equal to not less than 25 percent of the total amount of the Federal portion of the grant.
+&emsp;A partnership receiving a grant under paragraph (2) shall provide funding in an amountequal to not less than 25 percent of the total amount of the Federal portion of the grant.
 
 #### (5) Applications
 
@@ -424,7 +424,7 @@ In administering the Program, the Secretary shall—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted under subparagraph (A) shall include a description of the direct or indirect producer or food business benefits intended by the eligible entity to result from the proposed project within areasonable period of time after the receipt of a grant.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an application submitted under subparagraph (A) shall include a description of the direct or indirect producer or food business benefits intended by the eligible entity to result from the proposed project within a reasonable period of time after the receipt of a grant.
 
 #### (ii) Exception
 
@@ -506,7 +506,7 @@ In carrying out the Program, to the maximum extent practicable, the Secretary sh
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), of the funds made available to carry out this section for a fiscal year, 35 percent shall be used for grants under subsection (d)(5).
+&emsp;&emsp;&emsp;Subject to clause (ii), of the funds made available to carry out this section for afiscal year, 35 percent shall be used for grants under subsection (d)(5).
 
 #### (ii) Reservation of funds
 
@@ -547,6 +547,8 @@ In carrying out the Program, to the maximum extent practicable, the Secretary sh
 &emsp;&emsp;Not greater than 8 percent of amounts made available to provide grants under subsections (d) and (e) for a fiscal year may be used for administrative expenses.
 
 (Aug. 14, 1946, ch. 966, title II, §210A, as added Pub. L. 115–334, title X, §10102(b), Dec. 20, 2018, 132 Stat. 4888.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Local Agriculture Market Program
 

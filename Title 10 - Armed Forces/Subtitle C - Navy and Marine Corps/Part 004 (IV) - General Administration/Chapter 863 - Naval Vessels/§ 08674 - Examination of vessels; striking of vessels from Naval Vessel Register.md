@@ -18,7 +18,7 @@ Action by Secretary.—If the Secretary concurs with a recommendation by a board
 
 (d)
 
-Annual Report.—(1) Not later than March 1 each year, the board designated under subsection (a) shall submit to the congressional defense committees a report setting forth the following:
+Annual Report.—(1) Not later than March 1 each year, the board designated under subsection (a) shall provide to the congressional defense committees a briefing and submit to such committees a report regarding the following:
 
 &emsp;(A) An overall narrative summary of the material readiness of Navy ships as compared to established material requirements standards.
 
@@ -26,19 +26,31 @@ Annual Report.—(1) Not later than March 1 each year, the board designated unde
 
 &emsp;(C) For in-service vessels, material readiness trends by inspected functional area as compared to the previous five years.
 
-(2) Each report under this subsection shall be submitted in an unclassified form that is releasable to the public without further redaction.
+(2) Each report under this subsection shall be submitted in—
 
-(3) No report shall be required under this subsection after October 1, 2021.
+&emsp;(A) a classified form; and
 
-(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708, §7304; renumbered §8674 and amended Pub. L. 115–232, div. A, title III, §322, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1719, 1836.)
+&emsp;(B) an unclassified form that is releasable to the public without further redaction.
+
+(Added Pub. L. 103–160, div. A, title VIII, §824(b), Nov. 30, 1993, 107 Stat. 1708, §7304; renumbered §8674 and amended Pub. L. 115–232, div. A, title III, §322, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1719, 1836; Pub. L. 117–81, div. A, title III, §362, Dec. 27, 2021, 135 Stat. 1660.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d)(1). Pub. L. 117–81, §362(1), substituted "provide to the congressional defense committees a briefing and submit to such committees a report regarding" for "submit to the congressional defense committees a report setting forth" in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 117–81, §362(2), substituted "in—" for "in an unclassified form that is releasable to the public without further redaction." and added subpars. (A) and (B).
+
+Subsec. (d)(3). Pub. L. 117–81, §362(3), struck out par. (3) which read as follows: "No report shall be required under this subsection after October 1, 2021."
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(2), renumbered section 7304 of this title as this section.
 
 Subsec. (a). Pub. L. 115–232, §322(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d). Pub. L. 115–232, §322(b), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -28,7 +28,7 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 > &emsp;&emsp;is less than 80 percent of—
 
-&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bears to all of the voting stock of the corporation at such time.
+&emsp;&emsp;&emsp;(ii) the ratio which the voting stock of the corporation owned by the shareholder immediately before the redemption bearsto all of the voting stock of the corporation at such time.
 
 > &emsp;&emsp;For purposes of this paragraph, no distribution shall be treated as substantially disproportionate unless the shareholder's ownership of the common stock of the corporation (whether voting or nonvoting) after and before redemption also meets the 80 percent requirement of the preceding sentence. For purposes of the preceding sentence, if there is more than one class of common stock, the determinations shall be made by reference to fair market value.
 
@@ -156,6 +156,8 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 85; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §5(b), Dec. 24, 1980, 94 Stat. 3405; Pub. L. 97–248, title II, §§222(c), 228(a), Sept. 3, 1982, 96 Stat. 478, 493; Pub. L. 98–369, div. A, title VII, §712(i)(1), July 18, 1984, 98 Stat. 948; Pub. L. 111–325, title III, §306(a), Dec. 22, 2010, 124 Stat. 3549.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–325, §306(a)(2), substituted "(4), or (5)" for "or (4)".
@@ -177,6 +179,8 @@ Subsecs. (e), (f). Pub. L. 97–248, §222(c)(2), added subsec. (e) and redesign
 Subsec. (b)(4), (5). Pub. L. 96–589, §5(b)(1), (2)(B), redesignated par. (5) as (4) and struck out reference to par. (4) in two places. Former par. (4) was struck out.
 
 <b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

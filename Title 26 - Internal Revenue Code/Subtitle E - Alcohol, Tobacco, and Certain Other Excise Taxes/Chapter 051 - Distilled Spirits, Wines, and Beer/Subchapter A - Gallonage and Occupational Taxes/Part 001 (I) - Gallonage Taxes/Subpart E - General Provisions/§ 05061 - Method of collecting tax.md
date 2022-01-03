@@ -42,7 +42,7 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 #### (B) Special rule for entry for warehousing
 
-&emsp;&emsp;Except as provided in subparagraph (D), in the case of an entry for warehousing, the last day for payment of tax shall not be later than the 14th day after the last day of the semimonthly period during which the article is removed from the 1st such warehouse.
+&emsp;&emsp;Except as provided in subparagraph (D), in the case of an entry for warehousing, thelast day for payment of tax shall not be later than the 14th day after the last day of the semimonthly period during which the article is removed from the 1st such warehouse.
 
 #### (C) Foreign trade zones
 
@@ -122,6 +122,8 @@ The internal revenue taxes imposed by this part shall be in addition to any impo
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1335; amended Pub. L. 94–455, title XIX, §§1905(a)(6), (b)(2)(E)(iii), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1819, 1822, 1834; Pub. L. 96–39, title VIII, §§804(b), 807(a)(9), July 26, 1979, 93 Stat. 274, 281; Pub. L. 98–369, div. A, title I, §27(c)(1), July 18, 1984, 98 Stat. 509; Pub. L. 99–509, title VIII, §8011(b)(1), Oct. 21, 1986, 100 Stat. 1952; Pub. L. 99–514, title XVIII, §1801(c)(1), Oct. 22, 1986, 100 Stat. 2786; Pub. L. 100–647, title II, §2003(b)(1)(A), (B), Nov. 10, 1988, 102 Stat. 3598; Pub. L. 101–508, title XI, §§11201(b)(3), 11704(a)(21), Nov. 5, 1990, 104 Stat. 1388–416, 1388–519; Pub. L. 103–465, title I, §136(c)(5), title VII, §712(b), Dec. 8, 1994, 108 Stat. 4842, 5000; Pub. L. 104–188, title I, §1702(b)(6), Aug. 20, 1996, 110 Stat. 1869; Pub. L. 109–59, title XI, §11127(a), (b), Aug. 10, 2005, 119 Stat. 1958, 1959; Pub. L. 114–113, div. Q, title III, §332(a), Dec. 18, 2015, 129 Stat. 3104.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5061, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -168,6 +170,8 @@ Subsec. (c). Pub. L. 94–455, §1905(a)(6)(C), substituted the import duties pr
 
 Subsec. (d). Pub. L. 94–455, §1905(b)(2)(E)(iii), struck out subsec. (d) which provided cross reference to section 5689 for penalty and forfeiture for tampering with a stamp machine.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title III, §332(c), Dec. 18, 2015, 129 Stat. 3106, provided that: "The amendments made by this section \[amending this section and sections 5173, 5351, 5401, and 5551 of this title\] shall apply to any calendar quarters beginning more than 1 year after the date of the enactment of this Act \[Dec. 18, 2015\]."
@@ -178,7 +182,7 @@ Pub. L. 109–59, title XI, §11127(c), Aug. 10, 2005, 119 Stat. 1959, provided 
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates,see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
+Amendment by Pub. L. 104–188 effective, except as otherwise expressly provided, as if included in the provision of the Revenue Reconciliation Act of 1990, Pub. L. 101–508, title XI, to which such amendment relates, see section 1702(i) of Pub. L. 104–188, set out as a note under section 38 of this title.
 
 #### Effective Date of 1994 Amendment
 
@@ -292,7 +296,7 @@ Separation of taxpaid stock.—All distilled spirits and wine on which tax has b
 
 "(d)
 
-Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilledspirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
+Return of Distilled Spirits Products Containing Taxpaid Wine.—With respect to distilled spirits returned to the bonded premises of distilled spirits plants during 1980, section 5008(c)(1) of the Internal Revenue Code of 1986 (relating to refunds for distilled spirits returned to bonded premises) shall be treated as including a reference to section 5041 of such Code.
 
 "(e)
 

@@ -38,6 +38,8 @@ The Secretary shall transmit to the Congress an annual report that—
 
 (Pub. L. 102–550, title X, §1061, Oct. 28, 1992, 106 Stat. 3926.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1), was in the original "this title", meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this title to the Code, see Short Title note set out under section 4851 of this title and Tables.

@@ -30,9 +30,11 @@ Each correctional facility entering into an agreement with a local educational a
 
 (Pub. L. 89–10, title I, §1425, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1589; amended Pub. L. 113–128, title V, §512(i)(4), July 22, 2014, 128 Stat. 1708; Pub. L. 114–95, title I, §1401(12), Dec. 10, 2015, 129 Stat. 1904.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) ofchapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subtitle I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -53,6 +55,8 @@ Par. (9). Pub. L. 114–95, §1401(12)(C), substituted "career" for "vocational"
 Pars. (12), (13). Pub. L. 114–95, §1401(12)(D)–(F), added pars. (12) and (13).
 
 <b>2014</b>—Par. (9). Pub. L. 113–128 substituted "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of the Workforce Innovation and Opportunity Act," for "coordinate funds received under this subpart with other local, State, and Federal funds available to provide services to participating children and youth, such as funds made available under title I of Public Law 105–220,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

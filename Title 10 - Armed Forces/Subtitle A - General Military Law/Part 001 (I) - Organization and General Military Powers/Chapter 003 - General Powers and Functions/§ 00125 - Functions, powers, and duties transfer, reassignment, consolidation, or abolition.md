@@ -2,7 +2,7 @@
 
 (a) Subject to section 2 of the National Security Act of 1947 (50 U.S.C. 3002), the Secretary of Defense shall take appropriate action (including the transfer, reassignment, consolidation, or abolition of any function, power, or duty) to provide more effective, efficient, and economical administration and operation, and to eliminate duplication, in the Department of Defense. However, except as provided by subsections (b) and (c), a function, power, or duty vested in the Department of Defense, or an officer, official, or agency thereof, by law may not be substantially transferred, reassigned, consolidated, or abolished.
 
-(b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, Marine Corps, or Space Force by section 7062(b), 8062, 8063, 9062(c), or 9081 of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer an imminent threat of hostilities, as the case may be.
+(b) Notwithstanding subsection (a), if the President determines it to be necessary because of hostilities or an imminent threat of hostilities, any function, power, or duty vested by law in the Department of Defense, or an officer, official, or agency thereof, including one assigned to the Army, Navy, Air Force, Marine Corps, or Space Force by section 7062(b), 8062, 8063, 9062(c), or 9081 of this title, may be transferred, reassigned, or consolidated. The transfer, reassignment, or consolidation remains in effect until the President determines that hostilities have terminated or that there is no longer animminent threat of hostilities, as the case may be.
 
 (c) Notwithstanding subsection (a), the Secretary of Defense may assign or reassign the development and operational use of new weapons or weapons systems to one or more of the military departments or one or more of the armed forces.
 
@@ -60,6 +60,8 @@ In subsection (c), the following substitutions are made: "Notwithstanding subsec
 
 In subsection (d), the following substitutions are made: "In subsection (a) (1)" for "within the meaning of paragraph (1) hereof"; and "considers" for "deems". The words "advantageous to the Government in terms of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (b). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps" and "9062(c), or 9081" for "or 9062(c)".
@@ -79,6 +81,8 @@ Subsec. (d). Pub. L. 99–433, §301(b)(1), struck out subsec. (d) which read as
 <b>1984</b>—Subsec. (a). Pub. L. 98–525 substituted "section 2 of the National Security Act of 1947 (50 U.S.C. 401)" for "section 401 of title 50".
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–501 required the Secretary of Defense to report to the Congress all the pertinent details regarding any substantial reduction or elimination of a major weapons system before action could be initiated or effected by the Department of Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

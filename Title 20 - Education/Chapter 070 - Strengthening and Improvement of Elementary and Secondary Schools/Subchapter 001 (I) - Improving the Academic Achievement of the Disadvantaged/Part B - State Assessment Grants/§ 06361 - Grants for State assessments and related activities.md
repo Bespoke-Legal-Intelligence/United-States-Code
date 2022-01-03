@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available in accordance with section 6363 of this title, the Secretary shall make grants to State educational agenciesto enable the States to carry out 1 or more of the following:
+From amounts made available in accordance with section 6363 of this title, the Secretary shall make grants to State educational agencies to enable the States to carry out 1 or more of the following:
 
 &emsp;(1) To pay the costs of the development of the State assessments and standards adopted under section 6311(b) of this title, which may include the costs of working in voluntary partnerships with other States, at the sole discretion of each such State.
 
@@ -48,13 +48,17 @@ Each State educational agency receiving a grant under this section shall submit 
 
 (Pub. L. 89–10, title I, §1201, as added Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1879.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6361, Pub. L. 89–10, title I, §1201, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1535, stated purpose of former subpart 1 of this part, prior to the general amendment of this part by Pub. L. 114–95.
 
-Another prior section 6361, Pub. L. 89–10, title I, §1201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–328, stated purpose of Even Start family literacy program, prior to the general amendment of this subchapter by Pub. L. 107–110.
+Another prior section 6361, Pub. L. 89–10, title I, §1201, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3578; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(b)\], Dec. 21, 2000, 114 Stat. 2763,2763A–328, stated purpose of Even Start family literacy program, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1201 of Pub. L. 89–10 was classified to section 2781 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

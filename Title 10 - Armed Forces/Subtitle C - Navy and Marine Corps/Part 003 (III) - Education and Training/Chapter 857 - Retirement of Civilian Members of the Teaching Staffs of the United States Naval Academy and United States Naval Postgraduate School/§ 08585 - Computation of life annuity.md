@@ -22,11 +22,15 @@ The words "terminable on his death at the rate of the following total annual amo
 
 The words "basic salary, pay, or" are omitted as surplusage, since they are covered by the word "compensation". The first proviso is omitted as unnecessary, since all existing rights and benefits of persons affected by this title are protected by a general saving provision.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §809(a), substituted "section 8584" for "section 7084" and "section 8582" for "section 7082".
 
 Pub. L. 115–232, §807(c)(1), renumbered section 7085 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

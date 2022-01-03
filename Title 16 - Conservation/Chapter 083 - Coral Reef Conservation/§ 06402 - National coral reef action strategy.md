@@ -26,9 +26,13 @@ The action strategy shall include a statement of goals and objectives as well as
 
 (Pub. L. 106–562, title II, §203, Dec. 23, 2000, 114 Stat. 2800.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 13089, referred to in subsec. (a), is set out as a note under section 6401 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

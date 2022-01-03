@@ -28,7 +28,7 @@ Offeror for subcontract.—An offeror for a subcontract (at any tier) of a contr
 
 &emsp;&emsp;(A) in the case of a subcontract under a prime contract referred to in paragraph (1)(A), the price of the subcontract is expected to exceed $2,000,000;
 
-&emsp;&emsp;(B) in the case of a subcontract entered into under a prime contract that was entered into on or before June 30, 2018, and that has been modified pursuant to subsection (f), the price of the subcontract is expected to exceed $2,000,000; and
+&emsp;&emsp;(B) in the case of a subcontract entered into under a prime contract that was entered into on or before June 30, 2018, andthat has been modified pursuant to subsection (f), the price of the subcontract is expected to exceed $2,000,000; and
 
 &emsp;&emsp;(C) in the case of a subcontract not covered by subparagraph (A) or (B), the price of the subcontract is expected to exceed $750,000.
 

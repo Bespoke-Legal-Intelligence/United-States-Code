@@ -22,7 +22,7 @@ Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, provided in part 
 
 #### Effective Date of 1979 Amendments
 
-Prior to repeal by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, it was provided by Pub. L. 96–161,title II, §211, Dec. 28, 1979, 93 Stat. 1239, that: "The amendments made by sections 208, 209, and 210 of this title \[enacting this section and amending sections 1425b and 1828 of this title\] shall apply only with respect to deposits made or obligations issued in any State during the period beginning on the date of the enactment of this Act \[Dec. 28, 1979\] and ending on the earliest of—
+Prior to repeal by Pub. L. 96–221, title V, §529, Mar. 31, 1980, 94 Stat. 168, it was provided by Pub. L. 96–161, title II, §211, Dec. 28, 1979, 93 Stat. 1239, that: "The amendments made by sections 208, 209, and 210 of this title \[enacting this section and amending sections 1425b and 1828 of this title\] shall apply only with respect to deposits made or obligations issued in any State during the period beginning on the date of the enactment of this Act \[Dec. 28, 1979\] and ending on the earliest of—
 
 &emsp;"(1) in the case of a State statute, July 1, 1980;
 

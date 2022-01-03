@@ -66,7 +66,7 @@
 
 #### (c) Approval of certain applications
 
-The State educational agency may approve an application under this part for a program to be located in a facility other than an elementary school or secondary school only if the program will be at least as available and accessible to thestudents to be served as if the program were located in an elementary school or secondary school.
+The State educational agency may approve an application under this part for a program to belocated in a facility other than an elementary school or secondary school only if the program will be at least as available and accessible to the students to be served as if the program were located in an elementary school or secondary school.
 
 #### (d) Permissive local match
 
@@ -148,9 +148,13 @@ A State educational agency may renew a subgrant provided under this part to an e
 
 (Pub. L. 89–10, title IV, §4204, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1769; amended Pub. L. 114–95, title IV, §4201(a), Dec. 10, 2015, 129 Stat. 1988.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section related to local competitive grant program, consisting of subsecs. (a) to (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

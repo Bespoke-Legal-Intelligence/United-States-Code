@@ -72,11 +72,15 @@ A manufacturer shall provide with each manufactured home, design and instruction
 
 (Pub. L. 93–383, title VI, §605, Aug. 22, 1974, 88 Stat. 702; Pub. L. 96–399, title III, §308(c)(4), Oct. 8, 1980, 94 Stat. 1641; Pub. L. 106–569, title VI, §605(a), Dec. 27, 2000, 114 Stat. 3006.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–569 amended section catchline and text generally, substituting provisions relating to manufactured home installation for provisions relating to National Manufactured Home Advisory Council.
 
 <b>1980</b>—Subsecs. (a) to (c). Pub. L. 96–399 substituted "Manufactured Home" for "Mobile Home" and "manufactured home" for "mobile home" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

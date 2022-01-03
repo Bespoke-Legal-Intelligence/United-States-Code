@@ -10,7 +10,7 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 #### (c) Gulf of Maine ecosystem protection
 
-(1) No later than 1 year after April 30, 1994, the Secretary of Commerce shall convene a regionalworkshop for the Gulf of Maine to assess human-caused factors affecting the health and stability of that marine ecosystem, of which marine mammals are a part. The workshop shall be conducted in consultation with the Marine Mammal Commission, the adjacent coastal States, individuals with expertise in marine mammal biology and ecology, representatives from environmental organizations, the fishing industry, and other appropriate persons. The goal of the workshop shall be to identify such factors, and to recommend a program of research and management to restore or maintain that marine ecosystem and its key components that—
+(1) No later than 1 year after April 30, 1994, the Secretary of Commerce shall convene a regional workshop for the Gulf of Maine to assess human-caused factors affecting the health and stability of that marine ecosystem, of which marine mammals are a part. The workshop shall be conducted in consultation with the Marine Mammal Commission, the adjacent coastal States, individuals with expertise in marine mammal biology and ecology, representatives from environmental organizations, the fishing industry, and other appropriate persons. The goal of the workshop shall be to identify such factors, and to recommend a program of research and management to restore or maintain that marine ecosystem and its key components that—
 
 &emsp;(A) protects and encourages marine mammals to develop to the greatest extent feasible commensurate with sound policies of resource management;
 
@@ -32,6 +32,8 @@ Any grant or other financial assistance provided by the Secretary pursuant to th
 
 (Pub. L. 92–522, title I, §110, Oct. 21, 1972, 86 Stat. 1041; Pub. L. 95–136, §1, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §2, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §5, Oct. 9, 1981, 95 Stat. 986; Pub. L. 100–711, §4(e), Nov. 23, 1988, 102 Stat. 4768; Pub. L. 103–238, §20, Apr. 30, 1994, 108 Stat. 560; Pub. L. 105–42, §4(f), Aug. 15, 1997, 111 Stat. 1125.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Provisions of section 1373(f) of this title requiring annual reports to Congress, referred to in subsec. (d)(3), terminated, effective May 15, 2000. See Termination of Reporting Requirements note set out under section 1373 of this title.
@@ -51,6 +53,8 @@ Section 1404 of this title, referred to in subsec. (d)(3), was omitted from the 
 <b>1978</b>—Subsec. (c)(4) to (6). Pub. L. 95–316 added pars. (4) to (6).
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–136 incorporated existing provisions into text preceding par. (1) and, as so incorporated, struck out provisions authorizing to be appropriated such sums as may be necessary to carry out this section for the fiscal year in which this section takes effect and the next four years thereafter, limiting appropriations for any one year to $2,500,000, and requiring that one-third of such sums be made available to the Secretary of the Interior and two-thirds of such sums be made available to the Secretary of the department in which the National Oceanic and Atmospheric Administration is operating, and added pars. (1) to (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

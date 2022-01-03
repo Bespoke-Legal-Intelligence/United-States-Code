@@ -36,9 +36,13 @@ A State may apply for funds under one or more of the following categories:
 
 (Pub. L. 101–501, title IX, §929, Nov. 3, 1990, 104 Stat. 1270.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 12339 of this title, referred to in subsecs. (a), (c), and (d)(3), was repealed by Pub. L. 103–252, title IV, §401(b)(1), May 18, 1994, 108 Stat. 672.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

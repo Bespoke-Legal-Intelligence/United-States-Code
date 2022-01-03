@@ -2,13 +2,17 @@
 
 #### (a) Designation of national interest electric transmission corridors
 
-(1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the "Secretary"), in consultation with affected States, shall conduct a study of electric transmission congestion.
+(1) Not later than 1 year after August 8, 2005, and every 3 years thereafter, the Secretary of Energy (referred to in this section as the "Secretary"), in consultation with affected States and Indian Tribes, shall conduct a study of electric transmission capacity constraints and congestion.
 
-(2) After considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.
+(2) Not less frequently than once every 3 years, the Secretary, after considering alternatives and recommendations from interested parties (including an opportunity for comment from affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—
 
-(3) The Secretary shall conduct the study and issue the report in consultation with any appropriate regional entity referred to in section 824o of this title.
+&emsp;(i) <sup>1</sup> is experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers; or
 
-(4) In determining whether to designate a national interest electric transmission corridor under paragraph (2), the Secretary may consider whether—
+&emsp;(ii) <sup>2</sup> is expected to experience such energy transmission capacity constraints or congestion.
+
+(3) Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult with any appropriate regional entity referred to in section 824o of this title.
+
+(4) In determining whether to designate a national interest electric transmission corridorunder paragraph (2), the Secretary may consider whether—
 
 &emsp;(A) the economic vitality and development of the corridor, or the end markets served by the corridor, may be constrained by lack of adequate or reasonably priced electricity;
 
@@ -16,11 +20,21 @@
 
 &emsp;(ii) a diversification of supply is warranted;
 
-&emsp;(C) the energy independence of the United States would be served by the designation;
+&emsp;(C) the energy independence or energy security of the United States would be served by the designation;
 
-&emsp;(D) the designation would be in the interest of national energy policy; and
+&emsp;(D) the designation would be in the interest of national energy policy;
 
-&emsp;(E) the designation would enhance national defense and homeland security.
+&emsp;(E) the designation would enhance national defense and homeland security;
+
+&emsp;(F) the designation would enhance the ability of facilities that generate or transmit firm or intermittent energy to connect to the electric grid;
+
+&emsp;(G) the designation—
+
+&emsp;&emsp;(i) maximizes existing rights-of-way; and
+
+&emsp;&emsp;(ii) avoids and minimizes, to the maximum extent practicable, and offsets to the extent appropriate and practicable, sensitive environmental areas and cultural heritage sites; and
+
+&emsp;(H) the designation would result in a reduction in the cost to purchase electric energy for consumers.
 
 #### (b) Construction permit
 
@@ -30,15 +44,21 @@ Except as provided in subsection (i), the Commission may, after notice and an op
 
 &emsp;&emsp;(i) approve the siting of the facilities; or
 
-&emsp;&emsp;(ii) consider the interstate benefits expected to be achieved by the proposed construction or modification of transmission facilities in the State;
+&emsp;&emsp;(ii) consider the interstate benefits or interregional benefits expected to be achieved by the proposed construction or modification of transmission facilities in the State;
 
 &emsp;(B) the applicant for a permit is a transmitting utility under this chapter but does not qualify to apply for a permit or siting approval for the proposed project in a State because the applicant does not serve end-use customers in the State; or
 
-&emsp;(C) a State commission or other entity that has authority to approve the siting of the facilities has—
+&emsp;(C) a State commission or other entity that has authority to approve the siting of the facilities—
 
-&emsp;&emsp;(i) withheld approval for more than 1 year after the filing of an application seeking approval pursuant to applicable law or 1 year after the designation of the relevant national interest electric transmission corridor, whichever is later; or
+&emsp;&emsp;(i) has not made a determination on an application seeking approval pursuant to applicable law by the date that is 1 year after the later of—
 
-&emsp;&emsp;(ii) conditioned its approval in such a manner that the proposed construction or modification will not significantly reduce transmission congestion in interstate commerce or is not economically feasible;
+&emsp;&emsp;&emsp;(I) the date on which the application was filed; and
+
+&emsp;&emsp;&emsp;(II) the date on which the relevant national interest electric transmission corridor was designated by the Secretary under subsection (a);
+
+&emsp;&emsp;(ii) has conditioned its approval in such a manner that the proposed construction or modification will not significantly reduce transmission capacity constraints or congestion in interstate commerce or is not economically feasible; or
+
+&emsp;&emsp;(iii) has denied an application seeking approval pursuant to applicable law;
 
 &emsp;(2) the facilities to be authorized by the permit will be used for the transmission of electric energy in interstate commerce;
 
@@ -64,11 +84,11 @@ Except as provided in subsection (i), the Commission may, after notice and an op
 
 #### (d) Comments
 
-In any proceeding before the Commission under subsection (b), the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to theneed for and impact of a facility covered by the permit.
+In any proceeding before the Commission under subsection (b), the Commission shall afford each State in which a transmission facility covered by the permit is or will be located, each affected Federal agency and Indian tribe, private property owners, and other interested persons, a reasonable opportunity to present their views and recommendations with respect to the need for and impact of a facility covered by the permit.
 
 #### (e) Rights-of-way
 
-(1) In the case of a permit under subsection (b) for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify the transmission facilities, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
+(1) In the case of a permit under subsection (b) for electric transmission facilities to be located on property other than property owned by the United States or a State, if the permit holder cannot acquire by contract, or is unable to agree with the owner of the property to the compensation to be paid for, the necessary right-of-way to construct or modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the permit holder may acquire the right-of-way by the exercise of the right of eminent domain in the district court of the United States for the district in which the property concerned is located, or in the appropriate court of the State in which the property is located.
 
 (2) Any right-of-way acquired under paragraph (1) shall be used exclusively for the construction or modification of electric transmission facilities within a reasonable period of time after the acquisition.
 
@@ -114,7 +134,7 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 (5)(A) As lead agency head, the Secretary, in consultation with the affected agencies, shall prepare a single environmental review document, which shall be used as the basis for all decisions on the proposed project under Federal law.
 
-(B) The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act <sup>1</sup> (43 U.S.C. 1763) by fully taking into account prior analyses and decisions relating to the corridors.
+(B) The Secretary and the heads of other agencies shall streamline the review and permitting of transmission within corridors designated under section 503 of the Federal Land Policy and Management Act <sup>3</sup> (43 U.S.C. 1763) by fully taking into account prior analyses and decisions relating to the corridors.
 
 (C) The document shall include consideration by the relevant agencies of any applicable criteria or other matters as required under applicable law.
 
@@ -172,11 +192,15 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 &emsp;(B) carry out the electric energy transmission siting responsibilities of those States.
 
-(2) The Secretary may provide technical assistance to regional transmission siting agencies established under this subsection.
+(2) The Secretary shall provide technical assistance to regional transmission siting agencies established under this subsection.
 
 (3) The regional transmission siting agencies shall have the authority to review, certify, and permit siting of transmission facilities, including facilities in national interest electric transmission corridors (other than facilities on property owned by the United States).
 
-(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).
+(4) The Commission shall have no authority to issue a permit for the construction or modification of an electric transmission facility within a State that is a party to a compact, unless the Secretary determines that the members of the compact are in disagreement after the later of—
+
+&emsp;(A) the date that is 1 year after the date on which the relevant application for the facility was filed; and
+
+&emsp;(B) the date that is 1 year after the date on which the relevant national interest electric transmission corridor was designated by the Secretary under subsection (a).
 
 #### (j) Relationship to other laws
 
@@ -188,7 +212,9 @@ Nothing in this section precludes any person from constructing or modifying any 
 
 This section shall not apply within the area referred to in section 824k(k)(2)(A) of this title.
 
-(June 10, 1920, ch. 285, pt. II, §216, as added Pub. L. 109–58, title XII, §1221(a), Aug. 8, 2005, 119 Stat. 946.)
+(June 10, 1920, ch. 285, pt. II, §216, as added Pub. L. 109–58, title XII, §1221(a), Aug. 8, 2005, 119 Stat. 946; amended Pub. L. 117–58, div. D, title I, §40105, Nov. 15, 2021, 135 Stat. 933.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -196,11 +222,43 @@ The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i),
 
 The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to theCode, see Short Title note set out under section 1251 of Title 33 and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act tothe Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by "of 1976".</i>
+#### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §40105(a)(1), inserted "and Indian Tribes" after "affected States" and "capacity constraints and" before "congestion".
+
+Subsec. (a)(2). Pub. L. 117–58, §40105(a)(2), substituted "Not less frequently than once every 3 years, the Secretary, after" for "After" and "affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—" for "affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor." and added subpars. (i) and (ii).
+
+Subsec. (a)(3). Pub. L. 117–58, §40105(a)(3), substituted "Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult" for "The Secretary shall conduct the study and issue the report in consultation".
+
+Subsec. (a)(4)(C). Pub. L. 117–58, §40105(a)(4)(A), inserted "or energy security" after "independence".
+
+Subsec. (a)(4)(F) to (H). Pub. L. 117–58, §40105(a)(4)(B)–(D), added subpars. (F) to (H).
+
+Subsec. (b)(1)(A)(ii). Pub. L. 117–58, §40105(b)(1)(A), inserted "or interregional benefits" after "interstate benefits".
+
+Subsec. (b)(1)(C). Pub. L. 117–58, §40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C) which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
+
+Subsec. (e)(1). Pub. L. 117–58, §40105(c), substituted "modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the" for "modify the transmission facilities, the".
+
+Subsec. (i)(2). Pub. L. 117–58, §40105(d)(1), substituted "shall provide" for "may provide".
+
+Subsec. (i)(4). Pub. L. 117–58, §40105(d)(2), substituted "the Secretary determines that the members of the compact are in disagreement after the later of—" and subpars. (A) and (B) for "the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(A)".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "(B)".</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "of 1976".</i>
 

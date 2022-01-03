@@ -68,7 +68,7 @@ Definitions.—For purposes of this section, the term—
 
 &emsp;"(10) 'Service' means the United States Fish and Wildlife Service; and
 
-&emsp;"(11) 'Terms and Conditions' means the Terms and Conditions for Land Consolidation and Managementin the Cook Inlet Area, as clarified on August 31, 1976, ratified by section 12 of Public Law 94–204 (43 U.S.C. 1611 note).
+&emsp;"(11) 'Terms and Conditions' means the Terms and Conditions for Land Consolidation and Management in the Cook Inlet Area, as clarified on August 31, 1976, ratified by section 12 of Public Law 94–204 (43 U.S.C. 1611 note).
 
 "(d)
 
@@ -122,7 +122,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;&emsp;"(iv) The nonexclusive right to excavate within the subsurface estate as reasonably necessary for structures, utilities, transportation systems, and other development of the surface estate on the SW¼, section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska, where the entire subsurface of the land is owned by the United States and which public lands shall continue to be withdrawn from mining following their removal from the Refuge boundary under paragraph (3)(A)(ii). The United States shall retain the ownership of all other sand and gravel located within the subsurface of this parcel.
 
-&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract. This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
+&emsp;&emsp;&emsp;"(v) The surface estate of approximately 280 acres known as the Beaver Creek Selected Tract.This tract shall be conveyed to KNA in exchange for lands conveyed to the United States as described in paragraph (2)(A)(ii).
 
 &emsp;&emsp;"(C)
 
@@ -140,7 +140,7 @@ General provisions.—
 
 Removal of kna lands from the national wildlife refuge system.—
 
-&emsp;&emsp;&emsp;"(i) Effective on the date of closing for the Acquisition Lands identified in paragraph (2)(B), all lands retained by or conveyed to KNA pursuant to this section, and the subsurface interests of CIRI underlying such lands shall be automatically removed from the National Wildlife Refuge System and shall neither be considered as part of the Refuge nor subject to any laws pertaining solely to lands within the boundaries of the Refuge. The conveyance restrictions imposed by section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] (i) shall then be ineffective and cease to apply to such interests of KNA and CIRI, and (ii) shall not be applicable to the interests received by KNA in accordance withparagraph (2)(B) or to the CIRI interests underlying them. The Secretary shall adjust the boundaries of the Refuge so as to exclude all interests in lands retained or received in exchange by KNA in accordance with this section, including both surface and subsurface, and shall also exclude all interests currently held by CIRI. On lands within the Swanson River Road East Tract, the boundary adjustment shall only include the surface estate where the subsurface estate is retained by the United States.
+&emsp;&emsp;&emsp;"(i) Effective on the date of closing for the Acquisition Lands identified in paragraph (2)(B), all lands retained by or conveyed to KNA pursuant to this section, and the subsurface interests of CIRI underlying such lands shall be automatically removed from the National Wildlife Refuge System and shall neither be considered as part of the Refuge nor subject to any laws pertaining solely to lands within the boundaries of the Refuge. The conveyance restrictions imposed by section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] (i) shall then be ineffective and cease to apply to such interests of KNA and CIRI, and (ii) shall not be applicable to the interests received by KNA in accordance with paragraph (2)(B) or to the CIRI interests underlying them. The Secretary shall adjust the boundaries of the Refuge so as to exclude all interests in lands retained or received in exchange by KNA in accordance with this section, including both surface and subsurface, and shall also exclude all interests currently held by CIRI. On lands within the Swanson River Road East Tract, the boundary adjustment shall only include the surface estate where the subsurface estate is retained by the United States.
 
 &emsp;&emsp;&emsp;"(ii)(I) The Secretary, KNA, and CIRI shall execute an agreement within 45 days of the date of enactment of this section \[Nov. 12, 1996\] which preserves CIRI's rights under paragraph 1(B)(1) of the Terms and Conditions, addresses CIRI's obligations under such paragraph, and adequately addresses management issues associated with the boundary adjustment set forth in this section and with the differing interests in land resulting from enactment of this section.
 
@@ -198,7 +198,7 @@ Management.—
 
 Access.—The Secretary shall allow the following:
 
-&emsp;&emsp;"(A) Private access for any purpose, including economic development, to lands within the boundaries of the Special Management Area which are owned by third parties or are held in trust by the Secretary for third parties pursuant to the Alaska Native Allotment Act (25 U.S.C. 336). Such rights may be subject to restrictions issued by the BLM toprotect subsistence uses of the Special Management Area.
+&emsp;&emsp;"(A) Private access for any purpose, including economic development, to lands within the boundaries of the Special Management Area which are owned by third parties or are held in trust by the Secretary for third parties pursuant to the Alaska Native Allotment Act (25 U.S.C. 336). Such rights may be subject to restrictions issued by the BLM to protect subsistence uses of the Special Management Area.
 
 &emsp;&emsp;"(B) Existing public access across the Special Management Area. Section 1110(a) of ANILCA \[16 U.S.C. 3170(a)\] shall apply to the Special Management Area.
 

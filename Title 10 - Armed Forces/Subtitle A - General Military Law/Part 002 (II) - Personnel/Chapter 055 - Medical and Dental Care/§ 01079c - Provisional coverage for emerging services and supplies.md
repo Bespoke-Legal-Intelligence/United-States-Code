@@ -22,7 +22,7 @@ Consideration of Evidence.—In making a determination under subsection (a), the
 
 (c)
 
-Independent Evaluation.—In making a determination under subsection (a), the Secretary may arrange for an evaluation from the Institute of Medicine of the National Academies or such other independent entity as the Secretary selects.
+Independent Evaluation.—In making a determination under subsection (a), the Secretary may arrange for an evaluation from theInstitute of Medicine of the National Academies or such other independent entity as the Secretary selects.
 
 (d)
 

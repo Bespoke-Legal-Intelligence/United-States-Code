@@ -8,7 +8,7 @@ If any person who is engaged in the business of preparing, or providing services
 
 &emsp;(2) uses any such information for any purpose other than to prepare, or assist in preparing, any such return,
 
-> shall pay a penalty of $250 for each such disclosure or use, but the total amount imposed underthis subsection on such a person for any calendar year shall not exceed $10,000.
+> shall pay a penalty of $250 for each such disclosure or use, but the total amount imposed under this subsection on such a person for any calendar year shall not exceed $10,000.
 
 #### (b) Enhanced penalty for improper use or disclosure relating to identity theft
 
@@ -34,9 +34,13 @@ Subchapter B of chapter 63 (relating to deficiency procedures for income, estate
 
 (Added Pub. L. 100–647, title VI, §6242(a), Nov. 10, 1988, 102 Stat. 3749, §6712; renumbered §6713, Pub. L. 101–239, title VII, §7816(v)(1), Dec. 19, 1989, 103 Stat. 2423; amended Pub. L. 116–25, title II, §2009(a), July 1, 2019, 133 Stat. 1007.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsecs. (b) to (d). Pub. L. 116–25 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

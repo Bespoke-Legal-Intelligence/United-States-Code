@@ -28,7 +28,7 @@ Section 1613, Pub. L. 92–318, title VII, §714, June 23, 1972, 86 Stat. 368; S
 
 Section 1614, Pub. L. 92–318, title VII, §715, June 23, 1972, 86 Stat. 368, related to administration of joint funding with respect to programs and projects under this chapter.
 
-Section 1615, Pub. L. 92–318, title VII, §716, June 23, 1972, 86 Stat. 368; Pub. L. 93–380, title VIII, §845(e), Aug. 21, 1974, 88 Stat. 612; Pub. L. 94–43, §3, June 28, 1975, 89Stat. 233; Pub. L. 94–482, title III, §321(d), Oct. 12, 1976, 90 Stat. 2217, related to establishment of National Advisory Council on Equality of Educational Opportunity.
+Section 1615, Pub. L. 92–318, title VII, §716, June 23, 1972, 86 Stat. 368; Pub. L. 93–380, title VIII, §845(e), Aug. 21, 1974, 88 Stat. 612; Pub. L. 94–43, §3, June 28, 1975, 89 Stat. 233; Pub. L. 94–482, title III, §321(d), Oct. 12, 1976, 90 Stat. 2217, related to establishment of National Advisory Council on Equality of Educational Opportunity.
 
 Section 1616, Pub. L. 92–318, title VII, §717(a), June 23, 1972, 86 Stat. 369, related to applicability of General Education Provisions Act to this chapter.
 
@@ -37,6 +37,8 @@ Section 1617, Pub. L. 92–318, title VII, §718, June 23, 1972, 86 Stat. 369, r
 Section 1618, Pub. L. 92–318, title VII, §719, June 23, 1972, 86 Stat. 369, related to effect of this chapter on method of student assignment.
 
 Section 1619, Pub. L. 92–318, title VII, §720, June 23, 1972, 86 Stat. 369; Pub. L. 93–380, title VI, §643(d), Aug. 21, 1974, 88 Stat. 587; Pub. L. 94–482, title III, §321(c)(3), Oct. 12, 1976, 90 Stat. 2217, defined terms used in this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

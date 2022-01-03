@@ -32,7 +32,7 @@ Another section 8440a was renumbered section 8440b of this title.
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–361 substituted "this chapter" for "chapter 84 of this title: <i>Provided, however</i>, That a justice or judge may make the first such election within 60 days of the effective date of this section".
 
-Subsec. (b)(2). Pub. L. 106–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Theamount contributed by a justice or judge shall not exceed 5 percent of basic pay."
+Subsec. (b)(2). Pub. L. 106–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows:"The amount contributed by a justice or judge shall not exceed 5 percent of basic pay."
 
 <b>1996</b>—Subsec. (b)(7). Pub. L. 104–208 substituted "less than an amount that the Executive Director prescribes by regulation" for "$3,500 or less" and struck out "unless the justice or judge elects, at such time and otherwise in such manner as the Executive Director prescribes, one of the options available under section 8433(b)" before period at end.
 

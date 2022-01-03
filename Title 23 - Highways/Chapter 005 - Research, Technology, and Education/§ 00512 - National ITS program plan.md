@@ -116,7 +116,7 @@ Policy.—Intelligent transportation system research projects and operational te
 
 "(c)
 
-Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and other public entities, the private sector firms of the United States, the Federal laboratories, and colleges and universities, including historically Black colleges and universities and other minority institutions of higher education.
+Cooperation With Governmental, Private, and Educational Entities.—The Secretary shall carry out the intelligent transportation system program in cooperation with State and local governments and otherpublic entities, the private sector firms of the United States, the Federal laboratories, and colleges and universities, including historically Black colleges and universities and other minority institutions of higher education.
 
 "(d)
 
@@ -266,7 +266,7 @@ Priority Areas.—Under the program, the Secretary shall give higher priority to
 
 &emsp;&emsp;"(B) ensuring that a national, interoperable 5–1–1 system, along with a national traffic information system that includes a user-friendly, comprehensive website, is fully implemented for use by travelers throughout the United States by September 30, 2010; and
 
-&emsp;&emsp;"(C)(i) improving incident management response, particularly in rural areas, so that rural emergencyresponse times are reduced by an average of 10 minutes; and
+&emsp;&emsp;"(C)(i) improving incident management response, particularly in rural areas, so that rural emergency response times are reduced by an average of 10 minutes; and
 
 &emsp;&emsp;"(ii) improving communication between emergency care providers and trauma centers;
 
@@ -524,7 +524,7 @@ State.—The term 'State' has the meaning given the term under section 101 of ti
 
 &emsp;"(8)
 
-Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United States Code \[section 101(a) of this title does not define the term\]."
+Transportation systems management and operations.—The term 'transportation systems management and operations' has the meaning given the term under section 101(a) of title 23, United StatesCode \[section 101(a) of this title does not define the term\]."
 
 #### Environmental Review of Activities That Support Deployment of Intelligent Transportation Systems
 
@@ -532,7 +532,7 @@ Pub. L. 109–59, title VI, §6010, Aug. 10, 2005, 119 Stat. 1877, provided that
 
 "(a)
 
-Categorical Exclusions.—Not later than one year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall initiate a rulemaking process to establish, to the extent appropriate, categorical exclusions for activities that support the deployment of intelligent transportation infrastructure and systems from the requirement that an environmental assessment or an environmental impact statement be prepared under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) incompliance with the standards for categorical exclusions established by that Act \[42 U.S.C. 4321 et seq.\].
+Categorical Exclusions.—Not later than one year after the date of enactment of this Act \[Aug. 10, 2005\], the Secretary \[of Transportation\] shall initiate a rulemaking process to establish, to the extent appropriate, categorical exclusions for activities that support the deployment of intelligent transportation infrastructure and systems from the requirement that an environmental assessment or an environmental impact statement be prepared under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332) in compliance with the standards for categorical exclusions established by that Act \[42 U.S.C. 4321 et seq.\].
 
 "(b)
 

@@ -12,7 +12,7 @@ Upon receipt of written request therefor from any person, the Trade Representati
 
 #### (b) If information not available
 
-If information that is requested by a person under subsection (a) is not available to theTrade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
+If information that is requested by a person under subsection (a) is not available to the Trade Representative or other Federal agencies, the Trade Representative shall, within 30 days after receipt of the request—
 
 &emsp;(1) request the information from the foreign government; or
 
@@ -41,6 +41,8 @@ If information that is requested by a person under subsection (a) is not availab
 &emsp;(B) may make such information available to any other person in a form which cannot be associated with, or otherwise identify, the person providing the information.
 
 (Pub. L. 93–618, title III, §308, as added Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1175.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

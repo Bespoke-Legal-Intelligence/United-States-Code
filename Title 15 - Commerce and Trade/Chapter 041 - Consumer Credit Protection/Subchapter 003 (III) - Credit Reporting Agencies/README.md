@@ -11,6 +11,7 @@
 - [&sect; 01681c - Requirements relating to information contained in consumer reports](%C2%A7%2001681c%20-%20Requirements%20relating%20to%20information%20contained%20in%20consumer%20reports.md)
 - [&sect; 01681c&#8211;1 - Identity theft prevention; fraud alerts and active duty alerts](%C2%A7%2001681c%E2%80%931%20-%20Identity%20theft%20prevention%3B%20fraud%20alerts%20and%20active%20duty%20alerts.md)
 - [&sect; 01681c&#8211;2 - Block of information resulting from identity theft](%C2%A7%2001681c%E2%80%932%20-%20Block%20of%20information%20resulting%20from%20identity%20theft.md)
+- [&sect; 01681c&#8211;3 - Adverse information in cases of trafficking](%C2%A7%2001681c%E2%80%933%20-%20Adverse%20information%20in%20cases%20of%20trafficking.md)
 - [&sect; 01681d - Disclosure of investigative consumer reports](%C2%A7%2001681d%20-%20Disclosure%20of%20investigative%20consumer%20reports.md)
 - [&sect; 01681e - Compliance procedures](%C2%A7%2001681e%20-%20Compliance%20procedures.md)
 - [&sect; 01681f - Disclosures to governmental agencies](%C2%A7%2001681f%20-%20Disclosures%20to%20governmental%20agencies.md)

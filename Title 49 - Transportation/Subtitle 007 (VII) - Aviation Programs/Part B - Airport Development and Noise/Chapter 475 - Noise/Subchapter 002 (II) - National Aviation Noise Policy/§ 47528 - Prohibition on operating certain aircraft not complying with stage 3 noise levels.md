@@ -82,7 +82,7 @@ Procedure To Be Published.—Not later than 30 days after the date of the enactm
 
 Statutory Construction.—Nothing in this section may be construed as interfering with, nullifying, or otherwise affecting determinations made by the Federal Aviation Administration, or to be made by the Administration with respect to applications under part 161 of title 14, Code of Federal Regulations, that were pending on November 1, 1999.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1291; Pub. L. 106–113, div. B, §1000(a)(5) \[title II,§231(a), (b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–300, 1501A–301; Pub. L. 106–181, title VII, §721(a)–(c)(1), (d), Apr. 5, 2000, 114 Stat. 164, 165.)
 
 Historical and Revision Notes
 
@@ -122,6 +122,8 @@ In subsection (e), the words "the State of" are omitted as surplus. The words "p
 
 In subsection (e)(1), the words "the operation of" are omitted as surplus. The words "places only in Hawaii" are substituted for "two or more points, all of which are within the State of Hawaii" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
@@ -144,6 +146,8 @@ Subsecs. (f), (g). Pub. L. 106–181, §721(b)(3), added subsecs. (f) and (g).
 
 Subsec. (a). Pub. L. 106–113, §1000(a)(5) \[title II, §231(b)(1)\], which inserted "(for which an airworthiness certificate other than an experimental certificate has been issued by the Administrator)" after "civil subsonic turbojet", was repealed by Pub. L. 106–181, §721(a). See Construction of 2000 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -158,5 +162,5 @@ Pub. L. 106–181, title VII, §721(a), Apr. 5, 2000, 114 Stat. 164, provided th
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Moneyand Finance, and the 7th item on page 132 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary submit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 7th item on page 132 of House Document No. 103–7.
 

@@ -6,6 +6,8 @@
 
 (Aug. 1, 1950, ch. 512, §7, 64 Stat. 387; Pub. L. 90–497, §2, Sept. 11, 1968, 82 Stat. 844; Pub. L. 97–357, title I, §101, Oct. 19, 1982, 96 Stat. 1705.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–357 added subsec. (a).
@@ -13,6 +15,8 @@
 Subsec. (b). Pub. L. 97–357 redesignated existing provisions as subsec. (b) and inserted provisions relating to the removal of a Lieutenant Governor or member of the legislature of Guam.
 
 <b>1968</b>—Pub. L. 90–497 substituted provisions for the removal of the Governor of Guam through a referendum election for provisions for the appointment, tenure, powers, and duties of the Secretary of Guam.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

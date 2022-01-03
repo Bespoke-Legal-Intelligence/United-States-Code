@@ -72,7 +72,7 @@ In general.—Not later than 1 year after the date of enactment of this section,
 
 &emsp;&emsp;(B)
 
-Personally identifiable information.—The report under this paragraph shallnot contain any personally identifiable information of any prisoner.
+Personally identifiable information.—The report under this paragraph shall not contain any personally identifiable information of any prisoner.
 
 (d)
 

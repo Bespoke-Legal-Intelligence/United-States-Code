@@ -40,7 +40,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) In general
 
-&emsp;&emsp;A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shallbe effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
+&emsp;&emsp;A county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, shall be effective for 2 fiscal years. If such two-fiscal year period included fiscal year 2013, the county election to receive a share of the 25-percent payment or 50-percent payment, as applicable, also shall be effective for fiscal years 2014 and 2015 and for each of fiscal years 2017 through 2020.
 
 #### (B) Full funding amount
 
@@ -90,7 +90,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (C) Counties with major distributions
 
-&emsp;&emsp;In the case of each eligible county to which $350,000 or more is distributed for any fiscal year pursuant to paragraph (1)(B) or (2)(B) of subsection (a), the eligible county shall elect to do 1 or more of the following with the balance of any funds not expended pursuant to subparagraph (A):
+&emsp;&emsp;In the case of each eligible county to which $350,000 or more is distributed for anyfiscal year pursuant to paragraph (1)(B) or (2)(B) of subsection (a), the eligible county shall elect to do 1 or more of the following with the balance of any funds not expended pursuant to subparagraph (A):
 
 &emsp;&emsp;&emsp;(i) Reserve any portion of the balance for projects in accordance with subchapter II.
 
@@ -128,7 +128,7 @@ Except as provided in section 7113 of this title, the Secretary of the Treasury 
 
 #### (A) Notification
 
-&emsp;&emsp;The Governor of each eligible State shall notify the Secretary concerned of an election by an eligible county under this subsection not later than September 30, 2012,and each September 30 thereafter for each succeeding fiscal year.
+&emsp;&emsp;The Governor of each eligible State shall notify the Secretary concerned of an election by an eligible county under this subsection not later than September 30, 2012, and each September 30 thereafter for each succeeding fiscal year.
 
 #### (B) Failure to elect
 
@@ -162,6 +162,8 @@ The payments required under this section for a fiscal year shall be made as soon
 
 (Pub. L. 106–393, title I, §102, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3896; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (3), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(1)(B), Oct. 2, 2013, 127 Stat. 545; Pub. L. 114–10, title V, §524(b), Apr. 16, 2015, 129 Stat. 179; Pub. L. 115–141, div. O, title IV, §401(a)(3)(A)–(D), Mar. 23, 2018, 132 Stat. 1077, 1078; Pub. L. 116–94, div. I, title III, §301(a)(2)(A), (B), Dec. 20, 2019, 133 Stat. 3020.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(3)(A) and (f), was in the original "this Act" in subsecs. (b)(3)(A) and (f)(1) and "the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7101 et seq.)" in subsec. (f)(2), meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
@@ -172,7 +174,7 @@ Act of March 1, 1911, referred to in subsec. (f)(2), is act Mar. 1, 1911, ch. 18
 
 #### Prior Provisions
 
-A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal by Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
+A prior section 102 of Pub. L. 106–393 was set out in a note under section 500 of this title prior to repeal byPub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3893.
 
 #### Amendments
 

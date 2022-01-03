@@ -36,6 +36,8 @@ The Commission shall cease to exist 40 years from January 8, 1971.
 
 (Pub. L. 91–664, §6, Jan. 8, 1971, 84 Stat. 1980; Pub. L. 93–198, title IV, §421, Dec. 24, 1973, 87 Stat. 789; Pub. L. 96–555, Dec. 19, 1980, 94 Stat. 3260; Pub. L. 101–320, July 3, 1990, 104 Stat. 292; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §134\], Dec. 21, 2000, 114 Stat. 2763, 2763A–230.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (g). Pub. L. 106–554 substituted "40" for "thirty".
@@ -46,11 +48,13 @@ Subsec. (g). Pub. L. 101–320, §1(b), substituted "thirty" for "twenty".
 
 <b>1980</b>—Subsec. (g). Pub. L. 96–555 substituted "twenty" for "ten".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Office of Commissioner of District of Columbia, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by office of Mayor of District of Columbia by section 421 of Pub. L. 93–198. Accordingly, "Mayor" substituted in subsec. (b)(2) for "Commissioner" in two places.
 
 #### Chesapeake and Ohio Canal National Historical Park Commission
 
-Pub. L. 113–178, §1, Sept. 26, 2014, 128 Stat. 1912, provided that: "The Chesapeake and Ohio Canal National Historical Park Commission (referred to in this Act \[enacting this note\] as the 'Commission') is authorized in accordance with the provisions of section 6 of the Chesapeake and Ohio Canal Development Act (16 U.S.C.410y–4), except that the Commission shall terminate 10 years after the date of enactment of this Act \[Sept. 26, 2014\]."
+Pub. L. 113–178, §1, Sept. 26, 2014, 128 Stat. 1912, provided that: "The Chesapeake and Ohio Canal National Historical Park Commission (referred to in this Act \[enacting this note\] as the 'Commission') is authorized in accordance with the provisions of section 6 of the Chesapeake and Ohio Canal Development Act (16 U.S.C. 410y–4), except that the Commission shall terminate 10 years after the date of enactment of this Act \[Sept. 26, 2014\]."
 

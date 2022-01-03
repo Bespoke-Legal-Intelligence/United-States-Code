@@ -36,9 +36,11 @@ The Director of the Central Intelligence Agency shall—
 
 #### (f) Coordination with foreign governments
 
-Under the direction of the Director of National Intelligence and in a manner consistentwith section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
+Under the direction of the Director of National Intelligence and in a manner consistent with section 3927 of title 22, the Director of the Central Intelligence Agency shall coordinate the relationships between elements of the intelligence community and the intelligence or security services of foreign governments or international organizations on all matters involving intelligence related to the national security or involving intelligence acquired through clandestine means.
 
 (July 26, 1947, ch. 343, title I, §104A, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3660; amended Pub. L. 108–487, title VI, §611(a), Dec. 23, 2004, 118 Stat. 3954; Pub. L. 111–259, title VIII, §804(4), Oct. 7, 2010, 124 Stat. 2747; Pub. L. 112–87, title IV, §412(a), Jan. 3, 2012, 125 Stat. 1890; Pub. L. 116–92, div. E, title LXIV, §6414(a), Dec. 20, 2019, 133 Stat. 2199.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -55,6 +57,8 @@ Subsec. (g)(2). Pub. L. 112–87, §412(a)(2), substituted "position, category o
 <b>2010</b>—Subsec. (g)(1). Pub. L. 111–259 substituted "National Clandestine Service" for "Directorate of Operations" in introductory provisions.
 
 <b>2004</b>—Subsec. (g). Pub. L. 108–487 added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -121,6 +125,8 @@ Preservation of Records.—The Director of the Central Intelligence Agency shall
 #### Annual Report on Foreign Companies Involved in the Proliferation of Weapons of Mass Destruction That Raise Funds in the United States Capital Markets
 
 Pub. L. 107–306, title VIII, §827, Nov. 27, 2002, 116 Stat. 2430, required Director of Central Intelligence to submit annual report on foreign companies involved in the proliferation of weapons of mass destruction that raised or attempted to raise funds in the United States capital markets, prior to repeal by Pub. L. 108–177, title III, §361(e), Dec. 13, 2003, 117 Stat. 2625.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 13355
 

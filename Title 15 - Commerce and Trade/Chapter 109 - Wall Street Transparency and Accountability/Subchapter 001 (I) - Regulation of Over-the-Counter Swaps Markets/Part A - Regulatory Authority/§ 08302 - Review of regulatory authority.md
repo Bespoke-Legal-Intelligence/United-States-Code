@@ -8,7 +8,7 @@
 
 #### (2) Securities and Exchange Commission
 
-&emsp;Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, theSecurities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.
+&emsp;Before commencing any rulemaking or issuing an order regarding security-based swaps, security-based swap dealers, major security-based swap participants, security-based swap data repositories, clearing agencies with regard to security-based swaps, persons associated with a security-based swap dealer or major security-based swap participant, eligible contract participants with regard to security-based swaps, or security-based swap execution facilities pursuant to subtitle B, the Securities and Exchange Commission shall consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for thepurposes of assuring regulatory consistency and comparability, to the extent possible.
 
 #### (3) Procedures and deadline
 
@@ -96,7 +96,7 @@
 
 #### (B) National securities associations
 
-&emsp;&emsp;Notwithstanding any other provision of law (including regulations), unless otherwise authorized by this title,<sup>1</sup> no national securities association registered under section 78o–3 of this title may issue a rule, regulation, or order for the oversight or regulation of, or otherwise assert jurisdiction over, for any purpose, any swap, except that this subparagraph shall not limit the authority of a national securities association to examinefor compliance with, and enforce, its rules on capital adequacy.
+&emsp;&emsp;Notwithstanding any other provision of law (including regulations), unless otherwise authorized by this title,<sup>1</sup> no national securities association registered under section 78o–3 of this title may issue a rule, regulation, or order for the oversight or regulation of, or otherwise assert jurisdiction over, for any purpose, any swap, except that this subparagraph shall not limit the authority of a national securities association to examine for compliance with, and enforce, its rules on capital adequacy.
 
 #### (c) Objection to Commission regulation
 
@@ -166,7 +166,7 @@
 
 #### (F) Sharing of information
 
-&emsp;&emsp;The Commodity Futures Trading Commission shall make available to the Securitiesand Exchange Commission information relating to security-based swap agreement transactions defined in subparagraph (A) that are not cleared.
+&emsp;&emsp;The Commodity Futures Trading Commission shall make available to the Securities and Exchange Commission information relating to security-based swap agreementtransactions defined in subparagraph (A) that are not cleared.
 
 #### (3) Financial Stability Oversight Council
 
@@ -202,6 +202,8 @@ Beginning on July 21, 2010, and notwithstanding the effective date of any provis
 
 (Pub. L. 111–203, title VII, §712, July 21, 2010, 124 Stat. 1641.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subtitle, referred to in subsec. (a)(1), (7)(B), is subtitle A (§§711–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, which enacted this subchapter, section 78c–2 of this title, and sections 1b, 6b–1, 6r to 6t, 7b–3, 24a, and 26 of Title 7, Agriculture, amended sections 78f, 78o, and 78s of this title, sections 1a, 2, 6 to 6b, 6c, 6d, 6m, 6q, 6s, 7 to 7b, 8 to 9a, 12, 12a, 13, 13–1, 13a–1, 13b, 15, 16, 21, 24, 25, 27 to 27b, 27e, and 27f of Title 7, section 761 of Title 11, Bankruptcy, and sections 4421 and 4422 of Title 12, Banks and Banking, enacted provisions set out as notes under sections 1a, 2, 6a, 7a–1, 7a–3, and 9 of Title 7, and amended provisions set out as a note under section 78c of this title. For complete classification of subtitle A to the Code, see Tables.
@@ -213,6 +215,8 @@ The Commodity Exchange Act, referred to in subsecs. (a)(4)(A) and (d)(2)(B), is 
 This title, where footnoted in subsecs. (a)(8), (b), (d)(1), (2)(A)–(D), (4), and (e), is title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641, known as the Wall Street Transparency and Accountability Act of 2010, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of title VII to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 This Act, referred to in subsec. (f), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, known as the Dodd-Frank Wall Street Reform and Consumer Protection Act. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

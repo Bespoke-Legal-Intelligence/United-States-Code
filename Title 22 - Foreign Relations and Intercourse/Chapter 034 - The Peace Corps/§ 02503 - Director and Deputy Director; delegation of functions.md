@@ -32,7 +32,7 @@ This chapter, referred to in subsecs. (b) and (c), was in the original "this Act
 
 #### Amendments
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vested in him under this chapter through the Director of the Peace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
+<b>1981</b>—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vestedin him under this chapter through the Director of the Peace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
 
 <b>1970</b>—Subsec. (c). Pub. L. 91–352 added par. (4).
 
@@ -70,7 +70,7 @@ Failure to Meet Deadline.—
 
 &emsp;"(1)
 
-Requirement to submit report.—If, by the date that is 180 days after the date of the enactmentof this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
+Requirement to submit report.—If, by the date that is 180 days after the date of the enactment of this Act, the Director of the Peace Corps is unable to obtain agreement with the Assistant Secretary of State for Diplomatic Security and certification by the Inspector General of the Peace Corps, the Director shall submit to the committees of Congress specified in paragraph (2) a report explaining the reasons for such failure and a certification that substantial steps are being taken to make progress toward agreement.
 
 &emsp;"(2)
 

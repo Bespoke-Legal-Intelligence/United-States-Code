@@ -34,9 +34,11 @@ For purposes of section 165(g)(1), where the taxpayer is a bank and owns directl
 
 #### (C) Limitations on foreign banks
 
-&emsp;&emsp;In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph (1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.
+&emsp;&emsp;In the case of a foreign corporation referred to in subparagraph (A)(i), paragraph\(1) shall only apply to gains and losses which are effectively connected with the conduct of a banking business in the United States.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 202; Pub. L. 85–866, title I, §34, Sept. 2, 1958, 72 Stat. 1632; Pub. L. 91–172, title IV, §433(a), (c), Dec. 30, 1969, 83 Stat. 623, 624; Pub. L. 94–455, title X, §1044(a), title XIV, §1402(b)(1)(G), (2), Oct. 4, 1976, 90 Stat. 1642, 1732; Pub. L. 98–369, div. A, title X, §1001(b)(6), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title VI, §671(b)(4), title IX, §901(d)(3), Oct. 22, 1986, 100 Stat. 2318, 2379; Pub. L. 100–647, title I, §1008(d)(3), Nov. 10, 1988, 102 Stat. 3439; Pub. L. 101–508, title XI, §11801(a)(25), (c)(11), Nov. 5, 1990, 104 Stat. 1388–521, 1388–527; Pub. L. 104–188, title I, §1621(b)(4), Aug. 20, 1996, 110 Stat. 1867; Pub. L. 108–357, title VIII, §835(b)(3), Oct. 22, 2004, 118 Stat. 1593.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -84,6 +86,8 @@ Subsec. (c). Pub. L. 91–172, §433(a), redesignated existing provisions as par
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 struck out "with interest coupons or in registered form," before "exceed the gains".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
@@ -104,7 +108,7 @@ Amendment by section 901(d)(3) of Pub. L. 99–514 applicable to taxable years b
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, see section 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
+Amendment by Pub. L. 98–369 applicable to property acquired after June 22, 1984, and before Jan. 1, 1988, seesection 1001(e) of Pub. L. 98–369, set out as a note under section 166 of this title.
 
 #### Effective Date of 1976 Amendment
 

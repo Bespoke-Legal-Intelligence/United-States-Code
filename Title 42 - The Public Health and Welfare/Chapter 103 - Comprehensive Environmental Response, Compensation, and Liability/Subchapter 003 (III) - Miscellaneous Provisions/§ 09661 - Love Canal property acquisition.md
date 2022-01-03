@@ -54,9 +54,13 @@ For purposes of this section:
 
 (Pub. L. 96–510, title III, §312, as added Pub. L. 99–499, title II, §213(b), Oct. 17, 1986, 100 Stat. 1727.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9631 of this title, referred to in subsec. (f), was repealed by Pub. L. 99–499, title V, §517(c)(1), Oct. 17, 1986, 100 Stat. 1774.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Love Canal Property Acquisition; Congressional Findings
 

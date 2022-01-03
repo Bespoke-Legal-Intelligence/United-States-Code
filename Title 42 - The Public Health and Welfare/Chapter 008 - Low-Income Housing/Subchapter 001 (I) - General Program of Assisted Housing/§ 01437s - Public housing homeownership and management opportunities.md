@@ -18,7 +18,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 &emsp;(A) The Secretary may provide assistance from the Capital Fund to a public housing project in which homeownership activities under this section are conducted.
 
-&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to be necessary to promote homeownership opportunities under this section.
+&emsp;(B) The Secretary may provide financial assistance to public housing agencies, resident management corporations, or resident councils that obtain, by contract or otherwise, training, technical assistance, and educational assistance as the Secretary determines to benecessary to promote homeownership opportunities under this section.
 
 &emsp;(C) This paragraph shall not have effect after February 4, 1991. The Secretary may not provide financial assistance under subparagraph (B), after such date, unless the Secretary determines that such assistance is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990.
 
@@ -98,7 +98,7 @@ Low-income families residing in a public housing project shall be provided with 
 
 #### (8) Operating Fund allocation
 
-&emsp;Amounts from the Operating Fund shall not be available with respect to a building afterthe date of its sale by the public housing agency.
+&emsp;Amounts from the Operating Fund shall not be available with respect to a building after the date of its sale by the public housing agency.
 
 #### (b) Protection of nonpurchasing families
 
@@ -141,6 +141,8 @@ The Secretary shall issue such regulations as may be necessary to carry out the 
 Any authority of the Secretary under this section to provide financial assistance, or to enter into contracts to provide financial assistance, shall be effective only to such extent or in such amounts as are or have been provided in advance in an appropriation Act.
 
 (Sept. 1, 1937, ch. 896, title I, §21, as added Pub. L. 100–242, title I, §123, Feb. 5, 1988, 101 Stat. 1842; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 101–625, title IV, §416, title V, §572(1), Nov. 28, 1990, 104 Stat. 4161, 4236; Pub. L. 102–550, title I, §118, Oct. 28, 1992, 106 Stat. 3695; Pub. L. 104–66, title I, §1071(a), Dec. 21, 1995, 109 Stat. 720; Pub. L. 105–276, title V, §§518(a)(2)(A), 532(b), Oct. 21, 1998, 112 Stat. 2551, 2575.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -191,6 +193,8 @@ Subsec. (a)(2)(C). Pub. L. 101–625, §416(2), substituted "the effective date 
 Subsec. (a)(3)(C). Pub. L. 101–625, §416(3), substituted "the effective date of the regulations implementing subchapter II–A of this chapter. The authority for a resident management corporation to purchase 1 or more multifamily buildings in a public housing project from a public housing agency shall terminate after such effective date, unless the Secretary determines that such purchase is necessary for the development of a homeownership program that was initiated, as determined by the Secretary, before November 28, 1990" for "September 30, 1990".
 
 Subsec. (f)(7). Pub. L. 101–625, §572(1), substituted "low-income families" for "lower income families".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

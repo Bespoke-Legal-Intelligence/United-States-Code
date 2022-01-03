@@ -4,9 +4,13 @@ For a period of not more than fifteen years after August 4, 1955, or, in the cas
 
 (Aug. 4, 1955, ch. 543, ch. 6, §63, 69 Stat. 479; Pub. L. 87–719, §17, Sept. 28, 1962, 76 Stat. 666.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1962</b>—Pub. L. 87–719 inserted "or, in the case of Los Alamos, not more than fifteen years after the date it is included within this chapter" after "August 4, 1955,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

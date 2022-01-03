@@ -150,17 +150,21 @@ In this section:
 
 (Pub. L. 114–329, title I, §110, Jan. 6, 2017, 130 Stat. 2988; Pub. L. 116–283, div. A, title II, §267, Jan. 1, 2021, 134 Stat. 3502.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2 of the National Science Foundation Authorization Act of 1998, referred to in subsec. (b)(1), is section 2 of Pub. L. 105–207, July 29, 1998, 112 Stat. 869, which is set out as a note under section 1862k of this title.
 
 #### Codification
 
-Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of theNational Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 
-<b>2021</b>—Subsec. (g)(2). Pub. L. 116–283 added par. (2) and struck out former par. (2), which defined "major multi-user research facility project".
+<b>2021</b>—Subsec. (g)(2). Pub. L. 116–283 added par. (2) and struck out former par. (2) which defined "major multi-user research facility project".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

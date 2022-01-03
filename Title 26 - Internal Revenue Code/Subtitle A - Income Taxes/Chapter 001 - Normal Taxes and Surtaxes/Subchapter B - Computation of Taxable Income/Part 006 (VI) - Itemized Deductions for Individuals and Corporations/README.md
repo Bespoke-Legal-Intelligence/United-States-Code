@@ -57,9 +57,11 @@
 
 <i>Pub. L. 115–97, title I, §13206(c), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, provided that, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, this analysis is amended by striking item 174 and inserting a new item 174 "Amortization of research and experimental expenditures." See 2017 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2017</b>—Pub. L. 115–97, title I, §§11011(d)(6), 13305(a), Dec. 22, 2017, 131 Stat. 2071, 2126, struck out item 199 "Incomeattributable to domestic production activities" and added item 199A.
+<b>2017</b>—Pub. L. 115–97, title I, §§11011(d)(6), 13305(a), Dec. 22, 2017, 131 Stat. 2071, 2126, struck out item 199 "Income attributable to domestic production activities" and added item 199A.
 
 Pub. L. 115–97, title I, §13206(c), Dec. 22, 2017, 131 Stat. 2112, substituted "Amortization of research and experimental expenditures" for "Research and experimental expenditures" in item 174.
 

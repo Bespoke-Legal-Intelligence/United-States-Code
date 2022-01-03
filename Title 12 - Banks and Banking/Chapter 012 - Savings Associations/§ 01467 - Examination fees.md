@@ -74,7 +74,7 @@ Any savings association and any affiliate of any savings association shall provi
 
 #### (1) Deposits
 
-&emsp;Amounts received by the appropriate Federal banking agency from assessments underthis section (other than an assessment under subsection (d)(2)) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
+&emsp;Amounts received by the appropriate Federal banking agency from assessments under this section (other than an assessment under subsection (d)(2)) or section 1467a(b)(4) of this title may be deposited in the manner provided in section 5234 of the Revised Statutes \[12 U.S.C. 192\] with respect to assessments by the Comptroller of the Currency.
 
 #### (2) Assessments are not Government funds
 
@@ -184,7 +184,7 @@ Uniform gaap accounting standards.—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the regulations required to be prescribed pursuant to subsection (b) of the amendments made by subsections (a) and (b) of this section shall take effect on December 31, 1987.
+In general.—Except as provided in subparagraph (B), the regulations required to be prescribed pursuant to subsection (b) of the amendments madeby subsections (a) and (b) of this section shall take effect on December 31, 1987.
 
 &emsp;"(B)
 

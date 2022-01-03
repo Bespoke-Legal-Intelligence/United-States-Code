@@ -4,6 +4,8 @@ There shall be in the Department of Commerce a General Counsel, who shall be app
 
 (Mar. 18, 1904, ch. 716, §1, 33 Stat. 135; July 17, 1952, ch. 932, §2, 66 Stat. 758; Aug. 20, 1954, ch. 776, 68 Stat. 753.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Provisions of section that fixed the compensation of the General Counsel have been omitted as the position is under the Executive Schedule under section 5315 of Title 5, Government Organization and Employees.
@@ -16,9 +18,11 @@ Section was formerly classified to section 592b of Title 5 prior to the general 
 
 <b>1952</b>—Act July 17, 1952, redesignated Solicitor as General Counsel and provided that "all laws and orders relating or referring to the Solicitor shall be deemed to relate or refer to the General Counsel".
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out as a note under section 1501 of this title.
 
 #### Order of Succession
 

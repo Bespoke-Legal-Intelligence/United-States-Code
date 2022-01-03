@@ -6,7 +6,7 @@ Not later than 90 days after August 9, 2007, the Director of the Office of Scien
 
 #### (b) Implementation
 
-Not later than 180 days after August 9, 2007, the Director of the Office of Science and Technology Policy shall ensure that all civilian Federal agencies that conduct scientific research develop specific policies and procedures regarding the public release of data and results of research conducted by a scientist employed by such an agency consistent with the principlesestablished under subsection (a). Such polices <sup>1</sup> and procedures shall—
+Not later than 180 days after August 9, 2007, the Director of the Office of Science and Technology Policy shall ensure that all civilian Federal agencies that conduct scientific research develop specific policies and procedures regarding the public release of data and results of research conducted by a scientist employed by such an agency consistent with the principles established under subsection (a). Such polices <sup>1</sup> and procedures shall—
 
 &emsp;(1) specifically address what is and what is not permitted or recommended under such policies and procedures;
 
@@ -17,6 +17,8 @@ Not later than 180 days after August 9, 2007, the Director of the Office of Scie
 &emsp;(4) be widely communicated and readily accessible to all employees of each such agency and the public.
 
 (Pub. L. 110–69, title I, §1009, Aug. 9, 2007, 121 Stat. 581.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

@@ -22,9 +22,13 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 (Added Pub. L. 91–172, title V, §503(a), Dec. 30, 1969, 83 Stat. 630; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term "dependent" does not include an individual who is not a citizen or national ofthe United States unless such individual is a resident of the United States or a country contiguous to the United States.
+&emsp;&emsp;The term "dependent" does not include an individual who is not a citizen or national of the United States unless such individual is a resident of the United States or a country contiguous to the United States.
 
 #### (B) Exception for adopted child
 
@@ -148,7 +148,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(B), the gross income of an individual who is permanently and totally disabled (as defined in section 22(e)(3)) at any time during the taxable year shall not include income attributable to services performed by the individual at a sheltered workshop if—
+&emsp;&emsp;For purposes of paragraph (1)(B), the gross income of an individual who is permanentlyand totally disabled (as defined in section 22(e)(3)) at any time during the taxable year shall not include income attributable to services performed by the individual at a sheltered workshop if—
 
 &emsp;&emsp;&emsp;(i) the availability of medical care at such workshop is the principal reason for the individual's presence there, and
 
@@ -338,11 +338,13 @@ For purposes of this section—
 
 &emsp;&emsp;<b>For provision treating child as dependent of both parents for purposes of certain provisions, see sections 105(b), 132(h)(2)(B), and 213(d)(5).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–351, title V, §501(a), (b), (c)(2), Oct. 7, 2008, 122 Stat. 3979, 3980; Pub. L. 115–97, title I, §11051(b)(3)(B), Dec. 22, 2017, 131 Stat. 2089.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 43; Aug. 9, 1955, ch. 693, §2, 69 Stat. 626; Pub. L. 85–866, title I, §4(a)–(c), Sept. 2, 1958, 72 Stat. 1607; Pub. L. 86–376, §1(a), Sept. 23, 1959, 73 Stat. 699; Pub. L.90–78, §1, Aug. 31, 1967, 81 Stat. 191; Pub. L. 91–172, title IX, §912(a), Dec. 30, 1969, 83 Stat. 722; Pub. L. 92–580, §1(a), Oct. 27, 1972, 86 Stat. 1276; Pub. L. 94–455, title XIX, §§1901(a)(24), (b)(7)(B), (8)(A), 1906(b)(13)(A), title XXI, §2139(a), Oct. 4, 1976, 90 Stat. 1767, 1794, 1834, 1932; Pub. L. 98–369, div. A, title IV, §§423(a), 482(b)(2), July 18, 1984, 98 Stat. 799, 848; Pub. L. 99–514, title I, §104(b)(1)(B), (3), title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2104, 2105, 2658; Pub. L. 108–311, title II, §201, Oct. 4, 2004, 118 Stat. 1169; Pub. L. 109–135, title IV, §404(a), Dec. 21, 2005, 119 Stat. 2632; Pub. L. 110–351, title V, §501(a), (b), (c)(2), Oct. 7, 2008, 122 Stat. 3979, 3980; Pub. L. 115–97, title I, §11051(b)(3)(B), Dec. 22, 2017, 131 Stat. 2089.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -372,7 +374,7 @@ Subsec. (d)(2). Pub. L. 99–514, §104(b)(3), substituted "section 151(c)(4)" f
 
 Subsec. (e)(1)(A). Pub. L. 99–514, §104(b)(1)(B), substituted "section 151(c)(3)" for "section 151(e)(3)".
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse ofparent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
+<b>1984</b>—Subsec. (e). Pub. L. 98–369, §423(a), amended subsec. (e) generally, and in substantially revising support test provisions, enacted par. (1) custodial parent exemption, former par. (1) declaring the general rule that where a child received over one-half of his calendar year support from parents who were divorced or legally separated under a decree of divorce or separate maintenance, or were separated under a written separation agreement and the child was in the custody of one or both parents for more than one-half of the calendar year, the child would be treated as receiving over half of his support from the parent having custody for a greater portion of the calendar year unless treated under special rule provision as having received over half of his support from the parent not having custody; enacted par. (2) release of custodial parent exemption for the year, former par. (2) declaring the special rule that parent without custody would be deemed as furnishing over half of the support where the decree of divorce or separate maintenance, or written agreement, covering the taxable year, provided that parent without custody should be entitled to the section 151 deduction for the child and such parent provided at least $600 calendar year support, or alternatively, such parent without custody provided $1,200 or more calendar year support and the parent with custody did not establish more support of the child than the parent without custody; redesignated as par. (3) former par. (4) provision respecting exception for multiple-support agreement, deleting former par. (3) respecting requirement of an itemized statement of expenditures to resolve more support claims; added par. (4) respecting exception for certain pre-1985 instruments; added par. (5) enunciating special rule for support received from new spouse of parent, deleting former par. (5) regulations prescription provision; and added par. (6) cross reference provision.
 
 Subsec. (e)(6). Pub. L. 98–369, §482(b)(2), substituted "section 213(d)(5)" for "section 213(d)(4)".
 
@@ -402,11 +404,13 @@ Subsec. (e). Pub. L. 90–78, §1(a), added subsec. (e).
 
 <b>1958</b>—Subsec. (a)(9). Pub. L. 85–866, §4(a), inserted "(other than an individual who at any time during the taxable year was the spouse, determined without regard to section 153, of the taxpayer)".
 
-Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that "dependent" does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of "dependent" any child of taxpayer, legally adopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
+Subsec. (b)(3). Pub. L. 85–866, §4(b), among other changes, struck out provision that "dependent" does not include any individual who is not a United States citizen unless such individual is a resident of United States or of a contiguous country, or of Canal Zone or Panama, and inserted provision barring exclusion from definition of "dependent" any child of taxpayer, legallyadopted by him, if, for taxable year of taxpayer, child's principal place of abode is taxpayer's home and child is member of taxpayer's household, if taxpayer is United States citizen.
 
 Subsec. (b)(5). Pub. L. 85–866, §4(c), added par. (5).
 
 <b>1955</b>—Subsec. (b)(3). Act Aug. 9, 1955, substituted "January 1, 1956" for "July 5, 1946".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

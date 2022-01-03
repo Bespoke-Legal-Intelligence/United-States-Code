@@ -16,7 +16,7 @@ A prior section 5 of act July 31, 1945, ch. 341, was classified to section 635c 
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 93–646 substituted provision making mandatory that each Bank obligation bear interest at a rate not less than the current average yield on outstanding obligations of comparable maturity, for provision requiring that only the current average rate be taken into consideration.
+<b>1975</b>—Pub. L. 93–646 substituted provision making mandatory that each Bank obligation bear interest ata rate not less than the current average yield on outstanding obligations of comparable maturity, for provision requiring that only the current average rate be taken into consideration.
 
 <b>1968</b>—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 

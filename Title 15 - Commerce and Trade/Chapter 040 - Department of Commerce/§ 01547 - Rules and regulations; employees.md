@@ -8,6 +8,8 @@ In the performance of his functions and duties under the provisions of sections 
 
 (July 19, 1940, ch. 642, §4, 54 Stat. 774; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 93–193, §2, Dec. 19, 1973, 87 Stat. 765.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 18c of Title 16, Conservation.
@@ -19,6 +21,8 @@ Provisions of par. (b) authorizing the Secretary of the Interior to employ "with
 #### Amendments
 
 <b>1949</b>—Par. (b). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeals
 

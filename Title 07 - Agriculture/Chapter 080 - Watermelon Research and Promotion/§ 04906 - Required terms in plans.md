@@ -58,7 +58,7 @@ The plan shall provide the following:
 
 &emsp;(4) Assessments shall be made on watermelons produced by producers and watermelons handled by handlers, and the rate of such assessments in the case of producers and handlers shall be the same, on a per-unit basis, for producers and handlers. If a person performs both producing and handling functions, both assessments shall be paid by such person.
 
-&emsp;(5) If importers are subject to the plan, an assessment shall also be made on watermelons imported into the United States by the importers. The rate of assessment for importers who are subject to the plan shall be equal to the combined rate for producers and handlers.
+&emsp;(5) If importers are subject to the plan, an assessment shall also be made on watermelonsimported into the United States by the importers. The rate of assessment for importers who are subject to the plan shall be equal to the combined rate for producers and handlers.
 
 #### (h) Refunds
 
@@ -72,7 +72,7 @@ The plan shall provide the following:
 
 #### (i) Submission of programs or projects; approval by Secretary
 
-The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g),shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
+The plan shall provide that the Board, subject to the provisions of subsections (e), (f), and (g), shall develop and submit to the Secretary, for the Secretary's approval, any research, development, advertising, or promotion program or project, and that a program or project must be approved by the Secretary before becoming effective.
 
 #### (j) Contract authority
 
@@ -87,6 +87,8 @@ The plan shall provide that the Board shall (1) maintain books and records, (2) 
 The plan shall provide that the Board shall have the authority to establish rules for certifying whether a person meets the definition of a producer under section 4902(5) of this title.
 
 (Pub. L. 99–198, title XVI, §1647, Dec. 23, 1985, 99 Stat. 1624; Pub. L. 103–189, §§4–7, 8(d)–(f), (k)(4), 9(b), Dec. 14, 1993, 107 Stat. 2260–2262, 2264.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

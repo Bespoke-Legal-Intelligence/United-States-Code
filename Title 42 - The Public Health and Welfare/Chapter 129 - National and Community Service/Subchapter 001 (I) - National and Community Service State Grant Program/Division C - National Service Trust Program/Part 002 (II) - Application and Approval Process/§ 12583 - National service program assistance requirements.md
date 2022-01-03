@@ -64,7 +64,7 @@ An application submitted under section 12582 of this title shall also include an
 
 #### (e) Living allowances and other inservice benefits
 
-Except as provided in section 12594(c) of this title, an application submitted under section 12582 of this title shall also include an assurance by the applicant that the applicant will—
+Except as provided in section 12594(c) of this title, an application submitted under section12582 of this title shall also include an assurance by the applicant that the applicant will—
 
 &emsp;(1) ensure the provision of a living allowance and other benefits specified in section 12594 of this title to participants in any national service program carried out by the applicant using assistance provided under section 12571 of this title; and
 
@@ -75,6 +75,8 @@ Except as provided in section 12594(c) of this title, an application submitted u
 The Corporation may also require an assurance by the applicant that any national service program carried out by the applicant using assistance provided under section 12571 of this title and any national service program supported by a grant made by the applicant using such assistance will select a portion of the participants for the program from among prospective participants recruited by the Corporation or State Commissions under section 12592(d) of this title. The Corporation may specify a minimum percentage of participants to be selected from the national leadership pool established under section 12592(e) of this title and may vary the percentage for different types of national service programs.
 
 (Pub. L. 101–610, title I, §131, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 803; amended Pub. L. 111–13, title I, §1309, Apr. 21, 2009, 123 Stat. 1507.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ A prior section 131 of Pub. L. 101–610 was renumbered section 199J and is clas
 <b>2009</b>—Subsec. (c)(1)(A). Pub. L. 111–13, §1309(1), added subpar. (A) and struck out former subpar. (A) which read as follows: "the community served and potential participants in the program; and".
 
 Subsec. (c)(3). Pub. L. 111–13, §1309(2), added par. (3) and struck out former par. (3) which read as follows: "in the case of a program that is not funded through a State, consult with and coordinate activities with the State Commission for the State in which the program operates."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

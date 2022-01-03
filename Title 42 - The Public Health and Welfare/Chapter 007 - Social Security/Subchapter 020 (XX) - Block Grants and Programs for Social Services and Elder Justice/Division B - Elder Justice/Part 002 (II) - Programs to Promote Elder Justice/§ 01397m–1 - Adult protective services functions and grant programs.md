@@ -40,7 +40,7 @@
 
 #### (ii) Territories
 
-&emsp;&emsp;&emsp;In the case of a State other than 1 of the 50 States, clause (i) shall be applied as if each reference to "0.75" were a reference to "0.1".
+&emsp;&emsp;&emsp;In the case of a State other than 1 of the 50 States, clause (i) shall be applied as ifeach reference to "0.75" were a reference to "0.1".
 
 #### (C) Pro rata reductions
 
@@ -76,7 +76,7 @@
 
 #### (2) Demonstration programs
 
-&emsp;Funds made available pursuant to this subsection may be used by States and local units of government (and the highest courts ofStates, in the case of demonstration programs described in subparagraph (E)) to conduct demonstration programs that test—
+&emsp;Funds made available pursuant to this subsection may be used by States and local units of government (and the highest courts of States, in the case of demonstration programs described in subparagraph (E)) to conduct demonstration programs that test—
 
 &emsp;&emsp;(A) training modules developed for the purpose of detecting or preventing elder abuse;
 
@@ -113,6 +113,8 @@
 &emsp;There are authorized to be appropriated to carry out this subsection, $25,000,000 for each of fiscal years 2011 through 2014.
 
 (Aug. 14, 1935, ch. 531, title XX, §2042, as added Pub. L. 111–148, title VI, §6703(a)(1)(C), Mar. 23, 2010, 124 Stat. 794; amended Pub. L. 115–70, title V, §501, Oct. 18, 2017, 131 Stat. 1215.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

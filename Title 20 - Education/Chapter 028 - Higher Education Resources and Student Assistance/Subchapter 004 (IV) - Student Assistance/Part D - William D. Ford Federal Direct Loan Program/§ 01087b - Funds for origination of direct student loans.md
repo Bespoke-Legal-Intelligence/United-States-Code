@@ -20,7 +20,9 @@ Loan funds shall be paid and delivered to an institution by the Secretary prior 
 
 Loan funds for students (and parents of students) attending institutions outside the United States shall be disbursed through a financial institution located or operating in the United States and designated by the Secretary to serve as the agent of such institutions with respect to the receipt of the disbursements of such loan funds and the transfer of such funds to such institutions. To be eligible to receive funds under this part, an institution outside the United States shall make arrangements with the agent designated by the Secretary under this subsection to receive funds under this part.
 
-(Pub. L. 89–329, title IV, §452, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437;amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 105–33, title VI, §6102, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §401(g)(5), Oct. 7, 1998, 112 Stat. 1652; Pub. L. 111–152, title II, §2209(a), Mar. 30, 2010, 124 Stat. 1077.)
+(Pub. L. 89–329, title IV, §452, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 105–33, title VI, §6102, Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–244, title IV, §401(g)(5), Oct. 7, 1998, 112 Stat. 1652; Pub. L. 111–152, title II, §2209(a), Mar. 30, 2010, 124 Stat. 1077.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -37,6 +39,8 @@ A prior section 1087b, Pub. L. 89–329, title IV, §452, as added Pub. L. 90–
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to funds for origination of direct student loans for former provisions relating to payment rules.
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to payment rules for former provisions authorizing demonstration projects.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

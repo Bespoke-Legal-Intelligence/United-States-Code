@@ -2,7 +2,7 @@
 
 #### (a) Spirits on bonded premises
 
-The proprietor of a distilled spirits plant authorized to produce distilled spirits may, under such regulations as the Secretary shall prescribe, redistill any distilled spirits which have not been withdrawn from bonded premises.
+The proprietor of a distilled spirits plant authorized to produce distilled spirits may, undersuch regulations as the Secretary shall prescribe, redistill any distilled spirits which have not been withdrawn from bonded premises.
 
 #### (b) Distilled spirits returned for redistillation
 
@@ -20,7 +20,9 @@ Distilled spirits recovered by the redistillation of denatured distilled spirits
 
 All distilled spirits redistilled on bonded premises subsequent to production gauge shall be treated the same as if such spirits had been originally produced by the redistiller and all provisions of this chapter applicable to the original production of distilled spirits shall be applicable thereto. Any prior obligation as to taxes, liens, and bonds with respect to such distilled spirits shall be extinguished on redistillation. Nothing in this subsection shall be construed as affecting any provision of law relating to the labeling of distilled spirits or as limiting the authority of the Secretary to regulate the marking, branding, or identification of distilled spirits redistilled under this section.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 89–44, title VIII, §805(d), (f)(8), (10), June 21, 1965, 79 Stat. 161, 162;Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(31), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1365; amended Pub. L. 89–44, title VIII, §805(d), (f)(8), (10), June 21, 1965, 79 Stat. 161, 162; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(31), July 26, 1979, 93 Stat. 286.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -50,6 +52,8 @@ Subsec. (c). Pub. L. 89–44, §805(d), added subsec. (c). Former subsec. (c) re
 Subsec. (d). Pub. L. 89–44, §805(d), (f)(10), redesignated subsec. (c) as (d), inserted ", articles, and residues" after "distilled spirits" in heading, and inserted ", or by the redistillation of the articles or residues described in subsection (c)," after "denatured distilled spirits" in text. Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 89–11, §805(d), redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

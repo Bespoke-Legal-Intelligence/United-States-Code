@@ -24,6 +24,8 @@ On 1st engaging in business and thereafter on or before July 1 of each year, eve
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1227; amended Pub. L. 100–203, title X, §10512(g)(1), Dec. 22, 1987, 101 Stat. 1330–449.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958, Pub. L. 85–859, title II, §203(a), 72 Stat. 1427; June 1, 1960, Pub. L. 86–478, §1, 74 Stat. 149, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 90–618.
@@ -40,6 +42,8 @@ A prior section 5801, acts Aug. 16, 1954, ch. 736, 68A Stat. 721; Sept. 2, 1958,
 
 > Except an importer, manufacturer, or dealer who imports, manufactures, or deals in only weapons classified as 'any other weapon' under section 5845(e), shall pay a special (occupational) tax for each place of business at the following rates: Importers, $25 a year or fraction thereof; manufacturers, $25 a year or fraction thereof; dealers, $10 a year or fraction thereof."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 10512(h) of Pub. L. 100–203, set out as a note under section 5111 of this title.
@@ -50,7 +54,7 @@ Pub. L. 90–618, title II, §207, Oct. 22, 1968, 82 Stat. 1235, as amended by P
 
 "(a) Section 201 of this title \[enacting this chapter\] shall take effect on the first day of the first month following the month in which it is enacted \[October 1968\].
 
-"(b) Notwithstanding the provisions of subsection (a) or any other provision of law, any person possessing a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this title) which is not registered to him in the National Firearms Registration and Transfer Record shall register each firearm so possessed with the Secretary of the Treasury or his delegate in such form and manner as the Secretary or his delegate may require within the thirty days immediately following the effective date of section 201 of this Act \[see subsec. (a) of this section\]. Such registrations shall become a part of the National Firearms Registration and Transfer Record required to be maintained by section 5841 of the Internal Revenue Code of 1986 (as amended by this title). No information or evidence required to be submitted or retained by a natural person to register a firearm under this section shall be used, directly or indirectly, as evidence againstsuch person in any criminal proceeding with respect to a prior or concurrent violation of law.
+"(b) Notwithstanding the provisions of subsection (a) or any other provision of law, any person possessing a firearm as defined in section 5845(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as amended by this title) which is not registered to him in the National Firearms Registration and Transfer Record shall register each firearm so possessed with the Secretary of the Treasury or his delegate in such form and manner as the Secretary or his delegate may require within the thirty days immediately following the effective date of section 201 of this Act \[see subsec. (a) of this section\]. Such registrations shall become a part of the National Firearms Registration and Transfer Record required to be maintained by section 5841 of the Internal Revenue Code of 1986 (as amended by this title). No information or evidence required to be submitted or retained by a natural person to register a firearm under this section shall be used, directly or indirectly, as evidence against such person in any criminal proceeding with respect to a prior or concurrent violation of law.
 
 "(c) The amendments made by sections 202 through 206 of this title \[amending sections 6806 and 7273 of this title, repealing sections 5692 and 6107 of this title, and enacting provisions set out as a note under this section\] shall take effect on the date of enactment \[Oct. 22, 1968\].
 

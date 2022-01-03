@@ -16,7 +16,7 @@
 
 #### (ii) Special rule for regional plans
 
-&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefits under the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
+&emsp;&emsp;&emsp;In the case of an MA regional plan in determining an actuarially equivalent level of cost-sharing with respect to benefitsunder the original medicare fee-for-service program option, there shall only be taken into account, with respect to the application of section 1395w–27a(b)(2) of this title, such expenses only with respect to subparagraph (A) of such section.
 
 #### (iii) Limitation on variation of cost sharing for certain benefits
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VI) A COVID–19 vaccine and its administration described in section 1395x(s)(10)(A) of this title.
 
-&emsp;&emsp;&emsp;&emsp;(VII) Such other services that the Secretary determines appropriate (includingservices that the Secretary determines require a high level of predictability and transparency for beneficiaries).
+&emsp;&emsp;&emsp;&emsp;(VII) Such other services that the Secretary determines appropriate (including services that the Secretary determines require a high level of predictability and transparency for beneficiaries).
 
 #### (v) Exception
 
@@ -140,7 +140,7 @@
 
 #### (7) Limitation on cost-sharing for dual eligibles and qualified medicare beneficiaries
 
-&emsp;In the case of an individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) or a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title) and who is enrolled in a specialized Medicare Advantage plan for special needs individuals described in section 1395w–28(b)(6)(B)(ii) of this title, the plan may not impose cost-sharing that exceeds the amount of cost-sharing that would be permitted with respect to the individual under subchapter XIX if the individual were not enrolled in such plan.
+&emsp;In the case of an individual who is a full-benefit dual eligible individual (as defined in section 1396u–5(c)(6) of this title) or a qualified medicare beneficiary (as defined in section 1396d(p)(1) of this title) and who is enrolled in a specialized Medicare Advantage plan for special needs individuals described in section 1395w–28(b)(6)(B)(ii) of this title, the plan may not impose cost-sharing that exceeds theamount of cost-sharing that would be permitted with respect to the individual under subchapter XIX if the individual were not enrolled in such plan.
 
 #### (b) Antidiscrimination
 
@@ -156,7 +156,7 @@
 
 #### (1) Detailed description of plan provisions
 
-&emsp;A Medicare+Choice organization shall disclose, in clear, accurate, and standardizedform to each enrollee with a Medicare+Choice plan offered by the organization under this part at the time of enrollment and at least annually thereafter, the following information regarding such plan:
+&emsp;A Medicare+Choice organization shall disclose, in clear, accurate, and standardized form to each enrollee with a Medicare+Choice plan offered by the organization under this part at the time of enrollment and at least annually thereafter, the following information regarding such plan:
 
 #### (A) Service area
 
@@ -228,7 +228,7 @@
 
 &emsp;&emsp;(B) when medically necessary the organization makes such benefits available and accessible 24 hours a day and 7 days a week;
 
-&emsp;&emsp;(C) the plan provides for reimbursement with respect to services which are covered under subparagraphs (A) and (B) and which are provided to such an individual other than through the organization, if—
+&emsp;&emsp;(C) the plan provides for reimbursement with respect to services which are coveredunder subparagraphs (A) and (B) and which are provided to such an individual other than through the organization, if—
 
 &emsp;&emsp;&emsp;(i) the services were not emergency services (as defined in paragraph (3)), but (I) the services were medically necessary and immediately required because of an unforeseen illness, injury, or condition, and (II) it was not reasonable given the circumstances to obtain the services through the organization,
 
@@ -482,7 +482,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), a Medicare+Choice organization (in relation to an individual enrolled under a Medicare+Choice plan offered by the organization under this part) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the plan, if the professional is acting within the lawful scope of practice.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), a Medicare+Choice organization (in relation to an individual enrolled under a Medicare+Choice plan offered by the organizationunder this part) shall not prohibit or otherwise restrict a covered health care professional (as defined in subparagraph (D)) from advising such an individual who is a patient of the professional about the health status of the individual or medical care or treatment for the individual's condition or disease, regardless of whether benefits for such care or treatment are provided under the plan, if the professional is acting within the lawful scope of practice.
 
 #### (B) Conscience protection
 
@@ -498,7 +498,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (D) "Health care professional" defined
 
-&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of thistitle) or other health care professional if coverage for the professional's services is provided under the Medicare+Choice plan for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
+&emsp;&emsp;For purposes of this paragraph, the term "health care professional" means a physician (as defined in section 1395x(r) of this title) or other health care professional if coverage for the professional's services is provided under the Medicare+Choice plan for the services of the professional. Such term includes a podiatrist, optometrist, chiropractor, psychologist, dentist, physician assistant, physical or occupational therapist and therapy assistant, speech-language pathologist, audiologist, registered or licensed practical nurse (including nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, and certified nurse-midwife), licensed certified social worker, registered respiratory therapist, and certified respiratory therapy technician.
 
 #### (4) Limitations on physician incentive plans
 
@@ -564,7 +564,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA planshall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies to such a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
+&emsp;Except as provided in paragraph (2), a physician or other entity (other than a provider of services) that does not have a contract establishing payment amounts for services furnished to an individual enrolled under this part with a Medicare+Choice organization described in section 1395w–21(a)(2)(A) of this title or with an organization offering an MSA plan shall accept as payment in full for covered services under this subchapter that are furnished to such an individual the amounts that the physician or other entity could collect if the individual were not so enrolled. Any penalty or other provision of law that applies to such a payment with respect to an individual entitled to benefits under this subchapter (but not enrolled with a Medicare+Choice organization under this part) also applies with respect to an individual so enrolled.
 
 #### (2) Application to Medicare+Choice private fee-for-service plans
 
@@ -610,7 +610,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (A) In general
 
-&emsp;&emsp;In providing coverage of post-hospital extended care services, a Medicare+Choice plan shall provide for such coverage through a home skilled nursing facility if the following conditions are met:
+&emsp;&emsp;In providing coverage of post-hospital extended care services, a Medicare+Choiceplan shall provide for such coverage through a home skilled nursing facility if the following conditions are met:
 
 #### (i) Enrollee election
 
@@ -716,7 +716,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (6) Construction
 
-&emsp;Nothing in this subsection shall be construed as affecting the requirement under subsection (a)(1) that MA plans provide enrollees with items and services (other than hospicecare) for which benefits are available under parts A and B, including benefits available under section 1395m(m) of this title.
+&emsp;Nothing in this subsection shall be construed as affecting the requirement under subsection (a)(1) that MA plans provide enrollees with items and services (other than hospice care) for which benefits are available under parts A and B, including benefits available under section 1395m(m) of this title.
 
 #### (n) Provision of information relating to the safe disposal of certain prescription drugs
 
@@ -729,6 +729,8 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 &emsp;The Secretary shall, through rulemaking, establish criteria the Secretary determines appropriate with respect to information provided to an individual to ensure that such information sufficiently educates such individual on the safe disposal of prescription drugs that are controlled substances.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1852, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 286; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(B), title V, §§518, 520(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title V, §521(b), title VI, §§611(b), 615, 616, 621(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543, 2763A–560, 2763A–561, 2763A–564; Pub. L. 108–173, title I, §102(b), title II, §§211(j), 221(d)(3), 222(a)(2), (3), (h), (l)(1), 233(a)(1), (2), (c), title VII, §722(a), (b), title IX, §§900(e)(1)(F), 940(b)(2)(A), 948(b)(2), Dec. 8, 2003, 117 Stat. 2153, 2180, 2193, 2195, 2196, 2204, 2206, 2209, 2347, 2348, 2371, 2417, 2426; Pub. L. 110–275, title I, §§125(b)(6), 162(a)(1)–(3)(A), 163(a), (b), 164(f)(1), 165(a), July 15, 2008, 122 Stat. 2519, 2569–2571, 2574, 2575; Pub. L. 111–148, title III, §3202(a)(1), Mar. 23, 2010, 124 Stat. 454; Pub. L. 114–255, div. C, title XVII, §17006(a)(2)(A), (c)(1), Dec. 13, 2016, 130 Stat. 1334, 1335; Pub. L. 115–123, div. E, title III, §§50322(a), 50323(a), Feb. 9, 2018, 132 Stat. 201, 202; Pub. L. 115–271, title VI, §6103(a), Oct. 24, 2018, 132 Stat. 4005; Pub. L. 116–127, div. F, §6003(a), Mar. 18, 2020, 134 Stat. 203; Pub. L. 116–136, div. A, title III, §3713(c), Mar. 27, 2020, 134 Stat. 423.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -784,7 +786,7 @@ Subsec. (d)(6). Pub. L. 110–275, §162(a)(2)(B), added par. (6).
 
 Subsec. (e)(1). Pub. L. 110–275, §163(a), struck out "(other than an MA private fee-for-service plan or an MSA plan)" before period at end.
 
-Subsec. (e)(3)(A)(i). Pub. L. 110–275, §163(b)(1), inserted at end "With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, exceptthat, for plan year 2010, the limitation under clause (iii) shall not apply and such requirements shall apply only with respect to administrative claims data."
+Subsec. (e)(3)(A)(i). Pub. L. 110–275, §163(b)(1), inserted at end "With respect to MA private fee-for-service plans and MSA plans, the requirements under the preceding sentence may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans, except that, for plan year 2010, the limitation under clause (iii) shall not apply and such requirements shall apply only with respect to administrative claims data."
 
 Subsec. (e)(3)(A)(ii). Pub. L. 110–275, §§163(b)(2), 164(f)(1), added cl. (ii) and struck out former cl. (ii). Prior to amendment, text read as follows: "The Secretary shall establish as appropriate by regulation requirements for the collection, analysis, and reporting of data that permits the measurement of health outcomes and other indices of quality for MA organizations with respect to MA regional plans. Such requirements may not exceed the requirements under this subparagraph with respect to MA local plans that are preferred provider organization plans."
 
@@ -802,7 +804,7 @@ Pub. L. 108–173, §221(d)(3)(A), inserted "and except as provided in paragraph
 
 Subsec. (a)(2)(C). Pub. L. 108–173, §948(b)(2), substituted "determination" for "policy" wherever appearing in heading and text.
 
-Subsec. (a)(3)(C). Pub. L. 108–173, §222(a)(3), inserted at end "Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title."
+Subsec. (a)(3)(C). Pub. L. 108–173, §222(a)(3), which directed insertion of "Such benefits may include reductions in cost-sharing below the actuarial value specified in section 1395w–24(e)(4)(B) of this title." at the end of par. (3), was executed by making the insertion at the end of the final subpar. in par. (3), which was subpar. (C), to reflect the probable intent of Congress.
 
 Subsec. (a)(5). Pub. L. 108–173, §900(e)(1)(F), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration" in concluding provisions.
 
@@ -885,6 +887,8 @@ Subsec. (g)(3)(B)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(
 Subsec. (h)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(iii)\], substituted a semicolon for a comma before "and".
 
 Subsec. (k)(2)(C)(ii). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(B)(iv)\], substituted "balance" for "balancing" before "billing under subparagraph (A) could" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

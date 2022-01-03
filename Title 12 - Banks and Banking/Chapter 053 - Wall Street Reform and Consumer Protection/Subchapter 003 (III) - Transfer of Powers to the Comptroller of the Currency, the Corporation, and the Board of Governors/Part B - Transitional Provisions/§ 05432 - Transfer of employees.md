@@ -76,7 +76,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in paragraph (2), each affected employee shall not, during the 30-month period beginning on the transfer date, be involuntarily separated, or involuntarilyreassigned outside his or her locality pay area.
+&emsp;&emsp;Except as provided in paragraph (2), each affected employee shall not, during the 30-month period beginning on the transfer date, be involuntarily separated, or involuntarily reassigned outside his or her locality pay area.
 
 #### (B) Affected employees
 
@@ -146,7 +146,7 @@ An examiner who is a transferred employee shall not be subject to any additional
 
 #### (ii) Employer's contribution
 
-&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as appropriate, shall pay any employer cost required to extend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
+&emsp;&emsp;&emsp;The Office of the Comptroller of the Currency or the Corporation, as appropriate, shall pay any employer cost required toextend coverage in the benefit program to the transferred employee as required under that program or negotiated agreements.
 
 #### (B) Dental, vision, or life insurance after first year
 
@@ -208,7 +208,7 @@ Not later than 30 months after the transfer date, the Comptroller of the Currenc
 
 In administering the provisions of this section, the Comptroller of the Currency and the Chairperson of the Corporation—
 
-&emsp;(1) may not take any action that would unfairly disadvantage a transferred employeerelative to any other employee of the Office of the Comptroller of the Currency or the Corporation on the basis of prior employment by the Office of Thrift Supervision;
+&emsp;(1) may not take any action that would unfairly disadvantage a transferred employee relative to any other employee of the Office of the Comptroller of the Currency or the Corporation on the basis of prior employment by the Office of Thrift Supervision;
 
 &emsp;(2) may take such action as is appropriate in an individual case to ensure that a transferred employee receives equitable treatment, with respect to the status, tenure, pay, benefits (other than benefits under programs administered by the Office of Personnel Management), and accrued leave or vacation time for prior periods of service with any Federal agency of the transferred employee;
 

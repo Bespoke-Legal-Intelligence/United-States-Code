@@ -84,7 +84,7 @@
 
 <b>2006</b>—Subsec. (h)(1). Pub. L. 109–233 substituted "notwithstanding" for "nothwithstanding".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from anundiagnosed illness (or combination of undiagnosed illnesses) that—
+<b>2001</b>—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
 
 &emsp;"(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -164,7 +164,7 @@ Identification of Agents and Illnesses.—(1) Under the agreement under subsecti
 
 "(d)
 
-Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards,or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
+Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act \[Oct. 21, 1998\], the following:
 
 &emsp;"(A) The following organophosphorous pesticides:
 
@@ -266,7 +266,7 @@ Determinations of Associations Between Agents and Illnesses.—(1) For each agen
 
 "(f)
 
-Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
+Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in orderto identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms.
 
 "(g)
 
@@ -366,7 +366,7 @@ Pub. L. 103–446, title I, §§102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat
 
 &emsp;"(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 \[see Short Title of 1992 Amendments note under section 101 of this title\], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 \[see Tables for classification\], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) \[see Tables for classification\] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium.
 
-&emsp;"(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidoteenhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
+&emsp;"(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 \[Pub. L. 103–337, see Tables for classification\], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children.
 
 &emsp;"(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing.
 
@@ -396,7 +396,7 @@ Uniform Medical Evaluation Protocol.—(1) The Secretary of Veterans Affairs sha
 
 "(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation through a Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
 
-"(4)(A) If the Secretary is unable to diagnose the symptoms or illness of a veteran provided an evaluation, or if the symptoms or illness of a veteran do not respond to treatment provided by the Secretary, the Secretary may use the authority in section 1703 of title 38, United States Code, in order to provide for the veteran to receive diagnostic tests or treatment at a non-Department medical facility that may have the capability of diagnosing or treating the symptoms or illness of the veteran. The Secretary may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
+"(4)(A) If the Secretary is unable to diagnose the symptoms or illness of a veteran provided an evaluation, or if the symptoms or illness of a veteran do not respond to treatment provided by the Secretary, the Secretary may use the authority in sections 1703A, 8111, and 8153 of title 38, United States Code, in order to provide for the veteran to receive diagnostic tests or treatment at a non-Department medical facility that may have the capability of diagnosing or treating the symptoms or illness of the veteran. The Secretary may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of section 111 of title 38, United States Code.
 
 "(B) The Secretary shall request from each non-Department medical facility that examines or treats a veteran under this paragraph such information relating to the diagnosis or treatment as the Secretary considers appropriate.
 
@@ -409,8 +409,6 @@ Relationship to Other Comprehensive Clinical Evaluation Protocols.—The Secreta
 "(c)
 
 Case Definitions and Diagnoses.—The Secretary shall develop case definitions or diagnoses for illnesses associated with the service described in subsection (a)(1). The Secretary shall develop such definitions or diagnoses at the earliest possible date.
-
-<i>\[Pub. L. 115–182, title I, §144(a)(3), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under section 1703 of this title, section 104(a)(4)(A) of Pub. L. 103–446, set out above, is amended by substituting "in sections 1703A, 8111, and 8153" for "in section 1703".\]</i>
 
 #### "SEC. 105. OUTREACH TO PERSIAN GULF VETERANS.
 
@@ -502,7 +500,7 @@ Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is 
 
 "(a)
 
-Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
+Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) \[set out in a note under section 527 of this title\] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of sucha study or studies, the Secretary of Veterans Affairs is authorized to carry out such study.
 
 "(b)
 

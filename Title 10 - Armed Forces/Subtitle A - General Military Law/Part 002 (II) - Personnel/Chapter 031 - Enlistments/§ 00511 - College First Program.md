@@ -22,7 +22,7 @@ Maximum Period of Delay.—The period of delay authorized a person under paragra
 
 (d)
 
-Allowance.—(1) The monthly allowance paid under subsection (b)(2) shall be equal to the amount of the subsistence allowance provided for certain members of the Senior Reserve Officers' Training Corps with the corresponding number of years of participation under section 209(a) of title 37. The Secretary concerned maysupplement that stipend by an amount not to exceed $225 per month.
+Allowance.—(1) The monthly allowance paid under subsection (b)(2) shall be equal to the amount of the subsistence allowance provided for certain members of the Senior Reserve Officers' Training Corps with the corresponding number of years of participation under section 209(a) of title 37. The Secretary concerned may supplement that stipend by an amount not to exceed $225 per month.
 
 (2) An allowance may not be paid to a person under this section for more than 24 months.
 
@@ -46,9 +46,13 @@ Special Pay and Bonuses.—Upon enlisting in the regular component of the member
 
 (Added Pub. L. 108–375, div. A, title V, §551(a)(1), Oct. 28, 2004, 118 Stat. 1909.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 511 was renumbered section 12103 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Continuation for Army of Prior Army College First Program
 

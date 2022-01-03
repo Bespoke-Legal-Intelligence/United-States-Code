@@ -22,11 +22,15 @@ The Office of Management and Budget, or such other agency as may be designated b
 
 (Pub. L. 89–754, title II, §204, Nov. 3, 1966, 80 Stat. 1262; Pub. L. 90–351, title I, §522, June 19, 1968, 82 Stat. 208; 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 215.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–83 reenacted amendment by Pub. L. 90–351, inserting "law enforcement facilities," after "transportation facilities,".
 
 <b>1968</b>—Subsec. (a). Pub. L. 90–351 inserted "law enforcement facilities," after "transportation facilities,".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

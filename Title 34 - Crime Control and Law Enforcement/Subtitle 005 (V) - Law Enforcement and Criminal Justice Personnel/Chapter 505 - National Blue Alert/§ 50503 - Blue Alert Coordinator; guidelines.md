@@ -54,7 +54,7 @@ The Coordinator shall—
 
 &emsp;&emsp;&emsp;&emsp;(II) an imminent and credible threat to cause the serious injury or death of a law enforcement officer;
 
-&emsp;&emsp;&emsp;(ii) that a Blue Alert should, to the maximum extent practicable (as determined by the Coordinator in consultation with lawenforcement agencies of States and units of local governments), be limited to the geographic areas most likely to facilitate the apprehension of the suspect involved or which the suspect could reasonably reach, which should not be limited to State lines;
+&emsp;&emsp;&emsp;(ii) that a Blue Alert should, to the maximum extent practicable (as determined by the Coordinator in consultation with law enforcement agencies of States and units of local governments), be limited to the geographic areas most likely to facilitate the apprehension of the suspect involved or which the suspect could reasonably reach, which should not be limited to State lines;
 
 &emsp;&emsp;&emsp;(iii) for law enforcement agencies of States or units of local government to develop plans to communicate information to neighboring States to provide for seamless communication of a Blue Alert; and
 
@@ -142,7 +142,7 @@ The Coordinator may not—
 
 #### (f) Reports
 
-Not later than 1 year after May 19, 2015, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status ofthe Blue Alert plans that are in effect or being developed.
+Not later than 1 year after May 19, 2015, and annually thereafter, the Coordinator shall submit to Congress a report on the activities of the Coordinator and the effectiveness and status of the Blue Alert plans that are in effect or being developed.
 
 (Pub. L. 114–12, §4, May 19, 2015, 129 Stat. 193.)
 

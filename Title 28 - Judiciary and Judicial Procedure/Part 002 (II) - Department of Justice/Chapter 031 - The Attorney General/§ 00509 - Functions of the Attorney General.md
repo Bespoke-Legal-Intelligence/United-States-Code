@@ -56,10 +56,6 @@ Pub. L. 114–325, §1, Dec. 16, 2016, 130 Stat. 1965, provided that: "This Act 
 
 For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
-#### Emergency Preparedness Functions
-
-For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
-
 #### Unsolved Civil Rights Crimes
 
 Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325, §2, Dec. 16, 2016, 130 Stat. 1965, provided that:
@@ -128,7 +124,7 @@ Study and Report.—
 
 &emsp;"(1)
 
-Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction ofthe Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
+Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—
 
 &emsp;&emsp;"(A) the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1979;
 
@@ -214,7 +210,7 @@ Criminal civil rights statutes.—The term 'criminal civil rights statutes' mean
 
 &emsp;"(2)
 
-Eligible entity.—The term 'eligible entity' means an organization whose primary purpose is to promote civil rights, an institution of higher education, or another entity, determined by the Attorney General to be appropriate.
+Eligible entity.—The term 'eligible entity' means an organization whose primary purpose is topromote civil rights, an institution of higher education, or another entity, determined by the Attorney General to be appropriate.
 
 #### "\[SEC. 8. Repealed. Pub. L. 114–325, §2(7), Dec. 16, 2016, 130 Stat. 1967.\]
 
@@ -398,7 +394,7 @@ Pub. L. 103–317, title I, §109, Aug. 26, 1994, 108 Stat. 1735, provided that:
 
 #### Neighborhood Revitalization
 
-Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing and Urban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
+Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1830, provided in part: "That for fiscal year 1993 and thereafter the Attorney General shall (1) promote neighborhood revitalization by developing a plan for the use of Federal funds appropriated for selected activities in the Departments of Labor, Education, Health and Human Services, Transportation, Agriculture, and Housing andUrban Development; (2) the Attorney General shall solicit from State and local governments plans to revitalize neighborhoods using programs administered by such agencies; and (3) the Attorney General shall review and approve such plans in consultation with the Federal agency to which funds are appropriated".
 
 #### Procurement of Expert Witnesses Without Regard to Competitive Procurement Procedures
 
@@ -412,7 +408,7 @@ Pub. L. 101–647, title XXV, §§2536–2538, Nov. 29, 1990, 104 Stat. 4883, 48
 
 "(a)
 
-Establishment.—There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D\(§§2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note\] referred to as the 'Special Counsel').
+Establishment.—There is established within the Office of the Deputy Attorney General in the Department of Justice a Financial Institutions Fraud Unit to be headed by a special counsel (hereafter in this title \[probably means this subtitle which is subtitle D (§§2536–2540) of title XXV of Pub. L. 101–647, which amended section 1441a of Title 12, Banks and Banking, and enacted this note\] referred to as the 'Special Counsel').
 
 "(b)
 
@@ -480,7 +476,7 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 #### Processing of Name Checks and Background Records for Noncriminal Employment, Licensing, and Humanitarian Purposes
 
-Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995, which authorized the Chief, United States NationalCentral Bureau, INTERPOL, to establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes, was editorially reclassified as section 41103 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 995, which authorized the Chief, United States National Central Bureau, INTERPOL, to establish and collect fees to process name checks and background records for noncriminal employment, licensing, and humanitarian purposes, was editorially reclassified as section 41103 of Title 34, Crime Control and Law Enforcement.
 
 #### Expenses of Legal Defense for Federal Government Employees Performing Official Duties; Fees and Expenses of Witnesses
 
@@ -550,7 +546,7 @@ Authorization of Appropriations.—(1) There are authorized to be appropriated $
 
 "(2) Any appropriation of funds authorized under paragraph (1) shall be—
 
-&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submitted by the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
+&emsp;"(A) in addition to any appropriations requested by the President in the 1989 fiscal year budget submittedby the President to the Congress on February 18, 1988, or provided in regular appropriations Acts or continuing resolutions for the fiscal year ending September 30, 1989; and
 
 &emsp;"(B) used to increase the number of field attorneys and related support staff over such personnel levels employed at the Department of Justice on September 30, 1988.
 
@@ -646,6 +642,10 @@ Pub. L. 94–503, title II, §201, Oct. 15, 1976, 90 Stat. 2425, provided that:
 
 #### <b>Executive Documents</b>
 
+#### Emergency Preparedness Functions
+
+For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
 #### <b>REORGANIZATION PLAN NO. 1 OF 1968</b>
 
 Eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, as amended Reorg. Plan No. 2 of 1973, §3, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091
@@ -706,7 +706,7 @@ With this action, America will serve notice to the pusher and the peddler that t
 
 No matter how well organized they are, we will be better organized. No matter how well they have concealed their activities, we will root them out.
 
-Today, Federal investigation and enforcement of our narcotics laws are fragmented. One major element—the Bureau of Narcotics—is in the Treasury Department and responsible for the control of marihuana and narcotics such as heroin. Another—the Bureau of Drug Abuse Control—is in the Department of Health, Education, and Welfare, and is responsible for the control of dangerous drugs including depressants, stimulants, and hallucinogens such as LSD.
+Today, Federal investigation and enforcement of our narcotics laws are fragmented. One major element—theBureau of Narcotics—is in the Treasury Department and responsible for the control of marihuana and narcotics such as heroin. Another—the Bureau of Drug Abuse Control—is in the Department of Health, Education, and Welfare, and is responsible for the control of dangerous drugs including depressants, stimulants, and hallucinogens such as LSD.
 
 Neither is located in the agency which is primarily concerned with Federal law enforcement—the Department of Justice.
 
@@ -790,7 +790,7 @@ There is established in the Department of Justice an agency which shall be known
 
 #### Sec. 6. Performance of Transferred Functions
 
-The Attorney General may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this ReorganizationPlan by any officer, employee, or agency of the Department of Justice.
+The Attorney General may from time to time make such provisions as he shall deem appropriate authorizing the performance of any of the functions transferred to him by the provisions of this Reorganization Plan by any officer, employee, or agency of the Department of Justice.
 
 \[Section, former subsec. (a) designation, and subsec. (b) providing for performance of functions transferred to Secretary of Treasury by any officer, employee, or agency of Treasury Department, repealed by Pub. L. 93–253, §1(a)(2), (b), Mar. 16, 1974, 88 Stat. 50, eff. July 1, 1973.\]
 
@@ -838,7 +838,7 @@ Seeking ways to intensify our counter-offensive against this menace, I am asking
 
 Funding for this effort has increased sevenfold during the past five years, from $36 million in fiscal year 1969 to $257 million in fiscal year 1974—more money is not the most pressing enforcement need at present. Nor is there a primary need for more manpower working on the problem, over 2100 new agents having already been added to the Federal drug enforcement agencies under this Administration, an increase of more than 250 percent over the 1969 level.
 
-The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a loosely confederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
+The enforcement work could benefit significantly, however, from consolidation of our anti-drug forces under a single unified command. Right now the Federal Government is fighting the war on drug abuse under a distinct handicap, for its efforts are those of a looselyconfederated alliance facing a resourceful, elusive, worldwide enemy. Admiral Mahan, the master naval strategist, described this handicap precisely when he wrote that "Granting the same aggregate of force, it is never as great in two hands as in one, because it is not perfectly concentrated."
 
 More specifically, the drug law enforcement activities of the United States now are not merely in two hands but in half a dozen. Within the Department of Justice, with no overall direction below the level of the Attorney General, these fragmented forces include the Bureau of Narcotics and Dangerous Drugs, the Office for Drug Abuse Law Enforcement, the Office of National Narcotics Intelligence, and certain activities of the Law Enforcement Assistance Administration. The Treasury Department is also heavily engaged in enforcement work through the Bureau of Customs.
 
@@ -976,7 +976,7 @@ Establishment of the Federal Legal Council
 
 1–103. The initial members of the Council shall serve for a term of two years. Thereafter, the agencies which compose the membership shall be designated annually by the Council and at least five positions on the Council, other than that held by the Attorney General, shall rotate annually.
 
-1–104. In addition to the above members, the Directors of the Office of Management and Budget and the Office of Personnel Management, or their designees, shall be advisory members of the Council.
+1–104. In addition to the above members, the Directors of the Office of Management and Budget and theOffice of Personnel Management, or their designees, shall be advisory members of the Council.
 
 1–105. The Attorney General shall chair the Council and provide staff for its operation. Representatives of agencies that are not members of the Council may serve on or chair subcommittees of the Council.
 
@@ -1110,7 +1110,7 @@ Sec. 2. <i>Establishment of the Identity Theft Task Force.</i>
 
 Sec. 3. <i>Functions of the Task Force</i>. The Task Force, in implementing the policy set forth in section 1 of this order, shall:
 
-(a) review the activities of executive branch departments, agencies, and instrumentalities relating to the policy set forth in section 1, and building upon these prior activities, prepare and submit in writing to the President by February 9, 2007, or as soon as practicable thereafter as the Chairman and Co-Chairman shall determine, a coordinated strategic plan to further improve the effectiveness and efficiency of the FederalGovernment's activities in the areas of identity theft awareness, prevention, detection, and prosecution.
+(a) review the activities of executive branch departments, agencies, and instrumentalities relating to the policy set forth in section 1, and building upon these prior activities, prepare and submit in writing to the President by February 9, 2007, or as soon as practicable thereafter as the Chairman and Co-Chairman shall determine, a coordinated strategic plan to further improve the effectiveness and efficiency of the Federal Government's activities in the areas of identity theft awareness, prevention, detection, and prosecution.
 
 (b) coordinate, as appropriate and subject to section 5(a) of this order, Federal Government efforts related to implementation of the policy set forth in section 1 of this order;
 
@@ -1259,4 +1259,126 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 Sec. 6. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
 
 Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Restoring the Department of Justice's Access-to-Justice Function and Reinvigorating the White House Legal Aid Interagency Roundtable
+
+Memorandum of President of the United States, May 18, 2021, 86 F.R. 27793, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to increase meaningful access to our legal system and an array of Federal programs, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. This Nation was founded on the ideal of equal justice under the law. Everyone in this country should be able to vindicate their rights and avail themselves of the protections that our laws afford on equal footing. Whether we realize this ideal hinges on the extent to which everyone in the United States has meaningful access to our legal system. Legal services are crucial to the fair and effective administration of our laws and public programs, and the stability of our society.
+
+Recognizing the importance of access to justice and the power of legal aid, the Department of Justice (DOJ) in 2010 launched an access-to-justice initiative. In 2016, DOJ formally established the Office for Access to Justice. This office worked in partnership with other DOJ components to coordinate policy initiatives on topics including criminal indigent defense, enforcement of fines and fees, language barriers in access to the courts, and civil legal aid. The DOJ and the White House Domestic Policy Council also launched the Legal Aid Interagency Roundtable (LAIR) in 2012 to work with civil legal aid partners to advance Federal programs; create and disseminate tools to provide information about civil legal aid and Federal funding opportunities; and generate research to inform policy that improves access to justice.
+
+The LAIR's successes prompted President Obama to issue the memorandum of September 24, 2015 (Establishment of the White House Legal Aid Interagency Roundtable), which formally established LAIR as a White House initiative. Using the White House's convening power, LAIR examined innovative and evidence-based solutions for access to justice, from medical-legal partnerships to improve health outcomes and decrease health costs to better procedures in court hearings for individuals representing themselves.
+
+But there is much more for the Federal Government to do. According to a 2017 study by the Legal Services Corporation, low-income Americans receive inadequate or no professional legal assistance with regard to over 80 percent of the civil legal problems they face in a given year. All too often, unaddressed legal issues push people into poverty. At the same time, in the criminal legal system, those who cannot afford private counsel often receive a lower-quality defense because public defender caseloads are overburdened.
+
+The coronavirus disease 2019 (COVID–19) pandemic has further exposed and exacerbated inequities in our justice system, as courts and legal service providers have been forced to curtail in-person operations, often without the resources or technology to offer remote-access or other safe alternatives. These access limitations have compounded the effects of other harms wrought by the pandemic. These problems have touched the lives of many persons in this country, particularly low-income people and people of color.
+
+With these immense and urgent challenges comes the opportunity to strengthen access to justice in the 21st century. Through funding, interagency collaboration, and strategic partnerships, the Federal Government can drive development of new approaches and best practices that provide meaningful access to justice today, and into the future, consistent with our foundational ideal of equal justice under the law.
+
+Sec. 2. <i>The Department of Justice's Access-to-Justice Function</i>. (a) My Administration is committed to promoting equal access to justice and addressing access limitations throughout the criminal and civil legal systems. The DOJ has a critical role to play in improving the justice delivery systems that serve people who cannot afford lawyers, and I am committed to reinvigorating that work.
+
+(b) The Attorney General shall consider expanding DOJ's planning, development, and coordination of access-to-justice policy initiatives, including in the areas of criminal indigent defense, civil legal aid, and pro bono legal services. As soon as practicable, and no later than 120 days from the date of this memorandum \[May 18, 2021\], the Attorney General shall—in coordination with the Director of the Office of Management and Budget—submit a report to the President describing the Department's plan to expand its access-to-justice function, including the organizational placement of this function within the Department, expected staffing and budget, and, if necessary, the timeline for notifying the Congress of any reorganization.
+
+Sec. 3. <i>Reinvigorating the White House Legal Aid Interagency Roundtable</i>. My Administration is committed to ensuring that all persons in this country enjoy the protections and benefits of our legal system. Reinvigorating LAIR as a White House initiative is a key step in this direction.
+
+Accordingly, I direct as follows:
+
+(a) The LAIR is hereby reconvened as a White House initiative in furtherance of the vision set forth in the memorandum of September 24, 2015, by which it was established and in light of today's most pressing challenges. The September 2015 memorandum is superseded to the extent that it is inconsistent with this memorandum.
+
+(b) The LAIR shall work across executive departments, agencies, and offices to fulfill its mission, including to:
+
+(i) improve coordination among Federal programs, so that programs are more efficient and produce better outcomes by including, where appropriate, legal services among the range of supportive services provided;
+
+(ii) increase the availability of meaningful access to justice for individuals and families, regardless of wealth or status;
+
+(iii) develop policy recommendations that improve access to justice in Federal, State, local, Tribal, and international jurisdictions;
+
+(iv) assist the United States with implementation of Goal 16 of the United Nation's 2030 Agenda for Sustainable Development to promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels; and
+
+(v) advance relevant evidence-based research, data collection, and analysis of civil legal aid and indigent defense, and promulgate best practices.
+
+(c) The Attorney General and the Counsel to the President, or their designees, shall serve as the Co-Chairs of LAIR, which shall also include a representative or designee from each of the following executive departments, agencies, and offices:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Justice;
+
+(v) the Department of the Interior;
+
+(vi) the Department of Agriculture;
+
+(vii) the Department of Labor;
+
+(viii) the Department of Health and Human Services;
+
+(ix) the Department of Housing and Urban Development;
+
+(x) the Department of Transportation;
+
+(xi) the Department of Education;
+
+(xii) the Department of Veterans Affairs;
+
+(xiii) the Department of Homeland Security;
+
+(xiv) the Environmental Protection Agency;
+
+(xv) the Equal Employment Opportunity Commission;
+
+(xvi) the Corporation for National and Community Service;
+
+(xvii) the Office of Management and Budget;
+
+(xviii) the United States Agency for International Development;
+
+(xix) the Administrative Conference of the United States;
+
+(xx) the National Science Foundation;
+
+(xxi) the United States Digital Service;
+
+(xxii) the Domestic Policy Council;
+
+(xxiii) the Office of the Vice President; and
+
+(xxiv) such other executive departments, agencies, and offices as the Co-Chairs may, from time to time, invite to participate.
+
+(d) The Co-Chairs shall invite the participation of the Bureau of Consumer Financial Protection, the Federal Communications Commission, the Federal Trade Commission, the Legal Services Corporation, and the Social Security Administration, to the extent consistent with their respective statutory authorities and legal obligations.
+
+(e) The LAIR shall report annually to the President on its progress in fulfilling its mission. The report shall include data from participating members on the deployment of Federal resources to foster this mission. The LAIR's 2021 report shall be due no later than 120 days from the date of this memorandum.
+
+(f) In light of the mission and function set forth in section 3(b) of this memorandum, LAIR shall focus its first annual report on the impact of the COVID–19 pandemic on access to justice in both the criminal and civil legal systems. Moreover, the first convening of LAIR shall, at a minimum, address access-to-justice challenges the pandemic has raised and work towards identifying technological and other solutions that both meet these challenges and fortify the justice system's capacity to serve the public and be inclusive of all communities.
+
+(g) The Attorney General shall designate an Executive Director of LAIR who shall, as directed by the Co-Chairs, convene regular meetings of LAIR and supervise its work. The DOJ staff designated to support the Department's access-to-justice function under section 2 of this memorandum shall serve as the staff of LAIR.
+
+(h) The DOJ shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative services, funds, facilities, staff, equipment, and other support services as may be necessary for LAIR to carry out its mission.
+
+(i) The LAIR shall hold meetings at least three times per year. In the course of its work, LAIR should conduct outreach to Federal, State, local, Tribal, and international officials, technical advisors, and nongovernmental organizations, among others, as necessary to carry out its mission (including public defender organizations and offices and legal aid organizations and providers).
+
+(j) The LAIR members are encouraged to provide support, including by detailing personnel, to LAIR. Members of LAIR shall serve without any additional compensation for their work.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Independent agencies are strongly encouraged to comply with the provisions in this memorandum.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

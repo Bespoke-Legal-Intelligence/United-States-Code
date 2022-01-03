@@ -14,7 +14,7 @@ The Office shall assist the conference study in carrying out its goals. Specific
 
 &emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
-&emsp;(2) conduct or commission studies deemed necessary for strengthened implementation ofthe Comprehensive Conservation and Management Plan including, but not limited to—
+&emsp;(2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
 
 &emsp;&emsp;(A) population growth and the adequacy of wastewater treatment facilities;
 

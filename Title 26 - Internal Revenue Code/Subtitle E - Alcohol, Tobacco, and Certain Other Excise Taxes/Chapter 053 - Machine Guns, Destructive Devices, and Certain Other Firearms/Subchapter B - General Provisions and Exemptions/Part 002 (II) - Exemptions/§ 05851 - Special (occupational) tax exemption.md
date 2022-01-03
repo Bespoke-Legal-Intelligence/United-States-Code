@@ -10,6 +10,8 @@ The exemption provided for in subsection (a) of this section may be obtained by 
 
 (Added Pub. L. 90–618, title II, §201, Oct. 22, 1968, 82 Stat. 1233; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 5851, act Aug. 16, 1954, ch. 736, 68A Stat. 728, as amended by act Sept. 2, 1958, Pub. L. 85–859, title II, §203(h)(1), (2), 72 Stat. 1428, related to possessing firearms illegally, prior to the general revision of this chapter by Pub. L. 90–618. See section 5861(b) of this title.
@@ -19,6 +21,8 @@ Provisions similar to those comprising this section were contained in prior sect
 #### Amendments
 
 <b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

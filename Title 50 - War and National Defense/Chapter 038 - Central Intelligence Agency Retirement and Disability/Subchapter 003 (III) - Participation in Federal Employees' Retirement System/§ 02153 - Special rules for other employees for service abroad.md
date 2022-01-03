@@ -16,6 +16,8 @@ Notwithstanding any provision of chapter 84 of title 5, the annuity under subcha
 
 (Pub. L. 88–643, title III, §303, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244; amended Pub. L. 112–96, title V, §5001(c)(2)(G), Feb. 22, 2012, 126 Stat. 200.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §506, June 6, 1986, 100 Stat. 626, related to special rules for other employees for service abroad and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -23,6 +25,8 @@ A prior section 303 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(1). Pub. L. 112–96 substituted "section 8415(e)" for "section 8415(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

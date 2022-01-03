@@ -14,7 +14,7 @@ There are hereby made available, in accordance with the provisions of this part,
 
 &emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as "Federal Direct Stafford/Ford Loans".
 
-(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 110–227, §7(a), May 7, 2008, 122 Stat. 746; Pub. L. 116–260, div. FF, title VII, §702(a)(2), Dec. 27, 2020, 134 Stat. 3138.)
+(Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437;amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 110–227, §7(a), May 7, 2008, 122 Stat. 746; Pub. L. 116–260, div. FF, title VII, §702(a)(2), Dec. 27, 2020, 134 Stat. 3138.)
 
 #### Amendment of Section
 
@@ -25,6 +25,8 @@ There are hereby made available, in accordance with the provisions of this part,
 <i>The maximum dollar amount of financial assistance provided under this part to a student shall not exceed the cost of attendance for such student.</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -41,6 +43,8 @@ A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

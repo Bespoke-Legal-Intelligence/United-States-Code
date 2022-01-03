@@ -88,7 +88,7 @@
 
 #### (1) In general
 
-&emsp;The purpose of an allotment under subsection (a)(1) to a State is to enable the State\(or, in the case of grants made under subsection (a)(4)(B), to enable a local organization or entity) to carry out personal responsibility education programs consistent with this subsection.
+&emsp;The purpose of an allotment under subsection (a)(1) to a State is to enable the State (or, in the case of grants made under subsection (a)(4)(B), to enable a local organization or entity) to carry out personal responsibility education programs consistent with this subsection.
 
 #### (2) Personal responsibility education programs
 
@@ -158,7 +158,7 @@
 
 #### (iii) Evaluation
 
-&emsp;&emsp;&emsp;The Secretary shall evaluate the programs and activities carried out withfunds made available through allotments or grants under this section.
+&emsp;&emsp;&emsp;The Secretary shall evaluate the programs and activities carried out with funds made available through allotments or grants under this section.
 
 #### (d) Administration
 
@@ -217,6 +217,8 @@ In this section:
 For the purpose of carrying out this section, there is appropriated, out of any money in the Treasury not otherwise appropriated, $75,000,000 for each of fiscal years 2010 through 2023. Amounts appropriated under this subsection shall remain available until expended.
 
 (Aug. 14, 1935, ch. 531, title V, §513, as added and amended Pub. L. 111–148, title II, §2953, title X, §10201(h), Mar. 23, 2010, 124 Stat. 347, 922; Pub. L. 113–93, title II, §206, Apr. 1, 2014, 128 Stat. 1046; Pub. L. 114–10, title II, §215, Apr. 16, 2015, 129 Stat. 153; Pub. L. 115–123, div. E, title V, §50503(a), Feb. 9, 2018, 132 Stat. 227; Pub. L. 116–59, div. B, title II, §1202, Sept. 27, 2019, 133 Stat. 1104; Pub. L. 116–69, div. B, title II, §1202, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, §304, Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3822, Mar. 27, 2020, 134 Stat. 432; Pub. L. 116–159, div. C, title I, §2103, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1203(b), Dec. 11, 2020, 134 Stat. 1045; Pub. L. 116–260, div. CC, title III, §302, Dec. 27, 2020, 134 Stat. 2992.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -317,6 +319,8 @@ Subsec. (a)(4)(B)(i). Pub. L. 113–93, §206(2), substituted "2014, and 2015" f
 Subsec. (f). Pub. L. 113–93, §206(3), substituted "2015" for "2014".
 
 <b>2010</b>—Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10201(h), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Healthy relationships, such as positive self-esteem and relationship dynamics, friendships, dating, romantic involvement, marriage, and family interactions."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

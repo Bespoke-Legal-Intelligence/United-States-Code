@@ -16,7 +16,7 @@
 
 &emsp;To carry out this subchapter, the Secretary may make grants to public and nonprofit private agencies and organizations, agencies of a State, and tribal organizations to carry out the program established under subsection (a). Such grants may provide for the payment of costs, as provided in subsection (c), of projects developed by such organizations and agencies in cooperation with the Secretary in order to make such program effective or to supplement such program. The Secretary shall make the grants from allotments made under section 3056d of this title, and in accordance with section 3056l of this title. No payment shall be made by the Secretary toward the cost of any project established or administered by such an organization or agency unless the Secretary determines that such project—
 
-&emsp;&emsp;(A) will provide community service employment only for eligible individuals except for necessary technical, administrative, and supervisory personnel, and such personnel will, to the fullest extent possible, be recruited from among eligible individuals;
+&emsp;&emsp;(A) will provide community service employment only for eligible individuals except for necessary technical, administrative, andsupervisory personnel, and such personnel will, to the fullest extent possible, be recruited from among eligible individuals;
 
 &emsp;&emsp;(B)(i) will provide community service employment and other authorized activities for eligible individuals in the community in which such individuals reside, or in nearby communities; or
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;&emsp;(i) 27 months; or
 
-&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specificproject area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
+&emsp;&emsp;&emsp;(ii) pursuant to the request of a grantee, an extended period of participation established by the Secretary for a specific project area for such grantee, up to a period of not more than 36 months, if the Secretary determines that extenuating circumstances exist relating to the factors identified in section 3056k(a)(2)(E) of this title that justify such an extended period for the program year involved;
 
 &emsp;&emsp;(D) will employ eligible individuals in service related to publicly owned and operated facilities and projects, or projects sponsored by nonprofit organizations (excluding political parties exempt from taxation under section 501(c)(3) of title 26), but excluding projects involving the construction, operation, or maintenance of any facility used or to be used as a place for sectarian religious instruction or worship;
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(N)(i) will prepare an assessment of the participants' skills and talents and their needs for services, except to the extent such project has, for the participant involved, recently prepared an assessment of such skills and talents, and such needs, pursuant to another employment or training program (such as a program under the Workforce Innovation and Opportunity Act (29 U.S.C. 3101 et seq.), the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), or part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.)) and will prepare a related service strategy;
 
-&emsp;&emsp;(ii) will provide training and employment counseling to eligible individuals based on strategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
+&emsp;&emsp;(ii) will provide training and employment counseling to eligible individuals based onstrategies that identify appropriate employment objectives and the need for supportive services, developed as a result of the assessment and service strategy provided for in clause (i), and provide other appropriate information regarding such project; and
 
 &emsp;&emsp;(iii) will provide counseling to participants on their progress in meeting such objectives and satisfying their need for supportive services;
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) to use the percentage of grant funds described in paragraph (3) to pay for administrative costs, as specified in that paragraph;
 
-&emsp;&emsp;&emsp;&emsp;(III) to use not more than 10 percent of the grant funds for individual participants to provide activities described in clauses (ii) and (iv) of subparagraph (A), in which case the grantee shall provide (from the funds described in this subclause) the subsistence allowance described in subsection (b)(1)(I) for those individual participants who are receiving training described in that subsection from the funds described in this subclause, but may not use the funds described in this subclause to pay for any administrative costs; and
+&emsp;&emsp;&emsp;&emsp;(III) to use not more than 10 percent of the grant funds for individual participants to provide activities described in clauses (ii) and (iv) of subparagraph (A), in which case the grantee shall provide\(from the funds described in this subclause) the subsistence allowance described in subsection (b)(1)(I) for those individual participants who are receiving training described in that subsection from the funds described in this subclause, but may not use the funds described in this subclause to pay for any administrative costs; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) to use the remaining grant funds to provide activities described in clauses (ii) through (v) of subparagraph (A).
 
@@ -264,6 +264,8 @@ Whenever a grantee conducts a project within a planning and service area in a St
 
 (Pub. L. 89–73, title V, §502, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2563; amended Pub. L. 113–128, title V, §512(w)(3), July 22, 2014, 128 Stat. 1713; Pub. L. 114–144, §6(a), Apr. 19, 2016, 130 Stat. 342.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(H), (N)(i), (3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. Subtitle B of title I of the Act is classified generally to part B (§3151 et seq.) of subchapter I of chapter 32 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
@@ -302,11 +304,13 @@ Subsec. (b)(1)(Q)(i). Pub. L. 113–128, §512(w)(3)(A)(i)(III)(aa), substituted
 
 Subsec. (b)(1)(Q)(ii). Pub. L. 113–128, §512(w)(3)(A)(i)(III)(bb), substituted "paragraph (2)(C)(i), relating to implementation of one-stop delivery systems, of section 102(b) of the Workforce Innovation and Opportunity Act" for "paragraph (14), relating to implementation of one-stop delivery systems, of section 112(b) of the Workforce Investment Act of 1998".
 
-Subsec. (b)(3)(A). Pub. L. 113–128, §512(w)(3)(A)(ii)(I), substituted "An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act, in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act." for "An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act (29 U.S.C. 2864(d))."
+Subsec. (b)(3)(A). Pub. L. 113–128, §512(w)(3)(A)(ii)(I), substituted "An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Innovation and Opportunity Act, in order to determine whether such eligible individual also qualifies for career or training services described in section 134(c) of such Act." for "An assessment and service strategy required by paragraph (1)(N) to be prepared for an eligible individual shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 (29U.S.C. 2811 et seq.), in order to determine whether such eligible individual also qualifies for intensive or training services described in section 134(d) of such Act (29 U.S.C. 2864(d))."
 
 Subsec. (b)(3)(B). Pub. L. 113–128, §512(w)(3)(A)(ii)(II), substituted "Workforce Innovation and Opportunity Act" for "Workforce Investment Act of 1998" in heading and "An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Innovation and Opportunity Act" for "An assessment and service strategy or individual employment plan prepared under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.)" in text.
 
 Subsec. (e)(2)(B)(ii). Pub. L. 113–128, §512(w)(3)(B), substituted "one-stop delivery systems established under section 121(e) of the Workforce Innovation and Opportunity Act" for "one-stop delivery systems established under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

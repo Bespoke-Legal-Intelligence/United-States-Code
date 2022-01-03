@@ -2,7 +2,7 @@
 
 #### (a) Filing of petition
 
-A petition requesting action under this part for the purpose of adjusting to the obligations of the United States under the Agreement may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry. The Commission shall transmit a copy of any petition filed under this subsection to the United States Trade Representative.
+A petition requesting action under this part for the purpose of adjusting to the obligations ofthe United States under the Agreement may be filed with the Commission by an entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of an industry. The Commission shall transmit a copy of any petition filed under this subsection to the United States Trade Representative.
 
 #### (b) Investigation and determination
 
@@ -28,9 +28,13 @@ No investigation may be initiated under this section with respect to any CAFTA�
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsecs. (a) and (d), was in the original "this subtitle", meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates
 

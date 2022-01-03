@@ -30,6 +30,8 @@ Administrative Provisions.—(1) Each member of the board who is not an officer 
 
 (Added Pub. L. 102–190, div. A, title V, §513(a), Dec. 5, 1991, 105 Stat. 1360; amended Pub. L. 106–65, div. A, title X, §1066(a)(2), Oct. 5, 1999, 113 Stat. 770; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–398 substituted "section 5315" for "section 5376".

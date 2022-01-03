@@ -42,7 +42,7 @@ Miscellaneous Authority.—Amtrak may—
 
 &emsp;(3) improve its reservation system and advertising;
 
-&emsp;(4) provide food and beverage services on its trains only if revenues from the services each year at least equal the cost of providing the services;
+&emsp;(4) provide food and beverage services on its trains;
 
 &emsp;(5) conduct research, development, and demonstration programs related to the mission of Amtrak; and
 
@@ -68,7 +68,7 @@ Domestic Buying Preferences.—(1) In this subsection, "United States" means the
 
 &emsp;(A) unmanufactured articles, material, and supplies mined or produced in the United States; or
 
-&emsp;(B) manufactured articles, material, and supplies manufactured in the United Statessubstantially from articles, material, and supplies mined, produced, or manufactured in the United States.
+&emsp;(B) manufactured articles, material, and supplies manufactured in the United States substantially from articles, material, and supplies mined, produced, or manufactured in the United States.
 
 (3) Paragraph (2) of this subsection applies only when the cost of those articles, material, or supplies bought is at least $1,000,000.
 
@@ -84,7 +84,7 @@ Domestic Buying Preferences.—(1) In this subsection, "United States" means the
 
 &emsp;(B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909; Pub. L. 105–134, title I, §107, Dec. 2, 1997, 111 Stat. 2573; Pub. L. 114–94, div. A, title XI, §11412(c)(1), Dec. 4, 2015, 129 Stat. 1688.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 909; Pub. L. 105–134, title I, §107, Dec. 2, 1997, 111 Stat. 2573; Pub. L. 114–94, div. A, title XI, §11412(c)(1), Dec. 4, 2015, 129 Stat. 1688; Pub. L. 117–58, div. B, title II, §22208(a), Nov. 15, 2021, 135 Stat. 706.)
 
 Historical and Revision Notes
 
@@ -204,7 +204,11 @@ In subsection (f)(4)(A) and (B), the words "the purchase of" are omitted as surp
 
 In subsection (f)(4)(A)(i), the words "imposing" and "with respect to such articles, materials, and supplies" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(4). Pub. L. 117–58 struck out "only if revenues from the services each year at least equal the cost of providing the services" after "on its trains".
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–94 substituted "may directly employ or contract with" for "may employ", "directly employed by or contracted by" for "employed by", and "directly employed or contracted without" for "employed without".
 
@@ -212,9 +216,11 @@ In subsection (f)(4)(A)(i), the words "imposing" and "with respect to such artic
 
 Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
 
 #### Local Products and Promotional Events
 
@@ -338,7 +344,7 @@ Consideration of Proposals.—Not later than 180 days after the deadline for the
 
 "(c)
 
-Report.—Not later than 1 year after the deadline for the receipt of proposals under subsection (a), Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of theHouse of Representatives a report on the Request for Proposals required by this section, including summary information of any proposals submitted to Amtrak and any proposals accepted by the Amtrak Board of Directors.
+Report.—Not later than 1 year after the deadline for the receipt of proposals under subsection (a), Amtrak shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the Request for Proposals required by this section, including summary information of any proposals submitted to Amtrak and any proposals accepted by the Amtrak Board of Directors.
 
 "(d)
 
@@ -378,7 +384,7 @@ Request for proposals.—Not later than 180 days after the date the Request for 
 
 &emsp;"(2)
 
-Consideration of proposals.—Not later than 1 year after the date the Request for Proposals is issued under paragraph (1), the Amtrak Board of Directors shall review and consider qualified proposals submitted under paragraph (1). Amtrak or a station owner that responded under subsection (b) may enter into such agreements as are necessary to implement any qualified proposal.
+Consideration of proposals.—Not later than 1 year after the date the Request for Proposals isissued under paragraph (1), the Amtrak Board of Directors shall review and consider qualified proposals submitted under paragraph (1). Amtrak or a station owner that responded under subsection (b) may enter into such agreements as are necessary to implement any qualified proposal.
 
 "(d)
 

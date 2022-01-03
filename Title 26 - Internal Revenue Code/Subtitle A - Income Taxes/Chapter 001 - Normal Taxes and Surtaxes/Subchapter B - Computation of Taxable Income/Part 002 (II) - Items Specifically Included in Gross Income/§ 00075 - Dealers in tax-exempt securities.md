@@ -2,13 +2,13 @@
 
 #### (a) Adjustment for bond premium
 
-In computing the gross income of a taxpayer who holds during the taxable year a municipal bond (as defined in subsection (b)(1)) primarily for sale to customers in the ordinary course of his trade or business—
+In computing the gross income of a taxpayer who holds during the taxable year a municipalbond (as defined in subsection (b)(1)) primarily for sale to customers in the ordinary course of his trade or business—
 
 &emsp;(1) if the gross income of the taxpayer from such trade or business is computed by the use of inventories and his inventories are valued on any basis other than cost, the cost of securities sold (as defined in subsection (b)(2)) during such year shall be reduced by an amount equal to the amortizable bond premium which would be disallowed as a deduction for such year by section 171(a)(2) (relating to deduction for amortizable bond premium) if the definition in section 171(d) of the term "bond" did not exclude such municipal bond; or
 
 &emsp;(2) if the gross income of the taxpayer from such trade or business is computed without the use of inventories, or by use of inventories valued at cost, and the municipal bond is sold or otherwise disposed of during such year, the adjusted basis (computed without regard to this paragraph) of the municipal bond shall be reduced by the amount of the adjustment which would be required under section 1016(a)(5) (relating to adjustment to basis for amortizable bond premium) if the definition in section 171(d) of the term "bond" did not exclude such municipal bond.
 
-> Notwithstanding the provisions of paragraph (1), no reduction to the cost of securities sold during the taxable year shall be made in respect of any obligation described in subsection (b)(1)(A)(ii) which is held by the taxpayer at the close of the taxable year; but in the taxable year in which any such obligation is sold or otherwise disposed of, if such obligation is a municipal bond (as defined in subsection (b)(1)), the cost of securities sold during such year shall be reduced by anamount equal to the adjustment described in paragraph (2), without regard to the fact that the taxpayer values his inventories on any basis other than cost.
+> Notwithstanding the provisions of paragraph (1), no reduction to the cost of securities sold during the taxable year shall be made in respect of any obligation described in subsection (b)(1)(A)(ii) which is held by the taxpayer at the close of the taxable year; but in the taxable year in which any such obligation is sold or otherwise disposed of, if such obligation is a municipal bond (as defined in subsection (b)(1)), the cost of securities sold during such year shall be reduced by an amount equal to the adjustment described in paragraph (2), without regard to the fact that the taxpayer values his inventories on any basis other than cost.
 
 #### (b) Definitions
 
@@ -38,11 +38,15 @@ For purposes of subsection (a)—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 25; Pub. L. 85–866, title I, §2(a), Sept. 2, 1958, 72 Stat. 1606.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–866, §2(a)(2), (3), struck out "short-term" each place it appeared, and inserted sentence to provide that no reduction to cost of securities sold during taxable year shall be made in respect of subsec. (b)(1)(A)(ii) obligations held at close of year, and to permit reduction in cost of securities sold in taxable year sold if obligation is municipal bond.
 
 Subsec. (b)(1). Pub. L. 85–866, §2(a)(1), substituted "municipal bond" for "short-term municipal bond", designated former subpars. (A) and (B) as (A)(i) and (ii), respectively, and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

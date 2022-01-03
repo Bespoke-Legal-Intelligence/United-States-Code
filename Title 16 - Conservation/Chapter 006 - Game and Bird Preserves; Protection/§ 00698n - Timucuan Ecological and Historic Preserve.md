@@ -26,13 +26,15 @@ The Secretary of the Interior (hereinafter in sections 698n to 698p of this titl
 
 #### (c) Administration
 
-The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4).<sup>1</sup> The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting orfishing shall be permitted for reasons of public safety.
+The Secretary shall administer those lands acquired for inclusion within the Preserve in such a manner as to protect the natural ecology of such land and water areas in accordance with sections 698n to 698p of this title and the provisions of law generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4).<sup>1</sup> The Secretary shall permit boating, boating-related activities, hunting, and fishing within the Preserve in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety.
 
 #### (d) Development of multiunit residential/resort project
 
 Nothing in sections 698n to 698p of this title shall affect development of a multiunit residential/resort project currently proposed for Fort George Island, nor shall any provision of sections 698n to 698p of this title be construed to affect any Federal, State or local law applicable to such project.
 
 (Pub. L. 100–249, title II, §201, Feb. 16, 1988, 102 Stat. 13; Pub. L. 108–321, §2, Oct. 5, 2004, 118 Stat. 1214.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ In subsec. (a)(1), "section 100506(c) of title 54" substituted for "section 7(c)
 #### Amendments
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–321 designated existing provisions as par. (1), inserted heading, substituted "There is" for "There is hereby", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2004 Amendment
 

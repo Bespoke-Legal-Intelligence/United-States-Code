@@ -10,6 +10,8 @@ In exercising his authority to acquire property under subsection (a) of this sec
 
 (Pub. L. 89–761, §2, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 96–612, §1(3), (4), Dec. 28, 1980, 94 Stat. 3575; Pub. L. 116–6, div. E, title I, §115(a)(1)(B), Feb. 15, 2019, 133 Stat. 232.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a). Pub. L. 116–6 substituted "Park" for "lakeshore".
@@ -17,6 +19,8 @@ In exercising his authority to acquire property under subsection (a) of this sec
 <b>1980</b>—Subsec. (a). Pub. L. 96–612, §1(3), inserted provision authorizing the Secretary to acquire or exchange lands or interests therein owned for school or educational purposes by a State or political subdivision thereof.
 
 Subsec. (b). Pub. L. 96–612, §1(4), made technical amendment to reference in original act which appears in text as reference to section 460u–9 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Acquisition of Lands by Exchange
 

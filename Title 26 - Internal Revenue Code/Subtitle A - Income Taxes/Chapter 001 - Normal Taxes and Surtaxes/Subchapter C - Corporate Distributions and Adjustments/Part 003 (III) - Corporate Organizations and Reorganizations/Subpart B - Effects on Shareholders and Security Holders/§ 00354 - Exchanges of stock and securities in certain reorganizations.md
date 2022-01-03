@@ -42,7 +42,7 @@
 
 #### (3) Cross references
 
-&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received</b><b>under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
+&emsp;&emsp;<b>(A) For treatment of the exchange if any property is received which is not permitted to be received under this subsection (including nonqualified preferred stock and an excess principal amount of securities received over securities surrendered, but not including property to which paragraph (2)(B) applies), see section 356.</b>
 
 &emsp;&emsp;<b>(B) For treatment of accrued interest in the case of an exchange described in paragraph (2)(B), see section 61.</b>
 
@@ -65,6 +65,8 @@
 Notwithstanding any other provision of this subchapter, subsection (a)(1) (and so much of section 356 as relates to this section) shall apply with respect to a plan of reorganization (whether or not a reorganization within the meaning of section 368(a)) for a railroad confirmed under section 1173 of title 11 of the United States Code, as being in the public interest.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 112; Pub. L. 94–253, §1(c), Mar. 31, 1976, 90 Stat. 296; Pub. L. 95–473, §2(a)(2)(F), Oct. 17, 1978, 92 Stat. 1465; Pub. L. 96–589, §§4(e)(1), (h)(1), 6(i)(2), Dec. 24, 1980, 94 Stat. 3403, 3404, 3410; Pub. L. 101–508, title XI, §11801(c)(8)(D), Nov. 5, 1990, 104 Stat. 1388–524; Pub. L. 104–88, title III, §304(c), Dec. 29, 1995, 109 Stat. 944; Pub. L. 105–34, title X, §1014(b), (e)(1), (2), Aug. 5, 1997, 111 Stat. 920, 921; Pub. L. 105–206, title VI, §6010(e)(2), July 22, 1998, 112 Stat. 814.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -96,6 +98,8 @@ Subsec. (c). Pub. L. 96–589, §6(i)(2), substituted "confirmed under section 1
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–253 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -122,7 +126,7 @@ Pub. L. 94–253, §2, Mar. 31, 1976, 90 Stat. 297, provided that: "The amendmen
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 

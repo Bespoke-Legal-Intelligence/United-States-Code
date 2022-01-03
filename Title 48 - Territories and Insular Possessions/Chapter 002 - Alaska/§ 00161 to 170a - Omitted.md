@@ -1,5 +1,7 @@
 ### §§161 to 170a. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 161 to 170a, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.

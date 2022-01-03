@@ -14,7 +14,7 @@
 
 &emsp;(2) such other method as is provided by law.
 
-> The head of the agency concerned may waive in whole or in part a right of recovery of an advance of funds under subsection (a) of this section, if it is shown that the recovery would be against equity and good conscience or against the public interest.
+> The head of the agency concerned may waive in whole or in part a right of recovery of an advance of funds under subsection (a) of this section, if it is shown that the recovery would beagainst equity and good conscience or against the public interest.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 480; Pub. L. 96–465, title II §2303(a), (b), Oct. 17, 1980, 94 Stat. 2164, 2165.)
 

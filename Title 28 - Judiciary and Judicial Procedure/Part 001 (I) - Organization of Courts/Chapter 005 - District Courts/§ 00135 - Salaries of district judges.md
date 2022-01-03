@@ -48,7 +48,7 @@ Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar.
 
 #### Salary Increases
 
-For adjustment of salaries of district judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note under section 5332 of Title 5, Government Organization and Employees.
+For adjustment of salaries of district judges under this section, see the executive order detailing the adjustment of certain rates of pay set out as a note undersection 5332 of Title 5, Government Organization and Employees.
 
 For prior year salary increases per the recommendation of the President, see Prior Salary Recommendations notes under section 358 of Title 2, The Congress.
 

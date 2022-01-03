@@ -42,7 +42,7 @@ A State, political subdivision of a State, Indian tribe, or tribal organization 
 
 #### (d) Evaluation
 
-A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under this section shall prepare and submit an evaluation of activities that are carried out with funds received under such grant to theSecretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a process and outcome evaluation.
+A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under this section shall prepare and submit an evaluation of activities that are carried out with funds received under such grant to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a process and outcome evaluation.
 
 #### (e) Access to broadband
 

@@ -6,7 +6,7 @@ Content of Regulations.—The Administrator shall prescribe under this division 
 
 &emsp;(1) conflict of interest standards for persons who provide consulting services described in subsection (b); and
 
-&emsp;(2) procedures, including registration, certification, and enforcement requirements as may be appropriate, to promote compliance with the standards.
+&emsp;(2) procedures, including registration, certification, and enforcement requirements asmay be appropriate, to promote compliance with the standards.
 
 (b)
 
@@ -14,7 +14,7 @@ Services Subject to Regulations.—Regulations required by subsection (a) apply 
 
 &emsp;(1) advisory and assistance services provided to the Federal Government to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States;
 
-&emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusionof the services in the regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
+&emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusion of the services in the regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
 
 &emsp;(3) other services related to Federal contracts as specified in the regulations prescribed under subsection (a) to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States.
 

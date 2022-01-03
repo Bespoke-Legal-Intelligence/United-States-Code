@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f), including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965\(as such title existed on the day before January 8, 2002).
+&emsp;Grants under this section may be made with research organizations, institutions, agencies, institutions of higher education, or partnerships among such entities, or individuals, with the demonstrated ability or capacity to carry out the activities described in subsection (f), including regional entities that carried out activities under the Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002) and title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002).
 
 #### (2) Outreach
 
@@ -48,7 +48,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;(1) schools in the region with high percentages or numbers of students from low-income families, as determined under section 1113(a)(5) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6313(a)(5)), including such schools in rural and urban areas, and schools receiving assistance under title I of that Act (20 U.S.C. 6301 et seq.);
 
-&emsp;(2) local educational agencies in the region in which high percentages or numbers of school-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)(1)(A)), including such local educational agencies in rural and urban areas; and
+&emsp;(2) local educational agencies in the region in which high percentages or numbers ofschool-age children are from low-income families, as determined under section 1124(c)(1)(A) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6333(c)(1)(A)), including such local educational agencies in rural and urban areas; and
 
 &emsp;(3) schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(d)\].
 
@@ -134,6 +134,8 @@ Each comprehensive center established under this section shall submit to the Sec
 
 (Pub. L. 107–279, title II, §203, Nov. 5, 2002, 116 Stat. 1975; Pub. L. 114–95, title IX, §9215(gg)(2), Dec. 10, 2015, 129 Stat. 2174.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to section 6041(h) of this title prior to repeal. For complete classification of this Act to the Code, see section 6001 of this title and Tables.
@@ -148,7 +150,9 @@ The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(
 
 Subsec. (e)(3). Pub. L. 114–95, §9215(gg)(2)(B), substituted "schools in the region that are implementing comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965" for "schools in the region that have been identified for school improvement under section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b))".
 
-Subsec. (f)(1)(B). Pub. L. 114–95, §9215(gg)(2)(C), substituted ", and particularly assisting those schools implementing comprehensive support and improvementand targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965," for "and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)))".
+Subsec. (f)(1)(B). Pub. L. 114–95, §9215(gg)(2)(C), substituted ", and particularly assisting those schools implementing comprehensive support and improvement and targeted support and improvement activities under section 1111(d) of the Elementary and Secondary Education Act of 1965," for "and encouraging and sustaining school improvement (as described in section 1116(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6316(b)))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

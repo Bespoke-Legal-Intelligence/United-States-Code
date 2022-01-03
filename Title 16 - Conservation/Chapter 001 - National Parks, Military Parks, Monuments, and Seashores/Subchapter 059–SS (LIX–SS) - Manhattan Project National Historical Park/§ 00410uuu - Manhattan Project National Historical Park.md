@@ -156,7 +156,7 @@ In this section:
 
 #### (3) Interpretive tours
 
-&emsp;The Secretary may, subject to applicable law, provide interpretive tours of historically significant Manhattan Project sites and resources in the States of Tennessee, New Mexico, and Washington that are located outside the boundary of the Historical Park.
+&emsp;The Secretary may, subject to applicable law, provide interpretive tours of historicallysignificant Manhattan Project sites and resources in the States of Tennessee, New Mexico, and Washington that are located outside the boundary of the Historical Park.
 
 #### (4) Land acquisition
 
@@ -198,7 +198,7 @@ In this section:
 
 #### (C) Donations to Department of Energy
 
-&emsp;&emsp;For the purposes of this section, or for the purpose of preserving and providing accessto historically significant Manhattan Project resources, the Secretary of Energy may accept, hold, administer, and use gifts, bequests, and devises (including labor and services).
+&emsp;&emsp;For the purposes of this section, or for the purpose of preserving and providing access to historically significant Manhattan Project resources, the Secretary of Energy may accept, hold, administer, and use gifts, bequests, and devises (including labor and services).
 
 #### (g) Adjacent management
 
@@ -215,6 +215,8 @@ In this section:
 Nothing in this section shall be construed to create a cause of action with respect to activities outside or adjacent to the established boundary of the Historical Park.
 
 (Pub. L. 113–291, div. B, title XXX, §3039, Dec. 19, 2014, 128 Stat. 3784.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

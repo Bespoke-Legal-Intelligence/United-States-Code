@@ -18,7 +18,7 @@ The Secretary shall provide water supply storage space under this section at a p
 
 #### (d) Determinations
 
-For purposes of subsection (c), the determinations of updated construction costs and value ofbenefits lost shall be made by the Secretary on the basis of the most recent information available.
+For purposes of subsection (c), the determinations of updated construction costs and value of benefits lost shall be made by the Secretary on the basis of the most recent information available.
 
 #### (e) Inflation adjustment of dollar amount
 

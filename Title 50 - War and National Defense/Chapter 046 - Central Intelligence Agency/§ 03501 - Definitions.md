@@ -10,6 +10,8 @@ When used in this chapter, the term—
 
 (June 20, 1949, ch. 227, §1, 63 Stat. 208; Pub. L. 86–707, title V, §511(a)(3), (c)(1), Sept. 6, 1960, 74 Stat. 800, 801; Pub. L. 108–458, title I, §1077, Dec. 17, 2004, 118 Stat. 3695.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403a of this title prior to editorial reclassification and renumbering as this section.
@@ -21,6 +23,8 @@ Section was formerly classified to section 403a of this title prior to editorial
 <b>1960</b>—Subsec. (c). Pub. L. 86–707, §511(c)(1), substituted "Government." for "Government; and".
 
 Subsec. (d). Pub. L. 86–707, §511(a)(3), repealed subsec. (d) which defined "continental United States". See section 5921 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -42,7 +46,7 @@ Pub. L. 105–272, title III, §309, Oct. 20, 1998, 112 Stat. 2403, provided tha
 
 "(a)
 
-Designation.—The headquarters compound of the Central Intelligence Agency located in Langley,Virginia, shall be known and designated as the 'George Bush Center for Intelligence'.
+Designation.—The headquarters compound of the Central Intelligence Agency located in Langley, Virginia, shall be known and designated as the 'George Bush Center for Intelligence'.
 
 "(b)
 

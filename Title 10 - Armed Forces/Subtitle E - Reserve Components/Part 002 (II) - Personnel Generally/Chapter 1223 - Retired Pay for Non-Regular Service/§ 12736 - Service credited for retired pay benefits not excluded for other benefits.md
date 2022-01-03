@@ -22,9 +22,13 @@ Historical and Revision Notes
 
 June 29, 1948, ch. 708, §305 (less 1st sentence), 62 Stat. 1089.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1336 of this title as this section and restated catchline and text without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

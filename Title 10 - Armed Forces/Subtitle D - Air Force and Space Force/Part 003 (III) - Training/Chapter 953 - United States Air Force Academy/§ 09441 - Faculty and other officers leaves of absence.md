@@ -20,6 +20,8 @@ R.S. 1330.
 
 The words "under regulations prescribed by the Secretary of the Army" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9441 was renumbered section 9491 of this title.
@@ -29,6 +31,8 @@ Another prior section 9441, acts Aug. 10, 1956, ch. 1041, 70A Stat. 572; Pub. L.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9341 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

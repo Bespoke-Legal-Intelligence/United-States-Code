@@ -26,13 +26,15 @@
 
 #### (2) Notice
 
-&emsp;After the period referred to in subsection (a)(1), the Secretary of Agriculture may notclose a county or field office of the Farm Service Agency unless—
+&emsp;After the period referred to in subsection (a)(1), the Secretary of Agriculture may not close a county or field office of the Farm Service Agency unless—
 
 &emsp;&emsp;(A) not later than 30 days after the Secretary proposes to close such office, the Secretary holds a public meeting regarding the proposed closure in the county in which such office is located; and
 
 &emsp;&emsp;(B) after the public meeting referred to in subparagraph (A), but not less than 90 days before the date on which the Secretary approves the closure of such office, the Secretary notifies the Committee on Agriculture and the Committee on Appropriations of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry and the Committee on Appropriations of the Senate, each Senator representing the State in which the office proposed to be closed is located, and the member of the House of Representatives who represents the Congressional district in which the office proposed to be closed is located of the proposed closure of such office.
 
 (Pub. L. 110–234, title XIV, §14212, May 22, 2008, 122 Stat. 1465; Pub. L. 110–246, §4(a), title XIV, §14212, June 18, 2008, 122 Stat. 1664, 2227.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,8 @@ The date of the enactment of this Act, referred to in subsec. (a)(1), is the dat
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Department of Agriculture Reorganization Act of 1994, which in part comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

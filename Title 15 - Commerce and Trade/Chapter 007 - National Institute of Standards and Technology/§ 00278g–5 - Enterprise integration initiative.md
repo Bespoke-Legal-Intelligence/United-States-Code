@@ -12,7 +12,7 @@ For each major manufacturing industry, the Director may work with industry, trad
 
 In order to carry out this Act, the Director may work with industry, trade associations, professional societies, and others as appropriate—
 
-&emsp;(1) to raise awareness in the United States, including awareness by businesses that are majority owned by women, minorities, or both, of enterprise integration activities inthe United States and abroad, including by the convening of conferences;
+&emsp;(1) to raise awareness in the United States, including awareness by businesses that are majority owned by women, minorities, or both, of enterprise integration activities in the United States and abroad, including by the convening of conferences;
 
 &emsp;(2) on the development of enterprise integration roadmaps;
 
@@ -25,6 +25,8 @@ In order to carry out this Act, the Director may work with industry, trade assoc
 The Director shall ensure that the Manufacturing Extension Program is prepared to advise small- and medium-sized businesses on how to acquire the expertise, equipment, and training necessary to participate fully in supply chains using enterprise integration.
 
 (Pub. L. 107–277, §3, Nov. 5, 2002, 116 Stat. 1936; Pub. L. 113–188, title II, §201(b), Nov. 26, 2014, 128 Stat. 2018; Pub. L. 114–329, title V, §501(e)(2), Jan. 6, 2017, 130 Stat. 3033.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -39,6 +41,8 @@ Section was enacted as part of the Enterprise Integration Act of 2002, and not a
 <b>2017</b>—Subsec. (a). Pub. L. 114–329 inserted "Hollings" before "Manufacturing Extension Partnership".
 
 <b>2014</b>—Subsecs. (c) to (e). Pub. L. 113–188 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which required annual reports on the National Institute of Standards and Technology's activities under subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Enterprise Integration
 

@@ -8,7 +8,7 @@ In accordance with section 1471c(a) of this title, the Secretary shall make one 
 
 &emsp;(2) The sale of feed grain owned by the Commodity Credit Corporation to producers for livestock feed at a price, established by the Secretary, that does not exceed—
 
-&emsp;&emsp;(A) with respect to such assistance provided for any livestock emergency determined to exist prior to January 1, 1989, 75 percent of the current basic county loan rate for such feed grain in effect under this Act (or at a comparable price if there is no such current basic county loan rate), or
+&emsp;&emsp;(A) with respect to such assistance provided for any livestock emergency determined to exist prior to January 1, 1989, 75percent of the current basic county loan rate for such feed grain in effect under this Act (or at a comparable price if there is no such current basic county loan rate), or
 
 &emsp;&emsp;(B) with respect to such assistance provided for any other livestock emergency, 50 percent of the average market price in the county or area involved, as determined by the Secretary.
 
@@ -58,6 +58,8 @@ The Secretary may make available at least $25,000,000 to provide livestock trans
 
 (Oct. 31, 1949, ch. 792, title VI, §606, as added Pub. L. 100–387, title I, §101(a), Aug. 11, 1988, 102 Stat. 928; amended Pub. L. 101–82, title II, §§201, 202, Aug. 14, 1989, 103 Stat. 581.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
@@ -67,6 +69,8 @@ This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch
 <b>1989</b>—Subsec. (b). Pub. L. 101–82, §201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation."
 
 Subsec. (f). Pub. L. 101–82, §202, added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -84,5 +88,5 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 #### Emergency Forage Program
 
-Pub. L. 100–387, title I, §103, Aug. 11, 1988, 102 Stat. 932, directed the Secretary of Agriculture to implementan emergency forage program to reseed pasture damaged by the drought or related condition in 1988 and provided for 50 percent cost-sharing, a $3,500 limit on payments to any one producer and a $50,000,000 limit on Commodity Credit Corporation funds available for such program.
+Pub. L. 100–387, title I, §103, Aug. 11, 1988, 102 Stat. 932, directed the Secretary of Agriculture to implement an emergency forage program to reseed pasture damaged by the drought or related condition in 1988 and provided for 50 percent cost-sharing, a $3,500 limit on payments to any one producer and a $50,000,000 limit on Commodity Credit Corporation funds available for such program.
 

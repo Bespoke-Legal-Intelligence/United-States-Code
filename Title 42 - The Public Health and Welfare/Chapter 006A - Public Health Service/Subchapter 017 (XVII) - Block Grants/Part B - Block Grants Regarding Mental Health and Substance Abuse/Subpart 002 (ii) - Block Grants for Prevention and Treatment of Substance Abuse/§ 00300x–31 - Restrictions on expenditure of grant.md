@@ -24,7 +24,7 @@
 
 #### (3) Limitation regarding penal and correctional institutions
 
-&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, in expending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State willnot expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
+&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, in expending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
 
 #### (b) Exception regarding inpatient hospital services
 
@@ -59,6 +59,8 @@
 &emsp;The Secretary shall act upon a request for a waiver under paragraph (1) not later than 120 days after the date on which the request is made.
 
 (July 1, 1944, ch. 373, title XIX, §1931, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 397; amended Pub. L. 114–255, div. B, title VIII, §8002(h), Dec. 13, 2016, 130 Stat. 1230.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b), on the date on which a country ceases to be a USMCAcountry, the provisions of this title <sup>1</sup> (other than this section) and the amendments made by this title <sup>1</sup> shall cease to have effect with respect to that country.
+Except as provided in subsection (b), on the date on which a country ceases to be a USMCA country, the provisions of this title <sup>1</sup> (other than this section) and the amendments made by this title <sup>1</sup> shall cease to have effect with respect to that country.
 
 #### (b) Transition provisions
 
@@ -22,9 +22,13 @@ Except as provided in subsection (b), on the date on which a country ceases to b
 
 (Pub. L. 116–113, title IV, §431, Jan. 29, 2020, 134 Stat. 66.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This title, referred to in subsecs. (a) and (b)(1), means title IV of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 61, which enacted this section, amended sections 1516a, 1677, 1677f, and 4374 of this title and sections 1581, 1584, 2201, and 2643 of Title 28, Judiciary and Judicial Procedure, and enacted provisions set out as a note under section 1516a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

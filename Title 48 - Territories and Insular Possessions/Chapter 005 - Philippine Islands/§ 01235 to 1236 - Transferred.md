@@ -1,5 +1,7 @@
 ### §§1235 to 1236. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1235, act Mar. 24, 1934, ch. 84, §5, 48 Stat. 459, related to transfer of property and rights to Philippine Commonwealth, and was transferred to section 1391 of Title 22, Foreign Relations and Intercourse.

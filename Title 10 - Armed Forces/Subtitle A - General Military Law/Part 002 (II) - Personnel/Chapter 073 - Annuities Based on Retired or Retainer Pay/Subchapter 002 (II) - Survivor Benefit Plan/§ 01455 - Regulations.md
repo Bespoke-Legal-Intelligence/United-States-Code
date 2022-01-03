@@ -38,7 +38,7 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 
 &emsp;&emsp;(B) In the case of an annuitant referred to in paragraph (1)(B), payment of the annuity to any person who, in the judgment of the Secretary concerned, is responsible for the care of the annuitant.
 
-&emsp;&emsp;(C) In the case of an annuitant referred to in paragraph (1)(C), payment of the annuityto the supplemental or special needs trust established for the annuitant.
+&emsp;&emsp;(C) In the case of an annuitant referred to in paragraph (1)(C), payment of the annuity to the supplemental or special needs trust established for the annuitant.
 
 &emsp;&emsp;(D) Subject to subparagraphs (E) and (F), a requirement for the payee of an annuity to spend or invest the amounts paid on behalf of the annuitant solely for benefit of the annuitant.
 
@@ -63,6 +63,8 @@ Authorized procedures.—The regulations under paragraph (1) may include provisi
 Legal effect of payment to guardian, fiduciary, or trust.—An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 
 (Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 711; amended Pub. L. 99–145, title VII, §724, Nov. 8, 1985, 99 Stat. 678; Pub. L. 102–190, div. A, title VI, §654(a), Dec. 5, 1991, 105 Stat. 1389; Pub. L. 104–201, div. A, title VI, §634, Sept. 23, 1996, 110 Stat. 2577; Pub. L. 113–291, div. A, title VI, §624(b), Dec. 19, 2014, 128 Stat. 3404.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -99,6 +101,8 @@ or fiduciary" in heading.
 "(1) provide that, when the notification referred to in section 1448(a) of this title is required, the member and his spouse shall, before the date the member becomes entitled to retired or retainer pay, be informed of the elections available and the effects of such elections; and
 
 "(2) establish procedures for depositing the amounts referred to in section 1452(d) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

@@ -18,7 +18,7 @@ In this subchapter, except as specified otherwise:
 
 &emsp;&emsp;&emsp;&emsp;(II) such information is not further acquired, accessed, used, or disclosed by any person; or
 
-&emsp;&emsp;&emsp;(ii) any inadvertent disclosure from an individual who is otherwise authorized to access protected health information at a facility operated by a covered entity or business associate to another similarly situated individual at <sup>1</sup> same facility; and
+&emsp;&emsp;&emsp;(ii) any inadvertent disclosure from an individual who is otherwise authorized to access protected health information at a facility operated by a covered entity orbusiness associate to another similarly situated individual at <sup>1</sup> same facility; and
 
 &emsp;&emsp;&emsp;(iii) any such information received as a result of such disclosure is not further acquired, accessed, used, or disclosed without authorization by any person.
 
@@ -91,6 +91,8 @@ In this subchapter, except as specified otherwise:
 &emsp;The term "vendor of personal health records" means an entity, other than a covered entity (as defined in paragraph (3)), that offers or maintains a personal health record.
 
 (Pub. L. 111–5, div. A, title XIII, §13400, Feb. 17, 2009, 123 Stat. 258.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

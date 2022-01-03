@@ -1,6 +1,6 @@
 ### §8165. Use of proceeds
 
-(a)(1) Funds received by the Department under an enhanced-use lease and remaining after any deduction from those funds under subsection (b) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title.
+(a)(1) Funds received by the Department under an enhanced-use lease and remaining after anydeduction from those funds under subsection (b) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund established under section 1729A of this title.
 
 (2) Funds received by the Department from a disposal of leased property under section 8164 of this title shall be deposited into the Department of Veterans Affairs Construction, Major Projects account or Construction, Minor Projects account, as the Secretary considers appropriate.
 
@@ -34,5 +34,5 @@ Pub. L. 108–170, §202(c)(3), struck out subsec. (c) which read as follows: "S
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note undersection 5334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 108–178 effective Aug. 21, 2002, see section 5 of Pub. L. 108–178, set out as a note under section 5334 of Title 5, Government Organization and Employees.
 

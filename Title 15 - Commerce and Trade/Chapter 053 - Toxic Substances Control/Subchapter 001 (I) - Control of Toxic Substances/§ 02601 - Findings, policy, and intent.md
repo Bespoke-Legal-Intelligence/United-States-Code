@@ -26,11 +26,15 @@ It is the intent of Congress that the Administrator shall carry out this chapter
 
 (Pub. L. 94–469, title I, §2, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§2, 19(b), June 22, 2016, 130 Stat. 448, 505.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b)(1). Pub. L. 114–182, §19(b), substituted "information" for "data" in two places.
 
 Subsec. (c). Pub. L. 114–182, §2, substituted "proposes as provided" for "proposes to take".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -75,6 +79,8 @@ Definition of Sport Fishing Equipment.—In this section, the term 'sport fishin
 #### No Retroactivity of Pub. L. 114–182 Amendments
 
 Pub. L. 114–182, title I, §20, June 22, 2016, 130 Stat. 510, provided that: "Nothing in sections 1 through 19 \[amending this section, sections 2602 to 2611, 2613 to 2615, 2617 to 2620, 2623, 2625 to 2627, and 2629 of this title, and section 6939f of Title 42, The Public Health and Welfare, repealing section 2624 of this title, and enacting provisions set out as a note under this section\], or the amendments made by sections 1 through 19, shall be interpreted to apply retroactively to any State, Federal, or maritime legal action filed before the date of enactment of this Act \[June 22, 2016\]."
+
+#### <b>Executive Documents</b>
 
 #### Federal Compliance With Pollution Control Standards
 

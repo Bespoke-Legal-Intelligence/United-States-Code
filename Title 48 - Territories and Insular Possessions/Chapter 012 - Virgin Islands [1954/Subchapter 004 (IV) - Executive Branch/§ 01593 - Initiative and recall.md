@@ -50,11 +50,15 @@ As used in this section, the term—
 
 (July 22, 1954, ch. 558, §12, 68 Stat. 503; Pub. L. 90–496, §5, Aug. 23, 1968, 82 Stat. 838; Pub. L. 99–396, §1, Aug. 27, 1986, 100 Stat. 837.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–396 amended section generally, substituting provisions giving people of Virgin Islands the rights of initiative and recall and spelling out ways in which those rights are to be exercised for provisions which had formerly only set out a method for removal of Governor by referendum election.
 
 <b>1968</b>—Pub. L. 90–496 substituted provisions authorizing the removal of the Governor from office by a recall referendum for provisions authorizing the appointment of a Government Secretary for the Virgin Islands, and provisions setting forth his powers and duties.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1968 Amendment
 

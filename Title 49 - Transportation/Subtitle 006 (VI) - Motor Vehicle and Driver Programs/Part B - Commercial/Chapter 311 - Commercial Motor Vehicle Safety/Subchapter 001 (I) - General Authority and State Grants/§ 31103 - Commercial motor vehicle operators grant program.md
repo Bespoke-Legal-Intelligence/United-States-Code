@@ -32,6 +32,8 @@ Jan. 6, 1983, Pub. L. 97–424, §403, 96 Stat. 2156; Dec. 18, 1991, Pub. L. 102
 
 The word "rules" is omitted as being synonymous with "regulations".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–94 amended section generally. Prior to amendment, section related to United States Government's share of costs incurred by a State.
@@ -43,6 +45,8 @@ Subsec. (b). Pub. L. 112–141, §32933(d), struck out "authorized by section 31
 <b>2005</b>—Subsec. (a). Pub. L. 109–59 substituted "31102(b)(1)(E)" for "31102(b)(1)(D)" and inserted before last sentence "Amounts generated under the unified carrier registration agreement under section 14504a and received by a State and used for motor carrier safety purposes may be included as part of the State's share not provided by the United States."
 
 <b>1998</b>—Pub. L. 105–178 designated existing provisions as subsec. (a), inserted subsec. heading, inserted "improve commercial motor vehicle safety and" after "implementing programs to", and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -6,7 +6,7 @@ In General.—The Administrator of the Transportation Security Administration sh
 
 (b)
 
-Expansion.—Not later than 180 days after the date of enactment of the TSA Modernization Act, the Administrator shall enter into an agreement, using other transaction authority under section 114(m) of this title, with at least 2 private sector entities to increase the methodsand capabilities available for the public to enroll in the PreCheck Program.
+Expansion.—Not later than 180 days after the date of enactment of the TSA Modernization Act, the Administrator shall enter into an agreement, using other transaction authority under section 114(m) of this title, with at least 2 private sector entities to increase the methods and capabilities available for the public to enroll in the PreCheck Program.
 
 (c)
 
@@ -112,6 +112,8 @@ Assurance of Separate Program.—In carrying out this section, the Administrator
 
 (Added Pub. L. 107–71, title I, §108(a), Nov. 19, 2001, 115 Stat. 611; amended Pub. L. 115–254, div. K, title I, §1937(a), Oct. 5, 2018, 132 Stat. 3576.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 109 of the Aviation and Transportation Security Act, referred to in subsec. (a), is section 109 of Pub. L. 107–71, which is set out as a note under section 114 of this title.
@@ -120,7 +122,13 @@ The date of enactment of the TSA Modernization Act, referred to in subsecs. (b) 
 
 #### Amendments
 
-<b>2018</b>—Pub. L. 115–254 amended section generally. Prior to amendment, section related to establishment of pilot program under which the screening of passengers and property was to be conducted by a qualified private screening company.
+<b>2018</b>—Pub. L. 115–254 amended section generally. Prior to amendment, section related to establishment ofpilot program under which the screening of passengers and property was to be conducted by a qualified private screening company.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Enrollment Redress With Respect to Department of Homeland Security Trusted Traveler Programs
+
+Pub. L. 117–81, div. F, title LXIV, §6417, Dec. 27, 2021, 135 Stat. 2415, provided that: "Notwithstanding any other provision of law, the Secretary of Homeland Security shall, with respect to an individual whose enrollment in a trusted traveler program was revoked in error extend by an amount of time equal to the period of revocation the period of active enrollment in such a program upon reenrollment in such a program by such an individual."
 
 #### PreCheck Expedited Screening
 
@@ -222,7 +230,7 @@ Briefings.—
 
 &emsp;"(1)
 
-In general.—The Administrator shall brief, on a biannual basis, the appropriate committees of Congress on the implementation of subsections \[sic\] (a)until the Administrator certifies that only travelers who are members of trusted traveler programs specified in subsection (b) are permitted to use TSA PreCheck security screening lanes at passenger screening checkpoints.
+In general.—The Administrator shall brief, on a biannual basis, the appropriate committees of Congress on the implementation of subsections \[sic\] (a) until the Administrator certifies that only travelers who are members of trusted traveler programs specified in subsection (b) are permitted to use TSA PreCheck security screening lanes at passenger screening checkpoints.
 
 &emsp;"(2)
 
@@ -244,7 +252,7 @@ Long-term strategy.—Not later than 180 days after the date of enactment of thi
 
 Considerations.—In developing the strategy under paragraph (1), the Administrator shall consider the following:
 
-&emsp;&emsp;"(A) Partnering with air carriers (as the term is defined in section 40102 of title 49, United States Code) to incorporate PreCheck Program promotion opportunities in the reservation process described in section 1560.101 of title 49, Code of Federal Regulations;\[.\]
+&emsp;&emsp;"(A) Partnering with air carriers (as the term is defined in section 40102 of title 49, United States Code) to incorporate PreCheck Program promotion opportunities in the reservation process describedin section 1560.101 of title 49, Code of Federal Regulations;\[.\]
 
 &emsp;&emsp;"(B) Including in the PreCheck Program of \[sic\] an individual who—
 

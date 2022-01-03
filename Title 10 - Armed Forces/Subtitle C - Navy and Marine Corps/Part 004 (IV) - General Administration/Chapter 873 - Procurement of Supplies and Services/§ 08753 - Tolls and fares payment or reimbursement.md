@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 Aug. 2, 1946, ch. 756, §23, 60 Stat. 856.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7523 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

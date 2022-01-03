@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier,may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
+In General.—A railroad carrier engaged in interstate or foreign commerce, a contractor or a subcontractor of such a railroad carrier, or an officer or employee of such a railroad carrier, may not discharge, demote, suspend, reprimand, or in any other way discriminate against an employee if such discrimination is due, in whole or in part, to the employee's lawful, good faith act done, or perceived by the employer to have been done or about to be done—
 
 &emsp;(1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
@@ -66,7 +66,7 @@ Enforcement Action.—
 
 &emsp;(1)
 
-In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of thissection, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
+In general.—An employee who alleges discharge, discipline, or other discrimination in violation of subsection (a), (b), or (c) of this section, may seek relief in accordance with the provisions of this section, with any petition or other request for relief under this section to be initiated by filing a complaint with the Secretary of Labor.
 
 &emsp;(2)
 
@@ -224,6 +224,8 @@ Subsection (d) is substituted for 45:441(d) for clarity and to eliminate unneces
 
 Subsection (e)(2) is substituted for 45:441(f)(2) to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -250,9 +252,17 @@ Subsec. (e)(3). Pub. L. 110–432, §419(b)(2)(D), substituted "(d)" for "(c)".
 
 Subsecs. (f) to (j). Pub. L. 110–432, §419(a)(1), redesignated subsecs. (e) to (i) as (f) to (j), respectively.
 
-<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e)relating to prohibition against discharge or discrimination for filing of complaints or testifying, prohibition against discharge or discrimination for refusal to work because of hazardous conditions, dispute resolution, election of remedies, and nondisclosure of identity of employee who had provided information regarding a violation.
 
-#### Critical Incident Stress Plan
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Critical Incident Stress Plans
+
+Pub. L. 117–58, div. B, title II, §22424, Nov. 15, 2021, 135 Stat. 752, provided that: "The Secretary \[of Transportation\] shall amend part 272 of title 49, Code of Federal Regulations, to the extent necessary to ensure that—
+
+&emsp;"(1) the coverage of a critical incident stress plan under section 272.7 of such part includes employees of commuter railroads and intercity passenger railroads (as such terms are defined in section 272.9 of such part), including employees who directly interact with passengers; and
+
+&emsp;"(2) an assault against an employee requiring medical attention is included in the definition of critical incident under section 272.9 of such part."
 
 Pub. L. 110–432, div. A, title IV, §410, Oct. 16, 2008, 122 Stat. 4887, provided that:
 

@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 July 26, 1947, ch. 343, §202(e); added Aug. 10, 1949, ch. 412, §5 (10th par.), 63 Stat. 580.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–433 renumbered section 132 of this title as this section and substituted "Department of Defense: seal" for "Seal" in section catchline.

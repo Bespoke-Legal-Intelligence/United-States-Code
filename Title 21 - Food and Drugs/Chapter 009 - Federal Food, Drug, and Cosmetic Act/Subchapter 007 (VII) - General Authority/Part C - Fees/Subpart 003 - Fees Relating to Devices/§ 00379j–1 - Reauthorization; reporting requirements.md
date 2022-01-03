@@ -42,7 +42,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) data, analysis, and discussion of the changes in the fee revenue amounts and costs for the process for the review of devices, including identifying drivers of such changes; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, theOffice of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
+&emsp;&emsp;&emsp;&emsp;(III) for each of the Center for Devices and Radiological Health, the Center for Biologics Evaluation and Research, the Office of Regulatory Affairs, and the Office of the Commissioner, the number of employees for whom time reporting is required and the number of employees for whom time reporting is not required.
 
 #### (iv) <sup>2</sup> Analysis
 
@@ -94,7 +94,7 @@
 
 #### (B) Participation in congressional hearing
 
-&emsp;&emsp;Each fiscal year, as applicable and requested, representatives from the Food andDrug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
+&emsp;&emsp;Each fiscal year, as applicable and requested, representatives from the Food and Drug Administration shall participate in a public hearing before the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, to report on the contents described in the reports under this section. Such hearing shall occur not later than 120 days after the end of each fiscal year for which fees are collected under this subpart.
 
 #### (4) Fiscal report
 
@@ -102,7 +102,7 @@
 
 #### (5) Public availability
 
-&emsp;The Secretary shall make the reports required under paragraphs (1) and (2) available to the public on the Internet Web site of the Food and Drug Administration.
+&emsp;The Secretary shall make the reports required under paragraphs (1) and (2) availableto the public on the Internet Web site of the Food and Drug Administration.
 
 #### (b) Reauthorization
 

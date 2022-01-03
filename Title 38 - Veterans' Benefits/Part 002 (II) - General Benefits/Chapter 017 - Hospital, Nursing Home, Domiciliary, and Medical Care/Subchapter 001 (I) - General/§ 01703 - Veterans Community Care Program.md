@@ -180,7 +180,7 @@ Payment Rates for Care and Services.—(1) Except as provided in paragraph (2), 
 
 (2)(A) A higher rate than the rate paid by the United States as described in paragraph (1) may be negotiated with respect to the furnishing of care or services to a covered veteran who resides in a highly rural area.
 
-(B) In this paragraph, the term "highly rural area" means an area located in a county that has fewer than seven individuals residing in that county per square mile.
+(B) In this paragraph, the term "highly rural area" means an area located in a county thathas fewer than seven individuals residing in that county per square mile.
 
 (3) With respect to furnishing care or services under this section in Alaska, the Alaska Fee Schedule of the Department of Veterans Affairs shall be followed, except for when another payment agreement, including a contract or provider agreement, is in effect.
 
@@ -250,13 +250,13 @@ Monitoring of Care Provided.—(1)(A) Not later than 540 days after the date of 
 
 &emsp;(D) Assess the hospital care, medical services, and extended care services furnished to covered veterans under this section by medical facilities operated by Federal agencies other than the Department.
 
-(3) Not later than 540 days after the date of the enactment of the Caring for Our Veterans Act of 2018 and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the information gathered under paragraph (2).
+(3) Not later than 540 days after the date of the enactment of the Caring for Our Veterans Act of2018 and not less frequently than once each year thereafter, the Secretary shall submit to the Committee on Veterans' Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report on the information gathered under paragraph (2).
 
 (n)
 
 Prohibition on Certain Limitations.—(1) The Secretary shall not limit the types of hospital care, medical services, or extended care services covered veterans may receive under this section if it is in the best medical interest of the veteran to receive such hospital care, medical services, or extended care services, as determined by the veteran and the veteran's health care provider.
 
-(2) No provision in this section may be construed to alter or modify any other provision of law establishing specific eligibility criteria forcertain hospital care, medical services, or extended care services.
+(2) No provision in this section may be construed to alter or modify any other provision of law establishing specific eligibility criteria for certain hospital care, medical services, or extended care services.
 
 (o)
 
@@ -417,6 +417,76 @@ Appropriate committees of congress defined.—In this paragraph, the term 'appro
 &emsp;&emsp;"(i) the Committee on Veterans' Affairs and the Committee on Appropriations of the Senate; and
 
 &emsp;&emsp;"(ii) the Committee on Veterans' Affairs and the Committee on Appropriations of the House of Representatives."
+
+#### Support by Department of Veterans Affairs of Maternity Care Coordination
+
+Pub. L. 117–69, §§2, 3, Nov. 30, 2021, 135 Stat. 1495, 1496, provided that:
+
+#### "SEC. 2. DEFINITIONS.
+
+"In this Act \[enacting this note, provisions set out as a note under section 101 of this title, and provisions not classified to the Code\]:
+
+&emsp;"(1)
+
+Maternal mortality.—The term 'maternal mortality' means a death occurring during pregnancy or within a one-year period after pregnancy that is caused by pregnancy-related or childbirth complications, including suicide, overdose, or other death resulting from a mental health or substance use disorder attributed to or aggravated by pregnancy-related or childbirth complications.
+
+&emsp;"(2)
+
+Postpartum.—The term 'postpartum', with respect to an individual, means the one-year period beginning on the last day of the pregnancy of the individual.
+
+&emsp;"(3)
+
+Pregnancy-associated death.—The term 'pregnancy-associated death' means the death of a pregnant or postpartum individual, by any cause, that occurs during pregnancy or within one year following pregnancy, regardless of the outcome, duration, or site of the pregnancy.
+
+&emsp;"(4)
+
+Pregnancy-related death.—The term 'pregnancy-related death' means the death of a pregnantor postpartum individual that occurs during pregnancy or within one year following pregnancy from a pregnancy complication, a chain of events initiated by pregnancy, or the aggravation of an unrelated condition by the physiologic effects of pregnancy.
+
+&emsp;"(5)
+
+Racial and ethnic minority group.—The term 'racial and ethnic minority group' has the meaning given that term in section 1707(g)(1) of the Public Health Service Act (42 U.S.C. 300u–6(g)(1)).
+
+&emsp;"(6)
+
+Severe maternal morbidity.—The term 'severe maternal morbidity' means a health condition, including a mental health condition or substance use disorder, attributed to or aggravated by pregnancy or childbirth that results in significant short-term or long-term consequences to the health of the individual who was pregnant.
+
+#### "SEC. 3. SUPPORT BY DEPARTMENT OF VETERANS AFFAIRS OF MATERNITY CARE COORDINATION.
+
+"(a)
+
+Program on Maternity Care Coordination.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Veterans Affairs shall carry out the maternity care coordination program described in Veterans Health Administration Directive 1330.03.
+
+&emsp;"(2)
+
+Training and support.—In carrying out the program under paragraph (1), the Secretary shall provide to community maternity care providers training and support with respect to the unique needs of pregnant and postpartum veterans, particularly regarding mental and behavioral health conditions relating to the service of those veterans in the Armed Forces.
+
+"(b)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated to the Secretary $15,000,000 for fiscal year 2022 for the program under subsection (a)(1).
+
+&emsp;"(2)
+
+Supplement not supplant.—Amounts authorized under paragraph (1) are authorized in addition to any other amounts authorized for maternity health care and coordination for the Department of Veterans Affairs.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Community maternity care providers.—The term 'community maternity care providers' means maternity care providers located at non-Department facilities who provide maternity care to veterans under section 1703 of title 38, United States Code, or any other law administered by the Secretary of Veterans Affairs.
+
+&emsp;"(2)
+
+Non-department facilities.—The term 'non-Department facilities' has the meaning given that term in section 1701 of title 38, United States Code."
 
 #### Administration of Non-Department of Veterans Affairs Health Care
 
@@ -582,7 +652,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to car
 
 #### Pilot Program of Enhanced Contract Care Authority for Health Care Needs of Veterans in Highly Rural Areas
 
-Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
+Pub. L. 110–387, title IV, §403, Oct. 10, 2008, 122 Stat. 4124, as amended by Pub. L. 111–163, title III, §308, May 5, 2010, 124 Stat. 1155; Pub. L. 113–146, title I, §104, Aug. 7, 2014, 128 Stat. 1766; Pub. L. 113–175, title IV, §409(h), Sept. 26, 2014, 128 Stat. 1908; Pub. L. 114–223, div. A, title II, §242, Sept. 29, 2016, 130 Stat. 884, provided that:
 
 "(a)
 
@@ -634,7 +704,7 @@ Covered Veterans.—For purposes of the pilot program under this section, a cove
 
 "(c)
 
-Covered Health Services.—For purposes of the pilot program under this section, a covered health service with respect to a covered veteran is any hospital care, medical service, rehabilitative service, or preventative health service that is authorized to be provided by the Secretary to the veteran under chapter 17 of title 38, United States Code, or any other provision of law.
+Covered Health Services.—For purposes of the pilot program under this section, a covered health service with respect to a covered veteran is any hospital care, medical service, rehabilitative service, or preventative health service that is authorized to be provided by the Secretary to the veteran under chapter 17of title 38, United States Code, or any other provision of law.
 
 "(d)
 

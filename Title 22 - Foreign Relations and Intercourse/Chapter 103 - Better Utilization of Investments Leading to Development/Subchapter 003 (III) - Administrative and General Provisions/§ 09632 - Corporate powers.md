@@ -34,7 +34,7 @@ The Corporation—
 
 &emsp;(15) may make arrangements with foreign governments (including agencies, instrumentalities, or political subdivisions of such governments) or with multilateral organizations or institutions for sharing liabilities;
 
-&emsp;(16) may sell direct investments of the Corporation to private investors upon such termsand conditions as the Corporation may determine; and
+&emsp;(16) may sell direct investments of the Corporation to private investors upon such terms and conditions as the Corporation may determine; and
 
 &emsp;(17) shall have such other powers as may be necessary and incident to carrying out the functions of the Corporation.
 

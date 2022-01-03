@@ -44,7 +44,7 @@ Procedure for request by independent counsel.—(A) If the independent counsel d
 
 &emsp;&emsp;(ii) the 30-day period referred to in subparagraph (A) elapses without a notification to the division of the court that no further investigation is warranted,
 
-> &emsp;the division of the court shall expand the jurisdiction of the appropriate independentcounsel to include the matters involved or shall appoint another independent counsel to investigate such matters.
+> &emsp;the division of the court shall expand the jurisdiction of the appropriate independent counsel to include the matters involved or shall appoint another independent counsel to investigate such matters.
 
 (d)
 
@@ -110,7 +110,7 @@ Subsecs. (f), (g). Pub. L. 97–409, §5, added subsecs. (f) and (g).
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 
-Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, or after June 30, 1994, and, notwithstanding restriction in subsec. (b)(2) of this section, the division of the court described in section 49 of this title is authorized to appoint as an independent counsel any individual who, on June 30, 1994, is serving as a regulatory independent counsel under parts 600 and 603 of title 28, Code of Federal Regulations, see section 7(a), (h) of Pub. L. 103–270, set out as a note under section 591 of this title.
+Amendment by Pub. L. 103–270 applicable with respect to independent counsels appointed before, on, orafter June 30, 1994, and, notwithstanding restriction in subsec. (b)(2) of this section, the division of the court described in section 49 of this title is authorized to appoint as an independent counsel any individual who, on June 30, 1994, is serving as a regulatory independent counsel under parts 600 and 603 of title 28, Code of Federal Regulations, see section 7(a), (h) of Pub. L. 103–270, set out as a note under section 591 of this title.
 
 #### Effective Date of 1987 Amendment
 

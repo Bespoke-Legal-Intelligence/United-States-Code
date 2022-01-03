@@ -26,11 +26,15 @@ July 5, 1884, ch. 214, §6, 23 Stat. 104.
 
 The words "may permit" are substituted for the words "shall have authority, in his discretion, to permit". The words "to permit the extension of State, county, and Territorial roads across military reservations" are omitted as superseded by section 2668 of this title. In clause (3), the word "livestock" is substituted for the words "cattle, sheep or other stock animals".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4777 of this title as this section.
 
 <b>1980</b>—Pub. L. 96–513 substituted "reservations" for "reservation" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

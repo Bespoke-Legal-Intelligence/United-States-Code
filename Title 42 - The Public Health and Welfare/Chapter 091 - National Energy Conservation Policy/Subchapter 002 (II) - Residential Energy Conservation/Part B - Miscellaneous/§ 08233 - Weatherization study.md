@@ -10,9 +10,13 @@ The President shall conduct a study which shall monitor the weatherization activ
 
 (Pub. L. 95–619, title II, §254, Nov. 9, 1978, 92 Stat. 3237.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

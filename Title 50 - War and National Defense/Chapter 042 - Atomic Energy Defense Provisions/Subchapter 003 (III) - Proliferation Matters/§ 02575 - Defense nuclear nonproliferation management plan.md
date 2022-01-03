@@ -78,6 +78,8 @@ The plan required by subsection (a) shall include, with respect to each defense 
 
 (Pub. L. 107–314, div. D, title XLIII, §4309, as added Pub. L. 114–92, div. C, title XXXI, §3132(a)(1), Nov. 25, 2015, 129 Stat. 1202; amended Pub. L. 115–91, div. C, title XXXI, §§3114(b), 3133(f), Dec. 12, 2017, 131 Stat. 1885, 1897; Pub. L. 115–232, div. A, title X, §1081(e)(3), Aug. 13, 2018, 132 Stat. 1986.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(16) to (18). Pub. L. 115–232 redesignated pars. (17) and (18) as (16) and (17), respectively.
@@ -100,7 +102,7 @@ Subsec. (c)(9). Pub. L. 115–91, §3133(f)(3)(D), substituted "the summary requ
 
 Subsec. (c)(10). Pub. L. 115–91, §3133(f)(3)(E), substituted "the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be," for "the plan required by subsection (a)".
 
-Subsec. (c)(14) to (16). Pub. L. 115–91, §3133(f)(2), redesignated pars. (15) and (16) as (14) and (15), respectively, and struck out former par. (14) which read as follows:"A description of funds for the program expected to be received during that five-year period through contributions from or cost-sharing agreements with foreign governments consistent section 2569(f) of this title."
+Subsec. (c)(14) to (16). Pub. L. 115–91, §3133(f)(2), redesignated pars. (15) and (16) as (14) and (15), respectively, and struck out former par. (14) which read as follows: "A description of funds for the program expected to be received during that five-year period through contributions from or cost-sharing agreements with foreign governments consistent section 2569(f) of this title."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "with".</i>
 

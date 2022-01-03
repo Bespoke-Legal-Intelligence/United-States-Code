@@ -58,7 +58,7 @@ Relevant factors.—In making any certification under this paragraph with respec
 
 (c)
 
-Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants). The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
+Additional Personnel.—For the purposes of carrying out the duties of an office of independent counsel, such independent counsel may appoint, fix the compensation, and assign the duties of such employees as such independent counsel considers necessary (including investigators, attorneys, and part-time consultants).The positions of all such employees are exempted from the competitive service. Such employees shall be compensated at levels not to exceed those payable for comparable positions in the Office of United States Attorney for the District of Columbia under sections 548 and 550, but in no event shall any such employee be compensated at a rate greater than the rate of basic pay payable for level ES–4 of the Senior Executive Service Schedule under section 5382 of title 5, as adjusted for the District of Columbia under section 5304 of that title regardless of the locality in which an employee is employed.
 
 (d)
 
@@ -70,7 +70,7 @@ In carrying out functions.—An independent counsel may request assistance from 
 
 &emsp;(2)
 
-Payment of and reports on expenditures of independent counsel.—The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
+Payment of and reports on expenditures of independent counsel.—The Department of Justice shall pay all costs relating to the establishment and operation of any office of independent counsel. The Attorney General shall submit to the Congress, not later than 30 days after the end of each fiscal year, a report on amounts paid during that fiscal year for expenses of investigations and prosecutions by independent counsel. Each such report shall include a statement of all payments made for activities of independent counsel but may not reveal the identity or prosecutorial jurisdiction of any independent counsel which has not been disclosed under section 593(b)(4).
 
 (e)
 
@@ -110,7 +110,7 @@ Disclosure of information in reports.—The division of the court may release to
 
 &emsp;(3)
 
-Publication of reports.—At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the public through the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
+Publication of reports.—At the request of an independent counsel, the Director of the Government Publishing Office shall cause to be printed any report previously released to the public under paragraph (2). The independent counsel shall certify the number of copies necessary for the public, and the Director of the Government Publishing Office shall place the cost of the required number to the debit of such independent counsel. Additional copies shall be made available to the publicthrough the depository library program and Superintendent of Documents sales program pursuant to sections 1702 and 1903 of title 44.
 
 (i)
 
@@ -134,7 +134,7 @@ Restrictions on employment while independent counsel and appointees are serving.
 
 &emsp;(2)
 
-Post employment restrictions on independent counsel and appointees.—(A) Eachindependent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
+Post employment restrictions on independent counsel and appointees.—(A) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 3 years following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter if that individual was the subject of an investigation or prosecution under this chapter that was conducted by that independent counsel.
 
 &emsp;(B) Each independent counsel and each person appointed by that independent counsel under subsection (c) may not, for 1 year following the termination of the service under this chapter of that independent counsel or appointed person, as the case may be, represent any person in any matter involving any investigation or prosecution under this chapter.
 
@@ -188,7 +188,7 @@ Records provided by congress.—Records of an investigation conducted by a commi
 
 &emsp;&emsp;(A) shall be maintained as a separate body of records within the records of the independent counsel; and
 
-&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records of the House of Congress that provided the records to the independent counsel.
+&emsp;&emsp;(B) shall, after the records have been transferred to the Archivist under this chapter, be made available, except as provided in paragraph (3)(B) and (C), in accordance with the rules governing release of the records ofthe House of Congress that provided the records to the independent counsel.
 
 > &emsp;Subparagraph (B) shall not apply to those records which have been surrendered pursuant to grand jury or court proceedings.
 
@@ -218,7 +218,7 @@ Department of justice policies.—An independent counsel shall comply with the e
 
 &emsp;(2)
 
-Administrative support.—The Director of the Administrative Office of the UnitedStates Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel's expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
+Administrative support.—The Director of the Administrative Office of the United States Courts shall provide administrative support and guidance to each independent counsel. No officer or employee of the Administrative Office of the United States Courts shall disclose information related to an independent counsel's expenditures, personnel, or administrative acts or arrangements without the authorization of the independent counsel.
 
 &emsp;(3)
 
@@ -270,7 +270,7 @@ Subsec. (a)(10). Pub. L. 97–409, §6(a), added par. (10).
 
 Subsecs. (b), (c). Pub. L. 97–409, §2(a)(1)(A), substituted "independent counsel" for "special prosecutor" wherever appearing.
 
-Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
+Subsecs. (d), (e). Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and"independent counsel's" for "special prosecutor's" wherever appearing.
 
 Subsec. (f). Pub. L. 97–409, §§2(a)(1)(A), 6(b), substituted "independent counsel" for "special prosecutor", "except where not possible" for "to the extent that such special prosecutor deems appropriate", and "written or other established policies" for "written policies".
 

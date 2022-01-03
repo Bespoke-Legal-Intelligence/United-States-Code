@@ -20,7 +20,7 @@ A farmers' cooperative organization described in subsection (b)(1) shall be exem
 
 #### (4) Transactions with nonmembers
 
-&emsp;Exemption shall not be denied any such association which markets the products of nonmembers in an amount the value of which does not exceed the value of the products marketed for members, or which purchases supplies andequipment for nonmembers in an amount the value of which does not exceed the value of the supplies and equipment purchased for members, provided the value of the purchases made for persons who are neither members nor producers does not exceed 15 percent of the value of all its purchases.
+&emsp;Exemption shall not be denied any such association which markets the products of nonmembers in an amount the value of which does not exceed the value of the products marketed for members, or which purchases supplies and equipment for nonmembers in an amount the value of which does not exceed the value of the supplies and equipment purchased for members, provided the value of the purchases made for persons who are neither members nor producers does not exceed 15 percent of the value of all its purchases.
 
 #### (5) Business for the United States
 
@@ -36,6 +36,8 @@ A farmers' cooperative organization described in subsection (b)(1) shall be exem
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 176; Pub. L. 87–834, §17(b)(1), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 99–272, title XIII, §13210(b), Apr. 7, 1986, 100 Stat. 324; Pub. L. 108–357, title III, §316(b), Oct. 22, 2004, 118 Stat. 1469.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b)(7). Pub. L. 108–357 added par. (7).
@@ -43,6 +45,8 @@ A farmers' cooperative organization described in subsection (b)(1) shall be exem
 <b>1986</b>—Subsec. (b)(6). Pub. L. 99–272 added par. (6).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 substituted "part I of subchapter T (sec. 1381 and following)" for "section 522" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

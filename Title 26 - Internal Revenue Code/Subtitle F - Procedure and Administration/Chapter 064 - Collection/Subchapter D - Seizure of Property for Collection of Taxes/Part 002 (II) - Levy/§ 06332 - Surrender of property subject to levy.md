@@ -12,7 +12,7 @@ Except as otherwise provided in this section, any person in possession of (or ob
 
 #### (2) Satisfaction of levy
 
-&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to which such levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
+&emsp;Such levy shall be deemed to be satisfied if such organization pays over to the Secretary the amount which the person against whom the tax is assessed could have had advanced to him by such organization on the date prescribed in paragraph (1) for the satisfaction of such levy, increased by the amount of any advance (including contractual interest thereon) made to such person on or after the date such organization had actual notice or knowledge (within the meaning of section 6323(i)(1)) of the existence of the lien with respect to whichsuch levy is made, other than an advance (including contractual interest thereon) made automatically to maintain such contract in force under an agreement entered into before such organization had such notice or knowledge.
 
 #### (3) Enforcement proceedings
 
@@ -26,7 +26,7 @@ Any bank (as defined in section 408(n)) shall surrender (subject to an attachmen
 
 #### (1) Extent of personal liability
 
-&emsp;Any person who fails or refuses to surrender any property or rights to property, subject to levy, upon demand by the Secretary, shall be liable in his own person and estate to theUnited States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
+&emsp;Any person who fails or refuses to surrender any property or rights to property, subject to levy, upon demand by the Secretary, shall be liable in his own person and estate to the United States in a sum equal to the value of the property or rights not so surrendered, but not exceeding the amount of taxes for the collection of which such levy has been made, together with costs and interest on such sum at the underpayment rate established under section 6621 from the date of such levy (or, in the case of a levy described in section 6331(d)(3), from the date such person would otherwise have been obligated to pay over such amounts to the taxpayer). Any amount (other than costs) recovered under this paragraph shall be credited against the tax liability for the collection of which such levy was made.
 
 #### (2) Penalty for violation
 
@@ -41,6 +41,8 @@ Any person in possession of (or obligated with respect to) property or rights to
 The term "person," as used in subsection (a), includes an officer or employee of a corporation or a member or employee of a partnership, who as such officer, employee, or member is under a duty to surrender the property or rights to property, or to discharge the obligation.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 784; Pub. L. 89–719, title I, §104(b), Nov. 2, 1966, 80 Stat. 1135; Pub. L. 93–625, §7(a)(2)(D), Jan. 3, 1975, 88 Stat. 2115; Pub. L. 94–455, title XII, §1209(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1710, 1834; Pub. L. 99–514, title XV, §1511(c)(9), Oct. 22, 1986, 100 Stat. 2745; Pub. L. 100–647, title I, §1015(t)(1), title VI, §6236(e), Nov. 10, 1988, 102 Stat. 3573, 3739; Pub. L. 101–508, title XI, §11704(a)(27), Nov. 5, 1990, 104 Stat. 1388–519.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -77,6 +79,8 @@ Subsec. (c). Pub. L. 89–719, §104(b)(2)–(4), redesignated as par. (1) provi
 Subsec. (d). Pub. L. 89–719, §104(b)(4), added subsec. (d).
 
 Subsec. (e). Pub. L. 89–719, §104(b)(3), redesignated former subsec. (c) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

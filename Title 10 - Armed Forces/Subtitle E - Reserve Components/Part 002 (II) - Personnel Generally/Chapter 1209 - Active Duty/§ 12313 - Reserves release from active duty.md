@@ -36,6 +36,8 @@ In subsection (a), the word "title" is substituted for the word "chapter". The p
 
 Subsection (b) is substituted for 50:967(b). Clause (3) is inserted, since other provisions of law are necessarily exceptions to the general rule here stated.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 681 of this title as this section.

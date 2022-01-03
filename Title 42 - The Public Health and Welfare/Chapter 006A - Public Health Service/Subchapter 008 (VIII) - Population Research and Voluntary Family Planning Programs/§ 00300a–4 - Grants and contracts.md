@@ -26,6 +26,8 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 
 (July 1, 1944, ch. 373, title X, §1006, as added Pub. L. 91–572, §6(c), Dec. 24, 1970, 84 Stat. 1507; amended Pub. L. 94–63, title II, §204(c), (d), July 29, 1975, 89 Stat. 308; Pub. L. 95–613, §1(a)(2), Nov. 8, 1978, 92 Stat. 3093.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–613 added subsec. (d).
@@ -33,6 +35,8 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 <b>1975</b>—Subsec. (a). Pub. L. 94–63, §204(c), inserted provisions relating to amount of grants authorized pursuant to sections of this subchapter.
 
 Subsec. (c). Pub. L. 94–63, §204(d), inserted provision relating to economic status as part of the criteria to be included within definition of "low-income family".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1975 Amendment
 

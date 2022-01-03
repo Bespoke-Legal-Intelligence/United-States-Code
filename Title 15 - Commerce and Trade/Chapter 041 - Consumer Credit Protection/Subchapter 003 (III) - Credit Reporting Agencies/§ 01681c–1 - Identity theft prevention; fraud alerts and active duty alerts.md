@@ -14,7 +14,7 @@
 
 &emsp;In any case in which a consumer reporting agency includes a fraud alert in the file of a consumer pursuant to this subsection, the consumer reporting agency shall—
 
-&emsp;&emsp;(A) disclose to the consumer that the consumer may request a free copy of the file of the consumer pursuant to section 1681j(d) of this title; and
+&emsp;&emsp;(A) disclose to the consumer that the consumer may request a free copy of the file ofthe consumer pursuant to section 1681j(d) of this title; and
 
 &emsp;&emsp;(B) provide to the consumer all disclosures required to be made under section 1681g of this title, without charge to the consumer, not later than 3 business days after any request described in subparagraph (A).
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who submits an identity theft report to a consumer reportingagency described in section 1681a(p) of this title that maintains a file on the consumer, if the agency has received appropriate proof of the identity of the requester, the agency shall—
+&emsp;Upon the direct request of a consumer, or an individual acting on behalf of or as a personal representative of a consumer, who submits an identity theft report to a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the consumer, if the agency has received appropriate proof of the identity of the requester, the agency shall—
 
 &emsp;&emsp;(A) include a fraud alert in the file of that consumer, and also provide that alert along with any credit score generated in using that file, during the 7-year period beginning on the date of such request, unless the consumer or such representative requests that such fraud alert be removed before the end of such period and the agency has received appropriate proof of the identity of the requester for such purpose;
 
@@ -76,7 +76,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 #### (A) Notification
 
-&emsp;&emsp;Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users ofa consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B).
+&emsp;&emsp;Each initial fraud alert and active duty alert under this section shall include information that notifies all prospective users of a consumer report on the consumer to which the alert relates that the consumer does not authorize the establishment of any new credit plan or extension of credit, other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B).
 
 #### (B) Limitation on users
 
@@ -200,7 +200,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 "Consumers Have the Right To Obtain a Security Freeze
 
-"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed to prevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
+"You have a right to place a 'security freeze' on your credit report, which will prohibit a consumer reporting agency from releasing information in your credit report without your express authorization. The security freeze is designed toprevent credit, loans, and services from being approved in your name without your consent. However, you should be aware that using a security freeze to take control over who gets access to the personal and financial information in your credit report may delay, interfere with, or prohibit the timely approval of any subsequent request or application you make regarding a new loan, credit, mortgage, or any other account involving the extension of credit.
 
 "As an alternative to a security freeze, you have the right to place an initial or extended fraud alert on your credit file at no cost. An initial fraud alert is a 1-year alert that is placed on a consumer's credit file. Upon seeing a fraud alert display on a consumer's credit file, a business is required to take steps to verify the consumer's identity before extending new credit. If you are a victim of identity theft, you are entitled to an extended fraud alert, which is a fraud alert lasting 7 years.
 
@@ -278,7 +278,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;Upon receiving a direct request from a protected consumer's representative that a consumer reporting agency place a security freeze, and upon receiving sufficient proof of identification and sufficient proof of authority, the consumer reporting agency shall, free of charge, place the security freeze not later than—
 
-&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means,1 business day after receiving the request directly from the protected consumer's representative; or
+&emsp;&emsp;&emsp;(i) in the case of a request that is by toll-free telephone or secure electronic means, 1 business day after receiving the request directly from the protected consumer's representative; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a request that is by mail, 3 business days after receiving the request directly from the protected consumer's representative.
 
@@ -360,6 +360,8 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 (Pub. L. 90–321, title VI, §605A, as added Pub. L. 108–159, title I, §112(a), Dec. 4, 2003, 117 Stat. 1955; amended Pub. L. 111–203, title X, §1088(a)(2)(C), July 21, 2010, 124 Stat. 2087; Pub. L. 115–174, title III, §§301(a), 302(d)(1), May 24, 2018, 132 Stat. 1326, 1334.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1602(i) of this title, referred to in subsec. (h), was redesignated section 1602(j) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
@@ -375,6 +377,8 @@ Subsecs. (i), (j). Pub. L. 115–174, §301(a)(2), added subsecs. (i) and (j).
 Subsec. (k). Pub. L. 115–174, §302(d)(1), added subsec. (k).
 
 <b>2010</b>—Subsecs. (c)(1), (g). Pub. L. 111–203 substituted "the Bureau" for "the Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

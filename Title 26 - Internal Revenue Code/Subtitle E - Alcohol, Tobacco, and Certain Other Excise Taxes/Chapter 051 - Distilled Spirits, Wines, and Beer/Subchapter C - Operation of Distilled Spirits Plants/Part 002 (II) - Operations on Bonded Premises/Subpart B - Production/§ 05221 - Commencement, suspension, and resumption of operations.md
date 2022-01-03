@@ -10,15 +10,19 @@ The proprietor of a distilled spirits plant authorized to produce distilled spir
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1364; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §806(b), July 26, 1979, 93 Stat. 279.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsec. (a) of this section were contained in prior section 5191(a), act Aug. 16, 1954, ch. 736, 68A Stat. 632, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "until written notice has been given to the Secretary stating when operations will begin" for "until an internal revenue officer has been assigned to the premises".
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "until written notice has been given to the Secretary statingwhen operations will begin" for "until an internal revenue officer has been assigned to the premises".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 

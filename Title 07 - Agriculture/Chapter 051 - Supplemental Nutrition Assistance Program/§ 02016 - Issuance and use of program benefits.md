@@ -58,7 +58,7 @@ Notwithstanding any other provision of this chapter, the State agency shall be s
 
 #### (B) EBT cards
 
-&emsp;&emsp;Effective beginning on the date that is 1 year after the date of enactment of theFood, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
+&emsp;&emsp;Effective beginning on the date that is 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008, only an EBT card issued under subsection (i) shall be eligible for exchange at any retail food store.
 
 #### (C) De-obligation of coupons
 
@@ -236,7 +236,7 @@ In general.—A State agency may require that an electronic benefit card contain
 
 &emsp;(B)
 
-Other authorized users.—If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the Stateagency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
+Other authorized users.—If a State agency requires a photograph on an electronic benefit card under subparagraph (A), the State agency shall establish procedures to ensure that any other appropriate member of the household or any authorized representative of the household may utilize the card.
 
 (10)
 
@@ -360,13 +360,13 @@ Demonstration projects on access of benefits through mobile technologies.—
 
 &emsp;&emsp;(i)
 
-Demonstration projects.—Before authorizing implementation of subparagraph (A) in all States, the Secretary shall approve not more than 5 demonstration project proposals submitted by State agencies that will pilot the use of mobile technologies for supplemental nutrition assistance program benefits access.
+Demonstration projects.—Before authorizing implementation of subparagraph (A) in all States, the Secretary shall approve not more than 5 demonstration project proposals submitted by State agencies that willpilot the use of mobile technologies for supplemental nutrition assistance program benefits access.
 
 &emsp;&emsp;(ii)
 
 Project requirements.—To be eligible to participate in a demonstration project under clause (i), a State agency shall submit to the Secretary for approval a plan that—
 
-&emsp;&emsp;&emsp;(I) provides recipient protections regarding privacy, ease of use, household accessto benefits, and support similar to the protections provided under existing methods;
+&emsp;&emsp;&emsp;(I) provides recipient protections regarding privacy, ease of use, household access to benefits, and support similar to the protections provided under existing methods;
 
 &emsp;&emsp;&emsp;(II) ensures that all recipients, including those without access to mobile payment technology and those who shop across State borders, have a means of benefit access;
 
@@ -442,7 +442,7 @@ Report to congress.—The Secretary shall—
 
 #### (6) Ineligibility for administrative reimbursement
 
-&emsp;Administrative and other costs incurred in issuing a benefit under this subsection shall not be eligible for Federal funding under this chapter.
+&emsp;Administrative and other costs incurred in issuing a benefit under this subsection shallnot be eligible for Federal funding under this chapter.
 
 #### (7) Exclusion from enhanced payment accuracy systems
 
@@ -524,13 +524,13 @@ Report to congress.—The Secretary shall—
 
 #### (C) Smart card systems
 
-&emsp;&emsp;The Secretary shall allow a State agency that is using smart cards for the delivery of supplemental nutrition assistance program benefits to comply with the requirements of paragraph (2) at such time after October 1, 2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
+&emsp;&emsp;The Secretary shall allow a State agency that is using smart cards for the delivery of supplemental nutrition assistance program benefits to comply with the requirements of paragraph (2) at such time after October 1,2002, as the Secretary determines that a practicable technological method is available for interoperability with electronic benefit transfer cards.
 
 #### (6) Funding
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with regulations promulgated by the Secretary, the Secretary shallpay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions—
+&emsp;&emsp;In accordance with regulations promulgated by the Secretary, the Secretary shall pay 100 percent of the costs incurred by a State agency under this chapter for switching and settling interstate transactions—
 
 &emsp;&emsp;&emsp;(i) incurred after February 11, 2000, and before October 1, 2002, if the State agency uses the standard of interoperability and portability adopted by a majority of State agencies; and
 
@@ -591,6 +591,8 @@ Report to congress.—The Secretary shall—
 &emsp;&emsp;&emsp;(vi) such other criteria, including security criteria, as established by the Secretary.
 
 (Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309; Pub. L. 110–234, title IV, §§4001(b), 4002(a)(4), 4113–4115(a), May 22, 2008, 122 Stat. 1092, 1093, 1103; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(4), 4113–4115(a), June 18, 2008, 122 Stat. 1664, 1853, 1854, 1864, 1865; Pub. L. 111–203, title X, §1075(b), July 21, 2010, 124 Stat. 2074; Pub. L. 113–79, title IV, §§4002(b)–(d), 4010–4011(b)(2)(A), 4030(e), Feb. 7, 2014, 128 Stat. 783, 784, 789–792, 814; Pub. L. 115–334, title IV, §§4001(b), 4006(a)–(e), Dec. 20, 2018, 132 Stat. 4624, 4634, 4635.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -680,7 +682,7 @@ Subsec. (k). Pub. L. 113–79, §4011(b)(1), added subsec. (k).
 
 <b>2008</b>—Pub. L. 110–246, §4115(a)(1), substituted "program benefits" for "coupons" in section catchline.
 
-Subsec. (a). Pub. L. 110–246, §4115(a)(1), inserted heading and substituted "Except as provided in subsection (i), EBT cards shall be" for "Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be".
+Subsec. (a). Pub. L. 110–246, §4115(a)(1), inserted heading and substituted "Except as provided in subsection (i), EBT cards shall be" for "Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary,and (except as provided in subsection (j) of this section) shall be".
 
 Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
@@ -776,9 +778,9 @@ Subsec. (i)(2)(I). Pub. L. 104–193, §825(a)(2)(D)–(F), added subpar. (I).
 
 Subsec. (i)(7) to (11). Pub. L. 104–193, §825(a)(3), added pars. (7) to (11).
 
-<b>1994</b>—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: "The State agency shall establish such a procedure for eligible households residing on reservations."
+<b>1994</b>—Subsec. (h)(1). Pub. L. 103–225 inserted second sentence and struck out former second sentence which read as follows: "The State agency shall establish sucha procedure for eligible households residing on reservations."
 
-<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuancesby the State agency or through supplemental issuances."
+<b>1990</b>—Subsec. (h). Pub. L. 101–624, §1728, amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "The State agency may implement a procedure for staggering the issuance of coupons to eligible households throughout the entire month: <i>Provided</i>, That the procedure ensures that, in the transition period from other issuance procedures, no eligible household experiences an interval between coupon issuances of more than 40 days, either through regular issuances by the State agency or through supplemental issuances."
 
 Subsec. (i). Pub. L. 101–624, §1729(a), added subsec. (i).
 
@@ -805,6 +807,8 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 <b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted provision for issuance of coupon allotment in such amount as the Secretary determines to be the cost of a nutritionally adequate diet, adjusted annually to reflect changes in prices of food published by Bureau of Labor Statistics for prior provision for issuance in such amount as will provide households with an opportunity more nearly to obtain a low-cost nutritionally adequate diet and inserted "any" before "households".
 
 Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -852,6 +856,24 @@ Pub. L. 113–79, title IV, §4011(c), Feb. 7, 2014, 128 Stat. 793, provided tha
 
 #### Additional Assistance for SNAP Online Purchasing and Technology Improvements
 
+Pub. L. 117–2, title I, §1102, Mar. 11, 2021, 135 Stat. 15, provided that:
+
+"(a)
+
+Funding.—In addition to amounts otherwise made available, there is appropriated for fiscal year 2021, out of any amounts in the Treasury not otherwise appropriated, $25,000,000 to remain available through September 30, 2026, to carry out this section.
+
+"(b)
+
+Use of Funds.—The Secretary of Agriculture may use the amounts made available pursuant to subsection (a)—
+
+&emsp;"(1) to make technological improvements to improve online purchasing in the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
+
+&emsp;"(2) to modernize electronic benefit transfer technology;
+
+&emsp;"(3) to support the mobile technologies demonstration projects and the use of mobile technologies authorized under section 7(h)(14) of the Food and Nutrition Act of 2008 (7 U.S.C. 2016(h)(14)); and
+
+&emsp;"(4) to provide technical assistance to educate retailers on the process and technical requirements for the online acceptance of the supplemental nutrition assistance program benefits, for mobile payments, and for electronic benefit transfer modernization initiatives."
+
 Pub. L. 116–260, div. N, title VII, §703, Dec. 27, 2020, 134 Stat. 2094, provided that:
 
 "(a)
@@ -864,7 +886,7 @@ Resources for SNAP Online Purchasing.—Not later than 60 days after the date of
 
 "(b)
 
-Snap Online Purchasing Assistance for Direct-marketing Farmers and Farmers' Markets.—The Secretary, on a competitive basis, shall enter into cooperative agreements with, or provide grants to, not more than 5 eligible entities to build out functionality,and provide assistance to direct-marketing farmers and farmers' markets to accept SNAP benefits through online transactions.
+Snap Online Purchasing Assistance for Direct-marketing Farmers and Farmers' Markets.—The Secretary, on a competitive basis, shall enter into cooperative agreements with, or provide grants to, not more than 5 eligible entities to build out functionality, and provide assistance to direct-marketing farmers and farmers' markets to accept SNAP benefits through online transactions.
 
 &emsp;"(1)
 

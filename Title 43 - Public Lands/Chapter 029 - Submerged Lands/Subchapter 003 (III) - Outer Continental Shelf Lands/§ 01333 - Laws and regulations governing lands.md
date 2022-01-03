@@ -40,13 +40,13 @@ With respect to disability or death of an employee resulting from any injury occ
 
 #### (c) National Labor Relations Act applicable
 
-For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], anyunfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
+For the purposes of the National Labor Relations Act, as amended \[29 U.S.C. 151 et seq.\], any unfair labor practice, as defined in such Act, occurring upon any artificial island, installation, or other device referred to in subsection (a) of this section shall be deemed to have occurred within the judicial district of the State, the laws of which apply to such artificial island, installation, or other device pursuant to such subsection, except that until the President determines the areas within which such State laws are applicable, the judicial district shall be that of the State nearest the place of location of such artificial island, installation, or other device.
 
 #### (d) Coast Guard regulations; marking of artificial islands, installations, and other devices; failure of owner suitably to mark according to regulations
 
 (1) The Secretary of the Department in which the Coast Guard is operating shall have authority to promulgate and enforce such reasonable regulations with respect to lights and other warning devices, safety equipment, and other matters relating to the promotion of safety of life and property on the artificial islands, installations, and other devices referred to in subsection (a) or on the waters adjacent thereto, as he may deem necessary.
 
-(2) The Secretary of the Department in which the Coast Guard is operating may mark for the protection of navigation any artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking.
+(2) The Secretary of the Department in which the Coast Guard is operating may mark for theprotection of navigation any artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking.
 
 #### (e) Authority of Secretary of the Army to prevent obstruction to navigation
 
@@ -82,7 +82,7 @@ Subsec. (c). Pub. L. 95–372, §203(d), (h), redesignated subsec. (d) as (c) an
 
 Subsec. (d)(1). Pub. L. 95–372, §203(e)(1), (f), (h), redesignated subsec. (e)(1) as (d)(1), substituted "Secretary" for "head" and "artificial islands, installations, and other devices" for "islands and structures". Former subsec. (d) redesignated (c).
 
-Subsec. (d)(2). Pub. L. 95–372, §203(g), (h), redesignated subsec. (e)(2) as (d)(2) and substituted "Secretary" for "head" and "artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issuedunder this subchapter, and the owner shall pay the cost of such marking" for "such island or structure whenever the owner has failed suitably to mark the same in accordance with regulations issued hereunder, and the owner shall pay the cost thereof", and struck out provisions which had made failure or refusal to obey any lawful rules and regulations a misdemeanor punishable by a fine of not more than $100, with each day during which such a violation would continue to be deemed a new offense. Former subsec. (d) redesignated (c).
+Subsec. (d)(2). Pub. L. 95–372, §203(g), (h), redesignated subsec. (e)(2) as (d)(2) and substituted "Secretary" for "head" and "artificial island, installation, or other device referred to in subsection (a) whenever the owner has failed suitably to mark such island, installation, or other device in accordance with regulations issued under this subchapter, and the owner shall pay the cost of such marking" for "such island or structure whenever the owner has failed suitably to mark the same in accordance with regulations issued hereunder, and the owner shall pay the cost thereof", and struck out provisions which had made failure or refusal to obey any lawful rules and regulations a misdemeanor punishable by a fine of not more than $100, with each day during which such a violation would continue to be deemed a new offense. Former subsec. (d) redesignated (c).
 
 Subsec. (e). Pub. L. 95–372, §203(e)(2), (h), redesignated subsec. (f) as (e) and substituted "the artificial islands, installations, and other devices referred to in subsection (a)" for "artificial islands and fixed structures located on the outer Continental Shelf". Former subsec. (e) redesignated (d).
 
@@ -94,7 +94,7 @@ Subsecs. (f), (g). Pub. L. 95–372, §203(e)(3), (h), redesignated subsec. (g) 
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "settling".</i>
 

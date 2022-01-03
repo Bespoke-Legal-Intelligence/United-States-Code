@@ -4,6 +4,8 @@ This chapter, divided into subchapters, may be cited as "the Defense Production 
 
 (Sept. 8, 1950, ch. 932, §1, 64 Stat. 798.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This chapter, referred to in text, was in the original "this Act", meaning act S
 #### Codification
 
 Section was formerly classified to section 2061 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -22,7 +26,7 @@ Pub. L. 111–67, §1(a), Sept. 30, 2009, 123 Stat. 2006, provided that: "This A
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–367, §1, Oct. 8, 2008, 122 Stat. 4026, provided that: "This Act \[see Tables for classification\] may becited as the 'Defense Production Act Extension and Reauthorization of 2008'."
+Pub. L. 110–367, §1, Oct. 8, 2008, 122 Stat. 4026, provided that: "This Act \[see Tables for classification\] may be cited as the 'Defense Production Act Extension and Reauthorization of 2008'."
 
 #### Short Title of 2007 Amendment
 
@@ -87,6 +91,8 @@ Act June 30, 1952, ch. 530, §1, 66 Stat. 296, provided: "That this Act \[see Ta
 #### Short Title of 1951 Amendment
 
 Act July 31, 1951, ch. 275, §1, 65 Stat. 131, provided: "That this Act \[see Tables for classification\] may be cited as the 'Defense Production Act Amendments of 1951'."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

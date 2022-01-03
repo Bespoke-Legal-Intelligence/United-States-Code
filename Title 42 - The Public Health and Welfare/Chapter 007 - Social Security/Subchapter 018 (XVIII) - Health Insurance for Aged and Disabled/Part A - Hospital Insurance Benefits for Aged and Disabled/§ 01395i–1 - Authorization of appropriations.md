@@ -12,6 +12,8 @@ There are authorized to be appropriated to the Federal Hospital Insurance Trust 
 
 (Pub. L. 89–97, title I, §111(d), July 30, 1965, 79 Stat. 343.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 426(c) of this title, referred to in par. (1), was redesignated section 426(d) of this title by Pub. L. 92–603, title II, §201(b)(5), Oct. 30, 1972, 86 Stat. 1372.
@@ -21,6 +23,8 @@ The Railroad Retirement Act of 1937, referred to in par. (1), is act Aug. 29, 19
 #### Codification
 
 Section was enacted as part of the Social Security Amendments of 1965 and also as part of the Health Insurance for the Aged Act, and not as part of the Social Security Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

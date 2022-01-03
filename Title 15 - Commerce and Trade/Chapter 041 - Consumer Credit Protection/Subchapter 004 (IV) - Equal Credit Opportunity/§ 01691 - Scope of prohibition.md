@@ -16,7 +16,7 @@ It shall not constitute discrimination for purposes of this subchapter for a cre
 
 &emsp;(1) to make an inquiry of marital status if such inquiry is for the purpose of ascertaining the creditor's rights and remedies applicable to the particular extension of credit and not to discriminate in a determination of credit-worthiness;
 
-&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of incomelevels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Bureau;
+&emsp;(2) to make an inquiry of the applicant's age or of whether the applicant's income derives from any public assistance program if such inquiry is for the purpose of determining the amount and probable continuance of income levels, credit history, or other pertinent element of credit-worthiness as provided in regulations of the Bureau;
 
 &emsp;(3) to use any empirically derived credit system which considers age if such system is demonstrably and statistically sound in accordance with regulations of the Bureau, except that in the operation of such system the age of an elderly applicant may not be assigned a negative factor or value;
 
@@ -58,7 +58,7 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 #### (1) In general
 
-&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals and valuations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
+&emsp;Each creditor shall furnish to an applicant a copy of any and all written appraisals andvaluations developed in connection with the applicant's application for a loan that is secured or would have been secured by a first lien on a dwelling promptly upon completion, but in no case later than 3 days prior to the closing of the loan, whether the creditor grants or denies the applicant's request for credit or the application is incomplete or withdrawn.
 
 #### (2) Waiver
 
@@ -80,7 +80,9 @@ It is not a violation of this section for a creditor to refuse to extend credit 
 
 &emsp;For purposes of this subsection, the term "valuation" shall include any estimate of the value of a dwelling developed in connection with a creditor's decision to provide credit, including those values developed pursuant to a policy of a government sponsored enterprise or by an automated valuation model, a broker price opinion, or other methodology or mechanism.
 
-(Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521;amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§1071(b), 1085(1), title XIV, §1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
+(Pub. L. 90–321, title VII, §701, as added Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521; amended Pub. L. 94–239, §2, Mar. 23, 1976, 90 Stat. 251; Pub. L. 102–242, title II, §223(d), Dec. 19, 1991, 105 Stat. 2306; Pub. L. 111–203, title X, §§1071(b), 1085(1), title XIV, §1474, July 21, 2010, 124 Stat. 2059, 2083, 2199.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -97,6 +99,8 @@ Subsec. (e). Pub. L. 111–203, §1474, amended subsec. (e) generally. Prior to 
 Subsec. (b). Pub. L. 94–239 designated existing provisions as cl. (1) and added cls. (2) to (4).
 
 Subsecs. (c), (d). Pub. L. 94–239 added subsecs. (c) and (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -45,7 +45,7 @@
 | [2584\.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002584%20-%20Dual%20compensation%20exemption.md) | Dual compensation exemption. |
 | 2585 to 2593. Repealed. |  |
 | [2593a.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593a%20-%20Annual%20report%20to%20Congress.md) | Annual report to Congress. |
-| [2593b.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593b%20-%20Public%20annual%20report%20on%20world%20military%20expenditures%20and%20arms%20transfers.md) | Public annual report on world military expenditures and arms transfers. |
+| [2593b.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593b%20-%20Repealed.%20Pub.%20L.%20117%E2%80%9381%2C%20div.%20E%2C%20title%20LI%2C%20%C2%A75114%28b%29%284%29%2C%20Dec.%2027%2C%202021%2C%20135%20Stat.%202352.md) | Repealed. |
 | 2593c, 2593d. Repealed. |  |
 | [2593e.](Subchapter%20004%20%28IV%29%20-%20Additional%20General%20Provisions/%C2%A7%2002593e%20-%20Measures%20against%20persons%20involved%20in%20activities%20that%20violate%20arms%20control%20treaties%20or%20agreements%20with%20the%20United%20States.md) | Measures against persons involved in activities that violate arms control treaties or agreements with the United States. |
 
@@ -60,6 +60,7 @@
 | [2595b.](Subchapter%20005%20%28V%29%20-%20On-Site%20Inspection%20Activities/%C2%A7%2002595b%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93277%2C%20div.%20G%2C%20subdiv.%20A%2C%20title%20XII%2C%20%C2%A71222%2C%20Oct.%2021%2C%201998%2C%20112%20Stat.%202681%E2%80%93768.md) | Repealed. |
 | 2595b–1. | Review of certain reprogramming notifications. |
 | [2595c.](Subchapter%20005%20%28V%29%20-%20On-Site%20Inspection%20Activities/%C2%A7%2002595c%20-%20Definitions.md) | Definitions. |
+| [2595d.](Subchapter%20005%20%28V%29%20-%20On-Site%20Inspection%20Activities/%C2%A7%2002595d%20-%20Annual%20report%20on%20comprehensive%20nuclear-test-ban%20treaty%20sensors.md) | Annual report on comprehensive nuclear-test-ban treaty sensors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

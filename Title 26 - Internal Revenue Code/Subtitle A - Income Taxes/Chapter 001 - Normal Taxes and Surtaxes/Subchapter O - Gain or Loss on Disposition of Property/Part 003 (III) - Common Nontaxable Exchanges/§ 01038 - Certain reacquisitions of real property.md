@@ -74,6 +74,8 @@ Under regulations prescribed by the Secretary, if an installment obligation is i
 
 (Added Pub. L. 88–570, §2(a), Sept. 2, 1964, 78 Stat. 854; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title IV, §§404(c)(6), 405(c)(3), Nov. 6, 1978, 92 Stat. 2870, 2871; Pub. L. 96–471, §4, Oct. 19, 1980, 94 Stat. 2255; Pub. L. 104–188, title I, §1616(b)(12), Aug. 20, 1996, 110 Stat. 1857; Pub. L. 105–34, title III, §312(d)(8), Aug. 5, 1997, 111 Stat. 840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (e). Pub. L. 105–34 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "If—
@@ -102,6 +104,8 @@ Subsec. (e)(1)(B). Pub. L. 95–600, §405(c)(3), which directed the amendment o
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–34 applicable to sales and exchanges after May 6, 1997, with certain exceptions, see section 312(d) of Pub. L. 105–34, set out as a note under section 121 of this title.
@@ -126,7 +130,7 @@ Pub. L. 88–570, §2(c), Sept. 2, 1964, 78 Stat. 856, provided that:
 
 "(1) The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Sept. 2, 1964\].
 
-"(2) If the taxpayer makes an election under this paragraph, the amendments made by this section \[enacting this section\] shall also apply to taxable years beginning after December 31, 1957, except that such amendments shall not apply with respect to any reacquisition of real property in a taxable year for which the assessment of a deficiency, or the credit or refund of an overpayment, is prevented on the date of the enactment of this Act \[Sept. 2, 1964\] by the operation ofany law or rule of law. An election under this paragraph shall be made within one year after the date of the enactment of this Act and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations.
+"(2) If the taxpayer makes an election under this paragraph, the amendments made by this section \[enacting this section\] shall also apply to taxable years beginning after December 31, 1957, except that such amendments shall not apply with respect to any reacquisition of real property in a taxable year for which the assessment of a deficiency, or the credit or refund of an overpayment, is prevented on the date of the enactment of this Act \[Sept. 2, 1964\] by the operation of any law or rule of law. An election under this paragraph shall be made within one year after the date of the enactment of this Act and shall be made in such form and manner as the Secretary of the Treasury or his delegate shall prescribe by regulations.
 
 "(3) If an election is made by the taxpayer under paragraph (2), and if the assessment of a deficiency, or the credit or refund of an overpayment, for any taxable year to which such election applies is not prevented on the date of the enactment of this Act \[Sept. 2, 1964\] by the operation of any law or rule of law—
 

@@ -92,6 +92,8 @@ There are authorized to be appropriated to the Secretary for the Office of Arcti
 
 (Pub. L. 109–58, title IX, §961, Aug. 8, 2005, 119 Stat. 889; Pub. L. 116–260, div. Z, title IV, §4001, Dec. 27, 2020, 134 Stat. 2527.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsecs. (a)(1) and (b), was in the original "this subtitle", meaning subtitle F (§§961–968) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 889, which enacted this part and provisions set out as notes under section 2001 of Title 30, Mineral Lands and Mining, and amended provisions set out as a note under section 1902 of Title 30. For complete classification of subtitle F to the Code, see Tables.
@@ -108,9 +110,9 @@ Pub. L. 116–260, §4001(3), added subpars. (G) to (L) and struck out former su
 
 Pub. L. 116–260, §4001(2), in subpar. (F), as redesignated, inserted ", including technology development to reduce emissions of carbon dioxide and associated emissions of heavy metals within coal combustion residues and gas streams resulting from fossil fuel use and production" before period at end.
 
-Pub. L. 116–260, §4001(1), redesignated pars. (1) to (7) of subsec. (a) as subpars. (A) to (G) and realigned margins.
+Pub. L. 116–260, §4001(1), redesignated pars. (1) to (7) of subsec. (a) as subpars. (A) to (G), respectively, and realigned margins.
 
-Subsec. (a)(3). Pub. L. 116–260, §4001(6), added par. (3)
+Subsec. (a)(3). Pub. L. 116–260, §4001(6), added par. (3).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

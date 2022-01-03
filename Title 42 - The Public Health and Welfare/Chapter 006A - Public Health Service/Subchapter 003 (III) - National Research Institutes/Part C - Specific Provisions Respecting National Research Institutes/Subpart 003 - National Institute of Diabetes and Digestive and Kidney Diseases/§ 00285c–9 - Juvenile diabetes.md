@@ -10,13 +10,17 @@ The Secretary, acting through the Director of the National Institutes of Health,
 
 #### (c) Prevention of type 1 diabetes
 
-The Secretary, acting through the appropriate agencies, shall provide for a national effort to prevent type 1 diabetes. Such effort shall provide for a combination of increased efforts in research and development of prevention strategies, including consideration of vaccine development, coupled with appropriate ability to test the effectiveness of such strategies in large clinical trials of children and young adults.
+The Secretary, acting through the appropriate agencies, shall provide for a national effort toprevent type 1 diabetes. Such effort shall provide for a combination of increased efforts in research and development of prevention strategies, including consideration of vaccine development, coupled with appropriate ability to test the effectiveness of such strategies in large clinical trials of children and young adults.
 
 (July 1, 1944, ch. 373, title IV, §434A, as added Pub. L. 106–310, div. A, title IV, §402, Oct. 17, 2000, 114 Stat. 1112; amended Pub. L. 109–482, title I, §103(b)(21), Jan. 15, 2007, 120 Stat. 3688.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2007</b>—Subsec. (d). Pub. L. 109–482 struck out heading and text of subsec. (d). Text read as follows: "For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

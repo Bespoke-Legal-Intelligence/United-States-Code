@@ -32,7 +32,7 @@ The Technical Panel shall submit to the Energy Research Advisory Board on at lea
 
 &emsp;(2) an assessment and evaluation of the status of the programs mandated by this chapter; and
 
-&emsp;(3) comments on and recommendations for improvements in the comprehensive program management plan required under section 9002 of this title.
+&emsp;(3) comments on and recommendations for improvements in the comprehensive programmanagement plan required under section 9002 of this title.
 
 #### (f) Submittal of report to Secretary of Energy
 
@@ -47,6 +47,8 @@ The heads of the departments, agencies, and instrumentalities of the executive b
 The Secretary shall provide sufficient staff, funds, and other support as necessary to enable the Technical Panel to carry out the functions described in this section.
 
 (Pub. L. 96–310, §8, July 17, 1980, 94 Stat. 945.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Panels
 

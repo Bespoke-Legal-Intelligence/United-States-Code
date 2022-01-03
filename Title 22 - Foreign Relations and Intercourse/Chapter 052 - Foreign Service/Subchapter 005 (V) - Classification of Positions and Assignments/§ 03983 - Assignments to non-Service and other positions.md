@@ -18,7 +18,7 @@ The Secretary may (with the concurrence of the agency, organization, or other bo
 
 (2) The salary of a member of the Service assigned under this section shall be paid from appropriations made available for the payment of salaries and expenses of the Service. Such appropriations may be reimbursed for all or any part of the costs of salaries and other benefits for members assigned under this section.
 
-(3) A member of the Service assigned under subsection (a)(4) to a Member or office of the Congress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
+(3) A member of the Service assigned under subsection (a)(4) to a Member or office of theCongress shall be deemed to be an employee of the House of Representatives or the Senate, as the case may be, for purposes of payment of travel and other expenses.
 
 #### (c) Length of assignment
 

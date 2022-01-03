@@ -90,7 +90,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 &emsp;&emsp;&emsp;(ii) any commodity pool operator registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the commodity pool operator that require the commodity pool operator to be registered under that Act, or a commodity pool, as defined in that Act;
 
-&emsp;&emsp;&emsp;(iii) any commodity trading advisor or introducing broker registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7U.S.C. 1 et seq.), with respect to the activities of the commodity trading advisor or introducing broker that require the commodity trading adviser or introducing broker to be registered under that Act;
+&emsp;&emsp;&emsp;(iii) any commodity trading advisor or introducing broker registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the commodity trading advisor or introducing broker that require the commodity trading adviser or introducing broker to be registered under that Act;
 
 &emsp;&emsp;&emsp;(iv) any derivatives clearing organization registered with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 et seq.), with respect to the activities of the derivatives clearing organization that require the derivatives clearing organization to be registered under that Act;
 
@@ -120,7 +120,7 @@ As used in this Act, the following definitions shall apply, except as the contex
 
 &emsp;The—
 
-&emsp;&emsp;(A) terms "broker", "dealer", "issuer", "nationally recognized statistical rating organization", "security", and "securities laws" have the same meanings as in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c);
+&emsp;&emsp;(A) terms "broker", "dealer", "issuer", "nationally recognized statistical rating organization", "security", and "securitieslaws" have the same meanings as in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c);
 
 &emsp;&emsp;(B) term "investment adviser" has the same meaning as in section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2); and
 
@@ -196,7 +196,7 @@ Pub. L. 113–173, §1, Sept. 26, 2014, 128 Stat. 1899, provided that: "This Act
 
 Pub. L. 111–203, §1(a), July 21, 2010, 124 Stat. 1376, provided that: "This Act \[see Tables for classification\] may be cited as the 'Dodd-Frank Wall Street Reform and Consumer Protection Act'."
 
-Pub. L. 111–203, title I, §101, July 21, 2010, 124 Stat. 1391, provided that: "This title \[enacting subchapter I of this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78o of Title 15, Commerce and Trade\] may be cited as the 'Financial Stability Act of 2010'."
+Pub. L. 111–203, title I, §101, July 21, 2010, 124 Stat. 1391, provided that: "This title \[enacting subchapter Iof this chapter and amending sections 1818, 1820, 1833b, and 3105 of this title, sections 3132 and 5314 of Title 5, Government Organization and Employees, and section 78o of Title 15, Commerce and Trade\] may be cited as the 'Financial Stability Act of 2010'."
 
 Pub. L. 111–203, title III, §300, July 21, 2010, 124 Stat. 1520, provided that: "This title \[enacting subchapter III of this chapter and sections 4b and 16 of this title, amending sections 1, 11, 248, 461, 481, 482, 1438, 1462 to 1464, 1466a to 1468b, 1470, 1701c, 1701p–1, 1708, 1757, 1785, 1786, 1787, 1812, 1813, 1817, 1818, 1820, 1821, 1823, 1828, 1829, 1831e, 1831j, 1833b, 1833e, 1834, 1841, 1843, 1844, 1861, 1867, 1881, 1882, 1884, 1972, 2709, 2902, 2905, 3206 to 3208, 3332, 4515, and 4517 of this title, section 906 of Title 2, The Congress, sections 78c, 78l, 78o–5, and 78w of Title 15, Commerce and Trade, sections 212, 657, 981, 982, 1006, 1014, and 1032 of Title 18, Crimes and Criminal Procedure, sections 321 and 714 of Title 31, Money and Finance, sections 4003 and 8105 of Title 42, The Public Health and Welfare, and section 3502 of Title 44, Public Printing and Documents, repealing section 1441a of this title, enacting provisions set out as notes under sections 1, 16, 1438, 1787, 1812, 1817, and 1821 of this title and section 906 of Title 2, and amending provisions set out as notes under sections 1437, 1463, 1464, 1467a, 1707, 1812, and 1818 of this title and section 509 of Title 28, Judiciary and Judicial Procedure\] may be cited as the 'Enhancing Financial Institution Safety and Soundness Act of 2010'."
 
@@ -208,41 +208,9 @@ Pub. L. 111–203, title XII, §1201, July 21, 2010, 124 Stat. 2129, provided th
 
 #### <b>Executive Documents</b>
 
-#### Ex. Ord. No. 13772. Core Principles for Regulating the United States Financial System
+#### Executive Order No. 13772
 
-Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, provided:
-
-By the power vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
-
-Section 1. <i>Policy</i>. It shall be the policy of my Administration to regulate the United States financial system in a manner consistent with the following principles of regulation, which shall be known as the Core Principles:
-
-(a) empower Americans to make independent financial decisions and informed choices in the marketplace, save for retirement, and build individual wealth;
-
-(b) prevent taxpayer-funded bailouts;
-
-(c) foster economic growth and vibrant financial markets through more rigorous regulatory impact analysis that addresses systemic risk and market failures, such as moral hazard and information asymmetry;
-
-(d) enable American companies to be competitive with foreign firms in domestic and foreign markets;
-
-(e) advance American interests in international financial regulatory negotiations and meetings;
-
-(f) make regulation efficient, effective, and appropriately tailored; and
-
-(g) restore public accountability within Federal financial regulatory agencies and rationalize the Federal financial regulatory framework.
-
-Sec. 2. <i>Directive to the Secretary of the Treasury</i>. The Secretary of the Treasury shall consult with the heads of the member agencies of the Financial Stability Oversight Council and shall report to the President within 120 days of the date of this order (and periodically thereafter) on the extent to which existing laws,treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies promote the Core Principles and what actions have been taken, and are currently being taken, to promote and support the Core Principles. That report, and all subsequent reports, shall identify any laws, treaties, regulations, guidance, reporting and recordkeeping requirements, and other Government policies that inhibit Federal regulation of the United States financial system in a manner consistent with the Core Principles.
-
-Sec. 3. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Ex. Ord. No. 13772, Feb. 3, 2017, 82 F.R. 9965, which set out Core Principles for regulating the United States financial system, was revoked by Ex. Ord. No. 14018, §1, Feb. 24, 2021, 86 F.R. 11855.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

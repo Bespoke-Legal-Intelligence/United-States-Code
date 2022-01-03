@@ -32,11 +32,15 @@ Subsection (a) shall not apply to information conveyed to an attorney, certified
 
 (Added Pub. L. 104–168, title XII, §1203(a), July 30, 1996, 110 Stat. 1470.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7435 was renumbered 7437 of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 104–168, title XII, §1203(c), July 30, 1996, 110 Stat. 1471, provided that: "The amendments made by this section \[enacting this section and renumberingformer section 7435 as 7436 of this title\] shall apply to actions after the date of the enactment of this Act \[July 30, 1996\]."
+Pub. L. 104–168, title XII, §1203(c), July 30, 1996, 110 Stat. 1471, provided that: "The amendments made by this section \[enacting this section and renumbering former section 7435 as 7436 of this title\] shall apply to actions after the date of the enactment of this Act \[July 30, 1996\]."
 

@@ -34,7 +34,7 @@ Section 4302(d), referred to in subsec. (b)(2)(B), probably was a reference to s
 
 The Truth in Lending Act, referred to in subsec. (b)(2)(B), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(B), probably means the Real Estate Settlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+The Real Estate Settlement Procedures Act, referred to in subsec. (b)(2)(B), probably means the Real EstateSettlement Procedures Act of 1974, Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

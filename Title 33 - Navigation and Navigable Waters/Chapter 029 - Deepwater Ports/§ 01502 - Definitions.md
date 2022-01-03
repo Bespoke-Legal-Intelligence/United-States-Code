@@ -12,7 +12,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(5) "coastal environment" means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including <sup>1</sup> waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
 
-&emsp;(6) "coastal State" means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico;
+&emsp;(6) "coastal State" means any State of the United States in or bordering on the Atlantic,Pacific, or Arctic Oceans, or the Gulf of Mexico;
 
 &emsp;(7) "construction" means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port;
 

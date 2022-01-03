@@ -126,7 +126,7 @@ Education and Training.—
 
 &emsp;(1)
 
-Funding levels.—The head of an executive agency shall set forth separately the funding levels requested for educating and training the acquisition workforce in the budget justification documents submitted insupport of the President's budget submitted to Congress under section 1105 of title 31.
+Funding levels.—The head of an executive agency shall set forth separately the funding levels requested for educating and training the acquisition workforce in the budget justification documents submitted in support of the President's budget submitted to Congress under section 1105 of title 31.
 
 &emsp;(2)
 
@@ -192,7 +192,7 @@ Shortage category positions.—For purposes of sections 3304, 5333, and 5753 of 
 
 &emsp;(2)
 
-Termination of authority.—The head of a department or agency may not appoint an individual to a position of employment under this subsection after September 30, 2017.
+Termination of authority.—The head of a department or agency may not appoint anindividual to a position of employment under this subsection after September 30, 2017.
 
 (k)
 
@@ -336,7 +336,7 @@ Subsec. (j)(2). Pub. L. 112–239, §1103, substituted "September 30, 2017" for 
 
 Subsec. (i)(2). Pub. L. 112–81, §864(d)(1), substituted "to support the activities set forth in section 1201(a) of this title" for "to support the training of the acquisition workforce of the executive agencies".
 
-Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), as amended by Pub. L. 112–239, §1076(a)(15), substituted "ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title." for "ensure that amounts collected under this subsection are not used for a purpose other than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title."
+Subsec. (i)(6). Pub. L. 112–81, §864(d)(2), as amended by Pub. L. 112–239, §1076(a)(15), substituted "ensure that amounts collected under this section are not used for a purpose other than the activities set forth in section 1201(a) of this title." for "ensure that amounts collected under this subsection are not used for a purposeother than the purpose specified in subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title."
 
 Pub. L. 112–74 struck out "for training" after "amounts collected" and substituted "subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this title" for "paragraph (2)".
 

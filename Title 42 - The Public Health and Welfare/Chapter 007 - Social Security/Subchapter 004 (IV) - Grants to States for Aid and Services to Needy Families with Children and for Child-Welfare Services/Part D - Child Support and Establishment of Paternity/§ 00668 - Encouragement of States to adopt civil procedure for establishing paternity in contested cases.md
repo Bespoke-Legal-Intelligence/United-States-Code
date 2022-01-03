@@ -4,9 +4,13 @@ In the administration of the child support enforcement program under this part, 
 
 (Aug. 14, 1935, ch. 531, title IV, §468, as added Pub. L. 100–485, title I, §111(d), Oct. 13, 1988, 102 Stat. 2350; amended Pub. L. 104–193, title III, §331(c), Aug. 22, 1996, 110 Stat. 2230.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–193 struck out "a simple civil process for voluntarily acknowledging paternity and" after "implement".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

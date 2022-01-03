@@ -10,7 +10,7 @@ Any person against whom a civil penalty is assessed under subsection (a) of this
 
 #### (c) Failure to pay assessment of civil penalty; recovery by Attorney General
 
-Except as provided in subsection (g) of this section, if any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriatecourt has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States.
+Except as provided in subsection (g) of this section, if any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States.
 
 #### (d) In rem liability for civil penalty; jurisdiction; maritime lien on vessel
 
@@ -35,6 +35,8 @@ If a vessel used in a violation of section 973c(a)(1), (2), (3), (4), (5), (6), 
 > there shall be no referral to the Attorney General under subsection (c) of this section or in rem action under subsection (d) of this section in connection with such civil penalty.
 
 (Pub. L. 100–330, §8, June 7, 1988, 102 Stat. 594; Pub. L. 100–350, §4(1), (2), June 27, 1988, 102 Stat. 660.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

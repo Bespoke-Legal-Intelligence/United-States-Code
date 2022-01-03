@@ -8,9 +8,13 @@ Assistance under this chapter—
 
 (Added Pub. L. 99–399, title VIII, §806(d)(1), Aug. 27, 1986, 100 Stat. 888; amended Pub. L. 103–337, div. A, title X, §1070(e)(7), Oct. 5, 1994, 108 Stat. 2859.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Par. (1). Pub. L. 103–337 substituted "3524" for "1724".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

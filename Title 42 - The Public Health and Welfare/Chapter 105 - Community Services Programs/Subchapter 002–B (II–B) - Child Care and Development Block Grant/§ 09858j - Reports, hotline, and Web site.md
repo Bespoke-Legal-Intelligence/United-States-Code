@@ -50,13 +50,15 @@ Not later than July 31, 2016, and biennially thereafter, the Secretary shall pre
 
 #### (F) High-quality consumer education and referral
 
-&emsp;&emsp;The Web site and hotline shall ensure that families have access to easy-to-understandchild care consumer education and referral services.
+&emsp;&emsp;The Web site and hotline shall ensure that families have access to easy-to-understand child care consumer education and referral services.
 
 #### (3) Prohibition
 
 &emsp;Nothing in this subsection shall be construed to allow the Secretary to compel States to provide additional data and information that is currently (as of November 19, 2014) not publicly available, or is not required by this subchapter, unless such additional data are related to the purposes and scope of this subchapter, and are subject to a notice and comment period of no less than 90 days.
 
 (Pub. L. 97–35, title VI, §658L, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–244; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §612, Aug. 22, 1996, 110 Stat. 2285; Pub. L. 105–33, title V, §5602(3), Aug. 5, 1997, 111 Stat. 646; Pub. L. 113–186, §8(d), Nov. 19, 2014, 128 Stat. 1997.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -67,6 +69,8 @@ Not later than July 31, 2016, and biennially thereafter, the Secretary shall pre
 <b>1996</b>—Pub. L. 104–193 substituted "July 31, 1997, and biennially thereafter" for "July 31, 1993, and annually thereafter" and "Committee on Economic and Educational Opportunities" for "Committee on Education and Labor".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

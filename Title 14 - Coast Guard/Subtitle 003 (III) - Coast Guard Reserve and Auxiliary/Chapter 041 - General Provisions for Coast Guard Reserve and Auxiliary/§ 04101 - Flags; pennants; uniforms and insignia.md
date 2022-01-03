@@ -1,6 +1,6 @@
 ### §4101. Flags; pennants; uniforms and insignia
 
-The Secretary may prescribe one or more suitable distinguishing flags, pennants, or other identifying insignia to be displayed by the motorboats, yachts, aircraft, and radio stations owned by members of the Auxiliary and one or more suitable insignia which may be worn by members of the Reserve or the Auxiliary, and may prescribe one or more suitable uniforms which may be worn by members of the Auxiliary. Such flags, pennants, uniforms, and insignia may be furnished by the Coast Guard at actual cost, and the proceeds received therefor shall be credited to current appropriations from which purchase of these articles is authorized.
+The Secretary may prescribe one or more suitable distinguishing flags, pennants, or otheridentifying insignia to be displayed by the motorboats, yachts, aircraft, and radio stations owned by members of the Auxiliary and one or more suitable insignia which may be worn by members of the Reserve or the Auxiliary, and may prescribe one or more suitable uniforms which may be worn by members of the Auxiliary. Such flags, pennants, uniforms, and insignia may be furnished by the Coast Guard at actual cost, and the proceeds received therefor shall be credited to current appropriations from which purchase of these articles is authorized.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 557, §891; renumbered §4101, Pub. L. 115–282, title I, §120(b), Dec. 4, 2018, 132 Stat. 4237.)
 

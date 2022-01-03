@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may prohibit or restrict the importation, entry, exportation, or movement in interstate commerce of any plant, plant product, biological control organism, noxious weed, article, or means of conveyance, if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into the United States or the dissemination of a plant pest or noxious weed within the United States.
+The Secretary may prohibit or restrict the importation, entry, exportation, or movement ininterstate commerce of any plant, plant product, biological control organism, noxious weed, article, or means of conveyance, if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into the United States or the dissemination of a plant pest or noxious weed within the United States.
 
 #### (b) Policy
 
@@ -78,13 +78,17 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 #### (3) Duties of the Secretary
 
-&emsp;In the case of a petition submitted under paragraph (2), the Secretary shall act on the petition within a reasonable time and notify the petitioner of the final action the Secretary takes on the petition. The Secretary's determination on the petition shall be based on sound science.
+&emsp;In the case of a petition submitted under paragraph (2), the Secretary shall act on thepetition within a reasonable time and notify the petitioner of the final action the Secretary takes on the petition. The Secretary's determination on the petition shall be based on sound science.
 
 (Pub. L. 106–224, title IV, §412, June 20, 2000, 114 Stat. 441.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 This chapter, referred to in subsec. (d)(2)(E), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

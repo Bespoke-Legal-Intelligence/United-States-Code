@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than April 30 of each year, the Secretary of State shall submit to the appropriatecongressional committees an Annual Report on International Child Abduction. The Secretary shall post the Annual Report to the publicly accessible website of the Department of State.
+Not later than April 30 of each year, the Secretary of State shall submit to the appropriate congressional committees an Annual Report on International Child Abduction. The Secretary shall post the Annual Report to the publicly accessible website of the Department of State.
 
 #### (b) Contents
 
@@ -20,7 +20,7 @@ Each Annual Report shall include—
 
 &emsp;(2) for each country with respect to which there were 5 or more pending abduction cases, during the preceding year, relating to a child whose habitual residence is the United States—
 
-&emsp;&emsp;(A) the number of such new abduction and access cases reported during the preceding year;
+&emsp;&emsp;(A) the number of such new abduction and access cases, respectively, reported during the preceding year and the number of children involved;
 
 &emsp;&emsp;(B) for Convention and bilateral procedures countries—
 
@@ -30,7 +30,7 @@ Each Annual Report shall include—
 
 &emsp;&emsp;(C) the reason for the delay in submission of each case identified in subparagraph (B)(ii) by the Central Authority of such country to the judicial or administrative authority of that country;
 
-&emsp;&emsp;(D) the number of unresolved abduction and access cases, and the length of time each case has been pending;
+&emsp;&emsp;(D) the number of unresolved abduction and access cases, respectively, the number of children involved, and the length of time each case has been pending;
 
 &emsp;&emsp;(E) the number and percentage of unresolved abduction cases in which law enforcement authorities have—
 
@@ -68,11 +68,13 @@ Each Annual Report shall include—
 
 &emsp;&emsp;(C) to address pending abduction and access cases;
 
-&emsp;(7) the number of cases resolved without abducted children being returned to the United States from Convention countries, bilateral procedures countries, or other non-Convention countries;
+&emsp;(7) the number of cases resolved without abducted children being returned to the United States from Convention countries, bilateral procedures countries, or other non-Convention countries, and number of children involved in such cases;
 
-&emsp;(8) a list of countries that became Convention countries with respect to the United States during the preceding year; and
+&emsp;(8) a list of countries that became Convention countries with respect to the United States during the preceding year;
 
-&emsp;(9) information about efforts to seek resolution of abduction cases of children whose habitual residence is in the United States and whose abduction occurred before the Hague Abduction Convention entered into force with respect to the United States.
+&emsp;(9) information about efforts to seek resolution of abduction cases of children whose habitual residence is in the United States and whose abduction occurred before the Hague Abduction Convention entered into force with respect to the United States; and
+
+&emsp;(10) the total number of pending cases the Department of State has assigned to case officers and number of children involved for each country and as a total for all countries.
 
 #### (c) Exceptions
 
@@ -116,11 +118,21 @@ Each Annual Report shall also include—
 
 &emsp;&emsp;(C) shall indicate whether noneconomic policy options designed to resolve the pattern of noncompliance have reasonably been exhausted, including the consultations required under section 9123 of this title.
 
-(Pub. L. 113–150, title I, §101, Aug. 8, 2014, 128 Stat. 1813.)
+(Pub. L. 113–150, title I, §101, Aug. 8, 2014, 128 Stat. 1813; Pub. L. 117–81, div. E, title LVII, §5702, Dec. 27, 2021, 135 Stat. 2381.)
 
 #### <b>Editorial Notes</b>
 
 #### Codification
 
 Section is comprised of section 101 of Pub. L. 113–150. Subsec. (e) of section 101 of Pub. L. 113–150 repealed section 11611 of Title 42, The Public Health and Welfare.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(A). Pub. L. 117–81, §5702(1)(A), inserted ", respectively," after "access cases" and "and the number of children involved" before semicolon at end.
+
+Subsec. (b)(2)(D). Pub. L. 117–81, §5702(1)(B), inserted "respectively, the number of children involved," after "access cases,".
+
+Subsec. (b)(7). Pub. L. 117–81, §5702(2), inserted ", and number of children involved in such cases" before semicolon at end.
+
+Subsec. (b)(10). Pub. L. 117–81, §5702(3)–(5), added par. (10).
 

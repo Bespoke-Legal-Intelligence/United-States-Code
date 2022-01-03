@@ -12,9 +12,11 @@ For the purpose of—
 
 #### (b) Membership; chairman; meetings
 
-Each Committee shall be composed of the Directors of each of the national research institutes and divisions involved in research regarding the diseases with respect to which the Committee is established, the Under Secretary for Health of the Department of Veterans Affairs, and the Assistant Secretary of Defense for Health Affairs (or the designees of such officers), and representatives of all other Federal departments and agencies (as determined by the Secretary) whose programs involve health functions or responsibilities relevant to arthritis and musculoskeletal diseases or skin diseases, as the case may be. Each Committee shall be chairedby the Director of NIH (or the designee of the Director). Each Committee shall meet at the call of the chairman, but not less often than four times a year.
+Each Committee shall be composed of the Directors of each of the national research institutes and divisions involved in research regarding the diseases with respect to which the Committee is established, the Under Secretary for Health of the Department of Veterans Affairs, and the Assistant Secretary of Defense for Health Affairs (or the designees of such officers), and representatives of all other Federal departments and agencies (as determined by the Secretary) whose programs involve health functions or responsibilities relevant to arthritis and musculoskeletal diseases or skin diseases, as the case may be. Each Committee shall be chaired by the Director of NIH (or the designee of the Director). Each Committee shall meet at the call of the chairman, but not less often than four times a year.
 
 (July 1, 1944, ch. 373, title IV, §439, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 849; amended Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XX, §2008(b)(6), June 10, 1993, 107 Stat. 211; Pub. L. 105–362, title VI, §601(a)(1)(D), Nov. 10, 1998, 112 Stat. 3285.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

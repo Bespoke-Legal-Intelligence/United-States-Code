@@ -36,7 +36,7 @@ In this section—
 
 &emsp;The regulations prescribed under subsection (b) shall—
 
-&emsp;&emsp;(A) prohibit a securitizer from directly or indirectly hedging or otherwise transferring the credit risk that the securitizer is required to retain with respect to an asset;
+&emsp;&emsp;(A) prohibit a securitizer from directly or indirectly hedging or otherwise transferringthe credit risk that the securitizer is required to retain with respect to an asset;
 
 &emsp;&emsp;(B) require a securitizer to retain—
 
@@ -76,7 +76,7 @@ In this section—
 
 &emsp;&emsp;&emsp;(ii) a total or partial exemption for the securitization of an asset issued or guaranteed by the United States, or an agency of the United States, as the Federal banking agencies and the Commission jointly determine appropriate in the public interest and for the protection of investors, except that, for purposes of this clause, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation are not agencies of the United States;
 
-&emsp;&emsp;&emsp;(iii) a total or partial exemption for any asset-backed security that is a security issued or guaranteed by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of a State or territorythat is exempt from the registration requirements of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by reason of section 3(a)(2) of that Act (15 U.S.C. 77c(a)(2)), or a security defined as a qualified scholarship funding bond in section 150(d)(2) of title 26, as may be appropriate in the public interest and for the protection of investors; and
+&emsp;&emsp;&emsp;(iii) a total or partial exemption for any asset-backed security that is a security issued or guaranteed by any State of the United States, or by any political subdivision of a State or territory, or by any public instrumentality of a State or territory that is exempt from the registration requirements of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\] by reason of section 3(a)(2) of that Act (15 U.S.C. 77c(a)(2)), or a security defined as a qualified scholarship funding bond in section 150(d)(2) of title 26, as may be appropriate in the public interest and for the protection of investors; and
 
 &emsp;&emsp;&emsp;(iv) the allocation of risk retention obligations between a securitizer and an originator in the case of a securitizer that purchases assets from an originator, as the Federal banking agencies and the Commission jointly determine appropriate.
 
@@ -148,7 +148,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 &emsp;&emsp;&emsp;&emsp;(III) the ratio of total monthly installment payments of the mortgagor to the income of the mortgagor;
 
-&emsp;&emsp;&emsp;(iii) mitigating the potential for payment shock on adjustable rate mortgagesthrough product features and underwriting standards;
+&emsp;&emsp;&emsp;(iii) mitigating the potential for payment shock on adjustable rate mortgages through product features and underwriting standards;
 
 &emsp;&emsp;&emsp;(iv) mortgage guarantee insurance or other types of insurance or credit enhancement obtained at the time of origination, to the extent such insurance or credit enhancement reduces the risk of default; and
 
@@ -164,7 +164,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 #### (6) Certification
 
-&emsp;The Commission shall require an issuer to certify, for each issuance of an asset-backed security collateralized exclusively by qualified residential mortgages, that the issuer has evaluated the effectiveness of the internal supervisory controls of the issuer with respect to the process for ensuring that all assets that collateralize the asset-backed security are qualified residential mortgages.
+&emsp;The Commission shall require an issuer to certify, for each issuance of an asset-backedsecurity collateralized exclusively by qualified residential mortgages, that the issuer has evaluated the effectiveness of the internal supervisory controls of the issuer with respect to the process for ensuring that all assets that collateralize the asset-backed security are qualified residential mortgages.
 
 #### (f) Enforcement
 
@@ -192,11 +192,15 @@ The regulations issued under this section shall become effective—
 
 (June 6, 1934, ch. 404, title I, §15G, as added Pub. L. 111–203, title IX, §941(b), July 21, 2010, 124 Stat. 1891.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Act of 1933, referred to in subsec. (c)(1)(G)(iii), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 Section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010, referred to in subsec. (e)(4)(C), probably means section 129C(b)(2) of Pub. L. 90–321, as amended by title X of Pub. L. 111–203, which defines "qualified mortgage" and is classified to section 1639c(b)(2) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

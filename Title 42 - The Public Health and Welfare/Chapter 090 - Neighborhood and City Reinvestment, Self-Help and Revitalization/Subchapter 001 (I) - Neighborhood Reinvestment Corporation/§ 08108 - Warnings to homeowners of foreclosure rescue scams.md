@@ -20,17 +20,21 @@ The Neighborhood Reinvestment Corporation, in consultation with servicers of res
 
 (Pub. L. 111–203, title XIV, §1452, July 21, 2010, 124 Stat. 2177.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1444, referred to in subsec. (a), means section 1444 of Pub. L. 111–203.
 
 #### Codification
 
-Section was enacted as part of the Expand and Preserve Home Ownership Through Counseling Act and also as part of the Mortgage Reform and Anti-Predatory Lending Act and as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Neighborhood Reinvestment Corporation Act which comprises this subchapter.
+Section was enacted as part of the Expand and Preserve Home Ownership Through Counseling Act and also as part of the Mortgage Reform and Anti-Predatory Lending Act and as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and notas part of the Neighborhood Reinvestment Corporation Act which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
-Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transferdate if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
+Section effective on the date on which final regulations implementing such section take effect, or on the date that is 18 months after the designated transfer date if such regulations have not been issued by that date, see section 1400(c) of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1601 of Title 15, Commerce and Trade.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

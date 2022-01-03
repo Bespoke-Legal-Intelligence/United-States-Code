@@ -38,6 +38,8 @@ This amends 49:30308(b) to correct an error in the codification enacted by secti
 
 This amends 49:30308 to correct a grammatical error.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–130 substituted "1994," for "1994, and" and inserted "and $1,855,000 for the period of October 1, 1997, through March 31, 1998," after "1997,".
@@ -51,6 +53,8 @@ Pub. L. 105–18 substituted ", 1996, and 1997" for "and 1996".
 <b>1994</b>—Subsec. (a). Pub. L. 103–331 inserted "and $2,550,000 for fiscal year 1995" after "1994".
 
 Subsec. (b). Pub. L. 103–429 substituted "authorized" for "appropriated".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

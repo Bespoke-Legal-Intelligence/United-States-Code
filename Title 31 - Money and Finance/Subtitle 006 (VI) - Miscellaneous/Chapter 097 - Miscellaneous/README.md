@@ -132,7 +132,7 @@ In general.—No reward amount may be paid under this section without the writte
 
 &emsp;&emsp;"(B)
 
-Delegation.—The Secretary may not delegate the approval required under subparagraph (A) to anyone other than an Under Secretary of the Department of the Treasury.
+Delegation.—The Secretary may not delegate the approval required under subparagraph (A)to anyone other than an Under Secretary of the Department of the Treasury.
 
 &emsp;"(4)
 
@@ -152,7 +152,7 @@ Officer and employees.—An officer or employee of any entity of Federal, State,
 
 &emsp;"(2)
 
-Participating individuals.—If the claim for a reward is brought by an individual who the Secretary has a reasonable basis to believe knowingly planned, initiated, directly participated in, or facilitated the actions that led to assets of a foreign state or governmental entity being stolen, misappropriated, or illegally diverted or to the payment of bribes or other foreign governmental corruption, the Secretary shall appropriately reduce, and may deny, such award. Ifsuch individual is convicted of criminal conduct arising from the role described in the preceding sentence, the Secretary shall deny or may seek to recover any reward, as the case may be.
+Participating individuals.—If the claim for a reward is brought by an individual who the Secretary has a reasonable basis to believe knowingly planned, initiated, directly participated in, or facilitated the actions that led to assets of a foreign state or governmental entity being stolen, misappropriated, or illegally diverted or to the payment of bribes or other foreign governmental corruption, the Secretary shall appropriately reduce, and may deny, such award. If such individual is convicted of criminal conduct arising from the role described in the preceding sentence, the Secretary shall deny or may seek to recover any reward, as the case may be.
 
 "(g)
 

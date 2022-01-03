@@ -24,7 +24,7 @@ To be eligible to receive a grant under this section, an entity shall—
 
 &emsp;(1)(A) be a FQHC as defined in section 1395x(aa) of this title; or
 
-&emsp;(B) be a nurse-managed health clinic, as defined in section 330A–1 of the Public Health Service Act \[42 U.S.C. 254c–1a\] (as added by section 5208 of this Act); <sup>1</sup> and
+&emsp;(B) be a nurse-managed health clinic, as defined in section 330A–1 of the Public HealthService Act \[42 U.S.C. 254c–1a\] (as added by section 5208 of this Act); <sup>1</sup> and
 
 &emsp;(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
@@ -73,6 +73,8 @@ The Secretary may award technical assistance grants to 1 or more FQHCs or NMHCs 
 To carry out this section, there is authorized to be appropriated such sums as may be necessary for each of fiscal years 2011 through 2014.
 
 (Pub. L. 111–148, title V, §5316, as added Pub. L. 111–148, title X, §10501(e), Mar. 23, 2010, 124 Stat. 995.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

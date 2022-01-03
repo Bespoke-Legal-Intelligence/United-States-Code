@@ -68,7 +68,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (4) Considerations
 
-&emsp;In adopting standards under paragraph (1), the Secretary of Health and Human Services shall give due consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
+&emsp;In adopting standards under paragraph (1), the Secretary of Health and Human Servicesshall give due consideration to the recommended national standards provided by the Commission under section 30306(e) of this title.
 
 #### (e) Eligibility for Federal funds
 
@@ -234,7 +234,7 @@ The national standards referred to in subsection (a) shall apply to the Federal 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The PREA Management Office may suspend an auditor's certification during anevaluation of an auditor's performance under subparagraph (A)(iii). The PREA Management Office shall promptly publish the names of auditors who have been decertified, and the reason for decertification. Auditors who have been decertified or are on suspension may not participate in audits described in subsection (a), including as an agent of a certified auditor.
+&emsp;&emsp;&emsp;The PREA Management Office may suspend an auditor's certification during an evaluation of an auditor's performance under subparagraph (A)(iii). The PREA Management Office shall promptly publish the names of auditors who have been decertified, and the reason for decertification. Auditors who have been decertified or are on suspension may not participate in audits described in subsection (a), including as an agent of a certified auditor.
 
 #### (ii) Notification
 

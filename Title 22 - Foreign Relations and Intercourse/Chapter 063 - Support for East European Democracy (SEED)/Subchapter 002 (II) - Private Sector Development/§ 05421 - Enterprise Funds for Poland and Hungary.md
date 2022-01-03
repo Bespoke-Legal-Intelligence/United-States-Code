@@ -48,7 +48,7 @@ The funds appropriated under subsection (b) may be made available to the Polish-
 
 #### (5) Private character of Enterprise Funds
 
-&emsp;Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or membersof the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
+&emsp;Nothing in this section shall be construed to make an Enterprise Fund an agency or establishment of the United States Government, or to make the officers, employees, or members of the Board of Directors of an Enterprise Fund officers or employees of the United States for purposes of title 5.
 
 #### (e) Grants to Enterprise Funds
 
@@ -118,7 +118,7 @@ Executive branch agencies may conduct programs and activities and provide servic
 
 #### (m) Independent private audits
 
-The accounts of each Enterprise Fund shall be audited annually in accordance with generallyaccepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
+The accounts of each Enterprise Fund shall be audited annually in accordance with generally accepted auditing standards by independent certified public accountants or independent licensed public accountants certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The report of each such independent audit shall be included in the annual report required by this section.
 
 #### (n) GAO audits
 
@@ -148,7 +148,7 @@ Each Enterprise Fund shall publish an annual report, which shall include a compr
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 101–179, Nov. 28,1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (l)(3), probably means the date of enactment of Pub. L. 105–118 which amended subsec. (l) generally and was approved Nov. 26, 1997.
 

@@ -240,7 +240,7 @@ Pub. L. 116–136, div. B, title V, §15003, Mar. 27, 2020, 134 Stat. 532, provi
 
 #### Justification and Approval of Sole-Source Contracts
 
-Pub. L. 111–84, div. A, title VIII, §811, Oct. 28, 2009, 123 Stat. 2405, provided that:
+Pub. L. 111–84, div. A, title VIII, §811, Oct. 28, 2009, 123 Stat. 2405, as amended by Pub. L. 117–81, div. A, title XVII, §1702(i)(3), Dec. 27, 2021, 135 Stat. 2159, provided that:
 
 "(a)
 
@@ -250,7 +250,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and
 
-&emsp;"(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and 2304(l) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
+&emsp;"(3) the justification and related information are made public as provided in sections 3204(e)(1)(C) and 3204(f) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
 
 "(b)
 
@@ -274,7 +274,7 @@ Definitions.—In this section:
 
 Covered procurement.—The term 'covered procurement' means either of the following:
 
-&emsp;&emsp;"(A) A procurement described in section 2304(f)(2)(D)(ii) of title 10, United States Code.
+&emsp;&emsp;"(A) A procurement described in section 3204(e)(4)(D)(ii) of title 10, United States Code.
 
 &emsp;&emsp;"(B) A procurement described in section 303(f)(2)(D)(ii) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(f)(2)(D)(ii)) \[see 41 U.S.C. 3304(e)(4)(D)\].
 
@@ -282,7 +282,7 @@ Covered procurement.—The term 'covered procurement' means either of the follow
 
 Head of an agency.—The term 'head of an agency'—
 
-&emsp;&emsp;"(A) in the case of a covered procurement as defined in paragraph (1)(A), has the meaning provided in section 2302(1) of title 10, United States Code; and
+&emsp;&emsp;"(A) in the case of a covered procurement as defined in paragraph (1)(A), has the meaning provided in section 3004 of title 10, United States Code; and
 
 &emsp;&emsp;"(B) in the case of a covered procurement as defined in paragraph (1)(B), has the meaning provided the term 'agency head' in section 309(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(a)) \[now 41 U.S.C. 151\].
 
@@ -290,7 +290,7 @@ Head of an agency.—The term 'head of an agency'—
 
 Appropriate official.—The term 'appropriate official' means—
 
-&emsp;&emsp;"(A) in the case of a covered procurement as defined in paragraph (1)(A), an official designated in section 2304(f)(1)(B) of title 10, United States Code; and
+&emsp;&emsp;"(A) in the case of a covered procurement as defined in paragraph (1)(A), an official designated in section 3204(e)(1)(B) of title 10, United States Code; and
 
 &emsp;&emsp;"(B) in the case of a covered procurement as defined in paragraph (1)(B), an official designated in section 303(f)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(B)) \[now 41 U.S.C. 3304(e)(1)(B)\]."
 

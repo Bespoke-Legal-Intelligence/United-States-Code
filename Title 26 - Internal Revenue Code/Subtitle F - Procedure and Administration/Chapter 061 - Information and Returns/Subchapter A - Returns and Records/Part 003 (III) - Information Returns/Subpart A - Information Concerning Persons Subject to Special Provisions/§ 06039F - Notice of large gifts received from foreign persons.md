@@ -36,6 +36,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 6039F was renumbered section 6039G of this title.
@@ -44,11 +46,13 @@ Another section 6039F was renumbered section 6039G of this title.
 
 <b>2017</b>—Subsec. (d). Pub. L. 115–97 substituted "subparagraph (A)(ii) thereof shall be applied by substituting '1995' for '2016' " for "subparagraph (B) thereof shall be applied by substituting '1995' for '1992' ".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
 
 #### Effective Date
 
-Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: "The amendments made by this section \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date."
+Pub. L. 104–188, title I, §1905(c), Aug. 20, 1996, 110 Stat. 1913, provided that: "The amendments made by thissection \[enacting this section\] shall apply to amounts received after the date of the enactment of this Act \[Aug. 20, 1996\] in taxable years ending after such date."
 

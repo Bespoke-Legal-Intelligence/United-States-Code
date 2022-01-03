@@ -56,6 +56,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 96–596, §2(c)(1), Dec. 24, 1980, 94 Stat. 3473, §4962; renumbered §4963, Pub. L. 98–369, div. A, title III, §305(a), July 18, 1984, 98 Stat. 783; amended Pub. L. 100–203, title X, §10712(b)(3), Dec. 22, 1987, 101 Stat. 1330–467; Pub. L. 104–168, title XIII, §1311(c)(2), July 30, 1996, 110 Stat. 1478; Pub. L. 109–280, title XII, §1231(b)(1), Aug. 17, 2006, 120 Stat. 1098.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsecs. (a), (c). Pub. L. 109–280, which directed the insertion of "4966, 4967," after "4958," in subsecs. (a) and (c) of section 4963, without specifying the act to be amended, was executed by making the insertion in subsecs. (a) and (c) of this section, which is section 4963 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
@@ -63,6 +65,8 @@ For purposes of this subchapter—
 <b>1996</b>—Subsecs. (a) to (c). Pub. L. 104–168 inserted "4958," after "4955,".
 
 <b>1987</b>—Subsecs. (a) to (c). Pub. L. 100–203 inserted reference to section 4955 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -78,5 +82,5 @@ Amendment by Pub. L. 100–203 applicable to taxable years beginning after Dec. 
 
 #### Effective Date
 
-For effective date of section with respect to any first tier tax and to any second tier tax, see section 2(d) ofPub. L. 96–596, set out as a note under section 4961 of this title.
+For effective date of section with respect to any first tier tax and to any second tier tax, see section 2(d) of Pub. L. 96–596, set out as a note under section 4961 of this title.
 

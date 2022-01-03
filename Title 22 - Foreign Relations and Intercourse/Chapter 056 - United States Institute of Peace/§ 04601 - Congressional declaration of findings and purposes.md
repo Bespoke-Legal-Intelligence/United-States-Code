@@ -10,13 +10,13 @@
 
 &emsp;(4) there is a national need to examine the disciplines in the social, behavioral, and physical sciences and the arts and humanities with regard to the history, nature, elements, and future of peace processes, and to bring together and develop new and tested techniques to promote peaceful economic, political, social, and cultural relations in the world;
 
-&emsp;(5) existing institutions providing programs in international affairs, diplomacy, conflict resolution, and peace studies are essential to further development of techniques to promote peaceful resolution of international conflict, and the peacemaking activities of people in such institutions, government, private enterprise, and voluntary associations can be strengthened by a national institution devoted to international peace research, education and training, and information services;
+&emsp;(5) existing institutions providing programs in international affairs, diplomacy, conflictresolution, and peace studies are essential to further development of techniques to promote peaceful resolution of international conflict, and the peacemaking activities of people in such institutions, government, private enterprise, and voluntary associations can be strengthened by a national institution devoted to international peace research, education and training, and information services;
 
 &emsp;(6) there is a need for Federal leadership to expand and support the existing international peace and conflict resolution efforts of the Nation and to develop new comprehensive peace education and training programs, basic and applied research projects, and programs providing peace information;
 
 &emsp;(7) the Commission on Proposals for the National Academy of Peace and Conflict Resolution, created by the Education Amendments of 1978, recommended establishing an academy as a highly desirable investment to further the Nation's interest in promoting international peace;
 
-&emsp;(8) an institute strengthening and symbolizing the fruitful relation between the world oflearning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promote the peaceful resolution of international conflicts; and
+&emsp;(8) an institute strengthening and symbolizing the fruitful relation between the world of learning and the world of public affairs, would be the most efficient and immediate means for the Nation to enlarge its capacity to promote the peaceful resolution of international conflicts; and
 
 &emsp;(9) the establishment of such an institute is an appropriate investment by the people of this Nation to advance the history, science, art, and practice of international peace and the resolution of conflicts among nations without the use of violence.
 

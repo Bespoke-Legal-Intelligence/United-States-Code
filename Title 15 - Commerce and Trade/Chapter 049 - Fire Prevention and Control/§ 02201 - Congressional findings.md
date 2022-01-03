@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) The United States today has the highest per capita rate of death and property loss from fire of all the major industrialized nations in the world.
 
-&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a publichealth and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
+&emsp;(3) Fire is an undue burden affecting all Americans, and fire also constitutes a public health and safety problem of great dimensions. Fire kills 12,000 and scars and injures 300,000 Americans each year, including 50,000 individuals who require extended hospitalization. Almost $3 billion worth of property is destroyed annually by fire, and the total economic cost of destructive fire in the United States is estimated conservatively to be $11,000,000,000 per year. Firefighting is the Nation's most hazardous profession.
 
 &emsp;(4) Such losses of life and property from fire are unacceptable to the Congress.
 
@@ -26,9 +26,13 @@ The Congress finds that—
 
 (Pub. L. 93–498, §2, Oct. 29, 1974, 88 Stat. 1535.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under section 278f of this title. The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2018 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: "This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the 'Hotel and Motel Fire Safety Act of 1990'."
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: "This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the 'Hotel and Motel Fire Safety Act of 1990'."
 
 #### Short Title
 
@@ -150,11 +154,13 @@ Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment not
 
 #### Waiver of Federal Liability
 
-Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: "In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act."
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: "In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of or injury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act."
 
 #### Effect on Certain Requirements
 
 Pub. L. 101–391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: "Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features."
+
+#### <b>Executive Documents</b>
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1978</b>
 
@@ -218,7 +224,7 @@ The President may authorize any persons who, immediately prior to the effective 
 
 #### Sec. 304. Effective Date
 
-The provisions of this Reorganization Plan shall become effective at such time or times, on or before April1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
+The provisions of this Reorganization Plan shall become effective at such time or times, on or before April 1, 1979, as the President shall specify, but not sooner than the earliest time allowable under Section 906 of Title 5, United States Code.
 
 \[Pursuant to Ex. Ord. 12127, Mar. 31, 1979, 44 F.R. 19367, this Reorg. Plan is effective Apr. 1, 1979\]
 

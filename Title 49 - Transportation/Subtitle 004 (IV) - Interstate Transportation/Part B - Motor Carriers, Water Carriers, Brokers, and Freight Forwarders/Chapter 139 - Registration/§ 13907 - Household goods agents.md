@@ -26,7 +26,7 @@ Order.—If the agent does not appear at the hearing or if the Secretary finds t
 
 &emsp;(4)
 
-Hearing.—Upon filing of a petition with the Secretary by an agent who is the subject of an order issued pursuant to the second sentence of paragraph (3) of this subsection and after notice, a hearing shall be held with an opportunity to be heard. At such hearing, a determination shall be made whether the orderissued pursuant to paragraph (3) of this subsection should be rescinded.
+Hearing.—Upon filing of a petition with the Secretary by an agent who is the subject of an order issued pursuant to the second sentence of paragraph (3) of this subsection and after notice, a hearing shall be held with an opportunity to be heard. At such hearing, a determination shall be made whether the order issued pursuant to paragraph (3) of this subsection should be rescinded.
 
 &emsp;(5)
 
@@ -72,6 +72,8 @@ Transportation.—The term "transportation" means transportation that would be s
 
 This amends 49:13907(e)(1) and (2) for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 10102(11) of this title, referred to in subsec. (e)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
@@ -87,6 +89,8 @@ Provisions similar to those in this section were contained in section 10934 of t
 <b>1996</b>—Subsec. (e)(1). Pub. L. 104–287, §5(35)(A), substituted "December 31, 1995" for "the day before the effective date of this section".
 
 Subsec. (e)(2). Pub. L. 104–287, §5(35)(B), substituted "December 31, 1995" for "the day before such effective date".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

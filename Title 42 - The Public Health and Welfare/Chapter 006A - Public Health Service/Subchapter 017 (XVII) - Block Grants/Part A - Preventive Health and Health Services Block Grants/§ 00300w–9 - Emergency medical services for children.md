@@ -2,7 +2,7 @@
 
 #### (a) Grant authority
 
-For activities in addition to the activities which may be carried out by States under section 300w–3(a)(1)(F) <sup>1</sup> of this title, the Secretary may make grants to States or accredited schools of medicine in States to support a program of demonstration projects for the expansion and improvement of emergency medical services for children who need treatment for trauma or critical care. Any grant made under this subsection shall be for not more than a 4-year period (with an optional 5th year based on performance), subject to annual evaluation by the Secretary. Only 3 grants under this subsection may be made in a State (to a State or toa school of medicine in such State) in any fiscal year.
+For activities in addition to the activities which may be carried out by States under section 300w–3(a)(1)(F) <sup>1</sup> of this title, the Secretary may make grants to States or accredited schools of medicine in States to support a program of demonstration projects for the expansion and improvement of emergency medical services for children who need treatment for trauma or critical care. Any grant made under this subsection shall be for not more than a 4-year period (with an optional 5th year based on performance), subject to annual evaluation by the Secretary. Only 3 grants under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.
 
 #### (b) Renewals
 
@@ -22,6 +22,8 @@ To carry out this section, there are authorized to be appropriated $2,000,000 fo
 
 (July 1, 1944, ch. 373, title XIX, §1910, as added Pub. L. 98–555, §7, Oct. 30, 1984, 98 Stat. 2856; amended Pub. L. 99–272, title XVII, §17004, Apr. 7, 1986, 100 Stat. 360; Pub. L. 100–607, title III, §302, Nov. 4, 1988, 102 Stat. 3112; Pub. L. 101–590, §5, Nov. 16, 1990, 104 Stat. 2928; Pub. L. 102–410, §11, Oct. 13, 1992, 106 Stat. 2101; Pub. L. 105–392, title IV, §415, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 111–148, title V, §5603, Mar. 23, 2010, 124 Stat. 679; Pub. L. 113–180, §2, Sept. 26, 2014, 128 Stat. 1915; Pub. L. 116–49, §2, Aug. 22, 2019, 133 Stat. 1072.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300w–3(a)(1) of this title, referred to in subsec. (a), was amended generally by Pub. L. 102–531, title I, §102(a), Oct. 27, 1992, 106 Stat. 3470, and, as so amended, provisions formerly appearing in subpar. (F) are contained in subpar. (C).
@@ -36,7 +38,7 @@ Section 292a of this title, referred to in subsec. (c), was in the original a re
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–148, §5603(1), substituted "4-year period (with an optional 5th year" for "3-year period (with an optional 4th year".
 
-Subsec. (d). Pub. L. 111–148, §5603(2), substituted "such sums" for "and such sums" and inserted ", $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014" before period at end.
+Subsec. (d). Pub. L. 111–148, §5603(2), substituted "such sums" for "and such sums" and inserted", $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014" before period at end.
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–392, §415(1), substituted "3-year period (with an optional 4th year based on performance)" for "two-year period" and "3 grants" for "one grant".
 

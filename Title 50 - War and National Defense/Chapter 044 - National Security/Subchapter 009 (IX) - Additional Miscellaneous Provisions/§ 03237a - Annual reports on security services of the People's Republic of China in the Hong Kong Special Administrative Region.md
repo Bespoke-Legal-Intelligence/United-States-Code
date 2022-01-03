@@ -30,7 +30,7 @@ On an annual basis through 2047, the Director of National Intelligence shall sub
 
 Each report under subsection (b) shall include, with respect to the year covered by the report, the following:
 
-&emsp;(1) Identification of the approximate number of personnel affiliated with Chinese securityservices operating within the Hong Kong Special Administrative Region, including a breakdown of such personnel by the specific security service and the division of the security service, and (to the extent possible) an identification of any such personnel associated with the national security division of the Hong Kong Police Force.
+&emsp;(1) Identification of the approximate number of personnel affiliated with Chinese security services operating within the Hong Kong Special Administrative Region, including a breakdown of such personnel by the specific security service and the division of the security service, and (to the extent possible) an identification of any such personnel associated with the national security division of the Hong Kong Police Force.
 
 &emsp;(2) A description of the command and control structures of such security services, including information regarding the extent to which such security services are controlled by the Government of the Hong Kong Special Administrative Region or the Government of the People's Republic of China.
 
@@ -63,6 +63,8 @@ In carrying out subsection (b), the Director shall coordinate with the Director 
 Each report submitted to the appropriate congressional committees under subsection (b) shall be submitted in unclassified form, but may include a classified annex.
 
 (July 26, 1947, ch. 343, title XI, §1107A, as added Pub. L. 116–260, div. W, title VI, §611(b), Dec. 27, 2020, 134 Stat. 2393.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings of Congress
 

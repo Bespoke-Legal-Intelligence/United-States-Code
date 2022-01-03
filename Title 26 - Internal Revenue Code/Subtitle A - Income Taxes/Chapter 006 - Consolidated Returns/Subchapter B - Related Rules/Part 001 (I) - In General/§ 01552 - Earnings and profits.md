@@ -4,7 +4,7 @@
 
 Pursuant to regulations prescribed by the Secretary the earnings and profits of each member of an affiliated group required to be included in a consolidated return for such group filed for a taxable year shall be determined by allocating the tax liability of the group for such year among the members of the group in accord with whichever of the following methods the group shall elect in its first consolidated return filed for such a taxable year:
 
-&emsp;(1) The tax liability shall be apportioned among the members of the group in accordance with the ratio which that portion of the consolidated taxable income attributable toeach member of the group having taxable income bears to the consolidated taxable income.
+&emsp;(1) The tax liability shall be apportioned among the members of the group in accordance with the ratio which that portion of the consolidated taxable income attributable to each member of the group having taxable income bears to the consolidated taxable income.
 
 &emsp;(2) The tax liability of the group shall be allocated to the several members of the group on the basis of the percentage of the total tax which the tax of such member if computed on a separate return would bear to the total amount of the taxes for all members of the group so computed.
 
@@ -18,11 +18,15 @@ If no election is made in such first return, the tax liability shall be allocate
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 371; Pub. L. 88–272, title II, §234(b)(8), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §§1901(a)(159), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1790, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1901(a)(159), 1906(b)(13)(A), struck out "beginning after December 31, 1953, and ending after the date of enactment of this title" after "group filed for a taxable year", and "or his delegate" after "Secretary" in two places.
 
 <b>1964</b>—Subsec. (a)(3). Pub. L. 88–272 struck out "(determined without regard to the 2 percent increase provided by section 1503(a))", before "based on their contributions".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

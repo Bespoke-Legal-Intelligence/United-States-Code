@@ -36,7 +36,7 @@ Duties and Powers.—Subject to the authority, direction, and control of the Sec
 
 &emsp;&emsp;(B) core logistics capabilities (as described under section 2464 of this title); and
 
-&emsp;&emsp;(C) the national technology and industrial base (as defined in section 2500 of this title).
+&emsp;&emsp;(C) the national technology and industrial base (as defined in section 4801 of this title).
 
 (c)
 
@@ -52,9 +52,7 @@ Precedence in other matters.—With regard to all matters other than the matters
 
 (Added Pub. L. 114–328, div. A, title IX, §901(b), Dec. 23, 2016, 130 Stat. 2340; amended Pub. L. 115–91, div. A, title IX, §§902, 910(c)(3), Dec. 12, 2017, 131 Stat. 1511, 1518; Pub. L. 116–92, div. A, title IX, §902(92), title XVI, §1662(a), Dec. 20, 2019, 133 Stat. 1554, 1772; Pub. L. 116–283, div. A, title VIII, §811(a)(2), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3749, 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -77,6 +75,8 @@ Subsec. (b)(4) to (8). Pub. L. 116–92, §1662(a), added par. (4), redesignated
 Subsec. (c)(1). Pub. L. 115–91, §910(c)(3)(A), inserted "the Chief Management Officer of the Department of Defense," after "the Deputy Secretary of Defense,".
 
 Subsec. (c)(2). Pub. L. 115–91, §910(c)(3)(B), inserted "the Chief Management Officer," after "the Deputy Secretary,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

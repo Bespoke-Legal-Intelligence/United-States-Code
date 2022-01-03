@@ -24,7 +24,7 @@ For purposes of subsection (a)—
 
 &emsp;&emsp;(i) the employer permanently ceases to have an obligation to contribute under one or more but fewer than all collective bargaining agreements under which the employer has been obligated to contribute under the plan but continues to perform work in the jurisdiction of the collective bargaining agreement of the type for which contributions were previously required or transfers such work to another location or to an entity or entities owned or controlled by the employer, or
 
-&emsp;&emsp;(ii) an employer permanently ceases to have an obligation to contribute under the plan with respect to work performed at one or more but fewer than all of its facilities, but continues to perform work at the facility of the type for which the obligation to contribute ceased.
+&emsp;&emsp;(ii) an employer permanently ceases to have an obligation to contribute under theplan with respect to work performed at one or more but fewer than all of its facilities, but continues to perform work at the facility of the type for which the obligation to contribute ceased.
 
 &emsp;(B) For purposes of subparagraph (A), a cessation of obligations under a collective bargaining agreement shall not be considered to have occurred solely because, with respect to the same plan, one agreement that requires contributions to the plan has been substituted for another agreement.
 

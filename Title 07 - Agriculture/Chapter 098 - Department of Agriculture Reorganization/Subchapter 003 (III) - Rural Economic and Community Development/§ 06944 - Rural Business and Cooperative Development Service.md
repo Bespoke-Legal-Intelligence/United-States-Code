@@ -2,7 +2,7 @@
 
 #### (a) Establishment authorized
 
-Notwithstanding any other provision of law, the Secretary is authorized to establish andmaintain within the Department the Rural Business and Cooperative Development Service and to assign to the Service such functions as the Secretary considers appropriate.
+Notwithstanding any other provision of law, the Secretary is authorized to establish and maintain within the Department the Rural Business and Cooperative Development Service and to assign to the Service such functions as the Secretary considers appropriate.
 
 #### (b) Functions
 
@@ -19,6 +19,8 @@ If the Secretary establishes the Rural Business and Cooperative Development Serv
 &emsp;(5) The Act of July 2, 1926 (44 Stat. 802, chapter 725; 7 U.S.C. 451 et seq.).
 
 (Pub. L. 103–354, title II, §234, Oct. 13, 1994, 108 Stat. 3220.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

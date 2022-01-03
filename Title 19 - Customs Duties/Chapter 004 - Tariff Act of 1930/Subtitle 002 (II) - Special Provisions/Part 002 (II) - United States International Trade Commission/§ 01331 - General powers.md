@@ -44,6 +44,8 @@ The commission is authorized to adopt an official seal, which shall be judiciall
 
 (June 17, 1930, ch. 497, title III, §331, 46 Stat. 697; Pub. L. 95–106, §3(a), (b), Aug. 17, 1977, 91 Stat. 868; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 97–456, §1(b), Jan. 12, 1983, 96 Stat. 2503.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), provisions which specified a salary of $7,500 per year for the secretary to the commission have been omitted as obsolete and superseded. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632, and reenacted as chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees. Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
@@ -52,7 +54,7 @@ In subsec. (b), the words "Except for employees excepted under the civil service
 
 #### Prior Provisions
 
-Provisions similar to subsecs. (a) to (e) of this section were contained in act Sept. 8, 1916, ch. 463, §701, 39 Stat.975. That section was superseded by section 331 of act June 17, 1930, comprising this section.
+Provisions similar to subsecs. (a) to (e) of this section were contained in act Sept. 8, 1916, ch. 463, §701, 39 Stat. 975. That section was superseded by section 331 of act June 17, 1930, comprising this section.
 
 Provisions similar to those in subsecs. (f) and (g) of this section were contained in act Sept. 21, 1922, ch. 356, title III, §318, 42 Stat. 947. That section was superseded by section 331 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
@@ -66,9 +68,13 @@ Subsec. (c). Pub. L. 95–106, §3(b)(1), substituted "approved by the chairman 
 
 Subsec. (d). Pub. L. 95–106, §3(b)(2), redesignated subsecs. (e) to (g) as (d) to (f), respectively. Former subsec. (d), relating to offices and supplies, was struck out.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Pub. L. 95–106, §3(c), Aug. 17, 1977, 91 Stat. 869, provided that: "The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[Aug. 17, 1977\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

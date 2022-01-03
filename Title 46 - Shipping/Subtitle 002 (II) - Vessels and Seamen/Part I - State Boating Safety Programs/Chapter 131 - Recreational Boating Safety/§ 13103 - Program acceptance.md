@@ -26,7 +26,7 @@
 
 (d) The Secretary's approval under this section is a contractual obligation of the Government for the payment of a proportionate share of the cost of carrying out the program.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 593, §13102; Pub. L. 98–369, div. A, title X, §1011(c), July 18, 1984, 98 Stat. 1013; Pub. L. 98–557, §7(b)(3), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 99–307, §1(17), May 19, 1986, 100 Stat. 446; Pub. L. 99–626, §4(a), (b), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, §6(b)(3)–(5), Sept. 28, 1988, 102 Stat. 1840; Pub. L. 101–595, title III, §312(b), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 109–59, title X, §10141, Aug. 10, 2005, 119 Stat. 1931; renumbered §13103 and amended Pub. L. 109–304, §§15(25), 16(b)(1), (c)(4), Oct. 6, 2006, 120 Stat. 1704–1706.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 593, §13102; Pub. L. 98–369, div. A, title X, §1011(c), July 18, 1984, 98 Stat. 1013; Pub. L. 98–557, §7(b)(3), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 99–307, §1(17), May 19, 1986, 100 Stat. 446; Pub. L. 99–626, §4(a), (b), Nov. 7, 1986, 100 Stat. 3505; Pub. L. 100–448, §6(b)(3)–(5),Sept. 28, 1988, 102 Stat. 1840; Pub. L. 101–595, title III, §312(b), Nov. 16, 1990, 104 Stat. 2987; Pub. L. 109–59, title X, §10141, Aug. 10, 2005, 119 Stat. 1931; renumbered §13103 and amended Pub. L. 109–304, §§15(25), 16(b)(1), (c)(4), Oct. 6, 2006, 120 Stat. 1704–1706.)
 
 Historical and Revision Notes
 

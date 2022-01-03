@@ -32,6 +32,8 @@ As soon as practicable after the acquisition of any land or interest under this 
 
 (Pub. L. 106–530, §8, Nov. 22, 2000, 114 Stat. 2532.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (c)(2)(B), "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

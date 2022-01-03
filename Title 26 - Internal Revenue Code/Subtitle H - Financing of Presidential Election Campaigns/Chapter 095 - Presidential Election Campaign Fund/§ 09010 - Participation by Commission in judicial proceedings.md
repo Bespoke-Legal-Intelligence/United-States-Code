@@ -10,13 +10,15 @@ The Commission is authorized through attorneys and counsel described in subsecti
 
 #### (c) Declaratory and injunctive relief
 
-The Commission is authorized through attorneys and counsel described in subsection (a) topetition the courts of the United States for declaratory or injunctive relief concerning any civil matter covered by the provisions of this subtitle or section 6096. Upon application of the Commission an action brought pursuant to this subsection shall be heard and determined by a court of three judges in accordance with the provisions of section 2284 of title 28, United States Code, and any appeal shall lie to the Supreme Court.
+The Commission is authorized through attorneys and counsel described in subsection (a) to petition the courts of the United States for declaratory or injunctive relief concerning any civil matter covered by the provisions of this subtitle or section 6096. Upon application of the Commission an action brought pursuant to this subsection shall be heard and determined by a court of three judges in accordance with the provisions of section 2284 of title 28, United States Code, and any appeal shall lie to the Supreme Court.
 
 #### (d) Appeal
 
 The Commission is authorized on behalf of the United States to appeal from, and to petition the Supreme Court for certiorari to review, judgments or decrees entered with respect to actions in which it appears pursuant to the authority provided in this section.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 569; amended Pub. L. 93–443, title IV, §404(c)(14)–(18), Oct. 15, 1974, 88 Stat. 1293; Pub. L. 94–455, title XIX, §1906(b)(13)(C), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 98–620, title IV, §402(28)(E), Nov. 8, 1984, 98 Stat. 3359.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -31,6 +33,8 @@ Subsec. (a). Pub. L. 93–443, §404(c)(15), substituted "Commission" for "Compt
 Subsecs. (b), (c). Pub. L. 93–443, §404(c)(16), (17), substituted "Commission" for "Comptroller General" wherever appearing.
 
 Subsec. (d). Pub. L. 93–443, §404(c)(18), substituted "Commission" and "it" for "Comptroller General" and "he".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

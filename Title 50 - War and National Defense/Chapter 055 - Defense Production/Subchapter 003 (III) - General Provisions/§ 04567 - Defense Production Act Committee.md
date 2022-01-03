@@ -30,7 +30,7 @@ The Chairperson shall appoint one person to coordinate all of the activities of 
 
 The Committee shall issue a report each year by March 31 to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report signed by the Chairperson that contains—
 
-&emsp;(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government to which the President has delegated authority under this chapter for events that might require the use of the priorities and allocations authorities;
+&emsp;(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government towhich the President has delegated authority under this chapter for events that might require the use of the priorities and allocations authorities;
 
 &emsp;(2) recommendations for the effective use of the priorities and allocations authorities in this chapter in a manner consistent with the statement of policy under section 4502(b) of this title;
 
@@ -51,6 +51,8 @@ The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not a
 #### Termination of Section
 
 <i>For termination of section, see section 4564(a) of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -100,9 +102,13 @@ Subsec. (d)(5), (6). Pub. L. 113–172, §2(4)(G), added pars. (5) and (6).
 
 <b>2009</b>—Pub. L. 111–67 amended section generally. Prior to amendment, section related to defense industrial base information system with regard to its establishment, sources of information, strategic plan for developing comprehensive system, capabilities, and required report on subcontractor and supplier base.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 102–558, set out as an Effective Date of 1992 Amendment note under section 4502 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Designating the Chairperson of the Defense Production Act Committee
 

@@ -112,7 +112,7 @@
 
 &emsp;(36) as supplementary materials, a separate analysis of the budgetary effects for all prior fiscal years, the current fiscal year, the fiscal year for which the budget is submitted, and ensuing fiscal years of the actions the Secretary of the Treasury has taken or plans to take using any authority provided in the Emergency Economic Stabilization Act of 2008, including—
 
-&emsp;&emsp;(A) an estimate of the current value of all assets purchased, sold, and guaranteed under the authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
+&emsp;&emsp;(A) an estimate of the current value of all assets purchased, sold, and guaranteed underthe authority provided in the Emergency Economic Stabilization Act of 2008 using methodology required by the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) and section 123 of the Emergency Economic Stabilization Act of 2008;
 
 &emsp;&emsp;(B) an estimate of the deficit, the debt held by the public, and the gross Federal debt using methodology required by the Federal Credit Reform Act of 1990 and section 123 of the Emergency Economic Stabilization Act of 2008;
 
@@ -148,7 +148,7 @@
 
 (d) When the President submits a budget or supporting information about a budget, the President shall include a statement on all changes about the current fiscal year that were made before the budget or information was submitted.
 
-(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the totalamount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
+(e)(1) The President shall submit with materials related to each budget transmitted under subsection (a) on or after January 1, 1985, an analysis for the ensuing fiscal year that shall identify requested appropriations or new obligational authority and outlays for each major program that may be classified as a public civilian capital investment program and for each major program that may be classified as a military capital investment program, and shall contain summaries of the total amount of such appropriations or new obligational authority and outlays for public civilian capital investment programs and summaries of the total amount of such appropriations or new obligational authority and outlays for military capital investment programs. In addition, the analysis under this paragraph shall contain—
 
 &emsp;(A) an estimate of the current service levels of public civilian capital investment and of military capital investment and alternative high and low levels of such investments over a period of ten years in current dollars and over a period of five years in constant dollars;
 
@@ -230,7 +230,29 @@
 
 (2) Paragraph (1) does not apply if, during the year in which the warning is made, legislation is enacted which eliminates excess general revenue medicare funding (as defined in section 801(c) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003) for the 7-fiscal-year reporting period, as certified by the Board of Trustees of each medicare trust fund (as defined in section 801(c)(5) of such Act) not later than 30 days after the date of the enactment of such legislation.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375.)
+(i)(1) The Director of the Office of Management and Budget shall make publicly available on a website, and continuously update, a tabular list for each fiscal year of each agency that submits budget justification materials, which shall include—
+
+&emsp;(A) the name of the agency;
+
+&emsp;(B) a unique identifier that identifies the agency;
+
+&emsp;(C) to the extent practicable, the date on which the budget justification materials of the agency are first submitted to Congress;
+
+&emsp;(D) the date on which the budget justification materials of the agency are posted online under section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note);
+
+&emsp;(E) the uniform resource locator where the budget justification materials are published on the website of the agency; and
+
+&emsp;(F) a single data set that contains the information described in subparagraphs (A) through (E) with respect to the agency for all fiscal years for which budget justifications of the agency are made available under section 3 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) in a structured data format.
+
+(2)(A) Each agency that submits budget justification materials shall make the materials available on the website of the agency, in accordance with the policies established by the Director of the Office of Management and Budget under subparagraph (B).
+
+(B) Not later than 1 year after the date of enactment of this subsection, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall establish policies and data standards for agencies relating to making available materials under subparagraph (A), which shall include guidelines for making budget justification materials available in a format aligned with the requirements of section 3(b)(2)(C) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) and using a uniform resource locator that is in a consistent format across agencies and is descriptive, memorable, and pronounceable, such as the format of "agencyname.gov/budget".
+
+(C) If the Director of the Office of Management and Budget maintains a public website that contains the budget of the United States Government submitted under subsection (a) and any related materials, such website shall also contain a link to the tabular list required under paragraph (1).
+
+(3) In this subsection, the term "budget justification materials" has the meaning given that term in section 3(b)(2) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250; Pub. L. 108–173, title VIII, §802(a), Dec. 8, 2003, 117 Stat. 2360; Pub. L. 108–178, §4(f)(1), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 110–343, div. A, title II, §203(a), Oct. 3, 2008, 122 Stat. 3801; Pub. L. 110–409, §7(d)(2), Oct. 14, 2008, 122 Stat. 4313; Pub. L. 111–81, §2, Oct. 22, 2009, 123 Stat. 2137; Pub. L. 111–291, title IV, §§411(h), 415, Dec. 8, 2010, 124 Stat. 3116, 3121; Pub. L. 111–352, §11(a), Jan. 4, 2011, 124 Stat. 3881; Pub. L. 113–235, div. I, title II, §244(d), Dec. 16, 2014, 128 Stat. 2569; Pub. L. 114–315, title VI, §601(b), Dec. 16, 2016, 130 Stat. 1569; Pub. L. 115–31, div. E, title VI, §630(a), May 5, 2017, 131 Stat. 375; Pub. L. 117–40, §2(b), Sept. 24, 2021, 135 Stat. 338.)
 
 Historical and Revision Notes<br>1982
 
@@ -402,7 +424,13 @@ Section 411 of the Crow Tribe Water Rights Settlement Act of 2010, referred to i
 
 Section 801 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (h), is section 801 of Pub. L. 108–173, which is set out as a note under section 1395i of Title 42, The Public Health and Welfare.
 
+Section 3 of the Federal Funding Accountability and Transparency Act of 2006, referred to in subsec. (i), is section 3 of Pub. L. 109–282, which is set out in a note under section 6101 of this title.
+
+The date of enactment of this subsection, referred to in subsec. (i)(2)(B), is the date of enactment of Pub. L. 117–40, which was approved Sept. 24, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (i). Pub. L. 117–40 added subsec. (i).
 
 <b>2017</b>—Subsec. (a)(35). Pub. L. 115–31, §630(a)(2), substituted "cybersecurity" for "homeland security" wherever appearing.
 
@@ -470,7 +498,7 @@ Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, su
 
 "(2) The deficit set forth in the budget so transmitted for any fiscal year shall not exceed the maximum deficit amount for such fiscal year as determined under paragraph (7) of section 3 of the Congressional Budget and Impoundment Control Act of 1974, with budget outlays and Federal revenues at such levels as the President may consider most desirable and feasible.
 
-"(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget on August 25 of the calendar year in which the fiscal year begins.
+"(3) The budget transmitted pursuant to subsection (a) for a fiscal year shall include a budget baseline estimate made in accordance with section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and using economic and technical assumptions consistent with the current services budget submitted under section 1109 for the fiscal year. If such budget baseline estimate differs from the estimate in the current services budget, the President shall explain the differences. The budget transmitted pursuant to subsection (a) for such fiscal year shall include the information required by section 251(a)(2) of such Act (other than account-level detail) assuming that the deficit in such budget baseline were the amount estimated by the Director of the Office of Management and Budget onAugust 25 of the calendar year in which the fiscal year begins.
 
 "(4) Paragraphs (1) and (2) shall not apply with respect to fiscal year 1989 if the budget transmitted for such fiscal year provides for deficit reduction from a budget baseline deficit for such fiscal year (as defined by section 251(a)(6) of the Balanced Budget and Emergency Deficit Control Act of 1985 and based on laws in effect on January 1, 1988) equal to or greater than $36,000,000,000.
 
@@ -480,7 +508,7 @@ Subsec. (f). Pub. L. 101–508, §13112(c)(2), amended subsec. (f) generally, su
 
 Subsec. (a)(26). Pub. L. 100–690, §§1006, 1009, temporarily added par. (26) relating to statement of appropriations requested for drug programs. See Effective and Termination Dates of 1988 Amendments note below.
 
-Pub. L. 100–418, §§5301, 5303, temporarily added par. (26) which read as follows: "an analysis, prepared by the Office of Management and Budget after consultation with the chairman of the Council of Economic Advisers, of the budget's impact on the international competitiveness of United States business and the United States balance of payments position and shall includethe following projections, based upon the best information available at the time, for the fiscal year for which the budget is submitted—
+Pub. L. 100–418, §§5301, 5303, temporarily added par. (26) which read as follows: "an analysis, prepared by the Office of Management and Budget after consultation with the chairman of the Council of Economic Advisers, of the budget's impact on the international competitiveness of United States business and the United States balance of payments position and shall include the following projections, based upon the best information available at the time, for the fiscal year for which the budget is submitted—
 
 &emsp;"(A) the amount of borrowing by the Government in private credit markets;
 
@@ -536,7 +564,7 @@ Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 63
 
 #### Effective Date of 1994 Amendment
 
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of Title 10, Armed Forces.
 
 #### Effective and Termination Dates of 1988 Amendments
 
@@ -554,7 +582,7 @@ Amendment of subsec. (a) and enactment of subsec. (f) of this section by Pub. L.
 
 Pub. L. 111–291, title IV, §415, Dec. 8, 2010, 124 Stat. 3121, provided that: "If the Secretary does not publish a statement of findings under section 410(e) \[124 Stat. 3112\] not later than March 31, 2016, or the extended date agreed to by the Tribe and the Secretary, after reasonable notice to the State of Montana, as applicable—
 
-&emsp;"(1) this title \[see Short Title of 2010 Amendment note set out under section 1101 of this title\] is repealed effective April 1, 2016, or the day after the extended date agreed to by the Tribe and the Secretary after reasonable notice to the State of Montana, whichever is later;
+&emsp;"(1) this title \[see Short Title of 2010 Amendment note set out under section 1101 of this title\] is repealed effective April 1, 2016, or the day after the extended date agreed to by the Tribe and the Secretaryafter reasonable notice to the State of Montana, whichever is later;
 
 &emsp;"(2) any action taken by the Secretary and any contract or agreement pursuant to the authority provided under any provision of this title shall be void;
 
@@ -662,7 +690,7 @@ Administrative Expenses.—
 
 &emsp;"(1)
 
-In general.—All agencies shall include a separate category for administrative expenses when submitting their appropriation requests to the Office of Management and Budget for fiscal year 2011 and each fiscal year thereafter.
+In general.—All agencies shall include a separate category for administrative expenses when submitting their appropriation requests to the Office ofManagement and Budget for fiscal year 2011 and each fiscal year thereafter.
 
 &emsp;"(2)
 
@@ -686,7 +714,7 @@ Introduction and Referral of President's Legislative Proposal.—
 
 &emsp;"(1)
 
-Introduction.—In the case of a legislative proposal submitted by the President pursuant to section1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader of the House of Representatives (or his designee) and the Minority Leader of the House of Representatives (or his designee) shall introduce such proposal (by request), the title of which is as follows: 'A bill to respond to a medicare funding warning.' Such bill shall be introduced within 3 legislative days after Congress receives such proposal.
+Introduction.—In the case of a legislative proposal submitted by the President pursuant to section 1105(h) of title 31, United States Code, within the 15-day period specified in paragraph (1) of such section, the Majority Leader of the House of Representatives (or his designee) and the Minority Leader of the House of Representatives (or his designee) shall introduce such proposal (by request), the title of which is as follows: 'A bill to respond to a medicare funding warning.' Such bill shall be introduced within 3 legislative days after Congress receives such proposal.
 
 &emsp;"(2)
 
@@ -734,7 +762,7 @@ Floor Consideration in the House of Discharged Legislation.—
 
 &emsp;"(1) In the House, not later than 3 legislative days after any committee has been discharged from further consideration of legislation under subsection (c), the Speaker shall resolve the House into the Committee of the Whole for consideration of the legislation.
 
-&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that it has come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
+&emsp;"(2) The first reading of the legislation shall be dispensed with. All points of order against consideration of the legislation are waived. General debate shall be confined to the legislation and shall not exceed five hours, which shall be divided equally between those favoring and those opposing the legislation. After general debate the legislation shall be considered for amendment under the five-minute rule. During consideration of the legislation, no amendments shall be in order in the House or in the Committee of the Whole except those for which there has been an affirmative certification under subsection (b)(3)(B). All points of order against consideration of any such amendment in the Committee of the Whole are waived. The legislation, together with any amendments which shall be in order, shall be considered as read. During the consideration of the bill for amendment, the Chairman of the Committee of the Whole may accord priority in recognition on the basis of whether the Member offering an amendment has caused it to be printed in the portion of the Congressional Record designated for that purpose in clause 8 of Rule XVIII of the Rules of the House of Representatives. Debate on any amendment shall not exceed one hour, which shall be divided equally between those favoring and those opposing the amendment, and no pro forma amendments shall be offered during the debate. The total time for debate on all amendments shall not exceed 10 hours. At the conclusion of consideration of the legislation for amendment, the Committee shall rise and report the legislation to the House with such amendments as may have been adopted. The previous question shall be considered as ordered on the legislation and amendments thereto to final passage without intervening motion except one motion to recommit with or without instructions. If the Committee of the Whole rises and reports that ithas come to no resolution on the bill, then on the next legislative day the House shall, immediately after the third daily order of business under clause 1 of Rule XIV of the Rules of the House of Representatives, resolve into the Committee of the Whole for further consideration of the bill.
 
 &emsp;"(3) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any such legislation shall be decided without debate.
 
@@ -926,7 +954,7 @@ Report.—Not later than October 1, 1988, the Secretary of the department in whi
 
 #### Water and Sewer Services Furnished to Government Facilities in District of Columbia
 
-Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: "After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated by the Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612)."
+Pub. L. 100–202, §101(c) \[title I, §136\], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: "After the effective date of this Joint Resolution \[Dec. 22, 1987\], the President shall include, without change, in each annual budget submitted to the Congress under section 1105 of title 31, United States Code, the values estimated bythe Mayor of the District of Columbia for water and water services and sanitary sewer services furnished to facilities of the United States Government under sections 106 and 212 of the District of Columbia Public Works Act of 1954, as amended (D.C. Code, sections 43–1552, 43–1612)."
 
 #### Two-Year Budget Cycle for Department of Defense
 

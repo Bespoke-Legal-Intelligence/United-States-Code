@@ -1,6 +1,6 @@
 ### §7463. Other adverse actions
 
-(a) The Secretary shall prescribe by regulation procedures for the consideration of grievances ofsection 7401(1) employees arising from adverse personnel actions in which each action taken either—
+(a) The Secretary shall prescribe by regulation procedures for the consideration of grievances of section 7401(1) employees arising from adverse personnel actions in which each action taken either—
 
 &emsp;(1) is not a major adverse action; or
 

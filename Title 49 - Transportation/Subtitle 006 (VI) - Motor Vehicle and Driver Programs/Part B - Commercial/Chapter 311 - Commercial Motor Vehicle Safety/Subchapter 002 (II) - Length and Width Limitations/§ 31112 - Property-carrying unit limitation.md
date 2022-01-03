@@ -26,7 +26,7 @@ Special Rules for Wyoming, Ohio, Alaska, Iowa, Nebraska, Kansas, and Oregon.—I
 
 &emsp;(3) Alaska may allow the operation of commercial motor vehicle combinations that were not in actual operation on June 1, 1991, but were in actual operation before July 6, 1991;
 
-&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (includingcontinued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991;
+&emsp;(4) Iowa may allow the operation on Interstate Route 29 between Sioux City, Iowa, and the border between Iowa and South Dakota or on Interstate Route 129 between Sioux City, Iowa, and the border between Iowa and Nebraska of commercial motor vehicle combinations with trailer length, semitrailer length, and property-carrying unit length allowed by law or regulation and in actual lawful operation on a regular or periodic basis (including continued seasonal operation) in South Dakota or Nebraska, respectively, before June 2, 1991;
 
 &emsp;(5) Nebraska and Kansas may allow the operation of a truck tractor and 2 trailers or semitrailers not in actual lawful operation on a regular or periodic basis on June 1, 1991, if the length of the property-carrying units does not exceed 81 feet 6 inches and such combination is used only to transport equipment utilized by custom harvesters under contract to agricultural producers to harvest one or more of wheat, soybeans, and milo during the harvest months for such crops, as defined by the relevant state;<sup>1</sup> and
 
@@ -74,7 +74,7 @@ Limitations on Statutory Construction.—This section may not be construed—
 
 &emsp;(2) to affect in any way the operation of a commercial motor vehicle having only one property-carrying unit; or
 
-&emsp;(3) to affect in any way the operation in a State of a commercial motor vehicle withmore than one property-carrying unit if the vehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
+&emsp;(3) to affect in any way the operation in a State of a commercial motor vehicle with more than one property-carrying unit if the vehicle was in actual operation on a regular or periodic basis (including seasonal operation) in that State before June 2, 1991, that was authorized under State law or regulation or lawful State permit.
 
 (g)
 
@@ -138,6 +138,8 @@ In subsections (b), before clause (1), and (g)(1), the words "dismantled easily 
 
 In subsection (e)(4), the words "Except as revised under this paragraph or paragraph (5) of this subsection" are substituted for "Except as modified pursuant to subparagraph (B) or (E) of this subsection" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–6 substituted "Kansas, and Oregon" for "and Kansas" in heading and added par. (6).
@@ -161,6 +163,8 @@ Subsec. (c)(5). Pub. L. 109–59, §4112(a), added par. (5).
 <b>1996</b>—Subsec. (d)(4). Pub. L. 104–205, which directed amendment of this section by adding a new subsection designated par. (4) without specifying where, was executed by adding par. (4) to subsec. (d) to reflect the probable intent of Congress.
 
 <b>1995</b>—Subsec. (c). Pub. L. 104–59 substituted "Alaska, and Iowa" for "and Alaska" in heading and added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

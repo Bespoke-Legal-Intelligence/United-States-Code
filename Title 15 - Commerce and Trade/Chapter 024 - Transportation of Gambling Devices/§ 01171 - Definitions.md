@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) The term "gambling device" means—
 
-&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
+&emsp;(1) any so-called "slot machine" or any other machine or mechanical device an essential part of which is a drum or reel with insignia thereon, and (A) which when operated maydeliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
 &emsp;(2) any other machine or mechanical device (including, but not limited to, roulette wheels and similar devices) designed and manufactured primarily for use in connection with gambling, and (A) which when operated may deliver, as the result of the application of an element of chance, any money or property, or (B) by the operation of which a person may become entitled to receive, as the result of the application of an element of chance, any money or property; or
 
@@ -22,6 +22,8 @@ As used in this chapter—
 
 (Jan. 2, 1951, ch. 1194, §1, 64 Stat. 1134; Pub. L. 87–840, §§2, 3, Oct. 18, 1962, 76 Stat. 1075; Pub. L. 102–251, title II, §202(c), Mar. 9, 1992, 106 Stat. 62.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–251 added subsec. (f).
@@ -31,6 +33,8 @@ As used in this chapter—
 Subsec. (b). Pub. L. 87–840, §3, substituted "the District of Columbia" for "Alaska, Hawaii".
 
 Subsecs. (d) and (e). Pub. L. 87–840, §3, added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1962 Amendment
 

@@ -110,7 +110,7 @@ In applying this section—
 
 #### (5) 5 percent stock rule
 
-&emsp;In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time before the close of such year the issuing corporation owns 5percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
+&emsp;In the case of obligations issued to provide consideration for the acquisition of stock in another corporation, such obligations shall be corporate acquisition indebtedness for a taxable year only if at some time before the close of such year the issuing corporation owns 5 percent or more of the total combined voting power of all classes of stock entitled to vote of such other corporation.
 
 #### (e) Certain nontaxable transactions
 
@@ -138,6 +138,8 @@ No inference shall be drawn from any provision in this section that any instrume
 
 (Added Pub. L. 91–172, title IV, §411(a), Dec. 30, 1969, 83 Stat. 604; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 94–514, §1(a), Oct. 15, 1976, 90 Stat. 2443; Pub. L. 113–295, div. A, title II, §221(a)(47)(A), Dec. 19, 2014, 128 Stat. 4045.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(2). Pub. L. 113–295, §221(a)(47)(A)(i), struck out "after December 31, 1967," after "(A) issued".
@@ -156,6 +158,8 @@ Subsecs. (i), (j). Pub. L. 113–295, §221(a)(47)(A)(iv), redesignated subsec. 
 
 Subsec. (i). Pub. L. 94–514 struck out provisions that par. (2) would cease to apply when (at any time on or after October 9, 1969) the issuing corporation has acquired control (as defined in section 368(c)) of the acquired corporation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–295, div. A, title II, §221(a)(47)(B), Dec. 19, 2014, 128 Stat. 4045, provided that: "The amendments made by this paragraph \[amending this section\] shall not—
@@ -168,7 +172,7 @@ Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment b
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–514, §1(b), Oct. 15, 1976, 90 Stat. 2443, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act\[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date."
+Pub. L. 94–514, §1(b), Oct. 15, 1976, 90 Stat. 2443, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after October 9, 1969. If refund or credit of any overpayment of income tax resulting from the amendment made by subsection (a) \[amending this section\] is prevented on the date of the enactment of this Act \[Oct. 15, 1976\], or at any time within one year after such date, by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed within one year from such date."
 
 #### Effective Date
 

@@ -20,7 +20,7 @@ Section 123, act Mar. 3, 1905, ch. 1496, §1, 33 Stat. 1264; Feb. 7, 1928, ch. 3
 
 Section 124, act Mar. 3, 1905, ch. 1496, §2, 33 Stat. 1264; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, §8(b), July 2, 1962, 76 Stat. 131, prohibited transportation or delivery therefor from quarantined State or Territory or portion thereof, of quarantined animals and live poultry.
 
-Section 125, act Mar. 3, 1905, ch. 1496, §3, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, §8(b), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, §3, Oct. 10, 1978, 92 Stat. 1061, related to regulations for inspection, disinfection, and certification, and delivery and shipment of quarantined animals and live poultry from State or Territory.
+Section 125, act Mar. 3, 1905, ch. 1496, §3, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, §8(b), July 2, 1962, 76 Stat. 131; Pub. L. 95–439, §3, Oct. 10, 1978, 92Stat. 1061, related to regulations for inspection, disinfection, and certification, and delivery and shipment of quarantined animals and live poultry from State or Territory.
 
 Section 126, act Mar. 3, 1905, ch. 1496, §4, 33 Stat. 1265; Feb. 7, 1928, ch. 30, 45 Stat. 59; Pub. L. 87–518, §8(b), July 2, 1962, 76 Stat. 131, related to moving quarantined animals and live poultry from State or Territory, under regulations.
 

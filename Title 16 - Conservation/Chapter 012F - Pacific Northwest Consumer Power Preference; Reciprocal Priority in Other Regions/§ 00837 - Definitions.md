@@ -4,7 +4,7 @@ As used in this chapter—
 
 (a) "Secretary" means the Secretary of Energy.
 
-(b) "Pacific Northwest" means (1) the region consisting of the States of Oregon and Washington, the State of Montana west of the Continental Divide, and such portions of the States of Nevada, Utah, and Wyoming within the Columbia drainage basin and of the State of Idaho as the Secretary may determine to be within the marketing area of the Federal Columbia Riverpower system, and (2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region.
+(b) "Pacific Northwest" means (1) the region consisting of the States of Oregon and Washington, the State of Montana west of the Continental Divide, and such portions of the States of Nevada, Utah, and Wyoming within the Columbia drainage basin and of the State of Idaho as the Secretary may determine to be within the marketing area of the Federal Columbia River power system, and (2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region.
 
 (c) "Surplus energy" means electric energy generated at Federal hydroelectric plants in the Pacific Northwest which would otherwise be wasted because of the lack of a market therefor in the Pacific Northwest at any established rate.
 
@@ -18,9 +18,13 @@ As used in this chapter—
 
 (Pub. L. 88–552, §1, Aug. 31, 1964, 78 Stat. 756; Pub. L. 95–91, title III, §302(a), Aug. 4, 1977, 91 Stat. 578; Pub. L. 96–501, §8(e), Dec. 5, 1980, 94 Stat. 2729.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (b)(2). Pub. L. 96–501 substituted "(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a rural electric cooperative served by the Administrator on December 5, 1980, which has a distribution system from which it serves both within and without said region" for "(2) any contiguous areas, not in excess of seventy-five airline miles from said region, which are a part of the service area of a distribution cooperative which has (i) no generating facilities, and (ii) a distribution system from which it serves both within and without said region".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -30,5 +34,5 @@ Amendment by Pub. L. 96–501 effective Dec. 5, 1980, see section 11 of Pub. L. 
 
 "Secretary of Energy" substituted for "Secretary of the Interior" in subsec. (a) pursuant to Pub. L. 95–91, §302(a), which is classified to section 7152(a) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and the functions, personnel, property, funds, etc., thereof transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 

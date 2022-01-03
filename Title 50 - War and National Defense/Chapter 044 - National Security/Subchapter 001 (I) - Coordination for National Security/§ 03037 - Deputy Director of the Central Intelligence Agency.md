@@ -10,13 +10,17 @@ The Deputy Director of the Central Intelligence Agency shall—
 
 &emsp;(1) assist the Director of the Central Intelligence Agency in carrying out the duties and responsibilities of the Director of the Central Intelligence Agency; and
 
-&emsp;(2) during the absence or disability of the Director of the Central Intelligence Agency, or during a vacancy in the position of Director of the Central Intelligence Agency, act for and exercise the powers of the Director of the Central Intelligence Agency.
+&emsp;(2) during the absence or disability of the Director of the Central Intelligence Agency, or during a vacancy in the position of Director ofthe Central Intelligence Agency, act for and exercise the powers of the Director of the Central Intelligence Agency.
 
 (July 26, 1947, ch. 343, title I, §104B, as added Pub. L. 111–259, title IV, §423(a), Oct. 7, 2010, 124 Stat. 2727.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 403–4c of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

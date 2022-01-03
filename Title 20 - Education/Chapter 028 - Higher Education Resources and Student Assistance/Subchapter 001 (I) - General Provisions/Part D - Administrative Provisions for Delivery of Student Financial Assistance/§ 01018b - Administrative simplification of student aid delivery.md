@@ -50,6 +50,8 @@ Any entity that maintains or transmits information under a transaction covered b
 
 (Pub. L. 89–329, title I, §143, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1615.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 1018b to 1018f were omitted in the general amendment of this subchapter by Pub. L. 102–325.

@@ -10,7 +10,7 @@ In order to encourage the widest possible use of all electric energy that can be
 
 #### (c) Acquisition of real and personal property
 
-The Secretary of the Interior is authorized, in the name of the United States, to acquire, by purchase, lease, condemnation, or donation,such real and personal property, or any interest therein, including lands, easements, rights-of-way, franchises, electric transmission lines, substations, and facilities and structures appurtenant thereto, as he finds necessary or appropriate to carry out the purposes of this chapter. Title to all property and property rights acquired by said Secretary shall be taken in the name of the United States.
+The Secretary of the Interior is authorized, in the name of the United States, to acquire, by purchase, lease, condemnation, or donation, such real and personal property, or any interest therein, including lands, easements, rights-of-way, franchises, electric transmission lines, substations, and facilities and structures appurtenant thereto, as he finds necessary or appropriate to carry out the purposes of this chapter. Title to all property and property rights acquired by said Secretary shall be taken in the name of the United States.
 
 #### (d) Acquisition of any property or property rights
 
@@ -26,6 +26,8 @@ Subject to the provisions of this chapter, the Bureau is authorized, in the name
 
 (May 18, 1938, ch. 250, §2, 52 Stat. 404; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
@@ -33,8 +35,6 @@ Department of War designated Department of the Army and title of Secretary of Wa
 #### Transfer of Functions
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(E), (3) of Title 42, The Public Health and Welfare, and are to be exercised by Secretary through a separate Administration within Department of Energy.
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Transfer of Certain Facilities
 
@@ -51,4 +51,10 @@ Sec. 2. That the amount of money to be paid for said property shall be $58,577.5
 "
 
 Sec. 3. The Secretary of the Interior is authorized to perform any and all acts as may be deemed necessary to carry out the provisions of this Act \[Act Feb. 27, 1948, ch. 75, 62 Stat. 36\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 

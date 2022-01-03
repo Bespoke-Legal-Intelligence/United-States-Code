@@ -14,7 +14,7 @@
 
 (e)(1)(A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
 
-(B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals' personal conduct and shall not apply in the case of complaints filed solely on the basis of such individuals' positions as officials of the Department.
+(B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals' personal conduct and shall not apply in the case of complaints filed solelyon the basis of such individuals' positions as officials of the Department.
 
 (2) Paragraph (1) applies to the following officers and employees of the Department:
 
@@ -54,15 +54,15 @@
 
 (f) The Secretary shall ensure that an employee of the Department who seeks counseling relating to employment discrimination may elect to receive such counseling from an employee of the Department who carries out equal employment opportunity counseling functions on a full-time basis rather than from an employee of the Department who carries out such functions on a part-time basis.
 
-(g) The number of employees of the Department whose duties include equal employmentopportunity counseling functions as well as other, unrelated functions may not exceed 40 full-time equivalent employees. Any such employee may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations (as determined by the Secretary). The Secretary may waive the limitation in the preceding sentence in specific cases.
+(g) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
 
-(h) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
-
-(Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063.)
+(Added Pub. L. 105–114, title I, §101(a)(1), Nov. 21, 1997, 111 Stat. 2278; amended Pub. L. 105–368, title IV, §403(d)(2), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 108–170, title IV, §405(a), Dec. 6, 2003, 117 Stat. 2063; Pub. L. 117–76, §7(a), Dec. 21, 2021, 135 Stat. 1520.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsecs. (g), (h). Pub. L. 117–76 redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: "The number of employees of the Department whose duties include equal employment opportunity counseling functions as well as other, unrelated functions may not exceed 40 full-time equivalent employees. Any such employee may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations (as determined by the Secretary). The Secretary may waive the limitation in the preceding sentence in specific cases."
 
 <b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–170 substituted "45 days" for "30 days".
 

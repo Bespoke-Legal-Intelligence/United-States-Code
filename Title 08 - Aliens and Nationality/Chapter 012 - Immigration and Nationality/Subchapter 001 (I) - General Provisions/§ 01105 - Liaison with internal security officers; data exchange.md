@@ -20,7 +20,7 @@ The provision of the extracts described in subsection (b) may be reconsidered by
 
 #### (d) Regulations
 
-For purposes of administering this section, the Department of State shall, prior to receiving access to NCIC data but not later than 4 months after October 26, 2001, promulgate final regulations—
+For purposes of administering this section, the Department of State shall, prior to receiving access to NCIC data but not later than 4 monthsafter October 26, 2001, promulgate final regulations—
 
 &emsp;(1) to implement procedures for the taking of fingerprints; and
 

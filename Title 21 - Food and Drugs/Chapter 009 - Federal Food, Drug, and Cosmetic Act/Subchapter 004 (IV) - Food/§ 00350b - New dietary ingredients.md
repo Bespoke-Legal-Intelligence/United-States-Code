@@ -44,7 +44,7 @@ For purposes of this section, the term "new dietary ingredient" means a dietary 
 
 #### Guidance
 
-Pub. L. 111–353, title I, §113(b), Jan. 4, 2011, 124 Stat. 3921, provided that: "Not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350b(a)(2)\], the evidence needed to document the safety of new dietary ingredients, and appropriate methods forestablishing the identify \[sic\] of a new dietary ingredient."
+Pub. L. 111–353, title I, §113(b), Jan. 4, 2011, 124 Stat. 3921, provided that: "Not later than 180 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall publish guidance that clarifies when a dietary supplement ingredient is a new dietary ingredient, when the manufacturer or distributor of a dietary ingredient or dietary supplement should provide the Secretary with information as described in section 413(a)(2) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350b(a)(2)\], the evidence needed to document the safety of new dietary ingredients, and appropriate methods for establishing the identify \[sic\] of a new dietary ingredient."
 
 #### Construction of 2011 Amendment
 

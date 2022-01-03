@@ -6,7 +6,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (b) Subsection (a) shall not apply—
 
-&emsp;(1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling orother determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
+&emsp;(1) if the officer or employee first advises the Government official responsible for appointment to his or her position of the nature and circumstances of the judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, charge, accusation, arrest, or other particular matter and makes full disclosure of the financial interest and receives in advance a written determination made by such official that the interest is not so substantial as to be deemed likely to affect the integrity of the services which the Government may expect from such officer or employee;
 
 &emsp;(2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
 
@@ -34,7 +34,7 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 &emsp;(B) provide guidance with respect to the types of interests that are not so substantial as to be deemed likely to affect the integrity of the services the Government may expect from the employee.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, §205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, §405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, §5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322, title XXXIII, §§330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1124; amended Pub. L. 95–188, title II, §205, Nov. 16, 1977, 91 Stat. 1388; Pub. L. 101–194, title IV, §405, Nov. 30, 1989, 103 Stat. 1751; Pub. L. 101–280, §5(e), May 4, 1990, 104 Stat. 159; Pub. L. 103–322,title XXXIII, §§330002(b), 330008(6), Sept. 13, 1994, 108 Stat. 2140, 2143.)
 
 #### <b>Editorial Notes</b>
 

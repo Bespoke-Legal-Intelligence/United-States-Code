@@ -4,7 +4,7 @@
 
 #### (1) Response action contractors
 
-&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant orcontaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries, costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
+&emsp;A person who is a response action contractor with respect to any release or threatened release of a hazardous substance or pollutant or contaminant from a vessel or facility shall not be liable under this subchapter or under any other Federal law to any person for injuries,costs, damages, expenses, or other liability (including but not limited to claims for indemnification or contribution and claims by third parties for death, personal injury, illness or loss of or damage to property or economic loss) which results from such release or threatened release.
 
 #### (2) Negligence, etc.
 
@@ -160,6 +160,8 @@ Response action contractors and subcontractors for program management, construct
 
 (Pub. L. 96–510, title I, §119, as added Pub. L. 99–499, title I, §119, Oct. 17, 1986, 100 Stat. 1662; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–202, §101(f) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–198; Pub. L. 101–584, §1, Nov. 15, 1990, 104 Stat. 2872; Pub. L. 102–484, div. A, title III, §331(a), Oct. 23, 1992, 106 Stat. 2373; Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2497.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (b)(1), (e)(1), (2)(A)(iii), and (f), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
@@ -174,7 +176,7 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 
 In subsec. (c)(3), "section 6301(a) and (b) of title 41" substituted for "section 3732 of the Revised Statutes (41 U.S.C. 11)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (g)(1), "sections 3131 and 3133 of title 40" substituted for "the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the 'Miller Act' " and for "such Act of August 24, 1935" and "section 3134 of title 40" substituted for "the Act of April 29, 1941 (40U.S.C. 270e–270f)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (g)(1), "sections 3131 and 3133 of title 40" substituted for "the Act of August 24, 1935 (40 U.S.C.270a–270d), commonly referred to as the 'Miller Act' " and for "such Act of August 24, 1935" and "section 3134 of title 40" substituted for "the Act of April 29, 1941 (40 U.S.C. 270e–270f)", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -195,6 +197,8 @@ Subsec. (g). Pub. L. 101–584, §1(3), added subsec. (g).
 <b>1987</b>—Subsec. (e)(2)(A)(iii). Pub. L. 100–202 added cl. (iii).
 
 <b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coordination of Titles I to IV of Pub. L. 99–499
 

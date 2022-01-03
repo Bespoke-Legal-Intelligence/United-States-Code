@@ -106,7 +106,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 #### (i) Substantiation of impact costs
 
-&emsp;&emsp;&emsp;Not later than 120 days after December 17, 2003, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall each submit to the Secretary of the Interior a report, prepared in consultation with an independent accounting firm, substantiating unreimbursed impact expenses claimed for the period from January 14, 1986, through September 30, 2003. Upon request of the Secretary of the Interior, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall submit to the Secretary of the Interior copies of all documents upon which the report submitted by that Governor under this clause was based.
+&emsp;&emsp;&emsp;Not later than 120 days after December 17, 2003, the Governor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall each submit to the Secretary of the Interior a report, prepared in consultation with an independent accounting firm, substantiating unreimbursed impact expenses claimed for the period from January 14, 1986, through September 30, 2003. Upon request of the Secretary of the Interior, theGovernor of Guam and the Governor of the Commonwealth of the Northern Mariana Islands shall submit to the Secretary of the Interior copies of all documents upon which the report submitted by that Governor under this clause was based.
 
 #### (ii) Congressional notification
 
@@ -154,7 +154,7 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 #### (i) Construction of section 141(f)
 
-Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
+Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia andof the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
 
 #### (j) Inflation adjustment
 
@@ -166,13 +166,15 @@ In furtherance of the provisions of Title Three, Article IV, Section 341 of the 
 
 (Pub. L. 108–188, title I, §104, Dec. 17, 2003, 117 Stat. 2737; Pub. L. 110–229, title VIII, §806(a)(2), May 8, 2008, 122 Stat. 871; Pub. L. 111–68, div. A, title I, §1501(c), Oct. 1, 2009, 123 Stat. 2041.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Immigration and Nationality Act, referred to in subsec. (b)(3), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 The enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003, referred to in subsec. (b)(4), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
-The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau,which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
@@ -198,9 +200,13 @@ Subsec. (e)(10). Pub. L. 110–229, §806(a)(2)(B)(iii), substituted "related to
 
 Subsec. (j). Pub. L. 110–229, §806(a)(2)(C), inserted "the" before "Interior),".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives and Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### <b>Executive Documents</b>
 
 #### Assignment of Reporting Functions
 

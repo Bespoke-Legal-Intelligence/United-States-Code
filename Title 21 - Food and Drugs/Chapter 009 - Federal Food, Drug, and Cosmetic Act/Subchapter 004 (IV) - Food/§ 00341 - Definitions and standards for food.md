@@ -20,10 +20,6 @@ Whenever in the judgment of the Secretary such action will promote honesty and f
 
 Act Aug. 1, 1956, ch. 861, §3, 70 Stat. 919, provided that: "In any case in which, prior to the enactment of this Act \[Aug. 1, 1956\], a public hearing has been begun in accordance with section 401 of the Federal Food, Drug, and Cosmetic Act \[341 of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by such section, or has been begun in accordance with section 701(e) of such Act \[section 371(e) of this title\] upon a proposal to issue, amend, or repeal any regulation contemplated by section 403(j), 404(a), 406(a) or (b), 501(b), 502(d), 502(h), 504 or 604 of such Act \[section 343(j), 344(a), 346(a) or (b), 351(b), 352(d), 352(h), 354, or 364 of this title\], the provisions of such section 401 or 701(e), as the case may be, as in force immediately prior to the date of the enactment of this Act \[Aug. 1, 1956\], shall be applicable as though this Act \[amending this section and section 371(e) of this title\] had not been enacted."
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
-
 #### Food Safety and Security Strategy
 
 Pub. L. 107–188, title III, §301, June 12, 2002, 116 Stat. 662, provided that:
@@ -260,6 +256,10 @@ Termination.—The Commission shall terminate on the date that is 60 days after 
 
 #### <b>Executive Documents</b>
 
+#### Transfer of Functions
+
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see notes set out under section 321 of this title.
+
 #### Ex. Ord. No. 13100. President's Council on Food Safety
 
 Ex. Ord. No. 13100, Aug. 25, 1998, 63 F.R. 45661, as amended by Ex. Ord. No. 13286, §16, Feb. 28, 2003, 68 F.R. 10623, provided:
@@ -276,7 +276,7 @@ Sec. 3. <i>Specific Activities and Functions</i>. (a) The Council shall develop 
 
 (b) Consistent with the comprehensive strategic Federal food safety plan described in section 3(a) of this order, the Council shall advise agencies of priority areas for investment in food safety and ensure that Federal agencies annually develop coordinated food safety budgets for submission to the OMB that sustain and strengthen existing capacities, eliminate duplication, and ensure the most effective use of resources for improving food safety. The Council shall also ensure that Federal agencies annually develop a unified budget for submission to the OMB for the President's Food Safety Initiative and such other food safety issues as the Council determines appropriate.
 
-(c) The Council shall ensure that the Joint Institute for Food Safety Research (JIFSR), in consultation with the National Science and Technology Council, establishes mechanisms to guide Federal research efforts toward the highest priority food safety needs. The JIFSR shall report to the Council on a regular basis on its efforts: (i) to develop a strategic plan for conducting food safety research activities consistent with the President's Food Safety Initiative and such other food safety activities as the JIFSR determines appropriate; and (ii) to coordinate efficiently, within the executive branch and with the private sector and academia, all Federal food safety research.
+(c) The Council shall ensure that the Joint Institute for Food Safety Research (JIFSR), in consultation with the National Science and Technology Council, establishes mechanisms to guide Federal research efforts toward the highest priority food safety needs. The JIFSR shall report to the Council on a regular basis on its efforts: (i) to develop a strategic plan for conducting food safety research activities consistent with the President's Food Safety Initiative and such other food safety activities as the JIFSR determines appropriate; and\(ii) to coordinate efficiently, within the executive branch and with the private sector and academia, all Federal food safety research.
 
 Sec. 4. <i>Cooperation</i>. All actions taken by the Council shall, as appropriate, promote partnerships and cooperation with States, tribes, and other public and private sector efforts wherever possible to improve the safety of the food supply.
 

@@ -4,7 +4,7 @@
 
 (b) For purposes of this section—
 
-&emsp;(1) the term "Federal auditor" means any person employed on a full- or part-time or contractual basis to perform an audit or a quality assurance inspection for or on behalf of the United States; and
+&emsp;(1) the term "Federal auditor" means any person employed on a full- or part-time or contractual basis to perform an audit or a qualityassurance inspection for or on behalf of the United States; and
 
 &emsp;(2) the term "in any 1 year period" has the meaning given to the term "in any one-year period" in section 666.
 

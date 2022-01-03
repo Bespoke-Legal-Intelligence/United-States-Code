@@ -2,7 +2,7 @@
 
 (a) Section 717 of title 10 does not authorize the payment of allowances at higher rates than those provided for participation in military activities not covered by that section.
 
-(b) Notwithstanding any other law, a member of a uniformed service is not entitled to travel and transportation allowances under sections 474–481 of this title for any period during which his expenses for travel or transportation are being paid by the agency sponsoring his participation in a competition covered by section 717 of title 10.
+(b) Notwithstanding any other law, a member of a uniformed service is not entitled to travel and transportation allowances under sections 474–481 <sup>1</sup> of this title for any period during which his expenses for travel or transportation are being paid by the agency sponsoring his participation in a competition covered by section 717 of title 10.
 
 (c) Notwithstanding any other law, a member of a uniformed service who has no dependents is not entitled to the basic allowances for subsistence and housing authorized by sections 402 and 403 of this title for a period during which he is subsisted and quartered by the agency sponsoring his participation in a competition covered by section 717 of title 10.
 
@@ -32,6 +32,10 @@ Oct. 12, 1949, ch. 681, §307; added Sept. 2, 1958, Pub. L. 85–861, §11, 72 S
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Sections 474 to 481 of this title, referred to in subsec. (b), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 #### Prior Provisions
 
 A prior section 420 was renumbered section 421 of this title.
@@ -55,4 +59,6 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–85 effective Jan. 1, 1998, see section 603(e) of Pub. L. 105–85, set out as a note under section 5561 of Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

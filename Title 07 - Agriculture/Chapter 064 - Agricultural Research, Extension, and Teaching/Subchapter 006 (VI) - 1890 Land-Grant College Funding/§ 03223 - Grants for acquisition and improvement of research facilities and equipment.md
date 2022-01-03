@@ -6,7 +6,7 @@ It is hereby declared to be the intent of Congress to assist the institutions el
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of Agriculture for the purpose of carrying out the provisions of this section $10,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, September 30, 1985, September 30,1986, and September 30, 1987, such sums to remain available until expended.
+There are authorized to be appropriated to the Secretary of Agriculture for the purpose of carrying out the provisions of this section $10,000,000 for each of the fiscal years ending September 30, 1982, September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987, such sums to remain available until expended.
 
 #### (c) Allocation of funds
 
@@ -26,6 +26,8 @@ The Secretary may promulgate such rules and regulations as the Secretary may dee
 
 (Pub. L. 97–98, title XIV, §1433, Dec. 22, 1981, 95 Stat. 1312; Pub. L. 99–198, title XIV, §1433, Dec. 23, 1985, 99 Stat. 1557.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
@@ -39,6 +41,8 @@ Section was enacted as part of the Agriculture and Food Act of 1981, and not as 
 <b>1985</b>—Subsec. (a). Pub. L. 99–198, §1432(a), inserted ", including agricultural libraries," after "equipment".
 
 Subsec. (b). Pub. L. 99–198, §1432(b), authorized appropriations for fiscal year ending Sept. 30, 1987.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

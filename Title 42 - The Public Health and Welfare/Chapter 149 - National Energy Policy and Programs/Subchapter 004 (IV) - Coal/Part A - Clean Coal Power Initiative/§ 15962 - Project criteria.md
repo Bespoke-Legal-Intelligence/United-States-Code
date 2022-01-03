@@ -188,7 +188,7 @@ In carrying out this part, the Secretary shall require cost sharing in accordanc
 
 #### (g) Fee title
 
-The Secretary may vest fee title or other property interests acquired under cost-share clean coal power initiative agreements underthis part in any entity, including the United States.
+The Secretary may vest fee title or other property interests acquired under cost-share clean coal power initiative agreements under this part in any entity, including the United States.
 
 #### (h) Data protection
 
@@ -210,13 +210,17 @@ No technology, or level of emission reduction, solely by reason of the use of th
 
 (Pub. L. 109–58, title IV, §402, Aug. 8, 2005, 119 Stat. 750; Pub. L. 110–140, title VI, §653, Dec. 19, 2007, 121 Stat. 1695.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in subsec. (i), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
+This Act, referred to in subsec. (i), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of this title and Tables.
 
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(1)(B)(ii)(I). Pub. L. 110–140 added subcl. (I) and struck out former subcl. (I) which read as follows: "to remove at least 99 percent of sulfur dioxide;".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

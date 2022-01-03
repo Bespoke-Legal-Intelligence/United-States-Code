@@ -34,7 +34,7 @@ Minimum Standards for Testing and Fitness.—The Secretary of Transportation sha
 
 &emsp;(6) shall establish minimum scores for passing the tests;
 
-&emsp;(7) shall ensure that an individual taking the tests is qualified to operate a commercialmotor vehicle under regulations prescribed by the Secretary and contained in title 49, Code of Federal Regulations, to the extent the regulations apply to the individual; and
+&emsp;(7) shall ensure that an individual taking the tests is qualified to operate a commercial motor vehicle under regulations prescribed by the Secretary and contained in title 49, Code of Federal Regulations, to the extent the regulations apply to the individual; and
 
 &emsp;(8) may require—
 
@@ -150,6 +150,8 @@ In subsection (a), before clause (1), the words "Not later than July 15, 1988" a
 
 In subsection (b)(1), the words "taken and" are omitted as unnecessary. The text of 49 App.:2704(b)(3) is omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c), is the date of enactment of title II of div. C of Pub. L. 112–141, which was approved July 6, 2012.
@@ -174,6 +176,8 @@ Subsec. (c). Pub. L. 112–141, §32304(a), added subsec. (c).
 
 <b>1999</b>—Subsec. (b)(1). Pub. L. 106–159 struck out "to operate the vehicle" after "written and driving tests" and inserted "to operate the vehicle and has a commercial driver's license to operate the vehicle" before period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -181,6 +185,10 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
+
+#### Modification of Restrictions on Certain Commercial Driver's Licenses
+
+Pub. L. 117–58, div. B, title III, §23019, Nov. 15, 2021, 135 Stat. 777, provided that: "The Administrator of the Federal Motor Carrier Safety Administration shall revise section 383.3(f)(3)(ii) of title 49, Code of Federal Regulations (or a successor regulation), to provide that a restricted commercial driver's license issued to an employee in a farm-related service industry shall be limited to the applicable seasonal periods defined by the State issuing the restricted commercial driver's license, subject to the condition that the total number of days in any calendar year during which the restricted commercial driver's license is valid does not exceed 210."
 
 #### Report on Commercial Driver's License Skills Test Delays
 
@@ -240,7 +248,7 @@ No Period of Commercial Driving While Using Insulin Required for Qualification.�
 
 "(c)
 
-Minimum Period of Insulin Use.—Subject to subsection (b), the Secretary shall require individualswith insulin-treated diabetes mellitus to have a minimum period of insulin use to demonstrate stable control of diabetes before operating a commercial motor vehicle in interstate commerce. Such demonstration shall be consistent with the findings reported in July 2000, by the expert medical panel established by the Secretary, in 'A Report to Congress on the Feasibility of a Program to Qualify Individuals with Insulin-Treated Diabetes Mellitus to Operate Commercial Motor Vehicles in Interstate Commerce as Directed by the Transportation Equity Act for the 21st Century'. For individuals who have been newly diagnosed with type 1 diabetes, the minimum period of insulin use may not exceed 2 months, unless directed by the treating physician. For individuals who have type 2 diabetes and are converting to insulin use, the minimum period of insulin use may not exceed 1 month, unless directed by the treating physician.
+Minimum Period of Insulin Use.—Subject to subsection (b), the Secretary shall require individuals with insulin-treated diabetes mellitus to have a minimum period of insulin use to demonstrate stable control of diabetes before operating a commercial motor vehicle in interstate commerce. Such demonstration shall be consistent with the findings reported in July 2000, by the expert medical panel established by the Secretary, in 'A Report to Congress on the Feasibility of a Program to Qualify Individuals with Insulin-Treated Diabetes Mellitus to Operate Commercial Motor Vehicles in Interstate Commerce as Directed by the Transportation Equity Act for the 21st Century'. For individuals who have been newly diagnosed with type 1 diabetes, the minimum period of insulin use may not exceed 2 months, unless directed by the treating physician. For individuals who have type 2 diabetes and are converting to insulin use, the minimum period of insulin use may not exceed 1 month, unless directed by the treating physician.
 
 "(d)
 
@@ -278,7 +286,7 @@ Compilation and Evaluation.—Prior to making the determination in subsection (a
 
 &emsp;"(1) consult with States that have developed and are implementing a screening process to identify individuals with insulin treated diabetes mellitus who may obtain waivers to drive commercial motor vehicles in intrastate commerce;
 
-&emsp;"(2) evaluate the Department's policy and actions to permit certain insulin treated diabetes mellitus individuals who meet selection criteria and who successfully comply with the approved monitoring protocol to operate in other modes of transportation;
+&emsp;"(2) evaluate the Department's policy and actions to permit certain insulin treated diabetes mellitusindividuals who meet selection criteria and who successfully comply with the approved monitoring protocol to operate in other modes of transportation;
 
 &emsp;"(3) assess the possible legal consequences of permitting insulin treated diabetes mellitus individuals to drive commercial motor vehicles in interstate commerce;
 

@@ -2,7 +2,7 @@
 
 #### (a) Producer approval of order
 
-The Secretary shall conduct a referendum among egg producers not exempt hereunder who, during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the issuance of an order is approved or favored by such producers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers voting in such referendum, or by a majority of the producers voting in such referendum if such majority produced not less than two-thirds of the commercial eggs produced during a representative period defined by the Secretary.
+The Secretary shall conduct a referendum among egg producers not exempt hereunder who,during a representative period determined by the Secretary, have been engaged in the production of commercial eggs, for the purpose of ascertaining whether the issuance of an order is approved or favored by such producers. No order issued pursuant to this chapter shall be effective unless the Secretary determines that the issuance of such order is approved or favored by not less than two-thirds of the producers voting in such referendum, or by a majority of the producers voting in such referendum if such majority produced not less than two-thirds of the commercial eggs produced during a representative period defined by the Secretary.
 
 #### (b) Request by Egg Board for referendum
 
@@ -31,6 +31,8 @@ The Secretary shall conduct a referendum among egg producers not exempt hereunde
 The failure of egg producers to approve an amendment to any Egg Research and Promotion Order shall not be deemed to invalidate such order.
 
 (Pub. L. 93–428, §9, Oct. 1, 1974, 88 Stat. 1176; Pub. L. 96–276, §5, June 17, 1980, 94 Stat. 541; Pub. L. 103–188, §2(b), Dec. 14, 1993, 107 Stat. 2256.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

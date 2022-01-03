@@ -122,11 +122,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian'sidentity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
+&emsp;&emsp;Subject to the requirements of subparagraph (B), an unaccompanied alien child may not be placed with a person or entity unless the Secretary of Health and Human Services makes a determination that the proposed custodian is capable of providing for the child's physical and mental well-being. Such determination shall, at a minimum, include verification of the custodian's identity and relationship to the child, if any, as well as an independent finding that the individual has not engaged in any activity that would indicate a potential risk to the child.
 
 #### (B) Home studies
 
-&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and Human Services shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
+&emsp;&emsp;Before placing the child with an individual, the Secretary of Health and HumanServices shall determine whether a home study is first necessary. A home study shall be conducted for a child who is a victim of a severe form of trafficking in persons, a special needs child with a disability (as defined in section 12102 of title 42), a child who has been a victim of physical or sexual abuse under circumstances that indicate that the child's health or welfare has been significantly harmed or threatened, or a child whose proposed sponsor clearly presents a risk of abuse, maltreatment, exploitation, or trafficking to the child based on all available objective evidence. The Secretary of Health and Human Services shall conduct follow-up services, during the pendency of removal proceedings, on children for whom a home study was conducted and is authorized to conduct follow-up services in cases involving children with mental health or other needs who could benefit from ongoing assistance from a social welfare agency.
 
 #### (C) Access to information
 
@@ -176,11 +176,11 @@
 
 #### (iii) Contribution of funds
 
-&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kindcontributions may not exceed 40 percent of the matching requirement under this clause.
+&emsp;&emsp;&emsp;A child advocate program selected under this section shall contribute non-Federal funds, either directly or through in-kind contributions, to the costs of the child advocate program in an amount that is not less than 25 percent of the total amount of Federal funds received by the child advocate program under this section. In-kind contributions may not exceed 40 percent of the matching requirement under this clause.
 
 #### (D) Annual report to Congress
 
-&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertaken by the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
+&emsp;&emsp;Not later than 1 year after March 7, 2013, and annually thereafter, the Secretary of Health and Human Services shall submit a report describing the activities undertakenby the Secretary to authorize the appointment of independent Child Advocates for trafficking victims and vulnerable unaccompanied alien children to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.
 
 #### (E) Assessment of Child Advocate Program
 
@@ -252,7 +252,7 @@
 
 #### (6) Transition rule
 
-&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) ofthe Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
+&emsp;Notwithstanding any other provision of law, an alien described in section 101(a)(27)(J) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(27)(J)), as amended by paragraph (1), may not be denied special immigrant status under such section after December 23, 2008, based on age if the alien was a child on the date on which the alien applied for such status.
 
 #### (7) Omitted
 

@@ -17,7 +17,8 @@
 | [182\.](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md) | Center for Excellence in Disaster Management and Humanitarian Assistance. |
 | [183\.](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md) | Department of Defense Board of Actuaries. |
 | [183a.](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md) | Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions. |
-| \[184 to 186. Renumbered or Repealed.\] |  |
+| [184\.](%C2%A7%2000184%20-%20Joint%20Safety%20Council.md) | Joint Safety Council. |
+| \[185, 186. Renumbered or Repealed.\] |  |
 | [187\.](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md) | Strategic Materials Protection Board. |
 | [188\.](%C2%A7%2000188%20-%20Interagency%20Council%20on%20the%20Strategic%20Capability%20of%20the%20National%20Laboratories.md) | Interagency Council on the Strategic Capability of the National Laboratories. |
 | [189\.](%C2%A7%2000189%20-%20Communications%20Security%20Review%20and%20Advisory%20Board.md) | Communications Security Review and Advisory Board. |
@@ -25,7 +26,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title III, §372(b), Dec. 27, 2021, 135 Stat. 1666, added item 184.
 
 <b>2019</b>—Pub. L. 116–92, div. A, title VIII, §810(b), title XVII, §1731(a)(10), Dec. 20, 2019, 133 Stat. 1487, 1813, substituted "Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions" for "Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions" in item 183a and struck out item 190 "Defense Cost Accounting Standards Board".
 
@@ -87,7 +92,7 @@ Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 - [&sect; 00182 - Center for Excellence in Disaster Management and Humanitarian Assistance](%C2%A7%2000182%20-%20Center%20for%20Excellence%20in%20Disaster%20Management%20and%20Humanitarian%20Assistance.md)
 - [&sect; 00183 - Department of Defense Board of Actuaries](%C2%A7%2000183%20-%20Department%20of%20Defense%20Board%20of%20Actuaries.md)
 - [&sect; 00183a - Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions](%C2%A7%2000183a%20-%20Military%20Aviation%20and%20Installation%20Assurance%20Clearinghouse%20for%20review%20of%20mission%20obstructions.md)
-- [&sect; 00184 - Renumbered &sect;342](%C2%A7%2000184%20-%20Renumbered%20%C2%A7342.md)
+- [&sect; 00184 - Joint Safety Council](%C2%A7%2000184%20-%20Joint%20Safety%20Council.md)
 - [&sect; 00185 - Repealed. Pub. L. 114&#8211;328, div. A, title IX, &sect;904(a), Dec. 23, 2016, 130 Stat. 2345](%C2%A7%2000185%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93328%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7904%28a%29%2C%20Dec.%2023%2C%202016%2C%20130%20Stat.%202345.md)
 - [&sect; 00186 - Repealed. Pub. L. 113&#8211;291, div. A, title IX, &sect;901(c), Dec. 19, 2014, 128 Stat. 3463](%C2%A7%2000186%20-%20Repealed.%20Pub.%20L.%20113%E2%80%93291%2C%20div.%20A%2C%20title%20IX%2C%20%C2%A7901%28c%29%2C%20Dec.%2019%2C%202014%2C%20128%20Stat.%203463.md)
 - [&sect; 00187 - Strategic Materials Protection Board](%C2%A7%2000187%20-%20Strategic%20Materials%20Protection%20Board.md)

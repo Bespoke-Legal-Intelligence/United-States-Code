@@ -12,7 +12,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (3) Consumer information
 
-&emsp;The term "consumer information" means nutritional data and other information that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, or use of sheep products.
+&emsp;The term "consumer information" means nutritional data and other information that will assist consumers and other persons inmaking evaluations and decisions regarding the purchase, preparation, or use of sheep products.
 
 #### (4) Customs Service
 
@@ -80,7 +80,7 @@ As used in this chapter (unless the context clearly requires otherwise):
 
 #### (20) Promotion
 
-&emsp;The term "promotion" means any action (including paid advertising) to advance theimage and desirability of sheep or sheep products to improve the competitive position, and stimulate sales, of sheep products in the domestic and international marketplace.
+&emsp;The term "promotion" means any action (including paid advertising) to advance the image and desirability of sheep or sheep products to improve the competitive position, and stimulate sales, of sheep products in the domestic and international marketplace.
 
 #### (21) Pulled wool
 
@@ -139,6 +139,8 @@ As used in this chapter (unless the context clearly requires otherwise):
 &emsp;The term "wool products" means products produced, in whole or in part, from wool and products containing wool fiber.
 
 (Pub. L. 103–407, §3, Oct. 22, 1994, 108 Stat. 4211.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

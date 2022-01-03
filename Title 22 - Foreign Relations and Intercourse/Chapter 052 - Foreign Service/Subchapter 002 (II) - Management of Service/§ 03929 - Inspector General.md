@@ -60,7 +60,7 @@ Required reporting of allegations and investigations and inspector general autho
 
 &emsp;(A)
 
-In general.—The head of a bureau, post, or other office of the Department of State (inthis paragraph referred to as a "Department entity") shall submit to the Inspector General a report of any allegation of—
+In general.—The head of a bureau, post, or other office of the Department of State (in this paragraph referred to as a "Department entity") shall submit to the Inspector General a report of any allegation of—
 
 &emsp;&emsp;(i) waste, fraud, or abuse in a Department program or operation;
 
@@ -146,7 +146,7 @@ Subsec. (e)(3). Pub. L. 105–277, §2208(b), added par. (3).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: "The amendments made by this section \[amending this section\] shall apply to cases opened on or after the date of the enactment of this Act \[Nov. 29, 1999\]."
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, providedthat: "The amendments made by this section \[amending this section\] shall apply to cases opened on or after the date of the enactment of this Act \[Nov. 29, 1999\]."
 
 #### Construction of 1999 Amendment
 

@@ -46,7 +46,7 @@ Not later than 180 days after October 27, 1992, the Secretary of Commerce shall 
 
 &emsp;Within 90 days after August 10, 1993, the Secretary and the NTIA shall amend the spectrum management document described in subsection (a) to require that—
 
-&emsp;&emsp;(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year afterAugust 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
+&emsp;&emsp;(A) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to operate a radio station utilizing a frequency that is authorized for the use of government stations pursuant to section 902(b)(2)(A) of this title for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission; and
 
 &emsp;&emsp;(B) no person or entity (other than an agency or instrumentality of the United States) shall be permitted, after 1 year after August 10, 1993, to utilize a radio station belonging to the United States for any non-government application unless such person or entity has submitted to the NTIA proof, in a form prescribed by such manual, that such person or entity has obtained a license from the Commission.
 

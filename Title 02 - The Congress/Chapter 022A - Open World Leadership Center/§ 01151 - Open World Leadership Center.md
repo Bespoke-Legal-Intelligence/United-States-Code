@@ -30,7 +30,7 @@
 
 #### (2) Grant program
 
-&emsp;Subject to the provisions of paragraphs (3) and (4), the Center shall establish a programunder which the Center annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political leaders at any level of government.
+&emsp;Subject to the provisions of paragraphs (3) and (4), the Center shall establish a program under which the Center annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political leaders at any level of government.
 
 #### (3) Restrictions
 
@@ -78,7 +78,7 @@
 
 #### (2) Donations
 
-&emsp;Any money or other property donated, bequeathed, or devised to the Center under the authority of this section shall be credited to the Fund.
+&emsp;Any money or other property donated, bequeathed, or devised to the Center under theauthority of this section shall be credited to the Fund.
 
 #### (3) Fund management
 
@@ -292,7 +292,7 @@ In general.—There is established a Russian Leadership Program Advisory Board w
 
 Membership.—The Advisory Board under paragraph (1) shall consist of—
 
-&emsp;&emsp;"(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
+&emsp;&emsp;"(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House ofRepresentatives and one shall be designated by the Minority Leader of the House of Representatives;
 
 &emsp;&emsp;"(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 

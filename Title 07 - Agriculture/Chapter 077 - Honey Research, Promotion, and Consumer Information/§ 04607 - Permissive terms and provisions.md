@@ -24,7 +24,7 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 
 #### (1) Inspection
 
-&emsp;Any program, rule, or regulation under subsection (a)(8) may provide for the inspection, by the Secretary, of honey and honey productsbeing sold for domestic consumption in, or for export from, the United States.
+&emsp;Any program, rule, or regulation under subsection (a)(8) may provide for the inspection, by the Secretary, of honey and honey products being sold for domestic consumption in, or for export from, the United States.
 
 #### (2) Monitoring system
 
@@ -65,6 +65,8 @@ On the recommendation of the Honey Board, and with the approval of the Secretary
 Notwithstanding any other provision of this chapter, the Secretary shall have the authority to approve or disapprove the establishment of minimum purity standards, the inspection and monitoring system under subsection (b), and the voluntary quality assurance program under subsection (c).
 
 (Pub. L. 98–590, §8, Oct. 30, 1984, 98 Stat. 3119; Pub. L. 105–185, title VI, §605(g), June 23, 1998, 112 Stat. 596.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

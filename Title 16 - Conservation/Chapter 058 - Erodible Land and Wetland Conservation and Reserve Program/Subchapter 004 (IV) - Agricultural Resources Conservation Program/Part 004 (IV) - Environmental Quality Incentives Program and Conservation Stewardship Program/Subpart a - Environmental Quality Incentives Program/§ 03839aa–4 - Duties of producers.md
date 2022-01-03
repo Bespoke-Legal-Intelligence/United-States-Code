@@ -12,7 +12,7 @@ To receive payments under the program, a producer shall agree—
 
 &emsp;&emsp;&emsp;(i) to forfeit all rights to receive payments under the contract; and
 
-&emsp;&emsp;&emsp;(ii) to refund to the Secretary all or a portion of the payments received by theowner or operator under the contract, including any interest on the payments, as determined by the Secretary; or
+&emsp;&emsp;&emsp;(ii) to refund to the Secretary all or a portion of the payments received by the owner or operator under the contract, including any interest on the payments, as determined by the Secretary; or
 
 &emsp;&emsp;(B) if the Secretary determines that the violation does not warrant termination of the contract, to refund to the Secretary, or accept adjustments to, the payments provided to the owner or operator, as the Secretary determines to be appropriate;
 
@@ -22,7 +22,9 @@ To receive payments under the program, a producer shall agree—
 
 &emsp;(6) to comply with such additional provisions as the Secretary determines are necessary to carry out the program plan.
 
-(Pub. L. 99–198, title XII, §1240D, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 256; amended Pub. L. 110–234, title II, §2505, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, §4(a), title II, §2505, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, §2205, Feb. 7, 2014, 128 Stat. 730.)
+(Pub. L. 99–198, title XII, §1240D, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat.256; amended Pub. L. 110–234, title II, §2505, May 22, 2008, 122 Stat. 1062; Pub. L. 110–246, §4(a), title II, §2505, June 18, 2008, 122 Stat. 1664, 1790; Pub. L. 113–79, title II, §2205, Feb. 7, 2014, 128 Stat. 730.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -41,6 +43,8 @@ A prior section 3839aa–4, Pub. L. 99–198, title XII, §1240D, as added Pub. 
 Par. (2). Pub. L. 110–246, §2505(2), substituted "farm, ranch, or forest land" for "farm or ranch".
 
 Par. (4). Pub. L. 110–246, §2505(3), struck out "cost-share payments and incentive" before "payments".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

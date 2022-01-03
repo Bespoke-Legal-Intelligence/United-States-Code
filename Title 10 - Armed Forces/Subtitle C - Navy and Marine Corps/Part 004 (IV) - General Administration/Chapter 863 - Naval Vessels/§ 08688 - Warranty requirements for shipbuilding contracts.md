@@ -10,6 +10,8 @@ Waiver.—If the contracting officer for a contract covered by the requirement u
 
 (Added Pub. L. 114–328, div. A, title X, §1022(a)(1), Dec. 23, 2016, 130 Stat. 2388, §7318; renumbered §8688, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8688, act Aug. 10, 1956, ch. 1041, 70A Stat. 536, related to death gratuity payable to survivors of members of Air Force, prior to repeal by Pub. L. 85–861, §36B(29), Sept. 2, 1958, 72 Stat. 1571. See sections 1475 to 1480 of this title.
@@ -17,6 +19,8 @@ A prior section 8688, act Aug. 10, 1956, ch. 1041, 70A Stat. 536, related to dea
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7318 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

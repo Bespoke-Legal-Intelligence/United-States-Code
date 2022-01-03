@@ -46,7 +46,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) The Secretary may review and revise the test procedures established under subparagraph (A).
 
-(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testing requirements prescribed by the Secretary under section 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
+(C) For purposes of section 6317(a) of this title, the test procedures established under subparagraph (A) shall be considered to be the testing requirements prescribed by the Secretary undersection 6317(a)(1) of this title for distribution transformers for which the Secretary makes a determination that energy conservation standards would—
 
 &emsp;(i) be technologically feasible and economically justified; and
 
@@ -58,7 +58,7 @@ Amendment.—At least once every 7 years, the Secretary shall review test proced
 
 (B) Except as provided in subparagraph (C), medium base compact fluorescent lamps shall meet all test requirements for regulated parameters of section 6295(cc) <sup>1</sup> of this title.
 
-(C) Notwithstanding subparagraph (B), if manufacturers document engineering predictionsand analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
+(C) Notwithstanding subparagraph (B), if manufacturers document engineering predictions and analysis that support expected attainment of lumen maintenance at 40 percent rated life and lamp lifetime, medium base compact fluorescent lamps may be marketed before completion of the testing of lamp life and lumen maintenance at 40 percent of rated life.
 
 (13) Test procedures for dehumidifiers shall be based on the test criteria used under the Energy Star Program Requirements for Dehumidifiers developed by the Environmental Protection Agency, as in effect on August 8, 2005, unless revised by the Secretary pursuant to this section.
 
@@ -108,11 +108,11 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 
 #### (e) Amendment of standard
 
-(1) In the case of any amended test procedure which is prescribed pursuant to this section, the Secretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
+(1) In the case of any amended test procedure which is prescribed pursuant to this section, theSecretary shall determine, in the rulemaking carried out with respect to prescribing such procedure, to what extent, if any, the proposed test procedure would alter the measured energy efficiency, measured energy use, or measured water use of any covered product as determined under the existing test procedure.
 
 (2) If the Secretary determines that the amended test procedure will alter the measured efficiency or measured use, the Secretary shall amend the applicable energy conservation standard during the rulemaking carried out with respect to such test procedure. In determining the amended energy conservation standard, the Secretary shall measure, pursuant to the amended test procedure, the energy efficiency, energy use, or water use of a representative sample of covered products that minimally comply with the existing standard. The average of such energy efficiency, energy use, or water use levels determined under the amended test procedure shall constitute the amended energy conservation standard for the applicable covered products.
 
-(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such dateand have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
+(3) Models of covered products in use before the date on which the amended energy conservation standard becomes effective (or revisions of such models that come into use after such date and have the same energy efficiency, energy use, or water use characteristics) that comply with the energy conservation standard applicable to such covered products on the day before such date shall be deemed to comply with the amended energy conservation standard.
 
 (4) The Secretary's authority to amend energy conservation standards under this subsection shall not affect the Secretary's obligation to issue final rules as described in section 6295 of this title.
 
@@ -123,6 +123,8 @@ Metal halide lamp ballasts.—Test procedures for metal halide lamp ballasts sha
 (2) To the maximum extent practicable, the testing requirements prescribed under paragraph (1) shall be based on existing test procedures used in industry.
 
 (Pub. L. 94–163, title III, §323, Dec. 22, 1975, 89 Stat. 919; Pub. L. 95–619, title IV, §§421, 425(a), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3257, 3265, 3288; Pub. L. 100–12, §4, Mar. 17, 1987, 101 Stat. 105; Pub. L. 100–357, §2(c), June 28, 1988, 102 Stat. 672; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–486, title I, §123(d), Oct. 24, 1992, 106 Stat. 2821; Pub. L. 109–58, title I, §135(b), Aug. 8, 2005, 119 Stat. 627; Pub. L. 110–140, title III, §§301(b), 302(a), 324(c), Dec. 19, 2007, 121 Stat. 1550, 1551, 1593.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -171,6 +173,8 @@ Subsec. (a)(7). Pub. L. 95–619, §421(c), added par. (7).
 Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator" wherever appearing.
 
 Subsec. (c). Pub. L. 95–619, §421(d), redesignated existing provisions as par. (1), substituted "180 days" for "90 days" and redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

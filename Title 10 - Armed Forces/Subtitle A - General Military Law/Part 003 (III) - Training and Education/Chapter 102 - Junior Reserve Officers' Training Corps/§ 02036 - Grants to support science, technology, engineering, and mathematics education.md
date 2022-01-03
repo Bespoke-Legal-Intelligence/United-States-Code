@@ -66,17 +66,25 @@ Definitions.—In this section:
 
 &emsp;&emsp;(I) data science;
 
-&emsp;&emsp;(J) cybersecurity;
+&emsp;&emsp;(J) quantum information sciences;
 
-&emsp;&emsp;(K) robotics;
+&emsp;&emsp;(K) cybersecurity;
 
-&emsp;&emsp;(L) health sciences; and
+&emsp;&emsp;(L) robotics;
 
-&emsp;&emsp;(M) other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
+&emsp;&emsp;(M) health sciences; and
 
-(Added Pub. L. 116–283, div. A, title V, §513(a)(1), Jan. 1, 2021, 134 Stat. 3587.)
+&emsp;&emsp;(N) other subjects determined by the Secretary of Defense to be related to science, technology, engineering, and mathematics.
+
+(Added Pub. L. 116–283, div. A, title V, §513(a)(1), Jan. 1, 2021, 134 Stat. 3587; amended Pub. L. 117–81, div. A, title V, §511, Dec. 27, 2021, 135 Stat. 1682.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (d), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part A of title I of the Act is classified generally to part A (§6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (g)(2)(J) to (N). Pub. L. 117–81 added subpar. (J) and redesignated former subpars. (J) to (M) as (K) to (N), respectively.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Uniformity of Regulations.—The Secretary of Transportation may not prescribe a safety regulation related to a motor vehicle subject to subchapter I of chapter 135 of this title that differs from a motor vehicle safety standard prescribed under this chapter. However, the Secretary may prescribe, for a motor vehicle operated by a carrier subject to subchapter I of chapter 135, a safety regulation that imposes a higher standard of performance after manufacture than that required by an applicable standard in effect at the time of manufacture.
+Uniformity of Regulations.—The Secretary of Transportation may not prescribe asafety regulation related to a motor vehicle subject to subchapter I of chapter 135 of this title that differs from a motor vehicle safety standard prescribed under this chapter. However, the Secretary may prescribe, for a motor vehicle operated by a carrier subject to subchapter I of chapter 135, a safety regulation that imposes a higher standard of performance after manufacture than that required by an applicable standard in effect at the time of manufacture.
 
 (b)
 
@@ -84,9 +84,13 @@ In subsection (c), the words "be deemed to" and "of the United States" are omitt
 
 In subsection (d), the words "United States" are substituted for "Federal" in 15:1420 for consistency. The words "Consumer" in 15:1420, "not in lieu of" in 15:1410a(e) and 1420, and "not in substitution for" in 15:1394(a)(6) are omitted as surplus. The word "other" is added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a). Pub. L. 104–88 substituted "subchapter I of chapter 135" for "subchapter II of chapter 105" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

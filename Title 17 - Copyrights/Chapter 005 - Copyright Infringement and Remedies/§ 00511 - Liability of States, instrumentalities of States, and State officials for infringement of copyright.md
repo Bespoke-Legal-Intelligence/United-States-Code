@@ -12,6 +12,10 @@ Remedies.—In a suit described in subsection (a) for a violation described in t
 
 #### <b>Editorial Notes</b>
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of subsection (a) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 substituted "122" for "121".

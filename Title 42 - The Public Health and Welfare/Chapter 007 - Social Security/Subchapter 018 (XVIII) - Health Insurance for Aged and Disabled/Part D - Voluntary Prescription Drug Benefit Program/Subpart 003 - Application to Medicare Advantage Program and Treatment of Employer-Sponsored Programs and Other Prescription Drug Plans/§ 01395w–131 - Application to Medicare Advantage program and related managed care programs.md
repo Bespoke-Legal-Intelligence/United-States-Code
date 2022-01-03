@@ -60,7 +60,7 @@ With respect to the offering of qualified prescription drug coverage by an MA or
 
 #### (2) Waiver
 
-&emsp;The Secretary shall waive the provisions referred to in paragraph (1) to the extent the Secretary determines that such provisions duplicate, or are in conflict with, provisions otherwise applicable to the organization or planunder part C or as may be necessary in order to improve coordination of this part with the benefits under this part.
+&emsp;The Secretary shall waive the provisions referred to in paragraph (1) to the extent the Secretary determines that such provisions duplicate, or are in conflict with, provisions otherwise applicable to the organization or plan under part C or as may be necessary in order to improve coordination of this part with the benefits under this part.
 
 #### (3) Treatment of MA owned and operated pharmacies
 

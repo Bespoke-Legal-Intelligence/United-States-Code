@@ -30,6 +30,18 @@
 
 (6) An agency of the Federal Government performing local law enforcement functions in and on behalf of the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, or any other territory or possession of the United States may qualify as an eligible crime victim assistance program for the purpose of grants under this subsection, or for the purpose of grants under subsection (c)(1).
 
+(7)(A) Each chief executive may waive a matching requirement imposed by the Director, in accordance with subparagraph (B), as a condition for the receipt of funds under any program to provide assistance to victims of crimes authorized under this subchapter. The chief executive shall report to the Director the approval of any waiver of the matching requirement.
+
+(B) Each chief executive shall establish and make public, a policy including—
+
+&emsp;(i) the manner in which an eligible crime victim assistance program can request a match waiver;
+
+&emsp;(ii) the criteria used to determine eligibility of the match waiver; and
+
+&emsp;(iii) the process for decision making and notifying the eligible crime victim assistance program of the decision.
+
+(8) Beginning on the date a national emergency is declared under the National Emergencies Act (50 U.S.C. 1601 et seq.) with respect to a pandemic and ending on the date that is one year after the date of the end of such national emergency, each chief executive shall issue waivers for any matching requirement, in its entirety, for all eligible crime victim assistance programs contracted to provide services at that time.
+
 #### (b) Eligibility of program; factors; limitation on expending of sums
 
 (1) A victim assistance program is an eligible crime victim assistance program for the purposes of this section if such program—
@@ -122,13 +134,15 @@ As used in this section—
 
 &emsp;(5) the term "chief executive" includes a person designated by a chief executive to perform the functions of the chief executive under this section.
 
-(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372; Pub. L. 109–162, title XI, §§1131, 1133(b), Jan. 5, 2006, 119 Stat. 3107, 3108; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 579; Pub. L. 114–324, §17(a), Dec. 16, 2016, 130 Stat. 1962.)
+(Pub. L. 98–473, title II, §1404, Oct. 12, 1984, 98 Stat. 2172; Pub. L. 99–401, title I, §102(b)(4), (5), Aug. 27, 1986, 100 Stat. 905; Pub. L. 99–646, §71, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–690, title VII, §§7122, 7123(b)(4)–(9), 7127, 7128, title IX, §9306(a), Nov. 18, 1988, 102 Stat. 4420, 4421, 4423, 4537; Pub. L. 103–317, title I, §112, Aug. 26, 1994, 108 Stat. 1736; Pub. L. 103–322, title XXIII, §§230204, 230205, 230208, Sept. 13, 1994, 108 Stat. 2080; Pub. L. 104–132, title II, §232(c)(2), Apr. 24, 1996, 110 Stat. 1244; Pub. L. 107–56, title VI, §623, Oct. 26, 2001, 115 Stat. 372; Pub. L. 109–162, title XI, §§1131, 1133(b), Jan. 5, 2006, 119 Stat. 3107, 3108; Pub. L. 111–8, div. B, title II, Mar. 11, 2009, 123 Stat. 579; Pub. L. 114–324, §17(a), Dec. 16, 2016, 130 Stat. 1962; Pub. L. 117–27, §3, July 22, 2021, 135 Stat. 302.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 20101(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 20101(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 20101(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 20102 of this title. See section 20101(d)(4) of this title.
+
+The National Emergencies Act, referred to in subsec. (a)(8), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
@@ -137,6 +151,10 @@ This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473
 Section was formerly classified to section 10603 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(7). Pub. L. 117–27, §3(a), added par. (7).
+
+Subsec. (a)(8). Pub. L. 117–27, §3(b), added par. (8).
 
 <b>2016</b>—Subsec. (c)(1)(A). Pub. L. 114–324 inserted "victim services," before "demonstration projects".
 
@@ -186,13 +204,13 @@ Subsec. (a)(2)(B). Pub. L. 100–690, §7122(1), added subpar. (B). Former subpa
 
 Subsec. (a)(2)(C). Pub. L. 100–690, §7122(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (a)(2)(D). Pub. L. 100–690, §7123(b)(5), which directed substitution of "Director" for "Attorney General" in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent of Congress and the intervening redesignation of subpar. (C) as (D), see below.
+Subsec. (a)(2)(D). Pub. L. 100–690, §7123(b)(5), which directed substitution of "Director" for "Attorney General" in subpar. (C), was executed by making substitution in subpar. (D) to reflect the probable intent ofCongress and the intervening redesignation of subpar. (C) as (D), see below.
 
 Pub. L. 100–690, §7122(2), redesignated subpar. (C) as (D).
 
 Subsec. (a)(3) to (5). Pub. L. 100–690, §7128, substituted "the base amount" for "$100,000" in pars. (3)(A) and (4) and added par. (5).
 
-Subsec. (c)(1). Pub. L. 100–690, §7123(b)(6), substituted "Director" for "Attorney General, acting through theAssistant Attorney General for the Office of Justice Programs".
+Subsec. (c)(1). Pub. L. 100–690, §7123(b)(6), substituted "Director" for "Attorney General, acting through the Assistant Attorney General for the Office of Justice Programs".
 
 Subsec. (c)(3). Pub. L. 100–690, §7123(b)(7), (8), substituted "Director" for "Assistant Attorney General for the Office of Justice Programs" in introductory provisions and "Director deems appropriate" for "Attorney General may assign" in subpar. (D).
 

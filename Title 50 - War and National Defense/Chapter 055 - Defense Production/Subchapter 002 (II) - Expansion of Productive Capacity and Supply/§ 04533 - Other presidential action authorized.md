@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) for the development of production capabilities; and
 
-&emsp;&emsp;(D) for the increased use of emerging technologies in security program applications and the rapid transition of emerging technologies—
+&emsp;&emsp;(D) for the increased use of emerging technologies in security program applicationsand the rapid transition of emerging technologies—
 
 &emsp;&emsp;&emsp;(i) from Government-sponsored research and development to commercial applications; and
 
@@ -134,6 +134,8 @@ When, in the judgement of the President, it will aid the national defense, the P
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (f)(1), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -150,11 +152,13 @@ A prior section 303 of act Sept. 8, 1950, ch. 932, title III, 64 Stat. 801; July
 
 #### Amendments
 
-<b>2014</b>—Subsec. (a)(5). Pub. L. 113–172, §4(a)(1)(A), substituted ", on a non-delegable basis, determines, with appropriate explanatory material and in writing," for "determines" in introductory provisions.
+<b>2014</b>—Subsec. (a)(5). Pub. L. 113–172, §4(a)(1)(A), substituted ", on a non-delegable basis, determines, withappropriate explanatory material and in writing," for "determines" in introductory provisions.
 
 Subsec. (a)(5)(C). Pub. L. 113–172, §4(a)(1)(B)–(D), added subpar. (C).
 
 Subsec. (a)(6)(C). Pub. L. 113–172, §4(a)(2), added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -189,6 +193,8 @@ Report by the Secretary.—Before the end of the 6-month period beginning on the
 &emsp;"(4) the plans of the Department of Defense for use of providers of radiation-hardened electronics beyond the providers with which the Department had entered into contractual arrangements under the authority of the Defense Production Act of 1950 \[50 U.S.C. 4501 et seq.\], as of the date of the enactment of this Act."
 
 Pub. L. 107–314, div. A, title VIII, §829, Dec. 2, 2002, 116 Stat. 2618, provided that: "Notwithstanding the limitation in \[former\] section 303(a)(6)(C) of the Defense Production Act of 1950 (\[former\] 50 U.S.C. App. 2093(a)(6)(C)), action or actions may be taken under section 303 of that Act to correct the industrial resource shortfall for radiation-hardened electronics, if such actions do not cause the aggregate outstanding amount of all such actions to exceed $106,000,000."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

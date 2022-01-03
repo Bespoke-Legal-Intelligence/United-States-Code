@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(D) Any eligible pulse crop acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
-&emsp;&emsp;(E) If the Secretary designates additional oilseeds, any eligible oilseed acreage, which shall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
+&emsp;&emsp;(E) If the Secretary designates additional oilseeds, any eligible oilseed acreage, whichshall be determined in the same manner as eligible oilseed acreage under section 7911(a)(2) of this title.
 
 #### (3) Selection of acres
 
@@ -100,6 +100,8 @@
 
 (Pub. L. 110–234, title I, §1302, May 22, 2008, 122 Stat. 968; Pub. L. 110–246, §4(a), title I, §1302, June 18, 2008, 122 Stat. 1664, 1696; Pub. L. 110–398, §1(a)(2), Oct. 13, 2008, 122 Stat. 4213; Pub. L. 113–188, title I, §101(a), Nov. 26, 2014, 128 Stat. 2017.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (a)(1)(A), (B), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
@@ -119,6 +121,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Subsec. (d)(4). Pub. L. 113–188, §101(a)(2), (3), substituted "Paragraphs (1) and (2)" for "Paragraphs (1) through (3)" and redesignated par. (4) as (3).
 
 <b>2008</b>—Subsec. (d)(4). Pub. L. 110–398 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

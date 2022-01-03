@@ -1,6 +1,6 @@
 ### §4014. Consultation and layover provisions for, and effective date of, proclaimed actions
 
-If a provision of this chapter provides that the implementation of an action by the President byproclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
+If a provision of this chapter provides that the implementation of an action by the President by proclamation is subject to the consultation and layover requirements of this section, such action may be proclaimed only if—
 
 &emsp;(1) the President has obtained advice regarding the proposed action from—
 
@@ -24,13 +24,19 @@ If a provision of this chapter provides that the implementation of an action by 
 
 <i>For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 462, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates
 
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under section 4001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Proc. No. 7987. To Implement the Dominican Republic-Central America-United States Free Trade Agreement
 

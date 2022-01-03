@@ -4,7 +4,7 @@
 
 A securities association registered under section 78o–3 of this title may prescribe, by rules adopted and in effect in accordance with said section and subject to all provisions of said section applicable to the rules of such an association—
 
-&emsp;(1) a method or methods for computing the minimum price at which a member thereof may purchase from any investment company any redeemable security issued by such company and the maximum price at which a member may sell to such company any redeemable security issued by it or which he may receivefor such security upon redemption, so that the price in each case will bear such relation to the current net asset value of such security computed as of such time as the rules may prescribe; and
+&emsp;(1) a method or methods for computing the minimum price at which a member thereof may purchase from any investment company any redeemable security issued by such company and the maximum price at which a member may sell to such company any redeemable security issued by it or which he may receive for such security upon redemption, so that the price in each case will bear such relation to the current net asset value of such security computed as of such time as the rules may prescribe; and
 
 &emsp;(2) a minimum period of time which must elapse after the sale or issue of such security before any resale to such company by a member or its redemption upon surrender by a member;
 
@@ -36,7 +36,7 @@ No registered investment company shall suspend the right of redemption, or postp
 
 &emsp;(3) for such other periods as the Commission may by order permit for the protection of security holders of the company.
 
-> The Commission shall by rules and regulations determine the conditions under which (i) tradingshall be deemed to be restricted and (ii) an emergency shall be deemed to exist within the meaning of this subsection.
+> The Commission shall by rules and regulations determine the conditions under which (i) trading shall be deemed to be restricted and (ii) an emergency shall be deemed to exist within the meaning of this subsection.
 
 #### (f) Restrictions on transferability or negotiability of securities
 
@@ -47,6 +47,8 @@ No registered open-end company shall restrict the transferability or negotiabili
 No registered open-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
 
 (Aug. 22, 1940, ch. 686, title I, §22, 54 Stat. 823; Pub. L. 91–547, §12, Dec. 14, 1970, 84 Stat. 1422; Pub. L. 100–181, title VI, §616, Dec. 4, 1987, 101 Stat. 1262.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -60,11 +62,15 @@ Subsec. (e). Pub. L. 100–181, §616(4), (5), in introductory provisions, subst
 
 Subsec. (c). Pub. L. 91–547, §12(b), provided for application of rules and regulations to registered investment companies, struck out introductory phrase "After one year from the effective date of this chapter", "registered" before "securities association" where first appearing, and substituted "prescribed in subsection (a) of this section" for "prescribed in subsections (a) and (b) of this section" and ". Any rules and regulations" for "; and any rules and regulations".
 
-Subsec. (d). Pub. L. 91–547, §12(c), substituted "public offering price described in the prospectus. Nothing in this subsection" for "public offering price described in the prospectus: <i>Provided, however</i>, That nothing in this subsection" and struck out "clause (1) or (2) of" before "section 80a–11(b) of this title".
+Subsec. (d). Pub. L. 91–547, §12(c), substituted "public offering price described in the prospectus. Nothing in this subsection" for "public offering price described in the prospectus: <i>Provided, however</i>, That nothing in thissubsection" and struck out "clause (1) or (2) of" before "section 80a–11(b) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

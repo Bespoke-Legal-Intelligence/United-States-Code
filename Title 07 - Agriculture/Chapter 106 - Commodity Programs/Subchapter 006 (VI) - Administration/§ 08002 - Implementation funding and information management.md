@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture, acting through the Farm Service Agency, may usenot more than $55,000,000 of funds of the Commodity Credit Corporation to cover administrative costs associated with the implementation of title I and the amendments made by that title.
+&emsp;The Secretary of Agriculture, acting through the Farm Service Agency, may use not more than $55,000,000 of funds of the Commodity Credit Corporation to cover administrative costs associated with the implementation of title I and the amendments made by that title.
 
 #### (2) Availability
 
@@ -67,6 +67,8 @@
 In addition to amounts made available under subsection (a)(3), there are authorized to be appropriated such sums as are necessary to carry out subsection (b) for each of fiscal years 2003 through 2008.
 
 (Pub. L. 107–171, title X, §10706, May 13, 2002, 116 Stat. 519.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

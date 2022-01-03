@@ -34,7 +34,7 @@ For purposes of this chapter—
 
 #### (3) Adjustments for medicare reductions
 
-&emsp;If, by reason of a reduction in benefits under title XVIII of the Social Security Act, the level of health benefits under the Combined Fund would be reduced, the trustees of the Combined Fund shall increase the per beneficiary premium for the plan year in which the reduction occurs and each subsequent plan year by the amount necessary to maintain the level of health benefits which would have been provided without such reduction.
+&emsp;If, by reason of a reduction in benefits under title XVIII of the Social Security Act, the level of health benefits under the Combined Fund would be reduced, the trustees of the Combined Fund shall increase the per beneficiary premium for the plan year in which the reduction occurs and each subsequent planyear by the amount necessary to maintain the level of health benefits which would have been provided without such reduction.
 
 #### (c) Death benefit premium
 
@@ -54,7 +54,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferredunder section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232), then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) The total number of assigned eligible beneficiaries shall be reduced by the eligible beneficiaries of assigned operators which (and all related persons with respect to which) had ceased business (within the meaning of section 9701(c)(6)) during the period described in subparagraph (A).
 
-&emsp;&emsp;(C) In the case of plan years beginning on or after October 1, 2007, the total number of assigned eligible beneficiaries shall be reduced by the eligible beneficiaries whose assignments have been revoked under section 9706(h).
+&emsp;&emsp;(C) In the case of plan years beginning on or after October 1, 2007, the total number ofassigned eligible beneficiaries shall be reduced by the eligible beneficiaries whose assignments have been revoked under section 9706(h).
 
 #### (g) Payment of premiums
 
@@ -184,7 +184,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 &emsp;&emsp;&emsp;(ii) any related person to any assigned operator described in clause (i), and
 
-&emsp;&emsp;(B) the common parent of the controlled group of corporations described in paragraph (2)(B) is jointly and severally liable for any premium under this section which (but for this subsection) would be required to be paid by the assigned operator or related person,
+&emsp;&emsp;(B) the common parent of the controlled group of corporations described in paragraph (2)(B) is jointly and severally liable for any premium under this section which (but forthis subsection) would be required to be paid by the assigned operator or related person,
 
 > &emsp;then such common parent (and no other person) shall be liable for such premium.
 
@@ -210,7 +210,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Coordination with repeal of assignments
 
-&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsection applies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liablefor the payment of premiums under section 9706(h)(3).
+&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsection applies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liable for the payment of premiums under section 9706(h)(3).
 
 #### (D) Controlled group
 
@@ -244,6 +244,8 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3042; amended Pub. L. 103–296, title I, §108(h)(9)(A), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 109–432, div. C, title II, §§211(a), 212(a)(2), Dec. 20, 2006, 120 Stat. 3020, 3024; Pub. L. 115–141, div. U, title IV, §401(a)(344), Mar. 23, 2018, 132 Stat. 1200.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -263,6 +265,8 @@ Subsec. (f)(2)(C). Pub. L. 109–432, §212(a)(2)(C), added subpar. (C).
 Subsec. (j). Pub. L. 109–432, §211(a), added subsec. (j).
 
 <b>1994</b>—Subsecs. (b)(2), (h). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

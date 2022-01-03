@@ -47,7 +47,7 @@ There is hereby established in the State of New Mexico, the Chaco Culture Nation
 | Sanostee | 1,565&nbsp;&nbsp; |
 | Section 8 | 10&nbsp;&nbsp; |
 | Skunk Springs/Crumbled House | 533&nbsp;&nbsp; |
-| Standing Rock | 348&nbsp;&nbsp; |
+| Standing Rock | 348   |
 | Toh-la-kai | 10&nbsp;&nbsp; |
 | Twin Angeles | 40&nbsp;&nbsp; |
 | Upper Kin Klizhin | 60\. |
@@ -55,6 +55,8 @@ There is hereby established in the State of New Mexico, the Chaco Culture Nation
 (2) The map referred to in paragraph (1) shall be kept on file and available for public inspection in the appropriate offices of the National Park Service, the office of the State Director of the Bureau of Land Management located in Santa Fe, New Mexico, the office of the Area Director of the Bureau of Indian Affairs located in Window Rock, Arizona, and the offices of the Arizona and New Mexico State Historic Preservation Officers.
 
 (Pub. L. 96–550, title V, §502, Dec. 19, 1980, 94 Stat. 3227; Pub. L. 104–11, §3, May 18, 1995, 109 Stat. 158.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

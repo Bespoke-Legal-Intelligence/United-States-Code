@@ -38,7 +38,7 @@
 
 Subsec. (a). Pub. L. 106–544, §2(a)(1)–(4), in par. (3), substituted "a member of the immediate family" for "the spouse", added par. (4), and, in concluding provisions, struck out "who is protected by the Secret Service as provided by law," before "shall be fined" and substituted "5 years" for "three years".
 
-Subsec. (b)(1)(B). Pub. L. 106–544, §2(a)(5), in introductory provisions, inserted "and (a)(3)" after "subsection\(a)(2)" and substituted "Vice President-elect, or major candidate for the office of President or Vice President" for "or Vice President-elect".
+Subsec. (b)(1)(B). Pub. L. 106–544, §2(a)(5), in introductory provisions, inserted "and (a)(3)" after "subsection (a)(2)" and substituted "Vice President-elect, or major candidate for the office of President or Vice President" for "or Vice President-elect".
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in concluding provisions.
 

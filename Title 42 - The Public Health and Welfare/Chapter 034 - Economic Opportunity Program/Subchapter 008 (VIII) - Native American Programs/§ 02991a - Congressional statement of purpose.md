@@ -4,6 +4,8 @@ The purpose of this subchapter is to promote the goal of economic and social sel
 
 (Pub. L. 88–452, title VIII, §802, as added Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324; amended Pub. L. 100–175, title V, §§504(b)(1), 506(c)(1), Nov. 29, 1987, 101 Stat. 975, 978; Pub. L. 102–375, title VIII, §822(21), Sept. 30, 1992, 106 Stat. 1300; Pub. L. 103–171, §5(1), Dec. 2, 1993, 107 Stat. 1991.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 2991a, Pub. L. 88–452, title VIII, §802, as added Pub. L. 89–794, title VIII, §801, Nov. 8, 1966, 80 Stat. 1473, covered recruitment, selection, training, referral, and assignment of volunteers and consent of Governors of States in which these activities were conducted, prior to the general amendment of this subchapter by Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722.
@@ -17,6 +19,8 @@ A prior section 2991a, Pub. L. 88–452, title VIII, §802, as added Pub. L. 89�
 <b>1987</b>—Pub. L. 100–175, §506(c)(1), substituted "Native Hawaiians" for "Hawaiian Natives".
 
 Pub. L. 100–175, §504(b)(1), inserted ", other Native American Pacific Islanders (including American Samoan Natives)," after "Hawaiian Natives".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

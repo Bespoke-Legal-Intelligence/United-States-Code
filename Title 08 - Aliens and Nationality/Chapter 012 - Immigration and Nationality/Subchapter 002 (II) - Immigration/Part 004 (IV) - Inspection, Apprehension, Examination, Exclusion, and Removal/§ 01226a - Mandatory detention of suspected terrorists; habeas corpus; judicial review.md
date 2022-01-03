@@ -32,13 +32,13 @@
 
 #### (7) Review of certification
 
-&emsp;The Attorney General shall review the certification made under paragraph (3) every 6 months. If the Attorney General determines, in the Attorney General's discretion, that thecertification should be revoked, the alien may be released on such conditions as the Attorney General deems appropriate, unless such release is otherwise prohibited by law. The alien may request each 6 months in writing that the Attorney General reconsider the certification and may submit documents or other evidence in support of that request.
+&emsp;The Attorney General shall review the certification made under paragraph (3) every 6 months. If the Attorney General determines, in the Attorney General's discretion, that the certification should be revoked, the alien may be released on such conditions as the Attorney General deems appropriate, unless such release is otherwise prohibited by law. The alien may request each 6 months in writing that the Attorney General reconsider the certification and may submit documents or other evidence in support of that request.
 
 #### (b) Habeas corpus and judicial review
 
 #### (1) In general
 
-&emsp;Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6)) is available exclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
+&emsp;Judicial review of any action or decision relating to this section (including judicial review of the merits of a determination made under subsection (a)(3) or (a)(6)) is availableexclusively in habeas corpus proceedings consistent with this subsection. Except as provided in the preceding sentence, no court shall have jurisdiction to review, by habeas corpus petition or otherwise, any such action or decision.
 
 #### (2) Application
 

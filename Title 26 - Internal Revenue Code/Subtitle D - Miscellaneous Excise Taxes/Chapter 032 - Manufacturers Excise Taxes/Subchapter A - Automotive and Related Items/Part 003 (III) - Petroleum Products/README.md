@@ -3,9 +3,11 @@
 | Subpart |  |
 | :--- | ---: |
 | A. | Motor and aviation fuels. |
-| B. | Special provisions applicable to fuels tax. |
+| B. | Special provisions applicable to fuels tax.<br> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

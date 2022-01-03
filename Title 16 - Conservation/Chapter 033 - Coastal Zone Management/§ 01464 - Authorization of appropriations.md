@@ -28,7 +28,9 @@ Federal funds received from other sources shall not be used to pay a coastal sta
 
 The amount of any grant, or portion of a grant, made to a State under any section of this chapter which is not obligated by such State during the fiscal year, or during the second fiscal year after the fiscal year, for which it was first authorized to be obligated by such State shall revert to the Secretary. The Secretary shall add such reverted amount to those funds available for grants under the section for such reverted amount was originally made available.
 
-(Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI, §6215, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 104–150, §4, June 3, 1996, 110 Stat. 1381.)
+(Pub. L. 89–454, title III, §318, formerly §315, as added Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1289; amended Pub. L. 93–612, §1(3), Jan. 2, 1975, 88 Stat. 1974; renumbered §318 and amended Pub. L. 94–370, §§7, 14, July 26, 1976, 90 Stat. 1019, 1031; Pub. L. 95–372, title V, §§502, 503(e), (f), Sept. 18, 1978, 92 Stat. 692, 693; Pub. L. 96–464, §13, Oct. 17, 1980, 94 Stat. 2070; Pub. L. 99–272, title VI, §6046, Apr. 7, 1986, 100 Stat. 127; Pub. L. 99–626, §7, Nov. 7, 1986, 100 Stat. 3506; Pub. L. 101–508, title VI,§6215, Nov. 5, 1990, 104 Stat. 1388–313; Pub. L. 104–150, §4, June 3, 1996, 110 Stat. 1381.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

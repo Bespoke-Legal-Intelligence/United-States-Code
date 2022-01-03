@@ -4,7 +4,7 @@
 
 (b) The Secretary may compromise, modify, or remit, with or without consideration, a civil penalty until the assessment is referred to the Attorney General.
 
-(c) If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection in an appropriate district court of the United States.
+(c) If a person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the AttorneyGeneral for collection in an appropriate district court of the United States.
 
 (d) The Secretary may refund or remit a civil penalty collected under this section if—
 
@@ -14,7 +14,9 @@
 
 (Added Pub. L. 101–225, title III, §305(1), Dec. 12, 1989, 103 Stat. 1924.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

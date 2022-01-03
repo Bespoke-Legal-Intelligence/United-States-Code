@@ -30,7 +30,7 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 #### (3) Special rule for certain valuation overstatements
 
-&emsp;In the case of any underpayment attributable to a substantial or gross valuation overstatement under chapter 1 with respect to charitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
+&emsp;In the case of any underpayment attributable to a substantial or gross valuation overstatement under chapter 1 with respect tocharitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
 
 &emsp;&emsp;(A) the claimed value of the property was based on a qualified appraisal made by a qualified appraiser, and
 
@@ -122,6 +122,8 @@ The penalties provided in this part shall apply only in cases where a return of 
 
 (Added Pub. L. 101–239, title VII, §7721(a), Dec. 19, 1989, 103 Stat. 2398; amended Pub. L. 108–357, title VIII, §812(c), Oct. 22, 2004, 118 Stat. 1579; Pub. L. 109–280, title XII, §1219(a)(3), (c)(2), Aug. 17, 2006, 120 Stat. 1084, 1085; Pub. L. 111–152, title I, §1409(c), Mar. 30, 2010, 124 Stat. 1069; Pub. L. 114–113, div. Q, title II, §209(a), Dec. 18, 2015, 129 Stat. 3084.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment notes below.
@@ -162,6 +164,8 @@ Subsec. (c)(1). Pub. L. 108–357, §812(c)(2)(A), substituted "section 6662 or 
 
 Subsec. (d). Pub. L. 108–357, §812(c)(1), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title II, §209(d)(1), Dec. 18, 2015, 129 Stat. 3085, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to—
@@ -178,7 +182,7 @@ Amendment by section 1409(c)(2) of Pub. L. 111–152 applicable to understatemen
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 1219(a)(3) of Pub. L. 109–280 applicable to returns filed after Aug. 17, 2006, with specialrule for certain easements, see section 1219(e)(1), (3), of Pub. L. 109–280, set out as a note under section 170 of this title.
+Amendment by section 1219(a)(3) of Pub. L. 109–280 applicable to returns filed after Aug. 17, 2006, with special rule for certain easements, see section 1219(e)(1), (3), of Pub. L. 109–280, set out as a note under section 170 of this title.
 
 Amendment by section 1219(c)(2) of Pub. L. 109–280 applicable to appraisals prepared with respect to returns or submissions filed after Aug. 17, 2006, see section 1219(e)(2) of Pub. L. 109–280, set out as a note under section 170 of this title.
 

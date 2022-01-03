@@ -20,9 +20,13 @@ June 3, 1916, ch. 134, §47d (words before 1st semicolon of 1st sentence); added
 
 The words "upon military reservations or elsewhere" are omitted as surplusage. The words "or enlistment as" are inserted for clarity. The words "of the Army" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4411 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

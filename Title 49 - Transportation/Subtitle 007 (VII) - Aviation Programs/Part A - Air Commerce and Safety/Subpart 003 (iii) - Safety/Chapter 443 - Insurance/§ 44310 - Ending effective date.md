@@ -8,7 +8,7 @@ In General.—The authority of the Secretary of Transportation to provide insura
 
 Insurance of United States Government Property.—The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after September 30, 2023.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, titleI, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588; Pub. L. 106–6, §6, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(f), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title VII, §711, Apr. 5, 2000, 114 Stat. 160; Pub. L. 108–11, title IV, §4001(c), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(d), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 110–181, div. A, title III, §378, Jan. 28, 2008, 122 Stat. 85; Pub. L. 113–46, div. A, §154, Oct. 17, 2013, 127 Stat. 565; Pub. L. 113–66, div. A, title X, §1093, Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–76, div. L, title I, §119E(c), Jan. 17, 2014, 128 Stat. 582; Pub. L. 113–164, §148(c), Sept. 19, 2014, 128 Stat. 1874; Pub. L. 113–235, div. L, §102(c), Dec. 16, 2014, 128 Stat. 2767; Pub. L. 114–328, div. A, title X, §1046, Dec. 23, 2016, 130 Stat. 2395; Pub. L. 116–92, div. A, title III, §374, Dec. 20, 2019, 133 Stat. 1332.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 105–85, div. A, title X, §1088(a), Nov. 18, 1997, 111 Stat. 1921; Pub. L. 105–137, §5(a), Dec. 2, 1997, 111 Stat. 2641; Pub. L. 105–277, div. C, title I, §110(c)(2), Oct. 21, 1998, 112 Stat. 2681–588; Pub. L. 106–6, §6, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–31, title VI, §6002(f), May 21, 1999, 113 Stat. 113; Pub. L. 106–181, title VII, §711, Apr. 5, 2000, 114 Stat. 160; Pub. L. 108–11, title IV, §4001(c), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(d), Dec. 12, 2003, 117 Stat. 2499; Pub. L. 110–181, div. A, title III, §378, Jan. 28, 2008, 122 Stat. 85; Pub. L. 113–46, div. A, §154, Oct. 17, 2013, 127 Stat. 565; Pub. L. 113–66, div. A, title X, §1093, Dec. 26, 2013, 127 Stat. 878; Pub. L. 113–76, div. L, title I, §119E(c), Jan. 17, 2014, 128 Stat. 582; Pub. L. 113–164, §148(c), Sept. 19, 2014, 128 Stat. 1874; Pub. L. 113–235, div. L, §102(c), Dec. 16, 2014, 128 Stat. 2767; Pub. L. 114–328, div. A, title X, §1046, Dec. 23, 2016, 130 Stat. 2395; Pub. L. 116–92, div. A, title III, §374, Dec. 20, 2019, 133 Stat. 1332.)
 
 Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Historical and Revision Notes
 Aug. 23, 1958, Pub. L. 85–726, §1312, 72 Stat. 806; July 20, 1961, Pub. L. 87–89, 75 Stat. 210; June 13, 1966, Pub. L. 89–447, 80 Stat. 199; Sept. 8, 1970, Pub. L. 91–399, 84 Stat. 837; Aug. 9, 1975, Pub. L. 94–90, §2, 89 Stat. 439; July 31, 1976, Pub. L. 94–374, 90 Stat. 1065; Nov. 9, 1977, Pub. L. 95–163, §6, 91 Stat. 1280; Oct. 14, 1982, Pub. L. 97–309, §3, 96 Stat. 1453; Oct. 30, 1987, Pub. L. 100–148, 101 Stat. 878; Oct. 31, 1992, Pub. L. 102–581, §402, 106 Stat. 4897.
 
 The words "is not effective after" are substituted for "shall expire at the termination of" for clarity and consistency in the revised title.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -61,6 +63,8 @@ Pub. L. 106–6 substituted "May" for "March".
 <b>1997</b>—Pub. L. 105–137 substituted "December 31, 1998" for "September 30, 2002".
 
 Pub. L. 105–85 substituted "September 30, 2002" for "September 30, 1997".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

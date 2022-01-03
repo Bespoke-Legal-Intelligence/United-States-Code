@@ -46,7 +46,7 @@ For purposes of implementation of the Compact and this joint resolution, each of
 
 #### (f) Effective date
 
-(1) The President shall not agree to an effective date for the Compact, as authorized by this section, until after certifying to Congress that the agreements described in section 1902 of this title and section 1903 of this title have been concluded.
+(1) The President shall not agree to an effective date for the Compact, as authorized by thissection, until after certifying to Congress that the agreements described in section 1902 of this title and section 1903 of this title have been concluded.
 
 (2) Any agreement concluded with the Federated States of Micronesia or the Marshall Islands pursuant to sections 1902 and 1903 of this title and any agreement which would amend, change, or terminate any subsidiary agreement or portion thereof as set forth in paragraph (4) of this subsection shall be submitted to the Congress. No such agreement shall take effect until after the expiration of 30 days after the date such agreement is so submitted (excluding days on which either House of Congress is not in session).
 
@@ -70,6 +70,8 @@ For purposes of implementation of the Compact and this joint resolution, each of
 
 (Pub. L. 99–239, title I, §101, Jan. 14, 1986, 99 Stat. 1773.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out below.
@@ -83,6 +85,8 @@ Section 601(b) of Public Law 94–329, referred to in subsec. (f)(3), is section
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2012 Amendment
 
@@ -102,7 +106,7 @@ Pub. L. 106–504, §3(a), Nov. 13, 2000, 114 Stat. 2312, provided that: "The fr
 
 #### Regulations Regarding Habitual Residence
 
-Pub. L. 104–208, div. C, title VI, §643, Sept. 30, 1996, 110 Stat. 3009–708, provided that, not later than 6 months after Sept. 30, 1996, the Commissioner of Immigration and Naturalization was to issue regulations governing rights of "habitual residence" in the United States under the terms of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia and the Compact of Free Association between the Government of the United States and the Government of Palau.
+Pub. L. 104–208, div. C, title VI, §643, Sept. 30, 1996, 110 Stat. 3009–708, provided that, not later than 6 monthsafter Sept. 30, 1996, the Commissioner of Immigration and Naturalization was to issue regulations governing rights of "habitual residence" in the United States under the terms of the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia and the Compact of Free Association between the Government of the United States and the Government of Palau.
 
 #### Ratification of Certain Agreements Between United States and Governments of Republic of Marshall Islands and Federated States of Micronesia
 
@@ -120,7 +124,7 @@ Pub. L. 99–239 which enacted this part and chapter 19 of this title contained 
 
 "Whereas the United States, in response to the desires of the peoples of the Federated States of Micronesia and the Marshall Islands expressed through their freely-elected representatives and by the official pronouncements and enactments of their lawfully constituted governments, and in consideration of its own obligations under the Trusteeship Agreement to promote self-determination, entered into political status negotiations with representatives of the peoples of the Federated States of Micronesia, and the Marshall Islands; and
 
-"Whereas these negotiations resulted in the 'Compact of Free Association' \[set out below\] which, together with its related agreements, was signed by the UnitedStates and by the Federated States of Micronesia and the Republic of the Marshall Islands on October 1, 1982 and June 25, 1983, respectively; and
+"Whereas these negotiations resulted in the 'Compact of Free Association' \[set out below\] which, together with its related agreements, was signed by the United States and by the Federated States of Micronesia and the Republic of the Marshall Islands on October 1, 1982 and June 25, 1983, respectively; and
 
 "Whereas the Compact of Free Association was approved by majorities of the peoples of the Federated States of Micronesia and the Marshall Islands in United Nations-observed plebiscites conducted on June 21, 1983 and September 7, 1983, respectively; and
 
@@ -170,7 +174,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 121
 
-"(a) The Governments of the Marshall Islands and the Federated States of Micronesia have the capacity to conduct foreign affairs and shall do so in their own name and right, except as otherwise provided in this Compact.
+"(a) The Governments of the Marshall Islands and the Federated States of Micronesia have the capacity toconduct foreign affairs and shall do so in their own name and right, except as otherwise provided in this Compact.
 
 "(b) The foreign affairs capacity of the Governments of the Marshall Islands and the Federated States of Micronesia includes:
 
@@ -188,7 +192,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 123
 
-"(a) In recognition of the authority and responsibility of the Government of the United States under Title Three, the Governments of the Marshall Islands and the Federated States of Micronesia shall consult,in the conduct of their foreign affairs, with the Government of the United States.
+"(a) In recognition of the authority and responsibility of the Government of the United States under Title Three, the Governments of the Marshall Islands and the Federated States of Micronesia shall consult, in the conduct of their foreign affairs, with the Government of the United States.
 
 "(b) In recognition of the respective foreign affairs capacities of the Governments of the Marshall Islands and the Federated States of Micronesia, the Government of the United States, in the conduct of its foreign affairs, shall consult with the Government of the Marshall Islands or the Federated States of Micronesia on matters which the Government of the United States regards as relating to or affecting any such Government.
 
@@ -220,7 +224,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 &emsp;"(2) the United States Federal Communications Commission has jurisdiction, pursuant to the Communications Act of 1934, 47 U.S.C. 151 et seq., and the Communications Satellite Act of 1962, 47 U.S.C. 721 et seq., over all domestic and foreign communications services furnished by means of satellite earth terminal stations where such stations are owned or operated by United States common carriers and are located in the Marshall Islands or the Federated States of Micronesia.
 
-"(b) The Government of the Marshall Islands or the Federated States of Micronesia may elect at any time to undertake the functions enumerated in Section 131(a) and previously performed by the Government of the United States. Upon such election, the Government of the United States shall so notify the International Frequency Registration Board and shall take such other actions as may be necessary to transfer to the electing Government the notification authority referred to in Section 131(a) and all rights deriving from the previous exercise of any such notification authority by the Government of the United States.
+"(b) The Government of the Marshall Islands or the Federated States of Micronesia may elect at any time to undertake the functions enumerated in Section 131(a) and previously performed by the Government of the United States. Upon such election, the Government of the United States shall so notify the International Frequency Registration Board and shall take such other actions as may be necessary to transfer to the electing Government the notification authority referred to in Section 131(a) and all rights deriving fromthe previous exercise of any such notification authority by the Government of the United States.
 
 #### "Section 132
 
@@ -322,7 +326,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(d) In the event that an Environmental Impact Statement is no longer required under the laws of the United States for major federal actions significantly affecting the quality of the human environment, the regulatory regime established under Sections 161(a)(3) and 161(a)(4) shall continue to apply to such activities of the Government of the United States until amended by mutual agreement.
 
-"(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure which may be applicable under Sections 161(a)(3) and 161(a)(4) if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and the obligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the affected Government of the Marshall Islands or the Federated States of Micronesia shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the affected Government.
+"(e) The President of the United States may exempt any of the activities of the Government of the United States under this Compact and its related agreements from any environmental standard or procedure which may be applicable under Sections 161(a)(3) and 161(a)(4) if the President determines it to be in the paramount interest of the Government of the United States to do so, consistent with Title Three of this Compact and theobligations of the Government of the United States under international law. Prior to any decision pursuant to this subsection, the views of the affected Government of the Marshall Islands or the Federated States of Micronesia shall be sought and considered to the extent practicable. If the President grants such an exemption, to the extent practicable, a report with his reasons for granting such exemption shall be given promptly to the affected Government.
 
 "(f) The laws of the United States referred to in Section 161(a)(3) shall apply to the activities of the Government of the United States under this Compact and its related agreements only to the extent provided for in this Section.
 
@@ -388,7 +392,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 175
 
-"A separate agreement, which shall come into effect simultaneously with this Compact, shall be concluded between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia regarding mutual assistance and cooperation in law enforcement matters including the pursuit, capture, imprisonment and extradition of fugitives from justice and the transfer of prisoners. The separate agreement shall have the force of law. In theUnited States, the laws of the United States governing international extradition, including 18 U.S.C. 3184, 3186 and 3188–3195, shall be applicable to the extradition of fugitives under the separate agreement, and the laws of the United States governing the transfer of prisoners, including 18 U.S.C. 4100–4115, shall be applicable to the transfer of prisoners under the separate agreement.
+"A separate agreement, which shall come into effect simultaneously with this Compact, shall be concluded between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia regarding mutual assistance and cooperation in law enforcement matters including the pursuit, capture, imprisonment and extradition of fugitives from justice and the transfer of prisoners. The separate agreement shall have the force of law. In the United States, the laws of the United States governing international extradition, including 18 U.S.C. 3184, 3186 and 3188–3195, shall be applicable to the extradition of fugitives under the separate agreement, and the laws of the United States governing the transfer of prisoners, including 18 U.S.C. 4100–4115, shall be applicable to the transfer of prisoners under the separate agreement.
 
 #### "Section 176
 
@@ -434,7 +438,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(b) The annual expenditure of the grant amounts specified for the capital account in Section 211(a) by the Governments of the Marshall Islands and the Federated States of Micronesia shall be in accordance with official overall economic development plans provided by those Governments and concurred in by the Government of the United States prior to the effective date of this Compact. These plans may be amended from time to time by the Government of the Marshall Islands or the Federated States of Micronesia.
 
-"(c) The Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia recognize that the achievement of the goals of the plans referred to in Section 211(b) depends upon the availability of adequate internal revenue as well as economic assistance from sources outside of the Marshall Islands and the Federated States of Micronesia, including the Government of the United States, and may, in addition, be affected by the impact of exceptional economically adverse circumstances. Each of the Governments of the Marshall Islands andthe Federated States of Micronesia shall therefore report annually to the President of the United States and to the Congress of the United States on the implementation of the plans and on their use of the funds specified in this Article. These reports shall outline the achievements of the plans to date and the need, if any, for an additional authorization and appropriation of economic assistance for that year to account for any exceptional, economically adverse circumstances. It is understood that the Government of the United States cannot be committed by this Section to seek or support such additional economic assistance.
+"(c) The Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia recognize that the achievement of the goals of the plans referred to in Section 211(b) depends upon the availability of adequate internal revenue as well as economic assistance from sources outside of the Marshall Islands and the Federated States of Micronesia, including the Government of the United States, and may, in addition, be affected by the impact of exceptional economically adverse circumstances. Each of the Governments of the Marshall Islands and the Federated States of Micronesia shall therefore report annually to the President of the United States and to the Congress of the United States on the implementation of the plans and on their use of the funds specified in this Article. These reports shall outline the achievements of the plans to date and the need, if any, for an additional authorization and appropriation of economic assistance for that year to account for any exceptional, economically adverse circumstances. It is understood that the Government of the United States cannot be committed by this Section to seek or support such additional economic assistance.
 
 #### "Section 212
 
@@ -476,7 +480,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 &emsp;"(2) $1.791 million annually for health and medical programs, including referrals to hospital and treatment centers; and
 
-&emsp;"(3) $2.687 million annually for a scholarship fund or funds to support the post-secondary education of citizens of the Marshall Islands and the Federated States of Micronesia attending United States accredited, post-secondary institutions in the United States, its territories and possessions, the Marshall Islands or the Federated States of Micronesia. The curricula criteria for the award of scholarships shall be designed to advance the purposes of the plans referred to in Section 211(b).
+&emsp;"(3) $2.687 million annually for a scholarship fund or funds to support the post-secondary education of citizens of the Marshall Islands and the Federated States of Micronesia attending United States accredited, post-secondary institutions in the United States, its territories and possessions, the Marshall Islands or the Federated States of Micronesia. The curricula criteria for the award of scholarships shallbe designed to advance the purposes of the plans referred to in Section 211(b).
 
 "(b) The Government of the United States shall provide the sum of $1.333 million as a contribution to the commencement of activities pursuant to Section 216(a)(1).
 
@@ -552,7 +556,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 231
 
-"Upon the thirteenth anniversary of the effective date of this Compact, the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia shall commence negotiations regarding those provisions of this Compact which expire on the fifteenth anniversary of its effective date. The period for the enactment of legislation approving the agreements resulting from such negotiations shall extend through the earlier of the date of the enactment of such legislation or September 30, 2004, during which time the provisions of this Compact, including Title Three, shall remain in full force and effect. \[As amended Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1261.\]
+"Upon the thirteenth anniversary of the effective date of this Compact, the Government of the UnitedStates and the Governments of the Marshall Islands and the Federated States of Micronesia shall commence negotiations regarding those provisions of this Compact which expire on the fifteenth anniversary of its effective date. The period for the enactment of legislation approving the agreements resulting from such negotiations shall extend through the earlier of the date of the enactment of such legislation or September 30, 2004, during which time the provisions of this Compact, including Title Three, shall remain in full force and effect. \[As amended Pub. L. 108–108, title I, Nov. 10, 2003, 117 Stat. 1261.\]
 
 #### "Section 232
 
@@ -568,7 +572,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 235
 
-"(a) Funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands, in his official capacity, as of the effective date of this Compact shall remain available as trust funds to their designated beneficiaries. The Government of the United States, inconsultation with the Government of the Marshall Islands or the Federated States of Micronesia, shall appoint a new trustee who shall exercise the functions formerly exercised by the High Commissioner of the Trust Territory of the Pacific Islands.
+"(a) Funds held in trust by the High Commissioner of the Trust Territory of the Pacific Islands, in his official capacity, as of the effective date of this Compact shall remain available as trust funds to their designated beneficiaries. The Government of the United States, in consultation with the Government of the Marshall Islands or the Federated States of Micronesia, shall appoint a new trustee who shall exercise the functions formerly exercised by the High Commissioner of the Trust Territory of the Pacific Islands.
 
 "(b) To provide for the continuity of administration, and to assure the Governments of the Marshall Islands and the Federated States of Micronesia that the purposes of the laws of the United States are carried out and that the funds of any other trust fund in which the High Commissioner of the Trust Territory of the Pacific Islands has authority of a statutory or customary nature shall remain available as trust funds to their designated beneficiaries, the Government of the United States agrees to assume the authority formerly vested in the High Commissioner of the Trust Territory of the Pacific Islands.
 
@@ -614,7 +618,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 #### "Section 254
 
-"(a) In determining any income tax imposed by the Government of the Marshall Islands or the Federated States of Micronesia, those Governments shall have authority to impose tax upon income derived by a resident of the Marshall Islands or the Federated States of Micronesia from sources without the Marshall Islands and the Federated States of Micronesia, in the same manner and to the same extent as those Governments impose tax upon income derived from within their respective jurisdictions. If the Government of the Marshall Islands or the Federated States of Micronesia exercises such authority as provided in this subsection, any individual resident of the Marshall Islands or the Federated States of Micronesia who is subject to tax by the Government of the United States on income which is also taxed by the Government of the Marshall Islands or the Federated States of Micronesia shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term 'resident of the Marshall Islands or the Federated States of Micronesia' shall be deemed to include any person who was physically present in the Marshall Islands or the Federated States of Micronesia for a period of 183 or more days during any taxable year; provided, that as between the Government of the Marshall Islands and the Federated States of Micronesia, the authority to tax an individual resident of the Marshall Islands or the Federated States of Micronesia in respect of income from sources without the Marshall Islands and the Federated States of Micronesia as provided in this subsection may be exercised only by the Government in whose jurisdiction such individual was physically present for the greatest number of days during the taxable year.
+"(a) In determining any income tax imposed by the Government of the Marshall Islands or the FederatedStates of Micronesia, those Governments shall have authority to impose tax upon income derived by a resident of the Marshall Islands or the Federated States of Micronesia from sources without the Marshall Islands and the Federated States of Micronesia, in the same manner and to the same extent as those Governments impose tax upon income derived from within their respective jurisdictions. If the Government of the Marshall Islands or the Federated States of Micronesia exercises such authority as provided in this subsection, any individual resident of the Marshall Islands or the Federated States of Micronesia who is subject to tax by the Government of the United States on income which is also taxed by the Government of the Marshall Islands or the Federated States of Micronesia shall be relieved of liability to the Government of the United States for the tax which, but for this subsection, would otherwise be imposed by the Government of the United States on such income. For purposes of this Section, the term 'resident of the Marshall Islands or the Federated States of Micronesia' shall be deemed to include any person who was physically present in the Marshall Islands or the Federated States of Micronesia for a period of 183 or more days during any taxable year; provided, that as between the Government of the Marshall Islands and the Federated States of Micronesia, the authority to tax an individual resident of the Marshall Islands or the Federated States of Micronesia in respect of income from sources without the Marshall Islands and the Federated States of Micronesia as provided in this subsection may be exercised only by the Government in whose jurisdiction such individual was physically present for the greatest number of days during the taxable year.
 
 "(b) If the Government of the Marshall Islands or the Federated States of Micronesia subjects income to taxation substantially similar to that imposed by the Trust Territory Code in effect on January 1, 1980, such Government shall be deemed to have exercised the authority described in Section 254(a).
 
@@ -764,7 +768,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(a) Notwithstanding any other provision of this Compact, the provisions of this Title are binding from the effective date of this Compact for a period of fifteen years between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia and thereafter as mutually agreed or in accordance with Section 231, unless earlier terminated by mutual agreement pursuant to Section 441, or amended pursuant to Article III of Title Four.
 
-"(b) The Government of the United States recognizes, in view of the special relationship between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, and in view of the existence of separate agreements with each of them pursuant to Sections 321 and 323, that, even if this Title should terminate, any attack on the Marshall Islands or the Federated States of Micronesia during the period in which such separate agreements are in effect, would constitute a threat to the peace and security of the entire region and a dangerto the United States. In the event of such an attack, the Government of the United States would take action to meet the danger to the United States and to the Marshall Islands and the Federated States of Micronesia in accordance with its constitutional processes.
+"(b) The Government of the United States recognizes, in view of the special relationship between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, and in view of the existence of separate agreements with each of them pursuant to Sections 321 and 323, that, even if this Title should terminate, any attack on the Marshall Islands or the Federated States of Micronesia during the period in which such separate agreements are in effect, would constitute a threat to the peace and security of the entire region and a danger to the United States. In the event of such an attack, the Government of the United States would take action to meet the danger to the United States and to the Marshall Islands and the Federated States of Micronesia in accordance with its constitutional processes.
 
 #### "TITLE FOUR
 
@@ -810,7 +814,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 "(a) An Arbitration Board shall consist of a Chairman and two other members, each of whom shall be a citizen of a party to the dispute. Each of the two Governments which is a party to the dispute shall appoint one member to the Arbitration Board. If either party to the dispute does not fulfill the appointment requirements of this Section within 30 days of referral of the dispute to arbitration pursuant to Section 423, its member on the Arbitration Board shall be selected from its own standing list by the other party to the dispute. Each Government shall maintain a standing list of 10 candidates. The parties to the dispute shall jointly appoint a Chairman within 15 days after selection of the other members of the Arbitration Board. Failing agreement on a Chairman, the Chairman shall be chosen by lot from the standing lists of the parties to the dispute within 5 days after such failure.
 
-"(b) The Arbitration Board shall have jurisdiction to hear and render its final determination on all disputes arising exclusively under Articles I, II, III, IV and V of Title One, Title Two, Title Four and their related agreements.
+"(b) The Arbitration Board shall have jurisdiction to hear and render its final determination on all disputesarising exclusively under Articles I, II, III, IV and V of Title One, Title Two, Title Four and their related agreements.
 
 "(c) Each member of the Arbitration Board shall have one vote. Each decision of the Arbitration Board shall be reached by majority vote.
 
@@ -1064,7 +1068,7 @@ Pub. L. 99–239, title II, §201, Jan. 14, 1986, 99 Stat. 1800, as amended by P
 
 \[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
-\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reporting requirements under section 211(c) of the Compact of Free Association, set out above, are listed as the 5th and 6th items on page 115), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
@@ -1144,7 +1148,7 @@ Incentives Reduced.—If the tax incentives extended to the Marshall Islands and
 
 #### "SEC. 405. THE MARSHALL ISLANDS AND THE FEDERATED STATES OF MICRONESIA TREATED AS NORTH AMERICAN AREA.
 
-"For purposes of section 274(h)(3)(A) of the Internal Revenue Code of 1986 \[26 U.S.C. 274(h)(3)(A)\], the term 'North American Area' shall include the Marshall Islands and the Federated States of Micronesia.
+"For purposes of section 274(h)(3)(A) of the Internal Revenue Code of 1986 \[26 U.S.C. 274(h)(3)(A)\], the term'North American Area' shall include the Marshall Islands and the Federated States of Micronesia.
 
 #### "SEC. 406. EFFECTIVE DATE.
 
@@ -1214,7 +1218,7 @@ Sec. 7. <i>Delegation to the Secretary of State</i>. The following authorities a
 
 Sec. 8. <i>Supersession and Saving Provisions.</i>
 
-(a) Subject to the provisions of Section 9 of this Order, prior Executive orders concerning the former Trust Territory of the Pacific Islands are hereby superseded and rendered inapplicable, except that the authority of the Secretary of the Interior as provided in applicable provisions of Executive Order No. 11021, asamended \[formerly 48 U.S.C. 1681 note\], shall remain in effect, in a manner consistent with this Order and pursuant to section 105(c)(2) of the Act \[48 U.S.C. 1905(c)(2)\], to terminate the trust territory government and discharge its responsibilities, at which time the entirety of Executive Order No. 11021 shall be superseded.
+(a) Subject to the provisions of Section 9 of this Order, prior Executive orders concerning the former Trust Territory of the Pacific Islands are hereby superseded and rendered inapplicable, except that the authority of the Secretary of the Interior as provided in applicable provisions of Executive Order No. 11021, as amended \[formerly 48 U.S.C. 1681 note\], shall remain in effect, in a manner consistent with this Order and pursuant to section 105(c)(2) of the Act \[48 U.S.C. 1905(c)(2)\], to terminate the trust territory government and discharge its responsibilities, at which time the entirety of Executive Order No. 11021 shall be superseded.
 
 (b) Nothing in this Order shall be construed as modifying the rights or obligations of the United States under the provisions of the Compact or as affecting or modifying the responsibility of the Secretary of State and the Attorney General to interpret the rights and obligations of the United States arising out of or concerning the Compact.
 

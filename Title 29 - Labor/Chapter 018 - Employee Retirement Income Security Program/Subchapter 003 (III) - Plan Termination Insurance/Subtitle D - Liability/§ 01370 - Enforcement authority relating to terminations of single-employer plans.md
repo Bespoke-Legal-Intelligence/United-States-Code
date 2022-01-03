@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any person who is with respect to a single-employer plan a fiduciary, contributing sponsor, member of a contributing sponsor's controlled group, participant, or beneficiary, and is adversely affected by an act or practice of any party (other than the corporation) in violation of any provision of section 1341, 1342, 1362, 1363, 1364, or 1369 of this title, or who is an employeeorganization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action—
+Any person who is with respect to a single-employer plan a fiduciary, contributing sponsor, member of a contributing sponsor's controlled group, participant, or beneficiary, and is adversely affected by an act or practice of any party (other than the corporation) in violation of any provision of section 1341, 1342, 1362, 1363, 1364, or 1369 of this title, or who is an employee organization representing such a participant or beneficiary so adversely affected for purposes of collective bargaining with respect to such plan, may bring an action—
 
 &emsp;(1) to enjoin such act or practice, or
 

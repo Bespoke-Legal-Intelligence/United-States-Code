@@ -30,9 +30,11 @@ Aug. 7, 1939, ch. 511, §2, 53 Stat. 1240.
 
 5:221 (last 15 words of 1st sentence).
 
-In subsection (a), the words "and providing that in the opinion" are omitted as covered by the words"whenever he considers". The words "needed for" are substituted for the words "required for the accomplishment of".
+In subsection (a), the words "and providing that in the opinion" are omitted as covered by the words "whenever he considers". The words "needed for" are substituted for the words "required for the accomplishment of".
 
 In subsection (c), reference is made in substance to the Classification Act of 1949, instead of the Classification Act of 1923 referred to in the source statute, since section 1106(a) of the Classification Act of 1949, 63 Stat. 972, provides that all references in other acts to the Classification Act of 1923 should be considered to refer to the Classification Act of 1949.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -43,6 +45,8 @@ In subsection (c), reference is made in substance to the Classification Act of 1
 Pub. L. 95–454, §703(c)(3), substituted "7204" for "7154".
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–718 substituted "Sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5" for "Sections 1071–1153 of title 5".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

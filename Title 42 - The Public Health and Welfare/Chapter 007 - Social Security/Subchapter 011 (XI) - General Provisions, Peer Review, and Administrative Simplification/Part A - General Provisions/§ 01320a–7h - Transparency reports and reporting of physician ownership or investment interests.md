@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B) except as provided in paragraph (2), any applicable manufacturer or applicable group purchasing organization that fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil money penalty of not less than $1,000, but not more than $10,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
+&emsp;&emsp;Subject to subparagraph (B) except as provided in paragraph (2), any applicable manufacturer or applicable group purchasing organization that fails to submit information required under subsection (a) in a timely manner in accordance with rules or regulations promulgated to carry out such subsection, shall be subject to a civil moneypenalty of not less than $1,000, but not more than $10,000, for each payment or other transfer of value or ownership or investment interest not reported as required under such subsection. Such penalty shall be imposed and collected in the same manner as civil money penalties under subsection (a) of section 1320a–7a of this title are imposed and collected under that section.
 
 #### (B) Limitation
 
@@ -284,7 +284,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(viii) In-kind items used for the provision of charity care.
 
-&emsp;&emsp;&emsp;(ix) A dividend or other profit distribution from, or ownership or investment interest in, a publicly traded security and mutual fund (as described in section 1395nn(c) of this title).
+&emsp;&emsp;&emsp;(ix) A dividend or other profit distribution from, or ownership or investment interest in, a publicly traded security andmutual fund (as described in section 1395nn(c) of this title).
 
 &emsp;&emsp;&emsp;(x) In the case of an applicable manufacturer who offers a self-insured plan, payments for the provision of health care to employees under the plan.
 
@@ -302,6 +302,8 @@ In this section:
 
 <i>Amendment of section by section 6111(a)(1) of Pub. L. 115–271 applicable with respect to information required to be submitted under this section on or after Jan. 1, 2022. See 2018 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(1)(C)(viii). Pub. L. 115–271, §6111(b), substituted "in the case of information made available under this subparagraph prior to January 1, 2022, does not contain" for "does not contain".
@@ -310,11 +312,13 @@ Subsec. (e)(6)(A)(iii) to (v). Pub. L. 115–271, §6111(a)(1)(A), added cls. (i
 
 Subsec. (e)(6)(B). Pub. L. 115–271, §6111(a)(1)(B), inserted ", physician assistant, nurse practitioner, clinical nurse specialist, certified nurse anesthetist, or certified nurse-midwife" after "physician".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–271, title VI, §6111(a)(2), Oct. 24, 2018, 132 Stat. 4006, provided that: "The amendments made by this subsection \[amending this section\] shall apply with respect to information required to be submitted under section 1128G of the Social Security Act (42 U.S.C. 1320a–7h) on or after January 1, 2022."
 
 #### Administration
 
-Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, United States Code, shall not apply to this section \[amendingthis section and enacting provisions set out as notes under this section\] or the amendments made by this section."
+Pub. L. 115–271, title VI, §6111(c), Oct. 24, 2018, 132 Stat. 4007, provided that: "Chapter 35 of title 44, United States Code, shall not apply to this section \[amending this section and enacting provisions set out as notes under this section\] or the amendments made by this section."
 

@@ -30,7 +30,7 @@
 
 #### (B) Prohibition on impairment of contracts
 
-&emsp;&emsp;A specified activity shall not impair an existing contract for services or collective bargaining agreement, and no such activity that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
+&emsp;&emsp;A specified activity shall not impair an existing contract for services or collective bargaining agreement, and no such activity that would be inconsistent with the terms ofa collective bargaining agreement shall be undertaken without the written concurrence of the labor organization and employer concerned.
 
 #### (3) Other prohibitions
 
@@ -48,7 +48,7 @@
 
 #### (5) Employment conditions
 
-&emsp;Individuals in on-the-job training or individuals employed in programs and activities under this subchapter shall be provided benefits and working conditions at the same level and to the same extent as other trainees oremployees working a similar length of time and doing the same type of work.
+&emsp;Individuals in on-the-job training or individuals employed in programs and activities under this subchapter shall be provided benefits and working conditions at the same level and to the same extent as other trainees or employees working a similar length of time and doing the same type of work.
 
 #### (6) Opportunity to submit comments
 
@@ -106,7 +106,7 @@
 
 #### (3) Repayment
 
-&emsp;If the Secretary determines that a violation of paragraph (1) or (2) has occurred, the Secretary shall require the State that has violated such paragraph (or that has provided funding to an entity that has violated such paragraph) to repay to the United States an amount equal to the amount expended in violation of such paragraph.
+&emsp;If the Secretary determines that a violation of paragraph (1) or (2) has occurred, the Secretary shall require the State that has violated such paragraph (or that has providedfunding to an entity that has violated such paragraph) to repay to the United States an amount equal to the amount expended in violation of such paragraph.
 
 #### (e) Limitation on use of funds
 
@@ -128,7 +128,7 @@ No funds available to carry out an activity under this subchapter shall be used 
 
 &emsp;&emsp;In sanctioning participants in a program under part B who test positive for the use of controlled substances—
 
-&emsp;&emsp;&emsp;(i) with respect to the first occurrence for which a participant tests positive, a State may exclude the participant fromthe program for a period not to exceed 6 months; and
+&emsp;&emsp;&emsp;(i) with respect to the first occurrence for which a participant tests positive, a State may exclude the participant from the program for a period not to exceed 6 months; and
 
 &emsp;&emsp;&emsp;(ii) with respect to the second occurrence and each subsequent occurrence for which a participant tests positive, a State may exclude the participant from the program for a period not to exceed 2 years.
 

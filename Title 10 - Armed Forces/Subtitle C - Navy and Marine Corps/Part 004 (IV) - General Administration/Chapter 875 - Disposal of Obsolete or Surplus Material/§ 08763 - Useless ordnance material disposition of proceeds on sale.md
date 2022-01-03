@@ -20,9 +20,13 @@ Jan. 22, 1923, ch. 28, 42 Stat. 1142 (last 24 words of 5th par.).
 
 The words "as miscellaneous receipts" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7543 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

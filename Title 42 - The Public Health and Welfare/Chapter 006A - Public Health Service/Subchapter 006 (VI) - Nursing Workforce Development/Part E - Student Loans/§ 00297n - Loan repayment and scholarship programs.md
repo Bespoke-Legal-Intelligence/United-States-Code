@@ -30,7 +30,7 @@ Notwithstanding the requirement of completion of practice specified in subsectio
 
 #### (1) In general
 
-&emsp;The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years thereafter) carry out a program of entering into contracts with eligible individuals under which such individuals agree to serve as nurses for a period of not less than 2 years at a health care facility with a critical shortage of nurses, in consideration of the Federal Government agreeing to provide to the individuals scholarships for attendance at schools of nursing.
+&emsp;The Secretary shall (for fiscal years 2003 and 2004) and may (for fiscal years thereafter) carry out a program of entering into contracts with eligible individuals under which such individuals agree to serve as nurses for a period of not less than 2 years at a health care facility with a critical shortage of nurses, in consideration of the Federal Government agreeingto provide to the individuals scholarships for attendance at schools of nursing.
 
 #### (2) Eligible individuals
 
@@ -122,6 +122,8 @@ Of the amounts appropriated under section 298d(b) of this title,,<sup>3</sup> th
 
 (July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813; Pub. L. 111–148, title V, §5310(a), Mar. 23, 2010, 124 Stat. 631; Pub. L. 116–136, div. A, title III, §3404(a)(8), Mar. 27, 2020, 134 Stat. 394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subpart II, referred to in subsec. (a)(2), probably should be "this part" to reflect the redesignation of subpart II of former part B of this subchapter as part E of this subchapter by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562.
@@ -175,6 +177,8 @@ Subsec. (h). Pub. L. 107–205, §103(b)(2), (d), redesignated subsec. (f) as (h
 Subsec. (i). Pub. L. 107–205, §103(b)(2), (e), redesignated subsec. (g) as (i) and amended it generally. Prior to amendment, text of subsec. read as follows: "For the purpose of payments under agreements entered into under subsection (a) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1993, and $6,000,000 for fiscal year 1994."
 
 <b>1998</b>—Subsec. (h). Pub. L. 105–392 added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

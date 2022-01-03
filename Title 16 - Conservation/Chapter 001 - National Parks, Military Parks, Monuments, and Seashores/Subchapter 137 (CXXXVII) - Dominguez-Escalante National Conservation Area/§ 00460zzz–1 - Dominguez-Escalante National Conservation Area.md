@@ -62,6 +62,8 @@ The purposes of the Conservation Area are to conserve and protect for the benefi
 
 (Pub. L. 111–11, title II, §2402, Mar. 30, 2009, 123 Stat. 1102.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1)(C)(i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

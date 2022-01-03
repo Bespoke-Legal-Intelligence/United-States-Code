@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) a chemical substance in small quantities (as defined by the Administrator by rule) solely for purposes of scientific experimentation or analysis or chemical research on, or analysis of, such substance or another substance, including any such research or analysis for the development of a product,
 
-> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance of records or submission of reports, or both, is necessary for the effective enforcement of this chapter.
+> &emsp;shall maintain records and submit to the Administrator reports but only to the extent the Administrator determines the maintenance ofrecords or submission of reports, or both, is necessary for the effective enforcement of this chapter.
 
 > The Administrator may not require in a rule promulgated under this paragraph the maintenance of records or the submission of reports with respect to changes in the proportions of the components of a mixture unless the Administrator finds that the maintenance of such records or the submission of such reports, or both, is necessary for the effective enforcement of this chapter. For purposes of the compilation of the list of chemical substances required under subsection (b), the Administrator shall promulgate rules pursuant to this subsection not later than 180 days after January 1, 1977.
 
@@ -302,7 +302,7 @@ Exemption.—Clause (i) shall not apply to a person engaged in the generation, h
 
 #### (c) Records
 
-Any person who manufactures, processes, or distributes in commerce any chemical substance or mixture shall maintain records of significant adverse reactions to health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture. Records of such adverse reactions to the health of employees shall be retained for a period of 30 years from the date such reactions were first reported to or known by the person maintaining such records. Any other record of such adverse reactions shall be retained for a period of five years from the date the information contained in the record was first reported to or known by the person maintaining the record. Records required to be maintained under this subsection shall include records of consumer allegations of personal injury or harm to health, reports of occupational disease or injury, and reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source.Upon request of any duly designated representative of the Administrator, each person who is required to maintain records under this subsection shall permit the inspection of such records and shall submit copies of such records.
+Any person who manufactures, processes, or distributes in commerce any chemical substance or mixture shall maintain records of significant adverse reactions to health or the environment, as determined by the Administrator by rule, alleged to have been caused by the substance or mixture. Records of such adverse reactions to the health of employees shall be retained for a period of 30 years from the date such reactions were first reported to or known by the person maintaining such records. Any other record of such adverse reactions shall be retained for a period of five years from the date the information contained in the record was first reported to or known by the person maintaining the record. Records required to be maintained under this subsection shall include records of consumer allegations of personal injury or harm to health, reports of occupational disease or injury, and reports or complaints of injury to the environment submitted to the manufacturer, processor, or distributor in commerce from any source. Upon request of any duly designated representative of the Administrator, each person who is required to maintain records under this subsection shall permit the inspection of such records and shall submit copies of such records.
 
 #### (d) Health and safety studies
 
@@ -322,6 +322,8 @@ For purposes of this section, the terms "manufacture" and "process" mean manufac
 
 (Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §§8, 19(g), June 22, 2016, 130 Stat. 470, 507; Pub. L. 116–92, div. F, title LXXIII, §7351, Dec. 20, 2019, 133 Stat. 2289.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(7). Pub. L. 116–92 added par. (7).
@@ -339,6 +341,8 @@ Subsec. (a)(4) to (6). Pub. L. 114–182, §8(a)(1)(C), added pars. (4) to (6).
 Subsec. (b)(3) to (9). Pub. L. 114–182, §8(a)(2), added pars. (3) to (9).
 
 Subsec. (b)(10). Pub. L. 114–182, §8(b), added par. (10).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

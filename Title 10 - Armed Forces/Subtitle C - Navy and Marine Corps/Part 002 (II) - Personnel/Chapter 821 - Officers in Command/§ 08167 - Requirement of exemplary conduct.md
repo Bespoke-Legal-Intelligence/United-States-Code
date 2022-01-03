@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 May 5, 1950, ch. 169, §7(c), 64 Stat. 146.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5947 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

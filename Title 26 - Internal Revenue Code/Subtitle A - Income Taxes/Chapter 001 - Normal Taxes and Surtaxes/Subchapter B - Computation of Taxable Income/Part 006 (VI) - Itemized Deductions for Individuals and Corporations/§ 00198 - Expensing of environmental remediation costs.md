@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (4) Appropriate State agency
 
-&emsp;For purposes of paragraph (3), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactment of this section. If the chief executive officer of a State has not designated an appropriate environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
+&emsp;For purposes of paragraph (3), the chief executive officer of each State may, in consultation with the Administrator of the Environmental Protection Agency, designate the appropriate State environmental agency within 60 days of the date of the enactment of this section. If the chief executive officer of aState has not designated an appropriate environmental agency within such 60-day period, the appropriate environmental agency for such State shall be designated by the Administrator of the Environmental Protection Agency.
 
 #### (d) Hazardous substance
 
@@ -84,6 +84,8 @@ This section shall not apply to expenditures paid or incurred after December 31,
 
 (Added Pub. L. 105–34, title IX, §941(a), Aug. 5, 1997, 111 Stat. 882; amended Pub. L. 106–170, title V, §§511, 532(c)(2)(A), Dec. 17, 1999, 113 Stat. 1924, 1930; Pub. L. 106–554, §1(a)(7) \[title I, §162(a), (b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–625; Pub. L. 108–311, title III, §308(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 109–432, div. A, title I, §109(a), (b), Dec. 20, 2006, 120 Stat. 2939; Pub. L. 110–343, div. C, title III, §318(a), Oct. 3, 2008, 122 Stat. 3873; Pub. L. 111–312, title VII, §745(a), Dec. 17, 2010, 124 Stat. 3319.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (c)(2), (4), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
@@ -109,6 +111,8 @@ Subsec. (h). Pub. L. 106–554, §1(a)(7) \[title I, §162(b)\], substituted "20
 <b>1999</b>—Subsec. (c)(1)(A)(i). Pub. L. 106–170, §532(c)(2)(A), substituted "section 1221(a)(1)" for "section 1221(1)".
 
 Subsec. (h). Pub. L. 106–170, §511, substituted "2001" for "2000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

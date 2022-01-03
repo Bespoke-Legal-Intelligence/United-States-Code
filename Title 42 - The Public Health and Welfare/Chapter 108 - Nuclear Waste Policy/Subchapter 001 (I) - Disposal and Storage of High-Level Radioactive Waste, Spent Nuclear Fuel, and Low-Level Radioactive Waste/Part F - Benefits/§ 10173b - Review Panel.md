@@ -16,7 +16,7 @@ The Review Panel required to be established by section 10173a(b)(1) of this titl
 
 (1) The members of the Review Panel shall serve for terms of 4 years each.
 
-(2) Members of the Review Panel who are not full-time employees of the Federal Government,shall receive a per diem compensation for each day spent conducting work of the Review Panel, including their necessary travel or other expenses while engaged in the work of the Review Panel.
+(2) Members of the Review Panel who are not full-time employees of the Federal Government, shall receive a per diem compensation for each day spent conducting work of the Review Panel, including their necessary travel or other expenses while engaged in the work of the Review Panel.
 
 (3) Expenses of the Panel shall be paid by the Secretary from the Waste Fund.
 
@@ -43,6 +43,8 @@ The Secretary shall promptly <sup>1</sup> make available promptly <sup>1</sup>
 The requirements of the Federal Advisory Committee Act shall not apply to a Review Panel established under this subchapter.
 
 (Pub. L. 97–425, title I, §172, as added Pub. L. 100–202, §101(d) \[title III, §300\], Dec. 22, 1987, 101 Stat. 1329–104, 1329–121; Pub. L. 100–203, title V, §5031, Dec. 22, 1987, 101 Stat. 1330–239.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -6,7 +6,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 #### (1) Drugs subject to a final monograph; category I drugs subject to a tentative final monograph
 
-&emsp;A drug is deemed to be generally recognized as safe and effective under section 321(p)(1) ofthis title, not a new drug under section 321(p) of this title, and not subject to section 353(b)(1) of this title, if—
+&emsp;A drug is deemed to be generally recognized as safe and effective under section 321(p)(1) of this title, not a new drug under section 321(p) of this title, and not subject to section 353(b)(1) of this title, if—
 
 &emsp;&emsp;(A) the drug is—
 
@@ -218,7 +218,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a determination by the Secretary that a drug, class of drugs, or combination of drugs subject to this section poses an imminent hazard to the public health, the Secretary, after first making reasonable efforts to notify, not later than 48 hours before issuance of such order under this subparagraph, sponsors who have a listing in effect under section 360(j) of this title for such drug or combination of drugs—
+&emsp;&emsp;&emsp;In the case of a determination by the Secretary that a drug, class of drugs, orcombination of drugs subject to this section poses an imminent hazard to the public health, the Secretary, after first making reasonable efforts to notify, not later than 48 hours before issuance of such order under this subparagraph, sponsors who have a listing in effect under section 360(j) of this title for such drug or combination of drugs—
 
 &emsp;&emsp;&emsp;&emsp;(I) may issue an interim final administrative order for such drug, class of drugs, or combination of drugs under paragraph (1), together with a detailed statement of the reasons for such order;
 
@@ -444,7 +444,7 @@ Nonprescription drugs marketed without an approved drug application under sectio
 
 #### (E) Rule of application
 
-&emsp;&emsp;Except in the case of a request involving a drug described in section 360fff(9) of this title, as in effect on January 1, 2017, if the Secretary refuses to file a request under this paragraph, the requestor may not file such request over protest under paragraph (5)(A)(iii).
+&emsp;&emsp;Except in the case of a request involving a drug described in section 360fff(9) of thistitle, as in effect on January 1, 2017, if the Secretary refuses to file a request under this paragraph, the requestor may not file such request over protest under paragraph (5)(A)(iii).
 
 #### (7) Packaging
 
@@ -670,7 +670,7 @@ Pub. L. 116–136, div. A, title III, §3853, Mar. 27, 2020, 134 Stat. 454, prov
 
 "(a)
 
-In General.—Nothing in this Act \[probably should be "this subtitle", meaning subtitle F (§§3851–3862) of title III of div. A of Pub. L. 116–136, enacting this section, section 360fff–8 of this title, and subpart 10 of part C of subchapter VII of this chapter, amending sections 352, 360fff–3, 379j–52, 379r, and 381 of this title, repealing section 360fff–5 of this title, and enacting provisions set out as notes under this section and sections 360fff–3, 360fff–6, 379j–52, and 379j–71 of this title\] (or the amendments made by this Act) shall apply to any nonprescription drug (as defined in section 505G(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355h(q)\], as added by section 3851 of this subtitle) which was excluded by the Food and Drug Administration from the Over-the-Counter Drug Review in accordance with the paragraph numbered 25 on page 9466 of volume 37 of the Federal Register, published on May 11, 1972.
+In General.—Nothing in this Act \[probably should be "this subtitle", meaning subtitle F (§§3851–3862) of title III of div. A of Pub. L. 116–136, enacting this section, section 360fff–8 of this title, and subpart 10 of part C of subchapter VII of this chapter, amending sections 352, 360fff–3, 379j–52, 379r, and 381 of this title, repealing section 360fff–5 of this title, and enacting provisions set out as notes under this section and sections 360fff–3, 360fff–6, 379j–52, and 379j–71 of this title\] (or the amendments made by this Act) shall applyto any nonprescription drug (as defined in section 505G(q) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355h(q)\], as added by section 3851 of this subtitle) which was excluded by the Food and Drug Administration from the Over-the-Counter Drug Review in accordance with the paragraph numbered 25 on page 9466 of volume 37 of the Federal Register, published on May 11, 1972.
 
 "(b)
 

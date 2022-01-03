@@ -128,6 +128,8 @@ Enforcement.—The Secretary shall have the authority to assess civil penalties 
 
 (Added Pub. L. 110–432, div. A, title I, §103(a), Oct. 16, 2008, 122 Stat. 4853; amended Pub. L. 114–94, div. A, title XI, §11316(e), Dec. 4, 2015, 129 Stat. 1676.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a)(1), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
@@ -137,6 +139,8 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 <b>2015</b>—Subsec. (c). Pub. L. 114–94, §11316(e)(1), inserted comma after "In developing its railroad safety risk reduction program".
 
 Subsec. (g)(1). Pub. L. 114–94, §11316(e)(2), inserted comma after "good faith" and substituted "nonprofit" for "non-profit".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

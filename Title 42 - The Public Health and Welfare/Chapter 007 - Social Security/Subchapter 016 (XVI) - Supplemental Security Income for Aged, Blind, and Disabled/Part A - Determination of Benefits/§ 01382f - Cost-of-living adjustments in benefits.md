@@ -10,7 +10,7 @@ Whenever benefit amounts under subchapter II are increased by any percentage eff
 
 &emsp;&emsp;(B) the amount in effect for such month under such subsection; and
 
-&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II are increased for such month, or, if greater (in any case where the increase under subchapter II was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
+&emsp;(2) the amount obtained under paragraph (1) with respect to each subsection shall be further increased by the same percentage by which benefit amounts under subchapter II are increased for such month, or, if greater (in anycase where the increase under subchapter II was determined on the basis of the wage increase percentage rather than the CPI increase percentage), the percentage by which benefit amounts under subchapter II would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, (and rounded, when not a multiple of $12, to the next lower multiple of $12), effective with respect to benefits for months after such month.
 
 #### (b) Publication in Federal Register of new dollar amounts
 
@@ -26,6 +26,8 @@ Effective July 1, 1983—
 
 (Aug. 14, 1935, ch. 531, title XVI, §1617, as added Pub. L. 93–368, §6(b), Aug. 7, 1974, 88 Stat. 421; amended Pub. L. 97–248, title I, §182(a), Sept. 3, 1982, 96 Stat. 404; Pub. L. 98–21, title IV, §401, Apr. 20, 1983, 97 Stat. 138.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 211 of Public Law 93–66, referred to in subsecs. (a)(1), (b), and (c)(1), is section 211 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 154, as amended, which is set out as a note under section 1382 of this title.
@@ -39,6 +41,8 @@ Subsec. (b). Pub. L. 98–21, §401(a)(2), substituted "subsection (a) of this s
 Subsec. (c). Pub. L. 98–21, §401(a)(1), added subsec. (c).
 
 <b>1982</b>—Pub. L. 97–248 redesignated existing provisions as subsec. (a), revised method of computation into pars. (1) and (2) and among other changes increased base for rounding-off from a multiple of $1.20 to a multiple of $12.00, and struck out provisions relating to publication of increased dollar amounts in the Federal Register, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

@@ -14,9 +14,13 @@ Consent of Member Required.—The notification under subsection (a) may be provi
 
 (Added Pub. L. 110–181, div. A, title XVI, §1617(a)(1), Jan. 28, 2008, 122 Stat. 449; amended Pub. L. 115–232, div. A, title VII, §720, Aug. 13, 2018, 132 Stat. 1817.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–232 substituted "admitted to any military medical treatment facility" for "admitted to a military treatment facility within the United States".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

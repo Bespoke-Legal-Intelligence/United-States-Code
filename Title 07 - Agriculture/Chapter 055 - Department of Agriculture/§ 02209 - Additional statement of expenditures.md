@@ -4,6 +4,8 @@ The Secretary of Agriculture shall furnish proper vouchers and accounts for the 
 
 (Mar. 3, 1885, ch. 338, §2, 23 Stat. 356; Aug. 11, 1916, ch. 313, 39 Stat. 492; June 10, 1921, ch. 18 §301, 42 Stat. 23; May 29, 1928, ch. 901, §1(88), 45 Stat. 992; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 558 of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
@@ -13,6 +15,8 @@ Section was formerly classified to section 558 of Title 5 prior to the general r
 <b>1928</b>—Act May 29, 1928, struck out requirement that Secretary of Agriculture present to Congress a detailed statement of the expenditure of all appropriations for the Department for the preceding fiscal year.
 
 <b>1916</b>—Act Aug. 11, 1916, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -18,7 +18,7 @@ With respect to grants or contracts in connection with the provision of legal as
 
 &emsp;&emsp;(iv) such other factors as relate to financial inability to afford legal assistance, which may include evidence of a prior determination that such individual's lack of income results from refusal or unwillingness, without good cause, to seek or accept an employment situation; and
 
-&emsp;(C) insure that (i) recipients, consistent with goals established by the Corporation, adopt procedures for determining and implementing priorities for the provision of such assistance, taking into account the relative needs of eligible clients for such assistance (including such outreach, training, and support services asmay be necessary), including particularly the needs for service on the part of significant segments of the population of eligible clients with special difficulties of access to legal services or special legal problems (including elderly and handicapped individuals); and (ii) appropriate training and support services are provided in order to provide such assistance to such significant segments of the population of eligible clients;
+&emsp;(C) insure that (i) recipients, consistent with goals established by the Corporation, adopt procedures for determining and implementing priorities for the provision of such assistance, taking into account the relative needs of eligible clients for such assistance (including such outreach, training, and support services as may be necessary), including particularly the needs for service on the part of significant segments of the population of eligible clients with special difficulties of access to legal services or special legal problems (including elderly and handicapped individuals); and (ii) appropriate training and support services are provided in order to provide such assistance to such significant segments of the population of eligible clients;
 
 &emsp;(3) insure that grants and contracts are made so as to provide the most economical and effective delivery of legal assistance to persons in both urban and rural areas;
 
@@ -74,7 +74,7 @@ No funds made available by the Corporation under this subchapter, either by gran
 
 &emsp;(9) to provide legal assistance with respect to any proceeding or litigation relating to the desegregation of any elementary or secondary school or school system, except that nothing in this paragraph shall prohibit the provision of legal advice to an eligible client with respect to such client's legal rights and responsibilities;
 
-&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. 3801 et seq.\] or of desertion from the Armed Forces of the United States, except that legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
+&emsp;(10) to provide legal assistance with respect to any proceeding or litigation arising out of a violation of the Military Selective Service Act \[50 U.S.C. 3801 et seq.\] or of desertion from the Armed Forces of the United States, exceptthat legal assistance may be provided to an eligible client in a civil action in which such client alleges that he was improperly classified prior to July 1, 1973, under the Military Selective Service Act or prior corresponding law; or
 
 &emsp;(11) to provide legal assistance in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\].
 
@@ -116,6 +116,8 @@ The Corporation shall conduct a study on whether eligible clients who are—
 
 (Pub. L. 88–452, title X, §1007, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 383; amended Pub. L. 95–222, §§7(b), 9(a), (b)(1), (c), 10–13, Dec. 28, 1977, 91 Stat. 1620–1623; Pub. L. 105–12, §9(o), Apr. 30, 1997, 111 Stat. 28; Pub. L. 106–185, §2(d), Apr. 25, 2000, 114 Stat. 211; Pub. L. 111–211, title II, §234(d), July 29, 2010, 124 Stat. 2282.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Military Selective Service Act, referred to in subsec. (b)(10), is act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
@@ -132,7 +134,7 @@ Section 2809 of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 <b>1997</b>—Subsec. (b)(11). Pub. L. 105–12 added par. (11).
 
-<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisions setting forth factors required to be included in determining financial ability.
+<b>1977</b>—Subsec. (a)(2)(B)(iv). Pub. L. 95–222, §9(a), substituted provisions setting forth factors which may be included in determining financial ability, for provisionssetting forth factors required to be included in determining financial ability.
 
 Subsec. (a)(2)(C). Pub. L. 95–222, §9(b)(1), expanded existing provisions by requiring the Corporation to establish procedures for determining and implementing priorities and criteria for such priorities, and inserted provisions relating to appropriate training and support services.
 
@@ -147,6 +149,8 @@ Subsec. (c). Pub. L. 95–222, §11, substituted provisions requiring recipients
 Subsec. (f). Pub. L. 95–222, §12, inserted provision requiring notice to principal local bar association, if any, of community.
 
 Subsec. (h). Pub. L. 95–222, §13, added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 
@@ -168,7 +172,7 @@ Pub. L. 101–515, title VI, §607 (part), Nov. 5, 1991, 104 Stat. 2153, provide
 
 Pub. L. 101–162, title VI, §608 (part), Nov. 21, 1989, 103 Stat. 1036, provided: "That none of the funds appropriated under this Act or under any prior Acts for the Legal Services Corporation shall be used to consider, develop, or implement any system for the competitive award of grants or contracts until such action is authorized pursuant to a majority vote of a Board of Directors of the Legal Services Corporation composed of eleven individuals nominated by the President after January 20, 1989, and subsequently confirmed by the United States Senate, except that nothing herein shall prohibit the Corporation Board, members, or staff from engaging in in-house reviews of or holding hearings on proposals for a system for the competitive award of all grants and contracts, including support centers, and that nothing herein shall apply to any competitive awards program currently in existence; subsequent to confirmation such new Board of Directors shall develop and implement a proposed system for the competitive award of all grants and contracts".
 
-Pub. L. 100–459, title VI, §605, Oct. 1, 1988, 102 Stat. 2227, provided: "That a Board of Directors of the LegalServices Corporation, composed of individuals nominated by the President after January 20, 1989 and subsequently confirmed by the United States Senate, shall develop and implement a system for the competitive award of all grants and contracts, including support centers, to take effect after September 30, 1989."
+Pub. L. 100–459, title VI, §605, Oct. 1, 1988, 102 Stat. 2227, provided: "That a Board of Directors of the Legal Services Corporation, composed of individuals nominated by the President after January 20, 1989 and subsequently confirmed by the United States Senate, shall develop and implement a system for the competitive award of all grants and contracts, including support centers, to take effect after September 30, 1989."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

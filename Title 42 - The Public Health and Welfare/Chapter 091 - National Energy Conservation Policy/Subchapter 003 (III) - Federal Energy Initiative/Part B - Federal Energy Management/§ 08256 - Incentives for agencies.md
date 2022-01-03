@@ -64,6 +64,8 @@ An agency may retain any funds appropriated to that agency for energy expenditur
 
 (Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846; Pub. L. 109–58, title I, §102(f), Aug. 8, 2005, 119 Stat. 607; Pub. L. 110–140, title V, §516, Dec. 19, 2007, 121 Stat. 1659.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 8262e of this title, referred to in subsec. (d)(2)(G), was in the original "section 159" and was translated as meaning section 159 of Pub. L. 102–486, title I, Oct. 24, 1992, 106 Stat. 2857, which enacted section 8262e of this title, to reflect the probable intent of Congress.
@@ -72,7 +74,7 @@ Section 8262e of this title, referred to in subsec. (d)(2)(G), was in the origin
 
 <b>2007</b>—Subsec. (c)(5). Pub. L. 110–140 struck out par. (5) which read as follows:
 
-"(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by an agency (other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
+"(5)(A) An amount equal to fifty percent of the energy and water cost savings realized by an agency\(other than the Department of Defense) with respect to funds appropriated for any fiscal year beginning after fiscal year 1992 (including financial benefits resulting from energy savings performance contracts under subchapter VII of this chapter and utility energy efficiency rebates) shall, subject to appropriation, remain available for expenditure by such agency for additional energy efficiency measures which may include related employee incentive programs, particularly at those facilities at which energy savings were achieved.
 
 "(B) Agencies shall establish a fund and maintain strict financial accounting and controls for savings realized and expenditures made under this subsection. Records maintained pursuant to this subparagraph shall be made available for public inspection upon request."
 
@@ -85,6 +87,8 @@ Subsec. (b). Pub. L. 102–486, §152(f)(4), added subsec. (b). Former subsec. (
 Subsecs. (c), (d). Pub. L. 102–486, §152(f)(3), (4), added subsecs. (c) and (d) and struck out former subsec. (c) which read as follows: "The portion of the funds appropriated to an agency for energy expenses for a fiscal year that is equal to the amount of cost savings realized by such agency for such year from contracts entered into under subchapter VII of this chapter shall remain available for obligation, without further appropriation, to undertake additional energy conservation measures."
 
 <b>1988</b>—Pub. L. 100–615 amended section generally, substituting statement of incentives for agencies for provisions relating to energy performance targets for Federal buildings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -40,11 +40,13 @@ The Committee shall—
 
 (Pub. L. 85–536, §2\[48\], as added Pub. L. 115–189, §3(a)(2), June 21, 2018, 132 Stat. 1494.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 115–189, §3(d)(2), June 21, 2018, 132 Stat. 1496, provided that: "Any reference in a law, regulation, guidance, document, paper, or other record of the United States to the Lender Oversight Committee of the Small Business Administration shall be deemed a reference to the Lender Oversight Committee, established under section 48 of the Small Business Act \[15 U.S.C. 657u\], as added by subsection (a)."
 
 #### Transfer of Functions
 
-Pub. L. 115–189, §3(c)(2), June 21, 2018, 132 Stat. 1496, provided that: "All functions of the Lender Oversight Committee of the Small Business Administration, including the personnel, assets, and obligations of the Lender Oversight Committee, as in existence on the day before the date of the enactment of this Act \[June 21, 2018\], shall be transferred to the Lender Oversight Committee established under section 48 of the Small Business Act \[15 U.S.C. 657u\], as added by subsection (a)."
+Pub. L. 115–189, §3(c)(2), June 21, 2018, 132 Stat. 1496, provided that: "All functions of the Lender OversightCommittee of the Small Business Administration, including the personnel, assets, and obligations of the Lender Oversight Committee, as in existence on the day before the date of the enactment of this Act \[June 21, 2018\], shall be transferred to the Lender Oversight Committee established under section 48 of the Small Business Act \[15 U.S.C. 657u\], as added by subsection (a)."
 

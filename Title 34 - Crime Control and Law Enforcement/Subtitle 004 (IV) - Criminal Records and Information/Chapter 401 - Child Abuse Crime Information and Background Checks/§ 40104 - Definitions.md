@@ -2,7 +2,7 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) the term "authorized agency" means a division or office of a State designated by aState to report, receive, or disseminate information under this chapter;
+&emsp;(1) the term "authorized agency" means a division or office of a State designated by a State to report, receive, or disseminate information under this chapter;
 
 &emsp;(2) the term "child" means a person who is a child for purposes of the criminal child abuse law of a State;
 
@@ -67,6 +67,8 @@ Pars. (9) to (11). Pub. L. 103–322, §320928(j)(1), redesignated pars. (7) to 
 #### Effective Date of 2002 Amendment
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

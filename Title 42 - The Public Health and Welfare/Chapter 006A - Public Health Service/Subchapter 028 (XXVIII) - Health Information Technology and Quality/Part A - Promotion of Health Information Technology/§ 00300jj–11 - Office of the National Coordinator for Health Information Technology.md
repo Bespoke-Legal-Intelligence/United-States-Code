@@ -46,7 +46,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator shall coordinate health information technology policy and programs of the Department with those of other relevant executive branch agencies with a goal of avoiding duplication of efforts and of helping to ensure that each agency undertakes health information technology activities primarily within the areas of its greatest expertise and technical capability and in a manner towards a coordinated national goal.
+&emsp;&emsp;The National Coordinator shall coordinate health information technology policy and programs of the Department with those of other relevant executive branch agencies with a goal of avoiding duplication of effortsand of helping to ensure that each agency undertakes health information technology activities primarily within the areas of its greatest expertise and technical capability and in a manner towards a coordinated national goal.
 
 #### (B) HIT Advisory Committee
 
@@ -94,7 +94,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator, in consultation with the Director of the National Instituteof Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health information technology as being in compliance with applicable certification criteria adopted under this part. Such program shall include, as appropriate, testing of the technology in accordance with section 17911(b) of this title.
+&emsp;&emsp;The National Coordinator, in consultation with the Director of the National Institute of Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health information technology as being in compliance with applicable certification criteria adopted under this part. Such program shall include, as appropriate, testing of the technology in accordance with section 17911(b) of this title.
 
 #### (B) Certification criteria described
 
@@ -180,7 +180,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (E) Resource requirements
 
-&emsp;&emsp;The National Coordinator shall estimate and publish resources required annually to reach the goal of utilization of an electronic health record for each person in the United States by 2014, including—
+&emsp;&emsp;The National Coordinator shall estimate and publish resources required annually toreach the goal of utilization of an electronic health record for each person in the United States by 2014, including—
 
 &emsp;&emsp;&emsp;(i) the required level of Federal funding;
 
@@ -242,7 +242,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (E) Application of the trusted exchange framework and common agreement
 
-&emsp;&emsp;As appropriate, Federal agencies contracting or entering into agreements with health information exchange networks may require that as each such network upgrades health information technology or trust and operational practices, such network may adopt, where available, the trusted exchange framework and common agreement published under subparagraph (C).
+&emsp;&emsp;As appropriate, Federal agencies contracting or entering into agreements with health information exchange networks mayrequire that as each such network upgrades health information technology or trust and operational practices, such network may adopt, where available, the trusted exchange framework and common agreement published under subparagraph (C).
 
 #### (F) Rule of construction
 
@@ -290,6 +290,8 @@ Not later than 12 months after February 17, 2009, the Secretary shall appoint a 
 
 (July 1, 1944, ch. 373, title XXX, §3001, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 230; amended Pub. L. 114–255, div. A, title IV, §§4001(b), 4002(a), 4003(b), (e)(2)(A)(i), (ii), (C), Dec. 13, 2016, 130 Stat. 1158, 1159, 1165, 1174.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Technology Transfer Act of 1995 (15 U.S.C. 272 note), referred to in subsec. (c)(7), probably means section 12(d) of Pub. L. 104–113, known as the National Technology Transfer and Advancement Act of 1995, which is set out as a note under section 272 of Title 15, Commerce and Trade.
@@ -311,6 +313,8 @@ Subsec. (c)(5)(D), (E). Pub. L. 114–255, §4002(a), added subpars. (D) and (E)
 Subsec. (c)(6)(A). Pub. L. 114–255, §4003(e)(2)(A)(i), which directed amendment of this section by substituting "HIT Advisory Committee" for both "HIT Policy Committee" and "HIT Standards Committee" wherever appearing, but not within the term "HIT Policy Committee or the HIT Standards Committee", was not executed to subpar. (A) as provided in the exception, notwithstanding text that reads "HIT Policy Committee or HIT Standards Committee", to reflect the probable intent of Congress.
 
 Subsec. (c)(9). Pub. L. 114–255, §4003(b), added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Provider Digital Contact Information Index
 

@@ -44,9 +44,11 @@ Capabilities.—The readiness reporting system shall measure such factors relati
 
 (d)
 
-Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the established information technology system for Department of Defense reporting, specifically authorize exceptions to a single-system architecture, and identify the organizations, units, and entities that are subject to reporting in the readiness reporting system, what organization resources are subject to such reporting,and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
+Regulations.—The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the established information technology system for Department of Defense reporting, specifically authorize exceptions to a single-system architecture, and identify the organizations, units, and entities that are subject to reporting in the readiness reporting system, what organization resources are subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 
-(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–91, div. A, title III, §331(b), Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title III, §331(a)–(g)(1), Aug. 13, 2018, 132 Stat. 1723, 1724; Pub. L. 116–92, div. A, title III, §361(a), Dec. 20, 2019, 133 Stat. 1325.)
+(Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848; Pub. L. 113–291, div. A, titleX, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 115–91, div. A, title III, §331(b), Dec. 12, 2017, 131 Stat. 1354; Pub. L. 115–232, div. A, title III, §331(a)–(g)(1), Aug. 13, 2018, 132 Stat. 1723, 1724; Pub. L. 116–92, div. A, title III, §361(a), Dec. 20, 2019, 133 Stat. 1325.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -110,6 +112,8 @@ Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted "an annu
 
 Subsec. (e). Pub. L. 106–65, §1067(1), substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Requirement To Include Foreign Language Proficiency in Readiness Reporting Systems of Department of Defense
 
 Pub. L. 116–92, div. A, title III, §366, Dec. 20, 2019, 133 Stat. 1328, provided that: "Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\], the Secretary of Defense and the Secretary of each military department shall include in the Global Readiness and Force Management Enterprise, for the appropriate billets with relevant foreign language requirements, measures of foreign language proficiency as a mandatory element of unit readiness reporting, to include the Defense Readiness Reporting Systems-Strategic (DRRS-S) and all other subordinate systems that report readiness data."
@@ -128,7 +132,7 @@ Establishment required.—The Secretary of Defense shall establish metrics for t
 
 &emsp;"(2)
 
-Briefings required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20, 2019\] and quarterly thereafter until completion of the establishment of the metrics under paragraph (1), the Secretary shall provide a briefing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on such metrics, including progress as required pursuant to subsection (c).
+Briefings required.—Not later than 90 days after the date of the enactment of this Act \[Dec. 20,2019\] and quarterly thereafter until completion of the establishment of the metrics under paragraph (1), the Secretary shall provide a briefing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on such metrics, including progress as required pursuant to subsection (c).
 
 "(c)
 

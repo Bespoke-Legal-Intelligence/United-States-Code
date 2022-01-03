@@ -6,7 +6,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term "biomaterials supplier" means an entity that directly or indirectly suppliesa component part or raw material for use in the manufacture of an implant.
+&emsp;&emsp;The term "biomaterials supplier" means an entity that directly or indirectly supplies a component part or raw material for use in the manufacture of an implant.
 
 #### (B) Persons included
 

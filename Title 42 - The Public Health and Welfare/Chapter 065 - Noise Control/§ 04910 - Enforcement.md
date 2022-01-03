@@ -2,7 +2,7 @@
 
 #### (a) Criminal penalties
 
-(1) Any person who willfully or knowingly violates paragraph (1), (3), (5), or (6) of subsection (a) of section 4909 of this title shall be punished by a fine of not more than $25,000 per day of violation, or by imprisonment for not more than one year, or by both. If the conviction is for a violation committed after a first conviction ofsuch person under this subsection, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both.
+(1) Any person who willfully or knowingly violates paragraph (1), (3), (5), or (6) of subsection (a) of section 4909 of this title shall be punished by a fine of not more than $25,000 per day of violation, or by imprisonment for not more than one year, or by both. If the conviction is for a violation committed after a first conviction of such person under this subsection, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both.
 
 (2) Any person who violates paragraph (1), (3), (5), or (6) of subsection (a) of section 4909 of this title shall be subject to a civil penalty not to exceed $10,000 per day of such violation.
 
@@ -25,6 +25,8 @@ The district courts of the United States shall have jurisdiction of actions brou
 The term "person," as used in this section, does not include a department, agency, or instrumentality of the United States.
 
 (Pub. L. 92–574, §11, Oct. 27, 1972, 86 Stat. 1242; Pub. L. 95–609, §4, Nov. 8, 1978, 92 Stat. 3081.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

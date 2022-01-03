@@ -98,6 +98,8 @@ For purposes of this part, the term "sport fishing equipment" means—
 
 (Added Pub. L. 98–369, div. A, title X, §1015(b), July 18, 1984, 98 Stat. 1017; amended Pub. L. 99–514, title II, §201(d)(7)(C), (12), title XVIII, §1878(b), Oct. 22, 1986, 100 Stat. 2141, 2142, 2903; Pub. L. 108–357, title III, §334(a), (b), Oct. 22, 2004, 118 Stat. 1478.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (a)(8) to (10). Pub. L. 108–357, §334(a), inserted "and" at end of par. (8), substituted a period for ", and" at end of par. (9), and struck out par. (10) which read as follows: "sonar devices suitable for finding fish."
@@ -116,13 +118,15 @@ Subsecs. (b), (c). Pub. L. 108–357, §334(b), redesignated subsec. (c) as (b) 
 
 Subsec. (c)(3). Pub. L. 99–514, §201(d)(7)(C), (12), made identical amendments, substituting "section 465(b)(3)(C)" for "section 168(e)(4)(D)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Pub. L. 108–357, title III, §334(c), Oct. 22, 2004, 118 Stat. 1478, provided that: "The amendments made this section \[amending this section\] shall apply to articles sold by the manufacturer, producer, or importer after December 31, 2004."
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 201(d)(7)(C), (12) of Pub. L. 99–514 applicable to property placed in service afterDec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
+Amendment by section 201(d)(7)(C), (12) of Pub. L. 99–514 applicable to property placed in service after Dec. 31, 1986, in taxable years ending after such date, with exceptions, see sections 203 and 204 of Pub. L. 99–514, set out as a note under section 168 of this title.
 
 Amendment by section 201(d)(7)(C), (12) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 

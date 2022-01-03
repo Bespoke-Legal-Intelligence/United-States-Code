@@ -66,6 +66,8 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 (May 20, 1936, ch. 432, title VI, §602, as added Pub. L. 110–234, title VI, §6111, May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6111, June 18, 2008, 122 Stat. 1664, 1965; amended Pub. L. 115–334, title VI, §6202, Dec. 20, 2018, 132 Stat. 4734.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -73,6 +75,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334 amended section generally. Prior to amendment, section related to National Center for Rural Telecommunications Assessment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -64,6 +64,8 @@ A State that receives a grant under this chapter may use—
 
 (Pub. L. 106–554, §1(a)(1) \[title VIII, §810\], Dec. 21, 2000, 114 Stat. 2763, 2763A–85; Pub. L. 110–134, §29(b), Dec. 12, 2007, 121 Stat. 1449.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(1). Pub. L. 110–134 substituted "entities funded under section 9835(a)(2)(B)(vi) of title 42" for "entities funded under section 9835(a)(5) of title 42".

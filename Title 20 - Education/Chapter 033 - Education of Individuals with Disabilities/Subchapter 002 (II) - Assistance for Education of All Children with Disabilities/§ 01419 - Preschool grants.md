@@ -98,7 +98,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (B) Ratable reductions
 
-&emsp;&emsp;If the amount available for allocations is equal to or less than the amount allocatedto the States for fiscal year 1997, each State shall be allocated the amount the State received for fiscal year 1997, ratably reduced, if necessary.
+&emsp;&emsp;If the amount available for allocations is equal to or less than the amount allocated to the States for fiscal year 1997, each State shall be allocated the amount the State received for fiscal year 1997, ratably reduced, if necessary.
 
 #### (d) Reservation for State activities
 
@@ -176,6 +176,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (Pub. L. 91–230, title VI, §619, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2740.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1419, Pub. L. 91–230, title VI, §619, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 102, related to preschool grants, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -198,9 +200,11 @@ Section 1424a, Pub. L. 91–230, title VI, §625, as added Pub. L. 93–380, tit
 
 Section 1425, Pub. L. 91–230, title VI, §626, formerly §625, Apr. 13, 1970, 84 Stat. 183, renumbered §626, Pub. L. 93–380, title VI, §616, Aug. 21, 1974, 88 Stat. 584; amended Pub. L. 98–199, §§3(b), 10, Dec. 2, 1983, 97 Stat. 1358, 1367; Pub. L. 99–457, title III, §306, Oct. 8, 1986, 100 Stat. 1163; Pub. L. 100–630, title I, §103(g), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title III, §306, title IX, §901(b)(119)–(127), Oct. 30, 1990, 104 Stat. 1124, 1147, 1148; Pub. L. 102–119, §25(a)(11), (b), Oct. 7, 1991, 105 Stat. 606, 607, related to secondary education and transitional services for youth with disabilities.
 
-Section 1426, Pub. L. 91–230, title VI, §627, formerly §626, Apr. 13, 1970, 84 Stat. 184, renumbered §627 and amended Pub. L. 93–380, title VI, §§616, 617, Aug. 21, 1974, 88 Stat. 584; Pub. L. 95–49, §2, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §10, Dec. 2, 1983, 97 Stat. 1368; Pub. L. 101–476, title III, §307, Oct. 30, 1990, 104 Stat. 1127, related to programs for children and youth with serious emotional disturbance.
+Section 1426, Pub. L. 91–230, title VI, §627, formerly §626, Apr. 13, 1970, 84 Stat. 184, renumbered §627 and amended Pub. L. 93–380, title VI, §§616, 617, Aug. 21, 1974,88 Stat. 584; Pub. L. 95–49, §2, June 17, 1977, 91 Stat. 230; Pub. L. 98–199, §10, Dec. 2, 1983, 97 Stat. 1368; Pub. L. 101–476, title III, §307, Oct. 30, 1990, 104 Stat. 1127, related to programs for children and youth with serious emotional disturbance.
 
 Section 1427, Pub. L. 91–230, title VI, §628, as added Pub. L. 98–199, §10, Dec. 2, 1983, 97 Stat. 1368; amended Pub. L. 99–457, title III, §307, Oct. 8, 1986, 100 Stat. 1165; Pub. L. 101–476, title III, §308, Oct. 30, 1990, 104 Stat. 1128, authorized appropriations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Preschool Grants
 

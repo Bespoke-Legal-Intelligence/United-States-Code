@@ -28,7 +28,7 @@ It shall be unlawful for any person to knowingly sell, buy, transport, or delive
 
 #### (e) Investigation of violations by Secretary; assistance by other Federal agencies; issuance of search warrant; forfeiture; costs recoverable in forfeiture or civil action
 
-The Secretary or any other person authorized by him shall make such investigations as the Secretary deems necessary to determine whether any person has violated or is violating any provision of this section, and the Secretary may obtain the assistance of the Federal Bureau of Investigation, the Department of the Treasury, or other law enforcement agencies of the United States, and State and local governmental agencies, in the conduct of such investigations, under cooperative agreements with such agencies. A warrant to search for and seize any animal which there is probable cause to believe wasinvolved in any violation of this section may be issued by any judge of the United States or of a State court of record or by a United States magistrate judge within the district wherein the animal sought is located. Any United States marshal or any person authorized under this section to conduct investigations may apply for and execute any such warrant, and any animal seized under such a warrant shall be held by the United States marshal or other authorized person pending disposition thereof by the court in accordance with this subsection. Necessary care including veterinary treatment shall be provided while the animals are so held in custody. Any animal involved in any violation of this section shall be liable to be proceeded against and forfeited to the United States at any time on complaint filed in any United States district court or other court of the United States for any jurisdiction in which the animal is found and upon a judgment of forfeiture shall be disposed of by sale for lawful purposes or by other humane means, as the court may direct. Costs incurred for care of animals seized and forfeited under this section shall be recoverable from the owner of the animals (1) if he appears in such forfeiture proceeding, or (2) in a separate civil action brought in the jurisdiction in which the owner is found, resides, or transacts business.
+The Secretary or any other person authorized by him shall make such investigations as the Secretary deems necessary to determine whether any person has violated or is violating any provision of this section, and the Secretary may obtain the assistance of the Federal Bureau of Investigation, the Department of the Treasury, or other law enforcement agencies of the United States, and State and local governmental agencies, in the conduct of such investigations, under cooperative agreements with such agencies. A warrant to search for and seize any animal which there is probable cause to believe was involved in any violation of this section may be issued by any judge of the United States or of a State court of record or by a United States magistrate judge within the district wherein the animal sought is located. Any United States marshal or any person authorized under this section to conduct investigations may apply for and execute any such warrant, and any animal seized under such a warrant shall be held by the United States marshal or other authorized person pending disposition thereof by the court in accordance with this subsection. Necessary care including veterinary treatment shall be provided while the animals are so held in custody. Any animal involved in any violation of this section shall be liable to be proceeded against and forfeited to the United States at any time on complaint filed in any United States district court or other court of the United States for any jurisdiction in which the animal is found and upon a judgment of forfeiture shall be disposed of by sale for lawful purposes or by other humane means, as the court may direct. Costs incurred for care of animals seized and forfeited under this section shall be recoverable from the owner of the animals (1) if he appears in such forfeiture proceeding, or (2) in a separate civil action brought in the jurisdiction in which the owner is found, resides, or transacts business.
 
 #### (f) Definitions
 
@@ -60,6 +60,8 @@ The criminal penalties for violations of subsection (a), (b), (c), or (d) are pr
 
 (Pub. L. 89–544, §26, as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492; Pub. L. 110–22, §3, May 3, 2007, 121 Stat. 88; Pub. L. 110–234, title XIV, §14207(a), May 22, 2008, 122 Stat. 1461; Pub. L. 110–246, §4(a), title XIV, §14207(a), June 18, 2008, 122 Stat. 1664, 2223; Pub. L. 113–79, title XII, §12308(b)(1), Feb. 7, 2014, 128 Stat. 990; Pub. L. 115–334, title XII, §12616(a)–(c), Dec. 20, 2018, 132 Stat. 5015, 5016.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -90,7 +92,7 @@ Subsec. (a)(2), (3). Pub. L. 113–79, §12308(b)(1)(B)(iii), (iv), added par. (
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §14207(a)(1)(A), struck out ", if any animal in the venture was moved in interstate or foreign commerce" before period at end.
 
-Subsec. (a)(2). Pub. L. 110–246, §14207(a)(1)(B), which directed amendment of par. (2) by substituting "State"for "state" in heading, was executed by making the substitution for "states" in heading, to reflect the probable intent of Congress.
+Subsec. (a)(2). Pub. L. 110–246, §14207(a)(1)(B), which directed amendment of par. (2) by substituting "State" for "state" in heading, was executed by making the substitution for "states" in heading, to reflect the probable intent of Congress.
 
 Subsec. (b). Pub. L. 110–246, §14207(a)(2), inserted heading and substituted "possess, train, transport, deliver, or receive any animal for purposes of having the animal participate" for "transport, deliver, or receive for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate".
 
@@ -139,6 +141,8 @@ Subsec. (d). Pub. L. 107–171, §10302(a)(3), substituted "subsection (c)" for 
 Subsec. (e). Pub. L. 107–171, §10303(a)(1), inserted heading and substituted "$15,000" for "$5,000" in text.
 
 Subsec. (g)(2)(B). Pub. L. 107–171, §10303(a)(2), inserted "or from any State into any foreign country" before semicolon.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

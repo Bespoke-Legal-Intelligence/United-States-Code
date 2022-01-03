@@ -1,8 +1,10 @@
 ### §731. Effect on other laws
 
-Nothing in this chapter shall be construed as exempting any portion of the Mississippi Riverfrom the provisions of Federal laws for the improvement, preservation, and protection of navigable waters, nor as authorizing any interference with the operations of the Department of the Army in carrying out any project now or hereafter adopted for the improvement of said river.
+Nothing in this chapter shall be construed as exempting any portion of the Mississippi River from the provisions of Federal laws for the improvement, preservation, and protection of navigable waters, nor as authorizing any interference with the operations of the Department of the Army in carrying out any project now or hereafter adopted for the improvement of said river.
 
 (June 7, 1924, ch. 346, §13, 43 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

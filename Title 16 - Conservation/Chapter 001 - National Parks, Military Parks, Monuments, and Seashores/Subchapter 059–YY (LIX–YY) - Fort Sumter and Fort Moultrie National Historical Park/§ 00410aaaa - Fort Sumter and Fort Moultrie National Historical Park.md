@@ -44,7 +44,7 @@ The map shall be on file and available for public inspection in the appropriate 
 
 #### (2) Interpretation of historical events
 
-&emsp;The Secretary shall provide for the interpretation of historical events and activities thatoccurred in the vicinity of Fort Sumter and Fort Moultrie, including—
+&emsp;The Secretary shall provide for the interpretation of historical events and activities that occurred in the vicinity of Fort Sumter and Fort Moultrie, including—
 
 &emsp;&emsp;(A) the Battle of Sullivan's Island on June 28, 1776;
 
@@ -80,9 +80,13 @@ The Secretary may enter into cooperative agreements with public and private enti
 
 (Pub. L. 116–9, title II, §2203, Mar. 12, 2019, 133 Stat. 734.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 2203 of Pub. L. 116–9. Subsec. (g) of section 2203 of Pub. L. 116–9 repealed section 450ee–1 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

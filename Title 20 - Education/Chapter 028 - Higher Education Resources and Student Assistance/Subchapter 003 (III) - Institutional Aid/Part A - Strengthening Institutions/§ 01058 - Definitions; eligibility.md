@@ -48,11 +48,11 @@ Except as provided in section 1059e(b) of this title, for the purpose of this pa
 
 &emsp;(1) at least 50 percent of the degree students so enrolled who are receiving need-based assistance under subchapter IV of this chapter in the second fiscal year preceding the fiscal year for which the determination is being made (other than loans for which an interest subsidy is paid pursuant to section 1078 of this title), or
 
-&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which thedetermination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
+&emsp;(2) a substantial percentage of students receiving Pell Grants in the second fiscal year preceding the fiscal year for which determination is being made, in comparison with the percentage of students receiving Pell Grants at all such institutions in the second fiscal year preceding the fiscal year for which the determination is made, unless the requirement of this paragraph is waived under section 1068a(a) of this title.
 
 #### (e) Full-time equivalent students
 
-For the purpose of this part, the term "full-time equivalent students" means the sum of the number of students enrolled full time at an institution, plus the full-time equivalent of the number of students enrolled part time (determined on the basis of the quotient of the sum of the credit hours of all part-time students divided by 12) at such institution.
+For the purpose of this part, the term "full-time equivalent students" means the sum of the number of students enrolled full time at an institution, plus the full-time equivalent of the number of students enrolled part time (determined on the basis of the quotient of the sum ofthe credit hours of all part-time students divided by 12) at such institution.
 
 #### (f) Junior or community college
 
@@ -77,6 +77,8 @@ For the purpose of this part, the term "low-income individual" means an individu
 For the purposes of this section, no historically black college or university which is eligible for and receives funds under part B of this subchapter is eligible for or may receive funds under this part.
 
 (Pub. L. 89–329, title III, §312, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1292; amended Pub. L. 100–50, §2(a)(2)–(6), June 3, 1987, 101 Stat. 335; Pub. L. 100–369, §10(a), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title III, §302(a), (b), July 23, 1992, 106 Stat. 472; Pub. L. 103–208, §2(a)(5), Dec. 20, 1993, 107 Stat. 2457; Pub. L. 103–382, title III, §353, Oct. 20, 1994, 108 Stat. 3966; Pub. L. 105–244, title III, §§301(c)(2), 303(b), Oct. 7, 1998, 112 Stat. 1636, 1639; Pub. L. 110–315, title III, §§302, 305(b), Aug. 14, 2008, 122 Stat. 3167, 3173.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -135,6 +137,8 @@ Subsec. (b)(3), (5). Pub. L. 100–50, §2(a)(3), (4), substituted "subparagraph
 Subsec. (c)(1). Pub. L. 100–50, §2(a)(5), inserted "in the second fiscal year preceding the fiscal year for which the determination is being made" after "chapter 34 of title 42".
 
 Subsec. (c)(2). Pub. L. 100–50, §2(a)(6), substituted "fiscal year preceding the fiscal year for which determination is being made" for "preceding fiscal year" and "second preceding fiscal year" for "such fiscal year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

@@ -15,9 +15,11 @@
 | [9009\.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009009%20-%20Emergency%20EIDL%20grants.md) | Emergency EIDL grants. |
 | [9009a.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009009a%20-%20Grants%20for%20shuttered%20venue%20operators.md) | Grants for shuttered venue operators. |
 | [9009b.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009009b%20-%20Targeted%20EIDL%20advance%20for%20small%20business%20continuity%2C%20adaptation%2C%20and%20resiliency.md) | Targeted EIDL advance for small business continuity, adaptation, and resiliency. |
+| [9009c.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009009c%20-%20Support%20for%20restaurants.md) | Support for restaurants. |
 | [9010\.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009010%20-%20Resources%20and%20services%20in%20languages%20other%20than%20English.md) | Resources and services in languages other than English. |
 | [9011\.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009011%20-%20Subsidy%20for%20certain%20loan%20payments.md) | Subsidy for certain loan payments. |
 | [9012\.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009012%20-%20Emergency%20rulemaking%20authority.md) | Emergency rulemaking authority. |
+| [9013\.](Subchapter%20001%20%28I%29%20-%20Keeping%20American%20Workers%20Paid%20and%20Employed/%C2%A7%2009013%20-%20Community%20Navigator%20pilot%20program.md) | Community Navigator pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -38,6 +40,7 @@
 | [9031\.](Subchapter%20002%20%28II%29%20-%20Unemployment%20Insurance%20Provisions/%C2%A7%2009031%20-%20Funding%20for%20the%20DOL%20Office%20of%20Inspector%20General%20for%20oversight%20of%20unemployment%20provisions.md) | Funding for the DOL Office of Inspector General for oversight of unemployment provisions. |
 | [9032\.](Subchapter%20002%20%28II%29%20-%20Unemployment%20Insurance%20Provisions/%C2%A7%2009032%20-%20Implementation.md) | Implementation. |
 | [9033\.](Subchapter%20002%20%28II%29%20-%20Unemployment%20Insurance%20Provisions/%C2%A7%2009033%20-%20Return%20to%20work%20reporting.md) | Return to work reporting. |
+| [9034\.](Subchapter%20002%20%28II%29%20-%20Unemployment%20Insurance%20Provisions/%C2%A7%2009034%20-%20Funding%20for%20fraud%20prevention%2C%20equitable%20access%2C%20and%20timely%20payment%20to%20eligible%20workers.md) | Funding for fraud prevention, equitable access, and timely payment to eligible workers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -66,6 +69,9 @@
 | [9057\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009057%20-%20Forbearance%20of%20residential%20mortgage%20loan%20payments%20for%20multifamily%20properties%20with%20Federally%20backed%20loans.md) | Forbearance of residential mortgage loan payments for multifamily properties with Federally backed loans. |
 | [9058\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009058%20-%20Temporary%20moratorium%20on%20eviction%20filings.md) | Temporary moratorium on eviction filings. |
 | [9058a.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009058a%20-%20Emergency%20rental%20assistance.md) | Emergency rental assistance. |
+| [9058b.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009058b%20-%20Funding%20for%20water%20assistance%20program.md) | Funding for water assistance program. |
+| [9058c.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009058c%20-%20Emergency%20rental%20assistance.md) | Emergency rental assistance. |
+| [9058d.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009058d%20-%20Homeowner%20Assistance%20Fund.md) | Homeowner Assistance Fund. |
 | [9059\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009059%20-%20Protection%20of%20collective%20bargaining%20agreement.md) | Protection of collective bargaining agreement. |
 | [9060\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009060%20-%20Reports.md) | Reports. |
 | [9061\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20A%20-%20Coronavirus%20Economic%20Stabilization/%C2%A7%2009061%20-%20Direct%20appropriation.md) | Direct appropriation. |
@@ -114,6 +120,31 @@
 |  |  |
 | :--- | ---: |
 | [9111\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20D%20-%20Coronavirus%20Economic%20Relief%20for%20Transportation%20Services%20Act/%C2%A7%2009111%20-%20Assistance%20for%20providers%20of%20transportation%20services%20affected%20by%20COVID%E2%80%9319.md) | Assistance for providers of transportation services affected by COVID–19. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part E—Relief for Airports
+
+|  |  |
+| :--- | ---: |
+| [9121\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20E%20-%20Relief%20for%20Airports/%C2%A7%2009121%20-%20Relief%20for%20airports.md) | Relief for airports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—Aviation Manufacturing Jobs Protection
+
+|  |  |
+| :--- | ---: |
+| [9131\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20F%20-%20Aviation%20Manufacturing%20Jobs%20Protection/%C2%A7%2009131%20-%20Definitions.md) | Definitions. |
+| [9132\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20F%20-%20Aviation%20Manufacturing%20Jobs%20Protection/%C2%A7%2009132%20-%20Payroll%20support%20program.md) | Payroll support program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part G—Airlines
+
+|  |  |
+| :--- | ---: |
+| [9141\.](Subchapter%20003%20%28III%29%20-%20Economic%20Stabilization%20and%20Assistance%20to%20Severely%20Distressed%20Sectors%20of%20the%20United%20States%20Economy/Part%20G%20-%20Airlines/%C2%A7%2009141%20-%20Air%20transportation%20payroll%20support%20program%20extension.md) | Air transportation payroll support program extension. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -2,7 +2,7 @@
 
 #### (a) Least developed countries
 
-A country shall be considered to be a least developed country and eligible for the donation of agricultural commodities under this subchapter if—
+A country shall be considered to be a least developed country and eligible for the donation ofagricultural commodities under this subchapter if—
 
 &emsp;(1) such country meets the poverty criteria established by the International Bank for Reconstruction and Development for Civil Works Preference for providing financial assistance; or
 
@@ -38,6 +38,8 @@ In determining whether and to what extent agricultural commodities shall be made
 
 (July 10, 1954, ch. 469, title III, §302, as added Pub. L. 95–88, title II, §211(a)(2), Aug. 3, 1977, 91 Stat. 549; amended Pub. L. 96–53, title II, §205, Aug. 14, 1979, 93 Stat. 369; Pub. L. 99–83, title X, §1004(b), Aug. 8, 1985, 99 Stat. 271; Pub. L. 99–198, title XI, §1108, Dec. 23, 1985, 99 Stat. 1467; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3642.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of this title, was renumbered section 309 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
@@ -51,6 +53,8 @@ A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, whic
 Subsec. (c)(4). Pub. L. 99–83 inserted "and of United States nonprofit voluntary agencies and cooperatives".
 
 <b>1979</b>—Subsec. (c)(4). Pub. L. 96–53 added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

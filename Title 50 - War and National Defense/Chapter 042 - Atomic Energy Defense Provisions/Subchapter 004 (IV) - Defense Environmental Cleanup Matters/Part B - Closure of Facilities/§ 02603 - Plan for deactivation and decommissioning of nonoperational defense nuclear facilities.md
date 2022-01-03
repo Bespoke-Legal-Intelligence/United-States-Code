@@ -48,7 +48,7 @@ Not later than March 31 of each even-numbered year beginning in 2016, the Secret
 
 #### (e) Termination
 
-The requirements of this section shall terminate after the submission to the appropriate congressional committees of the report required by subsection (d) to be submitted not later than March 31, 2026.
+The requirements of this section shall terminate after the submission to the appropriatecongressional committees of the report required by subsection (d) to be submitted not later than March 31, 2026.
 
 #### (f) Definitions
 

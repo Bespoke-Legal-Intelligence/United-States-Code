@@ -42,7 +42,7 @@
 
 (2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
-(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity ofthe mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
+(h)(1) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government; or which bears the term "census" on the envelope or outside cover or wrapper; or on which the term "census" is visible through the envelope or outside cover or wrapper is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
 &emsp;(A) such nongovernmental entity has such expressed connection, approval or endorsement;
 
@@ -68,7 +68,7 @@
 
 &emsp;(C) such matter is contained in a publication for which the addressee has paid or promised to pay a consideration or which he has otherwise indicated he desires to receive, except that this paragraph shall not apply if the solicitation is on behalf of the publisher of the publication.
 
-(2) In the case of matter bearing the term "census" on the envelope or outside cover or wrapper or matter on which the term "census" is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate return address including the name of the entity that sent such matter.
+(2) In the case of matter bearing the term "census" on the envelope or outside cover or wrapper or matter on which the term "census" is visible through the envelope or outside cover or wrapper, in addition to satisfying one of the exceptions contained in paragraphs <sup>2</sup> (1)(A), (1)(B), or (1)(C), such envelope or outside cover or wrapper bears on its face an accurate returnaddress including the name of the entity that sent such matter.
 
 (j)(1) Any matter otherwise legally acceptable in the mails which is described in paragraph (2) is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(ii) may be obtained without cost from the Federal Government; and
 
-&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information setforth in clauses (i) and (ii) of subparagraph (A).
+&emsp;(B) does not contain a clear and conspicuous statement giving notice of the information set forth in clauses (i) and (ii) of subparagraph (A).
 
 (k)(1) In this subsection—
 
@@ -170,7 +170,7 @@
 
 (6) In the enforcement of paragraph (3), the Postal Service shall consider all of the materials included in the mailing and the material and language on and visible through the envelope or outside cover or wrapper in which those materials are mailed.
 
-(l)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter toany person who, personally or through a conservator, guardian, or individual with power of attorney—
+(l)(1) Any person who uses the mails for any matter to which subsection (h), (i), (j), or (k) applies shall adopt reasonable practices and procedures to prevent the mailing of such matter to any person who, personally or through a conservator, guardian, or individual with power of attorney—
 
 &emsp;(A) submits to the mailer of such matter a written request that such matter should not be mailed to such person; or
 
@@ -204,10 +204,6 @@ Section 2 of the Poison Prevention Packaging Act of 1970, referred to in subsec.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to Pub. L. 89–544 included in the credit of this section. The amendment by Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-#### Constitutionality
-
-For information regarding constitutionality of certain provisions of this section, as taken from section 2 of act Mar. 3, 1873, ch. 258, 17 Stat. 599, codified by Pub. L. 91–375, and amended by section 6(1) of Pub. L. 91–662, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 
 <b>2010</b>—Subsec. (h). Pub. L. 111–155, §2(a)(2)–(5), designated existing provisions as par. (1), redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated subpars. (A) to (C) of former par. (2) as cls. (i) to (iii), respectively, of par. (1)(B), and added par. (2).
@@ -232,7 +228,7 @@ Subsec. (i)(2). Pub. L. 111–170, §1(b)(2), inserted "or matter on which the t
 
 <b>1999</b>—Subsec. (a). Pub. L. 106–168, §110(a), struck out "1714," after "1463," and "1718," after "1717,".
 
-Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted "which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government" for "contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying anyFederal Government connection, approval or endorsement".
+Subsec. (h). Pub. L. 106–168, §102(1)(A), in introductory provisions, substituted "which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsementthrough the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government" for "contains a seal, insignia, trade or brand name, or any other term or symbol that reasonably could be interpreted or construed as implying any Federal Government connection, approval or endorsement".
 
 Subsec. (h)(2)(C). Pub. L. 106–168, §102(1)(B), added subpar. (C).
 

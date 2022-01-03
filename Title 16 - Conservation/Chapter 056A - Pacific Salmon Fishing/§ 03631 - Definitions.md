@@ -42,6 +42,8 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;<i>(h) "Special areas" means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -49,6 +51,8 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -61,6 +65,8 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 #### Short Title
 
 Pub. L. 99–5, §1, Mar. 15, 1985, 99 Stat. 7, provided: "That this Act \[enacting this chapter and repealing sections 776 to 776f of this title and provisions set out as notes under section 776 of this title\] may be cited as the 'Pacific Salmon Treaty Act of 1985'."
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

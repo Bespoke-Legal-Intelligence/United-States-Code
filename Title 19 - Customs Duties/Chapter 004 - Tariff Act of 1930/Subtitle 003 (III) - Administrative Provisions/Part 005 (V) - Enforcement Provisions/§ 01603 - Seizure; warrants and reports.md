@@ -6,6 +6,8 @@
 
 (June 17, 1930, ch. 497, title IV, §603, 46 Stat. 754; June 25, 1938, ch. 679, §27, 52 Stat. 1089; Pub. L. 91–271, title III, §301(aa), June 2, 1970, 84 Stat. 291; Pub. L. 95–410, title I, §110(b), Oct. 3, 1978, 92 Stat. 896; Pub. L. 100–690, title VII, §7365, Nov. 18, 1988, 102 Stat. 4478.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -14,7 +16,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a), are set out
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §603, 42 Stat. 984. That section was superseded by section 603 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
-A prior provision requiring the collector or other person causing a seizure to be made to give information thereof to the Solicitor of the Treasury, was contained in R.S. §3083, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247. R.S. §3084 required collectors to report to the district attorney of the district in which any fine, penalty, or forfeiture might be incurred, a statement of all the facts and circumstances. Officers of customs detecting violations of the customs laws were required to report to the collectors, and the latter were required to report to the district attorneys, by act June 22, 1874, ch. 391, §15, 18 Stat. 189. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
+A prior provision requiring the collector or other person causing a seizure to be made to give information thereof to the Solicitor of the Treasury, was contained in R.S. §3083, as amended by act Feb. 27, 1877, ch. 69, §1, 19 Stat. 247. R.S. §3084 required collectors to report to the district attorney of the district in which any fine, penalty, or forfeiture might be incurred, a statement of all the facts and circumstances. Officers of customs detecting violations of the customs laws were required to report to the collectors, and the latter were required toreport to the district attorneys, by act June 22, 1874, ch. 391, §15, 18 Stat. 189. All of these sections were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989.
 
 #### Amendments
 
@@ -26,6 +28,8 @@ A prior provision requiring the collector or other person causing a seizure to b
 
 <b>1938</b>—Act June 25, 1938, amended section generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
@@ -33,6 +37,8 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 #### Effective Date of 1938 Amendment
 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

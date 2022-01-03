@@ -2,7 +2,7 @@
 
 #### (a) Appalachian and Pacific Crest National Scenic Trails
 
-(1) There are hereby authorized to be appropriated for the acquisition of lands or interestsin lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to chapter 2003 of title 54, not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
+(1) There are hereby authorized to be appropriated for the acquisition of lands or interests in lands not more than $5,000,000 for the Appalachian National Scenic Trail and not more than $500,000 for the Pacific Crest National Scenic Trail. From the appropriations authorized for fiscal year 1979 and succeeding fiscal years pursuant to chapter 2003 of title 54, not more than the following amounts may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this chapter: for the Appalachian National Scenic Trail, not to exceed $30,000,000 for fiscal year 1979, $30,000,000 for fiscal year 1980, and $30,000,000 for fiscal year 1981, except that the difference between the foregoing amounts and the actual appropriations in any one fiscal year shall be available for appropriation in subsequent fiscal years.
 
 (2) It is the express intent of the Congress that the Secretary should substantially complete the land acquisition program necessary to insure the protection of the Appalachian Trail within three complete fiscal years following March 21, 1978.
 
@@ -31,6 +31,8 @@ For the purposes of Public Law 95–42 (91 Stat. 211), the lands and interests t
 &emsp;&emsp;The administering agency for the trail shall encourage volunteer trail groups to participate in the development of the trail.
 
 (Pub. L. 90–543, §10, Oct. 2, 1968, 82 Stat. 926; Pub. L. 95–248, §1(5), Mar. 21, 1978, 92 Stat. 160; Pub. L. 95–625, title V, §551(23), Nov. 10, 1978, 92 Stat. 3517; Pub. L. 96–199, title I, §101(b)(4), Mar. 5, 1980, 94 Stat. 68; Pub. L. 96–370, §1(b), Oct. 3, 1980, 94 Stat. 1360; Pub. L. 98–11, title II, §209, Mar. 28, 1983, 97 Stat. 48; Pub. L. 100–35, §1(b), May 8, 1987, 101 Stat. 302; Pub. L. 100–192, §2, Dec. 16, 1987, 101 Stat. 1309; Pub. L. 101–365, §2(b), Aug. 15, 1990, 104 Stat. 429; Pub. L. 103–437, §6(d)(38), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 104–333, div. I, title VIII, §814(d)(1)(J), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 108–352, §14(2), Oct. 21, 2004, 118 Stat. 1397; Pub. L. 111–11, title V, §5301(b), Mar. 30, 2009, 123 Stat. 1161; Pub. L. 113–287, §5(d)(26), Dec. 19, 2014, 128 Stat. 3266.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -75,6 +77,8 @@ Pub. L. 96–199 inserted references to the North Country National Scenic Trail 
 Subsec. (a). Pub. L. 95–625 struck out par. (1) designation, substituted "in subsequent fiscal years" for "in the subsequent fiscal year" and struck out par. (2) which provided for transmission of a report to Congressional committees by the Appalachian Trail Conference at the close of each fiscal year, until entire acquisition program was completed, covering conduct of negotiations for acquisition program and whether larger interests in land were being acquired than were necessary for the purposes of this chapter.
 
 Subsec. (c). Pub. L. 95–625 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Appropriation Authorizations Under Pub. L. 98–11; Contract Authority
 

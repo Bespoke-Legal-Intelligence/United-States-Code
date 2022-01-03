@@ -22,6 +22,8 @@ For purposes of this section, the term "import license" means any documentation 
 
 (Pub. L. 96–39, title XI, §1102, July 26, 1979, 93 Stat. 307; Pub. L. 100–418, title I, §1214(k), Aug. 23, 1988, 102 Stat. 1158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The International Emergency Economic Powers Act, referred to in subsec. (b)(2), is Pub. L. 95–223, title II, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
@@ -34,13 +36,15 @@ The Trading With the Enemy Act, referred to in subsec. (b)(4), is act Oct. 6, 19
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–418 substituted "notes of the Harmonized Tariff Schedule of the United States" for "headnotes of the Tariff Schedules of the United States".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of this title.
 
 #### Effective Date
 
-Pub. L. 96–39, title XI, §1114, July 26, 1979, 93 Stat. 317, provided that: "Except as otherwise provided in thistitle, this title \[enacting this subchapter, amending the Tariff Schedules of the United States and sections 1315, 1337, 2112, 2119, 2131, 2155, 2192, 2253, 2432, 2434, 2435, 2462, 2463, 2464, 2481, and 2486 of this title, section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 13, Census, enacting provisions set out as notes under sections 2111, 2112, and 2464 of this title and 301 of Title 13, and amending a provision set out as a note under section 2101 of this title\] shall take effect on the date of enactment of this Act \[July 26, 1979\]."
+Pub. L. 96–39, title XI, §1114, July 26, 1979, 93 Stat. 317, provided that: "Except as otherwise provided in this title, this title \[enacting this subchapter, amending the Tariff Schedules of the United States and sections 1315, 1337, 2112, 2119, 2131, 2155, 2192, 2253, 2432, 2434, 2435, 2462, 2463, 2464, 2481, and 2486 of this title, section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 13, Census, enacting provisions set out as notes under sections 2111, 2112, and 2464 of this title and 301 of Title 13, and amending a provision set out as a note under section 2101 of this title\] shall take effect on the date of enactment of this Act \[July 26, 1979\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

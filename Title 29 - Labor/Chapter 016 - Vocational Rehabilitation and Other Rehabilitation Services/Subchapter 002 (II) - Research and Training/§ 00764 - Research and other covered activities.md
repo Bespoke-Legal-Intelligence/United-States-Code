@@ -2,7 +2,7 @@
 
 #### (a) Federal grants and contracts for certain research projects and related activities
 
-(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and publicor private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
+(1) To the extent consistent with priorities established in the 5-year plan described in section 762(h) of this title, the Director may make grants to and contracts with States and public or private agencies and organizations, including institutions of higher education, Indian tribes, and tribal organizations, to fund part of the cost of projects for the purpose of planning and conducting research, demonstration projects, training, and related activities, the purposes of which are to develop methods, procedures, and rehabilitation technology, that have practical applications and maximize the full inclusion and integration into society, employment, education, independent living, health and wellness, family support, and economic and social self-sufficiency of individuals with disabilities, especially individuals with the most significant disabilities, and improve the effectiveness of services authorized under this chapter.
 
 (2)(A) In carrying out this section, the Director shall emphasize projects that support the implementation of subchapters I, III, V, VI, and VII, including projects addressing the needs described in the State plans submitted under section 721 or 796c of this title by State agencies and from which the research findings, conclusions, or recommendations can be transferred to practice.
 
@@ -164,7 +164,7 @@
 
 (4)(A) Research grants may be used to conduct a program for spinal cord injury research, including conducting such a program by making grants to public or private agencies and organizations to pay part or all of the costs of special projects and demonstration projects for spinal cord injuries, that will—
 
-&emsp;(i) ensure widespread dissemination of research findings among all Spinal Cord Injury Centers, to rehabilitation practitioners, individuals with spinal cord injury, the individuals' representatives, and organizations receiving financial assistance under this paragraph;
+&emsp;(i) ensure widespread dissemination of research findings among all Spinal Cord InjuryCenters, to rehabilitation practitioners, individuals with spinal cord injury, the individuals' representatives, and organizations receiving financial assistance under this paragraph;
 
 &emsp;(ii) provide encouragement and support for initiatives and new approaches by individual and institutional investigators; and
 
@@ -414,7 +414,7 @@ Subsec. (b)(11)(B). Pub. L. 113–128, §435(2)(H)(ii), inserted "and employment
 
 Subsec. (b)(11)(G) to (L). Pub. L. 113–128, §435(2)(H)(iii)–(v), added subpars. (G) to (L).
 
-Subsec. (b)(12). Pub. L. 113–128, §435(2)(I)(i), (iii), in introductory provisions, inserted "an independent livingor" after "conduct" and, in concluding provisions, substituted "National Institute on Disability, Independent Living, and Rehabilitation Research" for "National Institute on Disability and Rehabilitation Research".
+Subsec. (b)(12). Pub. L. 113–128, §435(2)(I)(i), (iii), in introductory provisions, inserted "an independent living or" after "conduct" and, in concluding provisions, substituted "National Institute on Disability, Independent Living, and Rehabilitation Research" for "National Institute on Disability and Rehabilitation Research".
 
 Pub. L. 113–128, §435(2)(G), redesignated par. (14) as (12). Former par. (12) redesignated (10).
 

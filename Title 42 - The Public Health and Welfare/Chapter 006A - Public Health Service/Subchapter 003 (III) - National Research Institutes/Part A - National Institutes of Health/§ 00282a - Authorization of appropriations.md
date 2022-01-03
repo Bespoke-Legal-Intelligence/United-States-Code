@@ -70,11 +70,11 @@ Of the amount authorized to be appropriated under subsection (a) for a fiscal ye
 
 #### (B) Reporting
 
-&emsp;&emsp;Not later than 2 years after December 13, 2016, the head of each national research institute or national center shall submit to the Director of the National Institutes ofHealth a report, to be included in the triennial report under section 283 of this title, on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
+&emsp;&emsp;Not later than 2 years after December 13, 2016, the head of each national research institute or national center shall submit to the Director of the National Institutes of Health a report, to be included in the triennial report under section 283 of this title, on the amount made available by the institute or center for conducting or supporting research that involves collaboration between the institute or center and 1 or more other national research institutes or national centers.
 
 #### (C) Determination
 
-&emsp;&emsp;For purposes of determining the amount or percentage of funds to be reported under subparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
+&emsp;&emsp;For purposes of determining the amount or percentage of funds to be reported undersubparagraph (B), any amounts made available to an institute or center under section 282(b)(7)(B) of this title shall be included.
 
 #### (D) Verification of amounts
 
@@ -93,6 +93,8 @@ Of the total amount appropriated under subsection (a)(1) for a fiscal year, the 
 This section may not be construed as affecting the authorities of the Director of NIH under section 281 of this title.
 
 (July 1, 1944, ch. 373, title IV, §402A, as added Pub. L. 109–482, title I, §103(a), Jan. 15, 2007, 120 Stat. 3685; amended Pub. L. 113–94, §3(b), Apr. 3, 2014, 128 Stat. 1087; Pub. L. 114–255, div. A, title II, §§2001, 2031(b), 2042(a), Dec. 13, 2016, 130 Stat. 1047, 1056, 1073.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -115,6 +117,8 @@ Pub. L. 113–94, §3(b)(1)(A), redesignated pars. (1) to (3) as subpars. (A) to
 Subsec. (a)(2). Pub. L. 113–94, §3(b)(1)(C), added par. (2). Former par. (2) redesignated subpar. (B) of par. (1).
 
 Subsecs. (c)(1)(B), (D), (d). Pub. L. 113–94, §3(b)(2), substituted "subsection (a)(1)" for "subsection (a)" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

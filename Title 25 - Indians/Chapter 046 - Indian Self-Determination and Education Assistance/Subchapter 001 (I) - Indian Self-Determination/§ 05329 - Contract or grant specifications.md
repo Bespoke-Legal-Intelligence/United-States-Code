@@ -4,7 +4,7 @@
 
 Each self-determination contract entered into under this chapter shall—
 
-&emsp;(1) contain, or incorporate by reference, the provisions of the model agreement described in subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
+&emsp;(1) contain, or incorporate by reference, the provisions of the model agreement describedin subsection (c) of this section (with modifications where indicated and the blanks appropriately filled in), and
 
 &emsp;(2) subject to subsections (a) and (b) of section 5321 of this title, contain such other provisions as are agreed to by the parties.
 
@@ -76,7 +76,7 @@ In general.—Pursuant to section 108(b) of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;"(ii)
 
-Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day of each quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
+Method of quarterly payment.—If quarterly payments are specified in the annual funding agreement incorporated by reference pursuant to subsection (f)(2), each quarterly payment made pursuant to clause (i) shall be made on the first day ofeach quarter of the fiscal year, except that in any case in which the Contract year coincides with the Federal fiscal year, payment for the first quarter shall be made not later than the date that is 10 calendar days after the date on which the Office of Management and Budget apportions the appropriations for the fiscal year for the programs, services, functions, and activities subject to this Contract.
 
 &emsp;&emsp;&emsp;"(iii)
 
@@ -114,7 +114,7 @@ In general.—As provided in section 105(f) of the Indian Self-Determination and
 
 &emsp;&emsp;"(B)
 
-Records.—The Contractor shall maintain a record of all property referred toin subparagraph (A) or other property acquired by the Contractor under section 105(f)(2)(A) of such Act for purposes of replacement.
+Records.—The Contractor shall maintain a record of all property referred to in subparagraph (A) or other property acquired by the Contractor under section 105(f)(2)(A) of such Act for purposes of replacement.
 
 &emsp;&emsp;"(C)
 
@@ -204,7 +204,7 @@ Contract requirements; approval by secretary.—
 
 &emsp;&emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes (25 U.S.C. 81), section 16 of the Act of June18, 1934 (48 Stat. 987, chapter 576; 25 U.S.C. 476),<sup>1</sup> and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply to any contract entered into in connection with this Contract.
+In general.—Except as provided in subparagraph (B), for the term of the Contract, section 2103 of the Revised Statutes (25 U.S.C. 81), section 16 of the Act of June 18, 1934 (48 Stat. 987, chapter 576; 25 U.S.C. 476),<sup>1</sup> and the Act of July 3, 1952 (25 U.S.C. 82a), shall not apply to any contract entered into in connection with this Contract.
 
 &emsp;&emsp;"(B)
 
@@ -334,7 +334,7 @@ Incorporation by reference.—The annual funding agreement is hereby incorporate
 
 This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§450 et seq.) of chapter 14 of this title prior to editorial reclassification as this chapter. Title I of the Act was classified principally to part A (§450f et seq.) of chapter 14 of this title prior to editorial reclassification as this subchapter. Sections 105, 106, and 110 of the Act were classified to sections 450j, 450j–1, and 450m–1, respectively, of this title prior to editorial reclassification as sections 5324, 5325, and 5331, respectively, of this title. Section 102(a) of the Act is classified to section 5321(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see ShortTitle note set out under section 5301 of this title and Tables.
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.
 

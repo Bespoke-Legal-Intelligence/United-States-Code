@@ -144,7 +144,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;&emsp;&emsp;(I) appropriate notification to child protective services is made in a timely manner, as required under section 5106a(b)(2)(B)(ii) of this title;
 
-&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before the infant is discharged from the birth or health care facility; and
+&emsp;&emsp;&emsp;&emsp;(II) a plan of safe care is in place, in accordance with section 5106a(b)(2)(B)(iii) of this title, before theinfant is discharged from the birth or health care facility; and
 
 &emsp;&emsp;&emsp;&emsp;(III) such health and related agency professionals are trained on how to follow such protocols and are aware of the supports that may be provided under a plan of safe care.
 
@@ -194,7 +194,7 @@ The Secretary may make grants to, and enter into contracts with, entities that a
 
 &emsp;&emsp;The Secretary shall use the amount reserved under subparagraph (B)(i)(I) to provide written guidance and technical assistance to support States in complying with and implementing this paragraph, which shall include—
 
-&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, to additional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
+&emsp;&emsp;&emsp;(i) technical assistance, including programs of in-depth technical assistance, toadditional States, territories, and Indian Tribes and tribal organizations in accordance with the substance-exposed infant initiative developed by the National Center on Substance Abuse and Child Welfare;
 
 &emsp;&emsp;&emsp;(ii) guidance on the requirements of this Act with respect to infants born with and identified as being affected by substance use or withdrawal symptoms or fetal alcohol spectrum disorder, as described in clauses (ii) and (iii) of section 5106a(b)(2)(B) of this title, including by—
 
@@ -276,13 +276,15 @@ In addition to grants or contracts made under subsection (a), grants or contract
 
 &emsp;&emsp;(ii) encourage qualified grantees to combine the amounts received under the grant with other funds available to such grantees.
 
-&emsp;(5) Such other innovative programs and projects that show promise of preventing and treating cases of child abuse and neglect as the Secretary may approve.
+&emsp;(5) Such other innovative programs and projects that show promise of preventing andtreating cases of child abuse and neglect as the Secretary may approve.
 
 #### (c) Evaluation
 
-In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstrationgrant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
+In making grants for projects under this section, the Secretary shall require all such projects to be evaluated for their effectiveness. Funding for such evaluations shall be provided either as a stated percentage of a demonstration grant or as a separate grant or contract entered into by the Secretary for the purpose of evaluating a particular demonstration project or group of projects. In the case of an evaluation performed by the recipient of a grant, the Secretary shall make available technical assistance for the evaluation, where needed, including the use of a rigorous application of scientific evaluation techniques.
 
 (Pub. L. 93–247, title I, §105, formerly §7, Jan. 31, 1974, 88 Stat. 8; Pub. L. 98–457, title I, §106, Oct. 9, 1984, 98 Stat. 1751; Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 108; renumbered title I, §106, Pub. L. 101–126, §3(a)(1), (2), Oct. 25, 1989, 103 Stat. 764; Pub. L. 102–295, title I, §§113, 141(1), (2), (5), May 28, 1992, 106 Stat. 191, 199, 200; renumbered §105 and amended Pub. L. 104–235, title I, §§106, 113(a)(1)(A), Oct. 3, 1996, 110 Stat. 3069, 3079; Pub. L. 108–36, title I, §113, June 25, 2003, 117 Stat. 805; Pub. L. 111–320, title I, §114, Dec. 20, 2010, 124 Stat. 3465; Pub. L. 115–271, title VII, §7065(a), Oct. 24, 2018, 132 Stat. 4022.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -397,6 +399,8 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, §141(2), substituted "child with disa
 <b>1988</b>—Pub. L. 100–294 amended section generally, substituting provision authorizing grants to public agencies and nonprofit private organizations for demonstration or service programs and projects for provision directing the Secretary to ensure coordination among Federal programs related to child abuse and neglect. See section 5106e of this title.
 
 <b>1984</b>—Pub. L. 98–457 substituted "among programs" for "between programs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

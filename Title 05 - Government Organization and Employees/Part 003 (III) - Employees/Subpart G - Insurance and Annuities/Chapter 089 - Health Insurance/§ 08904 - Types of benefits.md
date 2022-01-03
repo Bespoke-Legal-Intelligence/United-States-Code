@@ -52,7 +52,7 @@ Comprehensive Medical Plans.—Benefits of the types named under paragraph (1) o
 
 (C) If the Secretary of Health and Human Services determines that a violation of this subsection warrants excluding a provider from participation for a specified period under title XVIII of the Social Security Act, the Office shall enforce a corresponding exclusion of such provider for purposes of this chapter.
 
-(2) Notwithstanding any other provision of law, the Secretary of Health and Human Services and the Director of the Office of Personnel Management, and their agents, shall exchange any information necessary to implement this subsection.
+(2) Notwithstanding any other provision of law, the Secretary of Health and Human Services and the Director of the Office of PersonnelManagement, and their agents, shall exchange any information necessary to implement this subsection.
 
 (3)(A) Not later than December 1, 1991, and periodically thereafter, the Secretary of Health and Human Services (in consultation with the Director of the Office of Personnel Management) shall supply to carriers of plans described in paragraphs (1) through (3) of section 8903 the Medicare program information necessary for them to comply with paragraph (1).
 
@@ -138,5 +138,5 @@ Sense of the Congress.—It is the sense of the Congress—
 
 &emsp;"(1) that participants in the Federal employees health benefits program should receive adequate benefits coverage for treatment of mental illness, alcoholism, and drug addiction; and
 
-&emsp;"(2) that the Office of Personnel Management should encourage participating health benefits plans to provide adequate benefits relating to treatment of mental illness, alcoholism, and drug addiction (including benefits relating to coverage for inpatient and outpatient treatment and catastrophic protection benefits)."
+&emsp;"(2) that the Office of Personnel Management should encourage participating health benefits plansto provide adequate benefits relating to treatment of mental illness, alcoholism, and drug addiction (including benefits relating to coverage for inpatient and outpatient treatment and catastrophic protection benefits)."
 

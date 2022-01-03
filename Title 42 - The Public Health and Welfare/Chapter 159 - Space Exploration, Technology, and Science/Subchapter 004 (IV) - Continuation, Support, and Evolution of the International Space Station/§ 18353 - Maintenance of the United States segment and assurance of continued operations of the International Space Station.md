@@ -54,7 +54,7 @@ The Administrator shall take all actions necessary to ensure the safe and effect
 
 #### (A) Report required
 
-&emsp;&emsp;Not later than 90 days after the submittal to Congress under paragraph (1) of the assessment required by subsection (b), the Comptroller General of the United Statesshall submit to the appropriate committees of Congress a report on the assessment. The report shall set forth an evaluation of the assessment by the Comptroller General, including an evaluation of the accuracy and level of confidence in the findings of the assessment.
+&emsp;&emsp;Not later than 90 days after the submittal to Congress under paragraph (1) of the assessment required by subsection (b), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report on the assessment. The report shall set forth an evaluation of the assessment by the Comptroller General, including an evaluation of the accuracy and level of confidence in the findings of the assessment.
 
 #### (B) Cooperation with GAO
 
@@ -68,7 +68,7 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 #### (1) Space Shuttle mission
 
-&emsp;The Administrator shall fly the Launch-On-Need Shuttle mission currently designated in the Shuttle Flight Manifest dated February 28, 2010, to the ISS in fiscal year 2011, but no earlier than June 1, 2011, unless required earlier by an operations contingency, and pending the results of the assessment required by paragraph (2) and the determination under paragraph (3)(A).
+&emsp;The Administrator shall fly the Launch-On-Need Shuttle mission currently designated inthe Shuttle Flight Manifest dated February 28, 2010, to the ISS in fiscal year 2011, but no earlier than June 1, 2011, unless required earlier by an operations contingency, and pending the results of the assessment required by paragraph (2) and the determination under paragraph (3)(A).
 
 #### (2) Assessment of safe means of return
 
@@ -98,6 +98,8 @@ Utilization of research facilities and capabilities aboard the ISS (other than e
 
 (Pub. L. 111–267, title V, §503, Oct. 11, 2010, 124 Stat. 2823; Pub. L. 114–90, title I, §114(b)(2), Nov. 25, 2015, 129 Stat. 716.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended by section 114(b) of Pub. L. 114–90, which substituted references to "2024" for references to "2020" in other provisions throughout this subchapter. See also section 70907 of Title 51, National and Commercial Space Programs, as amended by section 114(b) of Pub. L. 114–90.
@@ -109,8 +111,6 @@ Section 101(2)(B), referred to in subsec. (e)(4), is Pub. L. 111–267, title I,
 <b>2015</b>—Subsec. (a). Pub. L. 114–90, §114(b)(2)(A), substituted "through at least September 30, 2024" for "through at least September 30, 2020".
 
 Subsec. (b)(1). Pub. L. 114–90, §114(b)(2)(B), substituted "The Administrator" for "In carrying out subsection (a), the Administrator".
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

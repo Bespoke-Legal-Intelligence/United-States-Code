@@ -24,7 +24,7 @@ In this part:
 
 #### (5) Recoverable waste energy
 
-&emsp;The term "recoverable waste energy" means waste energy from which electricity or useful thermal energy may be recovered through modification of an existing facility or addition of a new facility.
+&emsp;The term "recoverable waste energy" means waste energy from which electricity or usefulthermal energy may be recovered through modification of an existing facility or addition of a new facility.
 
 #### (6) Registry
 
@@ -56,6 +56,8 @@ In this part:
 
 (Pub. L. 94–163, title III, §371, as added Pub. L. 110–140, title IV, §451(a), Dec. 19, 2007, 121 Stat. 1623.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Utility Regulatory Policies Act of 1978, referred to in par. (9), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. Title I (§101 et seq.) of the Act enacted subchapters I to IV of chapter 46 (§2611 et seq.) of Title 16, Conservation, and section 6808 of this title, and amended sections 6802 to 6807 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of Title 16 and Tables.
@@ -64,9 +66,13 @@ The Public Utility Regulatory Policies Act of 1978, referred to in par. (9), is 
 
 A prior section 6341, Pub. L. 94–163, title III, §371, Dec. 22, 1975, 89 Stat. 936; Pub. L. 95–619, title VI, §§601(c), 691(b)(2), Nov. 9, 1978, 92 Stat. 3283, 3288, defined terms used in former part C, prior to repeal by Pub. L. 99–509, title III, §3101(b), Oct. 21, 1986, 100 Stat. 1888.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13624. Accelerating Investment in Industrial Energy Efficiency
 
@@ -74,7 +80,7 @@ Ex. Ord. No. 13624, Aug. 30, 2012, 77 Stat. 54779, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote American manufacturing by helping to facilitate investments in energy efficiency at industrial facilities, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. The industrial sector accounts for over 30 percent of all energy consumed in the UnitedStates, and, for many manufacturers, energy costs affect overall competitiveness. While our manufacturing facilities have made progress in becoming more energy efficient over the past several decades, there is an opportunity to accelerate and expand these efforts with investments to reduce energy use through more efficient manufacturing processes and facilities and the expanded use of combined heat and power (CHP). Instead of burning fuel in an on-site boiler to produce thermal energy and also purchasing electricity from the grid, a manufacturing facility can use a CHP system to provide both types of energy in one energy-efficient step. Accelerating these investments in our Nation's factories can improve the competitiveness of United States manufacturing, lower energy costs, free up future capital for businesses to invest, reduce air pollution, and create jobs.
+Section 1. <i>Policy</i>. The industrial sector accounts for over 30 percent of all energy consumed in the United States, and, for many manufacturers, energy costs affect overall competitiveness. While our manufacturing facilities have made progress in becoming more energy efficient over the past several decades, there is an opportunity to accelerate and expand these efforts with investments to reduce energy use through more efficient manufacturing processes and facilities and the expanded use of combined heat and power (CHP). Instead of burning fuel in an on-site boiler to produce thermal energy and also purchasing electricity from the grid, a manufacturing facility can use a CHP system to provide both types of energy in one energy-efficient step. Accelerating these investments in our Nation's factories can improve the competitiveness of United States manufacturing, lower energy costs, free up future capital for businesses to invest, reduce air pollution, and create jobs.
 
 Despite these benefits, independent studies have pointed to under-investment in industrial energy efficiency and CHP as a result of numerous barriers. The Federal Government has limited but important authorities to overcome these barriers, and our efforts to support investment in industrial energy efficiency and CHP should involve coordinated engagement with a broad set of stakeholders, including States, manufacturers, utilities, and others. By working with all stakeholders to address these barriers, we have an opportunity to save industrial users tens of billions of dollars in energy costs over the next decade.
 
@@ -86,7 +92,7 @@ Sec. 2. <i>Encouraging Investment in Industrial Efficiency</i>. The Departments 
 
 (a) coordinate and strongly encourage efforts to achieve a national goal of deploying 40 gigawatts of new, cost-effective industrial CHP in the United States by the end of 2020;
 
-(b) convene stakeholders, through a series of public workshops, to develop and encourage the use of best practice State policies and investment models that address the multiple barriers to investment in industrial energy efficiency and CHP;
+(b) convene stakeholders, through a series of public workshops, to develop and encourage the use of bestpractice State policies and investment models that address the multiple barriers to investment in industrial energy efficiency and CHP;
 
 (c) utilize their respective relevant authorities and resources to encourage investment in industrial energy efficiency and CHP, such as by:
 

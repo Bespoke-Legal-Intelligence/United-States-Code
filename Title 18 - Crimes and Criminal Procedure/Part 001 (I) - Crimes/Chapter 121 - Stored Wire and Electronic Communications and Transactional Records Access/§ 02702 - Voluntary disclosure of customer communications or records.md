@@ -46,7 +46,7 @@ Exceptions for disclosure of communications.—A provider described in subsectio
 
 (c)
 
-Exceptions for Disclosure of Customer Records.—A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications covered by subsection (a)(1) or (a)(2))—
+Exceptions for Disclosure of Customer Records.—A provider described in subsection (a) may divulge a record or other information pertaining to a subscriber to or customer of suchservice (not including the contents of communications covered by subsection (a)(1) or (a)(2))—
 
 &emsp;(1) as otherwise authorized in section 2703;
 

@@ -4,6 +4,10 @@ Except as otherwise specifically provided, in this chapter the following definit
 
 &emsp;(1)
 
+Assault on a transit worker.—The term "assault on a transit worker" means a circumstance in which an individual knowingly, without lawful authority or permission, and with intent to endanger the safety of any individual, or with a reckless disregard for the safety of human life, interferes with, disables, or incapacitates a transit worker while the transit worker is performing the duties of the transit worker.
+
+&emsp;(2)
+
 Associated transit improvement.—The term "associated transit improvement" means, with respect to any project or an area to be served by a project, projects that are designed to enhance public transportation service or use and that are physically or functionally related to transit facilities. Eligible projects are—
 
 &emsp;&emsp;(A) historic preservation, rehabilitation, and operation of historic public transportation buildings, structures, and facilities (including historic bus and railroad facilities) intended for use in public transportation service;
@@ -20,7 +24,7 @@ Associated transit improvement.—The term "associated transit improvement" mean
 
 &emsp;&emsp;(G) enhanced access for persons with disabilities to public transportation.
 
-&emsp;(2)
+&emsp;(3)
 
 Bus rapid transit system.—The term "bus rapid transit system" means a bus transit system—
 
@@ -36,7 +40,7 @@ Bus rapid transit system.—The term "bus rapid transit system" means a bus tran
 
 &emsp;&emsp;&emsp;(iv) any other features the Secretary may determine are necessary to produce high-quality public transportation services that emulate the services provided by rail fixed guideway public transportation systems.
 
-&emsp;(3)
+&emsp;(4)
 
 Capital project.—The term "capital project" means a project for—
 
@@ -62,9 +66,11 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;&emsp;(iii) provides a fair share of revenue that will be used for public transportation;
 
-&emsp;&emsp;&emsp;(iv) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means; and
+&emsp;&emsp;&emsp;(iv) provides that if equipment to fuel privately owned zero-emission passenger vehicles is installed, the recipient of assistance under this chapter shall collect fees from users of the equipment in order to recover the costs of construction, maintenance, and operation of the equipment;
 
-&emsp;&emsp;&emsp;(v) may include—
+&emsp;&emsp;&emsp;(v) provides that a person making an agreement to occupy space in a facility constructed under this paragraph shall pay a fair share of the costs of the facility through rental payments and other means; and
+
+&emsp;&emsp;&emsp;(vi) may include—
 
 &emsp;&emsp;&emsp;&emsp;(I) property acquisition;
 
@@ -90,9 +96,11 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;&emsp;&emsp;(XII) facilities that incorporate community services such as daycare or health care;
 
-&emsp;&emsp;&emsp;&emsp;(XIII) a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall; and
+&emsp;&emsp;&emsp;&emsp;(XIII) a capital project for, and improving, equipment or a facility for an intermodal transfer facility or transportation mall;
 
-&emsp;&emsp;&emsp;&emsp;(XIV) construction of space for commercial uses;
+&emsp;&emsp;&emsp;&emsp;(XIV) construction of space for commercial uses; and
+
+&emsp;&emsp;&emsp;&emsp;(XV) technology to fuel a zero-emission vehicle;
 
 &emsp;&emsp;(H) the introduction of new technology, through innovative and improved products, into public transportation;
 
@@ -126,7 +134,7 @@ Capital project.—The term "capital project" means a project for—
 
 &emsp;&emsp;(N) technological changes or innovations to modify low or no emission vehicles (as defined in section 5339(c)) or facilities.
 
-&emsp;(4)
+&emsp;(5)
 
 Designated recipient.—The term "designated recipient" means—
 
@@ -134,11 +142,11 @@ Designated recipient.—The term "designated recipient" means—
 
 &emsp;&emsp;(B) a State or regional authority, if the authority is responsible under the laws of a State for a capital project and for financing and directly providing public transportation.
 
-&emsp;(5)
+&emsp;(6)
 
 Disability.—The term "disability" has the same meaning as in section 3(1) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102).
 
-&emsp;(6)
+&emsp;(7)
 
 Emergency regulation.—The term "emergency regulation" means a regulation—
 
@@ -152,7 +160,7 @@ Emergency regulation.—The term "emergency regulation" means a regulation—
 
 &emsp;&emsp;&emsp;(iii) would damage seriously a person or class without serving an important public interest.
 
-&emsp;(7)
+&emsp;(8)
 
 Fixed guideway.—The term "fixed guideway" means a public transportation facility—
 
@@ -166,7 +174,7 @@ Fixed guideway.—The term "fixed guideway" means a public transportation facili
 
 &emsp;&emsp;(E) for a bus rapid transit system.
 
-&emsp;(8)
+&emsp;(9)
 
 Governor.—The term "Governor"—
 
@@ -174,7 +182,7 @@ Governor.—The term "Governor"—
 
 &emsp;&emsp;(B) includes the designee of the Governor.
 
-&emsp;(9)
+&emsp;(10)
 
 Job access and reverse commute project.—
 
@@ -194,7 +202,7 @@ Eligible low-income individual.—The term "eligible low-income individual" mean
 
 Welfare recipient.—The term "welfare recipient" means an individual who has received assistance under a State or tribal program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) at any time during the 3-year period before the date on which the applicant applies for a grant under section 5307 or 5311.
 
-&emsp;(10)
+&emsp;(11)
 
 Local governmental authority.—The term "local governmental authority" includes—
 
@@ -206,15 +214,15 @@ Local governmental authority.—The term "local governmental authority" includes
 
 &emsp;&emsp;(D) a public corporation, board, or commission established under the laws of a State.
 
-&emsp;(11)
+&emsp;(12)
 
 Low-income individual.—The term "low-income individual" means an individual whose family income is at or below 150 percent of the poverty line, as that term is defined in section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2)), including any revision required by that section, for a family of the size involved.
 
-&emsp;(12)
+&emsp;(13)
 
 Net project cost.—The term "net project cost" means the part of a project that reasonably cannot be financed from revenues.
 
-&emsp;(13)
+&emsp;(14)
 
 New bus model.—The term "new bus model" means a bus model (including a model using alternative fuel)—
 
@@ -222,7 +230,7 @@ New bus model.—The term "new bus model" means a bus model (including a model u
 
 &emsp;&emsp;(B) used in public transportation in the United States, but being produced with a major change in configuration or components.
 
-&emsp;(14)
+&emsp;(15)
 
 Public transportation.—The term "public transportation"—
 
@@ -244,47 +252,47 @@ Public transportation.—The term "public transportation"—
 
 &emsp;&emsp;&emsp;(vii) intra-terminal or intra-facility shuttle services.
 
-&emsp;(15)
+&emsp;(16)
 
 Regulation.—The term "regulation" means any part of a statement of general or particular applicability of the Secretary designed to carry out, interpret, or prescribe law or policy in carrying out this chapter.
 
-&emsp;(16)
+&emsp;(17)
 
 Rural area.—The term "rural area" means an area encompassing a population of less than 50,000 people that has not been designated in the most recent decennial census as an "urbanized area" by the Secretary of Commerce.
 
-&emsp;(17)
+&emsp;(18)
 
 Secretary.—The term "Secretary" means the Secretary of Transportation.
 
-&emsp;(18)
+&emsp;(19)
 
 Senior.—The term "senior" means an individual who is 65 years of age or older.
 
-&emsp;(19)
+&emsp;(20)
 
 State.—The term "State" means a State of the United States, the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the Virgin Islands.
 
-&emsp;(20)
+&emsp;(21)
 
 State of good repair.—The term "state of good repair" has the meaning given that term by the Secretary, by rule, under section 5326(b).
 
-&emsp;(21)
+&emsp;(22)
 
 Transit.—The term "transit" means public transportation.
 
-&emsp;(22)
+&emsp;(23)
 
 Urban area.—The term "urban area" means an area that includes a municipality or other built-up place that the Secretary, after considering local patterns and trends of urban growth, decides is appropriate for a local public transportation system to serve individuals in the locality.
 
-&emsp;(23)
+&emsp;(24)
 
 Urbanized area.—The term "urbanized area" means an area encompassing a population of not less than 50,000 people that has been defined and designated in the most recent decennial census as an "urbanized area" by the Secretary of Commerce.
 
-&emsp;(24)
+&emsp;(25)
 
 Value capture.—The term "value capture" means recovering the increased property value to property located near public transportation resulting from investments in public transportation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov.15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214; Pub. L. 105–178, title III, §3003, June 9, 1998, 112 Stat. 338; Pub. L. 105–206, title IX, §9009(a), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §§3002(b)(4), 3004, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(a), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623; Pub. L. 114–94, div. A, title III, §3002, Dec. 4, 2015, 129 Stat. 1446.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 786; Pub. L. 103–331, title III, §335A, Sept. 30, 1994, 108 Stat. 2495; Pub. L. 104–50, title III, §333(a), Nov. 15, 1995, 109 Stat. 457; Pub. L. 104–287, §6(c), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 105–102, §3(a), Nov. 20, 1997, 111 Stat. 2214; Pub. L. 105–178, title III, §3003, June 9, 1998, 112 Stat. 338; Pub. L. 105–206, title IX, §9009(a), July 22, 1998, 112 Stat. 852; Pub. L. 109–59, title III, §§3002(b)(4), 3004, Aug. 10, 2005, 119 Stat. 1545; Pub. L. 110–244, title II, §201(a), June 6, 2008, 122 Stat. 1609; Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623; Pub. L. 114–94, div. A, title III, §3002, Dec. 4, 2015, 129 Stat. 1446; Pub. L. 117–58, div. C, §30001(a), Nov. 15, 2021, 135 Stat. 889.)
 
 Historical and Revision Notes
 
@@ -376,17 +384,21 @@ July 9, 1964, Pub. L. 88–365, §12(c)(10), (11), 78 Stat. 306; Aug. 10, 1965, 
 
 In this chapter, the words "local governmental authority" are substituted for "local public body" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), before clause (1), the text of 49 App.:1608(c)(7) is omitted as surplus. The text of 49 App.:1608(c)(8) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section. In clause (1), before subclause (A), the words "capital project" are substituted for "construction" for clarity. In subclause (A), the words "actual", "all", and "reconstruction" are omitted as surplus. In subclause (D), the words "(whether or not such overhaul increases the useful life of the rolling stock)" are omitted as surplus. In clause (2), the words "for each of the jurisdictions included in the definition of 'State' " are omitted as surplus. In clauses (3) and (10), the word "regulation" is substituted for "rule" for consistency in the revised title and with other titles of the Code and because the terms are synonymous. In clause (3)(B)(iii), the words "of persons" are omitted as surplus. In clauses (4) and (5), the word "mass" is substituted for "public" because of the restatement. In clause (4)(A), the words "including, but not limited to, fixed rail, automated guideway transit, and exclusive facilities for buses" are omitted as surplus. In clause (6)(A), the words "municipalities and other" are omitted as surplus. In clause (6)(B), the word "authority" is substituted for "public agencies and instrumentalities" for consistency in the revised title and with other titles of the Code. The word "municipalities" is omitted as surplus. In clause (7), the words "bus, or rail, or other", "either publicly or privately owned", and "on a . . . basis" are omitted as surplus. Clause (8) is added for clarity because the term "net project cost" has the same meaning throughout this chapter. In clause (11), the words "the Commonwealths of" are omitted as surplus. In clause (12), the word "individuals" is substituted for "commuters or others" to eliminate unnecessary words. In clause (13)(A), the words "in the case of any such area" and "entire" are omitted as surplus. The words "Secretary of Commerce" are substituted for "Bureau of the Census" because of 15:1511(e). In clause (13)(B), the words "so designated by the Bureau of Census", "which shall be", "responsible", and "in cooperation with each other" are omitted as surplus.
+In subsection (a), before clause (1), the text of 49 App.:1608(c)(7) is omitted as surplus. The text of 49 App.:1608(c)(8) is omitted because the complete title of the Secretary of Transportation is used the first time the term appears in a section. In clause (1), before subclause (A), the words "capital project" are substituted for "construction" for clarity. In subclause (A), thewords "actual", "all", and "reconstruction" are omitted as surplus. In subclause (D), the words "(whether or not such overhaul increases the useful life of the rolling stock)" are omitted as surplus. In clause (2), the words "for each of the jurisdictions included in the definition of 'State' " are omitted as surplus. In clauses (3) and (10), the word "regulation" is substituted for "rule" for consistency in the revised title and with other titles of the Code and because the terms are synonymous. In clause (3)(B)(iii), the words "of persons" are omitted as surplus. In clauses (4) and (5), the word "mass" is substituted for "public" because of the restatement. In clause (4)(A), the words "including, but not limited to, fixed rail, automated guideway transit, and exclusive facilities for buses" are omitted as surplus. In clause (6)(A), the words "municipalities and other" are omitted as surplus. In clause (6)(B), the word "authority" is substituted for "public agencies and instrumentalities" for consistency in the revised title and with other titles of the Code. The word "municipalities" is omitted as surplus. In clause (7), the words "bus, or rail, or other", "either publicly or privately owned", and "on a . . . basis" are omitted as surplus. Clause (8) is added for clarity because the term "net project cost" has the same meaning throughout this chapter. In clause (11), the words "the Commonwealths of" are omitted as surplus. In clause (12), the word "individuals" is substituted for "commuters or others" to eliminate unnecessary words. In clause (13)(A), the words "in the case of any such area" and "entire" are omitted as surplus. The words "Secretary of Commerce" are substituted for "Bureau of the Census" because of 15:1511(e). In clause (13)(B), the words "so designated by the Bureau of Census", "which shall be", "responsible", and "in cooperation with each other" are omitted as surplus.
 
 Subsection (b) applies to section 5307(d)(1)(D) of the revised title because of 49 App.:1607a(e)(1), restated as section 5307(n)(2) of the revised title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in par. (3)(I), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (4)(I), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
-The Social Security Act, referred to in par. (9)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in par. (10)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58 added par. (1), redesignated former pars. (1) to (24) as (2) to (25), respectively; in subpar. (G) of par. (4), added cl. (iv) and redesignated former cls. (iv) and (v) as (v) and (vi), respectively; and in cl. (vi) of subpar. (G) of par. (4), added subcl. (XV).
 
 <b>2015</b>—Par. (1)(C). Pub. L. 114–94, §3002(1)(A), inserted "functional" before "landscaping and".
 
@@ -440,7 +452,7 @@ Subsec. (a)(10). Pub. L. 109–59, §3004(e), amended heading and text of par. (
 
 Subsec. (a)(14) to (16). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
 
-Subsec. (a)(17). Pub. L. 109–59, §3004(f), reenacted heading without change and amended text of par. (17) generally. Prior to amendment, text read as follows: "The term 'urbanized area' means an area—
+Subsec. (a)(17). Pub. L. 109–59, §3004(f), reenacted heading without change and amended text of par. (17)generally. Prior to amendment, text read as follows: "The term 'urbanized area' means an area—
 
 &emsp;"(A) encompassing at least an urbanized area within a State that the Secretary of Commerce designates; and
 
@@ -461,6 +473,8 @@ Subsec. (a)(1)(G)(i). Pub. L. 105–178, §3003(b), as added by Pub. L. 105–20
 Subsec. (a)(1)(C). Pub. L. 104–50, §333(a)(2), as amended by Pub. L. 105–102, §3(a)(2), struck out "that extends the economic life of a bus for at least 8 years" after "remanufacturing a bus".
 
 <b>1994</b>—Subsec. (a)(1). Pub. L. 103–331, §335A, as amended by Pub. L. 104–287, inserted "payments for the capital portions of rail trackage rights agreements," after "rights of way),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

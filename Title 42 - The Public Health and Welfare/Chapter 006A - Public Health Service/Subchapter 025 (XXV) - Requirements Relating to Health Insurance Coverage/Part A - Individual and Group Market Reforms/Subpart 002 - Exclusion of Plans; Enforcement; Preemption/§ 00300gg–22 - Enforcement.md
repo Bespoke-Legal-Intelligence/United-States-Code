@@ -92,7 +92,7 @@
 
 #### (i) Failure to pay assessment
 
-&emsp;&emsp;&emsp;If any entity fails to pay an assessment after it has become a final and unappealable order, or after the court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed by action in the appropriate United States district court.
+&emsp;&emsp;&emsp;If any entity fails to pay an assessment after it has become a final andunappealable order, or after the court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General who shall recover the amount assessed by action in the appropriate United States district court.
 
 #### (ii) Nonreviewability
 
@@ -172,6 +172,8 @@
 
 <i>Amendment of section by section 102(a)(3)(C) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300gg–23 of this title, referred to in subsec. (a)(1), was in the original section "2723", and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§1001(4), 1563(c)(14)(B), formerly §1562(c)(14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
@@ -200,9 +202,11 @@ Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–233 added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022,see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2008 Amendment
 

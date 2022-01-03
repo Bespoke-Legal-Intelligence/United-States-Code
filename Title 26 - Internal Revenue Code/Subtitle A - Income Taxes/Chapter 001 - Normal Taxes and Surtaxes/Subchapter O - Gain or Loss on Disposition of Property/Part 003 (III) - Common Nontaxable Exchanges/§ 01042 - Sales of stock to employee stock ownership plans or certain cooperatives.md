@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (d) Basis of qualified replacement property
 
-The basis of the taxpayer in qualified replacement property purchased by the taxpayer during the replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
+The basis of the taxpayer in qualified replacement property purchased by the taxpayer duringthe replacement period shall be reduced by the amount of gain not recognized by reason of such purchase and the application of subsection (a). If more than one item of qualified replacement property is purchased, the basis of each of such items shall be reduced by an amount determined by multiplying the total gain not recognized by reason of such purchase and the application of subsection (a) by a fraction—
 
 &emsp;(1) the numerator of which is the cost of such item of property, and
 
@@ -240,7 +240,9 @@ If any gain is realized by the taxpayer on the sale or exchange of any qualified
 
 &emsp;&emsp;(D) paragraphs (2)(D) and (7) of subsection (c) shall not apply.
 
-(Added Pub. L. 98–369, div. A, title V, §541(a), July 18, 1984, 98 Stat. 887; amended Pub. L. 99–514, title XVIII, §§1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, 100 Stat. 2872–2878, 2882, 2959; Pub. L. 100–647, title I, §1018(t)(4)(D)–(F), Nov. 10, 1988, 102 Stat. 3588; Pub. L. 101–239, title VII, §7303(a), Dec. 19, 1989, 103 Stat. 2352; Pub. L. 101–508, title XI, §11801(c)(9)(H), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 104–188, title I, §§1311(b)(3), 1316(d)(3), 1616(b)(13), 1704(t)(50), Aug. 20, 1996, 110 Stat. 1784, 1786, 1857, 1890; Pub. L. 105–34, title IX, §968(a), Aug. 5, 1997, 111 Stat. 895.)
+(Added Pub. L. 98–369, div. A, title V, §541(a), July 18, 1984, 98 Stat. 887; amended Pub. L. 99–514, title XVIII, §§1854(a)(1), (2)(A), (3)(B), (4), (5)(A), (6)(A), (7), (8)(A), (9)(B), (10), (11), (f)(3)(B), 1899A(26), Oct. 22, 1986, 100 Stat. 2872–2878, 2882,2959; Pub. L. 100–647, title I, §1018(t)(4)(D)–(F), Nov. 10, 1988, 102 Stat. 3588; Pub. L. 101–239, title VII, §7303(a), Dec. 19, 1989, 103 Stat. 2352; Pub. L. 101–508, title XI, §11801(c)(9)(H), Nov. 5, 1990, 104 Stat. 1388–526; Pub. L. 104–188, title I, §§1311(b)(3), 1316(d)(3), 1616(b)(13), 1704(t)(50), Aug. 20, 1996, 110 Stat. 1784, 1786, 1857, 1890; Pub. L. 105–34, title IX, §968(a), Aug. 5, 1997, 111 Stat. 895.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -298,6 +300,8 @@ Subsec. (d). Pub. L. 99–514, §1854(a)(7), inserted last sentence.
 
 Subsecs. (e), (f). Pub. L. 99–514, §1854(a)(8)(A), added subsec. (e) and redesignated former subsec. (e) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title IX, §968(b), Aug. 5, 1997, 111 Stat. 896, provided that: "The amendment made by this section \[amending this section\] shall apply to sales after December 31, 1997."
@@ -320,7 +324,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 1854(a)(1), (2)(A), (4), (5)(A), (7), (10), (11) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1854(a)(1), (2)(A), (4), (5)(A), (7), (10), (11) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to whichsuch amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Amendment by section 1854(a)(3)(B) of Pub. L. 99–514 applicable to sales of securities after Oct. 22, 1986, except that a taxpayer or executor may elect to have section 1042(b)(3) of the Internal Revenue Code of 1954 (as in effect before the amendment by section 1854(a)(3)(B) of Pub. L. 99–514) apply to sales before Oct. 22, 1986, as if section 1042(b)(3) included the last sentence of section 409(n)(1) of this title (as added by section 1854(a)(3)(A) of Pub. L. 99–514), see section 1854(a)(3)(C) of Pub. L. 99–514, as amended, set out as a note under section 409 of this title.
 
@@ -348,11 +352,7 @@ Pub. L. 98–369, div. A, title V, §541(c), July 18, 1984, 98 Stat. 890, provid
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
-
-#### Line Item Veto
-
-Pub. L. 105–34, title IX, §968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -381,6 +381,12 @@ Pub. L. 99–514, title XVIII, §1854(a)(5)(B), Oct. 22, 1986, 100 Stat. 2875, p
 &emsp;"(iii) such property does not meet the requirements of section 1042(c)(4) of such Code (as amended by subparagraph (A)),
 
 > then, with respect to so much of any gain which the taxpayer treated as not recognized under section 1042(a) by reason of the acquisition of such property, the replacement period for purposes of such section shall not expire before January 1, 1987."
+
+#### <b>Executive Documents</b>
+
+#### Line Item Veto
+
+Pub. L. 105–34, title IX, §968, Aug. 5, 1997, 111 Stat. 895, amending this section and enacting provisions set out as a note above, was subject to line item veto by the President, Cancellation No. 97–2, signed Aug. 11, 1997, 62 F.R. 43267, Aug. 12, 1997. For decision holding line item veto unconstitutional, see <i>Clinton v. City of New York</i>, 524 U.S. 417, 118 S.Ct. 2091, 141 L.Ed.2d 393 (1998).
 
 <i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1),".</i>
 

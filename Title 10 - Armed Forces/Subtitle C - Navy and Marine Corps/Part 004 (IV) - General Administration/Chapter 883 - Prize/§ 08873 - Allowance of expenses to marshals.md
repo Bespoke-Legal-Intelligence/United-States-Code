@@ -20,9 +20,13 @@ R.S. 4645.
 
 34 U.S.C. 1153 and the revised section reflect the Act of May 28, 1896, ch. 252, §6, 29 Stat. 179, which provided that marshals should receive annual salaries in lieu of the fees and emoluments previously allowed them.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7673 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

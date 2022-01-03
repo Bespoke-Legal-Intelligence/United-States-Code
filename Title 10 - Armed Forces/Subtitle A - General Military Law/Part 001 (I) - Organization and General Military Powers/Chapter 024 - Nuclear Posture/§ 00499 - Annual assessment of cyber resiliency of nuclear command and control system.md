@@ -14,7 +14,7 @@ Elements.—In conducting the assessment required by subsection (a), the Command
 
 (c)
 
-Report Required.—(1) The Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of this title, a report on the assessment required by subsection (a) that includes the following:
+Reports Required.—(1) For each assessment conducted under subsection (a), the Commanders shall jointly submit to the Chairman of the Joint Chiefs of Staff, for submission to the Council on Oversight of the National Leadership Command, Control, and Communications System established under section 171a of this title, a report on the assessment that includes the following:
 
 &emsp;(A) The recommendations developed under subsection (b)(2).
 
@@ -24,9 +24,9 @@ Report Required.—(1) The Commanders shall jointly submit to the Chairman of th
 
 &emsp;(D) Any other comments of the Commanders.
 
-(2) The Council shall submit to the Secretary of Defense the report required by paragraph (1) and any comments of the Council on the report.
+(2) The Council shall submit to the Secretary of Defense each report required by paragraph (1) and any comments of the Council on each report.
 
-(3) The Secretary of Defense shall submit to the congressional defense committees the report required by paragraph (1), any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
+(3) Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees the report, any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
 
 (d)
 
@@ -36,7 +36,21 @@ Quarterly Briefings.—Not less than once every quarter, the Deputy Secretary of
 
 Termination.—The requirements of this section shall terminate on December 31, 2027.
 
-(Added Pub. L. 115–91, div. A, title XVI, §1651(a), Dec. 12, 2017, 131 Stat. 1756.)
+(Added Pub. L. 115–91, div. A, title XVI, §1651(a), Dec. 12, 2017, 131 Stat. 1756; amended Pub. L. 117–81, div. A, title XV, §1534, Dec. 27, 2021, 135 Stat. 2054.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–81, §1534(1), substituted "Reports" for "Report" in heading.
+
+Subsec. (c)(1). Pub. L. 117–81, §1534(2), substituted "For each assessment conducted under subsection (a), the Commanders" for "The Commanders" and "the assessment" for "the assessment required by subsection (a)" in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 117–81, §1534(3), which directed substitution of "each report" for "the report", was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
+
+Subsec. (c)(3). Pub. L. 117–81, §1534(4), substituted "Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary" for "The Secretary" and struck out "required by paragraph (1)" before ", any comments".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Ensuring Cyber Resiliency of Nuclear Command and Control System
 

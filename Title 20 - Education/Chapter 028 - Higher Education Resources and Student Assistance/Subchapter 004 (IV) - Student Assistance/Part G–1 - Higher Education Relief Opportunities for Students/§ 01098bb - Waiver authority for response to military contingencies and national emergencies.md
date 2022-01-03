@@ -36,13 +36,15 @@
 
 #### (c) Impact report
 
-The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives andthe Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
+The Secretary shall, not later than 15 months after first exercising any authority to issue a waiver or modification under subsection (a), report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate on the impact of any waivers or modifications issued pursuant to subsection (a) on affected individuals and the programs under title IV of the Act \[20 U.S.C. 1070 et seq.\], and the basis for such determination, and include in such report the Secretary's recommendations for changes to the statutory or regulatory provisions that were the subject of such waiver or modification.
 
 #### (d) No delay in waivers and modifications
 
 Sections 482(c) and 492 of the Higher Education Act of 1965 (20 U.S.C. 1089(c), 1098a) shall not apply to the waivers and modifications authorized or required by this part.
 
 (Pub. L. 108–76, §2, Aug. 18, 2003, 117 Stat. 904.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ The Higher Education Act of 1965, referred to in subsecs. (a) and (c), is Pub. L
 Section was formerly set out in a note under section 1070 of this title.
 
 Section was enacted as part of the Higher Education Relief Opportunities for Students Act of 2003, and not as part of title IV of the Higher Education Act of 1965 which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

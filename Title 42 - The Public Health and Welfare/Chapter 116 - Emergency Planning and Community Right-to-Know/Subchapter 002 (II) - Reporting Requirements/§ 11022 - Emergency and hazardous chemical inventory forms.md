@@ -72,11 +72,11 @@ A hazardous chemical subject to the requirements of this section is any hazardou
 
 #### (1) Availability to State commissions, local committees, and fire departments
 
-&emsp;Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person making the request. Any such request shall be with respect to a specific facility.
+&emsp;Upon request by a State emergency response commission, a local emergency planning committee, or a fire department with jurisdiction over the facility, the owner or operator of a facility shall provide tier II information, as described in subsection (d), to the person makingthe request. Any such request shall be with respect to a specific facility.
 
 #### (2) Availability to other State and local officials
 
-&emsp;A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to theState emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
+&emsp;A State or local official acting in his or her official capacity may have access to tier II information by submitting a request to the State emergency response commission or the local emergency planning committee. Upon receipt of a request for tier II information, the State commission or local committee shall, pursuant to paragraph (1), request the facility owner or operator for the tier II information and make available such information to the official.
 
 #### (3) Availability to public
 
@@ -115,6 +115,8 @@ Upon request to an owner or operator of a facility which files an inventory form
 The Administrator shall publish a uniform format for inventory forms within three months after October 17, 1986. If the Administrator does not publish such forms, owners and operators of facilities subject to the requirements of this section shall provide the information required under this section by letter.
 
 (Pub. L. 99–499, title III, §312, Oct. 17, 1986, 100 Stat. 1738; Pub. L. 115–270, title II, §2018(b), Oct. 23, 2018, 132 Stat. 3858.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

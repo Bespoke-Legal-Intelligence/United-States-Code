@@ -94,7 +94,7 @@
 
 &emsp;In determining the resources of an institutionalized spouse at the time of application for benefits under this subchapter, regardless of any State laws relating to community property or the division of marital property—
 
-&emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, orboth, shall be considered to be available to the institutionalized spouse, and
+&emsp;&emsp;(A) except as provided in subparagraph (B), all the resources held by either the institutionalized spouse, community spouse, or both, shall be considered to be available to the institutionalized spouse, and
 
 &emsp;&emsp;(B) resources shall be considered to be available to an institutionalized spouse, but only to the extent that the amount of such resources exceeds the amount computed under subsection (f)(2)(A) (as of the time of application for benefits).
 
@@ -272,7 +272,9 @@ In this section:
 
 &emsp;(2) The term "community spouse" means the spouse of an institutionalized spouse.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L. 109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Aug. 14, 1935, ch. 531, title XIX, §1924, as added Pub. L. 100–360, title III, §303(a)(1)(B), July 1, 1988, 102 Stat. 754; amended Pub. L. 100–485, title VI, §608(d)(16)(A), Oct. 13, 1988, 102 Stat. 2417; Pub. L. 101–239, title VI, §6411(e)(3), Dec. 19, 1989, 103 Stat. 2271; Pub. L. 101–508, title IV, §§4714(a)–(c), 4744(b)(1), Nov. 5, 1990, 104 Stat. 1388–192, 1388–198; Pub. L. 103–66, title XIII, §§13611(d)(2), 13643(c)(1), Aug. 10, 1993, 107 Stat. 627, 647; Pub. L. 103–252, title I, §125(b), May 18, 1994, 108 Stat. 650; Pub. L. 105–33, title IV, §4802(b)(1), Aug. 5, 1997, 111 Stat. 548; Pub. L.109–171, title VI, §6013(a), Feb. 8, 2006, 120 Stat. 64; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(V), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -319,6 +321,8 @@ Subsec. (e)(2)(A). Pub. L. 100–485, §608(d)(16)(A)(v), inserted "if an applic
 Subsec. (f)(1). Pub. L. 100–485, §608(d)(16)(A)(vi), substituted "transfer an amount" for "transfer to the community spouse (or to another for the sole benefit of the community spouse) an amount" and "as soon as practicable" for "as soon as pacticable".
 
 Subsec. (f)(3). Pub. L. 100–485, §608(d)(16)(A)(vii), substituted "spouse or a family member" for "spouse of a family member".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 
@@ -398,7 +402,7 @@ Pub. L. 116–3, §3(b), Jan. 24, 2019, 133 Stat. 7.
 
 #### Protection for Recipients of Home and Community-Based Services Against Spousal Impoverishment
 
-Pub. L. 111–148, title II, §2404, Mar. 23, 2010, 124 Stat. 305, as amended by Pub. L. 116–3, §3(a), Jan. 24, 2019, 133 Stat. 7; Pub. L. 116–16, §2(a), Apr. 18, 2019, 133 Stat. 852; Pub. L. 116–39, §3(a), Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–94, div. N, title I, §204(a), Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3812(a), Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2302(a), Oct. 1, 2020, 134 Stat. 731; Pub. L. 116–215, div. B, title I, §1105(a), Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §205(a), Dec. 27, 2020, 134 Stat. 2983, provided that: "During the period beginning on January 1, 2014, and ending on September 30, 2023, section 1924(h)(1)(A) of the Social Security Act (42 U.S.C. 1396r–5(h)(1)(A)) shall be applied as though 'is eligible for medical assistance for home and community-based services provided under subsection (c), (d), or (i) of section 1915 \[42 U.S.C. 1396n\], under a waiver approved under section 1115 \[42 U.S.C. 1315\], or who is eligible for such medical assistance by reason of being determined eligible under section 1902(a)(10)(C) \[42 U.S.C. 1396a(a)(10)(C)\] or by reason of section 1902(f) \[42 U.S.C. 1396a(f)\] or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care, or who is eligible for medical assistance for home and community-based attendant services and supports under section 1915(k) \[42 U.S.C. 1396n(k)\]' were substituted in such section for '(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI) \[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)\]'."
+Pub. L. 111–148, title II, §2404, Mar. 23, 2010, 124 Stat. 305, as amended by Pub. L. 116–3, §3(a), Jan. 24, 2019, 133 Stat. 7; Pub. L. 116–16, §2(a), Apr. 18, 2019, 133 Stat. 852; Pub. L. 116–39, §3(a), Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–94, div. N, title I, §204(a), Dec. 20, 2019, 133 Stat. 3111; Pub. L. 116–136, div. A, title III, §3812(a), Mar. 27, 2020, 134 Stat. 429; Pub. L. 116–159, div. C, title III, §2302(a), Oct. 1, 2020, 134 Stat. 731; Pub. L. 116–215, div. B, title I, §1105(a), Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, §205(a), Dec. 27, 2020, 134 Stat. 2983, provided that: "During the period beginning on January 1, 2014, and ending on September 30, 2023, section 1924(h)(1)(A) of the Social Security Act (42 U.S.C. 1396r–5(h)(1)(A)) shall be applied as though 'is eligible for medical assistance for home and community-based services provided under subsection (c), (d), or (i) of section 1915 \[42 U.S.C. 1396n\], under a waiver approved under section 1115 \[42 U.S.C. 1315\], or who is eligible for such medical assistance by reason of being determined eligible under section 1902(a)(10)(C) \[42 U.S.C. 1396a(a)(10)(C)\] or by reason of section 1902(f) \[42 U.S.C. 1396a(f)\] or otherwise on the basis of a reduction of income based on costs incurred for medical or other remedial care, or who is eligible for medical assistance for home and community-based attendant services and supports under section 1915(k) \[42 U.S.C. 1396n(k)\]' were substituted in suchsection for '(at the option of the State) is described in section 1902(a)(10)(A)(ii)(VI) \[42 U.S.C. 1396a(a)(10)(A)(ii)(VI)\]'."
 
 \[For provisions relating to construction of section 2404 of Pub. L. 111–148, set out above, see section 3(b) of Pub. L. 116–39, section 204(b) of Pub. L. 116–94, section 3812(b) of Pub. L. 116–136, section 2302(b) of Pub. L. 116–159, section 1105(b) of Pub. L. 116–215, and section 205(b) of Pub. L. 116–260, set out as notes under section 1396a of this title.\]
 

@@ -14,7 +14,7 @@ Vessel features.—The design of a vessel hull, deck, or combination of a hull a
 
 &emsp;(3)
 
-Exceptions.—Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of section 2320 of title 10 or by the instrument under which the design was developed for the United States Government.
+Exceptions.—Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of subchapter I of chapter 275 of title 10 or by the instrument under which the design was developed for the United States Government.
 
 (b)
 
@@ -38,11 +38,13 @@ Definitions.—For the purpose of this chapter, the following terms have the fol
 
 &emsp;(7) A "deck" is the horizontal surface of a vessel that covers the hull, including exterior cabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments.
 
-(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, §1(b)–(d), Oct. 16, 2008, 122 Stat. 4972.)
+(Added Pub. L. 105–304, title V, §502, Oct. 28, 1998, 112 Stat. 2905; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5005(a)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–593; Pub. L. 110–434, §1(b)–(d), Oct. 16, 2008, 122 Stat. 4972; Pub. L. 117–81, div. A, title XVII, §1702(l)(2), Dec. 27, 2021, 135 Stat. 2160.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(3). Pub. L. 117–81 substituted "subchapter I of chapter 275" for "section 2320".
 
 <b>2008</b>—Subsec. (a)(2). Pub. L. 110–434, §1(b), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The design of a vessel hull, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4)."
 
@@ -72,7 +74,7 @@ In General.—Not later than November 1, 2003, the Register of Copyrights and th
 
 "(b)
 
-Elements for Consideration.—In carrying out subsection (a), the Register of Copyrights and the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office shall consider—
+Elements for Consideration.—In carrying out subsection (a), the Register of Copyrights and the Under Secretary of Commerce for Intellectual Propertyand Director of the United States Patent and Trademark Office shall consider—
 
 &emsp;"(1) the extent to which the amendments made by this title has been effective in suppressing infringement of the design of vessel hulls;
 

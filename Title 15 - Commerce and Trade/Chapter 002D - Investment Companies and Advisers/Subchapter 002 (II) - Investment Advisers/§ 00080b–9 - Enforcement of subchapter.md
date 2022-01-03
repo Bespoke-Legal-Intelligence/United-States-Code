@@ -26,7 +26,7 @@ Whenever it shall appear to the Commission that any person has engaged, is engag
 
 #### (A) First tier
 
-&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts andcircumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
+&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
 
 #### (B) Second tier
 
@@ -68,6 +68,8 @@ For purposes of any action brought by the Commission under subsection (e), any p
 
 (Aug. 22, 1940, ch. 686, title II, §209, 54 Stat. 853; Pub. L. 86–750, §12, Sept. 13, 1960, 74 Stat. 887; Pub. L. 91–452, title II, §216, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VII, §704, Dec. 4, 1987, 101 Stat. 1264; Pub. L. 101–429, title IV, §402, Oct. 15, 1990, 104 Stat. 949; Pub. L. 107–204, title III, §308(d)(5), July 30, 2002, 116 Stat. 785; Pub. L. 111–203, title IX, §§923(a)(3), 929N, July 21, 2010, 124 Stat. 1849, 1862.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (e)(3)(A). Pub. L. 111–203, §923(a)(3), inserted "and section 78u–6 of this title" after "section 7246 of this title".
@@ -83,6 +85,8 @@ Subsec. (f). Pub. L. 111–203, §929N, added subsec. (f).
 <b>1970</b>—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
 <b>1960</b>—Subsec. (e). Pub. L. 86–750 inserted ", is engaged," after "has engaged" wherever appearing, and inserted provisions relating to aiders and abettors.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -100,7 +104,9 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 
 Amendment by Pub. L. 91–452 not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before the sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2,eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 

@@ -32,7 +32,7 @@ Orders to Manufacturers.—If the Secretary prevails in a civil action referred 
 
 &emsp;(2) to specify the earliest date under section 30119(b) of this title on which the defect or noncompliance will be remedied without charge under section 30120 of this title; and
 
-&emsp;(3) if notification was required under subsection (a) of this section, to reimburse an owner or purchaser for reasonable and necessary expenses (in an amount that is not more than the amount specified in the order ofthe Secretary under subsection (a)) incurred for repairing the defect or noncompliance during the period beginning on the date that notification was required to be issued and ending on the date the owner or purchaser receives the notification under this subsection.
+&emsp;(3) if notification was required under subsection (a) of this section, to reimburse an owner or purchaser for reasonable and necessary expenses (in an amount that is not more than the amount specified in the order of the Secretary under subsection (a)) incurred for repairing the defect or noncompliance during the period beginning on the date that notification was required to be issued and ending on the date the owner or purchaser receives the notification under this subsection.
 
 (d)
 

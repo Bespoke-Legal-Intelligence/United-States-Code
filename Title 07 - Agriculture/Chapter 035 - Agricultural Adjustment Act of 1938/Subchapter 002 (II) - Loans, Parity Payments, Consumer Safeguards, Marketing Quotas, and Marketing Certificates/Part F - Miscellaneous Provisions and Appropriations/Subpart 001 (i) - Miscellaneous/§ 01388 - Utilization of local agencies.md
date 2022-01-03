@@ -20,6 +20,8 @@ The provisions of sections 590h(b) and 590k of title 16, relating to the utiliza
 
 (Feb. 16, 1938, ch. 30, title III, §388, 52 Stat. 68; Pub. L. 99–198, title XVII, §1713(a), (b), Dec. 23, 1985, 99 Stat. 1636, 1637.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 3B \[§590a et seq.\] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act, as amended.
@@ -27,6 +29,8 @@ Chapter 3B \[§590a et seq.\] of title 16, referred to in text, was in the origi
 #### Amendments
 
 <b>1985</b>—Subsecs. (b), (c). Pub. L. 99–198 designated existing provisions of subsec. (b) as par. (1), added par. (2), and added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1985 Amendment
 

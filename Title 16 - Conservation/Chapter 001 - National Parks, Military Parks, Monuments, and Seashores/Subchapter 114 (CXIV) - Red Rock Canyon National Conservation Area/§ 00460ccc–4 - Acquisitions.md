@@ -14,9 +14,13 @@ All exchanges pursuant to subsection (a) shall be made in a manner consistent wi
 
 (Pub. L. 101–621, §6, Nov. 16, 1990, 104 Stat. 3344; Pub. L. 110–161, div. F, title I, §120, Dec. 26, 2007, 121 Stat. 2121.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–161, which directed the amendment of section 460ccc–4(a) of the Red Rock Canyon National Conservation Area Establishment Act authorization by striking out "with donated or appropriated funds" in par. (1), striking out par. (2), and redesignating pars. (3) and (4) as (2) and (3), respectively, was executed by making the amendments to subsec. (a) of this section, which is section 6 of the Red Rock Canyon National Conservation Area Establishment Act of 1990, to reflect the probable intent of Congress. Prior to amendment, "with donated or appropriated funds" appeared after "purchase" and par. (2) read as follows: "Lands or interests therein owned by the State of Nevada or a political subdivision thereof may be acquired by donation or exchange only."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Addition of Land to Red Rock Canyon National Conservation Area; Military Overflights
 
@@ -224,7 +228,7 @@ Disposition of proceeds.—The Secretary shall deposit any cash equalization pay
 
 "(a)
 
-Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as 'Public Lands-proposed addition to the Red Rock Canyon NCA', exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red Rock Canyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
+Inclusion and Management of Lands.—Upon the date of the enactment of this Act \[Nov. 6, 2002\], the Secretary shall administer the lands depicted on the Red Rock Map as 'Public Lands-proposed addition to the Red Rock Canyon NCA', exclusive of those lands used for the Corps of Engineers R–4 Detention Basin, as part of Red Rock and in accordance with the Red RockCanyon National Conservation Area Establishment Act of 1990 (16 U.S.C. 460ccc et seq.) and all other applicable laws.
 
 "(b)
 

@@ -28,7 +28,7 @@
 
 #### (4) Reducing costs
 
-&emsp;To reduce or avoid Federal costs, the Secretary shall consider the beneficial use of dredged material in a manner that contributes to the maintenance of sediment resources in the nearby coastal system.
+&emsp;To reduce or avoid Federal costs, the Secretary shall consider the beneficial use ofdredged material in a manner that contributes to the maintenance of sediment resources in the nearby coastal system.
 
 #### (b) Secretarial findings
 
@@ -132,7 +132,7 @@ In carrying out this section, the Secretary shall give priority to a regional se
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year, of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
+There is authorized to be appropriated to carry out this section $62,500,000 per fiscal year,of which not more than $5,000,000 per fiscal year may be used for the development of regional sediment management plans authorized by subsection (e) and of which not more than $3,000,000 per fiscal year may be used for construction of projects to which subsection (c)(1)(B)(ii) applies. Such funds shall remain available until expended.
 
 (Pub. L. 102–580, title II, §204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, §209, Aug. 17, 1999, 113 Stat. 287; Pub. L. 110–114, title II, §2037(a), Nov. 8, 2007, 121 Stat. 1094; Pub. L. 113–121, title I, §§1030(d)(1), 1038, June 10, 2014, 128 Stat. 1232, 1236; Pub. L. 114–322, title I, §1122(i), Dec. 16, 2016, 130 Stat. 1647; Pub. L. 115–270, title I, §§1150, 1157(d), Oct. 23, 2018, 132 Stat. 3787, 3794; Pub. L. 116–260, div. AA, title I, §125(a)(2)(C), Dec. 27, 2020, 134 Stat. 2637.)
 
@@ -190,11 +190,11 @@ Pub. L. 110–114, title II, §2037(c), as added by Pub. L. 113–121, title I, 
 
 #### Project Selection
 
-Pub. L. 116–260, div. AA, title I, §125(b)(3), Dec. 27, 2020, 134 Stat. 2638, provided that: "In selecting projects for the beneficial use of dredged materials under section 1122 of the Water Resources Development Act of 2016 \[Pub. L. 114–322\] (33 U.S.C. 2326 note), the Secretary \[of the Army\] shall prioritize the selection of at least one project for the utilization of thin layer placement of dredged fine and coarse grain sediment and at least one project for recovering lost storage capacity in reservoirs due to sediment accumulation authorized by subsection (a)(8) of such section, to the extent that a non-Federal interest has submitted an application for such project purposes that otherwise meets the requirements of such section."
+Pub. L. 116–260, div. AA, title I, §125(b)(3), Dec. 27, 2020, 134 Stat. 2638, provided that: "In selecting projects for the beneficial use of dredged materials under section 1122 of the Water Resources Development Act of 2016 (33 U.S.C. 2326 note) \[set out as a note below\], the Secretary \[of the Army\] shall prioritize the selection of at least one project for the utilization of thin layer placement of dredged fine and coarse grain sediment and at least one project for recovering lost storage capacity in reservoirs due to sediment accumulation authorized by subsection (a)(8) of such section, to the extent that a non-Federal interest has submitted an application for such project purposes that otherwise meets the requirements of such section."
 
 #### Coordination With Existing Authorities
 
-Pub. L. 116–260, div. AA, title I, §125(d)(2), Dec. 27, 2020, 134 Stat. 2640, provided that: "The Secretary \[of the Army\] may carry out the dredge pilot program authorized by section 1111 of the Water Resources Development Act of 2018 \[Pub. L. 115–270\] (33 U.S.C. 2326 note) in coordination with Federal regional dredge demonstration programs in effect on the date of enactment of this Act \[Dec. 27, 2020\]."
+Pub. L. 116–260, div. AA, title I, §125(d)(2), Dec. 27, 2020, 134 Stat. 2640, provided that: "The Secretary \[of the Army\] may carry out the dredge pilot program authorized by section 1111 of the Water Resources Development Act of 2018 (33 U.S.C. 2326 note) in coordination with Federal regional dredge demonstration programs in effect on the date of enactment of this Act \[Dec. 27, 2020\]."
 
 #### Dredge Pilot Program
 
@@ -210,7 +210,7 @@ In General.—The Secretary \[of the Army\] is authorized to carry out a pilot p
 
 "(b)
 
-Scope.—In carrying out the pilot program under subsection (a), the Secretary may award a contract described in such subsection, which may address one or more harbors, inland harbors, or inland or intracoastal waterways in a geographical region, if the Secretary determines that the contract provides cost savings compared to the awarding of such work on an annual basis or on a project-by-project basis.
+Scope.—In carrying out the pilot program under subsection (a), the Secretary may award a contract described in such subsection, which may address one or more harbors, inland harbors, or inland or intracoastal waterways in a geographical region, if the Secretarydetermines that the contract provides cost savings compared to the awarding of such work on an annual basis or on a project-by-project basis.
 
 "(c)
 

@@ -30,9 +30,13 @@ If the President determines that such action will simplify the computation of th
 
 (Pub. L. 93–618, title I, §109, Jan. 3, 1975, 88 Stat. 1985; Pub. L. 96–39, title XI, §1106(c)(3), July 26, 1979, 93 Stat. 312.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1979</b>—Subsec. (c)(2). Pub. L. 96–39 substituted "any part of the reduction" for "such part of the reduction".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1979 Amendment
 
@@ -62,5 +66,5 @@ In General.—The aggregate reduction in the rate of duty applicable to items de
 
 "(b)
 
-Opportunity for Comment.—Before making any determination under subsection (a)(1) and (2), the President shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980."
+Opportunity for Comment.—Before making any determination under subsection (a)(1) and (2), thePresident shall provide interested parties an opportunity to comment and shall publish his final determinations in the Federal Register before July 1, 1980."
 

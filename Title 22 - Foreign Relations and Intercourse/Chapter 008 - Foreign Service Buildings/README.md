@@ -19,7 +19,9 @@
 | [301\.](%C2%A7%2000301%20-%20Lease%20or%20rental%20arrangements%20of%20not%20less%20than%20ten%20years%3B%20approval%20by%20Secretary%3B%20delegation%20of%20authority%3B%20information%20to%20Congress.md) | Lease or rental arrangements of not less than ten years; approval by Secretary; delegation of authority; information to Congress. |
 | [302\.](%C2%A7%2000302%20-%20Award%20of%20contracts.md) | Award of contracts. |
 | [303\.](%C2%A7%2000303%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93323%2C%20title%20VII%2C%20%C2%A7715%28a%29%281%29%2C%20Dec.%2016%2C%202016%2C%20130%20Stat.%201946.md) | Repealed. |
-| [304\.](%C2%A7%2000304%20-%20Annual%20report%20on%20embassy%20construction%20costs.md) | Annual report on embassy construction costs. |
+| [304\.](%C2%A7%2000304%20-%20Biannual%20report%20on%20overseas%20capital%20construction%20projects.md) | Biannual report on overseas capital construction projects. |
+| [305\.](%C2%A7%2000305%20-%20Growth%20projections%20for%20new%20embassies%20and%20consulates.md) | Growth projections for new embassies and consulates. |
+| [306\.](%C2%A7%2000306%20-%20Contracting%20methods%20in%20capital%20construction.md) | Contracting methods in capital construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,4 +48,6 @@
 - [&sect; 00301 - Lease or rental arrangements of not less than ten years; approval by Secretary; delegation of authority; information to Congress](%C2%A7%2000301%20-%20Lease%20or%20rental%20arrangements%20of%20not%20less%20than%20ten%20years%3B%20approval%20by%20Secretary%3B%20delegation%20of%20authority%3B%20information%20to%20Congress.md)
 - [&sect; 00302 - Award of contracts](%C2%A7%2000302%20-%20Award%20of%20contracts.md)
 - [&sect; 00303 - Repealed. Pub. L. 114&#8211;323, title VII, &sect;715(a)(1), Dec. 16, 2016, 130 Stat. 1946](%C2%A7%2000303%20-%20Repealed.%20Pub.%20L.%20114%E2%80%93323%2C%20title%20VII%2C%20%C2%A7715%28a%29%281%29%2C%20Dec.%2016%2C%202016%2C%20130%20Stat.%201946.md)
-- [&sect; 00304 - Annual report on embassy construction costs](%C2%A7%2000304%20-%20Annual%20report%20on%20embassy%20construction%20costs.md)
+- [&sect; 00304 - Biannual report on overseas capital construction projects](%C2%A7%2000304%20-%20Biannual%20report%20on%20overseas%20capital%20construction%20projects.md)
+- [&sect; 00305 - Growth projections for new embassies and consulates](%C2%A7%2000305%20-%20Growth%20projections%20for%20new%20embassies%20and%20consulates.md)
+- [&sect; 00306 - Contracting methods in capital construction](%C2%A7%2000306%20-%20Contracting%20methods%20in%20capital%20construction.md)

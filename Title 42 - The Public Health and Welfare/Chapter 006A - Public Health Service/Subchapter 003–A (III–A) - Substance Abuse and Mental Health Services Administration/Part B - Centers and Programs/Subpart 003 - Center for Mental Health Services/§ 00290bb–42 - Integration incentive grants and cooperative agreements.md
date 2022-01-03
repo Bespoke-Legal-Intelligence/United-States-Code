@@ -108,13 +108,15 @@ An eligible entity receiving a grant or cooperative agreement under this section
 
 #### (2) Additional dissemination of technical information
 
-&emsp;The information and resources provided by the Secretary under paragraph (1) shall, as appropriate, be made available to States, political subdivisions of States, Indian tribes ortribal organizations (as defined in section 5304 of title 25), outpatient mental health and addiction treatment centers, community mental health centers that meet the criteria under section 300x–2(c) of this title, certified community behavioral health clinics described in section 223 of the Protecting Access to Medicare Act of 2014, primary care organizations such as Federally qualified health centers or rural health clinics as defined in section 1395x(aa) of this title, other community-based organizations, or other entities engaging in integrated care activities, as the Secretary determines appropriate.
+&emsp;The information and resources provided by the Secretary under paragraph (1) shall, as appropriate, be made available to States, political subdivisions of States, Indian tribes or tribal organizations (as defined in section 5304 of title 25), outpatient mental health and addiction treatment centers, community mental health centers that meet the criteria under section 300x–2(c) of this title, certified community behavioral health clinics described in section 223 of the Protecting Access to Medicare Act of 2014, primary care organizations such as Federally qualified health centers or rural health clinics as defined in section 1395x(aa) of this title, other community-based organizations, or other entities engaging in integrated care activities, as the Secretary determines appropriate.
 
 #### (h) Authorization of appropriations
 
 To carry out this section, there are authorized to be appropriated $51,878,000 for each of fiscal years 2018 through 2022.
 
 (July 1, 1944, ch.373, title V, §520K, as added Pub. L. 111–148, title V, §5604, Mar. 23, 2010, 124 Stat. 679; amended Pub. L. 114–255, div. B, title IX, §9003, Dec. 13, 2016, 130 Stat. 1235.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

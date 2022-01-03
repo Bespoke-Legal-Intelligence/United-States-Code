@@ -40,7 +40,7 @@ The parcels referred to in paragraphs (1) through (4) of subsection (b) are all 
 
 #### (A) Maintaining natural character
 
-&emsp;&emsp;The Secretary shall keep development of the property acquired under paragraph (1) to a minimum so that the character of the acquired property will be similar to the natural and undeveloped landscape of the property described in subsection (b).
+&emsp;&emsp;The Secretary shall keep development of the property acquired under paragraph (1) toa minimum so that the character of the acquired property will be similar to the natural and undeveloped landscape of the property described in subsection (b).
 
 #### (B) Treatment of previously developed property
 
@@ -55,6 +55,8 @@ The parcels referred to in paragraphs (1) through (4) of subsection (b) are all 
 &emsp;&emsp;(B) managing bus traffic to the historical park and limiting parking for large tour buses to an offsite location.
 
 (Pub. L. 101–485, §4, Oct. 31, 1990, 104 Stat. 1171; Pub. L. 103–449, title II, §203, Nov. 2, 1994, 108 Stat. 4756; Pub. L. 105–363, §1(a), Nov. 10, 1998, 112 Stat. 3296; Pub. L. 111–11, title VII, §7102, Mar. 30, 2009, 123 Stat. 1190; Pub. L. 116–305, §2(b)(2), Jan. 5, 2021, 134 Stat. 4917.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -78,7 +80,9 @@ Subsec. (b)(3), (4). Pub. L. 103–449, §203(a)(1), (3), added pars. (3) and (4
 
 Subsec. (c). Pub. L. 103–449, §203(b), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Purpose
 
-Pub. L. 103–449, title II, §202, Nov. 2, 1994, 108 Stat. 4756, provided that: "The purpose of this title \[see Short Title of 1994 Amendment note set out under section 410ffff of this title\] is to preserve the last remaining undeveloped parcels of the historic Weir Farm that remain in private ownership by including the parcels within the boundary of the Weir Farm National Historic Site."
+Pub. L. 103–449, title II, §202, Nov. 2, 1994, 108 Stat. 4756, provided that: "The purpose of this title \[see Short Title of 1994 Amendment note set out under section 410ffff of this title\] is to preserve the last remainingundeveloped parcels of the historic Weir Farm that remain in private ownership by including the parcels within the boundary of the Weir Farm National Historic Site."
 

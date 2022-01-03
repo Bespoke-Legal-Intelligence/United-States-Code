@@ -22,7 +22,7 @@ An action described in subsection (a) may be taken if—
 
 #### (c) Report
 
-The report referred to in this subsection is a report containing a full and complete statement of the action proposed to be taken and the facts and circumstances relied upon in support of the proposed action.
+The report referred to in this subsection is a report containing a full and complete statement of the action proposed to be taken and the factsand circumstances relied upon in support of the proposed action.
 
 #### (d) Computation of days
 
@@ -39,6 +39,8 @@ In the computation of the 30-day period under subsection (b), there shall be exc
 &emsp;Funds appropriated pursuant to a DOE national security authorization may not be used for an item for which Congress has specifically denied funds.
 
 (Pub. L. 107–314, div. D, title XLVII, §4702, formerly div. C, title XXXVI, §3621, Dec. 2, 2002, 116 Stat. 2757; renumbered div. D, title XLVII, §4702, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(D)(i), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(1), Dec. 26, 2013, 127 Stat. 1080.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

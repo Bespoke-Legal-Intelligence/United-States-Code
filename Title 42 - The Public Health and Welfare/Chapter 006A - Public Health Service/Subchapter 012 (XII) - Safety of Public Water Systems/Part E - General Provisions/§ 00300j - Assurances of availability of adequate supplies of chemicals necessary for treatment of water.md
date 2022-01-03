@@ -2,7 +2,7 @@
 
 #### (a) Certification of need application
 
-If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectivelytreat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a "certification of need") that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
+If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a "certification of need") that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
 
 #### (b) Application requirements; publication in Federal Register; waiver; certification, issuance or denial
 
@@ -38,17 +38,19 @@ There shall be available as a defense to any action brought for breach of contra
 
 #### (e) Penalties for noncompliance with orders; temporary restraining orders and preliminary or permanent injunctions
 
-(1) Whoever knowingly fails to comply with any order issued pursuant to subsection (c)(1)shall be fined not more than $5,000 for each such failure to comply.
+(1) Whoever knowingly fails to comply with any order issued pursuant to subsection (c)(1) shall be fined not more than $5,000 for each such failure to comply.
 
 (2) Whoever fails to comply with any order issued pursuant to subsection (c)(1) shall be subject to a civil penalty of not more than $2,500 for each such failure to comply.
 
-(3) Whenever the Administrator or the President or his delegate has reason to believe that any person is violating or will violate any order issued pursuant to subsection (c)(1), he may petition a United States district court to issue a temporary restraining order or preliminary or permanent injunction (including a mandatory injunction) to enforce the provision of such order.
+(3) Whenever the Administrator or the President or his delegate has reason to believe that any person is violating or will violate any order issued pursuant to subsection (c)(1), he may petition a United States district court to issue atemporary restraining order or preliminary or permanent injunction (including a mandatory injunction) to enforce the provision of such order.
 
 #### (f) Termination date
 
 No certification of need or order issued under this section may remain in effect for more than one year.
 
 (July 1, 1944, ch. 373, title XIV, §1441, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1680; amended Pub. L. 95–190, §7, Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–63, §3, Sept. 6, 1979, 93 Stat. 411; Pub. L. 99–339, title III, §301(d), June 19, 1986, 100 Stat. 664; Pub. L. 104–182, title V, §501(c), Aug. 6, 1996, 110 Stat. 1691.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ No certification of need or order issued under this section may remain in effect
 <b>1979</b>—Subsec. (f)(2). Pub. L. 96–63 substituted "September 30, 1982" for "September 30, 1979".
 
 <b>1977</b>—Subsec. (f). Pub. L. 95–190 substituted "September 30, 1979" for "June 30, 1977".
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11879. Delegation of Functions to Secretary of Commerce Relating to Orders for Provision of Chemicals or Substances Necessary for Treatment of Water
 

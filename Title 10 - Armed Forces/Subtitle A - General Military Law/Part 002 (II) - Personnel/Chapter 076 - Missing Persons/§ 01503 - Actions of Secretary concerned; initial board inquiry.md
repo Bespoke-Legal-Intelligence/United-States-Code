@@ -6,7 +6,7 @@ Determination by Secretary.—Upon receiving a recommendation under section 1502
 
 (b)
 
-Inquiries Involving More Than One Missing Person.—If it appears to the Secretary who appoints a board under this section that the absence or missing status of two or more persons is factually related, the Secretary may appoint a single board under this section to conduct the inquiry into the whereabouts and status of all such persons.
+Inquiries Involving More Than One Missing Person.—If it appears to the Secretary whoappoints a board under this section that the absence or missing status of two or more persons is factually related, the Secretary may appoint a single board under this section to conduct the inquiry into the whereabouts and status of all such persons.
 
 (c)
 
@@ -24,7 +24,7 @@ Composition.—(1) A board appointed under this section to inquire into the wher
 
 (d)
 
-Duties of Board.—A board appointed to conduct an inquiry into the whereabouts andstatus of a missing person under this section shall—
+Duties of Board.—A board appointed to conduct an inquiry into the whereabouts and status of a missing person under this section shall—
 
 &emsp;(1) collect, develop, and investigate all facts and evidence relating to the disappearance or whereabouts and status of the person;
 
@@ -98,7 +98,7 @@ Determination by Secretary.—(1) Not later than 30 days after receiving a repor
 
 (2) In reviewing a report under paragraph (1), the Secretary shall determine whether or not the report is complete and free of administrative error. If the Secretary determines that the report is incomplete, or that the report is not free of administrative error, the Secretary may return the report to the board for further action on the report by the board.
 
-(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, theSecretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
+(3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report, including whether the person shall—
 
 &emsp;(A) be declared to be missing;
 
@@ -125,6 +125,8 @@ Report to Family Members and Other Interested Persons.—Not later than 30 days 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 338; amended Pub. L. 104–201, div. A, title V, §578(a)(2), (b)(2), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(2), (d), Nov. 18, 1997, 111 Stat. 1767, 1769.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

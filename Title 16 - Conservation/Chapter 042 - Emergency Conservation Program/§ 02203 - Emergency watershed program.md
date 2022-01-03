@@ -40,6 +40,8 @@ The Secretary is authorized to undertake emergency watershed protection measures
 
 (Pub. L. 95–334, title IV, §403, Aug. 4, 1978, 92 Stat. 434; Pub. L. 104–127, title III, §382, Apr. 4, 1996, 110 Stat. 1016; Pub. L. 113–79, title II, §2506, Feb. 7, 2014, 128 Stat. 752; Pub. L. 115–334, title II, §2403(a)(2)(A), (d), Dec. 20, 2018, 132 Stat. 4571, 4572.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–334, §2403(d)(1), substituted "Emergency watershed program" for "Emergency measures" in section catchline.
@@ -52,11 +54,13 @@ Pub. L. 115–334, §2403(a)(2)(A), substituted "The Secretary is" for "The Secr
 
 <b>1996</b>—Pub. L. 104–127 inserted ", including the purchase of floodplain easements," after "emergency measures".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1978, see section 406 of Pub. L. 95–334, set out as a note under section 2201 of this title.
 
 #### Disaster Assistance for Watershed Protection Activities
 
-Pub. L. 100–387, title IV, §402, as added Pub. L. 101–82, title V, §503, Aug. 14, 1989, 103 Stat. 586, authorized the Secretary of Agriculture to provide financial and technical disaster relief assistance in accordance with this section to repair damage caused by storms occurring in 1988 or 1989 to watersheds located in any county in any State, to the extent that funds authorized by this section remain available, with $25,000,000 appropriated for fiscal year 1990.
+Pub. L. 100–387, title IV, §402, as added Pub. L. 101–82, title V, §503, Aug. 14, 1989, 103 Stat. 586, authorized the Secretary of Agriculture to provide financial and technical disaster relief assistance in accordance with thissection to repair damage caused by storms occurring in 1988 or 1989 to watersheds located in any county in any State, to the extent that funds authorized by this section remain available, with $25,000,000 appropriated for fiscal year 1990.
 

@@ -104,7 +104,7 @@ A State educational agency that receives a grant under this part shall use the g
 
 &emsp;(5) Reforming tenure systems, implementing teacher testing for subject matter knowledge, and implementing teacher testing for State certification or licensing, consistent with title II of the Higher Education Act of 1965 \[20 U.S.C. 1021 et seq.\].
 
-&emsp;(6) Funding projects to promote reciprocity of teacher certification or licensing between or among States for special education teachers, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
+&emsp;(6) Funding projects to promote reciprocity of teacher certification or licensing betweenor among States for special education teachers, except that no reciprocity agreement developed under this paragraph or developed using funds provided under this part may lead to the weakening of any State teaching certification or licensing requirement.
 
 &emsp;(7) Assisting local educational agencies to serve children with disabilities through the development and use of proven, innovative strategies to deliver intensive professional development programs that are both cost effective and easily accessible, such as strategies that involve delivery through the use of technology, peer networks, and distance learning.
 
@@ -136,6 +136,8 @@ Public Law 95–134, permitting the consolidation of grants to the outlying area
 
 (Pub. L. 91–230, title VI, §654, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2770; amended Pub. L. 114–95, title IX, §§9214(d)(4)(A), (B), 9215(ss)(8), Dec. 10, 2015, 129 Stat. 2165, 2183.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7801 of this title, referred to in subsec. (a)(1)(B), was in the original "section 8101 of such Act", which was translated as meaning section 8101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
@@ -165,6 +167,8 @@ Subsec. (b)(2). Pub. L. 114–95, §9214(d)(4)(B)(i), substituted "certification
 Subsec. (b)(4). Pub. L. 114–95, §9214(d)(4)(B)(ii), substituted "special education teachers who meet the qualifications described in section 1412(a)(14)(C) of this title" for "highly qualified special education teachers".
 
 Subsec. (b)(10). Pub. L. 114–95, §9215(ss)(8)(B), inserted "(as such section was in effect on the day before December 10, 2015)" after "of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

@@ -38,6 +38,8 @@ Subject to subsection (c), in order to assist eligible recipients in taking adva
 
 (Pub. L. 89–136, title II, §205, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3603; amended Pub. L. 108–373, title II, §203, Oct. 27, 2004, 118 Stat. 1760.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–373, §203(a), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
@@ -73,6 +75,8 @@ Indian tribes.—In the case of a grant to an Indian tribe, the Secretary may re
 "(B)
 
 Certain States, political subdivisions, and nonprofit organizations.—In the case of a grant to a State, or a political subdivision of a State, that the Secretary determines has exhausted its effective taxing and borrowing capacity, or in the case of a grant to a nonprofit organization that the Secretary determines has exhausted its effective borrowing capacity, the Secretary may reduce the non-Federal share below the percentage specified in paragraph (1)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

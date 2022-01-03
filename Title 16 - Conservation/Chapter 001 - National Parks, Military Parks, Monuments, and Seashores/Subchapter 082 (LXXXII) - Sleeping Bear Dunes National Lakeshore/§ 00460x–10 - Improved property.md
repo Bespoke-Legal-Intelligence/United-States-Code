@@ -6,7 +6,7 @@ As used in this subchapter, the term "improved property" means a detached, one-f
 
 &emsp;(1) was begun before December 31, 1964, or
 
-&emsp;(2) for the purposes of section 460x–9(b) or (d) of this title, was begun on or after December 31, 1964, and before October 21, 1970, and has been openly and continuously used, at least during the summer months of each year when similar dwellings in the area are used, as a residential dwelling since such constructionwas completed, and with respect to the portion of such period after any acquisition of such property by the United States, by the owner, or a member of the immediate family of the owner, of such dwelling on the date of such acquisition,
+&emsp;(2) for the purposes of section 460x–9(b) or (d) of this title, was begun on or after December 31, 1964, and before October 21, 1970, and has been openly and continuously used, at least during the summer months of each year when similar dwellings in the area are used, as a residential dwelling since such construction was completed, and with respect to the portion of such period after any acquisition of such property by the United States, by the owner, or a member of the immediate family of the owner, of such dwelling on the date of such acquisition,
 
 > together with so much of the land on which the dwelling is situated, such land being in the same ownership as the dwelling, as the Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the lands so designated. The amount of land so designated shall in every case be at least three acres in area, or all of such lesser acreage as may be held in the same ownership as the dwelling, and in making such designation the Secretary shall take into account the manner of noncommercial residential use in which the dwelling and land have customarily been enjoyed.
 
@@ -27,6 +27,8 @@ The Secretary may exclude from the land designated under subsection (a) any beac
 (B) With respect to any proposed action to be taken under paragraph (2) of this subsection, if the Secretary determines within 60 days after October 22, 1982, after taking into account timetable and funding projections, that, consistent with the General Management Plan dated October 1979, public use or development is anticipated before 1998 for an area containing any improved property described in subsection (a)(2), the Secretary shall include notice of such determination in any notification under subparagraph (A) of this paragraph. Any failure of the Secretary to so notify an occupier pursuant to this subparagraph shall not preclude the Secretary from taking action under paragraph (2) at some future date.
 
 (Pub. L. 91–479, §11, Oct. 21, 1970, 84 Stat. 1080; Pub. L. 97–361, §2, Oct. 22, 1982, 96 Stat. 1721.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

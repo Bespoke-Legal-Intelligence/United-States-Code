@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) equal in value to a financial asset of Iran, including an asset of the central bank or monetary authority of the Government of Iran or any agency or instrumentality of that Government, that such foreign securities intermediary or a related intermediary holds abroad,
 
-> &emsp;shall be subject to execution or attachment in aid of execution, or to an order directing that the asset be brought to the State in which the court is located and subsequently to execution or attachment in aid of execution, in order to satisfy any judgment to the extent of any compensatory damages awarded against Iran for damages for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, or hostage-taking, or the provision of material support or resources for such an act, without regard to concerns relating to international comity.
+> &emsp;shall be subject to execution or attachment in aid of execution, or to an order directing that the asset be brought to the State in which the court is located and subsequently to executionor attachment in aid of execution, in order to satisfy any judgment to the extent of any compensatory damages awarded against Iran for damages for personal injury or death caused by an act of torture, extrajudicial killing, aircraft sabotage, or hostage-taking, or the provision of material support or resources for such an act, without regard to concerns relating to international comity.
 
 #### (2) Court determination required
 
@@ -88,7 +88,7 @@ In this section:
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(2), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
+This Act, referred to in subsec. (a)(2), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the IranThreat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (d)(1)(B)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 50 and Tables.
 

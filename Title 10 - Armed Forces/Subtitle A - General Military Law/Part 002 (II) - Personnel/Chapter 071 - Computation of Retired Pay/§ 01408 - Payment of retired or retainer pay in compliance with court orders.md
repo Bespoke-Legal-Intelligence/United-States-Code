@@ -52,7 +52,7 @@ Definitions.—In this section:
 
 &emsp;(5) The term "member" includes a former member entitled to retired pay under section 12731 of this title.
 
-&emsp;(6) The term "spouse or former spouse" means the husband or wife, or former husband or wife, respectively, of a member who, on orbefore the date of a court order, was married to that member.
+&emsp;(6) The term "spouse or former spouse" means the husband or wife, or former husband or wife, respectively, of a member who, on or before the date of a court order, was married to that member.
 
 &emsp;(7) The term "retired pay" includes retainer pay.
 
@@ -174,7 +174,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (3) The amount certified by the Secretary concerned under paragraph (4) with respect to a member or former member of the armed forces referred to in paragraph (2)(A) shall be deemed to be the disposable retired pay of that member or former member for the purposes of this subsection.
 
-(4) Upon the request of a court or an eligible spouse or former spouse, or an eligible dependent child, of a member or former member of the armed forces referred to in paragraph (2)(A) in connection with a civil action for the issuanceof a court order in the case of that member or former member, the Secretary concerned shall determine and certify the amount of the monthly retired pay that the member or former member would have been entitled to receive as of the date of the certification—
+(4) Upon the request of a court or an eligible spouse or former spouse, or an eligible dependent child, of a member or former member of the armed forces referred to in paragraph (2)(A) in connection with a civil action for the issuance of a court order in the case of that member or former member, the Secretary concerned shall determine and certify the amount of the monthly retired pay that the member or former member would have been entitled to receive as of the date of the certification—
 
 &emsp;(A) if the member or former member's eligibility for retired pay had not been terminated as described in paragraph (2)(A); and
 
@@ -190,7 +190,7 @@ Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Reti
 
 (8) Payments in accordance with this subsection shall be made out of funds in the Department of Defense Military Retirement Fund established by section 1461 of this title or, in the case of the Coast Guard, out of funds appropriated to the Department of Homeland Security for payment of retired pay for the Coast Guard.
 
-(9)(A) A spouse or former spouse of a member or former member of the armed forces referred to in paragraph (2)(A), while receiving payments in accordance with this subsection, shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to receive any other benefit that a spouse or a former spouse of a retired member of the armed forces is entitled to receive on the basis of being a spouse or former spouse, as the case may be, of a retired member of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
+(9)(A) A spouse or former spouse of a member or former member of the armed forces referred to in paragraph (2)(A), while receiving payments in accordance with this subsection, shall be entitled to receive medical and dental care, to usecommissary and exchange stores, and to receive any other benefit that a spouse or a former spouse of a retired member of the armed forces is entitled to receive on the basis of being a spouse or former spouse, as the case may be, of a retired member of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
 
 (B) A dependent child of a member or former member referred to in paragraph (2)(A) who was a member of the household of the member or former member at the time of the misconduct described in paragraph (2)(A) shall be entitled to receive medical and dental care, to use commissary and exchange stores, and to have other benefits provided to dependents of retired members of the armed forces in the same manner as if the member or former member referred to in paragraph (2)(A) was entitled to retired pay.
 
@@ -236,11 +236,13 @@ Garnishment To Satisfy a Judgment Rendered for Physically, Sexually, or Emotiona
 
 (5) For purposes of this subsection, a judgment rendered for physically, sexually, or emotionally abusing a child is any legal claim perfected through a final enforceable judgment, which claim is based in whole or in part upon the physical, sexual, or emotional abuse of an individual under 18 years of age, whether or not that abuse is accompanied by other actionable wrongdoing, such as sexual exploitation or gross negligence.
 
-(6) If the Secretary concerned is served with more than one court order with respect to the retired pay of a member, the disposable retired pay of the member shall be available to satisfy such court orders on a first-come, first-served basis, subject to the order of precedence specified in paragraph (2), with any such process being satisfied out of such monies as remain after the satisfaction of all such processes which have been previously served.
+(6) If the Secretary concerned is served with more than one court order with respect to the retired pay of a member, the disposable retired pay of the member shall be available to satisfy such court orders on a first-come, first-served basis, subject to the order of precedence specified in paragraph (2), with any such process being satisfied out of such monies as remainafter the satisfaction of all such processes which have been previously served.
 
 (7) The Secretary concerned shall not be required to vary normal pay and disbursement cycles for retired pay in order to comply with a child abuse garnishment order.
 
 (Added Pub. L. 97–252, title X, §1002(a), Sept. 8, 1982, 96 Stat. 730; amended Pub. L. 98–525, title VI, §643(a)–(d), Oct. 19, 1984, 98 Stat. 2547; Pub. L. 99–661, div. A, title VI, §644(a), Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–26, §§3(3), 7(h)(1), Apr. 21, 1987, 101 Stat. 273, 282; Pub. L. 101–189, div. A, title VI, §653(a)(5), title XVI, §1622(e)(6), Nov. 29, 1989, 103 Stat. 1462, 1605; Pub. L. 101–510, div. A, title V, §555(a)–(d), (f), (g), Nov. 5, 1990, 104 Stat. 1569, 1570; Pub. L. 102–190, div. A, title X, §1061(a)(7), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 102–484, div. A, title VI, §653(a), Oct. 23, 1992, 106 Stat. 2426; Pub. L. 103–160, div. A, title V, §555(a), (b), title XI, §1182(a)(2), Nov. 30, 1993, 107 Stat. 1666, 1771; Pub. L. 104–106, div. A, title XV, §1501(c)(16), Feb. 10, 1996, 110 Stat. 499; Pub. L. 104–193, title III, §§362(c), 363(c)(1)–(3), Aug. 22, 1996, 110 Stat. 2246, 2249; Pub. L. 104–201, div. A, title VI, §636, Sept. 23, 1996, 110 Stat. 2579; Pub. L. 105–85, div. A, title X, §1073(a)(24), (25), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 107–107, div. A, title X, §1048(c)(9), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–189, §2(c), Dec. 19, 2003, 117 Stat. 2866; Pub. L. 109–163, div. A, title VI, §665(a), Jan. 6, 2006, 119 Stat. 3317; Pub. L. 111–84, div. A, title X, §1073(a)(15), Oct. 28, 2009, 123 Stat. 2473; Pub. L. 114–328, div. A, title VI, §641(a), title X, §1081(b)(2)(B), Dec. 23, 2016, 130 Stat. 2164, 2418; Pub. L. 115–91, div. A, title V, §§531(m), 534(a), title VI, §624(a), Dec. 12, 2017, 131 Stat. 1386, 1390, 1429.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -434,6 +436,8 @@ Subsec. (e)(4)(A). Pub. L. 98–525, §643(d)(3), struck out "the retired or ret
 
 Subsec. (e)(5). Pub. L. 98–525, §643(d)(4), struck out "of disposable retired or retainer pay" after "payment of an amount" in two places and substituted "disposable retired or retainer pay" for "such pay" before "available for payment".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 531(m) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
@@ -466,7 +470,7 @@ Pub. L. 104–106, div. A, title XV, §1501(c), Feb. 10, 1996, 110 Stat. 498, pr
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–160, div. A, title V, §555(c), Nov. 30, 1993, 107 Stat. 1667, provided that: "The amendments made by this section \[amending this section\] shall take effect as of October 23, 1992, and shall apply as if the provisions of the paragraph (10) of section 1408(h) of title 10, United States Code, added by such subsection were included in the amendment made by section 653(a)(2) of Public Law 102–484 (106 Stat. 2426) \[amending this section\]."
+Pub. L. 103–160, div. A, title V, §555(c), Nov. 30, 1993, 107 Stat. 1667, provided that: "The amendments madeby this section \[amending this section\] shall take effect as of October 23, 1992, and shall apply as if the provisions of the paragraph (10) of section 1408(h) of title 10, United States Code, added by such subsection were included in the amendment made by section 653(a)(2) of Public Law 102–484 (106 Stat. 2426) \[amending this section\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -508,10 +512,6 @@ Pub. L. 97–252, title X, §1006, Sept. 8, 1982, 96 Stat. 737, as amended by Pu
 
 &emsp;"(3) the term 'uniformed services' has the same meaning as provided in section 1072 of title 10, United States Code."
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Review of Federal Former Spouse Protection Laws
 
 Pub. L. 105–85, div. A, title VI, §643, Nov. 18, 1997, 111 Stat. 1799, directed the Secretary of Defense to carry out a comprehensive review of the protections, benefits, and treatment afforded under Federal law to members and former members of the uniformed services and former spouses of such persons and to employees and former employees of the Government and former spouses of such persons and to submit to committees of Congress a report on the results of such review not later than Sept. 30, 1999.
@@ -531,6 +531,12 @@ Pub L. 102–484, div. A, title VI, §653(e), Oct. 23, 1992, 106 Stat. 2429, dir
 #### Commissary and Exchange Privileges
 
 Pub. L. 97–252, title X, §1005, Sept. 8, 1982, 96 Stat. 737, which directed Secretary of Defense to prescribe regulations to provide that an unremarried former spouse described in 10 U.S.C. 1072(2)(F)(i) is entitled to commissary and post exchange privileges to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services, was repealed and restated in section 1062 of this title by Pub. L. 100–370, §1(c)(1), (5).
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

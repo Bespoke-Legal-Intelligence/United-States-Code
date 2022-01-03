@@ -28,9 +28,13 @@ For purposes of this section—
 
 (Added Pub. L. 97–248, title II, §250(a), Sept. 3, 1982, 96 Stat. 528; amended Pub. L. 99–514, title XIII, §1301(j)(4), Oct. 22, 1986, 100 Stat. 2657.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b)(3). Pub. L. 99–514 substituted "section 144(a)(3)" for "section 103(b)(6)(C)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

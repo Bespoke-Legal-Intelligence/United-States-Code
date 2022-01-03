@@ -6,9 +6,11 @@ During any period in which a country ceases to be a USMCA country, this Act (oth
 
 #### (b) Termination of USMCA
 
-On the date on which the USMCA ceases to be in force with respect to the United States, this Act and the amendments made by this Act (other than this subsection and title IX) shall cease to have effect.
+On the date on which the USMCA ceases to be in force with respect to the United States, thisAct and the amendments made by this Act (other than this subsection and title IX) shall cease to have effect.
 
 (Pub. L. 116–113, title VI, §621, Jan. 29, 2020, 134 Stat. 80.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

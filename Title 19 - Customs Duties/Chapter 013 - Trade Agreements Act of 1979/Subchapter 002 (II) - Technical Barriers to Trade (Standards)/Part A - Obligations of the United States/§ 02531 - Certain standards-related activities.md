@@ -14,9 +14,13 @@ Nothing in this subchapter may be construed as prohibiting any private person, F
 
 (Pub. L. 96–39, title IV, §401, July 26, 1979, 93 Stat. 242; Pub. L. 103–465, title III, §351(b), Dec. 8, 1994, 108 Stat. 4955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–465 added subsec. (a), designated existing provisions as subsec. (b), and inserted subsec. (b) heading.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

@@ -6,7 +6,7 @@ The Corporation is authorized, upon such terms and conditions as it may prescrib
 
 #### (b) Prohibitions and restrictions; creation of liens and charges; rank and priority; causes of action to enforce; jurisdiction; service of process
 
-The Corporation may, by regulation or by writing executed by the Corporation, establishprohibitions or restrictions upon the creation of indebtedness or obligations of the Corporation or of liens or charges upon property of the Corporation, including after-acquired property, and create liens and charges, which may be floating liens or charges, upon all or any part or parts of the property of the Corporation, including after-acquired property. Such prohibitions, restrictions, liens, and charges shall have such effect, including without limitation on the generality of the foregoing such rank and priority, as may be provided by regulations of the Corporation or by writings executed by the Corporation, and shall create causes of action which may be enforced by action in the United States District Court for the District of Columbia or in the United States district court for any judicial district in which any of the property affected is located. Process in any such action may run to and be served in any judicial district or any place subject to the jurisdiction of the United States.
+The Corporation may, by regulation or by writing executed by the Corporation, establish prohibitions or restrictions upon the creation of indebtedness or obligations of the Corporation or of liens or charges upon property of the Corporation, including after-acquired property, and create liens and charges, which may be floating liens or charges, upon all or any part or parts of the property of the Corporation, including after-acquired property. Such prohibitions, restrictions, liens, and charges shall have such effect, including without limitation on the generality of the foregoing such rank and priority, as may be provided by regulations of the Corporation or by writings executed by the Corporation, and shall create causes of action which may be enforced by action in the United States District Court for the District of Columbia or in the United States district court for any judicial district in which any of the property affected is located. Process in any such action may run to and be served in any judicial district or any place subject to the jurisdiction of the United States.
 
 #### (c) Purchase of obligations; funds, maximum amount of purchases, etc.
 
@@ -44,7 +44,7 @@ All securities issued or guaranteed by the Corporation (other than securities gu
 
 (1) The Corporation may not guarantee mortgage-backed securities or mortgage related payment securities backed by mortgages not purchased by the Corporation.
 
-(2) The Corporation shall insert appropriate language in all of the obligations and securities of the Corporation issued under this section and section 1454 of this title clearly indicating that such obligations and securities, together withthe interest thereon, are not guaranteed by the United States and do not constitute a debt or obligation of the United States or any agency or instrumentality thereof other than the Corporation.
+(2) The Corporation shall insert appropriate language in all of the obligations and securities of the Corporation issued under this section and section 1454 of this title clearly indicating that such obligations and securities, together with the interest thereon, are not guaranteed by the United States and do not constitute a debt or obligation of the United States or any agency or instrumentality thereof other than the Corporation.
 
 #### (i) Prohibition on assessment or collection of fee or charge by United States
 
@@ -100,7 +100,7 @@ Except for fees paid pursuant to sections 1452(c) <sup>1</sup> and 1455(c) of t
 
 #### (D) Reports to Congress
 
-&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, and Banking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required undersubparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
+&emsp;&emsp;Upon exercise of this authority, the Secretary shall report to the Committees on the Budget, Financial Services, and Ways and Means of the House of Representatives and the Committees on the Budget, Finance, and Banking, Housing, and Urban Affairs of the Senate as to the necessity for the purchase and the determinations made by the Secretary under subparagraph (B) and with respect to the considerations required under subparagraph (C), and the size, terms, and probability of repayment or fulfillment of other terms of such purchase.
 
 #### (2) Rights; sale of obligations and securities
 
@@ -172,7 +172,7 @@ Subsecs. (j), (k). Pub. L. 101–73, §731(i), added subsecs. (j) and (k).
 
 <b>1988</b>—Subsec. (i). Pub. L. 100–242 added subsec. (i).
 
-<b>1984</b>—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directlyor indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
+<b>1984</b>—Subsec. (f). Pub. L. 98–440, §211, inserted provisions that preferred stock shall not be entitled to vote with respect to the election of any member of the Board of Directors and that such preferred stock, or any class thereof, may have such terms as would be required for listing of preferred stock on the New York Stock Exchange, except for any preferred stock, or class thereof, the initial sale of which is made directly or indirectly by the Corporation exclusively to any Federal Home Loan Bank or Banks.
 
 Subsec. (h). Pub. L. 98–440, §210, added subsec. (h).
 

@@ -30,7 +30,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 Pub. L. 91–652, §7, Jan. 5, 1971, 84 Stat. 1943, as amended by Pub. L. 92–226, pt. IV, §408, Feb. 7, 1972, 86 Stat. 35, provided that:
 
-"(a) In line with the expressed intention of the President of the United States, none of the funds authorized or appropriated pursuant to this or any other Act may be used to finance the introduction of United States ground combat troops into Cambodia, or to provide United States advisers to or for military, paramilitary, police, or other security or intelligence forces in Cambodia.
+"(a) In line with the expressed intention of the President of the United States, none of the funds authorized or appropriated pursuant to this or any other Act may be used to finance the introduction of United States ground combat troops into Cambodia, or to provideUnited States advisers to or for military, paramilitary, police, or other security or intelligence forces in Cambodia.
 
 "(b) Military and economic assistance provided by the United States to Cambodia and authorized or appropriated pursuant to this or any other Act shall not be construed as a commitment by the United States to Cambodia for its defense."
 

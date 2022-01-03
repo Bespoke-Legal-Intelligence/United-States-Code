@@ -34,6 +34,8 @@ Definitions.—In this chapter:
 
 (Added Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Pub. L. 115–232, div. A, title XII, §1251(a), Aug. 13, 2018, 132 Stat. 2053, provided that: "The combatant command known as the United States Pacific Command shall be known as the 'United States Indo-Pacific Command'. Any reference to the United States Pacific Command in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the United States Indo-Pacific Command."
@@ -45,6 +47,8 @@ Pub. L. 104–201, div. A, title IX, §905, Sept. 23, 1996, 110 Stat. 2619, requ
 #### Initial Review of Combatant Commands
 
 Pub. L. 99–433, title II, §212, Oct. 1, 1986, 100 Stat. 1017, set out 10 areas to be covered in first review of missions, responsibilities, and force structure of unified combatant commands under subsec. (b) of this section, and directed that first report to President be made not later than Oct. 1, 1987.
+
+#### <b>Executive Documents</b>
 
 #### Disestablishment of United States Joint Forces Command
 

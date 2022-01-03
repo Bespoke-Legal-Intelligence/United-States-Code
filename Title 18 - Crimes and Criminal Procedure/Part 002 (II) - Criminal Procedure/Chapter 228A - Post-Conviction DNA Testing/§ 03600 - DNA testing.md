@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Upon a written motion by an individual sentenced to imprisonment or death pursuant to a conviction for a Federal offense\(referred to in this section as the "applicant"), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
+In General.—Upon a written motion by an individual sentenced to imprisonment or death pursuant to a conviction for a Federal offense (referred to in this section as the "applicant"), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
 
 &emsp;(1) The applicant asserts, under penalty of perjury, that the applicant is actually innocent of—
 
@@ -26,7 +26,7 @@ In General.—Upon a written motion by an individual sentenced to imprisonment o
 
 &emsp;&emsp;(B) was previously subjected to DNA testing and the applicant is requesting DNA testing using a new method or technology that is substantially more probative than the prior DNA testing.
 
-&emsp;(4) The specific evidence to be tested is in the possession of the Government and has been subject to a chain of custody and retained under conditions sufficient to ensure that such evidence has not been substituted, contaminated, tampered with, replaced, or altered in any respect material to the proposed DNA testing.
+&emsp;(4) The specific evidence to be tested is in the possession of the Government and has beensubject to a chain of custody and retained under conditions sufficient to ensure that such evidence has not been substituted, contaminated, tampered with, replaced, or altered in any respect material to the proposed DNA testing.
 
 &emsp;(5) The proposed DNA testing is reasonable in scope, uses scientifically sound methods, and is consistent with accepted forensic practices.
 
@@ -142,7 +142,7 @@ Results exclude applicant.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—If a DNA profile is obtained through testing that excludes the applicant as the source and the DNA complies with the Federal Bureau of Investigation's requirements for the uploading of crime scene profiles to the National DNA Index System (referred to in this subsection as "NDIS"), the court shall order that the law enforcement entity with direct or conveyed statutory jurisdiction that has access to the NDIS submit the DNA profile obtained from probative biological material from crime scene evidence to determine whether the DNA profile matches a profile of a known individual or a profile from an unsolved crime.
+In general.—If a DNA profile is obtained through testing that excludes the applicant as the source and the DNA complies with the Federal Bureau of Investigation's requirements for the uploading of crime scene profiles to the National DNA Index System (referred to in this subsection as "NDIS"), the court shall order that the law enforcement entity with direct or conveyed statutory jurisdictionthat has access to the NDIS submit the DNA profile obtained from probative biological material from crime scene evidence to determine whether the DNA profile matches a profile of a known individual or a profile from an unsolved crime.
 
 &emsp;&emsp;&emsp;(ii)
 

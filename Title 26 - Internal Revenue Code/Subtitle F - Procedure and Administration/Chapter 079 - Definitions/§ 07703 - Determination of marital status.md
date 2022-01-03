@@ -22,6 +22,8 @@ For purposes of those provisions of this title which refer to this subsection, i
 
 (Added Pub. L. 99–514, title XIII, §1301(j)(2)(A), Oct. 22, 1986, 100 Stat. 2657; amended Pub. L. 100–647, title I, §1018(u)(41), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 108–311, title II, §207(26), Oct. 4, 2004, 118 Stat. 1178.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions relating to determination of marital status were formerly contained in section 143 of this title, prior to enactment of this section by Pub. L. 99–514.
@@ -31,6 +33,8 @@ Provisions relating to determination of marital status were formerly contained i
 <b>2004</b>—Subsec. (b)(1). Pub. L. 108–311 substituted "152(f)(1)" for "151(c)(3)" and struck out "paragraph (2) or (4) of" before "section 152(e)),".
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–647 substituted "section 151(c)(3)" for "section 151(e)(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

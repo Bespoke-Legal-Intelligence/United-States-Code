@@ -10,7 +10,7 @@ Whenever the Commission institutes a proceeding under this section, the Commissi
 
 #### (c) Refund considerations; shifting costs; reduction in revenues; "electric utility companies" and "registered holding company" defined
 
-Notwithstanding subsection (b), in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: <i>Provided</i>, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electric utility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission's order. For purposes of this subsection, the terms "electric utility companies" and "registered holding company" shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.<sup>1</sup>
+Notwithstanding subsection (b), in a proceeding commenced under this section involving two or more electric utility companies of a registered holding company, refunds which might otherwise be payable under subsection (b) shall not be ordered to the extent that such refunds would result from any portion of a Commission order that (1) requires a decrease in system production or transmission costs to be paid by one or more of such electric companies; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company: <i>Provided</i>, That refunds, in whole or in part, may be ordered by the Commission if it determines that the registered holding company would not experience any reduction in revenues which results from an inability of an electricutility company of the holding company to recover such increase in costs for the period between the refund effective date and the effective date of the Commission's order. For purposes of this subsection, the terms "electric utility companies" and "registered holding company" shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended.<sup>1</sup>
 
 #### (d) Investigation of costs
 
@@ -34,11 +34,13 @@ The Commission upon its own motion, or upon the request of any State commission 
 
 (4)(A) The Commission shall have refund authority under paragraph (2) with respect to a voluntary short term sale of electric energy by the Bonneville Power Administration only if the sale is at an unjust and unreasonable rate.
 
-(B) The Commission may order a refund under subparagraph (A) only for short-term sales made by the Bonneville Power Administration at rates that are higher than the highest just and reasonable rate charged by any other entity fora short-term sale of electric energy in the same geographic market for the same, or most nearly comparable, period as the sale by the Bonneville Power Administration.
+(B) The Commission may order a refund under subparagraph (A) only for short-term sales made by the Bonneville Power Administration at rates that are higher than the highest just and reasonable rate charged by any other entity for a short-term sale of electric energy in the same geographic market for the same, or most nearly comparable, period as the sale by the Bonneville Power Administration.
 
 (C) In the case of any Federal power marketing agency or the Tennessee Valley Authority, the Commission shall not assert or exercise any regulatory authority or power under paragraph (2) other than the ordering of refunds to achieve a just and reasonable rate.
 
 (June 10, 1920, ch. 285, pt. II, §206, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 852; amended Pub. L. 100–473, §2, Oct. 6, 1988, 102 Stat. 2299; Pub. L. 109–58, title XII, §§1285, 1286, 1295(b), Aug. 8, 2005, 119 Stat. 980, 981, 985.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,13 +60,15 @@ Subsec. (e). Pub. L. 109–58, §1286, added subsec. (e).
 
 Subsecs. (b) to (d). Pub. L. 100–473, §2(2), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–473, §4, Oct. 6, 1988, 102 Stat. 2300, provided that: "The amendments made by this Act \[amending this section\] are not applicable to complaints filed or motions initiated before the date of enactment of this Act \[Oct. 6, 1988\] pursuant to section 206 of the Federal Power Act \[this section\]: <i>Provided, however</i>, That such complaints may be withdrawn and refiled without prejudice."
 
 #### Limitation on Authority Provided
 
-Pub. L. 100–473, §3, Oct. 6, 1988, 102 Stat. 2300, provided that: "Nothing in subsection (c) of section 206 of the Federal Power Act, as amended (16 U.S.C. 824e(c)) shall be interpreted to confer upon the Federal Energy Regulatory Commission any authority not granted to it elsewhere in such Act \[16 U.S.C. 791a et seq.\] to issue an order that (1) requires a decrease in system production or transmission costs to be paid by one or more electric utility companies of a registered holding company; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in the costs to be paid by other electric utility companies of such registered holding company. For purposes of this section, the terms 'electric utility companies' and 'registered holding company' shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended \[15 U.S.C. 79 et seq.\]."
+Pub. L. 100–473, §3, Oct. 6, 1988, 102 Stat. 2300, provided that: "Nothing in subsection (c) of section 206 of the Federal Power Act, as amended (16 U.S.C. 824e(c)) shall be interpreted to confer upon the Federal Energy Regulatory Commission any authority not granted to it elsewhere in such Act \[16 U.S.C. 791a et seq.\] to issue an order that (1) requires a decrease in system production or transmission costs to be paid by one or more electric utility companies of a registered holding company; and (2) is based upon a determination that the amount of such decrease should be paid through an increase in thecosts to be paid by other electric utility companies of such registered holding company. For purposes of this section, the terms 'electric utility companies' and 'registered holding company' shall have the same meanings as provided in the Public Utility Holding Company Act of 1935, as amended \[15 U.S.C. 79 et seq.\]."
 
 #### Study
 

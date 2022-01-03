@@ -12,7 +12,7 @@
 
 &emsp;(D) The General Advisory Committee shall be invited to attend all non-executive meetings of the United States delegation and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission.
 
-&emsp;(E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The General Advisory Committee shall publish and make available to the publica statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+&emsp;(E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), and the Convention. The General Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
 #### (2) Information sharing
 
@@ -66,6 +66,8 @@ Attendance at meetings.—The Scientific Advisory Subcommittee shall be invited 
 
 (Sept. 7, 1950, ch. 907, §4, 64 Stat. 778; Pub. L. 102–523, §3(a)(2), Oct. 26, 1992, 106 Stat. 3433; Pub. L. 105–42, §7(b), Aug. 15, 1997, 111 Stat. 1137; Pub. L. 114–81, title II, §205, Nov. 5, 2015, 129 Stat. 661.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a)(1)(E), was in the original "this title" and was translated as reading "this Act" to reflect the probable intent of Congress. Act Sept. 7, 1950, which comprises this chapter, does not contain titles.
@@ -87,6 +89,8 @@ Subsec. (b)(3). Pub. L. 114–81, §205(3), substituted "General Advisory Commit
 <b>1997</b>—Pub. L. 105–42 which directed insertion of catchline and general amendment of text of section 4 of the Tuna Conventions Act, was executed to this section, to reflect the probable intent of Congress. Prior to amendment, text read as follows: "The United States Commissioners shall (a) appoint an advisory committee which shall be composed of not less than five nor more than fifteen persons who shall be selected from the various groups participating in the fisheries included under the conventions, and from nongovernmental conservation organizations, and (b) shall fix the terms of office of the members of such committee, who shall receive no compensation for their services as such members. The advisory committee shall be invited to attend all nonexecutive meetings of the United States sections and shall be given full opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the commissions. The advisory committee may attend all meetings of the international commissions to which they are invited by such commissions."
 
 <b>1992</b>—Pub. L. 102–523 inserted "and from nongovernmental conservation organizations," after "under the conventions,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

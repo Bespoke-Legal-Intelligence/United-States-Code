@@ -2,7 +2,7 @@
 
 (a)
 
-National Security Missions.—(1) The National Geospatial-Intelligence Agency shall, in support of the national security objectives of the United States, provide geospatial intelligence consisting of the following:
+National Security Missions.—(1) The National Geospatial-Intelligence Agency shall, in support of the national security objectives ofthe United States, provide geospatial intelligence consisting of the following:
 
 &emsp;(A) Imagery.
 
@@ -38,9 +38,11 @@ Systems.—The National Geospatial-Intelligence Agency may, in furtherance of a 
 
 (f)
 
-Validation.—The National Geospatial-Intelligence Agency shall assist the Joint Chiefs of Staff, combatant commands, and the military departments in establishing, coordinating, consolidating, and validating mapping, charting, geomatics data, and safety of navigation capability requirements through a formal process governed by the Joint Staff. Consistent with validated requirements, the National Geospatial-Intelligence Agency shall provide aeronautical and nautical charts that are safefor navigation, maps, books, datasets, models, and geomatics products.
+Validation.—The National Geospatial-Intelligence Agency shall assist the Joint Chiefs of Staff, combatant commands, and the military departments in establishing, coordinating, consolidating, and validating mapping, charting, geomatics data, and safety of navigation capability requirements through a formal process governed by the Joint Staff. Consistent with validated requirements, the National Geospatial-Intelligence Agency shall provide aeronautical and nautical charts that are safe for navigation, maps, books, datasets, models, and geomatics products.
 
 (Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(c)(1), (d)(2)(A), (f), Nov. 24, 2003, 117 Stat. 1568, 1570; Pub. L. 111–259, title IV, §432, Oct. 7, 2010, 124 Stat. 2732; Pub. L. 113–291, div. A, title X, §1071(c)(6), Dec. 19, 2014, 128 Stat. 3509; Pub. L. 116–283, div. A, title XVI, §1621(a), Jan. 1, 2021, 134 Stat. 4052.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -65,6 +67,8 @@ Subsecs. (b), (c). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geos
 Subsec. (d). Pub. L. 108–136, §921(d)(2)(A), (f), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" and "section 110(a) of the National Security Act of 1947 (50 U.S.C. 404e(a))" for "section 120(a) of the National Security Act of 1947".
 
 Subsec. (e). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

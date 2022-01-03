@@ -56,13 +56,15 @@ Each report under subsection (a) shall include—
 
 &emsp;&emsp;&emsp;(iii) denied; and
 
-&emsp;&emsp;(C) the total number of emergency acquisitions authorized by the Attorney General under section 1881c(d) of this title and thetotal number of subsequent orders approving or denying such applications.
+&emsp;&emsp;(C) the total number of emergency acquisitions authorized by the Attorney General under section 1881c(d) of this title and the total number of subsequent orders approving or denying such applications.
 
 (Pub. L. 95–511, title VII, §707, as added Pub. L. 110–261, title I, §101(a)(2), July 10, 2008, 122 Stat. 2457; amended Pub. L. 115–118, title I, §101(b)(2), Jan. 19, 2018, 132 Stat. 8.)
 
 #### Repeal of Section
 
 <i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, this section is repealed.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ Subsec. (b)(1)(C), (E). Pub. L. 115–118, §102(b)(2)(A), substituted "section 
 Subsec. (b)(1)(G)(i). Pub. L. 115–118, §102(b)(2)(A), substituted "section 1881a(i) of this title" for "section 1881a(h) of this title" in two places.
 
 Subsec. (b)(1)(G)(ii). Pub. L. 115–118, §101(b)(2)(C), substituted "subsections (d), (e), (f)(1), and (g)" for "subsections (d), (e), and (f)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

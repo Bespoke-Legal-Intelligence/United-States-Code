@@ -20,6 +20,8 @@ In sections 285l–2 to 285l–5 of this title:
 
 (Pub. L. 106–545, §2, Dec. 19, 2000, 114 Stat. 2721.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.

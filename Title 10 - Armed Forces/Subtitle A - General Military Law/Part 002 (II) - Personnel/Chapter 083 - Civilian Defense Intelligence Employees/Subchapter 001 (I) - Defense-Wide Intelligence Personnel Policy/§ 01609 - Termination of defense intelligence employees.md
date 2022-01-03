@@ -26,9 +26,13 @@ Limitation on Delegation.—The authority of the Secretary of Defense under this
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(b), Sept. 23, 1996, 110 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 1590(e) and 1604(e) of this title prior to repeal by Pub. L. 104–201, §§1632(a)(3), 1633(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

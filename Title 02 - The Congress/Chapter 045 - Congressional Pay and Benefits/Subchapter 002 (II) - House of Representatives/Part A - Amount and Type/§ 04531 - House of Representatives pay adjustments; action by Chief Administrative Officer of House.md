@@ -10,7 +10,7 @@
 
 > &emsp;by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as the Chief Administrative Officer considers appropriate, to the percentage of the adjustment under such section 5303;
 
-&emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined bythe Chief Administrative Officer, made by the pay adjustment by the President; and
+&emsp;(2) shall determine, with respect to the employees and classes of employees within the purview of this section whose pay is disbursed by the Chief Administrative Officer, the respective amounts of pay adjustments which are equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to corresponding increases in pay, as determined by the Chief Administrative Officer, made by the pay adjustment by the President; and
 
 &emsp;(3) shall transmit to the appropriate pay-fixing authority concerned in the House of Representatives a copy of his determinations with respect to the pay of those employees whose pay is fixed and adjusted by that authority.
 
@@ -18,7 +18,7 @@
 
 (c) Nothing in this section shall impair any authority pursuant to which rates of pay may be fixed by administrative action.
 
-(d) This section shall not be deemed to authorize any adjustment in the rates of pay of employees whose rates of pay are disbursed by the Chief Administrative Officer and are fixed and adjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices, including employees subject to the House Wage Schedule.
+(d) This section shall not be deemed to authorize any adjustment in the rates of pay of employees whose rates of pay are disbursed by the Chief Administrative Officer and are fixed andadjusted from time to time as nearly as is consistent with the public interest in accordance with prevailing rates or practices, including employees subject to the House Wage Schedule.
 
 (e) No rate of pay for any position shall be adjusted under this section to an amount in excess of the rate of pay in effect for such position under an order issued by the Speaker of the House of Representatives pursuant to the authority of section 4532 of this title.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1972 Amendment
 
-Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section5341 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under section 5341 of Title 5, Government Organization and Employees.
 
 #### Directive of the Speaker of the House of Representatives Implementing the Salary Comparability Policy in 1969 for Officers and Employees of the House of Representatives Required by Section 212 of the Federal Salary Act of 1967 \[5 U.S.C. 5304 note\]
 

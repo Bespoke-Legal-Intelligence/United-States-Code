@@ -10,9 +10,13 @@ For the purposes of all classification and administration of Acts of Congress, E
 
 (Apr. 30, 1946, ch. 242, §1, 60 Stat. 127.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 433 of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

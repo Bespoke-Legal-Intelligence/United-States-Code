@@ -4,7 +4,7 @@
 
 #### (1) On self-dealer
 
-&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person and a trust described in section 501(c)(21). The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a trustee acting only as a trustee of the trust) who participates in the act of self-dealing.
+&emsp;There is hereby imposed a tax on each act of self-dealing between a disqualified person anda trust described in section 501(c)(21). The rate of tax shall be equal to 10 percent of the amount involved with respect to the act of self-dealing for each year (or part thereof) in the taxable period. The tax imposed by this paragraph shall be paid by any disqualified person (other than a trustee acting only as a trustee of the trust) who participates in the act of self-dealing.
 
 #### (2) On trustee
 
@@ -112,6 +112,8 @@ For purposes of this section, a payment, out of assets or income of a trust desc
 
 (Added Pub. L. 95–227, §4(c)(1), Feb. 10, 1978, 92 Stat. 18; amended Pub. L. 96–596, §2(a)(1)(G), (H), (2)(F), (3)(E), Dec. 24, 1980, 94 Stat. 3469–3471; Pub. L. 102–486, title XIX, §1940(b), Oct. 24, 1992, 106 Stat. 3035.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (f). Pub. L. 102–486 substituted "subclause (I) or (IV) of section 501(c)(21)(A)(i)" for "clause (i) of section 501(c)(21)(A)".
@@ -123,6 +125,8 @@ Subsec. (e)(1)(B), (C). Pub. L. 96–596, §2(a)(2)(F), added subpar. (B) and re
 Subsec. (e)(2)(B). Pub. L. 96–596, §2(a)(1)(H), substituted "taxable period" for "correction period".
 
 Subsec. (e)(4), (5). Pub. L. 96–596, §2(a)(3)(E), redesignated par. (5) as (4) and struck out former par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency under section 6212 of this title with respect to the tax imposed by subsec. (b)(1) of this section, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

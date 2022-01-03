@@ -20,6 +20,8 @@ If, on completion of the 30-day period described in subsection (a)(2), the Secre
 
 (Aug. 14, 1946, ch. 966, title II, §283, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 535; amended Pub. L. 110–234, title XI, §11002(3), May 22, 2008, 122 Stat. 1354; Pub. L. 110–246, §4(a), title XI, §11002(3), June 18, 2008, 122 Stat. 1664, 2116.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -28,9 +30,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Pub. L. 110–246, §11002(3), redesignated subsec. (b) as (a) and substituted "retailer or person engaged in the business of supplying a covered commodity to a retailer" for "retailer" in introductory provisions, added subsec. (b), and struck out former subsecs. (a) and (c) which related to applicability of section 1636b of this title to a violation of this subchapter and fine for violation of section 1638a of this title. The substitution in subsec. (a) was made for "retailer" the first time appearing to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "retailer or person".</i>
 

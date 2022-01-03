@@ -9,6 +9,7 @@
 | [8612\.](%C2%A7%2008612%20-%20Employment%20of%20outside%20architects%20and%20engineers.md) | Employment of outside architects and engineers. |
 | [8614\.](%C2%A7%2008614%20-%20Apprehension%20of%20deserters%20and%20prisoners%3B%20operation%20of%20shore%20patrols.md) | Apprehension of deserters and prisoners; operation of shore patrols. |
 | [8616\.](%C2%A7%2008616%20-%20Collection%2C%20preservation%2C%20and%20display%20of%20captured%20flags.md) | Collection, preservation, and display of captured flags. |
+| [8617\.](%C2%A7%2008617%20-%20National%20Museum%20of%20the%20United%20States%20Navy.md) | National Museum of the United States Navy. |
 | [8619\.](%C2%A7%2008619%20-%20Leases%20of%20waterfront%20property%20from%20States%20or%20municipalities.md) | Leases of waterfront property from States or municipalities. |
 | [8620\.](%C2%A7%2008620%20-%20Gifts%20for%20welfare%20of%20enlisted%20members.md) | Gifts for welfare of enlisted members. |
 | [8621\.](%C2%A7%2008621%20-%20Acceptance%20and%20care%20of%20gifts%20to%20vessels.md) | Acceptance and care of gifts to vessels. |
@@ -27,11 +28,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 861, consisting of sections 8811 to 8820, related to separation from service within the Air Force for various reasons, prior to renumbering as chapter 939 of this title.
 
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2821, Dec. 27, 2021, 135 Stat. 2162, 2195, added item 8617.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 631 of this title as this chapter and items 7204, 7205, 7207, 7211, 7212, 7214, 7216, 7219 to 7229, 7231, and 7233 to 7235 as 8604, 8605, 8607, 8611, 8612, 8614, 8616, 8619 to 8629, 8631, and 8633 to 8635, respectively.
 
@@ -83,6 +88,7 @@ A prior chapter 861, consisting of sections 8811 to 8820, related to separation 
 - [&sect; 08612 - Employment of outside architects and engineers](%C2%A7%2008612%20-%20Employment%20of%20outside%20architects%20and%20engineers.md)
 - [&sect; 08614 - Apprehension of deserters and prisoners; operation of shore patrols](%C2%A7%2008614%20-%20Apprehension%20of%20deserters%20and%20prisoners%3B%20operation%20of%20shore%20patrols.md)
 - [&sect; 08616 - Collection, preservation, and display of captured flags](%C2%A7%2008616%20-%20Collection%2C%20preservation%2C%20and%20display%20of%20captured%20flags.md)
+- [&sect; 08617 - National Museum of the United States Navy](%C2%A7%2008617%20-%20National%20Museum%20of%20the%20United%20States%20Navy.md)
 - [&sect; 08619 - Leases of waterfront property from States or municipalities](%C2%A7%2008619%20-%20Leases%20of%20waterfront%20property%20from%20States%20or%20municipalities.md)
 - [&sect; 08620 - Gifts for welfare of enlisted members](%C2%A7%2008620%20-%20Gifts%20for%20welfare%20of%20enlisted%20members.md)
 - [&sect; 08621 - Acceptance and care of gifts to vessels](%C2%A7%2008621%20-%20Acceptance%20and%20care%20of%20gifts%20to%20vessels.md)

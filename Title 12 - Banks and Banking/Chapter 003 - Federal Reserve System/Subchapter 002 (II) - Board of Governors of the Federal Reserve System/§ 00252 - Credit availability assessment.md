@@ -56,7 +56,7 @@ Report.—Before the end of the 5-year period beginning on the date of the enact
 
 #### Definitions
 
-Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: "Except as otherwise specified in this title \[see Tables for classification\], thefollowing definitions shall apply for purposes of this title:
+Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: "Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
 
 &emsp;"(1)
 

@@ -46,7 +46,7 @@ The Director shall support research and development activities and facility oper
 
 #### (1) In general
 
-&emsp;The Director shall support research and development activities and facility operations at institutions of higher education, National Laboratories, and private facilities in the United States for a portfolio of alternative and enabling fusion energy concepts that may provide solutions to significant challenges to the establishment of a commercial magnetic fusion power plant, prioritized based on the ability of the United States to play a leadership role in the international fusion research community.
+&emsp;The Director shall support research and development activities and facility operations at institutions of higher education, National Laboratories, and private facilities in theUnited States for a portfolio of alternative and enabling fusion energy concepts that may provide solutions to significant challenges to the establishment of a commercial magnetic fusion power plant, prioritized based on the ability of the United States to play a leadership role in the international fusion research community.
 
 #### (2) Activities
 
@@ -210,7 +210,7 @@ The Director shall support research in general plasma science and high energy de
 
 #### (l) Sense of Congress
 
-It is the sense of Congress that the United States should support a robust, diverse program in addition to providing sufficient support to, at a minimum, meet its commitments to ITER and maintain the schedule of the project as determined by the Secretary in coordination with the ITER Organization at the time of the enactment of this section. It is further the sense of Congress that developing the scientific basis for fusion, providing research results key to the success of ITER, and training the next generation of fusion scientists are of critical importance to the United States and should in no way be diminished by participation of the United States in the ITER project.
+It is the sense of Congress that the United States should support a robust, diverse programin addition to providing sufficient support to, at a minimum, meet its commitments to ITER and maintain the schedule of the project as determined by the Secretary in coordination with the ITER Organization at the time of the enactment of this section. It is further the sense of Congress that developing the scientific basis for fusion, providing research results key to the success of ITER, and training the next generation of fusion scientists are of critical importance to the United States and should in no way be diminished by participation of the United States in the ITER project.
 
 #### (m) International collaboration
 
@@ -266,6 +266,8 @@ There are authorized to be appropriated to the Secretary to carry out the activi
 
 (Pub. L. 115–246, title III, §307, Sept. 28, 2018, 132 Stat. 3148; Pub. L. 116–260, div. Z, title II, §2008(a), Dec. 27, 2020, 134 Stat. 2474.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (i)(1) and (n)(1), probably means the date of enactment of Pub. L. 116—260, which enacted subsecs. (i) and (n) of this section and was approved Dec. 27, 2020.
@@ -278,7 +280,7 @@ Section is comprised of section 307 of Pub. L. 115–246. Subsec. (g) of section
 
 #### Amendments
 
-Subsec. (a). Pub. L. 116–260, §2008(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
+<b>2020</b>—Subsec. (a). Pub. L. 116–260, §2008(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Subsecs. (b), (c). Pub. L. 116–260, §2008(a)(1), redesignated subsecs. (a) and (b) as (b) and (c), respectively. Former subsec. (c) redesignated (d).
 
@@ -290,7 +292,7 @@ Subsec. (e). Pub. L. 116–260, §2008(a)(4), amended subsec. (e) generally. Pri
 
 Pub. L. 116–260, §2008(a)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsecs. (f) to (h). Pub. L. 116–260, §2008(a)(1), redesignated subsecs. (f) and (g) as (g) and (h) respectively.
+Subsecs. (f) to (h). Pub. L. 116–260, §2008(a)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
 Subsecs. (i) to (o). Pub. L. 116–260, §2008(a)(5), added subsecs. (i) to (o).
 

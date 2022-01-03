@@ -32,7 +32,7 @@ For purposes of this subpart—
 
 #### (B) Issues not publicly offered and not issued for property
 
-&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term "date of original issue" means the date on which the debt instrument was sold by the issuer.
+&emsp;&emsp;In the case of any debt instrument to which section 1273(b)(2) applies, the term"date of original issue" means the date on which the debt instrument was sold by the issuer.
 
 #### (C) Other debt instruments
 
@@ -116,11 +116,13 @@ For purposes of this subpart—
 
 The Secretary may prescribe regulations providing that where, by reason of varying rates of interest, put or call options, indefinite maturities, contingent payments, assumptions of debt instruments, or other circumstances, the tax treatment under this subpart (or section 163(e)) does not carry out the purposes of this subpart (or section 163(e)), such treatment shall be modified to the extent appropriate to carry out the purposes of this subpart (or section 163(e)).
 
-(Added and amended Pub. L. 98–369, div. A, title I, §§41(a), 61(c)(2), July 18, 1984, 98 Stat. 540, 581;Pub. L. 99–514, title XVIII, §1804(f)(2)(A), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 101–508, title XI, §11325(a)(2), Nov. 5, 1990, 104 Stat. 1388–466; Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
+(Added and amended Pub. L. 98–369, div. A, title I, §§41(a), 61(c)(2), July 18, 1984, 98 Stat. 540, 581; Pub. L. 99–514, title XVIII, §1804(f)(2)(A), Oct. 22, 1986, 100 Stat. 2805; Pub. L. 100–647, title I, §1006(u)(4), Nov. 10, 1988, 102 Stat. 3427; Pub. L. 101–508, title XI, §11325(a)(2), Nov. 5, 1990, 104 Stat. 1388–466; Pub. L. 106–554, §1(a)(7) \[title III, §318(c)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–645.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted "subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to tax under subchapter L were it not so exempt)" for "subchapter L".
+<b>2000</b>—Subsec. (a)(1)(B)(ii). Pub. L. 106–554, in introductory provisions, substituted "subchapter L (or by an entity described in section 501(c) and exempt from tax under section 501(a) which would be subject to taxunder subchapter L were it not so exempt)" for "subchapter L".
 
 <b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–508 redesignated par. (5) as (4) and struck out former par. (4) which related to a special rule for determination of issue price in case of exchange of debt instruments in reorganization.
 
@@ -129,6 +131,8 @@ The Secretary may prescribe regulations providing that where, by reason of varyi
 <b>1986</b>—Subsec. (a)(4), (5). Pub. L. 99–514 redesignated par. (4), relating to treatment of obligations distributed to corporations, as (5), and substituted "by corporations" for "to corporations" in heading.
 
 <b>1984</b>—Subsec. (a)(4). Pub. L. 98–369, §61(c)(2), added par. (4) relating to treatment of obligations distributed to corporations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

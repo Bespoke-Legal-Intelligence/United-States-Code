@@ -34,7 +34,7 @@
 
 &emsp;(B) process may be served without regard to the territorial limits of the district or of the State in which the civil action is instituted.
 
-(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in suchaction for violation of any law or rule as alleged in such complaint.
+(6) Whenever a civil action or an administrative action has been instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission for violation of any provision of law or rule described in paragraph (1), no State may, during the pendency of such action instituted by or on behalf of the Bureau of Consumer Financial Protection or the Commission, institute a civil action under that paragraph against any defendant named in the complaint in such action for violation of any law or rule as alleged in such complaint.
 
 (7) If the attorney general of a State prevails in any civil action under paragraph (1), the State can recover reasonable costs and attorney fees from the lender or related party.
 

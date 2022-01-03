@@ -34,7 +34,7 @@ Applications for Membership or <sup>1</sup> Committee.—Persons who will be si
 
 (c)
 
-Period for Submission of Comments and Applications.—The agency shall provide for aperiod of at least 30 calendar days for the submission of comments and applications under this section.
+Period for Submission of Comments and Applications.—The agency shall provide for a period of at least 30 calendar days for the submission of comments and applications under this section.
 
 (Added Pub. L. 101–648, §3(a), Nov. 29, 1990, 104 Stat. 4971, §584; renumbered §564, Pub. L. 102–354, §3(a)(2), Aug. 26, 1992, 106 Stat. 944.)
 

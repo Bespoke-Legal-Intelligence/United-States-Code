@@ -16,9 +16,13 @@ Congress finds that—
 
 (Pub. L. 106–247, §2, July 20, 2000, 114 Stat. 593; Pub. L. 109–363, title III, §302(a), Oct. 17, 2006, 120 Stat. 2075.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Par. (1). Pub. L. 109–363 inserted "but breed in Canada and the United States" after "the Caribbean".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2006 Amendment
 

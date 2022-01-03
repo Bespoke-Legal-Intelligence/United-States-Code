@@ -16,7 +16,7 @@
 
 #### (b) Standards regarding evictions
 
-Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing ina dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
+Except as provided in section 1437n(e)(1)(B) <sup>1</sup> of this title, any tenant who is lawfully residing in a dwelling unit in a public housing project may not be evicted or otherwise required to vacate such unit because of the designation of the project (or portion of a project) pursuant to this section or because of any action taken by the Secretary or any public housing agency pursuant to this section.
 
 #### (c) Relocation assistance
 
@@ -86,13 +86,15 @@ A plan under this subsection for designating a project (or portion of a project)
 
 #### (3) Transition provision
 
-&emsp;Any application and allocation plan approved under this section (as in effect before March 28, 1996) before March 28, 1996, shall be considered to be a plan under subsection (d) that is in effect for purposes of this section forthe 5-year period beginning upon such approval.
+&emsp;Any application and allocation plan approved under this section (as in effect before March 28, 1996) before March 28, 1996, shall be considered to be a plan under subsection (d) that is in effect for purposes of this section for the 5-year period beginning upon such approval.
 
 #### (g) Inapplicability of Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970
 
 No tenant of a public housing project shall be considered to be displaced for purposes of the Uniform Relocation Assistance and Real Property Acquisitions Policy Act of 1970 \[42 U.S.C. 4601 et seq.\] because of the designation of any existing project or building, or portion thereof, for occupancy as provided under subsection (a) of this section.
 
 (Sept. 1, 1937, ch. 896, title I, §7, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 662; amended Pub. L. 95–557, title IV, §412, Oct. 31, 1978, 92 Stat. 2110; Pub. L. 100–242, title I, §112(b)(3), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; amended Pub. L. 102–550, title VI, §622(a), Oct. 28, 1992, 106 Stat. 3813; Pub. L. 104–99, title IV, §402(d)(6)(A)(ii), Jan. 26, 1996, 110 Stat. 42; Pub. L. 104–120, §10(a), Mar. 28, 1996, 110 Stat. 838; Pub. L. 104–330, title V, §501(b)(4), Oct. 26, 1996, 110 Stat. 4042; Pub. L. 105–276, title V, §595(d), Oct. 21, 1998, 112 Stat. 2656.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -121,6 +123,8 @@ Subsec. (a)(2). Pub. L. 104–99, which directed the temporary amendment of par.
 <b>1988</b>—Pub. L. 100–242 struck out "annual" before "contributions" in proviso.
 
 <b>1978</b>—Pub. L. 95–557 substituted "(1) low-rent housing which, as of January 1, 1979, was built or under construction, with which there is connected a central dining facility where wholesome and economical meals can be served to such occupants; or (2) low-rent housing constructed after, but not under construction prior to, January 1, 1979, connected with which there is a central dining facility to provide wholesome and economical meals for such occupants. Such occupants of congregate housing may also be provided with other supportive services appropriate to their needs under title IV of the Housing and Community Development Amendments of 1978" for "low-income housing (A) in which some or all of the dwelling units do not have kitchen facilities, and (B) connected with which there is a central dining facility to provide wholesome and economical meals for elderly and displaced families under terms and conditions prescribed by the public housing agency to permit a generally self-supporting operation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1996 Amendments
 

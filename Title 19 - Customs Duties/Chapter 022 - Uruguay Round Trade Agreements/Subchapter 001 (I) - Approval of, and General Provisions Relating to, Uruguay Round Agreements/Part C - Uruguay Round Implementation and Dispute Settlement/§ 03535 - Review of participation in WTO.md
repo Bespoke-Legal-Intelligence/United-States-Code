@@ -62,13 +62,19 @@ This section is enacted by the Congress—
 
 (Pub. L. 103–465, title I, §125, Dec. 8, 1994, 108 Stat. 4833.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 101(a) and 2(9) of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), are classified to sections 3511(a) and 3501(9), respectively, of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 130 of Pub. L. 103–465, set out as a note under section 3531 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Uruguay Round Agreements: Entry Into Force
 

@@ -38,7 +38,7 @@
 
 #### (3) Maximum reduction absent fraud
 
-&emsp;If a household received an overissuance of benefits without any member of the household being found ineligible to participate in theprogram under section 2015(b)(1) of this title and a State agency elects to reduce the allotment of the household under paragraph (1)(A), the State agency shall not reduce the monthly allotment of the household under paragraph (1)(A) by an amount in excess of the greater of—
+&emsp;If a household received an overissuance of benefits without any member of the household being found ineligible to participate in the program under section 2015(b)(1) of this title and a State agency elects to reduce the allotment of the household under paragraph (1)(A), the State agency shall not reduce the monthly allotment of the household under paragraph (1)(A) by an amount in excess of the greater of—
 
 &emsp;&emsp;(A) 10 percent of the monthly allotment of the household; or
 
@@ -118,9 +118,11 @@
 
 #### (d) Recovery of overissuance of benefits
 
-The amount of an overissuance of benefits, as determined under subsection (b)(1), that has notbeen recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
+The amount of an overissuance of benefits, as determined under subsection (b)(1), that has not been recovered pursuant to such subsection may be recovered from Federal pay (including salaries and pensions) as authorized by section 5514 of title 5 or a Federal income tax refund as authorized by section 3720A of title 31.
 
 (Pub. L. 88–525, §13, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–35, title I, §113, Aug. 13, 1981, 95 Stat. 363; Pub. L. 97–253, title I, §§177, 178, Sept. 8, 1982, 96 Stat. 781, 782; Pub. L. 99–198, title XV, §§1533–1535(a), Dec. 23, 1985, 99 Stat. 1583; Pub. L. 100–435, title VI, §§601, 602, Sept. 19, 1988, 102 Stat. 1674; Pub. L. 101–624, title XVII, §1746, Nov. 28, 1990, 104 Stat. 3796; Pub. L. 102–237, title IX, §911, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §§13941(b), 13951(a), Aug. 10, 1993, 107 Stat. 676, 677; Pub. L. 104–193, title VIII, §844(a), Aug. 22, 1996, 110 Stat. 2332; Pub. L. 107–171, title IV, §4118(b), May 13, 2002, 116 Stat. 321; Pub. L. 110–234, title IV, §§4115(b)(9), 4133, May 22, 2008, 122 Stat. 1107, 1116; Pub. L. 110–246, §4(a), title IV, §§4115(b)(9), 4133, June 18, 2008, 122 Stat. 1664, 1869, 1877; Pub. L. 113–79, title IV, §4020(b)(1), Feb. 7, 2014, 128 Stat. 798.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -165,6 +167,8 @@ Subsec. (b)(2). Pub. L. 97–253, §177(b), redesignated existing provisions, wh
 <b>1981</b>—Pub. L. 97–35 designated existing provisions as subsec. (a), inserted provisions relating to power to waive claims, and the power to otherwise reduce amounts, and added subsec. (b).
 
 <b>1977</b>—Pub. L. 95–113 substituted revised provisions relating to the determination and disposition of claims for provisions relating to administrative and judicial review which are now covered by section 2023 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

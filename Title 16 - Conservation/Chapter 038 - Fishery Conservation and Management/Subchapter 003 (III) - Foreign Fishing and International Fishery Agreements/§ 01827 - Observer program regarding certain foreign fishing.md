@@ -34,7 +34,7 @@ There is imposed for each year after 1980 on the owner or operator of each forei
 
 #### (e) Fund
 
-There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d). All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+There is established in the Treasury of the United States the Foreign Fishing Observer Fund. The Fund shall be available to the Secretary as a revolving fund for the purpose of carrying out this section. The Fund shall consist of the fees deposited into it as required under subsection (d). All payments made by the Secretary to carry out this section shall be paid from the Fund, only to the extent and in the amounts provided for in advance in appropriation Acts. Sums in the Fund which are not currently needed for the purposes of this section shall be kepton deposit or invested in obligations of, or guaranteed by, the United States.
 
 #### (f) Prohibited acts
 
@@ -54,6 +54,8 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 (Pub. L. 96–339, §2, Sept. 4, 1980, 94 Stat. 1069; Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -69,6 +71,8 @@ Section was not enacted as part of the Magnuson-Stevens Fishery Conservation and
 <b>1996</b>—Subsec. (a)(1). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

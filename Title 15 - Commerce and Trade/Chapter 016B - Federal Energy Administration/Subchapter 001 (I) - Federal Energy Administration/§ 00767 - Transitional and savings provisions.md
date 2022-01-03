@@ -40,13 +40,15 @@ With respect to any function transferred by this chapter and performed after the
 
 #### (h) Presidential functions, authorities, and delegations unaffected
 
-Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminate any function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegations of functions.
+Nothing contained in this chapter shall be construed to limit, curtail, abolish, or terminateany function of the President which he had immediately before the effective date of this chapter; or to limit, curtail, abolish, or terminate his authority to perform such function; or to limit, curtail, abolish, or terminate his authority to delegate, redelegate, or terminate any delegations of functions.
 
 #### (i) References to other provisions deemed references to such provisions as amended or supplemented
 
 Any reference in this chapter to any provision of law shall be deemed to include, as appropriate, references thereto as now or hereafter amended or supplemented.
 
 (Pub. L. 93–275, §8, May 7, 1974, 88 Stat. 103.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

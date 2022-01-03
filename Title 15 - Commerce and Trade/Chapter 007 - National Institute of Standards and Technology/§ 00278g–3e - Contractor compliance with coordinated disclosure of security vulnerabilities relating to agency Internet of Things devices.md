@@ -52,9 +52,13 @@ The prohibition under subsection (a)(1) shall take effect 2 years after December
 
 (Pub. L. 116–207, §7, Dec. 4, 2020, 134 Stat. 1005.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

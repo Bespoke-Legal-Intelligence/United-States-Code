@@ -12,15 +12,17 @@ R.S. §5236 derived from act June 3, 1864, ch. 106, §50, 13 Stat. 114, which wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–325 struck out ", after full provision has been first made for refunding to the United States any deficiency in redeeming the notes of such association" after "From time to time".
+<b>1994</b>—Pub. L. 103–325 struck out ", after full provision has been first made for refunding to the United Statesany deficiency in redeeming the notes of such association" after "From time to time".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Exception as to Transfer of Functions
-
-Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 
 #### Application to District of Columbia
 
 Provisions of this section were made applicable to banks, etc. in the District of Columbia by act Mar. 4, 1933, ch. 274, §4, 47 Stat. 1567.
+
+#### <b>Executive Documents</b>
+
+#### Exception as to Transfer of Functions
+
+Functions vested by any provision of law in Comptroller of the Currency, referred to in this section, not included in transfer of functions to Secretary of the Treasury, see note set out under section 1 of this title.
 

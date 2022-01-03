@@ -40,7 +40,9 @@ Effective Date of Election.—An election made by a person under subsection (a) 
 
 &emsp;&emsp;(B) the person retires from service in an active status within that 180-day period.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–164; amended Pub. L. 107–107, div. A, title X, §1048(a)(31), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 109–364, div. A, title X, §1071(a)(41), Oct. 17, 2006,120 Stat. 2400; Pub. L. 111–84, div. A, title VI, §643(a)–(c), (e)(1), Oct. 28, 2009, 123 Stat. 2366, 2367; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §653(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–164; amended Pub. L. 107–107, div. A, title X, §1048(a)(31), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 109–364, div. A, title X, §1071(a)(41), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 111–84, div. A, title VI, §643(a)–(c), (e)(1), Oct. 28, 2009, 123 Stat. 2366, 2367; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -71,6 +73,8 @@ Subsec. (d)(2)(A). Pub. L. 111–84, §643(c)(2), substituted "attains the eligi
 <b>2006</b>—Subsecs. (c), (d). Pub. L. 109–364 substituted "subsection (a)" for "subsection (b)".
 
 <b>2001</b>—Subsec. (a)(2). Pub. L. 107–107 substituted "receive" for "received".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

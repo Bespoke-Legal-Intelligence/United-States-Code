@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission, either upon complaint or otherwise, 
 
 #### (b) Action for injunction or criminal prosecution in district court
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin suchacts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
 
 #### (c) Writ of mandamus
 
@@ -16,7 +16,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (1) Authority of Commission
 
-&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered bythe Commission pursuant to section 77h–1 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
+&emsp;Whenever it shall appear to the Commission that any person has violated any provision of this subchapter, the rules or regulations thereunder, or a cease-and-desist order entered by the Commission pursuant to section 77h–1 of this title, other than by committing a violation subject to a penalty pursuant to section 78u–1 of this title, the Commission may bring an action in a United States district court to seek, and the court shall have jurisdiction to impose, upon a proper showing, a civil penalty to be paid by the person who committed such violation.
 
 #### (2) Amount of penalty
 
@@ -76,7 +76,9 @@ Except as otherwise ordered by the court upon motion by the Commission, or, in t
 
 &emsp;For purposes of this subsection, the term "person participating in an offering of penny stock" includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
 
-(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat.1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, §923(a)(1), July 21, 2010, 124 Stat. 1849.)
+(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795; Pub. L. 111–203, title IX, §923(a)(1), July 21, 2010, 124 Stat. 1849.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -96,6 +98,8 @@ Subsec. (g). Pub. L. 107–204, §603(b), added subsec. (g).
 
 Subsec. (c). Pub. L. 100–181, §208(b), amended subsec. (c) generally.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -111,6 +115,8 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 #### Construction of 1995 Amendment
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term "contract" means any repayment or water service contract between theUnited States and a district providing for the payment of construction charges to the United States including normal operation, maintenance, and replacement costs pursuant to Federal reclamation law.
+&emsp;(1) The term "contract" means any repayment or water service contract between the United States and a district providing for the payment of construction charges to the United States including normal operation, maintenance, and replacement costs pursuant to Federal reclamation law.
 
 &emsp;(2) The term "district" means any individual or any legal entity established under State law which has entered into a contract or is eligible to contract with the Secretary for irrigation water.
 
@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;(5) The term "irrigation water" means water made available for agricultural purposes from the operation of reclamation project facilities pursuant to a contract with the Secretary.
 
-&emsp;(6) The term "landholding" means total irrigable acreage of one or more tracts of land situated in one or more districts owned or operated under a lease which is served with irrigation water pursuant to a contract with the Secretary. In determining the extent of a landholding the Secretary shall add to any landholding held directly by a qualified or limited recipient that portion of any landholding held indirectly by such qualified or limited recipient which benefits that qualified or limited recipient in proportion to that landholding.
+&emsp;(6) The term "landholding" means total irrigable acreage of one or more tracts of land situated in one or more districts owned or operated under a lease which is served with irrigation water pursuant to a contract with the Secretary. In determining the extent of a landholding the Secretary shall add to any landholding held directly by a qualified or limited recipient that portion of any landholding held indirectly by such qualified orlimited recipient which benefits that qualified or limited recipient in proportion to that landholding.
 
 &emsp;(7) The term "limited recipient" means any legal entity established under State or Federal law benefiting more than twenty-five natural persons.
 

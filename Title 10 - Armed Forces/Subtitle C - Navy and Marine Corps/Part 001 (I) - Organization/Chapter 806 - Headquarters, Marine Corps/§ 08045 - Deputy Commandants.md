@@ -4,6 +4,8 @@ There are in the Headquarters, Marine Corps, not more than seven Deputy Commanda
 
 (Added Pub. L. 99–433, title V, §513(b), Oct. 1, 1986, 100 Stat. 1054, §5045; amended Pub. L. 106–398, §1 \[\[div. A\], title IX, §902(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–224; Pub. L. 107–314, div. A, title IX, §934, Dec. 2, 2002, 116 Stat. 2626; Pub. L. 114–328, div. A, title V, §503(c), Dec. 23, 2016, 130 Stat. 2107; renumbered §8045, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5045 of this title as this section.
@@ -14,7 +16,9 @@ There are in the Headquarters, Marine Corps, not more than seven Deputy Commanda
 
 <b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, text read as follows: "There are in the Headquarters, Marine Corps, a Chief of Staff, not more than five Deputy Chiefs of Staff, and not more than three Assistant Chiefs of Staff, detailed by the Secretary of the Navy from officers on the active-duty list of the Marine Corps."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

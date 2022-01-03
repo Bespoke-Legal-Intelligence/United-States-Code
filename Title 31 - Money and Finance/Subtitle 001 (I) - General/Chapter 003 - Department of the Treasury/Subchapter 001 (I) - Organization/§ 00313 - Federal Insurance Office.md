@@ -92,7 +92,7 @@ Confidentiality.—
 
 &emsp;&emsp;(A)
 
-Retention of privilege.—The submission of any nonpublicly available data andinformation to the Office under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
+Retention of privilege.—The submission of any nonpublicly available data and information to the Office under this subsection shall not constitute a waiver of, or otherwise affect, any privilege arising under Federal or State law (including the rules of any Federal or State court) to which the data or information is otherwise subject.
 
 &emsp;&emsp;(B)
 
@@ -146,7 +146,7 @@ Notice of potential inconsistency.—Before making any determination under parag
 
 &emsp;&emsp;(B)
 
-Scope of review.—For purposes of this subsection, any determination of the Director regarding State insurance measures, and any preemption under paragraph (1) as a result of such determination, shall be limited to the subject matter contained within the covered agreement involved and shall achieve a level of protection for insurance or reinsurance consumers that is substantially equivalent to the level of protection achieved under State insurance or reinsurance regulation.
+Scope of review.—For purposes of this subsection, any determination of the Director regarding State insurance measures, and any preemption under paragraph (1) as a result of such determination, shall be limited to the subject matter contained within the covered agreement involved and shallachieve a level of protection for insurance or reinsurance consumers that is substantially equivalent to the level of protection achieved under State insurance or reinsurance regulation.
 
 &emsp;&emsp;(C)
 
@@ -172,7 +172,7 @@ Limitation.—No State may enforce a State insurance measure to the extent that 
 
 (g)
 
-Applicability of Administrative Procedures Act.—Determinations of inconsistency made pursuant to subsection (f)(2) shall be subject to the applicable provisions of subchapter II of chapter 5 of title 5, United States Code (relating to administrative procedure), and chapter 7of such title (relating to judicial review), except that in any action for judicial review of a determination of inconsistency, the court shall determine the matter de novo.
+Applicability of Administrative Procedures Act.—Determinations of inconsistency made pursuant to subsection (f)(2) shall be subject to the applicable provisions of subchapter II of chapter 5 of title 5, United States Code (relating to administrative procedure), and chapter 7 of such title (relating to judicial review), except that in any action for judicial review of a determination of inconsistency, the court shall determine the matter de novo.
 
 (h)
 
@@ -232,7 +232,7 @@ Reports on U.S. and Global Reinsurance Market.—The Director shall submit to th
 
 &emsp;(1) a report received not later than September 30, 2012, describing the breadth and scope of the global reinsurance market and the critical role such market plays in supporting insurance in the United States; and
 
-&emsp;(2) a report received not later than January 1, 2013, and updated not later than January 1, 2015, describing the impact of part II of the Nonadmitted and Reinsurance Reform Act of 2010 on the ability of State regulators to access reinsurance information for regulated companies in their jurisdictions.
+&emsp;(2) a report received not later than January 1, 2013, and updated not later than January 1, 2015, describing the impact of part II of the Nonadmitted and Reinsurance Reform Act of2010 on the ability of State regulators to access reinsurance information for regulated companies in their jurisdictions.
 
 (p)
 
@@ -360,7 +360,7 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (c)(1)(B), is section 1204(c) of Pub. L. 101–73, which is set out as a note under section 1811 of Title 12, Banks and Banking.
 
-The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For completeclassification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(C), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title I of the Act, known as the Financial Stability Act of 2010, is classified principally to subchapter I (§5311 et seq.) of chapter 53 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12 and Tables.
 
 The Terrorism Risk Insurance Act of 2002, referred to in subsec. (c)(1)(D), is Pub. L. 107–297, Nov. 26, 2002, 116 Stat. 2322. Title I of the Act, relating to the Terrorism Insurance Program, is set out as a note under section 6701 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 6701 of Title 15 and Tables.
 
@@ -442,7 +442,7 @@ Joint report by the chairman of the federal reserve and the director of the fede
 
 &emsp;&emsp;"(A)
 
-In general.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall, in consultation with the National Association of Insurance Commissioners,complete a study on, and submit to Congress a report on the results of the study, the impact on consumers and markets in the United States before supporting or consenting to the adoption of any final international insurance capital standard.
+In general.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, and the Director of the Federal Insurance Office shall, in consultation with the National Association of Insurance Commissioners, complete a study on, and submit to Congress a report on the results of the study, the impact on consumers and markets in the United States before supporting or consenting to the adoption of any final international insurance capital standard.
 
 &emsp;&emsp;"(B)
 

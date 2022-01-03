@@ -18,7 +18,7 @@ With respect to a Puerto Rico Agency's activities related only to a Critical Pro
 
 #### (1) Written notice
 
-&emsp;A Critical Project Sponsor may in writing notify the Oversight Board of the failure of aPuerto Rico Agency or the Revitalization Coordinator to adhere to the Expedited Permitting Process.
+&emsp;A Critical Project Sponsor may in writing notify the Oversight Board of the failure of a Puerto Rico Agency or the Revitalization Coordinator to adhere to the Expedited Permitting Process.
 
 #### (2) Finding of failure
 

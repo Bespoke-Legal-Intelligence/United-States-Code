@@ -2,7 +2,7 @@
 
 #### (a) Rights and remedies of Corporation; State qualifications or similar statutes
 
-All rights and remedies of the Corporation, including without limitation on the generality of the foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
+All rights and remedies of the Corporation, including without limitation on the generality ofthe foregoing any rights and remedies of the Corporation on, under, or with respect to any mortgage or any obligation secured thereby, shall be immune from impairment, limitation, or restriction by or under (1) any law (except laws enacted by the Congress expressly in limitation of this sentence) which becomes effective after the acquisition by the Corporation of the subject or property on, under, or with respect to which such right or remedy arises or exists or would so arise or exist in the absence of such law, or (2) any administrative or other action which becomes effective after such acquisition. The Corporation is authorized to conduct its business without regard to any qualification or similar statute in any State.
 
 #### (b) Government audits; procedure; access to records, etc.; reimbursement of costs
 
@@ -34,7 +34,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 (1) The Corporation shall have an annual independent audit made of its financial statements by an independent public accountant in accordance with generally accepted auditing standards.
 
-(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presentedfairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B).
+(2) In conducting an audit under this subsection, the independent public accountant shall determine and report on whether the financial statements of the Corporation (A) are presented fairly in accordance with generally accepted accounting principles, and (B) to the extent determined necessary by the Director, comply with any disclosure requirements imposed under subsection (c)(2)(B).
 
 #### (e) Mortgage data collection and reporting requirements
 
@@ -98,7 +98,7 @@ All rights and remedies of the Corporation, including without limitation on the 
 
 &emsp;(J) describe in the aggregate the seller and servicer network of the Corporation, including the volume of mortgages purchased from minority-owned, women-owned, and community-oriented lenders, and any efforts to facilitate relationships with such lenders;
 
-&emsp;(K) describe the activities undertaken by the Corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, includinghow the Corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
+&emsp;(K) describe the activities undertaken by the Corporation with nonprofit and for-profit organizations and with State and local governments and housing finance agencies, including how the Corporation's activities support the objectives of comprehensive housing affordability strategies under section 12705 of title 42; and
 
 &emsp;(L) include any other information that the Director of the Federal Housing Finance Agency considers appropriate.
 

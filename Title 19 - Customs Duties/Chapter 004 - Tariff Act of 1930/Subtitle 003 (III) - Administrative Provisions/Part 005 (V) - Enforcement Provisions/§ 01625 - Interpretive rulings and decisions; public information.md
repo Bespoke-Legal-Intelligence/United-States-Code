@@ -28,11 +28,15 @@ The Secretary may make available in writing or through electronic media, in an e
 
 (June 17, 1930, ch. 497, title IV, §625, as added Pub. L. 95–410, title I, §112, Oct. 3, 1978, 92 Stat. 898; amended Pub. L. 103–182, title VI, §623, Dec. 8, 1993, 107 Stat. 2186; Pub. L. 104–295, §21(e)(14), Oct. 11, 1996, 110 Stat. 3531.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–295 made technical amendment to reference in original act which appears in text as reference to "this chapter".
 
 <b>1993</b>—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: "Within 120 days after issuing any precedential decision (including any ruling letter, internal advice memorandum, or protest review decision) under this chapter with respect to any customs transaction, the Secretary shall have such decision published in the Customs Bulletin or shall otherwise make such decision available for public inspection."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 
@@ -40,7 +44,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Study and Report Relating to Timeliness of Prospective Rulings
 
-Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent to which the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
+Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, required the Comptroller General, not later than 1 year after Aug. 6, 2002, to conduct a study and report to committees of Congress on the extent towhich the Office of Regulations and Rulings of the Customs Service had made improvements to decrease the time between requests for, and issuance of, prospective rulings relating to the proper classification, valuation, or marking of goods proposed to be imported into the United States.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

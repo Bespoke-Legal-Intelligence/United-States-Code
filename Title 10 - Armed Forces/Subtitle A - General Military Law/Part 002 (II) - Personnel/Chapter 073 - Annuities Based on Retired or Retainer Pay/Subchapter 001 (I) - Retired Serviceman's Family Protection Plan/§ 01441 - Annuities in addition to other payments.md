@@ -40,6 +40,8 @@ Aug. 1, 1956, ch. 837, §501(1), 70 Stat. 884.
 
 The change is made to reflect the amendment made by section 501(1) of the Servicemen's and Veterans' Survivor Benefits Act (70 Stat. 884) to section 11 of the Uniform Services Contingency Option Act of 1953 (restated in section 1441 of title 10).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–189 substituted "Department of Veterans Affairs" for "Veterans' Administration".
@@ -53,6 +55,8 @@ The change is made to reflect the amendment made by section 501(1) of the Servic
 <b>1958</b>—Pub. L. 85–861 inserted "except section 1115 of title 38" after "Administration".
 
 Pub. L. 85–857 substituted "section 415(g) of title 38" for "section 1115 of title 38".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

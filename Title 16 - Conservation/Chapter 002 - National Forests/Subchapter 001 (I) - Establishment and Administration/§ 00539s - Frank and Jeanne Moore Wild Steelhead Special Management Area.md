@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(6) Frank Moore has been recognized for his conservation work with the National Wildlife Federation Conservationist of the Year award, the Wild Steelhead Coalition Conservation Award, and his 2010 induction into the Fresh Water Fishing Hall of Fame; and
 
-&emsp;(7) in honor of the many accomplishments of Frank Moore, both on and off the river, approximately 99,653 acres of Forest Service landin the State of Oregon should be designated as the "Frank and Jeanne Moore Wild Steelhead Special Management Area".
+&emsp;(7) in honor of the many accomplishments of Frank Moore, both on and off the river, approximately 99,653 acres of Forest Service land in the State of Oregon should be designated as the "Frank and Jeanne Moore Wild Steelhead Special Management Area".
 
 #### (b) Definitions
 

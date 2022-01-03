@@ -30,7 +30,7 @@ In this subchapter:
 
 #### (4) Teacher, principal, or other school leader preparation academy
 
-&emsp;The term "teacher, principal, or other school leader preparation academy" means a public or other nonprofit entity, which may be an institution of higher education or an organization affiliated with an institution of higher education, that establishes an academy that will prepare teachers, principals, or other school leaders to serve in high-needs schools, and that—
+&emsp;The term "teacher, principal, or other school leader preparation academy" means apublic or other nonprofit entity, which may be an institution of higher education or an organization affiliated with an institution of higher education, that establishes an academy that will prepare teachers, principals, or other school leaders to serve in high-needs schools, and that—
 
 &emsp;&emsp;(A) enters into an agreement with a State authorizer that specifies the goals expected of the academy, including—
 
@@ -76,6 +76,8 @@ In this subchapter:
 
 (Pub. L. 89–10, title II, §2002, as added Pub. L. 114–95, title II, §2002, Dec. 10, 2015, 129 Stat. 1914.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6602, Pub. L. 89–10, title II, §2102, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620, defined terms in part A of former subchapter II of this chapter, prior to repeal by Pub. L. 114–95, §5, title II, §2002, Dec. 10, 2015, 129 Stat. 1806, 1913, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
@@ -83,6 +85,8 @@ A prior section 6602, Pub. L. 89–10, title II, §2102, as added Pub. L. 107–
 Another prior section 6602, Pub. L. 89–10, title II, §2002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3613, set forth purposes of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 2002 of Pub. L. 89–10 was classified to section 2982 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

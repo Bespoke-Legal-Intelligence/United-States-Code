@@ -20,7 +20,7 @@ In this subchapter:
 
 #### (5) Iranian diplomats and representatives of other government and military or quasi-governmental institutions of Iran
 
-&emsp;The term "Iranian diplomat or representative of another government or military or quasi-governmental institution of Iran"means any of the Iranian diplomats and representatives of other government and military or quasi-governmental institutions of Iran (as that term is defined in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note)).
+&emsp;The term "Iranian diplomat or representative of another government or military or quasi-governmental institution of Iran" means any of the Iranian diplomats and representatives of other government and military or quasi-governmental institutions of Iran (as that term is defined in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note)).
 
 #### (6) Knowingly
 

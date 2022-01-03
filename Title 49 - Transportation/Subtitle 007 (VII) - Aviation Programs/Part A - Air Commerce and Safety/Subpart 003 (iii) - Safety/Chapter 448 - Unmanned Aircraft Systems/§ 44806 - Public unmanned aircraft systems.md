@@ -6,7 +6,7 @@ Guidance.—The Secretary of Transportation shall issue guidance regarding the o
 
 &emsp;(1) to streamline and expedite the process for the issuance of a certificate of authorization or a certificate of waiver;
 
-&emsp;(2) to facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test and operate public unmanned aircraft systems; and
+&emsp;(2) to facilitate the capability of public agencies to develop and use test ranges, subject to operating restrictions required by the Federal Aviation Administration, to test andoperate public unmanned aircraft systems; and
 
 &emsp;(3) to provide guidance on a public agency's responsibilities when operating an unmanned aircraft without a civil airworthiness certificate issued by the Administration.
 
@@ -90,6 +90,8 @@ Federal Agency Coordination to Enhance the Public Health and Safety Capabilities
 
 (Added Pub. L. 115–254, div. B, title III, §346(a), Oct. 5, 2018, 132 Stat. 3294.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this Act, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
@@ -97,6 +99,8 @@ The date of enactment of this Act, referred to in subsec. (c)(1), is the date of
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in section 334(a) and (c) of Pub. L. 112–95, which was set out in a note under section 40101 of this title, prior to repeal by Pub. L. 115–254, div. B, title III, §346(b)(2), Oct. 5, 2018, 132 Stat. 3295. The remainder of the note comprised of subtitle B of title III of Pub. L. 112–95 was transferred and is set out under section 44802 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Public UAS Access to Special Use Airspace
 

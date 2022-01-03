@@ -26,7 +26,7 @@ Contents.—Any rulemaking conducted under subsection (a) shall provide for the 
 
 &emsp;(5)
 
-Small uas.—The Secretary may amend part 298 of title 14, Code of Federal Regulations, to update existing regulations to establish economic authority for the carriage of property by small unmanned aircraft systemsfor compensation or hire. Such authority shall only require—
+Small uas.—The Secretary may amend part 298 of title 14, Code of Federal Regulations, to update existing regulations to establish economic authority for the carriage of property by small unmanned aircraft systems for compensation or hire. Such authority shall only require—
 
 &emsp;&emsp;(A) registration with the Department of Transportation;
 
@@ -39,6 +39,8 @@ Small uas.—The Secretary may amend part 298 of title 14, Code of Federal Regul
 Availability of current certification processes.—Pending completion of the rulemaking required in subsection (a) of this section, a person may seek an air carrier operating certificate and certificate of public convenience and necessity, or an exemption from such certificate, using existing processes.
 
 (Added Pub. L. 115–254, div. B, title III, §348(a), Oct. 5, 2018, 132 Stat. 3297.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

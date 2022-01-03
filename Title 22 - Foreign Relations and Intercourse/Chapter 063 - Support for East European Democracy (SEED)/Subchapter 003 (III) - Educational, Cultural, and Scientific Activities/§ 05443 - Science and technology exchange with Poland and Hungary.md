@@ -24,7 +24,7 @@ There are authorized to be appropriated to the Secretary of State for purposes o
 
 For purposes of this section—
 
-&emsp;(1) the term "1987 United States-Polish science and technology agreement" refers to the agreement concluded in 1987 by the UnitedStates and Poland, entitled "Agreement Between the Government of the United States of America and the Polish People's Republic on Cooperation in Science and Technology and Its Funding", together with annexes relating thereto; and
+&emsp;(1) the term "1987 United States-Polish science and technology agreement" refers to the agreement concluded in 1987 by the United States and Poland, entitled "Agreement Between the Government of the United States of America and the Polish People's Republic on Cooperation in Science and Technology and Its Funding", together with annexes relating thereto; and
 
 &emsp;(2) the term "1989 United States-Hungarian science and technology agreement" refers to the agreement concluded in 1989 by the United States and Hungary, entitled "Agreement Between the Government of the United States of America and the Government of the Hungarian People's Republic for Scientific and Technology Cooperation", together with annexes relating thereto.
 

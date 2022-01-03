@@ -40,7 +40,7 @@
 
 #### (2) Competitions
 
-&emsp;The efforts required by paragraph (1) shall include carrying out programs to award prizes,including cash and noncash prizes, competitively pursuant to the authorities and processes established under section 3719 of this title or any other applicable provision of law.
+&emsp;The efforts required by paragraph (1) shall include carrying out programs to award prizes, including cash and noncash prizes, competitively pursuant to the authorities and processes established under section 3719 of this title or any other applicable provision of law.
 
 #### (3) Additional authorities
 

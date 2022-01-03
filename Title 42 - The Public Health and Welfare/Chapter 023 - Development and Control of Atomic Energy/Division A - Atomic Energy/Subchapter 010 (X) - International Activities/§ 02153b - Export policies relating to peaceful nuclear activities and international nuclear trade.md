@@ -1,6 +1,6 @@
 ### §2153b. Export policies relating to peaceful nuclear activities and international nuclear trade
 
-The President shall take immediate and vigorous steps to seek agreement from all nations and groups of nations to commit themselves toadhere to the following export policies with respect to their peaceful nuclear activities and their participation in international nuclear trade:
+The President shall take immediate and vigorous steps to seek agreement from all nations and groups of nations to commit themselves to adhere to the following export policies with respect to their peaceful nuclear activities and their participation in international nuclear trade:
 
 #### (a) Undertakings by transferee nations receiving nuclear material and equipment or sensitive nuclear technology
 
@@ -32,13 +32,19 @@ Nothing in this section shall be interpreted to require international control or
 
 (Pub. L. 95–242, title IV, §403, Mar. 10, 1978, 92 Stat. 146.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

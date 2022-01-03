@@ -1,6 +1,6 @@
 ### §3512. Executive agency accounting and other financial management reports and plans
 
-(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on a website described in section 1122 a financial management status report and agovernmentwide 5-year financial management plan.
+(a)(1) The Director of the Office of Management and Budget shall prepare and submit to the appropriate committees of the Congress and make available on a website described in section 1122 a financial management status report and a governmentwide 5-year financial management plan.
 
 (2) A financial management status report under this subsection shall include—
 
@@ -368,7 +368,7 @@ Time period for compliance.—A remediation plan shall bring the agency's financ
 
 &emsp;&emsp;"(A) determines that the agency's financial management systems cannot comply with the requirements of subsection (a) within 3 years;
 
-&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems intocompliance with the requirements of subsection (a); and
+&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems into compliance with the requirements of subsection (a); and
 
 &emsp;&emsp;"(C) designates an official of the agency who shall be responsible for bringing the agency's financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
 

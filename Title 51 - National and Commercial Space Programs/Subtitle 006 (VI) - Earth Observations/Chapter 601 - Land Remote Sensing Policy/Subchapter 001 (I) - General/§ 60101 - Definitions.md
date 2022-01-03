@@ -10,7 +10,7 @@ Cost of fulfilling user requests.—The term "cost of fulfilling user requests" 
 
 Data continuity.—The term "data continuity" means the continued acquisition and availability of unenhanced data which are, from the point of view of the user—
 
-&emsp;&emsp;(A) sufficiently consistent (in terms of acquisition geometry, coverage characteristics, and spectral characteristics) with previous Landsat data to allow comparisons forglobal and regional change detection and characterization; and
+&emsp;&emsp;(A) sufficiently consistent (in terms of acquisition geometry, coverage characteristics, and spectral characteristics) with previous Landsat data to allow comparisons for global and regional change detection and characterization; and
 
 &emsp;&emsp;(B) compatible with such data and with methods used to receive and process such data.
 

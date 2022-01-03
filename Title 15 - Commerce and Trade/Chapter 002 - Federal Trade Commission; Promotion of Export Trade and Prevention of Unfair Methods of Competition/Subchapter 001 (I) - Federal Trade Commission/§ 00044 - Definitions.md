@@ -26,6 +26,8 @@ The words defined in this section shall have the following meaning when found in
 
 <i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
@@ -53,6 +55,8 @@ The Act entitled "An Act to supplement existing laws against unlawful restraints
 <b>1991</b>—Pub. L. 102–242 added par. defining "Banks".
 
 <b>1938</b>—Act Mar. 21, 1938, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2006 Amendment
 

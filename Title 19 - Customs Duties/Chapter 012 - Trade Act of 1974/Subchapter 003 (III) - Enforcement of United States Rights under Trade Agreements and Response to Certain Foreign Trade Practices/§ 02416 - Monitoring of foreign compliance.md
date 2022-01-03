@@ -66,7 +66,9 @@ Before making any determination under subsection (b) or (c), the Trade Represent
 
 &emsp;(2) provide an opportunity for the presentation of views by interested persons.
 
-(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299; amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293; Pub. L. 114–125, title VI, §602(a), (b)(2), (3), Feb. 24, 2016, 130 Stat. 184.)
+(Pub. L. 93–618, title III, §306, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 299;amended Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1173; Pub. L. 103–465, title III, §314(e), Dec. 8, 1994, 108 Stat. 4941; Pub. L. 104–295, §20(c)(1), Oct. 11, 1996, 110 Stat. 3528; Pub. L. 106–200, title IV, §407, May 18, 2000, 114 Stat. 293; Pub. L. 114–125, title VI, §602(a), (b)(2), (3), Feb. 24, 2016, 130 Stat. 184.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -96,9 +98,11 @@ In General.—The Trade Representative shall monitor the implementation of each 
 
 "(b)
 
-Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what furtheraction the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title."
+Further Action.—If, on the basis of the monitoring carried out under subsection (a) of this section, the Trade Representative considers that a foreign country is not satisfactorily implementing a measure or agreement referred to in subsection (a) of this section, the Trade Representative shall determine what further action the Trade Representative shall take under section 2411(a) of this title. For purposes of section 2411 of this title, any such determination shall be treated as a determination made under section 2414(a)(1) of this title."
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to monitoring of foreign compliance for provisions relating to administration. See section 2419 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

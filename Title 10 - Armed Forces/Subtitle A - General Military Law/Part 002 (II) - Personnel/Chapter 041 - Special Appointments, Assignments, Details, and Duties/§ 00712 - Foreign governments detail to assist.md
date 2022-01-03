@@ -40,11 +40,15 @@ In subsection (a), the words "and the Commonwealth of the Philippine Islands", i
 
 In subsection (b), the words "entitled to credit for all service" are substituted for the words "and shall be allowed the same credit for longevity, retirement, and for all other purposes", in 10:540 and 34:441a.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, and Space Force" for "and Marine Corps" in introductory provisions.
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–477 struck out provisions which authorized members of the armed forces to accept compensation or emoluments from countries to which they are detailed, and inserted provisions permitting arrangements for reimbursement or other sharing of cost.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

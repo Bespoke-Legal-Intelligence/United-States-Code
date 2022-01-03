@@ -102,6 +102,8 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 (July 1, 1944, ch. 373, title V, §520E–2, as added Pub. L. 108–355, §3(d), Oct. 21, 2004, 118 Stat. 1413; amended Pub. L. 114–255, div. B, title IX, §9031, Dec. 13, 2016, 130 Stat. 1257.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–255, §9031(1), substituted "health and substance use disorder" for "and behavioral health" in section catchline.
@@ -139,6 +141,8 @@ Subsec. (f)(2). Pub. L. 114–255, §9031(7), substituted "health and substance 
 Subsec. (h). Pub. L. 114–255, §9031(9), added subsec. (h). Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 114–255, §9031(8), (10), redesignated subsec. (h) as (i) and substituted "$7,000,000 for each of fiscal years 2018 through 2022." for "$5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Interagency Working Group on College Mental Health
 
@@ -182,7 +186,7 @@ Duties.—The Task Force shall—
 
 &emsp;&emsp;"(F) develop a strategy for allocating responsibilities and ensuring participation in mental and behavioral health promotion, particularly in the case of competing agency priorities;
 
-&emsp;&emsp;"(G) coordinate plans to communicate research results relating to mental and behavioral healthamongst the age population of students attending institutions of higher education to enable reporting and outreach activities to produce more useful and timely information;
+&emsp;&emsp;"(G) coordinate plans to communicate research results relating to mental and behavioral health amongst the age population of students attending institutions of higher education to enable reporting and outreach activities to produce more useful and timely information;
 
 &emsp;&emsp;"(H) provide a description of evidence-based practices, model programs, effective guidelines, and other strategies for promoting mental and behavioral health on campuses of institutions of higher education;
 

@@ -16,9 +16,13 @@ The Congress finds and declares that—
 
 (Pub. L. 88–452, title X, §1001, as added Pub. L. 93–355, §2, July 25, 1974, 88 Stat. 378; amended Pub. L. 95–222, §2, Dec. 28, 1977, 91 Stat. 1619.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1977</b>—Par. (3). Pub. L. 95–222 inserted provision relating to assistance in improving opportunities for low-income persons consistent with this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

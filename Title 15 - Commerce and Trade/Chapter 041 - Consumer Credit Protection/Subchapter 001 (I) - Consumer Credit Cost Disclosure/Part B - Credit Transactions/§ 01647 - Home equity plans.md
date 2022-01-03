@@ -2,7 +2,7 @@
 
 #### (a) Index requirement
 
-In the case of extensions of credit under an open end consumer credit plan which are subjectto a variable rate and are secured by a consumer's principal dwelling, the index or other rate of interest to which changes in the annual percentage rate are related shall be based on an index or rate of interest which is publicly available and is not under the control of the creditor.
+In the case of extensions of credit under an open end consumer credit plan which are subject to a variable rate and are secured by a consumer's principal dwelling, the index or other rate of interest to which changes in the annual percentage rate are related shall be based on an index or rate of interest which is publicly available and is not under the control of the creditor.
 
 #### (b) Grounds for acceleration of outstanding balance
 
@@ -72,11 +72,15 @@ If any term or condition described in section 1637a(a) of this title which is di
 
 (Pub. L. 90–321, title I, §137, as added Pub. L. 100–709, §3, Nov. 23, 1988, 102 Stat. 4731; amended Pub. L. 103–325, title I, §154(c), Sept. 23, 1994, 108 Stat. 2197; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (c)(4)(B). Pub. L. 111–203 substituted "Bureau" for "Board" in heading and text.
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–325 inserted at end "This subsection does not apply to reverse mortgage transactions."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

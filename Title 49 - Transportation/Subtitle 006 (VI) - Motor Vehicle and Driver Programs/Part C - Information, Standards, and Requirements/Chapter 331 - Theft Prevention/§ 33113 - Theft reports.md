@@ -74,7 +74,7 @@ Motor Vehicle Report.—Not later than October 25, 1997, the Secretary shall sub
 
 &emsp;&emsp;(E) to have benefits greater than the costs of the identification; and
 
-&emsp;(10) other relevant and reliable information available to the Secretary about the impact, including the beneficial impact, of the laws set forth in titles II and III of the Motor Vehicle Theft Law Enforcement Act of 1984 on law enforcement, consumers, and manufacturers; and
+&emsp;(10) other relevant and reliable information available to the Secretary about the impact, including the beneficial impact, of the laws set forth in titles II and III of the Motor VehicleTheft Law Enforcement Act of 1984 on law enforcement, consumers, and manufacturers; and
 
 &emsp;(11) recommendations (including, as appropriate, legislative and administrative recommendations) for—
 
@@ -135,6 +135,8 @@ In subsection (a), before clause (1), the words "October 25, 1995" are substitut
 In subsection (b), before clause (1), the words "October 25, 1997" are substituted for "5 years after October 25, 1992" (the date of enactment of the Anti-Car Theft Act of 1992) for clarity and to eliminate unnecessary words. In clause (1)(B), the word "accuracy" is omitted as redundant. In clause (2), the words "distributed for sale in interstate commerce that are" are substituted for "for all such motor vehicles distributed for sale in interstate commerce" for clarity. In clause (9)(A), the word "decrease" is substituted for "have . . . a beneficial impact in decreasing" for consistency and to eliminate unnecessary words.
 
 In subsection (c)(1)(C), the words "carrying out" are substituted for "the implementation, administration, and enforcement" for consistency and to eliminate unnecessary words.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

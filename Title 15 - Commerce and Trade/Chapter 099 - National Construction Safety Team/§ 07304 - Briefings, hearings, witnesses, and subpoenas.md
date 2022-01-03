@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths,and require, by subpoena (pursuant to subsection (e)) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
+The Director or his designee, on behalf of a Team, may conduct hearings, administer oaths, and require, by subpoena (pursuant to subsection (e)) and otherwise, necessary witnesses and evidence as necessary to carry out this chapter.
 
 #### (b) Briefings
 
@@ -29,6 +29,8 @@ A subpoena shall be issued only under the signature of the Director but may be s
 If a person disobeys a subpoena issued by the Director under this chapter, the Attorney General, acting on behalf of the Director, may bring a civil action in a district court of the United States to enforce the subpoena. An action under this subsection may be brought in the judicial district in which the person against whom the action is brought resides, is found, or does business. The court may punish a failure to obey an order of the court to comply with the subpoena as a contempt of court.
 
 (Pub. L. 107–231, §5, Oct. 1, 2002, 116 Stat. 1474.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -22,6 +22,8 @@ Notwithstanding any other provision of law or previous declaration made by the S
 
 (Pub. L. 107–171, title I, §1310, May 13, 2002, 116 Stat. 182.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 1310 of Pub. L. 107–171. Subsec. (a) of section 1310 of Pub. L. 107–171 amended sections 1428 and 1441 of this title and repealed 7271 of this title.

@@ -110,7 +110,7 @@ Sec. 2. <i>Government Pro Bono and Volunteer Service</i>. All Federal agencies s
 
 Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do Not Unduly Burden the Federal Court System.</i>
 
-(a) <i>General Duty to Review Legislation and Regulations</i>. Within current budgetary constraints and existing executive branch coordination mechanisms and procedures established in OMB Circular A-19 and Executive Order No. 12866 \[5 U.S.C. 601 note\], each agency promulgating new regulations, reviewing existing regulations,developing legislative proposals concerning regulations, and developing new legislation shall adhere to the following requirements:
+(a) <i>General Duty to Review Legislation and Regulations</i>. Within current budgetary constraints and existing executive branch coordination mechanisms and procedures established in OMB Circular A-19 and Executive Order No. 12866 \[5 U.S.C. 601 note\], each agency promulgating new regulations, reviewing existing regulations, developing legislative proposals concerning regulations, and developing new legislation shall adhere to the following requirements:
 
 (1) The agency's proposed legislation and regulations shall be reviewed by the agency to eliminate drafting errors and ambiguity;
 
@@ -142,7 +142,7 @@ Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do N
 
 (J) specifies whether State courts have jurisdiction under the law and, if so, whether and under what conditions an action would be removable to Federal court;
 
-(K) specifies whether administrative proceedings are to be required before parties may file suit in court and, if so, describes those proceedings and requires the exhaustion of administrative remedies;
+(K) specifies whether administrative proceedings are to be required before parties may file suit in court and,if so, describes those proceedings and requires the exhaustion of administrative remedies;
 
 (L) sets forth the standards governing the assertion of personal jurisdiction, if any;
 
@@ -204,7 +204,7 @@ Sec. 8. <i>Scope.</i>
 
 (b) <i>Application of Notice Provision</i>. Notice pursuant to subsection (a) of section 1 is not required (1) in any action to seize or forfeit assets subject to forfeiture or in any action to seize property; (2) in any bankruptcy, insolvency, conservatorship, receivership, or liquidation proceeding; (3) when the assets that are the subject of the action or that would satisfy the judgment are subject to flight, dissipation, or destruction; (4) when the defendant is subject to flight; (5) when, as determined by litigation counsel, exigent circumstances make providing such notice impracticable or such notice would otherwise defeat the purpose of the litigation, such as in actions seeking temporary restraining orders or preliminary injunctive relief; or (6) in those limited classes of cases where the Attorney General determines that providing such notice would defeat the purpose of the litigation.
 
-(c) <i>Additional Guidance as to Scope</i>. The Attorney General shall have the authority to issue further guidance as to the scope of this order, except section 3, consistent with the purposes of this order.
+(c) <i>Additional Guidance as to Scope</i>. The Attorney General shall have the authority to issue further guidanceas to the scope of this order, except section 3, consistent with the purposes of this order.
 
 Sec. 9. <i>Conflicts with Other Rules</i>. Nothing in this order shall be construed to require litigation counsel or any agency to act in a manner contrary to the Federal Rules of Civil Procedure \[28 U.S.C. App.\], Tax Court Rules of Practice and Procedure, State or Federal law, other applicable rules of practice or procedure, or court order.
 

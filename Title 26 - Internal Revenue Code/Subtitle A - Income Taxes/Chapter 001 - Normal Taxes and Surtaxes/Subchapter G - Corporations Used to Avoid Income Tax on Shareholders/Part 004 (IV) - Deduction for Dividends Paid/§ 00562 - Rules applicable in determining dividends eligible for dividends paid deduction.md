@@ -48,7 +48,9 @@ In the case where a corporation which is a member of an affiliated group of corp
 
 &emsp;&emsp;(B) such failure is of a type of failure which the Secretary has identified for purposes of this paragraph as being described in subparagraph (A).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, §413(c)(9), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 111–325, title III, §307(a), (b), Dec. 22, 2010, 124 Stat. 3550; Pub. L. 114–113, div. Q, title III, §§314(a), (b), 315(a), 320(b), Dec. 18, 2015, 129 Stat. 3093, 3097.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 198; Pub. L. 88–272, title II, §225(f)(3), Feb. 26, 1964, 78 Stat. 88; Pub. L. 97–248, title II, §222(e)(7), Sept. 3, 1982, 96 Stat. 480; Pub. L. 97–448, title I, §102(c)(2), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 99–514, title VI, §657(a), title XVIII, §1804(d)(1), Oct. 22, 1986, 100 Stat. 2299, 2800; Pub. L. 108–357, title IV, §413(c)(9), Oct. 22, 2004, 118 Stat. 1507; Pub. L. 111–325, title III, §307(a), (b), Dec. 22, 2010, 124 Stat. 3550; Pub. L. 114–113, div. Q, title III, §§314(a), (b), 315(a), 320(b), Dec. 18, 2015, 129 Stat. 3093, 3097.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -76,6 +78,8 @@ Subsec. (c). Pub. L. 99–514, §657(a), inserted at end "In the case of a distr
 
 <b>1964</b>—Subsec. (b). Pub. L. 88–272 designated existing provisions as subpars. (A) and (B) of par. (1), excepted personal holding companies in section 542, and foreign personal holding companies in section 552 therefrom, and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Pub. L. 114–113, div. Q, title III, §314(c), Dec. 18, 2015, 129 Stat. 3093, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions in taxable years beginning after December 31, 2014."
@@ -96,7 +100,7 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 Pub. L. 99–514, title VI, §657(b), Oct. 22, 1986, 100 Stat. 2299, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
-Pub. L. 99–514, title XVIII, §1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after September 27, 1985."
+Pub. L. 99–514, title XVIII, §1804(d)(2), Oct. 22, 1986, 100 Stat. 2800, provided that: "The amendment made byparagraph (1) \[amending this section\] shall apply to distributions after September 27, 1985."
 
 #### Effective Date of 1983 Amendment
 

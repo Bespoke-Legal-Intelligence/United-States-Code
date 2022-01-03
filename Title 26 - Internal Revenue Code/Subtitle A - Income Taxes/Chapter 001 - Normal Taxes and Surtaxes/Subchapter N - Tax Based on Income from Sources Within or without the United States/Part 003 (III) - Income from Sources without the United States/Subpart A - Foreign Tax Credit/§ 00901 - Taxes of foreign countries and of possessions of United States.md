@@ -2,7 +2,7 @@
 
 #### (a) Allowance of credit
 
-If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chapter shall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under section 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
+If the taxpayer chooses to have the benefits of this subpart, the tax imposed by this chaptershall, subject to the limitation of section 904, be credited with the amounts provided in the applicable paragraph of subsection (b) plus, in the case of a corporation, the taxes deemed to have been paid under section 960. Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year. The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 26(b).
 
 #### (b) Amount allowed
 
@@ -144,7 +144,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;Paragraph (1) shall not apply with respect to taxes paid or accrued to a country if the President—
 
-&emsp;&emsp;&emsp;(i) determines that a waiver of the application of such paragraph is in the national interest of the United States and will expand trade and investment opportunitiesfor United States companies in such country; and
+&emsp;&emsp;&emsp;(i) determines that a waiver of the application of such paragraph is in the national interest of the United States and will expand trade and investment opportunities for United States companies in such country; and
 
 &emsp;&emsp;&emsp;(ii) reports such waiver under subparagraph (B).
 
@@ -324,7 +324,7 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 
 &emsp;&emsp;&emsp;Except as otherwise provided by the Secretary, in the case of the disposition of any relevant foreign asset—
 
-&emsp;&emsp;&emsp;&emsp;(I) the basis difference allocated to the taxable year which includes the date of such disposition shall be the excess of the basis difference with respect to such asset over the aggregate basis difference with respect to such asset which has been allocated under clause (i) to all prior taxable years, and
+&emsp;&emsp;&emsp;&emsp;(I) the basis difference allocated to the taxable year which includes the date ofsuch disposition shall be the excess of the basis difference with respect to such asset over the aggregate basis difference with respect to such asset which has been allocated under clause (i) to all prior taxable years, and
 
 &emsp;&emsp;&emsp;&emsp;(II) no basis difference with respect to such asset shall be allocated under clause (i) to any taxable year thereafter.
 
@@ -373,6 +373,8 @@ Any income, war profits, or excess profits tax shall not be treated as a tax for
 &emsp;&emsp;<b>(4) For reduction of credit for failure of a United States person to furnish certain information with respect to a foreign corporation or partnership controlled by him, see section 6038.</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 285; Pub. L. 86–780, §3(a), (b), Sept. 14, 1960, 74 Stat. 1013; Pub. L. 87–834, §§9(d)(3), 12(b)(1), Oct. 16, 1962, 76 Stat. 1001, 1031; Pub. L. 88–272, title II, §207(b)(7), Feb. 26, 1964, 78 Stat. 42; Pub. L. 89–384, §1(c)(2), Apr. 8, 1966, 80 Stat. 102; Pub. L. 89–809, title I, §106(a)(4), (5), (b)(1), (2), Nov. 13, 1966, 80 Stat. 1569; Pub. L. 91–172, title III, §301(b)(9), title V, §506(a), Dec. 30, 1969, 83 Stat. 585, 634; Pub. L. 92–178, title V, §502(b)(1), Dec. 10, 1971, 85 Stat. 549; Pub. L. 93–406, title II, §§2001(g)(2)(C), 2002(g)(3), 2005(c)(5), Sept. 2, 1974, 88 Stat. 957, 968, 991; Pub. L. 94–12, title VI, §601(b), Mar. 29, 1975, 89 Stat. 57; Pub. L. 94–455, title X, §§1031(b)(1), 1051(d), title XIX, §1901(b)(1)(H)(iii), (37)(A), Oct. 4, 1976, 90 Stat. 1622, 1645, 1791, 1803; Pub. L. 95–600, title VII, §701(u)(1)(A), (B), Nov. 6, 1978, 92 Stat. 2912; Pub. L. 97–248, title II, §201(d)(8)(A), formerly §201(c)(8)(A), §265(b)(2)(A)(iv), Sept. 3, 1982, 96 Stat. 420, 547, renumbered §201(d)(8)(A), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §474(r)(20), title VI, §612(e)(1), title VII, §713(c)(1)(C), title VIII, §801(d)(1), July 18, 1984, 98 Stat. 843, 912, 957, 995; Pub. L. 99–509, title VIII, §8041(a), Oct. 21, 1986, 100 Stat. 1962; Pub. L. 99–514, title I, §112(b)(3), title XII, §1204(a), title XVIII, §1876(p)(2), Oct. 22, 1986, 100 Stat. 2109, 2532, 2902; Pub. L. 100–203, title X, §10231(a), (b), Dec. 22, 1987, 101 Stat. 1330–418, 1330–419; Pub. L. 100–647, title I, §1012(j), title II, §2003(c)(1), Nov. 10, 1988, 102 Stat. 3512, 3598; Pub. L. 103–149, §4(b)(8)(A), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 104–188, title I, §1904(b)(2), Aug. 20, 1996, 110 Stat. 1912; Pub. L. 105–34, title X, §1053(a), title XI, §1142(e)(4), Aug. 5, 1997, 111 Stat. 941, 983; Pub. L. 105–206, title VI, §6010(k)(3), July 22, 1998, 112 Stat. 815; Pub. L. 106–200, title VI, §601(a), May 18, 2000, 114 Stat. 305; Pub. L. 108–311, title IV, §406(g), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 108–357, title IV, §405(b), title VIII, §832(a), (b), Oct. 22, 2004, 118 Stat. 1498, 1587, 1588; Pub. L. 109–135, title IV, §403(aa)(2), Dec. 21, 2005, 119 Stat. 2630; Pub. L. 110–172, §11(g)(9), Dec. 29, 2007, 121 Stat. 2490; Pub. L. 111–226, title II, §212(a), Aug. 10, 2010, 124 Stat. 2396; Pub. L. 115–97, title I, §14301(c)(7)–(14), Dec. 22, 2017, 131 Stat. 2222, 2223; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xii), Mar. 23, 2018, 132 Stat. 1208.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -478,7 +480,7 @@ Subsec. (k). Pub. L. 99–509 redesignated former subsec. (j) as (k).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
 
-Pub. L. 98–369, §474(r)(20), substituted "The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)" for "The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against the tax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541".
+Pub. L. 98–369, §474(r)(20), substituted "The credit shall not be allowed against any tax treated as a tax not imposed by this chapter under section 25(b)" for "The credit shall not be allowed against the tax imposed by section 56 (relating to corporate minimum tax), against the tax imposed for the taxable year under section 72(m)(5)(B) (relating to 10 percent tax on premature distributions to owner-employees) section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts),, against the tax imposed by section 402(e) (relating to tax on lump sum distributions), against the tax imposed for the taxable year by section 408(f) (relating to additional tax on income from certain retirement accounts), against thetax imposed by section 531 (relating to the tax on accumulated earnings), against the additional tax imposed for the taxable year under section 1351 (relating to recoveries of foreign expropriation losses), or against the personal holding company tax imposed by section 541".
 
 Pub. L. 98–369, §713(c)(1)(C), substituted "premature distributions to key employees" for "premature distributions to owner-employees".
 
@@ -486,7 +488,7 @@ Subsecs. (h), (i). Pub. L. 98–369, §801(d)(1), added subsec. (h) and redesign
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–248 substituted "(relating to corporate minimum tax)" for "(relating to minimum tax for tax preferences)" after "section 56", and inserted "section 72(q)(1) (relating to 5-percent tax on premature distributions under annuity contracts)," after "owner employees)".
 
-<b>1978</b>—Subsec. (g)(1). Pub. L. 95–600, §701(u)(1)(A), inserted provisions prohibiting a deduction for any tax ofa foreign country or possession of the United States which is paid or accrued with respect to any distribution from a corporation if a dividends received deduction is allowable with respect to that distribution from a corporation under part VIII of subchapter B.
+<b>1978</b>—Subsec. (g)(1). Pub. L. 95–600, §701(u)(1)(A), inserted provisions prohibiting a deduction for any tax of a foreign country or possession of the United States which is paid or accrued with respect to any distribution from a corporation if a dividends received deduction is allowable with respect to that distribution from a corporation under part VIII of subchapter B.
 
 Subsec. (g)(2). Pub. L. 95–600, §701(u)(1)(B), inserted provision relating to application of section 957(c) of this title.
 
@@ -525,6 +527,8 @@ Subsec. (d)(4). Pub. L. 87–834, §9(d)(3), added par. (4).
 <b>1960</b>—Subsec. (a). Pub. L. 86–780, §3(a), (b), inserted "applicable" before "limitation" and substituted "Such choice for any taxable year may be made or changed at any time before the expiration of the period prescribed for making a claim for credit or refund of the tax imposed by this chapter for such taxable year" for "Such choice may be made or changed at any time prior to the expiration of the period prescribed for making a claim for credit or refund of the tax against which the credit is allowable."
 
 Subsec. (b). Pub. L. 86–780, §3(b), inserted "applicable" before "limitation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -648,7 +652,7 @@ Amendment by Pub. L. 92–178 applicable with respect to taxable years ending af
 
 #### Effective Date of 1969 Amendment
 
-Amendment by section 301(b)(9) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, seesection 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
+Amendment by section 301(b)(9) of Pub. L. 91–172 applicable to taxable years ending after Dec. 31, 1969, see section 301(c) of Pub. L. 91–172, set out as a note under section 5 of this title.
 
 Pub. L. 91–172, title V, §506(c), Dec. 30, 1969, 83 Stat. 635, provided that: "The amendments made by this section \[amending this section and section 904 of this title\] shall apply with respect to taxable years beginning after December 31, 1969."
 

@@ -28,7 +28,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(E) recommend to the Assistant Secretary policies and priorities with respect to the development and operation of programs and activities conducted under this chapter relating to older individuals who are Native Americans;
 
-&emsp;(F) collect and disseminate information related to problems experienced by older Native Americans, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elder abuse, in-home care, health problems, and other problems unique to Native Americans;
+&emsp;(F) collect and disseminate information related to problems experienced by older Native Americans, including information (compiled with assistance from public or nonprofit private entities, including institutions of higher education, with experience in assessing the characteristics and health status of older individuals who are Native Americans) on elderabuse, in-home care, health problems, and other problems unique to Native Americans;
 
 &emsp;(G) develop research plans, and conduct and arrange for research, in the field of American Native aging with a special emphasis on the gathering of statistics on the status of older individuals who are Native Americans;
 
@@ -102,7 +102,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;(J) submit to the Speaker of the House of Representatives and the President pro tempore of the Senate an annual report on the effectiveness of services provided under section 3027(a)(9) of this title and section 3058g of this title;
 
-&emsp;(K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and Human Services that may adversely affect the health, safety, welfare, or rights of older individuals;
+&emsp;(K) have authority to investigate the operation or violation of any Federal law administered by the Department of Health and HumanServices that may adversely affect the health, safety, welfare, or rights of older individuals;
 
 &emsp;(L) not later than 180 days after April 19, 2016, establish standards applicable to the training required by section 3058g(h)(5) of this title; and
 
@@ -170,7 +170,7 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 
 &emsp;&emsp;(ii) research on and assessment of the relationship between programs and interventions under this chapter and the health outcomes, social determinants of health, quality of life, and independence of individuals served under this chapter;
 
-&emsp;(B) demonstration projects that support the objectives of this chapter, including activities to bring effective demonstration projects to scale with a prioritization of projects that address the needs of underserved populations, and promote partnerships among aging services, community-based organizations, and Medicare and Medicaid providers, plans, and health (including public health) systems;
+&emsp;(B) demonstration projects that support the objectives of this chapter, including activities to bring effective demonstration projects to scale with a prioritization of projects that address the needs of underserved populations, and promote partnerships among aging services, community-based organizations, andMedicare and Medicaid providers, plans, and health (including public health) systems;
 
 &emsp;(C) outreach and dissemination of research findings; and
 
@@ -195,6 +195,8 @@ The Assistant Secretary shall be appointed by the President by and with the advi
 (9) The director shall coordinate, as appropriate, all research and evaluation authorities under this chapter.
 
 (Pub. L. 89–73, title II, §201, July 14, 1965, 79 Stat. 220; Pub. L. 93–29, title II, §201(a), May 3, 1973, 87 Stat. 30; Pub. L. 93–351, §2(a), July 12, 1974, 88 Stat. 357; Pub. L. 95–478, title V, §503(b)(1), Oct. 18, 1978, 92 Stat. 1559; Pub. L. 98–459, title II, §201, Oct. 9, 1984, 98 Stat. 1767; Pub. L. 100–175, title I, §§102, 107(a), 182(c), Nov. 29, 1987, 101 Stat. 928, 931, 964; Pub. L. 102–375, title I, §102(b)(1)(A), (2), title II, §201, title IX, §904(a)(3), Sept. 30, 1992, 106 Stat. 1200, 1201, 1202, 1306; Pub. L. 103–171, §3(a)(2), Dec. 2, 1993, 107 Stat. 1989; Pub. L. 106–501, title VIII, §801(b)(1), Nov. 13, 2000, 114 Stat. 2291; Pub. L. 109–365, title II, §201, Oct. 17, 2006, 120 Stat. 2527; Pub. L. 114–144, §§3(a), 9(2), Apr. 19, 2016, 130 Stat. 335, 352; Pub. L. 116–131, title I, §127(a), Mar. 25, 2020, 134 Stat. 252.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -252,7 +254,7 @@ Subsec. (c). Pub. L. 100–175, §107(a), added subsec. (c).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–459, §201(1), (3), (4), substituted "the agency" for "the principal agency", inserted provision requiring establishment of a direct reporting relationship between Commissioner and Office of the Secretary, and substituted "approve or require" for "approve".
 
-Pub. L. 98–459, §201(2), which directed that "the functions of the Administration" be substituted for "hisfunctions" in second sentence could not be executed because "his functions" appeared only in third sentence.
+Pub. L. 98–459, §201(2), which directed that "the functions of the Administration" be substituted for "his functions" in second sentence could not be executed because "his functions" appeared only in third sentence.
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–478 substituted "subchapter IX" for "subchapter VI and as otherwise specifically provided by the Older Americans Comprehensive Services Amendments of 1973".
 
@@ -261,6 +263,8 @@ Pub. L. 98–459, §201(2), which directed that "the functions of the Administra
 <b>1973</b>—Subsec. (a). Pub. L. 93–29 added subsec. (a). Former provision established the Administration on Aging in the Department of Health, Education, and Welfare.
 
 Subsec. (b). Pub. L. 93–29 struck out provision respecting the direction of the Administration by a Commissioner on Aging, now incorporated in subsec. (a) of this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

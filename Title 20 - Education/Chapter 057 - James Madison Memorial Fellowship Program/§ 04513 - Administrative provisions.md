@@ -36,6 +36,8 @@ On request of the Chairman of the Foundation, the head of a Federal agency may d
 
 (Pub. L. 99–500, §101(b) \[title VIII, §814\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–80, and Pub. L. 99–591, §101(b) \[title VIII, §814\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–80; Pub. L. 101–208, §3, Dec. 7, 1989, 103 Stat. 1837.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) and (c), was in the original "this Act" and was translated as reading "this title" meaning title VIII of section 101(b) of Pub. L. 99–500 and Pub. L. 99–591 which enacted this chapter, to reflect the probable intent of Congress.
@@ -60,9 +62,11 @@ Subsec. (a)(10), (11). Pub. L. 101–208, §3(1)(C)–(E), added par. (10) and r
 
 Subsec. (c). Pub. L. 101–208, §3(2), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L.104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to submitting an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 176 of House Document No. 103–7.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

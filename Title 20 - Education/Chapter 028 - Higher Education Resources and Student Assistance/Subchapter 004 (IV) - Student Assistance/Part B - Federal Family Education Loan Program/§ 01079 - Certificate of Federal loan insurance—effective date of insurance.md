@@ -12,7 +12,7 @@
 
 #### (3) Contents of applications
 
-&emsp;An application submitted pursuant to subsection (a)(1) shall contain (A) an agreement by the applicant to pay, in accordance with regulations, the premiums fixed by the Secretary pursuant to subsection (c), and (B) an agreement by the applicant that if the loan iscovered by insurance the applicant will submit such supplementary reports and statement during the effective period of the loan agreement, upon such forms, at such times, and containing such information as the Secretary may prescribe by or pursuant to regulation.
+&emsp;An application submitted pursuant to subsection (a)(1) shall contain (A) an agreement by the applicant to pay, in accordance with regulations, the premiums fixed by the Secretary pursuant to subsection (c), and (B) an agreement by the applicant that if the loan is covered by insurance the applicant will submit such supplementary reports and statement during the effective period of the loan agreement, upon such forms, at such times, and containing such information as the Secretary may prescribe by or pursuant to regulation.
 
 #### (b) Comprehensive insurance coverage certificate
 
@@ -26,7 +26,7 @@
 
 #### (c) Charges for Federal insurance
 
-The Secretary shall, pursuant to regulations, charge for insurance on each loan under this part a premium in an amount not to exceed one-fourth of 1 percent per year of the unpaid principal amount of such loan (excluding interest added to principal), payable in advance, at such times and in such manner as may be prescribed by the Secretary. Such regulations may provide that such premium shall not be payable, or if paid shall be refundable, with respect to any period after default in the payment of principal or interest or after the borrower has died or becomes totally and permanently disabled, if (1) notice of such default or other event has been duly given, and (2) requests for payment of the loss insured against has been made or the Secretary has made such payment on his own motion pursuant to section 1080(a) of this title.
+The Secretary shall, pursuant to regulations, charge for insurance on each loan under this part a premium in an amount not to exceed one-fourth of 1 percent per year of the unpaid principal amount of such loan (excluding interest added to principal), payable in advance, at suchtimes and in such manner as may be prescribed by the Secretary. Such regulations may provide that such premium shall not be payable, or if paid shall be refundable, with respect to any period after default in the payment of principal or interest or after the borrower has died or becomes totally and permanently disabled, if (1) notice of such default or other event has been duly given, and (2) requests for payment of the loss insured against has been made or the Secretary has made such payment on his own motion pursuant to section 1080(a) of this title.
 
 #### (d) Assignability of insurance
 
@@ -37,6 +37,8 @@ The rights of an eligible lender arising under insurance evidenced by a certific
 The consolidation of the obligations of two or more federally insured loans obtained by a student borrower in any fiscal year into a single obligation evidenced by a single instrument of indebtedness shall not affect the insurance by the United States. If the loans thus consolidated are covered by separate certificates of insurance issued under subsection (a), the Secretary may upon surrender of the original certificates issue a new certificate of insurance in accordance with that subsection upon the consolidated obligation; if they are covered by a single comprehensive certificate issued under subsection (b), the Secretary may amend that certificate accordingly.
 
 (Pub. L. 89–329, title IV, §429, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1395.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -68,7 +68,7 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 
 &emsp;&emsp;&emsp;(i) to manage risk of price changes or currency fluctuations with respect to ordinary property which is held or to be held by the taxpayer,
 
-&emsp;&emsp;&emsp;(ii) to manage risk of interest rate or price changes or currency fluctuations with respect to borrowings made or to be made, or ordinary obligations incurred or to be incurred, by the taxpayer, or
+&emsp;&emsp;&emsp;(ii) to manage risk of interest rate or price changes or currency fluctuationswith respect to borrowings made or to be made, or ordinary obligations incurred or to be incurred, by the taxpayer, or
 
 &emsp;&emsp;&emsp;(iii) to manage such other risks as the Secretary may prescribe in regulations.
 
@@ -89,6 +89,8 @@ For purposes of this subtitle, the term "capital asset" means property held by t
 &emsp;The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57; Pub. L. 109–222, title II, §204(a), May 17, 2006, 120 Stat. 350; Pub. L. 109–432, div. A, title IV, §412(a), Dec. 20, 2006, 120 Stat. 2963; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 115–97, title I, §13314(a), Dec. 22, 2017, 131 Stat. 2133.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -115,6 +117,8 @@ Subsec. (b)(4). Pub. L. 109–222 redesignated par. (3) as (4).
 Par. (6). Pub. L. 94–455, §2132(a), added par. (6).
 
 <b>1969</b>—Par. (3). Pub. L. 91–172 inserted reference to a letter or memorandum, added subpar. (B) dealing with a letter or memorandum, and redesignated former subpar. (B) as (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

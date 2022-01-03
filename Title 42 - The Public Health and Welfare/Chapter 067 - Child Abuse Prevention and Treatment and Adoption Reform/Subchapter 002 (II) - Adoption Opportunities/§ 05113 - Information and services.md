@@ -164,6 +164,8 @@ In connection with carrying out the provisions of this subchapter, the Secretary
 
 (Pub. L. 95–266, title II, §203, Apr. 24, 1978, 92 Stat. 209; Pub. L. 98–457, title II, §203, Oct. 9, 1984, 98 Stat. 1756; Pub. L. 100–294, title II, §202, Apr. 25, 1988, 102 Stat. 122; Pub. L. 102–295, title IV, §403, May 28, 1992, 106 Stat. 213; Pub. L. 104–235, title II, §212, Oct. 3, 1996, 110 Stat. 3090; Pub. L. 108–36, title II, §202, June 25, 2003, 117 Stat. 819; Pub. L. 111–320, title III, §301(b), Dec. 20, 2010, 124 Stat. 3511.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–320, §301(b)(1), substituted "older children, minority children, and children with special needs, particularly infants and toddlers with disabilities who have life-threatening conditions, and services to families considering adoption of children with special needs." for "children with special needs and particularly of disabled infants with life-threatening conditions and services to couples considering adoption of children with special needs."
@@ -182,7 +184,7 @@ Subsec. (b)(10)(A)(ii). Pub. L. 111–320, §301(b)(2)(E)(ii)(I), inserted ", i
 
 Subsec. (b)(10)(A)(vii) to (ix). Pub. L. 111–320, §301(b)(2)(E)(ii)(II), (III), added cl. (vii) and redesignated former cls. (vii) and (viii) as (viii) and (ix), respectively.
 
-Subsec. (d)(1). Pub. L. 111–320, §301(b)(3)(A), struck out at end: "Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanent homes. The Secretary, when reviewing grant applications shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds."
+Subsec. (d)(1). Pub. L. 111–320, §301(b)(3)(A), struck out at end: "Grants funded by this section must include a strong evaluation component which outlines the innovations used to improve the placement of special needs children who are legally free for adoption, and the successes and failures of the initiative. The evaluations will be submitted to the Secretary who will compile the results of projects funded by this section and submit a report to the appropriate committees of Congress. The emphasis of this program must focus on the improvement of the placement rate—not the aggregate number of special needs children placed in permanenthomes. The Secretary, when reviewing grant applications shall give priority to grantees who propose improvements designed to continue in the absence of Federal funds."
 
 Subsec. (d)(2)(A). Pub. L. 111–320, §301(b)(3)(B)(i), inserted ", consistent with the purpose of this subchapter" after "by the Secretary", substituted "Each application shall contain information that—" for "Each application shall include verification of the placements described in paragraph (1).", and added cls. (i) to (iv).
 
@@ -255,6 +257,8 @@ Subsec. (b)(4). Pub. L. 98–457, §203(c)(3)(A), substituted "adoptive family g
 Subsec. (b)(5), (6). Pub. L. 98–457, §203(c)(3)(B), (C), added pars. (5) and (6). Former par. (5) redesignated (7).
 
 Subsec. (b)(7). Pub. L. 98–457, §203(c)(3)(C), (D), redesignated former par. (5) as (7) and substituted "Health and Human Services" for "Health, Education, and Welfare".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Kinship Care
 

@@ -304,7 +304,7 @@ Who may act on behalf of commission.—Except as provided in paragraph (1), noth
 
 &emsp;&emsp;"(B)
 
-Duration of legal agreements.—A contract, lease, or other legal agreement entered intoby the Commission may not extend beyond the date of termination of the Commission.
+Duration of legal agreements.—A contract, lease, or other legal agreement entered into by the Commission may not extend beyond the date of termination of the Commission.
 
 &emsp;"(3)
 

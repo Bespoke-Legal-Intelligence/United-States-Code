@@ -10,7 +10,7 @@ In carrying out a construction project under this subchapter, an Indian Tribe ma
 
 &emsp;(1) designating a certifying Tribal officer to represent the Indian Tribe and to assume the status of a responsible Federal official under those Acts, laws, or regulations; and
 
-&emsp;(2) accepting the jurisdiction of the United States courts for the purpose of enforcing the responsibilities of the certifying Tribal officer assuming the status of a responsible Federal official under those Acts, laws, or regulations.
+&emsp;(2) accepting the jurisdiction of the United States courts for the purpose of enforcing the responsibilities of the certifying Tribal officerassuming the status of a responsible Federal official under those Acts, laws, or regulations.
 
 #### (c) Savings clause
 
@@ -56,7 +56,7 @@ In carrying out a construction project under this subchapter, an Indian Tribe sh
 
 &emsp;&emsp;(G) the agreement of the parties over who will bear any additional costs necessary to meet changes in scope, or errors or omissions in design and construction; and
 
-&emsp;&emsp;(H) the agreement of the Secretary to issue a certificate of occupancy, if requested by the Indian Tribe, based upon the reviewand verification by the Secretary, to the satisfaction of the Secretary, that the Indian Tribe has secured upon completion the review and approval of the plans and specifications, sufficiency of design, life safety, and code compliance by qualified, licensed, and independent architects and engineers.
+&emsp;&emsp;(H) the agreement of the Secretary to issue a certificate of occupancy, if requested by the Indian Tribe, based upon the review and verification by the Secretary, to the satisfaction of the Secretary, that the Indian Tribe has secured upon completion the review and approval of the plans and specifications, sufficiency of design, life safety, and code compliance by qualified, licensed, and independent architects and engineers.
 
 #### (f) Funding
 

@@ -44,6 +44,8 @@ In the event of a multiple year award to any institution under this subchapter, 
 
 (Pub. L. 89–329, title III, §399, formerly §360, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307; amended Pub. L. 102–325, title III, §305(e)–(g), July 23, 1992, 106 Stat. 479; renumbered §399, and amended Pub. L. 105–244, title III, §§301(a)(2), 308(h), Oct. 7, 1998, 112 Stat. 1636, 1649; Pub. L. 110–315, title III, §319, Aug. 14, 2008, 122 Stat. 3186.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 1069f of this title prior to renumbering by Pub. L. 105–244.
@@ -64,7 +66,7 @@ A prior section 1069b, Pub. L. 89–329, title III, §356, as added Pub. L. 99�
 
 Another prior section 1069b, Pub. L. 89–329, title III, §346, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, limited activities for which funds appropriated to carry out this subchapter could be expended, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
+A prior section 1069c, Pub. L. 89–329, title III, §357, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1307, which related to limitations on use of funds, was renumbered section 396 of Pub. L. 89–329 by Pub. L.105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068e of this title.
 
 Another prior section 1069c, Pub. L. 89–329, title III, §347, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1400, and Pub. L. 98–95, §3, Sept. 26, 1983, 97 Stat. 711; Pub. L. 98–312, §1, June 12, 1984, 98 Stat. 233, authorized appropriations to carry out parts A to C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
@@ -115,6 +117,8 @@ Subsec. (c). Pub. L. 102–325, §305(f), substituted "1986, the Secretary shall
 &emsp;"(B) allocate 75 percent of such excess among other eligible institutions."
 
 Subsec. (e). Pub. L. 102–325, §305(g), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

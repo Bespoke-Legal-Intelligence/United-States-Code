@@ -104,13 +104,13 @@ For purposes of this section:
 
 &emsp;Each program under this section shall provide, in accordance with criteria established by the Secretary—
 
-&emsp;&emsp;(A) for encouraging the following to become program-registered providers: private health care providers, the Indian Health Service, health care providers that receive funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\], and health programs or facilities operated by Indian tribes or tribal organizations; and
+&emsp;&emsp;(A) for encouraging the following to become program-registered providers: private health care providers, the Indian Health Service, health care providers that receivefunds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\], and health programs or facilities operated by Indian tribes or tribal organizations; and
 
 &emsp;&emsp;(B) for identifying, with respect to any population of vaccine-eligible children a substantial portion of whose parents have a limited ability to speak the English language, those program-registered providers who are able to communicate with the population involved in the language and cultural context that is most appropriate.
 
 #### (4) State requirements
 
-&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to therequirements of paragraph (1), in order that a provider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
+&emsp;Except as the Secretary may permit in order to prevent fraud and abuse and for related purposes, a State may not impose additional qualifications or conditions, in addition to the requirements of paragraph (1), in order that a provider qualify as a program-registered provider under this section. This subsection does not limit the exercise of State authority under section 1396n(b) of this title.
 
 #### (d) Negotiation of contracts with manufacturers
 
@@ -156,7 +156,7 @@ For purposes of this section:
 
 #### (7) Multiple suppliers
 
-&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including termsand conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
+&emsp;In the case of the pediatric vaccine involved, the Secretary shall, as appropriate, enter into a contract referred to in paragraph (1) with each manufacturer of the vaccine that meets the terms and conditions of the Secretary for an award of such a contract (including terms and conditions regarding safety and quality). With respect to multiple contracts entered into pursuant to this paragraph, the Secretary may have in effect different prices under each of such contracts and, with respect to a purchase by States pursuant to paragraph (4)(B), the Secretary shall determine which of such contracts will be applicable to the purchase.
 
 #### (e) Use of pediatric vaccines list
 
@@ -194,6 +194,8 @@ For purposes of this section:
 
 (Aug. 14, 1935, ch. 531, title XIX, §1928, as added Pub. L. 103–66, title XIII, §13631(b)(2), Aug. 10, 1993, 107 Stat. 637.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2)(B)(ii)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
@@ -205,6 +207,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), is classifi
 #### Prior Provisions
 
 A prior section 1396s, act Aug. 14, 1935, ch. 531, title XIX, §1928, formerly §1920, as added Apr. 7, 1986, Pub. L. 99–272, title IX, §9526, 100 Stat. 218, and renumbered and amended, which related to references to laws directly affecting medicaid program, was renumbered section 1931 of act Aug. 14, 1935, by Pub. L. 103–66, title XIII, §13631(b)(1), Aug. 10, 1993, 107 Stat. 637, and transferred to section 1396v of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

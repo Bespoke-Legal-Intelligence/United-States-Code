@@ -30,7 +30,7 @@ Qualified Veterans.—For purposes of this section, a qualified veteran is a vet
 
 (d)
 
-Locations.—Not later than five years after the date of the enactment of the Deborah Sampson Act of 2020, the Secretary shall carry out the program at each medical center of the Department.
+Locations.—Not later than five years after the date of the enactment of the Deborah Sampson Act of 2020, the Secretary shall carry out theprogram at each medical center of the Department.
 
 (e)
 

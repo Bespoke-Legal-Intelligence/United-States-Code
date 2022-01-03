@@ -4,15 +4,21 @@ Any and all repairs, improvements, changes, and alterations in the grounds, buil
 
 (May 26, 1914, ch. 100, 38 Stat. 382; Mar. 3, 1925, ch. 425, 43 Stat. 1109; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section and sections 437, 439, and 440 of this title were derived from act Mar. 3, 1925. See Codification note set out under section 437 of this title.
 
-#### Transfer of Functions
-
-Transfer of administrative functions of park, see note set out under section 437 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of War and Emergencies
 
 Termination of state of war and national emergencies, see note set out under section 437 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Transfer of administrative functions of park, see note set out under section 437 of this title.
 

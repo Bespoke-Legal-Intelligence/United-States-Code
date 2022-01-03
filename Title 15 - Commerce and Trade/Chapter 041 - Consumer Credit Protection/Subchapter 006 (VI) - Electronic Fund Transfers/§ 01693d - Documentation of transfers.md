@@ -44,9 +44,13 @@ In any action involving a consumer, any documentation required by this section t
 
 (Pub. L. 90–321, title IX, §906, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3731; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted "Bureau" for "Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

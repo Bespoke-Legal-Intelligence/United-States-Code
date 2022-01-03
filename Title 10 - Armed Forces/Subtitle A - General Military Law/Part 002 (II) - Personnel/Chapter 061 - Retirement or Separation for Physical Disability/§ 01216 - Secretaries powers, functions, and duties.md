@@ -8,7 +8,7 @@
 
 &emsp;(2) the percentage of disability of any such member at the time of his separation from active duty;
 
-&emsp;(3) the suitability of any member for reappointment, reenlistment, or reentry upon active duty in an armed force under his jurisdiction; and
+&emsp;(3) the suitability of any member for reappointment, reenlistment, or reentry uponactive duty in an armed force under his jurisdiction; and
 
 &emsp;(4) the entitlement to, and payment of, disability severance pay to any member of an armed force under his jurisdiction.
 
@@ -54,6 +54,8 @@ In subsections (b) and (c), the words "under this chapter" are inserted for clar
 
 In subsection (c), the words "as prescribed by the President" are substituted for the words "under regulations promulgated by the President".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–106, §903(a), (f)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "official in the Department of Defense with principal responsibility for health affairs" for "Assistant Secretary of Defense for Health Affairs", was repealed by Pub. L. 104–201.
@@ -70,17 +72,21 @@ In subsection (c), the words "as prescribed by the President" are substituted fo
 
 Subsec. (d). Pub. L. 94–225, §2(a)(2), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–225, §2(b), Mar. 4, 1976, 90 Stat. 202, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concernedfor purposes of sections 1201, 1202, and 1203 of title 10, United States Code."
+Pub. L. 94–225, §2(b), Mar. 4, 1976, 90 Stat. 202, provided that: "The amendments made by subsection (a) of this section \[amending this section\] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act \[Mar. 4, 1976\] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code."
 
 #### Applicability of Subsection (d)
 
 Subsec. (d) of this section inapplicable with respect to flag officers of the Coast Guard during any period in which the Coast Guard is not operating as a service in the Navy, see section 2157 of Title 14, Coast Guard.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 10122. Regulations Governing Disability Pay, Hospitalization and Reexamination
 

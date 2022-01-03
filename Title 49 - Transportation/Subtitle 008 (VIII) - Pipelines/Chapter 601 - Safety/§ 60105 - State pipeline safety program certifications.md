@@ -146,6 +146,8 @@ In subsection (e), the words "conduct whatever . . . may be necessary" and "fu
 
 In subsection (f), the words "prescribed under this chapter" are added for clarity. The word "reasonable" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Subsec. (b)(8), (9). Pub. L. 116–260 added pars. (8) and (9).
@@ -153,6 +155,8 @@ In subsection (f), the words "prescribed under this chapter" are added for clari
 <b>2006</b>—Subsec. (b)(4). Pub. L. 109–468 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "is encouraging and promoting programs designed to prevent damage by demolition, excavation, tunneling, or construction activity to the pipeline facilities to which the certification applies;".
 
 <b>1996</b>—Pub. L. 104–304 substituted "State pipeline safety program certifications" for "State certifications" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

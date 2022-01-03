@@ -16,7 +16,7 @@
 
 (d) A warrant officer who retires under this section may elect to be placed on the retired list in the highest grade and with the highest retired pay to which he is entitled under any provision of this title. If the pay of that highest grade is less than the pay of any warrant grade satisfactorily held by him on active duty, his retired pay shall be based on the higher pay.
 
-(e) Unless otherwise entitled to higher pay, an officer retired under this section is entitled to retired pay computed under section 8333 of this title.
+(e) Unless otherwise entitled to higher pay, an officer retired under this section is entitled toretired pay computed under section 8333 of this title.
 
 (f) Officers of the Navy Reserve and the Marine Corps Reserve who were transferred to the Retired Reserve from an honorary retired list under section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), or are transferred to the Retired Reserve under section 8327 of this title, may be retired under this section, notwithstanding their retired status, if they are otherwise eligible.
 
@@ -94,6 +94,8 @@ In subsection (d), the second and third provisos of 34 App.:410b, relating to of
 
 Subsection (f) was formerly subsection (c).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 213(b) of the Armed Forces Reserve Act of 1952 (66 Stat. 485), referred to in subsec. (f), was classified to section 933 of Title 50, War and National Defense, and was repealed by section 53 of act Aug. 10, 1956.
@@ -112,11 +114,11 @@ Subsec. (f). Pub. L. 115–232, §809(a), substituted "section 8327" for "sectio
 
 Pub. L. 112–239, §505(b), substituted "September 30, 2018" for "September 30, 2013".
 
-<b>2011</b>—Subsec. (a)(2)(B). Pub. L. 111–383 substituted "the date of the enactment of the Ike Skelton NationalDefense Authorization Act for Fiscal Year 2011 and ending on September 30, 2013" for "January 6, 2006, and ending on December 31, 2008".
+<b>2011</b>—Subsec. (a)(2)(B). Pub. L. 111–383 substituted "the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 and ending on September 30, 2013" for "January 6, 2006, and ending on December 31, 2008".
 
 <b>2006</b>—Subsec. (a)(2). Pub. L. 109–364 struck out second comma after "subparagraph (B)" in subpar. (A) and substituted "January 6, 2006," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 2006" in subpar. (B).
 
-Pub. L. 109–163, §502(b), designated existing provisions as subpar. (A), substituted "during the period specified in subparagraph (B)," for "during the period beginning on October 1, 1990, and ending on December 31, 2001", and added subpar. (B).
+Pub. L. 109–163, §502(b), designated existing provisions as subpar. (A), substituted "during the period specifiedin subparagraph (B)," for "during the period beginning on October 1, 1990, and ending on December 31, 2001", and added subpar. (B).
 
 Subsec. (f). Pub. L. 109–163, §515(b)(1)(H), substituted "Navy Reserve" for "Naval Reserve".
 
@@ -144,6 +146,8 @@ Subsec. (b). Pub. L. 85–861 inserted provisions in cl. (2).
 
 Subsecs. (c) to (f). Pub. L. 85–861 added subsecs. (c) to (e) and redesignated former subsec. (c) as (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -159,6 +163,8 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 #### Temporary Early Retirement Authority
 
 For provisions authorizing the Secretary of the Navy, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an officer with at least 15 but less than 20 years of service by substituting "at least 15 years" for "at least 20 years" in subsec. (a) of this section, see section 4403 of Pub. L. 102–484, set out as a note under section 1293 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

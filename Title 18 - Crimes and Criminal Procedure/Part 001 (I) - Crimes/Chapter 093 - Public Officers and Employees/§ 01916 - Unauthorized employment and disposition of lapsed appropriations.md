@@ -8,7 +8,7 @@ Whoever—
 
 > shall be fined under this title or imprisoned not more than one year, or both.
 
-(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div.B, title III, §3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
+(Added Pub. L. 89–554, §3(d), Sept. 6, 1966, 80 Stat. 608; amended Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title III, §3002(a)(3), Nov. 2, 2002, 116 Stat. 1805.)
 
 Historical and Revision Notes
 

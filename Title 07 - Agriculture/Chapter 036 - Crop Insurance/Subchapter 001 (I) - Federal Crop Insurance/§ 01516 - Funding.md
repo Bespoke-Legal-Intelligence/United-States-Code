@@ -86,6 +86,8 @@
 
 (Feb. 16, 1938, ch. 30, title V, §516, 52 Stat. 77; June 21, 1941, ch. 214, §§6, 8, 55 Stat. 255, 256; Aug. 3, 1956, ch. 950, §10, 70 Stat. 1034; Pub. L. 96–365, title I, §§109, 110, Sept. 26, 1980, 94 Stat. 1317, 1318; Pub. L. 97–11, May 22, 1981, 95 Stat. 13; Pub. L. 99–198, title X, §1021, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 103–354, title I, §110, Oct. 13, 1994, 108 Stat. 3198; Pub. L. 104–127, title I, §193(e), Apr. 4, 1996, 110 Stat. 945; Pub. L. 105–185, title V, §531, June 23, 1998, 112 Stat. 580; Pub. L. 106–224, title I, §147, June 20, 2000, 114 Stat. 393; Pub. L. 113–79, title XI, §11021, Feb. 7, 2014, 128 Stat. 968; Pub. L. 115–123, div. F, §60101(c)(2), Feb. 9, 2018, 132 Stat. 312; Pub. L. 115–334, title XI, §11118, Dec. 20, 2018, 132 Stat. 4926.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (a)(2)(C), (b)(1)(D). Pub. L. 115–123 substituted "subsection (a)(3)(E)(ii) of that section" for "subsections (a)(3)(E)(ii) and (b)(10) of section 1523 of this title".
@@ -134,13 +136,13 @@ Other expenses.—The Corporation is authorized to pay from the insurance fund e
 
 <b>1996</b>—Subsec. (a)(2)(C). Pub. L. 104–127, §193(e)(1), struck out subpar. (C) which read as follows: "payments for noninsured assistance losses under section 1519 of this title."
 
-Subsec. (b)(1). Pub. L. 104–127, §193(e)(2)(A), struck out subpar. (A) designation and heading "In general",substituted "In the case of each" for "Except as provided in subparagraph (B), in the case of each", and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: "In the case of the 1997 reinsurance year, the amount of the payments from the insurance fund established under subsection (c) of this section for the expenses of the Corporation for the sales commissions of agents may not exceed 8.5 percent of the total amount of premiums paid for additional coverage for the 1997 reinsurance year."
+Subsec. (b)(1). Pub. L. 104–127, §193(e)(2)(A), struck out subpar. (A) designation and heading "In general", substituted "In the case of each" for "Except as provided in subparagraph (B), in the case of each", and struck out heading and text of subpar. (B). Prior to amendment, text read as follows: "In the case of the 1997 reinsurance year, the amount of the payments from the insurance fund established under subsection (c) of this section for the expenses of the Corporation for the sales commissions of agents may not exceed 8.5 percent of the total amount of premiums paid for additional coverage for the 1997 reinsurance year."
 
 Subsec. (b)(2)(A). Pub. L. 104–127, §193(e)(3), struck out ", noninsured assistance benefits," after "all premium subsidies".
 
 Subsec. (b)(2)(B). Pub. L. 104–127, §193(e)(2)(B), struck out "subject to paragraph (1)(B)," before "in the case of each".
 
-<b>1994</b>—Pub. L. 103–354 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (d) relating to authorization of appropriations to cover operating and administrative costs of Corporation, issuance of regulations, emergency funding, and borrowing authority.
+<b>1994</b>—Pub. L. 103–354 amended section generally, substituting subsecs. (a) to (c) for former subsecs. (a) to (d)relating to authorization of appropriations to cover operating and administrative costs of Corporation, issuance of regulations, emergency funding, and borrowing authority.
 
 <b>1985</b>—Subsec. (c)(1). Pub. L. 99–198 struck out provision that Secretary's authority to use the funds of Commodity Credit Corporation for purposes of this subsection would expire one year after date on which that authority was first used.
 
@@ -153,6 +155,8 @@ Subsecs. (c), (d). Pub. L. 96–365, §110, added subsecs. (c) and (d).
 <b>1956</b>—Subsec. (a). Act Aug. 3, 1956, added to list of costs which may be considered as nonadministrative or nonoperating, the direct cost of loss adjusters for crop inspections and loss adjustment, and authorized use of premium income for administrative and operating costs within limits prescribed by applicable appropriation.
 
 <b>1941</b>—Subsec. (a). Act June 21, 1941, substituted "the agricultural commodity" for "wheat", and "$12,000,000" for "$6,000,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -168,13 +172,15 @@ Pub. L. 96–365, title I, §109, Sept. 26, 1980, 94 Stat. 1317, provided that t
 
 Pub. L. 96–365, title I, §110, Sept. 26, 1980, 94 Stat. 1318, provided that the amendment made by that section is effective Oct. 1, 1980.
 
+#### Additional Appropriation
+
+Act Dec. 23, 1944, ch. 713, §6, 58 Stat. 920, provided an additional appropriation not to exceed $3,000,000 to be available for the fiscal year 1945 to carry out the provisions of this chapter for the fiscal years 1943 and 1944.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
-
-#### Additional Appropriation
-
-Act Dec. 23, 1944, ch. 713, §6, 58 Stat. 920, provided an additional appropriation not to exceed $3,000,000 to be available for the fiscal year 1945 to carry out the provisions of this chapter for the fiscal years 1943 and 1944.
 

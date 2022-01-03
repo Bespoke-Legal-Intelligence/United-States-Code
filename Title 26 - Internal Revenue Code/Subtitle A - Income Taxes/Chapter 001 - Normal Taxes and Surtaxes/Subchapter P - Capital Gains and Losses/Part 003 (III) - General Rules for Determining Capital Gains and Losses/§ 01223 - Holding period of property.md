@@ -46,7 +46,7 @@ For purposes of this subtitle—
 
 &emsp;(13) Except for purposes of subsections (a)(2) and (c)(2)(A) of section 1202, in determining the period for which the taxpayer has held property the acquisition of which resulted under section 1045 or 1397B in the nonrecognition of any part of the gain realized on the sale of other property, there shall be included the period for which such other property has been held as of the date of such sale.
 
-&emsp;(14) If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for whichthe taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
+&emsp;(14) If the security to which a securities futures contract (as defined in section 1234B) relates (other than a contract to which section 1256 applies) is acquired in satisfaction of such contract, in determining the period for which the taxpayer has held such security, there shall be included the period for which the taxpayer held such contract if such contract was a capital asset in the hands of the taxpayer.
 
 &emsp;(15)
 
@@ -55,6 +55,8 @@ Cross reference.—
 &emsp;&emsp;<b>For special holding period provision relating to certain partnership distributions, see section 735(b).</b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 323; Pub. L. 87–834, §14(b)(3), Oct. 16, 1962, 76 Stat. 1041; Pub. L. 91–614, title I, §101(g), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIV, §1402(b)(1)(Q), (2), title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1732, 1834; Pub. L. 95–600, title VII, §702(c)(5), Nov. 6, 1978, 92 Stat. 2927; Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299; Pub. L. 97–448, title I, §§104(b)(3)(C), 105(c)(4), Jan. 12, 1983, 96 Stat. 2382, 2385; Pub. L. 98–369, div. A, title I, §54(c), title V, §541(b)(1), title X, §1001(b)(14), (e), July 18, 1984, 98 Stat. 569, 890, 1011, 1012; Pub. L. 100–647, title I, §1006(e)(17), Nov. 10, 1988, 102 Stat. 3403; Pub. L. 101–194, title V, §502(b)(1), Nov. 30, 1989, 103 Stat. 1754; Pub. L. 105–34, title III, §§312(d)(9), 313(b)(2), Aug. 5, 1997, 111 Stat. 840, 842; Pub. L. 105–206, title V, §5001(a)(5), title VI, §6005(d)(4), July 22, 1998, 112 Stat. 788, 805; Pub. L. 106–554, §1(a)(7) \[title I, §116(b)(2), title IV, §401(h)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–603, 2763A–650; Pub. L. 108–357, title IV, §413(c)(21), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–135, title IV, §402(a)(2), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 113–295, div. A, title II, §221(a)(80), Dec. 19, 2014, 128 Stat. 4049; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(vi), Mar. 23, 2018, 132 Stat. 1209.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -113,6 +115,8 @@ Pub. L. 94–455, §1402(b)(1)(Q), provided that "6 months" would be changed to 
 <b>1970</b>—Pars. (11), (12). Pub. L. 91–614 added par. (11) and redesignated former par. (11) as (12).
 
 <b>1962</b>—Pars. (10), (11). Pub. L. 87–834 added par. (10) and redesignated former par. (10) as (11).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -192,5 +196,5 @@ Pub. L. 95–600, §702(c)(5), cited as a credit to this section, and the amendm
 
 Amendment by Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400 of this title.
 
-For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 

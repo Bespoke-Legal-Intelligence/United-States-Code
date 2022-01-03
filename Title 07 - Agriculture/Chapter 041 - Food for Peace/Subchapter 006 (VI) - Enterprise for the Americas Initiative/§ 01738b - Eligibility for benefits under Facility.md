@@ -22,9 +22,13 @@ The President shall determine whether a country is an eligible country for purpo
 
 (July 10, 1954, ch. 469, title VI, §603, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3658; amended Pub. L. 102–237, title III, §302, Dec. 13, 1991, 105 Stat. 1855.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 inserted hyphen between "Inter" and "American".
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

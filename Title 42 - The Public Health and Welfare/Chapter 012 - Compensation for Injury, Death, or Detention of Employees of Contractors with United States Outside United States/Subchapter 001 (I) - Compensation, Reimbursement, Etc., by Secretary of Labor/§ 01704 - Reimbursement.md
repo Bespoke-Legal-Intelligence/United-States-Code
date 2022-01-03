@@ -10,7 +10,7 @@ Where any employer or his insurance carrier or compensation fund pays or is requ
 
 &emsp;(3) to any person by reason of an agreement approved or authorized by the United States under which a contractor with the United States has agreed to pay workmen's compensation benefits or benefits in the nature of workmen's compensation benefits to an injured employee or his dependents on account of detention by a hostile force or person or on account of injury or death arising from a war-risk hazard;
 
-> such employer, carrier, or fund shall be entitled to be reimbursed for all benefits so paid or payable, including funeral and burial expenses, medical, hospital, or other similar costs for treatment and care; and reasonable and necessary claims expense in connection therewith. Claim for such reimbursement shall be filed with the Secretary under regulations promulgated byhim, and such claims, or such part thereof as may be allowed by the Secretary, shall be paid from the compensation fund established under section 8147 of title 5. The Secretary may, under such regulations as he shall prescribe, pay such benefits, as they accrue and in lieu of reimbursement, directly to any person entitled thereto, and the insolvency of such employer, insurance carrier, or compensation fund shall not affect the right of the beneficiaries of such benefits to receive the compensation directly from the said compensation fund established under section 8147 of title 5. The Secretary may also, under such regulations as he shall prescribe, use any private facilities, or such Government facilities as may be available, for the treatment or care of any person entitled thereto.
+> such employer, carrier, or fund shall be entitled to be reimbursed for all benefits so paid or payable, including funeral and burial expenses, medical, hospital, or other similar costs for treatment and care; and reasonable and necessary claims expense in connection therewith. Claim for such reimbursement shall be filed with the Secretary under regulations promulgated by him, and such claims, or such part thereof as may be allowed by the Secretary, shall be paid from the compensation fund established under section 8147 of title 5. The Secretary may, under such regulations as he shall prescribe, pay such benefits, as they accrue and in lieu of reimbursement, directly to any person entitled thereto, and the insolvency of such employer, insurance carrier, or compensation fund shall not affect the right of the beneficiaries of such benefits to receive the compensation directly from the said compensation fund established under section 8147 of title 5. The Secretary may also, under such regulations as he shall prescribe, use any private facilities, or such Government facilities as may be available, for the treatment or care of any person entitled thereto.
 
 #### (b) Charging of premiums as prohibiting reimbursement
 
@@ -22,6 +22,8 @@ The provisions of this section shall not apply with respect to benefits on accou
 
 (Dec. 2, 1942, ch. 668, title I, §104, 56 Stat. 1031; Pub. L. 85–608, title I, §104, Aug. 8, 1958, 72 Stat. 537; Pub. L. 86–70, §42(b), June 25, 1959, 73 Stat. 151.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (a), "section 8147 of title 5" substituted for "section 35 of such Act of September 7, 1916, as amended", on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -32,6 +34,8 @@ In subsec. (a), "section 8147 of title 5" substituted for "section 35 of such Ac
 
 1958–Subsec. (a)(3). Pub. L. 85–608 substituted "a hostile force or person" for "the enemy".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1959 Amendment
 
 Amendment by Pub. L. 86–70 effective June 25, 1959, see section 47(g) of Pub. L. 86–70, set out as a note under section 1651 of this title.
@@ -39,6 +43,8 @@ Amendment by Pub. L. 86–70 effective June 25, 1959, see section 47(g) of Pub. 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–608 effective June 30, 1958, see section 402 of Pub. L. 85–608, set out as a note under section 1651 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

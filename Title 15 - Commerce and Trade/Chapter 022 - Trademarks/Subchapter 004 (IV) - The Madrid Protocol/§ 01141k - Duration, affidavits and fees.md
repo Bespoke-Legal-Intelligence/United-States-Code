@@ -30,7 +30,7 @@ The affidavit referred to in subsection (a) shall—
 
 #### (c) Deficient affidavit
 
-If any submission filed within the period set forth in subsection (a) is deficient, including that the affidavit was not filed in the name of the holder of the international registration, the deficiency may be corrected after the statutory time period, within the time prescribed after notification of the deficiency. Such submission shall be accompanied by the additional deficiency surcharge prescribed by the Director.
+If any submission filed within the period set forth in subsection (a) is deficient, including that the affidavit was not filed in the name ofthe holder of the international registration, the deficiency may be corrected after the statutory time period, within the time prescribed after notification of the deficiency. Such submission shall be accompanied by the additional deficiency surcharge prescribed by the Director.
 
 #### (d) Notice of requirement
 
@@ -45,6 +45,8 @@ The Director shall notify the holder of the international registration who files
 If the holder of the international registration of the mark is not domiciled in the United States, the holder may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the last designated address, or if the holder does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 (July 5, 1946, ch. 540, title XII, §71, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1919; amended Pub. L. 111–146, §3(d)(2), Mar. 17, 2010, 124 Stat. 68.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -20,7 +20,7 @@ This chapter shall take effect on the one hundred and eightieth day beginning af
 
 #### (3) Rounding
 
-&emsp;The dollar amount applicable under paragraph (1) for any calendar year shall be theamount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.
+&emsp;The dollar amount applicable under paragraph (1) for any calendar year shall be the amount determined in accordance with subparagraphs (A) and (B) of paragraph (2) and rounded to the nearest multiple of $1,000,000.
 
 (Pub. L. 94–200, title III, §309, Dec. 31, 1975, 89 Stat. 1128; Pub. L. 102–242, title II, §224(a), Dec. 19, 1991, 105 Stat. 2307; Pub. L. 102–550, title XVI, §1604(a)(15), Oct. 28, 1992, 106 Stat. 4083; Pub. L. 104–208, div. A, title II, §2225(a), Sept. 30, 1996, 110 Stat. 3009–415; Pub. L. 111–203, title X, §1094(1), July 21, 2010, 124 Stat. 2097.)
 

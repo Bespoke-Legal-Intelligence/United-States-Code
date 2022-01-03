@@ -12,7 +12,7 @@
 
 &emsp;(5) The term "officer" means a member of the naval service serving in a commissioned or warrant officer grade. It includes, unless otherwise specified, a member who holds a permanent enlisted grade and a temporary appointment in a commissioned or warrant officer grade.
 
-&emsp;(6) The term "commissioned officer" means a member of the naval service serving in a grade above warrant officer, W–1. It includes, unless otherwise specified, a member who holds a permanent enlisted grade or the permanent grade of warrant officer, W–1, and a temporary appointment in a grade above warrant officer, W–1.
+&emsp;(6) The term "commissioned officer" means a member of the naval service serving in a grade above warrant officer, W–1. It includes, unless otherwise specified, a member who holds a permanent enlisted grade or the permanent grade of warrant officer, W–1, and atemporary appointment in a grade above warrant officer, W–1.
 
 &emsp;(7) The term "warrant officer" means a member of the naval service serving in a warrant officer grade. It includes, unless otherwise specified, a member who holds a permanent enlisted grade and a temporary appointment in a warrant officer grade.
 
@@ -21,6 +21,8 @@
 (b) For the purposes of this subtitle, a member of the naval service who holds a temporary appointment in a grade higher than his permanent grade is considered, unless otherwise specified, to be serving in the higher grade.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 276, §5001; Pub. L. 87–123, §5(1), Aug. 3, 1961, 75 Stat. 264; Pub. L. 96–513, title III, §371, title V, §513(2), Dec. 12, 1980, 94 Stat. 2903, 2931; Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title V, §515(b)(1)(E), Jan. 6, 2006, 119 Stat. 3233; renumbered §8001, Pub. L. 115–232, div. A, title VIII, §807(a)(1), Aug. 13, 2018, 132 Stat. 1834.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -39,6 +41,8 @@ A prior section 8010 was renumbered section 8011 of this title.
 Subsec. (a)(9), (10). Pub. L. 96–513, §371, struck out pars. (9) and (10) which defined the active lists of the Navy and the Marine Corps, respectively. See section 101 of this title.
 
 <b>1961</b>—Subsec. (a)(8). Pub. L. 87–123 struck out provisions which related to Marine Corps officers designated for supply duty.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

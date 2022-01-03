@@ -40,11 +40,13 @@ June 4, 1897, ch. 2 (par. under "Soldiers' Home, District of Columbia"), 30 Stat
 
 In subsection (a), the words "on active duty" are inserted for clarity.
 
-In subsection (b), the words "rates of charge", "to cover the cost of purchase, inspection, and so forth", and "as can be spared without detriment to the military service" are omitted as surplusage. The words "the contract prices paid therefor" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories, at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.) The word "equipments" is omitted as covered by the word "supplies".
+In subsection (b), the words "rates of charge", "to cover the cost of purchase, inspection, and so forth", and "as can be spared without detriment to the military service" are omitted as surplusage. The words "the contract prices paid therefor" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories, at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.) The word"equipments" is omitted as covered by the word "supplies".
 
 In subsections (b) and (c), the words "The Secretary" are substituted for the words "Medical Department of the Army", since the functions which, for the Army, are assigned by statute to subordinate organizational units of the Army, are, for the Air Force, assigned to the Secretary of the Air Force.
 
 In subsection (c), the words "in the District of Columbia" are omitted as surplusage, since there is only one Soldiers' Home. The words "Upon proper application therefor" are omitted as surplusage. The words "its contract prices" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -57,6 +59,8 @@ Subsec. (c). Pub. L. 101–510, §1533(a)(8)(A), substituted "Armed Forces Retir
 <b>1980</b>—Pub. L. 96–513, §514(17)(B), inserted "the" before "Air" and "and Airmen's" after "Soldiers' " in section catchline.
 
 Subsec. (c). Pub. L. 96–513, §514(17)(A), substituted "United States Soldiers' and Airmen's" for "Soldiers' ".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

@@ -84,7 +84,7 @@ Excluded contracts.—A contract entered into under this subchapter may not be f
 
 &emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
 
-&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the proceduresand methods established pursuant to paragraph (1)(A).
+&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
@@ -114,11 +114,13 @@ Excluded contracts.—A contract entered into under this subchapter may not be f
 
 &emsp;(G) issuing a task or delivery order for energy savings performance contracting services to such contractor or contractors.
 
-(2) The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 2304c(d) of title 10 and section 4106(d) of title 41.
+(2) The issuance of a task or delivery order for energy savings performance contracting services pursuant to paragraph (1) is deemed to satisfy the task and delivery order competition requirements in section 3406(d) of title 10 and section 4106(d) of title 41.
 
 (3) The Secretary may issue guidance as necessary to agencies issuing task or delivery orders pursuant to paragraph (1).
 
-(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct. 24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422.)
+(Pub. L. 95–619, title VIII, §801, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 142; amended Pub. L. 102–486, title I, §155(a), Oct.24, 1992, 106 Stat. 2852; Pub. L. 104–106, div. E, title LVI, §5607(e), Feb. 10, 1996, 110 Stat. 702; Pub. L. 104–316, title I, §122(s), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 105–388, §4(a), Nov. 13, 1998, 112 Stat. 3477; Pub. L. 106–291, title III, §335, Oct. 11, 2000, 114 Stat. 997; Pub. L. 106–469, title IV, §401, Nov. 9, 2000, 114 Stat. 2037; Pub. L. 108–375, div. A, title X, §1090(a), Oct. 28, 2004, 118 Stat. 2067; Pub. L. 109–58, title I, §105(a), Aug. 8, 2005, 119 Stat. 611; Pub. L. 110–140, title V, §§511(a), 512–514, Dec. 19, 2007, 121 Stat. 1658, 1659; Pub. L. 111–383, div. A, title VIII, §828(a), Jan. 7, 2011, 124 Stat. 4271; Pub. L. 116–260, div. Z, title I, §1002(c), (d), Dec. 27, 2020, 134 Stat. 2422; Pub. L. 117–81, div. A, title XVII, §1702(j)(5), Dec. 27, 2021, 135 Stat. 2159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -138,6 +140,8 @@ In subsec. (c)(2), "section 4106(d) of title 41" substituted for "section 303J(d
 
 #### Amendments
 
+<b>2021</b>—Subsec. (c)(2). Pub. L. 117–81 substituted "section 3406(d) of title 10 and section 4106(d) of title 41." for "section 2304c(d) of title 10 and section 4106(d) of title 41."
+
 <b>2020</b>—Subsec. (a)(2)(F)(iii). Pub. L. 116–260, §1002(c), added cl. (iii).
 
 Subsec. (a)(2)(H), (I). Pub. L. 116–260, §1002(d), added subpars. (H) and (I).
@@ -146,7 +150,7 @@ Subsec. (a)(2)(H), (I). Pub. L. 116–260, §1002(d), added subpars. (H) and (I)
 
 <b>2007</b>—Subsec. (a)(2)(D). Pub. L. 110–140, §513(1), inserted "beginning on the date of the delivery order" after "25 years" in introductory provisions.
 
-Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "30 days before the award of anysuch contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and".
+Subsec. (a)(2)(D)(iii), (iv). Pub. L. 110–140, §511(a), redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "30 days before the award of any such contract that contains a clause setting forth a cancellation ceiling in excess of $10,000,000, the head of such agency gives written notification of such proposed contract and of the proposed cancellation ceiling for such contract to the appropriate authorizing and appropriating committees of the Congress; and".
 
 Subsec. (a)(2)(E). Pub. L. 110–140, §512, added subpar. (E).
 
@@ -167,6 +171,8 @@ Subsec. (c). Pub. L. 110–140, §514, struck out subsec. (c). Text read as foll
 Subsec. (c). Pub. L. 104–316 struck out par. (1) designation before "The authority to" and struck out par. (2) which required Comptroller General of the United States to report annually for five years on implementation of this section, including an assessment of various energy issues.
 
 <b>1992</b>—Pub. L. 102–486 inserted subsec. (a) designation and heading, designated existing provisions as par. (1), and added par. (2) and subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

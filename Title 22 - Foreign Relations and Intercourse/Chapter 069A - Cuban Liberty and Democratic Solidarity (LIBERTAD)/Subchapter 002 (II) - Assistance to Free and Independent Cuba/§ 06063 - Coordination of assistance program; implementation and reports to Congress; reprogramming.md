@@ -32,7 +32,7 @@ Upon making a determination under subsection (c)(3) that a democratically electe
 
 #### (3) Implementation with respect to democratically elected government
 
-&emsp;The President shall, upon determining that a democratically elected government in Cubais in power, submit that determination to the appropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such democratically elected government under the plan developed under section 6062(b) of this title.
+&emsp;The President shall, upon determining that a democratically elected government in Cuba is in power, submit that determination to the appropriate congressional committees and shall, subject to an authorization of appropriations and subject to the availability of appropriations, commence the delivery and distribution of assistance to such democratically elected government under the plan developed under section 6062(b) of this title.
 
 #### (4) Annual reports to Congress
 

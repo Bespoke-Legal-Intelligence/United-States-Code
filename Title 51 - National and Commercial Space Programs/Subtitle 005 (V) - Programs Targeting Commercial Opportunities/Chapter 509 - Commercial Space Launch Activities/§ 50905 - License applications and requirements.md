@@ -34,7 +34,7 @@ Requirements.—(1) Except as provided in this subsection, all requirements of t
 
 (5) The holder of a license or a permit under this chapter may launch or reenter a space flight participant only if—
 
-&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevant information related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
+&emsp;(A) in accordance with regulations promulgated by the Secretary, the holder of the license or permit has informed the space flight participant in writing about the risks of the launch and reentry, including the safety record of the launch or reentry vehicle type, and the Secretary has informed the space flight participant in writing of any relevantinformation related to risk or probable loss during each phase of flight gathered by the Secretary in making the determination required by section 50914(a)(2) and (c);
 
 &emsp;(B) the holder of the license or permit has informed any space flight participant in writing, prior to receiving any compensation from that space flight participant or (in the case of a space flight participant not providing compensation) otherwise concluding any agreement to fly that space flight participant, that the United States Government has not certified the launch vehicle as safe for carrying crew or space flight participants;
 
@@ -104,7 +104,7 @@ Contents.—The report shall include, at a minimum—
 
 &emsp;(6)
 
-Report.—Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
+Report.—Not later than 270 days after the date of enactment of the SPACE Act of 2015, the Secretary, in consultation and coordination with the commercial space sector, including the Commercial Space Transportation Advisory Committee, or its successor organization, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report specifying key industry metrics that might indicate readiness of the commercial space sector and the Department of Transportation to transition to a safety framework that may include regulations under paragraph (9) that considers space flight participant, government astronaut, and crew safety.
 
 &emsp;(7)
 

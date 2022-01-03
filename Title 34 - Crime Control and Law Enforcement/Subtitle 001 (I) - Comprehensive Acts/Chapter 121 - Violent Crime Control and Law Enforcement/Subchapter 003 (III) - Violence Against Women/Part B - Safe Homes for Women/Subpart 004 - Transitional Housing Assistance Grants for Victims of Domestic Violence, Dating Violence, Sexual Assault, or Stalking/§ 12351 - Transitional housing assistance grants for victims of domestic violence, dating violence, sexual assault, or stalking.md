@@ -22,7 +22,7 @@ Grants awarded under this section may be used for programs that provide—
 
 &emsp;&emsp;(B) secure employment, including obtaining employment counseling, occupational training, job retention counseling, and counseling concerning re-entry in to <sup>2</sup> the workforce; and
 
-&emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent with services, such as transportation, counseling, child care services, case management, and other assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
+&emsp;&emsp;(C) integrate into a community by providing that minor, adult, or dependent with services, such as transportation, counseling, child care services, case management, andother assistance. Participation in the support services shall be voluntary. Receipt of the benefits of the housing assistance described in paragraph (2) shall not be conditioned upon the participation of the youth, adults, or their dependents in any or all of the support services offered them.
 
 #### (c) Duration
 
@@ -118,7 +118,7 @@ Grants awarded under this section may be used for programs that provide—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), unless all qualified applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have been funded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
+&emsp;&emsp;Except as provided in subparagraph (B), unless all qualified applications submitted by any States, units of local government, Indian tribes, or organizations within a State for a grant under this section have beenfunded, that State, together with the grantees within the State (other than Indian tribes), shall be allocated in each fiscal year, not less than 0.75 percent of the total amount appropriated in the fiscal year for grants pursuant to this section.
 
 #### (B) Exception
 
@@ -166,7 +166,7 @@ Section was formerly classified to section 13975 of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 113–4, §602(2)(A), substituted "victims of domestic violence, dating violence, sexual assault, orstalking" for "child victims of domestic violence, stalking, or sexual assault" in section catchline.
+<b>2013</b>—Pub. L. 113–4, §602(2)(A), substituted "victims of domestic violence, dating violence, sexual assault, or stalking" for "child victims of domestic violence, stalking, or sexual assault" in section catchline.
 
 Subsec. (a)(1). Pub. L. 113–4, §602(2)(B), struck out "fleeing" before "a situation".
 

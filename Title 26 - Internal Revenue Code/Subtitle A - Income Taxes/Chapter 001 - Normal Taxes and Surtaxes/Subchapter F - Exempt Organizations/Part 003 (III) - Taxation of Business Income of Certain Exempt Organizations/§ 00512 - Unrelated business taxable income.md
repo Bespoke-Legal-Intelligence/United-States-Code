@@ -56,7 +56,7 @@ For purposes of this title—
 
 #### (iii) Treatment of tax exempt organizations
 
-&emsp;&emsp;&emsp;This subparagraph shall not apply to any organization if substantially all of thecontributions to such organization are made by employers who were exempt from tax under this chapter throughout the 5-taxable year period ending with the taxable year in which the contributions are made.
+&emsp;&emsp;&emsp;This subparagraph shall not apply to any organization if substantially all of the contributions to such organization are made by employers who were exempt from tax under this chapter throughout the 5-taxable year period ending with the taxable year in which the contributions are made.
 
 #### (4) Special rule applicable to organizations described in section 501(c)(19)
 
@@ -138,7 +138,7 @@ The modifications referred to in subsection (a) are the following:
 
 &emsp;(9) In the case of an organization operated primarily for purposes of carrying on fundamental research the results of which are freely available to the general public, there shall be excluded all income derived from research performed for any person, and all deductions directly connected with such income.
 
-&emsp;(10) In the case of any organization described in section 511(a), the deduction allowed by section 170 (relating to charitable etc. contributions and gifts) shall be allowed (whether or not directly connected with the carrying on of the trade or business), but shall not exceed 10 percent of the unrelated business taxable income computed without the benefit of this paragraph.
+&emsp;(10) In the case of any organization described in section 511(a), the deduction allowed by section 170 (relating to charitable etc. contributions and gifts) shall be allowed (whether ornot directly connected with the carrying on of the trade or business), but shall not exceed 10 percent of the unrelated business taxable income computed without the benefit of this paragraph.
 
 &emsp;(11) In the case of any trust described in section 511(b), the deduction allowed by section 170 (relating to charitable etc. contributions and gifts) shall be allowed (whether or not directly connected with the carrying on of the trade or business), and for such purpose a distribution made by the trust to a beneficiary described in section 170 shall be considered as a gift or contribution. The deduction allowed by this paragraph shall be allowed with the limitations prescribed in section 170(b)(1)(A) and (B) determined with reference to the unrelated business taxable income computed without the benefit of this paragraph (in lieu of with reference to adjusted gross income).
 
@@ -366,7 +366,7 @@ Request for certification.—Any request by an eligible taxpayer for a certifica
 
 &emsp;&emsp;&emsp;&emsp;(II) The reasonably anticipated future land uses or capacity for uses of the property are more economically productive or environmentally beneficial than the uses of the property in existence on the date of the certification described in subparagraph (C)(i). For purposes of the preceding sentence, use of property as a landfill or other hazardous waste facility shall not be considered more economically productive or environmentally beneficial.
 
-&emsp;&emsp;&emsp;&emsp;(III) A remediation plan has been implemented to bring the property into compliance with all applicable local, State, and Federal environmental laws, regulations, and standards and to ensure that the remediation protects human health and the environment.
+&emsp;&emsp;&emsp;&emsp;(III) A remediation plan has been implemented to bring the property into compliance with all applicable local, State, and Federal environmental laws,regulations, and standards and to ensure that the remediation protects human health and the environment.
 
 &emsp;&emsp;&emsp;&emsp;(IV) The remediation plan described in subclause (III), including any physical improvements required to remediate the property, is either complete or substantially complete, and, if substantially complete, sufficient monitoring, funding, institutional controls, and financial assurances have been put in place to ensure the complete remediation of the property in accordance with the remediation plan as soon as is reasonably practicable after the sale, exchange, or other disposition of such property.
 
@@ -420,7 +420,7 @@ Special rules for partnerships.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—In the case of an eligible taxpayer which is a partner of a qualifying partnership which acquires, remediates, and sells, exchanges, or otherwise disposes of a qualifying brownfield property, this paragraph shall apply to the eligible taxpayer's distributive share of the qualifying partnership's gain or loss from the sale, exchange, or other disposition of such property.
+In general.—In the case of an eligible taxpayer which is a partner of a qualifying partnership which acquires, remediates, and sells, exchanges, or otherwise disposes of a qualifying brownfield property, this paragraph shall apply to the eligible taxpayer's distributive share of the qualifyingpartnership's gain or loss from the sale, exchange, or other disposition of such property.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -462,7 +462,7 @@ Election.—An election under clause (i) shall be made with the eligible taxpaye
 
 &emsp;&emsp;&emsp;(iii)
 
-Revocation.—An eligible taxpayer or qualifying partnership may revoke anelection under clause (i) by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
+Revocation.—An eligible taxpayer or qualifying partnership may revoke an election under clause (i) by filing a statement of revocation with a timely filed tax return (including extensions). A revocation is effective as of the first day of the taxable year of the return in which the revocation is included or a later day in such taxable year selected by the eligible taxpayer or qualifying partnership. Once an eligible taxpayer or qualifying partnership revokes the election, the eligible taxpayer or qualifying partnership is ineligible to make another election under clause (i) with respect to any qualifying brownfield property subject to the revoked election.
 
 &emsp;&emsp;(I)
 
@@ -532,7 +532,7 @@ Termination.—Except for purposes of determining the average eligible remediati
 
 #### (2) Basis reduction
 
-&emsp;Except as provided in regulations, for purposes of paragraph (1), the basis of any stockacquired by purchase (as defined in section 1361(e)(1)(C)) shall be reduced by the amount of any dividends received by the organization with respect to the stock.
+&emsp;Except as provided in regulations, for purposes of paragraph (1), the basis of any stock acquired by purchase (as defined in section 1361(e)(1)(C)) shall be reduced by the amount of any dividends received by the organization with respect to the stock.
 
 #### (3) Exception for ESOPs
 
@@ -543,6 +543,8 @@ Termination.—Except for purposes of determining the average eligible remediati
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -608,7 +610,7 @@ Subsec. (b)(13)(B)(i)(I). Pub. L. 105–206, §6010(j)(2), struck out "(as defin
 
 Subsec. (b)(17)(B)(ii)(II). Pub. L. 105–206, §6023(8), substituted "rule" for "Rule" in subcl. heading.
 
-<b>1997</b>—Subsec. (a)(3)(D). Pub. L. 105–34, §312(d)(5), inserted "(as in effect on the day before the date of theenactment of the Taxpayer Relief Act of 1997)" after "1034".
+<b>1997</b>—Subsec. (a)(3)(D). Pub. L. 105–34, §312(d)(5), inserted "(as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997)" after "1034".
 
 Subsec. (b)(13). Pub. L. 105–34, §1041(a), amended par. (13) generally. Prior to amendment, par. (13) related to inclusion in gross income of controlling organization of amounts of interest, annuities, royalties, and rents derived from a controlled organization.
 
@@ -698,6 +700,8 @@ Subsec. (b)(15) to (17). Pub. L. 91–172, §121(b)(2)(C), added pars. (15) to (
 
 <b>1958</b>—Subsec. (b)(13). Pub. L. 85–367 added par. (13).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. Q, title III, §302(b), Dec. 20, 2019, 133 Stat. 3248, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendments made by section 13703 of Public Law 115–97."
@@ -714,7 +718,7 @@ In general.—Except to the extent provided in paragraph (2), the amendment made
 
 "(2)
 
-Carryovers of net operating losses.—If any net operating loss arising in a taxable year beginning before January 1, 2018, is carried over to a taxable year beginning on or after such date—
+Carryovers of net operating losses.—If any net operating loss arising in a taxable year beginningbefore January 1, 2018, is carried over to a taxable year beginning on or after such date—
 
 &emsp;"(A) subparagraph (A) of section 512(a)(6) of the Internal Revenue Code of 1986, as added by this Act, shall not apply to such net operating loss, and
 
@@ -884,7 +888,7 @@ Pub. L. 108–357, title VII, §702(c), Oct. 22, 2004, 118 Stat. 1546, provided 
 
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
-Pub. L. 94–455, title XIX, §1951(b)(8)(B), Oct. 4, 1976, 90 Stat. 1839, provided that: "Notwithstanding subparagraph (A) \[amending this section\], income received in a taxable year beginning after December 31, 1975, shall be excluded from gross income in determining unrelated business taxable income, if such income would have been excluded by paragraph (13) or (14) of section 512(b) if received in a taxable year beginning before such date. Any deductions directly connected with income excluded under the preceding sentence in determining unrelated business taxable income shall also be excluded for such purpose."
+Pub. L. 94–455, title XIX, §1951(b)(8)(B), Oct. 4, 1976, 90 Stat. 1839, provided that: "Notwithstanding subparagraph (A) \[amending this section\], income received in a taxable year beginning after December 31, 1975, shall be excluded from gross income in determining unrelated business taxable income, if such income would have been excluded by paragraph (13) or (14) of section 512(b) if received in a taxable year beginning before such date.Any deductions directly connected with income excluded under the preceding sentence in determining unrelated business taxable income shall also be excluded for such purpose."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

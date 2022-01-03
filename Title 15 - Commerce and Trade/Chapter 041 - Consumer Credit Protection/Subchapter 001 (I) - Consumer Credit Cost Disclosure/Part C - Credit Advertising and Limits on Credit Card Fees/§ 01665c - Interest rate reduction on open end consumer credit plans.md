@@ -26,9 +26,13 @@ The Bureau <sup>1</sup> shall issue final rules not later than 9 months after M
 
 (Pub. L. 90–321, title I, §148, as added Pub. L. 111–24, title I, §101(c), May 22, 2009, 123 Stat. 1737; amended Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted "Bureau" for "Board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -14,7 +14,7 @@ At the request of a committee chairman or ranking minority member, the Director 
 
 #### (c) Cooperation of Office of Management and Budget
 
-At the request of the Director of the Congressional Budget Office, the Director of the Office of Management and Budget shall provide data and cost estimates for regulations implementing an Act containing a Federal mandate covered by part B of title IV of the Congressional Budgetand Impoundment Control Act of 1974 \[2 U.S.C. 658 et seq.\].
+At the request of the Director of the Congressional Budget Office, the Director of the Office of Management and Budget shall provide data and cost estimates for regulations implementing an Act containing a Federal mandate covered by part B of title IV of the Congressional Budget and Impoundment Control Act of 1974 \[2 U.S.C. 658 et seq.\].
 
 (Pub. L. 104–4, title I, §103, Mar. 22, 1995, 109 Stat. 62.)
 

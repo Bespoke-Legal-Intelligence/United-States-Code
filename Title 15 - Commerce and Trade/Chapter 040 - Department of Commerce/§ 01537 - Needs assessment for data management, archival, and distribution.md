@@ -12,7 +12,7 @@
 
 &emsp;(E) integrate and interpret data from different sources to produce information that can be used by decisionmakers in developing policies that effectively respond to national and global environmental concerns.
 
-(2) Not later than 12 months after October 29, 1992, and biennially thereafter, the Secretary of Commerce shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a comprehensive plan, based on the assessment under paragraph (1), to modernize and improve the environmental data and information systems of the National Oceanic and Atmospheric Administration. The report shall—
+(2) Not later than 12 months after October 29, 1992, and biennially thereafter, the Secretary of Commerce shall develop and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a comprehensive plan, based on the assessment under paragraph (1), to modernize and improve the environmental data and information systems of the National Oceanicand Atmospheric Administration. The report shall—
 
 &emsp;(A) set forth modernization and improvement objectives for the 10-year period beginning with the year in which the plan is submitted, including facility requirements and critical new technological components that would be necessary to meet the objectives set forth;
 

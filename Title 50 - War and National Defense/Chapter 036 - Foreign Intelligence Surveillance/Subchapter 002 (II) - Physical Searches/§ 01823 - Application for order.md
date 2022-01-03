@@ -50,7 +50,7 @@ The judge may require the applicant to furnish such other information as may be 
 
 (B) Except when disabled or otherwise unavailable to make a request referred to in subparagraph (A), an official referred to in that subparagraph may not delegate the authority to make a request referred to in that subparagraph.
 
-(C) Each official referred to in subparagraph (A) with authority to make a request under that subparagraph shall take appropriate actions in advance to ensure that delegation of such authority is clearly established in the event such official is disabled or otherwise unavailable to make such request.
+(C) Each official referred to in subparagraph (A) with authority to make a request under that subparagraph shall take appropriate actions in advance to ensure that delegation of such authority is clearly established in the event suchofficial is disabled or otherwise unavailable to make such request.
 
 (2)(A) If as a result of a request under paragraph (1) the Attorney General determines not to approve an application under the second sentence of subsection (a) for purposes of making the application under this section, the Attorney General shall provide written notice of the determination to the official making the request for the review of the application under that paragraph. Except when disabled or otherwise unavailable to make a determination under the preceding sentence, the Attorney General may not delegate the responsibility to make a determination under that sentence. The Attorney General shall take appropriate actions in advance to ensure that delegation of such responsibility is clearly established in the event the Attorney General is disabled or otherwise unavailable to make such determination.
 
@@ -60,11 +60,13 @@ The judge may require the applicant to furnish such other information as may be 
 
 (Pub. L. 95–511, title III, §303, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3446; amended Pub. L. 106–567, title VI, §603(a), Dec. 27, 2000, 114 Stat. 2852; Pub. L. 107–56, title II, §218, Oct. 26, 2001, 115 Stat. 291; Pub. L. 108–458, title I, §1071(e), Dec. 17, 2004, 118 Stat. 3691; Pub. L. 110–261, title I, §107(a), July 10, 2008, 122 Stat. 2462; Pub. L. 111–259, title VIII, §806(a)(2), Oct. 7, 2010, 124 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out "detailed" before"description of the premises", and struck out former par. (2) which read as follows: "the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;".
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–261, §107(a)(1)(A)–(C), redesignated par. (3) as (2), struck out "detailed" before "description of the premises", and struck out former par. (2) which read as follows: "the authority conferred on the Attorney General by the President and the approval of the Attorney General to make the application;".
 
 Subsec. (a)(3). Pub. L. 110–261, §107(a)(1)(B), (D), redesignated par. (4) as (3) and inserted "or is about to be" before "owned" in subpar. (C). Former par. (3) redesignated (2).
 
@@ -81,6 +83,8 @@ Subsec. (d)(1)(A). Pub. L. 110–261, §107(a)(2), substituted "the Director of 
 <b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted "a significant purpose" for "the purpose".
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–567 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

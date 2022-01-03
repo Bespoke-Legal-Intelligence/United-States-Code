@@ -1,12 +1,10 @@
 ### §1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
 
-An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
+An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
 
 (July 5, 1946, ch. 540, title I, §20, 60 Stat. 435; Pub. L. 85–609, §1(b), Aug. 8, 1958, 72 Stat. 540; Pub. L. 116–260, div. Q, title II, §§225(d)(1), 228(a)(2), Dec. 27, 2020, 134 Stat. 2207, 2210.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. Q, title II, §225(d)(1), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by inserting "or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding" after "registration of marks". See 2020 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -19,6 +17,8 @@ Act Feb. 20, 1905, ch. 592, §§8, 13, 33 Stat. 726, 728.
 Pub. L. 116–260, §225(d)(1), inserted "or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding" after "registration of marks".
 
 <b>1958</b>—Pub. L. 85–609 substituted "Trademark Trial and Appeal Board" for "Commissioner in person" and "fee" for "fees", and struck out "of interferences or" after "examiner in charge".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -36,11 +36,13 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 For construction of amendment made by section 228(a)(2) of div. Q of Pub. L. 116–260 regarding Director's authority before Dec. 27, 2020, and authority with respect to particular decisions, see section 228(b) of div. Q of Pub. L. 116–260, set out as a note under section 1068 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Reorganization Plan No. 5 of 1950
 
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under section 1067 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

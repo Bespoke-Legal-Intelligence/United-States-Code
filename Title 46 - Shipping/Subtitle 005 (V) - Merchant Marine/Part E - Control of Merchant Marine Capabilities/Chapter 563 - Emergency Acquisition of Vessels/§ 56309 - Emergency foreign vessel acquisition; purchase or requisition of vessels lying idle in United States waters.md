@@ -20,5 +20,5 @@ Pub. L. 115–91, §3504(a)(1), transferred section 1 of act Aug. 9, 1954, to th
 
 #### References
 
-Pub. L. 115–91, div. C, title XXXV, §3504(f), Dec. 12, 2017, 131 Stat. 1913, provided that: "Any reference in a law, regulation, document, paper, or other record of the United States to a section that is redesignated and transferred by this section \[sections 1 to 3 of act Aug. 9, 1954, former 50 U.S.C. 196 to 198\] is deemed to refer to such section as so redesignated and transferred \[now 46 U.S.C. 56309 to 56311\]."
+Pub. L. 115–91, div. C, title XXXV, §3504(f), Dec. 12, 2017, 131 Stat. 1913, provided that: "Any reference in alaw, regulation, document, paper, or other record of the United States to a section that is redesignated and transferred by this section \[sections 1 to 3 of act Aug. 9, 1954, former 50 U.S.C. 196 to 198\] is deemed to refer to such section as so redesignated and transferred \[now 46 U.S.C. 56309 to 56311\]."
 

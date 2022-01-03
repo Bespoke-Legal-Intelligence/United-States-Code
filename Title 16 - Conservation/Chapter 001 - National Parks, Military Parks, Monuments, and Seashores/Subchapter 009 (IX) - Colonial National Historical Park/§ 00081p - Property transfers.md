@@ -10,7 +10,7 @@ The Secretary is authorized to enter into a cooperative agreement with York Coun
 
 #### (c) Fees and charges
 
-In consideration for the rights-of-way granted under subsection (a), and in recognition of the National Park Service's contribution authorized under subsection (b), the cooperative agreement under subsection (b) shall provide for a reduction in, or the elimination of, the amounts charged to the National Park Service for its sewage disposal. The cooperative agreement shall also provide for minimizing the impact of the sewage disposal system on the park and its resources. Such system may not be enlarged or substantially altered without National Park Service concurrence.
+In consideration for the rights-of-way granted under subsection (a), and in recognition of theNational Park Service's contribution authorized under subsection (b), the cooperative agreement under subsection (b) shall provide for a reduction in, or the elimination of, the amounts charged to the National Park Service for its sewage disposal. The cooperative agreement shall also provide for minimizing the impact of the sewage disposal system on the park and its resources. Such system may not be enlarged or substantially altered without National Park Service concurrence.
 
 #### (d) Inclusion of land in Colonial National Historical Park
 
@@ -21,6 +21,8 @@ Notwithstanding the provisions of sections 81b and 81d of this title, limiting t
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
 (Pub. L. 104–333, div. I, title II, §211, Nov. 12, 1996, 110 Stat. 4109; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §122\], Nov. 29, 1999, 113 Stat. 1535, 1501A–159; Pub. L. 106–176, title I, §102, Mar. 10, 2000, 114 Stat. 25.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

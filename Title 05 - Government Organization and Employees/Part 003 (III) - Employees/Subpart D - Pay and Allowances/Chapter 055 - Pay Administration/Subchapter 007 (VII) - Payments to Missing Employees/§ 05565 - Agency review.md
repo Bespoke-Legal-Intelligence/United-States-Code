@@ -12,7 +12,7 @@
 
 &emsp;(2) a day determined by the head of the agency concerned or his designee when the missing status has been continued under subsection (a) of this section.
 
-(c) For the purpose of determining status under this section, a dependent of an employee in active service is deemed an employee. A determination under this section made by the head of the agency concerned or his designee is conclusive on all other agencies of the UnitedStates. This section does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
+(c) For the purpose of determining status under this section, a dependent of an employee in active service is deemed an employee. A determination under this section made by the head of the agency concerned or his designee is conclusive on all other agencies of the United States. This section does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 492.)
 

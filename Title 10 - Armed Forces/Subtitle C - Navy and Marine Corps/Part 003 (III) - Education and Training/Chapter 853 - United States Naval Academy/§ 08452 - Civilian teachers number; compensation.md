@@ -38,6 +38,8 @@ The words "for the proper instruction of naval personnel" and the words "be paid
 
 In subsection (c) the words "except the authority to prescribe regulations" are omitted, since 34 U.S.C. 1071 contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8452, added Pub. L. 85–861, §1(180)(E), Sept. 2, 1958, 72 Stat. 1532, provided that, notwithstanding any other provision of law, a medical or dental officer may be promoted to temporary grade of captain at any time after first anniversary of date upon which he graduated from a medical, osteopathic, or dental school, prior to repeal by Pub. L. 96–513, title II, §207, Dec. 12, 1980, 94 Stat. 2884, effective Sept. 15, 1981.
@@ -47,6 +49,8 @@ A prior section 8452, added Pub. L. 85–861, §1(180)(E), Sept. 2, 1958, 72 Sta
 <b>2018</b>—Pub. L. 115–232 renumbered section 6952 of this title as this section.
 
 <b>1999</b>—Subsecs. (c), (d). Pub. L. 106–65 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

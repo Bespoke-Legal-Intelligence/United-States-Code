@@ -8,7 +8,7 @@
 
 (3) When reserve officers of an armed force are to be considered by a selection board, the membership of the board shall include at least one reserve officer of that armed force on active duty (whether or not on the active-duty list). The actual number of reserve officers shall be determined by the Secretary of the military department concerned, in the Secretary's discretion. Notwithstanding the first sentence of this paragraph, in the case of a board which is considering officers in the grade of colonel or brigadier general or, in the case of officers of the Navy, captain or rear admiral (lower half), no reserve officer need be included if there are no reserve officers of that armed force on active duty in the next higher grade who are eligible to serve on the board.
 
-(4) Except as provided in paragraphs (2) and (3), if qualified officers on the active-duty list are not available in sufficient number to comprise a selection board, the Secretary of the military department concerned shall complete the membership of the board by appointing as members of the board officers who are members of the same armed force and hold a grade higher than the grade of the officers under consideration by the board and who are retired officers, reserve officers serving on active duty but not on the active-duty list, or members of the Ready Reserve.
+(4) Except as provided in paragraphs (2) and (3), if qualified officers on the active-duty list are not available in sufficient number to comprise a selection board, the Secretary of the military department concerned shall complete the membership of the board by appointing asmembers of the board officers who are members of the same armed force and hold a grade higher than the grade of the officers under consideration by the board and who are retired officers, reserve officers serving on active duty but not on the active-duty list, or members of the Ready Reserve.
 
 (5) A retired general or flag officer who is on active duty for the purpose of serving on a selection board shall not, while so serving, be counted against any limitation on the number of general and flag officers who may be on active duty.
 
@@ -29,6 +29,8 @@
 &emsp;(B) any selection board that is considering officers in specialties identified in paragraph (2) or (3) of section 619a(b) of this title.
 
 (Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2851; amended Pub. L. 97–22, §4(a), July 10, 1981, 95 Stat. 125; Pub. L. 97–86, title IV, §405(b)(1), Dec. 1, 1981, 95 Stat. 1105; Pub. L. 99–145, title V, §514(b)(1), Nov. 8, 1985, 99 Stat. 628; Pub. L. 99–433, title IV, §402(a), Oct. 1, 1986, 100 Stat. 1030; Pub. L. 106–398, §1 \[\[div. A\], title V, §504(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–101; Pub. L. 111–383, div. A, title V, §522(a), Jan. 7, 2011, 124 Stat. 4214; Pub. L. 116–283, div. A, title V, §503(a)(1), Jan. 1, 2021, 134 Stat. 3564.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -55,6 +57,8 @@ Subsec. (a)(4). Pub. L. 97–22, §4(a)(3), substituted "Except as provided in p
 Subsec. (a)(5). Pub. L. 97–22, §4(a)(3), added par. (5) consisting of provisions, formerly contained in par. (4).
 
 Subsec. (b). Pub. L. 97–22, §4(a)(4), inserted "convened under section 611(a) of this title" after "selection boards".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

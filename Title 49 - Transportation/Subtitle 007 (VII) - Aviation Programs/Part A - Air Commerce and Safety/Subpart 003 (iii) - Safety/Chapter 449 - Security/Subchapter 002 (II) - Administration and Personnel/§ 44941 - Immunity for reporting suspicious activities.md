@@ -14,6 +14,8 @@ Application.—Subsection (a) shall not apply to—
 
 (Added Pub. L. 107–71, title I, §125(a), Nov. 19, 2001, 115 Stat. 631; amended Pub. L. 115–254, div. K, title I, §1991(d)(32), Oct. 5, 2018, 132 Stat. 3640.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254 inserted "the Department of Homeland Security," after "Department of Transportation,".

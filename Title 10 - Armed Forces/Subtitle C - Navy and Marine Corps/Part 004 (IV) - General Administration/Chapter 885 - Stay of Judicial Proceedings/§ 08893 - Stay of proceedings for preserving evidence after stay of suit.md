@@ -20,9 +20,13 @@ July 3, 1944, ch. 399, §1 (proviso, less applicability to duration of stay), 58
 
 The word "stayed" is substituted for the word "suspended" for uniformity and clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7723 of this title as this section and substituted "section 8892" for "section 7722".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 112–144, §307(2), amended subsec. (c) generally. Prior t
 
 #### Effective Date of 2017 Amendment
 
-Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of this subchapterto be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
+Amendment by Pub. L. 115–52 effective Oct. 1, 2017, with fees under subpart 3 of part C of this subchapter to be assessed for all submissions listed in section 379j(a)(2)(A) of this title received on or after Oct. 1, 2017, see section 209 of Pub. L. 115–52, set out as a note under section 379i of this title.
 
 #### Effective Date of 2012 Amendment
 

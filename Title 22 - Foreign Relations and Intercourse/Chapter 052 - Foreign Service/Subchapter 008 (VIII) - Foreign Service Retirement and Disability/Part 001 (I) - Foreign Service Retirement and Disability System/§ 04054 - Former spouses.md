@@ -12,7 +12,7 @@
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
-(3) The annuity of a former spouse under this subsection commences on the later of the day the participant upon whose service the annuity is based becomes entitled to an annuity under this part or the first day of the month in which the divorce or annulment involved becomes final. The annuity of such former spouse and the right thereto terminate on—
+(3) The annuity of a former spouse under this subsection commences on the later of the day the participant upon whose service the annuity is based becomes entitled to an annuity under this part or the first day of the month in whichthe divorce or annulment involved becomes final. The annuity of such former spouse and the right thereto terminate on—
 
 &emsp;(A) the last day of the month before the former spouse dies or remarries before 60 years of age; or
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) a spousal agreement or court order under section 4060(b)(1) of this title may provide for,
 
-> an additional survivor annuity under this subsection for any other former spouse or spouse surviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Secretary of State.
+> an additional survivor annuity under this subsection for any other former spouse or spousesurviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Secretary of State.
 
 (2) Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant or former participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section and section 4046 of this title, shall exceed 55 percent of the full amount of the participant's annuity, as computed under section 4046(a) of this title.
 
@@ -90,7 +90,7 @@
 
 (5) Section 4066 of this title shall not apply to any annuity under this subsection, unless authorized under regulations prescribed by the Secretary of State.
 
-(Pub. L. 96–465, title I, §814, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 97–241, title I, §125(2), Aug. 24, 1982,96 Stat. 282; Pub. L. 99–335, title IV, §§402(a)(2), (3), 404(b), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, §217(a), (b), (c)(2), Jan. 8, 1988, 101 Stat. 1775.)
+(Pub. L. 96–465, title I, §814, Oct. 17, 1980, 94 Stat. 2113; Pub. L. 97–241, title I, §125(2), Aug. 24, 1982, 96 Stat. 282; Pub. L. 99–335, title IV, §§402(a)(2), (3), 404(b), June 6, 1986, 100 Stat. 609, 610; Pub. L. 100–238, title II, §217(a), (b), (c)(2), Jan. 8, 1988, 101 Stat. 1775.)
 
 #### <b>Editorial Notes</b>
 

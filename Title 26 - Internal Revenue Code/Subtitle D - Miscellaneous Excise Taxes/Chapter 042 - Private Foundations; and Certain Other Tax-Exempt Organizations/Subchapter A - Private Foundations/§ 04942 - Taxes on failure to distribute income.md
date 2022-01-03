@@ -96,7 +96,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;The deduction modifications referred to in paragraph (1)(B) are as follows:
 
-&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income andthe allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
+&emsp;&emsp;(A) no deduction shall be allowed other than all the ordinary and necessary expenses paid or incurred for the production or collection of gross income or for the management, conservation, or maintenance of property held for the production of such income and the allowances for depreciation and depletion determined under section 4940(c)(3)(B), and
 
 &emsp;&emsp;(B) section 265 (relating to expenses and interest relating to tax-exempt interest) shall not apply.
 
@@ -150,7 +150,7 @@ For purposes of this section, the term "distributable amount" means, with respec
 
 &emsp;&emsp;For purposes of subparagraph (D), with respect to any taxable year of a private foundation, the taxable years in the adjustment period are the taxable years (not exceeding 5) beginning after December 31, 1975, and immediately preceding the taxable year.
 
-> &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B),for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
+> &emsp;In the case of a set-aside which satisfies the requirements of clause (i) of subparagraph (B), for good cause shown, the period for paying the amount set aside may be extended by the Secretary.
 
 #### (3) Certain contributions to section 501(c)(3) organizations
 
@@ -272,6 +272,8 @@ For purposes of this section—
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 502; amended Pub. L. 94–455, title XIII, §§1302(a), 1303(a), 1310(a), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1713, 1715, 1729, 1834; Pub. L. 95–600, title V, §522(a), Nov. 6, 1978, 92 Stat. 2885; Pub. L. 96–596, §2(a)(1)(C), (2)(B), (3)(B), (4)(A), Dec. 24, 1980, 94 Stat. 3469–3472; Pub. L. 97–34, title VIII, §823(a), Aug. 13, 1981, 95 Stat. 351; Pub. L. 97–448, title I, §108(b), Jan. 12, 1983, 96 Stat. 2391; Pub. L. 98–369, div. A, title III, §§304(a), (b), 305(b)(4), 314(a)(1), (2), July 18, 1984, 98 Stat. 782–784, 787; Pub. L. 99–514, title XIII, §1301(j)(6), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 109–280, title XII, §§1212(b), 1244(a), Aug. 17, 2006, 120 Stat. 1074, 1107; Pub. L. 110–172, §11(a)(14)(D), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 113–295, div. A, title II, §221(a)(105), Dec. 19, 2014, 128 Stat. 4053.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 1212(b) and 1244(a) of Pub. L. 109–280, which directed the amendment of section 4942 without specifying the act to be amended, were executed to this section, which is section 4942 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -332,6 +334,8 @@ Subsec. (g)(2). Pub. L. 94–455, §1302(a), among other changes, inserted refer
 
 Subsecs. (h)(2), (j)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -372,7 +376,7 @@ Pub. L. 95–600, title V, §522(b), Nov. 6, 1978, 92 Stat. 2885, provided that:
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–455, title XIII, §1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: "The amendments made by thissection \[amending this section and section 6501 of this title\] shall apply to taxable years beginning after December 31, 1974."
+Pub. L. 94–455, title XIII, §1302(c), Oct. 4, 1976, 90 Stat. 1715, provided that: "The amendments made by this section \[amending this section and section 6501 of this title\] shall apply to taxable years beginning after December 31, 1974."
 
 Pub. L. 94–455, title XIII, §1303(b), Oct. 4, 1976, 90 Stat. 1715, provided that: "The amendment made by this section \[amending this section\] applies to taxable years beginning after December 31, 1975."
 

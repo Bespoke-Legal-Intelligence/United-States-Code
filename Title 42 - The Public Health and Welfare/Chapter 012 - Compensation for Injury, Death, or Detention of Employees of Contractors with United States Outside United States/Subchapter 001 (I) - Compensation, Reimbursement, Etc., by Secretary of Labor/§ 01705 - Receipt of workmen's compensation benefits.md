@@ -24,6 +24,8 @@ If at the time a person sustains an injury coming within the purview of this sub
 
 (Dec. 2, 1942, ch. 668, title I, §105, 56 Stat. 1032; Dec. 23, 1943, ch. 380, title I, 57 Stat. 627.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsecs. (b) and (c), "section 8147 of title 5" was substituted for "section 35 of such Act of September 7, 1916, as amended," on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -32,9 +34,13 @@ In subsecs. (b) and (c), "section 8147 of title 5" was substituted for "section 
 
 <b>1943</b>—Subsec. (c). Act Dec. 23, 1943, added second par.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1943 Amendment
 
 Act Dec. 23, 1943, provided that: "The amendment in paragraph (a) \[amending this section\] shall become effective as of the effective date of title I of such Act of December 2, 1942 \[sections 1701 to 1706 of this title\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

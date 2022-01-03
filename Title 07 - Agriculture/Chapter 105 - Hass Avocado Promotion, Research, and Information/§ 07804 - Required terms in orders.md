@@ -204,7 +204,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Audits
 
-&emsp;The Board shall cause the books and records of the Board to be audited by an independent auditor at the end of each fiscal year. A report of each audit shall be submitted to the Secretary.
+&emsp;The Board shall cause the books and records of the Board to be audited by an independent auditor at the end of each fiscal year. A reportof each audit shall be submitted to the Secretary.
 
 #### (g) Control of administrative costs
 
@@ -296,7 +296,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (8) Assessment funds for State association
 
-&emsp;The order shall provide that a State organization of avocado producers established pursuant to State law shall receive an amount equal to the product obtained by multiplying the aggregate amount of assessments attributable tothe pounds of Hass avocados produced in such State by 85 percent. The State organization shall use such funds and any proceeds from the investment of such funds for financing domestic promotion, research, consumer information, and industry information plans and projects, except that no such funds shall be used for the administrative expenses of such State organization.
+&emsp;The order shall provide that a State organization of avocado producers established pursuant to State law shall receive an amount equal to the product obtained by multiplying the aggregate amount of assessments attributable to the pounds of Hass avocados produced in such State by 85 percent. The State organization shall use such funds and any proceeds from the investment of such funds for financing domestic promotion, research, consumer information, and industry information plans and projects, except that no such funds shall be used for the administrative expenses of such State organization.
 
 #### (9) Assessment funds for importers associations
 
@@ -422,9 +422,13 @@ The order shall contain such other terms and provisions, consistent with this ch
 
 (Pub. L. 106–387, §1(a) \[title XII, §1205\], Oct. 28, 2000, 114 Stat. 1549, 1549A–82.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

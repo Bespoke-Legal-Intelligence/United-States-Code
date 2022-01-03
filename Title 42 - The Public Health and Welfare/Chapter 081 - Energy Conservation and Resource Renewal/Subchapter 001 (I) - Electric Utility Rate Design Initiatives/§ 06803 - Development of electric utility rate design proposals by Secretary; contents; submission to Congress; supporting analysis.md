@@ -22,6 +22,8 @@
 
 (Pub. L. 94–385, title II, §203, Aug. 14, 1976, 90 Stat. 1143; Pub. L. 95–617, title I, §143, Nov. 9, 1978, 92 Stat. 3134.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–617 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration.

@@ -174,7 +174,7 @@
 
 #### (ii) Noncompliance
 
-&emsp;&emsp;&emsp;If the Secretary determines an expedited approval facility is not in compliance withthe requirements of the site security plan or is otherwise in violation of this subchapter, the Secretary may enforce compliance in accordance with section 624 of this title.
+&emsp;&emsp;&emsp;If the Secretary determines an expedited approval facility is not in compliance with the requirements of the site security plan or is otherwise in violation of this subchapter, the Secretary may enforce compliance in accordance with section 624 of this title.
 
 #### (F) Amendments to site security plan
 
@@ -248,11 +248,11 @@
 
 #### (aa) Revocation of certification
 
-&emsp;&emsp;&emsp;&emsp;&emsp;If an expedited approval facility does not agree to include in its site security plan specific additional security measures recommended by the Secretaryunder subclause (II)(aa), or does not submit a new or modified site security plan in accordance with subclause (III), the Secretary may revoke the certification of the facility by issuing an order under section 624(a)(1)(B) of this title.
+&emsp;&emsp;&emsp;&emsp;&emsp;If an expedited approval facility does not agree to include in its site security plan specific additional security measures recommended by the Secretary under subclause (II)(aa), or does not submit a new or modified site security plan in accordance with subclause (III), the Secretary may revoke the certification of the facility by issuing an order under section 624(a)(1)(B) of this title.
 
 #### (bb) Effect of revocation
 
-&emsp;&emsp;&emsp;&emsp;&emsp;If the Secretary revokes the certification of an expedited approval facility under item (aa) by issuing an order under section 624(a)(1)(B) of this title—
+&emsp;&emsp;&emsp;&emsp;&emsp;If the Secretary revokes the certification of an expedited approval facilityunder item (aa) by issuing an order under section 624(a)(1)(B) of this title—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) the order shall require the owner or operator of the facility to submit a site security plan or alternative security program for review by the Secretary review <sup>1</sup> under subsection (c)(1); and
 
@@ -342,7 +342,7 @@
 
 #### (C) Support personnel
 
-&emsp;&emsp;The Secretary may use nongovernmental personnel to provide administrative and logistical services in support of audits and inspections under this subchapter.
+&emsp;&emsp;The Secretary may use nongovernmental personnel to provide administrative andlogistical services in support of audits and inspections under this subchapter.
 
 #### (D) Reporting structure
 
@@ -416,7 +416,7 @@
 
 &emsp;&emsp;&emsp;(ii) visual inspection shall be sufficient to meet the requirement under clause (i)(II)(bb), but the facility should consider other means of verification, consistent with the facility's assessment of the threat posed by acceptance of such credentials; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary may not require a covered chemical facility to submit any information about an individual unless the individual—
+&emsp;&emsp;&emsp;(iii) the Secretary may not require a covered chemical facility to submit anyinformation about an individual unless the individual—
 
 &emsp;&emsp;&emsp;&emsp;(I) is to be vetted under the Personnel Surety Program; or
 
@@ -514,7 +514,7 @@
 
 #### Effective and Termination Dates
 
-Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this section to terminate on the date that is 5 years and 3 months after such effective date, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
+Section effective on the date that is 30 days after Dec. 18, 2014, and authority provided under this sectionto terminate on July 27, 2023, see sections 4(a) and 5 of Pub. L. 113–254, set out as notes under section 621 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

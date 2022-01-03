@@ -74,7 +74,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;(7) an assurance by the State that—
 
-&emsp;&emsp;(A) the public health agency that is administering the grant for the State engages in a public advisory planning process, including public hearings, that includes the participants under paragraph (6), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (5) and commenting on the implementation of such plan;
+&emsp;&emsp;(A) the public health agency that is administering the grant for the State engagesin a public advisory planning process, including public hearings, that includes the participants under paragraph (6), and the types of entities described in section 300ff–12(b)(2) of this title, in developing the comprehensive plan under paragraph (5) and commenting on the implementation of such plan;
 
 &emsp;&emsp;(B) the State will—
 
@@ -102,7 +102,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;&emsp;(ii) by an entity that provides health services on a prepaid basis (except for a program administered by or providing the services of the Indian Health Service); and
 
-&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adultand juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care; and
+&emsp;&emsp;(G) entities within areas in which activities under the grant are carried out will maintain appropriate relationships with entities in the area served that constitute key points of access to the health care system for individuals with HIV/AIDS (including emergency rooms, substance abuse treatment programs, detoxification centers, adult and juvenile detention facilities, sexually transmitted disease clinics, HIV counseling and testing sites, mental health programs, and homeless shelters), and other entities under section <sup>3</sup> 300ff–22(c) and 300ff–52(a) of this title, for the purpose of facilitating early intervention for individuals newly diagnosed with HIV/AIDS and individuals knowledgeable of their HIV status but not in care; and
 
 &emsp;(8) a comprehensive plan—
 
@@ -130,7 +130,7 @@ The application submitted under subsection (a) shall contain—
 
 &emsp;&emsp;&emsp;(ii) will impose charges according to a schedule of charges that is made available to the public;
 
-&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
+&emsp;&emsp;(C) in the case of individuals with an income greater than 100 percent of the official poverty line and not exceeding 200 percent of such poverty line, the provider will not, forany calendar year, impose charges in an amount exceeding 5 percent of the annual gross income of the individual involved;
 
 &emsp;&emsp;(D) in the case of individuals with an income greater than 200 percent of the official poverty line and not exceeding 300 percent of such poverty line, the provider will not, for any calendar year, impose charges in an amount exceeding 7 percent of the annual gross income of the individual involved; and
 
@@ -162,7 +162,7 @@ The application submitted under subsection (a) shall contain—
 
 #### (1) In general
 
-&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2),<sup>4</sup> make available\(directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
+&emsp;In the case of any State to which the criterion described in paragraph (3) applies, the Secretary may not make a grant under section 300ff–21 of this title unless the State agrees that, with respect to the costs to be incurred by the State in carrying out the program for which the grant was awarded, the State will, subject to subsection (b)(2),<sup>4</sup> make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount equal to—
 
 &emsp;&emsp;(A) for the first fiscal year of payments under the grant, not less than 162/3 percent of such costs ($1 for each $5 of Federal funds provided in the grant);
 
@@ -205,6 +205,8 @@ The application submitted under subsection (a) shall contain—
 &emsp;With respect to a State that does not make available the entire amount of the non-Federal contribution referred to in paragraph (1), the State shall continue to be eligible to receive Federal funds under a grant under section 300ff–21 of this title, except that the Secretary in providing Federal funds under the grant shall provide such funds (in accordance with the ratios prescribed in paragraph (1)) only with respect to the amount of funds contributed by such State.
 
 (July 1, 1944, ch. 373, title XXVI, §2617, as added Pub. L. 101–381, title II, §201, Aug. 18, 1990, 104 Stat. 590; amended Pub. L. 102–531, title III, §312(d)(29), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §§3(c)(4), 12(c)(3), May 20, 1996, 110 Stat. 1355, 1373; Pub. L. 106–345, title II, §205, Oct. 20, 2000, 114 Stat. 1332; Pub. L. 109–415, title II, §204(a), (c), (d), title VII, §§702(3), 703, Dec. 19, 2006, 120 Stat. 2796, 2797, 2820; Pub. L. 111–87, §§2(a)(1), (3)(A), 9, Oct. 30, 2009, 123 Stat. 2885, 2895.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -274,9 +276,11 @@ Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment o
 
 <b>1992</b>—Subsec. (d)(3)(A). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment; Revival of Section
 
-For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 9 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
+For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effectiveSept. 30, 2009, that the provisions of this section as in effect on Sept. 30, 2009, be revived, and that amendment by section 9 of Pub. L. 111–87 be applicable to this section as so revived and effective as if enacted on Sept. 30, 2009, see section 2(a)(2), (3) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
 #### Effective Date of 1996 Amendment
 

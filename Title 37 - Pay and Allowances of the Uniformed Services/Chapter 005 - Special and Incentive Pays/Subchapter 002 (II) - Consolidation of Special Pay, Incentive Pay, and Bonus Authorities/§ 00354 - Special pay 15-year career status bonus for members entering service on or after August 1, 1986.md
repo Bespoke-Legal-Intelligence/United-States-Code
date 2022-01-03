@@ -2,7 +2,7 @@
 
 (a)
 
-Availability of Bonus.—The Secretary concerned shall pay a bonus under this sectionto an eligible career bonus member if the member—
+Availability of Bonus.—The Secretary concerned shall pay a bonus under this section to an eligible career bonus member if the member—
 
 &emsp;(1) elects to receive the bonus under this section; and
 

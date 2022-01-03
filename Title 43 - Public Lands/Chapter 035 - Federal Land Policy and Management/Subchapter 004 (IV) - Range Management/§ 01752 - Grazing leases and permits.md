@@ -18,7 +18,7 @@ Permits or leases may be issued by the Secretary concerned for a period shorter 
 
 #### (1) Renewal of expiring or transferred permit or lease
 
-&emsp;During any period in which (A) the lands for which the permit or lease is issued remain available for domestic livestock grazing in accordance with land use plans prepared pursuant to section 1712 of this title or section 1604 of title 16, (B) the permittee or lessee is in compliance with the rules and regulations issued and the terms and conditions in the permit or lease specified by the Secretary concerned, and (C) the permittee or lessee accepts the terms and conditions to be included by the Secretary concerned in the new permit orlease, the holder of the expiring permit or lease shall be given first priority for receipt of the new permit or lease.
+&emsp;During any period in which (A) the lands for which the permit or lease is issued remain available for domestic livestock grazing in accordance with land use plans prepared pursuant to section 1712 of this title or section 1604 of title 16, (B) the permittee or lessee is in compliance with the rules and regulations issued and the terms and conditions in the permit or lease specified by the Secretary concerned, and (C) the permittee or lessee accepts the terms and conditions to be included by the Secretary concerned in the new permit or lease, the holder of the expiring permit or lease shall be given first priority for receipt of the new permit or lease.
 
 #### (2) Continuation of terms under new permit or lease
 
@@ -42,7 +42,7 @@ In all cases where the Secretary concerned has not completed an allotment manage
 
 #### (f) Allotment management plan applicability to non-Federal lands; appeal rights
 
-Allotment management plans shall not refer to livestock operations or range improvements on non-Federal lands except where the non-Federal lands are intermingled with, or, with the consent of the permittee or lessee involved, associated with, the Federal lands subject to the plan. The Secretary concerned under appropriate regulations shall grant to lessees and permittees the right of appeal from decisions which specify the terms and conditions of allotment management plans. The preceding sentence of this subsection shall not be construed as limiting any other right of appeal from decisions of such officials.
+Allotment management plans shall not refer to livestock operations or range improvements on non-Federal lands except where the non-Federal lands are intermingled with, or, with the consent of the permittee or lessee involved, associated with, the Federal lands subject to theplan. The Secretary concerned under appropriate regulations shall grant to lessees and permittees the right of appeal from decisions which specify the terms and conditions of allotment management plans. The preceding sentence of this subsection shall not be construed as limiting any other right of appeal from decisions of such officials.
 
 #### (g) Cancellation of permit or lease; determination of reasonable compensation; notice
 

@@ -22,6 +22,8 @@ Congress finds the following:
 
 (Pub. L. 108–19, §2, Apr. 25, 2003, 117 Stat. 631.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: "This Act \[enacting this chapter\] shall take effect on the date on which the President certifies to the Congress that—
@@ -32,11 +34,13 @@ Pub. L. 108–19, §15, Apr. 25, 2003, 117 Stat. 637, provided that: "This Act \
 
 > This Act shall thereafter remain in effect during those periods in which, as certified by the President to the Congress, an applicable waiver or decision referred to in paragraph (1) or (2) is in effect."
 
-\[A Presidential message to Congress dated July 29, 2003, set out in 39 Weekly Compilation of Presidential Documents 1002, Aug. 4, 2003, certified that an applicable waiver granted by the World Trade Organization was in effect and would remain in effect until Dec. 31, 2006. On Oct. 8, 2009, the President certified to Congress that an applicable waiver granted by the World Trade Organization had been in effect since Jan. 1, 2003, and would remain in effect through Dec. 31, 2012. See H.Doc. 111–67, Cong. Rec., vol 155, pt. 18, p. 24393, Oct. 8, 2009.\]
+\[A Presidential message to Congress dated July 29, 2003, set out in 39 Weekly Compilation of Presidential Documents 1002, Aug. 4, 2003, certified that an applicable waiver granted by the World Trade Organization was in effect and would remain in effect until Dec. 31,2006. On Oct. 8, 2009, the President certified to Congress that an applicable waiver granted by the World Trade Organization had been in effect since Jan. 1, 2003, and would remain in effect through Dec. 31, 2012. See H. Doc. 111–67, Cong. Rec., vol 155, p. H11143, Daily Issue, Oct. 8, 2009.\]
 
 #### Short Title
 
 Pub. L. 108–19, §1, Apr. 25, 2003, 117 Stat. 631, provided that: "This Act \[enacting this chapter\] may be cited as the 'Clean Diamond Trade Act'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13312. Implementing the Clean Diamond Trade Act
 

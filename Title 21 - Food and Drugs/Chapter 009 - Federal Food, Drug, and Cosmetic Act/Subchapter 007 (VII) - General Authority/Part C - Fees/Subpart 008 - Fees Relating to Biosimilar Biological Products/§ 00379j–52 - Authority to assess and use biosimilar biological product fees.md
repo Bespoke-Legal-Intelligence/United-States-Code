@@ -66,7 +66,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;A person may discontinue participation in the biosimilar biological product development program for a product, effective October 1 of a fiscal year, by, not later than August 1 of the preceding fiscal year—
 
-&emsp;&emsp;&emsp;(i) if no investigational new drug application concerning the product has been submitted, submitting to the Secretary a written declaration that the person has no present intention of further developing the product as a biosimilar biological product; or
+&emsp;&emsp;&emsp;(i) if no investigational new drug application concerning the product has beensubmitted, submitting to the Secretary a written declaration that the person has no present intention of further developing the product as a biosimilar biological product; or
 
 &emsp;&emsp;&emsp;(ii) if an investigational new drug application concerning the product has been submitted, withdrawing the investigational new drug application in accordance with part 312 of title 21, Code of Federal Regulations (or any successor regulations).
 
@@ -128,11 +128,11 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(i) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are required for approval.
 
-&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(5) for a biosimilar biological productapplication for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are not required for approval. Such fee shall be equal to half of the amount of the fee described in clause (i).
+&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(5) for a biosimilar biological product application for which clinical data (other than comparative bioavailability studies) with respect to safety or effectiveness are not required for approval. Such fee shall be equal to half of the amount of the fee described in clause (i).
 
 #### (B) Rule of applicability; treatment of certain previously paid fees
 
-&emsp;&emsp;Any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for a product before October 1, 2017, but submits a biosimilar biological product application for that product after such date, shall—
+&emsp;&emsp;Any person who pays a fee under subparagraph (A), (B), or (D) of paragraph (1) for aproduct before October 1, 2017, but submits a biosimilar biological product application for that product after such date, shall—
 
 &emsp;&emsp;&emsp;(i) be subject to any biosimilar biological product application fees that may be assessed at the time when such biosimilar biological product application is submitted; and
 
@@ -290,7 +290,7 @@ Beginning in fiscal year 2018, the Secretary shall assess and collect fees in ac
 
 #### (C) Limitation
 
-&emsp;&emsp;Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections\(b)(2)(A) (the annual base revenue for the fiscal year) and (b)(2)(B) (the dollar amount of the inflation adjustment for the fiscal year).
+&emsp;&emsp;Under no circumstances shall an adjustment under this paragraph result in fee revenue for a fiscal year that is less than the sum of the amounts under subsections (b)(2)(A) (the annual base revenue for the fiscal year) and (b)(2)(B) (the dollar amount of the inflation adjustment for the fiscal year).
 
 #### (D) Publication in Federal Register
 
@@ -446,7 +446,7 @@ Subsec. (a)(1)(F)(i). Pub. L. 115–52, §403(a)(11)(B), amended cl. (i) general
 
 Subsec. (a)(2). Pub. L. 115–52, §403(a)(12)(A), struck out "and supplement" after "application" in heading.
 
-Subsec. (a)(2)(A), (B). Pub. L. 115–52, §403(a)(12)(B), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) related to the fee for a biosimilar biological product application or a supplement submitted on or after Oct. 1, 2012, and to a reduction in certain fees, respectively.
+Subsec. (a)(2)(A), (B). Pub. L. 115–52, §403(a)(12)(B), amended subpars. (A) and (B) generally. Prior toamendment, subpars. (A) and (B) related to the fee for a biosimilar biological product application or a supplement submitted on or after Oct. 1, 2012, and to a reduction in certain fees, respectively.
 
 Subsec. (a)(2)(C). Pub. L. 115–52, §403(a)(12)(D), struck out "or supplement" after "application".
 

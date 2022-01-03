@@ -68,6 +68,8 @@
 
 (Pub. L. 100–418, title I, §1211, Aug. 23, 1988, 102 Stat. 1153; Pub. L. 104–188, title I, §1954(a)(1), Aug. 20, 1996, 110 Stat. 1927.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (a)(1), (c), and (d)(2)(B), (3), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
@@ -79,6 +81,8 @@ This chapter, referred to in subsec. (d)(1), was in the original "this subtitle"
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1954(a)(1), inserted "(as in effect on July 31, 1995)" after "of this title".
 
 Subsec. (b)(2). Pub. L. 104–188, §1954(a)(2), inserted "(as in effect on July 31, 1995)" after "of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

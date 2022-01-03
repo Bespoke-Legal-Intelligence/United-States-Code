@@ -4,7 +4,7 @@
 
 #### (1) Establishment of moratorium
 
-&emsp;The importation of any exotic bird of a species identified as a category B species in the report entitled "Report of the Animals Committee", adopted by the 8th meeting of the Conference of the Parties to the Convention, is prohibited.
+&emsp;The importation of any exotic bird of a species identified as a category B species in thereport entitled "Report of the Animals Committee", adopted by the 8th meeting of the Conference of the Parties to the Convention, is prohibited.
 
 #### (2) Termination of moratorium
 
@@ -41,6 +41,8 @@ Effective on the date that is one year after October 23, 1992, the importation o
 Notwithstanding any other provision of this chapter, the Secretary shall prohibit the importation, during the 1-year period beginning on October 23, 1992, of exotic birds of each species that is listed under any Appendix to the Convention in excess of the number of that species that were imported during the most recent year for which the Secretary has complete import data.
 
 (Pub. L. 102–440, title I, §105, Oct. 23, 1992, 106 Stat. 2226.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

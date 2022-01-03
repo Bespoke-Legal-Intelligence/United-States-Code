@@ -8,7 +8,7 @@
 
 #### (b) Depreciation charges
 
-The Commission may prescribe, for such carriers as it determines to be appropriate, the classes of property for which depreciation charges may be properly included under operating expenses, and the percentages of depreciation which shall be charged with respect to each of such classes of property, classifying the carriers as it may deem proper for this purpose. The Commission may, when it deems necessary, modify the classes and percentages so prescribed. Such carriers shall not, after the Commission has prescribed the classes of property for which depreciation charges may be included, charge to operating expenses any depreciation charges on classes of property other than those prescribed by the Commission, or, after the Commission has prescribed percentages of depreciation, charge with respect to any class of property a percentage of depreciation other than that prescribed therefor by the Commission. No such carrier shall in any case include in any form under its operating or other expenses any depreciation or other charge or expenditure included elsewhere as a depreciation charge or otherwise under its operating or other expenses.
+The Commission may prescribe, for such carriers as it determines to be appropriate, the classes of property for which depreciation charges may be properly included under operating expenses, and the percentages of depreciation which shall be charged with respect to each of such classes of property, classifying the carriers as it may deem proper for this purpose. The Commission may, when it deems necessary,modify the classes and percentages so prescribed. Such carriers shall not, after the Commission has prescribed the classes of property for which depreciation charges may be included, charge to operating expenses any depreciation charges on classes of property other than those prescribed by the Commission, or, after the Commission has prescribed percentages of depreciation, charge with respect to any class of property a percentage of depreciation other than that prescribed therefor by the Commission. No such carrier shall in any case include in any form under its operating or other expenses any depreciation or other charge or expenditure included elsewhere as a depreciation charge or otherwise under its operating or other expenses.
 
 #### (c) Access to information; burden of proof; use of independent auditors
 
@@ -42,7 +42,7 @@ The Commission, before prescribing any requirements as to accounts, records, or 
 
 The Commission shall investigate and report to Congress as to the need for legislation to define further or harmonize the powers of the Commission and of State commissions with respect to matters to which this section relates.
 
-(June 19, 1934, ch. 652, title II, §220, 48 Stat. 1078; Pub. L. 101–239, title III, §3002(f), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 103–414, title III, §§303(a)(7), (8), 304(a)(5), Oct. 25, 1994, 108 Stat. 4294, 4296; Pub. L. 104–104, title IV, §403(d), (e), Feb. 8, 1996, 110 Stat. 130.)
+(June 19, 1934, ch. 652, title II, §220, 48 Stat. 1078; Pub. L. 101–239, title III, §3002(f), Dec. 19, 1989, 103 Stat. 2131; Pub. L. 103–414, title III, §§303(a)(7), (8), 304(a)(5), Oct. 25, 1994, 108 Stat.4294, 4296; Pub. L. 104–104, title IV, §403(d), (e), Feb. 8, 1996, 110 Stat. 130.)
 
 #### <b>Editorial Notes</b>
 

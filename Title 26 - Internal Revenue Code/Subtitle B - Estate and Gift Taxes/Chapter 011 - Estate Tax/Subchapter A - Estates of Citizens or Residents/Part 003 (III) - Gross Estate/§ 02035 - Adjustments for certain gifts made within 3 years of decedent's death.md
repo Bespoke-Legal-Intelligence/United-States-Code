@@ -46,6 +46,8 @@ For purposes of this section and section 2038, any transfer from any portion of 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 381; Pub. L. 87–834, §18(a)(2)(C), Oct. 16, 1962, 76 Stat. 1052; Pub. L. 94–455, title XX, §2001(a)(5), Oct. 4, 1976, 90 Stat. 1848; Pub. L. 95–600, title VII, §702(f)(1), Nov. 6, 1978, 92 Stat. 2930; Pub. L. 97–34, title IV, §§403(b)(3)(B), 424(a), Aug. 13, 1981, 95 Stat. 301, 317; Pub. L. 97–448, title I, §104(a)(9), (d)(1)(A), (C), (2), Jan. 12, 1983, 96 Stat. 2381, 2383; Pub. L. 105–34, title XIII, §1310(a), Aug. 5, 1997, 111 Stat. 1043; Pub. L. 106–554, §1(a)(7) \[title III, §319(14)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–646.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (c)(2). Pub. L. 106–554, §1(a)(7) \[title III, §319(14)(A)\], substituted "subsection (a)" for "paragraph (1)".
@@ -72,6 +74,8 @@ Subsec. (d). Pub. L. 97–34, §424(a), added subsec. (d).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–834 struck out provisions which excepted real property situated outside of the United States.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title XIII, §1310(c), Aug. 5, 1997, 111 Stat. 1044, provided that: "The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
@@ -92,7 +96,7 @@ Pub. L. 95–600, title VII, §702(f)(2), Nov. 6, 1978, 92 Stat. 2930, provided 
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, but not to transfers made before Jan. 1, 1977, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
+Amendment by Pub. L. 94–455 applicable to estates of decedents dying after Dec. 31, 1976, but not to transfersmade before Jan. 1, 1977, see section 2001(d)(1) of Pub. L. 94–455, set out as a note under section 2001 of this title.
 
 #### Effective Date of 1962 Amendment
 

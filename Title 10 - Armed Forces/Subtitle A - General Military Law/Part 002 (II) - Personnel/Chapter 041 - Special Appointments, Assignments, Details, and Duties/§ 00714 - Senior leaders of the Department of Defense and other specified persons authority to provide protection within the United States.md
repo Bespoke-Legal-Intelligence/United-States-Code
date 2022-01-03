@@ -124,6 +124,8 @@ Authorities of other departments.—Nothing in this section may be construed to 
 
 (Added and amended Pub. L. 114–328, div. A, title IX, §952(c)(1), (4)–(6), Dec. 23, 2016, 130 Stat. 2375, 2376.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Text of section, as added by Pub. L. 114–328, is based on text of subsecs. (a) to (d) of section 1074 of Pub. L. 110–181, div. A, title X, Jan. 28, 2008, 122 Stat. 330, as amended, which was formerly set out as a note under section 113 of this title, prior to repeal by Pub. L. 114–328, div. A, title IX, §952(c)(3), Dec. 23, 2016, 130 Stat. 2375.

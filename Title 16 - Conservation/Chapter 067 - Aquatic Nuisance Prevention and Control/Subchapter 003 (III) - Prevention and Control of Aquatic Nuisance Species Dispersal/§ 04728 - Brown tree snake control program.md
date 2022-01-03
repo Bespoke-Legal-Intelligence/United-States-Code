@@ -4,6 +4,8 @@ The Task Force shall, within the program developed under subsection (a),<sup>1</
 
 (Pub. L. 101–646, title I, §1209, Nov. 29, 1990, 104 Stat. 4772; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §1209, which enacted this section.

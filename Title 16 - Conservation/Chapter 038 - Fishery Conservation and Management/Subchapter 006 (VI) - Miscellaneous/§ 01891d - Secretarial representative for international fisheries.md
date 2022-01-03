@@ -22,9 +22,13 @@ This section shall take effect on January 1, 2009.
 
 (Pub. L. 109–479, title IV, §408, Jan. 12, 2007, 120 Stat. 3634.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

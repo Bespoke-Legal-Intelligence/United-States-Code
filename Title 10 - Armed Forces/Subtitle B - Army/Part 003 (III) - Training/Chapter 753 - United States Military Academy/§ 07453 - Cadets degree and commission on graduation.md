@@ -54,6 +54,8 @@ July 20, 1956, ch. 646, §103(c) (1st sentence), 70 Stat. 583.
 
 It is unnecessary to include a reference to section 541, since that section does not derogate from the authority granted in this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4353 of this title as this section.
@@ -61,6 +63,8 @@ It is unnecessary to include a reference to section 541, since that section does
 <b>1980</b>—Subsec. (b). Pub. L. 96–513 inserted "under section 531 of this title" after "Regular Army".
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–861 struck out "except section 541 of this title" after "provision of law".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

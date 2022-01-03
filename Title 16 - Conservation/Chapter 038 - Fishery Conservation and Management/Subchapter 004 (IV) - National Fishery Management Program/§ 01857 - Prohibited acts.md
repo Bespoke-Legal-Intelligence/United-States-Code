@@ -38,7 +38,7 @@ It is unlawful—
 
 &emsp;&emsp;(L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 
-&emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of theUnited States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
+&emsp;&emsp;(M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
 
 &emsp;&emsp;(N) to strip pollock of its roe and discard the flesh of the pollock;
 
@@ -84,7 +84,7 @@ It is unlawful—
 
 &emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
-(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, §103(a), Jan. 4, 2011, 124 Stat. 3670;Pub. L. 114–81, title I, §112, Nov. 5, 2015, 129 Stat. 659.)
+(Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, §103(a), Jan. 4, 2011, 124 Stat. 3670; Pub. L. 114–81, title I, §112, Nov. 5, 2015, 129 Stat. 659.)
 
 #### Amendment of Section
 
@@ -97,6 +97,8 @@ It is unlawful—
 <i>(3) in paragraph (3), by inserting "or special areas" immediately after "exclusive economic zone"; and</i>
 
 <i>(4) in paragraph (4), by inserting "or special areas" immediately after "exclusive economic zone".</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -165,6 +167,8 @@ Par. (2)(B). Pub. L. 97–191, §2(3), inserted "in fishing" at beginning and su
 Par. (2)(C). Pub. L. 97–191, §2(4), added subpar. (C).
 
 <b>1978</b>—Par. (3). Pub. L. 95–354 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

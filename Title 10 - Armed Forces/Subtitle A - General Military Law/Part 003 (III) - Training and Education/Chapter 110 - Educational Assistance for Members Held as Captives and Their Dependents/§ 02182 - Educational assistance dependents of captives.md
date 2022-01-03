@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the end of any semester or quarter (as appropriate) that begins before the date on which the captive status of that person terminates;
 
-&emsp;&emsp;(B) the earlier of the end of any course that began before such date or the end of the 16-week period following that date if the educational or training institution is not operated on a semester or quarter system; or
+&emsp;&emsp;(B) the earlier of the end of any course that began before such date or the end of the16-week period following that date if the educational or training institution is not operated on a semester or quarter system; or
 
 &emsp;&emsp;(C) a date specified by the Secretary concerned in order to respond to special circumstances.
 
@@ -34,9 +34,13 @@
 
 (Added Pub. L. 99–399, title VIII, §806(d)(1), Aug. 27, 1986, 100 Stat. 887.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section applicable with respect to persons whose captive status begins after Jan. 21, 1981, see section 806(d)(3) of Pub. L. 99–399, set out as a note under 2181 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

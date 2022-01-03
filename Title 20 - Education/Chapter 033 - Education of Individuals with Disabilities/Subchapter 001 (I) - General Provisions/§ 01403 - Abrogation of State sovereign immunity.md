@@ -6,13 +6,15 @@ A State shall not be immune under the 11th amendment to the Constitution of the 
 
 #### (b) Remedies
 
-In a suit against a State for a violation of this chapter, remedies (including remedies both atlaw and in equity) are available for such a violation to the same extent as those remedies are available for such a violation in the suit against any public entity other than a State.
+In a suit against a State for a violation of this chapter, remedies (including remedies both at law and in equity) are available for such a violation to the same extent as those remedies are available for such a violation in the suit against any public entity other than a State.
 
 #### (c) Effective date
 
 Subsections (a) and (b) apply with respect to violations that occur in whole or part after October 30, 1990.
 
 (Pub. L. 91–230, title VI, §604, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2659.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

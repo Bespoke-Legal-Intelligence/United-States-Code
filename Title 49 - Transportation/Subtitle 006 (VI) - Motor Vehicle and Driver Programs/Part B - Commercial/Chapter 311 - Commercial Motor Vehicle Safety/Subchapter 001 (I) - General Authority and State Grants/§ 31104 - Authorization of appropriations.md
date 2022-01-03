@@ -2,55 +2,57 @@
 
 (a)
 
-Financial Assistance Programs.—The following sums are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account):
+Financial Assistance Programs.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account)—
 
-&emsp;(1)
+&emsp;(1) subject to subsection (c), to carry out the motor carrier safety assistance program under section 31102 (other than the high priority program under subsection (l) of that section)—
 
-Motor carrier safety assistance program.—Subject to paragraph (2) and subsection (c), to carry out section 31102 (except subsection (l))—
+&emsp;&emsp;(A) $390,500,000 for fiscal year 2022;
 
-&emsp;&emsp;(A) $292,600,000 for fiscal year 2017;
+&emsp;&emsp;(B) $398,500,000 for fiscal year 2023;
 
-&emsp;&emsp;(B) $298,900,000 for fiscal year 2018;
+&emsp;&emsp;(C) $406,500,000 for fiscal year 2024;
 
-&emsp;&emsp;(C) $304,300,000 for fiscal year 2019; and
+&emsp;&emsp;(D) $414,500,000 for fiscal year 2025; and
 
-&emsp;&emsp;(D) $308,700,000 for fiscal year 2020.
+&emsp;&emsp;(E) $422,500,000 for fiscal year 2026;
 
-&emsp;(2)
+&emsp;(2) subject to subsection (c), to carry out the high priority program under section 31102(l) (other than the commercial motor vehicle enforcement training and support grant program under paragraph (5) of that section)—
 
-High priority activities program.—Subject to subsection (c), to carry out section 31102(l)—
+&emsp;&emsp;(A) $57,600,000 for fiscal year 2022;
 
-&emsp;&emsp;(A) $42,200,000 for fiscal year 2017;
+&emsp;&emsp;(B) $58,800,000 for fiscal year 2023;
 
-&emsp;&emsp;(B) $43,100,000 for fiscal year 2018;
+&emsp;&emsp;(C) $60,000,000 for fiscal year 2024;
 
-&emsp;&emsp;(C) $44,000,000 for fiscal year 2019; and
+&emsp;&emsp;(D) $61,200,000 for fiscal year 2025; and
 
-&emsp;&emsp;(D) $44,900,000 for fiscal year 2020.
+&emsp;&emsp;(E) $62,400,000 for fiscal year 2026;
 
-&emsp;(3)
+&emsp;(3) to carry out the commercial motor vehicle enforcement training and support grant program under section 31102(l)(5), $5,000,000 for each of fiscal years 2022 through 2026;
 
-Commercial motor vehicle operators grant program.—To carry out section 31103—
+&emsp;(4) to carry out the commercial motor vehicle operators grant program under section 31103—
 
-&emsp;&emsp;(A) $1,000,000 for fiscal year 2017;
+&emsp;&emsp;(A) $1,100,000 for fiscal year 2022;
 
-&emsp;&emsp;(B) $1,000,000 for fiscal year 2018;
+&emsp;&emsp;(B) $1,200,000 for fiscal year 2023;
 
-&emsp;&emsp;(C) $1,000,000 for fiscal year 2019; and
+&emsp;&emsp;(C) $1,300,000 for fiscal year 2024;
 
-&emsp;&emsp;(D) $1,000,000 for fiscal year 2020.
+&emsp;&emsp;(D) $1,400,000 for fiscal year 2025; and
 
-&emsp;(4)
+&emsp;&emsp;(E) $1,500,000 for fiscal year 2026; and
 
-Commercial driver's license program implementation program.—Subject to subsection (c), to carry out section 31313—
+&emsp;(5) subject to subsection (c), to carry out the financial assistance program for commercial driver's license implementation under section 31313—
 
-&emsp;&emsp;(A) $31,200,000 for fiscal year 2017;
+&emsp;&emsp;(A) $41,800,000 for fiscal year 2022;
 
-&emsp;&emsp;(B) $31,800,000 for fiscal year 2018;
+&emsp;&emsp;(B) $42,650,000 for fiscal year 2023;
 
-&emsp;&emsp;(C) $32,500,000 for fiscal year 2019; and
+&emsp;&emsp;(C) $43,500,000 for fiscal year 2024;
 
-&emsp;&emsp;(D) $33,200,000 for fiscal year 2020.
+&emsp;&emsp;(D) $44,350,000 for fiscal year 2025; and
+
+&emsp;&emsp;(E) $45,200,000 for fiscal year 2026.
 
 (b)
 
@@ -62,7 +64,27 @@ In general.—Amounts made available under subsection (a) shall be used to reimb
 
 &emsp;(2)
 
-Reimbursement amounts.—The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102, 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections. The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement. The Secretary shall include a recipient's in-kind contributions in determining the reimbursement.
+Reimbursement amounts.—
+
+&emsp;&emsp;(A)
+
+Reimbursement percentage.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102 (except subsection (l)(5) of that section), 31103, or 31313, an amount that is at least 85 percent of the costs incurred by the recipient in a fiscal year in developing and implementing programs under such sections.
+
+&emsp;&emsp;&emsp;(ii)
+
+Commercial motor vehicle enforcement training and support grant program.—The Secretary shall reimburse a recipient, in accordance with a financial assistance agreement made under section 31102(l)(5), an amount that is equal to 100 percent of the costs incurred by the recipient in a fiscal year in developing and implementing a training program under that section.
+
+&emsp;&emsp;(B)
+
+Limitation.—The Secretary shall pay the recipient an amount not more than the Federal Government share of the total costs approved by the Federal Government in the financial assistance agreement.
+
+&emsp;&emsp;(C)
+
+In-kind contributions.—The Secretary shall include a recipient's in-kind contributions in determining the reimbursement.
 
 &emsp;(3)
 
@@ -70,7 +92,7 @@ Vouchers.—Each recipient shall submit vouchers at least quarterly for costs th
 
 (c)
 
-Deductions for Partner Training and Program Support.—On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (4) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for partner training and program support in that fiscal year. The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs.
+Deductions for Program Support.—On October 1 of each fiscal year, or as soon after that date as practicable, the Secretary may deduct from amounts made available under paragraphs (1), (2), and (5) of subsection (a) for that fiscal year not more than 1.50 percent of those amounts for program support in that fiscal year.
 
 (d)
 
@@ -84,15 +106,17 @@ Eligible Activities.—The Secretary shall establish criteria for eligible activ
 
 Period of Availability of Financial Assistance Agreement Funds for Recipient Expenditures.—The period of availability for a recipient to expend funds under a grant or cooperative agreement authorized under subsection (a) is as follows:
 
-&emsp;(1) For grants made for carrying out section 31102, other than section 31102(l), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+&emsp;(1) For grants made for carrying out section 31102, other than section 31102(l), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
 
 &emsp;(2) For grants made or cooperative agreements entered into for carrying out section 31102(l)(2), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
 
 &emsp;(3) For grants made for carrying out section 31102(l)(3), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
-&emsp;(4) For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next fiscal year.
+&emsp;(4) For grants made for carrying out section 31102(l)(5), for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
-&emsp;(5) For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
+&emsp;(5) For grants made for carrying out section 31103, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 2 fiscal years.
+
+&emsp;(6) For grants made or cooperative agreements entered into for carrying out section 31313, for the fiscal year in which the Secretary approves the financial assistance agreement and for the next 4 fiscal years.
 
 (g)
 
@@ -104,9 +128,17 @@ Availability of Funding.—Amounts made available under this section shall remai
 
 (i)
 
-Reallocation.—Amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+Reallocation.—
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(a), (b), (d), Mar. 18, 2010, 124 Stat. 86, 87; Pub. L. 111–322, title II, §2202(a), (b), (d), Dec. 22, 2010, 124 Stat. 3524, 3525; Pub. L. 112–5, title II, §202(a), (b), (d), Mar. 4, 2011, 125 Stat. 16, 17; Pub. L. 112–30, title I, §122(a), (b), (d), Sept. 16, 2011, 125 Stat. 348, 349; Pub. L. 112–102, title II, §202(a), (b), (d), Mar. 30, 2012, 126 Stat. 273, 274; Pub. L. 112–140, title II, §202(a), (b), (d), June 29, 2012, 126 Stat. 394, 395; Pub. L. 112–141, div. C, title II, §32603(a), (b), (d), div. G, title II, §112002(a), (b), July 6, 2012, 126 Stat. 807, 808, 982; Pub. L. 113–159, title I, §1102(a), (b), (d), Aug. 8, 2014, 128 Stat. 1843, 1844; Pub. L. 114–21, title I, §1102(a), (b), (d),May 29, 2015, 129 Stat. 221, 222; Pub. L. 114–41, title I, §1102(a), (b), (d), July 31, 2015, 129 Stat. 448, 449; Pub. L. 114–73, title I, §1102(a), (b), (d), Oct. 29, 2015, 129 Stat. 571, 572; Pub. L. 114–87, title I, §1102(a), (b), (d), Nov. 20, 2015, 129 Stat. 680, 681; Pub. L. 114–94, div. A, title V, §§5101(c), 5103(c)(1), 5105(a), (c), Dec. 4, 2015, 129 Stat. 1523, 1527, 1529.)
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), amounts not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation for any purpose under section 31102, 31103, or 31313 or this section to ensure, to the maximum extent possible, that all such amounts are obligated.
+
+&emsp;(2)
+
+Motor carrier safety assistance program.—Amounts made available for the motor carrier safety assistance program established under section 31102 (other than amounts made available to carry out section 31102(l)) that are not expended by a recipient during the period of availability shall be released back to the Secretary for reallocation under that program.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 987; Pub. L. 105–130, §7, Dec. 1, 1997, 111 Stat. 2559; Pub. L. 105–178, title IV, §4003(e)–(g), June 9, 1998, 112 Stat. 397; Pub. L. 108–88, §7(b), Sept. 30,2003, 117 Stat. 1120; Pub. L. 108–202, §11(b), Feb. 29, 2004, 118 Stat. 490; Pub. L. 108–224, §9(b), Apr. 30, 2004, 118 Stat. 638; Pub. L. 108–263, §9(b), June 30, 2004, 118 Stat. 709; Pub. L. 108–280, §9(b), July 30, 2004, 118 Stat. 886; Pub. L. 108–310, §7(b), Sept. 30, 2004, 118 Stat. 1153; Pub. L. 109–14, §6(b), May 31, 2005, 119 Stat. 330; Pub. L. 109–20, §6(b), July 1, 2005, 119 Stat. 352; Pub. L. 109–35, §6(b), July 20, 2005, 119 Stat. 385; Pub. L. 109–37, §6(b), July 22, 2005, 119 Stat. 400; Pub. L. 109–40, §6(b), July 28, 2005, 119 Stat. 417; Pub. L. 109–59, title IV, §§4101(a), (b), 4107(a), Aug. 10, 2005, 119 Stat. 1714, 1719; Pub. L. 110–244, title III, §301(a), June 6, 2008, 122 Stat. 1616; Pub. L. 111–147, title IV, §422(a), (b), (d), Mar. 18, 2010, 124 Stat. 86, 87; Pub. L. 111–322, title II, §2202(a), (b), (d), Dec. 22, 2010, 124 Stat. 3524, 3525; Pub. L. 112–5, title II, §202(a), (b), (d), Mar. 4, 2011, 125 Stat. 16, 17; Pub. L. 112–30, title I, §122(a), (b), (d), Sept. 16, 2011, 125 Stat. 348, 349; Pub. L. 112–102, title II, §202(a), (b), (d), Mar. 30, 2012, 126 Stat. 273, 274; Pub. L. 112–140, title II, §202(a), (b), (d), June 29, 2012, 126 Stat. 394, 395; Pub. L. 112–141, div. C, title II, §32603(a), (b), (d), div. G, title II, §112002(a), (b), July 6, 2012, 126 Stat. 807, 808, 982; Pub. L. 113–159, title I, §1102(a), (b), (d), Aug. 8, 2014, 128 Stat. 1843, 1844; Pub. L. 114–21, title I, §1102(a), (b), (d), May 29, 2015, 129 Stat. 221, 222; Pub. L. 114–41, title I, §1102(a), (b), (d), July 31, 2015, 129 Stat. 448, 449; Pub. L. 114–73, title I, §1102(a), (b), (d), Oct. 29, 2015, 129 Stat. 571, 572; Pub. L. 114–87, title I, §1102(a), (b), (d), Nov. 20, 2015, 129 Stat. 680, 681; Pub. L. 114–94, div. A, title V, §§5101(c), 5103(c)(1), 5105(a), (c), Dec. 4, 2015, 129 Stat. 1523, 1527, 1529; Pub. L. 117–58, div. B, title III, §23001(b), Nov. 15, 2021, 135 Stat. 757.)
 
 Historical and Revision Notes
 
@@ -198,7 +230,29 @@ In subsection (i), before clause (1), the words "Not later than 6 months after D
 
 In subsection (j), the words "Not later than 9 months after December 18, 1991" are omitted as obsolete. The word "final" is omitted as unnecessary. The words "regulations to be enforced under section 31102(a) of this title" are substituted for "under the motor carrier safety assistance program" for clarity and because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §23001(b)(1), added subsec. (a) and struck out former subsec. (a) which authorized appropriations for various programs for fiscal years 2017 to 2020.
+
+Subsec. (b)(2)(A). Pub. L. 117–58, §23001(b)(2)(C), (D), designated first sentence of subsec. (b)(2) as (b)(2)(A)(i), inserted subpar. and cl. headings, inserted "(except subsection (l)(5) of that section)" after "section 31102", and added cl. (ii).
+
+Subsec. (b)(2)(B). Pub. L. 117–58, §23001(b)(2)(B), designated second sentence of subsec. (b)(2) as (b)(2)(B) and inserted heading.
+
+Subsec. (b)(2)(C). Pub. L. 117–58, §23001(b)(2)(A), designated third sentence of subsec. (b)(2) as (b)(2)(C) and inserted heading.
+
+Subsec. (c). Pub. L. 117–58, §23001(b)(3), in heading, struck out "Partner Training and" before "Program Support" and, in text, substituted "(5)" for "(4)", struck out "partner training and" before "program support", and struck out at end "The Secretary shall use at least 75 percent of those deducted amounts to train non-Federal Government employees and to develop related training materials in carrying out such programs."
+
+Subsec. (f)(1). Pub. L. 117–58, §23001(b)(4)(A), substituted "for the next 2 fiscal years" for "for the next fiscal year".
+
+Subsec. (f)(4). Pub. L. 117–58, §23001(b)(4)(D), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 117–58, §23001(b)(4)(B), substituted "for the next 2 fiscal years" for "for the next fiscal year".
+
+Subsec. (f)(5), (6). Pub. L. 117–58, §23001(b)(4)(C), redesignated pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (i). Pub. L. 117–58, §23001(b)(5), designated existing provisions as par. (1), inserted heading, substituted "Except as provided in paragraph (2), amounts not expended" for "Amounts not expended", and added par. (2).
 
 <b>2015</b>—Pub. L. 114–94, §5101(c), amended section generally. Prior to amendment, section related to availability of appropriated amounts.
 
@@ -240,7 +294,7 @@ Pub. L. 114–73, §1102(d), substituted "and up to $2,090,164 for the period be
 
 Pub. L. 114–41, §1102(d), substituted "each of fiscal years 2006 through 2015 and up to $1,188,525 for the period beginning on October 1, 2015, and ending on October 29, 2015," for "each of fiscal years 2006 through 2014 and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015,".
 
-Pub. L. 114–21, §1102(d), substituted "and up to $12,493,151 for the period beginning on October 1, 2014,and ending on July 31, 2015," for "and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
+Pub. L. 114–21, §1102(d), substituted "and up to $12,493,151 for the period beginning on October 1, 2014, and ending on July 31, 2015," for "and up to $9,986,301 for the period beginning on October 1, 2014, and ending on May 31, 2015,".
 
 <b>2014</b>—Subsec. (a)(10). Pub. L. 113–159, §1102(a), added par. (10).
 
@@ -364,6 +418,8 @@ Subsec. (j). Pub. L. 105–178, §4003(g)(4), redesignated subsec. (j) as (h).
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–130 substituted "Not more" for "not more" in pars. (1) to (5) and added par. (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by sections 5103(c)(1) and 5105(a), (c) of Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -372,7 +428,7 @@ Amendment by section 5101(c) of Pub. L. 114–94 effective Oct. 1, 2016, subject
 
 #### Effective and Termination Dates of 2012 Amendment
 
-Amendment by section 32603(a), (b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as a note under section 101 of Title 23, Highways.
+Amendment by section 32603(a), (b) of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141,set out as a note under section 101 of Title 23, Highways.
 
 Amendment by section 112002(a), (b) of Pub. L. 112–141 effective July 1, 2012, see section 114001 of Pub. L. 112–141, set out as a note under section 5305 of this title.
 

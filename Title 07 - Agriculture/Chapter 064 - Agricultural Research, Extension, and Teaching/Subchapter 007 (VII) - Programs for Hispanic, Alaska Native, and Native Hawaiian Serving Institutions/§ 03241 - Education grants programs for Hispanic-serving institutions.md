@@ -14,13 +14,15 @@ Grants made under this section shall be used—
 
 &emsp;(3) to attract and support undergraduate and graduate students from underrepresented groups in order to prepare them for careers related to the food, agricultural, and natural resource systems of the United States, beginning with the mentoring of students at the high school level and continuing with the provision of financial support for students through their attainment of a doctoral degree; and
 
-&emsp;(4) to facilitate cooperative initiatives between 2 or more Hispanic-serving institutions,or between Hispanic-serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
+&emsp;(4) to facilitate cooperative initiatives between 2 or more Hispanic-serving institutions, or between Hispanic-serving institutions and units of State government or the private sector, to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve food and agricultural sciences teaching programs.
 
 #### (c) Authorization of appropriations
 
 There are authorized to be appropriated to make grants under this section $40,000,000 for each of fiscal years 1997 through 2023.
 
 (Pub. L. 95–113, title XIV, §1455, as added Pub. L. 104–127, title VIII, §815(a), Apr. 4, 1996, 110 Stat. 1166; amended Pub. L. 105–185, title III, §301(a)(11), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7111, May 13, 2002, 116 Stat. 433; Pub. L. 110–234, title VII, §7128, May 22, 2008, 122 Stat. 1223; Pub. L. 110–246, §4(a), title VII, §7128, June 18, 2008, 122 Stat. 1664, 1985; Pub. L. 113–79, title VII, §7115, Feb. 7, 2014, 128 Stat. 875; Pub. L. 115–334, title VII, §7121, Dec. 20, 2018, 132 Stat. 4792.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -45,6 +47,8 @@ Subsec. (c). Pub. L. 110–246, §7128(3), substituted "$40,000,000" for "$20,00
 <b>2002</b>—Subsec. (c). Pub. L. 107–171 substituted "2007" for "2002".
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–185 substituted "each of fiscal years 1997 through 2002" for "fiscal year 1997".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

@@ -136,7 +136,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (L) Food stamp exception for certain qualified aliens
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien"for a period of 5 years or more beginning on the date of the alien's entry into the United States.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term "qualified alien" for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (M) SSI extensions through fiscal year 2011
 
@@ -154,7 +154,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), a qualified alien or victim of trafficking described in this subclause is an alien or victim who—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C. 1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) has been a lawful permanent resident for less than 6 years and such status has not been abandoned, rescinded under section 246 of the Immigration and Nationality Act \[8 U.S.C.1256\], or terminated through removal proceedings under section 240 of the Immigration and Nationality Act \[8 U.S.C. 1229a\], and the Commissioner of Social Security has verified such status, through procedures established in consultation with the Secretary of Homeland Security;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) has filed an application, within 4 years from the date the alien or victim began receiving supplemental security income benefits, to become a lawful permanent resident with the Secretary of Homeland Security, and the Commissioner of Social Security has verified, through procedures established in consultation with such Secretary, that such application is pending;
 
@@ -242,7 +242,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;(i) is lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]; and
 
-&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of theSocial Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
+&emsp;&emsp;&emsp;(ii)(I) has worked 40 qualifying quarters of coverage as defined under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] or can be credited with such qualifying quarters as provided under section 1645 of this title, and (II) in the case of any such qualifying quarter creditable for any period beginning after December 31, 1996, did not receive any Federal means-tested public benefit (as provided under section 1613 of this title) during any such period.
 
 #### (C) Veteran and active duty exception
 
@@ -300,7 +300,7 @@ Section 584 of the Foreign Operations, Export Financing, and Related Programs Ap
 
 The 9th proviso under
 
-migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act,1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, which is set out as an Amerasian Immigration note under section 1101 of this title.
+migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, referred to in subsec. (a)(2)(A)(v), is contained in Pub. L. 100–461, title II, Oct. 1, 1988, 102 Stat. 2268–15, which is set out as an Amerasian Immigration note under section 1101 of this title.
 
 The Immigration and Nationality Act, referred to in subsecs. (a)(2)(B)(i) and (b)(2)(B)(i), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
@@ -426,7 +426,7 @@ Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
 #### Change of Name
 
-References to the food stamp program established under the Food and Nutrition Act of 2008, formerly known as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
+References to the food stamp program established under the Food and Nutrition Act of 2008, formerlyknown as the Food Stamp Act of 1977, considered to refer to the supplemental nutrition assistance program established under that Act, see section 4002(c) of Pub. L. 110–246, set out as a note under section 2012 of Title 7, Agriculture.
 
 #### Effective Date of 2020 Amendment
 

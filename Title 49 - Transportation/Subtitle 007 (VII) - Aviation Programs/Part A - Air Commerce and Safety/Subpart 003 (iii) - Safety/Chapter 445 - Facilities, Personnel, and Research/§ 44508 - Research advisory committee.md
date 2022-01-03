@@ -112,6 +112,8 @@ In subsection (b)(3), the words "travel or transportation" are omitted as surplu
 
 In subsection (e), the words "for fiscal years beginning after September 30, 1988" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 40119 of this title, referred to in subsecs. (a)(1)(A), (2) and (e)(1), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
@@ -125,6 +127,8 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is
 Subsec. (f). Pub. L. 115–254, §712(b), added subsec. (f).
 
 <b>1996</b>—Subsec. (a)(1)(D). Pub. L. 104–264 added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Confidential Review Process Through Boards for Correction of Military Records.—The Secretaries of the military departments shall each establish a confidential process, utilizing boards of the military department concerned established in accordance with this chapter, by which an individual who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense, during service in the armed forces may challenge the terms or characterization of the discharge or separation of the individual from the armed forces on the grounds that the terms or characterization were adversely affected by the individual being the victim of a sex-related offense.
+Confidential Review Process Through Boards for Correction of Military Records.—The Secretaries of the military departmentsshall each establish a confidential process, utilizing boards of the military department concerned established in accordance with this chapter, by which an individual who was the victim of a sex-related offense, or alleges that the individual was the victim of a sex-related offense, during service in the armed forces may challenge the terms or characterization of the discharge or separation of the individual from the armed forces on the grounds that the terms or characterization were adversely affected by the individual being the victim of a sex-related offense.
 
 (b)
 
@@ -27,6 +27,8 @@ Sex-related Offense Defined.—In this section, the term "sex-related offense" m
 &emsp;(3) An attempt to commit an offense specified in paragraph (1) or (2) as punishable under section 880 of this title (article 80 of the Uniform Code of Military Justice).
 
 (Added and amended Pub. L. 115–91, div. A, title V, §522(a)(1), (b), (c), Dec. 12, 2017, 131 Stat. 1380, 1381.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

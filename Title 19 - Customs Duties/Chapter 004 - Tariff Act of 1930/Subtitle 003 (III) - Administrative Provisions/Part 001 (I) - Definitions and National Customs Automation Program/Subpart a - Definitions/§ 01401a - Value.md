@@ -32,7 +32,7 @@
 
 &emsp;(D) any royalty or license fee related to the imported merchandise that the buyer is required to pay, directly or indirectly, as a condition of the sale of the imported merchandise for exportation to the United States; and
 
-&emsp;(E) the proceeds of any subsequent resale, disposal, or use of the imported merchandisethat accrue, directly or indirectly, to the seller.
+&emsp;(E) the proceeds of any subsequent resale, disposal, or use of the imported merchandise that accrue, directly or indirectly, to the seller.
 
 > The price actually paid or payable for imported merchandise shall be increased by the amounts attributable to the items (and no others) described in subparagraphs (A) through (E) only to the extent that each such amount (i) is not otherwise included within the price actually paid or payable; and (ii) is based on sufficient information. If sufficient information is not available, for any reason, with respect to any amount referred to in the preceding sentence, the transaction value of the imported merchandise concerned shall be treated, for purposes of this section, as one that cannot be determined.
 
@@ -88,7 +88,7 @@
 
 #### (c) Transaction value of identical merchandise and similar merchandise
 
-(1) The transaction value of identical merchandise, or of similar merchandise, is the transaction value (acceptable as the appraised value for purposes of this chapter under subsection (b) but adjusted under paragraph (2) of this subsection) of imported merchandise that is—
+(1) The transaction value of identical merchandise, or of similar merchandise, is thetransaction value (acceptable as the appraised value for purposes of this chapter under subsection (b) but adjusted under paragraph (2) of this subsection) of imported merchandise that is—
 
 &emsp;(A) with respect to the merchandise being appraised, either identical merchandise or similar merchandise, as the case may be; and
 
@@ -288,11 +288,15 @@ As used in this section—
 
 (June 17, 1930, ch. 497, title IV, §402, as added Aug. 2, 1956, ch. 887, §2(a), 70 Stat. 943; amended Pub. L. 96–39, title II, §201(a), July 26, 1979, 93 Stat. 194; Pub. L. 96–490, §2, Dec. 2, 1980, 94 Stat. 2556.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (b)(2)(B). Pub. L. 96–490 amended par. (B) generally, omitting cl. (iii) which provided that "the transaction value determined under this subsection in sales to unrelated buyers of merchandise, for exportation to the United States, that is identical in all respects to the imported merchandise but was not produced in the country in which the imported merchandise was produced", and omitting the provision relating to cl. (iii) which provided that "No two sales to unrelated buyers may be used for comparison for purposes of clause (iii) unless the sellers are unrelated."
 
 <b>1979</b>—Pub. L. 96–39 completely revised statutory standards for appraising the value of imported merchandise to conform to Customs Valuation Agreement, incorporating, as part of that revision, a new format of five methods of determining customs value in subsecs. (b) through (f), a group of special rules in subsec. (g), and definition of terms in subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 
@@ -362,7 +366,7 @@ Act Aug. 2, 1956, ch. 887, §8, 70 Stat. 949, provided that: "This Act \[enactin
 
 #### Presidential Report to Congress on Operation of Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade Over 2-Year Period
 
-Pub. L. 96–39, title II, §203, July 26, 1979, 93 Stat. 202, provided that: "As soon as practicable after the close of the 2-year period beginning on the date on which the amendments made by this title (other than section 223(b), relating to certain rubber footwear) take effect \[see Effective Date of 1979 Amendment note set out above\], the President shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade approved under section 2(a) \[section 2503(a) of this title\] (hereinafter in this subtitle referred to as the 'Agreement'), both domestically and internationally, during that period."
+Pub. L. 96–39, title II, §203, July 26, 1979, 93 Stat. 202, provided that: "As soon as practicable after the close of the 2-year period beginning on the date on which the amendments made by this title (other than section 223(b), relating to certain rubber footwear) take effect\[see Effective Date of 1979 Amendment note set out above\], the President shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade approved under section 2(a) \[section 2503(a) of this title\] (hereinafter in this subtitle referred to as the 'Agreement'), both domestically and internationally, during that period."
 
 #### List of Articles To Be Valued; Preliminary List; Additions; Final List; Transmittal to Congressional Committees
 
@@ -370,7 +374,7 @@ Act Aug. 2, 1956, ch. 887, §6, 70 Stat. 948, provided that:
 
 "(a) The Secretary of the Treasury shall determine and make public a list of the articles which shall be valued in accordance with section 402a, Tariff Act of 1930, as amended by this Act \[former section 1402 of this title\], as follows:
 
-"As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public apreliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
+"As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
 
 "(b) The final list published in accordance with the provisions of subsection (a), together with explanatory data, shall be transmitted promptly to the chairmen of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate."
 

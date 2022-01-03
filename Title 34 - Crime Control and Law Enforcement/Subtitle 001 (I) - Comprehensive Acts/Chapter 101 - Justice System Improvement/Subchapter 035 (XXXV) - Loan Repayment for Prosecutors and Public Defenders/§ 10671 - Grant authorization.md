@@ -84,7 +84,7 @@ The Attorney General shall establish a program by which the Department of Justic
 
 #### (B) Merger
 
-&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in such account and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
+&emsp;&emsp;Any amount credited under subparagraph (A) shall be merged with other sums in suchaccount and shall be available for the same purposes and period, and subject to the same limitations, if any, as the sums with which the amount was merged.
 
 #### (3) Limitations
 

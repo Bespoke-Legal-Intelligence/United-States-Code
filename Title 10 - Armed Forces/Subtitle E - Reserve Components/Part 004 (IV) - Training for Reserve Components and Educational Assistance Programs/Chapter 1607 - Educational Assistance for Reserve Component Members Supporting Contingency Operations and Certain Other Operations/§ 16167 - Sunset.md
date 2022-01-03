@@ -6,7 +6,7 @@ Sunset.—The authority to provide educational assistance under this chapter sha
 
 (b)
 
-Limitation on Provision of Assistance Pending Sunset.—Notwithstanding any other provision of this chapter, during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 and ending on the date that is four years after the date of the enactment of that Act, educational assistance may be provided under this chapter only to a member otherwiseeligible for educational assistance under this chapter who received educational assistance under this chapter for a course of study at an educational institution for the enrollment period at the educational institution that immediately preceded the date of the enactment of that Act.
+Limitation on Provision of Assistance Pending Sunset.—Notwithstanding any other provision of this chapter, during the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2016 and ending on the date that is four years after the date of the enactment of that Act, educational assistance may be provided under this chapter only to a member otherwise eligible for educational assistance under this chapter who received educational assistance under this chapter for a course of study at an educational institution for the enrollment period at the educational institution that immediately preceded the date of the enactment of that Act.
 
 (c)
 
@@ -15,6 +15,8 @@ Eligibility for Post-9/11
 Educational Assistance.—A member who loses eligibility for benefits under this chapter pursuant to subsection (b) shall be allowed to elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) to have such service previously credited toward this chapter credited towards establishing eligibility for educational assistance under chapter 33 of title 38, notwithstanding the provisions of section 16163(e) of this title or section 3322(h)(1) of title 38.
 
 (Added Pub. L. 114–92, div. A, title V, §555(a), Nov. 25, 2015, 129 Stat. 824; amended Pub. L. 115–48, title I, §106(a), Aug. 16, 2017, 131 Stat. 977.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

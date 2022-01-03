@@ -28,13 +28,15 @@ Except as otherwise provided by subsection (b) and sections 6062 and 6063, any r
 
 #### (B) Electronic signatures for disclosure authorizations to, and other authorizations of, practitioners
 
-&emsp;&emsp;Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of taxpayers' signatures appearing in electronic form with respect to any request for disclosure of a taxpayer's return or return information under section 6103(c) to a practitioner or any power of attorney granted by a taxpayer to a practitioner.
+&emsp;&emsp;Not later than 6 months after the date of the enactment of this subparagraph, the Secretary shall publish guidance to establish uniform standards and procedures for the acceptance of taxpayers' signatures appearing in electronic form with respect to any request for disclosure of a taxpayer's return or return information under section 6103(c) to apractitioner or any power of attorney granted by a taxpayer to a practitioner.
 
 #### (C) Practitioner
 
 &emsp;&emsp;For purposes of subparagraph (B), the term "practitioner" means any individual in good standing who is regulated under section 330 of title 31, United States Code.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 748; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–206, title II, §2003(a), July 22, 1998, 112 Stat. 724; Pub. L. 116–25, title II, §2302, July 1, 2019, 133 Stat. 1013.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -47,6 +49,8 @@ The date of the enactment of this subparagraph, referred to in subsec. (b)(3)(B)
 <b>1998</b>—Pub. L. 105–206 designated existing provisions as subsec. (a), inserted subsec. heading, substituted "Except as otherwise provided by subsection (b) and" for "Except as otherwise provided by", and added subsec. (b).
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

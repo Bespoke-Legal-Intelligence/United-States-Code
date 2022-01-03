@@ -28,6 +28,8 @@ Availability and Continued Improvement of Imagery Intelligence Support to All-So
 
 (Added Pub. L. 104–201, div. A, title XI, §1112(a)(2), Sept. 23, 1996, 110 Stat. 2678; amended Pub. L. 108–136, div. A, title IX, §921(d)(2)(A), Nov. 24, 2003, 117 Stat. 1568; Pub. L. 110–181, div. A, title IX, §931(a)(9), (10), (c)(1)(A), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(8), (9), (b)(1), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsecs. (c), (d). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(8), (9), (b)(1). See 2008 Amendment notes below.
@@ -40,6 +42,8 @@ Subsec. (d). Pub. L. 110–181, §931(a)(10), and Pub. L. 110–417, §932(a)(9)
 
 <b>2003</b>—Subsecs. (a), (b)(1). Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(10) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
@@ -50,11 +54,11 @@ Section effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out a
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–201, div. A, title XI, §1101, Sept. 23, 1996, 110 Stat. 2676, provided that: "This title \[enacting this chapter, section 424 of this title, and sections 404e and 404f of Title 50, War and National Defense, amending sections 193, 201, and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23 and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under this section and section 193 of this title, and amending provisions set out as a note under section 501 of Title 44\] may be cited as the 'National Imagery and Mapping Agency Act of 1996'."
+Pub. L. 104–201, div. A, title XI, §1101, Sept. 23, 1996, 110 Stat. 2676, provided that: "This title \[enacting this chapter, section 424 of this title, and sections 404e and 404f of Title 50, War and National Defense, amending sections 193, 201, and 451 to 456 of this title, sections 2302, 3132, 4301, 4701, 5102, 5342, 6339, and 7323 of Title 5, Government Organization and Employees, section 105 of the Ethics in Government Act of 1978, set out in the Appendix to Title 5, section 82 of Title 14, Coast Guard, section 2006 of Title 29, Labor, section 1336 of Title 44, Public Printing and Documents, and sections 401a and 403–5 of Title 50, renumbering chapter 22 and sections 451, 452, 2792 to 2796, and 2798 of this title as chapter 23and sections 481, 482, 451 to 455, and 456 of this title, respectively, repealing sections 424, 425, 2791, and 2797 of this title, enacting provisions set out as notes under this section and section 193 of this title, and amending provisions set out as a note under section 501 of Title 44\] may be cited as the 'National Imagery and Mapping Agency Act of 1996'."
 
 #### Savings Provisions
 
-Section 1116 of title XI of div. A of Pub. L. 104–201, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(8), Nov. 18, 1997, 111 Stat. 1904, provided that:
+Pub. L. 104–201, div. A, title XI, §1116, Sept. 23, 1996, 110 Stat. 2686, as amended by Pub. L. 105–85, div. A, title X, §1073(c)(8), Nov. 18, 1997, 111 Stat. 1904, provided that:
 
 "(a)
 
@@ -68,11 +72,11 @@ Continuing Effect on Legal Documents.—All orders, determinations, rules, regul
 
 "(b)
 
-Proceedings Not Affected.—This title and the amendments made by this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before an element of the Department of Defense or Central Intelligence Agency at the time this title takes effect, with respect to function of that element transferred by section 1111 \[set out below\], but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this title had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit thediscontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted."
+Proceedings Not Affected.—This title and the amendments made by this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before an element of the Department of Defense or Central Intelligence Agency at the time this title takes effect, with respect to function of that element transferred by section 1111 \[set out below\], but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this title had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted."
 
 #### Leveraging Commercial Satellite Remote Sensing
 
-Pub. L. 116–283, div. A, title XVI, §1612, Jan. 1, 2021, 134 Stat. 4049, provided that:
+Pub. L. 116–283, div. A, title XVI, §1612, Jan. 1, 2021, 134 Stat. 4049, as amended by Pub. L. 117–81, div. A, title XVI, §1606, Dec. 27, 2021, 135 Stat. 2079, provided that:
 
 "(a)
 
@@ -114,7 +118,9 @@ Definitions.—In this section:
 
 &emsp;"(3) The term 'commercial geospatial-intelligence services' means services including analytic tools, products, or data that can describe, assess, and visually depict natural or manmade features, objects, or activities that can be geographically referenced on the Earth, regardless of collection phenomenology.
 
-&emsp;"(4) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
+&emsp;"(4) The term 'domestic' includes, with respect to commercial capabilities or services covered by this section, capabilities or services provided by companies that operate in the United States and have active mitigation agreements pursuant to the National Industrial Security Program, unless the Director of the National Reconnaissance Office or the Director of the National Geospatial-Intelligence Agency submits to the appropriate congressional committees a written determination that excluding such companies is warranted on the basis of national security or strategic policy needs.
+
+&emsp;"(5) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)."
 
 #### Redesignation of National Imagery and Mapping Agency as National Geospatial-Intelligence Agency
 
@@ -130,7 +136,7 @@ References.—Any reference to the National Imagery and Mapping Agency in any la
 
 #### Congressional Findings
 
-Section 1102 of Pub. L. 104–201 provided that: "Congress makes the following findings:
+Pub. L. 104–201, div. A, title XI, §1102, Sept. 23, 1996, 110 Stat. 2676, provided that: "Congress makes the following findings:
 
 &emsp;"(1) There is a need within the Department of Defense and the Intelligence Community of the United States to provide a single agency focus for the growing number and diverse types of customers for imagery and geospatial information resources within the Government, to ensure visibility and accountability for those resources, and to harness, leverage, and focus rapid technological developments to serve the imagery, imagery intelligence, and geospatial information customers.
 
@@ -146,7 +152,7 @@ Section 1102 of Pub. L. 104–201 provided that: "Congress makes the following f
 
 #### Establishment of National Geospatial-Intelligence Agency; Transfer of Functions
 
-Section 1111 of Pub. L. 104–201 provided that:
+Pub. L. 104–201, div. A, title XI, §1111, Sept. 23, 1996, 110 Stat. 2677, provided that:
 
 "(a)
 
@@ -176,7 +182,7 @@ Preservation of Level and Quality of Imagery Intelligence Support to All-Source 
 
 #### Transfers of Personnel and Assets
 
-Section 1113 of Pub. L. 104–201 provided that:
+Pub. L. 104–201, div. A, title XI, §1113, Sept. 23, 1996, 110 Stat. 2684, provided that:
 
 "(a)
 
@@ -196,7 +202,7 @@ Rule For CIA Imagery Activities Only Partially Transferred.—If the National Ph
 
 #### Creditable Civilian Service for Career Conditional Employees of Defense Mapping Agency
 
-Section 1115 of Pub. L. 104–201 provided that: "In the case of an employee of the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\] who, on the day before the effective date of this title \[Oct. 1, 1996\], was an employee of the Defense Mapping Agency in a career-conditional status, the continuous service of that employee as an employee of the National Imagery and Mapping Agency on and after such date shall be considered creditable service for the purpose of any determination of the career status of the employee."
+Pub. L. 104–201, div. A, title XI, §1115, Sept. 23, 1996, 110 Stat. 2686, provided that: "In the case of an employee of the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\] who, on the day before the effective date of this title \[Oct. 1, 1996\], was an employee of the Defense Mapping Agency in a career-conditional status, the continuous service of that employee as an employee of the National Imagery and Mapping Agency on and after such date shall be considered creditable service for the purpose of any determination of the career status of the employee."
 
 #### Definitions
 

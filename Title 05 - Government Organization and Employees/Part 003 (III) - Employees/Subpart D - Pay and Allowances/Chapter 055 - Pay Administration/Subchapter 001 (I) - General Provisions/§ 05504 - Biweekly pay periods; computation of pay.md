@@ -130,7 +130,7 @@ Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended b
 
 "(3) The Office of Personnel Management may prescribe regulations necessary for the administration of this subsection insofar as this subsection affects employees in or under an Executive agency.
 
-"(4) Notwithstanding any other provision of this subsection, paragraph (1) shall not be effective with respect to pay periods beginning before the effective date of any increase under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule and the rates of pay under the other statutory pay systems for fiscal year 1984."
+"(4) Notwithstanding any other provision of this subsection, paragraph (1) shall not be effective with respect to pay periods beginning before the effective dateof any increase under section 5305 of title 5, United States Code, in the rates of pay under the General Schedule and the rates of pay under the other statutory pay systems for fiscal year 1984."
 
 \[Pub. L. 98–117, §2, Oct. 11, 1983, 97 Stat. 802, provided that: "The amendment made by this Act \[enacting par. (4) of this note\] shall be effective as of October 1, 1983."\]
 

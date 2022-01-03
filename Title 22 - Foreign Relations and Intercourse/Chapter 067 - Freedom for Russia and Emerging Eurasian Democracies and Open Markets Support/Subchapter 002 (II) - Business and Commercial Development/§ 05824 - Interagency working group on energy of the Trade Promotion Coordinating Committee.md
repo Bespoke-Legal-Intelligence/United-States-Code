@@ -4,7 +4,7 @@ The Trade Promotion Coordinating Committee should utilize its interagency workin
 
 &emsp;(1) work with officials from the independent states in creating an environment conducive to United States energy investment;
 
-&emsp;(2) help to coordinate assistance to United States companies involved with projects to clean up former Soviet nuclear weapons sites and commercial nuclear waste; and
+&emsp;(2) help to coordinate assistance to United States companies involved with projects toclean up former Soviet nuclear weapons sites and commercial nuclear waste; and
 
 &emsp;(3) work with representatives from United States business and industry involved with the energy sector to help facilitate the identification of business opportunities, including the promotion of oil, gas, and clean coal technology and products, energy efficiency, and the formation of joint ventures between United States companies and companies of the independent nations.
 

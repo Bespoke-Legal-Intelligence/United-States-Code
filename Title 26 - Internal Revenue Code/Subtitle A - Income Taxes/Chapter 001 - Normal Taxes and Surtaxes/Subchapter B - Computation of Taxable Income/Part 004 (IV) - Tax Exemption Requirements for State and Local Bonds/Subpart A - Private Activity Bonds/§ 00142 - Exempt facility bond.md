@@ -30,9 +30,13 @@ For purposes of this part, the term "exempt facility bond" means any bond issued
 
 &emsp;(13) qualified public educational facilities,
 
-&emsp;(14) qualified green building and sustainable design projects, or
+&emsp;(14) qualified green building and sustainable design projects,
 
-&emsp;(15) qualified highway or surface freight transfer facilities.
+&emsp;(15) qualified highway or surface freight transfer facilities,
+
+&emsp;(16) qualified broadband projects, or
+
+&emsp;(17) qualified carbon dioxide capture facilities.
 
 #### (b) Special exempt facility bond rules
 
@@ -160,7 +164,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) the area median gross income determined under the HUD hold harmless policy with respect to such project for calendar year 2008, plus
 
-&emsp;&emsp;&emsp;&emsp;(II) any increase in the area median gross income determined under subparagraph (B) (determined without regard to the HUD hold harmless policy and this subparagraph) with respect to such project for the current calendar year over the area median gross income (as sodetermined) with respect to such project for calendar year 2008.
+&emsp;&emsp;&emsp;&emsp;(II) any increase in the area median gross income determined under subparagraph (B) (determined without regard to the HUD hold harmless policy and this subparagraph) with respect to such project for the current calendar year over the area median gross income (as so determined) with respect to such project for calendar year 2008.
 
 #### (iii) HUD hold harmless policy
 
@@ -176,7 +180,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any project for any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
+&emsp;&emsp;The determination of whether the income of a resident of a unit in a project exceeds the applicable income limit shall be made at least annually on the basis of the current income of the resident. The preceding sentence shall not apply with respect to any projectfor any year if during such year no residential unit in the project is occupied by a new resident whose income exceeds the applicable income limit.
 
 #### (B) Continuing resident's income may increase above the applicable limit
 
@@ -434,7 +438,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate the amount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the State may allocate theamount described in subparagraph (A) for any calendar year in such manner as the State determines appropriate.
 
 #### (ii) Rules for carryforward of unused limitation
 
@@ -604,7 +608,7 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 #### (A) National limitation
 
-&emsp;&emsp;The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $15,000,000,000.
+&emsp;&emsp;The aggregate amount allocated by the Secretary of Transportation under subparagraph (C) shall not exceed $30,000,000,000.
 
 #### (B) Enforcement of national limitation
 
@@ -630,7 +634,175 @@ For purposes of subsection (a)(10), the term "qualified hazardous waste facility
 
 > &emsp;For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b)(2)(A).
 
-(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, title I, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186.)
+#### (n) Qualified broadband project
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a)(16), the term "qualified broadband project" means any project which—
+
+&emsp;&emsp;(A) is designed to provide broadband service solely to 1 or more census block groups in which more than 50 percent of residential households do not have access to fixed, terrestrial broadband service which delivers at least 25 megabits per second downstream and at least 3 megabits service upstream, and
+
+&emsp;&emsp;(B) results in internet access to residential locations, commercial locations, or a combination of residential and commercial locations at speeds not less than 100 megabits per second for downloads and 20 megabits for <sup>1</sup> second for uploads, but only if at least 90 percent of the locations provided such access under the project are locations where, before the project, a broadband service provider—
+
+&emsp;&emsp;&emsp;(i) did not provide service, or
+
+&emsp;&emsp;&emsp;(ii) did not provide service meeting the minimum speed requirements described in subparagraph (A).
+
+#### (2) Notice to broadband providers
+
+&emsp;A project shall not be treated as a qualified broadband project unless, before the issue date of any issue the proceeds of which are to be used to fund the project, the issuer—
+
+&emsp;&emsp;(A) notifies each broadband service provider providing broadband service in the area within which broadband services are to be provided under the project of the project and its intended scope,
+
+&emsp;&emsp;(B) includes in such notice a request for information from each such provider with respect to the provider's ability to deploy, manage, and maintain a broadband network capable of providing gigabit capable Internet access to residential or commercial locations, and
+
+&emsp;&emsp;(C) allows each such provider at least 90 days to respond to such notice and request.
+
+#### (o) Qualified carbon dioxide capture facility
+
+#### (1) In general
+
+&emsp;For purposes of subsection (a)(17), the term "qualified carbon dioxide capture facility" means—
+
+&emsp;&emsp;(A) the eligible components of an industrial carbon dioxide facility, and
+
+&emsp;&emsp;(B) a direct air capture facility (as defined in section 45Q(e)(1)).
+
+#### (2) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Eligible component
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term "eligible component" means any equipment which is installed in an industrial carbon dioxide facility that satisfies the requirements under paragraph (3) and which is—
+
+&emsp;&emsp;&emsp;&emsp;(I) used for the purpose of capture, treatment and purification, compression, transportation, or on-site storage of carbon dioxide produced by the industrial carbon dioxide facility, or
+
+&emsp;&emsp;&emsp;&emsp;(II) integral or functionally related and subordinate to a process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesisgas composed primarily of carbon dioxide and hydrogen for direct use or subsequent chemical or physical conversion.
+
+#### (ii) Definitions
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) Biomass
+
+#### (aa) In general
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The term "biomass" means any—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(AA) agricultural or plant waste,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(BB) byproduct of wood or paper mill operations, including lignin in spent pulping liquors, and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(CC) other products of forestry maintenance.
+
+#### (bb) Exclusion
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The term "biomass" does not include paper which is commonly recycled.
+
+#### (II) Coal
+
+&emsp;&emsp;&emsp;&emsp;The term "coal" means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
+
+#### (B) Industrial carbon dioxide facility
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "industrial carbon dioxide facility" means a facility that emits carbon dioxide (including from any fugitive emissions source) that is created as a result of any of the following processes:
+
+&emsp;&emsp;&emsp;&emsp;(I) Fuel combustion.
+
+&emsp;&emsp;&emsp;&emsp;(II) Gasification.
+
+&emsp;&emsp;&emsp;&emsp;(III) Bioindustrial.
+
+&emsp;&emsp;&emsp;&emsp;(IV) Fermentation.
+
+&emsp;&emsp;&emsp;&emsp;(V) Any manufacturing industry relating to—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) chemicals,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) fertilizers,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) glass,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) steel,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) petroleum residues,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) forest products,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) agriculture, including feedlots and dairy operations, and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(hh) transportation grade liquid fuels.
+
+#### (ii) Exceptions
+
+&emsp;&emsp;&emsp;For purposes of clause (i), an industrial carbon dioxide facility shall not include—
+
+&emsp;&emsp;&emsp;&emsp;(I) any geological gas facility, or
+
+&emsp;&emsp;&emsp;&emsp;(II) any air separation unit that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) does not qualify as gasification equipment, or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) is not a necessary component of an oxy-fuel combustion process.
+
+#### (iii) Definitions
+
+&emsp;&emsp;&emsp;For purposes of this subparagraph—
+
+#### (I) Petroleum residue
+
+&emsp;&emsp;&emsp;&emsp;The term "petroleum residue" means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
+
+#### (II) Geological gas facility
+
+&emsp;&emsp;&emsp;&emsp;The term "geological gas facility" means a facility that—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) produces a raw product consisting of gas or mixed gas and liquid from a geological formation,
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) transports or removes impurities from such product, or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) separates such product into its constituent parts.
+
+#### (3) Special rule for facilities with less than 65 percent capture and storage percentage
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the eligible components of an industrial carbon dioxide facility satisfies the requirements of this paragraph if such eligible components are designed to have a capture and storage percentage (as determined under subparagraph (C)) that is equal to or greater than 65 percent.
+
+#### (B) Exception
+
+&emsp;&emsp;In the case of an industrial carbon dioxide facility designed with a capture and storage percentage that is less than 65 percent, the percentage of the cost of the eligible components installed in such facility that may be financed with tax-exempt bonds may not be greater than the designed capture and storage percentage.
+
+#### (C) Capture and storage percentage
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the capture and storage percentage shall be an amount, expressed as a percentage, equal to the quotient of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the total metric tons of carbon dioxide designed to be annually captured, transported, and injected into—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) a facility for geologic storage, or
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) an enhanced oil or gas recovery well followed by geologic storage, divided by
+
+&emsp;&emsp;&emsp;&emsp;(II) the total metric tons of carbon dioxide which would otherwise be released into the atmosphere each year as industrial emission of greenhouse gas if the eligible components were not installed in the industrial carbon dioxide facility.
+
+#### (ii) Limited application of eligible components
+
+&emsp;&emsp;&emsp;In the case of eligible components that are designed to capture carbon dioxide solely from specific sources of emissions or portions thereof within an industrial carbon dioxide facility, the capture and storage percentage under this subparagraph shall be determined based only on such specific sources of emissions or portions thereof.
+
+#### (4) Regulations
+
+&emsp;The Secretary shall issue such regulations or other guidance as are necessary to carry out the provisions of this subsection, including methods for determining costs attributable to an eligible component for purposes of paragraph (3)(A).
+
+(Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2606; amended Pub. L. 100–647, titleI, §1013(a)(1), (39), title VI, §6180(a)–(b)(2), Nov. 10, 1988, 102 Stat. 3537, 3544, 3727, 3728; Pub. L. 101–239, title VII, §§7108(e)(3), (n)(1), 7816(s)(1), Dec. 19, 1989, 103 Stat. 2313, 2318, 2423; Pub. L. 102–486, title XIX, §§1919(a), 1921(a), (b)(1), (2), Oct. 24, 1992, 106 Stat. 3025, 3027, 3028; Pub. L. 104–188, title I, §§1608(a), 1704(j)(7), Aug. 20, 1996, 110 Stat. 1840, 1882; Pub. L. 105–206, title VI, §6023(5), July 22, 1998, 112 Stat. 825; Pub. L. 107–16, title IV, §422(a), (b), June 7, 2001, 115 Stat. 65; Pub. L. 108–357, title VII, §701(a), (b), Oct. 22, 2004, 118 Stat. 1536; Pub. L. 109–59, title XI, §11143(a), (b), Aug. 10, 2005, 119 Stat. 1963; Pub. L. 109–222, title II, §209(b)(2), May 17, 2006, 120 Stat. 352; Pub. L. 110–289, div. C, title I, §§3005(a), 3008(a)–(c), 3009(a), 3010(a), July 30, 2008, 122 Stat. 2885–2888; Pub. L. 110–343, div. B, title III, §307(a), (b), Oct. 3, 2008, 122 Stat. 3849; Pub. L. 111–5, div. B, title I, §1504(a), Feb. 17, 2009, 123 Stat. 355; Pub. L. 115–141, div. U, title IV, §401(a)(47), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 117–58, div. H, title IV, §§80401(a), (b), 80402(a), (b), 80403(a), Nov. 15, 2021, 135 Stat. 1330, 1331, 1335.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -642,7 +814,7 @@ The date of the enactment of this paragraph, referred to in subsec. (f)(2)(A), i
 
 The date of the enactment of this paragraph, referred to in subsec. (f)(3), (4)(A), (B)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
-The Solid Waste Disposal Act, referred to in subsec. (h)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to theCode, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (h)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Solid Waste Disposal Act is classified generally to subchapter III (§6921 et seq.) of chapter 82 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (h)(1), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
@@ -659,6 +831,16 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, §101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(16). Pub. L. 117–58, §80401(a), added par. (16).
+
+Subsec. (a)(17). Pub. L. 117–58, §80402(a), added par. (17).
+
+Subsec. (m)(2)(A). Pub. L. 117–58, §80403(a), substituted "$30,000,000,000" for "$15,000,000,000".
+
+Subsec. (n). Pub. L. 117–58, §80401(b), added subsec. (n).
+
+Subsec. (o). Pub. L. 117–58, §80402(b), added subsec. (o).
 
 <b>2018</b>—Subsec. (d)(2)(C). Pub. L. 115–141 inserted "section" before "42(i)(3)(D)".
 
@@ -728,6 +910,16 @@ Subsec. (d)(4)(B)(iii). Pub. L. 100–647, §1013(a)(1), substituted "average gr
 
 Subsec. (i). Pub. L. 100–647, §6180(b)(1), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. H, title IV, §80401(d), Nov. 15, 2021, 135 Stat. 1331, provided that: "The amendments made by this section \[amending this section and section 146 of this title\] shall apply to obligations issued in calendar years beginning after the date of the enactment of this Act \[Nov. 15, 2021\]."
+
+Amendment by section 80402(a), (b) of Pub. L. 117–58 applicable to obligations issued after Dec. 31, 2021, see section 80402(f) of Pub. L. 117–58, set out as a note under section 45Q of this title.
+
+Pub. L. 117–58, div. H, title IV, §80403(b), Nov. 15, 2021, 135 Stat. 1335, provided that: "The amendment made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 15, 2021\]."
+
 #### Effective Date of 2009 Amendment
 
 Pub. L. 111–5, div. B, title I, §1504(b), Feb. 17, 2009, 123 Stat. 355, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\]."
@@ -748,7 +940,7 @@ Pub. L. 110–289, div. C, title I, §3005(b), July 30, 2008, 122 Stat. 2885, as
 
 &emsp;&emsp;"(B) with respect to which buildings placed in service after the date of enactment of this Act \[July 30, 2008\], to the extent paragraph (1) of section 42(h) of such Code does not apply to such building by reason of paragraph (4) thereof, but only with respect to bonds issued after such date of enactment."
 
-\[Pub. L. 114–113, div. Q, title I, §132(b), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments madeby this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\]."\]
+\[Pub. L. 114–113, div. Q, title I, §132(b), Dec. 18, 2015, 129 Stat. 3055, provided that: "The amendments made by this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\]."\]
 
 \[Pub. L. 113–295, div. A, title I, §113(b), Dec. 19, 2014, 128 Stat. 4014, provided that: "The amendment made by this section \[amending section 3005(b) of Pub. L. 110–289, set out above\] shall take effect as if included in the enactment of section 3005 of the Housing Assistance Tax Act of 2008 \[div. C of Pub. L. 110–289\]."\]
 
@@ -805,4 +997,6 @@ Pub. L. 104–188, title I, §1608(b), Aug. 20, 1996, 110 Stat. 1841, provided t
 #### Tax-Exempt Bonds for Sale of Alaska Power Administration Facility
 
 Pub. L. 104–188, title I, §1804, Aug. 20, 1996, 110 Stat. 1893, provided that: "Sections 142(f)(3) (as added by section 1608) and 147(d) of the Internal Revenue Code of 1986 shall not apply in determining whether any private activity bond issued after the date of the enactment of this Act \[Aug. 20, 1996\] and used to finance the acquisition of the Snettisham hydroelectric project from the Alaska Power Administration is a qualified bond for purposes of such Code."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "per".</i>
 

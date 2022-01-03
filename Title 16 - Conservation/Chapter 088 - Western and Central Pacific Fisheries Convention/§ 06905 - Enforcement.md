@@ -6,7 +6,7 @@ The Secretary may—
 
 &emsp;(1) administer and enforce this chapter and any regulations issued under this chapter, except to the extent otherwise provided for in this Act;
 
-&emsp;(2) request and utilize on a reimbursed or non-reimbursed basis the assistance, services, personnel, equipment, and facilities of other Federal departments and agencies in—
+&emsp;(2) request and utilize on a reimbursed or non-reimbursed basis the assistance, services,personnel, equipment, and facilities of other Federal departments and agencies in—
 
 &emsp;&emsp;(A) the administration and enforcement of this chapter; and
 
@@ -50,6 +50,8 @@ For additional prohibitions relating to this chapter and enforcement of this cha
 
 (Pub. L. 109–479, title V, §506, Jan. 12, 2007, 120 Stat. 3640; Pub. L. 114–81, title I, §105(1), Nov. 5, 2015, 129 Stat. 657.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1), (b), and (d), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575, known as the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under section 1801 of this title and Tables.
@@ -64,5 +66,5 @@ The Atlantic Tunas Convention Act, referred to in subsec. (b), probably means th
 
 #### Amendments
 
-<b>2015</b>—Pub. L. 114–81 amended subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act in the same manner, by the same means, andwith the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter."
+<b>2015</b>—Pub. L. 114–81 amended subsec. (c) generally. Prior to amendment, text read as follows: "The Secretary shall prevent any person from violating this chapter in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857) were incorporated into and made a part of this chapter. Any person that violates any provision of this chapter is subject to the penalties and entitled to the privileges and immunities provided in the Magnuson-Stevens Fishery Conservation and Management Act in the same manner, by the same means, and with the same jurisdiction, power, and duties as though all applicable terms and provisions of that Act were incorporated into and made a part of this chapter."
 

@@ -8,7 +8,7 @@ Unoccupied space in said building shall be assigned by the Architect of the Capi
 
 #### Codification
 
-Section was classified to section 184 of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 184 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

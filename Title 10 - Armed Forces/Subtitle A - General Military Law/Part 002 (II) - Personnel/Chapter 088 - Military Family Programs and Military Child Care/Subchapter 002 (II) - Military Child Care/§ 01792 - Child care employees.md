@@ -48,6 +48,8 @@ Competitive Service Position Defined.—In this section, the term "competitive s
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 332; amended Pub. L. 105–85, div. A, title X, §1073(a)(34), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title XI, §1106, Oct. 17, 1998, 112 Stat. 2142.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsecs. (d), (e). Pub. L. 105–261 redesignated subsec. (e) as (d) and struck out former subsec. (d) which read as follows:
@@ -61,6 +63,8 @@ Employment Preference Program for Military Spouses.—(1) The Secretary of Defen
 <b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §1073(a)(34)(A), struck out comma after "implementing".
 
 Subsec. (d)(2). Pub. L. 105–85, §1073(a)(34)(B), substituted "section 1784" for "section 1794".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Portability of Background Investigations for Child Care Providers
 
@@ -78,7 +82,7 @@ In General.—The Secretary of Defense shall implement a policy to permit the is
 
 Elements.—The policy required by subsection (a) shall provide for the following:
 
-&emsp;"(1) Any clearance issued under the policy shall be temporary and contingent upon the satisfaction of such requirements for the issuance of a clearance on a permanent basis as the Secretary considers appropriate.
+&emsp;"(1) Any clearance issued under the policy shall be temporary and contingent upon the satisfaction ofsuch requirements for the issuance of a clearance on a permanent basis as the Secretary considers appropriate.
 
 &emsp;"(2) Any individual issued a clearance on a provisional or interim basis under the policy shall be subject to such supervision in the provision of childcare services using such clearance as the Secretary considers appropriate.
 
@@ -88,39 +92,7 @@ Clearance Defined.—In this section, the term 'clearance', with respect to an i
 
 #### Direct Hire Authority for Department of Defense for Childcare Services Providers for Department Child Development Centers and Employees at Installation Military Housing Offices
 
-Pub. L. 116–92, div. B, title XXX, §3035(c), Dec. 20, 2019, 133 Stat. 1937, provided that: "The Secretary of Defense shall use the authority in section 559 of the National Defense Authorization Act for Fiscal Year 2018 \[Pub. L. 115–91, set out below\] granted by the amendments made by this section \[amending section 559 of Pub. L. 115–91\] in a manner consistent with the regulations prescribed for purposes of such section 559 pursuant to subsection (b) of such section 559, without the need to prescribe separate regulations for the use of such authority."
+Pub. L. 116–92, div. B, title XXX, §3035(c), Dec. 20, 2019, 133 Stat. 1937, provided that the Secretary of Defense could use the authority in section 559 of Pub. L. 115–91, formerly set out below, in a manner consistent with the regulations prescribed for purposes of such section 559 pursuant to subsec. (b) of such section 559, without the need to prescribe separate regulations for the use of such authority.
 
-Pub. L. 115–91, div. A, title V, §559, Dec. 12, 2017, 131 Stat. 1406, as amended by Pub. L. 116–92, div. A, title V, §580(a), div. B, title XXX, §3035(a), (b), Dec. 20, 2019, 133 Stat. 1407, 1937, provided that:
-
-"(a)
-
-In General.—The Secretary of Defense may appoint, without regard to any provision of subchapter I of chapter 33 of title 5, United States Code, qualified childcare services providers, and individuals to fill vacancies in installation military housing offices, in the competitive service if the Secretary determines that—
-
-&emsp;"(1) there is a critical hiring need for childcare services providers for Department of Defense child development centers or for employees at installation military housing offices; and
-
-&emsp;"(2) there is a shortage of childcare services providers or for installation military housing office employees.
-
-"(b)
-
-Regulations.—The Secretary shall carry out this section in accordance with regulations prescribed by the Secretary for purposes of this section.
-
-"(c)
-
-Deadline for Implementation.—The Secretary shall prescribe the regulations required by subsection (b), and commence implementation of subsection (a), by not later than May 1, 2018.
-
-"(d)
-
-Briefing.—Not later than 90 days after the end of each of fiscal years 2019 and 2021, the Secretary of Defense shall provide a briefing to the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, the Committee on Oversight and Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate on the use of the appointment authority provided by subsection (a).
-
-"(e)
-
-Childcare Services Provider Defined.—In this section, the term 'childcare services provider' means a person who provides childcare services (including family childcare coordinator services and school age childcare coordinator services) for dependent children of members of the Armed Forces and civilian employees of the Department of Defense in child development centers on Department installations.
-
-"(f)
-
-Installation Military Housing Office Defined.—The term 'installation military housing office' means any office whose primary function is performing day-to-day supervision of military housing covered by subchapter IV of chapter 169 of title 10, United States Code.
-
-"(g)
-
-Expiration of Authority.—The appointment authority provided by subsection (a) expires on September 30, 2021."
+Pub. L. 115–91, div. A, title V, §559, Dec. 12, 2017, 131 Stat. 1406, as amended by Pub. L. 116–92, div. A, title V, §580(a), div. B, title XXX, §3035(a), (b), Dec. 20, 2019, 133 Stat. 1407, 1937, authorized the Secretary of Defense to appoint, without regard to any provision of subchapter I of chapter 33 of title 5, United States Code, qualified childcare services providers, and individuals to fill vacancies in installation military housing offices, in the competitive service under certain circumstances and to prescribe regulations, prior to the expiration of such appointment authority on Sept. 30, 2021.
 

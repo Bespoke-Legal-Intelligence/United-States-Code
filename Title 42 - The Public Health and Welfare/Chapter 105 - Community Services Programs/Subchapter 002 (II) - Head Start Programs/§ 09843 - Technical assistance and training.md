@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(ii) provide technical assistance and training, either directly or through a grant, contract, or cooperative agreement with an entity that has experience in the development and operation of successful family literacy services programs, for the purpose of—
 
-&emsp;&emsp;&emsp;&emsp;(I) assisting Head Start agencies providing family literacy services, in orderto improve the quality of such family literacy services; and
+&emsp;&emsp;&emsp;&emsp;(I) assisting Head Start agencies providing family literacy services, in order to improve the quality of such family literacy services; and
 
 &emsp;&emsp;&emsp;&emsp;(II) enabling those Head Start agencies that demonstrate effective provision of family literacy services, based on improved outcomes for children and their parents, to provide technical assistance and training to other Head Start agencies and to service providers that work in collaboration with such agencies to provide family literacy services;
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(xiii) provide training and technical assistance to members of governing bodies, policy councils, and, as appropriate, policy committees, to ensure that the members can fulfill their functions;
 
-&emsp;&emsp;&emsp;(xiv) provide activities that help ensure that Head Start programs have qualified staff who can promote prevention of childhood obesity by integrating developmentally appropriate research-based initiatives that stress the importance of physical activity and healthy, nutritional choices in daily classroom and family routines;
+&emsp;&emsp;&emsp;(xiv) provide activities that help ensure that Head Start programs have qualifiedstaff who can promote prevention of childhood obesity by integrating developmentally appropriate research-based initiatives that stress the importance of physical activity and healthy, nutritional choices in daily classroom and family routines;
 
 &emsp;&emsp;&emsp;(xv) assist Indian Head Start agencies to provide on-site and off-site training to staff, using approaches that identify and enhance the positive resources and strengths of Indian children and families, to improve parent and family engagement and staff development, particularly with regard to child and family development; and
 
@@ -134,7 +134,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;(2) To support enhanced early language and literacy development of children in Head Start programs, and to provide the children with high-quality oral language skills and with environments that are rich in literature in which to acquire language and early literacy skills. Each Head Start agency, in consultation with the State-based training and technical assistance system, as appropriate, shall ensure that—
 
-&emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language and emergent literacy (referred to in this subsection as "literacy training"), including appropriate curricula and assessment to improve instruction and learning;
+&emsp;&emsp;(A) all of the agency's Head Start teachers receive ongoing training in language andemergent literacy (referred to in this subsection as "literacy training"), including appropriate curricula and assessment to improve instruction and learning;
 
 &emsp;&emsp;(B) such literacy training shall include training in methods to promote vocabulary development and phonological awareness (including phonemic awareness) in a developmentally, culturally, and linguistically appropriate manner and support children's development in their native language;
 
@@ -146,7 +146,7 @@ Funds made available under section 9835(a)(2)(C)(i)(II)(aa) of this title shall 
 
 &emsp;&emsp;(F) the literacy training shall be tailored to the early childhood literacy background and experience of the teachers involved;
 
-> &emsp;except that funds made available under section 9835(a)(2)(C)(i) of this title shall not be used for long-distance travel expenses fortraining activities available locally or regionally or for training activities substantially similar to locally or regionally available training activities.
+> &emsp;except that funds made available under section 9835(a)(2)(C)(i) of this title shall not be used for long-distance travel expenses for training activities available locally or regionally or for training activities substantially similar to locally or regionally available training activities.
 
 #### (e) State-based training and technical assistance system
 
@@ -226,6 +226,8 @@ The Secretary shall consult with appropriate Federal agencies and other experts,
 
 (Pub. L. 97–35, title VI, §648, Aug. 13, 1981, 95 Stat. 505; Pub. L. 98–558, title I, §106, Oct. 30, 1984, 98 Stat. 2879; Pub. L. 101–501, title I, §116(a), Nov. 3, 1990, 104 Stat. 1232; Pub. L. 102–586, §7(b), Nov. 4, 1992, 106 Stat. 5035; Pub. L. 103–252, title I, §114, May 18, 1994, 108 Stat. 642; Pub. L. 105–285, title I, §114, Oct. 27, 1998, 112 Stat. 2721; Pub. L. 110–134, §18, Dec. 12, 2007, 121 Stat. 1423; Pub. L. 114–95, title IX, §9215(nn)(5), Dec. 10, 2015, 129 Stat. 2177.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(3)(A)(iii). Pub. L. 114–95 struck out ", and for activities described in section 6372(d) of title 20)," after "children with disabilities".
@@ -244,7 +246,7 @@ Subsec. (c)(4). Pub. L. 105–285, §114(a)(2)(G), added par. (4). Former par. (
 
 Pub. L. 105–285, §114(a)(2)(C), inserted "and implementing" after "developing" and substituted "the day, and assist the agencies and programs in expediting the sharing of information about innovative models for providing full-working-day, full calendar year services for children" for "a longer day" before semicolon.
 
-Subsec. (c)(5), (6). Pub. L. 105–285, §114(a)(2)(F), redesignated pars. (3) and (4) as (5) and (6), respectively. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+Subsec. (c)(5), (6). Pub. L. 105–285, §114(a)(2)(F), redesignated pars. (3) and (4) as (5) and (6), respectively.Former pars. (5) and (6) redesignated (7) and (8), respectively.
 
 Subsec. (c)(7). Pub. L. 105–285, §114(a)(2)(F), redesignated par. (5) as (7). Former par. (7) redesignated (9).
 
@@ -264,7 +266,7 @@ Subsec. (e). Pub. L. 105–285, §114(b), inserted "(including services to promo
 
 Subsec. (a). Pub. L. 103–252, §114(3)(A), redesignated as subsec. (e) the last sentence which read as follows: "The Secretary shall provide, either directly or through grants or other arrangements, funds from programs authorized under this subchapter to support an organization to administer a centralized child development and national assessment program leading to recognized credentials for personnel working in early childhood development and child care programs, training for personnel providing services to non-English language background children, training for personnel in helping children cope with community violence, and resource access projects for personnel working with disabled children."
 
-Pub. L. 103–252, §114(2), substituted "(2) training for specialized or other personnel needed in connectionwith Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements," for "(2) training for specialized or other personnel needed in connection with Head Start programs, including".
+Pub. L. 103–252, §114(2), substituted "(2) training for specialized or other personnel needed in connection with Head Start programs, in accordance with the process, and the provisions for allocating resources, set forth in subsections (b) and (c) of this section. The Secretary shall provide, either directly or through grants or other arrangements," for "(2) training for specialized or other personnel needed in connection with Head Start programs, including".
 
 Subsec. (b). Pub. L. 103–252, §114(4), (5), added subsec. (b) and struck out former subsec. (b) which related to teacher qualifications and waiver of same.
 
@@ -281,6 +283,8 @@ Subsecs. (c), (d). Pub. L. 102–586, §7(b)(2), added subsecs. (c) and (d).
 <b>1990</b>—Pub. L. 101–501 substituted "Technical assistance, training, and staff qualifications" for "Technical assistance and training" in section catchline, designated existing provisions as subsec. (a), inserted "training for personnel providing services to non-English language background children," after "such personnel," in cl. (2), and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–558 substituted "shall" for "may" and inserted provision including a centralized child development training and national assessment program.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

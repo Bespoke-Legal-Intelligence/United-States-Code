@@ -6,7 +6,7 @@
 
 &emsp;(1) to demonstrate experience in service delivery within a managed care system (including provider networks) throughout the United States; and
 
-&emsp;(2) if the carrier involved would not otherwise be subject to the requirement set forth insection 8903a(c)(1), to satisfy such requirement.
+&emsp;(2) if the carrier involved would not otherwise be subject to the requirement set forth in section 8903a(c)(1), to satisfy such requirement.
 
 (Added Pub. L. 105–266, §6(a)(1), Oct. 19, 1998, 112 Stat. 2368.)
 

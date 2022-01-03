@@ -38,7 +38,7 @@ For purposes of this section, the term "explosives detection canine team" means 
 
 &emsp;&emsp;(A) coordinate with key stakeholders, including international, Federal, State, and local officials, and private sector and academic entities to develop best practice guidelines for such a standardized program, as appropriate;
 
-&emsp;&emsp;(B) require that explosives detection canine teams trained by nonprofit organizations, universities, or private sector entitiesthat are used or made available by the Secretary be trained consistent with specific training criteria developed by the Secretary; and
+&emsp;&emsp;(B) require that explosives detection canine teams trained by nonprofit organizations, universities, or private sector entities that are used or made available by the Secretary be trained consistent with specific training criteria developed by the Secretary; and
 
 &emsp;&emsp;(C) review the status of the private sector programs on at least an annual basis to ensure compliance with training curricula, performance standards, and other requirements.
 
@@ -70,7 +70,7 @@ There are authorized to be appropriated to the Secretary such sums as may be nec
 
 #### (1) In general
 
-&emsp;In order to enhance the screening of air cargo and ensure that third party explosives detection canine assets are leveraged for such purpose, the Administrator shall, not later than 180 days after October 5, 2018—
+&emsp;In order to enhance the screening of air cargo and ensure that third party explosivesdetection canine assets are leveraged for such purpose, the Administrator shall, not later than 180 days after October 5, 2018—
 
 &emsp;&emsp;(A) develop and issue standards for the use of such third party explosives detection canine assets for the primary screening of air cargo;
 
@@ -302,7 +302,7 @@ Nondeployable canines.—Any certified canine provided to the TSA under clause (
 
 &emsp;&emsp;"(C)
 
-Handlers.—Not later than 30 days before a canine begins training to become a certified canine under subparagraph (B), the airport shall notify the TSA of such training and the Administrator shall assign a TSA canine handler to participate in the training with that canine, as appropriate.
+Handlers.—Not later than 30 days before a canine begins training to become a certified canineunder subparagraph (B), the airport shall notify the TSA of such training and the Administrator shall assign a TSA canine handler to participate in the training with that canine, as appropriate.
 
 &emsp;&emsp;"(D)
 

@@ -16,7 +16,7 @@ The Architect of the Capitol, acting through the Chief Executive Officer, shall 
 
 #### (c) Deposits
 
-All net profits from the food service operations within the Capitol Visitor Center and all commissions received from the contractor forsuch food service operations shall be deposited in the Capitol Visitor Center Revolving Fund established under section 2231 of this title.
+All net profits from the food service operations within the Capitol Visitor Center and all commissions received from the contractor for such food service operations shall be deposited in the Capitol Visitor Center Revolving Fund established under section 2231 of this title.
 
 #### (d) Exception to prohibition of sale or solicitation on Capitol grounds
 

@@ -92,7 +92,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;(I) subsections (b) through (f) of section 43 of the Federal Deposit Insurance Act (12 U.S.C. 1831t(c)\[(b)\]–(f));
 
-&emsp;&emsp;(J) sections 502 through 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6802–6809) except for section 505 \[15 U.S.C. 6805\] as it applies to section 501(b) \[15 U.S.C. 6801(b)\];
+&emsp;&emsp;(J) sections 502 through 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6802–6809) exceptfor section 505 \[15 U.S.C. 6805\] as it applies to section 501(b) \[15 U.S.C. 6801(b)\];
 
 &emsp;&emsp;(K) the Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.);
 
@@ -166,7 +166,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) provides the information described in item (aa) to an affiliate of such person; or
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) provides information that is used or expected to be used solely in any decision regarding the offering orprovision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) provides information that is used or expected to be used solely in any decision regarding the offering or provision of a product or service that is not a consumer financial product or service, including a decision for employment, government licensing, or a residential lease or tenancy involving a consumer; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the information described in subclause (I)(aa) is not used by such person or affiliate in connection with any decision regarding the offering or provision of a consumer financial product or service to the consumer, other than credit described in section 5517(a)(2)(A) of this title;
 
@@ -320,7 +320,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (C) Rule of construction
 
-&emsp;&emsp;A person that is a service provider shall be deemed to be a covered person to the extent that such person engages in the offering or provision of its own consumer financial product or service.
+&emsp;&emsp;A person that is a service provider shall be deemed to be a covered person to the extentthat such person engages in the offering or provision of its own consumer financial product or service.
 
 #### (27) State
 
@@ -330,7 +330,7 @@ Except as otherwise provided in this title,<sup>1</sup> for purposes of this tit
 
 #### (A) In general
 
-&emsp;&emsp;The term "stored value" means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storageon electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
+&emsp;&emsp;The term "stored value" means funds or monetary value represented in any electronic format, whether or not specially encrypted, and stored or capable of storage on electronic media in such a way as to be retrievable and transferred electronically, and includes a prepaid debit card or product, or any other similar product, regardless of whether the amount of the funds or monetary value may be increased or reloaded.
 
 #### (B) Exclusion
 
@@ -378,13 +378,13 @@ The Homeowners Protection Act of 1998, referred to in par. (12)(G), is Pub. L. 1
 
 The Fair Debt Collection Practices Act, referred to in par. (12)(H), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§1692 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
-The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally to chapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
+The Home Mortgage Disclosure Act of 1975, referred to in par. (12)(K), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified principally tochapter 29 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of this title and Tables.
 
 The Home Ownership and Equity Protection Act of 1994, referred to in par. (12)(L), is subtitle B (§§151–158) of title I of Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2190, which enacted sections 1639 and 1648 of Title 15, Commerce and Trade, amended sections 1602, 1604, 1610, 1640, 1641, and 1647 of Title 15, and enacted provisions set out as notes under sections 1601 and 1602 of Title 15. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 1601 of Title 15 and Tables.
 
 The Real Estate Settlement Procedures Act of 1974, referred to in par. (12)(M), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
-The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289,July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The S.A.F.E. Mortgage Licensing Act of 2008, referred to in par. (12)(N), is title V of div. A of Pub. L. 110–289, July 30, 2008, 122 Stat. 2810, also known as the Secure and Fair Enforcement for Mortgage Licensing Act of 2008, which is classified generally to chapter 51 (§5101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 The Truth in Lending Act, referred to in par. (12)(O), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-Not later than 60 days after July 22, 1987, the Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this part. Such requirements shall be subject to section 553 of title 5. The Secretaryshall issue requirements based on the initial notice before the expiration of the 12-month period following July 22, 1987. Prior to the issuance of such requirements in final form, the requirements established by the Secretary implementing the provisions of the emergency shelter grants program under the provisions made effective by section 101(g) of Public Law 99–500 or Public Law 99–591 shall govern the emergency shelter grants program under this part.
+Not later than 60 days after July 22, 1987, the Secretary shall by notice establish such requirements as may be necessary to carry out the provisions of this part. Such requirements shall be subject to section 553 of title 5. The Secretary shall issue requirements based on the initial notice before the expiration of the 12-month period following July 22, 1987. Prior to the issuance of such requirements in final form, the requirements established by the Secretary implementing the provisions of the emergency shelter grants program under the provisions made effective by section 101(g) of Public Law 99–500 or Public Law 99–591 shall govern the emergency shelter grants program under this part.
 
 #### (b) Initial allocation of assistance
 
@@ -13,6 +13,8 @@ Not later than the expiration of the 60-day period following the date of enactme
 The Secretary shall prescribe such minimum standards of habitability as the Secretary determines to be appropriate to ensure that emergency shelters assisted under this section are environments that provide appropriate privacy, safety, and sanitary and other health-related conditions for homeless persons and families. Grantees are authorized to establish standards of habitability in addition to those prescribed by the Secretary.
 
 (Pub. L. 100–77, title IV, §417, formerly §416, July 22, 1987, 101 Stat. 498; Pub. L. 101–625, title VIII, §832(f)(7), (g), Nov. 28, 1990, 104 Stat. 4361; Pub. L. 104–330, title V, §506(a)(6), Oct. 26, 1996, 110 Stat. 4044; renumbered §417, Pub. L. 111–22, div. B, title II, §1201(3), May 20, 2009, 123 Stat. 1678.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ A prior section 417 of Pub. L. 100–77 was classified to section 11377 of this 
 <b>1990</b>—Subsec. (b). Pub. L. 101–625, §832(f)(7), inserted "Indian tribe," after "State,".
 
 Subsec. (c). Pub. L. 101–625, §832(g), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

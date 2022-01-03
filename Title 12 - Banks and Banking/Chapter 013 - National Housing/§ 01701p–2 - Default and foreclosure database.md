@@ -20,7 +20,7 @@ Information collected and made available through the database shall include—
 
 &emsp;(4) number and percentage of such mortgage loans that are in the foreclosure process;
 
-&emsp;(5) the number and percentage of such mortgage loans that have an outstanding principal obligation amount that is greater than thevalue of the property for which the loan was made; and
+&emsp;(5) the number and percentage of such mortgage loans that have an outstanding principal obligation amount that is greater than the value of the property for which the loan was made; and
 
 &emsp;(6) such other information as the Secretary of Housing and Urban Development and the Director of the Bureau consider appropriate.
 

@@ -16,7 +16,9 @@ If the tax imposed by section 4251 with respect to toll telephone service is pai
 
 For purposes of this subchapter, in determining the amounts paid for communications services, there shall not be included the amount of any State or local tax imposed on the furnishing or sale of such services, if the amount of such tax is separately stated in the bill.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1291;Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, §2(a), Nov. 12, 1977, 91 Stat. 1358.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1291; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 147; Pub. L. 95–172, §2(a), Nov. 12, 1977, 91 Stat. 1358.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -33,6 +35,8 @@ Subsec. (b). Pub. L. 89–44 substituted "toll telephone service" for "toll tele
 <b>1958</b>—Subsec. (a). Pub. L. 85–859 provided that if the person who renders the bill groups individual items for purposes of rendering the bill and computing the tax, then the amount on which the tax with respect to each group shall be based shall be the sum of all items within that group, and the tax on remaining items not included in any such group shall be based on the charge of each item separately.
 
 Subsec. (b). Pub. L. 85–859 substituted "toll telephone service" for "long distance telephone service".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 

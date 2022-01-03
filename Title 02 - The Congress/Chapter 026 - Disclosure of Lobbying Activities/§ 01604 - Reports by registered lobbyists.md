@@ -48,7 +48,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 &emsp;&emsp;(C) the names of all political committees established or controlled by the person or organization;
 
-&emsp;&emsp;(D) the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amount of each such contribution made within the semiannual period;
+&emsp;&emsp;(D) the name of each Federal candidate or officeholder, leadership PAC, or political party committee, to whom aggregate contributions equal to or exceeding $200 were made by the person or organization, or a political committee established or controlled by the person or organization within the semiannual period, and the date and amountof each such contribution made within the semiannual period;
 
 &emsp;&emsp;(E) the date, recipient, and amount of funds contributed or disbursed during the semiannual period by the person or organization or a political committee established or controlled by the person or organization—
 
@@ -78,7 +78,7 @@ For purposes of this section, estimates of income or expenses shall be made as f
 
 A report required to be filed under this section shall be filed in electronic form, in addition to any other form that the Secretary of the Senate or the Clerk of the House of Representatives may require or allow. The Secretary of the Senate and the Clerk of the House of Representatives shall use the same electronic software for receipt and recording of filings under this chapter.
 
-(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39;Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, §2(b), Jan. 3, 2019, 132 Stat. 5440.)
+(Pub. L. 104–65, §5, Dec. 19, 1995, 109 Stat. 697; Pub. L. 105–166, §4(c), Apr. 6, 1998, 112 Stat. 39; Pub. L. 110–81, title II, §§201(a), (b)(6), 202, 203(a), 205, 207(a)(2), Sept. 14, 2007, 121 Stat. 741, 742, 746, 747; Pub. L. 115–418, §2(b), Jan. 3, 2019, 132 Stat. 5440.)
 
 #### <b>Editorial Notes</b>
 

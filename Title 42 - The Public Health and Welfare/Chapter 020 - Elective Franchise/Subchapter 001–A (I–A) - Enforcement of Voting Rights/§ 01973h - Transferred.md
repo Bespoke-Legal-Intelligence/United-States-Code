@@ -1,5 +1,7 @@
 ### §1973h. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1973h was editorially reclassified as section 10306 of Title 52, Voting and Elections.

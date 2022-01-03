@@ -18,6 +18,86 @@ The Communications Act of 1934, referred to in par. (3), is act June 19, 1934, c
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Spectrum Auctions
+
+Pub. L. 117–58, div. I, §90008(a), (b), Nov. 15, 2021, 135 Stat. 1348, 1349, provided that:
+
+"(a)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Commission.—The term 'Commission' means the Federal Communications Commission.
+
+&emsp;"(2)
+
+Covered band.—The term 'covered band' means the band of frequencies between 3100 and 3450 megahertz.
+
+&emsp;"(3)
+
+Relevant congressional committees.—The term 'relevant congressional committees' means—
+
+&emsp;&emsp;"(A) the Committee on Armed Services of the Senate;
+
+&emsp;&emsp;"(B) the Committee on Armed Services of the House of Representatives;
+
+&emsp;&emsp;"(C) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;"(D) the Committee on Energy and Commerce of the House of Representatives.
+
+"(b) 3.1–3.45
+
+GHz Band.—
+
+&emsp;"(1)
+
+Pre-auction funding.—
+
+&emsp;&emsp;"(A)
+
+In general.—On the date of enactment of this Act \[Nov. 15, 2021\], the Director of the Office of Management and Budget shall transfer $50,000,000 from the Spectrum Relocation Fund established under section 118 of the National Telecommunications and Information Administration Act (47 U.S.C. 928) to the Department of Defense for the purpose of research and development, engineering studies, economic analyses, activities with respect to systems, or other planning activities to improve efficiency and effectiveness of the spectrum use of the Department of Defense in order to make available electromagnetic spectrum in the covered band—
+
+&emsp;&emsp;&emsp;"(i) for reallocation for shared Federal and non-Federal commercial licensed use; and
+
+&emsp;&emsp;&emsp;"(ii) for auction under paragraph (3) of this subsection.
+
+&emsp;&emsp;"(B)
+
+Exemption.—Section 118(g) of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 928(g)) shall not apply with respect to the payment required under subparagraph (A).
+
+&emsp;&emsp;"(C)
+
+Report to secretary of commerce.—For purposes of paragraph (2)(A), the Secretary of Defense shall report to the Secretary of Commerce the findings of the planning activities described in subparagraph (A) of this paragraph.
+
+&emsp;"(2)
+
+Identification.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 21 months after the date of enactment of this Act, in accordance with the findings of the planning activities described in paragraph (1)(A) and subject to the determination of the Secretary of Defense under subparagraph (B) of this paragraph, the Secretary of Commerce, in coordination with the Secretary of Defense, the Director of the Office of Science and Technology Policy, and relevant congressional committees, shall—
+
+&emsp;&emsp;&emsp;"(i) determine which frequencies of electromagnetic spectrum in the covered band could be made available on a shared basis between Federal use and non-Federal commercial licensed use, subject to flexible-use service rules; and
+
+&emsp;&emsp;&emsp;"(ii) submit to the President and the Commission a report that identifies the frequencies determined appropriate under clause (i).
+
+&emsp;&emsp;"(B)
+
+Required determination.—The Secretary of Commerce may identify frequencies under subparagraph (A)(ii) only if the Secretary of Defense has determined that sharing those frequencies with non-Federal users would not impact the primary mission of military spectrum users in the covered band.
+
+&emsp;"(3)
+
+Auction.—Not earlier than November 30, 2024, the Commission, in consultation with the Assistant Secretary of Commerce for Communications and Information, shall begin a system of competitive bidding under section 309(j) of the Communications Act of 1934 (47 U.S.C. 309(j)) to grant new licenses for the spectrum identified under paragraph (2)(A)(ii) of this subsection.
+
+&emsp;"(4)
+
+Sharing of spectrum.—Not earlier than May 31, 2025, the President shall modify any assignment to a Federal Government station of the frequencies identified under clause (ii) of paragraph (2)(A) in order to accommodate shared Federal and non-Federal commercial licensed use in accordance with that paragraph.
+
+&emsp;"(5)
+
+Auction proceeds to cover 110 percent of federal relocation or sharing costs.—Nothing in this subsection shall be construed to relieve the Commission from the requirements under section 309(j)(16)(B) of the Communications Act of 1934 (47 U.S.C. 309(j)(16)(B))."
+
 #### Reallocation and Auction of 3450–3550 MHZ Spectrum Band
 
 Pub. L. 116–260, div. FF, title IX, §905, Dec. 27, 2020, 134 Stat. 3215, provided that:
@@ -36,7 +116,7 @@ Definitions.—In this Act \[probably means "this section"\]—
 
 "(c)
 
-Withdrawal or Modification of Federal Government Assignments.—The President, acting throughthe Assistant Secretary of Commerce for Communications and Information, shall—
+Withdrawal or Modification of Federal Government Assignments.—The President, acting through the Assistant Secretary of Commerce for Communications and Information, shall—
 
 &emsp;"(1) not later than 180 days after the date of enactment of this Act \[Dec. 27, 2020\], in coordination with relevant Federal users, begin the process of withdrawing or modifying the assignments to Federal Government stations of the covered band as necessary for the Commission to comply with subsection (d); and
 
@@ -142,9 +222,9 @@ Pub. L. 106–65, div. A, title X, §1062(b), Oct. 5, 1999, 113 Stat. 768, provi
 
 "(1)
 
-In general.—If, in order to make available for other use a band of frequencies of which it is a primary user, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
+In general.—If, in order to make available for other use a band of frequencies of which it is a primaryuser, the Department of Defense is required to surrender use of such band of frequencies, the Department shall not surrender use of such band of frequencies until—
 
-&emsp;"(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies andmakes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
+&emsp;"(A) the National Telecommunications and Information Administration, in consultation with the Federal Communications Commission, identifies and makes available to the Department for its primary use, if necessary, an alternative band or bands of frequencies as a replacement for the band to be so surrendered; and
 
 &emsp;"(B) the Secretary of Commerce, the Secretary of Defense, and the Chairman of the Joint Chiefs of Staff jointly certify to the Committee on Armed Services and the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Armed Services and the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives, that such alternative band or bands provides comparable technical characteristics to restore essential military capability that will be lost as a result of the band of frequencies to be so surrendered.
 

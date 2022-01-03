@@ -6,7 +6,7 @@ There is hereby imposed a tax on each prohibited transaction. The rate of tax sh
 
 #### (b) Additional taxes on disqualified person
 
-In any case in which an initial tax is imposed by subsection (a) on a prohibited transaction and the transaction is not corrected within the taxable period, there is hereby imposed a taxequal to 100 percent of the amount involved. The tax imposed by this subsection shall be paid by any disqualified person who participated in the prohibited transaction (other than a fiduciary acting only as such).
+In any case in which an initial tax is imposed by subsection (a) on a prohibited transaction and the transaction is not corrected within the taxable period, there is hereby imposed a tax equal to 100 percent of the amount involved. The tax imposed by this subsection shall be paid by any disqualified person who participated in the prohibited transaction (other than a fiduciary acting only as such).
 
 #### (c) Prohibited transaction
 
@@ -106,7 +106,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(7) the exercise of a privilege to convert securities, to the extent provided in regulations of the Secretary, but only if the plan receives no less than adequate consideration pursuant to such conversion;
 
-&emsp;(8) any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund of an insurance company qualified to do business in a State if—
+&emsp;(8) any transaction between a plan and a common or collective trust fund or pooled investment fund maintained by a disqualified person which is a bank or trust company supervised by a State or Federal agency or between a plan and a pooled investment fund ofan insurance company qualified to do business in a State if—
 
 &emsp;&emsp;(A) the transaction is a sale or purchase of an interest in the fund,
 
@@ -120,7 +120,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;(11) service by a disqualified person as a fiduciary in addition to being an officer, employee, agent, or other representative of a disqualified person;
 
-&emsp;(12) the making by a fiduciary of a distribution of the assets of the trust in accordance with the terms of the plan if such assets aredistributed in the same manner as provided under section 4044 of title IV of the Employee Retirement Income Security Act of 1974 (relating to allocation of assets);
+&emsp;(12) the making by a fiduciary of a distribution of the assets of the trust in accordance with the terms of the plan if such assets are distributed in the same manner as provided under section 4044 of title IV of the Employee Retirement Income Security Act of 1974 (relating to allocation of assets);
 
 &emsp;(13) any transaction which is exempt from section 406 of such Act by reason of section 408(e) of such Act (or which would be so exempt if such section 406 applied to such transaction) or which is exempt from section 406 of such Act by reason of section 408(b)(12) of such Act;
 
@@ -182,7 +182,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(D) if <sup>3</sup> the disqualified person has an ownership interest in the system or venue described in subparagraph (A), the system or venue has been authorized by the plan sponsor or other independent fiduciary for transactions described in this paragraph, and
 
-&emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraphexecuted through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>1</sup>
+&emsp;&emsp;(E) not less than 30 days prior to the initial transaction described in this paragraph executed through any system or venue described in subparagraph (A), a plan fiduciary is provided written or electronic notice of the execution of such transaction through such system or venue,<sup>1</sup>
 
 &emsp;(20) transactions described in subparagraphs (A), (B), and (D) of subsection (c)(1) between a plan and a person that is a disqualified person other than a fiduciary (or an affiliate) who has or exercises any discretionary authority or control with respect to the investment of the plan assets involved in the transaction or renders investment advice (within the meaning of subsection (e)(3)(B)) with respect to those assets, solely by reason of providing services to the plan or solely by reason of a relationship to such a service provider described in subparagraph (F), (G), (H), or (I) of subsection (e)(2), or both, but only if in connection with such transaction the plan receives no less, nor pays no more, than adequate consideration,<sup>1</sup>
 
@@ -206,7 +206,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(D) a fiduciary (other than the investment manager engaging in the cross-trades or any affiliate) for each plan participating in the transaction authorizes in advance of any cross-trades (in a document that is separate from any other written agreement of the parties) the investment manager to engage in cross trades at the investment manager's discretion, after such fiduciary has received disclosure regarding the conditions under which cross trades may take place (but only if such disclosure is separate from any other agreement or disclosure involving the asset management relationship), including the written policies and procedures of the investment manager described in subparagraph (H),
 
-&emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 407(d)(7) of the Employee Retirement Income Security Act of 1974), the master trust has assets of at least $100,000,000,
+&emsp;&emsp;(E) each plan participating in the transaction has assets of at least $100,000,000, except that if the assets of a plan are invested in a master trust containing the assets of plans maintained by employers in the same controlled group (as defined in section 407(d)(7) of the Employee Retirement IncomeSecurity Act of 1974), the master trust has assets of at least $100,000,000,
 
 &emsp;&emsp;(F) the investment manager provides to the plan fiduciary who authorized cross trading under subparagraph (D) a quarterly report detailing all cross trades executed by the investment manager in which the plan participated during such quarter, including the following information, as applicable: (i) the identity of each security bought or sold; (ii) the number of shares or units traded; (iii) the parties involved in the cross-trade; and (iv) trade price and the method used to establish the trade price,
 
@@ -214,7 +214,7 @@ Except as provided in subsection (f)(6), the prohibitions provided in subsection
 
 &emsp;&emsp;(H) the investment manager has adopted, and cross-trades are effected in accordance with, written cross-trading policies and procedures that are fair and equitable to all accounts participating in the cross-trading program, and that include a description of the manager's pricing policies and procedures, and the manager's policies and procedures for allocating cross trades in an objective manner among accounts participating in the cross-trading program, and
 
-&emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which itrelates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
+&emsp;&emsp;(I) the investment manager has designated an individual responsible for periodically reviewing such purchases and sales to ensure compliance with the written policies and procedures described in subparagraph (H), and following such review, the individual shall issue an annual written report no later than 90 days following the period to which it relates signed under penalty of perjury to the plan fiduciary who authorized cross trading under subparagraph (D) describing the steps performed during the course of the review, the level of compliance, and any specific instances of non-compliance.
 
 > &emsp;The written report shall also notify the plan fiduciary of the plan's right to terminate participation in the investment manager's cross-trading program at any time,<sup>1</sup> or
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 &emsp;The term "amount involved" means, with respect to a prohibited transaction, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in paragraphs (2) and (10) of subsection (d) the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the tax imposed by subsection (a), shall be determined as of the date on which the prohibited transaction occurs; and
+&emsp;&emsp;(A) in the case of the tax imposed by subsection (a), shall be determined as of thedate on which the prohibited transaction occurs; and
 
 &emsp;&emsp;(B) in the case of the tax imposed by subsection (b), shall be the highest fair market value during the taxable period.
 
@@ -442,7 +442,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(IV) operates in a manner that is not biased in favor of investments offered by the fiduciary adviser or a person with a material affiliation or contractual relationship with the fiduciary adviser, and
 
-&emsp;&emsp;&emsp;&emsp;(V) takes into account all investment options under the plan in specifying howa participant's account balance should be invested and is not inappropriately weighted with respect to any investment option.
+&emsp;&emsp;&emsp;&emsp;(V) takes into account all investment options under the plan in specifying how a participant's account balance should be invested and is not inappropriately weighted with respect to any investment option.
 
 #### (iii) Certification
 
@@ -556,7 +556,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;The term "fiduciary adviser" means, with respect to a plan, a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in subsection (e)(3)(B) by the person to a participant or beneficiary of the plan and who is—
 
-&emsp;&emsp;&emsp;&emsp;(I) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciary maintains its principal office and place of business,
+&emsp;&emsp;&emsp;&emsp;(I) registered as an investment adviser under the Investment Advisers Act of 1940 (15 U.S.C. 80b–1 et seq.) or under the laws of the State in which the fiduciarymaintains its principal office and place of business,
 
 &emsp;&emsp;&emsp;&emsp;(II) a bank or similar financial institution referred to in subsection (d)(4) or a savings association (as defined in section 3(b)(1) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)), but only if the advice is provided through a trust department of the bank or similar financial institution or savings association which is subject to periodic examination and review by Federal or State banking authorities,
 
@@ -568,7 +568,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(VI) an employee, agent, or registered representative of a person described in subclauses (I) through (V) who satisfies the requirements of applicable insurance, banking, and securities laws relating to the provision of the advice.
 
-&emsp;&emsp;&nbsp;For purposes of this title, a person who develops the computer model described in subparagraph (C)(ii) or markets the investment advice program or computer model shall be treated as a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in subsection (e)(3)(B) to a participant or beneficiary and shall be treated as a fiduciaryadviser for purposes of this paragraph and subsection (d)(17), except that the Secretary of Labor may prescribe rules under which only 1 fiduciary adviser may elect to be treated as a fiduciary with respect to the plan.
+&emsp;&emsp;&nbsp;For purposes of this title, a person who develops the computer model described in subparagraph (C)(ii) or markets the investment advice program or computer model shall be treated as a person who is a fiduciary of the plan by reason of the provision of investment advice referred to in subsection (e)(3)(B) to a participant or beneficiary and shall be treated as a fiduciary adviser for purposes of this paragraph and subsection (d)(17), except that the Secretary of Labor may prescribe rules under which only 1 fiduciary adviser may elect to be treated as a fiduciary with respect to the plan.
 
 #### (ii) Affiliate
 
@@ -655,6 +655,8 @@ Before sending a notice of deficiency with respect to the tax imposed by subsect
 &emsp;&emsp;<b>For provisions concerning coordination procedures between Secretary of Labor and Secretary of the Treasury with respect to application of tax imposed by this section and for authority to waive imposition of the tax imposed by subsection (b), see section 3003 of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §2003(a), Sept. 2, 1974, 88 Stat. 971; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title I, §141(f)(5), (6), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(C), (K), (L)(iv)(III), (v)(XI), Apr. 1, 1980, 94 Stat. 198–201; Pub. L. 96–364, title II, §§208(b), 209(b), Sept. 26, 1980, 94 Stat. 1289, 1290; Pub. L. 96–596, §2(a)(1)(K),(L), (2)(I), (3)(F), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 97–448, title III, §305(d)(5), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 98–369, div. A, title IV, §491(d)(45), (46), (e)(7), (8), July 18, 1984, 98 Stat. 851–853; Pub. L. 99–514, title XI, §1114(b)(15)(A), title XVIII, §§1854(f)(3)(A), 1899A(51), Oct. 22, 1986, 100 Stat. 2452, 2882, 2961; Pub. L. 101–508, title XI, §11701(m), Nov. 5, 1990, 104 Stat. 1388–513; Pub. L. 104–188, title I, §§1453(a), 1702(g)(3), Aug. 20, 1996, 110 Stat. 1817, 1873; Pub. L. 104–191, title III, §301(f), Aug. 21, 1996, 110 Stat. 2051; Pub. L. 105–34, title II, §213(b), title X, §1074(a), title XV, §§1506(b)(1), 1530(c)(10), title XVI, §1602(a)(5), Aug. 5, 1997, 111 Stat. 816, 949, 1065, 1079, 1094; Pub. L. 105–206, title VI, §6023(19), July 22, 1998, 112 Stat. 825; Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(7), (b)(7), (10)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–628, 2763A–629; Pub. L. 107–16, title VI, §§612(a), 656(b), June 7, 2001, 115 Stat. 100, 134; Pub. L. 107–22, §1(b)(1)(D), (3)(D), July 26, 2001, 115 Stat. 197; Pub. L. 108–173, title XII, §1201(f), Dec. 8, 2003, 117 Stat. 2479; Pub. L. 108–357, title II, §§233(c), 240(a), Oct. 22, 2004, 118 Stat. 1434, 1437; Pub. L. 109–135, title IV, §413(a)(2), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 109–280, title VI, §§601(b)(1), (2), 611(a)(2), (c)(2), (d)(2), (e)(2), (g)(2), 612(b), Aug. 17, 2006, 120 Stat. 958, 959, 967, 969–971, 974, 976; Pub. L. 110–458, title I, §106(a)(2), (b)(2), (c), Dec. 23, 2008, 122 Stat. 5106; Pub. L. 115–141, div. U, title IV, §401(a)(190), (229)–(234), Mar. 23, 2018, 132 Stat. 1193, 1195; Pub. L. 116–94, div. P, title XIII, §1302(b), Dec. 20, 2019, 133 Stat. 3205.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -824,6 +826,8 @@ Subsec. (e)(7). Pub. L. 95–600, §141(f)(5), substituted in heading "Leveraged
 
 <b>1976</b>—Subsecs. (c) to (f). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 of this title.
@@ -876,7 +880,7 @@ Amendment by section 1506(b)(1) of Pub. L. 105–34 applicable to taxable years 
 
 Amendment by section 1530(c)(10) of Pub. L. 105–34 applicable to transfers made by trusts to, or for the use of, an employee stock ownership plan after Aug. 5, 1997, see section 1530(d) of Pub. L. 105–34, set out as a note under section 401 of this title.
 
-Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, seesection 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
+Amendment by section 1602(a)(5) of Pub. L. 105–34 effective as if included in the provisions of the Health Insurance Portability and Accountability Act of 1996, Pub. L. 104–191, to which such amendment relates, see section 1602(i) of Pub. L. 105–34, set out as a note under section 26 of this title.
 
 #### Effective Date of 1996 Amendments
 
@@ -946,7 +950,7 @@ Pub. L. 93–406, title II, §2003(c), Sept. 2, 1974, 88 Stat. 978, as amended b
 
 &emsp;&emsp;"(ii) in the case of the acquisition of the property by the plan, the plan pays an amount which is not in excess of the fair market value of the property at the time of such acquisition:
 
-&emsp;"(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under abinding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
+&emsp;"(D) Until June 30, 1977, the provision of services to which subparagraphs (A), (B), and (C) do not apply between a plan and a disqualified person (i) under a binding contract in effect on July 1, 1974 (or pursuant to renewals of such contract), or (ii) if the disqualified person ordinarily and customarily furnished such services on June 30, 1974, if such provision of services remains at least as favorable to the plan as an arm's-length transaction with an unrelated party would be and if the provision of services was not, at the time of such provision, a prohibited transaction (within the meaning of section 503(b) of such Code) or the corresponding provisions of prior law; or
 
 &emsp;"(E) the sale, exchange, or other disposition of property which is owned by a plan on June 30, 1974, and all times thereafter, to a disqualified person, if such plan is required to dispose of such property in order to comply with the provisions of section 407(a)(2)(A) (relating to the prohibition against holding excess employer securities and employer real property) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1107(a)(2)\] and if the plan receives not less than adequate consideration.
 
@@ -1008,7 +1012,7 @@ Restriction lifted if model certified.—If the Secretary of Labor determines un
 
 &emsp;"(ii)
 
-Class exemption if no initial certification by secretary.—If the Secretary of Labor determines under subparagraph (B) that there is no computer model investment advice program described in subparagraph (B), the Secretary of Labor shall grant a class exemption from treatment as a prohibited transaction under section 4975(c) of the Internal Revenue Code of 1986 to any transaction described in section 4975(d)(17)(A) of such Code with respect to plans described in subparagraph (A)(i), subject to such conditions as set forth in such exemption as are in the interests of the plan and its account beneficiary and protective of the rights of the account beneficiary and as are necessary to—
+Class exemption if no initial certification by secretary.—If the Secretary of Labor determines under subparagraph (B) that there is no computer model investment advice program described in subparagraph (B), the Secretary of Labor shall grant aclass exemption from treatment as a prohibited transaction under section 4975(c) of the Internal Revenue Code of 1986 to any transaction described in section 4975(d)(17)(A) of such Code with respect to plans described in subparagraph (A)(i), subject to such conditions as set forth in such exemption as are in the interests of the plan and its account beneficiary and protective of the rights of the account beneficiary and as are necessary to—
 
 &emsp;&emsp;"(I) ensure the requirements of sections 4975(d)(17) and 4975(f)(8) (other than subparagraph (C) thereof) of the Internal Revenue Code of 1986 are met, and
 

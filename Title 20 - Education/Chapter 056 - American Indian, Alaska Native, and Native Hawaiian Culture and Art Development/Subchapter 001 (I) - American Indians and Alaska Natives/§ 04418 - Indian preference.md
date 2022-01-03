@@ -16,9 +16,13 @@ In carrying out section 4416(b)(1) of this title, the President of the Institute
 
 (Pub. L. 99–498, title XV, §1511, Oct. 17, 1986, 100 Stat. 1607; Pub. L. 102–325, title XIII, §1331(e), July 23, 1992, 106 Stat. 807.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–325 inserted "develop a policy or policies for the Institute to" after "is authorized to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

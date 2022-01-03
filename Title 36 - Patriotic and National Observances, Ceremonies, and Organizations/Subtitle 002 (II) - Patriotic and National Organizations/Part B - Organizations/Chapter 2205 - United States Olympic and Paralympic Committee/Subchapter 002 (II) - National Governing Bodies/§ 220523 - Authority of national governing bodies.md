@@ -10,7 +10,7 @@ Authority.—For the sport that it governs, a national governing body may—
 
 &emsp;(3) serve as the coordinating body for amateur athletic activity in the United States;
 
-&emsp;(4) exercise jurisdiction over international amateur athletic activities and sanction international amateur athletic competition held inthe United States and sanction the sponsorship of international amateur athletic competition held outside the United States;
+&emsp;(4) exercise jurisdiction over international amateur athletic activities and sanction international amateur athletic competition held in the United States and sanction the sponsorship of international amateur athletic competition held outside the United States;
 
 &emsp;(5) conduct amateur athletic competition, including national championships, and international amateur athletic competition in the United States, and establish procedures for determining eligibility standards for participation in competition, except for amateur athletic competition specified in section 220526 of this title;
 

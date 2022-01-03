@@ -36,7 +36,7 @@ Mediation under this section—
 
 #### (c) Mediation period
 
-The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period. The Office shall notify in writing the covered employee and the employing office when the mediation period has ended.
+The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the firstday of the mediation period, shall be stayed during the mediation period. The Office shall notify in writing the covered employee and the employing office when the mediation period has ended.
 
 #### (d) Independence of mediation process
 
@@ -70,7 +70,7 @@ A prior section 404 of Pub. L. 104–1 was classified to section 1404 of this ti
 
 Subsec. (b)(2). Pub. L. 115–397, §104(b), substituted "meetings with the parties during which, at the request of any of the parties, the parties shall be separated," for "meetings with the parties separately or jointly".
 
-Subsec. (c). Pub. L. 115–397, §104(c), substituted "The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the jointrequest of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period." for "The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office."
+Subsec. (c). Pub. L. 115–397, §104(c), substituted "The mediation period shall be 30 days, beginning on the first day after the second party agrees to the request for the mediation. The mediation period may be extended for one additional period of 30 days at the joint request of the covered employee and employing office. Any deadline in this chapter relating to a claim for which mediation has been agreed to in this section, that has not already passed by the first day of the mediation period, shall be stayed during the mediation period." for "The mediation period shall be 30 days beginning on the date the request for mediation is received. The mediation period may be extended for additional periods at the joint request of the covered employee and the employing office."
 
 <b>2015</b>—Subsec. (b)(1). Pub. L. 114–6, §2(a)(1), substituted "from the master list developed and maintained under subsection (e)" for "after considering recommendations by organizations composed primarily of individuals experienced in adjudicating or arbitrating personnel matters".
 

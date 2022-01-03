@@ -20,6 +20,10 @@ no source.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–28, §1, July 26, 2021, 135 Stat. 304, provided that: "This Act \[amending provisions set out as a note under section 3309 of this title\] may be cited as the 'Construction Consensus Procurement Improvement Act of 2021'."
+
 #### Short Title of 2020 Amendment
 
 Pub. L. 116–260, div. U, title IV, §401, Dec. 27, 2020, 134 Stat. 2292, provided that: "This title \[enacting provisions set out as a note under section 3309 of this title\] may be cited as the 'Construction Consensus Procurement Improvement Act of 2020'."
@@ -46,11 +50,11 @@ Pub. L. 110–252, title VI, §6101, June 30, 2008, 122 Stat. 2386, provided tha
 
 #### Short Title of 2003 Act
 
-Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, provided that: "This title \[see Tables for classification\] may be cited as the 'Services Acquisition Reform Act of 2003'."
+Pub. L. 108–136, div. A, title XIV, §1401, Nov. 24, 2003, 117 Stat. 1663, provided that: "This title \[see Tables forclassification\] may be cited as the 'Services Acquisition Reform Act of 2003'."
 
 #### Short Title of 1996 Act
 
-Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f)\[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: "This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification\] may be cited as the 'Clinger-Cohen Act of 1996'."
+Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: "This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification\] may be cited as the 'Clinger-Cohen Act of 1996'."
 
 #### Short Title of 1994 Act
 

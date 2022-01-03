@@ -50,6 +50,8 @@ The protection that was afforded producers that had an option to elect to accele
 
 (Pub. L. 107–171, title I, §1601, May 13, 2002, 116 Stat. 211; Pub. L. 110–234, title I, §1601(e), May 22, 2008, 122 Stat. 1001; Pub. L. 110–246, §4(a), title I, §1601(e), June 18, 2008, 122 Stat. 1664, 1729.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (a) to (c), see References in Text note set out under section 7901 of this title.
@@ -69,6 +71,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 #### Amendments
 
 <b>2008</b>—Subsec. (d)(3). Pub. L. 110–246, §1601(e), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

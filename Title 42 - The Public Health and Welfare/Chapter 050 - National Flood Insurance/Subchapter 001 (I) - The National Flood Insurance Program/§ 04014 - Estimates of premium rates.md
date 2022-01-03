@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, any structure existing on December 3
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
-Notwithstanding any other provision of law, any community that has made adequateprogress, acceptable to the Administrator, on the construction or reconstruction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Administrator, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Administrator shall find that adequate progress on the construction or reconstruction of a flood protection system, based on the present value of the completed flood protection system, has been made only if: (1) 100 percent of the cost of the system has been authorized; (2) at least 60 percent of the cost of the system has been appropriated; (3) at least 50 percent of the cost of the system has been expended; and (4) the system is at least 50 percent completed. Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.
+Notwithstanding any other provision of law, any community that has made adequate progress, acceptable to the Administrator, on the construction or reconstruction of a flood protection system which will afford flood protection for the one-hundred year frequency flood as determined by the Administrator, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates not exceeding those which would be applicable under this section if such flood protection system had been completed. The Administrator shall find that adequate progress on the construction or reconstruction of a flood protection system, based on the present value of the completed flood protection system, has been made only if: (1) 100 percent of the cost of the system has been authorized; (2) at least 60 percent of the cost of the system has been appropriated; (3) at least 50 percent of the cost of the system has been expended; and (4) the system is at least 50 percent completed. Notwithstanding any other provision of law, in determining whether a community has made adequate progress on the construction, reconstruction, or improvement of a flood protection system, the Administrator shall consider all sources of funding, including Federal, State, and local funds.
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
@@ -106,7 +106,7 @@ In this section, the term "severe repetitive loss property" has the following me
 
 &emsp;&emsp;(B) has incurred flood-related damage—
 
-&emsp;&emsp;&emsp;(i) for which 4 or more separate claims payments have been made under flood insurance coverage under this subchapter, with the amount of each such claim exceeding $5,000, and with the cumulativeamount of such claims payments exceeding $20,000; or
+&emsp;&emsp;&emsp;(i) for which 4 or more separate claims payments have been made under flood insurance coverage under this subchapter, with the amount of each such claim exceeding $5,000, and with the cumulative amount of such claims payments exceeding $20,000; or
 
 &emsp;&emsp;&emsp;(ii) for which at least 2 separate claims payments have been made under such coverage, with the cumulative amount of such claims exceeding the value of the property.
 
@@ -115,6 +115,8 @@ In this section, the term "severe repetitive loss property" has the following me
 &emsp;In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director <sup>2</sup> shall by regulation provide.
 
 (Pub. L. 90–448, title XIII, §1307, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §109, Dec. 31, 1973, 87 Stat. 980; Pub. L. 93–383, title VIII, §816(b), Aug. 22, 1974, 88 Stat. 739; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(1), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 102–550, title IX, §928, Oct. 28, 1992, 106 Stat. 3886; Pub. L. 112–123, §2(a), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100205(a)(1), (b), 100238(b)(1), July 6, 2012, 126 Stat. 917, 918, 958; Pub. L. 113–89, §§3(a)(1), 14, 15, 19, Mar. 21, 2014, 128 Stat. 1021, 1026, 1027.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -162,9 +164,11 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ",
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–234 added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: "The amendments made by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\]."
+Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: "The amendmentsmade by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\]."
 
 #### Effective Date
 
@@ -340,7 +344,7 @@ Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in pa
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 
-Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRM structures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
+Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the Director of the Federal Emergency Management Agency to conduct a study of the economic effects that would result from increasing premium rates for flood insurance coverage for pre-FIRMstructures and submit a report to Congress no later than 12 months after Sept. 23, 1994.
 
 #### Sea Level Rise Study
 

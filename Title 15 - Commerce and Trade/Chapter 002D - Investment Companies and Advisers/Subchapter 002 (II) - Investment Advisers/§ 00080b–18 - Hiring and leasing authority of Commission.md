@@ -8,15 +8,21 @@ The provisions of section 78d(b) of this title shall be applicable with respect 
 
 (Aug. 22, 1940, ch. 686, title II, §218, 54 Stat. 857; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Pub. L. 101–550, title I, §104(d), Nov. 15, 1990, 104 Stat. 2714.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–550 amended section generally. Prior to amendment, section related to appointment and compensation of employees.
 
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Repeals
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

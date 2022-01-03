@@ -52,7 +52,7 @@ Certificate Requirement.—The Secretary may not approve an application for a ce
 
 (d)
 
-Limitation on Liability.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminarypassenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
+Limitation on Liability.—An air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the air carrier in preparing or providing a passenger list, or in providing information concerning a preliminary passenger manifest, pursuant to a plan submitted by the air carrier under subsection (b), unless such liability was caused by conduct of the air carrier which was grossly negligent or which constituted intentional misconduct.
 
 (e)
 
@@ -63,6 +63,8 @@ Aircraft Accident and Passenger Defined.—In this section, the terms "aircraft 
 Statutory Construction.—Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
 
 (Added Pub. L. 104–264, title VII, §703(a), Oct. 9, 1996, 110 Stat. 3267; amended Pub. L. 106–181, title IV, §402(a)(1)–(3), (5)–(c), Apr. 5, 2000, 114 Stat. 129, 130; Pub. L. 108–176, title VIII, §809(a), Dec. 12, 2003, 117 Stat. 2588; Pub. L. 115–254, div. C, §1109(a), Oct. 5, 2018, 132 Stat. 3434.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -87,6 +89,8 @@ Subsec. (c). Pub. L. 106–181, §402(a)(5)(B), substituted "The Secretary" for 
 Subsec. (d). Pub. L. 106–181, §402(b), inserted ", or in providing information concerning a preliminary passenger manifest," before "pursuant to a plan".
 
 Subsec. (f). Pub. L. 106–181, §402(c), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

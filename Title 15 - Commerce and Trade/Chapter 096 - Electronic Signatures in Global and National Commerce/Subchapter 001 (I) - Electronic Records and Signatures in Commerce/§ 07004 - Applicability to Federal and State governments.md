@@ -58,7 +58,7 @@ Subject to subsection (c)(2), nothing in this subchapter limits or supersedes an
 
 #### (1) Reimposing paper prohibited
 
-&emsp;Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed togrant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
+&emsp;Nothing in subsection (b) (other than paragraph (3)(B) thereof) shall be construed to grant any Federal regulatory agency or State regulatory agency authority to impose or reimpose any requirement that a record be in a tangible printed or paper form.
 
 #### (2) Continuing obligation under Government Paperwork Elimination Act
 
@@ -80,11 +80,15 @@ The Federal Communications Commission shall not hold any contract for telecommun
 
 (Pub. L. 106–229, title I, §104, June 30, 2000, 114 Stat. 469.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended section 3504 of Title 44, Public Printing and Documents, and enacted provisions set out as a note under section 3504 of Title 44. For complete classification of this Act to the Code, see Tables.
 
 The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

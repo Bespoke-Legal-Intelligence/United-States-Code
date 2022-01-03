@@ -4,7 +4,7 @@
 
 Whenever the President determines it to be consistent with and in furtherance of the purposes of subchapter I of this chapter and within the limitations of this chapter, any agency of the United States Government is authorized to furnish services and commodities on an advance-of-funds or reimbursement basis to friendly countries, international organizations, the American Red Cross, and voluntary nonprofit relief agencies registered with and approved by the Agency for International Development (including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available). Such advances or reimbursements may be credited to the currently applicable appropriation, account, or fund of the agency concerned and shall be available for the purposes for which such appropriation, account, or fund is authorized to be used, under the following circumstances:
 
-&emsp;(1) Advances or reimbursements which are received under this section within one hundred and eighty days after the close of the fiscalyear in which such services and commodities are delivered.
+&emsp;(1) Advances or reimbursements which are received under this section within one hundred and eighty days after the close of the fiscal year in which such services and commodities are delivered.
 
 &emsp;(2) Advances or reimbursements received pursuant to agreements executed under this section in which reimbursement will not be completed within one hundred and eighty days after the close of the fiscal year in which such services and commodities are delivered: <i>Provided</i>, That such agreements require the payment of interest at the current rate established pursuant to section 635(b)(1)(B) of title 12, and repayment of such principal and interest does not exceed a period of three years from the date of signing of the agreement to provide the service: <i>Provided further</i>, That funds available for this paragraph in any fiscal year shall not exceed $1,000,000 of the total funds authorized for use in such fiscal year by part I of subchapter I of this chapter, and shall be available only to the extent provided in appropriation Acts. Interest shall accrue as of the date of disbursement to the agency or organization providing such services.
 
@@ -56,7 +56,7 @@ Subsec. (d). Pub. L. 99–93, §129(2), added subsec. (d).
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–88 inserted "(including foreign voluntary nonprofit relief agencies so registered and approved when no United States voluntary nonprofit relief agency is available)" after "and voluntary nonprofit relief agencies registered with and approved by the Advisory Committee on Voluntary Foreign Aid" in provisions preceding par. (1).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–161 substituted "currently" for "current", incorporated text following"Such advances or reimbursements" in provisions designated cl. (1) and added cl. (2).
+<b>1975</b>—Subsec. (a). Pub. L. 94–161 substituted "currently" for "current", incorporated text following "Such advances or reimbursements" in provisions designated cl. (1) and added cl. (2).
 
 <b>1968</b>—Pub. L. 90–554 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -108,7 +108,7 @@ Memorandum for the Secretary of State \[and\] the Administrator of the Agency fo
 
 By virtue of the authority vested in me by the Constitution and laws of the United States of America, including section 301 of title 3 of the United States Code, I hereby delegate as follows certain authorities vested in the President:
 
-(A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator of the Agency for International Development, respectively, for matters within their respective areas of responsibility; and
+(A) the functions under section 607 of the Foreign Assistance Act of 1961, as amended (FAA) \[22 U.S.C. 2357\], to the Secretary of State and to the Administrator ofthe Agency for International Development, respectively, for matters within their respective areas of responsibility; and
 
 (B) the functions in the first proviso under the heading "Population, Development Assistance," contained in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1995 (Public Law 103–306) \[108 Stat. 1611\], and in comparable provisions in successor legislation, to the Secretary of State relating to those organizations and programs for which the Secretary of State has funding responsibility.
 

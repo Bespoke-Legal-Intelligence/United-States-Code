@@ -2,7 +2,7 @@
 
 #### (a) Beryllium
 
-A covered beryllium employee shall, in the absence of substantial evidence to the contrary, be determined to have been exposed to beryllium in the performance of duty for the purposes of the compensation program if, and only if, the covered beryllium employee was—
+A covered beryllium employee shall, in the absence of substantial evidence to the contrary, bedetermined to have been exposed to beryllium in the performance of duty for the purposes of the compensation program if, and only if, the covered beryllium employee was—
 
 &emsp;(1) employed at a Department of Energy facility; or
 
@@ -58,6 +58,8 @@ An individual with cancer specified in subclause (I), (II), or (III) of section 
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3623\], Oct. 30, 2000, 114 Stat. 1654, 1654A–502; Pub. L. 108–375, div. C, title XXXI, §3168(b), Oct. 28, 2004, 118 Stat. 2190.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 7(b) of the Orphan Drug Act, referred to in subsec. (c)(3)(A), is section 7(b) of Pub. L. 97–414, which is set out in a note under section 241 of this title.
@@ -66,7 +68,9 @@ Section 7(b) of the Orphan Drug Act, referred to in subsec. (c)(3)(A), is sectio
 
 <b>2004</b>—Subsec. (c)(4). Pub. L. 108–375 added par. (4).
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000, 65 F.R. 77487, set out as a note under section 7384 of this title.
+For delegation of certain functions of the President under this section, see Ex. Ord. No. 13179, Dec. 7, 2000,65 F.R. 77487, set out as a note under section 7384 of this title.
 

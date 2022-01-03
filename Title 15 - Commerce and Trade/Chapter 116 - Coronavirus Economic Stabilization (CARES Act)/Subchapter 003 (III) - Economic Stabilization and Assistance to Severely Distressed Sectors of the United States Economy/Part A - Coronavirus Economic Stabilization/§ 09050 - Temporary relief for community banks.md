@@ -32,6 +32,8 @@ During a grace period described in subsection (b)(1)(B), a qualifying community 
 
 (Pub. L. 116–136, div. A, title IV, §4012, Mar. 27, 2020, 134 Stat. 479.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2 of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsec. (a)(1), is section 2 of Pub. L. 115–174, May 24, 2018, 132 Stat. 1297, which is set out as a note under section 5365 of Title 12, Banks and Banking.

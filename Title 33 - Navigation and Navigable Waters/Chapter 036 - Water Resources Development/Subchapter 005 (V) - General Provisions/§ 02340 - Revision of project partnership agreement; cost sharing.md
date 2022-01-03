@@ -18,7 +18,7 @@ The estimated Federal and non-Federal costs of water resources projects authoriz
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

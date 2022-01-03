@@ -70,6 +70,8 @@ The findings and recommendations of the reports required by subsection (a), and 
 
 <i>For termination of section, see section 4564(a) of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (d)(1)(B), was in the original "this Act", meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 4501 of this title and Tables.
@@ -77,6 +79,8 @@ This chapter, referred to in subsec. (d)(1)(B), was in the original "this Act", 
 #### Codification
 
 Section was formerly classified to section 2172 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Report on Impact of Offsets on Domestic Contractors and Lower Tier Subcontractors
 
@@ -136,7 +140,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;"(6) In some cases, United States contractors are required to provide indirect offsets which can negatively impact nondefense industrial sectors.
 
-&emsp;"(7) Unilateral efforts by the United States to prohibit offsets may be impractical in the current era ofglobalization and would severely hinder the competitiveness of the United States defense industry in the global market.
+&emsp;"(7) Unilateral efforts by the United States to prohibit offsets may be impractical in the current era of globalization and would severely hinder the competitiveness of the United States defense industry in the global market.
 
 &emsp;"(8) The development of global standards to manage and restrict demands for offsets would enhance United States efforts to mitigate the negative impact of offsets.
 
@@ -184,7 +188,7 @@ WTO agreement.—The term 'WTO Agreement' means the Agreement Establishing the W
 
 &emsp;"(1) the executive branch should pursue efforts to address trade fairness by establishing reasonable, business-friendly standards for the use of offsets in international business transactions between the United States and its trading partners and competitors;
 
-&emsp;"(2) the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and the United States Trade Representative, or their designees, should raise with other industrialized nations at every suitable venue the need for transparency and reasonable standards to govern the role of offsets in international defense trade;
+&emsp;"(2) the Secretary of Defense, the Secretary of State, the Secretary of Commerce, and the United States Trade Representative, or their designees, should raise with other industrialized nations atevery suitable venue the need for transparency and reasonable standards to govern the role of offsets in international defense trade;
 
 &emsp;"(3) the United States Government should enter into discussions regarding the establishment of multilateral standards for the use of offsets in international defense trade through the appropriate multilateral fora, including such organizations as the Transatlantic Economic Partnership, the Wassenaar Arrangement, the G–8, and the World Trade Organization; and
 
@@ -254,7 +258,7 @@ Commission Report.—Not later than 12 months after the Commission is establishe
 
 &emsp;&emsp;"(A) the collateral impact of offsets on industry sectors that may be different than those of the contractor providing the offsets, including estimates of contracts and jobs lost as well as an assessment of damage to industrial sectors;
 
-&emsp;&emsp;"(B) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to theability of United States contractors to compete if offsets were prohibited or limited; and
+&emsp;&emsp;"(B) the role of offsets with respect to competitiveness of the United States defense industry in international trade and the potential damage to the ability of United States contractors to compete if offsets were prohibited or limited; and
 
 &emsp;&emsp;"(C) the impact on United States national security, and upon United States nonproliferation objectives, of the use of coproduction, subcontracting, and technology transfer with foreign governments or companies that results from fulfilling offset requirements, with particular emphasis on the question of dependency upon foreign nations for the supply of critical components or technology;
 
@@ -300,7 +304,7 @@ Compensation.—The Chairman of the Commission may fix the compensation of the e
 
 &emsp;"(4)
 
-Detail of government employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+Detail of government employees.—Any Federal Government employee may be detailed to theCommission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
 
 &emsp;"(5)
 
@@ -384,6 +388,8 @@ Recommendations for modifications.—The interagency team shall submit to the Pr
 
 &emsp;&emsp;"(B) the reciprocal procurement of defense items."
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 For directive to Secretary of Commerce to prepare and submit annual report required by this section, see section 702 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16658, set out as a note under section 4553 of this title.
@@ -394,7 +400,7 @@ Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558, as amended by Ex. Ord. No. 1331
 
 By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 \[see Tables for classification\] and the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) \[set out in a note above\] and to create a parallel "President's Council on the Use of Offsets in Commercial Trade," it is hereby ordered as follows:
 
-Section 1. <i>Membership</i>. Pursuant to Public Law 106–113, the "National Commission on the Use of Offsets in Defense Trade" (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreign sales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
+Section 1. <i>Membership</i>. Pursuant to Public Law 106–113, the "National Commission on the Use of Offsets in Defense Trade" (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreignsales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
 
 Sec. 2. <i>Duties</i>. The Commission will be responsible for reviewing and reporting on: (a) current practices by foreign governments in requiring offsets in purchasing agreements and the extent and nature of offsets offered by United States and foreign defense industry contractors; (b) the impact of the use of offsets on defense subcontractors and nondefense industrial sectors affected by indirect offsets; and (c) the role of offsets, both direct and indirect, on domestic industry stability, United States trade competitiveness, and national security.
 

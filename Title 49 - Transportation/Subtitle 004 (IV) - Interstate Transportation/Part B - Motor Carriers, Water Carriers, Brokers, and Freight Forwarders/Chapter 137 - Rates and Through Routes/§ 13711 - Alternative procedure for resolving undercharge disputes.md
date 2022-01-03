@@ -32,7 +32,7 @@ Stay of Additional Compensation.—When a person proceeds under this section to 
 
 (d)
 
-Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, for transportation provided before January 1, 1996, to the requirements of sections 10761(a) and 10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
+Treatment.—Subsection (a) is an exception to the requirements of section 13702 and, fortransportation provided before January 1, 1996, to the requirements of sections 10761(a) and 10762, as in effect on December 31, 1995, as such sections relate to a filed tariff rate and other general tariff requirements.
 
 (e)
 
@@ -54,6 +54,8 @@ Applicability to Pending Cases.—This section shall apply to all cases and proc
 
 This amends 49:13711(a), (d), and (g) by setting out the effective date of 49:13711 and for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subchapter II of chapter 105, referred to in subsec. (a), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
@@ -73,6 +75,8 @@ Provisions similar to those in this section were contained in section 2(e) of Pu
 Subsec. (d). Pub. L. 104–287, §5(31)(B), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before such effective date".
 
 Subsec. (g). Pub. L. 104–287, §5(31)(C), substituted "January 1, 1996" for "the effective date of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

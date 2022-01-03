@@ -6,7 +6,7 @@ Section 321b, act June 30, 1932, ch. 320, §3, 47 Stat. 446, related to distribu
 
 Section 321c, act June 30, 1932, ch. 320, §4, 47 Stat. 446, related to submission of appropriations.
 
-Section 321d, act June 30, 1932, ch. 320, §5, as added July 24, 1947, ch. 313, 61 Stat. 418, required a reservation of right-of-way for roads, roadways, highways, tramways, trails, bridges, and appurtenant structures in patents and deeds.
+Section 321d, act June 30, 1932, ch. 320, §5, as added July 24, 1947, ch. 313, 61 Stat. 418, required a reservationof right-of-way for roads, roadways, highways, tramways, trails, bridges, and appurtenant structures in patents and deeds.
 
 Section 322, acts Jan. 27, 1905, ch. 277, §2, 33 Stat. 616; May 14, 1906, ch. 2458, §2, 34 Stat. 192; June 30, 1932, ch. 320, §1, 47 Stat. 446; July 14, 1955, ch. 359, 69 Stat. 321, related to location, lay out, construction, and maintenance of roads, trails and bridges.
 
@@ -15,6 +15,8 @@ Section 323, acts Jan. 27, 1905, ch. 277, §2, 33 Stat. 616; May 14, 1906, ch. 2
 Section 324, acts Jan. 27, 1905, ch. 277, §2, 33 Stat. 616; May 14, 1906, ch. 2458, §2, 34 Stat. 192; June 30, 1932, ch. 320, §1, 47 Stat. 446, related to repair of roads and trails.
 
 Section 325, acts Jan. 27, 1905, ch. 277, §2, 33 Stat. 616; May 14, 1906, ch. 2458, §2, 34 Stat. 192; June 30, 1932, ch. 320, §1, 47 Stat. 446, related to costs and expenses of laying out, constructing, and repairing roads and trails.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

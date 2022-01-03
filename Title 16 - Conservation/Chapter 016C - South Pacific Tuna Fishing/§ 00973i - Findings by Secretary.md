@@ -6,7 +6,7 @@ Following any investigation conducted in accordance with section 973h(b) of this
 
 &emsp;(1) that the fishing vessel—
 
-&emsp;&emsp;(A) while fishing in the Licensing Area did not have a license under the Treaty to fish in the Licensing Area, and that under paragraph 2 of Article 3 of the Treaty, such fishing is not authorized to be conducted in the Licensing Area without a license;
+&emsp;&emsp;(A) while fishing in the Licensing Area did not have a license under the Treaty to fishin the Licensing Area, and that under paragraph 2 of Article 3 of the Treaty, such fishing is not authorized to be conducted in the Licensing Area without a license;
 
 &emsp;&emsp;(B) was involved in any incident in which an Authorized Officer, Authorized Party Officer, or observer was allegedly assaulted with resultant bodily harm, physically threatened, forcefully resisted, refused boarding, or subjected to physical intimidation or physical interference in the performance of duties as authorized by this chapter or the Treaty;
 
@@ -39,6 +39,8 @@ No order issued in accordance with this section is subject to judicial review.
 Upon a request by the Secretary, the Attorney General shall commence a civil action for appropriate relief, including permanent or temporary injunction, to enforce any order issued by the Secretary under this section.
 
 (Pub. L. 100–330, §11, June 7, 1988, 102 Stat. 598; Pub. L. 100–350, §4(3), June 27, 1988, 102 Stat. 660.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

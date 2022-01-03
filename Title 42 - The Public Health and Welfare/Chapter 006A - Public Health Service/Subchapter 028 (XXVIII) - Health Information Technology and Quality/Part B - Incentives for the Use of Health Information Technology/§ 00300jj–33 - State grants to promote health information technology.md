@@ -98,7 +98,7 @@ In carrying out activities described in subsections (b) and (c), a State or qual
 
 #### (h) Continuous improvement
 
-The Secretary shall annually evaluate the activities conducted under this section and shall, in awarding grants under this section, implement the lessons learned from such evaluation in a manner so that awards made subsequent toeach such evaluation are made in a manner that, in the determination of the Secretary, will lead towards the greatest improvement in quality of care, decrease in costs, and the most effective authorized and secure electronic exchange of health information.
+The Secretary shall annually evaluate the activities conducted under this section and shall, in awarding grants under this section, implement the lessons learned from such evaluation in a manner so that awards made subsequent to each such evaluation are made in a manner that, in the determination of the Secretary, will lead towards the greatest improvement in quality of care, decrease in costs, and the most effective authorized and secure electronic exchange of health information.
 
 #### (i) Required match
 
@@ -114,7 +114,7 @@ The Secretary shall annually evaluate the activities conducted under this sectio
 
 #### (2) Authority to require State match for fiscal years before fiscal year 2011
 
-&emsp;For any fiscal year during the grant program under this section before fiscal year 2011, the Secretary may determine the extent to which there shall be required a non-Federal contribution from a State receiving a grant under this section.
+&emsp;For any fiscal year during the grant program under this section before fiscal year 2011,the Secretary may determine the extent to which there shall be required a non-Federal contribution from a State receiving a grant under this section.
 
 (July 1, 1944, ch. 373, title XXX, §3013, as added Pub. L. 111–5, div. A, title XIII, §13301, Feb. 17, 2009, 123 Stat. 250.)
 

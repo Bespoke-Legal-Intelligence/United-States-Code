@@ -6,9 +6,11 @@ The program provided for under section 3175c of this title shall be administered
 
 #### (b) Evaluation and report
 
-The Secretary of Agriculture, not later than April 1, 1989, shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report evaluating the effectiveness of the program provided for under section 3175c of this title.
+The Secretary of Agriculture, not later than April 1, 1989, shall submit to the Committee onAgriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report evaluating the effectiveness of the program provided for under section 3175c of this title.
 
 (Pub. L. 99–198, title XV, §1587, Dec. 23, 1985, 99 Stat. 1596; Pub. L. 110–234, title VII, §7511(c)(11), May 22, 2008, 122 Stat. 1268; Pub. L. 110–246, §4(a), title VII, §7511(c)(11), June 18, 2008, 122 Stat. 1664, 2029.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -23,6 +25,8 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(11), substituted "National Institute of Food and Agriculture" for "Extension Service" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

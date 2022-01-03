@@ -4,13 +4,17 @@ The standard time of the first zone shall be known and designated as Atlantic st
 
 (Mar. 19, 1918, ch. 24, §4, 40 Stat. 451; Pub. L. 89–387, §4(c), Apr. 13, 1966, 80 Stat. 108; Pub. L. 98–181, title II, §2003(a), Nov. 30, 1983, 97 Stat. 1297; Pub. L. 106–564, §1(b), Dec. 23, 2000, 114 Stat. 2811.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–564 struck out "and" before "that of the eighth" and inserted before period at end "; and that of the ninth zone shall be known as Chamorro standard time".
 
 <b>1983</b>—Pub. L. 98–181 substituted "Alaska" for "Yukon", "Hawaii-Aleutian" for "Alaska-Hawaii", and "Samoa" for "Bering".
 
-<b>1966</b>—Pub. L. 89–387 added Atlantic standard time as first zone designation; redesignated as eastern standard time, central standard time, mountain standard time and Pacific standard time for second through fifth zones former designation of United States standard eastern time, United States standard central time, United States standard mountain time and United States standard Pacific time for former zones one through four; added Yukon standard time as sixth zone designation; redesignated as Alaska-Hawaii standard time for seventh zone former designation of United States standard Alaska time for fifth zone; and added Bering standard time as eighth zone designation.
+<b>1966</b>—Pub. L. 89–387 added Atlantic standard time as first zone designation; redesignated as eastern standard time, central standard time, mountain standard time and Pacific standard time for second through fifth zones former designation of United States standardeastern time, United States standard central time, United States standard mountain time and United States standard Pacific time for former zones one through four; added Yukon standard time as sixth zone designation; redesignated as Alaska-Hawaii standard time for seventh zone former designation of United States standard Alaska time for fifth zone; and added Bering standard time as eighth zone designation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Conforming Changes in Time Zone Designations
 

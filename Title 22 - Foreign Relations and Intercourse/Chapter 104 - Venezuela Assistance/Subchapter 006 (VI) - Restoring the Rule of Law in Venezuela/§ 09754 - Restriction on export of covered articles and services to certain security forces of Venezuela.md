@@ -90,7 +90,7 @@ In this section:
 
 &emsp;&emsp;(A) a list of all significant transfers by foreign persons of covered articles or services to such elements of the security forces of Venezuela since July 2017;
 
-&emsp;&emsp;(B) a list of all foreign persons who maintain an existing defense relationship withsuch elements of the security forces of Venezuela; and
+&emsp;&emsp;(B) a list of all foreign persons who maintain an existing defense relationship with such elements of the security forces of Venezuela; and
 
 &emsp;&emsp;(C) any known use of covered articles or services by such elements of the security forces of Venezuela or associated forces, including paramilitary groups, that have coordinated with such security forces to assault, intimidate, or murder political activists, protesters, dissidents, and other civil society leaders, including Juan Guaido�AE1.
 

@@ -34,7 +34,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;From the amounts appropriated under section 12681(a)(4)(B) of this title and allottedunder paragraph (2)(A), the Corporation shall make grants (including financial assistance and a corresponding allotment of approved national service positions), to the State Commission of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico with an application approved under this section, to enable such State Commissions to award ServeAmerica Fellowships under subsection (e).
+&emsp;From the amounts appropriated under section 12681(a)(4)(B) of this title and allotted under paragraph (2)(A), the Corporation shall make grants (including financial assistance and a corresponding allotment of approved national service positions), to the State Commission of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico with an application approved under this section, to enable such State Commissions to award ServeAmerica Fellowships under subsection (e).
 
 #### (2) Allotment; administrative costs
 
@@ -44,7 +44,7 @@ In this section:
 
 #### (B) Reallotment
 
-&emsp;&emsp;If a State Commission does not apply for an allotment under this subsection for any fiscal year, or if the State Commission's application is not approved, the Corporation shall reallot the amount of the State Commission's allotment to the remaining State Commissions in accordance with subparagraph (A).
+&emsp;&emsp;If a State Commission does not apply for an allotment under this subsection for anyfiscal year, or if the State Commission's application is not approved, the Corporation shall reallot the amount of the State Commission's allotment to the remaining State Commissions in accordance with subparagraph (A).
 
 #### (C) Administrative costs
 
@@ -138,7 +138,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) provide an amount described in subsection (e)(3)(b) <sup>1</sup> for each fellow serving with the organization through the ServeAmerica Fellowship;
 
-&emsp;&emsp;&emsp;(iii) be responsible for certifying whether each fellow serving with the organization successfully completed the ServeAmerica Fellowship, and record and certify in a manner specified by the Corporation the number of hours served by a fellow for purposes of determining the fellow's eligibility for benefits; and
+&emsp;&emsp;&emsp;(iii) be responsible for certifying whether each fellow serving with the organizationsuccessfully completed the ServeAmerica Fellowship, and record and certify in a manner specified by the Corporation the number of hours served by a fellow for purposes of determining the fellow's eligibility for benefits; and
 
 &emsp;&emsp;&emsp;(iv) provide timely access to records relating to the ServeAmerica Fellowship to the State Commission, the Corporation, and the Inspector General of the Corporation.
 
@@ -220,7 +220,7 @@ In this section:
 
 #### (F) Definition
 
-&emsp;&emsp;In this paragraph, the term "average annual VISTA subsistence allowance" means the total average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;&emsp;In this paragraph, the term "average annual VISTA subsistence allowance" meansthe total average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (f) Compliance with ineligible service categories
 
@@ -236,11 +236,15 @@ A fellow who serves in a service project under this section shall be considered 
 
 (Pub. L. 101–610, title I, §198B, as added Pub. L. 111–13, title I, §1805, Apr. 21, 2009, 123 Stat. 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12653b, Pub. L. 101–610, title I, §198B, as added Pub. L. 103–82, title I, §104(c), Sept. 21, 1993, 107 Stat. 843, which related to Presidential awards for service to individuals providing significant service and to outstanding service programs, was renumbered section 198A of Pub. L. 101–610 by Pub. L. 111–13, title I, §1803(b), Apr. 21, 2009, 123 Stat. 1554, and transferred to section 12653a of this title.
 
 Another prior section 12653b, Pub. L. 101–610, title I, §195B, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2523, which related to national service program component of Civilian Community Corps Demonstration Program, was renumbered section 153 of Pub. L. 101–610 by Pub. L. 103–82, title I, §104(b), Sept. 21, 1993, 107 Stat. 840, and transferred to section 12613 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

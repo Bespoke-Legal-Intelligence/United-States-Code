@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
 
-&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the programfor (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+&emsp;&emsp;(iv) the estimated total cost of the program and the estimated cost of the program for (I) the current fiscal year, (II) the fiscal year for which the budget is submitted, and (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
 
 (3) In the case of a report under paragraph (1) submitted in a year during which the President's budget for the next fiscal year, because of multiyear budgeting for the Department of Defense, does not include a full budget request for the Department of Defense, the report required by paragraph (1) shall set forth—
 
@@ -62,6 +62,8 @@
 
 (Added Pub. L. 100–180, div. A, title XI, §1132(a)(1), Dec. 4, 1987, 101 Stat. 1151; amended Pub. L. 101–510, div. A, title XIV, §§1461, 1482(a), Nov. 5, 1990, 104 Stat. 1698, 1709; Pub. L. 104–106, div. A, title X, §1055, title XV, §1502(a)(4), Feb. 10, 1996, 110 Stat. 442, 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. A, title X, §1048(a)(2), Dec. 28, 2001, 115 Stat. 1222.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (g)(2). Pub. L. 107–107 substituted "Subcommittee on Defense" for "National Security Subcommittee".
@@ -83,6 +85,8 @@ Subsec. (f). Pub. L. 101–510, §1482(a)(2), added subsec. (f). Former subsec. 
 Pub. L. 101–510, §1461(b), inserted "and Appropriations" after "Armed Services" in par. (1).
 
 Subsec. (g). Pub. L. 101–510, §1482(a)(1), redesignated subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

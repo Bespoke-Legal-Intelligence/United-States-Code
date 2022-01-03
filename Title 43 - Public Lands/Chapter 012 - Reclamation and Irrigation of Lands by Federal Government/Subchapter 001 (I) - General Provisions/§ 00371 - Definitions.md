@@ -46,7 +46,7 @@ For short title of Pub. L. 95–578 as the "Reclamation Safety of Dams Act of 19
 
 #### Short Title of 1958 Amendment
 
-For short title of title III of Pub. L. 85–500, which enacted section 390b of this title, as the "Water SupplyAct of 1958", see section 302 of Pub. L. 85–500, set out as a Short Title note under section 390b of this title.
+For short title of title III of Pub. L. 85–500, which enacted section 390b of this title, as the "Water Supply Act of 1958", see section 302 of Pub. L. 85–500, set out as a Short Title note under section 390b of this title.
 
 #### Short Title
 
@@ -88,7 +88,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 &emsp;"(10) Federal agencies, such as the Bureau of Reclamation, have had, and will continue to have major responsibilities in assisting States in the wise management and allocation of scarce water resources; and
 
-&emsp;"(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey \[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
+&emsp;"(11) the Secretary of the Interior, given his responsibilities for management of public land, trust responsibilities for Indians, administration of the reclamation program, investigations and reviews into ground water resources through the Geologic Survey\[now United States Geological Survey\], and the Secretary of the Army, given his responsibilities for flood control, water supply, hydroelectric power, recreation, and fish and wildlife enhancement, have the resources to assist in a comprehensive review, in consultation with appropriate officials from the nineteen Western States, into the problems and potential solutions facing the nineteen Western States and the Federal Government in the increasing competition for the scarce water resources of the Western States.
 
 #### "SEC. 3003. PRESIDENTIAL REVIEW.
 
@@ -192,7 +192,7 @@ Pub. L. 102–575, title XXX, Oct. 30, 1992, 106 Stat. 4693, as amended by Pub. 
 
 "There are hereby authorized to be appropriated not to exceed $10,000,000 to carry out the purposes of sections 3001 through 3009 of this title."
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 \[Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.\]
 

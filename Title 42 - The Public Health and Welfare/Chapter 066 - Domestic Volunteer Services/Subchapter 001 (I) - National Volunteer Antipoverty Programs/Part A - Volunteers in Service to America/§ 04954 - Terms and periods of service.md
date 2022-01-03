@@ -30,19 +30,23 @@ The Director shall establish a procedure, including notice and opportunity to be
 
 (Pub. L. 93–113, title I, §104, Oct. 1, 1973, 87 Stat. 397; Pub. L. 98–288, §5, May 21, 1984, 98 Stat. 190; Pub. L. 101–204, title VII, §702, Dec. 7, 1989, 103 Stat. 1821; Pub. L. 103–82, title III, §324, Sept. 21, 1993, 107 Stat. 900.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, known as the Domestic Volunteer Service Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–82, §324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) readas follows: "Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part."
+<b>1993</b>—Subsec. (b). Pub. L. 103–82, §324(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Volunteers serving under this part may be enrolled for periods of service not exceeding two years, but for not less than one-year periods of service, except that volunteers serving under this part may be enrolled for periods of service of less than one year when the Director determines, on an individual basis, that a period of service of less than one year is necessary to meet a critical scarce-skill need. Volunteers serving under this part may be reenrolled for periods of service totaling not more than two years. No volunteer shall serve for more than a total of five years under this part."
 
 Subsec. (e). Pub. L. 103–82, §324(b), added subsec. (e).
 
 <b>1989</b>—Subsec. (c). Pub. L. 101–204 substituted "for persons appointed to any office of honor or profit by section 3331 of title 5, and shall swear (or affirm) that the volunteer does not advocate the overthrow of the constitutional form of government of the United States and that the volunteer is not a member of an organization that advocates the overthrow of the constitutional form of government of the United States, knowing that such organization so advocates, except" for "in section 2504(j) of title 22, except".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–288 struck out "human, social, and environmental" in first sentence after "poverty-related", and substituted "the requirement for full-time commitment" for "this" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

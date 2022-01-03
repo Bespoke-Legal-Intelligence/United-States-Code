@@ -60,7 +60,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;&emsp;(i) a Federal or State offense, by whatever designation and wherever committed, consisting of murder (as described in section 1111); manslaughter other than involuntary manslaughter (as described in section 1112); assault with intent to commit murder (as described in section 113(a)); assault with intent to commit rape; aggravated sexual abuse and sexual abuse (as described in sections 2241 and 2242); abusive sexual contact (as described in sections 2244(a)(1) and (a)(2)); kidnapping; aircraft piracy (as described in section 46502 of Title 49); robbery (as described in section 2111, 2113, or 2118); carjacking (as described in section 2119); extortion; arson; firearms use; firearms possession (as described in section 924(c)); or attempt, conspiracy, or solicitation to commit any of the above offenses; and
 
-&emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
+&emsp;&emsp;&emsp;(ii) any other offense punishable by a maximum term of imprisonment of 10 years or more that has as an element the use, attempted use, or threatened use of physical force against the person of another or that, by its nature, involves a substantial risk that physical force against the person of another may be used in the course of committing the offense;
 
 &emsp;&emsp;(G) the term "State" means a State of the United States, the District of Columbia, and a commonwealth, territory, or possession of the United States; and
 
@@ -164,7 +164,7 @@ Nonqualifying Felonies.—An offense described in section 2422(b) or 2423(a) sha
 
 Mandatory Minimum Terms of Imprisonment for Violent Crimes Against Children.—A person who is convicted of a Federal offense that is a crime of violence against the person of an individual who has not attained the age of 18 years shall, unless a greater mandatory minimum sentence of imprisonment is otherwise provided by law and regardless of any maximum term of imprisonment otherwise provided for the offense—
 
-&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years not less than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
+&emsp;(1) if the crime of violence is murder, be imprisoned for life or for any term of years notless than 30, except that such person shall be punished by death or life imprisonment if the circumstances satisfy any of subparagraphs (A) through (D) of section 3591(a)(2) of this title;
 
 &emsp;(2) if the crime of violence is kidnapping (as defined in section 1201) or maiming (as defined in section 114), be imprisoned for life or any term of years not less than 25; and
 

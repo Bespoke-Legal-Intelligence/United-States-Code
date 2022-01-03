@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Technical Guidelines Development Committee (hereafterin this subpart referred to as the "Development Committee").
+There is hereby established the Technical Guidelines Development Committee (hereafter in this subpart referred to as the "Development Committee").
 
 #### (b) Duties
 
@@ -66,7 +66,7 @@ Members of the Development Committee shall not receive any compensation for thei
 
 #### (3) No private sector intellectual property rights in guidelines
 
-&emsp;No private sector individual or entity shall obtain any intellectual property rights to any guideline or the contents of any guideline (or any modification to any guideline) adopted by the Commission under this chapter.
+&emsp;No private sector individual or entity shall obtain any intellectual property rights to anyguideline or the contents of any guideline (or any modification to any guideline) adopted by the Commission under this chapter.
 
 #### (f) Publication of recommendations in Federal Register
 

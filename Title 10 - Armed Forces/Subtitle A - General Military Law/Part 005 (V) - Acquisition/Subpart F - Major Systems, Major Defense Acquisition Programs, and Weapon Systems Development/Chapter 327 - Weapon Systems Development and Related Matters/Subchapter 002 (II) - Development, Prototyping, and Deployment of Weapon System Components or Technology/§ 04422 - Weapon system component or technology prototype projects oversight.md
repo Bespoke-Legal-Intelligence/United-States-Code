@@ -8,7 +8,7 @@ Establishment.—The Secretary of each military department shall establish an ov
 
 Membership.—Each oversight board shall be comprised of senior officials with—
 
-&emsp;(1) expertise in requirements; research, development, test, and evaluation; acquisition;sustainment; or other relevant areas within the military department concerned;
+&emsp;(1) expertise in requirements; research, development, test, and evaluation; acquisition; sustainment; or other relevant areas within the military department concerned;
 
 &emsp;(2) awareness of technology development activities and opportunities in the Department of Defense, industry, and other sources; and
 
@@ -48,13 +48,21 @@ Functions.—The functions of each oversight board are as follows:
 
 (Added Pub. L. 114–328, div. A, title VIII, §806(a)(1), Dec. 23, 2016, 130 Stat. 2257, §2447b; renumbered §4422 and amended Pub. L. 116–283, div. A, title XVIII, §1851(c)(1), (2), Jan. 1, 2021, 134 Stat. 4272.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1851(c)(1), renumbered section 2447b of this title as this section.
 
 Subsec. (c)(3). Pub. L. 116–283, §1851(c)(2), substituted "section 4423" for "section 2447c".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Section effective Jan. 1, 2017, see section 806(a)(2) of Pub. L. 114–328, set out as a note under section 4421 of this title.
 

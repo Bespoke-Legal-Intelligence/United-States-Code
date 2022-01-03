@@ -28,7 +28,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 &emsp;(1) All information submitted under section 3016 of the Solid Waste Disposal Act \[42 U.S.C. 6937\] and subsection (b) of this section regarding any Federal facility and notice of each subsequent action taken under this chapter with respect to the facility.
 
-&emsp;(2) Information submitted by each department, agency, or instrumentality of the United States under section 3005 or 3010 of such Act \[42 U.S.C. 6925, 6930\].
+&emsp;(2) Information submitted by each department, agency, or instrumentality of theUnited States under section 3005 or 3010 of such Act \[42 U.S.C. 6925, 6930\].
 
 &emsp;(3) Information submitted by the department, agency, or instrumentality under section 9603 of this title.
 
@@ -84,7 +84,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (5) Annual report
 
-&emsp;Each department, agency, or instrumentality responsible for compliance with this section shall furnish an annual report to the Congress concerning its progress in implementing the requirements of this section. Such reports shall include, but shall not be limited to, each of the following items:
+&emsp;Each department, agency, or instrumentality responsible for compliance with this section shall furnish an annual report to the Congress concerning its progress in implementing the requirements of this section.Such reports shall include, but shall not be limited to, each of the following items:
 
 &emsp;&emsp;(A) A report on the progress in reaching interagency agreements under this section.
 
@@ -258,6 +258,8 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 (Pub. L. 96–510, title I, §120, as added Pub. L. 99–499, title I, §120(a), Oct. 17, 1986, 100 Stat. 1666; amended Pub. L. 102–426, §§3–5, Oct. 19, 1992, 106 Stat. 2175–2177; Pub. L. 104–106, div. B, title XXVIII, §2834, Feb. 10, 1996, 110 Stat. 559; Pub. L. 104–201, div. A, title III, §§330, 331, 334, Sept. 23, 1996, 110 Stat. 2484, 2486.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
@@ -268,7 +270,7 @@ The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L.
 
 Title III of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (j), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
-The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch.1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
@@ -298,6 +300,8 @@ Subsec. (h)(4). Pub. L. 102–426, §3, added par. (4).
 
 Subsec. (h)(5). Pub. L. 102–426, §5, added par. (5).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(5) of this section is listed as the 5th item on page 151), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
@@ -326,7 +330,7 @@ Pub. L. 102–426, §2, Oct. 19, 1992, 106 Stat. 2174, provided that: "The Congr
 
 &emsp;"(4) Each department, agency, or instrumentality of the United States, in accordance with applicable law, should make available without delay such excess real property.
 
-&emsp;"(5) In the case of any real property owned by the United States and transferred to another person, theUnited States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance or petroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer."
+&emsp;"(5) In the case of any real property owned by the United States and transferred to another person, the United States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance or petroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer."
 
 #### Applicability
 

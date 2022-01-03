@@ -4,9 +4,13 @@ This Act shall not be construed to repeal existing laws conferring upon the Secr
 
 (May 7, 1894, ch. 72, §10, 28 Stat. 75; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is act May 7, 1894, which is classified to sections 24 to 30a of this title. For complete classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

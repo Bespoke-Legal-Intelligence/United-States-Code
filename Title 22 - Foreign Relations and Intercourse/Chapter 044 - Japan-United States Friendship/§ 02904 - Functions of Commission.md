@@ -4,7 +4,7 @@
 
 The Commission is authorized to—
 
-&emsp;(1) develop and carry out programs at public or private institutions for the promotion ofscholarly, cultural, and artistic activities in Japan and the United States consistent with the provisions of section 2902(b) of this title; and
+&emsp;(1) develop and carry out programs at public or private institutions for the promotion of scholarly, cultural, and artistic activities in Japan and the United States consistent with the provisions of section 2902(b) of this title; and
 
 &emsp;(2) make grants to carry out such programs.
 

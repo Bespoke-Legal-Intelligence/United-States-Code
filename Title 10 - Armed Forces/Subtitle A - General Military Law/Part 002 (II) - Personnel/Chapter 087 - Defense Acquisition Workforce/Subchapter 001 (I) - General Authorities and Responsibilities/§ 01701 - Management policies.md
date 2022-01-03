@@ -10,9 +10,11 @@ Uniform Implementation.—The Secretary shall ensure that, to the maximum extent
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1638.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, provided that: "Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
+Pub. L. 101–510, div. A, title XII, §1211, Nov. 5, 1990, 104 Stat. 1667, provided that: "Except as otherwise provided in this title \[see Short Title note below\], this title and the amendments made by this title, including chapter 87 of title 10, United States Code (as added by section 1202), shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Short Title
 
@@ -100,7 +102,7 @@ Covered employees.—An employee of the Department of Defense or a nontraditiona
 
 &emsp;"(2)
 
-Nontraditional defense contractors.—For purposes of this section, the term 'nontraditional defense contractor' has the meaning given that term in section 2302(9) of title 10, United States Code.
+Nontraditional defense contractors.—For purposes of this section, the term 'nontraditional defense contractor' has the meaning given that term in section 3014 of title 10, United States Code.
 
 "(c)
 
@@ -124,7 +126,7 @@ Debt to the united states.—An amount for which an employee is liable under par
 
 "(d)
 
-Termination.—An assignment under this section may, at any time and for any reason, be terminated bythe Department of Defense or the nontraditional defense contractor concerned.
+Termination.—An assignment under this section may, at any time and for any reason, be terminated by the Department of Defense or the nontraditional defense contractor concerned.
 
 "(e)
 
@@ -186,8 +188,6 @@ Nontraditional defense contractor employees.—The total number of nontraditiona
 
 Termination of Authority for Assignments.—No assignment of an employee may commence under this section after September 30, 2019."
 
-<i>\[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(3)(A), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 1110(b)(2) of Pub. L. 114–92, set out above, is amended by substituting "section 3014" for "section 2302(9)".\]</i>
-
 #### Pilot Program on Enhanced Pay Authority for Certain Acquisition and Technology Positions in the Department of Defense
 
 Pub. L. 114–92, div. A, title XI, §1111, Nov. 25, 2015, 129 Stat. 1032, as amended by Pub. L. 116–92, div. A, title IX, §902(9), Dec. 20, 2019, 133 Stat. 1543, which authorized a pilot program on enhanced pay authority for certain acquisition and technology positions in the Department of Defense, was repealed by Pub. L. 116–283, div. A, title XI, §1114(c)(1), Jan. 1, 2021, 134 Stat. 3895. See Continuation of Pay note above and section 1701b of this title.
@@ -242,7 +242,7 @@ Applicability.—Positions described in this subsection are scientific and engin
 
 "(c)
 
-Limitation.—Authority under this section may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineeringpositions within the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+Limitation.—Authority under this section may not, in any calendar year and with respect to any military department, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within the acquisition workforce of that military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 "(d)
 

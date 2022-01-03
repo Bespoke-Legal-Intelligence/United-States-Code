@@ -22,7 +22,7 @@ A person referred to in subsection (a) is a person who, while an alien or a nonc
 
 &emsp;A request for the granting of posthumous citizenship to a person described in subsection (b) may be filed on behalf of that person—
 
-&emsp;&emsp;(A) upon locating the next-of-kin, and if so requested by the next-of-kin, by the Secretary of Defense or the Secretary's designee with the Bureau of Citizenship and Immigration Services in the Department of Homeland Security immediately upon the death of that person; or
+&emsp;&emsp;(A) upon locating the next-of-kin, and if so requested by the next-of-kin, by the Secretary of Defense or the Secretary's designeewith the Bureau of Citizenship and Immigration Services in the Department of Homeland Security immediately upon the death of that person; or
 
 &emsp;&emsp;(B) by the next-of-kin.
 
@@ -38,7 +38,7 @@ A person referred to in subsection (a) is a person who, while an alien or a nonc
 
 > &emsp;&emsp;whichever date is later;
 
-&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executivedepartment under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
+&emsp;&emsp;(B) the request is accompanied by a duly authenticated certificate from the executive department under which the person served which states that the person satisfied the requirements of paragraphs (1) and (2) of subsection (b); and
 
 &emsp;&emsp;(C) the Director finds that the person satisfied the requirement of subsection (b)(3).
 

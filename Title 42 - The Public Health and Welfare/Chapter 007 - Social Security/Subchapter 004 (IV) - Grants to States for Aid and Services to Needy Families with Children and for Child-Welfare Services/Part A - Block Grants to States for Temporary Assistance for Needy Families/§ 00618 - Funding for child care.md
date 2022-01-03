@@ -14,7 +14,7 @@
 
 #### (A) Grants
 
-&emsp;&emsp;The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3), and remaining after the reservation described in paragraph (4) and after grants are awarded under paragraph (1), to make grants to States under this paragraph.
+&emsp;&emsp;The Secretary shall use any amounts appropriated for a fiscal year under paragraph (3)(A), after grants are awarded under paragraph (1), to make grants to States under this paragraph.
 
 #### (B) Allotments to States
 
@@ -28,7 +28,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance with clause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting "the number of children residing in all States applying for such funds" for "the number of children residing in the United States in the second preceding fiscal year".
+&emsp;&emsp;&emsp;With respect to any fiscal year, if the Secretary determines (in accordance withclause (ii)) that any amounts allotted to a State under this paragraph for such fiscal year will not be used by such State during such fiscal year for carrying out the purpose for which such amounts are allotted, the Secretary shall make such amounts available in the subsequent fiscal year for carrying out such purpose to one or more States which apply for such funds to the extent the Secretary determines that such States will be able to use such additional amounts for carrying out such purpose. Such available amounts shall be redistributed to a State pursuant to section 603(n) of this title (as such section was in effect before October 1, 1995) by substituting "the number of children residing in all States applying for such funds" for "the number of children residing in the United States in the second preceding fiscal year".
 
 #### (ii) Time of determination and distribution
 
@@ -36,11 +36,35 @@
 
 #### (3) Appropriation
 
-&emsp;For grants under this section, there are appropriated $2,917,000,000 for each of fiscal years 2017 and 2018.
+&emsp;For grants under this section, there are appropriated $3,550,000,000 for each fiscal year, of which—
 
-#### (4) Indian tribes
+&emsp;&emsp;(A) $3,375,000,000 shall be available for grants to States;
 
-&emsp;The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations.
+&emsp;&emsp;(B) $100,000,000 shall be available for grants to Indian tribes and tribal organizations; and
+
+&emsp;&emsp;(C) $75,000,000 shall be available for grants to territories.
+
+#### (4) Territories
+
+#### (A) Grants
+
+&emsp;&emsp;The Secretary shall use the amounts made available by paragraph (3)(C) to make grants to the territories under this paragraph.
+
+#### (B) Allotments
+
+&emsp;&emsp;The amount described in subparagraph (A) shall be allotted among the territories in proportion to their respective needs.
+
+#### (C) Redistribution
+
+&emsp;&emsp;The 1st sentence of clause (i) and clause (ii) of paragraph (2)(D) shall apply with respect to the amounts allotted to the territories under this paragraph, except that the 2nd sentence of paragraph (2)(D) shall not apply and the amounts allotted to the territories that are available for redistribution for a fiscal year shall be redistributed to each territory that applies for the additional amounts, to the extent that the Secretary determines that the territory will be able to use the additional amounts to provide child care assistance, in an amount that bears the same ratio to the amount so available for redistribution as the amount allotted to the territory for the fiscal year bears to the total amount allotted to all the territories receiving redistributed funds under this paragraph for the fiscal year.
+
+#### (D) Inapplicability of payment limitation
+
+&emsp;&emsp;Section 1308(a) of this title shall not apply with respect to any amount paid under this paragraph.
+
+#### (E) Territory
+
+&emsp;&emsp;In this paragraph, the term "territory" means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (5) Data used to determine State and Federal shares of expenditures
 
@@ -64,7 +88,9 @@ Notwithstanding any other provision of law, amounts provided to a State under th
 
 As used in this section, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601, Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII,§7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800.)
+(Aug. 14, 1935, ch. 531, title IV, §418, as added Pub. L. 104–193, title VI, §603(b), Aug. 22, 1996, 110 Stat. 2279; amended Pub. L. 105–33, title V, §5601,Aug. 5, 1997, 111 Stat. 644; Pub. L. 108–40, §4, June 30, 2003, 117 Stat. 837; Pub. L. 109–171, title VII, §7201, Feb. 8, 2006, 120 Stat. 141; Pub. L. 112–96, title IV, §4002(g), Feb. 22, 2012, 126 Stat. 195; Pub. L. 115–31, div. M, title I, §102(a)(4), May 5, 2017, 131 Stat. 800; Pub. L. 117–2, title IX, §9801(a), (c), Mar. 11, 2021, 135 Stat. 207.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +99,12 @@ Section 603(a)(1)(D) of this title, referred to in subsec. (a)(5), was repealed 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c), is subchapter C (§658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see section 9857(a) of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(A). Pub. L. 117–2, §9801(a)(2), substituted "paragraph (3)(A)," for "paragraph (3), and remaining after the reservation described in paragraph (4) and".
+
+Subsec. (a)(3). Pub. L. 117–2, §9801(a)(1), amended par. (3) generally. Prior to amendment, text read as follows: "For grants under this section, there are appropriated $2,917,000,000 for each of fiscal years 2017 and 2018."
+
+Subsec. (a)(4). Pub. L. 117–2, §9801(c), amended par. (4) generally. Prior to amendment, text read as follows: "The Secretary shall reserve not less than 1 percent, and not more than 2 percent, of the aggregate amount appropriated to carry out this section in each fiscal year for payments to Indian tribes and tribal organizations."
 
 <b>2017</b>—Subsec. (a)(3). Pub. L. 115–31 substituted "each of fiscal years 2017 and 2018" for "fiscal year 2012".
 
@@ -102,6 +134,8 @@ Subsec. (a)(5). Pub. L. 105–33, §5601(b), added par. (5).
 
 Subsec. (d). Pub. L. 105–33, §5601(c), substituted "and" for "or" before "the District".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except as otherwise provided, see section 7701 of Pub. L. 109–171, set out as a note under section 603 of this title.
@@ -125,6 +159,10 @@ Exceptions.—The amendment made by section 5601(a)(2)(B) \[amending this sectio
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as an Effective Date of 1996 Amendment note under section 9858 of this title.
+
+#### Modification of State Match Requirement for Funding Increases in Fiscal Years 2021 and 2022
+
+Pub. L. 117–2, title IX, §9801(b), Mar. 11, 2021, 135 Stat. 207, provided that: "With respect to the amounts made available by section 418(a)(3) of the Social Security Act \[42 U.S.C. 618(a)(3)\] for each of fiscal years 2021 and 2022, section 418(a)(2)(C) of such Act \[42 U.S.C. 618(a)(2)(C)\] shall be applied and administered with respect to any State that is entitled to receive the entire amount that would be allotted to the State under section 418(a)(2)(B) of such Act \[42 U.S.C. 618(a)(2)(B)\] for the fiscal year in the manner authorized for fiscal year 2020, as if the Federal medical assistance percentage for the State for the fiscal year were 100 percent."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

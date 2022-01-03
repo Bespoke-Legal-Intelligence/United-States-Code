@@ -4,7 +4,7 @@
 
 (1)(A) The Administrator may make grants to air pollution control agencies, within the meaning of paragraph (1), (2), (3), (4), or (5) of section 7602 of this title, in an amount up to three-fifths of the cost of implementing programs for the prevention and control of air pollution or implementation of national primary and secondary ambient air quality standards. For the purpose of this section, "implementing" means any activity related to the planning, developing, establishing, carrying-out, improving, or maintaining of such programs.
 
-(B) Subject to subsections (b) and (c) of this section, an air pollution control agency which receives a grant under subparagraph (A) and which contributes less than the required two-fifths minimum shall have 3 years following November 15, 1990, in which to contribute suchamount. If such an agency fails to meet and maintain this required level, the Administrator shall reduce the amount of the Federal contribution accordingly.
+(B) Subject to subsections (b) and (c) of this section, an air pollution control agency which receives a grant under subparagraph (A) and which contributes less than the required two-fifths minimum shall have 3 years following November 15, 1990, in which to contribute such amount. If such an agency fails to meet and maintain this required level, the Administrator shall reduce the amount of the Federal contribution accordingly.
 
 (C) With respect to any air quality control region or portion thereof for which there is an applicable implementation plan under section 7410 of this title, grants under subparagraph (A) may be made only to air pollution control agencies which have substantial responsibilities for carrying out such applicable implementation plan.
 
@@ -30,9 +30,11 @@ The Administrator, with the concurrence of any recipient of a grant under this s
 
 #### (e) Notice and opportunity for hearing when affected by adverse action
 
-No application by a State for a grant under this section may be disapproved by the Administrator without prior notice and opportunity for a public hearing in the affected State, and no commitment or obligation of any funds under any such grant may be revoked or reduced without prior notice and opportunity for a publichearing in the affected State (or in one of the affected States if more than one State is affected).
+No application by a State for a grant under this section may be disapproved by the Administrator without prior notice and opportunity for a public hearing in the affected State, and no commitment or obligation of any funds under any such grant may be revoked or reduced without prior notice and opportunity for a public hearing in the affected State (or in one of the affected States if more than one State is affected).
 
 (July 14, 1955, ch. 360, title I, §105, formerly §4, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 395; renumbered §104 and amended Pub. L. 89–272, title I, §101(2)–(4), Oct. 20, 1965, 79 Stat. 992; Pub. L. 89–675, §3, Oct. 15, 1966, 80 Stat. 954; renumbered §105 and amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 489; Pub. L. 91–604, §§3(a), (b)(1), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713; Pub. L. 95–95, title I, §102, title III, §305(b), Aug. 7, 1977, 91 Stat. 687, 776; Pub. L. 101–549, title VIII, §802(a)–(e), Nov. 15, 1990, 104 Stat. 2687, 2688.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -48,7 +50,7 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 
 <b>1990</b>—Subsec. (a)(1)(A), (B). Pub. L. 101–549, §802(a), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
-"(A) The Administrator may make grants to air pollution control agencies in an amount up to two-thirds of the cost of planning, developing, establishing, or improving, and up to one-half of the cost of maintaining, programs for the prevention and control of air pollution or implementation of national primary and secondry \[sic\] ambient air quality standards.
+"(A) The Administrator may make grants to air pollution control agencies in an amount up to two-thirdsof the cost of planning, developing, establishing, or improving, and up to one-half of the cost of maintaining, programs for the prevention and control of air pollution or implementation of national primary and secondry \[sic\] ambient air quality standards.
 
 "(B) Subject to subparagraph (C), the Administrator may make grants to air pollution control agencies within the meaning of paragraph (1), (2), or (4) of section 7602(b) of this title in an amount up to three-fourths of the cost of planning, developing, establishing, or improving, and up to three-fifths of the cost of maintaining, any program for the prevention and control of air pollution or implementation of national primary and secondary ambient air quality standards in an area that includes two or more municipalities, whether in the same or different States."
 
@@ -86,13 +88,15 @@ Subsec. (c). Pub. L. 89–675, §3(b), substituted "total of funds appropriated 
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–272 substituted "this title" for "this Act", which for purposes of codification has been changed to "this subchapter", and "section 302(b)(2) and (4)" for "section 9(b)(2) and (4)", which for purposes of codification has been changed to "section 7602(b)(2) and (4) of this title".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 
-All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effect until modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
+All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to act July 14, 1955, the Clean Air Act, as in effect immediately prior to the date of enactment of Pub. L. 95–95 \[Aug. 7, 1977\] to continue in full force and effectuntil modified or rescinded in accordance with act July 14, 1955, as amended by Pub. L. 95–95 \[this chapter\], see section 406(b) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be paragraph "(1)".</i>
 

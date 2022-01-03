@@ -92,7 +92,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 ### <b>RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS</b>
 
-#### (<i>Effective Feb. 1, 1977, as amended to Jan. 13, 2021)</i>
+#### <i>(Effective Feb. 1, 1977, as amended to Jan. 3, 2022)</i>
 
 Rule
 

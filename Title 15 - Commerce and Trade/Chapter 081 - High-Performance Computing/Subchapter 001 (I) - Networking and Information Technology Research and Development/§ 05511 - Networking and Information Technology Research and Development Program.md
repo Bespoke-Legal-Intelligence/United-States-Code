@@ -6,7 +6,7 @@
 
 &emsp;(A) provide for long-term basic and applied research on networking and information technology;
 
-&emsp;(B) provide for research and development on, and demonstration of, technologies to advancethe capacity and capabilities of high-end computing and networking systems, and related software;
+&emsp;(B) provide for research and development on, and demonstration of, technologies to advance the capacity and capabilities of high-end computing and networking systems, and related software;
 
 &emsp;(C) provide for sustained access by the research community throughout the United States to high-end computing, distributed, and networking systems that are among the most advanced in the world in terms of performance in solving scientific and engineering problems, including provision for technical support for users of such systems;
 
@@ -150,7 +150,7 @@ The heads of the participating agencies, working through the National Science an
 
 &emsp;&emsp;(B) specify how the near-term and long-term objectives complement research and development areas in which academia and the private sector are actively engaged;
 
-&emsp;&emsp;(C) describe how the heads of the participating agencies will support mechanisms for foundational, large-scale, long-term, andinterdisciplinary information technology research and development and for Grand Challenges, including through collaborations—
+&emsp;&emsp;(C) describe how the heads of the participating agencies will support mechanisms for foundational, large-scale, long-term, and interdisciplinary information technology research and development and for Grand Challenges, including through collaborations—
 
 &emsp;&emsp;&emsp;(i) across Federal agencies;
 
@@ -185,6 +185,8 @@ The heads of the participating agencies, working through the National Science an
 &emsp;(2) each update under subsection (e)(2).
 
 (Pub. L. 102–194, title I, §101, Dec. 9, 1991, 105 Stat. 1595; Pub. L. 104–66, title I, §1052(k), Dec. 21, 1995, 109 Stat. 719; Pub. L. 105–305, §4, Oct. 28, 1998, 112 Stat. 2921; Pub. L. 110–69, title VII, §7024(a)(1)(B)–(D), Aug. 9, 2007, 121 Stat. 686–689; Pub. L. 114–329, title I, §105(f), Jan. 6, 2017, 130 Stat. 2978.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -290,19 +292,23 @@ Subsec. (b). Pub. L. 105–305, §4(b), struck out "High-performance computing" 
 
 <b>1995</b>—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out "and" at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-President's Council of Advisors on Science and Technology to serve as the advisory committee identified in section 5511(b) of this title and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 3(a)(iii) of Ex. Ord. No. 13895, set out as a note under section 6601 of Title 42, The Public Health and Welfare.
+President's Council of Advisors on Science and Technology to serve as the advisory committee identified in subsec. (b) of this section and to be known as the President's Innovation and Technology Advisory Committee when so serving, see section 3(b)(iii) of Ex. Ord. No. 14007, set out in a note under section 6601 of Title 42, The Public Health and Welfare.
 
 #### Ex. Ord. No. 13035. President's Information Technology Advisory Committee
 
 Ex. Ord. No. 13035, Feb. 11, 1997, 62 F.R. 7131, as amended by Ex. Ord. No. 13092, July 24, 1998, 63 F.R. 40167; Ex. Ord. No. 13113, Feb. 10, 1999, 64 F.R. 7489; Ex. Ord. No. 13200, Feb. 11, 2001, 66 F.R. 10183; Ex. Ord. No. 13215, May 31, 2001, 66 F.R. 30285; Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the High-Performance Computing Act of 1991 (Public Law 102–194) ("Act") \[15 U.S.C. 5501et seq.\], as amended by the Next Generation Internet Research Act of 1998 (Public Law 105–305) ("Research Act") \[see Short Title of 1998 Amendment note set out under section 5501 of this title\], and in order to establish an advisory committee on high-performance computing and communications, Information Technology \[sic\], and the Next Generation Internet, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the High-Performance Computing Act of 1991 (Public Law 102–194) ("Act") \[15 U.S.C. 5501 et seq.\], as amended by the Next Generation Internet Research Act of 1998 (Public Law 105–305) ("Research Act") \[see Short Title of 1998 Amendment note set out under section 5501 of this title\], and in order to establish an advisory committee on high-performance computing and communications, Information Technology \[sic\], and the Next Generation Internet, it is hereby ordered as follows:
 
 Section 1. <i>Establishment</i>. There is established the "President's Information Technology Advisory Committee" ("Committee"). The Committee shall consist of not more than 30 nonfederal members appointed by the President, including representatives of the research, education, and library communities, network providers, and representatives from critical industries. Members appointed prior to June 1, 2001, shall serve until December 1, 2001, unless reappointed by the President. Members appointed or reappointed on or after June 1, 2001, shall serve for no more than 2 years from the date of their appointment, unless their period of service is extended by the President. The President shall designate two co-chairs from among the members of the Committee. A co-chair may serve for a term of 2 years or until the end of his or her service as a member of the Committee, whichever is the shorter period.
 

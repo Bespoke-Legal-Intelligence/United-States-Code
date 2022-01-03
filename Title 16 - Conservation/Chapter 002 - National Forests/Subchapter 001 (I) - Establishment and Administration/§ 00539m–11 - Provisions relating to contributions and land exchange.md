@@ -34,7 +34,7 @@
 
 #### (5) Failure to make offer
 
-&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasons for the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
+&emsp;If the land exchange offer is not made by the date that is 180 days after February 20, 2003, the Secretary shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives, a report explaining the reasonsfor the failure to make the offer including an assessment of the need for any additional legislation that may be necessary for the exchange. If additional legislation is not necessary, the Secretary, consistent with this section, should proceed with the exchange pursuant to existing law.
 
 #### (6) Failure to exchange
 
@@ -100,6 +100,8 @@
 
 (Pub. L. 108–7, div. F, title IV, §413, Feb. 20, 2003, 117 Stat. 292; Pub. L. 111–11, title III, §3309, Mar. 30, 2009, 123 Stat. 1139; Pub. L. 113–119, §2, June 9, 2014, 128 Stat. 1185.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and (b)(4), was in the original "this title", meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
@@ -117,6 +119,8 @@ Subsec. (b)(6). Pub. L. 113–119, §2(2), added par. (6).
 <b>2009</b>—Subsec. (b)(1). Pub. L. 111–11, §3309(1), inserted "3," after "sections".
 
 Subsec. (b)(4). Pub. L. 111–11, §3309(2), inserted ", as a condition of the conveyance," before "remain" in first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

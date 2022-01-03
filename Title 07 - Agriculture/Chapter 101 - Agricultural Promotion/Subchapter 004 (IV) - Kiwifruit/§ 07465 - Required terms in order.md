@@ -32,7 +32,7 @@
 
 &emsp;Except as provided in paragraph (5), the first handler of kiwifruit shall—
 
-&emsp;&emsp;(A) be responsible for the collection from the producer, and payment to the Board, of assessments required under this subsection; and
+&emsp;&emsp;(A) be responsible for the collection from the producer, and payment to the Board, ofassessments required under this subsection; and
 
 &emsp;&emsp;(B) maintain a separate record of the kiwifruit of each producer whose kiwifruit are so handled, including the kiwifruit owned by the handler.
 
@@ -139,6 +139,8 @@ The order shall provide that funds collected by the Board under this subchapter 
 Nothing in this subchapter authorizes the withholding of information from Congress.
 
 (Pub. L. 104–127, title V, §556, Apr. 4, 1996, 110 Stat. 1067.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

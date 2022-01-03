@@ -6,7 +6,7 @@ The amount of any deduction or credit allowed by this subtitle shall be taken fo
 
 #### (b) Special rule in case of death
 
-In the case of the death of a taxpayer whose taxable income is computed under an accrual method of accounting, any amount accrued as a deduction or credit only by reason of the death of the taxpayer shall not be allowed in computing taxable income for the period in which falls the date of the taxpayer's death.
+In the case of the death of a taxpayer whose taxable income is computed under an accrual method of accounting, any amount accrued as a deduction or credit only by reason of the deathof the taxpayer shall not be allowed in computing taxable income for the period in which falls the date of the taxpayer's death.
 
 #### (c) Accrual of real property taxes
 
@@ -48,7 +48,7 @@ If—
 
 &emsp;(3) the contest with respect to the asserted liability exists after the time of the transfer, and
 
-&emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed forthe taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
+&emsp;(4) but for the fact that the asserted liability is contested, a deduction would be allowed for the taxable year of the transfer (or for an earlier taxable year) determined after application of subsection (h),
 
 > then the deduction shall be allowed for the taxable year of the transfer. This subsection shall not apply in respect of the deduction for income, war profits, and excess profits taxes imposed by the authority of any foreign country or possession of the United States.
 
@@ -138,7 +138,7 @@ If—
 
 #### (4) All events test
 
-&emsp;For purposes of this subsection, the all events test is met with respect to any item if all events have occurred which determine thefact of liability and the amount of such liability can be determined with reasonable accuracy.
+&emsp;For purposes of this subsection, the all events test is met with respect to any item if all events have occurred which determine the fact of liability and the amount of such liability can be determined with reasonable accuracy.
 
 #### (5) Subsection not to apply to certain items
 
@@ -238,7 +238,7 @@ If—
 
 &emsp;&emsp;&emsp;&emsp;(I) $300,000 ($150,000 in the case of married individuals filing separately), or
 
-&emsp;&emsp;&emsp;&emsp;(II) the excess (if any) of the aggregate amounts described in subparagraph\(A)(ii)(I) for the 5-consecutive taxable year period preceding the taxable year over the aggregate amounts described in subparagraph (A)(i) for such period.
+&emsp;&emsp;&emsp;&emsp;(II) the excess (if any) of the aggregate amounts described in subparagraph (A)(ii)(I) for the 5-consecutive taxable year period preceding the taxable year over the aggregate amounts described in subparagraph (A)(i) for such period.
 
 #### (ii) Special rules for determining aggregate amounts
 
@@ -306,7 +306,7 @@ If—
 
 &emsp;&emsp;(D) in the case of an individual whose principal business activity involves active participation in the management of a trade or business of farming, any interest in any other trade or business of farming, and,
 
-&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) ofa grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
+&emsp;&emsp;(E) any interest held by a member of the family (or a spouse of any such member) of a grandparent of an individual described in subparagraph (A), (B), (C), or (D) if the interest in the partnership or the enterprise is attributable to the active participation of the individual described in subparagraph (A), (B), (C), or (D).
 
 > &emsp;For purposes of subparagraph (A), where one farm is substituted for or added to another farm, both farms shall be treated as one farm. For purposes of subparagraph (E), the term "family" has the meaning given to such term by section 267(c)(4).
 
@@ -396,11 +396,19 @@ If—
 
 &emsp;This subsection shall be applied after the application of section 469.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat.76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 157; Pub. L. 86–781, §6(a), Sept. 14, 1960, 74 Stat. 1020; Pub. L. 87–876, §3(a), Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title II, §223(a)(1), Feb. 26, 1964, 78 Stat. 76; Pub. L. 94–455, title II, §208(a), title XIX, §§1901(a)(69), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1541, 1775, 1834; Pub. L. 98–369, div. A, title I, §91(a), (e), July 18, 1984,98 Stat. 598, 607; Pub. L. 99–514, title VIII, §§801(b), 805(c)(5), 823(b)(1), title XVIII, §1807(a)(1), (2), Oct. 22, 1986, 100 Stat. 2347, 2362, 2374, 2811; Pub. L. 100–203, title X, §10201(b)(5), Dec. 22, 1987, 101 Stat. 1330–387; Pub. L. 100–647, title I, §§1008(a)(3), 1018(u)(5), Nov. 10, 1988, 102 Stat. 3436, 3590; Pub. L. 101–239, title VII, §7721(c)(10), Dec. 19, 1989, 103 Stat. 2400; Pub. L. 101–508, title XI, §11704(a)(5), Nov. 5, 1990, 104 Stat. 1388–518; Pub. L. 104–188, title I, §1704(t)(24), (78), Aug. 20, 1996, 110 Stat. 1888, 1891; Pub. L. 109–135, title IV, §412(aa), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 110–234, title XV, §15351(a), May 22, 2008, 122 Stat. 1523; Pub. L. 110–246, §4(a), title XV, §15351(a), June 18, 2008, 122 Stat. 1664, 2285; Pub. L. 113–295, div. A, title II, §221(a)(58)(B), Dec. 19, 2014, 128 Stat. 4047; Pub. L. 115–97, title I, §11012(a), Dec. 22, 2017, 131 Stat. 2071; Pub. L. 115–141, div. U, title IV, §401(a)(117), Mar. 23, 2018, 132 Stat. 1190; Pub. L. 116–136, div. A, title II, §2304(a), (b), Mar. 27, 2020, 134 Stat. 356; Pub. L. 117–2, title IX, §9041(a), Mar. 11, 2021, 135 Stat. 122.)
+
+#### Amendment of Subsection (l)
+
+<i>Pub. L. 117–2, title IX, §9041, Mar. 11, 2021, 135 Stat. 122, provided that, applicable to taxable years beginning after December 31, 2025, subsection (l)(1) of this section is amended by striking "January 1, 2026" each place it appears and inserting "January 1, 2027".</i>
+
+<i>See 2021 Amendment note below.</i>
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -413,6 +421,8 @@ Subsec. (c) of section 464 of this title, which was transferred to this section 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (l)(1). Pub. L. 117–2 substituted "January 1, 2027" for "January 1, 2026" in two places.
 
 <b>2020</b>—Subsec. (l)(1). Pub. L. 116–136, §2304(a), amended par. (1) generally. Prior to amendment, text read as follows: "In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
 
@@ -478,7 +488,7 @@ Subsec. (h)(5)(D). Pub. L. 99–514, §805(c)(5), redesignated subpar. (D) as (C
 
 Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted "Special rules for tax shelters" for "Tax shelters may not deduct items earlier than when economic performance occurs" in heading.
 
-Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted "Recurring item exception not to apply" for "In general" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under thischapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof)."
+Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted "Recurring item exception not to apply" for "In general" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof)."
 
 Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurs on or before 90th day after close of the taxable year to the extent of cash basis.
 
@@ -509,6 +519,12 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 <b>1962</b>—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–2, title IX, §9041(b), Mar. 11, 2021, 135 Stat. 122, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2025."
 
 #### Effective Date of 2020 Amendment
 
@@ -572,7 +588,7 @@ Effective Dates.—
 
 In general.—Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
-&emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments)applies, the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
 
 &emsp;&emsp;"(B) in the case of amounts to which section 461(i) of such Code (as so added) applies, after March 31, 1984.
 
@@ -608,7 +624,7 @@ to apply in certain cases.—Notwithstanding paragraph (1), section 461(h) of th
 
 &emsp;"(4)
 
-Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section 468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
+Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
 &emsp;"(5)
 
@@ -698,7 +714,7 @@ Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The ame
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Transitional Rule for Certain Amounts
 
@@ -728,7 +744,7 @@ Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provide
 
 Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
-"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
+"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal RevenueCode of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
 &emsp;"(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
 

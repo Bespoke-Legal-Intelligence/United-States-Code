@@ -28,7 +28,7 @@ If all annuity rights under this part based on the service of a deceased partici
 
 #### (d) Lack of eligible survivors
 
-If a participant or former participant dies and is not survived by an individual eligible for an annuity under this part or by such an individualor individuals all of whose annuity rights terminate before a claim for survivor annuity is filed, the lump-sum credit to which the participant or annuitant is entitled shall be paid in accordance with subsection (f).
+If a participant or former participant dies and is not survived by an individual eligible for an annuity under this part or by such an individual or individuals all of whose annuity rights terminate before a claim for survivor annuity is filed, the lump-sum credit to which the participant or annuitant is entitled shall be paid in accordance with subsection (f).
 
 #### (e) Death of annuitant who was former participant
 
@@ -60,7 +60,7 @@ Annuity accrued and unpaid on the death of a survivor annuitant shall be paid in
 
 #### (h) Amount of credit
 
-<sup>1</sup> Amounts deducted and withheld from basic salary of a participant under section 4045 of this title from the beginning of the first pay period after the participant has completed 35 years of service computed under section 4056 of this title (excluding service credit for unused sick leave under section 4056(b) of this title), together with interest on the amounts at the rate of 3 percent a year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under section 4045(d) of this title), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f).
+<sup>1</sup> Amounts deducted and withheld from basic salary of a participant under section 4045 of thistitle from the beginning of the first pay period after the participant has completed 35 years of service computed under section 4056 of this title (excluding service credit for unused sick leave under section 4056(b) of this title), together with interest on the amounts at the rate of 3 percent a year compounded annually from the date of the deduction to the date of retirement or death, shall be applied toward any special contribution due under section 4045(d) of this title), and any balance not so required shall be refunded in a lump sum to the participant after separation or, in the event of a death in service, to a beneficiary in the order of precedence specified in subsection (f).
 
 #### (i) Former spouses
 

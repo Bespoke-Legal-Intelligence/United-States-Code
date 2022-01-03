@@ -58,13 +58,15 @@ The executive director and staff of the Council may be appointed without regard 
 
 (Pub. L. 100–533, title IV, §407, as added Pub. L. 103–403, title IV, §413, Oct. 22, 1994, 108 Stat. 4196; amended Pub. L. 105–135, title III, §304, Dec. 2, 1997, 111 Stat. 2609; Pub. L. 106–554, §1(a)(9) \[title VII, §702\], Dec. 21, 2000, 114 Stat. 2763, 2763A–701.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsecs. (h) and (i), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 
-A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, §11, Aug. 13, 1993, 107Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
+A prior section 407 of Pub. L. 100–533, title IV, Oct. 25, 1988, 102 Stat. 2696; Pub. L. 103–81, §11, Aug. 13, 1993, 107 Stat. 783, related to authorization of appropriations to carry out this chapter, prior to the general amendment of title IV of Pub. L. 100–533 by Pub. L. 103–403. See section 7110 of this title.
 
 #### Amendments
 
@@ -96,9 +98,11 @@ Subsec. (d). Pub. L. 105–135, §304(4), added subsec. (d) and struck out headi
 
 Subsec. (f). Pub. L. 105–135, §304(5), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "A vacancy on the Council shall, not later than 30 days after the date on which the vacancy occurs, be filled in the same manner in which the original appointment was made."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
+Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship ofSenate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 #### Effective Date of 1997 Amendment
 

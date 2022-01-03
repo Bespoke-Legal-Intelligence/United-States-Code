@@ -38,6 +38,8 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 (Pub. L. 101–624, title XIX, §1999N, Nov. 28, 1990, 104 Stat. 3924; Pub. L. 104–127, title I, §146(d)(1), Apr. 4, 1996, 110 Stat. 919.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(2). Pub. L. 104–127 substituted "fluid milk processors voting in the referendum;" for "all processors;".

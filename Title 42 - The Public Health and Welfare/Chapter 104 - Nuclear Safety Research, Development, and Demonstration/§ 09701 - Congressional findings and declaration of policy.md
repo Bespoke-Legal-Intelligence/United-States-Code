@@ -20,6 +20,8 @@
 
 (Pub. L. 96–567, §2, Dec. 22, 1980, 94 Stat. 3329.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 96–567, §1, Dec. 22, 1980, 94 Stat. 3329, provided: "That this Act \[enacting this chapter\] may be cited as the 'Nuclear Safety Research, Development, and Demonstration Act of 1980'."

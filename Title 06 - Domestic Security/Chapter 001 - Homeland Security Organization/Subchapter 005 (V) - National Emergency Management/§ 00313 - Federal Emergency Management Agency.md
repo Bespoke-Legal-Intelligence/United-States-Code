@@ -62,7 +62,7 @@ There is in the Department the Federal Emergency Management Agency, headed by an
 
 #### (ii) Advice on request
 
-&emsp;&emsp;&emsp;The Administrator, as the principal advisor on emergency management, shallprovide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
+&emsp;&emsp;&emsp;The Administrator, as the principal advisor on emergency management, shall provide advice to the President, the Homeland Security Council, or the Secretary on a particular matter when the President, the Homeland Security Council, or the Secretary requests such advice.
 
 #### (iii) Recommendations to Congress
 

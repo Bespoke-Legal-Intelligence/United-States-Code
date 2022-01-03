@@ -4,9 +4,9 @@
 
 (b)(1) In appointing a board for any case, the Secretary shall designate one of the members to be chairman and one of the members to be secretary of the board, each of whom shall have authority to administer oaths.
 
-(2) Appointment of boards, and the proceedings of such boards, shall be carried out under regulations prescribed by the Secretary. A verbatim record shall be maintained of board hearings.
+(2) Appointment of boards, and the proceedings of such boards, shall be carried outunder regulations prescribed by the Secretary. A verbatim record shall be maintained of board hearings.
 
-(c)(1) Notwithstanding sections 5701 and 7332 of this title, the chairman of a board, upon request of an employee whose case is under consideration by the board (or a representative of that employee) may, in connection with the considerations of the board, review records or information covered by those sections and may authorize the disclosure of such records or informationto that employee (or representative) to the extent the board considers appropriate for purposes of the proceedings of the board in that case.
+(c)(1) Notwithstanding sections 5701 and 7332 of this title, the chairman of a board, upon request of an employee whose case is under consideration by the board (or a representative of that employee) may, in connection with the considerations of the board, review records or information covered by those sections and may authorize the disclosure of such records or information to that employee (or representative) to the extent the board considers appropriate for purposes of the proceedings of the board in that case.
 
 (2) In any such case the board chairman may direct that measures be taken to protect the personal privacy of individuals whose records are involved. Any person who uses or discloses a record or information covered by this subsection for any purpose other than in connection with the proceedings of the board shall be fined not more than $5,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 

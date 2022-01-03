@@ -76,7 +76,7 @@ In order to receive a grant or contract under this section, an organization, Tri
 
 #### (e) Restrictions and special considerations
 
-The Secretary may not place upon grants awarded or contracts entered into under subsection (b) any restrictions relating to programs other than restrictions that apply to grantsmade to or contracts entered into with States pursuant to allotments under section 2321(a) of this title. The Secretary, in awarding grants and entering into contracts under this section, shall ensure that the grants and contracts will improve career and technical education programs, and shall give special consideration to—
+The Secretary may not place upon grants awarded or contracts entered into under subsection (b) any restrictions relating to programs other than restrictions that apply to grants made to or contracts entered into with States pursuant to allotments under section 2321(a) of this title. The Secretary, in awarding grants and entering into contracts under this section, shall ensure that the grants and contracts will improve career and technical education programs, and shall give special consideration to—
 
 &emsp;(1) programs that involve, coordinate with, or encourage Tribal economic development plans; and
 
@@ -103,6 +103,8 @@ Nothing in this section shall be construed—
 From the funds reserved pursuant to section 2321(a)(1)(B)(ii) of this title, the Secretary shall award grants to or enter into contracts with community-based organizations primarily serving and representing Native Hawaiians to plan, conduct, and administer programs, or portions thereof, which are authorized by and consistent with the provisions of this section for the benefit of Native Hawaiians.
 
 (Pub. L. 88–210, title I, §116, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 707; amended Pub. L. 114–95, title IX, §9215(n)(5), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §115, July 31, 2018, 132 Stat. 1598.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -141,6 +143,8 @@ Subsec. (c)(2), (3). Pub. L. 115–224, §115(3), added par. (2) and redesignate
 Subsecs. (d) to (g). Pub. L. 115–224, §115(4)–(7), substituted "Tribe" for "tribe" and "Tribal" for "tribal" wherever appearing.
 
 <b>2015</b>—Subsec. (a)(5). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to section 7517 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

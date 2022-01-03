@@ -90,7 +90,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (4) Report
 
-&emsp;The Secretary shall, on an annual basis, submit a report to Congress that describes thebasis for each determination under paragraph (1) that the assignment of an employee of the Department at a particular diplomatic post would not promote homeland security.
+&emsp;The Secretary shall, on an annual basis, submit a report to Congress that describes the basis for each determination under paragraph (1) that the assignment of an employee of the Department at a particular diplomatic post would not promote homeland security.
 
 #### (5) Permanent assignment; participation in terrorist lookout committee
 

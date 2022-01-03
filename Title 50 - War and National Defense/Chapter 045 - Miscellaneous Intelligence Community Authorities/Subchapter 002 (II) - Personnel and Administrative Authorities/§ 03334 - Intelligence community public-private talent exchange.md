@@ -14,7 +14,7 @@ Under policies developed by the Director pursuant to subsection (a), pursuant to
 
 &emsp;A head of an element of the intelligence community exercising the authority of the head under subsection (a) shall provide for a written agreement among the element of the intelligence community, the private-sector organization, and the employee concerned regarding the terms and conditions of the employee's detail under this section. The agreement—
 
-&emsp;&emsp;(A) shall require that the employee of the element, upon completion of the detail, serve in the element, or elsewhere in the civil service if approved by the head of theelement, for a period that is at least equal to the length of the detail;
+&emsp;&emsp;(A) shall require that the employee of the element, upon completion of the detail, serve in the element, or elsewhere in the civil service if approved by the head of the element, for a period that is at least equal to the length of the detail;
 
 &emsp;&emsp;(B) shall provide that if the employee of the element fails to carry out the agreement, such employee shall be liable to the United States for payment of all nonsalary and benefit expenses of the detail, unless that failure was for good and sufficient reason, as determined by the head of the element;
 
@@ -48,7 +48,7 @@ A detail under this section may, at any time and for any reason, be terminated b
 
 #### (3) Limitation
 
-&emsp;No employee of an element of the intelligence community may be detailed under this section for more than a total of 5 years, inclusive of all such details.
+&emsp;No employee of an element of the intelligence community may be detailed under thissection for more than a total of 5 years, inclusive of all such details.
 
 #### (f) Status of Federal employees detailed to private-sector organizations
 
@@ -94,7 +94,7 @@ An employee of a private-sector organization who is detailed to an element of th
 
 #### (h) Prohibition against charging certain costs to the Federal Government
 
-A private-sector organization may not charge an element of the intelligence community or any other agency of the Federal Government, as direct costs under a Federal contract, the costsof pay or benefits paid by the organization to an employee detailed to an element of the intelligence community under this section for the period of the detail and any subsequent renewal periods.
+A private-sector organization may not charge an element of the intelligence community or any other agency of the Federal Government, as direct costs under a Federal contract, the costs of pay or benefits paid by the organization to an employee detailed to an element of the intelligence community under this section for the period of the detail and any subsequent renewal periods.
 
 #### (i) Additional administrative matters
 
@@ -136,9 +136,13 @@ In this section:
 
 (Pub. L. 116–92, div. E, title LIII, §5306, Dec. 20, 2019, 133 Stat. 2122.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Ethics in Government Act of 1978, referred to in subsec. (g)(1)(E), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

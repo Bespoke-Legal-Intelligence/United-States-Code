@@ -20,7 +20,7 @@
 
 &emsp;(3) $500 for any subsequent offense.
 
-(d) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Government for a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
+(d) A person violating any other provision of this chapter or other regulation prescribed under this chapter is liable to the Governmentfor a civil penalty of not more than $1,000. If the violation involves the operation of a vessel, the vessel also is liable in rem for the penalty.
 
 (e) When a civil penalty of not more than $200 has been assessed under this chapter, the Secretary may refer the matter of collection of the penalty directly to the United States magistrate judge of the jurisdiction in which the person liable may be found for collection procedures under supervision of the district court and under an order issued by the court delegating this authority under section 636(b) of title 28.
 
@@ -28,17 +28,13 @@
 
 (g) A person is not subject to a penalty under this chapter if the person—
 
-&emsp;(1) establishes that the person did not have reason to know, in exercising reasonable care,that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
+&emsp;(1) establishes that the person did not have reason to know, in exercising reasonable care, that a recreational vessel or associated equipment does not conform with the applicable safety standards of the Government or that the person was not advised by the Secretary or the manufacturer of that vessel, equipment or component that the vessel, equipment or component contains a defect which creates a substantial risk of personal injury to the public; or
 
 &emsp;(2) holds a certificate issued by the manufacturer of that recreational vessel or associated equipment to the effect that the recreational vessel or associated equipment conforms to all applicable recreational vessel safety standards of the Government, unless the person knows or reasonably should have known that the recreational vessel or associated equipment does not so conform.
 
 (h) Compliance with this chapter or standards, regulations, or orders prescribed under this chapter does not relieve a person from liability at common law or under State law.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 534; Pub. L. 98–557, §8(b), (c), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 108–293, title IV, §406, Aug. 9, 2004, 118 Stat. 1043; Pub. L. 109–241, title IX, §901(e), July 11, 2006, 120 Stat. 564; Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8316(b), Jan. 1, 2021, 134 Stat. 4699.)
-
-#### Amendment by Pub. L. 116–283
-
-<i>Amendment by Pub. L. 116–283 effective 90 days after Jan. 1, 2021, unless the Commandant of the Coast Guard, prior to the date that is 90 days after Jan. 1, 2021, determines that the use requirement enacted in section 8316(a) of Pub. L. 116–283 (amending section 4312 of this title) would not promote recreational boating safety. See section 8316(c) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note below.</i>
 
 Historical and Revision Notes
 
@@ -100,11 +96,11 @@ Subsec. (f)(1). Pub. L. 98–557, §8(c), inserted provisions relating to advice
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
-#### Effective Date of 2021 Amendment
-
-Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8316(c), Jan. 1, 2021, 134 Stat. 4700, provided that: "The amendments made in subsections (a) and (b) \[amending this section and section 4312 of this title\] shall take effect 90 days after the date of the enactment of this section \[Jan. 1, 2021\], unless the Commandant \[of the Coast Guard\], prior to the date that is 90 days after the date of the enactment of this section, determines that the use requirement enacted in subsection (a) \[see section 4312(b) of this title\] would not promote recreational boating safety."
-
 #### Change of Name
 
 "United States magistrate judge" substituted for "United States magistrate" in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8316(c), Jan. 1, 2021, 134 Stat. 4700, provided that: "The amendments made in subsections (a) and (b) \[amending this section and section 4312 of this title\] shall take effect 90 days after the date of the enactment of this section \[Jan. 1, 2021\], unless the Commandant \[of the Coast Guard\], prior to the date that is 90 days after the date of the enactment of this section, determines that the use requirement enacted in subsection (a) \[see section 4312(b) of this title\] would not promote recreational boating safety."
 

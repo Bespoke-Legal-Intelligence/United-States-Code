@@ -38,7 +38,7 @@
 
 #### (5) Adoption of best practices in implementing quality programs
 
-&emsp;The Secretary shall disseminate information to States regarding best practices amongStates with respect to measuring and reporting on the quality of health care for children, and shall facilitate the adoption of such best practices. In developing best practices approaches, the Secretary shall give particular attention to State measurement techniques that ensure the timeliness and accuracy of provider reporting, encourage provider reporting compliance, encourage successful quality improvement strategies, and improve efficiency in data collection using health information technology.
+&emsp;The Secretary shall disseminate information to States regarding best practices among States with respect to measuring and reporting on the quality of health care for children, and shall facilitate the adoption of such best practices. In developing best practices approaches, the Secretary shall give particular attention to State measurement techniques that ensure the timeliness and accuracy of provider reporting, encourage provider reporting compliance, encourage successful quality improvement strategies, and improve efficiency in data collection using health information technology.
 
 #### (6) Reports to Congress
 
@@ -160,7 +160,7 @@
 
 #### (1) In general
 
-&emsp;During the period of fiscal years 2009 through 2013, the Secretary shall award not more than 10 grants to States and child health providers to conduct demonstration projects to evaluate promising ideas for improving the quality of children's health care provided under subchapter XIX or XXI, including projects to—
+&emsp;During the period of fiscal years 2009 through 2013, the Secretary shall award not more than 10 grants to States and child health providers to conduct demonstration projectsto evaluate promising ideas for improving the quality of children's health care provided under subchapter XIX or XXI, including projects to—
 
 &emsp;&emsp;(A) experiment with, and evaluate the use of, new measures of the quality of children's health care under such subchapters (including testing the validity and suitability for reporting of such measures);
 
@@ -240,7 +240,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) science-based interventions with multiple components to prevent eating disorders including nutritional content, understanding and responding to hunger and satiety, positive body image development, positive self-esteem development, and learning life skills (such as stress management, communication skills, problemsolving and decisionmaking skills), as well as consideration of cultural and developmental issues, and the role of family, school, and community;
 
-&emsp;&emsp;&emsp;(ii) providing education and training to educational professionals regarding how to promote a healthy lifestyle and a healthy school environment for children;
+&emsp;&emsp;&emsp;(ii) providing education and training to educational professionals regarding how topromote a healthy lifestyle and a healthy school environment for children;
 
 &emsp;&emsp;&emsp;(iii) planning and implementing a healthy lifestyle curriculum or program with an emphasis on healthy eating behaviors and physical activity; and
 
@@ -422,6 +422,8 @@ Notwithstanding any other provision in this section, no evidence based quality m
 
 (Aug. 14, 1935, ch. 531, title XI, §1139A, as added and amended Pub. L. 111–3, title IV, §401(a), title V, §501(g), Feb. 4, 2009, 123 Stat. 72, 88; Pub. L. 111–148, title IV, §4306, Mar. 23, 2010, 124 Stat. 587; Pub. L. 114–10, title III, §304, Apr. 16, 2015, 129 Stat. 158; Pub. L. 115–120, div. C, §3003, Jan. 22, 2018, 132 Stat. 36; Pub. L. 115–123, div. E, title I, §50102, Feb. 9, 2018, 132 Stat. 175.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(4). Pub. L. 115–123, §50102(b)(1)(A), (B), inserted "and mandatory reporting" after "reporting" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
@@ -445,6 +447,8 @@ Subsec. (i). Pub. L. 114–10, §304(b), inserted ", and there is appropriated 
 <b>2009</b>—Subsec. (a)(3)(B)(ii). Pub. L. 111–3, §501(g)(1), inserted "and, with respect to dental care, conditions requiring the restoration of teeth, relief of pain and infection, and maintenance of dental health" after "chronic conditions".
 
 Subsec. (a)(6)(A)(ii). Pub. L. 111–3, §501(g)(2), inserted "dental care," after "preventive health services,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

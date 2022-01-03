@@ -14,7 +14,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (1) Investigation and report to management
 
-&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a) applies, the registered public accounting firm detects or otherwise becomes aware of information indicating that an illegal act (whetheror not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the firm shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+&emsp;If, in the course of conducting an audit pursuant to this chapter to which subsection (a) applies, the registered public accounting firm detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the firm shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 &emsp;&emsp;(A)(i) determine whether it is likely that an illegal act has occurred; and
 
@@ -64,7 +64,7 @@ As used in this section, the term "illegal act" means an act or omission that vi
 
 #### (g) Prohibited activities
 
-Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
+Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide tothat issuer, contemporaneously with the audit, any non-audit service, including—
 
 &emsp;(1) bookkeeping or other services related to the accounting records or financial statements of the audit client;
 
@@ -142,7 +142,7 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 #### (A) In general
 
-&emsp;&emsp;Effective not later than 270 days after July 30, 2002, the Commission shall, by rule, direct the national securities exchanges and national securities associations to prohibit the listing of any security of an issuer that is not in compliance with the requirements of any portion of paragraphs (2) through (6).
+&emsp;&emsp;Effective not later than 270 days after July 30, 2002, the Commission shall, by rule, direct the national securities exchanges and national securities associations to prohibit the listing of any security of an issuer thatis not in compliance with the requirements of any portion of paragraphs (2) through (6).
 
 #### (B) Opportunity to cure defects
 
@@ -192,6 +192,8 @@ It shall be unlawful for a registered public accounting firm to perform for an i
 
 (June 6, 1934, ch. 404, title I, §10A, as added Pub. L. 104–67, title III, §301(a), Dec. 22, 1995, 109 Stat. 762; amended Pub. L. 107–204, title II, §§201(a), 202–204, 205(b), (d), 206, title III, §301, July 30, 2002, 116 Stat. 771–775; Pub. L. 111–203, title IX, §985(b)(3), July 21, 2010, 124 Stat. 1933.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -232,9 +234,11 @@ Subsec. (l). Pub. L. 107–204, §206, added subsec. (l).
 
 Subsec. (m). Pub. L. 107–204, §301, added subsec. (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date
 

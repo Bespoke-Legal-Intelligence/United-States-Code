@@ -86,7 +86,7 @@ Assistance payments under this subchapter may be made only to homebuyers and for
 
 #### (2) Repayment upon sale
 
-&emsp;Assistance payments under this subchapter shall be repayable from the net proceeds of the sale, without interest, upon the sale of the property for which the assistance payments are made. If the sale results in no net proceeds or the net proceeds are insufficient to repay the amount of the assistance payments in full,the Board of Directors shall release the lien to the extent that the debt secured by the lien remains unpaid.
+&emsp;Assistance payments under this subchapter shall be repayable from the net proceeds of the sale, without interest, upon the sale of the property for which the assistance payments are made. If the sale results in no net proceeds or the net proceeds are insufficient to repay the amount of the assistance payments in full, the Board of Directors shall release the lien to the extent that the debt secured by the lien remains unpaid.
 
 #### (3) Repayment upon increased income
 
@@ -145,6 +145,8 @@ Amounts available in any fiscal year for assistance under this subchapter shall 
 &emsp;The Trust may make assistance payments under subparagraphs (A) and (B) of paragraph (3) with respect to a single mortgage of a homebuyer.
 
 (Pub. L. 101–625, title III, §303, Nov. 28, 1990, 104 Stat. 4130; Pub. L. 102–550, title I, §182(c)–(e), Oct. 28, 1992, 106 Stat. 3737, 3738.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

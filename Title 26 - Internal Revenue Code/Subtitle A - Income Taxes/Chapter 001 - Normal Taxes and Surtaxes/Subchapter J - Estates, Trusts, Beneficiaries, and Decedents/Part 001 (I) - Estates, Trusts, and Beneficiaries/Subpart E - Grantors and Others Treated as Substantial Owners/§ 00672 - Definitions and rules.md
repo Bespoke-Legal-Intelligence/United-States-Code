@@ -84,6 +84,8 @@ A person shall be considered to have a power described in this subpart even thou
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 226; Pub. L. 99–514, title XIV, §1401(a), Oct. 22, 1986, 100 Stat. 2711; Pub. L. 100–647, title I, §1014(a)(1), Nov. 10, 1988, 102 Stat. 3559; Pub. L. 101–508, title XI, §11343(a), Nov. 5, 1990, 104 Stat. 1388–472; Pub. L. 104–188, title I, §1904(a), Aug. 20, 1996, 110 Stat. 1910; Pub. L. 105–206, title VI, §6011(c)(1), July 22, 1998, 112 Stat. 818.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (f)(3)(B). Pub. L. 105–206 substituted "section 1297" for "section 1296".
@@ -113,6 +115,8 @@ Regulations.—The Secretary shall prescribe such regulations as may be necessar
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For purposes of this subpart, if a grantor's spouse is living with the grantor at the time of the creation of any power or interest held by such spouse, the grantor shall be treated as holding such power or interest."
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–514 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

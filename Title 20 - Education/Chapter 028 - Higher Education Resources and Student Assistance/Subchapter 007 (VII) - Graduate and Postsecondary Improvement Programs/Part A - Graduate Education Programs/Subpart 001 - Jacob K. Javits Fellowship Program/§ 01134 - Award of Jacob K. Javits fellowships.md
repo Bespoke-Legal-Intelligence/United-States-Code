@@ -22,6 +22,8 @@ The Secretary is authorized to enter into a contract with a nongovernmental agen
 
 (Pub. L. 89–329, title VII, §701, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1786; amended Pub. L. 110–315, title VII, §702(a), Aug. 14, 2008, 122 Stat. 3345.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1134h of this title, prior to repeal by Pub. L. 105–244.
@@ -40,5 +42,5 @@ Another prior section 701 of Pub. L. 89–329 was classified to section 1132a of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interrupt periods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend."
+<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "In the case of other exceptional circumstances, such as active duty military service or personal or family member illness, the institution of higher education may also permit the fellowship recipient to interruptperiods of study for the duration of the tour of duty (in the case of military service) or for not more than 12 months (in any other case), but without payment of the stipend."
 

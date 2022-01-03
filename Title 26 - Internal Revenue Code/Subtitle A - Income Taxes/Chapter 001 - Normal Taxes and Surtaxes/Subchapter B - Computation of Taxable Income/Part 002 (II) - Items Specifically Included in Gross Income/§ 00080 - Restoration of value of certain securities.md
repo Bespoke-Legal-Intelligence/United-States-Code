@@ -28,6 +28,8 @@ This section shall not apply to any recovery of a foreign expropriation loss to 
 
 (Added Pub. L. 89–384, §1(b)(1), Apr. 8, 1966, 80 Stat. 101; amended Pub. L. 94–455, title XIX, §§1901(b)(3)(K), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1793, 1834; Pub. L. 98–369, div. A, title II, §211(b)(2), July 18, 1984, 98 Stat. 754.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "801" for "802".
@@ -35,6 +37,8 @@ This section shall not apply to any recovery of a foreign expropriation loss to 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (c)(1). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

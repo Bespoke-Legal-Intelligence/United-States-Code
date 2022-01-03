@@ -24,6 +24,8 @@ Regulations.—Discharges under this section shall be made under regulations pre
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2949; amended Pub. L. 110–181, div. A, title V, §503(c)(1), (2), Jan. 28, 2008, 122 Stat. 95.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in subsecs. (a) and (b) of this section were contained in sections 3819(b) and 8819(c) of this title, prior to repeal by Pub. L. 103–337, §1629(a)(2), (c)(2).
@@ -33,6 +35,8 @@ Provisions similar to those in subsecs. (a) and (b) of this section were contain
 <b>2008</b>—Pub. L. 110–181, §503(c)(2), substituted "six years" for "five years" in section catchline.
 
 Subsec. (a)(1). Pub. L. 110–181, §503(c)(1), substituted "six years" for "five years".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -24,13 +24,15 @@
 
 &emsp;(2) the development of methods for diverting problem drinkers from criminal justice systems into prevention and treatment programs;
 
-&emsp;(3) the development and encouragement of prevention programs designed to combat thespread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
+&emsp;(3) the development and encouragement of prevention programs designed to combat the spread of alcoholism, alcohol abuse, and abuse of other legal and illegal drugs;
 
 &emsp;(4) the development and encouragement of effective occupational prevention and treatment programs within government and in cooperation with the private sector; and
 
 &emsp;(5) increased Federal commitment to research into the behavioral and biomedical etiology of, the treatment of, and the mental and physical health and social and economic consequences of, alcohol abuse and alcoholism.
 
 (Pub. L. 91–616, §2, as added Pub. L. 93–282, title I, §102(a), May 14, 1974, 88 Stat. 126; amended Pub. L. 94–371, §2, July 26, 1976, 90 Stat. 1035; Pub. L. 95–622, title II, §268(a), Nov. 9, 1978, 92 Stat. 3437; Pub. L. 96–180, §2, Jan. 2, 1980, 93 Stat. 1301.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -56,6 +58,8 @@ Subsec. (b)(3) to (5). Pub. L. 96–180, §2(c)(3), added pars. (3) and (4) and 
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–371 restructured provisions and inserted authorization for increased Federal commitment to research into the behavioral and biomedical etiology of alcohol abuse and alcoholism and the treatment and consequences of alcohol abuse and alcoholism.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title of 1980 Amendment
 
 Pub. L. 96–180, §1(a), Jan. 2, 1980, 93 Stat. 1301, provided that: "This Act \[enacting section 4594, amending this section and sections 4551 to 4553, 4561, 4571 to 4573, 4576 to 4578, 4585, 4587, and 4588 of this title, and enacting provisions set out as notes under this section and section 4552 of this title\] may be cited as the 'Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act Amendments of 1979'."
@@ -76,7 +80,7 @@ Pub. L. 91–616, §1, Dec. 31, 1970, 84 Stat. 1848, provided that: "This Act \[
 
 Pub. L. 96–180, §18, Jan. 2, 1980, 93 Stat. 1306, as amended by Pub. L. 96–88, title V, §509(b), Oct. 17, 1979; Pub. L. 98–24, §5(a)(2), Apr. 26, 1983, 97 Stat. 183, 93 Stat. 695, provided that:
 
-"(a)(1) There is established a Commission to be known as the National Commission on Alcoholism and Other Alcohol-Related Problems (hereinafter in this section referred to as the 'Commission'). The Commission shall be composed of—
+"(a)(1) There is established a Commission to be known as the National Commission on Alcoholism andOther Alcohol-Related Problems (hereinafter in this section referred to as the 'Commission'). The Commission shall be composed of—
 
 &emsp;"(A) four Members of the Senate appointed by the President of the Senate upon the recommendation of the majority and minority leaders;
 

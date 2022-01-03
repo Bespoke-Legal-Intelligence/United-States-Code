@@ -80,7 +80,7 @@ The Federal Board shall do the following:
 
 #### (A) In general
 
-&emsp;&emsp;The Federal Board may hold hearings, sit and act at times and places, take testimony, and receive evidence as the Federal Board considers appropriate to carry out the duties of the Federal Board under this subchapter. The Federal Board may administer oaths or affirmations to witnesses appearing before it.
+&emsp;&emsp;The Federal Board may hold hearings, sit and act at times and places, take testimony,and receive evidence as the Federal Board considers appropriate to carry out the duties of the Federal Board under this subchapter. The Federal Board may administer oaths or affirmations to witnesses appearing before it.
 
 #### (B) Witness expenses
 

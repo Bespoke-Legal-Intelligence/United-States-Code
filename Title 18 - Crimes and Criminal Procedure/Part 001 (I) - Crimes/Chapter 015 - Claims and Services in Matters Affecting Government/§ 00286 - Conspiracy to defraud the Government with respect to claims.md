@@ -6,7 +6,7 @@ Whoever enters into any agreement, combination, or conspiracy to defraud the Uni
 
 #### Historical and Revision Notes
 
-Based on title 18, U.S.C., 1940 ed., §83 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015;June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
+Based on title 18, U.S.C., 1940 ed., §83 (Mar. 4, 1909, ch. 321, §35, 35 Stat. 1095; Oct. 23, 1918, ch. 194, 40 Stat. 1015; June 18, 1934, ch. 587, 48 Stat. 996; Apr. 4, 1938, ch. 69, 52 Stat. 197).
 
 To clarify meaning of "department" the word "agency" was inserted after it. (See definitions of "department" and "agency" in section 6 of this title.)
 

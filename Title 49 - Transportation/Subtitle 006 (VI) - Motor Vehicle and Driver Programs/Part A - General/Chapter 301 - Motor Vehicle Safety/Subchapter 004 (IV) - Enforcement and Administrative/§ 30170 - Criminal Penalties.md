@@ -30,6 +30,8 @@ Coordination with Department of Justice.—The Attorney General may bring an act
 
 (Added Pub. L. 106–414, §5(b)(1), Nov. 1, 2000, 114 Stat. 1803.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1365(g)(3) of title 18, referred to in subsec. (a)(1), was redesignated section 1365(h)(3) of title 18 by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.

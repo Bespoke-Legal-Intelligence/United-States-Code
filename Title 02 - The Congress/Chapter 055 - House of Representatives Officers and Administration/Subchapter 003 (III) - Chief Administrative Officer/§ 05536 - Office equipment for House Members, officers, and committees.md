@@ -30,7 +30,7 @@ Section was formerly classified to section 112e of this title prior to editorial
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(59)(A)(i), (B)(i), substituted "House Oversight" for "House Administration" in two places and "Chief Administrative Officer of the House of Representatives shall furnish" for "Clerk of the House shall furnish electrical and mechanical".
+<b>1996</b>—Subsec. (a). Pub. L. 104–186, §204(59)(A)(i), (B)(i), substituted "House Oversight" for "House Administration" in two places and "Chief Administrative Officer of the House of Representatives shall furnish" for"Clerk of the House shall furnish electrical and mechanical".
 
 Subsec. (b). Pub. L. 104–186, §204(59)(A)(ii), substituted "Chief Administrative Officer" for "Clerk".
 

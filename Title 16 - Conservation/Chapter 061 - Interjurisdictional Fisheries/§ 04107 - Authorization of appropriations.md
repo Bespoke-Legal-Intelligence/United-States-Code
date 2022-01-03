@@ -66,6 +66,8 @@ In addition to the amounts authorized under subsections (a) and (b), there are a
 
 (Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, §302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, §104, Jan. 4, 2011, 124 Stat. 3671.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
@@ -116,7 +118,7 @@ Subsec. (d)(3). Pub. L. 104–134, §101\[(a)\] \[title II, §211(3), (4)\], sub
 
 Subsec. (d)(4). Pub. L. 104–134, §101\[(a)\] \[title II, §211(5)\], added par. (4) and struck former par. (4) which read as follows: "A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster."
 
-Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted "for receiving assistance under this subsection" for "for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership."
+Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted "for receiving assistance under this subsection" for "for awarding grants under this subsection, including provisions specifying the meansby which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership."
 
 Subsec. (d)(7). Pub. L. 104–297, §402(b), added par. (7).
 
@@ -131,6 +133,8 @@ Subsec. (d)(7). Pub. L. 104–297, §402(b), added par. (7).
 Subsec. (b). Pub. L. 101–627, §§502, 503(2), in introductory provisions substituted "the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995" for "fiscal years 1988 and 1989" and added par. (3).
 
 Subsec. (c). Pub. L. 101–627, §503(3), substituted "the fiscal years 1989, 1990, 1991, 1992, and 1993" for "fiscal years 1988 and 1989".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

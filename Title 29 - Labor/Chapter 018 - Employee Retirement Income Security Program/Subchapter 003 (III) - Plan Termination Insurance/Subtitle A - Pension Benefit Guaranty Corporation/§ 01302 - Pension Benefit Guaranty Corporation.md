@@ -38,7 +38,7 @@ The Director shall be accountable to the board of directors. The Director shall 
 
 (1) The board of directors of the corporation consists of the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Commerce. Members of the Board shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the board. The Secretary of Labor is the chairman of the board of directors.
 
-(2) A majority of the members of the board of directors in office shall constitute a quorum for the transaction of business. The vote of the majority of the members present and voting at ameeting at which a quorum is present shall be the act of the board of directors.
+(2) A majority of the members of the board of directors in office shall constitute a quorum for the transaction of business. The vote of the majority of the members present and voting at a meeting at which a quorum is present shall be the act of the board of directors.
 
 (3) Each member of the board of directors shall designate in writing an official, not below the level of Assistant Secretary, to serve as the voting representative of such member on the board. Such designation shall be effective until revoked or until a date or event specified therein. Any such representative may refer for board action any matter under consideration by the designating board member, but such representative shall not count toward establishment of a quorum as described under paragraph (2).
 
@@ -78,7 +78,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (h) Advisory committee to corporation
 
-(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant andPlan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
+(1) There is established an advisory committee to the corporation, for the purpose of advising the corporation as to its policies and procedures relating to (A) the appointment of trustees in termination proceedings, (B) investment of moneys, (C) whether plans being terminated should be liquidated immediately or continued in operation under a trustee, (D) such other issues as the corporation may request from time to time, and (E) other issues as determined appropriate by the advisory committee. The advisory committee may also recommend persons for appointment as trustees in termination proceedings, make recommendations with respect to the investment of moneys in the funds, and advise the corporation as to whether a plan subject to being terminated should be liquidated immediately or continued in operation under a trustee. In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under section 1304 of this title, the Advisory Committee <sup>2</sup> shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.
 
 (2) The advisory committee consists of seven members appointed, from among individuals recommended by the board of directors, by the President. Of the seven members, two shall represent the interests of employee organizations, two shall represent the interests of employers who maintain pension plans, and three shall represent the interests of the general public. The President shall designate one member as chairman at the time of the appointment of that member.
 
@@ -96,7 +96,7 @@ As soon as practicable, but not later than 180 days after September 2, 1974, the
 
 #### (i) Special rules regarding disasters, etc.
 
-In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
+In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in section 1033(h)(3) of title 26) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms ofthe plan solely as the result of disregarding any period by reason of the preceding sentence.
 
 #### (j) Conflicts of interest
 
@@ -118,7 +118,7 @@ The corporation shall have a risk management officer whose duties include evalua
 
 #### References in Text
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962,76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
 
 This chapter, referred to in subsecs. (b)(3), (4), (8), (d)(6), and (i), was in original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -166,7 +166,7 @@ Subsec. (g)(2). Pub. L. 96–364, §406(a), substituted provisions relating to i
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or after Sept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 107–134 applicable to disasters and terroristic or military actions occurring on or afterSept. 11, 2001, with respect to any action of the Secretary of the Treasury, the Secretary of Labor, or the Pension Benefit Guaranty Corporation occurring on or after Jan. 23, 2002, see section 112(f) of Pub. L. 107–134, set out as a note under section 6081 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) United States assistance to the multilateral development banks should promote sustainable use of natural resources and the protection of the environment, public health, and the status of indigenous peoples in developing countries;
+&emsp;(1) United States assistance to the multilateral development banks should promote sustainable use of natural resources and the protection of the environment, public health, andthe status of indigenous peoples in developing countries;
 
 &emsp;(2) multilateral development bank projects, policies, and loans have failed in some cases to provide adequate safeguards for the environment, public health, natural resources, and indigenous peoples;
 

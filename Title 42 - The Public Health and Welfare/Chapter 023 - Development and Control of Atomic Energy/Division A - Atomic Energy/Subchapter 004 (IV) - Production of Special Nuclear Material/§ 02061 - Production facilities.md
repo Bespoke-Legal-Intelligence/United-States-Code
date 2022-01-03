@@ -14,6 +14,8 @@ Special nuclear material may be produced in the facilities which under this sect
 
 (Aug. 1, 1946, ch. 724, title I, §41, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 928; amended Pub. L. 90–190, §8, Dec. 14, 1967, 81 Stat. 577; Pub. L. 101–575, §5(c), Nov. 15, 1990, 104 Stat. 2835; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(2), (8), Oct. 24, 1992, 106 Stat. 2943, 2944.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes, as amended" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -28,7 +30,9 @@ Provisions similar to those comprising this section were contained in section 4 
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–575 substituted "under this chapter" for "section 2133 or 2134 of this title".
 
-<b>1967</b>—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at least once each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
+<b>1967</b>—Subsec. (b). Pub. L. 90–190 struck out provision requiring the President to determine in writing at leastonce each year the quantities of special nuclear material to be produced under this section, and to specify in such determination the quantities of special nuclear material to be available for distribution by the Commission pursuant to sections 2073 and 2074 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References to United States Enrichment Corporation
 
@@ -36,7 +40,7 @@ References to the United States Enrichment Corporation deemed, as of the privati
 
 #### Isotope Production and Distribution Program Fund
 
-Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1715, provided in part: "That the Secretary of Energy may transfer available amounts appropriated for use by the Department of Energy under title III of previously enacted Energy and Water Development Appropriations Acts \[see below\] into the Isotope Production and Distribution Program Fund, in order to continue isotope production and distribution activities: <i>Provided further</i>, That the authority to use these amounts appropriated is effective from the date of enactment of this Act \[Aug. 26, 1994\]: <i>Provided further</i>, That fees set by the Secretary for the sale of isotopes and related services shall hereafter be determined without regard to the provisions of Energy and Water Development Appropriations Act (Public Law 101–101) \[see below\]: <i>Provided</i><i>further</i>, That amounts provided for isotope production and distribution in previous Energy and Water Development Appropriations Acts shall be treated as direct appropriations and shall be merged with funds appropriated under this head \[
+Pub. L. 103–316, title III, Aug. 26, 1994, 108 Stat. 1715, provided in part: "That the Secretary of Energy may transfer available amounts appropriated for use by the Department of Energy under title III of previously enacted Energy and Water Development Appropriations Acts \[see below\] into the Isotope Production and Distribution Program Fund, in order to continue isotope production and distribution activities: <i>Provided further</i>, That the authority to use these amounts appropriated is effective from the date of enactment of this Act \[Aug. 26, 1994\]: <i>Provided further</i>, That fees set by the Secretary for the sale of isotopes and related services shall hereafter be determined without regard to the provisions of Energy and Water Development Appropriations Act (Public Law 101–101) \[see below\]: <i>Provided further</i>, That amounts provided for isotope production and distribution in previous Energy and Water Development Appropriations Acts shall be treated as direct appropriations and shall be merged with funds appropriated under this head \[
 
 Energy Supply, Research and Development Activities\]."
 

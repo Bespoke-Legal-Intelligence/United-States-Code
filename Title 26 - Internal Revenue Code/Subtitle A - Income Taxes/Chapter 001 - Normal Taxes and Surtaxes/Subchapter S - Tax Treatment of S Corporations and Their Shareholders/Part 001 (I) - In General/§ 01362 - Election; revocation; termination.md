@@ -90,7 +90,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (A) In general
 
-&emsp;&emsp;An election under subsection (a) shall be terminated whenever (at any time on or after the 1st day of the 1st taxable year for which the corporation is an S corporation) such corporation ceases to be a small business corporation.
+&emsp;&emsp;An election under subsection (a) shall be terminated whenever (at any time on orafter the 1st day of the 1st taxable year for which the corporation is an S corporation) such corporation ceases to be a small business corporation.
 
 #### (B) When effective
 
@@ -188,7 +188,7 @@ An election under subsection (a) shall be effective for the taxable year of the 
 
 #### (4) S termination year
 
-&emsp;For purposes of this subsection, the term "S termination year" means any taxable year of a corporation (determined without regard to this subsection) in which a termination of anelection made under subsection (a) takes effect (other than on the 1st day thereof).
+&emsp;For purposes of this subsection, the term "S termination year" means any taxable year of a corporation (determined without regard to this subsection) in which a termination of an election made under subsection (a) takes effect (other than on the 1st day thereof).
 
 #### (5) Tax for C short year determined on annualized basis
 
@@ -246,7 +246,9 @@ If—
 
 If a small business corporation has made an election under subsection (a) and if such election has been terminated under subsection (d), such corporation (and any successor corporation) shall not be eligible to make an election under subsection (a) for any taxable year before its 5th taxable year which begins after the 1st taxable year for which such termination is effective, unless the Secretary consents to such election.
 
-(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (l), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat. 196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. A, title II, §221(a)(88), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, §401(a)(190), (191), Mar. 23, 2018, 132 Stat. 1193.)
+(Added Pub. L. 97–354, §2, Oct. 19, 1982, 96 Stat. 1672; amended Pub. L. 98–369, div. A, title I, §102(d)(2), title VII, §721(g), (h), (l), (t), July 18, 1984, 98 Stat. 623, 968, 969, 971; Pub. L. 100–647, title I, §§1006(f)(6), 1007(g)(9), Nov. 10, 1988, 102 Stat. 3406, 3435; Pub. L. 104–188, title I, §§1305(a), (b), 1308(c), 1311(b)(1), Aug. 20, 1996, 110 Stat. 1779, 1780, 1783, 1784; Pub. L. 106–170, title V, §532(c)(2)(T), Dec. 17, 1999, 113 Stat. 1931; Pub. L. 108–357, title II, §§231(b), 237(a), 238(a), Oct. 22, 2004, 118 Stat. 1433, 1436; Pub. L. 109–135, title IV, §413(b), Dec. 21, 2005, 119 Stat. 2641; Pub. L. 110–28, title VIII, §8231(a), May 25, 2007, 121 Stat.196; Pub. L. 110–172, §11(a)(25), Dec. 29, 2007, 121 Stat. 2487; Pub. L. 113–295, div. A, title II, §221(a)(88), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, §401(a)(190), (191), Mar. 23, 2018, 132 Stat. 1193.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -336,13 +338,15 @@ Subsec. (e)(6)(C). Pub. L. 98–369, §721(g)(1), added subpar. (C).
 
 Subsec. (e)(6)(D). Pub. L. 98–369, §721(t), added subpar. (D).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8231(b), May 25, 2007, 121 Stat. 197, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[May 25, 2007\]."
+Pub. L. 110–28, title VIII, §8231(b), May 25, 2007, 121 Stat. 197, provided that: "The amendments made bythis section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[May 25, 2007\]."
 
 #### Effective Date of 2005 Amendment
 
@@ -354,7 +358,7 @@ Pub. L. 108–357, title II, §231(c)(2), Oct. 22, 2004, 118 Stat. 1434, provide
 
 Pub. L. 108–357, title II, §237(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2004."
 
-Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendments made by thissection \[amending this section\] shall apply to elections made and terminations made after December 31, 2004."
+Pub. L. 108–357, title II, §238(b), Oct. 22, 2004, 118 Stat. 1436, provided that: "The amendments made by this section \[amending this section\] shall apply to elections made and terminations made after December 31, 2004."
 
 #### Effective Date of 1999 Amendment
 

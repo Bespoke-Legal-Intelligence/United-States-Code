@@ -54,10 +54,6 @@ A prior section 541 was renumbered section 2903 of this title.
 
 Pub. L. 85–726, title XV, §1505(2), Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Discontinuance of an Aid to Navigation
 
 Pub. L. 114–120, title II, §210, Feb. 8, 2016, 130 Stat. 41, provided that:
@@ -80,7 +76,7 @@ Notification.—Not later than 30 days after establishing a process under subsec
 
 #### Improved Safety Information for Vessels
 
-Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after thedate of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
+Pub. L. 113–281, title II, §228, Dec. 18, 2014, 128 Stat. 3040, provided that: "Not later than 1 year after the date of enactment of this Act \[Dec. 18, 2014\], the Secretary of the department in which the Coast Guard is operating shall establish a process that allows an operator of a marine exchange or other non-Federal vessel traffic information service to use the automatic identification system to transmit weather, ice, and other important navigation safety information to vessels."
 
 #### Aids to Navigation Report
 
@@ -99,6 +95,10 @@ Pub. L. 97–322, title I, §105(b), Oct. 15, 1982, 96 Stat. 1582, provided that
 Pub. L. 97–322, title I, §105(c), Oct. 15, 1982, 96 Stat. 1582, provided that: "Any authority to enter into contracts provided in this section \[amending this section and enacting provision set out as Report to Congress; Contractual Authority; Increase in Ratio of Civilian to Military Employees note under this section\] shall be available only to the extent that appropriated funds are available for that purpose."
 
 #### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Ex. Ord. No. 7521. Use of Vessels for Ice-Breaking Operations in Channels and Harbors
 

@@ -30,9 +30,13 @@ Any consumer who enters into any contract with any credit repair organization sh
 
 (Pub. L. 90–321, title IV, §407, as added Pub. L. 104–208, div. A, title II, §2451, Sept. 30, 1996, 110 Stat. 3009–459.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For a prior section 407 of Pub. L. 90–321, see note set out under section 1679 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

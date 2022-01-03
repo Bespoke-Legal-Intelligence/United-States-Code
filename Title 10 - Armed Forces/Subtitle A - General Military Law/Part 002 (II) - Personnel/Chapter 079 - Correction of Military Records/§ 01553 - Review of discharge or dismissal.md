@@ -6,7 +6,7 @@
 
 (2) If a board established under this section does not grant a request for an upgrade to the characterization of a discharge or dismissal, that declination may be considered under section 1552 or section 1553a of this title, as applicable.
 
-(c) A review by a board established under this section shall be based on the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review under this section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
+(c) A review by a board established under this section shall be based on the records of the armed forces concerned and such other evidence as may be presented to the board. A witness may present evidence to the board in person or by affidavit. A person who requests a review underthis section may appear before the board in person or by counsel or an accredited representative of an organization recognized by the Secretary of Veterans Affairs under chapter 59 of title 38.
 
 (d)(1)(A) In the case of a former member of the armed forces who, while serving on active duty as a member of the armed forces, was deployed in support of a contingency operation and who, at any time after such deployment, was diagnosed by a physician, clinical psychologist, or psychiatrist as experiencing post-traumatic stress disorder or traumatic brain injury as a consequence of that deployment, a board established under this section to review the former member's discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with training on mental health issues connected with post traumatic stress disorder or traumatic brain injury (as applicable).
 
@@ -22,7 +22,7 @@
 
 (B) A former member described in this subparagraph is a former member described in paragraph (1) or a former member whose application for relief is based in whole or in part on matters relating to post-traumatic stress disorder or traumatic brain injury as supporting rationale, or as justification for priority consideration, whose post-traumatic stress disorder or traumatic brain injury is related to combat or military sexual trauma, as determined by the Secretary concerned.
 
-(e) In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed whileserving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member's discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
+(e) In the case of a former member of the armed forces (other than a former member covered by subsection (d)) who was diagnosed while serving in the armed forces as experiencing a mental health disorder, a board established under this section to review the former member's discharge or dismissal shall include a member who is a clinical psychologist or psychiatrist, or a physician with special training on mental health disorders.
 
 (f) Each board established under this section shall make available to the public each calendar quarter, on an Internet website of the military department concerned or the Department of Homeland Security, as applicable, that is available to the public the following:
 
@@ -39,6 +39,8 @@
 #### Historical and Revision Notes
 
 Sections 1553 and 1554 are restated, without substantive change, to conform to the style adopted for title 10.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -77,6 +79,8 @@ Subsec. (e). Pub. L. 113–291, §521(b)(2), added subsec. (e).
 <b>1983</b>—Subsec. (a). Pub. L. 98–209 inserted provision that with respect to a discharge or dismissal adjudged by a court-martial case tried or reviewed under chapter 47 of this title (or under the Uniform Code of Military Justice (Public Law 506 of the 81st Congress)), action under this subsection may extend only to a change in the discharge or dismissal or issuance of a new discharge for purposes of clemency.
 
 <b>1962</b>—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

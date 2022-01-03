@@ -72,7 +72,7 @@ Pub. L. 103–416, title II, §204(b), Oct. 25, 1994, 108 Stat. 4311, provided t
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
 
@@ -80,7 +80,7 @@ Authority of President under subsec. (a)(1) of this section to maintain custody 
 
 #### Trusted Traveler Programs
 
-Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided that: "The Secretary of Homeland Security may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
+Pub. L. 114–125, title VIII, §802(j), Feb. 24, 2016, 130 Stat. 216, provided that: "The Secretary of HomelandSecurity may not enter into or renew an agreement with the government of a foreign country for a trusted traveler program administered by U.S. Customs and Border Protection unless the Secretary certifies in writing that such government—
 
 &emsp;"(1) routinely submits to INTERPOL for inclusion in INTERPOL's Stolen and Lost Travel Documents database information about lost and stolen passports and travel documents of the citizens and nationals of such country; or
 
@@ -138,7 +138,7 @@ Development of plan and implementation.—
 
 &emsp;&emsp;&emsp;"(vii) a single implementation date for sea and land borders has been established; and
 
-&emsp;&emsp;&emsp;"(viii) the signing of a memorandum of agreement to initiate a pilot program with not lessthan one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
+&emsp;&emsp;&emsp;"(viii) the signing of a memorandum of agreement to initiate a pilot program with not less than one State to determine if an enhanced driver's license, which is machine-readable and tamper proof, not valid for certification of citizenship for any purpose other than admission into the United States from Canada or Mexico, and issued by such State to an individual, may permit the individual to use the driver's license to meet the documentation requirements under subparagraph (A) for entry into the United States from Canada or Mexico at land and sea ports of entry.
 
 &emsp;&emsp;"(C)
 

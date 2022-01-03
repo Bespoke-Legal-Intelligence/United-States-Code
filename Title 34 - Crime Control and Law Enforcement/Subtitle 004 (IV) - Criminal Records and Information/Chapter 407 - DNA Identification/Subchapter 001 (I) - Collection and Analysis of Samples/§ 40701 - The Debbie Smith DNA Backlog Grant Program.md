@@ -164,7 +164,7 @@ The Attorney General may distribute not more than 1 percent of the grant amounts
 
 &emsp;(2) in the form of additional grants to States, units of local government, or nonprofit professional organizations of persons actively involved in forensic science and nationally recognized within the forensic science community—
 
-&emsp;&emsp;(A) to defray the costs of external audits of laboratories operated by such State or unit of local government, which participates in the National DNA Index System, to determine whether the laboratory is in compliance with quality assurance standards;
+&emsp;&emsp;(A) to defray the costs of external audits of laboratories operated by such State or unitof local government, which participates in the National DNA Index System, to determine whether the laboratory is in compliance with quality assurance standards;
 
 &emsp;&emsp;(B) to assess compliance with any plans submitted to the National Institute of Justice, which detail the use of funds received by States or units of local government under this Act; and
 
@@ -234,7 +234,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 #### (A) In general
 
-&emsp;&emsp;For not less than 12 months after the completion of an initial count of sexual assault evidence that is awaiting testing during an audit referred to in paragraph (1)(A), a State or unit of local government that receives a grant award under subsection (a)(7) shall, not less than every 60 days, submit a report to the Department of Justice, on a form prescribed by the Attorney General, which shall contain the information required under subparagraph (B).
+&emsp;&emsp;For not less than 12 months after the completion of an initial count of sexual assault evidence that is awaiting testing during an audit referred to in paragraph (1)(A), a State or unit of local government that receives agrant award under subsection (a)(7) shall, not less than every 60 days, submit a report to the Department of Justice, on a form prescribed by the Attorney General, which shall contain the information required under subparagraph (B).
 
 #### (B) Contents of reports
 
@@ -314,7 +314,7 @@ In the event that a laboratory operated by a State or unit of local government w
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term "possession", used with respect to possession of a sample of sexual assault evidence by a State or unit of local government, includes possession by an individual who is acting as an agent of the State or unit of local government for the collection of the sample.
+&emsp;&emsp;&emsp;The term "possession", used with respect to possession of a sample of sexualassault evidence by a State or unit of local government, includes possession by an individual who is acting as an agent of the State or unit of local government for the collection of the sample.
 
 #### (ii) Rule of construction
 
@@ -612,7 +612,7 @@ Findings.—Congress finds that—
 
 &emsp;"(4) DNA testing was not widely available in cases tried prior to 1994;
 
-&emsp;"(5) new forensic DNA testing procedures have made it possible to get results from minute samples that could not previously be tested, and to obtain more informative and accurate results than earlier forms of forensic DNA testing could produce, resulting in some cases of convicted inmates being exonerated by new DNA tests after earlier tests had failed to produce definitive results;
+&emsp;"(5) new forensic DNA testing procedures have made it possible to get results from minute samplesthat could not previously be tested, and to obtain more informative and accurate results than earlier forms of forensic DNA testing could produce, resulting in some cases of convicted inmates being exonerated by new DNA tests after earlier tests had failed to produce definitive results;
 
 &emsp;"(6) DNA testing can and has resulted in the post-conviction exoneration of more than 75 innocent men and women, including some under sentence of death;
 

@@ -76,6 +76,8 @@ In subsection (d), the word "department" is omitted for consistency in this sect
 
 This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–94 added subsec. (d).
@@ -99,6 +101,8 @@ Subsec. (a)(11). Pub. L. 105–178, §3017(a)(2)(D), as amended by Pub. L. 105�
 Subsec. (a)(15), (16). Pub. L. 105–178, §3017(a)(2)(E)–(G), as amended by Pub. L. 105–206 added pars. (15) and (16).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "sections 5307 and 5309" for "sections 5304 and 5306".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -124,13 +128,13 @@ Pub. L. 112–141, div. B, §20013(b), July 6, 2012, 126 Stat. 692, provided tha
 
 Identify impediments.—The Secretary shall—
 
-&emsp;"(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder,that impede greater use of public-private partnerships and private investment in public transportation capital projects; and
+&emsp;"(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder, that impede greater use of public-private partnerships and private investment in public transportation capital projects; and
 
 &emsp;"(B) develop and implement on a project basis procedures and approaches that—
 
 &emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
 
-&emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
+&emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or privateinvestment in public transportation capital projects.
 
 "(2)
 

@@ -26,9 +26,13 @@ June 13, 1890, ch. 423 (1st proviso under "Quartermaster's Department"), 26 Stat
 
 The words "Money necessary \* \* \* may be spent" are substituted for the words "There may be expended \* \* \* the amounts required". The word "bakeries" is substituted for the words "bake house to carry on post bakeries". The words "each and all" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4536 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

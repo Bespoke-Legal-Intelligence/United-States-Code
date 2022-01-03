@@ -36,7 +36,7 @@ Definitions.—For purposes of this subchapter, the terms "repair", "repairs", "
 
 #### (c) Conditions of eligibility
 
-In order to be eligible for the assistance authorized by subsection (a), the applicant must show (1) that he is the owner of a farm which is without a decent, safe, and sanitary dwelling for himself and his family and necessary resident farm labor, or for the family of the operating tenant, lessee, or sharecropper, or without other farm buildings adequate for the type of farming in which he engages or desires to engage, or that he is the owner of other real estate in a rural area or a rural resident without an adequate dwelling or related facilities for his own use or buildings adequate for his farming operations, or that the applicant is an elderly or handicapped person or family in a rural area without an adequate dwelling or related facility for its own use, or that he is the owner of a farm or other real estate in a rural area who needs refinancing of indebtedness described in clause (4) of subsection (a); (2) that he is without sufficient resources to provide the necessary housing and buildings on his own account; and (3) that he is unable to secure the credit necessary for suchhousing and buildings from other sources upon terms and conditions which he could reasonably be expected to fulfill. If an applicant is a State or local public agency or Indian tribe—
+In order to be eligible for the assistance authorized by subsection (a), the applicant must show (1) that he is the owner of a farm which is without a decent, safe, and sanitary dwelling for himself and his family and necessary resident farm labor, or for the family of the operating tenant, lessee, or sharecropper, or without other farm buildings adequate for the type of farming in which he engages or desires to engage, or that he is the owner of other real estate in a rural area or a rural resident without an adequate dwelling or related facilities for his own use or buildings adequate for his farming operations, or that the applicant is an elderly or handicapped person or family in a rural area without an adequate dwelling or related facility for its own use, or that he is the owner of a farm or other real estate in a rural area who needs refinancing of indebtedness described in clause (4) of subsection (a); (2) that he is without sufficient resources to provide the necessary housing and buildings on his own account; and (3) that he is unable to secure the credit necessary for such housing and buildings from other sources upon terms and conditions which he could reasonably be expected to fulfill. If an applicant is a State or local public agency or Indian tribe—
 
 &emsp;(A) the provisions of clause (3) shall not apply to its application; and
 
@@ -52,7 +52,7 @@ The Secretary shall establish procedures under which borrowers under this subcha
 
 #### (f) Increase in loan limits
 
-With respect to any limitation on the amount of any loan which may be made, insured, or guaranteed under this subchapter for the purchase of a dwelling unit, the Secretary may increase such amount by up to 20 percent if such increase is necessary to account for the increased cost of the dwelling unit due to the installation of a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of title 12) therein.
+With respect to any limitation on the amount of any loan which may be made, insured, orguaranteed under this subchapter for the purchase of a dwelling unit, the Secretary may increase such amount by up to 20 percent if such increase is necessary to account for the increased cost of the dwelling unit due to the installation of a solar energy system (as defined in subparagraph (3) of the last paragraph of section 1703(a) of title 12) therein.
 
 #### (g) Avoidance of involuntary displacement of families and businesses
 
@@ -72,6 +72,8 @@ Notwithstanding any other provision of law, the Secretary shall not transfer any
 
 (July 15, 1949, ch. 338, title V, §501, 63 Stat. 432; Pub. L. 87–70, title VIII, §§801(a), 803, June 30, 1961, 75 Stat. 186; Pub. L. 87–723, §4(a)(1), Sept. 28, 1962, 76 Stat. 670; Pub. L. 89–117, title X, §1001, Aug. 10, 1965, 79 Stat. 497; Pub. L. 89–754, title VIII, §§801, 807, Nov. 3, 1966, 80 Stat. 1282; Pub. L. 91–609, title VIII, §802, Dec. 31, 1970, 84 Stat. 1806; Pub. L. 93–383, title V, §§501–503, 505(a), 520, Aug. 22, 1974, 88 Stat. 692, 693, 699; Pub. L. 95–128, title V, §§503, 507(a)(1), (2), (b), Oct. 12, 1977, 91 Stat. 1139–1141; Pub. L. 95–619, title II, §248(c), Nov. 9, 1978, 92 Stat. 3235; Pub. L. 96–153, title V, §§502(b), 506, Dec. 21, 1979, 93 Stat. 1134, 1136; Pub. L. 96–399, title V, §§506, 507(a), (h), 512, Oct. 8, 1980, 94 Stat. 1669–1671; Pub. L. 98–181, title I \[title V, §502\], Nov. 30, 1983, 97 Stat. 1240; Pub. L. 98–479, title I, §105(a), title II, §203(d)(3), Oct. 17, 1984, 98 Stat. 2226, 2229; Pub. L. 99–272, title XIV, §14001(b)(3), Apr. 7, 1986, 100 Stat. 328; Pub. L. 100–242, title III, §§302(a), (b)(1), 303, 315, 316(a), Feb. 5, 1988, 101 Stat. 1893, 1894, 1897; Pub. L. 101–625, title VII, §§702, 703, Nov. 28, 1990, 104 Stat. 4282, 4283; Pub. L. 102–550, title VII, §714, title X, §1012(m), Oct. 28, 1992, 106 Stat. 3842, 3907; Pub. L. 104–193, title IV, §441(b), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 106–402, title IV, §401(b)(8), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 107–76, title VII, §752, Nov. 28, 2001, 115 Stat. 740; Pub. L. 108–199, div. A, title VII, §768, Jan. 23, 2004, 118 Stat. 40.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The United States Housing Act of 1937, referred to in subsec. (a)(4), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of this title and Tables.
@@ -88,7 +90,7 @@ Chapter 67 of title 31, referred to in subsec. (b)(6), was repealed by Pub. L. 9
 
 <b>2000</b>—Subsec. (b)(3). Pub. L. 106–402 substituted "developmental disability as defined in section 15002 of this title" for "developmental disability as defined in section 6001(7) of this title".
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–193 struck out par. (1) designation, struck out "by the Secretary of Housingand Urban Development" before "under section 1436a of this title", and struck out par. (2) which read as follows: "In carrying out any restriction established by the Secretary on the availability of assistance under this subchapter for any alien, the Secretary shall follow procedures comparable to the procedures established in section 1436a of this title."
+<b>1996</b>—Subsec. (h). Pub. L. 104–193 struck out par. (1) designation, struck out "by the Secretary of Housing and Urban Development" before "under section 1436a of this title", and struck out par. (2) which read as follows: "In carrying out any restriction established by the Secretary on the availability of assistance under this subchapter for any alien, the Secretary shall follow procedures comparable to the procedures established in section 1436a of this title."
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §1012(m), added par. (5).
 
@@ -180,6 +182,8 @@ Subsec. (c). Pub. L. 87–70, §803(b), permitted the applicant to show that he 
 
 Subsec. (d). Pub. L. 87–70, §803(c), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–242, title III, §302(b)(2), Feb. 5, 1988, 101 Stat. 1894, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be applicable to any determination of eligibility for assistance under title V of the Housing Act of 1949 \[this subchapter\] made on or after the date of the enactment of this Act \[Feb. 5, 1988\]."
@@ -187,10 +191,6 @@ Pub. L. 100–242, title III, §302(b)(2), Feb. 5, 1988, 101 Stat. 1894, provide
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of Pub. L. 99–272.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Performance Goals for Farmers Home Administration
 
@@ -213,6 +213,12 @@ Report.—The Secretary of Agriculture shall prepare a report to the Congress on
 Failure to meet goals.—If a performance standard or goal has not been met, the report under paragraph (3) shall include an explanation of why the goal was not met, propose plans for achieving the performance goal, and recommend any legislative or regulatory changes necessary for achievement of the goal."
 
 \[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 925(b)(3) of Pub. L. 102–550, set out above, is listed in item 12 on page 47), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Admission of Alaska and Hawaii to Statehood
 

@@ -494,7 +494,7 @@ Subsec. (g)(2). Pub. L. 105–33, §10207(c)(3)(E), struck out items "Credit uni
 
 Pub. L. 105–33, §10207(c)(3)(D), inserted item relating to credit liquidating accounts.
 
-Pub. L. 105–33, §10207(c)(3)(C), struck out "Community development grant loan guarantees (86–0162–0–1–451);" after item relating to United States Treasury check forgery insurance fund.
+Pub. L. 105–33, §10207(c)(3)(C), struck out "Community development grant loan guarantees\(86–0162–0–1–451);" after item relating to United States Treasury check forgery insurance fund.
 
 Pub. L. 105–33, §10207(c)(3)(B), substituted "United States Treasury check forgery insurance fund" for "Check forgery insurance fund".
 
@@ -532,7 +532,7 @@ Subsec. (g)(2). Pub. L. 102–54 substituted last two items relating to Departme
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–508, §13101(c)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Increases in benefits payable under the old-age, survivors, and disability insurance program established under title II of the Social Security Act, or in benefits payable under section 231b(a), 231b(f)(3), 231c(a), or 231c(f) of title 45, shall not be considered 'automatic spending increases' for purposes of this title; and no reduction in any such increase or in any of the benefits involved shall be made under any order issued under this subchapter."
 
-Subsec. (e). Pub. L. 101–508, §13101(c)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) readas follows: "Offsetting receipts and collections shall not be reduced under any order issued under this subchapter."
+Subsec. (e). Pub. L. 101–508, §13101(c)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "Offsetting receipts and collections shall not be reduced under any order issued under this subchapter."
 
 Subsec. (g)(1)(B). Pub. L. 101–508, §13101(c)(3), inserted item relating to railroad supplemental annuity pension fund.
 

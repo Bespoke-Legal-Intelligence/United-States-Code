@@ -12,7 +12,7 @@ The registration requirements of section 851 of this title do not apply to any p
 
 &emsp;(e) who is a duly accredited diplomatic or consular officer of a foreign government, who is so recognized by the Department of State, while he is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such officer, and any member of his immediate family who resides with him;
 
-&emsp;(f) who is an official of a foreign government recognized by the United States, whose name and status and the character of whose duties as such official are of record in the Department of State, and while he is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official, and anymember of his immediate family who resides with him;
+&emsp;(f) who is an official of a foreign government recognized by the United States, whose name and status and the character of whose duties as such official are of record in the Department of State, and while he is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official, and any member of his immediate family who resides with him;
 
 &emsp;(g) who is a member of the staff of or employed by a duly accredited diplomatic or consular officer of a foreign government who is so recognized by the Department of State, and whose name and status and the character of whose duties as such member or employee are a matter of record in the Department of State, while he is engaged exclusively in the performance of activities recognized by the Department of State as being within the scope of the functions of such member or employee;
 
@@ -24,9 +24,13 @@ The registration requirements of section 851 of this title do not apply to any p
 
 (Aug. 1, 1956, ch. 849, §3, 70 Stat. 899.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -2,7 +2,7 @@
 
 #### (a) Review required
 
-The Secretary shall review each regulation issued under this subchapter that is in effect at the time of the review and applies to the operations or activities of any participant in the programs assisted under this subchapter. The review shall include a determination of whether the regulation is duplicative, or is no longernecessary. The review may involve one or more of the following:
+The Secretary shall review each regulation issued under this subchapter that is in effect at the time of the review and applies to the operations or activities of any participant in the programs assisted under this subchapter. The review shall include a determination of whether the regulation is duplicative, or is no longer necessary. The review may involve one or more of the following:
 
 &emsp;(1) An assurance of the uniformity of interpretation and application of such regulations.
 
@@ -20,9 +20,13 @@ In carrying out subsections (a) and (b), the Secretary shall consult with releva
 
 (Pub. L. 89–329, title IV, §498B, as added Pub. L. 105–244, title IV, §495, Oct. 7, 1998, 112 Stat. 1764; amended Pub. L. 110–315, title IV, §498, Aug. 14, 2008, 122 Stat. 3328.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–315 struck out subsec. (d) which required the Secretary to submit reports to Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

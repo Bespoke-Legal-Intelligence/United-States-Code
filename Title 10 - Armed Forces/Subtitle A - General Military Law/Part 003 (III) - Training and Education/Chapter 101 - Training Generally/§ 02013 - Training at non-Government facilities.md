@@ -2,7 +2,7 @@
 
 (a)
 
-Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard tosection 6101 of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
+Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard to section 6101 of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
 (2) In this section, the term "non-Government facility" means any of the following:
 
@@ -26,9 +26,9 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 &emsp;(2) pay, or reimburse the member of a uniformed service for, all or a part of the necessary expenses of the training (without regard to subsections (a) and (b) of section 3324 of title 31), including among those expenses the necessary costs of the following:
 
-&emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 474 and 475 <sup>1</sup> of title 37 and the Joint Travel Regulations for the Uniformed Services.
+&emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 474 <sup>1</sup> and 475 <sup>1</sup> of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 <sup>1</sup> and 479 <sup>1</sup> of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
 &emsp;&emsp;(C) Tuition and matriculation fees.
 
@@ -44,9 +44,15 @@ Certain Expenses Excluded.—The expenses of training do not include membership 
 
 (Added Pub. L. 104–201, div. A, title III, §362(a)(1), Sept. 23, 1996, 110 Stat. 2491; amended Pub. L. 111–350, §5(b)(2), Jan. 4, 2011, 124 Stat. 3842; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 113–291, div. A, title X, §1071(a)(1), Dec. 19, 2014, 128 Stat. 3504.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
+Section 474 of title 37, referred to in subsec. (b)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
+
 Section 475 of title 37, referred to in subsec. (b)(2)(A), was renumbered section 405 of title 37 by Pub. L. 116–283, div. A, title VI, §604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
+
+Sections 476 and 479 of title 37, referred to in subsec. (b)(2)(A), were repealed by Pub. L. 117–81, div. A, title VI, §604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 
@@ -58,9 +64,11 @@ Section 475 of title 37, referred to in subsec. (b)(2)(A), was renumbered sectio
 
 Subsec. (b)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" and "475" for "405" in subpar. (A), and "476" for "406" and "479" for "409" in subpar. (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
+Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made bysection 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
 
 #### Effective Date
 

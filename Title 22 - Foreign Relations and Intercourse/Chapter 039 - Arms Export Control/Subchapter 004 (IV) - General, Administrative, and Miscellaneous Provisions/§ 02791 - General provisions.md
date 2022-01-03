@@ -10,7 +10,7 @@ No credit sale shall be extended under section 2763 of this title, and no guaran
 
 #### (c) Availability of funds for procurement outside United States
 
-Funds made available under this chapter may be used for procurement outside the United States only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States.
+Funds made available under this chapter may be used for procurement outside the UnitedStates only if the President determines that such procurement will not result in adverse effects upon the economy of the United States or the industrial mobilization base, with special reference to any areas of labor surplus or to the net position of the United States in its balance of payments with the rest of the world, which outweigh the economic or other advantages to the United States of less costly procurement outside the United States.
 
 #### (d) Responsibility of Secretary of Defense with respect to sales and guaranties
 
@@ -94,5 +94,5 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 
 #### Delegation of Functions
 
-For delegation of functions of the President under subsecs. (c) and (f) of this section, with certain conditions, see section 1(r) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note undersection 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under subsecs. (c) and (f) of this section, with certain conditions, see section 1(r) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

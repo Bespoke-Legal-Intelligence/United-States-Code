@@ -8,7 +8,7 @@
 
 (3) Sections <sup>1</sup> 1374(h) of this title and subchapter IV, and not this section, shall govern the taking of marine mammals in the course of commercial purse seine fishing for yellowfin tuna in the eastern tropical Pacific Ocean.
 
-(4) This section shall not govern the incidental taking of California sea otters and shall not bedeemed to amend or repeal the Act of November 7, 1986 (Public Law 99–625; 100 Stat. 3500).
+(4) This section shall not govern the incidental taking of California sea otters and shall not be deemed to amend or repeal the Act of November 7, 1986 (Public Law 99–625; 100 Stat. 3500).
 
 (5) Except as provided in section 1371(c) of this title, the intentional lethal take of any marine mammal in the course of commercial fishing operations is prohibited.
 
@@ -60,7 +60,7 @@
 
 &emsp;(iv) comply with any applicable take reduction plan and emergency regulations issued under this section.
 
-(B) Any owner of a vessel receiving an authorization under this section for any fishery listedunder paragraph (1)(A)(i) or (ii) shall, as a condition of that authorization, take on board an observer if requested to do so by the Secretary.
+(B) Any owner of a vessel receiving an authorization under this section for any fishery listed under paragraph (1)(A)(i) or (ii) shall, as a condition of that authorization, take on board an observer if requested to do so by the Secretary.
 
 (C) An owner of a vessel engaged in a fishery listed under paragraph (1)(A)(i) or (ii) who—
 
@@ -120,7 +120,7 @@
 
 &emsp;(A) The highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks listed as endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.).
 
-&emsp;(B) The second highest priority for allocation shall be for commercial fisheries thathave incidental mortality and serious injury of marine mammals from strategic stocks.
+&emsp;(B) The second highest priority for allocation shall be for commercial fisheries that have incidental mortality and serious injury of marine mammals from strategic stocks.
 
 &emsp;(C) The third highest priority for allocation shall be for commercial fisheries that have incidental mortality or serious injury of marine mammals from stocks for which the level of incidental mortality and serious injury is uncertain.
 
@@ -212,7 +212,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(E) The Secretary and the take reduction team shall meet every 6 months, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
-&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations asnecessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
+&emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
 (8) Where the human-caused mortality and serious injury from a strategic stock is estimated to be less than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii), or for any marine mammal stocks which interact with a commercial fishery listed under subsection (c)(1)(A)(i) for which the Secretary has made a determination under paragraph (1), the following procedures shall apply in the development of the take reduction plan for such stock:
 
@@ -228,7 +228,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(D) The Secretary shall, during a period of 30 days after publication of a final take reduction plan, utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the requirements of the plan and how to comply with them.
 
-&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementation of the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
+&emsp;(E) The Secretary and the take reduction team shall meet on an annual basis, or at such other intervals as the Secretary determines are necessary, to monitor the implementationof the final take reduction plan until such time that the Secretary determines that the objectives of such plan have been met.
 
 &emsp;(F) The Secretary shall amend the take reduction plan and implementing regulations as necessary to meet the requirements of this section, in accordance with the procedures in this section for the issuance of such plans and regulations.
 
@@ -312,17 +312,21 @@ As used in this section and section 1371(a)(5)(E) of this title, each of the ter
 
 (Pub. L. 92–522, title I, §118, as added Pub. L. 103–238, §11, Apr. 30, 1994, 108 Stat. 546; amended Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
-Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions setout as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
+Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended section 718b of this title and provisions set out as a table of National Wildlife Refuges under section 668dd of this title and enacted provisions set out as a note under section 1536 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
 <b>1996</b>—Subsecs. (a)(1), (c)(2)(B)(ii), (l). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802 and 1824(b) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

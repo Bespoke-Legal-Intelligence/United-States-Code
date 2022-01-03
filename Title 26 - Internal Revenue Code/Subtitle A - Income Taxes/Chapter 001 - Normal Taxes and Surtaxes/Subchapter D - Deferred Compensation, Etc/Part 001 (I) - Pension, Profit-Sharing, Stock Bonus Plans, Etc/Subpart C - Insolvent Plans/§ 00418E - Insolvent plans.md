@@ -72,7 +72,7 @@ For purposes of this section, for a plan year—
 
 #### (5) Unpaid benefits
 
-&emsp;If, by the end of an insolvency year, any benefit has not been paid at the resource benefit level, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary, to the extent possible taking into account the plan's total available resources in that insolvency year.
+&emsp;If, by the end of an insolvency year, any benefit has not been paid at the resource benefitlevel, amounts up to the resource benefit level which were unpaid shall be distributed to the participants and beneficiaries, in accordance with regulations prescribed by the Secretary, to the extent possible taking into account the plan's total available resources in that insolvency year.
 
 #### (6) Retroactive payments
 
@@ -138,6 +138,8 @@ Any amount of any financial assistance from the Pension Benefit Guaranty Corpora
 
 (Added Pub. L. 96–364, title II, §202(a), Sept. 26, 1980, 94 Stat. 1282; amended Pub. L. 109–280, title II, §213(a), Aug. 17, 2006, 120 Stat. 917; Pub. L. 113–235, div. O, title I, §108(b)(2), Dec. 16, 2014, 128 Stat. 2787; Pub. L. 115–141, div. U, title IV, §401(a)(92)–(94), Mar. 23, 2018, 132 Stat. 1188.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 4022A(g)(5) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a), is classified to section 1322a(g)(5) of Title 29, Labor.
@@ -176,6 +178,8 @@ Subsec. (h). Pub. L. 113–235, §108(b)(2)(E), added subsec. (h).
 
 <b>2006</b>—Subsec. (d)(1). Pub. L. 109–280 substituted "5 plan years" for "3 plan years" the second place it appeared and inserted at end "If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–235 applicable with respect to plan years beginning after Dec. 31, 2014, see section 108(c) of div. O of Pub. L. 113–235, set out as an Effective Date of Repeal note under section 418 of this title.
@@ -186,5 +190,5 @@ Pub. L. 109–280, title II, §213(b), Aug. 17, 2006, 120 Stat. 918, provided th
 
 #### Effective Date
 
-Section effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed toafter such date, or 3 years after Sept. 26, 1980, see section 210 of Pub. L. 96–364, set out as a note under section 194A of this title.
+Section effective, with respect to each plan, on the first day of the first plan year beginning on or after the earlier of the date on which the last collective-bargaining agreement providing for employer contributions under the plan, which was in effect on Sept. 26, 1980, expires, without regard to extensions agreed to after such date, or 3 years after Sept. 26, 1980, see section 210 of Pub. L. 96–364, set out as a note under section 194A of this title.
 

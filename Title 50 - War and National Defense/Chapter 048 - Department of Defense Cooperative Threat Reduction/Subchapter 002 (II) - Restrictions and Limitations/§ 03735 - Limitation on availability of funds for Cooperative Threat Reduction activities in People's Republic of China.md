@@ -38,6 +38,8 @@ In carrying out activities under the Program in the People's Republic of China, 
 
 (Pub. L. 113–291, div. A, title XIII, §1335, as added Pub. L. 114–328, div. A, title XIII, §1303(a), Dec. 23, 2016, 130 Stat. 2567; amended Pub. L. 115–91, div. A, title XIII, §1302(b)(3), Dec. 12, 2017, 131 Stat. 1705.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 struck out "or expended" after "obligated".

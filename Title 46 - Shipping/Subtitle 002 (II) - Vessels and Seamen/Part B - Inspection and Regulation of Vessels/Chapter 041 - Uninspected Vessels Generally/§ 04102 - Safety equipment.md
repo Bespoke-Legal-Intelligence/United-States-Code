@@ -10,7 +10,7 @@
 
 (e) Each manned uninspected vessel owned in the United States and operating beyond 3 nautical miles from the baselines from which the territorial sea of the United States is measured or beyond three nautical miles from the coastline of the Great Lakes shall be equipped with the number and type of alerting and locating equipment, including emergency position indicating radio beacons, prescribed by the Secretary.
 
-(f)(1) The Secretary, in consultation with the National Towing Safety Advisory Committeeand taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
+(f)(1) The Secretary, in consultation with the National Towing Safety Advisory Committee and taking into consideration the characteristics, methods of operation, and nature of service of towing vessels, may require the installation, maintenance, and use of a fire suppression system or other measures to provide adequate assurance that fires on board towing vessels can be suppressed under reasonably foreseeable circumstances.
 
 (2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
 

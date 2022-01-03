@@ -14,6 +14,8 @@ Family Discount.—In the case of a family with two or more children attending a
 
 (Added Pub. L. 104–106, div. A, title V, §568(a)(1), Feb. 10, 1996, 110 Stat. 333; amended Pub. L. 116–283, div. A, title V, §585(a), Jan. 1, 2021, 134 Stat. 3654.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (c). Pub. L. 116–283 added subsec. (c).

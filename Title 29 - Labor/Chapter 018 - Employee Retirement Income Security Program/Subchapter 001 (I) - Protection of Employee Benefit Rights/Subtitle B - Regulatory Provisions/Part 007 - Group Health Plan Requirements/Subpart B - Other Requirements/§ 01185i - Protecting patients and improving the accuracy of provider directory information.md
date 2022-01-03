@@ -72,7 +72,7 @@
 
 #### (c) Disclosure on patient protections against balance billing
 
-For plan years beginning on or after January 1, 2022, each group health plan and health insurance issuer offering group health insurance coverage shall make publicly available, post on a public website of such plan or issuer, and include on each explanation of benefits for an itemor service with respect to which the requirements under section 1185e of this title applies—
+For plan years beginning on or after January 1, 2022, each group health plan and health insurance issuer offering group health insurance coverage shall make publicly available, post on a public website of such plan or issuer, and include on each explanation of benefits for an item or service with respect to which the requirements under section 1185e of this title applies—
 
 &emsp;(1) information in plain language on—
 

@@ -36,7 +36,7 @@ Plea Agreements.—In the case of a plea agreement that includes a specific sent
 
 (d)
 
-Record on Review.—If a notice of appeal is filed in the district court pursuant to subsection (a) or (b), the clerk shall certify to the court of appeals—
+Record on Review.—If a notice of appeal is filed in the district court pursuant to subsection\(a) or (b), the clerk shall certify to the court of appeals—
 
 &emsp;(1) that portion of the record in the case that is designated as pertinent by either of the parties;
 
@@ -92,7 +92,7 @@ Sentencing Upon Remand.—A district court to which a case is remanded pursuant 
 
 &emsp;(2) The court shall not impose a sentence outside the applicable guidelines range except upon a ground that—
 
-&emsp;&emsp;(A) was specifically and affirmatively included in the written statement of reasons required by section 3553(c) in connectionwith the previous sentencing of the defendant prior to the appeal; and
+&emsp;&emsp;(A) was specifically and affirmatively included in the written statement of reasons required by section 3553(c) in connection with the previous sentencing of the defendant prior to the appeal; and
 
 &emsp;&emsp;(B) was held by the court of appeals, in remanding the case, to be a permissible ground of departure.
 
@@ -118,7 +118,7 @@ Definitions.—For purposes of this section—
 
 &emsp;(2) a factor is an "impermissible" ground of departure if it is not a permissible factor within the meaning of subsection (j)(1).
 
-(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416; Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, §401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
+(Added Pub. L. 98–473, title II, §213(a), Oct. 12, 1984, 98 Stat. 2011; amended Pub. L. 99–646, §73(a), Nov. 10, 1986, 100 Stat. 3617; Pub. L. 100–182, §§4–6, Dec. 7, 1987, 101 Stat. 1266, 1267; Pub. L. 100–690, title VII, §7103(a), Nov. 18, 1988, 102 Stat. 4416;Pub. L. 101–647, title XXXV, §§3501, 3503, Nov. 29, 1990, 104 Stat. 4921; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §330002(k), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 108–21, title IV, §401(d)–(f), Apr. 30, 2003, 117 Stat. 670, 671.)
 
 #### <b>Editorial Notes</b>
 
@@ -130,7 +130,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of this section, as added and amended by section 401(d)(2), (e) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, as added and amended by section 401(d)(2), (e) of Pub. L. 108–21, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
@@ -174,7 +174,7 @@ Subsec. (a)(3). Pub. L. 100–690, §7103(a)(2), added par. (3) and struck out f
 
 Subsec. (a)(4). Pub. L. 100–690, §7103(a)(4), added par. (4) and struck out former par. (4) which read as follows: "was imposed for an offense for which no sentencing guideline has been issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and is plainly unreasonable or greater than the sentence specified in a plea agreement under Rule 11(e)(1)(B) or (e)(1)(C) of the Federal Rules of Criminal Procedure."
 
-Subsec. (b). Pub. L. 100–690, §7103(a)(5), inserted ", with the personal approval of the Attorney Generalor the Solicitor General," after "The Government" in introductory provisions, and struck out concluding provisions which read as follows: "and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal."
+Subsec. (b). Pub. L. 100–690, §7103(a)(5), inserted ", with the personal approval of the Attorney General or the Solicitor General," after "The Government" in introductory provisions, and struck out concluding provisions which read as follows: "and the Attorney General or the Solicitor General personally approves the filing of the notice of appeal."
 
 Subsec. (b)(2). Pub. L. 100–690, §7103(a)(1), struck out "issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)" after "guidelines".
 

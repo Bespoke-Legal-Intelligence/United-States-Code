@@ -22,7 +22,7 @@ The information required under this subsection shall include—
 
 #### (1) In general
 
-&emsp;The electing Settlement Trust shall, on or before the date on which the statement undersubsection (a) is required to be filed, furnish such statement to the sponsoring Native Corporation (as so defined).
+&emsp;The electing Settlement Trust shall, on or before the date on which the statement under subsection (a) is required to be filed, furnish such statement to the sponsoring Native Corporation (as so defined).
 
 #### (2) Distributees
 
@@ -50,11 +50,15 @@ The information required under this subsection shall include—
 
 (Added Pub. L. 107–16, title VI, §671(b), June 7, 2001, 115 Stat. 147; amended Pub. L. 115–97, title I, §13821(c)(1), Dec. 22, 2017, 131 Stat. 2181.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, §13821(c)(1)(A), struck out "sponsoring" before "Native Corporations" in section catchline.
 
 Subsec. (e). Pub. L. 115–97, §13821(c)(1)(B), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

@@ -14,7 +14,9 @@
 
 &emsp;(2) Any Federal, State, municipal or other local governmental agency likely to be interested in or affected by such application.
 
-(June 10, 1920, ch. 285, pt. I, §9, 41 Stat. 1068; renumbered pt. I, Aug. 26, 1935, ch. 687, title II,§212, 49 Stat. 847; Pub. L. 99–495, §14, Oct. 16, 1986, 100 Stat. 1257.)
+(June 10, 1920, ch. 285, pt. I, §9, 41 Stat. 1068; renumbered pt. I, Aug. 26, 1935, ch. 687, title II, §212, 49 Stat. 847; Pub. L. 99–495, §14, Oct. 16, 1986, 100 Stat. 1257.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -23,6 +25,8 @@ Former subsec. (c), included in the provisions designated as subsec. (a) by Pub.
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–495 designated existing provisions as subsec. (a), redesignated former subsecs. (a) and (b) as pars. (1) and (2) of subsec. (a), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

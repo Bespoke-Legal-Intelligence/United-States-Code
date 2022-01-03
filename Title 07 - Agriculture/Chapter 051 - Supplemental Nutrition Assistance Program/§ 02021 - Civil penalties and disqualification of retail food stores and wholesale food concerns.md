@@ -36,7 +36,7 @@ Subject to subsection (c), a disqualification under subsection (a) shall be—
 
 &emsp;&emsp;&emsp;(II) the management was aware of, approved of, benefited from, or was involved in the conduct of no more than 1 previous violation by the store or food concern; or
 
-&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conductor approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
+&emsp;&emsp;(C) a finding of the sale of firearms, ammunition, explosives, or controlled substance (as defined in section 802 of title 21) for coupons, except that the Secretary shall have the discretion to impose a civil penalty of up to $20,000 for each violation (except that the amount of civil penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph if the Secretary determines that there is substantial evidence (including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation) that the store or food concern had an effective policy and program in effect to prevent violations of this chapter; and
 
 &emsp;(4) for a reasonable period of time to be determined by the Secretary, including permanent disqualification, on the knowing submission of an application for the approval or reauthorization to accept and redeem coupons that contains false information about a substantive matter that was a part of the application.
 
@@ -74,7 +74,7 @@ Subject to subsection (c), a disqualification under subsection (a) shall be—
 
 #### (e) Transfer of ownership; penalty in lieu of disqualification period; fines for acceptance of loose coupons; judicial action to recover penalty or fine
 
-(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulations to reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
+(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulations to reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) shall continue in effect as to the person or persons who sell orotherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
 
 (2) At any time after a civil penalty imposed under paragraph (1) has become final under the provisions of section 2023(a) of this title, the Secretary may request the Attorney General to institute a civil action against the person or persons subject to the penalty in a district court of the United States for any district in which such person or persons are found, reside, or transact business to collect the penalty and such court shall have jurisdiction to hear and decide such action. In such action, the validity and amount of such penalty shall not be subject to review.
 
@@ -88,7 +88,7 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations providing criteria for the disqualification under thischapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
+&emsp;The Secretary shall issue regulations providing criteria for the disqualification under this chapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
 
 #### (2) Terms
 
@@ -180,6 +180,8 @@ The Secretary may impose a fine against any person not approved by the Secretary
 
 (Pub. L. 88–525, §12, Aug. 31, 1964, 78 Stat. 707; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 974; Pub. L. 97–253, title I, §§175, 176(a), Sept. 8, 1982, 96 Stat. 781; Pub. L. 99–198, title XV, §1532(a), Dec. 23, 1985, 99 Stat. 1582; Pub. L. 100–435, title III, §344, Sept. 19, 1988, 102 Stat. 1664; Pub. L. 101–624, title XVII, §§1743–1745, Nov. 28, 1990, 104 Stat. 3795, 3796; Pub. L. 103–66, title XIII, §§13943, 13944, Aug. 10, 1993, 107 Stat. 677; Pub. L. 104–127, title IV, §401(a), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §§841–843, Aug. 22, 1996, 110 Stat. 2331, 2332; Pub. L. 110–234, title IV, §4132, May 22, 2008, 122 Stat. 1114; Pub. L. 110–246, §4(a), title IV, §4132, June 18, 2008, 122 Stat. 1664, 1875; Pub. L. 113–79, title IV, §§4017, 4030(g), Feb. 7, 2014, 128 Stat. 796, 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -245,6 +247,8 @@ Subsec. (c). Pub. L. 97–253, §175(4), redesignated last sentence as subsec. (
 Subsec. (d). Pub. L. 97–253, §176(a), added subsec. (d).
 
 <b>1977</b>—Pub. L. 95–113 substituted revised provisions covering civil money penalties and disqualification of retail food stores and wholesale food concerns for provisions relating to the determination and disposition of claims which are now covered by section 2022 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

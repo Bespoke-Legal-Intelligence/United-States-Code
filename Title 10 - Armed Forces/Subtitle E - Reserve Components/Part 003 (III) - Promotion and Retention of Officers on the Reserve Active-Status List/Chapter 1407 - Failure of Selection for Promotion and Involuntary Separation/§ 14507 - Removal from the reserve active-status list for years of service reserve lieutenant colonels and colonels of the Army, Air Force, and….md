@@ -18,11 +18,15 @@ Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—
 
 (4) The authority of the Secretary of the Air Force under paragraph (1) expires on September 30, 2003.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L.104–201, div. A, title V, §508(a), Sept. 23, 1996, 110 Stat. 2513.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–201, div. A, title V, §508(a), Sept. 23, 1996, 110 Stat. 2513.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–201 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

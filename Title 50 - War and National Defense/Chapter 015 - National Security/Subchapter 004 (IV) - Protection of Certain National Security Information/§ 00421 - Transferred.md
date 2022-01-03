@@ -1,5 +1,7 @@
 ### §421. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 421, comprising section 601 of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as section 3121 of this title.

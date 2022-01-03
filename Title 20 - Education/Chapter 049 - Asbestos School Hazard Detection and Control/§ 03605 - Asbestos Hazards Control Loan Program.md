@@ -70,7 +70,7 @@ During each of the three calendar years after 1980, the Secretary shall submit b
 
 &emsp;(4) specify the estimated total costs of such programs to the recipients of loans and specify the amount of loans made under the Loan Program; and
 
-&emsp;(5) specify the number of loan applications which were disapproved during the preceding calendar year and describe the reasons for such disapprovals.
+&emsp;(5) specify the number of loan applications which were disapproved during the precedingcalendar year and describe the reasons for such disapprovals.
 
 (Pub. L. 96–270, §6, June 14, 1980, 94 Stat. 492.)
 

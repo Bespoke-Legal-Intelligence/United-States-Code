@@ -82,7 +82,7 @@
 
 (g) A judgment (or settlement of a claim) against the Postal Service or the Government of the United States shall be paid out of the Competitive Products Fund to the extent that the judgment or claim arises out of activities of the Postal Service in the provision of competitive products.
 
-(h)(1)(A) The Secretary of the Treasury, in consultation with the Postal Service and anindependent, certified public accounting firm and other advisors as the Secretary considers appropriate, shall develop recommendations regarding—
+(h)(1)(A) The Secretary of the Treasury, in consultation with the Postal Service and an independent, certified public accounting firm and other advisors as the Secretary considers appropriate, shall develop recommendations regarding—
 
 &emsp;(i) the accounting practices and principles that should be followed by the Postal Service with the objectives of—
 

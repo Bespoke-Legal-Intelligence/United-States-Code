@@ -10,25 +10,15 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 &emsp;(4) At any time if the mark is registered under the Act of March 3, 1881, or the Act of February 20, 1905, and has not been published under the provisions of subsection (c) of section 1062 of this title.
 
-&emsp;(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies:
+&emsp;(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies.
 
-> <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.
+&emsp;(6) At any time after the 3-year period following the date of registration, if the registered mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration:
+
+> <i>Provided</i>, That the Federal Trade Commission may apply to cancel on the grounds specified in paragraphs (3) and (5) of this section any mark registered on the principal register established by this chapter, and the prescribed fee shall not be required. Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied.Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.
 
 (July 5, 1946, ch. 540, title I, §14, 60 Stat. 433; Pub. L. 87–772, §9, Oct. 9, 1962, 76 Stat. 771; Pub. L. 97–247, §9(b), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–620, title I, §102, Nov. 8, 1984, 98 Stat. 3335; Pub. L. 100–667, title I, §115, Nov. 16, 1988, 102 Stat. 3940; Pub. L. 105–330, title II, §201(a)(4), title III, §301, Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §2(c), Aug. 5, 1999, 113 Stat. 218; Pub. L. 109–312, §3(c), Oct. 6, 2006, 120 Stat. 1732; Pub. L. 116–260, div. Q, title II, §225(b), Dec. 27, 2020, 134 Stat. 2204.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–260, div. Q, title II, §225(b), (g), Dec. 27, 2020, 134 Stat. 2204, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:</i>
-
-<i>(1) by striking the colon at the end of paragraph (5) and inserting a period;</i>
-
-<i>(2) by inserting after paragraph (5) the following:</i>
-
-&emsp;<i>"(6) At any time after the 3-year period following the date of registration, if the registered mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration:"; and</i>
-
-<i>(3) in the flush text following paragraph (6), as added, by inserting "Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse." after "identical certification mark is applied."</i>
-
-<i>See 2020 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,7 +38,7 @@ Par. (6). Pub. L. 116–260, §225(b)(1), (2), added par. (6).
 
 <b>1999</b>—Pub. L. 106–43 inserted ", including as a result of dilution under section 1125(c) of this title," after "damaged" in introductory provisions.
 
-<b>1998</b>—Pub. L. 105–330, §301, inserted at end "Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification programor of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied."
+<b>1998</b>—Pub. L. 105–330, §301, inserted at end "Nothing in paragraph (5) shall be deemed to prohibit the registrant from using its certification mark in advertising or promoting recognition of the certification program or of the goods or services meeting the certification standards of the registrant. Such uses of the certification mark shall not be grounds for cancellation under paragraph (5), so long as the registrant does not itself produce, manufacture, or sell any of the certified goods or services to which its identical certification mark is applied."
 
 Par. (3). Pub. L. 105–330, §201(a)(4), inserted "or is functional," before "or has been abandoned".
 
@@ -69,6 +59,8 @@ Par. (5). Pub. L. 100–667, §115(6), substituted "(5) At" for "(e) at" and red
 <b>1982</b>—Pub. L. 97–247 struck out "verified" before "petition to cancel" in provision preceding par. (a).
 
 <b>1962</b>—Pub. L. 87–772 inserted provisions which require a verified petition to cancel a registration, redesignated par. (d) as (e), added par. (d) which is composed of provisions formerly part of par. (c), and in said par. (c), substituted "registrant" for "assignee", and struck out "on which the patent has expired" before "or has been abandoned", and "has been assigned and" before "is being used by".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -98,11 +90,13 @@ Pub. L. 98–620, title I, §104, Nov. 8, 1984, 98 Stat. 3336, provided that: "N
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
-
 #### Restriction on Use of Funds To Cancel Registration of Trademarks
 
 For provisions restricting the use of funds authorized to be appropriated to carry out section 41 et seq. of this title for fiscal year 1980, 1981, or 1982, for the purpose of taking any action under this section with respect to the cancellation of the registration of any mark on the ground that such mark has become the common descriptive name of an article or substance, see section 18 of Pub. L. 96–252, set out as a note under section 57c of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 

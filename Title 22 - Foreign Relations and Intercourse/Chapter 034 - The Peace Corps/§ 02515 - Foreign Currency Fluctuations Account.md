@@ -8,7 +8,7 @@
 
 #### (b) Use of funds in account
 
-Funds transferred under subsection (a) shall be merged with, and be available for the sametime period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
+Funds transferred under subsection (a) shall be merged with, and be available for the same time period, as the appropriation to which they are applied. Notwithstanding any provision of law limiting the amount of funds the Peace Corps may obligate in any fiscal year, such amount shall be increased to the extent necessary to reflect fluctuations in exchange rates from those used in preparing the budget submission.
 
 #### (c) Exchange rates applicable to obligations
 
@@ -52,7 +52,7 @@ A prior section 2515, Pub. L. 87–293, title I, §16, Sept. 22, 1961, 75 Stat. 
 
 #### Effective Date
 
-Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: "The amendment made by subsection (a) \[enacting this section\] applies with respect to each fiscal year after fiscal year 1992."
+Pub. L. 102–565, §2(b), Oct. 28, 1992, 106 Stat. 4266, provided that: "The amendment made by subsection (a)\[enacting this section\] applies with respect to each fiscal year after fiscal year 1992."
 
 #### Repeals; Amendments and Application of Amendments Unaffected; Continuation of Determinations, Authorization, Regulations, Orders, Contracts, Agreements, and Other Actions
 

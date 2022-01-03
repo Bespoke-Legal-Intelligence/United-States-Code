@@ -14,7 +14,7 @@ Composition.—The Medical Review Board shall be appointed by the Secretary and 
 
 (b)
 
-Chief Medical Examiner.—The Secretary shall appoint a chief medical examiner whoshall be an employee of the Federal Motor Carrier Safety Administration and who shall hold a position under section 3104 of title 5, United States Code, relating to employment of specially qualified scientific and professional personnel, and shall be paid under section 5376 of title 5, United States Code, relating to pay for certain senior-level positions.
+Chief Medical Examiner.—The Secretary shall appoint a chief medical examiner who shall be an employee of the Federal Motor Carrier Safety Administration and who shall hold a position under section 3104 of title 5, United States Code, relating to employment of specially qualified scientific and professional personnel, and shall be paid under section 5376 of title 5, United States Code, relating to pay for certain senior-level positions.
 
 (c)
 
@@ -76,6 +76,8 @@ Regulations.—The Secretary shall issue such regulations as may be necessary to
 
 (Added Pub. L. 109–59, title IV, §4116(a), Aug. 10, 2005, 119 Stat. 1726; amended Pub. L. 112–141, div. C, title II, §32302(b), (c)(1), July 6, 2012, 126 Stat. 789.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (c)(1)(D), is Pub. L. 112–141, div. C, title II, July 6, 2012, 126 Stat. 776. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under section 30101 of this title and Tables.
@@ -87,6 +89,8 @@ The Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subs
 Subsec. (c)(1)(E). Pub. L. 112–141, §32302(c)(1)(A), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "require medical examiners to transmit the name of the applicant and numerical identifier, as determined by the Administrator of the Federal Motor Carrier Safety Administration, for any completed medical examination report required under section 391.43 of title 49, Code of Federal Regulations, electronically to the chief medical examiner on monthly basis; and".
 
 Subsec. (c)(1)(G). Pub. L. 112–141, §32302(c)(1)(B), (C), added subpar. (G).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -158,7 +162,7 @@ Statutory Construction.—Nothing in this section shall be construed to change a
 
 #### Deadline for Establishment of National Registry of Medical Examiners
 
-Pub. L. 112–141, div. C, title II, §32302(a), July 6, 2012, 126 Stat. 788, provided that: "Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with section 31149(d)(1) of title 49, United States Code."
+Pub. L. 112–141, div. C, title II, §32302(a), July 6, 2012, 126 Stat. 788, provided that: "Not later than 1 year afterthe date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish a national registry of medical examiners in accordance with section 31149(d)(1) of title 49, United States Code."
 
 #### Internal Oversight Policy
 

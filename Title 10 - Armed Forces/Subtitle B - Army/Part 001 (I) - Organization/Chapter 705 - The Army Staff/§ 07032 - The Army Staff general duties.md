@@ -40,6 +40,8 @@ In subsection (b)(1), the words "power, duty, or function of" are substituted fo
 
 In subsection (b)(2), the words "all questions affecting" and "state of" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §808(a), renumbered section 3032 of this title as this section.
@@ -53,6 +55,8 @@ Subsec. (a). Pub. L. 99–433, §502(b)(1), inserted "and to the Chief of Staff 
 Subsec. (b). Pub. L. 99–433, §502(b)(2), substituted "authority, direction, and control of the Secretary of the Army" for "direction and control of the Secretary" in introductory provisions, inserted "subject to subsections (c) and (d) of section 3014 of this title," and substituted "(including those aspects of research and development assigned by the Secretary of the Army), training, servicing, mobilizing, demobilizing, administering, and maintaining" for ", training, serving, mobilizing, and demobilizing" in cl. (1), substituted "to support military operations by combatant commands" for "for military operations" in cl. (2), and amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: "act as agent of the Secretary and the Chief of Staff in coordinating the action of all organizations of the Department of the Army; and".
 
 <b>1958</b>—Subsec. (b)(1). Pub. L. 85–599 substituted "prepare for such employment of the Army" for "prepare such plans for the national security, for employment of the Army for that purpose, both separately and in conjunction with the naval and air forces".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

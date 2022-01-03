@@ -98,6 +98,8 @@ In carrying out this section, the Director of the Foundation shall consult and c
 
 (Pub. L. 114–329, title III, §305, Jan. 6, 2017, 130 Stat. 3007; Pub. L. 116–102, §4, Dec. 24, 2019, 133 Stat. 3263.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the American Innovation and Competitiveness Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
@@ -105,6 +107,8 @@ Section was enacted as part of the American Innovation and Competitiveness Act, 
 #### Amendments
 
 <b>2019</b>—Subsec. (d)(3). Pub. L. 116–102 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Findings
 

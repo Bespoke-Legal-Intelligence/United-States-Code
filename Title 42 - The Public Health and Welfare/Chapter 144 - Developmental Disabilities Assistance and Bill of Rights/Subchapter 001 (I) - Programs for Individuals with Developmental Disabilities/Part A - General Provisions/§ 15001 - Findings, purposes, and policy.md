@@ -98,7 +98,7 @@ It is the policy of the United States that all programs, projects, and activitie
 
 &emsp;(4) services, supports, and other assistance should be provided in a manner that demonstrates respect for individual dignity, personal preferences, and cultural differences;
 
-&emsp;(5) specific efforts must be made to ensure that individuals with developmental disabilities from racial and ethnic minority backgrounds and their families enjoy increased and meaningful opportunities to access and usecommunity services, individualized supports, and other forms of assistance available to other individuals with developmental disabilities and their families;
+&emsp;(5) specific efforts must be made to ensure that individuals with developmental disabilities from racial and ethnic minority backgrounds and their families enjoy increased and meaningful opportunities to access and use community services, individualized supports, and other forms of assistance available to other individuals with developmental disabilities and their families;
 
 &emsp;(6) recruitment efforts in disciplines related to developmental disabilities relating to pre-service training, community training, practice, administration, and policymaking must focus on bringing larger numbers of racial and ethnic minorities into the disciplines in order to provide appropriate skills, knowledge, role models, and sufficient personnel to address the growing needs of an increasingly diverse population;
 
@@ -115,6 +115,8 @@ It is the policy of the United States that all programs, projects, and activitie
 &emsp;(12) individuals with developmental disabilities need to have access to and use of recreational, leisure, and social opportunities in the most integrated settings, in order to enrich their participation in community life.
 
 (Pub. L. 106–402, title I, §101, Oct. 30, 2000, 114 Stat. 1678.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 
@@ -188,7 +190,7 @@ Healthy Athletes.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Health and Human Services may award grants to, or enter intocontracts or cooperative agreements with, Special Olympics for the implementation of on-site health assessments, screening for health problems, health education, data collection, and referrals to direct health care services.
+In general.—The Secretary of Health and Human Services may award grants to, or enter into contracts or cooperative agreements with, Special Olympics for the implementation of on-site health assessments, screening for health problems, health education, data collection, and referrals to direct health care services.
 
 &emsp;"(2)
 
@@ -241,6 +243,8 @@ Content.—At a minimum, each annual report under this subsection shall describe
 &emsp;"(2) for grants, contracts, or cooperative agreements under section 3(b), such sums as may be necessary for fiscal year 2017 and each of the 4 succeeding fiscal years; and
 
 &emsp;"(3) for grants, contracts, or cooperative agreements under section 3(c), such sums as may be necessary for fiscal year 2017 and each of the 4 succeeding fiscal years."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12994. President's Committee on Mental Retardation
 
@@ -322,9 +326,11 @@ Sec. 6. <i>General</i>. (a) Nothing in this order shall be construed as subjecti
 
 #### Extension of Term of President's Committee for People with Intellectual Disabilities
 
-Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President's Committee for People with Intellectual Disabilities extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of the President's Committee for People with Intellectual Disabilities (formerly President's Committee on Mental Retardation) were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

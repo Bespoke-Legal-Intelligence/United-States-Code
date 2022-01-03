@@ -22,7 +22,7 @@ The child health assistance provided to a targeted low-income child under the pl
 
 #### (C) Substantial actuarial value for additional services included in benchmark package
 
-&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used undersubparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+&emsp;&emsp;With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage
 
@@ -84,7 +84,7 @@ The benchmark benefit packages are as follows:
 
 #### (4) Determination of actuarial value
 
-&emsp;The actuarial value of coverage of benchmark benefit packages, coverage offered under the State child health plan, and coverage of any categories of additional services under benchmark benefit packages and under coverage offered by such a plan, shall be set forth in an actuarial opinion in an actuarial report that has been prepared—
+&emsp;The actuarial value of coverage of benchmark benefit packages, coverage offered underthe State child health plan, and coverage of any categories of additional services under benchmark benefit packages and under coverage offered by such a plan, shall be set forth in an actuarial opinion in an actuarial report that has been prepared—
 
 &emsp;&emsp;(A) by an individual who is a member of the American Academy of Actuaries;
 
@@ -118,7 +118,7 @@ The benchmark benefit packages are as follows:
 
 #### (B) Permitting use of dental benchmark plans by certain States
 
-&emsp;&emsp;A State may elect to meet the requirement of subparagraph (A) through dentalcoverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
+&emsp;&emsp;A State may elect to meet the requirement of subparagraph (A) through dental coverage that is equivalent to a benchmark dental benefit package described in subparagraph (C).
 
 #### (C) Benchmark dental benefit packages
 
@@ -148,7 +148,7 @@ The benchmark benefit packages are as follows:
 
 #### (8) Construction on prohibited coverage
 
-&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
+&emsp;Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for itemsor services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
 
 #### (9) Availability of coverage for items and services furnished through school-based health centers
 
@@ -157,6 +157,14 @@ The benchmark benefit packages are as follows:
 #### (10) Certain in vitro diagnostic products for COVID–19 testing
 
 &emsp;The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 <sup>1</sup> (and the administration of such product).
+
+#### (11) Required coverage of COVID–19 vaccines and treatment
+
+&emsp;Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in section 1320b–5(g)(1)(B) of this title, of—
+
+&emsp;&emsp;(A) a COVID–19 vaccine (and the administration of the vaccine); and
+
+&emsp;&emsp;(B) testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State child health plan (or waiver of such plan).
 
 #### (d) Description of existing comprehensive State-based coverage
 
@@ -192,11 +200,11 @@ The benchmark benefit packages are as follows:
 
 #### (B) Protection for lower income children
 
-&emsp;&emsp;The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children fromfamilies with higher income over children from families with lower income.
+&emsp;&emsp;The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
 
-#### (2) No cost sharing on benefits for preventive services, COVID–19 testing, or pregnancy-related assistance
+#### (2) No cost sharing on benefits for preventive services, COVID–19 testing, a COVID–19 vaccine, COVID–19 treatment, or pregnancy-related assistance
 
-&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or for pregnancy-related assistance.
+&emsp;The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
 
 #### (3) Limitations on premiums and cost-sharing
 
@@ -206,7 +214,7 @@ The benchmark benefit packages are as follows:
 
 &emsp;&emsp;&emsp;(i) an enrollment fee, premium, or similar charge that exceeds the maximum monthly charge permitted consistent with standards established to carry out section 1396o(b)(1) of this title (with respect to individuals described in such section); and
 
-&emsp;&emsp;&emsp;(ii) a deductible, cost sharing, or similar charge that exceeds an amount that is nominal (as determined consistent with regulations referred to in section 1396o(a)(3) of this title, with such appropriate adjustment for inflation or other reasons as the Secretary determines to be reasonable).
+&emsp;&emsp;&emsp;(ii) a deductible, cost sharing, or similar charge that exceeds an amount that is nominal (as determined consistent with regulations referred to in section 1396o(a)(3) of this title, with such appropriate adjustment for inflation or otherreasons as the Secretary determines to be reasonable).
 
 #### (B) Other children
 
@@ -250,13 +258,15 @@ The benchmark benefit packages are as follows:
 
 &emsp;The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917; Pub. L. 117–2, title IX, §9821(a), Mar. 11, 2021, 135 Stat. 219.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 March 18, 2020, referred to in subsec. (c)(10), was in the original "the date of the enactment of this subparagraph", and was translated as if it had read "the date of the enactment of this paragraph" to reflect the probable intent of Congress.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406,Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "
 
@@ -267,6 +277,10 @@ subpart 2—other requirements" (preceding section 300gg–4 of this title), and
 exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(11). Pub. L. 117–2, §9821(a)(1), added par. (11).
+
+Subsec. (e)(2). Pub. L. 117–2, §9821(a)(2), in heading, inserted "a COVID–19 vaccine, COVID–19 treatment," before "or pregnancy-related assistance" and, in text, substituted "services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described insuch section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or" for "visits described in section 1396o(a)(2)(G) of this title, or".
 
 <b>2020</b>—Subsec. (c)(7)(A). Pub. L. 116–260, §203(a)(4)(C)(ii), inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act, a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation."
 
@@ -307,6 +321,8 @@ Subsec. (e)(2). Pub. L. 111–3, §111(b)(1), inserted "or pregnancy-related ass
 Subsec. (e)(3)(C). Pub. L. 111–3, §504(a), added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3, §403(a), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

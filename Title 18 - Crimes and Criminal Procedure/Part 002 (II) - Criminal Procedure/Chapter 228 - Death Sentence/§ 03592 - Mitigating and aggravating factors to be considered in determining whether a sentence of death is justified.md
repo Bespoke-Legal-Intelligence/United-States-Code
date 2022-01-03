@@ -80,7 +80,7 @@ Grave risk of death to additional persons.—The defendant, in the commission of
 
 &emsp;(6)
 
-Heinous, cruel, or depraved manner of committing offense.—The defendant committed the offense in an especially heinous,cruel, or depraved manner in that it involved torture or serious physical abuse to the victim.
+Heinous, cruel, or depraved manner of committing offense.—The defendant committed the offense in an especially heinous, cruel, or depraved manner in that it involved torture or serious physical abuse to the victim.
 
 &emsp;(7)
 
@@ -114,7 +114,7 @@ Continuing criminal enterprise involving drug sales to minors.—The defendant c
 
 High public officials.—The defendant committed the offense against—
 
-&emsp;&emsp;(A) the President of the United States, the President-elect, the Vice President, the Vice President-elect, the Vice President-designate, or, if there is no Vice President, the officer next in order of succession to the office of the President of the United States, or any person who is acting as President under the Constitution and laws of the United States;
+&emsp;&emsp;(A) the President of the United States, the President-elect, the Vice President, the Vice President-elect, the Vice President-designate, or, if there is no Vice President, theofficer next in order of succession to the office of the President of the United States, or any person who is acting as President under the Constitution and laws of the United States;
 
 &emsp;&emsp;(B) a chief of state, head of government, or the political equivalent, of a foreign nation;
 
@@ -166,7 +166,7 @@ Distribution to persons under 21.—The offense, or a continuing criminal enterp
 
 &emsp;(6)
 
-Distribution near schools.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conductproscribed by section 419 of the Controlled Substances Act (21 U.S.C. 860) which was committed directly by the defendant.
+Distribution near schools.—The offense, or a continuing criminal enterprise of which the offense was a part, involved conduct proscribed by section 419 of the Controlled Substances Act (21 U.S.C. 860) which was committed directly by the defendant.
 
 &emsp;(7)
 

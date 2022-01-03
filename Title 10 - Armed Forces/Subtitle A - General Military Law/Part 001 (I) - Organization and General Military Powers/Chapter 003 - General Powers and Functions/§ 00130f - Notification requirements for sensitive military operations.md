@@ -18,13 +18,13 @@ Briefing Requirement.—The Secretary of Defense shall periodically brief the co
 
 (d)
 
-Sensitive Military Operation Defined.—(1) Except as provided in paragraph (2), in this section, the term "sensitive military operation" means—
+Sensitive Military Operation Defined.—In this section, the term "sensitive military operation" means—
 
-&emsp;(A) a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals; or
+&emsp;(1) a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals;
 
-&emsp;(B) an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation.
+&emsp;(2) an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation; or
 
-(2) For purposes of this section, the term "sensitive military operation" does not include any operation conducted within Afghanistan, Syria, or Iraq.
+&emsp;(3) an operation conducted by the armed forces to free an individual from the control of hostile foreign forces.
 
 (e)
 
@@ -32,9 +32,11 @@ Rule of Construction.—Nothing in this section shall be construed to provide an
 
 (f)
 
-Collective Self-defense Notification Requirement.—Not later than 48 hours after thedate on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
+Collective Self-defense Notification Requirement.—Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
 
-(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953.)
+(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953; Pub. L. 117–81, div. A, title X, §1042, Dec. 27, 2021, 135 Stat. 1903.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -43,6 +45,10 @@ The National Security Act of 1947, referred to in subsecs. (c) and (e), is act J
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 117–81, §1042(1)–(3), substituted "In" for "(1) Except as provided in paragraph (2), in", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: " For purposes of this section, the term 'sensitive military operation' does not include any operation conducted within Afghanistan, Syria, or Iraq."
+
+Subsec. (d)(3). Pub. L. 117–81, §1042(4)–(6), added par. (3).
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–232, §1031(a), amended subsec. (d) generally. Prior to amendment, text read as follows: "The term 'sensitive military operation' means the following:
 
@@ -82,6 +88,8 @@ Subsecs. (e), (f). Pub. L. 114–328, §1036(e), redesignated subsec. (f) as (e)
 
 <b>2015</b>—Subsec. (e). Pub. L. 114–92 designated existing provisions as par. (1) and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 113–66, div. A, title X, §1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: "Section 130f of title 10, United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act \[Dec. 26, 2013\]."
@@ -114,7 +122,7 @@ Elements.—The policy required by subsection (a) shall address the following:
 
 &emsp;"(3) The procedure by which a proposal that any member or unit of the United States Armed Forces provide collective self-defense in support of designated foreign nationals, their facilities, and their property is to be submitted, processed, and endorsed through offices, officers, and officials of the Department to the applicable approval authority for final decision, and a list of any information, advice, or opinion to be included with such proposal in order to inform appropriate action on such proposal by such approval authority.
 
-&emsp;"(4) The title and duty position of any officers and officials of the Department empowered to render a final decision on a proposal described in paragraph\(3), and the conditions applicable to, and limitations on, the exercise of such decisionmaking authority by each such officer or official.
+&emsp;"(4) The title and duty position of any officers and officials of the Department empowered to render a final decision on a proposal described in paragraph (3), and the conditions applicable to, and limitations on, the exercise of such decisionmaking authority by each such officer or official.
 
 &emsp;"(5) A description of the Rules of Engagement applicable to the provision of collective self-defense to designated foreign nationals, their facilities, and their property under any of the bases in domestic or international law in the circumstances enumerated in paragraph (1), and the conditions under which any such Rules of Engagement would be modified.
 

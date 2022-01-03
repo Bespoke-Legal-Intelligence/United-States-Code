@@ -50,13 +50,17 @@ If—
 
 &emsp;(3) the coverage as so changed continues to provide coverage of beneficiaries as dependent children,
 
-> this section shall apply to coverage of the child under the changed coverage for the remainder of the period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
+> this section shall apply to coverage of the child under the changed coverage for the remainder ofthe period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
 
 (Added Pub. L. 110–381, §2(c)(1), Oct. 9, 2008, 122 Stat. 4084.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 Section 102 of the Higher Education Act of 1965, referred to in subsec. (a), is classified to section 1002 of Title 20, Education.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

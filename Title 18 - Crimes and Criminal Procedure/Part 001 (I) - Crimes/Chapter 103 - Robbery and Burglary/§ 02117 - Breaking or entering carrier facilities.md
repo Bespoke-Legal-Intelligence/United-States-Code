@@ -24,7 +24,7 @@ This section \[section 44\] conforms section 2117 of title 18, U.S.C., more clos
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–186 inserted at end of first par. "If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offenseunder section 670 unless the punishment under this section is greater."
+<b>2012</b>—Pub. L. 112–186 inserted at end of first par. "If the offense involves a pre-retail medical product (as defined in section 670) the punishment for the offense shall be the same as the punishment for an offense under section 670 unless the punishment under this section is greater."
 
 <b>1994</b>—Pub. L. 103–322, which directed the amendment of section 2217 of this title by substituting "under this title" for "not more than $5,000", was executed by making the substitution in the first par. of this section, to reflect the probable intent of Congress, because this title does not contain a section 2217.
 

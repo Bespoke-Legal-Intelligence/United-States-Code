@@ -14,7 +14,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(6) "lease site" means any lands or submerged lands, including the surface of a severed mineral estate, on which exploration for, or extraction or removal of, oil or gas is authorized pursuant to a lease;
 
-&emsp;(7) "lessee" means any person to whom the United States issues an oil and gas lease orany person to whom operating rights in a lease have been assigned;
+&emsp;(7) "lessee" means any person to whom the United States issues an oil and gas lease or any person to whom operating rights in a lease have been assigned;
 
 &emsp;(8) "mineral leasing law" means any Federal law administered by the Secretary authorizing the disposition under lease of oil or gas;
 
@@ -147,6 +147,8 @@ Pub. L. 92–203, §29(f)(2), as added by Pub. L. 100–241, §15, Feb. 3, 1988,
 #### Applicability of 1996 Amendment
 
 Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as a note under section 1701 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

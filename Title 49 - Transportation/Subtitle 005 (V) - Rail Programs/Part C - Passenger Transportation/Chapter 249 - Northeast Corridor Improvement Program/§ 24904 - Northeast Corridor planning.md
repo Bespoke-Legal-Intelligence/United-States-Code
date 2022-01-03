@@ -2,27 +2,65 @@
 
 (a)
 
+Northeast Corridor Service Development Plan.—
+
+&emsp;(1)
+
+In general.—Not later than March 31, 2022, the Northeast Corridor Commission established under section 24905 (referred to in this section as the "Commission") shall submit a service development plan to Congress.
+
+&emsp;(2)
+
+Contents.—The plan required under paragraph (1) shall—
+
+&emsp;&emsp;(A) identify key state-of-good-repair, capacity expansion, and capital improvement projects planned for the Northeast Corridor;
+
+&emsp;&emsp;(B) provide a coordinated and consensus-based plan covering a 15-year period;
+
+&emsp;&emsp;(C) identify service objectives and the capital investments required to meet such objectives;
+
+&emsp;&emsp;(D) provide a delivery-constrained strategy that identifies—
+
+&emsp;&emsp;&emsp;(i) capital investment phasing;
+
+&emsp;&emsp;&emsp;(ii) an evaluation of workforce needs; and
+
+&emsp;&emsp;&emsp;(iii) strategies for managing resources and mitigating construction impacts on operations; and
+
+&emsp;&emsp;(E) include a financial strategy that identifies funding needs and potential funding sources.
+
+&emsp;(3)
+
+Updates.—The Commission shall update the service development plan not less frequently than once every 5 years.
+
+(b)
+
 Northeast Corridor Capital Investment Plan.—
 
 &emsp;(1)
 
-Requirement.—Not later than May 1 of each year, the Northeast Corridor Commission established under section 24905 (referred to in this section as the "Commission") shall—
+In general.—Not later than November 1 of each year, the Commission shall—
 
-&emsp;&emsp;(A) develop a capital investment plan for the Northeast Corridor; and
+&emsp;&emsp;(A) develop an annual capital investment plan for the Northeast Corridor; and
 
-&emsp;&emsp;(B) submit the capital investment plan to the Secretary of Transportation and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;&emsp;(B) submit the capital investment plan to—
+
+&emsp;&emsp;&emsp;(i) the Secretary of Transportation;
+
+&emsp;&emsp;&emsp;(ii) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+&emsp;&emsp;&emsp;(iii) the Committee on Transportation and Infrastructure of the House of Representatives.
 
 &emsp;(2)
 
-Contents.—The capital investment plan shall—
+Contents.—The plan required under paragraph (1) shall—
 
-&emsp;&emsp;(A) reflect coordination and network optimization across the entire Northeast Corridor;
+&emsp;&emsp;(A) reflect coordination across the entire Northeast Corridor;
 
-&emsp;&emsp;(B) integrate the individual capital and service plans developed by each operator using the methods described in the cost allocation policy developed under section 24905(c);
+&emsp;&emsp;(B) integrate the individual capital plans developed by Amtrak, States, and commuter authorities in accordance with the cost allocation policy developed and approved under section 24905(c);
 
-&emsp;&emsp;(C) cover a period of 5 fiscal years, beginning with the first fiscal year after the date on which the plan is completed;
+&emsp;&emsp;(C) cover a period of 5 fiscal years, beginning with the fiscal year during which the plan is submitted;
 
-&emsp;&emsp;(D) notwithstanding section 24902(b), identify, prioritize, and phase the implementation of projects and programs to achieve the service outcomes identified in the Northeast Corridor service development plan and the asset condition needs identified in the Northeast Corridor asset management plans, once available, and consider—
+&emsp;&emsp;(D) notwithstanding section 24902(b), document the projects and programs being undertaken to advance the service objectives and capital investments identified in the Northeast Corridor service development plan developed under subsection (a), and the asset condition needs identified in the Northeast Corridor asset management plans, after considering—
 
 &emsp;&emsp;&emsp;(i) the benefits and costs of capital investments in the plan;
 
@@ -32,95 +70,87 @@ Contents.—The capital investment plan shall—
 
 &emsp;&emsp;&emsp;(iv) Federal and non-Federal funding availability;
 
-&emsp;&emsp;(E) categorize capital projects and programs as primarily associated with—
+&emsp;&emsp;(E) categorize capital projects and programs as primarily associated with 1 of the categories listed under section 24319(c)(2)(C);
 
-&emsp;&emsp;&emsp;(i) normalized capital replacement and basic infrastructure renewals;
+&emsp;&emsp;(F) identify capital projects and programs that are associated with more than 1 category described in subparagraph (E); and
 
-&emsp;&emsp;&emsp;(ii) replacement or rehabilitation of major Northeast Corridor infrastructure assets, including tunnels, bridges, stations, and other assets;
+&emsp;&emsp;(G) include a financial plan that identifies—
 
-&emsp;&emsp;&emsp;(iii) statutory, regulatory, or other legal mandates;
+&emsp;&emsp;&emsp;(i) funding sources and financing methods;
 
-&emsp;&emsp;&emsp;(iv) improvements to support service enhancements or growth; or
+&emsp;&emsp;&emsp;(ii) the status of cost sharing agreements pursuant to the cost allocation policy developed under section 24905(c);
 
-&emsp;&emsp;&emsp;(v) strategic initiatives that will improve overall operational performance or lower costs;
+&emsp;&emsp;&emsp;(iii) the projects and programs that the Commission expects will receive Federal financial assistance; and
 
-&emsp;&emsp;(F) identify capital projects and programs that are associated with more than 1 category described in subparagraph (E);
+&emsp;&emsp;&emsp;(iv) the eligible entity or entities that the Commission expects—
 
-&emsp;&emsp;(G) describe the anticipated outcomes of each project or program, including an assessment of—
+&emsp;&emsp;&emsp;&emsp;(I) to receive the Federal financial assistance referred to in clause (iii); and
 
-&emsp;&emsp;&emsp;(i) the potential effect on passenger accessibility, operations, safety, reliability, and resiliency;
-
-&emsp;&emsp;&emsp;(ii) the ability of infrastructure owners and operators to meet regulatory requirements if the project or program is not funded; and
-
-&emsp;&emsp;&emsp;(iii) the benefits and costs; and
-
-&emsp;&emsp;(H) include a financial plan.
+&emsp;&emsp;&emsp;&emsp;(II) to implement each capital project.
 
 &emsp;(3)
 
-Financial plan.—The financial plan under paragraph (2)(H) shall—
-
-&emsp;&emsp;(A) identify funding sources and financing methods;
-
-&emsp;&emsp;(B) identify the expected allocated shares of costs pursuant to the cost allocation policy developed under section 24905(c);
-
-&emsp;&emsp;(C) identify the projects and programs that the Commission expects will receive Federal financial assistance; and
-
-&emsp;&emsp;(D) identify the eligible entity or entities that the Commission expects will receive the Federal financial assistance described under subparagraph (C) and implement each capital project.
-
-(b)
-
-Failure To Develop a Capital Investment Plan.—If a capital investment plan has not been developed by the Commission for a given fiscal year, then the funds assigned to the Northeast Corridor account established under section 24317(b) for that fiscal year may be spent only on—
-
-&emsp;(1) capital projects described in clause (i) or (iii) of subsection (a)(2)(E) of this section; or
-
-&emsp;(2) capital projects described in subsection (a)(2)(E)(iv) or (v) of this section that are for the sole benefit of Amtrak.
+Review and coordination.—The Commission shall require that the information described in paragraph (2) be submitted in a timely manner to allow for a reasonable period of review by, and coordination with, affected agencies before the Commission submits the capital investment plan pursuant to paragraph (1).
 
 (c)
 
-Northeast Corridor Asset Management.—
-
-&emsp;(1)
-
-Contents.—With regard to its infrastructure, Amtrak and each State and public transportation entity that owns infrastructure that supports or provides for intercity rail passenger transportation on the Northeast Corridor shall develop an asset management system and develop and update, as necessary, a Northeast Corridor asset management plan for each service territory described in subsection (a) that—
-
-&emsp;&emsp;(A) is consistent with the Federal Transit Administration process, as authorized under section 5326, when implemented; and
-
-&emsp;&emsp;(B) includes, at a minimum—
-
-&emsp;&emsp;&emsp;(i) an inventory of all capital assets owned by the developer of the asset management plan;
-
-&emsp;&emsp;&emsp;(ii) an assessment of asset condition;
-
-&emsp;&emsp;&emsp;(iii) a description of the resources and processes necessary to bring or maintain those assets in a state of good repair, including decision-support tools and investment prioritization methods; and
-
-&emsp;&emsp;&emsp;(iv) a description of changes in asset condition since the previous version of the plan.
-
-&emsp;(2)
-
-Transmittal.—Each entity described in paragraph (1) shall transmit to the Commission—
-
-&emsp;&emsp;(A) not later than 2 years after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, a Northeast Corridor asset management plan developed under paragraph (1); and
-
-&emsp;&emsp;(B) at least biennially thereafter, an update to such plan.
+Failure To Develop a Capital Investment Plan.—If a capital investment plan has not been developed by the Commission for a given fiscal year, then the funds assigned to the Northeast Corridor account established under section 24317(b) for that fiscal year may be spent only on capital projects and programs contained in the Commission's capital investment plan for the prior fiscal year.
 
 (d)
 
-Northeast Corridor Service Development Plan Updates.—Not less frequently than once every 10 years, the Commission shall update the Northeast Corridor service development plan.
+Northeast Corridor Capital Asset Management System.—
+
+&emsp;(1)
+
+In general.—Amtrak and other infrastructure owners that provide or support intercity rail passenger transportation along the Northeast Corridor shall develop an asset management system and use and update such system, as necessary, to develop submissions to the Northeast Corridor capital investment plan described in subsection (b).
+
+&emsp;(2)
+
+Features.—The system required under paragraph (1) shall develop submissions that—
+
+&emsp;&emsp;(A) are consistent with the transit asset management system (as defined in section 5326(a)(3)); and
+
+&emsp;&emsp;(B) include—
+
+&emsp;&emsp;&emsp;(i) an inventory of all capital assets owned by the developer of the plan;
+
+&emsp;&emsp;&emsp;(ii) an assessment of condition of such capital assets;
+
+&emsp;&emsp;&emsp;(iii) a description of the resources and processes that will be necessary to bring or to maintain such capital assets in a state of good repair; and
+
+&emsp;&emsp;&emsp;(iv) a description of changes in the condition of such capital assets since the submission of the prior version of the plan.
 
 (e)
 
-Definition of Northeast Corridor.—In this section, the term "Northeast Corridor" means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
+Definition of Northeast Corridor.—In this section, the term "Northeast Corridor"means the main line between Boston, Massachusetts, and the District of Columbia, and the Northeast Corridor branch lines connecting to Harrisburg, Pennsylvania, Springfield, Massachusetts, and Spuyten Duyvil, New York, including the facilities and services used to operate and maintain those lines.
 
-(Added Pub. L. 114–94, div. A, title XI, §11306(a)(2), Dec. 4, 2015, 129 Stat. 1658.)
+(Added Pub. L. 114–94, div. A, title XI, §11306(a)(2), Dec. 4, 2015, 129 Stat. 1658; amended Pub. L. 117–58, div. B, title II, §22301, Nov. 15, 2021, 135 Stat. 714.)
 
-#### References in Text
-
-The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (c)(2)(A), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 24904 was renumbered section 24903 of this title.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §22301(1), (3), added subsec. (a) and struck out former subsec. (a), which required Northeast Corridor Commission to develop Northeast Corridor capital investment and financial plans.
+
+Subsec. (b). Pub. L. 117–58, §22301(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 117–58, §22301(2), (4), redesignated subsec. (b) as (c) and substituted "spent only on capital projects and programs contained in the Commission's capital investment plan for the prior fiscal year." for "spent only on—
+
+&emsp;"(1) capital projects described in clause (i) or (iii) of subsection (a)(2)(E) of this section; or
+
+&emsp;"(2) capital projects described in subsection (a)(2)(E)(iv) or (v) of this section that are for the sole benefit of Amtrak."
+
+> Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–58, §22301(5), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to development of Northeast Corridor asset management system and Northeast Corridor asset management plan for each service territory.
+
+Pub. L. 117–58, §22301(1), (2), redesignated subsec. (c) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "Not less frequently than once every 10 years, the Commission shall update the Northeast Corridor service development plan."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

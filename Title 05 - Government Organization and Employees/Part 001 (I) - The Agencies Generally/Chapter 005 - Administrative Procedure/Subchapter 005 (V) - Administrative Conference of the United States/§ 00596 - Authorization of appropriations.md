@@ -40,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1978</b>—Pub. L. 95–293 substituted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979, Sept. 30, 1980, Sept. 30, 1981, and Sept. 30, 1982, of $1,700,000, $2,000,000, $2,300,000, and $2,300,000, respectively, for provisions authorizing appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, June 30, 1977, and June 30, 1978, of $760,000, $805,000, $850,000, $900,000, and $950,000, respectively, and provisions authorizing for each fiscal year thereafter such sums as may be necessary.
 
-<b>1972</b>—Pub. L. 92–526 substituted provisions authorizing to be appropriated necessary sums not in excess of $760,000 for fiscal year ending June 30, 1974, $805,000 forfiscal year ending June 30, 1975, $850,000 for fiscal year ending June 30, 1976, $900,000 for fiscal year ending June 30, 1977, and $950,000 for fiscal year ending June 30, 1978, and each fiscal year thereafter, for provisions authorizing to be appropriated necessary sums, not in excess of $450,000 per annum.
+<b>1972</b>—Pub. L. 92–526 substituted provisions authorizing to be appropriated necessary sums not in excess of $760,000 for fiscal year ending June 30, 1974, $805,000 for fiscal year ending June 30, 1975, $850,000 for fiscal year ending June 30, 1976, $900,000 for fiscal year ending June 30, 1977, and $950,000 for fiscal year ending June 30, 1978, and each fiscal year thereafter, for provisions authorizing to be appropriated necessary sums, not in excess of $450,000 per annum.
 
 <b>1969</b>—Pub. L. 91–164 substituted "$450,000 per annum" for "$250,000".
 

@@ -40,6 +40,8 @@ In subsection (b), the word "services" is substituted for the word "facilities".
 
 In subsection (c), the words "the authority of" and "the payments of" are omitted as surplusage. The words "at the time of reimbursement" are substituted for the word "current".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–150 struck out "; death while outside United States" in section catchline.

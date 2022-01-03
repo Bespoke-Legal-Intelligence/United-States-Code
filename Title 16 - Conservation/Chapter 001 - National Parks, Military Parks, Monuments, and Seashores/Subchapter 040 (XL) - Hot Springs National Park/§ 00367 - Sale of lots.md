@@ -4,6 +4,8 @@ The Secretary of the Interior may direct the public sale of all unsold Governmen
 
 (Mar. 3, 1891, ch. 533, §7, 26 Stat. 844; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1407.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Hot Springs National Park" substituted in text for "Hot Springs Reservation" pursuant to act Mar. 4, 1921.

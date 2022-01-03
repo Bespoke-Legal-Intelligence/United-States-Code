@@ -356,7 +356,7 @@ Privacy protections.—
 
 &emsp;&emsp;(A)
 
-Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the records only to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
+Use of records.—An air carrier that accesses records pertaining to an individual under paragraph (1) may use the recordsonly to assess the qualifications of the individual in deciding whether or not to hire the individual as a pilot. The air carrier shall take such actions as may be necessary to protect the privacy of the individual and the confidentiality of the records accessed, including ensuring that information contained in the records is not divulged to any individual that is not directly involved in the hiring decision.
 
 &emsp;&emsp;(B)
 
@@ -594,6 +594,8 @@ In subsection (f)(1), before clause (A), the words "established under this chapt
 
 In subsection (f)(2), the words "Not later than September 18, 1989" and "final" are omitted as obsolete. The words "Administrator of Drug Enforcement" are substituted for "Drug Enforcement Administration of the Department of Justice" because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words "Commissioner of Customs" are substituted for "United States Customs Service" because of 19:2071.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (c)(1), (3), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
@@ -646,21 +648,27 @@ Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section ident
 
 <b>2000</b>—Subsecs. (c) to (g). Pub. L. 106–181 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (g)(2) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub.L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
+Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendments made by section 6 of Pub. L. 111–249 are effective as of Aug. 1, 2010, and as if included in Pub. L. 111–216 as enacted.
 
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Termination Date
+
+Subsec. (h) of this section ceases to be effective beginning on Sept. 9, 2024, see 14 C.F.R. §111.5(b).
+
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
@@ -996,7 +1004,7 @@ Consultations.—In carrying out paragraph (1), the Administrator shall consult 
 
 &emsp;"(3)
 
-Report required.—Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee onTransportation and Infrastructure of the House of Representatives\] a report listing the medical conditions that have been added to the CACI program under paragraph (1).
+Report required.—Not later than 180 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress \[Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives\] a report listing the medical conditions that have been added to the CACI program under paragraph (1).
 
 "(g)
 
@@ -1124,7 +1132,7 @@ Required information from individual.—The individual may obtain the informatio
 
 &emsp;&emsp;&emsp;"(iii)
 
-Provision of information to individual.—If the Administrator receives a requestunder this subparagraph, the Administrator shall—
+Provision of information to individual.—If the Administrator receives a request under this subparagraph, the Administrator shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) request the contractor to provide the requested information; and
 

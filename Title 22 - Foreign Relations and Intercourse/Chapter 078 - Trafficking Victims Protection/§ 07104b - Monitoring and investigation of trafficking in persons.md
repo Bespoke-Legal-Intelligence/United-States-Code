@@ -28,7 +28,7 @@ Upon completion of an investigation under subsection (a), the Inspector General 
 
 &emsp;&emsp;(B) Requiring the recipient to terminate a subcontract or subgrant.
 
-&emsp;&emsp;(C) Suspending payments under the grant, contract, or cooperative agreement until such time as the recipient of the grant, contract, or cooperative agreement has taken appropriate remedial action.
+&emsp;&emsp;(C) Suspending payments under the grant, contract, or cooperative agreement untilsuch time as the recipient of the grant, contract, or cooperative agreement has taken appropriate remedial action.
 
 &emsp;&emsp;(D) Withholding award fees, consistent with the award fee plan, for the performance period in which the agency determined the contractor or subcontractor engaged in any of the activities described in such section 7104(g) of this title.
 

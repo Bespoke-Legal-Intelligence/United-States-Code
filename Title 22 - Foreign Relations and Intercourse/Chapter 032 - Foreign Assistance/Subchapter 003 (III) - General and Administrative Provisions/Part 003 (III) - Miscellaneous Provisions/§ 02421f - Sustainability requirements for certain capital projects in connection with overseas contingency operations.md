@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) amounts authorized to be appropriated for the Department of State may not be obligated or expended for a capital project described in subsection (b) unless the Secretary of State, in consultation with the Chief of Mission in the country in which the project will be carried out, completes an assessment on the necessity and sustainability of the project; and
 
-&emsp;&emsp;(C) amounts authorized to be appropriated for the United States Agency for International Development may not be obligated or expended for a capital project described in subsection (b) unless the Administrator of the United States Agency for International Development, in consultation with the Mission Director and the Chief of Mission in the country in which the project will be carriedout, completes an assessment on the necessity and sustainability of the project.
+&emsp;&emsp;(C) amounts authorized to be appropriated for the United States Agency for International Development may not be obligated or expended for a capital project described in subsection (b) unless the Administrator of the United States Agency for International Development, in consultation with the Mission Director and the Chief of Mission in the country in which the project will be carried out, completes an assessment on the necessity and sustainability of the project.
 
 #### (2) Elements
 
@@ -66,7 +66,7 @@ The Secretary of Defense, the Secretary of State, or the Administrator of the Un
 
 &emsp;&emsp;&emsp;(iii) The current and anticipated levels of involvement of local governments, communities, and individuals in the project.
 
-&emsp;&emsp;(B) For each country or region in which a capital project covered by such report is being carried out, an assessment of the current and anticipated risks of corruption or fraud in connection with such project.
+&emsp;&emsp;(B) For each country or region in which a capital project covered by such report isbeing carried out, an assessment of the current and anticipated risks of corruption or fraud in connection with such project.
 
 #### (3) Form
 
@@ -84,7 +84,7 @@ In this section:
 
 &emsp;(2) The term "capital project" has the meaning given that term in section 2421e of this title.
 
-&emsp;(3) The term "overseas contingency operation" means a military operation outside theUnited States and its territories and possessions that is a contingency operation (as that term is defined in section 101(a)(13) of title 10).
+&emsp;(3) The term "overseas contingency operation" means a military operation outside the United States and its territories and possessions that is a contingency operation (as that term is defined in section 101(a)(13) of title 10).
 
 (Pub. L. 112–239, div. A, title XII, §1273, Jan. 2, 2013, 126 Stat. 2023.)
 

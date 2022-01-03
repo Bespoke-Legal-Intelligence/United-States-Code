@@ -14,6 +14,8 @@ Until Congress shall provide for the government of such islands, all civil, judi
 
 (Feb. 20, 1929, ch. 281, 45 Stat. 1253; May 22, 1929, ch. 6, 46 Stat. 4.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The existing laws of the United States relative to public lands, referred to in subsec. (b), are classified generally to Title 43, Public Lands.
@@ -27,6 +29,8 @@ Section was formerly classified to section 1431a of this title.
 #### Amendments
 
 <b>1929</b>—Subsec. (d). Act May 22, 1929, substituted "seven" and "three" for "six" and "two", respectively, and inserted "or high chiefs" after "chiefs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authority of Guam, American Samoa, and the Northern Mariana Islands To Enact Revenue Laws
 

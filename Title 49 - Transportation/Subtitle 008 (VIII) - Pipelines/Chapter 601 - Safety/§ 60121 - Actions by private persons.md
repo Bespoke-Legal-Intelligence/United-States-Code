@@ -8,7 +8,7 @@ General Authority.—(1) A person may bring a civil action in an appropriate dis
 
 &emsp;(B) may not bring the action if the Secretary or authority has begun and diligently is pursuing an administrative proceeding for the violation; and
 
-&emsp;(C) may not bring the action if the Attorney General of the United States, or the chief lawenforcement officer of a State, has begun and diligently is pursuing a judicial proceeding for the violation.
+&emsp;(C) may not bring the action if the Attorney General of the United States, or the chief law enforcement officer of a State, has begun and diligently is pursuing a judicial proceeding for the violation.
 
 (2) The Secretary shall prescribe the way in which notice is given under this subsection.
 
@@ -28,7 +28,7 @@ State Violations as Violations of This Chapter.—In this section, a violation o
 
 (d)
 
-Additional Remedies.—A remedy under this section is in addition to any other remedies provided by law. This section does not restrict a right to relief that a person or a class of persons may have under another law or at common law.
+Additional Remedies.—A remedy under this section is in addition to any other remedies provided by law. This section does not restrict aright to relief that a person or a class of persons may have under another law or at common law.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1324.)
 

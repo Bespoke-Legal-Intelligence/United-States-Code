@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, "controlled substance" means any substance under section102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
+Definition.—In this section, "controlled substance" means any substance under section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802) specified by the Secretary of Transportation.
 
 (b)
 
@@ -106,9 +106,17 @@ In subsection (c)(4), the words "by any employee" are omitted as surplus.
 
 In subsection (c)(5), the word "tested" is substituted for "assayed" for consistency. The words "2d confirmation test" are substituted for "independent test" for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (b)(1)(A). Pub. L. 104–59 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "a railroad carrier to conduct preemployment, reasonable suspicion, random, and post-accident testing of all railroad employees responsible for safety-sensitive functions (as decided by the Secretary) for the use of alcohol or a controlled substance in violation of law or a United States Government regulation; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Controlled Substances Testing for Mechanical Employees
+
+Pub. L. 117–58, div. B, title II, §22427, Nov. 15, 2021, 135 Stat. 756, provided that: "Not later than 180 days after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall amend the regulations under part 219 of title 49, Code of Federal Regulations, to require all mechanical employees of railroads to be subject to all of the breath or body fluid testing set forth in subpart C, D, and E of such part, including random testing, reasonable suspicion testing, reasonable cause testing, pre-employment testing, return-to-duty testing, and follow-up testing."
 
 #### Alcohol and Controlled Substance Testing of Mechanical Employees
 

@@ -26,7 +26,7 @@ Testimony of Witnesses.—
 
 &emsp;(1)
 
-Procedure for taking testimony.—In a proceeding under this part, the Secretary may take the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending under this part may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
+Procedure for taking testimony.—In a proceeding under this part, the Secretary maytake the testimony of a witness by deposition and may order the witness to produce records. A party to a proceeding pending under this part may take the testimony of a witness by deposition and may require the witness to produce records at any time after a proceeding is at issue on petition and answer.
 
 &emsp;(2)
 
@@ -58,11 +58,43 @@ Powers of Board.—For those provisions of this part that are specified to be ca
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 856.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10321 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
+
+#### Broker Guidance Relating to Federal Motor Carrier Safety Regulations
+
+Pub. L. 117–58, div. B, title III, §23021, Nov. 15, 2021, 135 Stat. 777, provided that:
+
+"(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary \[of Transportation\] shall issue guidance to clarify the definitions of the terms 'broker' and 'bona fide agents' in section 371.2 of title 49, Code of Federal Regulations.
+
+"(b)
+
+Considerations.—In issuing guidance under subsection (a), the Secretary shall take into consideration—
+
+&emsp;"(1) the extent to which technology has changed the nature of freight brokerage;
+
+&emsp;"(2) the role of bona fide agents; and
+
+&emsp;"(3) other aspects of the freight transportation industry.
+
+"(c)
+
+Dispatch Services.—In issuing guidance under subsection (a), the Secretary shall, at a minimum—
+
+&emsp;"(1) examine the role of a dispatch service in the transportation industry;
+
+&emsp;"(2) examine the extent to which dispatch services could be considered brokers or bona fide agents; and
+
+&emsp;"(3) clarify the level of financial penalties for unauthorized brokerage activities under section 14916 of title 49, United States Code, applicable to a dispatch service."
 

@@ -30,7 +30,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 &emsp;&emsp;&emsp;(iv) entering into an exclusive contract that is permitted under subparagraph (D);
 
-&emsp;&emsp;(C) prohibit practices, understandings, arrangements, and activities, including exclusive contracts for satellite cable programming or satellite broadcast programming between a cable operator and a satellite cable programming vendor or satellite broadcast programming vendor, that prevent a multichannel video programming distributor from obtaining such programming from any satellite cable programming vendor in which a cable operator has an attributable interestor any satellite broadcast programming vendor in which a cable operator has an attributable interest for distribution to persons in areas not served by a cable operator as of October 5, 1992; and
+&emsp;&emsp;(C) prohibit practices, understandings, arrangements, and activities, including exclusive contracts for satellite cable programming or satellite broadcast programming between a cable operator and a satellite cable programming vendor or satellite broadcast programming vendor, that prevent a multichannel video programming distributor from obtaining such programming from any satellite cable programming vendor in which a cable operator has an attributable interest or any satellite broadcast programming vendor in which a cable operator has an attributable interest for distribution to persons in areas not served by a cable operator as of October 5, 1992; and
 
 &emsp;&emsp;(D) with respect to distribution to persons in areas served by a cable operator, prohibit exclusive contracts for satellite cable programming or satellite broadcast programming between a cable operator and a satellite cable programming vendor in which a cable operator has an attributable interest or a satellite broadcast programming vendor in which a cable operator has an attributable interest, unless the Commission determines (in accordance with paragraph (4)) that such contract is in the public interest.
 
@@ -108,7 +108,7 @@ As used in this section:
 
 &emsp;(2) The term "satellite cable programming vendor" means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
 
-&emsp;(3) The term "satellite broadcast programming" means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
+&emsp;(3) The term "satellite broadcast programming" means broadcast video programmingwhen such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
 
 &emsp;(4) The term "satellite broadcast programming vendor" means a fixed service satellite carrier that provides service pursuant to section 119 of title 17 with respect to satellite broadcast programming.
 

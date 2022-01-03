@@ -114,11 +114,13 @@ In implementing section 1853(a)(11) of this title and this section, the North Pa
 
 (7) An individual processing quota issued under the Program shall be considered a permit for the purposes of sections 1857, 1858, and 1859 of this title, and may be revoked or limited at any time in accordance with this chapter. Issuance of an individual processing quota under the program shall not confer any right of compensation to the holder of such individual processing quota if it is revoked or limited and shall not create, or be construed to create, any right, title, or interest in or to any fish before the fish is purchased from an individual fishing quota holder.
 
-(8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply whenthe information is used to determine eligibility for or compliance with an individual processing quota program.
+(8) The restriction on the collection of economic data in section 1853 of this title shall not apply with respect to any fish processor who is eligible for, or who has received, individual processing quota under the Program. The restriction on the disclosure of information in section 1881a(b)(1) of this title shall not apply when the information is used to determine eligibility for or compliance with an individual processing quota program.
 
-(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisions of subparagraphs (D), (E), and (L) of section 1857(l) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
+(9) The provisions of sections 1858, 1860, and 1861 of this title shall apply to the processing facilities and fish products of any person holding individual processing quota, and the provisionsof subparagraphs (D), (E), and (L) of section 1857(l) <sup>3</sup> of this title shall apply to any facility owned or controlled by a person holding individual processing quota.
 
 (Pub. L. 94–265, title III, §313, as added Pub. L. 101–627, title I, §118(a), Nov. 28, 1990, 104 Stat. 4457; amended Pub. L. 102–582, title IV, §404, Nov. 2, 1992, 106 Stat. 4909; Pub. L. 104–297, title I, §117(a), Oct. 11, 1996, 110 Stat. 3603; Pub. L. 108–199, div. B, title VIII, §801, Jan. 23, 2004, 118 Stat. 108; Pub. L. 109–479, title II, §214, Jan. 12, 2007, 120 Stat. 3619.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

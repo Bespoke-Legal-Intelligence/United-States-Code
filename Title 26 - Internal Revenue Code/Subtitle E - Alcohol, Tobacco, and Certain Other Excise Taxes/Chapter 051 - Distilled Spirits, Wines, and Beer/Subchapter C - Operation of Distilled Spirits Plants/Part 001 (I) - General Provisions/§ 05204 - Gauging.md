@@ -10,9 +10,11 @@ For the determination of tax and the prevention and detection of frauds, the Sec
 
 #### (c) Gauging, marking, and branding by proprietors
 
-The Secretary may by regulations require the proprietor of a distilled spirits plant, at the proprietor's expense and under such supervision asthe Secretary may require, to do such gauging, marking, and branding and such mechanical labor pertaining thereto as the Secretary deems proper and determines may be done without danger to the revenue.
+The Secretary may by regulations require the proprietor of a distilled spirits plant, at the proprietor's expense and under such supervision as the Secretary may require, to do such gauging, marking, and branding and such mechanical labor pertaining thereto as the Secretary deems proper and determines may be done without danger to the revenue.
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1358; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(23), July 26, 1979, 93 Stat. 283; Pub. L. 98–369, div. A, title IV, §454(c)(4), July 18, 1984, 98 Stat. 821.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -35,6 +37,8 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 633, 63
 <b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out ", in addition to those specified in section 5202(f)," after "spirits for such purposes".
 
 <b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

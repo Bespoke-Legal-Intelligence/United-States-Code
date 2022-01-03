@@ -34,7 +34,7 @@ Integrated defined benefit plan.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A defined benefit plan shall not be considered discriminatory within the meaning of paragraph (4) merely because the plan provides that the employer-derived accrued retirement benefit for any participant under the plan may not exceed the excess (if any) of—
+In general.—A defined benefit plan shall not be considered discriminatory within the meaning of paragraph (4) merely because the plan provides that the employer-derived accrued retirement benefitfor any participant under the plan may not exceed the excess (if any) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the participant's final pay with the employer, over
 
@@ -224,7 +224,7 @@ Special rule in case of certain trusts for disabled or chronically ill beneficia
 
 &emsp;&emsp;&emsp;&emsp;(I) it is to be divided immediately upon the death of the employee into separate trusts for each beneficiary, or
 
-&emsp;&emsp;&emsp;&emsp;(II) no individual (other than a <sup>1</sup> eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee's interest in the plan until the death of allsuch eligible designated beneficiaries with respect to the trust,
+&emsp;&emsp;&emsp;&emsp;(II) no individual (other than a <sup>1</sup> eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee's interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
 
 &emsp;&emsp;&nbsp;for purposes of a trust described in subclause (I), clause (ii) shall be applied separately with respect to the portion of the employee's interest that is payable to any eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii); and, for purposes of a trust described in subclause (II), subparagraph (B)(iii) shall apply to the distribution of the employee's interest and any beneficiary who is not such an eligible designated beneficiary shall be treated as a beneficiary of the eligible designated beneficiary upon the death of such eligible designated beneficiary.
 
@@ -322,7 +322,7 @@ Plans to which paragraph applies.—This paragraph shall apply to—
 
 &emsp;&emsp;&emsp;(iii) any participant under any other defined contribution plan unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there isno surviving spouse or the surviving spouse consents in the manner required under section 417(a)(2), to a designated beneficiary),
+&emsp;&emsp;&emsp;&emsp;(I) such plan provides that the participant's nonforfeitable accrued benefit (reduced by any security interest held by the plan by reason of a loan outstanding to such participant) is payable in full, on the death of the participant, to the participant's surviving spouse (or, if there is no surviving spouse or the surviving spouse consents in the manner required under section 417(a)(2), to a designated beneficiary),
 
 &emsp;&emsp;&emsp;&emsp;(II) such participant does not elect a payment of benefits in the form of a life annuity, and
 
@@ -392,7 +392,7 @@ Special rule for certain judgments and settlements.—Subparagraph (A) shall not
 
 &emsp;&emsp;&emsp;&emsp;(III) pursuant to a settlement agreement between the Secretary of Labor and the participant, or a settlement agreement between the Pension Benefit Guaranty Corporation and the participant, in connection with a violation (or alleged violation) of part 4 of such subtitle by a fiduciary or any other person,
 
-&emsp;&emsp;&emsp;(ii) the judgment, order, decree, or settlement agreement expressly provides forthe offset of all or part of the amount ordered or required to be paid to the plan against the participant's benefits provided under the plan, and
+&emsp;&emsp;&emsp;(ii) the judgment, order, decree, or settlement agreement expressly provides for the offset of all or part of the amount ordered or required to be paid to the plan against the participant's benefits provided under the plan, and
 
 &emsp;&emsp;&emsp;(iii) in a case in which the survivor annuity requirements of section 401(a)(11) apply with respect to distributions from the plan to the participant, if the participant has a spouse at the time at which the offset is to be made—
 
@@ -456,7 +456,7 @@ In general.—A trust shall not constitute a qualified trust under this section 
 
 &emsp;&emsp;(B)
 
-Cost-of-living adjustment.—The Secretary shall adjust annually the $200,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period shall be the calendar quarter beginning July 1,2001, and any increase which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
+Cost-of-living adjustment.—The Secretary shall adjust annually the $200,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period shall be the calendar quarter beginning July 1, 2001, and any increase which is not a multiple of $5,000 shall be rounded to the next lowest multiple of $5,000.
 
 &emsp;\[(18) Repealed. Pub. L. 97–248, title II, §237(b), Sept. 3, 1982, 96 Stat. 511.\]
 
@@ -596,7 +596,7 @@ Diversification of investments.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A plan meets the requirements of this subparagraph if each qualified participant in the plan may elect within 90 days after the close of each plan year in the qualified election period to direct the plan as to the investment of at least 25 percent of the participant's account in the plan (to the extent such portion exceeds the amount to which a prior election under this subparagraph applies). In the case of the election year in which the participant can make his last election, the preceding sentence shall be applied by substituting "50 percent" for "25 percent".
+In general.—A plan meets the requirements of this subparagraph if each qualified participant in the plan may elect within 90 days after the close of each plan year in the qualified election period to direct the plan as to the investment of atleast 25 percent of the participant's account in the plan (to the extent such portion exceeds the amount to which a prior election under this subparagraph applies). In the case of the election year in which the participant can make his last election, the preceding sentence shall be applied by substituting "50 percent" for "25 percent".
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -868,7 +868,7 @@ Employee stock ownership plan.—The term "employee stock ownership plan" has th
 
 &emsp;&emsp;&emsp;(v)
 
-Publicly traded employer securities.—The term "publicly traded employer securities" means employer securities which are readily tradable on an established securities market.
+Publicly traded employer securities.—The term "publicly traded employersecurities" means employer securities which are readily tradable on an established securities market.
 
 &emsp;&emsp;&emsp;(vi)
 
@@ -966,7 +966,7 @@ Definitions.—For purposes of this subsection—
 
 #### (2) Adoption of plan
 
-&emsp;If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after theclose of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year.
+&emsp;If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year.
 
 #### (c) Definitions and rules relating to self-employed individuals and owner-employees
 
@@ -1046,7 +1046,7 @@ A trust forming part of a pension or profit-sharing plan which provides contribu
 
 #### (f) Certain custodial accounts and contracts
 
-For purposes of this title, a custodial account, an annuity contract, or a contract (other than alife, health or accident, property, casualty, or liability insurance contract) issued by an insurance company qualified to do business in a State shall be treated as a qualified trust under this section if—
+For purposes of this title, a custodial account, an annuity contract, or a contract (other than a life, health or accident, property, casualty, or liability insurance contract) issued by an insurance company qualified to do business in a State shall be treated as a qualified trust under this section if—
 
 &emsp;(1) the custodial account or contract would, except for the fact that it is not a trust, constitute a qualified trust under this section, and
 
@@ -1144,7 +1144,7 @@ In the case of a trust forming part of a pension plan which has been determined 
 
 &emsp;&emsp;&nbsp;If 2 or more plans which include cash or deferred arrangements are considered as 1 plan for purposes of section 401(a)(4) or 410(b), the cash or deferred arrangements included in such plans shall be treated as 1 arrangement for purposes of this subparagraph.
 
-> &emsp;&emsp;If any highly compensated employee is a participant under 2 or more cash or deferred arrangements of the employer, for purposes of determining the deferral percentage with respect to such employee, all such cash or deferred arrangements shall be treated as 1 cash or deferred arrangement. An arrangement may apply clause (ii) by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.
+> &emsp;&emsp;If any highly compensated employee is a participant under 2 or more cash or deferred arrangements of the employer, for purposesof determining the deferral percentage with respect to such employee, all such cash or deferred arrangements shall be treated as 1 cash or deferred arrangement. An arrangement may apply clause (ii) by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.
 
 &emsp;&emsp;(B) For purposes of subparagraph (A), the actual deferral percentage for a specified group of employees for a plan year shall be the average of the ratios (calculated separately for each employee in such group) of—
 
@@ -1236,7 +1236,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 &emsp;&emsp;&emsp;&emsp;(I) is engaged primarily in providing electric service on a mutual or cooperative basis, or
 
-&emsp;&emsp;&emsp;&emsp;(II) is engaged primarily in providing electric service to the public in its area of service and which is exempt from taxunder this subtitle or which is a State or local government (or an agency or instrumentality thereof), other than a municipality (or an agency or instrumentality thereof),
+&emsp;&emsp;&emsp;&emsp;(II) is engaged primarily in providing electric service to the public in its area of service and which is exempt from tax under this subtitle or which is a State or local government (or an agency or instrumentality thereof), other than a municipality (or an agency or instrumentality thereof),
 
 &emsp;&emsp;&emsp;(ii) any organization described in paragraph (4) or (6) of section 501(c) and at least 80 percent of the members of which are organizations described in clause (i),
 
@@ -1464,7 +1464,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 #### (ii) Election out
 
-&emsp;&emsp;&emsp;The election treated as having been made under clause (i) shall cease to applywith respect to any employee if such employee makes an affirmative election—
+&emsp;&emsp;&emsp;The election treated as having been made under clause (i) shall cease to apply with respect to any employee if such employee makes an affirmative election—
 
 &emsp;&emsp;&emsp;&emsp;(I) to not have such contributions made, or
 
@@ -1602,7 +1602,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 #### (iv) Employees who become full-time employees
 
-&emsp;&emsp;&emsp;This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of section 410(a)(1)(A)(ii) without regard to paragraph (2)(D)(ii).
+&emsp;&emsp;&emsp;This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning afterthe plan year in which the employee meets the requirements of section 410(a)(1)(A)(ii) without regard to paragraph (2)(D)(ii).
 
 #### (C) Exception for employees under collectively bargained plans, etc.
 
@@ -1632,7 +1632,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 #### (A) In general
 
-&emsp;&emsp;A defined contribution plan meets the requirements of this paragraph if the excesscontribution percentage does not exceed the base contribution percentage by more than the lesser of—
+&emsp;&emsp;A defined contribution plan meets the requirements of this paragraph if the excess contribution percentage does not exceed the base contribution percentage by more than the lesser of—
 
 &emsp;&emsp;&emsp;(i) the base contribution percentage, or
 
@@ -1798,7 +1798,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 #### (6) Special rule for plan maintained by railroads
 
-&emsp;In determining whether a plan which includes employees of a railroad employer who are entitled to benefits under the Railroad Retirement Act of 1974 meets the requirements of this subsection, rules similar to the rules set forth in this subsection shall apply. Such rules shall take into account the employer-derived portion of the employees' tier 2 railroad retirement benefits and any supplemental annuity under the Railroad Retirement Act of 1974.
+&emsp;In determining whether a plan which includes employees of a railroad employer whoare entitled to benefits under the Railroad Retirement Act of 1974 meets the requirements of this subsection, rules similar to the rules set forth in this subsection shall apply. Such rules shall take into account the employer-derived portion of the employees' tier 2 railroad retirement benefits and any supplemental annuity under the Railroad Retirement Act of 1974.
 
 #### (m) Nondiscrimination test for matching contributions and employee contributions
 
@@ -1814,7 +1814,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 &emsp;&emsp;&emsp;(i) 125 percent of such percentage for all other eligible employees for the preceding plan year, or
 
-&emsp;&emsp;&emsp;(ii) the lesser of 200 percent of such percentage for all other eligible employees forthe preceding plan year, or such percentage for all other eligible employees for the preceding plan year plus 2 percentage points.
+&emsp;&emsp;&emsp;(ii) the lesser of 200 percent of such percentage for all other eligible employees for the preceding plan year, or such percentage for all other eligible employees for the preceding plan year plus 2 percentage points.
 
 > &emsp;&emsp;This subparagraph may be applied by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary.
 
@@ -1868,7 +1868,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 #### (C) Special rule for early participation
 
-&emsp;&emsp;If an employer elects to apply section 410(b)(4)(B) in determining whether a plan meets the requirements of section 410(b), the employer may, in determining whether the plan meets the requirements of paragraph (2), exclude from consideration all eligible employees (other than highly compensated employees) who have not met the minimum age and service requirements of section 410(a)(1)(A).
+&emsp;&emsp;If an employer elects to apply section 410(b)(4)(B) in determining whether a plan meets the requirements of section 410(b), the employer may, in determining whether the plan meets the requirements of paragraph (2), exclude from consideration all eligible employees (other than highly compensatedemployees) who have not met the minimum age and service requirements of section 410(a)(1)(A).
 
 #### (6) Plan not disqualified if excess aggregate contributions distributed before end of following plan year
 
@@ -1882,7 +1882,7 @@ Governmental plan.—A governmental plan (within the meaning of section 414(d)) 
 
 &emsp;&emsp;&emsp;(i) the aggregate amount of the matching contributions and employee contributions (and any qualified nonelective contribution or elective contribution taken into account in computing the contribution percentage) actually made on behalf of highly compensated employees for such plan year, over
 
-&emsp;&emsp;&emsp;(ii) the maximum amount of such contributions permitted under the limitationsof paragraph (2)(A) (determined by reducing contributions made on behalf of highly compensated employees in order of their contribution percentages beginning with the highest of such percentages).
+&emsp;&emsp;&emsp;(ii) the maximum amount of such contributions permitted under the limitations of paragraph (2)(A) (determined by reducing contributions made on behalf of highly compensated employees in order of their contribution percentages beginning with the highest of such percentages).
 
 #### (C) Method of distributing excess aggregate contributions
 
@@ -1972,7 +1972,7 @@ The Secretary shall prescribe such rules or regulations as may be necessary to c
 
 &emsp;&emsp;&emsp;(i) for the plan year as of which the class closes and the 2 succeeding plan years, such benefits, rights, and features satisfy the requirements of subsection (a)(4) (without regard to this subparagraph but taking into account the rules of subparagraph (I)),
 
-&emsp;&emsp;&emsp;(ii) after the date as of which the class was closed, any plan amendment whichmodifies the closed class or the benefits, rights, and features provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
+&emsp;&emsp;&emsp;(ii) after the date as of which the class was closed, any plan amendment which modifies the closed class or the benefits, rights, and features provided to such closed class does not discriminate significantly in favor of highly compensated employees, and
 
 &emsp;&emsp;&emsp;(iii) the class was closed before April 5, 2017, or the plan is described in subparagraph (C).
 
@@ -2038,7 +2038,7 @@ The Secretary shall prescribe such rules or regulations as may be necessary to c
 
 &emsp;&emsp;&emsp;(i) who became participants as a result of a merger, acquisition, or similar event which occurred during the 7-year period preceding the date the class is closed, or
 
-&emsp;&emsp;&emsp;(ii) who became participants by reason of a merger of the plan with another planwhich had been in effect for at least 5 years as of the date of the merger,
+&emsp;&emsp;&emsp;(ii) who became participants by reason of a merger of the plan with another plan which had been in effect for at least 5 years as of the date of the merger,
 
 > &emsp;&emsp;shall be disregarded, except that clause (ii) shall apply for purposes of subparagraph (D) only if, under the merger, the benefits, rights, or features under 1 plan are conformed to the benefits, rights, or features of the other plan prospectively.
 
@@ -2142,11 +2142,13 @@ The Secretary shall prescribe such rules or regulations as may be necessary to c
 
 &emsp;&emsp;<b>For exemption from tax of a trust qualified under this section, see section 501(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 134; Pub. L. 87–792, §2, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–863, §2(a), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §219(a), Feb. 26, 1964, 78 Stat. 57; Pub. L. 89–97, title I, §106(d)(4), July 30, 1965, 79 Stat. 337; Pub. L. 89–809, title II, §§204(b)(1), (c), 205(a), Nov. 13, 1966, 80 Stat. 1577, 1578; Pub. L. 91–691, §1(a), Jan. 12, 1971, 84 Stat. 2074; Pub. L. 93–406, title II, §§1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, 88 Stat. 913, 929, 935, 938–940, 943, 952–955, 957, 979; Pub. L. 94–267, §1(c)(1), (2), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title VIII, §803(b)(2), title XV, §1505(b), title XIX, §§1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1738, 1773, 1834; Pub. L. 95–600, title I, §§135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, 92 Stat. 2785, 2795, 2796, 2799; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(V), (9), (14)(E)(iii), Apr. 1, 1980, 94 Stat. 199, 201, 205; Pub. L. 96–364, title II, §208(a), (e), title IV, §410(b), Sept. 26, 1980, 94 Stat. 1289, 1290, 1308; Pub. L. 96–605, title II, §§221(a), 225(b)(1), (2), Dec. 28, 1980, 94 Stat. 3528, 3529; Pub. L. 97–34, title III, §§312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, 95 Stat. 283–286, 297, 298; Pub. L. 97–248, title II, §§237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, 96 Stat. 511–513, 520, 521, 527, 533; Pub. L. 97–448, title I, §103(c)(10)(A), (d)(2), (g)(2)(A), title III, §306(a)(12), Jan. 12, 1983, 96 Stat. 2377–2379, 2405; Pub. L. 98–21, title I, §124(c)(4)(A), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–369, div. A, title II, §211(b)(5), title IV, §§474(r)(13), 491(e)(4), (5), title V, §§521(a), 524(d)(1), 527(a), (b), 528(b), title VII, §713(c)(2)(A), (d)(3), July 18, 1984, 98 Stat. 754, 842, 853, 865, 872, 875–877, 957, 958; Pub. L. 98–397, title II, §§203(a), 204(a), title III, §301(b), Aug. 23, 1984, 98 Stat. 1440, 1445, 1451; Pub. L. 99–514, title XI, §§1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, 100 Stat. 2423, 2435, 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; Pub. L. 100–203, title IX, §9341(a), Dec. 22, 1987, 101 Stat. 1330–369; Pub. L. 100–647, title I, §§1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, 102 Stat. 3458–3460, 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; Pub. L. 101–140, title II,§203(a)(5), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2354, 2409, 2421, 2442; Pub. L. 101–508, title XII, §12011(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 102–318, title V, §§521(b)(5)–(8), 522(a)(1), July 3, 1992, 106 Stat. 310, 313; Pub. L. 103–66, title XIII, §13212(a), Aug. 10, 1993, 107 Stat. 471; Pub. L. 103–465, title VII, §§732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, 108 Stat. 5004, 5021, 5037, 5048; Pub. L. 104–188, title I, §§1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, 110 Stat. 1789, 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; Pub. L. 105–34, title XV, §§1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, §1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, 111 Stat. 1059, 1063, 1072, 1078, 1088, 1089; Pub. L. 106–554, §1(a)(7) \[title III, §316(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title VI, §§611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, 115 Stat. 97, 99, 120, 122, 126, 135, 143; Pub. L. 107–147, title IV, §411(o)(2), (q)(1), Mar. 9, 2002, 116 Stat. 48, 51; Pub. L. 108–311, title IV, §407(b), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 109–280, title I, §114(a), title VIII, §§827(b)(1), 861(a), (b), title IX, §§901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, 120 Stat. 853, 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; Pub. L. 110–245, title I, §104(a), June 17, 2008, 122 Stat. 1626; Pub. L. 110–458, title I, §§101(d)(2)(A)–(C), 109(a)–(b)(2), title II, §201(a), Dec. 23, 2008, 122 Stat. 5099, 5111, 5116; Pub. L. 111–152, title I, §1004(d)(5), Mar. 30, 2010, 124 Stat. 1036; Pub. L. 113–97, title II, §202(c)(3)(A), (4), (5), Apr. 7, 2014, 128 Stat. 1136; Pub. L. 113–295, div. A, title II, §221(a)(52), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–123, div. D, title II, §41114(a), (b), Feb. 9, 2018, 132 Stat. 161; Pub. L. 115–141, div. U, title IV, §401(a)(69)–(72), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. M, §104(a), div. O, title I, §§102(a), 103(a)–(c), 109(a), (b), 112(a), 114(a), (b), title II, §§201(a), 205(a), (b), title IV, §401(a), Dec. 20, 2019, 133 Stat. 3095, 3145–3147, 3149, 3150, 3153, 3156, 3162, 3167, 3172, 3176; Pub. L. 116–136, div. A, title II, §2203(a), Mar. 27, 2020, 134 Stat. 343; Pub. L. 116–260, div. EE, title II, §208(a), Dec. 27, 2020, 134 Stat. 3065.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 134; Pub. L. 87–792, §2, Oct. 10, 1962, 76 Stat. 809; Pub. L. 87–863, §2(a), Oct. 23, 1962, 76 Stat. 1141; Pub. L. 88–272, title II, §219(a), Feb. 26, 1964, 78 Stat. 57; Pub. L. 89–97, title I, §106(d)(4), July 30, 1965, 79 Stat. 337; Pub. L. 89–809, title II, §§204(b)(1), (c), 205(a), Nov. 13, 1966, 80 Stat. 1577, 1578; Pub. L. 91–691, §1(a), Jan. 12, 1971, 84 Stat. 2074; Pub. L. 93–406, title II, §§1012(b), 1016(a)(2), 1021, 1022(a)–(d), (f), 1023, 2001(c)–(e)(4), (h)(1), 2004(a)(1), Sept. 2, 1974, 88 Stat. 913, 929, 935, 938–940, 943, 952–955, 957, 979; Pub. L. 94–267, §1(c)(1), (2), Apr. 15, 1976, 90 Stat. 367; Pub. L. 94–455, title VIII, §803(b)(2), title XV, §1505(b), title XIX, §§1901(a)(56), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1584, 1738, 1773, 1834; Pub. L. 95–600, title I, §§135(a), 141(f)(3), 143(a), 152(e), Nov. 6, 1978, 92 Stat. 2785, 2795, 2796, 2799; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(V), (9), (14)(E)(iii), Apr. 1, 1980, 94 Stat. 199, 201, 205; Pub. L. 96–364, title II, §208(a), (e), title IV, §410(b), Sept. 26, 1980, 94 Stat. 1289,1290, 1308; Pub. L. 96–605, title II, §§221(a), 225(b)(1), (2), Dec. 28, 1980, 94 Stat. 3528, 3529; Pub. L. 97–34, title III, §§312(b)(1), (c)(2)–(4), (e)(2), 314(a)(1), 335, 338(a), Aug. 13, 1981, 95 Stat. 283–286, 297, 298; Pub. L. 97–248, title II, §§237(a), (b), (e)(1), 238(b), (d)(1), (2), 240(b), 242(a), 249(a), 254(a), Sept. 3, 1982, 96 Stat. 511–513, 520, 521, 527, 533; Pub. L. 97–448, title I, §103(c)(10)(A), (d)(2), (g)(2)(A), title III, §306(a)(12), Jan. 12, 1983, 96 Stat. 2377–2379, 2405; Pub. L. 98–21, title I, §124(c)(4)(A), Apr. 20, 1983, 97 Stat. 91; Pub. L. 98–369, div. A, title II, §211(b)(5), title IV, §§474(r)(13), 491(e)(4), (5), title V, §§521(a), 524(d)(1), 527(a), (b), 528(b), title VII, §713(c)(2)(A), (d)(3), July 18, 1984, 98 Stat. 754, 842, 853, 865, 872, 875–877, 957, 958; Pub. L. 98–397, title II, §§203(a), 204(a), title III, §301(b), Aug. 23, 1984, 98 Stat. 1440, 1445, 1451; Pub. L. 99–514, title XI, §§1106(d)(1), 1111(a), (b), 1112(b), (d)(1), 1114(b)(7), 1116(a)–(e), 1117(a), 1119(a), 1121(b), 1136(a), 1143(a), 1145(a), 1171(b)(5), 1174(c)(2)(A), 1175(a)(1), 1176(a), title XVIII, §§1848(b), 1852(a)(4)(A), (6), (b)(8), (g), (h)(1), 1879(g)(1), (2), 1898(b)(2)(A), (3)(A), (7)(A), (13)(A), (14)(A), (c)(3), 1899A(10), Oct. 22, 1986, 100 Stat. 2423, 2435, 2439, 2444, 2445, 2451, 2454–2456, 2459, 2463, 2465, 2485, 2490, 2513, 2518, 2519, 2857, 2865–2869, 2906, 2907, 2945, 2948, 2950, 2953, 2958; Pub. L. 100–203, title IX, §9341(a), Dec. 22, 1987, 101 Stat. 1330–369; Pub. L. 100–647, title I, §§1011(c)(7)(A), (d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), s2)–(7), (9), (l)(1)–(5)(A), (6), (7), 1011A(j), (l), 1011B(j)(1), (2), (6), (k)(1), (2), title VI, §§6053(a), 6055(a), 6071(a), (b), Nov. 10, 1988, 102 Stat. 3458–3460, 3463, 3464, 3468–3470, 3483, 3492, 3493, 3696, 3697, 3705; Pub. L. 101–140, title II, §203(a)(5), Nov. 8, 1989, 103 Stat. 830; Pub. L. 101–239, title VII, §§7311(a), 7811(g)(1), (h)(3), 7816(l), 7881(i)(1)(A), (4)(A), Dec. 19, 1989, 103 Stat. 2354, 2409, 2421, 2442; Pub. L. 101–508, title XII, §12011(b), Nov. 5, 1990, 104 Stat. 1388–571; Pub. L. 102–318, title V, §§521(b)(5)–(8), 522(a)(1), July 3, 1992, 106 Stat. 310, 313; Pub. L. 103–66, title XIII, §13212(a), Aug. 10, 1993, 107 Stat. 471; Pub. L. 103–465, title VII, §§732(a), 751(a)(9)(C), 766(b), 776(d), Dec. 8, 1994, 108 Stat. 5004, 5021, 5037, 5048; Pub. L. 104–188, title I, §§1401(b)(5), (6), 1404(a), 1422(a), (b), 1426(a), 1431(b)(2), (c)(1)(B), 1432(a), (b), 1433(a)–(e), 1441(a), 1443(a), (b), 1445(a), 1459(a), (b), 1704(a), (t)(67), Aug. 20, 1996, 110 Stat. 1789, 1791, 1800, 1801, 1803–1809, 1811, 1820, 1878, 1890; Pub. L. 105–34, title XV, §§1502(b), 1505(a)(1), (2), (b), 1525(a), 1530(c)(1), title XVI, §1601(d)(2)(A), (B), (D), (3), Aug. 5, 1997, 111 Stat. 1059, 1063, 1072, 1078, 1088, 1089; Pub. L. 106–554, §1(a)(7) \[title III, §316(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–644; Pub. L. 107–16, title VI, §§611(c), (f)(3), (g)(1), 641(e)(3), 643(b), 646(a)(1), 657(a), 666(a), June 7, 2001, 115 Stat. 97, 99, 120, 122, 126, 135, 143; Pub. L. 107–147, title IV, §411(o)(2), (q)(1), Mar. 9, 2002, 116 Stat. 48, 51; Pub. L. 108–311, title IV, §407(b), Oct. 4, 2004, 118 Stat. 1190; Pub. L. 109–280, title I, §114(a), title VIII, §§827(b)(1), 861(a), (b), title IX, §§901(a)(1), (2)(A), 902(a), (b), (d)(2)(C), (D), (e)(3)(B), 905(b), Aug. 17, 2006, 120 Stat. 853, 1000, 1020, 1021, 1026, 1029, 1033, 1035, 1038, 1050; Pub. L. 110–245, title I, §104(a), June 17, 2008, 122 Stat. 1626; Pub. L. 110–458, title I, §§101(d)(2)(A)–(C), 109(a)–(b)(2), title II, §201(a), Dec. 23, 2008, 122 Stat. 5099, 5111, 5116; Pub. L. 111–152, title I, §1004(d)(5), Mar. 30, 2010, 124 Stat. 1036; Pub. L. 113–97, title II, §202(c)(3)(A), (4), (5), Apr. 7, 2014, 128 Stat. 1136; Pub. L. 113–295, div. A, title II, §221(a)(52), Dec. 19, 2014, 128 Stat. 4045; Pub. L. 115–123, div. D, title II, §41114(a), (b), Feb. 9, 2018, 132 Stat. 161; Pub. L. 115–141, div. U, title IV, §401(a)(69)–(72), Mar. 23, 2018, 132 Stat. 1187; Pub. L. 116–94, div. M, §104(a), div. O, title I, §§102(a), 103(a)–(c), 109(a), (b), 112(a), 114(a), (b), title II, §§201(a), 205(a), (b), title IV, §401(a), Dec. 20, 2019, 133 Stat. 3095, 3145–3147, 3149, 3150, 3153, 3156, 3162, 3167, 3172, 3176; Pub. L. 116–136, div. A, title II, §2203(a), Mar. 27, 2020, 134 Stat. 343; Pub. L. 116–260, div. EE, title II, §208(a), Dec. 27, 2020, 134 Stat. 3065.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -2266,7 +2268,7 @@ Subsec. (a)(26)(G). Pub. L. 109–280, §861(a)(1), (b)(2), substituted "Excepti
 
 Subsec. (a)(28)(B)(v). Pub. L. 109–280, §901(a)(2)(A), added cl. (v).
 
-Subsec. (a)(29). Pub. L. 109–280, §114(a)(1), amended heading and text of par. (29) generally, substituting provisions relating to benefit limitations on plans in at-risk status for provisions relating to security required upon adoption of plan amendment resulting in significant underfunding.
+Subsec. (a)(29). Pub. L. 109–280, §114(a)(1), amended heading and text of par. (29) generally, substitutingprovisions relating to benefit limitations on plans in at-risk status for provisions relating to security required upon adoption of plan amendment resulting in significant underfunding.
 
 Subsec. (a)(32)(A). Pub. L. 109–280, §114(a)(2)(A), substituted "section 430(j)(4)" for "412(m)(5)" in two places.
 
@@ -2450,7 +2452,7 @@ Subsec. (k)(12). Pub. L. 104–188, §1433(a), added par. (12).
 
 Subsec. (m)(2)(A). Pub. L. 104–188, §1433(c)(2), inserted "for such plan year" after "highly compensated employees" in introductory provisions, inserted "for the preceding plan year" after "eligible employees" wherever appearing in cls. (i) and (ii), and inserted at end "This subparagraph may be applied by using the plan year rather than the preceding plan year if the employer so elects, except that if such an election is made, it may not be changed except as provided by the Secretary."
 
-Subsec. (m)(3). Pub. L. 104–188, §1433(d)(2), inserted at end of closing provisions "Rules similar to the rules of subsection (k)(3)(E) shall apply for purposes of this subsection."
+Subsec. (m)(3). Pub. L. 104–188, §1433(d)(2), inserted at end of closing provisions "Rules similar to the rules ofsubsection (k)(3)(E) shall apply for purposes of this subsection."
 
 Subsec. (m)(5)(C). Pub. L. 104–188, §1459(b), added subpar. (C).
 
@@ -2536,7 +2538,7 @@ Subsec. (a)(26)(I). Pub. L. 100–647, §6055(a), redesignated former subpar. (H
 
 Subsec. (a)(27). Pub. L. 100–647, §1011A(j), inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
-Subsec. (a)(28)(B)(ii)(II). Pub. L. 100–647, §1011B(j)(1), as amended by Pub. L. 101–239, §7811(h)(3), inserted "and within 90 days after the period during which the election may be made, the plan invests the portion of the participant's account covered by the election in accordance with such election" after "clause (i)".
+Subsec. (a)(28)(B)(ii)(II). Pub. L. 100–647, §1011B(j)(1), as amended by Pub. L. 101–239, §7811(h)(3), inserted "and within 90 days after the period during which the election may be made, the plan invests the portion of theparticipant's account covered by the election in accordance with such election" after "clause (i)".
 
 Subsec. (a)(28)(B)(iv). Pub. L. 100–647, §1011B(d)(2), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "For purposes of this subparagraph, the term 'qualified election period' means the 5-plan-year period beginning with the plan year after the plan year in which the participant attains age 55 (or, if later, beginning with the plan year after the 1st plan year in which the individual 1st became a qualified participant)."
 
@@ -2940,6 +2942,8 @@ Pub. L. 87–792, §2(3), redesignated former subsec. (c) as (h).
 
 Subsec. (i). Pub. L. 87–863 redesignated former subsec. (h) as (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. EE, title II, §208(b), Dec. 27, 2020, 134 Stat. 3066, provided that: "The amendment made by this section \[amending this section\] shall apply to distributions made before, on, or after the date of the enactment of this Act \[Dec. 27, 2020\]."
@@ -2982,7 +2986,7 @@ Conditions.—This paragraph shall not apply to any amendment unless during the 
 
 #### Effective Date of 2019 Amendment
 
-Pub. L. 116–94, div. M, §104(c), Dec. 20, 2019, 133 Stat. 3095, provided that: "The amendments made by thissection \[amending this section and section 457 of this title\] shall apply to plan years beginning after December 31, 2019."
+Pub. L. 116–94, div. M, §104(c), Dec. 20, 2019, 133 Stat. 3095, provided that: "The amendments made by this section \[amending this section and section 457 of this title\] shall apply to plan years beginning after December 31, 2019."
 
 Pub. L. 116–94, div. O, title I, §102(b), Dec. 20, 2019, 133 Stat. 3146, provided that: "The amendments made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2019."
 
@@ -3084,7 +3088,7 @@ In general.—If an employee dies before the effective date, then, in applying t
 
 &emsp;"(B)
 
-Effective date.—For purposes of this paragraph, the term 'effective date' means the first day ofthe first calendar year to which the amendments made by this section apply to a plan with respect to employees dying on or after such date."
+Effective date.—For purposes of this paragraph, the term 'effective date' means the first day of the first calendar year to which the amendments made by this section apply to a plan with respect to employees dying on or after such date."
 
 #### Effective Date of 2018 Amendment
 
@@ -3372,7 +3376,7 @@ Collectively bargained plans.—In the case of a plan maintained pursuant to 1 o
 
 &emsp;&emsp;"(i) January 1, 1994,
 
-&emsp;&emsp;"(ii) the date on which the last of such collective bargaining agreements terminates (without regard to any extension, amendment, or modification of such agreements on or after such date of enactment), or
+&emsp;&emsp;"(ii) the date on which the last of such collective bargaining agreements terminates (without regardto any extension, amendment, or modification of such agreements on or after such date of enactment), or
 
 &emsp;&emsp;"(iii) in the case of a plan maintained pursuant to collective bargaining under the Railway Labor Act \[45 U.S.C. 151 et seq.\], the date of execution of an extension or replacement of the last of such collective bargaining agreements in effect on such date of enactment, or
 
@@ -3396,7 +3400,7 @@ Eligible participant.—For purposes of subparagraph (A), an eligible participan
 
 &emsp;"(C)
 
-Plan must be amended to incorporate limits.—This paragraph shall not apply to any eligible participant of a plan unless the plan is amended so that the plan incorporates by reference the dollar limitation under section 401(a)(17) of the Internal Revenue Code of 1986, effective with respect to noneligible participants for plan years beginning afterDecember 31, 1995 (or earlier if the plan amendment so provides)."
+Plan must be amended to incorporate limits.—This paragraph shall not apply to any eligible participant of a plan unless the plan is amended so that the plan incorporates by reference the dollar limitation under section 401(a)(17) of the Internal Revenue Code of 1986, effective with respect to noneligible participants for plan years beginning after December 31, 1995 (or earlier if the plan amendment so provides)."
 
 #### Effective Date of 1992 Amendment
 
@@ -3466,7 +3470,7 @@ Pub. L. 100–647, title I, §1011(k)(1)(C), Nov. 10, 1988, 102 Stat. 3469, prov
 
 Pub. L. 100–647, title I, §1011(l)(5)(B), Nov. 10, 1988, 102 Stat. 3470, provided that: "The amendment made by this paragraph \[amending this section\] shall take effect as if included in the amendments made by section 1120 of the Reform Act \[Pub. L. 99–514\]."
 
-Amendment by sections 1011(d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), (2)–(7), (9), (l)(1)–(4), (6), (7), 1011A(j), (l), and 1011B(j)(1), (2), (6), (k)(1), (2) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by sections 1011(d)(4), (e)(3), (g)(1)–(3), (h)(3), (k)(1)(A), (B), (2)–(7), (9), (l)(1)–(4), (6), (7), 1011A(j), (l), and 1011B(j)(1), (2), (6), (k)(1), (2) of Pub. L. 100–647 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 Pub. L. 100–647, title VI, §6053(b), Nov. 10, 1988, 102 Stat. 3696, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the amendments made by section 1121 of the Reform Act \[Pub. L. 99–514\]."
 
@@ -3484,7 +3488,7 @@ In general.—Except as provided in this subsection, the amendments made by this
 
 "(2)
 
-Collective bargaining agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified beforethe date of the enactment of this Act, the amendments made by this section shall not apply to plan amendments adopted pursuant to collective bargaining agreements ratified before the date of enactment (without regard to any extension, amendment, or modification of such agreements on or after such date of enactment)."
+Collective bargaining agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of the enactment of this Act, the amendments made by this section shall not apply to plan amendments adopted pursuant to collective bargaining agreements ratified before the date of enactment (without regard to any extension, amendment, or modification of such agreements on or after such date of enactment)."
 
 #### Effective Date of 1986 Amendment
 
@@ -3580,7 +3584,7 @@ Amounts subject to early withdrawal or excess distribution tax.—For purposes o
 
 &emsp;&emsp;"(iv)
 
-Distributions of annuity contracts.—If an annuity contract purchased after August 16, 1986, is distributed to a highly compensated employee in connection with such termination or distribution, there shall be included in gross income for the taxable year of such distribution an amount equal to the excess of—
+Distributions of annuity contracts.—If an annuity contract purchased after August 16, 1986, is distributed to a highly compensated employee in connection with such termination or distribution,there shall be included in gross income for the taxable year of such distribution an amount equal to the excess of—
 
 &emsp;&emsp;&emsp;"(I) the purchase price of such contract, over
 
@@ -3812,7 +3816,7 @@ Pub. L. 99–514, title XVIII, §1879(g)(3), Oct. 22, 1986, 100 Stat. 2907, prov
 
 Amendment by sections 1848(b) and 1852(a)(4)(A), (6), (b)(8), (g), (h)(1) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, §1898(j), Oct. 22, 1986, 100 Stat. 2957, provided that: "Except as otherwise provided in this section, any amendment made by this section \[amending this section, sections 402, 411, 414, 415, 417, and 2503 of this title, and sections 1053 to 1056 of Title 29, Labor, and provisions set out as notes under section 1001 of Title 29\] shall take effect as if included in the provision of the Retirement Equity Act of 1984 \[Pub. L. 98–397\] to which such amendment relates."
+Pub. L. 99–514, title XVIII, §1898(j), Oct. 22, 1986, 100 Stat. 2957, provided that: "Except as otherwise providedin this section, any amendment made by this section \[amending this section, sections 402, 411, 414, 415, 417, and 2503 of this title, and sections 1053 to 1056 of Title 29, Labor, and provisions set out as notes under section 1001 of Title 29\] shall take effect as if included in the provision of the Retirement Equity Act of 1984 \[Pub. L. 98–397\] to which such amendment relates."
 
 #### Effective Date of 1984 Amendment
 
@@ -3972,7 +3976,7 @@ Pub. L. 93–406, title II, §2001(i)(2)–(4), Sept. 2, 1974, 88 Stat. 958, pro
 
 &emsp;"(4) The amendments made by subsections (e) and (f) \[enacting section 4972 of this title and amending this section and section 72 of this title\] apply to contributions made in taxable years beginning after December 31, 1975."
 
-Amendment by section 2001(h)(1) of Pub. L. 93–406 applicable to taxable years ending after Sept. 2, 1974, see section 2001(i)(6) of Pub. L. 93–406, set out as a note under section 72 of this title.
+Amendment by section 2001(h)(1) of Pub. L. 93–406 applicable to taxable years ending after Sept. 2, 1974, seesection 2001(i)(6) of Pub. L. 93–406, set out as a note under section 72 of this title.
 
 Amendment by section 2004(a)(1) of Pub. L. 93–406 applicable to years beginning after Dec. 31, 1975, see section 2004(d) of Pub. L. 93–406, set out as an Effective Date; Transitional Provisions note under section 415 of this title.
 
@@ -4066,7 +4070,7 @@ Pub. L. 109–280, title I, §104, Aug. 17, 2006, 120 Stat. 816, as amended by P
 
 "(a)
 
-General Rule.—Except as provided in this section, if a plan in existence on July 26, 2005, was an eligible cooperative plan or an eligible charity plan for its plan year which includes such date, the amendments made by this subtitle \[subtitle A (§§101 to 108) of title I of Pub. L. 109–280, enacting sections 1082 and 1083 ofTitle 29, Labor, amending sections 1021, 1023, 1053, 1054, 1056, 1103, 1108, 1132, 1301, 1303, 1310, 1362, 1371, and 1423 of Title 29 and section 106 of 1978 Reorg. Plan No. 4, set out in the Appendix to Title 5, Government Organization and Employees, and as a note under section 1001 of Title 29, and repealing sections 1057, 1082 to 1086 of Title 29\] and subtitle B \[subtitle B (§§111 to 116) of title I of Pub. L. 109–280, enacting sections 430 and 436 of this title, amending this section and sections 409A, 411, 412, 414, 420, 4971, 4972, and 6059 of this title, and amending provisions set out as a note under section 412 of this title\] shall not apply to plan years beginning before the earlier of—
+General Rule.—Except as provided in this section, if a plan in existence on July 26, 2005, was an eligible cooperative plan or an eligible charity plan for its plan year which includes such date, the amendments made by this subtitle \[subtitle A (§§101 to 108) of title I of Pub. L. 109–280, enacting sections 1082 and 1083 of Title 29, Labor, amending sections 1021, 1023, 1053, 1054, 1056, 1103, 1108, 1132, 1301, 1303, 1310, 1362, 1371, and 1423 of Title 29 and section 106 of 1978 Reorg. Plan No. 4, set out in the Appendix to Title 5, Government Organization and Employees, and as a note under section 1001 of Title 29, and repealing sections 1057, 1082 to 1086 of Title 29\] and subtitle B \[subtitle B (§§111 to 116) of title I of Pub. L. 109–280, enacting sections 430 and 436 of this title, amending this section and sections 409A, 411, 412, 414, 420, 4971, 4972, and 6059 of this title, and amending provisions set out as a note under section 412 of this title\] shall not apply to plan years beginning before the earlier of—
 
 &emsp;"(1) the first plan year for which the plan ceases to be an eligible cooperative plan or an eligible charity plan, or
 
@@ -4132,7 +4136,7 @@ Election to use funding options available to other plan sponsors.—
 
 &emsp;&emsp;&emsp;"(i) the plan had never been an eligible charity plan,
 
-&emsp;&emsp;&emsp;"(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083(c)(2)(D)(i)\] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2009, and
+&emsp;&emsp;&emsp;"(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083(c)(2)(D)(i)\] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2009, and
 
 &emsp;&emsp;&emsp;"(iii) no event had occurred under paragraph (6) or (7) of section 303(c) of such Act \[29 U.S.C. 1083(c)(6), (7)\] or paragraph (6) or (7) of section 430(c) of such Code that, as of the first day of the first plan year beginning after December 31, 2013, would have modified the shortfall amortization base or the shortfall amortization installments with respect to the first plan year beginning after December 31, 2009.
 
@@ -4140,7 +4144,7 @@ Election to use funding options available to other plan sponsors.—
 
 &emsp;&emsp;&emsp;"(i) the plan had never been an eligible charity plan,
 
-&emsp;&emsp;&emsp;"(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083(c)(2)(D)(i)\] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect tothe shortfall amortization base for the first plan year beginning after December 31, 2010, and
+&emsp;&emsp;&emsp;"(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1083(c)(2)(D)(i)\] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2010, and
 
 &emsp;&emsp;&emsp;"(iii) no event had occurred under paragraph (6) or (7) of section 303(c) of such Act \[29 U.S.C. 1083(c)(6), (7)\] or paragraph (6) or (7) of section 430(c) of such Code that, as of the first day of the first plan year beginning after December 31, 2013, would have modified the shortfall amortization base or the shortfall amortization installments with respect to the first plan year beginning after December 31, 2010.
 
@@ -4192,7 +4196,7 @@ General Rule.—Except as provided in this section, if a plan is an eligible gov
 
 "(b)
 
-Interest Rate.—In applying section 302(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(b)(5)(B)\] and section 412(b)(5)(B) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this subtitle and subtitle B) to an eligible government contractor plan for plan years beginning after December 31, 2007, and before the first plan year to which such amendments apply, the third segment rate determined under section 303(h)(2)(C)(iii) of such Act \[29 U.S.C. 1083(h)(2)(C)(iii)\] and section 430(h)(2)(C)(iii) of such Code (as added by such amendments) shall be used in lieu of the interest rate otherwise used.
+Interest Rate.—In applying section 302(b)(5)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1082(b)(5)(B)\] and section 412(b)(5)(B) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this subtitle and subtitle B)to an eligible government contractor plan for plan years beginning after December 31, 2007, and before the first plan year to which such amendments apply, the third segment rate determined under section 303(h)(2)(C)(iii) of such Act \[29 U.S.C. 1083(h)(2)(C)(iii)\] and section 430(h)(2)(C)(iii) of such Code (as added by such amendments) shall be used in lieu of the interest rate otherwise used.
 
 "(c)
 
@@ -4200,7 +4204,7 @@ Eligible Government Contractor Plan Defined.—For purposes of this section, a p
 
 "(d)
 
-Cost Accounting Standards Pension Harmonization Rule.—The Cost Accounting Standards Board shall review and revise sections 412 and 413 of the Cost Accounting Standards (48 CFR 9904.412 and 9904.413) to harmonize the minimum required contribution under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] of eligible government contractor plans and government reimbursable pensionplan costs not later than January 1, 2010. Any final rule adopted by the Cost Accounting Standards Board shall be deemed the Cost Accounting Standards Pension Harmonization Rule."
+Cost Accounting Standards Pension Harmonization Rule.—The Cost Accounting Standards Board shall review and revise sections 412 and 413 of the Cost Accounting Standards (48 CFR 9904.412 and 9904.413) to harmonize the minimum required contribution under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1001 et seq.\] of eligible government contractor plans and government reimbursable pension plan costs not later than January 1, 2010. Any final rule adopted by the Cost Accounting Standards Board shall be deemed the Cost Accounting Standards Pension Harmonization Rule."
 
 #### Application of Extended Amortization Periods to Plans With Delayed Effective Date
 
@@ -4274,7 +4278,7 @@ Pre-effective date plan year.—The term 'pre-effective date plan year' means, w
 
 &emsp;"(3)
 
-Increased unfunded new liability.—The term 'increased unfunded new liability' means, with respect to a year, the excess (if any) of the unfunded new liability over the amount of unfunded new liability determined as if the value of the plan's assets determined under subsection 302(c)(2) of such Act \[29 U.S.C. 1082(c)(2)\] and section 412(c)(2) of such Code equaled the product of the current liability of the plan for the year multiplied by the funded current liability percentage (as defined in section 302(d)(8)(B) of such Act \[29 U.S.C. 1082(d)(8)(B)\] and 412(l)(8)(B) of such Code) of the plan for the second plan year preceding the first election year of such plan.
+Increased unfunded new liability.—The term 'increased unfunded new liability' means, with respect to a year, the excess (if any) of the unfunded new liability over the amount of unfunded new liability determined as if the value of the plan's assets determined under subsection 302(c)(2) of such Act \[29 U.S.C. 1082(c)(2)\] and section 412(c)(2) of such Code equaled the product of the current liability of the plan for the year multiplied by the funded current liability percentage (as defined in section 302(d)(8)(B)of such Act \[29 U.S.C. 1082(d)(8)(B)\] and 412(l)(8)(B) of such Code) of the plan for the second plan year preceding the first election year of such plan.
 
 &emsp;"(4)
 
@@ -4392,7 +4396,7 @@ Secretary to prescribe amendment.—The Secretary of the Treasury or his delegat
 
 &emsp;"(2)
 
-Adoption by plan.—If a plan adopts the amendment or amendments prescribed under paragraph (1) and operates in accordance with suchamendment or amendments, such plan shall not be treated as failing to provide definitely determinable benefits or contributions or to be operated in accordance with the provisions of the plan.
+Adoption by plan.—If a plan adopts the amendment or amendments prescribed under paragraph (1) and operates in accordance with such amendment or amendments, such plan shall not be treated as failing to provide definitely determinable benefits or contributions or to be operated in accordance with the provisions of the plan.
 
 "(c)
 
@@ -4482,7 +4486,7 @@ Inclusion of Certain Contributions in Income.—Except in the case of plans or a
 
 "(b)
 
-Administration in the Case of Certain Qualified Pension or Profit-Sharing Plans, Etc., in Existence on June 27, 1974.—No salary reduction regulationsmay be issued by the Secretary of the Treasury in final form before January 1, 1980, with respect to an arrangement which was in existence on June 27, 1974, and which, on that date—
+Administration in the Case of Certain Qualified Pension or Profit-Sharing Plans, Etc., in Existence on June 27, 1974.—No salary reduction regulations may be issued by the Secretary of the Treasury in final form before January 1, 1980, with respect to an arrangement which was in existence on June 27, 1974, and which, on that date—
 
 &emsp;"(1) provided for contributions to an employee's trust described in section 401(a), 403(a), or 405(a) of the Internal Revenue Code of 1986 \[subsec. (a) of this section, section 403(a) of this title, or section 405(a) of this title\] which is exempt from tax under section 501(a) of such Code \[section 501(a) of this title\], or
 
@@ -4527,6 +4531,8 @@ Salary Reduction Regulations Defined.—For purpose of this section, the term 's
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 401, 402, 404, 408, 408A, 409, 414 to 416, 430, 432, 457, and 664 of this title for certain years were contained in the following:
+
+<b>2022</b>—Internal Revenue Notice 2021–61.
 
 <b>2021</b>—Internal Revenue Notice 2020–79.
 

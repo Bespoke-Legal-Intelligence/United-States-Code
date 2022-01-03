@@ -20,7 +20,7 @@
 
 #### Authorization of Appropriations
 
-Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: "There is authorized to be appropriated such funds as may be required to carry out the purposesof this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]".
+Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: "There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]".
 
 #### Prisoner Transfer Treaties
 

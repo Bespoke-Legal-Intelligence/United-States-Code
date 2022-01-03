@@ -14,7 +14,7 @@ Elements.—The programs of compliance under subsection (a) shall—
 
 (c)
 
-Electronic Processing of Travel Claims.—(1) By not later than the date that isfive years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, any travel claim under this chapter shall be processed electronically.
+Electronic Processing of Travel Claims.—(1) By not later than the date that is five years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, any travel claim under this chapter shall be processed electronically.
 
 (2) The administering Secretary, or the Secretary's designee, may waive the requirement in paragraph (1) with respect to a particular claim in the interests of the department concerned.
 

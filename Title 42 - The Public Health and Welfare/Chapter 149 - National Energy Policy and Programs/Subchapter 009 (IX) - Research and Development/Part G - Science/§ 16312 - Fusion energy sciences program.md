@@ -38,7 +38,7 @@ It shall be the policy of the United States to conduct research, development, de
 
 #### (1) In general
 
-&emsp;There is authorized United States participation in the construction and operations of theITER project, as agreed to under the April 25, 2007 "Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project". The Director shall coordinate and carry out the responsibilities of the United States with respect to this Agreement.
+&emsp;There is authorized United States participation in the construction and operations of the ITER project, as agreed to under the April 25, 2007 "Agreement on the Establishment of the ITER International Fusion Energy Organization for the Joint Implementation of the ITER Project". The Director shall coordinate and carry out the responsibilities of the United States with respect to this Agreement.
 
 #### (2) Report
 
@@ -53,6 +53,8 @@ It shall be the policy of the United States to conduct research, development, de
 &emsp;&emsp;(B) $281,000,000 for each of fiscal years 2022 through 2025.
 
 (Pub. L. 109–58, title IX, §972, Aug. 8, 2005, 119 Stat. 899; Pub. L. 116–260, div. Z, title II, §2008(b), Dec. 27, 2020, 134 Stat. 2478.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

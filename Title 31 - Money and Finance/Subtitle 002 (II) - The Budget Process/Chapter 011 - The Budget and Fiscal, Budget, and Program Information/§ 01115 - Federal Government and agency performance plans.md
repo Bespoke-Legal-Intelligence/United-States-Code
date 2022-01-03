@@ -52,7 +52,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 &emsp;(7) provide a basis for comparing actual program results with the established performance goals;
 
-&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the data used to measure progress towards its performance goals, including an identification of—
+&emsp;(8) a description of how the agency will ensure the accuracy and reliability of the dataused to measure progress towards its performance goals, including an identification of—
 
 &emsp;&emsp;(A) the means to be used to verify and validate measured values;
 
@@ -76,7 +76,7 @@ Agency Performance Plans.—Not later than the first Monday in February of each 
 
 (c)
 
-Alternative Form.—If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Directorof the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
+Alternative Form.—If an agency, in consultation with the Director of the Office of Management and Budget, determines that it is not feasible to express the performance goals for a particular program activity in an objective, quantifiable, and measurable form, the Director of the Office of Management and Budget may authorize an alternative form. Such alternative form shall—
 
 &emsp;(1) include separate descriptive statements of—
 
@@ -276,7 +276,7 @@ Reports.—The Comptroller General shall submit to Congress—
 
 &emsp;&emsp;"(D)
 
-Recommendations.—The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations for improving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285; see Short Title of 1993 Amendment note set out under section 1101 of this title\]."
+Recommendations.—The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations forimproving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285; see Short Title of 1993 Amendment note set out under section 1101 of this title\]."
 
 #### Strategic Planning and Performance Measurement Training
 
@@ -290,7 +290,7 @@ Ex. Ord. No. 13450, Nov. 13, 2007, 72 F.R. 64519, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 305 and 306 of title 5, sections 1115, 1116, and 9703 of title 31, and chapter 28 of title 39, United States Code, and to improve the effectiveness and efficiency of the Federal Government and promote greater accountability of that Government to the American people, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. It is the policy of the Federal Government to spend taxpayer dollars effectively, and more effectively each year. Agencies shall apply taxpayer resources efficiently in a manner that maximizesthe effectiveness of Government programs in serving the American people.
+Section 1. <i>Policy</i>. It is the policy of the Federal Government to spend taxpayer dollars effectively, and more effectively each year. Agencies shall apply taxpayer resources efficiently in a manner that maximizes the effectiveness of Government programs in serving the American people.
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
@@ -374,7 +374,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (iii) such other full-time or permanent part-time employees of an agency, as determined by the Chair with the concurrence of the head of the agency concerned.
 
-(c) The Chair or the Chair's designee, in implementing subsection (d) of this section, shall convene and preside at the meetings of the Council, determine its agenda, direct its work, and establish and direct subgroups of the Council, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Council.
+(c) The Chair or the Chair's designee, in implementing subsection (d) of this section, shall conveneand preside at the meetings of the Council, determine its agenda, direct its work, and establish and direct subgroups of the Council, as appropriate to deal with particular subject matters, that shall consist exclusively of members of the Council.
 
 (d) To assist in implementing the policy set forth in section 1 of this order, the Council shall:
 
@@ -394,7 +394,7 @@ Sec. 6. <i>Establishment and Operation of Performance Improvement Council</i>. (
 
 (B) the status of program performance plans and agency Performance and Accountability Reports; and
 
-(C) consistent with the direction of the head of the agency concerned after consultation with the Director,any publicly available reports by the agency's Inspector General concerning agency program performance;
+(C) consistent with the direction of the head of the agency concerned after consultation with the Director, any publicly available reports by the agency's Inspector General concerning agency program performance;
 
 (v) monitor implementation by agencies of the policy set forth in section 1 of this order and report thereon from time to time as appropriate to the Director, or when appropriate to the President through the Director, at such times and in such formats as the Chair may specify, together with any recommendations of the Council for more effective implementation of such policy;
 
@@ -423,6 +423,4 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-'
 

@@ -58,7 +58,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (5) Indirect sales or offers for sale
 
-&emsp;If the foreign like product is sold or, in the absence of sales, offered for sale through an affiliated party, the prices at which the foreign like product is sold (or offered for sale) by such affiliated party may be used in determining normal value.
+&emsp;If the foreign like product is sold or, in the absence of sales, offered for sale through an affiliated party, the prices at which the foreign like product is sold (or offered for sale) bysuch affiliated party may be used in determining normal value.
 
 #### (6) Adjustments
 
@@ -74,7 +74,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;&emsp;(iii) the amount of any taxes imposed directly upon the foreign like product or components thereof which have been rebated, or which have not been collected, on the subject merchandise, but only to the extent that such taxes are added to or included in the price of the foreign like product, and
 
-&emsp;&emsp;(C) increased or decreased by the amount of any difference (or lack thereof) betweenthe export price or constructed export price and the price described in paragraph (1)(B) (other than a difference for which allowance is otherwise provided under this section) that is established to the satisfaction of the administering authority to be wholly or partly due to—
+&emsp;&emsp;(C) increased or decreased by the amount of any difference (or lack thereof) between the export price or constructed export price and the price described in paragraph (1)(B) (other than a difference for which allowance is otherwise provided under this section) that is established to the satisfaction of the administering authority to be wholly or partly due to—
 
 &emsp;&emsp;&emsp;(i) the fact that the quantities in which the subject merchandise is sold or agreed to be sold to the United States are greater than or less than the quantities in which the foreign like product is sold, agreed to be sold, or offered for sale,
 
@@ -122,7 +122,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (i) Review
 
-&emsp;&emsp;&emsp;In a review conducted under section 1675 of this title involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregarded some or all of the exporter's sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
+&emsp;&emsp;&emsp;In a review conducted under section 1675 of this title involving a specific exporter, there are reasonable grounds to believe or suspect that sales of the foreign like product have been made at prices that are less than the cost of production of the product if the administering authority disregardedsome or all of the exporter's sales pursuant to paragraph (1) in the investigation or, if a review has been completed, in the most recently completed review.
 
 #### (ii) Requests for information
 
@@ -200,7 +200,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (5) Discretion to disregard certain price or cost values
 
-&emsp;In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard price or cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
+&emsp;In valuing the factors of production under paragraph (1) for the subject merchandise, the administering authority may disregard priceor cost values without further investigation if the administering authority has determined that broadly available export subsidies existed or particular instances of subsidization occurred with respect to those price or cost values or if those price or cost values were subject to an antidumping order.
 
 #### (d) Special rule for certain multinational corporations
 
@@ -262,7 +262,7 @@ For purposes of subsections (b) and (e).— <sup>1</sup>
 
 &emsp;&emsp;&emsp;&emsp;(II) production levels are limited by technical factors associated with the initial phase of commercial production.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the initial phase of commercial production ends atthe end of the startup period. In determining whether commercial production levels have been achieved, the administering authority shall consider factors unrelated to startup operations that might affect the volume of production processed, such as demand, seasonality, or business cycles.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the initial phase of commercial production ends at the end of the startup period. In determining whether commercial production levels have been achieved, the administering authority shall consider factors unrelated to startup operations that might affect the volume of production processed, such as demand, seasonality, or business cycles.
 
 #### (iii) Adjustment for startup operations
 
@@ -278,6 +278,8 @@ For purposes of subsections (b) and (e).— <sup>1</sup>
 
 (June 17, 1930, ch. 497, title VII, §773, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 182; amended Pub. L. 98–573, title VI, §§615, 620(b), Oct. 30, 1984, 98 Stat. 3036, 3039; Pub. L. 99–514, title XVIII, §1886(a)(11), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1316(a), 1318, 1319, Aug. 23, 1988, 102 Stat. 1186, 1189; Pub. L. 103–465, title II, §224, Dec. 8, 1994, 108 Stat. 4878; Pub. L. 114–27, title V, §§504(b), (c), 505, June 29, 2015, 129 Stat. 385.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1)(B)(ii)(III). Pub. L. 114–27, §504(b), which directed amendment of subcl. (III) by striking out "in such other country.", was executed by striking out "in such other country" after "particular market situation" to reflect the probable intent of Congress.
@@ -290,7 +292,7 @@ Subsec. (b)(2)(A). Pub. L. 114–27, §505(a), added subpar. (A) and struck out 
 
 Subsec. (c)(5). Pub. L. 114–27, §505(b), added par. (5).
 
-Subsec. (e). Pub. L. 114–27, §504(c)(2), in concluding provisions, substituted "For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology. For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials." for "For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials."
+Subsec. (e). Pub. L. 114–27, §504(c)(2), in concluding provisions, substituted "For purposes of paragraph (1), if a particular market situation exists such that the cost of materials and fabrication or other processing of any kind does not accurately reflect the cost of production in the ordinary course of trade, the administering authority may use another calculation methodology under this part or any other calculation methodology.For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition that is remitted or refunded upon exportation of the subject merchandise produced from such materials." for "For purposes of paragraph (1), the cost of materials shall be determined without regard to any internal tax in the exporting country imposed on such materials or their disposition which are remitted or refunded upon exportation of the subject merchandise produced from such materials."
 
 Subsec. (e)(1). Pub. L. 114–27, §504(c)(1), substituted "trade" for "business".
 
@@ -311,6 +313,8 @@ Subsecs. (a)(1)(A), (4)(A), (e)(1)(B). Pub. L. 98–573, §615(2), substituted "
 Subsec. (f). Pub. L. 98–573, §620(b), struck out subsec. (f) which related to the authority to use sampling techniques and to disregard insignificant adjustments.
 
 Subsec. (g). Pub. L. 98–573, §615(3), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

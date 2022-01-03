@@ -60,13 +60,15 @@ There are authorized to be appropriated for each fiscal year such sums as may be
 
 (Pub. L. 95–113, title XIV, §1410A, as added Pub. L. 101–624, title XVI, §1606(a), Nov. 28, 1990, 104 Stat. 3714.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Enhanced Use Lease Authority Program
 
 Pub. L. 103–354, title III, §308, as added by Pub. L. 110–234, title VII, §7409, May 22, 2008, 122 Stat. 1252, and Pub. L. 110–246, §4(a), title VII, §7409, June 18, 2008, 122 Stat. 1664, 2014; Pub. L. 113–79, title VII, §§7511, 7605, Feb. 7, 2014, 128 Stat. 901, 912; Pub. L. 115–334, title VII, §7601, Dec. 20, 2018, 132 Stat. 4825, provided that:
 
 "(a)
 
-Establishment.—To enhance the use of real property administered by agencies of the Department, the Secretary may establish a program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
+Establishment.—To enhance the use of real property administered by agencies of the Department,the Secretary may establish a program, in accordance with this section, at the Beltsville Agricultural Research Center of the Agricultural Research Service and the National Agricultural Library to lease nonexcess property of the Center or the Library to any individual or entity, including agencies or instrumentalities of State or local governments.
 
 "(b)
 

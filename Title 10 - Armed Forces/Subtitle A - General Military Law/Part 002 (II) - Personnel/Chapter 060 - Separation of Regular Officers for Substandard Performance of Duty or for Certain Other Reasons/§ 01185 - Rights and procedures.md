@@ -1,6 +1,6 @@
 ### §1185. Rights and procedures
 
-(a) Under regulations prescribed by the Secretary of Defense, each officer required under section 1181 of this title to show cause for retention on active duty—
+(a) Under regulations prescribed by the Secretary of Defense, each officer required undersection 1181 of this title to show cause for retention on active duty—
 
 &emsp;(1) shall be notified in writing, at least 30 days before the hearing of his case by a board of inquiry, of the reasons for which he is being required to show cause for retention on active duty;
 
@@ -13,6 +13,8 @@
 (b) When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 
 (Added Pub. L. 96–513, title I, §110, Dec. 12, 1980, 94 Stat. 2874.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

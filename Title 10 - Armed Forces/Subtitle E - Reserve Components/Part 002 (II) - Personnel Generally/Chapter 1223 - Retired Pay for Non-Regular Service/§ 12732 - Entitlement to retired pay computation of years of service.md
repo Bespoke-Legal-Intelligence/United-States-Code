@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(E) One point for each day on which funeral honors duty is performed for at least two hours under section 12503 of this title or section 115 of title 32, unless the duty is performed while in a status for which credit is provided under another subparagraph of this paragraph.
 
-&emsp;&emsp;(F)(i) Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to mattersconcerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each drill or period of equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
+&emsp;&emsp;(F)(i) Subject to regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to matters concerning the Coast Guard when it is not operating as a service in the Department of the Navy, one point for each day of active service or one point for each drill or period of equivalent instruction that was prescribed by the Secretary concerned to be performed during the covered emergency period, if such person was prevented from performing such duty due to travel or duty restrictions imposed by the President, the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard.
 
 &emsp;&emsp;(ii) A person may not be credited more than 35 points in a one-year period under this subparagraph.
 
@@ -64,7 +64,7 @@
 
 &emsp;(3) The person's years of active service in the Commissioned Corps of the Public Health Service.
 
-&emsp;(4) The person's years of active commissioned service in the National Oceanic and Atmospheric Administration (including active commissioned service in the Environmental Science Services Administration and in the Coast and Geodetic Survey).
+&emsp;(4) The person's years of active commissioned service in the National Oceanic and Atmospheric Administration (including active commissioned service in the EnvironmentalScience Services Administration and in the Coast and Geodetic Survey).
 
 (b) The following service may not be counted under subsection (a):
 
@@ -160,7 +160,7 @@ In subsection (a)(1)(A)–(F), the requirement that the service must have been s
 
 In subsection (a)(1)(A), the words "the armed forces" are substituted for clauses (1), (2), (5)–(7), (9), (10), and (13)–(16), of 10:1036e(c) and 34:440m(c), and so much of clause (8) of 10:1036e(c) and 34:440m(c) as relates to the Naval Reserve and the Naval Reserve Force as constituted after February 28, 1925, since the service covered by those clauses when added to service in the regular components, comprises all service in the armed forces.
 
-In subsection (a)(1)(B)–(C), the words "June 15" are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established theNational Guard of the United States as a reserve component of the Army.
+In subsection (a)(1)(B)–(C), the words "June 15" are inserted to reflect the exact date of the change in National Guard status made by section 5 of the Act of June 15, 1933, ch. 87, 48 Stat. 155, which established the National Guard of the United States as a reserve component of the Army.
 
 In subsection (a)(1)(D), 10:1036e(c)(8) (last 25 words), 10:1036e(c)(9) (last 22 words), 34:440m(c)(8) (last 25 words), and 34:440m(c)(9) (last 22 words) are omitted as covered by subsection (b)(5).
 
@@ -179,6 +179,8 @@ Subsection (b)(6) is inserted for clarity since 10:1036a and 34:440i were limite
 #### 1958 Act
 
 The word "full-time" is inserted for clarity. The other change reflects the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956) that duty performed under section 92 of the National Defense Act, the source statute for section 502 of title 32, was creditable in determining entitlement to retired pay under section 302 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1087), the source statute for section 1332 of title 10.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -217,6 +219,8 @@ Subsec. (a)(2)(G). Pub. L. 116–283, §602(b)(4)(A), added subpar. (G).
 Subsec. (b)(6), (7). Pub. L. 86–197, §1(3), added par. (6), redesignated former par. (6) as (7), and prohibited the counting of service as a nurse, as an appointed aviation cadet, and that service described in cls. (I) and (J) of subsec. (a)(1) of this section.
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 substituted "full-time service under" for "service under", and inserted reference to section 502 of this title in cl. (2)(A)(ii).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

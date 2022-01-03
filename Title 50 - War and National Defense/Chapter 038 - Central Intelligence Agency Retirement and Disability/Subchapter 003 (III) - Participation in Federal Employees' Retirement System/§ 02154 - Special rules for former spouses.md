@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
 
-&emsp;&emsp;(B) if applicable, 50 percent of the employee's benefits under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
+&emsp;&emsp;(B) if applicable, 50 percent of the employee's benefits under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effectivedate of the election to transfer bears to the employee's total creditable service after such effective date.
 
 #### (8) Treatment of pro rata share under title 26
 
@@ -154,7 +154,7 @@ For purposes of this section:
 
 #### (6) Effect of termination of qualified former spouse's entitlement
 
-&emsp;After a qualified former spouse of a retired employee remarries before becoming age 55 or dies, the reduction in the retired employee's annuity for the purpose of providing a survivorannuity for such former spouse shall be terminated. The annuitant may elect, in a signed writing received by the Director within 2 years after the qualified former spouse's remarriage or death, to continue the reduction in order to provide or increase the survivor annuity for such annuitant's spouse. The annuitant making such election shall pay a deposit in accordance with the provisions of section 8418 of title 5.
+&emsp;After a qualified former spouse of a retired employee remarries before becoming age 55 or dies, the reduction in the retired employee's annuity for the purpose of providing a survivor annuity for such former spouse shall be terminated. The annuitant may elect, in a signed writing received by the Director within 2 years after the qualified former spouse's remarriage or death, to continue the reduction in order to provide or increase the survivor annuity for such annuitant's spouse. The annuitant making such election shall pay a deposit in accordance with the provisions of section 8418 of title 5.
 
 #### (7) Pro rata share in case of employees transferred to FERS
 
@@ -168,7 +168,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) the survivor benefits referred to in subsection (d)(2)(A),
 
-> &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
+> &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period ofthe employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
 
 #### (e) Qualified former spouse Thrift Savings Plan benefit
 
@@ -218,7 +218,7 @@ Whenever an employee or former employee becomes entitled to receive the lump-sum
 
 #### (h) Payment to qualified former spouses under court order or spousal agreement
 
-In the case of any employee or retired employee who has a qualified former spouse who iscovered by a court order or who is a party to a spousal agreement—
+In the case of any employee or retired employee who has a qualified former spouse who is covered by a court order or who is a party to a spousal agreement—
 
 &emsp;(1) any right of the qualified former spouse to any retirement benefits under subsection (c) and to any survivor benefits under subsection (d), and the amount of any such benefits;
 
@@ -236,11 +236,13 @@ In the case of any employee or retired employee who has a qualified former spous
 
 &emsp;(A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A); and
 
-&emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section 302(a) of the Federal Employees' Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
+&emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section302(a) of the Federal Employees' Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
 
 (3) Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.
 
 (Pub. L. 88–643, title III, §304, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3244; amended Pub. L. 103–178, title II, §202(a)(15), Dec. 3, 1993, 107 Stat. 2027.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -253,6 +255,8 @@ A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, §5
 #### Amendments
 
 <b>1993</b>—Subsec. (i)(1). Pub. L. 103–178 substituted "section 2002(a)(4)" for "section 2002(a)(3)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

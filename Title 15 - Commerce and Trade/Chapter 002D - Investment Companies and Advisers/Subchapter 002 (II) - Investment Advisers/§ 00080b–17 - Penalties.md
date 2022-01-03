@@ -4,11 +4,15 @@ Any person who willfully violates any provision of this subchapter, or any rule,
 
 (Aug. 22, 1940, ch. 686, title II, §217, 54 Stat. 857; Pub. L. 86–750, §15, Sept. 13, 1960, 74 Stat. 888; Pub. L. 94–29, §27(f), June 4, 1975, 89 Stat. 163.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Pub. L. 94–29 substituted "imprisoned for not more than five years" for "imprisoned for not more than two years".
 
 <b>1960</b>—Pub. L. 86–750 inserted ", or any rule, regulation or order promulgated by the Commission under authority thereof,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1975 Amendment
 

@@ -38,7 +38,7 @@ In this section:
 
 &emsp;&emsp;(C) support the implementation of innovative and unique processes and the installation of established advanced automated systems that provide real-time data on energy and water; and
 
-&emsp;&emsp;(D) improve energy-water conservation and quality and predictive maintenance through technologies that utilize internet connected technologies, including sensors, intelligent gateways, and security embedded in hardware.
+&emsp;&emsp;(D) improve energy-water conservation and quality and predictive maintenance through technologies that utilize internetconnected technologies, including sensors, intelligent gateways, and security embedded in hardware.
 
 #### (3) Project selection
 

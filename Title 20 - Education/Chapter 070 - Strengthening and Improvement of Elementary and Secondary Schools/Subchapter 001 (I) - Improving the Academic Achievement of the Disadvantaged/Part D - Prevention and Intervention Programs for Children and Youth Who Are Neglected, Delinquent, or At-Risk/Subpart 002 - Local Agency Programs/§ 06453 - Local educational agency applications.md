@@ -12,7 +12,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(3) as appropriate, a description of how participating schools will coordinate with facilities working with delinquent children and youth to ensure that such children and youth are participating in an education program comparable to one operating in the local school such youth would attend;
 
-&emsp;(4) a description of the program operated by participating schools to facilitate the successful transition of children and youth returning from correctional facilities and, as appropriate, the types of services that such schoolswill provide such children and youth and other at-risk children and youth;
+&emsp;(4) a description of the program operated by participating schools to facilitate the successful transition of children and youth returning from correctional facilities and, as appropriate, the types of services that such schools will provide such children and youth and other at-risk children and youth;
 
 &emsp;(5) a description of the characteristics (including learning difficulties, substance abuse problems, and other special needs) of the children and youth who will be returning from correctional facilities and, as appropriate, other at-risk children and youth expected to be served by the program, and a description of how the school will coordinate existing educational programs to meet the unique educational needs of such children and youth;
 
@@ -22,7 +22,7 @@ Each local educational agency desiring assistance under this subpart shall submi
 
 &emsp;(8) as appropriate, a description of how the program will involve parents and family members in efforts to improve the educational achievement of their children, assist in dropout prevention activities, and prevent the involvement of their children in delinquent activities;
 
-&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and career and technical education programs serving at-risk children and youth;
+&emsp;(9) a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such asprograms under title I of the Workforce Innovation and Opportunity Act \[29 U.S.C. 3111 et seq.\] and career and technical education programs serving at-risk children and youth;
 
 &emsp;(10) a description of how the program will be coordinated with programs operated under the Juvenile Justice and Delinquency Prevention Act of 1974 \[34 U.S.C. 11101 et seq.\] and other comparable programs, if applicable;
 
@@ -33,6 +33,8 @@ Each local educational agency desiring assistance under this subpart shall submi
 &emsp;(13) as appropriate, a description of the steps participating schools will take to find alternative placements for children and youth interested in continuing their education but unable to participate in a traditional public school program.
 
 (Pub. L. 89–10, title I, §1423, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1588; amended Pub. L. 113–128, title V, §512(i)(3), July 22, 2014, 128 Stat. 1708; Pub. L. 114–95, title I, §1401(10), Dec. 10, 2015, 129 Stat. 1903.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -59,6 +61,8 @@ Par. (9). Pub. L. 114–95, §1401(10)(E), substituted "career" for "vocational"
 Par. (13). Pub. L. 114–95, §1401(10)(F), substituted "traditional" for "regular".
 
 <b>2014</b>—Par. (9). Pub. L. 113–128 substituted "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of the Workforce Innovation and Opportunity Act" for "a description of how the program under this subpart will be coordinated with other Federal, State, and local programs, such as programs under title I of Public Law 105–220".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

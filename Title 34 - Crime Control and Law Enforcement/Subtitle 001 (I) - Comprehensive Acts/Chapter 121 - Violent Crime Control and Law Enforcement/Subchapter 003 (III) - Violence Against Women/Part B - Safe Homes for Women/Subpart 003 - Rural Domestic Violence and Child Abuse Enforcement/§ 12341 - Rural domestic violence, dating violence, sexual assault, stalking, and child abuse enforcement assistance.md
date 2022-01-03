@@ -72,7 +72,7 @@ Funds appropriated pursuant to this section shall be used only for specific prog
 
 #### (3) Allotment for technical assistance
 
-&emsp;Of the amounts appropriated for each fiscal year to carry out this section, not more than 8 percent may be used by the Director fortechnical assistance costs. Of the amounts appropriated in this subsection, no less than 25 percent of such amounts shall be available to a nonprofit, nongovernmental organization or organizations whose focus and expertise is in addressing sexual assault to provide technical assistance to sexual assault grantees.
+&emsp;Of the amounts appropriated for each fiscal year to carry out this section, not more than 8 percent may be used by the Director for technical assistance costs. Of the amounts appropriated in this subsection, no less than 25 percent of such amounts shall be available to a nonprofit, nongovernmental organization or organizations whose focus and expertise is in addressing sexual assault to provide technical assistance to sexual assault grantees.
 
 #### (4) Underserved populations
 
@@ -108,7 +108,7 @@ Section was formerly classified to section 13971 of Title 42, The Public Health 
 
 <b>2013</b>—Subsec. (a)(1)(H). Pub. L. 113–4, §202(1), inserted ", including sexual assault forensic examiners" before semicolon at end.
 
-Subsec. (b)(1). Pub. L. 113–4, §202(2)(A), substituted "victim service providers" for "victim advocacy groups" and inserted ", including developing multidisciplinary teams focusing on high risk cases with the goal of preventing domestic and dating violence homicides" before semicolon at end.
+Subsec. (b)(1). Pub. L. 113–4, §202(2)(A), substituted "victim service providers" for "victim advocacy groups" and inserted ", including developing multidisciplinary teams focusing on high risk cases with thegoal of preventing domestic and dating violence homicides" before semicolon at end.
 
 Subsec. (b)(2). Pub. L. 113–4, §202(2)(B)(i), substituted "legal assistance, and other long-term and short-term victim and population specific services" for "and other long- and short-term assistance".
 

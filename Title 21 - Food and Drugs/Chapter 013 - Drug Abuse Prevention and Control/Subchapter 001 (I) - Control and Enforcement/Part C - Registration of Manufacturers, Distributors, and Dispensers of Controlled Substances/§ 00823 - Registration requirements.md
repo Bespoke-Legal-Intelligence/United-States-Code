@@ -78,7 +78,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(5) Such other conduct which may threaten the public health and safety.
 
-> Separate registration under this part for practitioners engaging in research with controlledsubstances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+> Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in section 824(a) of this title. Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
 #### (g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver
 
@@ -122,7 +122,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(i) The drugs or combinations of drugs have, under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] or section 262 of title 42, been approved for use in maintenance or detoxification treatment.
 
-&emsp;(ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published inthe Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
+&emsp;(ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published in the Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
 
 (D)(i) A waiver under subparagraph (A) with respect to a practitioner is not in effect unless (in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
 
@@ -138,7 +138,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 (E)(i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of section 824(a)(4) of this title, consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) to be inconsistent with the public interest.
 
-(ii)(I) Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner who in good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be considered to have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
+(ii)(I) Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner who in good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be consideredto have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
 
 (II) For purposes of subclause (I), the publication in the Federal Register of an adverse determination by the Secretary pursuant to subparagraph (C)(ii) shall (with respect to the narcotic drug or combination involved) be considered to be a notification provided by the Secretary to practitioners, effective upon the expiration of the 30-day period beginning on the date on which the adverse determination is so published.
 
@@ -268,7 +268,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 #### (3) Hospital-based agency
 
-&emsp;If a hospital-based emergency medical services agency is registered under subsection (f),the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+&emsp;If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
 
 #### (4) Administration outside physical presence of medical director or authorizing medical professional
 
@@ -314,7 +314,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 #### (7) No treatment as distribution
 
-&emsp;The delivery of controlled substances by a registered emergency medical services agency pursuant to this subsection shall not be treated as distribution for purposes of section 828 of this title.
+&emsp;The delivery of controlled substances by a registered emergency medical services agencypursuant to this subsection shall not be treated as distribution for purposes of section 828 of this title.
 
 #### (8) Restocking of emergency medical services vehicles at a hospital
 
@@ -426,7 +426,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;&emsp;(M) The term "standing order" means a written medical protocol in which a medical director determines in advance the medical criteria that must be met before administering controlled substances to individuals in need of emergency medical services.
 
-&emsp;&emsp;(N) The term "verbal order" means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneouslyadminister a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
+&emsp;&emsp;(N) The term "verbal order" means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
 
 #### (k) "Factors as may be relevant to and consistent with the public health and safety" defined
 
@@ -548,7 +548,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 #### Update Regulations
 
-Pub. L. 114–198, title III, §303(c), July 22, 2016, 130 Stat. 723, provided that: "Not later than 18 months after the date of enactment of this Act \[July 22, 2016\],the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) \[probably means subsec. (a)(3)(B)(vii) "of this section", set out as a note below\] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion."
+Pub. L. 114–198, title III, §303(c), July 22, 2016, 130 Stat. 723, provided that: "Not later than 18 months after the date of enactment of this Act \[July 22, 2016\], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) \[probably means subsec. (a)(3)(B)(vii) "of this section", set out as a note below\] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion."
 
 #### Treatment for Children
 
@@ -594,7 +594,7 @@ Contents.—Each report under subparagraph (A) shall include an assessment of—
 
 &emsp;"(vi) changes in State or local policies and legislation relating to opioid use disorder treatment;
 
-&emsp;"(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii);
+&emsp;"(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispensenarcotic drugs to individuals pursuant to a waiver described in clause (iii);
 
 &emsp;"(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and
 

@@ -16,13 +16,15 @@ Nothing in this chapter shall be construed to—
 
 (Pub. L. 111–11, title VI, §6311, Mar. 30, 2009, 123 Stat. 1177; Pub. L. 113–287, §5(d)(9), Dec. 19, 2014, 128 Stat. 3265.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy Management Act (43 U.S.C. 1701–1784), referred to in par. (1), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
-The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of actJune 4, 1897, ch. 2, 30 Stat. 34, under the headings "
+The Organic Administration Act, referred to in par. (1), is the popular name for certain provisions of act June 4, 1897, ch. 2, 30 Stat. 34, under the headings "
 
 under the department of the interior." and "
 

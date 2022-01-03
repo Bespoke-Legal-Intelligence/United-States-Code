@@ -58,6 +58,8 @@ Funding.—For fiscal years beginning after September 30, 2016, this section sha
 
 (Added Pub. L. 109–59, title IV, §4124(a), Aug. 10, 2005, 119 Stat. 1736; amended Pub. L. 112–141, div. C, title II, §32604(a), (b)(1), July 6, 2012, 126 Stat. 808, 809; Pub. L. 114–94, div. A, title V, §5104(a), Dec. 4, 2015, 129 Stat. 1527; Pub. L. 115–99, §4, Jan. 3, 2018, 131 Stat. 2242.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 32303(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, referred to in subsec. (a)(2)(B)(iv), is section 32303(b) of title II of div. C of Pub. L. 112–141, which is set out as a note under section 31304 of this title.
@@ -75,6 +77,8 @@ A prior section 31313, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1027, 
 <b>2012</b>—Pub. L. 112–141, §32604(b)(1), substituted "implementation" for "improvements" in section catchline.
 
 Subsec. (a). Pub. L. 112–141, §32604(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to grants for commercial driver's license program improvements.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

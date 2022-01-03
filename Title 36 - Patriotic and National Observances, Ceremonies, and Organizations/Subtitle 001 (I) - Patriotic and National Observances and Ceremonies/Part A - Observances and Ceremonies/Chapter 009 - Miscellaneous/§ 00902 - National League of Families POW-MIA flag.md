@@ -98,7 +98,7 @@ Section 1082(g) of that Act, which defined "POW/MIA flag" as used in section 108
 
 Section 1082(h), which required that regulations be prescribed no later than 180 days after enactment of Public law 105–85, is repealed as executed.
 
-Section 1082(i), which required that the Administrator of GSA procure and distribute POW/MIA flags no later than 30 days after enactment of Public Law 105–85, is repealed as executed.
+Section 1082(i), which required that the Administrator of GSA procure and distribute POW/MIA flags nolater than 30 days after enactment of Public Law 105–85, is repealed as executed.
 
 Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously restated as subsections (b) and (c) of section 902 of title 36), is repealed as executed.
 

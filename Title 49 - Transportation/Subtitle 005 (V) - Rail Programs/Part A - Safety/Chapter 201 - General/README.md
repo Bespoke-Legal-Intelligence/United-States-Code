@@ -78,12 +78,19 @@
 |  |  |
 | :--- | ---: |
 | [20166\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020166%20-%20Emergency%20escape%20breathing%20apparatus.md) | Emergency escape breathing apparatus. |
-| \[20167. | Repealed.\] |
+| [20167\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020167%20-%20Reports%20on%20highway-rail%20grade%20crossing%20safety.md) | Reports on highway-rail grade crossing safety. |
 | [20168\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020168%20-%20Installation%20of%20audio%20and%20image%20recording%20devices.md) | Installation of audio and image recording devices. |
+| [20169\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020169%20-%20Speed%20limit%20action%20plans.md) | Speed limit action plans. |
+| [20170\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020170%20-%20Pre-revenue%20service%20safety%20validation%20plan.md) | Pre-revenue service safety validation plan. |
+| [20171\.](Subchapter%20002%20%28II%29%20-%20Particular%20Aspects%20of%20Safety/%C2%A7%2020171%20-%20Requirements%20for%20railroad%20freight%20cars%20placed%20into%20service%20in%20the%20United%20States.md) | Requirements for railroad freight cars placed into service in the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title II, §§22403(b)(2), 22415(b), 22416(b), 22425(b), Nov. 15, 2021, 135 Stat. 736, 747, 748, 756, added items 20167 and 20169 to 20171.
 
 2015–Pub. L. 114–94, div. A, title XI, §§11301(c)(1), 11411(b), 11413(b), Dec. 4, 2015, 129 Stat. 1648, 1687, 1689, added items 20121 and 20168 and struck out items 20154 "Capital grants for rail line relocation projects" and 20167 "Railroad safety infrastructure improvement grants". Items 20121 and 20168 were added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language adding those items to the analyses for subchapters I and II of this chapter, respectively.
 

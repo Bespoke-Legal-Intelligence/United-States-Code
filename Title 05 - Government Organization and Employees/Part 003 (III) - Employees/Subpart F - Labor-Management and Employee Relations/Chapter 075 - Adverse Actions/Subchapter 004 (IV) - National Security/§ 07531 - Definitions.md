@@ -60,7 +60,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Panama Canal and Panama Railroad Company
 
-Ex. Ord. No. 10237, Apr. 27, 1951, 16 F.R. 3627, made the provisions of former sections 22–1 and 22–3 of this title\[see Disposition Table preceding section 101 of this title\] applicable to the Panama Canal Government and to the Panama Canal Company.
+Ex. Ord. No. 10237, Apr. 27, 1951, 16 F.R. 3627, made the provisions of former sections 22–1 and 22–3 of this title \[see Disposition Table preceding section 101 of this title\] applicable to the Panama Canal Government and to the Panama Canal Company.
 
 #### Designation of National Security Agency, Defense Intelligence Agency, and Defense Mapping Agency as "Agencies"
 

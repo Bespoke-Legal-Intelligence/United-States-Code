@@ -16,13 +16,15 @@ In addition to the authority otherwise provided under this section, the Assistan
 
 &emsp;(1) to collect or coordinate the collection of data necessary to ensure compliance with civil rights laws within the jurisdiction of the Office for Civil Rights;
 
-&emsp;(2) to select, appoint, and employ such officers and employees, including staff attorneys, as may be necessary to carry out the functions of such Office, subject to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
+&emsp;(2) to select, appoint, and employ such officers and employees, including staff attorneys, as may be necessary to carry out the functions of such Office, subject to the provisions of title 5 governing appointments in the competitive service and the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates;
 
 &emsp;(3) to enter into contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private organizations and persons, and to make such payments as may be necessary to carry out the compliance and enforcement functions of such Office; and
 
 &emsp;(4) notwithstanding any other provision of this chapter, to obtain services as authorized by section 3109 of title 5 at a rate not to exceed the equivalent daily rate payable for grade GS–18 of the General Schedule under section 5332 of such title.
 
 (Pub. L. 96–88, title II, §203, Oct. 17, 1979, 93 Stat. 673.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

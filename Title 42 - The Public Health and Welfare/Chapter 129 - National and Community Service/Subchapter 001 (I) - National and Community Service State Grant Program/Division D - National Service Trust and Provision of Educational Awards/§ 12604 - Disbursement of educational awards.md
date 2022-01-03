@@ -74,7 +74,7 @@ Amounts in the Trust shall be available—
 
 #### (1) Application by eligible individual
 
-&emsp;An eligible individual under section 12602 of this title who desires to apply the individual's national service educational award, an eligible individual under section 12602(a) of this title who desires to apply the individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the payment of current full-time or part-time educational expensesshall, on a form prescribed by the Corporation, submit an application to the institution of higher education in which the student will be enrolled that contains such information as the Corporation may require to verify the individual's eligibility.
+&emsp;An eligible individual under section 12602 of this title who desires to apply the individual's national service educational award, an eligible individual under section 12602(a) of this title who desires to apply the individual's summer of service educational award, or an eligible individual under section 12602(a) of this title who served in a silver scholar program and desires to apply that individual's silver scholar educational award, to the payment of current full-time or part-time educational expenses shall, on a form prescribed by the Corporation, submit an application to the institution of higher education in which the student will be enrolled that contains such information as the Corporation may require to verify the individual's eligibility.
 
 #### (2) Submission of requests for payment by institutions
 
@@ -104,7 +104,7 @@ Amounts in the Trust shall be available—
 
 #### (5) Refund rules
 
-&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b). Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
+&emsp;The Corporation shall, by regulation, provide for the refund to the Corporation (and the crediting to the national service educational award, summer of service educational award, or silver scholar educational award, as applicable, of an eligible individual) of amounts disbursed to institutions for the benefit of eligible individuals who withdraw or otherwise fail to complete the period of enrollment for which the assistance was provided. Such regulations shall be consistent with the fair and equitable refund policies required of institutions pursuant to section 484B of the Higher Education Act of 1965 (20 U.S.C. 1091b).Amounts refunded to the Trust pursuant to this paragraph may be used by the Corporation to fund additional approved national service positions under division C, additional approved summer of service positions, and additional approved silver scholar positions.
 
 #### (6) Maximum award
 
@@ -184,6 +184,8 @@ Notwithstanding section 12511 of this title, for purposes of this section the te
 
 (Pub. L. 101–610, title I, §148, as added Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 820; amended Pub. L. 105–244, title I, §102(c)(2), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 111–13, title I, §1405, Apr. 21, 2009, 123 Stat. 1515.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Higher Education Act of 1965, referred to in subsecs. (b)(7)(A), (C)(ii) and (c)(2)(C)(ii), (6)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education. Parts A and D of title IV of the Act are classified generally to parts A (§1070 et seq.) and D (§1087a et seq.), respectively, of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
@@ -239,6 +241,8 @@ Pub. L. 111–13, §1405(7), substituted "Chief Executive Officer" for "Director
 Subsecs. (g), (h). Pub. L. 111–13, §1405(8), redesignated subsecs. (f) and (g) as (g) and (h), respectively.
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–244 substituted "section 102 of the Higher Education Act of 1965" for "section 481(a) of the Higher Education Act of 1965 (20 U.S.C. 1088(a))".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

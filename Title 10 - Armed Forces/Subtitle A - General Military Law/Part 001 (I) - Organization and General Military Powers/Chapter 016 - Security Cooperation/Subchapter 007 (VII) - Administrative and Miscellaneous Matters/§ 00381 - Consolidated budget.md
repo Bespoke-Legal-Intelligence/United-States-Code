@@ -10,6 +10,8 @@ Quarterly Report on Use of Funds.—Not later than 60 days after the end of each
 
 (Added Pub. L. 114–328, div. A, title XII, §1249(a), Dec. 23, 2016, 130 Stat. 2526; amended Pub. L. 116–92, div. A, title XII, §1204, Dec. 20, 2019, 133 Stat. 1622.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 381 was renumbered section 281 of this title.
@@ -17,6 +19,8 @@ A prior section 381 was renumbered section 281 of this title.
 #### Amendments
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "60 days" for "30 days".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date; Applicability
 

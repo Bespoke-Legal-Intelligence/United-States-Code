@@ -4,7 +4,7 @@
 
 Not later than March 15, 2001, the President shall submit to Congress a proposal for legislation to implement the compensation program. The proposal for legislation shall include, at a minimum, the specific recommendations (including draft legislation) of the President for the following:
 
-&emsp;(1) The types of compensation and benefits, including lost wages, medical benefits, and any lump-sum settlement payments, to be provided under the compensation program.
+&emsp;(1) The types of compensation and benefits, including lost wages, medical benefits, andany lump-sum settlement payments, to be provided under the compensation program.
 
 &emsp;(2) Any adjustments or modifications necessary to appropriately administer the compensation program under part B.
 

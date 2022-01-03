@@ -2,13 +2,15 @@
 
 #### (a) Transfers in foreign countries
 
-The expense of transporting the remains of customs officers and employees who die while in or in transit to foreign countries in the discharge of their official duties, to their former homes in this country for interment, and the ordinary and necessary expenses for such interment, at their posts of duty or at home, are authorized to be paid upon the written order of theSecretary of the Treasury. The expenses authorized by this subdivision shall be paid from the appropriation for the collection of the revenue from customs.
+The expense of transporting the remains of customs officers and employees who die while in or in transit to foreign countries in the discharge of their official duties, to their former homes in this country for interment, and the ordinary and necessary expenses for such interment, at their posts of duty or at home, are authorized to be paid upon the written order of the Secretary of the Treasury. The expenses authorized by this subdivision shall be paid from the appropriation for the collection of the revenue from customs.
 
 #### (b) Transportation on foreign ships
 
 Notwithstanding the provisions of section 601 of the Merchant Marine Act, 1928, or of any other law, any allowance, within the limitations prescribed by law, for travel or shipping expenses incurred on a foreign ship by any officer or employee of the Bureau of Customs or the Customs Service, shall be credited if the Secretary of the Treasury certifies to the Comptroller General that transportation on such foreign ship was necessary to protect the revenue.
 
 (June 17, 1930, ch. 497, title IV, §645(a), (c), 46 Stat. 761; Aug. 2, 1946, ch. 744, §2, 60 Stat. 807.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -22,13 +24,19 @@ Section is comprised of subsecs. (a) and (c) of section 645 of act June 17, 1930
 
 <b>1946</b>—Subsec. (a). Act Aug. 2, 1946, eff. Nov. 1, 1946, repealed first sentence relating to traveling expenses of transferred employees. See section 5729 of Title 5, Government Organization and Employees.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
+
 #### Change of Name
 
 Bureau of Customs redesignated United States Customs Service by Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
 #### Transfer of Functions
-
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26, of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Bureau of Customs and Customs Service, referred to in text, were under Department of the Treasury.
 

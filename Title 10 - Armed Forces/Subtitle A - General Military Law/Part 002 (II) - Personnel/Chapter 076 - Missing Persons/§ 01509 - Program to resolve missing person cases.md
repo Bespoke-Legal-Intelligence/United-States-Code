@@ -20,7 +20,7 @@ Program Required; Covered Conflicts.—The Secretary of Defense shall implement 
 
 Implementation.—(1) The Secretary of Defense shall implement the program within the Department of Defense through the designated Agency Director.
 
-(2)(A) The Secretary shall assign or detail to the designated Defense Agency on a full-time basis a senior medical examiner from the personnel of the Armed Forces Medical Examiner System. The primary duties of the medical examiner so assigned or detailed shall include the identification of remains in support of the function of the designated Agency Director to account for unaccounted for persons covered by subsection (a).
+(2)(A) The Secretary shall assign or detail to the designated Defense Agency on a full-time basis a senior medical examiner from the personnel of the Armed Forces Medical ExaminerSystem. The primary duties of the medical examiner so assigned or detailed shall include the identification of remains in support of the function of the designated Agency Director to account for unaccounted for persons covered by subsection (a).
 
 (B) In carrying out functions under this chapter, the medical examiner so assigned or detailed shall report to the designated Agency Director.
 
@@ -78,6 +78,8 @@ Coordination Requirements.—(1) In carrying out the program, the designated Age
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 348; amended Pub. L. 104–201, div. A, title V, §578(f)(1), (2)(A), Sept. 23, 1996, 110 Stat. 2537; Pub. L. 105–85, div. A, title V, §599(e), Nov. 18, 1997, 111 Stat. 1769; Pub. L. 106–65, div. A, title X, §1066(a)(14), Oct. 5, 1999, 113 Stat. 771; Pub. L. 111–84, div. A, title V, §541(a), Oct. 28, 2009, 123 Stat. 2296; Pub. L. 113–291, div. A, title IX, §916(d), (f)(1), Dec. 19, 2014, 128 Stat. 3478, 3479.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–291, §916(f)(1), substituted "Program to resolve missing person cases" for "Program to resolve preenactment missing person cases" in section catchline.
@@ -126,13 +128,15 @@ Subsecs. (c), (d). Pub. L. 104–201, §578(f)(1), redesignated subsec. (d) as (
 
 Special Rule for Persons Classified as 'KIA/BNR'.—In the case of a person described in subsection (b) who was classified as 'killed in action/body not recovered', the case of that person may be reviewed under this section only if the new information referred to in subsection (a) is compelling."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Implementation
 
 Pub. L. 111–84, div. A, title V, §541(d), Oct. 28, 2009, 123 Stat. 2298, provided that:
 
 "(1)
 
-Priority.—A priority of the program required by section 1509 of title 10, United States Code, as amendedby subsection (a), to resolve missing person cases arising before the enactment of chapter 76 of such title by section 569 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 336) \[approved Feb. 10, 1996\] shall be the return of missing persons to United States control alive.
+Priority.—A priority of the program required by section 1509 of title 10, United States Code, as amended by subsection (a), to resolve missing person cases arising before the enactment of chapter 76 of such title by section 569 of the National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106; 110 Stat. 336) \[approved Feb. 10, 1996\] shall be the return of missing persons to United States control alive.
 
 "(2)
 

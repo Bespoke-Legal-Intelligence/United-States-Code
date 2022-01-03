@@ -98,7 +98,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;(ii) in the case of the 1999 crop year, 35 percent of the quantity of beet sugar produced by the processor during the crop year; and
 
-&emsp;&emsp;&emsp;(iii) in the case of the 2000 crop year, 40 percent of the quantity of beet sugar produced by the processor (including anyquantity of sugar received from the Commodity Credit Corporation) during the crop year.
+&emsp;&emsp;&emsp;(iii) in the case of the 2000 crop year, 40 percent of the quantity of beet sugar produced by the processor (including any quantity of sugar received from the Commodity Credit Corporation) during the crop year.
 
 #### (D) Adjustments
 
@@ -124,7 +124,7 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a processor that constructed a molasses desugarization facility, increased by 0.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph) for each molasses desugarization facility that is constructed by the processor; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) in the case of a processor that suffered substantial quality losses on stored sugar beets, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph).
+&emsp;&emsp;&emsp;&emsp;(IV) in the case of a processor that suffered substantial quality losses on storedsugar beets, increased by 1.25 percent of the total of the adjusted weighted average quantities of beet sugar produced by all processors during the 1998 through 2000 crop years (without consideration of any adjustment under this subparagraph).
 
 #### (E) Permanent termination of operations of a processor
 
@@ -208,6 +208,8 @@ Whenever marketing allotments are established for a crop year under section 1359
 
 (Feb. 16, 1938, ch. 30, title III, §359d, as added Pub. L. 107–171, title I, §1403, May 13, 2002, 116 Stat. 191; amended Pub. L. 110–234, title I, §1403(d), May 22, 2008, 122 Stat. 984; Pub. L. 110–246, §4(a), title I, §1403(d), June 18, 2008, 122 Stat. 1664, 1712.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -221,6 +223,8 @@ A prior section 1359dd, act Feb. 16, 1938, ch. 30, title III, §359d, as added P
 <b>2008</b>—Subsec. (b)(1)(F). Pub. L. 110–246, §1403(d)(1), substituted "If" for "Except as otherwise provided in section 1359ff(c)(8) of this title, if".
 
 Subsec. (b)(2)(G) to (I). Pub. L. 110–246, §1403(d)(2), added subpars. (G) and (H) and struck out former subpars. (G) to (I) which related to sale of factories of a processor to another processor, new entrants starting production or reopening factories after May 13, 2002, and new entrants acquiring ongoing factories with production history during the period of the 1998 through 2000 crop years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

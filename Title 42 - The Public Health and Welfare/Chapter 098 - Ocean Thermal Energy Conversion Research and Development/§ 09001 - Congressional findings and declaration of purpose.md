@@ -28,6 +28,8 @@
 
 (Pub. L. 96–310, §2, July 17, 1980, 94 Stat. 941.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 96–310, §1, July 17, 1980, 94 Stat. 941, provided: "That this Act \[enacting this chapter\] may be cited as the 'Ocean Thermal Energy Conversion Research, Development, and Demonstration Act'."

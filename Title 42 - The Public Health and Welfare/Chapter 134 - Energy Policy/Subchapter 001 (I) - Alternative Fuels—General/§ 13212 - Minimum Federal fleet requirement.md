@@ -92,7 +92,7 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 #### (C) Special rule for vehicles provided by funds contained in Members' Representational Allowance
 
-&emsp;&emsp;This paragraph shall apply to the acquisition of a light duty motor vehicle or mediumduty passenger vehicle using any portion of a Member's Representational Allowance, including an acquisition under a long-term lease.
+&emsp;&emsp;This paragraph shall apply to the acquisition of a light duty motor vehicle or medium duty passenger vehicle using any portion of a Member's Representational Allowance, including an acquisition under a long-term lease.
 
 #### (3) Guidance
 
@@ -114,15 +114,21 @@ There are authorized to be appropriated for carrying out this section, such sums
 
 (Pub. L. 102–486, title III, §303, Oct. 24, 1992, 106 Stat. 2871; Pub. L. 109–58, title VII, §702, Aug. 8, 2005, 119 Stat. 815; Pub. L. 110–140, title I, §141, Dec. 19, 2007, 121 Stat. 1517.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsecs. (f), (g). Pub. L. 110–140 added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted "shall" for "may".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12844
 

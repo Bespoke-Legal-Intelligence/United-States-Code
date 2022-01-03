@@ -10,7 +10,7 @@ Exceptions.—
 
 &emsp;(1)
 
-Regulations.—Under regulations of the Secretary governing the payment for transportation and service and preventing discrimination, those carriers may give up possession at destination of property transported by them before payment for the transportation or service. The regulations of the Secretary may provide for weekly or monthly payment for transportation provided by motor carriers and for periodic payment for transportation provided by water carriers.
+Regulations.—Under regulations of the Secretary governing the payment for transportation and service and preventing discrimination, those carriers may give up possession at destination of property transported by them before payment for the transportation or service. The regulations of the Secretary mayprovide for weekly or monthly payment for transportation provided by motor carriers and for periodic payment for transportation provided by water carriers.
 
 &emsp;(2)
 
@@ -32,7 +32,7 @@ In general.—A carrier providing transportation of a shipment of household good
 
 &emsp;&emsp;(B)
 
-Calculation of prorated charges.—For purposes of subparagraph (A)(iii), theprorated percentage of the charges shall be the percentage of the total charges due to the carrier as described in clause (i) or (ii) of subparagraph (A) that is equal to the percentage of the weight of that portion of the shipment delivered to the total weight of the shipment.
+Calculation of prorated charges.—For purposes of subparagraph (A)(iii), the prorated percentage of the charges shall be the percentage of the total charges due to the carrier as described in clause (i) or (ii) of subparagraph (A) that is equal to the percentage of the weight of that portion of the shipment delivered to the total weight of the shipment.
 
 &emsp;&emsp;(C)
 
@@ -44,6 +44,8 @@ Impracticable operations.—Subparagraph (A) does not apply to impracticable ope
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 873; amended Pub. L. 109–59, title IV, §4203, Aug. 10, 2005, 119 Stat. 1752.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 10743 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -51,6 +53,8 @@ Provisions similar to those in this section were contained in section 10743 of t
 #### Amendments
 
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–59 added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

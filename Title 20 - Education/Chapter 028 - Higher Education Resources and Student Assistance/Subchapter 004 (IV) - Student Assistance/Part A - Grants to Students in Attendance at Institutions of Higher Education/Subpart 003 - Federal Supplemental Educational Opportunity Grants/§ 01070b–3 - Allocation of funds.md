@@ -108,6 +108,8 @@ The Secretary shall, from time to time, set dates before which institutions must
 
 <i>See 2020 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subpart 3 of this part, referred to in subsec. (c)(1)(B), was redesignated subpart 4 by Pub. L. 102–325, title IV, §402(a)(2), July 23, 1992, 106 Stat. 482, and former subpart 2 \[this subpart\] was redesignated as subpart 3.
@@ -156,7 +158,7 @@ Subsec. (e). Pub. L. 102–325, §403(h), designated existing provisions as par.
 
 &emsp;"(ii) the average cost of attendance for all undergraduate students minus the expected family contribution determined under subparagraph (B) for that income category, except that the amount computed by such subtraction shall not be less than zero;".
 
-Subsec. (d)(2)(F). Pub. L. 100–50, §4(a)(2), added subpar. (F) and struck out former subpar. (F) which readas follows: "multiply the number of eligible independent students in each income category by the lesser of—
+Subsec. (d)(2)(F). Pub. L. 100–50, §4(a)(2), added subpar. (F) and struck out former subpar. (F) which read as follows: "multiply the number of eligible independent students in each income category by the lesser of—
 
 &emsp;"(i) 75 percent of the average cost of attendance for all undergraduate students determined under subparagraph (C); or
 
@@ -165,6 +167,8 @@ Subsec. (d)(2)(F). Pub. L. 100–50, §4(a)(2), added subpar. (F) and struck out
 Subsec. (d)(3)(A). Pub. L. 100–50, §4(b)(1), struck out "and for graduate and professional students" after "undergraduate students".
 
 Subsec. (d)(3)(B). Pub. L. 100–50, §4(b)(2), struck out "and graduate and professional" after "average undergraduate" and struck out "and graduate" after "from undergraduate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

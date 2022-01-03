@@ -38,7 +38,7 @@ Elements.—The guidance required by subsection (a) shall, at a minimum—
 
 &emsp;&emsp;&emsp;(ii) to develop strategies for improving reliability, availability, and maintainability of such systems at an affordable cost; and
 
-&emsp;(10) require the military departments to conduct periodic reviews of operating and supportcosts of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.
+&emsp;(10) require the military departments to conduct periodic reviews of operating and support costs of major weapon systems after such systems achieve initial operational capability to identify and address factors resulting in growth in operating and support costs and adapt support strategies to reduce such costs.
 
 (c)
 
@@ -64,9 +64,11 @@ Major Weapon System Defined.—In this section, the term "major weapon system" h
 
 (Added Pub. L. 115–91, div. A, title VIII, §836(a)(1), Dec. 12, 2017, 131 Stat. 1472, §2337a; amended Pub. L. 115–232, div. A, title X, §1081(a)(20), Aug. 13, 2018, 132 Stat. 1984; renumbered §4325 and amended Pub. L. 116–283, div. A, title XVIII, §1848(d)(1), (3), Jan. 1, 2021, 134 Stat. 4258.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, §1848(d)(3)(B), amended section catchline generally. Prior to amendment, section catchline read as follows: "Assessment, management, and control of operating and support costs for major weapon systems".
+<b>2021</b>—Pub. L. 116–283, §1848(d)(3)(B), amended section catchline generally. Prior to amendment, sectioncatchline read as follows: "Assessment, management, and control of operating and support costs for major weapon systems".
 
 Pub. L. 116–283, §1848(d)(1), renumbered section 2337a of this title as this section.
 
@@ -74,7 +76,167 @@ Subsec. (b)(1). Pub. L. 116–283, §1848(d)(3)(A)(i), substituted "section 4324
 
 Subsec. (d). Pub. L. 116–283, §1848(d)(3)(A)(ii), substituted "section 3455(f)" for "section 2379(f)".
 
+<b>2018</b>—Subsec. (d). Pub. L. 115–232 substituted "this title" for "title 10, United States Code".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Pilot Program on Time-Certain Development in Acquisition of Major Weapon Systems
+
+Pub. L. 109–364, div. A, title VIII, §812, Oct. 17, 2006, 120 Stat. 2317, as amended by Pub. L. 110–417, \[div. A\], title VIII, §813(d)(3), Oct. 14, 2008, 122 Stat. 4527; Pub. L. 111–84, div. A, title X, §1073(c)(5), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 116–283, div. A, title XVIII, §1806(e)(2)(D), Jan. 1, 2021, 134 Stat. 4155, provided that:
+
+"(a)
+
+Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program on the use of time-certain development in the acquisition of major weapon systems.
+
+"(b)
+
+Purpose of Pilot Program.—The purpose of the pilot program authorized by subsection (a) is to assess the feasibility and advisability of utilizing time-certain development in the acquisition of major weapon systems in order to deliver new capabilities to the warfighter more rapidly through—
+
+&emsp;"(1) disciplined decision-making;
+
+&emsp;"(2) emphasis on technological maturity; and
+
+&emsp;"(3) appropriate trade-offs between—
+
+&emsp;&emsp;"(A) cost and system performance; and
+
+&emsp;&emsp;"(B) program schedule.
+
+"(c)
+
+Inclusion of Systems in Pilot Program.—
+
+&emsp;"(1)
+
+In general.—The Secretary of Defense may include a major weapon system in the pilot program only if—
+
+&emsp;&emsp;"(A) the major weapon system meets the criteria under paragraph (2) in accordance with that paragraph; and
+
+&emsp;&emsp;"(B) the Milestone Decision Authority nominates such program to the Secretary of Defense for inclusion in the program.
+
+&emsp;"(2)
+
+Criteria.—For purposes of paragraph (1) a major weapon system meets the criteria under this paragraph only if the Milestone Decision Authority determines, in consultation with the service acquisition executive for the military department carrying out the acquisition program for the system and one or more combatant commanders responsible for fielding the system, that—
+
+&emsp;&emsp;"(A) the certification requirements of section 2366b of title 10, United States Code \[now 10 U.S.C. 4252\] (as amended by section 805 of this Act), have been met, and no waivers have been granted from such requirements;
+
+&emsp;&emsp;"(B) a preliminary design has been reviewed using systems engineering, and the system, as so designed, will meet battlefield needs identified by the relevant combatant commanders after appropriate requirements analysis;
+
+&emsp;&emsp;"(C) a representative model or prototype of the system, or key subsystems, has been demonstrated in a relevant environment, such as a well-simulated operational environment;
+
+&emsp;&emsp;"(D) an independent cost estimate has been conducted and used as the basis for funding requirements for the acquisition program for the system;
+
+&emsp;&emsp;"(E) the budget of the military department responsible for carrying out the acquisition program for the system provides the funding necessary to execute the product development and production plan consistent with the requirements identified pursuant to subparagraph (D);
+
+&emsp;&emsp;"(F) an appropriately qualified program manager has entered into a performance agreement with the Milestone Decision Authority that establishes expected parameters for the cost, schedule, and performance of the acquisition program for the system, consistent with a business case for such acquisition program;
+
+&emsp;&emsp;"(G) the service acquisition executive and the program manager have developed a strategy to ensure stability in program management until, at a minimum, the delivery of the initial operational capability under the acquisition program for the system has occurred;
+
+&emsp;&emsp;"(H) the service acquisition executive, the relevant combatant commanders, and the program manager have agreed that no additional requirements that would be inconsistent with the agreed-upon program schedule will be added during the development phase of the acquisition program for the system; and
+
+&emsp;&emsp;"(I) a planned initial operational capability will be delivered to the relevant combatant commanders within a defined period of time as prescribed in regulations by the Secretary of Defense.
+
+&emsp;"(3)
+
+Timing of decision.—The decision whether to include a major weapon system in the pilot program shall be made at the time of milestone approval for the acquisition program for the system.
+
+"(d)
+
+Limitation on Number of Weapons Systems in Pilot Program.—The number of major weapon systems included in the pilot program at any time may not exceed six major weapon systems.
+
+"(e)
+
+Limitation on Cost of Weapons Systems in Pilot Program.—The Secretary of Defense may include a major weapon system in the pilot program only if, at the time a major weapon system is proposed for inclusion, the total cost for system design and development of the weapon system, as set forth in the cost estimate referred to in subsection (c)(2)(D), does not exceed $1,000,000,000 during the period covered by the current future-years defense program.
+
+"(f)
+
+Special Funding Authority.—
+
+&emsp;"(1)
+
+Authority for reserve account.—Notwithstanding any other provision of law, the Secretary of Defense may establish a special reserve account utilizing funds made available for the major weapon systems included in the pilot program.
+
+&emsp;"(2)
+
+Elements.—The special reserve account may include—
+
+&emsp;&emsp;"(A) funds made available for any major weapon system included in the pilot program to cover termination liability;
+
+&emsp;&emsp;"(B) funds made available for any major weapon system included in the pilot program for award fees that may be earned by contractors; and
+
+&emsp;&emsp;"(C) funds appropriated to the special reserve account.
+
+&emsp;"(3)
+
+Availability of funds.—Funds in the special reserve account may be used, in accordance with guidance issued by the Secretary for purposes of this section, for the following purposes:
+
+&emsp;&emsp;"(A) To cover termination liability for any major weapon system included in the pilot program.
+
+&emsp;&emsp;"(B) To pay award fees that are earned by any contractor for a major weapon system included in the pilot program.
+
+&emsp;&emsp;"(C) To address unforeseen contingencies that could prevent a major weapon system included in the pilot program from meeting critical schedule or performance requirements.
+
+&emsp;"(4)
+
+Reports on use of funds.—Not later than 30 days after the use of funds in the special reserve account for the purpose specified in paragraph (3)(C), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of funds in the account for such purpose. The report shall set forth the purposes for which the funds were used and the reasons for the use of the funds for such purposes.
+
+&emsp;"(5)
+
+Relationship to appropriations.—Nothing in this subsection may be construed as extending any period of time for which appropriated funds are made available.
+
+"(g)
+
+Administration of Pilot Program.—The Secretary of Defense shall prescribe policies and procedures on the administration of the pilot program. Such policies and procedures shall—
+
+&emsp;"(1) provide for the use of program status reports based on earned value data to track progress on a major weapon system under the pilot program against baseline estimates applicable to such system at each systems engineering technical review point; and
+
+&emsp;"(2) grant authority, to the maximum extent practicable, to the program manager for the acquisition program for a major weapon system to make key program decisions and trade-offs, subject to management reviews only if cost or schedule deviations exceed the baselines for such acquisition program by 10 percent or more.
+
+"(h)
+
+Removal of Weapons Systems From Pilot Program.—The Secretary of Defense shall remove a major weapon system from the pilot program if—
+
+&emsp;"(1) the weapon system receives Milestone C approval; or
+
+&emsp;"(2) the Secretary determines that the weapon system is no longer in substantial compliance with the criteria in subsection (c)(2) or is otherwise no longer appropriate for inclusion in the pilot program.
+
+"(i)
+
+Expiration of Authority To Include Additional Systems in Pilot Program.—
+
+&emsp;"(1)
+
+Expiration.—A major weapon system may not be included in the pilot program after September 30, 2012.
+
+&emsp;"(2)
+
+Retention of systems.—A major weapon system included in the pilot program before the date specified in paragraph (1) in accordance with the requirements of this section may remain in the pilot program after that date.
+
+"(j)
+
+Annual Report.—
+
+&emsp;"(1)
+
+In general.—Not later than one year after including the first major weapon system in the pilot program, and annually thereafter, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, and the major weapon systems included in the pilot program, during the one-year period ending on the date of such report.
+
+&emsp;"(2)
+
+Elements.—Each report under this subsection shall include—
+
+&emsp;&emsp;"(A) a description of progress under the pilot program, and on each major weapon system included in the pilot program, during the period covered by such report;
+
+&emsp;&emsp;"(B) a description of the use of all funds in the special reserve account established under subsection (f); and
+
+&emsp;&emsp;"(C) such other matters as the Secretary considers appropriate.
+
+"(k)
+
+Major Weapon System Defined.—In this section, the term 'major weapon system' means a weapon system that is treatable as a major system under section 3041 of title 10, United States Code."
+
+\[Pub. L. 111–84, div. A, title X, §1073(c), Oct. 28, 2009, 123 Stat. 2474, provided that the amendment made by section 1073(c)(5) to section 813(d)(3) of Pub. L. 110–417 (which amended section 812 of Pub. L. 109–364, set out above) is effective as of Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.\]
 

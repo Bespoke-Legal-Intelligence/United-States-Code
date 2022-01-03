@@ -46,6 +46,8 @@ The following data elements are considered in determining the expected family co
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to determination of expected family contribution and the data elements to be considered.
@@ -55,6 +57,8 @@ The following data elements are considered in determining the expected family co
 <b>1992</b>—Pub. L. 102–325 substituted "Determination of expected family contribution; data elements" for "Data elements used in determining expected family contribution" in section catchline and amended text generally, adding subsec. (a), designating existing provisions as subsec. (b) and inserting heading, adding the age of the older parent, in the case of a dependent student, and the student as a data element and striking out consideration of any unusual medical and dental expenses and consideration of the number of dependent children other than the student enrolled in a private elementary or secondary institution and the unreimbursed tuition paid as data elements.
 
 <b>1988</b>—Par. (8). Pub. L. 100–369 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

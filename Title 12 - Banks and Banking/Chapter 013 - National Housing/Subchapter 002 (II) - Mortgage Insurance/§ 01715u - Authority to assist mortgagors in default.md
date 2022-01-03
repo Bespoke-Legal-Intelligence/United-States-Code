@@ -8,7 +8,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (1) Establishment of program
 
-&emsp;The Secretary may establish a program for payment of a partial claim to a mortgageethat agrees to apply the claim amount to payment of a mortgage on a 1- to 4-family residence that is in default or faces imminent default, as defined by the Secretary.
+&emsp;The Secretary may establish a program for payment of a partial claim to a mortgagee that agrees to apply the claim amount to payment of a mortgage on a 1- to 4-family residence that is in default or faces imminent default, as defined by the Secretary.
 
 #### (2) Payments and exceptions
 
@@ -76,7 +76,7 @@ Upon default or imminent default, as defined by the Secretary <sup>1</sup> of a
 
 #### (D) Loan servicing
 
-&emsp;&emsp;In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgagefor the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to the maximum extent possible, with section 1709(b) of this title. If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
+&emsp;&emsp;In carrying out this paragraph, the Secretary may require the existing servicer of a mortgage assigned to the Secretary to continue servicing the mortgage as an agent of the Secretary during the period that the Secretary acquires and holds the mortgage for the purpose of modifying the terms of the mortgage, provided that the Secretary compensates the existing servicer appropriately, as such compensation is determined by the Secretary consistent, to the maximum extent possible, with section 1709(b) of this title. If the mortgage is resold pursuant to subparagraph (C)(iii), the Secretary may provide for the existing servicer to continue to service the mortgage or may engage another entity to service the mortgage.
 
 #### (d) Prohibition of judicial review
 
@@ -136,7 +136,7 @@ Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–399 added subsec. (a). Existing undesignated provisions were designated as subsec. (b)(1).
 
-Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinationsmade pursuant to such subsection, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 96–399 designated existing undesignated provision as par. (1), made changes in phraseology which included applicability of remedy provided by subsection (a) of this section and determinations made pursuant to such subsection, and added pars. (2) and (3).
 
 Subsecs. (c), (d). Pub. L. 96–399 added subsecs. (c) and (d).
 

@@ -50,7 +50,7 @@ Information Considered.—(1) In reviewing a person and recommending whether the
 
 (d)
 
-Consideration.—(1) In considering the record and information on a person under this section, the special selection review board shall compare such record and information with an appropriate sampling of the records of those officers of the same competitive category who were recommended for promotion by the promotion board that recommended the person for promotion, and an appropriate sampling of the records of those officers who were considered by and not recommended for promotion by that promotion board.
+Consideration.—(1) In considering the record and information on a person under this section, the special selection review board shall compare such record and information with anappropriate sampling of the records of those officers of the same competitive category who were recommended for promotion by the promotion board that recommended the person for promotion, and an appropriate sampling of the records of those officers who were considered by and not recommended for promotion by that promotion board.
 
 (2) Records and information shall be presented to a special selection review board for purposes of paragraph (1) in a manner that does not indicate or disclose the person or persons for whom the special selection review board was convened.
 

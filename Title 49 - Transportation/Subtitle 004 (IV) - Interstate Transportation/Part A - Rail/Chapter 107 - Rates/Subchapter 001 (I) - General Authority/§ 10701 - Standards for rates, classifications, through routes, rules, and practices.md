@@ -22,6 +22,8 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 809; amended Pub. L. 104–287, §5(22), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, §11(a), Dec. 18, 2015, 129 Stat. 2233.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 10701 and 10701a were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -35,6 +37,8 @@ Section 10701a, added Pub. L. 96–448, title II, §201(a), Oct. 14, 1980, 94 St
 <b>2015</b>—Subsec. (d)(3). Pub. L. 114–110 amended par. (3) generally. Prior to amendment, text read as follows: "The Board shall, within one year after January 1, 1996, complete the pending Interstate Commerce Commission non-coal rate guidelines proceeding to establish a simplified and expedited method for determining the reasonableness of challenged rail rates in those cases in which a full stand-alone cost presentation is too costly, given the value of the case."
 
 <b>1996</b>—Subsec. (d)(3). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this paragraph".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

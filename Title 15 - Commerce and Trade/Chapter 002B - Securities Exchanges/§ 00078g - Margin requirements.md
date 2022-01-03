@@ -60,7 +60,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 #### (3) Exception
 
-&emsp;This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for a member of a national securities exchange or a registered broker or dealer—
+&emsp;This subsection and the rules and regulations issued under this subsection shall not apply to any credit extended, maintained, or arranged by a member of a national securities exchange or a broker or dealer to or for amember of a national securities exchange or a registered broker or dealer—
 
 &emsp;&emsp;(A) a substantial portion of whose business consists of transactions with persons other than brokers or dealers; or
 
@@ -116,9 +116,11 @@ The provisions of this section or the rules and regulations thereunder shall not
 
 #### (g) Effect of bona fide agreement for delayed delivery of mortgage related security
 
-Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a national securities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
+Subject to such rules and regulations as the Board of Governors of the Federal Reserve System may adopt in the public interest and for the protection of investors, no member of a nationalsecurities exchange or broker or dealer shall be deemed to have extended or maintained credit or arranged for the extension or maintenance of credit for the purpose of purchasing a security, within the meaning of this section, by reason of a bona fide agreement for delayed delivery of a mortgage related security or a small business related security against full payment of the purchase price thereof upon such delivery within one hundred and eighty days after the purchase, or within such shorter period as the Board of Governors of the Federal Reserve System may prescribe by rule or regulation.
 
 (June 6, 1934, ch. 404, title I, §7, 48 Stat. 886; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 90–437, July 29, 1968, 82 Stat. 452; Pub. L. 91–508, title III, §301(a), Oct. 26, 1970, 84 Stat. 1124; Pub. L. 98–440, title I, §102, Oct. 3, 1984, 98 Stat. 1690; Pub. L. 103–325, title II, §203, Sept. 23, 1994, 108 Stat. 2199; Pub. L. 104–290, title I, §104(a), Oct. 11, 1996, 110 Stat. 3422; Pub. L. 105–353, title III, §301(b)(5), (6), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §206(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–429; Pub. L. 111–203, title IX, §929, July 21, 2010, 124 Stat. 1852.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -154,13 +156,15 @@ Subsec. (c). Pub. L. 90–437, §1(2), struck out "who transacts a business in s
 
 Subsec. (d). Pub. L. 90–437, §1(3), struck out "registered on a national securities exchange" after "the purpose of purchasing or carrying any security", and "registered on national securities exchanges" after "the purpose of purchasing or carrying securities".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Act Aug. 23, 1935, in subsec. (e), substituted "Board of Governors of the Federal Reserve System" for "Federal Reserve Board".
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 #### Effective Date of 1970 Amendment
 

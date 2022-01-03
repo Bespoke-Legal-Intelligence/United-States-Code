@@ -38,11 +38,13 @@ In addition to the restrictions under section 1853(d)(1)(A) of this title, the G
 
 Any fishery management plan, plan amendment, or regulation submitted by the Gulf Council for the red snapper fishery after October 11, 1996, shall contain conservation and management measures that—
 
-&emsp;(1) establish separate quotas for recreational fishing (which, for the purposes of this subsection shall include charter fishing) and commercial fishing that, when reached, result in a prohibition on the retention of fish caught during recreational fishing and commercialfishing, respectively, for the remainder of the fishing year; and
+&emsp;(1) establish separate quotas for recreational fishing (which, for the purposes of this subsection shall include charter fishing) and commercial fishing that, when reached, result in a prohibition on the retention of fish caught during recreational fishing and commercial fishing, respectively, for the remainder of the fishing year; and
 
 &emsp;(2) ensure that such quotas reflect allocations among such sectors and do not reflect any harvests in excess of such allocations.
 
 (Pub. L. 94–265, title IV, §407, as added Pub. L. 104–297, title II, §207(b), Oct. 11, 1996, 110 Stat. 3612; amended Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(a)(3), (4)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238; Pub. L. 109–479, §3(d)(1)(B), Jan. 12, 2007, 120 Stat. 3578.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

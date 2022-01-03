@@ -36,7 +36,7 @@ Funds reserved under subsection (a) shall be used to carry out no fewer than one
 
 &emsp;&emsp;(C) including effective behavior management strategies and training, including positive behavior interventions and support models, that promote positive social and emotional development and reduce challenging behaviors, including reducing expulsions of preschool-aged children for such behaviors;
 
-&emsp;&emsp;(E) <sup>1</sup> providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity tobecome meaningful partners in supporting their children's positive development;
+&emsp;&emsp;(E) <sup>1</sup> providing training and outreach on engaging parents and families in culturally and linguistically appropriate ways to expand their knowledge, skills, and capacity to become meaningful partners in supporting their children's positive development;
 
 &emsp;&emsp;(F) providing training corresponding to the nutritional and physical activity needs of children to promote healthy development;
 
@@ -90,7 +90,7 @@ Funds reserved under subsection (a) shall be used to carry out no fewer than one
 
 #### (c) Certification
 
-Beginning with fiscal year 2016, at the beginning of each fiscal year, the State shall annuallysubmit to the Secretary a certification containing an assurance that the State was in compliance with subsection (a) during the preceding fiscal year and a description of how the State used funds received under this subchapter to comply with subsection (a) during that preceding fiscal year.
+Beginning with fiscal year 2016, at the beginning of each fiscal year, the State shall annually submit to the Secretary a certification containing an assurance that the State was in compliance with subsection (a) during the preceding fiscal year and a description of how the State used funds received under this subchapter to comply with subsection (a) during that preceding fiscal year.
 
 #### (d) Reporting requirements
 
@@ -112,6 +112,8 @@ Nothing in this section shall be construed as providing the Secretary the author
 
 (Pub. L. 97–35, title VI, §658G, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–241; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §607, Aug. 22, 1996, 110 Stat. 2283; Pub. L. 113–186, §6, Nov. 19, 2014, 128 Stat. 1987.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
@@ -123,6 +125,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (b)(4)(C
 <b>1996</b>—Pub. L. 104–193 reenacted section catchline without change and amended text generally, substituting current provisions for provisions requiring State receiving financial assistance under this subchapter to utilize not less than 20 percent of such assistance for one or more of following: resource and referral programs, grants or loans to assist in meeting State and local standards, monitoring of compliance with licensing and regulatory requirements, training, or improving salaries or other compensation to staff.
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

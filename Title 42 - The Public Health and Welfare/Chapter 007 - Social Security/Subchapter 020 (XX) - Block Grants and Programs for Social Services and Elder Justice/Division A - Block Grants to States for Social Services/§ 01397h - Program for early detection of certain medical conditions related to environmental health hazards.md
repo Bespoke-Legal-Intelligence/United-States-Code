@@ -118,6 +118,8 @@ Nothing in this section shall be construed to affect any coverage obligation of 
 
 (Aug. 14, 1935, ch. 531, title XX, §2009, as added Pub. L. 111–148, title X, §10323(b), Mar. 23, 2010, 124 Stat. 957.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 111–148, title X, §10323(b), Mar. 23, 2010, 124 Stat. 957, which directed amendment of title XX of act Aug. 14, 1935, by adding this section at the end, was executed by adding this section at the end of subtitle A of title XX of that Act, which is this division, to reflect the probable intent of Congress.

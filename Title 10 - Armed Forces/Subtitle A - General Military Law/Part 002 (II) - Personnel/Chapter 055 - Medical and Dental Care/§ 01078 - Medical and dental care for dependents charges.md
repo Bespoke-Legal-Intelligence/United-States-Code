@@ -34,6 +34,8 @@ Appropriate references are made to dental care throughout the section to reflect
 
 In subsection (b), the word "special" is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed instructions for marking ballots, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
@@ -45,6 +47,8 @@ A prior section 1078, act Aug. 10, 1956, ch. 1041, 70A Stat. 84, prescribed inst
 <b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–614 substituted "The charge or charges prescribed shall be applied equally to all classes of dependents" for "Charges shall be the same for all dependents".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

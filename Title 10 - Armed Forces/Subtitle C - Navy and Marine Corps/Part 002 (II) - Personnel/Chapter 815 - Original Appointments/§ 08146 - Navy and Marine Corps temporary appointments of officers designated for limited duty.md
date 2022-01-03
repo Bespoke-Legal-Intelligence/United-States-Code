@@ -2,7 +2,7 @@
 
 (a) Under such regulations as he may prescribe, the Secretary of the Navy may make temporary appointments of officers designated for limited duty in the Regular Navy in grades not above lieutenant and in the Regular Marine Corps in grades not above captain from sources authorized under section 8139 of this title. Such appointments shall be made by warrant if in the grade of warrant officer, W–1, and by commission if in a higher grade.
 
-(b) Temporary appointments under this section do not change the permanent, probationary, or acting status of members so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person receiving a temporary appointment under this section may not suffer any reduction in the pay and allowances to which he was entitled because of his permanent status at the time of histemporary appointment, or any reduction in the pay and allowances to which he was entitled under a prior temporary appointment in a lower grade.
+(b) Temporary appointments under this section do not change the permanent, probationary, or acting status of members so appointed, prejudice them in regard to promotion or appointment, or abridge their rights or benefits. A person receiving a temporary appointment under this section may not suffer any reduction in thepay and allowances to which he was entitled because of his permanent status at the time of his temporary appointment, or any reduction in the pay and allowances to which he was entitled under a prior temporary appointment in a lower grade.
 
 (c) The following members of the naval service are ineligible for temporary appointments under this section:
 
@@ -126,6 +126,8 @@ In subsection (f) the words "do not change the \* \* \* status" are substitute
 
 In subsection (g)(2) that portion of 34 U.S.C. 3c(a) which excludes officers on the retired list from the definition of the word "officers" is treated as precluding the appointment of such officers under this section. There is no express statement of law making retired enlisted members ineligible for such appointments; however, the context indicates this to be the intent of Congress. In subsection (g)(3) that portion of 34 U.S.C. 3c(a) which excludes officers on active duty for training from the definition of the word "officers" is treated as precluding the appointment of persons on training duty under this section. While there is no statement of law making enlisted members of the Naval Reserve and the Marine Corps Reserve on active duty for training ineligible for appointments under this section, the context indicates this to be the intent of Congress and clause (3) is thus written. The exception as to the Fleet Reserve is omitted as unnecessary inasmuch as, pursuant to the Armed Forces Reserve Act of 1952, the Fleet Reserve is no longer a part of the Naval Reserve but is a separate and distinct component of the Navy.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(b)(4), renumbered section 5596 of this title as this section.
@@ -140,7 +142,7 @@ Subsec. (a). Pub. L. 102–190, §1113(c)(1), reorganized subsec. (a), striking 
 
 Subsec. (d). Pub. L. 102–190, §1113(c)(2), substituted "subsection (a)" for "subsection (a)(2)".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted provisions authorizing the Secretary of the Navy to maketemporary appointments in warrant officer grades and of certain officers designated for limited duty for provisions authorizing such appointments only when the number of male officers serving on active duty in the grade of ensign and above in the line of the Navy exceeded the number of male officers on the active list in the line of the Navy.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted provisions authorizing the Secretary of the Navy to make temporary appointments in warrant officer grades and of certain officers designated for limited duty for provisions authorizing such appointments only when the number of male officers serving on active duty in the grade of ensign and above in the line of the Navy exceeded the number of male officers on the active list in the line of the Navy.
 
 Subsec. (b). Pub. L. 96–513 redesignated subsec. (f) as (b) and struck out former subsec. (b) which described persons eligible for temporary appointments in the Regular Navy, except in the Nurse Corps, in grades not above lieutenant and in the Regular Marine Corps in grades not above captain.
 
@@ -151,6 +153,8 @@ Subsec. (d). Pub. L. 96–513 substituted provisions authorizing the Secretary o
 Subsec. (e). Pub. L. 96–513 redesignated subsec. (h) as (e), substituted "Secretary of the Navy" for "President", and struck out former subsec. (e) which provided that the number of persons appointed in the Regular Navy under this section in grades above chief warrant officer, W–4, could not exceed the difference between the actual number of officers on the active list of the Navy in the line or in the staff corps concerned and the authorized number of such officers.
 
 Subsecs. (f) to (h). Pub. L. 96–513 redesignated subsecs. (f), (g), and (h) as (b), (c), and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

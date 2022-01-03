@@ -20,7 +20,7 @@
 
 &emsp;&emsp;Except as otherwise provided in this section, funds made available to carry out this section shall be allotted to States that have entered into an agreement pursuant to this section (other than the District of Columbia) in accordance with—
 
-&emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimum proportionate share for the State of Wyoming and the District of Columbia; and
+&emsp;&emsp;&emsp;(i) for each of fiscal years 1995 through 1997, a formula that is the same as the formula used to distribute public water system supervision grant funds under section 300j–2 of this title in fiscal year 1995, except that the minimum proportionate share established in the formula shall be 1 percent of available funds and the formula shall be adjusted to include a minimumproportionate share for the State of Wyoming and the District of Columbia; and
 
 &emsp;&emsp;&emsp;(ii) for fiscal year 1998 and each subsequent fiscal year, a formula that allocates to each State the proportional share of the State needs identified in the most recent survey conducted pursuant to subsection (h), except that the minimum proportionate share provided to each State shall be the same as the minimum proportionate share provided under clause (i).
 
@@ -54,7 +54,7 @@
 
 #### (C) Sale of bonds
 
-&emsp;&emsp;Funds may also be used by a public water system as a source of revenue (restricted solely to interest earnings of the applicable State loan fund) or security for payment of the principal and interest on revenue or general obligation bonds issued by the State to provide matching funds under subsection (e), if the proceeds of the sale of the bonds will be deposited in the State loan fund.
+&emsp;&emsp;Funds may also be used by a public water system as a source of revenue (restricted solely to interest earnings of the applicable State loan fund) or security for payment of the principal and interest on revenue or general obligation bonds issued by the State to provide matching funds under subsection (e),if the proceeds of the sale of the bonds will be deposited in the State loan fund.
 
 #### (D) Water treatment loans
 
@@ -66,7 +66,7 @@
 
 #### (F) Loan assistance
 
-&emsp;&emsp;Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewerthan 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
+&emsp;&emsp;Of the amount credited to any State loan fund established under this section in any fiscal year, 15 percent shall be available solely for providing loan assistance to public water systems which regularly serve fewer than 10,000 persons to the extent such funds can be obligated for eligible projects of public water systems.
 
 #### (G) Emerging contaminants
 
@@ -118,7 +118,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;During fiscal years 2019 through 2023, funds made available from a State loan fund established pursuant to this section may not be used for a project for the construction, alteration, or repair of a public water system unless all of the iron and steel products used in the project are produced in the United States.
+&emsp;&emsp;Funds made available from a State loan fund established pursuant to this section may not be used for a project for the construction, alteration, or repair of a public water system unless all of the iron and steel products used in the project are produced in the United States.
 
 #### (B) Definition of iron and steel products
 
@@ -164,7 +164,7 @@
 
 #### (F) Management and oversight
 
-&emsp;&emsp;The Administrator may retain up to 0.25 percent of the funds appropriated for thissection for management and oversight of the requirements of this paragraph.
+&emsp;&emsp;The Administrator may retain up to 0.25 percent of the funds appropriated for this section for management and oversight of the requirements of this paragraph.
 
 #### (G) Effective date
 
@@ -214,7 +214,13 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (1) Loan subsidy
 
-&emsp;Notwithstanding any other provision of this section, in any case in which the State makes a loan pursuant to subsection (a)(2) to a disadvantaged community or to a community that the State expects to become a disadvantaged community as the result of a proposed project, the State may provide additional subsidization (including forgiveness of principal).
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of this section, in any case in which the State makes a loan pursuant to subsection (a)(2) to a disadvantaged community or to a community that the State expects to become a disadvantaged community as the result of a proposed project, the State may provide additional subsidization (including forgiveness of principal, grants, negative interest loans, other loan forgiveness, and through buying, refinancing, or restructuring debt).
+
+#### (B) Exclusion
+
+&emsp;&emsp;A loan from a State loan fund with an interest rate equal to or greater than 0 percent shall not be considered additional subsidization for purposes of this subsection.
 
 #### (2) Total amount of subsidies
 
@@ -222,7 +228,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 &emsp;&emsp;(A) may not exceed 35 percent; and
 
-&emsp;&emsp;(B) to the extent that there are sufficient applications for loans to communities described in paragraph (1), may not be less than 6 percent.
+&emsp;&emsp;(B) to the extent that there are sufficient applications for loans to communities described in paragraph (1), may not be less than 12 percent.
 
 #### (3) "Disadvantaged community" defined
 
@@ -230,7 +236,7 @@ Each State loan fund under this section shall be established, maintained, and cr
 
 #### (e) State contribution
 
-Each agreement under subsection (a) shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grant to be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
+Each agreement under subsection (a) shall require that the State deposit in the State loan fund from State moneys an amount equal to at least 20 percent of the total amount of the grantto be made to the State on or before the date on which the grant payment is made to the State, except that a State shall not be required to deposit such amount into the fund prior to the date on which each grant payment is made for fiscal years 1994, 1995, 1996, and 1997 if the State deposits the State contribution amount into the State loan fund prior to September 30, 1999.
 
 #### (f) Types of assistance
 
@@ -248,7 +254,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 &emsp;&emsp;&emsp;(ii) does not exceed the expected design life of the project;
 
-&emsp;&emsp;(D) the recipient of each loan will establish a dedicated source of revenue (or, in thecase of a privately owned system, demonstrate that there is adequate security) for the repayment of the loan; and
+&emsp;&emsp;(D) the recipient of each loan will establish a dedicated source of revenue (or, in the case of a privately owned system, demonstrate that there is adequate security) for the repayment of the loan; and
 
 &emsp;&emsp;(E) the State loan fund will be credited with all payments of principal and interest on each loan;
 
@@ -372,7 +378,7 @@ Except as otherwise limited by State law, the amounts deposited into a State loa
 
 #### (j) Other areas
 
-Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. The grants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
+Of the funds annually available under this section for grants to States, the Administrator shall make allotments in accordance with section 300j–2(a)(4) of this title for the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam. Thegrants allotted as provided in this subsection may be provided by the Administrator to the governments of such areas, to public water systems in such areas, or to both, to be used for the public water system expenditures referred to in subsection (a)(2). The grants, and grants for the District of Columbia, shall not be deposited in State loan funds. The total allotment of grants under this section for all areas described in this subsection in any fiscal year shall not exceed 0.33 percent of the aggregate amount made available to carry out this section in that fiscal year.
 
 #### (k) Other authorized activities
 
@@ -384,7 +390,7 @@ Of the funds annually available under this section for grants to States, the Adm
 
 &emsp;&emsp;&emsp;(i) Any public water system described in subsection (a)(2) to acquire land or a conservation easement from a willing seller or grantor, if the purpose of the acquisition is to protect the source water of the system from contamination and to ensure compliance with national primary drinking water regulations.
 
-&emsp;&emsp;&emsp;(ii) Any community water system to implement local, voluntary source water protection measures to protect source water in areas delineated pursuant to section 300j–13 of this title, in order to facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title orotherwise significantly further the health protection objectives of this subchapter. Funds authorized under this clause may be used to fund only voluntary, incentive-based mechanisms.
+&emsp;&emsp;&emsp;(ii) Any community water system to implement local, voluntary source water protection measures to protect source water in areas delineated pursuant to section 300j–13 of this title, in order to facilitate compliance with national primary drinking water regulations applicable to the system under section 300g–1 of this title or otherwise significantly further the health protection objectives of this subchapter. Funds authorized under this clause may be used to fund only voluntary, incentive-based mechanisms.
 
 &emsp;&emsp;&emsp;(iii) Any community water system to provide funding in accordance with section 300j–14(a)(1)(B)(i) of this title.
 
@@ -422,9 +428,17 @@ The failure or inability of any public water system to receive funds under this 
 
 &emsp;(A) $1,174,000,000 for fiscal year 2019;
 
-&emsp;(B) $1,300,000,000 for fiscal year 2020; and
+&emsp;(B) $1,300,000,000 for fiscal year 2020;
 
-&emsp;(C) $1,950,000,000 for fiscal year 2021.
+&emsp;(C) $1,950,000,000 for fiscal year 2021;
+
+&emsp;(D) $2,400,000,000 for fiscal year 2022;
+
+&emsp;(E) $2,750,000,000 for fiscal year 2023;
+
+&emsp;(F) $3,000,000,000 for fiscal year 2024; and
+
+&emsp;(G) $3,250,000,000 for each of fiscal years 2025 and 2026.
 
 (2) To the extent amounts authorized to be appropriated under this subsection in any fiscal year are not appropriated in that fiscal year, such amounts are authorized to be appropriated in a subsequent fiscal year. Such sums shall remain available until expended.
 
@@ -442,7 +456,7 @@ Notwithstanding the other provisions of this section limiting the use of funds d
 
 #### (q) Small system technical assistance
 
-The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2016 through 2021 to carry out the provisions of section 300j–1(e) of this title (relating to technical assistance for small systems), except that thetotal amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by section 300j–1(e) of this title) and reservations made pursuant to this subsection shall not exceed the amount authorized by section 300j–1(e) of this title.
+The Administrator may reserve up to 2 percent of the total funds made available to carry out this section for each of fiscal years 2022 through 2026 to carry out the provisions of section 300j–1(e) of this title (relating to technical assistance for small systems), except that the total amount of funds made available for such purpose in any fiscal year through appropriations (as authorized by section 300j–1(e) of this title) and reservations made pursuant to this subsection shall not exceed the amount authorized by section 300j–1(e) of this title.
 
 #### (r) Evaluation
 
@@ -486,7 +500,9 @@ The Administrator shall—
 
 &emsp;There is authorized to be appropriated to carry out this subsection $100,000,000 for each of fiscal years 2020 through 2024, to remain available until expended.
 
-(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662; amended Pub. L. 114–322, title II, §§2102, 2103, 2110, 2112(b), 2113, Dec. 16, 2016, 130 Stat. 1717, 1729, 1730; Pub. L. 115–270, title II, §§2002, 2015, 2022, 2023, Oct. 23, 2018, 132 Stat. 3840, 3854, 3862; Pub. L. 116–92, div. F, title LXXIII, §7312, Dec. 20, 2019, 133 Stat. 2277.)
+(July 1, 1944, ch. 373, title XIV, §1452, as added Pub. L. 104–182, title I, §130, Aug. 6, 1996, 110 Stat. 1662; amended Pub. L. 114–322, title II, §§2102, 2103, 2110, 2112(b), 2113, Dec. 16, 2016, 130 Stat. 1717, 1729, 1730; Pub. L. 115–270, title II, §§2002, 2015, 2022, 2023, Oct. 23, 2018, 132 Stat. 3840, 3854, 3862; Pub. L. 116–92, div. F, title LXXIII, §7312, Dec. 20, 2019, 133 Stat. 2277; Pub. L. 117–58, div. E, title I, §50102, Nov. 15, 2021, 135 Stat. 1136.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -495,6 +511,16 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(G)(iii), is cla
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (n), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(4)(A). Pub. L. 117–58, §50102(a)(1), substituted "Funds" for "During fiscal years 2019 through 2023, funds".
+
+Subsec. (d)(1). Pub. L. 117–58, §50102(b)(1), designated existing provisions as subpar. (A), inserted subpar. heading, inserted ", grants, negative interest loans, other loan forgiveness, and through buying, refinancing, or restructuring debt" after "forgiveness of principal", and added subpar. (B).
+
+Subsec. (d)(2)(B). Pub. L. 117–58, §50102(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "to the extent that there are sufficient applications for loans to communities described in paragraph (1), may not be less than 6 percent."
+
+Subsec. (m)(1)(D) to (G). Pub. L. 117–58, §50102(a)(2), added subpars. (D) to (G).
+
+Subsec. (q). Pub. L. 117–58, §50102(a)(3), substituted "2022 through 2026" for "2016 through 2021".
 
 <b>2019</b>—Subsec. (a)(2)(G). Pub. L. 116–92, §7312(1), added subpar. (G).
 
@@ -563,6 +589,8 @@ Subsec. (i)(1). Pub. L. 114–322, §2112(b)(1), substituted "Tribes, Alaska Nat
 Subsec. (i)(5). Pub. L. 114–322, §2112(b)(2), added par. (5).
 
 Subsec. (q). Pub. L. 114–322, §2110, substituted "made available to carry out this section for each of fiscal years 2016 through 2021" for "appropriated pursuant to subsection (m) for each of the fiscal years 1997 through 2003".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Assistance for Areas Affected by Natural Disasters
 
@@ -730,7 +758,7 @@ In general.—Using funds provided pursuant to subsection (d), an eligible State
 
 &emsp;&emsp;"(B)
 
-Inclusion.—Assistance provided under subparagraph (A) may include additional subsidization under section 1452(d)(1) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(1)), as described in paragraph (1)(B).
+Inclusion.—Assistance provided under subparagraph (A) may include additional subsidizationunder section 1452(d)(1) of the Safe Drinking Water Act (42 U.S.C. 300j–12(d)(1)), as described in paragraph (1)(B).
 
 &emsp;&emsp;"(C)
 

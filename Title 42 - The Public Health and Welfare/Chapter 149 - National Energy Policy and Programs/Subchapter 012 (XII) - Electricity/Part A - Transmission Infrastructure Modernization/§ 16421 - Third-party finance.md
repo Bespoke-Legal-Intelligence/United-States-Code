@@ -18,7 +18,7 @@ The Secretary, acting through the Administrator of the Western Area Power Admini
 
 #### (b) New facilities
 
-The Secretary, acting through WAPA or SWPA, or both, may design, develop, construct, operate, maintain, or own, or participate with other entities in designing, developing, constructing, operating, maintaining, or owning, a new electric power transmission facility and related facilities ("Project") located within any State in which WAPA or SWPA operates if the Secretary, in consultation with the applicable Administrator, determines that the proposed Project—
+The Secretary, acting through WAPA or SWPA, or both, may design, develop, construct,operate, maintain, or own, or participate with other entities in designing, developing, constructing, operating, maintaining, or owning, a new electric power transmission facility and related facilities ("Project") located within any State in which WAPA or SWPA operates if the Secretary, in consultation with the applicable Administrator, determines that the proposed Project—
 
 &emsp;(1)(A) is located in an area designated under section 216(a) of the Federal Power Act \[16 U.S.C. 824p(a)\] and will reduce congestion of electric transmission in interstate commerce; or
 
@@ -78,11 +78,15 @@ The Secretary shall not accept and use more than $100,000,000 under subsection (
 
 (Pub. L. 109–58, title XII, §1222, Aug. 8, 2005, 119 Stat. 952.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Power Act, referred to in subsecs. (a)(2)(A) and (b)(2)(A), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
+The Federal Power Act, referred to in subsecs. (a)(2)(A) and (b)(2)(A), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

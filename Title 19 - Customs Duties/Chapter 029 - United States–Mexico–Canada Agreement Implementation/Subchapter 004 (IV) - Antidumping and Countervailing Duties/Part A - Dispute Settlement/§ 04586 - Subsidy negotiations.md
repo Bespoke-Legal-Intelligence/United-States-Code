@@ -18,6 +18,8 @@ In the case of any trade agreement which may be entered into by the President wi
 
 (Pub. L. 116–113, title IV, §416, formerly Pub. L. 103–182, title IV, §406, Dec. 8, 1993, 107 Stat. 2138; renumbered §416 of Pub. L. 116–113 and amended Pub. L. 116–113, title V, §504(g), Jan. 29, 2020, 134 Stat. 75.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3436 of this title prior to renumbering by Pub. L. 116–113.
@@ -25,6 +27,8 @@ Section was formerly classified to section 3436 of this title prior to renumberi
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–113, §504(g)(3), substituted "USMCA country" for "NAFTA country" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

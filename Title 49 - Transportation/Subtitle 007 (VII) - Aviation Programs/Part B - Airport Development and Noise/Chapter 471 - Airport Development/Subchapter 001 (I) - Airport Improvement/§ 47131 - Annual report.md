@@ -12,13 +12,13 @@ General Rule.—Not later than June 1 of each year, the Secretary of Transportat
 
 &emsp;(4) the allocation of appropriations; and
 
-&emsp;(5) a detailed statement listing airports that the Secretary believes are not in compliance with grant assurances or other requirements with respect to airport lands and including the circumstances of such noncompliance, the timelines for corrective action, and the corrective action the Secretary intends to take to bring the airport sponsor into compliance.
+&emsp;(5) a detailed statement listing airports that the Secretary believes are not in compliance with grant assurances or other requirements with respect to airport lands and including the circumstances of such noncompliance, thetimelines for corrective action, and the corrective action the Secretary intends to take to bring the airport sponsor into compliance.
 
 (b)
 
 Special Rule for Listing Noncompliant Airports.—The Secretary does not have to conduct an audit or make a final determination before including an airport on the list referred to in subsection (a)(5).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, titleI, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 106–181, title VII, §722, Apr. 5, 2000, 114 Stat. 165; Pub. L. 112–95, title I, §152(c), Feb. 14, 2012, 126 Stat. 34.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, title I, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 106–181, title VII, §722, Apr. 5, 2000, 114 Stat. 165; Pub. L. 112–95, title I, §152(c), Feb. 14, 2012, 126 Stat. 34.)
 
 Historical and Revision Notes
 
@@ -38,6 +38,8 @@ Sept. 3, 1982, Pub. L. 97–248, §521, 96 Stat. 694.
 
 In this section, before clause (1), the words "on activities carried out" are substituted for "describing his operations" for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–95 substituted "June 1" for "April 1" in introductory provisions, added pars. (1) to (4), and struck out former pars. (1) to (4) which read as follows:
@@ -53,6 +55,8 @@ In this section, before clause (1), the words "on activities carried out" are su
 <b>2000</b>—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, added par. (5) of subsec. (a), and added subsec. (b).
 
 <b>1994</b>—Pub. L. 103–305 renumbered section 47129 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

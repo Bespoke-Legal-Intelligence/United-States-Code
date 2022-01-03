@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Housing and Urban Development (in this section referred to as the "Secretary") shall take such actions as may be necessary to inform potential homebuyers of the availability and importance of obtaining an independent home inspection. Such actions shall include—
 
-&emsp;&emsp;(A) publication of the HUD/FHA form HUD 92564–CN entitled "For Your Protection: Geta Home Inspection", in both English and Spanish languages;
+&emsp;&emsp;(A) publication of the HUD/FHA form HUD 92564–CN entitled "For Your Protection: Get a Home Inspection", in both English and Spanish languages;
 
 &emsp;&emsp;(B) publication of the HUD/FHA booklet entitled "For Your Protection: Get a Home Inspection", in both English and Spanish languages;
 
@@ -32,7 +32,7 @@ Each counseling agency certified pursuant by <sup>1</sup> the Secretary to prov
 
 #### (d) Training
 
-Training provided the Department of Housing and Urban Development for housing counseling agencies, whether such training is provided directly by the Department or otherwise, shall include—
+Training provided the Department of Housing and Urban Development for housing counselingagencies, whether such training is provided directly by the Department or otherwise, shall include—
 
 &emsp;(1) providing information on counseling potential homebuyers of the availability and importance of getting an independent home inspection;
 

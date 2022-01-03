@@ -54,9 +54,13 @@ In this chapter:
 
 (Pub. L. 116–283, div. E, §5002, Jan. 1, 2021, 134 Stat. 4523.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this division", meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out below and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

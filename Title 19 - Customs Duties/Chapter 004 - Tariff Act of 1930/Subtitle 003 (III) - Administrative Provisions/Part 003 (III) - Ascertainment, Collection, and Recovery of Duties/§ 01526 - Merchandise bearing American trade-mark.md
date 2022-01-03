@@ -44,6 +44,8 @@ Any such merchandise bearing a counterfeit mark (within the meaning of section 1
 
 (June 17, 1930, ch. 497, title IV, §526, 46 Stat. 741; Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 95–410, title II, §211(a), (c), Oct. 3, 1978, 92 Stat. 903; Pub. L. 103–182, title VI, §663, Dec. 8, 1993, 107 Stat. 2214; Pub. L. 104–153, §§9, 10, July 2, 1996, 110 Stat. 1388.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 81 to 109 of title 15, referred to in subsecs. (a) and (c), were repealed by act July 5, 1946, ch. 540, §46(a), 61 Stat. 444. See sections 1051 to 1127, respectively, of Title 15, Commerce and Trade.
@@ -68,11 +70,13 @@ Subsec. (d). Pub. L. 95–410, §211(a)(2), added subsec. (d).
 
 Subsec. (e). Pub. L. 95–410, §211(c), added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Patent and Trademark Office" substituted for "Patent Office" in subsec. (a) pursuant to Pub. L. 93–596, §3, Jan. 2, 1975, 88 Stat. 1949, set out as a note under section 1 of Title 35, Patents.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

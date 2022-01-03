@@ -34,11 +34,15 @@ Postponement.—(1) The Secretary of Defense may postpone the conduct of a surve
 
 (Added Pub. L. 113–291, div. A, title X, §1073(a)(1), Dec. 19, 2014, 128 Stat. 3517; amended Pub. L. 116–92, div. A, title V, §591(b), Dec. 20, 2019, 133 Stat. 1414; Pub. L. 116–283, div. A, title V, §552(c), Jan. 1, 2021, 134 Stat. 3632.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
 <b>2019</b>—Subsecs. (a), (b). Pub. L. 116–92 inserted "(including unwanted sexual contact)" after "assault" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -50,5 +54,5 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this s
 
 #### Initial Survey
 
-Pub. L. 113–291, div. A, title X, §1073(a)(3), Dec. 19, 2014, 128 Stat. 3518, provided that: "The Secretary of Defense shall carry out the first survey required by section 481a of title 10, United States Code (as added by this subsection), during fiscal year 2016."
+Pub. L. 113–291, div. A, title X, §1073(a)(3), Dec. 19, 2014, 128 Stat. 3518, provided that: "The Secretary ofDefense shall carry out the first survey required by section 481a of title 10, United States Code (as added by this subsection), during fiscal year 2016."
 

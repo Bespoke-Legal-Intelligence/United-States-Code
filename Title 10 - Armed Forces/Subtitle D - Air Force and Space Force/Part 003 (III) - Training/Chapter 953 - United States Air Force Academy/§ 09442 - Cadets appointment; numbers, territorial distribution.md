@@ -2,7 +2,7 @@
 
 (a) The authorized strength of cadets of the Academy (determined for any year as of the day before the last day of the academic year) is 4,400 or such lower number as may be prescribed by the Secretary of the Air Force under subsection (j). Subject to that limitation, cadets are selected as follows:
 
-&emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds orinjuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a "missing status" as defined in section 551(2) of title 37, and children of civilian employees who are in "missing status" as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability, and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
+&emsp;(1) 65 cadets selected in order of merit as established by competitive examination from the children of members of the armed forces who were killed in action or died of, or have a service-connected disability rated at not less than 100 per centum resulting from wounds or injuries received or diseases contracted in, or preexisting injury or disease aggravated by, active service, children of members who are in a "missing status" as defined in section 551(2) of title 37, and children of civilian employees who are in "missing status" as defined in section 5561(5) of title 5. The determination of the Department of Veterans Affairs as to service connection of the cause of death or disability,and the percentage at which the disability is rated, is binding upon the Secretary of the Air Force.
 
 &emsp;(2) Five cadets nominated at large by the Vice President or, if there is no Vice President, by the President pro tempore of the Senate.
 
@@ -176,6 +176,8 @@ In subsection (g), the words "(National Guard of the United States, the Air Nati
 
 In subsection (h), the words "or shall hereafter be" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9442 was renumbered section 9492 of this title.
@@ -297,6 +299,8 @@ Subsec. (b)(3). Pub. L. 89–650, §1(5), substituted "reserve components of the
 <b>1962</b>—Subsec. (a)(10). Pub. L. 87–663, §1(5), added cl. (10).
 
 Subsec. (c). Pub. L. 87–663, §1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted "Clauses (1)–(5) and (10)" for "clauses (1)–(5)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

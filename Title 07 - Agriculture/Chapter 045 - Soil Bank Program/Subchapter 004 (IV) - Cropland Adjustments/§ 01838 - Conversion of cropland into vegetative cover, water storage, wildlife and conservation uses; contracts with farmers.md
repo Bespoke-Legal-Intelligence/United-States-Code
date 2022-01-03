@@ -2,7 +2,7 @@
 
 #### (a) Authority for calendar years 1965 through 1970; term of agreements
 
-Notwithstanding any other provision of law, for the purpose of reducing the costs of farm programs, assisting farmers in turning their land to nonagricultural uses, promoting the development and conservation of the Nation's soil, water, forest, wildlife, and recreational resources, establishing, protecting, and conserving open spaces and natural beauty, the Secretary of Agriculture is authorized to formulate and carry out a program during the calendar years 1965 through 1970 under which agreements would be entered into with producers as hereinafter provided for periods of not less than five nor more than ten years. No agreement shall be entered into under this section concerning land with respect to which the ownership has changed in the three-year period preceding the first year of the agreement period unless the new ownership was acquired by will or succession as a result of the death of the previous owner, or unless the new ownership was acquired prior to January 1, 1965, under other circumstances which the Secretary determines, and specifies by regulation, will give adequate assurance that such land was not acquired for the purpose of placing it in the program: <i>Provided</i>, That this provision shall not be construed to prohibit the continuation of an agreement by a new owner after an agreement has once been entered into under this section: <i>Provided further</i>, That the Secretary shall not require a person who has operated the land to be covered by an agreement under this section for as long as three years preceding the date of the agreement and who controls the land for the agreement period to own the land as a condition of eligibility for entering into the agreement. The foregoing provision shall not prevent a producer from placing a farm in the program if the farm was acquired by the producer to replace an eligible farm from which he was displaced because of its acquisition by any Federal, State, or other agency having the right of eminent domain.
+Notwithstanding any other provision of law, for the purpose of reducing the costs of farm programs, assisting farmers in turning their land to nonagricultural uses, promoting the development and conservation of the Nation's soil, water, forest, wildlife, and recreational resources, establishing, protecting, and conserving open spaces and natural beauty, the Secretary of Agriculture is authorized to formulate and carry out a program during the calendar years 1965 through 1970 under which agreements would be entered into with producers as hereinafter provided for periods of not less than five nor more than ten years. No agreement shall be entered into under this section concerning land with respect to which the ownership has changed in the three-year period preceding the first year of the agreement period unless the new ownership was acquired by will or succession as a result of the death of the previous owner, or unless the new ownership was acquired prior to January 1, 1965, under other circumstances which the Secretary determines, and specifies by regulation, will give adequate assurance that such land was not acquired for the purpose of placing it in the program: <i>Provided</i>, That this provision shall not be construed to prohibit the continuation of an agreement by a new owner after an agreement has once been entered into under this section: <i>Provided further</i>, That the Secretary shall not require a person who has operated the land to be covered by an agreement under this section for as long as three years preceding the date of the agreement and who controls the land for the agreement period to own the land as a condition of eligibilityfor entering into the agreement. The foregoing provision shall not prevent a producer from placing a farm in the program if the farm was acquired by the producer to replace an eligible farm from which he was displaced because of its acquisition by any Federal, State, or other agency having the right of eminent domain.
 
 #### (b) Terms of agreement; specifically designated acreage; land use
 
@@ -26,11 +26,11 @@ The Secretary may terminate any agreement with a producer by mutual agreement wi
 
 #### (g) Allotment histories
 
-Notwithstanding any other provision of law, the Secretary of Agriculture may, to the extent he deems it desirable, provide by appropriate regulations for preservation of cropland, crop acreage, and allotment history applicable to acreage diverted from the production of crops in order to establish or maintain vegetative cover or other approved practices for the purpose of any Federal program under which such history is used as a basis for an allotment or other limitation or for participation in such program.
+Notwithstanding any other provision of law, the Secretary of Agriculture may, to the extent he deems it desirable, provide by appropriate regulations for preservation of cropland, crop acreage, and allotment history applicable to acreage diverted from the production of crops in order to establish or maintain vegetative coveror other approved practices for the purpose of any Federal program under which such history is used as a basis for an allotment or other limitation or for participation in such program.
 
 #### (h) Utilization of local, county, and State committees
 
-In carrying out the program, the Secretary shall utilize the services of local, county, andState committees established under section 590h of title 16.
+In carrying out the program, the Secretary shall utilize the services of local, county, and State committees established under section 590h of title 16.
 
 #### (i) Transfer of funds
 
@@ -70,6 +70,8 @@ The Secretary shall prescribe such regulations as he determines necessary to car
 
 (Pub. L. 89–321, title VI, §602, Nov. 3, 1965, 79 Stat. 1206; Pub. L. 90–210, Dec. 18, 1967, 81 Stat. 657; Pub. L. 90–559, §1(1), (7), Oct. 11, 1968, 82 Stat. 996.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The last sentence of section 602(g) of Pub. L. 89–321 repealed section 590p(b)(3), (4), and (e)(6) of Title 16, Conservation, and was omitted from subsec. (g) of this section.
@@ -81,6 +83,8 @@ The last sentence of section 602(g) of Pub. L. 89–321 repealed section 590p(b)
 Subsec. (k). Pub. L. 90–559, §1(7), substituted "June 30, 1969" for "June 30, 1968" in two places and "December 31, 1970" for "December 31, 1969".
 
 <b>1967</b>—Subsec. (a). Pub. L. 90–210 permitted a farm to be placed in the cropland adjustment program without regard to the length of past ownership if that farm was acquired in replacement of an eligible farm which was taken by any Federal, State, or other agency by means of eminent domain proceedings.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Advisory Boards
 

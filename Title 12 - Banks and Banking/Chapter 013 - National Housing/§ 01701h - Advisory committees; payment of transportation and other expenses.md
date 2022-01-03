@@ -38,7 +38,7 @@ Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
 
 1\. There shall be established the Advisory Committee on Government Housing Policies and Programs.
 
-2\. The Committee shall make, or cause to be made, studies and surveys of the housing policies and programs of the Government and the organization withinthe Executive Branch for the administration of such policies and programs, and shall advise the Housing and Home Finance Administrator and the President with respect thereto.
+2\. The Committee shall make, or cause to be made, studies and surveys of the housing policies and programs of the Government and the organization within the Executive Branch for the administration of such policies and programs, and shall advise the Housing and Home Finance Administrator and the President with respect thereto.
 
 3\. The Housing and Home Finance Administrator shall serve as the Chairman of the Committee, and the other members of the Committee shall be appointed pursuant to the provisions of this Executive Order and Section 601 of the Housing Act of 1949 (63 Stat. 439) \[this section\].
 

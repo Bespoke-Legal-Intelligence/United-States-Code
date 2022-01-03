@@ -66,11 +66,15 @@ Every person making a return under subsection (a) or (b) shall furnish a copy of
 
 (Added Pub. L. 98–369, div. A, title I, §155(b)(1), July 18, 1984, 98 Stat. 692; amended Pub. L. 108–357, title VIII, §882(c)(1), Oct. 22, 2004, 118 Stat. 1629; Pub. L. 109–280, title XII, §1215(b), Aug. 17, 2006, 120 Stat. 1078.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, which directed the amendment of section 6050L by adding subpars. (F) and (G) and concluding provisions and substituting "3 years" for "2 years" in introductory provisions without specifying the act to be amended, was executed to this section, which is section 6050L of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
 <b>2004</b>—Pub. L. 108–357 amended section catchline and text generally, substituting provisions consisting of subsecs. (a) to (c) for provisions which, in subsec. (a) required return to be made by donee and set forth contents requirements, in subsec. (b) defined "charitable deduction property" for purposes of this section, in subsec. (c) required copy of return to be furnished to donor by donee, and in subsec. (d) defined "publicly traded securities".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 
@@ -82,5 +86,5 @@ Amendment by Pub. L. 108–357 applicable to contributions made after June 3, 20
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §155(d)(1), July 18, 1984, 98 Stat. 695, provided that: "The amendments made by subsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under section 170 of this title\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date."
+Pub. L. 98–369, div. A, title I, §155(d)(1), July 18, 1984, 98 Stat. 695, provided that: "The amendments made bysubsections (a) and (b) \[enacting this section, amending sections 6652 and 6678 of this title, and enacting provisions set out as a note under section 170 of this title\] shall apply to contributions made after December 31, 1984, in taxable years ending after such date."
 

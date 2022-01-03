@@ -26,6 +26,8 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 (Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 101–510, div. A, title XIV, §1484(h)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".

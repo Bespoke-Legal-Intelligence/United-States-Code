@@ -60,7 +60,7 @@
 
 #### (2) Updated national per resident amount for direct graduate medical education
 
-&emsp;The updated per resident amount for direct graduate medical education for a qualifiedteaching health center for a fiscal year is an amount determined as follows:
+&emsp;The updated per resident amount for direct graduate medical education for a qualified teaching health center for a fiscal year is an amount determined as follows:
 
 #### (A) Determination of qualified teaching health center per resident amount
 
@@ -130,7 +130,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 &emsp;The report required under this paragraph for a qualified teaching health center for a fiscal year is a report that includes (in a form and manner specified by the Secretary) the following information for the residency academic year completed immediately prior to such fiscal year:
 
-&emsp;&emsp;(A) The types of primary care resident approved training programs that the qualifiedteaching health center provided for residents.
+&emsp;&emsp;(A) The types of primary care resident approved training programs that the qualified teaching health center provided for residents.
 
 &emsp;&emsp;(B) The number of approved training positions for residents described in paragraph (4).
 
@@ -172,7 +172,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (B) Notice and opportunity to provide accurate and missing information
 
-&emsp;&emsp;Before imposing a reduction under subparagraph (A) on the basis of a qualified teaching health center's failure to provide complete and accurate information described in subparagraph (A)(ii), the Secretary shall provide notice to the teaching health center of such failure and the Secretary's intention to impose such reduction and shall provide the teaching health center with the opportunity to provide the required information within the period of 30 days beginning on the date of such notice. If the teaching health center provides such information within such period, no reduction shall be made under subparagraph (A) on the basis of the previous failure to provide such information.
+&emsp;&emsp;Before imposing a reduction under subparagraph (A) on the basis of a qualified teaching health center's failure to providecomplete and accurate information described in subparagraph (A)(ii), the Secretary shall provide notice to the teaching health center of such failure and the Secretary's intention to impose such reduction and shall provide the teaching health center with the opportunity to provide the required information within the period of 30 days beginning on the date of such notice. If the teaching health center provides such information within such period, no reduction shall be made under subparagraph (A) on the basis of the previous failure to provide such information.
 
 #### (4) Residents
 
@@ -206,7 +206,9 @@ In this section:
 
 &emsp;The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434; Pub. L. 116–159, div. C, title I, §2101(c), Oct. 1, 2020, 134 Stat. 728; Pub. L. 116–215, div. B, title II, §1201(c), Dec. 11, 2020, 134 Stat. 1044; Pub. L. 116–260, div. BB, title III, §301(c), Dec. 27, 2020, 134 Stat. 2922.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -249,6 +251,32 @@ Subsec. (j)(2) to (4). Pub. L. 115–123, §50901(d)(5), added par. (2) and rede
 Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and inserted ", and $15,000,000 for the first quarter of fiscal year 2018" before period at end.
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–10 inserted "and $60,000,000 for each of fiscal years 2016 and 2017" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Funding for Teaching Health Centers That Operate Graduate Medical Education
+
+Pub. L. 117–2, title II, §2604, Mar. 11, 2021, 135 Stat. 44, provided that:
+
+"(a)
+
+In General.—In addition to amounts otherwise available, and notwithstanding the capped amount referenced in sections 340H(b)(2) and 340H(d)(2) of the Public Health Service Act (42 U.S.C. 256h(b)(2) and (d)(2)), there is appropriated to the Secretary \[of Health and Human Services\] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $330,000,000, to remain available until September 30, 2023, for the program of payments to teaching health centers that operate graduate medical education under section 340H of the Public Health Service Act (42 U.S.C. 256h) and for teaching health center development grants authorized under section 749A of the Public Health Service Act (42 U.S.C. 293l–1).
+
+"(b)
+
+Use of Funds.—Amounts made available pursuant to subsection (a) shall be used for the following activities:
+
+&emsp;"(1) For making payments to establish new approved graduate medical residency training programs pursuant to section 340H(a)(1)(C) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(C)).
+
+&emsp;"(2) To provide an increase to the per resident amount described in section 340H(a)(2) of the Public Health Service Act (42 U.S.C. 256h(a)(2)) of $10,000.
+
+&emsp;"(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(A))) \[sic\] to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs.
+
+&emsp;"(4) For making payments under section 340H(a)(1)(B) of the Public Health Service Act (42 U.S.C. 256h(a)(1)(B)) for the expansion of existing approved graduate medical residency training programs.
+
+&emsp;"(5) For making awards under section 749A of the Public Health Service Act (42 U.S.C. 293l–1) to teaching health centers for the purpose of establishing new accredited or expanded primary care residency programs.
+
+&emsp;"(6) To cover administrative costs and activities necessary for qualified teaching health centers receiving payments under section 340H of the Public Health Service Act (42 U.S.C. 256h) to carry out activities under such section."
 
 #### Payments for Previous Fiscal Years
 

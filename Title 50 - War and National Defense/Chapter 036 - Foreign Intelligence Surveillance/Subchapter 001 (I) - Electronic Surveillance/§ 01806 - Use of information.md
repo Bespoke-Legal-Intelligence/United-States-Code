@@ -68,6 +68,8 @@ If an emergency employment of electronic surveillance is authorized under subsec
 
 (Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258; Pub. L. 110–261, title I, §§106, 110(b)(1), July 10, 2008, 122 Stat. 2462, 2466; Pub. L. 114–23, title VII, §701(b), June 2, 2015, 129 Stat. 299.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
@@ -86,13 +88,15 @@ Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(1), substituted "sabotage, intern
 
 <b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2008 Amendment
 
 Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in section 404 of Pub. L. 110–261, set out as a Transition Procedures note under section 1801 of this title, see section 402 of Pub. L. 110–261, set out as an Effective Date of 2008 Amendment note under section 1801 of this title.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Report on Mechanisms for Determinations of Disclosure of Information for Law Enforcement Purposes
 

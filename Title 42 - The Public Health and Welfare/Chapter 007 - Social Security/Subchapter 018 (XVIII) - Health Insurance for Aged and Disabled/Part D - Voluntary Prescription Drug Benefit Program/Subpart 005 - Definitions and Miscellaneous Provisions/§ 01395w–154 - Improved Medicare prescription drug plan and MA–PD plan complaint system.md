@@ -34,6 +34,8 @@ In this section:
 
 (Pub. L. 111–148, title III, §3311, Mar. 23, 2010, 124 Stat. 475.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Patient Protection and Affordable Care Act, and not as part of the Social Security Act which comprises this chapter.

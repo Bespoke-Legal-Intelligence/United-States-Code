@@ -16,7 +16,7 @@
 
 #### (3) Rule of construction
 
-&emsp;Nothing in this subsection shall be construed to allow the Director to make grants toany foreign power (as defined by section 1801(a) of title 50) or to any domestic or foreign organization operated for the purpose of engaging in any significant political or lobbying activities.
+&emsp;Nothing in this subsection shall be construed to allow the Director to make grants to any foreign power (as defined by section 1801(a) of title 50) or to any domestic or foreign organization operated for the purpose of engaging in any significant political or lobbying activities.
 
 #### (b) Victims of terrorism within the United States
 

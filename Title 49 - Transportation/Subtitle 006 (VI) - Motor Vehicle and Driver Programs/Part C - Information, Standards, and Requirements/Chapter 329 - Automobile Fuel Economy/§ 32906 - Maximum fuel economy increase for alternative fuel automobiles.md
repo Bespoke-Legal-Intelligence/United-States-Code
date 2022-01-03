@@ -44,6 +44,8 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §513(g)(1), (2)(A); added Oct. 1
 
 15:2013(g)(2)(A).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a). Pub. L. 113–291, §318(a), substituted "(except an electric automobile or, beginning with model year 2016, an alternative fueled automobile that uses a fuel described in subparagraph (E) of section 32901(a)(1))" for "(except an electric automobile)" in introductory provisions.
@@ -55,6 +57,8 @@ Subsec. (b). Pub. L. 113–291, §318(d), substituted "section 32905(f)" for "se
 <b>2005</b>—Subsec. (a)(1)(A). Pub. L. 109–58, §772(b)(1), substituted "model years 1993–2010" for "the model years 1993–2004".
 
 Subsec. (a)(1)(B). Pub. L. 109–58, §772(b)(2), substituted "model years 2011–2014" for "the model years 2005–2008".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

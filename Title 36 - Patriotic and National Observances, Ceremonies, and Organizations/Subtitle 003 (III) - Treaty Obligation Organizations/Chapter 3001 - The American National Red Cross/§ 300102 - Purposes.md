@@ -8,7 +8,7 @@ The purposes of the corporation are—
 
 &emsp;&emsp;(B) the treaties of the Red Cross, or the treaties of Geneva, August 22, 1864, July 27, 1929, and August 12, 1949, to which the United States of America has given its adhesion; and
 
-&emsp;&emsp;(C) any other treaty, convention, or protocol similar in purpose to which the United States of America has given or may give its adhesion;
+&emsp;&emsp;(C) any other treaty, convention, or protocol similar in purpose to which the UnitedStates of America has given or may give its adhesion;
 
 &emsp;(2) in carrying out the purposes described in paragraph (1) of this section, to perform all the duties devolved on a national society by each nation that has acceded to any of those treaties, conventions, or protocols;
 

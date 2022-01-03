@@ -6,9 +6,11 @@
 
 &emsp;(2) supplies, equipment, and personnel and contractual services otherwise authorized by law and regulations, when approved by the Director.
 
-(b) The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted forsolely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.
+(b) The sums made available to the Agency may be expended without regard to the provisions of law and regulations relating to the expenditure of Government funds; and for objects of a confidential, extraordinary, or emergency nature, such expenditures to be accounted for solely on the certificate of the Director and every such certificate shall be deemed a sufficient voucher for the amount therein certified.
 
 (June 20, 1949, ch. 227, §8, formerly §10, 63 Stat. 212; renumbered §8, Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337; amended Pub. L. 116–92, div. E, title LIII, §5341, Dec. 20, 2019, 133 Stat. 2142.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -2,7 +2,7 @@
 
 #### (a) Creation; composition; political representation; appointment; term; vacancies; Chairman and Vice Chairman; duties of Chairman; appointment of personnel; compensation of personnel
 
-There is hereby created a Commission to be known as the Equal Employment Opportunity Commission, which shall be composed of five members, not more than three of whom shall be members of the same political party. Members of the Commission shall be appointed by the President by and with the advice and consent of the Senate for a term of five years. Any individual chosen to fill a vacancy shall be appointed only for the unexpired term of the member whom he shall succeed, and all members of the Commission shall continue to serve until their successors are appointed and qualified, except that no such member of the Commission shall continue to serve (1) for more than sixty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted. The President shall designate one member to serve as Chairman of the Commission, and one member to serve as Vice Chairman. The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission, and, except as provided in subsection (b), shall appoint, in accordance with the provisions of title 5 governing appointments in the competitive service, such officers, agents, attorneys, administrative law judges, and employees as he deems necessary to assist it in the performance of its functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal, and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
+There is hereby created a Commission to be known as the Equal Employment Opportunity Commission, which shall be composed of five members, not more than three of whom shall be members of the same political party. Members of the Commission shall be appointed by the President by and with the advice and consent of the Senate for a term of five years. Any individual chosen to fill a vacancy shall be appointed only for the unexpired term of the member whom he shall succeed, and all members of the Commission shall continue to serve until their successors are appointed and qualified, except that no such member of the Commissionshall continue to serve (1) for more than sixty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted. The President shall designate one member to serve as Chairman of the Commission, and one member to serve as Vice Chairman. The Chairman shall be responsible on behalf of the Commission for the administrative operations of the Commission, and, except as provided in subsection (b), shall appoint, in accordance with the provisions of title 5 governing appointments in the competitive service, such officers, agents, attorneys, administrative law judges, and employees as he deems necessary to assist it in the performance of its functions and to fix their compensation in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of title 5, relating to classification and General Schedule pay rates: <i>Provided</i>, That assignment, removal, and compensation of administrative law judges shall be in accordance with sections 3105, 3344, 5372, and 7521 of title 5.
 
 #### (b) General Counsel; appointment; term; duties; representation by attorneys and Attorney General
 
@@ -94,6 +94,8 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 (Pub. L. 88–352, title VII, §705, July 2, 1964, 78 Stat. 258; Pub. L. 92–261, §8(d)–(f), Mar. 24, 1972, 86 Stat. 109, 110; Pub. L. 93–608, §3(1), Jan. 2, 1975, 88 Stat. 1972; Pub. L. 95–251, §2(a)(11), Mar. 27, 1978, 92 Stat. 183; Pub. L. 102–166, title I, §§110(a), 111, Nov. 21, 1991, 105 Stat. 1078; Pub. L. 102–411, §2, Oct. 14, 1992, 106 Stat. 2102; Pub. L. 104–66, title II, §2031, Dec. 21, 1995, 109 Stat. 728.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of Title 5.
@@ -126,9 +128,11 @@ Subsec. (j). Pub. L. 102–166, §110(a), added subsec. (j).
 
 Subsecs. (b) to (e). Pub. L. 92–261, §8(e), added subsec. (b), struck out subsec. (e) which amended sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, and redesignated existing subsecs. (b), (c), and (d) as (c), (d), and (e), respectively.
 
-Subsec. (g)(6). Pub. L. 92–261, §8(f), substituted provisions which authorized Commission to intervene in acivil action brought under section 2000e–5 of this title where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
+Subsec. (g)(6). Pub. L. 92–261, §8(f), substituted provisions which authorized Commission to intervene in a civil action brought under section 2000e–5 of this title where respondent is other than a government, governmental agency, or political subdivision for provisions which authorized Commission to refer matters to Attorney General with recommendations to intervene or institute civil actions.
 
 Subsecs. (h) to (j). Pub. L. 92–261, §8(e)(2), (3), struck out subsec. (h) which provided for legal representation for Commission, and redesignated subsecs. (i) and (j) as (h) and (i), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 
@@ -139,6 +143,8 @@ Amendment by section 111 of Pub. L. 102–166 effective Nov. 21, 1991, except as
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e) of this section is listed in item 20 on page 165), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+
+#### <b>Executive Documents</b>
 
 #### Reorganization Plan No. 1 of 1978 Superseded by Civil Service Reform Act of 1978
 
@@ -236,9 +242,9 @@ These programs have had only limited success. Some of the past deficiencies incl
 
 &nbsp;—lack of accountability.
 
-I am proposing today a series of steps to bring coherence to the equal employment enforcement effort. These steps, to be accomplished by the Reorganization Plan and Executive Orders, constitute an important step toward consolidation of equal employment opportunity enforcement. They will be implemented over the next two years, so that the agencies involved may continue their internal reform.
+I am proposing today a series of steps to bring coherence to the equal employment enforcement effort.These steps, to be accomplished by the Reorganization Plan and Executive Orders, constitute an important step toward consolidation of equal employment opportunity enforcement. They will be implemented over the next two years, so that the agencies involved may continue their internal reform.
 
-Its experience and broad scope make the EEOC suitable for the role of principal Federal agency in fair employment enforcement. Located in the Executive Branch and responsible to the President, the EEOC has developed considerable expertise in the field of employment discrimination since Congress created it by the Civil Rights Act of 1964 \[section 2000e–4 of this title\]. The Commission has played a pioneer role in definingboth employment discrimination and its appropriate remedies.
+Its experience and broad scope make the EEOC suitable for the role of principal Federal agency in fair employment enforcement. Located in the Executive Branch and responsible to the President, the EEOC has developed considerable expertise in the field of employment discrimination since Congress created it by the Civil Rights Act of 1964 \[section 2000e–4 of this title\]. The Commission has played a pioneer role in defining both employment discrimination and its appropriate remedies.
 
 While it has had management problems in past administrations, the EEOC's new leadership is making substantial progress in correcting them. In the last seven months the Commission has redesigned its internal structures and adopted proven management techniques. Early experience with these procedures indicates a high degree of success in reducing and expediting new cases. At my direction, the Office of Management and Budget is actively assisting the EEOC to ensure that these reforms continue.
 
@@ -278,7 +284,7 @@ The Plan I am proposing will not affect the Attorney General's responsibility to
 
 A critical element of my proposals will be accomplished by Executive Order rather than by the Reorganization Plan. This involves consolidation in the Labor Department of the responsibility to ensure that Federal contractors comply with Executive Order 11246. Consolidation will achieve the following: promote consistent standards, procedures, and reporting requirements; remove contractors from the jurisdiction of multiple agencies; prevent an agency's equal employment objectives from being outweighed by its procurement and construction objectives; and produce more effective law enforcement through unification of planning, training and sanctions. By 1981, after I have had an opportunity to review the manner in which both the EEOC and the Labor Department are exercising their new responsibilities, I will determine whether further action is appropriate.
 
-Finally, the responsibility for enforcing grant-related equal employment provisions will remain with the agencies administering the grant programs. With the EEOC acting as coordinator of Federal equal employment programs, we will be able to bring overlap and duplication to a minimum. We will be able, for example, to see that a university's employment practices are not subject to duplicative investigations under both Title IX of the Education Amendments of 1972 \[section 1681 et seq. of Title 20, Education\] and the contract compliance program. Because of the similarities between the Executive Order program and those statutes requiring Federal contractors to take affirmative action to employ handicapped individuals and disabled and Vietnamveterans, I have determined that enforcement of these statues should remain in the Labor Department.
+Finally, the responsibility for enforcing grant-related equal employment provisions will remain with the agencies administering the grant programs. With the EEOC acting as coordinator of Federal equal employment programs, we will be able to bring overlap and duplication to a minimum. We will be able, for example, to see that a university's employment practices are not subject to duplicative investigations under both Title IX of the Education Amendments of 1972 \[section 1681 et seq. of Title 20, Education\] and the contract compliance program. Because of the similarities between the Executive Order program and those statutes requiring Federal contractors to take affirmative action to employ handicapped individuals and disabled and Vietnam veterans, I have determined that enforcement of these statues should remain in the Labor Department.
 
 Each of the changes set forth in the Reorganization Plan accompanying this message is necessary to accomplish one or more of the purposes set forth in Section 901(a) of Title 5 of the United States Code. I have taken care to determine that all functions abolished by the Plan are done only under the statutory authority provided by Section 903(b) of Title 5 of the United States Code.
 
@@ -312,11 +318,11 @@ Sec. 4. The Equal Employment Opportunity Commission, after consultation with all
 
 Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order."
 
-1–103. Executive Order No. 11022, as amended \[set out as a note under section 3001 of this title\], is further amended by revising Section 1(b) to read as follows:
+1–103. Executive Order No. 11022, as amended \[formerly set out as a note under section 3001 of this title\], is further amended by revising Section 1(b) to read as follows:
 
 "(b) The Council shall be composed of the Secretary of Health, Education, and Welfare \[now Health and Human Services\], who shall be Chairman, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Administrator of Veterans Affairs, the Director of the Office of Personnel Management, the Director of the Community Services Administration, and the Chairman of the Equal Employment Opportunity Commission."
 
-1–104. Executive Order No. 11480 of September 9, 1969 \[set out as a note under section 791 of Title 29, Labor\], is amended by deleting "and the Chairman of the United States Civil Service Commission" in Section 4 and substituting therefor "Director of the Office of Personnel Management, and the Chairman of the Equal Employment Opportunity Commission".
+1–104. Executive Order No. 11480 of September 9, 1969 \[formerly set out as a note under section 791 of Title 29, Labor\], is amended by deleting "and the Chairman of the United States Civil Service Commission" in Section 4 and substituting therefor "Director of the Office of Personnel Management, and the Chairman of the Equal Employment Opportunity Commission".
 
 1–105. Executive Order No. 11830 of January 9, 1975 \[set out as a note under section 791 of Title 29, Labor\], is amended by deleting Section 2 and revising Section 1 to read as follows:
 

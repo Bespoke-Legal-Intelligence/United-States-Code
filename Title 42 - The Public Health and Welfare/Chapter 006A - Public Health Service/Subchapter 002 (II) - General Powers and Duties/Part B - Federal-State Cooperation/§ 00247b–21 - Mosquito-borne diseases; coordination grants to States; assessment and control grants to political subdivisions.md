@@ -136,6 +136,8 @@ In this section, the term "political subdivision" means the local political juri
 
 (July 1, 1944, ch. 373, title III, §317S, as added Pub. L. 108–75, §2(2), Aug. 15, 2003, 117 Stat. 898; amended Pub. L. 116–22, title VI, §607(a), June 24, 2019, 133 Stat. 959.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(1)(B). Pub. L. 116–22, §607(a)(1), inserted "including programs to address emerging infectious mosquito-borne diseases," after "subdivisions for control programs," and "or improving existing control programs" after "in the subdivisions".

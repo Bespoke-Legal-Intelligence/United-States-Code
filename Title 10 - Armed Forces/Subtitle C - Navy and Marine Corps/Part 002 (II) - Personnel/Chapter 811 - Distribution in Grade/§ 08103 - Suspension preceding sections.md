@@ -24,6 +24,8 @@ Aug. 7, 1947, ch. 512, §426(c); added June 30, 1951, ch. 196, §1(h), 65 Stat. 
 
 May 5, 1954, ch. 180, §403 68 Stat. 70.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5451 of this title as this section.
@@ -33,6 +35,8 @@ May 5, 1954, ch. 180, §403 68 Stat. 70.
 <b>1980</b>—Subsec. (b). Pub. L. 96–513 struck out "relating to officers serving in grades above lieutenant in the Navy or captain in the Marine Corps" after "and 5444 of this title".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–273 substituted "September" for "June".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

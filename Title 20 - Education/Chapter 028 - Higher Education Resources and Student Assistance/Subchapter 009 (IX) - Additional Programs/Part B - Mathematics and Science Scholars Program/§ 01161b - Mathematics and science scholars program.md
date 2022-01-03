@@ -96,9 +96,13 @@ The term "Governor" means the chief executive officer of a State.
 
 (Pub. L. 89–329, title VIII, §802, as added Pub. L. 110–315, title VIII, §801, Aug. 14, 2008, 122 Stat. 3381; amended Pub. L. 111–39, title VIII, §801(1), July 1, 2009, 123 Stat. 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (d)(2)(D). Pub. L. 111–39 substituted "regulations" for "regulation".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

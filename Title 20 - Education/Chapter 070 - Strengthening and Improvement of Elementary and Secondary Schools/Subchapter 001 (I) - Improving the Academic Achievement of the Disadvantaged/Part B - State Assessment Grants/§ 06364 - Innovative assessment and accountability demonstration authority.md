@@ -104,7 +104,7 @@ Upon completion and publication of the report described in subsection (c), the S
 
 &emsp;&emsp;&emsp;(vi) be accessible to all students, such as by incorporating the principles of universal design for learning;
 
-&emsp;&emsp;&emsp;(vii) provide teachers, principals, other school leaders, students, and parents withtimely data, disaggregated by each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, to inform and improve instructional practice and student supports;
+&emsp;&emsp;&emsp;(vii) provide teachers, principals, other school leaders, students, and parents with timely data, disaggregated by each subgroup of students described in section 6311(b)(2)(B)(xi) of this title, to inform and improve instructional practice and student supports;
 
 &emsp;&emsp;&emsp;(viii) identify which students are not making progress toward the challenging State academic standards so that teachers can provide instructional support and targeted interventions to all students;
 
@@ -260,7 +260,7 @@ The Secretary shall withdraw the authorization for demonstration authority provi
 
 &emsp;&emsp;(A) the State has met all of the requirements of this section, except transition to full statewide use of the innovative assessment system; and
 
-&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transition to statewide use of the innovative assessment system in a reasonable period of time.
+&emsp;&emsp;(B) the State continues to comply with the other requirements of this section, and demonstrates a high-quality plan for transitionto statewide use of the innovative assessment system in a reasonable period of time.
 
 #### (k) Available funds
 
@@ -297,6 +297,8 @@ A consortium of States may apply to participate in the program of demonstration 
 &emsp;The Secretary shall make the information described in paragraph (1) available on the website of the Department and shall publish an update to the information not less often than once every 3 years.
 
 (Pub. L. 89–10, title I, §1204, as added Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1885.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -371,6 +373,8 @@ Section 6381j, Pub. L. 89–10, title I, §1241, as added Pub. L. 107–110, tit
 Section 6381k, Pub. L. 89–10, title I, §1242, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567, related to construction of provisions.
 
 Section 6383, Pub. L. 89–10, title I, §1251, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1567, related to improvement of literacy through school libraries.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

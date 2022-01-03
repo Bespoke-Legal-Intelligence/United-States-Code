@@ -46,13 +46,13 @@
 
 #### (2) Requirements
 
-&emsp;The Secretary shall develop a plan to, and ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner and in a form readily usable for analytical approaches, of essential information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public health preparedness and response and to minimize duplication of effort.
+&emsp;The Secretary shall develop a plan to, and ensure that networks under paragraph (1) allow for the timely sharing and discussion, in a secure manner and in a form readily usable for analytical approaches, of essential information concerning bioterrorism or another public health emergency, or recommended methods for responding to such an attack or emergency, allowing for coordination to maximize all-hazards medical and public healthpreparedness and response and to minimize duplication of effort.
 
 #### (3) Standards
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 1 year after June 24, 2019, the Secretary, in cooperation with health care providers, State, local, Tribal, and territorial public health officials, and relevant Federal agencies (including the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology), shall, as necessary, adopt technical and reporting standards, including standards for interoperability as defined by section 300jj of this title, for networks under paragraph (1) and update such standards as necessary. Such standards shall be made available on theinternet website of the Department of Health and Human Services, in a manner that does not compromise national security.
+&emsp;&emsp;Not later than 1 year after June 24, 2019, the Secretary, in cooperation with health care providers, State, local, Tribal, and territorial public health officials, and relevant Federal agencies (including the Office of the National Coordinator for Health Information Technology and the National Institute of Standards and Technology), shall, as necessary, adopt technical and reporting standards, including standards for interoperability as defined by section 300jj of this title, for networks under paragraph (1) and update such standards as necessary. Such standards shall be made available on the internet website of the Department of Health and Human Services, in a manner that does not compromise national security.
 
 #### (B) Deference to standards development organizations
 
@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(iii) in collaboration with State, local, and tribal public health officials, integrate and build upon existing State, local, and tribal capabilities, ensuring simultaneous sharing of data, information, and analyses from the network described in paragraph (1) with State, local, and tribal public health agencies;
 
-&emsp;&emsp;&emsp;(iv) in collaboration with State, local, and tribal public health officials, develop procedures and standards for the collection, analysis, and interpretation of data that States, regions, or other entities collect and report to the network described in paragraph (1); and
+&emsp;&emsp;&emsp;(iv) in collaboration with State, local, and tribal public health officials, developprocedures and standards for the collection, analysis, and interpretation of data that States, regions, or other entities collect and report to the network described in paragraph (1); and
 
 &emsp;&emsp;&emsp;(v) pilot test standards and implementation specifications, consistent with the process described in section 300jj–12(b)(3)(C) of this title, which State, local, Tribal, and territorial public health entities may utilize, on a voluntary basis, as a part of the network.
 
@@ -178,7 +178,7 @@
 
 &emsp;In carrying out this section and consistent with section 247d–7g of this title, the National Biodefense Science Board shall provide expert advice and guidance, including recommendations, regarding the measurable steps the Secretary should take to modernize and enhance biosurveillance activities pursuant to the efforts of the Department of Health and Human Services to ensure comprehensive, real-time, all-hazards biosurveillance capabilities. In complying with the preceding sentence, the National Biodefense Science Board shall—
 
-&emsp;&emsp;(A) identify the steps necessary to achieve a national biosurveillance system for humanhealth (taking into account zoonotic disease, including gaps in scientific understanding of the interactions between human, animal, and environmental health), with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
+&emsp;&emsp;(A) identify the steps necessary to achieve a national biosurveillance system for human health (taking into account zoonotic disease, including gaps in scientific understanding of the interactions between human, animal, and environmental health), with international connectivity, where appropriate, that is predicated on State, regional, and community level capabilities and creates a networked system to allow for two-way information flow between and among Federal, State, and local government public health authorities and clinical health care providers;
 
 &emsp;&emsp;(B) identify any duplicative surveillance programs and gaps in surveillance programs under the authority of the Secretary, or changes that are necessary to existing programs, in order to enhance and modernize such activities, minimize duplication, strengthen and streamline such activities under the authority of the Secretary, and achieve real-time and appropriate data that relate to disease activity, both human and zoonotic;
 
@@ -216,7 +216,7 @@
 
 &emsp;&emsp;(B) may award grants or contracts to entities described in paragraph (1) within or serving such State to assist such entities in improving the operation of information technology systems, facilitating the secure exchange of data and information, and training personnel to enhance the operation of the system described in subparagraph (A); and
 
-&emsp;&emsp;(C) may conduct a pilot program for the development of multi-State telehealth network test beds that build on, enhance, and securely link existing State and local telehealth programs to prepare for, monitor, respond to, and manage the events of public health emergencies, facilitate coordination and communication among medical, public health, and emergency response agencies, and provide medical services through telehealth initiatives within the States that are involved in such a multi-State telehealth network test bed.
+&emsp;&emsp;(C) may conduct a pilot program for the development of multi-State telehealth network test beds that build on, enhance, and securely link existing State and local telehealth programs to prepare for, monitor, respond to, and manage the events of public health emergencies, facilitate coordination and communication among medical, publichealth, and emergency response agencies, and provide medical services through telehealth initiatives within the States that are involved in such a multi-State telehealth network test bed.
 
 #### (4) Limitation
 
@@ -280,7 +280,7 @@ The Secretary shall accomplish the purposes under subsections (b) and (c) no lat
 
 #### (h) Independent evaluation
 
-Not later than 3 years after June 24, 2019, the Comptroller General of the United States shall conduct an independent evaluation and submit to the Secretary and the congressional committees of jurisdiction a report concerning the activities conducted under subsections (b) and (c), and provide recommendations, as applicable and appropriate, on necessary improvements to the biosurveillance and situational awareness network.
+Not later than 3 years after June 24, 2019, the Comptroller General of the United States shall conduct an independent evaluation and submit to the Secretary and the congressional committees of jurisdiction a report concerning the activities conducted under subsections (b) and (c), and provide recommendations, as applicable andappropriate, on necessary improvements to the biosurveillance and situational awareness network.
 
 #### (i) Authorization of appropriations
 
@@ -291,6 +291,8 @@ There are authorized to be appropriated to carry out this section, $161,800,000 
 For purposes of this section the term "biosurveillance" means the process of gathering near real-time biological data that relates to human and zoonotic disease activity and threats to human or animal health, in order to achieve early warning and identification of such health threats, early detection and prompt ongoing tracking of health events, and overall situational awareness of disease activity.
 
 (July 1, 1944, ch. 373, title III, §319D, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §103, June 12, 2002, 116 Stat. 603; Pub. L. 109–417, title II, §§202, 204(b)(2), Dec. 19, 2006, 120 Stat. 2845, 2851; Pub. L. 113–5, title II, §204(a), Mar. 13, 2013, 127 Stat. 177; Pub. L. 116–22, title II, §205(a), (b), June 24, 2019, 133 Stat. 918, 924.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -380,7 +382,7 @@ Subsec. (d)(5). Pub. L. 113–5, §204(a)(5)(C), substituted "3 years after Marc
 
 Subsec. (e). Pub. L. 113–5, §204(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 113–5, §204(a)(3), (6), redesignated subsec. (g) as (f) and substituted "$138,300,000 for each of fiscal years 2014 through 2018" for "such sums as maybe necessary in each of fiscal years 2007 through 2011". Former subsec. (f) redesignated (e).
+Subsec. (f). Pub. L. 113–5, §204(a)(3), (6), redesignated subsec. (g) as (f) and substituted "$138,300,000 for each of fiscal years 2014 through 2018" for "such sums as may be necessary in each of fiscal years 2007 through 2011". Former subsec. (f) redesignated (e).
 
 Subsec. (g). Pub. L. 113–5, §204(a)(7), added subsec. (g). Former subsec. (g) redesignated (f).
 
@@ -391,6 +393,8 @@ Subsec. (a)(3). Pub. L. 109–417, §204(b)(2), struck out ", taking into accou
 Subsecs. (d) to (g). Pub. L. 109–417, §202(2), added subsecs. (d) to (g).
 
 <b>2002</b>—Pub. L. 107–188 reenacted section catchline without change and amended text generally, substituting detailed provisions relating to facilities, capacities, and national communications and surveillance networks for provisions relating to findings of need for secure and modern facilities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Working Capital Fund
 

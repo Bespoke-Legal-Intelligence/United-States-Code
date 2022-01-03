@@ -8,7 +8,7 @@
 
 #### (2) Rule
 
-&emsp;Not later than 180 days after October 23, 2018, the Commission shall issue a rule establishing an expedited process for issuing and amending licenses for closed-loop pumped storage projects under this section.
+&emsp;Not later than 180 days after October 23, 2018, the Commission shall issue a rule establishingan expedited process for issuing and amending licenses for closed-loop pumped storage projects under this section.
 
 #### (3) Interagency task force
 
@@ -89,6 +89,8 @@ Interagency cooperation in the preparation of environmental documents under the 
 Nothing in this section affects any authority of the Commission to license a closed-loop pumped storage project under this subchapter.
 
 (June 10, 1920, ch. 285, pt. I, §35, as added Pub. L. 115–270, title III, §3004, Oct. 23, 2018, 132 Stat. 3865.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

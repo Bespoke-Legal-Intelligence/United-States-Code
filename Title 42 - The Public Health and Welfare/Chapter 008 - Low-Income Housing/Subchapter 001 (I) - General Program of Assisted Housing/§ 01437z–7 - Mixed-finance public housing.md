@@ -8,7 +8,7 @@ A public housing agency may own, operate, assist, or otherwise participate in 1 
 
 #### (1) Forms
 
-&emsp;A public housing agency may provide to a mixed-finance project assistance from the Operating Fund under section 1437g of this title,assistance from the Capital Fund under such section, or both forms of assistance. A public housing agency may, in accordance with regulations established by the Secretary, provide capital assistance to a mixed-finance project in the form of a grant, loan, guarantee, or other form of investment in the project, which may involve drawdown of funds on a schedule commensurate with construction draws for deposit into an interest-bearing escrow account to serve as collateral or credit enhancement for bonds issued by a public agency, or for other forms of public or private borrowings, for the construction or rehabilitation of the development.
+&emsp;A public housing agency may provide to a mixed-finance project assistance from the Operating Fund under section 1437g of this title, assistance from the Capital Fund under such section, or both forms of assistance. A public housing agency may, in accordance with regulations established by the Secretary, provide capital assistance to a mixed-finance project in the form of a grant, loan, guarantee, or other form of investment in the project, which may involve drawdown of funds on a schedule commensurate with construction draws for deposit into an interest-bearing escrow account to serve as collateral or credit enhancement for bonds issued by a public agency, or for other forms of public or private borrowings, for the construction or rehabilitation of the development.
 
 #### (2) Use
 
@@ -16,7 +16,7 @@ A public housing agency may own, operate, assist, or otherwise participate in 1 
 
 #### (c) Compliance with public housing requirements
 
-The units assisted with capital or operating assistance in a mixed-finance project shall be developed, operated, and maintained in accordance with the requirements of this chapter relating to public housing during the period required by under <sup>1</sup> this chapter, unless otherwise specified in this section. For purposes of this chapter, any reference to public housing owned or operated by a public housing agency shall include dwelling units in a mixed finance project that are assisted by the agency with capital or operating assistance.
+The units assisted with capital or operating assistance in a mixed-finance project shall bedeveloped, operated, and maintained in accordance with the requirements of this chapter relating to public housing during the period required by under <sup>1</sup> this chapter, unless otherwise specified in this section. For purposes of this chapter, any reference to public housing owned or operated by a public housing agency shall include dwelling units in a mixed finance project that are assisted by the agency with capital or operating assistance.
 
 #### (d) Mixed-finance projects
 
@@ -69,6 +69,8 @@ Notwithstanding any other provision of this chapter, to the extent deemed approp
 If an entity that owns or operates a mixed-finance project, that includes a significant number of units other than public housing units enters into a contract with a public housing agency, the terms of which obligate the entity to operate and maintain a specified number of units in the project as public housing units in accordance with the requirements of this chapter for the period required by law, such contractual terms may provide that, if, as a result of a reduction in appropriations under section 1437g of this title or any other change in applicable law, the public housing agency is unable to fulfill its contractual obligations with respect to those public housing units, that entity may deviate, under procedures and requirements developed through regulations by the Secretary, from otherwise applicable restrictions under this chapter regarding rents, income eligibility, and other areas of public housing management with respect to a portion or all of those public housing units, to the extent necessary to preserve the viability of those units while maintaining the low-income character of the units to the maximum extent practicable.
 
 (Sept. 1, 1937, ch. 896, title I, §35, as added Pub. L. 105–276, title V, §539\[(a)\], Oct. 21, 1998, 112 Stat. 2594.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

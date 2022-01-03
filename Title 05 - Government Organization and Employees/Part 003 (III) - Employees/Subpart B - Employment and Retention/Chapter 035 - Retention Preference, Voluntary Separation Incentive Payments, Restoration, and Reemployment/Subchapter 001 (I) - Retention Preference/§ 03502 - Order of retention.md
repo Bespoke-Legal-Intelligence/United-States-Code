@@ -58,7 +58,7 @@
 
 &emsp;(B) shall consist of written notification as to—
 
-&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction inforce (broken down by geographic area or on such other basis as may be required under paragraph (4));
+&emsp;&emsp;(i) the number of employees to be separated from service due to the reduction in force (broken down by geographic area or on such other basis as may be required under paragraph (4));
 
 &emsp;&emsp;(ii) when those separations will occur; and
 
@@ -126,7 +126,7 @@ Section 8(b) of the Soil Conservation and Allotment Act, referred to in subsec. 
 
 Section 10(b) of the Agricultural Adjustment Act, referred to in subsec. (a)(C)(i), is classified to section 610(b) of Title 7, Agriculture.
 
-The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former §2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act was classified to former section 2864(a)(2)(A) of Title 29. Pursuant to section 3361(a) of Title 29, references to a provision of the Workforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (d)(3), (4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and was repealed by Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, effective July 1, 2015. Title I of the Act was classified principally to former chapter 30 (former §2801 et seq.) of Title 29, Labor. Section 134(a)(2)(A) of the Act was classified to former section 2864(a)(2)(A) of Title 29. Pursuant to section 3361(a) of Title 29, references to a provision of theWorkforce Investment Act of 1998 are deemed to refer to the corresponding provision of the Workforce Innovation and Opportunity Act, Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, effective July 1, 2015. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -218,7 +218,7 @@ Pub. L. 104–106, div. A, title X, §1043(d)(2), Feb. 10, 1996, 110 Stat. 438, 
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–484, div. D, title XLIV, §4433(a)(2), Oct. 23, 1992, 106 Stat. 2722, provided that: "The amendmentmade by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\]."
+Pub. L. 102–484, div. D, title XLIV, §4433(a)(2), Oct. 23, 1992, 106 Stat. 2722, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to any personnel action taking effect on or after the last day of the 90-day period beginning on the date of enactment of this Act \[Oct. 23, 1992\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -302,7 +302,7 @@ Pub. L. 102–484, div. D, title XLIV, §4433(b), Oct. 23, 1992, 106 Stat. 2722,
 
 #### Indian Preference Laws Applicable to Bureau of Indian Affairs and Indian Health Service Positions
 
-Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec.\(a) of this section, see section 5117(a) of Title 25, Indians.
+Applicability of Indian preference laws to Bureau of Indian Affairs and Indian Health Service positions for purposes of reduction-in-force procedures under subsec. (a) of this section, see section 5117(a) of Title 25, Indians.
 
 #### <b>Executive Documents</b>
 

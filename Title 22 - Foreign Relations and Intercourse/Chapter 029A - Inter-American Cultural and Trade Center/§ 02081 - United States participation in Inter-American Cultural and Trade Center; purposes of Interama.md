@@ -6,7 +6,7 @@ The President is authorized, through such department or agency in the executive 
 
 &emsp;(2) to facilitate broad and continuous exchanges of ideas, persons, and products through cultural, educational, and other exchanges; and
 
-&emsp;(3) by other appropriate means, to promote mutual understanding between the peoples ofthe Western Hemisphere and to strengthen the ties which unite the United States with other nations of the free world.
+&emsp;(3) by other appropriate means, to promote mutual understanding between the peoples of the Western Hemisphere and to strengthen the ties which unite the United States with other nations of the free world.
 
 (Pub. L. 89–355, §1, Feb. 19, 1966, 80 Stat. 5.)
 

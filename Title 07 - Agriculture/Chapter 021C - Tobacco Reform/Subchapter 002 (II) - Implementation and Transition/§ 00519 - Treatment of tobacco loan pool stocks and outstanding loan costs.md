@@ -2,7 +2,7 @@
 
 #### (a) Disposal of stocks
 
-To provide for the orderly disposition of quota tobacco held by an association that has entered into a loan agreement with the Commodity Credit Corporation under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) (referred to in this section as an "association"), loan pool stocks for each kind of tobacco held by the association shall be disposed of in accordance with this section.
+To provide for the orderly disposition of quota tobacco held by an association that has enteredinto a loan agreement with the Commodity Credit Corporation under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) (referred to in this section as an "association"), loan pool stocks for each kind of tobacco held by the association shall be disposed of in accordance with this section.
 
 #### (b) Disposal by associations
 
@@ -20,7 +20,7 @@ For each kind of tobacco held by an association, the association shall be respon
 
 #### (2) Reimbursement
 
-&emsp;As required by section 518e(b)(1)(B) of this title, the Secretary shall transfer from the Tobacco Trust Fund to the No Net Cost TobaccoFund or the No Net Cost Tobacco Account of an association established under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) such amounts as the Secretary determines will be adequate to reimburse the Commodity Credit Corporation for any net losses that the Corporation may sustain under its loan agreements with the association.
+&emsp;As required by section 518e(b)(1)(B) of this title, the Secretary shall transfer from the Tobacco Trust Fund to the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of an association established under section 106A or 106B of the Agricultural Act of 1949 (7 U.S.C. 1445–1, 1445–2) such amounts as the Secretary determines will be adequate to reimburse the Commodity Credit Corporation for any net losses that the Corporation may sustain under its loan agreements with the association.
 
 #### (d) Transfer of remaining no net cost funds
 
@@ -28,9 +28,13 @@ Any funds in the No Net Cost Tobacco Fund or the No Net Cost Tobacco Account of 
 
 (Pub. L. 108–357, title VI, §641, Oct. 22, 2004, 118 Stat. 1534.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 106A and 106B of the Agricultural Act of 1949, referred to in text, were classified to sections 1445–1 and 1445–2, respectively, of this title prior to repeal by Pub. L. 108–357, title VI, §612(a), Oct. 22, 2004, 118 Stat. 1523.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

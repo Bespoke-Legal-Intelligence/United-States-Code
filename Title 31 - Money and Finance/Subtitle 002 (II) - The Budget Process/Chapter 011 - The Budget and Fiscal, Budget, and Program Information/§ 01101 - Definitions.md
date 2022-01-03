@@ -78,7 +78,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) waste and inefficiency in Federal programs undermine the confidence of the American people in the Government and reduces the Federal Government's ability to address adequately vital public needs;
 
-&emsp;"(2) Federal managers are seriously disadvantaged in their efforts to improve program efficiency and effectiveness, because of insufficient articulation ofprogram goals and inadequate information on program performance; and
+&emsp;"(2) Federal managers are seriously disadvantaged in their efforts to improve program efficiency and effectiveness, because of insufficient articulation of program goals and inadequate information on program performance; and
 
 &emsp;"(3) congressional policymaking, spending decisions and program oversight are seriously handicapped by insufficient attention to program performance and results.
 

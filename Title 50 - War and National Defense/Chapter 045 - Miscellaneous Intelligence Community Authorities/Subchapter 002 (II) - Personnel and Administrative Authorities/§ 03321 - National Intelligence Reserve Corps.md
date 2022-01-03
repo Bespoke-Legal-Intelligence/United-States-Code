@@ -28,9 +28,13 @@ A member of the National Intelligence Reserve Corps who is reemployed on a tempo
 
 (Pub. L. 108–458, title I, §1053, Dec. 17, 2004, 118 Stat. 3683.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403–1c of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -32,7 +32,7 @@ The State process of development of a mitigation plan under this section shall�
 
 #### (2) Maximum Federal contribution
 
-&emsp;With respect to any mitigation plan, a State, local, or tribal government may use an amount of Federal contributions under section 5170c of this title not to exceed 7 percent of the amount of such contributions available to the government as of a date determined by the government.
+&emsp;With respect to any mitigation plan, a State, local, or tribal government may use an amount of Federal contributions under section 5170c of this title not to exceed 7 percent of theamount of such contributions available to the government as of a date determined by the government.
 
 #### (e) Increased Federal share for hazard mitigation measures
 
@@ -54,9 +54,13 @@ The State process of development of a mitigation plan under this section shall�
 
 (Pub. L. 93–288, title III, §322, as added Pub. L. 106–390, title I, §104(a), Oct. 30, 2000, 114 Stat. 1558; amended Pub. L. 115–254, div. D, §1204(b)(2), Oct. 5, 2018, 132 Stat. 3439.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (e)(1). Pub. L. 115–254 inserted "or event under section 5187 of this title" after "major disaster" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

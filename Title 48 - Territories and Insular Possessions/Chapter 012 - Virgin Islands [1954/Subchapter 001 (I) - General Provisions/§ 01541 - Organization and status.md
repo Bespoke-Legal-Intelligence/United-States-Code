@@ -6,7 +6,7 @@ The provisions of this chapter and the name "Virgin Islands" as used in this cha
 
 #### (b) Powers and legal status of government; capital and seat of government
 
-The government of the Virgin Islands shall have the powers set forth in this chapter andshall have the right to sue by such name and in cases arising out of contract, to be sued: <i>Provided</i>, That no tort action shall be brought against the government of the Virgin Islands or against any officer or employee thereof in his official capacity without the consent of the legislature constituted by this chapter.
+The government of the Virgin Islands shall have the powers set forth in this chapter and shall have the right to sue by such name and in cases arising out of contract, to be sued: <i>Provided</i>, That no tort action shall be brought against the government of the Virgin Islands or against any officer or employee thereof in his official capacity without the consent of the legislature constituted by this chapter.
 
 The capital and seat of government of the Virgin Islands shall be located at the city of Charlotte Amalie, in the island of Saint Thomas.
 
@@ -16,6 +16,8 @@ The relations between such government and the Federal Government in all matters 
 
 (July 22, 1954, ch. 558, §2, 68 Stat. 497; Pub. L. 90–496, §13, Aug. 23, 1968, 82 Stat. 842.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning act July 22, 1954, ch. 558, 68 Stat. 497, as amended, known as the Revised Organic Act of the Virgin Islands, which enacted this chapter, amended sections 104 and 111 of Title 21, Food and Drugs, and section 3350 of former Title 26, Internal Revenue Code (see section 7652(b)(3) of Title 26), and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title note below and Tables.
@@ -24,9 +26,11 @@ This chapter, referred to in subsecs. (a) and (b), was in the original "this Act
 
 <b>1968</b>—Subsec. (c). Pub. L. 90–496 added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1968 Amendment
 
-Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496, effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
+Amendment of provisions of section necessary to authorize the holding of an election for Governor and Lieutenant Governor on Nov. 3, 1970, effective Jan. 1, 1970, and all other amendments of provisions of section, unless otherwise expressly provided by Pub. L. 90–496,effective Jan. 4, 1971, see section 16 of Pub. L. 90–496, set out as a note under section 1591 of this title.
 
 #### Effective Date
 
@@ -140,7 +144,7 @@ Experts and Consultants.—The Commission may procure such temporary and intermi
 
 "(e)
 
-Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
+Volunteer and Uncompensated Services.—Notwithstanding section 1342 of title 31, United StatesCode, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
 
 #### "SEC. 6. POWERS OF COMMISSION.
 

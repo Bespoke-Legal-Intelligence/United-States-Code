@@ -40,13 +40,13 @@ In this section:
 
 #### (7) Whistleblower
 
-&emsp;The term "whistleblower" means any individual, or 2 or more individuals acting jointly, who provides information relating to a violation of this chapter to the Commission, in a manner established by rule or regulation by the Commission.
+&emsp;The term "whistleblower" means any individual, or 2 or more individuals acting jointly, who provides information relating to a violation of this chapter to the Commission, in amanner established by rule or regulation by the Commission.
 
 #### (b) Awards
 
 #### (1) In general
 
-&emsp;In any covered judicial or administrative action, or related action, the Commission, under regulations prescribed by the Commission and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the Commission that led to the successful enforcement of the covered judicial or administrativeaction, or related action, in an aggregate amount equal to—
+&emsp;In any covered judicial or administrative action, or related action, the Commission, under regulations prescribed by the Commission and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the Commission that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to—
 
 &emsp;&emsp;(A) not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions; and
 
@@ -328,9 +328,13 @@ A whistleblower who knowingly and willfully makes any false, fictitious, or frau
 
 (Sept. 21, 1922, ch. 369, §23, as added Pub. L. 111–203, title VII, §748, July 21, 2010, 124 Stat. 1739.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 26, act Sept. 21, 1922, ch. 369, §23, as added Jan. 11, 1983, Pub. L. 97–444, title II, §236, 96 Stat. 2324, provided for special studies to be conducted by Commission, Board of Governors of Federal Reserve System, and Securities and Exchange Commission, prior to repeal by Pub. L. 102–546, title IV, §402(15), Oct. 28, 1992, 106 Stat. 3625.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

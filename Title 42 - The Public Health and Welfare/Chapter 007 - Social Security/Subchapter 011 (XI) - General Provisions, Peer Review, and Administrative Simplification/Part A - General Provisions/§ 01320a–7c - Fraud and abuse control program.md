@@ -72,7 +72,7 @@
 
 &emsp;&emsp;&emsp;(vi) convene, not less than annually, meetings with partners in the partnership for purposes of providing updates on the partnership's work and facilitating information sharing between the partners;
 
-&emsp;&emsp;&emsp;(vii) enter into data sharing and data use agreements with partners in the partnership in such a manner so as to ensure thepartnership has access to data necessary to identify waste, fraud, and abuse while maintaining the confidentiality and integrity of such data;
+&emsp;&emsp;&emsp;(vii) enter into data sharing and data use agreements with partners in the partnership in such a manner so as to ensure the partnership has access to data necessary to identify waste, fraud, and abuse while maintaining the confidentiality and integrity of such data;
 
 &emsp;&emsp;&emsp;(viii) provide partners in the partnership with plan-specific, confidential feedback on any aberrant billing patterns or potential fraud identified by the partnership with respect to such partner;
 
@@ -126,7 +126,7 @@
 
 #### (G) Funding
 
-&emsp;&emsp;The partnership shall be funded by amounts otherwise made available to the Secretary for carrying out the program described in paragraph (1).
+&emsp;&emsp;The partnership shall be funded by amounts otherwise made available to theSecretary for carrying out the program described in paragraph (1).
 
 #### (H) Transitional provisions
 
@@ -158,7 +158,7 @@
 
 #### (2) Crediting
 
-&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement forcosts of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
+&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement for costs of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
 
 #### (c) "Health plan" defined
 
@@ -172,6 +172,8 @@ For purposes of this section, the term "health plan" means a plan or program tha
 
 (Aug. 14, 1935, ch. 531, title XI, §1128C, as added Pub. L. 104–191, title II, §201(a), Aug. 21, 1996, 110 Stat. 1992; amended Pub. L. 111–148, title VI, §6403(c), Mar. 23, 2010, 124 Stat. 766; Pub. L. 116–260, div. CC, title I, §124(a), Dec. 27, 2020, 134 Stat. 2957.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Inspector General Act of 1978, referred to in subsec. (a)(4), (5), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Paragraphs (3) through (9) of section 6 of the Act probably mean paragraphs (3) through (9) of section 6(a) of the Act, which set out various activities authorized to be performed by Inspectors General.
@@ -183,6 +185,8 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(6)(I), is Pub. L.
 <b>2020</b>—Subsec. (a)(6). Pub. L. 116–260 added par. (6).
 
 <b>2010</b>—Subsec. (a)(1)(C) to (E). Pub. L. 111–148 inserted "and" at end of subpar. (C), substituted period for ", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "to provide for the reporting and disclosure of certain final adverse actions against health care providers, suppliers, or practitioners pursuant to the data collection system established under section 1320a–7e of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

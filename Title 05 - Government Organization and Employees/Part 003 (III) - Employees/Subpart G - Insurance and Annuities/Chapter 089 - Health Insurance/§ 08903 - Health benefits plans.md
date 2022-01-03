@@ -24,11 +24,11 @@ Group-practice prepayment plans.—Group-practice prepayment plans which offer h
 
 &emsp;&emsp;(B)
 
-Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients' homes, out-of-hospital diagnostic procedures, and preventive care, and whichplans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
+Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients' homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
 &emsp;&emsp;(C)
 
-Mixed model prepayment plans.—Mixed model prepayment plans which are a combination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
+Mixed model prepayment plans.—Mixed model prepayment plans which are acombination of the type of plans described in subparagraph (A) and the type of plans described in subparagraph (B).
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 602; Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 98–615, §3(3), Nov. 8, 1984, 98 Stat. 3203; Pub. L. 99–53, §2(b), June 17, 1985, 99 Stat. 94; Pub. L. 99–251, title I, §§102, 111, Feb. 27, 1986, 100 Stat. 14, 19; Pub. L. 100–654, title II, §202(b), Nov. 14, 1988, 102 Stat. 3845; Pub. L. 105–266, §3(b), Oct. 19, 1998, 112 Stat. 2366.)
 

@@ -20,6 +20,8 @@ Sept. 28, 1971, Pub. L. 92–129, §501(a)(1), 85 Stat. 361.
 
 The word "regulations" is added for consistency. The word "persons" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
@@ -27,6 +29,8 @@ The word "regulations" is added for consistency. The word "persons" is omitted a
 <b>1990</b>—Pub. L. 101–510 inserted ", and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy," after "Secretary of Defense".
 
 <b>1983</b>—Pub. L. 98–94 struck out "(a)" before "The Secretary of Defense".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

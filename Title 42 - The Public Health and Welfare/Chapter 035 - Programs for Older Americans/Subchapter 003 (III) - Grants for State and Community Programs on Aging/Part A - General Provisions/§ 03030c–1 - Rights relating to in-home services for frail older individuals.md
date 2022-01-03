@@ -18,6 +18,8 @@ The Assistant Secretary shall require entities that provide in-home services und
 
 (Pub. L. 89–73, title III, §314, as added Pub. L. 102–375, title III, §311, Sept. 30, 1992, 106 Stat. 1237; amended Pub. L. 103–171, §§2(11), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–171 struck out "(a)

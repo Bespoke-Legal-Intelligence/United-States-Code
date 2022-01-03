@@ -1,6 +1,6 @@
 ### §311. Captains of the port
 
-Any officer, including any petty officer, may be designated by the Commandant as captain ofthe port or ports or adjacent high seas or waters over which the United States has jurisdiction, as the Commandant deems necessary to facilitate execution of Coast Guard duties.
+Any officer, including any petty officer, may be designated by the Commandant as captain of the port or ports or adjacent high seas or waters over which the United States has jurisdiction, as the Commandant deems necessary to facilitate execution of Coast Guard duties.
 
 (Added Pub. L. 115–282, title I, §104(c)(1)(A), Dec. 4, 2018, 132 Stat. 4198.)
 

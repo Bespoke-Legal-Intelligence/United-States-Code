@@ -54,7 +54,7 @@ For the purposes of this part—
 
 (17) The term "system of public telecommunications entities" means any combination of public telecommunications entities acting cooperatively to produce, acquire, or distribute programs, or to undertake related activities.
 
-(June 19, 1934, ch. 652, title III, §397, formerly §394, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 67; renumbered §397 and amended Pub. L. 90–129, title I, §§103(f), 105, 106, title II, §201(3), (6), Nov. 7, 1967, 81 Stat. 366–368; Pub. L. 94–192, §5, Dec. 31, 1975, 89 Stat. 1100; Pub. L. 94–309, §6, June 5, 1976,90 Stat. 684; Pub. L. 95–567, title IV, §401, Nov. 2, 1978, 92 Stat. 2422; Pub. L. 97–35, title XII, §1234(b), Aug. 13, 1981, 95 Stat. 736; Pub. L. 101–437, title II, §203(b), Oct. 17, 1990, 104 Stat. 1000; Pub. L. 104–316, title I, §126(a), Oct. 19, 1996, 110 Stat. 3840.)
+(June 19, 1934, ch. 652, title III, §397, formerly §394, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 67; renumbered §397 and amended Pub. L. 90–129, title I, §§103(f), 105, 106, title II, §201(3), (6), Nov. 7, 1967, 81 Stat. 366–368; Pub. L. 94–192, §5, Dec. 31, 1975, 89 Stat. 1100; Pub. L. 94–309, §6, June 5, 1976, 90 Stat. 684; Pub. L. 95–567, title IV, §401, Nov. 2, 1978, 92 Stat. 2422; Pub. L. 97–35, title XII, §1234(b), Aug. 13, 1981, 95 Stat. 736; Pub. L. 101–437, title II, §203(b), Oct. 17, 1990, 104 Stat. 1000; Pub. L. 104–316, title I, §126(a), Oct. 19, 1996, 110 Stat. 3840.)
 
 #### <b>Editorial Notes</b>
 
@@ -95,6 +95,8 @@ Pars. (6) to (9). Pub. L. 90–129, §201(6), added pars. (6) to (9).
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–567 effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as a note under section 390 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

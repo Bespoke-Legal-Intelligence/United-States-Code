@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) provide such individual with an opportunity to notify the plan or issuer of the individual's need for transitional care; and
 
-&emsp;&emsp;(C) permit the patient to elect to continue to have benefits provided under such plan or such coverage, under the same terms and conditions as would have applied and with respect to such items and services as would have been covered under such plan or coverage had such termination not occurred, with respect to the course of treatment furnished by such provider or facility relating to such individual's status as a continuing care patient during the period beginning on the date on which the notice under subparagraph (A) is provided and ending on the earlier of—
+&emsp;&emsp;(C) permit the patient to elect to continue to have benefits provided under such plan or such coverage, under the same terms and conditions as would have applied and with respect to such items and services as would have been covered under such plan or coverage had such termination not occurred, with respect to the course of treatment furnished by such provider or facility relatingto such individual's status as a continuing care patient during the period beginning on the date on which the notice under subparagraph (A) is provided and ending on the earlier of—
 
 &emsp;&emsp;&emsp;(i) the 90-day period beginning on such date; or
 
@@ -63,6 +63,8 @@ In this section:
 &emsp;The term "terminated" includes, with respect to a contract, the expiration or nonrenewal of the contract, but does not include a termination of the contract for failure to meet applicable quality standards or for fraud.
 
 (July 1, 1944, ch. 373, title XXVII, §2799A–3, as added Pub. L. 116–260, div. BB, title I, §113(a), Dec. 27, 2020, 134 Stat. 2868.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

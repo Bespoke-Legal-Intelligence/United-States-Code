@@ -32,7 +32,7 @@ The Secretary of State may waive the notification requirement of subsection (a),
 
 #### Prior Provisions
 
-A prior section 34 of act Aug. 1, 1956, was renumbered sections 35 and 36 by sections 123 and 124 of Pub. L. 98–164, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
+A prior section 34 of act Aug. 1, 1956, was renumbered sections 35 and 36 by sections 123 and 124 of Pub. L. 98–164, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; periodic review and revision; confirmation and approval by Federal Energy Regulatory Commission
 
-(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the FederalColumbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
+(1) The Administrator shall establish, and periodically review and revise, rates for the sale and disposition of electric energy and capacity and for the transmission of non-Federal power. Such rates shall be established and, as appropriate, revised to recover, in accordance with sound business principles, the costs associated with the acquisition, conservation, and transmission of electric power, including the amortization of the Federal investment in the Federal Columbia River Power System (including irrigation costs required to be repaid out of power revenues) over a reasonable period of years and the other costs and expenses incurred by the Administrator pursuant to this chapter and other provisions of law. Such rates shall be established in accordance with sections 9 and 10 of the Federal Columbia River Transmission System Act (16 U.S.C. 838) \[16 U.S.C. 838g and 838h\], section 5 of the Flood Control Act of 1944 \[16 U.S.C. 825s\], and the provisions of this chapter.
 
 (2) Rates established under this section shall become effective only, except in the case of interim rules as provided in subsection (i)(6), upon confirmation and approval by the Federal Energy Regulatory Commission upon a finding by the Commission, that such rates—
 
@@ -28,7 +28,7 @@
 
 &emsp;(C) no purchases or sales by the Administrator as provided in section 839c(c) of this title were made during such five-year period;
 
-&emsp;(D) all resources that would have been required, during such five-year period, to meet remaining general requirements of the public body, cooperative and Federal agency customers (other than requirements met by the available Federal base system resources determined under subparagraph (B) of this paragraph) were—
+&emsp;(D) all resources that would have been required, during such five-year period, to meet remaining general requirements of the public body, cooperative and Federal agency customers (other than requirements met by theavailable Federal base system resources determined under subparagraph (B) of this paragraph) were—
 
 &emsp;&emsp;(i) purchased from such customers by the Administrator pursuant to section 839d of this title, or
 
@@ -104,7 +104,7 @@ In establishing rates under this section, the Administrator shall use the follow
 
 &emsp;(2) One or more hearings shall be conducted as expeditiously as practicable by a hearing officer to develop a full and complete record and to receive public comment in the form of written and oral presentation of views, data, questions, and argument related to such proposed rates. In any such hearing—
 
-&emsp;&emsp;(A) any person shall be provided an adequate opportunity by the hearing officer tooffer refutation or rebuttal of any material submitted by any other person or the Administrator, and
+&emsp;&emsp;(A) any person shall be provided an adequate opportunity by the hearing officer to offer refutation or rebuttal of any material submitted by any other person or the Administrator, and
 
 &emsp;&emsp;(B) the hearing officer, in his discretion, shall allow a reasonable opportunity for cross examination, which, as determined by the hearing officer, is not dilatory, in order to develop information and material relevant to any such proposed rate.
 
@@ -126,7 +126,7 @@ All rate schedules adopted, and all power billings rendered, by the Administrato
 
 #### (k) Statutory basis for procedures used in establishing rates or rate schedules
 
-Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such review shall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) shall be afforded an opportunity by the Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
+Notwithstanding any other provision of this chapter, all rates or rate schedules for the sale of nonfirm electric power within the United States, but outside the region, shall be established after December 5, 1980, by the Administrator in accordance with the procedures of subsection (i) of this section (other than the first sentence of paragraph (6) thereof) and in accordance with the Bonneville Project Act \[16 U.S.C. 832 et seq.\], the Flood Control Act of 1944, and the Federal Columbia River Transmission System Act \[16 U.S.C. 838 et seq.\]. Notwithstanding section 201(f) of the Federal Power Act \[16 U.S.C. 824(f)\], such rates or rate schedules shall become effective after review by the Federal Energy Regulatory Commission for conformance with the requirements of such Acts and after approval thereof by the Commission. Such reviewshall be based on the record of proceedings established under subsection (i) of this section. The parties to such proceedings under subsection (i) shall be afforded an opportunity by the Commission for an additional hearing in accordance with the procedures established for ratemaking by the Commission pursuant to the Federal Power Act \[16 U.S.C. 791a et seq.\].
 
 #### (l) Rates for sales outside United States; negotiations
 
@@ -153,6 +153,8 @@ In order to further the purposes of this chapter and to protect the consumers of
 Notwithstanding any other provision of this section, rates established by the Administrator, under this section shall recover costs for protection, mitigation and enhancement of fish and wildlife, whether under this chapter or any other Act, not to exceed such amounts the Administrator forecasts will be expended during the fiscal year 2002–2006 rate period, while preserving the Administrator's ability to establish appropriate reserves and maintain a high Treasury payment probability for the subsequent rate period.
 
 (Pub. L. 96–501, §7, Dec. 5, 1980, 94 Stat. 2723; Pub. L. 106–60, title III, §316, Sept. 29, 1999, 113 Stat. 497.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

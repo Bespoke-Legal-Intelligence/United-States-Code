@@ -14,7 +14,7 @@ The Secretary of Education shall—
 
 &emsp;(5) Designate as provided in section 107b of this title the State agency for the blind in each State, or, in any State in which there is no such agency, some other public agency to issue licenses to blind persons who are citizens of the United States for the operating of vending facilities on Federal and other property in such State for the vending of newspapers, periodicals, confections, tobacco products, foods, beverages, and other articles or services dispensed automatically or manually and prepared on or off the premises in accordance with all applicable health laws, as determined by the State licensing agency, and including the vending or exchange of chances for any lottery authorized by State law and conducted by an agency of a State; and
 
-&emsp;(6) Through the Commission,<sup>1</sup> (A) conduct periodic evaluations of the program authorized by this chapter, including upward mobility and other training required by section 107d–4 of this title, and (B) take such other steps, including the issuance of such rules and regulations, as may be necessary or desirable in carrying out the provisions of this chapter.
+&emsp;(6) Through the Commission,<sup>1</sup> (A) conduct periodic evaluations of the program authorized by this chapter, including upward mobility and other training required by section 107d–4 of this title, and (B) take such othersteps, including the issuance of such rules and regulations, as may be necessary or desirable in carrying out the provisions of this chapter.
 
 #### (b) Duty of State licensing agencies to prefer blind
 
@@ -38,6 +38,8 @@ In any State having an approved plan for vocational rehabilitation pursuant to t
 
 (June 20, 1936, ch. 638, §2, 49 Stat. 1559; 1939 Reorg. Plan No. I, §§201, 204, eff. July 1, 1939, 4 F.R. 2728, 53 Stat. 1424; 1946 Reorg. Plan No. 2, §6, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Aug. 3, 1954, ch. 655, §4(b)–(d), 68 Stat. 663; Pub. L. 93–516, title II, §203, Dec. 7, 1974, 88 Stat. 1623; Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8; Pub. L. 96–88, title III, §301(a)(4)(B), title V, §507, Oct. 17, 1979, 93 Stat. 678, 692; Pub. L. 104–66, title I, §1041(i), Dec. 21, 1995, 109 Stat. 715; Pub. L. 105–220, title IV, §414(a), Aug. 7, 1998, 112 Stat. 1241.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
@@ -50,7 +52,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112,
 
 The content of Pub. L. 93–516, including provisions of section 203 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
 
-Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>, D.C.D.C. 1976, 412 F.Supp. 353) H.R. 1422 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8, 2–9, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
+Pursuant to an order of the United States District Court for the District of Columbia (<i>Kennedy v. Jones</i>,D.C.D.C. 1976, 412 F.Supp. 353) H.R. 1422 was deemed to have become law without the approval of the President on Nov. 21, 1974, and was given the designation Pub. L. 93–651. Therefore, for purposes of codification, this section should be deemed to have been amended by Pub. L. 93–651, title II, §203, Nov. 21, 1974, 89 Stat. 2–8, 2–9, in exactly the same manner as it was amended by Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617.
 
 #### Amendments
 
@@ -78,6 +80,8 @@ Subsecs. (d), (e). Pub. L. 93–516, §203(d), added subsecs. (d) and (e). An id
 
 <b>1954</b>—Act Aug. 3, 1954, added to the list of articles which may be vended, articles dispensed automatically or in containers or wrappings received by the stand and to provide that after four years the agency designated under section 35(a)(1) of title 29 shall be the sole State agency for vocational rehabilitation of the blind and to require, prior to that time, certification by agencies as a condition for issuing licenses.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1954 Amendment
 
 Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug. 3, 1954, set out as a note under section 49b of Title 29, Labor.
@@ -87,6 +91,10 @@ Amendment by act Aug. 3, 1954, effective July 1, 1954, see section 8 of act Aug.
 "Secretary of Education" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to sections 301(a)(4)(B) and 507 of Pub. L. 96–88 which are classified to sections 3441(a)(4)(B) and 3507 of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Secretary of Education.
 
 For transfer of functions and offices of Secretary and Department of Health, Education, and Welfare, including Rehabilitation Services Administration and Commissioner thereof, to Secretary and Department of Education, and for delegation of certain functions of Secretary of Education under this chapter to Assistant Secretary for Special Education and Rehabilitative Services, see sections 3417 and 3441 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953.
 
@@ -100,7 +108,7 @@ Memorandum of President of the United States, Jan. 20, 2012, 77 F.R. 3917, provi
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-Thousands of Americans who are blind have embraced the entrepreneurial spirit that helps define our Nation as a land of opportunity. Through the Federal Randolph-Sheppard Vending Facility Program administered by the Department of Education, talented and creative individuals who are blind have acquired the management training and business skills necessary torealize the American dream—a lifetime of economic opportunity, independence, and self-sufficiency for themselves and their families.
+Thousands of Americans who are blind have embraced the entrepreneurial spirit that helps define our Nation as a land of opportunity. Through the Federal Randolph-Sheppard Vending Facility Program administered by the Department of Education, talented and creative individuals who are blind have acquired the management training and business skills necessary to realize the American dream—a lifetime of economic opportunity, independence, and self-sufficiency for themselves and their families.
 
 For 75 years, blind business managers have successfully operated food services and commercial ventures at Federal, State, and private buildings and locations nationwide. We honor and celebrate this program's historic achievements. We also trust that the Randolph-Sheppard Program will continue to be a leading model for providing high-quality entrepreneurial opportunities for blind individuals. From a simple snack shop, to tourist services at the Hoover Dam, to full food-services operations at military installations, blind entrepreneurs have provided exceptional customer service to Federal and State employees, the Armed Forces, and the general public. With proven ability, they have challenged preconceived notions about disability.
 

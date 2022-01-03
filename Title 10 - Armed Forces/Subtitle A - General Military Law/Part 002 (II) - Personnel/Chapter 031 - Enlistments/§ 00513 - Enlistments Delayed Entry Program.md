@@ -18,7 +18,9 @@
 
 (d) This section shall be carried out under regulations to be prescribed by the Secretary of Defense or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
-(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L.101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, §512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(ii), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. A, title V, §526, Dec. 12, 2017, 131 Stat. 1382.)
+(Added Pub. L. 101–189, div. A, title V, §501(a)(1), Nov. 29, 1989, 103 Stat. 1435; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(2), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 104–201, div. A, title V, §512, Sept. 23, 1996, 110 Stat. 2514; Pub. L. 106–65, div. A, title V, §572(a), Oct. 5, 1999, 113 Stat. 623; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title V, §515(b)(1)(A), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(ii), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–91, div. A, title V, §526, Dec. 12, 2017, 131 Stat. 1382.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ A prior section 513, act Aug. 10, 1956, ch. 1041, 70A Stat. 18, related to promo
 <b>1996</b>—Subsec. (b). Pub. L. 104–201 inserted "The Secretary concerned may extend the 365-day period for any person for up to an additional 180 days if the Secretary determines that it is in the best interests of the armed force of which that person is a member to do so." after first sentence, "(1)" before "Unless", and "(2)" before "During" and substituted "paragraph (1)" for "the preceding sentence".
 
 <b>1990</b>—Subsecs. (b), (c). Pub. L. 101–510 substituted "subsection (a)" for "paragraph (1)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -4,11 +4,15 @@ All public lands of the United States situated north of township 60 north in the
 
 (July 10, 1930, ch. 881, §1, 46 Stat. 1020.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 The act of July 10, 1930, ch. 881, 46 Stat. 1020, which is classified to sections 577 to 577b of this title, is popularly known as the "Shipstead-Nolan Act".
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 FR 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.
 

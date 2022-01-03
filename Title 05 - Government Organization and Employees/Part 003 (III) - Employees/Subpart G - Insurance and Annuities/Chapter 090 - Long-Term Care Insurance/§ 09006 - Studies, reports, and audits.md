@@ -6,11 +6,11 @@ Provisions Relating to Carriers.—Each master contract under this chapter shall
 
 &emsp;(1) to furnish such reasonable reports as the Office of Personnel Management determines to be necessary to enable it to carry out its functions under this chapter; and
 
-&emsp;(2) to permit the Office and representatives of the Government Accountability Office to examine such records of the carrier as may benecessary to carry out the purposes of this chapter.
+&emsp;(2) to permit the Office and representatives of the Government Accountability Office to examine such records of the carrier as may be necessary to carry out the purposes of this chapter.
 
 (b)
 
-Provisions Relating to Federal Agencies.—Each Federal agency shall keep such records, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
+Provisions Relating to Federal Agencies.—Each Federal agency shall keep suchrecords, make such certifications, and furnish the Office, the carrier, or both, with such information and reports as the Office may require.
 
 (c)
 

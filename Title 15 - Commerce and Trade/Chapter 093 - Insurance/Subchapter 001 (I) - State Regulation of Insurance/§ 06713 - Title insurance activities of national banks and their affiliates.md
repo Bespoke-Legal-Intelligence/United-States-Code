@@ -26,7 +26,7 @@ No national bank may engage in any activity involving the underwriting or sale o
 
 #### (3) Insurance subsidiary
 
-&emsp;In the case of a national bank which has a subsidiary which provides insurance as principal and has no affiliate other than a subsidiary which provides insurance as principal, the national bank may not directly engage inany activity involving the underwriting of title insurance.
+&emsp;In the case of a national bank which has a subsidiary which provides insurance as principal and has no affiliate other than a subsidiary which provides insurance as principal, the national bank may not directly engage in any activity involving the underwriting of title insurance.
 
 #### (d) "Affiliate" and "subsidiary" defined
 
@@ -37,6 +37,8 @@ For purposes of this section, the terms "affiliate" and "subsidiary" have the sa
 No provision of this Act or any other Federal law shall be construed as superseding or affecting a State law which was in effect before November 12, 1999, and which prohibits title insurance from being offered, provided, or sold in such State, or from being underwritten with respect to real property in such State, by any person whatsoever.
 
 (Pub. L. 106–102, title III, §303, Nov. 12, 1999, 113 Stat. 1408.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

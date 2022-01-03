@@ -32,9 +32,13 @@ In any case in which the Secretary contacts a landowner directly about participa
 
 (Pub. L. 116–9, title III, §3002, Mar. 12, 2019, 133 Stat. 756.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of title XV of the Agriculture and Food Act of 1981 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

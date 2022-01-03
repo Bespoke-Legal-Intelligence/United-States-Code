@@ -12,7 +12,7 @@ Except as provided in subsection (c)—
 
 #### (b) Availability of records
 
-Every inventory or other record required under this section (1) shall be in accordance with, and contain such relevant information as may be required by, regulations of the Attorney General, (2) shall (A) be maintained separately from all other records of the registrant, or (B) alternatively, in the case of nonnarcotic controlled substances, be in such form that information required by the Attorney General is readily retrievable from the ordinary business records of the registrant, and (3) shall be kept and be available, for at least two years, for inspection and copying by officers or employees of the United States authorized by the Attorney General.
+Every inventory or other record required under this section (1) shall be in accordancewith, and contain such relevant information as may be required by, regulations of the Attorney General, (2) shall (A) be maintained separately from all other records of the registrant, or (B) alternatively, in the case of nonnarcotic controlled substances, be in such form that information required by the Attorney General is readily retrievable from the ordinary business records of the registrant, and (3) shall be kept and be available, for at least two years, for inspection and copying by officers or employees of the United States authorized by the Attorney General.
 
 #### (c) Nonapplicability
 
@@ -42,7 +42,7 @@ The foregoing provisions of this section shall not apply—
 
 #### (e) Reporting and recordkeeping requirements of drug conventions
 
-In addition to the reporting and recordkeeping requirements under any other provision of thissubchapter, each manufacturer registered under section 823 of this title shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirements under this subchapter on manufacturers subject to the requirements of this subsection.
+In addition to the reporting and recordkeeping requirements under any other provision of this subchapter, each manufacturer registered under section 823 of this title shall, with respect to narcotic and nonnarcotic controlled substances manufactured by it, make such reports to the Attorney General, and maintain such records, as the Attorney General may require to enable the United States to meet its obligations under articles 19 and 20 of the Single Convention on Narcotic Drugs and article 16 of the Convention on Psychotropic Substances. The Attorney General shall administer the requirements of this subsection in such a manner as to avoid the unnecessary imposition of duplicative requirements under this subchapter on manufacturers subject to the requirements of this subsection.
 
 #### (f) Records and reports of registrants
 
@@ -56,7 +56,7 @@ In addition to the reporting and recordkeeping requirements under any other prov
 
 (3)(A) All registered manufacturers and distributors shall be responsible for reviewing the information made available by the Attorney General under this subsection.
 
-(B) In determining whether to initiate proceedings under this subchapter against a registered manufacturer or distributor based on the failure of the registrant to maintain effective controls against diversion or otherwise comply with the requirements of this subchapter or the regulations issued thereunder, the Attorney General may take into account that the information made available under this subsection was available to the registrant.
+(B) In determining whether to initiate proceedings under this subchapter against a registered manufacturer or distributor based on thefailure of the registrant to maintain effective controls against diversion or otherwise comply with the requirements of this subchapter or the regulations issued thereunder, the Attorney General may take into account that the information made available under this subsection was available to the registrant.
 
 #### (g) Investigational uses of drugs; procedures
 
@@ -86,7 +86,7 @@ In the case of a drug product containing gamma hydroxybutyric acid for which an 
 
 All of the reports required under this section shall be provided in an electronic format.
 
-(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II,§§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 115–271, title III, §3273(a), Oct. 24, 2018, 132 Stat. 3952.)
+(Pub. L. 91–513, title II, §307, Oct. 27, 1970, 84 Stat. 1258; Pub. L. 93–281, §5, May 14, 1974, 88 Stat. 125; Pub. L. 95–633, title I, §§104, 110, Nov. 10, 1978, 92 Stat. 3772, 3773; Pub. L. 98–473, title II, §§514, 515, Oct. 12, 1984, 98 Stat. 2074; Pub. L. 106–172, §4, Feb. 18, 2000, 114 Stat. 9; Pub. L. 110–425, §3(c), Oct. 15, 2008, 122 Stat. 4824; Pub. L. 115–271, title III, §3273(a), Oct. 24, 2018, 132 Stat. 3952.)
 
 #### <b>Editorial Notes</b>
 

@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Within 75 days after the date of its preliminary determination under section 1673b(b) of this title, the administering authority shall make a final determination of whether the subject merchandise is being, or is likely to be, sold in the United States at less than its fair value.
+&emsp;Within 75 days after the date of its preliminary determination under section 1673b(b) ofthis title, the administering authority shall make a final determination of whether the subject merchandise is being, or is likely to be, sold in the United States at less than its fair value.
 
 #### (2) Extension of period for determination
 
@@ -136,13 +136,15 @@ Factors to consider.—In making the evaluation under clause (i), the Commission
 
 #### (d) Publication of notice of determinations
 
-Whenever the administering authority or the Commission makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
+Whenever the administering authority or the Commission makes a determination under thissection, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.
 
 #### (e) Correction of ministerial errors
 
 The administering authority shall establish procedures for the correction of ministerial errors in final determinations within a reasonable time after the determinations are issued under this section. Such procedures shall ensure opportunity for interested parties to present their views regarding any such errors. As used in this subsection, the term "ministerial error" includes errors in addition, subtraction, or other arithmetic function, clerical errors resulting from inaccurate copying, duplication, or the like, and any other type of unintentional error which the administering authority considers ministerial.
 
 (June 17, 1930, ch. 497, title VII, §735, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 169; amended Pub. L. 98–573, title VI, §§602(c), 605(b), Oct. 30, 1984, 98 Stat. 3024, 3028; Pub. L. 100–418, title I, §§1324(b)(3), 1333(a), Aug. 23, 1988, 102 Stat. 1201, 1209; Pub. L. 103–465, title II, §§212(b)(2)(B), 213(b), 214(b)(2), 219(b), (c)(6)–(8), 233(a)(5)(V), Dec. 8, 1994, 108 Stat. 4849–4851, 4856, 4857, 4900; Pub. L. 104–295, §20(b)(6), Oct. 11, 1996, 110 Stat. 3527.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -183,6 +185,8 @@ Subsec. (b)(1). Pub. L. 98–573, §602(c), inserted ", or sales (or the likeli
 Subsec. (c)(3)(A). Pub. L. 98–573, §605(b)(3), inserted reference to par. (4).
 
 Subsec. (c)(4). Pub. L. 98–573, §605(b)(2), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

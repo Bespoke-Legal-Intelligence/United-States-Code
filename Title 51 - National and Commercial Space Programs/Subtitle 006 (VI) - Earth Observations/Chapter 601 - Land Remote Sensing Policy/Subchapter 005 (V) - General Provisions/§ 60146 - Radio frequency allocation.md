@@ -38,5 +38,5 @@ Pub. L. 102–555, title V, §506, Oct. 28, 1992, 106 Stat. 4177.
 
 #### References in Text
 
-The Communications Act of 1934, referred to in subsecs. (a) and (b), is act June 19, 1934, ch. 652, 48 Stat.1064, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsecs. (a) and (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 

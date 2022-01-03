@@ -46,6 +46,8 @@ Aug. 9, 1955, ch. 662, §1(f), 69 Stat. 594.
 
 In subsection (b), the words "Territory, Puerto Rico, or the District of Columbia" are inserted to reflect 50:886(c).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106, §1501(37)(A), substituted "18233(a)(1)" for "2233(a)(1)".
@@ -71,6 +73,8 @@ Pub. L. 103–337, §2852(b), substituted "paragraph (2), (3), (4), (5), or (6) 
 Subsec. (a). Pub. L. 85–861 designated existing provisions as subsec. (a) and substituted "under any provision of this chapter except section 2233(a)(2), (3), and (4) of this title" for "under this chapter".
 
 Subsec. (b). Pub. L. 85–861 added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

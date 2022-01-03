@@ -76,6 +76,8 @@
 | 262p–11. | Opposition to loans or funds for countries that support terrorism. |
 | 262p–12. | Cancellation of Haiti's debts to international financial institutions. |
 | 262p–13. | Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism. |
+| 262p–14. | Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts. |
+| 262p–15. | United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank. |
 | [262q.](%C2%A7%2000262q%20-%20Transferred.md) | Transferred. |
 | [262r.](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md) | Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies. |
 | 262r–1. | Transmission to the Congress of operating summaries of the multilateral development banks. |
@@ -90,6 +92,8 @@
 | [262t.](%C2%A7%2000262t%20-%20Personnel%20practices.md) | Personnel practices. |
 | [263\.](%C2%A7%2000263%20-%20International%20Prison%20Commission.md) | International Prison Commission. |
 | [263a.](%C2%A7%2000263a%20-%20International%20Criminal%20Police%20Organization.md) | International Criminal Police Organization. |
+| [263b.](%C2%A7%2000263b%20-%20Transnational%20repression%20accountability%20and%20prevention.md) | Transnational repression accountability and prevention. |
+| [263c.](%C2%A7%2000263c%20-%20Anti-piracy%20information%20sharing.md) | Anti-piracy information sharing. |
 | 264, 265. | Omitted. |
 | [266\.](%C2%A7%2000266%20-%20International%20commission%20of%20congresses%20of%20navigation%3B%20authorization%20of%20appropriation%20for%20expenses.md) | International commission of congresses of navigation; authorization of appropriation for expenses. |
 | 266a, 266b. Transferred or Repealed. |  |
@@ -127,6 +131,7 @@
 | 276c–2. | Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds. |
 | 276c–3. | Repealed. |
 | 276c–4. | Employment of United States citizens by certain international organizations. |
+| 276c–5. | Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -865,6 +870,72 @@
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group
+
+Pub. L. 117–81, div. A, title XIII, §1316, Dec. 27, 2021, 135 Stat. 2001, provided that:
+
+"(a)
+
+Establishment.—There is established a group, to be known as the 'Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group', to serve as a legislative component to the 3+1 process launched in Jerusalem in March 2019.
+
+"(b)
+
+Membership.—The Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group shall include a group of not more than 6 United States Senators, to be known as the 'United States group', who shall be appointed in equal numbers by the majority leader and the minority leader of the Senate. The majority leader and the minority leader of the Senate shall also serve as ex officio members of the United States group.
+
+"(c)
+
+Meetings.—Not less frequently than once each year, the United States group shall meet with members of the 3+1 group to discuss issues on the agenda of the 3+1 deliberations of the Governments of Greece, Israel, Cyprus, and the United States to include maritime security, defense cooperation, energy initiatives, and countering malign influence efforts by the People's Republic of China and the Russian Federation.
+
+"(d)
+
+Authorization of Appropriations.—
+
+&emsp;"(1)
+
+In general.—There is authorized to be appropriated $100,000 for each fiscal year to assist in meeting the expenses of the United States group.
+
+&emsp;"(2)
+
+Availability of funds.—Amounts appropriated pursuant to the authorization under this subsection are authorized to remain available until expended.
+
+"(e)
+
+Termination.—The Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group shall terminate 4 years after the date of the enactment of this Act \[Dec. 27, 2021\]."
+
+#### United States Policy Regarding International Financial Institution Assistance With Respect to Advanced Wireless Technologies
+
+Pub. L. 117–81, div. F, title LXI, §6105, Dec. 27, 2021, 135 Stat. 2386, provided that:
+
+"(a)
+
+In General.—The Secretary of the Treasury (in this section referred to as the 'Secretary') shall instruct the United States Executive Director at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2))) that it is the policy of the United States to—
+
+&emsp;"(1) support assistance by the institution with respect to advanced wireless technologies (such as 5th generation wireless technology for digital cellular networks and related technologies) only if the technologies provide appropriate security for users;
+
+&emsp;"(2) proactively encourage assistance with respect to infrastructure or policy reforms that facilitate the use of secure advanced wireless technologies; and
+
+&emsp;"(3) cooperate, to the maximum extent practicable, with member states of the institution, particularly with United States allies and partners, in order to strengthen international support for such technologies.
+
+"(b)
+
+Waiver Authority.—The Secretary may waive subsection (a) on a case-by-case basis, on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the waiver—
+
+&emsp;"(1) will allow the United States to effectively promote the objectives of the policy described in subsection (a); or
+
+&emsp;"(2) is in the national interest of the United States, with an explanation of the reasons therefor.
+
+"(c)
+
+Progress Report.—The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act (22 U.S.C. 262r) a description of progress made toward advancing the policy described in subsection (a) of this section.
+
+"(d)
+
+Sunset.—The preceding provisions of this section shall have no force or effect after the earlier of—
+
+&emsp;"(1) the date that is 7 years after the date of the enactment of this Act \[Dec. 27, 2021\]; or
+
+&emsp;"(2) the date that the Secretary reports to the committees specified in subsection (b) that terminating the effectiveness of the provisions is important to the national interest of the United States, with a detailed explanation of the reasons therefor."
+
 #### Ensuring Chinese Debt Transparency
 
 Pub. L. 116–283, div. H, title XCVII, §9722, Jan. 1, 2021, 134 Stat. 4840, provided that:
@@ -1026,6 +1097,8 @@ Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Withi
 - [&sect; 00262p&#8211;11 - Opposition to loans or funds for countries that support terrorism](%C2%A7%2000262p%E2%80%9311%20-%20Opposition%20to%20loans%20or%20funds%20for%20countries%20that%20support%20terrorism.md)
 - [&sect; 00262p&#8211;12 - Cancellation of Haiti's debts to international financial institutions](%C2%A7%2000262p%E2%80%9312%20-%20Cancellation%20of%20Haiti%27s%20debts%20to%20international%20financial%20institutions.md)
 - [&sect; 00262p&#8211;13 - Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism](%C2%A7%2000262p%E2%80%9313%20-%20Support%20for%20capacity%20of%20the%20International%20Monetary%20Fund%20to%20prevent%20money%20laundering%20and%20financing%20of%20terrorism.md)
+- [&sect; 00262p&#8211;14 - Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts](%C2%A7%2000262p%E2%80%9314%20-%20Support%20to%20enhance%20the%20capacity%20of%20fund%20members%20to%20evaluate%20the%20legal%20and%20financial%20terms%20of%20sovereign%20debt%20contracts.md)
+- [&sect; 00262p&#8211;15 - United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank](%C2%A7%2000262p%E2%80%9315%20-%20United%20States%20policy%20on%20Burma%20at%20the%20International%20Monetary%20Fund%2C%20the%20World%20Bank%20Group%2C%20and%20the%20Asian%20Development%20Bank.md)
 - [&sect; 00262q - Transferred](%C2%A7%2000262q%20-%20Transferred.md)
 - [&sect; 00262r - Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies](%C2%A7%2000262r%20-%20Annual%20report%20by%20Chairman%20of%20National%20Advisory%20Council%20on%20International%20Monetary%20and%20Financial%20Policies.md)
 - [&sect; 00262r&#8211;1 - Transmission to the Congress of operating summaries of the multilateral development banks](%C2%A7%2000262r%E2%80%931%20-%20Transmission%20to%20the%20Congress%20of%20operating%20summaries%20of%20the%20multilateral%20development%20banks.md)
@@ -1040,6 +1113,8 @@ Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Withi
 - [&sect; 00262t - Personnel practices](%C2%A7%2000262t%20-%20Personnel%20practices.md)
 - [&sect; 00263 - International Prison Commission](%C2%A7%2000263%20-%20International%20Prison%20Commission.md)
 - [&sect; 00263a - International Criminal Police Organization](%C2%A7%2000263a%20-%20International%20Criminal%20Police%20Organization.md)
+- [&sect; 00263b - Transnational repression accountability and prevention](%C2%A7%2000263b%20-%20Transnational%20repression%20accountability%20and%20prevention.md)
+- [&sect; 00263c - Anti-piracy information sharing](%C2%A7%2000263c%20-%20Anti-piracy%20information%20sharing.md)
 - [&sect; 00264, 265 - Omitted](%C2%A7%2000264%2C%20265%20-%20Omitted.md)
 - [&sect; 00266 - International commission of congresses of navigation; authorization of appropriation for expenses](%C2%A7%2000266%20-%20International%20commission%20of%20congresses%20of%20navigation%3B%20authorization%20of%20appropriation%20for%20expenses.md)
 - [&sect; 00266a - Transferred](%C2%A7%2000266a%20-%20Transferred.md)
@@ -1079,6 +1154,7 @@ Ensuring Debt Transparency With Respect to the Belt and Road Initiative.—Withi
 - [&sect; 00276c&#8211;2 - Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as&#8230;](%C2%A7%2000276c%E2%80%932%20-%20Employee%20benefits%20for%20United%20States%20citizen-representatives%20to%20international%20financial%20institutions%3B%20Treasury%20Department%20as%E2%80%A6.md)
 - [&sect; 00276c&#8211;3 - Repealed. Pub. L. 101&#8211;240, title V, &sect;541(d)(7), Dec. 19, 1989, 103 Stat. 2518](%C2%A7%2000276c%E2%80%933%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93240%2C%20title%20V%2C%20%C2%A7541%28d%29%287%29%2C%20Dec.%2019%2C%201989%2C%20103%20Stat.%202518.md)
 - [&sect; 00276c&#8211;4 - Employment of United States citizens by certain international organizations](%C2%A7%2000276c%E2%80%934%20-%20Employment%20of%20United%20States%20citizens%20by%20certain%20international%20organizations.md)
+- [&sect; 00276c&#8211;5 - Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations](%C2%A7%2000276c%E2%80%935%20-%20Authorization%20for%20United%20States%20participation%20in%20the%20Coalition%20for%20Epidemic%20Preparedness%20Innovations.md)
 - [Subchapter 001 (I) - Canada-United States Interparliamentary Group](Subchapter%20001%20%28I%29%20-%20Canada-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002 (II) - Mexico-United States Interparliamentary Group](Subchapter%20002%20%28II%29%20-%20Mexico-United%20States%20Interparliamentary%20Group/README.md)
 - [Subchapter 002&#8211;A (II&#8211;A) - British-American Interparliamentary Group](Subchapter%20002%E2%80%93A%20%28II%E2%80%93A%29%20-%20British-American%20Interparliamentary%20Group/README.md)

@@ -4,6 +4,8 @@ If any provision of this chapter or the application thereof to any person or cir
 
 (June 10, 1930, ch. 436, §17, 46 Stat. 538.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 567 of this title.

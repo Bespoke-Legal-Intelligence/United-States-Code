@@ -136,6 +136,8 @@ Communication With the FAA.—Neither the Administrator nor an ODA holder may pr
 
 (Added Pub. L. 115–254, div. B, title II, §212(a), Oct. 5, 2018, 132 Stat. 3247; amended Pub. L. 116–260, div. V, title I, §§107(b)(1), (c), 125(b), Dec. 27, 2020, 134 Stat. 2324, 2325, 2347.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the FAA Reauthorization Act of 2018 and the date of enactment of this section, referred to in subsecs. (a)(3) and (b)(1), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
@@ -148,7 +150,7 @@ The date of enactment of the FAA Reauthorization Act of 2018 and the date of ena
 
 "(D) for each function that is limited under subparagraph (B), work with the ODA holder to develop the ODA holder's capability to execute that function safely and effectively and return to full authority status."
 
-Subsec. (a)(3). Pub. L. 116–260, §107(c)(1)(B), substituted "shall conduct regular oversight activities by inspecting the ODA holder's delegated functions and taking action based on validated inspection findings." for "shall—" and subpars. (A) to (D) which read as follows:
+Subsec. (a)(3). Pub. L. 116–260, §107(c)(1)(B), substituted "shall conduct regular oversight activities by inspecting the ODA holder's delegated functions andtaking action based on validated inspection findings." for "shall—" and subpars. (A) to (D) which read as follows:
 
 "(A) at the request of the ODA holder and in an expeditious manner, approve revisions to the ODA holder's procedures manual;
 
@@ -167,6 +169,8 @@ Subsec. (b)(3)(F). Pub. L. 116–260, §125(b), added subpar. (F). Former subpar
 Pub. L. 116–260, §107(c)(2)(C), (D), inserted ", when appropriate," before "approve" and then redesignated subpar. (F) as (E).
 
 Subsecs. (d), (e). Pub. L. 116–260, §107(b)(1), added subsecs. (d) and (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Expert Review of Organization Designation Authorizations for Transport Airplanes
 
@@ -188,7 +192,7 @@ Contents of review.—With respect to each holder of an organization designation
 
 &emsp;&emsp;"(B) The effectiveness of measures instituted by the holder to instill, among employees and contractors of such holder that support organization designation authorization functions, a commitment to safety above all other priorities.
 
-&emsp;&emsp;"(C) The holder's capability, based on the holder's organizational structures, requirements applicableto officers and employees of such holder, and safety culture, of making reasonable and appropriate decisions regarding functions delegated to the holder pursuant to the organization designation authorization.
+&emsp;&emsp;"(C) The holder's capability, based on the holder's organizational structures, requirements applicable to officers and employees of such holder, and safety culture, of making reasonable and appropriate decisions regarding functions delegated to the holder pursuant to the organization designation authorization.
 
 &emsp;&emsp;"(D) Any other matter determined by the Administrator for which inclusion in the review would be consistent with the public interest in aviation safety.
 
@@ -348,7 +352,7 @@ Organization Designation Authorization Process Improvements.—Not later than 1 
 
 &emsp;"(1) whether the Administrator has concluded that such holder is able to safely and reliably perform all delegated functions in accordance with all applicable provisions of chapter 447 of title 49, United States Code, title 14, Code of Federal Regulations, and other orders or requirements of the Administrator, and, if not, the Administrator shall outline—
 
-&emsp;&emsp;"(A) the risk mitigations or other corrective actions, including the implementation timelines of such mitigations or actions, the Administrator has established for or required of such holder as prerequisites for a conclusion by the Administrator under this paragraph; or
+&emsp;&emsp;"(A) the risk mitigations or other corrective actions, including the implementation timelines ofsuch mitigations or actions, the Administrator has established for or required of such holder as prerequisites for a conclusion by the Administrator under this paragraph; or
 
 &emsp;&emsp;"(B) the status of any ongoing investigatory actions;
 
@@ -402,7 +406,7 @@ Survey.—The Panel shall conduct a survey of ODA holders and ODA program applic
 
 "(c)
 
-Best Practices Review.—In addition to conducting the survey required under subsection (b), the Panel shall conduct a review of a sampling of ODA holders to identify and develop best practices. At a minimum, the best practices shall address preventing and deterring instances of undue pressure on or by an ODA unit member, within an ODA, or by an ODA holder, or failures to maintain independence between theFAA and an ODA holder or an ODA unit member. In carrying out such review, the Panel shall—
+Best Practices Review.—In addition to conducting the survey required under subsection (b), the Panel shall conduct a review of a sampling of ODA holders to identify and develop best practices. At a minimum, the best practices shall address preventing and deterring instances of undue pressure on or by an ODA unit member, within an ODA, or by an ODA holder, or failures to maintain independence between the FAA and an ODA holder or an ODA unit member. In carrying out such review, the Panel shall—
 
 &emsp;"(1) examine other government regulated industries to gather lessons learned, procedures, or processes that address undue pressure of employees, perceived regulatory coziness, or other failures to maintain independence;
 

@@ -36,9 +36,11 @@ A disbursing officer may not be held liable for any amount paid by the officer i
 
 #### (e) Cross-program recovery of overpayments
 
-For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title.
+For provisions relating to the cross-program recovery of overpayments made under programsadministered by the Commissioner of Social Security, see section 1320b–17 of this title.
 
 (Aug. 14, 1935, ch. 531, title VIII, §808, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1850; amended Pub. L. 108–203, title II, §210(b)(2), Mar. 2, 2004, 118 Stat. 517.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -55,6 +57,8 @@ Subsec. (b) to (d). Pub. L. 108–203, §210(b)(2)(B), redesignated subsecs. (c)
 &emsp;"(2) if such individual is otherwise so qualified, become qualified for increased benefits under this subchapter."
 
 Subsec. (e). Pub. L. 108–203, §210(b)(2)(B), (C), added subsec. (e) and redesignated former subsec. (e) as (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

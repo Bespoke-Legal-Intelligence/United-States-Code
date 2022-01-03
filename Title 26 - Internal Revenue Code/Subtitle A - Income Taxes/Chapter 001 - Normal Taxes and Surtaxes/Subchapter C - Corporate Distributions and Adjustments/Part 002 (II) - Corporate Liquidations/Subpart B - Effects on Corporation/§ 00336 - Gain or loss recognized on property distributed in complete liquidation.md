@@ -74,6 +74,8 @@ Under regulations prescribed by the Secretary, if—
 
 (Added Pub. L. 99–514, title VI, §631(a), Oct. 22, 1986, 100 Stat. 2269; amended Pub. L. 100–647, title I, §§1006(e)(1)–(3), (21)(A), 1018(d)(5)(D), Nov. 10, 1988, 102 Stat. 3400, 3403, 3580.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 336, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Apr. 2, 1980, Pub. L. 96–223, title IV, §403(b)(1), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, §2(b)(1), (c)(1), 94 Stat. 2253, 2254; Sept. 3, 1982, Pub. L. 97–248, title II, §222(b), (e)(1)(D), 224(c)(4), 96 Stat. 478, 480, 489, related to distributions of property in liquidation, prior to repeal by Pub. L. 99–514, §631(a).
@@ -89,6 +91,8 @@ Subsec. (d)(2)(B)(ii). Pub. L. 100–647, §1006(e)(1), amended cl. (ii) general
 Subsec. (d)(3). Pub. L. 100–647, §1006(e)(2), inserted at end "The preceding sentence shall apply to any distribution to the 80-percent distributee only if subsection (a) or (b)(1) of section 337 applies to such distribution."
 
 Subsec. (e). Pub. L. 100–647, §1006(e)(3), substituted "an election may be made" for "such corporation may elect" in concluding provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -254,7 +258,7 @@ Family members.—Stock owned (or treated as owned) by members of the same famil
 
 &emsp;&emsp;&emsp;"(iii)
 
-Treatment of certain trusts.—Stock owned (or treated as owned) by the estate of anydecedent or by any trust referred to in subparagraph (B)(iii) with respect to such decedent shall be treated as owned by 1 person and shall be treated as owned by such 1 person for the period during which it was owned (or treated as owned) by such estate or any such trust or by the decedent.
+Treatment of certain trusts.—Stock owned (or treated as owned) by the estate of any decedent or by any trust referred to in subparagraph (B)(iii) with respect to such decedent shall be treated as owned by 1 person and shall be treated as owned by such 1 person for the period during which it was owned (or treated as owned) by such estate or any such trust or by the decedent.
 
 &emsp;&emsp;"(D)
 

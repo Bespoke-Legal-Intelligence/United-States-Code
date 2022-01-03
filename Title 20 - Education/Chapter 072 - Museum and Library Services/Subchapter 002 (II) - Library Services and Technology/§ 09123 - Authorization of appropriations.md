@@ -20,6 +20,8 @@ There are authorized to be appropriated—
 
 (Pub. L. 94–462, title II, §214, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–296; amended Pub. L. 108–81, title II, §203, Sept. 25, 2003, 117 Stat. 997; Pub. L. 111–340, title II, §202, Dec. 22, 2010, 124 Stat. 3599; Pub. L. 115–410, §9, Dec. 31, 2018, 132 Stat. 5416.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–410 substituted "each of the fiscal years 2020 through 2025" for "fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 through 2016" in pars. (1) and (2).
@@ -43,6 +45,8 @@ Transfer.—The Secretary of Education shall—
 &emsp;"(B) not exercise any authority concerning the administration of this chapter other than the transfer described in subparagraph (A)."
 
 Subsec. (c). Pub. L. 108–81, §203(2), substituted "3.5 percent" for "3 percent".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

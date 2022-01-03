@@ -2,7 +2,7 @@
 
 (a)
 
-Long Range Plans and Policy Requirements.—The Administrator of the Federal Aviation Administration shall make long range plans and policy for the orderly developmentand use of the navigable airspace, and the orderly development and location of air navigation facilities, that will best meet the needs of, and serve the interests of, civil aeronautics and the national defense, except for needs of the armed forces that are peculiar to air warfare and primarily of military concern.
+Long Range Plans and Policy Requirements.—The Administrator of the Federal Aviation Administration shall make long range plans and policy for the orderly development and use of the navigable airspace, and the orderly development and location of air navigation facilities, that will best meet the needs of, and serve the interests of, civil aeronautics and the national defense, except for needs of the armed forces that are peculiar to air warfare and primarily of military concern.
 
 (b)
 
@@ -108,6 +108,8 @@ In subsection (d)(2)(B), before clause (i), the words "an appropriation" are sub
 
 In subsection (d)(3), the words "beginning with the date of transmission of the first aviation research plan as required by paragraph (1)" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 40119 of this title, referred to in subsec. (c)(2)(B)(i), (3), was repealed by Pub. L. 115–254, div. K, title I, §1991(c)(3), Oct. 5, 2018, 132 Stat. 3627.
@@ -129,6 +131,8 @@ Subsec. (c)(2)(A). Pub. L. 104–264, §1105(1), substituted "5-year period" for
 Subsec. (c)(2)(B). Pub. L. 104–264, §1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
 
 Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted ", including a description of the dissemination to the private sector of research results and a description of any new technologies developed" after "during the prior fiscal year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -190,7 +194,7 @@ Public notice and comment.—The Administrator shall publish the report in the F
 
 "(b)
 
-Report to Congress Containing Recommendations of Administrator.—Not later than 60 days afterthe last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
+Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
 
 &emsp;"(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
 
@@ -258,7 +262,7 @@ Exclusion.—The terms do not include a reduction in personnel resulting from wo
 
 #### Program Authorizations
 
-Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: "From the other accounts described in the national aviation research plan required under section 44501(c) of title 49, United States Code, the following research and development activities are authorized:
+Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: "From the other accounts describedin the national aviation research plan required under section 44501(c) of title 49, United States Code, the following research and development activities are authorized:
 
 &emsp;"(1) Runway Incursion Reduction.
 

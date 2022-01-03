@@ -10,13 +10,15 @@ The board is authorized to accept for the Smithsonian Institution and to hold an
 
 #### (c) Appointment and compensation of officers and employees
 
-The board shall appoint and fix the compensation and duties of a director, an assistant director, a secretary, and a chief curator of the National Gallery of Art, and of such other officers and employees of the National Gallery of Art as may be necessary for the efficient administration of the functions of the board. Such director, assistant director, secretary, and chief curator shall be compensated from trust funds available to the board for the purpose, and their appointment and salaries shall not be subject to the civil-service laws or chapter 51 and subchapter III of chapter 53 of title 5. The director, assistant director, secretary, and chief curator shall be well qualified by experience and training to perform the duties of their office and the original appointment to each such office shall be subject to the approval of the donor.
+The board shall appoint and fix the compensation and duties of a director, an assistant director, a secretary, and a chief curator of the National Gallery of Art, and of such other officers and employees of the National Gallery of Art as may be necessary for the efficient administration of the functions of the board. Such director,assistant director, secretary, and chief curator shall be compensated from trust funds available to the board for the purpose, and their appointment and salaries shall not be subject to the civil-service laws or chapter 51 and subchapter III of chapter 53 of title 5. The director, assistant director, secretary, and chief curator shall be well qualified by experience and training to perform the duties of their office and the original appointment to each such office shall be subject to the approval of the donor.
 
 #### (d) Review of actions of board
 
 The actions of the board, including any payment made or directed to be made by it from any trust funds, shall not be subject to review by any officer or agency other than a court of law.
 
 (Mar. 24, 1937, ch. 50, §4, 50 Stat. 52; Apr. 13, 1939, ch. 61, 53 Stat. 577; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -27,6 +29,8 @@ In subsec. (c), "chapter 51 and subchapter III of chapter 53 of title 5" substit
 <b>1949</b>—Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 <b>1939</b>—Subsec. (a). Act Apr. 13, 1939, inserted in last sentence "and to provide, prior to the completion of the National Gallery of Art, for the protection and care of the works of art in said Gallery and for administrative and operating expenses and equipment preparatory to the opening of the Gallery to the public".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repeals
 

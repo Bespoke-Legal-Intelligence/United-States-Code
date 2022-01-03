@@ -18,7 +18,7 @@ Any vessel or vehicle which, at any authorized place, is directed to come to a s
 
 #### (e) Seizure of vessel or merchandise
 
-If upon the examination of any vessel or vehicle it shall appear that a breach of the laws ofthe United States is being or has been committed so as to render such vessel or vehicle, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel or vehicle, liable to forfeiture or to secure any fine or penalty, the same shall be seized and any person who has engaged in such breach shall be arrested.
+If upon the examination of any vessel or vehicle it shall appear that a breach of the laws of the United States is being or has been committed so as to render such vessel or vehicle, or the merchandise, or any part thereof, on board of, or brought into the United States by, such vessel or vehicle, liable to forfeiture or to secure any fine or penalty, the same shall be seized and any person who has engaged in such breach shall be arrested.
 
 #### (f) Duty of customs officers to seize vessel
 
@@ -26,13 +26,15 @@ It shall be the duty of the several officers of the customs to seize and secure 
 
 #### (g) Vessels deemed employed within United States
 
-Any vessel, within or without the customs waters, from which any merchandise is being, or has been, unlawfully introduced into the United States by means of any boat belonging to, or owned, controlled, or managed in common with, said vessel, shall be deemed to be employed within the United States and, as such, subject to the provisions of this section.
+Any vessel, within or without the customs waters, from which any merchandise is being, orhas been, unlawfully introduced into the United States by means of any boat belonging to, or owned, controlled, or managed in common with, said vessel, shall be deemed to be employed within the United States and, as such, subject to the provisions of this section.
 
 #### (h) Application of section to treaties of United States
 
 The provisions of this section shall not be construed to authorize or require any officer of the United States to enforce any law of the United States upon the high seas upon a foreign vessel in contravention of any treaty with a foreign government enabling or permitting the authorities of the United States to board, examine, search, seize, or otherwise to enforce upon said vessel upon the high seas the laws of the United States except as such authorities are or may otherwise be enabled or permitted under special arrangement with such foreign government.
 
 (June 17, 1930, ch. 497, title IV, §581, 46 Stat. 747; Aug. 5, 1935, ch. 438, title II, §203, 49 Stat. 521; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Sept. 1, 1954, ch. 1213, title V, §504, 68 Stat. 1141.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Prior provisions dealing with the subject matter of this section were contained 
 <b>1954</b>—Subsec. (d). Act Sept. 1, 1954, provided a penalty against the owner, operator or person in charge, as well as the master, of a vessel failing to come to a required stop and struck out provisions relating to the duty of the customs officers to pursue such vessels.
 
 <b>1935</b>—Act Aug. 5, 1935, amended section generally among which changes it subdivided the section into subsecs. (a) to (h), inclusive.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

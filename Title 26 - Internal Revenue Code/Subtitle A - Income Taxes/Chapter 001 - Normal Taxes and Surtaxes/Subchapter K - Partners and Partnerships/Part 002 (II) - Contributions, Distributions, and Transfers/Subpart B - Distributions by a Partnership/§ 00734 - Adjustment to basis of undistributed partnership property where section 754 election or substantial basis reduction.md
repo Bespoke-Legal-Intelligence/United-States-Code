@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided insection 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
+The basis of partnership property shall not be adjusted as the result of a distribution of property to a partner unless the election, provided in section 754 (relating to optional adjustment to basis of partnership property), is in effect with respect to such partnership or unless there is a substantial basis reduction with respect to such distribution.
 
 #### (b) Method of adjustment
 
@@ -42,6 +42,8 @@ For purposes of this section, a securitization partnership (as defined in sectio
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 247; Pub. L. 98–369, div. A, title I, §78(a), July 18, 1984, 98 Stat. 597; Pub. L. 108–357, title VIII, §833(c)(1)–(5)(A), Oct. 22, 2004, 118 Stat. 1591, 1592; Pub. L. 109–135, title IV, §403(bb), Dec. 21, 2005, 119 Stat. 2630.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–135, §403(bb)(1), inserted "with respect to such distribution" before period at end.
@@ -58,7 +60,9 @@ Subsec. (d). Pub. L. 108–357, §833(c)(3), added subsec. (d).
 
 Subsec. (e). Pub. L. 108–357, §833(c)(4), added subsec. (e).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted at end "Paragraph (1)(B) shall not apply to any distributed property which is an interest in another partnership with respect to which the election provided in section 754 is not in effect."
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 inserted at end "Paragraph (1)(B) shall not apply to any distributedproperty which is an interest in another partnership with respect to which the election provided in section 754 is not in effect."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

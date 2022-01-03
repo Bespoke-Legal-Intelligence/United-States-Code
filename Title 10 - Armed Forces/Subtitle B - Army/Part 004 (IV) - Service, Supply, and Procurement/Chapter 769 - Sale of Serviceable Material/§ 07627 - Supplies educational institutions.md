@@ -20,9 +20,13 @@ July 17, 1914, ch. 149 (less proviso), 38 Stat. 512.
 
 The words "procured for" are substituted for the words "as are furnished to". The words "stores \* \* \* matériel of war" are omitted as covered by the word "supplies". The words "the price listed to the Army" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4627 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

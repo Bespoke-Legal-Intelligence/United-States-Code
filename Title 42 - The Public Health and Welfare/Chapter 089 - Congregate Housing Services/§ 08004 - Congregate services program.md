@@ -40,6 +40,8 @@ The Secretary shall establish standards for the provision of services under this
 
 (Pub. L. 95–557, title IV, §405, Oct. 31, 1978, 92 Stat. 2106; Pub. L. 96–399, title II, §208, Oct. 8, 1980, 94 Stat. 1634; Pub. L. 98–479, title II, §201(j), Oct. 17, 1984, 98 Stat. 2228.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Older Americans Act of 1965, referred to in subsecs. (c) and (d), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
@@ -50,5 +52,5 @@ The Older Americans Act of 1965, referred to in subsecs. (c) and (d), is Pub. L.
 
 <b>1980</b>—Subsecs. (c), (d). Pub. L. 96–399, §208(a), (b), inserted reference to congregate services to elderly residents.
 
-Subsec. (e). Pub. L. 96–399, §208(c), in par. (1) substituted "A public housing agency or nonprofit corporation applying for assistance to provide congregate services to nonelderly handicapped residents shall consult with the appropriate agency" for "When nonelderly handicapped individuals are included among theeligible project residents, the public housing agency and nonprofit corporation shall consult with the appropriate local agency", and in par. (2) substituted "appropriate agency" for "appropriate local agency".
+Subsec. (e). Pub. L. 96–399, §208(c), in par. (1) substituted "A public housing agency or nonprofit corporation applying for assistance to provide congregate services to nonelderly handicapped residents shall consult with the appropriate agency" for "When nonelderly handicapped individuals are included among the eligible project residents, the public housing agency and nonprofit corporation shall consult with the appropriate local agency", and in par. (2) substituted "appropriate agency" for "appropriate local agency".
 

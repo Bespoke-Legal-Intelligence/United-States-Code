@@ -58,7 +58,7 @@ In this subchapter and subchapter II:
 
 &emsp;The term "extra long staple cotton" means cotton that—
 
-&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid of the species, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed forvarious end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United States designated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
 
 &emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
 
@@ -80,7 +80,7 @@ In this subchapter and subchapter II:
 
 #### (14) Payment acres
 
-&emsp;The term "payment acres", with respect to the provision of price loss coverage paymentsand agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
+&emsp;The term "payment acres", with respect to the provision of price loss coverage payments and agriculture risk coverage payments, means the number of acres determined for a farm under section 9014 of this title.
 
 #### (15) Payment yield
 
@@ -190,6 +190,8 @@ In this subchapter and subchapter II:
 
 (Pub. L. 113–79, title I, §1111, Feb. 7, 2014, 128 Stat. 659; Pub. L. 115–123, div. F, §60101(a)(1)–(3), Feb. 9, 2018, 132 Stat. 308; Pub. L. 115–334, title I, §1101, Dec. 20, 2018, 132 Stat. 4500.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This subchapter, referred to in text, was in the original "this subtitle", meaning subtitle A (§§1101–1109) of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
@@ -211,6 +213,8 @@ Pars. (20) to (25). Pub. L. 115–334, §1101(1), redesignated pars. (19) to (24
 Pub. L. 115–123, §60101(a)(3), added par. (20) and redesignated former pars. (20) to (24) as (21) to (25), respectively.
 
 Par. (26). Pub. L. 115–334, §1101(1), redesignated par. (25) as (26).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -16,7 +16,7 @@ The Secretary of State is authorized to—
 
 &emsp;(B) are a matter of urgency to implement;
 
-&emsp;(C) with respect to activities the expenditures for which are required to be certifiedunder subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
+&emsp;(C) with respect to activities the expenditures for which are required to be certified under subsection (a), require confidentiality in the best interests of the conduct of foreign policy by the United States; and
 
 &emsp;(D) are not otherwise prohibited by law.
 
@@ -72,7 +72,7 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(9) assess charges, in addition to the interest provided for in paragraph (8), to cover the costs of processing and handling delinquent claims, as of May 1, 1983;
 
-&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and (9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
+&emsp;(10) assess a penalty charge, in addition to the interest provided for in paragraphs (8) and\(9), of 6 per centum per year for failure to pay any portion of a debt more than ninety days past due; and
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
@@ -98,7 +98,7 @@ Section was formerly classified to section 170i of Title 5 prior to the general 
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–236 struck out "and the Foreign Service" after "Department of State" and substituted "a periodic" for "an annual confidential".
 
-<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) aspars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
+<b>1983</b>—Pub. L. 98–164 designated existing provisions as subsec. (a), redesignated former pars. (a) and (b) as pars. (1) and (2), respectively, in par. (1) inserted reference to subsec. (b), and added subsecs. (b) to (d).
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

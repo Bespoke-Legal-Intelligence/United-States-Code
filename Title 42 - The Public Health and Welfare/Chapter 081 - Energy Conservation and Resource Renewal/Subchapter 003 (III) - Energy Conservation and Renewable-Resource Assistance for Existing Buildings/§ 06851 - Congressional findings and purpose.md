@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) a shortage of reliable and impartial information and advisory services pertaining to practicable energy conservation measures and renewable-resource energy measures and the cost savings that are likely if they are implemented in such units, buildings, and plants; and
 
-&emsp;&emsp;(C) the absence of organized programs which, if they existed, would enable consumers, especially individuals and owners ofsmall businesses, to undertake such measures easily and with confidence in their economic value;
+&emsp;&emsp;(C) the absence of organized programs which, if they existed, would enable consumers, especially individuals and owners of small businesses, to undertake such measures easily and with confidence in their economic value;
 
 &emsp;(3) major programs of financial incentives and assistance for energy conservation measures and renewable-resource energy measures in dwelling units, nonresidential buildings, and industrial plants would—
 
@@ -34,13 +34,17 @@
 
 (Pub. L. 94–385, title IV, §402, Aug. 14, 1976, 90 Stat. 1150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Energy Policy and Conservation Act, referred to in subsec. (a)(5), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part C of title III of the Energy Policy and Conservation Act is classified generally to part B (§6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Section 2809(a)(12) of this title, referred to in subsec. (a)(6), which was redesignated as section 2809(a)(5) by Pub. L. 95–568, §5(a)(2)(E), Nov. 2, 1978, 92 Stat. 2426, was subsequently repealed by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519.
 
-This subchapter, referred to in subsec. (b), was in the original "this title," meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This subchapter, referred to in subsec. (b), was in the original "this title," meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a noteunder section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

@@ -4,6 +4,8 @@ The Secretary of Agriculture is authorized to make such expenditures for rent, o
 
 (Aug. 9, 1939, ch. 615, title IV, §416, 53 Stat. 1289.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 See section 1610 of this title.

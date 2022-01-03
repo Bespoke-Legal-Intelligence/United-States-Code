@@ -46,6 +46,64 @@ Form and contents.—An application under subparagraph (A) shall be in such form
 
 &emsp;&emsp;&emsp;(iii) the short- and long-term funding requirements to complete the project and any future objectives of the project.
 
+&emsp;(4)
+
+Accelerated implementation and deployment of advanced digital construction management systems.—
+
+&emsp;&emsp;(A)
+
+In general.—The Secretary shall establish and implement a program under this subsection to promote, implement, deploy, demonstrate, showcase, support, and document the application of advanced digital construction management systems, practices, performance, and benefits.
+
+&emsp;&emsp;(B)
+
+Goals.—The goals of the accelerated implementation and deployment of advanced digital construction management systems program established under subparagraph (A) shall include—
+
+&emsp;&emsp;&emsp;(i) accelerated adoption of advanced digital systems applied throughout the lifecycle of transportation infrastructure (including through the planning, design and engineering, construction, operations, and maintenance phases) that—
+
+&emsp;&emsp;&emsp;&emsp;(I) maximize interoperability with other systems, products, tools, or applications;
+
+&emsp;&emsp;&emsp;&emsp;(II) boost productivity;
+
+&emsp;&emsp;&emsp;&emsp;(III) manage complexity;
+
+&emsp;&emsp;&emsp;&emsp;(IV) reduce project delays and cost overruns;
+
+&emsp;&emsp;&emsp;&emsp;(V) enhance safety and quality; and
+
+&emsp;&emsp;&emsp;&emsp;(VI) reduce total costs for the entire lifecycle of transportation infrastructure assets;
+
+&emsp;&emsp;&emsp;(ii) more timely and productive information-sharing among stakeholders through reduced reliance on paper to manage construction processes and deliverables such as blueprints, design drawings, procurement and supply-chain orders, equipment logs, daily progress reports, and punch lists;
+
+&emsp;&emsp;&emsp;(iii) deployment of digital management systems that enable and leverage the use of digital technologies on construction sites by contractors, such as state-of-the-art automated and connected machinery and optimized routing software that allows construction workers to perform tasks faster, safer, more accurately, and with minimal supervision;
+
+&emsp;&emsp;&emsp;(iv) the development and deployment of best practices for use in digital construction management;
+
+&emsp;&emsp;&emsp;(v) increased technology adoption and deployment by States, local governmental authorities, and designated recipients that enables project sponsors—
+
+&emsp;&emsp;&emsp;&emsp;(I) to integrate the adoption of digital management systems and technologies in contracts; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to weigh the cost of digitization and technology in setting project budgets;
+
+&emsp;&emsp;&emsp;(vi) technology training and workforce development to build the capabilities of project managers and sponsors that enables States, local governmental authorities, or designated recipients—
+
+&emsp;&emsp;&emsp;&emsp;(I) to better manage projects using advanced construction management technologies; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to properly measure and reward technology adoption across projects;
+
+&emsp;&emsp;&emsp;(vii) development of guidance to assist States, local governmental authorities, and designated recipients in updating regulations to allow project sponsors and contractors—
+
+&emsp;&emsp;&emsp;&emsp;(I) to report data relating to the project in digital formats; and
+
+&emsp;&emsp;&emsp;&emsp;(II) to fully capture the efficiencies and benefits of advanced digital construction management systems and related technologies;
+
+&emsp;&emsp;&emsp;(viii) reduction in the environmental footprint of construction projects using advanced digital construction management systems resulting from elimination of congestion through more efficient projects; and
+
+&emsp;&emsp;&emsp;(ix) enhanced worker and pedestrian safety resulting from increased transparency.
+
+&emsp;&emsp;(C)
+
+Publication.—The reporting requirements for the accelerated implementation and deployment of advanced digital construction management systems program established under section 503(c)(5) of title 23 shall include data and analysis collected under this section.
+
 (c)
 
 Research.—
@@ -158,7 +216,7 @@ Evaluation.—Not later than 2 years after the date on which a project receives 
 
 &emsp;(5)
 
-Prohibition.—The Secretary may not make grants under this subsection for thedemonstration, deployment, or evaluation of a vehicle that is in revenue service unless the Secretary determines that the project makes significant technological advancements in the vehicle.
+Prohibition.—The Secretary may not make grants under this subsection for the demonstration, deployment, or evaluation of a vehicle that is in revenue service unless the Secretary determines that the project makes significant technological advancements in the vehicle.
 
 &emsp;(6)
 
@@ -174,21 +232,35 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(C) the term "zero emission vehicle" means a low or no emission vehicle that produces no carbon or particulate matter.
 
-(g) <sup>1</sup>
+(f)
 
-Annual Report on Research.—Not later than the first Monday in February of each year, the Secretary shall make available to the public on the Web site of the Department of Transportation, a report that includes—
+Annual Report on Research.—
 
-&emsp;(1) a description of each project that received assistance under this section during the preceding fiscal year; and
+&emsp;(1)
 
-&emsp;(2) an evaluation of each project described in paragraph (1), including any evaluation conducted under subsection (e)(4) for the preceding fiscal year.
+In general.—Not later than the first Monday in February of each year, the Secretary shall make available to the public on the Web site of the Department of Transportation, a report that includes—
 
-(g) <sup>1</sup>
+&emsp;&emsp;(A) a description of each project that received assistance under this section during the preceding fiscal year;
+
+&emsp;&emsp;(B) an evaluation of each project described in paragraph (1), including any evaluation conducted under subsection (e)(4) for the preceding fiscal year; and
+
+&emsp;&emsp;(C) a strategic research roadmap proposal for allocations of amounts for assistance under this section for the current and subsequent fiscal year, including anticipated work areas, proposed demonstrations and strategic partnership opportunities;
+
+&emsp;(2)
+
+Updates.—Not less than every 3 months, the Secretary shall update on the Web site of the Department of Transportation the information described in paragraph (1)(C) to reflect any changes to the Secretary's plans to make assistance available under this section.
+
+&emsp;(3)
+
+Long-term research plans.—The Secretary is encouraged to develop long-term research plans and shall identify in the annual report under paragraph (1) and in updates under paragraph (2) allocations of amounts for assistance and notices of funding opportunities to execute long-term strategic research roadmap plans.
+
+(g)
 
 Government Share of Costs.—
 
 &emsp;(1)
 
-In general.—The Government share of the cost of a project carried out under this section shall not exceed 80 percent.
+In general.—The Government share of the cost of a project carried out under this section shall not exceed 80 percent, except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share.
 
 &emsp;(2)
 
@@ -210,7 +282,7 @@ Definitions.—In this subsection—
 
 &emsp;&emsp;(B) the terms "direct carbon emissions" and "low or no emission vehicle" have the meanings given those terms in subsection (e)(6);
 
-&emsp;&emsp;(C) the term "institution of higher education" has the meaning given the term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
+&emsp;&emsp;(C) the term "institution of higher education" has the meaning given the term insection 102 of the Higher Education Act of 1965 (20 U.S.C. 1002); and
 
 &emsp;&emsp;(D) the term "low or no emission vehicle component" means an item that is separately installed in and removable from a low or no emission vehicle.
 
@@ -220,15 +292,19 @@ Assessing low or no emission vehicle components.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall competitively select at least one facility to conduct testing, evaluation, and analysis of low or no emission vehicle components intended for use in low or no emission vehicles.
+In general.—The Secretary shall competitively select at least 1 facility—
+
+&emsp;&emsp;&emsp;(i) to conduct testing, evaluation, and analysis of low or no emission vehicle components intended for use in low or no emission vehicles; and
+
+&emsp;&emsp;&emsp;(ii) to conduct directed technology research.
 
 &emsp;&emsp;(B)
 
-Operation and maintenance.—
+Testing, evaluation, and analysis.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, at least one institution of higher education to operate and maintain a facility selected under subparagraph (A).
+In general.—The Secretary shall enter into a contract or cooperative agreement with, or make a grant to, at least 1 institution of higher education to operate and maintain a facility to conduct testing, evaluation, and analysis of low or no emission vehicle components, and new and emerging technology components, intended for use in low or no emission vehicles.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -264,9 +340,21 @@ Compliance with section 5318.—Notwithstanding whether a low or no emission veh
 
 Separate facility.—A facility selected under subparagraph (A) shall be separate and distinct from the facility operated and maintained under section 5318.
 
+&emsp;&emsp;(H)
+
+Capital equipment and directed research.—A facility operated and maintained under subparagraph (A) may use funds made available under this subsection for—
+
+&emsp;&emsp;&emsp;(i) acquisition of equipment and capital projects related to testing low or no emission vehicle components; or
+
+&emsp;&emsp;&emsp;(ii) research related to advanced vehicle technologies that provides advancements to the entire public transportation industry.
+
+&emsp;&emsp;(I)
+
+Cost share.—The cost share for activities described in subparagraph (H) shall be subject to the terms in subsection (g).
+
 &emsp;(3)
 
-Low or no emission vehicle component performance reports.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components.
+Low or no emission vehicle component performance reports.—Not later than 2 years after the date of enactment of the Federal Public Transportation Act of 2015, and annually thereafter, the Secretary shall issue a report on low or no emission vehicle component assessments conducted at each facility selected under paragraph (2)(A), which shall include information related to the maintainability, reliability, performance, structural integrity, efficiency, and noise of those low or no emission vehicle components, as applicable.
 
 &emsp;(4)
 
@@ -306,13 +394,13 @@ Federal assistance.—The Secretary may make grants to, and enter into cooperati
 
 &emsp;(4)
 
-Government share of costs.—If there would be a clear and direct financial benefit to an entity under a grant or contract financed under this subsection, the Secretary shall establish a Government share consistent with that benefit.
+Government share of costs.—If there would be a clear and direct financial benefit to an entity under a grant or contract financedunder this subsection, the Secretary shall establish a Government share consistent with that benefit.
 
 &emsp;(5)
 
-Limitation on applicability.—Subsections (f) <sup>2</sup> and (g) shall not apply to activities carried out under this subsection.
+Limitation on applicability.—Subsections (f) and (g) shall not apply to activities carried out under this subsection.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, 119 Stat. 1545, 1596, 1597; Pub. L. 110–244, title II, §201(f), June 6, 2008, 122 Stat. 1610; Pub. L. 112–141, div. B, §20011, July 6, 2012, 126 Stat. 686; Pub. L. 114–94, div. A, title III, §3008(a), (b), Dec. 4, 2015, 129 Stat. 1465, 1468.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 811; Pub. L. 105–178, title III, §3015(a), June 9, 1998, 112 Stat. 359; Pub. L. 109–59, title III, §§3002(b)(4), 3014(a)–(e)(1), Aug. 10, 2005, 119 Stat. 1545, 1596, 1597; Pub. L. 110–244, title II, §201(f), June 6, 2008, 122 Stat. 1610; Pub. L. 112–141, div. B, §20011, July 6, 2012, 126 Stat. 686; Pub. L. 114–94, div. A, title III, §3008(a), (b), Dec. 4, 2015, 129 Stat. 1465, 1468; Pub. L. 117–58, div. C, §30007(a), (c), Nov. 15, 2021, 135 Stat. 900, 902.)
 
 Historical and Revision Notes
 
@@ -378,11 +466,27 @@ In subsection (c)(1), the words "and agencies thereof" are omitted as surplus.
 
 In subsection (c)(3), before clause (A), the words "public or private training" and "the sum of" are omitted as surplus. In clause (B), the words "in connection with the fellowship" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Federal Public Transportation Act of 2015, referred to in subsec. (h)(3), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(4). Pub. L. 117–58, §30007(c), added par. (4).
+
+Subsecs. (f), (g). Pub. L. 117–58, §30007(a)(1), added subsec. (f) and struck out subsec. (g) relating to annual reports on research.
+
+Subsec. (g)(1). Pub. L. 117–58, §30007(a)(2), substituted ", except that if there is substantial public interest or benefit, the Secretary may approve a greater Federal share." for period at end.
+
+Subsec. (h)(2)(A). Pub. L. 117–58, §30007(a)(3)(A)(i), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: "The Secretary shall competitively select at least one facility to conduct testing, evaluation, and analysis of low or no emission vehicle components intended for use in low or no emission vehicles."
+
+Subsec. (h)(2)(B). Pub. L. 117–58, §30007(a)(3)(A)(ii), added subpar. (B) and struck out former subpar. (B), which related to operation and maintenance of facilities to conduct testing, evaluation, and analysis of low or no emission vehicle components.
+
+Subsec. (h)(2)(H), (I). Pub. L. 117–58, §30007(a)(3)(A)(iii), added subpars. (H) and (I).
+
+Subsec. (h)(3). Pub. L. 117–58, §30007(a)(3)(B), inserted ", as applicable" before period at end.
 
 <b>2015</b>—Pub. L. 114–94, §3008(a)(1), substituted "Public transportation innovation" for "Research, development, demonstration, and deployment projects" in section catchline.
 
@@ -412,7 +516,7 @@ Subsec. (f). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relatin
 
 Pub. L. 114–94, §3008(a)(2), redesignated subsec. (e) relating to annual report on research as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not later than the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
+Subsec. (g). Pub. L. 114–94, §3008(a)(6)(A), redesignated subsec. (f) relating to annual report on research as (g), inserted heading and introductory provisions, and struck out former heading and introductory provisions. Prior to amendment, text read as follows: "Not laterthan the first Monday in February of each year, the Secretary shall submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure, the Committee on Science, Space, and Technology, and the Committee on Appropriations of the House of Representatives a report that includes—".
 
 Pub. L. 114–94, §3008(a)(2), redesignated subsec. (f) relating to government share of costs as (g).
 
@@ -454,6 +558,8 @@ Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted "public transportati
 
 <b>1998</b>—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -462,7 +568,15 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-<i><sup>1</sup></i><i> So in original. There are two subsecs. designated (g). The first subsec. (g) probably should be designated (f).</i>
+#### Low or No Emission Vehicle Component Assessment
 
-<i><sup>2</sup></i><i> So in original. There is no subsec. designated subsec. (f).</i>
+Pub. L. 117–58, div. C, §30007(b), Nov. 15, 2021, 135 Stat. 902, provided that:
+
+"(1)
+
+In general.—Institutions of higher education selected to operate and maintain a facility to conduct testing, evaluation, and analysis of low or no emission vehicle components pursuant to section 5312(h) of title 49, United States Code, shall not carry out testing for a new bus model under section 5318 of that title.
+
+"(2)
+
+Use of funds.—Funds made available to institutions of higher education described in paragraph (1) for testing under section 5318 of title 49, United States Code, may be used for eligible activities under section 5312(h) of that title."
 

@@ -24,6 +24,8 @@ The Secretary may amend any order issued under this section. The provisions of t
 
 (Pub. L. 104–127, title V, §554, Apr. 4, 1996, 110 Stat. 1065; Pub. L. 105–185, title VI, §603(a), June 23, 1998, 112 Stat. 585.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–185 inserted ", except that an amendment to an order shall not require a referendum to become effective" before period at end.

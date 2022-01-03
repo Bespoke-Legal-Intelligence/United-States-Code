@@ -22,7 +22,7 @@ In cl. (f), "section 6101 of title 41" substituted for "section 3709 of the Revi
 
 In cl. (k), "section 501 of title 44" substituted for "section 11 of the Act of March 1, 1919 (44 U.S.C. 111)" on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, which Act enacted Title 44, Public Printing and Documents.
 
-In cl. (k), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In cl. (k), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4,2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -42,7 +42,7 @@ Annual appropriations to meet the obligations of membership in various internati
 
 Pub. L. 97–241, title I, §109, Aug. 24, 1982, 96 Stat. 276, provided that:
 
-"(a) None of the funds authorized to be appropriated by paragraph (2) of section 102 of this Act \[section 102(2) of Pub. L. 97–241, which was not classified to the Code\] or by any other Act for 'International Organizations and Conferences' may be used for payment by the United States of its contribution toward the assessed budget of the United Nations Educational, Scientific and Cultural Organization if that organization implements any policy or procedure the effect of which is tolicense journalists or their publications, to censor or otherwise restrict the free flow of information within or among countries, or to impose mandatory codes of journalistic practice or ethics.
+"(a) None of the funds authorized to be appropriated by paragraph (2) of section 102 of this Act \[section 102(2) of Pub. L. 97–241, which was not classified to the Code\] or by any other Act for 'International Organizations and Conferences' may be used for payment by the United States of its contribution toward the assessed budget of the United Nations Educational, Scientific and Cultural Organization if that organization implements any policy or procedure the effect of which is to license journalists or their publications, to censor or otherwise restrict the free flow of information within or among countries, or to impose mandatory codes of journalistic practice or ethics.
 
 "(b) Not later then February 1 of each year, the Secretary of State shall report to the Congress with respect to whether the United Nations Educational, Scientific and Cultural Organization has taken any action described in subsection (a) of this section."
 

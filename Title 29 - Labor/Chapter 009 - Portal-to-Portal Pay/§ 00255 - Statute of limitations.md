@@ -4,7 +4,7 @@ Any action commenced on or after May 14, 1947, to enforce any cause of action fo
 
 &emsp;(a) if the cause of action accrues on or after May 14, 1947—may be commenced within two years after the cause of action accrued, and every such action shall be forever barred unless commenced within two years after the cause of action accrued, except that a cause of action arising out of a willful violation may be commenced within three years after the cause of action accrued;
 
-&emsp;(b) if the cause of action accrued prior to May 14, 1947—may be commenced within whichever of the following periods is theshorter: (1) two years after the cause of action accrued, or (2) the period prescribed by the applicable State statute of limitations; and, except as provided in paragraph (c), every such action shall be forever barred unless commenced within the shorter of such two periods;
+&emsp;(b) if the cause of action accrued prior to May 14, 1947—may be commenced within whichever of the following periods is the shorter: (1) two years after the cause of action accrued, or (2) the period prescribed by the applicable State statute of limitations; and, except as provided in paragraph (c), every such action shall be forever barred unless commenced within the shorter of such two periods;
 
 &emsp;(c) if the cause of action accrued prior to May 14, 1947, the action shall not be barred by paragraph (b) if it is commenced within one hundred and twenty days after May 14, 1947 unless at the time commenced it is barred by an applicable State statute of limitations;
 
@@ -20,7 +20,7 @@ The Fair Labor Standards Act of 1938, as amended, referred to in text, is act Ju
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in text, are defined for purposes of this chapter in section 262 of this title.
 
-The effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (d), means May 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
+The effective date of the Fair Labor Standards Amendments of 1974, referred to in subsec. (d), meansMay 1, 1974, except as otherwise specifically provided, under provisions of section 29(a) of Pub. L. 93–259, set out as an Effective Date of 1974 Amendment note under section 202 of this title.
 
 #### Amendments
 

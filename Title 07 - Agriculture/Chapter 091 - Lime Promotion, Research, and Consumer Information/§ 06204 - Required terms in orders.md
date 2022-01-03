@@ -46,7 +46,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (G) Board allocation
 
-&emsp;&emsp;The producer and importer representation on the Board shall be allocated on the basisof 2 producer members and 1 importer member from the district east of the Mississippi River and 1 producer member and 2 importer members from the district west of the Mississippi River.
+&emsp;&emsp;The producer and importer representation on the Board shall be allocated on the basis of 2 producer members and 1 importer member from the district east of the Mississippi River and 1 producer member and 2 importer members from the district west of the Mississippi River.
 
 #### (3) Alternates
 
@@ -58,7 +58,7 @@ Such order shall provide for the establishment of a Lime Board as follows:
 
 #### (4) Terms
 
-&emsp;The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to the Board shall be for a term of 3 years, except that—
+&emsp;The initial members of the Board appointed under the amended order shall serve a term of 30 months. Subsequent appointments to theBoard shall be for a term of 3 years, except that—
 
 &emsp;&emsp;(A) 2 members shall be appointed for a term of 1 year;
 
@@ -223,6 +223,8 @@ Such order shall provide that funds collected by the Board under this chapter th
 Nothing in this chapter shall be construed to authorize the withholding of information from Congress.
 
 (Pub. L. 101–624, title XIX, §1955, Nov. 28, 1990, 104 Stat. 3872; Pub. L. 102–237, title VIII, §805(1), Dec. 13, 1991, 105 Stat. 1882; Pub. L. 103–194, §4, Dec. 14, 1993, 107 Stat. 2295.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

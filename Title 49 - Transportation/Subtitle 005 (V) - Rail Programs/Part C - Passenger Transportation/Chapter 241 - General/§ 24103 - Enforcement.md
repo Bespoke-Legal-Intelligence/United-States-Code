@@ -66,6 +66,8 @@ In subsection (b), the words "in any court" are omitted as surplus.
 
 Subsection (c) is substituted for 45:547(a) (1st sentence words between 13th–15th commas) for consistency in the revised title and with other titles of the United States Code. The text of 45:547(b) is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(1). Pub. L. 115–420 inserted "or chapter 229" after "this part" wherever appearing.

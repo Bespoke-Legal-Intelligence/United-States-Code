@@ -32,6 +32,8 @@ A judge of the Tax Court removed from office in accordance with subsection (f) s
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 879; Mar. 2, 1955, ch. 9, §1(h), 69 Stat. 10; Pub. L. 88–426, title IV, §403(i), Aug. 14, 1964, 78 Stat. 434; Pub. L. 91–172, title IX, §§952, 953, Dec. 30, 1969, 83 Stat. 730; Pub. L. 96–417, title VI, §601(10), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–439, §1(a), (b), Oct. 13, 1980, 94 Stat. 1878.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–439, §1(a), increased number of judges from 16 to 19.
@@ -44,15 +46,17 @@ Subsec. (d). Pub. L. 96–417 substituted "Court of International Trade" for "Cu
 
 Subsec. (c). Pub. L. 91–172, §953, substituted provisions fixing salary of Tax Court judges at the same rate and same installments as District Court judges, for provisions that each judge of the Tax Court receive a salary of $30,000 per annum, to be paid in monthly installments.
 
-Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judgewould expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
+Subsec. (e). Pub. L. 91–172, §952(b), substituted provisions that a term in office of any Tax Court judge would expire 15 years after he takes office, for provisions that a term in office of any Tax Court judge would expire 12 years after the expiration of the term for which his predecessor was appointed, and any judge appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed would be appointed only for the unexpired term of his predecessor.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–426 increased salary of judges from $22,500 to $30,000.
 
 <b>1955</b>—Subsec. (c). Act Mar. 2, 1955, increased salary of judges from $15,000 to $22,500.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendments
 
-Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: "The amendments made by this section \[amending this section\] shall take effect on February 1, 1981."
+Pub. L. 96–439, §1(c), Oct. 13, 1980, 94 Stat. 1878, provided that: "The amendments made by this section\[amending this section\] shall take effect on February 1, 1981."
 
 Amendment by Pub. L. 96–417 effective, except as otherwise provided, Nov. 1, 1980, and applicable with respect to civil actions pending on or commenced on or after such date, see section 701(a) of Pub. L. 96–417, as amended, set out as a note under section 251 of Title 28, Judiciary and Judicial Procedure.
 
@@ -189,6 +193,8 @@ Pub. L. 85–37, title III, May 27, 1957, 71 Stat. 41.
 Apr. 2, 1956, ch. 161, title III, 70 Stat. 98.
 
 June 1, 1955, ch. 113, title III, 69 Stat. 78.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12064
 

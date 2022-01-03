@@ -10,7 +10,7 @@
 
 (b) If there is no legal representative or surviving spouse present, the commanding officer shall direct a summary court-martial to collect the effects of the deceased that are then at the air base or in quarters.
 
-(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receipts for those payments, to be filed with the court's final report to the Department of the Air Force.
+(c) The summary court-martial may collect debts due the decedent's estate by local debtors, pay undisputed local creditors of the deceased to the extent permitted by money of the deceased in the court's possession, and shall take receiptsfor those payments, to be filed with the court's final report to the Department of the Air Force.
 
 (d) As soon as practicable after the collection of the effects and money of the deceased, the summary court-martial shall send them at the expense of the United States to the living person highest on the following list who can be found by the court:
 
@@ -86,6 +86,8 @@ In subsection (e), the first 37 words are substituted for 5:150j (33 words after
 
 In subsection (f), the words "Soldiers' Home" are inserted, since, as provided in section 9713 of this title, the Home is now the place where the mentioned articles are sent.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 inserted "or the Space Force" after "the Air Force".
@@ -119,6 +121,8 @@ Subsec. (f). Pub. L. 101–510, §1533(a)(9)(B), struck out "for transmission to
 <b>1980</b>—Subsecs. (a)(2), (f). Pub. L. 96–513 substituted "United States Soldiers' and Airmen's Home" for "Soldiers' Home".
 
 <b>1966</b>—Subsec. (a)(1). Pub. L. 89–718 substituted "military law" for "the court-martial jurisdiction of the Air Force or the Army".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

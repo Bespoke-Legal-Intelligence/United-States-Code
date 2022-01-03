@@ -40,7 +40,7 @@ Pub. L. 102–378, §1(a), Oct. 2, 1992, 106 Stat. 1346, provided that: "This Ac
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: "This Act \[amending sections 1304, 3323, 4108, 4109, 7104, and 7122 of this title\] may be cited as the 'Civil Service Miscellaneous Amendments Act of 1983'."
+Pub. L. 98–224, §1, Mar. 2, 1984, 98 Stat. 47, provided that: "This Act \[amending sections 1304, 3323, 4108, 4109,7104, and 7122 of this title\] may be cited as the 'Civil Service Miscellaneous Amendments Act of 1983'."
 
 #### Short Title of 1978 Amendment
 
@@ -176,7 +176,7 @@ Pub. L. 102–393, title V, §532, Oct. 6, 1992, 106 Stat. 1763, provided that: 
 
 #### Report on Productivity of Federal Workforce; Deadline
 
-Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federalworkforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
+Pub. L. 101–509, title V, §535, Nov. 5, 1990, 104 Stat. 1470, directed Office of Personnel Management to review and report to Congress, not later than 24 months after Nov. 5, 1990, on the productivity of the Federal workforce, such report to include recommendations with regard to (1) how productivity within the Federal workforce can be increased, the delivery of Government services improved, and the payroll costs of Government controlled through improved organization, training, advanced technology, and modern management practices, (2) the size, structure, and composition of the Federal workforce, (3) criteria for use by departments and agencies to determine the level of personnel necessary to accomplish their functions and goals, and (4) changes in Federal law, regulations, and administrative practices to promote economy, productivity, effectiveness, and managerial accountability within the Federal workforce.
 
 #### Funds for Preparation, Promulgation, or Implementation of Regulations Relating to Combined Federal Campaign; Eligibility Criteria
 
@@ -190,7 +190,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 "(C) Notwithstanding any requirement referred to in subparagraph (A) or (B), for purposes of any Combined Federal Campaign—
 
-&emsp;"(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in a case brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
+&emsp;"(i) any voluntary agency or federated group which was a named plaintiff as of September 1, 1987, in acase brought in the United States District Court for the District of Columbia, and designated as Civil Action No. 83–0928 or 86–1367, and
 
 &emsp;"(ii) The Federal Employee Education and Assistance Fund,
 
@@ -248,7 +248,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 &emsp;"(iii) 7 percent shall be allocated to the National Voluntary Health Agencies.
 
-&emsp;"(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, beallocated by the local Federal coordinating committee among any or all of the following:
+&emsp;"(iv) 4 percent shall, after fair and careful consideration of all eligible federated groups and agencies, be allocated by the local Federal coordinating committee among any or all of the following:
 
 &emsp;&emsp;"(I) National federated groups (other than any identified in clauses (i), (ii), or (iii)), except that a national federated group shall not be eligible under this subclause unless there are at least 15 members of such group participating in the local campaign, unless the members of such group collectively receive at least 4 percent of the designated contributions in the local campaign, and unless such group was granted national eligibility status for the 1987, 1988, 1989, or 1990 Combined Federal Campaign.
 
@@ -272,7 +272,7 @@ Pub. L. 100–202, §101(m) \[title VI, §618\], Dec. 22, 1987, 101 Stat. 1329�
 
 "(8) The name of any individual making a designated contribution in a campaign shall, upon request of the recipient voluntary agency or federated group, be released to such agency or group, unless the contributor indicates that his or her name is not to be released. Under no circumstance may the names of contributors be sold or otherwise released by such agency or group.
 
-"(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combined Federal campaign organization code numbers corresponding to each such agency and group.
+"(9)(A) The name of each participating voluntary agency and federated group, together with a brief description of their respective programs, shall be published in any information leaflet distributed to employees in a local combined Federal campaign. Agencies shall be arranged by federated group, with combinedFederal campaign organization code numbers corresponding to each such agency and group.
 
 "(B) The requirement under subparagraph (A) relating to the inclusion of program descriptions may, at the discretion of a local Federal coordinating committee, be waived for a local campaign in any year if, in the immediately preceding campaign year, contributions received through the local campaign totalled less than $100,000.
 
@@ -404,7 +404,7 @@ Federal Register.
 
 #### Sec. 203. Savings Provision
 
-The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right of a Federal employee to judicial review under applicable law.
+The Board shall accept appeals from agency actions effected prior to the effective date of this Plan. On the effective date of Part II of this Plan, proceedings then before the Federal Employee Appeals Authority shall continue before the Board; proceedings then before the Appeals Review Board and proceedings then before the United States Civil Service Commission on appeal from decisions of the Appeals Review Board shall continue before the Board; other employee appeals before boards or other bodies pursuant to law or regulation shall continue to be processed pursuant to those laws or regulations. Nothing in this section shall affect the right ofa Federal employee to judicial review under applicable law.
 
 #### Sec. 204. The Special Counsel
 
@@ -476,7 +476,7 @@ All matters which relate to the functions transferred by Section 304 of this Pla
 
 #### Sec. 401. Incidental Transfer
 
-So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records, and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation wasoriginally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of any agencies abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 402. Interim Officers
 
@@ -540,7 +540,7 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12107. Implementation of Reform of Personnel Management System
 
-Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R. 18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
+Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, as amended by Ex. Ord. No. 12126, Mar. 29, 1979, 44 F.R.18923; Ex. Ord. No. 12128, Apr. 4, 1979, 44 F.R. 20625, provided:
 
 By virtue of the authority vested in me as President by the Constitution and statutes of the United States of America, and by Section 403 of Reorganization Plan No. 2 of 1978 (43 FR 36037) \[set out above\], it is hereby ordered as follows:
 
@@ -812,7 +812,7 @@ Section 1.
 
 (a) The Director of the Office of Personnel Management shall make arrangements for voluntary health and welfare organizations to solicit contributions from Federal employees and members of the uniformed services at their places of employment or duty. Federal employees and members of the uniformed services can also be solicited to make pledges of volunteer time. These arrangements shall take the form of an annual Combined Federal Campaign in which eligible voluntary health and welfare organizations are authorized to take part.
 
-(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitation of such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
+(b) The Director shall consider permitting annuitants to make contributions to the Combined Federal Campaign through allotments or assignments of amounts from their Federal annuities. The Director may prescribe rules and regulations to govern the solicitationof such contributions and make arrangements to inform annuitants of their ability to make contributions in this manner.
 
 Sec. 2. (a) The Director shall establish criteria for determining the eligibility of voluntary health and welfare organizations that may participate in each of the annual Combined Federal Campaigns.
 

@@ -12,6 +12,8 @@ For purposes of this chapter—
 
 (Pub. L. 96–468, §3, Oct. 17, 1980, 94 Stat. 2229; Pub. L. 96–592, title V, §511, Dec. 24, 1980, 94 Stat. 3451.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Par. (4). Pub. L. 96–592 added par. (4).

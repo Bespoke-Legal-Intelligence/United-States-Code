@@ -12,6 +12,8 @@
 | [834\.](%C2%A7%2000834%20-%20Art.%2034.%20Advice%20to%20convening%20authority%20before%20referral%20for%20trial.md) | 34\. | Advice to convening authority before referral for trial. |
 | [835\.](%C2%A7%2000835%20-%20Art.%2035.%20Service%20of%20charges%3B%20commencement%20of%20trial.md) | 35\. | Service of charges; commencement of trial. |
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92, div. A, title V, §531(b)(2), Dec. 20, 2019, 133 Stat. 1359, substituted "Proceedings conducted before referral" for "Certain proceedings conducted before referral" in item 830a.

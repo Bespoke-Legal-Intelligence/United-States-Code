@@ -14,7 +14,7 @@ The program shall include the following:
 
 &emsp;(1) An increased level of effort for advanced computational capabilities to enhance the simulation and modeling capabilities of the United States with respect to the performance over time of nuclear weapons.
 
-&emsp;(2) An increased level of effort for above-ground experimental programs, such as hydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
+&emsp;(2) An increased level of effort for above-ground experimental programs, such ashydrotesting, high-energy lasers, inertial confinement fusion, plasma physics, and materials research.
 
 &emsp;(3) Support for new facilities construction projects that contribute to the experimental capabilities of the United States, such as an advanced hydrodynamics facility, the National Ignition Facility, and other facilities for above-ground experiments to assess nuclear weapons effects.
 
@@ -35,6 +35,8 @@ The program shall include the following:
 &emsp;&emsp;(B) production and manufacturing capabilities resident in the national security laboratories.
 
 (Pub. L. 107–314, div. D, title XLII, §4201, formerly Pub. L. 103–160, div. C, title XXXI, §3138, Nov. 30, 1993, 107 Stat. 1946; Pub. L. 105–85, div. C, title XXXI, §3152(e), Nov. 18, 1997, 111 Stat. 2042; renumbered Pub. L. 107–314, div. D, title XLII, §4201, by Pub. L. 108–136, div. C, title XXXI, §3141(e)(2), Nov. 24, 2003, 117 Stat. 1758; Pub. L. 111–84, div. C, title XXXI, §3111, Oct. 28, 2009, 123 Stat. 2702; Pub. L. 112–239, div. C, title XXXI, §3131(b), (bb)(1)(C), Jan. 2, 2013, 126 Stat. 2180, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(c)(1), Dec. 26, 2013, 127 Stat. 1073.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -69,6 +71,40 @@ Subsec. (b)(4), (5). Pub. L. 111–84, §3111(b)(2), added pars. (4) and (5).
 Subsec. (c). Pub. L. 111–84, §3111(c), struck out subsec. (c). Text read as follows: "Of funds authorized to be appropriated to the Secretary of Energy for fiscal year 1994 for weapons activities, $157,400,000 shall be available for the stewardship program established under subsection (a)."
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–85, which directed amendment of this section by striking out subsecs. (d) and (e), redesignating subsecs. (f) to (h) as (d) to (f), respectively, and striking out "and the 60-day period referred to in subsection (e)(2)(A)(ii)" in subsec. (e), as so redesignated, was executed by striking out subsec. (d) which directed President to report to Congress, because this section did not contain subsecs. (e) to (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Portfolio Management Framework for National Nuclear Security Administration
+
+Pub. L. 117–81, div. C, title XXXI, §3121, Dec. 27, 2021, 135 Stat. 2228, provided that:
+
+"(a)
+
+In General.—Not later than one year after the date of the enactment of this Act \[Dec. 27, 2021\], the Administrator for Nuclear Security shall—
+
+&emsp;"(1) in consultation with the Nuclear Weapons Council established under section 179 of title 10, United States Code, develop and implement a portfolio management framework for the nuclear security enterprise that—
+
+&emsp;&emsp;"(A) defines the National Nuclear Security Administration's portfolio of nuclear weapons stockpile and infrastructure maintenance and modernization programs;
+
+&emsp;&emsp;"(B) establishes a portfolio governance structure, including portfolio-level selection criteria, prioritization criteria, and performance metrics;
+
+&emsp;&emsp;"(C) outlines the approach of the National Nuclear Security Administration to managing that portfolio; and
+
+&emsp;&emsp;"(D) incorporates the leading practices identified by the Comptroller General of the United States in the report titled 'Nuclear Security Enterprise: NNSA Should Use Portfolio Management Leading Practices to Support Modernization Efforts' (GAO–21–398) and dated June 2021; and
+
+&emsp;"(2) complete an integrated, comprehensive assessment of the portfolio management capabilities required to execute the weapons activities portfolio of the National Nuclear Security Administration.
+
+"(b)
+
+Briefing Requirement.—Not later than June 1, 2022, the Administrator shall provide to the congressional defense committees a briefing on—
+
+&emsp;"(1) the progress of the Administrator in developing the framework described in paragraph (1) of subsection (a) and completing the assessment required by paragraph (2) of that subsection; and
+
+&emsp;"(2) the plans of the Administrator for implementing the recommendations of the Comptroller General in the report referred to in paragraph (1)(D) of that subsection.
+
+"(c)
+
+Nuclear Security Enterprise Defined.—In this section, the term 'nuclear security enterprise' has themeaning given that term in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501)."
 
 #### Nuclear Warhead Design Competition
 

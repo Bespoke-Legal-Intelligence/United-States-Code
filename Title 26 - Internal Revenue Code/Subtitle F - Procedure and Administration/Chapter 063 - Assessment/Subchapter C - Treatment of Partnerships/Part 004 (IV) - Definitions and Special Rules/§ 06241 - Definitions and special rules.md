@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (A) Suspension of period of limitations on making adjustment, assessment, or collection
 
-&emsp;&emsp;The running of any period of limitations provided in this subchapter on making a partnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
+&emsp;&emsp;The running of any period of limitations provided in this subchapter on making apartnership adjustment (or provided by section 6501 or 6502 on the assessment or collection of any imputed underpayment determined under this subchapter) shall, in a case under title 11 of the United States Code, be suspended during the period during which the Secretary is prohibited by reason of such case from making the adjustment (or assessment or collection) and—
 
 &emsp;&emsp;&emsp;(i) for adjustment or assessment, 60 days thereafter, and
 
@@ -60,7 +60,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;This subchapter shall not apply with respect to any tax imposed (including any amount required to be deducted or withheld)under chapter 2, 2A, 3, or 4, except that any partnership adjustment determined under this subchapter for purposes of chapter 1 shall be taken into account for purposes of determining any such tax to the extent that such adjustment is relevant to such determination.
+&emsp;&emsp;This subchapter shall not apply with respect to any tax imposed (including any amount required to be deducted or withheld) under chapter 2, 2A, 3, or 4, except that any partnership adjustment determined under this subchapter for purposes of chapter 1 shall be taken into account for purposes of determining any such tax to the extent that such adjustment is relevant to such determination.
 
 #### (B) Timing of withholding
 
@@ -112,13 +112,15 @@ For purposes of this subchapter—
 
 #### (B) Passive foreign investment companies
 
-&emsp;&emsp;For purposes of subparagraph (A), in the case of a passive foreign investment company (as defined in section 1297), each taxpayer that makes an election under section 1295 with respect to such company shall be treated in the same manner as United States shareholders under subparagraph (A), except that such taxpayer's pro rata share with respect to the passive foreign investment company shall be determined under rules similar to the rules of section 1293(b).
+&emsp;&emsp;For purposes of subparagraph (A), in the case of a passive foreign investment company (as defined in section 1297), each taxpayer that makes an election under section 1295 with respect to such company shall be treated in the same manner as United Statesshareholders under subparagraph (A), except that such taxpayer's pro rata share with respect to the passive foreign investment company shall be determined under rules similar to the rules of section 1293(b).
 
 #### (C) Regulations or other guidance
 
 &emsp;&emsp;The Secretary shall issue such regulations or other guidance as is necessary or appropriate to carry out the purposes of this paragraph, including regulations which apply the rules of subparagraph (A) in similar circumstances or with respect to similarly situated persons.
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 636; amended Pub. L. 115–141, div. U, title II, §§201(a), (b)(1), 206(c), (l), (m), (p)(7), Mar. 23, 2018, 132 Stat. 1171, 1172, 1178, 1180–1182.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -165,6 +167,8 @@ Par. (10). Pub. L. 115–141, §206(c), added par. (10).
 Par. (11). Pub. L. 115–141, §206(l), added par. (11).
 
 Par. (12). Pub. L. 115–141, §206(m), added par. (12).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

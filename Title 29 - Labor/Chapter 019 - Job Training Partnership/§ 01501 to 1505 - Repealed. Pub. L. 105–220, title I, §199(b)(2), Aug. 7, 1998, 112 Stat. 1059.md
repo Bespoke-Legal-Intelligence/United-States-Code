@@ -8,7 +8,7 @@ Section 1503, Pub. L. 97–300, §4, Oct. 13, 1982, 96 Stat. 1325; Pub. L. 98–
 
 Section 1504, Pub. L. 97–300, title VI, §604, formerly title V, §504, Oct. 13, 1982, 96 Stat. 1399; renumbered title VI, §604, Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248, related to enforcement of Military Selective Service Act.
 
-Section 1505, Pub. L. 97–300, title VI, §605, formerly title V, §505, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102 Stat. 1541; renumbered title VI, §505, Pub. L. 100–628, title VII, §712(a)(1), Nov. 7, 1988, 102 Stat. 3248; renumbered §605, Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, related to State job bank systems.
+Section 1505, Pub. L. 97–300, title VI, §605, formerly title V, §505, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102 Stat. 1541; renumbered title VI, §505,Pub. L. 100–628, title VII, §712(a)(1), Nov. 7, 1988, 102 Stat. 3248; renumbered §605, Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, related to State job bank systems.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -14,6 +14,8 @@ For purposes of this section, the term "balance ratio" means, with respect to an
 
 (Aug. 14, 1935, ch. 531, title VII, §709, as added Pub. L. 98–21, title I, §143, Apr. 20, 1983, 97 Stat. 102; amended Pub. L. 99–272, title XII, §12106, Apr. 7, 1986, 100 Stat. 286; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(a)(3), Aug. 15, 1994, 108 Stat. 1481.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a), is classified generally to Title 26, Internal Revenue Code.
@@ -24,7 +26,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the balance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section401(l) or 1395i(j) of this title, as of the beginning of such year, to".
+Subsec. (b)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the balance in such Trust Fund, reduced by the outstanding amount of any loan (including interest thereon) theretofore made to such Trust Fund under section 401(l) or 1395i(j) of this title, as of the beginning of such year, to".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

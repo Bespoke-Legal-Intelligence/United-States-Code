@@ -30,7 +30,7 @@ Implementation.—The Administrator shall, to the maximum extent practicable, en
 
 (c)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Administrator, $10,000,000 for each of fiscal years 2021 through 2023 to carry out this section. Amounts appropriated under the preceding sentence for any fiscal year shall remain available until expended.
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator, $10,000,000 for each of fiscal years 2021 through 2023 to carry out this section. Amountsappropriated under the preceding sentence for any fiscal year shall remain available until expended.
 
 (Added Pub. L. 116–260, div. V, title I, §112(a), Dec. 27, 2020, 134 Stat. 2331.)
 

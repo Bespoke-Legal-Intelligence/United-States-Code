@@ -84,7 +84,7 @@
 
 (5) A bankruptcy petition preparer shall be fined not more than $500 for each failure to comply with a court order to turn over funds within 30 days of service of such order.
 
-(i)(1) If a bankruptcy petition preparer violates this section or commits any act that the court finds to be fraudulent, unfair, or deceptive, on the motion of the debtor, trustee, United States trustee (or the bankruptcy administrator, if any), and after notice and a hearing, the court shall order the bankruptcy petition preparer to pay to the debtor—
+(i)(1) If a bankruptcy petition preparer violates this section or commits any act that the court finds to be fraudulent, unfair, or deceptive, on the motion of the debtor, trustee,United States trustee (or the bankruptcy administrator, if any), and after notice and a hearing, the court shall order the bankruptcy petition preparer to pay to the debtor—
 
 &emsp;(A) the debtor's actual damages;
 
@@ -160,7 +160,7 @@ Subsec. (h)(3)(A)(i). Pub. L. 111–327, §2(a)(7)(B)(ii)(II), inserted "found t
 
 Subsec. (h)(4). Pub. L. 111–327, §2(a)(7)(B)(iii), substituted "paragraph (3)" for "paragraph (2)".
 
-<b>2007</b>—Subsec. (l)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Fines imposed under this subsection in judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis."
+<b>2007</b>—Subsec. (l)(4)(A). Pub. L. 110–161 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Fines imposed under this subsectionin judicial districts served by United States trustees shall be paid to the United States trustee, who shall deposit an amount equal to such fines in a special account of the United States Trustee System Fund referred to in section 586(e)(2) of title 28. Amounts deposited under this subparagraph shall be available to fund the enforcement of this section on a national basis."
 
 <b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §221(1), substituted "for the debtor or an employee of such attorney under the direct supervision of such attorney" for "or an employee of an attorney".
 

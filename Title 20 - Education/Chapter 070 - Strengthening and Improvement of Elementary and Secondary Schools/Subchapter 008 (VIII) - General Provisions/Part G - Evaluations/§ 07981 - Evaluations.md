@@ -2,7 +2,7 @@
 
 #### (a) Reservation of funds
 
-Except as provided in subsection <sup>1</sup> (b) and (e), the Secretary, in consultation with the Director of the Institute of Education Sciences, may reserve not more than 0.5 percent of the amount appropriated for each program authorized under this chapter to carry out activities under thissection. If the Secretary elects to make a reservation under this subsection, the reserved amounts—
+Except as provided in subsection <sup>1</sup> (b) and (e), the Secretary, in consultation with the Director of the Institute of Education Sciences, may reserve not more than 0.5 percent of the amount appropriated for each program authorized under this chapter to carry out activities under this section. If the Secretary elects to make a reservation under this subsection, the reserved amounts—
 
 &emsp;(1) shall first be used by the Secretary, acting through the Director of the Institute of Education Sciences, to—
 
@@ -64,6 +64,8 @@ If, under any other provision of this chapter, funds are authorized to be reserv
 
 (Pub. L. 89–10, title VIII, §8601, formerly title IX, §9601, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1985; renumbered title VIII, §8601, and amended Pub. L. 114–95, title VIII, §§8001(a)(10), 8042, Dec. 10, 2015, 129 Stat. 2088, 2089, 2122.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 7941 of this title.
@@ -71,6 +73,8 @@ Section was formerly classified to section 7941 of this title.
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95, §8042, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to reservation of funds for evaluations, exclusion of subchapters I and III, and evaluation activities authorized elsewhere, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

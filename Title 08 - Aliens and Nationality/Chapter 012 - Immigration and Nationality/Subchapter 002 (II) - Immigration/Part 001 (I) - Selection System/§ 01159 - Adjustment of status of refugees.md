@@ -92,7 +92,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Waiver of Numerical Limitation for Certain Current Asylees; Adjustment of Certain Former Asylees
 
-Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as amended by Pub. L. 104–208, div. C, title VI, §604(b)(2), Sept. 30, 1996, 110 Stat. 3009–694, provided that:
+Pub. L. 101–649, title I, §104(c), (d), Nov. 29, 1990, 104 Stat. 4985, as amended by Pub. L. 104–208, div. C, titleVI, §604(b)(2), Sept. 30, 1996, 110 Stat. 3009–694, provided that:
 
 "(c)
 

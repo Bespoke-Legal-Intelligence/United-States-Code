@@ -16,9 +16,13 @@ Not later than 90 days after January 29, 2020, the President shall establish a F
 
 (Pub. L. 116–113, title VII, §741, Jan. 29, 2020, 134 Stat. 88.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1307 of this title, referred to in subsec. (b)(2), was in the original "section 307 of the Tariff Act", and was translated as reading "section 307 of the Tariff Act of 1930", to reflect the probable intent of Congress.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13923. Establishment of the Forced Labor Enforcement Task Force Under Section 741 of the United States-Mexico-Canada Agreement Implementation Act
 

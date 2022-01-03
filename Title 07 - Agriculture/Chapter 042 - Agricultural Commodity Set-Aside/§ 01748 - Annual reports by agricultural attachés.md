@@ -32,13 +32,15 @@ The Secretary shall—
 
 #### (c) Meeting
 
-The Secretary and the United States Trade Representative shall convene a meeting, at least once each year, of the Agricultural Policy Advisory Committee and the agricultural technicaladvisory committees to develop specific recommendations for actions to be taken by the Federal Government and private industry to—
+The Secretary and the United States Trade Representative shall convene a meeting, at least once each year, of the Agricultural Policy Advisory Committee and the agricultural technical advisory committees to develop specific recommendations for actions to be taken by the Federal Government and private industry to—
 
 &emsp;(1) reduce or eliminate trade barriers or distortions identified in the annual reports required to be submitted under subsections (a) and (b); and
 
 &emsp;(2) expand United States agricultural export opportunities identified in such annual reports.
 
 (Aug. 28, 1954, ch. 1041, title I, §108, as added Pub. L. 101–624, title XV, §1532, Nov. 28, 1990, 104 Stat. 3689; amended Pub. L. 102–237, title III, §§316–318, Dec. 13, 1991, 105 Stat. 1856, 1857; Pub. L. 104–127, title II, §272, Apr. 4, 1996, 110 Stat. 976.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

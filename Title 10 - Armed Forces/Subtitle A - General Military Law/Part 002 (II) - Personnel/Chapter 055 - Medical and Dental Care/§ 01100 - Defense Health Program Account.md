@@ -16,6 +16,8 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 (Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3896; amended Pub. L. 104–106, div. A, title VII, §735(a)–(d)(1), Feb. 10, 1996, 110 Stat. 382.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106, §735(d)(1), amended section catchline generally, substituting "Defense Health Program Account" for "Military Health Care Account".
@@ -45,6 +47,8 @@ Definitions.—In this section:
 &emsp;"(1) The term 'account' means the Military Health Care Account established in subsection (a).
 
 &emsp;"(2) The term 'program' means the Civilian Health and Medical Program of the Uniformed Services."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

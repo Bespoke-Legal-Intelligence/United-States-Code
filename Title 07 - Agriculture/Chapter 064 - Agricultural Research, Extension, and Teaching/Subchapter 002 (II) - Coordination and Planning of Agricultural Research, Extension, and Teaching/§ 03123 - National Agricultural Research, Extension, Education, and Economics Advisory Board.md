@@ -156,6 +156,8 @@ The Advisory Board shall remain in existence until September 30, 2023.
 
 (Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444; Pub. L. 110–234, title VII, §§7102(a), 7511(c)(8), May 22, 2008, 122 Stat. 1214, 1268; Pub. L. 110–246, §4(a), title VII, §§7102(a), 7511(c)(8), June 18, 2008, 122 Stat. 1664, 1975, 2029; Pub. L. 113–79, title VII, §7102, Feb. 7, 2014, 128 Stat. 863; Pub. L. 115–334, title VII, §7103, Dec. 20, 2018, 132 Stat. 4781.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Act of July 2, 1862, referred to in subsec. (b)(3)(C)(i), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
@@ -194,7 +196,7 @@ Subsec. (c)(4). Pub. L. 115–334, §7103(2)(C), inserted "and make recommendati
 
 Subsec. (h). Pub. L. 115–334, §7103(3), substituted "2023" for "2018".
 
-<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §7102(b)(1), substituted "Committee on Appropriations of the Senate on—" for "Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;" and added subpars. (A) and (B).
+<b>2014</b>—Subsec. (c)(1). Pub. L. 113–79, §7102(b)(1), substituted "Committee on Appropriations of the Senate on—" for "Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relatingto agricultural research, extension, education, and economics;" and added subpars. (A) and (B).
 
 Subsec. (c)(4)(B). Pub. L. 113–79, §7102(b)(3)(A), substituted "national research policies and priorities that are consistent with the purposes specified in" for "the national research policies and priorities set forth in".
 
@@ -251,6 +253,8 @@ Subsec. (b). Pub. L. 97–98, §1408(b), in provision preceding par. (1) substit
 Subsec. (f)(2)(E). Pub. L. 97–98, §1408(c)(1), substituted "July 1" for "October 1".
 
 Subsec. (f)(2)(F). Pub. L. 97–98, §1408(c)(2), substituted "February 20 of" for "March 1 of".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

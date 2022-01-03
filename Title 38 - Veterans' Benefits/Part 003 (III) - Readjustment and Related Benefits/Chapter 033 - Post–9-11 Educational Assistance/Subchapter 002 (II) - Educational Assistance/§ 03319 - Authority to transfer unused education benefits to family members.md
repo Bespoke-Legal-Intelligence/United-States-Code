@@ -174,7 +174,7 @@ Overpayment.—
 
 &emsp;(1)
 
-Joint and several liability.—In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, thedependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
+Joint and several liability.—In the event of an overpayment of educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the individual making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of section 3685.
 
 &emsp;(2)
 
@@ -298,7 +298,7 @@ Pub. L. 116–140, §6(b)(2), Apr. 28, 2020, 134 Stat. 633, provided that: "Duri
 
 Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual's chosen program of education before the individual attains the age of 26 years because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.'."
 
-\[The term "covered period" as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to Dec. 21, 2021, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
+\[The term "covered period" as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under section 3031 of this title.\]
 
 <i><sup>1</sup></i><i> See Extension of Time Limitations for Use of Entitlement: Transfer Period note below.</i>
 

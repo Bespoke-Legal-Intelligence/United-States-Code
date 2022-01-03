@@ -1,8 +1,10 @@
 ### §12645b. Generation of volunteers
 
-In making decisions on applications for assistance or approved national service positions under the national service laws, the Corporation shall take into consideration the extent to which the applicant's proposal will increase the involvement of volunteers in meeting community needs. In reviewing the application for this purpose, the Corporation may take into account the mission of the applicant.
+In making decisions on applications for assistance or approved national service positionsunder the national service laws, the Corporation shall take into consideration the extent to which the applicant's proposal will increase the involvement of volunteers in meeting community needs. In reviewing the application for this purpose, the Corporation may take into account the mission of the applicant.
 
 (Pub. L. 101–610, title I, §188, as added Pub. L. 111–13, title I, §1612, Apr. 21, 2009, 123 Stat. 1538.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

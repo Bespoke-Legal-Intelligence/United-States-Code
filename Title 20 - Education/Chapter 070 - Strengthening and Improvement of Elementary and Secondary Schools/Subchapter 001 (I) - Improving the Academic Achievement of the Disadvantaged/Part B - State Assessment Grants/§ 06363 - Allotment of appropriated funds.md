@@ -24,7 +24,7 @@ For any fiscal year for which the amount made available for a fiscal year under 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall first use such funds to award grants, on a competitive basis, toState educational agencies or consortia of State educational agencies that have submitted applications described in subparagraph (B) to enable such States to carry out the activities described in subparagraphs (C), (H), (I), (J), (K), and (L) of section 6361(a)(2) of this title.
+&emsp;&emsp;The Secretary shall first use such funds to award grants, on a competitive basis, to State educational agencies or consortia of State educational agencies that have submitted applications described in subparagraph (B) to enable such States to carry out the activities described in subparagraphs (C), (H), (I), (J), (K), and (L) of section 6361(a)(2) of this title.
 
 #### (B) Applications
 
@@ -48,6 +48,8 @@ In making funds available to States under this part, the Secretary shall comply 
 
 (Pub. L. 89–10, title I, §1203, as added Pub. L. 114–95, title I, §1201, Dec. 10, 2015, 129 Stat. 1884.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1543; amended Pub. L. 110–154, §1(c)(3), Dec. 21, 2007, 121 Stat. 1828; Pub. L. 113–128, title V, §512(i)(1), July 22, 2014, 128 Stat. 1708, related to applications for State formula grants, prior to the general amendment of this part by Pub. L. 114–95.
@@ -55,6 +57,8 @@ A prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 107–1
 Another prior section 6363, Pub. L. 89–10, title I, §1203, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3579; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409; Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(f), (g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–330, related to State Even Start programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1203 of Pub. L. 89–10 was classified to section 2783 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

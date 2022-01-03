@@ -30,6 +30,8 @@
 
 (Added Pub. L. 101–510, div. A, title II, §247(a)(1), Nov. 5, 1990, 104 Stat. 1521; amended Pub. L. 106–65, div. A, title V, §580(d)(1), Oct. 5, 1999, 113 Stat. 633; Pub. L. 108–136, div. A, title II, §233, Nov. 24, 2003, 117 Stat. 1423; Pub. L. 111–383, div. A, title II, §211(a), Jan. 7, 2011, 124 Stat. 4162.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b)(2), (3). Pub. L. 111–383 added par. (2) and redesignated former par. (2) as (3).
@@ -37,6 +39,8 @@
 <b>2003</b>—Subsecs. (b), (c). Pub. L. 108–136 added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1999</b>—Pub. L. 106–65 amended section catchline generally. Prior to amendment, catchline read as follows: "Science, mathematics, and engineering education".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program
 

@@ -18,7 +18,7 @@ The Secretary of the Interior shall study the Knob Creek Farm in Larue County, K
 
 &emsp;(3) Examine the incorporation of the Knob Creek Farm into the operations of the Abraham Lincoln Birthplace National Historical Park and establish a strategic management plan for implementing such incorporation. In developing the plan, the Secretary shall—
 
-&emsp;&emsp;(A) determine infrastructure requirements and property improvements needed at Knob Creek Farm to meet National Park Service standards;
+&emsp;&emsp;(A) determine infrastructure requirements and property improvements needed at KnobCreek Farm to meet National Park Service standards;
 
 &emsp;&emsp;(B) identify current and potential uses of Knob Creek Farm for recreational, interpretive, and educational opportunities; and
 
@@ -29,6 +29,8 @@ The Secretary of the Interior shall study the Knob Creek Farm in Larue County, K
 There are authorized to be appropriated such sums as may be necessary to carry out subsection (c).
 
 (Pub. L. 105–355, title V, §510, Nov. 6, 1998, 112 Stat. 3265; Pub. L. 111–11, title VII, §7114(b), Mar. 30, 2009, 123 Stat. 1202.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

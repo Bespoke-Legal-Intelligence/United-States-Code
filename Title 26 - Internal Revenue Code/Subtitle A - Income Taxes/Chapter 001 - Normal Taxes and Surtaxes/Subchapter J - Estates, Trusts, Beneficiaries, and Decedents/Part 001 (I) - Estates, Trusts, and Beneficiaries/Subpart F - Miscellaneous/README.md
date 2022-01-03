@@ -10,6 +10,8 @@ Subpart F—Miscellaneous
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Pub. L. 115–97, title I, §11051(b)(1)(C), Dec. 22, 2017, 131 Stat. 2089, struck out item 682 "Income of an estate or trust in case of divorce, etc."

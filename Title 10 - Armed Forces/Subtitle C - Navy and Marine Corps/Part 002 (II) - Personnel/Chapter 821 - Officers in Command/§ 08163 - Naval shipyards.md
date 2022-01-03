@@ -20,9 +20,13 @@ R.S. 1542.
 
 The words "Commanders of naval shipyards" are substituted for the words "commandants of the several navy yards" to conform to present terminology. The words "of the Navy" are inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5943 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

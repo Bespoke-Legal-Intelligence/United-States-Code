@@ -62,7 +62,7 @@ The maximum amount of a loan by an eligible entity described in subsection (b) t
 
 #### (g) Return of equity
 
-The Secretary shall establish a schedule that is consistent with the amortization schedules of the portfolio of loans made or guaranteed under subsection (a) for the return of any equity contribution made under this section by an eligible entity described in subsection (b), if the eligible entity is—
+The Secretary shall establish a schedule that is consistent with the amortization schedules of the portfolio of loans made or guaranteed under subsection (a) for the return of any equity contribution made under this section by an eligibleentity described in subsection (b), if the eligible entity is—
 
 &emsp;(1) current on all principal and interest payments; and
 
@@ -77,6 +77,8 @@ The Secretary shall promulgate regulations and establish procedures reducing the
 There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2014 through 2023.
 
 (Pub. L. 87–128, title III, §310H, as added Pub. L. 113–79, title VI, §6017(a), Feb. 7, 2014, 128 Stat. 845; amended Pub. L. 115–334, title VI, §6416, Dec. 20, 2018, 132 Stat. 4762.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -38,7 +38,7 @@ Under regulations prescribed by the Secretary, no tax shall be imposed under sec
 
 #### (j) Exemption for nonprofit educational organizations
 
-Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 onany amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
+Under regulations prescribed by the Secretary, no tax shall be imposed under section 4251 on any amount paid by a nonprofit educational organization for services or facilities furnished to such organization. For purposes of this subsection, the term "nonprofit educational organization" means an educational organization described in section 170(b)(1)(A)(ii) which is exempt from income tax under section 501(a). The term also includes a school operated as an activity of an organization described in section 501(c)(3) which is exempt from income tax under section 501(a), if such school normally maintains a regular faculty and curriculum and normally has a regularly enrolled body of pupils or students in attendance at the place where its educational activities are regularly carried on.
 
 #### (k) Exemption for qualified blood collector organizations
 
@@ -61,6 +61,8 @@ Under regulations provided by the Secretary, no tax shall be imposed under secti
 > &emsp;If any information provided in such statement is no longer accurate, the person providing such statement shall inform the provider of communications services within 30 days of any change of information.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 504; Pub. L. 85–859, title I, §133(a), Sept. 2, 1958, 72 Stat. 1290; Pub. L. 86–344, §4(a), Sept. 21, 1959, 73 Stat. 619; Pub. L. 87–508, §4(b), June 28, 1962, 76 Stat. 115; Pub. L. 89–44, title III, §302, June 21, 1965, 79 Stat. 146; Pub. L. 89–368, title II, §202(b), Mar. 15, 1966, 80 Stat. 66; Pub. L. 91–172, title I, §101(j)(27), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §§1904(a)(6), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1811, 1834; Pub. L. 101–508, title XI, §11217(c)(1), Nov. 5, 1990, 104 Stat. 1388–438; Pub. L. 109–280, title XII, §1207(c), Aug. 17, 2006, 120 Stat. 1070.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -120,6 +122,8 @@ Subsec. (f). Pub. L. 85–859 substituted "any wire mileage service or wire and 
 
 Subsecs. (g) to (i). Pub. L. 85–859 added subsecs. (g) to (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 effective Jan. 1, 2007, see section 1207(g)(1) of Pub. L. 109–280, set out as a note under section 4041 of this title.
@@ -134,7 +138,7 @@ In general.—The amendment made by paragraph (1) \[amending this section\] shal
 
 "(B)
 
-Duration of existing certificates.—Any annual certificate of exemption effective on the date of the enactment of this Act \[Nov. 5, 1990\] shall remain effective until the end of the annual period."
+Duration of existing certificates.—Any annual certificate of exemption effective on the date ofthe enactment of this Act \[Nov. 5, 1990\] shall remain effective until the end of the annual period."
 
 #### Effective Date of 1976 Amendment
 

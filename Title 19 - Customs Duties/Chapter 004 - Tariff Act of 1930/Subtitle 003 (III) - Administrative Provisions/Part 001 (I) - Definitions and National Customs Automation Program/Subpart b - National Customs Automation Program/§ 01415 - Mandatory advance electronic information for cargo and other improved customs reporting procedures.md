@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
 
-&emsp;&emsp;(E) The regulations shall take into account the extent to which the technologynecessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
+&emsp;&emsp;(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
 
 &emsp;&emsp;(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security, preventing smuggling, and commercial risk assessment targeting, and shall not be used for any commercial enforcement purposes, including for determining merchandise entry. Notwithstanding the preceding sentence, nothing in this section shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
 
@@ -108,7 +108,7 @@
 
 #### (4) Transmission of data
 
-&emsp;Pursuant to paragraph (2), not later than 1 year after August 10, 2005, the Secretary of Homeland Security, after consultation with the Secretary of the Treasury, shall establish an electronic data interchange system through which the United States Customs and Border Protection shall transmit to the Internal Revenue Service information pertaining to cargoes of any taxable fuel (as defined in section 4083 of title 26) that the United States Customs and Border Protection has obtained electronically under its regulations adopted in accordance with paragraph (1). For this purpose, not later than 1 year after August 10, 2005, all filers of required cargo information for such taxable fuels (as so defined) must provide such information to the United States Customs and Border Protection through such electronic data interchange system.
+&emsp;Pursuant to paragraph (2), not later than 1 year after August 10, 2005, the Secretary of Homeland Security, after consultation withthe Secretary of the Treasury, shall establish an electronic data interchange system through which the United States Customs and Border Protection shall transmit to the Internal Revenue Service information pertaining to cargoes of any taxable fuel (as defined in section 4083 of title 26) that the United States Customs and Border Protection has obtained electronically under its regulations adopted in accordance with paragraph (1). For this purpose, not later than 1 year after August 10, 2005, all filers of required cargo information for such taxable fuels (as so defined) must provide such information to the United States Customs and Border Protection through such electronic data interchange system.
 
 #### (5) Capacity building
 
@@ -137,6 +137,8 @@
 For purposes of this section, the term "Secretary" means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.
 
 (Pub. L. 107–210, div. A, title III, §343, Aug. 6, 2002, 116 Stat. 981; Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976; Pub. L. 114–125, title I, §111(c), Feb. 24, 2016, 130 Stat. 140; Pub. L. 115–271, title VIII, §8003(a)(1), (b)(1), (e), Oct. 24, 2018, 132 Stat. 4074, 4076, 4079; Pub. L. 116–260, div. N, title VIII, §802, Dec. 27, 2020, 134 Stat. 2119.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -184,13 +186,15 @@ Subsec. (a)(3)(L)(ii). Pub. L. 107–295, §108(b)(3)(A), substituted "cargo saf
 
 Subsec. (a)(3)(L)(v). Pub. L. 107–295, §108(b)(3)(D)(ii)–(iv), added cl. (v).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made bythis section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."
+Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."
 
 #### International Postal Agreements
 

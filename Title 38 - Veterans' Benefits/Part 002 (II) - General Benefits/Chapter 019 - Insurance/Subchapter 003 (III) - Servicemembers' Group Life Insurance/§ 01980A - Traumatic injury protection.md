@@ -82,7 +82,7 @@
 
 (g)(1) Payment for a loss resulting from traumatic injury may not be made under the insurance coverage under this section if the member dies before the end of a period prescribed by the Secretary, by regulation, for such purpose that begins on the date on which the member sustains the injury.
 
-(2) If a member eligible for a payment under this section dies before payment to the membercan be made, the payment shall be made to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.
+(2) If a member eligible for a payment under this section dies before payment to the member can be made, the payment shall be made to the beneficiary or beneficiaries to whom the payment would be made if the payment were life insurance under section 1967(a) of this title.
 
 (h) Coverage for loss resulting from traumatic injury provided under this section shall cease at midnight on the date of the termination of the member's duty status in the uniformed services that established eligibility for Servicemembers' Group Life Insurance. The termination of coverage under this section is effective in accordance with the preceding sentence, notwithstanding any continuation after the date specified in that sentence of Servicemembers' Group Life Insurance coverage pursuant to section 1968(a) of this title for a period specified in that section.
 
@@ -92,7 +92,7 @@
 
 (k)
 
-Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insured against traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
+Designation of Fiduciary or Trustee.—(1) The Secretary concerned, in consultation with the Secretary, shall develop a process for the designation of a fiduciary or trustee of a member of the uniformed services who is insuredagainst traumatic injury under this section. The fiduciary or trustee so designated would receive a payment for a qualifying loss under this section if the member is medically incapacitated (as determined pursuant to regulations prescribed by the Secretary concerned in consultation with the Secretary) or experiencing an extended loss of consciousness.
 
 (2) The process under paragraph (1) may require each member of the uniformed services who is insured under this section to—
 
@@ -140,7 +140,7 @@ Subsec. (c). Pub. L. 109–233, §501(a)(3), amended subsec. (c) generally. Prio
 
 &emsp;"(3) the member suffers the loss before the end of the period prescribed by the Secretary, in collaboration with the Secretary of Defense, which begins on the date on which the member sustains the traumatic injury, except, if the loss is quadriplegia, paraplegia, or hemiplegia, the member suffers the loss not later than 365 days after sustaining the traumatic injury."
 
-Subsec. (d). Pub. L. 109–233, §501(a)(4), substituted "qualifying losses shall be made in accordance with aschedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000." for "losses described in subsection (b)(1) shall be—
+Subsec. (d). Pub. L. 109–233, §501(a)(4), substituted "qualifying losses shall be made in accordance with a schedule prescribed by the Secretary, by regulation, specifying the amount of payment to be made for each type of qualifying loss, to be based on the severity of the qualifying loss. The minimum payment that may be prescribed for a qualifying loss is $25,000, and the maximum payment that may be prescribed for a qualifying loss is $100,000." for "losses described in subsection (b)(1) shall be—
 
 &emsp;"(1) made in accordance with a schedule prescribed by the Secretary, in collaboration with the Secretary of Defense;
 

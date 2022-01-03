@@ -6,7 +6,7 @@
 
 (C) Each such non-Federal entity that expends awards under only one Federal program and is not subject to laws, regulations, or Federal award agreements that require a financial statement audit of the non-Federal entity, may elect to have a program-specific audit conducted in accordance with applicable provisions of this section and guidance issued by the Director under section 7505.
 
-(2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than $300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
+(2)(A) Each non-Federal entity that expends a total amount of Federal awards of less than$300,000 or such other amount specified by the Director under subsection (a)(3) in any fiscal year of such entity, shall be exempt for such fiscal year from compliance with—
 
 &emsp;(i) the audit requirements of this chapter; and
 
@@ -66,7 +66,7 @@
 
 (2) When reporting on any single audit, the auditor shall include a summary of the auditor's results regarding the non-Federal entity's financial statements, internal controls, and compliance with laws and regulations.
 
-(h) The non-Federal entity shall transmit the reporting package, in an electronic form in accordance with the data standards established under chapter 64 and which shall include the non-Federal entity's financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor's reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
+(h) The non-Federal entity shall transmit the reporting package, in an electronic form in accordance with the data standards established under chapter 64 and which shall include thenon-Federal entity's financial statements, schedule of expenditures of Federal awards, corrective action plan defined under subsection (i), and auditor's reports developed pursuant to this section, to a Federal clearinghouse designated by the Director, and make it available for public inspection within the earlier of—
 
 &emsp;(1) 30 days after receipt of the auditor's report; or
 
@@ -74,7 +74,7 @@
 
 &emsp;(B) for fiscal years beginning after the period specified in subparagraph (A), 9 months after the end of the period audited, or within a longer timeframe authorized by the Federal agency, determined under criteria issued under section 7504, when the 9-month timeframe would place an undue burden on the non-Federal entity.
 
-(i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that correctiveaction is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
+(i) If an audit conducted pursuant to this section discloses any audit findings, as defined by the Director, including material noncompliance with individual compliance requirements for a major program by, or reportable conditions in the internal controls of, the non-Federal entity with respect to the matters described in subsection (e), the non-Federal entity shall submit to Federal officials designated by the Director, a plan for corrective action to eliminate such audit findings or reportable conditions or a statement describing the reasons that corrective action is not necessary. Such plan shall be consistent with the audit resolution standard promulgated by the Comptroller General (as part of the standards for internal controls in the Federal Government) pursuant to section 3512(c).
 
 (j) The Director may authorize pilot projects to test alternative methods of achieving the purposes of this chapter. Such pilot projects may begin only after consultation with the Chair and Ranking Minority Member of the Committee on Governmental Affairs of the Senate and the Chair and Ranking Minority Member of the Committee on Government Reform and Oversight of the House of Representatives.
 

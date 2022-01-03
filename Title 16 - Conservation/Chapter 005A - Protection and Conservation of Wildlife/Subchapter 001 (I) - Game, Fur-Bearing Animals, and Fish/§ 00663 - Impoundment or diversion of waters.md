@@ -6,7 +6,7 @@ Subject to the exceptions prescribed in section 662(h) of this title, whenever t
 
 #### (b) Use and availability of waters, land, or interests therein
 
-The use of such waters, land, or interests therein for wildlife conservation purposes shall be in accordance with general plans approved jointly (1) by the head of the particular department or agency exercising primary administration in each instance, (2) by the Secretary of the Interior, and (3) by the head of the agency exercising the administration of the wildlife resources of the particular State wherein the waters and areas lie. Such waters and other interests shall be made available, without cost for administration, by such State agency, if the management of the properties relate to the conservation of wildlife other than migratory birds, or by the Secretary of the Interior, for administration in such manner as he may deem advisable, where the particular properties have value in carrying out the national migratory bird management program: <i>Provided</i>, That nothing in this section shall be construed as affecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
+The use of such waters, land, or interests therein for wildlife conservation purposes shall be in accordance with general plans approved jointly (1) by the head of the particular department or agency exercising primary administration in each instance, (2) by the Secretary of the Interior, and (3) by the head of the agency exercising the administration of the wildlife resources of the particular State wherein the waters and areas lie. Such waters and other interests shall be made available, without cost for administration, by such State agency, if the management of the properties relate to the conservation of wildlife other than migratory birds, or by the Secretary of the Interior, for administration in such manner as he may deem advisable, where the particular properties have value in carrying out the national migratory bird management program: <i>Provided</i>, That nothing inthis section shall be construed as affecting the authority of the Secretary of Agriculture to cooperate with the States or in making lands available to the States with respect to the management of wildlife and wildlife habitat on lands administered by him.
 
 #### (c) Acquisition of land, waters, and interests therein; report to Congress
 
@@ -26,6 +26,8 @@ Any lands acquired pursuant to this section by any Federal agency within the ext
 
 (Mar. 10, 1934, ch. 55, §3, 48 Stat. 401; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Aug. 14, 1946, ch. 965, 60 Stat. 1081; Pub. L. 85–624, §2, Aug. 12, 1958, 72 Stat. 566.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (c) and (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 85–624 designated second sentence of existing provisions 
 Subsecs. (c) to (f). Pub. L. 85–624 added subsecs. (c) to (f).
 
 <b>1946</b>—Act Aug. 14, 1946, amended section generally to provide for conservation and maintenance of wildlife resources upon impounding of waters, and to provide for free use of waters under certain conditions.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

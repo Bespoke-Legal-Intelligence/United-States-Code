@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b), persons appointed to the Administration shall be subject to the provisions of and entitled to benefits under subchapter III of chapter 83 of title 5 or subchapter II of chapter 84 of title 5, whichever is applicable.
 
-(b)(1) In computing the annuity under subchapter III of chapter 83, or subchapter II of chapter 84, of title 5 of an individual who retires under such subchapter (other than under section 8337 or 8451 of such title) after December 31, 1981, and who served at any time on a less-than-full-time basis in a position in the Administration towhich such individual was appointed under subchapter I—
+(b)(1) In computing the annuity under subchapter III of chapter 83, or subchapter II of chapter 84, of title 5 of an individual who retires under such subchapter (other than under section 8337 or 8451 of such title) after December 31, 1981, and who served at any time on a less-than-full-time basis in a position in the Administration to which such individual was appointed under subchapter I—
 
 &emsp;(A) for the purpose of determining such individual's average pay, as defined by section 8331(4) or 8401(3) of title 5, whichever is applicable, the annual rate of basic pay for full-time service shall be deemed to be such individual's rate of basic pay; and
 

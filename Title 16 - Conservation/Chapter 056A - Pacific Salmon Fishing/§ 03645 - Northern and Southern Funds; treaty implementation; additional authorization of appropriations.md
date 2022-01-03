@@ -10,7 +10,7 @@ Fund Management.—
 
 &emsp;(A) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Northern Fund pursuant to paragraph (1) shall be administered by a Northern Fund Committee, which shall be comprised of three representatives of the Government of Canada, and three representatives of the United States. The three United States representatives shall be the United States Commissioner and Alternate Commissioner appointed (or designated) from a list submitted by the Governor of Alaska for appointment to the Pacific Salmon Commission and the Regional Administrator of the National Marine Fisheries Service for the Alaska Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area from Cape Caution, Canada to Cape Suckling, Alaska may be approved for funding by the Northern Fund Committee.
 
-&emsp;(B) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made availablefrom the Southern Fund pursuant to paragraph (1) shall be administered by a Southern Fund Committee, which shall be comprised of three representatives of Canada and three representatives of the United States. The United States representatives shall be appointed by the Secretary of Commerce: one shall be selected from a list of three qualified individuals submitted by the Governors of the States of Washington and Oregon; one shall be selected from a list of three qualified individuals submitted by the treaty Indian tribes (as defined by the Secretary of Commerce); and one shall be the Regional Administrator of the National Marine Fisheries Service for the Northwest Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area south of Cape Caution, Canada may be approved for funding by the Southern Fund Committee.
+&emsp;(B) As provided in the 1999 Pacific Salmon Treaty Agreement, amounts made available from the Southern Fund pursuant to paragraph (1) shall be administered by a Southern Fund Committee, which shall be comprised of three representatives of Canada and three representatives of the United States. The United States representatives shall be appointed by the Secretary of Commerce: one shall be selected from a list of three qualified individuals submitted by the Governors of the States of Washington and Oregon; one shall be selected from a list of three qualified individuals submitted by the treaty Indian tribes (as defined by the Secretary of Commerce); and one shall be the Regional Administrator of the National Marine Fisheries Service for the Northwest Region. Only programs and activities consistent with the purposes in paragraph (1) which affect the geographic area south of Cape Caution, Canada may be approved for funding by the Southern Fund Committee.
 
 #### (b) Pacific Salmon Treaty implementation
 
@@ -58,9 +58,11 @@ Fund Management.—
 
 &emsp;(A) For salmon habitat restoration, salmon stock enhancement, sustainable salmon fisheries, and salmon research, including the construction of salmon research and related facilities, there is authorized to be appropriated for each of fiscal years 2000, 2001, 2002, and <sup>1</sup> 2003, 2005, 2006, 2007, 2008, and 2009, $90,000,000 to the States of Alaska, Washington, Oregon, Idaho, Nevada, and California. Amounts appropriated pursuant to this subparagraph shall be made available as direct payments. The State of Alaska may allocate a portion of any funds it receives under this subsection to eligible activities outside Alaska.
 
-&emsp;(B) For salmon habitat restoration, salmon stock enhancement, salmon research, and supplementation activities, there is authorized to be appropriated in each of fiscal years 2000, 2001, 2002, and 2003, $10,000,000 to be divided between the Pacific Coastal tribes (as defined by the Secretary of Commerce) and the ColumbiaRiver tribes (as defined by the Secretary of Commerce).
+&emsp;(B) For salmon habitat restoration, salmon stock enhancement, salmon research, and supplementation activities, there is authorized to be appropriated in each of fiscal years 2000, 2001, 2002, and 2003, $10,000,000 to be divided between the Pacific Coastal tribes (as defined by the Secretary of Commerce) and the Columbia River tribes (as defined by the Secretary of Commerce).
 
 (Pub. L. 99–5, §16, formerly Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], Nov. 29, 1999, 113 Stat. 1535, 1501A–56; Pub. L. 106–553, §1(a)(2) \[title VI, §628\], Dec. 21, 2000, 114 Stat. 2762, 2762A–108; Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2881; renumbered Pub. L. 99–5, §16, and amended Pub. L. 109–479, title III, §302(d), Jan. 12, 2007, 120 Stat. 3623; Pub. L. 111–8, div. B, title I, §110, Mar. 11, 2009, 123 Stat. 569.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -70,7 +72,7 @@ Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93�
 
 Section is comprised of section 16 of Pub. L. 99–5. Section 16(c) of Pub. L. 99–5 amended section 3632 of this title.
 
-Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 and amended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], as amended by Pub. L. 106–553, §1(a)(2) \[title VI, §628\], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
+Pub. L. 109–479, §302(d)(1), which directed that the text of section 623 of title VI of H.R. 3421 (113 Stat. 1501A–56), as introduced on November 17, 1999, enacted into law by section 1000(a)(1) of Pub. L. 106–113 andamended by Pub. L. 106–533, 114 Stat. 2762A–108, be transferred to and renumbered as section 16 of the Pacific Salmon Treaty Act, was executed by transferring Pub. L. 106–113, div. B, §1000(a)(1) \[title VI, §623\], as amended by Pub. L. 106–553, §1(a)(2) \[title VI, §628\], to and renumbering it as section 16 of Pub. L. 99–5, which is the Pacific Salmon Treaty Act of 1985, to reflect the probable intent of Congress. See source credit above.
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsec. (d). Pub. L. 106–553, §1(a)(2) \[title VI, §628(b)\], added subsec. 
 &emsp;"(3) For salmon habitat restoration, salmon stock enhancement, salmon research, and implementation of the 1999 Pacific Salmon Treaty Agreement and related agreements, there is authorized to be appropriated $6,000,000 in fiscal year 2000 to the Pacific Coastal tribes (as defined by the Secretary of Commerce) and $2,000,000 in fiscal year 2000 to the Columbia River tribes (as defined by the Secretary of Commerce).
 
 > Funds appropriated to the States under the authority of this section shall be subject to a 25 percent non-Federal match requirement. In addition, not more than 3 percent of such funds shall be available for administrative expenses, with the exception of funds used in the Washington State for the Forest and Fish Agreement."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

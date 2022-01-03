@@ -14,6 +14,8 @@ The purposes of this chapter are—
 
 (Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 478.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under section 108 of this title.

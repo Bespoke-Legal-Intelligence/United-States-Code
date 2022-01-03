@@ -64,7 +64,7 @@ Other Definitions.—For purposes of subsection (a):
 
 &emsp;&emsp;(E) any other person, including a former stepparent, who has stood in loco parentis to the member at any time for a continuous period of at least five years before the member became 21 years of age.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, §8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, §621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, §631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L. 103–337, div. A, title VII, §701(b), Oct. 5, 1994, 108 Stat. 2797.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 469; Pub. L. 93–64, title I, §§103, 104, July 9, 1973, 87 Stat. 148; Pub. L. 100–26, §8(e)(7), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–190, div. A, title VI, §621, Dec. 5, 1991, 105 Stat. 1377; Pub. L. 103–160, div. A, title VI, §631(a), Nov. 30, 1993, 107 Stat. 1683; Pub. L.103–337, div. A, title VII, §701(b), Oct. 5, 1994, 108 Stat. 2797.)
 
 Historical and Revision Notes
 
@@ -112,7 +112,7 @@ The words "lawful", "at all times and in all places", "except as hereinafter lim
 
 <b>1973</b>—Cl. (2). Pub. L. 93–64, §103(1), in revising cl. (1) of first sentence, substituted "unmarried child" for "unmarried legitimate child" and defined dependent to include an illegitimate child whose alleged member-father has been judicially decreed to be the father of the child or judicially ordered to contribute to the child's support, or whose parentage has been admitted in writing by the member.
 
-Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted "five years before the member became 21 years" for "five years before he became 21 years", struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained informer section 2201 of Appendix to Title 50, War and National Defense.
+Cl. (3). Pub. L. 93–64, §104, in revising cl. (3) of first sentence, substituted "five years before the member became 21 years" for "five years before he became 21 years", struck out requirement of actual residence of parent in the member's household, and inserted provision respecting determination of dependency of parent, including items (A) and (B), formerly contained in former section 2201 of Appendix to Title 50, War and National Defense.
 
 Closing text. Pub. L. 93–64, §103(2), struck out second sentence, following cl. (3) of first sentence, stating that a person is not a dependent of a female member unless he is in fact dependent on her for over one-half of his support.
 

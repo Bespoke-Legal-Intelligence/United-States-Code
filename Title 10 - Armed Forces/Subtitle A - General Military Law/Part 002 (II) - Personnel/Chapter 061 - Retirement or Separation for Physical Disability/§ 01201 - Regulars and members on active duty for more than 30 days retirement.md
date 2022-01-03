@@ -36,7 +36,7 @@ Eligible Members.—This section and sections 1202 and 1203 of this title apply 
 
 &emsp;(3) Any other member of the armed forces who is on active duty but is not entitled to basic pay by reason of section 502(b) of title 37 due to authorized absence (A) to participate in an educational program, or (B) for an emergency purpose, as determined by the Secretary concerned.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub.L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, §1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, \[div. A\], title VII, §727(a), Oct. 14, 2008, 122 Stat. 4510.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 91; Pub. L. 85–861, §1(28)(A), Sept. 2, 1958, 72 Stat. 1451; Pub. L. 87–651, title I, §107(a), Sept. 7, 1962, 76 Stat. 508; Pub. L. 95–377, §3(1), Sept. 19, 1978, 92 Stat. 719; Pub. L. 96–343, §10(c)(1), Sept. 8, 1980, 94 Stat. 1129; Pub. L. 96–513, title I, §117, Dec. 12, 1980, 94 Stat. 2878; Pub. L. 99–145, title V, §513(a)(1)(A), Nov. 8, 1985, 99 Stat. 627; Pub. L. 101–189, div. A, title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1602; Pub. L. 103–337, div. A, title XVI, §1671(c)(6), Oct. 5, 1994, 108 Stat. 3014; Pub. L. 104–201, div. A, title V, §572(a), Sept. 23, 1996, 110 Stat. 2533; Pub. L. 110–181, div. A, title XVI, §1641(a), Jan. 28, 2008, 122 Stat. 464; Pub. L. 110–417, \[div. A\], title VII, §727(a), Oct. 14, 2008, 122 Stat. 4510.)
 
 Historical and Revision Notes<br>1956
 
@@ -90,6 +90,8 @@ The amendment reflects the Act of April 23, 1956, ch. 209 (70 Stat 115). (See op
 
 The changes correct typographical errors.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (b)(3)(B)(i). Pub. L. 110–417 struck out "the member has six months or more of active military service and" before "the disability was not noted" and substituted "(unless clear and unmistakable evidence demonstrates that the disability existed before the member's entrance on active duty and was not aggravated by active military service)" for "(unless compelling evidence or medical judgment is such to warrant a finding that the disability existed before the member's entrance on active duty)".
@@ -104,7 +106,7 @@ Pub. L. 110–181 amended cl. (i) generally. Prior to amendment, cl. (i) read as
 
 <b>1985</b>—Par. (1). Pub. L. 99–145 inserted "and stable" after "permanent nature".
 
-<b>1980</b>—Par. (3)(B)(iv). Pub. L. 96–513 substituted "after September 14, 1978" for "during the period beginning on September 15, 1978, and ending on September 30, 1982, except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect".
+<b>1980</b>—Par. (3)(B)(iv). Pub. L. 96–513 substituted "after September 14, 1978" for "during the period beginning on September 15, 1978, and ending on September 30, 1982,except that the condition provided for in this item shall not be effective during such period unless the President determines that such condition should be effective during such period and issues an Executive order to that effect".
 
 Pub. L. 96–343 added cl. (iv).
 
@@ -113,6 +115,8 @@ Pub. L. 96–343 added cl. (iv).
 <b>1962</b>—Pub. L. 87–651 substituted "training under section 270(b) of this title)" for "training) under section 270(b) of this title".
 
 <b>1958</b>—Pub. L. 85–861 inserted "under section 270(b) of this title" after "(other than for training)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -132,11 +136,13 @@ Pub. L. 95–377, §3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment
 
 #### Public Health Service
 
-Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretaryof Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a(b) of Title 42, The Public Health and Welfare.
+Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see section 213a(b) of Title 42, The Public Health and Welfare.
 
 #### National Oceanic and Atmospheric Administration
 
 Authority vested by this chapter in "military departments", "the Secretary concerned", or "the Secretary of Defense" to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary's designee, see section 3071 of Title 33, Navigation and Navigable Waters.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12239
 

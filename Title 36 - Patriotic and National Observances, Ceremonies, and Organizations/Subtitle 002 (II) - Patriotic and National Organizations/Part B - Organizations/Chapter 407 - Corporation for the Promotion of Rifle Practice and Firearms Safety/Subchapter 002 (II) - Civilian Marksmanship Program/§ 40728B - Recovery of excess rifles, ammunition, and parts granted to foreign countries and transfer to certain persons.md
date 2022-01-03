@@ -30,7 +30,7 @@ Market Value.—The Secretary of the Army may only transfer an item under subsec
 
 (e)
 
-Contracts.—Notwithstanding subsection (k) of section 2304 of title 10, the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of subsection (c) of such section to carry out this section.
+Contracts.—Notwithstanding section 3201(e) of title 10, the Secretary may enter into such contracts or cooperative agreements on a sole source basis pursuant to paragraphs (4) and (5) of section 3204(a) <sup>1</sup> to carry out this section.
 
 (f)
 
@@ -40,13 +40,17 @@ AECA.—Transfers authorized under this section may only be made in accordance w
 
 Rifle Defined.—In this section, the term "rifle" has the meaning given such term in section 921 of title 18.
 
-(Added Pub. L. 114–328, div. A, title X, §1096(a), Dec. 23, 2016, 130 Stat. 2440.)
+(Added Pub. L. 114–328, div. A, title X, §1096(a), Dec. 23, 2016, 130 Stat. 2440; amended Pub. L. 117–81, div. A, title XVII, §1702(l)(7), Dec. 27, 2021, 135 Stat. 2160.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (f), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
+
+#### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–81 substituted "section 3201(e)" for "subsection (k) of section 2304" and "section 3204(a)" for "subsection (c) of such section".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -67,4 +71,6 @@ Report required.—Not later than 180 days after the date of the enactment of th
 "(2)
 
 Prohibition on transfers pending submittal of report.—No rifle, ammunition, repair part, or supplies acquired under section 40728B(a) of title 36, United States Code, may be transferred until the date that is 90 days after the date of the submittal of the report required under paragraph (1)."
+
+<i><sup>1</sup></i><i> So in original. Probably means section 3204(a) of title 10.</i>
 

@@ -10,6 +10,8 @@ Any article imported or brought into the United States—
 
 (Pub. L. 86–14, §3, Apr. 22, 1959, 73 Stat. 18.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Immunity From Seizure Under Judicial Process of Cultural Objects Imported for Temporary Exhibition or Display
 
 Presidential determination of cultural significance of objects and exhibition or display thereof in the national interest, see section 2459 of Title 22, Foreign Relations and Intercourse.

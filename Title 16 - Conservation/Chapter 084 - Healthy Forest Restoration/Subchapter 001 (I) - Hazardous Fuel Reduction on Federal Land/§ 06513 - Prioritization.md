@@ -34,7 +34,7 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 
 #### (B) Applicability and allocation
 
-&emsp;&emsp;The funding allocation in subparagraph (A) shall apply at the national level. The Secretary may allocate the proportion of funds differently than is required under subparagraph (A) within individual management units as appropriate, in particular to conduct authorized hazardous fuel reductionprojects on land described in section 6512(a)(4) of this title.
+&emsp;&emsp;The funding allocation in subparagraph (A) shall apply at the national level. The Secretary may allocate the proportion of funds differently than is required under subparagraph (A) within individual management units as appropriate, in particular to conduct authorized hazardous fuel reduction projects on land described in section 6512(a)(4) of this title.
 
 #### (C) Wildland-urban interface
 
@@ -99,6 +99,8 @@ In accordance with the Implementation Plan, the Secretary shall develop an annua
 &emsp;There is authorized to be appropriated to carry out this subsection $20,000,000 for each of fiscal years 2019 through 2023.
 
 (Pub. L. 108–148, title I, §103, Dec. 3, 2003, 117 Stat. 1896; Pub. L. 115–334, title VIII, §8401, Dec. 20, 2018, 132 Stat. 4840.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

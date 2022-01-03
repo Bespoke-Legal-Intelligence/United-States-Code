@@ -20,13 +20,15 @@ In the case of an income tax return of—
 
 &emsp;(2) an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends (as defined in section 1388(a)) in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings,
 
-> a return made on the basis of a calendar year shall be filed on or before the 15th day of September following the close of the calendar year, and a return made on the basis of a fiscal year shall be filed on or before the 15th day of the 9th month following the close of the fiscal year.
+> a return made on the basis of a calendar year shall be filed on or before the 15th day of September following the close of the calendar year, and a return made on the basis of a fiscal yearshall be filed on or before the 15th day of the 9th month following the close of the fiscal year.
 
 #### (e) Organizations exempt from taxation under section 501(a)
 
 In the case of an income tax return of an organization exempt from taxation under section 501(a) (other than an employees' trust described in section 401(a)), a return shall be filed on or before the 15th day of the 5th month following the close of the taxable year.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 749; Pub. L. 87–834, §17(b)(3), Oct. 16, 1962, 76 Stat. 1051; Pub. L. 92–178, title V, §504(b), Dec. 10, 1971, 85 Stat. 551; Pub. L. 94–455, title X, §1053(d)(3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1649, 1834; Pub. L. 95–628, §6(a), Nov. 10, 1978, 92 Stat. 3630; Pub. L. 98–369, div. A, title VIII, §801(d)(13), July 18, 1984, 98 Stat. 997; Pub. L. 110–172, §11(g)(20), Dec. 29, 2007, 121 Stat. 2491; Pub. L. 113–295, div. A, title II, §220(u), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 114–41, title II, §2006(a)(1), July 31, 2015, 129 Stat. 457.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretar
 <b>1971</b>—Subsec. (b). Pub. L. 92–178 required returns of a DISC to be filed on or before the fifteenth day of the ninth month following the close of the taxable year.
 
 <b>1962</b>—Subsec. (d). Pub. L. 87–834 substituted provisions relating to returns by an exempt cooperative association described in section 1381(a)(1), or by an organization described in section 1381(a)(2) which is under an obligation to pay patronage dividends in an amount equal to at least 50 percent of its net earnings from business done with or for its patrons, or which paid patronage dividends in such an amount out of the net earnings from business done with or for patrons during the most recent taxable year for which it had such net earnings for provisions which related to returns of exempt cooperative associations taxable under the provisions of section 522.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

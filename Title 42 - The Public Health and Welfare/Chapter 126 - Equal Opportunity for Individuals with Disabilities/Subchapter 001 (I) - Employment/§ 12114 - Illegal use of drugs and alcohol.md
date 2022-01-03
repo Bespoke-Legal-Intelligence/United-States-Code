@@ -30,7 +30,7 @@ A covered entity—
 
 &emsp;(5) may, with respect to Federal regulations regarding alcohol and the illegal use of drugs, require that—
 
-&emsp;&emsp;(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);
+&emsp;&emsp;(A) employees comply with the standards established in such regulations of the Department of Defense, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in suchan industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Department of Defense);
 
 &emsp;&emsp;(B) employees comply with the standards established in such regulations of the Nuclear Regulatory Commission, if the employees of the covered entity are employed in an industry subject to such regulations, including complying with regulations (if any) that apply to employment in sensitive positions in such an industry, in the case of employees of the covered entity who are employed in such positions (as defined in the regulations of the Nuclear Regulatory Commission); and
 
@@ -56,6 +56,8 @@ Nothing in this subchapter shall be construed to encourage, prohibit, restrict, 
 
 (Pub. L. 101–336, title I, §104, July 26, 1990, 104 Stat. 334; Pub. L. 110–325, §5(c)(2), Sept. 25, 2008, 122 Stat. 3557.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
@@ -67,6 +69,8 @@ In subsec. (c)(3), "chapter 81 of title 41" substituted for "the Drug-Free Workp
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–325 substituted "a qualified individual with a disability shall" for "the term 'qualified individual with a disability' shall".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

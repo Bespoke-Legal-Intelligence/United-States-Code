@@ -18,7 +18,7 @@ Promotion of Competition Required.—When using simplified acquisition procedure
 
 (d)
 
-Consideration of Offers Timely Received.—The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contracting officer consider each responsive offer timely received from an eligible offeror.
+Consideration of Offers Timely Received.—The simplified acquisition procedures contained in the Federal Acquisition Regulation shall include a requirement that a contractingofficer consider each responsive offer timely received from an eligible offeror.
 
 (e)
 
@@ -26,11 +26,11 @@ Special Rules for Commercial Products and Commercial Services.—The Federal Acq
 
 &emsp;(1) shall publish a notice in accordance with section 1708 of this title and, as provided in section 1708(c)(4) of this title, permit all responsible sources to submit a bid, proposal, or quotation (as appropriate) that the agency shall consider;
 
-&emsp;(2) may not conduct the purchase on a sole source basis unless the need to do so is justified in writing and approved in accordance with section 2304(f) of title 10 or section 3304(e) of this title, as applicable; and
+&emsp;(2) may not conduct the purchase on a sole source basis unless the need to do so is justified in writing and approved in accordance with section 3204(e) of title 10 or section 3304(e) of this title, as applicable; and
 
 &emsp;(3) shall include in the contract file a written description of the procedures used in awarding the contract and the number of offers received.
 
-(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–232, div. A, title VIII, §836(b)(4), Aug. 13, 2018, 132 Stat. 1861.)
+(Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3719; Pub. L. 115–232, div. A, title VIII, §836(b)(4), Aug. 13, 2018, 132 Stat. 1861; Pub. L. 117–81, div. A, title XVII, §1702(h)(6), Dec. 27, 2021, 135 Stat. 2158.)
 
 Historical and Revision Notes
 
@@ -56,6 +56,8 @@ In subsection (e)(2), the reference to section 253 of this title is limited to s
 
 #### Amendments
 
+<b>2021</b>—Subsec. (e)(2). Pub. L. 117–81 substituted "section 3204(e)" for "section 2304(f)".
+
 <b>2018</b>—Subsec. (a)(2). Pub. L. 115–232, §836(b)(4)(A), substituted "commercial products or commercial services" for "commercial items".
 
 Subsec. (e). Pub. L. 115–232, §836(b)(4)(B), substituted "Commercial Products and Commercial Services" for "Commercial Items" in heading and, in introductory provisions, substituted "commercial products or commercial services" for "commercial items".
@@ -68,7 +70,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 #### Procurement Through Commercial E-Commerce Portals
 
-Pub. L. 115–91, div. A, title VIII, §846, Dec. 12, 2017, 131 Stat. 1483, as amended by Pub. L. 115–232, div. A, title VIII, §838(a), Aug. 13, 2018, 132 Stat. 1875, provided that:
+Pub. L. 115–91, div. A, title VIII, §846, Dec. 12, 2017, 131 Stat. 1483, as amended by Pub. L. 115–232, div. A, title VIII, §838(a), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 117–81, div. A, title VIII, §853, title XVII, §1702(i)(2), Dec. 27, 2021, 135 Stat. 1848, 2159, provided that:
 
 "(a)
 
@@ -104,11 +106,47 @@ Phase ii: market analysis and consultation.—Not later than one year after the 
 
 &emsp;"(3)
 
-Phase iii: program implementation guidance.—Not later than two years after the date of the submission of the implementation plan and schedule required under paragraph (1), guidance to implement and govern the use of the program established pursuant to subsection (a), including protocols for oversight of procurement through the program, and compliance with laws pertaining to supplier and product screening requirements, data security, and data analytics.
+Phase iii: program implementation guidance.—Not later than two years after the date of thesubmission of the implementation plan and schedule required under paragraph (1), guidance to implement and govern the use of the program established pursuant to subsection (a), including protocols for oversight of procurement through the program, and compliance with laws pertaining to supplier and product screening requirements, data security, and data analytics.
 
 &emsp;"(4)
 
 Additional implementation phases.—A description of additional implementation phases, as determined by the Administrator, that includes a selection of agencies to participate in any such additional implementation phase (which may include the award of contracts to multiple commercial e-commerce portal providers).
+
+&emsp;"(5)
+
+Additional testing.—Not later than 180 days after the date of the enactment of this paragraph \[Dec. 27, 2021\], the Administrator shall—
+
+&emsp;&emsp;"(A) begin testing commercial e-commerce portal models (other than any such model selected for the initial proof of concept) identified pursuant to paragraph (2); and
+
+&emsp;&emsp;"(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
+
+&emsp;&emsp;&emsp;"(i) a summary of the assessments conducted under paragraph (2) with respect to a commercial e-commerce portal model identified pursuant to such paragraph;
+
+&emsp;&emsp;&emsp;"(ii) a list of the types of commercial products that could be procured using models tested pursuant to subparagraph (A);
+
+&emsp;&emsp;&emsp;"(iii) an estimate of the amount that could be spent by the head of a department or agency under the program, disaggregated by type of commercial e-commerce portal model; and
+
+&emsp;&emsp;&emsp;"(iv) an update on the models tested pursuant to subparagraph (A) and a timeline for completion of such testing.
+
+&emsp;"(6)
+
+Report.—Upon completion of testing conducted under paragraph (5) and before taking any action with respect to the commercial e-commerce portal models tested, the Administrator of General Services shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Oversight and Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate, a report on the results of such testing that includes—
+
+&emsp;&emsp;"(A) an assessment and comparison of commercial e-commerce portal models with respect to—
+
+&emsp;&emsp;&emsp;"(i) price and quality of the commercial products supplied by each commercial e-commerce portal model;
+
+&emsp;&emsp;&emsp;"(ii) supplier reliability and service;
+
+&emsp;&emsp;&emsp;"(iii) safeguards for the security of Government information and third-party supplier proprietary information;
+
+&emsp;&emsp;&emsp;"(iv) protections against counterfeit commercial products;
+
+&emsp;&emsp;&emsp;"(v) supply chain risks, particularly with respect to complex commercial products; and
+
+&emsp;&emsp;&emsp;"(vi) overall adherence to Federal procurement rules and policies; and
+
+&emsp;&emsp;"(B) an analysis of the costs and benefits of the convenience to the Federal Government of procuring commercial products from each such commercial e-commerce portal model.
 
 "(d)
 
@@ -138,7 +176,7 @@ Relationship to Other Provisions of Law.—
 
 &emsp;"(4) Nothing in this section shall be construed as limiting the applicability of section 1341 of title 31, United States Code (popularly referred to as the Anti-Deficiency Act).
 
-&emsp;"(5) A procurement of a product made through a commercial e-commerce portal under the program established pursuant to subsection (a) is deemed to satisfy requirements for full and open competition pursuant to section 2304 of title 10, United States Code, and section 3301 of title 41, United States Code, if—
+&emsp;"(5) A procurement of a product made through a commercial e-commerce portal under the program established pursuant to subsection (a) is deemed to satisfy requirements for full and open competition pursuant to sections 3201 through 3205 of title 10, United States Code, and section 3301 of title 41, United States Code, if—
 
 &emsp;&emsp;"(A) there are offers from two or more suppliers of such a product or similar product with substantially the same physical, functional, or performance characteristics on the online marketplace; and
 
@@ -146,7 +184,7 @@ Relationship to Other Provisions of Law.—
 
 "(g)
 
-Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a productthrough a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
+Use of Commercial Practices and Standard Terms and Conditions.—A procurement of a product through a commercial e-commerce portal used under the program established pursuant to subsection (a) shall be made, to the maximum extent practicable, under the standard terms and conditions of the portal relating to purchasing on the portal.
 
 "(h)
 

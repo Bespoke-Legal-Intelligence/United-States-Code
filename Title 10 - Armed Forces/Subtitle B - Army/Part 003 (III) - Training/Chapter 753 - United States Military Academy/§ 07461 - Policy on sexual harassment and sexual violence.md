@@ -92,7 +92,7 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 &emsp;&emsp;(ii) subject to the cadet's acceptance for admission to the institution of higher education to which the cadet wishes to transfer, to approve such request for transfer unless there are exceptional circumstances that require denial of the application; and
 
-&emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and to process the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
+&emsp;&emsp;(iii) to take all necessary and appropriate action to effectuate the cadet's enrollment in the institution of higher education to which the cadet wishes to transfer and toprocess the cadet for participation in the relevant Senior Reserve Officers' Training Corps program as expeditiously as possible.
 
 (3) If the Superintendent of the United States Military Academy denies a request for transfer under this subsection, the cadet may request review of the denial by the Secretary of the Army, who shall take action on such request not later than 72 hours after receipt of the formal request for review.
 
@@ -102,6 +102,8 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 
 (Added Pub. L. 109–364, div. A, title V, §532(a)(1), Oct. 17, 2006, 120 Stat. 2200, §4361; renumbered §7461, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–92, div. A, title V, §555(a), Dec. 20, 2019, 133 Stat. 1388; Pub. L. 116–283, div. A, title V, §552(b)(1), Jan. 1, 2021, 134 Stat. 3632.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (c)(3). Pub. L. 116–283 added par. (3).
@@ -109,6 +111,8 @@ Consideration of Request for Transfer of a Cadet Who Is the Victim of a Sexual A
 <b>2019</b>—Subsec. (e). Pub. L. 116–92 added subsec. (e).
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4361 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -64,7 +64,7 @@ International agreements.—The Administrator shall take the measures required u
 
 &emsp;(3)
 
-Access to data.—The Administrator may access and review such information ordata in the possession of a part 121 air carrier as the Administrator may require in carrying out paragraph (1)(B).
+Access to data.—The Administrator may access and review such information or data in the possession of a part 121 air carrier as the Administrator may require in carrying out paragraph (1)(B).
 
 (g)
 
@@ -84,6 +84,8 @@ Part 145 repair station.—The term "part 145 repair station" means a repair sta
 
 (Added Pub. L. 112–95, title III, §308(a), Feb. 14, 2012, 126 Stat. 62; amended Pub. L. 114–190, title II, §2112(a), July 15, 2016, 130 Stat. 627.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (a) and (d)(2), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
@@ -97,6 +99,8 @@ The date of enactment of the FAA Extension, Safety, and Security Act of 2016, re
 Subsec. (g). Pub. L. 114–190, §2112(a)(3), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Pub. L. 114–190, §2112(a)(1), redesignated subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Alcohol and Controlled Substances Testing
 

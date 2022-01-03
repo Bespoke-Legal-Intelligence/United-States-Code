@@ -18,6 +18,8 @@ Historical and Revision Notes
 
 Aug. 2, 1946, ch. 756, §16(c), 60 Stat. 855.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8251 and 8252 were renumbered sections 9131 and 9132 of this title.
@@ -27,6 +29,8 @@ Another prior section 8252, act Aug. 10, 1956, ch. 1041, 70A Stat. 503, provided
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6087 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

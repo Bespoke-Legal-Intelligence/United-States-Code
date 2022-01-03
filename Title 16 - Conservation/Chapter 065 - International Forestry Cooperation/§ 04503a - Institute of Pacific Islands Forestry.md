@@ -48,9 +48,11 @@ The Secretary shall expand the capabilities of and construct additional faciliti
 
 (Pub. L. 101–513, title VI, §605, as added Pub. L. 102–574, §2(a)(2), Oct. 29, 1992, 106 Stat. 4593; amended Pub. L. 103–437, §6(d)(42), Nov. 2, 1994, 108 Stat. 4585.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 5(b) of the Hawaii Tropical Forest Recovery Act, referred to in subsec. (b)(1), probably means section 4(b) of that Act, Pub. L. 102–574, which contains provisions regarding an action plan, and which is setout as a note below. Section 5 of that Act, which is set out as a note under section 4502a of this title, does not contain a subsec. (b).
+Section 5(b) of the Hawaii Tropical Forest Recovery Act, referred to in subsec. (b)(1), probably means section 4(b) of that Act, Pub. L. 102–574, which contains provisions regarding an action plan, and which is set out as a note below. Section 5 of that Act, which is set out as a note under section 4502a of this title, does not contain a subsec. (b).
 
 #### Prior Provisions
 
@@ -59,6 +61,8 @@ A prior section 605 of Pub. L. 101–513 was renumbered section 609 and is class
 #### Amendments
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Hawaii Tropical Forest Recovery Task Force
 

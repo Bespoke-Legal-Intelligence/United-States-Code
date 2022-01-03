@@ -4,7 +4,7 @@
 
 Any hazardous waste generated on a public vessel shall not be subject to the storage, manifest, inspection, or recordkeeping requirements of this chapter until such waste is transferred to a shore facility, unless—
 
-&emsp;(1) the waste is stored on the public vessel for more than 90 days after the public vessel is placed in reserve or is otherwise no longer in service; or
+&emsp;(1) the waste is stored on the public vessel for more than 90 days after the public vessel isplaced in reserve or is otherwise no longer in service; or
 
 &emsp;(2) the waste is transferred to another public vessel within the territorial waters of the United States and is stored on such vessel or another public vessel for more than 90 days after the date of transfer.
 
@@ -32,11 +32,15 @@ Nothing in this section shall be construed as altering or otherwise affecting th
 
 (Pub. L. 89–272, title II, §3022, as added Pub. L. 102–386, title I, §106(a), Oct. 6, 1992, 106 Stat. 1513; amended Pub. L. 115–232, div. A, title VIII, §809(n)(2), Aug. 13, 2018, 132 Stat. 1844.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(2). Pub. L. 115–232, §809(n)(2)(A), substituted "section 8663 and sections 8674 through 8678 of title 10" for "section 7293 and sections 7304 through 7308 of title 10".
 
 Subsec. (d). Pub. L. 115–232, §809(n)(2)(B), substituted "section 8681 of title 10" for "section 7311 of title 10".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -28,11 +28,15 @@ The statement of record shall contain the information and be accompanied by the 
 
 (Pub. L. 90–448, title XIV, §1406, Aug. 1, 1968, 82 Stat. 592; Pub. L. 91–609, title IX, §909, Dec. 31, 1970, 84 Stat. 1811; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pars. (11), (12). Pub. L. 111–203 substituted "Director" for "Secretary".
 
 <b>1970</b>—Par. (5). Pub. L. 91–609 required the statement of record to contain a statement of the existence of any unusual conditions relating to noise or safety which affect the subdivision and are known to the developer.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

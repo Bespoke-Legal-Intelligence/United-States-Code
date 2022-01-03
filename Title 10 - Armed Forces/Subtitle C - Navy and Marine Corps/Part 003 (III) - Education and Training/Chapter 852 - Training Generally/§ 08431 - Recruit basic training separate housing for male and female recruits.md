@@ -10,7 +10,7 @@ Physically Separate Housing.—(1) The Secretary of the Navy shall provide for h
 
 (b)
 
-Alternative Separate Housing.—If male recruits and female recruits cannot be housed asprovided under subsection (a) by October 1, 2001, at a particular installation, the Secretary of the Navy shall require (on and after that date) that male recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for males and that female recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for females.
+Alternative Separate Housing.—If male recruits and female recruits cannot be housed as provided under subsection (a) by October 1, 2001, at a particular installation, the Secretary of the Navy shall require (on and after that date) that male recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for males and that female recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for females.
 
 (c)
 
@@ -22,9 +22,13 @@ Basic Training Defined.—In this section, the term "basic training" means the i
 
 (Added Pub. L. 105–261, div. A, title V, §521(b)(1), Oct. 17, 1998, 112 Stat. 2010, §6931; renumbered §8431, Pub. L. 115–232, div. A, title VIII, §807(c)(1), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6931 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

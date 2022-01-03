@@ -22,6 +22,10 @@ The following shall be nationals and citizens of the United States at birth:
 
 #### <b>Editorial Notes</b>
 
+#### Constitutionality
+
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+
 #### Amendments
 
 <b>1994</b>—Subsec. (h). Pub. L. 103–416 added subsec. (h).
@@ -32,7 +36,7 @@ The following shall be nationals and citizens of the United States at birth:
 
 Subsec. (b). Pub. L. 95–432, §1, struck out subsec. (b) which provided that any person who was a national or citizen of the United States under subsec. (a)(7) lose his nationality or citizenship unless he be continuously physically present in the United States for a period of not less than two years between the ages of 14 and 28 or that the alien parent be naturalized while the child was under 18 years of age and the child began permanent residence in the United States while under 18 years of age and that absence from the United States of less than 60 days not break the continuity of presence.
 
-Subsec. (c). Pub. L. 95–432, §1, struck out subsec. (c) which provided that former subsec. (b) apply to personsborn abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
+Subsec. (c). Pub. L. 95–432, §1, struck out subsec. (c) which provided that former subsec. (b) apply to persons born abroad subsequent to May 24, 1934, except that this not be construed to alter the citizenship of any person born abroad subsequent to May 24, 1934 who, prior to the effective date of this chapter, had taken up residence in the United States before attaining 16 years of age, and thereafter, whether before or after the effective date of this chapter, complied with the residence requirements of section 201(g) and (h) of the Nationality Act of 1940.
 
 Subsec. (d). Pub. L. 95–432, §1, struck out subsec. (d) which provided that nothing in former subsec. (b) be construed to alter the citizenship of any person who came into the United States prior to Oct. 27, 1972, and who, whether before or after Oct. 27, 1972, immediately following such coming complied with the physical presence requirements for retention of citizenship specified in former subsec. (b), prior to amendment of former subsec. (b) by Pub. L. 92–584.
 

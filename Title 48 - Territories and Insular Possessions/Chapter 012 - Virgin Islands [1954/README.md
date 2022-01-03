@@ -92,6 +92,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Constitutions for Virgin Islands and Guam: Establishment; Congressional Authorization
 
 Pub. L. 94–584, Oct. 21, 1976, 90 Stat. 2899, as amended by Pub. L. 96–597, title V, §501, Dec. 24, 1980, 94 Stat. 3479; Pub. L. 111–194, §2, June 30, 2010, 124 Stat. 1310, provided:
@@ -104,7 +106,7 @@ Sec. 2. \[Constitutional conventions and draft provisions\] (a) The Legislatures
 
 "(b) Such constitutions shall—
 
-&emsp;"(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws of the United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act \[section 1405 et seq. of this title\] and Revised Organic Act of the Virgin Islands \[this chapter\] and the Organic Act of Guam \[section 1421 et seq. of this title\] which do not relate to local self-government.
+&emsp;"(1) recognize, and be consistent with, the sovereignty of the United States over the Virgin Islands and Guam, respectively, and the supremacy of the provisions of the Constitution, treaties, and laws ofthe United States applicable to the Virgin Islands and Guam, respectively, including, but not limited to, those provisions of the Organic Act \[section 1405 et seq. of this title\] and Revised Organic Act of the Virgin Islands \[this chapter\] and the Organic Act of Guam \[section 1421 et seq. of this title\] which do not relate to local self-government.
 
 &emsp;"(2) provide for a republican form of government, consisting of three branches: executive, legislative, and judicial;
 

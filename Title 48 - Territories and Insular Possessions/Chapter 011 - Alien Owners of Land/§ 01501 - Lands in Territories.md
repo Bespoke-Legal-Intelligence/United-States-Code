@@ -4,6 +4,8 @@ No alien or person who is not a citizen of the United States, or who has not dec
 
 (Mar. 3, 1887, ch. 340, §1, 24 Stat. 476; Mar. 2, 1897, ch. 363, 29 Stat. 618.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 71 of Title 8, Aliens and Nationality.

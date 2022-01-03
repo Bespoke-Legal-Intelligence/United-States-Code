@@ -18,9 +18,11 @@ Any report relating to a significant anticipated intelligence activity or a sign
 
 #### (c) Standards and procedures for certain reports
 
-The Director of National Intelligence, in consultation with the heads of the departments,agencies, and entities referred to in subsection (a), shall establish standards and procedures applicable to reports covered by subsection (b).
+The Director of National Intelligence, in consultation with the heads of the departments, agencies, and entities referred to in subsection (a), shall establish standards and procedures applicable to reports covered by subsection (b).
 
 (July 26, 1947, ch. 343, title V, §502, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–108, title III, §305, Dec. 28, 2001, 115 Stat. 1398; Pub. L. 107–306, title III, §353(b)(3)(B), Nov. 27, 2002, 116 Stat. 2402; Pub. L. 108–458, title I, §1071(a)(1)(W), (X), Dec. 17, 2004, 118 Stat. 3689; Pub. L. 111–259, title III, §331(b), Oct. 7, 2010, 124 Stat. 2685.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -42,6 +44,8 @@ Subsec. (c). Pub. L. 108–458, §1071(a)(1)(X), substituted "Director of Nation
 
 <b>2001</b>—Pub. L. 107–108 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
@@ -54,7 +58,7 @@ Pub. L. 102–88, title IV, §405, Aug. 14, 1991, 105 Stat. 434, provided that:
 
 "(a)
 
-Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, or control of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
+Furnishing of Specific Information.—In accordance with title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\], the head of any department or agency of the United States involved in any intelligence activities which may pertain to United States military personnel listed as prisoner, missing, or unaccounted for in military actions shall furnish any information or documents in the possession, custody, orcontrol of the department or agency, or person paid by such department or agency, whenever requested by the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate.
 
 "(b)
 

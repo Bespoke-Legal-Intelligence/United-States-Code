@@ -10,7 +10,7 @@ Whenever the Commission, upon application of any State commission or of any pers
 
 #### (c) Temporary connection and exchange of facilities during emergency
 
-(1) During the continuance of any war in which the United States is engaged, or whenever the Commission determines that an emergency exists by reason of a sudden increase in the demand for electric energy, or a shortage of electric energy or of facilities for the generation or transmission of electric energy, or of fuel or water for generating facilities, or other causes, the Commission shall have authority, either upon its own motion or upon complaint, with or without notice, hearing, or report, to require by order such temporary connections of facilities and such generation, delivery, interchange, or transmission of electric energy as in its judgment will best meet the emergency and serve the public interest. If the parties affected by such order fail to agree upon the terms of any arrangement between them in carrying out such order, the Commission, after hearing held eitherbefore or after such order takes effect, may prescribe by supplemental order such terms as it finds to be just and reasonable, including the compensation or reimbursement which should be paid to or by any such party.
+(1) During the continuance of any war in which the United States is engaged, or wheneverthe Commission determines that an emergency exists by reason of a sudden increase in the demand for electric energy, or a shortage of electric energy or of facilities for the generation or transmission of electric energy, or of fuel or water for generating facilities, or other causes, the Commission shall have authority, either upon its own motion or upon complaint, with or without notice, hearing, or report, to require by order such temporary connections of facilities and such generation, delivery, interchange, or transmission of electric energy as in its judgment will best meet the emergency and serve the public interest. If the parties affected by such order fail to agree upon the terms of any arrangement between them in carrying out such order, the Commission, after hearing held either before or after such order takes effect, may prescribe by supplemental order such terms as it finds to be just and reasonable, including the compensation or reimbursement which should be paid to or by any such party.
 
 (2) With respect to an order issued under this subsection that may result in a conflict with a requirement of any Federal, State, or local environmental law or regulation, the Commission shall ensure that such order requires generation, delivery, interchange, or transmission of electric energy only during hours necessary to meet the emergency and serve the public interest, and, to the maximum extent practicable, is consistent with any applicable Federal, State, or local environmental law or regulation and minimizes any adverse environmental impacts.
 
@@ -32,7 +32,7 @@ After six months from August 26, 1935, no person shall transmit any electric ene
 
 #### (f) Transmission or sale at wholesale of electric energy; regulation
 
-The ownership or operation of facilities for the transmission or sale at wholesale of electric energy which is (a) generated within a State and transmitted from the State across an international boundary and not thereafter transmitted into any other State, or (b) generated in a foreign country and transmitted across an international boundary into a State and not thereafter transmitted into any other State, shall not make a person a public utility subject to regulation as such under other provisions of this subchapter. The State within which any such facilities are located may regulate any such transaction insofar as such State regulation does not conflict with the exercise of the Commission's powers under or relating to subsection (e).
+The ownership or operation of facilities for the transmission or sale at wholesale of electric energy which is (a) generated within a State and transmitted from the State across an international boundary and not thereafter transmitted into any other State, or (b) generated in a foreign country and transmitted across an international boundary into a State and not thereafter transmitted into any other State, shall not make a person a public utility subjectto regulation as such under other provisions of this subchapter. The State within which any such facilities are located may regulate any such transaction insofar as such State regulation does not conflict with the exercise of the Commission's powers under or relating to subsection (e).
 
 #### (g) Continuance of service
 
@@ -54,6 +54,8 @@ In order to insure continuity of service to customers of public utilities, the C
 
 (June 10, 1920, ch. 285, pt. II, §202, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 848; amended Aug. 7, 1953, ch. 343, 67 Stat. 461; Pub. L. 95–617, title II, §206(a), Nov. 9, 1978, 92 Stat. 3141; Pub. L. 114–94, div. F, §61002, Dec. 4, 2015, 129 Stat. 1772.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94, §61002(a), designated existing provisions as par. (1) and added pars. (2) to (5).
@@ -64,9 +66,13 @@ Subsec. (d). Pub. L. 114–94, §61002(b), inserted "or municipality" before "en
 
 <b>1953</b>—Subsec. (f). Act Aug. 7, 1953, added subsec. (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Pub. L. 95–617, title II, §206(b), Nov. 9, 1978, 92 Stat. 3142, provided that: "The amendment made by subsection (a) \[adding subsec. (g) of this section\] shall not affect any proceeding of the Commission \[Federal Energy Regulatory Commission\] pending on the date of the enactment of this Act \[Nov. 9, 1978\] or any case pending on such date respecting a proceeding of the Commission."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

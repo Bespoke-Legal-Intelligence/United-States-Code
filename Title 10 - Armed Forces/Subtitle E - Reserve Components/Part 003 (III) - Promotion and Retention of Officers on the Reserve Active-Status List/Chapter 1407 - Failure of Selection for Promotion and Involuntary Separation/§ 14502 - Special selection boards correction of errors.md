@@ -2,7 +2,7 @@
 
 (a)
 
-Officers Not Considered Because of Administrative Error.—(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under section 14101(a) of this title because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such boardshall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with section 14102 of this title and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in section 14103 of this title.
+Officers Not Considered Because of Administrative Error.—(1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under section 14101(a) of this title because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with section 14102 of this title and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in section 14103 of this title.
 
 (2) A special selection board convened under this subsection shall consider the record of the officer or former officer as that record would have appeared to the promotion board that should have considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
@@ -66,6 +66,8 @@ Designation of Boards.—The Secretary of the military department concerned may 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2947; amended Pub. L. 107–107, div. A, title V, §505(c)(3)(B), Dec. 28, 2001, 115 Stat. 1088; Pub. L. 109–364, div. A, title V, §514(b), Oct. 17, 2006, 120 Stat. 2185; Pub. L. 114–92, div. A, title V, §§502(c)(2), 512, Nov. 25, 2015, 129 Stat. 807, 809.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 5904 of this title, prior to repeal by Pub. L. 103–337, §1629(b)(2).
@@ -81,6 +83,8 @@ Subsec. (b)(3). Pub. L. 114–92, §512(2), in first sentence, substituted "The 
 <b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–364 inserted "in a matter material to the decision of the board" after "contrary to law".
 
 <b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted "or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error," after "because of administrative error,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

@@ -20,11 +20,11 @@
 
 #### (2) Publication
 
-&emsp;The Director shall make the report required under paragraph (1) publicly available on anInternet Web site, except that the Director shall not make publicly available on an Internet Web site the findings described in subparagraph (F) of paragraph (1).
+&emsp;The Director shall make the report required under paragraph (1) publicly available on an Internet Web site, except that the Director shall not make publicly available on an Internet Web site the findings described in subparagraph (F) of paragraph (1).
 
 #### (b) Mandatory reporting by Director of National Intelligence
 
-Except as provided in subsection (d), the Director of National Intelligence shall annually make publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
+Except as provided in subsection (d), the Director of National Intelligence shall annuallymake publicly available on an Internet Web site a report that identifies, for the preceding 12-month period—
 
 &emsp;(1) the total number of orders issued pursuant to subchapters I and II and sections 1881b and 1881c of this title and a good faith estimate of—
 
@@ -147,6 +147,8 @@ In this section:
 &emsp;The term "wire communication" has the meaning given that term under section 2510 of title 18.
 
 (Pub. L. 95–511, title VI, §603, as added Pub. L. 114–23, title VI, §602(a), June 2, 2015, 129 Stat. 292; amended Pub. L. 115–118, title I, §102(b), Jan. 19, 2018, 132 Stat. 9.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

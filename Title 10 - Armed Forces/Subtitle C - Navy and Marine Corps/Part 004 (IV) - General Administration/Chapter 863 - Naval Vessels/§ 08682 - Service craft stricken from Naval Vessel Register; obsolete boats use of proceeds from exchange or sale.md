@@ -46,7 +46,9 @@ Inapplicability of Advertising Requirement.—Section 6101 of title 41 does not 
 
 Regulations.—The Secretary of the Navy shall prescribe regulations for the purposes of this section.
 
-(Added Pub. L. 108–375, div. A, title X, §1012(a)(1), Oct. 28, 2004, 118 Stat. 2039, §7312; amended Pub. L. 113–291, div. A, title X, §1071(a)(12), Dec. 19, 2014, 128 Stat. 3505; renumbered §8682, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+(Added Pub. L. 108–375, div. A, title X, §1012(a)(1), Oct. 28, 2004, 118 Stat. 2039, §7312; amended Pub. L. 113–291, div. A, title X,§1071(a)(12), Dec. 19, 2014, 128 Stat. 3505; renumbered §8682, Pub. L. 115–232, div. A, title VIII, §807(d)(2), Aug. 13, 2018, 132 Stat. 1836.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -57,6 +59,8 @@ A prior section 8682, act Aug. 10, 1956, ch. 1041, 70A Stat. 535, provided that 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7312 of this title as this section.
 
 <b>2014</b>—Subsec. (f). Pub. L. 113–291 substituted "Section 6101 of title 41" for "Section 3709 of the Revised Statutes (41 U.S.C. 5)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -8,9 +8,11 @@ Any live poultry dealer, or any officer, director, agent, or employee of a live 
 
 &emsp;(3) after such order, or such order as modified, has been sustained by the courts as provided in section 228b–3 of this title;
 
-> shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during whichsuch failure continues shall be deemed a separate offense.
+> shall on conviction be fined not less than $1,000 nor more than $20,000. Each day during which such failure continues shall be deemed a separate offense.
 
 (Aug. 15, 1921, ch. 64, title IV, §413, as added Pub. L. 100–173, §9(2), Nov. 23, 1987, 101 Stat. 922.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

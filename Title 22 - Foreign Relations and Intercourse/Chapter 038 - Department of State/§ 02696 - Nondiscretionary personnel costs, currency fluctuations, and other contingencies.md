@@ -22,7 +22,7 @@ There are authorized to be appropriated for the Department of State, in addition
 
 (6) Any restriction contained in an appropriation Act or other provision of law limiting the amounts available for the Department of State that may be obligated or expended shall be deemed to be adjusted to the extent necessary to offset the net effect of fluctuations in foreign currency exchange rates or overseas wage and price changes in order to maintain approved levels.
 
-(7)(A) Subject to the limitations contained in this paragraph, not later than the end of the fifth fiscal year after the fiscal year for whichfunds are appropriated or otherwise made available for an account under "Administration of Foreign Affairs", the Secretary of State may transfer any unobligated balance of such funds to the Buying Power Maintenance account.
+(7)(A) Subject to the limitations contained in this paragraph, not later than the end of the fifth fiscal year after the fiscal year for which funds are appropriated or otherwise made available for an account under "Administration of Foreign Affairs", the Secretary of State may transfer any unobligated balance of such funds to the Buying Power Maintenance account.
 
 (B) The balance of the Buying Power Maintenance account may not exceed $100,000,000 as a result of any transfer under this paragraph.
 
@@ -36,7 +36,7 @@ Amounts authorized to be appropriated for a fiscal year for the Department of St
 
 #### (d) Accounts subject to percentage limitation
 
-(1) Subject to paragraphs (2) and (3), funds authorized to be appropriated for any account of the Department of State in the Department of State Appropriations Act, for either fiscal year of any two-year authorization cycle may be appropriated for such fiscal year for any other account of the Department of State.
+(1) Subject to paragraphs (2) and (3), funds authorized to be appropriated for any account ofthe Department of State in the Department of State Appropriations Act, for either fiscal year of any two-year authorization cycle may be appropriated for such fiscal year for any other account of the Department of State.
 
 (2) Amounts appropriated for the "Diplomatic and Consular Programs" account may not exceed by more than 5 percent the amount specifically authorized to be appropriated for such account for a fiscal year. No other appropriations account may exceed by more than 10 percent the amount specifically authorized to be appropriated for such account for a fiscal year.
 

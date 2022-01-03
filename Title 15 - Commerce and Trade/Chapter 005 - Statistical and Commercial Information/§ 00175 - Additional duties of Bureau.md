@@ -1,12 +1,16 @@
 ### §175. Additional duties of Bureau
 
-It shall be the province and duty of the Bureau of Foreign and Domestic Commerce, under the direction of the Secretary of Commerce, to foster, promote, and develop the various manufacturing industries of the United States, and markets for the same at home and abroad, domestic and foreign, by gathering, compiling, publishing, and supplying all available and useful information concerning such industries and such markets, and by such other methods and means as may be prescribed by the Secretary of Commerce or provided by law.
+It shall be the province and duty of the Bureau of Foreign and Domestic Commerce, under the direction of the Secretary of Commerce, to foster, promote, and develop the various manufacturing industries of the United States, and markets for the same at home and abroad, domestic and foreign, by gathering, compiling, publishing, and supplying all available and useful information concerning such industries and such markets, and by such other methods and means asmay be prescribed by the Secretary of Commerce or provided by law.
 
 (Feb. 14, 1903, ch. 552, §5, 32 Stat. 827; Apr. 5, 1906, ch. 1366, §3, 34 Stat. 100; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Aug. 13, 1946, ch. 957, title XI, §1131(23), 60 Stat. 1037.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1946</b>—Act Aug. 13, 1946, repealed last sentence relating to duties of consular officers with respect to the Bureau.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -18,9 +22,13 @@ Amendment by act Aug. 13, 1946, effective three months from Aug. 13, 1946, see s
 
 #### Transfer of Functions
 
-For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under section 172 of this title.
-
 Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
 
 Act Apr. 5, 1906, abolished the grade of commercial agent and commercial agent's function of helping to gather foreign trade information, reference to which formerly appeared in the last sentence of this section. Such last sentence was subsequently repealed by Act Aug. 13, 1946.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under section 172 of this title.
 

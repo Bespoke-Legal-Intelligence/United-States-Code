@@ -58,9 +58,11 @@ In this section, the term "representative of the President" means the following:
 
 (Pub. L. 107–314, div. D, title XLII, §4218, formerly Pub. L. 105–85, div. A, title XIII, §1305, Nov. 18, 1997, 111 Stat. 1952, renumbered Pub. L. 107–314, div. D, title XLII, §4218, and amended Pub. L. 112–239, div. C, title XXXI, §3164(a), (b), Jan. 2, 2013, 126 Stat. 2206; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(D), (c)(10), Dec. 26, 2013, 127 Stat. 1072, 1075; Pub. L. 113–291, div. C, title XXXI, §3142(e), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 116–92, div. C, title XXXI, §3139(b)(5), Dec. 20, 2019, 133 Stat. 1963.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 2533 of this title, referred to in subsec. (d), was in the original "section 4213", meaning section 4213 of Pub. L. 107–314, which is classified principally to section 2533 of this title.
+Section 2533 of this title, referred to in subsec. (d), was in the original "section 4213", meaning section 4213of Pub. L. 107–314, which is classified principally to section 2533 of this title.
 
 #### Codification
 
@@ -78,7 +80,7 @@ Subsec. (e)(1). Pub. L. 116–92, §3139(b)(5)(B), substituted "or a member of t
 
 Subsec. (e)(1). Pub. L. 113–291, §3142(e)(2), substituted "a representative" for "representatives" in introductory provisions.
 
-<b>2013</b>—Subsec. (a). Pub. L. 113–66, §3146(c)(10)(A), (B), redesignated subsec. (b) as (a) and struck out formersubsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §3146(c)(10)(A), (B), redesignated subsec. (b) as (a) and struck out former subsec. (a), which related to congressional findings concerning safety and reliability of the nuclear weapons stockpile.
 
 Subsec. (a)(9). Pub. L. 112–239, §3164(b)(1), (3), substituted "national security laboratories" for "nuclear weapons laboratories" and "nuclear weapons production facilities" for "nuclear weapons production plants".
 
@@ -107,6 +109,8 @@ Subsec. (f)(1). Pub. L. 113–66, §3146(a)(2)(D)(ii), struck out "established u
 Subsec. (g). Pub. L. 113–66, §3146(c)(10)(B), redesignated subsec. (g) as (f).
 
 Pub. L. 112–239, §3164(b)(5), amended subsec. (g) generally. Prior to amendment, subsec. (g) set out definitions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

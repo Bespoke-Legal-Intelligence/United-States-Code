@@ -4,9 +4,13 @@ Sole and exclusive jurisdiction over and within all the territory that is as of 
 
 (Mar. 6, 1942, ch. 150, §1, 56 Stat. 133.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 A provision accepting the act of the Michigan Legislature which ceded to the United States exclusive jurisdiction over the territory referred to in this section has been omitted as executed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Notice to Michigan of Sections 408i to 408q
 

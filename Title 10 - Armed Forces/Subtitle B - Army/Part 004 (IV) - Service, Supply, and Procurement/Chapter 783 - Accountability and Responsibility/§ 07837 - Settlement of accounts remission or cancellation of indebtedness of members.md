@@ -90,6 +90,8 @@ The change \[in subsec. (b)\] reflects the opinion of the Judge Advocate General
 
 The change \[in subsec. (f)\] reflects the opinion of the Assistant General Counsel (Fiscal Matters), Department of Defense (July 19, 1957), that section 1304, Revised Statutes (formerly 10 U.S.C. 872), the source law for this section, applied to warrant officers as well as to commissioned officers.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4837 of this title as this section.
@@ -119,6 +121,8 @@ Subsecs. (b) to (d). Pub. L. 109–364, §673(a)(2), redesignated subsecs. (c) a
 <b>1958</b>—Subsec. (b). Pub. L. 85–861, §33(a)(27)(A), substituted "his pay for that month" for "his basic pay for that month".
 
 Subsec. (f). Pub. L. 85–861, §33(a)(27)(B), substituted "an officer" for "a commissioned officer" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

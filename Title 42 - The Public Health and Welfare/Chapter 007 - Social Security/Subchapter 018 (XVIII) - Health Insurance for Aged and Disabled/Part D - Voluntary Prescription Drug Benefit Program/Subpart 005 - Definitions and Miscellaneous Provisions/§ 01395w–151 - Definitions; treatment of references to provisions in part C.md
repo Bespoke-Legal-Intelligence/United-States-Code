@@ -82,7 +82,7 @@ For purposes of this part:
 
 #### (b) Application of part C provisions under this part
 
-For purposes of applying provisions of part C under this part with respect to a prescription drug plan and a PDP sponsor, unless otherwise provided in this part such provisions shall be applied as if—
+For purposes of applying provisions of part C under this part with respect to a prescriptiondrug plan and a PDP sponsor, unless otherwise provided in this part such provisions shall be applied as if—
 
 &emsp;(1) any reference to an MA plan included a reference to a prescription drug plan;
 
@@ -95,6 +95,8 @@ For purposes of applying provisions of part C under this part with respect to a 
 &emsp;(5) any reference to an election period under section 1395w–21 of this title were a reference to an enrollment period under section 1395w–101 of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–41, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2148.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

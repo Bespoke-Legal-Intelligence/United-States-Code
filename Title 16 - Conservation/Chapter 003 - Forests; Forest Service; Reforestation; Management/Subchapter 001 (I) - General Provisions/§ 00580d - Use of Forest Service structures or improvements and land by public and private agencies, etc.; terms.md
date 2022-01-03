@@ -4,9 +4,13 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 (Apr. 24, 1950, ch. 97, §7, 64 Stat. 84; Pub. L. 105–277, div. A, §101(e) \[title III, §346\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Authorization for Lease of Forest Service Sites
 
@@ -272,7 +276,7 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 Administrative site.—The term 'administrative site' means—
 
-&emsp;&emsp;"(A) any facility or improvement, including curtilage, that was acquired or is used specifically for purposes of administration of the National Forest System;
+&emsp;&emsp;"(A) any facility or improvement, including curtilage, that was acquired or is used specificallyfor purposes of administration of the National Forest System;
 
 &emsp;&emsp;"(B) any Federal land associated with a facility or improvement described in subparagraph (A) that was acquired or is used specifically for purposes of administration of Forest Service activities and underlies or abuts the facility or improvement; or
 
@@ -460,7 +464,7 @@ Lead-based paint and asbestos abatement.—Notwithstanding any provision of law 
 
 &emsp;&emsp;"(A) provide notice to the person or entity acquiring the administrative site of the presence of the lead-based paint or asbestos-containing building material; and
 
-&emsp;&emsp;"(B) obtain written assurance from the person or entity acquiring the administrative site that theperson or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
+&emsp;&emsp;"(B) obtain written assurance from the person or entity acquiring the administrative site that the person or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
 
 &emsp;"(4)
 

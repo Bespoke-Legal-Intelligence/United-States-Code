@@ -86,7 +86,7 @@ For purposes of this section:
 
 #### (II) Amortization schedule
 
-&emsp;&emsp;&emsp;&emsp;Such election shall specify whether the amortization schedule under clause (ii) or (iii) shall apply to an election year, except that if a plan sponsor elects to have this subparagraph apply to 2 eligible plan years, the plan sponsor must elect the same schedule for both years.
+&emsp;&emsp;&emsp;&emsp;Such election shall specify whether the amortization schedule under clause (ii)or (iii) shall apply to an election year, except that if a plan sponsor elects to have this subparagraph apply to 2 eligible plan years, the plan sponsor must elect the same schedule for both years.
 
 #### (III) Other rules
 
@@ -154,7 +154,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;The term "installment acceleration amount" means, with respect to any plan year in a restriction period with respect to an election year, the sum of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of excess employee compensation determined under subparagraph (D) with respect to all employees for the plan year, plus
+&emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of excess employee compensation determined undersubparagraph (D) with respect to all employees for the plan year, plus
 
 &emsp;&emsp;&emsp;&emsp;(II) the aggregate amount of extraordinary dividends and redemptions determined under subparagraph (E) for the plan year.
 
@@ -208,7 +208,7 @@ For purposes of this section:
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;There shall not be taken into account under clause (i)(I) any amount includiblein income with respect to the granting after February 28, 2010, of service recipient stock (within the meaning of section 409A) that, upon such grant, is subject to a substantial risk of forfeiture (as defined under section 83(c)(1)) for at least 5 years from the date of such grant.
+&emsp;&emsp;&emsp;&emsp;There shall not be taken into account under clause (i)(I) any amount includible in income with respect to the granting after February 28, 2010, of service recipient stock (within the meaning of section 409A) that, upon such grant, is subject to a substantial risk of forfeiture (as defined under section 83(c)(1)) for at least 5 years from the date of such grant.
 
 #### (II) Secretarial authority
 
@@ -290,11 +290,19 @@ For purposes of this section:
 
 #### (iii) Elections for multiple plans
 
-&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan's shortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
+&emsp;&emsp;&emsp;If a plan sponsor makes elections under paragraph (2)(D) with respect to 2 or more plans, the Secretary shall provide rules for the application of this paragraph to such plans, including rules for the ratable allocation of any installment acceleration amount among such plans on the basis of each plan's relative reduction in the plan'sshortfall amortization installment for the first plan year in the amortization period described in subparagraph (A) (determined without regard to this paragraph).
 
 #### (iv) Mergers and acquisitions
 
 &emsp;&emsp;&emsp;The Secretary shall prescribe rules for the application of paragraph (2)(D) and this paragraph in any case where there is a merger or acquisition involving a plan sponsor making the election under paragraph (2)(D).
+
+#### (8) 15-year amortization
+
+&emsp;With respect to plan years beginning after December 31, 2021 (or, at the election of the plan sponsor, plan years beginning after December 31, 2018, December 31, 2019, or December 31, 2020)—
+
+&emsp;&emsp;(A) the shortfall amortization bases for all plan years preceding the first plan year beginning after December 31, 2021 (or after whichever earlier date is elected pursuant to this paragraph), and all shortfall amortization installments determined with respect to such bases, shall be reduced to zero, and
+
+&emsp;&emsp;(B) subparagraphs (A) and (B) of paragraph (2) shall each be applied by substituting "15-plan-year period" for "7-plan-year period".
 
 #### (d) Rules relating to funding target
 
@@ -370,7 +378,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) shall be available for crediting against the minimum required contribution, pursuant to an election under paragraph (3),
 
-&emsp;&emsp;(B) shall be applied as a reduction in the amount treated as the value of plan assetsfor purposes of this section, to the extent provided in paragraph (4), and
+&emsp;&emsp;(B) shall be applied as a reduction in the amount treated as the value of plan assets for purposes of this section, to the extent provided in paragraph (4), and
 
 &emsp;&emsp;(C) may be reduced at any time, pursuant to an election under paragraph (5).
 
@@ -442,7 +450,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The plan sponsor may elect to reduce by any amount the balance of the prefundingbalance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).
+&emsp;&emsp;The plan sponsor may elect to reduce by any amount the balance of the prefunding balance and the funding standard carryover balance for any plan year (but not below zero). Such reduction shall be effective prior to any determination of the value of plan assets for such plan year under this section and application of the balance in reducing the minimum required contribution for such plan for such plan year pursuant to an election under paragraph (2).
 
 #### (B) Coordination between prefunding balance and funding standard carryover balance
 
@@ -624,7 +632,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available.
+&emsp;&emsp;&emsp;&emsp;If a segment rate described in clause (i), (ii), or (iii) with respect to any applicable month (determined without regard to this clause) is less than the applicable minimum percentage, or more than the applicable maximum percentage, of the average of the segment rates described in such clause for years in the 25-year period ending with September 30 of the calendar year preceding the calendar year in which the plan year begins, then the segment rate described in such clause with respect to the applicable month shall be equal to the applicable minimum percentage or the applicable maximum percentage of such average, whichever is closest. The Secretary shall determine such average on an annual basis and may prescribe equivalent rates for years in any such 25-year period for which the rates described in any such clause are not available. Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.
 
 #### (II) Applicable minimum percentage; applicable maximum percentage
 
@@ -632,11 +640,13 @@ For purposes of this section—
 
 | If the calendar year is: | The applicable minimum percentage is: | The applicable maximum percentage is: |
 | :--- | :---: | ---: |
-| 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, or 2020 | 90% | 110% |
-| 2021 | 85% | 115% |
-| 2022 | 80% | 120% |
-| 2023 | 75% | 125% |
-| After 2023 | 70% | 130% |
+| Any year in the period starting in 2012 and ending in 2019 | 90% | 110% |
+| Any year in the period starting in 2020 and ending in 2030 | 95% | 105% |
+| 2031 | 90% | 110% |
+| 2032 | 85% | 115% |
+| 2033 | 80% | 120% |
+| 2034 | 75% | 125% |
+| After 2034 | 70% | 130%. |
 
 #### (D) Corporate bond yield curve
 
@@ -656,7 +666,7 @@ For purposes of this section—
 
 #### (F) Publication requirements
 
-&emsp;&emsp;The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D) for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall also publish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
+&emsp;&emsp;The Secretary shall publish for each month the corporate bond yield curve (and the corporate bond yield curve reflecting the modification described in section 417(e)(3)(D) for such month) and each of the rates determined under subparagraph (C) and the averages determined under subparagraph (C)(iv) for such month. The Secretary shall alsopublish a description of the methodology used to determine such yield curve and such rates which is sufficiently detailed to enable plans to make reasonable projections regarding the yield curve and such rates for future months based on the plan's projection of future interest rates.
 
 #### (3) Mortality tables
 
@@ -891,7 +901,7 @@ For purposes of this section—
 
 #### (A) Failure to timely make required installment
 
-&emsp;&emsp;In any case in which the plan has a funding shortfall for the preceding plan year, the employer maintaining the plan shall make the required installments under this paragraph and if the employer fails to pay the full amount of a required installment for the plan year, then the amount of interest charged under paragraph (2) on the underpayment for the period of underpayment shall be determined by using a rate of interest equal to the rate otherwise used under paragraph (2) plus 5 percentage points. In the case of plan years beginning in 2008, the funding shortfall for the preceding plan yearmay be determined using such methods of estimation as the Secretary may provide.
+&emsp;&emsp;In any case in which the plan has a funding shortfall for the preceding plan year, the employer maintaining the plan shall make the required installments under this paragraph and if the employer fails to pay thefull amount of a required installment for the plan year, then the amount of interest charged under paragraph (2) on the underpayment for the period of underpayment shall be determined by using a rate of interest equal to the rate otherwise used under paragraph (2) plus 5 percentage points. In the case of plan years beginning in 2008, the funding shortfall for the preceding plan year may be determined using such methods of estimation as the Secretary may provide.
 
 #### (B) Amount of underpayment, period of underpayment
 
@@ -998,7 +1008,7 @@ For purposes of this section—
 
 #### (i) Liquidity shortfall
 
-&emsp;&emsp;&emsp;The term "liquidity shortfall" means, with respect to any required installment,an amount equal to the excess (as of the last day of the quarter for which such installment is made) of—
+&emsp;&emsp;&emsp;The term "liquidity shortfall" means, with respect to any required installment, an amount equal to the excess (as of the last day of the quarter for which such installment is made) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the base amount with respect to such quarter, over
 
@@ -1100,13 +1110,21 @@ In the case of a qualified transfer (as defined in section 420), any assets so t
 
 #### (1) In general
 
-&emsp;The plan sponsor of a community newspaper plan under which no participant has had the participant's accrued benefit increased (whether because of service or compensation) after December 31, 2017, may elect to have the alternative standards described in paragraph (3) apply to such plan, and any plan sponsored by any member of the same controlled group.
+&emsp;An eligible newspaper plan sponsor of a plan under which no participant has had the participant's accrued benefit increased (whether because of service or compensation) after April 2, 2019, may elect to have the alternative standards described in paragraph (4) apply to such plan.
 
-#### (2) Election
+#### (2) Eligible newspaper plan sponsor
+
+&emsp;The term "eligible newspaper plan sponsor" means the plan sponsor of—
+
+&emsp;&emsp;(A) any community newspaper plan, or
+
+&emsp;&emsp;(B) any other plan sponsored, as of April 2, 2019, by a member of the same controlled group of a plan sponsor of a community newspaper plan if such member is in the trade or business of publishing 1 or more newspapers.
+
+#### (3) Election
 
 &emsp;An election under paragraph (1) shall be made at such time and in such manner as prescribed by the Secretary. Such election, once made with respect to a plan year, shall apply to all subsequent plan years unless revoked with the consent of the Secretary.
 
-#### (3) Alternative minimum funding standards
+#### (4) Alternative minimum funding standards
 
 &emsp;The alternative standards described in this paragraph are the following:
 
@@ -1148,49 +1166,57 @@ In the case of a qualified transfer (as defined in section 420), any assets so t
 
 &emsp;&emsp;Subsection (i) shall not apply.
 
-#### (4) Community newspaper plan
+#### (5) Community newspaper plan
 
 &emsp;For purposes of this subsection—
 
 #### (A) In general
 
-&emsp;&emsp;The term "community newspaper plan" means a plan to which this section applies maintained by an employer which, as of December 31, 2017—
+&emsp;&emsp;The term "community newspaper plan" means any plan to which this section applies maintained as of December 31, 2018, by an employer which—
 
-&emsp;&emsp;&emsp;(i) publishes and distributes daily, either electronically or in printed form, 1 or more community newspapers in a single State,
+&emsp;&emsp;&emsp;(i) maintains the plan on behalf of participants and beneficiaries with respect toemployment in the trade or business of publishing 1 or more newspapers which were published by the employer at any time during the 11-year period ending on December 20, 2019,
 
-&emsp;&emsp;&emsp;(ii) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company,
+&emsp;&emsp;&emsp;(ii)(I) is not a company the stock of which is publicly traded (on a stock exchange or in an over-the-counter market), and is not controlled, directly or indirectly, by such a company, or
+
+&emsp;&emsp;&emsp;(II) is controlled, directly or indirectly, during the entire 30-year period ending on December 20, 2019, by individuals who are members of the same family, and does not publish or distribute a daily newspaper that is carrier-distributed in printed form in more than 5 States, and
 
 &emsp;&emsp;&emsp;(iii) is controlled, directly or indirectly—
 
-&emsp;&emsp;&emsp;&emsp;(I) by 1 or more persons residing primarily in the State in which the community newspaper is published,
+&emsp;&emsp;&emsp;&emsp;(I) by 1 or more persons residing primarily in a State in which the community newspaper has been published on newsprint or carrier-distributed,
 
-&emsp;&emsp;&emsp;&emsp;(II) for not less than 30 years by individuals who are members of the same family,
+&emsp;&emsp;&emsp;&emsp;(II) during the entire 30-year period ending on December 20, 2019, by individuals who are members of the same family,
 
-&emsp;&emsp;&emsp;&emsp;(III) by a trust created or organized in the State in which the community newspaper is published, the sole trustees of which are persons described in subclause (I) or (II),
+&emsp;&emsp;&emsp;&emsp;(III) by 1 or more trusts, the sole trustees of which are persons described in subclause (I) or (II), or
 
-&emsp;&emsp;&emsp;&emsp;(IV) by an entity which is described in section 501(c)(3) and exempt from taxation under section 501(a), which is organized and operated in the State in which the community newspaper is published, and the primary purpose of which is to benefit communities in such State, or
+&emsp;&emsp;&emsp;&emsp;(IV) by a combination of persons described in subclause (I), (II), or (III).
 
-&emsp;&emsp;&emsp;&emsp;(V) by a combination of persons described in subclause (I), (III), or (IV), and
+#### (B) Newspaper
 
-&emsp;&emsp;&emsp;(iv) does not control, directly or indirectly, any newspaper in any other State.
+&emsp;&emsp;The term "newspaper" does not include any newspaper (determined without regard to this subparagraph) to which any of the following apply:
 
-#### (B) Community newspaper
+&emsp;&emsp;&emsp;(i) Is not in general circulation.
 
-&emsp;&emsp;The term "community newspaper" means a newspaper which primarily serves a metropolitan statistical area, as determined by the Office of Management and Budget, with a population of not less than 100,000.
+&emsp;&emsp;&emsp;(ii) Is published (on newsprint or electronically) less frequently than 3 times per week.
+
+&emsp;&emsp;&emsp;(iii) Has not ever been regularly published on newsprint.
+
+&emsp;&emsp;&emsp;(iv) Does not have a bona fide list of paid subscribers.
 
 #### (C) Control
 
 &emsp;&emsp;A person shall be treated as controlled by another person if such other person possesses, directly or indirectly, the power to direct or cause the direction and management of such person (including the power to elect a majority of the members of the board of directors of such person) through the ownership of voting securities.
 
-#### (5) Controlled group
+#### (6) Controlled group
 
-&emsp;For purposes of this subsection, the term "controlled group" means all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 as of the date of the enactment of this subsection.
+&emsp;For purposes of this subsection, the term "controlled group" means all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 as of December 20, 2019.
 
-(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118; Pub. L. 111–192, title II, §§201(b), 204(b), June 25, 2010, 124 Stat. 1290, 1301; Pub. L. 112–141, div. D, title II, §40211(a)(1), (2)(B), July 6, 2012, 126 Stat. 846, 847; Pub. L. 113–159, title II, §2003(a), (d)(1), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(i), (D)(i), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(a), Nov. 2, 2015, 129 Stat. 593; Pub. L. 115–97, title I, §11002(d)(1)(X), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(99), (100), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 116–94, div. O, title I, §115(a), Dec. 20, 2019, 133 Stat. 3156.)
+(Added Pub. L. 109–280, title I, §112(a), Aug. 17, 2006, 120 Stat. 826; amended Pub. L. 110–458, title I, §§101(b)(2), 121(b), title II, §202(b), Dec. 23, 2008, 122 Stat. 5095, 5113, 5118; Pub. L. 111–192, title II, §§201(b), 204(b), June 25, 2010, 124 Stat. 1290, 1301; Pub. L. 112–141, div. D, title II, §40211(a)(1), (2)(B), July 6, 2012, 126 Stat. 846, 847; Pub. L. 113–159, title II, §2003(a), (d)(1), Aug. 8, 2014, 128 Stat. 1849, 1851; Pub. L. 113–295, div. A, title II, §221(a)(57)(C)(i), (D)(i), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 114–74, title V, §504(a), Nov. 2, 2015, 129 Stat. 593; Pub. L. 115–97, title I, §11002(d)(1)(X), Dec. 22, 2017, 131 Stat. 2060; Pub. L. 115–141, div. U, title IV, §401(a)(99), (100), Mar. 23, 2018, 132 Stat. 1189; Pub. L. 116–94, div. O, title I, §115(a), Dec. 20, 2019, 133 Stat. 3156; Pub. L. 117–2, title IX, §§9705(a), 9706(a), 9707(a), Mar. 11, 2021, 135 Stat. 199, 200, 202; Pub. L. 117–58, div. H, title VI, §80602(a), Nov. 15, 2021, 135 Stat. 1338.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -1202,9 +1228,17 @@ The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)
 
 The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The date of the enactment of this subsection, referred to in subsec. (m)(5), is the date of enactment of Pub. L. 116–94, which was approved Dec. 20, 2019.
-
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(8). Pub. L. 117–2, §9705(a), added par. (8).
+
+Subsec. (h)(2)(C)(iv)(I). Pub. L. 117–2, §9706(a)(2), inserted at end "Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent."
+
+Subsec. (h)(2)(C)(iv)(II). Pub. L. 117–58 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2029 and after.
+
+Pub. L. 117–2, §9706(a)(1), amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2023 and after.
+
+Subsec. (m). Pub. L. 117–2, §9707(a), amended subsec. (m) generally, revising special rules for community newspaper plans.
 
 <b>2019</b>—Subsec. (m). Pub. L. 116–94 added subsec. (m).
 
@@ -1214,7 +1248,7 @@ Subsec. (h)(2)(F). Pub. L. 115–141, §401(a)(100), substituted "section 417(e)
 
 <b>2017</b>—Subsec. (c)(7)(D)(vii)(II). Pub. L. 115–97 substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
 
-<b>2015</b>—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2020 and after.
+<b>2015</b>—Subsec. (h)(2)(C)(iv)(II). Pub. L. 114–74 amended table generally. Prior to amendment, table related toapplicable minimum and maximum percentages for calendar years 2012 to 2020 and after.
 
 <b>2014</b>—Subsec. (c)(5). Pub. L. 113–295, §221(a)(57)(C)(i), struck out subpar. (A) designation and heading and subpar. (B) which related to a transition rule for plan years beginning after 2007 and before 2011.
 
@@ -1240,7 +1274,7 @@ Subsec. (j)(3)(F). Pub. L. 111–192, §201(b)(3)(B), added subpar. (F).
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–458, §101(b)(2)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: "For purposes of this section, except as provided in subsection (i)(2) with respect to plans in at-risk status, the term 'target normal cost' means, for any plan year, the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year. For purposes of this subsection, if any benefit attributable to services performed in a preceding plan year is increased by reason of any increase in compensation during the current plan year, the increase in such benefit shall be treated as having accrued during the current plan year."
 
-Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(b)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into accountunder paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A)."
+Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(b)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A)."
 
 Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(b)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph)."
 
@@ -1281,6 +1315,32 @@ Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(2)(G)(iii), (iv), substituted ",�
 Subsec. (k)(1). Pub. L. 110–458, §101(b)(2)(H)(i), inserted "(as provided under paragraph (2))" after "applies" in introductory provisions.
 
 Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(2)(H)(ii), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under section 430" before period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. H, title VI, §80602(c), Nov. 15, 2021, 135 Stat. 1339, provided that: "The amendments made by this section \[amending this section and sections 1021 and 1083 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2021."
+
+Pub. L. 117–2, title IX, §9705(c), Mar. 11, 2021, 135 Stat. 200, provided that: "The amendments made by this section \[amending this section and section 1083 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2018."
+
+Pub. L. 117–2, title IX, §9706(c), Mar. 11, 2021, 135 Stat. 201, provided that:
+
+"(1)
+
+In general.—The amendments made by this section \[amending this section and sections 1021 and 1083 of Title 29, Labor\] shall apply with respect to plan years beginning after December 31, 2019.
+
+"(2)
+
+Election not to apply.—A plan sponsor may elect not to have the amendments made by this section apply to any plan year beginning before January 1, 2022, either (as specified in the election)—
+
+&emsp;"(A) for all purposes for which such amendments apply, or
+
+&emsp;"(B) solely for purposes of determining the adjusted funding target attainment percentage under sections 436 of the Internal Revenue Code of 1986 and 206(g) ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1056(g)\] for such plan year.
+
+> A plan shall not be treated as failing to meet the requirements of sections 204(g) of such Act \[29 U.S.C. 1054(g)\] and 411(d)(6) of such Code solely by reason of an election under this paragraph."
+
+Pub. L. 117–2, title IX, §9707(c), Mar. 11, 2021, 135 Stat. 206, provided that: "The amendments made by this section \[amending this section and section 1083 of Title 29, Labor\] shall apply to plan years ending after December 31, 2017."
 
 #### Effective Date of 2019 Amendment
 
@@ -1597,7 +1657,7 @@ Special Rules for Certain Balances and Waivers.—In the case of an eligible pla
 
 &emsp;"(1)
 
-Funding standard account and credit balances.—Any charge or credit in the funding standard account under section 302 of such Act \[29 U.S.C. 1082\] or section 412 of such Code, and any prefunding balance or funding standard carryover balance under section 303 of such Act \[29 U.S.C. 1083\] or section 430 of such Code, as of the day before the first day of the first applicable plan year, shall be reduced to zero.
+Funding standard account and credit balances.—Any charge or credit in the funding standard account under section 302 of such Act \[29 U.S.C. 1082\] or section 412 of such Code, and any prefunding balance or funding standard carryover balance undersection 303 of such Act \[29 U.S.C. 1083\] or section 430 of such Code, as of the day before the first day of the first applicable plan year, shall be reduced to zero.
 
 &emsp;"(2)
 

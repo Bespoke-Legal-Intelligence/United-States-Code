@@ -26,6 +26,8 @@ Budgetary and Reporting Requirements.—The Secretary of the Army shall submit t
 
 (Added Pub. L. 112–81, div. A, title V, §591(a)(1), Dec. 31, 2011, 125 Stat. 1439, §4721; renumbered §7721, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7721 was renumbered section 8891 of this title.
@@ -33,6 +35,8 @@ A prior section 7721 was renumbered section 8891 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4721 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

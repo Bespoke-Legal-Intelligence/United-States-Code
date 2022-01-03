@@ -4,7 +4,7 @@ This part shall not apply to any provision in a bill, joint resolution, amendmen
 
 &emsp;(1) enforces constitutional rights of individuals;
 
-&emsp;(2) establishes or enforces any statutory rights that prohibit discrimination on thebasis of race, color, religion, sex, national origin, age, handicap, or disability;
+&emsp;(2) establishes or enforces any statutory rights that prohibit discrimination on the basis of race, color, religion, sex, national origin, age, handicap, or disability;
 
 &emsp;(3) requires compliance with accounting and auditing procedures with respect to grants or other money or property provided by the Federal Government;
 

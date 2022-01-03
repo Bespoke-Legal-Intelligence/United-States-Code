@@ -30,7 +30,7 @@ The lien imposed by subsection (a) arises on the date of termination of a plan, 
 
 (2) In a case under title 11 or in insolvency proceedings, the lien imposed under subsection (a) shall be treated in the same manner as a tax due and owing to the United States for purposes of title 11 or section 3713 of title 31.
 
-(3) For purposes of applying section 6323(a) of title 26 to determine the priority between the lien imposed under subsection (a) and a Federal tax lien, each lien shall be treated as a judgment lien arising as of the time notice of such lien is filed.
+(3) For purposes of applying section 6323(a) of title 26 to determine the priority between the lien imposed under subsection (a) and a Federaltax lien, each lien shall be treated as a judgment lien arising as of the time notice of such lien is filed.
 
 (4) For purposes of this subsection, notice of the lien imposed by subsection (a) shall be filed in the same manner as under section 6323(f) and (g) of title 26.
 
@@ -78,7 +78,7 @@ Pub. L. 100–203, §9312(b)(2)(C)(ii), inserted at end "The preceding provision
 
 <b>1986</b>—Pub. L. 99–272, §11016(a)(6)(B)(i), struck out "of employer" after "liability" in section catchline.
 
-Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted "person liable" for "employer or employers liable", "neglects or refuses" for "neglect or refuse", and "such person" for "such employer or employers"and inserted "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
+Subsec. (a). Pub. L. 99–272, §11016(a)(6)(B)(ii), substituted "person liable" for "employer or employers liable", "neglects or refuses" for "neglect or refuse", and "such person" for "such employer or employers" and inserted "to the extent of an amount equal to the unpaid amount described in section 1362(b)(1)(A)(i) of this title" in two places.
 
 Subsec. (c)(1). Pub. L. 99–272, §11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: "Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) shall be determined in the same manner as under section 6323 of title 26. Such section 6323 shall be applied by substituting 'lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974' for 'lien imposed by section 6321'; 'corporation' for 'Secretary or his delegate'; 'employer liability lien' for 'tax lien'; 'employer' for 'taxpayer'; 'lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974' for 'assessment of the tax'; and 'payment of the loan value is made to the corporation' for 'satisfaction of a levy pursuant to section 6332(b)'; each place such terms appear."
 

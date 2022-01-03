@@ -20,6 +20,8 @@ Civil Service Protections.—(1) If, in the case of a position established under
 
 (Added Pub. L. 104–201, div. A, title XVI, §1632(d), Sept. 23, 1996, 110 Stat. 2750.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as an Effective Date of 1996 Amendment note under section 1593 of this title.

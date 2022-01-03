@@ -82,7 +82,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (iii) Effect on need analysis
 
-&emsp;&emsp;&emsp;For the purpose of calculating a student's need in accordance with part F, an in-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student's parent.
+&emsp;&emsp;&emsp;For the purpose of calculating a student's need in accordance with part F, anin-kind contribution described in clause (ii) shall not be considered an asset or income of the student or the student's parent.
 
 #### (c) Application for allotment
 
@@ -98,7 +98,7 @@ It is the purpose of this section to expand college access and increase college 
 
 &emsp;&emsp;&emsp;(i) A description of the State's plan for using the allotted funds.
 
-&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shallspecify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
+&emsp;&emsp;&emsp;(ii) An assurance that the State will provide matching funds, in cash or in kind, from State, institutional, philanthropic, or private funds, of not less than 33.33 percent of the cost of carrying out the activities under subsection (d). The State shall specify the methods by which matching funds will be paid. A State that uses non-Federal funds to create or expand partnerships with entities described in subsection (a)(1), in which such entities match State funds for student scholarships, may apply such matching funds from such entities toward fulfilling the State's matching obligation under this clause.
 
 &emsp;&emsp;&emsp;(iii) An assurance that the State will use funds provided under this section to supplement, and not supplant, Federal and State funds available for carrying out the activities under this subchapter.
 
@@ -182,7 +182,7 @@ It is the purpose of this section to expand college access and increase college 
 
 #### (A) Establishment of partnership
 
-&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establisha partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
+&emsp;&emsp;Each State receiving an allotment under this section shall use the funds to establish a partnership to award grants for access and persistence to eligible low-income students in order to increase the amount of financial assistance such students receive under this subpart for undergraduate education expenses.
 
 #### (B) Amount of grants
 
@@ -312,6 +312,8 @@ Not later than three years after August 14, 2008, and annually thereafter, the S
 
 <i>See 2020 Amendment notes below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 415E of Pub. L. 89–329 was renumbered section 415F and is classified to section 1070c–4 of this title.
@@ -331,6 +333,8 @@ Subsec. (d)(3)(A)(i). Pub. L. 116–260, §704(3), substituted "a student aid in
 <b>2000</b>—Subsec. (c). Pub. L. 106–554, §1(a)(1) \[title III, §316(2)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsec. (c) and striking out former subsec. (c), was executed to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress. Prior to amendment, subsec. (c) listed the activities for which States receiving a grant under this section were authorized to use the grant funds.
 
 Subsecs. (f), (g). Pub. L. 106–554, §1(a)(1) \[title III, §316(3)\], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

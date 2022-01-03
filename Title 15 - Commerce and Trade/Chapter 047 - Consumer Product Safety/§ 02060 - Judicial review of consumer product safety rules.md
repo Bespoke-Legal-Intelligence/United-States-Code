@@ -2,7 +2,7 @@
 
 #### (a) Petition by persons adversely affected, consumers, or consumer organizations
 
-Not later than 60 days after a consumer product safety rule is promulgated by the Commission, any person adversely affected by such rule, or any consumer or consumer organization, may file a petition with the United States court of appeals for the District of Columbia, or for the circuit in which such person, consumer, or organization resides or has his principal place of business for judicial review of such rule. Copies of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose and to the Attorney General. The record of the proceedings on which the Commission based itsrule shall be filed in the court as provided for in section 2112 of title 28. For purposes of this section, the term "record" means such consumer product safety rule; any notice or proposal published pursuant to section 2056, 2057, or 2058 of this title; the transcript required by section 2058(d)(2) of this title of any oral presentation; any written submission of interested parties; and any other information which the Commission considers relevant to such rule.
+Not later than 60 days after a consumer product safety rule is promulgated by the Commission, any person adversely affected by such rule, or any consumer or consumer organization, may file a petition with the United States court of appeals for the District of Columbia, or for the circuit in which such person, consumer, or organization resides or has his principal place of business for judicial review of such rule. Copies of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose and to the Attorney General. The record of the proceedings on which the Commission based its rule shall be filed in the court as provided for in section 2112 of title 28. For purposes of this section, the term "record" means such consumer product safety rule; any notice or proposal published pursuant to section 2056, 2057, or 2058 of this title; the transcript required by section 2058(d)(2) of this title of any oral presentation; any written submission of interested parties; and any other information which the Commission considers relevant to such rule.
 
 #### (b) Additional data, views, or arguments
 
@@ -56,6 +56,8 @@ For purposes of this section and sections 2072(a) and 2073 of this title, a reas
 
 (Pub. L. 92–573, §11, Oct. 27, 1972, 86 Stat. 1218; Pub. L. 94–284, §§10(b), 11(a), May 11, 1976, 90 Stat. 507; Pub. L. 97–35, title XII, §1211(h)(1)–(3)(A), Aug. 13, 1981, 95 Stat. 723; Pub. L. 97–414, §9(j)(2), Jan. 4, 1983, 96 Stat. 2064; Pub. L. 110–314, title II, §236(a), Aug. 14, 2008, 122 Stat. 3075.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (g). Pub. L. 110–314 added subsec. (g).
@@ -71,6 +73,8 @@ Subsec. (f). Pub. L. 97–35, §1211(h)(3)(A), added subsec. (f).
 <b>1976</b>—Subsec. (a). Pub. L. 94–284, §11(a), permitted the Commission to file the record of its proceedings on which its rule was based with the court in lieu of transmitting the record to the Attorney General.
 
 Subsec. (c). Pub. L. 94–284, §10(b), inserted provision permitting the court to award costs, including reasonable attorneys' fees, in the interest of justice.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

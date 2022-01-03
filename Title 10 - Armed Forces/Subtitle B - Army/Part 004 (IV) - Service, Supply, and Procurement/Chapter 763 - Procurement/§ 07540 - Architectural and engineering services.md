@@ -34,6 +34,8 @@ In subsection (a), the words "and providing that in the opinion" are omitted as 
 
 In subsection (c), reference is made in substance to the Classification Act of 1949, instead of the Classification Act of 1923 referred to in the source statute, since section 1106(a) of the Classification Act of 1949, 63 Stat. 972, provides that all references in other acts to the Classification Act of 1923 should be considered to refer to the Classification Act of 1949.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4540 of this title as this section.
@@ -45,6 +47,8 @@ In subsection (c), reference is made in substance to the Classification Act of 1
 Pub. L. 95–454, §703(c)(3), substituted "7204" for "7154".
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–718 substituted "Sections 305, 3324, 5101–5115, 5331–5338, 5341, 5342, and 7154 of title 5" for "Sections 1071–1153 of title 5".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

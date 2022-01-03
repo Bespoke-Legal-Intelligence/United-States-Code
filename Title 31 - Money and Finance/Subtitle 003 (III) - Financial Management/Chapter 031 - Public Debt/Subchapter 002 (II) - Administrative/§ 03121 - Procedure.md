@@ -16,7 +16,7 @@
 
 &emsp;(7) other conditions.
 
-(b)(1) Under conditions prescribed by the Secretary, an obligation issued under this chapterand redeemable on demand of the owner or holder may be used to pay the United States Government for taxes imposed by it.
+(b)(1) Under conditions prescribed by the Secretary, an obligation issued under this chapter and redeemable on demand of the owner or holder may be used to pay the United States Government for taxes imposed by it.
 
 (2) An obligation of the Government issued after March 3, 1971, under law may not be redeemed before its maturity to pay a tax imposed by the Government in an amount more than the fair market value of the obligation at the time of its redemption. This paragraph does not apply to a Treasury bill issued under section 3104 of this title.
 
@@ -44,7 +44,7 @@
 
 (3) Nothing in this subsection shall be construed to affect in any way the powers of such agencies under any other provision of law.
 
-(4) The Secretary shall, prior to adopting regulations under this subsection, determine with respect to each appropriate regulatory agency and the National Credit Union Administration Board, whether its rules and standards adequately meet the purposes of regulations to be promulgated under this subsection, and if the Secretary so determines, shall exempt any depository institution subject to such rules or standards from the regulations promulgated under this subsection.
+(4) The Secretary shall, prior to adopting regulations under this subsection, determine with respect to each appropriate regulatory agency and the National Credit Union AdministrationBoard, whether its rules and standards adequately meet the purposes of regulations to be promulgated under this subsection, and if the Secretary so determines, shall exempt any depository institution subject to such rules or standards from the regulations promulgated under this subsection.
 
 (5) As used in this subsection—
 

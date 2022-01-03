@@ -4,6 +4,8 @@ Not more than 6 percent of the amount of assistance received by a State, territo
 
 (Pub. L. 101–610, title I, §117, as added Pub. L. 111–13, title I, §1201, Apr. 21, 2009, 123 Stat. 1474.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 12529, Pub. L. 101–610, title I, §116, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 832, related to Federal, State, and local contributions, prior to the general amendment of this part by Pub. L. 111–13, effective Oct. 1, 2009.
@@ -32,7 +34,7 @@ Section 12543, Pub. L. 101–610, title I, §117B, as added Pub. L. 103–82, ti
 
 Another prior section 12543, Pub. L. 101–610, title I, §123, Nov. 16, 1990, 104 Stat. 3141, as amended, which related to applications for assistance by States, Indian tribes and other local applicants, was renumbered section 199C of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655b of this title.
 
-Section 12544, Pub. L. 101–610, title I, §117C, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat.834, set forth an application process for local grant eligibility.
+Section 12544, Pub. L. 101–610, title I, §117C, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 834, set forth an application process for local grant eligibility.
 
 Another prior section 12544, Pub. L. 101–610, title I, §124, Nov. 16, 1990, 104 Stat. 3143, as amended, which prescribed appropriate focus for conservation and youth service corps programs, was renumbered section 199D of Pub. L. 101–610 by Pub. L. 103–82, §101(a), and transferred to section 12655c of this title.
 
@@ -62,11 +64,13 @@ A prior section 12552, Pub. L. 101–610, title I, §132, Nov. 16, 1990, 104 Sta
 
 A prior section 12553, Pub. L. 101–610, title I, §133, Nov. 16, 1990, 104 Stat. 3147, as amended, which related to living allowance, was successively renumbered section 199M, then 199K, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655l of this title.
 
-A prior section 12554, Pub. L. 101–610, title I, §134, Nov. 16, 1990, 104 Stat. 3148, which related to joint programs, was successively renumbered section 199N, then 199L, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655m of this title.
+A prior section 12554, Pub. L. 101–610, title I, §134, Nov. 16, 1990, 104 Stat. 3148, which related to joint programs, was successively renumbered section 199N, then199L, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655m of this title.
 
 A prior section 12555, Pub. L. 101–610, title I, §135, Nov. 16, 1990, 104 Stat. 3149, which related to Federal and State employee status, was successively renumbered section 199O, then 199M, of Pub. L. 101–610 by Pub. L. 103–82, §101(a), (e)(8)(B), and transferred to section 12655n of this title.
 
 A prior section 12556, Pub. L. 101–610, title I, §136, Nov. 16, 1990, 104 Stat. 3150, directed Commission on National and Community Service to promulgate regulations implementing American Conservation Youth Corps program and established procedures for promulgation, prior to repeal by Pub. L. 102–10, §5(7), Mar. 12, 1991, 105 Stat. 31.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

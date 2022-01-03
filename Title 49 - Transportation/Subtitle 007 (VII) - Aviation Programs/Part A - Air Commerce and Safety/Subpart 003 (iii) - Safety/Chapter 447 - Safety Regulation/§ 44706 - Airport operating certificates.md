@@ -10,7 +10,7 @@ General.—The Administrator of the Federal Aviation Administration shall issue 
 
 &emsp;(3) that the Administrator requires to have a certificate;
 
-> if the Administrator finds, after investigation, that the person properly and adequately is equipped and able to operate safely under this part and regulations and standards prescribed under this part.
+> if the Administrator finds, after investigation, that the person properly and adequately isequipped and able to operate safely under this part and regulations and standards prescribed under this part.
 
 (b)
 
@@ -68,6 +68,8 @@ In subsection (a), before clause (1), the words "may file with the Administrator
 
 In subsection (b), before clause (1), the words "conditions, and limitations . . . reasonably" are omitted as surplus. In clause (2), the words "grooving or other" are omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–264, §404(a), added par. (2), redesignated former par. (2) as (3), substituted "if" for "(3) when" in former par. (3) and adjusted the margins of that par. to make it a flush provision following par. (3).
@@ -77,6 +79,8 @@ Subsec. (d). Pub. L. 104–264, §404(b), added subsec. (d).
 Subsec. (e). Pub. L. 104–264, §404(c), added subsec. (e).
 
 Subsec. (f). Pub. L. 104–264, §404(d), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 
@@ -92,9 +96,9 @@ Pub. L. 115–254, div. B, title III, §332(a), Oct. 5, 2018, 132 Stat. 3273, pr
 
 #### Improvement of Runway Safety Areas
 
-Pub. L. 109–115, div. A, title I, Nov. 30, 2005, 119 Stat. 2401, provided in part: "That not later than December 31, 2015, the owner or operator of an airport certificated under 49 U.S.C. 44706 shall improve the airport's runway safety areas to comply with the Federal Aviation Administration design standards required by 14 CFR part 139: <i>Provided further</i>, That the Federal Aviation Administration shall report annually to the Congress on theagency's progress toward improving the runway safety areas at 49 U.S.C. 44706 airports."
+Pub. L. 109–115, div. A, title I, Nov. 30, 2005, 119 Stat. 2401, provided in part: "That not later than December 31, 2015, the owner or operator of an airport certificated under 49 U.S.C. 44706 shall improve the airport's runway safety areas to comply with the Federal Aviation Administration design standards required by 14 CFR part 139: <i>Provided further</i>, That the Federal Aviation Administration shall report annually to the Congress on the agency's progress toward improving the runway safety areas at 49 U.S.C. 44706 airports."
 
 #### Small Airport Certification
 
-Pub. L. 106–181, title V, §518, Apr. 5, 2000, 114 Stat. 145, provided that: "Not later than 60 days after the date of the enactment of this Act \[Apr. 5, 2000\], the Administrator \[of the Federal Aviation Administration\] shall issue a notice of proposed rulemaking on implementing section 44706(a)(2) of title 49, United States Code, relating to issuance of airport operating certificates for small scheduled passenger air carrier operations. Not later than 1 year after the last day of the period for public comment provided for in the notice of proposed rulemaking, the Administrator shall issue a final rule on implementing such program."
+Pub. L. 106–181, title V, §518, Apr. 5, 2000, 114 Stat. 145, provided that, not later than 60 days after Apr. 5, 2000, the Administrator of the Federal Aviation Administration would issue a notice of proposed rulemaking on implementing subsec. (a)(2) of this section relating to issuance of airport operating certificates for small scheduled passenger air carrier operations, and not later than 1 year after the last day of the period for public comment provided for in the notice of proposed rulemaking, the Administrator would issue a final rule on implementing this program.
 

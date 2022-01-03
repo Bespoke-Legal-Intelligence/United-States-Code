@@ -4,6 +4,8 @@ Whenever any part of a State not declared to be in insurrection is under the con
 
 (R.S. §5302.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5302 derived from act July 2, 1864, ch. 225, §5, 13 Stat. 376.

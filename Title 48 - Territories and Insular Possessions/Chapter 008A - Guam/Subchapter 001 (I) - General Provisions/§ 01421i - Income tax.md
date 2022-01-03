@@ -6,7 +6,7 @@ The income-tax laws in force in the United States of America and those which may
 
 #### (b) Guam Territorial income tax
 
-The income-tax laws in force in Guam pursuant to subsection (a) of this section shall be deemed to impose a separate Territorial incometax, payable to the government of Guam, which tax is designated the "Guam Territorial income tax".
+The income-tax laws in force in Guam pursuant to subsection (a) of this section shall be deemed to impose a separate Territorial income tax, payable to the government of Guam, which tax is designated the "Guam Territorial income tax".
 
 #### (c) Enforcement of tax
 
@@ -30,13 +30,13 @@ Any act or failure to act with respect to the Guam Territorial income tax which 
 
 #### (g) Liens
 
-The government of Guam shall have a lien with respect to the Guam Territorial income tax in the same manner and with the same effect, and subject to the same conditions, as the United States has a lien with respect to the United States income tax. Such lien in respect of the Guam Territorial income tax shall be enforceable in the name of and by the government of Guam. Where filing of a notice of lien is prescribed by the income-tax laws in force in Guam pursuant to subsection (a) of this section, such notice shall be filed in the Office of the Clerk of the District Court of Guam.
+The government of Guam shall have a lien with respect to the Guam Territorial income tax in the same manner and with the same effect,and subject to the same conditions, as the United States has a lien with respect to the United States income tax. Such lien in respect of the Guam Territorial income tax shall be enforceable in the name of and by the government of Guam. Where filing of a notice of lien is prescribed by the income-tax laws in force in Guam pursuant to subsection (a) of this section, such notice shall be filed in the Office of the Clerk of the District Court of Guam.
 
 #### (h) Jurisdiction of District Court; suits for recovery or collection of taxes; payment of judgment
 
 (1) Notwithstanding any provision of section 1424 of this title or any other provision of law to the contrary, the District Court of Guam shall have exclusive original jurisdiction over all judicial proceedings in Guam, both criminal and civil, regardless of the degree of the offense or of the amount involved, with respect to the Guam Territorial income tax.
 
-(2) Suits for the recovery of any Guam Territorial income tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected, under the income-tax laws in force inGuam, pursuant to subsection (a) of this section, may, regardless of the amount of claim, be maintained against the government of Guam subject to the same statutory requirements as are applicable to suits for the recovery of such amounts maintained against the United States in the United States district courts with respect to the United States income tax. When any judgment against the government of Guam under this paragraph has become final, the Governor shall order the payment of such judgments out of any unencumbered funds in the treasury of Guam.
+(2) Suits for the recovery of any Guam Territorial income tax alleged to have been erroneously or illegally assessed or collected, or of any penalty claimed to have been collected without authority, or of any sum alleged to have been excessive or in any manner wrongfully collected, under the income-tax laws in force in Guam, pursuant to subsection (a) of this section, may, regardless of the amount of claim, be maintained against the government of Guam subject to the same statutory requirements as are applicable to suits for the recovery of such amounts maintained against the United States in the United States district courts with respect to the United States income tax. When any judgment against the government of Guam under this paragraph has become final, the Governor shall order the payment of such judgments out of any unencumbered funds in the treasury of Guam.
 
 (3) Execution shall not issue against the Governor or any officer or employee of the government of Guam on a final judgment in any proceeding against him for any acts or for the recovery of money exacted by or paid to him and subsequently paid into the treasury of Guam, in performing his official duties under the income-tax laws in force in Guam pursuant to subsection (a) of this section, if the court certifies that—
 
@@ -51,6 +51,8 @@ When such certificate has been issued, the Governor shall order the payment of s
 (5) The jurisdiction conferred upon the District Court of Guam by this subsection shall not be subject to transfer to any other court by the legislature, notwithstanding section 1424(a) of this title.
 
 (Aug. 1, 1950, ch. 512, §31, 64 Stat. 392; Pub. L. 85–688, §1, Aug. 20, 1958, 72 Stat. 681; Pub. L. 92–606, §1(d), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 95–134, title II, §203(c), Oct. 15, 1977, 91 Stat. 1162; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–212, §2(a), Aug. 21, 2002, 116 Stat. 1051.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -73,6 +75,8 @@ Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of s
 <b>1958</b>—Subsec. (a). Pub. L. 85–688 designated existing provisions as subsec. (a).
 
 Subsecs. (b) to (h). Pub. L. 85–688 added subsecs. (b) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

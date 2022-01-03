@@ -20,11 +20,15 @@ Feb. 12, 1940, ch. 27, Title I (proviso under "Air Corps"), 54 Stat. 25.
 
 The words "under the provisions of the Act of Apr. 3, 1939, ch. 35, 53 Stat. 555" are omitted as obsolete, since training formerly performed under that act is now performed under section 4301 of this title. The words "personnel of the Department of the Army or the Department of the Air Force" are substituted for the words "flying cadets", since the authority is reciprocal, and to conform to section 4656 of this title. The words "flying cadet" are omitted as obsolete. 10:298c (last 28 words) is omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4628 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

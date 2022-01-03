@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—Except as provided in section 47111 of this title, the United States Government may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
+General Authority.—Except as provided in section 47111 of this title, the United StatesGovernment may pay or be obligated to pay, from amounts appropriated to carry out this subchapter, a cost incurred in carrying out a project under this subchapter only if the Secretary of Transportation decides the cost is allowable.
 
 (b)
 
@@ -42,7 +42,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 &emsp;(6) if the cost is for a project not described in section 47102(3) for acquiring for use at a commercial service airport vehicles and ground support equipment owned by an airport that include low-emission technology, but only to the extent of the incremental cost of equipping such vehicles or equipment with low-emission technology, as determined by the Secretary; and
 
-&emsp;(7) if the cost is incurred on a measure to improve the efficiency of an airport building (such as a measure designed to meet one ormore of the criteria for being considered a high-performance green building as set forth under section 401(13) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17061(13))) and—
+&emsp;(7) if the cost is incurred on a measure to improve the efficiency of an airport building (such as a measure designed to meet one or more of the criteria for being considered a high-performance green building as set forth under section 401(13) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17061(13))) and—
 
 &emsp;&emsp;(A) the measure is for a project for airport development;
 
@@ -70,7 +70,7 @@ Relocation of Airport-Owned Facilities.—The Secretary may determine that the c
 
 (e)
 
-Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budget authority an amount, not more than the Government's share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
+Letters of Intent.—(1) The Secretary may issue a letter of intent to the sponsor stating an intention to obligate from future budgetauthority an amount, not more than the Government's share of allowable project costs, for an airport development project (including costs of formulating the project) at a primary or reliever airport. The letter shall establish a schedule under which the Secretary will reimburse the sponsor for the Government's share of allowable project costs, as amounts become available, if the sponsor, after the Secretary issues the letter, carries out the project without receiving amounts under this subchapter.
 
 (2) Paragraph (1) of this subsection applies to a project—
 
@@ -211,6 +211,8 @@ The source credits for all of subsection (b) are included for clarity though onl
 
 In subsection (b)(2)(C)(ii), the words "before the cost is incurred" are added for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b)(2)(B). Pub. L. 115–254, §539(n)(1), substituted "compatibility" for "compatability".
@@ -266,6 +268,8 @@ Subsec. (g). Pub. L. 104–264, §144(b), added subsec. (g).
 &emsp;"(B) after June 1, 1989, by the airport operator (regardless of when the grant agreement is executed) as part of a Government-approved noise compatibility program (including project formulation costs) and is consistent with all applicable statutory and administrative requirements;".
 
 Subsec. (e)(6). Pub. L. 103–305 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

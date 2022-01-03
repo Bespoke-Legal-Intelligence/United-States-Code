@@ -14,7 +14,7 @@
 
 #### Historical and Revision Notes
 
-Based on title 28, U.S.C., 1940 ed., §§375, 375a, and 375f (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch. 29, §6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, 50 Stat. 24; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, §5, as added May 11, 1944, ch. 192, §§1–3, 58 Stat. 218, 219).
+Based on title 28, U.S.C., 1940 ed., §§375, 375a, and 375f (Mar. 3, 1911, ch. 231, §260, 36 Stat. 1161; Feb. 25, 1919, ch.29, §6, 40 Stat. 1157; Mar. 1, 1929, ch. 419, 45 Stat. 1422; Mar. 1, 1937, ch. 21, 50 Stat. 24; Feb. 11, 1938, ch. 25, 52 Stat. 28; Aug. 5, 1939, ch. 433, §5, as added May 11, 1944, ch. 192, §§1–3, 58 Stat. 218, 219).
 
 Section consolidates those parts of sections 375, 375a, and 375f of title 28, U.S.C., 1940 ed., relating to designation and assignment of retired justices and judges. Other provisions of said sections 375 and 375a, appear in sections 136, 371, and 756 of this title.
 

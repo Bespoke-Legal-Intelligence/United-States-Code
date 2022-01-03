@@ -4,19 +4,23 @@ For purposes of this chapter—
 
 &emsp;(1) the term "eligible individual" means a candidate for the Child Development Associate credential whose income does not exceed the <sup>1</sup> 130 percent of the lower living standard income level,<sup>2</sup> by more than 50 percent;
 
-&emsp;(2) the term "lower living standard income level" means that income level (adjusted for regional, metropolitan, urban, and rural differences and family size) determined annuallyby the Secretary of Labor and based on the most recent lower living family budget issued by the Secretary of Labor;
+&emsp;(2) the term "lower living standard income level" means that income level (adjusted for regional, metropolitan, urban, and rural differences and family size) determined annually by the Secretary of Labor and based on the most recent lower living family budget issued by the Secretary of Labor;
 
 &emsp;(3) the term "Secretary" means the Secretary of Health and Human Services; and
 
-&emsp;(4) the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, and Palau.
+&emsp;(4) the term "State" means each of the several States, the District of Columbia, theCommonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, and Palau.
 
 (Pub. L. 99–425, title VI, §604, Sept. 30, 1986, 100 Stat. 976; Pub. L. 101–501, title V, §502, Nov. 3, 1990, 104 Stat. 1256.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1990</b>—Par. (1). Pub. L. 101–501, §502(1), substituted "130 percent of the lower living standard income level" for "poverty line, as defined in section 9902(2) of this title".
 
 Pars. (2) to (4). Pub. L. 101–501, §502(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

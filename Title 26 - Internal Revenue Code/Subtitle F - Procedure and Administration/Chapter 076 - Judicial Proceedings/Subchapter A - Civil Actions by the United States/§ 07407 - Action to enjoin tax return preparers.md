@@ -24,6 +24,8 @@ In any action under subsection (a), if the court finds—
 
 (Added Pub. L. 94–455, title XII, §1203(g), Oct. 4, 1976, 90 Stat. 1693; amended Pub. L. 101–239, title VII, §7738(a), (b), Dec. 19, 1989, 103 Stat. 2404; Pub. L. 110–28, title VIII, §8246(a)(2)(I)(i), May 25, 2007, 121 Stat. 202.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7407 was renumbered section 7410 of this title.
@@ -39,6 +41,8 @@ Subsec. (b). Pub. L. 110–28, §8246(a)(2)(I)(i)(II), substituted "a tax return
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §7738(b), substituted "A civil" for "Except as provided in subsection (c), a civil".
 
 Subsec. (c). Pub. L. 101–239, §7738(a), struck out subsec. (c) relating to bonds to stay injunctions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

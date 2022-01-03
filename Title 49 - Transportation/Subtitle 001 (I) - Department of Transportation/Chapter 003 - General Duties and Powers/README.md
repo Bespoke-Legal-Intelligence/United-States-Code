@@ -18,6 +18,7 @@
 | [310\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000310%20-%20Aligning%20Federal%20environmental%20reviews.md) | Aligning Federal environmental reviews. |
 | [311\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000311%20-%20Congressional%20notification%20requirements.md) | Congressional notification requirements. |
 | [312\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000312%20-%20Alternative%20timing%20system.md) | Alternative timing system. |
+| [313\.](Subchapter%20001%20%28I%29%20-%20Duties%20of%20the%20Secretary%20of%20Transportation/%C2%A7%2000313%20-%20Nontraditional%20and%20Emerging%20Transportation%20Technology%20Council.md) | Nontraditional and Emerging Transportation Technology Council. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -52,10 +53,17 @@
 | [352\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000352%20-%20Authority%20to%20carry%20out%20certain%20transferred%20duties%20and%20powers.md) | Authority to carry out certain transferred duties and powers. |
 | [353\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000353%20-%20Toxicological%20testing%20of%20officers%20and%20employees.md) | Toxicological testing of officers and employees. |
 | [354\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000354%20-%20Investigative%20authority%20of%20Inspector%20General.md) | Investigative authority of Inspector General. |
+| [355\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000355%20-%20Motorcyclist%20Advisory%20Council.md) | Motorcyclist Advisory Council. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title V, §25008(b), Nov. 15, 2021, 135 Stat. 852, which directed amendment of the analysis for subchapter I of this chapter by adding item 313 at the end, was executed by adding item 313 to the analysis for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 117–58, div. B, title IV, §24111(b), Nov. 15, 2021, 135 Stat. 815, which directed amendment of the analysis for subchapter III of this chapter by adding item 355 at the end, was executed by adding item 355 to the analysis for this chapter, to reflect the probable intent of Congress.
 
 <b>2018</b>—Pub. L. 115–282, title V, §514(c), Dec. 4, 2018, 132 Stat. 4278, which directed amendment of the analysis for this chapter by adding item 312 at the end, was executed by adding item 312 at the end of the item for subchapter I, to reflect the probable intent of Congress.
 

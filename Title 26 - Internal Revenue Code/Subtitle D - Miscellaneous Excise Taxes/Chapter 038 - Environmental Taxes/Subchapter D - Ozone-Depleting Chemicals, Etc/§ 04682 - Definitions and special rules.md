@@ -58,7 +58,7 @@ For purposes of this subchapter, the term "ozone-depletion factor" means, with r
 | Carbon tetrachloride | 1\.1&nbsp;&nbsp; |
 | Methyl chloroform | 0\.1&nbsp;&nbsp; |
 | CFC–13 | 1\.0&nbsp;&nbsp; |
-| CFC–111 | 1\.0&nbsp;&nbsp; |
+| CFC–111 | 1\.0   |
 | CFC–112 | 1\.0&nbsp;&nbsp; |
 | CFC–211 | 1\.0&nbsp;&nbsp; |
 | CFC–212 | 1\.0&nbsp;&nbsp; |
@@ -78,7 +78,7 @@ For purposes of this subchapter—
 
 #### (2) De minimis exception
 
-&emsp;The term "imported taxable product" shall not include any product specified in regulations prescribed by the Secretary as using a deminimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
+&emsp;The term "imported taxable product" shall not include any product specified in regulations prescribed by the Secretary as using a de minimis amount of ozone-depleting chemicals as materials in the manufacture or production thereof. The preceding sentence shall not apply to any product in which any ozone-depleting chemical (other than methyl chloroform) is used for purposes of refrigeration or air conditioning, creating an aerosol or foam, or manufacturing electronic components.
 
 #### (d) Exceptions
 
@@ -230,6 +230,8 @@ For purposes of this subchapter—
 
 (Added Pub. L. 101–239, title VII, §7506(a), Dec. 19, 1989, 103 Stat. 2365; amended Pub. L. 101–508, title XI, §§11203(a), (b), (d), 11701(g), Nov. 5, 1990, 104 Stat. 1388–421, 1388–422, 1388–508; Pub. L. 102–486, title XIX, §§1931(b), (c), 1932(a)–(c), Oct. 24, 1992, 106 Stat. 3029–3031; Pub. L. 104–188, title I, §1803(a)(1), (b), Aug. 20, 1996, 110 Stat. 1892, 1893; Pub. L. 105–34, title IX, §903(a), title XIV, §1432(c)(2), Aug. 5, 1997, 111 Stat. 873, 1051; Pub. L. 113–295, div. A, title II, §221(a)(107), Dec. 19, 2014, 128 Stat. 4053.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 4682, added Pub. L. 96–510, title II, §231(a), Dec. 11, 1980, 94 Stat. 2804, was contained in subchapter C of this chapter, prior to repeal by Pub. L. 99–499, title V, §514(a)(1), (c), Oct. 17, 1986, 100 Stat. 1767, effective Oct. 1, 1983, with provision for waiver of statute of limitations on claims for overpayment.
@@ -271,6 +273,8 @@ Subsec. (d)(3)(B)(ii). Pub. L. 101–508, §11701(g)(5), substituted last senten
 Subsec. (d)(3)(C). Pub. L. 101–508, §11203(b), added subpar. (C).
 
 Subsec. (h)(3). Pub. L. 101–508, §11203(d)(2), substituted "June 30" for "April 1".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -318,5 +322,5 @@ Pub. L. 104–188, title I, §1803(a)(2), Aug. 20, 1996, 110 Stat. 1892, provide
 
 #### Deposits for First Quarter of 1991
 
-Pub. L. 101–508, title XI, §11203(f), Nov. 5, 1990, 104 Stat. 1388–423, provided that: "No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as an ozone-depleting chemical by reason of the amendment made by subsection (a)(1) \[amending this section\] shall be required to be made before April 1, 1991."
+Pub. L. 101–508, title XI, §11203(f), Nov. 5, 1990, 104 Stat. 1388–423, provided that: "No deposit of any tax imposed by subchapter D of chapter 38 of the Internal Revenue Code of 1986 on any substance treated as anozone-depleting chemical by reason of the amendment made by subsection (a)(1) \[amending this section\] shall be required to be made before April 1, 1991."
 

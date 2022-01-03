@@ -4,9 +4,13 @@ The Secretary of Energy, in consultation with the Administrator, shall establish
 
 (Pub. L. 106–65, div. C, title XXXII, §3264, Oct. 5, 1999, 113 Stat. 967; Pub. L. 113–66, div. C, title XXXI, §3145(h), Dec. 26, 2013, 127 Stat. 1072.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–66 inserted "of Energy" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -38,7 +42,7 @@ In general.—In determining the placement of a microlab under subsection (a), t
 
 &emsp;&emsp;"(B) the existence of an available facility that has the capability to house a microlab;
 
-&emsp;&emsp;"(C) whether employees of a national security laboratory and persons from academia, industry, and government are available to be assigned to the microlab; and
+&emsp;&emsp;"(C) whether employees of a national security laboratory and persons from academia, industry,and government are available to be assigned to the microlab; and
 
 &emsp;&emsp;"(D) cost-sharing or in-kind contributions from State and local governments and private industry.
 

@@ -40,6 +40,8 @@ Jurisdiction is vested in the Federal district courts of the United States over 
 
 (Pub. L. 94–163, title III, §336, Dec. 22, 1975, 89 Stat. 930; Pub. L. 95–619, title IV, §§425(g), 427, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3266, 3267, 3288; Pub. L. 100–12, §9, Mar. 17, 1987, 101 Stat. 123; Pub. L. 105–388, §5(a)(6), Nov. 13, 1998, 112 Stat. 3478.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (c)(2). Pub. L. 105–388 substituted "section 6295(n)" for "section 6295(k)".
@@ -62,7 +64,7 @@ Subsec. (b). Pub. L. 100–12 amended subsec. (b) generally. Prior to amendment,
 
 "(1) Any person who will be adversely affected by a rule prescribed under section 6293, 6294, or 6295 of this title when it is effective may, at any time prior to the sixtieth day after the date such rule is prescribed, file a petition with the United States court of appeals for the circuit wherein such person resides or has his principal place of business, for a judicial review thereof. A copy of the petition shall be forthwith transmitted by the clerk of the court to the agency which prescribed the rule. Such agency thereupon shall file in the court the written submissions to, and transcript of, the proceedings on which the rule was based as provided in section 2112 of title 28.
 
-"(2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter.No rule under section 6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
+"(2) Upon the filing of the petition referred to in paragraph (1), the court shall have jurisdiction to review the rule in accordance with chapter 7 of title 5 and to grant appropriate relief as provided in such chapter. No rule under section 6293, 6294, or 6295 of this title may be affirmed unless supported by substantial evidence.
 
 "(3) The judgment of the court affirming or setting aside, in whole or in part, any such rule shall be final, subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
 

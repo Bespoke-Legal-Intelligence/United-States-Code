@@ -12,7 +12,7 @@
 
 #### (3) Notification of applicable Secretary
 
-&emsp;A State may notify the Secretary of Labor, Secretary of Health and Human Services, or the Secretary of the Treasury, as applicable, of instances of violations of sections 300gg–131, 300gg–132, or 300gg–135 of this title with respectto participants, beneficiaries, or enrollees under a group health plan or group or individual health insurance coverage, as applicable <sup>1</sup> offered by a health insurance issuer and any enforcement actions taken against providers or facilities as a result of such violations, including the disposition of any such enforcement actions.
+&emsp;A State may notify the Secretary of Labor, Secretary of Health and Human Services, or the Secretary of the Treasury, as applicable, of instances of violations of sections 300gg–131, 300gg–132, or 300gg–135 of this title with respect to participants, beneficiaries, or enrollees under a group health plan or group or individual health insurance coverage, as applicable <sup>1</sup> offered by a health insurance issuer and any enforcement actions taken against providers or facilities as a result of such violations, including the disposition of any such enforcement actions.
 
 #### (b) Secretarial enforcement authority
 

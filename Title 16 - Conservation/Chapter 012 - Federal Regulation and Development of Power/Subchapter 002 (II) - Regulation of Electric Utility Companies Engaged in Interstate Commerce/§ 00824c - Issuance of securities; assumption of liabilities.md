@@ -22,7 +22,7 @@ Subsection (a) shall not apply to the issue or renewal of, or assumption of liab
 
 #### (f) Public utility securities regulated by State not affected
 
-The provisions of this section shall not extend to a public utility organized and operating in aState under the laws of which its security issues are regulated by a State commission.
+The provisions of this section shall not extend to a public utility organized and operating in a State under the laws of which its security issues are regulated by a State commission.
 
 #### (g) Guarantee or obligation on part of United States
 
@@ -33,6 +33,8 @@ Nothing in this section shall be construed to imply any guarantee or obligation 
 Any public utility whose security issues are approved by the Commission under this section may file with the Securities and Exchange Commission duplicate copies of reports filed with the Federal Power Commission in lieu of the reports, information, and documents required under sections 77g, 78l, and 78m of title 15.
 
 (June 10, 1920, ch. 285, pt. II, §204, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 850.)
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

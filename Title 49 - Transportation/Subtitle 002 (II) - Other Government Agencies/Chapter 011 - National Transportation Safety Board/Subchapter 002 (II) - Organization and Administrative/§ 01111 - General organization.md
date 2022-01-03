@@ -176,6 +176,8 @@ In subsection (f), the words "duties and powers" are substituted for "function" 
 
 In subsection (g), the text of 49 App.:1902(c)(1) is omitted as unnecessary because of 40:ch. 10.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 GS–15, referred to in subsec. (i), is contained in the General Schedule, which is set out under section 5332 of Title 5, Government Organization and Employees.
@@ -195,6 +197,8 @@ Subsec. (g)(5). Pub. L. 109–443, §9(a), added par. (5).
 Subsecs. (i), (j). Pub. L. 109–443, §9(d)(4), (5), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 <b>2000</b>—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Utilization Plan
 
@@ -234,7 +238,7 @@ Implementation.—The plan developed pursuant to subparagraph (A)(i) shall be im
 
 #### Audit Procedures
 
-Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue to develop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
+Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue todevelop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
 
 #### Improved Audit Procedures
 

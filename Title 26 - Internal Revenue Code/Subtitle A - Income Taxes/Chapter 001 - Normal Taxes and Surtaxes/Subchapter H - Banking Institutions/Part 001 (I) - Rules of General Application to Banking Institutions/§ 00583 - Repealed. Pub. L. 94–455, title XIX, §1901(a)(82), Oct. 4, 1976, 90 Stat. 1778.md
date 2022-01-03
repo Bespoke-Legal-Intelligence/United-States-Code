@@ -1,6 +1,8 @@
 ### \[§583. Repealed. Pub. L. 94–455, title XIX, §1901(a)(82), Oct. 4, 1976, 90 Stat. 1778\]
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 202, related to deductions by certain taxpayers of dividendspaid to the United States or any instrumentality thereof exempt from Federal income taxes on the preferred stock of the corporation owned by the United States or such instrumentality.
+Section, act Aug. 16, 1954, ch. 736, 68A Stat. 202, related to deductions by certain taxpayers of dividends paid to the United States or any instrumentality thereof exempt from Federal income taxes on the preferred stock of the corporation owned by the United States or such instrumentality.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal
 

@@ -4,6 +4,8 @@ Effective October 1, 1981, and thereafter, in the case of water and waste dispos
 
 (Pub. L. 99–88, title I, §100, Aug. 15, 1985, 99 Stat. 296; Pub. L. 100–233, title VI, §615(b)(1)(A), Jan. 6, 1988, 101 Stat. 1681.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Supplemental Appropriations Act, 1985, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
@@ -11,6 +13,8 @@ Section was enacted as part of the Supplemental Appropriations Act, 1985, and no
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–233 substituted "Effective October 1, 1981, and thereafter, in the case of water and waste disposal and community facility borrowers, and effective November 12, 1983, and thereafter, in the case of housing and farm borrowers" for "Effective November 12, 1983, and thereafter" and "to such borrowers" for "to housing, farm, water and waste disposal, and community facility borrowers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of 1988 Amendment
 

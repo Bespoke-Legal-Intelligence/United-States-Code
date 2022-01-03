@@ -16,7 +16,7 @@ Not later than September 30, 2011, the Secretary shall—
 
 #### (2) Systems integration
 
-&emsp;The Secretary may structure Project activities in the second project phase to use the leadindustrial partner of the competitively selected design under paragraph (1) in a systems integration role for final design and construction of the Project.
+&emsp;The Secretary may structure Project activities in the second project phase to use the lead industrial partner of the competitively selected design under paragraph (1) in a systems integration role for final design and construction of the Project.
 
 #### (c) Target date to complete project construction
 

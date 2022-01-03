@@ -4,9 +4,13 @@ For purposes of determining the withholding tax liability incurred in the Virgin
 
 (Added Pub. L. 97–455, §1(b), Jan. 12, 1983, 96 Stat. 2497; amended Pub. L. 100–647, title I, §1012(x), Nov. 10, 1988, 102 Stat. 3530.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–647 struck out "(as modified by section 934A)" before "shall not exceed".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

@@ -34,7 +34,7 @@ In awarding grants or contracts under this section, the Secretary shall give pri
 
 #### (f) Required activities
 
-An eligible partnership that receives a grant or contract under this section shall use the grant or contract funds to carry out the following:
+An eligible partnership that receives a grant or contract under this section shall use thegrant or contract funds to carry out the following:
 
 &emsp;(1) Supporting the development and implementation of the following:
 
@@ -78,7 +78,7 @@ Not later than three years after the date of the first grant or contract awarded
 
 &emsp;(2) a summary of the purposes for which the grants and contracts were provided and an evaluation of the progress made under such grants and contracts;
 
-&emsp;(3) a summary of the activities implemented under subsection (f) and, as applicable, subsection (g), including data on the number ofpostsecondary students with print disabilities served and the number of instructional material requests executed and delivered in specialized formats; and
+&emsp;(3) a summary of the activities implemented under subsection (f) and, as applicable, subsection (g), including data on the number of postsecondary students with print disabilities served and the number of instructional material requests executed and delivered in specialized formats; and
 
 &emsp;(4) an evaluation of the effectiveness of programs funded under this section.
 
@@ -91,6 +91,8 @@ The Secretary may, on the basis of the reports under subsection (h) and section 
 &emsp;(2) provide adequate protections against copyright infringement.
 
 (Pub. L. 89–329, title VII, §773, as added Pub. L. 110–315, title VII, §709(2), Aug. 14, 2008, 122 Stat. 3371.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

@@ -30,6 +30,8 @@ Preservation of Certain Existing Slot-Related Air Service.—An air carrier that
 
 (Added Pub. L. 106–181, title II, §231(c), Apr. 5, 2000, 114 Stat. 109; amended Pub. L. 108–447, div. H, title I, §199, Dec. 8, 2004, 118 Stat. 3235.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (d), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
@@ -41,6 +43,8 @@ A prior section 41716 was renumbered section 41720 of this title.
 #### Amendments
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–447 inserted before period at end "; except that the Secretary may grant not to exceed 4 additional slot exemptions at LaGuardia Airport to an incumbent air carrier operating at least 20 but not more than 28 slots at such airport as of October 1, 2004, to provide air transportation between LaGuardia Airport and a small hub airport or nonhub airport".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

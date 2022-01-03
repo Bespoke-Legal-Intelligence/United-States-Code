@@ -12,7 +12,7 @@ It shall be unlawful for any person at least eighteen years of age to knowingly 
 
 #### (b) Penalty for first offense
 
-Any person who violates subsection (a) is subject to twice the maximum punishment otherwise authorized and at least twice any term ofsupervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year.
+Any person who violates subsection (a) is subject to twice the maximum punishment otherwise authorized and at least twice any term of supervised release otherwise authorized for a first offense. Except to the extent a greater minimum sentence is otherwise provided, a term of imprisonment under this subsection shall not be less than one year.
 
 #### (c) Penalty for subsequent offenses
 
@@ -30,7 +30,7 @@ Any person who violates subsection (a)(1) or (2) <sup>1</sup>
 
 #### (e) Suspension of sentence; probation; parole
 
-In any case of any sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section of an offense for which a mandatory minimum term of imprisonment is applicable shall not be eligible for parole under section 4202 of title 18 <sup>2</sup> until the individual has served the mandatory term of imprisonment as enhanced by this section.
+In any case of any sentence imposed under this section, imposition or execution of such sentence shall not be suspended and probation shall not be granted. An individual convicted under this section of an offense for which a mandatory minimum term of imprisonment is applicable shall not be eligible for parole under section 4202 of title 18 <sup>2</sup> until the individual has served themandatory term of imprisonment as enhanced by this section.
 
 #### (f) Distribution of controlled substance to pregnant individual
 

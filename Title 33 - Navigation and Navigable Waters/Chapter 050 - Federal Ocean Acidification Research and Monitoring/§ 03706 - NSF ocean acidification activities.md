@@ -26,7 +26,7 @@ The Director shall encourage coordination of the Foundation's ocean acidificatio
 
 #### Amendments
 
-<b>2020</b>—Subsec. (a). Pub. L. 116–271 amended subsec. (a) generally. Prior to amendment, text read as follows: "The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification which shall support competitive, merit-based, peer-reviewed proposals for research and monitoring of ocean acidification and its impacts, including—
+<b>2020</b>—Subsec. (a). Pub. L. 116–271 amended subsec. (a) generally. Prior to amendment, text read as follows:"The Director of the National Science Foundation shall continue to carry out research activities on ocean acidification which shall support competitive, merit-based, peer-reviewed proposals for research and monitoring of ocean acidification and its impacts, including—
 
 &emsp;"(1) impacts on marine organisms and marine ecosystems;
 

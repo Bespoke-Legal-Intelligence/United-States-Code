@@ -10,7 +10,7 @@ Authority To Enter Into International Exchange Agreements.—(1) The Secretary o
 
 &emsp;(B) military and civilian personnel of the defense or security ministry of that foreign government or international or regional security organization.
 
-(3) An exchange of personnel under an international defense personnel exchange agreement under this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
+(3) An exchange of personnel under an international defense personnel exchange agreementunder this section may only be made with the concurrence of the Secretary of State to the extent the exchange is with either of the following:
 
 &emsp;(A) A non-defense security ministry of a foreign government.
 
@@ -30,7 +30,7 @@ Reciprocity of Personnel Qualifications Required.—In the case of an internatio
 
 (d)
 
-Payment of Personnel Costs.—(1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnelin accordance with the applicable laws and regulations of such government.
+Payment of Personnel Costs.—(1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnel in accordance with the applicable laws and regulations of such government.
 
 (2) Paragraph (1) does not apply to the following costs:
 
@@ -49,6 +49,8 @@ Prohibited Conditions.—No personnel exchanged pursuant to an agreement under t
 Relationship to Other Authority.—The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the defense or security ministry of that foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.
 
 (Added and amended Pub. L. 114–328, div. A, title XII, §1242(a), (b), Dec. 23, 2016, 130 Stat. 2512, 2513; Pub. L. 115–232, div. A, title XII, §1204(c)(1)(A), Aug. 13, 2018, 132 Stat. 2017.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -77,6 +79,8 @@ Subsec. (b)(2). Pub. L. 114–328, §1242(b)(2), inserted ", subject to the con
 Subsec. (c). Pub. L. 114–328, §1242(b)(3), substituted "In the case of" for "Each government shall be required under" and inserted "that provides for reciprocal exchanges, each government shall be required" after "exchange agreement".
 
 Subsec. (f). Pub. L. 114–328, §1242(b)(4), inserted "defense or security ministry of that" after "military personnel of the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Limitation on Military-to-Military Exchanges and Contacts With Chinese People's Liberation Army
 

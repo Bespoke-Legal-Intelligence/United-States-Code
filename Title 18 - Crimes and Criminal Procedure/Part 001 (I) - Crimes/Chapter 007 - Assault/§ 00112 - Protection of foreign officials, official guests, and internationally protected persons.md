@@ -92,7 +92,7 @@ Pub. L. 94–467, §1, Oct. 8, 1976, 90 Stat. 1997, provided: "That this Act \[e
 
 #### Short Title of 1972 Amendment
 
-Pub. L. 92–539, §1, Oct. 24, 1972, 86 Stat. 1070, provided: "That this Act \[enacting sections 970, 1116, and 1117 ofthis title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Act for the Protection of Foreign Officials and Official Guests of the United States'."
+Pub. L. 92–539, §1, Oct. 24, 1972, 86 Stat. 1070, provided: "That this Act \[enacting sections 970, 1116, and 1117 of this title, amending this section and section 1201 of this title, and enacting provisions set out as notes under this section\] may be cited as the 'Act for the Protection of Foreign Officials and Official Guests of the United States'."
 
 #### State and Local Laws Not Superseded
 

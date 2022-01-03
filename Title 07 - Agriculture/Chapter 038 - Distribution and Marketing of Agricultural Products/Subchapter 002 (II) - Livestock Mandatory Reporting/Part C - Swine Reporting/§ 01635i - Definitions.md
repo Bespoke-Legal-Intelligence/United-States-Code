@@ -158,6 +158,8 @@ In this part:
 
 (Aug. 14, 1946, ch. 966, title II, §231, as added Pub. L. 106–78, title IX, §911(2), Oct. 22, 1999, 113 Stat. 1193; amended Pub. L. 109–296, §2, Oct. 5, 2006, 120 Stat. 1464; Pub. L. 114–54, title I, §102(a), Sept. 30, 2015, 129 Stat. 513.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pars. (9) to (12). Pub. L. 114–54, §102(a)(1), (2), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively. Former par. (12) redesignated (13).

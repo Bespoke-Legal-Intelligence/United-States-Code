@@ -40,7 +40,7 @@ As soon as practicable after December 22, 1975, the National Institute of Standa
 
 (1)(A) Within 90 days after the date on which the Commission receives the report under subsection (c), the Commission shall, by rule, prescribe—
 
-&emsp;(i) test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, with new oil distributed for a particular end use; and
+&emsp;(i) test procedures for the determination of substantial equivalency of re-refined or otherwise processed used oil or blend of oil, consisting of such re-refined or otherwise processed used oil and new oil or additives, withnew oil distributed for a particular end use; and
 
 &emsp;(ii) labeling standards applicable to containers of recycled oil in order to carry out the purposes of this section.
 
@@ -66,9 +66,13 @@ After the effective date of the rules required to be prescribed under subsection
 
 (Pub. L. 94–163, title III, §383, Dec. 22, 1975, 89 Stat. 940; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of Labeling Standards
 

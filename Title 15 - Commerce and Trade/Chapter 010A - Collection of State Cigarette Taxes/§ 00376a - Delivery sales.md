@@ -28,7 +28,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (2) Failure to label
 
-&emsp;Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier orother delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
+&emsp;Any shipping package described in paragraph (1) that is not labeled in accordance with that paragraph shall be treated as nondeliverable matter by a common carrier or other delivery service, if the common carrier or other delivery service knows or should know the package contains cigarettes or smokeless tobacco. If a common carrier or other delivery service believes a package is being submitted for delivery in violation of paragraph (1), it may require the person submitting the package for delivery to establish that it is not being sent in violation of paragraph (1) before accepting the package for delivery. Nothing in this paragraph shall require the common carrier or other delivery service to open any package to determine its contents.
 
 #### (3) Weight restriction
 
@@ -94,7 +94,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (A) Initial list
 
-&emsp;&emsp;Not later than 90 days after this subsection goes into effect under the PreventAll Cigarette Trafficking Act of 2009, the Attorney General of the United States shall compile a list of delivery sellers of cigarettes or smokeless tobacco that have not registered with the Attorney General of the United States pursuant to section 376(a) of this title, or that are otherwise not in compliance with this chapter, and—
+&emsp;&emsp;Not later than 90 days after this subsection goes into effect under the Prevent All Cigarette Trafficking Act of 2009, the Attorney General of the United States shall compile a list of delivery sellers of cigarettes or smokeless tobacco that have not registered with the Attorney General of the United States pursuant to section 376(a) of this title, or that are otherwise not in compliance with this chapter, and—
 
 &emsp;&emsp;&emsp;(i) distribute the list to—
 
@@ -260,7 +260,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (B) Updates
 
-&emsp;&emsp;Any government providing a list to the Attorney General of the United States under subparagraph (A) shall also provide updates and corrections every 4 months until such time as the government notifies the Attorney General of the United States in writing that the government no longer desires to submit information to supplement the list described in paragraph (1)(A).
+&emsp;&emsp;Any government providing a list to the Attorney General of the United States undersubparagraph (A) shall also provide updates and corrections every 4 months until such time as the government notifies the Attorney General of the United States in writing that the government no longer desires to submit information to supplement the list described in paragraph (1)(A).
 
 #### (C) Removal after withdrawal
 
@@ -318,6 +318,8 @@ For purposes of this chapter, a delivery sale shall be deemed to have occurred i
 
 (Oct. 19, 1949, ch. 699, §2A, as added Pub. L. 111–154, §2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, §602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Prevent All Cigarette Trafficking Act of 2009, referred to in subsec. (e)(1)(A), (5)(C)(i), is Pub. L. 111–154, Mar. 31, 2010, 124 Stat. 1087, also known as the PACT Act. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 375 of this title and Tables.
@@ -327,6 +329,8 @@ For the date subsection (e) of this section goes into effect, referred to in sub
 #### Amendments
 
 <b>2020</b>—Subsec. (b)(1). Pub. L. 116–260 inserted "NICOTINE/" after "CIGARETTES/".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

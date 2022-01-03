@@ -66,11 +66,13 @@ Except as specifically provided in this chapter, nothing in this chapter affects
 
 &emsp;(B) does not include any facility used primarily for civil works, rivers and harbors projects, or flood control projects, as determined by the Secretary of Defense.
 
-(2) The Commission shall enter into a memorandum of understanding with the Secretary of Defense for the purpose of ensuring that the Commission coordinate and consult <sup>2</sup> with the Secretary of Defense on the siting, construction, expansion, or operation of liquefied natural gas facilities that may affect an active military installation.
+(2) The Commission shall enter into a memorandum of understanding with the Secretary of Defense for the purpose of ensuring that theCommission coordinate and consult <sup>2</sup> with the Secretary of Defense on the siting, construction, expansion, or operation of liquefied natural gas facilities that may affect an active military installation.
 
 (3) The Commission shall obtain the concurrence of the Secretary of Defense before authorizing the siting, construction, expansion, or operation of liquefied natural gas facilities affecting the training or activities of an active military installation.
 
 (June 21, 1938, ch. 556, §3, 52 Stat. 822; Pub. L. 102–486, title II, §201, Oct. 24, 1992, 106 Stat. 2866; Pub. L. 109–58, title III, §311(c), Aug. 8, 2005, 119 Stat. 685.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -87,6 +89,8 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act J
 Subsecs. (d) to (f). Pub. L. 109–58, §311(c)(2), added subsecs. (d) to (f).
 
 <b>1992</b>—Pub. L. 102–486 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

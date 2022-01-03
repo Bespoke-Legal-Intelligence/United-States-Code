@@ -70,6 +70,8 @@ Protection of Certain Data.—The Administrator of the Federal Aviation Administ
 
 (Added Pub. L. 115–254, div. B, title III, §395(a), Oct. 5, 2018, 132 Stat. 3326.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2 of the Pilot's Bill of Rights, referred to in subsec. (a)(5), is section 2 of Pub. L. 112–153, which is set out as a note under section 44703 of this title.

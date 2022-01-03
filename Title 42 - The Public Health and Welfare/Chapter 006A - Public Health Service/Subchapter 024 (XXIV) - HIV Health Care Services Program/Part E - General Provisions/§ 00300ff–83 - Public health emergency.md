@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In an emergency area and during an emergency period, the Secretary shall have the authority to waive such requirements of this subchapter to improve the health and safety of those receiving care under this subchapter and the general public, except that the Secretary may not expend more than 5 percent of the funds allocated under this subchapter for sections 300ff–29a of this title and section <sup>1</sup> 300ff–13(b) of this title.
+In an emergency area and during an emergency period, the Secretary shall have the authority to waive such requirements of this subchapter to improve the health and safety of those receiving care under this subchapter and the general public, except that the Secretary may not expend more than 5 percent of the fundsallocated under this subchapter for sections 300ff–29a of this title and section <sup>1</sup> 300ff–13(b) of this title.
 
 #### (b) Emergency area and emergency period
 
@@ -30,9 +30,11 @@ If funds under a grant under this section are not expended for an emergency in t
 
 (July 1, 1944, ch. 373, title XXVI, §2683, as added and amended Pub. L. 109–415, title V, §501, title VII, §703, Dec. 19, 2006, 120 Stat. 2813, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat.1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
@@ -45,6 +47,8 @@ A prior section 300ff–83, act July 1, 1944, ch. 373, title XXVI, §2683, as ad
 <b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

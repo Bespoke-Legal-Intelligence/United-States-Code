@@ -18,7 +18,7 @@ Any person, acting through a physician licensed in accordance with State law, ma
 
 #### (c) Treatment investigational new drug applications and treatment investigational device exemptions
 
-Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an "expanded access protocol"), the Secretary shall permit such investigational drug or investigational device to bemade available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
+Upon submission by a sponsor or a physician of a protocol intended to provide widespread access to an investigational drug or investigational device for eligible patients (referred to in this subsection as an "expanded access protocol"), the Secretary shall permit such investigational drug or investigational device to be made available for expanded access under a treatment investigational new drug application or treatment investigational device exemption if the Secretary determines that—
 
 &emsp;(1) under the treatment investigational new drug application or treatment investigational device exemption, the investigational drug or investigational device is intended for use in the diagnosis, monitoring, or treatment of a serious or immediately life-threatening disease or condition;
 
@@ -40,7 +40,7 @@ Upon submission by a sponsor or a physician of a protocol intended to provide wi
 
 #### (d) Termination
 
-The Secretary may, at any time, with respect to a sponsor, physician, manufacturer, or distributor described in this section, terminate expanded access provided under this section for an investigational drug or investigational device if the requirements under this section are no longer met.
+The Secretary may, at any time, with respect to a sponsor, physician, manufacturer, or distributor described in this section, terminate expanded access provided under this section for aninvestigational drug or investigational device if the requirements under this section are no longer met.
 
 #### (e) Definitions
 
@@ -128,7 +128,7 @@ Contents.—The guidance documents described in subparagraph (A) shall address m
 
 &emsp;&emsp;&emsp;"(i) broaden eligibility criteria for clinical trials and expanded access trials, especially with respect to drugs for the treatment of serious and life-threatening conditions or diseases for which there is an unmet medical need;
 
-&emsp;&emsp;&emsp;"(ii) develop eligibility criteria for, and increase trial recruitment to, clinical trials so that enrollment in such trials more accurately reflects the patients most likely to receive the drug, as applicable and as appropriate, while establishing safe use and supporting findings of substantial evidence of effectiveness; and
+&emsp;&emsp;&emsp;"(ii) develop eligibility criteria for, and increase trial recruitment to, clinical trials so that enrollment in such trials more accurately reflects the patients most likely to receive the drug, as applicable and as appropriate, while establishingsafe use and supporting findings of substantial evidence of effectiveness; and
 
 &emsp;&emsp;&emsp;"(iii) use the criteria described in clauses (i) and (ii) in a manner that is appropriate for drugs intended for the treatment of rare diseases or conditions.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the results of the comprehensive assessment carried out under section 749 of this title;
 
-&emsp;&emsp;(C) a review of the inventory described in section 751 of this title, including the number and type of credentialed personnel in each category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster;
+&emsp;&emsp;(C) a review of the inventory described in section 751 of this title, including the number and type of credentialed personnel ineach category of personnel trained and ready to respond to a natural disaster, act of terrorism, or other man-made disaster;
 
 &emsp;&emsp;(D) an assessment of resource needs to meet preparedness priorities established under section 746(e) of this title, including—
 

@@ -2,7 +2,7 @@
 
 #### (a) Provision of assistance
 
-Subject to the availability of appropriations for this purpose, the Corporation for National and Community Service may make grants to States, subdivisions of States, territories, Indian tribes, public or private nonprofit organizations, and institutions of higher education for the purpose of assisting the recipients of the grants—
+Subject to the availability of appropriations for this purpose, the Corporation for Nationaland Community Service may make grants to States, subdivisions of States, territories, Indian tribes, public or private nonprofit organizations, and institutions of higher education for the purpose of assisting the recipients of the grants—
 
 &emsp;(1) to carry out full- or part-time national service programs, including summer programs, described in subsection (a), (b), or (c) of section 12572 of this title; and
 
@@ -80,7 +80,7 @@ As part of the provision of assistance under subsection (a), and in providing ap
 
 #### (3) Cost of health care
 
-&emsp;In providing a payment in cash under paragraph (2)(A) as part of providing for the remaining share of the cost of carrying out a national service program, the program may count not more than 85 percent of the cost of providing a health care policy described in section 12594(d)(2) of this title toward such share.
+&emsp;In providing a payment in cash under paragraph (2)(A) as part of providing for the remaining share of the cost of carrying out a national service program, the program maycount not more than 85 percent of the cost of providing a health care policy described in section 12594(d)(2) of this title toward such share.
 
 #### (4) Waiver
 
@@ -128,6 +128,8 @@ The Corporation shall—
 
 (Pub. L. 101–610, title I, §121, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 788; amended Pub. L. 111–13, title I, §1301, Apr. 21, 2009, 123 Stat. 1484.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(5), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
@@ -146,7 +148,7 @@ Subsec. (a)(1), (2). Pub. L. 111–13, §1301(1)(B), substituted "subsection (a)
 
 Subsec. (b). Pub. L. 111–13, §1301(2)(A), substituted "Restrictions on agreements with Federal agencies" for "Agreements with Federal agencies" in heading.
 
-Subsec. (b)(1). Pub. L. 111–13, §1301(2)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Corporation may enter intoa contract or cooperative agreement with another Federal agency to support a national service program carried out by the agency. The support provided by the Corporation pursuant to the contract or cooperative agreement may include the transfer to the Federal agency of funds available to the Corporation under this division."
+Subsec. (b)(1). Pub. L. 111–13, §1301(2)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Corporation may enter into a contract or cooperative agreement with another Federal agency to support a national service program carried out by the agency. The support provided by the Corporation pursuant to the contract or cooperative agreement may include the transfer to the Federal agency of funds available to the Corporation under this division."
 
 Subsec. (b)(2). Pub. L. 111–13, §1301(2)(C), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "A Federal agency receiving assistance under this subsection shall not be required to satisfy the matching funds requirements specified in subsection (e) of this section. However, the supplementation requirements specified in section 12633 of this title shall apply with respect to the Federal national service programs supported with such assistance."
 
@@ -167,6 +169,8 @@ Subsec. (e)(1). Pub. L. 111–13, §1301(5)(A), substituted "Corporation share o
 Subsec. (e)(5). Pub. L. 111–13, §1301(5)(B), added par. (5).
 
 Subsec. (f). Pub. L. 111–13, §1301(6), added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

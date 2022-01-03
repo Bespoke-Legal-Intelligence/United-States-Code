@@ -96,9 +96,13 @@ In this chapter the following definitions apply:
 
 (Pub. L. 116–260, div. FF, title XII, §1202, Dec. 27, 2020, 134 Stat. 3252.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act" and was translated as reading "this title", meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

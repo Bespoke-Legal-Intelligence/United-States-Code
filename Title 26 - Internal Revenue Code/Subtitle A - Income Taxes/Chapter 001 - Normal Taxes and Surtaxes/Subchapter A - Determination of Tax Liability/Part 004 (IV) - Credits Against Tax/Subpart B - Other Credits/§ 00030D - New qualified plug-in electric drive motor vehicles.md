@@ -54,7 +54,7 @@ For purposes of this section—
 
 #### (2) Motor vehicle
 
-&emsp;The term "motor vehicle" means any vehicle which is manufactured primarily for use onpublic streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
+&emsp;The term "motor vehicle" means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
 #### (3) Manufacturer
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (1) Basis reduction
 
-&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowable under subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
+&emsp;For purposes of this subtitle, the basis of any property for which a credit is allowableunder subsection (a) shall be reduced by the amount of such credit so allowed (determined without regard to subsection (c)).
 
 #### (2) No double benefit
 
@@ -160,6 +160,8 @@ For purposes of this section—
 
 (Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–113, div. Q, title I, §183(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40405(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §126(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §144(a), Dec. 27, 2020, 134 Stat. 3054.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to section 7543(b) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -189,6 +191,8 @@ Subsec. (g). Pub. L. 112–240, §403(a), added subsec. (g).
 <b>2010</b>—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, §10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted "section 25D" for "sections 23 and 25D". See Effective and Termination Dates of 2010 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining "applicable amount" and "new qualified plug-in electric drive motor vehicle" and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

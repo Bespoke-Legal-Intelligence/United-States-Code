@@ -1,6 +1,6 @@
 ### §7622. Eligibility; application; agreement
 
-(a) To be eligible to participate in the Tuition Reimbursement Program, an individual must bea full-time employee in the Department permanently assigned to a Department health-care facility and must be enrolled in a course of training offered by an institution approved by the Secretary leading toward completion of (1) an associate or higher degree in nursing, or (2) a masters degree or doctoral degree in nursing.
+(a) To be eligible to participate in the Tuition Reimbursement Program, an individual must be a full-time employee in the Department permanently assigned to a Department health-care facility and must be enrolled in a course of training offered by an institution approved by the Secretary leading toward completion of (1) an associate or higher degree in nursing, or (2) a masters degree or doctoral degree in nursing.
 
 (b) In selecting applicants for acceptance in the Tuition Reimbursement Program, the Secretary (in addition to according priorities as set forth in section 7603(d) of this title) shall give special consideration and emphasis to individuals pursuing a course of study which will expedite an increase in the number of registered nurses employed by the Department. The Secretary shall then give priority, in the following order, to—
 

@@ -2,7 +2,7 @@
 
 #### (a) Functions
 
-The Administrator shall operate, directly or through contracts or grants, an integrated, comprehensive National Fire Data Center for the selection, analysis, publication, and dissemination of information related to the prevention, occurrence, control, and results of fires of all types. The program of such Data Center shall be designed to (1) provide an accurate nationwide analysis of the fire problem, (2) identify majorproblem areas, (3) assist in setting priorities, (4) determine possible solutions to problems, and (5) monitor the progress of programs to reduce fire losses. To carry out these functions, the Data Center shall gather and analyze—
+The Administrator shall operate, directly or through contracts or grants, an integrated, comprehensive National Fire Data Center for the selection, analysis, publication, and dissemination of information related to the prevention, occurrence, control, and results of fires of all types. The program of such Data Center shall be designed to (1) provide an accurate nationwide analysis of the fire problem, (2) identify major problem areas, (3) assist in setting priorities, (4) determine possible solutions to problems, and (5) monitor the progress of programs to reduce fire losses. To carry out these functions, the Data Center shall gather and analyze—
 
 &emsp;(1) information on the frequency, causes, spread, and extinguishment of fires;
 
@@ -56,6 +56,8 @@ The collection, storage, and transfer of any medical data collected under this s
 
 (Pub. L. 93–498, §9, Oct. 29, 1974, 88 Stat. 1541; Pub. L. 110–376, §5, Oct. 8, 2008, 122 Stat. 4059; Pub. L. 112–239, div. A, title XVIII, §1815, Jan. 2, 2013, 126 Stat. 2118; Pub. L. 116–9, title I, §1114(g), Mar. 12, 2019, 133 Stat. 617.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(2). Pub. L. 116–9, §1114(g)(1)(A), inserted ", categorized by the type of fire" after "such injuries and deaths".
@@ -72,11 +74,17 @@ Subsec. (e). Pub. L. 116–9, §1114(g)(3), added subsec. (e).
 
 Subsec. (d). Pub. L. 110–376, §5(a), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

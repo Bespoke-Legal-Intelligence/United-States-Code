@@ -14,7 +14,7 @@ Every organization which for any of its last 5 taxable years preceding its liqui
 
 &emsp;(1) no return shall be required under this subsection from churches, their integrated auxiliaries, conventions or associations of churches, or any organization which is not a private foundation (as defined in section 509(a)) and the gross receipts of which in each taxable year are normally not more than $5,000, and
 
-&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described insection 401(a), where the employer who established such organization files such a return.
+&emsp;(2) the Secretary may relieve any organization from such filing where he determines that such filing is not necessary to the efficient administration of the internal revenue laws or, with respect to an organization described in section 401(a), where the employer who established such organization files such a return.
 
 #### (c) Changes in control and recapitalizations
 
@@ -24,7 +24,7 @@ If—
 
 &emsp;(2) there is a recapitalization of a corporation or other substantial change in the capital structure of a corporation,
 
-> when required by the Secretary, such corporation shall make a return (at such time and in such manner as the Secretary may prescribe) setting forth the identity of the parties to the transaction, the fees involved, the changes in the capital structure involved, and such other information as the Secretary may require with respect to such transaction.
+> when required by the Secretary, such corporation shall make a return (at such time and in such manner as the Secretary may prescribe)setting forth the identity of the parties to the transaction, the fees involved, the changes in the capital structure involved, and such other information as the Secretary may require with respect to such transaction.
 
 #### (d) Cross references
 
@@ -35,6 +35,8 @@ If—
 &emsp;&emsp;&emsp;<b>(2) a return under subsection (c), see section 6652(1).</b><b><sup>1</sup></b>
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 746; Pub. L. 91–172, title I, §101(j)(35), Dec. 30, 1969, 83 Stat. 529; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 99–514, title XV, §1501(d)(1)(C), Oct. 22, 1986, 100 Stat. 2740; Pub. L. 101–239, title VII, §7208(b)(1), (3)(A), (B), Dec. 19, 1989, 103 Stat. 2337, 2338; Pub. L. 104–188, title I, §1704(t)(17), Aug. 20, 1996, 110 Stat. 1888.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -53,6 +55,8 @@ Cross Reference.—For provisions relating to penalties for failure to file a re
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1969</b>—Pub. L. 91–172 inserted references to termination and contraction in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

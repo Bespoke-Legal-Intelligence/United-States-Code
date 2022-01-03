@@ -14,9 +14,13 @@ Older Tank Car Impact Resistance Analysis and Report.—Within 1 year after the 
 
 (Added Pub. L. 109–59, title IX, §9005(b)(1), Aug. 10, 2005, 119 Stat. 1924.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Phase-Out of All Tank Cars Used To Transport Class 3 Flammable Liquids
 
@@ -100,7 +104,7 @@ Pub. L. 114–94, div. A, title VII, §7308, Dec. 4, 2015, 129 Stat. 1599, as am
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall implement a reporting requirement to monitor industry-wide progress towardmodifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 \[set out as a note above\].
+In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\] shall implement a reporting requirement to monitor industry-wide progress toward modifying rail tank cars used to transport Class 3 flammable liquids by the applicable deadlines established in section 7304 \[set out as a note above\].
 
 "(b)
 

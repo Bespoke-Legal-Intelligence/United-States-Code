@@ -86,6 +86,8 @@ An individual who is not assigned to a generation by reason of the foregoing pro
 
 (Added Pub. L. 99–514, title XIV, §1431(a), Oct. 22, 1986, 100 Stat. 2725; amended Pub. L. 100–647, title I, §1014(g)(11), (19), Nov. 10, 1988, 102 Stat. 3565, 3567; Pub. L. 105–34, title V, §511(a), Aug. 5, 1997, 111 Stat. 860.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1997</b>—Subsecs. (e), (f). Pub. L. 105–34 added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -94,13 +96,15 @@ An individual who is not assigned to a generation by reason of the foregoing pro
 
 Subsec. (e)(3). Pub. L. 100–647, §1014(g)(11), amended par. (3) generally, including governmental entities among the organizations to be assigned to transferor's generation.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to terminations, distributions, and transfers occurring afterDec. 31, 1997, see section 511(c) of Pub. L. 105–34, set out as a note under section 2612 of this title.
+Amendment by Pub. L. 105–34 applicable to terminations, distributions, and transfers occurring after Dec. 31, 1997, see section 511(c) of Pub. L. 105–34, set out as a note under section 2612 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
+Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision ofthe Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
 #### Effective Date
 

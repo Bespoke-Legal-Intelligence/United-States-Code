@@ -59,11 +59,16 @@
 | [139F.](%C2%A7%2000139F%20-%20Certain%20amounts%20received%20by%20wrongfully%20incarcerated%20individuals.md) | Certain amounts received by wrongfully incarcerated individuals. |
 | [139G.](%C2%A7%2000139G%20-%20Assignments%20to%20Alaska%20Native%20Settlement%20Trusts.md) | Assignments to Alaska Native Settlement Trusts. |
 | [139H.](%C2%A7%2000139H%20-%20Interest%20received%20in%20action%20to%20recover%20property%20seized%20by%20the%20Internal%20Revenue%20Service%20based%20on%20structuring%20transaction.md) | Interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction. |
+| [139I.](%C2%A7%2000139I%20-%20Continuation%20coverage%20premium%20assistance.md) | Continuation coverage premium assistance. |
 | [140\.](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md) | Cross references to other Acts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–2, title IX, §9501(b)(4)(B), Mar. 11, 2021, 135 Stat. 137, added item 139I.
 
 <b>2019</b>—Pub. L. 116–25, title I, §1202(b), July 1, 2019, 133 Stat. 988, added item 139H.
 
@@ -138,6 +143,8 @@ Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, �
 <b>1964</b>—Pub. L. 88–272, title II, §206(b)(2), Feb. 26, 1964, 78 Stat. 40, redesignated former item 121 as 122, and added item 121.
 
 <b>1958</b>—Pub. L. 85–866, title I, §3(b), Sept. 2, 1958, 72 Stat. 1607, struck out item 120 "Statutory subsistence allowance received by police".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exclusion From Gross Income of Certain Clean Coal Power Grants to Non-Corporate Taxpayers
 
@@ -270,4 +277,5 @@ No inference.—Nothing in this Act \[see Tables for classification\] shall be c
 - [&sect; 00139F - Certain amounts received by wrongfully incarcerated individuals](%C2%A7%2000139F%20-%20Certain%20amounts%20received%20by%20wrongfully%20incarcerated%20individuals.md)
 - [&sect; 00139G - Assignments to Alaska Native Settlement Trusts](%C2%A7%2000139G%20-%20Assignments%20to%20Alaska%20Native%20Settlement%20Trusts.md)
 - [&sect; 00139H - Interest received in action to recover property seized by the Internal Revenue Service based on structuring transaction](%C2%A7%2000139H%20-%20Interest%20received%20in%20action%20to%20recover%20property%20seized%20by%20the%20Internal%20Revenue%20Service%20based%20on%20structuring%20transaction.md)
+- [&sect; 00139I - Continuation coverage premium assistance](%C2%A7%2000139I%20-%20Continuation%20coverage%20premium%20assistance.md)
 - [&sect; 00140 - Cross references to other Acts](%C2%A7%2000140%20-%20Cross%20references%20to%20other%20Acts.md)

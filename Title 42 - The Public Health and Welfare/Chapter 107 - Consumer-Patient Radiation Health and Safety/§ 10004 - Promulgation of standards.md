@@ -6,6 +6,8 @@
 
 (Pub. L. 97–35, title IX, §979, Aug. 13, 1981, 95 Stat. 599; Pub. L. 102–54, §13(q)(13)(A), June 13, 1991, 105 Stat. 281.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsecs. (a), (b). Pub. L. 102–54 substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".

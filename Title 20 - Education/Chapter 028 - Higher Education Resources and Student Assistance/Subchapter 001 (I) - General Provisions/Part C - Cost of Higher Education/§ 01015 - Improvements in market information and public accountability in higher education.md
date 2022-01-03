@@ -198,7 +198,7 @@ The Secretary shall display a link to the Federal student financial aid website 
 
 &emsp;&emsp;&emsp;&emsp;(I) a recommendation that students and families should carefully review all of the application requirements prior to applying for any aid or program of student financial assistance; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistance presented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
+&emsp;&emsp;&emsp;&emsp;(II) a disclaimer that the non-Federal programs of student financial assistancepresented in the STEM Database are not provided or endorsed by the Department or the Federal Government.
 
 #### (C) Compilation of financial assistance information
 
@@ -226,6 +226,8 @@ No fee shall be charged to any individual to access—
 
 (Pub. L. 89–329, title I, §131, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1602; amended Pub. L. 110–315, title I, §§103(b)(1), 110, Aug. 14, 2008, 122 Stat. 3088, 3094; Pub. L. 111–39, title I, §101(b)(3), July 1, 2009, 123 Stat. 1935.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1015, Pub. L. 89–329, title I, §131, as added Pub. L. 102–325, title I, §101, July 23, 1992, 106 Stat. 465, authorized grants to eligible partnerships for education telecommunications activities, prior to the general amendment of this subchapter by Pub. L. 105–244.
@@ -249,6 +251,8 @@ Subsecs. (d), (e). Pub. L. 110–315, §110(a), added subsecs. (d) and (e) and s
 Subsecs. (f), (g). Pub. L. 110–315, §110(b), added subsecs. (f) and (g).
 
 Subsec. (h). Pub. L. 110–315, §110(c), added subsec. (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

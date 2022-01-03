@@ -20,7 +20,7 @@ It is the policy of the United States—
 
 &emsp;(8) to work with European Union member states and European Union institutions to promote energy security through developing diversified and liberalized energy markets that provide diversified sources, suppliers, and routes;
 
-&emsp;(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union's energy security, gas marketdevelopment in Central and Eastern Europe, and energy reforms in Ukraine; and
+&emsp;(9) to continue to oppose the NordStream 2 pipeline given its detrimental impacts on the European Union's energy security, gas market development in Central and Eastern Europe, and energy reforms in Ukraine; and
 
 &emsp;(10) that the United States Government should prioritize the export of United States energy resources in order to create American jobs, help United States allies and partners, and strengthen United States foreign policy.
 
@@ -96,7 +96,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(A) the United States should assist the efforts of the countries of Europe and Eurasia to enhance their energy security through diversification of energy supplies in order to lessen dependencies on Russian Federation energy resources and state-owned entities; and
 
-&emsp;&emsp;(B) the Export-Import Bank of the United States and the United States InternationalDevelopment Finance Corporation should play key roles in supporting critical energy projects that contribute to that goal.
+&emsp;&emsp;(B) the Export-Import Bank of the United States and the United States International Development Finance Corporation should play key roles in supporting critical energy projects that contribute to that goal.
 
 #### (3) Use of Countering Russian Influence Fund to provide technical assistance
 

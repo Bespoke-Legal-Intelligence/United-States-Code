@@ -64,6 +64,8 @@ For purposes of this section, the terms "reportable transaction" and "listed tra
 
 (Added Pub. L. 108–357, title VIII, §812(a), Oct. 22, 2004, 118 Stat. 1577; amended Pub. L. 109–135, title IV, §403(x)(2), Dec. 21, 2005, 119 Stat. 2629; Pub. L. 111–152, title I, §1409(b)(3), Mar. 30, 2010, 124 Stat. 1069; Pub. L. 113–295, div. A, title II, §220(w), Dec. 19, 2014, 128 Stat. 4036.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1409(b)(3) of Pub. L. 111–152, which directed the amendment of section 6662A without specifying the act to be amended, was executed to this section, which is section 6662A of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
@@ -95,6 +97,8 @@ Section 6662(e).—Section 6662(e) shall not apply to any portion of an understa
 &emsp;"(ii)
 
 Section 6662(h).—This section shall not apply to any portion of an understatement on which a penalty is imposed under section 6662(h)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

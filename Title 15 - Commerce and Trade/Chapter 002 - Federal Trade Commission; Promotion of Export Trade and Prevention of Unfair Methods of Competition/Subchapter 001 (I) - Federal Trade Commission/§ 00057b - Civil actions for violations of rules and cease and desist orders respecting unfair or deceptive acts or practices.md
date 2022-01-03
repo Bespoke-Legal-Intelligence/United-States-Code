@@ -4,7 +4,7 @@
 
 (1) If any person, partnership, or corporation violates any rule under this subchapter respecting unfair or deceptive acts or practices (other than an interpretive rule, or a rule violation of which the Commission has provided is not an unfair or deceptive act or practice in violation of section 45(a) of this title), then the Commission may commence a civil action against such person, partnership, or corporation for relief under subsection (b) in a United States district court or in any court of competent jurisdiction of a State.
 
-(2) If any person, partnership, or corporation engages in any unfair or deceptive act or practice (within the meaning of section 45(a)(1) of this title) with respect to which the Commission has issued a final cease and desist order which is applicable to such person, partnership, or corporation, then the Commission may commence a civil action against such person, partnership, orcorporation in a United States district court or in any court of competent jurisdiction of a State. If the Commission satisfies the court that the act or practice to which the cease and desist order relates is one which a reasonable man would have known under the circumstances was dishonest or fraudulent, the court may grant relief under subsection (b).
+(2) If any person, partnership, or corporation engages in any unfair or deceptive act or practice (within the meaning of section 45(a)(1) of this title) with respect to which the Commission has issued a final cease and desist order which is applicable to such person, partnership, or corporation, then the Commission may commence a civil action against such person, partnership, or corporation in a United States district court or in any court of competent jurisdiction of a State. If the Commission satisfies the court that the act or practice to which the cease and desist order relates is one which a reasonable man would have known under the circumstances was dishonest or fraudulent, the court may grant relief under subsection (b).
 
 #### (b) Nature of relief available
 
@@ -14,7 +14,7 @@ The court in an action under subsection (a) shall have jurisdiction to grant suc
 
 (1) If (A) a cease and desist order issued under section 45(b) of this title has become final under section 45(g) of this title with respect to any person's, partnership's, or corporation's rule violation or unfair or deceptive act or practice, and (B) an action under this section is brought with respect to such person's, partnership's, or corporation's rule violation or act or practice, then the findings of the Commission as to the material facts in the proceeding under section 45(b) of this title with respect to such person's, partnership's, or corporation's rule violation or act or practice, shall be conclusive unless (i) the terms of such cease and desist order expressly provide that the Commission's findings shall not be conclusive, or (ii) the order became final by reason of section 45(g)(1) of this title, in which case such finding shall be conclusive if supported by evidence.
 
-(2) The court shall cause notice of an action under this section to be given in a manner which is reasonably calculated, under all of the circumstances, to apprise the persons, partnerships, and corporations allegedly injured by the defendant's rule violation or act or practice of the pendency of such action. Such notice may, in the discretion of the court, be given by publication.
+(2) The court shall cause notice of an action under this section to be given in a manner which is reasonably calculated, under all of the circumstances, to apprise the persons, partnerships, and corporations allegedly injured by the defendant's rule violation or act or practice ofthe pendency of such action. Such notice may, in the discretion of the court, be given by publication.
 
 #### (d) Time for bringing of actions
 
@@ -25,6 +25,8 @@ No action may be brought by the Commission under this section more than 3 years 
 Remedies provided in this section are in addition to, and not in lieu of, any other remedy or right of action provided by State or Federal law. Nothing in this section shall be construed to affect any authority of the Commission under any other provision of law.
 
 (Sept. 26, 1914, ch. 311, §19, as added Pub. L. 93–637, title II, §206(a), Jan. 4, 1975, 88 Stat. 2201.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

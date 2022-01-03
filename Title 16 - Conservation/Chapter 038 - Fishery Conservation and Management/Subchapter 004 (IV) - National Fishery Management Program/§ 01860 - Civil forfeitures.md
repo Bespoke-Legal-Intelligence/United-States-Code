@@ -10,7 +10,7 @@ Any district court of the United States which has jurisdiction under section 186
 
 #### (c) Judgment
 
-If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously beenseized pursuant to this chapter or for which security has not previously been obtained under subsection (d). The provisions of the customs laws relating to—
+If a judgment is entered for the United States in a civil forfeiture proceeding under this section, the Attorney General may seize any property or other interest declared forfeited to the United States, which has not previously been seized pursuant to this chapter or for which security has not previously been obtained under subsection (d). The provisions of the customs laws relating to—
 
 &emsp;(1) the seizure, forfeiture, and condemnation of property for violation of the customs law;
 
@@ -18,7 +18,7 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 
 &emsp;(3) the remission or mitigation of any such forfeiture;
 
-> shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisions are inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
+> shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, unless such provisionsare inconsistent with the purposes, policy, and provisions of this chapter. The duties and powers imposed upon the Commissioner of U.S. Customs and Border Protection or other persons under such provisions shall, with respect to this chapter, be performed by officers or other persons designated for such purpose by the Secretary.
 
 #### (d) Procedure
 
@@ -41,6 +41,8 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 (3) For purposes of this chapter, it shall be a rebuttable presumption that any vessel that is shoreward of the outer boundary of the exclusive economic zone of the United States or beyond the exclusive economic zone of any nation, and that has gear on board that is capable of use for large-scale driftnet fishing, is engaged in such fishing.
 
 (Pub. L. 94–265, title III, §310, Apr. 13, 1976, 90 Stat. 357; Pub. L. 97–453, §12, Jan. 12, 1983, 96 Stat. 2491; Pub. L. 99–659, title I, §109(a), Nov. 14, 1986, 100 Stat. 3714; Pub. L. 101–627, title I, §116, Nov. 28, 1990, 104 Stat. 4456; Pub. L. 104–297, title I, §114(d), Oct. 11, 1996, 110 Stat. 3599; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,6 +70,8 @@ Subsec. (d)(1). Pub. L. 99–659, §109(a)(2), inserted provision that nothing i
 
 <b>1983</b>—Subsec. (a). Pub. L. 97–453 inserted "(or the fair market value thereof)" after "fish" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in concluding provisions of subsec. (c) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
@@ -78,5 +82,5 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

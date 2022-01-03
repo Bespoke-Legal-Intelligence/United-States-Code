@@ -136,7 +136,7 @@ Application process.—In carrying out the pilot program under this subsection, 
 
 &emsp;"(3)
 
-Report.—Not later than 1 year after initiating a pilot program under paragraph (1), the Secretaryshall submit to the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report on the pilot program, including—
+Report.—Not later than 1 year after initiating a pilot program under paragraph (1), the Secretary shall submit to the appropriate committees of Congress \[Committees on Commerce, Science and Transportation and Homeland Security and Governmental Affairs of the Senate and Committee on Homeland Security of the House of Representatives\] a report on the pilot program, including—
 
 &emsp;&emsp;"(A) an evaluation of the scanning technologies proposed to improve security at domestic ports and to meet the full-scale implementation requirement;
 

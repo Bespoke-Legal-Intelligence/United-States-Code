@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (A) Disability benefits
 
-&emsp;&emsp;For purposes of paragraph (1), disability benefits payable to any individual shall notbe taken into account to the extent such benefits are payable at an annual rate in excess of the lower of—
+&emsp;&emsp;For purposes of paragraph (1), disability benefits payable to any individual shall not be taken into account to the extent such benefits are payable at an annual rate in excess of the lower of—
 
 &emsp;&emsp;&emsp;(i) 75 percent of such individual's average compensation for his high 3 years (within the meaning of section 415(b)(3)), or
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (iii) SUB or severance pay benefits
 
-&emsp;&emsp;&emsp;In the case of SUB or severance pay benefits, the safe harbor limit for any taxable year is the amount determined under paragraph (3).
+&emsp;&emsp;&emsp;In the case of SUB or severance pay benefits, the safe harbor limit for any taxableyear is the amount determined under paragraph (3).
 
 #### (iv) Long-term disability or life insurance benefits
 
@@ -253,6 +253,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 98–369, div. A, title V, §511(a), July 18, 1984, 98 Stat. 856; amended Pub. L. 99–514, title XVIII, §1851(a)(2), (3)(A), (4)–(7), (9), (13), Oct. 22, 1986, 100 Stat. 2858–2860, 2862; Pub. L. 100–647, title I, §1018(t)(1)(C), (2)(A), (u)(12), Nov. 10, 1988, 102 Stat. 3587, 3590; Pub. L. 104–188, title I, §1704(t)(60), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 109–280, title VIII, §843(a), Aug. 17, 2006, 120 Stat. 1010; Pub. L. 115–141, div. U, title IV, §401(a)(96), (b)(21)(B), (C), Mar. 23, 2018, 132 Stat. 1188, 1202, 1203.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (c)(6)(B). Pub. L. 115–141, §401(a)(96), substituted "(42 U.S.C. 300gg–91(d)(3)))" for "(42 U.S.C. 300gg–91(d)(3))".
@@ -299,6 +301,8 @@ Subsec. (g)(3). Pub. L. 99–514, §1851(a)(9), added par. (3).
 
 Subsec. (h)(1). Pub. L. 99–514, §1851(a)(6)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "At the election of the employer, 2 or more welfare benefit funds of such employer may be treated as 1 fund."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title VIII, §843(b), Aug. 17, 2006, 120 Stat. 1010, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006."
@@ -317,7 +321,7 @@ For provisions that nothing in amendment by section 401(b)(21)(B), (C) of Pub. L
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such planamendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Application of Section 419A(e) to Group-Term Life Insurance
 

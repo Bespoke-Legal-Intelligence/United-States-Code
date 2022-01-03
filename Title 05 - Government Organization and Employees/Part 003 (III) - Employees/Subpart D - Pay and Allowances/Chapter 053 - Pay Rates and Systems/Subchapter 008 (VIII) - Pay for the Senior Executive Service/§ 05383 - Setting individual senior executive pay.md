@@ -22,7 +22,7 @@
 
 (B) The initial rate of pay for a career appointee following the position's conversion (as described in paragraph (1)(B)) may not be less than the rate of basic pay last payable to that individual immediately before such position's conversion.
 
-(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, §3,Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, §305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, §529 \[title I, §101(b)(7)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, §2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, §2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, §1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
+(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1171; amended Pub. L. 96–166, §3, Dec. 29, 1979, 93 Stat. 1273; Pub. L. 98–615, title III, §305, Nov. 8, 1984, 98 Stat. 3219; Pub. L. 101–509, title V, §529 \[title I, §101(b)(7)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 102–175, §2, Dec. 2, 1991, 105 Stat. 1222; Pub. L. 102–378, §2(35), Oct. 2, 1992, 106 Stat. 1351; Pub. L. 108–136, div. A, title XI, §1125(a)(3), Nov. 24, 2003, 117 Stat. 1639.)
 
 #### <b>Editorial Notes</b>
 

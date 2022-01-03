@@ -216,7 +216,7 @@ FinCEN Briefing.—Not later than 90 days after the date of enactment of this Ac
 
 #### Supervisory Team for Encouraging Information Sharing and Public-Private Partnerships
 
-Pub. L. 116–283, div. F, title LXII, §6214, Jan. 1, 2021, 134 Stat. 4579, provided that:
+Pub. L. 116–283, div. F, title LXII, §6214, Jan. 1, 2021, 134 Stat. 4579, as amended by Pub. L. 117–81, div. F, title LXI, §6106(a), Dec. 27, 2021, 135 Stat. 2387, provided that:
 
 "(a)
 
@@ -224,7 +224,7 @@ In General.—The Secretary \[of the Treasury\] shall convene a supervisory team
 
 "(b)
 
-Meetings.—The supervisory team convened under subsection (a) shall meet periodically to advise on strategies to combat the risk relating to proliferation financing.
+Meetings.—The supervisory team convened under subsection (a) shall meet periodically to advise on strategies for the purposes of countering illicit finance, including proliferation finance and sanctions evasion.
 
 "(c)
 
@@ -412,7 +412,7 @@ Findings.—The Congress finds that—
 
 &emsp;"(1) money laundering, estimated by the International Monetary Fund to amount to between 2 and 5 percent of global gross domestic product, which is at least $600,000,000,000 annually, provides the financial fuel that permits transnational criminal enterprises to conduct and expand their operations to the detriment of the safety and security of American citizens;
 
-&emsp;"(2) money laundering, and the defects in financial transparency on which money launderers rely, are critical to the financing of global terrorism and the provision of funds for terrorist attacks;
+&emsp;"(2) money laundering, and the defects in financial transparency on which money launderers rely, arecritical to the financing of global terrorism and the provision of funds for terrorist attacks;
 
 &emsp;"(3) money launderers subvert legitimate financial mechanisms and banking relationships by using them as protective covering for the movement of criminal proceeds and the financing of crime and terrorism, and, by so doing, can threaten the safety of United States citizens and undermine the integrity of United States financial institutions and of the global financial and trading systems upon which prosperity and growth depend;
 
@@ -540,7 +540,7 @@ Pub. L. 107–56, title III, §328, Oct. 26, 2001, 115 Stat. 319, provided that:
 
 #### Criminal Penalties
 
-Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: "Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: "Any person who is an official oremployee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title \[see Short Title of 2001 Amendment note set out under section 5301 of this title\], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
 
 &emsp;"(1) being influenced in the performance of any official act;
 
@@ -572,7 +572,7 @@ Additional recommendations.—The report required by paragraph (1) may make diff
 
 "(4)
 
-Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whoseassets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution."
+Beneficial ownership of personal holding companies.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution."
 
 #### Report on Need for Additional Legislation Relating to Informal Money Transfer Systems
 
@@ -864,7 +864,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 #### International Currency Transaction Reporting
 
-Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of theTreasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, §6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
 
 #### Restrictions on Laundering of United States Currency
 
@@ -892,7 +892,7 @@ Negotiations.—(1) The Secretary of the Treasury (hereinafter in this section r
 
 "(d)
 
-Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\], the Secretary shall submit an interim report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on progress in the negotiations under subsection (c). Not later than 2 years after such enactment, the Secretary shall submit a final report to such Committees and the President on the outcome of those negotiations and shall identify, inconsultation with the Attorney General and the Director of National Drug Control Policy, countries—
+Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 18, 1988\], the Secretary shall submit an interim report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on progress in the negotiations under subsection (c). Not later than 2 years after such enactment, the Secretary shall submit a final report to such Committees and the President on the outcome of those negotiations and shall identify, in consultation with the Attorney General and the Director of National Drug Control Policy, countries—
 
 &emsp;"(1) with respect to which the Secretary determines there is evidence that the financial institutions in such countries are engaging in currency transactions involving the proceeds of international narcotics trafficking; and
 

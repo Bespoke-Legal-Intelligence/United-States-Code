@@ -78,6 +78,8 @@ In this section:
 
 (Pub. L. 107–228, div. B, title XIII, §1308, Sept. 30, 2002, 116 Stat. 1439.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Iran-Iraq Arms Non-Proliferation Act of 1992, referred to in subsec. (c)(10), is title XVI of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2571, as amended, which is set out as a note under section 1701 of this title.
@@ -88,6 +90,8 @@ Section is comprised of section 1308 of Pub. L. 107–228. Subsec. (g) of sectio
 
 Section was enacted as part of the Security Assistance Act of 2002, and also as part of the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -95,6 +99,8 @@ Committee on International Relations of House of Representatives changed to Comm
 #### Definitions
 
 For definition of "Secretary" as used in this section, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

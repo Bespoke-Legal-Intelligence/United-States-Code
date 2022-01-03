@@ -4,9 +4,13 @@ Until the Rules of the House of Representatives are amended to provide otherwise
 
 (Pub. L. 95–556, §5, Oct. 31, 1978, 92 Stat. 2078; Pub. L. 97–357, title IV, §401, Oct. 19, 1982, 96 Stat. 1711.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–357 struck out proviso limiting clerk hire allowance for Delegate from American Samoa to 50 per centum of clerk hire allowance of a Member of House of Representatives.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

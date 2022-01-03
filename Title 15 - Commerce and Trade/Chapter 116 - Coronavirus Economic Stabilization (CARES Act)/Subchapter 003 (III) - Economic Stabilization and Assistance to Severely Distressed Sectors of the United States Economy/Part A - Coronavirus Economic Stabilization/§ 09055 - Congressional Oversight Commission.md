@@ -48,7 +48,7 @@ There is hereby established the Congressional Oversight Commission (hereafter in
 
 &emsp;&emsp;(D) 1 member appointed by the minority leader of the Senate.
 
-&emsp;&emsp;(E) 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives
+&emsp;&emsp;(E) 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives <sup>1</sup>
 
 #### (2) Pay
 
@@ -86,7 +86,7 @@ There is hereby established the Congressional Oversight Commission (hereafter in
 
 #### (3) Staff of agencies
 
-&emsp;Upon request of the Oversight Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Commission to assist it in carrying out its duties under the this <sup>1</sup> part.
+&emsp;Upon request of the Oversight Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Commission to assist it in carrying out its duties under the this <sup>2</sup> part.
 
 #### (e) Powers
 
@@ -126,11 +126,15 @@ The Oversight Commission shall terminate on September 30, 2025.
 
 (Pub. L. 116–136, div. A, title IV, §4020, Mar. 27, 2020, 134 Stat. 486.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This part, referred to in subsecs. (b), (d)(3), (e)(5), and (g)(2), was in the original "this subtitle", meaning subtitle A (§§4001–4029) of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which is classified principally to this part. For complete classification of subtitle A to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under section 9001 of this title, and Tables.
 
 Level I of the Executive Schedule, referred to in subsec. (c)(2), is set out in section 5312 of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

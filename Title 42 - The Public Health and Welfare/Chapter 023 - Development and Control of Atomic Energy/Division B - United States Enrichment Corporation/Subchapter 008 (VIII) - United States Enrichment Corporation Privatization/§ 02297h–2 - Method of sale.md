@@ -6,7 +6,7 @@ The Board of Directors of the Corporation, with the approval of the Secretary of
 
 #### (b) Board determination
 
-The Board, with the approval of the Secretary of the Treasury, shall select the method of transfer and establish terms and conditions for the transfer that will provide the maximum proceeds to the Treasury of the United States andwill provide for the long-term viability of the private corporation, the continued operation of the gaseous diffusion plants, and the public interest in maintaining reliable and economical domestic uranium mining and enrichment industries.
+The Board, with the approval of the Secretary of the Treasury, shall select the method of transfer and establish terms and conditions for the transfer that will provide the maximum proceeds to the Treasury of the United States and will provide for the long-term viability of theprivate corporation, the continued operation of the gaseous diffusion plants, and the public interest in maintaining reliable and economical domestic uranium mining and enrichment industries.
 
 #### (c) Adequate proceeds
 
@@ -21,6 +21,8 @@ Any offering or sale of securities by the private corporation shall be subject t
 Expenses of privatization shall be paid from Corporation revenue accounts in the United States Treasury.
 
 (Pub. L. 104–134, title III, §3104, Apr. 26, 1996, 110 Stat. 1321–336.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

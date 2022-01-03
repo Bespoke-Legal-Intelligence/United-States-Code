@@ -20,6 +20,8 @@ R.S. 5297.
 
 The words "armed forces" are substituted for the words "land or naval forces of the United States". The word "governor" is substituted for the word "executive". The word "may" is substituted for the words "it shall be lawful \* \* \* to". The words "into Federal service" are substituted for the word "forth" for uniformity and clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 251 was renumbered section 240a of this title.

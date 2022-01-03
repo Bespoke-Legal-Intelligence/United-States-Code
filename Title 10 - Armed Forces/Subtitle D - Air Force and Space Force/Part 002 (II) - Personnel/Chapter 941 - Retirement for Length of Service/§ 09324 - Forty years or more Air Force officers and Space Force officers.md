@@ -34,6 +34,8 @@ In subsections (a) and (b), the words "or volunteer service, or both" are omitte
 
 In subsection (b), the applicability of 10:942 to warrant officers is based on an opinion of the Judge Advocate General of the Army (JAGA 1950/6951, 4 Jan. 1951), which holds that 10:594 (less provisos) makes 10:942 applicable to warrant officers.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 substituted "Forty years or more: Air Force officers and Space Force officers" for "Forty years or more: Air Force officers" in section catchline and inserted "or the Space Force" after "Air Force" in subsecs. (a) and (b).
@@ -43,6 +45,8 @@ In subsection (b), the applicability of 10:942 to warrant officers is based on a
 Pub. L. 115–232, §806(b)(13), renumbered section 8924 of this title as this section.
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "section 1186" for "section 8786".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

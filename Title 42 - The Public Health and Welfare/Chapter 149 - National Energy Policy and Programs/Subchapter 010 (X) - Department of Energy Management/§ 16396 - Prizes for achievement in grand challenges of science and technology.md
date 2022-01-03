@@ -6,7 +6,7 @@ The Secretary may carry out a program to award cash prizes in recognition of bre
 
 #### (b) Competition requirements
 
-The program under subsection (a) may include prizes for the achievement of goals articulatedby the Secretary in a specific area through a widely advertised solicitation of submission of results for research, development, demonstration, or commercial application projects.
+The program under subsection (a) may include prizes for the achievement of goals articulated by the Secretary in a specific area through a widely advertised solicitation of submission of results for research, development, demonstration, or commercial application projects.
 
 #### (c) Prizes for processes and technologies to reduce dependence on imported oil
 
@@ -72,7 +72,7 @@ There are authorized to be appropriated—
 
 #### (D) Funding sources
 
-&emsp;&emsp;Prizes under this subsection shall consist of Federal appropriated funds and any funds provided by the administering entity (including funds raised pursuant to subparagraph (C)(ii)) for such cash prize programs. The Secretary may accept funds from other Federal agencies for such cash prizes and,notwithstanding section 3302(b) of title 31, may use such funds for the cash prize program under this subsection. Other than publication of the names of prize sponsors, the Secretary may not give any special consideration to any private sector entity or individual in return for a donation to the Secretary or administering entity.
+&emsp;&emsp;Prizes under this subsection shall consist of Federal appropriated funds and any funds provided by the administering entity (including funds raised pursuant to subparagraph (C)(ii)) for such cash prize programs. The Secretary may accept funds from other Federal agencies for such cash prizes and, notwithstanding section 3302(b) of title 31, may use such funds for the cash prize program under this subsection. Other than publication of the names of prize sponsors, the Secretary may not give any special consideration to any private sector entity or individual in return for a donation to the Secretary or administering entity.
 
 #### (E) Announcement of prizes
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated—
 
 #### (iii) Transformational technologies
 
-&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice required by paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
+&emsp;&emsp;&emsp;To the extent permitted under paragraph (1)(E), the Secretary shall announce one prize competition authorized under subparagraph (A)(iii) as soon after December 19, 2007, as is practicable. A prize offered under this clause shall be not less than $10,000,000, paid to the winner in a lump sum, and an additional amount paid to the winner as a match for each dollar of private funding raised by the winner for the hydrogen technology beginning on the date the winner was named. The match shall be provided for 3 years after the date the prize winner is named or until the full amount of the prize has been paid out, whichever occurs first. A prize winner may elect to have the match amount paid to another entity that is continuing the development of the winning technology. The Secretary shall announce the rules for receiving the match in the notice requiredby paragraph (1)(B)(ii). The Secretary shall award a prize under this clause only when a registered participant has met the objective criteria established for the prize pursuant to subparagraph (C) and announced pursuant to paragraph (1)(B)(ii). Not more than $10,000,000 in Federal funds may be used for the prize award under this clause. The administering entity shall seek to raise $40,000,000 toward the matching award under this clause.
 
 #### (C) Criteria
 
@@ -202,13 +202,15 @@ There are authorized to be appropriated—
 
 #### (B) Carryover of funds
 
-&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposesonly after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
+&emsp;&emsp;Funds appropriated for prize awards under this subsection shall remain available until expended, and may be transferred, reprogrammed, or expended for other purposes only after the expiration of 10 fiscal years after the fiscal year for which the funds were originally appropriated. No provision in this subsection permits obligation or payment of funds in violation of section 1341 of title 31 (commonly referred to as the Anti-Deficiency Act).
 
 #### (8) Nonsubstitution
 
 &emsp;The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
 
 (Pub. L. 109–58, title X, §1008, Aug. 8, 2005, 119 Stat. 933; Pub. L. 110–140, title VI, §654, Dec. 19, 2007, 121 Stat. 1695; Pub. L. 116–260, div. Z, title IX, §9004, Dec. 27, 2020, 134 Stat. 2598.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -221,6 +223,8 @@ Section 105 of the America Creating Opportunities to Meaningfully Promote Excell
 Subsecs. (f) to (h). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsecs. (e) and (f) as (f) and (g), respectively, to reflect the probable intent of Congress.
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–140 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

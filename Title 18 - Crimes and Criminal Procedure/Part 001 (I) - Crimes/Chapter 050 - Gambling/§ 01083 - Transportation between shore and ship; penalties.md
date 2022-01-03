@@ -1,6 +1,6 @@
 ### §1083. Transportation between shore and ship; penalties
 
-(a) It shall be unlawful to operate or use, or to permit the operation or use of, a vessel for the carriage or transportation, or for any part of the carriage or transportation, either directly or indirectly, of any passengers, for hire or otherwise, between a point or place within the United States and a gambling ship which is not within the jurisdiction of any State. This section doesnot apply to any carriage or transportation to or from a vessel in case of emergency involving the safety or protection of life or property.
+(a) It shall be unlawful to operate or use, or to permit the operation or use of, a vessel for the carriage or transportation, or for any part of the carriage or transportation, either directly or indirectly, of any passengers, for hire or otherwise, between a point or place within the United States and a gambling ship which is not within the jurisdiction of any State. This section does not apply to any carriage or transportation to or from a vessel in case of emergency involving the safety or protection of life or property.
 
 (b) The Secretary of the Treasury shall prescribe necessary and reasonable rules and regulations to enforce this section and to prevent violations of its provisions.
 

@@ -14,7 +14,7 @@ Each report under subsection (a) shall include the following:
 
 &emsp;(1) An estimate of the total amount that will be required to be expended by the United States during the fiscal year covered by the budget described in subsection (a) in order to achieve the objectives of the Program.
 
-&emsp;(2) A five-year plan setting forth the amount of funds and other resources proposed to be provided by the United States for the Program during the period covered by the plan, including the purpose for which such funds and resources will be used.
+&emsp;(2) A five-year plan setting forth the amount of funds and other resources proposed to beprovided by the United States for the Program during the period covered by the plan, including the purpose for which such funds and resources will be used.
 
 &emsp;(3) A description of the activities and assistance carried out under the Program during the fiscal year preceding the submission of the report, including—
 
@@ -53,6 +53,8 @@ Each report under subsection (a) shall include the following:
 &emsp;&emsp;(F) any other information that the Secretary considers relevant to provide a complete description of the operation and success of activities carried out under the Program.
 
 (Pub. L. 113–291, div. A, title XIII, §1343, Dec. 19, 2014, 128 Stat. 3605.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

@@ -20,6 +20,8 @@ Notwithstanding the provisions of subsection (b), or the prohibition in section 
 
 (Mar. 16, 1934, ch. 71, §5, 48 Stat. 452; June 15, 1935, ch. 261, title I, §5, 49 Stat. 380; Pub. L. 98–369, div. A, title X, §1077(a), (b)(3), July 18, 1984, 98 Stat. 1054, 1055; Pub. L. 100–653, title III, §302, Nov. 14, 1988, 102 Stat. 3827; Pub. L. 109–266, §10(f), Aug. 3, 2006, 120 Stat. 677.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Pub. L. 109–266, §10(f)(1), inserted section catchline.
@@ -39,6 +41,8 @@ Pub. L. 109–266, §10(f)(3)(A), (B), (C)(i), inserted heading, substituted "Se
 Subsec. (c). Pub. L. 98–369, §1077(a), added subsec. (c).
 
 <b>1935</b>—Act June 15, 1935, amended section generally.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

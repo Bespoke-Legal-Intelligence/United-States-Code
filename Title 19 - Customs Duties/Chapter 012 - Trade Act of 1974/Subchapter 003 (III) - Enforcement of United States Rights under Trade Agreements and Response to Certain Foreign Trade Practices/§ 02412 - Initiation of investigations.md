@@ -10,7 +10,7 @@
 
 (4) If the Trade Representative makes an affirmative determination under paragraph (2) with respect to a petition, the Trade Representative shall initiate an investigation regarding the issues raised in the petition. The Trade Representative shall publish a summary of the petition in the Federal Register and shall, as soon as possible, provide opportunity for the presentation of views concerning the issues, including a public hearing—
 
-&emsp;(A) within the 30-day period beginning on the date of the affirmative determination (or on a date after such period if agreed to by the petitioner) if a public hearing within such period is requested in the petition, or
+&emsp;(A) within the 30-day period beginning on the date of the affirmative determination (oron a date after such period if agreed to by the petitioner) if a public hearing within such period is requested in the petition, or
 
 &emsp;(B) at such other time if a timely request therefor is made by the petitioner or by any interested person.
 
@@ -42,6 +42,8 @@ In determining whether to initiate an investigation under subsection (a) or (b) 
 
 (Pub. L. 93–618, title III, §302, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 296; amended Pub. L. 98–573, title III, §304(d)(1), Oct. 30, 1984, 98 Stat. 3003; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1168; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(9)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043, which related to the procedure for Congressional disapproval of certain actions taken by the President to eliminate foreign import restrictions and export subsidies and which was classified to this section, was omitted in the general revision of chapter 1 of title III of Pub. L. 93–618 by Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 295.
@@ -53,6 +55,8 @@ A prior section 302 of Pub. L. 93–618, title III, Jan. 3, 1975, 88 Stat. 2043,
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting provisions relating to initiating investigations with or without petitions and discretion of Trade Representative for provisions relating to filing and determinations on petitions for investigations and investigations initiated by Trade Representative.
 
 <b>1984</b>—Pub. L. 98–573 amended section generally, substituting "United States Trade Representative" and "Trade Representative" for "Special Representative for Trade Negotiations" and "Special Representative", respectively, substituting "the reasons" for "his reasons" in subsec. (b)(1), substituting "a summary" for "the text" in subsec. (b)(2), striking out the comma after "petitioner)" in subsec. (b)(2)(A), and inserting "or by any interested person" after "petitioner" in subsec. (b)(2)(B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

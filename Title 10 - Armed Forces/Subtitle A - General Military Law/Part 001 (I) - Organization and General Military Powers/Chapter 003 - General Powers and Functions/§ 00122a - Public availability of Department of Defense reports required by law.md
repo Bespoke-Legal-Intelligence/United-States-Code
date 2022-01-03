@@ -22,9 +22,21 @@ Covered Reports.—(1) Except as provided in paragraph (2), a report described i
 
 &emsp;(D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
 
-(Added Pub. L. 111–383, div. A, title X, §1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, §1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, §1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, §1081(a)(3), Dec. 12, 2017, 131 Stat. 1594.)
+(c) <sup>1</sup>
+
+Semi-annual Summaries.—Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
+
+(Added Pub. L. 111–383, div. A, title X, §1061(a)(1), Jan. 7, 2011, 124 Stat. 4362; amended Pub. L. 112–81, div. A, title X, §1068, Dec. 31, 2011, 125 Stat. 1589; Pub. L. 113–66, div. A, title X, §1081(a), Dec. 26, 2013, 127 Stat. 871; Pub. L. 115–91, div. A, title X, §1081(a)(3), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 117–81, div. A, title X, §1062(a), Dec. 27, 2021, 135 Stat. 1909.)
+
+#### Applicability of Amendment
+
+<i>Subsec. (c) of this section as added by section 1062(a) of Pub. L. 117–81 applicable one year after Dec. 27, 2021. See Effective Date of 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–81 added subsec. (c).
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 substituted "acting through the Assistant to the Secretary of Defense for Public Affairs" for "acting through the Office of the Assistant Secretary of Defense for Public Affairs" in introductory provisions.
 
@@ -35,6 +47,12 @@ Covered Reports.—(1) Except as provided in paragraph (2), a report described i
 &emsp;"(2) to the maximum extent practicable, transmitted in an electronic format."
 
 <b>2011</b>—Subsec. (a). Pub. L. 112–81 substituted pars. (1) and (2) for "made available to the public, upon request submitted on or after the date on which such report is submitted to Congress, through the Office of the Assistant Secretary of Defense for Public Affairs."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–81, div. A, title X, §1062(b), Dec. 27, 2021, 135 Stat. 1909, provided that: "Subsection (c) of section 122a of title 10, United States Code, as added by subsection (a), shall apply beginning on the date that is one year after the date of the enactment of this Act \[Dec. 27, 2021\]."
 
 #### Effective Date of 2013 Amendment
 
@@ -79,4 +97,6 @@ Notice.— If the Secretary issues a waiver under this subsection, the Secretary
 "(c)
 
 Sensitive Military Operation Defined.—The term 'sensitive military operation' has the meaning given that term in section 130f(d) of title 10, United States Code."
+
+<i><sup>1</sup></i><i> See Applicability of Amendment note below.</i>
 

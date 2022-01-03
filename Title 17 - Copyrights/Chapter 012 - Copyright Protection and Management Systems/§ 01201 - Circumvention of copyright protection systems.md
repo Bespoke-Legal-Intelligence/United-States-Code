@@ -108,13 +108,13 @@ Encryption Research.—
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term "encryption research" means activities necessary to identify and analyzeflaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
+&emsp;&emsp;(A) the term "encryption research" means activities necessary to identify and analyze flaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
 
 &emsp;&emsp;(B) the term "encryption technology" means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
 &emsp;(2)
 
-Permissible acts of encryption research.—Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
+Permissible acts of encryption research.—Notwithstanding the provisions ofsubsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if—
 
 &emsp;&emsp;(A) the person lawfully obtained the encrypted copy, phonorecord, performance, or display of the published work;
 
@@ -180,7 +180,7 @@ Circumvention permitted.—Notwithstanding the provisions of subsection (a)(1)(A
 
 &emsp;(2)
 
-Inapplicability to certain technological measures.—This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminatepersonally identifying information and that is disclosed to a user as not having or using such capability.
+Inapplicability to certain technological measures.—This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminate personally identifying information and that is disclosed to a user as not having or using such capability.
 
 (j)
 
@@ -238,9 +238,9 @@ Certain analog devices.—
 
 Certain encoding restrictions.—No person shall apply the automatic gain control copy control technology or colorstripe copy control technology to prevent or limit consumer copying except such copying—
 
-&emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or ofaudiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
+&emsp;&emsp;(A) of a single transmission, or specified group of transmissions, of live events or of audiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;
 
-&emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of the public for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
+&emsp;&emsp;(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of thepublic for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;
 
 &emsp;&emsp;(C) from a physical medium containing one or more prerecorded audiovisual works; or
 
@@ -312,7 +312,7 @@ Repeal and Replace.—As of the date of the enactment of this Act \[Aug. 1, 2014
 
 "(b)
 
-Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, whoshall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall be made in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
+Rulemaking.—The Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall determine, consistent with the requirements set forth under section 1201(a)(1) of title 17, United States Code, whether to extend the exemption for the class of works described in section 201.40(b)(3) of title 37, Code of Federal Regulations, as amended by subsection (a), to include any other category of wireless devices in addition to wireless telephone handsets. The determination shall bemade in the first rulemaking under section 1201(a)(1)(C) of title 17, United States Code, that begins on or after the date of enactment of this Act.
 
 "(c)
 

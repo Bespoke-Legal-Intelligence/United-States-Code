@@ -14,7 +14,7 @@ The Commission may, in its discretion and upon a showing that such information i
 
 #### (d) Records obtained from foreign securities authorities
 
-Except as provided in subsection (g), the Commission shall not be compelled to discloserecords obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Except as provided in subsection (g), the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Freedom of Information Act
 
@@ -76,6 +76,8 @@ Nothing in this section shall—
 
 (June 6, 1934, ch. 404, title I, §24, 48 Stat. 901; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; Pub. L. 94–29, §19, June 4, 1975, 89 Stat. 158; Pub. L. 101–550, title II, §202(a), Nov. 15, 1990, 104 Stat. 2715; Pub. L. 111–203, title IX, §§929I(a), 929K, July 21, 2010, 124 Stat. 1857, 1860; Pub. L. 111–257, §1(a), Oct. 5, 2010, 124 Stat. 2646.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (e)(2), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -116,6 +118,8 @@ Subsecs. (c) to (e). Pub. L. 101–550, §202(a)(2), added subsecs. (c) to (e).
 
 Subsecs. (b), (c). Pub. L. 94–29 redesignated subsec. (c) as (b) and substituted "application, statement, report, contract, correspondence, notice, or other document filed with or otherwise obtained by the Commission (1) in contravention of the rules and regulations of the Commission under section 552 of title 5, or (2) in circumstances where the Commission has determined pursuant to such rules to accord confidential treatment for such information. Nothing in this subsection shall authorize the Commission to withhold information from Congress" for "application, report, or document filed with the Commission which is not made available to the public pursuant to subsection (b) of this section: Provided, That the Commission may make available to the Board of Governors of the Federal Reserve System any information requested by the Board for the purpose of enabling it to perform its duties under this chapter". Former subsec. (b), providing for written objection to public disclosure of information, was struck out.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Section 203(a) of act Aug. 23, 1935, substituted "Board of Governors of the Federal Reserve System" for "Federal Reserve Board".
@@ -127,6 +131,8 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under section 78b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

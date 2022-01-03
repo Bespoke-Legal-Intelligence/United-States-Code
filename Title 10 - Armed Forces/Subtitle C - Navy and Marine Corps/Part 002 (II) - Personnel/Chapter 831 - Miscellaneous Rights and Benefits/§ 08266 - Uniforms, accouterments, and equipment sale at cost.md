@@ -20,9 +20,13 @@ Jan. 12, 1919, ch. 8, 40 Stat. 1054; Aug. 4, 1949, ch. 393, §9, 63 Stat. 559.
 
 The words "officers and midshipmen of the naval service" are substituted for the words "any officer of the Navy or any officer of the Marine Corps" and "any midshipman". The words "at the Naval Academy" are omitted. The statute is interpreted as covering all midshipmen, including the reserve category created by subsequent statute. The word "sold" is substituted for the word "furnished" for directness of expression.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6155 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

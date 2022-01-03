@@ -1,6 +1,6 @@
 ### §590c. Conditions under which benefits of law extended to nongovernment controlled lands
 
-As a condition to the extending of any benefits under this chapter to any lands not owned or controlled by the United States or any of its agencies, the Secretary of Agriculture may, insofar as he may deem necessary for the purposes of this chapter, require the following:
+As a condition to the extending of any benefits under this chapter to any lands not owned orcontrolled by the United States or any of its agencies, the Secretary of Agriculture may, insofar as he may deem necessary for the purposes of this chapter, require the following:
 
 (1) The enactment and reasonable safeguards for the enforcement of State and local laws imposing suitable permanent restrictions on the use of such lands and otherwise providing for the prevention of soil erosion.
 
@@ -32,6 +32,8 @@ As a condition to the extending of any benefits under this chapter to any lands 
 
 (Apr. 27, 1935, ch. 85, §3, 49 Stat. 163; Pub. L. 113–67, div. A, title VII, §705(a), Dec. 26, 2013, 127 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Pub. L. 113–67, §705(a)(1), substituted "require the following:" for "require—" in introductory provisions.
@@ -41,6 +43,8 @@ Par. (1). Pub. L. 113–67, §705(a)(2), substituted period for semicolon at end
 Par. (2). Pub. L. 113–67, §705(a)(3), substituted period at end for "; and".
 
 Par. (4). Pub. L. 113–67, §705(a)(4), added par. (4).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

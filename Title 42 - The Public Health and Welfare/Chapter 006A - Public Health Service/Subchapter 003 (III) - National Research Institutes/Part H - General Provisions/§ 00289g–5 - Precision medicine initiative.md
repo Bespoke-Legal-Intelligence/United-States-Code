@@ -50,3 +50,33 @@ Not later than 1 year after December 13, 2016, the Secretary shall submit a repo
 
 (July 1, 1944, ch. 373, title IV, §498E, as added Pub. L. 114–255, div. A, title II, §2011, Dec. 13, 2016, 130 Stat. 1047.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Funding for SARS–COV–2 Genomic Sequencing and Surveillance
+
+Pub. L. 117–2, title II, §2402, Mar. 11, 2021, 135 Stat. 41, provided that:
+
+"(a)
+
+In General.—In addition to amounts otherwise available, there is appropriated to the Secretary \[of Health and Human Services\] for fiscal year 2021 out of any money in the Treasury not otherwise appropriated, $1,750,000,000, to remain available until expended, to strengthen and expand activities and workforce related to genomic sequencing, analytics, and disease surveillance.
+
+"(b)
+
+Use of Funds.—From amounts appropriated by subsection (a), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall—
+
+&emsp;"(1) conduct, expand, and improve activities to sequence genomes, identify mutations, and survey the circulation and transmission of viruses and other organisms, including strains of SARS–CoV–2;
+
+&emsp;"(2) award grants or cooperative agreements to State, local, Tribal, or territorial public health departments or public health laboratories—
+
+&emsp;&emsp;"(A) to increase their capacity to sequence genomes of circulating strains of viruses and other organisms, including SARS–CoV–2;
+
+&emsp;&emsp;"(B) to identify mutations in viruses and other organisms, including SARS–CoV–2;
+
+&emsp;&emsp;"(C) to use genomic sequencing to identify outbreaks and clusters of diseases or infections, including COVID–19; and
+
+&emsp;&emsp;"(D) to develop effective disease response strategies based on genomic sequencing and surveillance data;
+
+&emsp;"(3) enhance and expand the informatics capabilities of the public health workforce; and
+
+&emsp;"(4) award grants for the construction, alteration, or renovation of facilities to improve genomic sequencing and surveillance capabilities at the State and local level."
+

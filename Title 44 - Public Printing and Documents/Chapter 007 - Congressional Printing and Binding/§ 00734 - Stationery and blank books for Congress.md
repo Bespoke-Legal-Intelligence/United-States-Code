@@ -14,11 +14,11 @@ Based on 44 U.S. Code, 1964 ed., §146 (Jan. 12, 1895, ch. 23, §2, 28 Stat. 601
 
 <b>2014</b>—Pub. L. 113–235 substituted "Director of the Government Publishing Office" for "Public Printer".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Stationery room of House of Representatives redesignated Office Supply Service.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

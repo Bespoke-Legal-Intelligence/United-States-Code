@@ -56,9 +56,13 @@ In order to develop challenging State academic standards and assessments, a Stat
 
 (Pub. L. 89–10, title VIII, §8201, formerly title IX, §9201, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1966; renumbered title VIII, §8201, and amended Pub. L. 114–95, title VIII, §§8001(a)(2), 8005, Dec. 10, 2015, 129 Stat. 2088, 2089, 2100.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b)(2)(I). Pub. L. 114–95, §8005, added subpar. (I).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

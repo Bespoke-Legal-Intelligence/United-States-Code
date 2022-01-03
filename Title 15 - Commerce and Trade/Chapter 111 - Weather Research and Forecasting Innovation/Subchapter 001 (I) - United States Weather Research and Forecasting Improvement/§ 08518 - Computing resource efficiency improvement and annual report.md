@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In acquiring computing capabilities, including high performance computing technologies and supercomputing technologies, that enable the National Oceanic and Atmospheric Administration to meet its mission requirements, the Under Secretary shall, when appropriate and cost-effective, assess and prioritize options for entering into multi-year lease agreements for computing capabilities over options for purchasing computing hardware outright.
+&emsp;In acquiring computing capabilities, including high performance computing technologies and supercomputing technologies, that enable the National Oceanic and Atmospheric Administration to meet its mission requirements,the Under Secretary shall, when appropriate and cost-effective, assess and prioritize options for entering into multi-year lease agreements for computing capabilities over options for purchasing computing hardware outright.
 
 #### (2) Acquisition
 
@@ -51,6 +51,8 @@ Not later than 1 year after January 7, 2019, and triennially thereafter until th
 &emsp;(7) to create a long-term strategy to transition the programming language of weather model code to current and broadly-used coding language.
 
 (Pub. L. 115–25, title I, §108, Apr. 18, 2017, 131 Stat. 97; Pub. L. 115–423, §5(a), Jan. 7, 2019, 132 Stat. 5457.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

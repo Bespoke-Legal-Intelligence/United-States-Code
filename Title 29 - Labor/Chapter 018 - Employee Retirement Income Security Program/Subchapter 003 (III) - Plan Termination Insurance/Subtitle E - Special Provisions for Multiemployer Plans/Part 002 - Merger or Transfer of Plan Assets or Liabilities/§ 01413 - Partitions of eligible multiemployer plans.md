@@ -44,7 +44,7 @@ The corporation's partition order shall provide for a transfer to the plan refer
 
 &emsp;(B) the monthly benefit for such participant or beneficiary which is guaranteed under section 1322a of this title.
 
-(2) In any case in which a plan provides a benefit improvement (as defined in section1085(e)(9)(E)(vi) of this title) that takes effect after the effective date of the partition, the plan shall pay to the corporation for each year during the 10-year period following the partition effective date, an annual amount equal to the lesser of—
+(2) In any case in which a plan provides a benefit improvement (as defined in section 1085(e)(9)(E)(vi) of this title) that takes effect after the effective date of the partition, the plan shall pay to the corporation for each year during the 10-year period following the partition effective date, an annual amount equal to the lesser of—
 
 &emsp;(A) the total value of the increase in benefit payments for such year that is attributable to the benefit improvement, or
 

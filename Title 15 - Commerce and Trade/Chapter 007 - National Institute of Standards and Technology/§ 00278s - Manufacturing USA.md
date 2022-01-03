@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(C) to facilitate the transition of innovative technologies into scalable, cost-effective, and high-performing manufacturing capabilities;
 
-&emsp;&emsp;(D) to facilitate access by manufacturing enterprises to capital-intensive infrastructure, including high-performance electronics and computing, and the supply chains that enable these technologies;
+&emsp;&emsp;(D) to facilitate access by manufacturing enterprises to capital-intensive infrastructure, including high-performance electronicsand computing, and the supply chains that enable these technologies;
 
 &emsp;&emsp;(E) to accelerate the development of an advanced manufacturing workforce;
 
@@ -74,7 +74,7 @@ In this section:
 
 &emsp;&emsp;(C) has the potential—
 
-&emsp;&emsp;&emsp;(i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chainwater optimization, aeronautics and advanced materials, and graphene and graphene commercialization;
+&emsp;&emsp;&emsp;(i) to improve the competitiveness of United States manufacturing, including key advanced manufacturing technologies such as nanotechnology, advanced ceramics, photonics and optics, composites, biobased and advanced materials, flexible hybrid technologies, tool development for microelectronics, food manufacturing, superconductors, advanced battery technologies, robotics, advanced sensors, quantum information science, supply chain water optimization, aeronautics and advanced materials, and graphene and graphene commercialization;
 
 &emsp;&emsp;&emsp;(ii) to accelerate non-Federal investment in advanced manufacturing production capacity in the United States; or
 
@@ -100,7 +100,7 @@ In this section:
 
 #### (B) Permissible activities
 
-&emsp;&emsp;In addition to the activities set forth under subparagraph (A), a Manufacturing USA institute may carry out such other activities as may be consistent with the purposes set forth under subsection (b)(2).
+&emsp;&emsp;In addition to the activities set forth under subparagraph (A), a ManufacturingUSA institute may carry out such other activities as may be consistent with the purposes set forth under subsection (b)(2).
 
 #### (3) Additional Manufacturing USA institutes
 
@@ -248,7 +248,7 @@ In this section:
 
 #### (6) Collaboration
 
-&emsp;In awarding financial assistance under paragraph (1), an agency head, in coordination with the National Program Office, as the agency head considers appropriate, may collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including, as the agency head considers appropriate, the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation.
+&emsp;In awarding financial assistance under paragraph (1), an agency head, in coordinationwith the National Program Office, as the agency head considers appropriate, may collaborate with Federal departments and agencies whose missions contribute to or are affected by advanced manufacturing, including, as the agency head considers appropriate, the Department of Agriculture, the Department of Defense, the Department of Education, the Department of Energy, the Department of Labor, the Food and Drug Administration, the National Aeronautics and Space Administration, the National Institutes of Health, and the National Science Foundation.
 
 #### (7) Matching funds and preferences
 
@@ -318,7 +318,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 &emsp;&emsp;(K) to identify and disseminate best practices for workforce education and training across the Network and further enhance collaboration among Manufacturing USA institutes in developing and implementing such practices;
 
-&emsp;&emsp;(L) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, and labor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
+&emsp;&emsp;(L) to collaborate with the Department of Labor, the Department of Education, industry, career and technical education schools, local community colleges, universities, andlabor organizations to provide input, as appropriate, for the development of national certifications for advanced manufacturing workforce skills in the technology areas of the Manufacturing USA institutes; and
 
 &emsp;&emsp;(M) to coordinate with Manufacturing USA institutes to develop best practices for the membership agreements and coordination of similar project solicitations.
 
@@ -402,7 +402,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 #### (A) Assessments
 
-&emsp;&emsp;Not less frequently than once every 3 years, the Comptroller General of the United States shall submit to Congress an assessment of the operation of the Program during the most recent 3-year period, including an assessment of the progress made towards achieving the goals specified in the national strategic plan for advanced manufacturing required under section 6622(b)(7) of title 42.
+&emsp;&emsp;Not less frequently than once every 3 years, the Comptroller General of the United States shall submit to Congress an assessment of the operation of the Program duringthe most recent 3-year period, including an assessment of the progress made towards achieving the goals specified in the national strategic plan for advanced manufacturing required under section 6622(b)(7) of title 42.
 
 #### (B) Elements
 
@@ -444,7 +444,7 @@ The Secretary may award a grant on a competitive basis to a Manufacturing USA in
 
 #### (6) Covered entities
 
-&emsp;For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States,State, local government, Tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
+&emsp;For purposes of this subsection, a covered entity is any Federal department, Federal agency, instrumentality of the United States, State, local government, Tribal government, territory, or possession of the United States, or of any political subdivision thereof, or international organization, or any public or private entity or individual.
 
 #### (7) Collaborations with other agencies
 
@@ -482,6 +482,8 @@ Any reference in law, regulation, map, document, paper, or other record of the U
 
 (Mar. 3, 1901, ch. 872, §34, as added Pub. L. 113–235, div. B, title VII, §703(2), Dec. 16, 2014, 128 Stat. 2221; amended Pub. L. 116–92, div. A, title XVII, §1741(a), Dec. 20, 2019, 133 Stat. 1826.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and is set out as a Short Title note under section 271 of this title.
@@ -489,6 +491,8 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Coordination With Hollings Manufacturing Extension Partnership Centers
 

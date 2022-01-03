@@ -4,9 +4,13 @@ When title to the site of the Andrew Johnson Homestead and the site of the tailo
 
 (Aug. 29, 1935, ch. 801, §1, 49 Stat. 958; Pub. L. 88–197, §1, Dec. 11, 1963, 77 Stat. 349.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "National historic site" substituted in text for "national monument" on authority of Pub. L. 88–197, which redesignated Andrew Johnson National Monument as Andrew Johnson National Historic Site.
+
+#### <b>Executive Documents</b>
 
 #### Establishment of Monument; Boundaries
 

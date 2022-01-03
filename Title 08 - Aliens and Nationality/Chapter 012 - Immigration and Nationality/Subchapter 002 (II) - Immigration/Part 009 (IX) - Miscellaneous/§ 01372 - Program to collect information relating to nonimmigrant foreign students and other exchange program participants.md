@@ -34,7 +34,7 @@
 
 #### (4) Reporting requirements
 
-&emsp;Not later than 30 days after the deadline for registering for classes for an academic term of an approved institution of higher education or other approved educational institution for which documentation is issued for an alien as described in paragraph (3)(A), or the scheduled commencement of participation by an alien in a designated exchange visitor program, as the case may be, the institution or program, respectively, shall report to the Immigration and Naturalization Service any failure of the alien to enroll or to commence participation.
+&emsp;Not later than 30 days after the deadline for registering for classes for an academic term of an approved institution of higher education or other approved educational institution for which documentation is issued for an alien asdescribed in paragraph (3)(A), or the scheduled commencement of participation by an alien in a designated exchange visitor program, as the case may be, the institution or program, respectively, shall report to the Immigration and Naturalization Service any failure of the alien to enroll or to commence participation.
 
 #### (b) Covered countries
 
@@ -174,7 +174,7 @@ As used in this section:
 
 #### References in Text
 
-The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c)(2), is section 513 of Pub. L. 93–380, title V, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of Title 20, Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of Title 20 and Tables.
+The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c)(2), is section 513 of Pub.L. 93–380, title V, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of Title 20, Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of Title 20 and Tables.
 
 #### Codification
 

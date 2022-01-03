@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation, and the Administrator for Nuclear Security, acting through the Director for Cost Estimating and Program Evaluation, shall collect and store cost, programmatic, and technical data relating to programs and projects of the nuclear security enterprise and nuclear forces.
+In General.—The Secretary of Defense, acting through the Director of Cost Assessment and Program Evaluation, and the Administratorfor Nuclear Security, acting through the Director for Cost Estimating and Program Evaluation, shall collect and store cost, programmatic, and technical data relating to programs and projects of the nuclear security enterprise and nuclear forces.
 
 (b)
 
@@ -33,6 +33,8 @@ Contract Requirements.—The Secretary and the Administrator shall ensure that a
 Nuclear Security Enterprise Defined.—In this section, the term "nuclear security enterprise" has the meaning given that term in section 4002 of the Atomic Energy Defense Act (50 U.S.C. 2501).
 
 (Added Pub. L. 115–91, div. A, title XVI, §1652(a), Dec. 12, 2017, 131 Stat. 1757; amended Pub. L. 115–232, div. A, title X, §1081(a)(7), Aug. 13, 2018, 132 Stat. 1983.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

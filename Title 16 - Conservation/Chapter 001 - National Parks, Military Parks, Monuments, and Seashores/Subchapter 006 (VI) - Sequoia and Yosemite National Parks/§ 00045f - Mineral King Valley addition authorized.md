@@ -4,7 +4,7 @@
 
 It is the purpose of this section to—
 
-&emsp;(1) assure the preservation for this and future generations of the outstanding natural and scenic features of the area commonly known as the Mineral King Valley and previously designated as the Sequoia National Game Refuge; and
+&emsp;(1) assure the preservation for this and future generations of the outstanding naturaland scenic features of the area commonly known as the Mineral King Valley and previously designated as the Sequoia National Game Refuge; and
 
 &emsp;(2) enhance the ecological values and public enjoyment of such area by adding such area to the Sequoia National Park.
 
@@ -28,7 +28,7 @@ It is the purpose of this section to—
 
 (6) If the management plan prepared under subsection (e) provides for improved access to the area added to the park under this section, the Secretary is authorized to acquire, by donation, purchase with donated or appropriated funds, exchange or transfer from other Federal departments or agencies, the area comprising the road from State Route 198 to, and within, the Mineral King Valley together with a right-of-way for such road of a width sufficient to include improvements to the road and all bridges, ditches, cuts, and fills appurtenant thereto, but not exceeding a maximum average width of two hundred feet. Property acquired from the State or any political subdivision thereof may be acquired by donation only. With regard to routes of access to and within the Mineral King Valley, the Secretary shall take such measures as are necessary to protect against the effects of siltation on the ecosystem of the park.
 
-(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1) the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
+(7) The Secretary shall report to the committees of the Congress named in subsection (b)(1)the action taken by him pursuant to this subsection. Such report shall contain information sufficient to inform such committees of—
 
 &emsp;(A) the acquisitions made by him pursuant to this subsection during the period covered by such report;
 
@@ -54,7 +54,7 @@ It is the purpose of this section to—
 
 (2)(A) In preparing the comprehensive management plan required by this subsection and in preparing any subsequent revision of such plan, the Secretary shall provide for full public participation and shall consider the comments and views of all interested agencies, organizations, and individuals.
 
-(B) For purposes of insuring such full public participation, the Secretary shall provide reasonable advance notice to State and local governments, interested Federal agencies, privateorganizations, and the general public of hearings, workshops, meetings, and other opportunities available for such participation. Such notice shall be published in newspapers of general circulation in the localities affected by the development and management of the park, published in the Federal Register, and communicated by other appropriate means. The Western Regional Advisory Committee of the National Park Service (or a subcommittee thereof) shall also be utilized for purposes of facilitating public involvement.
+(B) For purposes of insuring such full public participation, the Secretary shall provide reasonable advance notice to State and local governments, interested Federal agencies, private organizations, and the general public of hearings, workshops, meetings, and other opportunities available for such participation. Such notice shall be published in newspapers of general circulation in the localities affected by the development and management of the park, published in the Federal Register, and communicated by other appropriate means. The Western Regional Advisory Committee of the National Park Service (or a subcommittee thereof) shall also be utilized for purposes of facilitating public involvement.
 
 (C) The Secretaries or Directors of all Federal departments, agencies, and commissions having a relevant expertise are hereby authorized and directed to cooperate with the Secretary in his development of such plan and to make such studies as the Secretary may request on a cost reimbursable basis.
 
@@ -71,6 +71,8 @@ There are hereby authorized to be appropriated such sums as may be necessary for
 The Congress recognizes that the Mineral King Valley area has outstanding potential for certain year-round recreational opportunities, but the development of permanent facilities for downhill skiing within the area would be inconsistent with the preservation and enhancement of its ecological values.
 
 (Pub. L. 95–625, title III, §314, Nov. 10, 1978, 92 Stat. 3479; Pub. L. 103–437, §6(d)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 108–447, div. E, title I, §139(b), Dec. 8, 2004, 118 Stat. 3068.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Section is comprised of section 314 of Pub. L. 95–625. Subsec. (d)(3) of secti
 Subsec. (d)(2)(B). Pub. L. 108–447, §139(b)(2), inserted "and to their heirs, successors, and assigns" after "of record on November 10, 1978," in third sentence.
 
 <b>1994</b>—Subsec. (b)(1). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

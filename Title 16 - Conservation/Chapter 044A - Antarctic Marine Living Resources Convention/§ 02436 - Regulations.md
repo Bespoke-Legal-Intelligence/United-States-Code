@@ -22,9 +22,13 @@ The Secretary of Commerce, after consultation with the Secretary of State, the S
 
 (Pub. L. 98–623, title III, §307, Nov. 8, 1984, 98 Stat. 3401; Pub. L. 114–81, title I, §106(2), Nov. 5, 2015, 129 Stat. 658.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–81 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

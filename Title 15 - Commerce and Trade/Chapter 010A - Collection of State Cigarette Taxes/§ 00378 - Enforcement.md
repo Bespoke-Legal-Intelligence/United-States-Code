@@ -14,7 +14,7 @@ The Attorney General of the United States shall administer and enforce this chap
 
 #### (A) Standing
 
-&emsp;&emsp;A State, through its attorney general, or a local government or Indian tribe that levies a tax subject to section 376a(a)(3) of this title, through its chief law enforcement officer, may bring an action in a United States district court to prevent and restrain violations of this chapter by any person or to obtain any other appropriate relief from any person for violations of this chapter, including civil penalties, money damages, and injunctive or other equitable relief.
+&emsp;&emsp;A State, through its attorney general, or a local government or Indian tribe that leviesa tax subject to section 376a(a)(3) of this title, through its chief law enforcement officer, may bring an action in a United States district court to prevent and restrain violations of this chapter by any person or to obtain any other appropriate relief from any person for violations of this chapter, including civil penalties, money damages, and injunctive or other equitable relief.
 
 #### (B) Sovereign immunity
 
@@ -38,7 +38,7 @@ The Attorney General of the United States shall administer and enforce this chap
 
 #### (A) In general
 
-&emsp;&emsp;The remedies available under this section and section 377 of this title are in addition toany other remedies available under Federal, State, local, tribal, or other law.
+&emsp;&emsp;The remedies available under this section and section 377 of this title are in addition to any other remedies available under Federal, State, local, tribal, or other law.
 
 #### (B) State court proceedings
 
@@ -78,9 +78,13 @@ Any person who holds a permit under section 5712 of title 26 (regarding permitti
 
 (Oct. 19, 1949, ch. 699, §4, as added Pub. L. 111–154, §2(e), Mar. 31, 2010, 124 Stat. 1101.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 378, act Oct. 19, 1949, ch. 699, §4, as added Aug. 9, 1955, ch. 695, §1, 69 Stat. 628, which provided U.S. district courts with jurisdiction to prevent and restrain violations of this chapter, was repealed, effective on the date that is 90 days after March 31, 2010, by Pub. L. 111–154, §§2(e), 6, Mar. 31, 2010, 124 Stat. 1101, 1110.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

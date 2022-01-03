@@ -16,7 +16,7 @@ Priority.—In selecting individuals to participate in the Program, the Secretar
 
 &emsp;&emsp;(A) designated as a medically underserved population under section 330(b)(3) of the Public Health Service Act (42 U.S.C. 254b(b)(3)); and
 
-&emsp;&emsp;(B) in a State with a per capita population of veterans of more than five percent according to the National Center for VeteransAnalysis and Statistics and the Bureau of the Census.
+&emsp;&emsp;(B) in a State with a per capita population of veterans of more than five percent according to the National Center for Veterans Analysis and Statistics and the Bureau of the Census.
 
 &emsp;(2) An individual who is a veteran.
 

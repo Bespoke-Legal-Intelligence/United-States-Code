@@ -120,7 +120,7 @@
 
 #### (iii) Reduced data authorized
 
-&emsp;&emsp;&emsp;Nothing in this subchapter shall be construed as limiting the authority of the Secretary to reduce the number of data elements required of reapplicants.
+&emsp;&emsp;&emsp;Nothing in this subchapter shall be construed as limiting the authority of theSecretary to reduce the number of data elements required of reapplicants.
 
 #### (iv) Zero family contribution
 
@@ -302,7 +302,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(A) States selected through the application process described in paragraph (5);
 
-&emsp;&emsp;(B) institutions of higher education within the selected States that are interested in participating in the demonstration program, and that can make estimates or commitments of institutional student financial aid, as appropriate, to students the year before the students' planned enrollment date; and
+&emsp;&emsp;(B) institutions of higher education within the selected States that are interested inparticipating in the demonstration program, and that can make estimates or commitments of institutional student financial aid, as appropriate, to students the year before the students' planned enrollment date; and
 
 &emsp;&emsp;(C) secondary schools within the selected States that are interested in participating in the demonstration program, and that can commit resources to—
 
@@ -320,7 +320,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 &emsp;&emsp;(A) information on the amount of the State's need-based student financial assistance available, and the eligibility criteria for receiving such assistance;
 
-&emsp;&emsp;(B) a commitment to make, not later than the year before the dependent students participating in the demonstration program plan to enroll in an institution of highereducation, an estimate of the award of State financial aid to such dependent students;
+&emsp;&emsp;(B) a commitment to make, not later than the year before the dependent students participating in the demonstration program plan to enroll in an institution of higher education, an estimate of the award of State financial aid to such dependent students;
 
 &emsp;&emsp;(C) a plan for recruiting institutions of higher education and secondary schools with different demographic characteristics to participate in the program;
 
@@ -500,7 +500,7 @@ The Secretary shall contract for, or establish, and publicize a toll-free teleph
 
 #### (g) Addressing the digital divide
 
-The Secretary shall utilize savings accrued by moving more applicants to the electronic version of the forms described in subsection (a)(3) to improve access to the electronic version of the forms described in such subsection for applicants meeting the requirements of subsection (b) or (c) of section 1087ss of this title.
+The Secretary shall utilize savings accrued by moving more applicants to the electronic version of the forms described in subsection\(a)(3) to improve access to the electronic version of the forms described in such subsection for applicants meeting the requirements of subsection (b) or (c) of section 1087ss of this title.
 
 #### (h) Adjustments
 
@@ -510,7 +510,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;(2) additional information regarding the steps a student or family member may take in order to seek an adjustment under section 1087tt of this title.
 
-(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L.111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950; Pub. L. 111–152, title II, §2101(b)(4), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(m)(1), Dec. 27, 2020, 134 Stat. 3168.)
+(Pub. L. 89–329, title IV, §483, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1478; amended Pub. L. 100–50, §15(3)–(6), June 3, 1987, 101 Stat. 356; Pub. L. 102–325, title IV, §483, July 23, 1992, 106 Stat. 612; Pub. L. 103–208, §2(h)(8)–(12), Dec. 20, 1993, 107 Stat. 2476; Pub. L. 105–244, title IV, §482, Oct. 7, 1998, 112 Stat. 1733; Pub. L. 110–315, title I, §103(b)(10), title IV, §483(a), Aug. 14, 2008, 122 Stat. 3090, 3272; Pub. L. 111–39, title IV, §407(b)(3), July 1, 2009, 123 Stat. 1950; Pub. L. 111–152, title II, §2101(b)(4), Mar. 30, 2010, 124 Stat. 1073; Pub. L. 116–260, div. FF, title VII, §702(m)(1), Dec. 27, 2020, 134 Stat. 3168.)
 
 #### Amendment of Section
 
@@ -604,7 +604,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;&emsp;&emsp;&emsp;&emsp;<i>(aa) The supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.).</i>
 
-&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) The supplemental nutrition assistance program under the Food and Nutri</i><i>tion Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), or a supplemental nutrition assistance program carried out under section 1841(c) of title 48.</i>
+&emsp;&emsp;&emsp;&emsp;&emsp;<i>(bb) The supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), or a supplemental nutrition assistance program carried out under section 1841(c) of title 48.</i>
 
 &emsp;&emsp;&emsp;&emsp;&emsp;<i>(cc) The free and reduced price school lunch program established under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.).</i>
 
@@ -650,7 +650,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(C) Notification and approval of request for tax return information</i>
 
-&emsp;&emsp;<i>The Secretary shall notify students and borrowers who wish to submit an application for Federal student financial aid under this subchapter (as well as parents and spouses who must sign such an application or request or a Master Promissory Note on behalf of those students and borrowers) of the authority of the Secretary to require that such persons affirmatively approve that the Internal Revenue Service disclose their tax return information as described in section 1098h of this title.</i>
+&emsp;&emsp;<i>The Secretary shall notify students and borrowers who wish to submit an application for Federal student financial aid under this subchapter (as well as parents and spouses who must sign such an application or request or a Master Promissory Note on behalf of those stu</i><i>dents and borrowers) of the authority of the Secretary to require that such persons affirmatively approve that the Internal Revenue Service disclose their tax return information as described in section 1098h of this title.</i>
 
 #### <i>(D) Authorizations available to the applicant</i>
 
@@ -704,7 +704,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 &emsp;&emsp;&emsp;&emsp;<i>(III) Institutional default rate, as calculated under section 1085 of this title.</i>
 
-&emsp;&emsp;&emsp;<i>(iv) If the student is eligible for a student aid index of less than or equal to zero under section 1087mm of this title, a notification of the Federal means-tested benefits that they have not already indicated they receive, but for which they may be eligible, and relevant links and information on how to apply for such benefits.</i>
+&emsp;&emsp;&emsp;<i>(iv) If the student is eligible for a student aid index of less than or equal to zero under section 1087mm of this title, a notification of the Federal means-tested benefits that they have not already indicated they receive, but for which they may be eligible, and relevant</i><i>links and information on how to apply for such benefits.</i>
 
 &emsp;&emsp;&emsp;<i>(v) Information on education tax benefits described in paragraphs (1) and (2) of section 25A(a) of title 26 or other applicable education tax benefits determined in consultation with the Secretary of the Treasury.</i>
 
@@ -716,7 +716,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(i) In general</i>
 
-&emsp;&emsp;&emsp;<i>The Secretary shall redisclose, with authorization from the applicant in accordance with paragraph (2)(D)(i), to a State higher education agency administering State-based financial aid and serving the applicant's State of residence, the information described under section 6103(l)(13) of title 26 and information described in paragraph (2)(B) for the application, award, and administration of grants and other student financial aid provided directly</i><i>from the State to be determined by such State. Such information shall include the list of institutions provided by the applicant on the application.</i>
+&emsp;&emsp;&emsp;<i>The Secretary shall redisclose, with authorization from the applicant in accordance with paragraph (2)(D)(i), to a State higher education agency administering State-based financial aid and serving the applicant's State of residence, the information described under section 6103(l)(13) of title 26 and information described in paragraph (2)(B) for the application, award, and administration of grants and other student financial aid provided directly from the State to be determined by such State. Such information shall include the list of institutions provided by the applicant on the application.</i>
 
 #### <i>(ii) Use of information</i>
 
@@ -772,7 +772,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(5) No additional information requests permitted</i>
 
-&emsp;<i>In carrying out this subsection, the Secretary may not require additional information to be submitted by an applicant (or the parents or spouse of an applicant) for Federal financial aid through other requirements or reporting, except as required under a process or procedure exercised in accordance with the authority under section 1087tt of this title.</i>
+&emsp;<i>In carrying out this subsection, the Secretary may not require additional information to be sub</i><i>mitted by an applicant (or the parents or spouse of an applicant) for Federal financial aid through other requirements or reporting, except as required under a process or procedure exercised in accordance with the authority under section 1087tt of this title.</i>
 
 #### <i>(6) State-run programs</i>
 
@@ -782,7 +782,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(B) Secretarial review</i>
 
-&emsp;&emsp;<i>If a State determines that there is a need for additional data elements beyond those provided pursuant to this subsection for determining the eligibility of an applicant for State provided financial aid, the State shall forward a list of those additional data elements determined necessary, but not provided by virtue of the application under this subsection, to the Secretary. The Secretary shall make readily available to</i><i>the public through the Department's websites and other means—</i>
+&emsp;&emsp;<i>If a State determines that there is a need for additional data elements beyond those provided pursuant to this subsection for determining the eligibility of an applicant for State provided financial aid, the State shall forward a list of those additional data elements determined necessary, but not provided by virtue of the application under this subsection, to the Secretary. The Secretary shall make readily available to the public through the Department's websites and other means—</i>
 
 &emsp;&emsp;&emsp;<i>(i) a list of States that do not require additional financial information separate from the Free Application for Federal Student Aid and do not require asset information from students who qualify for the exemption from asset reporting under section 1087ss of this title for the purposes of awarding State scholarships and grant aid;</i>
 
@@ -854,7 +854,7 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(A) In general</i>
 
-&emsp;&emsp;<i>Not later than 9 months after December 27, 2020, the Secretary shall begin consumer testing the design of the Free Application for Federal Student Aid under this section with prospective first-generation college students, representatives of students (including low-income students,</i><i>English learners, first-generation college students, adult students, veterans, servicemembers, and prospective students), students' families (including low-income families, families with English learners, families with first-generation college students, and families with prospective students), institutions of higher education, secondary school and postsecondary counselors, and nonprofit consumer groups.</i>
+&emsp;&emsp;<i>Not later than 9 months after December 27, 2020, the Secretary shall begin consumer testing the design of the Free Application for Federal Student Aid under this section with prospective first-generation college students, representatives of students (including low-income students, English learners, first-generation college students, adult students, veterans, servicemembers, and prospective students), students' families (including low-income families, families with English learners, families with first-generation college students, and families with prospective students), institutions of higher education, secondary school and postsecondary counselors, and nonprofit consumer groups.</i>
 
 #### <i>(B) Updates</i>
 
@@ -988,9 +988,11 @@ The Secretary shall disclose, on the form notifying a student of the student's e
 
 #### <i>(6) Additional forms</i>
 
-&emsp;<i>Notwithstanding any other provision of this subchapter, an institution may not condition the packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.</i>
+&emsp;<i>Notwithstanding any other provision of this subchapter, an institution may not condition the</i><i>packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.</i>
 
 <i>See 2020 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -1006,7 +1008,7 @@ A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–3
 
 Subsec. (e)(8)(A). Pub. L. 111–39, §407(b)(3)(B), substituted "determine" for "identify".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §483(a)(1), added pars. (1) to (12) and struck out former pars. (1) to (7),which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents' social security numbers and birth dates.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §483(a)(1), added pars. (1) to (12) and struck out former pars. (1) to (7), which related to forms required, charges for forms, distribution of data, contracts for collection and processing, electronic forms, third party servicers and private software providers, and parents' social security numbers and birth dates.
 
 Subsec. (b). Pub. L. 110–315, §483(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to streamlined reapplication process.
 
@@ -1073,6 +1075,8 @@ Subsecs. (f), (g). Pub. L. 102–325, §483(b)(1), (3), added subsecs. (f) and (
 Subsec. (a)(2). Pub. L. 100–50, §15(5), substituted "not less than 5" for "not less than 3" and inserted sentence at end providing that the Secretary not select new multiple data entry processors until certain examinations and recommendations are made by the Advisory Commission on Student Financial Assistance.
 
 Subsecs. (b) to (f). Pub. L. 100–50, §15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

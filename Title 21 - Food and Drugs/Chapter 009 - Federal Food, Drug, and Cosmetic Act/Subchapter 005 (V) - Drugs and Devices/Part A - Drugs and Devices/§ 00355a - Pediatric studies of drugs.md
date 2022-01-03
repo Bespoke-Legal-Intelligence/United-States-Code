@@ -8,7 +8,7 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), if, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(4)—
+&emsp;Except as provided in paragraph (2), if, prior to approval of an application that is submitted under section 355(b)(1) of this title, the Secretary determines that information relating to the use of a new drug in the pediatric population may produce health benefits in that population, the Secretary makes a written request for pediatric studies (which shall include a timeframe for completing such studies), the applicant agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and thereports thereof are submitted and accepted in accordance with subsection (d)(4)—
 
 &emsp;&emsp;(A)(i)(I) the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
 
@@ -36,15 +36,15 @@ As used in this section, the term "pediatric studies" or "studies" means at leas
 
 &emsp;Except as provided in paragraph (2), if the Secretary determines that information relating to the use of an approved drug in the pediatric population may produce health benefits in that population and makes a written request to the holder of an approved application under section 355(b)(1) of this title for pediatric studies (which shall include a timeframe for completing such studies), the holder agrees to the request, such studies are completed using appropriate formulations for each age group for which the study is requested within any such timeframe, and the reports thereof are submitted and accepted in accordance with subsection (d)(4)—
 
-&emsp;&emsp;(A)(i)(I) the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectively; or
+&emsp;&emsp;(A)(i)(I) the period referred to in subsection (c)(3)(E)(ii) of section 355 of this title, and in subsection (j)(5)(F)(ii) of such section, is deemed to be five years and six months rather than five years, and the references in subsections (c)(3)(E)(ii) and (j)(5)(F)(ii) of such section to four years, to forty-eight months, and to seven and one-half years are deemed to be four and one-half years, fifty-four months, and eight years, respectiv ely; or
 
-&emsp;&emsp;(II) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(D) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
+&emsp;&emsp;(II) the period referred to in clauses (iii) and (iv) of subsection (c)(3)(E) of such section, and in clauses (iii) and (iv) of subsection (j)(5)(F) of such section, is deemed to be three years and six months rather than three years; and
 
 &emsp;&emsp;(ii) if the drug is designated under section 360bb of this title for a rare disease or condition, the period referred to in section 360cc(a) of this title is deemed to be seven years and six months rather than seven years; and
 
 &emsp;&emsp;(B)(i) if the drug is the subject of—
 
-&emsp;&emsp;&emsp;(I) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(ii) or (j)(2)(A)(vii)(II) of section 355 of this title and for which pediatric studies were submitted prior to theexpiration of the patent (including any patent extensions); or
+&emsp;&emsp;&emsp;(I) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(ii) or (j)(2)(A)(vii)(II) of section 355 of this title and for which pediatric studies were submitted prior to the expiration of the patent (including any patent extensions); or
 
 &emsp;&emsp;&emsp;(II) a listed patent for which a certification has been submitted under subsection (b)(2)(A)(iii) or (j)(2)(A)(vii)(III) of section 355 of this title,
 
@@ -188,7 +188,7 @@ Exclusivity under this section shall only be granted for the completion of a stu
 
 #### (A) Request for labeling change and failure to agree
 
-&emsp;&emsp;If, on or after September 27, 2007, the Commissioner determines that the sponsor andthe Commissioner have been unable to reach agreement on appropriate changes to the labeling for the drug that is the subject of the application, not later than 180 days after the date of submission of the application—
+&emsp;&emsp;If, on or after September 27, 2007, the Commissioner determines that the sponsor and the Commissioner have been unable to reach agreement on appropriate changes to the labeling for the drug that is the subject of the application, not later than 180 days after the date of submission of the application—
 
 &emsp;&emsp;&emsp;(i) the Commissioner shall request that the sponsor of the application make any labeling change that the Commissioner determines to be appropriate; and
 
@@ -204,7 +204,7 @@ Exclusivity under this section shall only be granted for the completion of a stu
 
 #### (C) Consideration of recommendations
 
-&emsp;&emsp;The Commissioner shall consider the recommendations of the Pediatric Advisory Committee and, if appropriate, not later than 30 days after receiving the recommendation, make a request to the sponsor of the application to make any labeling change that the Commissioner determines to be appropriate.
+&emsp;&emsp;The Commissioner shall consider the recommendations of the Pediatric AdvisoryCommittee and, if appropriate, not later than 30 days after receiving the recommendation, make a request to the sponsor of the application to make any labeling change that the Commissioner determines to be appropriate.
 
 #### (D) Misbranding
 
@@ -252,7 +252,7 @@ If, on or after September 27, 2007, the Secretary determines that a pediatric st
 
 #### (m) Clarification of interaction of market exclusivity under this section and market exclusivity awarded to an applicant for approval of a drug under section 355(j) of this title
 
-If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivityperiod under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
+If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a 6-month exclusivity period under this section, so that the applicant for approval of a drug under section 355(j) of this title entitled to the 180-day period under that section loses a portion of the 180-day period to which the applicant is entitled for the drug, the 180-day period shall be extended from—
 
 &emsp;(1) the date on which the 180-day period would have expired by the number of days of the overlap, if the 180-day period would, but for the application of this subsection, expire after the 6-month exclusivity period; or
 
@@ -262,7 +262,7 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 #### (1) In general
 
-&emsp;Beginning on September 27, 2007, if pediatric studies of a drug have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request under subsection (d) and if the Secretary, through the committee established under section 355d of this title, determines that there is a continuing need for information relating to the use of the drug in the pediatric population (including neonates, as appropriate), the Secretary shall carry out the following:
+&emsp;Beginning on September 27, 2007, if pediatric studies of a drug have not been submitted by the date specified in the written request issued or if the applicant or holder does not agree to the request under subsection (d) and if the Secretary, through the committee established under section 355d of this title, determinesthat there is a continuing need for information relating to the use of the drug in the pediatric population (including neonates, as appropriate), the Secretary shall carry out the following:
 
 &emsp;&emsp;(A) For a drug for which a listed patent has not expired, or for which a period of exclusivity eligible for extension under subsection (b)(1) or (c)(1) of this section or under subsection (m)(2) or (m)(3) of section 262 of title 42 has not ended, make a determination regarding whether an assessment shall be required to be submitted under section 355c(b) of this title.
 
@@ -320,11 +320,13 @@ If a 180-day period under section 355(j)(5)(B)(iv) of this title overlaps with a
 
 &emsp;&emsp;(D) except as expressly provided in paragraphs (1) and (2), the operation of section 355 of this title or section 360cc of this title.
 
-(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050.)
+(June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050; Pub. L. 117–9, §1(b)(2), Apr. 23, 2021, 135 Stat. 258.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c)(1)(A)(i)(II). Pub. L. 117–9 substituted "(c)(3)(E)" for "(c)(3)(D)".
 
 <b>2017</b>—Subsecs. (b), (c). Pub. L. 115–52, §505(b)(2)(A), substituted "subsection (d)(4)" for "subsection (d)(3)" in introductory provisions of par. (1) and in par. (2).
 
@@ -510,7 +512,7 @@ Amendment by Pub. L. 108–155 effective Dec. 3, 2003, except as otherwise provi
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–109, §11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on the date of enactment of this Act \[Jan. 4, 2002\], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that are approved or pending on that date."
+Pub. L. 107–109, §11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: "The amendment made by subsection (a)\[amending this section\] takes effect on the date of enactment of this Act \[Jan. 4, 2002\], including with respect to applications under section 505(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)) that are approved or pending on that date."
 
 #### Construction of 2007 Amendments on Pediatric Studies
 

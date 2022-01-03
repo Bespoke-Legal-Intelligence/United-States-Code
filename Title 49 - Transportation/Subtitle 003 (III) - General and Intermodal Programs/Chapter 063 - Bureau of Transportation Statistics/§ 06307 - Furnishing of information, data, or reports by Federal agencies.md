@@ -52,9 +52,13 @@ Transportation and Transportation-related Data Access.—The Director shall be p
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 892; amended Pub. L. 114–94, div. A, title VI, §6018(b), Dec. 4, 2015, 129 Stat. 1577.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (b). Pub. L. 114–94 inserted "or section 6314(b)" after "section 6302(b)(3)(B)" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

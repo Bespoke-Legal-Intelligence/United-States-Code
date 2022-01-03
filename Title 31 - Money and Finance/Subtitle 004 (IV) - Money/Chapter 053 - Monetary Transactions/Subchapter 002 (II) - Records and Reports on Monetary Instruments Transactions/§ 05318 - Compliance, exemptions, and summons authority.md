@@ -10,7 +10,7 @@ General Powers of Secretary.—The Secretary of the Treasury may (except under s
 
 &emsp;(3) examine any books, papers, records, or other data of domestic financial institutions or nonfinancial trades or businesses relevant to the recordkeeping or reporting requirements of this subchapter;
 
-&emsp;(4) summon a financial institution or nonfinancial trade or business, an officer or employee of a financial institution or nonfinancial trade or business (including a former officer or employee), or any person having possession, custody, or care of the reports and records required under this subchapter, to appear before the Secretary of the Treasury or his delegate at a time and place named in the summons and to produce such books, papers,records, or other data, and to give testimony, under oath, as may be relevant or material to an investigation described in subsection (b);
+&emsp;(4) summon a financial institution or nonfinancial trade or business, an officer or employee of a financial institution or nonfinancial trade or business (including a former officer or employee), or any person having possession, custody, or care of the reports and records required under this subchapter, to appear before the Secretary of the Treasury or his delegate at a time and place named in the summons and to produce such books, papers, records, or other data, and to give testimony, under oath, as may be relevant or material to an investigation described in subsection (b);
 
 &emsp;(5) exempt from the requirements of this subchapter any class of transactions within any State if the Secretary determines that—
 
@@ -114,7 +114,7 @@ Notification prohibited.—
 
 In general.—If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
-&emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution),nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; <sup>2</sup> and
+&emsp;&emsp;&emsp;(i) neither the financial institution, director, officer, employee, or agent of such institution (whether or not any such person is still employed by the institution), nor any other current or former director, officer, or employee of, or contractor for, the financial institution or other reporting person, may notify any person involved in the transaction that the transaction has been reported or otherwise reveal any information that would reveal that the transaction has been reported,; <sup>2</sup> and
 
 &emsp;&emsp;&emsp;(ii) no current or former officer or employee of or contractor for the Federal Government or of or for any State, local, tribal, or territorial government within the United States, who has any knowledge that such report was made may disclose to any person involved in the transaction that the transaction has been reported, or otherwise reveal any information that would reveal that the transaction has been reported, other than as necessary to fulfill the official duties of such officer or employee.
 
@@ -150,7 +150,7 @@ Rule of construction.—Subparagraph (A) shall not be construed as creating—
 
 &emsp;&emsp;&emsp;(i) any inference that the term "person", as used in such subparagraph, may be construed more broadly than its ordinary usage so as to include any government or agency of government; or
 
-&emsp;&emsp;&emsp;(ii) any immunity against, or otherwise affecting, any civil or criminal action brought by any government or agency of government to enforce any constitution, law, or regulation of such government or agency.
+&emsp;&emsp;&emsp;(ii) any immunity against, or otherwise affecting, any civil or criminal action brought by any government or agency of government to enforce any constitution,law, or regulation of such government or agency.
 
 &emsp;(4)
 
@@ -236,7 +236,7 @@ Sharing of threat pattern and trend information.—
 
 Definitions.—In this paragraph—
 
-&emsp;&emsp;&emsp;(i) the terms "Bank Secrecy Act" and "Federal functional regulator" have the meanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020; and
+&emsp;&emsp;&emsp;(i) the terms "Bank Secrecy Act" and "Federal functional regulator" have themeanings given the terms in section 6003 of the Anti-Money Laundering Act of 2020; and
 
 &emsp;&emsp;&emsp;(ii) the term "typology" means a technique to launder money or finance terrorism.
 
@@ -320,7 +320,7 @@ Exceptions.—The Secretary is authorized to make exceptions, on a case-by-case 
 
 &emsp;&emsp;(D)
 
-Implementation updates.—Not later than 360 days after the date on which rules are issued under subparagraph (A), and annually thereafter for 3 years, the Secretary of the Treasury, or the designee of the Secretary, shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
+Implementation updates.—Not later than 360 days after the date on which rules are issued under subparagraph (A), and annually thereafter for 3 years, the Secretaryof the Treasury, or the designee of the Secretary, shall brief the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
 
 &emsp;&emsp;&emsp;(i) the degree of any information sharing permitted under the pilot program and a description of criteria used by the Secretary to evaluate the appropriateness of the information sharing;
 
@@ -420,7 +420,7 @@ Rulemaking.—Not later than 180 days after the date on which the Secretary of t
 
 &emsp;&emsp;(E)
 
-Supervision and examination.—The review by a financial institution of the priorities established under subparagraph (A) and the incorporation of those priorities, asappropriate, into the risk-based programs established by the financial institution to meet obligations under this subchapter, the USA PATRIOT Act (Public Law 107–56; 115 Stat. 272), and other anti-money laundering and countering the financing of terrorism laws and regulations shall be included as a measure on which a financial institution is supervised and examined for compliance with those obligations.
+Supervision and examination.—The review by a financial institution of the priorities established under subparagraph (A) and the incorporation of those priorities, as appropriate, into the risk-based programs established by the financial institution to meet obligations under this subchapter, the USA PATRIOT Act (Public Law 107–56; 115 Stat. 272), and other anti-money laundering and countering the financing of terrorism laws and regulations shall be included as a measure on which a financial institution is supervised and examined for compliance with those obligations.
 
 &emsp;(5)
 
@@ -558,7 +558,7 @@ Subpoena of records.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding subsection (b), the Secretary of the Treasury or the Attorney General may issue a subpoena to any foreign bank that maintains a correspondent account in the United States and request any records relating to the correspondent account or any account at the foreign bank, including records maintained outside of the United States, that are the subject of—
+In general.—Notwithstanding subsection (b), the Secretary of the Treasury or the Attorney General may issue a subpoena to any foreign bank that maintains a correspondent account in the United States and request any records relating to the correspondent account or any accountat the foreign bank, including records maintained outside of the United States, that are the subject of—
 
 &emsp;&emsp;&emsp;&emsp;(I) any investigation of a violation of a criminal law of the United States;
 
@@ -608,7 +608,7 @@ In general.—At any time before the return date of a subpoena described in clau
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Conflict with foreign secrecy or confidentiality.—An assertion that compliance with a subpoena described in clause (i) would conflict with a provisionof foreign secrecy or confidentiality law shall not be a sole basis for quashing or modifying the subpoena.
+Conflict with foreign secrecy or confidentiality.—An assertion that compliance with a subpoena described in clause (i) would conflict with a provision of foreign secrecy or confidentiality law shall not be a sole basis for quashing or modifying the subpoena.
 
 &emsp;&emsp;(B)
 
@@ -716,7 +716,7 @@ In general.—Upon failure to comply with a subpoena under subparagraph (A)(i), 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb)
 
-Additional penalties.—Beginning after the date that is 60 days after a foreign bank fails to comply with a subpoena under subparagraph (A)(i),the Secretary of the Treasury or the Attorney General may seek additional penalties and compel compliance with the subpoena in the appropriate district court of the United States.
+Additional penalties.—Beginning after the date that is 60 days after a foreign bank fails to comply with a subpoena under subparagraph (A)(i), the Secretary of the Treasury or the Attorney General may seek additional penalties and compel compliance with the subpoena in the appropriate district court of the United States.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc)
 
@@ -764,7 +764,7 @@ Exemptions.—The Secretary (and, in the case of any financial institution descr
 
 &emsp;(6)
 
-Effective date.—Final regulations prescribed under this subsection shall take effect before the end of the 1-year period beginning on the date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001.
+Effective date.—Final regulations prescribed under this subsection shall take effect before the end of the 1-year period beginningon the date of enactment of the International Money Laundering Abatement and Financial Anti-Terrorism Act of 2001.
 
 (m)
 
@@ -836,7 +836,7 @@ Standards.—The standards described in paragraph (1) may include—
 
 &emsp;&emsp;(A) an emphasis on using innovative approaches such as machine learning or other enhanced data analytics processes;
 
-&emsp;&emsp;(B) risk-based testing, oversight, and other risk management approaches of the regime, prior to and after implementation, to facilitate calibration of relevant systems and prudently evaluate and monitor the effectiveness of their implementation;
+&emsp;&emsp;(B) risk-based testing, oversight, and other risk management approaches of the regime,prior to and after implementation, to facilitate calibration of relevant systems and prudently evaluate and monitor the effectiveness of their implementation;
 
 &emsp;&emsp;(C) specific criteria for when and how risk-based testing against existing processes should be considered to test and validate the effectiveness of relevant systems and situations and standards for when other risk management processes, including those developed by or through third party risk and compliance management systems, and oversight may be more appropriate;
 
@@ -926,7 +926,7 @@ Federal depository institution.—The term "Federal depository institution" has 
 
 Federal depository institution regulators.—The term "Federal depository institution regulator" means a member of the Financial Institutions Examination Council to which is delegated any authority of the Secretary under subsection (a)(1).
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept. 13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§6101(b), 6102(c), title LXII, §§6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 999; Pub. L. 99–570, title I, §1356(a), (b), (c)(2), Oct. 27, 1986, 100 Stat. 3207–23, 3207–24; Pub. L. 100–690, title VI, §§6185(e), 6469(c), Nov. 18, 1988, 102 Stat. 4357, 4377; Pub. L. 102–550, title XV, §§1504(d)(1), 1513, 1517(b), Oct. 28, 1992, 106 Stat. 4055, 4058, 4059; Pub. L. 103–322, title XXXIII, §330017(b)(1), Sept.13, 1994, 108 Stat. 2149; Pub. L. 103–325, title IV, §§403(a), 410, 413(b)(1), Sept. 23, 1994, 108 Stat. 2245, 2252, 2254; Pub. L. 107–56, title III, §§312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, 115 Stat. 304, 306, 312, 317, 320, 322, 326, 328, 335; Pub. L. 108–159, title VIII, §811(g), Dec. 4, 2003, 117 Stat. 2012; Pub. L. 108–458, title VI, §§6202(h), 6203(c), (d), 6302, Dec. 17, 2004, 118 Stat. 3746–3748; Pub. L. 109–177, title IV, §407, Mar. 9, 2006, 120 Stat. 245; Pub. L. 112–74, div. C, title I, §118, Dec. 23, 2011, 125 Stat. 891; Pub. L. 113–156, §2(a), Aug. 8, 2014, 128 Stat. 1829; Pub. L. 116–283, div. F, title LXI, §§6101(b), 6102(c), title LXII, §§6202, 6206, 6209(a), 6212, 6213(a), title LXIII, §§6301, 6308(a), Jan. 1, 2021, 134 Stat. 4550, 4553, 4566, 4571, 4573, 4576, 4579, 4584, 4590.)
 
 Historical and Revision Notes
 
@@ -956,7 +956,7 @@ Section 21 of the Federal Deposit Insurance Act, referred to in subsecs. (b)(1),
 
 Section 411 of the National Housing Act, referred to in subsec. (b)(1), which was classified to section 1730d of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
-Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2 (§§121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
+Chapter 2 of Public Law 91–508 (12 U.S.C. 1951 et seq.), referred to in subsec. (b)(1), probably means chapter 2 (§§121 to 129) of title I of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1116, which is classified generally to chapter 21 (§1951 et seq.) of Title 12. For complete classification of chapter 2 to the Code, see Tables.
 
 Subsection (a)(5), referred to in subsec. (f), was redesignated subsection (a)(6) by section 410(a)(2) of Pub. L. 103–325.
 
@@ -1046,7 +1046,7 @@ Subsec. (f). Pub. L. 107–56, §365(c)(2)(B)(i), inserted "or nonfinancial trad
 
 Subsec. (g)(2). Pub. L. 107–56, §351(b), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A financial institution, and a director, officer, employee, or agent of any financial institution, who voluntarily reports a suspicious transaction, or that reports a suspicious transaction pursuant to this section or any other authority, may not notify any person involved in the transaction that the transaction has been reported."
 
-Subsec. (g)(3). Pub. L. 107–56, §351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, orregulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure."
+Subsec. (g)(3). Pub. L. 107–56, §351(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Any financial institution that makes a disclosure of any possible violation of law or regulation or a disclosure pursuant to this subsection or any other authority, and any director, officer, employee, or agent of such institution, shall not be liable to any person under any law or regulation of the United States or any constitution, law, or regulation of any State or political subdivision thereof, for such disclosure or for any failure to notify the person involved in the transaction or any other person of such disclosure."
 
 Subsec. (g)(4)(B). Pub. L. 107–56, §358(b), substituted ", supervisory agency, or United States intelligence agency for use in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism" for "or supervisory agency".
 

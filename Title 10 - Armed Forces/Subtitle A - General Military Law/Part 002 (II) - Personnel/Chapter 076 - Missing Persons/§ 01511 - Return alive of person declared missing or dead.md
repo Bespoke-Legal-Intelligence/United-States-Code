@@ -10,6 +10,8 @@ Effect on Gratuities Paid as a Result of Status.—Subsection (a) shall not be i
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 349; amended Pub. L. 107–107, div. A, title X, §1048(c)(10), Dec. 28, 2001, 115 Stat. 1226.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted "February 10, 1996" for "the date of the enactment of this chapter".

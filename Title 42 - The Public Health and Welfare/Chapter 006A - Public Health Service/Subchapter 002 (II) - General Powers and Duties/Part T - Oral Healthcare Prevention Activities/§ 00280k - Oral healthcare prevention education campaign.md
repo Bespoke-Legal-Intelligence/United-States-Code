@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Oral Health Education Campaign
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with professional oral health organizations, shall, subject to the availability of appropriations, establish a 5-year national, public education campaign (referred to in this section as the "campaign") that is focusedon oral health education, including prevention of oral disease such as early childhood and other caries, periodontal disease, and oral cancer.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention and in consultation with professional oral health organizations, shall, subject to the availability of appropriations, establish a 5-year national, public education campaign (referred to in this section as the "campaign") that is focused on oral health education, including prevention of oral disease such as early childhood and other caries, periodontal disease, and oral cancer.
 
 #### (b) Requirements
 
@@ -35,6 +35,8 @@ In establishing the campaign under subsection (a), the Secretary shall—
 &emsp;&emsp;(D) a non-profit community-based organization that partners with public and private non-profit entities, such as an academic institution, to facilitate the provision of dental services to underserved populations.
 
 (July 1, 1944, ch. 373, title III, §399LL, as added Pub. L. 111–148, title IV, §4102(a), Mar. 23, 2010, 124 Stat. 550; amended Pub. L. 115–302, §2(a), Dec. 11, 2018, 132 Stat. 4396.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

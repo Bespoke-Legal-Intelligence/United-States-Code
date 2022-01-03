@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection and in section 8143(a) of title 5, enrollees shall not be considered to be Federal employees and shall not be subject to the provisions of law relating to Federal employment, including such provisions regarding hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
+&emsp;Except as otherwise provided in this subsection and in section 8143(a) of title 5, enrollees shall not be considered to be Federal employees and shall not be subject to the provisions of law relating to Federal employment,including such provisions regarding hours of work, rates of compensation, leave, unemployment compensation, and Federal employee benefits.
 
 #### (2) Provisions relating to taxes and social security benefits
 
@@ -20,7 +20,7 @@
 
 #### (b) Adjustments and settlements
 
-Whenever the Secretary finds a claim for damages to a person or property resulting from the operation of the Job Corps to be a proper charge against the United States, and the claim is notcognizable under section 2672 of title 28, the Secretary may adjust and settle the claim in an amount not exceeding $1,500.
+Whenever the Secretary finds a claim for damages to a person or property resulting from the operation of the Job Corps to be a proper charge against the United States, and the claim is not cognizable under section 2672 of title 28, the Secretary may adjust and settle the claim in an amount not exceeding $1,500.
 
 #### (c) Personnel of the uniformed services
 

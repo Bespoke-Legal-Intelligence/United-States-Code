@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to encourage greater awareness and interest in the number and variety of whole grain products available to schoolchildren, as recommended by the 2005 Dietary Guidelines for Americans.
+The purpose of this section is to encourage greater awareness and interest in the numberand variety of whole grain products available to schoolchildren, as recommended by the 2005 Dietary Guidelines for Americans.
 
 #### (b) Definition of eligible whole grains and whole grain products
 
@@ -34,6 +34,8 @@ As soon as practicable after the completion of the evaluation under subsection (
 
 (Pub. L. 110–234, title IV, §4305, May 22, 2008, 122 Stat. 1131; Pub. L. 110–246, §4(a), title IV, §4305, June 18, 2008, 122 Stat. 1664, 1892.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (c), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
@@ -43,6 +45,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c), is
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

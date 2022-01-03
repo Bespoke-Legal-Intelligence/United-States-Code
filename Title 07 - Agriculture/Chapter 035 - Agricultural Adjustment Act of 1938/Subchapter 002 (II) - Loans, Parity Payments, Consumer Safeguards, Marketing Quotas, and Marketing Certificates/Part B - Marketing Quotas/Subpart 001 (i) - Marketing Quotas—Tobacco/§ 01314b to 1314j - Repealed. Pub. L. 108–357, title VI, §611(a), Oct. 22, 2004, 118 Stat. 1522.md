@@ -22,6 +22,8 @@ Section 1314i, act Feb. 16, 1938, ch. 30, title III, §320C, as added Pub. L. 10
 
 Section 1314j, act Feb. 16, 1938, ch. 30, title III, §320D, as added Pub. L. 106–47, §1, Aug. 13, 1999, 113 Stat. 228, and Pub. L. 106–78, title VII, §755(b), Oct. 22, 1999, 113 Stat. 1170; amended Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §211\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, related to release of tobacco production and marketing information.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as an Effective Date note under section 518 of this title.
@@ -32,5 +34,5 @@ Repeal not to affect the liability of any person under this subpart with respect
 
 #### Tobacco Definition and Increase of Marketing Quotas and Acreage Allotments To Meet Demand Unaffected by Acreage-Poundage Marketing Quotas and Price Support Provisions
 
-Pub. L. 89–12, §4, Apr. 16, 1965, 79 Stat. 72, which provided that nothing in the Act could be construed as affecting the authority or responsibility of the Secretaryof Agriculture under former sections 1301(b)(15) or 1313(i) of this title with respect to providing that different types of tobacco were to be treated as different kinds of tobacco, or with respect to increasing allotments or quotas for farms producing certain types of tobacco, was repealed by Pub. L. 108–357, title VI, §§611(n), 643, Oct. 22, 2004, 118 Stat. 1523, 1536, applicable to the 2005 and subsequent crops of tobacco.
+Pub. L. 89–12, §4, Apr. 16, 1965, 79 Stat. 72, which provided that nothing in the Act could be construed as affecting the authority or responsibility of the Secretary of Agriculture under former sections 1301(b)(15) or 1313(i) of this title with respect to providing that different types of tobacco were to be treated as different kinds of tobacco, or with respect to increasing allotments or quotas for farms producing certain types of tobacco, was repealed by Pub. L. 108–357, title VI, §§611(n), 643, Oct. 22, 2004, 118 Stat. 1523, 1536, applicable to the 2005 and subsequent crops of tobacco.
 

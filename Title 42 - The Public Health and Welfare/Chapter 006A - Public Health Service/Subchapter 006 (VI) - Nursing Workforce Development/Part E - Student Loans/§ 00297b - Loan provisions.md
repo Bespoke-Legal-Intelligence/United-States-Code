@@ -12,7 +12,7 @@ Loans from any such student loan fund by any school shall be made on such terms 
 
 &emsp;(2) such a loan shall be repayable in equal or graduated periodic installments (with the right of the borrower to accelerate repayment) over the ten-year period which begins nine months after the student ceases to pursue a full-time or half-time course of study at a school of nursing, excluding from such 10-year period all (A) periods (up to three years) of (i) active duty performed by the borrower as a member of a uniformed service, or (ii) service as a volunteer under the Peace Corps Act \[22 U.S.C. 2501 et seq.\], (B) periods (up to ten years) during which the borrower is pursuing a full-time or half-time course of study at a collegiate school of nursing leading to baccalaureate degree in nursing or an equivalent degree, or to graduate degree in nursing, or is otherwise pursuing advanced professional training in nursing (or training to be a nurse anesthetist), and (C) such additional periods under the terms of paragraph (8) of this subsection;
 
-&emsp;(3) in the case of a student who received such a loan before September 29, 1995, an amount up to 85 per centum of any such loan made before such date (plus interest thereon) shall be canceled for full-time employment as a professional nurse (including teaching in any of the fields of nurse training and service as an administrator, supervisor, or consultant in any of the fields of nursing) in any public or nonprofit private agency, institution, or organization (including neighborhood health centers), at the rate of 15 per centum of the amount of such loan (plus interest) unpaid on the first day of such service for each of the first, second, and third complete year of such service, and 20 per centum of such amount (plus interest) for each complete fourth and fifth year of such service;
+&emsp;(3) in the case of a student who received such a loan before September 29, 1995, an amount up to 85 per centum of any such loan made before such date (plus interest thereon) shall be canceled for full-time employment as a professional nurse (including teaching in any of the fields of nurse training and service as an administrator, supervisor, or consultant in anyof the fields of nursing) in any public or nonprofit private agency, institution, or organization (including neighborhood health centers), at the rate of 15 per centum of the amount of such loan (plus interest) unpaid on the first day of such service for each of the first, second, and third complete year of such service, and 20 per centum of such amount (plus interest) for each complete fourth and fifth year of such service;
 
 &emsp;(4) the liability to repay the unpaid balance of such loan and accrued interest thereon shall be canceled upon the death of the borrower, or if the Secretary determines that he has become permanently and totally disabled;
 
@@ -78,6 +78,8 @@ The Secretary is authorized to attempt to collect any loan which was made under 
 
 (July 1, 1944, ch. 373, title VIII, §836, formerly §823, as added Pub. L. 88–581, §2, Sept. 4, 1964, 78 Stat. 914; amended Pub. L. 89–290, §4(g)(2), Oct. 22, 1965, 79 Stat. 1058; Pub. L. 90–490, title II, §222(b), (c)(1), Aug. 16, 1968, 82 Stat. 783, 784; Pub. L. 92–158, §6(a), (b)(1), (e), Nov. 18, 1971, 85 Stat. 475, 476, 478; renumbered §836 and amended Pub. L. 94–63, title IX, §§936(b), 941(h)(1), (2), (5), (i)(1), July 29, 1975, 89 Stat. 363, 365; Pub. L. 96–76, title I, §112, Sept. 29, 1979, 93 Stat. 580; Pub. L. 97–35, title XXVII, §2757(b), Aug. 13, 1981, 95 Stat. 931; Pub. L. 99–92, §8(b)–(d), Aug. 16, 1985, 99 Stat. 398; Pub. L. 100–607, title VII, §§713(b)–(g), 714(a)–(c), Nov. 4, 1988, 102 Stat. 3160, 3161; Pub. L. 101–93, §5(r), Aug. 16, 1989, 103 Stat. 614; Pub. L. 102–408, title II, §211(a)(1), Oct. 13, 1992, 106 Stat. 2078; Pub. L. 105–392, title I, §133(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3575; Pub. L. 111–148, title V, §§5202, 5310(b)(2)–(4), Mar. 23, 2010, 124 Stat. 607, 631.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
@@ -122,7 +124,7 @@ Subsec. (l). Pub. L. 105–392, §133(c)(1), added subsec. (l).
 
 <b>1992</b>—Subsecs. (h) to (k). Pub. L. 102–408 redesignated subsecs. (i) to (k) as (h) to (j), respectively, and struck out former subsec. (h) which provided for a loan repayment program. See section 297n of this title.
 
-<b>1989</b>—Subsec. (h)(6)(C). Pub. L. 101–93 substituted "means a skilled nursing facility, as such term is defined in section 1395x(j) of this title, and an intermediate care facility, as such term is defined in section1396d(c) of this title" for "means an intermediate care facility and a skilled nursing facility, as such terms are defined in subsections (c) and (i), respectively, of section 1396d of this title".
+<b>1989</b>—Subsec. (h)(6)(C). Pub. L. 101–93 substituted "means a skilled nursing facility, as such term is defined in section 1395x(j) of this title, and an intermediate care facility, as such term is defined in section 1396d(c) of this title" for "means an intermediate care facility and a skilled nursing facility, as such terms are defined in subsections (c) and (i), respectively, of section 1396d of this title".
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–607, §713(b), (c), inserted in first sentence ", except that for the final two academic years of the program involved, such total may not exceed $4,000", substituted "$13,000" for "$10,000" in second sentence, and inserted ", to persons with exceptional financial need," after "nurses" in third sentence.
 
@@ -183,6 +185,8 @@ Subsec. (b)(5). Pub. L. 90–490, §222(b)(4), struck out provisions for an inte
 Subsecs. (f), (g). Pub. L. 90–490, §222(c)(1), added subsecs. (f) and (g).
 
 <b>1965</b>—Subsec. (b)(5). Pub. L. 89–290 applied rate of interest for first loan obtained by a student from a loan fund established under this part to any subsequent loan to such student from such fund during his course of study.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

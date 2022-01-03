@@ -32,6 +32,8 @@ Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §204), 204, 68 Stat. 1149
 
 The word "subsequently" is omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 21 of title 14, referred to in text, was comprised of sections 701 to 713 and 720 to 746, prior to the renumbering of such sections as sections 3701 to 3714 and 3731 to 3757, respectively, of title 14 by Pub. L. 115–282, title I, §118(b), Dec. 4, 2018, 132 Stat. 4233. After renumbering, such sections now comprise chapter 37 (designated as chapter "1" in chapter analysis) of title 14.
@@ -50,9 +52,11 @@ Subsec. (a). Pub. L. 103–337, §1675(d)(2), substituted "573, 1407, 1409, or 1
 
 Subsec. (b)(3), (4). Pub. L. 103–337, §1627, as amended by Pub. L. 104–106, added pars. (3) and (4).
 
-<b>1984</b>—Pub. L. 98–525 substituted "(a) Except as provided in subsection (b), a reserve commissioned officer" for "A reserve commissioned officer, other than a commissioned warrant officer,", struck out the comma before "may", and added subsec. (b).
+<b>1984</b>—Pub. L. 98–525 substituted "(a) Except as provided in subsection (b), a reserve commissioned officer"for "A reserve commissioned officer, other than a commissioned warrant officer,", struck out the comma before "may", and added subsec. (b).
 
 <b>1975</b>—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

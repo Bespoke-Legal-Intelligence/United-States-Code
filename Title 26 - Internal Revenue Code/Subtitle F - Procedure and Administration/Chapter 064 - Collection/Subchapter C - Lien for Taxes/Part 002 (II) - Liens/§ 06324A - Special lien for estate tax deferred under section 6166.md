@@ -98,6 +98,8 @@ For purposes of this section—
 
 (Added Pub. L. 94–455, title XX, §2004(d)(1), Oct. 4, 1976, 90 Stat. 1868; amended Pub. L. 95–600, title VII, §702(e)(1), Nov. 6, 1978, 92 Stat. 2929; Pub. L. 97–34, title IV, §422(e)(6)(A)–(C), Aug. 13, 1981, 95 Stat. 316.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Pub. L. 97–34, §422(e)(6)(C), struck out "or 6166A" after "section 6166" in section catchline.
@@ -116,11 +118,13 @@ Subsec. (e)(2). Pub. L. 95–600, §702(e)(1)(A), substituted "Required interest
 
 Subsec. (e)(4). Pub. L. 95–600, §702(e)(1)(D), substituted "required interest amount" for "aggregate interest amount".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec. 31, 1981, see section 422(f)(1) of Pub. L. 97–34, set out as a note under section 6166 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made bythis section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
+Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
 

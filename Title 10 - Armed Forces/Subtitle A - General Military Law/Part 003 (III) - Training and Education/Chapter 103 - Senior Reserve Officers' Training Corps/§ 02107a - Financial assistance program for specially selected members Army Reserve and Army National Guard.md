@@ -68,6 +68,8 @@
 
 (Added Pub. L. 96–357, §1(c)(1), Sept. 24, 1980, 94 Stat. 1179; amended Pub. L. 102–190, div. A, title V, §522(a), (b)(1), Dec. 5, 1991, 105 Stat. 1362; Pub. L. 104–201, div. A, title V, §§507(a)(3), 555(a), Sept. 23, 1996, 110 Stat. 2512, 2527; Pub. L. 105–85, div. A, title X, §1073(a)(36), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 107–107, div. A, title V, §§534(b), 536(a), (c), Dec. 28, 2001, 115 Stat. 1106, 1107; Pub. L. 108–136, div. A, title V, §§521(b), 522, Nov. 24, 2003, 117 Stat. 1463; Pub. L. 108–375, div. A, title V, §524(b), Oct. 28, 2004, 118 Stat. 1889; Pub. L. 109–163, div. A, title V, §§531(b), 532, 534(b), 536, Jan. 6, 2006, 119 Stat. 3247–3249; Pub. L. 109–364, div. A, title V, §535, Oct. 17, 2006, 120 Stat. 2207; Pub. L. 110–181, div. A, title V, §§522, 523, Jan. 28, 2008, 122 Stat. 102, 103; Pub. L. 111–84, div. A, title V, §522, Oct. 28, 2009, 123 Stat. 2285.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted "22 cadets" for "17 cadets", "22 members" for "17 members", and "22 such members" for "17 such members".
@@ -116,6 +118,8 @@ Subsec. (f). Pub. L. 102–190, §522(a)(4), inserted "or who does not complete 
 
 Subsec. (h). Pub. L. 102–190, §522(a)(5), struck out par. (1) designation, substituted "not more than 208 cadets each year under this section, to include not less than 10 cadets" for "not less than 10 cadets under this section each year", and struck out par. (2) which read as follows: "If the level of participation in the program at any military junior college meets criteria for such participation established by the Secretary of the Army by regulation, the Secretary shall appoint additional cadets under this section from among members of the program at such military junior college who are eligible under subsection (b) for such an appointment."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2003 Amendment
 
 Amendment by section 521(b) of Pub. L. 108–136 applicable to payment of expenses of cadets and midshipmen of Senior Reserve Officers' Training Corps Program that are due after Nov. 24, 2003, see section 521(c) of Pub. L. 108–136, set out as a note under section 2107 of this title.
@@ -134,5 +138,5 @@ Paragraph (3) of subsec. (c) of this section, as in effect on the day before Jan
 
 #### Benefits Not To Accrue for Periods Prior to September 23, 1996
 
-No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, see section 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
+No increase in pay or retired or retainer pay to accrue for periods before Sept. 23, 1996, by reason of amendments made by section 507 of Pub. L. 104–201, seesection 507(c) of Pub. L. 104–201, set out as a note under section 2106 of this title.
 

@@ -52,7 +52,7 @@ Not later than 60 days after the end of each Federal fiscal year, the Secretary 
 
 #### (1) Guidance
 
-&emsp;Not later than October 1, 2009, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and all appropriate State agencies in affected States,shall make available, including to potential users of the long-term management and storage program established under subsection (a), guidance that establishes procedures and standards for the receipt, management, and long-term storage of elemental mercury at a designated facility or facilities, including requirements to ensure appropriate use of flasks or other suitable shipping containers. Such procedures and standards shall be protective of human health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. In addition to such procedures and standards, elemental mercury managed and stored under this section at a designated facility shall be subject to the requirements of the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], including the requirements of subtitle C of that Act \[42 U.S.C. 6921 et seq.\], except as provided in subsection (g)(2) of this section. A designated facility is authorized to operate under interim status pursuant to section 3005(e) of the Solid Waste Disposal Act \[42 U.S.C. 6925(e)\] until a final decision on a permit application is made pursuant to section 3005(c) of the Solid Waste Disposal Act \[42 U.S.C. 6925(c)\]. Not later than January 1, 2020, the Administrator of the Environmental Protection Agency (or an authorized State) shall issue a final decision on the permit application.
+&emsp;Not later than October 1, 2009, the Secretary, after consultation with the Administrator of the Environmental Protection Agency and all appropriate State agencies in affected States, shall make available, including to potential users of the long-term management and storage program established under subsection (a), guidance that establishes procedures and standards for the receipt, management, and long-term storage of elemental mercury at a designated facility or facilities, including requirements to ensure appropriate use of flasks or other suitable shipping containers. Such procedures and standards shall be protectiveof human health and the environment and shall ensure that the elemental mercury is stored in a safe, secure, and effective manner. In addition to such procedures and standards, elemental mercury managed and stored under this section at a designated facility shall be subject to the requirements of the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], including the requirements of subtitle C of that Act \[42 U.S.C. 6921 et seq.\], except as provided in subsection (g)(2) of this section. A designated facility is authorized to operate under interim status pursuant to section 3005(e) of the Solid Waste Disposal Act \[42 U.S.C. 6925(e)\] until a final decision on a permit application is made pursuant to section 3005(c) of the Solid Waste Disposal Act \[42 U.S.C. 6925(c)\]. Not later than January 1, 2020, the Administrator of the Environmental Protection Agency (or an authorized State) shall issue a final decision on the permit application.
 
 #### (2) Training
 
@@ -144,9 +144,15 @@ Not later than July 1, 2014, the Secretary shall transmit to the Congress the re
 
 (Pub. L. 110–414, §5, Oct. 14, 2008, 122 Stat. 4344; Pub. L. 114–182, title I, §10(c), (d), June 22, 2016, 130 Stat. 478, 480.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to this chapter. Subtitle C of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+
+#### Codification
+
+Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
 
 #### Amendments
 
@@ -166,11 +172,9 @@ Subsec. (g)(2)(C). Pub. L. 114–182, §10(c)(3)(A), (B), redesignated concludin
 
 Subsec. (g)(2)(D), (E). Pub. L. 114–182, §10(c)(3)(C), added subpars. (D) and (E).
 
-#### Codification
-
-Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deposit of Fees
 
-Pub. L. 116–94, div. C, title III, §309, Dec. 20, 2019, 133 Stat. 2681, provided that: "Beginning in fiscal year 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (b)(1) of section 6939f of title 42, United States Code, shall be deposited in 'Department of Energy—Energy Programs—Non-Defense Environmental Cleanup' as discretionary offsetting collections."
+Pub. L. 116–94, div. C, title III, §309, Dec. 20, 2019, 133 Stat. 2681, provided that: "Beginning in fiscal year 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (b)(1) of section 6939f of title 42,United States Code, shall be deposited in 'Department of Energy—Energy Programs—Non-Defense Environmental Cleanup' as discretionary offsetting collections."
 

@@ -10,7 +10,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Spill of national significance.—The term "spill of national significance" means adischarge of oil or a hazardous substance that is declared by the Commandant to be a spill of national significance.
+Spill of national significance.—The term "spill of national significance" means a discharge of oil or a hazardous substance that is declared by the Commandant to be a spill of national significance.
 
 &emsp;(2)
 

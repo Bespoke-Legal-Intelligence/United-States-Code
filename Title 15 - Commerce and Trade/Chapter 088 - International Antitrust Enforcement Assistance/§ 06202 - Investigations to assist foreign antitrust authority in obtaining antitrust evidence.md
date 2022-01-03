@@ -6,7 +6,7 @@ A request by a foreign antitrust authority for investigative assistance under th
 
 #### (b) Authority to investigate
 
-In accordance with an antitrust mutual assistance agreement in effect under this chapter, subject to section 6207 of this title, and except as provided in section 6204 of this title, the Attorney General and the Commission may, usingtheir respective authority to investigate possible violations of the Federal antitrust laws, conduct investigations to obtain antitrust evidence relating to a possible violation of the foreign antitrust laws administered or enforced by the foreign antitrust authority with respect to which such agreement is in effect under this chapter, and may provide such antitrust evidence to the foreign antitrust authority, to assist the foreign antitrust authority—
+In accordance with an antitrust mutual assistance agreement in effect under this chapter, subject to section 6207 of this title, and except as provided in section 6204 of this title, the Attorney General and the Commission may, using their respective authority to investigate possible violations of the Federal antitrust laws, conduct investigations to obtain antitrust evidence relating to a possible violation of the foreign antitrust laws administered or enforced by the foreign antitrust authority with respect to which such agreement is in effect under this chapter, and may provide such antitrust evidence to the foreign antitrust authority, to assist the foreign antitrust authority—
 
 &emsp;(1) in determining whether a person has violated or is about to violate any of such foreign antitrust laws, or
 
@@ -21,6 +21,8 @@ An investigation may be conducted under subsection (b), and antitrust evidence o
 A person may not be compelled in connection with an investigation under this section to give testimony or a statement, or to produce a document or other thing, in violation of any legally applicable right or privilege.
 
 (Pub. L. 103–438, §3, Nov. 2, 1994, 108 Stat. 4597.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

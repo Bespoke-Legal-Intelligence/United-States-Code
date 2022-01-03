@@ -41,7 +41,7 @@
 | [3693\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003693%20-%20Compliance%20surveys.md) | Compliance surveys. |
 | [3694\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003694%20-%20Use%20of%20other%20Federal%20agencies.md) | Use of other Federal agencies. |
 | [3695\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003695%20-%20Limitation%20on%20period%20of%20assistance%20under%20two%20or%20more%20programs.md) | Limitation on period of assistance under two or more programs. |
-| [3696\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003696%20-%20Limitation%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md) | Limitation on certain advertising, sales, and enrollment practices. |
+| [3696\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003696%20-%20Prohibition%20on%20certain%20advertising%2C%20sales%2C%20and%20enrollment%20practices.md) | Prohibition on certain advertising, sales, and enrollment practices. |
 | [3697\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697%20-%20Funding%20of%20contract%20educational%20and%20vocational%20counseling.md) | Funding of contract educational and vocational counseling. |
 | [3697A.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697A%20-%20Educational%20and%20vocational%20counseling.md) | Educational and vocational counseling. |
 | [3697B.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003697B%20-%20On-campus%20educational%20and%20vocational%20counseling.md) | On-campus educational and vocational counseling. |
@@ -51,10 +51,6 @@
 | [3699B.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20Provisions/%C2%A7%2003699B%20-%20Treatment%20of%20certain%20for-profit%20educational%20institutions.md) | Treatment of certain for-profit educational institutions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Amendment of Analysis
-
-<i>Pub. L. 116–315, title I, §1020(a)(2), (c), Jan. 5, 2021, 134 Stat. 4958, provided that, effective Aug. 1, 2021, this analysis is amended by striking item 3696 and adding new item 3696 "Prohibition on certain advertising, sales, and enrollment practices". See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 

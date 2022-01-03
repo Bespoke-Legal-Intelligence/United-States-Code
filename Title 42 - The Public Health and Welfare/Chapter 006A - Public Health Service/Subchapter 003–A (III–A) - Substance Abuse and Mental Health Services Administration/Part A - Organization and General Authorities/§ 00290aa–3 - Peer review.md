@@ -22,6 +22,8 @@ The Secretary may establish limited exceptions to the limitations contained in t
 
 (July 1, 1944, ch. 373, title V, §504, formerly §506, as added Pub. L. 98–24, §2(b)(7), Apr. 26, 1983, 97 Stat. 178; amended Pub. L. 99–158, §3(c), Nov. 20, 1985, 99 Stat. 879; renumbered §507 and amended Pub. L. 99–570, title IV, §§4004(a), 4007, Oct. 27, 1986, 100 Stat. 3207–109, 3207–115; renumbered §504 and amended Pub. L. 102–321, title I, §104, July 10, 1992, 106 Stat. 333; Pub. L. 102–352, §2(a)(7), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–392, title IV, §412, Nov. 13, 1998, 112 Stat. 3590; Pub. L. 106–310, div. B, title XXXIV, §3401(b), Oct. 17, 2000, 114 Stat. 1218; Pub. L. 114–255, div. B, title VI, §§6001(c)(2), 6009, Dec. 13, 2016, 130 Stat. 1203, 1215.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 In subsecs. (a) and (c), "section 134 of title 41" substituted for "section 4(11) of the Office of Federal Procurement Policy Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -38,7 +40,7 @@ A prior section 504 of act July 1, 1944, which was classified to section 222 of 
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (b). Pub. L. 114–255, §6009, inserted at end: "In the case of any such peer review group that is reviewing a grant, cooperative agreement, or contract related to mental illness treatment, not less than half of the members of such peer review group shall be licensed and experienced professionals in the prevention, diagnosis, or treatment of, or recovery from, mental illness or co-occurring mental illness and substance use disorders and have a medical degree, a doctoral degree in psychology, or an advanced degree in nursing or social work from an accredited program, and the Secretary, in consultation with the Assistant Secretary, shall, tothe extent possible, ensure such peer review groups include broad geographic representation, including both urban and rural representatives."
+Subsec. (b). Pub. L. 114–255, §6009, inserted at end: "In the case of any such peer review group that is reviewing a grant, cooperative agreement, or contract related to mental illness treatment, not less than half of themembers of such peer review group shall be licensed and experienced professionals in the prevention, diagnosis, or treatment of, or recovery from, mental illness or co-occurring mental illness and substance use disorders and have a medical degree, a doctoral degree in psychology, or an advanced degree in nursing or social work from an accredited program, and the Secretary, in consultation with the Assistant Secretary, shall, to the extent possible, ensure such peer review groups include broad geographic representation, including both urban and rural representatives."
 
 <b>2000</b>—Pub. L. 106–310 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions requiring, after consultation with the Administrator of the Substance Abuse and Mental Health Services Administration, appropriate peer review of grants, cooperative agreements, and contracts to be administered through the agency that exceed the simple acquisition threshold as defined in section 403 of title 41 for provisions requiring such peer review after consultation with the Directors of the Center for Substance Abuse Treatment, the Center for Substance Abuse Prevention, and the Center for Mental Health Services, in subsec. (b), provisions relating to members of peer groups qualified to perform review functions under subsec. (a) for similar provisions in former subsec. (b) but which included reference to regulatory establishment of such groups, in subsec. (c), provisions relating to advisory council review for provisions relating to requirements and specification of regulations promulgated under subsec. (a), and in subsec. (d), provisions relating to Secretary's authority to establish exceptions to the limitations in section regarding participation of Federal employees and advisory council approval for provisions relating to recommendations.
 
@@ -51,6 +53,8 @@ Pub. L. 102–321 amended section generally, substituting provisions relating to
 <b>1986</b>—Subsec. (b). Pub. L. 99–570, §4007, inserted "applications made for" before "grants, cooperative" in introductory text.
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–158 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendments
 

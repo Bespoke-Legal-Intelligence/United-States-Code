@@ -22,7 +22,7 @@ Through the program established under this section, the Secretary shall enter in
 
 #### (A) Pediatric medical specialists and pediatric surgical specialists
 
-&emsp;&emsp;For purposes of contracts with respect to pediatric medical specialists and pediatricsurgical specialists, the term "qualified health professional" means a licensed physician who—
+&emsp;&emsp;For purposes of contracts with respect to pediatric medical specialists and pediatric surgical specialists, the term "qualified health professional" means a licensed physician who—
 
 &emsp;&emsp;&emsp;(i) is entering or receiving training in an accredited pediatric medical subspecialty or pediatric surgical specialty residency or fellowship; or
 
@@ -63,6 +63,8 @@ In entering into contracts under this subsection, the Secretary shall give prior
 There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2021 through 2025.
 
 (July 1, 1944, ch. 373, title VII, §775, as added Pub. L. 111–148, title V, §5203, Mar. 23, 2010, 124 Stat. 607; amended Pub. L. 116–136, div. A, title III, §3401(13), Mar. 27, 2020, 134 Stat. 387.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

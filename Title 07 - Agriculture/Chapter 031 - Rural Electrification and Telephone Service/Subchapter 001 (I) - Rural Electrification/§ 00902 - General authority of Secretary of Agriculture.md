@@ -2,7 +2,7 @@
 
 #### (a) Loans
 
-The Secretary of Agriculture (referred to in this chapter as the "Secretary") is authorized and empowered to make loans, or refinance loans made or guaranteed by the Secretary under this chapter, in the several States and Territories of the United States for rural electrification and for the purpose of furnishing and improving electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems.
+The Secretary of Agriculture (referred to in this chapter as the "Secretary") is authorized and empowered to make loans, or refinance loans made or guaranteed by the Secretaryunder this chapter, in the several States and Territories of the United States for rural electrification and for the purpose of furnishing and improving electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy efficiency and conservation programs, and on-grid and off-grid renewable energy systems.
 
 #### (b) Investigations and reports
 
@@ -13,6 +13,8 @@ The Secretary may make, or cause to be made, studies, investigations, and report
 Not later than 180 days after December 20, 2018, the Secretary shall enter into a memorandum of understanding with the Secretary of Energy under which the Secretary of Energy shall provide technical assistance to the Rural Utilities Service on loans to be made under subsection (a) of this section and section 904(a) of this title.
 
 (May 20, 1936, ch. 432, title I, §2, 49 Stat. 1363; Oct. 28, 1949, ch. 776, §§2, 3, 63 Stat. 948; Pub. L. 103–129, §2(c)(1), Nov. 1, 1993, 107 Stat. 1363; Pub. L. 103–354, title II, §235(a)(2), (13), Oct. 13, 1994, 108 Stat. 3220, 3221; Pub. L. 104–127, title VII, §771, Apr. 4, 1996, 110 Stat. 1149; Pub. L. 110–234, title VI, §6101, May 22, 2008, 122 Stat. 1195; Pub. L. 110–246, §4(a), title VI, §6101, June 18, 2008, 122 Stat. 1664, 1956; Pub. L. 115–334, title VI, §6501, Dec. 20, 2018, 132 Stat. 4771; Pub. L. 116–94, div. B, title VII, §765, Dec. 20, 2019, 133 Stat. 2655.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -39,6 +41,8 @@ Subsec. (b). Pub. L. 104–127, §771(3), added subsec. (b) and struck out forme
 <b>1993</b>—Pub. L. 103–129 designated existing provisions as subsec. (a), substituted "electric and telephone service in rural areas, as provided in this chapter, and for the purpose of assisting electric borrowers to implement demand side management, energy conservation programs, and on-grid and off-grid renewable energy systems;" for "telephone service in rural areas, as hereinafter provided;", and added subsec. (b).
 
 <b>1949</b>—Act Oct. 28, 1949, authorized loans to furnish and improve rural telephone service; and inserted "title I," in credit of act May 20, 1936.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

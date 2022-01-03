@@ -12,7 +12,7 @@
 
 #### (b) Grants and contracts for additional purposes
 
-After consultation with the Administrator of the Agency for International Development, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall under section 242l of this title make grantsto, enter into contracts with, and provide technical assistance to, international organizations concerned with public health and may provide technical assistance to foreign governments, in order to support—
+After consultation with the Administrator of the Agency for International Development, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall under section 242l of this title make grants to, enter into contracts with, and provide technical assistance to, international organizations concerned with public health and may provide technical assistance to foreign governments, in order to support—
 
 &emsp;(1) projects for training individuals with respect to developing skills and technical expertise for use in the prevention, diagnosis, and treatment of acquired immune deficiency syndrome; and
 
@@ -45,6 +45,8 @@ The Secretary may not make a grant or enter into a cooperative agreement or cont
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each fiscal year.
 
 (July 1, 1944, ch. 373, title XXIII, §2315, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3070; amended Pub. L. 102–531, title III, §312(d)(18), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–43, title XVIII, §1811(3), June 10, 1993, 107 Stat. 199.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

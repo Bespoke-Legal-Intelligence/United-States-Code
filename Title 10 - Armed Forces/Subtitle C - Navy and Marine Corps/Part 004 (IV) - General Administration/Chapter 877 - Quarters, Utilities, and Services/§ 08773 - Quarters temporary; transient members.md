@@ -20,11 +20,15 @@ April 4, 1944, ch. 165 (3d proviso on p. 190), 58 Stat. 190.
 
 The words "That effective December 13, 1943" are omitted as executed. The word "quarters" is substituted for the word "housing" for uniformity. The words "basic allowance for quarters" are substituted for the words "rental allowance or money allowance for quarters" to conform to the terminology of §302 of the Career Compensation Act of 1949 (37 U.S.C. 252).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7573 of this title as this section.
 
 <b>1997</b>—Pub. L. 105–85 substituted "basic allowance for housing under section 403 of title 37" for "basic allowance for quarters".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

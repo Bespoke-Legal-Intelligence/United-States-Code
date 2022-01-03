@@ -72,7 +72,7 @@ Peer Support Counseling Program.—(1) In carrying out the comprehensive program
 
 &emsp;(B) to conduct outreach to covered individuals and the families of covered individuals.
 
-(2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section 304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
+(2) In carrying out the peer support counseling program under this subsection, the Secretary shall provide adequate training for peer counselors, including training carried out under the national program of training required by section304(c) of the Caregivers and Veterans Omnibus Health Services Act of 2010 (38 U.S.C. 1712A note).
 
 (3) In addition to other locations the Secretary considers appropriate, the Secretary shall carry out the peer support program under this subsection at each Department medical center.
 
@@ -546,7 +546,7 @@ Study of grant program.—
 
 &emsp;&emsp;"(A)
 
-In general.—Not later than 180 days after the commencement of the grant program under this section, the Secretary shall seek to enter into a contract with an appropriate entity described in paragraph (3) to conduct a study of the grant program.
+In general.—Not later than 180 days after the commencement of the grant program under thissection, the Secretary shall seek to enter into a contract with an appropriate entity described in paragraph (3) to conduct a study of the grant program.
 
 &emsp;&emsp;"(B)
 
@@ -860,7 +860,7 @@ In General.—In the first publication of the Department of Veterans Affairs and
 
 "(b)
 
-Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of Veterans Affairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that the final clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
+Rule of Construction.—Nothing in this section shall be construed to prevent the Secretary of VeteransAffairs and the Secretary of Defense from considering all relevant evidence, as appropriate, in updating the Department of Veterans Affairs and Department of Defense Clinical Practice Guideline for Assessment and Management of Patients at Risk for Suicide, as required under subsection (a), or from ensuring that the final clinical practice guidelines updated under such subsection remain applicable to the patient populations of the Department of Veterans Affairs and the Department of Defense."
 
 #### Contracts Related to Suicide Prevention and Mental Health Outreach Media
 

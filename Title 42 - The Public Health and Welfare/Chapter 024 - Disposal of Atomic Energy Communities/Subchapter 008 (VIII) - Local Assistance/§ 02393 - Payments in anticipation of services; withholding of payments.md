@@ -4,9 +4,13 @@ The payments made pursuant to section 2391 of this title to transferees of munic
 
 (Aug. 4, 1955, ch. 543, ch. 9, §93, 69 Stat. 482; Pub. L. 94–187, title VI, §601(1), Dec. 31, 1975, 89 Stat. 1077.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1975</b>—Pub. L. 94–187 substituted "Administrator" for "Commission".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

@@ -90,7 +90,7 @@ In the event of a vacancy in a position as a Commissioner appointed under subsec
 
 #### (B) Terms and privileges
 
-&emsp;&emsp;Each member of the Advisory Committee shall serve for a term of 2 years and shall be eligible for reappointment for not more than 3 consecutive terms. The Commissioners shall notify the Advisory Committee in advance of each meeting of the Commissioners. The Advisory Committee shall attend each meeting and shall examine and be heard on all proposed programs, investigations, reports, recommendations, and regulations of the Commissioners.
+&emsp;&emsp;Each member of the Advisory Committee shall serve for a term of 2 years and shall beeligible for reappointment for not more than 3 consecutive terms. The Commissioners shall notify the Advisory Committee in advance of each meeting of the Commissioners. The Advisory Committee shall attend each meeting and shall examine and be heard on all proposed programs, investigations, reports, recommendations, and regulations of the Commissioners.
 
 #### (C) Procedures
 
@@ -143,6 +143,8 @@ In the event of a vacancy in a position as a Commissioner appointed under subsec
 &emsp;&emsp;&emsp;The Secretary may reimburse the Secretary of State for amounts expended by the Secretary of State under this subparagraph.
 
 (Pub. L. 114–327, title I, §102, Dec. 16, 2016, 130 Stat. 1976.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

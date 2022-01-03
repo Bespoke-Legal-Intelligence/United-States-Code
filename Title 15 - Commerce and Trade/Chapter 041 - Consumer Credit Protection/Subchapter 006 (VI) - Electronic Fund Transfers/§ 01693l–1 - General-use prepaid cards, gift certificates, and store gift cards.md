@@ -152,6 +152,8 @@ In this section, the following definitions shall apply:
 
 (Pub. L. 90–321, title IX, §915, as added Pub. L. 111–24, title IV, §401(2), May 22, 2009, 123 Stat. 1751; amended Pub. L. 111–203, title X, §1084(1), July 21, 2010, 124 Stat. 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classified to section 1693m of this title.
@@ -159,6 +161,8 @@ A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classi
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -178,7 +182,7 @@ Exception.—
 
 &emsp;"(1)
 
-In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be "Fund"\] Transfer Act \[15 U.S.C.1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
+In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be "Fund"\] Transfer Act \[15 U.S.C. 1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
 
 &emsp;&emsp;"(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693l–1(b)(1), (2)\];
 

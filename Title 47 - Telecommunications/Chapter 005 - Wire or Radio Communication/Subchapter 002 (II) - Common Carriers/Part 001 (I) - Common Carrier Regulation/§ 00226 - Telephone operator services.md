@@ -46,7 +46,7 @@ As used in this section—
 
 &emsp;&emsp;(D) ensure, by contract or tariff, that each aggregator for which such provider is the presubscribed provider of operator services is in compliance with the requirements of subsection (c) and, if applicable, subsection (e)(1);
 
-&emsp;&emsp;(E) withhold payment (on a location-by-location basis) of any compensation, including commissions, to aggregators if such provider reasonably believes that the aggregator (i) is blocking access by means of "950" or "800" numbers to interstate common carriers in violation of subsection (c)(1)(B) or (ii) is blocking access to equal access codes in violation of rules the Commission may prescribe under subsection (e)(1);
+&emsp;&emsp;(E) withhold payment (on a location-by-location basis) of any compensation, including commissions, to aggregators if such provider reasonably believes that the aggregator (i) is blocking access by means of "950" or "800"numbers to interstate common carriers in violation of subsection (c)(1)(B) or (ii) is blocking access to equal access codes in violation of rules the Commission may prescribe under subsection (e)(1);
 
 &emsp;&emsp;(F) not bill for unanswered telephone calls in areas where equal access is available;
 
@@ -122,7 +122,7 @@ As used in this section—
 
 #### (2) Compensation
 
-&emsp;The Commission shall consider the need to prescribe compensation (other than advance payment by consumers) for owners of competitive public pay telephones for calls routed to providers of operator services that are other than the presubscribed provider of operator services for such telephones. Within 9 months after October 17, 1990, the Commission shall reach a final decision on whether to prescribe such compensation.
+&emsp;The Commission shall consider the need to prescribe compensation (other than advance payment by consumers) for owners of competitive public pay telephones for calls routed to providers of operator services that are otherthan the presubscribed provider of operator services for such telephones. Within 9 months after October 17, 1990, the Commission shall reach a final decision on whether to prescribe such compensation.
 
 #### (f) Technological capability of equipment
 
@@ -138,7 +138,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 #### (A) In general
 
-&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, andshall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
+&emsp;&emsp;Each provider of operator services shall file, within 90 days after October 17, 1990, and shall maintain, update regularly, and keep open for public inspection, an informational tariff specifying rates, terms, and conditions, and including commissions, surcharges, any fees which are collected from consumers, and reasonable estimates of the amount of traffic priced at each rate, with respect to calls for which operator services are provided. Any changes in such rates, terms, or conditions shall be filed no later than the first day on which the changed rates, terms, or conditions are in effect.
 
 #### (B) Waiver authority
 
@@ -194,7 +194,7 @@ In any proceeding to carry out the provisions of this section, the Commission sh
 
 Nothing in this section shall be construed to alter the obligations, powers, or duties of common carriers or the Commission under the other sections of this chapter.
 
-(June 19, 1934, ch. 652, title II, §226, as added Pub. L. 101–435, §3, Oct. 17, 1990, 104 Stat. 987; amended Pub. L. 101–555, §4, Nov. 15, 1990, 104 Stat. 2760; Pub. L. 102–538, title II, §207, Oct. 27, 1992, 106 Stat. 3543; Pub. L. 103–414, title III, §§303(a)(10), 304(a)(8), Oct. 25, 1994, 108 Stat. 4294, 4297.)
+(June 19, 1934, ch. 652, title II, §226, as added Pub. L. 101–435, §3, Oct. 17, 1990, 104 Stat. 987;amended Pub. L. 101–555, §4, Nov. 15, 1990, 104 Stat. 2760; Pub. L. 102–538, title II, §207, Oct. 27, 1992, 106 Stat. 3543; Pub. L. 103–414, title III, §§303(a)(10), 304(a)(8), Oct. 25, 1994, 108 Stat. 4294, 4297.)
 
 #### <b>Editorial Notes</b>
 
@@ -204,7 +204,7 @@ This chapter, referred to in subsec. (i), was in the original "this Act", meanin
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: "The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect notlater than 45 days after the date the regulations are prescribed."
+<b>1994</b>—Subsec. (d)(2) to (4). Pub. L. 103–414, §303(a)(10), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: "The Commission shall initiate the proceeding required under paragraph (1) within 60 days after October 17, 1990, and shall prescribe regulations pursuant to the proceeding not later than 210 days after October 17, 1990. Such regulations shall take effect not later than 45 days after the date the regulations are prescribed."
 
 Subsec. (e)(1). Pub. L. 103–414, §304(a)(8), struck out "within 9 months after October 17, 1990," after "The Commission," in introductory provisions.
 

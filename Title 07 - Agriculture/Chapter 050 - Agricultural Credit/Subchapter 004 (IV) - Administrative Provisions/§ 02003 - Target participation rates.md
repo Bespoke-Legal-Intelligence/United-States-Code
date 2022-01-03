@@ -22,7 +22,7 @@
 
 #### (2) Allocation
 
-&emsp;The Secretary shall allocate such loans on the basis of the proportion of members of socially disadvantaged groups in a county and the availability of inventory farmland, with the greatest amount of loan funds being distributed in the county with the greatest proportion of socially disadvantaged group members and the greatest amount of available inventory farmland.
+&emsp;The Secretary shall allocate such loans on the basis of the proportion of members of socially disadvantaged groups in a county andthe availability of inventory farmland, with the greatest amount of loan funds being distributed in the county with the greatest proportion of socially disadvantaged group members and the greatest amount of available inventory farmland.
 
 #### (3) Indian reservations
 
@@ -58,6 +58,8 @@ Not later than 180 days after April 4, 1996, the Secretary shall ensure that the
 
 (Pub. L. 87–128, title III, §355, as added Pub. L. 100–233, title VI, §617, Jan. 6, 1988, 101 Stat. 1682; amended Pub. L. 101–624, title XVIII, §1817, title XXV, §2501(f), Nov. 28, 1990, 104 Stat. 3829, 4065; Pub. L. 102–554, §21(a), (b), Oct. 28, 1992, 106 Stat. 4161; Pub. L. 104–127, title VI, §647, Apr. 4, 1996, 110 Stat. 1104; Pub. L. 107–171, title V, §5315, May 13, 2002, 116 Stat. 348.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (c)(2), see note set out under section 1921 of this title.
@@ -79,6 +81,8 @@ Subsec. (e)(1). Pub. L. 102–554, §21(b), substituted ", ethnic, or gender" f
 Subsecs. (c), (d). Pub. L. 101–624, §2501(f)(1)–(3), added subsec. (c), redesignated former subsec. (c) as (d), and struck out former subsec. (d) which read as follows: "As used in this section, the term 'socially disadvantaged group' means a group whose members have been subjected to racial or ethnic prejudice because of their identity as members of a group without regard to their individual qualities."
 
 Subsec. (e). Pub. L. 101–624, §2501(f)(4), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

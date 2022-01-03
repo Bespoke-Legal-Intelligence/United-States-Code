@@ -20,7 +20,7 @@
 
 &emsp;(B) The threshold planning quantities may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
 
-&emsp;(C) If the Administrator fails to publish an interim final regulation establishing a threshold planning quantity for a substance within30 days after October 17, 1986, the threshold planning quantity for the substance shall be 2 pounds until such time as the Administrator publishes regulations establishing a threshold for the substance.
+&emsp;(C) If the Administrator fails to publish an interim final regulation establishing a threshold planning quantity for a substance within 30 days after October 17, 1986, the threshold planning quantity for the substance shall be 2 pounds until such time as the Administrator publishes regulations establishing a threshold for the substance.
 
 #### (4) Revisions
 

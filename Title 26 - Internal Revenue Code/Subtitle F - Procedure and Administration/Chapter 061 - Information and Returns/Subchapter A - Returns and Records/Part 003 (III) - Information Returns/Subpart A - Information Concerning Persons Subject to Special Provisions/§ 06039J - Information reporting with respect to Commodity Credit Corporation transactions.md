@@ -6,13 +6,17 @@ The Commodity Credit Corporation, through the Secretary of Agriculture, shall ma
 
 #### (b) Statements to be furnished to persons with respect to whom information is required
 
-The Secretary of Agriculture shall furnish to each person whose name is required to be setforth in a return required under subsection (a) a written statement showing the amount of market gain reported in such return.
+The Secretary of Agriculture shall furnish to each person whose name is required to be set forth in a return required under subsection (a) a written statement showing the amount of market gain reported in such return.
 
 (Added Pub. L. 110–234, title XV, §15353(a), May 22, 2008, 122 Stat. 1526, and Pub. L. 110–246, §4(a), title XV, §15353(a), June 18, 2008, 122 Stat. 1664, 2288.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

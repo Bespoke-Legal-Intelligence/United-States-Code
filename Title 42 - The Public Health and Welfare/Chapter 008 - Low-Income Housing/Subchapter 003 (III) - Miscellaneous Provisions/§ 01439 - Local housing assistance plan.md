@@ -26,7 +26,7 @@ The provisions of subsection (a) shall not apply to—
 
 &emsp;(2) applications for assistance with respect to housing in new community developments approved under title IV of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3901 et seq.\] or title VII of the Housing and Urban Development Act of 1970 \[42 U.S.C. 4501 et seq.\] which the Secretary determines are necessary to meet the housing requirements under such title; or
 
-&emsp;(3) applications for assistance with respect to housing financed by loans or loan guarantees from a State or agency thereof, exceptthat the provisions of subsection (a) shall apply where the unit of general local government in which the assistance is to be provided objects in its housing assistance plan to the exemption provided by this paragraph.
+&emsp;(3) applications for assistance with respect to housing financed by loans or loan guarantees from a State or agency thereof, except that the provisions of subsection (a) shall apply where the unit of general local government in which the assistance is to be provided objects in its housing assistance plan to the exemption provided by this paragraph.
 
 #### (c) Repealed. Pub. L. 105–276, title V, §551(1), Oct. 21, 1998, 112 Stat. 2610
 
@@ -48,7 +48,7 @@ The provisions of subsection (a) shall not apply to—
 
 (2) The Secretary may reserve such housing assistance funds as he deems appropriate for use by a State or agency thereof.
 
-(3)(A) Notwithstanding any other provision of law, with respect to fiscal years beginning after September 30, 1990, the Secretary may retain not more than 5 percent of the financial assistance that becomes available under programs described in subsection (a)(1) during any fiscal year. Any such financial assistance that is retained shall be available for subsequent allocation to specific areas and communities, and may only be used for—
+(3)(A) Notwithstanding any other provision of law, with respect to fiscal years beginning afterSeptember 30, 1990, the Secretary may retain not more than 5 percent of the financial assistance that becomes available under programs described in subsection (a)(1) during any fiscal year. Any such financial assistance that is retained shall be available for subsequent allocation to specific areas and communities, and may only be used for—
 
 &emsp;(i) unforeseen housing needs resulting from natural and other disasters;
 
@@ -77,6 +77,8 @@ The provisions of subsection (a) shall not apply to—
 From budget authority made available in appropriation Acts for fiscal year 1988, the Secretary shall enter into an annual contributions contract for a term of 180 months to obligate sufficient funds to provide assistance payments pursuant to section 8(b)(1) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(1)\] on behalf of 500 lower income families from budget authority made available for fiscal year 1988, so long as such families occupy properties in Jefferson County, Texas. If a lower income family receiving assistance payments pursuant to this subsection ceases to qualify for assistance payments pursuant to the provisions of section 8 of such Act \[42 U.S.C. 1437f\] or of this subsection during the 180-month term of the annual contributions contract, assistance payments shall be made on behalf of another lower income family who occupies a unit identified in the previous sentence.
 
 (Pub. L. 93–383, title II, §213, Aug. 22, 1974, 88 Stat. 674; Pub. L. 95–128, title II, §207, Oct. 12, 1977, 91 Stat. 1130; Pub. L. 96–153, title II, §204, Dec. 21, 1979, 93 Stat. 1108; Pub. L. 96–399, title II, §202(d), Oct. 8, 1980, 94 Stat. 1629; Pub. L. 97–35, title III, §321(e), Aug. 13, 1981, 95 Stat. 399; Pub. L. 98–181, title I \[title II, §201(a)(1), (2)\], Nov. 30, 1983, 97 Stat. 1175; Pub. L. 98–479, title I, §102(e), Oct. 17, 1984, 98 Stat. 2222; Pub. L. 100–242, title V, §522(a), Feb. 5, 1988, 101 Stat. 1938; Pub. L. 101–235, title I, §§101(a)–(c), (e), 104(a), Dec. 15, 1989, 103 Stat. 1988–1990, 1998; Pub. L. 101–494, §5, Oct. 31, 1990, 104 Stat. 1186; Pub. L. 101–625, title V, §§556, 576, title VIII, §§801(b), 804(e), Nov. 28, 1990, 104 Stat. 4233, 4238, 4303, 4323; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1591; Pub. L. 102–550, title I, §154, Oct. 28, 1992, 106 Stat. 3718; Pub. L. 104–330, title V, §501(d)(3), Oct. 26, 1996, 110 Stat. 4043; Pub. L. 105–276, title V, §§522(b)(2), 551, Oct. 21, 1998, 112 Stat. 2564, 2610.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -165,6 +167,8 @@ Subsec. (d)(2). Pub. L. 98–181, §201(a)(2), amended par. (2) generally, inser
 <b>1979</b>—Subsec. (d)(1). Pub. L. 96–153 inserted provisions limiting allocation of assistance other than that approved in appropriation acts for use on and after Oct. 1, 1979 for modernization of low-income housing projects and inserted provision that any amounts allocated to a State or to areas or communities within a State which are not likely to be utilized within a fiscal year shall not be reallocated for use in another State unless the Secretary determines that other areas or communities within the same State cannot utilize the amounts in accordance with the appropriate housing assistance plans within that fiscal year.
 
 <b>1977</b>—Subsec. (d)(1). Pub. L. 95–128 inserted provision requiring the Secretary to assure that funds available for subsec. (a) housing assistance programs shall be allocated or reserved in accordance with goals described in local, State, or other housing assistance plans approved by the Secretary pursuant to section 5304 of this title and shall be utilized to meet needs reflected in data referred to in the preceding sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

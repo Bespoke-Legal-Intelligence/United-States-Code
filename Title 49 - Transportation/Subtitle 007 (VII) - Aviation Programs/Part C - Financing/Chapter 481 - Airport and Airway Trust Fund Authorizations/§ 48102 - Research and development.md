@@ -154,7 +154,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 Airport Capacity Research and Development.—(1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport design standards, maintenance, safety, operations, and environmental concerns.
 
-(2) The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
+(2) The Administrator shall submit to the Committees on Science and Transportation andInfrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 
 (e)
 
@@ -259,6 +259,8 @@ In subsection (a)(1), the word "solely" is omitted as surplus. Before clause (1)
 In subsection (d)(1), the words "Notwithstanding any other provision of this subsection" and "in each of fiscal years 1988, 1989, 1990, 1991, and 1992" are omitted as surplus.
 
 In subsection (d)(2), the reference to fiscal years 1988–1992 and the words "by the Administrator for research and development" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -371,6 +373,8 @@ Pub. L. 104–287, §5(9), substituted "Transportation and Infrastructure" for "
 &emsp;"(J) $5,200,000 for innovative and cooperative research projects and activities.
 
 "(2) for the fiscal year ending September 30, 1994, $297,000,000."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

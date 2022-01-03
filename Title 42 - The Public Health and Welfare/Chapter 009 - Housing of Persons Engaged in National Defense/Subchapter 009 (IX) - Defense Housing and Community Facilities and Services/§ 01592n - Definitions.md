@@ -10,7 +10,7 @@ As used in this subchapter, the following terms shall have the meanings respecti
 
 (d) "Community service" shall mean the maintenance and operation of facilities for health, refuse disposal, sewage treatment, recreation, water purification, and day-care centers, and the provision of fire-protection.
 
-(e) "National defense" shall mean (1) the operations and activities of the armed forces, the Atomic Energy Commission, or any other Government department or agency directly or indirectly and substantially concerned with the national defense, (2) other operations and activities directly or indirectly and substantially concerned with the operations and activities of thearmed forces and the Atomic Energy Commission, (3) activities in connection with the Mutual Defense Assistance Act of 1949, as amended, or (4) the provision of community facilities or services necessary to the health, safety, or public welfare of the inhabitants of a town or community which has been relocated as a result of the acquisition (through eminent domain or purchase in lieu thereof) of its former site by or on behalf of the Atomic Energy Commission for national-defense activities.
+(e) "National defense" shall mean (1) the operations and activities of the armed forces, the Atomic Energy Commission, or any other Government department or agency directly or indirectly and substantially concerned with the national defense, (2) other operations and activities directly or indirectly and substantially concerned with the operations and activities of the armed forces and the Atomic Energy Commission, (3) activities in connection with the Mutual Defense Assistance Act of 1949, as amended, or (4) the provision of community facilities or services necessary to the health, safety, or public welfare of the inhabitants of a town or community which has been relocated as a result of the acquisition (through eminent domain or purchase in lieu thereof) of its former site by or on behalf of the Atomic Energy Commission for national-defense activities.
 
 (f) "Nonprofit agency" shall mean any agency no part of the net earnings of which inures to the benefit of any private stockholder or individual.
 
@@ -19,6 +19,8 @@ As used in this subchapter, the following terms shall have the meanings respecti
 (h) "Veteran" shall mean a person, or the family of a person, who has served in the active military or naval service of the United States at any time (i) on or after September 16, 1940, and prior to July 26, 1947, (ii) on or after April 6, 1917, and prior to November 11, 1918, or (iii) on or after June 27, 1950, and prior to such date thereafter as shall be determined by the President, and who shall have been discharged or released therefrom under conditions other than dishonorable or who shall be still serving therein. The term shall also include the family of a person who served in the active military or naval service of the United States within any such period and who shall have died of causes determined by the Secretary of Veterans Affairs to have been service-connected.
 
 (Sept. 1, 1951, ch. 378, title III, §315, 65 Stat. 309; June 30, 1953, ch. 170, §18, 67 Stat. 126; Pub. L. 102–54, §13(q)(7)(B), June 13, 1991, 105 Stat. 281.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -29,6 +31,8 @@ The Mutual Defense Assistance Act of 1949, referred to in subsec. (e), is act Oc
 <b>1991</b>—Subsec. (h). Pub. L. 102–54 substituted "Secretary of Veterans Affairs" for "Veterans' Administration".
 
 <b>1953</b>—Subsec. (e)(4). Act June 30, 1953, added cl. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

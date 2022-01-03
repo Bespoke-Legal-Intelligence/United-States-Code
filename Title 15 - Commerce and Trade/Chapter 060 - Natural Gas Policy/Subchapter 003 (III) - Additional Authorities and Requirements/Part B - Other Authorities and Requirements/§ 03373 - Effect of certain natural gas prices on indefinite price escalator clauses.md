@@ -16,6 +16,8 @@ No price paid—
 
 (Pub. L. 95–621, title III, §313, Nov. 9, 1978, 92 Stat. 3392; Pub. L. 101–60, §3(b)(3), July 26, 1989, 103 Stat. 159.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Sections 3315 and 3317 of this title, referred to in text, were repealed effective Jan. 1, 1993, by Pub. L. 101–60, §2(b), July 26, 1989, 103 Stat. 158.
@@ -23,6 +25,8 @@ Sections 3315 and 3317 of this title, referred to in text, were repealed effecti
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–60 inserted ", as such section was in effect on January 1, 1989" in four places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

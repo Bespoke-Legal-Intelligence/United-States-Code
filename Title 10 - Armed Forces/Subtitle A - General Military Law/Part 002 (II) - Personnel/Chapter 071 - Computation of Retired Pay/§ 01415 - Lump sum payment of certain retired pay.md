@@ -96,7 +96,7 @@ General rule.—Subject to paragraph (2), an eligible person who makes an electi
 
 &emsp;(2)
 
-Restoration of full retirement amount at retirement age.—The retired pay of an eligible person who makes an election described in subsection (a) shall be recomputed, effective on the first day of the first month beginning after the person attains the eligible person's retirement age, so as to be an amount equal to the amount of covered retired pay to which the eligible person would otherwise be entitled on that date if the annual increases, in the retired pay of the eligible person made to reflect changes in the Consumer Price Index, had been made in accordance with section 1401a of this title.
+Restoration of full retirement amount at retirement age.—The retired pay of an eligible person who makes an election described in subsection (a) shall be recomputed, effective on the first day of the firstmonth beginning after the person attains the eligible person's retirement age, so as to be an amount equal to the amount of covered retired pay to which the eligible person would otherwise be entitled on that date if the annual increases, in the retired pay of the eligible person made to reflect changes in the Consumer Price Index, had been made in accordance with section 1401a of this title.
 
 (d)
 
@@ -107,6 +107,8 @@ Payment of Retired Pay to Persons Not Making Election.—An eligible person who 
 Regulations.—The Secretary of Defense shall prescribe regulations to carry out the provisions of this section.
 
 (Added Pub. L. 114–92, div. A, title VI, §633(a)(1), Nov. 25, 2015, 129 Stat. 847; amended Pub. L. 114–328, div. A, title X, §1081(a)(4), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 115–232, div. A, title X, §1081(a)(14), Aug. 13, 2018, 132 Stat. 1984.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -119,6 +121,8 @@ The Public Health Service Act, referred to in subsec. (a)(1)(D), is act July 1, 
 <b>2018</b>—Subsec. (e). Pub. L. 115–232 struck out "concerned" after "The Secretary of Defense".
 
 <b>2016</b>—Subsec. (b)(1)(B)(ii). Pub. L. 114–328 inserted period at end.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date; Implementation
 

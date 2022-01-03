@@ -20,7 +20,7 @@ Integrity of the Promotion Selection Board Process.—(1) The Secretary of Defen
 
 (C) With respect to the consideration of an officer for promotion to a grade at or below major general or, in the Navy, rear admiral, the requirements in subparagraphs (A) and (B) may be met through the convening and actions of a special selection board with respect to the officer under section 14502a of this title.
 
-(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the boardand shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
+(4) Information provided to a promotion board in accordance with paragraphs (2) and (3) shall be made available to all members of the board and shall be made a part of the record of the board. Communication of such information shall be in a written form or in the form of an audio or video recording. If a communication is in the form of an audio or video recording, a written transcription of the recording shall also be made a part of the record of the promotion board.
 
 (5) Paragraphs (2), (3), and (4) do not apply to the furnishing of appropriate administrative processing information to the promotion board by an administrative staff designated to assist the board, but only to the extent that oral communications are necessary to facilitate the work of the board.
 
@@ -58,9 +58,11 @@ Limitation on Modifying Furnished Information.—Information or guidelines furni
 
 (d)
 
-Officers in Health-Professions Competitive Categories.—The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
+Officers in Health-Professions Competitive Categories.—The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under section 14101(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers ofthe Navy Reserve, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2926; amended Pub. L. 109–163, div. A, title V, §§506(b), 515(b)(1)(QQ), Jan. 6, 2006, 119 Stat. 3227, 3234; Pub. L. 116–283, div. A, title V, §505(d), Jan. 1, 2021, 134 Stat. 3573.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -89,6 +91,8 @@ Subsec. (a)(7). Pub. L. 109–163, §506(b)(1)(A), redesignated par. (6) as (7).
 Subsec. (a)(7)(A). Pub. L. 109–163, §506(b)(2)(D), inserted "or (3)" after "paragraph (2)(B)".
 
 Subsec. (d). Pub. L. 109–163, §515(b)(1)(QQ), substituted "Navy Reserve" for "Naval Reserve".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

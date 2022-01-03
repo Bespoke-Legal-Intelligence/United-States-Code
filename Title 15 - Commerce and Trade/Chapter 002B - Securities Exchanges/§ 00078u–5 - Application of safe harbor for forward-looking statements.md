@@ -72,7 +72,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 &emsp;&emsp;&emsp;&emsp;(I) made by or with the approval of an executive officer of that entity; and
 
-&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officerthat the statement was false or misleading.
+&emsp;&emsp;&emsp;&emsp;(II) made or approved by such officer with actual knowledge by that officer that the statement was false or misleading.
 
 #### (2) Oral forward-looking statements
 
@@ -162,9 +162,13 @@ For purposes of this section, the following definitions shall apply:
 
 (June 6, 1934, ch. 404, title I, §21E, as added Pub. L. 104–67, title I, §102(b), Dec. 22, 1995, 109 Stat. 753.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (c)(1), (f), and (g), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

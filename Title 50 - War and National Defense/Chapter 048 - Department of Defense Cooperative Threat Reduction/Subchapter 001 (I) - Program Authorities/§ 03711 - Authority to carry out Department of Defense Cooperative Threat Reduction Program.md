@@ -72,6 +72,8 @@ The Secretary of Defense shall ensure that the military-to-military and defense 
 
 (Pub. L. 113–291, div. A, title XIII, §1321, Dec. 19, 2014, 128 Stat. 3595; Pub. L. 114–328, div. A, title XIII, §§1302(b)(1), 1303(b), Dec. 23, 2016, 130 Stat. 2566, 2568; Pub. L. 115–91, div. A, title XIII, §1302(b)(1), Dec. 12, 2017, 131 Stat. 1705.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (g)(1). Pub. L. 115–91 substituted "15 days" for "45 days".

@@ -10,13 +10,15 @@ An application submitted under this section shall contain the plan of the applic
 
 #### (c) Performance outcome standards
 
-An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needs that the project will meet, and how such project aligns with the goals in section 296e(a) of this title. The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
+An application submitted under this section shall contain a specification by the applicant entity of performance outcome standards that the project to be funded under the grant or contract will be measured against. Such standards shall address relevant national nursing needsthat the project will meet, and how such project aligns with the goals in section 296e(a) of this title. The recipient of a grant or contract under this section shall meet the standards set forth in the grant or contract application.
 
 #### (d) Linkages
 
 An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish.
 
 (July 1, 1944, ch. 373, title VIII, §802, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3564; amended Pub. L. 116–136, div. A, title III, §3404(a)(2), Mar. 27, 2020, 134 Stat. 392.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

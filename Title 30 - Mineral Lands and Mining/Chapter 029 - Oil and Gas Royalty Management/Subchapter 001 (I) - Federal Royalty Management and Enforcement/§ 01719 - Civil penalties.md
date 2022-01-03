@@ -70,7 +70,7 @@ Any person who has requested a hearing in accordance with subsection (e) within 
 
 If any person fails to pay an assessment of a civil penalty under this chapter—
 
-&emsp;(1) after the order making the assessment has become a final order and if such person does not file a petition for judicial review of the order in accordance with subsection (j), or
+&emsp;(1) after the order making the assessment has become a final order and if such persondoes not file a petition for judicial review of the order in accordance with subsection (j), or
 
 &emsp;(2) after a court in an action brought under subsection (j) has entered a final judgment in favor of the Secretary,
 

@@ -36,13 +36,17 @@ The Director shall—
 
 (Pub. L. 107–368, §19, Dec. 19, 2002, 116 Stat. 3063.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b), is Pub. L. 107–368, Dec. 19, 2002, 116 Stat. 3034, known as the National Science Foundation Authorization Act of 2002. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 1861 of this title and Tables.
 
 #### Codification
 
-Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as partof the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

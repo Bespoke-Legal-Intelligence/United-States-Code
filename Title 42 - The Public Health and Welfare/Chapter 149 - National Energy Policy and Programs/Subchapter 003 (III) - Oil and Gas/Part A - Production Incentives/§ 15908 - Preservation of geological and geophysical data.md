@@ -10,9 +10,11 @@ The Secretary shall carry out a National Geological and Geophysical Data Preserv
 
 &emsp;(1) to archive geologic, geophysical, and engineering data, maps, well logs, and samples;
 
-&emsp;(2) to provide a national catalog of such archival material; and
+&emsp;(2) to provide a national catalog of such archival material;
 
-&emsp;(3) to provide technical and financial assistance related to the archival material.
+&emsp;(3) to provide technical and financial assistance related to the archival material; and
+
+&emsp;(4) to provide for preservation of samples to track geochemical signatures from critical mineral (as defined in section 1606(a) of title 30) ore bodies for use in provenance tracking frameworks.
 
 #### (c) Plan
 
@@ -92,7 +94,7 @@ Not later than 1 year after August 8, 2005, the Secretary shall submit to Congre
 
 #### (4) Private contributions
 
-&emsp;The Secretary shall apply to the non-Federal share of the cost of an activity carried outwith assistance under this subsection the value of private contributions of property and services used for that activity.
+&emsp;The Secretary shall apply to the non-Federal share of the cost of an activity carried out with assistance under this subsection the value of private contributions of property and services used for that activity.
 
 #### (h) Report
 
@@ -132,7 +134,9 @@ In this section:
 
 There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended.
 
-(Pub. L. 109–58, title III, §351, Aug. 8, 2005, 119 Stat. 711; Pub. L. 116–260, div. Z, title VII, §7002(l), Dec. 27, 2020, 134 Stat. 2575.)
+(Pub. L. 109–58, title III, §351, Aug. 8, 2005, 119 Stat. 711; Pub. L. 116–260, div. Z, title VII, §7002(l), Dec. 27, 2020, 134 Stat. 2575; Pub. L. 117–58, div. D, title II, §40203, Nov. 15, 2021, 135 Stat. 959.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -140,7 +144,15 @@ The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is Pub
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(4). Pub. L. 117–58 added par. (4).
+
 <b>2020</b>—Subsec. (k). Pub. L. 116–260 substituted "$5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended" for "$30,000,000 for each of fiscal years 2006 through 2010".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

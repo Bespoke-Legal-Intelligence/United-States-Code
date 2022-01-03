@@ -16,7 +16,7 @@ If a local educational agency desires to carry out the activities described in t
 
 #### (1) In general
 
-&emsp;A local educational agency, or consortium of such agencies, shall develop its application through consultation with parents, teachers,principals, other school leaders, specialized instructional support personnel, students, community-based organizations, local government representatives (which may include a local law enforcement agency, local juvenile court, local child welfare agency, or local public housing agency), Indian tribes or tribal organizations that may be located in the region served by the local educational agency (where applicable), charter school teachers, principals, and other school leaders (if such agency or consortium of such agencies supports charter schools), and others with relevant and demonstrated expertise in programs and activities designed to meet the purpose of this subpart.
+&emsp;A local educational agency, or consortium of such agencies, shall develop its application through consultation with parents, teachers, principals, other school leaders, specialized instructional support personnel, students, community-based organizations, local government representatives (which may include a local law enforcement agency, local juvenile court, local child welfare agency, or local public housing agency), Indian tribes or tribal organizations that may be located in the region served by the local educational agency (where applicable), charter school teachers, principals, and other school leaders (if such agency or consortium of such agencies supports charter schools), and others with relevant and demonstrated expertise in programs and activities designed to meet the purpose of this subpart.
 
 #### (2) Continued consultation
 
@@ -36,7 +36,7 @@ If a local educational agency desires to carry out the activities described in t
 
 #### (2) Exception
 
-&emsp;A local educational agency receiving an allocation under section 7115(a) of this title in an amount that is less than $30,000 shall not be required to conduct a comprehensive needs assessment under paragraph (1).
+&emsp;A local educational agency receiving an allocation under section 7115(a) of this title in anamount that is less than $30,000 shall not be required to conduct a comprehensive needs assessment under paragraph (1).
 
 #### (3) Frequency of needs assessment
 
@@ -88,9 +88,11 @@ Each application submitted under this section by a local educational agency, or 
 
 #### (f) Special rule
 
-Any local educational agency receiving an allocation under section 7115(a)(1) of this title inan amount less than $30,000 shall be required to provide only one of the assurances described in subparagraphs (C), (D), and (E) of subsection (e)(2).
+Any local educational agency receiving an allocation under section 7115(a)(1) of this title in an amount less than $30,000 shall be required to provide only one of the assurances described in subparagraphs (C), (D), and (E) of subsection (e)(2).
 
 (Pub. L. 89–10, title IV, §4106, as added Pub. L. 114–95, title IV, §4101, Dec. 10, 2015, 129 Stat. 1974.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -99,6 +101,8 @@ A prior section 7116, Pub. L. 89–10, title IV, §4116, as added Pub. L. 107–
 Another prior section 7116, Pub. L. 89–10, title IV, §4116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3682; amended Pub. L. 106–554, §1(a)(1) \[title III, §314\], Dec. 21, 2000, 114 Stat. 2763, 2763A–47, related to local drug and violence prevention programs, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 4106 of Pub. L. 89–10 was classified to section 3066 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

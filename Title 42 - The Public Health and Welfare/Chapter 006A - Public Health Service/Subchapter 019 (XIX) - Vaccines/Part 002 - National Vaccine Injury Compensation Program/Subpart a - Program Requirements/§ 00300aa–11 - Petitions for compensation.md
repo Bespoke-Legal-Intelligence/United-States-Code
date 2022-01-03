@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-(1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) with the United States Court of Federal Claims. The clerk of theUnited States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
+(1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
 
 (2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—
 
@@ -30,7 +30,7 @@
 
 (9) This subsection applies only to a person who has sustained a vaccine-related injury or death and who is qualified to file a petition for compensation under the Program.
 
-(10) The Clerk of the United States Claims Court <sup>2</sup> is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1992.
+(10) The Clerk of the United States Claims Court <sup>1</sup> is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1992.
 
 #### (b) Petitioners
 
@@ -52,7 +52,7 @@ A petition for compensation under the Program for a vaccine-related injury or de
 
 &emsp;&emsp;&emsp;(I) received the vaccine in the United States or in its trust territories,
 
-&emsp;&emsp;&emsp;(II) received the vaccine outside the United States or a trust territory and at the time of the vaccination such personwas a citizen of the United States serving abroad as a member of the Armed Forces or otherwise as an employee of the United States or a dependent of such a citizen, or
+&emsp;&emsp;&emsp;(II) received the vaccine outside the United States or a trust territory and at the time of the vaccination such person was a citizen of the United States serving abroad as a member of the Armed Forces or otherwise as an employee of the United States or a dependent of such a citizen, or
 
 &emsp;&emsp;&emsp;(III) received the vaccine outside the United States or a trust territory and the vaccine was manufactured by a vaccine manufacturer located in the United States and such person returned to the United States not later than 6 months after the date of the vaccination,
 
@@ -90,7 +90,9 @@ The petitioner shall submit in accordance with a schedule set by the special mas
 
 &emsp;As used in this subsection, the term "child" shall have the meaning given that term by subsections (a) and (b) of section 8 of title 1 except that, for purposes of this subsection, such section 8 shall be applied as if the term "include" in subsection (a) of such section were replaced with the term "mean".
 
-(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103 Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151; Pub. L. 114–255, div. A, title III, §3093(c)(2), (3), Dec. 13, 2016, 130 Stat. 1152.)
+(July 1, 1944, ch. 373, title XXI, §2111, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3758; amended Pub. L. 100–203, title IV, §§4302(b), 4304(a), (b), 4306, 4307(1), (2), Dec. 22, 1987, 101 Stat. 1330–221, 1330–223, 1330–224; Pub. L. 101–239, title VI, §6601(c)(1)–(7), Dec. 19, 1989, 103Stat. 2285, 2286; Pub. L. 101–502, §5(a), Nov. 3, 1990, 104 Stat. 1286; Pub. L. 102–168, title II, §201(h)(1), Nov. 26, 1991, 105 Stat. 1104; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–43, title XX, §2012, June 10, 1993, 107 Stat. 214; Pub. L. 105–277, div. C, title XV, §1502, Oct. 21, 1998, 112 Stat. 2681–741; Pub. L. 106–310, div. A, title XVII, §1701(a), Oct. 17, 2000, 114 Stat. 1151; Pub. L. 114–255, div. A, title III, §3093(c)(2), (3), Dec. 13, 2016, 130 Stat. 1152.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -194,13 +196,15 @@ Subsec. (b)(1)(B). Pub. L. 100–203, §4302(b)(1), substituted "effective date 
 
 Subsec. (c)(1)(D). Pub. L. 100–203, §4304(b)(2), substituted "for more than 6 months" for "for more than 1 year", "and incurred" for ", (ii) incurred", and "(ii)" for "(iii)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–310, div. A, title XVII, §1701(b), Oct. 17, 2000, 114 Stat. 1151, provided that: "The amendment made by subsection (a) \[amending this section\] takeseffect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[42 U.S.C. 300aa–11\] that are pending on such date."
+Pub. L. 106–310, div. A, title XVII, §1701(b), Oct. 17, 2000, 114 Stat. 1151, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect upon the date of the enactment of this Act \[Oct. 17, 2000\], including with respect to petitions under section 2111 of the Public Health Service Act \[42 U.S.C. 300aa–11\] that are pending on such date."
 
 #### Effective Date of 1992 Amendment
 
@@ -222,5 +226,5 @@ Pub. L. 101–502, §5(h), Nov. 3, 1990, 104 Stat. 1289, provided that: "The ame
 
 For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
-<i><sup>2</sup></i><i> See Change of Name note below.</i>
+<i><sup>1</sup></i><i> See Change of Name note below.</i>
 

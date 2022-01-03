@@ -12,7 +12,7 @@ Each State technical committee shall provide public notice of, and permit public
 
 #### (1) In general
 
-&emsp;The role of State technical committees is advisory in nature, and such committees shall have no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
+&emsp;The role of State technical committees is advisory in nature, and such committees shallhave no implementation or enforcement authority. However, the Secretary shall give strong consideration to the recommendations of such committees in administering the programs under this chapter.
 
 #### (2) Advisory role in establishing program priorities and criteria
 
@@ -29,6 +29,8 @@ Each State technical committee shall provide public notice of, and permit public
 &emsp;For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
 
 (Pub. L. 99–198, title XII, §1262, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, §246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, §342(b), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, §2711, May 22, 2008, 122 Stat. 1084; Pub. L. 110–246, §4(a), title II, §2711, June 18, 2008, 122 Stat. 1664, 1812.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -51,6 +53,8 @@ Subsec. (b)(1). Pub. L. 104–127, §342(b)(2), inserted at end "Each State tech
 Subsec. (c)(7) to (9). Pub. L. 104–127, §342(b)(3), struck out "and" at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–354 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

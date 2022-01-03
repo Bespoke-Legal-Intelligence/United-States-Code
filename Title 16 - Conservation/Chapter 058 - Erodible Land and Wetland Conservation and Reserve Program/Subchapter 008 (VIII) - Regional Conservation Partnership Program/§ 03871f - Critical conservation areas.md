@@ -76,6 +76,8 @@ The Secretary shall provide outreach and education to eligible partners and prod
 
 (Pub. L. 99–198, title XII, §1271F, as added Pub. L. 113–79, title II, §2401, Feb. 7, 2014, 128 Stat. 750; amended Pub. L. 115–334, title II, §2707, Dec. 20, 2018, 132 Stat. 4600.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–334, §2707(2), added subsec. (a). Former subsec. (a) redesignated (b).

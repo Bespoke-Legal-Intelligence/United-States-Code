@@ -48,7 +48,7 @@ Nothing in this section shall be construed to—
 
 #### (1) In general
 
-&emsp;The Board shall determine and may from time-to-time modify the adjoining areas foreach facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1).
+&emsp;The Board shall determine and may from time-to-time modify the adjoining areas for each facility or particular area of land, or for individual categories of such facilities or lands, for the purposes of subsection (c)(1).
 
 #### (2) Notice
 
@@ -68,9 +68,13 @@ The duties and powers of law enforcement agents designated under subsection (a) 
 
 (May 18, 1933, ch. 32, §4A, as added Pub. L. 103–322, title XXXII, §320929, Sept. 13, 1994, 108 Stat. 2133; Pub. L. 108–447, div. C, title VI, §603(a)(2), Dec. 8, 2004, 118 Stat. 2966.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsecs. (c)(1), (e)(1), (f). Pub. L. 108–447 substituted "Board" for "board".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

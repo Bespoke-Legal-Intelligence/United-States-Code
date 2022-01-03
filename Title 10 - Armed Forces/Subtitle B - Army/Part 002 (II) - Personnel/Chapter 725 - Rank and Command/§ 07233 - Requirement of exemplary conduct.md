@@ -12,6 +12,8 @@ All commanding officers and others in authority in the Army are required—
 
 (Added Pub. L. 105–85, div. A, title V, §507(a)(1), Nov. 18, 1997, 111 Stat. 1726, §3583; renumbered §7233, Pub. L. 115–232, div. A, title VIII, §808(b)(7), Aug. 13, 2018, 132 Stat. 1838.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7233 to 7235 were renumbered sections 8633 to 8635 of this title, respectively.
@@ -20,7 +22,9 @@ Prior sections 7233 to 7235 were renumbered sections 8633 to 8635 of this title,
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3583 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments andspecial rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 

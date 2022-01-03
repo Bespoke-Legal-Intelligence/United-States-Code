@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 867, consisting of sections 8911 to 8929, related to retirement from the Air Force for length of service, prior to renumbering as chapter 941 of this title.

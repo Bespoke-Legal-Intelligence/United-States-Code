@@ -72,6 +72,8 @@ In this part:
 
 (Pub. L. 109–58, title VII, §791, Aug. 8, 2005, 119 Stat. 838; Pub. L. 110–255, §3(a), June 30, 2008, 122 Stat. 2423; Pub. L. 111–364, §2(a), Jan. 4, 2011, 124 Stat. 4056.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Par. (3)(C). Pub. L. 111–364, §2(a)(1), added subpar. (C).
@@ -87,6 +89,8 @@ Pub. L. 111–364, §2(a)(4), redesignated par. (8) as (9). Former par. (9) stru
 Pub. L. 111–364, §2(a)(3), struck out par. (9) which defined "State" to include the District of Columbia.
 
 <b>2008</b>—Par. (9). Pub. L. 110–255 added par. (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

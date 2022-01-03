@@ -1,6 +1,6 @@
 ### §3003. Congressional declaration of additional objectives
 
-The Congress finds that millions of older citizens in this Nation are suffering unnecessary harm from the lack of adequate services. It is therefore the purpose of this Act, in support ofthe objectives of the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], to—
+The Congress finds that millions of older citizens in this Nation are suffering unnecessary harm from the lack of adequate services. It is therefore the purpose of this Act, in support of the objectives of the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], to—
 
 &emsp;(1) make available comprehensive programs which include a full range of health, education, and supportive services to our older citizens who need them,
 
@@ -11,6 +11,8 @@ The Congress finds that millions of older citizens in this Nation are suffering 
 &emsp;(4) insure that the planning and operation of such programs will be undertaken as a partnership of older citizens, community agencies, and State and local governments, with appropriate assistance from the Federal Government.
 
 (Pub. L. 93–29, title I, §101, May 3, 1973, 87 Stat. 30; Pub. L. 97–115, §3(d), Dec. 29, 1981, 95 Stat. 1597.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

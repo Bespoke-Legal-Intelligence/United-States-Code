@@ -14,7 +14,7 @@ Congress makes the following findings:
 
 &emsp;(6) Such violence substantially affects interstate commerce in many ways, including the following:
 
-&emsp;&emsp;(A) The movement of members of targeted groups is impeded, and members of suchgroups are forced to move across State lines to escape the incidence or risk of such violence.
+&emsp;&emsp;(A) The movement of members of targeted groups is impeded, and members of such groups are forced to move across State lines to escape the incidence or risk of such violence.
 
 &emsp;&emsp;(B) Members of targeted groups are prevented from purchasing goods and services, obtaining or sustaining employment, or participating in other commercial activity.
 
@@ -39,4 +39,110 @@ Congress makes the following findings:
 #### Codification
 
 Section was formerly classified as a note under section 249 of Title 18, Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Findings
+
+Pub. L. 117–13, §2, May 20, 2021, 135 Stat. 265, provided that: "Congress finds the following:
+
+&emsp;"(1) Following the spread of COVID–19 in 2020, there has been a dramatic increase in hate crimes and violence against Asian-Americans and Pacific Islanders.
+
+&emsp;"(2) According to a recent report, there were nearly 3,800 reported cases of anti-Asian discrimination and incidents related to COVID–19 between March 19, 2020, and February 28, 2021, in all 50 States and the District of Columbia.
+
+&emsp;"(3) During this time frame, race has been cited as the primary reason for discrimination, making up over 90 percent of incidents, and the United States condemns and denounces any and all anti-Asian and Pacific Islander sentiment in any form.
+
+&emsp;"(4) Roughly 36 percent of these incidents took place at a business and more than 2,000,000 Asian-American businesses have contributed to the diverse fabric of American life.
+
+&emsp;"(5) More than 1,900,000 Asian-American and Pacific Islander older adults, particularly those older adults who are recent immigrants or have limited English proficiency, may face even greater challenges in dealing with the COVID–19 pandemic, including discrimination, economic insecurity, and language isolation.
+
+&emsp;"(6) In the midst of this alarming surge in anti-Asian hate crimes and incidents, a shooter murdered the following 8 people in the Atlanta, Georgia region, 7 of whom were women and 6 of whom were women of Asian descent:
+
+&emsp;&emsp;"(A) Xiaojie Tan.
+
+&emsp;&emsp;"(B) Daoyou Feng.
+
+&emsp;&emsp;"(C) Delaina Ashley Yaun González.
+
+&emsp;&emsp;"(D) Paul Andre Michels.
+
+&emsp;&emsp;"(E) Soon Chung Park.
+
+&emsp;&emsp;"(F) Hyun Jung Grant.
+
+&emsp;&emsp;"(G) Suncha Kim.
+
+&emsp;&emsp;"(H) Yong Ae Yue.
+
+&emsp;"(7) The people of the United States will always remember the victims of these shootings and stand in solidarity with those affected by this senseless tragedy and incidents of hate that have affected the Asian and Pacific Islander communities."
+
+#### Review of Hate Crimes
+
+Pub. L. 117–13, §3, May 20, 2021, 135 Stat. 266, provided that:
+
+"(a)
+
+In General.—Not later than 7 days after the date of enactment of this Act \[May 20, 2021\], the Attorney General shall designate an officer or employee of the Department of Justice whose responsibility during the applicable period shall be to facilitate the expedited review of hate crimes (as described in section 249of title 18, United States Code) and reports of any such crime to Federal, State, local, or Tribal law enforcement agencies.
+
+"(b)
+
+Applicable Period Defined.—In this section, the term 'applicable period' means the period beginning on the date on which the officer or employee is designated under subsection (a), and ending on the date that is 1 year after the date on which the emergency period described in subparagraph (B) of section 1135(g)(1) of the Social Security Act (42 U.S.C. 1320b–5(g)(1)) ends, except that the Attorney General may extend such period as appropriate."
+
+#### Guidance
+
+Pub. L. 117–13, §4, May 20, 2021, 135 Stat. 266, provided that:
+
+"(a)
+
+Guidance for Law Enforcement Agencies.—The Attorney General shall issue guidance for State, local, and Tribal law enforcement agencies, pursuant to this Act \[see Short Title of 2021 Amendment note set out under section 10101 of this title\] and other applicable law, on how to—
+
+&emsp;"(1) establish online reporting of hate crimes or incidents, and to have online reporting that is equally effective for people with disabilities as for people without disabilities available in multiple languages as determined by the Attorney General;
+
+&emsp;"(2) collect data disaggregated by the protected characteristics described in section 249 of title 18, United States Code; and
+
+&emsp;"(3) expand public education campaigns aimed at raising awareness of hate crimes and reaching victims, that are equally effective for people with disabilities as for people without disabilities.
+
+"(b)
+
+Guidance Relating to COVID–19 Pandemic.—The Attorney General and the Secretary of Health and Human Services, in coordination with the COVID–19 Health Equity Task Force and community-based organizations, shall issue guidance aimed at raising awareness of hate crimes during the COVID–19 pandemic."
+
+#### <b>Executive Documents</b>
+
+#### Condemning and Combating Racism, Xenophobia, and Intolerance Against Asian Americans and Pacific Islanders in the United States
+
+Memorandum of President of the United States, Jan. 26, 2021, 86 F.R. 7485, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Advancing inclusion and belonging for people of all races, national origins, and ethnicities is critical to guaranteeing the safety and security of the American people. During the coronavirus disease 2019 (COVID–19) pandemic, inflammatory and xenophobic rhetoric has put Asian American and Pacific Islander (AAPI) persons, families, communities, and businesses at risk.
+
+The Federal Government must recognize that it has played a role in furthering these xenophobic sentiments through the actions of political leaders, including references to the COVID–19 pandemic by the geographic location of its origin. Such statements have stoked unfounded fears and perpetuated stigma about Asian Americans and Pacific Islanders and have contributed to increasing rates of bullying, harassment, and hate crimes against AAPI persons. These actions defied the best practices and guidelines of public health officials and have caused significant harm to AAPI families and communities that must be addressed.
+
+Despite these increasing acts of intolerance, Asian Americans and Pacific Islanders have made our Nation more secure during the COVID–19 pandemic and throughout our history. An estimated 2 million Asian Americans and Pacific Islanders have served on the front lines of this crisis as healthcare providers, as first responders, and in other essential roles. The Federal Government should combat racism, xenophobia, and intolerance against Asian Americans and Pacific Islanders and should work to ensure that all members of AAPI communities--no matter their background, the language they speak, or their religious beliefs--are treated with dignity and equity.
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Condemning Racism, Xenophobia, and Intolerance Against Asian Americans and Pacific Islanders</i>. The Federal Government has a responsibility to prevent racism, xenophobia, and intolerance against everyone in America, including Asian Americans and Pacific Islanders. My Administration condemns and denounces acts of racism, xenophobia, and intolerance against AAPI communities.
+
+Sec. 2. <i>Combating Racism, Xenophobia, and Intolerance Against Asian Americans and Pacific Islanders</i>. (a) The Secretary of Health and Human Services shall, in coordination with the COVID–19 Health Equity Task Force, consider issuing guidance describing best practices for advancing cultural competency, language access, and sensitivity towards Asian Americans and Pacific Islanders in the context of the Federal Government's COVID–19 response. In developing any such guidance, the Secretary should consider the best practices set forth by public health organizations and experts for mitigating racially discriminatory language in describing the COVID–19 pandemic.
+
+(b) Executive departments and agencies (agencies) shall take all appropriate steps to ensure that official actions, documents, and statements, including those that pertain to the COVID–19 pandemic, do not exhibit or contribute to racism, xenophobia, and intolerance against Asian Americans and Pacific Islanders. Agencies may consult with public health experts, AAPI community leaders, or AAPI community-serving organizations, or may refer to any best practices issued pursuant to subsection (a) of this section, to ensure an understanding of the needs and challenges faced by AAPI communities.
+
+(c) The Attorney General shall explore opportunities to support, consistent with applicable law, the efforts of State and local agencies, as well as AAPI communities and community-based organizations, to prevent discrimination, bullying, harassment, and hate crimes against AAPI individuals, and to expand collection of data and public reporting regarding hate incidents against such individuals.
+
+Sec. 3. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Independent agencies are strongly encouraged to comply with the provisions of this memorandum.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Secretary of Health and Human Services is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

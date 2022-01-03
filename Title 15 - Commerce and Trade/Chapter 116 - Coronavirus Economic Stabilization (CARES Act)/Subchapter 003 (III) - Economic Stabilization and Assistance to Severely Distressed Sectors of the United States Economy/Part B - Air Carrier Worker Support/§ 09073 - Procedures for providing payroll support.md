@@ -16,7 +16,7 @@ The Secretary shall provide financial assistance under this part—
 
 #### (A) Forms; terms and conditions
 
-&emsp;&emsp;Financial assistance provided to an air carrier or contractor under this part shall bein such form, on such terms and conditions (including requirements for audits and the clawback of any financial assistance provided upon failure by a passenger air carrier, cargo air carrier, or contractor to honor the assurances specified in section 9074 of this title), as the Secretary determines appropriate.
+&emsp;&emsp;Financial assistance provided to an air carrier or contractor under this part shall be in such form, on such terms and conditions (including requirements for audits and the clawback of any financial assistance provided upon failure by a passenger air carrier, cargo air carrier, or contractor to honor the assurances specified in section 9074 of this title), as the Secretary determines appropriate.
 
 #### (B) Procedures
 

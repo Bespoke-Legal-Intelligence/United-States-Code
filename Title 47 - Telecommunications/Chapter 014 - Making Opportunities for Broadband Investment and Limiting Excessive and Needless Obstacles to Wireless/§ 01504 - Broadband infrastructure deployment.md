@@ -52,7 +52,7 @@ To facilitate the installation of broadband infrastructure, the Secretary of Tra
 
 #### (c) Effect of section
 
-This section applies only to activities for which Federal obligations or expenditures are initially approved on or after the date regulations under subsection (b) become effective.Nothing in this section establishes a mandate or requirement that a State install or allow the installation of broadband infrastructure in a highway right-of-way. Nothing in this section authorizes the Secretary of Transportation to withhold or reserve funds or approval of a project under title 23.
+This section applies only to activities for which Federal obligations or expenditures are initially approved on or after the date regulations under subsection (b) become effective. Nothing in this section establishes a mandate or requirement that a State install or allow the installation of broadband infrastructure in a highway right-of-way. Nothing in this section authorizes the Secretary of Transportation to withhold or reserve funds or approval of a project under title 23.
 
 (Pub. L. 115–141, div. P, title VI, §607, Mar. 23, 2018, 132 Stat. 1104.)
 

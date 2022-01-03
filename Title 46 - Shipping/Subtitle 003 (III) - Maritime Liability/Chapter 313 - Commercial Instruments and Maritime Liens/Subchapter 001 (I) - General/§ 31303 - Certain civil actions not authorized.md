@@ -14,7 +14,7 @@ Historical and Revision Notes
 
 46:954(b)
 
-Section 31303 makes it clear that, if a mortgage covers a vessel and additional property that is not a vessel, this chapter does not authorize a civil action <i>in rem</i> in admiralty to enforce rights against the additional property. This section makes no substantive change to law.
+Section 31303 makes it clear that, if a mortgage covers a vessel and additional property that is not a vessel,this chapter does not authorize a civil action <i>in rem</i> in admiralty to enforce rights against the additional property. This section makes no substantive change to law.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -76,6 +76,8 @@ Neither this section, actions taken pursuant to this section, nor any other tran
 
 (Pub. L. 109–58, title XII, §1232, Aug. 8, 2005, 119 Stat. 956.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 1232 of Pub. L. 109–58. Subsec. (e)(3) of section 1232 of Pub. L. 109–58 repealed section 824n of Title 16, Conservation.

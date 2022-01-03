@@ -6,7 +6,7 @@ Whenever an attorney general of any State has reason to believe that the interes
 
 #### (b) Notice
 
-The State shall serve prior written notice of any civil action under subsection (a) upon theCommission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
+The State shall serve prior written notice of any civil action under subsection (a) upon the Commission and provide the Commission with a copy of its complaint, except that if it is not feasible for the State to provide such prior notice, the State shall serve such notice immediately upon instituting such action. Upon receiving a notice respecting a civil action, the Commission shall have the right (1) to intervene in such action, (2) upon so intervening, to be heard on all matters arising therein, and (3) to file petitions for appeal.
 
 #### (c) Venue
 
@@ -31,6 +31,8 @@ Whenever the Commission has instituted a civil action for violation of any rule 
 (2) In addition to actions brought by an attorney general of a State under subsection (a), such an action may be brought by officers of such State who are authorized by the State to bring actions in such State for protection of consumers and who are designated by the Commission to bring an action under subsection (a) against persons that the Commission has determined have or are engaged in a pattern or practice which violates a rule of the Commission under section 5711(a) of this title.
 
 (Pub. L. 102–556, title II, §202, Oct. 28, 1992, 106 Stat. 4190.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

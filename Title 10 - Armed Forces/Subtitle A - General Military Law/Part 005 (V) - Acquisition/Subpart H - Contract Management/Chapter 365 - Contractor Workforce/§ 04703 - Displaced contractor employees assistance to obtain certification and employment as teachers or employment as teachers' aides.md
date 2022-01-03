@@ -46,7 +46,7 @@ Defense Contractor Applications.—(1) A defense contractor desiring to enter in
 
 Eligible Scientists and Engineers.—An individual shall be eligible for selection by the Secretary of Defense to receive assistance under this section if the individual—
 
-&emsp;(1) is employed or has been employed for not less than five years as a scientist or engineerwith a private defense contractor that has entered into an agreement under subsection (a);
+&emsp;(1) is employed or has been employed for not less than five years as a scientist or engineer with a private defense contractor that has entered into an agreement under subsection (a);
 
 &emsp;(2) has received—
 
@@ -96,6 +96,8 @@ Placement of Participants as Teachers and Teachers' Aides.—Subsections (h) thr
 
 (Added Pub. L. 102–484, div. D, title XLIV, §4443(a), Oct. 23, 1992, 106 Stat. 2732, §2410c; renumbered §2410j and amended Pub. L. 103–35, title II, §201(b)(1)(A), (g)(6), May 31, 1993, 107 Stat. 97, 100; Pub. L. 103–160, div. A, title XIII, §1331(c)(3), Nov. 30, 1993, 107 Stat. 1792; Pub. L. 103–382, title III, §391(b)(5), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 104–106, div. A, title XV, §1503(a)(23), Feb. 10, 1996, 110 Stat. 512; Pub. L. 104–201, div. A, title V, §576(c), Sept. 23, 1996, 110 Stat. 2535; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; renumbered §4703, Pub. L. 116–283, div. A, title XVIII, §1863(b), Jan. 1, 2021, 134 Stat. 4278.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
@@ -108,7 +110,33 @@ The Higher Education Act of 1965, referred to in subsec. (g)(2), is Pub. L. 89�
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2410j of this title as this section.
 
+<b>2000</b>—Subsec. (f)(2). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)(A)\], inserted "as in effect on October 4, 1999," after "of this title," in subpars. (A) and (B).
+
+Subsec. (h). Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(14)(B)\], inserted ", as in effect on October 4, 1999," after "of this title".
+
+<b>1996</b>—Subsec. (a)(2)(A). Pub. L. 104–106 substituted "6301" for "2701".
+
+Subsec. (f)(2)(A), (B). Pub. L. 104–201 substituted "two school years" for "five school years".
+
+<b>1994</b>—Subsec. (a)(2)(A). Pub. L. 103–382 struck out "chapter 1 of" after "grant under".
+
+<b>1993</b>—Pub. L. 103–35, §201(b)(1)(A), renumbered section 2410c of this title as section 2410j.
+
+Subsec. (f)(2)(A), (B). Pub. L. 103–160 substituted "five school years" for "two school years".
+
+Subsec. (f)(2)(B). Pub. L. 103–35, §201(g)(6), substituted "aide" for "aid" after "for placement as a teacher's".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 1993 Amendment
+
+Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher's aide placement programs established pursuant to sections 1598 and 4703 of this title and former section 1151 of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under section 1598 of this title.
+
+#### Savings Provision
+
+Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1598 or 4703 of this title or former section 1151 of this title before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under section 1598 of this title.
 

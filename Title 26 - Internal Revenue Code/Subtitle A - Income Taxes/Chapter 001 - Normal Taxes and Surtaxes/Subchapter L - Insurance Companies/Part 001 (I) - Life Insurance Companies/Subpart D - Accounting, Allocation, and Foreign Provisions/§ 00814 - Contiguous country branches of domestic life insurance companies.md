@@ -80,15 +80,19 @@ At the election of a domestic stock life insurance company which has a contiguou
 
 (Added Pub. L. 98–369, div. A, title II, §211(a), July 18, 1984, 98 Stat. 744; amended Pub. L. 105–34, title XI, §1131(c)(1), Aug. 5, 1997, 111 Stat. 980; Pub. L. 115–97, title I, §14301(c)(5), Dec. 22, 2017, 131 Stat. 2222.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (f)(1). Pub. L. 115–97 redesignated subpar. (A) as par. (1), struck out subpar. (A) heading "In general", and struck out subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "For purposes of sections 78 and 902, where any amount is added to the life insurance company taxable income of the domestic life insurance company by reason of subsection (e)(2), the contiguous country life insurance branch shall be treated as a foreign corporation. Any amount so added shall be treated as a dividend paid by a foreign corporation, and the taxes paid to any foreign country or possession of the United States with respect to such amount shall be deemed to have been paid by such branch."
 
 <b>1997</b>—Subsec. (h). Pub. L. 105–34 struck out "or 1491" after "section 367".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### New Section 814 Treated as Continuation of Section 819A
 
-Pub. L. 98–369, div. A, title II, §217(a), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of section 814 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to contiguous country branches of domestic life insurance companies)—
+Pub. L. 98–369, div. A, title II, §217(a), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986,100 Stat. 2095, provided that: "For purposes of section 814 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to contiguous country branches of domestic life insurance companies)—
 
 &emsp;"(1) any election under section 819A of such Code (as in effect on the day before the date of the enactment of this Act \[July 18, 1984\]) shall be treated as an election under such section 814, and
 

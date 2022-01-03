@@ -64,7 +64,7 @@
 
 #### (5) Monitoring and reports to Congress
 
-&emsp;The Customs Service shall monitor and the Commissioner of U.S. Customs and Border Protection shall submit to Congress, not laterthan March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
+&emsp;The Customs Service shall monitor and the Commissioner of U.S. Customs and Border Protection shall submit to Congress, not later than March 31 of each year, a report on the effectiveness of the visa systems and the implementation of legislation and regulations described in subsection (a) and on measures taken by countries in sub-Saharan Africa which export textiles or apparel to the United States to prevent circumvention as described in Article 5 of the Agreement on Textiles and Clothing.
 
 #### (c) Customs Service enforcement
 
@@ -86,9 +86,11 @@ There is authorized to be appropriated to carry out subsection (c) the sum of $5
 
 (Pub. L. 106–200, title I, §113, May 18, 2000, 114 Stat. 263; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210; Pub. L. 116–260, div. O, title VI, §602(a)(2), Dec. 27, 2020, 134 Stat. 2152.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (b)(4), was in the original "this Act", and was translated as reading "this title", meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
+This chapter, referred to in subsec. (b)(4), was in the original "this Act", and was translated as reading "this title", meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see ShortTitle note set out under section 3701 of this title and Tables.
 
 #### Amendments
 
@@ -97,6 +99,8 @@ This chapter, referred to in subsec. (b)(4), was in the original "this Act", and
 Subsec. (b)(1)(B)(i). Pub. L. 116–260, §602(a)(2)(A)(ii), substituted "chapter 5 of the USMCA" for "chapter 5 of the NAFTA" in concluding provisions.
 
 Subsec. (b)(2). Pub. L. 116–260, §602(a)(2)(B), substituted "article 5.5 of the USMCA" for "Article 503 of the NAFTA".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -109,6 +113,8 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 602(g) of div
 #### Transfer of Functions
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

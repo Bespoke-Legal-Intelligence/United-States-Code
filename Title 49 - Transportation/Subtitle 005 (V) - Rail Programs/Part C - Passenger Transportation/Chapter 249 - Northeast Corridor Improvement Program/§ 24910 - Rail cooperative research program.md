@@ -32,7 +32,7 @@ Content.—The program to be carried out under this section shall include resear
 
 &emsp;(8) to improve maintenance, operations, customer service, or other aspects of intercity rail passenger and freight service;
 
-&emsp;(9) to recommend objective methodologies for determining intercity passenger rail routesand services, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes;
+&emsp;(9) to recommend objective methodologies for determining intercity passenger rail routes and services, including the establishment of new routes, the elimination of existing routes, and the contraction or expansion of services or frequencies over such routes;
 
 &emsp;(10) to review the impact of equipment and operational safety standards on the further development of high-speed passenger rail operations connected to or integrated with non-high-speed freight or passenger rail operations;
 
@@ -60,7 +60,7 @@ Membership.—The advisory board shall include—
 
 &emsp;&emsp;(B) transportation and environmental economists, scientists, and engineers; and
 
-&emsp;&emsp;(C) representatives of Amtrak, the Alaska Railroad, freight railroads, transit operating agencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
+&emsp;&emsp;(C) representatives of Amtrak, the Alaska Railroad, freight railroads, transit operatingagencies, intercity rail passenger agencies, railway labor organizations, and environmental organizations.
 
 &emsp;(3)
 
@@ -76,11 +76,15 @@ Authorization of Appropriations.—There are authorized to be appropriated to th
 
 (Added Pub. L. 110–432, div. B, title III, §306(a), Oct. 16, 2008, 122 Stat. 4952; amended Pub. L. 114–94, div. A, title XI, §11316(o), Dec. 4, 2015, 129 Stat. 1679; Pub. L. 115–420, §6(b), Jan. 3, 2019, 132 Stat. 5445.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(3). Pub. L. 115–420 added par. (3).
 
 <b>2015</b>—Subsec. (b)(14). Pub. L. 114–94 added par. (14).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

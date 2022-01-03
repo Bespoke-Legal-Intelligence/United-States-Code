@@ -12,7 +12,7 @@
 
 (1)(A)(i) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in an official capacity) who engages in the business of manufacturing, exporting, or importing any defense articles or defense services designated by the President under subsection (a)(1) shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations. Such regulations shall prohibit the return to the United States for sale in the United States (other than for the Armed Forces of the United States and its allies or for any State or local law enforcement agency) of any military firearms or ammunition of United States manufacture furnished to foreign governments by the United States under this chapter or any other foreign assistance or sales program of the United States, whether or not enhanced in value or improved in condition in a foreign country. This prohibition shall not extend to similar firearms that have been so substantially transformed as to become, in effect, articles of foreign manufacture.
 
-(ii)(I) As prescribed in regulations issued under this section, every person (other than an officer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
+(ii)(I) As prescribed in regulations issued under this section, every person (other than anofficer or employee of the United States Government acting in official capacity) who engages in the business of brokering activities with respect to the manufacture, export, import, or transfer of any defense article or defense service designated by the President under subsection (a)(1), or in the business of brokering activities with respect to the manufacture, export, import, or transfer of any foreign defense article or defense service (as defined in subclause (IV)), shall register with the United States Government agency charged with the administration of this section, and shall pay a registration fee which shall be prescribed by such regulations.
 
 (II) Such brokering activities shall include the financing, transportation, freight forwarding, or taking of any other action that facilitates the manufacture, export, or import of a defense article or defense service.
 
@@ -50,11 +50,11 @@ Any person who willfully violates any provision of this section, section 2779 of
 
 #### (e) Enforcement powers of President
 
-In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 <sup>1</sup> of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 <sup>1</sup> of such Act, subject to the same terms and conditions as are applicable to such powers under such Act, except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
+In carrying out functions under this section with respect to the export of defense articles and defense services, including defense articles and defense services exported or imported pursuant to a treaty referred to in subsection (j)(1)(C)(i), the President is authorized to exercise the same powers concerning violations and enforcement which are conferred upon departments, agencies and officials by subsections (c), (d), (e), and (g) of section 11 <sup>1</sup> of the Export Administration Act of 1979, and by subsections (a) and (c) of section 12 <sup>1</sup> of such Act, subject to the same terms and conditions as are applicable to such powers under such Act, except that section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued underthis section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest. Nothing in this subsection shall be construed as authorizing the withholding of information from the Congress. Notwithstanding section 11(c) of the Export Administration Act of 1979, the civil penalty for each violation involving controls imposed on the export of defense articles and defense services under this section may not exceed $500,000.
 
 #### (f) Periodic review of items on Munitions List; exemptions
 
-(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
+(1) The President shall periodically review the items on the United States Munitions List to determine what items, if any, no longer warrant export controls under this section. The results of such reviews shall be reported to the Speaker of the House of Representatives, the Committee on Foreign Affairs of the House of Representatives, and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate. The President may not remove any item from the Munitions List until 30 days after the date on which the President has provided notice of the proposed removal to the Committee on International Relations of the House of Representatives and to the Committee on Foreign Relations of the Senate in accordance with the procedures applicable to reprogramming notifications under section 2394–1(a) of this title. Such notice shall describe the nature of any controls to be imposed on that item under any other provision of law.
 
 (2) The President may not authorize an exemption for a foreign country from the licensing requirements of this chapter for the export of defense items under subsection (j) or any other provision of this chapter until 30 days after the date on which the President has transmitted to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a notification that includes—
 
@@ -194,7 +194,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(i) meet the requirements set forth in paragraph (2); and
 
-&emsp;&emsp;&emsp;(ii) be implemented by the United States and the foreign country in a manner thatis legally-binding under their domestic laws.
+&emsp;&emsp;&emsp;(ii) be implemented by the United States and the foreign country in a manner that is legally-binding under their domestic laws.
 
 #### (B) Exception for Canada
 
@@ -242,7 +242,7 @@ As prescribed in regulations issued under this section, a United States person t
 
 &emsp;&emsp;&emsp;(iv) establishment of a list of controlled defense items to ensure coverage of those items to be exported under the exemption; and
 
-&emsp;&emsp;(B) should, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enactnecessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy regarding—
+&emsp;&emsp;(B) should, at a minimum, require the foreign country, as necessary, to revise its policies and practices, and promulgate or enact necessary modifications to its laws and regulations to establish an export control regime that is at least comparable to United States law, regulation, and policy regarding—
 
 &emsp;&emsp;&emsp;(i) controls on the export of tangible or intangible technology, including via fax, phone, and electronic media;
 
@@ -376,7 +376,7 @@ Subsec. (i). Pub. L. 106–113, §1000(a)(7) \[title XIII, §1302(a)\], added su
 
 Subsec. (e). Pub. L. 104–164, §156, inserted before period at end of first sentence ", except that the names of the countries and the types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless the President determines that the release of such information would be contrary to the national interest".
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agencyand shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements."
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–236 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Decisions on issuing export licenses under this section shall be made in coordination with the Director of the United States Arms Control and Disarmament Agency and shall take into account the Director's opinion as to whether the export of an article will contribute to an arms race, support international terrorism, increase the possibility of outbreak or escalation of conflict, or prejudice the development of bilateral or multilateral arms control arrangements."
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–222, §3(a), inserted "support international terrorism," after "arms race,".
 
@@ -614,7 +614,7 @@ State sponsor of terrorism.—The term 'state sponsor of terrorism' means any co
 
 United states munitions list.—The term 'United States Munitions List' means the list referred to in section 38(a)(1) of the Arms Export Control Act (22 U.S.C. 2778(a)(1))."
 
-\[Memorandum of President of the United States, Oct. 28, 2013, 78 F.R. 71985, delegated to the Secretary of State, in consultation with the heads of other executive departments and agencies, the functions of the President under section 1261(b) of Pub. L. 112–239, set out above, and to the Secretary of Commerce the functions of the President under section 1262(a) of Pub. L. 112–239, set out above.\]
+\[Memorandum of President of the United States, Oct. 28, 2013, 78 F.R. 71985, delegated to the Secretary ofState, in consultation with the heads of other executive departments and agencies, the functions of the President under section 1261(b) of Pub. L. 112–239, set out above, and to the Secretary of Commerce the functions of the President under section 1262(a) of Pub. L. 112–239, set out above.\]
 
 #### Limitation on Implementing Arrangements
 
@@ -832,7 +832,7 @@ In general.—The Secretary of State shall take the necessary steps to ensure th
 
 &emsp;"(2)
 
-Availability of existing appropriations.—The Secretary of State shall take the necessary stepsto ensure that those funds made available under the heading 'Administration of Foreign Affairs, Diplomatic and Consular Programs' in title IV of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, as contained in the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[112 Stat. 2681–92\] are made available, upon the enactment of this Act, to the Office of Defense Trade Controls of the Department of State to carry out the purposes of the Office.
+Availability of existing appropriations.—The Secretary of State shall take the necessary steps to ensure that those funds made available under the heading 'Administration of Foreign Affairs, Diplomatic and Consular Programs' in title IV of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, as contained in the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (Public Law 105–277) \[112 Stat. 2681–92\] are made available, upon the enactment of this Act, to the Office of Defense Trade Controls of the Department of State to carry out the purposes of the Office.
 
 "(b)
 
@@ -914,7 +914,7 @@ In General.—Not later than 180 days after the date of the enactment of this Ac
 
 &emsp;"(7) establish mechanisms in accordance with the provisions of section 1514(a)(2)(A) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2175; 22 U.S.C. 2778 note) that provide for—
 
-&emsp;&emsp;"(A) the payment to the Department of Defense by the person or entity receiving the launch monitoring services concerned, before the beginning of afiscal year, of an amount equal to the amount estimated to be required by the Department to monitor the launch campaigns during that fiscal year;
+&emsp;&emsp;"(A) the payment to the Department of Defense by the person or entity receiving the launch monitoring services concerned, before the beginning of a fiscal year, of an amount equal to the amount estimated to be required by the Department to monitor the launch campaigns during that fiscal year;
 
 &emsp;&emsp;"(B) the reimbursement of the Department of Defense, at the end of each fiscal year, for amounts expended by the Department in monitoring the launch campaigns in excess of the amount provided under subparagraph (A); and
 
@@ -996,7 +996,7 @@ Notice to Congress of Certain Export Waivers.—The President shall promptly not
 
 "(c)
 
-Exception.—The requirements in subsections (a) and (b) shall not apply if the President determines that notification of the appropriate committees of Congress under such subsections would jeopardize an on-going criminal investigation. If the President makes such a determination, the President shall provide written notification of such determination to the Speaker of the House of Representatives, the majority leader of theSenate, the minority leader of the House of Representatives, and the minority leader of the Senate. The notification shall include a justification for the determination.
+Exception.—The requirements in subsections (a) and (b) shall not apply if the President determines that notification of the appropriate committees of Congress under such subsections would jeopardize an on-going criminal investigation. If the President makes such a determination, the President shall provide written notification of such determination to the Speaker of the House of Representatives, the majority leader of the Senate, the minority leader of the House of Representatives, and the minority leader of the Senate. The notification shall include a justification for the determination.
 
 "(d)
 
@@ -1054,7 +1054,7 @@ Pub. L. 105–261, div. A, title XV, subtitle B, Oct. 17, 1998, 112 Stat. 2173, 
 
 "(a)
 
-Certification.—The President shall certify to the Congress at least 15 days in advance of any export to the People's Republic of China of missile equipment or technology (as defined in section 74 of the Arms Export Control Act (22 U.S.C. 2797c)) that—
+Certification.—The President shall certify to the Congress at least 15 days in advance of any exportto the People's Republic of China of missile equipment or technology (as defined in section 74 of the Arms Export Control Act (22 U.S.C. 2797c)) that—
 
 &emsp;"(1) such export is not detrimental to the United States space launch industry; and
 
@@ -1084,7 +1084,7 @@ Report.—Not later than January 1, 1999, the Secretary of State, in consultatio
 
 &emsp;"(1) a detailed description of the plans of the Department of State to implement the requirements of this section, including any organizational changes that are required and any Executive orders or regulations that may be required;
 
-&emsp;"(2) an identification and explanation of any steps that should be taken to improve the license reviewprocess for exports of the satellites and related items described in subsection (a), including measures to shorten the timelines for license application reviews, and any measures relating to the transparency of the license review process and dispute resolution procedures;
+&emsp;"(2) an identification and explanation of any steps that should be taken to improve the license review process for exports of the satellites and related items described in subsection (a), including measures to shorten the timelines for license application reviews, and any measures relating to the transparency of the license review process and dispute resolution procedures;
 
 &emsp;"(3) an evaluation of the adequacy of resources available to the Department of State, including fiscal and personnel resources, to carry out the additional activities required by this section; and
 
@@ -1172,7 +1172,7 @@ Requirement for Report.—Each report to Congress submitted pursuant to subsecti
 
 &emsp;"(2) An estimate of the number of United States civilian contract personnel expected to be needed in country to carry out the proposed satellite launch.
 
-&emsp;"(3)(A) A detailed description of the United States Government's plan to monitor the proposed satellite launch to ensure that no unauthorized transfer of technology occurs, together with an estimate of the number of officers and employees of the United States that are expected to be needed in country tocarry out monitoring of the proposed satellite launch; and
+&emsp;"(3)(A) A detailed description of the United States Government's plan to monitor the proposed satellite launch to ensure that no unauthorized transfer of technology occurs, together with an estimate of the number of officers and employees of the United States that are expected to be needed in country to carry out monitoring of the proposed satellite launch; and
 
 &emsp;"(B) the estimated cost to the Department of Defense of monitoring the proposed satellite launch and the amount of such cost that is to be reimbursed to the department.
 
@@ -1224,7 +1224,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;"(1) Anti-personnel landmines, which are specifically designed to maim and kill people, have been used indiscriminately in dramatically increasing numbers, primarily in insurgencies in poor developing countries. Noncombatant civilians, including tens of thousands of children, have been the primary victims.
 
-&emsp;"(2) Unlike other military weapons, landmines often remain implanted and undiscovered after conflict has ended, causing untold suffering to civilian populations. In Afghanistan, Cambodia, Laos, Vietnam, and Angola, tens of millions of unexploded landmines have rendered whole areas uninhabitable. In Afghanistan, an estimated hundreds of thousands of people have been maimed and killed by landmines during the 14-year civil war. In Cambodia, more than 20,000 civilians have lost limbs and another 60 are being maimed each month from landmines.
+&emsp;"(2) Unlike other military weapons, landmines often remain implanted and undiscovered after conflict has ended, causing untold suffering to civilian populations. In Afghanistan, Cambodia, Laos, Vietnam, and Angola, tens of millions of unexploded landmines have rendered whole areas uninhabitable. In Afghanistan, an estimated hundreds of thousands of people have been maimed and killed by landminesduring the 14-year civil war. In Cambodia, more than 20,000 civilians have lost limbs and another 60 are being maimed each month from landmines.
 
 &emsp;"(3) Over 35 countries are known to manufacture landmines, including the United States. However, the United States is not a major exporter of landmines. During the past ten years the Department of State has approved ten licenses for the commercial export of anti-personnel landmines valued at $980,000, and during the past five years the Department of Defense has approved the sale of 13,156 anti-personnel landmines valued at $841,145.
 
@@ -1312,7 +1312,7 @@ Continuing negotiations.—The President shall continue negotiations among the 5
 
 &emsp;"(2)
 
-Proposing a temporary moratorium during negotiations.—In the context of these negotiations, the President should propose to the 5 permanent members of the United Nations Security Council atemporary moratorium on the sale and transfer of major military equipment to nations in the Middle East and Persian Gulf region until such time as the 5 permanent members agree to a multilateral arms transfer and control regime.
+Proposing a temporary moratorium during negotiations.—In the context of these negotiations, the President should propose to the 5 permanent members of the United Nations Security Council a temporary moratorium on the sale and transfer of major military equipment to nations in the Middle East and Persian Gulf region until such time as the 5 permanent members agree to a multilateral arms transfer and control regime.
 
 "(b)
 
@@ -1396,7 +1396,7 @@ Major Military Equipment.—As used in this title, the term 'major military equi
 
 &emsp;"(1) certifies in writing to the relevant congressional committees that the President has undertaken good faith efforts to convene a conference for the establishment of an arms suppliers regime having elements described in section 402; and
 
-&emsp;"(2) submits to the relevant congressional committees a report setting forth a United States plan for leading the world community in establishing such a multilateral regime to restrict transfers of advanced conventional and unconventional arms to the Middle East and Persian Gulf region.
+&emsp;"(2) submits to the relevant congressional committees a report setting forth a United States plan forleading the world community in establishing such a multilateral regime to restrict transfers of advanced conventional and unconventional arms to the Middle East and Persian Gulf region.
 
 #### "\[SEC. 404. Repealed. Pub. L. 114–323, title VII, §715(a)(2), Dec. 16, 2016, 130 Stat. 1946.\]
 
@@ -1412,7 +1412,7 @@ Major Military Equipment.—As used in this title, the term 'major military equi
 
 #### Delegation of Functions
 
-For delegation of functions of the President under this section, with certain conditions, see section 1(n) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions werepreviously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
+For delegation of functions of the President under this section, with certain conditions, see section 1(n) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Delegation of Certifications Under Section 1512 of Public Law 105–261
 

@@ -4,15 +4,13 @@ The lands heretofore conveyed by the Gettysburg Battlefield Memorial Association
 
 (Feb. 11, 1895, ch. 80, 28 Stat. 651; June 4, 1897, ch. 2, §1, 30 Stat. 44; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 637.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1966</b>—Pub. L. 89–554 struck out provisions which required the affairs of park to be subject to supervision and direction of Secretary of the Interior.
 
-#### Transfer of Functions
-
-Administrative functions of Gettysburg National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees.
-
-National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Acquisition of Additional Lands for Gettysburg National Military Park; Study and Report
 
@@ -25,4 +23,12 @@ Acquisition of Additional Lands.—Except as provided in section 1 of this Act \
 "(b)
 
 Study by National Park Service.—The Secretary of the Interior through the National Park Service shall conduct a boundary study and shall submit a report to Congress within one year of the date of enactment of this Act \[Oct. 16, 1987\], with recommendations with respect to the final development of the Gettysburg National Military Park. In conducting the study, the Secretary shall consult with the people of the community and their elected representatives at all levels as well as with other interested individuals and groups."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Administrative functions of Gettysburg National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees.
+
+National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 

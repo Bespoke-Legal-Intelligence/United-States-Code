@@ -4,9 +4,13 @@ The Secretary of Commerce and the Secretary of the department in which the Coast
 
 (Pub. L. 97–389, title III, §308, Dec. 29, 1982, 96 Stat. 1953.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For Act of 1976, referred to in text, see section 3601(1) of this title and References in Text note set out under section 3601 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

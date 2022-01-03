@@ -10,7 +10,7 @@ Development of plans and programs.—Subject to section 5303, to accomplish the 
 
 &emsp;(2)
 
-Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systemsand facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
+Contents.—The statewide transportation plan and the transportation improvement program developed for each State shall provide for the development and integrated management and operation of transportation systems and facilities (including accessible pedestrian walkways, bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers) that will function as an intermodal transportation system for the State and an integral part of an intermodal transportation system for the United States.
 
 &emsp;(3)
 
@@ -100,11 +100,11 @@ Use of performance measures and targets.—The performance measures and targets 
 
 &emsp;(3)
 
-Failure to consider factors.—The failure to take into consideration the factorsspecified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
+Failure to consider factors.—The failure to take into consideration the factors specified in paragraphs (1) and (2) shall not be subject to review by any court under this chapter, title 23, subchapter II of chapter 5 of title 5, or chapter 7 of title 5 in any matter affecting a statewide transportation plan, a statewide transportation improvement program, a project or strategy, or the certification of a planning process.
 
 (e)
 
-Additional Requirements.—"In <sup>1</sup> carrying out planning under this section, each State shall, at a minimum—
+Additional Requirements.—In carrying out planning under this section, each State shall, at a minimum—
 
 &emsp;(1) with respect to nonmetropolitan areas, cooperate with affected local officials with responsibility for transportation or, if applicable, through regional transportation planning organizations described in subsection (l);
 
@@ -179,6 +179,14 @@ Methods.—In carrying out subparagraph (A), the State shall, to the maximum ext
 &emsp;&emsp;&emsp;(iii) employ visualization techniques to describe plans; and
 
 &emsp;&emsp;&emsp;(iv) make public information available in electronically accessible format and means, such as the World Wide Web, as appropriate to afford reasonable opportunity for consideration of public information under subparagraph (A).
+
+&emsp;&emsp;(C)
+
+Use of technology.—A State may use social media and other web-based tools—
+
+&emsp;&emsp;&emsp;(i) to further encourage public participation; and
+
+&emsp;&emsp;&emsp;(ii) to solicit public feedback during the transportation planning process.
 
 &emsp;(4)
 
@@ -408,7 +416,7 @@ Publication.—The report under subparagraph (A) shall be published or otherwise
 
 (i)
 
-Treatment of Certain State Laws as Congestion Management Processes.—For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this this <sup>2</sup> section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
+Treatment of Certain State Laws as Congestion Management Processes.—For purposes of this section and section 5303, and sections 134 and 135 of title 23, State laws, rules, or regulations pertaining to congestion management systems or programs may constitute the congestion management process under this section and section 5303, and sections 134 and 135 of title 23, if the Secretary finds that the State laws, rules, or regulations are consistent with, and fulfill the intent of, the purposes of this section and section 5303, and sections 134 and 135 of title 23, as appropriate.
 
 (j)
 
@@ -462,7 +470,7 @@ Duties.—The duties of a regional transportation planning organization shall in
 
 States without regional transportation planning organizations.—If a State chooses not to establish or designate a regional transportation planning organization, the State shall consult with affected nonmetropolitan local officials to determine projects that may be of regional significance.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 793; Pub. L. 105–178, title III, §3005, June 9, 1998, 112 Stat. 345; Pub. L. 105–206, title IX, §9009(c)(2), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3006(a), Aug. 10, 2005, 119 Stat. 1559; Pub. L. 112–141, div. B, §20006, July 6, 2012, 126 Stat. 643; Pub. L. 114–94, div. A, title III, §3003(b), Dec. 4, 2015, 129 Stat. 1449.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 793; Pub. L. 105–178, title III, §3005, June 9, 1998, 112 Stat. 345; Pub. L. 105–206, title IX, §9009(c)(2), July 22, 1998, 112 Stat. 854; Pub. L. 109–59, title III, §3006(a), Aug. 10, 2005, 119 Stat. 1559; Pub. L. 112–141, div. B, §20006, July 6, 2012, 126 Stat. 643; Pub. L. 114–94, div. A, title III, §3003(b), Dec. 4, 2015, 129 Stat. 1449; Pub. L. 117–58, div. C, §30003, Nov. 15, 2021, 135 Stat. 893.)
 
 Historical and Revision Notes
 
@@ -502,6 +510,8 @@ In subsection (b)(2)(C), the words "and programs" are omitted as surplus.
 
 In subsection (c)(1), the word "otherwise" is omitted as surplus.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Clean Air Act, referred to in subsecs. (b)(2) and (g)(5)(D)(iii), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. Part D of title I of the Act is classified generally to part D (§7501 et seq.) of subchapter I of chapter 85 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
@@ -511,6 +521,12 @@ The date of enactment of the Federal Public Transportation Act of 2012, referred
 The National Environmental Policy Act of 1969, referred to in subsec. (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–58, §30003(a)(1), struck out quotation marks before "In" in introductory provisions.
+
+Subsec. (f)(3)(C). Pub. L. 117–58, §30003(b), added subpar. (C).
+
+Subsec. (i). Pub. L. 117–58, §30003(a)(2), substituted "this" for "this this".
 
 <b>2015</b>—Subsec. (a)(2). Pub. L. 114–94, §3003(b)(1), substituted ", bicycle transportation facilities, and intermodal facilities that support intercity transportation, including intercity buses and intercity bus facilities and commuter vanpool providers" for "and bicycle transportation facilities".
 
@@ -548,6 +564,8 @@ Pub. L. 105–178, §3005(c)(2), added par. (4).
 
 Subsec. (c)(5), (6). Pub. L. 105–178, §3005(c)(2), added pars. (5) and (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -562,9 +580,5 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Schedule for Implementation
 
-Pub. L. 109–59, title III, §3006(b), Aug. 10, 2005, 119 Stat. 1565, required the Secretary of Transportation toissue guidance on a schedule for implementation of the changes made to this section by section 3006(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
-
-<i><sup>1</sup></i><i> So in original. The quotation marks probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original.</i>
+Pub. L. 109–59, title III, §3006(b), Aug. 10, 2005, 119 Stat. 1565, required the Secretary of Transportation to issue guidance on a schedule for implementation of the changes made to this section by section 3006(a) of Pub. L. 109–59 and required State or metropolitan planning organization plan or program updates to reflect such changes beginning July 1, 2007.
 

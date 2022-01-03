@@ -10,7 +10,7 @@ The Comptroller of the Currency shall employ, from time to time, the necessary c
 
 R.S. §328 derived from act June 3, 1864, ch. 106, §1, 13 Stat. 100, which was the National Bank Act. See section 38 of this title.
 
-#### <b>Statutory Notes and Related Subsidiaries</b>
+#### <b>Executive Documents</b>
 
 #### Exception as to Transfer of Functions
 

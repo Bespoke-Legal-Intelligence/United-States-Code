@@ -16,7 +16,7 @@ Requests for information, disclosure of which is authorized by regulations presc
 
 #### (c) Cost reimbursement
 
-Notwithstanding sections 552 and 552a of title 5 or any other provision of law, whenever the Commissioner of Social Security or the Secretary determines that a request for information is made in order to assist a party in interest (as defined in section 1002 of title 29) with respect to the administration of an employee benefit plan (as so defined), or is made for any other purpose not directly related to the administration of the program or programs under this chapter to which such information relates, such Commissioner or Secretary may require the requester to pay the full cost, as determined by such Commissioner or Secretary, of providing such information.
+Notwithstanding sections 552 and 552a of title 5 or any other provision of law, whenever theCommissioner of Social Security or the Secretary determines that a request for information is made in order to assist a party in interest (as defined in section 1002 of title 29) with respect to the administration of an employee benefit plan (as so defined), or is made for any other purpose not directly related to the administration of the program or programs under this chapter to which such information relates, such Commissioner or Secretary may require the requester to pay the full cost, as determined by such Commissioner or Secretary, of providing such information.
 
 #### (d) Compliance with requests
 
@@ -26,7 +26,7 @@ Notwithstanding any other provision of this section, in any case in which—
 
 &emsp;(2) the requester agrees to reimburse the Commissioner for providing such information and to comply with limitations on safeguarding and rerelease or redisclosure of such information as may be specified by the Commissioner,
 
-> the Commissioner shall comply with such request, except to the extent that compliance with such request would constitute a violation of theterms of any contract entered into under section 405(r) of this title.
+> the Commissioner shall comply with such request, except to the extent that compliance with such request would constitute a violation of the terms of any contract entered into under section 405(r) of this title.
 
 #### (e) Public inspection
 
@@ -54,9 +54,11 @@ Notwithstanding any other provision of this section, the Commissioner of Social 
 
 (Aug. 14, 1935, ch. 531, title XI, §1106, as added Aug. 10, 1939, ch. 666, title VIII, §802, 53 Stat. 1398; amended Aug. 28, 1950, ch. 809, title IV, §403(d), 64 Stat. 559; Pub. L. 85–840, title VII, §701, Aug. 28, 1958, 72 Stat. 1055; Pub. L. 89–97, title I, §108(c), title III, §340, July 30, 1965, 79 Stat. 339, 411; Pub. L. 90–248, title I, §168, title II, §241(c)(1), Jan. 2, 1968, 81 Stat. 875, 917; Pub. L. 92–603, title II, §249C(a), Oct. 30, 1972, 86 Stat. 1428; Pub. L. 93–647, §101(d), Jan. 4, 1975, 88 Stat. 2360; Pub. L. 97–35, title XXII, §2207, Aug. 13, 1981, 95 Stat. 838; Pub. L. 98–369, div. B, title VI, §2663(j)(2)(D)(ii), (l), July 18, 1984, 98 Stat. 1170, 1171; Pub. L. 103–296, title I, §108(b)(2)–(5), title III, §§311(a), 313(a), Aug. 15, 1994, 108 Stat. 1481, 1482, 1525, 1530; Pub. L. 116–260, div. N, title II, §283(a), div. FF, title I, §102(a), Dec. 27, 2020, 134 Stat. 1984, 3083.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably refers to former title VIII of the Act, which was classified to subchapter VIII (§1001 et seq.) of this chapter prior to its omission from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
+Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably refers to former title VIII of theAct, which was classified to subchapter VIII (§1001 et seq.) of this chapter prior to its omission from the Code as superseded by the provisions of the Internal Revenue Code of 1939 and the Internal Revenue Code of 1986.
 
 Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of Title 26, Internal Revenue Code. See also section 7852(b) of Title 26 for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
@@ -114,6 +116,8 @@ Subsec. (c). Pub. L. 89–97, §340, added subsec. (c).
 
 <b>1950</b>—Act Aug. 28, 1950, amended section generally, designating existing provisions as subsec. (a), substituting "under subchapter E of chapter 1 or subchapter A of chapter 9 of the Internal Revenue Code of 1939" for "the Federal Insurance Contributions Act," reflecting the transfer of functions from the Social Security Board to the Federal Security Administrator and the Federal Security Agency, and adding subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 applicable to disclosures made on or after Dec. 27, 2020, see section 284(a)(4) of div. N of Pub. L. 116–260 and section 102(c) of div. FF of Pub. L. 116–260, set out as notes under section 6103 of Title 26, Internal Revenue Code.
@@ -128,7 +132,7 @@ Pub. L. 103–296, title III, §313(c), Aug. 15, 1994, 108 Stat. 1530, provided 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed\(under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1975 Amendment
 

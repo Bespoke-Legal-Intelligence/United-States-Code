@@ -4,9 +4,13 @@ The Secretary of the Interior is authorized to inclose the Sullys Hill National 
 
 (June 30, 1914, ch. 131, 38 Stat. 434; Mar. 3, 1931, ch. 439, §1, 46 Stat. 1509; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was a provision of the agricultural appropriation act for the fiscal year 1915, act June 30, 1914, which, in the first sentence, made an appropriation of $5,000 for the improvement of a game preserve in Sullys Hill National Park, the same to be available until expended.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -16,9 +20,11 @@ Act Mar. 3, 1931, provided that the Sullys Hill National Park should be administ
 
 Pub. L. 116–94, div. P, title IV, §401, Dec. 20, 2019, 133 Stat. 3191, provided that: "This title \[amending sections 674a and 674b of this title and enacting provisions set out as a note under section 674a of this title\] may be cited as the 'White Horse Hill National Game Preserve Designation Act'."
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

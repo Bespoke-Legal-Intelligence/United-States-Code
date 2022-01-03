@@ -30,6 +30,8 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 847; Pub. L. 89–44, title VIII, §802(b)(3), June 21, 1965, 79 Stat. 159; Pub. L. 91–513, title III, §1102(e), Oct. 27, 1970, 84 Stat. 1292; Pub. L. 92–310, title II, §230(c), June 6, 1972, 86 Stat. 209; Pub. L. 93–490, §3(b)(7), Oct. 26, 1974, 88 Stat. 1467; Pub. L. 94–455, title XII, §1204(c)(10), title XIX, §1906(a)(40), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1699, 1830, 1834; Pub. L. 95–628, §9(b)(2), Nov. 10, 1978, 92 Stat. 3633; Pub. L. 99–514, title XV, §1566(c), Oct. 22, 1986, 100 Stat. 2763.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (b)(4). Pub. L. 99–514 substituted "$100,000" for "$1,000".
@@ -50,6 +52,8 @@ Subsec. (d). Pub. L. 94–455, §1906(a)(40), struck out subsec. (d) which made 
 
 <b>1965</b>—Subsec. (d)(3)(F). Pub. L. 89–44 struck out subpar. (F) relating to producers and importers of gasoline and manufacturers and producers of lubricating oils.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 effective Oct. 22, 1986, see section 1566(e) of Pub. L. 99–514, set out as a note under section 7325 of this title.
@@ -64,7 +68,7 @@ Amendment by section 1204(c)(10) of Pub. L. 94–455 applicable with respect to 
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26, 1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under section 4831 of this title.
+Amendment by Pub. L. 93–490 applicable to filled cheese manufactured, imported, or sold after Oct. 26,1974, see section 3(c) of Pub. L. 93–490, set out as an Effective Date of Repeal note under section 4831 of this title.
 
 #### Effective Date of 1970 Amendment
 

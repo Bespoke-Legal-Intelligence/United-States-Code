@@ -18,11 +18,15 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 (Pub. L. 90–448, title XIV, §1415, Aug. 1, 1968, 82 Stat. 596; Pub. L. 91–452, title II, §220, Oct. 15, 1970, 84 Stat. 929; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–452 struck out subsec. (e) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -30,7 +34,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Effective Date of 1970 Amendment
 
-For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
+For effective date of amendment by Pub. L. 91–452, and for amendment not to affect any immunity towhich any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

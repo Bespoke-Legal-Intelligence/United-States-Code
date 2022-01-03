@@ -50,7 +50,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (3) Reinstatement of program benefits
 
-&emsp;Rules issued to carry out this subsection shall provide for the prompt reinstatement of benefits to a producer who is determined in an administrative appeal to meet the requirements of title XII of the Food Security Act of1985 \[16 U.S.C. 3801 et seq.\] applicable to the producer.
+&emsp;Rules issued to carry out this subsection shall provide for the prompt reinstatement of benefits to a producer who is determined in an administrative appeal to meet the requirements of title XII of the Food Security Act of 1985 \[16 U.S.C. 3801 et seq.\] applicable to the producer.
 
 #### (e) Use of Federal and non-Federal employees
 
@@ -64,7 +64,7 @@ In carrying out the programs specified in subsection (b)(4), the Secretary shall
 
 #### (f) Collocation
 
-To the maximum extent practicable, the Secretary shall collocate county offices of the Farm Service Agency with county offices of the Natural Resources Conservation Service in order to—
+To the maximum extent practicable, the Secretary shall collocate county offices of the FarmService Agency with county offices of the Natural Resources Conservation Service in order to—
 
 &emsp;(1) maximize savings from shared equipment, office space, and administrative support;
 
@@ -83,6 +83,8 @@ For purposes of subsections (c) through (f) of this section:
 &emsp;(2) A reference to the "Natural Resources Conservation Service" includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6936(b) of this title.
 
 (Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), title III, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005; Pub. L. 115–334, title XII, §§12404(a), 12410(c)(2)(A), Dec. 20, 2018, 132 Stat. 4974, 4978.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -105,6 +107,8 @@ Subsecs. (b)(5), (g)(2). Pub. L. 115–334, §12410(c)(2)(A), substituted "secti
 Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at end "and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)".
 
 Subsec. (d)(2). Pub. L. 104–127, §315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Farm Service Agency Accountability
 

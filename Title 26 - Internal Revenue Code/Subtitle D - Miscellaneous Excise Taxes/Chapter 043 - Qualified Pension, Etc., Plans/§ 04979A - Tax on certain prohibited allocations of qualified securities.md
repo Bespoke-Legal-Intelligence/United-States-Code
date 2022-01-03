@@ -76,6 +76,8 @@ For purposes of this section—
 
 (Added and amended Pub. L. 99–514, title XI, §1172(b)(2), title XVIII, §1854(a)(9)(A), Oct. 22, 1986, 100 Stat. 2514, 2877; Pub. L. 101–239, title VII, §7304(a)(2)(D), Dec. 19, 1989, 103 Stat. 2353; Pub. L. 104–188, title I, §1704(t)(22), Aug. 20, 1996, 110 Stat. 1888; Pub. L. 105–34, title XV, §1530(c)(15)–(17), Aug. 5, 1997, 111 Stat. 1079, 1080; Pub. L. 107–16, title VI, §656(c), June 7, 2001, 115 Stat. 134.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–16, §656(c)(1), added pars. (3) and (4) and, in concluding provisions, substituted "there is hereby imposed a tax on such allocation or ownership equal to 50 percent of the amount involved." for "there is hereby imposed a tax on such allocation equal to 50 percent of the amount involved."
@@ -112,6 +114,8 @@ Subsec. (c). Pub. L. 101–239, §7304(a)(2)(D)(ii), as amended by Pub. L. 104�
 
 Subsec. (c). Pub. L. 99–514, §1172(b)(2)(B), inserted reference to section 2057(d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2001 Amendment
 
 Amendment by Pub. L. 107–16 applicable to plan years beginning after Dec. 31, 2004, except that in the case of any employee stock ownership plan established after Mar. 14, 2001, or established on or before such date if employer securities held by the plan consist of stock in a corporation with respect to which an election under section 1362(a) of this title is not in effect on such date, amendment applicable to plan years ending after Mar. 14, 2001, see section 656(d) of Pub. L. 107–16, set out as a note under section 409 of this title.
@@ -130,7 +134,7 @@ Amendment by section 1172(b)(2) of Pub. L. 99–514 applicable to sales after Oc
 
 #### Effective Date
 
-Pub. L. 99–514, title XVIII, §1854(a)(9)(D), Oct. 22, 1986, 100 Stat. 2878, provided that: "The amendments made by this paragraph \[enacting this section and amendingsection 1042 of this title\] shall apply to sales of securities after the date of the enactment of this Act \[Oct. 22, 1986\]."
+Pub. L. 99–514, title XVIII, §1854(a)(9)(D), Oct. 22, 1986, 100 Stat. 2878, provided that: "The amendments made by this paragraph \[enacting this section and amending section 1042 of this title\] shall apply to sales of securities after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

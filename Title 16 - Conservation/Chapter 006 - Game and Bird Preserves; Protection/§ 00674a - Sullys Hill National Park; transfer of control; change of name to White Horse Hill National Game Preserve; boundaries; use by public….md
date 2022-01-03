@@ -4,15 +4,21 @@ The Secretary of the Interior shall administer Sullys Hill National Park, togeth
 
 (Mar. 3, 1931, ch. 439, §1, 46 Stat. 1509; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 116–94, div. P, title IV, §402(a), Dec. 20, 2019, 133 Stat. 3191.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–94 substituted "White Horse Hill National Game Preserve" for "Sullys Hill National Game Preserve" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
 Pub. L. 116–94, div. P, title IV, §402(c), Dec. 20, 2019, 133 Stat. 3191, provided that: "Any reference in a law, map, regulation, document, paper, or other record of the United States to the Sullys Hill National Game Preserve shall be considered to be a reference to the 'White Horse Hill National Game Preserve'."
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under section 671 of this title.
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 

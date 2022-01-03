@@ -110,7 +110,7 @@ The Director, through the Institute, shall be responsible for—
 
 #### (e) Fellowships
 
-The Director, pursuant to regulations which the Secretary shall prescribe, may establish and maintain fellowships with such stipends and allowances, including travel and subsistence expenses provided for under title 5, as the Directorconsiders necessary to procure the assistance of highly qualified research fellows, including individuals with disabilities, from the United States and foreign countries.
+The Director, pursuant to regulations which the Secretary shall prescribe, may establish and maintain fellowships with such stipends and allowances, including travel and subsistence expenses provided for under title 5, as the Director considers necessary to procure the assistance of highly qualified research fellows, including individuals with disabilities, from the United States and foreign countries.
 
 #### (f) Scientific peer review of research, training, and demonstration projects
 
@@ -166,7 +166,7 @@ In order to promote cooperation among Federal departments and agencies conductin
 
 (1) The Director shall take appropriate actions to provide for a comprehensive and coordinated research program under this subchapter. In providing such a program, the Director may undertake joint activities with other Federal entities engaged in research and with appropriate private entities. Any Federal entity proposing to establish any research project related to the purposes of this chapter shall consult, through the Interagency Committee established by section 763 of this title, with the Director as Chairperson of such Committee and provide the Director with sufficient prior opportunity to comment on such project.
 
-(2) Any person responsible for administering any program of the National Institutes ofHealth, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office of Special Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
+(2) Any person responsible for administering any program of the National Institutes of Health, the Department of Veterans Affairs, the National Science Foundation, the National Aeronautics and Space Administration, the Office ofSpecial Education and Rehabilitative Services, or of any other Federal entity, shall, through the Interagency Committee established by section 763 of this title, consult and cooperate with the Director in carrying out such program if the program is related to the purposes of this subchapter.
 
 #### (k) Grants for training
 
@@ -228,7 +228,7 @@ Subsec. (b)(2)(B). Pub. L. 113–128, §433(3)(A), added subpar. (B) and struck 
 
 Subsec. (b)(3). Pub. L. 113–128, §433(3)(B), substituted "on disability, independent living, and rehabilitation" for "in rehabilitation".
 
-Subsec. (b)(4). Pub. L. 113–128, §433(3)(C), inserted "education, health and wellness," after "independentliving," in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
+Subsec. (b)(4). Pub. L. 113–128, §433(3)(C), inserted "education, health and wellness," after "independent living," in introductory provisions, added subpars. (A) to (F), and struck out former subpars. (A) to (D) which were substantially similar to subpars. (A), (B), (D), and (E), respectively.
 
 Subsec. (b)(6). Pub. L. 113–128, §433(3)(D), substituted "advances in disability, independent living, and rehabilitation" for "advances in rehabilitation" and inserted "education, health and wellness," after "employment, independent living,".
 
@@ -292,7 +292,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### References to National Institute of Handicapped Research Amended or Deemed To Be References to National Institute on Disability and Rehabilitation Research
 
-Pub. L. 99–506, title III, §302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: "The Act \[this chapter\] is amended by striking out 'National Institute of Handicapped Research' each place it appears in the Act (including the table of contents) and inserting in lieu thereof 'National Institute on Disability and Rehabilitation Research'. Any reference in any other provision of law to the 'National Institute of Handicapped Research' shallbe considered to be a reference to the 'National Institute on Disability and Rehabilitation Research'."
+Pub. L. 99–506, title III, §302(b), Oct. 21, 1986, 100 Stat. 1821, provided that: "The Act \[this chapter\] is amended by striking out 'National Institute of Handicapped Research' each place it appears in the Act (including the table of contents) and inserting in lieu thereof 'National Institute on Disability and Rehabilitation Research'. Any reference in any other provision of law to the 'National Institute of Handicapped Research' shall be considered to be a reference to the 'National Institute on Disability and Rehabilitation Research'."
 
 \[Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of section 3515e of Title 42, The Public Health and Welfare.\]
 

@@ -14,9 +14,13 @@ The election under subsection (a) for any taxable year shall be made within the 
 
 (Added Pub. L. 86–779, §6(a), Sept. 14, 1960, 74 Stat. 1001; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

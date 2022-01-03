@@ -18,6 +18,8 @@ For purposes of this subchapter—
 
 (Pub. L. 93–618, title VIII, §805, as added Pub. L. 99–570, title IX, §9001, Oct. 27, 1986, 100 Stat. 3207–166; amended Pub. L. 101–231, §17(h)(5), Dec. 13, 1989, 103 Stat. 1965; Pub. L. 106–36, title I, §1001(a)(10), June 25, 1999, 113 Stat. 131.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Par. (2). Pub. L. 106–36 struck out "and" at end.

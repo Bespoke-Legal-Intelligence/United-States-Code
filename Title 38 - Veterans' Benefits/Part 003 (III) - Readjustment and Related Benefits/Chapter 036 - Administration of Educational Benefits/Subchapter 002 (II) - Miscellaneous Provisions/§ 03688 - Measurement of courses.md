@@ -2,7 +2,7 @@
 
 (a) For the purposes of this chapter and chapters 34 and 35 of this title—
 
-&emsp;(1) an institutional trade or technical course offered on a clock-hour basis, not leading to astandard college degree, involving shop practice as an integral part thereof, shall be considered a full-time course when a minimum of 22 hours per week of attendance (excluding supervised study) is required, with no more than 2½ hours of rest periods per week allowed;
+&emsp;(1) an institutional trade or technical course offered on a clock-hour basis, not leading to a standard college degree, involving shop practice as an integral part thereof, shall be considered a full-time course when a minimum of 22 hours per week of attendance (excluding supervised study) is required, with no more than 2½ hours of rest periods per week allowed;
 
 &emsp;(2) an institutional course offered on a clock-hour basis, not leading to a standard college degree, in which theoretical or classroom instruction predominates shall be considered a full-time course when a minimum of 18 hours per week net of instruction (excluding supervised study but which may include customary intervals not to exceed 10 minutes between hours of instruction) is required;
 
@@ -12,7 +12,7 @@
 
 &emsp;(5) a program of apprenticeship or a program of other on-job training shall be considered a full-time program when the eligible veteran or person is required to work the number of hours constituting the standard workweek of the training establishment, but a workweek of less than thirty hours shall not be considered to constitute full-time training unless a lesser number of hours has been established as the standard workweek for the particular establishment through bona fide collective bargaining;
 
-&emsp;(6) an institutional course offered as part of a program of education, not leading to a standard college degree, under section 3034(a)(3), 3241(a)(2), or 3533(a) of this title shall be considered a full-time course on the basis of measurement criteria provided in clause (2), (3), or (4) of this subsection as determined by the educational institution; and
+&emsp;(6) an institutional course offered as part of a program of education, not leading to a standard college degree, under section 3034(a)(3), 3241(a)(2), or 3533(a) of this title shall be considered a full-time course on the basis of measurement criteria provided inclause (2), (3), or (4) of this subsection as determined by the educational institution; and
 
 &emsp;(7) an institutional course not leading to a standard college degree offered by an educational institution on a standard quarter- or semester-hour basis shall be measured as full time on the same basis as provided in paragraph (4) of this subsection, but if the educational institution offering the course is not an institution of higher learning, then in no event shall such course be considered full time when it requires less than the minimum weekly hours of attendance required for full time by paragraph (1) or (2) of this subsection, as appropriate.
 

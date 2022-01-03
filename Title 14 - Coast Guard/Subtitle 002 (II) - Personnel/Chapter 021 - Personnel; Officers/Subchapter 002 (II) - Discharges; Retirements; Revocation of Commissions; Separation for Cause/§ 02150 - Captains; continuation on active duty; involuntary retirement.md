@@ -52,7 +52,7 @@ Pub. L. 88–130, §6, Sept. 24, 1963, 77 Stat. 193, provided that: "Section 289
 
 #### Consideration for Retention on Active Duty Under Former Section 248 of This Title
 
-Pub. L. 88–130, §2(c), Sept. 24, 1963, 77 Stat. 191, provided that: "Officers who, prior to the effective date ofthis Act \[Sept. 24, 1963\], were considered but not selected for retention on active duty under the provisions of \[former\] section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section."
+Pub. L. 88–130, §2(c), Sept. 24, 1963, 77 Stat. 191, provided that: "Officers who, prior to the effective date of this Act \[Sept. 24, 1963\], were considered but not selected for retention on active duty under the provisions of \[former\] section 248, title 14, United States Code, shall remain subject to the provisions of subsections (b) and (c) of that section."
 
 #### Retired Pay on or Prior to September 24, 1963
 

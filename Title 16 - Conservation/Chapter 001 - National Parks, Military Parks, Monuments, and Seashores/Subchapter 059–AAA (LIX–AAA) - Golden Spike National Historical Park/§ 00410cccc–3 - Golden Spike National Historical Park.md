@@ -120,9 +120,13 @@ The Secretary shall consult with, and seek to coordinate with, adjacent landowne
 
 (Pub. L. 116–9, title II, §2205, Mar. 12, 2019, 133 Stat. 738.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the John D. Dingell, Jr. Conservation, Management, and Recreation Act, and not as part of Pub. L. 89–102 which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definition of "Secretary"
 

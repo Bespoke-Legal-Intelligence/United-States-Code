@@ -20,7 +20,7 @@ It shall be unlawful for any person to accept any money, securities, or property
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (b), money, securities, and property of a security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may, for convenience, be commingled and deposited in the same 1 or more accounts with any bank or trust company or with a clearing agency.
+&emsp;&emsp;Notwithstanding subsection (b), money, securities, and property of a security-based swaps customer of a broker, dealer, or security-based swap dealer described in subsection (b) may, for convenience, be commingled and deposited in the same 1 or moreaccounts with any bank or trust company or with a clearing agency.
 
 #### (B) Withdrawal
 
@@ -48,7 +48,7 @@ It shall be unlawful for any person, including any clearing agency and any depos
 
 #### (B) Segregation and maintenance of funds
 
-&emsp;&emsp;At the request of a counterparty to a security-based swap that provides funds or otherproperty to a security-based swap dealer or major security-based swap participant to margin, guarantee, or secure the obligations of the counterparty, the security-based swap dealer or major security-based swap participant shall—
+&emsp;&emsp;At the request of a counterparty to a security-based swap that provides funds or other property to a security-based swap dealer or major security-based swap participant to margin, guarantee, or secure the obligations of the counterparty, the security-based swap dealer or major security-based swap participant shall—
 
 &emsp;&emsp;&emsp;(i) segregate the funds or other property for the benefit of the counterparty; and
 
@@ -86,9 +86,13 @@ A security-based swap, as defined in section 78c(a)(68) of this title shall be c
 
 (June 6, 1934, ch. 404, title I, §3E, as added Pub. L. 111–203, title VII, §763(d), July 21, 2010, 124 Stat. 1774.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original "this title". See References in Text note set out under section 78a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

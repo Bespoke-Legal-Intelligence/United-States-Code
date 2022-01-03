@@ -142,7 +142,7 @@ Sense of the Senate.—It is the Sense of the Senate that the timely completion 
 
 "(b)
 
-Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, United States Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
+Modified Federal Share for Projects on ADHS.—For fiscal years 2012 through 2050, the Federal share payable for the cost of constructing highways and access roads on the Appalachian development highway system under section 14501 of title 40, UnitedStates Code, with funds made available to a State for fiscal year 2012 or a previous fiscal year for the Appalachian development highway system program, or with funds made available for fiscal year 2012 or a previous fiscal year for a specific project, route, or corridor on that system, shall be up to 100 percent, as determined by the State.
 
 "(c)
 

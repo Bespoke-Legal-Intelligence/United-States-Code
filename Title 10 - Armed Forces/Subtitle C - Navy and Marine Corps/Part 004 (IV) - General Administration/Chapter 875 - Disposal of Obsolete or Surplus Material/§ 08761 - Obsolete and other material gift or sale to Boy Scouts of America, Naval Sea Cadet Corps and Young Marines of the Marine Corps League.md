@@ -26,6 +26,8 @@ Mar. 1, 1929, ch. 429, 45 Stat. 1430; Oct. 31, 1951, ch. 654, §2(21), 65 Stat. 
 
 The word "give" is substituted for the words "dispose of without charge"; the words "naval purposes" are substituted for the words "the Navy"; and the word "sell" is substituted for the words "dispose of \* \* \* at prices". The words "to the Navy" are omitted as surplusage. Since the corporate name of the organization is "Boy Scouts of America", that name is used to designate the transferee in lieu of words "sea scout department", and the words "for the sea scouts" are added.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7541 of this title as this section.
@@ -35,6 +37,8 @@ The word "give" is substituted for the words "dispose of without charge"; the wo
 <b>1980</b>—Pub. L. 96–513 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" for "section 486 of title 40".
 
 <b>1975</b>—Pub. L. 93–628 inserted "Naval Sea Cadet Corps and Young Marines of the Marine Corps League" in section catchline, and authorized the Secretary of the Navy to gift obsolete materials and to sell surplus materials to the Naval Sea Cadet Corps and the Young Marines of the Marine Corps League with the requirement that the cost of transportation and delivery of such materials be charged to the recipient.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

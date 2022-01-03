@@ -2,7 +2,7 @@
 
 (a) A person injured because a rail carrier providing transportation or service subject to the jurisdiction of the Board under this part does not obey an order of the Board, except an order for the payment of money, may bring a civil action in a United States District Court to enforce that order under this subsection.
 
-(b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable for damages sustained by a person as a result of an act or omission of that carrier in violation of this part. A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable to a person for amounts charged that exceed the applicable rate for the transportation.
+(b) A rail carrier providing transportation subject to the jurisdiction of the Board under this part is liable for damages sustained by a person as a result of an act or omission of that carrier in violation of this part. A rail carrier providingtransportation subject to the jurisdiction of the Board under this part is liable to a person for amounts charged that exceed the applicable rate for the transportation.
 
 (c)(1) A person may file a complaint with the Board under section 11701(b) of this title or bring a civil action under subsection (b) of this section to enforce liability against a rail carrier providing transportation subject to the jurisdiction of the Board under this part.
 
@@ -24,11 +24,15 @@
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 846.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 A prior section 11704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1451, related to actions by private persons to enjoin abandonment of service, prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

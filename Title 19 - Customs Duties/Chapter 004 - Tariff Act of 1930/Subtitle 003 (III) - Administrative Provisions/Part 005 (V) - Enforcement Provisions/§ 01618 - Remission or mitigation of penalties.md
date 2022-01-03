@@ -1,8 +1,10 @@
 ### §1618. Remission or mitigation of penalties
 
-Whenever any person interested in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter, or who has incurred, or is alleged to have incurred, any fine or penalty thereunder, files with the Secretary of the Treasury if under the customs laws, and with the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if under the navigation laws, before the sale of such vessel, vehicle, aircraft, merchandise, or baggage a petition for the remission or mitigation of such fine, penalty, or forfeiture, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection, if he finds that such fine, penalty, or forfeiture was incurred without willful negligence or without any intention on the part of the petitioner to defraud the revenue or to violate the law, or finds the existence of such mitigating circumstances as to justify the remission or mitigation of such fine, penalty, or forfeiture, may remit or mitigate the same upon such terms and conditions as he deems reasonable and just, or order discontinuance of any prosecution relating thereto. In order to enable him to ascertain the facts, the Secretary of the Treasury may issue a commission to any customs officer to take testimony upon such petition: <i>Provided</i>, That nothing in this section shall be construed to deprive any person of an award of compensation made before the filing of such petition.
+Whenever any person interested in any vessel, vehicle, aircraft, merchandise, or baggage seized under the provisions of this chapter, or who has incurred, or is alleged to have incurred, any fine or penalty thereunder, files with the Secretary of the Treasury if under the customs laws, and with the Commandant of the Coast Guard or the Commissioner of U.S. Customs and Border Protection, as the case may be, if under the navigation laws, before the sale of such vessel, vehicle,aircraft, merchandise, or baggage a petition for the remission or mitigation of such fine, penalty, or forfeiture, the Secretary of the Treasury, the Commandant of the Coast Guard, or the Commissioner of U.S. Customs and Border Protection, if he finds that such fine, penalty, or forfeiture was incurred without willful negligence or without any intention on the part of the petitioner to defraud the revenue or to violate the law, or finds the existence of such mitigating circumstances as to justify the remission or mitigation of such fine, penalty, or forfeiture, may remit or mitigate the same upon such terms and conditions as he deems reasonable and just, or order discontinuance of any prosecution relating thereto. In order to enable him to ascertain the facts, the Secretary of the Treasury may issue a commission to any customs officer to take testimony upon such petition: <i>Provided</i>, That nothing in this section shall be construed to deprive any person of an award of compensation made before the filing of such petition.
 
 (June 17, 1930, ch. 497, title IV, §618, 46 Stat. 757; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 91–271, title III, §301(hh), June 2, 1970, 84 Stat. 291; Pub. L. 98–473, title II, §321, Oct. 12, 1984, 98 Stat. 2056; Pub. L. 98–573, title II, §213(a)(16), Oct. 30, 1984, 98 Stat. 2988; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -15,6 +17,8 @@ Provisions for a petition to the judge of the district, a summary investigation 
 <b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in two places.
 
 <b>1970</b>—Pub. L. 91–271 substituted "customs officer" for "customs agent, collector, judge of the United States Customs Court, or United States commissioner".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -33,6 +37,10 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under section 542 of Title 6.
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Substitution in text of references to Commandant of the Coast Guard and Commissioner of Customs for "the Secretary of Commerce" under the authority of Reorg. Plan No. 3 of 1946, see note set out under section 1613 of this title.
 

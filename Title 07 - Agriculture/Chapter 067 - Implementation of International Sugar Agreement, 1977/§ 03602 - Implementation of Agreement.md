@@ -14,9 +14,13 @@ On and after the entering into force of the Agreement with respect to the United
 
 (Pub. L. 96–236, §2, Apr. 22, 1980, 94 Stat. 336; Pub. L. 97–446, title I, §153, Jan. 12, 1983, 96 Stat. 2344.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Pub. L. 97–446 substituted "1985" for "1983".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### United States Membership in the International Sugar Organization
 
@@ -45,6 +49,8 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 100–461, title V, §565, Oct. 1, 1988, 102 Stat. 2268–42.
 
 Pub. L. 100–202, §101(e) \[title V, §571\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–175.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12224. Implementation of the International Sugar Agreement
 

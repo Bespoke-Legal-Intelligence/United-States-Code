@@ -10,7 +10,7 @@ To carry out the functions of the Office, the Director, on behalf of the Adminis
 
 #### (c) Delegation of functions by the Director
 
-The functions and powers of the Office shall be vested in or delegated to the Director, who mayfrom time to time, and to the extent permitted by law, consistent with the purposes of this chapter, delegate such of his functions as he deems appropriate. Such delegation may be made, upon request, to any officer or agency of the Federal Government.
+The functions and powers of the Office shall be vested in or delegated to the Director, who may from time to time, and to the extent permitted by law, consistent with the purposes of this chapter, delegate such of his functions as he deems appropriate. Such delegation may be made, upon request, to any officer or agency of the Federal Government.
 
 #### (d) Access to Director by Congress; requests for appropriations
 
@@ -19,6 +19,8 @@ The functions and powers of the Office shall be vested in or delegated to the Di
 (2) Any request for appropriations for the Federal Energy Administration submitted to the Congress shall identify the portion of such request intended for the support of the Office, and a statement of the differences, if any, between the amounts requested and the Director's assessment of the budgetary needs of the Office.
 
 (Pub. L. 93–275, §53, as added Pub. L. 94–385, title I, §142, Aug. 14, 1976, 90 Stat. 1136.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

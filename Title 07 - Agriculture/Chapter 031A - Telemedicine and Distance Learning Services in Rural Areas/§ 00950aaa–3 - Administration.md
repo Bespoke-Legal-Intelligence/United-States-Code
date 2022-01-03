@@ -2,7 +2,7 @@
 
 #### (a) Nonduplication
 
-The Secretary shall ensure that facilities constructed using financial assistance providedunder this chapter do not duplicate adequate established telemedicine services or distance learning services.
+The Secretary shall ensure that facilities constructed using financial assistance provided under this chapter do not duplicate adequate established telemedicine services or distance learning services.
 
 #### (b) Loan maturity
 
@@ -29,6 +29,8 @@ The Secretary shall establish and implement procedures to carry out informationa
 #### Termination of Section
 
 <i>For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out under section 950aaa of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

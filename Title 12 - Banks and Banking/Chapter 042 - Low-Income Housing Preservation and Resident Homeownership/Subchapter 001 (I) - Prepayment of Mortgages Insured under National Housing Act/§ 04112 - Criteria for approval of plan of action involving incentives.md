@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may approve a plan of action for extension of the low-income affordability restrictions on any eligible low-income housing or transfer the housing to a qualified purchaser (other than a resident council) only upon finding that—
+The Secretary may approve a plan of action for extension of the low-income affordability restrictions on any eligible low-income housing ortransfer the housing to a qualified purchaser (other than a resident council) only upon finding that—
 
 &emsp;(1) due diligence has been given to ensuring that the package of incentives is, for the Federal Government, the least costly alternative that is consistent with the full achievement of the purposes of this title; <sup>1</sup>
 
@@ -24,7 +24,7 @@ The Secretary may approve a plan of action for extension of the low-income affor
 
 &emsp;&emsp;(ii) assistance under section 1437f of title 42 shall be provided, to the extent available under appropriation Acts, if necessary to mitigate any adverse effect on current income-eligible very low- and low-income tenants; and <sup>2</sup>
 
-&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or thedate the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
+&emsp;&emsp;(F)(i) rents for units becoming available to new tenants shall be at levels approved by the Secretary that will ensure, to the extent practicable, that the units will be available and affordable to the same proportions of very low-income families or persons, low-income families or persons, and moderate-income families or persons (including families or persons whose incomes are 95 percent or more of area median income) as resided in the housing as of January 1, 1987 (based on the area median income limits established by the Secretary in February 1987), or the date the plan of action is approved, whichever date results in the highest proportion of very low-income families, except that this limitation shall not prohibit a higher proportion of very low-income families from occupying the housing; and
 
 &emsp;&emsp;(ii) in approving rents under this paragraph, the Secretary shall take into account any additional incentives provided under this subchapter;
 
@@ -78,7 +78,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 #### (B) Continued compliance
 
-&emsp;&emsp;To ensure continued compliance with the standards for a project subject to any actionunder subparagraph (A), the Secretary may also limit access of the owner to such amounts and use of such amounts for not more than the 2-year period beginning upon the determination that the project is in compliance with the standards.
+&emsp;&emsp;To ensure continued compliance with the standards for a project subject to any action under subparagraph (A), the Secretary may also limit access of the owner to such amounts and use of such amounts for not more than the 2-year period beginning upon the determination that the project is in compliance with the standards.
 
 #### (C) Removal of assistance
 
@@ -108,7 +108,7 @@ Any agreement to maintain the low-income affordability restrictions for the rema
 
 &emsp;An owner that distributes any amounts pursuant to paragraph (1) shall—
 
-&emsp;&emsp;(A) continue to operate the property in accordance with the affordability provisions of the use agreement for the property for the remaining useful life of the property;
+&emsp;&emsp;(A) continue to operate the property in accordance with the affordability provisions ofthe use agreement for the property for the remaining useful life of the property;
 
 &emsp;&emsp;(B) as required by the plan of action for the property, continue to renew or extend any project-based rental assistance contract for a term of not less than 20 years; and
 
@@ -168,7 +168,7 @@ Subsec. (d)(2)(C)(ii). Pub. L. 102–550, §317(a)(4)(D), substituted "in defaul
 
 Subsec. (e). Pub. L. 102–550, §308(a), struck out subsec. (e) which read as follows: "(e)
 
-Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply of decent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter."
+Windfall Profits.—The Secretary shall submit a report to the Congress not later than 90 days after November 28, 1990, evaluating the availability, quality, and reliability of data to measure the accessibility of decent, affordable housing in all areas where properties are eligible to submit a notice of intent to prepay under section 4102 of this title. To prevent payment of windfall profits, the Secretary may make available incentive payments under section 4109 or 4110 of this title only to owners in those rental markets where there is an inadequate supply ofdecent, affordable housing, if the Secretary determines that adequate data can be obtained to permit objective and fair implementation or where necessary to accomplish the other public policy objectives under this chapter. The Secretary shall implement this subsection in a manner consistent with the process established by this chapter."
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

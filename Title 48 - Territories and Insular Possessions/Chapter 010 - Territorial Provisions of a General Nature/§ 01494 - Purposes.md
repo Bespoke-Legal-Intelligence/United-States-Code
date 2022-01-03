@@ -4,9 +4,13 @@ The purposes of sections 1494 to 1494c of this title are to improve enforcement 
 
 (Pub. L. 99–570, title V, §5002, Oct. 27, 1986, 100 Stat. 3207–154; Pub. L. 100–690, title IX, §9308, Nov. 18, 1988, 102 Stat. 4538.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–690 inserted "and the Trust Territory of the Pacific Islands (or successor governments)" after "commonwealths of the United States", "and other substance" before "prevention", and "associated" before "insular areas.".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1988 Amendment
 
@@ -14,7 +18,9 @@ Pub. L. 100–690, title IX, §9301(a), Nov. 18, 1988, 102 Stat. 4535, provided 
 
 #### Short Title
 
-Pub. L. 99–570, title V, §5001, Oct. 27, 1986, 100 Stat. 3207–154, provided that: "This subtitle \[subtitle A (§§5001–5004) of title V of Pub. L. 99–570, enacting this section and sections 1494a and 1494b of this title\] may be cited as the 'United States Insular Areas Drug Abuse Act of 1986'."
+Pub. L. 99–570, title V, §5001, Oct. 27, 1986, 100 Stat. 3207–154, provided that: "This subtitle \[subtitle A\(§§5001–5004) of title V of Pub. L. 99–570, enacting this section and sections 1494a and 1494b of this title\] may be cited as the 'United States Insular Areas Drug Abuse Act of 1986'."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

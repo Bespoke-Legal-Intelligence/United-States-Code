@@ -1,5 +1,7 @@
 ### §§1274 to 1274i. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 1274 to 1274i of this title were transferred to section 1351 et seq. of Title 22, Foreign Relations and Intercourse, and were subsequently omitted from the Code.

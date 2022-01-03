@@ -84,6 +84,8 @@ In subsection (a)(2), the words "in a manner" are omitted as surplus.
 
 In subsection (b), before clause (1), the words "on when" are substituted for "prescribing the circumstances, if any, under which" to eliminate unnecessary words.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–355 substituted "circumstances, if any, under which an operator" for "circumstances under which an operator" in introductory provisions.

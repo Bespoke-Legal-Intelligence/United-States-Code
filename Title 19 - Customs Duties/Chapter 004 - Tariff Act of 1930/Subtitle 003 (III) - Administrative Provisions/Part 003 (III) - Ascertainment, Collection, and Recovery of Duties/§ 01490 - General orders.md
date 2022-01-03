@@ -38,6 +38,8 @@ Any imported merchandise that—
 
 (June 17, 1930, ch. 497, title IV, §490, 46 Stat. 726; Pub. L. 91–271, title III, §301(b), June 2, 1970, 84 Stat. 287; Pub. L. 103–182, title VI, §658, Dec. 8, 1993, 107 Stat. 2212; Pub. L. 104–295, §21(e)(9), Oct. 11, 1996, 110 Stat. 3531.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §490, 42 Stat. 963. That section was superseded by section 490 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -52,7 +54,7 @@ R.S. §2926, providing that merchandise of which incomplete entry had been made,
 
 R.S. §2963, providing that when merchandise had not been entered it should be deposited in a public warehouse, and there remain until an invoice was produced, but that it should not be construed to prohibit sales of merchandise to discharge duties and charges;
 
-R.S. §2964, authorizing the collector to take possession of merchandise, and deposit it in public stores, orother stores to be agreed on, in case of failure or neglect to pay duties, or when the owner, etc., should make entry for warehousing;
+R.S. §2964, authorizing the collector to take possession of merchandise, and deposit it in public stores, or other stores to be agreed on, in case of failure or neglect to pay duties, or when the owner, etc., should make entry for warehousing;
 
 R.S. §2965, providing for the storage in a public warehouse, or private bonded warehouse, of unclaimed merchandise required to be taken possession of by collectors, and making provision for payment of charges and expenses;
 
@@ -71,6 +73,8 @@ Subsec. (b). Pub. L. 103–182, §658(2), substituted heading for one which read
 Subsec. (c). Pub. L. 103–182, §658(3), added subsec. (c).
 
 <b>1970</b>—Pub. L. 91–271 substituted references to appropriate customs officer for references to collector wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

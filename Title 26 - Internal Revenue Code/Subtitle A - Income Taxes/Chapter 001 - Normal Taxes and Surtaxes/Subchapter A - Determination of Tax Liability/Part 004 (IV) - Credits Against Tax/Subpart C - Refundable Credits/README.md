@@ -15,6 +15,8 @@ Subpart C—Refundable Credits
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Pub. L. 113–295, div. A, title II, §221(a)(5)(A), Dec. 19, 2014, 128 Stat. 4037, struck out item 36A "Making work pay credit".

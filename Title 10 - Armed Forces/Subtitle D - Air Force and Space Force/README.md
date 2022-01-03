@@ -66,6 +66,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
@@ -84,7 +86,7 @@
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1674(a), Oct. 5, 1994, 108 Stat. 3016, struck out items for chapters 837 "Appointments as Reserve Officers" and 863 "Separation or Transfer to Retired Reserve".
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, added item for chapter 905 and substituted "Civil Reserve Air Fleet" for "Industrial Mobilization, Research, and Development" and "9511" for "9501" in item for chapter 931.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(c)(8)(B), title XI, §1178(c), Nov. 30, 1993, 107 Stat. 1715, 1769, addeditem for chapter 905 and substituted "Civil Reserve Air Fleet" for "Industrial Mobilization, Research, and Development" and "9511" for "9501" in item for chapter 931.
 
 <b>1987</b>—Pub. L. 100–26, §7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted "8011" for "8010" in item for chapter 803.
 

@@ -10,9 +10,11 @@ Subpart B—Special Provisions Applicable to Fuels Tax
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior subpart B, consisting of sections 4091 to 4093, related to taxation of aviation fuel, prior to repeal by Pub. L. 108–357, title VIII, §853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
+A prior subpart B, consisting of sections 4091 to 4093, related to taxation of aviation fuel, prior to repeal byPub. L. 108–357, title VIII, §853(d)(1), (e), Oct. 22, 2004, 118 Stat. 1612, 1614, applicable to aviation-grade kerosene removed, entered, or sold after Dec. 31, 2004.
 
 #### Amendments
 

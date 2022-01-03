@@ -10,11 +10,15 @@ Not later than 6 months after November 27, 1991, the Secretary shall promulgate 
 
 (Pub. L. 99–319, title I, §116, May 23, 1986, 100 Stat. 485; Pub. L. 102–173, §9, Nov. 27, 1991, 105 Stat. 1219; Pub. L. 102–321, title I, §163(c)(3)(B), July 10, 1992, 106 Stat. 377.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–321 substituted "the Substance Abuse and Mental Health Services Administration" for "the Alcohol, Drug Abuse, and Mental Health Administration".
 
 <b>1991</b>—Pub. L. 102–173 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

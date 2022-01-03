@@ -6,15 +6,19 @@ The Congress finds that economic stabilization would be enhanced and the competi
 
 #### (b) Terms of personal property leases
 
-The Congress also finds that there has been a recent trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloon payments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
+The Congress also finds that there has been a recent trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that these leases have been offered without adequate cost disclosures. It is the purpose of this subchapter to assure a meaningful disclosure of the terms of leases of personal property for personal, family, or household purposes so as to enable the lessee to compare more readily the various lease terms available to him, limit balloonpayments in consumer leasing, enable comparison of lease terms with credit terms where appropriate, and to assure meaningful and accurate disclosures of lease terms in advertisements.
 
 (Pub. L. 90–321, title I, §102, May 29, 1968, 82 Stat. 146; Pub. L. 93–495, title III, §302, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–240, §2, Mar. 23, 1976, 90 Stat. 257.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–240 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1974</b>—Pub. L. 93–495 inserted provisions expanding purposes of subchapter to include protection of consumer against inaccurate and unfair credit billing and credit card practices.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -30,7 +34,7 @@ Regulations.—The regulations required to be prescribed under this title \[see 
 
 "(2)
 
-Effective date established by rule.—Except as provided in paragraph (3), a section, or provisionthereof, of this title shall take effect on the date on which the final regulations implementing such section, or provision, take effect.
+Effective date established by rule.—Except as provided in paragraph (3), a section, or provision thereof, of this title shall take effect on the date on which the final regulations implementing such section, or provision, take effect.
 
 "(3)
 
@@ -104,7 +108,7 @@ Pub. L. 103–325, title I, §151, Sept. 23, 1994, 108 Stat. 2190, provided that
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of thistitle, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
+Pub. L. 102–537, §1, Oct. 27, 1992, 106 Stat. 3531, provided that: "This Act \[enacting section 1681s–1 of this title, amending section 1681a of this title, and enacting provisions set out as a note under section 1681a of this title\] may be cited as the 'Ted Weiss Child Support Enforcement Act of 1992'."
 
 #### Short Title of 1988 Amendments
 

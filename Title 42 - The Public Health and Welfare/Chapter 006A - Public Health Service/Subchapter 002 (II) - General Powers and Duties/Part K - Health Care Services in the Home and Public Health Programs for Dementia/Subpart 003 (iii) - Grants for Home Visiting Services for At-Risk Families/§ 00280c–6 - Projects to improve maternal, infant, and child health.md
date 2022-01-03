@@ -94,7 +94,7 @@ For purposes of subsection (a)(1), a pregnant woman shall be considered to be at
 
 &emsp;&emsp;(A) the stated objective of the project to be operated with the grant, as determined after considering identified gaps in the current service delivery system; and
 
-&emsp;&emsp;(B) the nature of the needs of the family to be served, as determined at the initial assessment of the family that is conducted by the case manager, and through follow-up contacts by other providers of home visiting services.
+&emsp;&emsp;(B) the nature of the needs of the family to be served, as determined at the initial assessment of the family that is conducted bythe case manager, and through follow-up contacts by other providers of home visiting services.
 
 #### (4) Family service plan
 
@@ -258,6 +258,8 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 (July 1, 1944, ch. 373, title III, §399, as added Pub. L. 102–321, title V, §502(2), July 10, 1992, 106 Stat. 427; amended Pub. L. 103–448, title II, §204(w)(2)(D), Nov. 2, 1994, 108 Stat. 4746; Pub. L. 108–446, title III, §305(i)(2), Dec. 3, 2004, 118 Stat. 2806.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§601 et seq.), V (§701 et seq.), and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
@@ -275,6 +277,8 @@ Another prior section 399 of act July 1, 1944, ch. 373, title III, formerly §39
 <b>2004</b>—Subsec. (n)(3). Pub. L. 108–446 substituted "part C" for "part H".
 
 <b>1994</b>—Subsec. (b)(6). Pub. L. 103–448 substituted "special supplemental nutrition program" for "special supplemental food program".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

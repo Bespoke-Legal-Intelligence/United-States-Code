@@ -2,7 +2,7 @@
 
 (a)
 
-Urgent Care.—(1) The Secretary of Defense shall ensure that military medical treatment facilities, at locations the Secretary determines appropriate, provide urgent care services for members of the armed forces and covered beneficiaries until 11:00 p.m. each day.
+Urgent Care.—(1) The Secretary of Defense shall ensure that military medical treatment facilities, at locations the Secretary determines appropriate, provide urgent care servicesfor members of the armed forces and covered beneficiaries until 11:00 p.m. each day.
 
 (2) With respect to areas in which a military medical treatment facility covered by paragraph (1) is not located, the Secretary shall ensure that members of the armed forces and covered beneficiaries may access urgent care clinics through the health care provider network under the TRICARE program.
 
@@ -35,6 +35,8 @@ Primary Care Clinics.—(1) The Secretary shall ensure that primary care clinics
 (B) The primary care clinic hours at a military medical treatment facility determined under subparagraph (A) shall include expanded hours beyond regular business hours during weekdays and the weekend if the Secretary determines under such subparagraph that sufficient demand exists at the military medical treatment facility for such expanded primary care clinic hours.
 
 (Added Pub. L. 114–328, div. A, title VII, §704(a), Dec. 23, 2016, 130 Stat. 2200.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Implementation
 

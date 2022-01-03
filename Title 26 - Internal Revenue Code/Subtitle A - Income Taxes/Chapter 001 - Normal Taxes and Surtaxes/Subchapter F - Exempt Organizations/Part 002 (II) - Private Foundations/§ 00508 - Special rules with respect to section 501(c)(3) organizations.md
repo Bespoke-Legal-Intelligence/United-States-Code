@@ -38,7 +38,7 @@ Except as provided in subsection (c), any organization (including an organizatio
 
 &emsp;&emsp;(A) by any person after notification is made under section 507(a), or
 
-&emsp;&emsp;(B) by a substantial contributor (as defined in section 507(d)(2)) in his taxable year which includes the first day on which action is taken by such organization which culminates in the imposition of tax under section 507(c) and any subsequent taxable year.
+&emsp;&emsp;(B) by a substantial contributor (as defined in section 507(d)(2)) in his taxable yearwhich includes the first day on which action is taken by such organization which culminates in the imposition of tax under section 507(c) and any subsequent taxable year.
 
 #### (2) Gift or bequest to taxable private foundation, section 4947 trust, etc.
 
@@ -76,6 +76,8 @@ A sponsoring organization (as defined in section 4966(d)(1)) shall give notice t
 
 (Added Pub. L. 91–172, title I, §101(a), Dec. 30, 1969, 83 Stat. 494; amended Pub. L. 94–455, title XIX, §§1901(a)(71), (b)(8)(E), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1776, 1794, 1834; Pub. L. 108–357, title IV, §413(c)(30), Oct. 22, 2004, 118 Stat. 1509; Pub. L. 109–280, title XII, §1235(b)(1), Aug. 17, 2006, 120 Stat. 1101.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–280, which directed the addition of subsec. (f) to section 508, without specifying the act to be amended, was executed by making the addition to this section, which is section 508 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
@@ -104,13 +106,15 @@ Subsec. (e)(2)(B). Pub. L. 94–455, §1901(a)(71)(B), redesignated subpar. (C) 
 
 Subsec. (e)(2)(C). Pub. L. 94–455, §1901(a)(71)(B), redesignated subpar. (C) as (B).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title XII, §1235(b)(2), Aug. 17, 2006, 120 Stat. 1102, provided that: "The amendment made by this subsection \[amending this section\] shall apply to organizations applying for tax-exempt status after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 #### Effective Date of 2004 Amendment
 
-Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31, 2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
+Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporations beginning after Dec. 31,2004, and to taxable years of United States shareholders with or within which such taxable years of foreign corporations end, see section 413(d)(1) of Pub. L. 108–357, set out as an Effective and Termination Dates of 2004 Amendments note under section 1 of this title.
 
 #### Effective Date of 1976 Amendment
 

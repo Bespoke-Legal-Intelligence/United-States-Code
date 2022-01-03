@@ -20,7 +20,7 @@ The Water Resources Council shall undertake assessments of water resource requir
 
 #### (b) Request by Secretary that Water Resources Council prepare assessment of availability of adequate water resources for proposed demonstration projects; report; publication
 
-For any proposed demonstration project which may involve a significant impact on water resources, the Secretary shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability forsuch project. A report on the assessment shall be published in the Federal Register for public review thirty days prior to the expenditure of Federal funds on the demonstration.
+For any proposed demonstration project which may involve a significant impact on water resources, the Secretary shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability for such project. A report on the assessment shall be published in the Federal Register for public review thirty days prior to the expenditure of Federal funds on the demonstration.
 
 #### (c) Assessment by Water Resources Council of availability of adequate water resources as precondition for Federal assistance for commercial application of nonnuclear energy technologies
 
@@ -40,6 +40,8 @@ The Secretary shall, upon enactment of this subsection, be a member of the Counc
 
 (Pub. L. 93–577, §13, Dec. 31, 1974, 88 Stat. 1893; Pub. L. 95–39, title I, §110, June 3, 1977, 91 Stat. 186; Pub. L. 109–58, title X, §1009(b)(9), Aug. 8, 2005, 119 Stat. 935.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsecs. (b) to (d), (f). Pub. L. 109–58 substituted "Secretary" for "Administrator".
@@ -49,6 +51,8 @@ The Secretary shall, upon enactment of this subsection, be a member of the Counc
 Subsec. (b). Pub. L. 95–39, §110(2), substituted "the Administrator shall, as a precondition of Federal assistance to that project, request the Water Resources Council to prepare an assessment of water requirements and availability for such project" for "the Administrator shall, as a precondition of Federal assistance to that project, prepare or have prepared an assessment of the availability of adequate water resources".
 
 Subsec. (f). Pub. L. 95–39, §110(3), added subsec. (f).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

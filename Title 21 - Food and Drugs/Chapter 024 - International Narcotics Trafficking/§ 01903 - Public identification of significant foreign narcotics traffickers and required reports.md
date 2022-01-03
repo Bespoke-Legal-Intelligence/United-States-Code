@@ -2,7 +2,7 @@
 
 #### (a) Provision of information to the President
 
-The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretaryof State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b). This information shall also be provided to the Director of the Office of National Drug Control Policy.
+The Secretary of the Treasury, the Attorney General, the Secretary of Defense, the Secretary of State, and the Director of Central Intelligence shall consult among themselves and provide the appropriate and necessary information to enable the President to submit the report under subsection (b). This information shall also be provided to the Director of the Office of National Drug Control Policy.
 
 #### (b) Public identification and sanctioning of significant foreign narcotics traffickers
 
@@ -12,7 +12,7 @@ Not later than June 1, 2000, and not later than June 1 of each year thereafter, 
 
 &emsp;(2) detailing publicly the President's intent to impose sanctions upon these significant foreign narcotics traffickers pursuant to this chapter.
 
-> The report required in this subsection shall not include information on persons upon which United States sanctions imposed under this chapter, or otherwise on account of narcotics trafficking, are already in effect.
+> The report required in this subsection shall not include information on persons upon whichUnited States sanctions imposed under this chapter, or otherwise on account of narcotics trafficking, are already in effect.
 
 #### (c) Unclassified report required
 

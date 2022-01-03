@@ -4,6 +4,8 @@ When such areas have been designated as provided for in section 675 of this titl
 
 (June 5, 1920, ch. 247, §§2, 3, 41 Stat. 986; June 25, 1948, ch. 645, §11, 62 Stat. 860.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 First sentence of section is from section 2 and the last from section 3 of act June 5, 1920.
@@ -11,6 +13,8 @@ First sentence of section is from section 2 and the last from section 3 of act J
 #### Amendments
 
 <b>1948</b>—Act June 25, 1948, struck out penal provisions. See section 41 of Title 18, Crimes and Criminal Procedure.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1948 Amendment
 

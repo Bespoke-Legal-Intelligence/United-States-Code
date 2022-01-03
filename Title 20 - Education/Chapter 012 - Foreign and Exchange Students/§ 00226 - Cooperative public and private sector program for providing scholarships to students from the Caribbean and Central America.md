@@ -42,7 +42,7 @@ The obligation of any recipient to reimburse any entity for any or all scholarsh
 
 #### (h) Private sector participation
 
-To the maximum extent practicable, each participating State shall enlist the assistance ofthe private sector to enable the State to meet the non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
+To the maximum extent practicable, each participating State shall enlist the assistance of the private sector to enable the State to meet the non-Federal share of payments under this section. Wherever appropriate, each participating State shall encourage the private sector to offer internships or other opportunities consistent with the purposes of this section to students receiving scholarships under this section.
 
 #### (i) Funding
 
@@ -62,11 +62,15 @@ As used in this section—
 
 (Pub. L. 101–382, title II, §231, Aug. 20, 1990, 104 Stat. 661.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (i) and (j)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§2151 et seq.) of subchapter I and part IV (§2346 et seq.) of subchapter II, respectively, of chapter 32 of Title 22, Foreign Relations and Intercourse. For provisions deeming references to part I of subchapter I to include a reference to section 2293 of Title 22, see section 2293(d)(1) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of Title 22 and Tables.
 
 The Caribbean Basin Economic Recovery Act, referred to in subsec. (j)(1)(B), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§2701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of Title 19 and Tables.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

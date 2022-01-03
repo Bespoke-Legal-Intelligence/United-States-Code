@@ -104,6 +104,8 @@ In subsection (a), the words "informed on stored" are substituted for the words 
 
 In subsection (b), the words "in carrying out" are substituted for the words "in the execution of".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §924(b)(2)(A)(ii), substituted "Marine Corps, Space Force," for "Marine Corps,".
@@ -121,6 +123,8 @@ Subsec. (b). Pub. L. 115–91, §341(a)(9), added subsec. (b).
 <b>2011</b>—Pub. L. 111–383 struck out subsec. (a) designation before "The Secretaries" and struck out subsec. (b) which read as follows: "The board shall confer with and advise the Secretaries of the military departments in carrying out the recommendations in House Document No. 199 of the Seventieth Congress."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "a joint board selected by them composed of officers, civilian officers and employees of the Department of Defense, or both" for "a joint board of officers selected by them".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Appointment
 

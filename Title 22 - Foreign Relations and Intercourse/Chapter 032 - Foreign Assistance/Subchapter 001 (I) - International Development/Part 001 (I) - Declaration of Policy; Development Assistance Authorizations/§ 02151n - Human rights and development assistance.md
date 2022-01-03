@@ -144,7 +144,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 #### References in Text
 
-Subchapter II of chapter 103 of this title, referred to in subsec. (a), subsec. (b) relating to information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance, subsec. (b) relating to protection of childrenfrom exploitation, and subsec. (c), was in the original title II of the Better Utilization of Investments Leading to Development Act of 2018, meaning title II of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3492, which enacted subchapter II of chapter 103 of this title. For complete classification of title II to the Code, see Tables.
+Subchapter II of chapter 103 of this title, referred to in subsec. (a), subsec. (b) relating to information to Congressional committees for realization of assistance for needy people; concurrent resolution terminating assistance, subsec. (b) relating to protection of children from exploitation, and subsec. (c), was in the original title II of the Better Utilization of Investments Leading to Development Act of 2018, meaning title II of div. F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3492, which enacted subchapter II of chapter 103 of this title. For complete classification of title II to the Code, see Tables.
 
 Section 2(a) of the Genocide Convention Implementation Act of 1987, referred to in subsec. (d)(8), probably means section 2(a) of the Genocide Convention Implementation Act of 1987 (the Proxmire Act), Pub. L. 100–606, Nov. 4, 1988, 102 Stat. 3045, which enacted chapter 50A (§1091 et seq.) of Title 18, Crimes and Criminal Procedure.
 
@@ -172,7 +172,7 @@ Subsec. (c). Pub. L. 115–254, §1470(j)(1)(C), substituted "under subchapter I
 
 Subsec. (d)(10). Pub. L. 107–228, §683(a), added par. (10).
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining "trafficking" and "victims of trafficking" for purposes of subsection.
+<b>2000</b>—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmentalorganizations in compiling data for required information, and defining "trafficking" and "victims of trafficking" for purposes of subsection.
 
 <b>1999</b>—Subsec. (d)(8). Pub. L. 106–113, §1000(a)(7) \[div. A, title VIII, §806(a)\], added par. (8).
 
@@ -234,7 +234,7 @@ Subsec. (e). Pub. L. 96–53, §106, substituted "1980" for "1979".
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–105 substituted "Assistant Secretary" for "Coordinator".
 
-Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs underthis subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
+Pub. L. 95–88, §111(a), inserted references to the formulation of development assistance programs under this subchapter and the consultation of the Administrator with the Coordinator for Human Rights and Humanitarian Affairs in the introductory provisions, designated the remainder of the existing provisions as par. (1), and added par. (2).
 
 Subsec. (d). Pub. L. 95–88, §111(a), substituted provisions directing the Secretary of State to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, by January 31 of each year, a full and complete report regarding the status of internationally recognized human rights in countries that receive development assistance and the steps which the Administrator has taken to alter United States development assistance programs in any country because of human rights considerations for provisions directing the President to transmit to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate, in the annual presentation materials on proposed economic development assistance programs, a full and complete report regarding the steps he has taken to carry out the provisions of this section.
 
@@ -256,7 +256,7 @@ Pub. L. 108–332, §6(c), Oct. 16, 2004, 118 Stat. 1286, provided that:"The ame
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
+Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier,see section 161(b) of Pub. L. 103–236, as amended, set out as a note under section 2651a of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -302,7 +302,7 @@ Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, prov
 
 Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: "Congress makes the following findings:
 
-&emsp;"(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or thereis not sufficient cultural and social understanding of international norms of religious freedom.
+&emsp;"(1) In many nations where severe violations of religious freedom occur, there is not sufficient statutory legal protection for religious minorities or there is not sufficient cultural and social understanding of international norms of religious freedom.
 
 &emsp;"(2) Accordingly, in the provision of foreign assistance, the United States should make a priority of promoting and developing legal protections and cultural respect for religious freedom."
 

@@ -28,9 +28,11 @@ This part shall not apply to any tax imposed by subtitle C (sec. 3101 and follow
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 340; Pub. L. 85–866, title I, §59(b), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 89–44, title VIII, §809(d)(5)(B), June 21, 1965, 79 Stat. 168; Pub. L. 91–172, title V, §512(f)(7), (8), Dec. 30, 1969, 83 Stat. 641, 642; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 113–295, div. A, title II, §221(a)(87), Dec. 19, 2014, 128 Stat. 4050.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2014</b>—Subsecs. (d), (e). Pub. L. 113–295 redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932."
+<b>2014</b>—Subsecs. (d), (e). Pub. L. 113–295 redesignated subsec. (e) as (d) and struck out former subsec. (d).Prior to amendment, text of subsec. (d) read as follows: "No adjustment shall be made under this part in respect of any taxable year beginning prior to January 1, 1932."
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
@@ -41,6 +43,8 @@ Subsec. (b). Pub. L. 91–172, §512(f)(8), inserted reference to net capital lo
 <b>1965</b>—Subsec. (a)(1)(A). Pub. L. 89–44 struck out "(b)(1) and (3)" and inserted in lieu thereof "(b)(1), (3), and (4)".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–866 substituted in second sentence "The" for "Other than in the case of an adjustment resulting from a determination under section 1313(a)(4), the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

@@ -30,7 +30,7 @@ To the extent the Assistant Secretary deems it necessary to continue the Interde
 
 #### (3) Effect on vested functions
 
-&emsp;Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by lawor executive order in the Commission, or the Department of State, or any officer thereof.
+&emsp;Nothing in this chapter reassigns any function that is, on October 27, 1992, vested by law or executive order in the Commission, or the Department of State, or any officer thereof.
 
 #### (d) Reorganization
 

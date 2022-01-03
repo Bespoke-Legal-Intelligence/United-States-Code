@@ -2,7 +2,7 @@
 
 #### (a) Imposition; exceptions
 
-There shall be a moratorium on the taking and importation of marine mammals and marinemammal products, commencing on the effective date of this chapter, during which time no permit may be issued for the taking of any marine mammal and no marine mammal or marine mammal product may be imported into the United States except in the following cases:
+There shall be a moratorium on the taking and importation of marine mammals and marine mammal products, commencing on the effective date of this chapter, during which time no permit may be issued for the taking of any marine mammal and no marine mammal or marine mammal product may be imported into the United States except in the following cases:
 
 &emsp;(1) Consistent with the provisions of section 1374 of this title, permits may be issued by the Secretary for taking, and importation for purposes of scientific research, public display, photography for educational or commercial purposes, or enhancing the survival or recovery of a species or stock, or for importation of polar bear parts (other than internal organs) taken in sport hunts in Canada. Such permits, except permits issued under section 1374(c)(5) of this title, may be issued if the taking or importation proposed to be made is first reviewed by the Marine Mammal Commission and the Committee of Scientific Advisors on Marine Mammals established under subchapter III. The Commission and Committee shall recommend any proposed taking or importation, other than importation under section 1374(c)(5) of this title, which is consistent with the purposes and policies of section 1361 of this title. If the Secretary issues such a permit for importation, the Secretary shall issue to the importer concerned a certificate to that effect in such form as the Secretary of the Treasury prescribes, and such importation may be made upon presentation of the certificate to the customs officer concerned.
 
@@ -28,7 +28,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;&emsp;&emsp;&emsp;(II) for the purposes of tracking and verifying compliance with the minimum requirements established by the Secretary in regulations promulgated under section 1385(f) of this title; or
 
-&emsp;&emsp;&emsp;(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliancewith the International Dolphin Conservation Program.
+&emsp;&emsp;&emsp;(ii) after taking into consideration such information, findings of the Inter-American Tropical Tuna Commission, and any other relevant information, including information that a nation is consistently failing to take enforcement actions on violations which diminish the effectiveness of the International Dolphin Conservation Program, the Secretary, in consultation with the Secretary of State, finds that the harvesting nation is not in compliance with the International Dolphin Conservation Program.
 
 &emsp;&emsp;(D) shall require the government of any intermediary nation to certify and provide reasonable proof to the Secretary that it has not imported, within the preceding six months, any yellowfin tuna or yellowfin tuna products that are subject to a direct ban on importation to the United States under subparagraph (B);
 
@@ -56,7 +56,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 > &emsp;so long as such measures do not result in the death or serious injury of a marine mammal.
 
-&emsp;(B) The Secretary shall, through consultation with appropriate experts, and after notice and opportunity for public comment, publish in the Federal Register a list of guidelines for use in safely deterring marine mammals. In the case of marine mammals listed as endangered species or threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the Secretary shall recommend specific measures which may be used to nonlethally deter marine mammals. Actions to deter marine mammals consistent with such guidelines or specific measures shall not be a violation of this chapter.
+&emsp;(B) The Secretary shall, through consultation with appropriate experts, and after notice and opportunity for public comment, publish in the Federal Register a list of guidelines for use in safely deterring marine mammals. In the case of marine mammals listed as endangered species or threatened species under the Endangered Species Act of 1973 \[16 U.S.C. 1531et seq.\], the Secretary shall recommend specific measures which may be used to nonlethally deter marine mammals. Actions to deter marine mammals consistent with such guidelines or specific measures shall not be a violation of this chapter.
 
 &emsp;(C) If the Secretary determines, using the best scientific information available, that certain forms of deterrence have a significant adverse effect on marine mammals, the Secretary may prohibit such deterrent methods, after notice and opportunity for public comment, through regulation under this chapter.
 
@@ -100,7 +100,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(ii) The authorization for such activity shall prescribe, where applicable—
 
-&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, and other means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title,
+&emsp;&emsp;(I) permissible methods of taking by harassment pursuant to such activity, andother means of effecting the least practicable impact on such species or stock and its habitat, paying particular attention to rookeries, mating grounds, and areas of similar significance, and on the availability of such species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title,
 
 &emsp;&emsp;(II) the measures that the Secretary determines are necessary to ensure no unmitigable adverse impact on the availability of the species or stock for taking for subsistence uses pursuant to subsection (b) or section 1379(f) of this title or pursuant to a cooperative agreement under section 1388 of this title, and
 
@@ -128,7 +128,7 @@ There shall be a moratorium on the taking and importation of marine mammals and 
 
 &emsp;(iii) If, during the course of the commercial fishing season, the Secretary determines that the level of incidental mortality or serious injury from commercial fisheries for which a determination was made under clause (i) has resulted or is likely to result in an impact that is more than negligible on the endangered or threatened species or stock, the Secretary shall use the emergency authority granted under section 1387 of this title to protect such species or stock, and may modify any permit granted under this paragraph as necessary.
 
-&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the list of fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
+&emsp;(iv) The Secretary may suspend for a time certain or revoke a permit granted under this subparagraph only if the Secretary determines that the conditions or limitations set forth in such permit are not being complied with. The Secretary may amend or modify, after notice and opportunity for public comment, the listof fisheries published under clause (ii) whenever the Secretary determines there has been a significant change in the information or conditions used to determine such list.
 
 &emsp;(v) Sections 1373 and 1374 of this title shall not apply to the taking of marine mammals under the authority of this subparagraph.
 
@@ -186,7 +186,7 @@ It shall not be a violation of this chapter to take a marine mammal if—
 
 #### (e) Chapter not to apply to incidental takings by United States citizens employed on foreign vessels outside United States EEZ
 
-The provisions of this chapter shall not apply to a citizen of the United States who incidentally takes any marine mammal during fishing operations outside the United States exclusiveeconomic zone (as defined in section 1802 of this title) when employed on a foreign fishing vessel of a harvesting nation which is in compliance with the International Dolphin Conservation Program.
+The provisions of this chapter shall not apply to a citizen of the United States who incidentally takes any marine mammal during fishing operations outside the United States exclusive economic zone (as defined in section 1802 of this title) when employed on a foreign fishing vessel of a harvesting nation which is in compliance with the International Dolphin Conservation Program.
 
 #### (f) Exemption of actions necessary for national defense
 
@@ -209,6 +209,8 @@ The provisions of this chapter shall not apply to a citizen of the United States
 (4) Not later than 30 days after issuing an exemption under paragraph (1) or an additional exemption under paragraph (3), the Secretary of Defense shall submit to the Committee on Armed Services of the House of Representatives and the Committee on Armed Services of the Senate notice describing the exemption and the reasons therefor. The notice may be provided in classified form if the Secretary of Defense determines that use of the classified form is necessary for reasons of national security.
 
 (Pub. L. 92–522, title I, §101, Oct. 21, 1972, 86 Stat. 1029; Pub. L. 93–205, §13(e)(2), Dec. 28, 1973, 87 Stat. 903; Pub. L. 97–58, §2, Oct. 9, 1981, 95 Stat. 979; Pub. L. 98–364, title I, §101, July 17, 1984, 98 Stat. 440; Pub. L. 99–659, title IV, §411(a), Nov. 14, 1986, 100 Stat. 3741; Pub. L. 100–711, §§4(a), 5(c), (e)(1), Nov. 23, 1988, 102 Stat. 4765, 4769, 4771; Pub. L. 101–627, title IX, §901(g), Nov. 28, 1990, 104 Stat. 4467; Pub. L. 102–582, title I, §103, title IV, §401(b), Nov. 2, 1992, 106 Stat. 4903, 4909; Pub. L. 103–238, §4, Apr. 30, 1994, 108 Stat. 532; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 105–18, title II, §2003, June 12, 1997, 111 Stat. 174; Pub. L. 105–42, §4(a)–(c), Aug. 15, 1997, 111 Stat. 1123, 1124; Pub. L. 108–136, div. A, title III, §319(b), (c), Nov. 24, 2003, 117 Stat. 1434; Pub. L. 115–232, div. A, title III, §316, Aug. 13, 2018, 132 Stat. 1714.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -315,6 +317,8 @@ Subsec. (a)(4), (5). Pub. L. 97–58, §2(1)(C), added pars. (4) and (5).
 Subsec. (b). Pub. L. 97–58, §2(2), substituted "Except as provided in section 1379 of this title, the provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo who resides in Alaska and" for "The provisions of this chapter shall not apply with respect to the taking of any marine mammal by any Indian, Aleut, or Eskimo" in provisions preceding par. (1) and, in par. (1), substituted "is for subsistence purposes; or" for "is for subsistence purposes by Alaskan natives who reside in Alaska, or".
 
 <b>1973</b>—Subsec. (a)(3)(B). Pub. L. 93–205 substituted "or threatened species pursuant to the Endangered Species Act of 1973" for "pursuant to the Endangered Species Conservation Act of 1969".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

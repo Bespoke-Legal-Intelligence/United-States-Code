@@ -36,6 +36,8 @@ In subsection (a), the word "lend" is substituted for the word "issue", with res
 
 In subsection (b), the words "hereafter", "borrowed", and "under the authority of this section" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 7655 was renumbered section 8855 of this title.
@@ -43,6 +45,8 @@ A prior section 7655 was renumbered section 8855 of this title.
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4655 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

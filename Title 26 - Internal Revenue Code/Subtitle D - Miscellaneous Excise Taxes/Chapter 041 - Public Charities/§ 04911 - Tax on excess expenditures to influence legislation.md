@@ -16,7 +16,7 @@ For purposes of this section, the term "excess lobbying expenditures" means, for
 
 &emsp;(1) the amount by which the lobbying expenditures made by the organization during the taxable year exceed the lobbying nontaxable amount for such organization for such taxable year, or
 
-&emsp;(2) the amount by which the grass roots expenditures made by the organization during the taxable year exceed the grass roots nontaxable amount for such organization for such taxable year.
+&emsp;(2) the amount by which the grass roots expenditures made by the organization duringthe taxable year exceed the grass roots nontaxable amount for such organization for such taxable year.
 
 #### (c) Definitions
 
@@ -159,9 +159,13 @@ For purposes of this section—
 
 (Added Pub. L. 94–455, title XIII, §1307(b), Oct. 4, 1976, 90 Stat. 1723; amended Pub. L. 95–600, title VII, §703(g)(1), Nov. 6, 1978, 92 Stat. 2940.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Subsec. (c)(2). Pub. L. 95–600 substituted "exempt purpose expenditures" for "proposed expenditures" in heading of table.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1978 Amendment
 

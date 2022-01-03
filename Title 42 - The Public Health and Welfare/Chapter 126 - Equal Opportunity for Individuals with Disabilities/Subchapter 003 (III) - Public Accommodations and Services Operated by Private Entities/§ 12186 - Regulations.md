@@ -64,9 +64,13 @@ Standards included in regulations issued under subsections (a) and (b) shall be 
 
 (Pub. L. 101–336, title III, §306, July 26, 1990, 104 Stat. 361; Pub. L. 104–59, title III, §341, Nov. 28, 1995, 109 Stat. 608.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Subsec. (a)(2)(B)(iii). Pub. L. 104–59 substituted "3 years after the date of issuance of final regulations under clause (ii)" for "7 years after July 26, 1990" in subcl. (I) and "2 years after the date of issuance of such final regulations" for "6 years after July 26, 1990" in subcl. (II).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

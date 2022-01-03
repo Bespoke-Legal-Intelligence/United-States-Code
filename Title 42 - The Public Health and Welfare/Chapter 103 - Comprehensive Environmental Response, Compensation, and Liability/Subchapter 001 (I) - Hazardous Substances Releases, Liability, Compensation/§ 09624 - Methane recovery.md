@@ -22,6 +22,8 @@ Subsection (a) does not apply with respect to a release or threatened release of
 
 (Pub. L. 96–510, title I, §124, as added Pub. L. 99–499, title I, §124(a), Oct. 17, 1986, 100 Stat. 1688.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.

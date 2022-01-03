@@ -14,11 +14,15 @@ For purposes of this section, the term "executor" means the executor or administ
 
 (Added Pub. L. 91–614, title I, §101(e)(1), Dec. 31, 1970, 84 Stat. 1837; amended Pub. L. 91–614, title I, §101(f), Dec. 31, 1970, 84 Stat. 1838; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–614, §101(f), substituted "9 months" for "1 year".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

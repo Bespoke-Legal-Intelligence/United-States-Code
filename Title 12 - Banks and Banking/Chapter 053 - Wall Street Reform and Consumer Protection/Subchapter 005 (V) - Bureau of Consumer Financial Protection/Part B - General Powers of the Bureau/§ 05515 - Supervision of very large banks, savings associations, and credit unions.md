@@ -44,7 +44,7 @@ This section shall apply to any covered person that is—
 
 #### (1) The Bureau to have primary enforcement authority
 
-&emsp;To the extent that the Bureau and another Federal agency are authorized to enforce a Federal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
+&emsp;To the extent that the Bureau and another Federal agency are authorized to enforce aFederal consumer financial law, the Bureau shall have primary authority to enforce that Federal consumer financial law with respect to any person described in subsection (a).
 
 #### (2) Referral
 
@@ -126,7 +126,7 @@ A service provider to a person described in subsection (a) shall be subject to t
 
 #### (E) Prohibition against retaliation
 
-&emsp;&emsp;The Bureau and the prudential regulators shall prescribe rules to provide safeguards from retaliation against the insured depository institution, insured credit union, or other covered person described in subsection\(a) instituting an appeal under this paragraph, as well as their officers and employees.
+&emsp;&emsp;The Bureau and the prudential regulators shall prescribe rules to provide safeguards from retaliation against the insured depository institution, insured credit union, or other covered person described in subsection (a) instituting an appeal under this paragraph, as well as their officers and employees.
 
 #### (F) Limitation
 

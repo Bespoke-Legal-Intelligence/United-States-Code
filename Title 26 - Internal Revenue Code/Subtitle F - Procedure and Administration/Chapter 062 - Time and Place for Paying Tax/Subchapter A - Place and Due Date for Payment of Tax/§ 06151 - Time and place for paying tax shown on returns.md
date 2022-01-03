@@ -20,6 +20,8 @@ In any case in which a tax is required to be paid on or before a certain date, o
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 757; Pub. L. 89–713, §1(b), Nov. 2, 1966, 80 Stat. 1108; Pub. L. 94–452, §3(c)(2), Oct. 2, 1976, 90 Stat. 1514; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
@@ -27,6 +29,8 @@ In any case in which a tax is required to be paid on or before a certain date, o
 Subsec. (a). Pub. L. 94–452 substituted "subchapter," for "section,".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–713 substituted the revenue officer with whom the return is filed for the principal internal revenue officer for the internal revenue district in which the return is required to be filed as the description of the person to whom the tax is paid.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 
@@ -54,7 +58,7 @@ Interest on overpayments.—For purposes of section 6611(b) in the case of any o
 
 &emsp;&emsp;"(i) the date on which application for refund or credit of such overpayment is filed,
 
-&emsp;&emsp;"(ii) the due date prescribed by law (determined without extensions) for filing the return of taxunder chapter 1 of the Internal Revenue Code of 1986 for the taxable year the tax of which is being refunded or credited, or
+&emsp;&emsp;"(ii) the due date prescribed by law (determined without extensions) for filing the return of tax under chapter 1 of the Internal Revenue Code of 1986 for the taxable year the tax of which is being refunded or credited, or
 
 &emsp;&emsp;"(iii) the date of the enactment of this Act \[Oct. 2, 1976\].
 

@@ -106,7 +106,7 @@ There is established as an independent authority within the NTIA the "First Resp
 
 #### (3) Vacancies
 
-&emsp;A vacancy in the membership of the Board shall not affect the Board's powers, and shallbe filled in the same manner as the original member was appointed.
+&emsp;A vacancy in the membership of the Board shall not affect the Board's powers, and shall be filled in the same manner as the original member was appointed.
 
 #### (d) Chair
 

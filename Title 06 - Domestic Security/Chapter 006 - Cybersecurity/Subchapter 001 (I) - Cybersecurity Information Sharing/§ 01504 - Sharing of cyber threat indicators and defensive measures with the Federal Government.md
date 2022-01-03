@@ -66,7 +66,7 @@
 
 #### (1) Interim guidelines
 
-&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultation with heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in connection with activities authorized in this subchapter.
+&emsp;Not later than 60 days after December 18, 2015, the Attorney General and the Secretary of Homeland Security shall, in consultationwith heads of the appropriate Federal entities and in consultation with officers designated under section 2000ee–1 of title 42, jointly develop, submit to Congress, and make available to the public interim guidelines relating to privacy and civil liberties which shall govern the receipt, retention, use, and dissemination of cyber threat indicators by a Federal entity obtained in connection with activities authorized in this subchapter.
 
 #### (2) Final guidelines
 
@@ -96,7 +96,7 @@
 
 &emsp;&emsp;(E) include procedures for notifying entities and Federal entities if information received pursuant to this section is known or determined by a Federal entity receiving such information not to constitute a cyber threat indicator;
 
-&emsp;&emsp;(F) protect the confidentiality of cyber threat indicators containing personal information of specific individuals or information that identifies specific individuals to thegreatest extent practicable and require recipients to be informed that such indicators may only be used for purposes authorized under this subchapter; and
+&emsp;&emsp;(F) protect the confidentiality of cyber threat indicators containing personal information of specific individuals or information that identifies specific individuals to the greatest extent practicable and require recipients to be informed that such indicators may only be used for purposes authorized under this subchapter; and
 
 &emsp;&emsp;(G) include steps that may be needed so that dissemination of cyber threat indicators is consistent with the protection of classified and other sensitive national security information.
 
@@ -180,7 +180,7 @@
 
 &emsp;&emsp;(A) deemed voluntarily shared information and exempt from disclosure under section 552 of title 5 and any State, tribal, or local provision of law requiring disclosure of information or records; and
 
-&emsp;&emsp;(B) withheld, without discretion, from the public under section 552(b)(3)(B) of title 5 and any State, tribal, or local provision of law requiring disclosure of information or records.
+&emsp;&emsp;(B) withheld, without discretion, from the public under section 552(b)(3)(B) of title 5and any State, tribal, or local provision of law requiring disclosure of information or records.
 
 #### (4) Ex parte communications
 
@@ -238,7 +238,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), cyber threat indicators and defensive measures provided to the Federal Government under this subchapter shall not be used by anyFederal, State, tribal, or local government to regulate, including an enforcement action, the lawful activities of any non-Federal entity or any activities taken by a non-Federal entity pursuant to mandatory standards, including activities relating to monitoring, operating defensive measures, or sharing cyber threat indicators.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), cyber threat indicators and defensive measures provided to the Federal Government under this subchapter shall not be used by any Federal, State, tribal, or local government to regulate, including an enforcement action, the lawful activities of any non-Federal entity or any activities taken by a non-Federal entity pursuant to mandatory standards, including activities relating to monitoring, operating defensive measures, or sharing cyber threat indicators.
 
 #### (ii) Exceptions
 

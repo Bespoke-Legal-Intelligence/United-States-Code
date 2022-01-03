@@ -16,9 +16,11 @@ The Director of National Intelligence shall submit to the congressional intellig
 
 &emsp;&emsp;(A) a written notice that includes the date such covered policy document was issued and a summary of the subject matter addressed by such covered policy document; and
 
-&emsp;&emsp;(B) if the Director has issued any guidance or direction on implementation of such covered policy document or is implementing such covered policy document, a copy of the guidance or direction or a written description of such implementation.
+&emsp;&emsp;(B) if the Director has issued any guidance or direction on implementation of such covered policy document or is implementing such covered policy document, a copy of theguidance or direction or a written description of such implementation.
 
 (Pub. L. 115–31, div. N, title III, §310, May 5, 2017, 131 Stat. 815.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

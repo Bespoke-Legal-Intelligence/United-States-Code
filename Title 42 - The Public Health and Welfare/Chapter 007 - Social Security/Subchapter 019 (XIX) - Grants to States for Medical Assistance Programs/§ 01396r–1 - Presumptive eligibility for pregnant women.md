@@ -2,7 +2,7 @@
 
 #### (a) Ambulatory prenatal care
 
-A State plan approved under section 1396a of this title may provide for making ambulatory prenatal care available to a pregnant woman during a presumptive eligibility period.
+A State plan approved under section 1396a of this title may provide for making ambulatoryprenatal care available to a pregnant woman during a presumptive eligibility period.
 
 #### (b) Definitions
 
@@ -82,9 +82,11 @@ If the State has elected the option to provide a presumptive eligibility period 
 
 (Aug. 14, 1935, ch. 531, title XIX, §1920, as added Pub. L. 99–509, title IX, §9407(b), Oct. 21, 1986, 100 Stat. 2058; amended Pub. L. 100–360, title IV, §411(k)(16)(A), (B), July 1, 1988, 102 Stat. 799; Pub. L. 100–485, title VI, §608(d)(26)(L), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 101–508, title IV, §4605(a), (b), Nov. 5, 1990, 104 Stat. 1388–169; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(q)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397; Pub. L. 111–3, title I, §113(b)(2), Feb. 4, 2009, 123 Stat. 34; Pub. L. 111–148, title II, §§2001(a)(4)(B), (e)(2)(C), 2004(b), Mar. 23, 2010, 124 Stat. 274, 279, 283.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D)(i)(III), is Pub. L. 94–437, Sept. 30,1976, 90 Stat. 1400. Title V of the Indian Health Care Improvement Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 4(a) of the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (b)(2)(D)(ii)(II), is section 4(a) of Pub. L. 93–86, Aug. 10, 1973, 87 Stat. 249, which is set out as a note under section 612c of Title 7, Agriculture.
 
@@ -128,6 +130,8 @@ Subsec. (b)(2)(D)(iv). Pub. L. 100–360, §411(k)(16)(B)(iv), formerly §411(k)
 
 Subsec. (d)(1)(B). Pub. L. 100–360, §411(k)(16)(A), substituted "by a provider that is eligible for payments under the State plan" for "by a qualified provider".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by section 2004(b) of Pub. L. 111–148 effective Jan. 1, 2014, see section 2004(d) of Pub. L. 111–148, set out as an Effective and Termination Dates of 2010 Amendment note under section 1396a of this title.
@@ -142,7 +146,7 @@ Pub. L. 101–508, title IV, §4605(c), Nov. 5, 1990, 104 Stat. 1388–169, prov
 
 "(1) The amendments made by subsection (a) \[amending this section\] apply to payments under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-"(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus BudgetReconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\]."
+"(2) The amendment made by subsection (b) \[amending this section\] shall be effective as if included in the enactment of section 9407(b) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509, enacting this section\]."
 
 #### Effective Date of 1988 Amendments
 

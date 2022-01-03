@@ -20,9 +20,13 @@ R.S. 1122.
 
 The words "and shall be on the same footing with other officers of the Army, as to tenure of office, retirement, and pensions" are omitted as obsolete, since there is no distinction between the status of a chaplain as an officer and the status of other officers of the Air Force.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8581 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

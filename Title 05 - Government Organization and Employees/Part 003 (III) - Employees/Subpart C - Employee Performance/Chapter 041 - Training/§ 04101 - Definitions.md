@@ -80,7 +80,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1967</b>—Par. (2)(B). Pub. L. 90–206 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey"
 
-#### <b>Statutory Notes and Related Subsidiaries.</b>
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -90,11 +90,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 90–206 effective Dec. 16, 1967, see section 220(a)(1) of Pub. L. 90–206, set out as an Effective Date note under section 3110 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of Environmental Science Services Administration to National Oceanic and Atmospheric Administration, see Transfer of Functions note set out under section 5541 of this title.
-
-#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

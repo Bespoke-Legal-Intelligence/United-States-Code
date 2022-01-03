@@ -16,7 +16,7 @@ Acquisition From Commercial Providers.—The Administrator shall, to the extent 
 
 (c)
 
-Treatment of Space Science Data as Commercial Product or Commercial Service Under Acquisition Laws.—Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including chapters 137 and 140 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
+Treatment of Space Science Data as Commercial Product or Commercial Service Under Acquisition Laws.—Acquisitions of space science data by the Administrator shall be carried out in accordance with applicable acquisition laws and regulations (including applicable provisions of chapters 201 through 285, 341 through 343, and 363 of title 10). For purposes of such law and regulations, space science data shall be considered to be a commercial product or commercial service. Nothing in this subsection shall be construed to preclude the United States from acquiring, through contracts with commercial providers, sufficient rights in data to meet the needs of the scientific and educational community or the needs of other government activities.
 
 (d)
 
@@ -26,7 +26,7 @@ Safety Standards.—Nothing in this section shall be construed to prohibit the F
 
 Limitation.—This section does not authorize the Administration to provide financial assistance for the development of commercial systems for the collection of space science data.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3397; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(A), Aug. 13, 2018, 132 Stat. 1874.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3397; Pub. L. 115–232, div. A, title VIII, §836(g)(10)(A), Aug. 13, 2018, 132 Stat. 1874; Pub. L. 117–81, div. A, title XVII, §1702(l)(10), Dec. 27, 2021, 135 Stat. 2161.)
 
 Historical and Revision Notes
 
@@ -47,6 +47,8 @@ Pub. L. 105–303, title I, §105, Oct. 28, 1998, 112 Stat. 2852.
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–81 substituted "including applicable provisions of chapters 201 through 285, 341 through 343, and 363" for "including chapters 137 and 140".
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–232 substituted "Commercial Product or Commercial Service" for "Commercial Item" in heading and "commercial product or commercial service" for "commercial item" in text.
 

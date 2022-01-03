@@ -4,7 +4,7 @@
 
 The Supreme Court of Guam shall be the highest court of the judicial branch of Guam (excluding the District Court of Guam) and shall—
 
-&emsp;(1) have original jurisdiction over proceedings necessary to protect its appellate jurisdiction and supervisory authority and such other original jurisdiction as the laws of Guam may provide;
+&emsp;(1) have original jurisdiction over proceedings necessary to protect its appellate jurisdiction and supervisory authority and suchother original jurisdiction as the laws of Guam may provide;
 
 &emsp;(2) have jurisdiction to hear appeals over any cause in Guam decided by the Superior Court of Guam or other courts established under the laws of Guam;
 
@@ -46,9 +46,13 @@ The qualifications and duties of the justices and judges of the Supreme Court of
 
 (Aug. 1, 1950, ch. 512, §22A, as added Pub. L. 98–454, title VIII, §801, Oct. 5, 1984, 98 Stat. 1742; amended Pub. L. 108–378, §1(b), Oct. 30, 2004, 118 Stat. 2206.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Pub. L. 108–378 amended section generally, substituting provisions relating to Supreme Court of Guam and other courts for provisions consisting of subsecs. (a) to (c) relating to composition of local courts and establishment of appellate court, jurisdiction of courts, and practice and procedure in local courts and qualifications and duties of judges.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

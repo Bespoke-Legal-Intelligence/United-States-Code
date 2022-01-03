@@ -2,7 +2,7 @@
 
 #### (a) Application of chapter
 
-Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\],the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
+Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
 
 #### (b) Integration with other Acts
 
@@ -28,6 +28,8 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (Pub. L. 89–272, title II, §1006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802; amended Pub. L. 96–482, §3, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 98–616, title I, §102, title V, §501(f)(2), Nov. 8, 1984, 98 Stat. 3225, 3276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Water Pollution Control Act, referred to in subsecs. (a) and (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
@@ -42,7 +44,7 @@ The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, 
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, MineralLands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 
 #### Prior Provisions
 
@@ -56,11 +58,15 @@ Subsec. (b)(3). Pub. L. 98–616, §501(f)(2), added par. (3).
 
 <b>1980</b>—Subsec. (c). Pub. L. 96–482 added subsec. (c).
 
-#### Transfer of Functions
-
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Uranium Mill Tailings
 
 Pub. L. 98–616, title VII, §703, Nov. 8, 1984, 98 Stat. 3289, provided that: "Nothing in the Hazardous and Solid Waste Amendments of 1984 \[see Short Title of 1984 Amendment note set out under section 6901 of this title\] shall be construed to affect, modify, or amend the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7901 et seq.\]".
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

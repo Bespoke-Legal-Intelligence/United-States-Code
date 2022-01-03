@@ -66,7 +66,7 @@
 
 The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—
 
-&emsp;(1) the total cost for a project referred to in paragraph (1), (2), (3), or (4) of subsection (a)will exceed an amount that is equal to 125 percent of the cost baseline established under subsection (a) for that project; and
+&emsp;(1) the total cost for a project referred to in paragraph (1), (2), (3), or (4) of subsection (a) will exceed an amount that is equal to 125 percent of the cost baseline established under subsection (a) for that project; and
 
 &emsp;(2) in the case of a stockpile life extension project referred to in subsection (a)(1) or a major alteration project referred to in subsection (a)(2), the cost for any warhead in the project will exceed an amount that is equal to 150 percent of the cost baseline established under subsection (a)(1)(B) or (a)(2)(B), as applicable, for each warhead in that project.
 
@@ -110,7 +110,9 @@ A revised cost and schedule baseline established under subsection (c) shall—
 
 &emsp;(2) be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).
 
-(Pub. L. 107–314, div. D, title XLVII, §4713, as added Pub. L. 111–383, div. C, title XXXI, §3114(a), Jan. 7, 2011, 124 Stat. 4510; amended Pub. L. 112–239, div. C, title XXXI, §3131(t), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(h)(4), Dec. 26, 2013, 127 Stat. 1081; Pub. L. 113–291, div. C, title XXXI, §3115, Dec. 19, 2014, 128 Stat. 3888; Pub. L. 114–92, div. C, title XXXI, §§3113(a), 3114, Nov. 25, 2015, 129 Stat. 1191, 1193.)
+(Pub. L. 107–314, div. D, title XLVII, §4713, as added Pub. L. 111–383, div. C, title XXXI,§3114(a), Jan. 7, 2011, 124 Stat. 4510; amended Pub. L. 112–239, div. C, title XXXI, §3131(t), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(h)(4), Dec. 26, 2013, 127 Stat. 1081; Pub. L. 113–291, div. C, title XXXI, §3115, Dec. 19, 2014, 128 Stat. 3888; Pub. L. 114–92, div. C, title XXXI, §§3113(a), 3114, Nov. 25, 2015, 129 Stat. 1191, 1193.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

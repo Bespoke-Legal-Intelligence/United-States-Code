@@ -8,7 +8,7 @@ The Commission shall keep the Harmonized Tariff Schedule under continuous review
 
 &emsp;(2) to promote the uniform application of the Convention and particularly the Annex thereto;
 
-&emsp;(3) to ensure that the Harmonized Tariff Schedule is kept up-to-date in light of changes in technology or in patterns of international trade;
+&emsp;(3) to ensure that the Harmonized Tariff Schedule is kept up-to-date in light of changesin technology or in patterns of international trade;
 
 &emsp;(4) to alleviate unnecessary administrative burdens; and
 
@@ -44,9 +44,13 @@ The Commission may not recommend any modification to the Harmonized Tariff Sched
 
 (Pub. L. 100–418, title I, §1205, Aug. 23, 1988, 102 Stat. 1150.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Harmonized Tariff Schedule, referred to in subsecs. (a) and (d), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Commission Report on Operation of Implementation of Harmonized Tariff Schedule
 

@@ -10,7 +10,7 @@ For the purposes of this section the term "internee" means an individual who was
 
 &emsp;(A) in the case such individual was not employed prior to the beginning of such period, 40 multiplied by the minimum hourly rate or rates in effect at any such time under section 206(a)(1) of title 29, for each full week during such period; and
 
-&emsp;(B) in the case such individual who was employed prior to the beginning of such period, 40multiplied by the greater of (i) the highest hourly rate received during any such employment, or (ii) the minimum hourly rate or rates in effect at any such time under section 206(a)(1) of title 29, for each full week during such period.
+&emsp;(B) in the case such individual who was employed prior to the beginning of such period, 40 multiplied by the greater of (i) the highest hourly rate received during any such employment, or (ii) the minimum hourly rate or rates in effect at any such time under section 206(a)(1) of title 29, for each full week during such period.
 
 (2) This subsection shall not be applicable in the case of any monthly benefit or lump-sum death payment if—
 
@@ -20,7 +20,7 @@ For the purposes of this section the term "internee" means an individual who was
 
 > The provisions of clause (B) shall not apply in the case of any monthly benefit or lump-sum death payment under this subchapter if its application would reduce by $0.50 or less the primary insurance amount (as computed under section 415 of this title prior to any recomputation thereof pursuant to subsection (f) of such section) of the individual on whose wages and self-employment income such benefit or payment is based. The provisions of clause (B) shall also not apply for purposes of section 416(i)(3) of this title.
 
-(3) Upon application for benefits, a recalculation of benefits (by reason of this section), or a lump-sum death payment on the basis of the wages and self-employment income of any individual who was an internee, the Commissioner of Social Security shall accept the certification of the Secretary of Defense or his designee concerning any period of time for which an internee is to receive credit under paragraph (1) and shall make a decision without regard to clause (B) of paragraph (2) of this subsection unless the Commissioner has been notified by some other agency or instrumentality of the United States that, on the basis of the period for which such individual was an internee, a benefit described in clause (B) of paragraph (2) has been determined by such agency or instrumentality to be payable by it. If the Commissioner of Social Security has not been so notified, the Commissioner shall then ascertain whether some other agency or wholly owned instrumentality of the United States has decided that a benefit described in clause (B) of paragraph (2) is payable by it. If any such agency or instrumentality has decided, or thereafter decides, that such a benefit is payable by it, it shall so notify the Commissioner of Social Security, and the Commissioner of Social Security shall certify no further benefits for payment or shall recompute the amount of any further benefits payable, as may be required by this section.
+(3) Upon application for benefits, a recalculation of benefits (by reason of this section), or a lump-sum death payment on the basis of the wages and self-employment income of any individual who was an internee, the Commissionerof Social Security shall accept the certification of the Secretary of Defense or his designee concerning any period of time for which an internee is to receive credit under paragraph (1) and shall make a decision without regard to clause (B) of paragraph (2) of this subsection unless the Commissioner has been notified by some other agency or instrumentality of the United States that, on the basis of the period for which such individual was an internee, a benefit described in clause (B) of paragraph (2) has been determined by such agency or instrumentality to be payable by it. If the Commissioner of Social Security has not been so notified, the Commissioner shall then ascertain whether some other agency or wholly owned instrumentality of the United States has decided that a benefit described in clause (B) of paragraph (2) is payable by it. If any such agency or instrumentality has decided, or thereafter decides, that such a benefit is payable by it, it shall so notify the Commissioner of Social Security, and the Commissioner of Social Security shall certify no further benefits for payment or shall recompute the amount of any further benefits payable, as may be required by this section.
 
 (4) Any agency or wholly owned instrumentality of the United States which is authorized by any law of the United States to pay benefits, or has a system of benefits which are based, in whole or in part, on any period for which any individual was an internee shall, at the request of the Commissioner of Social Security, certify to the Commissioner, with respect to any individual who was an internee, such information as the Commissioner of Social Security deems necessary to carry out the Commissioner's functions under paragraph (3) of this subsection.
 
@@ -29,6 +29,8 @@ For the purposes of this section the term "internee" means an individual who was
 There are authorized to be appropriated to the Trust Funds and the Federal Hospital Insurance Trust Fund for the fiscal year ending June 30, 1978, such sums as the Commissioner of Social Security and the Secretary jointly determine would place the Trust Funds and the Federal Hospital Insurance Trust Fund in the position in which they would have been if the preceding provisions of this section had not been enacted.
 
 (Aug. 14, 1935, ch. 531, title II, §231, as added Pub. L. 92–603, title I, §142(a), Oct. 30, 1972, 86 Stat. 1367; amended Pub. L. 98–369, div. B, title VI, §2663(j)(2)(A)(iii), July 18, 1984, 98 Stat. 1170; Pub. L. 103–296, title I, §107(a)(1), (4), (c), Aug. 15, 1994, 108 Stat. 1477, 1478, 1481.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Subsec. (b)(4). Pub. L. 103–296, §107(a)(1), (4), substituted "Commissioner o
 Subsec. (c). Pub. L. 103–296, §107(c), substituted "Commissioner of Social Security and the Secretary jointly determine" for "Secretary determines".
 
 <b>1984</b>—Subsec. (b)(3), (4). Pub. L. 98–369 substituted "Health and Human Services" for "Health, Education, and Welfare" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

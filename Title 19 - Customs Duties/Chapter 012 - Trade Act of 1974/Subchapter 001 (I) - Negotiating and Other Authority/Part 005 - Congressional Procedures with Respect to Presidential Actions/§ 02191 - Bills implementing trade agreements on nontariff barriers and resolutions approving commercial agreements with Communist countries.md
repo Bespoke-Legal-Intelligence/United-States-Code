@@ -12,7 +12,7 @@ This section and sections 2192 and 2193 of this title are enacted by the Congres
 
 For purposes of this section—
 
-&emsp;(1) The term "implementing bill" means only a bill of either House of Congress which is introduced as provided in subsection (c)with respect to one or more trade agreements, or with respect to an extension described in section 3572(c)(3) of this title, submitted to the House of Representatives and the Senate under section 2112 of this title, section 3572 of this title, or section 4205(a)(1) of this title and which contains—
+&emsp;(1) The term "implementing bill" means only a bill of either House of Congress which is introduced as provided in subsection (c) with respect to one or more trade agreements, or with respect to an extension described in section 3572(c)(3) of this title, submitted to the House of Representatives and the Senate under section 2112 of this title, section 3572 of this title, or section 4205(a)(1) of this title and which contains—
 
 &emsp;&emsp;(A) a provision approving such trade agreement or agreements or such extension,
 
@@ -42,7 +42,7 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 &emsp;(B) the vote on final passage shall be on the implementing bill or approval resolution of the other House.
 
-(2) The provisions of paragraph (1) shall not apply in the Senate to an implementing revenue bill or resolution. An implementing revenue bill or resolution received from the House shall be referred to the appropriate committee or committees of the Senate. If such committee orcommittees have not reported such bill or resolution at the close of the 15th day after its receipt by the Senate (or, if later, before the close of the 45th day after the corresponding implementing revenue bill or resolution was introduced in the Senate), such committee or committees shall be automatically discharged from further consideration of such bill or resolution and it shall be placed on the calendar. A vote on final passage of such bill or resolution shall be taken in the Senate on or before the close of the 15th day after such bill or resolution is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill or resolution.
+(2) The provisions of paragraph (1) shall not apply in the Senate to an implementing revenue bill or resolution. An implementing revenue bill or resolution received from the House shall bereferred to the appropriate committee or committees of the Senate. If such committee or committees have not reported such bill or resolution at the close of the 15th day after its receipt by the Senate (or, if later, before the close of the 45th day after the corresponding implementing revenue bill or resolution was introduced in the Senate), such committee or committees shall be automatically discharged from further consideration of such bill or resolution and it shall be placed on the calendar. A vote on final passage of such bill or resolution shall be taken in the Senate on or before the close of the 15th day after such bill or resolution is reported by the committee or committees of the Senate to which it was referred, or after such committee or committees have been discharged from further consideration of such bill or resolution.
 
 (3) For purposes of paragraphs (1) and (2), in computing a number of days in either House, there shall be excluded any day on which that House is not in session.
 
@@ -70,6 +70,8 @@ No amendment to an implementing bill or approval resolution shall be in order in
 
 (Pub. L. 93–618, title I, §151, Jan. 3, 1975, 88 Stat. 2001; Pub. L. 100–418, title I, §1107(b)(1), Aug. 23, 1988, 102 Stat. 1135; Pub. L. 101–382, title I, §132(b)(2), Aug. 20, 1990, 104 Stat. 645; Pub. L. 103–465, title II, §282(c)(4), Dec. 8, 1994, 108 Stat. 4929; Pub. L. 107–210, div. B, title XXI, §2110(a)(1), Aug. 6, 2002, 116 Stat. 1019; Pub. L. 114–26, title I, §110(a)(6), June 29, 2015, 129 Stat. 358.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsecs. (b)(1), (c)(1). Pub. L. 114–26, §110(a)(6), substituted "section 4205(a)(1) of this title" for "section 3805(a)(1) of this title".
@@ -90,7 +92,9 @@ Subsec. (e)(2). Pub. L. 101–382, §132(b)(2)(D), (E), substituted "revenue bil
 
 <b>1988</b>—Subsec. (b)(1). Pub. L. 100–418 inserted reference to section 2903(a)(1) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV\(§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the date on which the WTOAgreement enters into force with respect to the United States (Jan. 1, 1995), and applicable with respect to investigations, reviews, and inquiries initiated and petitions filed under specified provisions of subtitle IV (§1671 et seq.) of chapter 4 of this title after such date, see section 291 of Pub. L. 103–465, set out as a note under section 1671 of this title.
 

@@ -24,7 +24,7 @@
 
 &emsp;(2) to permit, in time of peace, training and effective planning in each strategic area for the use and expansion of commercial, municipal, and private flying installations in time of war;
 
-&emsp;(3) to locate, in each strategic area in which it is considered necessary, adequate storage facilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force or the Space Force; and
+&emsp;(3) to locate, in each strategic area in which it is considered necessary, adequate storagefacilities for munitions and other articles necessary to facilitate the movement, concentration, maintenance, and operation of the Air Force or the Space Force; and
 
 &emsp;(4) to afford the maximum warning against surprise attack by enemy aircraft upon aviation of the United States and its necessary installations consistent with maintaining, in connection with existing or contemplated landing fields, the full power of the Air Force or the Space Force for operations necessary in the defense of the United States, and in the defense and reinforcement of the Commonwealths, possessions, and holdings.
 
@@ -90,7 +90,9 @@ In subsection (c), the introductory clause is substituted for 10:1343a (1st 41 w
 
 In subsection (d), clause (3) is substituted for 10: 1343b (last 26 words). 10:1043b (24 words before 1st proviso) is omitted as surplusage.
 
-In subsection (f), the word "shall" is substituted for the words "is further authorized and directed to". The word "provide" is substituted for the words "construct, install, and equip, or complete the construction, installation, and equipment". The words "technical buildings and utilities" are omitted as covered by the words "buildings" and "utilities". The words "sewer, water, power, station and aerodrome lighting" are omitted ascovered by the word "utilities". The words "communication systems" are substituted for the words "telephone and signal communications". The words "appurtenances to the foregoing" are substituted for the words "other essentials".
+In subsection (f), the word "shall" is substituted for the words "is further authorized and directed to". The word "provide" is substituted for the words "construct, install, and equip, or complete the construction, installation, and equipment". The words "technical buildings and utilities" are omitted as covered by the words "buildings" and "utilities". The words "sewer, water, power, station and aerodrome lighting" are omitted as covered by the word "utilities". The words "communication systems" are substituted for the words "telephone and signal communications". The words "appurtenances to the foregoing" are substituted for the words "other essentials".
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

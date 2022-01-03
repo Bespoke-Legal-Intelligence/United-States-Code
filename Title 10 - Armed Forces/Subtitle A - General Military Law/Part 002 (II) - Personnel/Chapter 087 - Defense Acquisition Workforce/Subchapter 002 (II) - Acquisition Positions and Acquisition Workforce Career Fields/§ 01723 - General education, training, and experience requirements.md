@@ -22,6 +22,8 @@ Limitation on Credit for Training or Education.—Not more than one year of a pe
 
 (Added Pub. L. 101–510, div. A, title XII, §1202(a), Nov. 5, 1990, 104 Stat. 1642; amended Pub. L. 104–201, div. A, title X, §1074(a)(9)(A), Sept. 23, 1996, 110 Stat. 2659; Pub. L. 111–383, div. A, title VIII, §§873(b), 874(a), Jan. 7, 2011, 124 Stat. 4303, 4304; Pub. L. 116–92, div. A, title VIII, §861(a)(4), (h), (j)(8), title IX, §902(18), Dec. 20, 2019, 133 Stat. 1515, 1518, 1520, 1545.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (a)(2). Pub. L. 116–92, §861(j)(8), substituted "section 1731 of this title" for "section 1733 of this title".
@@ -41,6 +43,8 @@ Subsec. (b)(1). Pub. L. 116–92, §861(a)(4)(B), substituted "direct" for "enco
 Subsecs. (b), (c). Pub. L. 111–383, §873(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–201 struck out "Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993." after first sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Information Technology Acquisition Workforce
 
@@ -62,7 +66,7 @@ Definitions.—In this section:
 
 &emsp;"(1) The term 'information technology' has the meaning provided such term in section 11101 of title 40, United States Code, and includes information technology incorporated into a major weapon system.
 
-&emsp;"(2) The term 'major weapon system' has the meaning provided such term in section 2379(f) of title 10, United States Code.
+&emsp;"(2) The term 'major weapon system' has the meaning provided such term in section 2379(f) of title 10, United States Code \[now 10 U.S.C. 3455(f)\].
 
 "(c)
 
@@ -74,5 +78,5 @@ Pub. L. 105–85, div. A, title VIII, §853, Nov. 18, 1997, 111 Stat. 1851, whic
 
 #### Fulfillment Standards for Mandatory Training
 
-Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, titleX, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
+Pub. L. 102–484, div. A, title VIII, §812(c), Oct. 23, 1992, 106 Stat. 2451, as amended by Pub. L. 105–85, div. A, title X, §1073(d)(2)(A), Nov. 18, 1997, 111 Stat. 1905, provided that the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Technology, was to develop, not later than 90 days after Oct. 23, 1992, fulfillment standards, and implement a program, for purposes of the training requirements of sections 1723, 1724, and 1735 of this title, and that the standards were to take effect as of Nov. 5, 1990, and cease to be in effect on Oct. 1, 1997.
 

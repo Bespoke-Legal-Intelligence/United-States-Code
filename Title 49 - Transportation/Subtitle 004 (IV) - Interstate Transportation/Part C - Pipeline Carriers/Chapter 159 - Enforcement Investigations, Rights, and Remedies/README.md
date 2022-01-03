@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Pub. L. 105–225, §7(d), Aug. 12, 1998, 112 Stat. 1512, made technical amendment to directory language of Pub. L. 104–287, §5(45)(A), effective Oct. 11, 1996. See 1996 Amendment note below.

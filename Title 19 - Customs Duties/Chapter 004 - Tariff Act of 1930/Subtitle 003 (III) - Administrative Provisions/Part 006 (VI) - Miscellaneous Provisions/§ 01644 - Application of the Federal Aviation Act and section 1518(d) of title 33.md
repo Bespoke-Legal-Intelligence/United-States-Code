@@ -6,6 +6,8 @@
 
 (June 17, 1930, ch. 497, title IV, §644, 46 Stat. 761; Pub. L. 96–467, §21(2), (3), Oct. 17, 1980, 94 Stat. 2228; Pub. L. 98–473, title II, §322, Oct. 12, 1984, 98 Stat. 2056.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Anti-Smuggling Act of 1935, referred to in subsec. (a), probably means the Anti-Smuggling Act which is act Aug. 5, 1935, ch. 438, 49 Stat. 517, as amended, which is classified principally to chapter 5 (§1701 et seq.) of this title. For complete classification of this Act to the Code, see section 1711 of this title and Tables.
@@ -16,7 +18,7 @@ In subsec. (a), "section 1644a(b)(1) of this title" substituted for "section 110
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted reference to section 1509 of title 49, Appendix, for reference to section 177 of former title 49, struck out reference to the Commissioner of Customs, and inserted reference to the Anti-Smuggling Act of 1935.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 substituted reference to section 1509 of title 49, Appendix, for reference to section 177 of former title 49, struck out reference tothe Commissioner of Customs, and inserted reference to the Anti-Smuggling Act of 1935.
 
 Subsec. (b). Pub. L. 98–473 reenacted subsec. (b) without change.
 

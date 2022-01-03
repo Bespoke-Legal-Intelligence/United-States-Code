@@ -22,7 +22,7 @@ Any person, upon whom any demand under section 1312 of this title for the produc
 
 (1) Whenever any attorney of the Department of Justice has been designated to appear before any court, grand jury, or Federal administrative or regulatory agency in any case or proceeding, the custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to such attorney such material, answers, or transcripts for official use in connection with any such case, grand jury, or proceeding as such attorney determines to be required. Upon the completion of any such case, grand jury, or proceeding, such attorney shall return to the custodian any such material, answers, or transcripts so delivered which have not passed into the control of such court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
-(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request, copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner and subject to such conditions as apply to the Department of Justice under this chapter.
+(2) The custodian of any documentary material, answers to interrogatories, or transcripts of oral testimony may deliver to the Federal Trade Commission, in response to a written request,copies of such material, answers, or transcripts for use in connection with an investigation or proceeding under the Commission's jurisdiction. Such material, answers, or transcripts may only be used by the Commission in such manner and subject to such conditions as apply to the Department of Justice under this chapter.
 
 #### (e) Return of material to producer
 
@@ -40,6 +40,8 @@ In the event of the death, disability, or separation from service in the Departm
 
 (Pub. L. 87–664, §4, Sept. 19, 1962, 76 Stat. 549; Pub. L. 94–435, title I, §103, Sept. 30, 1976, 90 Stat. 1387; Pub. L. 96–349, §§2(b)(4), 7(a)(2), Sept. 12, 1980, 94 Stat. 1155, 1158.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1314(d) of this title, referred to in subsec. (b), was redesignated section 1314(e) of this title by Pub. L. 96–349.
@@ -56,13 +58,15 @@ Subsec. (c)(3). Pub. L. 96–349, §§2(b)(4), 7(a)(2), inserted ", and, in the
 
 Subsec. (b). Pub. L. 94–435 struck out "issued" after "any demand", inserted "for the production of documentary material" before "has been duly served", and substituted "copies for originals of all or any part of such material" for "for copies of all or any part of such material originals thereof".
 
-Subsec. (c). Pub. L. 94–435, among other changes, inserted provisions relating to answers to interrogatories and transcripts of oral testimony and, in par. (1), substituted "of documentary material" for "thereof", in par. (2), inserted "by any duly authorized official or employee of the Department of Justice" after "for official use", and inserted a provision relating to the useof documentary material, answers to interrogatories, and transcripts in connection with the taking of oral testimony, in par. (3), inserted "Except as otherwise provided in this section" before "while in the possession", substituted "no documentary material" for "no material", "official" for "officer, member", and inserted provision relating to disclosure of information to Congress or authorized committees or subcommittees thereof, in par. (4), added cl. (B).
+Subsec. (c). Pub. L. 94–435, among other changes, inserted provisions relating to answers to interrogatories and transcripts of oral testimony and, in par. (1), substituted "of documentary material" for "thereof", in par. (2), inserted "by any duly authorized official or employee of the Department of Justice" after "for official use", and inserted a provision relating to the use of documentary material, answers to interrogatories, and transcripts in connection with the taking of oral testimony, in par. (3), inserted "Except as otherwise provided in this section" before "while in the possession", substituted "no documentary material" for "no material", "official" for "officer, member", and inserted provision relating to disclosure of information to Congress or authorized committees or subcommittees thereof, in par. (4), added cl. (B).
 
 Subsec. (d). Pub. L. 94–435, among other changes, in par. (1), inserted provisions relating to answers to interrogatories and transcripts of oral testimony, substituted a provision that an attorney designated under this section be from the Department of Justice for a provision that a designated attorney be appearing on behalf of the United States, provided that such an attorney can make an appearance under this section before a Federal administrative or regulatory agency in addition to a court or grand jury, and added par. (2).
 
 Subsec. (e). Pub. L. 94–435, among other changes, inserted provisions of subsec. (f) relating to the institution of a case or proceeding within a reasonable time after examination and analysis of any evidence assembled during the course of an investigation, and relating to written demand for the return of such material, and, in addition, provided that copies furnished the custodian pursuant to subsec. (b) of this section need not be returned by the custodian.
 
 Subsecs. (f), (g). Pub. L. 94–435 redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

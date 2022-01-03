@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(A) the term "reinspection" means—
 
-&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 ormore inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
+&emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
 
 &emsp;&emsp;&emsp;(ii) with respect to importers, 1 or more examinations conducted under section 381 of this title subsequent to an examination conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction;
 
@@ -94,7 +94,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The adjustment factor described in paragraph (1) shall be the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year, but in no case shall such adjustment factor be negative.
+&emsp;&emsp;The adjustment factor described in paragraph (1) shall be the total percentagechange that occurred in the Consumer Price Index for all urban consumers (all items; United States city average) for the 12-month period ending June 30 preceding the fiscal year, but in no case shall such adjustment factor be negative.
 
 #### (B) Compounded basis
 

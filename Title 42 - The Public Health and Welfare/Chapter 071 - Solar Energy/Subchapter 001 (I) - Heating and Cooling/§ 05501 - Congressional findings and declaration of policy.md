@@ -20,13 +20,15 @@
 
 &emsp;(9) innovation and creativity in the development of solar heating and combined solar heating and cooling components and systems can be fostered through encouraging direct contact between the manufacturers of such systems and the architects, engineers, developers, contractors, and other persons interested in installing such systems in buildings;
 
-&emsp;(10) evaluation of the performance and reliability of solar heating and combined solar heating and cooling technologies can be expedited by testing under carefully controlled conditions; and
+&emsp;(10) evaluation of the performance and reliability of solar heating and combined solarheating and cooling technologies can be expedited by testing under carefully controlled conditions; and
 
 &emsp;(11) commercial application of solar heating and combined solar heating and cooling technologies can be expedited by early commercial demonstration under practical conditions.
 
 (b) It is therefore declared to be the policy of the United States and the purpose of this subchapter to provide for the demonstration within a three-year period of the practical use of solar heating technology, and to provide for the development and demonstration within a five-year period of the practical use of combined heating and cooling technology.
 
 (Pub. L. 93–409, §2, Sept. 3, 1974, 88 Stat. 1069.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1978 Amendment
 

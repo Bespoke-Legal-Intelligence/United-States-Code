@@ -10,7 +10,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;&emsp;(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, organizations operating under section 25 or 25A of the Federal Reserve Act \[12 U.S.C. 601 et seq., 611 et seq.\], and bank holding companies and their nonbank subsidiaries or affiliates (except brokers, dealers, persons providing insurance, investment companies, and investment advisers);
 
-&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), insured State branches of foreign banks, and anysubsidiaries of such entities (except brokers, dealers, persons providing insurance, investment companies, and investment advisers); and
+&emsp;&emsp;(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), insured State branches of foreign banks, and any subsidiaries of such entities (except brokers, dealers, persons providing insurance, investment companies, and investment advisers); and
 
 &emsp;&emsp;(D) savings associations the deposits of which are insured by the Federal Deposit Insurance Corporation, and any subsidiaries of such savings associations (except brokers, dealers, persons providing insurance, investment companies, and investment advisers).
 
@@ -48,6 +48,8 @@ The terms used in subsection (a)(1) that are not defined in this subchapter or o
 
 (Pub. L. 106–102, title V, §505, Nov. 12, 1999, 113 Stat. 1440; Pub. L. 111–203, title X, §1093(4), (5), July 21, 2010, 124 Stat. 2096, 2097.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§1021–1029A) and E (§§1051–1058) of the Act are classified generally to parts B (§5511 et seq.) and E (§5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
@@ -68,7 +70,7 @@ The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:" for "This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators,the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:".
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:" for "This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:".
 
 Subsec. (a)(1). Pub. L. 111–203, §1093(4)(B)(i), inserted "by the appropriate Federal banking agency, as defined in section 1813(q) of title 12," before "in the case of—".
 
@@ -83,6 +85,8 @@ Subsec. (a)(1)(D). Pub. L. 111–203, §1093(4)(B)(v), struck out ", by the Dir
 Subsec. (a)(8). Pub. L. 111–203, §1093(4)(C), added par. (8).
 
 Subsec. (b)(1). Pub. L. 111–203, §1093(5), inserted ", other than the Bureau of Consumer Financial Protection," before "shall implement the standards".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

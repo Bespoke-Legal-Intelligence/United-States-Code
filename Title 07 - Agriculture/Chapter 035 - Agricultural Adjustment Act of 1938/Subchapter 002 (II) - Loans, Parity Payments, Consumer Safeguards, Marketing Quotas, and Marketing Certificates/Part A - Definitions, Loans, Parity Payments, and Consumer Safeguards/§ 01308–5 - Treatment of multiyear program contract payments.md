@@ -6,9 +6,11 @@ Notwithstanding any other provision of law, in the event of a transfer of owners
 
 #### (b) Limitation
 
-Payments made pursuant to this section shall not exceed the amount to which the previous owner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
+Payments made pursuant to this section shall not exceed the amount to which the previousowner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
 
 (Pub. L. 99–198, title X, §1001F, formerly §1001E, as added Pub. L. 101–624, title XI, §1111(h), Nov. 28, 1990, 104 Stat. 3499; renumbered §1001F, Pub. L. 107–171, title I, §1604(1), May 13, 2002, 116 Stat. 215.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -17,6 +19,8 @@ Title XII, referred to in subsec. (a), is title XII of the Food Security Act of 
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

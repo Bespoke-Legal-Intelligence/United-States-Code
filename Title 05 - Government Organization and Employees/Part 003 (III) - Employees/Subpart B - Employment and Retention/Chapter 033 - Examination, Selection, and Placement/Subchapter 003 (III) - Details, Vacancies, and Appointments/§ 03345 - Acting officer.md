@@ -124,7 +124,7 @@ Sec. 5. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### EXECUTIVE DOCUMENTS
+#### EXECUTIVE DOCUMENTS DESIGNATING ORDERS OF SUCCESSION
 
 Provisions relating to the exercise of Presidential authorities to designate an order of succession for executive agencies and offices are contained in the following:
 
@@ -252,7 +252,9 @@ Memorandum of President of the United States, Feb. 12, 2003, 68 F.R. 10141, revo
 
 #### Environmental Protection Agency
 
-Ex. Ord. No. 13763, Jan. 13, 2017, 82 F.R. 7621.
+Ex. Ord. No. 13973, Jan. 8, 2021, 86 F.R. 3733.
+
+Ex. Ord. No. 13763, Jan. 13, 2017, 82 F.R. 7621, revoked by Ex. Ord. No. 13973, §3, Jan. 8, 2021, 86 F.R. 3734.
 
 Ex. Ord. No. 13737, Aug. 12, 2016, 81 F.R. 54713, revoked by Ex. Ord. No. 13763, §3, Jan. 13, 2017, 82 F.R. 7622.
 
@@ -373,4 +375,8 @@ Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75535.
 #### United States Section, International Boundary and Water Commission, United States and Mexico
 
 Memorandum of President of the United States, Aug. 31, 2009, 74 F.R. 45533.
+
+#### United States International Development Finance Corporation
+
+Memorandum of President of the United States, Jan. 8, 2021, 86 F.R. 2949.
 

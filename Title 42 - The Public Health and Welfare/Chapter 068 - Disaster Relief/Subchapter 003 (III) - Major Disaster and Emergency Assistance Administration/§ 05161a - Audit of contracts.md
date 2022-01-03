@@ -4,9 +4,13 @@ Notwithstanding any other provision of law, the Administrator of the Federal Eme
 
 (Pub. L. 115–254, div. D, §1225, Oct. 5, 2018, 132 Stat. 3458.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as part of the FAA Reauthorization Act of 2018, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

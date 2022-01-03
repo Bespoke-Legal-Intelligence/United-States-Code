@@ -44,15 +44,19 @@ The Secretary shall keep each participating jurisdiction informed of the status 
 
 (Pub. L. 101–625, title II, §218, Nov. 28, 1990, 104 Stat. 4109; Pub. L. 102–550, title II, §§203(c), 221, Oct. 28, 1992, 106 Stat. 3752, 3762.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §221, inserted "or within the boundaries of contiguous jurisdictions in joint projects which serve residents from both jurisdictions" after "boundaries".
 
 Subsec. (g). Pub. L. 102–550, §203(c), substituted "If" for "Except as provided in section 12747(b)(1)(A)(ii) of this title, if".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section "12753".</i>
 

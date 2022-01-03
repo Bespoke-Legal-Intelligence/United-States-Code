@@ -36,7 +36,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 #### (4) Venue
 
-&emsp;Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendantis an inhabitant or in which the defendant may be found.
+&emsp;Any civil action brought under paragraph (1) in a district court of the United States may be brought in the district in which the defendant is found, is an inhabitant, or transacts business or wherever venue is proper under section 1391 of title 28. Process in such action may be served in any district in which the defendant is an inhabitant or in which the defendant may be found.
 
 #### (5) No private right of action
 
@@ -74,7 +74,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
+Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "Rules".</i>
 

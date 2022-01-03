@@ -4,6 +4,8 @@ There are authorized to be appropriated to carry out this chapter $150,000,000 f
 
 (Pub. L. 101–625, title VIII, §863, Nov. 28, 1990, 104 Stat. 4384; Pub. L. 102–550, title VI, §606(b), Oct. 28, 1992, 106 Stat. 3806.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out this chapter $75,000,000 for fiscal year 1991, and $156,500,000 for fiscal year 1992."

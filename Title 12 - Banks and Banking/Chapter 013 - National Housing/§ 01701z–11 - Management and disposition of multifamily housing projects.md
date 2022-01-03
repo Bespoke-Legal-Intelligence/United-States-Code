@@ -152,7 +152,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) contract for management services for a multifamily housing project that is owned by the Secretary (or for which the Secretary is mortgagee in possession) with for-profit and nonprofit entities and public agencies (including public housing authorities) on a negotiated, competitive bid, or other basis at a price determined by the Secretary to be reasonable, with a manager the Secretary has determined is capable of—
 
-&emsp;&emsp;&emsp;(i) implementing a sound financial and physical management program that is designed to enable the project to meet anticipated operating and maintenance expenses to ensure that the project will remain in decent, safe, and sanitary condition and in compliance with any standardsunder applicable State or local laws, rules, ordinances, or regulations relating to the physical condition of the project and any such standards established by the Secretary;
+&emsp;&emsp;&emsp;(i) implementing a sound financial and physical management program that is designed to enable the project to meet anticipated operating and maintenance expenses to ensure that the project will remain in decent, safe, and sanitary condition and in compliance with any standards under applicable State or local laws, rules, ordinances, or regulations relating to the physical condition of the project and any such standards established by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) responding to the needs of the tenants and working cooperatively with tenant organizations;
 
@@ -242,7 +242,7 @@ In disposing of multifamily housing property under this section, consistent with
 
 &emsp;&emsp;&emsp;&emsp;(VII) section 8 of the United States Housing Act of 1937, following conversion from assistance under section 101 of the Housing and Urban Development Act of 1965; and
 
-&emsp;&emsp;&emsp;(ii) tenant-based assistance under section 8 of the United States Housing Act of 1937 for families that are preexisting tenants of the project in units that, immediately before foreclosure or acquisition of the project by the Secretary, were covered by an assistance contract under the loan management set-aside program under section 8(b) of the United States Housing Act of 1937.
+&emsp;&emsp;&emsp;(ii) tenant-based assistance under section 8 of the United States Housing Act of 1937 for families that are preexisting tenants of the project in units that, immediately before foreclosure or acquisition ofthe project by the Secretary, were covered by an assistance contract under the loan management set-aside program under section 8(b) of the United States Housing Act of 1937.
 
 #### (2) Annual contribution contracts for tenant-based assistance
 
@@ -296,7 +296,7 @@ In addition to the actions required under subsection (e) for a subsidized, forme
 
 #### (4) Up-front grants
 
-&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2), the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 only to the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
+&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2), the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs. This paragraph shall be effective during fiscal years 2006 through 2010 onlyto the extent that such budget authority is made available for use under this paragraph in advance in appropriation Acts.
 
 #### (5) Tenant-based assistance
 
@@ -398,7 +398,7 @@ Contracts for project-based rental assistance under section 8 of the United Stat
 
 #### (2) Right of first refusal
 
-&emsp;During the 90-day period, the Secretary may not sell or offer to sell the multifamily housing project other than to a party notified under paragraph (1), unless the unit of general local government and the designated State agency or agencies notify the Secretary that they will not make an offer to purchase the project. The Secretary shall accept a bona fide offer to purchase the project made during suchperiod if it complies with the terms and conditions of the disposition plan for the project or is otherwise acceptable to the Secretary.
+&emsp;During the 90-day period, the Secretary may not sell or offer to sell the multifamily housing project other than to a party notified under paragraph (1), unless the unit of general local government and the designated State agency or agencies notify the Secretary that they will not make an offer to purchase the project. The Secretary shall accept a bona fide offer to purchase the project made during such period if it complies with the terms and conditions of the disposition plan for the project or is otherwise acceptable to the Secretary.
 
 #### (3) Procedure
 
@@ -524,7 +524,7 @@ Section was enacted as part of the Housing and Community Development Amendments 
 
 <b>1998</b>—Subsec. (g)(2). Pub. L. 105–276 substituted "any system of preferences established pursuant to section 6(c)(4)(A), 8(d)(1)(A), or 8(o)(6)(A)" for "the preferences for assistance under sections 6(c)(4)(A)(i), 8(d)(1)(A)(i), and 8(o)(3)(B)".
 
-<b>1994</b>—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) tomanagement or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (l) to project-based assistance.
+<b>1994</b>—Pub. L. 103–233 amended section generally, substituting present provisions for former provisions which related, in subsec. (a) to goals, in subsec. (b) to management or disposal of property by negotiated competitive bids, in subsec. (c) to maintenance of housing projects, in subsec. (d) to financial assistance to owner, in subsec. (e) to right of first refusal, in subsec. (f) to displacement of tenants and relocation assistance, in subsec. (g) to assignment or partial payment of mortgages, in subsec. (h) to limitations on certain project, loan, and mortgage sales, in subsec. (i) to definition of multifamily housing project, in subsec. (j) to rules and regulations, in subsec. (k) to annual report describing status of projects, and in subsec. (l) to project-based assistance.
 
 <b>1993</b>—Subsec. (l). Pub. L. 103–120 added subsec. (l).
 
@@ -614,7 +614,7 @@ Pub. L. 109–171, title II, §§2001, 2002, Feb. 8, 2006, 120 Stat. 7, 8, provi
 
 &emsp;"(4) The term 'loan market value' means the value of a multifamily loan, without taking into account any affordability requirements.
 
-&emsp;"(5) The term 'multifamily real property' means any rental or cooperative housing project of 5 or more units owned by the Secretary that prior to acquisition by the Secretary was security for a loan or loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
+&emsp;"(5) The term 'multifamily real property' means any rental or cooperative housing project of 5 ormore units owned by the Secretary that prior to acquisition by the Secretary was security for a loan or loans insured under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\].
 
 &emsp;"(6) The term 'multifamily loan' means a loan held by the Secretary and secured by a multifamily rental or cooperative housing project of 5 or more units that was formerly insured under title II of the National Housing Act.
 
@@ -652,5 +652,5 @@ Pub. L. 103–233, title I, §101(a), Apr. 11, 1994, 108 Stat. 343, provided tha
 
 &emsp;"(6) the current statutory framework governing the disposition of multifamily housing projects effectively impedes the Government's ability to dispose of properties, protect tenants, and ensure that projects are maintained over time."
 
-Pub. L. 100–242, title I, §184, Feb. 5, 1988, 101 Stat. 1872, as amended by Pub. L. 101–625, title V, §580, Nov. 28,1990, 104 Stat. 4245, provided for establishment of demonstration program for multifamily housing disposition partnerships, together with requirements relating to participation by State housing finance agencies in sale of such housing and cooperation between Secretary of Housing and Urban Development and such agencies, as well as termination of such program at end of Sept. 30, 1991, with certain exceptions, with report to Congress required to be submitted by Secretary not later than 6 months after Sept. 30, 1991, prior to repeal by Pub. L. 103–233, title I, §102, Apr. 11, 1994, 108 Stat. 358.
+Pub. L. 100–242, title I, §184, Feb. 5, 1988, 101 Stat. 1872, as amended by Pub. L. 101–625, title V, §580, Nov. 28, 1990, 104 Stat. 4245, provided for establishment of demonstration program for multifamily housing disposition partnerships, together with requirements relating to participation by State housing finance agencies in sale of such housing and cooperation between Secretary of Housing and Urban Development and such agencies, as well as termination of such program at end of Sept. 30, 1991, with certain exceptions, with report to Congress required to be submitted by Secretary not later than 6 months after Sept. 30, 1991, prior to repeal by Pub. L. 103–233, title I, §102, Apr. 11, 1994, 108 Stat. 358.
 

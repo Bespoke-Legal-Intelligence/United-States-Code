@@ -4,11 +4,11 @@
 
 (1) The head of each Federal Response Plan agency shall develop and maintain an inventory of physical equipment and assets under the jurisdiction of that agency that could be made available to aid State and local officials in search and rescue and other disaster management and mitigation efforts associated with an emergency involving weapons of mass destruction. The agency head shall submit a copy of the inventory, and any updates of the inventory, to the Administrator of the Federal Emergency Management Agency for inclusion in the master inventory required under subsection (b).
 
-(2) Each inventory shall include a separate listing of any equipment that is excess to theneeds of that agency and could be considered for disposal as excess or surplus property for use for response and training with regard to emergencies involving weapons of mass destruction.
+(2) Each inventory shall include a separate listing of any equipment that is excess to the needs of that agency and could be considered for disposal as excess or surplus property for use for response and training with regard to emergencies involving weapons of mass destruction.
 
 #### (b) Master inventory
 
-The Administrator of the Federal Emergency Management Agency shall compile and maintain a comprehensive listing of all inventories prepared under subsection (a). The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
+The Administrator of the Federal Emergency Management Agency shall compile and maintaina comprehensive listing of all inventories prepared under subsection (a). The first such master list shall be completed not later than December 31, 1997, and shall be updated annually thereafter.
 
 #### (c) Addition to Federal response plan
 
@@ -23,6 +23,8 @@ The Administrator of the Federal Emergency Management Agency, in consultation wi
 The Administrator of the Federal Emergency Management Agency shall design and maintain a system to give Federal, State, and local officials access to the inventory listing and database maintained under this section in the event of an emergency involving weapons of mass destruction or to prepare and train to respond to such an emergency. The system shall include a secure but accessible emergency response hotline to access information and request assistance.
 
 (Pub. L. 104–201, div. A, title XIV, §1417, Sept. 23, 1996, 110 Stat. 2724; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

@@ -20,7 +20,7 @@ Another section 1768 of Pub. L. 99–198, cited as a credit to this section, ame
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–198 effective Dec. 23, 1985, except as otherwise provided, see section 1768(f) of Pub. L. 99–198, set out as a note under section 151 of this title.
+Amendment by Pub. L. 99–198 effective Dec. 23, 1985, except as otherwise provided, see section 1768(f) of Pub.L. 99–198, set out as a note under section 151 of this title.
 
 #### Transfer of Functions
 

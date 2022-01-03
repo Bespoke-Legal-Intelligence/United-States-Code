@@ -8,7 +8,7 @@ The Secretary is authorized, upon such terms and conditions as he may prescribe,
 
 As used in this section—
 
-&emsp;(1) the term "financial institution" means a lender approved by the Secretary as eligiblefor insurance under section 1703 of this title or a mortgagee approved under section 1709(b)(1) of this title; and
+&emsp;(1) the term "financial institution" means a lender approved by the Secretary as eligible for insurance under section 1703 of this title or a mortgagee approved under section 1709(b)(1) of this title; and
 
 &emsp;(2) the term "homeowner" means a lessee under a long-term ground lease.
 

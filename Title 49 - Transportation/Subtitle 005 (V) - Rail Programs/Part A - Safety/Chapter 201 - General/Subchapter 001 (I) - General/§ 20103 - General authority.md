@@ -14,7 +14,71 @@ Consideration of Information and Standards.—In prescribing regulations and iss
 
 (d)
 
-Nonemergency Waivers.—The Secretary may waive compliance with any part of a regulation prescribed or order issued under this chapter if the waiver is in the public interest and consistent with railroad safety. The Secretary shall make public the reasons for granting the waiver.
+Nonemergency Waivers.—
+
+&emsp;(1)
+
+In general.—The Secretary of Transportation may waive, or suspend the requirement to comply with, any part of a regulation prescribed or an order issued under this chapter if such waiver or suspension is in the public interest and consistent with railroad safety.
+
+&emsp;(2)
+
+Notice required.—The Secretary shall—
+
+&emsp;&emsp;(A) provide timely public notice of any request for a waiver under this subsection or for a suspension under subpart E of part 211 of title 49, Code of Federal Regulations, or successor regulations;
+
+&emsp;&emsp;(B) make available the application for such waiver or suspension and any nonconfidential underlying data to interested parties;
+
+&emsp;&emsp;(C) provide the public with notice and a reasonable opportunity to comment on a proposed waiver or suspension under this subsection before making a final decision; and
+
+&emsp;&emsp;(D) publish on a publicly accessible website the reasons for granting each such waiver or suspension.
+
+&emsp;(3)
+
+Information protection.—Nothing in this subsection may be construed to require the release of information protected by law from public disclosure.
+
+&emsp;(4)
+
+Rulemaking.—
+
+&emsp;&emsp;(A)
+
+In general.—Not later than 1 year after the first day on which a waiver underthis subsection or a suspension under subpart E of part 211 of title 49, Code of Federal Regulations, or successor regulations, has been in continuous effect for a 6-year period, the Secretary shall complete a review and analysis of such waiver or suspension to determine whether issuing a rule that is consistent with the waiver is—
+
+&emsp;&emsp;&emsp;(i) in the public interest; and
+
+&emsp;&emsp;&emsp;(ii) consistent with railroad safety.
+
+&emsp;&emsp;(B)
+
+Factors.—In conducting the review and analysis under subparagraph (A), the Secretary shall consider—
+
+&emsp;&emsp;&emsp;(i) the relevant safety record under the waiver or suspension;
+
+&emsp;&emsp;&emsp;(ii) the likelihood that other entities would have similar safety outcomes;
+
+&emsp;&emsp;&emsp;(iii) the materials submitted in the applications, including any comments regarding such materials; and
+
+&emsp;&emsp;&emsp;(iv) related rulemaking activity.
+
+&emsp;&emsp;(C)
+
+Notice and comment.—
+
+&emsp;&emsp;&emsp;(i)
+
+In general.—The Secretary shall publish the review and analysis required under this paragraph in the Federal Register, which shall include a summary of the data collected and all relevant underlying data, if the Secretary decides not to initiate a regulatory update under subparagraph (D).
+
+&emsp;&emsp;&emsp;(ii)
+
+Notice of proposed rulemaking.—The review and analysis under this paragraph shall be included as part of the notice of proposed rulemaking if the Secretary initiates a regulatory update under subparagraph (D).
+
+&emsp;&emsp;(D)
+
+Regulatory update.—The Secretary may initiate a rulemaking to incorporate relevant aspects of a waiver under this subsection or a suspension under subpart E of part 211 of title 49, Code of Federal Regulations, or successor regulations, into the relevant regulation, to the extent the Secretary considers appropriate.
+
+&emsp;(5)
+
+Rule of construction.—Nothing in this subsection may be construed to delay any waiver granted pursuant to this subsection that is in the public interest and consistent with railroad safety.
 
 (e)
 
@@ -22,7 +86,7 @@ Hearings.—The Secretary shall conduct a hearing as provided by section 553 of 
 
 (f)
 
-Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress notlater than September 30, 1995, on actions taken under this subsection.
+Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress not later than September 30, 1995, on actions taken under this subsection.
 
 (g)
 
@@ -54,7 +118,7 @@ Consultation.—In granting a waiver under this subsection, the Secretary shall 
 
 Emergency situation; emergency event.—In this subsection, the terms "emergency situation" and "emergency event" mean a natural or manmade disaster, such as a hurricane, flood, earthquake, mudslide, forest fire, snowstorm, terrorist act, biological outbreak, release of a dangerous radiological, chemical, explosive, or biological material, or a war-related activity, that poses a risk of death, serious illness, severe injury, or substantial property damage. The disaster may be local, regional, or national in scope.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 110–432, div. A, title III, §308, Oct. 16, 2008, 122 Stat. 4881.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319; Pub. L. 110–432, div. A, title III, §308, Oct. 16, 2008, 122 Stat. 4881; Pub. L. 117–58, div. B, title II, §22411, Nov. 15, 2021, 135 Stat. 742.)
 
 Historical and Revision Notes
 
@@ -98,7 +162,11 @@ In subsection (b), the words "within 180 days after July 8, 1976" are omitted as
 
 In subsection (d), the words "after hearing in accordance with subsection (b) of this section" are omitted as surplus because of the language restated in subsection (e) of this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Subsec. (d). Pub. L. 117–58 amended subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary may waive compliance with any part of a regulation prescribed or order issued under this chapter if the waiver is in the public interest and consistent with railroad safety. The Secretary shall make public the reasons for granting the waiver."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–432, §308(1), substituted "Nonemergency Waivers" for "Waivers" in heading.
 
@@ -109,6 +177,8 @@ Subsec. (g). Pub. L. 110–432, §308(3), added subsec. (g).
 <b>2002</b>—Subsec. (a). Pub. L. 107–296 inserted at end "When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary."
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–440 added subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 
@@ -156,13 +226,21 @@ Supporting Research and Analysis.—In support of the proceeding required under 
 
 Report.—If, on the basis of the proceeding required under paragraph (1) of this subsection, the Secretary decides not to prescribe regulations, the Secretary shall report to Congress on the reasons for that decision."
 
+#### Railroad Point of Contact for Public Safety Issues
+
+Pub. L. 117–58, div. B, title II, §22426, Nov. 15, 2021, 135 Stat. 756, provided that: "All railroads shall—
+
+&emsp;"(1) provide railroad contact information for public safety issues, including a telephone number, to the relevant Federal, State, and local oversight agencies; and
+
+&emsp;"(2) post the information described in paragraph (1) on a publicly accessible website."
+
 #### Real-Time Emergency Response Information
 
-Pub. L. 114–94, div. A, title VII, §7302, Dec. 4, 2015, 129 Stat. 1594, provided that:
+Pub. L. 114–94, div. A, title VII, §7302, Dec. 4, 2015, 129 Stat. 1594, as amended by Pub. L. 117–58, div. B, title VI, §26003, Nov. 15, 2021, 135 Stat. 883, provided that:
 
 "(a)
 
-In General.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary \[of Transportation\], in consultation with appropriate Federal agencies, shall issue regulations that—
+In General.—Not later than December 5, 2022, the Secretary \[of Transportation\], in consultation with appropriate Federal agencies, shall issue regulations that—
 
 &emsp;"(1) require a Class I railroad transporting hazardous materials—
 
@@ -176,11 +254,9 @@ In General.—Not later than 1 year after the date of enactment of this Act \[De
 
 &emsp;&emsp;&emsp;"(iv) an emergency response point of contact designated by the Class I railroad; and
 
-&emsp;&emsp;"(B) to enter into a memorandum of understanding with each applicable fusion center to provide the fusion center with secure and confidential access to the electronic train consist information described in subparagraph (A) for each train transporting hazardous materials in the jurisdiction of the fusion center;
+&emsp;&emsp;"(B) to provide the electronic train consist information described in subparagraph (A) to authorized State and local first responders, emergency response officials, and law enforcement personnel that are involved in the response to, or investigation of, an accident, incident, or public health or safety emergency involving the rail transportation of hazardous materials;
 
-&emsp;"(2) require each applicable fusion center to provide the electronic train consist information described in paragraph (1)(A) to State and local first responders, emergency response officials, and law enforcement personnel that are involved in the response to or investigation of an accident, incident, or public health or safety emergency involving the rail transportation of hazardous materials and that request such electronic train consist information;
-
-&emsp;"(3) require each Class I railroad to provide advanced notification and information on high-hazard flammable trains to each State emergency response commission, consistent with the notification content requirements in Emergency Order Docket No. DOT–OST–2014–0067, including—
+&emsp;"(2) require each Class I railroad to provide advanced notification and information on high-hazard flammable trains to each State emergency response commission, consistent with the notification content requirements in Emergency Order Docket No. DOT–OST–2014–0067, including—
 
 &emsp;&emsp;"(A) a reasonable estimate of the number of implicated trains that are expected to travel, per week, through each county within the applicable State;
 
@@ -194,13 +270,13 @@ In General.—Not later than 1 year after the date of enactment of this Act \[De
 
 &emsp;&emsp;"(F) a point of contact at the Class I railroad responsible for serving as the point of contact for State emergency response centers and local emergency responders related to the Class I railroad's transportation of such liquid.
 
-&emsp;"(4) require each applicable State emergency response commission to provide to a political subdivision of a State, or public agency responsible for emergency response or law enforcement, upon request of the political subdivision or public agency, the information the commission receives from a Class I railroad pursuant to paragraph (3), including, for any such political subdivision or public agency responsible for emergency response or law enforcement that makes an initial request for such information, any updates received by the State emergency response commission.
+&emsp;"(3) require each applicable State emergency response commission to provide to a political subdivision of a State, or public agency responsible for emergency response or law enforcement, upon request of the political subdivision or public agency, the information the commission receives from a Class I railroad pursuant to paragraph (2), including, for any such political subdivision or public agency responsible for emergency response or law enforcement that makes an initial request for such information, any updates received by the State emergency response commission.
 
-&emsp;"(5) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld, the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials;
+&emsp;"(4) prohibit any Class I railroad, employee, or agent from withholding, or causing to be withheld, the train consist information from first responders, emergency response officials, and law enforcement personnel described in paragraph (2) in the event of an incident, accident, or public health or safety emergency involving the rail transportation of hazardous materials;
 
-&emsp;"(6) establish security and confidentiality protections, including protections from the public release of proprietary information or security-sensitive information, to prevent the release to unauthorized persons any electronic train consist information or advanced notification or information provided by Class I railroads under this section; and
+&emsp;"(5) establish security and confidentiality protections, including protections from the public release of proprietary information or security-sensitive information, to prevent the release to unauthorized persons any electronic train consist information or advanced notification or information provided by Class I railroads under this section; and
 
-&emsp;"(7) allow each Class I railroad to enter into a memorandum of understanding with any Class II railroad or Class III railroad that operates trains over the Class I railroad's line to incorporate the Class II railroad or Class III railroad's train consist information within the existing framework described in paragraph (1).
+&emsp;"(6) allow each Class I railroad to enter into a memorandum of understanding with any Class II railroad or Class III railroad that operates trains over the Class I railroad's line to incorporate the Class II railroad or Class III railroad's train consist information within the existing framework described in paragraph (1).
 
 "(b)
 
@@ -208,35 +284,27 @@ Definitions.—In this section:
 
 &emsp;"(1)
 
-Applicable fusion center.—The term 'applicable fusion center' means a fusion center with responsibility for a geographic area in which a Class I railroad operates.
+Class i railroad; class ii railroad; class iii railroad.—The terms 'Class I railroad', 'Class II railroad', and 'Class III railroad' have the meaning given those terms in section 20102 of title 49, United States Code.
 
 &emsp;"(2)
 
-Class i railroad; class ii railroad; class iii railroad.—The terms 'Class I railroad', 'Class II railroad', and 'Class III railroad' have the meaning given those terms in section 20102 of title 49, United States Code.
+Class 3 flammable liquid.—The term 'Class 3 flammable liquid' has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations.
 
 &emsp;"(3)
 
-Class 3 flammable liquid.—The term 'Class 3 flammable liquid' has the meaning given the term flammable liquid in section 173.120(a) of title 49, Code of Federal Regulations.
+Hazardous material.—The term 'hazardous material' means a substance or material the Secretary designates as hazardous under section 5103 of title 49, United States Code.
 
 &emsp;"(4)
 
-Fusion center.—The term 'fusion center' has the meaning given the term in section 210A(j) of the Homeland Security Act of 2002 (6 U.S.C. 124h(j)).
-
-&emsp;"(5)
-
-Hazardous material.—The term 'hazardous material' means a substance or material the Secretary designates as hazardous under section 5103 of title 49, United States Code.
-
-&emsp;"(6)
-
 High-hazard flammable train.—The term 'high-hazard flammable train' means a single train transporting 20 or more tank cars loaded with a Class 3 flammable liquid in a continuous block or a single train transporting 35 or more tank cars loaded with a Class 3 flammable liquid throughout the train consist.
 
-&emsp;"(7)
+&emsp;"(5)
 
 Train consist.—The term 'train consist' includes, with regard to a specific train, the number of rail cars and the commodity transported by each rail car.
 
 "(c)
 
-Savings Clause.—Nothing in this section may be construed to prohibit a Class I railroad from voluntarily entering into a memorandum of understanding, as described in subsection (a)(1)(B), with a State emergency response commission or an entity representing or including first responders, emergency response officials, and law enforcement personnel."
+Savings Clause.—Nothing in this section may be construed to prohibit a Class I railroad from voluntarily entering into a memorandum of understanding with a State emergency response commission or an entity representing or including first responders, emergency response officials, and law enforcement personnel."
 
 #### Alerters
 

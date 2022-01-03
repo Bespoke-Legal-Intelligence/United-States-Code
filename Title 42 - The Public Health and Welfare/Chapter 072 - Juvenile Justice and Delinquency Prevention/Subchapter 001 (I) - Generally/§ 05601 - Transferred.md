@@ -1,8 +1,12 @@
 ### §5601. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5601 was editorially reclassified as section 11101 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1994 Amendment
 

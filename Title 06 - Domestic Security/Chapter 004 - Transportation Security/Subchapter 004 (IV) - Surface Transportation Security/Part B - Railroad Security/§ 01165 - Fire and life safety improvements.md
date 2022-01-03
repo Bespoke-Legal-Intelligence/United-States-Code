@@ -36,7 +36,7 @@ There are authorized to be appropriated to the Secretary of Transportation for m
 
 #### (b) Infrastructure upgrades
 
-Out of funds appropriated pursuant to section 1153 of this title, there shall be made available to the Secretary of Transportation for fiscal year 2008, $3,000,000 for the preliminary design ofoptions for a new tunnel on a different alignment to augment the capacity of the existing Baltimore tunnels.
+Out of funds appropriated pursuant to section 1153 of this title, there shall be made available to the Secretary of Transportation for fiscal year 2008, $3,000,000 for the preliminary design of options for a new tunnel on a different alignment to augment the capacity of the existing Baltimore tunnels.
 
 #### (c) Availability of amounts
 

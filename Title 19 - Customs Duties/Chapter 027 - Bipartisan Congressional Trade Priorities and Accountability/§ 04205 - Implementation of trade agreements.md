@@ -76,7 +76,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under section 4202(b) of this title if during the 60-day period beginning on the date that one House of Congress agrees to a procedural disapproval resolution for lack of notice or consultations with respect to such trade agreement or agreements, the other House separately agrees to a procedural disapproval resolution with respect to such trade agreement or agreements.
+&emsp;&emsp;The trade authorities procedures shall not apply to any implementing bill submitted with respect to a trade agreement or trade agreements entered into under section4202(b) of this title if during the 60-day period beginning on the date that one House of Congress agrees to a procedural disapproval resolution for lack of notice or consultations with respect to such trade agreement or agreements, the other House separately agrees to a procedural disapproval resolution with respect to such trade agreement or agreements.
 
 #### (B) Procedural disapproval resolution
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;(ii) For purposes of clause (i) and paragraphs (3)(C) and (4)(C), the President has "failed or refused to notify or consult in accordance with the Bipartisan Congressional Trade Priorities and Accountability Act of 2015" on negotiations with respect to a trade agreement or trade agreements if—
 
-&emsp;&emsp;&emsp;(I) the President has failed or refused to consult (as the case may be) in accordance with sections 4203 and 4204 of this title andthis section with respect to the negotiations, agreement, or agreements;
+&emsp;&emsp;&emsp;(I) the President has failed or refused to consult (as the case may be) in accordance with sections 4203 and 4204 of this title and this section with respect to the negotiations, agreement, or agreements;
 
 &emsp;&emsp;&emsp;(II) guidelines under section 4203 of this title have not been developed or met with respect to the negotiations, agreement, or agreements;
 
@@ -152,7 +152,7 @@
 
 &emsp;&emsp;(i) Not later than the fourth legislative day after the date of introduction of the resolution, the Committee on Ways and Means shall meet to consider a resolution meeting the qualifications set forth in subparagraph (A).
 
-&emsp;&emsp;(ii) After consideration of one such resolution by the Committee on Ways and Means,this subparagraph shall not apply to any other such resolution.
+&emsp;&emsp;(ii) After consideration of one such resolution by the Committee on Ways and Means, this subparagraph shall not apply to any other such resolution.
 
 &emsp;&emsp;(iii) If the Committee on Ways and Means has not reported the resolution by the sixth legislative day after the date of its introduction, that committee shall be discharged from further consideration of the resolution.
 
@@ -240,6 +240,8 @@ Subsection (b) of this section, section 4202(c) of this title, and section 4204(
 
 (Pub. L. 114–26, title I, §106, June 29, 2015, 129 Stat. 350; Pub. L. 114–125, title IX, §914(e), (f)(2), Feb. 24, 2016, 130 Stat. 274, 276.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(2)(A)(ii)(I) and (b)(1)(B)(ii)(IV), was in the original "this title", meaning title I of Pub. L. 114–26, June 29, 2015, 129 Stat. 320, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under section 4201 of this title and Tables.
@@ -254,13 +256,17 @@ Subsec. (b)(6)(A). Pub. L. 114–125, §914(e)(2), substituted "listed as a tier
 
 Subsec. (b)(6)(B) to (E). Pub. L. 114–125, §914(e)(1), added subpars. (B) to (E) and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In this paragraph, the term 'minimum standards for the elimination of trafficking' means the standards set forth in section 108 of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7106)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Amendment by Pub. L. 114–125 effective as if included in the enactment of title I of Pub. L. 114–26, see section 914(g) of Pub. L. 114–125, set out as a note under section 4201 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R. 43903, set out as a note under section 4201 of this title, and Memorandum of President of the United States, May 24, 2016, 81 F.R. 35579, set out below.
+For delegation of functions of President under this section, see Ex. Ord. No. 13701, July 17, 2015, 80 F.R.43903, set out as a note under section 4201 of this title, and Memorandum of President of the United States, May 24, 2016, 81 F.R. 35579, set out below.
 
 #### Delegation of Authority Under Section 106 of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015
 

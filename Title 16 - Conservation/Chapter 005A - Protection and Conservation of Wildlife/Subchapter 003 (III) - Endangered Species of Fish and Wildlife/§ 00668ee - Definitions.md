@@ -30,13 +30,15 @@ For purposes of this Act:
 
 &emsp;(12) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(13) The terms "State" and "United States" mean the several States of the United States, Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
+&emsp;(13) The terms "State" and "United States" mean the several States of the United States,Puerto Rico, American Samoa, the Virgin Islands, Guam, and the territories and possessions of the United States.
 
 &emsp;(14) The term "System" means the National Wildlife Refuge System designated under section 668dd(a)(1) of this title.
 
 &emsp;(15) The terms "take", "taking", and "taken" mean to pursue, hunt, shoot, capture, collect, or kill, or to attempt to pursue, hunt, shoot, capture, collect, or kill.
 
 (Pub. L. 89–669, §5, Oct. 15, 1966, 80 Stat. 929; Pub. L. 105–57, §3(a), Oct. 9, 1997, 111 Stat. 1253.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

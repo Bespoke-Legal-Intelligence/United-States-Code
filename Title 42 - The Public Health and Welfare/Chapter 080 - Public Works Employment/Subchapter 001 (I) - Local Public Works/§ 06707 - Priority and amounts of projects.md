@@ -8,7 +8,7 @@ The Secretary shall allocate funds appropriated after May 13, 1977, under sectio
 
 &emsp;(2) After the set aside required by paragraph (1) of this subsection, $70,000,000 shall be set aside and expended only for grants for any public works project the application for a grant for which was made under this chapter after July 22, 1976, and before December 24, 1976, and which application was not received, was not considered, or was rejected solely because of an error by an officer or employee of the United States. Any allocation made to an applicant pursuant to regulation shall be reduced by the amount of any grant made to such applicant under this paragraph.
 
-&emsp;(3) After the set asides required by paragraphs (1) and (2) of this subsection, 65 per centum of such funds shall be allocated among the States on the basis of the ratio that the number of unemployed persons in each State bears to the total number of unemployed persons in all the States and 35 per centum of such funds shall be allocated among those States with an average unemployment rate for the preceding twelve-month period in excess of 6.5 per centum on the basis of the relative severity of unemployment in each such State, except that (A) no State shall be allocated less than three-quarters of one per centum or more than 12½ per centum of such funds for local public works projects within such State, except that in the case of Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands, not less than one-half of one per centum in the aggregate shall be granted for such projects in all four of these jurisdictions, and (B) no State whose unemployment data was converted for the first time in 1976 to the benchmark data of the current population survey annual average compiled by the Bureau of Labor Statistics shall receive a percentage of such funds less than the percentage of funds allocated to such State under this chapter from funds appropriated to carry out this chapter prior to May 13, 1977.
+&emsp;(3) After the set asides required by paragraphs (1) and (2) of this subsection, 65 per centum of such funds shall be allocated among the States on the basis of the ratio that the number of unemployed persons in each State bears to the total number of unemployed persons in all the States and 35 per centum of such funds shall be allocated among thoseStates with an average unemployment rate for the preceding twelve-month period in excess of 6.5 per centum on the basis of the relative severity of unemployment in each such State, except that (A) no State shall be allocated less than three-quarters of one per centum or more than 12½ per centum of such funds for local public works projects within such State, except that in the case of Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands, not less than one-half of one per centum in the aggregate shall be granted for such projects in all four of these jurisdictions, and (B) no State whose unemployment data was converted for the first time in 1976 to the benchmark data of the current population survey annual average compiled by the Bureau of Labor Statistics shall receive a percentage of such funds less than the percentage of funds allocated to such State under this chapter from funds appropriated to carry out this chapter prior to May 13, 1977.
 
 #### (b) Local government projects; energy conservation; endorsement of project by general purpose local government; projects requested by school districts
 
@@ -52,13 +52,15 @@ States and local governments making application under this chapter should (1) re
 
 #### (i) Substitution of projects to alleviate drought or other emergency or disaster-related conditions or damage
 
-The Secretary may allow any applicant which has received a grant for a project under this chapter to substitute one or more projects for such project if in the judgment of the Secretary (1) the Federal cost in the aggregate of such substituted project or projects does not exceed such grant, (2) such substituted project or projects comply with section 6705(d) of this title, and (3) such substituted project or projects will in fact aid in alleviating drought or other emergency or disaster-related conditions or damage. Section 6705(a) of this title shall not apply to projects substituted under this subsection.
+The Secretary may allow any applicant which has received a grant for a project under this chapter to substitute one or more projects forsuch project if in the judgment of the Secretary (1) the Federal cost in the aggregate of such substituted project or projects does not exceed such grant, (2) such substituted project or projects comply with section 6705(d) of this title, and (3) such substituted project or projects will in fact aid in alleviating drought or other emergency or disaster-related conditions or damage. Section 6705(a) of this title shall not apply to projects substituted under this subsection.
 
 #### (j) Private nonprofit health care or rehabilitation facilities
 
 Notwithstanding subsection (h)(1) of this section, grants may be made from appropriations made under section 6710 of this title after September 30, 1977, to States or local governments for projects for the construction, renovation, repair, or other improvements of health care or rehabilitation facilities owned and operated by private nonprofit entities.
 
 (Pub. L. 94–369, title I, §108, July 22, 1976, 90 Stat. 1000; Pub. L. 95–28, title I, §§105–107, May 13, 1977, 91 Stat. 117, 118.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -75,6 +77,8 @@ Subsec. (e). Pub. L. 95–28, §107(d), substituted "to be constructed in such c
 Subsec. (f). Pub. L. 95–28, §107(e), struck out subsec. (f) which directed that, in determining the unemployment rate of a local government for purposes of this section, the unemployment in those adjoining areas from which the labor force for such project might be drawn were to be taken into consideration.
 
 Subsecs. (h) to (j). Pub. L. 95–28, §107(f), added subsecs. (h) to (j).
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

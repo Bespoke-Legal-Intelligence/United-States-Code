@@ -1,8 +1,12 @@
 ### §5611. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 5611 was editorially reclassified as section 11111 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Education and Outreach to Trafficking Survivors
 

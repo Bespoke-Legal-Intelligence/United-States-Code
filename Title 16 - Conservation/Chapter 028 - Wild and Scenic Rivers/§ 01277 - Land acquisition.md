@@ -8,7 +8,7 @@
 
 #### (b) Curtailment of condemnation power in area 50 per centum or more of which is owned in fee title by Federal or State government
 
-If 50 per centum or more of the entire acreage outside the ordinary high water mark on both sides of the river within a federally administered wild, scenic or recreational river area is owned in fee title by the United States, by the State or States within which it lies, or by political subdivisions of those States, neither Secretary shall acquire fee title to any lands by condemnation under authority of this chapter. Nothing contained in this section, however,shall preclude the use of condemnation when necessary to clear title or to acquire scenic easements or such other easements as are reasonably necessary to give the public access to the river and to permit its members to traverse the length of the area or of selected segments thereof.
+If 50 per centum or more of the entire acreage outside the ordinary high water mark on both sides of the river within a federally administered wild, scenic or recreational river area is owned in fee title by the United States, by the State or States within which it lies, or by political subdivisions of those States, neither Secretary shall acquire fee title to any lands by condemnation under authority of this chapter. Nothing contained in this section, however, shall preclude the use of condemnation when necessary to clear title or to acquire scenic easements or such other easements as are reasonably necessary to give the public access to the river and to permit its members to traverse the length of the area or of selected segments thereof.
 
 #### (c) Curtailment of condemnation power in urban areas covered by valid and satisfactory zoning ordinances
 
@@ -35,6 +35,8 @@ The appropriate Secretary is authorized to accept donations of lands and interes
 (3) The term "improved property", as used in this chapter, means a detached, one-family dwelling (hereinafter referred to as "dwelling"), the construction of which was begun before January 1, 1967, (except where a different date is specifically provided by law with respect to any particular river) together with so much of the land on which the dwelling is situated, the said land being in the same ownership as the dwelling, as the appropriate Secretary shall designate to be reasonably necessary for the enjoyment of the dwelling for the sole purpose of noncommercial residential use, together with any structures accessory to the dwelling which are situated on the land so designated.
 
 (Pub. L. 90–542, §6, Oct. 2, 1968, 82 Stat. 912; Pub. L. 95–625, title VII, §763(b), Nov. 10, 1978, 92 Stat. 3533; Pub. L. 99–590, title V, §504, Oct. 30, 1986, 100 Stat. 3336.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

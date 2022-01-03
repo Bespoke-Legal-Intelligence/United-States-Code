@@ -18,7 +18,7 @@ To be eligible to receive a grant or contract under subsection (a) an entity sha
 
 &emsp;&emsp;(D) any other appropriate public or private nonprofit entity; and
 
-&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, andcontaining such information as the Secretary may require.
+&emsp;(2) prepare and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (c) Preference
 
@@ -74,6 +74,8 @@ Amounts provided under a grant or contract awarded under this section may be use
 
 (July 1, 1944, ch. 373, title VII, §765, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3553; amended Pub. L. 111–148, title V, §5206(a), Mar. 23, 2010, 124 Stat. 611.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 295, act July 1, 1944, ch. 373, title VII, §781, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2055; amended Pub. L. 105–12, §12(b), Apr. 30, 1997, 111 Stat. 29, authorized grants and contracts for research on certain health professions issues, prior to repeal by Pub. L. 105–392, title I, §106(a)(1), Nov. 13, 1998, 112 Stat. 3557.
@@ -91,4 +93,34 @@ Another prior section 765 of act July 1, 1944, was classified to section 295d of
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(8), (9). Pub. L. 111–148 added par. (8) and redesignated former par. (8) as (9).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Funding for Public Health Workforce
+
+Pub. L. 117–2, title II, §2501, Mar. 11, 2021, 135 Stat. 42, provided that:
+
+"(a)
+
+In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle \[subtitle F\(§§2501, 2502) of title II of Pub. L. 117–2, enacting this note\] referred to as the 'Secretary') for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,660,000,000, to remain available until expended, to carry out activities related to establishing, expanding, and sustaining a public health workforce, including by making awards to State, local, and territorial public health departments.
+
+"(b)
+
+Use of Funds for Public Health Departments.—Amounts made available to an awardee pursuant to subsection (a) shall be used for the following:
+
+&emsp;"(1) Costs, including wages and benefits, related to the recruiting, hiring, and training of individuals—
+
+&emsp;&emsp;"(A) to serve as case investigators, contact tracers, social support specialists, community health workers, public health nurses, disease intervention specialists, epidemiologists, program managers, laboratory personnel, informaticians, communication and policy experts, and any other positions as may be required to prevent, prepare for, and respond to COVID–19; and
+
+&emsp;&emsp;"(B) who are employed by—
+
+&emsp;&emsp;&emsp;"(i) the State, territorial, or local public health department involved; or
+
+&emsp;&emsp;&emsp;"(ii) a nonprofit private or public organization with demonstrated expertise in implementing public health programs and established relationships with such State, territorial, or local public health departments, particularly in medically underserved areas.
+
+&emsp;"(2) Personal protective equipment, data management and other technology, or other necessary supplies.
+
+&emsp;"(3) Administrative costs and activities necessary for awardees to implement activities funded under this section.
+
+&emsp;"(4) Subawards from recipients of awards under subsection (a) to local health departments for the purposes of the activities funded under this section."
 

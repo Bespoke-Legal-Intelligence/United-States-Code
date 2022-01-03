@@ -124,7 +124,7 @@ Duties and Powers of Administrator.—The Administrator shall carry out the foll
 
 (h) Section 40101(d) of this title applies to duties and powers specified in subsection (g)(1) of this section. Any of those duties and powers may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers is administratively final.
 
-(i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for theAdministrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
+(i) The Deputy Administrator shall carry out duties and powers prescribed by the Administrator. The Deputy Administrator acts for the Administrator when the Administrator is absent or unable to serve, or when the office of the Administrator is vacant.
 
 (j) There is established within the Federal Aviation Administration an institute to conduct civil aeromedical research under section 44507 of this title. Such institute shall be known as the "Civil Aeromedical Institute". Research conducted by the institute should take appropriate advantage of capabilities of other government agencies, universities, or the private sector.
 
@@ -220,7 +220,7 @@ Contracts.—The Administrator is authorized to enter into and perform such cont
 
 &emsp;(7)
 
-Prohibition on certain performance-based incentives.—No employee of the Administration shall be given an award, financial incentive, or other compensation, as a result of actions to meet performance goals related to meeting or exceeding schedules, quotas, ordeadlines for certificates issued under section 44704.
+Prohibition on certain performance-based incentives.—No employee of the Administration shall be given an award, financial incentive, or other compensation, as a result of actions to meet performance goals related to meeting or exceeding schedules, quotas, or deadlines for certificates issued under section 44704.
 
 (m)
 
@@ -300,7 +300,7 @@ Meetings.—The Council shall meet on a regular and periodic basis or at the cal
 
 &emsp;&emsp;(C)
 
-Access to documents and staff.—The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the "Freedom of Information Act"), cost data associated withthe acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, pertaining to unauthorized disclosure of such information.
+Access to documents and staff.—The Administration may give the Council or Air Traffic Services Committee appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5 (commonly known as the "Freedom of Information Act"), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Council or Air Traffic Services Committee who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, pertaining to unauthorized disclosure of such information.
 
 &emsp;(5)
 
@@ -402,7 +402,7 @@ Membership and qualifications.—Subject to paragraph (6)(C), the Committee shal
 
 &emsp;&emsp;&emsp;(ii) shall be citizens of the United States; and
 
-&emsp;&emsp;&emsp;(iii) shall be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areas and, in the aggregate, should collectively bring to bear expertise in all of the following areas:
+&emsp;&emsp;&emsp;(iii) shall be appointed without regard to political affiliation and solely on the basis of their professional experience and expertise in one or more of the following areasand, in the aggregate, should collectively bring to bear expertise in all of the following areas:
 
 &emsp;&emsp;&emsp;&emsp;(I) Management of large service organizations.
 
@@ -764,7 +764,7 @@ Authority of director.—The Director shall—
 
 &emsp;&emsp;&emsp;(i) receive complaints and information submitted by employees of persons holding certificates issued under title 14, Code of Federal Regulations (if the certificate holder does not have a similar in-house whistleblower or safety and regulatory noncompliance reporting process established under or pursuant to a safety management system) and employees of the Agency concerning the possible existence of an activity relating to a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety;
 
-&emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation, or any other provision of Federal law relating to aviation safety has occurred;
+&emsp;&emsp;&emsp;(ii) assess complaints and information submitted under clause (i) and determine whether a substantial likelihood exists that a violation of an order, a regulation,or any other provision of Federal law relating to aviation safety has occurred;
 
 &emsp;&emsp;&emsp;(iii) based on findings of the assessment conducted under clause (ii), make recommendations to the Administrator of the Agency, in writing, regarding further investigation or corrective actions;
 
@@ -968,6 +968,8 @@ In subsection (i), the words "and exercise the powers of" are omitted as surplus
 
 Section 4(j)(3)(B) amends 49:106(g) to list the duties and powers of the Secretary of Transportation that the Administrator of the Federal Aviation Administration carries out. The duties and powers are derived from 2 sources. Some were transferred by former 49 App.:1655(c)(1), restated as 49:106 in section 1 of the Act of January 12, 1983 (Public Law 97–449, 96 Stat. 2417). The others are from laws enacted after October 15, 1966, in which the duties and powers are to be carried out by the Administrator rather than the Secretary.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Air Traffic Management System Performance Improvement Act of 1996, referred to in subsec. (f)(2)(A)(iv), is title II of Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3227. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 40101 of this title and Tables.
@@ -1014,7 +1016,7 @@ Subsec. (t)(8). Pub. L. 116–260, §133(b), added par. (8).
 
 &emsp;"(B) additional duties and powers prescribed by the Secretary of Transportation.
 
-"(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 of this title."
+"(2) In carrying out sections 40119, 44901, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, 44938(a) and (b), and 48107 of this title, paragraph (1)(A) of this subsection does not apply to duties and powers vested in the Director of Intelligence and Security by section 44931 of this title."
 
 Subsec. (k)(1)(A)–(E). Pub. L. 115–254, §113(a), added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
 
@@ -1126,7 +1128,7 @@ In general.—There is authorized to be appropriated to the Secretary of Transpo
 
 > Such sums shall remain available until expended."
 
-Subsec. (k)(2). Pub. L. 108–176, §103(b), redesignated subpars. (C) to (E) as subpars. (A) to (C), respectively, in subpars. (A) to (C), substituted "fiscal years 2004 through 2007" for "fiscal years 2000 through 2003", added subpars. (D) to (G), struck out former subpars. (A) and (B), which related to expenditures for wildlife measures and a university consortium for an air safety and security management certificate program, and struck out former subpars. (F) to (I), which related to expenditures for the 1998 airport surface operations safety action plan, United States membership obligations in the International Civil Aviation Organization, additional inspectors to enhance air cargo security programs, and improved training programs for airport security screening personnel.
+Subsec. (k)(2). Pub. L. 108–176, §103(b), redesignated subpars. (C) to (E) as subpars. (A) to (C), respectively, in subpars. (A) to (C), substituted "fiscal years 2004 through 2007" for "fiscal years 2000 through 2003", added subpars. (D) to (G), struck out former subpars. (A) and (B), which related to expenditures for wildlife measures and a university consortium for an air safety and security management certificate program, and struck out former subpars. (F) to (I), which related to expenditures for the 1998 airport surface operations safety action plan, United States membership obligations in the International Civil Aviation Organization,additional inspectors to enhance air cargo security programs, and improved training programs for airport security screening personnel.
 
 Subsec. (p). Pub. L. 108–176, §201(1), inserted "and Air Traffic Services Board" after "Council" in heading.
 
@@ -1220,7 +1222,7 @@ Procurement of temporary and intermittent services.—The chairperson of the Sub
 
 Pub. L. 108–176, §202(14)(C), redesignated subpar (D) as (F). Former subpar. (F) redesignated (H).
 
-Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted "Committee" for "Subcommittee" wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read asfollows: "
+Subsec. (p)(7)(G). Pub. L. 108–176, §202(14)(K), substituted "Committee" for "Subcommittee" wherever appearing, redesignated cls. (ii) to (iv) as (i) to (iii), respectively, and struck out former cl. (i) which read as follows: "
 
 Term of chair.—The members of the Subcommittee shall elect for a 2-year term a chairperson from among the members of the Subcommittee."
 
@@ -1352,6 +1354,8 @@ Subsec. (k). Pub. L. 101–508 added subsec. (k).
 
 <b>1984</b>—Subsecs. (g)(1), (h). Pub. L. 98–216 substituted "49 App. U.S.C." for "49 U.S.C.".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under section 113 of Title 6, Domestic Security.
@@ -1402,7 +1406,65 @@ Pub. L. 104–264, title II, §203, Oct. 9, 1996, 110 Stat. 3227, provided that:
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub.L. 111–314, set out as a note under section 101 of this title.
+
+#### Emergency FAA Employee Leave Fund
+
+Pub. L. 117–2, title VII, §7103, Mar. 11, 2021, 135 Stat. 98, provided that:
+
+"(a)
+
+Establishment; Appropriation.—There is established in the Federal Aviation Administration the Emergency FAA Employee Leave Fund (in this section referred to as the 'Fund'), to be administered by the Administrator of the Federal Aviation Administration, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $9,000,000, which shall be deposited into the Fund and remain available through September 30, 2022.
+
+"(b)
+
+Purpose.—Amounts in the Fund shall be available to the Administrator for the use of paid leave under this section by any employee of the Administration who is unable to work because the employee—
+
+&emsp;"(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19;
+
+&emsp;"(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19;
+
+&emsp;"(3) is caring for an individual who is subject to such an order or has been so advised;
+
+&emsp;"(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis;
+
+&emsp;"(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions;
+
+&emsp;"(6) is experiencing any other substantially similar condition;
+
+&emsp;"(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or
+
+&emsp;"(8) is obtaining immunization related to COVID–19 or is recovering from any injury, disability, illness, or condition related to such immunization.
+
+"(c)
+
+Limitations.—
+
+&emsp;"(1)
+
+Period of availability.—Paid leave under this section may only be provided to and used by an employee of the Administration during the period beginning on the date of enactment of this section \[Mar. 11, 2021\] and ending on September 30, 2021.
+
+&emsp;"(2)
+
+Total hours; amount.—Paid leave under this section—
+
+&emsp;&emsp;"(A) shall be provided to an employee of the Administration in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement;
+
+&emsp;&emsp;"(B) shall be paid at the same hourly rate as other leave payments; and
+
+&emsp;&emsp;"(C) may not be provided to an employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee.
+
+&emsp;"(3)
+
+Relationship to other leave.—Paid leave under this section—
+
+&emsp;&emsp;"(A) is in addition to any other leave provided to an employee of the Administration; and
+
+&emsp;&emsp;"(B) may not be used by an employee of the Administration concurrently with any other paid leave.
+
+&emsp;"(4)
+
+Calculation of retirement benefit.—Any paid leave provided to an employee of the Administration under this section shall reduce the total service used to calculate any Federal civilian retirement benefit."
 
 #### Regional Ombudsmen
 
@@ -1676,7 +1738,7 @@ Pub. L. 104–264, title II, §221, Oct. 9, 1996, 110 Stat. 3227, provided that:
 
 &emsp;"(13) An independent, thorough, and complete study and assessment must be performed of the costs to the Administration and the costs driven by each segment of the aviation system for safety and operational services, including the use of the air traffic control system and the Nation's airports.
 
-&emsp;"(14) Because the Administration is a unique Federal entity in that it is a participant in the daily operations of an industry, and because the national airtransportation system faces significant problems without significant changes, the Administration has been authorized to change the Federal procurement and personnel systems to ensure that the Administration has the ability to keep pace with new technology and is able to match resources with the real personnel needs of the Administration.
+&emsp;"(14) Because the Administration is a unique Federal entity in that it is a participant in the daily operations of an industry, and because the national air transportation system faces significant problems without significant changes, the Administration has been authorized to change the Federal procurement and personnel systems to ensure that the Administration has the ability to keep pace with new technology and is able to match resources with the real personnel needs of the Administration.
 
 &emsp;"(15) The existing budget system does not allow for long-term planning or timely acquisition of technology by the Administration.
 
@@ -1827,6 +1889,8 @@ Pub. L. 101–47, June 30, 1989, 103 Stat. 134.
 Pub. L. 98–256, Apr. 10, 1984, 98 Stat. 125.
 
 Pub. L. 89–46, June 22, 1965, 79 Stat. 171.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13180. Air Traffic Performance-Based Organization
 

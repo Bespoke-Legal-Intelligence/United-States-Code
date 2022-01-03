@@ -24,7 +24,7 @@ In general.—The Commandant may—
 
 &emsp;(2)
 
-Sole-source basis.—Notwithstanding chapter 65 of title 31 and chapter 137 of title 10, the Commandant may enter into a contract or cooperative agreement under paragraph (1)(A) on a sole-source basis.
+Sole-source basis.—Notwithstanding chapter 65 of title 31 and sections 3201 through 3205 of title 10, the Commandant may enter into a contract or cooperative agreement under paragraph (1)(A) on a sole-source basis.
 
 &emsp;(3)
 
@@ -46,7 +46,7 @@ Qualified organization defined.—In this subsection the term "qualified organiz
 
 &emsp;&emsp;(B) established by the Coast Guard Academy Alumni Association solely for the purpose of supporting academic research and applying for and administering Federal, State, or other educational research grants on behalf of the Coast Guard Academy.
 
-(Added Pub. L. 103–206, title III, §305(a), Dec. 20, 1993, 107 Stat. 2424, §196; amended Pub. L. 114–120, title II, §218, Feb. 8, 2016, 130 Stat. 47; Pub. L. 115–232, div. C, title XXXV, §3531(c)(10), Aug. 13, 2018, 132 Stat. 2320; renumbered §1904 and amended Pub. L. 115–282, title I, §§110(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4212, 4240; renumbered §1906, Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8215(b)(1), Jan. 1, 2021, 134 Stat. 4650.)
+(Added Pub. L. 103–206, title III, §305(a), Dec. 20, 1993, 107 Stat. 2424, §196; amended Pub. L. 114–120, title II, §218, Feb. 8, 2016, 130 Stat. 47; Pub. L. 115–232, div. C, title XXXV, §3531(c)(10), Aug. 13, 2018, 132 Stat. 2320; renumbered §1904 and amended Pub. L. 115–282, title I, §§110(b), 123(b)(2), Dec. 4, 2018, 132 Stat. 4212, 4240; renumbered §1906, Pub. L. 116–283, div. G, title LVXXXII \[LXXXII\], §8215(b)(1), Jan. 1, 2021, 134 Stat. 4650; Pub. L. 117–81, div. A, title XVII, §1702(d)(3), Dec. 27, 2021, 135 Stat. 2156.)
 
 #### <b>Editorial Notes</b>
 
@@ -57,6 +57,8 @@ The Internal Revenue Code of 1986, referred to in subsec. (b)(5)(A), is classifi
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 1904 of this title as this section.
+
+Subsec. (b)(2). Pub. L. 117–81 substituted "sections 3201 through 3205" for "chapter 137".
 
 <b>2018</b>—Pub. L. 115–282, §110(b), renumbered section 196 of this title as this section.
 

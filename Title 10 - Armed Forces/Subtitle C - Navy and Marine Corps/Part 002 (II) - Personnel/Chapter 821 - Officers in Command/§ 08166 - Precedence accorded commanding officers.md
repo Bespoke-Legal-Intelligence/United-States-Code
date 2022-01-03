@@ -20,9 +20,13 @@ R.S. 1468.
 
 The word "placed" is omitted as surplusage. The words "of war" are omitted to avoid an erroneous implication that the section does not apply to the commanding officers of noncombatant ships of the Navy. As of the date of enactment of R.S. 1468, all vessels of the Navy were "vessels of war"; the elimination of the words, therefore, preserves the purpose of the statute.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5946 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

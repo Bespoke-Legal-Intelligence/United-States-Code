@@ -44,7 +44,7 @@ Not later than 1 year after December 27, 2020, and not later than June 1 of each
 
 &emsp;&emsp;(A) the amounts so paid for each therapeutic class of drugs; and
 
-&emsp;&emsp;(B) the amounts so paid for each of the 25 drugs that yielded the highest amount of rebates and other remuneration under the plan or coverage from drug manufacturers during the plan year.
+&emsp;&emsp;(B) the amounts so paid for each of the 25 drugs that yielded the highest amount of rebates and other remuneration under the planor coverage from drug manufacturers during the plan year.
 
 &emsp;(10) Any reduction in premiums and out-of-pocket costs associated with rebates, fees, or other remuneration described in paragraph (9).
 

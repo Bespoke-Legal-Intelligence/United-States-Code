@@ -8,7 +8,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (1) General authority
 
-&emsp;The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectives of the Federal consumer financial laws, and to prevent evasions thereof.
+&emsp;The Director may prescribe rules and issue orders and guidance, as may be necessary or appropriate to enable the Bureau to administer and carry out the purposes and objectivesof the Federal consumer financial laws, and to prevent evasions thereof.
 
 #### (2) Standards for rulemaking
 
@@ -80,7 +80,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (B) Confidential information
 
-&emsp;&emsp;The Bureau may make public such information obtained by the Bureau under this section as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
+&emsp;&emsp;The Bureau may make public such information obtained by the Bureau under thissection as is in the public interest, through aggregated reports or other appropriate formats designed to protect confidential information in accordance with paragraphs (4), (6), (8), and (9).
 
 #### (4) Collection of information
 
@@ -142,7 +142,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 #### (C) Consultation with State agencies
 
-&emsp;&emsp;In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (including coordinated or combined systems for registration), where appropriate.
+&emsp;&emsp;In developing and implementing registration requirements under this paragraph, the Bureau shall consult with State agencies regarding requirements or systems (includingcoordinated or combined systems for registration), where appropriate.
 
 #### (8) Privacy considerations
 
@@ -154,7 +154,7 @@ The Bureau is authorized to exercise its authorities under Federal consumer fina
 
 &emsp;&emsp;The Bureau may not obtain from a covered person or service provider any personally identifiable financial information about a consumer from the financial records of the covered person or service provider, except—
 
-&emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau andthe consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
+&emsp;&emsp;&emsp;(i) if the financial records are reasonably described in a request by the Bureau and the consumer provides written permission for the disclosure of such information by the covered person or service provider to the Bureau; or
 
 &emsp;&emsp;&emsp;(ii) as may be specifically permitted or required under other applicable provisions of law and in accordance with the Right to Financial Privacy Act of 1978 (12 U.S.C. 3401 et seq.).
 

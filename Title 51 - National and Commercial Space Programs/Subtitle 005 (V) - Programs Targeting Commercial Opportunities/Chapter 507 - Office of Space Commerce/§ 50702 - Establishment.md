@@ -26,7 +26,7 @@ Functions of Office.—The Office shall be the principal unit for the coordinati
 
 Duties of Director.—The primary responsibilities of the Director in carrying out the functions of the Office shall include—
 
-&emsp;(1) promoting commercial provider investment in space activities by collecting, analyzing, and disseminating information onspace markets, and conducting workshops and seminars to increase awareness of commercial space opportunities;
+&emsp;(1) promoting commercial provider investment in space activities by collecting, analyzing, and disseminating information on space markets, and conducting workshops and seminars to increase awareness of commercial space opportunities;
 
 &emsp;(2) assisting United States commercial providers in the efforts of those providers to conduct business with the United States Government;
 

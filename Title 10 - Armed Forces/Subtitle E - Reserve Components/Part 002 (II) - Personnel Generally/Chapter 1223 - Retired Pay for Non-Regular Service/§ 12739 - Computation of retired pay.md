@@ -6,7 +6,7 @@
 
 &emsp;(2) 2½ percent of the years of service credited to that person under section 12733 of this title.
 
-(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in thearmed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
+(b) If a person entitled to retired pay under this chapter has been credited by the Secretary concerned with extraordinary heroism in the line of duty and if the highest grade held satisfactorily by that person at any time in the armed forces is an enlisted grade, the person's retired pay shall be increased by 10 percent of the amount determined under subsection (a). The Secretary's determination as to extraordinary heroism is conclusive for all purposes.
 
 (c)(1) Except as provided in paragraph (2), the total amount of the monthly retired pay computed under subsections (a) and (b) may not exceed 75 percent of the retired pay base upon which the computation is based.
 
@@ -80,6 +80,8 @@ Regulations.—The Secretary concerned shall prescribe regulations to implement 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(j)(1), Oct. 5, 1994, 108 Stat. 3004; amended Pub. L. 107–314, div. A, title VI, §632(a), (b), Dec. 2, 2002, 116 Stat. 2572; Pub. L. 109–364, div. A, title VI, §642(b), Oct. 17, 2006, 120 Stat. 2259; Pub. L. 111–84, div. A, title VI, §642(a), Oct. 28, 2009, 123 Stat. 2365; Pub. L. 114–92, div. A, title VI, §631(b), Nov. 25, 2015, 129 Stat. 843; Pub. L. 115–91, div. A, title VI, §623(a), Dec. 12, 2017, 131 Stat. 1428.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in formula 3 of the table in section 1401(a) of this title, prior to amendment by Pub. L. 103–337, §1662(j)(2).
@@ -96,13 +98,15 @@ Provisions similar to those in this section were contained in formula 3 of the t
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–314, §632(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted "total amount of the monthly retired pay computed under subsections\(a) and (b)" for "amount computed under subsection (a)". Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–314, §632(a)(1), (b), redesignated subsec. (b) as (c) and substituted "total amount of the monthly retired pay computed under subsections (a) and (b)" for "amount computed under subsection (a)". Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 107–314, §632(a)(1), redesignated subsec. (c) as (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
-Pub. L. 115–91, div. A, title VI, §623(b), Dec. 12, 2017, 131 Stat. 1429, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2018, immediately after the coming into effect of the amendment made by section 631(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 843) \[amending this section\], to which the amendment made by subsection (a) relates."
+Pub. L. 115–91, div. A, title VI, §623(b), Dec. 12, 2017, 131 Stat. 1429, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effecton January 1, 2018, immediately after the coming into effect of the amendment made by section 631(b) of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 129 Stat. 843) \[amending this section\], to which the amendment made by subsection (a) relates."
 
 #### Effective Date of 2015 Amendment; Implementation
 

@@ -20,6 +20,8 @@ Objectives.—The objectives for authorizing participation in a program under su
 
 (Added Pub. L. 106–65, div. A, title V, §584(a)(1)(B), Oct. 5, 1999, 113 Stat. 634; amended Pub. L. 107–314, div. A, title X, §1041(a)(7), Dec. 2, 2002, 116 Stat. 2645.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–314 struck out heading and text of subsec. (d). Text read as follows:

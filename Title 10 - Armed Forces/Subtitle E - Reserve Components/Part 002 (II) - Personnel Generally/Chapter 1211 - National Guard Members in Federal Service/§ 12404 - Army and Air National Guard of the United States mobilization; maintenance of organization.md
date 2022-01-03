@@ -4,6 +4,8 @@ During an initial mobilization, the organization of a unit of the Army National 
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(f)(1), Oct. 5, 1994, 108 Stat. 2993; amended Pub. L. 104–106, div. A, title XV, §1501(b)(18)(B), Feb. 10, 1996, 110 Stat. 497.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3498 and 8498 of this title, prior to repeal by Pub. L. 103–337, §1662(f)(2).
@@ -11,6 +13,8 @@ Provisions similar to those in this section were contained in sections 3498 and 
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–106 inserted "the" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

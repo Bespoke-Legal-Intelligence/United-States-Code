@@ -58,7 +58,7 @@ A person shall pay a penalty of $5,000 if—
 
 #### (c) Listing of frivolous positions
 
-The Secretary shall prescribe (and periodically revise) a list of positions which the Secretary has identified as being frivolous for purposes ofthis subsection. The Secretary shall not include in such list any position that the Secretary determines meets the requirement of section 6662(d)(2)(B)(ii)(II).
+The Secretary shall prescribe (and periodically revise) a list of positions which the Secretary has identified as being frivolous for purposes of this subsection. The Secretary shall not include in such list any position that the Secretary determines meets the requirement of section 6662(d)(2)(B)(ii)(II).
 
 #### (d) Reduction of penalty
 
@@ -74,11 +74,15 @@ An administrative adjustment request under section 6227 and a partnership adjust
 
 (Added Pub. L. 97–248, title III, §326(a), Sept. 3, 1982, 96 Stat. 617; amended Pub. L. 109–432, div. A, title IV, §407(a), Dec. 20, 2006, 120 Stat. 2960; Pub. L. 115–141, div. U, title II, §206(n)(4), Mar. 23, 2018, 132 Stat. 1182.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (f). Pub. L. 115–141 added subsec. (f).
 
 <b>2006</b>—Pub. L. 109–432 amended section catchline and text generally, substituting provisions relating to civil penalties for frivolous tax returns and submissions, listing of frivolous positions, reduction of penalty to promote compliance with tax laws, and application of other penalties, consisting of subsecs. (a) to (e), for provisions relating to civil penalty for frivolous tax returns and application of other penalties, consisting of subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

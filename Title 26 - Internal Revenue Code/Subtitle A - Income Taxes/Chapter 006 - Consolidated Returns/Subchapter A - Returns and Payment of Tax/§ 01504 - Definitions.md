@@ -110,13 +110,15 @@ Despite the provisions of paragraph (1) of subsection (b), two or more organizat
 
 #### (f) Special rule for certain amounts derived from a corporation previously treated as a DISC
 
-In determining the consolidated taxable income of an affiliated group for any taxable year beginning after December 31, 1984, a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to—
+In determining the consolidated taxable income of an affiliated group for any taxable yearbeginning after December 31, 1984, a corporation which had been a DISC and which would otherwise be a member of such group shall not be treated as such a member with respect to—
 
 &emsp;(1) any distribution (or deemed distribution) of accumulated DISC income which was not treated as previously taxed income under section 805(b)(2)(A) of the Tax Reform Act of 1984, and
 
 &emsp;(2) any amount treated as received under section 805(b)(3) of such Act.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 369; Mar. 13, 1956, ch. 83, §5(8), 70 Stat. 49; Pub. L. 85–866, title I, §64(d)(3), Sept. 2, 1958, 72 Stat. 1657; Pub. L. 86–69, §3(f)(1), June 25, 1959, 73 Stat. 140; Pub. L. 86–376, §2(c), Sept. 23, 1959, 73 Stat. 699; Pub. L. 86–779, §10(j), Sept. 14, 1960, 74 Stat. 1009; Pub. L. 89–389, §4(b)(3), Apr. 14, 1966, 80 Stat. 116; Pub. L. 91–172, title I, §121(a)(4), Dec. 30, 1969, 83 Stat. 537; Pub. L. 92–178, title V, §502(e), Dec. 10, 1971, 85 Stat. 550; Pub. L. 94–455, title VIII, §803(b)(3), title X, §§1051(g), 1053(d)(2), title XV, §1507(a), Oct. 4, 1976, 90 Stat. 1584, 1646, 1649, 1739; Pub. L. 95–600, title I, §141(f)(4), Nov. 6, 1978, 92 Stat. 2795; Pub. L. 96–222, title I, §101(a)(7)(L)(i)(VIII), (iv)(II), Apr. 1, 1980, 94 Stat. 199, 200; Pub. L. 98–369, div. A, title I, §60(a), title II, §211(b)(20), July 18, 1984, 98 Stat. 577, 756; Pub. L. 99–514, title X, §1024(c)(15), (16), title XVIII, §§1804(e)(1), (10), 1899A(35), Oct. 22, 1986, 100 Stat. 2408, 2800, 2804, 2960; Pub. L. 100–647, title I, §1018(d)(10), Nov. 10, 1988, 102 Stat. 3581; Pub. L. 101–508, title XI, §11814(b), Nov. 5, 1990, 104 Stat. 1388–557; Pub. L. 104–188, title I, §§1308(d)(2), 1702(h)(6), Aug. 20, 1996, 110 Stat. 1783, 1874; Pub. L. 113–295, div. A, title II, §221(a)(93), Dec. 19, 2014, 128 Stat. 4050; Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(xvii)(I), Mar. 23, 2018, 132 Stat. 1208.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Text
 
@@ -148,7 +150,7 @@ Subsec. (c)(2)(A). Pub. L. 99–514, §1899A(35), struck out "or 821" after "sec
 
 Pub. L. 99–514, §1024(c)(16), substituted "subsection (b)(2)) includes" for "subsection (b)(2) includes".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §60(a), in amending subsec. (a), generally, revised existing provisions ofsubsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of "affiliated group", and expanded the enumeration of securities not included under term "stock".
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §60(a), in amending subsec. (a), generally, revised existing provisions of subsec. (a) into pars. (1), (2), and (4), added pars. (3) and (5), revised definition of "affiliated group", and expanded the enumeration of securities not included under term "stock".
 
 Subsecs. (b)(2), (c)(1), (2)(A). Pub. L. 98–369, §211(b)(20), substituted "section 801" for "section 802".
 
@@ -179,6 +181,8 @@ Subsec. (b)(8). Pub. L. 86–376 struck out par. (8) which excepted an electing 
 <b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
 
 <b>1956</b>—Subsec. (b)(2), Act Mar. 13, 1956, inserted reference to section 811.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

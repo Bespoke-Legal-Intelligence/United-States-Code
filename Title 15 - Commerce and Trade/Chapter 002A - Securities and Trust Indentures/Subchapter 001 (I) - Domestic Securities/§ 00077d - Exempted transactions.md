@@ -12,7 +12,7 @@ The provisions of section 77e of this title shall not apply to—
 
 &emsp;&emsp;(A) transactions taking place prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter,
 
-&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or suchshorter period as the Commission may specify by rules and regulations or order, and
+&emsp;&emsp;(B) transactions in a security as to which a registration statement has been filed taking place prior to the expiration of forty days after the effective date of such registration statement or prior to the expiration of forty days after the first date upon which the security was bona fide offered to the public by the issuer or by or through an underwriter after such effective date, whichever is later (excluding in the computation of such forty days any time during which a stop order issued under section 77h of this title is in effect as to the security), or such shorter period as the Commission may specify by rules and regulations or order, and
 
 &emsp;&emsp;(C) transactions as to securities constituting the whole or a part of an unsold allotment to or subscription by such dealer as a participant in the distribution of such securities by the issuer or by or through an underwriter.
 
@@ -154,6 +154,8 @@ Rule of construction.—The exemption provided by subsection (a)(7) shall not be
 
 (May 27, 1933, ch. 38, title I, §4, 48 Stat. 77; June 6, 1934, ch. 404, title II, §203, 48 Stat. 906; Aug. 10, 1954, ch. 667, title I, §6, 68 Stat. 684; Pub. L. 88–467, §12, Aug. 20, 1964, 78 Stat. 580; Pub. L. 94–29, §30, June 4, 1975, 89 Stat. 169; Pub. L. 96–477, title VI, §602, Oct. 21, 1980, 94 Stat. 2294; Pub. L. 111–203, title IX, §944(a), July 21, 2010, 124 Stat. 1897; Pub. L. 112–106, title II, §201(b), (c), title III, §302(a), title IV, §401(c), Apr. 5, 2012, 126 Stat. 314, 315, 325; Pub. L. 114–94, div. G, title LXXVI, §76001(a), Dec. 4, 2015, 129 Stat. 1787.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 201 of the Jumpstart Our Business Startups Act, referred to in subsec. (b), is section 201 of Pub. L. 112–106, which amended this section and enacted provisions set out as a note under this section.
@@ -200,6 +202,8 @@ Par. (4). Pub. L. 88–467 redesignated former par. (2) as (4) and substituted "
 
 <b>1934</b>—Act June 6, 1934, among other changes, repealed par. (3), provisions of which were replaced by section 77c(9), (10) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -216,10 +220,6 @@ Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L.
 
 Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note under section 77b of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Modification of Exemption Rules
 
 Pub. L. 112–106, title II, §201(a), Apr. 5, 2012, 126 Stat. 313, provided that:
@@ -230,7 +230,7 @@ Pub. L. 112–106, title II, §201(a), Apr. 5, 2012, 126 Stat. 313, provided tha
 
 #### Rulemaking
 
-Pub. L. 112–106, title III, §302(c), Apr. 5, 2012, 126 Stat. 320, provided that: "Not later than 270 days after thedate of enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission (in this title \[enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78l, and 78o of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78l of this title\] referred to as the 'Commission') shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) \[probably means "section 4(a)(6)"\] and section 4A of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6), 77d–1\], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association."
+Pub. L. 112–106, title III, §302(c), Apr. 5, 2012, 126 Stat. 320, provided that: "Not later than 270 days after the date of enactment of this Act \[Apr. 5, 2012\], the Securities and Exchange Commission (in this title \[enacting section 77d–1 of this title, amending sections 77d, 77r, 78c, 78l, and 78o of this title, and enacting provisions set out as notes under sections 77d, 77r, 78c, and 78l of this title\] referred to as the 'Commission') shall issue such rules as the Commission determines may be necessary or appropriate for the protection of investors to carry out sections 4(6) \[probably means "section 4(a)(6)"\] and section 4A of the Securities Act of 1933 \[15 U.S.C. 77d(a)(6), 77d–1\], as added by this title. In carrying out this section, the Commission shall consult with any securities commission (or any agency or office performing like functions) of the States, any territory of the United States, and the District of Columbia, which seeks to consult with the Commission, and with any applicable national securities association."
 
 #### Disqualification
 
@@ -289,6 +289,12 @@ Pub. L. 111–203, title IX, §926, July 21, 2010, 124 Stat. 1851, provided that
 &emsp;&emsp;"(B) has been convicted of any felony or misdemeanor in connection with the purchase or sale of any security or involving the making of any false filing with the Commission."
 
 \[For definitions of terms used in section 926 of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

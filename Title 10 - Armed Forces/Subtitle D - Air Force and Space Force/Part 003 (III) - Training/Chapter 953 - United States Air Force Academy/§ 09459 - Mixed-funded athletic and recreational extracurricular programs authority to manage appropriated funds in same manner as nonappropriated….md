@@ -18,9 +18,13 @@ Covered Programs.—In this section, the term "Academy mixed-funded athletic or 
 
 (Added Pub. L. 108–375, div. A, title V, §544(c)(1), Oct. 28, 2004, 118 Stat. 1907, §9359; renumbered §9459, Pub. L. 115–232, div. A, title VIII, §806(a)(3), Aug. 13, 2018, 132 Stat. 1832.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9359 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -28,5 +32,5 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 #### Effective Date
 
-Section applicable only with respect to funds appropriated for fiscal years after fiscal year 2004, see section 544(d) of Pub. L. 108–375, set out as a note under section 7459 of this title.
+Section applicable only with respect to funds appropriated for fiscal years after fiscal year 2004, see section544(d) of Pub. L. 108–375, set out as a note under section 7459 of this title.
 

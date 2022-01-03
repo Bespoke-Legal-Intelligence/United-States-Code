@@ -2,7 +2,7 @@
 
 #### (a) Contents
 
-The Secretary shall, as soon as practicable after the close of each fiscal year, make a single, comprehensive report to the President for transmission to the Congress on the activities of the Department during such fiscal year. The report shall include a statement of goals, priorities, and plans for the Department together with an assessment of the progress made toward—
+The Secretary shall, as soon as practicable after the close of each fiscal year, make a single,comprehensive report to the President for transmission to the Congress on the activities of the Department during such fiscal year. The report shall include a statement of goals, priorities, and plans for the Department together with an assessment of the progress made toward—
 
 &emsp;(1) the attainment of such goals, priorities, and plans;
 
@@ -14,9 +14,11 @@ The Secretary shall, as soon as practicable after the close of each fiscal year,
 
 #### (b) Estimate on non-Federal personnel employed
 
-The report required by subsection (a) shall also include an estimate of the extent of thenon-Federal personnel employed pursuant to contracts entered into by the Department under section 3475 of this title or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
+The report required by subsection (a) shall also include an estimate of the extent of the non-Federal personnel employed pursuant to contracts entered into by the Department under section 3475 of this title or under any other authority (including any subcontract thereunder), the number of such contracts and subcontracts pursuant to which non-Federal personnel are employed, and the total cost of those contracts and subcontracts.
 
 (Pub. L. 96–88, title IV, §426, Oct. 17, 1979, 93 Stat. 688.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

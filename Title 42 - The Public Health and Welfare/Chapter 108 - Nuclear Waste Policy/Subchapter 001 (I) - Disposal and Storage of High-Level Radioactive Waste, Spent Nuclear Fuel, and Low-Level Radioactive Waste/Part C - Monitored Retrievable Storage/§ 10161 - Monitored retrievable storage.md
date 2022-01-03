@@ -30,7 +30,7 @@ The Congress finds that—
 
 &emsp;(A) the establishment of a Federal program for the siting, development, construction, and operation of facilities capable of safely storing high-level radioactive waste and spent nuclear fuel, which facilities are to be licensed by the Commission;
 
-&emsp;(B) a plan for the funding of the construction and operation of such facilities, which plan shall provide that the costs of such activities shall be borne by the generators and owners of the high-level radioactive waste and spent nuclear fuel to be stored in such facilities;
+&emsp;(B) a plan for the funding of the construction and operation of such facilities, which plan shall provide that the costs of such activitiesshall be borne by the generators and owners of the high-level radioactive waste and spent nuclear fuel to be stored in such facilities;
 
 &emsp;(C) site-specific designs, specifications, and cost estimates sufficient to (i) solicit bids for the construction of the first such facility; (ii) support congressional authorization of the construction of such facility; and (iii) enable completion and operation of such facility as soon as practicable following congressional authorization of such facility; and
 
@@ -76,9 +76,11 @@ No monitored retrievable storage facility developed pursuant to this section may
 
 #### (h) Participation of States and Indian tribes
 
-Any facility authorized pursuant to this section shall be subject to the provisions of sections 10135, 10136(a), 10136(b), 10136(d), 10137, and 10138 of this title. For purposes of carrying out the provisions of this subsection, any reference in sections 10135 through 10138 of this title to a repository shall be considered to refer to a monitored retrievable storage facility.
+Any facility authorized pursuant to this section shall be subject to the provisions of sections 10135, 10136(a), 10136(b), 10136(d), 10137, and 10138 of this title. For purposes of carrying out the provisions of this subsection, any referencein sections 10135 through 10138 of this title to a repository shall be considered to refer to a monitored retrievable storage facility.
 
 (Pub. L. 97–425, title I, §141, Jan. 7, 1983, 96 Stat. 2241.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

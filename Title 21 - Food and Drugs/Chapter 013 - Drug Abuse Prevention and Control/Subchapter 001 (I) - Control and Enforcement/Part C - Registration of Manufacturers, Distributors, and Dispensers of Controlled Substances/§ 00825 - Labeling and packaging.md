@@ -58,7 +58,7 @@ Pub. L. 113–260, §4, Dec. 18, 2014, 128 Stat. 2932, provided that:
 
 "(a)
 
-In General.—The Attorney General may, in the Attorney General's discretion, collect data and analyze products to determine whether they contain anabolic steroids and are properly labeled in accordance with this Act \[see section 1 of Pub. L. 113–260, set out as a Short Title of 2014 Amendment note under section 801 of this title\] and the amendments made by this Act. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products which the Attorney General has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this Act and the amendments made by this Act.
+In General.—The Attorney General may, in the Attorney General's discretion, collect data and analyze products to determine whether they contain anabolicsteroids and are properly labeled in accordance with this Act \[see section 1 of Pub. L. 113–260, set out as a Short Title of 2014 Amendment note under section 801 of this title\] and the amendments made by this Act. The Attorney General may publish in the Federal Register or on the website of the Drug Enforcement Administration a list of products which the Attorney General has determined, based on substantial evidence, contain an anabolic steroid and are not labeled in accordance with this Act and the amendments made by this Act.
 
 "(b)
 

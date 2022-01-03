@@ -20,6 +20,8 @@ Aug. 7, 1947, ch. 512, §515(c) (last sentence), 61 Stat. 907.
 
 The word "commissioned" is inserted for clarity, since the source statute related only to commissioned officers. The words "in his discretion, from time to time" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7222 to 7224 were renumbered sections 8622 to 8624 of this title, respectively.
@@ -27,6 +29,8 @@ Prior sections 7222 to 7224 were renumbered sections 8622 to 8624 of this title,
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 3572 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

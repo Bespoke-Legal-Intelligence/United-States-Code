@@ -54,7 +54,7 @@ The prohibitions in subsections (a) through (c) shall be published in a notice i
 
 #### (2) Administrative proceeding
 
-&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued under paragraph (1), by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice of the assessment or order to such person by certified mail with return receipt and provide information in the notice of an opportunity to request in writing, not later than 30 days after the date of receipt of such notice, such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form that may be used to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing, which shall be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
+&emsp;A civil penalty may be assessed in a written notice, or an administrative compliance order may be issued under paragraph (1), by the Secretary only after an opportunity for a hearing in accordance with section 554 of title 5. Before making such assessment or issuing such order, or both, the Secretary shall give written notice of the assessment or order to suchperson by certified mail with return receipt and provide information in the notice of an opportunity to request in writing, not later than 30 days after the date of receipt of such notice, such hearing. The notice shall reasonably describe the violation and be accompanied with the procedures for such hearing and a simple form that may be used to request such hearing if such person desires to use such form. If a hearing is requested, the Secretary shall establish by such certified notice the time and place for such hearing, which shall be located, to the greatest extent possible, at a location convenient to such person. The Secretary (or the Secretary's designee) and such person may consult to arrange a suitable date and location where appropriate.
 
 #### (3) Circumstances affecting penalty or order
 
@@ -80,6 +80,8 @@ The prohibitions in subsections (a) through (c) shall be published in a notice i
 
 (Pub. L. 89–10, title VIII, §8573, formerly title IV, §4303, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1774; renumbered title IX, §9563, renumbered title VIII, §8573, and amended Pub. L. 114–95, title IV, §4001(a)(1), (4)(A), (B), (C)(ii), title VIII, §8001(a)(9), Dec. 10, 2015, 129 Stat. 1966, 2088, 2089.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was classified to section 7183 of this title prior to renumbering by Pub. L. 114–95.
@@ -93,6 +95,8 @@ Subsec. (c)(2). Pub. L. 114–95, §4001(a)(1)(B)(i), substituted "education pro
 Subsec. (c)(2)(A). Pub. L. 114–95, §4001(a)(1)(B)(ii), substituted "education programs" for "development (Head Start) services".
 
 Subsec. (e)(3)(C). Pub. L. 114–95, §4001(a)(1)(C), added subpar. (C) and struck out former subpar. (C) which was missing an opening parenthesis before the subpar. designation and read as follows: "such other matters as justice may require."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

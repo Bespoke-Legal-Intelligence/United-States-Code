@@ -36,13 +36,13 @@ The Administrator, alone or after consultation with the Secretary of Energy, sha
 
 (B) The Administrator shall (i) assist, on the basis of any research projects which are developed with assistance under this chapter or without Federal assistance, the construction of pilot plant facilities for the purpose of investigating or testing the technological feasibility of any promising new fuel, energy, or resource recovery or resource conservation method or technology; and (ii) demonstrate each such method and technology that appears justified by an evaluation at such pilot plant stage or at a pilot plant stage developed without Federal assistance. Each such demonstration shall incorporate new or innovative technical advances or shall apply such advances to different circumstances and conditions, for the purpose of evaluating design concepts or to test the performance, efficiency, and economic feasibility of a particular method or technology under actual operating conditions. Each such demonstration shall be so planned and designed that, if successful, it can be expanded or utilized directly as a full-scale operational fuel, energy, or resource recovery or resource conservation facility.
 
-(2) Any energy-related research, development, or demonstration project for the conversion including bioconversion, of solid waste carried out by the Environmental Protection Agency or by the Secretary of Energy pursuant to this chapter or any other Act shall be administered in accordance with the May 7, 1976, Interagency Agreement between the Environmental Protection Agency and the Energy Research and Development Administration on the Development of Energy from Solid Wastes and specifically, that in accordance with this agreement, (A) for those energy-related projects of mutual interest, planning will be conducted jointly by the Environmental Protection Agency and the Secretary of Energy, following which project responsibility will be assigned to one agency; (B) energy-related portions of projects for recovery of synthetic fuels or other forms of energy from solid waste shall be the responsibility of the Secretary of Energy; (C) the Environmental Protection Agency shall retain responsibility for the environmental, economic, and institutional aspects of solid waste projects and for assurance that such projects are consistent with any applicable suggested guidelines published pursuant to section 6907 of this title, and any applicable State or regional solid waste management plan; and (D) any activities undertaken under provisions of sections 6982 and 6983 of this title as related to energy; as related to energy or synthetic fuels recovery from waste; or as related to energy conservation shall be accomplished through coordination and consultation with the Secretary of Energy.
+(2) Any energy-related research, development, or demonstration project for the conversion including bioconversion, of solid waste carried out by the Environmental Protection Agency or by the Secretary of Energy pursuant to this chapter or any other Act shall be administered in accordance with the May 7, 1976, Interagency Agreement between the Environmental Protection Agency and the Energy Research and Development Administration on the Development of Energy from Solid Wastes and specifically, that in accordance with this agreement, (A) for thoseenergy-related projects of mutual interest, planning will be conducted jointly by the Environmental Protection Agency and the Secretary of Energy, following which project responsibility will be assigned to one agency; (B) energy-related portions of projects for recovery of synthetic fuels or other forms of energy from solid waste shall be the responsibility of the Secretary of Energy; (C) the Environmental Protection Agency shall retain responsibility for the environmental, economic, and institutional aspects of solid waste projects and for assurance that such projects are consistent with any applicable suggested guidelines published pursuant to section 6907 of this title, and any applicable State or regional solid waste management plan; and (D) any activities undertaken under provisions of sections 6982 and 6983 of this title as related to energy; as related to energy or synthetic fuels recovery from waste; or as related to energy conservation shall be accomplished through coordination and consultation with the Secretary of Energy.
 
 #### (c) Authorities
 
 (1) In carrying out subsection (a) of this section respecting solid waste research, studies, development, and demonstration, except as otherwise specifically provided in section 6984(d) of this title, the Administrator may make grants to or enter into contracts (including contracts for construction) with, public agencies and authorities or private persons.
 
-(2) Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations provided with respect to research contracts of the military departments in section 2353 of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator.
+(2) Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations provided with respect to research contracts of the military departments in section 2353 <sup>1</sup> of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator.
 
 (3) Any invention made or conceived in the course of, or under, any contract under this chapter shall be subject to section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 \[42 U.S.C. 5908\] to the same extent and in the same manner as inventions made or conceived in the course of contracts under such Act \[42 U.S.C. 5901 et seq.\], except that in applying such section, the Environmental Protection Agency shall be substituted for the Secretary of Energy and the words "solid waste" shall be substituted for the word "energy" where appropriate.
 
@@ -50,7 +50,11 @@ The Administrator, alone or after consultation with the Secretary of Energy, sha
 
 (Pub. L. 89–272, title II, §8001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2829; amended Pub. L. 95–91, title III, §301, title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–609, §7(s), Nov. 8, 1978, 92 Stat. 3083.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
+
+Section 2353 of title 10, referred to in subsec. (c)(2), was renumbered section 4174 of title 10 by Pub. L. 116–283, div. A, title XVIII, §1844(b)(1), Jan. 1, 2021, 134 Stat. 4245, as amended by Pub. L. 117–81, div. A, title XVII, §1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.
 
 Such Act, referred to in subsec. (c)(3), means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
@@ -64,11 +68,11 @@ Provisions similar to those in this section were contained in section 3253 of th
 
 Subsec. (a)(13). Pub. L. 95–609, §7(s)(2), inserted "treatment," after "for purpose of".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 "Secretary of Energy" was substituted for "Administrator of the Federal Energy Administration, the Administrator of the Energy Research and Development Administration, or the Chairman of the Federal Power Commission" in subsec. (a), and for "Energy Research and Development Administration" in subsecs. (b)(2) and (c)(3), in view of the termination of the Federal Energy Administration, the Energy Research and Development Administration, and the Federal Power Commission and the transfer of their functions and the functions of the Administrators and Chairman thereof (with certain exceptions) to the Secretary of Energy pursuant to sections 301, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7293, and 7297 of this title.
-
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 
 #### EPA Study of Methods To Reduce Plastic Pollution
 
@@ -80,9 +84,17 @@ Pub. L. 96–482, §33, Oct. 21, 1980, 94 Stat. 2356, as amended by Pub. L. 105�
 
 #### Solid Waste Cleanup on Federal Lands in Alaska; Study and Report to Congressional Committees
 
-Pub. L. 94–580, §3, Oct. 21, 1976, 90 Stat. 2840, provided for a study of procedures for removal of solid waste from Federal lands in Alaska and submission of a Presidential Report to the Senate Committee on Public Lands and House Committee on Interstate and Foreign Commerce no later than one year after Oct. 21, 1976, and implementing recommendations to such committees within six months thereafter, prior to repeal by Pub. L. 96–482, §30, Oct. 21, 1980, 94 Stat. 2352.
+Pub. L. 94–580, §3, Oct. 21, 1976, 90 Stat. 2840, provided for a study of procedures for removal of solid waste from Federal lands in Alaska and submission of a Presidential Report to the Senate Committee on Public Lands and House Committee on Interstate and Foreign Commerce no later than one year after Oct. 21, 1976,and implementing recommendations to such committees within six months thereafter, prior to repeal by Pub. L. 96–482, §30, Oct. 21, 1980, 94 Stat. 2352.
 
 #### Leachate Control Research Program in Delaware
 
 Pub. L. 94–580, §4, Oct. 21, 1976, 90 Stat. 2840, directed Administrator of Environmental Protection Agency, in order to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

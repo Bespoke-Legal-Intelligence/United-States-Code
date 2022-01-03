@@ -64,9 +64,11 @@ If the Secretary elects to use the authority provided by this section, the Secre
 
 #### (g) Enforcement
 
-The Secretary, and any person or governmental entity designated by the Secretary, may enforce a contract entered into by the Secretary under this section.
+The Secretary, and any person or governmental entity designated by the Secretary, mayenforce a contract entered into by the Secretary under this section.
 
 (Pub. L. 87–128, title III, §349, as added Pub. L. 99–198, title XIII, §1318(a), Dec. 23, 1985, 99 Stat. 1530; amended Pub. L. 100–233, title VI, §612, Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–624, title XVIII, §1815, title XXIII, §2388(j), Nov. 28, 1990, 104 Stat. 3825, 4053; Pub. L. 104–127, title VI, §642, Apr. 4, 1996, 110 Stat. 1102.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -101,6 +103,8 @@ Subsec. (h). Pub. L. 101–624, §1815(9), struck out subsec. (h) which read as 
 <b>1988</b>—Subsec. (c)(4). Pub. L. 100–233, §612(1), inserted "and other wildlife habitat" after "wetland".
 
 Subsec. (e). Pub. L. 100–233, §612(2), inserted "or the difference between the amount of the outstanding loan secured by the land and the current value of the land, whichever is greater" at end of second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

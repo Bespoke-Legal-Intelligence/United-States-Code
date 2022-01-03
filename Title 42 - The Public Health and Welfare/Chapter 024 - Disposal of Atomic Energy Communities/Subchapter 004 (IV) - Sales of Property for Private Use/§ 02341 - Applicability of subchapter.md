@@ -4,6 +4,8 @@ The provisions of this subchapter shall be made applicable at each community as 
 
 (Aug. 4, 1955, ch. 543, ch. 5, §51, 69 Stat. 476.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.

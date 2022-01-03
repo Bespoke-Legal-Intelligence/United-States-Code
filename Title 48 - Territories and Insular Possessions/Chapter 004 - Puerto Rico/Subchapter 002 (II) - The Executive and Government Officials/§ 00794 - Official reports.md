@@ -4,13 +4,19 @@ All reports required by law to be made by the governor or heads of departments t
 
 (Mar. 2, 1917, ch. 145, §11, 39 Stat. 955; May 17, 1932, ch. 190, 47 Stat. 158.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in act July 15, 1909, ch. 4, §2, 36 Stat. 11.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Puerto Rico" substituted in text for "Porto Rico" pursuant to act May 17, 1932, which is classified to section 731a of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 9383.
 

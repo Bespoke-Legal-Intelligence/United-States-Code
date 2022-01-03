@@ -6,7 +6,7 @@ If the day regularly designated for the delivery of benefit checks under subchap
 
 #### (b) Recovery of overpayments
 
-If more than the correct amount of payment under subchapter II, VIII, or XVI is made to any individual as a result of the receipt of a benefit check pursuant to subsection (a) before the end of the month for which such check is issued, noaction shall be taken (under section 404 or 1383(b) of this title or otherwise) to recover such payment or the incorrect portion thereof.
+If more than the correct amount of payment under subchapter II, VIII, or XVI is made to any individual as a result of the receipt of a benefit check pursuant to subsection (a) before the end of the month for which such check is issued, no action shall be taken (under section 404 or 1383(b) of this title or otherwise) to recover such payment or the incorrect portion thereof.
 
 #### (c) Early delivery
 
@@ -14,11 +14,15 @@ For purposes of computing the "OASDI trust fund ratio" under section 401(l) of t
 
 (Aug. 14, 1935, ch. 531, title VII, §708, as added Pub. L. 95–216, title III, §333(a), Dec. 20, 1977, 91 Stat. 1543; amended Pub. L. 99–272, title XII, §12111(a), Apr. 7, 1986, 100 Stat. 287; Pub. L. 106–169, title II, §251(b)(5), Dec. 14, 1999, 113 Stat. 1855.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsecs. (a), (b). Pub. L. 106–169 substituted "subchapter II, VIII," for "subchapter II".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–272 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

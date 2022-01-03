@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary shall issue regulations establishing procedures under which eligible units of general local government are required to provide notice to the Secretary of the units' proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
+In General.—The Secretary shall issue regulations establishing procedures under whicheligible units of general local government are required to provide notice to the Secretary of the units' proposed use of assistance under this chapter. Subject to subsection (c), the assistance provided shall be used, in amounts determined by the unit, for activities under, or for activities that are substantially similar to an activity under, 1 or more of the following programs and the notice shall identify 1 or more of the following programs for each such use:
 
 &emsp;(1) The Drug Abuse Resistance Education Program under section 5122 of the Elementary and Secondary Education Act of 1965.
 
@@ -68,7 +68,7 @@ General Requirements for Qualification.—A unit of general local government qua
 
 &emsp;(4) if at least 25 percent of the pay of individuals employed by the government in a public employee occupation is paid out of the trust fund, individuals in the occupation any part of whose pay is paid out of the trust fund will receive pay at least equal to the prevailing rate of pay for individuals employed in similar public employee occupations by the government;
 
-&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction, including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
+&emsp;(5) all laborers and mechanics employed by contractors or subcontractors in the performance of any contract and subcontract for the repair, renovation, alteration, or construction,including painting and decorating, of any building or work that is financed in whole or in part by a grant under this title, shall be paid wages not less than those determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have the authority and functions set forth in Reorganization Plan No. 14 of 1950 (15 FR 3176; 64 Stat. 1267) and section 3145 of title 40;
 
 &emsp;(6) the government will use accounting, audit, and fiscal procedures that conform to guidelines which shall be prescribed by the Secretary. As applicable, amounts received under this chapter shall be audited in compliance with the Single Audit Act of 1984;
 
@@ -132,7 +132,7 @@ The Higher Education Act of 1965, referred to in subsec. (a)(10), is Pub. L. 89�
 
 The National Literacy Act of 1991, referred to in subsec. (a)(11), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
-The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683,which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (a)(12), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
 Sections 203 and 401 of the Human Services Reauthorization Act of 1994 (Public Law 103–252), referred to in subsec. (a)(13), (16), probably mean sections 203 and 401 of the Human Services Amendments of 1994, Pub. L. 103–252, May 18, 1994, 108 Stat. 654, 666. Section 203 of Pub. L. 103–252 amended section 9910 of Title 42, The Public Health and Welfare. Section 401 of Pub. L. 103–252 generally amended subchapter III (§5116 et seq.) of chapter 67 of Title 42 and repealed sections 5106a–1 and 12339 of Title 42.
 

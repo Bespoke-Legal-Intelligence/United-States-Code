@@ -62,7 +62,7 @@ The records of hearing officers and the Board may be made public if required for
 
 &emsp;In this subsection, the "final disposition" of a claim means any of the following:
 
-&emsp;&emsp;(A) An order or agreement to pay an award or settlement, including an agreementreached pursuant to mediation under section 1403 of this title.
+&emsp;&emsp;(A) An order or agreement to pay an award or settlement, including an agreement reached pursuant to mediation under section 1403 of this title.
 
 &emsp;&emsp;(B) A final decision of a hearing officer under section 1405(g) of this title that is no longer subject to review by the Board under section 1406 of this title.
 

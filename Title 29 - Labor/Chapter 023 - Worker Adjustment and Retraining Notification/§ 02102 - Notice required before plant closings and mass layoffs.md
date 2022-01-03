@@ -22,7 +22,7 @@ An employer shall not order a plant closing or mass layoff until the end of a 60
 
 #### (c) Extension of layoff period
 
-A layoff of more than 6 months which, at its outset, was announced to be a layoff of 6 monthsor less, shall be treated as an employment loss under this chapter unless—
+A layoff of more than 6 months which, at its outset, was announced to be a layoff of 6 months or less, shall be treated as an employment loss under this chapter unless—
 
 &emsp;(1) the extension beyond 6 months is caused by business circumstances (including unforeseeable changes in price or cost) not reasonably foreseeable at the time of the initial layoff; and
 

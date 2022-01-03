@@ -20,9 +20,13 @@ The Associate Director of the Central Intelligence Agency for Military Affairs s
 
 (Pub. L. 114–328, div. A, title X, §1054, Dec. 23, 2016, 130 Stat. 2398.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of the Central Intelligence Agency Act of 1949 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

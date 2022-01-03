@@ -10,9 +10,13 @@ The property report shall not be used for any promotional purposes before the st
 
 (Pub. L. 90–448, title XIV, §1408, Aug. 1, 1968, 82 Stat. 594; Pub. L. 111–203, title X, §1098A(1), July 21, 2010, 124 Stat. 2105.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

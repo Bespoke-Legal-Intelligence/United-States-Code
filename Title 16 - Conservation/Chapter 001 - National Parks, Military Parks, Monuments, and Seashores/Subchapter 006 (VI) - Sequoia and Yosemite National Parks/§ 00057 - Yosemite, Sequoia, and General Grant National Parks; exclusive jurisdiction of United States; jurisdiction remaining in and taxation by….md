@@ -4,9 +4,13 @@ Sole and exclusive jurisdiction is assumed by the United States over the territo
 
 (June 2, 1920, ch. 218, §1, 41 Stat. 731.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 A provision accepting the act of the California Legislature which ceded to the United States exclusive jurisdiction over the territory referred to in this section has been omitted as executed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### General Grant National Park Abolished
 

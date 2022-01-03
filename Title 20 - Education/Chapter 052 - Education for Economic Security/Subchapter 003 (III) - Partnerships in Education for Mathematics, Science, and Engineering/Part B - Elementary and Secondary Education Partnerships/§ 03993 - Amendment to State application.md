@@ -20,9 +20,11 @@ The Secretary shall require each application to include—
 
 (Pub. L. 98–377, title III, §323, as added Pub. L. 100–418, title VI, §6031(a)(2), Aug. 23, 1988, 102 Stat. 1480.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, as amended, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
+Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, asamended, which was classified to section 3969 of this title prior to repeal by Pub. L. 100–297, title II, §2303, Apr. 28, 1988, 102 Stat. 324.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

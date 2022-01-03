@@ -22,6 +22,8 @@ The congressional committees referred to in subsection (a) are the following:
 
 (Pub. L. 101–510, div. A, title XIV, §1403, Nov. 5, 1990, 104 Stat. 1675; Pub. L. 104–106, div. A, title XV, §1502(c)(4)(B), Feb. 10, 1996, 110 Stat. 507; Pub. L. 106–65, div. A, title X, §1067(10), Oct. 5, 1999, 113 Stat. 774; Pub. L. 111–259, title VIII, §805(a)–(d)(1), Oct. 7, 2010, 124 Stat. 2748.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 404b of this title prior to editorial reclassification and renumbering as this section.
@@ -41,6 +43,8 @@ Subsec. (c). Pub. L. 111–259, §805(b)(1), (c), substituted "Director of Natio
 <b>1996</b>—Subsec. (a). Pub. L. 104–106, §1502(c)(4)(B)(i), substituted "the congressional committees specified in subsection (d) each year" for "the Committees on Armed Services and Appropriations of the Senate and the House of Representatives and the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives each year".
 
 Subsec. (d). Pub. L. 104–106, §1502(c)(4)(B)(ii), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2002 Amendment
 

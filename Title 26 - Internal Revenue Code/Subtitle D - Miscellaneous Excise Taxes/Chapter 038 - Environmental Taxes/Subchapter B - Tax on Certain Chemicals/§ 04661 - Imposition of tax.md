@@ -61,7 +61,70 @@ The amount of the tax imposed by subsection (a) shall be determined in accordanc
 
 No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
 
-(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §513(a), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(c)(3), Oct. 21, 1986, 100 Stat. 1958.)
+(Added Pub. L. 96–510, title II, §211(a), Dec. 11, 1980, 94 Stat. 2798; amended Pub. L. 99–499, title V, §513(a), Oct. 17, 1986, 100 Stat. 1761; Pub. L. 99–509, title VIII, §8032(c)(3), Oct. 21, 1986, 100 Stat. 1958; Pub. L. 117–58, div. H, title II, §80201(a)(1), (b)(1), Nov. 15, 2021, 135 Stat. 1328, 1329.)
+
+#### Amendment of Subsections (b) and (c)
+
+<i>Pub. L. 117–58, div. H, title II, §80201(a)(1), (b)(1), (d), Nov. 15, 2021, 135 Stat. 1328–1330, provided that, effective July 1, 2022, subsections (b) and (c) of this section are amended to read as follows:</i>
+
+#### <i>"(b) Amount of Tax</i>
+
+<i>"The amount of tax imposed by subsection (a) shall be determined in accordance with the following table:</i>
+
+&nbsp;
+
+| "In the case of: | <i>The tax is the following amount per ton:</i> |
+| :--- | ---: |
+| <i>Acetylene</i> | <i>$9.74</i> |
+| <i>Benzene</i> | <i>9.74</i> |
+| <i>Butane</i> | <i>9.74</i> |
+| <i>Butylene</i> | <i>9.74</i> |
+| <i>Butadiene</i> | <i>9.74</i> |
+| <i>Ethylene</i> | <i>9.74</i> |
+| <i>Methane</i> | <i>6.88</i> |
+| <i>Napthalene</i> | <i>9.74</i> |
+| <i>Propylene</i> | <i>9.74</i> |
+| <i>Toluene</i> | <i>9.74</i> |
+| <i>Xylene</i> | <i>9.74</i> |
+| <i>Ammonia</i> | <i>5.28</i> |
+| <i>Antimony</i> | <i>8.90</i> |
+| <i>Antimony trioxide</i> | <i>7.50</i> |
+| <i>Arsenic</i> | <i>8.90</i> |
+| <i>Arsenic trioxide</i> | <i>6.82</i> |
+| <i>Barium sulfide</i> | <i>4.60</i> |
+| <i>Bromine</i> | <i>8.90</i> |
+| <i>Cadmium</i> | <i>8.90</i> |
+| <i>Chlorine</i> | <i>5.40</i> |
+| <i>Chromium</i> | <i>8.90</i> |
+| <i>Chromite</i> | <i>3.04</i> |
+| <i>Potassium dichromate</i> | <i>3.38</i> |
+| <i>Sodium dichromate</i> | <i>3.74</i> |
+| <i>Cobalt</i> | <i>8.90</i> |
+| <i>Cupric sulfate</i> | <i>3.74</i> |
+| <i>Cupric oxide</i> | <i>7.18</i> |
+| <i>Cuprous oxide</i> | <i>7.94</i> |
+| <i>Hydrochloric acid</i> | <i>0.58</i> |
+| <i>Hydrogen fluoride</i> | <i>8.46</i> |
+| <i>Lead oxide</i> | <i>8.28</i> |
+| <i>Mercury</i> | <i>8.90</i> |
+| <i>Nickel</i> | <i>8.90</i> |
+| <i>Phosphorus</i> | <i>8.90</i> |
+| <i>Stannous chloride</i> | <i>5.70</i> |
+| <i>Stannic chloride</i> | <i>4.24</i> |
+| <i>Zinc chloride</i> | <i>4.44</i> |
+| <i>Zinc sulfate</i> | <i>3.80</i> |
+| <i>Potassium hydroxide</i> | <i>0.44</i> |
+| <i>Sodium hydroxide</i> | <i>0.56</i> |
+| <i>Sulfuric acid</i> | <i>0.52</i> |
+| <i>Nitric acid</i> | <i>0.48."</i> |
+
+#### <i>"(c) Termination</i>
+
+<i>"No tax shall be imposed by this section after December 31, 2031."</i>
+
+<i>See 2021 Amendment notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -69,9 +132,19 @@ Amendment by Pub. L. 99–509, title VIII, §8031(d)(2), Oct. 21, 1986, 100 Stat
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b). Pub. L. 117–58, §80201(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) set out the amount of tax on certain taxable chemicals.
+
+Subsec. (c). Pub. L. 117–58, §80201(a)(1), amended subsec. (c) generally. Prior to amendment, text read as follows: "No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply."
+
 <b>1986</b>—Subsec. (b). Pub. L. 99–499 inserted at end "For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting '10.13' for '4.87'."
 
 Subsec. (c). Pub. L. 99–509 substituted "the Hazardous Substance Superfund financing rate under section 4611 does not apply" for "no tax is imposed under section 4611(a)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. H, title II, §80201(d), Nov. 15, 2021, 135 Stat. 1330, provided that: "The amendments made by this section \[amending this section and sections 4671 and 4672 of this title\] shall take effect on July 1, 2022."
 
 #### Effective Date of 1986 Amendments
 

@@ -1,5 +1,7 @@
 ### §1522. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act June 17, 1930, ch. 497, title IV, §522, 46 Stat. 739, amended section 372 of former Title 31. See section 5151 of Title 31, Money and Finance.

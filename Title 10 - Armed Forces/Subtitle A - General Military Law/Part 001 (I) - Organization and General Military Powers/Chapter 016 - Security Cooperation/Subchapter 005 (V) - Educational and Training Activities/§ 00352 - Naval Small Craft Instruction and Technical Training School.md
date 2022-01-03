@@ -40,6 +40,8 @@ Annual Report.—Not later than March 15 each year, the Secretary of Defense, wi
 
 (Added Pub. L. 115–232, div. A, title XII, §1208(a)(1), Aug. 13, 2018, 132 Stat. 2021.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Limitation on Use of Funds
 
 Pub. L. 115–232, div. A, title XII, §1208(c), Aug. 13, 2018, 132 Stat. 2022, provided that:

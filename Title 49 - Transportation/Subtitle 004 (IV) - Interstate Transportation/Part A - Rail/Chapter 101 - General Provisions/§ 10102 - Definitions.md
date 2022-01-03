@@ -34,6 +34,8 @@ In this part—
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 806.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 10102 and 10103 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -96,7 +98,7 @@ Section 10344, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1354; Pub. L. 96–296,
 
 Section 10361, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1355, related to Rail Services Planning Office.
 
-Section 10362, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1355; Pub. L. 98–216, §2(5)–(7), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–509, title IV, §4033(c)(7), Oct. 21, 1986, 100 Stat. 1909; Pub. L. 103–272, §4(j)(13), July 5, 1994, 108 Stat. 1368, related to duties of Rail Services Planning Office.
+Section 10362, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1355; Pub. L. 98–216, §2(5)–(7), Feb. 14, 1984, 98 Stat. 5; Pub. L. 99–509, title IV, §4033(c)(7), Oct. 21, 1986, 100Stat. 1909; Pub. L. 103–272, §4(j)(13), July 5, 1994, 108 Stat. 1368, related to duties of Rail Services Planning Office.
 
 Section 10363, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1356; Pub. L. 103–272, §4(j)(14), July 5, 1994, 108 Stat. 1369, related to appointment and duties of Director of Rail Services Planning Office.
 
@@ -117,6 +119,8 @@ Section 10386, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to report
 Section 10387, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358, related to budget requests and estimates of Office of Rail Public Counsel.
 
 Section 10388, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1358; Pub. L. 96–73, title III, §301, Sept. 29, 1979, 93 Stat. 557, authorized appropriations for Office of Rail Public Counsel for fiscal year ending Sept. 30, 1980.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

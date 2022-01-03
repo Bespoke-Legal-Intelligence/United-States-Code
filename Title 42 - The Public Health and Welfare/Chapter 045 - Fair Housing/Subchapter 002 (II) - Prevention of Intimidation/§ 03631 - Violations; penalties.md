@@ -1,6 +1,6 @@
 ### §3631. Violations; penalties
 
-Whoever, whether or not acting under color of law, by force or threat of force willfully injuries, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
+Whoever, whether or not acting under color of law, by force or threat of force willfully injures, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
 
 &emsp;(a) any person because of his race, color, religion, sex, handicap (as such term is defined in section 3602 of this title), familial status (as such term is defined in section 3602 of this title), or national origin and because he is or has been selling, purchasing, renting, financing, occupying, or contracting or negotiating for the sale, purchase, rental, financing or occupation of any dwelling, or applying for or participating in any service, organization, or facility relating to the business of selling or renting dwellings; or
 
@@ -16,6 +16,8 @@ Whoever, whether or not acting under color of law, by force or threat of force w
 
 (Pub. L. 90–284, title IX, §901, Apr. 11, 1968, 82 Stat. 89; Pub. L. 93–383, title VIII, §808(b)(4), Aug. 22, 1974, 88 Stat. 729; Pub. L. 100–430, §9, Sept. 13, 1988, 102 Stat. 1635; Pub. L. 103–322, title XXXII, §320103(e), Sept. 13, 1994, 108 Stat. 2110; Pub. L. 104–294, title VI, §604(b)(15), (27), Oct. 11, 1996, 110 Stat. 3507, 3508.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–294, §604(b)(27), substituted "under title 18" for "under this title" wherever appearing in closing provisions.
@@ -29,6 +31,8 @@ Pub. L. 103–322, §320103(e)(2)–(7), as amended by Pub. L. 104–294, §604(
 <b>1988</b>—Cls. (a), (b)(1), (c). Pub. L. 100–430 inserted ", handicap (as such term is defined in section 3602 of this title), familial status (as such term is defined in section 3602 of this title)," after "sex".
 
 <b>1974</b>—Pub. L. 93–383 inserted ", sex" after "religion" wherever appearing in cls. (a), (b)(1), and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -24,7 +24,9 @@ Amounts in the Harbor Maintenance Trust Fund shall be available, as provided by 
 
 &emsp;(3) for the payment of all expenses of administration incurred by the Department of the Treasury, the Army Corps of Engineers, and the Department of Commerce related to the administration of subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year.
 
-(Added Pub. L. 99–662, title XIV, §1403(a), Nov. 17, 1986, 100 Stat. 4269; amended Pub. L. 103–182, title VI, §683(a), Dec. 8, 1993, 107 Stat. 2218; Pub. L. 104–303, title VI, §601, Oct. 12, 1996, 110 Stat.3792; Pub. L. 113–121, title II, §2102(c), June 10, 2014, 128 Stat. 1278; Pub. L. 116–260, div. AA, title V, §512(c)(3), Dec. 27, 2020, 134 Stat. 2756.)
+(Added Pub. L. 99–662, title XIV, §1403(a), Nov. 17, 1986, 100 Stat. 4269; amended Pub. L. 103–182, title VI, §683(a), Dec. 8, 1993, 107 Stat. 2218; Pub. L. 104–303, title VI, §601, Oct. 12, 1996, 110 Stat. 3792; Pub. L. 113–121, title II, §2102(c), June 10, 2014, 128 Stat. 1278; Pub. L. 116–260, div. AA, title V, §512(c)(3), Dec. 27, 2020, 134 Stat. 2756.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Section 210 of the Water Resources Development Act of 1986, referred to in subse
 &emsp;"(A) by the Department of the Treasury in administering subchapter A of chapter 36 (relating to harbor maintenance tax), but not in excess of $5,000,000 for any fiscal year, and
 
 &emsp;"(B) for periods during which no fee applies under paragraph (9) or (10) of section 13031(a) of the Consolidated Omnibus Budget Reconciliation Act of 1985."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

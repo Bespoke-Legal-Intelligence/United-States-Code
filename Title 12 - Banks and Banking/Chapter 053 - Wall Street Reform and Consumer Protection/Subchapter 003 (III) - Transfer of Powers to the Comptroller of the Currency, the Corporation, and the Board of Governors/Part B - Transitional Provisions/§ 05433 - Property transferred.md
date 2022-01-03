@@ -12,7 +12,7 @@ For purposes of this section, the term "property" includes all real property (in
 
 #### (2) Personal property
 
-&emsp;All books, accounts, records, reports, files, memoranda, papers, documents, reports of examination, work papers, and correspondence of the Office of Thrift Supervision that the Comptroller of the Currency, the Chairperson of the Corporation, and the Chairman of the Board of Governors jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Board of Governors under this title <sup>1</sup> shall be transferred to the Board of Governors in a manner consistent with the purposes of this title.<sup>1</sup>
+&emsp;All books, accounts, records, reports, files, memoranda, papers, documents, reports of examination, work papers, and correspondence of the Office of Thrift Supervision that the Comptroller of the Currency, the Chairpersonof the Corporation, and the Chairman of the Board of Governors jointly determine is used, on the day before the transfer date, to perform or support the functions of the Office of Thrift Supervision transferred to the Board of Governors under this title <sup>1</sup> shall be transferred to the Board of Governors in a manner consistent with the purposes of this title.<sup>1</sup>
 
 #### (c) Contracts related to property transferred
 

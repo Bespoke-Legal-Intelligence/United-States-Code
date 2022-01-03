@@ -16,7 +16,7 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 #### (c) Discrimination prohibition
 
-(1) No entity which receives a grant, contract, loan, or loan guarantee under the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6000 et seq.\] after June 18, 1973, may—
+(1) No entity which receives a grant, contract, loan, or loan guarantee under the Public HealthService Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Services and Facilities Construction Act \[42 U.S.C. 6000 et seq.\] after June 18, 1973, may—
 
 &emsp;(A) discriminate in the employment, promotion, or termination of employment of any physician or other health care personnel, or
 
@@ -34,13 +34,15 @@ The receipt of any grant, contract, loan, or loan guarantee under the Public Hea
 
 #### (d) Individual rights respecting certain requirements contrary to religious beliefs or moral convictions
 
-No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activitywould be contrary to his religious beliefs or moral convictions.
+No individual shall be required to perform or assist in the performance of any part of a health service program or research activity funded in whole or in part under a program administered by the Secretary of Health and Human Services if his performance or assistance in the performance of such part of such program or activity would be contrary to his religious beliefs or moral convictions.
 
 #### (e) Prohibition on entities receiving Federal grant, etc., from discriminating against applicants for training or study because of refusal of applicant to participate on religious or moral grounds
 
 No entity which receives, after September 29, 1979, any grant, contract, loan, loan guarantee, or interest subsidy under the Public Health Service Act \[42 U.S.C. 201 et seq.\], the Community Mental Health Centers Act \[42 U.S.C. 2689 et seq.\], or the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15001 et seq.\] may deny admission or otherwise discriminate against any applicant (including applicants for internships and residencies) for training or study because of the applicant's reluctance, or willingness, to counsel, suggest, recommend, assist, or in any way participate in the performance of abortions or sterilizations contrary to or consistent with the applicant's religious beliefs or moral convictions.
 
 (Pub. L. 93–45, title IV, §401, June 18, 1973, 87 Stat. 95; Pub. L. 93–348, title II, §214, July 12, 1974, 88 Stat. 353; Pub. L. 96–76, title II, §208, Sept. 29, 1979, 93 Stat. 583; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 106–402, title IV, §401(b)(5), Oct. 30, 2000, 114 Stat. 1738.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -68,7 +70,9 @@ Subsec. (a) of this section amended section 601 of Pub. L. 91–296, which is se
 
 Subsec. (d). Pub. L. 93–348, §214(b), added subsec. (d).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (c)(2) and (d), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (c)(2) and (d) pursuant to section 509(b)of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

@@ -4,7 +4,7 @@ No person engaged in commerce or in any activity affecting commerce shall acquir
 
 No person shall acquire, directly or indirectly, the whole or any part of the stock or other share capital and no person subject to the jurisdiction of the Federal Trade Commission shall acquire the whole or any part of the assets of one or more persons engaged in commerce or in any activity affecting commerce, where in any line of commerce or in any activity affecting commerce in any section of the country, the effect of such acquisition, of such stocks or assets, or of the use of such stock by the voting or granting of proxies or otherwise, may be substantially to lessen competition, or to tend to create a monopoly.
 
-This section shall not apply to persons purchasing such stock solely for investment and not using the same by voting or otherwise to bring about, or in attempting to bring about, the substantial lessening of competition. Norshall anything contained in this section prevent a corporation engaged in commerce or in any activity affecting commerce from causing the formation of subsidiary corporations for the actual carrying on of their immediate lawful business, or the natural and legitimate branches or extensions thereof, or from owning and holding all or a part of the stock of such subsidiary corporations, when the effect of such formation is not to substantially lessen competition.
+This section shall not apply to persons purchasing such stock solely for investment and not using the same by voting or otherwise to bring about, or in attempting to bring about, the substantial lessening of competition. Nor shall anything contained in this section prevent a corporation engaged in commerce or in any activity affecting commerce from causing the formation of subsidiary corporations for the actual carrying on of their immediate lawful business, or the natural and legitimate branches or extensions thereof, or from owning and holding all or a part of the stock of such subsidiary corporations, when the effect of such formation is not to substantially lessen competition.
 
 Nor shall anything herein contained be construed to prohibit any common carrier subject to the laws to regulate commerce from aiding in the construction of branches or short lines so located as to become feeders to the main line of the company so aiding in such construction or from acquiring or owning all or any part of the stock of such branch lines, nor to prevent any such common carrier from acquiring and owning all or any part of the stock of a branch or short line constructed by an independent company where there is no substantial competition between the company owning the branch line so constructed and the company owning the main line acquiring the property or an interest therein, nor to prevent such common carrier from extending any of its lines through the medium of the acquisition of stock or otherwise of any other common carrier where there is no substantial competition between the company extending its lines and the company whose stock, property, or an interest therein is so acquired.
 
@@ -13,6 +13,8 @@ Nothing contained in this section shall be held to affect or impair any right he
 Nothing contained in this section shall apply to transactions duly consummated pursuant to authority given by the Secretary of Transportation, Federal Power Commission, Surface Transportation Board, the Securities and Exchange Commission in the exercise of its jurisdiction under section 79j of this title,<sup>1</sup> the United States Maritime Commission, or the Secretary of Agriculture under any statutory provision vesting such power in such Commission, Board, or Secretary.
 
 (Oct. 15, 1914, ch. 323, §7, 38 Stat. 731; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 96–349, §6(a), Sept. 12, 1980, 94 Stat. 1157; Pub. L. 98–443, §9(l), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 104–88, title III, §318(1), Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–104, title VI, §601(b)(3), Feb. 8, 1996, 110 Stat. 143.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -26,9 +28,11 @@ Section 79j of this title, referred to in text, was repealed by Pub. L. 109–58
 
 <b>1984</b>—Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board" and "Commission or Secretary" for "Commission, Secretary, or Board" in sixth par.
 
-<b>1980</b>—Pub. L. 96–349, substituted "person" for "corporation" wherever appearing in first and second pars.; substituted "persons" for "corporations" in second par. and first sentence of third par.; and inserted "or in any activity affecting commerce" after "commerce" wherever appearing in first, second, and third pars.
+<b>1980</b>—Pub. L. 96–349, substituted "person" for "corporation" wherever appearing in first and second pars.;substituted "persons" for "corporations" in second par. and first sentence of third par.; and inserted "or in any activity affecting commerce" after "commerce" wherever appearing in first, second, and third pars.
 
 <b>1950</b>—Act Dec. 29, 1950, amended section generally so as to prohibit the acquisition of the whole or any part of the assets of another corporation when the effect of the acquisition may substantially lessen competition or tend to create a monopoly.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 
@@ -44,15 +48,19 @@ Pub. L. 96–349, §6(b), Sept. 12, 1980, 94 Stat. 1158, provided that: "The ame
 
 #### Transfer of Functions
 
-Federal Power Commission terminated and functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+
+Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Executive and administrative functions of Maritime Commission transferred to Chairman of Maritime Commission by Reorg. Plan No. 6 of 1949, eff. Aug. 19, 1949, 14 F.R. 5228, 63 Stat. 1069, which was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, and was formerly set out in the Appendix to Title 5, Government Organization and Employees.
 
 United States Maritime Commission abolished by Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, which was superseded in part by Reorg. Plan No. 7 of 1961, §305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710, and remains only partially set out in the Appendix to Title 5. Reorg. Plan No. 21 of 1950 transferred part of Commission's functions and part of functions of its Chairman, to Federal Maritime Board and Chairman thereof, such Board having been created by that Plan as an agency within Department of Commerce with an independent status in some respects, and transferred remainder of such Commission's functions and functions of its Chairman to Secretary of Commerce, with power vested in Secretary to authorize their performance by Maritime Administrator (the head of Maritime Administration, which likewise established by the Plan in Department of Commerce) with provision that Chairman of Federal Maritime Board should, ex officio, be such Administrator.
 
 Section 304 of Reorg. Plan No. 7 of 1961, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, set out in the Appendix to Title 5, abolished Federal Maritime Board, including offices of members of Board. Functions of Board transferred either to Federal Maritime Commission, by section 103 of Reorg. Plan No. 7 of 1961, which was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710 and formerly set out in the Appendix to Title 5, or to Secretary of Commerce, by section 202 of Reorg. Plan No. 7 of 1961, set out in the Appendix to Title 5.
-
-Maritime Administration of Department of Commerce transferred to Department of Transportation, and all related functions of Secretary and other officers and offices of Department of Commerce transferred to Department of Transportation and vested in Secretary of Transportation, by Maritime Act of 1981, Pub. L. 97–31, Aug. 6, 1981, 95 Stat. 151, which was repealed in part by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 109 of Title 49, Transportation.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

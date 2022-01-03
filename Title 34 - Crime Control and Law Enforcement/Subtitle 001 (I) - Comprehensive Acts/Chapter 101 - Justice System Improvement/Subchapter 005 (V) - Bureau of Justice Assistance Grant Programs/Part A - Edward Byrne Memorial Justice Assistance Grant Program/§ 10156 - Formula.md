@@ -20,11 +20,11 @@
 
 #### (2) Minimum allocation
 
-&emsp;If carrying out paragraph (1) would result in any State receiving an allocation less than 0.25 percent of the total amount (in this paragraph referred to as a "minimum allocation State"), then paragraph (1), as so carried out, shall not apply, and the Attorney General shall instead—
+&emsp;If carrying out paragraph (1) would result in any State receiving an allocation less than0.25 percent of the total amount (in this paragraph referred to as a "minimum allocation State"), then paragraph (1), as so carried out, shall not apply, and the Attorney General shall instead—
 
 &emsp;&emsp;(A) allocate 0.25 percent of the total amount to each State; and
 
-&emsp;&emsp;(B) using the amount remaining after carrying out subparagraph (A), carry out paragraph (1) in a manner that excludes eachminimum allocation State, including the population of and the crimes reported by such State.
+&emsp;&emsp;(B) using the amount remaining after carrying out subparagraph (A), carry out paragraph (1) in a manner that excludes each minimum allocation State, including the population of and the crimes reported by such State.
 
 #### (b) Allocation between States and units of local government
 

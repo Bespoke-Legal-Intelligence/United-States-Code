@@ -8,7 +8,7 @@
 
 &emsp;(3) Making grants to public and nonprofit private entities for the conduct of research on identifying effective strategies for preventing such violence.
 
-&emsp;(4) Providing to the public information and education on such violence, including information and education to increase awareness ofthe public health consequences of such violence.
+&emsp;(4) Providing to the public information and education on such violence, including information and education to increase awareness of the public health consequences of such violence.
 
 &emsp;(5) Training health care providers as follows:
 
@@ -23,6 +23,8 @@
 (b) For purposes of this part, the term "interpersonal violence within families and among acquaintances" includes behavior commonly referred to as domestic violence, sexual assault, spousal abuse, woman battering, partner abuse, elder abuse, and acquaintance rape.
 
 (July 1, 1944, ch. 373, title III, §393, as added Pub. L. 103–183, title II, §201(2), Dec. 14, 1993, 107 Stat. 2231.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

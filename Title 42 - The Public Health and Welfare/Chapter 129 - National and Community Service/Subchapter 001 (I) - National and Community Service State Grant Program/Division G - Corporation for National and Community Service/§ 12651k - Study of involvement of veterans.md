@@ -12,7 +12,7 @@ The Corporation shall conduct a study and submit a report to the authorizing com
 
 &emsp;(4) how existing programs and activities carried out under the national service laws could be improved to serve veterans, veterans service organizations, families of active-duty military, including gaps in services to veterans;
 
-&emsp;(5) the extent to which existing programs and activities carried out under the national service laws are coordinated and recommendations to improve such coordination includingthe methods for ensuring the efficient financial organization of services directed towards veterans; and
+&emsp;(5) the extent to which existing programs and activities carried out under the national service laws are coordinated and recommendations to improve such coordination including the methods for ensuring the efficient financial organization of services directed towards veterans; and
 
 &emsp;(6) how to improve utilization of veterans as resources and volunteers.
 
@@ -22,9 +22,13 @@ In conducting the studies and preparing the reports required under this subsecti
 
 (Pub. L. 101–610, title I, §196C, as added Pub. L. 111–13, title I, §1709, Apr. 21, 2009, 123 Stat. 1549.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For the effective date of the Serve America Act, referred to in subsec. (a), as Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

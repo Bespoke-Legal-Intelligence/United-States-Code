@@ -58,7 +58,7 @@ The Secretary shall make payments under this section only for the production of 
 
 #### (1) In general
 
-&emsp;If funding provided for a crop year is not fully allocated under the initial request for proposals under subsection (c), the Secretary shall issue additional requests for proposals for subsequent crop years under this section.
+&emsp;If funding provided for a crop year is not fully allocated under the initial request forproposals under subsection (c), the Secretary shall issue additional requests for proposals for subsequent crop years under this section.
 
 #### (2) Prorated payments
 
@@ -106,9 +106,13 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 110–234, title I, §1605, May 22, 2008, 122 Stat. 1016; Pub. L. 110–246, §4(a), title I, §1605, June 18, 2008, 122 Stat. 1664, 1744.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

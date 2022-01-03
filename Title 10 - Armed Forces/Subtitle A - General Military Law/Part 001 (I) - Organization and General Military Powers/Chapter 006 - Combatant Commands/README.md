@@ -17,6 +17,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.

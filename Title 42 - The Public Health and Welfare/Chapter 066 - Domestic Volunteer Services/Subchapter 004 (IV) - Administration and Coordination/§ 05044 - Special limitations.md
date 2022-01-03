@@ -2,7 +2,7 @@
 
 #### (a) Volunteer activities; limitation
 
-The Director shall prescribe regulations and shall carry out the provisions of this chapter so as to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)), and which will not supplant the hiring of or result in the displacement of employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)),,<sup>1</sup> or impair existing contracts for service.
+The Director shall prescribe regulations and shall carry out the provisions of this chapter so as to assure that the service of volunteers assigned, referred, or serving pursuant to grants, contracts, or agreements made under this chapter is limited to activities which would not otherwise be performed by employed workers or other volunteers (not including participantsunder this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)), and which will not supplant the hiring of or result in the displacement of employed workers or other volunteers (not including participants under this chapter and the National and Community Service Act of 1990 (42 U.S.C. 12501 et seq.)),,<sup>1</sup> or impair existing contracts for service.
 
 #### (b) Support costs
 
@@ -10,7 +10,7 @@ All support, including transportation provided to volunteers under this chapter,
 
 #### (c) Compensation of supervising agencies or organizations
 
-No agency or organization to which volunteers are assigned hereunder, or which operates or supervises any volunteer program hereunder, shall request or receive any compensation from suchvolunteers or from beneficiaries for services of volunteers supervised by such agency or organization.
+No agency or organization to which volunteers are assigned hereunder, or which operates or supervises any volunteer program hereunder, shall request or receive any compensation from such volunteers or from beneficiaries for services of volunteers supervised by such agency or organization.
 
 #### (d) Labor or antilabor organization activities; funds use prohibition
 
@@ -27,6 +27,8 @@ Persons serving as volunteers under this chapter shall provide such information 
 (2) Notwithstanding any other provision of law, a person enrolled for full-time service as a volunteer under subchapter I of this chapter who was otherwise entitled to receive assistance or services under any governmental program prior to such volunteer's enrollment shall not be denied such assistance or services because of such volunteer's failure or refusal to register for, seek, or accept employment or training during the period of such service.
 
 (Pub. L. 93–113, title IV, §404, Oct. 1, 1973, 87 Stat. 408; Pub. L. 96–143, §9, Dec. 13, 1979, 93 Stat. 1077; Pub. L. 98–288, §19, May 21, 1984, 98 Stat. 195; Pub. L. 99–551, §10(i)(7), Oct. 27, 1986, 100 Stat. 3078; Pub. L. 103–82, title III, §364, Sept. 21, 1993, 107 Stat. 908; Pub. L. 111–13, title II, §2151, Apr. 21, 2009, 123 Stat. 1591.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -48,7 +50,9 @@ Subsecs. (f), (g). Pub. L. 103–82, §364(2), (3), redesignated subsec. (g) as 
 
 <b>1984</b>—Subsec. (f). Pub. L. 98–288 struck out "and except as provided in the second sentence of this subsection" after "Notwithstanding any other provision of law" and struck out "The Director may personally make exceptions to the requirements set forth in the first sentence of this subsection for persons he finds will be assigned to carrying out functions under the Peace Corps Act (22 U.S.C. 2501 et seq.) within six months after October 1, 1973."
 
-<b>1979</b>—Subsec. (g). Pub. L. 96–143 designated existing provisions as par. (1), inserted ", except that this paragraph shall not apply in the case of such payments when the Director determines that the value of all such payments, adjusted to reflect the number of hours such volunteers are serving, is equivalent to or greater than the minimum wage then in effect under the Fair Labor Standards Act of 1938 or the minimum wage, under the laws of the State where such volunteers are serving, whichever is the greater" after "governmental program", and added par. (2).
+<b>1979</b>—Subsec. (g). Pub. L. 96–143 designated existing provisions as par. (1), inserted ", except that this paragraph shall not apply in the case of such paymentswhen the Director determines that the value of all such payments, adjusted to reflect the number of hours such volunteers are serving, is equivalent to or greater than the minimum wage then in effect under the Fair Labor Standards Act of 1938 or the minimum wage, under the laws of the State where such volunteers are serving, whichever is the greater" after "governmental program", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

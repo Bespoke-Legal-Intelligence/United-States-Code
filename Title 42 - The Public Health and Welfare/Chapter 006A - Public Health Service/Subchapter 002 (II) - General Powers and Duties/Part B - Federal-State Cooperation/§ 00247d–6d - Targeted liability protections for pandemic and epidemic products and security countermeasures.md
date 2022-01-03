@@ -164,7 +164,7 @@
 
 #### (4) Defense for acts or omissions taken pursuant to Secretary's declaration
 
-&emsp;Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in "willful misconduct" as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b), provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administration or use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
+&emsp;Notwithstanding any other provision of law, a program planner or qualified person shall not have engaged in "willful misconduct" as a matter of law where such program planner or qualified person acted consistent with applicable directions, guidelines, or recommendations by the Secretary regarding the administration or use of a covered countermeasure that is specified in the declaration under subsection (b), provided either the Secretary, or a State or local health authority, was provided with notice of information regarding serious physical injury or death from the administrationor use of a covered countermeasure that is material to the plaintiff's alleged loss within 7 days of the actual discovery of such information by such program planner or qualified person.
 
 #### (5) Exclusion for regulated activity of manufacturer or distributor
 
@@ -224,7 +224,7 @@
 
 #### (2) Persons who can sue
 
-&emsp;An action under this subsection may be brought for wrongful death or serious physical injury by any person who suffers such injury or by any representative of such a person.
+&emsp;An action under this subsection may be brought for wrongful death or serious physicalinjury by any person who suffers such injury or by any representative of such a person.
 
 #### (e) Procedures for suit
 
@@ -416,7 +416,7 @@ In this section:
 
 &emsp;The term "qualified person", when used with respect to the administration or use of a covered countermeasure, means—
 
-&emsp;&emsp;(A) a licensed health professional or other individual who is authorized to prescribe, administer, or dispense such countermeasures under the law of the State inwhich the countermeasure was prescribed, administered, or dispensed; or
+&emsp;&emsp;(A) a licensed health professional or other individual who is authorized to prescribe, administer, or dispense such countermeasures under the law of the State in which the countermeasure was prescribed, administered, or dispensed; or
 
 &emsp;&emsp;(B) a person within a category of persons so identified in a declaration by the Secretary under subsection (b).
 
@@ -436,9 +436,11 @@ In this section:
 
 (July 1, 1944, ch. 373, title III, §319F–3, as added Pub. L. 109–148, div. C, §2, Dec. 30, 2005, 119 Stat. 2818; amended Pub. L. 113–5, title IV, §402(g)(2), (3), Mar. 13, 2013, 127 Stat. 196; Pub. L. 116–127, div. F, §6005, Mar. 18, 2020, 134 Stat. 207; Pub. L. 116–136, div. A, title III, §3103, Mar. 27, 2020, 134 Stat. 361.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and\(i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

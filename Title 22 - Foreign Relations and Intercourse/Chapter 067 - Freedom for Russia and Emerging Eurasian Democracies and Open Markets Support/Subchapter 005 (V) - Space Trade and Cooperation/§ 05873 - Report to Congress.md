@@ -8,7 +8,7 @@ Within one year after October 24, 1992, the President shall submit to the design
 
 &emsp;(3) specific space hardware, space technology, and space services that have been, or could be, the subject of discussions described in section 5871(c) of this title;
 
-&emsp;(4) the trade missions carried out pursuant to section 5872(a) of this title, including theprivate participation in and the results of such missions;
+&emsp;(4) the trade missions carried out pursuant to section 5872(a) of this title, including the private participation in and the results of such missions;
 
 &emsp;(5) any barriers, regulatory or practical, that inhibit space-related trade between the United States and independent states, including any such barriers in either the United States or the independent states; and
 

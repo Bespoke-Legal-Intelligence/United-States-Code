@@ -72,6 +72,8 @@
 
 (Pub. L. 109–58, title IX, §953, Aug. 8, 2005, 119 Stat. 886; Pub. L. 115–248, §2(c), Sept. 28, 2018, 132 Stat. 3155; Pub. L. 116–260, div. Z, title II, §2003(b), Dec. 27, 2020, 134 Stat. 2462.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2020</b>—Pub. L. 116–260 amended section generally. Prior to amendment, section related to advanced fuel cycle initiative.

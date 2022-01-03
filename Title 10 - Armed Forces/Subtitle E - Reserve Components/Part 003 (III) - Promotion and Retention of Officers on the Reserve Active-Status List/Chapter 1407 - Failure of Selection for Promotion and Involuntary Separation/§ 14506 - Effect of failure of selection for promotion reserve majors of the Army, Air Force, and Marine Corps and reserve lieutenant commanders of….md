@@ -4,11 +4,15 @@ Unless retained as provided in section 12646, 12686, 14701, or 14702 of this tit
 
 (Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2951; amended Pub. L. 104–106, div. A, title XV, §1501(b)(29), Feb. 10, 1996, 110 Stat. 498; Pub. L. 106–65, div. A, title V, §514(a), Oct. 5, 1999, 113 Stat. 593.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Pub. L. 106–65 inserted "the later of (1)" after "in accordance with section 14513 of this title on" and ", or (2) the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time" before the period at end.
 
 <b>1996</b>—Pub. L. 104–106 inserted comma after "Force" in section catchline.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

@@ -6,7 +6,7 @@ Offense.—Whoever knowingly—
 
 &emsp;(1) sets fire to, damages, destroys, disables, or wrecks any vessel;
 
-&emsp;(2) places or causes to be placed a destructive device, as defined in section 921(a)(4), destructive substance, as defined in section 31(a)(3), or an explosive, as defined in section 844(j) in, upon, or near, or otherwise makes or causes to be made unworkable or unusable or hazardous to work or use, any vessel, or anypart or other materials used or intended to be used in connection with the operation of a vessel;
+&emsp;(2) places or causes to be placed a destructive device, as defined in section 921(a)(4), destructive substance, as defined in section 31(a)(3), or an explosive, as defined in section 844(j) in, upon, or near, or otherwise makes or causes to be made unworkable or unusable or hazardous to work or use, any vessel, or any part or other materials used or intended to be used in connection with the operation of a vessel;
 
 &emsp;(3) sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or near, any maritime facility, including any aid to navigation, lock, canal, or vessel traffic service facility or equipment;
 
@@ -34,7 +34,7 @@ Penalty.—Whoever is fined or imprisoned under subsection (a) as a result of an
 
 (d)
 
-Penalty When Death Results.—Whoever is convicted of any crime prohibited by subsection (a) and intended to cause death by the prohibited conduct, if the conduct resulted in the death of any person, shall be subject also to the death penalty or to a term of imprisonment for a period up to life.
+Penalty When Death Results.—Whoever is convicted of any crime prohibited by subsection (a) and intended to cause death by theprohibited conduct, if the conduct resulted in the death of any person, shall be subject also to the death penalty or to a term of imprisonment for a period up to life.
 
 (e)
 

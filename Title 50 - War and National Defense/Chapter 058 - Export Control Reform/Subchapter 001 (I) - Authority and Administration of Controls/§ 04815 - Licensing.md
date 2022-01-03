@@ -32,11 +32,13 @@ No fee may be charged in connection with the submission, processing, or consider
 
 &emsp;&emsp;(A) A reduction in the availability of an item produced in the United States that is likely to be acquired by the Department of Defense or other Federal department or agency for the advancement of the national security of the United States, or for the production of an item in the United States for the Department of Defense or other agency for the advancement of the national security of the United States.
 
-&emsp;&emsp;(B) A reduction in the production in the United States of an item that is the result of research and development carried out, or funded by, the Department of Defense or other Federal department or agency to advance the national security of the United States, or a federally funded research and development center.
+&emsp;&emsp;(B) A reduction in the production in the United States of an item that is the result of research and development carried out, orfunded by, the Department of Defense or other Federal department or agency to advance the national security of the United States, or a federally funded research and development center.
 
 &emsp;&emsp;(C) A reduction in the employment of United States persons whose knowledge and skills are necessary for the continued production in the United States of an item that is likely to be acquired by the Department of Defense or other Federal department or agency for the advancement of the national security of the United States.
 
 (Pub. L. 115–232, div. A, title XVII, §1756, Aug. 13, 2018, 132 Stat. 2217.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

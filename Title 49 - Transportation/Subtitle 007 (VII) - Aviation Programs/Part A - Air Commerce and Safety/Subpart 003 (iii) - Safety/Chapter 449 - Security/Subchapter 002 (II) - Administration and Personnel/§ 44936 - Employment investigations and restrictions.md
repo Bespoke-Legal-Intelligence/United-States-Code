@@ -14,13 +14,13 @@ Employment Investigation Requirement.—(1)(A) The Administrator shall require b
 
 &emsp;(ii) supervisors of the individuals described in clause (i);
 
-&emsp;(iii) individuals who regularly have escorted access to aircraft of an air carrier or foreignair carrier or a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier; and
+&emsp;(iii) individuals who regularly have escorted access to aircraft of an air carrier or foreign air carrier or a secured area of an airport in the United States the Administrator designates that serves an air carrier or foreign air carrier; and
 
 &emsp;(iv) such other individuals who exercise security functions associated with baggage or cargo, as the Administrator determines is necessary to ensure air transportation security.
 
 (C)
 
-Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000. The Administrator shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
+Exemption.—An employment investigation, including a criminal history record check, shall not be required under this subsection for an individual who is exempted under section 107.31(m)(1) or (2) of title 14, Code of Federal Regulations, as in effect on November 22, 2000.The Administrator shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security.
 
 (2) An air carrier, foreign air carrier, airport operator, or government that employs, or authorizes or makes a contract for the services of, an individual in a position described in paragraph (1) of this subsection shall ensure that the investigation the Administrator requires is conducted.
 
@@ -118,7 +118,7 @@ When Investigation or Record Check Not Required.—This section does not require
 
 Definition of Administrator.—In this section, the term "Administrator" means the Administrator of the Transportation Security Administration.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205; Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508, Apr. 5, 2000, 114 Stat. 140; Pub. L. 106–528, §2(c), (d), Nov. 22, 2000, 114 Stat. 2517, 2518; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, 115 Stat. 603, 620, 639–641; Pub. L. 115–254, div. K, title I, §1991(d)(27), Oct. 5, 2018, 132 Stat. 3638.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1218; Pub. L. 104–264, title III, §§304(a), 306, title V, §502(a), Oct. 9, 1996, 110 Stat. 3251, 3252, 3259; Pub. L. 105–102, §2(25), Nov. 20, 1997, 111 Stat. 2205;Pub. L. 105–142, §1, Dec. 5, 1997, 111 Stat. 2650; Pub. L. 106–181, title V, §508, Apr. 5, 2000, 114 Stat. 140; Pub. L. 106–528, §2(c), (d), Nov. 22, 2000, 114 Stat. 2517, 2518; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(b), 138(a), (b)(1), 140(a)(1), Nov. 19, 2001, 115 Stat. 603, 620, 639–641; Pub. L. 115–254, div. K, title I, §1991(d)(27), Oct. 5, 2018, 132 Stat. 3638.)
 
 Historical and Revision Notes
 
@@ -178,6 +178,8 @@ In subsection (e), the words "a law of a foreign country" are substituted for "a
 
 This amends 49:44936(f)(1)(C) to reflect the redesignation of 49:30305(b)(7) as 49:30305(b)(8) by section 207(b) of the Coast Guard Authorization Act of 1996 (Public Law 104–324, 110 Stat. 3908).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, §1991(d)(27)(C), substituted "Administrator" for "Under Secretary" wherever appearing.
@@ -216,7 +218,7 @@ Subsec. (a)(1)(B)(iv). Pub. L. 107–71, §138(a)(5), redesignated cl. (iii) as 
 
 Subsec. (a)(1)(C). Pub. L. 107–71, §138(a)(7), (8), added subpar. (C) and struck out former subpar (C) which related to criminal history record checks.
 
-Subsec. (a)(1)(D). Pub. L. 107–71, §138(a)(7), (9), (10), redesignated subpar. (F) as (D), substituted "107.31(m)(1) or (2)" for "107.31(m)" and "November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threatto aviation or national security" for "the date of enactment of this subparagraph" and struck out former subpar. (D) which allowed a supervised employee to remain in position until completion of record check.
+Subsec. (a)(1)(D). Pub. L. 107–71, §138(a)(7), (9), (10), redesignated subpar. (F) as (D), substituted "107.31(m)(1) or (2)" for "107.31(m)" and "November 22, 2000. The Under Secretary shall work with the International Civil Aviation Organization and with appropriate authorities of foreign countries to ensure that individuals exempted under this subparagraph do not pose a threat to aviation or national security" for "the date of enactment of this subparagraph" and struck out former subpar. (D) which allowed a supervised employee to remain in position until completion of record check.
 
 Subsec. (a)(1)(E). Pub. L. 107–71, §138(a)(7), struck out subpar. (E) which related to criminal history record checks for screeners and others.
 
@@ -293,6 +295,8 @@ Subsec. (f)(14). Pub. L. 105–142, §1(6), added par. (14).
 Subsec. (a)(3). Pub. L. 104–264, §306, added par. (3).
 
 Subsecs. (f) to (h). Pub. L. 104–264, §502(a), added subsecs. (f) to (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendments
 

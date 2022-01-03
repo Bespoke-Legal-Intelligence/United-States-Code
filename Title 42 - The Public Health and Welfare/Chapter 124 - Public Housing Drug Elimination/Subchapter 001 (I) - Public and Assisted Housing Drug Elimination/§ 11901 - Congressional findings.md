@@ -18,7 +18,9 @@ The Congress finds that—
 
 &emsp;(8) anti-crime strategies should be improved through the expansion of community-oriented policing initiatives.
 
-(Pub. L. 100–690, title V, §5122, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov.28, 1990, 104 Stat. 4245; Pub. L. 105–276, title V, §586(b), Oct. 21, 1998, 112 Stat. 2646.)
+(Pub. L. 100–690, title V, §5122, Nov. 18, 1988, 102 Stat. 4301; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4245; Pub. L. 105–276, title V, §586(b), Oct. 21, 1998, 112 Stat. 2646.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -39,6 +41,8 @@ Pars. (6) to (8). Pub. L. 105–276, §586(b)(2)(B), (3), (4), added pars. (6) t
 &emsp;"(4) the increase in drug-related crime not only leads to murders, muggings, and other forms of violence against tenants, but also to a deterioration of the physical environment that requires substantial government expenditures; and
 
 &emsp;"(5) local law enforcement authorities often lack the resources to deal with the drug problem in public housing, particularly in light of the recent reductions in Federal aid to cities."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

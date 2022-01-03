@@ -8,7 +8,7 @@ There is a National Intelligence Council.
 
 (1) The National Intelligence Council shall be composed of senior analysts within the intelligence community and substantive experts from the public and private sector, who shall be appointed by, report to, and serve at the pleasure of, the Director of National Intelligence.
 
-(2) The Director shall prescribe appropriate security requirements for personnel appointed from the private sector as a condition of service on the Council, or as contractors of the Council or employees of such contractors, to ensure the protection of intelligence sources and methods while avoiding, wherever possible, unduly intrusive requirements which the Director considers to be unnecessary for this purpose.
+(2) The Director shall prescribe appropriate security requirements for personnel appointed from the private sector as a condition of service on the Council, or as contractors of the Councilor employees of such contractors, to ensure the protection of intelligence sources and methods while avoiding, wherever possible, unduly intrusive requirements which the Director considers to be unnecessary for this purpose.
 
 #### (c) Duties and responsibilities
 
@@ -50,9 +50,13 @@ For purposes of this section, the term "National Intelligence Council product" i
 
 (July 26, 1947, ch. 343, title I, §103B, as added Pub. L. 108–458, title I, §1011(a), Dec. 17, 2004, 118 Stat. 3657.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 403–3b of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

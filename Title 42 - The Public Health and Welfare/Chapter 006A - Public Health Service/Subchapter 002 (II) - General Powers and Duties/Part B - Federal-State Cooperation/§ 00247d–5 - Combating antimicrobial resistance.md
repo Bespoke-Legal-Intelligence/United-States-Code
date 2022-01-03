@@ -162,6 +162,8 @@ There are authorized to be appropriated to carry out this section, $40,000,000 f
 
 (July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §109, June 12, 2002, 116 Stat. 610; Pub. L. 114–255, div. A, title III, §3041(a), Dec. 13, 2016, 130 Stat. 1111.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsecs. (f) to (m). Pub. L. 114–255 added subsecs. (f) to (k) and redesignated former subsecs. (f) and (g) as (l) and (m), respectively.
@@ -174,9 +176,11 @@ Subsec. (e)(2). Pub. L. 107–188, §109(2), inserted "schools or programs that 
 
 Subsec. (g). Pub. L. 107–188, §109(3), substituted "$25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006" for "and such sums as may be necessary for each subsequent fiscal year through 2006".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Construction of 2016 Amendment
 
-Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobial drugs or other products, including drugs approved under section 356(h) of Title 21, Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of Title 21.
+Nothing in amendment by Pub. L. 114–255 to be construed to restrict the prescribing of antimicrobialdrugs or other products, including drugs approved under section 356(h) of Title 21, Food and Drugs, by health care professionals, or to limit the practice of health care, see section 3043 of Pub. L. 114–255, set out as a note under section 356 of Title 21.
 
 #### Additional Strategies for Combating Antibiotic Resistance
 
@@ -226,6 +230,8 @@ Extension of Advisory Council.—Not later than October 1, 2022, the Secretary s
 
 Pub. L. 114–255, div. A, title III, §3041(b), Dec. 13, 2016, 130 Stat. 1112, provided that: "The Secretary shall make the data collected pursuant to this subsection \[probably refers to the amendments made to this section by section 3041(a) of Pub. L. 114–255\] public. Nothing in this subsection shall be construed as authorizing the Secretary to disclose any information that is a trade secret or confidential information subject to section 552(b)(4) of title 5, United States Code, or section 1905 of title 18, United States Code."
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 13676. Combating Antibiotic-Resistant Bacteria
 
 Ex. Ord. No. 13676, Sept. 18, 2014, 79 F.R. 56931, provided:
@@ -272,11 +278,11 @@ Each executive department, agency, or office represented on the Task Force (Task
 
 (b) <i>Mission</i>. The Task Force shall identify actions that will provide for the facilitation and monitoring of implementation of this order and the National Strategy for Combating Antibiotic-Resistant Bacteria (Strategy).
 
-(c) <i>Functions</i>.
+(c) <i>Functions.</i>
 
 (i) By February 15, 2015, the Task Force shall submit a 5-year National Action Plan (Action Plan) to the President that outlines specific actions to be taken to implement the Strategy. The Action Plan shall include goals, milestones, and metrics for measuring progress, as well as associated timelines for implementation. The Action Plan shall address recommendations made by the President's Council of Advisors on Science and Technology regarding combating antibiotic resistance.
 
-(ii) Within 180 days of the release of the Action Plan and each year thereafter, the Task Force shall provide the President with an update on Federal Government actions to combat antibiotic resistance consistent withthis order, including progress made in implementing the Strategy and Action Plan, plans for addressing any barriers preventing full implementation of the Strategy and Action Plan, and recommendations for new or modified actions. Annual updates shall include specific goals, milestones, and metrics for all proposed actions and recommendations. The Task Force shall take Federal Government resources into consideration when developing these proposed actions and recommendations.
+(ii) Within 180 days of the release of the Action Plan and each year thereafter, the Task Force shall provide the President with an update on Federal Government actions to combat antibiotic resistance consistent with this order, including progress made in implementing the Strategy and Action Plan, plans for addressing any barriers preventing full implementation of the Strategy and Action Plan, and recommendations for new or modified actions. Annual updates shall include specific goals, milestones, and metrics for all proposed actions and recommendations. The Task Force shall take Federal Government resources into consideration when developing these proposed actions and recommendations.
 
 (iii) In performing its functions, the Task Force shall review relevant statutes, regulations, policies, and programs, and shall consult with relevant domestic and international organizations and experts, as necessary.
 

@@ -4,11 +4,13 @@ In this Act and future Acts, up to 4 percent of program direction funds availabl
 
 (Pub. L. 110–161, div. C, title III, Dec. 26, 2007, 121 Stat. 1958.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in text, is div. C of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 1937, known as the Energy and Water Development and Related Agencies Appropriations Act, 2008. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
-Section appears under the headings "Department of Energy", "Energy Programs", and "Fossil Energy Research and Development" in title III of div. C of Pub. L. 110–161. It was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2008, and also as part of the Consolidated Appropriations Act, 2008, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section appears under the headings "Department of Energy", "Energy Programs", and "Fossil Energy Research and Development" in title III of div. C of Pub.L. 110–161. It was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2008, and also as part of the Consolidated Appropriations Act, 2008, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

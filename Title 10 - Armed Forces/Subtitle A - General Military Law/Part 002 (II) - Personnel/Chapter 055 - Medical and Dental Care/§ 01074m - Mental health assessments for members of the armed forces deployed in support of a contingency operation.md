@@ -74,6 +74,8 @@ Regulations.—(1) The Secretary of Defense, in consultation with the other admi
 
 (Added Pub. L. 112–81, div. A, title VII, §702(a)(1), Dec. 31, 2011, 125 Stat. 1469; amended Pub. L. 112–239, div. A, title VII, §703, Jan. 2, 2013, 126 Stat. 1800; Pub. L. 113–291, div. A, title VII, §701(a)(5), (b), title X, §1071(f)(13), Dec. 19, 2014, 128 Stat. 3409, 3510; Pub. L. 115–232, div. A, title VII, §701, Aug. 13, 2018, 132 Stat. 1804; Pub. L. 116–92, div. A, title VII, §706(a)–(c), Dec. 20, 2019, 133 Stat. 1440, 1441.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
@@ -114,11 +116,13 @@ Subsec. (e)(1). Pub. L. 113–291, §701(a)(5), inserted "and section 1074n of t
 
 <b>2013</b>—Subsec. (a)(1)(C)(i). Pub. L. 112–239 substituted "18 months" for "one year".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–92, div. A, title VII, §706(d), Dec. 20, 2019, 133 Stat. 1441, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to a date of redeployment that is on or after January 1, 2020."
 
 #### Regulations
 
-Pub. L. 112–81, div. A, title VII, §702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: "The Secretary ofDefense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\]."
+Pub. L. 112–81, div. A, title VII, §702(a)(3), Dec. 31, 2011, 125 Stat. 1471, provided that: "The Secretary of Defense shall prescribe an interim final rule with respect to the amendment made by paragraph (1) \[enacting this section\], effective not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\]."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Installation Requirement.—A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect onthe date of the enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282).
+Installation Requirement.—A manufacturer, distributor, or dealer that installs propulsion machinery and associated starting controls on a covered recreational vessel shall equip such vessel with an engine cut-off switch and engine cut-off switch link that meet American Boat and Yacht Council Standard A–33, as in effect on the date of the enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 (Public Law 115–282).
 
 (b)
 
@@ -77,10 +77,6 @@ Propulsion machinery.—The term "propulsion machinery" means a self-contained p
 Static thrust.—The term "static thrust" means the forward or backwards thrust developed by propulsion machinery while stationary.
 
 (Added Pub. L. 115–282, title V, §503(a), Dec. 4, 2018, 132 Stat. 4270; amended Pub. L. 116–283, div. G, title LVXXXIII \[LXXXIII\], §8316(a), title LVXXXV \[LXXXV\], §8507(a)(2), Jan. 1, 2021, 134 Stat. 4699, 4752.)
-
-#### Amendment by Pub. L. 116–283
-
-<i>Amendment by section 8316(a) of Pub. L. 116–283 effective 90 days after Jan. 1, 2021, unless the Commandant of the Coast Guard, prior to the date that is 90 days after Jan. 1, 2021, determines that the use requirement enacted in such section 8316(a) would not promote recreational boating safety. See section 8316(c) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note under section 4311 of this title.</i>
 
 #### <b>Editorial Notes</b>
 

@@ -26,6 +26,8 @@ Dark Territory Defined.—In this section, the term "dark territory" means any t
 
 (Added Pub. L. 110–432, div. A, title IV, §406(a), Oct. 16, 2008, 122 Stat. 4886; amended Pub. L. 114–94, div. A, title XI, §11316(i), Dec. 4, 2015, 129 Stat. 1677.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
@@ -33,6 +35,8 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 #### Amendments
 
 <b>2015</b>—Subsec. (a). Pub. L. 114–94 substituted "after the date of enactment of the Rail Safety Improvement Act of 2008" for "after enactment of the Railroad Safety Enhancement Act of 2008" in introductory provisions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

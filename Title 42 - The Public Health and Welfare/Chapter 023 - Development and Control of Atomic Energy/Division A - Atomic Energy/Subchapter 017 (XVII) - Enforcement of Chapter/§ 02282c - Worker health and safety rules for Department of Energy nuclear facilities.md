@@ -32,7 +32,7 @@
 
 #### (2) Continuing violations
 
-&emsp;If any violation under this subsection is a continuing violation, each day of the violationshall constitute a separate violation for the purpose of computing the civil penalty under paragraph (1).
+&emsp;If any violation under this subsection is a continuing violation, each day of the violation shall constitute a separate violation for the purpose of computing the civil penalty under paragraph (1).
 
 #### (c) Contract penalties
 
@@ -60,11 +60,15 @@
 
 (Aug. 1, 1946, ch. 724, title I, §234C, as added Pub. L. 107–314, div. C, title XXXI, §3173(a), Dec. 2, 2002, 116 Stat. 2743.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order No. 12344, referred to in subsec. (a)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
 
 Section 1634 of the Department of Defense Authorization Act, 1985 (Public Law 98–525), referred to in subsec. (a)(2), is set out as a note under section 2511 of Title 50, War and National Defense.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Promulgation of Initial Regulations
 

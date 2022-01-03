@@ -140,7 +140,9 @@ Any person engaged in the business of supplying a covered commodity to a retaile
 
 &emsp;&emsp;(C) the origin verification system established to carry out the market access program under section 5623(b) of this title.
 
-(Aug. 14, 1946, ch. 966, title II, §282, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 107–206, title I, §208, Aug. 2,2002, 116 Stat. 833; Pub. L. 110–234, title XI, §11002(2), May 22, 2008, 122 Stat. 1352; Pub. L. 110–246, §4(a), title XI, §11002(2), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, §12104(b)(2), Feb. 7, 2014, 128 Stat. 979; Pub. L. 114–113, div. A, title VII, §759(b), Dec. 18, 2015, 129 Stat. 2285; Pub. L. 115–334, title III, §3201(b)(1)(C), Dec. 20, 2018, 132 Stat. 4616.)
+(Aug. 14, 1946, ch. 966, title II, §282, as added Pub. L. 107–171, title X, §10816, May 13, 2002, 116 Stat. 533; amended Pub. L. 107–206, title I, §208, Aug. 2, 2002, 116 Stat. 833; Pub. L. 110–234, title XI, §11002(2), May 22, 2008, 122 Stat. 1352; Pub. L. 110–246, §4(a), title XI, §11002(2), June 18, 2008, 122 Stat. 1664, 2113; Pub. L. 113–79, title XII, §12104(b)(2), Feb. 7, 2014, 128 Stat. 979; Pub. L. 114–113, div. A, title VII, §759(b), Dec. 18, 2015, 129 Stat. 2285; Pub. L. 115–334, title III, §3201(b)(1)(C), Dec. 20, 2018, 132 Stat. 4616.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -183,6 +185,8 @@ Subsec. (d). Pub. L. 110–246, §11002(2)(B), added subsec. (d) and struck out 
 &emsp;"(i) harvested in waters of the United States, a territory of the United States, or a State; and
 
 &emsp;"(ii) processed in the United States, a territory of the United States, or a State, including the waters thereof; and".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

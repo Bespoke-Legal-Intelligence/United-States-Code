@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In addition to amounts made available under section 3231 of this title, there are authorized to be appropriated such sums as are necessary to carry out section 3149(c)(2) of this title, to remain available until expended.
+In addition to amounts made available under section 3231 of this title, there are authorized tobe appropriated such sums as are necessary to carry out section 3149(c)(2) of this title, to remain available until expended.
 
 #### (b) Federal share
 
@@ -10,11 +10,15 @@ The Federal share of the cost of activities funded with amounts made available u
 
 (Pub. L. 89–136, title VII, §703, as added Pub. L. 105–393, title I, §102(b)(3), Nov. 13, 1998, 112 Stat. 3617.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 3233, Pub. L. 89–136, title VIII, §803, as added Pub. L. 93–288, title V, §501, May 22, 1974, 88 Stat. 161, authorized provision of funds for recovery investment plans, prior to repeal by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617.
 
 A prior section 703 of Pub. L. 89–136 was classified to section 3213 of this title prior to repeal by Pub. L. 105–393, §102(b)(3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

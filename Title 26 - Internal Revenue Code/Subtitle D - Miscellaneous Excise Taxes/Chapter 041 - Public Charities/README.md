@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–203, title X, §10714(d), Dec. 22, 1987, 101 Stat. 1330–471, added item 4912.
@@ -35,7 +37,7 @@ Section 4915, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 824; amend
 
 Section 4916, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 827; amended Pub. L. 89–243, §4(i), Oct 9, 1965, 79 Stat. 960; Pub. L. 90–59, §5(g)(1), July 31, 1967, 81 Stat. 159; Pub. L. 92–9, §3(b)(3), Apr. 1, 1971, 85 Stat. 16; Pub. L. 93–17, §3(b), Apr. 10, 1973, 87 Stat. 13, related to exclusion for investment in less developed countries, provided special rules applicable to such investments, subsequent tax liability in certain cases, the repeal of exclusion for issues after Jan. 29, 1973, in the case of less developed country shipping companies, and defined term "less developed country".
 
-Section 4917, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 830; amended Pub. L. 89–243, §4(j), (k), Oct. 9,1965, 79 Stat. 960; Pub. L. 90–59, §5(h)(1), July 31, 1967, 81 Stat. 159, related to exclusion for original or new issues where required for international monetary stability.
+Section 4917, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 830; amended Pub. L. 89–243, §4(j), (k), Oct. 9, 1965, 79 Stat. 960; Pub. L. 90–59, §5(h)(1), July 31, 1967, 81 Stat. 159, related to exclusion for original or new issues where required for international monetary stability.
 
 Section 4918, added Pub. L. 88–563, §2(a), Sept. 2, 1964, 78 Stat. 831; amended Pub. L. 89–809, title II, §213(b)(2), Nov. 13, 1966, 80 Stat. 1585; Pub. L. 90–59, §4(a), July 31, 1967, 81 Stat. 148; Pub. L. 90–73, §2(a)–(c), Aug. 29, 1967, 81 Stat. 175, 176; Pub. L. 93–17, §3(h)(1), Apr. 10, 1973, 87 Stat. 18, related to exemption for prior American ownership and compliance, proof of such ownership or compliance, issuance of IET clean confirmation by participating firm, sales effected by participating firms in connection with exempt acquisitions, filing of transition inventory, transfer of custody certificate, certain debt obligations arising out of loans to assure raw material sources, regulations, and definitions of "participating firm," and "participating custodian".
 
@@ -48,6 +50,8 @@ Section 4921, added Pub. L. 92–9, §3(i)(1), Apr. 1, 1971, 85 Stat. 21, relate
 Section 4922, added Pub. L. 93–17, §3(d)(1), Apr. 10, 1973, 87 Stat. 15, related to exclusion for certain issues to finance new or additional direct investment in the United States, qualification for exclusion, and loss of entitlement to exclusion by subsequent noncompliance.
 
 Section 4931, added Pub. L 88–563, §2(a), Sept. 2, 1964, 78 Stat. 839; amended Pub. L. 89–243, §§3(e)(1), 4(a)(4), (o), Oct. 9, 1965, 79 Stat. 955, 956, 964; Pub. L. 89–809, title II, §215(a), Nov. 13, 1966, 80 Stat. 1587, Pub. L. 90–59, §3(b)(1), July 31, 1967, 81 Stat. 145, related to the standby authority of the President to impose, by Executive order, tax on acquisitions by commercial banks of debt obligations of foreign obligors, made provision for exclusions concerning export loans, foreign currency loans by foreign branches, preexisting commitments, and provided for prescription of regulations by the Secretary.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of Repeal of Prior Provisions
 

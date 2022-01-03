@@ -4,6 +4,8 @@ This chapter may be cited as the "Agricultural Adjustment Act of 1938".
 
 (Feb. 16, 1938, ch. 30, §1, 52 Stat. 31.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1985 Amendment
 
 Pub. L. 99–198, title XVIII, §1801, Dec. 23, 1985, 99 Stat. 1660, provided that: "Except as otherwise provided in this Act, this Act and the amendments made by this Act \[see Tables for classification\] shall become effective on the date of the enactment of this Act \[Dec. 23, 1985\]."
@@ -54,7 +56,7 @@ Pub. L. 88–26, §1, May 20, 1963, 77 Stat. 44, provided: "That this Act \[amen
 
 #### Short Title of 1962 Amendment
 
-Pub. L. 87–703, §1, Sept. 27, 1962, 76 Stat. 605, provided: "That this Act \[enacting sections 1334b, 1339 to 1339c, 1379a to 1379j, 1431d, 1445a and 1991 of this title and section 713a–13 of Title 15, Commerce and Trade, amending sections 608c, 1010, 1011, 1301, 1331 to 1334, 1335, 1336, 1340, 1371, 1385, 1427, 1431, 1431b, 1444b, 1697, 1731 to 1733, 1735, 1736, 1923, 1926, 1929, and 1942 of this title and sections 590g, 590h, 590p, 1004 and 1005 of Title 16, Conservation, repealing section 1337 of this title, enacting provisions set out as notes under this section, sections 1301, 1334, and 1441 of this title, and section 590p of Title 16\] may be cited as the 'Food and Agriculture Act of 1962'."
+Pub. L. 87–703, §1, Sept. 27, 1962, 76 Stat. 605, provided: "That this Act \[enacting sections 1334b, 1339 to 1339c, 1379a to 1379j, 1431d, 1445a and 1991 of this title and section 713a–13 of Title 15, Commerce and Trade, amending sections 608c, 1010, 1011, 1301, 1331 to 1334, 1335, 1336, 1340, 1371, 1385, 1427, 1431, 1431b, 1444b, 1697, 1731 to 1733, 1735, 1736, 1923, 1926, 1929, and 1942 of this title and sections590g, 590h, 590p, 1004 and 1005 of Title 16, Conservation, repealing section 1337 of this title, enacting provisions set out as notes under this section, sections 1301, 1334, and 1441 of this title, and section 590p of Title 16\] may be cited as the 'Food and Agriculture Act of 1962'."
 
 #### Short Title of 1958 Amendment
 

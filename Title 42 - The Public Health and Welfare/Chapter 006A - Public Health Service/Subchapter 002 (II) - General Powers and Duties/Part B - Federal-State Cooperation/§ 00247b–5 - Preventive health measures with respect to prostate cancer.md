@@ -82,7 +82,7 @@ The Secretary may not make a grant under subsection (a) unless the applicant inv
 
 #### (4) Coordination with other prostate cancer programs
 
-&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involved agrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
+&emsp;The Secretary may not make a grant under subsection (a) unless the applicant involvedagrees that the services and activities funded through the grant will be coordinated with other Federal, State, and local prostate cancer programs.
 
 #### (5) Limitation on administrative expenses
 
@@ -134,7 +134,7 @@ The Secretary shall determine the amount of a grant made under subsection (a). P
 
 &emsp;(A) Upon the request of an applicant receiving a grant under subsection (a), the Secretary may, subject to subparagraph (B), provide supplies, equipment, and services for the purpose of aiding the applicant in carrying out such section and, for such purpose, may detail to the applicant any officer or employee of the Department of Health and Human Services.
 
-&emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reducethe amount of payments under the grant under subsection (a) to the applicant involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;(B) With respect to a request described in subparagraph (A), the Secretary shall reduce the amount of payments under the grant under subsection (a) to the applicant involved by an amount equal to the costs of detailing personnel (including pay, allowances, and travel expenses) and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (k) "Units of local government" defined
 
@@ -150,7 +150,9 @@ For purposes of this section, the term "units of local government" includes Indi
 
 &emsp;Of the amounts appropriated under paragraph (1) for a fiscal year, the Secretary shall reserve not more than 20 percent for carrying out subsection (j)(1).
 
-(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub. L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+(July 1, 1944, ch. 373, title III, §317D, as added Pub. L. 102–531, title III, §308, Oct. 27, 1992, 106 Stat. 3495; amended Pub. L. 103–43, title XX, §2010(i)(1)(B)(iv), June 10, 1993, 107 Stat. 213; Pub.L. 103–183, title VII, §705(b), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §401(a)(3), Nov. 13, 1998, 112 Stat. 3587; Pub. L. 106–505, title VI, §602(a), Nov. 13, 2000, 114 Stat. 2345.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -179,6 +181,8 @@ Subsec. (l)(1). Pub. L. 106–505, §602(a)(2), substituted "2004" for "1998".
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §308, which enacted this section.
 
 Subsec. (l)(1). Pub. L. 103–183, as amended by Pub. L. 105–392, substituted "through 1998" for "through 1996".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

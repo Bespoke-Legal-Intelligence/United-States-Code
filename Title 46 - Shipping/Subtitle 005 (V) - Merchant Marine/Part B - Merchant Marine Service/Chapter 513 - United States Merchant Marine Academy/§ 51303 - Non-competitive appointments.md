@@ -6,7 +6,7 @@ In General.—The Secretary of Transportation may appoint each year without comp
 
 (b)
 
-Appointment of Candidates Selected for Preparatory School Sponsorship.—The Secretary of Transportation may appoint each year as cadets at the United States Merchant Marine Academy not more than 40 qualified individuals sponsored by the Academy to attend preparatory school during the academic year prior to entrance in the Academy, and who have successfully met the terms and conditions of sponsorship set by the Academy.
+Appointment of Candidates Selected for Preparatory School Sponsorship.—The Secretary of Transportation may appoint each year as cadets at the United States Merchant Marine Academy not more than 40 qualified individuals sponsored by the Academy to attend preparatory school during the academic year priorto entrance in the Academy, and who have successfully met the terms and conditions of sponsorship set by the Academy.
 
 (Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, §3516(a), Dec. 23, 2016, 130 Stat. 2789; Pub. L. 116–92, div. C, title XXXV, §3504, Dec. 20, 2019, 133 Stat. 1970.)
 

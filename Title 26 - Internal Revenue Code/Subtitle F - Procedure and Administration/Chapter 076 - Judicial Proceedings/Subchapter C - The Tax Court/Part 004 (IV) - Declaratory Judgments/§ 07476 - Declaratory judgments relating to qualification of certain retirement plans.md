@@ -46,9 +46,11 @@ For purposes of this section, the term "retirement plan" means—
 
 #### (d) Cross reference
 
-&emsp;&emsp;<b>For provisions concerning intervention by Pension Benefit Guaranty Corporation and Secretary of</b><b>Labor in actions brought under this section and right of Pension Benefit Guaranty Corporation to bring action, see section 3001(c) of subtitle A of title III of the Employee Retirement Income Security Act of 1974.</b>
+&emsp;&emsp;<b>For provisions concerning intervention by Pension Benefit Guaranty Corporation and Secretary of Labor in actions brought under this section and right of Pension Benefit Guaranty Corporation to bring action, see section 3001(c) of subtitle A of title III of the Employee Retirement Income Security Act of 1974.</b>
 
 (Added Pub. L. 93–406, title II, §1041(a), Sept. 2, 1974, 88 Stat. 949; amended Pub. L. 94–455, title X, §1042(d)(2)(C), title XIII, §1306(b)(3), title XIX, §§1906(a)(48), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1639, 1719, 1831, 1834; Pub. L. 95–600, title III, §336(b)(2)(A), title VII, §701(dd)(1), Nov. 6, 1978, 92 Stat. 2842, 2924; Pub. L. 98–369, div. A, title IV, §491(d)(52), July 18, 1984, 98 Stat. 852; Pub. L. 99–514, title XVIII, §1899A(59), Oct. 22, 1986, 100 Stat. 2962.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -71,6 +73,8 @@ Subsec. (a). Pub. L. 94–455, §§1906(a)(48), (b)(13)(A), struck out "or his d
 Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out in pars. (1) to (3) and (5), "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (c). Pub. L. 94–455, §1306(b)(3), substituted "this section or section 7428" for "this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

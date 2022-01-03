@@ -6,7 +6,7 @@
 
 (2)(A) A civil penalty for a violation of section section 2614 or 2689 of this title shall be assessed by the Administrator by an order made on the record after opportunity (provided in accordance with this subparagraph) for a hearing in accordance with section 554 of title 5. Before issuing such an order, the Administrator shall give written notice to the person to be assessed a civil penalty under such order of the Administrator's proposal to issue such order and provide such person an opportunity to request, within 15 days of the date the notice is received by such person, such a hearing on the order.
 
-(B) In determining the amount of a civil penalty, the Administrator shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respectto the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
+(B) In determining the amount of a civil penalty, the Administrator shall take into account the nature, circumstances, extent, and gravity of the violation or violations and, with respect to the violator, ability to pay, effect on ability to continue to do business, any history of prior such violations, the degree of culpability, and such other matters as justice may require.
 
 (C) The Administrator may compromise, modify, or remit, with or without conditions, any civil penalty which may be imposed under this subsection. The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
 
@@ -42,6 +42,8 @@
 
 (Pub. L. 94–469, title I, §16, Oct. 11, 1976, 90 Stat. 2037; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 102–550, title X, §1021(b)(5), Oct. 28, 1992, 106 Stat. 3923; Pub. L. 114–182, title I, §12, June 22, 2016, 130 Stat. 492.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a)(1). Pub. L. 114–182, §12(1), substituted "$37,500" for "$25,000".
@@ -49,6 +51,8 @@
 Subsec. (b). Pub. L. 114–182, §12(2), designated existing provisions as par. (1), inserted heading, substituted "$50,000" for "$25,000", and added par. (2).
 
 <b>1992</b>—Subsecs. (a)(1), (2)(A), (b). Pub. L. 102–550 substituted "section 2614 or 2689 of this title" for "section 2614 of this title" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

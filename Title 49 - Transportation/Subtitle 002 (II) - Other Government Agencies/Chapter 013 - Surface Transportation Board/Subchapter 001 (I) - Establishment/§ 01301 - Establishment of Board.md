@@ -14,7 +14,7 @@ Membership.—(1) The Board shall consist of 5 members, to be appointed by the P
 
 &emsp;(B) at least 2 members shall be individuals with professional or business experience (including agriculture) in the private sector.
 
-(3) The term of each member of the Board shall be 5 years and shall begin when the term of the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which thepredecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
+(3) The term of each member of the Board shall be 5 years and shall begin when the termof the predecessor of that member ends. An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, shall be appointed for the remainder of that term. When the term of office of a member ends, the member may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. The President may remove a member for inefficiency, neglect of duty, or malfeasance in office.
 
 (4) No individual may serve as a member of the Board for more than 2 terms. In the case of an individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of that individual was appointed, such individual may not be appointed for more than one additional term.
 
@@ -40,6 +40,8 @@ Chairman.—(1) There shall be at the head of the Board a Chairman, who shall be
 
 (Added Pub. L. 104–88, title II, §201(a), Dec. 29, 1995, 109 Stat. 932, §701; amended Pub. L. 104–287, §5(5), Oct. 11, 1996, 110 Stat. 3389; renumbered §1301 and amended Pub. L. 114–110, §§3(a)(3), (b), 4, Dec. 18, 2015, 129 Stat. 2228, 2229.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–110, §3(a)(3), renumbered section 701 of this title as this section.
@@ -57,6 +59,8 @@ Pub. L. 114–110, §4(b)(1), (2), redesignated par. (5) as (4) and struck out f
 Subsec. (b)(5), (6). Pub. L. 114–110, §4(b)(2), redesignated pars. (6) and (7) as (5) and (6), respectively. Former par. (5) redesignated (4).
 
 <b>1996</b>—Subsec. (b)(4). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section" and "December 29, 1995," for "the date of the enactment of the ICC Termination Act of 1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -78,7 +82,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 "(b)
 
-Proceedings.—(1) The provisions of this Act shall not affect any proceedings or any application for any license pending before the Interstate Commerce Commission at the time this Act takes effect \[see Effective Date note above\], insofar as those functions are retained and transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded,or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
+Proceedings.—(1) The provisions of this Act shall not affect any proceedings or any application for any license pending before the Interstate Commerce Commission at the time this Act takes effect \[see Effective Date note above\], insofar as those functions are retained and transferred by this Act; but such proceedings and applications, to the extent that they relate to functions so transferred, shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted; and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this subsection shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
 
 "(2) The Board and the Secretary are authorized to provide for the orderly transfer of pending proceedings from the Interstate Commerce Commission.
 
@@ -137,6 +141,14 @@ Separated Employees.—Notwithstanding all other laws and regulations, the Depar
 #### References to Interstate Commerce Commission Deemed To Be References to Surface Transportation Board
 
 Pub. L. 104–88, title II, §205, Dec. 29, 1995, 109 Stat. 943, provided that: "Any reference to the Interstate Commerce Commission in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or pertaining to the Interstate Commerce Commission or an officer or employee of the Interstate Commerce Commission, is deemed to refer to the Board \[Surface Transportation Board\], a member or employee of the Board, or the Secretary, as appropriate."
+
+#### Surface Transportation Board Passenger Rail Program
+
+Pub. L. 117–58, div. B, title II, §22309, Nov. 15, 2021, 135 Stat. 734, provided that: "The Surface Transportation Board shall—
+
+&emsp;"(1) establish a passenger rail program with primary responsibility for carrying out the Board's passenger rail responsibilities; and
+
+&emsp;"(2) hire up to 10 additional full-time employees to assist in carrying out the responsibilities referred to in paragraph (1)."
 
 #### Information Security Improvement
 

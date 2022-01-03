@@ -20,9 +20,13 @@ The members of the Plant Variety Protection Board shall serve without compensati
 
 (Pub. L. 91–577, title I, §7, Dec. 24, 1970, 84 Stat. 1543; Pub. L. 103–349, §13(a), Oct. 6, 1994, 108 Stat. 3142.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–349 substituted "the designee of the Secretary shall act as chairperson" for "his designee shall act as chairman" in last sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

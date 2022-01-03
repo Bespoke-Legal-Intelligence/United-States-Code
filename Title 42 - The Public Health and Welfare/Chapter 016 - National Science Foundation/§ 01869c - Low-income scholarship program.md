@@ -22,7 +22,7 @@ The Director of the National Science Foundation (referred to in this section as 
 
 #### (3) Limitation
 
-The amount of a scholarship awarded under this section shall be determined by the Director, except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
+The amount of a scholarship awarded under this section shall be determined by the Director,except that the Director shall not award a scholarship in an amount exceeding $10,000 per year. The Director may renew scholarships for up to 4 years.
 
 #### (4) Funding
 
@@ -33,6 +33,8 @@ The Director shall carry out this section only with funds made available under s
 Not later than 60 days after December 8, 2004, the Director shall publish in the Federal Register a list of eligible programs of study.
 
 (Pub. L. 105–277, div. C, title IV, §414(d), Oct. 21, 1998, 112 Stat. 2681–653; Pub. L. 106–313, title I, §110(b), Oct. 17, 2000, 114 Stat. 1256; Pub. L. 108–447, div. J, title IV, §429, Dec. 8, 2004, 118 Stat. 3360; Pub. L. 116–283, div. H, title XCIV, §9405(c), Jan. 1, 2021, 134 Stat. 4812.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,8 @@ Par. (4). Pub. L. 108–447, §429(c), inserted at end "The Director may use no 
 Par. (5). Pub. L. 108–447, §429(d), added par. (5).
 
 <b>2000</b>—Par. (3). Pub. L. 106–313 substituted "$3,125 per year. The Director may renew scholarships for up to 4 years" for "$2,500 per year."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

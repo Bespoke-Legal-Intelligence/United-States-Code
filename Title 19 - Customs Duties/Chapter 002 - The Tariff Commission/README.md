@@ -1,8 +1,12 @@
 ### <b>CHAPTER 2—THE TARIFF COMMISSION</b>
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections related to the United States Tariff Commission as it existed prior to act June 17, 1930, ch. 497, 46 Stat. 696.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

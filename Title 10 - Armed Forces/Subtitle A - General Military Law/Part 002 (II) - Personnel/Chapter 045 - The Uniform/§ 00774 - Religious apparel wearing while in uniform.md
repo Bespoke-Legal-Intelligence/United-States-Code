@@ -22,9 +22,13 @@ Religious Apparel Defined.—In this section, the term "religious apparel" means
 
 (Added Pub. L. 100–180, div. A, title V, §508(a)(2), Dec. 4, 1987, 101 Stat. 1086.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 774 was renumbered section 776 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

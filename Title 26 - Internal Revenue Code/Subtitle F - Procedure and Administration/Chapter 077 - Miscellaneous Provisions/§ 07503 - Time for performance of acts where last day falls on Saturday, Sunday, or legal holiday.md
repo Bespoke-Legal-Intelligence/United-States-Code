@@ -4,9 +4,13 @@ When the last day prescribed under authority of the internal revenue laws for pe
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 896; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Applicability of This Section for Purposes of Section 10222(b) of Pub. L. 100–203
 

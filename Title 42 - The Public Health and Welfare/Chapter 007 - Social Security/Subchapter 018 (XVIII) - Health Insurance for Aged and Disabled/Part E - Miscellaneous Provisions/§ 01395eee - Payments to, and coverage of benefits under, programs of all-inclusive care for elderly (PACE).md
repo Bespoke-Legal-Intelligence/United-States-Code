@@ -24,11 +24,11 @@
 
 #### (B) Comprehensive benefits
 
-&emsp;&emsp;The program provides comprehensive health care services to PACE program eligible individuals in accordance with the PACEprogram agreement and regulations under this section.
+&emsp;&emsp;The program provides comprehensive health care services to PACE program eligible individuals in accordance with the PACE program agreement and regulations under this section.
 
 #### (C) Transition
 
-&emsp;&emsp;In the case of an individual who is enrolled under the program under this section and whose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
+&emsp;&emsp;In the case of an individual who is enrolled under the program under this section andwhose enrollment ceases for any reason (including that the individual no longer qualifies as a PACE program eligible individual, the termination of a PACE program agreement, or otherwise), the program provides assistance to the individual in obtaining necessary transitional care through appropriate referrals and making the individual's medical records available to new providers.
 
 #### (3) "PACE provider" defined
 
@@ -102,7 +102,7 @@
 
 &emsp;&emsp;(A) provide to PACE program eligible individuals enrolled with the provider, regardless of source of payment and directly or under contracts with other entities, at a minimum—
 
-&emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolledunder this section) and all items and services covered under subchapter XIX, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
+&emsp;&emsp;&emsp;(i) all items and services covered under this subchapter (for individuals enrolled under this section) and all items and services covered under subchapter XIX, but without any limitation or condition as toamount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under this subchapter or such subchapter, respectively; and
 
 &emsp;&emsp;&emsp;(ii) all additional items and services specified in regulations, based upon those required under the PACE protocol;
 
@@ -430,6 +430,8 @@ Nothing in this section or section 1396u–4 of this title shall be construed as
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1894, as added Pub. L. 105–33, title IV, §4801, Aug. 5, 1997, 111 Stat. 528; amended Pub. L. 106–554, §1(a)(6) \[title IX, §902(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 108–173, title II, §236(a)(2), Dec. 8, 2003, 117 Stat. 2210; Pub. L. 110–275, title I, §161(c), July 15, 2008, 122 Stat. 2569; Pub. L. 111–148, title III, §3201(i)(1), Mar. 23, 2010, 124 Stat. 453; Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3)(A)(i), is classified generally to Title 26, Internal Revenue Code.
@@ -467,6 +469,8 @@ For the effective date of this section, referred to in subsec. (a)(9)(B), see se
 <b>2003</b>—Subsec. (b)(3), (4). Pub. L. 108–173 added pars. (3) and (4).
 
 <b>2000</b>—Subsec. (f)(2)(C). Pub. L. 106–554 added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -588,7 +592,7 @@ Establishment of fund for reimbursement of outlier costs.—Notwithstanding any 
 
 &emsp;"(2)
 
-Eligible outlier participant.—For purposes of this subsection, the term 'eligible outlier participant' means a PACE program eligible individual (as defined in sections 1894(a)(5) and 1934(a)(5) of the Social Security Act (42 U.S.C. 1395eee(a)(5); 1396u–4(a)(5))) who resides in a rural area and with respect to whom the rural PACE pilot site incurs more than $50,000 in recognized costs in a 12-month period.
+Eligible outlier participant.—For purposes of this subsection, the term 'eligible outlier participant' means a PACE program eligible individual (asdefined in sections 1894(a)(5) and 1934(a)(5) of the Social Security Act (42 U.S.C. 1395eee(a)(5); 1396u–4(a)(5))) who resides in a rural area and with respect to whom the rural PACE pilot site incurs more than $50,000 in recognized costs in a 12-month period.
 
 &emsp;"(3)
 
@@ -704,7 +708,7 @@ Elimination of replication requirement.—Section 9412(b)(2)(B) of such Act, as 
 
 &emsp;"(3)
 
-Timely consideration of applications.—In considering an application for waivers under such section before the effective date of the repeals undersubsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
+Timely consideration of applications.—In considering an application for waivers under suchsection before the effective date of the repeals under subsection (d), subject to the numerical limitation under the amendment made by paragraph (1), the application shall be deemed approved unless the Secretary of Health and Human Services, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the applicant in writing with respect to any additional information which is needed in order to make a final determination with respect to the application. After the date the Secretary receives such additional information, the application shall be deemed approved unless the Secretary, within 90 days of such date, denies such request.
 
 "(c)
 

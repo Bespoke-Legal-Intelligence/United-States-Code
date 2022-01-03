@@ -30,6 +30,8 @@ Update of Registration.—The Secretary shall require a freight forwarder to upd
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 884; amended Pub. L. 109–59, title IV, §4142(b), Aug. 10, 2005, 119 Stat. 1747; Pub. L. 110–244, title III, §305(d), June 6, 2008, 122 Stat. 1620; Pub. L. 112–141, div. C, title II, §§32107(b), 32916(a), July 6, 2012, 126 Stat. 782, 820; Pub. L. 114–94, div. A, title V, §5508(a)(2), Dec. 4, 2015, 129 Stat. 1554.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (d). Pub. L. 114–94 struck out par. (1) designation and heading before "A freight forwarder".
@@ -60,9 +62,11 @@ Others.—The Secretary may register a person to provide service subject to juri
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–59 designated existing provisions as par. (1) and inserted heading, inserted "of household goods" after "freight forwarder", and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
-Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a noteunder section 5313 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2012 Amendment
 

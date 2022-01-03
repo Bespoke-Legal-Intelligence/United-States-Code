@@ -12,7 +12,7 @@ In order to strengthen the participation of the rural and urban poor in their co
 
 #### (3) Infrastructure
 
-&emsp;The support of rural electric and telecommunication cooperatives for access for rural people and villages that lack reliable electric and telecommunications services.
+&emsp;The support of rural electric and telecommunication cooperatives for access forrural people and villages that lack reliable electric and telecommunications services.
 
 #### (4) Housing and community services
 

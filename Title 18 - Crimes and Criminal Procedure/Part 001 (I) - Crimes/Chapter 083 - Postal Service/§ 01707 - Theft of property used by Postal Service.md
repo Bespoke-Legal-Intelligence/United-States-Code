@@ -22,7 +22,7 @@ Minor changes in phraseology were made.
 
 <b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" after "service, shall be" and for "fined not more than $500" after "he shall be".
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" after "service,shall be" and for "fined not more than $500" after "he shall be".
 
 <b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department".
 

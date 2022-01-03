@@ -16,9 +16,11 @@
 
 (Aug. 14, 1935, ch. 531, title XIX, §1912, as added Pub. L. 95–142, §11(b), Oct. 25, 1977, 91 Stat. 1196; amended Pub. L. 98–369, div. B, title III, §2367(b), July 18, 1984, 98 Stat. 1109; Pub. L. 99–272, title IX, §9503(e), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–508, title IV, §4606(a), Nov. 5, 1990, 104 Stat. 1388–170; Pub. L. 113–67, div. A, title II, §202(b)(2), Dec. 26, 2013, 127 Stat. 1177; Pub. L. 115–123, div. E, title XII, §53102(b)(1), Feb. 9, 2018, 132 Stat. 298.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(2), and provided that the provisions amended by section 202(b) shall be applied and administered as if such amendment had never been enacted. See 2013 Amendment note below.
+<b>2018</b>—Subsec. (a)(1)(A). Pub. L. 115–123, §53102(b)(1), repealed Pub. L. 113–67, §202(b)(2), and provided that the provisions amended by section 202(b) shall be appliedand administered as if such amendment had never been enacted. See 2013 Amendment note below.
 
 <b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–67, §202(b)(2), which directed substitution of "any payment from a third party that has a legal liability to pay for care and services available under the plan" for "payment for medical care from any third party", was repealed by Pub. L. 115–123, §53102(b)(1).
 
@@ -27,6 +29,8 @@
 <b>1986</b>—Subsec. (a)(1)(C). Pub. L. 99–272 added subpar. (C).
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "State plan for medical assistance shall" for "State plan for medical assistance may".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

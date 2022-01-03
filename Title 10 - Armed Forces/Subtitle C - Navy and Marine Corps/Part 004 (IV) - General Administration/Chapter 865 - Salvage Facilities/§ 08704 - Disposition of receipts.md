@@ -4,9 +4,13 @@ Amounts received under this chapter shall be credited to appropriations for main
 
 (Added Pub. L. 104–106, div. A, title X, §1015, Feb. 10, 1996, 110 Stat. 425, §7364; renumbered §8704, Pub. L. 115–232, div. A, title VIII, §807(d)(3), Aug. 13, 2018, 132 Stat. 1836.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7364 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -52,7 +52,7 @@ For purposes of subsections (a), (b), and (c), a partner who acquired all or a p
 
 #### (e) Exception
 
-This section shall not apply to the extent that a distribution is treated as a sale or exchange of property under section 751(b) (relating to unrealized receivables and inventory items).
+This section shall not apply to the extent that a distribution is treated as a sale or exchange ofproperty under section 751(b) (relating to unrealized receivables and inventory items).
 
 #### (f) Corresponding adjustment to basis of assets of a distributed corporation controlled by a corporate partner
 
@@ -112,6 +112,8 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 246; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–34, title X, §§1061(a), 1062(b)(3), Aug. 5, 1997, 111 Stat. 945, 947; Pub. L. 106–170, title V, §538(a), Dec. 17, 1999, 113 Stat. 1939.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–170 added subsec. (f).
@@ -125,6 +127,8 @@ This section shall not apply to the extent that a distribution is treated as a s
 Subsec. (c)(1)(A)(i). Pub. L. 105–34, §1062(b)(3), substituted "section 751(d)" for "section 751(d)(2)".
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1999 Amendment
 

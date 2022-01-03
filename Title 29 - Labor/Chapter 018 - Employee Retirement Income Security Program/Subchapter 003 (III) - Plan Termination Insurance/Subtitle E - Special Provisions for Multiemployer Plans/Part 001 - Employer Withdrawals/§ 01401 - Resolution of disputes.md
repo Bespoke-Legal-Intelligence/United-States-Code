@@ -12,7 +12,7 @@
 
 (2) An arbitration proceeding under this section shall be conducted in accordance with fair and equitable procedures to be promulgated by the corporation. The plan sponsor may purchase insurance to cover potential liability of the arbitrator. If the parties have not provided for the costs of the arbitration, including arbitrator's fees, by agreement, the arbitrator shall assess such fees. The arbitrator may also award reasonable attorney's fees.
 
-(3)(A) For purposes of any proceeding under this section, any determination made by a plan sponsor under sections 1381 through 1399 of thistitle and section 1405 of this title is presumed correct unless the party contesting the determination shows by a preponderance of the evidence that the determination was unreasonable or clearly erroneous.
+(3)(A) For purposes of any proceeding under this section, any determination made by a plan sponsor under sections 1381 through 1399 of this title and section 1405 of this title is presumed correct unless the party contesting the determination shows by a preponderance of the evidence that the determination was unreasonable or clearly erroneous.
 
 (B) In the case of the determination of a plan's unfunded vested benefits for a plan year, the determination is presumed correct unless a party contesting the determination shows by a preponderance of evidence that—
 
@@ -82,7 +82,7 @@ In general.—If—
 
 &emsp;&emsp;(ii) an employer is liable for withdrawal liability payments with respect to such complete or partial withdrawal, and
 
-&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of any transaction which occurredafter December 31, 1998, and at least 5 years (2 years in the case of a small employer) before the date of the complete or partial withdrawal was to evade or avoid withdrawal liability under this subtitle,
+&emsp;(B) such determination is based in whole or in part on a finding by the plan sponsor under section 1392(c) of this title that a principal purpose of any transaction which occurred after December 31, 1998, and at least 5 years (2 years in the case of a small employer) before the date of the complete or partial withdrawal was to evade or avoid withdrawal liability under this subtitle,
 
 > then the person against which the withdrawal liability is assessed based solely on the application of section 1392(c) of this title may elect to use the special rule under paragraph (2) in applying subsection (d) of this section and section 1399(c) of this title to such person.
 

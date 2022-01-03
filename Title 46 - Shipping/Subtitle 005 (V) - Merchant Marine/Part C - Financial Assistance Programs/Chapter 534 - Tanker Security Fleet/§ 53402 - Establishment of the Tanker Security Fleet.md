@@ -36,7 +36,7 @@ Requirements Regarding Citizenship of Owners, Charterers, and Operators.—
 
 &emsp;(1)
 
-Vessels owned and operated by section 50501 citizens.—A vessel meets the requirements of this paragraph if, during the period of an operating agreement under this chapter that applies to the vessel, the vessel will be owned and operated by one or more persons that are citizens of the United States under section 50501 of this title.
+Vessels owned and operated by section 50501 citizens.—A vessel meets the requirements of this paragraph if, during the period of an operating agreement under this chapter that applies to the vessel, the vessel will beowned and operated by one or more persons that are citizens of the United States under section 50501 of this title.
 
 &emsp;(2)
 
@@ -44,7 +44,7 @@ Vessels owned by a section 50501 citizen, or united states citizen trust, and ch
 
 &emsp;&emsp;(A) during the period of an operating agreement under this chapter that applies to the vessel, the vessel will be—
 
-&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 ofthis title or that is a United States citizen trust; and
+&emsp;&emsp;&emsp;(i) owned by a person that is a citizen of the United States under section 50501 of this title or that is a United States citizen trust; and
 
 &emsp;&emsp;&emsp;(ii) demise chartered to a person—
 
@@ -104,7 +104,7 @@ Certificate of inspection.—A vessel used to provide oceangoing transportation 
 
 &emsp;(2)
 
-Continued eligibility for certificate.—Subsection (a) shall not apply to any vessel that has failed to comply with the applicable international agreements and associated guidelines referred to in paragraph (1)(B).
+Continued eligibility for certificate.—Subsection (a) shall not apply to any vesselthat has failed to comply with the applicable international agreements and associated guidelines referred to in paragraph (1)(B).
 
 &emsp;(3)
 
@@ -116,7 +116,7 @@ In general.—The Commandant of the Coast Guard may rely on a certification from
 
 &emsp;&emsp;(B)
 
-Foreign classification society.—The Commandant of the Coast Guard may acceptcertification from a foreign classification society under subparagraph (A) only—
+Foreign classification society.—The Commandant of the Coast Guard may accept certification from a foreign classification society under subparagraph (A) only—
 
 &emsp;&emsp;&emsp;(i) to the extent that the government of the foreign country in which the society is headquartered provides access on a reciprocal basis to the American Bureau of Shipping; and
 
@@ -125,10 +125,6 @@ Foreign classification society.—The Commandant of the Coast Guard may acceptce
 (Added Pub. L. 116–283, div. C, title XXXV, §3511(a), Jan. 1, 2021, 134 Stat. 4409.)
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
-
-#### Effective Date
-
-Section effective upon completion and submission to Congress of report on United States-flagged fuel tanker vessel capacity and upon publication of certification related to program for United States-flagged fuel tanker vessels, see section 3511(d) of Pub. L. 116–283, set out as a note under section 53401 of this title.
 
 #### Deadline for Accepting Applications
 

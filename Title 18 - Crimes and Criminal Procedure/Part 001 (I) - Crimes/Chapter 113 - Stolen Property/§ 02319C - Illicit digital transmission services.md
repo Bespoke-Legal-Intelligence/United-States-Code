@@ -32,7 +32,7 @@ Prohibited Act.—It shall be unlawful for a person to willfully, and for purpos
 
 &emsp;(1) is primarily designed or provided for the purpose of publicly performing works protected under title 17 by means of a digital transmission without the authority of the copyright owner or the law;
 
-&emsp;(2) has no commercially significant purpose or use other than to publicly perform worksprotected under title 17 by means of a digital transmission without the authority of the copyright owner or the law; or
+&emsp;(2) has no commercially significant purpose or use other than to publicly perform works protected under title 17 by means of a digital transmission without the authority of the copyright owner or the law; or
 
 &emsp;(3) is intentionally marketed by or at the direction of that person to promote its use in publicly performing works protected under title 17 by means of a digital transmission without the authority of the copyright owner or the law.
 

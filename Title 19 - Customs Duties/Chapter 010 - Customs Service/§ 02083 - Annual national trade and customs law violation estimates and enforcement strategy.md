@@ -40,13 +40,17 @@ The contents of any report submitted to the Committees under subsection (a) or (
 
 &emsp;(2) the chairman of each of the Committees; and
 
-&emsp;(3) those members of each of the Committees and staff persons of each of the Committeeswho are authorized by the chairman thereof to have access to the contents.
+&emsp;(3) those members of each of the Committees and staff persons of each of the Committees who are authorized by the chairman thereof to have access to the contents.
 
 (Pub. L. 101–382, title I, §123, Aug. 20, 1990, 104 Stat. 642; Pub. L. 103–182, title VI, §691(c), Dec. 8, 1993, 107 Stat. 2224; Pub. L. 114–125, title VIII, §802(d)(2), Feb. 24, 2016, 130 Stat. 210.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1993</b>—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

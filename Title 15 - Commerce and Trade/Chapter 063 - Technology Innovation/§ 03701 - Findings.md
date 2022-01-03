@@ -10,9 +10,9 @@ The Congress finds and declares that:
 
 &emsp;(4) Small businesses have performed an important role in advancing industrial and technological innovation.
 
-&emsp;(5) Industrial and technological innovation in the United States may be lagging when compared to historical patterns and other industrialized nations.
+&emsp;(5) Industrial and technological innovation in the United States may be lagging whencompared to historical patterns and other industrialized nations.
 
-&emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilizethe dollar, increase productivity gains, increase employment, and stabilize prices.
+&emsp;(6) Increased industrial and technological innovation would reduce trade deficits, stabilize the dollar, increase productivity gains, increase employment, and stabilize prices.
 
 &emsp;(7) Government antitrust, economic, trade, patent, procurement, regulatory, research and development, and tax policies have significant impacts upon industrial innovation and development of technology, but there is insufficient knowledge of their effects in particular sectors of the economy.
 
@@ -26,9 +26,13 @@ The Congress finds and declares that:
 
 (Pub. L. 96–480, §2, Oct. 21, 1980, 94 Stat. 2311; Pub. L. 99–502, §9(f)(1), Oct. 20, 1986, 100 Stat. 1797.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Par. (10). Pub. L. 99–502 inserted ", which include inventions, computer software, and training technologies,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 2017 Amendment
 
@@ -68,7 +72,7 @@ Pub. L. 99–382, §1, Aug. 14, 1986, 100 Stat. 811, provided: "That this Act \[
 
 #### Short Title
 
-Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: "That this Act \[enacting this chapter\] may be cited as the 'Stevenson-Wydler Technology Innovation Act of 1980'."
+Pub. L. 96–480, §1, Oct. 21, 1980, 94 Stat. 2311, provided: "That this Act \[enacting this chapter\] may be cited asthe 'Stevenson-Wydler Technology Innovation Act of 1980'."
 
 #### Study on Economic Competitiveness and Innovative Capacity of United States and Development of National Economic Competitiveness Strategy
 
@@ -278,7 +282,7 @@ Pub. L. 102–245, §2, Feb. 14, 1992, 106 Stat. 7, provided that: "As used in t
 
 &emsp;"(2) the term 'advanced manufacturing technology' means numerically-controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving manufacturing and industrial processes;
 
-&emsp;"(3) the term 'advanced materials' means a field of research including the study of composites, ceramics, metals, polymers, superconducting materials, materials produced through biotechnology, and materials production technologies, including coated systems, that provide the potential for significant advantages over existing materials;
+&emsp;"(3) the term 'advanced materials' means a field of research including the study of composites, ceramics, metals, polymers, superconducting materials, materials produced through biotechnology, and materials production technologies, including coated systems,that provide the potential for significant advantages over existing materials;
 
 &emsp;"(4) the term 'Institute' means the National Institute of Standards and Technology;
 
@@ -378,7 +382,7 @@ Issues.—The Commission shall address the following issues:
 
 &emsp;"(5) Should Federal Government procurement practices include cooperative efforts between the supplier and the Federal entity to develop products so as to be more easily marketed on a commercial basis? Should a program for the exchange of technical personnel to foster innovation in product development be part of such practices?
 
-&emsp;"(6) To what extent, if any, should Federal Government documents specify standards that are beneficialto domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
+&emsp;"(6) To what extent, if any, should Federal Government documents specify standards that are beneficial to domestic suppliers, aid the compatibility of advanced technologies, and speed the commercial acceptance of those technologies, and what would be the role of the Institute in such an effort?
 
 &emsp;"(7) Should Federal Government procurement be linked to the Advanced Technology Program and to technology transfer activities so that specification development can incorporate the latest technical advances available?
 
@@ -475,6 +479,8 @@ Purposes.—The purposes of this part \[part C (§§3131–3133) of title XXXI o
 &emsp;"(1) enhance United States national security by promoting technology transfer between Government-owned, contractor-operated laboratories and the private sector in the United States; and
 
 &emsp;"(2) enhance collaboration between universities, the private sector, and Government-owned, contractor-operated laboratories in order to foster the development of technologies in areas of significant economic potential."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13185. To Strengthen the Federal Government-University Research Partnership
 

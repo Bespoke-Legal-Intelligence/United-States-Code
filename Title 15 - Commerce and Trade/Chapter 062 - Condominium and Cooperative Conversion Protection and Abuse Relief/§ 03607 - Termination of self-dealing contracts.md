@@ -8,7 +8,7 @@ Any contract or portion thereof which is entered into after October 8, 1980, and
 
 &emsp;(2) is between such unit owners or such association and the developer or an affiliate of the developer;
 
-&emsp;(3) was entered into while such association was controlled by the developer through special developer control or because the developer held a majority of the votes in such association; and
+&emsp;(3) was entered into while such association was controlled by the developer through special developer control or because the developerheld a majority of the votes in such association; and
 
 &emsp;(4) is for a period of more than three years, including any automatic renewal provisions which are exercisable at the sole option of the developer or an affiliate of the developer,
 
@@ -33,6 +33,8 @@ A termination under this section shall be by a vote of owners of not less than t
 Following the unit owners' vote, the termination shall be effective ninety days after hand delivering notice or mailing notice by prepaid United States mail to the parties to the contract.
 
 (Pub. L. 96–399, title VI, §608, Oct. 8, 1980, 94 Stat. 1676.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

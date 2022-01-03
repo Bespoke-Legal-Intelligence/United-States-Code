@@ -64,11 +64,11 @@ Subsec. (d). Pub. L. 101–649, §407(c)(10), substituted references to applican
 
 <b>1968</b>—Subsec. (b)(2). Pub. L. 90–633 inserted reference to section 1429 of this title as it relates to deportability.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Subcommittee on Immigration, Citizenship, Refugees, Border Security, and International Law of Committee on the Judiciary of the House of Representatives changed to Subcommittee on Immigration Policy and Enforcement of Committee on the Judiciary of the House of Representatives under Rule V(b) of the Committee's rules of procedure adopted Jan. 19, 2011.
-
-#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination Date of 2008 Amendment
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 

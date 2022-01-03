@@ -30,7 +30,7 @@ The sum appropriated in any fiscal year to carry out the activities described in
 
 #### Effective Date of 2018 Amendment
 
-Pub. L. 115–141, div. P, title I, §103, Mar. 23, 2018, 132 Stat. 1086, provided that: "This title \[enacting section 159a of this title, amending this section and sections 158, 159, and 309 of this title, enacting provisions set out as notes under sections 158 and 159 of this title, and repealing provisions set out as a note under this section\] and the amendments made by this title shall take effect on October 1, 2018."
+Pub. L. 115–141, div. P, title I, §103, Mar. 23, 2018, 132 Stat. 1086, provided that: "This title \[enacting section 159a of this title, amending this section and sections 158, 159, and 309 of this title, enacting provisions set out as notes under sections 158 and 159 of this title, and repealing provisions set out as a note under this section\]and the amendments made by this title shall take effect on October 1, 2018."
 
 #### Effective Date of 1988 Amendment
 
@@ -42,7 +42,7 @@ Pub. L. 99–272, title V, §5002(a)(2), Apr. 7, 1986, 100 Stat. 118, provided t
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–214, §2(b), Dec. 8, 1983, 97 Stat. 1467, provided that: "The amendment made by subsection (a)\[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1983."
+Pub. L. 98–214, §2(b), Dec. 8, 1983, 97 Stat. 1467, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years beginning after September 30, 1983."
 
 #### Authorization of Appropriations
 

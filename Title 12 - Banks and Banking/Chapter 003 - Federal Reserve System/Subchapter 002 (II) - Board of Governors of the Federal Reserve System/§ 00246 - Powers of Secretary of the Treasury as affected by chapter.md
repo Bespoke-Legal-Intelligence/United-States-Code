@@ -1,6 +1,6 @@
 ### §246. Powers of Secretary of the Treasury as affected by chapter
 
-Nothing in this chapter contained shall be construed as taking away any powers heretofore vested by law in the Secretary of the Treasury which relate to the supervision, management,and control of the Treasury Department and bureaus under such department, and wherever any power vested by this chapter in the Board of Governors of the Federal Reserve System or the Federal reserve agent appears to conflict with the powers of the Secretary of the Treasury, such powers shall be exercised subject to the supervision and control of the Secretary.
+Nothing in this chapter contained shall be construed as taking away any powers heretofore vested by law in the Secretary of the Treasury which relate to the supervision, management, and control of the Treasury Department and bureaus under such department, and wherever any power vested by this chapter in the Board of Governors of the Federal Reserve System or the Federal reserve agent appears to conflict with the powers of the Secretary of the Treasury, such powers shall be exercised subject to the supervision and control of the Secretary.
 
 (Dec. 23, 1913, ch. 6, §10 (par.), 38 Stat. 261; June 3, 1922, ch. 205, 42 Stat. 621; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704.)
 

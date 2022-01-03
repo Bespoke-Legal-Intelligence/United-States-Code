@@ -72,7 +72,7 @@ Inventory of Information Systems.—(1) The head of each agency shall develop an
 
 &emsp;&emsp;(i) preparation and maintenance of the inventory of information resources under section 3506(b)(4);
 
-&emsp;&emsp;(ii) information technology planning, budgeting, acquisition, and management under section 3506(h), subtitle III of title 40, and related laws and guidance;
+&emsp;&emsp;(ii) information technology planning, budgeting, acquisition, and managementunder section 3506(h), subtitle III of title 40, and related laws and guidance;
 
 &emsp;&emsp;(iii) monitoring, testing, and evaluation of information security controls under subchapter II;
 

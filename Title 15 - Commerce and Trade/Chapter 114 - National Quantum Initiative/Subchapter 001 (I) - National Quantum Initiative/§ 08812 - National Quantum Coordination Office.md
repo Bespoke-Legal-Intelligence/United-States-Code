@@ -20,9 +20,11 @@ The Coordination Office shall—
 
 &emsp;(1) provide technical and administrative support to—
 
-&emsp;&emsp;(A) the Subcommittee; and
+&emsp;&emsp;(A) the Subcommittee on Quantum Information Science;
 
-&emsp;&emsp;(B) the Advisory Committee;
+&emsp;&emsp;(B) the Advisory Committee; and
+
+&emsp;&emsp;(C) the Subcommittee on Economic and Security Implications;
 
 &emsp;(2) oversee interagency coordination of the Program, including by encouraging and supporting joint agency solicitation and selection of applications for funding of activities under the Program;
 
@@ -40,11 +42,17 @@ The Coordination Office shall—
 
 Funds necessary to carry out the activities of the Coordination Office shall be made available each fiscal year by the Federal departments and agencies described in section 8813(b) of this title, as determined by the Director of the Office of Science and Technology Policy.
 
-(Pub. L. 115–368, title I, §102, Dec. 21, 2018, 132 Stat. 5094.)
+(Pub. L. 115–368, title I, §102, Dec. 21, 2018, 132 Stat. 5094; Pub. L. 117–81, div. F, title LXVI, §6606(c)(2), Dec. 27, 2021, 135 Stat. 2444.)
 
 #### Termination of Section
 
 <i>For termination of section, see section 8815 of this title.</i>
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–81 substituted "on Quantum Information Science;" for "; and" in subpar. (A), inserted "and" after semicolon in subpar. (B), and added subpar. (C).
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

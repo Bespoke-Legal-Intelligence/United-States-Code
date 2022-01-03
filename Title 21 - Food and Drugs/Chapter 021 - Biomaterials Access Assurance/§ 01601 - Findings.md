@@ -2,7 +2,7 @@
 
 The Congress finds that—
 
-&emsp;(1) each year millions of citizens of the United States depend on the availability oflifesaving or life-enhancing medical devices, many of which are permanently implantable within the human body;
+&emsp;(1) each year millions of citizens of the United States depend on the availability of lifesaving or life-enhancing medical devices, many of which are permanently implantable within the human body;
 
 &emsp;(2) a continued supply of raw materials and component parts is necessary for the invention, development, improvement, and maintenance of the supply of the devices;
 
@@ -26,7 +26,7 @@ The Congress finds that—
 
 &emsp;&emsp;(B) warnings related to the use of such medical devices;
 
-&emsp;(8) even though suppliers of raw materials and component parts have very rarely been held liable in such actions, such suppliers have ceased supplying certain raw materials and component parts for use in medical devices for a number of reasons, including concerns about the costs of such litigation;
+&emsp;(8) even though suppliers of raw materials and component parts have very rarely been held liable in such actions, such suppliers have ceased supplying certain raw materials and component parts for use in medical devices fora number of reasons, including concerns about the costs of such litigation;
 
 &emsp;(9) unless alternate sources of supply can be found, the unavailability of raw materials and component parts for medical devices will lead to unavailability of lifesaving and life-enhancing medical devices;
 

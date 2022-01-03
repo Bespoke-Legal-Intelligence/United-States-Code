@@ -4,6 +4,8 @@ A purpose of the Bureau of Foreign and Domestic Commerce is the collection, arra
 
 (R.S. §335; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Aug. 23, 1912, ch. 350, §1, 37 Stat. 407.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §335 derived from Res. June 15, 1844, No. 16, 5 Stat. 719.
@@ -12,9 +14,15 @@ R.S. §335 derived from Res. June 15, 1844, No. 16, 5 Stat. 719.
 
 <b>1877</b>—Act Feb. 27, 1877, struck out "agriculture" before "manufactures".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Transfer of Functions
+
+Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 For transfer of functions of Bureau of Foreign and Domestic Commerce, see note set out under section 172 of this title.
-
-Act Aug. 23, 1912, transferred certain duties of Department or Bureau of Labor to Bureau of Foreign and Domestic Commerce.
 

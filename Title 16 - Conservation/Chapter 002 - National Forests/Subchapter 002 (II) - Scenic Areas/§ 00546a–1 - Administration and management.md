@@ -6,11 +6,11 @@ Subject to valid existing rights, the Secretary of Agriculture (in sections 546 
 
 #### (b) Special management requirements
 
-Within 3 years of the acquisition of 50 percent of the land authorized for acquisition under section 546a–4 of this title, the Secretary shall develop an amendment to the land and resources management plan for the Hiawatha National Forest which will direct management of the scenic area. Such an amendment shall conform to the provisions of sections 546 to 546a–5 of this title. Nothing in sections 546 to 546a–5 of thistitle shall require the Secretary to revise the land and resource management plan for the Hiawatha National Forest pursuant to section 1604 of this title. In developing a plan for management of the scenic area, the Secretary shall address the following special management considerations:
+Within 3 years of the acquisition of 50 percent of the land authorized for acquisition under section 546a–4 of this title, the Secretary shall develop an amendment to the land and resources management plan for the Hiawatha National Forest which will direct management of the scenic area. Such an amendment shall conform to the provisions of sections 546 to 546a–5 of this title. Nothing in sections 546 to 546a–5 of this title shall require the Secretary to revise the land and resource management plan for the Hiawatha National Forest pursuant to section 1604 of this title. In developing a plan for management of the scenic area, the Secretary shall address the following special management considerations:
 
 #### (1) Public access
 
-&emsp;Alternative means for providing public access from the mainland to the scenic area shall be considered, including any available existing services and facilities, concessionaires, special use permits, or other means of making public access available for the purposes of sections 546 to 546a–5 of this title.
+&emsp;Alternative means for providing public access from the mainland to the scenic areashall be considered, including any available existing services and facilities, concessionaires, special use permits, or other means of making public access available for the purposes of sections 546 to 546a–5 of this title.
 
 #### (2) Roads
 

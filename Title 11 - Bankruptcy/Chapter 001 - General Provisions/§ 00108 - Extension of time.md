@@ -1,6 +1,6 @@
 ### §108. Extension of time
 
-(a) If applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period within which the debtor may commence an action, and such period has not expired before the date of the filing ofthe petition, the trustee may commence such action only before the later of—
+(a) If applicable nonbankruptcy law, an order entered in a nonbankruptcy proceeding, or an agreement fixes a period within which the debtor may commence an action, and such period has not expired before the date of the filing of the petition, the trustee may commence such action only before the later of—
 
 &emsp;(1) the end of such period, including any suspension of such period occurring on or after the commencement of the case; or
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 #### Effective Date of 1986 Amendment
 
-Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a),\(c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not applicable to cases commenced under this title before that date, see section 302(a), (c)(1) of Pub. L. 99–554, set out as a note under section 581 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1984 Amendment
 

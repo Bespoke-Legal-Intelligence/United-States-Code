@@ -46,7 +46,7 @@ Duties and powers.—The duties and powers of the Director are as follows:
 
 &emsp;&emsp;(D) Establish and maintain a financial crimes communications center to furnish law enforcement authorities with intelligence information related to emerging or ongoing investigations and undercover operations.
 
-&emsp;&emsp;(E) Furnish research, analytical, and informational services to financial institutions, appropriate Federal regulatory agencies with regard to financial institutions, and appropriate Federal, State, local, Tribal, and foreign law enforcement authorities, in accordance with policies and guidelines established by the Secretary of the Treasury or the Under Secretary of the Treasury for Enforcement, in the interest of detection, prevention, and prosecution of terrorism, organized crime, money laundering, and other financial crimes.
+&emsp;&emsp;(E) Furnish research, analytical, and informational services to financial institutions,appropriate Federal regulatory agencies with regard to financial institutions, and appropriate Federal, State, local, Tribal, and foreign law enforcement authorities, in accordance with policies and guidelines established by the Secretary of the Treasury or the Under Secretary of the Treasury for Enforcement, in the interest of detection, prevention, and prosecution of terrorism, organized crime, money laundering, and other financial crimes.
 
 &emsp;&emsp;(F) Assist Federal, State, local, Tribal, and foreign law enforcement and regulatory authorities in combatting the use of informal, nonbank networks and payment and barter system mechanisms that permit the transfer of funds or the equivalent of funds without records and without compliance with criminal and tax laws.
 
@@ -98,7 +98,7 @@ Establishment.—The FinCEN Exchange is hereby established within FinCEN.
 
 &emsp;(2)
 
-Purpose.—The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, and FinCEN to—
+Purpose.—The FinCEN Exchange shall facilitate a voluntary public-private information sharing partnership among law enforcement agencies, national security agencies, financial institutions, other relevant private sector entities, and FinCEN to—
 
 &emsp;&emsp;(A) effectively and efficiently combat money laundering, terrorism financing, organized crime, and other financial crimes, including by promoting innovation and technical advances in reporting—
 
@@ -122,7 +122,7 @@ In general.—Not later than 1 year after the date of enactment of this subsecti
 
 &emsp;&emsp;&emsp;&emsp;(I) the results of those efforts; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions, which shall be consistent with standards protecting sensitive information; and
+&emsp;&emsp;&emsp;&emsp;(II) the extent and effectiveness of those efforts, including any benefits realized by law enforcement agencies from partnering with financial institutions and other relevant private sector entities, which shall be consistent with standards protecting sensitive information; and
 
 &emsp;&emsp;&emsp;(ii) any legislative, administrative, or other recommendations the Secretary may have to strengthen the efforts of the FinCEN Exchange.
 
@@ -146,11 +146,19 @@ Protection of shared information.—
 
 &emsp;&emsp;(A)
 
-Regulations.—FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.
+Regulations.—FinCEN shall, as appropriate, promulgate regulations that establish procedures for the protection of information shared and exchanged between FinCEN and the private sector in accordance with this section, consistent with the capacity, size, and nature of the financial institution or other relevant private sector entity to which the particular procedures apply.
 
 &emsp;&emsp;(B)
 
-Use of information.—Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.
+Use of information.—
+
+&emsp;&emsp;&emsp;(i)
+
+Use by financial institutions.—Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes.
+
+&emsp;&emsp;&emsp;(ii)
+
+Use by other relevant private sector entities.—Information received by a relevant private sector entity that is not a financial institution pursuant to this section shall not be used for any purpose other than assisting a financial institution in identifying and reporting on activities that may involve the financing of terrorism, money laundering, proliferation financing, or other financial crimes, or in assisting FinCEN or another agency of the Federal Government in mitigating the risk of the financing of terrorism, money laundering, proliferation financing, or other criminal activities.
 
 &emsp;(6)
 
@@ -228,7 +236,7 @@ In general.—Each Domestic Liaison shall—
 
 &emsp;&emsp;&emsp;(v) establish safeguards to maintain the confidentiality of communications between the persons described in clause (ii) and the Office of Domestic Liaison;
 
-&emsp;&emsp;&emsp;(vi) to the extent practicable, periodically propose to the Director changes inthe regulations, guidance, or orders of FinCEN, including any legislative or administrative changes that may be appropriate to ensure improved coordination and expand information sharing under this paragraph; and
+&emsp;&emsp;&emsp;(vi) to the extent practicable, periodically propose to the Director changes in the regulations, guidance, or orders of FinCEN, including any legislative or administrative changes that may be appropriate to ensure improved coordination and expand information sharing under this paragraph; and
 
 &emsp;&emsp;&emsp;(vii) perform such other duties as the Director determines to be appropriate.
 
@@ -454,7 +462,7 @@ Enhanced compliance capability.—To improve the effectiveness of the Office of 
 
 Detection and prevention of financial crimes and terrorism.—To provide development of, and training in the use of, technology to detect and prevent financial crimes and terrorism within and without the United States, $8,000,000.
 
-(Added Pub. L. 107–56, title III, §361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746; Pub. L. 111–195, title I, §109(c), July 1, 2010, 124 Stat. 1338; Pub. L. 116–283, div. F, title LXI, §§6101(c), 6102(b), 6103, 6105(a), 6107–6109(a), title LXIII, §6304, title LXV, §6509(a), Jan. 1, 2021, 134 Stat. 4551–4553, 4555, 4557–4560, 4586, 4633.)
+(Added Pub. L. 107–56, title III, §361(a)(2), Oct. 26, 2001, 115 Stat. 329; amended Pub. L. 108–458, title VI, §§6101, 6203(a), Dec. 17, 2004, 118 Stat. 3744, 3746; Pub. L. 111–195, title I, §109(c), July 1, 2010, 124 Stat. 1338; Pub. L. 116–283, div. F, title LXI, §§6101(c), 6102(b), 6103, 6105(a), 6107–6109(a), title LXIII, §6304, title LXV, §6509(a), Jan. 1, 2021, 134 Stat. 4551–4553, 4555, 4557–4560, 4586, 4633; Pub. L. 117–81, div. F, title LXI, §6101, Dec. 27, 2021, 135 Stat. 2382.)
 
 #### <b>Editorial Notes</b>
 
@@ -488,6 +496,14 @@ Subsec. (b)(2)(J) to (O). Pub. L. 116–283, §6101(c), added subpars. (J) to (N
 
 Subsec. (d). Pub. L. 116–283, §6103(2), added subsec. (d). Former subsec. (d) redesignated (l).
 
+Subsec. (d)(2). Pub. L. 117–81, §6101(1), inserted "other relevant private sector entities," after "financial institutions," in introductory provisions.
+
+Subsec. (d)(3)(A)(i)(II). Pub. L. 117–81, §6101(2), inserted "and other relevant private sector entities" after "financial institutions".
+
+Subsec. (d)(5)(A). Pub. L. 117–81, §6101(3)(A), inserted "or other relevant private sector entity" after "financial institution".
+
+Subsec. (d)(5)(B). Pub. L. 117–81, §6101(3)(B), designated existing provisions as cl. (i), inserted cl. (i) heading, and added cl. (ii).
+
 Subsec. (e). Pub. L. 116–283, §6105(a), added subsec. (e).
 
 Subsecs. (f), (g). Pub. L. 116–283, §6107, added subsecs. (f) and (g).
@@ -502,7 +518,7 @@ Subsec. (l). Pub. L. 116–283, §6103(1), redesignated former subsec. (d) as (l
 
 Subsec. (l)(1). Pub. L. 116–283, §6509(a), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "There are authorized to be appropriated for FinCEN $100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013."
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–195 substituted "$100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013" for "such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005".
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–195 substituted "$100,419,000 for fiscal year 2011 and such sums as may be necessary for each of the fiscal years 2012 and 2013"for "such sums as may be necessary for fiscal years 2002, 2003, 2004, and 2005".
 
 <b>2004</b>—Subsec. (c)(1), (2)(A). Pub. L. 108–458, §6203(a), substituted "FinCEN" for "the Network".
 

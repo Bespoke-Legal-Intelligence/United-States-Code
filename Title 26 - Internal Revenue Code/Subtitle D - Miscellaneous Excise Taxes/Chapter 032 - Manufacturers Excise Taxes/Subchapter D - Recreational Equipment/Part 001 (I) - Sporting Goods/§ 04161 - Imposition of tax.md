@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of any bow which has a peak draw weight of 30 pounds or more, a tax equal to 11 percent of the price for which so sold.
+&emsp;&emsp;There is hereby imposed on the sale by the manufacturer, producer, or importer of anybow which has a peak draw weight of 30 pounds or more, a tax equal to 11 percent of the price for which so sold.
 
 #### (B) Archery equipment
 
@@ -86,6 +86,8 @@
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(2)(C)(i)(II). Pub. L. 115–97 substituted "for '2016' in subparagraph (A)(ii)" for "for '1992' in subparagraph (B)".
@@ -120,11 +122,11 @@ Subsec. (b)(3), (4). Pub. L. 108–493, §1(a), repealed Pub. L. 108–357, §33
 
 Pub. L. 108–357, §332(b), which directed the amendment of subsec. (b) by adding par. (3), relating to arrows, and redesignating former par. (3) as (4), was repealed by Pub. L. 108–493, §1(a). See Construction of 2004 Amendment note below.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
+<b>1997</b>—Subsec. (b). Pub. L. 105–34 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted ofpars. (1) to (3) imposing taxes on bows and arrows and parts and accessories and providing for coordination of taxes under subsecs. (a) and (b).
 
 <b>1986</b>—Subsec. (b)(1)(B)(ii). Pub. L. 99–514 substituted a comma for the period at end.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted "any article of sport fishing equipment by the manufacturer, producer, or importer" for "fishing rods, creels, reels, and artificial lures, baits,and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer", and added pars. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §1015(a), in amending subsec. (a) generally, designated existing provisions as par. (1), substituted "any article of sport fishing equipment by the manufacturer, producer, or importer" for "fishing rods, creels, reels, and artificial lures, baits, and flies (including parts or accessories of such articles sold on or in connection therewith, or with the sale thereof) by the manufacturer, producer, or importer", and added pars. (2) and (3).
 
 Subsec. (b)(1)(B). Pub. L. 98–369, §1017(a), designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -137,6 +139,8 @@ Subsec. (b)(3). Pub. L. 98–369, §1017(b)(1), added par. (3).
 Subsec. (b). Pub. L. 92–558, §201(a)(2), added subsec. (b).
 
 <b>1965</b>—Pub. L. 89–44 removed 10 percent tax on equipment for billiards, pool, bowling, trap shooting, cricket, croquet, badminton, curling, deck tennis, golf, lacrosse, polo, skiing, squash, table tennis, and tennis, and retained tax only for fishing equipment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -196,7 +200,7 @@ Installment sales, etc.—For purposes of paragraphs (1) and (2), an article sha
 
 &emsp;"(D) a chattel mortgage arrangement wherein it is provided that the sale price shall be paid in installments,
 
-> entered into before such day or such date, payments made on or after such day or such date with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold on or after such day or such date, if the lessor or vendor establishes that the amount ofpayments payable on or after such day or such date with respect to such article has been reduced by an amount equal to the tax reduction applicable with respect to the lease or sale of such article.
+> entered into before such day or such date, payments made on or after such day or such date with respect to the article leased or sold shall, for purposes of this subsection, be considered as payments made with respect to an article sold on or after such day or such date, if the lessor or vendor establishes that the amount of payments payable on or after such day or such date with respect to such article has been reduced by an amount equal to the tax reduction applicable with respect to the lease or sale of such article.
 
 "(4)
 

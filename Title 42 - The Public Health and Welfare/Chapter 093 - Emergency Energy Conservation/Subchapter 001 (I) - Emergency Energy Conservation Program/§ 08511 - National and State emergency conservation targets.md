@@ -32,7 +32,7 @@ The President shall notify the Governor of each State of each target established
 
 #### (c) Establishment of targets for Federal agencies
 
-In connection with the establishment of any national target under subsection (a) the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D). Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, toreduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
+In connection with the establishment of any national target under subsection (a) the President shall make effective an emergency energy conservation plan for the Federal Government, which plan shall be designed to achieve an equal or greater reduction in use of the energy source for which a target is established than the national percentage referred to in subsection (a)(3)(D). Such plan shall contain measures which the President will implement, in accordance with other applicable provisions of law, to reduce on an emergency basis the use of energy by the Federal Government. In developing such plan the President shall consider the potential for emergency reductions in energy use—
 
 &emsp;(1) by buildings, facilities, and equipment owned, leased, or under contract by the Federal Government; and
 
@@ -58,9 +58,13 @@ Notwithstanding any other provision of law, the authority vested in the Presiden
 
 (Pub. L. 96–102, title II, §211, Nov. 5, 1979, 93 Stat. 758.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 753 of title 15, referred to in subsec. (a)(3)(C)(i), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

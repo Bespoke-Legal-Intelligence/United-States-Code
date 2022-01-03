@@ -20,6 +20,8 @@ June 7, 1956, ch. 374, §202, 70 Stat. 253.
 
 The words "Each plan under section 1079 of this title" are substituted for the words "Any insurance, medical service, or health plan or plans which may be entered into by the Secretary of Defense with respect to medical care under the provisions of this chapter". The words "after the close of each year the plan is in effect" are substituted for the words "after the first year the plan or plans have been in effect and each year thereafter". The words "Not later than" are substituted for the word "within".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to notification of elections, prior to repeal by Pub. L. 85–861, §36B(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
@@ -33,6 +35,8 @@ A prior section 1081, act Aug. 10, 1956, ch. 1041, 70A Stat. 86, related to noti
 <b>1982</b>—Pub. L. 97–375 struck out requirement that the Secretary of Defense report to the Committees on Armed Services of the Congress amounts paid and adjustments made during the year covered by the review not later than 90 days after such review.
 
 <b>1980</b>—Pub. L. 96–513 substituted "Secretary of Health and Human Services" for "Secretary of Health, Education, and Welfare".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

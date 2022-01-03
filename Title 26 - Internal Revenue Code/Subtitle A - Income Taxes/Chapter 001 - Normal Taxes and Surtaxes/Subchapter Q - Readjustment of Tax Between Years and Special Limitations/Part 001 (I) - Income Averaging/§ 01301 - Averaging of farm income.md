@@ -50,6 +50,8 @@ The Secretary shall prescribe such regulations as may be appropriate to carry ou
 
 (Added Pub. L. 105–34, title IX, §933(a), Aug. 5, 1997, 111 Stat. 881; amended Pub. L. 108–357, title III, §314(b), Oct. 22, 2004, 118 Stat. 1468.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1301, added Pub. L. 88–272, title II, §232(a), Feb. 26, 1964, 78 Stat. 106; amended Pub. L. 91–172, title III, §311(a), Dec. 30, 1969, 83 Stat. 586; Pub. L. 98–369, div. A, title I, §173(b), (c)(1), July 18, 1984, 98 Stat. 704, placed a limit on the tax attributable to averagable income, prior to repeal by Pub. L. 99–514, title I, §§141(a), 151(a), Oct. 22, 1986, 100 Stat. 2117, 2121, effective Dec. 31, 1986.
@@ -83,6 +85,8 @@ A prior section 1307, act Aug. 16, 1954, ch. 736, 68A Stat. 336, §1307, formerl
 Subsec. (b)(1)(A)(i), (B). Pub. L. 108–357, §314(b)(2), inserted "or fishing business" after "farming business" wherever appearing.
 
 Subsec. (b)(4). Pub. L. 108–357, §314(b)(3), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

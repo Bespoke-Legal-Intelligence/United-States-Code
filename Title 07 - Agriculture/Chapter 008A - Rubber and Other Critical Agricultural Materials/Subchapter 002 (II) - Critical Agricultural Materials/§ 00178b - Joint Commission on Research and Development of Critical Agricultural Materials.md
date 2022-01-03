@@ -6,7 +6,7 @@ There is established a Joint Commission on Research and Development of Critical 
 
 #### (b) Membership
 
-The Joint Commission shall consist of the following members: Three individuals designated by the Secretary of Agriculture from among the staff of the Department of Agriculture; three individuals designated by the Secretary of Commerce from among the staff of the Department of Commerce; a representative of the Bureau of Indian Affairs of the Department of the Interior; a representative of the National Science Foundation; a representative of the Department of State; a representative of the Department of Defense; and a representative of the Federal Emergency Management Agency. Each of the members of the Joint Commission shall be an individual who, on behalf of the Department or agency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
+The Joint Commission shall consist of the following members: Three individuals designated by the Secretary of Agriculture from among the staff of the Department of Agriculture; three individuals designated by the Secretary of Commerce from among the staff of the Department of Commerce; a representative of the Bureau of Indian Affairs of the Department of the Interior; a representative of the National Science Foundation; a representative of the Department of State; a representative of the Department of Defense; and a representative of the Federal Emergency Management Agency. Each of the members of the Joint Commission shall be an individual who, on behalf of the Department oragency which such individual represents, is engaged in the support of research, development, demonstration, and commercialization activities involving native latex and the production of other critical agricultural materials from native agricultural crops.
 
 #### (c) Chairman
 
@@ -30,13 +30,15 @@ The Joint Commission shall—
 
 #### (f) Administrative support services
 
-The Secretaries are authorized to provide without reimbursement such administrative support services, including the detail of staffpersonnel not to exceed a total of five persons from each Department, as the Joint Commission may need to carry out its functions.
+The Secretaries are authorized to provide without reimbursement such administrative support services, including the detail of staff personnel not to exceed a total of five persons from each Department, as the Joint Commission may need to carry out its functions.
 
 #### (g) Advice of scientific, engineering and business communities
 
 To the maximum extent possible, the Secretaries and the Joint Commission shall seek the advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
 
 (Pub. L. 95–592, §4, Nov. 4, 1978, 92 Stat. 2530; Pub. L. 98–284, §4, May 16, 1984, 98 Stat. 181; Pub. L. 104–127, title VIII, §881(a), Apr. 4, 1996, 110 Stat. 1175.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -49,6 +51,8 @@ Subsec. (b). Pub. L. 98–284, §4(b), struck out provision mandating that two o
 Subsec. (c). Pub. L. 98–284, §4(c), substituted "The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b)" for "The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years".
 
 Subsec. (h). Pub. L. 98–284, §4(d), substituted "manufacturing and commerce involving rubber and other critical agricultural materials" for "rubber manufacturing and commerce".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

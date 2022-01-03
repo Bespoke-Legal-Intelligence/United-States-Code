@@ -14,7 +14,7 @@
 
 &emsp;&emsp;The term "applicable beneficiary" means an individual who—
 
-&emsp;&emsp;&emsp;(i) is entitled to, or enrolled for, benefits under part A and enrolled for benefitsunder part B of such subchapter, but not enrolled under part C or a PACE program under section 1395eee of this title; and
+&emsp;&emsp;&emsp;(i) is entitled to, or enrolled for, benefits under part A and enrolled for benefits under part B of such subchapter, but not enrolled under part C or a PACE program under section 1395eee of this title; and
 
 &emsp;&emsp;&emsp;(ii) is admitted to a hospital for an applicable condition.
 
@@ -210,7 +210,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A entity shall submit data to the Secretary on quality measures establishedunder subparagraph (A) during each year of the pilot program (in a form and manner, subject to clause (iii), specified by the Secretary).
+&emsp;&emsp;&emsp;A entity shall submit data to the Secretary on quality measures established under subparagraph (A) during each year of the pilot program (in a form and manner, subject to clause (iii), specified by the Secretary).
 
 #### (ii) Submission of data through electronic health record
 
@@ -271,6 +271,8 @@ The Secretary shall consult with representatives of small rural hospitals, inclu
 Chapter 35 of title 44 shall not apply to the selection, testing, and evaluation of models or the expansion of such models under this section.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1866D, as added and amended Pub. L. 111–148, title III, §3023, title X, §10308(a), (b)(1), Mar. 23, 2010, 124 Stat. 399, 941, 942.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -26,11 +26,15 @@ The Secretary may establish such nominating and selection committees, to consist
 
 (Pub. L. 95–113, title XIV, §1418, Sept. 29, 1977, 91 Stat. 997; Pub. L. 97–98, title XIV, §1420(a), Dec. 22, 1981, 95 Stat. 1306.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–98, §1420(a)(2), substituted "Science Award" for "Research Award", and "subsection (d)" for "subsection (c)".
 
 Subsecs. (c) to (e). Pub. L. 97–98, §1420(a)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

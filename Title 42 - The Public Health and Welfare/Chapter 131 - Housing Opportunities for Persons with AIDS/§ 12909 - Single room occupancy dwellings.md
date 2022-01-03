@@ -18,6 +18,8 @@ Recipients under this section shall require the provision to individuals assiste
 
 (Pub. L. 101–625, title VIII, §860, Nov. 28, 1990, 104 Stat. 4381; Pub. L. 102–550, title VI, §606(j)(7), Oct. 28, 1992, 106 Stat. 3810.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1437f(n) of this title, referred to in subsec. (a), was repealed by Pub. L. 105–276, title V, §550(a)(7), Oct. 21, 1998, 112 Stat. 2609.

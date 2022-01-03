@@ -10,6 +10,8 @@ Program Requirements.—In developing the regulations required by subsection (a)
 
 (Added Pub. L. 110–432, div. A, title IV, §402(a), Oct. 16, 2008, 122 Stat. 4884.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.

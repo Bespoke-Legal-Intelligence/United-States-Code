@@ -50,7 +50,7 @@ Access and review.—
 
 &emsp;&emsp;(A)
 
-In general.—For purposes of identifying and preventing improper payments,each executive agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a).
+In general.—For purposes of identifying and preventing improper payments, each executive agency shall have access to, and use of, the Do Not Pay Initiative to verify payment or award eligibility in accordance with subsection (a).
 
 &emsp;&emsp;(B)
 
@@ -134,7 +134,7 @@ Guidance and procedures by the office of management and budget.—The guidance, 
 
 &emsp;(3)
 
-Compliance.—The head of each executive agency, in consultation with the Inspector General of the executive agency, shall ensurethat any information provided to an individual or entity under this subsection is provided in accordance with protocols established under this subsection.
+Compliance.—The head of each executive agency, in consultation with the Inspector General of the executive agency, shall ensure that any information provided to an individual or entity under this subsection is provided in accordance with protocols established under this subsection.
 
 &emsp;(4)
 
@@ -180,5 +180,5 @@ Section 5 of the Improper Payments Elimination and Recovery Improvement Act of 2
 
 The date of enactment of this section, referred to in subsecs. (c), (d)(2), and (e)(1), (3), is the date of enactment of Pub. L. 116–117, which was approved Mar. 2, 2020.
 
-Section 6(j) of the Inspector General Act of 1978, referred to in subsec. (d)(4)(B), is section 6(j) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 6(j) of the Inspector General Act of 1978, referred to in subsec. (d)(4)(B), is section 6(j) of Pub. L.95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -42,6 +42,8 @@ There are authorized to be appropriated to carry out this section such sums as a
 
 (Pub. L. 95–113, title XIV, §1473F, as added Pub. L. 110–234, title VII, §7138, May 22, 2008, 122 Stat. 1230, and Pub. L. 110–246, §4(a), title VII, §7138, June 18, 2008, 122 Stat. 1664, 1991; amended Pub. L. 113–79, title VII, §7123, Feb. 7, 2014, 128 Stat. 876; Pub. L. 115–334, title VII, §7131, Dec. 20, 2018, 132 Stat. 4796.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -51,6 +53,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 <b>2018</b>—Subsec. (b). Pub. L. 115–334 substituted "2023" for "2018".
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–79 substituted "2018" for "2012".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

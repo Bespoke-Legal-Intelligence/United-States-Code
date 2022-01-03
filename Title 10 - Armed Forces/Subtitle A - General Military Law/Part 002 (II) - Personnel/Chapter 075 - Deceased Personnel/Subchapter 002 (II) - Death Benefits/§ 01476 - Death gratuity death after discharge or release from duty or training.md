@@ -64,6 +64,8 @@ In subsection (a), the words "Except as provided in section 1480 of this title" 
 
 In subsection (c), the word "criteria" is omitted as covered by the word "standards".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–189, §1621(a)(2), substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
@@ -85,6 +87,8 @@ Subsec. (b). Pub. L. 101–189, §1621(a)(1), substituted "Department of Veteran
 &emsp;"(1) authorized travel to or from the duty described in subsection (a)(1); or
 
 &emsp;"(2) travel directly to or from the duty or training described in subsection (a)(1) or (2) that is performed by a Reserve who, when authorized or required by an authority designated by the Secretary, assumed an obligation to perform that duty or training and whose injury was incurred or aggravated after December 31, 1956."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1986 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) There shall be at the head of the Office of Inspector General, an Inspector General who shall be appointed by the Director of the Government Publishing Office without regard to political affiliation and solely on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The Inspector General shall report to, and be under the general supervision of, the Director of the Government Publishing Office. The Director of the Government Publishing Office shall have no authority to prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation.
 
-(b)(1) The Inspector General may be removed from office, or transferred to another position within, or another location of, the Government Publishing Office, by the Director of the Government Publishing Office.
+(b)(1) The Inspector General may be removed from office, or transferred to another positionwithin, or another location of, the Government Publishing Office, by the Director of the Government Publishing Office.
 
 (2) Not later than 30 days before the Director removes or transfers the Inspector General under paragraph (1), the Director shall communicate in writing the reason for the removal or transfer to—
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) classified as a position as a senior level employee, in accordance with this title; and
 
-&emsp;(B) have a rate of basic pay that is not less than the average rate of basic pay of all othersenior level employees of the Government Publishing Office calculated on an annual basis.
+&emsp;(B) have a rate of basic pay that is not less than the average rate of basic pay of all other senior level employees of the Government Publishing Office calculated on an annual basis.
 
 (2) The Director of the Government Publishing Office shall establish the amount of the annual adjustment in the rate of basic pay for the Inspector General in an amount equal to the average of the annual adjustments in the rate of basic pay provided to all other senior level employees of the Government Publishing Office, consistent with this title.
 

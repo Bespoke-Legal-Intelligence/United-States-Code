@@ -14,9 +14,13 @@ Guidelines for Exercise of Authority.—The authority provided under subsection 
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title V, §554(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–127, §9027; renumbered §9377, Pub. L. 115–232, div. A, title VIII, §806(b)(16), Aug. 13, 2018, 132 Stat. 1833.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9027 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

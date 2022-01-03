@@ -2,7 +2,7 @@
 
 (a)
 
-Economic Regulation.—In carrying out subpart II of this part and those provisions ofsubpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
+Economic Regulation.—In carrying out subpart II of this part and those provisions of subpart IV applicable in carrying out subpart II, the Secretary of Transportation shall consider the following matters, among others, as being in the public interest and consistent with public convenience and necessity:
 
 &emsp;(1) assigning and maintaining safety as the highest priority in air commerce.
 
@@ -80,7 +80,7 @@ General Safety Considerations.—In carrying out subpart III of this part and th
 
 (d)
 
-Safety Considerations in Public Interest.—In carrying out subpart III of this part and those provisions of subpart IV applicable in carrying out subpart III, the Administrator shallconsider the following matters, among others, as being in the public interest:
+Safety Considerations in Public Interest.—In carrying out subpart III of this part and those provisions of subpart IV applicable in carrying out subpart III, the Administrator shall consider the following matters, among others, as being in the public interest:
 
 &emsp;(1) assigning, maintaining, and enhancing safety and security as the highest priorities in air commerce.
 
@@ -234,6 +234,8 @@ In subsection (d)(5), the word "both" in 49 App.:1303(e) is omitted as surplus.
 
 In subsection (e), before clause (1), the words "the Congress intends that" are omitted as surplus. In clauses (1) and (4), the words "United States" are omitted as surplus because of the definition of "air carrier" in section 40102(a) of the revised title. In clause (2), the word "prices" is substituted for "fares and rates" because of the definition of "price" in section 40102(a). In clause (8), the words "places in the United States" are substituted for "United States points" for consistency in this chapter. The word "air" is added for clarity and consistency in this subtitle. In clause (9)(C), the word "unreasonable" is substituted for "undue" for consistency in the revised title and with other titles of the United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a)(16). Pub. L. 106–181 added par. (16).
@@ -245,6 +247,8 @@ Subsec. (d)(2). Pub. L. 104–264, §401(a)(1)(A), (2)(A), redesignated par. (1)
 Subsec. (d)(3). Pub. L. 104–264, §401(a)(1)(A), (2)(B), redesignated par. (2) as (3) and substituted "encouraging and developing civil aeronautics, including new aviation technology" for "promoting, encouraging, and developing civil aeronautics". Former par. (3) redesignated (4).
 
 Subsec. (d)(4) to (7). Pub. L. 104–264, §401(a)(1)(A), redesignated pars. (3) to (6) as (4) to (7), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 
@@ -288,7 +292,7 @@ Pub. L. 114–190, §1(a), July 15, 2016, 130 Stat. 615, provided that: "This Ac
 
 #### Short Title of 2015 Amendment
 
-Pub. L. 114–113, div. O, title IV, §401, Dec. 18, 2015, 129 Stat. 3000, provided that: "This title \[enacting section 10609 of Title 42, The Public Health and Welfare, amending section 905 of Title 2, The Congress, enacting provisions set out as a note under section 905 of Title 2, and amending provisions set out as notes under this section\] may be cited as the 'James Zadroga 9/11 Victim Compensation Fund Reauthorization Act'."
+Pub. L. 114–113, div. O, title IV, §401, Dec. 18, 2015, 129 Stat. 3000, provided that: "This title \[enacting section10609 of Title 42, The Public Health and Welfare, amending section 905 of Title 2, The Congress, enacting provisions set out as a note under section 905 of Title 2, and amending provisions set out as notes under this section\] may be cited as the 'James Zadroga 9/11 Victim Compensation Fund Reauthorization Act'."
 
 #### Short Title of 2014 Amendment
 
@@ -362,7 +366,7 @@ Pub. L. 105–137, §1, Dec. 2, 1997, 111 Stat. 2640, provided that: "This Act \
 
 Pub. L. 104–264, §1(a), Oct. 9, 1996, 110 Stat. 3213, provided that: "This Act \[see Tables for classification\] may be cited as the 'Federal Aviation Reauthorization Act of 1996'."
 
-Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121,40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
+Pub. L. 104–264, title II, §201, Oct. 9, 1996, 110 Stat. 3227, provided that: "This title \[enacting sections 40121, 40122, 45301, 45303, 48111, and 48201 of this title, amending sections 106 and 41742 of this title, renumbering section 45303 of this title as section 45304, repealing former section 45301 of this title, and enacting provisions set out as notes under this section and sections 106, 40110, and 41742 of this title\] may be cited as the 'Air Traffic Management System Performance Improvement Act of 1996'."
 
 Pub. L. 104–264, title II, §278(a), Oct. 9, 1996, 110 Stat. 3249, provided that: "This section \[amending section 41742 of this title and enacting provisions set out as a note under section 41742 of this title\] may be cited as the 'Rural Air Service Survival Act'."
 
@@ -470,7 +474,7 @@ Placement priorities for legislative fellowships.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—In considering the placement of individuals receiving a fellowship for a legislative branch position under subparagraph (A)(ii),the Administrator shall give priority to placement of such individuals in the following:
+In general.—In considering the placement of individuals receiving a fellowship for a legislative branch position under subparagraph (A)(ii), the Administrator shall give priority to placement of such individuals in the following:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) Positions in offices of, or with Members on, committees of Congress that have jurisdiction over the FAA.
 
@@ -478,7 +482,7 @@ In general.—In considering the placement of individuals receiving a fellowship
 
 &emsp;&emsp;&emsp;"(ii)
 
-Equitable distribution.—In placing fellows in positions described under clause (i), the Administrator shall ensure that placements are equally distributed among the political parties.
+Equitable distribution.—In placing fellows in positions described under clause (i), theAdministrator shall ensure that placements are equally distributed among the political parties.
 
 &emsp;&emsp;"(C)
 
@@ -1034,7 +1038,7 @@ Unmanned Aircraft System Defined.—In this section, the term 'unmanned aircraft
 
 #### Cyber Testbed
 
-Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 monthsafter the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-related problems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
+Pub. L. 115–254, div. B, title VII, §731, Oct. 5, 2018, 132 Stat. 3411, provided that: "Not later than 6 months after the date of enactment of this Act \[Oct. 5, 2018\], the Administrator \[of the Federal Aviation Administration\] shall develop an integrated Cyber Testbed for research, development, evaluation, and validation of air traffic control modernization technologies, before they enter the national airspace system, as being compliant with FAA data security regulations. The Cyber Testbed shall be part of an integrated research and development test environment capable of creating, identifying, defending, and solving cybersecurity-relatedproblems for the national airspace system. This integrated test environment shall incorporate integrated test capacities within the FAA related to the national airspace system and NextGen."
 
 #### Mitigation of Operational Risks Posed to Certain Military Aircraft by Automatic Dependent Surveillance-Broadcast Equipment
 
@@ -1134,7 +1138,7 @@ Reassessment of Determination of Public Interest.—The Secretary—
 
 In General.—The Secretary of Transportation, the Administrator of the Federal Aviation Administration, and other appropriate officials of the United States Government—
 
-&emsp;"(1) should, as appropriate, use their authority to conduct international negotiations, including usingtheir authority to conduct international negotiations to pursue a worldwide approach to address aircraft emissions, including the environmental impact of aircraft emissions; and
+&emsp;"(1) should, as appropriate, use their authority to conduct international negotiations, including using their authority to conduct international negotiations to pursue a worldwide approach to address aircraft emissions, including the environmental impact of aircraft emissions; and
 
 &emsp;"(2) shall, as appropriate and except as provided in subsection (b), take other actions under existing authorities that are in the public interest necessary to hold operators of civil aircraft of the United States harmless from the emissions trading scheme referred to under section 2.
 
@@ -1248,7 +1252,7 @@ Contents.—At a minimum, the review to be conducted under subsection (a) shall�
 
 &emsp;"(1) highlight the technical activities, including human-system design, organizational design, and other safety and human factor aspects of the system, that will be necessary to successfully transition current and planned modernization programs to the future system envisioned by the Joint Planning and Development Office of the Administration;
 
-&emsp;"(2) assess technical, cost, and schedule risk for the software development that will be necessary toachieve the expected benefits from a highly automated air traffic management system and the implications for ongoing modernization projects; and
+&emsp;"(2) assess technical, cost, and schedule risk for the software development that will be necessary to achieve the expected benefits from a highly automated air traffic management system and the implications for ongoing modernization projects; and
 
 &emsp;"(3) determine how risks with automation efforts for the NextGen can be mitigated based on the experiences of other public or private entities in developing complex, software-intensive systems.
 
@@ -1336,7 +1340,7 @@ Implementation plan for non-oep airports.—A plan for implementation of the pro
 
 &emsp;&emsp;&emsp;"(iii) coordination and communications mechanisms with qualified third parties;
 
-&emsp;&emsp;&emsp;"(iv) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in theen route and terminal environments, including in a mixed operational environment;
+&emsp;&emsp;&emsp;"(iv) plans to address human factors, training, and other issues for air traffic controllers surrounding the adoption of RNP procedures in the en route and terminal environments, including in a mixed operational environment;
 
 &emsp;&emsp;&emsp;"(v) baseline and performance metrics for—
 
@@ -1784,7 +1788,7 @@ Pub. L. 108–176, §4, Dec. 12, 2003, 117 Stat. 2493, provided that: "Congress 
 
 &emsp;"(4) Aerospace technologies, products, and services underpin the advanced capabilities of our men and women in uniform and those charged with homeland security.
 
-&emsp;"(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviationsystem safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
+&emsp;"(5) Future growth in civil aviation increasingly will be constrained by concerns related to aviation system safety and security, aviation system capabilities, aircraft noise, emissions, and fuel consumption.
 
 &emsp;"(6) Revitalization and coordination of the United States efforts to maintain its leadership in aviation and aeronautics are critical and must begin now.
 
@@ -1878,7 +1882,7 @@ Establishment.—(1) The Secretary of Transportation shall establish in the Fede
 
 &emsp;"(M) maintaining a baseline modeling and simulation environment for testing and evaluating alternative concepts to satisfy Next Generation Air Transportation System enterprise architecture requirements.
 
-"(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, the Department of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
+"(4)(A) The Office shall operate in conjunction with relevant programs in the Department of Defense, the National Aeronautics and Space Administration, theDepartment of Commerce and the Department of Homeland Security. The Secretary of Transportation may request assistance from staff from those Departments and other Federal agencies.
 
 "(B) The Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the Secretary of Commerce, the Secretary of Homeland Security, and the head of any other Federal agency from which the Secretary of Transportation requests assistance under subparagraph (A) shall designate a senior official in the agency to be responsible for—
 
@@ -1942,7 +1946,7 @@ Integrated Plan.—The integrated plan shall be designed to ensure that the Next
 
 &emsp;&emsp;"(B) details on a year-by-year basis of specific accomplishments, activities, research requirements, rulemakings, policy decisions, and other milestones of progress for each Federal agency or entity conducting activities relating to the Next Generation Air Transportation System;
 
-&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifyingeach Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
+&emsp;&emsp;"(C) for each element of the Next Generation Air Transportation System, an outline, on a year-by-year basis, of what is to be accomplished in that year toward meeting the Next Generation Air Transportation System's end-state architecture, as expressed in the concept of operations and enterprise architecture documents, as well as identifying each Federal agency or other entity that will be responsible for each component of any research, development, or implementation program;
 
 &emsp;&emsp;"(D) an estimate of all necessary expenditures on a year-by-year basis, including a statement of each Federal agency or entity's responsibility for costs and available resources, for each stage of development from the basic research stage through the demonstration and implementation phase;
 
@@ -2244,7 +2248,7 @@ In general.—Notwithstanding any other provision of law, the Secretary is autho
 
 &emsp;"(2)
 
-Agreements.—In applying paragraph (1), the Secretary may require air carriers receiving direct financial assistance under this Act to enter into agreements which will ensure, to the maximum extent practicable, that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service.
+Agreements.—In applying paragraph (1), the Secretary may require air carriers receiving direct financial assistance under this Act to enter into agreements which will ensure, to the maximum extentpracticable, that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service.
 
 #### "SEC. 106. REPORTS.
 
@@ -2368,7 +2372,7 @@ Collateral source.—The term 'collateral source' means all collateral sources, 
 
 &emsp;"(7)
 
-Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractoror subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interest in the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
+Contractor and subcontractor.—The term 'contractor and subcontractor' means any contractor or subcontractor (at any tier of a subcontracting relationship), including any general contractor, construction manager, prime contractor, consultant, or any parent, subsidiary, associated or allied company, affiliated company, corporation, firm, organization, or joint venture thereof that participated in debris removal at any 9/11 crash site. Such term shall not include any entity, including the Port Authority of New York and New Jersey, with a property interestin the World Trade Center, on September 11, 2001, whether fee simple, leasehold or easement, direct or indirect.
 
 &emsp;"(8)
 
@@ -2626,11 +2630,11 @@ Individuals.—A claimant is an individual described in this paragraph if the cl
 
 &emsp;&emsp;"(A) an individual who—
 
-&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington,Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
+&emsp;&emsp;&emsp;"(i) was present at the World Trade Center, (New York, New York), the Pentagon (Arlington, Virginia), the site of the aircraft crash at Shanksville, Pennsylvania, or any other 9/11 crash site at the time, or in the immediate aftermath, of the terrorist-related aircraft crashes of September 11, 2001; and
 
 &emsp;&emsp;&emsp;"(ii) suffered physical harm or death as a result of such an air crash or debris removal;
 
-&emsp;&emsp;"(B) an individual who was a member of the flight crew or a passenger on American Airlines flight 11 or 77 or United Airlines flight 93 or 175, except that an individual identified by the Attorney General to have been a participant or conspirator in the terrorist-related aircraft crashes of September 11, 2001, or a representative of such individual shall not be eligible to receive compensation under this title; or
+&emsp;&emsp;"(B) an individual who was a member of the flight crew or a passenger on American Airlines flight 11or 77 or United Airlines flight 93 or 175, except that an individual identified by the Attorney General to have been a participant or conspirator in the terrorist-related aircraft crashes of September 11, 2001, or a representative of such individual shall not be eligible to receive compensation under this title; or
 
 &emsp;&emsp;"(C) in the case of a decedent who is an individual described in subparagraph (A) or (B), the personal representative of the decedent who files a claim on behalf of the decedent.
 
@@ -2730,7 +2734,7 @@ In general.—The total amount of Federal funds paid for compensation under this
 
 &emsp;&emsp;"(B)
 
-Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master has ratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of such Act, authorize payment of the amount of compensation that is equal to the difference between—
+Remainder of claim amounts.—In the case of a claim in Group A as described in section 405(a)(3)(C)(ii) and for which the Special Master hasratably reduced the amount of compensation for such claim pursuant to paragraph (2) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act \[Dec. 18, 2015\], the Special Master shall, as soon as practicable after the date of enactment of such Act, authorize payment of the amount of compensation that is equal to the difference between—
 
 &emsp;&emsp;&emsp;"(i) the amount of compensation that the claimant would have been paid under this title for such claim without regard to the limitation under the second sentence of paragraph (1) of this subsection, as this subsection was in effect on the day before the date of enactment of the James Zadroga 9/11 Victim Compensation Fund Reauthorization Act; and
 
@@ -2830,7 +2834,7 @@ Exception.—If the legal fee charged in connection with the settlement of a civ
 
 &emsp;"(3)
 
-Discretion to lower fee.—In the event that the special master \[probably should be capitalized\] finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
+Discretion to lower fee.—In the event that the special master \[probably should be capitalized\]finds that the fee limit set by paragraph (1) or (2) provides excessive compensation for services rendered in connection with such claim, the Special Master may, in the discretion of the Special Master, award as reasonable compensation for services rendered an amount lesser than that permitted for in paragraph (1).
 
 #### "SEC. 407. REGULATIONS.
 
@@ -2914,7 +2918,7 @@ Federal Cause of Action.—
 
 &emsp;"(1)
 
-Availability of action.—There shall exist a Federal cause of action for damages arising out of the hijacking and subsequent crashes of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001. Notwithstanding section 40120(c) of title 49, United States Code, this cause of action shall be the exclusive remedy for damages arising out of the hijacking and subsequent crashes of such flights.
+Availability of action.—There shall exist a Federal cause of action for damages arising out of the hijacking and subsequent crashes of American Airlines flights 11 and 77, and United Airlines flights 93 and 175, on September 11, 2001. Notwithstanding section 40120(c) of title 49, United States Code, this causeof action shall be the exclusive remedy for damages arising out of the hijacking and subsequent crashes of such flights.
 
 &emsp;"(2)
 
@@ -3026,7 +3030,7 @@ Use of funds.—For fiscal year 2017, and each fiscal year thereafter, amounts i
 
 #### "SEC. 601. SEPARABILITY.
 
-"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
+"If any provision of this Act (including any amendment made by this Act \[amending sections 44302 to 44306 of this title\]) or the application thereof to any person or circumstance is held invalid, the remainder of this Act (including any amendment made by this Act) and the application thereof to other persons or circumstances shall not be affected thereby."
 
 \[Pub. L. 107–134, title I, §114(b), Jan. 23, 2002, 115 Stat. 2436, provided that: "The amendment made by this section \[amending Pub. L. 107–42, set out above\] shall take effect as if included in section 301 of the Air Transportation Safety and System Stabilization Act (Public Law 107–42)."\]
 
@@ -3256,7 +3260,7 @@ Report to secretary.—
 
 &emsp;&emsp;&emsp;"(i)
 
-In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis tothe Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
+In general.—The aviation funding task force established pursuant to paragraph (3) shall submit a report setting forth a comprehensive analysis of the Administration's budgetary requirements through fiscal year 2002, based upon the independent assessment under subsection (a), that analyzes alternative financing and funding means for meeting the needs of the aviation system through the year 2002. The task force shall submit a preliminary report of that analysis to the Secretary not later than 6 months after the independent assessment is completed under subsection (a). The Secretary shall provide comments on the preliminary report to the task force within 30 days after receiving the report. The task force shall issue a final report of such comprehensive analysis within 30 days after receiving the Secretary's comments on its preliminary report.
 
 &emsp;&emsp;&emsp;"(ii)
 
@@ -3374,7 +3378,7 @@ Contents.—The report to be submitted under subparagraph (A) shall include an a
 
 &emsp;"(8)
 
-Access to documents and staff.—The Administration may give the Commission appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'), cost data associated with the acquisition and operation of air traffic service systems. Any member of the Commission who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, United States Code, pertaining to unauthorized disclosure of such information.
+Access to documents and staff.—The Administration may give the Commission appropriate access to relevant documents and personnel of the Administration, and the Administrator shall make available, consistent with the authority to withhold commercial and other proprietary information under section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'), costdata associated with the acquisition and operation of air traffic service systems. Any member of the Commission who receives commercial or other proprietary data from the Administrator shall be subject to the provisions of section 1905 of title 18, United States Code, pertaining to unauthorized disclosure of such information.
 
 &emsp;"(9)
 
@@ -3600,7 +3604,7 @@ Pub. L. 103–298, Aug. 17, 1994, 108 Stat. 1552, as amended by Pub. L. 105–10
 
 "(a)
 
-In General.—Except as provided in subsection (b), no civil action for damages for death or injury topersons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or the manufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
+In General.—Except as provided in subsection (b), no civil action for damages for death or injury to persons or damage to property arising out of an accident involving a general aviation aircraft may be brought against the manufacturer of the aircraft or themanufacturer of any new component, system, subassembly, or other part of the aircraft, in its capacity as a manufacturer if the accident occurred—
 
 &emsp;"(1) after the applicable limitation period beginning on—
 
@@ -3785,6 +3789,8 @@ NOAA.—The term 'NOAA' means the National Oceanic and Atmospheric Administratio
 #### Definitions of Terms in Pub. L. 107–71
 
 For definitions of terms used in sections 127 and 145 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 13479. Transformation of the National Air Transportation System
 

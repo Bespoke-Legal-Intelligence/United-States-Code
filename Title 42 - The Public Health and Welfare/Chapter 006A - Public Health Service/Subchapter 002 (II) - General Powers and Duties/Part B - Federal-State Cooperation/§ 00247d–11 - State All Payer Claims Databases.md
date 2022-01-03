@@ -38,7 +38,7 @@ Grants awarded under this section shall be for a period of 3-years,<sup>2</sup> 
 
 #### (A) Access for research purposes
 
-&emsp;&emsp;Upon approval of an application for research purposes under paragraph (1)(A), theauthorized user shall enter into a data use and confidentiality agreement with the State All Payer Claims Database that has received a grant under this subsection, which shall include a prohibition on attempts to reidentify and disclose individually identifiable health information and proprietary financial information.
+&emsp;&emsp;Upon approval of an application for research purposes under paragraph (1)(A), the authorized user shall enter into a data use and confidentiality agreement with the State All Payer Claims Database that has received a grant under this subsection, which shall include a prohibition on attempts to reidentify and disclose individually identifiable health information and proprietary financial information.
 
 #### (B) Customized reports
 
@@ -77,6 +77,8 @@ In this section—
 To carry out this section, there is authorized to be appropriated $50,000,000 for each of fiscal years 2022 and 2023, and $25,000,000 for fiscal year 2024, to remain available until expended.
 
 (July 1, 1944, ch. 373, title III, §320B, as added Pub. L. 116–260, div. BB, title I, §115(a), Dec. 27, 2020, 134 Stat. 2875.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

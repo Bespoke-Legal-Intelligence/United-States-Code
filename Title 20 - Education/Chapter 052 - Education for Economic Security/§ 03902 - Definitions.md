@@ -28,6 +28,8 @@ For the purpose of this chapter—
 
 (Pub. L. 98–377, §3, Aug. 11, 1984, 98 Stat. 1267; Pub. L. 99–159, title II, §221, Nov. 22, 1985, 99 Stat. 897; Pub. L. 105–244, title I, §102(a)(6)(F), Oct. 7, 1998, 112 Stat. 1618; Pub. L. 107–110, title X, §1076(l)(1), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 109–270, §2(d), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title IX, §9215(dd)(1), Dec. 10, 2015, 129 Stat. 2173.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in par. (11), was in the original "this title" and has been translated as if the reference was to "this Act" to reflect the probable intent of Congress inasmuch as this section is not part of a title of Pub. L. 98–377.
@@ -52,6 +54,8 @@ Par. (12). Pub. L. 107–110, §1076(l)(1)(C), substituted "7801 of this title" 
 
 <b>1985</b>—Par. (1). Pub. L. 99–159 substituted reference to section 2471(3) of this title for reference to section 195(2) of the Vocational Education Act of 1965.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under section 6301 of this title.
@@ -63,6 +67,8 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

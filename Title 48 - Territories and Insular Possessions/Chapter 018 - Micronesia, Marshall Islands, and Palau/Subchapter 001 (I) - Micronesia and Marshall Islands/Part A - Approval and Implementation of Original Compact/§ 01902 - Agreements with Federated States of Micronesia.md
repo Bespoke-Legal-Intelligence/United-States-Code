@@ -34,7 +34,7 @@
 
 #### (1) Submission
 
-&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years forthe duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
+&emsp;Notwithstanding section 211(b) of the Compact, the President may agree to an effective date for the Compact pursuant to section 1901(a) of this title if the Government of the Federated States of Micronesia agrees to submit economic development plans consistent with section 211(b) of the Compact to the Government of the United States for concurrence at intervals no greater than every 5 years for the duration of the Compact. Any capital construction project and any planned independent purchase of aircraft which is to be financed (directly or indirectly) through the use of funds provided under section 211 of the Compact shall be identified in the economic development plans.
 
 #### (2) United States Government review
 
@@ -92,9 +92,11 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (6) Cooperation by Federated States of Micronesia
 
-&emsp;The Government of the Federated States of Micronesia will cooperate fully with theComptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 99–239, title I, §102, Jan. 14, 1986, 99 Stat. 1775.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -109,6 +111,8 @@ For Oct. 21, 1986, as the effective date of the Compact of Free Association with
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

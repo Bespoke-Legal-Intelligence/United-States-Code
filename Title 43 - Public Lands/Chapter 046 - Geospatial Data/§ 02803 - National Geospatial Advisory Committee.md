@@ -88,7 +88,7 @@ A subcommittee of the Advisory Committee—
 
 &emsp;(2) shall be composed of members appointed by the Chairperson of the Advisory Committee;
 
-&emsp;(3) shall act under the direction of the Chairperson of the Advisory Committee and the officer or employee designated under section10(e) of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Advisory Committee;
+&emsp;(3) shall act under the direction of the Chairperson of the Advisory Committee and the officer or employee designated under section 10(e) of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Advisory Committee;
 
 &emsp;(4) shall report the recommendations of the subcommittee to the Advisory Committee for consideration; and
 
@@ -190,5 +190,5 @@ The Advisory Committee shall—
 
 #### References in Text
 
-The Federal Advisory Committee Act, referred to in subsecs. (c)(3) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (c)(3) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

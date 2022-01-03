@@ -14,7 +14,7 @@ To be eligible to obtain assistance under this section for a project, an entity 
 
 &emsp;(1) submit to the Secretary an application—
 
-&emsp;&emsp;(A) that describes a project designed to decrease the cost of broadband deployment, and substantially increase broadband speed to not less than the maximum <sup>1</sup> broadband buildout requirements established under section 950bb(e)(4) of this title, in a rural area to be served by the project; and
+&emsp;&emsp;(A) that describes a project designed to decrease the cost of broadband deployment, and substantially increase broadband speedto not less than the maximum <sup>1</sup> broadband buildout requirements established under section 950bb(e)(4) of this title, in a rural area to be served by the project; and
 
 &emsp;&emsp;(B) at such time, in such manner, and containing such other information as the Secretary may require;
 
@@ -37,6 +37,8 @@ In awarding assistance under this section, the Secretary shall give priority to 
 There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
 
 (May 20, 1936, ch. 432, title VI, §603, as added Pub. L. 113–79, title VI, §6105, Feb. 7, 2014, 128 Stat. 856; amended Pub. L. 115–334, title VI, §6203, Dec. 20, 2018, 132 Stat. 4736.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

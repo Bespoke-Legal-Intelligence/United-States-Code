@@ -14,7 +14,7 @@ Along the seacoast at high-water mark, in a general southwesterly direction for 
 
 4\. Exactly ninety-eight degrees and forty-five minutes seven thousand four hundred feet to a pipe in concrete at a place called Okiokiahu (note: azimuths of courses 5 to 11, inclusive, are referred to Uwekahuna meridian);
 
-5\. One hundred and nine degrees fifty-seven minutes and twenty-two seconds ten thousand seven hundred and seventeen and nine-tenths feet to a pipe in concrete at a place called Makaloa; thence
+5\. One hundred and nine degrees fifty-seven minutes and twenty-two seconds ten thousandseven hundred and seventeen and nine-tenths feet to a pipe in concrete at a place called Makaloa; thence
 
 6\. One hundred and seventy degrees four minutes and thirty-nine seconds exactly six thousand eight hundred feet along Hawaii National Park, Kilauea section, to the foot of the Puueo pali;
 
@@ -86,15 +86,25 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 14\. Two hundred and twenty-two degrees and fifty-three minutes exactly two hundred and forty feet along fence to a spike in stone pile;
 
-15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty andsix-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled "NPS–PAC 1997HW") may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
+15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty and six-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled "NPS–PAC 1997HW") may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
 
 (June 20, 1938, ch. 530, §1, 52 Stat. 781; Pub. L. 105–380, §2, Nov. 12, 1998, 112 Stat. 3401; Pub. L. 106–510, §2, Nov. 13, 2000, 114 Stat. 2363.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–510 substituted at end "park. Land (including the land depicted on the map entitled 'NPS–PAC 1997HW') may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds." for "park: <i>Provided</i>, That the United States shall not purchase, by appropriation of public moneys, any land within the aforesaid area, but such lands shall be secured by the United States only by public and private donations, except for the land depicted on the map entitled 'NPS–PAC 1997HW', which may be purchased with donated or appropriated funds."
 
 <b>1998</b>—Pub. L. 105–380 inserted before period at end ", except for the land depicted on the map entitled 'NPS–PAC 1997HW', which may be purchased with donated or appropriated funds".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Hawai‘i Volcanoes National Park
+
+Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
+
+#### <b>Executive Documents</b>
 
 #### Change of Name
 
@@ -103,8 +113,4 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 #### Admission of Hawaii as State
 
 Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
-
-#### Hawai‘i Volcanoes National Park
-
-Designation of portion of Hawaii National Park situated on island of Hawaii as Hawai‘i Volcanoes National Park, effective Sept. 22, 1961, see section 391d of this title.
 

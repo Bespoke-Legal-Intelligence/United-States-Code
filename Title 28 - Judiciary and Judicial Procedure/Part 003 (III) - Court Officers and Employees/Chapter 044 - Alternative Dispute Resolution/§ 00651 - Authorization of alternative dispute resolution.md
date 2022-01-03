@@ -42,7 +42,7 @@ The date of the enactment of the Alternative Dispute Resolution Act of 1998, ref
 
 #### Effective Date
 
-Pub. L. 100–702, title IX, §907, Nov. 19, 1988, 102 Stat. 4664, provided that: "This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and section 652 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\]."
+Pub. L. 100–702, title IX, §907, Nov. 19, 1988, 102 Stat. 4664, provided that: "This title and the amendments made by this title \[enacting this chapter and provisions set out as notes under this section and section 652 ofthis title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 19, 1988\]."
 
 Pub. L. 100–702, title IX, §906, Nov. 19, 1988, 102 Stat. 4664, as amended by Pub. L. 103–192, §1(a), Dec. 14, 1993, 107 Stat. 2292, provided that, effective Dec. 31, 1994, this chapter and the item relating to this chapter in the table of chapters at the beginning of part III of this title were repealed, prior to repeal by Pub. L. 103–420, §3(b), Oct. 25, 1994, 108 Stat. 4345.
 
@@ -56,7 +56,7 @@ Pub. L. 105–315, §2, Oct. 30, 1998, 112 Stat. 2993, provided that: "Congress 
 
 &emsp;"(2) certain forms of alternative dispute resolution, including mediation, early neutral evaluation, minitrials, and voluntary arbitration, may have potential to reduce the large backlog of cases now pending in some Federal courts throughout the United States, thereby allowing the courts to process their remaining cases more efficiently; and
 
-&emsp;"(3) the continued growth of Federal appellate court-annexed mediation programs suggests that this form of alternative dispute resolution can be equally effective in resolving disputes in the Federal trial courts; therefore, the district courts should considerincluding mediation in their local alternative dispute resolution programs."
+&emsp;"(3) the continued growth of Federal appellate court-annexed mediation programs suggests that this form of alternative dispute resolution can be equally effective in resolving disputes in the Federal trial courts; therefore, the district courts should consider including mediation in their local alternative dispute resolution programs."
 
 #### Model Procedures
 

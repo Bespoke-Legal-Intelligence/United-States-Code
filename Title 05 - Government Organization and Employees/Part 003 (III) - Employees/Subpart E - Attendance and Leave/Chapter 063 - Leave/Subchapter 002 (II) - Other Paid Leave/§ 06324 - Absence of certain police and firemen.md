@@ -60,5 +60,5 @@ Amendment by Pub. L. 90–623 intended to restate without substantive change the
 
 #### Transfer of Functions
 
-District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2, 1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
+District of Columbia Council, as established by Reorg. Plan No. 3 of 1967, abolished as of noon Jan. 2,1975, by Pub. L. 93–198, title VII, §711, Dec. 24, 1973, 87 Stat. 818, and replaced by Council of District of Columbia, as provided by section 401 of Pub. L. 93–198.
 

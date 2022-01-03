@@ -2,11 +2,11 @@
 
 #### (a) Reviews
 
-The appropriate head shall ensure that an independent entity conducts reviews of eachcapital assets acquisition project as the project moves toward the approval of each of critical decision 0, critical decision 1, and critical decision 2 in the acquisition process.
+The appropriate head shall ensure that an independent entity conducts reviews of each capital assets acquisition project as the project moves toward the approval of each of critical decision 0, critical decision 1, and critical decision 2 in the acquisition process.
 
 #### (b) Pre-critical decision 1 reviews
 
-In addition to any other matters, with respect to each review of a capital assets acquisition project under subsection (a) that has not reached critical decision 1 approval in the acquisition process, such review shall include—
+In addition to any other matters, with respect to each review of a capital assets acquisition project under subsection (a) that has notreached critical decision 1 approval in the acquisition process, such review shall include—
 
 &emsp;(1) a review using best practices of the analysis of alternatives for the project; and
 
@@ -35,6 +35,8 @@ In this section:
 &emsp;&emsp;(B) that is covered by Department of Energy Order 413.3B, or a successor order, for the acquisition of capital assets for atomic energy defense activities.
 
 (Pub. L. 107–314, div. D, title XLVII, §4733, as added Pub. L. 114–328, div. C, title XXXI, §3111(a), Dec. 23, 2016, 130 Stat. 2755; amended Pub. L. 116–92, div. C, title XXXI, §3139(b)(8), Dec. 20, 2019, 133 Stat. 1963.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

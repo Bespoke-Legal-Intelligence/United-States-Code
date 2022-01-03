@@ -38,7 +38,7 @@ The Director, in consultation with the Chairperson, shall establish the annual b
 
 #### (2) Compensation
 
-&emsp;The Director, in consultation with the Chairperson, shall fix, adjust, and administer the pay for all employees of the Office, without regard to chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates.
+&emsp;The Director, in consultation with the Chairperson, shall fix, adjust, and administerthe pay for all employees of the Office, without regard to chapter 51 or subchapter III of chapter 53 of title 5, relating to classification of positions and General Schedule pay rates.
 
 #### (3), (4) Omitted
 
@@ -48,7 +48,7 @@ Any department or agency of the United States may provide to the Office and any 
 
 #### (f) Procurement of temporary and intermittent services
 
-The Director may procure temporary and intermittent services under section 3109(b) oftitle 5 at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for Level V of the Executive Schedule under section 5316 of such title.
+The Director may procure temporary and intermittent services under section 3109(b) of title 5 at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for Level V of the Executive Schedule under section 5316 of such title.
 
 #### (g) Post-employment prohibitions
 

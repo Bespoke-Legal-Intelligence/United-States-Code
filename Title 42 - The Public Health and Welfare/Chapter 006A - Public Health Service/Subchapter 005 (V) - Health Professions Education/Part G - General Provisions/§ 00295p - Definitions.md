@@ -18,7 +18,7 @@ For purposes of this subchapter:
 
 Physician assistant education program.—The term "physician assistant education program" means an educational program in a public or private institution in a State that—
 
-&emsp;&emsp;(A) has as its objective the education of individuals who, upon completion of theirstudies in the program, be <sup>1</sup> qualified to provide primary care medical services with the supervision of a physician; and
+&emsp;&emsp;(A) has as its objective the education of individuals who, upon completion of their studies in the program, be <sup>1</sup> qualified to provide primary care medical services with the supervision of a physician; and
 
 &emsp;&emsp;(B) is accredited by the Accreditation Review Commission on Education for the Physician Assistant.
 
@@ -78,7 +78,7 @@ Physician assistant education program.—The term "physician assistant education
 
 &emsp;(12)
 
-Area health education center.—The term "area health education center" means a public or nonprofit private organization that has a cooperative agreement or contract in effect with an entity that has received an award under subsection (a)(1) or (a)(2) of section 294a of this title, satisfies the requirements in section 294a(d)(1) of this title, and has as one of its principal functions the operation of an area health education center. Appropriate organizations may include hospitals, health organizations with accredited primary care trainingprograms, accredited physician assistant educational programs associated with a college or university, and universities or colleges not operating a school of medicine or osteopathic medicine.
+Area health education center.—The term "area health education center" means a public or nonprofit private organization that has a cooperative agreement or contract in effect with an entity that has received an award under subsection (a)(1) or (a)(2) of section 294a of this title, satisfies the requirements in section 294a(d)(1) of this title, and has as one of its principal functions the operation of an area health education center. Appropriate organizations may include hospitals, health organizations with accredited primary care training programs, accredited physician assistant educational programs associated with a college or university, and universities or colleges not operating a school of medicine or osteopathic medicine.
 
 &emsp;(13)
 
@@ -142,6 +142,8 @@ Rural health clinic.—The term "rural health clinic" has the meaning given that
 
 (July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5002(b), Mar. 23, 2010, 124 Stat. 590; Pub. L. 113–128, title V, §512(z)(3), July 22, 2014, 128 Stat. 1716.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
@@ -176,6 +178,8 @@ Par. (6)(D). Pub. L. 105–392, §108(c), added subpar. (D).
 
 Par. (11). Pub. L. 105–392, §108(e), added par. (11).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
@@ -183,6 +187,8 @@ Amendment by Pub. L. 113–128 effective on the first day of the first full prog
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 
 Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

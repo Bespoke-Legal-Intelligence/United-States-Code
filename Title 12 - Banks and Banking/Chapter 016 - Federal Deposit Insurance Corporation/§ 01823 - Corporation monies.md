@@ -16,7 +16,7 @@ The depository accounts of the Corporation shall be kept with the Treasurer of t
 
 #### (c) Assistance to insured depository institutions
 
-(1) The Corporation is authorized, in its sole discretion and upon such terms and conditions as the Board of Directors may prescribe, to make loans to, to make deposits in, to purchase the assets or securities of, to assume the liabilities of, or to make contributions to, any insured depository institution—
+(1) The Corporation is authorized, in its sole discretion and upon such terms and conditionsas the Board of Directors may prescribe, to make loans to, to make deposits in, to purchase the assets or securities of, to assume the liabilities of, or to make contributions to, any insured depository institution—
 
 &emsp;(A) if such action is taken to prevent the default of such insured depository institution;
 
@@ -96,7 +96,7 @@ Rule for liquidations.—For purposes of this subsection, the determination of t
 
 &emsp;(D)
 
-Liquidation costs.—In determining the cost of liquidating any depository institutionfor the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
+Liquidation costs.—In determining the cost of liquidating any depository institution for the purpose of comparing the costs under subparagraph (A) (with respect to such institution), the amount of such cost may not exceed the amount which is equal to the sum of the insured deposits of such institution as of the earliest of the dates described in subparagraph (C), minus the present value of the total net amount the Corporation reasonably expects to receive from the disposition of the assets of such institution in connection with such liquidation.
 
 &emsp;(E)
 
@@ -168,7 +168,7 @@ GAO review.—The Comptroller General of the United States shall review and repo
 
 &emsp;&emsp;&emsp;(II) the purpose for which any action was taken pursuant to such clause; and
 
-&emsp;&emsp;&emsp;(III) the likely effect of the determination and such action on the incentives and conduct of insured depository institutions and uninsured depositors.
+&emsp;&emsp;&emsp;(III) the likely effect of the determination and such action on the incentives andconduct of insured depository institutions and uninsured depositors.
 
 &emsp;&emsp;(v)
 
@@ -252,11 +252,11 @@ Unenforceability of certain agreements.—No provision contained in any existing
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any asset acquired or liability assumed pursuant to this section, the Corporation shall have all of the rights, powers, privileges, and authorities of the Corporation as receiver under sections 1821 and 1825(b) of this title.
+&emsp;&emsp;With respect to any asset acquired or liability assumed pursuant to this section, theCorporation shall have all of the rights, powers, privileges, and authorities of the Corporation as receiver under sections 1821 and 1825(b) of this title.
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not inderogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
+&emsp;&emsp;Such rights, powers, privileges, and authorities shall be in addition to and not in derogation of any rights, powers, privileges, and authorities otherwise applicable to the Corporation.
 
 #### (C) Fiduciary responsibility
 
@@ -640,7 +640,7 @@ The powers conferred on the Board of Directors and the Corporation by this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves a savings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings association that is not affiliated with a bank holding company and the home office of which is located in the same State.
+&emsp;&emsp;If a merger, consolidation, transfer, or acquisition under this subsection involves asavings association eligible for assistance and a bank or bank holding company, a savings association may retain and operate any existing branch or branches or any other existing facilities. If the savings association continues to exist as a separate entity, it may establish and operate new branches to the same extent as any savings association that is not affiliated with a bank holding company and the home office of which is located in the same State.
 
 #### (B) Restrictions
 
@@ -784,7 +784,7 @@ Subsec. (h). Pub. L. 104–208, §2704(d)(14)(M)(v), which directed substitution
 
 Subsec. (k)(4)(B)(i). Pub. L. 104–208, §2704(d)(14)(M)(vi), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k)(5)(A). Pub. L. 104–208, §2704(d)(14)(M)(vii), which directed substitution of "Deposit Insurance Fund" for "Savings Association Insurance Fund", wasrepealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 <b>1994</b>—Subsec. (c)(1)(B). Pub. L. 103–325, §602(a)(34), substituted "an insured bank in default" for "a in default insured bank" and "such insured bank" for "such in default insured bank".
 
@@ -868,7 +868,7 @@ Subsec. (c)(9). Pub. L. 101–73, §217(3)(K), added par. (9).
 
 Subsec. (d). Pub. L. 101–73, §217(4), added subsec. (d) and struck out former subsec. (d), changing the structure of the subsection from a single unnumbered paragraph to one consisting of four numbered paragraphs.
 
-Subsec. (e). Pub. L. 101–73, §217(4), added subsec. (e) and struck out former subsec. (e) which read as follows: "No agreement which tends to diminish or defeat the right, title or interest of the Corporation in any asset acquired by it under this section, either as security fora loan or by purchase, shall be valid against the Corporation unless such agreement (1) shall be in writing, (2) shall have been executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank, (3) shall have been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of said board or committee, and (4) shall have been, continuously, from the time of its execution, an official record of the bank."
+Subsec. (e). Pub. L. 101–73, §217(4), added subsec. (e) and struck out former subsec. (e) which read as follows: "No agreement which tends to diminish or defeat the right, title or interest of the Corporation in any asset acquired by it under this section, either as security for a loan or by purchase, shall be valid against the Corporation unless such agreement (1) shall be in writing, (2) shall have been executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank, (3) shall have been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of said board or committee, and (4) shall have been, continuously, from the time of its execution, an official record of the bank."
 
 Subsec. (f)(1). Pub. L. 101–73, §217(5)(C), inserted "savings association" after "out-of-State bank".
 

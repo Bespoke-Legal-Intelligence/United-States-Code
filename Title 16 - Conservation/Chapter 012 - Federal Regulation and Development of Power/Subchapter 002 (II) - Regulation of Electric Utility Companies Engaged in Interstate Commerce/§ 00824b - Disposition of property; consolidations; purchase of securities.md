@@ -22,7 +22,7 @@
 
 (4) After notice and opportunity for hearing, the Commission shall approve the proposed disposition, consolidation, acquisition, or change in control, if it finds that the proposed transaction will be consistent with the public interest, and will not result in cross-subsidization of a non-utility associate company or the pledge or encumbrance of utility assets for the benefit of an associate company, unless the Commission determines that the cross-subsidization, pledge, or encumbrance will be consistent with the public interest.
 
-(5) The Commission shall, by rule, adopt procedures for the expeditious consideration of applications for the approval of dispositions, consolidations, or acquisitions, under this section. Such rules shall identify classes of transactions, or specify criteria for transactions, that normally meet the standards established in paragraph (4). The Commission shall provide expedited review for such transactions. The Commission shall grant or deny any other application for approval of a transaction not later than 180 days after the application is filed. If the Commission does not act within 180 days, such application shall be deemed granted unless the Commission finds, based on good cause, that further consideration is required to determine whether the proposed transaction meets the standards of paragraph (4) and issues an order tolling the time for acting on the application for not more than 180 days, at the end of which additional period the Commission shall grant or deny the application.
+(5) The Commission shall, by rule, adopt procedures for the expeditious consideration of applications for the approval of dispositions, consolidations, or acquisitions, under this section. Such rules shall identify classes of transactions, or specify criteria for transactions, that normally meet the standards established in paragraph (4). The Commission shall provide expedited review for such transactions. The Commission shall grant or deny any other application for approval of a transaction not later than 180days after the application is filed. If the Commission does not act within 180 days, such application shall be deemed granted unless the Commission finds, based on good cause, that further consideration is required to determine whether the proposed transaction meets the standards of paragraph (4) and issues an order tolling the time for acting on the application for not more than 180 days, at the end of which additional period the Commission shall grant or deny the application.
 
 (6) For purposes of this subsection, the terms "associate company", "holding company", and "holding company system" have the meaning given those terms in the Public Utility Holding Company Act of 2005 \[42 U.S.C. 16451 et seq.\].
 
@@ -40,6 +40,8 @@ The Commission may grant any application for an order under this section in whol
 
 (June 10, 1920, ch. 285, pt. II, §203, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 849; amended Pub. L. 109–58, title XII, §1289(a), Aug. 8, 2005, 119 Stat. 982; Pub. L. 115–247, §§1, 2, Sept. 28, 2018, 132 Stat. 3152.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15801 of Title 42 and Tables.
@@ -51,6 +53,8 @@ The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), i
 Subsec. (a)(7). Pub. L. 115–247, §2, added par. (7).
 
 <b>2005</b>—Subsec. (a). Pub. L. 109–58 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "No public utility shall sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $50,000, or by any means whatsoever, directly or indirectly, merge or consolidate such facilities or any part thereof with those of any other person, or purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so. Upon application for such approval the Commission shall give reasonable notice in writing to the Governor and State commission of each of the States in which the physical property affected, or any part thereof, is situated, and to such other persons as it may deem advisable. After notice and opportunity for hearing, if the Commission finds that the proposed disposition, consolidation, acquisition, or control will be consistent with the public interest, it shall approve the same."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -4,7 +4,7 @@
 
 (b) The requirement for line of duty will not be met if it appears that at the time the injury was suffered or disease contracted the person on whose account benefits are claimed (1) was avoiding duty by deserting the service or by absenting himself or herself without leave materially interfering with the performance of military duties; (2) was confined under sentence of court-martial involving an unremitted dishonorable discharge; or (3) was confined under sentence of a civil court for a felony (as determined under the laws of the jurisdiction where the person was convicted by such court).
 
-(c) For the purposes of any provision relating to the extension of a delimiting period underany education-benefit or rehabilitation program administered by the Secretary, the disabling effects of chronic alcoholism shall not be considered to be the result of willful misconduct.
+(c) For the purposes of any provision relating to the extension of a delimiting period under any education-benefit or rehabilitation program administered by the Secretary, the disabling effects of chronic alcoholism shall not be considered to be the result of willful misconduct.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1110; Pub. L. 99–576, title VII, §701(4), Oct. 28, 1986, 100 Stat. 3290; Pub. L. 100–689, title I, §109, Nov. 18, 1988, 102 Stat. 4170; Pub. L. 101–508, title VIII, §8052(a)(1), Nov. 5, 1990, 104 Stat. 1388–351; Pub. L. 102–83, §4(a)(1), Aug. 6, 1991, 105 Stat. 403; Pub. L. 116–283, div. A, title IX, §926(a)(2), Jan. 1, 2021, 134 Stat. 3829.)
 

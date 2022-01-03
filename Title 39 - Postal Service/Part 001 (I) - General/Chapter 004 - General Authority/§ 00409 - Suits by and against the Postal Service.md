@@ -10,7 +10,7 @@
 
 &emsp;(A) shall be considered to be a "person", as used in the provisions of law involved; and
 
-&emsp;(B) shall not be immune under any other doctrine of sovereign immunity from suit in Federal court by any person for any violation of any of those provisions of law by any officer or employee of the Postal Service.
+&emsp;(B) shall not be immune under any other doctrine of sovereign immunity from suit inFederal court by any person for any violation of any of those provisions of law by any officer or employee of the Postal Service.
 
 (2) This subsection applies with respect to—
 
@@ -68,9 +68,9 @@
 
 > The Postal Service may, by contract or otherwise, employ attorneys to obtain any legal representation that it is precluded from obtaining from the Department of Justice under this paragraph.
 
-(2) In any circumstance not covered by paragraph (1), the Department of Justice shall, under section 411, furnish the Postal Service such legal representation as it may require, except that, with the prior consent of the Attorney General, the Postal Service may, in any such circumstance, employ attorneys by contract or otherwise to conduct litigation brought by or against the Postal Service or its officers or employees in matters affecting the Postal Service.
+(2) In any circumstance not covered by paragraph (1), the Department of Justice shall, under section 411, furnish the Postal Service such legal representation as it may require, except that, with the prior consent of the Attorney General, the Postal Service may, in any such circumstance, employ attorneys by contract or otherwise to conduct litigation brought by oragainst the Postal Service or its officers or employees in matters affecting the Postal Service.
 
-(3)(A) In any action, suit, or proceeding in a court of the United States arising in whole or in part under any of the provisions of law referred to in subparagraph (B) or (C) of paragraph (1), and to which the Commission is not otherwise aparty, the Commission shall be permitted to appear as a party on its own motion and as of right.
+(3)(A) In any action, suit, or proceeding in a court of the United States arising in whole or in part under any of the provisions of law referred to in subparagraph (B) or (C) of paragraph (1), and to which the Commission is not otherwise a party, the Commission shall be permitted to appear as a party on its own motion and as of right.
 
 (B) The Department of Justice shall, under such terms and conditions as the Commission and the Attorney General shall consider appropriate, furnish the Commission such legal representation as it may require in connection with any such action, suit, or proceeding, except that, with the prior consent of the Attorney General, the Commission may employ attorneys by contract or otherwise for that purpose.
 

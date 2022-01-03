@@ -26,6 +26,8 @@ Special nuclear material, as defined in section 2014 of this title, produced in 
 
 (Aug. 1, 1946, ch. 724, title I, §57, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 932; amended Pub. L. 88–489, §12, Aug. 26, 1964, 78 Stat. 605; Pub. L. 93–377, §3, Aug. 17, 1974, 88 Stat. 475; Pub. L. 95–242, title III, §302, Mar. 10, 1978, 92 Stat. 126; Pub. L. 97–415, §14, Jan. 4, 1983, 96 Stat. 2075; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 105–277, div. G, title XII, §1225(d)(1), Oct. 21, 1998, 112 Stat. 2681–774; Pub. L. 108–458, title VI, §6803(a), Dec. 17, 2004, 118 Stat. 3768.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1805(a)(3) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
@@ -42,7 +44,9 @@ Provisions similar to this section were contained in section 1805(a)(3) of this 
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–377 added subsec. (d).
 
-<b>1964</b>—Pub. L. 88–489 amended section generally, and among other changes, included all special nuclear materials within the section, struck out condition that such material be "the property of the United States", included delivery, acquisition, ownership and receiving possession of or title to any special nuclear material within the acts prohibited to persons, prohibited the Commission from issuing a license pursuant to section 2073 of this title if the Commission finds that the issuance would be inimical to the common defense and security or would constitute an unreasonable risk to the health and safety of the public, and extended the power of the Commission to refuse to distribute any special nuclear material if it finds that the distribution would constitute an unreasonable risk to the health and safety of the public.
+<b>1964</b>—Pub. L. 88–489 amended section generally, and among other changes, included all special nuclear materials within the section, struck out condition that such material be "the property of the United States", included delivery, acquisition, ownership and receiving possession of or title to any special nuclear material within the acts prohibited to persons, prohibited the Commission from issuing a license pursuant to section 2073 of this title if the Commission finds that the issuance would be inimical to the common defense and security or would constitute an unreasonable risk tothe health and safety of the public, and extended the power of the Commission to refuse to distribute any special nuclear material if it finds that the distribution would constitute an unreasonable risk to the health and safety of the public.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 
@@ -51,6 +55,8 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 #### Effective Date of 1978 Amendment
 
 Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provided and regardless of any requirement for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as an Effective Date note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Performance of Functions Pending Development of Procedures
 

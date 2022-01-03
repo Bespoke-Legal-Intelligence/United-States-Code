@@ -42,6 +42,8 @@ This chapter (other than this part and the provisions referred to in subsection 
 
 (Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1391; amended Pub. L. 94–455, title XIX, §1905(b)(6)(E), Oct. 4, 1976, 90 Stat. 1823.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those comprising subsecs. (a) to (i) of this section were contained in prior sections of act Aug. 16, 1954, prior to the general revision of this chapter by Pub. L. 85–859, as follows:
@@ -65,6 +67,8 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 63
 #### Amendments
 
 <b>1976</b>—Subsec. (i). Pub. L. 94–455 struck out "5601(b)(1)," after "5601(a)(1), (6), and (12),".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

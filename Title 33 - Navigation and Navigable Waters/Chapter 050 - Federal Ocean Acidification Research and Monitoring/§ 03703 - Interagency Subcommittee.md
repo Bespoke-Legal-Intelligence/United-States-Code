@@ -18,7 +18,7 @@
 
 The Subcommittee shall—
 
-&emsp;(1) develop the strategic research and monitoring plan to guide Federal research on oceanacidification required under section 3704 of this title and oversee the implementation of the plan;
+&emsp;(1) develop the strategic research and monitoring plan to guide Federal research on ocean acidification required under section 3704 of this title and oversee the implementation of the plan;
 
 &emsp;(2) oversee the development of—
 
@@ -66,7 +66,7 @@ The Subcommittee shall—
 
 &emsp;&emsp;&emsp;(iii) identifies geographic areas which have gaps in ocean acidification research;
 
-&emsp;&emsp;&emsp;(iv) identifies United States coastal communities, including island communities, fishing communities, low-population rural communities, tribal and subsistence communities, and island communities, that may be impacted by ocean acidification;
+&emsp;&emsp;&emsp;(iv) identifies United States coastal communities, including island communities, fishing communities, low-population ruralcommunities, tribal and subsistence communities, and island communities, that may be impacted by ocean acidification;
 
 &emsp;&emsp;&emsp;(v) identifies impacts of changing ocean carbonate chemistry on the communities described in clause (iv), including impacts from changes in ocean and coastal marine resources that are not managed by the Federal Government;
 

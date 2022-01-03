@@ -62,7 +62,7 @@ In this section:
 
 &emsp;&emsp;(B) coordinate and collaborate with the Industrial Technology Innovation Advisory Committee established under section 17115 of this title; and
 
-&emsp;&emsp;(C) coordinate and seek to avoid duplication with the energy-intensive industries program established under section 17111 of this title.
+&emsp;&emsp;(C) coordinate and seek to avoid duplication with the Future of Industry <sup>1</sup> program established under section 17111 of this title.
 
 #### (3) Leverage of existing resources
 
@@ -176,7 +176,19 @@ There are authorized to be appropriated to the Secretary to carry out the demons
 
 The Secretary shall carry out the activities authorized in this section in accordance with section 18631 of this title.
 
-(Pub. L. 110–140, title IV, §454, as added Pub. L. 116–260, div. Z, title VI, §6003(a), Dec. 27, 2020, 134 Stat. 2553.)
+(Pub. L. 110–140, title IV, §454, as added Pub. L. 116–260, div. Z, title VI, §6003(a), Dec. 27, 2020, 134 Stat. 2553; amended Pub. L. 117–58, div. D, title V, §40521(a)(2), Nov. 15, 2021, 135 Stat. 1062.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (b)(2)(C). Pub. L. 117–58 substituted "Future of Industry" for "energy-intensive industries".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
 
 #### Purpose
 
@@ -185,4 +197,6 @@ Pub. L. 116–260, div. Z, title VI, §6001, Dec. 27, 2020, 134 Stat. 2552, prov
 &emsp;"(1) the technological and economic competitiveness of industry and manufacturing in the United States; and
 
 &emsp;"(2) the emissions reduction of nonpower industrial sectors."
+
+<i><sup>1</sup></i><i> So in original.</i>
 

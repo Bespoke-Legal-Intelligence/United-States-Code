@@ -2,7 +2,7 @@
 
 #### (a) Hearing
 
-Whenever the Secretary of Agriculture has reason to believe that any person has violated or is violating any of the provisions of this chapter or the rules and regulations made and promulgated thereunder, he shall cause a complaint in writing to be served upon the person, stating his charges in that respect, and requiring the person to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the person a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such rules and regulations as the Secretary of Agriculture may prescribe. At any time prior to the close of the hearing the Secretary of Agriculture may amend the complaint; but in case of any amendment adding new provisions the hearing shall, on the request of the person, be adjourned for a period not exceeding fifteen days.
+Whenever the Secretary of Agriculture has reason to believe that any person has violated or is violating any of the provisions of this chapter or the rules and regulations made and promulgated thereunder, he shall cause a complaint in writing to be served upon the person, stating his charges in that respect, and requiring the person to attend and testify at a hearing at a time and place designated therein, at least thirty days after the service of such complaint; and at such time and place there shall be afforded the person a reasonable opportunity to be informed as to the evidence introduced against him (including the right of cross-examination), and to be heard in person or by counsel and through witnesses, under such rules and regulations as the Secretary of Agriculture may prescribe. At anytime prior to the close of the hearing the Secretary of Agriculture may amend the complaint; but in case of any amendment adding new provisions the hearing shall, on the request of the person, be adjourned for a period not exceeding fifteen days.
 
 #### (b) Report of Secretary of Agriculture
 
@@ -18,11 +18,15 @@ Complaints, orders, and other processes of the Secretary of Agriculture under th
 
 (Aug. 9, 1939, ch. 615, title IV, §409, 53 Stat. 1287; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §24(a), Aug. 28, 1958, 72 Stat. 949; Pub. L. 86–507, §1(7), June 11, 1960, 74 Stat. 200.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–507 substituted "mailing a copy thereof by registered mail or by certified mail" for "registering and mailing a copy thereof" and "mailed by registered mail or by certified mail" for "registered and mailed".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–791 struck out "a transcript of" before "the record".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

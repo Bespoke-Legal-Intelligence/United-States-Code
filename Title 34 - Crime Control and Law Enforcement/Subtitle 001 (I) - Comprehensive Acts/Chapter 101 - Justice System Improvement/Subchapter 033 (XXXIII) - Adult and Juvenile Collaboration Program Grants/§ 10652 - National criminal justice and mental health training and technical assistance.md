@@ -14,7 +14,7 @@ Any organization that receives a grant under subsection (a) shall collaborate wi
 
 &emsp;(1) provide law enforcement officer training regarding mental health and working with individuals with mental illnesses, with an emphasis on de-escalation of encounters between law enforcement officers and those with mental disorders or in crisis, which shall include support the development of in-person and technical information exchanges between systems and the individuals working in those systems in support of the concepts identified in the training;
 
-&emsp;(2) provide education, training, and technical assistance for States, Indian tribes, territories, units of local government, serviceproviders, nonprofit organizations, probation or parole officers, prosecutors, defense attorneys, emergency response providers, and corrections institutions to advance practice and knowledge relating to mental health crisis and approaches to mental health and criminal justice across systems;
+&emsp;(2) provide education, training, and technical assistance for States, Indian tribes, territories, units of local government, service providers, nonprofit organizations, probation or parole officers, prosecutors, defense attorneys, emergency response providers, and corrections institutions to advance practice and knowledge relating to mental health crisis and approaches to mental health and criminal justice across systems;
 
 &emsp;(3) provide training and best practices to mental health providers and criminal justice agencies relating to diversion initiatives, jail and prison strategies, reentry of individuals with mental illnesses into the community, and dispatch protocols and triage capabilities, including the establishment of learning sites;
 
@@ -42,7 +42,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (B) Audits
 
-&emsp;&emsp;Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct audits of grantees under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
+&emsp;&emsp;Beginning in the first fiscal year beginning after December 13, 2016, and in each fiscal year thereafter, the Inspector General of the Department of Justice shall conduct auditsof grantees under this section to prevent waste, fraud, and abuse of funds by grantees. The Inspector General shall determine the appropriate number of grantees to be audited each year.
 
 #### (C) Final audit report
 
@@ -76,7 +76,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (C) Disclosure
 
-&emsp;&emsp;Each nonprofit agency that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney Generalshall make the information disclosed under this subparagraph available for public inspection.
+&emsp;&emsp;Each nonprofit agency that is awarded a grant under this section and uses the procedures prescribed in regulations to create a rebuttable presumption of reasonableness for the compensation of its officers, directors, trustees, and key employees, shall disclose to the Attorney General, in the application for the grant, the process for determining such compensation, including the independent persons involved in reviewing and approving such compensation, the comparability data used, and contemporaneous substantiation of the deliberation and decision. Upon request, the Attorney General shall make the information disclosed under this subparagraph available for public inspection.
 
 #### (3) Conference expenditures
 
@@ -114,7 +114,7 @@ Grants awarded under this section shall be subject to the following accountabili
 
 #### (B) Report
 
-&emsp;&emsp;If the Attorney General awards duplicate grants to the same applicant for the same purpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
+&emsp;&emsp;If the Attorney General awards duplicate grants to the same applicant for the samepurpose the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that includes—
 
 &emsp;&emsp;&emsp;(i) a list of all duplicate grants awarded, including the total dollar amount of any duplicate grants awarded; and
 
@@ -164,7 +164,7 @@ Training programs.—Programs that offer specialized and comprehensive training,
 
 &emsp;&emsp;"(A) Federal law enforcement agencies; and
 
-&emsp;&emsp;"(B) other Federal criminal justice agencies such as the Bureau of Prisons, the Administrative Officeof the United States Courts, and other agencies that the Attorney General determines appropriate.
+&emsp;&emsp;"(B) other Federal criminal justice agencies such as the Bureau of Prisons, the Administrative Office of the United States Courts, and other agencies that the Attorney General determines appropriate.
 
 &emsp;"(2)
 

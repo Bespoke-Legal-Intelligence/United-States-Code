@@ -20,7 +20,7 @@ In carrying out this subchapter, the Commissioner is authorized to—
 
 #### (1) In general
 
-&emsp;Subject to agreements made between the Commissioner and the head of such agency or organization, in carrying out the duties referred to in subsection (a) the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations.<sup>1</sup>
+&emsp;Subject to agreements made between the Commissioner and the head of such agency ororganization, in carrying out the duties referred to in subsection (a) the Commissioner may utilize the services and facilities of any agency of the Federal Government and of any other public or nonprofit agency or organizations.<sup>1</sup>
 
 #### (2) Payment
 
@@ -31,6 +31,8 @@ In carrying out this subchapter, the Commissioner is authorized to—
 Of the aggregate amount appropriated to carry out this chapter in any fiscal year, the Secretary may reserve not more than 10 percent for salaries and expenses of the Administration on Children, Youth, and Families related to the administration of this chapter.
 
 (Pub. L. 101–501, title IX, §919, Nov. 3, 1990, 104 Stat. 1267.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

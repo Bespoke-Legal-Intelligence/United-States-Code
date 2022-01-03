@@ -4,6 +4,8 @@ All refunds and other amounts collected in the administration of the TRICARE pro
 
 (Added Pub. L. 104–201, div. A, title VII, §733(a)(1), Sept. 23, 1996, 110 Stat. 2597; amended Pub. L. 114–328, div. A, title VII, §701(j)(1)(D), Dec. 23, 2016, 130 Stat. 2192.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in the following appropriations acts:
@@ -15,6 +17,8 @@ Pub. L. 103–335, title VIII, §8144, Sept. 30, 1994, 108 Stat. 2656.
 #### Amendments
 
 <b>2016</b>—Pub. L. 114–328 substituted "TRICARE program" for "CHAMPUS" in section catchline and "the TRICARE program" for "the Civilian Health and Medical Program of the Uniformed Services" in text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2016 Amendment
 

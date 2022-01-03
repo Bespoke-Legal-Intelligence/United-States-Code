@@ -20,9 +20,13 @@ May 5, 1950, ch. 169, §7(b), 64 Stat. 145.
 
 The words "organization of the Marine Corps" are substituted for "force of marines" for clarity. The words "or vessels", "and powers", "on shore", and "under his command" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5952 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

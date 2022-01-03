@@ -12,14 +12,9 @@
 
 #### SUBCHAPTER II—RAILROAD REHABILITATION AND IMPROVEMENT FINANCING
 
-|  |  |
-| :--- | ---: |
-| [821\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000821%20-%20Definitions.md) | Definitions. |
-| [822\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000822%20-%20Direct%20loans%20and%20loan%20guarantees.md) | Direct loans and loan guarantees. |
-| [823\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000823%20-%20Administration%20of%20direct%20loans%20and%20loan%20guarantees.md) | Administration of direct loans and loan guarantees. |
-| 824 to 835. Repealed or Transferred. |  |
-| [836\.](Subchapter%20002%20%28II%29%20-%20Railroad%20Rehabilitation%20and%20Improvement%20Financing/%C2%A7%2000836%20-%20Employee%20protection.md) | Employee protection. |
-| 837, 838. | Repealed. |
+|  |
+| :--- |
+| 821 to 838. Repealed or Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

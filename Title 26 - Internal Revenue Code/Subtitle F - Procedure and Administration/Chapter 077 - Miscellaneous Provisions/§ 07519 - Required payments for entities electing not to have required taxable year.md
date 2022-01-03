@@ -60,7 +60,7 @@ For purposes of this section—
 
 &emsp;&emsp;(B) the excess (if any) of—
 
-&emsp;&emsp;&emsp;(i) the deferral ratio multiplied by the aggregate amount of applicable paymentsmade by the entity during the base year, over
+&emsp;&emsp;&emsp;(i) the deferral ratio multiplied by the aggregate amount of applicable payments made by the entity during the base year, over
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount of such applicable payments made during the deferral period of the base year.
 
@@ -155,7 +155,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection or in regulations prescribed by theSecretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
+&emsp;Except as otherwise provided in this subsection or in regulations prescribed by the Secretary, any payment required by this section shall be assessed and collected in the same manner as if it were a tax imposed by subtitle C.
 
 #### (2) Due date
 
@@ -188,6 +188,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 &emsp;(2) the base year is a taxable year of less than 12 months.
 
 (Added Pub. L. 100–203, title X, §10206(b)(1), Dec. 22, 1987, 101 Stat. 1330–398; amended Pub. L. 100–647, title II, §2004(e)(4)–(10), (14)(B), Nov. 10, 1988, 102 Stat. 3601, 3602; Pub. L. 101–239, title VII, §§7721(c)(12), 7821(b), Dec. 19, 1989, 103 Stat. 2400, 2424; Pub. L. 101–508, title XI, §11704(a)(29), Nov. 5, 1990, 104 Stat. 1388–519; Pub. L. 105–34, title XII, §1281(d), Aug. 5, 1997, 111 Stat. 1037.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -224,6 +226,8 @@ Subsec. (g). Pub. L. 100–647, §2004(e)(6), substituted "including regulations
 &emsp;"(1) 2 or more applicable election years begin in the same calendar year, or
 
 &emsp;"(2) the base year is a taxable year of less than 12 months" for "including regulations for annualizing the income and applicable payments of an entity if the base year is a taxable year of less than 12 months".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

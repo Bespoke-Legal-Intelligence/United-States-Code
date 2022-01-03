@@ -38,7 +38,7 @@ Responsibilities.—The responsibilities of the Corporation transferred to the A
 
 &emsp;&emsp;(E) the disposition of real estate properties which are or become available for sale and lease or other uses;
 
-&emsp;&emsp;(F) payment of benefits in accordance with the Uniform Relocation Assistance and RealProperty Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.) to which persons in the project area squares are entitled as a result of the Corporation's acquisition of real estate; and
+&emsp;&emsp;(F) payment of benefits in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.) to which persons in the project area squares are entitled as a result of the Corporation's acquisition of real estate; and
 
 &emsp;&emsp;(G) carrying out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735), including responsibilities for managing assets and liabilities of the Corporation under subchapter III and the Act.
 
@@ -130,7 +130,7 @@ In subsection (d), the words "Notwithstanding any other provision of law" are om
 
 #### References in Text
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and subchapter II of this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title andsubchapter II of this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 Section 5 of the Act was classified to section 874 of former Title 40 prior to repeal by Pub. L. 107–217.
 

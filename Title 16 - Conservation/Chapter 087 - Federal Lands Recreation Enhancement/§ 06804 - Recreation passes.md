@@ -16,7 +16,7 @@
 
 #### (4) Duration
 
-&emsp;The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age and disability discounted passes issued under subsection (b).
+&emsp;The National Parks and Federal Recreational Lands Pass shall be valid for a period of 12 months from the date of the issuance of the recreation pass to a passholder, except in the case of the age discount and lifetime passes issued under subsection (b).
 
 #### (5) Price
 
@@ -48,7 +48,7 @@
 
 &emsp;The Secretary may not establish any national recreation pass, except as provided in this section.
 
-#### (b) Discounted passes
+#### (b) Free and discounted passes
 
 #### (1) Age discount
 
@@ -60,17 +60,19 @@
 
 &emsp;(B) The Secretary shall issue a pass under subparagraph (A)(ii), for no additional cost, to any individual who provides evidence, under policies and guidelines determined by the Secretary, that the individual has purchased a pass under subparagraph (A)(i) for each of the 4 years prior to being issued a pass under this subparagraph.
 
-#### (2) Disability discount
+#### (2) Lifetime passes
 
 &emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge and for the lifetime of the passholder, to the following:
 
 &emsp;&emsp;(A) Any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled, within the meaning of the term "disability" under section 12102 of title 42, if the citizen or person provides adequate proof of the disability and such citizenship or residency.
 
-&emsp;&emsp;(B) Any veteran who has been found to have a service-connected disability under title 38.
+&emsp;&emsp;(B) Any veteran who provides adequate proof of military service as determined by the Secretary.
 
-#### (3) Gold Star Families parks pass
+&emsp;&emsp;(C) Any member of a Gold Star Family who meets the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).
 
-&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).
+#### (3) Annual passes
+
+&emsp;The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.
 
 #### (c) Site-specific agency passes
 
@@ -80,7 +82,7 @@ The Secretary may establish and charge a fee for a site-specific pass that will 
 
 #### (1) Passes authorized
 
-&emsp;The Secretary may establish and charge a fee for a regional multientity pass that will beaccepted by one or more Federal land management agencies or by one or more governmental or nongovernmental entities for a specified period not to exceed 12 months. To include a Federal land management agency or governmental or nongovernmental entity over which the Secretary does not have jurisdiction, the Secretary shall obtain the consent of the head of such agency or entity.
+&emsp;The Secretary may establish and charge a fee for a regional multientity pass that will be accepted by one or more Federal land management agencies or by one or more governmental or nongovernmental entities for a specified period not to exceed 12 months. To include a Federal land management agency or governmental or nongovernmental entity over which the Secretary does not have jurisdiction, the Secretary shall obtain the consent of the head of such agency or entity.
 
 #### (2) Regional multientity pass agreement
 
@@ -100,7 +102,9 @@ The Secretary may provide for a discounted or free admission day or use of Feder
 
 &emsp;A permit issued under section 100904 of title 54 that was valid on the day before December 8, 2004, shall be valid and remain in effect until expired, revoked, or suspended.
 
-(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677.)
+(Pub. L. 108–447, div. J, title VIII, §805, Dec. 8, 2004, 118 Stat. 3385; Pub. L. 113–287, §5(d)(36), Dec. 19, 2014, 128 Stat. 3267; Pub. L. 114–289, title I, §102, Dec. 16, 2016, 130 Stat. 1484; Pub. L. 116–205, §2, Dec. 3, 2020, 134 Stat. 996; Pub. L. 116–283, div. A, title VI, §625, Jan. 1, 2021, 134 Stat. 3677; Pub. L. 117–81, div. A, title VI, §641, Dec. 27, 2021, 135 Stat. 1776.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -114,13 +118,23 @@ In subsec. (f), "section 100904 of title 54" substituted for "section 4 of the L
 
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(7). Pub. L. 116–283, §625(b)(1), struck out "age and disability" before "discounts".
+<b>2021</b>—Subsec. (a)(4). Pub. L. 117–81, §641(1), substituted "age discount and lifetime" for "age and disability discounted".
+
+Subsec. (a)(7). Pub. L. 116–283, §625(b)(1), struck out "age and disability" before "discounts".
+
+Subsec. (b). Pub. L. 117–81, §641(2)(A), substituted "Free and discounted" for "Discounted" in heading.
 
 Subsec. (b)(1)(A). Pub. L. 116–283, §625(b)(2)(A), substituted "this paragraph" for "this subsection" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 116–283, §625(b)(2)(B), which directed the substitution of "this paragraph" for "this subsection", could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
+Subsec. (b)(2). Pub. L. 117–81, §641(2)(B)(i), substituted "Lifetime passes" for "Disability discount" in heading.
 
-Subsec. (b)(3). Pub. L. 116–283, §625(a), added par. (3).
+Pub. L. 116–283, §625(b)(2)(B), which directed the substitution of "this paragraph" for "this subsection", could not be executed due to intervening amendment by Pub. L. 116–205. See 2020 Amendment note below.
+
+Subsec. (b)(2)(B), (C). Pub. L. 117–81, §641(2)(B)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: "Any veteran who has been found to have a service-connected disability under title 38."
+
+Subsec. (b)(3). Pub. L. 117–81, §641(2)(C), substituted "Annual passes" for "Gold Star Families parks pass" in heading and "members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary." for "members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction)." in text.
+
+Pub. L. 116–283, §625(a), added par. (3).
 
 <b>2020</b>—Subsec. (b)(2). Pub. L. 116–205 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "The Secretary shall make the National Parks and Federal Recreational Lands Pass available, without charge, to any United States citizen or person domiciled in the United States who has been medically determined to be permanently disabled for purposes of section 705(20)(B)(i) of title 29, if the citizen or person provides adequate proof of the disability and such citizenship or residency. The National Parks and Federal Recreational Lands Pass made available under this subsection shall be valid for the lifetime of the passholder."
 
@@ -129,6 +143,8 @@ Subsec. (b)(3). Pub. L. 116–283, §625(a), added par. (3).
 <b>2014</b>—Subsec. (f)(1). Pub. L. 113–287, §5(d)(36)(B), struck out "; 16 U.S.C. 5991–5995" after "(Public Law 105–391".
 
 Pub. L. 113–287, §5(d)(36)(A), made technical amendment to reference in original act which appeared in text as reference to "section 460l–6a of this title" prior to substitution of "section 100904 of title 54". See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Every Kid Outdoors Act
 
@@ -172,7 +188,7 @@ State.—The term 'State' means each of the several States, the District of Colu
 
 &emsp;"(5)
 
-Student or students.—The term 'student' or 'students' means any fourth grader or home-schooledlearner 10 years of age residing in the United States, including any territory or possession of the United States.
+Student or students.—The term 'student' or 'students' means any fourth grader or home-schooled learner 10 years of age residing in the United States, including any territory or possession of the United States.
 
 "(b)
 

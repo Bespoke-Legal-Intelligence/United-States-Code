@@ -168,7 +168,7 @@ Nonapplicability.—This section does not apply to—
 
 &emsp;(12) the term "vessel of the United States" has the meaning given that term in section 70502 of title 46.
 
-(Added Pub. L. 97–351, §2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, §7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272, §5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, §502, Apr. 24, 1996, 110 Stat. 1282; Pub. L. 114–23, title VIII, §812, June 2, 2015, 129 Stat. 311.)
+(Added Pub. L. 97–351, §2(a), Oct. 18, 1982, 96 Stat. 1663; amended Pub. L. 100–690, title VII, §7022, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–272,§5(e)(6), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §330016(2)(C), Sept. 13, 1994, 108 Stat. 2148; Pub. L. 104–132, title V, §502, Apr. 24, 1996, 110 Stat. 1282; Pub. L. 114–23, title VIII, §812, June 2, 2015, 129 Stat. 311.)
 
 #### <b>Editorial Notes</b>
 

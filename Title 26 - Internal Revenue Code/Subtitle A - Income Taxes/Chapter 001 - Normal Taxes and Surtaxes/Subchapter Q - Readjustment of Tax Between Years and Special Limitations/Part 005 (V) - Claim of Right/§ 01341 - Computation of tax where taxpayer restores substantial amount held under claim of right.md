@@ -20,7 +20,7 @@ If—
 
 &emsp;&emsp;(B) the decrease in tax under this chapter (or the corresponding provisions of prior revenue laws) for the prior taxable year (or years) which would result solely from the exclusion of such item (or portion thereof) from gross income for such prior taxable year (or years).
 
-> For purposes of paragraph (5)(B), the corresponding provisions of the Internal Revenue Code of 1939 shall be chapter 1 of such code (other than subchapter E, relating to self-employment income) and subchapter E of chapter 2 of such code.
+> For purposes of paragraph (5)(B), the corresponding provisions of the Internal RevenueCode of 1939 shall be chapter 1 of such code (other than subchapter E, relating to self-employment income) and subchapter E of chapter 2 of such code.
 
 #### (b) Special rules
 
@@ -44,6 +44,8 @@ If—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 348; Pub. L. 85–866, title I, §60(a)–(d), Sept. 2, 1958, 72 Stat. 1647; Pub. L. 87–863, §5(a), Oct. 23, 1962, 76 Stat. 1142; Pub. L. 88–272, title II, §234(b)(7), Feb. 26, 1964, 78 Stat. 116; Pub. L. 94–455, title XIX, §1901(a)(146), Oct. 4, 1976, 90 Stat. 1788.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Chapter 1 of the Internal Revenue Code of 1939, referred to in subsec. (a), was comprised of sections 1 to 482 of former Title 26, Internal Revenue Code. Chapter 1 was repealed by section 7851(a)(1)(A) of this title. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding section 1 of this title. See also section 7851(e) of this title for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
@@ -64,6 +66,8 @@ Subsec. (b)(2). Pub. L. 85–866, §60(b), (c), in second sentence inserted "wit
 
 Subsec. (b)(3). Pub. L. 85–866, §60(d), added par. (3).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1976 Amendment
 
 Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
@@ -74,7 +78,7 @@ Amendment by Pub. L. 88–272 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–863, §5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962."
+Pub. L. 87–863, §5(b), Oct. 23, 1962, 76 Stat. 1143, provided that: "The amendment made by subsection (a)\[amending this section\] shall be effective with respect to taxable years beginning on or after January 1, 1962."
 
 #### Effective Date of 1958 Amendment
 

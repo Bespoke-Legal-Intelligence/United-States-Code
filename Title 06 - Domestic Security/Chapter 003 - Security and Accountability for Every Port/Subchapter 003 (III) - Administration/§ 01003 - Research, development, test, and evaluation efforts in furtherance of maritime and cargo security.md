@@ -12,7 +12,7 @@ The Secretary shall—
 
 #### (b) Coordination
 
-The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandant of the Coast Guard, the Director for Domestic Nuclear Detection,<sup>1</sup> the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—
+The Secretary, in coordination with the Under Secretary for Science and Technology, the Assistant Secretary for Policy, the Commandantof the Coast Guard, the Director for Domestic Nuclear Detection,<sup>1</sup> the Chief Financial Officer, and the heads of other appropriate offices or entities of the Department, shall ensure that—
 
 &emsp;(1) research, development, testing, and evaluation efforts funded by the Department in furtherance of maritime and cargo security are coordinated within the Department and with other appropriate Federal agencies to avoid duplication of efforts; and
 

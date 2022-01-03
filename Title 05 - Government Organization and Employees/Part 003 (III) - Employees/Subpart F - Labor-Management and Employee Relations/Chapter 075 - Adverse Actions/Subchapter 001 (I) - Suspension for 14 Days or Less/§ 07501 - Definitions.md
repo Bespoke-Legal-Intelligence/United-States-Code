@@ -6,7 +6,13 @@ For the purpose of this subchapter—
 
 &emsp;(2) "suspension" means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
 
-(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1134; amended Pub. L. 114–92, div. A, title XI, §1105(c)(3), Nov. 25, 2015, 129 Stat. 1024.)
+(Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1134; amended Pub. L. 114–92, div. A, title XI, §1105(c)(3), Nov. 25, 2015, 129 Stat. 1024; Pub. L. 117–81, div. A, title XI, §1106(b)(2)(C), Dec. 27, 2021, 135 Stat. 1950.)
+
+#### Amendment of Paragraph (1)
+
+<i>Pub. L. 117–81, div. A, title XI, §1106(a)(1), (b)(2)(C), Dec. 27, 2021, 135 Stat. 1950, effective</i><i>Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of section 1599e of title 10, provided that paragraph (1) of this section is amended by striking out ", except as provided in section 1599e of title 10,". See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -14,7 +20,15 @@ A prior section 7501, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527, related to 
 
 #### Amendments
 
+<b>2021</b>—Par. (1). Pub. L. 117–81 struck out ", except as provided in section 1599e of title 10," after "initial appointment or,".
+
 <b>2015</b>—Par. (1). Pub. L. 114–92 substituted "or, except as provided in section 1599e of title 10, who" for "or who".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+For repeal of section 1599e of title 10, effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under section 1599e of Title 10, Armed Forces.
 
 #### Effective Date
 

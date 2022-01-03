@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regionalplan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
+Each local board shall develop and submit to the Governor a comprehensive 4-year local plan, in partnership with the chief elected official. The local plan shall support the strategy described in the State plan in accordance with section 3112(b)(1)(E) of this title, and otherwise be consistent with the State plan. If the local area is part of a planning region, the local board shall comply with section 3121(c) of this title in the preparation and submission of a regional plan. At the end of the first 2-year period of the 4-year local plan, each local board shall review the local plan and the local board, in partnership with the chief elected official, shall prepare and submit modifications to the local plan to reflect changes in labor market and economic conditions or in other factors affecting the implementation of the local plan.
 
 #### (b) Contents
 
@@ -50,7 +50,7 @@ The local plan shall include—
 
 &emsp;&emsp;(A) a description of how the local board will ensure the continuous improvement of eligible providers of services through the system and ensure that such providers meet the employment needs of local employers, and workers and jobseekers;
 
-&emsp;&emsp;(B) a description of how the local board will facilitate access to services provided through the one-stop delivery system, including in remote areas, through the use of technology and through other means;
+&emsp;&emsp;(B) a description of how the local board will facilitate access to services providedthrough the one-stop delivery system, including in remote areas, through the use of technology and through other means;
 
 &emsp;&emsp;(C) a description of how entities within the one-stop delivery system, including one-stop operators and the one-stop partners, will comply with section 3248 of this title, if applicable, and applicable provisions of the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) regarding the physical and programmatic accessibility of facilities, programs and services, technology, and materials for individuals with disabilities, including providing staff training and support for addressing the needs of individuals with disabilities; and
 
@@ -98,7 +98,7 @@ Prior to the date on which the local board submits a local plan under this secti
 
 &emsp;(1) make available copies of a proposed local plan to the public through electronic and other means, such as public hearings and local news media;
 
-&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not laterthan the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
+&emsp;(2) allow members of the public, including representatives of business, representatives of labor organizations, and representatives of education to submit to the local board comments on the proposed local plan, not later than the end of the 30-day period beginning on the date on which the proposed local plan is made available; and
 
 &emsp;(3) include with the local plan submitted to the Governor under this section any such comments that represent disagreement with the plan.
 

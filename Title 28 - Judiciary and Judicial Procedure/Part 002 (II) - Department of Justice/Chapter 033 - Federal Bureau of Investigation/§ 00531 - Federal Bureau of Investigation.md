@@ -6,7 +6,7 @@ The Federal Bureau of Investigation is in the Department of Justice.
 
 #### Historical and Revision Notes
 
-The section is supplied for convenience and clarification. The Bureau of Investigation in the Department of Justice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, §1 (par. beginning "From the appropriations for the prosecution of crimes"), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
+The section is supplied for convenience and clarification. The Bureau of Investigation in the Department ofJustice, the earliest predecessor agency of the Federal Bureau of Investigation, was created administratively in 1908. It appears that funds used for the Bureau of Investigation were first obtained through the Department of Justice Appropriation Act of May 22, 1908, ch. 186, §1 (par. beginning "From the appropriations for the prosecution of crimes"), 35 Stat. 236, although that statutory provision makes no express mention of the Bureau or of the investigative function.
 
 Section 3 of Executive Order No. 6166 of June 10, 1933, specifically recognized the Bureau of Investigation in the Department of Justice and provided that all that Bureau's functions together with the investigative functions of the Bureau of Prohibition were "transferred to and consolidated in a Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation."
 

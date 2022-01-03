@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, an issue shall not meet the requirement of subparagraph (A)(i) unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) all proceeds of the issue required to be used to finance owner-occupied residences are so used within the 42-month period beginning on the date of issuance of the issue (or, in the case of a refunding bond, within the 42-month period beginning on the date of issuance of the original bond) or, to the extent not so used within such period, are used within such period to redeem bonds which are part of such issue, and
+&emsp;&emsp;&emsp;&emsp;(I) all proceeds of the issue required to be used to finance owner-occupied residences are so used within the 42-month period beginning on the date of issuanceof the issue (or, in the case of a refunding bond, within the 42-month period beginning on the date of issuance of the original bond) or, to the extent not so used within such period, are used within such period to redeem bonds which are part of such issue, and
 
 &emsp;&emsp;&emsp;&emsp;(II) no portion of the proceeds of the issue are used to make or finance any loan (other than a loan which is a nonpurpose investment within the meaning of section 148(f)(6)(A)) after the close of such period.
 
@@ -170,7 +170,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (B) Income requirements for residences in high housing cost area
 
-&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a highhousing cost area is the percentage (not greater than 140 percent) equal to the product of—
+&emsp;&emsp;The percentage determined under this subparagraph for a residence located in a high housing cost area is the percentage (not greater than 140 percent) equal to the product of—
 
 &emsp;&emsp;&emsp;(I) 115 percent, and
 
@@ -238,7 +238,7 @@ For purposes of this part, the term "qualified veterans' mortgage bond" means an
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In determining the effective rate of interest on any mortgage for purposes of this paragraph, there shall be taken into account all fees, charges, and other amounts borne by the mortgagor which are attributable to the mortgage or to the bond issue.
+&emsp;&emsp;&emsp;In determining the effective rate of interest on any mortgage for purposes of thisparagraph, there shall be taken into account all fees, charges, and other amounts borne by the mortgagor which are attributable to the mortgage or to the bond issue.
 
 #### (ii) Specification of some of the amounts to be treated as borne by the mortgagor
 
@@ -462,7 +462,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) the value of services performed by the mortgagor or members of his family in completing the residence, and
 
-&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least2 years before the date on which construction of the residence begins.
+&emsp;&emsp;&emsp;(iii) the cost of land (other than land described in subsection (i)(1)(C)(i)) which has been owned by the mortgagor for at least 2 years before the date on which construction of the residence begins.
 
 #### (C) Special rule for qualified rehabilitation loans
 
@@ -554,7 +554,7 @@ For purposes of this section—
 
 #### (C) Limited equity cooperative housing
 
-&emsp;&emsp;For purposes of this paragraph, the term "limited equity cooperative housing" meansany dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
+&emsp;&emsp;For purposes of this paragraph, the term "limited equity cooperative housing" means any dwelling unit which a person is entitled to occupy by reason of his ownership of stock in a qualified cooperative housing corporation.
 
 #### (D) Qualified cooperative housing corporation
 
@@ -690,7 +690,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (A) In general
 
-&emsp;&emsp;An issue meets the requirements of this paragraph only if the aggregate amount of bonds issued pursuant thereto (when added to the aggregate amount of qualified veterans' mortgage bonds previously issued by the State during the calendar year) does not exceed the State veterans limit for such calendar year.
+&emsp;&emsp;An issue meets the requirements of this paragraph only if the aggregate amount ofbonds issued pursuant thereto (when added to the aggregate amount of qualified veterans' mortgage bonds previously issued by the State during the calendar year) does not exceed the State veterans limit for such calendar year.
 
 #### (B) State veterans limit
 
@@ -891,7 +891,7 @@ An issue meets the requirements of this subsection only if it meets the requirem
 
 #### (C) Involuntary conversions resulting from casualties
 
-&emsp;&emsp;In the case of property which (as a result of its destruction in whole or in part by fire, storm, or other casualty) is compulsorily or involuntarily converted, paragraph (1) shall not apply to such conversion if the taxpayer purchases (during the period specified in section 1033(a)(2)(B)) property for use as his principal residence on the site of the converted property. For purposes of subparagraph (A), the adjusted basis of the taxpayer in the residence shall not be adjusted for any gain or loss on a conversion to which this subparagraph applies.
+&emsp;&emsp;In the case of property which (as a result of its destruction in whole or in part by fire, storm, or other casualty) is compulsorily or involuntarily converted, paragraph (1) shall not apply to such conversion if the taxpayer purchases (during the period specified in section 1033(a)(2)(B)) property for use as his principal residence on the site of the converted property. For purposes of subparagraph (A), the adjusted basis of the taxpayer in the residence shall not be adjusted for anygain or loss on a conversion to which this subparagraph applies.
 
 #### (7) Issuer to inform mortgagor of federally-subsidized amount and family income limits
 
@@ -924,6 +924,8 @@ An issue meets the requirements of this subsection only if it meets the requirem
 &emsp;&emsp;The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out this subsection, including regulations dealing with dispositions of partial interests in a residence.
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2610; amended Pub. L. 100–647, title I, §1013(a)(2), (3), title IV, §4005(a)(1), (b)–(d)(1), (e)–(g)(2), (6), Nov. 10, 1988, 102 Stat. 3537, 3645–3651; Pub. L. 101–239, title VII, §7104(a), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(a), (c), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(a), (c)–(e), Aug. 10, 1993, 107 Stat. 436, 437; Pub. L. 104–188, title I, §§1702(d)(2), 1703(n)(3), Aug. 20, 1996, 110 Stat. 1870, 1877; Pub. L. 105–34, title III, §312(d)(1), (3), title IX, §914, Aug. 5, 1997, 111 Stat. 839, 840, 878; Pub. L. 109–222, title II, §203(a)(1), (b)(1), May 17, 2006, 120 Stat. 348, 349; Pub. L. 109–432, div. A, title IV, §§411(a), 416(a), Dec. 20, 2006, 120 Stat. 2963, 2965; Pub. L. 110–245, title I, §103(a)–(c), June 17, 2008, 122 Stat. 1625; Pub. L. 110–289, div. C, title I, §§3021(b)(1), 3026(a), July 30, 2008, 122 Stat. 2893, 2897; Pub. L. 110–343, div. C, title VII, §709(a), Oct. 3, 2008, 122 Stat. 3925; Pub. L. 113–295, div. A, title II, §211(c)(2), Dec. 19, 2014, 128 Stat. 4033.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -1069,6 +1071,8 @@ Subsec. (g)(2)(B)(iv). Pub. L. 100–647, §4005(g)(6), inserted at end "The Sec
 
 Subsec. (m). Pub. L. 100–647, §4005(g)(1), added subsec. (m).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Pub. L. 113–295, div. A, title II, §211(d), Dec. 19, 2014, 128 Stat. 4033, provided that: "The amendments made by this section \[amending this section and sections 165, 168, 172, and 1033 of this title and provisions set out as notes under sections 56 and 897 of this title\] shall take effect as if included in the provisions of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 \[Pub. L. 110–343, div. C\] to which they relate."
@@ -1085,7 +1089,7 @@ Pub. L. 110–245, title I, §103(d), June 17, 2008, 122 Stat. 1626, provided th
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §411(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 203 \[probably means 203(b)\] of theTax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
+Pub. L. 109–432, div. A, title IV, §411(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 203 \[probably means 203(b)\] of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
 Pub. L. 109–432, div. A, title IV, §416(b), Dec. 20, 2006, 120 Stat. 2965, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
@@ -1155,7 +1159,7 @@ Subsection (g).—
 
 &emsp;"(A)
 
-In general.—Except as provided in subparagraph (B), the amendments made by subsection (g) \[amending this section and sections 25, 26, 6045, and 6654 of this title\] shall apply to financing provided, and mortgage credit certificates issued, after December 31, 1990.
+In general.—Except as provided in subparagraph (B), the amendments made by subsection (g)\[amending this section and sections 25, 26, 6045, and 6654 of this title\] shall apply to financing provided, and mortgage credit certificates issued, after December 31, 1990.
 
 &emsp;"(B)
 

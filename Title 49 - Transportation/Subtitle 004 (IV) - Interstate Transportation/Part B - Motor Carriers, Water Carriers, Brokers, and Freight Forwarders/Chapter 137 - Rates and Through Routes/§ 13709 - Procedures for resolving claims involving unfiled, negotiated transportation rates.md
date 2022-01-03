@@ -34,7 +34,7 @@ Effect of satisfaction of claims.—Satisfaction of the claim under subsection (
 
 Claims Involving Shipments Weighing 10,000
 
-Pounds or Less.—A person from whom the additional legally applicable and effectivetariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed 10,000 pounds or less, by payment of 20 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
+Pounds or Less.—A person from whom the additional legally applicable and effective tariff rate or charges are sought may elect to satisfy the claim if the shipments each weighed 10,000 pounds or less, by payment of 20 percent of the difference between the carrier's applicable and effective tariff rate and the rate originally billed and paid. In the event that a dispute arises as to the rate that was legally applicable to the shipment, such dispute shall be resolved by the Board.
 
 (c)
 
@@ -112,9 +112,11 @@ This amends 49:13709(a)(1) and (3) for clarity and consistency.
 
 This amends 49:13709(e) by setting out the effective date for 49:13709 and for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the general amendment of thissubtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
+Subchapter II of chapter 105, referred to in subsec. (a)(1), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 
 Chapter 119, referred to in subsec. (a)(3), was omitted and a new chapter 119 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, 849, effective Jan. 1, 1996.
 
@@ -131,6 +133,8 @@ Provisions similar to those in this section were contained in section 10701 of t
 <b>1996</b>—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted "December 31, 1995" for "the day before the effective date of this section".
 
 Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before such effective date".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

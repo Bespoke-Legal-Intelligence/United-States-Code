@@ -18,9 +18,13 @@ Report.—Not later than 9 months after the date of enactment of this section, t
 
 (Added Pub. L. 108–176, title V, §502(a), Dec. 12, 2003, 117 Stat. 2557.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

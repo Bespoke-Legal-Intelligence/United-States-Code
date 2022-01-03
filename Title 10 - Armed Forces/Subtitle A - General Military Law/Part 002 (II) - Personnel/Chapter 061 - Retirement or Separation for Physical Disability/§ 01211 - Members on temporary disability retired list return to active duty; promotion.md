@@ -10,7 +10,7 @@
 
 &emsp;(4) if a commissioned, warrant, or enlisted Reserve, be reappointed or reenlisted as a Reserve for service in his reserve component in the reserve grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be;
 
-&emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when hisname was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
+&emsp;(5) if a commissioned, warrant, or enlisted member of the Army National Guard of the United States or the Air National Guard of the United States when the disability was incurred, and if he cannot be reappointed or reenlisted as a Reserve for service therein, be appointed or enlisted as a Reserve for service in the Army Reserve or the Air Force Reserve, as the case may be, in a grade corresponding to the reserve grade held by him when his name was placed on the temporary disability retired list, or in the next higher reserve commissioned, warrant, or enlisted grade, as the case may be; and
 
 &emsp;(6) if a member of the Army, the Air Force, or the Space Force who has no regular or reserve grade, be reappointed or reenlisted in the Army, the Air Force, or the Space Force, as the case may be, in the temporary grade held by him when his name was placed on the temporary disability retired list, or appointed or enlisted in the next higher temporary grade.
 
@@ -174,6 +174,8 @@ In subsection (e), the words "rank" and "rating" are omitted as surplusage.
 
 The changes correct typographical errors.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §924(b)(24)(A), substituted ", the Air Force, or the Space Force" for "or the Air Force" in introductory provisions.
@@ -187,6 +189,8 @@ Subsec. (a)(6). Pub. L. 116–283, §924(b)(24)(B), substituted "the Air Force, 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–513 substituted "active-duty list" for "active list of his regular component".
 
 <b>1962</b>—Subsec. (d). Pub. L. 87–651 substituted "subsection (b)(1) or (2)" for "subsection (b)(1), (2), or (3)" in cl. (1), and "subsection (b)(4)" for "subsection (b)(5)" in cl. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

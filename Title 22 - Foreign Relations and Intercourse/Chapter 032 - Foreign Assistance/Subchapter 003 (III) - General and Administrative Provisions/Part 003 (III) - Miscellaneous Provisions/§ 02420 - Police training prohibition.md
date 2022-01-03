@@ -26,7 +26,7 @@ Subsection (a) of this section shall not apply—
 
 #### (c) Country with longstanding democratic tradition, etc.
 
-Subsection (a) shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern ofgross violations of internationally recognized human rights.
+Subsection (a) shall not apply with respect to a country which has a longstanding democratic tradition, does not have standing armed forces, and does not engage in a consistent pattern of gross violations of internationally recognized human rights.
 
 #### (d) Assistance to Honduras or El Salvador
 

@@ -20,6 +20,8 @@ Feb. 26, 1946, ch. 36, 60 Stat. 31.
 
 The word "Laws" is substituted for the words "Statutory provisions" for clarity. The words "armed forces" are substituted for the words "military services of the United States" for uniformity. The words "of the United States" at the end of the section are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 8743 to 8745 were renumbered sections 9273 to 9275 of this title, respectively.
@@ -27,6 +29,8 @@ Prior sections 8743 to 8745 were renumbered sections 9273 to 9275 of this title,
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7473 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

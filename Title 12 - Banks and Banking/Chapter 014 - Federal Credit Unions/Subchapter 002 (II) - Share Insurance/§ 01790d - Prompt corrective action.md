@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) have more than $10,000,000 in total assets;
 
-&emsp;&emsp;&emsp;(iv) to impose appropriate restrictions and requirements on new credit unionsthat do not make sufficient progress toward becoming adequately capitalized; and
+&emsp;&emsp;&emsp;(iv) to impose appropriate restrictions and requirements on new credit unions that do not make sufficient progress toward becoming adequately capitalized; and
 
 &emsp;&emsp;&emsp;(v) to prevent evasion of the purpose of this section.
 
@@ -122,7 +122,7 @@
 
 #### (C) Transition period required
 
-&emsp;&emsp;If the Board increases any net worth ratio under this paragraph, the Board shall give insured credit unions a reasonable period of time to meet the increased ratio.
+&emsp;&emsp;If the Board increases any net worth ratio under this paragraph, the Board shall giveinsured credit unions a reasonable period of time to meet the increased ratio.
 
 #### (d) Risk-based net worth requirement for complex credit unions
 
@@ -158,7 +158,7 @@
 
 #### (1) In general
 
-&emsp;Each insured credit union that is undercapitalized shall submit an acceptable networth restoration plan to the Board within the time allowed under this subsection.
+&emsp;Each insured credit union that is undercapitalized shall submit an acceptable net worth restoration plan to the Board within the time allowed under this subsection.
 
 #### (2) Assistance to small credit unions
 
@@ -244,7 +244,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;&emsp;(i) the Board determines that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the insured credit union has been in substantial compliance with an approved net worth restoration plan that requiresconsistent improvement in the net worth of the credit union since the date of the approval of the plan; and
+&emsp;&emsp;&emsp;&emsp;(I) the insured credit union has been in substantial compliance with an approved net worth restoration plan that requires consistent improvement in the net worth of the credit union since the date of the approval of the plan; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the insured credit union has positive net income or has an upward trend in earnings that the Board projects as sustainable; and
 
@@ -314,7 +314,7 @@ With respect to the exercise of authority by the Board under regulations compara
 
 &emsp;&emsp;&emsp;(ii) for each loss to the Fund that is not a material loss, determine—
 
-&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Board or the State official having jurisdiction over a State credit union for appointing the Board as the liquidating agent for any Federal or State credit union; and
+&emsp;&emsp;&emsp;&emsp;(I) the grounds identified by the Board or the State official having jurisdictionover a State credit union for appointing the Board as the liquidating agent for any Federal or State credit union; and
 
 &emsp;&emsp;&emsp;&emsp;(II) whether any unusual circumstances exist that might warrant an in-depth review of the loss; and
 
@@ -406,7 +406,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;The term "net worth"—
 
-&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined;
+&emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balanceof the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined;
 
 &emsp;&emsp;(B) with respect to any insured credit union, includes, at the Board's discretion and subject to rules and regulations established by the Board, assistance provided under section 1788 of this title to facilitate a least-cost resolution consistent with the best interests of the credit union system; and
 
@@ -508,7 +508,7 @@ Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided th
 
 Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: "When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
-&emsp;"(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
+&emsp;"(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C.1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
 
 &emsp;"(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], and the reasons for those differences."
 

@@ -6,7 +6,7 @@ It is declared that the business of transmitting and selling electric energy for
 
 #### (b) Use or sale of electric energy in interstate commerce
 
-(1) The provisions of this subchapter shall apply to the transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in interstate commerce, but except as provided in paragraph (2) shall not apply to any other sale of electric energy or deprive a State or State commission of its lawful authority now exercised over the exportation of hydroelectric energy which is transmitted across a State line. The Commission shall have jurisdiction over all facilities for such transmission or sale of electric energy, but shall not have jurisdiction, except as specifically provided in this subchapter and subchapter III of this chapter, over facilities used for the generation of electric energy or over facilities used in local distribution or only for the transmission of electric energy in intrastate commerce, or over facilities for the transmission of electric energy consumed wholly by the transmitter.
+(1) The provisions of this subchapter shall apply to the transmission of electric energy in interstate commerce and to the sale of electric energy at wholesale in interstate commerce, but except as provided in paragraph (2) shall not apply to any other sale of electric energy or deprive a State or State commission of its lawful authority now exercised over the exportation of hydroelectric energy which is transmittedacross a State line. The Commission shall have jurisdiction over all facilities for such transmission or sale of electric energy, but shall not have jurisdiction, except as specifically provided in this subchapter and subchapter III of this chapter, over facilities used for the generation of electric energy or over facilities used in local distribution or only for the transmission of electric energy in intrastate commerce, or over facilities for the transmission of electric energy consumed wholly by the transmitter.
 
 (2) Notwithstanding subsection (f), the provisions of sections 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, and 824v of this title shall apply to the entities described in such provisions, and such entities shall be subject to the jurisdiction of the Commission for purposes of carrying out such provisions and for purposes of applying the enforcement authorities of this chapter with respect to such provisions. Compliance with any order or rule of the Commission under the provisions of section 824b(a)(2), 824e(e), 824i, 824j, 824j–1, 824k, 824o, 824o–1, 824p, 824q, 824r, 824s, 824t, 824u, or 824v of this title, shall not make an electric utility or other entity subject to the jurisdiction of the Commission for any purposes other than the purposes specified in the preceding sentence.
 
@@ -52,6 +52,8 @@ No provision in this subchapter shall apply to, or be deemed to include, the Uni
 
 (June 10, 1920, ch. 285, pt. II, §201, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 847; amended Pub. L. 95–617, title II, §204(b), Nov. 9, 1978, 92 Stat. 3140; Pub. L. 102–486, title VII, §714, Oct. 24, 1992, 106 Stat. 2911; Pub. L. 109–58, title XII, §§1277(b)(1), 1291(c), 1295(a), Aug. 8, 2005, 119 Stat. 978, 985; Pub. L. 114–94, div. F, §61003(b), Dec. 4, 2015, 129 Stat. 1778.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Rural Electrification Act of 1936, referred to in subsec. (f), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 901 of Title 7 and Tables.
@@ -77,6 +79,8 @@ Subsec. (g)(5). Pub. L. 109–58, §1277(b)(1), substituted "2005" for "1935".
 <b>1978</b>—Subsec. (b). Pub. L. 95–617, §204(b)(1), designated existing provisions as par. (1), inserted "except as provided in paragraph (2)" after "in interstate commerce, but", and added par. (2).
 
 Subsec. (e). Pub. L. 95–617, §204(b)(2), inserted "(other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title)" after "under this subchapter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

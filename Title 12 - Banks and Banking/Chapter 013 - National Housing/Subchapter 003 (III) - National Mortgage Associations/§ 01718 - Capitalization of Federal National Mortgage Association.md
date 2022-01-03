@@ -34,7 +34,7 @@ Subsecs. (b), (c). Pub. L. 102–550, §1381(d)(2), added subsecs. (b) and (c) a
 
 Subsecs. (d), (f). Pub. L. 102–550, §1381(d)(3), (4), redesignated subsec. (f) as (d), struck out "to make payments to the corporation of the nonrefundable capital contributions referred to in subsection (b) of this section, to receive stock of the corporation evidencing such capital contributions," after "shall be authorized", and substituted "shares of common stock of the corporation" for "additional shares of such stock,".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242 inserted after first sentence "The corporation may eliminate such rightsof cumulative voting by a resolution adopted by its board of directors and approved by the holders of a majority of the shares of common stock voting in person or by proxy at the annual meeting, or other special meeting, at which such resolution is considered."
+<b>1988</b>—Subsec. (a). Pub. L. 100–242 inserted after first sentence "The corporation may eliminate such rights of cumulative voting by a resolution adopted by its board of directors and approved by the holders of a majority of the shares of common stock voting in person or by proxy at the annual meeting, or other special meeting, at which such resolution is considered."
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–320, §707(a)(1), inserted provision that the corporation may have preferred stock on such terms and conditions as the board of directors shall prescribe.
 

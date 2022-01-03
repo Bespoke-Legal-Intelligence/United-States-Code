@@ -12,7 +12,7 @@ In computing taxable gifts for preceding calendar periods for purposes of comput
 
 #### (b) Exclusions from gifts for preceding calendar periods
 
-In the case of gifts made to any person by the donor during preceding calendar periods, the amount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
+In the case of gifts made to any person by the donor during preceding calendar periods, theamount excluded, if any, by the provisions of gift tax laws applicable to the periods in which the gifts were made shall not, for purposes of subsection (a), be included in the total amount of the gifts made during such preceding calendar periods.
 
 #### (c) Valuation of gifts
 
@@ -29,6 +29,8 @@ If the time has expired under section 6501 within which a tax may be assessed un
 The term "net gifts" as used in the corresponding provisions of prior laws shall be read as "taxable gifts" for purposes of this chapter.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 405; Pub. L. 91–614, title I, §102(a)(4)(A), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 94–455, title XX, §2001(c)(2)(A), Oct. 4, 1976, 90 Stat. 1853; Pub. L. 97–34, title IV, §442(a)(4)(A)–(D), Aug. 13, 1981, 95 Stat. 321; Pub. L. 105–34, title V, §506(d), Aug. 5, 1997, 111 Stat. 856; Pub. L. 105–206, title VI, §6007(e)(2)(B)\[(C)\], July 22, 1998, 112 Stat. 810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -60,6 +62,8 @@ Subsec. (c). Pub. L. 91–614 inserted reference to calendar quarters in heading
 
 Subsec. (d). Pub. L. 91–614 struck out "For years before the calendar year 1955" from explanation of term "net gifts" as used in corresponding provisions of prior laws.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 6024 of Pub. L. 105–206, set out as a note under section 1 of this title.
@@ -74,5 +78,5 @@ Amendment by Pub. L. 97–34 applicable with respect to gifts made after Dec. 31
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) of Pub. L. 91–614, set out as a note under section 2501 of this title.
+Amendment by Pub. L. 91–614 applicable with respect to gifts made after Dec. 31, 1970, see section 102(e) ofPub. L. 91–614, set out as a note under section 2501 of this title.
 

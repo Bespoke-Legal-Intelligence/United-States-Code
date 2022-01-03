@@ -24,7 +24,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (B) Real or personal property
 
-&emsp;&emsp;Damages for injury to, or economic losses resulting from destruction of, real or personal property, which shall be recoverableby a claimant who owns or leases that property.
+&emsp;&emsp;Damages for injury to, or economic losses resulting from destruction of, real or personal property, which shall be recoverable by a claimant who owns or leases that property.
 
 #### (C) Subsistence use
 
@@ -66,7 +66,7 @@ This subchapter does not apply to any discharge—
 
 &emsp;&emsp;&emsp;(i) in accordance with section 2713 of this title, shall pay removal costs and damages to any claimant; and
 
-&emsp;&emsp;&emsp;(ii) shall be entitled by subrogation to all rights of the United States Government and the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
+&emsp;&emsp;&emsp;(ii) shall be entitled by subrogation to all rights of the United States Governmentand the claimant to recover removal costs or damages from the third party or the Fund paid under this subsection.
 
 #### (2) Limitation applied
 

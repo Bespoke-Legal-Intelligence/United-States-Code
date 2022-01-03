@@ -170,7 +170,7 @@ Regulations for Standards of Performance in Department of Veterans Affairs Labor
 
 "(b)
 
-Report.—Within the 180-day period beginning on the date on which the Secretary of Veterans Affairs prescribes regulations required by subsection (a), the Secretary shall submit to the appropriate committees of the Congress a report on those regulations.
+Report.—Within the 180-day period beginning on the date on which the Secretary of Veterans Affairsprescribes regulations required by subsection (a), the Secretary shall submit to the appropriate committees of the Congress a report on those regulations.
 
 "(c)
 

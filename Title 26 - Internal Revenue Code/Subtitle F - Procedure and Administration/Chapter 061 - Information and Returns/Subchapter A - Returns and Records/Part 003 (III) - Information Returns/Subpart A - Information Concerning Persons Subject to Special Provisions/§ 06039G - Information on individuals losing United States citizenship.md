@@ -50,6 +50,8 @@ Notwithstanding any other provision of law—
 
 (Added Pub. L. 104–191, title V, §512(a), Aug. 21, 1996, 110 Stat. 2100, §6039F; renumbered §6039G, Pub. L. 105–34, title XVI, §1602(h)(1), Aug. 5, 1997, 111 Stat. 1096; amended Pub. L. 108–357, title VIII, §804(e), Oct. 22, 2004, 118 Stat. 1572; Pub. L. 110–245, title III, §301(e), June 17, 2008, 122 Stat. 1646.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 358 of the Immigration and Nationality Act, referred to in subsec. (d)(2), is classified to section 1501 of Title 8, Aliens and Nationality.
@@ -80,7 +82,7 @@ Subsec. (c). Pub. L. 108–357, §804(e)(4), redesignated subsec. (d) as (c) and
 
 Subsec. (d). Pub. L. 108–357, §804(e)(4), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Pub. L. 108–357, §804(e)(3), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "Any individual failing to provide a statement required under subsection (a) shall be subject to a penalty for each year (of the 10-year period beginning on the date of loss of United States citizenship) during any portion of which such failure continues in an amount equal to the greater of—
+Pub. L. 108–357, §804(e)(3), reenacted heading without change and amended text of subsec. (d) generally. Priorto amendment, text read as follows: "Any individual failing to provide a statement required under subsection (a) shall be subject to a penalty for each year (of the 10-year period beginning on the date of loss of United States citizenship) during any portion of which such failure continues in an amount equal to the greater of—
 
 &emsp;"(1) 5 percent of the tax required to be paid under section 877 for the taxable year ending during such year, or
 
@@ -95,6 +97,8 @@ Subsec. (f). Pub. L. 108–357, §804(e)(4), struck out heading and text of subs
 Subsec. (g). Pub. L. 108–357, §804(e)(4), struck out heading and text of subsec. (g). Text read as follows: "The Secretary may by regulations exempt any class of individuals from the requirements of this section if he determines that applying this section to such individuals is not necessary to carry out the purposes of this section."
 
 <b>1997</b>—Pub. L. 105–34 renumbered section 6039F as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

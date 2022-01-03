@@ -20,9 +20,11 @@ Congress finds that—
 
 #### (b) Purpose
 
-The purpose of this subchapter is to establish the Adams National Historical Park in the City of Quincy, in the Commonwealth of Massachusetts, to preserve, maintain and interpret the home, property, birthplaces, and burial site of John Adams and his wife Abigail, John Quincy Adams, and subsequent generations of the Adams family associated with the Adams property in Quincy, Massachusetts, for the benefit, education and inspiration of present and future generations of Americans.
+The purpose of this subchapter is to establish the Adams National Historical Park in the City of Quincy, in the Commonwealth of Massachusetts, to preserve, maintain and interpret the home, property, birthplaces, and burial site of John Adams and his wife Abigail, John QuincyAdams, and subsequent generations of the Adams family associated with the Adams property in Quincy, Massachusetts, for the benefit, education and inspiration of present and future generations of Americans.
 
 (Pub. L. 105–342, §2, Nov. 2, 1998, 112 Stat. 3200.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ Public Law 96–435, referred to in subsec. (a)(5), is Pub. L. 96–435, Oct. 10
 #### Codification
 
 In subsec. (a)(1), "section 1866(a) of title 18 and section 320102 of title 54" substituted for "section 2 of the Historic Sites Act of August 21, 1935" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

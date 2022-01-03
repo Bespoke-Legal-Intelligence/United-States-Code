@@ -16,9 +16,13 @@ Following completion of the plan, the President and the Government of Palau shal
 
 (Pub. L. 101–219, title I, §103, Dec. 12, 1989, 103 Stat. 1870.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly set out as a note under section 1681 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

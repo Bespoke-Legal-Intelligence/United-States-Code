@@ -74,7 +74,7 @@ Subsec. (c). Pub. L. 101–647, §1214(3), inserted "mandatory minimum" after "I
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–690, §§6457, 6458(a), inserted ", possessing with intent to distribute," after "distributing" and ", or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility," after "university".
 
-Subsec. (b). Pub. L. 100–690, §§6452(b)(1), 6457, 6458(a), inserted ", possessing with intent to distribute," after "distributing", and ", or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility," after "university", substituted "a prior conviction" for "a prior conviction or convictions", and inserted at end "Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title."
+Subsec. (b). Pub. L. 100–690, §§6452(b)(1), 6457, 6458(a), inserted ", possessing with intent to distribute," after"distributing", and ", or within 100 feet of a playground, public or private youth center, public swimming pool, or video arcade facility," after "university", substituted "a prior conviction" for "a prior conviction or convictions", and inserted at end "Penalties for third and subsequent convictions shall be governed by section 841(b)(1)(A) of this title."
 
 Subsec. (d). Pub. L. 100–690, §6458(b), added subsec. (d).
 

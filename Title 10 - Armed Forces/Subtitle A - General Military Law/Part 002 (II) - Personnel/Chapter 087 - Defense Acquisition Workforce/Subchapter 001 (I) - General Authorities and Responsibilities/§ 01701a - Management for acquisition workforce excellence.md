@@ -10,7 +10,7 @@ Purpose.—The purpose of this chapter is to require the Department of Defense t
 
 &emsp;(3) which serves as a model for performance management of employees of the Department; and
 
-&emsp;(4) which is managed in a manner that complements and reinforces the management of the defense acquisition system pursuant to chapter 149 of this title.
+&emsp;(4) which is managed in a manner that complements and reinforces the management of the defense acquisition system pursuant to chapter 205 of this title.
 
 (b)
 
@@ -18,7 +18,7 @@ Performance Management.—In order to achieve the purpose set forth in subsectio
 
 &emsp;(1) use the full authorities provided in subsections (a) through (d) of section 9902 of title 5, including flexibilities related to performance management and hiring and to training of managers;
 
-&emsp;(2) require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization's mission and the success of the defense acquisition system (as defined in section 2545 of this title);
+&emsp;(2) require managers to develop performance plans for individual members of the acquisition workforce in order to give members an understanding of how their performance contributes to their organization's mission and the success of the defense acquisition system (as defined in section 2545 <sup>1</sup> of this title);
 
 &emsp;(3) to the extent appropriate, use the lessons learned from the acquisition demonstration project carried out under section 1762 of this title related to contribution-based compensation and appraisal, and how those lessons may be applied within the General Schedule system;
 
@@ -58,15 +58,11 @@ Regulations.—Any rules or regulations prescribed pursuant to this section shal
 
 (Added Pub. L. 111–383, div. A, title VIII, §871(a), Jan. 7, 2011, 124 Stat. 4299; amended Pub. L. 116–92, div. A, title VIII, §861(a)(1)–(3), (e)(1), Dec. 20, 2019, 133 Stat. 1515, 1517; Pub. L. 116–283, div. A, title X, §1081(a)(31), title XVIII, §§1808(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3872, 4160, 4294.)
 
-#### Amendment of Section
+#### References in Text
 
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(d)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4160, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this section is amended as follows:</i>
+Section 2545 of this title, referred to in subsec. (b)(2), was transferred to sections 3001 and 3101 of this title, and amended, by Pub. L. 116–283, div. A, title XVIII, §§1806(a)(2)–(4), 1808(a)(2), Jan. 1, 2021, 134 Stat. 4152, 4159. The term "defense acquisition system" is defined in section 3001.
 
-<i>(1) by striking "chapter 149" and inserting "chapter 205"; and</i>
-
-<i>(2) for any other reference in the text to a source section that is redesignated by title XVIII of Pub. L. 116–283, by striking such reference and inserting a reference to the appropriate section as so redesignated.</i>
-
-<i>See 2021 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -89,6 +85,8 @@ Pub. L. 116–92, §861(a)(2)(B), inserted "and consequences" after "warnings".
 Subsec. (b)(7) to (10). Pub. L. 116–92, §861(a)(3)(A), redesignated pars. (6) to (9) as (7) to (10), respectively.
 
 Subsecs. (c) to (e). Pub. L. 116–92, §861(a)(1), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
@@ -127,4 +125,26 @@ Purpose of Award.—The award established under subsection (a) shall recognize o
 &emsp;"(6) innovative contractor incentive practices; and
 
 &emsp;"(7) other innovative implementations of acquisition flexibilities."
+
+#### Awards for Department of Defense Personnel for Excellence in the Acquisition of Products and Services
+
+Pub. L. 111–23, title III, §301, May 22, 2009, 123 Stat. 1730, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[May 22, 2009\], the Secretary of Defense shall commence carrying out a program to recognize excellent performance by individuals and teams of members of the Armed Forces and civilian personnel of the Department of Defense in the acquisition of products and services for the Department of Defense.
+
+"(b)
+
+Elements.—The program required by subsection (a) shall include the following:
+
+&emsp;"(1) Procedures for the nomination by the personnel of the military departments and the Defense Agencies of individuals and teams of members of the Armed Forces and civilian personnel of the Department of Defense for eligibility for recognition under the program.
+
+&emsp;"(2) Procedures for the evaluation of nominations for recognition under the program by one or more panels of individuals from the Government, academia, and the private sector who have such expertise, and are appointed in such manner, as the Secretary shall establish for purposes of the program.
+
+"(c)
+
+Award of Cash Bonuses.—As part of the program required by subsection (a), the Secretary may award to any individual recognized pursuant to the program a cash bonus authorized by any other provision of law to the extent that the performance of such individual so recognized warrants the award of such bonus under such provision of law."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

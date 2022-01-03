@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(7)(A)(ii), Oct. 4, 1976, 90 Stat. 1794, redesignated item 154 as 153 and struck out former item 153 "Determination of marital status".

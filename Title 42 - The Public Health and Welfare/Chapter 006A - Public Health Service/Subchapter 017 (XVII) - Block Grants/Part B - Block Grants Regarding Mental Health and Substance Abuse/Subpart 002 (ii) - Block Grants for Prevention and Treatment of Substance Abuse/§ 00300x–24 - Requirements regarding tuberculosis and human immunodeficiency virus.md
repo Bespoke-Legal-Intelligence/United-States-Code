@@ -46,7 +46,7 @@
 
 &emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this title for fiscal year 1991 in compliance with section 300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
 
-&emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including a negative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
+&emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including anegative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
 
 #### (5) Requirement regarding rural areas
 
@@ -104,6 +104,8 @@ Section 300x–31 of this title applies to this section (and to each other provi
 
 (July 1, 1944, ch. 373, title XIX, §1924, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 391; amended Pub. L. 114–255, div. B, title VIII, §8002(c), Dec. 13, 2016, 130 Stat. 1229.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 300x–1a of this title, referred to in subsec. (b)(4)(A)(ii), was repealed by Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 378.
@@ -117,10 +119,6 @@ The Social Security Act, referred to in subsec. (c)(2)(A), is act Aug. 14, 1935,
 A prior section 1924 of act July 1, 1944, was classified to section 300x–10 of this title prior to repeal by Pub. L. 102–321.
 
 Another prior section 1924 of act July 1, 1944, was classified to section 300y–3 of this title prior to repeal by Pub. L. 99–280.
-
-#### Change of Name
-
-Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
 #### Amendments
 
@@ -137,6 +135,12 @@ Subsec. (b)(3). Pub. L. 114–255, §8002(c)(2)(C), substituted "use disorders" 
 Subsec. (b)(6)(B). Pub. L. 114–255, §8002(c)(2)(D), substituted "substance use disorders" for "substance abuse".
 
 Subsecs. (d), (e). Pub. L. 114–255, §8002(c)(3), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: "With respect to services provided for by a State for purposes of compliance with this section, a funding agreement for a grant under section 300x–21 of this title is that the State will maintain expenditures of non-Federal amounts for such services at a level that is not less than average level of such expenditures maintained by the State for 2-year period preceding the first fiscal year for which the State receives such a grant."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

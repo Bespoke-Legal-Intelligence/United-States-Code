@@ -10,7 +10,7 @@ Nomination by Person or Local Government.—Subject to the requirements of secti
 
 (c)
 
-Nomination by Federal Agency.—Subject to the requirements of section 302107 of thistitle, the regulations promulgated under section 302103 of this title, and appeal under subsection (d) of this section, the Secretary may accept a nomination directly by a Federal agency for inclusion of property on the National Register only if—
+Nomination by Federal Agency.—Subject to the requirements of section 302107 of this title, the regulations promulgated under section 302103 of this title, and appeal under subsection (d) of this section, the Secretary may accept a nomination directly by a Federal agency for inclusion of property on the National Register only if—
 
 &emsp;(1) completed nominations are sent to the State Historic Preservation Officer for review and comment regarding the adequacy of the nomination, the significance of the property and its eligibility for the National Register;
 

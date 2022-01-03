@@ -12,6 +12,8 @@ Grants under this section may only be used for the following activities:
 
 (Pub. L. 101–625, title VIII, §857, Nov. 28, 1990, 104 Stat. 4379; Pub. L. 102–550, title VI, §606(j)(11)(B), Oct. 28, 1992, 106 Stat. 3811.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pars. (1), (2). Pub. L. 102–550 substituted "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases".

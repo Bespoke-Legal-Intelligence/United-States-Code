@@ -310,7 +310,7 @@ The Secretary shall take such action as may be necessary to secure at reasonable
 
 &emsp;&emsp;&emsp;(ii) externships or site visits with business and industry;
 
-&emsp;&emsp;&emsp;(iii) the integration of coherent and rigorous academic content standards and career and technical education curricula, including through opportunities for appropriate academic and career and technical education teachers to jointly develop andimplement curricula and pedagogical strategies;
+&emsp;&emsp;&emsp;(iii) the integration of coherent and rigorous academic content standards and career and technical education curricula, including through opportunities for appropriate academic and career and technical education teachers to jointly develop and implement curricula and pedagogical strategies;
 
 &emsp;&emsp;&emsp;(iv) mentoring by experienced teachers;
 
@@ -361,6 +361,8 @@ There are authorized to be appropriated to carry out this section—
 &emsp;(6) $8,201,832 for fiscal year 2024.
 
 (Pub. L. 88–210, title I, §114, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 702; amended Pub. L. 113–76, div. H, title III, §307(d), Jan. 17, 2014, 128 Stat. 399; Pub. L. 114–95, title IX, §9215(n)(4), Dec. 10, 2015, 129 Stat. 2169; Pub. L. 115–224, title I, §113, July 31, 2018, 132 Stat. 1588.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -423,6 +425,8 @@ Subsec. (f). Pub. L. 115–224, §113(5), (7), redesignated subsec. (e) as (f) a
 <b>2015</b>—Subsec. (d)(4)(A)(iii)(I)(aa). Pub. L. 114–95 substituted "integrating those programs with challenging State academic standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;" for "integrating those programs with academic content standards and student academic achievement standards, as adopted by States under section 1111(b)(1) of the Elementary and Secondary Education Act of 1965;".
 
 <b>2014</b>—Subsec. (b)(1). Pub. L. 113–76 substituted "Office of Career, Technical, and Adult Education" for "Office of Vocational and Adult Education".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-This section was included to make clear that the provisions of this chapter are equally applicable in Alaska,the Canal Zone and the Virgin Islands in view of definitive section 451 of this title.
+This section was included to make clear that the provisions of this chapter are equally applicable in Alaska, the Canal Zone and the Virgin Islands in view of definitive section 451 of this title.
 
 #### <b>Editorial Notes</b>
 

@@ -16,11 +16,15 @@ If the Secretary determines that any property seized is liable to perish, he sha
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 786; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 116–25, title I, §1404(a), July 1, 2019, 133 Stat. 997.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–25 struck out "or become greatly reduced in price or value by keeping, or that such property cannot be kept without great expense" after "to perish" in introductory provisions.
 
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

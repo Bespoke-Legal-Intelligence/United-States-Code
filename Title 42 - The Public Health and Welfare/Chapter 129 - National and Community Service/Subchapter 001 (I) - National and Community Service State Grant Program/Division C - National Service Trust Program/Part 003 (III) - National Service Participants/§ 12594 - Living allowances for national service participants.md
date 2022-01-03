@@ -50,7 +50,7 @@ A professional corps program described in section 12572(c)(1)(D) of this title t
 
 #### (2) Option
 
-&emsp;A State or other recipient of assistance under section 12571 of this title may elect to provide from its own funds or make available a health care policy for participants that does not meet all of the standards established by the Corporation if the fair market value of such policy is equal to or greater than the fair market value of a plan that meets the minimum standards established by the Corporation, and is consistent with other applicable laws.
+&emsp;A State or other recipient of assistance under section 12571 of this title may elect to provide from its own funds or make available a health care policy for participants that does not meet all of the standards established by the Corporation if the fair market value ofsuch policy is equal to or greater than the fair market value of a plan that meets the minimum standards established by the Corporation, and is consistent with other applicable laws.
 
 #### (e) Child care
 
@@ -64,13 +64,15 @@ A professional corps program described in section 12572(c)(1)(D) of this title t
 
 #### (2) Guidelines
 
-&emsp;The Corporation shall establish guidelines regarding the circumstances under which childcare shall be made available under this subsection and the value of any allowance to be provided.
+&emsp;The Corporation shall establish guidelines regarding the circumstances under which child care shall be made available under this subsection and the value of any allowance to be provided.
 
 #### (f) Individualized support services
 
 A State or other recipient of assistance under section 12571 of this title shall provide reasonable accommodation, including auxiliary aids and services (as defined in section 12102(1) <sup>1</sup> of this title), based on the individualized need of a participant who is a qualified individual with a disability (as defined in section 12111(8) of this title).
 
 (Pub. L. 101–610, title I, §140, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 811; amended Pub. L. 111–13, title I, §1315, Apr. 21, 2009, 123 Stat. 1511.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -103,6 +105,8 @@ Subsec. (d)(1). Pub. L. 111–13, §1315(4)(A), substituted "shall provide or ma
 Subsec. (d)(2). Pub. L. 111–13, §1315(4)(B), substituted "provide from its own funds or make available" for "provide from its own funds".
 
 Subsecs. (g), (h). Pub. L. 111–13, §1315(5), struck out subsecs. (g) and (h) which allowed waiver in whole or in part of limitation on Federal share and limited number of terms of service for federally subsidized living allowance, respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -12,7 +12,7 @@ In this section, the term "covered employee" means—
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), funds appropriated to the Architect of the Capitol under the heading "Capitol Power Plant" under the heading "ARCHITECT OF THE CAPITOL" in any fiscal year are available to construct, operate, and maintain on a reimbursable basis battery recharging stations in parking areas under the jurisdiction of the Library of Congress on Library of Congress buildings and grounds for use by privately owned vehicles used by covered employees.
+&emsp;Subject to paragraph (3), funds appropriated to the Architect of the Capitol under the heading "Capitol Power Plant" under the heading "ARCHITECT OF THE CAPITOL" in any fiscal year are available to construct, operate, and maintain on a reimbursable basis battery recharging stations in parking areas under the jurisdiction of the Library of Congress on Library of Congress buildings and grounds foruse by privately owned vehicles used by covered employees.
 
 #### (2) Vendors authorized
 

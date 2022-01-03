@@ -14,7 +14,7 @@ The exercise or release of a general power of appointment created after October 
 
 #### (c) Definition of general power of appointment
 
-For purposes of this section, the term "general power of appointment" means a power which isexercisable in favor of the individual possessing the power (hereafter in this subsection referred to as the "possessor"), his estate, his creditors, or the creditors of his estate; except that—
+For purposes of this section, the term "general power of appointment" means a power which is exercisable in favor of the individual possessing the power (hereafter in this subsection referred to as the "possessor"), his estate, his creditors, or the creditors of his estate; except that—
 
 &emsp;(1) A power to consume, invade, or appropriate property for the benefit of the possessor which is limited by an ascertainable standard relating to the health, education, support, or maintenance of the possessor shall not be deemed a general power of appointment.
 
@@ -48,9 +48,13 @@ For purposes of this section a power of appointment created by a will executed o
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 407; Pub. L. 94–455, title XX, §2009(b)(4)(F), Oct. 4, 1976, 90 Stat. 1894.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "A disclaimer or renunciation of such a power of appointment shall not be deemed a release of such power."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

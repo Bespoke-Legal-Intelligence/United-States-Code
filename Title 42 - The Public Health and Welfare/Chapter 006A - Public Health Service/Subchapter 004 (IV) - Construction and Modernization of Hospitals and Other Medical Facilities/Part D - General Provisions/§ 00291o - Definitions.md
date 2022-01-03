@@ -12,7 +12,7 @@ For the purposes of this subchapter—
 
 (4) Notwithstanding the provisions of paragraphs (2) and (3) of this subsection, the Federal share shall, at the option of the State agency, be equal to the per centum provided under such paragraphs plus an incentive per centum (which when combined with the per centum provided under such paragraphs shall not exceed 90 per centum) specified by the State agency in the case of (A) projects that will provide services primarily for persons in an area determined by the Secretary to be a rural or urban poverty area, and (B) projects that offer potential for reducing health care costs through shared services among health care facilities, through interfacility cooperation, or through the construction or modernization of free-standing outpatient facilities.
 
-(c) The term "hospital" includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses' home facilities, extended care facilities, facilities related to programs forhome health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professions personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
+(c) The term "hospital" includes general, tuberculosis, and other types of hospitals, and related facilities, such as laboratories, outpatient departments, nurses' home facilities, extended care facilities, facilities related to programs for home health services, self-care units, and central service facilities, operated in connection with hospitals, and also includes education or training facilities for health professions personnel operated as an integral part of a hospital, but does not include any hospital furnishing primarily domiciliary care.
 
 (d) The term "public health center" means a publicly owned facility for the provision of public health services, including related publicly owned facilities such as laboratories, clinics, and administrative offices operated in connection with such a facility.
 
@@ -38,7 +38,7 @@ For the purposes of this subchapter—
 
 &emsp;(4) either (A) the facility is operated in connection with a hospital, or (B) all medical and related health services are prescribed by, or are under the general direction of, persons licensed to practice medicine or surgery in the State.
 
-(h) The term "facility for long-term care" means a facility (including an extended care facility) providing in-patient care for convalescent or chronic disease patients who require skilled nursing care and related medical services—
+(h) The term "facility for long-term care" means a facility (including an extended care facility) providing in-patient care for convalescent or chronic disease patients who requireskilled nursing care and related medical services—
 
 &emsp;(1) which is a hospital (other than a hospital primarily for the care and treatment of mentally ill or tuberculosis patients) or is operated in connection with a hospital, or
 
@@ -53,6 +53,8 @@ For the purposes of this subchapter—
 (l) The term "title", when used with reference to a site for a project, means a fee simple, or such other estate or interest (including a leasehold on which the rental does not exceed 4 per centum of the value of the land) as the Surgeon General finds sufficient to assure for a period of not less than fifty years' undisturbed use and possession for the purposes of construction and operation of the project.
 
 (July 1, 1944, ch. 373, title VI, §645, formerly §625, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 460; amended Pub. L. 88–581, §3(b), Sept. 4, 1964, 78 Stat. 919; renumbered §645 and amended Pub. L. 91–296, title I, §§113, 114(a), 116(f), 117, 118, 119(d), title II, §201, June 30, 1970, 84 Stat. 340, 341, 342, 343, 344.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -76,6 +78,12 @@ Subsec. (i). Pub. L. 91–296, §118, inserted reference to equipment of any bui
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–581 substituted "nurses' home facilities" for "nurses' home and training facilities".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1970 Amendment
 
 Pub. L. 91–296, title I, §113, June 30, 1970, 84 Stat. 340, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
@@ -88,15 +96,17 @@ Pub. L. 91–296, title I, §117, June 30, 1970, 84 Stat. 342, provided that the
 
 Pub. L. 91–296, title I, §118, June 30, 1970, 84 Stat. 342, provided that the amendment made by that section is effective with respect to projects approved under this subchapter after June 30, 1970.
 
-Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guarantees and loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
+Amendment by section 119(d) of Pub. L. 91–296 applicable with respect to allotments and grants therefrom under part A of this subchapter for fiscal years ending after June 30, 1970, and with respect to loan guaranteesand loans under part B of this subchapter made after June 30, 1970, see section 119(e) of Pub. L. 91–296, set out as a note under section 291b of this title.
 
 #### Effective Date of 1964 Amendment
 
 Amendment by Pub. L. 88–581 effective with respect to applications for grants from appropriations for fiscal years beginning after June 30, 1965, see section 3(b) of Pub. L. 88–581, set out as a note under section 291c of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Termination of Trust Territory of the Pacific Islands
 

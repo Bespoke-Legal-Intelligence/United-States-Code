@@ -8,7 +8,7 @@
 
 #### (2) Exception
 
-&emsp;The requirement to impose sanctions under paragraph (1) shall not include the authorityto impose sanctions on the importation of goods.
+&emsp;The requirement to impose sanctions under paragraph (1) shall not include the authority to impose sanctions on the importation of goods.
 
 #### (b) List of persons who engage in diversion
 

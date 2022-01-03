@@ -40,7 +40,7 @@ Designation of Transferee.—An individual transferring an entitlement to basic 
 
 (f)
 
-Time for Transfer; Revocation and Modification.—(1) Subject to the time limitation for use of entitlement under section 3031 of this title, an individual approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement at anytime after the approval of the individual's request to transfer such entitlement only while the individual is a member of the Armed Forces when the transfer is executed.
+Time for Transfer; Revocation and Modification.—(1) Subject to the time limitation for use of entitlement under section 3031 of this title, an individual approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement at any time after the approval of the individual's request to transfer such entitlement only while the individual is a member of the Armed Forces when the transfer is executed.
 
 (2)(A) An individual transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred as long as the individual is serving on active duty or as a member of the Selected Reserve.
 

@@ -2,7 +2,7 @@
 
 #### (a) Necessity of registration
 
-Except as provided in subsection (b) and section 80b–3a of this title, it shall be unlawful for any investment adviser, unless registered under this section, to make use of the mails or anymeans or instrumentality of interstate commerce in connection with his or its business as an investment adviser.
+Except as provided in subsection (b) and section 80b–3a of this title, it shall be unlawful for any investment adviser, unless registered under this section, to make use of the mails or any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser.
 
 #### (b) Investment advisers who need not be registered
 
@@ -32,7 +32,7 @@ The provisions of subsection (a) shall not apply to—
 
 &emsp;(B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission;
 
-&emsp;(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title, who solely advises—
+&emsp;(7) any investment adviser, other than any entity that has elected to be regulated or isregulated as a business development company pursuant to section 80a–53 of this title, who solely advises—
 
 &emsp;&emsp;(A) small business investment companies that are licensees under the Small Business Investment Act of 1958 \[15 U.S.C. 661 et seq.\];
 
@@ -84,7 +84,7 @@ Any provision of this subchapter (other than subsection (a) of this section) whi
 
 #### (e) Censure, denial, or suspension of registration; notice and hearing
 
-The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding twelve months, or revoke the registration of any investment adviser if it finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or revocation is in the public interest and that such investment adviser, or any person associated with such investment adviser, whether prior to or subsequent to becoming so associated—
+The Commission, by order, shall censure, place limitations on the activities, functions, or operations of, suspend for a period not exceedingtwelve months, or revoke the registration of any investment adviser if it finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or revocation is in the public interest and that such investment adviser, or any person associated with such investment adviser, whether prior to or subsequent to becoming so associated—
 
 &emsp;(1) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which is required to be stated therein.
 
@@ -118,7 +118,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 &emsp;(8) has been found by a foreign financial regulatory authority to have—
 
-&emsp;&emsp;(A) made or caused to be made in any application for registration or report required to be filed with a foreign securities authority, or in any proceeding before a foreign securities authority with respect to registration, any statement that was at the time and in light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any application or report to a foreign securities authority any material fact that is required to be stated therein;
+&emsp;&emsp;(A) made or caused to be made in any application for registration or report required to be filed with a foreign securities authority, or in any proceeding before a foreign securities authority with respect to registration, any statement that was at the timeand in light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any application or report to a foreign securities authority any material fact that is required to be stated therein;
 
 &emsp;&emsp;(B) violated any foreign statute or regulation regarding transactions in securities or contracts of sale of a commodity for future delivery traded on or subject to the rules of a contract market or any board of trade; or
 
@@ -212,7 +212,7 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 
 #### (1) Authority of Commission
 
-&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, upon such terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
+&emsp;If the Commission finds, after notice and opportunity for hearing, that any person is violating, has violated, or is about to violate any provision of this subchapter, or any rule or regulation thereunder, the Commission may publish its findings and enter an order requiring such person, and any other person that is, was, or would be a cause of the violation, due to an act or omission the person knew or should have known would contribute to such violation, to cease and desist from committing or causing such violation and any future violation of the same provision, rule, or regulation. Such order may, in addition to requiring a person to cease and desist from committing or causing a violation, require such person to comply, or to take steps to effect compliance, with such provision, rule, or regulation, uponsuch terms and conditions and within such time as the Commission may specify in such order. Any such order may, as the Commission deems appropriate, require future compliance or steps to effect future compliance, either permanently or for such period of time as the Commission may specify, with such provision, rule, or regulation with respect to any security, any issuer, or any other person.
 
 #### (2) Hearing
 
@@ -293,6 +293,8 @@ In any proceeding in which the Commission may impose a penalty under this sectio
 In prescribing regulations to carry out the requirements of this section with respect to investment advisers acting as investment advisers to mid-sized private funds, the Commission shall take into account the size, governance, and investment strategy of such funds to determine whether they pose systemic risk, and shall provide for registration and examination procedures with respect to the investment advisers of such funds which reflect the level of systemic risk posed by such funds.
 
 (Aug. 22, 1940, ch. 686, title II, §203, 54 Stat. 850; Pub. L. 86–750, §§2–5, Sept. 13, 1960, 74 Stat. 885, 886; Pub. L. 91–547, §24, Dec. 14, 1970, 84 Stat. 1430; Pub. L. 94–29, §29(1)–(4), June 4, 1975, 89 Stat. 166–169; Pub. L. 96–477, title II, §202, Oct. 21, 1980, 94 Stat. 2290; Pub. L. 99–571, title I, §102(m), Oct. 28, 1986, 100 Stat. 3220; Pub. L. 100–181, title VII, §702, Dec. 4, 1987, 101 Stat. 1263; Pub. L. 101–429, title IV, §401, Oct. 15, 1990, 104 Stat. 946; Pub. L. 101–550, title II, §205(b), (c), Nov. 15, 1990, 104 Stat. 2719, 2720; Pub. L. 104–62, §5, Dec. 8, 1995, 109 Stat. 685; Pub. L. 104–290, title III, §§303(b), (d), 305, title V, §508(d), Oct. 11, 1996, 110 Stat. 3438, 3439, 3448; Pub. L. 105–353, title III, §301(d)(1), Nov. 3, 1998, 112 Stat. 3237; Pub. L. 106–554, §1(a)(5) \[title II, §209(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–436; Pub. L. 107–204, title VI, §604(b), (c)(2), July 30, 2002, 116 Stat. 796; Pub. L. 109–291, §4(b)(3)(C), Sept. 29, 2006, 120 Stat. 1337; Pub. L. 111–203, title IV, §§403, 407, 408, title IX, §§925(b), 929P(a)(4), 985(e)(1), July 21, 2010, 124 Stat. 1571, 1574, 1575, 1851, 1864, 1935; Pub. L. 114–94, div. G, title LXXIV, §§74001, 74002, Dec. 4, 2015, 129 Stat. 1786; Pub. L. 115–417, §2, Jan. 3, 2019, 132 Stat. 5438.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -404,7 +406,7 @@ Subsec. (g). Pub. L. 100–181, §702(4), substituted "subsection (c) or subsect
 
 <b>1986</b>—Subsec. (e)(2)(B). Pub. L. 99–571, §102(m)(1), substituted "government securities broker, government securities dealer, fiduciary, or entity or person required to be registered under the Commodity Exchange Act" for "or fiduciary".
 
-Subsec. (e)(3). Pub. L. 99–571, §102(m)(2), inserted par. (3) and struck out former par. (3) which read as follows: "is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an investment adviser, underwriter, broker, dealer, or municipal securities dealer, or as an affiliated person or employee of any investment company, bank, or insurance company, or from engaging in or continuing any conduct or practice in connection with any such activity, or in connection with the purchase or sale of any security."
+Subsec. (e)(3). Pub. L. 99–571, §102(m)(2), inserted par. (3) and struck out former par. (3) which read as follows: "is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction from acting as an investment adviser, underwriter, broker, dealer, or municipal securities dealer, or as an affiliated person or employee of any investment company, bank, or insurance company, or from engaging inor continuing any conduct or practice in connection with any such activity, or in connection with the purchase or sale of any security."
 
 Subsec. (e)(4). Pub. L. 99–571, §102(m)(3), inserted reference to Commodity Exchange Act.
 
@@ -440,6 +442,8 @@ Subsec. (e). Pub. L. 86–750, §4, substituted provisions postponing the effect
 
 Subsec. (g). Pub. L. 86–750, §5, substituted "existence" for "business".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by sections 925(b), 929P(a)(4), and 985(e)(1) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
@@ -470,9 +474,11 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, except that amendment by section 24(a) of Pub. L. 91–547 effective on expiration of one year after Dec. 14, 1970, see section 30 (introductory text and par. (1)) of Pub. L. 91–547, set out as a note under section 80a–52 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "of a".</i>
 

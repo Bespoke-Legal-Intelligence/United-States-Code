@@ -18,11 +18,11 @@ Evaluations of programs under subsection (a) shall be conducted by individuals w
 
 #### (d) Standards
 
-The Corporation shall develop and publish general standards for the evaluation of program effectiveness in achieving the objectives of the national service laws.
+The Corporation shall develop and publish general standards for the evaluation of programeffectiveness in achieving the objectives of the national service laws.
 
 #### (e) Community participation
 
-In evaluating a program receiving assistance under the national service laws, the Corporationshall consider the opinions of participants and members of the communities where services are delivered concerning the strengths and weaknesses of such program.
+In evaluating a program receiving assistance under the national service laws, the Corporation shall consider the opinions of participants and members of the communities where services are delivered concerning the strengths and weaknesses of such program.
 
 #### (f) Comparison of program models
 
@@ -178,11 +178,13 @@ The Corporation shall submit to the authorizing committees not later than 2 year
 
 &emsp;(5) recipients meeting or exceeding their performance levels under subsection (k).
 
-(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993, 107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501; Pub. L. 111–13, title I, §1607, Apr. 21, 2009, 123 Stat. 1532.)
+(Pub. L. 101–610, title I, §179, Nov. 16, 1990, 104 Stat. 3164; Pub. L. 102–384, §§4, 9, Oct. 5, 1992, 106 Stat. 1455, 1456; Pub. L. 103–82, title I, §118, title II, §203(a)(1)(A), title IV, §402(b)(1), Sept. 21, 1993,107 Stat. 865, 891, 918; Pub. L. 103–160, div. A, title XI, §1182(d)(4), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 104–106, div. A, title XV, §1501(e)(5), Feb. 10, 1996, 110 Stat. 501; Pub. L. 111–13, title I, §1607, Apr. 21, 2009, 123 Stat. 1532.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L.101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
+Section 12575 of this title, referred to in subsec. (g)(1), was in the original a reference to section 145 of Pub. L. 101–610. Section 145 of Pub. L. 101–610 was omitted in the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816. Pub. L. 103–82 enacted a new section 125 of Pub. L. 101–610, relating to training and technical assistance, and a new section 145, relating to establishment of the National Service Trust, which are classified to sections 12575 and sections 12601, respectively, of this title. Provisions relating to the eligibility of individuals for participation in national service programs are now contained in section 12591 et seq. of this title.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(3), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -243,6 +245,8 @@ Subsec. (f). Pub. L. 102–384, §9(2), inserted "or post-service benefit" after
 Subsec. (h)(1). Pub. L. 102–384, §9(3)(A), substituted "this section" for "subsection (g) of this section".
 
 Subsec. (h)(2). Pub. L. 102–384, §9(3)(B), added par. (2) and struck out former par. (2) which read as follows: "The Commission shall keep information acquired under this section confidential."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

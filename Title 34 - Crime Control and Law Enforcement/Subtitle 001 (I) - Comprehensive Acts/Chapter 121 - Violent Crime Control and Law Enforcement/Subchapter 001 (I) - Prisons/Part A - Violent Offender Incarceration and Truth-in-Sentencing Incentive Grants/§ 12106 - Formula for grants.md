@@ -6,7 +6,7 @@
 
 &emsp;85 percent of the amount available for grants under section 12103 of this title for any fiscal year shall be allocated as follows (except that a State may not receive more than 9 percent of the total amount of funds made available under this paragraph):
 
-&emsp;&emsp;(A) 0.75 percent shall be allocated to each State that meets the requirements of section 12103(a) of this title, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligibleunder section 12103(a) of this title, shall each be allocated 0.05 percent.
+&emsp;&emsp;(A) 0.75 percent shall be allocated to each State that meets the requirements of section 12103(a) of this title, except that the United States Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands, if eligible under section 12103(a) of this title, shall each be allocated 0.05 percent.
 
 &emsp;&emsp;(B) The amount remaining after application of subparagraph (A) shall be allocated to each State that meets the requirements of section 12103(b) of this title, in the ratio that the number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made, bears to the average annual number of part 1 violent crimes reported by all States that meet the requirements of section 12103(b) of this title to the Federal Bureau of Investigation for the 3 years preceding the year in which the determination is made.
 
@@ -24,7 +24,7 @@ The amounts available for grants for section 12104 of this title shall be alloca
 
 #### (c) Unavailable data
 
-If data regarding part 1 violent crimes in any State is substantially inaccurate or is unavailable for the 3 years preceding the year in which the determination is made, the Attorney General shall utilize the best available comparable data regarding the number of violent crimes for the previous year for the State for the purposes of allocation of funds under this part.
+If data regarding part 1 violent crimes in any State is substantially inaccurate or is unavailable for the 3 years preceding the year in which the determination is made, the Attorney General shall utilize the best available comparable data regarding the number of violent crimes forthe previous year for the State for the purposes of allocation of funds under this part.
 
 #### (d) Regional compacts
 

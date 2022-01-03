@@ -22,6 +22,8 @@ In this section, the terms "sudden unexpected infant death" and "sudden unexpect
 
 (Pub. L. 116–273, §3, Dec. 31, 2020, 134 Stat. 3354.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Scarlett's Sunshine on Sudden Unexpected Death Act, and not as part of the Public Health Service Act which comprises this chapter.

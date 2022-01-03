@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) The total number of acres of National Forest System lands authorized for the organizational camp.
 
-&emsp;&emsp;(B) The estimated per-acre market value of land and buildings in the county where the camp is located, as reported in the mostrecent Census of Agriculture conducted by the National Agricultural Statistics Service.
+&emsp;&emsp;(B) The estimated per-acre market value of land and buildings in the county where the camp is located, as reported in the most recent Census of Agriculture conducted by the National Agricultural Statistics Service.
 
 #### (2) Annual adjustment
 
@@ -34,7 +34,7 @@
 
 #### (4) Minimum land use fee
 
-&emsp;The Secretary shall charge a minimum land use fee under paragraph (1) that represents, on average, the Secretary's cost annually to administer an organizational camp special use authorization in the National Forest Region in which the organizational camp is located. Notwithstanding paragraph (3) or subsection (d), the minimum land use fee shall not be subject to a reduction or waiver.
+&emsp;The Secretary shall charge a minimum land use fee under paragraph (1) that represents, onaverage, the Secretary's cost annually to administer an organizational camp special use authorization in the National Forest Region in which the organizational camp is located. Notwithstanding paragraph (3) or subsection (d), the minimum land use fee shall not be subject to a reduction or waiver.
 
 #### (b) Facility use fee
 

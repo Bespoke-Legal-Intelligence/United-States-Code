@@ -26,7 +26,9 @@ For purposes of this section, the term "specified possession" means Guam, Americ
 
 Amounts paid for services performed as an employee of the United States (or any agency thereof) shall be treated as not described in paragraph (1) or (2) of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 291; Pub. L. 89–809, title I, §107(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 92–178, title V, §502(d), Dec. 10, 1971, 85 Stat. 550; Pub. L. 92–606, §1(f)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title X, §1051(c), title XIX, §§1901(a)(117), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1645, 1784, 1834; Pub. L. 95–30, title I, §101(d)(12), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 99–514, title XII,§1272(a), Oct. 22, 1986, 100 Stat. 2593; Pub. L. 108–357, title VIII, §908(c)(1), Oct. 22, 2004, 118 Stat. 1656.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 291; Pub. L. 89–809, title I, §107(a), Nov. 13, 1966, 80 Stat. 1571; Pub. L. 92–178, title V, §502(d), Dec. 10, 1971, 85 Stat. 550; Pub. L. 92–606, §1(f)(1), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 94–455, title X, §1051(c), title XIX, §§1901(a)(117), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1645, 1784, 1834; Pub. L. 95–30, title I, §101(d)(12), May 23, 1977, 91 Stat. 134; Pub. L. 98–369, div. A, title VII, §711(c)(2)(A)(iv), July 18, 1984, 98 Stat. 945; Pub. L. 99–514, title XII, §1272(a), Oct. 22, 1986, 100 Stat. 2593; Pub. L. 108–357, title VIII, §908(c)(1), Oct. 22, 2004, 118 Stat. 1656.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -52,7 +54,9 @@ Subsecs. (h), (i). Pub. L. 94–455, §1901(a)(117), redesignated subsec. (i) as
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–178 provided for non-application of section in the case of a corporation for a taxable year for which it is a DISC or in which it owns at any time stock in a DISC or former DISC.
 
-<b>1966</b>—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in trade or business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
+<b>1966</b>—Subsec (d). Pub. L. 89–809 made applicable to United States citizens and domestic corporations engaged in trade or business in possessions, who qualify for the special tax treatment of income qualifying for the exclusion relating to income from United States possessions, provisions which allow deductions to nonresident aliens or foreign corporations engaged in tradeor business in the United States by allowing deductions only where they are allocable to income effectively connected with the trade or business in the United States and by spelling out the exceptions allowing deductions whether or not connected with income from sources within the United States in the case of losses not connected with the trade or business but incurred in transactions entered into for profit, casualty losses, and charitable contributions.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 
@@ -152,7 +156,7 @@ Treatment of Certain United States Persons.—Except as otherwise provided in re
 
 "(f)
 
-Exemption From Withholding.—Notwithstanding subsection (b), the modification of section 884 of the Internal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986."
+Exemption From Withholding.—Notwithstanding subsection (b), the modification of section 884of the Internal Revenue Code of 1986 by reason of the amendment to section 881 of such Code by section 1273(b)(1) of this Act shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1984 Amendment
 

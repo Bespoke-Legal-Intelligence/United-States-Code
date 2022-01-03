@@ -64,7 +64,7 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 
 #### (3) Applications
 
-&emsp;An institution of higher education, a consortium of such institutions, or another organization that desires to receive a grant or contract under paragraph (1) shall submit an application to the Secretary at such time, in such manner, and containing or accompanied by such information as the Secretary may reasonably require by regulation.
+&emsp;An institution of higher education, a consortium of such institutions, or another organization that desires to receive a grant or contract under paragraph (1) shall submit an application to the Secretary at such time, in suchmanner, and containing or accompanied by such information as the Secretary may reasonably require by regulation.
 
 #### (4) Additional requirements
 
@@ -85,6 +85,8 @@ Upon determination by the Secretary to terminate financial assistance to any ins
 &emsp;There are authorized to be appropriated to carry out this subsection such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years.
 
 (Pub. L. 89–329, title I, §120, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1596; amended Pub. L. 110–315, title I, §107, Aug. 14, 2008, 122 Stat. 3093.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

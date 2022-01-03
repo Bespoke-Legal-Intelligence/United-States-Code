@@ -86,9 +86,13 @@ For purposes of this section—
 
 (Added Pub. L. 105–206, title III, §3601(a), July 22, 1998, 112 Stat. 774; amended Pub. L. 116–25, title I, §1402(a), July 1, 2019, 133 Stat. 997.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c)(6). Pub. L. 116–25 added par. (6).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

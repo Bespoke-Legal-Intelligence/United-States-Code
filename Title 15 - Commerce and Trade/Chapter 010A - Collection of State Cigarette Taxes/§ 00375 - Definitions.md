@@ -124,6 +124,8 @@ As used in this chapter, the following definitions apply:
 
 (Oct. 19, 1949, ch. 699, §1, as added Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088; amended Pub. L. 116–260, div. FF, title VI, §602(a)(1), Dec. 27, 2020, 134 Stat. 3136.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 375, act Oct. 19, 1949, ch. 699, §1, 63 Stat. 884; Aug. 9, 1955, ch. 695, §1, 69 Stat. 627, set out definitions for this chapter, prior to repeal by Pub. L. 111–154, §2(a), Mar. 31, 2010, 124 Stat. 1088.
@@ -137,6 +139,8 @@ Pars. (7) to (15). Pub. L. 116–260, §602(a)(1)(B), (C), added par. (7) and re
 #### Effective Date of 2020 Amendment
 
 Pub. L. 116–260, div. FF, title VI, §602(b), Dec. 27, 2020, 134 Stat. 3137, provided that: "This section \[amending this section and section 376a of this title and enacting provisions set out as a note under this section\], and the amendments made by this section, shall take effect on the date that is 90 days after the date of enactment of this Act \[Dec. 27, 2020\]."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -164,7 +168,7 @@ Act Oct. 19, 1949, ch. 699, 63 Stat. 884, which is classified generally to this 
 
 #### Severability
 
-Pub. L. 111–154, §7, Mar. 31, 2010, 124 Stat. 1111, provided that: "If any provision of this Act \[see Short Title of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby."
+Pub. L. 111–154, §7, Mar. 31, 2010, 124 Stat. 1111, provided that: "If any provision of this Act \[see ShortTitle of 2010 Amendment note above\], or any amendment made by this Act, or the application thereof to any person or circumstance, is held invalid, the remainder of the Act and the application of the Act to any other person or circumstance shall not be affected thereby."
 
 #### Rule of Construction
 
@@ -194,7 +198,7 @@ Findings.—Congress finds that—
 
 &emsp;"(8) the number of active tobacco investigations being conducted by the Bureau of Alcohol, Tobacco, Firearms, and Explosives rose to 452 in 2005;
 
-&emsp;"(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettesand smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and
+&emsp;"(9) the number of Internet vendors in the United States and in foreign countries that sell cigarettes and smokeless tobacco to buyers in the United States increased from only about 40 in 2000 to more than 500 in 2005; and
 
 &emsp;"(10) the intrastate sale of illegal cigarettes and smokeless tobacco over the Internet has a substantial effect on interstate commerce.
 

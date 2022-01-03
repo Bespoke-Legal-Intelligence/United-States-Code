@@ -4,6 +4,8 @@ In the distribution of farmers' bulletins, which shall be adapted to the interes
 
 (June 30, 1906, ch. 3913, 34 Stat. 690.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 417 of this title prior to editorial reclassification and renumbering as this section.

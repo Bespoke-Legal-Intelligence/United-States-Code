@@ -22,9 +22,13 @@ The district courts shall have exclusive original jurisdiction of any civil acti
 
 (June 13, 1906, ch. 3289, §5, 34 Stat. 262; Pub. L. 91–366, §1(a), (b), July 31, 1970, 84 Stat. 690.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1970</b>—Pub. L. 91–366 designated existing provisions as subsec. (a) and added subsecs. (b) to (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 

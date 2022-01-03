@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of any withholdable payment to a foreign financial institution which does not meet the requirements of subsection (b), the withholding agent with respect to such paymentshall deduct and withhold from such payment a tax equal to 30 percent of the amount of such payment.
+In the case of any withholdable payment to a foreign financial institution which does not meet the requirements of subsection (b), the withholding agent with respect to such payment shall deduct and withhold from such payment a tax equal to 30 percent of the amount of such payment.
 
 #### (b) Reporting requirements, etc.
 
@@ -110,7 +110,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) with respect to each holder of such account, the aggregate value of all depository accounts held (in whole or in part) by such holder and maintained by the same financial institution which maintains such account does not exceed $50,000.
 
-> &emsp;&emsp;To the extent provided by the Secretary, financial institutions which are members of the same expanded affiliated group shall be treated for purposes of clause (ii) as a single financial institution.
+> &emsp;&emsp;To the extent provided by the Secretary, financial institutions which are members ofthe same expanded affiliated group shall be treated for purposes of clause (ii) as a single financial institution.
 
 #### (C) Elimination of duplicative reporting requirements
 
@@ -196,9 +196,13 @@ Subsection (a) shall not apply to any payment to the extent that the beneficial 
 
 (Added Pub. L. 111–147, title V, §501(a), Mar. 18, 2010, 124 Stat. 97.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1471, act Aug. 16, 1954, ch. 736, 68A Stat. 361, related to recovery of excessive profits on government contracts, prior to repeal by Pub. L. 94–455, title XIX, §1901(b)(13)(A), Oct. 4, 1976, 90 Stat. 1840.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -20,13 +20,13 @@ Any natural resource management authority of a State or other government authori
 
 #### (d) Geographic and biological diversity
 
-The Administrator shall ensure that funding for grants awarded under subsection (b) during afiscal year are distributed in the following manner:
+The Administrator shall ensure that funding for grants awarded under subsection (b) during a fiscal year are distributed in the following manner:
 
 &emsp;(1) No less than 40 percent of funds available shall be awarded for coral conservation projects in the Pacific Ocean within the maritime areas and zones subject to the jurisdiction or control of the United States.
 
 &emsp;(2) No less than 40 percent of the funds available shall be awarded for coral conservation projects in the Atlantic Ocean, the Gulf of Mexico, and the Caribbean Sea within the maritime areas and zones subject to the jurisdiction or control of the United States.
 
-&emsp;(3) Remaining funds shall be awarded for projects that address emerging priorities or threats, including international priorities or threats, identified by the Administrator. When identifying emerging threats or priorities, the Administrator may consult with the Coral Reef Task Force.
+&emsp;(3) Remaining funds shall be awarded for projects that address emerging priorities orthreats, including international priorities or threats, identified by the Administrator. When identifying emerging threats or priorities, the Administrator may consult with the Coral Reef Task Force.
 
 #### (e) Project proposals
 
@@ -104,7 +104,9 @@ Within 180 days after December 23, 2000, the Administrator shall promulgate nece
 
 (Pub. L. 106–562, title II, §204, Dec. 23, 2000, 114 Stat. 2801.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 1801 of this title and Tables.
 

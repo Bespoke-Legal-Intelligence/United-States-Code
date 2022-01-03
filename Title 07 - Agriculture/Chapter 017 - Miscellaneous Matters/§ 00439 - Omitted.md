@@ -1,5 +1,7 @@
 ### §439. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, July 2, 1948, ch. 818, §1, 62 Stat. 1234, related to transfer of certain government-owned alcohol plants, and was omitted from the Code as obsolete.

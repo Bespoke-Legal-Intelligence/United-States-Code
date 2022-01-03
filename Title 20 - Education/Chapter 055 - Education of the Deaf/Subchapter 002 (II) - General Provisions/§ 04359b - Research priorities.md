@@ -10,9 +10,11 @@ The University and NTID shall each prepare and submit an annual research report,
 
 &emsp;(1) a summary of the public input received as part of the establishment and dissemination of priorities required by subsection (a), and the University's and NTID's response to the input; and
 
-&emsp;(2) a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source or sources of funding for each project, and any products resulting from research completed in the prior fiscal year.
+&emsp;(2) a summary description of the research undertaken by the University and NTID, the start and projected end dates for each research project, the projected cost and source orsources of funding for each project, and any products resulting from research completed in the prior fiscal year.
 
 (Pub. L. 99–371, title II, §210, as added Pub. L. 105–244, title IX, §923, Oct. 7, 1998, 112 Stat. 1832; amended Pub. L. 110–315, title IX, §912, Aug. 14, 2008, 122 Stat. 3455.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -23,6 +25,8 @@ Another prior section 210 of title II of Pub. L. 99–371, formerly title IV, §
 #### Amendments
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315 substituted "Committee on Education and Labor of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate" for "Committee on Education and the Workforce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -46,7 +46,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;In applying subparagraph (A), the Secretary shall ensure that no State receives an increase in its allotment under section 300x–21 of this title for a fiscal year (as compared to the amount allotted to the State in the prior fiscal year) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for such fiscal year exceeds the amount appropriated for the prior fiscal year.
+&emsp;&emsp;In applying subparagraph (A), the Secretary shall ensure that no State receives anincrease in its allotment under section 300x–21 of this title for a fiscal year (as compared to the amount allotted to the State in the prior fiscal year) that is in excess of an amount equal to 300 percent of the percentage by which the amount appropriated under section 300x–35(a) of this title for such fiscal year exceeds the amount appropriated for the prior fiscal year.
 
 #### (3) Decrease in or equal appropriations
 
@@ -102,7 +102,7 @@
 
 #### (2) Tribe or tribal organization as grantee
 
-&emsp;The amount reserved by the Secretary on the basis of a determination under this paragraph <sup>3</sup> shall be granted to the Indian tribe ortribal organization serving the individuals for whom such a determination has been made.
+&emsp;The amount reserved by the Secretary on the basis of a determination under this paragraph <sup>3</sup> shall be granted to the Indian tribe or tribal organization serving the individuals for whom such a determination has been made.
 
 #### (3) Application
 
@@ -113,6 +113,8 @@
 &emsp;The terms "Indian tribe" and "tribal organization" have the same meaning given such terms in subsections (b) and (c) <sup>4</sup> of section 5304 of title 25.
 
 (July 1, 1944, ch. 373, title XIX, §1933, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 400; amended Pub. L. 102–352, §2(a)(11), Aug. 26, 1992, 106 Stat. 938; Pub. L. 105–277, div. A, §101(f) \[title II, §218(b)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–362; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §212(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–239; Pub. L. 106–310, div. B, title XXXIII, §3304, Oct. 17, 2000, 114 Stat. 1212.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -157,6 +159,8 @@ Exception.—In applying subparagraph (A), the Secretary shall ensure that no St
 > See Effective and Termination Dates of 1998 Amendment note below.
 
 <b>1992</b>—Subsec. (c)(2)(C). Pub. L. 102–352 added subpar. (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 1998 Amendment
 

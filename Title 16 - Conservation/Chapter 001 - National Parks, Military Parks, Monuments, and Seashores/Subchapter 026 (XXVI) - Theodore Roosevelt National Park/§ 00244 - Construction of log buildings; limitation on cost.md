@@ -4,9 +4,13 @@ The Secretary of the Interior is further authorized to obtain by purchase or con
 
 (Apr. 25, 1947, ch. 41, §4, 61 Stat. 54; June 10, 1948, ch. 437, §1, 62 Stat. 352; Pub. L. 95–625, title VI, §610, Nov. 10, 1978, 92 Stat. 3521.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1948</b>—Act June 10, 1948, corrected the land description of Theodore Roosevelt's Elkhorn Ranch.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

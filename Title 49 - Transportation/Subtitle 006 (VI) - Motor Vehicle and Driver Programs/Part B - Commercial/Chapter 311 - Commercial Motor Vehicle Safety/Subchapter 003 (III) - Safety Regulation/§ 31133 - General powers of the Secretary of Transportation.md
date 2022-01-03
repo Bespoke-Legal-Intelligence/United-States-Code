@@ -62,9 +62,13 @@ In subsection (a), the words before clause (1) are substituted for "In carrying 
 
 In subsection (b), the words "In conducting inspections and investigations" are substituted for "To carry out the Secretary's inspection and investigation functions" to eliminate unnecessary words. The words "or the Secretary's agent" are omitted as unnecessary.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1998</b>—Subsec. (a)(1). Pub. L. 105–178 inserted "and make contracts for" after "conduct".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Border Staffing Standards
 

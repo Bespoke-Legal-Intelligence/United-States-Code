@@ -4,6 +4,8 @@ The provisions of this chapter in relation to commercial intercourse shall apply
 
 (R.S. §5303.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5303 derived from act July 2, 1864, ch. 225, §4, 13 Stat. 376.

@@ -2,7 +2,7 @@
 
 (a)
 
-Fellowship Program.—There is in the Department an Executive Management Fellowship Program. The purpose of the program shall be to provide—
+Fellowship Program.—There is in the Department an Executive Management FellowshipProgram. The purpose of the program shall be to provide—
 
 &emsp;(1) eligible employees of the Veterans Benefits Administration and the Veterans Health Administration with training and experience in the private sector; and
 
@@ -86,7 +86,7 @@ Treatment of Recipients.—(1) A Department participant shall be considered an e
 
 Reports.—(1) Not later than 60 days after completing a fellowship under this section, a recipient of the fellowship shall submit to the Secretary a report on the fellowship.
 
-(2) Each such report shall describe the duties of the recipient during the fellowship and any recommendations of the recipient for the application by the Secretary of industry processes, technologies, and best practices.
+(2) Each such report shall describe the duties of the recipient during the fellowship and anyrecommendations of the recipient for the application by the Secretary of industry processes, technologies, and best practices.
 
 (3) Not later than 7 days after receiving each such report, the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives such report without change.
 

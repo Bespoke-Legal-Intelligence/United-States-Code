@@ -38,13 +38,13 @@ Plan Approval.—(1) The Secretary shall approve a plan not later than 60 days a
 
 (c)
 
-Access to Sites and Records.—Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(f) with access to the construction sites and records of the recipient when reasonably necessary.
+Access to Sites and Records.—Each recipient of Federal financial assistance for public transportation under this chapter or any other provision of Federal law shall provide the Secretary and a contractor the Secretary chooses under section 5338(f) <sup>1</sup> with access to the construction sites and records of the recipient when reasonably necessary.
 
 (d)
 
 Regulations.—The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
 
-&emsp;(1) a definition of "major capital project" for section 5338(f) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle;
+&emsp;(1) a definition of "major capital project" for section 5338(f) <sup>1</sup> that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle;
 
 &emsp;(2) a requirement that oversight—
 
@@ -118,6 +118,12 @@ This amends 49:5327(c)(1) to correct an erroneous cross-reference.
 
 This amends 49:5327(c) to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 5338, referred to in subsecs. (c) and (d)(1), was amended generally by Pub. L. 117–58, div. C, §30017, Nov. 15, 2021, 135 Stat. 912. As amended, section 5338 no longer contains a subsec. (f). Provisions relating to oversight, formerly contained in section 5338(f), can be found elsewhere in section 5338.
+
 #### Amendments
 
 <b>2015</b>—Subsec. (c). Pub. L. 114–94, §3012(1), which directed substitution of section "5338(f)" for "section 5338(i)", was executed by substituting "section 5338(f)" for "section 5338(i)", to reflect the probable intent of Congress.
@@ -146,13 +152,15 @@ Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as
 
 Subsec. (c). Pub. L. 109–59, §3026(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
 
-<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted "enter into contracts" for "make contracts" and inserted "and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section" before period at end of first sentence.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted "enter into contracts" for "make contracts"and inserted "and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section" before period at end of first sentence.
 
 Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 
 <b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted "to carry out a major project under section 5309" for "to carry out a major project under section 5307".
 
 <b>1994</b>—Subsec. (c)(1). Pub. L. 103–429 substituted "section 5307, 5309, 5311, or 103(e)(4) or that Act" for "section 5307, 5309, 5311, or 103(e)(4) of that Act".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 
@@ -173,4 +181,6 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 #### Financing of Oversight Activities
 
 Pub. L. 107–87, title III, §319, Dec. 18, 2001, 115 Stat. 858, provided that: "Beginning in fiscal year 2002 and thereafter, the Secretary may use up to 1 percent of the amounts made available to carry out 49 U.S.C. 5309 for oversight activities under 49 U.S.C. 5327."
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

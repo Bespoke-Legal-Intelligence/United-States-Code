@@ -1,0 +1,106 @@
+### <b>CHAPTER 165—ACCOUNTABILITY AND RESPONSIBILITY</b>
+
+| Sec. |  |
+| :--- | ---: |
+| [2771\.](%C2%A7%2002771%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md) | Final settlement of accounts: deceased members. |
+| [2772\.](%C2%A7%2002772%20-%20Share%20of%20fines%20and%20forfeitures%20to%20benefit%20Armed%20Forces%20Retirement%20Home.md) | Share of fines and forfeitures to benefit Armed Forces Retirement Home. |
+| [2773\.](%C2%A7%2002773%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md) | Designation, powers, and accountability of deputy disbursing officials. |
+| [2773a.](%C2%A7%2002773a%20-%20Departmental%20accountable%20officials.md) | Departmental accountable officials. |
+| [2773b.](%C2%A7%2002773b%20-%20Parking%20of%20funds%20prohibition%3B%20penalties.md) | Parking of funds: prohibition; penalties. |
+| [2774\.](%C2%A7%2002774%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%20and%20of%20travel%20and%20transportation%20allowances.md) | Claims for overpayment of pay and allowances and of travel and transportation allowances. |
+| [2775\.](%C2%A7%2002775%20-%20Liability%20of%20members%20assigned%20to%20military%20housing.md) | Liability of members assigned to military housing. |
+| [2776\.](%C2%A7%2002776%20-%20Use%20of%20receipts%20of%20public%20money%20for%20current%20expenditures.md) | Use of receipts of public money for current expenditures. |
+| [2777\.](%C2%A7%2002777%20-%20Requisitions%20for%20advances%20and%20removal%20of%20charges%20outstanding%20in%20accounts%20of%20advances.md) | Requisitions for advances and removal of charges outstanding in accounts of advances. |
+| \[2778. | Repealed.\] |
+| [2779\.](%C2%A7%2002779%20-%20Use%20of%20funds%20because%20of%20fluctuations%20in%20currency%20exchange%20rates%20of%20foreign%20countries.md) | Use of funds because of fluctuations in currency exchange rates of foreign countries. |
+| [2780\.](%C2%A7%2002780%20-%20Debt%20collection.md) | Debt collection. |
+| [2781\.](%C2%A7%2002781%20-%20Availability%20of%20appropriations%20exchange%20fees%3B%20losses%20in%20accounts.md) | Availability of appropriations: exchange fees; losses in accounts. |
+| [2782\.](%C2%A7%2002782%20-%20Damage%20to%20real%20property%20disposition%20of%20amounts%20recovered.md) | Damage to real property: disposition of amounts recovered. |
+| [2783\.](%C2%A7%2002783%20-%20Nonappropriated%20fund%20instrumentalities%20financial%20management%20and%20use%20of%20nonappropriated%20funds.md) | Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds. |
+| \[2784. | Renumbered.\] |
+| [2784a.](%C2%A7%2002784a%20-%20Management%20of%20travel%20cards.md) | Management of travel cards. |
+| [2785\.](%C2%A7%2002785%20-%20Remittance%20addresses%20regulation%20of%20alterations.md) | Remittance addresses: regulation of alterations. |
+| [2786\.](%C2%A7%2002786%20-%20Department%20of%20Defense%20payments%20by%20electronic%20transfers%20of%20funds%20exercise%20of%20authority%20for%20waivers.md) | Department of Defense payments by electronic transfers of funds: exercise of authority for waivers. |
+| [2787\.](%C2%A7%2002787%20-%20Reports%20of%20survey.md) | Reports of survey. |
+| [2788\.](%C2%A7%2002788%20-%20Property%20accountability%20regulations.md) | Property accountability: regulations. |
+| [2789\.](%C2%A7%2002789%20-%20Individual%20equipment%20unauthorized%20disposition.md) | Individual equipment: unauthorized disposition. |
+| [2790\.](%C2%A7%2002790%20-%20Recovery%20of%20improperly%20disposed%20of%20Department%20of%20Defense%20property.md) | Recovery of improperly disposed of Department of Defense property. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title XVII, §1701(f)(2), Dec. 27, 2021, 135 Stat. 2139, struck out item 2784 "Management of purchase cards".
+
+<b>2011</b>—Pub. L. 111–383, div. A, title III, §355(b), Jan. 7, 2011, 124 Stat. 4197, added item 2790.
+
+<b>2008</b>—Pub. L. 110–181, div. A, title III, §375(b), Jan. 28, 2008, 122 Stat. 83, added items 2788 and 2789.
+
+<b>2006</b>—Pub. L. 109–364, div. A, title X, §1053(a)(2), Oct. 17, 2006, 120 Stat. 2396, added item 2773b.
+
+<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1005(b), 1006(a)(2), 1007(b)(2), 1008(b), Dec. 2, 2002, 116 Stat. 2632–2635, substituted "purchase" for "credit" in item 2784 and added items 2773a, 2784a, and 2787.
+
+<b>1999</b>—Pub. L. 106–65, div. A, title IX, §933(a)(2), title X, §1008(a)(2), Oct. 5, 1999, 113 Stat. 730, 738, added items 2784 to 2786.
+
+<b>1996</b>—Pub. L. 104–316, title I, §105(d), Oct. 19, 1996, 110 Stat. 3830, struck out item 2778 "Accounts of the military departments".
+
+Pub. L. 104–106, div. B, title XXVIII, §2821(b), Feb. 10, 1996, 110 Stat. 556, added item 2782.
+
+<b>1993</b>—Pub. L. 103–160, div. A, title XI, §1182(a)(8)(C), Nov. 30, 1993, 107 Stat. 1771, added item 2783.
+
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1405(c)(2), title XV, §1533(a)(4)(B), Nov. 5, 1990, 104 Stat. 1680, 1734, substituted "Retirement Home" for "retirement homes" in item 2772 and struck out item 2782 "Unobligated balances withdrawn from availability for obligation: limitations on restoration".
+
+<b>1989</b>—Pub. L. 101–189, div. A, title III, §342(a)(2), title XVI, §1603(a)(2), Nov. 29, 1989, 103 Stat. 1420, 1598, added items 2772 and 2782.
+
+<b>1988</b>—Pub. L. 100–370, §1(m)(2), July 19, 1988, 102 Stat. 850, added item 2781.
+
+<b>1987</b>—Pub. L. 100–26, §7(j)(7)(C), Apr. 21, 1987, 101 Stat. 283, substituted "allowances and of" for "allowances, and" in item 2774.
+
+<b>1986</b>—Pub. L. 99–661, div. A, title XIII, §1309(b), Nov. 14, 1986, 100 Stat. 3983, added item 2780.
+
+<b>1985</b>—Pub. L. 99–224, §2(b), Dec. 28, 1985, 99 Stat. 1742, substituted "and" for "other than" in item 2774.
+
+Pub. L. 99–167, title VIII, §802(d)(2), Dec. 3, 1985, 99 Stat. 987, substituted "assigned to military housing" for "for damage to housing and related equipment and furnishings" in item 2775.
+
+<b>1984</b>—Pub. L. 98–407, title VIII, §801(a)(2), Aug. 28, 1984, 98 Stat. 1518, substituted "members for damage to housing and related equipment and furnishings" for "member for damages to family housing, equipment, and furnishings" in item 2775.
+
+<b>1982</b>—Pub. L. 97–258, §2(b)(7)(A), (8)(A), Sept. 13, 1982, 96 Stat. 1054, substituted "Designation, powers, and accountability of deputy disbursing officials" for "Accountability for public money: disbursing officers; agent officers" in item 2773 and added items 2776, 2777, 2778, and 2779.
+
+<b>1980</b>—Pub. L. 96–513, title V, §511(96), Dec. 12, 1980, 94 Stat. 2928, struck out item 2772 "Withholding pay of officers".
+
+Pub. L. 96–418, title V, §506(b), Oct. 10, 1980, 94 Stat. 1766, added item 2775.
+
+<b>1972</b>—Pub. L. 92–453, §1(2), Oct. 2, 1972, 86 Stat. 759, added item 2774.
+
+<b>1962</b>—Pub. L. 87–480, §1(1)(B), June 8, 1962, 76 Stat. 94, added item 2773.
+
+
+---
+
+**In this folder** (links to each part and section; generated, not part of GPO's text)
+
+- [&sect; 02771 - Final settlement of accounts deceased members](%C2%A7%2002771%20-%20Final%20settlement%20of%20accounts%20deceased%20members.md)
+- [&sect; 02772 - Share of fines and forfeitures to benefit Armed Forces Retirement Home](%C2%A7%2002772%20-%20Share%20of%20fines%20and%20forfeitures%20to%20benefit%20Armed%20Forces%20Retirement%20Home.md)
+- [&sect; 02773 - Designation, powers, and accountability of deputy disbursing officials](%C2%A7%2002773%20-%20Designation%2C%20powers%2C%20and%20accountability%20of%20deputy%20disbursing%20officials.md)
+- [&sect; 02773a - Departmental accountable officials](%C2%A7%2002773a%20-%20Departmental%20accountable%20officials.md)
+- [&sect; 02773b - Parking of funds prohibition; penalties](%C2%A7%2002773b%20-%20Parking%20of%20funds%20prohibition%3B%20penalties.md)
+- [&sect; 02774 - Claims for overpayment of pay and allowances and of travel and transportation allowances](%C2%A7%2002774%20-%20Claims%20for%20overpayment%20of%20pay%20and%20allowances%20and%20of%20travel%20and%20transportation%20allowances.md)
+- [&sect; 02775 - Liability of members assigned to military housing](%C2%A7%2002775%20-%20Liability%20of%20members%20assigned%20to%20military%20housing.md)
+- [&sect; 02776 - Use of receipts of public money for current expenditures](%C2%A7%2002776%20-%20Use%20of%20receipts%20of%20public%20money%20for%20current%20expenditures.md)
+- [&sect; 02777 - Requisitions for advances and removal of charges outstanding in accounts of advances](%C2%A7%2002777%20-%20Requisitions%20for%20advances%20and%20removal%20of%20charges%20outstanding%20in%20accounts%20of%20advances.md)
+- [&sect; 02778 - Repealed. Pub. L. 104&#8211;316, title I, &sect;105(d), Oct. 19, 1996, 110 Stat. 3830](%C2%A7%2002778%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93316%2C%20title%20I%2C%20%C2%A7105%28d%29%2C%20Oct.%2019%2C%201996%2C%20110%20Stat.%203830.md)
+- [&sect; 02779 - Use of funds because of fluctuations in currency exchange rates of foreign countries](%C2%A7%2002779%20-%20Use%20of%20funds%20because%20of%20fluctuations%20in%20currency%20exchange%20rates%20of%20foreign%20countries.md)
+- [&sect; 02780 - Debt collection](%C2%A7%2002780%20-%20Debt%20collection.md)
+- [&sect; 02781 - Availability of appropriations exchange fees; losses in accounts](%C2%A7%2002781%20-%20Availability%20of%20appropriations%20exchange%20fees%3B%20losses%20in%20accounts.md)
+- [&sect; 02782 - Damage to real property disposition of amounts recovered](%C2%A7%2002782%20-%20Damage%20to%20real%20property%20disposition%20of%20amounts%20recovered.md)
+- [&sect; 02783 - Nonappropriated fund instrumentalities financial management and use of nonappropriated funds](%C2%A7%2002783%20-%20Nonappropriated%20fund%20instrumentalities%20financial%20management%20and%20use%20of%20nonappropriated%20funds.md)
+- [&sect; 02784 - Renumbered &sect;4754](%C2%A7%2002784%20-%20Renumbered%20%C2%A74754.md)
+- [&sect; 02784a - Management of travel cards](%C2%A7%2002784a%20-%20Management%20of%20travel%20cards.md)
+- [&sect; 02785 - Remittance addresses regulation of alterations](%C2%A7%2002785%20-%20Remittance%20addresses%20regulation%20of%20alterations.md)
+- [&sect; 02786 - Department of Defense payments by electronic transfers of funds exercise of authority for waivers](%C2%A7%2002786%20-%20Department%20of%20Defense%20payments%20by%20electronic%20transfers%20of%20funds%20exercise%20of%20authority%20for%20waivers.md)
+- [&sect; 02787 - Reports of survey](%C2%A7%2002787%20-%20Reports%20of%20survey.md)
+- [&sect; 02788 - Property accountability regulations](%C2%A7%2002788%20-%20Property%20accountability%20regulations.md)
+- [&sect; 02789 - Individual equipment unauthorized disposition](%C2%A7%2002789%20-%20Individual%20equipment%20unauthorized%20disposition.md)
+- [&sect; 02790 - Recovery of improperly disposed of Department of Defense property](%C2%A7%2002790%20-%20Recovery%20of%20improperly%20disposed%20of%20Department%20of%20Defense%20property.md)

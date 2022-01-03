@@ -18,13 +18,15 @@ At the end of each fiscal year, the Secretary shall submit to Congress a report 
 
 (Pub. L. 114–275, §3, Dec. 14, 2016, 130 Stat. 1405.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 Pub. L. 114–275, §2, Dec. 14, 2016, 130 Stat. 1405, provided that: "In this Act \[enacting this section and provisions set out as a note under section 551 of this title\]:
 
 &emsp;"(1)
 
-National fire danger rating system.—The term 'national fire danger rating system' means thenational system used to provide a measure of fire danger according to a range of low to moderate to high to very high to extreme.
+National fire danger rating system.—The term 'national fire danger rating system' means the national system used to provide a measure of fire danger according to a range of low to moderate to high to very high to extreme.
 
 &emsp;"(2)
 

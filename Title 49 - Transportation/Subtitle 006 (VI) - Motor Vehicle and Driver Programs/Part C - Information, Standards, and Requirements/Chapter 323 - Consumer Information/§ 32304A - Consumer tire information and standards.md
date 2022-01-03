@@ -16,7 +16,7 @@ Items included in rule.—The rulemaking shall include—
 
 &emsp;&emsp;(B) requirements for providing information to consumers, including information at the point of sale and other potential information dissemination methods, including the Internet;
 
-&emsp;&emsp;(C) specifications for test methods for manufacturers to use in assessing and ratingtires to avoid variation among test equipment and manufacturers; and
+&emsp;&emsp;(C) specifications for test methods for manufacturers to use in assessing and rating tires to avoid variation among test equipment and manufacturers; and
 
 &emsp;&emsp;(D) a national tire maintenance consumer education program including,<sup>1</sup> information on tire inflation pressure, alignment, rotation, and tread wear to maximize fuel efficiency, safety, and durability of replacement tires.
 
@@ -138,6 +138,8 @@ Application With State and Local Laws and Regulations.—Nothing in this section
 
 (Added Pub. L. 110–140, title I, §111(a), Dec. 19, 2007, 121 Stat. 1506; amended Pub. L. 114–94, div. B, title XXIV, §24332, Dec. 4, 2015, 129 Stat. 1713.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (a)(1), (3), is the date of enactment of subtitle A (§§101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
@@ -153,6 +155,8 @@ Subsec. (a). Pub. L. 114–94, §24332(2)(A), substituted "Consumer Tire Informa
 Subsec. (a)(1). Pub. L. 114–94, §24332(2)(B), inserted "(referred to in this section as the 'Secretary')" after "Secretary of Transportation".
 
 Subsecs. (b) to (h). Pub. L. 114–94, §24332(3), (4), added subsecs. (b) to (d) and redesignated former subsecs. (b) to (e) as (e) to (h), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -28,7 +28,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(D) The placement of the firearm of a Federal flight deck officer on board the aircraft to ensure both its security and its ease of retrieval in an emergency.
 
-&emsp;&emsp;(E) An analysis of the risk of catastrophic failure of an aircraft as a result of the discharge (including an accidental discharge) of a firearm to be used in the program into theavionics, electrical systems, or other sensitive areas of the aircraft.
+&emsp;&emsp;(E) An analysis of the risk of catastrophic failure of an aircraft as a result of the discharge (including an accidental discharge) of a firearm to be used in the program into the avionics, electrical systems, or other sensitive areas of the aircraft.
 
 &emsp;&emsp;(F) The division of responsibility between pilots in the event of an act of criminal violence or air piracy if only 1 pilot is a Federal flight deck officer and if both pilots are Federal flight deck officers.
 
@@ -38,7 +38,7 @@ Issues to be addressed.—The procedural requirements established under paragrap
 
 &emsp;&emsp;(I) The process for selection of pilots to participate in the program based on their fitness to participate in the program, including whether an additional background check should be required beyond that required by section 44936(a)(1).
 
-&emsp;&emsp;(J) Storage and transportation of firearms between flights, including international flights, to ensure the security of the firearms, focusing particularly on whether such security would be enhanced by requiring storage of the firearm at the airport when the pilot leaves the airport to remain overnight away from the pilot's base airport.
+&emsp;&emsp;(J) Storage and transportation of firearms between flights, including internationalflights, to ensure the security of the firearms, focusing particularly on whether such security would be enhanced by requiring storage of the firearm at the airport when the pilot leaves the airport to remain overnight away from the pilot's base airport.
 
 &emsp;&emsp;(K) Methods for ensuring that security personnel will be able to identify whether a pilot is authorized to carry a firearm under the program.
 
@@ -120,7 +120,7 @@ In general.—The Administrator shall require a Federal flight deck officer to r
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
-Use of facilities for requalification.—The Administrator shall allow a Federal flight deck officer to requalify to carry a firearm under the program through training at a Transportation Security Administration-approved firearmstraining facility utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
+Use of facilities for requalification.—The Administrator shall allow a Federal flight deck officer to requalify to carry a firearm under the program through training at a Transportation Security Administration-approved firearms training facility utilizing a Transportation Security Administration-approved contractor and a curriculum developed and approved by the Transportation Security Administration.
 
 &emsp;&emsp;&emsp;(iv)
 
@@ -128,7 +128,7 @@ Periodic review.—The Administrator shall periodically review requalification t
 
 &emsp;&emsp;(D)
 
-Training review.—Not later than 2 years after the date of enactment of the TSA Modernization Act, and biennially thereafter, the Administrator shall review training facilities and training requirements for initial and recurrent training for Federal flight deck officers and evaluate how training requirements, including the length of training, could be streamlined while maintaining the effectiveness of the training, and update the training requirements as appropriate.
+Training review.—Not later than 2 years after the date of enactment of the TSA Modernization Act, and biennially thereafter, the Administrator shall review training facilities and training requirements for initial and recurrent training for Federal flight deck officers and evaluate how training requirements, including the length oftraining, could be streamlined while maintaining the effectiveness of the training, and update the training requirements as appropriate.
 
 (d)
 
@@ -202,7 +202,7 @@ Consistency with federal air marshal program.—The Administrator shall harmoniz
 
 (g)
 
-Authority To Use Force.—Notwithstanding section 44903(d), the Administrator shall prescribe the standards and circumstances under which a Federal flight deck officer mayuse, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
+Authority To Use Force.—Notwithstanding section 44903(d), the Administrator shall prescribe the standards and circumstances under which a Federal flight deck officer may use, while the program under this section is in effect, force (including lethal force) against an individual in the defense of the flight deck of an aircraft in air transportation or intrastate air transportation.
 
 (h)
 
@@ -218,7 +218,7 @@ Liability of federal flight deck officers.—A Federal flight deck officer shall
 
 &emsp;(3)
 
-Liability of federal government.—For purposes of an action against the United States with respect to an act or omission of a Federal flight deck officer in defending the flight deck of an aircraft, the officer shall be treated as an employee of the Federal Government under chapter 171 of title 28, relating to tort claims procedure.
+Liability of federal government.—For purposes of an action against the United States with respect to an act or omission of aFederal flight deck officer in defending the flight deck of an aircraft, the officer shall be treated as an employee of the Federal Government under chapter 171 of title 28, relating to tort claims procedure.
 
 (i)
 
@@ -261,6 +261,8 @@ Firearms training facility.—The term "firearms training facility" means a priv
 Pilot.—The term "pilot" means an individual who has final authority and responsibility for the operation and safety of the flight or any other flight deck crew member.
 
 (Added Pub. L. 107–296, title XIV, §1402(a), Nov. 25, 2002, 116 Stat. 2300; amended Pub. L. 108–176, title VI, §609(b), Dec. 12, 2003, 117 Stat. 2570; Pub. L. 115–254, div. K, title I, §1963(a)–(h), Oct. 5, 2018, 132 Stat. 3601–3603.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -311,6 +313,8 @@ Subsec. (l). Pub. L. 115–254, §1963(h)(6), added subsec. (l).
 Subsec. (k)(2). Pub. L. 108–176, §609(b)(2), substituted "or any other flight deck crew member" for "or, if more than 1 pilot is required for the operation of the aircraft or by the regulations under which the flight is being conducted, the individual designated as second in command".
 
 Subsec. (k)(3). Pub. L. 108–176, §609(b)(3), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;&emsp;(B) clearly define, in objective, measurable terms, the school and post-school results that children with disabilities are expected to achieve; and
 
-&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, in addressing the full range of student needs, particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
+&emsp;&emsp;(C) promote transition services and coordinate State and local education, social, health, mental health, and other services, inaddressing the full range of student needs, particularly the needs of children with disabilities who need significant levels of support to participate and learn in school and the community.
 
 &emsp;(5) The availability of an adequate number of qualified personnel is critical—
 
@@ -55,6 +55,8 @@ Congress finds the following:
 &emsp;(12) Support is needed to improve technological resources and integrate technology, including universally designed technologies, into the lives of children with disabilities, parents of children with disabilities, school personnel, and others through curricula, services, and assistive technologies.
 
 (Pub. L. 91–230, title VI, §650, as added Pub. L. 108–446, title I, §101, Dec. 3, 2004, 118 Stat. 2763.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transition Provisions
 

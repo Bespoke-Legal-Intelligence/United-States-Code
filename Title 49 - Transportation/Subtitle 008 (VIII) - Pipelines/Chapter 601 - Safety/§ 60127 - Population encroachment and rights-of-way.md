@@ -48,6 +48,8 @@ Adoption of practices, laws, and ordinances.—The Secretary shall encourage Fed
 
 (Added Pub. L. 104–304, §16(a), Oct. 12, 1996, 110 Stat. 3803; amended Pub. L. 107–355, §11(a), Dec. 17, 2002, 116 Stat. 2996.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.

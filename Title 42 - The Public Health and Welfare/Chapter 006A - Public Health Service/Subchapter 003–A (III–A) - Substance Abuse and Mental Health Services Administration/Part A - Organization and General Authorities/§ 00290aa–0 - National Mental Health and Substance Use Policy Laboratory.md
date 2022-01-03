@@ -16,7 +16,7 @@ The Laboratory shall—
 
 &emsp;(4) provide leadership in identifying and coordinating policies and programs, including evidence-based programs, related to mental and substance use disorders;
 
-&emsp;(5) periodically review programs and activities operated by the Administration relating to the diagnosis or prevention of, treatmentfor, and recovery from, mental and substance use disorders to—
+&emsp;(5) periodically review programs and activities operated by the Administration relating to the diagnosis or prevention of, treatment for, and recovery from, mental and substance use disorders to—
 
 &emsp;&emsp;(A) identify any such programs or activities that are duplicative;
 
@@ -97,6 +97,8 @@ The Laboratory shall begin implementation of this section not later than January
 &emsp;&emsp;(B) to carry out paragraph (1)(B), $7,000,000 for the period of fiscal years 2018 through 2020.
 
 (July 1, 1944, ch. 373, title V, §501A, as added Pub. L. 114–255, div. B, title VII, §7001, Dec. 13, 2016, 130 Stat. 1220; amended Pub. L. 115–271, title VII, §7111, Oct. 24, 2018, 132 Stat. 4042.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

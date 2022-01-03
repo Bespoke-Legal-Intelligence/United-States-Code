@@ -70,7 +70,7 @@ The Assistant Secretary shall assign to the Office all activities performed by t
 
 #### (1) In general
 
-&emsp;To ensure that Federal support for broadband deployment is being distributed inan efficient, technology-neutral, and financially sustainable manner, and that a program does not duplicate any other Federal broadband support program or any Universal Service Fund high-cost program—
+&emsp;To ensure that Federal support for broadband deployment is being distributed in an efficient, technology-neutral, and financially sustainable manner, and that a program does not duplicate any other Federal broadband support program or any Universal Service Fund high-cost program—
 
 &emsp;&emsp;(A) any agency that offers a Federal broadband support program shall coordinate with the Office consistent with the goals described in paragraph (2); and
 

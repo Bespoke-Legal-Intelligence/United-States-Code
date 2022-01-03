@@ -2,7 +2,7 @@
 
 #### (a) General requirements applicable to franchisor
 
-Prior to termination of any franchise or nonrenewal of any franchise relationship, the franchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship—
+Prior to termination of any franchise or nonrenewal of any franchise relationship, thefranchisor shall furnish notification of such termination or such nonrenewal to the franchisee who is a party to such franchise or such franchise relationship—
 
 &emsp;(1) in the manner described in subsection (c); and
 

@@ -1,5 +1,7 @@
 ### §1973p. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1973p was editorially reclassified as section 10313 of Title 52, Voting and Elections.

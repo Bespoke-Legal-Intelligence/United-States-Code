@@ -70,7 +70,7 @@ For purposes of subsections (a) and (b)—
 
 &emsp;&emsp;&emsp;(i) prizes and awards which are subject to the provisions of section 74(b) (without regard to paragraph (3) thereof), if the recipients of such prizes and awards are selected from the general public,
 
-&emsp;&emsp;&emsp;(ii) scholarships and fellowship grants which would be subject to the provisions ofsection 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
+&emsp;&emsp;&emsp;(ii) scholarships and fellowship grants which would be subject to the provisions of section 117(a) (as in effect on the day before the date of the enactment of the Tax Reform Act of 1986) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),
 
 &emsp;&emsp;&emsp;(iii) any annuity or other payment (forming part of a stock-bonus, pension, or profit-sharing plan) by a trust which is a qualified trust under section 401,
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;The term "amount involved" means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
-&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
+&emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of thedate on which the act of self-dealing occurs; and
 
 &emsp;&emsp;(B) in the case of the taxes imposed by subsection (b), shall be the highest fair market value during the taxable period.
 
@@ -117,6 +117,8 @@ For purposes of this section—
 &emsp;The terms "correction" and "correct" mean, with respect to any act of self-dealing, undoing the transaction to the extent possible, but in any case placing the private foundation in a financial position not worse than that in which it would be if the disqualified person were dealing under the highest fiduciary standards.
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 499; amended Pub. L. 94–455, title XIX, §§1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, §2(a)(1)(A), (B), (2)(A), (3)(A), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 96–608, §5, Dec. 28, 1980, 94 Stat. 3553; Pub. L. 99–234, title I, §107(c), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–514, title I, §122(a)(2)(A), title XVIII, §1812(b)(1), Oct. 22, 1986, 100 Stat. 2110, 2833; Pub. L. 100–647, title I, §1001(d)(1)(A), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §1212(a)(1), (2), Aug. 17, 2006, 120 Stat. 1074.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -155,6 +157,8 @@ Subsec. (e)(4). Pub. L. 96–596, §2(a)(3)(A), struck out par. (4) which define
 <b>1976</b>—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, §1901(b)(8)(H), substituted "educational organization described in section 170(b)(1)(A)(ii)" for "educational institution described in section 151(e)(4)" after "study at an".
 
 Subsec. (e)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2006 Amendment
 

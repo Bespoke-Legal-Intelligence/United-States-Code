@@ -82,6 +82,8 @@ A State organic certification program approved under this chapter may contain ad
 
 (Pub. L. 101–624, title XXI, §2107, Nov. 28, 1990, 104 Stat. 3938; Pub. L. 105–185, title VI, §601(a), June 23, 1998, 112 Stat. 585; Pub. L. 108–11, title II, §2105, Apr. 16, 2003, 117 Stat. 589; Pub. L. 113–79, title X, §10005(b)(2), Feb. 7, 2014, 128 Stat. 944.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (a)(8). Pub. L. 113–79 substituted "section 6515(g)" for "section 6515(h)".

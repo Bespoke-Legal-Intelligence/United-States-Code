@@ -4,9 +4,13 @@ Recognizing that the Nation's economic, political, and social security require a
 
 (Pub. L. 93–380, title VIII, §801, Aug. 21, 1974, 88 Stat. 597.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of Education Amendments of 1974, and not as part of General Education Provisions Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -26,7 +30,7 @@ Pub. L. 102–325, title XIV, part B, July 23, 1992, 106 Stat. 824, as amended b
 
 #### National Commission on Cost of Higher Education
 
-Pub. L. 102–325, title XIV, part C, July 23, 1992, 106 Stat. 827, as amended by Pub. L. 103–208, §2(k)(12), Dec.20, 1993, 107 Stat. 2486, provided for establishment, membership, etc., of National Commission on the Cost of Higher Education, which Commission was to make findings and specific recommendations regarding the increase in tuition costs compared with other commodities and services as well as methods of reducing increased tuition costs, administrative costs of colleges and universities and methods of reducing such costs, the extent to which Federal, State, and local regulations contribute to increased tuition costs and the increase in the cost of higher education, and extent to which the lack of student financial assistance programs contribute to increased tuition costs, and directed that the Commission cease to exist on the date that is 90 days after the Commission submits its final report, which report was to be submitted to the President and Congress not later than Sept. 1, 1994, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
+Pub. L. 102–325, title XIV, part C, July 23, 1992, 106 Stat. 827, as amended by Pub. L. 103–208, §2(k)(12), Dec. 20, 1993, 107 Stat. 2486, provided for establishment, membership, etc., of National Commission on the Cost of Higher Education, which Commission was to make findings and specific recommendations regarding the increase in tuition costs compared with other commodities and services as well as methods of reducing increased tuition costs, administrative costs of colleges and universities and methods of reducing such costs, the extent to which Federal, State, and local regulations contribute to increased tuition costs and the increase in the cost of higher education, and extent to which the lack of student financial assistance programs contribute to increased tuition costs, and directed that the Commission cease to exist on the date that is 90 days after the Commission submits its final report, which report was to be submitted to the President and Congress not later than Sept. 1, 1994, prior to repeal by Pub. L. 105–332, §6(b)(2), Oct. 31, 1998, 112 Stat. 3128.
 
 #### Education Council Act of 1991
 
@@ -50,7 +54,7 @@ Pub. L. 97–35, title V, §512(a), Aug. 13, 1981, 95 Stat. 444, provided that: 
 
 #### Financing of Elementary and Secondary Education; Studies and Surveys; Advisory Panel; Reports
 
-Pub. L. 95–561, title XII, §1203, Nov. 1, 1978, 92 Stat. 2335, as amended by Pub. L. 96–46, §2(a)(4), Aug. 6, 1979, 93 Stat. 340; Pub. L. 96–88, title III, §301(a)(2), (b)(1), title V, §501(a), 507, Oct. 17, 1979, 93 Stat. 677, 678, 689, 692, established a 15-member Advisory Panel on Financing Elementary and Secondary Education within Department of Education to provide for (1) availability of reliable and comparative data on status and trends in financing elementary and secondary education, (2) conduct of studies necessary to understand and analyze the trends and problems affecting financing of elementary and secondary education, both public and non-public, including prospects for adequate financing during the next ten years, and development of recommendations for Federal policies to assist in improving equity and efficiency of Federal and State systems for raising and distributing revenues to support elementary and secondary education, with views and recommendations ofthe Panel to be presented to 1980 White House Conference on Education.
+Pub. L. 95–561, title XII, §1203, Nov. 1, 1978, 92 Stat. 2335, as amended by Pub. L. 96–46, §2(a)(4), Aug. 6, 1979, 93 Stat. 340; Pub. L. 96–88, title III, §301(a)(2), (b)(1), title V, §501(a), 507, Oct. 17, 1979, 93 Stat. 677, 678, 689, 692, established a 15-member Advisory Panel on Financing Elementary and Secondary Education within Department of Education to provide for (1) availability of reliable and comparative data on status and trends in financing elementary and secondary education, (2) conduct of studies necessary to understand and analyze the trends and problems affecting financing of elementary and secondary education, both public and non-public, including prospects for adequate financing during the next ten years, and development of recommendations for Federal policies to assist in improving equity and efficiency of Federal and State systems for raising and distributing revenues to support elementary and secondary education, with views and recommendations of the Panel to be presented to 1980 White House Conference on Education.
 
 #### White House Conference on Education: Report of Findings and Recommendations; National Conference Committee: Establishment, Membership, Report to President and Congress, Travel Expenses; Apportionment of Funds; Authorization of Appropriations
 

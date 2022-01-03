@@ -142,6 +142,8 @@ In this section:
 
 (Pub. L. 113–79, title VIII, §8206, Feb. 7, 2014, 128 Stat. 921; Pub. L. 115–141, div. O, title II, §212, Mar. 23, 2018, 132 Stat. 1073; Pub. L. 115–334, title VIII, §§8624, 8704(b), Dec. 20, 2018, 132 Stat. 4857, 4877.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -200,7 +202,7 @@ Subsec. (a)(10). Pub. L. 115–334, §8624(b)(1)(B), redesignated par. (9) as (1
 
 Subsec. (b)(1)(A). Pub. L. 115–334, §8624(b)(2)(A), inserted "or county" after "Governor".
 
-Subsec. (b)(2)(A). Pub. L. 115–334, §8624(b)(2)(B), substituted "good neighbor agreement" for "cooperative agreement or contract entered into under subsection (a)".
+Subsec. (b)(2)(A). Pub. L. 115–334, §8624(b)(2)(B), substituted "good neighbor agreement" for "cooperativeagreement or contract entered into under subsection (a)".
 
 Subsec. (b)(2)(C). Pub. L. 115–334, §8624(c), added subpar. (C).
 

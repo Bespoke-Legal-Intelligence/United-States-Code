@@ -38,7 +38,7 @@
 
 #### (b) Duties and authority; grants, contracts, and cooperative agreements
 
-(1) In carrying out the purposes of section 241 of this title with respect to human diseases ordisorders or other aspects of human health for which the national research institutes were established, the Secretary, acting through the Director of each national research institute—
+(1) In carrying out the purposes of section 241 of this title with respect to human diseases or disorders or other aspects of human health for which the national research institutes were established, the Secretary, acting through the Director of each national research institute—
 
 &emsp;(A) shall encourage and support research, investigations, experiments, demonstrations, and studies in the health sciences related to—
 
@@ -74,7 +74,7 @@
 
 &emsp;(M) may perform such other functions as the Secretary determines are needed to carry out effectively the purposes of the institute.
 
-> The indemnification provisions of section 2354 of title 10 shall apply with respect to contracts entered into under this subsection and section 282(b) of this title.
+> The indemnification provisions of section 3861 of title 10 shall apply with respect to contracts entered into under this subsection and section 282(b) of this title.
 
 (2) Support for an activity or program under this subsection may be provided through grants, contracts, and cooperative agreements. The Secretary, acting through the Director of each national research institute—
 
@@ -118,13 +118,17 @@ In carrying out subsection (b), each Director of a national research institute�
 
 > The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under paragraph (3).
 
-(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063.)
+(July 1, 1944, ch. 373, title IV, §405, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 826; amended Pub. L. 100–607, title I, §116, Nov. 4, 1988, 102 Stat. 3053; Pub. L. 100–690, title II, §2613(c), Nov. 18, 1988, 102 Stat. 4239; Pub. L. 103–43, title III, §301(a)(1), (b), June 10, 1993, 107 Stat. 150; Pub. L. 109–482, title I, §102(f)(1)(B), Jan. 15, 2007, 120 Stat. 3685; Pub. L. 114–255, div. A, title II, §§2033(a), (b), 2036(c), Dec. 13, 2016, 130 Stat. 1057, 1058, 1063; Pub. L. 117–81, div. A, title XVII, §1702(j)(1)(B), Dec. 27, 2021, 135 Stat. 2159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–81 substituted "section 3861" for "section 2354" in concluding provisions.
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–255, §2033(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Director of the National Cancer Institute shall be appointed by the President and the Directors of the other national research institutes shall be appointed by the Secretary. Each Director of a national research institute shall report directly to the Director of NIH.".
 
@@ -147,6 +151,8 @@ Subsec. (c)(3). Pub. L. 100–690 substituted "establish and appoint" and "estab
 Pub. L. 100–607, §116(2)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "may, with the approval of the advisory council for the institute and the Director of NIH, appoint technical and scientific peer review groups in addition to those appointed under section 282(b)(6) of this title."
 
 Subsec. (c)(4). Pub. L. 100–607, §116(2)(C), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

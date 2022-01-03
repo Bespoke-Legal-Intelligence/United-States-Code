@@ -26,7 +26,7 @@
 
 #### (1) Establishment and membership
 
-&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of theFoundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
+&emsp;(A) The Foundation shall have a governing Board of Directors (hereafter referred to in this section as "the Board"), which shall consist of 13 directors, each of whom shall be knowledgeable or experienced in the environment, education and/or training. The Board shall oversee the activities of the Foundation and shall assure that the activities of the Foundation are consistent with the environmental and education goals and policies of the Environmental Protection Agency and with the intents and purposes of this chapter. The membership of the Board, to the extent practicable, shall represent diverse points of view relating to environmental education and training.
 
 &emsp;(B) The Administrator of the Environmental Protection Agency shall, pursuant to paragraph (2), appoint the Director of the Office of Environmental Education established pursuant to section 5502 of this title as an ex-officio member of the Board. Ex officio membership shall also be offered to other Federal agencies or departments with an interest and/or experience in environmental education and training.
 
@@ -54,7 +54,7 @@
 
 #### (6) Reimbursement of expenses
 
-&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation.
+&emsp;Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expensesincurred by them in the performance of the duties of the Foundation.
 
 #### (7) General powers
 
@@ -126,7 +126,7 @@
 
 #### (e) Administrative services and support
 
-Subject to the requirements of this subsection, the Administrator may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses under subsection (b)(6) of this section, not to exceed then current Federal Government per diem rates, for a period of up to 4 years from November 16, 1990, and may accept reimbursement therefor, to be deposited in the Treasury to the credit of the appropriations then current and chargeable for the costs of providing such services. With respect to personnel, the Administrator may provide no more than 1 full-time employee to serve the Foundation in a policy capacity, and may provide clerical and other support staff at a level equivalent to 2 full-time equivalent employees to the Foundation, for a period not to exceed 2 years from the date of initial assignment of any personnel for this purpose.
+Subject to the requirements of this subsection, the Administrator may provide personnel, facilities, and other administrative services to the Foundation, including reimbursement of expenses under subsection (b)(6) of this section, not to exceed then current Federal Government per diem rates, for a period of up to 4 years from November 16, 1990, and may accept reimbursement therefor, to be deposited in the Treasury to the credit of the appropriations then current and chargeable for the costs of providing such services. With respect to personnel,the Administrator may provide no more than 1 full-time employee to serve the Foundation in a policy capacity, and may provide clerical and other support staff at a level equivalent to 2 full-time equivalent employees to the Foundation, for a period not to exceed 2 years from the date of initial assignment of any personnel for this purpose.
 
 #### (f) Omitted
 
@@ -148,11 +148,15 @@ The Congress expressly reserves the right to repeal or amend this section at any
 
 (Pub. L. 101–619, §10, Nov. 16, 1990, 104 Stat. 3335.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (f) of this section, which required the Foundation, as soon as practicable after the end of each fiscal year, to transmit to Congress a report of its proceedings and activities, including a full and complete statement of its receipts, expenditures, and investments, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 183 of House Document No. 103–7.
 
 In subsec. (h), "section 10101 of title 36" substituted for "the Act entitled 'An Act for audit of accounts of private corporations established under Federal law', approved August 30, 1964 (Public Law 88–504; 36 U.S.C. 1101–1103)" and "a corporation in part B of subtitle II of title 36" substituted for "a private corporation established under Federal law" on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

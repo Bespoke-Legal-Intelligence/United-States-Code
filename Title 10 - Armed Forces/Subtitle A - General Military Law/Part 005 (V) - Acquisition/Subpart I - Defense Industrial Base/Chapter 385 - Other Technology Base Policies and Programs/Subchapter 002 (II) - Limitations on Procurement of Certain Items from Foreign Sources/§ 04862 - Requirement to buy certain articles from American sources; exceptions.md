@@ -40,7 +40,7 @@ Exception for Certain Procurements.—Subsection (a) does not apply to the follo
 
 &emsp;(3) Emergency procurements or procurements of perishable foods by, or for, an establishment located outside the United States for the personnel attached to such establishment.
 
-&emsp;(4) Procurements of any item listed in subsection (b)(1)(A) or (b)(2) for which the use of procedures other than competitive procedures has been approved on the basis of section 2304(c)(2) of this title, relating to unusual and compelling urgency of need.
+&emsp;(4) Procurements of any item listed in subsection (b)(1)(A) or (b)(2) for which the use of procedures other than competitive procedures has been approved on the basis of section 3204(a)(2) of this title, relating to unusual and compelling urgency of need.
 
 (e)
 
@@ -86,21 +86,153 @@ Notification Required Within 7
 
 Days After Contract Award If Certain Exceptions Applied.—In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
-(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189, §2533a; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title VIII, §854(a)(1), (3), Dec. 20, 2019, 133 Stat. 1512; renumbered §4862 and amended Pub. L. 116–283, div. A, title VIII, §817, title XVIII, §1870(c)(2), Jan. 1, 2021, 134 Stat. 3751, 4285.)
+(Added Pub. L. 107–107, div. A, title VIII, §832(a)(1), Dec. 28, 2001, 115 Stat. 1189, §2533a; amended Pub. L. 108–136, div. A, title VIII, §§826, 827, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 109–163, div. A, title VIII, §§831, 833, Jan. 6, 2006, 119 Stat. 3388; Pub. L. 109–364, div. A, title VIII, §842(a)(3), Oct. 17, 2006, 120 Stat. 2337; Pub. L. 111–350, §5(b)(38), Jan. 4, 2011, 124 Stat. 3845; Pub. L. 111–383, div. A, title VIII, §847, title X, §1075(b)(38), Jan. 7, 2011, 124 Stat. 4286, 4371; Pub. L. 112–81, div. A, title VIII, §821, Dec. 31, 2011, 125 Stat. 1502; Pub. L. 112–239, div. A, title X, §1076(f)(29), Jan. 2, 2013, 126 Stat. 1953; Pub. L. 115–232, div. A, title VIII, §837(b), Aug. 13, 2018, 132 Stat. 1875; Pub. L. 116–92, div. A, title VIII, §854(a)(1), (3), Dec. 20, 2019, 133 Stat. 1512; renumbered §4862 and amended Pub. L. 116–283, div. A, title VIII, §817, title XVIII, §§1870(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3751, 4285, 4294; Pub. L. 117–81, div. A, title XVII, §1701(d)(17), Dec. 27, 2021, 135 Stat. 2138.)
 
 #### Repeal of Subsection (b)(3) and (4)
 
 <i>Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that, effective Sept. 30, 2023, paragraphs (3) and (4) of subsection (b) of this section are repealed.</i>
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1870(c)(2), renumbered section 2533a of this title as this section.
 
-Subsec. (h). Pub. L. 116–283, §817, amended subsec. (h) generally. Prior to amendment, text read as follows: "Subsection (a) does not apply to purchases foramounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title."
+Subsec. (d)(4). Pub. L. 117–81, which directed substitution of "section 3204(a)(2)" for "section 2304(c)(2)", could not be executed because of the intervening amendment by Pub. L. 116–283, §1883(b)(2). See note below.
+
+Pub. L. 116–283, §1883(b)(2), substituted "section 3204(a)(2)" for "section 2304(c)(2)".
+
+Subsec. (h). Pub. L. 116–283, §817, amended subsec. (h) generally. Prior to amendment, text read as follows: "Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of this title."
+
+<b>2019</b>—Subsec. (b)(3), (4). Pub. L. 116–92, §854(a)(3), struck out pars. (3) and (4) which added stainless steel flatware and dinnerware to the list of covered items.
+
+Pub. L. 116–92, §854(a)(1), added pars. (3) and (4).
+
+<b>2018</b>—Subsec. (i). Pub. L. 115–232 substituted "Products" for "Items" in heading and "commercial products" for "commercial items" in text.
+
+<b>2013</b>—Subsec. (k). Pub. L. 112–239 substituted "FedBizOpps.gov" for "FedBizOps.gov".
+
+<b>2011</b>—Subsec. (b)(1)(C). Pub. L. 112–81 inserted "(and the structural components thereof)" after "tents".
+
+Subsec. (c). Pub. L. 111–383, §847, substituted "subsection (b)" for "subsection (b)(1)".
+
+Subsec. (d)(1), (4). Pub. L. 111–383, §1075(b)(38), substituted "(b)(1)(A) or (b)(2)" for "(b)(1)(A), (b)(2), or (b)(3)".
+
+Subsec. (i). Pub. L. 111–350 substituted "section 1906 of title 41" for "section 34 of the Office of Federal Procurement Policy Act (41 U.S.C. 430)".
+
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–163, §833(b), inserted before semicolon "and the materials and components thereof, other than sensors, electronics, or other items added to, and not normally associated with, clothing (and the materials and components thereof)".
+
+Subsec. (b)(2), (3). Pub. L. 109–364, §842(a)(3)(A), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "Specialty metals, including stainless steel flatware."
+
+Subsec. (c). Pub. L. 109–364, §842(a)(3)(B), struck out "or specialty metals (including stainless steel flatware)" after "subsection (b)(1)".
+
+Subsec. (d)(3). Pub. L. 109–163, §831, inserted ", or for," after "perishable foods by".
+
+Subsec. (e). Pub. L. 109–364, §842(a)(3)(C), struck out "Specialty Metals and" after "Exception for" in heading and "specialty metals or" after "procurement of" in introductory provisions.
+
+Subsec. (k). Pub. L. 109–163, §833(a), added subsec. (k).
+
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §826(1), struck out "Outside the United States" after "Procurements" in heading.
+
+Subsec. (d)(1). Pub. L. 108–136, §826(2), inserted "or procurements of any item listed in subsection (b)(1)(A), (b)(2), or (b)(3) in support of contingency operations" after "combat operations".
+
+Subsec. (d)(4). Pub. L. 108–136, §826(3), added par. (4).
+
+Subsec. (f). Pub. L. 108–136, §827, substituted "
+
+Exceptions for Certain Other Commodities and Items.—Subsection (a) does not preclude the procurement of the following:
+
+&emsp;"(1) Foods"
+
+> for "
+
+Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods", and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
-Amendment by section 1870(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
+
+Amendment by sections 1870(c)(2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2019 Amendment
+
+Pub. L. 116–92, div. A, title VIII, §854(a)(2), Dec. 20, 2019, 133 Stat. 1512, as amended by Pub. L. 116–283, div. A, title XVIII, §1870(c)(5), Jan. 1, 2021, 134 Stat. 4285, provided that: "Paragraphs (3) and (4) of section 4862(b) of title 10, United States Code, as added by paragraph (1), shall apply with respect to contracts entered into on or after the date occurring 1 year after the date of the enactment of this Act \[Dec. 20, 2019\]."
+
+Pub. L. 116–92, div. A, title VIII, §854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that the amendment made by section 854(a)(3) is effective Sept. 30, 2023.
+
+#### Effective Date of 2006 Amendment
+
+Pub. L. 109–364, div. A, title VIII, §842(a)(4)(B), Oct. 17, 2006, 120 Stat. 2337, provided that: "The amendments made by paragraph (3) \[amending this section\] shall take effect on the date occurring 30 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
+
+#### Short Title
+
+This section is popularly known as the "Berry Amendment".
+
+#### Periodic Audits of Contracting Compliance by Inspector General of Department of Defense
+
+Pub. L. 113–66, div. A, title XVI, §1601, Dec. 26, 2013, 127 Stat. 941, provided that:
+
+"(a)
+
+Requirement for Periodic Audits of Contracting Compliance.—The Inspector General of the Department of Defense shall conduct periodic audits of contracting practices and policies related to procurement under section 2533a of title 10, United States Code \[now 10 U.S.C. 4862\].
+
+"(b)
+
+Requirement for Additional Information in Semiannual Reports.—The Inspector General of the Department of Defense shall ensure that findings and other information resulting from audits conducted pursuant to subsection (a) are included in the semiannual report transmitted to congressional committees under section 8(f)(1) of the Inspector General Act of 1978 (5 U.S.C. App.)."
+
+#### Fire Resistant Rayon Fiber
+
+Pub. L. 110–181, div. A, title VIII, §829, Jan. 28, 2008, 122 Stat. 229, as amended by Pub. L. 111–383, div. A, title VIII, §821(a), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 112–81, div. A, title VIII, §822, Dec. 31, 2011, 125 Stat. 1502, provided that:
+
+"(a)
+
+Authority To Procure.—The Secretary of Defense may procure fire resistant rayon fiber for the production of uniforms that is manufactured in a foreign country referred to in subsection (d) if the Secretary determines either of the following:
+
+&emsp;"(1) That fire resistant rayon fiber for the production of uniforms is not available from sources within the national technology and industrial base.
+
+&emsp;"(2) That—
+
+&emsp;&emsp;"(A) procuring fire resistant rayon fiber manufactured from suppliers within the national technology and industrial base would result in sole-source contracts or subcontracts for the supply of fire resistant rayon fiber; and
+
+&emsp;&emsp;"(B) such sole-source contracts or subcontracts would not be in the best interests of the Government or consistent with the objectives of section 2304 of title 10, United States Code \[see 10 U.S.C. 3201 et seq.\].
+
+"(b)
+
+Submission to Congress.—Not later than 30 days after making a determination under subsection (a), the Secretary shall submit to Congress a copy of the determination.
+
+"(c)
+
+Applicability to Subcontracts.—The authority under subsection (a) applies with respect to subcontracts under Department of Defense contracts as well as to such contracts.
+
+"(d)
+
+Foreign Countries Covered.—The authority under subsection (a) applies with respect to a foreign country that—
+
+&emsp;"(1) is a party to a defense memorandum of understanding entered into under section 2531 of title 10, United States Code \[now 10 U.S.C. 4851\]; and
+
+&emsp;"(2) does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
+
+"(e)
+
+National Technology and Industrial Base Defined.—In this section, the term 'national technology and industrial base' has the meaning given that term in section 2500 of title 10, United States Code \[now 10 U.S.C. 4801\]."
+
+#### Training for Defense Acquisition Workforce on the Requirements of the Berry Amendment
+
+Pub. L. 109–163, div. A, title VIII, §832, Jan. 6, 2006, 119 Stat. 3388, provided that:
+
+"(a)
+
+Training During Fiscal Year 2006.—The Secretary of Defense shall ensure that each member of the defense acquisition workforce who participates personally and substantially in the acquisition of textiles on a regular basis receives training during fiscal year 2006 on the requirements of section 2533a of title 10, United States Code \[now 10 U.S.C. 4862\] (commonly referred to as the 'Berry Amendment'), and the regulations implementing that section.
+
+"(b)
+
+Inclusion of Information in New Training Programs.—The Secretary shall ensure that any training program developed or implemented after the date of the enactment of this Act \[Jan. 6, 2006\] for members of the defense acquisition workforce who participate personally and substantially in the acquisition of textiles on a regular basis includes comprehensive information on the requirements described in subsection (a)."
+
+#### Application of Exception to Seafood Products
+
+Pub. L. 108–287, title VIII, §8118, Aug. 5, 2004, 118 Stat. 998, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(4), Dec. 19, 2014, 128 Stat. 3506; Pub. L. 116–283, div. A, title XVIII, §1870(c)(6)(B), Jan. 1, 2021, 134 Stat. 4285, provided that: "Notwithstanding any other provision of law, section 4862(f) of title 10, United States Code, shall hereafter not apply to any fish, shellfish, or seafood product. This section applies to contracts and subcontracts for the procurement of commercial items notwithstanding section 1906 of title 41, United States Code."
 
 <i><sup>1</sup></i><i> See Repeal of Subsection (b)(3) and (4) note below.</i>
 

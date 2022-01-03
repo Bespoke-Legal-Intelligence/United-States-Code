@@ -14,7 +14,7 @@
 
 (c) Not more than 1,000,000 members of the Ready Reserve may be on active duty, without their consent, under this section at any one time.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(61), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §514(b), Oct. 28, 2004, 118 Stat. 1883; Pub. L. 112–81, div. A, title X, §1061(28), (30), Dec. 31, 2011, 125 Stat. 1584.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 28, §673; Pub. L. 85–861, §§1(14), 33(a)(5), Sept. 2, 1958, 72 Stat. 1441, 1564; Pub. L. 93–155, title III, §303(a), Nov. 16, 1973, 87 Stat. 607; renumbered §12302, Pub. L. 103–337, div. A, title XVI, §1662(e)(2), Oct. 5, 1994, 108 Stat. 2992; Pub. L. 104–106, div. A, title XV, §1502(a)(2), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §1031(a)(61), Nov. 24, 2003, 117 Stat. 1603; Pub. L. 108–375, div. A, title V, §514(b), Oct. 28, 2004, 118Stat. 1883; Pub. L. 112–81, div. A, title X, §1061(28), (30), Dec. 31, 2011, 125 Stat. 1584.)
 
 Historical and Revision Notes<br>1956
 
@@ -66,6 +66,8 @@ In subsection (c), the words "on active duty (other than for training)" are subs
 
 The changes are necessary to reflect section 101(b) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 901(b)), which defines the term "active duty" to exclude active duty for training. This definition applied to the source law for these sections \[sections 672 and 673\], section 233(a), (b)(1), and (c) of the Armed Forces Reserve Act of 1952 (50 U.S.C. 961(a), (b)(1), (c)).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (b). Pub. L. 112–81, in concluding provisions, struck out at end "He shall report on those policies and procedures at least once a year to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
@@ -86,6 +88,8 @@ The changes are necessary to reflect section 101(b) of the Armed Forces Reserve 
 
 Subsec. (c). Pub. L. 85–861, §1(14)(B), added subsec. (c).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1973 Amendment
 
 Pub. L. 93–155, title III, §303(b), Nov. 16, 1973, 87 Stat. 608, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall be effective with respect to any unit of the Ready Reserve ordered to active duty on or after the date of enactment of this Act \[Nov. 16, 1973\]."
@@ -93,6 +97,8 @@ Pub. L. 93–155, title III, §303(b), Nov. 16, 1973, 87 Stat. 608, provided tha
 #### Effective Date of 1958 Amendment
 
 Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under section 101 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12743
 
@@ -110,7 +116,7 @@ Sec. 2. To allow for the orderly administration of personnel within the armed fo
 
 Sec. 3. To allow for the orderly administration of personnel within the armed forces, the authorities vested in the President by sections 331, 359, and 367 \[now 2127, 2308, and 2314\] of title 14, United States Code, relating to the authority to order to active duty certain officers and enlisted members of the Coast Guard and to detain enlisted members, are invoked to the full extent provided by the terms thereof.
 
-Sec. 4. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, orother action by the President, to exercise the authority vested in the President by sections 123, 123a, 527, and 12006 of title 10, United States Code, as invoked by sections 2 and 3 of this order.
+Sec. 4. The Secretary of Defense is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in the President by sections 123, 123a, 527, and 12006 of title 10, United States Code, as invoked by sections 2 and 3 of this order.
 
 Sec. 5. The Secretary of Homeland Security is hereby designated and empowered, without the approval, ratification, or other action by the President, to exercise the authority vested in sections 331, 359, and 367 \[now 2127, 2308, and 2314\] of title 14, United States Code, when the Coast Guard is not serving as part of the Navy, as invoked by section 2 of this order, to recall any regular officer or enlisted member on the retired list to active duty and to detain any enlisted member beyond the term of his or her enlistment. The Secretary of Homeland Security is further designated and empowered, without the approval, ratification or any other action by the President, to exercise the authority vested in the President by sections 123 and 123a of title 10, United States Code, and sections 149 \[now 710\] (detail members to assist foreign governments), 275(a) \[now 2125(a)\] (suspension of provisions on selection, promotion, or involuntary separation of officers), and 722 \[now 3733\] (administration of reserve forces) of title 14, United States Code, as invoked by section 2 of Executive Order 13223.
 

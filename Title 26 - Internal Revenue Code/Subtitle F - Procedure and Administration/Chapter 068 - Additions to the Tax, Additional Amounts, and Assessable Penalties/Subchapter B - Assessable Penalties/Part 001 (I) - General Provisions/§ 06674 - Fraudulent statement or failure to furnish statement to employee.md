@@ -4,9 +4,13 @@ In addition to the criminal penalty provided by section 7204, any person require
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 828; Pub. L. 89–97, title III, §313(e)(2)(C), July 30, 1965, 79 Stat. 385.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1965</b>—Pub. L. 89–97 substituted "6051 or 6053(b)" for "6051" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1965 Amendment
 

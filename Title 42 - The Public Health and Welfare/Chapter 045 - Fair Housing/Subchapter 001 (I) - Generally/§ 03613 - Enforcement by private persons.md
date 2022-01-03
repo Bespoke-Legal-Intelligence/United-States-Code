@@ -30,13 +30,17 @@ Relief granted under this section shall not affect any contract, sale, encumbran
 
 #### (e) Intervention by Attorney General
 
-Upon timely application, the Attorney General may intervene in such civil action, if the Attorney General certifies that the case is of general public importance. Upon such intervention the Attorney General may obtain such relief as would be available to the Attorney General under section 3614(e) of this title in a civil action to which such section applies.
+Upon timely application, the Attorney General may intervene in such civil action, if theAttorney General certifies that the case is of general public importance. Upon such intervention the Attorney General may obtain such relief as would be available to the Attorney General under section 3614(e) of this title in a civil action to which such section applies.
 
 (Pub. L. 90–284, title VIII, §813, as added Pub. L. 100–430, §8(2), Sept. 13, 1988, 102 Stat. 1633.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
 A prior section 3613, Pub. L. 90–284, title VIII, §813, Apr. 11, 1968, 82 Stat. 88, related to enforcement by Attorney General by bringing civil action requesting preventive relief, prior to repeal by Pub. L. 100–430, §8(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

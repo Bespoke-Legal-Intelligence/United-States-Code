@@ -16,7 +16,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 (1) Notwithstanding subsections (a) through (c), and subject to subsection (h), if the amount of an award under this section for a part B institution, based on the data provided by the part B institution and the formula under subsections (a) through (c), would be—
 
-&emsp;(A) an amount that is greater than $250,000 but less than $500,000, the Secretary shall award the part B institution an allotment in the amount of $500,000; and
+&emsp;(A) an amount that is greater than $250,000 but less than $500,000, the Secretary shallaward the part B institution an allotment in the amount of $500,000; and
 
 &emsp;(B) an amount that is equal to or less than $250,000, the Secretary shall award the part B institution an allotment in the amount of $250,000.
 
@@ -24,7 +24,7 @@ From the amounts appropriated to carry out this part for any fiscal year, the Se
 
 #### (e) Reallotment
 
-The amount of any part B institution's allotment under subsection (a), (b), (c), or (d) for any fiscal year which the Secretary determines willnot be required for such institution for the period such allotment is available shall be available for reallotment from time to time on such date during such period as the Secretary may determine to other part B institutions in proportion to the original allotment to such other institutions under this section for such fiscal year.
+The amount of any part B institution's allotment under subsection (a), (b), (c), or (d) for any fiscal year which the Secretary determines will not be required for such institution for the period such allotment is available shall be available for reallotment from time to time on such date during such period as the Secretary may determine to other part B institutions in proportion to the original allotment to such other institutions under this section for such fiscal year.
 
 #### (f) Special merger rule
 
@@ -60,6 +60,8 @@ In any fiscal year that the Secretary determines that Howard University or the U
 
 (Pub. L. 89–329, title III, §324, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1296; amended Pub. L. 99–509, title VII, §7007, Oct. 21, 1986, 100 Stat. 1950; Pub. L. 102–325, title III, §303(c), (d), July 23, 1992, 106 Stat. 475; Pub. L. 105–33, title XI, §11717(b), Aug. 5, 1997, 111 Stat. 786; Pub. L. 110–315, title III, §310, Aug. 14, 2008, 122 Stat. 3177; Pub. L. 111–39, title III, §301(4), July 1, 2009, 123 Stat. 1937.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Act of March 2, 1867, referred to in subsec. (g), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
@@ -74,7 +76,7 @@ Another prior section 1063, Pub. L. 89–329, title IV, §403, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+<b>2009</b>—Subsec. (d). Pub. L. 111–39 designated existing provisions as par. (1), redesignated former pars. (1) and\(2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–315, §310(a), amended subsec. (d) generally. Prior to amendment, text read as follows:
 
@@ -97,6 +99,8 @@ Subsec. (d). Pub. L. 99–509, §7007(1), (2), added subsec. (d). Former subsec.
 Subsec. (e). Pub. L. 99–509, §7007(1), (3), redesignated former subsec. (d) as (e), and substituted "subsection (a), (b), (c), or (d)" for "subsection (a), (b), or (c)". Former subsec. (e) redesignated (f).
 
 Subsecs. (f), (g). Pub. L. 99–509, §7007(1), redesignated subsecs. (e) and (f) as (f) and (g), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Persons entitled to appeal; United States Court of Appeals for the Federal Circuit; waiver of civil action; election of civil action by adverse party; procedure
 
-(1) An applicant for registration of a mark, party to an interference proceeding, party to an opposition proceeding, party to an application to register as a lawful concurrent user, party to a cancellation proceeding, a registrant who has filed an affidavit as provided in section 1058 of this title or section 1141k of this title, or an applicant for renewal, who is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, may appeal to the United States Court of Appeals for the Federal Circuit thereby waiving his right to proceed under subsection (b) of this section: <i>Provided</i>, That such appeal shall be dismissed if any adverse party to the proceeding, other than the Director, shall, within twenty days after the appellant has filed notice of appeal according to paragraph (2) of this subsection, files notice with the Director that he elects to have all further proceedings conducted as provided in subsection (b) of this section. Thereupon the appellant shall have thirty days thereafter within which to file a civil action under subsection (b) of this section, in default of which the decision appealed from shall govern the further proceedings in the case.
+(1) An applicant for registration of a mark, party to an interference proceeding, party to an opposition proceeding, party to an application to register as a lawful concurrent user, party to a cancellation proceeding, a registrant who has filed an affidavit as provided in section 1058 of this title or section 1141k of this title, an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding, who is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, may appeal to the United States Court of Appeals for the Federal Circuit thereby waiving his right to proceed under subsection (b) of this section: <i>Provided</i>, That such appeal shall be dismissed if any adverse party to the proceeding, other than the Director, shall, within twenty days after the appellant has filed notice of appeal according to paragraph (2) of this subsection, files notice with the Director that he elects to have all further proceedings conducted as provided in subsection (b) of this section. Thereupon the appellant shall have thirty days thereafter within which to file acivil action under subsection (b) of this section, in default of which the decision appealed from shall govern the further proceedings in the case.
 
 (2) When an appeal is taken to the United States Court of Appeals for the Federal Circuit, the appellant shall file in the United States Patent and Trademark Office a written notice of appeal directed to the Director, within such time after the date of the decision from which the appeal is taken as the Director prescribes, but in no case less than 60 days after that date.
 
@@ -12,7 +12,7 @@
 
 #### (b) Civil action; persons entitled to; jurisdiction of court; status of Director; procedure
 
-(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
+(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding, is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
 (2) The Director shall not be made a party to an inter partes proceeding under this subsection, but he shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
 
@@ -22,15 +22,7 @@
 
 (July 5, 1946, ch. 540, title I, §21, 60 Stat. 435; July 19, 1952, ch. 950, §2, 66 Stat. 814; Pub. L. 85–609, §1(c), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §12, Oct. 9, 1962, 76 Stat. 771; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–600, §2, Jan. 2, 1975, 88 Stat. 1955; Pub. L. 97–164, title I, §162(1), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(b), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 100–667, title I, §120, Nov. 16, 1988, 102 Stat. 3942; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 111–146, §3(c), Mar. 17, 2010, 124 Stat. 67; Pub. L. 112–29, §9(a), Sept. 16, 2011, 125 Stat. 316; Pub. L. 116–260, div. Q, title II, §225(d)(2), Dec. 27, 2020, 134 Stat. 2207.)
 
-#### Amendment of Subsections (a)(1) and (b)(1)
-
-<i>Pub. L. 116–260, div. Q, title II, §225(d)(2), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:</i>
-
-<i>(1) in subsection (a)(1), by striking "or an applicant for renewal" and inserting "an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding"; and</i>
-
-<i>(2) in subsection (b)(1), by inserting ", except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding," before "is dissatisfied".</i>
-
-<i>See 2020 Amendment notes below.</i>
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -70,7 +62,7 @@ Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. P
 
 Subsec. (a)(3). Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office for provisions which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant, and any additional papers and evidence specified by the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
-Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent andTrademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
+Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent and Trademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
 
 <b>1982</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 97–164 substituted "United States Court of Appeals for the Federal Circuit" for "United States Court of Customs and Patent Appeals" and "Court of Customs and Patent Appeals" wherever appearing.
 
@@ -91,6 +83,8 @@ Subsec. (b)(3), (4). Pub. L. 93–596 substituted "Patent and Trademark Office" 
 <b>1958</b>—Pub. L. 85–609 authorized appeals by persons dissatisfied with the decision of the Trademark Trial and Appeal Board, and substituted "Trademark Trial and Appeal Board" for "Commissioner" in proviso.
 
 <b>1952</b>—Act July 19, 1952, substituted references to new title 35 for repealed section of title 35.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 
@@ -130,11 +124,13 @@ For effective date and applicability of amendment by Pub. L. 85–609, see secti
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Reorganization Plan No. 5 of 1950
 
 Amendment by Pub. L. 85–609 as subject to Reorganization Plan No. 5 of 1950, see note set out under section 1067 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

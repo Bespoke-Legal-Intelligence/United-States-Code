@@ -14,7 +14,7 @@ Department of State.—Section 6101 of this title does not apply to the Departme
 
 (d)
 
-International Committee of Aerial Legal Experts.—Section 6101 of this title does not apply to the International Committee of Aerial Legal Experts with respect to necessary stenographic and other services by contract.
+International Committee of Aerial Legal Experts.—Section 6101 of this title does not apply to the International Committee ofAerial Legal Experts with respect to necessary stenographic and other services by contract.
 
 (e)
 

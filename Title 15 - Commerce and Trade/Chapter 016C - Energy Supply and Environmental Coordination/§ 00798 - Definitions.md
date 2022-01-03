@@ -2,9 +2,11 @@
 
 (a) For purposes of this chapter and the Clean Air Act \[42 U.S.C. 7401 et seq.\] the term "Federal Energy Administrator" means the Administrator of the Federal Energy Administration established by Federal Energy Administration Act of 1974 \[15 U.S.C. 761 et seq.\]; except that until such Administrator takes office and after such Administration ceases to exist, such term means any officer of the United States designated as Federal Energy Administrator by the President for purposes of this chapter and section 119 <sup>1</sup> of the Clean Air Act \[42 U.S.C. 1857c–10\].
 
-(b) For purposes of this chapter, the term "petroleum product" means crude oil, residual fueloil, or any refined petroleum product (as defined in section 752(5) <sup>1</sup> of this title).
+(b) For purposes of this chapter, the term "petroleum product" means crude oil, residual fuel oil, or any refined petroleum product (as defined in section 752(5) <sup>1</sup> of this title).
 
 (Pub. L. 93–319, §14, June 22, 1974, 88 Stat. 265.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -17,6 +19,8 @@ Section 119 of the Clean Air Act \[42 U.S.C. 1857c–10\], referred to in subsec
 The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended, which is classified generally to chapter 16B (§761 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 761 of this title and Tables.
 
 Section 752 of this title, referred to in subsec. (b), was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

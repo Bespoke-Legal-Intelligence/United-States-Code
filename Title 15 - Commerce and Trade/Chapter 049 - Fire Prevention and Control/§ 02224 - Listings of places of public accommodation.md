@@ -16,6 +16,8 @@
 
 (Pub. L. 93–498, §28, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 747; amended Pub. L. 102–522, title I, §104, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 112–239, div. A, title XVIII, §1802(b)(1), Jan. 2, 2013, 126 Stat. 2100.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 112–239 substituted "Administrator of FEMA" for "Director" wherever appearing.
@@ -23,6 +25,8 @@ Pub. L. 112–239 substituted "Administrator of FEMA" for "Director" wherever ap
 <b>1992</b>—Pub. L. 102–522, §104(1), struck out "certified" before "places" in section catchline.
 
 Subsec. (a). Pub. L. 102–522, §104(2), inserted "(acting through its Governor or the Governor's designee)" after "each State" in pars. (1) and (2) and struck out "the Governor of the State or his designee certifies" after "in the State which" in par. (1).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

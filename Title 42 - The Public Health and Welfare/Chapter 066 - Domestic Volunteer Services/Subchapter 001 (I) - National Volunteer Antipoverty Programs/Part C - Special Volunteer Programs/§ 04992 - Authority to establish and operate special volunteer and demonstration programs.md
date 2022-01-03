@@ -10,9 +10,11 @@ The assignment of volunteers under this section, and the provision of support fo
 
 #### (c) Criteria and priorities
 
-In carrying out this section and section 4993 of this title, the Director shall establish criteria and priorities for awarding grants and entering into contracts under this part in each fiscalyear. No grant or contract exceeding $100,000 shall be made under this part unless the recipient of the grant or contractor has been selected by a competitive process that includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
+In carrying out this section and section 4993 of this title, the Director shall establish criteria and priorities for awarding grants and entering into contracts under this part in each fiscal year. No grant or contract exceeding $100,000 shall be made under this part unless the recipient of the grant or contractor has been selected by a competitive process that includes public announcement of the availability of funds for such grant or contract, general criteria for the selection of recipients or contractors, and a description of the application process and application review process.
 
 (Pub. L. 93–113, title I, §122, Oct. 1, 1973, 87 Stat. 401; Pub. L. 94–293, §3(a), May 27, 1976, 90 Stat. 525; Pub. L. 96–143, §7(a)–(c), Dec. 13, 1979, 93 Stat. 1075, 1076; Pub. L. 98–288, §§12, 30(b)(2), May 21, 1984, 98 Stat. 192, 197; Pub. L. 99–551, §§6(a), 10(d), (i)(4), Oct. 27, 1986, 100 Stat. 3074, 3077, 3078; Pub. L. 101–204, title III, §301, Dec. 7, 1989, 103 Stat. 1813; Pub. L. 103–82, title III, §331, Sept. 21, 1993, 107 Stat. 903.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -30,11 +32,13 @@ Subsec. (b). Pub. L. 99–551, §10(i)(4), substituted "the Director" for "he" b
 
 Subsec. (d). Pub. L. 98–288, §12, added subsec. (d).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted "in urban and rural areas" after "volunteer programs" and ", a program of assistance to victims of domestic violence, a program to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program" after "drug abusers", inserted provisions authorizing the Director to provide for the recruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
+<b>1979</b>—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted "in urban and rural areas" after "volunteer programs" and ", a program of assistance to victims of domestic violence, aprogram to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program" after "drug abusers", inserted provisions authorizing the Director to provide for the recruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
 
 Subsec. (c). Pub. L. 96–143, §7(c), inserted provisions permitting support payments to part-time volunteers enrolled for at least 20 hours of service per week for at least 26 consecutive weeks and provisions applying sections 4953(b), (d), 4954(d), and 4955(a) of this title to full-time full-year volunteers whose service is similar in character to that of VISTA volunteers.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–293 inserted provision authorizing the Director to undertake and support volunteer service programs, and recruit, etc., volunteers to carry out this part.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 
@@ -47,6 +51,8 @@ Amendment by Pub. L. 99–551 effective Oct. 1, 1986, except as otherwise provid
 #### Report on Programs, Activities, Grants, and Contracts Resulting From Amendment by Section 7 of Pub. L. 96–143
 
 Pub. L. 96–143, §7(d), Dec. 13, 1979, 93 Stat. 1076, directed Director of ACTION Agency, not later than 18 months after funds were first made available to carry out activities under the amendments to this part made by section 7 of Pub. L. 96–143, to submit to appropriate committees of Congress a report on programs, activities, grants, and contracts so carried out.
+
+#### <b>Executive Documents</b>
 
 #### Executive Order No. 12034
 

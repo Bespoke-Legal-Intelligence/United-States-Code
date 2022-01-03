@@ -134,7 +134,7 @@ Unless exempted by the Commission pursuant to subsection (c) or by subsection (e
 
 > Any exemption pursuant to this paragraph shall be subject to such terms and conditions as the Commission shall determine to be appropriate pursuant to paragraph (1).
 
-(6) If the Commission determines that the exemption would be consistent with the public interest and the purposes of this chapter, the Commission shall, in accordance with paragraphs (1) and (2), exempt from the requirements of this chapter an agreement, contract, or transaction that is entered into—
+(6) If the Commission determines that the exemption would be consistent with the public interest and the purposes of this chapter, the Commission shall, in accordance with paragraphs (1) and (2), exempt from the requirements of thischapter an agreement, contract, or transaction that is entered into—
 
 &emsp;(A) pursuant to a tariff or rate schedule approved or permitted to take effect by the Federal Energy Regulatory Commission;
 
@@ -168,6 +168,8 @@ The granting of an exemption under this section shall not affect the authority o
 
 (Sept. 21, 1922, ch. 369, §4, 42 Stat. 999; June 15, 1936, ch. 545, §§2, 4, 49 Stat. 1491, 1492; Pub. L. 93–463, title I, §103(a), (f), Oct. 23, 1974, 88 Stat. 1392; Pub. L. 97–444, title II, §204, Jan. 11, 1983, 96 Stat. 2299; Pub. L. 102–546, title V, §502(a), Oct. 28, 1992, 106 Stat. 3629; Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–406; Pub. L. 111–203, title VII, §§721(d), 722(f), 738(a), (b), July 21, 2010, 124 Stat. 1671, 1674, 1726, 1728.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subtitle A of the Wall Street Transparency and Accountability Act of 2010, referred to in subsec. (c)(1)(A), is subtitle A (§§721–754) of title VII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1641. For complete classification of subtitle A to the Code, see Tables.
@@ -196,7 +198,7 @@ Subsec. (c)(6). Pub. L. 111–203, §722(f), added par. (6).
 
 Subsec. (e). Pub. L. 111–203, §738(b)(2), added subsec. (e).
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(3)(A)(i)\], substituted "designated or registered by the Commission as a contract market or derivatives transaction execution facility for" for "designated by the Commission as a 'contract market' for".
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(3)(A)(i)\], substituted "designated or registered by the Commission as a contract market or derivativestransaction execution facility for" for "designated by the Commission as a 'contract market' for".
 
 Subsec. (a)(2). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(3)(A)(ii)\], struck out "member of such" after "by or through a".
 
@@ -217,6 +219,8 @@ Subsecs. (c), (d). Pub. L. 102–546, §502(a)(2), added subsecs. (c) and (d).
 <b>1936</b>—Act June 15, 1936, §2, substituted "commodity" for "grain" wherever appearing.
 
 Act June 15, 1936, §4, struck out par. (a) and combined par. (b) with first par.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -62,6 +62,8 @@ As used in this section—
 
 (Pub. L. 95–313, §10, formerly §7, July 1, 1978, 92 Stat. 370; renumbered §10 and amended Pub. L. 101–624, title XII, §§1215(1), 1220, Nov. 28, 1990, 104 Stat. 3525, 3539; Pub. L. 102–237, title X, §1018(a)(4), Dec. 13, 1991, 105 Stat. 1905.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
@@ -70,7 +72,7 @@ Section 1926(a)(7) of title 7, referred to in subsec. (b)(3), was repealed by Pu
 
 #### Codification
 
-In subsec. (c), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350,§6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -86,11 +88,17 @@ Subsec. (e). Pub. L. 101–624, §1220(b), designated existing provisions as par
 
 Subsec. (g). Pub. L. 101–624, §1220(c), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
 
 Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 

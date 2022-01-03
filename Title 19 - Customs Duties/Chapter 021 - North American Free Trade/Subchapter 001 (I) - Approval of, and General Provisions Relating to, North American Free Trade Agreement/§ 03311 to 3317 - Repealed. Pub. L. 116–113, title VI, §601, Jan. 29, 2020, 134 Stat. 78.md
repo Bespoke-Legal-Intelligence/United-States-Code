@@ -14,6 +14,8 @@ Section 3316, Pub. L. 103–182, title I, §106, Dec. 8, 1993, 107 Stat. 2065, r
 
 Section 3317, Pub. L. 103–182, title I, §108, Dec. 8, 1993, 107 Stat. 2066, related to congressional intent regarding future accessions with respect to countries other than Canada and Mexico.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of Repeal
 
 Repeal effective on the date on which the USMCA entered into force (July 1, 2020), see section 601 of Pub. L. 116–113, set out as a note under former section 3301 of this title.
@@ -21,6 +23,8 @@ Repeal effective on the date on which the USMCA entered into force (July 1, 2020
 #### Effective Date; Termination of NAFTA Status
 
 Pub. L. 103–182, title I, §109, Dec. 8, 1993, 107 Stat. 2067, which provided that title I of Pub. L. 103–182 (except for section 107) would take effect on Dec. 8, 1993, and terminated the effect of sections 101 through 106 of Pub. L. 103–182 with respect to a country ceasing to be a NAFTA country, was repealed by Pub. L. 116–113, title VI, §601, Jan. 29, 2020, 134 Stat. 78, effective on the date the USMCA entered into force (July 1, 2020).
+
+#### <b>Executive Documents</b>
 
 #### North American Free Trade Agreement: Entry Into Force
 
@@ -40,7 +44,7 @@ Sec. 3. <i>Implementation of Safeguard Provisions for Textile and Apparel Goods<
 
 Sec. 4. <i>Publication of Proposed Rules regarding Technical Regulations and Sanitary and Phytosanitary Measures</i>. (a) In accordance with Articles 718 and 909 of the NAFTA, each agency subject to the provisions of the Administrative Procedure Act, as amended (5 U.S.C. 551 <i>et seq</i>.), shall, in applying section 553 of title 5, United States Code, with respect to any proposed Federal technical regulation or any Federal sanitary or phytosanitary measure of general application, other than a regulation issued pursuant to section 104(a) of the NAFTA Implementation Act \[former 19 U.S.C. 3314(a)\], publish or serve notice of such regulation or measure not less than 75 days before the comment due date, except:
 
-&emsp;(1) in the case of a technical regulation relating to perishable goods, in which case the agency shall, to the greatest extent practicable, publish or serve notice at least 30 days prior to adoption of such regulation;
+&emsp;(1) in the case of a technical regulation relating to perishable goods, in which case the agency shall, tothe greatest extent practicable, publish or serve notice at least 30 days prior to adoption of such regulation;
 
 &emsp;(2) in the case of a technical regulation, where the United States considers it necessary to address an urgent problem relating to safety or to protection of human, animal or plant life or health, the environment or consumers; or
 

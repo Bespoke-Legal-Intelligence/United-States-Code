@@ -10,11 +10,11 @@
 
 (3) The rules prescribed by the Commission under this subsection shall provide for the oversight by the Commission of the adoption of standards by industry for blocking technology. Such rules shall require that all such apparatus be able to receive the rating signals which have been transmitted by way of line 21 of the vertical blanking interval and which conform to the signal and blocking specifications established by industry under the supervision of the Commission.
 
-(4) As new video technology is developed, the Commission shall take such action as the Commission determines appropriate to ensure that blocking service continues to be available to consumers. If the Commission determines that an alternative blocking technology exists that—
+(4) As new video technology is developed, the Commission shall take such action as the Commission determines appropriate to ensure that blocking service continues to be available toconsumers. If the Commission determines that an alternative blocking technology exists that—
 
 &emsp;(A) enables parents to block programming based on identifying programs without ratings,
 
-&emsp;(B) is available to consumers at a cost which is comparable to the cost of technology thatallows parents to block programming based on common ratings, and
+&emsp;(B) is available to consumers at a cost which is comparable to the cost of technology that allows parents to block programming based on common ratings, and
 
 &emsp;(C) will allow parents to block a broad range of programs on a multichannel system as effectively and as easily as technology that allows parents to block programming based on common ratings,
 

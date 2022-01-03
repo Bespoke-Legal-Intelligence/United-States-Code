@@ -108,7 +108,7 @@
 
 &emsp;&emsp;&emsp;(iv) loans secured by a deposit or share of a member,
 
-&emsp;&emsp;&emsp;(v) loans (including redeemable ground rents, as defined in section 1055) secured by an interest in real property which is (or, from the proceeds of the loan, will become) residential real property or real property used primarily for church purposes, loans made for the improvement of residential real property or real property used primarily for church purposes, provided that for purposes of this clause, residential real property shall include single or multifamily dwellings, facilities in residential developments dedicated to public use or property used on a nonprofit basis for residents, and mobile homes not used on a transient basis,
+&emsp;&emsp;&emsp;(v) loans (including redeemable ground rents, as defined in section 1055) secured by an interest in real property which is (or, from the proceeds of the loan, will become) residential real property or real property used primarily for church purposes, loans made for the improvement of residentialreal property or real property used primarily for church purposes, provided that for purposes of this clause, residential real property shall include single or multifamily dwellings, facilities in residential developments dedicated to public use or property used on a nonprofit basis for residents, and mobile homes not used on a transient basis,
 
 &emsp;&emsp;&emsp;(vi) loans secured by an interest in real property located within an urban renewal area to be developed for predominantly residential use under an urban renewal plan approved by the Secretary of Housing and Urban Development under part A or part B of title I of the Housing Act of 1949, as amended, or located within any area covered by a program eligible for assistance under section 103 of the Demonstration Cities and Metropolitan Development Act of 1966, as amended, and loans made for the improvement of any such real property,
 
@@ -158,7 +158,7 @@
 
 #### (28) Other terms
 
-&emsp;Any term used in this subtitle with respect to the application of, or in connection with, the provisions of any other subtitle of this title shall have the same meaning as in such provisions.
+&emsp;Any term used in this subtitle with respect to the application of, or in connection with,the provisions of any other subtitle of this title shall have the same meaning as in such provisions.
 
 #### (29) Internal Revenue Code
 
@@ -228,7 +228,7 @@
 
 &emsp;&emsp;(G) A rail carrier subject to part A of subtitle IV of title 49, if (i) substantially all of its railroad properties have been leased to another such railroad corporation or corporations by an agreement or agreements entered into before January 1, 1954, (ii) each lease is for a term of more than 20 years, and (iii) at least 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from such leases and from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, an agreement for lease of railroad properties entered into before January 1, 1954, shall be considered to be a lease including such term as the total number of years of such agreement may, unless sooner terminated, be renewed or continued under the terms of the agreement, and any such renewal or continuance under such agreement shall be considered part of the lease entered into before January 1, 1954.
 
-&emsp;&emsp;(H) A common parent corporation which is a common carrier by railroad subject to part A of subtitle IV of title 49 if at least 80 percent of its gross income (computed without regard to capital gains or losses) is derived directly or indirectly from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, dividends and interest, and income from leases described in subparagraph (G), received from a regulated public utility shall be considered as derived from sources described in subparagraphs (A) through (F), inclusive, if the regulated public utility is a member of an affiliated group (as defined in section 1504) which includes the common parent corporation.
+&emsp;&emsp;(H) A common parent corporation which is a common carrier by railroad subject to part A of subtitle IV of title 49 if at least 80 percent of its gross income (computed without regard to capital gains or losses) is deriveddirectly or indirectly from sources described in subparagraphs (A) through (F), inclusive. For purposes of the preceding sentence, dividends and interest, and income from leases described in subparagraph (G), received from a regulated public utility shall be considered as derived from sources described in subparagraphs (A) through (F), inclusive, if the regulated public utility is a member of an affiliated group (as defined in section 1504) which includes the common parent corporation.
 
 > &emsp;The term "regulated public utility" does not (except as provided in subparagraphs (G) and (H)) include a corporation described in subparagraphs (A) through (F), inclusive, unless 80 percent or more of its gross income (computed without regard to dividends and capital gains and losses) for the taxable year is derived from sources described in subparagraphs (A) through (F), inclusive. If the taxpayer establishes to the satisfaction of the Secretary that (i) its revenue from regulated rates described in subparagraph (A) or (D) and its revenue derived from unregulated rates are derived from the operation of a single interconnected and coordinated system or from the operation of more than one such system, and (ii) the unregulated rates have been and are substantially as favorable to users and consumers as are the regulated rates, then such revenue from such unregulated rates shall be considered, for purposes of the preceding sentence, as income derived from sources described in subparagraph (A) or (D).
 
@@ -304,7 +304,7 @@
 
 #### (44) Exchanged basis property
 
-&emsp;The term "exchanged basis property" means property having a basis determined under any provision of subtitle A (or under any corresponding provision of prior income tax law) providing that the basis shall be determined in whole or in part by reference to other property held at any time by the person for whom the basis is to be determined.
+&emsp;The term "exchanged basis property" means property having a basis determined under anyprovision of subtitle A (or under any corresponding provision of prior income tax law) providing that the basis shall be determined in whole or in part by reference to other property held at any time by the person for whom the basis is to be determined.
 
 #### (45) Nonrecognition transaction
 
@@ -574,7 +574,7 @@
 
 #### (B) Commuters from Canada or Mexico
 
-&emsp;&emsp;If an individual regularly commutes to employment (or self-employment) in the United States from a place of residence in Canada or Mexico, such individual shall notbe treated as present in the United States on any day during which he so commutes.
+&emsp;&emsp;If an individual regularly commutes to employment (or self-employment) in the United States from a place of residence in Canada or Mexico, such individual shall not be treated as present in the United States on any day during which he so commutes.
 
 #### (C) Transit between 2 foreign points
 
@@ -742,7 +742,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (g) Clarification of fair market value in the case of nonrecourse indebtedness
 
-For purposes of subtitle A, in determining the amount of gain or loss (or deemed gain or loss) with respect to any property, the fair market value of such property shall be treated as beingnot less than the amount of any nonrecourse indebtedness to which such property is subject.
+For purposes of subtitle A, in determining the amount of gain or loss (or deemed gain or loss) with respect to any property, the fair market value of such property shall be treated as being not less than the amount of any nonrecourse indebtedness to which such property is subject.
 
 #### (h) Motor vehicle operating leases
 
@@ -884,7 +884,7 @@ Any designation by the Commodity Futures Trading Commission of a contract market
 
 #### (n) Convention or association of churches
 
-For purposes of this title, any organization which is otherwise a convention or association of churches shall not fail to so qualify merely because the membership of such organization includes individuals as well as churches or because individuals have voting rights in such organization.
+For purposes of this title, any organization which is otherwise a convention or association of churches shall not fail to so qualify merely because the membership of such organization includes individuals as well as churches or becauseindividuals have voting rights in such organization.
 
 #### (o) Clarification of economic substance doctrine
 
@@ -962,7 +962,9 @@ For purposes of this title, any organization which is otherwise a convention or 
 
 &emsp;&emsp;<b>For effect of cross references in this title, see section 7806(a).</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22, 1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I,§1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055; Pub. L. 115–97, title I, §§11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, 131 Stat. 2090, 2125; Pub. L. 115–141, div. U, title IV, §401(a)(331), (332), (b)(54), (55), Mar. 23, 2018, 132 Stat. 1200, 1205.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 911; Pub. L. 86–70, §22(g), (h), June 25, 1959, 73 Stat. 146; Pub. L. 86–624, §18(i), (j), July 12, 1960, 74 Stat. 416; Pub. L. 86–778, title I, §103(t), Sept. 13, 1960, 74 Stat. 941; Pub. L. 87–834, §§6(c), 7(h), Oct. 16, 1962, 76 Stat. 982, 988; Pub. L. 87–870, §5(a), Oct. 23, 1962, 76 Stat. 1161; Pub. L. 88–272, title II, §§204(a)(3), 234(b)(3), Feb. 26, 1964, 78 Stat. 36, 114; Pub. L. 89–368, title I, §102(b)(5), Mar. 15, 1966, 80 Stat. 64; Pub. L. 89–809, title I, §103(l)(1), Nov. 13, 1966, 80 Stat. 1554; Pub. L. 90–364, title I, §103(e)(6), June 28, 1968, 82 Stat. 264; Pub. L. 91–172, title IV, §432(c), (d), title IX, §960(j), Dec. 30, 1969, 83 Stat. 622, 623, 735; Pub. L. 92–606, §1(f)(4), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 93–406, title III, §3043, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 94–455, title XII, §1203(a), title XIX, §1906(a)(57), (b)(13)(A), (c)(3), Oct. 4, 1976, 90 Stat. 1688, 1832, 1834, 1835; Pub. L. 95–600, title I, §157(k)(2), title VII, §701(cc)(2), Nov. 6, 1978, 92 Stat. 2809, 2923; Pub. L. 97–34, title VII, §725(c)(4), Aug. 13, 1981, 95 Stat. 346; Pub. L. 97–248, title II, §201(d)(10), formerly §201(c)(10), title III, §§307(a)(17), 308(a), 336(a), Sept. 3, 1982, 96 Stat. 421, 590, 591, 628, renumbered §201(d)(10) and amended Pub. L. 97–448, title III, §306(a)(1)(A)(i), (b)(3), Jan. 12, 1983, 96 Stat. 2400, 2406; Pub. L. 97–449, §5(e), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 97–473, title II, §203, Jan. 14, 1983, 96 Stat. 2611; Pub. L. 98–67, title I, §§102(a), 104(d)(1), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–216, §3(c)(2), Feb. 14, 1984, 98 Stat. 6; Pub. L. 98–369, div. A, title I, §§31(e), 43(a)(1), 53(c), 75(c), 138(a), title IV, §§412(b)(11), 422(d)(3), 474(r)(29)(K), 491(d)(53), title V, §526(c)(1), July 18, 1984, 98 Stat. 518, 558, 567, 595, 672, 792, 798, 845, 852, 874; Pub. L. 98–443, §9(q), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–514, title II, §201(c), (d)(14), title VI, §§671(b)(3), 673, title XI, §§1137, 1147(a), 1166(a), title XVIII, §§1802(a)(9)(C), 1810(l)(1)–(5)(A), 1842(d), 1899A(63), (64), Oct. 22,1986, 100 Stat. 2138, 2142, 2317, 2319, 2486, 2493, 2511, 2790, 2830–2832, 2853, 2962; Pub. L. 100–202, §101(m) \[title VI, §624(a)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–429; Pub. L. 100–647, §1(c), title I, §§1001(d)(2)(D), 1002(a)(2), 1006(t)(12), (25)(A), 1011A(m)(1), 1011B(e), 1018(g)(3), Nov. 10, 1988, 102 Stat. 3342, 3351, 3352, 3422, 3426, 3483, 3489, 3583; Pub. L. 101–194, title VI, §602, Nov. 30, 1989, 103 Stat. 1762; Pub. L. 101–508, title XI, §§11704(a)(34), 11812(b)(13), Nov. 5, 1990, 104 Stat. 1388–519, 1388–536; Pub. L. 102–90, title III, §314(e), Aug. 14, 1991, 105 Stat. 470; Pub. L. 102–318, title V, §521(b)(43), July 3, 1992, 106 Stat. 313; Pub. L. 103–66, title XIII, §13238, Aug. 10, 1993, 107 Stat. 508; Pub. L. 103–296, title III, §320(a)(3), Aug. 15, 1994, 108 Stat. 1535; Pub. L. 104–88, title III, §304(e), Dec. 29, 1995, 109 Stat. 944; Pub. L. 104–188, title I, §§1402(b)(3), 1621(b)(8), (9), 1907(a)(1), (2), Aug. 20, 1996, 110 Stat. 1790, 1867, 1916; Pub. L. 105–34, title XI, §§1151(a), 1174(b), title XVI, §1601(i)(3)(A), Aug. 5, 1997, 111 Stat. 986, 989, 1093; Pub. L. 106–554, §1(a)(7) \[title IV, §401(i)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–650; Pub. L. 107–16, title V, §542(e)(3), June 7, 2001, 115 Stat. 85; Pub. L. 108–311, title II, §207(24), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 108–357, title VIII, §§804(b), 835(b)(10), (11), 852(a), Oct. 22, 2004, 118 Stat. 1570, 1594, 1609; Pub. L. 109–135, title IV, §403(v)(2), Dec. 21, 2005, 119 Stat. 2628; Pub. L. 109–280, title XII, §§1207(f), 1222, Aug. 17, 2006, 120 Stat. 1071, 1089; Pub. L. 110–28, title VIII, §8246(a)(1), May 25, 2007, 121 Stat. 200; Pub. L. 110–245, title III, §301(c)(1), (2)(B), (C), June 17, 2008, 122 Stat. 1646; Pub. L. 111–152, title I, §1409(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–312, title III, §301(a), Dec. 17, 2010, 124 Stat. 3300; Pub. L. 113–295, div. A, title II, §221(a)(119), Dec. 19, 2014, 128 Stat. 4055; Pub. L. 115–97, title I, §§11051(b)(4), 13304(a)(2)(F), Dec. 22, 2017, 131 Stat. 2090, 2125; Pub. L. 115–141, div. U, title IV, §401(a)(331), (332), (b)(54), (55), Mar. 23, 2018, 132 Stat. 1200, 1205.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -1266,6 +1268,8 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 
 Subsec. (a)(10). Pub. L. 86–70, §22(h), substituted "Territory of Hawaii" for "Territories".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by section 11051(b)(4) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under section 61 of this title.
@@ -1300,7 +1304,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendments
 
-Amendment by section 804(b) of Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004, see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
+Amendment by section 804(b) of Pub. L. 108–357 applicable to individuals who expatriate after June 3, 2004,see section 804(f) of Pub. L. 108–357, set out as a note under section 877 of this title.
 
 Amendment by section 835(b)(10), (11) of Pub. L. 108–357 effective Jan. 1, 2005, with exception for any FASIT in existence on Oct. 22, 2004, to the extent that regular interests issued by the FASIT before such date continue to remain outstanding in accordance with the original terms of issuance, see section 835(c) of Pub. L. 108–357, set out as a note under section 56 of this title.
 
@@ -1402,7 +1406,7 @@ Amendment by section 673 of Pub. L. 99–514 effective Jan. 1, 1992, but not app
 
 Pub. L. 99–514, title XI, §1166(b), Oct. 22, 1986, 100 Stat. 2512, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to years beginning after December 31, 1985."
 
-Amendment by sections 1802(a)(9)(C), 1810(l)(1)–(4), 1842(d) of Pub. L. 99–514 effective, except as otherwiseprovided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by sections 1802(a)(9)(C), 1810(l)(1)–(4), 1842(d) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 Pub. L. 99–514, title XVIII, §1810(l)(5)(B), Oct. 22, 1986, 100 Stat. 2832, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to periods after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
@@ -1538,7 +1542,7 @@ Coast Guard transferred to Department of Transportation and all functions, power
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

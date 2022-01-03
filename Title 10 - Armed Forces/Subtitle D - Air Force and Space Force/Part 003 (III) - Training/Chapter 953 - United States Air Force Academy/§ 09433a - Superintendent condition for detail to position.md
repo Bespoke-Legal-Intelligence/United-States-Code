@@ -10,6 +10,8 @@ Minimum Tour of Duty.—An officer who is detailed to the position of Superinten
 
 (Added Pub. L. 106–65, div. A, title V, §532(a)(3)(B), Oct. 5, 1999, 113 Stat. 603, §9333a; amended Pub. L. 108–375, div. A, title V, §541(b)(3), Oct. 28, 2004, 118 Stat. 1903; renumbered §9433a and amended Pub. L. 115–232, div. A, title VIII, §§806(a)(3), 809(a), Aug. 13, 2018, 132 Stat. 1832, 1840.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §806(a)(3), renumbered section 9333a of this title as this section.
@@ -17,6 +19,8 @@ Minimum Tour of Duty.—An officer who is detailed to the position of Superinten
 Subsec. (a). Pub. L. 115–232, §809(a), substituted "section 9321(a)" for "section 8921(a)" and "section 9321(b)" for "section 8921(b)".
 
 <b>2004</b>—Pub. L. 108–375 designated existing provisions as subsec. (a), inserted heading, inserted "pursuant to section 8921(a) of this title, unless such retirement is waived under section 8921(b) of this title" before period at end, and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

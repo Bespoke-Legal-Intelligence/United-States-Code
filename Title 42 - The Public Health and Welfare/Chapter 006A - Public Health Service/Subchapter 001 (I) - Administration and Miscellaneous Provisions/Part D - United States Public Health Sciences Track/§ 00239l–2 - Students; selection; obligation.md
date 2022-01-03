@@ -46,7 +46,7 @@
 
 #### (B) Stipend
 
-&emsp;&emsp;The Surgeon General, based on the recommendations of the National Health Care Workforce Commission, shall establish andupdate Federal stipend rates for payment to students under this part.
+&emsp;&emsp;The Surgeon General, based on the recommendations of the National Health Care Workforce Commission, shall establish and update Federal stipend rates for payment to students under this part.
 
 #### (3) Reductions in the period of obligated service
 

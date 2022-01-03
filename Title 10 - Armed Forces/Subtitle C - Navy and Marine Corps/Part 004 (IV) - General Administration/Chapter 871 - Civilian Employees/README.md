@@ -7,18 +7,17 @@
 | [8746\.](%C2%A7%2008746%20-%20Administration%20of%20oaths%20by%20clerks%20and%20employees.md) | Administration of oaths by clerks and employees. |
 | [8747\.](%C2%A7%2008747%20-%20Transportation%20of%20dependents%20and%20household%20effects%20of%20civilian%20personnel%20stationed%20outside%20the%20United%20States%20payment%20in%20lieu%20of%E2%80%A6.md) | Transportation of dependents and household effects of civilian personnel stationed outside the United States: payment in lieu of transportation. |
 | [8748\.](%C2%A7%2008748%20-%20Naval%20War%20College%20and%20Marine%20Corps%20University%20civilian%20faculty%20members.md) | Naval War College and Marine Corps University: civilian faculty members. |
-| [8749\.](%C2%A7%2008749%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20release%20of%20drug%20and%20alcohol%20test%20results%20to%20Coast%20Guard.md) | Civil service mariners of military sealift command: release of drug and alcohol test results to Coast Guard<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
-| [8749a.](%C2%A7%2008749a%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20alcohol%20testing.md) | Civil service mariners of military sealift command: alcohol testing<sup>1</sup> |
+| [8749\.](%C2%A7%2008749%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20release%20of%20drug%20and%20alcohol%20test%20results%20to%20Coast%20Guard.md) | Civil service mariners of Military Sealift Command: release of drug and alcohol test results to Coast Guard. |
+| [8749a.](%C2%A7%2008749a%20-%20Civil%20service%20mariners%20of%20Military%20Sealift%20Command%20alcohol%20testing.md) | Civil service mariners of Military Sealift Command: alcohol testing. |
 | [8750\.](%C2%A7%2008750%20-%20Special%20agents%20of%20the%20Naval%20Criminal%20Investigative%20Service%20authority%20to%20execute%20warrants%20and%20make%20arrests.md) | Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title X, §1081(a)(32), Dec. 27, 2021, 135 Stat. 1921, added items 8749 and 8749a and struck out former items 8749 "Civil service mariners of military sealift command: release of drug and alcohol test results to Coast Guard" and 8749a "Civil service mariners of military sealift command: alcohol testing".
 
 <b>2018</b>—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 643 of this title as this chapter and items 7472, 7473, and 7476 to 7480 as 8742, 8743, and 8746 to 8750, respectively.
 
@@ -37,8 +36,6 @@ Pub. L. 115–232, div. A, title XI, §1114(c), Aug. 13, 2018, 132 Stat. 2013, a
 <b>1959</b>—Pub. L. 86–148, §1(2), Aug. 7, 1959, 73 Stat. 302, struck out item 7475 "Force at naval activities not to be increased before elections".
 
 <b>1958</b>—Pub. L. 85–861, §1(151), Sept. 2, 1958, 72 Stat. 1513, struck out item 7471 "Appointments: professional and scientific services".
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline and probably should be followed by a period.</i>
 
 
 ---

@@ -42,7 +42,7 @@ Not later than October 1, 1995, the property, liabilities, contracts, records, a
 
 #### (5) Reorganization authority
 
-&emsp;Nothing contained in this section shall prohibit the Board from reorganizing functions atthe John F. Kennedy Center for the Performing Arts in accordance with laws governing reorganizations.
+&emsp;Nothing contained in this section shall prohibit the Board from reorganizing functions at the John F. Kennedy Center for the Performing Arts in accordance with laws governing reorganizations.
 
 #### (e) Review of Board actions
 
@@ -73,6 +73,8 @@ The actions of the Board relating to performing arts and to payments made or dir
 Subject to approval of the Secretary of the Interior under section 76j(a)(2)(F) of this title, the Board shall develop plans and carry out projects to improve pedestrian and vehicular access to the John F. Kennedy Center for the Performing Arts.
 
 (Pub. L. 85–874, §5, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(2), Jan. 23, 1964, 78 Stat. 4; Pub. L. 103–279, §4, July 21, 1994, 108 Stat. 1413; Pub. L. 105–95, §3(b), Nov. 19, 1997, 111 Stat. 2149.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

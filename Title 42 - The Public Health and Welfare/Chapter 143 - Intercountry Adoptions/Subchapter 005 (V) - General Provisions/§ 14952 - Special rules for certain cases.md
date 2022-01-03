@@ -2,13 +2,13 @@
 
 #### (a) Authority to establish alternative procedures for adoption of children by relatives
 
-To the extent consistent with the Convention, the Secretary may establish by regulation alternative procedures for the adoption of childrenby individuals related to them by blood, marriage, or adoption, in cases subject to the Convention.
+To the extent consistent with the Convention, the Secretary may establish by regulation alternative procedures for the adoption of children by individuals related to them by blood, marriage, or adoption, in cases subject to the Convention.
 
 #### (b) Waiver authority
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this chapter, to the extent consistent with the Convention, the Secretary may, on a case-by-case basis, waive applicable requirements of this chapter or regulations issued under this chapter, in the interests of justice or to prevent grave physical harm to the child.
+&emsp;Notwithstanding any other provision of this chapter, to the extent consistent with theConvention, the Secretary may, on a case-by-case basis, waive applicable requirements of this chapter or regulations issued under this chapter, in the interests of justice or to prevent grave physical harm to the child.
 
 #### (2) Nondelegation
 
@@ -16,9 +16,13 @@ To the extent consistent with the Convention, the Secretary may establish by reg
 
 (Pub. L. 106–279, title V, §502, Oct. 6, 2000, 114 Stat. 843.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

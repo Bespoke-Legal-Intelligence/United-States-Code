@@ -120,7 +120,7 @@ Except as provided in subsection (g)(3)—
 
 #### (2) Procedure
 
-&emsp;The provisions of section 1320a–7a of this title, other than subsections (a) and (b) andthe first sentence of subsection (c)(1), shall apply to civil money penalties under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title.
+&emsp;The provisions of section 1320a–7a of this title, other than subsections (a) and (b) and the first sentence of subsection (c)(1), shall apply to civil money penalties under this subsection in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a of this title.
 
 #### (3) Relation to HIPAA
 
@@ -134,7 +134,7 @@ Except as provided in subsection (g)(3)—
 
 #### (B) Against State employees
 
-&emsp;&emsp;An entity that is a State or an agency of a State government may not assert the privilege described in subsection (a) unless before the time of the assertion, the entity or, in the case of and with respect to an agency, the State has consented to be subject to an action described in subparagraph (A), and that consent has remained in effect.
+&emsp;&emsp;An entity that is a State or an agency of a State government may not assert theprivilege described in subsection (a) unless before the time of the assertion, the entity or, in the case of and with respect to an agency, the State has consented to be subject to an action described in subparagraph (A), and that consent has remained in effect.
 
 #### (g) Rule of construction
 
@@ -175,6 +175,8 @@ For purposes of applying the HIPAA confidentiality regulations—
 &emsp;Not later than 1 year after the date described in paragraph (1), the Secretary shall submit a final report to the Congress.
 
 (July 1, 1944, ch. 373, title IX, §922, as added Pub. L. 109–41, §2(a)(5), July 29, 2005, 119 Stat. 427.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

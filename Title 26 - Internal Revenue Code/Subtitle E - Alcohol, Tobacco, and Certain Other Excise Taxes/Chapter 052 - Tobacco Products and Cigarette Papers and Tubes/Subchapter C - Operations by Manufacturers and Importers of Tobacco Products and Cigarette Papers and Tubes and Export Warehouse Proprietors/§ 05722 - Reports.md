@@ -4,6 +4,8 @@ Every manufacturer or importer of tobacco products, processed tobacco, or cigare
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 713; Pub. L. 85–859, title II, §202, Sept. 2, 1958, 72 Stat. 1422; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 105–33, title IX, §9302(h)(2)(A), Aug. 5, 1997, 111 Stat. 674; Pub. L. 111–3, title VII, §702(a)(2)(B), Feb. 4, 2009, 123 Stat. 108.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–3 inserted ", processed tobacco," after "tobacco products".
@@ -13,6 +15,8 @@ Every manufacturer or importer of tobacco products, processed tobacco, or cigare
 <b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1958</b>—Pub. L. 85–859 substituted "manufacturer of tobacco products or cigarette papers and tubes, and every export warehouse proprietor" for "manufacturer of articles".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

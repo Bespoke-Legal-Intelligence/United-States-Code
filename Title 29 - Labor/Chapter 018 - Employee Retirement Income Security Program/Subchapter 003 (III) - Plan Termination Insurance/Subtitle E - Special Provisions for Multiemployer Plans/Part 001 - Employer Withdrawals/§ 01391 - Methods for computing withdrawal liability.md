@@ -160,7 +160,7 @@ The amount of the unfunded vested benefits allocable to an employer that withdra
 
 &emsp;&emsp;(II) the denominator of which is the amount determined under clause (ii)(II) of this subparagraph, reduced by the sum of benefit payments (accumulated with interest) made to participants (and their beneficiaries) for the plan years described in such clause (ii)(II) which are attributable to service with respect to the employers described in such clause (ii)(II).
 
-(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in the plan year preceding the plan year in which such employer withdraws, is equal to—
+(E) The amount of the plan's unfunded vested benefits for a plan year preceding the plan year in which an employer withdraws, which is not attributable to service with employers who have an obligation to contribute under the plan in theplan year preceding the plan year in which such employer withdraws, is equal to—
 
 &emsp;(i) an amount equal to—
 
@@ -204,7 +204,7 @@ In the case of a transfer of liabilities to another plan incident to an employer
 
 #### (f) Computations applicable in case of withdrawal following merger of multiemployer plans
 
-In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) shall be applied in accordance with regulations prescribed by the corporation; except that, if awithdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
+In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
 
 (Pub. L. 93–406, title IV, §4211, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1226; amended Pub. L. 98–369, div. A, title V, §558(b)(1)(A), (B), July 18, 1984, 98 Stat. 899; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 109–280, title II, §204(c)(2), Aug. 17, 2006, 120 Stat. 887.)
 

@@ -30,7 +30,7 @@ The Corporation may withhold payment of such portion of the insured deposit of a
 
 #### (C) Address
 
-&emsp;&emsp;The notices shall be mailed to the last known address of the depositor appearing onthe records of the insured depository institution in default.
+&emsp;&emsp;The notices shall be mailed to the last known address of the depositor appearing on the records of the insured depository institution in default.
 
 #### (2) Transfer to appropriate State
 
@@ -162,7 +162,7 @@ Section is derived from subsec. (m) of former section 264 of this title. See Cod
 
 <b>1996</b>—Subsec. (f)(3). Pub. L. 104–179 struck out ", with the concurrence of the Office of Government Ethics," after "The Board of Directors".
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–44 inserted heading and amended text generally. Prior to amendment, text read as follows: "If, after the Corporation shall have given at least three months' notice to the depositor by mailing a copy thereof to his last-known address appearing on the records of the depository institution in default, any depositor in the depository institution in default shall fail to claim his insured deposit from the Corporation within eighteen months after the appointment of the receiver for the depository institution in default, or shall fail within such period to claim or arrange to continue the transferred deposit with the new bank or with the other insured depository institution which assumes liability therefor, all rights of the depositor against the Corporation with respect to the insured deposit, and against the new bank and such other insured depository institution with respect to the transferred deposit, shall be barred, and all rights of the depositor againstthe depository institution in default and its shareholders, or the receivership estate to which the Corporation may have become subrogated, shall thereupon revert to the depositor. The amount of any transferred deposits not claimed within such eighteen months' period, shall be refunded to the Corporation."
+<b>1993</b>—Subsec. (e). Pub. L. 103–44 inserted heading and amended text generally. Prior to amendment, text read as follows: "If, after the Corporation shall have given at least three months' notice to the depositor by mailing a copy thereof to his last-known address appearing on the records of the depository institution in default, any depositor in the depository institution in default shall fail to claim his insured deposit from the Corporation within eighteen months after the appointment of the receiver for the depository institution in default, or shall fail within such period to claim or arrange to continue the transferred deposit with the new bank or with the other insured depository institution which assumes liability therefor, all rights of the depositor against the Corporation with respect to the insured deposit, and against the new bank and such other insured depository institution with respect to the transferred deposit, shall be barred, and all rights of the depositor against the depository institution in default and its shareholders, or the receivership estate to which the Corporation may have become subrogated, shall thereupon revert to the depositor. The amount of any transferred deposits not claimed within such eighteen months' period, shall be refunded to the Corporation."
 
 Subsec. (f). Pub. L. 103–204 added subsec. (f).
 

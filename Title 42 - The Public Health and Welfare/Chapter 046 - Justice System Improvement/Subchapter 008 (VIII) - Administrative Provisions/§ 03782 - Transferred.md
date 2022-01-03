@@ -1,5 +1,7 @@
 ### §3782. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 3782 was editorially reclassified as section 10221 of Title 34, Crime Control and Law Enforcement.

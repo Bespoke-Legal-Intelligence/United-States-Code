@@ -32,7 +32,7 @@ Pub. L. 103–199, §705(1)(B), in fourth par., struck out "Communist or Communi
 
 Pub. L. 103–199, §705(1)(C), in fifth par., substituted "aggression or in which the internal security is threatened by internal subversion inspired or supported by hostile countries." for "active Communist or Communist-supported aggression or those countries in which the internal security is threatened by Communist-inspired or Communist-supported internal subversion."
 
-<b>1967</b>—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available to defend against Communist aggression or Communist-inspired internal subversion.
+<b>1967</b>—Pub. L. 90–137 inserted par. to indicate that priority shall be given in the use of the funds available todefend against Communist aggression or Communist-inspired internal subversion.
 
 #### Transfer of Proscribed Weapons to Persons or Entities in the West Bank and Gaza
 

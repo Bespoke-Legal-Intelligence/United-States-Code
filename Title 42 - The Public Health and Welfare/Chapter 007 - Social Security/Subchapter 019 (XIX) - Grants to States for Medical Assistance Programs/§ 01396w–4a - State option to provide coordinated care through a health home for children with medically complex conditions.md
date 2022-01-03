@@ -20,7 +20,7 @@ The Secretary shall establish standards for qualification as a health home for p
 
 &emsp;&emsp;(B) palliative services if the State provides such services under the State plan (or a waiver of such plan).
 
-&emsp;(5) Coordinate care for children with medically complex conditions with out-of-Stateproviders furnishing care to such children to the maximum extent practicable for the families of such children and where medically necessary, in accordance with guidance issued under subsection (e)(1) and section 431.52 of title 42, Code of Federal Regulations.
+&emsp;(5) Coordinate care for children with medically complex conditions with out-of-State providers furnishing care to such children to the maximum extent practicable for the families of such children and where medically necessary, in accordance with guidance issued under subsection (e)(1) and section 431.52 of title 42, Code of Federal Regulations.
 
 &emsp;(6) Collect and report information under subsection (g)(1).
 
@@ -249,6 +249,8 @@ In this section:
 &emsp;The term "health team" has the meaning given such term for purposes of section 256a–1 of this title.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1945A, as added Pub. L. 116–16, §3, Apr. 18, 2019, 133 Stat. 853.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

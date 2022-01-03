@@ -2,6 +2,8 @@
 
 Section, Pub. L. 110–69, title VI, §6001, Aug. 9, 2007, 121 Stat. 625, related to congressional findings.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 Pub. L. 110–69, §1, Aug. 9, 2007, 121 Stat. 572, provided that: "This Act \[see Tables for classification\] may be cited as the 'America COMPETES Act' or the 'America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act'."

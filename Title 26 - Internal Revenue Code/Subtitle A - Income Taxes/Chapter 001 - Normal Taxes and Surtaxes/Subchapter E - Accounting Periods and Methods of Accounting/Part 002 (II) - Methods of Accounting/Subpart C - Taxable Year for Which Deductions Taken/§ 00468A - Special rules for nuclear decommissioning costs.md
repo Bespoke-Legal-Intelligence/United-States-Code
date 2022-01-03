@@ -138,7 +138,7 @@ For purposes of this section—
 
 #### (4) No basis in qualified funds
 
-&emsp;Notwithstanding any other provision of law, the taxpayer's basis in any Fund to which thissection applies shall not be increased by reason of any transfer permitted by this subsection.
+&emsp;Notwithstanding any other provision of law, the taxpayer's basis in any Fund to which this section applies shall not be increased by reason of any transfer permitted by this subsection.
 
 #### (g) Nuclear powerplant
 
@@ -150,13 +150,15 @@ For purposes of this section, a taxpayer shall be deemed to have made a payment 
 
 (Added Pub. L. 98–369, div. A, title I, §91(c)(1), July 18, 1984, 98 Stat. 604; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(i), (B)–(E)(vi), Oct. 22, 1986, 100 Stat. 2812, 2813; Pub. L. 102–486, title XIX, §1917(a), (b), Oct. 24, 1992, 106 Stat. 3024, 3025; Pub. L. 104–188, title I, §1704(j)(6), Aug. 20, 1996, 110 Stat. 1882; Pub. L. 109–58, title XIII, §1310(a)–(e), Aug. 8, 2005, 119 Stat. 1007–1009.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
+<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1310(a), reenacted heading without change and amended text of subsec. (b)generally. Prior to amendment, text read as follows: "The amount which a taxpayer may pay into the Fund for any taxable year shall not exceed the lesser of—
 
 &emsp;"(1) the amount of nuclear decommissioning costs allocable to the Fund which is included in the taxpayer's cost of service for ratemaking purposes for such taxable year, or
 
@@ -210,6 +212,8 @@ Subsec. (f). Pub. L. 99–514, §1807(a)(4)(E)(vi), substituted "For purposes of
 
 Subsec. (g). Pub. L. 99–514, §1807(a)(4)(A)(i), added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2005 Amendment
 
 Pub. L. 109–58, title XIII, §1310(f), Aug. 8, 2005, 119 Stat. 1009, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
@@ -232,7 +236,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date
 
-Section effective July 18, 1984, with respect to taxable years ending after such date, see section 91(g)(5) of Pub.L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 461 of this title.
+Section effective July 18, 1984, with respect to taxable years ending after such date, see section 91(g)(5) of Pub. L. 98–369, as amended, set out as an Effective Date of 1984 Amendment note under section 461 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -240,5 +244,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule
 
-Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(ii), Oct. 22, 1986, 100 Stat. 2812, provided that: "To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 2½ months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 2½ months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section 468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 2½ months after the close of the taxable year."
+Pub. L. 99–514, title XVIII, §1807(a)(4)(A)(ii), Oct. 22, 1986, 100 Stat. 2812, provided that: "To the extent provided in regulations prescribed by the Secretary of the Treasury or his delegate, subsection (g) of section 468A of the Internal Revenue Code of 1954 \[now 1986\] (as added by clause (i)) shall be applied with respect to any payment on account of a taxable year beginning before January 1, 1987, as if it did not contain the requirement that the payment be made within 2½ months after the close of the taxable year. Such regulations may provide that, to the extent such payment to the Fund is made more than 2½ months after the close of the taxable year, any adjustment to the tax attributable to such payment shall not affect the amount of interest payable with respect to periods before the payment is made. Such regulations may provide appropriate adjustments to the deduction allowed under such section468A for any such taxable year to take into account the fact that the payment to the Fund is made more than 2½ months after the close of the taxable year."
 

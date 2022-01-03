@@ -36,7 +36,7 @@ The program shall—
 
 #### (2) Administration
 
-&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
+&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access toresearchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
 
 #### (d) Exascale Computing Program
 
@@ -101,6 +101,8 @@ The program shall—
 &emsp;At the time of the budget submission of the Department for each fiscal year, the Secretary, in consultation with the members of the partnerships established pursuant to paragraph (2), shall submit to Congress a report that describes funding for the Program as a whole by functional element of the Department and critical milestones.
 
 (Pub. L. 108–423, §3, Nov. 30, 2004, 118 Stat. 2400; Pub. L. 115–246, title III, §304(a)(3), Sept. 28, 2018, 132 Stat. 3145.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -22,6 +22,8 @@ There are hereby and hereafter authorized to be appropriated such sums as necess
 
 (Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §332\], Nov. 29, 1999, 113 Stat. 1535, 1501A–197.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to chapter 41 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
@@ -30,11 +32,13 @@ The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a), is 
 
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2000, and not as part of the Forest and Rangeland Renewable Resources Research Act of 1978 which comprises this subchapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Hardwood Technology Transfer and Applied Research
 
 Pub. L. 105–277, div. A, §101(e) \[title III, §343\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–297, provided that:
 
-"(a) The Secretary of Agriculture (hereinafter the 'Secretary') is hereby authorized to conduct technology transfer and development, training, dissemination of information and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended (16 U.S.C. 2101 et. seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended (16 U.S.C. 1600–1614).
+"(a) The Secretary of Agriculture (hereinafter the 'Secretary') is hereby authorized to conduct technology transfer and development, training, dissemination ofinformation and applied research in the management, processing and utilization of the hardwood forest resource. This authority is in addition to any other authorities which may be available to the Secretary including, but not limited to, the Cooperative Forestry Assistance Act of 1978, as amended (16 U.S.C. 2101 et. seq.), and the Forest and Rangeland Renewable Resources Act of 1978, as amended (16 U.S.C. 1600–1614).
 
 "(b) In carrying out this authority, the Secretary may enter into grants, contracts, and cooperative agreements with public and private agencies, organizations, corporations, institutions and individuals. The Secretary may accept gifts and donations pursuant to the Act of October 10, 1978 (7 U.S.C. 2269) including gifts and donations from a donor that conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
 

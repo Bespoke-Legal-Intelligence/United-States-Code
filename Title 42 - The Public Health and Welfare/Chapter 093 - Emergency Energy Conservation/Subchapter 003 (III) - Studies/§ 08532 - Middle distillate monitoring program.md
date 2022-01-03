@@ -8,7 +8,7 @@
 
 &emsp;(A) the prompt collection of relevant demand and supply data under the authority available to the Secretary under other law; and
 
-&emsp;(B) the submission to Congress of periodic reports each containing a concise narrative analysis of the most recent data which the Secretary determines are accurate, and a discussion on a State-by-State basis of trends insuch data which the Secretary determines are significant.
+&emsp;(B) the submission to Congress of periodic reports each containing a concise narrative analysis of the most recent data which the Secretary determines are accurate, and a discussion on a State-by-State basis of trends in such data which the Secretary determines are significant.
 
 (3) All data and information collected under this program shall be available to the Congress and committees of the Congress, and, in accordance with otherwise applicable law, to appropriate State and Federal agencies and the public.
 
@@ -21,6 +21,8 @@
 Before December 31, 1979, the President shall submit a report to Congress in which the President shall examine the middle distillate situation, summarizing the data, information, and analyses described in subsection (a) and discussing in detail matters required to be addressed in findings made pursuant to section 760a(d)(1) <sup>1</sup> of title 15.
 
 (Pub. L. 96–102, title II, §242, Nov. 5, 1979, 93 Stat. 768.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

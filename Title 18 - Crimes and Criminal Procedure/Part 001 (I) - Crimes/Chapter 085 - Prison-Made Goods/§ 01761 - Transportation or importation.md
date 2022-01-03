@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) taxes (Federal, State, local);
 
-&emsp;&emsp;(B) reasonable charges for room and board, as determined by regulations issued by the chief State correctional officer, in the case of a State prisoner;
+&emsp;&emsp;(B) reasonable charges for room and board, as determined by regulations issued by thechief State correctional officer, in the case of a State prisoner;
 
 &emsp;&emsp;(C) allocations for support of family pursuant to State statute, court order, or agreement by the offender;
 

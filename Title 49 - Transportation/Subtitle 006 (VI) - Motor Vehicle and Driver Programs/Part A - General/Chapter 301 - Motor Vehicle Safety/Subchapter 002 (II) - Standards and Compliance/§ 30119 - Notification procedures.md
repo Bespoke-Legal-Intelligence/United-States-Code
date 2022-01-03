@@ -144,7 +144,7 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §153(d), (e); added Dec. 18, 199
 
 In this section, the text of 15:1397(a)(1)(D) (related to 15:1413(a)–(c) (1st sentence cls. (1)–(5), last sentence), 1414(b)(2) (2d, last sentences), and 1416) is omitted as surplus.
 
-In subsection (a), before clause (1), the words "a motor vehicle or item of replacement equipment" are omitted as surplus. The words "by a manufacturer" are added for clarity. In clause (3), the words "a statement of" are omitted as surplus. In clause (4), the word "remedy" is substituted for "cause . . . to be remedied" to eliminate unnecessary words. In clause (5), the words "(specified in accordance with the second and third sentences of section 1414(b)(2) of this title)" are omitted as surplus. In clause (6), the words "a description of" are omitted as surplus. The words "under section 30120 of this title" are added for consistency with the source provisions restated in this subsection. In clause (7), the words "in addition to such . . . as" are omitted as surplus.
+In subsection (a), before clause (1), the words "a motor vehicle or item of replacement equipment" are omitted as surplus. The words "by a manufacturer" areadded for clarity. In clause (3), the words "a statement of" are omitted as surplus. In clause (4), the word "remedy" is substituted for "cause . . . to be remedied" to eliminate unnecessary words. In clause (5), the words "(specified in accordance with the second and third sentences of section 1414(b)(2) of this title)" are omitted as surplus. In clause (6), the words "a description of" are omitted as surplus. The words "under section 30120 of this title" are added for consistency with the source provisions restated in this subsection. In clause (7), the words "in addition to such . . . as" are omitted as surplus.
 
 In subsection (b), the words "in a notification under subsection (a)(5) of this section or section 30121(c) of this title" are substituted for "In either case" because of the restatement. The words "may disapprove" are substituted for "shall be subject to disapproval by" to eliminate unnecessary words.
 
@@ -164,6 +164,8 @@ In subsection (d)(4), the words "or dealers" are omitted because of 1:1. The wor
 
 In subsection (e), the word "replacement" is added for clarity and consistency with the source provisions being restated in subsection (d) of this section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (g). Pub. L. 114–94 added subsec. (g).
@@ -178,13 +180,15 @@ Subsec. (d)(4). Pub. L. 112–141, §31310(a)(4), substituted "in the manner pre
 
 Subsec. (e). Pub. L. 112–141, §31310(b), substituted "Additional" for "Second" in subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2012 Amendment
 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
 #### Improvements in Availability of Recall Information
 
-Pub. L. 114–94, div. B, title XXIV, §24103(a), Dec. 4, 2015, 129 Stat. 1702, provided that: "Not later than 2years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
+Pub. L. 114–94, div. B, title XXIV, §24103(a), Dec. 4, 2015, 129 Stat. 1702, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2015\], the Secretary shall implement current information technology, web design trends, and best practices that will help ensure that motor vehicle safety recall information available to the public on the Federal website is readily accessible and easy to use, including—
 
 &emsp;"(1) by improving the organization, availability, readability, and functionality of the website;
 

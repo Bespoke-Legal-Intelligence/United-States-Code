@@ -8,7 +8,7 @@ In the case of any applicable asset acquisition, for purposes of determining bot
 
 &emsp;(2) the gain or loss of the transferor with respect to such acquisition,
 
-> the consideration received for such assets shall be allocated among such assets acquired in such acquisition in the same manner as amounts are allocated to assets under section 338(b)(5). If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as to the fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.
+> the consideration received for such assets shall be allocated among such assets acquired in such acquisition in the same manner as amounts are allocated to assets under section 338(b)(5). If in connection with an applicable asset acquisition, the transferee and transferor agree in writing as to the allocation of any consideration, or as tothe fair market value of any of the assets, such agreement shall be binding on both the transferee and transferor unless the Secretary determines that such allocation (or fair market value) is not appropriate.
 
 #### (b) Information required to be furnished to Secretary
 
@@ -72,6 +72,8 @@ In the case of a distribution of partnership property or a transfer of an intere
 
 (Added Pub. L. 99–514, title VI, §641(a), Oct. 22, 1986, 100 Stat. 2282; amended Pub. L. 100–647, title I, §1006(h)(1), (2), (3)(B), Nov. 10, 1988, 102 Stat. 3410; Pub. L. 101–508, title XI, §11323(a), (b)(1), Nov. 5, 1990, 104 Stat. 1388–464; Pub. L. 103–66, title XIII, §13261(e), Aug. 10, 1993, 107 Stat. 539.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1060 was renumbered section 1062 of this title.
@@ -91,6 +93,8 @@ Subsecs. (e), (f). Pub. L. 101–508, §11323(b)(1), added subsec. (e) and redes
 Subsec. (d). Pub. L. 100–647, §1006(h)(2), added subsec. (d).
 
 Subsec. (e). Pub. L. 100–647, §1006(h)(3)(B), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

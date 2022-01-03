@@ -32,7 +32,7 @@ In this section:
 
 #### (2) Changes to process or criteria
 
-&emsp;Not later than 30 days after any significant change is made to the process and criteria used by any element of the intelligence community for determining whether to submit a vulnerability for review under the Vulnerabilities Equities Process, such element shall submit to the congressional intelligence committees a report describing such change.
+&emsp;Not later than 30 days after any significant change is made to the process and criteriaused by any element of the intelligence community for determining whether to submit a vulnerability for review under the Vulnerabilities Equities Process, such element shall submit to the congressional intelligence committees a report describing such change.
 
 #### (3) Form of reports
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;Each report submitted under paragraph (1) shall include an unclassified appendix that contains—
 
-&emsp;&emsp;(A) the aggregate number of vulnerabilities disclosed to vendors or thepublic pursuant to the Vulnerabilities Equities Process; and
+&emsp;&emsp;(A) the aggregate number of vulnerabilities disclosed to vendors or the public pursuant to the Vulnerabilities Equities Process; and
 
 &emsp;&emsp;(B) the aggregate number of vulnerabilities disclosed to vendors or the public pursuant to the Vulnerabilities Equities Process known to have been patched.
 
@@ -63,6 +63,8 @@ In this section:
 &emsp;The Director of National Intelligence may forgo submission of an annual report required under this subsection for a calendar year, if the Director notifies the intelligence committees in writing that, with respect to the same calendar year, an annual report required by paragraph 4.3 of the Vulnerabilities Equities Policy and Process document already has been submitted to Congress, and such annual report contains the information that would otherwise be required to be included in an annual report under this subsection.
 
 (Pub. L. 116–92, div. E, title LXVII, §6720, Dec. 20, 2019, 133 Stat. 2230.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

@@ -2,7 +2,7 @@
 
 (a) The provisions of sections 5542(a) and 5544(a) of this title, section 7453(e) of title 38, section 7 of the Fair Labor Standards Act (29 U.S.C. 207), or any other law, which relate to premium pay for overtime work, shall not apply to the hours which constitute a compressed schedule.
 
-(b) In the case of any full-time employee, hours worked in excess of the compressed schedule shall be overtime hours and shall be paid for as provided by the applicable provisions referred to in subsection (a) of this section. In the caseof any part-time employee on a compressed schedule, overtime pay shall begin to be paid after the same number of hours of work after which a full-time employee on a similar schedule would begin to receive overtime pay.
+(b) In the case of any full-time employee, hours worked in excess of the compressed schedule shall be overtime hours and shall be paid for as provided by the applicable provisions referred to in subsection (a) of this section. In the case of any part-time employee on a compressed schedule, overtime pay shall begin to be paid after the same number of hours of work after which a full-time employee on a similar schedule would begin to receive overtime pay.
 
 (c) Notwithstanding section 5544(a) or 5546(a) of this title, or any other applicable provision of law, in the case of any full-time employee on a compressed schedule who performs work (other than overtime work) on a tour of duty for any workday a part of which is performed on a Sunday, such employee is entitled to pay for work performed during the entire tour of duty at the rate of such employee's basic pay, plus premium pay at a rate equal to 25 percent of such basic pay rate.
 

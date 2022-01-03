@@ -20,9 +20,13 @@ July 3, 1944, ch. 399, §4 (1st, and 9th (less proviso), sentences), 58 Stat. 72
 
 The words "or suspension", "either of prosecution of the suit or of the taking of testimony", "during which the prosecution of such suit or taking of such deposition or production of evidence would tend to endanger the security of the United States or of such operations in time of war, or to interfere therewith", "as the case may be", and "in relation to which it is made shall continue in effect" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7725 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

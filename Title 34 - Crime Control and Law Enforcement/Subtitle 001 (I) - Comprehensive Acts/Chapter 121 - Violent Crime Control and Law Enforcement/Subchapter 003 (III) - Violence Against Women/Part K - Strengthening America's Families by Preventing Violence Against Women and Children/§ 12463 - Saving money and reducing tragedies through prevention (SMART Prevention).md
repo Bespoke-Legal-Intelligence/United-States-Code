@@ -78,7 +78,7 @@ To be eligible to receive a grant under this section, an entity shall be—
 
 &emsp;&emsp;(A) include outcome-based evaluation; and
 
-&emsp;&emsp;(B) identify any other community, school, or State-based efforts that are working on domestic violence, dating violence, sexual assault, or stalking prevention and explainhow the grantee or partnership will add value, coordinate with other programs, and not duplicate existing efforts.
+&emsp;&emsp;(B) identify any other community, school, or State-based efforts that are working on domestic violence, dating violence, sexual assault, or stalking prevention and explain how the grantee or partnership will add value, coordinate with other programs, and not duplicate existing efforts.
 
 #### (e) Definitions and grant conditions
 

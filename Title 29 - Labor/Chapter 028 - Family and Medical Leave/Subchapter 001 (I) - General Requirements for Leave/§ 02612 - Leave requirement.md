@@ -32,7 +32,7 @@
 
 #### (5) Calculation of leave for airline flight crews
 
-&emsp;The Secretary may provide, by regulation, a method for calculating the leave described inparagraph (1) with respect to employees described in section 2611(2)(D) of this title.
+&emsp;The Secretary may provide, by regulation, a method for calculating the leave described in paragraph (1) with respect to employees described in section 2611(2)(D) of this title.
 
 #### (b) Leave taken intermittently or on reduced leave schedule
 
@@ -152,7 +152,7 @@ The date the Emergency Family and Medical Leave Expansion Act takes effect, refe
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 102 of Pub. L. 103–3, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Subsec. (f). Pub. L. 110–181, §585(a)(3)(D), designated existing provisions a
 
 #### Effective Date of 2020 Amendment
 
-Amendment by Pub. L. 116–127 effective no later than 15 days after Mar. 18, 2020, see section 3106 of div. C of Pub. L. 116–127, set out as an Effective Date note under section 2620 of this title.
+Amendment by Pub. L. 116–127 effective no later than 15 days after Mar. 18, 2020, see section 3106 of div. C ofPub. L. 116–127, set out as an Effective Date note under section 2620 of this title.
 
 #### Effective Date of 2019 Amendment
 

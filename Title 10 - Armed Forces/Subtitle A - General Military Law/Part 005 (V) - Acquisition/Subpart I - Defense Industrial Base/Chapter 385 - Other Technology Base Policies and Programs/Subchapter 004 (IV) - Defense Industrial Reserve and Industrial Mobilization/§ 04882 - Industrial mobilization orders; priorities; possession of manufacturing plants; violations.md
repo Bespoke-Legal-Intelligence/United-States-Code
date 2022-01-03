@@ -2,7 +2,7 @@
 
 (a)
 
-Ordering Authority.—In time of war or when war is imminent, the President, through the head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
+Ordering Authority.—In time of war or when war is imminent, the President, throughthe head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
 
 (b)
 
@@ -32,9 +32,23 @@ Criminal Penalty.—Whoever fails to comply with this section shall be imprisone
 
 (Added Pub. L. 103–160, div. A, title VIII, §822(a)(1), Nov. 30, 1993, 107 Stat. 1704, §2538; amended Pub. L. 103–337, div. A, title VIII, §811, Oct. 5, 1994, 108 Stat. 2815; renumbered §4882, Pub. L. 116–283, div. A, title XVIII, §1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4286.)
 
+#### <b>Editorial Notes</b>
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 4501 and 9501 of this title, prior to repeal by Pub. L. 103–160, §822(a)(2).
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2538 of this title as this section.
+
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §811(1), substituted "head of any department" for "Secretary of Defense".
+
+Subsec. (c). Pub. L. 103–337, §811, substituted "through the head of any department" for "through the Secretary of Defense" and "opinion of the head of that department" for "opinion of the Secretary of Defense" in introductory provisions and "head of such department" for "Secretary" in pars. (2) and (3).
+
+Subsec. (d). Pub. L. 103–337, §811(1), substituted "head of any department" for "Secretary of Defense".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

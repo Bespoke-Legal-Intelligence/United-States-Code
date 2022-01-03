@@ -14,7 +14,7 @@ The President shall include in each budget transmitted to Congress under section
 
 #### Land Border Projects
 
-Pub. L. 112–74, div. D, title II, Dec. 23, 2011, 125 Stat. 949, provided in part: "That for fiscal year 2012 and thereafter, the annual budget submission of U.S. Customs and Border Protection for 'Construction and Facilities Management' shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs delineated by land port of entry".
+Pub. L. 112–74, div. D, title II, Dec. 23, 2011, 125 Stat. 949, provided in part: "That for fiscal year 2012 andthereafter, the annual budget submission of U.S. Customs and Border Protection for 'Construction and Facilities Management' shall, in consultation with the General Services Administration, include a detailed 5-year plan for all Federal land border port of entry projects with a yearly update of total projected future funding needs delineated by land port of entry".
 
 Similar provisions were contained in the following prior appropriation acts:
 

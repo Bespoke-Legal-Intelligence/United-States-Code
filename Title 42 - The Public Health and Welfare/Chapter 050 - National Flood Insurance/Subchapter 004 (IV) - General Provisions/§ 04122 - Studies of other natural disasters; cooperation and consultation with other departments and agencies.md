@@ -6,11 +6,15 @@
 
 (Pub. L. 90–448, title XIII, §1371, Aug. 1, 1968, 82 Stat. 588; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
 <b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" in subsecs. (a) and (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -24,5 +28,5 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 #### Study of Sinkhole Insurance
 
-Pub. L. 98–181, title I \[title IV, §453\], Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State orlocal agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
+Pub. L. 98–181, title I \[title IV, §453\], Nov. 30, 1983, 97 Stat. 1230, permitted the Director of the Federal Emergency Management Agency to make a grant to a nonprofit organization, educational institution, or State or local agency to study the feasibility of expanding the national flood insurance program to cover damage or loss arising from sinkholes and authorized appropriations.
 

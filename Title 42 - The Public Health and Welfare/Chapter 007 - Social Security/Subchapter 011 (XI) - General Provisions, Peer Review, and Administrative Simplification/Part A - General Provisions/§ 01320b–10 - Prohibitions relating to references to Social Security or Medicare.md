@@ -8,7 +8,7 @@
 
 &emsp;(B) a symbol or emblem of the Social Security Administration, Centers for Medicare \& Medicaid Services, or Department of Health and Human Services (including the design of, or a reasonable facsimile of the design of, the social security card issued pursuant to section 405(c)(2)(F) of this title or the Medicare card,,<sup>1</sup> the check used for payment of benefits under subchapter II, or envelopes or other stationery used by the Social Security Administration, Centers for Medicare \& Medicaid Services, or Department of Health and Human Services), or any other combination or variation of such symbols or emblems,
 
-> in a manner which such person knows or should know would convey, or in a manner which reasonably could be interpreted or construed as conveying, the false impression that such item is approved, endorsed, or authorized by the Social Security Administration, the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services or that such person has some connection with, or authorization from, the Social Security Administration,the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services. The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.
+> in a manner which such person knows or should know would convey, or in a manner which reasonably could be interpreted or construed as conveying, the false impression that such item is approved, endorsed, or authorized by the Social Security Administration, the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services or that such person has some connection with, or authorization from, the Social Security Administration, the Centers for Medicare \& Medicaid Services, or the Department of Health and Human Services. The preceding provisions of this subsection shall not apply with respect to the use by any agency or instrumentality of a State or political subdivision of a State of any words or letters which identify an agency or instrumentality of such State or of a political subdivision of such State or the use by any such agency or instrumentality of any symbol or emblem of an agency or instrumentality of such State or a political subdivision of such State.
 
 (2)(A) No person may, for a fee, reproduce, reprint, or distribute any item consisting of a form, application, or other publication of the Social Security Administration unless such person has obtained specific, written authorization for such activity in accordance with regulations which the Commissioner of Social Security shall prescribe.
 
@@ -50,6 +50,8 @@ The preceding provisions of this section may be enforced through the Office of t
 
 (Aug. 14, 1935, ch. 531, title XI, §1140, as added Pub. L. 100–360, title IV, §428(a), July 1, 1988, 102 Stat. 815; amended Pub. L. 100–485, title VI, §608(d)(30)(A), Oct. 13, 1988, 102 Stat. 2424; Pub. L. 103–296, title I, §108(b)(12), title III, §§304(b), 312(a)–(j), Aug. 15, 1994, 108 Stat. 1484, 1520, 1526, 1527; Pub. L. 108–173, title IX, §900(e)(1)(B), Dec. 8, 2003, 117 Stat. 2371; Pub. L. 108–203, title II, §§204(a), 207(a), Mar. 2, 2004, 118 Stat. 511, 512; Pub. L. 114–74, title VIII, §814, Nov. 2, 2015, 129 Stat. 604.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2015</b>—Subsec. (a)(1). Pub. L. 114–74, §814(a), inserted "(including any Internet or other electronic communication)" after "or other communication" in introductory provisions.
@@ -88,7 +90,7 @@ Subsec. (a)(2)(A), (B). Pub. L. 103–296, §108(b)(12)(A), in par. (2) as added
 
 Subsec. (a)(3). Pub. L. 103–296, §312(e), added par. (3).
 
-Subsec. (b). Pub. L. 103–296, §312(g), substituted "The" for "(1) Subject to paragraph (2), the", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "The total amount of penalties which may be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000."
+Subsec. (b). Pub. L. 103–296, §312(g), substituted "The" for "(1) Subject to paragraph (2), the", redesignatedsubpars. (A) and (B) as pars. (1) and (2), respectively, and in par. (1) substituted "paragraph (2)" for "subparagraph (B)", and struck out former par. (2) which read as follows: "The total amount of penalties which may be imposed under paragraph (1) with respect to multiple violations in any one year period consisting of substantially identical communications or productions shall not exceed $100,000."
 
 Subsec. (b)(1). Pub. L. 103–296, §312(f) inserted at end "In the case of any items referred to in subsection (a)(1) consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation. In the case of any item referred to in subsection (a)(2), the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed."
 
@@ -105,6 +107,8 @@ Subsec. (d). Pub. L. 103–296, §312(j), added subsec. (d).
 Pub. L. 103–296, §108(b)(12)(D), which in subsec. (d) as added by Pub. L. 103–296, §312(j), directed the substitution of "the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate)" for "the Office of Inspector General of the Department of Health and Human Services", was executed by making the substitution for "the Office of the Inspector General of the Department of Health and Human Services" to reflect the probable intent of Congress.
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–485 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subsections (c), (d), (e), (g), (j), and (k) of section 1320a–7a of this title shall apply with respect to violations under subsection (a) of this section and penalties imposed under subsection (b) of this section in the same manner and to the same extent as such subsections apply with respect to claims in violation of section 1320a–7a of this title and penalties imposed under section 1320a–7a(a) of this title."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

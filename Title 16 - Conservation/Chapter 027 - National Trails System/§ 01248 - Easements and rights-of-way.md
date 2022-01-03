@@ -22,7 +22,7 @@ Commencing October 4, 1988, any and all right, title, interest, and estate of th
 
 #### (e) Release and quitclaim; conditions; sale; proceeds
 
-(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c), if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion for public recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
+(1) The Secretary of the Interior is authorized where appropriate to release and quitclaim to a unit of government or to another entity meeting the requirements of this subsection any and all right, title, and interest in the surface estate of any portion of any right-of-way to the extent any such right, title, and interest was retained by the United States pursuant to subsection (c), if such portion is not located within the boundaries of any conservation system unit or National Forest. Such release and quitclaim shall be made only in response to an application therefor by a unit of State or local government or another entity which the Secretary of the Interior determines to be legally and financially qualified to manage the relevant portion forpublic recreational purposes. Upon receipt of such an application, the Secretary shall publish a notice concerning such application in a newspaper of general circulation in the area where the relevant portion is located. Such release and quitclaim shall be on the following conditions:
 
 &emsp;(A) If such unit or entity attempts to sell, convey, or otherwise transfer such right, title, or interest or attempts to permit the use of any part of such portion for any purpose incompatible with its use for public recreation, then any and all right, title, and interest released and quitclaimed by the Secretary pursuant to this subsection shall revert to the United States.
 
@@ -52,6 +52,8 @@ As used in this section—
 
 (Pub. L. 90–543, §9, Oct. 2, 1968, 82 Stat. 925; Pub. L. 95–91, title III, §301(b), Aug. 4, 1977, 91 Stat. 578; Pub. L. 100–470, §3, Oct. 4, 1988, 102 Stat. 2281; Pub. L. 104–88, title III, §317(2), Dec. 29, 1995, 109 Stat. 949; Pub. L. 113–287, §5(d)(25), Dec. 19, 2014, 128 Stat. 3266.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
@@ -66,17 +68,17 @@ The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(
 
 <b>1988</b>—Subsecs. (c) to (f). Pub. L. 100–470 added subsecs. (c) to (f).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 1301 of Title 49, Transportation.
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
-
 "Secretary of Energy" substituted for "Federal Power Commission" in subsec. (b) pursuant to Pub. L. 95–91, §301(b), which is classified to section 7151(b) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions which were transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42.
 
 #### Abandoned Railroad Grants; Congressional Findings
 
@@ -95,4 +97,10 @@ Pub. L. 100–470, §5, Oct. 4, 1988, 102 Stat. 2283, provided that:
 "(a) Nothing in this Act \[amending this section and section 1244 of this title and enacting provisions set out as notes under this section and section 1241 of this title\] shall be construed as authorizing the Secretary of the Interior to use condemnation proceedings to retain or acquire all or any portion of a right-of-way described in this Act.
 
 "(b) Nothing in this Act shall be construed to expand or diminish existing condemnation authorities contained in the National Trails System Act, as amended \[16 U.S.C. 1241 et seq.\]."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Enforcement functions of Secretary or other official in Department of the Interior related to compliance with system activities requiring coordination and approval under this chapter and such functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 

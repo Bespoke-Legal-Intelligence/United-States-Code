@@ -24,7 +24,7 @@ Upon the application of the Attorney General to investigate and make recommendat
 
 #### (f) Publication of information; reports
 
-To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstances that making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
+To make public from time to time such portions of the information obtained by it hereunder as are in the public interest; and to make annual and special reports to the Congress and to submit therewith recommendations for additional legislation; and to provide for the publication of its reports and decisions in such form and manner as may be best adapted for public information and use: <i>Provided</i>, That the Commission shall not have any authority to make public any trade secret or any commercial or financial information which is obtained from any person and which is privileged or confidential, except that the Commission may disclose such information (1) to officers and employees of appropriate Federal law enforcement agencies or to any officer or employee of any State law enforcement agency upon the prior certification of an officer of any such Federal or State law enforcement agency that such information will be maintained in confidence and will be used only for official law enforcement purposes, and (2) to any officer or employee of any foreign law enforcement agency under the same circumstancesthat making material available to foreign law enforcement agencies is permitted under section 57b–2(b) of this title.
 
 #### (g) Classification of corporations; regulations
 
@@ -82,7 +82,7 @@ With respect to the International Antitrust Enforcement Assistance Act of 1994 \
 
 #### (7) Assistance to certain countries
 
-&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless and until such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
+&emsp;The Commission may not provide investigative assistance under this subsection to a foreign law enforcement agency from a foreign state that the Secretary of State has determined, in accordance with section 4605(j) <sup>1</sup> of title 50, has repeatedly provided support for acts of international terrorism, unless anduntil such determination is rescinded pursuant to section 4605(j)(4) <sup>1</sup> of title 50.
 
 #### (k) Referral of evidence for criminal proceedings
 
@@ -121,6 +121,8 @@ Nothing in this section (other than the provisions of clause (c) and clause (d))
 #### Amendment of Section
 
 <i>For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -166,6 +168,8 @@ Subsec. (g). Pub. L. 93–637, §202(b), inserted "(except as provided in sectio
 
 <b>1973</b>—Pub. L. 93–153 inserted proviso following subsec. (h) that the Commission's investigatory powers to gather and compile information, investigate, and require reports or answers is not curtailed as regards banks and common carriers when the investigation in question is an investigation of a corporation, group of corporations, or industry not engaged or engaged only incidentally in banking or in business as a common carrier subject to the Act to regulate commerce notwithstanding provisions excepting banks and common carriers subject to the Act from the exercise of the Commission's power to investigate and require reports from corporations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -180,21 +184,23 @@ Amendment by Pub. L. 96–252 effective May 28, 1980, see section 23 of Pub. L. 
 
 #### Applicability of 1975 Amendment to Subsection (g) of This Section
 
-For applicability to rules promulgated or proposed under subsec. (g) of this section prior to Jan. 4, 1975, of amendment made to said subsec. (g) by section 202(b) of Act Jan. 4, 1975, see "Applicability" provisions of section 202(c) of Act Jan. 4, 1975, set out as a note under section 57a of this title.
-
-#### Transfer of Functions
-
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For applicability to rules promulgated or proposed under subsec. (g) of this section prior to Jan. 4, 1975, ofamendment made to said subsec. (g) by section 202(b) of Act Jan. 4, 1975, see "Applicability" provisions of section 202(c) of Act Jan. 4, 1975, set out as a note under section 57a of this title.
 
 #### Study and Evaluation of Effectiveness of State Policies and Programs Relating to Regulation of Certain Health Insurance Policies
 
 Pub. L. 96–252, §5(b), May 28, 1980, 94 Stat. 376, provided that: "The amendment made in subsection (a) \[adding undesignated paragraph authorizing studies and reports relating to the business of insurance\] shall not be construed to prohibit the Federal Trade Commission from participating with the Secretary of Health and Human Services in a comprehensive study and evaluation of the comparative effectiveness of various State policies and programs relating to the regulation of health insurance policies available for purchase by individuals who are eligible for benefits under the program of health insurance benefits established in title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]."
 
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+
 #### Ex. Ord. No. 10544. Inspection of Income Tax Returns by Federal Trade Commission
 
 Ex. Ord. No. 10544, July 12, 1954, 19 F.R. 4289, provided:
 
-By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby ordered that corporation income tax returns made for the year1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
+By virtue of the authority vested in me by section 55(a) of the Internal Revenue Code (53 Stat. 29; 54 Stat. 1008; 55 Stat. 722) and in the interest of the internal management of the Government, it is hereby ordered that corporation income tax returns made for the year 1953 and subsequent years shall be open to inspection by the Federal Trade Commission as an aid in executing the powers conferred upon such Commission by the Federal Trade Commission Act of September 26, 1914, 38 Stat. 717, \[this subchapter\], such inspection to be in accordance and upon compliance with the rules and regulations prescribed by the Secretary of the Treasury in the Treasury decision relating to the inspection of returns by the Federal Trade Commission, approved by me this date \[T.D. 6080, 19 F.R. 4308\].
 
 This Executive Order shall be effective upon its filing for publication in the Federal Register.
 

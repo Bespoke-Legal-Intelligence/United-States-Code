@@ -36,7 +36,7 @@ In general.—Not later than 180 days after the date of enactment of this sectio
 
 Factors.—As part of the guidance issued under paragraph (1), the Secretary shall ensure—
 
-&emsp;&emsp;(A) to the maximum extent practicable, that expediting and improving the process ofenvironmental review and permitting through the use of funds accepted and expended under this section does not adversely affect the timeline for review and permitting by Federal agencies, State agencies, or Indian tribes of other entities that have not contributed funds under this section;
+&emsp;&emsp;(A) to the maximum extent practicable, that expediting and improving the process of environmental review and permitting through the use of funds accepted and expended under this section does not adversely affect the timeline for review and permitting by Federal agencies, State agencies, or Indian tribes of other entities that have not contributed funds under this section;
 
 &emsp;&emsp;(B) that the use of funds accepted under this section will not impact impartial decisionmaking with respect to environmental reviews or permits, either substantively or procedurally; and
 
@@ -48,6 +48,8 @@ Existing Authority.—Nothing in this section may be construed to conflict with 
 
 (Added Pub. L. 114–94, div. A, title I, §1312(a), Dec. 4, 2015, 129 Stat. 1399.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
@@ -55,6 +57,8 @@ The date of enactment of this section, referred to in subsec. (e)(1), is the dat
 #### Prior Provisions
 
 A prior section 307, Pub. L. 97–449, §1(b), Jan. 12, 1983, 96 Stat. 2421, related to safety information and intervention in Interstate Commerce Commission proceedings, prior to repeal by Pub. L. 112–141, div. C, title II, §32932(a)(1), July 6, 2012, 126 Stat. 829, effective Oct. 1, 2012.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

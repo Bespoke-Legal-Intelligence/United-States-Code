@@ -74,6 +74,8 @@ The Secretary of Commerce shall charter the Advisory Committee in accordance wit
 
 (Pub. L. 116–283, div. E, title LI, §5104, Jan. 1, 2021, 134 Stat. 4528.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 25 U.S.C. 5304, referred to in subsec. (d)(4), was so in the original, but probably should have been a reference to section 4 of the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, which is classified to section 5304 of Title 25, Indians.

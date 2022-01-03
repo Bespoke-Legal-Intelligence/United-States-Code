@@ -6,15 +6,35 @@ Research Abstract Database.—
 
 &emsp;(1)
 
-In general.—The Secretary shall annually publish on a public website a comprehensive database of all research projects conducted by the Department of Transportation, including, to the extent practicable, research funded through University Transportation Centers.
+Submission.—Not later than September 1 of each year, the head of each modal administration and joint program office of the Department of Transportation shall submit to the Assistant Secretary, for review and public posting, a description of each proposed research project to be carried out during the following fiscal year, including—
+
+&emsp;&emsp;(A) proposed funding for any new projects; and
+
+&emsp;&emsp;(B) proposed additional funding for any existing projects.
 
 &emsp;(2)
 
-Contents.—The database published under paragraph (1) shall, to the extent practicable—
+Publication.—Not less frequently than annually, after receiving the descriptions under paragraph (1), the Assistant Secretary shall publish on a public website a comprehensive database including a description of all research projects conducted by the Department of Transportation, including research funded through university transportation centers under section 5505.
 
-&emsp;&emsp;(A) include the consolidated modal research plans approved under section 6501(b)(1)(B)(i);
+&emsp;(3)
 
-&emsp;&emsp;(B) describe the research objectives, progress, findings, and allocated funds for each research project;
+Contents.—The database published under paragraph (2) shall—
+
+&emsp;&emsp;(A) be delimited by research project; and
+
+&emsp;&emsp;(B) include a description of, with respect to each research project—
+
+&emsp;&emsp;&emsp;(i) research objectives;
+
+&emsp;&emsp;&emsp;(ii) the progress made with respect to the project, including whether the project is ongoing or complete;
+
+&emsp;&emsp;&emsp;(iii) any outcomes of the project, including potential implications for policy, regulations, or guidance issued by a modal administration or the Department of Transportation;
+
+&emsp;&emsp;&emsp;(iv) any findings of the project;
+
+&emsp;&emsp;&emsp;(v) the amount of funds allocated for the project; and
+
+&emsp;&emsp;&emsp;(vi) such other information as the Assistant Secretary determines to be necessary to address Departmental priorities and statutory mandates;
 
 &emsp;&emsp;(C) identify research projects with multimodal applications;
 
@@ -46,7 +66,15 @@ Performance Plans and Reports.—In the plans and reports submitted under sectio
 
 &emsp;(4) any amendments to the strategic plan developed under section 6503.
 
-(Added Pub. L. 114–94, div. A, title VI, §6019(b)(1), Dec. 4, 2015, 129 Stat. 1579.)
+(Added Pub. L. 114–94, div. A, title VI, §6019(b)(1), Dec. 4, 2015, 129 Stat. 1579; amended Pub. L. 117–58, div. B, title V, §25015(b), Nov. 15, 2021, 135 Stat. 871.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58 inserted subsec. (a) heading and added pars. (1) and (2) and heading, introductory provisions, and subpars. (A) and (B) of par. (3), and struck out former subsec. (a) heading, former par. (1), which related to publication of research abstract database in general, and former par. (2) heading and subpars. (A) and (B), which related to contents of database. Subpars. (C) to (G) of former par. (2) effectively redesignated subpars. (C) to (G) of par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -26,7 +26,7 @@ In support of the assessments required by subsection (a), the Administrator may 
 
 #### (d) Use of teams of experts for assessments
 
-The head of each national security laboratory shall establish and use one or more teams of experts, known as "red teams", to assist in the assessments required by subsection (a). Each such team shall include experts from both of theother national security laboratories. Each such team for a national security laboratory shall—
+The head of each national security laboratory shall establish and use one or more teams of experts, known as "red teams", to assist in the assessments required by subsection (a). Each such team shall include experts from both of the other national security laboratories. Each such team for a national security laboratory shall—
 
 &emsp;(1) review both the matters covered by the assessments under subsection (a) performed by the head of that laboratory and any independent evaluations conducted by a dual validation team under subsection (c);
 
@@ -52,9 +52,9 @@ Not later than December 1 of each year, each official specified in subsection (b
 
 &emsp;(3) In the case of a report submitted by the head of a national security laboratory—
 
-&emsp;&emsp;(A) a concise statement regarding the adequacy of the science-based tools and methods being used to determine the matters covered by the assessments;
+&emsp;&emsp;(A) a concise statement regarding the adequacy of the science-based tools and methods, including with respect to cyber assurance, being used to determine the matters covered by the assessments;
 
-&emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments;
+&emsp;&emsp;(B) a concise statement regarding the adequacy of the tools and methods employed by the manufacturing infrastructure required by section 2532 of this title to identify and fix any inadequacy with respect to the matters covered by the assessments, and the confidence of the head in such tools and methods;
 
 &emsp;&emsp;(C) a concise summary of the findings and recommendations of any teams under subsection (d) that relate to the assessments, together with a discussion of those findings and recommendations;
 
@@ -100,13 +100,19 @@ In this section, the term "Secretary concerned" means—
 
 &emsp;(2) the Secretary of Defense, with respect to matters concerning the Department of Defense.
 
-(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074; Pub. L. 113–291, div. C, title XXXI, §3142(d), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(d), Nov. 25, 2015, 129 Stat. 1191.)
+(Pub. L. 107–314, div. D, title XLII, §4205, formerly div. C, title XXXI, §3141, Dec. 2, 2002, 116 Stat. 2730; renumbered div. D, title XLII, §4205, and amended Pub. L. 108–136, div. C, title XXXI, §3141(e)(6), Nov. 24, 2003, 117 Stat. 1759; Pub. L. 111–84, div. C, title XXXI, §3114(a)(2)–(d), Oct. 28, 2009, 123 Stat. 2706, 2707; Pub. L. 112–239, div. C, title XXXI, §3131(c), Jan. 2, 2013, 126 Stat. 2180; Pub. L. 113–66, div. C, title XXXI, §§3122, 3146(c)(3), Dec. 26, 2013, 127 Stat. 1061, 1074; Pub. L. 113–291, div. C, title XXXI, §3142(d), Dec. 19, 2014, 128 Stat. 3900; Pub. L. 114–92, div. C, title XXXI, §3112(d), Nov. 25, 2015, 129 Stat. 1191; Pub. L. 117–81, div. C, title XXXI, §3133, Dec. 27, 2021, 135 Stat. 2230.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
 Section was formerly classified to section 7274s of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(3)(A). Pub. L. 117–81, §3133(1), inserted ", including with respect to cyber assurance," after "methods".
+
+Subsec. (e)(3)(B). Pub. L. 117–81, §3133(2), inserted ", and the confidence of the head in such tools and methods" after "the assessments".
 
 <b>2015</b>—Subsec. (e)(4)(C). Pub. L. 114–92 added subpar. (C).
 

@@ -52,7 +52,7 @@ If the Authority imposes a final civil sanction for a violation committed by a c
 
 #### (A) In general
 
-&emsp;&emsp;The Authority or a person aggrieved by a decision issued under subsection (b)(3) may petition the Commission for review of such decision by filing an application for reviewnot later than 30 days after the date on which the administrative law judge issues the decision.
+&emsp;&emsp;The Authority or a person aggrieved by a decision issued under subsection (b)(3) may petition the Commission for review of such decision by filing an application for review not later than 30 days after the date on which the administrative law judge issues the decision.
 
 #### (B) Effect of denial of application for review
 
@@ -119,6 +119,8 @@ If the Authority imposes a final civil sanction for a violation committed by a c
 Review by an administrative law judge or the Commission under this section shall not operate as a stay of a final civil sanction of the Authority unless the administrative law judge or Commission orders such a stay.
 
 (Pub. L. 116–260, div. FF, title XII, §1209, Dec. 27, 2020, 134 Stat. 3272.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

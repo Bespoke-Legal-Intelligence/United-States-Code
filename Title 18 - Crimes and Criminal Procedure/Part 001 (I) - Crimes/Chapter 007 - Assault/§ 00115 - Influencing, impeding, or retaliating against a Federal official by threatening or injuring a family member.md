@@ -44,11 +44,15 @@
 
 (d) This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 
-(Added Pub. L. 98–473, title II, §1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, §6487(f)\[b\], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, §3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, §4002(b)(9), div. C, title I, §11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818; Pub. L. 110–177, title II, §208(a), Jan. 7, 2008, 121 Stat. 2538.)
+(e) There is extraterritorial jurisdiction over the conduct prohibited by this section.
+
+(Added Pub. L. 98–473, title II, §1008(a), Oct. 12, 1984, 98 Stat. 2140; amended Pub. L. 99–646, §§37(a), 60, Nov. 10, 1986, 100 Stat. 3599, 3613; Pub. L. 100–690, title VI, §6487(f)\[b\], Nov. 18, 1988, 102 Stat. 4386; Pub. L. 101–647, title XXXV, §3508, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXIII, §§330016(2)(C), 330021(1), Sept. 13, 1994, 108 Stat. 2148, 2150; Pub. L. 104–132, title VII, §§723(a), 727(b), Apr. 24, 1996, 110 Stat. 1300, 1302; Pub. L. 107–273, div. B, title IV, §4002(b)(9), div. C, title I, §11008(c), Nov. 2, 2002, 116 Stat. 1808, 1818; Pub. L. 110–177, title II, §208(a), Jan. 7, 2008, 121 Stat. 2538; Pub. L. 117–59, §3(2), Nov. 18, 2021, 135 Stat. 1469.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e). Pub. L. 117–59 added subsec. (e).
 
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: "An assault in violation of this section shall be punished as provided in section 111 of this title."
 
@@ -58,7 +62,7 @@ Subsec. (b)(4). Pub. L. 107–273, §11008(c), substituted "10" for "five" and "
 
 <b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
-Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of ", or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or" after "assaults, kidnaps, or murders, or attempts to kidnap or murder", was executed by making the substitution after "assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder" to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
+Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of ", or threatens to assault, kidnap,or murder, any person who formerly served as a person designated in paragraph (1), or" after "assaults, kidnaps, or murders, or attempts to kidnap or murder", was executed by making the substitution after "assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder" to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
 
 Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 

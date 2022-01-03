@@ -96,7 +96,9 @@ For purposes of this subchapter, the term "consumer reporting agency" has the me
 
 For purposes of parts B, D, and E, the term "educational service agency" has the meaning given the term in section 7801 of this title.
 
-(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315,title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950; Pub. L. 114–95, title IX, §9215(oo)(10), Dec. 10, 2015, 129 Stat. 2180.)
+(Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 109–171, title VIII, §§8007(d), 8020(a), (b), Feb. 8, 2006, 120 Stat. 161, 177; Pub. L. 110–315, title IV, §481, Aug. 14, 2008, 122 Stat. 3271; Pub. L. 111–39, title IV, §407(b)(1), July 1, 2009, 123 Stat. 1950; Pub. L. 114–95, title IX, §9215(oo)(10), Dec. 10, 2015, 129 Stat. 2180.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -171,6 +173,8 @@ Subsec. (a)(3). Pub. L. 101–239, §2007(c), added par. (3).
 Subsec. (e). Pub. L. 101–239, §2007(b)(2), added subsec. (e).
 
 <b>1987</b>—Subsec. (c). Pub. L. 100–50 substituted "section 1091(d) of this title" for "subsection (d) of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

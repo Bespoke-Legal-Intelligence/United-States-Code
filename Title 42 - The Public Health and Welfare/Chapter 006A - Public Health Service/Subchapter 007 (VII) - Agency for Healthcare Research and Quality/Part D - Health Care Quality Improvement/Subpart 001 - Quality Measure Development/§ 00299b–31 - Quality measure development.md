@@ -34,7 +34,7 @@ In this subpart, the term "quality measure" means a standard for measuring the p
 
 &emsp;&emsp;(B) the management and coordination of health care across episodes of care and care transitions for patients across the continuum of providers, health care settings, and health plans;
 
-&emsp;&emsp;(C) the experience, quality, and use of information provided to and used by patients, caregivers, and authorized representatives to inform decisionmaking about treatmentoptions, including the use of shared decisionmaking tools and preference sensitive care (as defined in section 299b–36 of this title);
+&emsp;&emsp;(C) the experience, quality, and use of information provided to and used by patients, caregivers, and authorized representatives to inform decisionmaking about treatment options, including the use of shared decisionmaking tools and preference sensitive care (as defined in section 299b–36 of this title);
 
 &emsp;&emsp;(D) the meaningful use of health information technology;
 
@@ -126,9 +126,11 @@ The Secretary shall ensure that grants or contracts awarded under this section a
 
 (July 1, 1944, ch. 373, title IX, §931, as added and amended Pub. L. 111–148, title III, §3013(a)(4), title X, §10303(a), Mar. 23, 2010, 124 Stat. 381, 937.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 285t of this title, referred to in subsec. (c)(2)(G), was in the original "section 485E", meaningsection 485E of act July 1, 1944, which was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and is classified to section 285t of this title. The act of July 1, 1944, no longer contains a section 485E.
+Section 285t of this title, referred to in subsec. (c)(2)(G), was in the original "section 485E", meaning section 485E of act July 1, 1944, which was renumbered section 464z–3 by Pub. L. 111–148, title X, §10334(c)(1)(D)(i), Mar. 23, 2010, 124 Stat. 973, and is classified to section 285t of this title. The act of July 1, 1944, no longer contains a section 485E.
 
 The Social Security Act, referred to in subsec. (c)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§301 et seq.) of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

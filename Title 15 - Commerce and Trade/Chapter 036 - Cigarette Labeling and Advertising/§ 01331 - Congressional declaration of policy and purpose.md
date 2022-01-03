@@ -8,11 +8,15 @@ It is the policy of the Congress, and the purpose of this chapter, to establish 
 
 (Pub. L. 89–92, §2, July 27, 1965, 79 Stat. 282; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 87; Pub. L. 98–474, §6(a), Oct. 12, 1984, 98 Stat. 2204.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1984</b>—Par. (1). Pub. L. 98–474 substituted "about any adverse health effects of cigarette smoking by inclusion of warning notices on each package of cigarettes and in each advertisement;" for "that cigarette smoking may be hazardous to health by inclusion of a warning to that effect on each package of cigarettes;".
 
 <b>1970</b>—Pub. L. 91–222 reenacted section without change.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1970 Amendment
 
@@ -32,7 +36,7 @@ Pub. L. 93–109, §1, Sept. 21, 1973, 87 Stat. 352, provided: "That this Act \[
 
 #### Short Title of 1970 Amendment
 
-Pub. L. 91–222, §1, Apr. 1, 1970, 84 Stat. 87, provided: "That this Act \[enacting section 1340 of this title, amending this section and sections 1332 to 1339 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1334 of this title\] may be cited as the 'Public Health Cigarette Smoking Act of 1969'."
+Pub. L. 91–222, §1, Apr. 1, 1970, 84 Stat. 87, provided: "That this Act \[enacting section 1340 of this title,amending this section and sections 1332 to 1339 of this title, and enacting provisions set out as notes under this section and sections 1333 and 1334 of this title\] may be cited as the 'Public Health Cigarette Smoking Act of 1969'."
 
 #### Short Title
 

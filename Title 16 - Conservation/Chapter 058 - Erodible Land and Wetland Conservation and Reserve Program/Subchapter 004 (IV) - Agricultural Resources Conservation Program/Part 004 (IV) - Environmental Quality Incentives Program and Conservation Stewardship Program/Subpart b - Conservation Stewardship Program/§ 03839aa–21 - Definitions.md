@@ -66,7 +66,7 @@ In this subpart:
 
 &emsp;&emsp;&emsp;(v) nonindustrial private forest land; and
 
-&emsp;&emsp;&emsp;(vi) other land in agricultural areas (including cropped woodland, marshes, and agricultural land used or capable of beingused for the production of livestock), as determined by the Secretary.
+&emsp;&emsp;&emsp;(vi) other land in agricultural areas (including cropped woodland, marshes, and agricultural land used or capable of being used for the production of livestock), as determined by the Secretary.
 
 #### (5) Priority resource concern
 
@@ -96,6 +96,8 @@ In this subpart:
 
 (Pub. L. 99–198, title XII, §1240I, formerly §1238D, as added Pub. L. 110–234, title II, §2301(a)(2), May 22, 2008, 122 Stat. 1040, and Pub. L. 110–246, §4(a), title II, §2301(a)(2), June 18, 2008, 122 Stat. 1664, 1768; Pub. L. 113–79, title II, §2101(a), Feb. 7, 2014, 128 Stat. 721; renumbered §1240I and amended Pub. L. 115–334, title II, §§2301(b), 2308(a), Dec. 20, 2018, 132 Stat. 4551, 4564.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 3838d of this title prior to renumbering by Pub. L. 115–334.
@@ -109,6 +111,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Par. (7). Pub. L. 115–334, §2308(a)(2), substituted "resource through the use of—" and subpars. (A) to (D) for "resource."
 
 <b>2014</b>—Pub. L. 113–79 amended section generally. Prior to amendment, section defined terms for this subpart.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 
@@ -166,7 +170,7 @@ Funds and acres not obligated.—In the case of an agreement described in subpar
 
 &emsp;&emsp;&emsp;"(I) the Secretary shall modify the agreement to authorize the entrance into a contract under subchapter B of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa–21 et seq.\] (as added by subsections (a)(2) and (b)); and
 
-&emsp;&emsp;&emsp;"(II) the funds associated with the conservation stewardship program acres allocated under that agreement, on modification under subclause (I), may be used to enter into conservation stewardship program contracts with producers under subchapter B of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa–21 et seq.\] (as added by subsections (a)(2) and (b)).
+&emsp;&emsp;&emsp;"(II) the funds associated with the conservation stewardship program acres allocated under thatagreement, on modification under subclause (I), may be used to enter into conservation stewardship program contracts with producers under subchapter B of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa–21 et seq.\] (as added by subsections (a)(2) and (b)).
 
 "(4)
 

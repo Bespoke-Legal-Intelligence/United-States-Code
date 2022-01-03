@@ -18,13 +18,15 @@ Declarations.—Congress declares that it is in the vital interest of the United
 
 &emsp;&emsp;(A) to inventory, inspect, and improve the condition of the highway bridges and tunnels of the United States;
 
-&emsp;&emsp;(B) to use a data-driven, risk-based approach and cost-effective strategy for systematic preventative maintenance, replacement, and rehabilitation of highway bridges and tunnels to ensure safety and extended service life;
+&emsp;&emsp;(B) to use a data-driven, risk-based approach and cost-effective strategy for systematic preventative maintenance, replacement, and rehabilitation of highway bridges and tunnels to ensure safety, resilience, and extended service life;
 
 &emsp;&emsp;(C) to use performance-based bridge management systems to assist States in making timely investments;
 
-&emsp;&emsp;(D) to ensure accountability and link performance outcomes to investment decisions; and
+&emsp;&emsp;(D) to ensure accountability and link performance outcomes to investment decisions;
 
-&emsp;&emsp;(E) to ensure connectivity and access for residents of rural areas of the United States through strategic investments in National Highway System bridges and bridges on all public roads.
+&emsp;&emsp;(E) to ensure connectivity and access for residents of rural areas of the United States through strategic investments in National Highway System bridges and bridges on all public roads; and
+
+&emsp;&emsp;(F) to ensure adequate passage of aquatic and terrestrial species, where appropriate.
 
 (b)
 
@@ -36,9 +38,11 @@ National Bridge and Tunnel Inventories.—The Secretary, in consultation with th
 
 &emsp;(3) classify the bridges according to serviceability, safety, and essentiality for public use, including the potential impacts to emergency evacuation routes and to regional and national freight and passenger mobility if the serviceability of the bridge is restricted or diminished;
 
-&emsp;(4) based on that classification, assign each a risk-based priority for systematic preventative maintenance, replacement, or rehabilitation; and
+&emsp;(4) based on that classification, assign each a risk-based priority for systematic preventative maintenance, replacement, or rehabilitation;
 
-&emsp;(5) determine the cost of replacing each structurally deficient bridge identified under this subsection with a comparable facility or the cost of rehabilitating the bridge.
+&emsp;(5) determine the cost of replacing each bridge classified as in poor condition identified under this subsection with a comparable facility or the cost of rehabilitating the bridge; and
+
+&emsp;(6) determine if the replacement or rehabilitation of bridges and tunnels should include measures to enable safe and unimpeded movement for terrestrial and aquatic species.
 
 (c)
 
@@ -86,7 +90,7 @@ Bridges not on national highway system.—The Secretary shall—
 
 &emsp;&emsp;(A) conduct a study on the benefits, cost-effectiveness, and feasibility of requiring element-level data collection for bridges not on the National Highway System; and
 
-&emsp;&emsp;(B) submit to the Committee on Transportation and Infrastructure of the House ofRepresentatives and the Committee on Environment and Public Works of the Senate a report on the results of the study.
+&emsp;&emsp;(B) submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the results of the study.
 
 (e)
 
@@ -118,7 +122,7 @@ In general.—Notwithstanding any other provision of law, a State may use the fu
 
 &emsp;&emsp;(C) any ferry that was in existence on January 1, 1984; or
 
-&emsp;&emsp;(D) any road bridge that is rendered obsolete as a result of a Corps of Engineers flood control or channelization project and is not rebuilt with funds from the Corps of Engineers.
+&emsp;&emsp;(D) any road bridge that is rendered obsolete as a result of a Corps of Engineers floodcontrol or channelization project and is not rebuilt with funds from the Corps of Engineers.
 
 &emsp;(2)
 
@@ -282,6 +286,10 @@ In general.—The Secretary, in cooperation with the State transportation depart
 
 Revisions.—The training program shall be revised from time to time to take into account new and improved techniques.
 
+&emsp;(3)
+
+Requirement.—The first revision under paragraph (2) after the date of enactment of the Surface Transportation Reauthorization Act of 2021 shall include techniques to assess passage of aquatic and terrestrial species and habitat restoration potential.
+
 (j)
 
 Bundling of Bridge Projects.—
@@ -320,10 +328,6 @@ Financial characteristics.—Projects bundled under this subsection shall have t
 
 &emsp;&emsp;(B) the same Federal share.
 
-&emsp;(6)
-
-Engineering cost reimbursement.—The provisions of section 102(b) do not apply to projects carried out under this subsection.
-
 (k)
 
 Availability of Funds.—In carrying out this section—
@@ -336,7 +340,7 @@ Availability of Funds.—In carrying out this section—
 
 &emsp;(4) a Federal agency may use funds made available to the agency under section 503.
 
-(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445; Pub. L. 114–94, div. A, title I, §1111, Dec. 4, 2015, 129 Stat. 1344.)
+(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445; Pub. L. 114–94, div. A, title I, §1111, Dec. 4, 2015, 129 Stat. 1344; Pub. L. 117–58, div. A,title I, §§11123(e), 11310(b), 11524(b), Nov. 15, 2021, 135 Stat. 506, 536, 606.)
 
 #### <b>Editorial Notes</b>
 
@@ -348,7 +352,21 @@ The General Bridge Act of 1946, referred to in subsec. (c)(1), is title V of act
 
 The date of enactment of the MAP–21, referred to in subsecs. (d)(2) and (h)(5)(A), (6), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of this title.
 
+The date of enactment of the Surface Transportation Reauthorization Act of 2021, referred to in subsec. (i)(3), is the date of enactment of div. A of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(2)(B). Pub. L. 117–58, §11123(e)(1)(A), inserted ", resilience," after "safety".
+
+Subsec. (a)(2)(F). Pub. L. 117–58, §11123(e)(1)(B)–(D), added subpar. (F).
+
+Subsec. (b)(5). Pub. L. 117–58, §11524(b), substituted "bridge classified as in poor condition" for "structurally deficient bridge".
+
+Subsec. (b)(6). Pub. L. 117–58, §11123(e)(2), added par. (6).
+
+Subsec. (i)(3). Pub. L. 117–58, §11123(e)(3), added par. (3).
+
+Subsec. (j)(6). Pub. L. 117–58, §11310(b), struck out par. (6). Text read as follows: "The provisions of section 102(b) do not apply to projects carried out under this subsection."
 
 <b>2015</b>—Subsec. (c)(2)(A). Pub. L. 114–94, §1111(1), substituted "the natural condition of the water" for "the natural condition of the bridge".
 
@@ -470,7 +488,7 @@ Subsec. (d). Pub. L. 102–240, §1028(b), inserted "Whenever any State makes ap
 
 Subsec. (f). Pub. L. 102–240, §1028(c), substituted "project" for "highway bridge replaced or rehabilitated".
 
-Subsec. (g)(1). Pub. L. 102–240, §1028(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Of the amount authorized per fiscal year foreach of fiscal years 1987, 1988, 1989, 1990, and 1991 by section 106(a)(5) of the Federal-Aid Highway Act of 1987, all but $225,000,000 per fiscal year shall be apportioned as provided in subsection (e) of this section. $225,000,000 per fiscal year of the amount authorized for each of such fiscal years shall be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date, except that the obligation of such $225,000,000 shall, subject to section 149(d) of the Federal-Aid Highway Act of 1987, be at the discretion of the Secretary."
+Subsec. (g)(1). Pub. L. 102–240, §1028(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Of the amount authorized per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991 by section 106(a)(5) of the Federal-Aid Highway Act of 1987, all but $225,000,000 per fiscal year shall be apportioned as provided in subsection (e) of this section. $225,000,000 per fiscal year of the amount authorized for each of such fiscal years shall be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date, except that the obligation of such $225,000,000 shall, subject to section 149(d) of the Federal-Aid Highway Act of 1987, be at the discretion of the Secretary."
 
 Subsec. (g)(3). Pub. L. 102–240, §1028(e)(1), substituted "1991, 1992, 1993, 1994, 1995, 1996, and 1997" for "and 1991" and ", rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to" for "or rehabilitate".
 
@@ -480,7 +498,7 @@ Subsecs. (p), (q). Pub. L. 102–240, §1028(e)(2), added subsec. (p) and redesi
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–17, §133(b)(11), inserted at end "Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligated at the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection."
 
-Pub. L. 100–17, §123(d)(3), inserted after third sentence "For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services."
+Pub. L. 100–17, §123(d)(3), inserted after third sentence "For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating toreplacement of destroyed bridges and ferryboat services."
 
 Subsec. (g). Pub. L. 100–17, §123(a), amended subsec. (g) generally, revising and restating as pars. (1) to (3) provisions formerly contained in pars. (1) and (2).
 
@@ -539,6 +557,10 @@ Subsecs. (j) to (m). Pub. L. 95–599 added subsecs. (j) to (m).
 Subsecs. (f) to (h). Pub. L. 93–87, §204(b), (c), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -626,7 +648,7 @@ Pub. L. 97–424, title I, §130, Jan. 6, 1983, 96 Stat. 2118, authorized funds 
 
 #### Discretionary Bridge Criteria
 
-Pub. L. 97–424, title I, §161, Jan. 6, 1983, 96 Stat. 2135, as amended by Pub. L. 100–17, title I, §123(h), Apr. 2,1987, 101 Stat. 164, required the Secretary to develop a selection process and issue a final regulation no later than 6 months after Jan. 6, 1983, regarding funding priority of discretionary bridges.
+Pub. L. 97–424, title I, §161, Jan. 6, 1983, 96 Stat. 2135, as amended by Pub. L. 100–17, title I, §123(h), Apr. 2, 1987, 101 Stat. 164, required the Secretary to develop a selection process and issue a final regulation no later than 6 months after Jan. 6, 1983, regarding funding priority of discretionary bridges.
 
 #### Transfer of Discretionary Bridge Funds
 
@@ -634,7 +656,7 @@ Pub. L. 96–106, §8(b), Nov. 9, 1979, 93 Stat. 797, provided for the transfer 
 
 #### Time for Completion of Inventory and Classification of Highway Bridges
 
-Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secretary of Transportation to complete the requirements of subsec. (c) of this section, as amended by subsec. (a) of section 124 of Pub. L. 95–599, not later than the last day of the second full calendar year which begins after Nov. 6, 1978.
+Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secretary of Transportation to complete the requirements of subsec. (c) of this section, as amended by subsec. (a) of section 124 of Pub. L. 95–599,not later than the last day of the second full calendar year which begins after Nov. 6, 1978.
 
 #### Acceleration of Bridge Projects; Ohio River Bridge Fund Reprogramming; Reports to Congress
 

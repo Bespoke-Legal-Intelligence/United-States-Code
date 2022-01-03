@@ -4,9 +4,13 @@ The purpose of this chapter is to assist and encourage the communities of the Na
 
 (Pub. L. 89–117, title VII, §701, Aug. 10, 1965, 79 Stat. 489; Pub. L. 90–448, title VI, §603(a), Aug. 1, 1968, 82 Stat. 533.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1968</b>—Pub. L. 90–448 substituted "in the future for public purposes" for "in connection with the future construction of public works and facilities" in cl. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1970 Amendment
 

@@ -50,7 +50,7 @@ The initiative described in subsection (a) shall include the following activitie
 
 #### (3) Administration
 
-&emsp;In making grants under this section, the Secretary shall follow the requirements ofparagraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title.
+&emsp;In making grants under this section, the Secretary shall follow the requirements of paragraphs (4), (7), (8), and (11)(B) of subsection (b) of section 3157 of this title.
 
 #### (4) Term
 
@@ -81,6 +81,8 @@ The Secretary shall submit an annual report to the Committee on Agriculture of t
 &emsp;To the extent practicable, the Secretary shall match any funds made available under paragraph (1) with funds made available under section 1646 of title 16.
 
 (Pub. L. 105–185, title VI, §617, as added Pub. L. 113–79, title VII, §7310, Feb. 7, 2014, 128 Stat. 892; amended Pub. L. 115–334, title VII, §7308, Dec. 20, 2018, 132 Stat. 4816.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

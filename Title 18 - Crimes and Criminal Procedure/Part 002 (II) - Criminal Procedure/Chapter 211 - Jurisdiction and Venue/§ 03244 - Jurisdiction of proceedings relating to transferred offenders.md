@@ -10,7 +10,7 @@ When a treaty is in effect between the United States and a foreign country provi
 
 &emsp;(4) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender's transfer from the United States shall be brought in the United States district court of the district in which the proceedings to determine the validity of the offender's consent were held and shall name the Attorney General as respondent; and
 
-&emsp;(5) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender's transfer to the United States shall be brought in the United States district court of the district in which the offender is confined or of the district in which supervision is exercised and shall name the Attorney General and the official having immediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings.
+&emsp;(5) all proceedings instituted by or on behalf of an offender seeking to challenge the validity or legality of the offender's transfer to the United States shall be brought in the United States district court of the district in which the offender is confined or of the district in which supervision is exercised and shall name the Attorney General and the official havingimmediate custody or exercising immediate supervision of the offender as respondents. The Attorney General shall defend against such proceedings.
 
 (Added Pub. L. 95–144, §3, Oct. 28, 1977, 91 Stat. 1220, title 28, §2256; renumbered Pub. L. 95–598, title III, §314(j)(1), Nov. 6, 1978, 92 Stat. 2677.)
 

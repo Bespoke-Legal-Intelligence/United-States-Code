@@ -6,9 +6,13 @@
 
 (Pub. L. 91–577, title III, §126, Dec. 24, 1970, 84 Stat. 1556; Pub. L. 103–349, §13(u), Oct. 6, 1994, 108 Stat. 3144.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–349 substituted "the" for "his" before "claim has been denied".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

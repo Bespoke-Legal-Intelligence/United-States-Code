@@ -19,7 +19,7 @@
 
 &emsp;(3) Those counted under section 526 of this title.
 
-&emsp;(4) Those serving in a joint duty assignment for purposes of chapter 38 of this title, exceptthat the number of officers who may be excluded under this paragraph may not exceed the number equal to 20 percent of the number of officers authorized for the armed force concerned by subsection (a).
+&emsp;(4) Those serving in a joint duty assignment for purposes of chapter 38 of this title, except that the number of officers who may be excluded under this paragraph may not exceed the number equal to 20 percent of the number of officers authorized for the armed force concerned by subsection (a).
 
 (c)(1) The following Navy reserve officers shall not be counted for purposes of this section:
 
@@ -42,6 +42,8 @@
 (f) The limitations in subsection (a) do not apply to an officer released from a joint duty assignment or other non-joint active duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty or other active duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers in an active status from each reserve component may be covered by an extension under this sentence at the same time.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2984; amended Pub. L. 104–106, div. A, title XV, §1501(b)(9), Feb. 10, 1996, 110 Stat. 496; Pub. L. 105–261, div. A, title IV, §415, Oct. 17, 1998, 112 Stat. 1998; Pub. L. 109–163, div. A, title V, §§512, 515(b)(1)(EE), Jan. 6, 2006, 119 Stat. 3232, 3233; Pub. L. 110–417, \[div. A\], title V, §526, Oct. 14, 2008, 122 Stat. 4448; Pub. L. 111–84, div. A, title V, §502(h), Oct. 28, 2009, 123 Stat. 2276; Pub. L. 111–383, div. A, title V, §511, Jan. 7, 2011, 124 Stat. 4210.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -70,6 +72,8 @@ Subsec. (e)(2). Pub. L. 109–163, §515(b)(1)(EE), substituted "Navy Reserve" f
 Subsec. (c)(4). Pub. L. 105–261, §415(2), added par. (4).
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–106 substituted "active status, are" for "active-status, are".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -24,6 +24,8 @@ The Commission is authorized to accept, hold, administer, and utilize gifts, beq
 
 (Pub. L. 107–204, title III, §308, July 30, 2002, 116 Stat. 784; Pub. L. 111–203, title IX, §929B, July 21, 2010, 124 Stat. 1852.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 308 of Pub. L. 107–204. Subsec. (d) of section 308 of Pub. L. 107–204 amended sections 77t, 78u, 78u–1, 80a–41, and 80b–9 of this title.
@@ -36,9 +38,11 @@ Subsec. (b). Pub. L. 111–203, §929B(2), substituted "for a disgorgement fund 
 
 Subsec. (e). Pub. L. 111–203, §929B(3), struck out subsec. (e). Text read as follows: "As used in this section, the term 'disgorgement fund' means a fund established in any administrative or judicial proceeding described in subsection (a) of this section."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
+Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
 <i><sup>1</sup></i><i> So in original. The word "of" probably should not appear.</i>
 

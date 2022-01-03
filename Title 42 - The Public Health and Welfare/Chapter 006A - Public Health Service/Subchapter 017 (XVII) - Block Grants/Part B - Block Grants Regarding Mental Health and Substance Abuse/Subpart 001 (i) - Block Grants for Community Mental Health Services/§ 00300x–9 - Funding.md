@@ -26,9 +26,11 @@ For the purpose of carrying out this subpart, and subpart III and section 290aa�
 
 #### (2) State flexibility
 
-&emsp;In lieu of expending 10 percent of the amount the State receives under this section for a fiscal year as required under paragraph (1), a State may elect to expend not less than 20 percent of such amount by the end of such succeeding fiscal year.
+&emsp;In lieu of expending 10 percent of the amount the State receives under this sectionfor a fiscal year as required under paragraph (1), a State may elect to expend not less than 20 percent of such amount by the end of such succeeding fiscal year.
 
 (July 1, 1944, ch. 373, title XIX, §1920, as added Pub. L. 102–321, title II, §201(2), July 10, 1992, 106 Stat. 388; amended Pub. L. 106–310, div. B, title XXXII, §3204(f), Oct. 17, 2000, 114 Stat. 1193; Pub. L. 114–255, div. B, title VIII, §8001(c), (f), Dec. 13, 2016, 130 Stat. 1228, 1229.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

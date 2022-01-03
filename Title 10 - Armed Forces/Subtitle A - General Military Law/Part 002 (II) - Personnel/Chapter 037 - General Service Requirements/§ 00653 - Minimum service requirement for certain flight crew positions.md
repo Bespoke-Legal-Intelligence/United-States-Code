@@ -20,6 +20,8 @@ Definition.—In this section, the term "service obligation" means the period of
 
 (Added Pub. L. 101–189, div. A, title VI, §634(a)(1), Nov. 29, 1989, 103 Stat. 1454; amended Pub. L. 101–510, div. A, title XIV, §1484(k)(3), Nov. 5, 1990, 104 Stat. 1719; Pub. L. 102–484, div. A, title V, §506(a), Oct. 23, 1992, 106 Stat. 2404.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsecs. (a), (b). Pub. L. 102–484, §506(a)(1), substituted "service obligation" for "active duty obligation".
@@ -29,6 +31,8 @@ Subsec. (c). Pub. L. 102–484, §506(a)(2), substituted "the term 'service obli
 <b>1990</b>—Subsec. (a). Pub. L. 101–510, §1484(k)(3)(A), substituted "or" for "and" before "6 years".
 
 Subsec. (c). Pub. L. 101–510, §1484(k)(3)(B), inserted a comma after first reference to "training" in pars. (1) and (2) and after first reference to "naval flight officer" in par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 
@@ -40,7 +44,7 @@ Pub. L. 101–189, div. A, title VI, §634(b), Nov. 29, 1989, 103 Stat. 1454, pr
 
 "(1) Except as provided in paragraphs (2) and (3), section 653 of title 10, United States Code, as added by subsection (a)(1), shall apply to persons who begin undergraduate pilot training, undergraduate navigator training, or undergraduate naval flight officer training, as the case may be, after September 30, 1990.
 
-"(2) Such section shall apply to persons who graduate from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the Coast Guard Academy after December 31, 1991, and to persons who satisfactorily completethe academic and military requirements of the Senior Reserve Officers' Training Corps program (provided for in chapter 103 of title 10, United States Code) after December 31, 1991.
+"(2) Such section shall apply to persons who graduate from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, and the Coast Guard Academy after December 31, 1991, and to persons who satisfactorily complete the academic and military requirements of the Senior Reserve Officers' Training Corps program (provided for in chapter 103 of title 10, United States Code) after December 31, 1991.
 
 "(3) The minimum service requirements provided for such section shall not apply in the case of any person who entered into an agreement with the Secretary concerned before October 1, 1990, and who is obligated under the terms of such agreement to serve on active duty for a period less than the applicable period specified in section 653 of such title.
 

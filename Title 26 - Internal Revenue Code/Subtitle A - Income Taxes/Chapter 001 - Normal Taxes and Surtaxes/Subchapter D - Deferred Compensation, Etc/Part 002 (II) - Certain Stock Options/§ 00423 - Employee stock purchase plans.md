@@ -56,7 +56,7 @@ For purposes of this part, the term "employee stock purchase plan" means a plan 
 
 #### (c) Special rule where option price is between 85 percent and 100 percent of value of stock
 
-If the option price of a share of stock acquired by an individual pursuant to a transfer to which subsection (a) applies was less than 100 percent of the fair market value of such share at the time such option was granted, then, in the event of any disposition of such share by him which meets the holding period requirements of subsection (a), or in the event of his death (whenever occurring) while owning such share, there shall be included as compensation (and not as gain upon the sale or exchange of a capital asset) in his gross income, for the taxable year in which falls the date of such disposition or for the taxable year closing with his death, whichever applies, an amount equal to the lesser of—
+If the option price of a share of stock acquired by an individual pursuant to a transfer to which subsection (a) applies was less than 100 percentof the fair market value of such share at the time such option was granted, then, in the event of any disposition of such share by him which meets the holding period requirements of subsection (a), or in the event of his death (whenever occurring) while owning such share, there shall be included as compensation (and not as gain upon the sale or exchange of a capital asset) in his gross income, for the taxable year in which falls the date of such disposition or for the taxable year closing with his death, whichever applies, an amount equal to the lesser of—
 
 &emsp;(1) the excess of the fair market value of the share at the time of such disposition or death over the amount paid for the share under the option, or
 
@@ -69,6 +69,8 @@ If the option price of a share of stock acquired by an individual pursuant to a 
 An option for which an election is made under section 83(i) with respect to the stock received in connection with its exercise shall not be considered as granted pursuant an employee stock purchase plan.
 
 (Added Pub. L. 88–272, title II, §221(a), Feb. 26, 1964, 78 Stat. 67; amended Pub. L. 94–455, title XIV, §1402(b)(1)(E), (2), Oct. 4, 1976, 90 Stat. 1732; Pub. L. 98–369, div. A, title X, §1001(b)(5), (e), July 18, 1984, 98 Stat. 1011, 1012; Pub. L. 99–514, title XI, §1114(b)(13), Oct. 22, 1986, 100 Stat. 2451; Pub. L. 101–508, title XI, §11801(c)(9)(D), (E), Nov. 5, 1990, 104 Stat. 1388–525; Pub. L. 108–357, title II, §251(c), Oct. 22, 2004, 118 Stat. 1459; Pub. L. 113–295, div. A, title II, §221(a)(56), Dec. 19, 2014, 128 Stat. 4046; Pub. L. 115–97, title I, §13603(c)(1)(B), Dec. 22, 2017, 131 Stat. 2164.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -93,6 +95,8 @@ Subsec. (b)(3). Pub. L. 101–508, §11801(c)(9)(E), substituted "424(d)" for "4
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §1402(b)(2), provided that "9 months" would be changed to "1 year".
 
 Pub. L. 94–455, §1402(b)(1)(E), provided that "6 months" would be changed to "9 months" for taxable years beginning in 1977.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -130,7 +134,7 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

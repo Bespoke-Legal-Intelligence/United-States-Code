@@ -12,7 +12,7 @@ The Secretary of the Treasury (in this section referred to as the "Secretary"), 
 
 #### (2) Development of multimedia campaign
 
-&emsp;The Secretary, after review of the recommendations of the Commission, shall develop, in consultation with nonprofit, public, or private organizations, especially those that are well qualified by virtue of their experience in the field of financial literacy and education,to develop the financial literacy national public service multimedia campaign.
+&emsp;The Secretary, after review of the recommendations of the Commission, shall develop, in consultation with nonprofit, public, or private organizations, especially those that are well qualified by virtue of their experience in the field of financial literacy and education, to develop the financial literacy national public service multimedia campaign.
 
 #### (3) Focus of campaign
 
@@ -32,9 +32,11 @@ For each fiscal year for which there are appropriations pursuant to the authoriz
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development, production, and distribution of a pilot national public service multimedia campaign under this section.
+There are authorized to be appropriated to the Secretary, not to exceed $3,000,000 for fiscal years 2004, 2005, and 2006, for the development,production, and distribution of a pilot national public service multimedia campaign under this section.
 
 (Pub. L. 108–159, title V, §518, Dec. 4, 2003, 117 Stat. 2009.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

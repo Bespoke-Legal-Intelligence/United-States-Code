@@ -18,6 +18,8 @@ Subpart B—Taxable Year for Which Items of Gross Income Included
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 Pub. L. 110–343, div. C, title VIII, §801(c), Oct. 3, 2008, 122 Stat. 3931, added item 457A.

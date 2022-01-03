@@ -46,7 +46,7 @@
 
 &emsp;(ii) the effect of the termination.
 
-(3)(A) Notwithstanding paragraph (1), a written service agreement is not required if the agency pays a retention bonus in biweekly installments and sets the installment payment at the full bonus percentage rate established for the employee with no portion of the bonus deferred.
+(3)(A) Notwithstanding paragraph (1), a written service agreement is not required if the agency pays a retention bonus in biweekly installments and sets the installment payment at the full bonus percentage rate established forthe employee with no portion of the bonus deferred.
 
 (B) If an agency pays a retention bonus in accordance with subparagraph (A) and makes a determination to terminate the payments, the agency shall provide written notice to the employee of that determination. Except as provided in regulations of the Office, the employee shall continue to be paid the retention bonus through the end of the pay period in which such written notice is provided.
 

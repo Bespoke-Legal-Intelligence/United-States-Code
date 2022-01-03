@@ -30,7 +30,7 @@
 
 #### (4) Report to Congress
 
-&emsp;Not later than January 1, 2023, the EPA Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energyand Commerce of the House of Representatives a report that includes—
+&emsp;Not later than January 1, 2023, the EPA Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives a report that includes—
 
 &emsp;&emsp;(A) a description of the activities carried out under this subsection;
 
@@ -112,7 +112,7 @@ There are authorized to be appropriated—
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (e)(3), is act June 30, 1948, ch. 758. Title VI ofthe Act, as added by Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 22, is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (e)(3), is act June 30, 1948, ch. 758. Title VI of the Act, as added by Pub. L. 100–4, title II, §212(a), Feb. 4, 1987, 101 Stat. 22, is classified generally to subchapter VI (§1381 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by "in".</i>
 

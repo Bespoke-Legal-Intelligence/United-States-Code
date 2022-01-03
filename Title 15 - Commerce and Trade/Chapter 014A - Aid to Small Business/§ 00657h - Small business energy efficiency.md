@@ -236,11 +236,15 @@ In this section—
 
 (Pub. L. 110–140, title XII, §1203, Dec. 19, 2007, 121 Stat. 1766.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is comprised of section 1203 of Pub. L. 110–140. Subsec. (e) of section 1203 of Pub. L. 110–140 amended section 638 of this title.
 
 Section was enacted as part of the Energy Independence and Security Act of 2007, and not as part of the Small Business Act which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

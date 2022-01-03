@@ -10,7 +10,7 @@ Records, Reports, Information, and Inspection.—To enable the Secretary of Tran
 
 &emsp;(3) provide items and information; and
 
-&emsp;(4) allow an officer or employee designated by the Secretary to inspect the vehicles and parts and relevant records of the manufacturer.
+&emsp;(4) allow an officer or employee designated by the Secretary to inspect the vehicles andparts and relevant records of the manufacturer.
 
 (b)
 

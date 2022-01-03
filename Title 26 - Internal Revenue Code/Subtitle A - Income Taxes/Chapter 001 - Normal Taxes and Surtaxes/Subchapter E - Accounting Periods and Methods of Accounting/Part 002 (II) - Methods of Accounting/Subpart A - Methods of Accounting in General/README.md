@@ -8,6 +8,8 @@ Subpart A—Methods of Accounting in General
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Pub. L. 99–514, title VIII, §801(c), Oct. 22, 1986, 100 Stat. 2348, added item 448.

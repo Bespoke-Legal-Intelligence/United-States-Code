@@ -36,6 +36,8 @@ Nothing in this Act, including this section and the amendment made by this secti
 
 (Pub. L. 107–204, title I, §108, July 30, 2002, 116 Stat. 768.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.

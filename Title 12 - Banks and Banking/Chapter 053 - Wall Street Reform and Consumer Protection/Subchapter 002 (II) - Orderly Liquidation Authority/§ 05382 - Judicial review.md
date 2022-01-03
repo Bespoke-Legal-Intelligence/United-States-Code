@@ -8,7 +8,7 @@
 
 #### (i) Petition to District Court
 
-&emsp;&emsp;&emsp;Subsequent to a determination by the Secretary under section 5383 of this title that a financial company satisfies the criteria in section 5383(b) of this title, the Secretary shall notify the Corporation and the covered financial company. If the board of directors (or body performing similar functions) of the covered financial company acquiesces or consents to the appointment of the Corporation as receiver, the Secretary shall appoint the Corporation as receiver. If the board of directors (or body performing similar functions) of the covered financial company does not acquiesce or consent to the appointment of the Corporation as receiver, the Secretary shall petition the United States District Court for the District of Columbia for an order authorizing the Secretary to appoint the Corporation as receiver.
+&emsp;&emsp;&emsp;Subsequent to a determination by the Secretary under section 5383 of this title that a financial company satisfies the criteria in section 5383(b) of this title, the Secretary shall notify the Corporation and the covered financial company. If the board of directors (or body performing similar functions) of the covered financialcompany acquiesces or consents to the appointment of the Corporation as receiver, the Secretary shall appoint the Corporation as receiver. If the board of directors (or body performing similar functions) of the covered financial company does not acquiesce or consent to the appointment of the Corporation as receiver, the Secretary shall petition the United States District Court for the District of Columbia for an order authorizing the Secretary to appoint the Corporation as receiver.
 
 #### (ii) Form and content of order
 
@@ -166,7 +166,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor theactivities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
+&emsp;&emsp;The Administrative Office of the United States Courts and the Comptroller General of the United States shall each monitor the activities of the Court, and each such Office shall conduct separate studies regarding the bankruptcy and orderly liquidation process for financial companies under the Bankruptcy Code.
 
 #### (B) Issues to be studied
 
@@ -234,7 +234,7 @@
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was in the original "this title", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(1)(A)(v)(III), (c), and (d)(5), was in the original "thistitle", meaning title II of Pub. L. 111–203, July 21, 2010, 124 Stat. 1442, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

@@ -26,11 +26,11 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 &emsp;&emsp;&emsp;(i) shall include representatives of labor organizations (for a local area in which employees are represented by labor organizations), who have been nominated by local labor federations, or (for a local area in which no employees are represented by such organizations) other representatives of employees;
 
-&emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or if no such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
+&emsp;&emsp;&emsp;(ii) shall include a representative, who shall be a member of a labor organization or a training director, from a joint labor-management apprenticeship program, or ifno such joint program exists in the area, such a representative of an apprenticeship program in the area, if such a program exists;
 
 &emsp;&emsp;&emsp;(iii) may include representatives of community-based organizations that have demonstrated experience and expertise in addressing the employment needs of individuals with barriers to employment, including organizations that serve veterans or that provide or support competitive integrated employment for individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(iv) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives oforganizations that serve out-of-school youth;
+&emsp;&emsp;&emsp;(iv) may include representatives of organizations that have demonstrated experience and expertise in addressing the employment, training, or education needs of eligible youth, including representatives of organizations that serve out-of-school youth;
 
 &emsp;&emsp;(C) each local board shall include representatives of entities administering education and training activities in the local area, who—
 
@@ -92,7 +92,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (A) In general
 
-&emsp;&emsp;The chief elected official in a local area is authorized to appoint the members of thelocal board for such area, in accordance with the State criteria established under subsection (b).
+&emsp;&emsp;The chief elected official in a local area is authorized to appoint the members of the local board for such area, in accordance with the State criteria established under subsection (b).
 
 #### (B) Multiple units of local government in area
 
@@ -158,7 +158,7 @@ Except as provided in subsection (c)(2)(A), there shall be established, and cert
 
 #### (ii) Plans
 
-&emsp;&emsp;&emsp;The State board shall prepare a local plan under section 3123 of this title for the State, and submit the plan for approval as part of the State plan.
+&emsp;&emsp;&emsp;The State board shall prepare a local plan under section 3123 of this title for theState, and submit the plan for approval as part of the State plan.
 
 #### (iii) Performance accountability measures
 
@@ -292,7 +292,7 @@ Consistent with section 3123 of this title, the functions of the local board sha
 
 #### (A) Budget
 
-&emsp;&emsp;The local board shall develop a budget for the activities of the local board in the localarea, consistent with the local plan and the duties of the local board under this section, subject to the approval of the chief elected official.
+&emsp;&emsp;The local board shall develop a budget for the activities of the local board in the local area, consistent with the local plan and the duties of the local board under this section, subject to the approval of the chief elected official.
 
 #### (B) Administration
 
@@ -366,7 +366,7 @@ The local board shall make available to the public, on a regular basis through e
 
 #### (C) Duration
 
-&emsp;&emsp;A waiver granted to a local board under subparagraph (B) shall apply for a periodthat shall not exceed the duration of the local plan. The waiver may be renewed for additional periods under subsequent local plans, not to exceed the durations of such subsequent plans, pursuant to requests from the local board, if the board meets the requirements of subparagraph (B) in making the requests.
+&emsp;&emsp;A waiver granted to a local board under subparagraph (B) shall apply for a period that shall not exceed the duration of the local plan. The waiver may be renewed for additional periods under subsequent local plans, not to exceed the durations of such subsequent plans, pursuant to requests from the local board, if the board meets the requirements of subparagraph (B) in making the requests.
 
 #### (D) Revocation
 
@@ -440,5 +440,5 @@ Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovati
 
 #### Effective Date
 
-Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
+Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section506 of Pub. L. 113–128, set out as a note under section 3101 of this title.
 

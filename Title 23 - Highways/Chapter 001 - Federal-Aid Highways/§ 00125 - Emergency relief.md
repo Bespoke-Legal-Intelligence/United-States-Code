@@ -4,25 +4,13 @@
 
 In General.—Subject to this section and section 120, an emergency fund is authorized for expenditure by the Secretary for the repair or reconstruction of highways, roads, and trails, in any area of the United States, including Indian reservations, that the Secretary finds have suffered serious damage as a result of—
 
-&emsp;(1) a natural disaster over a wide area, such as by a flood, hurricane, tidal wave, earthquake, severe storm, or landslide; or
+&emsp;(1) a natural disaster over a wide area, such as by a flood, hurricane, tidal wave, earthquake, severe storm, wildfire, or landslide; or
 
 &emsp;(2) catastrophic failure from any external cause.
 
 (b)
 
-Restriction on Eligibility.—
-
-&emsp;(1)
-
-Definition of construction phase.—In this subsection, the term "construction phase" means the phase of physical construction of a highway or bridge facility that is separate from any other identified phases, such as planning, design, or right-of-way phases, in the State transportation improvement program.
-
-&emsp;(2)
-
-Restriction.—In no case shall funds be used under this section for the repair or reconstruction of a bridge—
-
-&emsp;&emsp;(A) that has been permanently closed to all vehicular traffic by the State or responsible local official because of imminent danger of collapse due to a structural deficiency or physical deterioration; or
-
-&emsp;&emsp;(B) if a construction phase of a replacement structure is included in the approved Statewide transportation improvement program at the time of an event described in subsection (a).
+Restriction on Eligibility.—Funds under this section shall not be used for the repair or reconstruction of a bridge that has been permanently closed to all vehicular traffic by the State or responsible local official because of imminent danger of collapse due to a structural deficiency or physical deterioration.
 
 (c)
 
@@ -64,13 +52,49 @@ Cost limitation.—
 
 &emsp;&emsp;(A)
 
-Definition of comparable facility.—In this paragraph, the term "comparable facility" means a facility that meets the current geometric and construction standards required for the types and volume of traffic that the facility will carry over its design life.
+Definition of comparable facility.—In this paragraph, the term "comparable facility" means a facility that—
+
+&emsp;&emsp;&emsp;(i) meets the current geometric and construction standards required for the types and volume of traffic that the facility will carry over its design life; and
+
+&emsp;&emsp;&emsp;(ii) incorporates economically justifiable improvements that will mitigate the risk of recurring damage from extreme weather, flooding, and other natural disasters.
 
 &emsp;&emsp;(B)
 
 Limitation.—The total cost of a project funded under this section may not exceed the cost of repair or reconstruction of a comparable facility.
 
 &emsp;(3)
+
+Protective features.—
+
+&emsp;&emsp;(A)
+
+In general.—The cost of an improvement that is part of a project under this section shall be an eligible expense under this section if the improvement is a protective feature that will mitigate the risk of recurring damage or the cost of future repair from extreme weather, flooding, and other natural disasters.
+
+&emsp;&emsp;(B)
+
+Protective features described.—A protective feature referred to in subparagraph (A) includes—
+
+&emsp;&emsp;&emsp;(i) raising roadway grades;
+
+&emsp;&emsp;&emsp;(ii) relocating roadways in a floodplain to higher ground above projected flood elevation levels or away from slide prone areas;
+
+&emsp;&emsp;&emsp;(iii) stabilizing slide areas;
+
+&emsp;&emsp;&emsp;(iv) stabilizing slopes;
+
+&emsp;&emsp;&emsp;(v) lengthening or raising bridges to increase waterway openings;
+
+&emsp;&emsp;&emsp;(vi) increasing the size or number of drainage structures;
+
+&emsp;&emsp;&emsp;(vii) replacing culverts with bridges or upsizing culverts;
+
+&emsp;&emsp;&emsp;(viii) installing seismic retrofits on bridges;
+
+&emsp;&emsp;&emsp;(ix) adding scour protection at bridges, installing riprap, or adding other scour, stream stability, coastal, or other hydraulic countermeasures, including spur dikes; and
+
+&emsp;&emsp;&emsp;(x) the use of natural infrastructure to mitigate the risk of recurring damage or the cost of future repair from extreme weather, flooding, and other natural disasters.
+
+&emsp;(4)
 
 Debris removal.—The costs of debris removal shall be an eligible expense under this section only for—
 
@@ -79,8 +103,6 @@ Debris removal.—The costs of debris removal shall be an eligible expense under
 &emsp;&emsp;(B) an event declared a major disaster or emergency by the President under that Act if the debris removal is not eligible for assistance under section 403, 407, or 502 of that Act (42 U.S.C. 5170b, 5173, 5192); or
 
 &emsp;&emsp;(C) projects eligible for assistance under this section located on tribal transportation facilities, Federal lands transportation facilities, or other federally owned roads that are open to public travel (as defined in subsection (e)(1)).
-
-&emsp;\[(4) Repealed. Pub. L. 116–94, div. H, title I, §127, Dec. 20, 2019, 133 Stat. 2953.\]
 
 &emsp;(5)
 
@@ -136,15 +158,23 @@ Treatment of Territories.—For purposes of this section, the Virgin Islands, Gu
 
 Protecting Public Safety and Maintaining Roadways.—The Secretary may use not more than 5 percent of amounts from the emergency fund authorized by this section to carry out projects that the Secretary determines are necessary to protect the public safety or to maintain or protect roadways that are included within the scope of an emergency declaration by the Governor of the State or by the President, in accordance with this section, and the Governor deems to be an ongoing concern in order to maintain vehicular traffic on the roadway.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18, 1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 151, 193; Pub. L. 112–141, div. A, title I, §1107, July 6, 2012, 126 Stat. 437; Pub. L. 114–94, div. A, title I, §1107, Dec. 4, 2015, 129 Stat. 1337; Pub. L. 116–94, div. H, title I, §127, Dec. 20, 2019, 133 Stat. 2953.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 86–342, title I, §107(a), Sept. 21, 1959, 73 Stat. 612; Pub. L. 89–574, §9(b), (c), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §27(a), Aug. 23, 1968, 82 Stat. 829; Pub. L. 91–605, title I, §109(a), Dec. 31, 1970, 84 Stat. 1718; Pub. L. 92–361, Aug. 3, 1972, 86 Stat. 503; Pub. L. 94–280, title I, §119, May 5, 1976, 90 Stat. 437; Pub. L. 95–599, title I, §119, Nov. 6, 1978, 92 Stat. 2700; Pub. L. 96–106, §19, Nov. 9, 1979, 93 Stat. 799; Pub. L. 97–424, title I, §153(a), (c), (d), (h), Jan. 6, 1983, 96 Stat. 2132, 2133; Pub. L. 99–190, §101(e) \[title III, §334\], Dec. 19, 1985, 99 Stat. 1267, 1290; Pub. L. 99–272, title IV, §4103, Apr. 7, 1986, 100 Stat. 114; Pub. L. 100–17, title I, §§118(a)(1), (b)(1), (2), 133(b)(9), Apr. 2, 1987, 101 Stat. 156, 171; Pub. L. 100–707, §109(k), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 102–240, title I, §1022(b), Dec. 18, 1991, 105 Stat. 1951; Pub. L. 102–302, §101, June 22, 1992, 106 Stat. 252; Pub. L. 105–178, title I, §§1113(b), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat.151, 193; Pub. L. 112–141, div. A, title I, §1107, July 6, 2012, 126 Stat. 437; Pub. L. 114–94, div. A, title I, §1107, Dec. 4, 2015, 129 Stat. 1337; Pub. L. 116–94, div. H, title I, §127, Dec. 20, 2019, 133 Stat. 2953; Pub. L. 117–58, div. A, title I, §11106, Nov. 15, 2021, 135 Stat. 458.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1)(A), (3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(1)(A), (4)(A), (B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a)(1). Pub. L. 117–58, §11106(1), inserted "wildfire," after "severe storm,".
+
+Subsec. (b). Pub. L. 117–58, §11106(2), added subsec. (b) and struck out former subsec. (b) which restricted eligibility of funds for bridge repair or reconstruction in certain cases.
+
+Subsec. (d)(2)(A). Pub. L. 117–58, §11106(3)(A), inserted dash after "a facility that" and cl. (i) designation before "meets the current" and added cl. (ii).
+
+Subsec. (d)(3), (4). Pub. L. 117–58, §11106(3)(B), (C), added par. (3) and redesignated former par. (3) as (4).
 
 <b>2019</b>—Subsec. (d)(4). Pub. L. 116–94 struck out par. (4). Text read as follows: "The total obligations for projects under this section for any fiscal year in the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall not exceed $20,000,000."
 
@@ -224,6 +254,10 @@ Subsec. (c). Pub. L. 89–574, §9(b), added parkways, public lands highways, pu
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
+
 #### Effective Date of 2015 Amendment
 
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under section 5313 of Title 5, Government Organization and Employees.
@@ -253,6 +287,40 @@ Pub. L. 90–495, §27(c), Aug. 23, 1968, 82 Stat. 829, provided that: "The amen
 #### Effective Date of 1966 Amendment
 
 Pub. L. 89–574, §9(d), Sept. 13, 1966, 80 Stat. 769, provided that: "The amendments made by this section \[amending this section\] shall take effect July 1, 1966."
+
+#### Emergency Relief Projects
+
+Pub. L. 117–58, div. A, title I, §11519, Nov. 15, 2021, 135 Stat. 602, provided that:
+
+"(a)
+
+Definition of Emergency Relief Project.—In this section, the term 'emergency relief project' means a project carried out under the emergency relief program under section 125 of title 23, United States Code.
+
+"(b)
+
+Improving the Emergency Relief Program.—Not later than 90 days after the date of enactment of this Act \[Nov. 15, 2021\], the Secretary shall—
+
+&emsp;"(1) revise the emergency relief manual of the Federal Highway Administration—
+
+&emsp;&emsp;"(A) to include and reflect the definition of the term 'resilience' (as defined in section 101(a) of title 23, United States Code);
+
+&emsp;&emsp;"(B) to identify procedures that States may use to incorporate resilience into emergency relief projects; and
+
+&emsp;&emsp;"(C) to encourage the use of Complete Streets design principles and consideration of access for moderate- and low-income families impacted by a declared disaster;
+
+&emsp;"(2) develop best practices for improving the use of resilience in—
+
+&emsp;&emsp;"(A) the emergency relief program under section 125 of title 23, United States Code; and
+
+&emsp;&emsp;"(B) emergency relief efforts;
+
+&emsp;"(3) provide to division offices of the Federal Highway Administration and State departments of transportation information on the best practices developed under paragraph (2); and
+
+&emsp;"(4) develop and implement a process to track—
+
+&emsp;&emsp;"(A) the consideration of resilience as part of the emergency relief program under section 125 of title 23, United States Code; and
+
+&emsp;&emsp;"(B) the costs of emergency relief projects."
 
 #### Expenditures Made Prior to Fiscal Year Ending September 30, 1978; Appropriation From Highway Trust Fund
 

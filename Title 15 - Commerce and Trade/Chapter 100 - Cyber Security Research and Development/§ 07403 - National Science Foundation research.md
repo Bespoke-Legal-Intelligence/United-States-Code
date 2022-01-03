@@ -148,6 +148,8 @@
 
 (Pub. L. 107–305, §4, Nov. 27, 2002, 116 Stat. 2368; Pub. L. 113–274, title II, §§201(e), 202, Dec. 18, 2014, 128 Stat. 2978; Pub. L. 114–329, title I, §§104(a), 105(r), Jan. 6, 2017, 130 Stat. 2975, 2984.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a)(1)(Q), (R). Pub. L. 114–329, §104(a), added subpars. (Q) and (R).

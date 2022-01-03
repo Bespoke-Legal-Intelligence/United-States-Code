@@ -4,9 +4,13 @@ The Secretary shall monitor the provisions by the State of the subsistence prefe
 
 (Pub. L. 96–487, title VIII, §806, Dec. 2, 1980, 94 Stat. 2425; Pub. L. 103–437, §6(y), Nov. 2, 1994, 108 Stat. 4587.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–437 substituted "the Committees on Natural Resources" for "Committee on Interior and Insular Affairs".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

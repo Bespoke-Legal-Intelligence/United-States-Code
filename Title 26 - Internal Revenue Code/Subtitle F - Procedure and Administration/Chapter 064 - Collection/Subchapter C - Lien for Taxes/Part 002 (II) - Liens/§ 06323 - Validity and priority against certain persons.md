@@ -160,7 +160,7 @@ Even though notice of a lien imposed by section 6321 has been filed, such lien s
 
 Even though notice of a lien imposed by section 6321 has been filed, such lien shall not be valid with respect to a security interest which came into existence after tax lien filing by reason of disbursements made before the 46th day after the date of tax lien filing, or (if earlier) before the person making such disbursements had actual notice or knowledge of tax lien filing, but only if such security interest—
 
-&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
+&emsp;(1) is in property (A) subject, at the time of tax lien filing, to the lien imposed by section 6321, and (B) covered by the terms of a written agreement entered into before tax lien filing, and
 
 &emsp;(2) is protected under local law against a judgment lien arising, as of the time of tax lien filing, out of an unsecured obligation.
 
@@ -172,7 +172,7 @@ If the lien imposed by section 6321 is not valid as against a lien or security i
 
 &emsp;(2) the reasonable charges and expenses of an indenture trustee or agent holding the security interest for the benefit of the holder of the security interest,
 
-&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actually incurred in collecting or enforcing the obligation secured,
+&emsp;(3) the reasonable expenses, including reasonable compensation for attorneys, actuallyincurred in collecting or enforcing the obligation secured,
 
 &emsp;(4) the reasonable costs of insuring, preserving, or repairing the property to which the lien or security interest relates,
 
@@ -324,7 +324,7 @@ For purposes of this section and section 6324—
 
 #### (4) Cost-of-living adjustment
 
-&emsp;In the case of notices of liens imposed by section 6321 which are filed in any calendar year after 1998, each of the dollar amounts under paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
+&emsp;In the case of notices of liens imposed by section 6321 which are filed in any calendar year after 1998, each of the dollar amountsunder paragraph (4) or (7) of subsection (b) shall be increased by an amount equal to—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
@@ -357,6 +357,8 @@ For purposes of this section and section 6324—
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -402,7 +404,7 @@ Subsec. (i)(3). Pub. L. 94–455, §1202(h)(2), struck out par. (3) which relate
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–719 redesignated as subsec. (a) that part of former subsec. (a) which preceded pars. (1) to (3) thereof, and, in subsec. (a) as so redesignated, substituted holder of a security interest, mechanic's lienor, and judgment lien creditor for mortgagee, pledgee, and judgment creditor, struck out reference to an exception provided in subsecs. (c) and (d), and inserted reference to requirements of subsec. (f).
 
-Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of the United States District Court for the District of Columbia.
+Subsec. (a)(3). Pub. L. 89–493 substituted the Recorder of Deeds of the District of Columbia for the clerk of theUnited States District Court for the District of Columbia.
 
 Subsec. (b)(1). Pub. L. 89–719 redesignated provisions of subsec. (c)(1) as subsec. (b)(1) and substituted "holder of a security interest" for "mortgagee and pledgee" and purchaser of such security interest for purchaser of such security for any adequate and full consideration in money or money's worth.
 
@@ -435,6 +437,8 @@ Subsec. (i)(3). Pub. L. 89–719 redesignated provisions of former subsec. (e) a
 <b>1964</b>—Subsec. (a). Pub. L. 88–272, §236(c)(1), substituted "subsections (c) and (d)" for "subsection (c)".
 
 Subsecs. (d), (e). Pub. L. 88–272, §236(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -496,7 +500,7 @@ General Rule.—Except as otherwise provided, the amendments made by this title 
 
 Exceptions.—The amendments made by this title shall not apply in any case—
 
-&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has becomefinal by judgment, sale, or agreement before the date of enactment of this Act; or
+&emsp;"(1) in which a lien or a title derived from enforcement of a lien held by the United States has been enforced by a civil action or suit which has become final by judgment, sale, or agreement before the date of enactment of this Act; or
 
 &emsp;"(2) in which such amendments would—
 

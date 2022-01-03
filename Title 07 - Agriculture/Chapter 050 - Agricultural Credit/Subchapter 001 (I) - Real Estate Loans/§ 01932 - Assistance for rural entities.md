@@ -160,7 +160,7 @@
 
 &emsp;&emsp;(E) Provisions that the center, in carrying out the activities, will seek, where appropriate, the advice, participation, expertise, and assistance of representatives of business, industry, educational institutions, the Federal Government, and State and local governments.
 
-&emsp;&emsp;(F) Provisions that the center will take all practicable steps to develop continuing sources of financial support for the center,particularly from sources in the private sector.
+&emsp;&emsp;(F) Provisions that the center will take all practicable steps to develop continuing sources of financial support for the center, particularly from sources in the private sector.
 
 &emsp;&emsp;(G) Provisions for—
 
@@ -236,7 +236,7 @@
 
 #### (12) Interagency working group
 
-&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and localcooperative organizations that have cooperative programs and interests.
+&emsp;Not later than 90 days after February 7, 2014, the Secretary shall coordinate and chair an interagency working group to foster cooperative development and ensure coordination with Federal agencies and national and local cooperative organizations that have cooperative programs and interests.
 
 #### (13) Authorization of appropriations
 
@@ -320,7 +320,7 @@
 
 #### (B) Accounts receivable
 
-&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action wouldnot create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
+&emsp;&emsp;In the discretion of the Secretary, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government, the Secretary may take accounts receivable as security for the obligations entered into in connection with loans and a borrower may use accounts receivable as collateral to secure a loan made or guaranteed under this subsection.
 
 #### (8) Limitations on loan guarantees for cooperative organizations
 
@@ -449,6 +449,8 @@ The Secretary may guarantee loans made under subsection (a) to finance the issua
 Effective beginning on the date of enactment of this subsection through September 30, 2023, the Secretary shall carry out those rural economic area partnership zones administratively in effect on the date of enactment of this subsection in accordance with the terms and conditions contained in the memorandums of agreement entered into by the Secretary for the rural economic area partnership zones, except as otherwise provided in this subsection.
 
 (Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359; Pub. L. 110–234, title VI, §§6012(a), (b)(2), 6013–6017, May 22, 2008, 122 Stat. 1164–1169; Pub. L. 110–246, §4(a), title VI, §§6012(a), (b)(2), 6013–6017, June 18, 2008, 122 Stat. 1664, 1925, 1927–1931; Pub. L. 113–79, title VI, §§6010(a), (b), 6011, 6012(a), 6013–6016, Feb. 7, 2014, 128 Stat. 843–845; Pub. L. 113–188, title I, §101(c), Nov. 26, 2014, 128 Stat. 2017; Pub. L. 115–334, title VI, §§6410–6415, 6601(a)(1)(B), 6701(c), (d)(1), Dec. 20, 2018, 132 Stat. 4762, 4775, 4778.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -658,6 +660,8 @@ Subsec. (d)(3). Pub. L. 95–334, §112, inserted exception for assistance less 
 
 <b>1973</b>—Subsec. (d)(4) to (6). Pub. L. 91–524, §817, as added by Pub. L. 93–86, added pars. (4) to (6).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–334, title VI, §6701(d)(2), Dec. 20, 2018, 132 Stat. 4778, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as if included in the enactment of section 6015 of the Farm Security and Rural Investment Act of 2002 (Public Law 107–171)."
@@ -700,7 +704,7 @@ Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided 
 
 &emsp;"(1) provide funds to improve telecommunications service in rural areas; and
 
-&emsp;"(2) provide access to advanced telecommunications services and computer networks to improve job opportunities and the business environment in rural areas."
+&emsp;"(2) provide access to advanced telecommunications services and computer networks to improvejob opportunities and the business environment in rural areas."
 
 #### Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations
 

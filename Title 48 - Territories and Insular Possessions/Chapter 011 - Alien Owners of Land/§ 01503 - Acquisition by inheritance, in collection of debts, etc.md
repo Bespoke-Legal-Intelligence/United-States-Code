@@ -4,6 +4,8 @@ This chapter shall not prevent aliens from acquiring lands or any interests ther
 
 (Mar. 3, 1887, ch. 340, §3, 24 Stat. 477; Mar. 2, 1897, ch. 363, 29 Stat. 618.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 73 of Title 8, Aliens and Nationality.

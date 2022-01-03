@@ -44,9 +44,13 @@
 
 (Pub. L. 111–203, title IX, §963, July 21, 2010, 124 Stat. 1910.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Investor Protection and Securities Reform Act of 2010 and also as part of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and not as part of the Securities Exchange Act of 1934 which comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -1,0 +1,40 @@
+### §9592. Federal assistance
+
+#### (a) In general
+
+#### (1) Provision of Federal assistance
+
+&emsp;To carry out sections \_\_\_\_\_\_101, \_\_\_\_\_\_102, and \_\_\_\_\_\_103(a),<sup>1</sup> the Under Secretary may provide Federal assistance to public sector entities and private sector entities in the form of grants or cooperative agreements.
+
+#### (2) Notice
+
+&emsp;Not later than 120 days after the date on which amounts are appropriated to carry out this section, the Under Secretary shall, in accordance with subsection (b), broadly publish a statement regarding Federal assistance that will, or may, be provided under paragraph (1) during the fiscal year for which those amounts are appropriated, including—
+
+&emsp;&emsp;(A) the actual, or anticipated, amount of Federal assistance that will, or may, be made available;
+
+&emsp;&emsp;(B) the types of Federal assistance that will, or may, be made available;
+
+&emsp;&emsp;(C) the manner in which Federal assistance will be allocated among public sector entities and private sector entities, as applicable; and
+
+&emsp;&emsp;(D) the methodology used by the Under Secretary to make allocations under subparagraph (C).
+
+#### (3) Consultation
+
+&emsp;The Under Secretary shall consult with public sector entities and private sector entities, as applicable, in deciding the amounts and types of Federal assistance to make available under paragraph (1).
+
+#### (b) Publicity
+
+In carrying out this section, the Under Secretary shall broadly publicize all opportunities for Federal assistance available under this section, including through the means required under section \_\_\_\_\_\_116. <sup>1</sup>
+
+(Pub. L. 117–58, div. K, title VII, §100702, Nov. 15, 2021, 135 Stat. 1465.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Sections \_\_\_\_\_\_101, \_\_\_\_\_\_102, and \_\_\_\_\_\_103(a), referred to in subsec. (a)(1), probably mean sections 100101, 100102, and 100103(a) of Pub. L. 117–58, which are classified to sections 9511, 9512, and 9513(a) of this title.
+
+Section \_\_\_\_\_\_116, referred to in subsec. (b), probably means section 100116 of Pub. L. 117–58, which is classified to section 9526 of this title.
+
+<i><sup>1</sup></i><i> So in original. See References in Text note below.</i>
+

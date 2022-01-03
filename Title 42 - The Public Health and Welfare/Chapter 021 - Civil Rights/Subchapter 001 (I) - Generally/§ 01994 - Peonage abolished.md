@@ -4,6 +4,8 @@ The holding of any person to service or labor under the system known as peonage 
 
 (R.S. §1990.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §1990 derived from act Mar. 2, 1867, ch. 187, §1, 14 Stat. 546.

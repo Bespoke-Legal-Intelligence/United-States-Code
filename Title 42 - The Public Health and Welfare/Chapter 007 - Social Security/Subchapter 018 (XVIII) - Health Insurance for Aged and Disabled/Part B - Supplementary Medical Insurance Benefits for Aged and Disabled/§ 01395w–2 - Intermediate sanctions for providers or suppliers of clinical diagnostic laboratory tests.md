@@ -26,11 +26,13 @@
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1846, as added Pub. L. 100–203, title IV, §4064(d)(1), Dec. 22, 1987, 101 Stat. 1330–111; amended Pub. L. 100–360, title II, §203(e)(4), title IV, §411(g)(3)(G), July 1, 1988, 102 Stat. 725, 784; Pub. L. 100–485, title VI, §608(d)(22)(C), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–508, title IV, §4154(e)(2), Nov. 5, 1990, 104 Stat. 1388–86.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–508 substituted "providers or suppliers of" for "providers of" in section catchline.
 
-<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
+<b>1989</b>—Pub. L. 101–234 repealed Pub. L. 100–360, §203(e)(4), and provided that the provisions of lawamended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment notes below.
 
 <b>1988</b>—Pub. L. 100–360, §203(e)(4)(A), inserted "and for qualified home intravenous drug therapy providers" at end of section catchline.
 
@@ -55,6 +57,8 @@ Subsec. (b)(2)(A)(iv). Pub. L. 100–360, §411(g)(3)(G)(ii), (vi), struck out "
 Pub. L. 100–360, §203(e)(4)(C), inserted "or home intravenous drug therapy services" after "clinical diagnostic laboratory tests".
 
 Subsec. (b)(3). Pub. L. 100–360, §411(g)(3)(G)(vii), substituted "any penalties" for "any fines" and "severe penalties" for "severe fines".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

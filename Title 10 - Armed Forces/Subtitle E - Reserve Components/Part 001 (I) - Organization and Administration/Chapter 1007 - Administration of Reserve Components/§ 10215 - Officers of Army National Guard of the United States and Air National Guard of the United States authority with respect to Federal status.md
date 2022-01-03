@@ -8,7 +8,7 @@
 
 (2) Officers of the Air National Guard of the United States who are not on active duty—
 
-&emsp;(A) may order members of the Air National Guard of the United States to active duty for training under section 12301(d) of this title; and
+&emsp;(A) may order members of the Air National Guard of the United States to active duty fortraining under section 12301(d) of this title; and
 
 &emsp;(B) with the approval of the Secretary of the Army, may order members of the Army National Guard of the United States to active duty for training under that section.
 
@@ -22,9 +22,13 @@
 
 (Added Pub. L. 103–337, div. A, title XVI, §1661(a)(1), Oct. 5, 1994, 108 Stat. 2979.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 3080 and 8080 of this title, prior to repeal by Pub. L. 103–337, §1661(a)(3)(A).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

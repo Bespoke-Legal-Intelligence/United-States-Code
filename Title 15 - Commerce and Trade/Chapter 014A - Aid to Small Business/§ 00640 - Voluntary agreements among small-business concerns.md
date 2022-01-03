@@ -18,6 +18,8 @@ Upon withdrawal of any request or finding hereunder, or upon withdrawal by the A
 
 (Pub. L. 85–536, §2\[11\], July 18, 1958, 72 Stat. 394.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
@@ -26,13 +28,15 @@ The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1
 
 Prior similar provisions were contained in section 217 of act July 30, 1953, ch. 282, title II, 67 Stat. 239, which was previously classified to section 646 of this title. The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2\[10\] of Pub. L. 85–536, and are classified to section 639(d), (f) of this title. See Codification note set out under section 631 of this title.
 
+#### <b>Executive Documents</b>
+
 #### Ex. Ord. No. 10493. Delegation of Functions
 
 Ex. Ord. No. 10493, Oct. 14, 1953, 18 F.R. 6583, provided:
 
-Section 1. The functions conferred upon the President by section 217 of the Small Business Act of 1953 \[covered by this section\] are hereby delegated to the Administrator of the Small Business Administration and shall be carried out as provided in the said section 217.
+Section 1. The functions conferred upon the President by section 217 of the Small Business Act of 1953\[covered by this section\] are hereby delegated to the Administrator of the Small Business Administration and shall be carried out as provided in the said section 217.
 
-Sec. 2. There is hereby delegated to the Administrator of the Small Business Administration so much of the functions conferred upon the President by section 708 of the Defense Production Act of 1950, as amended\[50 U.S.C. 4558\], as necessary to effect changes in the composition of, or to take other action respecting voluntary agreements and programs relating to, small-business production pools approved prior to July 31, 1953, pursuant to the said section 708 \[50 U.S.C. 4558\]: <i>Provided</i>, That this section shall not be construed as limiting the authority of the Director of the Office of Defense Mobilization under Executive Order No. 10480 of August 14, 1953 (18 F.R. 4939) \[formerly set out as a note under section 2153 of the former Appendix to Title 50\]. The functions delegated to the Administrator by this section shall be carried out as provided in section 708 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4558\].
+Sec. 2. There is hereby delegated to the Administrator of the Small Business Administration so much of the functions conferred upon the President by section 708 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4558\], as necessary to effect changes in the composition of, or to take other action respecting voluntary agreements and programs relating to, small-business production pools approved prior to July 31, 1953, pursuant to the said section 708 \[50 U.S.C. 4558\]: <i>Provided</i>, That this section shall not be construed as limiting the authority of the Director of the Office of Defense Mobilization under Executive Order No. 10480 of August 14, 1953 (18 F.R. 4939) \[formerly set out as a note under section 2153 of the former Appendix to Title 50\]. The functions delegated to the Administrator by this section shall be carried out as provided in section 708 of the Defense Production Act of 1950, as amended \[50 U.S.C. 4558\].
 
 Sec. 3. Without prejudice to any action taken thereunder, Executive Order No. 10370 of July 7, 1952 (17 F.R. 6141), is hereby revoked.
 

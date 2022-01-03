@@ -22,9 +22,11 @@ Components for naval vessels.—The following components of vessels, to the exte
 
 &emsp;&emsp;(E) Totally enclosed lifeboats.
 
+&emsp;&emsp;(F) Welded shipboard anchor and mooring chain.
+
 &emsp;(3)
 
-Components for auxiliary ships.—Subject to subsection (j),<sup>1</sup> large medium-speed diesel engines.
+Components for auxiliary ships.—Subject to subsection (k),<sup>1</sup> large medium-speed diesel engines.
 
 &emsp;(4)
 
@@ -40,11 +42,13 @@ Components for t–ao 205 class vessels.—The following components of T–AO 20
 
 &emsp;(5)
 
-Star tracker.—A star tracker used in a satellite weighing more than 400 pounds whose principle purpose is to support the national security, defense, or intelligence needs of the United States Government.
+Star tracker.—A star tracker used in a satellite weighing more than 400 pounds whose principal purpose is to support the national security, defense, or intelligence needs of the United States Government.
 
 (b)
 
-Manufacturer in the National Technology and Industrial Base.—A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+Manufacturer in the National Technology and Industrial Base.—(1) Except as provided in paragraph (2), a manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
+
+(2) A manufacturer of welded shipboard anchor and mooring chain for naval vessels meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
 
 (c)
 
@@ -190,11 +194,29 @@ Recommendations for legislation.—For applications recommended under subsection
 
 Implementation of Auxiliary Ship Component Limitation.—Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term "auxiliary ship" does not include an icebreaker or a special mission ship.
 
-(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828, Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879; Pub. L. 116–92, div. A, title VIII, §853, Dec. 20, 2019, 133 Stat. 1511; renumbered §4864 and amended Pub. L. 116–283, div. A, title VIII, §845(a), title XVI, §1603(a), title XVIII, §§1870(c)(2)–(4), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3766, 4043, 4285, 4294.)
+(Added Pub. L. 97–295, §1(29)(A), Oct. 12, 1982, 96 Stat. 1294, §2400; amended Pub. L. 100–180, div. A, title I, §124(a), (b)(1), title VIII, §824(a), Dec. 4, 1987, 101 Stat. 1042, 1043, 1134; renumbered §2502 and amended Pub. L. 100–370, §3(b)(1), July 19, 1988, 102 Stat. 855; renumbered §2507 and amended Pub. L. 100–456, div. A, title VIII, §§821(b)(1)(A), 822, Sept. 29, 1988, 102 Stat. 2014, 2017; Pub. L. 101–510, div. A, title VIII, §835(a), title XIV, §1421, Nov. 5, 1990, 104 Stat. 1614, 1682; Pub. L. 102–190, div. A, title VIII, §§834, 835, Dec. 5, 1991, 105 Stat. 1447, 1448; renumbered §2534 and amended Pub. L. 102–484, div. A, title VIII, §§831, 833(a), title X, §1052(33), div. D, title XLII, §§4202(a), 4271(b)(4), Oct. 23, 1992, 106 Stat. 2460, 2461, 2501, 2659, 2696; Pub. L. 103–160, div. A, title IX, §904(d)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title VIII, §814, Oct. 5, 1994, 108 Stat. 2817; Pub. L. 103–355, title IV, §4102(i), Oct. 13, 1994, 108 Stat. 3341; Pub. L. 104–106, div. A, title VIII, §806(a)(1)–(4), (b)–(d), title XV, §1503(a)(30), Feb. 10, 1996, 110 Stat. 390, 391, 512; Pub. L. 104–201, div. A, title VIII, §810, title X, §1074(a)(14), Sept. 23, 1996, 110 Stat. 2608, 2659; Pub. L. 105–85, div. A, title III, §371(d)(1), title VIII, §811(a), title X, §1073(a)(55), Nov. 18, 1997, 111 Stat. 1706, 1839, 1903; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §805\], Oct. 30, 2000, 114 Stat. 1654, 1654A–207; Pub. L. 107–107, div. A, title VIII, §835(a), title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1191, 1225; Pub. L. 108–136, div. A, title VIII, §828,Nov. 24, 2003, 117 Stat. 1548; Pub. L. 111–350, §5(b)(40), Jan. 4, 2011, 124 Stat. 3846; Pub. L. 115–91, div. A, title VIII, §813(a), Dec. 12, 2017, 131 Stat. 1461; Pub. L. 115–232, div. A, title VIII, §844(a), Aug. 13, 2018, 132 Stat. 1879; Pub. L. 116–92, div. A, title VIII, §853, Dec. 20, 2019, 133 Stat. 1511; renumbered §4864 and amended Pub. L. 116–283, div. A, title VIII, §845(a), title XVI, §1603(a), title XVIII, §1870(c)(2)–(4), Jan. 1, 2021, 134 Stat. 3766, 4043, 4285; Pub. L. 117–81, div. A, title VIII, §816, title X, §1081(a)(30), title XVII, §1701(b)(23), Dec. 27, 2021, 135 Stat. 1825, 1921, 2135.)
+
+Historical and Revision Notes
+
+<i>Revised section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+2400
+
+10:2303 (note).
+
+Sept. 20, 1968, Pub. L. 90–500, §404, 82 Stat. 851.
+
+The words "of the United States under the provisions of this Act or the provisions of any other law" are omitted as surplus. The word "acquisition" is substituted for "purchase, lease, rental, or other acquisition" because it is inclusive. The words "this section" are substituted for "this prohibition" because of the restatement.
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
-Subsection (j), referred to in subsec. (a)(3), probably should be a reference to subsec. (l). Prior to amendment by Pub. L. 116–283, such reference was to subsec. (k), and at that time, this section contained two subsecs. (k). Section 845(a)(8) of Pub. L. 116–283 redesignated the subsec. (k) relating to limitation on certain procurements application process as (j), but the reference in subsec. (a)(3) is probably to the subsec. (k) relating to implementation of auxiliary ship component limitation, which was redesignated as subsec. (l) by section 1870(c)(4) of Pub. L. 116–283.
+Subsection (k), referred to in subsec. (a)(3), probably should be a reference to subsec. (l). Prior to amendment by Pub. L. 116–283, this section contained two subsecs. (k). Section 845(a)(8) of Pub. L. 116–283 redesignated the subsec. (k) relating to limitation on certain procurements application process as (j), but the reference in subsec. (a)(3) was probably to the subsec. (k) relating to implementation of auxiliary ship component limitation, which was redesignated as subsec. (l) by section 1870(c)(4) of Pub. L. 116–283.
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (l), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
@@ -204,25 +226,33 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 Subsec. (a)(2). Pub. L. 116–283, §845(a)(1)(A),(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "Chemical weapons antidote contained in automatic injectors (and components for such injectors)."
 
-Subsec. (a)(3). Pub. L. 116–283, §845(a)(1)(A), (C), redesignated par. (6) as (3), substituted "subsection (j)" for "subsection (k)", and struck out former par. (3) which related to components for naval vessels.
+Subsec. (a)(2)(F). Pub. L. 117–81, §816(1), added subpar. (F).
+
+Subsec. (a)(3). Pub. L. 117–81, §1081(a)(30)(A), substituted "subsection (k)" for "subsection (j)".
+
+Pub. L. 116–283, §845(a)(1)(A), (C), redesignated par. (6) as (3), substituted "subsection (j)" for "subsection (k)", and struck out former par. (3) which related to components for naval vessels.
 
 Subsec. (a)(4). Pub. L. 116–283, §845(a)(1)(A), (D), added par. (4) and struck out former par. (4) which related to valves and machine tools.
 
-Subsec. (a)(5). Pub. L. 116–283, §1603(a), added par. (5).
+Subsec. (a)(5). Pub. L. 117–81, §1081(a)(30)(B), substituted "principal" for "principle".
+
+Pub. L. 116–283, §1603(a), added par. (5).
 
 Pub. L. 116–283, §845(a)(1)(A), struck out par. (5). Text read as follows: "Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer."
 
 Subsec. (a)(6). Pub. L. 116–283, §845(a)(1)(A), redesignated par. (6) as (3).
 
-Subsec. (b). Pub. L. 116–283, §845(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to manufacturer in the national technology and industrial base.
+Subsec. (b). Pub. L. 117–81, §816(2), designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), a manufacturer" for "A manufacturer", and added par. (2).
+
+Pub. L. 116–283, §845(a)(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to manufacturer in the national technology and industrial base.
 
 Subsec. (c). Pub. L. 116–283, §845(a)(3), struck out par. (1) designation and heading and struck out pars. (2) to (5), which related to valves and machine tools, ball bearings and roller bearings, vessel propellers, and chemical weapons antidote, respectively.
 
 Subsec. (d)(3). Pub. L. 116–283, §1870(c)(3)(A), substituted "section 4851" for "section 2531".
 
-Subsec. (d)(4), (5). Pub. L. 116–283, §1883(b)(2), substituted "section 4801(1)" for "section 2500(1)".
+Subsec. (d)(4), (5). Pub. L. 116–283, §1870(c)(3)(B), as added by Pub. L. 117–81, §1701(b)(23)(A), substituted "section 4801(1)" for "section 2500(1)".
 
-Subsec. (e)(3). Pub. L. 116–283, §1870(c)(3)(B), substituted "section 4852(d)(1)" for "section 2532(d)(1)".
+Subsec. (e)(3). Pub. L. 116–283, §1870(c)(3)(C), formerly §1870(c)(3)(B), as redesignated by Pub. L. 117–81, §1701(b)(23)(B), substituted "section 4852(d)(1)" for "section 2532(d)(1)".
 
 Subsec. (g). Pub. L. 116–283, §845(a)(4), struck out par. (1) designation and par. (2) which read as follows: "Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding section 1905 of title 41."
 
@@ -232,21 +262,185 @@ Subsec. (i)(3). Pub. L. 116–283, §845(a)(6), substituted "Under Secretary of 
 
 Subsec. (j). Pub. L. 116–283, §845(a)(7), (8), redesignated subsec. (k) related to limitation on certain procurements application process as (j) and struck out former subsec. (j) which related to inapplicability to certain contracts to purchase ball bearings or roller bearings.
 
-Subsec. (j)(2)(B). Pub. L. 116–283, §1870(c)(3)(C), which directed amendment of par. (2)(B) of subsec. (k) related to limitation on certain procurements application process by substituting "section 4801(1)" for "section 2500(1)" in two places, was executed to subsec. (j)(2)(B) to reflect the probable intent of Congress and the intervening amendment by Pub. L. 116–283, §845(a)(8). See note above.
+Subsec. (j)(2)(B). Pub. L. 116–283, §1870(c)(3)(D), formerly §1870(c)(3)(C), as redesignated and amended by Pub. L. 117–81, §1701(b)(23)(B), (C), substituted "section 4801(1)" for "section 2500(1)" in two places.
 
-Subsec. (k). Pub. L. 116–283, §1870(c)(4), redesignated subsec. (k) as (l).
+Subsec. (k). Pub. L. 116–283, §1870(c)(4), redesignated subsec. (k) relating to implementation of auxiliary ship component limitation as (l).
 
 Pub. L. 116–283, §845(a)(9), substituted "Subsection (a)(3)" for "Subsection (a)(6)" in subsec. (k) relating to implementation of auxiliary ship component limitation.
 
 Pub. L. 116–283, §845(a)(8), redesignated subsec. (k) related to limitation on certain procurements application process as (j).
 
-Subsec. (l). Pub. L. 116–283, §1870(c)(4), redesignated subsec. (k) as (l).
+Subsec. (l). Pub. L. 116–283, §1870(c)(4), redesignated subsec. (k) relating to implementation of auxiliary ship component limitation as (l).
+
+<b>2019</b>—Subsec. (a)(6). Pub. L. 116–92, §853(a), added par. (6).
+
+Subsec. (k). Pub. L. 116–92, §853(b), added subsec. (k) related to implementation of auxiliary ship component limitation.
+
+<b>2018</b>—Subsec. (k). Pub. L. 115–232 added subsec. (k) related to limitation on certain procurements application process.
+
+<b>2017</b>—Subsec. (c)(5). Pub. L. 115–91 added par. (5).
+
+<b>2011</b>—Subsec. (g)(2). Pub. L. 111–350 substituted "section 1905 of title 41" for "section 33 of the Office of Federal Procurement Policy Act (41 U.S.C. 429)".
+
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–136 inserted before period at end ", except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer".
+
+<b>2001</b>—Subsec. (i)(3). Pub. L. 107–107, §1048(b)(2), substituted "Under Secretary of Defense for Acquisition,Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
+
+Subsec. (j). Pub. L. 107–107, §835(a), added subsec. (j).
+
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–398 substituted "October 1, 2005" for "October 1, 2000".
+
+<b>1997</b>—Subsec. (b)(3). Pub. L. 105–85, §1073(a)(55), substituted "(a)(3)(A)(iii)" for "(a)(3)(A)(ii)".
+
+Subsec. (d)(4), (5). Pub. L. 105–85, §371(d)(1), substituted "section 2500(1)" for "section 2491(1)".
+
+Subsec. (i). Pub. L. 105–85, §811(a), added subsec. (i).
+
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–106, §806(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "
+
+Air circuit breakers.—Air circuit breakers for naval vessels."
+
+Subsec. (b)(3). Pub. L. 104–106, §806(a)(2), added par. (3).
+
+Subsec. (c). Pub. L. 104–106, §1503(a)(30), substituted "
+
+Certain Items" for "
+
+certain items" in heading.
+
+Subsec. (c)(1). Pub. L. 104–106, §806(a)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "
+
+Air circuit breakers.—Subsection (a) does not apply to a procurement of spares or repair parts needed to support air circuit breakers produced or manufactured outside the United States."
+
+Subsec. (c)(3). Pub. L. 104–106, §806(b), substituted "October 1, 2000" for "October 1, 1995".
+
+Subsec. (c)(4). Pub. L. 104–201, §1074(a)(14), substituted "February 10, 1998" for "the date occurring two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996".
+
+Pub. L. 104–106, §806(c), added par. (4).
+
+Subsec. (d)(3). Pub. L. 104–201, §810, inserted "or would impede the reciprocal procurement of defense items under a memorandum of understanding providing for reciprocal procurement of defense items that is entered into under section 2531 of this title," after "a foreign country,".
+
+Subsec. (g). Pub. L. 104–106, §806(d), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (h). Pub. L. 104–106, §806(a)(4), added subsec. (h).
+
+<b>1994</b>—Pub. L. 103–337 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to acquisition of multipassenger motor vehicles, chemical weapons antidote, valves and machine tools, carbonyl iron powders, air circuit breakers, and sonobuoys.
+
+Subsec. (g). Pub. L. 103–355 added subsec. (g).
+
+<b>1993</b>—Subsec. (b)(2). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
+
+<b>1992</b>—Pub. L. 102–484, §§4202(a), 4271(b)(4), renumbered section 2507 of this title as section 2534 and substituted "Miscellaneous limitations on the procurement of goods other than United States goods" for "Miscellaneous procurement limitations" in section catchline.
+
+Subsec. (c). Pub. L. 102–484, §831, redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: "
+
+Manual Typewriters From Warsaw Pact Countries.—Funds appropriated to or for the use of the Department of Defense may not be used for the procurement of manual typewriters which contain one or more components manufactured in a country which is a member of the Warsaw Pact unless the products of that country are accorded nondiscriminatory treatment (most-favored-nation treatment)."
+
+Subsec. (d). Pub. L. 102–484, §831(b), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(3)(A). Pub. L. 102–484, §1052(33), substituted "Government-owned" for "government-owned".
+
+Subsec. (e). Pub. L. 102–484, §831(b), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (f). Pub. L. 102–484, §833(a), added subsec. (f). Former subsec. (f) redesignated (e).
+
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–190, §834(a), substituted "Effective through fiscal year 1996" for "During fiscal years 1989, 1990, and 1991".
+
+Subsec. (d)(3) to (5). Pub. L. 102–190, §834(b), added pars. (3) and (4), redesignated former par. (3) as (5), and struck out former par. (4) which read as follows: "The provisions of this section may be renewed with respect to any item by the Secretary of Defense at the end of fiscal year 1991 for an additional two fiscal years if the Secretary determines that a continued restriction on that item is in the national security interest."
+
+Subsec. (e)(1). Pub. L. 102–190, §835(1), substituted "Until January 1, 1993, the Secretary" for "The Secretary".
+
+Subsec. (e)(3). Pub. L. 102–190, §835(2), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "After September 30, 1994, the Secretary may terminate the restriction required under paragraph (1) if the Secretary determines that continuing the restriction is not in the national interest."
+
+Subsec. (e)(3)(A). Pub. L. 102–190, §835(3), struck out before period "by an entity more than 50 percent of which is owned or controlled by citizens of the United States or Canada".
+
+Subsec. (e)(4). Pub. L. 102–190, §835(4), redesignated par. (4) as (3).
+
+<b>1990</b>—Subsec. (e). Pub. L. 101–510, §835(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 101–510, §1421, added subsec. (f).
+
+<b>1988</b>—Pub. L. 100–370, and Pub. L. 100–456, §821(b)(1)(A), successively renumbered section 2400 of this title as section 2502 of this title and then as this section.
+
+Subsec. (a). Pub. L. 100–370 substituted "this subsection" for "this section".
+
+Subsec. (d). Pub. L. 100–456, §822, added subsec. (d).
+
+<b>1987</b>—Pub. L. 100–180 substituted "Miscellaneous procurement limitations" for "Limitation on procurement of buses" in section catchline, designated existing provisions as subsec. (a) and added heading, and added subsecs. (b) and (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 
-Amendment by sections 1870(c)(2)–(4) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Amendment by section 1870(c)(2)–(4) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date of 2018 Amendment
+
+Pub. L. 115–232, div. A, title VIII, §844(b), Aug. 13, 2018, 132 Stat. 1881, as amended by Pub. L. 116–92, div. A, title XVII, §1731(b)(2), Dec. 20, 2019, 133 Stat. 1816, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect one year after the date of the enactment of this Act \[Aug. 13, 2018\]."
+
+\[Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, provided that the amendment made by section 1731(b)(2) to section 844(b) of Pub. L. 115–232, set out above, is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted.\]
+
+#### Effective Date of 1997 Amendment
+
+Pub. L. 105–85, div. A, title VIII, §811(b), Nov. 18, 1997, 111 Stat. 1840, provided that: "Subsection (i) of section 2534 of such title \[now 10 U.S.C. 4864(i)\], as added by subsection (a), shall apply with respect to—
+
+&emsp;"(1) contracts and subcontracts entered into on or after the date of the enactment of this Act \[Nov. 18, 1997\]; and
+
+&emsp;"(2) options for the procurement of items that are exercised after such date under contracts that are entered into before such date if the option prices are adjusted for any reason other than the application of a waiver granted under subsection (d) of such section 2534 \[now 10 U.S.C. 4864(d)\], on the basis of the applicability of paragraph (2) or (3) of that subsection."
+
+#### Effective Date of 1994 Amendment
+
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under section 8752 of this title.
+
+#### Effective Date of 1992 Amendment
+
+Pub. L. 102–484, div. A, title VIII, §833(b), Oct. 23, 1992, 106 Stat. 2461, provided that: "Subsection (f) of section 2534 of title 10, United States Code, as added by subsection (a) \[see, now, 10 U.S.C. 4864(e)\], shall apply with respect to solicitations for contracts issued after the expiration of the 120-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\]."
+
+#### Review of Select Components
+
+Pub. L. 116–283, div. A, title VIII, §845(b), Jan. 1, 2021, 134 Stat. 3767, provided that:
+
+"The Secretary of the Defense shall expedite the review period under paragraph (3)(B) of section 2534(j) of title 10, United States Code \[now 10 U.S.C. 4864(j)\], as redesignated by subsection (a), to not more than 60 days for applications submitted pursuant to such section 2534(j) \[now 4864(j)\] for the following components for auxiliary ships:
+
+&emsp;"(1) Auxiliary equipment, including pumps, for all shipboard services.
+
+&emsp;"(2) Propulsion system components, including engines, reduction gears, and propellers.
+
+&emsp;"(3) Shipboard cranes.
+
+&emsp;"(4) Spreaders for shipboard cranes."
+
+#### Certain Exemption
+
+Pub. L. 116–283, div. A, title XVI, §1603(b), Jan. 1, 2021, 134 Stat. 4043, provided that: "Paragraph (5) of section 2534(a) of title 10, United States Code \[now 10 U.S.C. 4864(a)(5)\], as added by subsection (a) of this section, shall not apply with respect to programs that have received Milestone A approval (as defined in section 2431a of such title \[now 10 U.S.C. 4211\]) before October 1, 2021."
+
+#### Clarification of Delegation Authority
+
+Pub. L. 116–283, div. A, title XVI, §1603(c), Jan. 1, 2021, 134 Stat. 4043, provided that: "Subject to subsection (i) of section 2534 of title 10, United States Code \[now 10 U.S.C. 4864(i)\], the Secretary of Defense may delegate to a service acquisition executive the authority to make a waiver under subsection (d) of such section with respect to the limitation under subsection (a)(5) of such section, as added by subsection (a) of this section."
+
+#### Procurement of Photovoltaic Devices
+
+Pub. L. 111–383, div. A, title VIII, §846, Jan. 7, 2011, 124 Stat. 4285, as amended by Pub. L. 113–291, div. A, title X, §1071(b)(1)(A), Dec. 19, 2014, 128 Stat. 3505, provided that:
+
+"(a)
+
+Contract Requirement.—The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with chapter 83 of title 41, United States Code, subject to the exceptions to that chapter provided in the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.) or otherwise provided by law.
+
+"(b)
+
+Contracts Described.—The contracts described in this subsection include energy savings performance contracts, utility service contracts, land leases, and private housing contracts, to the extent that such contracts result in ownership of photovoltaic devices by the Department of Defense. For the purposes of this section, the Department of Defense is deemed to own a photovoltaic device if the device is—
+
+&emsp;"(1) installed on Department of Defense property or in a facility owned by the Department of Defense; and
+
+&emsp;"(2) reserved for the exclusive use of the Department of Defense for the full economic life of the device.
+
+"(c)
+
+Definition of Photovoltaic Devices.—In this section, the term 'photovoltaic devices' means devices that convert light directly into electricity through a solid-state, semiconductor process."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (l),". See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. There is no subsec. (k).</i>
 

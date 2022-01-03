@@ -28,6 +28,8 @@ Each report submitted under subsection (b) shall include information related to�
 
 (Pub. L. 115–31, div. N, title VI, §603, May 5, 2017, 131 Stat. 829.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 For definition of "congressional intelligence committees", referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under section 3003 of this title.

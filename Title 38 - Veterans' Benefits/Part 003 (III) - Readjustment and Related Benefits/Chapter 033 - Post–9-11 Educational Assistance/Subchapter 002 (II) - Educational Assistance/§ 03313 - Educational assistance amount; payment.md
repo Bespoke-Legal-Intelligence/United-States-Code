@@ -12,7 +12,7 @@ Approved Programs of Education.—A program of education is an approved program 
 
 Programs of Education Leading to a Degree Pursued at Institutions of Higher Learning on More Than Half-time Basis.—The amounts payable under this subsection for pursuit of an approved program of education leading to a degree at an institution of higher learning (as that term is defined in section 3452(f)) are amounts as follows:
 
-&emsp;(1) In the case of an individual entitled to educational assistance under this chapter byreason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
+&emsp;(1) In the case of an individual entitled to educational assistance under this chapter by reason of paragraph (1), (2), (8), (9), (10), or (11) of section 3311(b), amounts as follows:
 
 &emsp;&emsp;(A) An amount equal to the following:
 
@@ -28,7 +28,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher EducationAct of 1965) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount equal to—
 
@@ -70,7 +70,7 @@ Programs of Education Leading to a Degree Pursued at Institutions of Higher Lear
 
 &emsp;(3) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(4), amounts equal to 80 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
-&emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) forthe program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
+&emsp;(4) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(5), amounts equal to 70 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
 &emsp;(5) In the case of an individual entitled to educational assistance under this chapter by reason of section 3311(b)(6), amounts equal to 60 percent of the amounts that would be payable to the individual under paragraph (1) for the program of education if the individual were entitled to amounts for the program of education under paragraph (1) rather than this paragraph.
 
@@ -138,7 +138,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;(3)
 
-Quarter, semester, or term payments.—Payment of the amount payable under paragraph (2) for pursuit of a program ofeducation shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
+Quarter, semester, or term payments.—Payment of the amount payable under paragraph (2) for pursuit of a program of education shall be made for the entire quarter, semester, or term, as applicable, of the program of education.
 
 &emsp;(4)
 
@@ -162,7 +162,7 @@ Amount of assistance.—The educational assistance payable under this chapter to
 
 &emsp;&emsp;&emsp;&emsp;(I) any waiver of, or reduction in, tuition and fees; and
 
-&emsp;&emsp;&emsp;&emsp;(II) any scholarship, or other Federal, State, institutional, or employer-based aid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
+&emsp;&emsp;&emsp;&emsp;(II) any scholarship, or other Federal, State, institutional, or employer-basedaid or assistance (other than loans and any funds provided under section 401(b) of the Higher Education Act of 1965 (20 U.S.C. 1070a(b))) that is provided directly to the institution and specifically designated for the sole purpose of defraying tuition and fees; or
 
 &emsp;&emsp;&emsp;(ii) the maximum amount that would be payable to the individual for the program of education under paragraph (1)(A) of subsection (c), or under the provisions of paragraphs (2) through (6) of subsection (c) applicable to the individual, for the program of education if the individual were entitled to amounts for the program of education under subsection (c) rather than this subsection.
 
@@ -228,7 +228,7 @@ Amount of assistance.—The amounts of educational assistance payable under this
 
 &emsp;&emsp;&emsp;(iii) Subject to clause (iv), a monthly stipend in an amount equal to $83 for each month (or pro rata amount for a partial month) of training pursued for books, supplies, equipment, and other educational costs.
 
-&emsp;&emsp;&emsp;(iv) In the case of an individual entitled to educational assistance by reason of paragraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
+&emsp;&emsp;&emsp;(iv) In the case of an individual entitled to educational assistance by reason ofparagraphs (3) through (7) of section 3311(b), the amounts payable pursuant to clauses (i), (ii), and (iii) shall be the amounts otherwise determined pursuant to such clauses multiplied by the same percentage applicable to the monthly amounts payable to the individual under paragraphs (2) through (6) of subsection (c).
 
 &emsp;&emsp;(B) In the case of an individual pursuing a full-time program of apprenticeship or other on-job training, amounts as follows:
 
@@ -344,7 +344,7 @@ Determination of Housing Stipend Payments for Academic Years.—Any monthly hous
 
 (j)
 
-Determination of Monthly Housing Stipends During Active Duty Service.—For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of suchstipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
+Determination of Monthly Housing Stipends During Active Duty Service.—For any month during which an individual who is entitled to a monthly housing stipend under this section is performing active duty service, the Secretary shall determine the amount of such stipend payable to such individual for such month on a pro rata basis for the period of such month during which the individual is not performing active duty service.
 
 (k)
 
@@ -358,7 +358,35 @@ In general.—The Secretary shall furnish to individuals receiving educational a
 
 Manner.—The Secretary shall make such documentation available to the individual using an internet website in the same manner the Secretary provides documentation verifying compensation and other benefits furnished by the Secretary to individuals.
 
-(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, 134 Stat. 4938, 4941.)
+(l)
+
+Verification of Enrollment.—
+
+&emsp;(1)
+
+In general.—The Secretary shall require—
+
+&emsp;&emsp;(A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
+
+&emsp;&emsp;&emsp;(i) not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and
+
+&emsp;&emsp;&emsp;(ii) not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and
+
+&emsp;&emsp;(B) each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.
+
+&emsp;(2)
+
+Form of verification.—Verification under this subsection shall be in an electronic form prescribed by the Secretary.
+
+&emsp;(3)
+
+Failure to submit verification.—If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly housing stipend payment to the individual under this section until the individual submits such verification.
+
+&emsp;(4)
+
+Waiver.—The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.
+
+(Added Pub. L. 110–252, title V, §5003(a)(1), June 30, 2008, 122 Stat. 2363; amended Pub. L. 111–32, title X, §1002(b), June 24, 2009, 123 Stat. 1889; Pub. L. 111–275, title X, §1001(g)(1)–(3), Oct. 13, 2010, 124 Stat. 2896; Pub. L. 111–377, title I, §§102(a), (b), 103(a), (b), 104(a), (b), 105(a)–(c), 106(a), 112(a), Jan. 4, 2011, 124 Stat. 4108–4110, 4112–4117, 4121; Pub. L. 114–58, title VI, §601(16)–(18), Sept. 30, 2015, 129 Stat. 539; Pub. L. 115–48, title I, §§102(b), 105(b), (c)(2), 107(a), 113(a), Aug. 16, 2017, 131 Stat. 975, 977, 985; Pub. L. 115–62, title V, §501(b)(1), (c)(1), Sept. 29, 2017, 131 Stat. 1165, 1166; Pub. L. 115–407, title I, §102, Dec. 31, 2018, 132 Stat. 5369; Pub. L. 116–61, §6(3), Sept. 30, 2019, 133 Stat. 1117; Pub. L. 116–315, title I, §§1002(b)(2), 1009(a), 1010(a), Jan. 5, 2021, 134 Stat. 4938, 4941; Pub. L. 117–16, §7(a)(2), June 8, 2021, 135 Stat. 284; Pub. L. 117–76, §3(a), Dec. 21, 2021, 135 Stat. 1517.)
 
 #### Amendment of Subsection (e)
 
@@ -371,28 +399,6 @@ Manner.—The Secretary shall make such documentation available to the individua
 <i>(3) in paragraph (2), in the matter preceding subparagraph (A), by inserting "for a period of more than 30 days" after "active duty".</i>
 
 <i>See 2021 Amendment notes below.</i>
-
-#### Amendment of Subsection (l)
-
-<i>Pub. L. 116–315, title I, §1010, Jan. 5, 2021, 134 Stat. 4941, provided that, effective Aug. 1, 2021, this section is amended by adding at the end the following new subsection:</i>
-
-<i>(l)</i>
-
-<i>Verification of Enrollment.—(1) The Secretary shall require—</i>
-
-&emsp;<i>(A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—</i>
-
-&emsp;&emsp;<i>(i) not later than such time as the Secretary determines reasonable after the date on which the individual is enrolled; and</i>
-
-&emsp;&emsp;<i>(ii) not later than such time as the Secretary determines reasonable after the last date on which a student is able to withdraw from the course or program of education without penalty; and</i>
-
-&emsp;<i>(B) each individual who is enrolled in a course or program of education and is receiving educational assistance under this chapter to submit to the Secretary verification of such enrollment for each month during which the individual is so enrolled and receiving such educational assistance.</i>
-
-<i>(2) Verification under this subsection shall be in an electronic form prescribed by the Secretary.</i>
-
-<i>(3) If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly stipend payment to the individual under this section until the individual submits such verification.</i>
-
-<i>See 2021 Amendment note below.</i>
 
 #### <b>Editorial Notes</b>
 
@@ -410,7 +416,11 @@ Subsec. (e). Pub. L. 116–315, §1009(a)(1), inserted "for a Period of More Tha
 
 Subsec. (e)(1), (2). Pub. L. 116–315, §1009(a)(2), (3), inserted "for a period of more than 30 days" after "active duty".
 
-Subsec. (l). Pub. L. 116–315, §1010(a), added subsec. (l).
+Subsec. (l). Pub. L. 117–16 amended subsec. (l) generally. Prior to amendment, subsec. (l) related to verification of enrollment of individuals receiving educational assistance.
+
+Pub. L. 116–315, §1010(a), added subsec. (l).
+
+Subsec. (l)(4). Pub. L. 117–76 added par. (4).
 
 <b>2019</b>—Subsec. (g)(3)(B)(ii). Pub. L. 116–61 inserted comma after "for books".
 

@@ -12,7 +12,7 @@
 
 #### (3) Prohibition on assistance for facilities for sectarian instruction or religious worship
 
-&emsp;Participants shall not be employed under this subchapter to carry out the construction,operation, or maintenance of any part of any facility that is used or to be used for sectarian instruction or as a place for religious worship (except with respect to the maintenance of a facility that is not primarily or inherently devoted to sectarian instruction or religious worship, in a case in which the organization operating the facility is part of a program or activity providing services to participants).
+&emsp;Participants shall not be employed under this subchapter to carry out the construction, operation, or maintenance of any part of any facility that is used or to be used for sectarian instruction or as a place for religious worship (except with respect to the maintenance of a facility that is not primarily or inherently devoted to sectarian instruction or religious worship, in a case in which the organization operating the facility is part of a program or activity providing services to participants).
 
 #### (4) Prohibition on discrimination on basis of participant status
 
@@ -52,7 +52,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III 
 
 The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V\(§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
 This Act, referred to in subsec. (a)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 

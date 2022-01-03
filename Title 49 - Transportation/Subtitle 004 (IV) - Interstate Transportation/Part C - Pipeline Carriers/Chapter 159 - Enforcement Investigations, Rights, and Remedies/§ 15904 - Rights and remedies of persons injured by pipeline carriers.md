@@ -48,6 +48,8 @@ Attorney's fees.—The district court shall award a reasonable attorney's fee as
 
 This amends 49:15904(c)(1) to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11705 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -57,6 +59,8 @@ Provisions similar to those in this section were contained in section 11705 of t
 <b>1998</b>—Subsec. (c)(1). Pub. L. 105–225 inserted "section" before "15901(b)".
 
 <b>1997</b>—Subsec. (c)(1). Pub. L. 105–102 substituted "15901(b)" for "section 11501(b)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

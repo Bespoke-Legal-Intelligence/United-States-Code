@@ -38,7 +38,7 @@ Not later than 72 hours after any transaction by the Secretary under paragraph (
 
 #### (B) Publication
 
-&emsp;&emsp;Not later than 7 days after the date on which the Secretary submits a report undersubparagraph (A) to the committees of Congress described in such subparagraph, the Secretary shall publish such report on the website of the Department of the Treasury.
+&emsp;&emsp;Not later than 7 days after the date on which the Secretary submits a report under subparagraph (A) to the committees of Congress described in such subparagraph, the Secretary shall publish such report on the website of the Department of the Treasury.
 
 #### (C) 30-day reports
 
@@ -48,7 +48,7 @@ Not later than 72 hours after any transaction by the Secretary under paragraph (
 
 #### (A) In general
 
-&emsp;&emsp;With respect to any program or facility described in paragraph (4) of section 9042(b) of this title, the Board of Governors of the Federal Reserve System shall provide to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives such reports as are required to be provided under section 343(3) of title 12—
+&emsp;&emsp;With respect to any program or facility described in paragraph (4) of section 9042(b) of this title, the Board of Governors of the Federal Reserve System shall provide to theCommittee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives such reports as are required to be provided under section 343(3) of title 12—
 
 &emsp;&emsp;&emsp;(i) not later than 7 days after the Board authorizes a new facility or other financial assistance in accordance with section 343(3)(C)(i) of title 12; and
 
@@ -81,6 +81,8 @@ Not later than 24 hours after the Secretary enters into a contract in connection
 &emsp;Not later than 9 months after March 27, 2020, and annually thereafter through the year succeeding the last year for which loans, loan guarantees, or other investments made under section 9042 of this title are outstanding, the Comptroller General shall submit to the Committee on Financial Services, the Committee on Transportation and Infrastructure, the Committee on Appropriations, and the Committee on the Budget of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs, the Committee on Commerce, Science, and Transportation, the Committee on Appropriations, and the Committee on the Budget of the Senate a report on the loans, loan guarantees, and other investments made under section 9042 of this title.
 
 (Pub. L. 116–136, div. A, title IV, §4026, Mar. 27, 2020, 134 Stat. 494.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

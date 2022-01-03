@@ -20,7 +20,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (5) Insurance producer
 
-&emsp;The term "insurance producer" means any insurance agent or broker, excess or surplus lines broker or agent, insurance consultant, limited insurance representative, and any other individual or entity that sells, solicits, or negotiates policies of insurance or offers advice, counsel, opinions or services related to insurance.
+&emsp;The term "insurance producer" means any insurance agent or broker, excess or surpluslines broker or agent, insurance consultant, limited insurance representative, and any other individual or entity that sells, solicits, or negotiates policies of insurance or offers advice, counsel, opinions or services related to insurance.
 
 #### (6) Insurer
 
@@ -49,6 +49,8 @@ For purposes of this subchapter, the following definitions shall apply:
 &emsp;&emsp;A law of the United States applicable only to or within the District of Columbia shall be treated as a State law rather than a law of the United States.
 
 (Pub. L. 106–102, title III, §334, as added Pub. L. 114–1, title II, §202(a), Jan. 12, 2015, 129 Stat. 27.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

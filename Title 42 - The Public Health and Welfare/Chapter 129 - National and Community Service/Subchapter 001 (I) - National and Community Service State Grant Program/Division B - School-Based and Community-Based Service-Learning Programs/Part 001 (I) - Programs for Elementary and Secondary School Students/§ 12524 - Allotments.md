@@ -2,7 +2,7 @@
 
 #### (a) Indian tribes and territories
 
-Of the amounts appropriated to carry out this part for any fiscal year, the Corporation shall reserve an amount of not less than 2 percent and not more than 3 percent for payments to Indian tribes, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be allotted in accordance with their respective needs.
+Of the amounts appropriated to carry out this part for any fiscal year, the Corporation shallreserve an amount of not less than 2 percent and not more than 3 percent for payments to Indian tribes, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, to be allotted in accordance with their respective needs.
 
 #### (b) Allotments through States
 
@@ -24,9 +24,11 @@ Of the amounts appropriated to carry out this part for any fiscal year, the Corp
 
 #### (c) Reallotment
 
-If the Corporation determines that the allotment of a State, territory, or Indian tribe underthis section will not be required for a fiscal year because the State, territory, or Indian tribe did not submit and receive approval of an application for the allotment under section 12525 of this title, the Corporation shall make the allotment for such State, territory, or Indian tribe available for grants to community-based entities to carry out service-learning programs as described in section 12523(b) of this title in such State, in such territory, or for such Indian tribe. After community-based entities apply for grants from the allotment, by submitting an application at such time and in such manner as the Corporation requires, and receive approval, the remainder of such allotment shall be available for reallotment to such other States, territories, or Indian tribes with approved applications submitted under section 12525 of this title as the Corporation may determine to be appropriate.
+If the Corporation determines that the allotment of a State, territory, or Indian tribe under this section will not be required for a fiscal year because the State, territory, or Indian tribe did not submit and receive approval of an application for the allotment under section 12525 of this title, the Corporation shall make the allotment for such State, territory, or Indian tribe available for grants to community-based entities to carry out service-learning programs as described in section 12523(b) of this title in such State, in such territory, or for such Indian tribe. After community-based entities apply for grants from the allotment, by submitting an application at such time and in such manner as the Corporation requires, and receive approval, the remainder of such allotment shall be available for reallotment to such other States, territories, or Indian tribes with approved applications submitted under section 12525 of this title as the Corporation may determine to be appropriate.
 
 (Pub. L. 101–610, title I, §112A, as added Pub. L. 111–13, title I, §1201, Apr. 21, 2009, 123 Stat. 1470.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -37,6 +39,8 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(1
 A prior section 12524, Pub. L. 101–610, title I, §112, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 827; amended Pub. L. 103–382, title III, §§391(y), 394(h)(2), Oct. 20, 1994, 108 Stat. 4026, 4028, related to grants and allotments, prior to the general amendment of this part by Pub. L. 111–13.
 
 Another prior section 12524, Pub. L. 101–610, title I, §114, Nov. 16, 1990, 104 Stat. 3135; Pub. L. 102–10, §4(4), Mar. 12, 1991, 105 Stat. 30, related to local applications for assistance, prior to repeal by Pub. L. 103–82, §103(a)(2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

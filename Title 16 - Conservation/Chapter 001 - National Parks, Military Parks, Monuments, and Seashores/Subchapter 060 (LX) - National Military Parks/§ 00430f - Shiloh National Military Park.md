@@ -4,6 +4,8 @@ In order that the armies of the southwest which served in the civil war, like th
 
 (Dec. 27, 1894, ch. 12, 28 Stat. 597; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 637.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section is based on sections 1 to 6 of act Dec. 27, 1894. Section 7 of the act, which established fines for offenses against park property, and section 8, which authorized initial appropriations for the park, were not classified to the Code.
@@ -12,11 +14,7 @@ Section is based on sections 1 to 6 of act Dec. 27, 1894. Section 7 of the act, 
 
 <b>1966</b>—Pub. L. 89–554 struck out provisions which required the affairs of Shiloh National Military Park to be subject to supervision and direction of Secretary of the Interior.
 
-#### Transfer of Functions
-
-Administrative functions of Shiloh National Military Park transferred to Department of the Interior by Ex.Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees.
-
-National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Exchange of Lands
 
@@ -25,4 +23,12 @@ Act June 25, 1947, ch. 126, 61 Stat. 173, provided: "That the Secretary of the I
 "
 
 Sec. 2. For the purpose of consolidating Federal holdings within the park, the Secretary of the Interior is authorized, in his discretion and under such terms and conditions as he may deem necessary, to accept any non-Federal real or personal property within the authorized boundaries of the park. In exchange for such properties, he may, in his discretion, convey to the grantors of such properties any Federally owned lands or interests in lands within the authorized boundaries of the park which are of approximately equal value, as determined by the Secretary, to the properties being acquired in each case."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Administrative functions of Shiloh National Military Park transferred to Department of the Interior by Ex. Ord. Nos. 6166 and 6228, set out as notes under section 901 of Title 5, Government Organization and Employees.
+
+National Park Service substituted for Office of National Parks, Buildings, and Reservations referred to in Ex. Ord. No. 6166, by act Mar. 2, 1934, ch. 38, §1, 48 Stat. 389.
 

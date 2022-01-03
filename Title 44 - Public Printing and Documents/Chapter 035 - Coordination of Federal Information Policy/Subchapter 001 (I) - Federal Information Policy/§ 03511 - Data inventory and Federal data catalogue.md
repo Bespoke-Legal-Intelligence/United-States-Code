@@ -102,7 +102,7 @@ Repository.—The Director shall collaborate with the Office of Government Infor
 
 &emsp;&emsp;(A) include any definitions, regulations, policies, checklists, and case studies related to open data policy;
 
-&emsp;&emsp;(B) facilitate collaboration and the adoption of best practices across the Federal Government relating to the adoption of open data practices; and
+&emsp;&emsp;(B) facilitate collaboration and the adoption of best practices across the FederalGovernment relating to the adoption of open data practices; and
 
 &emsp;&emsp;(C) be made available on the Federal data catalogue maintained under paragraph (1).
 

@@ -6,7 +6,7 @@ Except as provided in subsections (b) and (c), any regulated financial instituti
 
 &emsp;(1) not more than once every 60 months for an institution that has achieved a rating of "outstanding record of meeting community credit needs" at its most recent examination under section 2903 of this title;
 
-&emsp;(2) not more than once every 48 months for an institution that has received a rating of "satisfactory record of meeting community credit needs" at its most recent examination under section 2903 of this title; and
+&emsp;(2) not more than once every 48 months for an institution that has received a rating of"satisfactory record of meeting community credit needs" at its most recent examination under section 2903 of this title; and
 
 &emsp;(3) as deemed necessary by the appropriate Federal financial supervisory agency, for an institution that has received a rating of less than "satisfactory record of meeting community credit needs" at its most recent examination under section 2903 of this title.
 

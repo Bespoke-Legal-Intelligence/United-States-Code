@@ -26,11 +26,11 @@ Availability of Appropriated Funds.—(1) Funds appropriated to the Department o
 
 (d)
 
-Use of Department of Defense Facilities and Equipment.—Facilities and equipment of the Department of Defense may be used for purposes of the support of multinational centers ofexcellence under this section that are hosted by the Department.
+Use of Department of Defense Facilities and Equipment.—Facilities and equipment of the Department of Defense may be used for purposes of the support of multinational centers of excellence under this section that are hosted by the Department.
 
 (e)
 
-Notification.—Not later than 30 days before the date on which the Secretary of Defense authorizes participation under subsection (a) in a new multinational center of excellence, the Secretary shall notify the congressional defense committees of such participation.
+Notification.—Not later than 30 days before the date on which the Secretary of Defense authorizes participation under subsection (a) in a new multinational center of excellence, theSecretary shall notify the congressional defense committees of such participation.
 
 (f)
 
@@ -49,6 +49,8 @@ Multinational Center Of Excellence Defined.—In this section, the term "multina
 &emsp;(2) the European Centre of Excellence for Countering Hybrid Threats, established in 2017 and located in Helsinki, Finland.
 
 (Added Pub. L. 110–417, \[div. A\], title XII, §1232(a)(1), Oct. 14, 2008, 122 Stat. 4637, §2350m; amended Pub. L. 112–239, div. A, title X, §1076(f)(25), Jan. 2, 2013, 126 Stat. 1953; renumbered §344 and amended Pub. L. 114–328, div. A, title XII, §1241(g), Dec. 23, 2016, 130 Stat. 2507; Pub. L. 116–283, div. A, title XII, §1206(a), Jan. 1, 2021, 134 Stat. 3912.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -69,6 +71,8 @@ Subsec. (f). Pub. L. 116–283, §1206(a)(6), redesignated subsec. (e) as (f).
 Subsecs. (e), (f). Pub. L. 114–328, §1241(g)(2), redesignated subsec. (f) as (e) and struck out former subsec. (e) which required the Secretary of Defense, not later than October 31 of each year, to submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
 
 <b>2013</b>—Subsec. (e)(1). Pub. L. 112–239 substituted "Not later than October 31 each year" for "Not later than October 31, 2009, and annually thereafter".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

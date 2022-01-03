@@ -4,6 +4,8 @@ Each Federal department and agency which is empowered to extend Federal financia
 
 (Pub. L. 88–352, title VI, §602, July 2, 1964, 78 Stat. 252.)
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 Function of the President relating to approval of rules, regulations, and orders of general applicability under this section, delegated to the Attorney General, see section 1–101 of Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out below.
@@ -64,7 +66,7 @@ Coordination of Nondiscrimination Provisions
 
 Implementation by the Attorney General
 
-1–301. In consultation with the affected agencies, the Attorney General shall promptly prepare a plan for theimplementation of this Order. This plan shall be submitted to the Director of the Office of Management and Budget.
+1–301. In consultation with the affected agencies, the Attorney General shall promptly prepare a plan for the implementation of this Order. This plan shall be submitted to the Director of the Office of Management and Budget.
 
 1–302. The Attorney General shall periodically evaluate the implementation of the nondiscrimination provisions of the laws covered by this Order, and advise the heads of the agencies concerned on the results of such evaluations as to recommendations for needed improvement in implementation or enforcement.
 
@@ -110,7 +112,7 @@ The Federal Government provides and funds an array of services that can be made 
 
 Sec. 2. <i>Federally Conducted Programs and Activities.</i>
 
-Each Federal agency shall prepare a plan to improve access to its federally conducted programs and activities by eligible LEP persons. Each plan shall be consistent with the standards set forth in the LEP Guidance, and shall include the steps the agency will take to ensure that eligible LEP persons can meaningfully access the agency's programs and activities. Agencies shall develop and begin to implement these plans within 120 days of the date of this order, and shall send copies of their plans to the Department of Justice, which shall serve as the central repository of the agencies' plans.
+Each Federal agency shall prepare a plan to improve access to its federally conducted programs and activities by eligible LEP persons. Each plan shall be consistent with the standards set forth in the LEP Guidance, and shall include the steps the agency will taketo ensure that eligible LEP persons can meaningfully access the agency's programs and activities. Agencies shall develop and begin to implement these plans within 120 days of the date of this order, and shall send copies of their plans to the Department of Justice, which shall serve as the central repository of the agencies' plans.
 
 Sec. 3. <i>Federally Assisted Programs and Activities.</i>
 
@@ -118,7 +120,7 @@ Each agency providing Federal financial assistance shall draft title VI guidance
 
 Sec. 4. <i>Consultations.</i>
 
-In carrying out this order, agencies shall ensure that stakeholders, such as LEP persons and their representative organizations, recipients, and other appropriate individuals or entities, have an adequate opportunity to provide input. Agencies will evaluate the particular needs of the LEP persons they and their recipients serve and the burdens of compliance on the agency and its recipients. This input from stakeholders will assist the agencies in developing an approach to ensuring meaningful access by LEP persons that is practical andeffective, fiscally responsible, responsive to the particular circumstances of each agency, and can be readily implemented.
+In carrying out this order, agencies shall ensure that stakeholders, such as LEP persons and their representative organizations, recipients, and other appropriate individuals or entities, have an adequate opportunity to provide input. Agencies will evaluate the particular needs of the LEP persons they and their recipients serve and the burdens of compliance on the agency and its recipients. This input from stakeholders will assist the agencies in developing an approach to ensuring meaningful access by LEP persons that is practical and effective, fiscally responsible, responsive to the particular circumstances of each agency, and can be readily implemented.
 
 Sec. 5. <i>Judicial Review.</i>
 

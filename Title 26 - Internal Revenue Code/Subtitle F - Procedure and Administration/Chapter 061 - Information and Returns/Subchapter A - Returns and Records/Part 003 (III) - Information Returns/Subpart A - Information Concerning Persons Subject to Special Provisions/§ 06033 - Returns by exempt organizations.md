@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) an educational organization described in section 170(b)(1)(A)(ii);
 
-&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributed by the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
+&emsp;&emsp;&emsp;(iii) a charitable organization, or an organization for the prevention of cruelty to children or animals, described in section 501(c)(3), if such organization is supported, in whole or in part, by funds contributedby the United States or any State or political subdivision thereof, or is primarily supported by contributions of the general public;
 
 &emsp;&emsp;&emsp;(iv) an organization described in section 501(c)(3), if such organization is operated, supervised, or controlled by or in connection with a religious organization described in clause (i);
 
@@ -126,7 +126,7 @@ In the case of an organization which is a private foundation (within the meaning
 
 #### (d) Section to apply to nonexempt charitable trusts and nonexempt private foundations
 
-The following organizations shall comply with the requirements of this section in the samemanner as organizations described in section 501(c)(3) which are exempt from tax under section 501(a):
+The following organizations shall comply with the requirements of this section in the same manner as organizations described in section 501(c)(3) which are exempt from tax under section 501(a):
 
 #### (1) Nonexempt charitable trusts
 
@@ -196,7 +196,7 @@ The following organizations shall comply with the requirements of this section i
 
 #### (3) Exception where dues generally nondeductible
 
-&emsp;Paragraph (1)(A) shall not apply to an organization which establishes to the satisfaction of the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
+&emsp;Paragraph (1)(A) shall not apply to an organization which establishes to the satisfactionof the Secretary that substantially all of the dues or other similar amounts paid by persons to such organization are not deductible without regard to section 162(e).
 
 #### (f) Certain organizations described in section 501(c)(4)
 
@@ -284,7 +284,7 @@ Any organization the gross receipts of which in any taxable year result in such 
 
 &emsp;&emsp;&emsp;(ii) about the revocation that will occur under subparagraph (B) if the organization fails to file such a return or notice by the due date for the next such return or notice required to be filed.
 
-> &emsp;&emsp;The notification under the preceding sentence shall include information about how to comply with the filing requirements under subsections (a)(1) and (i).
+> &emsp;&emsp;The notification under the preceding sentence shall include information about howto comply with the filing requirements under subsections (a)(1) and (i).
 
 #### (B) Revocation
 
@@ -296,7 +296,7 @@ Any organization the gross receipts of which in any taxable year result in such 
 
 #### (3) Retroactive reinstatement if reasonable cause shown for failure
 
-&emsp;If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described inparagraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization's exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
+&emsp;If, upon application for reinstatement of status as an organization exempt from tax under section 501(a), an organization described in paragraph (1) can show to the satisfaction of the Secretary evidence of reasonable cause for the failure described in such paragraph, the organization's exempt status may, in the discretion of the Secretary, be reinstated effective from the date of the revocation under such paragraph.
 
 #### (k) Additional provisions relating to sponsoring organizations
 
@@ -343,6 +343,8 @@ Any organization required to file a return under this section shall file such re
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -450,7 +452,7 @@ Subsec. (b). Pub. L. 94–455, §§1307(a)(4), 1906(b)(13)(A), struck out in pro
 
 Subsec. (b)(3). Pub. L. 91–172, §101(d)(2)(A), struck out "out of income" after "its disbursements".
 
-Subsec. (b)(4). Pub. L. 91–172, §101(d)(2)(B), (j)(30), redesignated par. (7) as (4) and struck out "and" at end. Former par. (4), making accumulation of income within year as an item of information to be furnished, was struck out.
+Subsec. (b)(4). Pub. L. 91–172, §101(d)(2)(B), (j)(30), redesignated par. (7) as (4) and struck out "and" at end.Former par. (4), making accumulation of income within year as an item of information to be furnished, was struck out.
 
 Subsec. (b)(5). Pub. L. 91–172, §101(d)(2)(B), (C), substituted total of contributions and gifts received during year and contributors' names and addresses for aggregate accumulation of income at beginning of year as item of information to be furnished.
 
@@ -463,6 +465,8 @@ Subsec. (b)(8). Pub. L. 91–172, §101(d)(2)(B), struck out par. (8) which made
 Subsec. (c). Pub. L. 91–172, §101(j)(31), inserted cross references to section 6043(b) and 6652(d).
 
 <b>1958</b>—Subsec. (b)(8). Pub. L. 85–866 added par. (8).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 
@@ -556,7 +560,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years ending on or after Dec
 
 For provisions that amendment made by section 401(d)(6)(B)(v) of Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former section 1400L of this title.
 
-For provisions that nothing in amendment by section 401(d)(6)(B)(v) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credittaken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
+For provisions that nothing in amendment by section 401(d)(6)(B)(v) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
 #### Secretarial Outreach Requirements
 

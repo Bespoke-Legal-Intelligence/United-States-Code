@@ -28,11 +28,15 @@ Regulations.—The regulations prescribed under this section shall include—
 
 (Added Pub. L. 102–484, div. A, title X, §1076(a), Oct. 23, 1992, 106 Stat. 2511, §4316; renumbered §4317, Pub. L. 103–35, title II, §201(b)(2)(A), May 31, 1993, 107 Stat. 98; renumbered §7417, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4317 of this title as this section.
 
 <b>1993</b>—Pub. L. 103–35 renumbered section 4316 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

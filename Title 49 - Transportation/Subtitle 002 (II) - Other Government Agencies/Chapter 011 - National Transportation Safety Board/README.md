@@ -64,6 +64,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, div. C, §§1107(b)(2), 1109(e)(2), 1111(b), 1113(a), Oct. 5, 2018, 132 Stat. 3433, 3435, 3436, 3438, added items 117 and 1140 and substituted "Reports, studies, and retrospective reviews" for "Reports and studies" in item 1116 and "Board." for "Board" in item 1138.

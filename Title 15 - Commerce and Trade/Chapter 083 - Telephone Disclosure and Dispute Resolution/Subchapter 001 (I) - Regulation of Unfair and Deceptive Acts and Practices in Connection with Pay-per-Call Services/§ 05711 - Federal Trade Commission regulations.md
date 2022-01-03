@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(D) shall not direct such advertisement at children under the age of 12, unless such service is a bona fide educational service;
 
-&emsp;&emsp;(E) in the case of advertising directed primarily to individuals under the age of 18, clearly and conspicuously state in such advertising that such individual must have the consent of such individual's parent or legal guardian for the use of such services;
+&emsp;&emsp;(E) in the case of advertising directed primarily to individuals under the age of 18, clearly and conspicuously state in such advertising that such individual must have theconsent of such individual's parent or legal guardian for the use of such services;
 
 &emsp;&emsp;(F) be prohibited from using advertisements that emit electronic tones which can automatically dial a pay-per-call telephone number;
 

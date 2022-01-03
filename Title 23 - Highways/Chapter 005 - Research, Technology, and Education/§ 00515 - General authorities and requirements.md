@@ -62,11 +62,11 @@ Advisory Committee.—
 
 &emsp;(1)
 
-In general.—The Secretary shall establish an Advisory Committee to advise the Secretary on carrying out sections 512 through 518.
+In general.—The Secretary shall establish an Advisory Committee (referred to in this subsection as the "Advisory Committee") to advise the Secretary on carrying out sections 512 through 518.
 
 &emsp;(2)
 
-Membership.—The Advisory Committee shall have no more than 20 members, be balanced between metropolitan and rural interests, and include, at a minimum—
+Membership.—The Advisory Committee shall have no more than 25 members, be balanced between metropolitan and rural interests, and include, at a minimum—
 
 &emsp;&emsp;(A) a representative from a State highway department;
 
@@ -74,39 +74,85 @@ Membership.—The Advisory Committee shall have no more than 20 members, be bala
 
 &emsp;&emsp;(C) a representative from a State, local, or regional transit agency;
 
-&emsp;&emsp;(D) a representative from a metropolitan planning organization;
+&emsp;&emsp;(D) a representative from a State, local, or regional wildlife, land use, or resource management agency;
 
-&emsp;&emsp;(E) a private sector user of intelligent transportation system technologies;
+&emsp;&emsp;(E) a representative from a metropolitan planning organization;
 
-&emsp;&emsp;(F) an academic researcher with expertise in computer science or another information science field related to intelligent transportation systems, and who is not an expert on transportation issues;
+&emsp;&emsp;(F) a representative of a national transit association;
 
-&emsp;&emsp;(G) an academic researcher who is a civil engineer;
+&emsp;&emsp;(G) a representative of a national, State, or local transportation agency or association;
 
-&emsp;&emsp;(H) an academic researcher who is a social scientist with expertise in transportation issues;
+&emsp;&emsp;(H) a private sector user of intelligent transportation system technologies;
 
-&emsp;&emsp;(I) a representative from a nonprofit group representing the intelligent transportation system industry;
+&emsp;&emsp;(I) a private sector developer of intelligent transportation system technologies, which may include emerging vehicle technologies;
 
-&emsp;&emsp;(J) a representative from a public interest group concerned with safety;
+&emsp;&emsp;(J) an academic researcher with expertise in computer science or another information science field related to intelligent transportation systems, and who is not an expert on transportation issues;
 
-&emsp;&emsp;(K) a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns; and
+&emsp;&emsp;(K) an academic researcher who is a civil engineer;
 
-&emsp;&emsp;(L) members with expertise in planning, safety, telecommunications, utilities, and operations.
+&emsp;&emsp;(L) an academic researcher who is a social scientist with expertise in transportation issues;
+
+&emsp;&emsp;(M) an academic researcher who is a biological or ecological scientist with expertise in transportation issues;
+
+&emsp;&emsp;(N) a representative from a nonprofit group representing the intelligent transportation system industry;
+
+&emsp;&emsp;(O) a representative from a public interest group concerned with safety;
+
+&emsp;&emsp;(P) a representative of a labor organization;
+
+&emsp;&emsp;(Q) a representative of a mobility-providing entity;
+
+&emsp;&emsp;(R) an expert in traffic management;
+
+&emsp;&emsp;(S) a representative from a public interest group concerned with the impact of the transportation system on land use and residential patterns;
+
+&emsp;&emsp;(T) a representative from a public interest group concerned with the impact of the transportation system on terrestrial and aquatic species and the habitat of those species; and
+
+&emsp;&emsp;(U) members with expertise in planning, safety, telecommunications, and operations;
+
+&emsp;&emsp;(V) an expert in cybersecurity; and
+
+&emsp;&emsp;(W) an automobile manufacturer.
 
 &emsp;(3)
 
+Term.—
+
+&emsp;&emsp;(A)
+
+In general.—The term of a member of the Advisory Committee shall be 3 years.
+
+&emsp;&emsp;(B)
+
+Renewal.—On expiration of the term of a member of the Advisory Committee, the member—
+
+&emsp;&emsp;&emsp;(i) may be reappointed; or
+
+&emsp;&emsp;&emsp;(ii) if the member is not reappointed under clause (i), may serve until a new member is appointed.
+
+&emsp;(4)
+
+Meetings.—The Advisory Committee—
+
+&emsp;&emsp;(A) shall convene not less frequently than twice each year; and
+
+&emsp;&emsp;(B) may convene with the use of remote video conference technology.
+
+&emsp;(5)
+
 Duties.—The Advisory Committee shall, at a minimum, perform the following duties:
 
-&emsp;&emsp;(A) Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 508.<sup>1</sup>
+&emsp;&emsp;(A) Provide input into the development of the intelligent transportation system aspects of the strategic plan under section 6503 of title 49.
 
-&emsp;&emsp;(B) Review, at least annually, areas of intelligent transportation systems research being considered for funding by the Department, to determine—
+&emsp;&emsp;(B) Review, at least annually, areas of intelligent transportation systems programs and research being considered for funding by the Department, to determine—
 
 &emsp;&emsp;&emsp;(i) whether these activities are likely to advance either the state-of-the-practice or state-of-the-art in intelligent transportation systems;
 
 &emsp;&emsp;&emsp;(ii) whether the intelligent transportation system technologies are likely to be deployed by users, and if not, to determine the barriers to deployment; and
 
-&emsp;&emsp;&emsp;(iii) the appropriate roles for government and the private sector in investing in the research and technologies being considered.
+&emsp;&emsp;&emsp;(iii) the appropriate roles for government and the private sector in investing in the programs, research, and technologies being considered.
 
-&emsp;(4)
+&emsp;(6)
 
 Report.—Not later than May 1 of each year, the Secretary shall make available to the public on a Department of Transportation website a report that includes—
 
@@ -116,7 +162,7 @@ Report.—Not later than May 1 of each year, the Secretary shall make available 
 
 &emsp;&emsp;(C) for recommendations not implemented, the reasons for rejecting the recommendations.
 
-&emsp;(5)
+&emsp;(7)
 
 Applicability of federal advisory committee act.—The Advisory Committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
@@ -144,23 +190,59 @@ Funding.—The guidelines and requirements issued under subparagraph (A) shall e
 
 Special rule.—Any survey, questionnaire, or interview that the Secretary considers necessary to carry out the reporting of any test, deployment project, or program assessment activity under sections 512 through 518 shall not be subject to chapter 35 of title 44, United States Code.
 
-(Added Pub. L. 112–141, div. E, title III, §53003(a), July 6, 2012, 126 Stat. 899; amended Pub. L. 114–94, div. A, title I, §1446(a)(14), title VI, §6007, Dec. 4, 2015, 129 Stat. 1438, 1567.)
+(Added Pub. L. 112–141, div. E, title III, §53003(a), July 6, 2012, 126 Stat. 899; amended Pub. L. 114–94, div. A, title I, §1446(a)(14), title VI, §6007, Dec. 4, 2015, 129 Stat. 1438, 1567; Pub. L. 117–58, div. A, title III, §13008(a), div. B, title V, §25001, Nov. 15, 2021, 135 Stat. 641, 836.)
 
 #### <b>Editorial Notes</b>
 
 #### References in Text
 
-Section 508, referred to in subsec. (h)(3)(A), was repealed by Pub. L. 114–94, div. A, title VI, §6019(d)(1)(A), Dec. 4, 2015, 129 Stat. 1581, effective Oct. 1, 2015.
-
-The Federal Advisory Committee Act, referred to in subsec. (h)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h)(7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (h)(1). Pub. L. 117–58, §25001(1), inserted "(referred to in this subsection as the 'Advisory Committee')" after "an Advisory Committee".
+
+Subsec. (h)(2). Pub. L. 117–58, §25001(2)(A), substituted "25 members" for "20 members" in introductory provisions.
+
+Subsec. (h)(2)(D) to (W). Pub. L. 117–58, §13008(a) and §25001(2)(D)–(G), added various subpars. and successively redesignated existing subpars., resulting in ultimate redesignations of original subpars. as follows: (D) as (E), (E) as (H), (F) as (J), (G) as (K), (H) as (L), (I) as (N), (J) as (O), (K) as (S), and (L) as (U). For newly added subpars., see notes below.
+
+Subsec. (h)(2)(D). Pub. L. 117–58, §13008(a)(3), added subpar. (D).
+
+Subsec. (h)(2)(F), (G). Pub. L. 117–58, §25001(2)(D), added subpars. (F) and (G).
+
+Subsec. (h)(2)(I). Pub. L. 117–58, §25001(2)(E), added subpar. (I).
+
+Subsec. (h)(2)(J). Pub. L. 117–58, §13008(a)(4), added subpar. (J), which was subsequently redesignated (M) by Pub. L. 117–58, §25001(2)(C).
+
+Subsec. (h)(2)(N). Pub. L. 117–58, §13008(a)(5), added subpar. (N), which was subsequently redesignated (T) by Pub. L. 117–58, §25001(2)(C).
+
+Subsec. (h)(2)(O). Pub. L. 117–58, §25001(2)(B), prior to redesignation of subpar. (O) as (U), struck out "utilities," after "telecommunications," and substituted semicolon for period at end.
+
+Subsec. (h)(2)(P) to (R). Pub. L. 117–58, §25001(2)(F), added subpars. (P) to (R).
+
+Subsec. (h)(2)(V), (W). Pub. L. 117–58, §25001(2)(G), added subpars. (V) and (W).
+
+Subsec. (h)(3). Pub. L. 117–58, §25001(5), added par. (3). Former par. (3) redesignated (5).
+
+Subsec. (h)(3)(A). Pub. L. 117–58, §25001(3)(A), substituted "section 6503 of title 49" for "section 508".
+
+Subsec. (h)(3)(B). Pub. L. 117–58, §25001(3)(B)(i), inserted "programs and" before "research" in introductory provisions.
+
+Subsec. (h)(3)(B)(iii). Pub. L. 117–58, §25001(3)(B)(ii), substituted "programs, research, and" for "research and".
+
+Subsec. (h)(4). Pub. L. 117–58, §25001(5), added par. (4). Former par. (4) redesignated (6).
+
+Subsec. (h)(5) to (7). Pub. L. 117–58, §25001(4), redesignated pars. (3) to (5) as (5) to (7), respectively.
 
 <b>2015</b>—Pub. L. 114–94, §1446(a)(14), substituted "sections 512 through 518" for "this chapter" wherever appearing.
 
 Subsec. (h)(4). Pub. L. 114–94, §6007, in introductory provisions, substituted "May 1 of each year" for "February 1 of each year after the date of enactment of the Transportation Research and Innovative Technology Act of 2012" and "make available to the public on a Department of Transportation website" for "submit to Congress".
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by section 13008(a) of Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 
@@ -169,6 +251,4 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 #### Effective Date
 
 Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

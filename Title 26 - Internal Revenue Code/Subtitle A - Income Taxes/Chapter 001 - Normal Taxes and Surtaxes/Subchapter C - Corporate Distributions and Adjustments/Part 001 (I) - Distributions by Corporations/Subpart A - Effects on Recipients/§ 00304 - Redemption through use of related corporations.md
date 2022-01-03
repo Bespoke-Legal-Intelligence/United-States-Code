@@ -40,7 +40,7 @@
 
 #### (A) Property treated as received in redemption
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, subsection (a) (and not section 351 and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
+&emsp;&emsp;Except as otherwise provided in this paragraph, subsection (a) (and not section 351and not so much of sections 357 and 358 as relates to section 351) shall apply to any property received in a distribution described in subsection (a).
 
 #### (B) Certain assumptions of liability, etc.
 
@@ -186,6 +186,8 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 89; Pub. L. 88–554, §4(b)(1), Aug. 31, 1964, 78 Stat. 763; Pub. L. 97–248, title II, §226(a)(1)(A), (2), (3), Sept. 3, 1982, 96 Stat. 490, 491; Pub. L. 98–369, div. A, title VII, §712(l)(1)–(5)(A), July 18, 1984, 98 Stat. 953, 954; Pub. L. 99–514, title XVIII, §1875(b), Oct. 22, 1986, 100 Stat. 2894; Pub. L. 100–203, title X, §10223(c), Dec. 22, 1987, 101 Stat. 1330–411; Pub. L. 100–647, title II, §2004(k)(2), Nov. 10, 1988, 102 Stat. 3605; Pub. L. 105–34, title X, §1013(a), (c), Aug. 5, 1997, 111 Stat. 918; Pub. L. 105–206, title VI, §6010(d), July 22, 1998, 112 Stat. 814; Pub. L. 111–226, title II, §215(a), Aug. 10, 2010, 124 Stat. 2399; Pub. L. 113–295, div. A, title II, §221(a)(48), Dec. 19, 2014, 128 Stat. 4045.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (b)(3)(D)(ii), is classified to section 1841(a) of Title 12, Banks and Banking.
@@ -231,6 +233,8 @@ Subsec. (b)(3). Pub. L. 97–248, §226(a)(1)(A), added par. (3).
 Subsec. (c)(2), (3). Pub. L. 97–248, §226(a)(2), added par. (2), redesignated former par. (2) as (3) and substituted "this section" for "paragraph (1)" after "determining control under".
 
 <b>1964</b>—Subsecs. (b)(1), (c)(2). Pub. L. 88–554 inserted reference to section 318(a)(3)(C) of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 
@@ -334,7 +338,7 @@ In general.—Except as otherwise provided in this paragraph, the amendments mad
 
 "(B)
 
-Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendmentsmade by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
+Election by taxpayer to have amendments apply earlier.—Any taxpayer may elect, at such time and in such manner as the Secretary of the Treasury or his delegate may prescribe, to have the amendments made by paragraphs (1) and (3) apply as if included in section 226 of the Tax Equity and Fiscal Responsibility Act of 1982 \[section 226 of Pub. L. 97–248, which amended this section and section 306 of this title and enacted Effective Date of 1982 Amendment note set out below\].
 
 "(C)
 

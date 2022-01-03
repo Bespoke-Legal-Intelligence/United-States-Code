@@ -28,14 +28,18 @@
 | [143\.](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md) | Office of the Secretary of Defense personnel: limitation. |
 | [144\.](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md) | Director of Small Business Programs. |
 | [145\.](%C2%A7%2000145%20-%20Principal%20Advisor%20on%20Countering%20Weapons%20of%20Mass%20Destruction.md) | Principal Advisor on Countering Weapons of Mass Destruction. |
-| [146\.](%C2%A7%2000146%20-%20Office%20of%20Local%20Defense%20Community%20Cooperation.md) | Office of Local Defense Community Cooperation. |
+| \[146. | Renumbered.\] |
 | [147\.](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md) | Chief Diversity Officer. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title IX, §§901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted "Secretariat for Special Operations; Special Operations Policy and Oversight Council" for "Special Operations Policy and Oversight Council" in item 139b, and struck out item 132a "Chief Management Officer".
+<b>2021</b>—Pub. L. 117–81, div. A, title IX, §902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 "Office of Local Defense Community Cooperation".
+
+Pub. L. 116–283, div. A, title IX, §§901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted "Secretariat for Special Operations; Special Operations Policy and Oversight Council" for "Special Operations Policy and Oversight Council" in item 139b, and struck out item 132a "Chief Management Officer".
 
 <b>2019</b>—Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence" in item 137.
 
@@ -77,7 +81,7 @@ Pub. L. 111–23, title I, §§101(a)(2), 102(a)(2), May 22, 2009, 123 Stat. 170
 
 <b>1996</b>—Pub. L. 104–106, div. A, title IX, §904(a)(2), Feb. 10, 1996, 110 Stat. 403, substituted "Nuclear and Chemical and Biological Defense Programs" for "Atomic Energy" in item 142.
 
-Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 401, 402, which directed amendment of analysis, eff. Jan. 31, 1997, by striking out items 133a, 134a, 137, and 142, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
+Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 401, 402, which directed amendment ofanalysis, eff. Jan. 31, 1997, by striking out items 133a, 134a, 137, and 142, was repealed by Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IX, §903(a)(3), Oct. 5, 1994, 108 Stat. 2823, substituted "Under Secretary of Defense (Comptroller)" for "Comptroller" in item 135.
 
@@ -89,7 +93,7 @@ Pub. L. 104–106, div. A, title IX, §903(a), (e)(3), Feb. 10, 1996, 110 Stat. 
 
 Pub. L. 100–26, §9(b)(2), Apr. 21, 1987, 101 Stat. 287, struck out item 140a "Counterintelligence official reception and representation expenses" and item 140b "Authority to use proceeds from counterintelligence operations of the military departments".
 
-<b>1986</b>—Pub. L. 99–500, §101(c) \[title X, §902(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591,§101(c) \[title X, §902(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, §902(a)(2), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 133a.
+<b>1986</b>—Pub. L. 99–500, §101(c) \[title X, §902(a)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, §101(c) \[title X, §902(a)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, §902(a)(2), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, amended analysis identically adding item 133a.
 
 Pub. L. 99–569, title IV, §§401(d), 403(b), Oct. 27, 1986, 100 Stat. 3196, 3197, added items 140a and 140b.
 
@@ -116,6 +120,8 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 <b>1973</b>—Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, added items 138 and 139.
 
 <b>1972</b>—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -168,5 +174,5 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 - [&sect; 00143 - Office of the Secretary of Defense personnel limitation](%C2%A7%2000143%20-%20Office%20of%20the%20Secretary%20of%20Defense%20personnel%20limitation.md)
 - [&sect; 00144 - Director of Small Business Programs](%C2%A7%2000144%20-%20Director%20of%20Small%20Business%20Programs.md)
 - [&sect; 00145 - Principal Advisor on Countering Weapons of Mass Destruction](%C2%A7%2000145%20-%20Principal%20Advisor%20on%20Countering%20Weapons%20of%20Mass%20Destruction.md)
-- [&sect; 00146 - Office of Local Defense Community Cooperation](%C2%A7%2000146%20-%20Office%20of%20Local%20Defense%20Community%20Cooperation.md)
+- [&sect; 00146 - Renumbered &sect;198](%C2%A7%2000146%20-%20Renumbered%20%C2%A7198.md)
 - [&sect; 00147 - Chief Diversity Officer](%C2%A7%2000147%20-%20Chief%20Diversity%20Officer.md)

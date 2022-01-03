@@ -70,13 +70,15 @@ A Federal agency may use the Foundation and the National Center to provide asses
 
 (2)
 
-Payment into the environmental dispute resolution fund.—Entities utilizing servicespursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
+Payment into the environmental dispute resolution fund.—Entities utilizing services pursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under section 5607a of this title.
 
 #### (f) Agency management or control
 
 Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of the Federal Advisory Committee Act (5 U.S.C. App.).
 
 (Pub. L. 102–259, §11, as added Pub. L. 105–156, §7, Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 111–90, §9, Nov. 3, 2009, 123 Stat. 2978; Pub. L. 116–94, div. P, title III, §307, Dec. 20, 2019, 133 Stat. 3190.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -90,7 +92,7 @@ A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classif
 
 <b>2019</b>—Pub. L. 116–94, §307(1), substituted "the National Center" for "the Institute" in section catchline.
 
-Subsec. (a). Pub. L. 116–94, §307(2), substituted "National Center" for "Institute" and "resources, or with a Federal, State, or tribal process or procedure that may result in a dispute or conflict." for "resources." and inserted "collaboration," after "mediation,".
+Subsec. (a). Pub. L. 116–94, §307(2), substituted "National Center" for "Institute" and "resources, or witha Federal, State, or tribal process or procedure that may result in a dispute or conflict." for "resources." and inserted "collaboration," after "mediation,".
 
 Subsec. (b)(1). Pub. L. 116–94, §307(3), substituted "National Center" for "Institute".
 

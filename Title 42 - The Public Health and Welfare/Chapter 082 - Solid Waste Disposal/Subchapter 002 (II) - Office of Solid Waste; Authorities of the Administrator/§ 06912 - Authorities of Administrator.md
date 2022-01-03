@@ -24,7 +24,9 @@ Each regulation promulgated under this chapter shall be reviewed and, where nece
 
 In carrying out the provisions of this chapter, the Administrator, and duly-designated agents and employees of the Environmental Protection Agency, are authorized to initiate and conduct investigations under the criminal provisions of this chapter, and to refer the results of these investigations to the Attorney General for prosecution in appropriate cases.
 
-(Pub. L. 89–272, title II, §2002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2804; amended Pub. L. 96–482, §5, Oct. 21, 1980, 94 Stat. 2335; Pub. L. 98–616, title IV, §403(d)(4), Nov. 8, 1984, 98 Stat.3272; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+(Pub. L. 89–272, title II, §2002, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2804; amended Pub. L. 96–482, §5, Oct. 21, 1980, 94 Stat. 2335; Pub. L. 98–616, title IV, §403(d)(4), Nov. 8, 1984, 98 Stat. 3272; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -37,6 +39,8 @@ In subsec. (a)(6), "chapter 51 of title 49" substituted for "the Hazardous Mater
 <b>1984</b>—Subsec. (c). Pub. L. 98–616 added subsec. (c).
 
 <b>1980</b>—Subsec. (a)(6). Pub. L. 96–482 added par. (6).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -34,7 +34,9 @@ In subsection (a) the words "In addition to the divisions herein created" are om
 
 In subsection (c) the words "from time to time" are omitted as surplusage.
 
-Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words "under section 5231 of this title" are substituted for the words "grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes suchgrade, rank, pay, and allowances for officers so designated".
+Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words "under section 5231 of this title" are substituted for the words "grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes such grade, rank, pay, and allowances for officers so designated".
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -61,6 +63,8 @@ Subsec. (d). Pub. L. 99–433, §511(c)(5)(B), redesignated former subsec. (c) a
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §503(7)(A), substituted "active-duty list" for "active list".
 
 Subsec. (d). Pub. L. 96–513, §503(7)(B), struck out subsec. (d) which authorized the President to designate the Naval Inspector General as an officer who performs special or unusual duty or duty of great importance and responsibility under section 5231 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

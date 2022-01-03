@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or chapter 137 of title 10, shall be expended either with—
+To the extent practicable, the head of each agency shall provide that the obligation of not less than 10 percent of the total combined amounts obligated for contracts and subcontracts by each agency under this Act and amendments made by this Act pursuant to competitive procedures within the meaning of either division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, or chapter 137 legacy provisions (as such term is defined in section 3016 of title 10), shall be expended either with—
 
 &emsp;(1) small business concerns controlled by socially and economically disadvantaged individuals or women;
 
@@ -22,7 +22,9 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;(3) The term "qualified HUBZone small business concern" has the meaning given that term in section 632(p) <sup>1</sup> of title 15.
 
-(Pub. L. 102–486, title XXX, §3021, Oct. 24, 1992, 106 Stat. 3133; Pub. L. 105–135, title VI, §604(g), Dec. 2, 1997, 111 Stat. 2634.)
+(Pub. L. 102–486, title XXX, §3021, Oct. 24, 1992, 106 Stat. 3133; Pub. L. 105–135, title VI, §604(g), Dec. 2, 1997, 111 Stat. 2634; Pub. L. 117–81, div. A, title XVII, §1702(j)(6), Dec. 27, 2021, 135 Stat. 2159.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -36,9 +38,13 @@ In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "chapter 137 legacy provisions (as such term is defined in section 3016 of title 10)" for "chapter 137 of title 10".
+
 <b>1997</b>—Subsec. (a)(4). Pub. L. 105–135, §604(g)(1), added par. (4).
 
 Subsec. (b)(3). Pub. L. 105–135, §604(g)(2), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

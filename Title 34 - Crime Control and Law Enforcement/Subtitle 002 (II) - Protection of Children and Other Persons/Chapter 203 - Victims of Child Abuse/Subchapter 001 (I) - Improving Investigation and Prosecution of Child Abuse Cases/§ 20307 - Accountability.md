@@ -38,7 +38,7 @@ All grants awarded by the Administrator under this subchapter shall be subject t
 
 #### (B) Prohibition
 
-&emsp;&emsp;The Administrator may not award a grant under any grant program described in thissubchapter to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
+&emsp;&emsp;The Administrator may not award a grant under any grant program described in this subchapter to a nonprofit organization that holds money in offshore accounts for the purpose of avoiding paying the tax described in section 511(a) of title 26.
 
 #### (C) Disclosure
 

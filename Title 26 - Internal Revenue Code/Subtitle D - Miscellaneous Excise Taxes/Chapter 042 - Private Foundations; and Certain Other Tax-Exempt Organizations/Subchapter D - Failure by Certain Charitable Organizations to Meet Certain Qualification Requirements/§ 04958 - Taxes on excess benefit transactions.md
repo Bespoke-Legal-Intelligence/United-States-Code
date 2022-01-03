@@ -46,7 +46,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) any grant, loan, compensation, or other similar payment provided by such organization to a person described in subparagraph (B), and
 
-&emsp;&emsp;&emsp;&emsp;(II) any loan provided by such organization to a disqualified person (otherthan an organization described in subparagraph (C)(ii)), and
+&emsp;&emsp;&emsp;&emsp;(II) any loan provided by such organization to a disqualified person (other than an organization described in subparagraph (C)(ii)), and
 
 &emsp;&emsp;&emsp;(ii) the term "excess benefit" includes, with respect to any transaction described in clause (i), the amount of any such grant, loan, compensation, or other similar payment.
 
@@ -188,6 +188,8 @@ For purposes of this section—
 
 (Added Pub. L. 104–168, title XIII, §1311(a), July 30, 1996, 110 Stat. 1475; amended Pub. L. 109–280, title XII, §§1212(a)(3), 1232(a), (b), 1242(a), (b), Aug. 17, 2006, 120 Stat. 1074, 1098, 1099, 1104; Pub. L. 110–172, §3(i), Dec. 29, 2007, 121 Stat. 2475; Pub. L. 111–148, title I, §1322(h)(3), Mar. 23, 2010, 124 Stat. 192; Pub. L. 115–141, div. U, title IV, §401(a)(224), Mar. 23, 2018, 132 Stat. 1194.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Sections 1212(a)(3), 1232(a), (b), and 1242(a), (b) of Pub. L. 109–280, which directed the amendment of section 4958 without specifying the act to be amended, were executed to this section, which is section 4958 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -226,13 +228,15 @@ Subsec. (f)(6). Pub. L. 109–280, §1232(b)(2), inserted ", except that in the
 
 Subsec. (f)(7), (8). Pub. L. 109–280, §1232(a)(2), added pars. (7) and (8). See Codification note above.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006,Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
+Amendment by Pub. L. 110–172 effective as if included in the provisions of the Pension Protection Act of 2006, Pub. L. 109–280, to which such amendment relates, see section 3(j) of Pub. L. 110–172, set out as a note under section 170 of this title.
 
 #### Effective Date of 2006 Amendment
 
-Amendment by section 1212(a)(3) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006, see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
+Amendment by section 1212(a)(3) of Pub. L. 109–280 applicable to taxable years beginning after Aug. 17, 2006,see section 1212(f) of Pub. L. 109–280, set out as a note under section 4941 of this title.
 
 Pub. L. 109–280, title XII, §1232(c), Aug. 17, 2006, 120 Stat. 1099, provided that: "The amendments made by this section \[amending this section\] shall apply to transactions occurring after the date of the enactment of this Act \[Aug. 17, 2006\]."
 

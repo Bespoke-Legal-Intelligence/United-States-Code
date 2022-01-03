@@ -50,7 +50,7 @@ Limitation on Civil Liability.—A person who participates in or provides inform
 
 (h)
 
-Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds thatthe information was presented during meetings of a review body that are part of a medical quality assurance program.
+Application to Information in Certain Other Records.—Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient's medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 
 (i)
 
@@ -74,6 +74,8 @@ Penalty.—Any person who willfully discloses a medical quality assurance record
 
 (Added Pub. L. 99–661, div. A, title VII, §705(a)\[(1)\], Nov. 14, 1986, 100 Stat. 3902; amended Pub. L. 100–180, div. A, title XII, §1231(5), Dec. 4, 1987, 101 Stat. 1160; Pub. L. 101–189, div. A, title VI, §653(f), Nov. 29, 1989, 103 Stat. 1463; Pub. L. 108–375, div. A, title X, §1084(c)(2), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 112–81, div. A, title VII, §714(a), Dec. 31, 2011, 125 Stat. 1476.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2011</b>—Subsec. (j)(1). Pub. L. 112–81, §714(a)(1), substituted "any peer review activity carried out" for "any activity carried out".
@@ -85,6 +87,8 @@ Subsec. (j)(4). Pub. L. 112–81, §714(a)(2), added par. (4).
 <b>1989</b>—Subsec. (j)(1). Pub. L. 101–189 substituted "November 14, 1986" for "the date of the enactment of this section".
 
 <b>1987</b>—Subsec. (c)(2). Pub. L. 100–180 struck out ", United States Code" after "title 5" in second sentence.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2011 Amendment
 

@@ -22,6 +22,8 @@ Any contract for a loan made during the period beginning on December 31, 1982, a
 
 (Pub. L. 99–425, title IV, §407(a), (b), Sept. 30, 1986, 100 Stat. 971; Pub. L. 105–285, title II, §202(c), Oct. 27, 1998, 112 Stat. 2755.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 9910 of this title, referred to in subsecs. (a) and (b)(2), was in the original a reference to section 681 of Pub. L. 97–35. Section 681 of Pub. L. 97–35 was omitted, and a new section 681 enacted, in the general amendment of chapter 106 of this title by Pub. L. 105–285, title II, §201, Oct. 27, 1998, 112 Stat. 2728. The new section 681 is classified to section 9922 of this title.
@@ -35,6 +37,8 @@ Section was enacted as part of the Human Services Reauthorization Act of 1986, a
 <b>1998</b>—Subsec. (a). Pub. L. 105–285, §202(c)(1), in concluding provisions, inserted "(before October 27, 1998)" after "funds available" and "(as in effect before October 27, 1998)" after "9910(a) of this title".
 
 Subsec. (b)(2). Pub. L. 105–285, §202(c)(2), inserted "(before October 27, 1998)" after "funds available" and "(as in effect before October 27, 1998)" after "9910(a) of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

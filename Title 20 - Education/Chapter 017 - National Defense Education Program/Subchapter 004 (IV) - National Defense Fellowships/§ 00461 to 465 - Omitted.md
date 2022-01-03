@@ -1,5 +1,7 @@
 ### §§461 to 465. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Fellowships under this subchapter have not been authorized since the fiscal year ending June 30, 1973.

@@ -46,7 +46,7 @@ A health team established pursuant to a grant or contract under subsection (a) s
 
 &emsp;&emsp;(F) payment that recognizes added value from additional components of patient-centered care;
 
-&emsp;(3) collaborate with local primary care providers and existing State and community based resources to coordinate disease prevention, chronic disease management,transitioning between health care providers and settings and case management for patients, including children, with priority given to those amenable to prevention and with chronic diseases or conditions identified by the Secretary;
+&emsp;(3) collaborate with local primary care providers and existing State and community based resources to coordinate disease prevention, chronic disease management, transitioning between health care providers and settings and case management for patients, including children, with priority given to those amenable to prevention and with chronic diseases or conditions identified by the Secretary;
 
 &emsp;(4) in collaboration with local health care providers, develop and implement interdisciplinary, interprofessional care plans that integrate clinical and community preventive and health promotion services for patients, including children, with a priority given to those amenable to prevention and with chronic diseases or conditions identified by the Secretary;
 
@@ -111,6 +111,8 @@ An entity that receives a grant or contract under subsection (a) shall submit to
 In this section, the term "primary care" means the provision of integrated, accessible health care services by clinicians who are accountable for addressing a large majority of personal health care needs, developing a sustained partnership with patients, and practicing in the context of family and community.
 
 (Pub. L. 111–148, title III, §3502, title X, §10321, Mar. 23, 2010, 124 Stat. 513, 952.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

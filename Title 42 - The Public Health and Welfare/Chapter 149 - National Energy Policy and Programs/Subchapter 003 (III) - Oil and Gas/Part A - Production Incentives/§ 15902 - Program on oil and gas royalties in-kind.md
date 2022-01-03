@@ -22,7 +22,7 @@ All royalty accruing to the United States shall, on the demand of the Secretary,
 
 #### (A) Definition of marketable condition
 
-&emsp;&emsp;In this paragraph, the term "in marketable condition" means sufficiently free from impurities and otherwise in a condition that the royalty production will be accepted by a purchaser under a sales contract typical of the field or area in which the royalty production was produced.
+&emsp;&emsp;In this paragraph, the term "in marketable condition" means sufficiently free from impurities and otherwise in a condition thatthe royalty production will be accepted by a purchaser under a sales contract typical of the field or area in which the royalty production was produced.
 
 #### (B) Requirement
 
@@ -126,9 +126,11 @@ The Secretary—
 
 (Pub. L. 109–58, title III, §342, Aug. 8, 2005, 119 Stat. 697; Pub. L. 113–188, title XI, §1101, Nov. 26, 2014, 128 Stat. 2023.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This part, referred to in subsec. (f)(1), was in the original "this subtitle", meaning subtitle E (§§341–357) of title III of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 697, which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and section 1337 of Title43, Public Lands, and enacted provisions set out as a note under section 226 of Title 30. For complete classification of subtitle E to the Code, see Tables.
+This part, referred to in subsec. (f)(1), was in the original "this subtitle", meaning subtitle E (§§341–357) of title III of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 697, which enacted this part, amended sections 6504, 6506a, 6507, and 6508 of this title, sections 184 and 226 of Title 30, Mineral Lands and Mining, and section 1337 of Title 43, Public Lands, and enacted provisions set out as a note under section 226 of Title 30. For complete classification of subtitle E to the Code, see Tables.
 
 #### Amendments
 

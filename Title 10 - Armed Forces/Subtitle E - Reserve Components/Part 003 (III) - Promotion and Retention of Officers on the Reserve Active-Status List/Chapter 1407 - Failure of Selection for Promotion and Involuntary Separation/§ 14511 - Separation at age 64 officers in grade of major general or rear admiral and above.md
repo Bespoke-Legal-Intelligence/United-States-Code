@@ -20,7 +20,9 @@ Positions.—The retirement of a reserve officer of the Army, Air Force, or Mari
 
 Exception for Officers Holding Certain Offices.—This section does not apply to an officer covered by section 14512 of this title.
 
-(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L. 109–364, div. A, title V, §503(a), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(a)(1), Jan. 28, 2008, 122 Stat. 501.)
+(Added Pub. L. 103–337, div. A, title XVI, §1611, Oct. 5, 1994, 108 Stat. 2953; amended Pub. L.109–364, div. A, title V, §503(a), Oct. 17, 2006, 120 Stat. 2178; Pub. L. 110–181, div. A, title XVIII, §1825(a)(1), Jan. 28, 2008, 122 Stat. 501.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -31,6 +33,8 @@ Provisions similar to those in this section were contained in sections 3844 and 
 <b>2008</b>—Pub. L. 110–181 amended section generally. Prior to amendment, text read as follows: "Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of major general and each reserve officer of the Navy in the grade of rear admiral, except an officer covered by section 14512 of this title, shall be separated in accordance with section 14515 of this title on the last day of the month in which the officer becomes 64 years of age."
 
 <b>2006</b>—Pub. L. 109–364 substituted "64" for "62" in section catchline and text.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -100,7 +100,7 @@
 
 #### (iv) Determination of allocable share
 
-&emsp;&emsp;&emsp;The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manneras the credit allowable by section 38 with respect to such property.
+&emsp;&emsp;&emsp;The determination of any partner's or shareholder's allocable share of any financing shall be made in the same manner as the credit allowable by section 38 with respect to such property.
 
 #### (F) Special rules for energy property
 
@@ -130,7 +130,7 @@
 
 #### (1) In general
 
-&emsp;If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)) with respect to any property to which subsection (a)(1) applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section 38 for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection (a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section 50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the year in which the property was first placed in service.
+&emsp;If, as of the close of the taxable year, there is a net increase with respect to the taxpayer in the amount of nonqualified nonrecourse financing (within the meaning of subsection (a)(1)) with respect to any property to which subsection (a)(1) applied, then the tax under this chapter for such taxable year shall be increased by an amount equal to the aggregate decrease in credits allowed under section 38 for all prior taxable years which would have resulted from reducing the credit base (as defined in subsection (a)(1)(C)) taken into account with respect to such property by the amount of such net increase. For purposes of determining the amount of credit subject to the early disposition or cessation rules of section 50(a), the net increase in the amount of the nonqualified nonrecourse financing with respect to the property shall be treated as reducing the property's credit base in the yearin which the property was first placed in service.
 
 #### (2) Transfers of debt more than 1 year after initial borrowing not treated as increasing nonqualified nonrecourse financing
 
@@ -145,6 +145,8 @@
 &emsp;Any increase in tax under paragraph (1) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
 
 (Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -186,6 +188,8 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Pri
 
 &emsp;"(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment)."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–148 applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section 9023(f) of Pub. L. 111–148, set out as a note under section 46 of this title.
@@ -204,7 +208,7 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualifiedprogress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Effective Date of 1988 Amendment
 

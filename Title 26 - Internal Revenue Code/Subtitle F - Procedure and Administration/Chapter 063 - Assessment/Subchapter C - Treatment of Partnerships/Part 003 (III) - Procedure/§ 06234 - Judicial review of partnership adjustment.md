@@ -26,13 +26,15 @@ A court with which a petition is filed in accordance with this section shall hav
 
 #### (d) Determination of court reviewable
 
-Any determination by a court under this section shall have the force and effect of a decision of the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court's order entering the decision.
+Any determination by a court under this section shall have the force and effect of a decisionof the Tax Court or a final judgment or decree of the district court or the Court of Federal Claims, as the case may be, and shall be reviewable as such. The date of any such determination shall be treated as being the date of the court's order entering the decision.
 
 #### (e) Effect of decision dismissing action
 
 If an action brought under this section is dismissed other than by reason of a rescission under section 6231(c),<sup>1</sup> the decision of the court dismissing the action shall be considered as its decision that the notice of final partnership adjustment is correct, and an appropriate order shall be entered in the records of the court.
 
 (Added Pub. L. 114–74, title XI, §1101(c)(1), Nov. 2, 2015, 129 Stat. 634; amended Pub. L. 114–113, div. Q, title IV, §411(b)(2), (3), Dec. 18, 2015, 129 Stat. 3122; Pub. L. 115–141, div. U, title II, §§201(c)(7), 206(j), Mar. 23, 2018, 132 Stat. 1173, 1180.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -44,11 +46,13 @@ A prior section 6234, added Pub. L. 105–34, title XII, §1231(a), Aug. 5, 1997
 
 #### Amendments
 
-<b>2018</b>—Subsec. (b)(1). Pub. L. 115–141, §206(j), substituted "the amount of (as of the date of the filing ofthe petition) the imputed underpayment, penalties, additions to tax, and additional amounts with respect to such imputed underpayment" for "the amount of the imputed underpayment (as of the date of the filing of the petition)".
+<b>2018</b>—Subsec. (b)(1). Pub. L. 115–141, §206(j), substituted "the amount of (as of the date of the filing of the petition) the imputed underpayment, penalties, additions to tax, and additional amounts with respect to such imputed underpayment" for "the amount of the imputed underpayment (as of the date of the filing of the petition)".
 
 Subsec. (c). Pub. L. 115–141, §201(c)(7), substituted "all partnership-related items" for "all items of income, gain, loss, deduction, or credit of the partnership".
 
 <b>2015</b>—Pub. L. 114–113 substituted "Court of Federal Claims" for "Claims Court" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

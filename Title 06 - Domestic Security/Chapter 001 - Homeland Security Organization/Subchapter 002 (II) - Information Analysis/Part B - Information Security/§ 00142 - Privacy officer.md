@@ -18,7 +18,7 @@ The Secretary shall appoint a senior official in the Department, who shall repor
 
 &emsp;&emsp;(B) Congress receives appropriate reports on such programs, policies, and procedures; and
 
-&emsp;(6) preparing a report to Congress on an annual basis on activities of the Department that affect privacy, including complaints of privacy violations, implementation of the Privacy Act of 1974 \[5 U.S.C. 552a\], internal controls, and other matters.
+&emsp;(6) preparing a report to Congress on an annual basis on activities of the Departmentthat affect privacy, including complaints of privacy violations, implementation of the Privacy Act of 1974 \[5 U.S.C. 552a\], internal controls, and other matters.
 
 #### (b) Authority to investigate
 

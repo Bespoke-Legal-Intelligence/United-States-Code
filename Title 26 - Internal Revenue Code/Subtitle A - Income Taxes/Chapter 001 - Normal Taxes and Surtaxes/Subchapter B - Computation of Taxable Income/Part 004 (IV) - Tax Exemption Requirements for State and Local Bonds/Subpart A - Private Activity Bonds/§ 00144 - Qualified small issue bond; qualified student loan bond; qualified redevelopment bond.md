@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part, the term "qualified small issue bond" means any bond issuedas part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—
+&emsp;For purposes of this part, the term "qualified small issue bond" means any bond issued as part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—
 
 &emsp;&emsp;(A) for the acquisition, construction, reconstruction, or improvement of land or property of a character subject to the allowance for depreciation, or
 
@@ -198,7 +198,7 @@
 
 #### (B) Bonds issued to finance manufacturing facilities and farm property
 
-&emsp;&emsp;Subparagraph (A) shall not apply to any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
+&emsp;&emsp;Subparagraph (A) shall not apply to any bond issued as part of an issue 95 percent ormore of the net proceeds of which are to be used to provide—
 
 &emsp;&emsp;&emsp;(i) any manufacturing facility, or
 
@@ -226,7 +226,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) a facility which is used in the creation or production of intangible property which is described in section 197(d)(1)(C)(iii), or
 
-&emsp;&emsp;&emsp;&emsp;(II) a facility which is functionally related and subordinate to a manufacturing facility (determined without regard to this subclause) if such facility islocated on the same site as the manufacturing facility.
+&emsp;&emsp;&emsp;&emsp;(II) a facility which is functionally related and subordinate to a manufacturing facility (determined without regard to this subclause) if such facility is located on the same site as the manufacturing facility.
 
 #### (b) Qualified student loan bond
 
@@ -396,6 +396,8 @@ For purposes of this part—
 
 (Added Pub. L. 99–514, title XIII, §1301(b), Oct. 22, 1986, 100 Stat. 2621; amended Pub. L. 100–647, title I, §1013(a)(4)(A), (B)(i), (ii), (C), (5), title VI, §6176(a), Nov. 10, 1988, 102 Stat. 3537, 3538, 3726; Pub. L. 101–239, title VII, §7105, Dec. 19, 1989, 103 Stat. 2306; Pub. L. 101–508, title XI, §11409(a), Nov. 5, 1990, 104 Stat. 1388–478; Pub. L. 102–227, title I, §109(a), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13122(a), Aug. 10, 1993, 107 Stat. 432; Pub. L. 108–357, title III, §340, Oct. 22, 2004, 118 Stat. 1485; Pub. L. 109–222, title II, §208, May 17, 2006, 120 Stat. 351; Pub. L. 111–5, div. B, title I, §1301(a), Feb. 17, 2009, 123 Stat. 344.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 119 of the Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(F), is classified to section 5318 of Title 42, The Public Health and Welfare.
@@ -451,6 +453,8 @@ Subsec. (a)(12)(A)(ii)(III), (IV). Pub. L. 100–647, §1013(a)(4)(C), redesigna
 Subsec. (a)(12)(C). Pub. L. 100–647, §6176(a), inserted sentence at end defining "manufacturing facility".
 
 Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out "to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply" after "by the State", substituted "of the Higher Education Act of 1965" for "of such Act", amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: "A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b)."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

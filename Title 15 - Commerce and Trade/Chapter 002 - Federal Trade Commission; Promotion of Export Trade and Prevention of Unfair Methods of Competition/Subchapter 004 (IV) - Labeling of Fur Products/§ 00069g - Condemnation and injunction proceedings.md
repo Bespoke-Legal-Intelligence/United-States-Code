@@ -18,9 +18,13 @@ Whenever the Commission has reason to believe that—
 
 (Aug. 8, 1951, ch. 298, §9, 65 Stat. 180.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Federal Trade Commission Act, referred to in subsec. (b)(2), is defined in section 69 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

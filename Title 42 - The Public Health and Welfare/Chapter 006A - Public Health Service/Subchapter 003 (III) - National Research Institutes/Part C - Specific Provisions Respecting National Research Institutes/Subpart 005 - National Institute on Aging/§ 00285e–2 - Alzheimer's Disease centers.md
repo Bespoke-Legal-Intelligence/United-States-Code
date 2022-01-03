@@ -28,6 +28,8 @@ Support of a center under subsection (a) may be for a period of not to exceed fi
 
 (July 1, 1944, ch. 373, title IV, §445, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 855; amended Pub. L. 101–557, title II, §201, Nov. 15, 1990, 104 Stat. 2767; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (b)(2). Pub. L. 107–206 substituted "Ruth L. Kirschstein National Research Service Awards" for "National Research Service Awards".
@@ -46,6 +48,8 @@ Subsec. (b). Pub. L. 101–557, §201(2), amended subsec. (b) generally. Prior t
 
 > As used in this subsection, the term 'construction' does not include the acquisition of land, and the term 'training' does not include research training for which National Research Service Awards may be provided under section 288 of this title."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Alzheimer's Disease Research
 
 Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
@@ -54,7 +58,7 @@ Pub. L. 100–175, title III, Nov. 29, 1987, 101 Stat. 972, provided that:
 
 "(a)
 
-In General.—The Director of the National Institute on Aging shall provide for the conduct of clinical trials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
+In General.—The Director of the National Institute on Aging shall provide for the conduct of clinicaltrials on the efficacy of the use of such promising therapeutic agents as have been or may be discovered and recommended for further scientific analysis by the National Institute on Aging and the Food and Drug Administration to treat individuals with Alzheimer's disease, to retard the progression of symptoms of Alzheimer's disease, or to improve the functioning of individuals with such disease.
 
 "(b)
 

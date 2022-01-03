@@ -8,7 +8,7 @@
 
 #### (2) Grazing of triticale acreage
 
-&emsp;Effective for each of the 2014 through 2023 crop years, with respect to a producer on afarm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
+&emsp;Effective for each of the 2014 through 2023 crop years, with respect to a producer on a farm that uses acreage planted to triticale for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of triticale on that acreage.
 
 #### (b) Payment amount
 
@@ -65,6 +65,8 @@
 A 2014 through 2023 crop of wheat, barley, oats, or triticale planted on acreage that a producer elects, in the agreement required by subsection (a), to use for the grazing of livestock in lieu of any other harvesting of the crop shall not be eligible for an indemnity under a policy or plan of insurance authorized under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) or noninsured crop assistance under section 7333 of this title.
 
 (Pub. L. 113–79, title I, §1206, Feb. 7, 2014, 128 Stat. 680; Pub. L. 115–334, title I, §1201(c)(2), Dec. 20, 2018, 132 Stat. 4509.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

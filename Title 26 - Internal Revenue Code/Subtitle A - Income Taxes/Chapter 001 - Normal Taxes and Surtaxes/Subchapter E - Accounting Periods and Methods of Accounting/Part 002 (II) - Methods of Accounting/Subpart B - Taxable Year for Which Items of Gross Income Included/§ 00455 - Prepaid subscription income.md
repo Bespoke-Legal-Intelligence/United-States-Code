@@ -30,7 +30,7 @@ In the case of any prepaid subscription income to which this section applies—
 
 #### (B) Without consent
 
-&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which he receives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed bylaw for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
+&emsp;&emsp;A taxpayer may, without the consent of the Secretary, make an election under this section for his first taxable year in which he receives prepaid subscription income in the trade or business. Such election shall be made not later than the time prescribed by law for filing the return for the taxable year (including extensions thereof) with respect to which such election is made.
 
 #### (4) Period to which election applies
 
@@ -58,11 +58,15 @@ Notwithstanding the provisions of this section, any taxpayer who has, for taxabl
 
 (Added Pub. L. 85–866, title I, §28(a), Sept. 2, 1958, 72 Stat. 1625; amended Pub. L. 94–455, title XIX, §§1901(a)(67), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1775, 1834.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (c)(3)(B). Pub. L. 94–455, §1901(a)(67), substituted "for his first taxable year in which he receives prepaid subscription income in the trade or business" for "for his first taxable year (i) which begins after December 31, 1957, and (ii) in which he receives prepaid subscription income in the trade or business".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1976 Amendment
 

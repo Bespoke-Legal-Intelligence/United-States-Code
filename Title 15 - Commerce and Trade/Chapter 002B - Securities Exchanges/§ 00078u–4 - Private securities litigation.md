@@ -42,7 +42,7 @@
 
 #### (ii) Multiple actions
 
-&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the same claim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
+&emsp;&emsp;&emsp;If more than one action on behalf of a class asserting substantially the sameclaim or claims arising under this chapter is filed, only the plaintiff or plaintiffs in the first filed action shall be required to cause notice to be published in accordance with clause (i).
 
 #### (iii) Additional notices may be required under Federal rules
 
@@ -122,7 +122,7 @@
 
 #### (iii) Inadmissibility for certain purposes
 
-&emsp;&emsp;&emsp;A statement made in accordance with clause (i) or (ii) concerning the amount ofdamages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
+&emsp;&emsp;&emsp;A statement made in accordance with clause (i) or (ii) concerning the amount of damages shall not be admissible in any Federal or State judicial action or administrative proceeding, other than an action or proceeding arising out of such statement.
 
 #### (C) Statement of attorneys' fees or costs sought
 
@@ -188,7 +188,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shalltreat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
+&emsp;&emsp;&emsp;During the pendency of any stay of discovery pursuant to this paragraph, unless otherwise ordered by the court, any party to the action with actual notice of the allegations contained in the complaint shall treat all documents, data compilations (including electronically recorded or stored data), and tangible objects that are in the custody or control of such person and that are relevant to the allegations, as if they were the subject of a continuing request for production of documents from an opposing party under the Federal Rules of Civil Procedure.
 
 #### (ii) Sanction for willful violation
 
@@ -242,7 +242,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), in any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, the award of damages to the plaintiff shall not exceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the subject security and the mean trading price of that security during the 90-day period beginning on the date on which the information correcting the misstatement or omission that is the basis for the action is disseminated to the market.
+&emsp;Except as provided in paragraph (2), in any private action arising under this chapter in which the plaintiff seeks to establish damages by reference to the market price of a security, the award of damages to the plaintiff shall notexceed the difference between the purchase or sale price paid or received, as appropriate, by the plaintiff for the subject security and the mean trading price of that security during the 90-day period beginning on the date on which the information correcting the misstatement or omission that is the basis for the action is disseminated to the market.
 
 #### (2) Exception
 
@@ -314,7 +314,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 #### (ii) Other plaintiffs
 
-&emsp;&emsp;&emsp;With respect to any plaintiff not described in subclauses (I) and (II) of clause (i), each covered person shall be liable for the uncollectible share in proportion to the percentage of responsibility of that covered person, except that the total liability of a covered person under this clause may not exceed 50 percent of the proportionate share of that covered person, as determined under paragraph (3)(B).
+&emsp;&emsp;&emsp;With respect to any plaintiff not described in subclauses (I) and (II) of clause\(i), each covered person shall be liable for the uncollectible share in proportion to the percentage of responsibility of that covered person, except that the total liability of a covered person under this clause may not exceed 50 percent of the proportionate share of that covered person, as determined under paragraph (3)(B).
 
 #### (iii) Net worth
 
@@ -396,6 +396,8 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 (June 6, 1934, ch. 404, title I, §21D, as added and amended Pub. L. 104–67, title I, §101(b), title II, §201(a), Dec. 22, 1995, 109 Stat. 743, 758; Pub. L. 105–353, title I, §101(b)(2), title III, §301(b)(13), Nov. 3, 1998, 112 Stat. 3233, 3236; Pub. L. 111–203, title IX, §933(b), July 21, 2010, 124 Stat. 1883.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -413,6 +415,8 @@ Subsecs. (f), (g). Pub. L. 105–353, §301(b)(13)(B), redesignated subsec. (g) 
 Subsec. (g)(2)(B)(i). Pub. L. 105–353, §301(b)(13)(A), substituted "subparagraph (A)" for "paragraph (1)".
 
 <b>1995</b>—Subsec. (g). Pub. L. 104–67, §201(a), added subsec. (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;In order that an alien be permitted the opportunity to secure counsel before the first hearing date in proceedings under section1229a of this title, the hearing date shall not be scheduled earlier than 10 days after the service of the notice to appear, unless the alien requests in writing an earlier hearing date.
+&emsp;In order that an alien be permitted the opportunity to secure counsel before the first hearing date in proceedings under section 1229a of this title, the hearing date shall not be scheduled earlier than 10 days after the service of the notice to appear, unless the alien requests in writing an earlier hearing date.
 
 #### (2) Current lists of counsel
 

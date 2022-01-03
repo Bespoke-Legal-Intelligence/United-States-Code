@@ -44,7 +44,7 @@
 
 (f) A person employing an individual in violation of this section or a regulation prescribed under this section is liable to the United States Government for a civil penalty of $500 for each individual so employed.
 
-(g) A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Great Lakes St. Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by the Department, if eligible, shall be a member of the Navy Reserve.
+(g) A deck or engineer officer employed on a vessel on which an operating differential subsidy is paid, or employed on a vessel (except a vessel of the Coast Guard or Great Lakes St. Lawrence Seaway Development Corporation) owned or operated by the Department of Transportation or by a corporation organized or controlled by theDepartment, if eligible, shall be a member of the Navy Reserve.
 
 (h) The President may—
 
@@ -296,7 +296,7 @@ Expiration.—This section expires on the date the Treaty on Fisheries Between t
 
 "(d)
 
-Reports.—Not later than July 1 of each year until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
+Reports.—Not later than July 1 of each year until the date of expiration of this section, the Coast Guard and the National Marine Fisheries Service shallsubmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Resources \[now Natural Resources\] of the House of Representatives, providing the following information on the United States purse seine fleet referred to in subsection (a):
 
 &emsp;"(1) The number and identity of vessels in the fleet using foreign citizens to meet manning requirements pursuant to this section and any marine casualties involving such vessel.
 

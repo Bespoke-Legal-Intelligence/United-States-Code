@@ -44,7 +44,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 #### (A) In general
 
-&emsp;&emsp;Within 2 years after the establishment of the Committee, the Committee shall develop 2 tiers (referred to in this subparagraph as"Tier I" and "Tier II") of recommended best practices for States to follow in combating the sex trafficking of children and youth. Tier I shall provide States that have not yet substantively addressed the sex trafficking of children and youth with an idea of where to begin and what steps to take. Tier II shall provide States that are already working to address the sex trafficking of children and youth with examples of policies that are already being used effectively by other States to address sex trafficking.
+&emsp;&emsp;Within 2 years after the establishment of the Committee, the Committee shall develop 2 tiers (referred to in this subparagraph as "Tier I" and "Tier II") of recommended best practices for States to follow in combating the sex trafficking of children and youth. Tier I shall provide States that have not yet substantively addressed the sex trafficking of children and youth with an idea of where to begin and what steps to take. Tier II shall provide States that are already working to address the sex trafficking of children and youth with examples of policies that are already being used effectively by other States to address sex trafficking.
 
 #### (B) Development
 
@@ -58,7 +58,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 &emsp;&emsp;&emsp;(ii) Multidisciplinary strategies to identify victims, manage cases, and improve services for all children and youth who are at risk of sex trafficking, or are sex trafficking victims, in the United States.
 
-&emsp;&emsp;&emsp;(iii) Sample protocols and recommendations based on current States' efforts, accounting for regional differences between States that provide for effective, cross-system collaboration between Federal, State, local, and tribal governments, child welfare agencies, social service providers, physical health and mental health providers, victim service providers, State or local courts with responsibility for conducting or supervising proceedings relating to child welfare or social services for children and their families, the gaming and entertainment industry, Federal, State, and local police, juvenile detention centers and runaway and homeless youth programs, housing resources that are appropriate for housing child and youth victims of trafficking, schools, and businesses and organizations that provide services to children and youth. These protocols and recommendations should include strategies to identify victims and collect, document, and share data across systems and agencies, and should be designed to help agencies better understand the type of sex trafficking involved, the scope of the problem, the needs of the population to be served, ways to address the demand for trafficked children and youth and increase prosecutions of traffickers and purchasers of children and youth, and the degree of victim interaction with multiple systems.
+&emsp;&emsp;&emsp;(iii) Sample protocols and recommendations based on current States' efforts, accounting for regional differences between States that provide for effective, cross-system collaboration between Federal, State, local, and tribal governments, child welfare agencies, social service providers, physical health and mental health providers, victim service providers, State or local courts with responsibility for conducting or supervising proceedings relating to child welfare or social services for children and their families, the gaming and entertainment industry, Federal, State, and local police, juvenile detention centers and runaway and homeless youthprograms, housing resources that are appropriate for housing child and youth victims of trafficking, schools, and businesses and organizations that provide services to children and youth. These protocols and recommendations should include strategies to identify victims and collect, document, and share data across systems and agencies, and should be designed to help agencies better understand the type of sex trafficking involved, the scope of the problem, the needs of the population to be served, ways to address the demand for trafficked children and youth and increase prosecutions of traffickers and purchasers of children and youth, and the degree of victim interaction with multiple systems.
 
 &emsp;&emsp;&emsp;(iv) Developing the criteria and guidelines necessary for establishing safe residential placements for foster children who have been sex trafficked as well as victims of trafficking identified through interaction with law enforcement.
 
@@ -104,7 +104,7 @@ Not later than 2 years after September 29, 2014, the Secretary shall establish a
 
 #### (B) Accommodation for Committee members unable to attend in person
 
-&emsp;&emsp;The Secretary shall create a process through which Committee members who are unable to travel to a Committee meeting in person may participate remotely throughthe use of video conference, teleconference, online, or other means.
+&emsp;&emsp;The Secretary shall create a process through which Committee members who are unable to travel to a Committee meeting in person may participate remotely through the use of video conference, teleconference, online, or other means.
 
 #### (3) Subcommittees
 
@@ -123,6 +123,8 @@ The Committee shall terminate 5 years after the date of its establishment, but t
 For the purpose of this section, the term "sex trafficking" includes the definition set forth in section 7102(10) <sup>1</sup> of title 22 and "severe form of trafficking in persons" described in section 7102(9)(A) <sup>1</sup> of title 22.
 
 (Aug. 14, 1935, ch. 531, title XI, §1114A, as added Pub. L. 113–183, title I, §121, Sept. 29, 2014, 128 Stat. 1931.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

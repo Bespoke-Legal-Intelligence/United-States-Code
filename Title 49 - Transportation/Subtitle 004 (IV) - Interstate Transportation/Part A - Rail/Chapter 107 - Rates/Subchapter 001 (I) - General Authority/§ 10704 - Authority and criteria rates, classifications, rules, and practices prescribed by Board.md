@@ -32,7 +32,9 @@
 
 (B) The Board may extend a timeline under subparagraph (A) after a request from any party or in the interest of due process.
 
-(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 810; amended Pub. L. 104–287, §5(23), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, §§11(b), 16, Dec. 18, 2015, 129 Stat. 2233, 2238.)
+(Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 810; amended Pub. L. 104–287,§5(23), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 114–110, §§11(b), 16, Dec. 18, 2015, 129 Stat. 2233, 2238.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -45,6 +47,8 @@ A prior section 10704, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1373; Pub. L. 9
 Subsec. (d). Pub. L. 114–110, §11(b), designated existing provisions as par. (1), substituted "The Board shall maintain procedures to ensure the expeditious handling of challenges to the reasonableness of railroad rates." for "Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates.", and added par. (2).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of the ICC Termination Act of 1995".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

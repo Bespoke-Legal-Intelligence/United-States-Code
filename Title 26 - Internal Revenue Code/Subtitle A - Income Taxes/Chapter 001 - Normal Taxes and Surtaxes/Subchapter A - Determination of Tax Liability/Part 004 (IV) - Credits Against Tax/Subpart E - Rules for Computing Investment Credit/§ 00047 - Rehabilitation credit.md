@@ -224,13 +224,15 @@ For purposes of this section—
 
 #### (4) Self-rehabilitated building
 
-&emsp;For purposes of this subsection, the term "self-rehabilitated building" means any building if it is reasonable to believe that morethan half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
+&emsp;For purposes of this subsection, the term "self-rehabilitated building" means any building if it is reasonable to believe that more than half of the qualified rehabilitation expenditures for such building will be made directly by the taxpayer.
 
 #### (5) Election
 
 &emsp;This subsection shall apply to any taxpayer only if such taxpayer has made an election under this paragraph. Such an election shall apply to the taxable year for which made and all subsequent taxable years. Such an election, once made, may be revoked only with the consent of the Secretary.
 
 (Added Pub. L. 87–834, §2(b), Oct. 16, 1962, 76 Stat. 966; amended Pub. L. 91–172, title VII, §703(c), Dec. 30, 1969, 83 Stat. 666; Pub. L. 91–676, §1, Jan. 12, 1971, 84 Stat. 2060; Pub. L. 92–178, title I, §§102(c), 107(a)(1), (b)(1), Dec. 10, 1971, 85 Stat. 500, 507; Mar. 29, 1975, Pub. L. 94–12, title III, §302(b)(2)(A), (c)(1), (2), 89 Stat. 43, 44; Pub. L. 94–455, title VIII, §804(b), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1594, 1834; Pub. L. 95–600, title III, §317(a), Nov. 6, 1978, 92 Stat. 2830; Pub. L. 95–618, title II, §241(b), Nov. 9, 1978, 92 Stat. 3193; Pub. L. 97–34, title II, §211(f)(2), (g), Aug. 13, 1981, 95 Stat. 231, 233; Pub. L. 97–248, title II, §208(a)(2)(B), Sept. 3, 1982, 96 Stat. 435; Pub. L. 97–448, title I, §102(e)(3), Jan. 12, 1983, 96 Stat. 2371; Pub. L. 98–369, div. A, title IV, §§421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, 98 Stat. 794, 807, 810, 836; Pub. L. 98–443, §9(p), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 99–121, title I, §103(b)(6), Oct. 11, 1985, 99 Stat. 510; Pub. L. 99–514, title XV, §1511(c)(2), title XVIII, §§1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, 100 Stat. 2744, 2788, 2855; Pub. L. 100–647, title I, §§1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, 102 Stat. 3356, 3357, 3435; Pub. L. 101–508, title XI, §11801(c)(8)(A), 11813(a), Nov. 5, 1990, 104 Stat. 1388–524, 1388–536; Pub. L. 110–289, div. C, title I, §3025(a), July 30, 2008, 122 Stat. 2897; Pub. L. 115–97, title I, §13402(a), (b)(1), Dec. 22, 2017, 131 Stat. 2134.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -264,7 +266,7 @@ Subsec. (c)(2)(B)(iv). Pub. L. 115–97, §13402(b)(1)(B), amended cl. (iv) gene
 
 <b>2008</b>—Subsec. (c)(2)(B)(v)(I). Pub. L. 110–289 substituted "section 168(h), except that '50 percent' shall be substituted for '35 percent' in paragraph (1)(B)(iii) thereof" for "section 168(h)".
 
-<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: "Certain dispositions, etc., of section 38 property" and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax under the section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
+<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: "Certain dispositions, etc., of section 38 property" and in text substituting present provisions for provisions relating to general rules regarding disposition of section 38 property, nonapplicability of section in certain cases, the treatment of any increase in tax underthe section, increases in nonqualified nonrecourse financing, and transfers between spouses or incident to divorce.
 
 Subsec. (b)(1) to (3). Pub. L. 101–508, §11801(c)(8)(A), inserted "or" at end of par. (1), substituted a period for ", or" at end of par. (2), and struck out par. (3) which related to nonapplicability of subsec. (a) in the case of a transfer of section 38 property related to exchanges under final system plan for ConRail.
 
@@ -352,6 +354,8 @@ Subsec. (a)(6). Pub. L. 91–676 added par. (6).
 
 Subsec. (a)(4). Pub. L. 91–172, §703(c)(1), inserted provision making subpars. (B) and (C) inapplicable to any casualty or theft occurring after April 18, 1969.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Pub. L. 115–97, title I, §13402(c), Dec. 22, 2017, 131 Stat. 2134, provided that:
@@ -430,7 +434,7 @@ Amendment by Pub. L. 94–12 applicable to taxable years ending after Dec. 31, 1
 
 #### Effective Date of 1971 Amendment
 
-In redetermining qualified investment for purposes of subsec. (a) of this section in the case of any property which ceases to be section 38 property with respect to the taxpayer after Aug. 15, 1971, or which becomes public utility property after such date, section 46(c)(2) of this title as amended by section 102(a) of Pub. L. 92–178 as applicable, see section 102(d)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
+In redetermining qualified investment for purposes of subsec. (a) of this section in the case of any propertywhich ceases to be section 38 property with respect to the taxpayer after Aug. 15, 1971, or which becomes public utility property after such date, section 46(c)(2) of this title as amended by section 102(a) of Pub. L. 92–178 as applicable, see section 102(d)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
 Amendment by section 107(a)(1) of Pub. L. 92–178 applicable to casualties and thefts occurring after Aug. 15, 1971, see section 107(a)(2) of Pub. L. 92–178, set out as a note under section 46 of this title.
 
@@ -450,7 +454,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Clarification of Effect of 1984 Amendment on Investment Tax Credit
 

@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (3) Other reportable payment
 
-&emsp;The term "other reportable payment" means any payment of a kind, and to a payee, required to be shown on a return required under—
+&emsp;The term "other reportable payment" means any payment of a kind, and to a payee,required to be shown on a return required under—
 
 &emsp;&emsp;(A) section 6041 (relating to certain information at source),
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) in the case of any payee who has filed a return for the taxable year, any deficiency of tax attributable to such failure has been assessed,
 
-> &emsp;the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but notthe reasons for the withholding under subsection (a)(1)(C)).
+> &emsp;the Secretary may notify payors of reportable interest or dividend payments with respect to such payee of the requirement to deduct and withhold under subsection (a)(1)(C) (but not the reasons for the withholding under subsection (a)(1)(C)).
 
 #### (2) Payee underreporting defined
 
@@ -292,7 +292,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any payee certification failure described in subsection (d)(1), subsection\(a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
+&emsp;&emsp;In the case of any payee certification failure described in subsection (d)(1), subsection (a) shall apply to any reportable interest or dividend payment made during the period during which the certification described in subsection (d)(1) has not been furnished to the payor.
 
 #### (B) Special rule for readily tradable instruments acquired through broker where notification
 
@@ -392,7 +392,7 @@ For purposes of this section—
 
 #### (8) Requirement of notice to payee
 
-&emsp;Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) thatthe TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
+&emsp;Whenever the Secretary notifies a payor under paragraph (1)(B) of subsection (a) that the TIN furnished by any payee is incorrect, the Secretary shall at the same time furnish a copy of such notice to the payor, and the payor shall promptly furnish such copy to the payee.
 
 #### (9) Requirement of notice to Secretary
 
@@ -407,6 +407,8 @@ For purposes of this section—
 The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 (Added Pub. L. 98–67, title I, §104(a), Aug. 5, 1983, 97 Stat. 371; amended Pub. L. 98–369, div. A, title I, §152(a), title VII, §722(h)(1), (2), July 18, 1984, 98 Stat. 691, 975; Pub. L. 99–514, title XV, §§1521(b), 1523(b)(1), title XVIII, §1899A(46), Oct. 22, 1986, 100 Stat. 2746, 2748, 2961; Pub. L. 100–647, title I, §1018(u)(44), Nov. 10, 1988, 102 Stat. 3592; Pub. L. 102–486, title XIX, §1935(a), Oct. 24, 1992, 106 Stat. 3032; Pub. L. 107–16, title I, §101(c)(10), June 7, 2001, 115 Stat. 44; Pub. L. 110–289, div. C, title III, §3091(c), July 30, 2008, 122 Stat. 2911.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -435,6 +437,8 @@ Subsec. (d)(2)(A). Pub. L. 98–369, §722(h)(1)(A), inserted "the payor was not
 Subsec. (d)(2)(B). Pub. L. 98–369, §722(h)(1)(B), in amending subpar. (B) generally, reenacted cl. (i), in cl. (ii) inserted "with respect to such acquisition—", added subcls. (I) and (II), redesignated former subcls. (I) and (II) as (III) and (IV), respectively, and in subcl. (III) substituted "the Secretary notifies such broker" for "such broker is notified by the Secretary", and in provisions following cl. (ii) substituted "shall within such period as the Secretary may prescribe by regulations (but not later than 15 days after such acquisition), notify the payor that such payee is subject to withholding under subparagraph (A), (B), (C) or (D) of subsection (a)(1)," for "within 15 days after the date of the acquisition notify the payor that such payee is subject to withholding under subsection (a)(1)(D) (or subsection (a)(1)(C) in the case of a notification described in clause (ii)(II)."
 
 Subsec. (e)(1). Pub. L. 98–369, §152(a), inserted provision that the Secretary may require that a TIN required to be furnished under subsection (a)(1)(A) be provided under penalties of perjury only with respect to interest, dividends, patronage dividends, and amounts subject to broker reporting.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

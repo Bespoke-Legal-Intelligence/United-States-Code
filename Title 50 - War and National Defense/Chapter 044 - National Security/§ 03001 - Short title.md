@@ -4,6 +4,8 @@ This chapter may be cited as the "National Security Act of 1947".
 
 (July 26, 1947, ch. 343, §1, 61 Stat. 495.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this Act", meaning act July 26, 1947, ch. 343, 61 Stat. 495, known as the National Security Act of 1947, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This chapter, referred to in text, was in the original "this Act", meaning act J
 #### Codification
 
 Section was formerly classified as a note under section 401 of this title prior to editorial reclassification as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -22,7 +26,7 @@ Director of Central Intelligence as Head of Intelligence Community.—Any refere
 
 "(b)
 
-Director of Central Intelligence as Head of CIA.—Any reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of theCentral Intelligence Agency in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the Director of the Central Intelligence Agency.
+Director of Central Intelligence as Head of CIA.—Any reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency in any law, regulation, document, paper, or other record of the United States shall be deemed to be a reference to the Director of the Central Intelligence Agency.
 
 "(c)
 
@@ -36,7 +40,7 @@ Pub. L. 108–458, title I, subtitle H, Dec. 17, 2004, 118 Stat. 3697, as amende
 
 "(a)
 
-Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staff of the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
+Transfer.—There shall be transferred to the Office of the Director of National Intelligence such staffof the Community Management Staff as of the date of the enactment of this Act \[Dec. 17, 2004\] as the Director of National Intelligence determines to be appropriate, including all functions and activities discharged by the Community Management Staff as of that date.
 
 "(b)
 
@@ -126,7 +130,7 @@ Specific Effective Dates.—(1)(A) Not later than 60 days after the date of the 
 
 "(3) Not later than one year after the date of the enactment of this Act \[Dec. 17, 2004\], the Director of National Intelligence shall prescribe regulations, policies, procedures, standards, and guidelines required under section 102A of the National Security Act of 1947 \[50 U.S.C. 3024\], as amended by section 1011(a) of this Act."
 
-\[Functions of President under section 1094 of Pub. L. 108–458, set out in a note above, assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005,70 F.R. 48633, set out as a note under section 301 of Title 3, The President.\]
+\[Functions of President under section 1094 of Pub. L. 108–458, set out in a note above, assigned to the Director of National Intelligence by section 3 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of Title 3, The President.\]
 
 #### Short Title of 2018 Amendment
 
@@ -138,7 +142,7 @@ Pub. L. 112–235, §1, Dec. 28, 2012, 126 Stat. 1626, provided that: "This Act 
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–458, §1(a), Dec. 17, 2004, 118 Stat. 3638, provided that: "This Act \[see Tables for classification\] may be cited as the 'Intelligence Reform and Terrorism Prevention Act of 2004'."
+Pub. L. 108–458, §1(a), Dec. 17, 2004, 118 Stat. 3638, provided that: "This Act \[see Tables for classification\]may be cited as the 'Intelligence Reform and Terrorism Prevention Act of 2004'."
 
 Pub. L. 108–458, title I, §1001, Dec. 17, 2004, 118 Stat. 3643, provided that: "This title \[see Tables for classification\] may be cited as the 'National Security Intelligence Reform Act of 2004'."
 
@@ -233,7 +237,7 @@ Head of Central Intelligence Agency.—(1) During the period beginning on the da
 
 "(2) Upon the appointment of an individual as Director of the Central Intelligence Agency under section 104A of the National Security Act of 1947, as so amended, any reference in this Act, or in the classified annex to accompany this Act, to the Director of Central Intelligence as head of the Central Intelligence Agency shall be deemed to be a reference to the Director of the Central Intelligence Agency."
 
-Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: "All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Tables for classification\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to the officer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
+Act Aug. 10, 1949, ch. 412, §12(g), 63 Stat. 591, provided: "All laws, orders, regulations, and other actions relating to the National Military Establishment, the Departments of the Army, the Navy, or the Air Force, or to any officer or activity of such establishment or such departments, shall, except to the extent inconsistent with the provisions of this Act \[see Tables for classification\], have the same effect as if this Act had not been enacted; but, after the effective date of this Act \[Aug. 10, 1949\], any such law, order, regulation, or other action which vested functions in or otherwise related to any officer, department, or establishment, shall be deemed to have vested such function in or relate to theofficer or department, executive or military, succeeding the officer, department, or establishment in which such function was vested. For purposes of this subsection the Department of Defense shall be deemed the department succeeding the National Military Establishment, and the military departments of Army, Navy, and Air Force shall be deemed the departments succeeding the Executive Departments of Army, Navy, and Air Force."
 
 #### Separability
 
@@ -242,6 +246,172 @@ Pub. L. 108–458, title I, §1103, Dec. 17, 2004, 118 Stat. 3700, provided that
 #### Construction of References to Director of Central Intelligence
 
 Pub. L. 108–487, title VIII, §802, Dec. 23, 2004, 118 Stat. 3962, provided that: "Except as otherwise specifically provided or otherwise provided by context, any reference in this Act \[see Effective Date of 2004 Amendments note set out under section 2656f of Title 22, Foreign Relations and Intercourse\], or in the classified annex to accompany this Act, to the Director of Central Intelligence shall be deemed to be a reference to the Director of Central Intelligence as head of the intelligence community."
+
+#### Anomalous Health Incidents Interagency Coordinator
+
+Pub. L. 117–81, div. F, title LXVI, §6603, Dec. 27, 2021, 135 Stat. 2438, provided that:
+
+"(a)
+
+Anomalous Health Incidents Interagency Coordinator.—
+
+&emsp;"(1)
+
+Designation.—Not later than 30 days after the date of the enactment of this Act \[Dec. 27, 2021\], the President shall designate an appropriate senior official to be known as the Anomalous Health Incidents Interagency Coordinator (in this section referred to as the 'Interagency Coordinator').
+
+&emsp;"(2)
+
+Duties.—The Interagency Coordinator, working through the interagency national security process, shall, with respect to anomalous health incidents—
+
+&emsp;&emsp;"(A) coordinate the response of the United States Government to such incidents;
+
+&emsp;&emsp;"(B) coordinate among relevant Federal agencies to ensure equitable and timely access to assessment and care for affected United States Government personnel, dependents of such personnel, and other appropriate individuals;
+
+&emsp;&emsp;"(C) ensure adequate training and education relating to such incidents for United States Government personnel;
+
+&emsp;&emsp;"(D) ensure that information regarding such incidents is efficiently shared across relevant Federal agencies in a manner that provides appropriate protections for classified, sensitive, and personal information;
+
+&emsp;&emsp;"(E) coordinate, in consultation with the Director of the White House Office of Science and Technology Policy, the technological and research efforts of the United States Government to address suspected attacks presenting as such incidents; and
+
+&emsp;&emsp;"(F) develop policy options to prevent, mitigate, and deter suspected attacks presenting as such incidents.
+
+"(b)
+
+Designation of Agency Coordination Leads.—
+
+&emsp;"(1)
+
+Designation; responsibilities.—The head of each relevant agency shall designate an official appointed by the President, by and with the advice and consent of the Senate, or other appropriate senior official, who shall—
+
+&emsp;&emsp;"(A) serve as the Anomalous Health Incident Agency Coordination Lead (in this section referred to as the 'Agency Coordination Lead') for the relevant agency concerned;
+
+&emsp;&emsp;"(B) report directly to the head of such relevant agency regarding activities carried out under this section;
+
+&emsp;&emsp;"(C) perform functions specific to such relevant agency and related to anomalous health incidents, consistent with the directives of the Interagency Coordinator and the interagency national security process;
+
+&emsp;&emsp;"(D) represent such relevant agency in meetings convened by the Interagency Coordinator; and
+
+&emsp;&emsp;"(E) participate in interagency briefings to Congress regarding the response of the United States Government to anomalous health incidents, including briefings required under subsection (c).
+
+&emsp;"(2)
+
+Delegation prohibited.—An Agency Coordination Lead may not delegate any of the responsibilities specified in paragraph (1).
+
+"(c)
+
+Briefings.—
+
+&emsp;"(1)
+
+In general.—Not later than 60 days after the date of the enactment of this Act, and quarterly thereafter for the following two years, the Agency Coordination Leads shall jointly provide to the appropriate congressional committees a briefing on progress made in carrying out the duties under subsection (b)(2) \[probably means subsec. (a)(2)\].
+
+&emsp;"(2)
+
+Elements.—Each briefing required under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) an update on the investigation into anomalous health incidents affecting United States Government personnel and dependents of such personnel, including technical causation and suspected perpetrators;
+
+&emsp;&emsp;"(B) an update on new or persistent anomalous health incidents;
+
+&emsp;&emsp;"(C) a description of threat prevention and mitigation efforts with respect to anomalous health incidents, to include personnel training;
+
+&emsp;&emsp;"(D) an identification of any changes to operational posture as a result of anomalous health threats;
+
+&emsp;&emsp;"(E) an update on diagnosis and treatment efforts for individuals affected by anomalous health incidents, including patient numbers and wait times to access care;
+
+&emsp;&emsp;"(F) a description of efforts to improve and encourage reporting of anomalous health incidents;
+
+&emsp;&emsp;"(G) a detailed description of the roles and responsibilities of the Agency Coordination Leads;
+
+&emsp;&emsp;"(H) information regarding additional authorities or resources needed to support the interagency response to anomalous health incidents; and
+
+&emsp;&emsp;"(I) such other matters as the Interagency Coordinator or the Agency Coordination Leads may consider appropriate.
+
+&emsp;"(3)
+
+Unclassified briefing summary.—
+
+&emsp;&emsp;"(A)
+
+In general.—Not later than 60 days after the date of the enactment of this Act, and quarterly thereafter for the following two years, the Agency Coordination Leads shall provide to the appropriate congressional committees a coordinated written summary of the briefings provided under paragraph (1).
+
+&emsp;&emsp;"(B)
+
+Form.—The summary under subparagraph (A) shall be submitted in an unclassified form to the extent practicable, consistent with the protection of intelligence sources and methods.
+
+"(d)
+
+Secure Reporting Mechanisms.—Not later than 90 days after the date of the enactment of this section, the Interagency Coordinator shall ensure that the head of each relevant agency—
+
+&emsp;"(1) develops a process to provide a secure mechanism for personnel of the relevant agency concerned, the dependents of such personnel, and other appropriate individuals, to self-report any suspected exposure that could be an anomalous health incident;
+
+&emsp;"(2) shares all relevant data reported through such mechanism in a timely manner with the Office of the Director of National Intelligence and other relevantagencies, through existing processes coordinated by the Interagency Coordinator; and
+
+&emsp;"(3) in developing the mechanism pursuant to paragraph (1), prioritizes secure information collection and handling processes to protect classified, sensitive, and personal information.
+
+"(e)
+
+Workforce Guidance.—
+
+&emsp;"(1)
+
+Development and dissemination.—The President shall direct the heads of the relevant agencies to develop and disseminate to employees of such relevant agencies who are determined to be at risk of exposure to anomalous health incidents updated workforce guidance that describes, at a minimum—
+
+&emsp;&emsp;"(A) the threat posed by anomalous health incidents;
+
+&emsp;&emsp;"(B) known defensive techniques with respect to anomalous health incidents; and
+
+&emsp;&emsp;"(C) processes to self-report any suspected exposure that could be an anomalous health incident.
+
+&emsp;"(2)
+
+Deadline.—The workforce guidance specified under paragraph (1) shall be developed and disseminated pursuant to such paragraph by not later than 60 days after the date of the enactment of this Act.
+
+"(f)
+
+Rule of Construction.—Nothing in this section, including the designation of the Interagency Coordinator pursuant to subsection (a)(1), shall be construed to limit the authority of any Federal agency to independently perform the authorized functions of such agency.
+
+"(g)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of State $5,000,000 for fiscal year 2022, to be used to—
+
+&emsp;"(1) increase capacity and staffing for the Health Incident Response Task Force of the Department of State;
+
+&emsp;"(2) support the development and implementation of efforts by the Department of State to prevent and mitigate anomalous health incidents affecting the workforce of the Department;
+
+&emsp;"(3) investigate and characterize the cause of anomalous health incidents, including investigations of causation and attribution;
+
+&emsp;"(4) collect and analyze data related to anomalous health incidents;
+
+&emsp;"(5) coordinate with other relevant agencies and the National Security Council regarding anomalous health incidents; and
+
+&emsp;"(6) support other activities to understand, prevent, deter, and respond to suspected attacks presenting as anomalous health incidents, at the discretion of the Secretary of State.
+
+"(h)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'appropriate congressional committees' means—
+
+&emsp;&emsp;"(A) the Committees on Armed Services, Foreign Relations, Homeland Security and Governmental Affairs, the Judiciary, and Appropriations, and the Select Committee on Intelligence, of the Senate; and
+
+&emsp;&emsp;"(B) the Committees on Armed Services, Foreign Affairs, Homeland Security, the Judiciary, and Appropriations, and the Permanent Select Committee on Intelligence, of the House of Representatives.
+
+&emsp;"(2) The term 'relevant Federal agencies' means—
+
+&emsp;&emsp;"(A) the Department of Defense;
+
+&emsp;&emsp;"(B) the Department of State;
+
+&emsp;&emsp;"(C) the Office of the Director of National Intelligence;
+
+&emsp;&emsp;"(D) the Central Intelligence Agency;
+
+&emsp;&emsp;"(E) the Department of Justice;
+
+&emsp;&emsp;"(F) the Department of Homeland Security; and
+
+&emsp;&emsp;"(G) such other Federal departments or agencies as may be designated by the Interagency Coordinator."
 
 #### Consideration of Adversarial Telecommunications and Cybersecurity Infrastructure When Sharing Intelligence With Foreign Governments and Entities
 
@@ -403,7 +573,7 @@ Deadline for Appointments.—Members of the Commission shall be appointed not la
 
 "(a)
 
-Initial Report.—The Commission shall transmit to the President and to Congress an initial report notlater than six months after the date on which the Commission is first constituted with a quorum.
+Initial Report.—The Commission shall transmit to the President and to Congress an initial report not later than six months after the date on which the Commission is first constituted with a quorum.
 
 "(b)
 
@@ -483,6 +653,8 @@ Pub. L. 101–510, div. A, title IX, §907, Nov. 5, 1990, 104 Stat. 1622, requir
 
 Act Aug. 10, 1949, ch. 412, §12(f), 63 Stat. 591, provided in part that: "The titles of the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, the Secretary of the Air Force, the Under Secretaries and the Assistant Secretaries of the Departments of the Army, Navy, and Air Force, the Chairman of the Munitions Board, and the Chairman of the Research and Development Board, shall not be changed by virtue of this Act \[see Tables for classification\] and the reappointment of the officials holding such titles on the effective date of this Act \[Aug. 10, 1949\] shall not be required."
 
+#### <b>Executive Documents</b>
+
 #### Reorganization Plan No. 8 of 1949
 
 Act Aug. 10, 1949, ch. 412, §12(i), 63 Stat. 592, provided that: "Reorganization Plan Numbered 8 of 1949, which was transmitted to the Congress by the President on July 18, 1949 \[set out in Appendix to Title 5, Government Organization and Employees\] pursuant to the provisions of the Reorganization Act of 1949, shall not take effect, notwithstanding the provisions of section 6 of such Reorganization Act of 1949."
@@ -497,7 +669,7 @@ Ex. Ord. No. 10431, Jan. 19, 1953, 18 F.R. 437, as amended by Ex. Ord. No. 13709
 
 3\. The decoration established by this order shall be awarded by the President of the United States or, under regulations approved by him, by such person or persons as he may designate.
 
-4\. No more than one National Security Medal shall be awarded to any one person, but for subsequent servicesjustifying an award, a suitable device may be awarded to be worn with the Medal.
+4\. No more than one National Security Medal shall be awarded to any one person, but for subsequent services justifying an award, a suitable device may be awarded to be worn with the Medal.
 
 5\. Members of the armed forces of the United States who are awarded the decoration established by this order are authorized to wear the medal and the ribbon symbolic of the award, as may be authorized by uniform regulations approved by the Secretary of Defense.
 
@@ -553,7 +725,7 @@ The United States intelligence effort shall provide the President, the National 
 
 (3) Threats to the United States and its interests from the development, possession, proliferation, or use of weapons of mass destruction.
 
-(e) Special emphasis shall be given to the production of timely, accurate, and insightful reports, responsive to decisionmakers in the executive branch, that draw on all appropriate sources of information, including open source information, meet rigorous analytic standards, consider diverse analytic viewpoints, and accurately represent appropriate alternative views.
+(e) Special emphasis shall be given to the production of timely, accurate, and insightful reports, responsiveto decisionmakers in the executive branch, that draw on all appropriate sources of information, including open source information, meet rigorous analytic standards, consider diverse analytic viewpoints, and accurately represent appropriate alternative views.
 
 (f) State, local, and tribal governments are critical partners in securing and defending the United States from terrorism and other threats to the United States and its interests. Our national intelligence effort should take into account the responsibilities and requirements of State, local, and tribal governments and, as appropriate, private sector entities, when undertaking the collection and dissemination of information and intelligence to protect the United States.
 
@@ -613,7 +785,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 &emsp;(B) Access to and dissemination of all intelligence and intelligence-related information, both in its final form and in the form when initially gathered, to include intelligence originally classified by the head of a department or Intelligence Community element, except that access to and dissemination of information concerning United States persons shall be governed by procedures developed in accordance with Part 2 of this order;
 
-(10) May, only with respect to Intelligence Community elements, and after consultation with thehead \[sic\] of the originating Intelligence Community element or the head of the originating department, declassify, or direct the declassification of, information or intelligence relating to intelligence sources, methods, and activities. The Director may only delegate this authority to the Principal Deputy Director of National Intelligence;
+(10) May, only with respect to Intelligence Community elements, and after consultation with thehead \[sic\] of the originating Intelligence Community element or the head of the originating department, declassify, or direct the declassification of, information or intelligence relating to intelligence sources, methods,and activities. The Director may only delegate this authority to the Principal Deputy Director of National Intelligence;
 
 (11) May establish, operate, and direct one or more national intelligence centers to address intelligence priorities;
 
@@ -661,7 +833,7 @@ Subject to the authority, direction, and control of the President, the Director 
 
 (24) Shall facilitate the use of Intelligence Community products by the Congress in a secure manner.
 
-(c) The Director's exercise of authorities in the Act and this order shall not abrogate the statutory or other responsibilities of the heads of departments of the United States Government or the Director of the Central Intelligence Agency. Directives issued and actions taken by the Director in the exercise of the Director's authorities and responsibilities to integrate, coordinate, and make the Intelligence Community more effective in providing intelligence related to national security shall be implemented by the elements of the Intelligence Community, provided that any department head whose department contains an element of the Intelligence Community and who believes that a directive or action of the Director violates the requirements of section 1018 of the IRTPA or this subsection shall bring the issue to the attention of the Director, the NSC, or the President for resolution in a manner that respects and does not abrogate the statutory responsibilities of the heads of the departments.
+(c) The Director's exercise of authorities in the Act and this order shall not abrogate the statutory or other responsibilities of the heads of departments of the United States Government or the Director of the Central Intelligence Agency. Directives issued and actions taken by the Director in the exercise of the Director's authorities and responsibilities to integrate, coordinate, and make the Intelligence Community more effective in providing intelligence related to national security shall be implemented by the elements of the Intelligence Community, provided that any department head whose department contains an element of the Intelligence Community and who believes that a directive or action of the Director violates the requirements of section 1018 of the IRTPA or this subsection shall bring the issue to the attention of the Director, the NSC, or the President for resolution in a manner thatrespects and does not abrogate the statutory responsibilities of the heads of the departments.
 
 (d) Appointments to certain positions.
 
@@ -723,7 +895,7 @@ The heads of all departments and agencies shall:
 
 (h) Inform the Attorney General, either directly or through the Federal Bureau of Investigation, and the Director of clandestine collection of foreign intelligence and counterintelligence activities inside the United States not coordinated with the Federal Bureau of Investigation;
 
-(i) Pursuant to arrangements developed by the head of the department or agency and the Director of the Central Intelligence Agency and approved by the Director, inform the Director and the Director of the CentralIntelligence Agency, either directly or through his designee serving outside the United States, as appropriate, of clandestine collection of foreign intelligence collected through human sources or through human-enabled means outside the United States that has not been coordinated with the Central Intelligence Agency; and
+(i) Pursuant to arrangements developed by the head of the department or agency and the Director of the Central Intelligence Agency and approved by the Director, inform the Director and the Director of the Central Intelligence Agency, either directly or through his designee serving outside the United States, as appropriate, of clandestine collection of foreign intelligence collected through human sources or through human-enabled means outside the United States that has not been coordinated with the Central Intelligence Agency; and
 
 (j) Inform the Secretary of Defense, either directly or through his designee, as appropriate, of clandestine collection of foreign intelligence outside the United States in a region of combat or contingency military operations designated by the Secretary of Defense, for purposes of this paragraph, after consultation with the Director of National Intelligence.
 
@@ -799,7 +971,7 @@ Each element of the Intelligence Community shall have the duties and responsibil
 
 (5) Provide signals intelligence support for national and departmental requirements and for the conduct of military operations;
 
-(6) Act as the National Manager for National Security Systems as established in law and policy, and inthis capacity be responsible to the Secretary of Defense and to the Director;
+(6) Act as the National Manager for National Security Systems as established in law and policy, and in this capacity be responsible to the Secretary of Defense and to the Director;
 
 (7) Prescribe, consistent with section 102A(g) of the Act, within its field of authorized operations, security regulations covering operating practices, including the transmission, handling, and distribution of signals intelligence and communications security material within and among the elements under control of the Director of the National Security Agency, and exercise the necessary supervisory control to ensure compliance with the regulations; and
 
@@ -947,7 +1119,7 @@ This Order is intended to enhance human and technical collection techniques, esp
 
 Collection of Information
 
-Elements of the Intelligence Community are authorized to collect, retain, or disseminate information concerning United States persons only in accordance with procedures established by the head of the Intelligence Community element concerned or by the head of a department containing such element and approved by the Attorney General, consistent with the authorities provided by Part 1 of this Order, after consultation with the Director. Those procedures shall permit collection, retention, and dissemination of the following types of information:
+Elements of the Intelligence Community are authorized to collect, retain, or disseminate information concerning United States persons only in accordance withprocedures established by the head of the Intelligence Community element concerned or by the head of a department containing such element and approved by the Attorney General, consistent with the authorities provided by Part 1 of this Order, after consultation with the Director. Those procedures shall permit collection, retention, and dissemination of the following types of information:
 
 (a) Information that is publicly available or collected with the consent of the person concerned;
 
@@ -1017,7 +1189,7 @@ Elements of the Intelligence Community are authorized to:
 
 Contracting
 
-Elements of the Intelligence Community are authorized to enter into contracts or arrangements for the provision of goods or services with private companies or institutions in the United States and need not reveal the sponsorship of such contracts or arrangements for authorized intelligence purposes. Contracts or arrangements with academic institutions may be undertaken only with the consent of appropriate officials of the institution.
+Elements of the Intelligence Community are authorized to enter into contracts or arrangements for the provision of goods or services with private companies or institutions in the United States and need not reveal the sponsorship of such contracts or arrangements forauthorized intelligence purposes. Contracts or arrangements with academic institutions may be undertaken only with the consent of appropriate officials of the institution.
 
 #### 2\.8
 
@@ -1029,7 +1201,7 @@ Nothing in this Order shall be construed to authorize any activity in violation 
 
 Undisclosed Participation in Organizations Within the United States
 
-No one acting on behalf of elements of the Intelligence Community may join or otherwise participate in any organization in the United States on behalf of any element of the Intelligence Community without disclosing such person's intelligence affiliation to appropriate officials of the organization, except in accordance with procedures established by the head of the Intelligence Community element concerned or the head of a department containing such element and approved by the Attorney General, after consultation with theDirector. Such participation shall be authorized only if it is essential to achieving lawful purposes as determined by the Intelligence Community element head or designee. No such participation may be undertaken for the purpose of influencing the activity of the organization or its members except in cases where:
+No one acting on behalf of elements of the Intelligence Community may join or otherwise participate in any organization in the United States on behalf of any element of the Intelligence Community without disclosing such person's intelligence affiliation to appropriate officials of the organization, except in accordance with procedures established by the head of the Intelligence Community element concerned or the head of a department containing such element and approved by the Attorney General, after consultation with the Director. Such participation shall be authorized only if it is essential to achieving lawful purposes as determined by the Intelligence Community element head or designee. No such participation may be undertaken for the purpose of influencing the activity of the organization or its members except in cases where:
 
 (a) The participation is undertaken on behalf of the FBI in the course of a lawful investigation; or
 
@@ -1353,7 +1525,7 @@ Sec. 7. <i>Functions of the Director of National Intelligence</i>. Consistent wi
 
 (ii) a summary of direction under subsection (b)(iii) of this section and any related recommendations; and
 
-(iii) an assessment of the effectiveness of corrective action taken by the DNI or the head of the department concerned with respect to intelligence activities described in subsection 6(b)(i)(A) of this order.
+(iii) an assessment of the effectiveness of corrective action taken by the DNI or the head of the departmentconcerned with respect to intelligence activities described in subsection 6(b)(i)(A) of this order.
 
 Sec. 8. <i>Functions of Heads of Departments Concerned and Additional Functions of the Director of National Intelligence.</i>
 

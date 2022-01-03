@@ -8,7 +8,7 @@
 
 #### (2) Inclusions
 
-&emsp;The program shall include grants and loan guarantees under section 16513 of this title to automobile manufacturers and suppliers and hybrid component manufacturers to encourage domestic production of efficient hybrid, plug-in electric hybrid, plug-in electric drive, and advanced diesel vehicles.
+&emsp;The program shall include grants and loan guarantees under section 16513 of this title to automobile manufacturers and suppliers andhybrid component manufacturers to encourage domestic production of efficient hybrid, plug-in electric hybrid, plug-in electric drive, and advanced diesel vehicles.
 
 #### (3) Priority
 
@@ -24,11 +24,15 @@ There are authorized to be appropriated to the Secretary such sums as may be nec
 
 (Pub. L. 109–58, title VII, §712, Aug. 8, 2005, 119 Stat. 818; Pub. L. 110–140, title I, §§132, 134(a), Dec. 19, 2007, 121 Stat. 1511, 1513.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–140, §132, amended section generally. Prior to amendment, section related to program to encourage domestic production and sales of efficient hybrid and advanced diesel vehicles and authorization of appropriations.
 
 Subsec. (a)(2). Pub. L. 110–140, §134(a), inserted "and loan guarantees under section 16513 of this title" after "grants".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

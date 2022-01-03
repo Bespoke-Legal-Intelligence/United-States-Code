@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to park and secure wheelchairs (to accommodate individuals who wish to remain in their wheelchairs) equal to not less than one-half of the number of single-level rail passenger coaches in such train; and
 
-&emsp;&emsp;&emsp;&emsp;(II) to fold and store wheelchairs (to accommodate individuals who wish totransfer to coach seats) equal to not less than one-half of the number of single-level rail passenger coaches in such train,
+&emsp;&emsp;&emsp;&emsp;(II) to fold and store wheelchairs (to accommodate individuals who wish to transfer to coach seats) equal to not less than one-half of the number of single-level rail passenger coaches in such train,
 
 &emsp;&emsp;&nbsp;as soon as practicable, but in no event later than 5 years after July 26, 1990; and
 
@@ -136,7 +136,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (1) Remanufacturing
 
-&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section794 of title 29 for a person to remanufacture a rail passenger car for use in intercity or commuter rail transportation so as to extend its usable life for 10 years or more, unless the rail car, to the maximum extent feasible, is made readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (2) Purchase or lease
 
@@ -182,7 +182,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (ii) Alterations to a primary function area
 
-&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for theresponsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
+&emsp;&emsp;&emsp;It shall be considered discrimination, for purposes of section 12132 of this title and section 794 of title 29, with respect to alterations that affect or could affect the usability of or access to an area of the station containing a primary function, for the responsible person, owner, or person in control of the station to fail to make the alterations in such a manner that, to the maximum extent feasible, the path of travel to the altered area, and the bathrooms, telephones, and drinking fountains serving the altered area, are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, upon completion of such alterations, where such alterations to the path of travel or the bathrooms, telephones, and drinking fountains serving the altered area are not disproportionate to the overall alterations in terms of cost and scope (as determined under criteria established by the Attorney General).
 
 #### (C) Required cooperation
 
@@ -190,9 +190,13 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 (Pub. L. 101–336, title II, §242, July 26, 1990, 104 Stat. 347.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsec. (e)(2)(C), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

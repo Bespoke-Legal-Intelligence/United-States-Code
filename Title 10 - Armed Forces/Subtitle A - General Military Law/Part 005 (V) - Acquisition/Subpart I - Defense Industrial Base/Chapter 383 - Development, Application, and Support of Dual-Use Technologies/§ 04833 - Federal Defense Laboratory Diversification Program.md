@@ -12,7 +12,7 @@ Partnerships.—(1) The Secretary shall provide for the establishment under the 
 
 (c)
 
-Assistance Authorized.—(1) The Secretary may make grants, enter into contracts, enter into cooperative agreements and other transactions pursuant to section 4002 of this title, and enter into cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) in order to establish partnerships.
+Assistance Authorized.—(1) The Secretary may make grants, enter into contracts, enter into cooperative agreements and other transactions pursuant to section 4002 <sup>1</sup> of this title, and enter into cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710a) in order to establish partnerships.
 
 (2) Subject to subsection (d), the Secretary may provide a partnership with technical and other assistance in order to facilitate the achievement of the purpose of this section.
 
@@ -20,7 +20,7 @@ Assistance Authorized.—(1) The Secretary may make grants, enter into contracts
 
 Financial Commitment of Non-Federal Government Participants.—(1) The Secretary shall ensure that the non-Federal Government participants in a partnership make a substantial contribution to the total cost of partnership activities. The amount of the contribution shall be commensurate with the risk undertaken by such participants and the potential benefits of the activities for such participants.
 
-(2) The regulations prescribed pursuant to section 4831(c)(2) of this title shall apply to in-kind contributions made by non-Federal Government participants in a partnership.
+(2) The regulations prescribed pursuant to section 4831(c)(2) of this title shall apply to in-kindcontributions made by non-Federal Government participants in a partnership.
 
 (e)
 
@@ -35,6 +35,12 @@ Selection Criteria.—The criteria for the selection of a proposed partnership f
 Regulations.—The Secretary shall prescribe regulations for the purposes of this section.
 
 (Added Pub. L. 103–337, div. A, title XI, §1113(a), Oct. 5, 1994, 108 Stat. 2864, §2519; amended Pub. L. 104–106, div. A, title X, §1081(d), Feb. 10, 1996, 110 Stat. 454; renumbered §4833 and amended Pub. L. 116–283, div. A, title XVIII, §1868(b), (c)(3), Jan. 1, 2021, 134 Stat. 4282, 4283.)
+
+#### <b>Editorial Notes</b>
+
+#### References in Text
+
+Section 4002 of this title, referred to in subsec. (c)(1), probably should be a reference to section 4021 of this title. Pub. L. 116–283, div. A, title XVIII, §1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, initially transferred section 2371 of this title to section 4002, to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, §1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, subsequently amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate the transfer to section 4002 and instead transfer section 2371 to section 4021 of this title.
 
 #### Prior Provisions
 
@@ -52,7 +58,15 @@ Subsec. (d)(2). Pub. L. 116–283, §1868(c)(3)(C), substituted "section 4831(c)
 
 Subsec. (f). Pub. L. 116–283, §1868(c)(3)(D), substituted "section 4831(e)" for "section 2511(e)".
 
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §1081(d)(1), struck out "referred to in section 2511(b) of this title" after "corporations".
+
+Subsec. (f). Pub. L. 104–106, §1081(d)(2), substituted "section 2511(e)" for "section 2511(f)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

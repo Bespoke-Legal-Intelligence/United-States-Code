@@ -56,17 +56,21 @@ The Director of the National Institute of Standards and Technology (in this chap
 
 (Pub. L. 107–231, §2, Oct. 1, 2002, 116 Stat. 1471; Pub. L. 107–305, §15, Nov. 27, 2002, 116 Stat. 2381.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generally to chapter 86 (§7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7,1977, 91 Stat. 1098, as amended, which is classified generally to chapter 86 (§7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of Title 42 and Tables.
 
 #### Amendments
 
 <b>2002</b>—Subsec. (c)(1)(D). Pub. L. 107–305, which directed the substitution of "section 7306 of this title;" for "section 7307 of this title;" in subsec. (c)(1)(d), was executed to subsec. (c)(1)(D), to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
-Pub. L. 107–231, §1, Oct. 1, 2002, 116 Stat. 1471, provided that: "This Act \[enacting this chapter and amendingsection 281a of this title\] may be cited as the 'National Construction Safety Team Act'."
+Pub. L. 107–231, §1, Oct. 1, 2002, 116 Stat. 1471, provided that: "This Act \[enacting this chapter and amending section 281a of this title\] may be cited as the 'National Construction Safety Team Act'."
 

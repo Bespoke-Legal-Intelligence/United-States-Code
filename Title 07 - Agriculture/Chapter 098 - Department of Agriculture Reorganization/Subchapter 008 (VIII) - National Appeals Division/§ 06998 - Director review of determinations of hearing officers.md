@@ -32,6 +32,8 @@ A final determination issued by the Director shall be effective as of the date o
 
 (Pub. L. 103–354, title II, §278, Oct. 13, 1994, 108 Stat. 3232; Pub. L. 107–171, title I, §1613(j)(2), May 13, 2002, 116 Stat. 221.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–171 substituted "section 7996 of this title" for "section 1339a of this title".

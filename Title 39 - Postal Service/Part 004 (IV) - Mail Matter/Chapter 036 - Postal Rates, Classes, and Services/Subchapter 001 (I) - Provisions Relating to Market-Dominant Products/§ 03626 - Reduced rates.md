@@ -4,7 +4,7 @@
 
 (2) For the purpose of this subsection, the term "regular-rate category" means any class of mail or kind of mailer, other than a class or kind referred to in section 2401(c).
 
-(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for themost closely corresponding regular-rate category mailing.
+(3) Rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title shall be established so that postage on each mailing of such mail reflects its preferred status as compared to the postage for the most closely corresponding regular-rate category mailing.
 
 (4)(A) Except as specified in subparagraph (B), rates of postage for a class of mail or kind of mailer under former section 4358 (d) or (e) of this title shall be established so that postage on each mailing of such mail shall be as nearly as practicable 5 percent lower than the postage for a corresponding regular-rate category mailing.
 
@@ -44,13 +44,13 @@
 
 &emsp;(C) the term "State committee" means the organization which, by virtue of the bylaws of a political party, is responsible for the day-to-day operation of such political party at the State level.
 
-(f) In the administration of this chapter, the rates for mail under former section 4358(g) of this title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
+(f) In the administration of this chapter, the rates for mail under former section 4358(g) ofthis title shall be established without regard to either the provisions of such former section 4358(g) or the provisions of this section.
 
 (g)(1) In the administration of this section, the rates for mail under subsections (a), (b), and (c) of former section 4358 of this title shall not apply to an issue of a publication if the number of copies of such issue distributed within the county of publication is less than the number equal to the sum of 50 percent of the total paid circulation of such issue plus one.
 
 (2) Paragraph (1) of this subsection shall not apply to an issue of a publication if the total paid circulation of such issue is less than 10,000 copies.
 
-(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routesoriginating in the county of publication, shall be treated as if they were distributed within the county of publication.
+(3) For purposes of this section and former section 4358(a) through (c) of this title, those copies of an issue of a publication entered within the county in which it is published, but distributed outside such county on postal carrier routes originating in the county of publication, shall be treated as if they were distributed within the county of publication.
 
 (4)(A) In the case of an issue of a publication, any number of copies of which are mailed at the rates of postage for a class of mail or kind of mailer under former section 4358(a) through (c) of this title, any copies of such issue which are distributed outside the county of publication (excluding any copies subject to paragraph (3)) shall be subject to rates of postage provided for under this paragraph.
 
@@ -94,7 +94,7 @@
 
 (B) The Postal Service shall establish procedures to carry out this paragraph, including procedures for mailer certification of compliance with the conditions specified in paragraph (1)(D) or subsection (m), as applicable, and verification of such compliance.
 
-(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement orotherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
+(k)(1) No person or organization shall mail, or cause to be mailed by contractual agreement or otherwise, at the rates for mail under former section 4452(b) or 4452(c) of this title, any matter to which those rates do not apply.
 
 (2) The Postal Service may assess a postage deficiency in the amount of the unpaid postage against any person or organization which violates paragraph (1) of this subsection. This assessment shall be deemed the final decision of the Postal Service, unless the party against whom the deficiency is assessed appeals it in writing within thirty days to the postmaster of the office where the mailing was entered. Such an appeal shall be considered by an official designated by the Postal Service, other than the postmaster of the office where the mailing was entered, who shall issue a decision as soon as practicable. This decision shall be deemed final unless the party against whom the deficiency was assessed appeals it in writing within thirty days to a further reviewing official designated by the Postal Service, who shall issue the final decision on the matter.
 
@@ -218,7 +218,7 @@ Pub. L. 103–123, title VII, §705(d), Oct. 28, 1993, 107 Stat. 1272, provided 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1990, see section 1(c) of Pub. L. 101–509, set out as a note under section 2401 of this title.
+Amendment by section 1(a) of Pub. L. 101–509 effective 90 days after Nov. 5, 1990, see section 1(c) of Pub.L. 101–509, set out as a note under section 2401 of this title.
 
 #### Effective Date of 1986 Amendments
 

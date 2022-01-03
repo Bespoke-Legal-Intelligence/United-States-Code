@@ -10,7 +10,7 @@ For purposes of subsection (a), the requirements of this subsection are that the
 
 &emsp;(1) The law establishes liability to the State for false or fraudulent claims described in section 3729 of title 31 with respect to any expenditure described in section 1396b(a) of this title.
 
-&emsp;(2) The law contains provisions that are at least as effective in rewarding and facilitatingqui tam actions for false or fraudulent claims as those described in sections 3730 through 3732 of title 31.
+&emsp;(2) The law contains provisions that are at least as effective in rewarding and facilitating qui tam actions for false or fraudulent claims as those described in sections 3730 through 3732 of title 31.
 
 &emsp;(3) The law contains a requirement for filing an action under seal for 60 days with review by the State Attorney General.
 
@@ -26,9 +26,13 @@ Nothing in this section shall be construed as prohibiting a State that has in ef
 
 (Aug. 14, 1935, ch. 531, title XIX, §1909, as added Pub. L. 109–171, title VI, §6031(a), Feb. 8, 2006, 120 Stat. 72.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1396h, act Aug. 14, 1935, ch. 531, title XIX, §1909, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(c), 278(b)(9), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(b), 91 Stat. 1181; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; Aug. 18, 1987, Pub. L. 100–93, §4(a)–(c), 101 Stat. 688, 689, related to criminal penalties for acts involving Medicare and State health care programs, prior to being renumbered section 1128B of title XI of act Aug. 14, 1935, by section 4(d) of Pub. L. 100–93 and transferred to section 1320a–7b of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

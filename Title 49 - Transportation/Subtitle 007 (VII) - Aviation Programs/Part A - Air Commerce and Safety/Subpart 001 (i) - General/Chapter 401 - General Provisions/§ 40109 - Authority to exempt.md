@@ -12,7 +12,7 @@ Air Carriers and Foreign Air Carriers Not Engaged Directly in Operating Aircraft
 
 (b)
 
-Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections <sup>1</sup> 40103(b)(1) and (2) ofthis title when the Administrator decides the exemption is in the public interest.
+Safety Regulation.—The Administrator of the Federal Aviation Administration may grant an exemption from a regulation prescribed in carrying out sections <sup>1</sup> 40103(b)(1) and (2) of this title when the Administrator decides the exemption is in the public interest.
 
 (c)
 
@@ -68,7 +68,7 @@ Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that t
 
 &emsp;(B) monitor continuously the passenger load factor of air carriers in the market that hold certificates under section 41102 of this title; and
 
-&emsp;(C) review the exemption at least every 30 days (or, in the case of an exemption that is necessary to provide and sustain air transportation in American Samoa between the islands of Tutuila and Manu'a, at least every 180 days) to ensure that the unusual circumstances that established the need for the exemption still exist.
+&emsp;(C) review the exemption at least every 30 days (or, in the case of an exemption that is necessary to provide and sustain air transportation in American Samoa between the islandsof Tutuila and Manu'a, at least every 180 days) to ensure that the unusual circumstances that established the need for the exemption still exist.
 
 (3)
 
@@ -222,6 +222,8 @@ In subsection (h), the words "The Secretary may act under subsections (d) and (f
 
 This amends 49:40109(c) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1105), to include in the cross-reference sections enacted after the cutoff date for the codification of title 49 as enacted by section 1 of the Act (Public Law 103–272, 108 Stat. 745), and to make it easier to include future sections in the cross-reference by restating it in terms of chapters.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (b). Pub. L. 115–254, §1991(c)(1)(A), struck out ", 40119, 44901, 44903, 44906, and 44935–44937" before "of this title".
@@ -235,6 +237,8 @@ Subsec. (g)(3), (4). Pub. L. 115–254, §402(2), added pars. (3) and (4) and st
 <b>1996</b>—Subsec. (c). Pub. L. 104–287, §5(65)(B), substituted "sections 44909 and 46301(b)" for "section 46301(b)".
 
 Pub. L. 104–287, §5(65)(A), substituted "chapter 413 (except sections 41307 and 41310(b)–(f)), chapter 415 (except sections 41502, 41505, and 41507–41509), chapter 417 (except sections 41703, 41704, 41710, 41713, and 41714)," for "sections 41301–41306, 41308–41310(a), 41501, 41503, 41504, 41506, 41510, 41511, 41701, 41702, 41705–41709, 41711, 41712, and 41731–41742,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

@@ -28,11 +28,15 @@ It shall not be unlawful under section 2000e–2 or 2000e–3 of this title for 
 
 (Pub. L. 88–352, title VII, §702, July 2, 1964, 78 Stat. 255; Pub. L. 92–261, §3, Mar. 24, 1972, 86 Stat. 103; Pub. L. 102–166, title I, §109(b)(1), Nov. 21, 1991, 105 Stat. 1077.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Pub. L. 102–166 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 <b>1972</b>—Pub. L. 92–261 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "This subchapter shall not apply to an employer with respect to the employment of aliens outside any State, or to a religious corporation, association, or society with respect to the employment of individuals of a particular religion to perform work connected with the carrying on by such corporation, association, or society of its religious activities or to an educational institution with respect to the employment of individuals to perform work connected with the educational activities of such institution."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 

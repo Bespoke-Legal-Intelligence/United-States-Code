@@ -12,7 +12,7 @@
 
 &emsp;(3) shall receive, revise, and have recorded the proceedings of courts of inquiry and military commissions.
 
-(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term ofoffice of the Deputy Judge Advocate General is four years.
+(d)(1) There is a Deputy Judge Advocate General in the Air Force, who is appointed by the President, by and with the advice and consent of the Senate, from officers of the Air Force who have the qualifications prescribed in subsection (b) for the Judge Advocate General. The term of office of the Deputy Judge Advocate General is four years.
 
 (2) When there is a vacancy in the office of the Judge Advocate General, or during the absence or disability of the Judge Advocate General, the Deputy Judge Advocate General shall perform the duties of the Judge Advocate General until a successor is appointed or the absence or disability ceases.
 
@@ -72,6 +72,8 @@ In subsection (b), the words "Hereafter" and "exclusive of the present incumbent
 
 In subsection (c), the Act of June 23, 1874, ch. 458, §2 (words before semicolon of 1st sentence, and last sentence), 18 Stat. 244, are not contained in 10:62. They are also omitted from the revised section, since the Air Force does not have organic corps created by statute.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (e)(2)(B). Pub. L. 116–283, §923(b)(7)(A), inserted "or the Space Force" after "of the Air Force".
@@ -111,6 +113,8 @@ Subsec. (f). Pub. L. 108–375, §574(c)(4), added subsec. (f).
 <b>1980</b>—Pub. L. 96–343, §12(b)(1), substituted "General, Deputy Judge Advocate General:" for "General:" in section catchline.
 
 Subsec. (d). Pub. L. 96–343, §12(a), added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

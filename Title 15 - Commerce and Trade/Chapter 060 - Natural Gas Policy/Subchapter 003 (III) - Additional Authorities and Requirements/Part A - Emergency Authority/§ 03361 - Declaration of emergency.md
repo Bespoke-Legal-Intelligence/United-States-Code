@@ -24,6 +24,8 @@ The President may declare a natural gas supply emergency (or extend a previously
 
 (Pub. L. 95–621, title III, §301, Nov. 9, 1978, 92 Stat. 3381.)
 
+#### <b>Executive Documents</b>
+
 #### Delegation of Functions
 
 Functions of President under this subchapter, except for authority to declare, extend, and terminate a national gas supply emergency pursuant to this section, delegated to Secretary of Energy, see section 1–101 of Ex. Ord. No. 12235, Sept. 3, 1980, 45 F.R. 58803, set out as a note under section 3364 of this title.

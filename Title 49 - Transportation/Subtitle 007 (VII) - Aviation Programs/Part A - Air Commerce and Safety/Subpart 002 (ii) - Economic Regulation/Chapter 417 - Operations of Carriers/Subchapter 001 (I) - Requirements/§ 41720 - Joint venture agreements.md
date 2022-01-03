@@ -28,7 +28,7 @@ Extension of Waiting Period.—
 
 In general.—The Secretary may extend the 30-day period referred to in subsection (b) until—
 
-&emsp;&emsp;(A) in the case of a joint venture agreement with regard to code-sharing, the 150th day following the last day of such period; and
+&emsp;&emsp;(A) in the case of a joint venture agreement with regard to code-sharing, the 150thday following the last day of such period; and
 
 &emsp;&emsp;(B) in the case of any other joint venture agreement, the 60th day following the last day of such period.
 
@@ -46,7 +46,7 @@ Regulations.—The effectiveness of a joint venture agreement may not be delayed
 
 (f)
 
-Memorandum To Prevent Duplicative Reviews.—Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in orderto establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney General under this section and the antitrust laws of the United States, respectively.
+Memorandum To Prevent Duplicative Reviews.—Promptly after the date of enactment of this section, the Secretary shall consult with the Assistant Attorney General of the Antitrust Division of the Department of Justice in order to establish, through a written memorandum of understanding, preclearance procedures to prevent unnecessary duplication of effort by the Secretary and the Assistant Attorney General under this section and the antitrust laws of the United States, respectively.
 
 (g)
 
@@ -64,6 +64,8 @@ Limitation on Statutory Construction.—The authority granted to the Secretary u
 
 (Added Pub. L. 105–277, div. C, title I, §110(f)(1), Oct. 21, 1998, 112 Stat. 2681–588, §41716; renumbered §41720 and amended Pub. L. 106–181, title II, §231(b)(1), title VII, §709, Apr. 5, 2000, 114 Stat. 108, 159.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (f) and (g), is the date of enactment of Pub. L. 105–277, which was approved Oct. 21, 1998.
@@ -77,6 +79,8 @@ Pub. L. 105–277, §110(f)(1), which directed amendment of subchapter I of chap
 <b>2000</b>—Pub. L. 106–181, §231(b)(1), renumbered section 41716 of this title as this section.
 
 Subsec. (a)(1). Pub. L. 106–181, §709, substituted "an agreement between two or more major air carriers" for "an agreement entered into by a major air carrier".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

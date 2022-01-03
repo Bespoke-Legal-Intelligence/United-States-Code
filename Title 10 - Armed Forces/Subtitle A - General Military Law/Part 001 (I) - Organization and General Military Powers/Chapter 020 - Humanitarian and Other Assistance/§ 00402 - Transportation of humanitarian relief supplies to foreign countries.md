@@ -30,6 +30,8 @@
 
 (Added Pub. L. 100–180, div. A, title III, §332(a), Dec. 4, 1987, 101 Stat. 1079; amended Pub. L. 101–510, div. A, title XIII, §1311(2), Nov. 5, 1990, 104 Stat. 1669; Pub. L. 104–106, div. A, title XV, §1502(a)(8), Feb. 10, 1996, 110 Stat. 503; Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title III, §312(a), (b), Nov. 24, 2003, 117 Stat. 1429.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 402 was renumbered section 401(b) of this title.
@@ -50,6 +52,8 @@ Subsecs. (d), (e). Pub. L. 108–136, §312(a), added subsec. (d) and redesignat
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–510 substituted "Not later than July 31 each year" for "At the end of each six-month period" and "the 12-month period ending on the preceding June 30" for "such six-month period".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -69,6 +73,8 @@ Modification of Applications.—The Administrator of the United States Agency fo
 #### First Report Deadline
 
 Pub. L. 100–180, div. A, title III, §332(d), Dec. 4, 1987, 101 Stat. 1080, directed that first report under section 402(d) of this title be submitted not more than six months after the date on which the most recent report was submitted under section 1540(e) of the Department of Defense Authorization Act, 1985 (Pub. L. 98–525; 98 Stat. 2638).
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

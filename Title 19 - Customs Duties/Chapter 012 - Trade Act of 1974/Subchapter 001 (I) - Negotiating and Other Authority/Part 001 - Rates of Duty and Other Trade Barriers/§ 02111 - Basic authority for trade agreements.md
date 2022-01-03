@@ -24,15 +24,15 @@ No proclamation shall be made pursuant to subsection (a)(2) increasing any rate 
 
 (Pub. L. 93–618, title I, §101, Jan. 3, 1975, 88 Stat. 1982.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3,1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 The Tariff Schedules of the United States, referred to in subsec. (c)(1), to be treated as a reference to the Harmonized Tariff Schedule pursuant to section 3012 of this title. The Harmonized Tariff Schedule is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
-#### Change of Name
-
-The Office of the Special Representative for Trade Negotiations was redesignated the Office of the United States Trade Representative, and Special Representative for Trade Negotiations was redesignated the United States Trade Representative by Reorg. Plan No. 3 of 1979, §1(a), (b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Reorganizing and Restructuring of International Trade Functions of United States Government
 
@@ -42,11 +42,17 @@ Pub. L. 96–39, title XI, §1109, July 26, 1979, 93 Stat. 314, provided that th
 
 Pub. L. 96–39, title XI, §1110, July 26, 1979, 93 Stat. 314, directed the President to review all export promotion functions of the executive branch and potential programmatic and regulatory disincentives to exports, and to submit to the Congress a report of that review not later than July 15, 1980, and not later than July 15, 1980, to submit to the Congress a study of the factors bearing on the competitive posture of United States producers and the policies and programs required to strengthen the relative competitive position of the United States in world markets.
 
+#### <b>Executive Documents</b>
+
+#### Change of Name
+
+The Office of the Special Representative for Trade Negotiations was redesignated the Office of the United States Trade Representative, and Special Representative for Trade Negotiations was redesignated the United States Trade Representative by Reorg. Plan No. 3 of 1979, §1(a), (b)(1), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title. See, also, section 2171 of this title as amended by Pub. L. 97–456.
+
 #### Proc. No. 4707. Carrying Out the Geneva (1979) Protocol to the General Agreement on Tariffs and Trade and for Other Purposes
 
 Proc. No. 4707, Dec. 11, 1979, 44 F.R. 72348, as amended by Ex. Ord. No. 12204, Mar. 27, 1980, 45 F.R. 20740; Proc. No. 4792, Sept. 15, 1980, 45 F.R. 61589; Proc. No. 4889, Dec. 29, 1981, 47 F.R. 1; Proc. No. 4904, Feb. 27, 1982, 47 F.R. 8753; Ex. Ord. No. 12354, Mar. 30, 1982, 47 F.R. 13477; Ex. Ord. No. 12371, July 12, 1982, 47 F.R. 30449; Ex. Ord. No. 12389, Oct. 25, 1982, 47 F.R. 47529; Ex. Ord. No. 12413, Mar. 30, 1983, 48 F.R. 13921; Proc. No. 5050, Apr. 15, 1983, 48 F.R. 16639; Ex. Ord. No. 12459, Jan. 16, 1984, 49 F.R. 2089; Ex. Ord. No. 12471, Mar. 30, 1984, 49 F.R. 13101; Ex. Ord. No. 12519, June 13, 1985, 50 F.R. 25037; Proc. No. 5365, Aug. 30, 1985, 50 F.R. 36220; Proc. No. 5452, Mar. 31, 1986, 51 F.R. 11539, provided:
 
-1\. Pursuant to Section 101(a) of the Trade Act of 1974 (19 U.S.C. 2111(a)), I determined that certain existingduties and other import restrictions of the United States and of foreign countries were unduly burdening and restricting the foreign trade of the United States and that one or more of the purposes stated in Section 2 of the Trade Act of 1974 (19 U.S.C. 2102) would be promoted by entering into the trade agreements identified in the third and fourth recitals of this proclamation.
+1\. Pursuant to Section 101(a) of the Trade Act of 1974 (19 U.S.C. 2111(a)), I determined that certain existing duties and other import restrictions of the United States and of foreign countries were unduly burdening and restricting the foreign trade of the United States and that one or more of the purposes stated in Section 2 of the Trade Act of 1974 (19 U.S.C. 2102) would be promoted by entering into the trade agreements identified in the third and fourth recitals of this proclamation.
 
 2\. Sections 131, 132, 133, 134, 135, and 161(b) of the Trade Act of 1974 (19 U.S.C. 2151, 2152, 2153, 2154, 2155, and 2211(b)) and Section 4(c) of Executive Order No. 11846 of March 27, 1975, (3 CFR 1971–1975 Comp. 974) \[set out below\], have been complied with.
 
@@ -94,7 +100,7 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acti
 
 (2) The amendment to Section 466 of the Tariff Act of 1930 (19 U.S.C. 1466) provided for in Section 601(a)(3) of the Trade Agreements Act of 1979 (93 Stat. 268) shall be effective with respect to entries made under Section 466 on and after the date designated by the President under paragraph 5(b) of this proclamation.
 
-(3) The rate of duty applicable to each item as to which the determination has been made in recital 5(d) is the rate of duty appearing in rate column numbered 1 on January 1, 1979, for the comparable item on a proof gallon basis or such rate as reduced under Section 101 of the Trade Act of 1974 (19 U.S.C. 2111).
+(3) The rate of duty applicable to each item as to which the determination has been made in recital 5(d)is the rate of duty appearing in rate column numbered 1 on January 1, 1979, for the comparable item on a proof gallon basis or such rate as reduced under Section 101 of the Trade Act of 1974 (19 U.S.C. 2111).
 
 (4) Subject to the provisions of the General Agreement, of the Geneva (1979) Protocol, of other agreements supplemental to the General Agreement, of the other agreements identified in recitals 3 and 4, and of United States law (including but not limited to provisions for more favorable treatment), the modification or continuance of existing duties or other import restrictions and the continuance of existing duty-free or excise treatment provided for in Schedule XX (Geneva-1979) (except those provided for in the items listed in Parts 1C, 1D, 2D, 2E, 2K, 3C, 3D, 4C, and 4D of Annex I to Schedule XX which are required to implement the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade, and those provided for in Section 1, Chapter 4, Unit C, Note 2 (cheese quotas), and in Section 1, Chapter 10, Unit B, note 2 (chocolate quotas), all of which will be the subject of one or more separate proclamations), in the agreements identified in the third and fourth recitals of this proclamation, and in trade agreements legislation, shall become effective on or after January 1, 1980, as provided for herein.
 
@@ -110,7 +116,7 @@ NOW, THEREFORE, I, JIMMY CARTER, President of the United States of America, acti
 
 (e) Section A of Annex IV \[see note below\] shall become effective on January 1, 1980.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this eleventh day of December, in the year of ourLord nineteen hundred and seventy-nine, and of the Independence of the United States of America the two hundred and fourth.
+IN WITNESS WHEREOF, I have hereunto set my hand this eleventh day of December, in the year of our Lord nineteen hundred and seventy-nine, and of the Independence of the United States of America the two hundred and fourth.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -158,7 +164,7 @@ Proc. No. 4768, June 28, 1980, 45 F.R. 45135, as amended by Proc. No. 4792, Sept
 
 2\. Section 225 of the Trade Agreements Act of 1979 (93 Stat. 235) \[Pub. L. 96–39, July 26, 1979\], Sections 131, 132, 133, 134, 135, and 161(b) of the Trade Act of 1974 (19 U.S.C. 2151, 2152, 2153, 2154, 2155, and 2211(b)) and Section 4(c) of Executive Order No. 11846 of March 27, 1975, (3 CFR 1971–1975 Comp 974) \[set out below\], have been complied with.
 
-3\. Pursuant to Section 101(a) of the Trade Act of 1974 (19 U.S.C. 2111(a)) and having made the determinations required by that section with regard to the following trade agreements, I, through my duly empowered representative, (1) on July 11, 1979, entered into a trade agreement with other contracting parties to the General Agreement on Tariffs and Trade (61 Stat. (pts. 5 and 6)), as amended (the General Agreement), with countries seeking to accede to the General Agreement, and the European Communities, which agreement consists of the Geneva (1979) Protocol to the General Agreement, including a schedule of United States concessions annexed thereto (hereinafter referred to as "Schedule XX (Geneva–1979)"), (2) on December 18, 1979, entered into a trade agreement with Switzerland, which agreement consists of an exchange of letters, a copy of which is annexed to this proclamation as Part 2 of Annex I, (3) on December 21 and 27, 1979, and on January 2, 1980, entered into trade agreements with the European Communities, which agreements consists of joint memoranda, copies of which are annexed to this proclamation as Part 3 of Annex I, (4) on January 2, 1980, entered into a trade agreement with the Dominican Republic, which agreement consists of an exchange of letters, a copy of which is annexed to this proclamation as Part 4 of Annex I, and (5) on December 29, 1979, entered into a trade agreement with Indonesia, which agreement consists of a memorandum and an exchange of letters, copies of which are annexed to this proclamation as Part 5 of Annex I.
+3\. Pursuant to Section 101(a) of the Trade Act of 1974 (19 U.S.C. 2111(a)) and having made the determinations required by that section with regard to the following trade agreements, I, through my duly empowered representative, (1) on July 11, 1979, entered into a trade agreement with other contracting parties to the General Agreement on Tariffs and Trade (61 Stat. (pts. 5 and 6)), as amended (the General Agreement), with countries seeking to accede to the General Agreement, and the European Communities, which agreement consists of the Geneva (1979) Protocol to the GeneralAgreement, including a schedule of United States concessions annexed thereto (hereinafter referred to as "Schedule XX (Geneva–1979)"), (2) on December 18, 1979, entered into a trade agreement with Switzerland, which agreement consists of an exchange of letters, a copy of which is annexed to this proclamation as Part 2 of Annex I, (3) on December 21 and 27, 1979, and on January 2, 1980, entered into trade agreements with the European Communities, which agreements consists of joint memoranda, copies of which are annexed to this proclamation as Part 3 of Annex I, (4) on January 2, 1980, entered into a trade agreement with the Dominican Republic, which agreement consists of an exchange of letters, a copy of which is annexed to this proclamation as Part 4 of Annex I, and (5) on December 29, 1979, entered into a trade agreement with Indonesia, which agreement consists of a memorandum and an exchange of letters, copies of which are annexed to this proclamation as Part 5 of Annex I.
 
 4\. After having complied with Section 102 of the Trade Act of 1974 (19 U.S.C. 2112), and having made the required determinations, I notified Congress of my intention to enter into the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade (a copy of which is annexed to this proclamation as Part 1 of Annex I); and an implementing bill, approving the agreement and the proposed administrative action, has been enacted into law (Section 2(a) of the Trade Agreements Act of 1979 (93 Stat. 147) \[19 U.S.C. 2503(a)\]).
 
@@ -172,7 +178,7 @@ Proc. No. 4768, June 28, 1980, 45 F.R. 45135, as amended by Proc. No. 4792, Sept
 
 (d) Pursuant to Section 503(a)(2)(A) of the Trade Agreements Act of 1979 (93 Stat. 251), I determine, after providing interested parties an opportunity to comment, that each article identified in Annex IV to this proclamation is not import sensitive.
 
-6\. Each modification of existing duty proclaimed herein which provides with respect to an article for a decrease in duty below the limitation specified in Sections 101(b)(1) or 109(a) of the Trade Act of 1974 (19U.S.C. 2111(b)(1) or 2119(a)), and each modification of any other import restriction or tariff provision so proclaimed is authorized by one or more of the following provisions or statutes:
+6\. Each modification of existing duty proclaimed herein which provides with respect to an article for a decrease in duty below the limitation specified in Sections 101(b)(1) or 109(a) of the Trade Act of 1974 (19 U.S.C. 2111(b)(1) or 2119(a)), and each modification of any other import restriction or tariff provision so proclaimed is authorized by one or more of the following provisions or statutes:
 
 &emsp;(a) Section 101(b)(2) of the Trade Act of 1974 (19 U.S.C. 2111(b)(2)), by virtue of the fact that the rate of duty existing on January 1, 1975, applicable to the article was not more than 5 percent ad valorem (or ad valorem equivalent);
 
@@ -250,7 +256,7 @@ Sec. 3. <i>The Trade Policy Committee.</i>
 
 (b) The Committee shall have the functions conferred by the Trade Expansion Act of 1962, as amended \[section 1801 et seq. of this title\], upon the inter-agency organization referred to in Section 242 thereof, as amended \[section 1872 of this title\], the functions delegated to it by the provisions of this Order, and such other functions as the President may from time to time direct. Recommendations and advice of the Committee shall be submitted to the President by the Chairman.
 
-(c) The Special Representative \[now Trade Representative\] or any other officer who is chief representative of the United States in a negotiation in connection with the trade agreements program shall keep the Committee informed with respect to the status and conduct of negotiations and shall consult with the Committee regarding the basic policy issues arising in the course of negotiations.
+(c) The Special Representative \[now Trade Representative\] or any other officer who is chief representativeof the United States in a negotiation in connection with the trade agreements program shall keep the Committee informed with respect to the status and conduct of negotiations and shall consult with the Committee regarding the basic policy issues arising in the course of negotiations.
 
 (d) Before making recommendations to the President under Section 242(b)(2) of the Trade Expansion Act of 1962, as amended \[section 1872(b)(2) of this title\], the Committee shall, through the Special Representative \[now Trade Representative\], request the advice of the Adjustment Assistance Coordinating Committee, established by Section 281 of the Act \[section 2392 of this title\].
 

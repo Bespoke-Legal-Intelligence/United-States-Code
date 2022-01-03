@@ -32,6 +32,8 @@ The following items shall not be included in gross income, and shall be exempt f
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 290; Pub. L. 86–707, title V, §523(a), Sept. 6, 1960, 74 Stat. 802; Pub. L. 87–293, title II, §201(a), Sept. 22, 1961, 75 Stat. 625; Pub. L. 96–465, title II, §2206(e)(3), Oct. 17, 1980, 94 Stat. 2163; Pub. L. 100–647, title VI, §6137(a), Nov. 10, 1988, 102 Stat. 3723; Pub. L. 115–141, div. U, title IV, §401(a)(161), Mar. 23, 2018, 132 Stat. 1192.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
@@ -53,6 +55,8 @@ The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 196
 <b>1961</b>—Par. (3). Pub. L. 87–293 added par. (3).
 
 <b>1960</b>—Pub. L. 86–707 exempted foreign areas allowances received under section 4 of the Central Intelligence Agency Act of 1949, title II of the Overseas Differentials and Allowances Act, subsection (e) or (f) of the first section of the Administrative Expenses Act of 1946, or section 22 of such Act, provided that amounts received as post differentials shall not be exempt and in provisions relating to cost-of-living allowances excluded Alaska from term "continental United States" and amounts received under title II of the Overseas Differentials and Allowances Act.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -79,6 +83,8 @@ Section 201(a) of Pub. L. 87–293, cited as a credit to this section, was repea
 #### Treatment of Employees of Panama Canal Commission and Department of Defense
 
 Pub. L. 99–514, title XII, §1232(b), Oct. 22, 1986, 100 Stat. 2564, provided that: "Employees of the Panama Canal Commission and civilian employees of the Defense Department of the United States stationed in Panama may exclude from gross income allowances which are comparable to the allowances excludable under section 912(1) of the Internal Revenue Code of 1986 by employees of the State Department of the United States stationed in Panama. The preceding sentence shall apply to taxable years beginning after December 31, 1986."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
-&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreignstate while acting within the scope of his office or employment; except this paragraph shall not apply to—
+&emsp;(5) not otherwise encompassed in paragraph (2) above, in which money damages are sought against a foreign state for personal injury or death, or damage to or loss of property, occurring in the United States and caused by the tortious act or omission of that foreign state or of any official or employee of that foreign state while acting within the scope of his office or employment; except this paragraph shall not apply to—
 
 &emsp;&emsp;(A) any claim based upon the exercise or performance or the failure to exercise or perform a discretionary function regardless of whether the discretion be abused, or
 
@@ -48,7 +48,7 @@ Sunset.—(A) Subject to subparagraph (B), no stay shall be granted or continued
 
 &emsp;&emsp;(i) create a serious threat of death or serious bodily injury to any person;
 
-&emsp;&emsp;(ii) adversely affect the ability of the United States to work in cooperation with foreign and international law enforcementagencies in investigating violations of United States law; or
+&emsp;&emsp;(ii) adversely affect the ability of the United States to work in cooperation with foreign and international law enforcement agencies in investigating violations of United States law; or
 
 &emsp;&emsp;(iii) obstruct the criminal case related to the incident that gave rise to the cause of action or undermine the potential for a conviction in such case.
 
@@ -210,5 +210,5 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996,
 
 "(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under \[former\] section 6(j) of the Export Administration Act of 1979 \[former 50 U.S.C. 4605(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under \[former\] section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in \[former\] section 1605(a)(7).
 
-"(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States."
+"(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also applyto actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States."
 

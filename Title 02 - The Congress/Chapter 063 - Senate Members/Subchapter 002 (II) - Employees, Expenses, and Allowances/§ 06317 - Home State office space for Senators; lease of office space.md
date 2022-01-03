@@ -42,7 +42,7 @@ The aggregate square feet of office space secured for Senator shall not at any t
 
 #### (d) Senators subject to maximum amount of aggregate square feet and maximum annual rental rate
 
-(1) Notwithstanding subsection (b), the aggregate square feet of office space secured for aSenator who is a Senator on July 1, 1974, shall not at any time exceed, as long as he continuously serves as a Senator, the greater of—
+(1) Notwithstanding subsection (b), the aggregate square feet of office space secured for a Senator who is a Senator on July 1, 1974, shall not at any time exceed, as long as he continuously serves as a Senator, the greater of—
 
 &emsp;(A) the applicable square footage limitation of such subsection; or
 

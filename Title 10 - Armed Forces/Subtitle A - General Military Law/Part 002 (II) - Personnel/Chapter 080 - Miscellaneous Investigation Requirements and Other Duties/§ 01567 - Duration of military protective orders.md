@@ -4,6 +4,8 @@ A military protective order issued by a military commander shall remain in effec
 
 (Added Pub. L. 110–417, \[div. A\], title V, §561(a), Oct. 14, 2008, 122 Stat. 4470; amended Pub. L. 111–84, div. A, title X, §1073(a)(16), Oct. 28, 2009, 123 Stat. 2473.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2009</b>—Pub. L. 111–84 made technical amendment to section catchline.

@@ -92,9 +92,13 @@ In subsection (c), the words "reasonable", "and limitations", and "and condition
 
 This amends 49:41103(a) to make the term consistent throughout subtitle VII of title 49.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–429 substituted "all-cargo" for "all-property".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

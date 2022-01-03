@@ -2,7 +2,7 @@
 
 #### (a) Timeline in awarding agreement
 
-Not later than 6 months after receiving an application in accordance with section 1397n–1 of this title, the Secretary, in consultation withthe Federal Interagency Council on Social Impact Partnerships, shall determine whether to enter into an agreement for a social impact partnership project with a State or local government.
+Not later than 6 months after receiving an application in accordance with section 1397n–1 of this title, the Secretary, in consultation with the Federal Interagency Council on Social Impact Partnerships, shall determine whether to enter into an agreement for a social impact partnership project with a State or local government.
 
 #### (b) Considerations in awarding agreement
 
@@ -36,7 +36,7 @@ In determining whether to enter into an agreement for a social impact partnershi
 
 &emsp;&emsp;(D) The State or local government has demonstrated, through the application submitted under section 1397n–1 of this title, that, based on prior rigorous experimental evaluations or rigorous quasi-experimental studies, the intervention can be expected to achieve each outcome specified in the agreement.
 
-&emsp;&emsp;(E) The State, local government, intermediary, or service provider has experience raising private or philanthropic capital to fund social service investments (if applicable to the project).
+&emsp;&emsp;(E) The State, local government, intermediary, or service provider has experience raising private or philanthropic capital tofund social service investments (if applicable to the project).
 
 &emsp;&emsp;(F) The State or local government has shown that each service provider has experience delivering the intervention, a similar intervention, or has otherwise demonstrated the expertise necessary to deliver the intervention.
 

@@ -154,6 +154,8 @@ For purposes of this section—
 
 (Added Pub. L. 104–191, title IV, §402(a), Aug. 21, 1996, 110 Stat. 2084; amended Pub. L. 105–34, title XV, §1531(b)(2), Aug. 5, 1997, 111 Stat. 1085; Pub. L. 109–135, title IV, §412(ww), Dec. 21, 2005, 119 Stat. 2640.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3(40) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(2)(B), is classified to section 1002(40) of Title 29, Labor.
@@ -174,9 +176,11 @@ Subsec. (d)(3). Pub. L. 105–34, §1531(b)(2)(D), substituted "section 9832" fo
 
 Subsec. (f)(1). Pub. L. 105–34, §1531(b)(2)(E), substituted "section 9832(a)" for "section 9805(a)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: "The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of thistitle, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
+Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: "The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
 
 #### Effective Date
 

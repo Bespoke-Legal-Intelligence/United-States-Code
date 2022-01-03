@@ -18,7 +18,7 @@
 
 &emsp;(B) 30 days after the date of enactment of the law by which the appropriation is made available.
 
-(c) By the first day of each fiscal year, the head of each executive department of the United States Government shall apportion among the major organizational units of the department the maximum amount to be expended by each unit during the fiscal year out of each contingent fund appropriated for the entire year for the department. Each amount may be changed during the fiscal year only by written direction of the head of the department. The direction shall state the reasons for the change.
+(c) By the first day of each fiscal year, the head of each executive department of the United States Government shall apportion among the major organizational units of the department the maximum amount to be expended by eachunit during the fiscal year out of each contingent fund appropriated for the entire year for the department. Each amount may be changed during the fiscal year only by written direction of the head of the department. The direction shall state the reasons for the change.
 
 (d) An appropriation apportioned under this subchapter may be divided and subdivided administratively within the limits of the apportionment.
 

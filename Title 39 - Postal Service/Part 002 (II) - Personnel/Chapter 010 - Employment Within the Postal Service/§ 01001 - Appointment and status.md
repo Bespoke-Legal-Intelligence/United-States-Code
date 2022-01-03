@@ -46,7 +46,7 @@ Pub. L. 109–435, title VII, §706(b), Dec. 20, 2006, 120 Stat. 3246, provided 
 
 Pub. L. 91–375, §8, Aug. 12, 1970, 84 Stat. 783, as amended by Pub. L. 109–435, title X, §1007(a), Dec. 20, 2006, 120 Stat. 3258, provided that:
 
-"(a) Officers and employees of the Post Office Department shall become officers and employees of the United States Postal Service on the effective date of this section. The provisions of this section shall not apply to persons occupying the positions of Postmaster General, Deputy Postmaster General, Assistant Postmasters General, General Counsel, or Judicial Officer. This section shall not be construed, however, to prohibit the appointment of such persons to positions in the Postal Service.
+"(a) Officers and employees of the Post Office Department shall become officers and employees of the United States Postal Service on the effective date of this section. The provisions of this section shall not apply to persons occupying the positions of Postmaster General, Deputy Postmaster General, Assistant PostmastersGeneral, General Counsel, or Judicial Officer. This section shall not be construed, however, to prohibit the appointment of such persons to positions in the Postal Service.
 
 "(b) For purposes of chapter 81 of title 5, United States Code, the Postal Service shall, with respect to any individual receiving benefits under such chapter as an officer or employee of the former Post Office Department, have the same authorities and responsibilities as it has with respect to an officer or employee of the Postal Service receiving such benefits."
 

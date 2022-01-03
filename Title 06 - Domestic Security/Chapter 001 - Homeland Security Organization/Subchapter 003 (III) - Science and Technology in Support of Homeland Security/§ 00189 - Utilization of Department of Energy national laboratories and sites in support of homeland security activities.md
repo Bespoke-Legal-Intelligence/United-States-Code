@@ -38,7 +38,7 @@
 
 #### (5) Federal Acquisition Regulation
 
-&emsp;Any work performed by a Department of Energy national laboratory or site under a jointsponsorship arrangement under this subsection shall comply with the policy on the use of federally funded research and development centers under the Federal Acquisition Regulations.
+&emsp;Any work performed by a Department of Energy national laboratory or site under a joint sponsorship arrangement under this subsection shall comply with the policy on the use of federally funded research and development centers under the Federal Acquisition Regulations.
 
 #### (6) Funding
 
@@ -66,7 +66,7 @@ There is established within the Directorate of Science and Technology an Office 
 
 #### (h) Department of Energy coordination on homeland security related research
 
-The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated with the Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
+The Secretary of Energy shall ensure that any research, development, test, and evaluation activities conducted within the Department of Energy that are directly or indirectly related to homeland security are fully coordinated withthe Secretary to minimize duplication of effort and maximize the effective application of Federal budget resources.
 
 (Pub. L. 107–296, title III, §309, Nov. 25, 2002, 116 Stat. 2172.)
 

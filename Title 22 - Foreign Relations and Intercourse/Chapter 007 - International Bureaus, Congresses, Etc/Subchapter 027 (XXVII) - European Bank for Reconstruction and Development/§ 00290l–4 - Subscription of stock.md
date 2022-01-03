@@ -8,7 +8,7 @@
 
 #### (2) Effectiveness of subscription commitment
 
-&emsp;Any commitment to make such subscription shall be effective only to such extent or insuch amounts as are provided for in advance by appropriations Acts.
+&emsp;Any commitment to make such subscription shall be effective only to such extent or in such amounts as are provided for in advance by appropriations Acts.
 
 #### (b) Limitations on authorization of appropriations
 

@@ -4,11 +4,15 @@ The tax imposed by this chapter shall be paid by the executor.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 374; Pub. L. 98–369, div. A, title V, §544(b)(1), July 18, 1984, 98 Stat. 894; Pub. L. 101–239, title VII, §7304(b)(2)(A), Dec. 19, 1989, 103 Stat. 2353.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–239 substituted "The" for "Except as provided in section 2210, the".
 
 <b>1984</b>—Pub. L. 98–369 inserted exception phrase.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1989 Amendment
 

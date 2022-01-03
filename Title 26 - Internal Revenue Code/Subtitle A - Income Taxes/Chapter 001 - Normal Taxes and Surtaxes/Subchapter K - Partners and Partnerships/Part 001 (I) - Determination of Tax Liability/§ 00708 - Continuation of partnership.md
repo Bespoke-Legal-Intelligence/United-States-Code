@@ -22,9 +22,13 @@ For purposes of this subchapter, an existing partnership shall be considered as 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 244; Pub. L. 115–97, title I, §13504(a), Dec. 22, 2017, 131 Stat. 2141.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b)(1). Pub. L. 115–97 struck out dash after "only if" and subpar. (A) designation before "no part" and struck out subpar. (B) which read as follows: "within a 12-month period there is a sale or exchange of 50 percent or more of the total interest in partnership capital and profits".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

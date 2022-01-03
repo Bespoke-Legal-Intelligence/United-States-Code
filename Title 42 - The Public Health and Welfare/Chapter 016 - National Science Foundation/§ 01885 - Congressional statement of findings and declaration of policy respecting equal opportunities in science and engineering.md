@@ -6,6 +6,8 @@
 
 (Pub. L. 96–516, §32, Dec. 12, 1980, 94 Stat. 3010; Pub. L. 99–159, title I, §111(b)(2)–(5), Nov. 22, 1985, 99 Stat. 892; Pub. L. 107–368, §16, Dec. 19, 2002, 116 Stat. 3059.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Science and Engineering Equal Opportunities Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
@@ -20,15 +22,17 @@ Subsec. (b). Pub. L. 107–368, §16(2), inserted ", including persons with dis
 
 Subsec. (b). Pub. L. 99–159, §111(b)(3)–(5), inserted ", engineering," after "skills in science", substituted "engineering" for "technical", "scientific and engineering literacy" for "scientific literacy", and "engineering" for "technology" wherever appearing, and inserted "and engineering" after "highest quality science".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Short Title
 
 For short title of sections 31 et seq. of Pub. L. 96–516 as the "Science and Engineering Equal Opportunities Act", see section 31 of Pub. L. 96–516, as amended, set out as a Short Title of 1980 Amendment note under section 1861 of this title.
 
 #### Severability of Science and Engineering Equal Opportunities Act
 
-Pub. L. 96–516, §38, Dec. 12, 1980, 94 Stat. 3014, provided that: "If a provision of this Act \[enacting sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title\] is held invalid, the validity of the other provisions of the Act shall not be affected. If an application of a provision of this Act to a person or circumstance is held invalid, the validityof the application of the provisions to another person or circumstance shall not be affected."
+Pub. L. 96–516, §38, Dec. 12, 1980, 94 Stat. 3014, provided that: "If a provision of this Act \[enacting sections 1885 to 1885d of this title and provisions set out as notes under sections 1861 and 1885 of this title\] is held invalid, the validity of the other provisions of the Act shall not be affected. If an application of a provision of this Act to a person or circumstance is held invalid, the validity of the application of the provisions to another person or circumstance shall not be affected."
 
 #### Reports to Congress Concerning National Policy Development of Promotion, Etc., of Equal Opportunity for Women and Minorities in Science and Technology, and Impacts of Science and Technology on Women and Minorities
 
-Pub. L. 96–516, §35, Dec. 12, 1980, 94 Stat. 3012, directed President, with assistance of Director of Office of Science and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity for women and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
+Pub. L. 96–516, §35, Dec. 12, 1980, 94 Stat. 3012, directed President, with assistance of Director of Office ofScience and Technology Policy and Director of Foundation, to prepare and transmit before Jan. 20, 1982, a report to Congress proposing a comprehensive national policy and program, including budgetary and legislative recommendations, for promotion of equal opportunity for women and minorities in science and technology, and directed President, with assistance of Director of Office of Science and Technology Policy, heads of appropriate executive departments, and Director of the Foundation to prepare and transmit before Jan. 1, 1983, a report to Congress proposing a comprehensive policy, including budgetary and legislative recommendations, concerning direct and indirect impacts of science and technology on women and minorities.
 

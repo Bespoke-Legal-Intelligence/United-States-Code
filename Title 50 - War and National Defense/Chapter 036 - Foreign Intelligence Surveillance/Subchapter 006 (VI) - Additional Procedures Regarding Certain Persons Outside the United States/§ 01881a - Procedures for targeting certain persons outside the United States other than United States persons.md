@@ -178,7 +178,7 @@ An acquisition authorized under subsection (a)—
 
 #### (B) Exception
 
-&emsp;&emsp;If the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2) and time does not permit the submission of a certificationunder this subsection prior to the implementation of an authorization under subsection (a), the Attorney General and the Director of National Intelligence shall submit to the Court a certification for such authorization as soon as practicable but in no event later than 7 days after such determination is made.
+&emsp;&emsp;If the Attorney General and the Director of National Intelligence make a determination under subsection (c)(2) and time does not permit the submission of a certification under this subsection prior to the implementation of an authorization under subsection (a), the Attorney General and the Director of National Intelligence shall submit to the Court a certification for such authorization as soon as practicable but in no event later than 7 days after such determination is made.
 
 #### (2) Requirements
 
@@ -256,7 +256,7 @@ An acquisition authorized under subsection (a)—
 
 #### (3) Release from liability
 
-&emsp;No cause of action shall lie in any court against any electronic communication serviceprovider for providing any information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
+&emsp;No cause of action shall lie in any court against any electronic communication service provider for providing any information, facilities, or assistance in accordance with a directive issued pursuant to paragraph (1).
 
 #### (4) Challenging of directives
 
@@ -382,7 +382,7 @@ An acquisition authorized under subsection (a)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained or evidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatorybody, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), if the Court orders a correction of a deficiency in a certification or procedures under subparagraph (B), no information obtained orevidence derived pursuant to the part of the certification or procedures that has been identified by the Court as deficient concerning any United States person shall be received in evidence or otherwise disclosed in any trial, hearing, or other proceeding in or before any court, grand jury, department, office, agency, regulatory body, legislative committee, or other authority of the United States, a State, or political subdivision thereof, and no information concerning any United States person acquired pursuant to such part of such certification or procedures shall subsequently be used or disclosed in any other manner by Federal officers or employees without the consent of the United States person, except with the approval of the Attorney General if the information indicates a threat of death or serious bodily harm to any person.
 
 #### (ii) Exception
 
@@ -442,13 +442,13 @@ An acquisition authorized under subsection (a)—
 
 #### (3) Retention of records
 
-&emsp;The Attorney General and the Director of National Intelligence shall retain a directive or an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
+&emsp;The Attorney General and the Director of National Intelligence shall retain a directiveor an order issued under this section for a period of not less than 10 years from the date on which such directive or such order is issued.
 
 #### (m) Assessments <sup>2</sup> reviews, and reporting
 
 #### (1) Semiannual assessment
 
-&emsp;Not less frequently than once every 6 months, the Attorney General and Director ofNational Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
+&emsp;Not less frequently than once every 6 months, the Attorney General and Director of National Intelligence shall assess compliance with the targeting, minimization, and querying procedures adopted in accordance with subsections (d), (e), and (f)(1) and the guidelines adopted in accordance with subsection (g) and shall submit each assessment to—
 
 &emsp;&emsp;(A) the Foreign Intelligence Surveillance Court; and
 
@@ -518,7 +518,7 @@ An acquisition authorized under subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representativesand the Senate and the congressional intelligence committees of a material breach.
+&emsp;&emsp;The head of each element of the intelligence community involved in the acquisition of abouts communications shall fully and currently inform the Committees on the Judiciary of the House of Representatives and the Senate and the congressional intelligence committees of a material breach.
 
 #### (B) Definitions
 
@@ -533,6 +533,8 @@ An acquisition authorized under subsection (a)—
 #### Repeal of Section
 
 <i>Pub. L. 110–261, title IV, §403(b)(1), July 10, 2008, 122 Stat. 2474, as amended by Pub. L. 112–238, §2(a)(1), Dec. 30, 2012, 126 Stat. 1631; Pub. L. 115–118, title II, §201(a)(1), Jan. 19, 2018, 132 Stat. 19, provided that, except as provided in section 404 of Pub. L. 110–261, set out as a note under section 1801 of this title, effective Dec. 31, 2023, this section is repealed.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -601,6 +603,8 @@ Subsec. (m)(2)(A). Pub. L. 115–118, §101(b)(1)(G)(ii), substituted "targeting
 Subsec. (m)(4). Pub. L. 115–118, §103(b)(5)(B), added par. (4).
 
 <b>2015</b>—Subsec. (i)(3)(D). Pub. L. 114–23 added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

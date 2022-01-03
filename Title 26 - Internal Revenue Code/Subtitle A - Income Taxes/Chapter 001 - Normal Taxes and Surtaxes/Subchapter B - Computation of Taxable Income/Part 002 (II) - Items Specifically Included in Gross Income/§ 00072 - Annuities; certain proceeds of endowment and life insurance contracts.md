@@ -90,7 +90,7 @@
 
 #### (4) Annuity starting date
 
-&emsp;For purposes of this section, the annuity starting date in the case of any contract is the first day of the first period for which an amount is received as an annuity under the contract.
+&emsp;For purposes of this section, the annuity starting date in the case of any contract is thefirst day of the first period for which an amount is received as an annuity under the contract.
 
 #### (d) Special rules for qualified employer retirement plans
 
@@ -210,7 +210,7 @@
 
 #### (A) Allocation to income
 
-&emsp;&emsp;Any amount to which this subsection applies shall be treated as allocable to incomeon the contract to the extent that such amount does not exceed the excess (if any) of—
+&emsp;&emsp;Any amount to which this subsection applies shall be treated as allocable to income on the contract to the extent that such amount does not exceed the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the cash value of the contract (determined without regard to any surrender charge) immediately before the amount is received, over
 
@@ -376,7 +376,7 @@
 
 #### (B) Regulatory authority
 
-&emsp;&emsp;The Secretary may by regulations prescribe such additional rules as may be necessary or appropriate to prevent avoidance of the purposes of this subsection through serial purchases of contracts or otherwise.
+&emsp;&emsp;The Secretary may by regulations prescribe such additional rules as may be necessary or appropriate to prevent avoidanceof the purposes of this subsection through serial purchases of contracts or otherwise.
 
 #### (f) Special rules for computing employees' contributions
 
@@ -446,7 +446,7 @@ For purposes of this section, the term "endowment contract" includes a face-amou
 
 &emsp;&emsp;&emsp;(ii) purchased by a trust described in section 401(a) which is exempt from tax under section 501(a) if the proceeds of such contract are payable directly or indirectly to a participant in such trust or to a beneficiary of such participant.
 
-&emsp;&emsp;(B) Any contribution to a plan described in subparagraph (A)(i) or a trust described in subparagraph (A)(ii) which is allowed as adeduction under section 404, and any income of a trust described in subparagraph (A)(ii), which is determined in accordance with regulations prescribed by the Secretary to have been applied to purchase the life insurance protection under a contract described in subparagraph (A), is includible in the gross income of the participant for the taxable year when so applied.
+&emsp;&emsp;(B) Any contribution to a plan described in subparagraph (A)(i) or a trust described in subparagraph (A)(ii) which is allowed as a deduction under section 404, and any income of a trust described in subparagraph (A)(ii), which is determined in accordance with regulations prescribed by the Secretary to have been applied to purchase the life insurance protection under a contract described in subparagraph (A), is includible in the gross income of the participant for the taxable year when so applied.
 
 &emsp;&emsp;(C) In the case of the death of an individual insured under a contract described in subparagraph (A), an amount equal to the cash surrender value of the contract immediately before the death of the insured shall be treated as a payment under such plan or a distribution by such trust, and the excess of the amount payable by reason of the death of the insured over such cash surrender value shall not be includible in gross income under this section and shall be treated as provided in section 101.
 
@@ -572,7 +572,7 @@ For purposes of this section—
 
 #### (C) Requirement of level amortization
 
-&emsp;&emsp;Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan (with payments not less frequently than quarterly) is required over the term of the loan.
+&emsp;&emsp;Except as provided in regulations, this paragraph shall not apply to any loan unless substantially level amortization of such loan\(with payments not less frequently than quarterly) is required over the term of the loan.
 
 #### (D) Prohibition of loans through credit cards and other similar arrangements
 
@@ -670,7 +670,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) before the taxpayer attains age 59½,
 
-> &emsp;the taxpayer's tax for the 1st taxable year in which such modification occurs shall be increased by an amount, determined under regulations, equal to the tax which (but for paragraph (2)(D)) would have been imposed, plus interest for the deferral period (within the meaning of subsection (t)(4)(B)).
+> &emsp;the taxpayer's tax for the 1st taxable year in which such modification occurs shall be increased by an amount, determined under regulations, equal to the tax which (but for paragraph (2)(D)) would have been imposed, plusinterest for the deferral period (within the meaning of subsection (t)(4)(B)).
 
 #### (r) Certain railroad retirement benefits treated as received under employer plans
 
@@ -778,7 +778,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, if the holder of the contract is not an individual,the primary annuitant shall be treated as the holder of the contract.
+&emsp;&emsp;For purposes of this subsection, if the holder of the contract is not an individual, the primary annuitant shall be treated as the holder of the contract.
 
 #### (B) Primary annuitant
 
@@ -852,7 +852,7 @@ For purposes of this section—
 
 #### (F) Distributions from certain plans for first home purchases
 
-&emsp;&emsp;Distributions to an individual from an individual retirement plan which are qualifiedfirst-time homebuyer distributions (as defined in paragraph (8)). Distributions shall not be taken into account under the preceding sentence if such distributions are described in subparagraph (A), (C), (D), or (E) or to the extent paragraph (1) does not apply to such distributions by reason of subparagraph (B).
+&emsp;&emsp;Distributions to an individual from an individual retirement plan which are qualified first-time homebuyer distributions (as defined in paragraph (8)). Distributions shall not be taken into account under the preceding sentence if such distributions are described in subparagraph (A), (C), (D), or (E) or to the extent paragraph (1) does not apply to such distributions by reason of subparagraph (B).
 
 #### (G) Distributions from retirement plans to individuals called to active duty
 
@@ -918,7 +918,7 @@ For purposes of this section—
 
 #### (II) Limitation on contributions to applicable eligible retirement plans other than IRAs
 
-&emsp;&emsp;&emsp;&emsp;The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to makecontributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
+&emsp;&emsp;&emsp;&emsp;The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to make contributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
 
 #### (III) Treatment of repayments of distributions from applicable eligible retirement plans other than IRAs
 
@@ -1066,7 +1066,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting "age 50" for "age 55".
+&emsp;&emsp;In the case of a distribution to a qualified public safety employee from a governmentalplan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting "age 50" for "age 55".
 
 #### (B) Qualified public safety employee
 
@@ -1074,7 +1074,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
 
-&emsp;&emsp;&emsp;(ii) any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) ofsuch title, any air traffic controller described in 8331(30) or 8401(35) of such title, any nuclear materials courier described in section 8331(27) or 8401(33) of such title, any member of the United States Capitol Police, any member of the Supreme Court Police, or any diplomatic security special agent of the Department of State.
+&emsp;&emsp;&emsp;(ii) any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, any air traffic controller described in 8331(30) or 8401(35) of such title, any nuclear materials courier described in section 8331(27) or 8401(33) of such title, any member of the United States Capitol Police, any member of the Supreme Court Police, or any diplomatic security special agent of the Department of State.
 
 #### (u) Treatment of annuity contracts not held by natural persons
 
@@ -1148,7 +1148,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible in gross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
+&emsp;Notwithstanding any other provision of this section, for purposes of determining the portion of any distribution which is includible ingross income of a distributee who is a citizen or resident of the United States, the investment in the contract shall not include any applicable nontaxable contributions or applicable nontaxable earnings.
 
 #### (2) Applicable nontaxable contribution
 
@@ -1182,13 +1182,15 @@ For purposes of this section—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 20; Pub. L. 87–792, §4(a), (b), Oct. 10, 1962, 76 Stat. 821; Pub. L. 87–834, §11(b), Oct. 16, 1962, 76 Stat. 1005; Pub. L. 88–272, title II, §232(b), Feb. 26, 1964, 78 Stat. 110; Pub. L. 89–44, title VIII, §809(d)(2), June 21, 1965, 79 Stat. 167; Pub. L. 89–97, title I, §106(d)(2), July 30, 1965, 79 Stat. 337; Pub. L. 89–365, §1(b), Mar. 8, 1966, 80 Stat. 32; Pub. L. 91–172, title V, §515(b), Dec. 30, 1969, 83 Stat. 644; Pub. L. 93–406, title II, §§2001(e)(5), (g)(1), (2)(A), (h)(2), (3), 2002(g)(10), 2005(c)(3), 2007(b)(2), Sept. 2, 1974, 88 Stat. 955, 957, 970, 991, 994; Pub. L. 94–455, title XIX, §§1901(a)(12), (13), 1906(b)(13)(A), 1951(b)(1)(A), Oct. 4, 1976, 90 Stat. 1765, 1834, 1836; Pub. L. 97–34, title III, §§311(b)(1), 312(d), (e)(1), Aug. 13, 1981, 95 Stat. 278, 284; Pub. L. 97–248, title II, §§236(a), (b), 237(d), 265(a), (b)(1), Sept. 3, 1982, 96 Stat. 509–511, 544–546; Pub. L. 97–448, title I, §103(c)(3)(B)(i), (6), Jan. 12, 1983, 96 Stat. 2376; Pub. L. 98–76, title II, §224(a), Aug. 12, 1983, 97 Stat. 421; Pub. L. 98–369, div. A, title II, §§211(b)(1), 222(a), (b), title IV, §§421(b)(1), 491(d)(3), (4), title V, §§521(d), 523(a), (b), title VII, §713(b)(1)–(c)(1)(B), (d)(1), July 18, 1984, 98 Stat. 754, 774, 794, 849, 868, 871, 872, 956, 957; Pub. L. 98–397, title II, §204(c)(2), Aug. 23, 1984, 98 Stat. 1448; Pub. L. 99–514, title XI, §§1101(b)(2)(B), (C), 1122(c), 1123(a), (b), (d)(1), 1134(a)–(d), 1135(a), title XVIII, §§1826(a), (b)(1)–(3), (c), (d), 1852(a)(2), (c)(1)–(4), 1854(b)(1), 1898(c)(1)(B), Oct. 22, 1986, 100 Stat. 2413, 2414, 2467, 2472, 2474, 2475, 2483, 2484, 2848–2850, 2864, 2867, 2878, 2951; Pub. L. 100–647, title I, §§1011A(b)(1)(A), (B), (2), (9), (c)(1)–(8), (h), (i), 1018(k), (t)(1)(A), (B), (u)(8), title V, §5012(a), (b)(1), (d), Nov. 10, 1988, 102 Stat. 3472, 3474–3476, 3482, 3583, 3587, 3590, 3661, 3662, 3664; Pub. L. 101–239, title VII, §§7811(m)(4), 7815(a)(3), (5), Dec. 19, 1989, 103 Stat. 2412, 2414; Pub. L. 101–508, title XI, §11802(a), Nov. 5, 1990, 104 Stat. 1388–529; Pub. L. 102–318, title V, §521(b)(3), July 3, 1992, 106 Stat. 310; Pub. L. 104–188, title I, §§1403(a), 1421(b)(4)(A), 1463(a), 1704(l)(1), (t)(2), (77), Aug. 20, 1996, 110 Stat. 1790, 1796, 1824, 1882, 1887, 1891; Pub. L. 104–191, title III, §361(a)–(c), Aug. 21, 1996, 110 Stat. 2071, 2072; Pub. L. 105–34, title II, §203(a), (b), title III, §303(a), (b), title X, §1075(a), (b), Aug. 5, 1997, 111 Stat. 809, 829, 949; Pub. L. 105–206, title III, §3436(a), title VI, §§6004(d)(3)(B), 6005(c)(1), 6023(3), (4), July 22, 1998, 112 Stat. 761, 794, 800, 824; Pub. L. 107–16, title IV, §402(a)(4)(A), (B), title VI, §§632(a)(3)(A), 641(a)(2)(C), (e)(1), June 7, 2001, 115 Stat. 60, 61, 113, 120; Pub. L. 107–22, §1(b)(1)(A), (3)(A), July 26, 2001, 115 Stat. 196, 197; Pub. L. 107–90, title II, §204(e)(2), Dec. 21, 2001, 115 Stat. 893; Pub. L. 108–311, title II, §207(6), (7), title IV, §408(a)(4), (b)(3), Oct. 4, 2004, 118 Stat. 1177, 1191, 1192; Pub. L. 108–357, title VIII, §906(a), Oct. 22, 2004, 118 Stat. 1653; Pub. L. 109–280, title VIII, §§827(a), 828(a), 844(a), Aug. 17, 2006, 120 Stat. 999, 1001, 1010; Pub. L. 110–245, title I, §107(a), June 17, 2008, 122 Stat. 1631; Pub. L. 110–458, title I, §108(e), Dec. 23, 2008, 122 Stat. 5109; Pub. L. 111–240, title II, §2113(a), Sept. 27, 2010, 124 Stat. 2566; Pub. L. 112–141, div. F, title I, §100121(c), July 6, 2012, 126 Stat. 914; Pub. L. 113–295, div. A, title II, §221(a)(14), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 114–26, §2(a)–(c), June 29, 2015, 129 Stat. 319; Pub. L. 114–113, div. Q, title III, §308(a), Dec. 18, 2015, 129 Stat. 3089; Pub. L. 116–94, div. O, title I, §§108(a), 113(a), Dec. 20, 2019, 133 Stat. 3149, 3154.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (f), means the enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
 The date of the enactment of the Small Business Job Protection Act of 1996, referred to in subsec. (n), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
-The Railroad Retirement Act of 1974, referred to in subsec. (r)(1), (2)(C)(i), (ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 2(b), 3(h), and 4(e) and (h) of the Act are classified to sections 231a(b), 231b(h), and 231c(e) and (h), respectively, of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (r)(1), (2)(C)(i), (ii), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. Sections 2(b), 3(h), and 4(e) and (h) of the Act are classified to sections 231a(b), 231b(h), and 231c(e)and (h), respectively, of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)(iv), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
@@ -1284,7 +1286,7 @@ Treatment of Employee Contributions Under Defined Contribution Plans as Separate
 
 Subsec. (f). Pub. L. 104–188, §1463(a), in closing provisions, inserted before period at end ", or to the extent such credits are attributable to services performed as a foreign missionary (within the meaning of section 403(b)(2)(D)(iii))".
 
-Subsec. (m)(2)(A) to (C). Pub. L. 104–188, §1704(t)(2), inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "the consideration for the contract contributed by the employee for purposes of subsection (d)(1) (relating to employee's contributions recoverable in 3 years) and subsection (e)(7) (relating to plans where substantially all contributions are employee contributions), and".
+Subsec. (m)(2)(A) to (C). Pub. L. 104–188, §1704(t)(2), inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "the consideration for the contract contributed by the employee for purposes of subsection (d)(1) (relating to employee's contributions recoverablein 3 years) and subsection (e)(7) (relating to plans where substantially all contributions are employee contributions), and".
 
 Subsec. (p)(4)(A)(ii). Pub. L. 104–188, §1704(t)(77), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "
 
@@ -1304,7 +1306,7 @@ Subsec. (t)(6). Pub. L. 104–188, §1421(b)(4)(A), added par. (6).
 
 <b>1992</b>—Subsec. (o)(4). Pub. L. 102–318 substituted "402(c)" for "402(a)(5), 402(a)(7)".
 
-<b>1990</b>—Subsec. (t)(2)(C), (D). Pub. L. 101–508, §11802(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) "Exceptions for distributions from employee stock ownership plans" whichread as follows: "Any distribution made before January 1, 1990, to an employee from an employee stock ownership plan (as defined in section 4975(e)(7)) or a tax credit employee stock ownership plan (as defined in section 409) if—
+<b>1990</b>—Subsec. (t)(2)(C), (D). Pub. L. 101–508, §11802(a)(1), (2), redesignated subpar. (D) as (C) and struck out former subpar. (C) "Exceptions for distributions from employee stock ownership plans" which read as follows: "Any distribution made before January 1, 1990, to an employee from an employee stock ownership plan (as defined in section 4975(e)(7)) or a tax credit employee stock ownership plan (as defined in section 409) if—
 
 &emsp;"(i) such distribution is attributable to assets which have been invested in employer securities (within the meaning of section 409(l)) at all times during the 5-plan-year period preceding the plan year in which the distribution is made, and
 
@@ -1610,6 +1612,8 @@ Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall no
 
 Subsecs. (m) to (o). Pub. L. 87–792, §4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2019 Amendment
 
 Pub. L. 116–94, div. O, title I, §108(b), Dec. 20, 2019, 133 Stat. 3149, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to loans made after the date of the enactment of this Act \[Dec. 20, 2019\]."
@@ -1724,7 +1728,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
+Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision ofthe Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -1914,7 +1918,7 @@ Pub. L. 93–406, title II, §2001(i)(5), (6), Sept. 2, 1974, 88 Stat. 958, prov
 
 Amendment by section 2002(g)(10) of Pub. L. 93–406 effective on Jan. 1, 1975, see section 2002(i)(2) of Pub. L. 93–406, set out as an Effective Date note under section 4973 of this title.
 
-Amendment by section 2005(c)(3) of Pub. L. 93–406, applicable only with respect to distributions or paymentsmade after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
+Amendment by section 2005(c)(3) of Pub. L. 93–406, applicable only with respect to distributions or payments made after Dec. 31, 1973, in taxable years beginning after Dec. 31, 1973, see section 2005(d) of Pub. L. 93–406, set out as a note under section 402 of this title.
 
 Amendment by section 2007(b)(2) of Pub. L. 93–406 applicable to taxable years ending on or after Sept. 21, 1972, see section 2007(c) of Pub. L. 93–406, set out as a note under section 122 of this title.
 
@@ -2008,7 +2012,7 @@ Coronavirus-related distribution.—Except as provided in paragraph (2), the ter
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) whose spouse or dependent (as defined in section 152 of the Internal Revenue Code of 1986) is diagnosed with such virus or disease by such a test, or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) who experiences adverse financial consequences as a result of being quarantined, being furloughed or laid off or having work hours reduced due to such virus or disease, being unable to work due to lack of child care due to such virus or disease, closing or reducing hours of a business owned or operated by the individual due to such virus or disease, or otherfactors as determined by the Secretary of the Treasury (or the Secretary's delegate).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) who experiences adverse financial consequences as a result of being quarantined, being furloughed or laid off or having work hours reduced due to such virus or disease, being unable to work due to lack of child care due to such virus or disease, closing or reducing hours of a business owned or operated by the individual due to such virus or disease, or other factors as determined by the Secretary of the Treasury (or the Secretary's delegate).
 
 &emsp;&emsp;"(B)
 
@@ -2120,7 +2124,7 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Plan Amendments Not Required Until January 1, 1994
 
-For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L.102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle B \[§§521–523\] of title V of Pub. L. 102–318 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1994, see section 523 of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -16,7 +16,7 @@ Notwithstanding any other provision of law—
 
 &emsp;(2) the funds contained in such account shall be used solely to carry out the oral history program under section 2142 of this title; and
 
-&emsp;(3) the Librarian of Congress may not deposit into such account any funds donated to the Librarian which are not donated for the exclusive purpose of carrying out the oral history program under section 2142 of this title.
+&emsp;(3) the Librarian of Congress may not deposit into such account any funds donated tothe Librarian which are not donated for the exclusive purpose of carrying out the oral history program under section 2142 of this title.
 
 (Pub. L. 106–380, §4, Oct. 27, 2000, 114 Stat. 1448.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the case of each State educational agency having a plan approved by the Secretary for a fiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
+In the case of each State educational agency having a plan approved by the Secretary for afiscal year under section 6823 of this title, the Secretary shall make a grant for the year to the agency for the purposes specified in subsection (b). The grant shall consist of the allotment determined for the State educational agency under subsection (c).
 
 #### (b) Use of funds
 
@@ -64,7 +64,7 @@ In the case of each State educational agency having a plan approved by the Secre
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), from the amount appropriated under section6801 of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title—
+&emsp;&emsp;Except as provided in subparagraph (B), from the amount appropriated under section 6801 of this title for each fiscal year that remains after making the reservations under paragraph (1), the Secretary shall allot to each State educational agency having a plan approved under section 6823(c) of this title—
 
 &emsp;&emsp;&emsp;(i) an amount that bears the same relationship to 80 percent of the remainder as the number of English learners in the State bears to the number of English learners in all States, as determined in accordance with paragraph (3)(A); and
 
@@ -101,6 +101,8 @@ In the case of each State educational agency having a plan approved by the Secre
 &emsp;&emsp;(B) determine the number of immigrant children and youth in the State and in all States based only on data available from the American Community Survey conducted by the Department of Commerce, which may be multiyear estimates.
 
 (Pub. L. 89–10, title III, §3111, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1691; amended Pub. L. 114–95, title III, §3003(b), Dec. 10, 2015, 129 Stat. 1954.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -147,6 +149,8 @@ Subsec. (c)(2)(A)(ii). Pub. L. 114–95, §3003(b)(2)(D)(iii), inserted ", as d
 Subsec. (c)(3). Pub. L. 114–95, §3003(b)(2)(E), added par. (3). Former par. (3) redesignated (2).
 
 Subsec. (c)(4). Pub. L. 114–95, §3003(b)(2)(B), struck out par. (4) which related to use of data for determinations.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

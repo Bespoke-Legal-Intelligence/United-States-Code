@@ -2,9 +2,9 @@
 
 #### (a) Review of professional activities; determination of payment; determination of review authority; consultation with professional health care practitioners; standards of health care; other duties
 
-Subject to subsection (b), any quality improvement organization entering into a contractwith the Secretary under this part must perform one or more of the following functions:
+Subject to subsection (b), any quality improvement organization entering into a contract with the Secretary under this part must perform one or more of the following functions:
 
-&emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d), of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII (including where payment is made for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D) for the purpose of determining whether—
+&emsp;(1) The organization shall review some or all of the professional activities in the area, subject to the terms of the contract and subject to the requirements of subsection (d), of physicians and other health care practitioners and institutional and noninstitutional providers of health care services in the provision of health care services and items for which payment may be made (in whole or in part) under subchapter XVIII (including where payment ismade for such services to eligible organizations pursuant to contracts under section 1395mm of this title, to Medicare Advantage organizations pursuant to contracts under part C, and to prescription drug sponsors pursuant to contracts under part D) for the purpose of determining whether—
 
 &emsp;&emsp;(A) such services and items are or were reasonable and medically necessary and whether such services and items are not allowable under subsection (a)(1) or (a)(9) of section 1395y of this title;
 
@@ -46,7 +46,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(E)(i) In the case of services and items provided by a physician that were disapproved by reason of paragraph (1)(B), the notice to the patient shall state the following: "In the judgment of the quality improvement organization, the medical care received was not acceptable under the medicare program. The reasons for the denial have been discussed with your physician."
 
-&emsp;(ii) In the case of services or items provided by an entity or practitioner other than a physician, the Secretary may substitute the entity or practitioner which provided the servicesor items for the term "physician" in the notice described in clause (i).
+&emsp;(ii) In the case of services or items provided by an entity or practitioner other than a physician, the Secretary may substitute the entity or practitioner which provided the services or items for the term "physician" in the notice described in clause (i).
 
 &emsp;(4)(A) The organization shall, after consultation with the Secretary, determine the types and kinds of cases (whether by type of health care or diagnosis involved, or whether in terms of other relevant criteria relating to the provision of health care services) with respect to which such organization will, in order to most effectively carry out the purposes of this part, exercise review authority under the contract. The organization shall notify the Secretary periodically with respect to such determinations. Each quality improvement organization shall provide that a reasonable proportion of its activities are involved with reviewing, under paragraph (1)(B), the quality of services and that a reasonable allocation of such activities is made among the different cases and settings (including post-acute-care settings, ambulatory settings, and health maintenance organizations). In establishing such allocation, the organization shall consider (i) whether there is reason to believe that there is a particular need for reviews of particular cases or settings because of previous problems regarding quality of care, (ii) the cost of such reviews and the likely yield of such reviews in terms of number and seriousness of quality of care problems likely to be discovered as a result of such reviews, and (iii) the availability and adequacy of alternative quality review and assurance mechanisms.
 
@@ -66,11 +66,11 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;&emsp;(i) offer to provide, several times each year, for a physician representing the organization to meet (at a hospital or at a regional meeting) with medical and administrative staff of each hospital (the services of which are reviewed by the organization) respecting the organization's review of the hospital's services for which payment may be made under subchapter XVIII, and
 
-&emsp;&emsp;(ii) publish (not less often than annually) and distribute to providers and practitioners whose services are subject to review a report that describes the organization's findings with respect to the types of cases in which the organization has frequently determined that (I) inappropriate or unnecessary care has been provided, (II) services were rendered in an inappropriate setting, or (III)services did not meet professionally recognized standards of health care.
+&emsp;&emsp;(ii) publish (not less often than annually) and distribute to providers and practitioners whose services are subject to review a report that describes the organization's findings with respect to the types of cases in which the organization has frequently determined that (I) inappropriate or unnecessary care has been provided, (II) services were rendered in an inappropriate setting, or (III) services did not meet professionally recognized standards of health care.
 
 &emsp;(7) The organization, to the extent necessary and appropriate to the performance of the contract, shall—
 
-&emsp;&emsp;(A)(i) make arrangements to utilize the services of persons who are practitioners of, or specialists in, the various areas of medicine (including dentistry, optometry, and podiatry), or other types of health care, which persons shall, to the maximum extent practicable, be individuals engaged in the practice of their profession within the area served by such organization; and
+&emsp;&emsp;(A)(i) make arrangements to utilize the services of persons who are practitioners of, or specialists in, the various areas of medicine (including dentistry, optometry, and podiatry), or other types of health care, which persons shall, to the maximum extentpracticable, be individuals engaged in the practice of their profession within the area served by such organization; and
 
 &emsp;&emsp;(ii) in the case of psychiatric and physical rehabilitation services, make arrangements to ensure that (to the extent possible) initial review of such services be made by a physician who is trained in psychiatry or physical rehabilitation (as appropriate).<sup>1</sup>
 
@@ -104,7 +104,7 @@ Subject to subsection (b), any quality improvement organization entering into a 
 
 &emsp;(15) During each year of the contract entered into under section 1320c–2(b) of this title, the organization shall perform on-site review activities as the Secretary determines appropriate.
 
-&emsp;(16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under section 1395dd(d)(3) of this title. The organization shall provide reasonable notice of the review to the physician and hospital involved. Within the time period permitted by the Secretary,the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
+&emsp;(16) The organization shall provide for a review and report to the Secretary when requested by the Secretary under section 1395dd(d)(3) of this title. The organization shall provide reasonable notice of the review to the physician and hospital involved. Within the time period permitted by the Secretary, the organization shall provide a reasonable opportunity for discussion with the physician and hospital involved, and an opportunity for the physician and hospital to submit additional information, before issuing its report to the Secretary under such section.
 
 &emsp;(17) The organization shall execute its responsibilities under subparagraphs (A) and (B) of paragraph (1) by offering to providers, practitioners, Medicare Advantage organizations offering Medicare Advantage plans under part C, and prescription drug sponsors offering prescription drug plans under part D quality improvement assistance pertaining to prescription drug therapy. For purposes of this part and subchapter XVIII, the functions described in this paragraph shall be treated as a review function.
 
@@ -145,6 +145,8 @@ No quality improvement organization shall utilize the services of any individual
 The Secretary, in consultation with appropriate experts, shall identify methods that would be available to assist quality improvement organizations (under subsection (a)(4)) in identifying those cases which are more likely than others to be associated with a quality of services which does not meet professionally recognized standards of health care.
 
 (Aug. 14, 1935, ch. 531, title XI, §1154, as added Pub. L. 97–248, title I, §143, Sept. 3, 1982, 96 Stat. 385; amended Pub. L. 97–448, title III, §309(b)(3), (4), Jan. 12, 1983, 96 Stat. 2408, 2409; Pub. L. 99–272, title IX, §§9307(b), 9401(a), 9403(a), 9405(a), Apr. 7, 1986, 100 Stat. 193, 196, 200, 201; Pub. L. 99–509, title IX, §§9343(d), 9351(a), 9352(b), 9353(a)(1)–(3), (c)(1), Oct. 21, 1986, 100 Stat. 2040, 2043, 2044–2047; Pub. L. 100–203, title IV, §§4039(h)(3), (4), 4093(a), 4094(a)–(c)(1)(A), (2)(A), (B), 4096(c), Dec. 22, 1987, 101 Stat. 1330–135 to 1330–137, 1330–139, as amended Pub. L. 100–360, title IV, §411(e)(3), (j)(3)(A), July 1, 1988, 102 Stat. 775, 791; Pub. L. 100–360, title II, §203(d)(2), title IV, §411(j)(2), (3)(B), (4)(C), July 1, 1988, 102 Stat. 724, 775, 791; Pub. L. 100–485, title VI, §608(d)(25)(B), Oct. 13, 1988, 102 Stat. 2421; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §6224(a)(1), (b)(1), Dec. 19, 1989, 103 Stat. 2257; Pub. L. 101–508, title IV, §§4205(b)(1), (d)(1)(A), (g)(1)(A), (2)(A), 4207(a)(1)(B), formerly 4027(a)(1)(B), 4358(b)(3), Nov. 5, 1990, 104 Stat. 1388–113 to 1388–115, 1388–117, 1388–137; Pub. L. 103–432, title I, §§156(a)(2)(A), (b)(2)(A), 160(d)(4), 171(h)(2), Oct. 31, 1994, 108 Stat. 4440, 4441, 4444, 4450; Pub. L. 106–554, §1(a)(6) \[title V, §521(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–543; Pub. L. 108–173, title I, §109(a), (b), title IX, §948(d), Dec. 8, 2003, 117 Stat. 2173, 2426; Pub. L. 112–40, title II, §261(a)(2)(B), (C), (c)(2), (d), Oct. 21, 2011, 125 Stat. 423, 425.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -288,6 +290,8 @@ Subsec. (f). Pub. L. 99–509, §9353(a)(3), added subsec. (f).
 
 Subsec. (a)(2)(B). Pub. L. 97–448, §309(b)(4), struck out "posthospital" before "extended care services".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2011 Amendment
 
 Amendment by Pub. L. 112–40 applicable to contracts entered into or renewed on or after Jan. 1, 2012, see section 261(e) of Pub. L. 112–40, set out as a note under section 1320c of this title.
@@ -364,9 +368,9 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4093(b), Dec. 22, 1987, 101 Stat. 1330–136, provided that: "The amendment made bysubsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988."
+Pub. L. 100–203, title IV, §4093(b), Dec. 22, 1987, 101 Stat. 1330–136, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations made on or after April 1, 1988."
 
-Pub. L. 100–203, title IV, §4094(c)(1)(B), Dec. 22, 1987, 101 Stat. 1330–137, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the Social Security Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\]."
+Pub. L. 100–203, title IV, §4094(c)(1)(B), Dec. 22, 1987, 101 Stat. 1330–137, provided that: "The amendments made by subparagraph (A) \[amending this section\] shall apply to contracts under part B of title XI of the SocialSecurity Act \[42 U.S.C. 1320c et seq.\] entered into or renewed more than 6 months after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Pub. L. 100–203, title IV, §4094(c)(2)(C), Dec. 22, 1987, 101 Stat. 1330–137, provided that: "The amendments made by this paragraph \[amending this section\] shall apply with respect to contracts entered into or renewed on or after the date of enactment of this Act \[Dec. 22, 1987\]."
 

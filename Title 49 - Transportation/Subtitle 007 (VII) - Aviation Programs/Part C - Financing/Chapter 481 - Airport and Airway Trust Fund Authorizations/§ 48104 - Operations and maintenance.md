@@ -58,6 +58,8 @@ In subsection (b), the text of 49 App.:2205(c)(2) and (3) and the reference to f
 
 This makes a clarifying amendment to the catchline for 49:48104(b).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–254, which directed substitution of "The" for "(a)
@@ -85,6 +87,8 @@ Subsec. (c)(2)(A). Pub. L. 104–264, §103(b)(3), substituted "72.5 percent" fo
 for Fiscal Years 1993" in heading and substituted "fiscal year 1993" for "each of the fiscal years ending September 30, 1993–1995," in introductory provisions.
 
 Subsec. (c). Pub. L. 103–305, §102(b)(3), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2000 Amendment
 

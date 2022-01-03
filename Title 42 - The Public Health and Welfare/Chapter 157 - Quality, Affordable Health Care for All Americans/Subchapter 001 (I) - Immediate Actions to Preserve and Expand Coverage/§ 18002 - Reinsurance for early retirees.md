@@ -72,7 +72,7 @@
 
 #### (4) Use of payments
 
-&emsp;Amounts paid to a participating employment-based plan under this subsection shall be used to lower costs for the plan. Such payments may be used to reduce premium costs for an entity described in subsection (a)(2)(B)(i) or to reduce premium contributions, co-payments, deductibles, co-insurance, or other out-of-pocket costs for plan participants. Such payments shall not be used as general revenues for an entity described in subsection (a)(2)(B)(i). The Secretary shall develop a mechanism to monitor the appropriate use of such payments by such entities.
+&emsp;Amounts paid to a participating employment-based plan under this subsection shall beused to lower costs for the plan. Such payments may be used to reduce premium costs for an entity described in subsection (a)(2)(B)(i) or to reduce premium contributions, co-payments, deductibles, co-insurance, or other out-of-pocket costs for plan participants. Such payments shall not be used as general revenues for an entity described in subsection (a)(2)(B)(i). The Secretary shall develop a mechanism to monitor the appropriate use of such payments by such entities.
 
 #### (5) Payments not treated as income
 
@@ -99,6 +99,8 @@ There is appropriated to the Secretary, out of any moneys in the Treasury not ot
 The Secretary has the authority to stop taking applications for participation in the program based on the availability of funding under subsection (e).
 
 (Pub. L. 111–148, title I, §1102, title X, §10102(a), Mar. 23, 2010, 124 Stat. 143, 892.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

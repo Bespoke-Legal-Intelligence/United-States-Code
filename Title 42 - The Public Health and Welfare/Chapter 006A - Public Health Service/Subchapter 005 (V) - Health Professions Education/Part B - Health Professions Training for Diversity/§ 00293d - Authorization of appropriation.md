@@ -18,9 +18,11 @@ Not later than September 30, 2025, and every five years thereafter, the Secretar
 
 (July 1, 1944, ch. 373, title VII, §740, as added Pub. L. 105–392, title I, §101(a), Nov. 13, 1998, 112 Stat. 3536; amended Pub. L. 111–148, title V, §5402(b)–(d), Mar. 23, 2010, 124 Stat. 644; Pub. L. 116–136, div. A, title III, §3401(2), Mar. 27, 2020, 134 Stat. 385.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
-A prior section 293d, act July 1, 1944, ch. 373, title VII, §740, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992,106 Stat. 2032, related to educational assistance regarding undergraduates, prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 293d, act July 1, 1944, ch. 373, title VII, §740, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2032, related to educational assistance regarding undergraduates, prior to the general amendment of this part by Pub. L. 105–392.
 
 Another prior section 293d, act July 1, 1944, ch. 373, title VII, §724, formerly §727, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 170; amended Nov. 18, 1971, Pub. L. 92–157, title I, §102(j)(7)(B), 85 Stat. 437; renumbered §724 and amended Oct. 12, 1976, Pub. L. 94–484, title III, §308(c), (d), 90 Stat. 2257, related to promulgation of regulations by Secretary, prior to the general revision of this subchapter by Pub. L. 102–408.
 

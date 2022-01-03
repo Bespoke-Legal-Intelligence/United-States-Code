@@ -62,7 +62,7 @@ In this section:
 
 #### (B) Subagreements
 
-&emsp;&emsp;Nothing in this subsection prevents a State department of agriculture from usingfunds received under paragraph (4) to enter into subagreements with political subdivisions of the State that have legal responsibilities relating to agricultural plant pest and disease surveillance.
+&emsp;&emsp;Nothing in this subsection prevents a State department of agriculture from using funds received under paragraph (4) to enter into subagreements with political subdivisions of the State that have legal responsibilities relating to agricultural plant pest and disease surveillance.
 
 #### (C) Non-Federal share
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (7) Reporting requirement
 
-&emsp;Not later than 90 days after the date of completion of an early plant pest detection and surveillance activity conducted by a State department of agriculture using funds provided under this section, the State department of agriculture shall submit to the Secretary a report that describes the purposes and results of the activities.
+&emsp;Not later than 90 days after the date of completion of an early plant pest detection andsurveillance activity conducted by a State department of agriculture using funds provided under this section, the State department of agriculture shall submit to the Secretary a report that describes the purposes and results of the activities.
 
 #### (c) Threat identification and mitigation program
 
@@ -200,7 +200,9 @@ Indirect costs charged against a cooperative agreement under this section shall 
 
 &emsp;(2) the indirect cost rate applicable to the recipient as otherwise established by law.
 
-(Pub. L. 106–224, title IV, §420, as added Pub. L. 110–234, title X, §10201(a), May 22, 2008, 122 Stat. 1339, and Pub. L. 110–246, §4(a), title X, §10201(a), June 18, 2008, 122 Stat. 1664, 2101; Pub. L. 113–79, title X, §10007(a), (b), (d), Feb. 7, 2014, 128 Stat. 947, 948.)
+(Pub. L. 106–224, title IV, §420, as added Pub. L. 110–234, title X, §10201(a), May 22, 2008, 122 Stat. 1339, and Pub. L. 110–246, §4(a), title X, §10201(a), June 18, 2008, 122 Stat. 1664, 2101; Pub. L. 113–79,title X, §10007(a), (b), (d), Feb. 7, 2014, 128 Stat. 947, 948.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -219,6 +221,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 Subsec. (f)(4) to (6). Pub. L. 113–79, §10007(b), substituted semicolon at end for "and each fiscal year thereafter." in par. (4), and added pars. (5) and (6).
 
 Subsecs. (g), (h). Pub. L. 113–79, §10007(d), added subsecs. (g) and (h).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

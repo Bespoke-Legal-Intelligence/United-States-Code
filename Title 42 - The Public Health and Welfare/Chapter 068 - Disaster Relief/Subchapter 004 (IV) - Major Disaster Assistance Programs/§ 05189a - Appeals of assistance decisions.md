@@ -40,6 +40,8 @@ The President shall issue rules which provide for the fair and impartial conside
 
 (Pub. L. 93–288, title IV, §423, as added Pub. L. 100–707, title I, §106(l), Nov. 23, 1988, 102 Stat. 4705; amended Pub. L. 115–254, div. D, §1219, Oct. 5, 2018, 132 Stat. 3452.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 601 of Public Law 111–5, referred to in subsec. (d)(5)(A), is Pub. L. 111–5, div. A, title VI, §601, Feb. 17, 2009, 123 Stat. 164, which is not classified to the Code.
@@ -47,6 +49,8 @@ Section 601 of Public Law 111–5, referred to in subsec. (d)(5)(A), is Pub. L. 
 #### Amendments
 
 <b>2018</b>—Subsec. (d). Pub. L. 115–254 added subsec. (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 
@@ -94,7 +98,7 @@ Considerations.—The procedures established under this section shall—
 
 &emsp;&emsp;"(A) allow a party of a dispute relating to eligible assistance to request an independent review panel for the review;
 
-&emsp;&emsp;"(B) require a party requesting an independent review panel as described in subparagraph (A) toagree to forgo rights to any further appeal of the dispute relating to any eligible assistance;
+&emsp;&emsp;"(B) require a party requesting an independent review panel as described in subparagraph (A) to agree to forgo rights to any further appeal of the dispute relating to any eligible assistance;
 
 &emsp;&emsp;"(C) require that the sponsor of an independent review panel for any alternative dispute resolution under this section be—
 

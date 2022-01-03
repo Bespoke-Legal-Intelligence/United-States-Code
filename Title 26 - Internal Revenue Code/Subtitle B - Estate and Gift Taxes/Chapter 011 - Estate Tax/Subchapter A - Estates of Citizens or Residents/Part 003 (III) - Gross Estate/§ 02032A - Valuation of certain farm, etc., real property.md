@@ -60,7 +60,7 @@
 
 &emsp;For purposes of paragraph (1), the term "adjusted value" means—
 
-&emsp;&emsp;(A) in the case of the gross estate, the value of the gross estate for purposes of this chapter (determined without regard to this section), reduced by any amounts allowable as a deduction under paragraph (4) of section 2053(a), or
+&emsp;&emsp;(A) in the case of the gross estate, the value of the gross estate for purposes of this chapter (determined without regard to this section), reduced by any amounts allowableas a deduction under paragraph (4) of section 2053(a), or
 
 &emsp;&emsp;(B) in the case of any real or personal property, the value of such property for purposes of this chapter (determined without regard to this section), reduced by any amounts allowable as a deduction in respect of such property under paragraph (4) of section 2053(a).
 
@@ -294,11 +294,11 @@ For purposes of this section—
 
 &emsp;&emsp;Except as provided in subparagraph (B), the value of a farm for farming purposes shall be determined by dividing—
 
-&emsp;&emsp;&emsp;(i) the excess of the average annual gross cash rental for comparable land used for farming purposes and located in the locality of such farm over the average annual State and local real estate taxes for such comparable land, by
+&emsp;&emsp;&emsp;(i) the excess of the average annual gross cash rental for comparable land used forfarming purposes and located in the locality of such farm over the average annual State and local real estate taxes for such comparable land, by
 
 &emsp;&emsp;&emsp;(ii) the average annual effective interest rate for all new Federal Land Bank loans.
 
-> &emsp;&emsp;For purposes of the preceding sentence, each average annual computation shall be madeon the basis of the 5 most recent calendar years ending before the date of the decedent's death.
+> &emsp;&emsp;For purposes of the preceding sentence, each average annual computation shall be made on the basis of the 5 most recent calendar years ending before the date of the decedent's death.
 
 #### (B) Value based on net share rental in certain cases
 
@@ -522,6 +522,8 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -628,6 +630,8 @@ Subsec. (f)(1). Pub. L. 95–472, §4(c), inserted provision relating to the exp
 
 Subsec. (h). Pub. L. 95–472, §4(a), added subsec. (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2017 Amendment
 
 Amendment by Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under section 1 of this title.
@@ -638,7 +642,7 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made,after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
+Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
 Pub. L. 105–34, title V, §504(c), Aug. 5, 1997, 111 Stat. 854, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to leases entered into after December 31, 1976."
 
@@ -734,7 +738,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
 
-Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: "If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of anyoverpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act."
+Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: "If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of any overpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act."
 
 #### Information Necessary for Valid Special Use Valuation Election
 

@@ -4,11 +4,13 @@ The Bureau shall by regulation exempt from the requirements of this subchapter a
 
 (Pub. L. 90–321, title IX, §922, formerly §920, as added Pub. L. 95–630, title XX, §2001, Nov. 10, 1978, 92 Stat. 3741; renumbered §921, Pub. L. 111–24, title IV, §401(1), May 22, 2009, 123 Stat. 1751; renumbered §922 and amended Pub. L. 111–203, title X, §§1073(a)(3), 1084(1), July 21, 2010, 124 Stat. 2060, 2081.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 922 of Pub. L. 90–321 is classified to section 1693q of this title.
 
-Renumbering of section 920 of Pub. L. 90–321 as section 921 by section 401(1) of Pub. L. 111–24 was executed prior to the renumbering of section 921 of Pub. L. 90–321 as section 922 by section 1073(a)(3) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693l–1 of this title and section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumbering by Pub. L. 111–203 was effective 1 day after July 21, 2010.
+Renumbering of section 920 of Pub. L. 90–321 as section 921 by section 401(1) of Pub. L. 111–24 was executed prior to the renumbering of section 921 of Pub. L. 90–321 as section 922 by section 1073(a)(3) of Pub. L. 111–203 as the probable intent of Congress, notwithstanding section 403 of Pub. L. 111–24, set out as an Effective Date note under section 1693l–1 of this title and section 4 ofPub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking, which provided that the renumbering by Pub. L. 111–24 was effective 15 months after May 22, 2009, and the renumbering by Pub. L. 111–203 was effective 1 day after July 21, 2010.
 
 #### Prior Provisions
 
@@ -17,6 +19,8 @@ A prior section 922 of Pub. L. 90–321 was renumbered section 923 and is classi
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

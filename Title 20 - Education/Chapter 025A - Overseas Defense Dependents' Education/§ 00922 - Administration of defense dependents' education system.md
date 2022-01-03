@@ -26,13 +26,15 @@ The Director shall—
 
 #### (d) Establishment of regional or area offices; reports to Congress on reorganizations; authorized number of civilian employees
 
-(1) The Director shall establish appropriate regional or area offices in order to provide forthorough and efficient administration of the defense dependents' education system.
+(1) The Director shall establish appropriate regional or area offices in order to provide for thorough and efficient administration of the defense dependents' education system.
 
 (2) Whenever the Department of Defense Education Activity is reorganized in a manner that affects the defense dependents' education system, the Secretary of Defense shall submit a report to the Congress describing the reorganization.
 
 (3) Subject to the approval of the Secretary of Defense, the Department of Defense Education Activity is authorized an appropriate number of civilian employees in its central office and such regional or area office as are established pursuant to paragraph (1).
 
 (Pub. L. 95–561, title XIV, §1403, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 106–65, div. A, title III, §354(2), Oct. 5, 1999, 113 Stat. 572; Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(g)(8)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–294.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

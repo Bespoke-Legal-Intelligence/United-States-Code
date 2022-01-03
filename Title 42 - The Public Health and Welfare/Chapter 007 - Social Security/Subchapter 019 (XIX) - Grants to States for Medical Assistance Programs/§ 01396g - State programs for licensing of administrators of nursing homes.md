@@ -16,7 +16,7 @@ It shall be the function and duty of such agency or board to—
 
 &emsp;(2) develop and apply appropriate techniques, including examinations and investigations, for determining whether an individual meets such standards;
 
-&emsp;(3) issue licenses to individuals determined, after the application of such techniques, to meet such standards, and revoke or suspend licenses previously issued by the board in any case where the individual holding any such license is determined substantially to have failed to conform to the requirements of such standards;
+&emsp;(3) issue licenses to individuals determined, after the application of such techniques, to meet such standards, and revoke or suspend licenses previously issued by the board in any case where the individual holding any such license is determined substantially to havefailed to conform to the requirements of such standards;
 
 &emsp;(4) establish and carry out procedures designed to insure that individuals licensed as nursing home administrators will, during any period that they serve as such, comply with the requirements of such standards;
 
@@ -41,6 +41,8 @@ As used in this section, the term—
 #### Repeal of Section
 
 <i>Pub. L. 101–508, title IV, §4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under section 1396r(f)(4) of this title, this section is repealed.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -67,6 +69,8 @@ Subsec. (g). Pub. L. 93–233, redesignated subsec. (g) as (e).
 <b>1972</b>—Subsec. (d). Pub. L. 92–603, §§269, 274(b), inserted references to the grant of waivers to individuals who, during all of the three calendar years immediately preceding the calendar year in which the requirements prescribed in section 1396a(a)(29) of this title are first met by the State, have served as nursing home administrators and substituted "subsection (c)(1)" for "subsection (b)(1)".
 
 Subsec. (g)(1). Pub. L. 92–603, §268(b), inserted ", but does not include a Christian Science sanatorium operated, or listed and certified, by the First Church of Christ, Scientist, Boston, Massachusetts" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

@@ -16,7 +16,7 @@ A person described in this subsection is—
 
 &emsp;(2) in the case of merchandise suspected of being imported in violation of section 602 of title 17, the owner of the copyright suspected of being infringed by the merchandise;
 
-&emsp;(3) in the case of merchandise suspected of being primarily designed or produced for the purpose of circumventing a technological measure that effectively controls access to a work protected under that title, and being imported in violation of section 1201(a)(2) of thattitle, the owner of a copyright in the work; and
+&emsp;(3) in the case of merchandise suspected of being primarily designed or produced for the purpose of circumventing a technological measure that effectively controls access to a work protected under that title, and being imported in violation of section 1201(a)(2) of that title, the owner of a copyright in the work; and
 
 &emsp;(4) in the case of merchandise suspected of being primarily designed or produced for the purpose of circumventing protection afforded by a technological measure that effectively protects a right of an owner of a copyright in a work or a portion of a work, and being imported in violation of section 1201(b)(1) of that title, the owner of the copyright.
 

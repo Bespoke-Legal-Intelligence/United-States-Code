@@ -14,7 +14,7 @@ Pub. L. 104–185, §4(a), which directed the addition of this section at the en
 
 #### Effective Date
 
-Section applicable with respect to production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as anEffective Date of 1996 Amendment note under section 1701 of this title.
+Section applicable with respect to production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as an Effective Date of 1996 Amendment note under section 1701 of this title.
 
 #### Applicability
 

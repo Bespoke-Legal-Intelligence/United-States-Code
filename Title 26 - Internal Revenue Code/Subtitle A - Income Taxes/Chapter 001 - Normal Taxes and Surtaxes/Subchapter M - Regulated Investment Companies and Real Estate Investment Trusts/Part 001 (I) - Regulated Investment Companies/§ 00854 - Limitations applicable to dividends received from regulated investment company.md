@@ -44,7 +44,7 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 
 #### (i) Subparagraph (a)
 
-&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph (A) shall not exceed the aggregate dividends received by the company for the taxable year.
+&emsp;&emsp;&emsp;The aggregate amount which may be reported as dividends under subparagraph\(A) shall not exceed the aggregate dividends received by the company for the taxable year.
 
 #### (ii) Subparagraph (b)
 
@@ -89,6 +89,8 @@ For purposes of section 1(h)(11) (relating to maximum rate of tax on dividends) 
 &emsp;For purposes of this subsection, the term "qualified dividend income" has the meaning given such term by section 1(h)(11)(B).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 273; Pub. L. 88–272, title II, §§201(d)(8)–(10), 229(a)(4), Feb. 26, 1964, 78 Stat. 32, 99; Pub. L. 96–223, title IV, §404(b)(6), Apr. 2, 1980, 94 Stat. 307; Pub. L. 97–34, title III, §302(c)(4), (d)(1), Aug. 13, 1981, 95 Stat. 272, 274; Pub. L. 98–369, div. A, title I, §§16(a), 52(a)–(c), July 18, 1984, 98 Stat. 505, 564, 565; Pub. L. 99–514, title VI, §§612(b)(6), 655(a)(4), Oct. 22, 1986, 100 Stat. 2250, 2299; Pub. L. 100–203, title X, §10221(d)(3), Dec. 22, 1987, 101 Stat. 1330–409; Pub. L. 100–647, title I, §1006(b)(2), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 108–27, title III, §302(c), May 28, 2003, 117 Stat. 762; Pub. L. 108–311, title IV, §402(a)(5)(A)–(D), Oct. 4, 2004, 118 Stat. 1184; Pub. L. 111–325, title III, §301(e), Dec. 22, 2010, 124 Stat. 3544.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -152,6 +154,8 @@ Subsec. (b)(4). Pub. L. 98–369, §52(b), added par. (4).
 
 Subsec. (b). Pub. L. 88–272, §§201(d)(9), (10), 229(a)(4), substituted "45 days" for "30 days" in par. (2), and struck out "the credit under section 34(a)," before "the exclusion" in par. (1), and "the credit under section 34," before "the exclusion" in par. (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective and Termination Dates of 2010 Amendment
 
 Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 301(h) of Pub. L. 111–325, set out as an Effective Date of 2010 Amendment note under section 852 of this title.
@@ -164,7 +168,7 @@ Amendment by Pub. L. 108–311 effective as if included in section 302 of the Jo
 
 #### Effective Date of 2003 Amendment
 
-Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set out as an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
+Amendment by Pub. L. 108–27 applicable, except as otherwise provided, to taxable years beginning after Dec. 31, 2002, see section 302(f) of Pub. L. 108–27, set outas an Effective and Termination Dates of 2003 Amendment note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment
 

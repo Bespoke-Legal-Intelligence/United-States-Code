@@ -6,7 +6,7 @@ The Administrator may guarantee the timely payment of principal and interest, as
 
 #### (b) Terms and conditions
 
-The Administrator may make guarantees under this section on such terms and conditions as it deems appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
+The Administrator may make guarantees under this section on such terms and conditionsas it deems appropriate, except that the term of any debenture guaranteed under this section shall not exceed 15 years.
 
 #### (c) Full faith and credit of the United States
 
@@ -41,6 +41,8 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 &emsp;&emsp;(B) the total amount of leverage projected in the participation agreement of the covered New Markets Venture Capital.
 
 (Pub. L. 85–699, title III, §355, as added Pub. L. 106–554, §1(a)(8) \[§1(b)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–658; amended Pub. L. 111–240, title I, §1115, Sept. 27, 2010, 124 Stat. 2508.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

@@ -104,7 +104,7 @@ Of the funds made available to carry out this section, not more than five percen
 
 #### (2) Matching requirement
 
-&emsp;Each subcontractor shall provide funds for the Project GRAD program in an amount thatis equal to the amount received by the subcontractor from the contractor. Such matching funds may be provided in cash or in kind, fairly evaluated.
+&emsp;Each subcontractor shall provide funds for the Project GRAD program in an amount that is equal to the amount received by the subcontractor from the contractor. Such matching funds may be provided in cash or in kind, fairly evaluated.
 
 #### (3) Waiver authority
 

@@ -2,13 +2,15 @@
 
 #### (a) Appropriations authorized; purposes
 
-There are authorized to be appropriated annually such sums as are necessary to implement sections 577c, 577d, and 577e to 577h of this title: <i>Provided</i>, That the total appropriations under the authority of said sections shall not exceed $9,000,000 for the purchase and condemnation of lands, water, or interests therein, and that funds made available through the provisions of chapter 2003 of title 54, may also be used for such acquisitions: <i>Provided further</i>, That such appropriations may be used for the payment of court judgments in condemnation actions brought under authority of sections 577c, 577d, and 577e to 577h of this title without regard to the date such actions were initially instituted.
+There are authorized to be appropriated annually such sums as are necessary to implementsections 577c, 577d, and 577e to 577h of this title: <i>Provided</i>, That the total appropriations under the authority of said sections shall not exceed $9,000,000 for the purchase and condemnation of lands, water, or interests therein, and that funds made available through the provisions of chapter 2003 of title 54, may also be used for such acquisitions: <i>Provided further</i>, That such appropriations may be used for the payment of court judgments in condemnation actions brought under authority of sections 577c, 577d, and 577e to 577h of this title without regard to the date such actions were initially instituted.
 
 #### (b) Reports on acquisitions
 
 Not later than March 1 of each year 1977 through 1980, the Secretary of Agriculture shall submit to the Congress a report concerning the acquisition of lands or interests in lands under sections 577c, 577d, and 577e to 577h of this title. The final report of the Secretary shall specify whether additional authorizations or appropriations are necessary to carry out the purposes of said sections.
 
 (June 22, 1948, ch. 593, §6, 62 Stat. 570; June 22, 1956, ch. 425, §3, 70 Stat. 328; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772; Pub. L. 94–384, Aug. 13, 1976, 90 Stat. 1123; Pub. L. 113–287, §5(d)(19), Dec. 19, 2014, 128 Stat. 3266.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -19,6 +21,8 @@ Not later than March 1 of each year 1977 through 1980, the Secretary of Agricult
 <b>1961</b>—Pub. L. 87–351 increased appropriation for purchase and condemnation of land from $2,500,000 to $4,500,000.
 
 <b>1956</b>—Act June 22, 1956, increased appropriation for purchase and condemnation of land from $500,000 to $2,500,000.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Availability of Appropriations
 

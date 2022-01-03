@@ -16,7 +16,7 @@ The Secretary shall make available, directly or through agreements with States u
 
 &emsp;(5) Short-term prevocational services, including development of learning skills, communications skills, interviewing skills, punctuality, personal maintenance skills, and professional conduct to prepare individuals for employment or training.
 
-&emsp;(6) Individual career counseling, including job search and placement counseling, during the period in which the individual is receiving a trade adjustment allowance or trainingunder this part, and after receiving such training for purposes of job placement.
+&emsp;(6) Individual career counseling, including job search and placement counseling, during the period in which the individual is receiving a trade adjustment allowance or training under this part, and after receiving such training for purposes of job placement.
 
 &emsp;(7) Provision of employment statistics information, including the provision of accurate information relating to local, regional, and national labor market areas, including—
 
@@ -35,6 +35,8 @@ The Secretary shall make available, directly or through agreements with States u
 #### Reversion to Provisions in Effect on January 1, 2014
 
 <i>For reversion, beginning on July 1, 2021, to provisions in effect on Jan. 1, 2014, with certain exceptions and subject to section 406(b) of Pub. L. 114–27, see Codification and Effective and Termination Dates of 2015 Revival notes below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,8 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 <b>2002</b>—Pub. L. 107–210 inserted ", including the services provided through one-stop delivery systems described in section 2864(c) of title 29" before period at end of first sentence.
 
 <b>1988</b>—Pub. L. 100–418 substituted "the States" for "cooperating State agencies".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective and Termination Dates of 2015 Revival
 
@@ -82,5 +86,5 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Termination Date
 
-No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be providedunder this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this section after June 30, 2021, except as otherwise provided, see section 285 of Pub. L. 93–618, set out as a note preceding section 2271 of this title.
 

@@ -10,7 +10,7 @@ The Commission is authorized to receive, adjudicate according to law, and provid
 
 #### (c) Persons entitled to payments
 
-Claims pursuant to subsection (b) shall be paid to the person entitled thereto, and shall in caseof death of the persons who are entitled be payable only to or for the benefit of the following persons:
+Claims pursuant to subsection (b) shall be paid to the person entitled thereto, and shall in case of death of the persons who are entitled be payable only to or for the benefit of the following persons:
 
 &emsp;(1) Widow or husband if there is no child or children of the deceased;
 
@@ -122,6 +122,8 @@ Where any person entitled to payment under this section is under any legal disab
 
 (July 3, 1948, ch. 826, title I, §6, 62 Stat. 1244; Sept. 30, 1950, ch. 1116, 64 Stat. 1090; Apr. 9, 1952, ch. 167, §1, 66 Stat. 47; Apr. 9, 1952, ch. 168, §2, 66 Stat. 49; Aug. 21, 1954, ch. 784, §2, 68 Stat. 761; Aug. 31, 1954, ch. 1162, title I, §102(a)(1), 68 Stat. 1034; Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107; Pub. L. 91–289, §§1, 2, June 24, 1970, 84 Stat. 323.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was formerly classified to section 2005 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -150,11 +152,11 @@ Subsec. (d). Act Apr. 9, 1952, ch. 167, added subsec. (d). Another subsec. (d), 
 
 <b>1950</b>—Subsec. (c)(4). Act Sept. 30, 1950, removed requirement of dependency upon which parents were entitled to benefits.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
-
-War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 
 #### Compensation for Persons Awarded Prisoner of War Medal Who Did Not Previously Receive Compensation as Prisoner of War
 
@@ -179,4 +181,10 @@ Amount of Payment.—The amount of the payment to any person under this section 
 "(d)
 
 One-Year Period for Submission of Applications.—A payment may be made by reason of this section only in the case of a person who submits an application to the Secretary concerned for such payment during the one-year period beginning on the date of the enactment of this Act \[Sept. 23, 1996\]. Any such application shall be submitted in such form and manner as the Secretary may require."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 

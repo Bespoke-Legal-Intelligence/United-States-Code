@@ -22,11 +22,13 @@
 
 (Added Pub. L. 96–579, §5(b)(1), Dec. 23, 1980, 94 Stat. 3366; amended Pub. L. 107–314, div. A, title V, §574(a)–(b)(2)(A), Dec. 2, 2002, 116 Stat. 2558; Pub. L. 108–136, div. A, title VI, §621(b), Nov. 24, 2003, 117 Stat. 1505; Pub. L. 110–181, div. A, title V, §552, Jan. 28, 2008, 122 Stat. 117; Pub. L. 115–91, div. A, title VI, §618(d), Dec. 12, 2017, 131 Stat. 1426.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (a). Pub. L. 115–91 inserted "or 352" after "section 314" in concluding provisions.
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted "for members whose qualifying tour of duty is 12 months orless, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months," after "for not more than 15 days".
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–181 inserted "for members whose qualifying tour of duty is 12 months or less, or for not more than 20 days for members whose qualifying tour of duty is longer than 12 months," after "for not more than 15 days".
 
 2003–Pub. L. 108–136, §621(b)(2), struck out "enlisted" before "members" in section catchline.
 
@@ -35,6 +37,8 @@ Subsec. (a). Pub. L. 108–136, §621(b)(1), substituted "a member" for "an enli
 <b>2002</b>—Pub. L. 107–314, §574(b)(2)(A), substituted "recuperation absence: qualified enlisted members" for "recuperative absence for qualified enlisted members" in section catchline.
 
 Subsec. (b). Pub. L. 107–314 substituted "recuperation" for "recuperative" in pars. (1) and (2) and inserted before period at end of par. (2) ", or to an alternative destination and return at a cost not to exceed the cost of round-trip transportation from the location of the extended tour of duty to such nearest port".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

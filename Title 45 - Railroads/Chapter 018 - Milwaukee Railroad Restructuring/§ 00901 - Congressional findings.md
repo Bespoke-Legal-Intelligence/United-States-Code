@@ -26,7 +26,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, 821, and 825 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, former section 821, and section 825 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 
@@ -52,5 +52,5 @@ Pub. L. 97–468, title II, §212, Jan. 14, 1983, 96 Stat. 2543, provided that: 
 
 &emsp;"(3) it is in the public interest that the Interstate Commerce Commission's authority to issue orders involving temporary authority to operate service over lines of carriers subject to liquidation be clarified."
 
-\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under section 1301 of Title 49.\]
+\[Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by section 1302 of Title 49, Transportation, and section 101 of Pub. L. 104–88, set out as a note under section 1301 of Title 49. References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub.L. 104–88, set out as a note under section 1301 of Title 49.\]
 

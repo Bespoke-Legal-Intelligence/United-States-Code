@@ -14,7 +14,7 @@
 
 #### (2) Insurance coverage of consolidation loans
 
-&emsp;Except as provided in section 1079(e) of this title, no contract of insurance under this partshall apply to a consolidation loan unless such loan is made under an agreement pursuant to this section and is covered by a certificate issued in accordance with subsection (b)(2). Loans covered by such a certificate that is issued by a guaranty agency shall be considered to be insured loans for the purposes of reimbursements under section 1078(c) of this title, but no payment shall be made with respect to such loans under section 1078(f) of this title to any such agency.
+&emsp;Except as provided in section 1079(e) of this title, no contract of insurance under this part shall apply to a consolidation loan unless such loan is made under an agreement pursuant to this section and is covered by a certificate issued in accordance with subsection (b)(2). Loans covered by such a certificate that is issued by a guaranty agency shall be considered to be insured loans for the purposes of reimbursements under section 1078(c) of this title, but no payment shall be made with respect to such loans under section 1078(f) of this title to any such agency.
 
 #### (3) Definition of eligible borrower
 
@@ -66,7 +66,7 @@
 
 #### (1) Agreements with lenders
 
-&emsp;Any lender described in subparagraph (A), (B), or (C) of subsection (a)(1) who wishes to make consolidation loans under this section shall enter into an agreement with the Secretary or a guaranty agency which provides—
+&emsp;Any lender described in subparagraph (A), (B), or (C) of subsection (a)(1) who wishes tomake consolidation loans under this section shall enter into an agreement with the Secretary or a guaranty agency which provides—
 
 &emsp;&emsp;(A) that, in the case of all lenders described in subsection (a)(1), the lender will make a consolidation loan to an eligible borrower (on request of that borrower) only if the borrower certifies that the borrower has no other application pending for a loan under this section;
 
@@ -84,7 +84,7 @@
 
 &emsp;&emsp;&emsp;(ii) with respect to Federal Perkins Loans under part E—
 
-&emsp;&emsp;&emsp;&emsp;(I) that if a borrower includes a Federal Perkins Loan under part E in theconsolidation loan, the borrower will lose all interest-free periods that would have been available for the Federal Perkins Loan, such as—
+&emsp;&emsp;&emsp;&emsp;(I) that if a borrower includes a Federal Perkins Loan under part E in the consolidation loan, the borrower will lose all interest-free periods that would have been available for the Federal Perkins Loan, such as—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the periods during which no interest accrues on such loan while the borrower is enrolled in school at least half-time;
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;(D) the aggregate amount to which the certificate applies;
 
-&emsp;&emsp;(E) the reporting requirements of the Secretary on the lender and an identification of the office of the Department of Education or of the guaranty agency which will process claims and perform other related administrative functions;
+&emsp;&emsp;(E) the reporting requirements of the Secretary on the lender and an identification of the office of the Department of Education or of the guaranty agency which will processclaims and perform other related administrative functions;
 
 &emsp;&emsp;(F) the alternative repayment terms which will be offered to borrowers by the lender;
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(ii) provides that interest shall accrue and be paid during any such period—
 
-&emsp;&emsp;&emsp;(I) by the Secretary, in the case of a consolidation loan for which the application isreceived by an eligible lender before November 13, 1997, that consolidated only Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title;
+&emsp;&emsp;&emsp;(I) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender before November 13, 1997, that consolidated only Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title;
 
 &emsp;&emsp;&emsp;(II) by the Secretary, in the case of a consolidation loan for which the application is received by an eligible lender on or after November 13, 1997, except that the Secretary shall pay such interest only on that portion of the loan that repays Federal Stafford Loans for which the student borrower received an interest subsidy under section 1078 of this title or Federal Direct Stafford Loans for which the borrower received an interest subsidy under section 1087e of this title; or
 
@@ -180,7 +180,7 @@
 
 #### (1) Interest rate
 
-&emsp;(A) Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender—
+&emsp;(A) Notwithstanding subparagraphs (B) and (C), with respect to any loan made under thissection for which the application is received by an eligible lender—
 
 &emsp;&emsp;(i) on or after October 1, 1998, and before July 1, 2006, the applicable interest rate shall be determined under section 1077a(k)(4) of this title; or
 
@@ -242,7 +242,7 @@
 
 #### (B) Applicability rule
 
-&emsp;&emsp;Unless otherwise provided in this subsection, the agreements entered into under subparagraph (A) and the loans made under such agreements for the consolidation of eligible student loans under this subsection shall have the same terms, conditions, and benefits as all other agreements and loans made under this section.
+&emsp;&emsp;Unless otherwise provided in this subsection, the agreements entered into undersubparagraph (A) and the loans made under such agreements for the consolidation of eligible student loans under this subsection shall have the same terms, conditions, and benefits as all other agreements and loans made under this section.
 
 #### (C) "Eligible student loans" defined
 
@@ -306,7 +306,9 @@ The authority to make loans under this section expires at the close of June 30, 
 
 &emsp;The Secretary shall deposit all fees collected pursuant to this subsection into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121 Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246; Pub. L. 111–39, title IV, §402(c)(1), (f)(3), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2206(a), Mar. 30, 2010, 124 Stat. 1075.)
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8; Pub. L. 109–171, title VIII, §§8004(b)(3), 8009(a), (b)(2), (c), Feb. 8, 2006, 120 Stat. 158, 163, 164; Pub. L. 109–234, title VII, §7015(a), (c), (d), June 15, 2006, 120 Stat. 485; Pub. L. 110–84, title II, §203(b)(1), (2), Sept. 27, 2007, 121Stat. 794, 795; Pub. L. 110–315, title IV, §§425(a)–(b)(2), (c), (d)(1), (e), 432(b)(3), Aug. 14, 2008, 122 Stat. 3233–3235, 3246; Pub. L. 111–39, title IV, §402(c)(1), (f)(3), July 1, 2009, 123 Stat. 1940, 1943; Pub. L. 111–152, title II, §2206(a), Mar. 30, 2010, 124 Stat. 1075.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -332,7 +334,7 @@ Subsec. (c)(1)(A)(ii). Pub. L. 111–152, §2206(a)(3)(A), inserted "and that is
 
 Subsec. (c)(1)(C). Pub. L. 111–152, §2206(a)(3)(B), inserted "and disbursed before July 1, 2010," after "1994,".
 
-Subsec. (e). Pub. L. 111–152, §2206(a)(4), substituted "June 30, 2010. No loan may be made under this sectionfor which the disbursement is on or after July 1, 2010." for "September 30, 2014."
+Subsec. (e). Pub. L. 111–152, §2206(a)(4), substituted "June 30, 2010. No loan may be made under this section for which the disbursement is on or after July 1, 2010." for "September 30, 2014."
 
 <b>2009</b>—Subsec. (a)(4)(E). Pub. L. 111–39, §402(f)(3)(A), substituted "part E" for "subpart II of part B".
 
@@ -396,7 +398,7 @@ Pub. L. 109–171, §8009(a)(2), which directed substitution of "In the event th
 
 Subsec. (e). Pub. L. 109–171, §8004(b)(3), substituted "2012" for "2004".
 
-<b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–139 amended subpar. (A) generally. Prior to amendment, subpar. (A)read as follows: "Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003, the applicable interest rate shall be determined under section 1077a(k)(4) of this title."
+<b>2002</b>—Subsec. (c)(1)(A). Pub. L. 107–139 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003, the applicable interest rate shall be determined under section 1077a(k)(4) of this title."
 
 <b>1998</b>—Subsec. (a)(3). Pub. L. 105–244, §420(a), amended heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which defined the term "eligible borrower", provided for termination of individual's status as an eligible borrower, and provided for counting loans against certain limitations on aggregate indebtedness.
 
@@ -520,6 +522,8 @@ Subsec. (c)(2)(A)(v). Pub. L. 100–50, §10(s)(6), substituted "equal to or gre
 
 Subsec. (c)(5). Pub. L. 100–50, §10(s)(7), inserted ", but a fee may be payable by the lender to the guaranty agency to cover the costs of increased or extended liability with respect to such loan" before period at end.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), except as otherwise provided, see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
@@ -544,7 +548,7 @@ Exception.—The amendments made by subsection (b)(1) \[amending this section\] 
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–234, title VII, §7015(b), June 15, 2006, 120 Stat. 485, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any loan made under section 428C of the HigherEducation Act of 1965 (20 U.S.C. 1078–3) for which the application is received by an eligible lender on or after the date of enactment of this Act \[June 15, 2006\]."
+Pub. L. 109–234, title VII, §7015(b), June 15, 2006, 120 Stat. 485, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to any loan made under section 428C of the Higher Education Act of 1965 (20 U.S.C. 1078–3) for which the application is received by an eligible lender on or after the date of enactment of this Act \[June 15, 2006\]."
 
 Amendment by Pub. L. 109–171 effective July 1, 2006, except as otherwise provided, see section 8001(c) of Pub. L. 109–171, set out as a note under section 1002 of this title.
 

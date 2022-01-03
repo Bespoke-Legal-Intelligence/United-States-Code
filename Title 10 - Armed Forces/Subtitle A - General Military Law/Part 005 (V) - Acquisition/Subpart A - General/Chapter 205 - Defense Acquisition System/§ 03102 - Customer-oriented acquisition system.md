@@ -14,11 +14,31 @@ Role of Customer.—The customer of a major defense acquisition program shall be
 
 (Added Pub. L. 114–92, div. A, title VIII, §802(a)(1), Nov. 25, 2015, 129 Stat. 878, §2546a; renumbered §3102 and amended Pub. L. 116–283, div. A, title XVIII, §1808(a)(2), (3)(A), Jan. 1, 2021, 134 Stat. 4159.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283 renumbered section 2546a of this title as this section and transferred it so as to appear after section 3101 of this title. Directory language transferring this section "within such section" was executed as if it had read "within such chapter", meaning chapter 205 of this title, to reflect the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Consideration of Trade-Offs Among Cost, Schedule, and Performance Objectives in Department of Defense Acquisition Programs
+
+Pub. L. 111–23, title II, §201(a), May 22, 2009, 123 Stat. 1719, provided that:
+
+"(1)
+
+In general.—The Secretary of Defense shall ensure that mechanisms are developed and implemented to require consideration of trade-offs among cost, schedule, and performance objectives as part of the process for developing requirements for Department of Defense acquisition programs.
+
+"(2)
+
+Elements.—The mechanisms required under this subsection shall ensure, at a minimum, that—
+
+&emsp;"(A) Department of Defense officials responsible for acquisition, budget, and cost estimating functions are provided an appropriate opportunity to develop estimates and raise cost and schedule matters before performance objectives are established for capabilities for which the Chairman of the Joint Requirements Oversight Council is the validation authority; and
+
+&emsp;"(B) the process for developing requirements is structured to enable incremental, evolutionary, or spiral acquisition approaches, including the deferral of technologies that are not yet mature and capabilities that are likely to significantly increase costs or delay production until later increments or spirals."
 

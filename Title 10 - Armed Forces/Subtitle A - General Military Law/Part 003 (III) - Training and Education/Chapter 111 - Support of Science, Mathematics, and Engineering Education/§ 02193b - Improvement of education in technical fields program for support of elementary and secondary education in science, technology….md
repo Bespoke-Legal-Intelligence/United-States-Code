@@ -16,7 +16,7 @@ STARBASE Academies.—(1) The Secretary shall provide for the establishment of a
 
 (3)(A) Except as otherwise provided under subparagraph (B), the Secretary may not support the establishment in any State of more than four academies under the program.
 
-(B) The Secretary may support the establishment and operation of an academy in a State in excess of four academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to that State. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of four in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
+(B) The Secretary may support the establishment and operation of an academy in a State inexcess of four academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to that State. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of four in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
 
 (d)
 
@@ -41,6 +41,8 @@ Annual Report.—Not later than March 31 of each year, the Secretary of Defense 
 State Defined.—In this section, the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and Guam.
 
 (Added Pub. L. 106–65, div. A, title V, §580(a), Oct. 5, 1999, 113 Stat. 631; amended Pub. L. 107–107, div. A, title V, §596(b), Dec. 28, 2001, 115 Stat. 1127; Pub. L. 108–375, div. A, title V, §519, title X, §1084(d)(16), Oct. 28, 2004, 118 Stat. 1886, 2062; Pub. L. 110–181, div. A, title V, §592, Jan. 28, 2008, 122 Stat. 138; Pub. L. 111–383, div. A, title V, §595, Jan. 7, 2011, 124 Stat. 4234; Pub. L. 116–92, div. A, title V, §552, Dec. 20, 2019, 133 Stat. 1386; Pub. L. 116–283, div. A, title V, §§591(a), 592, Jan. 1, 2021, 134 Stat. 3665, 3666.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -67,6 +69,8 @@ Subsec. (c)(3)(B). Pub. L. 110–181, §592(2), substituted "in excess of four" 
 Subsec. (c)(3). Pub. L. 108–375, §519, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary may support the establishment and operation of any academy in excess of two academies in a State only if the Secretary has first authorized in writing the establishment of the academy and the costs of the establishment and operation of the academy are paid out of funds provided by sources other than the Department of Defense. Any such costs that are paid out of appropriated funds shall be considered as paid out of funds provided by such other sources if such sources fully reimburse the United States for the costs."
 
 <b>2001</b>—Subsec. (f). Pub. L. 107–107 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Existing STARBASE Academies
 

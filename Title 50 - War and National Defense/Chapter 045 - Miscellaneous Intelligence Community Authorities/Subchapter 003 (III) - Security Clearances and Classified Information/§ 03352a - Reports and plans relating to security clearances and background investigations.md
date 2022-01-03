@@ -54,6 +54,8 @@ It is the sense of Congress that—
 
 (Pub. L. 116–92, div. E, title LXVI, §6602, Dec. 20, 2019, 133 Stat. 2210.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definitions
 
 For definitions of "Council", "reciprocity", "appropriate congressional committees", "appropriate industry partners", "continuous vetting", and "Security Executive Agent", referred to in text, see section 3352 of this title.

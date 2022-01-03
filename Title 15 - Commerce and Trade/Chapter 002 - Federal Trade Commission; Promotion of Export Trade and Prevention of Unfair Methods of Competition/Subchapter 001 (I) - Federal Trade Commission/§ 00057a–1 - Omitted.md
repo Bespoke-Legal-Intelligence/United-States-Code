@@ -1,8 +1,12 @@
 ### §57a–1. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, Pub. L. 96–252, §21(a)–(h), May 28, 1980, 94 Stat. 393; H. Res. 549, Mar. 25, 1980; Pub. L. 98–620, title IV, §402(13), Nov. 8, 1984, 98 Stat. 3358, provided procedures for review by Congress of final rules promulgated by the Federal Trade Commission.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date; Termination Date
 

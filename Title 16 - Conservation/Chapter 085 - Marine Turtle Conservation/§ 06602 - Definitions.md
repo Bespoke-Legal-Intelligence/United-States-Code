@@ -110,6 +110,8 @@ In this chapter:
 
 (Pub. L. 108–266, §3, July 2, 2004, 118 Stat. 792; Pub. L. 116–9, title VII, §7001(c)(3)(B), Mar. 12, 2019, 133 Stat. 786.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Title I of the Department of the Interior and Related Agencies Appropriations Act, 1999, referred to in par. (7), is Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading "
@@ -134,5 +136,5 @@ Par. (2)(F). Pub. L. 116–9, §7001(c)(3)(B)(i)(V), substituted "turtles, fresh
 
 Par. (2)(H). Pub. L. 116–9, §7001(c)(3)(B)(i)(VI), struck out "nesting" before "population" and before "habitat".
 
-Pars. (3) to (10). Pub. L. 116–9, §7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7) and (8), respectively.
+Pars. (3) to (10). Pub. L. 116–9, §7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7), and (8), respectively.
 

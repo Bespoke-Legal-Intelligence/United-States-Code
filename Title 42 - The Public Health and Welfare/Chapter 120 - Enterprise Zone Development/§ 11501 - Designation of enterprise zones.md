@@ -24,7 +24,7 @@
 
 &emsp;&emsp;Of the areas designated under subparagraph (A), not less than 1/3 shall be areas that—
 
-&emsp;&emsp;&emsp;(i) are within a local government jurisdiction or jurisdictions with a population of less than 50,000 (as determined under the most recent census data available);
+&emsp;&emsp;&emsp;(i) are within a local government jurisdiction or jurisdictions with a populationof less than 50,000 (as determined under the most recent census data available);
 
 &emsp;&emsp;&emsp;(ii) are outside of a metropolitan statistical area (as designated by the Director of the Office of Management and Budget); or
 
@@ -138,7 +138,7 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 70 percent of the households living in the area have incomes below 80 percent of the median income of households of the local government (determined in the same manner as under section 5318 of this title).
 
-&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and1980 (as determined from the most recent census available).
+&emsp;&emsp;&emsp;(ii) The population of the area decreased by 20 percent or more between 1970 and 1980 (as determined from the most recent census available).
 
 #### (4) Eligibility requirements for rural areas
 
@@ -186,7 +186,7 @@
 
 #### (B) Exception
 
-&emsp;&emsp;The limitations established in subparagraph (A) shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary if the Secretary—
+&emsp;&emsp;The limitations established in subparagraph (A) shall not be construed to prohibitassistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary if the Secretary—
 
 &emsp;&emsp;&emsp;(i) finds that the establishment of the new branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where the existing business entity conducts business operations; and
 
@@ -220,6 +220,8 @@ For purposes of this section:
 
 (Pub. L. 100–242, title VII, §701, Feb. 5, 1988, 101 Stat. 1957; Pub. L. 100–628, title X, §1090(a), (b), Nov. 7, 1988, 102 Stat. 3283; Pub. L. 102–550, title VIII, §834(a), Oct. 28, 1992, 106 Stat. 3855.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of the Housing and Community Development Act of 1992, referred to in subsec. (a)(4)(B), is the date of enactment of Pub. L. 102–550, which was approved Oct. 28, 1992.
@@ -235,6 +237,8 @@ Subsec. (c)(3)(B). Pub. L. 102–550, §834(a)(2), substituted "October 28, 1992
 <b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–628, §1090(b), substituted "under subparagraph (A)" for "under clause (i)" in introductory provisions.
 
 Subsec. (a)(3)(A). Pub. L. 100–628, §1090(a), amended first sentence generally. Prior to amendment, first sentence read as follows: "Except as provided in subparagraph (B), the Secretary shall designate the nominated areas with the highest average ranking with respect to the criteria set forth in subparagraphs (C), (D), and (E) of subsection (c)(3) of this section."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Regulations
 

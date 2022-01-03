@@ -12,11 +12,15 @@ Any portion of a claim for taxes allowed in a receivership proceeding which is u
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 838; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–589, §6(g)(2), Dec. 24, 1980, 94 Stat. 3409.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–589 struck out reference to proceedings under the Bankruptcy Act.
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

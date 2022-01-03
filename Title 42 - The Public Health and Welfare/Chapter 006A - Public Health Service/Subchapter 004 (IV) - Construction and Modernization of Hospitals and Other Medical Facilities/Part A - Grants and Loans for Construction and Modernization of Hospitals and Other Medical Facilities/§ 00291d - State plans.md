@@ -36,15 +36,17 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;(11) provide that the Comptroller General of the United States or his duly authorized representatives shall have access for the purpose of audit and examination to the records specified in paragraph (10) of this subsection;
 
-&emsp;(12) provide that the State agency will from time to time, but not less often than annually, review its State plan and submit to the Surgeon General any modifications thereof which it considers necessary; and
+&emsp;(12) provide that the State agency will from time to time, but not less often than annually,review its State plan and submit to the Surgeon General any modifications thereof which it considers necessary; and
 
-&emsp;(13) Effective <sup>1</sup> July 1, 1971, provide that before any project for construction or modernization of any general hospital is approved by the State agency there will be reasonable assurance of adequate provision for extendedcare services (as determined in accordance with regulations) to patients of such hospital when such services are medically appropriate for them, with such services being provided in facilities which (A) are structurally part of, physically connected with, or in immediate proximity to, such hospital, and (B) either (i) are under the supervision of the professional staff of such hospital or (ii) have organized medical staffs and have in effect transfer agreements with such hospital; except that the Secretary may, at the request of the State agency, waive compliance with clause (A) or (B), or both such clauses, as the case may be, in the case of any project if the State agency has determined that compliance with such clause or clauses in such case would be inadvisable.
+&emsp;(13) Effective <sup>1</sup> July 1, 1971, provide that before any project for construction or modernization of any general hospital is approved by the State agency there will be reasonable assurance of adequate provision for extended care services (as determined in accordance with regulations) to patients of such hospital when such services are medically appropriate for them, with such services being provided in facilities which (A) are structurally part of, physically connected with, or in immediate proximity to, such hospital, and (B) either (i) are under the supervision of the professional staff of such hospital or (ii) have organized medical staffs and have in effect transfer agreements with such hospital; except that the Secretary may, at the request of the State agency, waive compliance with clause (A) or (B), or both such clauses, as the case may be, in the case of any project if the State agency has determined that compliance with such clause or clauses in such case would be inadvisable.
 
 #### (b) Approval by Surgeon General; hearing after disapproval
 
 The Surgeon General shall approve any State plan and any modification thereof which complies with the provisions of subsection (a). If any such plan or modification thereof shall have been disapproved by the Surgeon General for failure to comply with subsection (a), the Federal Hospital Council shall, upon request of the State agency, afford it an opportunity for hearing. If such Council determines that the plan or modification complies with the provisions of such subsection, the Surgeon General shall thereupon approve such plan or modification.
 
 (July 1, 1944, ch. 373, title VI, §604, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 452; amended Pub. L. 91–296, title I, §§115, 116(b), (c), 123, June 30, 1970, 84 Stat. 341, 342, 344.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -62,6 +64,12 @@ Subsec. (a)(5). Pub. L. 91–296, §116(c), substituted "outpatient facilities" 
 
 Subsec. (a)(13). Pub. L. 91–296, §123, added par. (13).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Change of Name
+
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(13) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+
 #### Effective Date of 1970 Amendment
 
 Pub. L. 91–296, title I, §115, June 30, 1970, 84 Stat. 341, provided that the amendment made by that section is effective July 1, 1970.
@@ -70,11 +78,15 @@ Pub. L. 91–296, title I, §115, June 30, 1970, 84 Stat. 341, provided that the
 
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(8) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(C) of this title.
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
-
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 
 Pub. L. 88–443, §3(b)(5), Aug. 18, 1964, 78 Stat. 462, provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note under section 291 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

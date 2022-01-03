@@ -12,13 +12,15 @@ The Secretary of the Interior is authorized to contract for the delivery of wate
 
 #### (c) Reversionary rights of Secretary
 
-&emsp;any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 of this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 of this title, the rights of use of any facilities referred to in subsection (b), and the rights to all water contracted for by the organization or agency pursuant to sections 695d to695j–1 of this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
+&emsp;any contract entered into by the Secretary of the Interior and any public organization or agency pursuant to sections 695d to 695j–1 of this title shall provide that in the event the public organization or agency for any reason fails to carry out the obligations imposed upon it by said contract or by sections 695d to 695j–1 of this title, the rights of use of any facilities referred to in subsection (b), and the rights to all water contracted for by the organization or agency pursuant to sections 695d to 695j–1 of this title shall revert to the Secretary of the Interior for migratory waterfowl purposes in accordance with the laws of the State of California; and
 
 #### (d) Restrictive covenants
 
 &emsp;in accordance with existing or future contracts, the use of lands located within the boundaries of the public organizations or agencies shall be restricted by covenants requiring that such lands be used only for the purpose of waterfowl and wildlife habitat conservation or other uses as may be mutually agreed upon by the public organizations or agencies and the Service.
 
 (Aug. 27, 1954, ch. 1012, §6, 68 Stat. 879; Pub. L. 95–616, §10(a), Nov. 8, 1978, 92 Stat. 3115.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -18,13 +18,15 @@ The penalties provided in subsections (a) and (b) of this section for the breaki
 
 #### (e) Indemnity
 
-Whenever any vessel sacrifices any anchor, fishing net, or other fishing gear to avoid injuring any submarine electric transmission cableor equipment being constructed or operated under a license issued pursuant to this chapter, the licensee shall indemnify the owner of such vessel for the items sacrificed: <i>Provided</i>, That the owner of the vessel had taken all reasonable precautionary measures beforehand.
+Whenever any vessel sacrifices any anchor, fishing net, or other fishing gear to avoid injuring any submarine electric transmission cable or equipment being constructed or operated under a license issued pursuant to this chapter, the licensee shall indemnify the owner of such vessel for the items sacrificed: <i>Provided</i>, That the owner of the vessel had taken all reasonable precautionary measures beforehand.
 
 #### (f) Repair costs
 
 Any licensee who causes any break in or injury to any submarine cable or pipeline of any type shall bear the cost of the repairs.
 
 (Pub. L. 96–320, title I, §103, Aug. 3, 1980, 94 Stat. 982.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

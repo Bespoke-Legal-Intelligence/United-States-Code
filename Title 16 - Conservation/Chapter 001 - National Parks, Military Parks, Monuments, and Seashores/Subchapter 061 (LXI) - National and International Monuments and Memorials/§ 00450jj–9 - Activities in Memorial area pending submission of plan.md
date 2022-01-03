@@ -1,6 +1,6 @@
 ### §450jj–9. Activities in Memorial area pending submission of plan
 
-Pending submission of the Commission's plan, any Federal entity conducting or supporting significant activities directly affecting East SaintLouis, Illinois, generally and the site specifically referred to in section 450jj–3 of this title shall—
+Pending submission of the Commission's plan, any Federal entity conducting or supporting significant activities directly affecting East Saint Louis, Illinois, generally and the site specifically referred to in section 450jj–3 of this title shall—
 
 &emsp;(1) consult with the Secretary of the Interior and the Commission with respect to such activities;
 

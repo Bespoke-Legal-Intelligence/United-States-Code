@@ -4,13 +4,15 @@ To obtain expense and revenue information for regulatory purposes, the Board may
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 836.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11166 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 Prior sections 11164 to 11168 were omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
-Section 11164, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1936, related to certification ofrail carrier cost accounting systems. See section 11162 of this title.
+Section 11164, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1936, related to certification of rail carrier cost accounting systems. See section 11162 of this title.
 
 Section 11165, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1937, related to cost data availability. See section 11163 of this title.
 
@@ -19,6 +21,8 @@ Section 11166, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 St
 Section 11167, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1938; amended Pub. L. 103–272, §4(j)(33), July 5, 1994, 108 Stat. 1370, related to reports to Congress by Railroad Accounting Principles Board.
 
 Section 11168, added Pub. L. 96–448, title III, §302(a), Oct. 14, 1980, 94 Stat. 1938, authorized appropriations for fiscal years 1981 to 1983.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

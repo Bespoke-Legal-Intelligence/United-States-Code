@@ -22,7 +22,7 @@ The NBIC shall detect, as early as possible, a biological event of national conc
 
 &emsp;(1) consolidating data from all relevant surveillance systems maintained by Member Agencies to detect biological events of national concern across human, animal, and plant species;
 
-&emsp;(2) seeking private sources of surveillance, both foreign and domestic, when such sourceswould enhance coverage of critical surveillance gaps;
+&emsp;(2) seeking private sources of surveillance, both foreign and domestic, when such sources would enhance coverage of critical surveillance gaps;
 
 &emsp;(3) using an information technology system that uses the best available statistical and other analytical tools to identify and characterize biological events of national concern in as close to real-time as is practicable;
 

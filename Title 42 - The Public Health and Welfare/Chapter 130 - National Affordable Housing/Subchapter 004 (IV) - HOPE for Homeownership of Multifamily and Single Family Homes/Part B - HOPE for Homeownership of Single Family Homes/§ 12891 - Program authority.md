@@ -8,6 +8,8 @@ The Secretary is authorized to make—
 
 (Pub. L. 101–625, title IV, §441, Nov. 28, 1990, 104 Stat. 4172; Pub. L. 102–550, title I, §181(a)(2)(B)(ii), Oct. 28, 1992, 106 Stat. 3735.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–550 struck out "(a)

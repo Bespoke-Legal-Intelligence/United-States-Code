@@ -44,9 +44,11 @@ As used in this section, the term "international nuclear materials protection an
 
 (Pub. L. 108–136, div. C, title XXXI, §3124, Nov. 24, 2003, 117 Stat. 1747; Pub. L. 108–375, div. C, title XXXI, §3131, Oct. 28, 2004, 118 Stat. 2165.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as partof the Atomic Energy Defense Act which comprises this chapter.
 
 #### Amendments
 

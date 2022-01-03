@@ -8,7 +8,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (1) Policies and procedures
 
-&emsp;As soon as is practicable after July 21, 2010, the Corporation shall establish, by regulation, and in consultation with the Secretary, policies and procedures governing the issuance of guarantees authorized by this section. Suchpolicies and procedures may include a requirement of collateral as a condition of any such guarantee.
+&emsp;As soon as is practicable after July 21, 2010, the Corporation shall establish, by regulation, and in consultation with the Secretary, policies and procedures governing the issuance of guarantees authorized by this section. Such policies and procedures may include a requirement of collateral as a condition of any such guarantee.
 
 #### (2) Terms and conditions
 
@@ -48,7 +48,7 @@ Upon the written determination of the Corporation and the Board of Governors und
 
 #### (ii) Debate
 
-&emsp;&emsp;&emsp;Debate on the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+&emsp;&emsp;&emsp;Debate on the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motionfurther to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
 
 #### (iii) Vote on passage
 

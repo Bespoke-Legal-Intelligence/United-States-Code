@@ -4,6 +4,8 @@ The Secretary may, by regulation, exempt from compliance with the provisions of 
 
 (Pub. L. 86–687, §4, Sept. 2, 1960, 74 Stat. 734; Pub. L. 87–105, §2, July 26, 1961, 75 Stat. 220.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1961</b>—Pub. L. 87–105 added cl. (1) and designated existing provisions as cl. (2).

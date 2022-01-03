@@ -28,7 +28,7 @@
 
 &emsp;For purposes of paragraph (2), adjusted gross income shall be determined—
 
-&emsp;&emsp;(A) without regard to this section and sections 221, 911, 931, and 933, and
+&emsp;&emsp;(A) without regard to this section and sections 85(c) <sup>1</sup> 221, 911, 931, and 933, and
 
 &emsp;&emsp;(B) after the application of sections 86, 135, 219, and 469.
 
@@ -40,7 +40,7 @@ For purposes of this section, an adoption assistance program is a separate writt
 
 &emsp;(2) which meets requirements similar to the requirements of paragraphs (2), (3), (5), and (6) of section 127(b).
 
-> An adoption reimbursement program operated under section 1052 of title 10, United States Code (relating to armed forces) or section 541 <sup>1</sup> of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
+> An adoption reimbursement program operated under section 1052 of title 10, United States Code (relating to armed forces) or section 541 <sup>2</sup> of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
 
 #### (d) Qualified adoption expenses
 
@@ -60,11 +60,13 @@ In the case of a taxable year beginning after December 31, 2002, each of the dol
 
 > If any amount as increased under the preceding sentence is not a multiple of $10, such amount shall be rounded to the nearest multiple of $10.
 
-(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 111–148, title X, §10909(a)(2), (b)(2)(J), (c), Mar. 23, 2010, 124 Stat. 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 115–97, title I, §§11002(d)(1)(N), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(40), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–260, div. EE, title I, §104(b)(2)(E), Dec. 27, 2020, 134 Stat. 3041.)
+(Added Pub. L. 104–188, title I, §1807(b), Aug. 20, 1996, 110 Stat. 1901; amended Pub. L. 105–34, title XVI, §1601(h)(2)(C), Aug. 5, 1997, 111 Stat. 1092; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(C), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title II, §202(a)(2), (b)(1)(B), (2)(B), (d)(2), (e)(2), title IV, §431(c)(1), June 7, 2001, 115 Stat. 47, 48, 68; Pub. L. 107–147, title IV, §§411(c)(2), 418(a)(2), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–311, title IV, §403(e), Oct. 4, 2004, 118 Stat. 1188; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 111–148, title X, §10909(a)(2), (b)(2)(J), (c), Mar. 23, 2010, 124 Stat. 1022, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 115–97, title I, §§11002(d)(1)(N), 13305(b)(1), Dec. 22, 2017, 131 Stat. 2060, 2126; Pub. L. 115–141, div. U, title IV, §401(a)(40), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–260, div. EE, title I, §104(b)(2)(E), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(4), Mar. 11, 2021, 135 Stat. 122.)
 
 #### Inflation Adjusted Items for Certain Years
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -76,6 +78,8 @@ A prior section 137 was renumbered section 140 of this title.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (b)(3)(A). Pub. L. 117–2 inserted "85(c)" before "221".
+
 <b>2020</b>—Subsec. (b)(3)(A). Pub. L. 116–260 struck out "222," after "sections 221,".
 
 <b>2018</b>—Subsec. (c). Pub. L. 115–141 substituted "section 541" for "section 514" in concluding provisions.
@@ -86,7 +90,7 @@ Subsec. (f)(2). Pub. L. 115–97, §11002(d)(1)(N), substituted "for 'calendar y
 
 <b>2010</b>—Subsec. (a)(2). Pub. L. 111–148, §10909(a)(2)(B), (c), as amended by Pub. L. 111–312, temporarily substituted "$13,170" for "$10,000" in heading and text. See Effective and Termination Dates of 2010 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 111–148, §10909(a)(2)(A), (c), as amended by Pub. L. 111–312, temporarily substituted"$13,170" for "$10,000". See Effective and Termination Dates of 2010 Amendment note below.
+Subsec. (b)(1). Pub. L. 111–148, §10909(a)(2)(A), (c), as amended by Pub. L. 111–312, temporarily substituted "$13,170" for "$10,000". See Effective and Termination Dates of 2010 Amendment note below.
 
 Subsec. (d). Pub. L. 111–148, §10909(b)(2)(J)(i), (c), as amended by Pub. L. 111–312, temporarily substituted "section 36C(d)" for "section 23(d)". See Effective and Termination Dates of 2010 Amendment note below.
 
@@ -130,6 +134,12 @@ Subsec. (f). Pub. L. 107–16, §202(d)(2), (e)(2), added subsec. (f) and struck
 
 <b>1997</b>—Subsec. (b)(1). Pub. L. 105–34 substituted "of the amounts paid or expenses incurred which may be taken into account" for "amount excludable from gross income".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) of Pub. L. 117–2, set out as a note under section 74 of this title.
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 104(c) of div. EE of Pub. L. 116–260, set out as a note under section 25A of this title.
@@ -160,7 +170,7 @@ Amendment by section 418(a)(2) of Pub. L. 107–147 effective as if included in 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
+Amendment by section 202(b)(1)(B), (2)(B), (d)(2), (e)(2) of Pub. L. 107–16 applicable to taxable years beginningafter Dec. 31, 2001, see section 202(g)(1) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
 Amendment by section 202(a)(2) of Pub. L. 107–16 applicable to taxable years beginning after Dec. 31, 2002, see section 202(g)(2) of Pub. L. 107–16, set out as a note under section 23 of this title.
 
@@ -172,7 +182,7 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job ProtectionAct of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
+Amendment by Pub. L. 105–34 effective as if included in the provisions of the Small Business Job Protection Act of 1996, Pub. L. 104–188, to which it relates, see section 1601(j) of Pub. L. 105–34, set out as a note under section 23 of this title.
 
 #### Effective Date
 
@@ -182,5 +192,7 @@ Section applicable to taxable years beginning after Dec. 31, 1996, see section 1
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

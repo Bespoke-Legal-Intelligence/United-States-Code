@@ -18,6 +18,8 @@ Funds To Remain Available.—Funds made available under this section shall remai
 
 (Added Pub. L. 103–440, title I, §103(a)(2), Nov. 2, 1994, 108 Stat. 4618; amended Pub. L. 105–178, title VII, §7201(a), June 9, 1998, 112 Stat. 469; Pub. L. 109–59, title IX, §9001(b), Aug. 10, 2005, 119 Stat. 1919; Pub. L. 110–432, div. B, title V, §501(b), Oct. 16, 2008, 122 Stat. 4960.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–432 substituted "$30,000,000" for "$70,000,000".

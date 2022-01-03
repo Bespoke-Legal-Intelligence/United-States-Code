@@ -6,7 +6,7 @@ Beginning with fiscal year 2019, not later than 120 days after the end of each f
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year duringwhich fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+Beginning with fiscal year 2019, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
 
 #### (c) Public availability
 
@@ -16,7 +16,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of animal drug applications for the first 5 fiscal years after fiscal year 2023, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to the Congress with respect to the goals, and plans for meeting the goals, for the process for the review of animal drug applications for the first 5 fiscal years after fiscal year 2023, andfor the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Health, Education, Labor, and Pensions of the Senate;
 
@@ -100,7 +100,7 @@ Subsec. (d)(1), (5). Pub. L. 115–234, §104(3), substituted "2023" for "2018".
 
 #### Effective Date of 2018 Amendment
 
-Amendment by Pub. L. 115–234 effective Oct. 1, 2018, and fees under part 4 of subchapter C of chapter VII ofthe Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11 et seq.) to be assessed for animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2018, see section 106 of Pub. L. 115–234, set out as a note under section 379j–11 of this title.
+Amendment by Pub. L. 115–234 effective Oct. 1, 2018, and fees under part 4 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–11 et seq.) to be assessed for animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2018, see section 106 of Pub. L. 115–234, set out as a note under section 379j–11 of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -112,7 +112,7 @@ Pub. L. 115–234, title I, §107(b), Aug. 14, 2018, 132 Stat. 2432, provided th
 
 Pub. L. 113–14, title I, §107(b), June 13, 2013, 127 Stat. 464, which provided that section 740A of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–13) would cease to be effective Jan. 31, 2019, was repealed by Pub. L. 115–234, title I, §107(c), Aug. 14, 2018, 132 Stat. 2432, effective Oct. 1, 2018.
 
-Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on or after Oct. 1, 2008, see section 107 of Pub. L. 110–316, set out as an Effective and Termination Dates of 2008 Amendment note under section 379j–11 of this title.
+Section effective Oct. 1, 2008, with fees under this subpart to be assessed for all animal drug applications and supplemental animal drug applications received on orafter Oct. 1, 2008, see section 107 of Pub. L. 110–316, set out as an Effective and Termination Dates of 2008 Amendment note under section 379j–11 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

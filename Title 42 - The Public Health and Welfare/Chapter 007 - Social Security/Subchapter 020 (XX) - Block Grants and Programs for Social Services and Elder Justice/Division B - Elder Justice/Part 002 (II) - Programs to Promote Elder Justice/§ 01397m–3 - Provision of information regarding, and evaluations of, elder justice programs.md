@@ -38,7 +38,7 @@ To be eligible to receive a grant under this part, an applicant shall agree—
 
 #### (1) Evaluations
 
-&emsp;The Secretary shall conduct an evaluation of the activities funded under the certified EHR technology grant program under section 1397m(b) of this title. Such evaluation shall include an evaluation of whether the funding provided under the grant is expended only for the purposes for which it is made.
+&emsp;The Secretary shall conduct an evaluation of the activities funded under the certifiedEHR technology grant program under section 1397m(b) of this title. Such evaluation shall include an evaluation of whether the funding provided under the grant is expended only for the purposes for which it is made.
 
 #### (2) Audits
 

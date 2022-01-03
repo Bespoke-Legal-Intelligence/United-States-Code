@@ -68,7 +68,7 @@
 
 #### (B) Penalties
 
-&emsp;&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, this subsection or a regulation prescribed under this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
+&emsp;&emsp;The penalties provided for in subsections (b) and (c) of section 206 of the InternationalEmergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, or conspires to violate, or causes a violation of, this subsection or a regulation prescribed under this subsection to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act \[50 U.S.C. 1705(a)\].
 
 #### (c) Rule of construction
 
@@ -143,6 +143,8 @@ In this section:
 &emsp;&emsp;(C) a person located in the United States.
 
 (Pub. L. 113–291, div. A, title XVI, §1637, Dec. 19, 2014, 128 Stat. 3644.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

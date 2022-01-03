@@ -14,7 +14,7 @@ Limitation.—A degree may not be conferred under this section unless—
 
 (c)
 
-Congressional Notification Requirements.—(1) When seeking to establish degreegranting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+Congressional Notification Requirements.—(1) When seeking to establish degree granting authority under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
 
 &emsp;(A) a copy of the self assessment questionnaire required by the Federal Policy Governing Granting of Academic Degrees by Federal Agencies, at the time the assessment is submitted to the Department of Education's National Advisory Committee on Institutional Quality and Integrity; and
 
@@ -44,6 +44,8 @@ In subsection (a) the words "of science" are omitted as surplusage since the cur
 
 In subsection (b) the words "from time to time" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8548 was renumbered section 9218 of this title.
@@ -62,11 +64,13 @@ A prior section 8548 was renumbered section 9218 of this title.
 
 <b>1992</b>—Pub. L. 102–484 renumbered section 7047 of this title as this section.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2161 of this title.
+Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under section 2163 of this title.
 

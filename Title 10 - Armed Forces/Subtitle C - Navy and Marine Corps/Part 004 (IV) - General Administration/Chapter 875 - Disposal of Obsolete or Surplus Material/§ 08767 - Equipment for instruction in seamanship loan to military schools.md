@@ -40,9 +40,13 @@ In subsection (a) the word "lend" is substituted for the word "furnish" because 
 
 In subsection (b) the words "To be eligible for a loan under this section" are added, and the subsection is phrased as a condition.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7547 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

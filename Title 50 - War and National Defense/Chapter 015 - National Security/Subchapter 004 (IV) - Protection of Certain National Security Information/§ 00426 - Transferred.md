@@ -1,5 +1,7 @@
 ### §426. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 426, comprising section 605 of the National Security Act of 1947, act July 26, 1947, ch. 343, was editorially reclassified as section 3126 of this title.

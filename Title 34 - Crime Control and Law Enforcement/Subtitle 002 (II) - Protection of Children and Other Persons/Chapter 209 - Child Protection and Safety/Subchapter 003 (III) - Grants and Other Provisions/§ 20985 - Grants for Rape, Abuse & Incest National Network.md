@@ -22,7 +22,7 @@ Congress finds as follows:
 
 &emsp;(9) RAINN established and continues to operate the National Sexual Assault Hotline, a free, confidential telephone hotline that provides help, 24 hours a day, to victims nationally.
 
-&emsp;(10) More than 1,100 local rape crisis centers in the 50 States and the District of Columbia partner with RAINN and are members of the National Sexual Assault Hotline network (which has helped more than 970,000 people since its inception in 1994).
+&emsp;(10) More than 1,100 local rape crisis centers in the 50 States and the District of Columbia partner with RAINN and are members of the National Sexual Assault Hotline network\(which has helped more than 970,000 people since its inception in 1994).
 
 &emsp;(11) To better serve victims of sexual assault, 80 percent of whom are under age 30 and 44 percent of whom are under age 18, RAINN will soon launch the National Sexual Assault Online Hotline, the web's first secure hotline service offering live help 24 hours a day.
 

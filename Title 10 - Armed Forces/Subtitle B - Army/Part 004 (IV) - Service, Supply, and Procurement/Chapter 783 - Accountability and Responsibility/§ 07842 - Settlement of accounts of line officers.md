@@ -24,7 +24,9 @@ June 10, 1921, ch. 18, §304 (1st par. 1st sentence), 42 Stat. 24.
 
 R.S. §278.
 
-The words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "audit and" are omitted as surplus. The words "for their services as such" and "by the affidavit of the officer or otherwise" are omitted as surplus. The words "to account for property or make a report or return" are added for clarity. The words "in the hands of the enemy" are omitted as surplus.
+The words "Comptroller General" are substituted for "General Accounting Office" for consistency. The words "audit and" are omitted as surplus. The words"for their services as such" and "by the affidavit of the officer or otherwise" are omitted as surplus. The words "to account for property or make a report or return" are added for clarity. The words "in the hands of the enemy" are omitted as surplus.
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -37,6 +39,8 @@ Prior sections 7912, 7913, and 7921 were renumbered sections 8942, 8943, and 895
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4842 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

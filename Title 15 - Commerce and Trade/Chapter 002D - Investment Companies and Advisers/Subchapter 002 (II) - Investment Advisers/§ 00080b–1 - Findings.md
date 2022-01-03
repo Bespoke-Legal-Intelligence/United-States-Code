@@ -2,7 +2,7 @@
 
 Upon the basis of facts disclosed by the record and report of the Securities and Exchange Commission made pursuant to section 79z–4 <sup>1</sup> of this title, and facts otherwise disclosed and ascertained, it is found that investment advisers are of national concern, in that, among other things—
 
-&emsp;(1) their advice, counsel, publications, writings, analyses, and reports are furnishedand distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and means and instrumentalities of interstate commerce;
+&emsp;(1) their advice, counsel, publications, writings, analyses, and reports are furnished and distributed, and their contracts, subscription agreements, and other arrangements with clients are negotiated and performed, by the use of the mails and means and instrumentalities of interstate commerce;
 
 &emsp;(2) their advice, counsel, publications, writings, analyses, and reports customarily relate to the purchase and sale of securities traded on national securities exchanges and in interstate over-the-counter markets, securities issued by companies engaged in business in interstate commerce, and securities issued by national banks and member banks of the Federal Reserve System; and
 
@@ -10,9 +10,13 @@ Upon the basis of facts disclosed by the record and report of the Securities and
 
 (Aug. 22, 1940, ch. 686, title II, §201, 54 Stat. 847.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 79z–4 of this title, referred to in text, was repealed by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

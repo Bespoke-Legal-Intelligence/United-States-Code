@@ -30,7 +30,7 @@
 
 &emsp;(B) if separated involuntarily on account of misconduct, or voluntarily, before the end of the period specified in the agreement, repay to the Government the amount of any benefits received by such employee from that agency under this section.
 
-(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into theservice of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
+(2) The payment agreed to under paragraph (1)(B) of this subsection may not be required of an employee who leaves the service of such employee's agency voluntarily to enter into the service of any other agency unless the head of the agency that authorized the benefits notifies the employee before the effective date of such employee's entrance into the service of the other agency that payment will be required under this subsection.
 
 (3) If an employee who is involuntarily separated on account of misconduct or who (excluding any employee relieved of liability under paragraph (2) of this subsection) is voluntarily separated before completing the required period of service fails to repay the amount agreed to under paragraph (1)(B) of this subsection, a sum equal to the amount outstanding is recoverable by the Government from the employee (or such employee's estate, if applicable) by—
 
@@ -48,7 +48,7 @@
 
 &emsp;(2) does not maintain an acceptable level of performance, as determined under standards and procedures which the agency head shall by regulation prescribe.
 
-(e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of this title, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
+(e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of thistitle, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
 (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
 

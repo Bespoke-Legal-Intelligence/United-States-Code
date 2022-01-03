@@ -44,7 +44,7 @@ Historical and Revision Notes
 
 Pub. L. 100–113, §10, Aug. 21, 1987, 101 Stat. 747.
 
-In this section, the text of 40:1109(1)–(3) is omitted as unnecessary because the complete names of the Administrator of General Services, International Cultural and Trade Center Commission, and Pennsylvania Avenue Development Corporation are used the first time the terms appear in a section.
+In this section, the text of 40:1109(1)–(3) is omitted as unnecessary because the complete names of the Administrator of General Services, International Cultural andTrade Center Commission, and Pennsylvania Avenue Development Corporation are used the first time the terms appear in a section.
 
 In paragraph (1), the words "being the southwest corner of the intersection of Fourteenth Street and Pennsylvania Avenue (formerly E Street), Northwest" are omitted as unnecessary.
 

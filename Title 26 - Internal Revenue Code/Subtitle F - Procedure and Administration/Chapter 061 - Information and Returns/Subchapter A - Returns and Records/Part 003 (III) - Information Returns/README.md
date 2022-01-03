@@ -11,6 +11,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–148, title I, §1502(d), Mar. 23, 2010, 124 Stat. 251, added item relating to subpart D.
@@ -24,6 +26,8 @@
 <b>1974</b>—Pub. L. 93–406, title II, §1031(c)(1), Sept. 2, 1974, 88 Stat. 946, added item relating to subpart E.
 
 <b>1969</b>—Pub. L. 91–172, title I, §101(j)(64), Dec. 30, 1969, 82 Stat. 533, added item relating to subpart D.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Information Returns in Electronic Format
 

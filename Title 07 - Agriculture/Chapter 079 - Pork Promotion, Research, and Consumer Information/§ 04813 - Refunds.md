@@ -10,7 +10,7 @@ Notwithstanding any other provision of this chapter, prior to the approval of th
 
 #### (b) Form and time within which demand to be made
 
-Such demand shall be made in accordance with regulations, on a form, and within a timeperiod prescribed by the Board and approved by the Secretary, but not later than 30 days after the end of the month in which the assessment was paid.
+Such demand shall be made in accordance with regulations, on a form, and within a time period prescribed by the Board and approved by the Secretary, but not later than 30 days after the end of the month in which the assessment was paid.
 
 #### (c) Payment of refund on submission of satisfactory proof
 
@@ -21,6 +21,8 @@ Such refund shall be made not later than 30 days after demand is received theref
 &emsp;(2) did not collect such assessment from another producer, person, or importer.
 
 (Pub. L. 99–198, title XVI, §1624, Dec. 23, 1985, 99 Stat. 1619.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

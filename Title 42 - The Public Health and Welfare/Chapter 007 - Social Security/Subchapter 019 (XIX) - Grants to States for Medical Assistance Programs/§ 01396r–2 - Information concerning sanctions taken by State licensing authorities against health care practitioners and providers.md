@@ -40,7 +40,7 @@ The information described in subsection (a)(1) shall be provided to the Secretar
 
 &emsp;(5) to State law or fraud enforcement agencies,
 
-&emsp;(6) to hospitals and other health care entities (as defined in section 431 of the Health Care Quality Improvement Act of 1986 \[42 U.S.C. 11151\]), with respect to physicians or other licensed health care practitioners that have entered (or may be entering) into an employment or affiliation relationship with, or have applied for clinical privileges or appointments to the medical staff of, such hospitals or other health care entities (and such information shall be deemed to be disclosed pursuant to section 427 \[42 U.S.C. 11137\] of, and be subject to the provisions of, that Act \[42 U.S.C. 11101 et seq.\]), but only with respect to information provided pursuant to subsection (a)(1)(A),
+&emsp;(6) to hospitals and other health care entities (as defined in section 431 of the Health Care Quality Improvement Act of 1986 \[42 U.S.C. 11151\]), with respect to physicians or other licensed health care practitioners that have entered (or may be entering) into an employment or affiliation relationship with, or have applied for clinical privileges or appointments to the medical staff of, such hospitals or other health care entities (and such information shall be deemed to be disclosed pursuant to section 427 \[42 U.S.C. 11137\] of, and besubject to the provisions of, that Act \[42 U.S.C. 11101 et seq.\]), but only with respect to information provided pursuant to subsection (a)(1)(A),
 
 &emsp;(7) to health plans (as defined in section 1320a–7c(c) of this title); <sup>1</sup>
 
@@ -118,6 +118,8 @@ In implementing this section, the Secretary shall provide for the maximum approp
 
 (Aug. 14, 1935, ch. 531, title XIX, §1921, as added Pub. L. 100–93, §5(b), Aug. 18, 1987, 101 Stat. 690; amended Pub. L. 101–508, title IV, §4752(f)(1), Nov. 5, 1990, 104 Stat. 1388–208; Pub. L. 111–148, title VI, §6403(b), Mar. 23, 2010, 124 Stat. 764.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1320c–3(a)(4)(C) of this title, referred to in subsec. (b)(4), was repealed by Pub. L. 112–40, title II, §261(c)(2)(A)(ii), Oct. 21, 2011, 125 Stat. 425.
@@ -157,6 +159,8 @@ Subsec. (h). Pub. L. 111–148, §6403(b)(3), (4), redesignated subsec. (d) as (
 <b>1990</b>—Subsec. (a)(1). Pub. L. 101–508, §4752(f)(1)(A), inserted "(or any peer review organization or private accreditation entity reviewing the services provided by health care practitioners)" after "health care practitioners" in introductory provisions.
 
 Subsec. (a)(1)(D). Pub. L. 101–508, §4752(f)(1)(B), added subpar. (D).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

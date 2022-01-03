@@ -132,9 +132,11 @@ For purposes of this section and subsections (k) and (l) of section 4605 <sup>1
 
 &emsp;&emsp;(ii) all activities of that government affecting the development or production of aircraft, electronics, and space systems or equipment; and
 
-&emsp;(8) the term "otherwise engaged in the trade of" means, with respect to a particular export or transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
+&emsp;(8) the term "otherwise engaged in the trade of" means, with respect to a particular exportor transfer, to be a freight forwarder or designated exporting agent, or a consignee or end user of the item to be exported or transferred.
 
 (Pub. L. 96–72, §11B, as added Pub. L. 101–510, div. A, title XVII, §1702(b), Nov. 5, 1990, 104 Stat. 1741.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -147,6 +149,8 @@ This chapter, referred to in subsecs. (a)(1)(B) and (b)(1), was in the original 
 #### Codification
 
 Section was formerly classified to section 2410b of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Policy on Missile Technology Control
 
@@ -165,6 +169,8 @@ Pub. L. 101–510, div. A, title XVII, §1701, Nov. 5, 1990, 104 Stat. 1738, pro
 &emsp;&emsp;"(B) to increase the number of countries that adhere to the MTCR; and
 
 &emsp;&emsp;"(C) to increase information sharing among United States agencies and among governments on missile technology transfer, including export licensing, and enforcement activities."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

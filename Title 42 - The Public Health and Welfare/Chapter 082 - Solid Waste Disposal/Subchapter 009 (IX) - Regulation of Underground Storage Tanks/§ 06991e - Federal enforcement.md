@@ -14,7 +14,7 @@ Any order issued under this section shall become final unless, no later than thi
 
 #### (c) Contents of order
 
-Any order issued under this section shall state with reasonable specificity the nature of theviolation, specify a reasonable time for compliance, and assess a penalty, if any, which the Administrator determines is reasonable taking into account the seriousness of the violation and any good faith efforts to comply with the applicable requirements.
+Any order issued under this section shall state with reasonable specificity the nature of the violation, specify a reasonable time for compliance, and assess a penalty, if any, which the Administrator determines is reasonable taking into account the seriousness of the violation and any good faith efforts to comply with the applicable requirements.
 
 #### (d) Civil penalties
 
@@ -46,6 +46,8 @@ Both of the following may be taken into account in determining the terms of a ci
 
 (Pub. L. 89–272, title II, §9006, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3285; Pub. L. 109–58, title XV, §§1524(c), 1526(d), 1527(b), 1530(d), Aug. 8, 2005, 119 Stat. 1096, 1098, 1099, 1104.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (d)(2). Pub. L. 109–58, §1527(b)(2), inserted at end "Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation."
@@ -63,6 +65,8 @@ Pub. L. 109–58, §1524(c)(2), added subpar. (D) relating to training requireme
 Subsec. (d)(2)(E). Pub. L. 109–58, §1527(b)(1), added subpar. (E).
 
 Subsec. (e). Pub. L. 109–58, §1526(d), added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

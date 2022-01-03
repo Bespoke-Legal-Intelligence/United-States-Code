@@ -52,7 +52,7 @@ The Commission shall enter into an agreement under subsection (b) of this sectio
 
 #### (e) Publication in Federal Register; comment of interested persons
 
-(1) Before any agreement under subsection (b) is signed by the Commission, the terms of the proposed agreement and of proposed exemptions pursuant to subsection (f) shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
+(1) Before any agreement under subsection (b) is signed by the Commission, the terms of the proposed agreement and of proposed exemptionspursuant to subsection (f) shall be published once each week for four consecutive weeks in the Federal Register; and such opportunity for comment by interested persons on the proposed agreement and exemptions shall be allowed as the Commission determines by regulation or order to be appropriate.
 
 (2) Each proposed agreement shall include the proposed effective date of such proposed agreement or exemptions. The agreement and exemptions shall be published in the Federal Register within thirty days after signature by the Commission and the Governor.
 
@@ -76,7 +76,7 @@ The Commission in carrying out its licensing and regulatory responsibilities und
 
 (1) The Commission, upon its own initiative after reasonable notice and opportunity for hearing to the State with which an agreement under subsection (b) has become effective, or upon request of the Governor of such State, may terminate or suspend all or part of its agreement with the State and reassert the licensing and regulatory authority vested in it under this chapter, if the Commission finds that (1) such termination or suspension is required to protect the public health and safety, or (2) the State has not complied with one or more of the requirements of this section. The Commission shall periodically review such agreements and actions taken by the States under the agreements to ensure compliance with the provisions of this section.
 
-(2) The Commission, upon its own motion or upon request of the Governor of any State, may,after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
+(2) The Commission, upon its own motion or upon request of the Governor of any State, may, after notifying the Governor, temporarily suspend all or part of its agreement with the State without notice or hearing if, in the judgment of the Commission:
 
 &emsp;(A) an emergency situation exists with respect to any material covered by such an agreement creating danger which requires immediate action to protect the health or safety of persons either within or outside the State, and
 
@@ -128,13 +128,15 @@ In the licensing and regulation of byproduct material, as defined in section 201
 
 &emsp;&emsp;&emsp;(iii) consideration of alternatives, including alternative sites and engineering methods, to the activities to be conducted pursuant to such license; and
 
-&emsp;&emsp;&emsp;(iv) consideration of the long-term impacts, including decommissioning, decontamination, and reclamation impacts, associated with activities to be conductedpursuant to such license, including the management of any byproduct material, as defined by section 2014(e)(2) of this title; and
+&emsp;&emsp;&emsp;(iv) consideration of the long-term impacts, including decommissioning, decontamination, and reclamation impacts, associated with activities to be conducted pursuant to such license, including the management of any byproduct material, as defined by section 2014(e)(2) of this title; and
 
 &emsp;&emsp;(D) prohibit any major construction activity with respect to such material prior to complying with the provisions of subparagraph (C).
 
 > If any State under such agreement imposes upon any licensee any requirement for the payment of funds to such State for the reclamation or long-term maintenance and monitoring of such material, and if transfer to the United States of such material is required in accordance with section 2113(b) of this title, such agreement shall be amended by the Commission to provide that such State shall transfer to the United States upon termination of the license issued to such licensee the total amount collected by such State from such licensee for such purpose. If such payments are required, they must be sufficient to ensure compliance with the standards established by the Commission pursuant to section 2201(x) of this title. No State shall be required under paragraph (3) to conduct proceedings concerning any license or regulation which would duplicate proceedings conducted by the Commission. In adopting requirements pursuant to paragraph (2) of this subsection with respect to sites at which ores are processed primarily for their source material content or which are used for the disposal of byproduct material as defined in section 2014(e)(2) of this title, the State may adopt alternatives (including, where appropriate, site-specific alternatives) to the requirements adopted and enforced by the Commission for the same purpose if, after notice and opportunity for public hearing, the Commission determines that such alternatives will achieve a level of stabilization and containment of the sites concerned, and a level of protection for public health, safety, and the environment from radiological and nonradiological hazards associated with such sites, which is equivalent to, to the extent practicable, or more stringent than the level which would be achieved by standards and requirements adopted and enforced by the Commission for the same purpose and any final standards promulgated by the Administrator of the Environmental Protection Agency in accordance with section 2022 of this title. Such alternative State requirements may take into account local or regional conditions, including geology, topography, hydrology and meteorology.
 
 (Aug. 1, 1946, ch. 724, title I, §274, as added Pub. L. 86–373, §1, Sept. 23, 1959, 73 Stat. 688; amended 1970 Reorg. Plan No. 3, §§2(a)(7), 6(2), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086; Pub. L. 95–604, title II, §204(a)–(e)(1), (f), Nov. 8, 1978, 92 Stat. 3036–3038; Pub. L. 96–295, title II, §205, June 30, 1980, 94 Stat. 787; Pub. L. 97–415, §19(a), Jan. 4, 1983, 96 Stat. 2078; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(6), (8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §651(e)(2), Aug. 8, 2005, 119 Stat. 807.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -176,6 +178,8 @@ Subsec. (n). Pub. L. 95–604, §204(c), inserted definition of "agreement".
 
 Subsec. (o). Pub. L. 95–604, §204(e)(1), added subsec. (o).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1978 Amendment
 
 Section 204(e)(2) of Pub. L. 95–604, as added by Pub. L. 96–106, §22(d), Nov. 9, 1979, 93 Stat. 800, provided that: "The provisions of the amendment made by paragraph (1) of this subsection (which adds a new subsection o. to section 274 of the Atomic Energy Act of 1954 \[this section\]) shall apply only to the maximum extent practicable during the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\]."
@@ -190,9 +194,11 @@ Pub. L. 95–604, title II, §204(g), (h), Nov. 8, 1978, 92 Stat. 3038, as amend
 
 "(h)(1) During the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\], notwithstanding any other provision of this title \[See Effective Date of 1978 Amendment note set out under section 2014 of this title\], any State may exercise any authority under State law (including authority exercised pursuant to an agreement entered into pursuant to section 274 of the Atomic Energy Act of 1954 \[this section\]) respecting (A) byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954 \[section 2014(e)(2) of this title\], or (B) any activity which results in the production of byproduct material as so defined, in the same manner and to the same extent as permitted before the date of the enactment of this Act, except that such State authority shall be exercised in a manner which, to the extent practicable, is consistent with the requirements of section 274 o. of the Atomic Energy Act of 1954 (as added by section 204(e) of this Act) \[subsec. (o) of this section\]. The Commission shall have the authority to ensure that such section 274 o. is implemented by any such State to the extent practicable during the three-year period beginning on the date of the enactment of this Act. Nothing in this section shall be construed to preclude the Commission or the Administrator of the Environmental Protection Agency from taking such action under section 275 of the Atomic Energy Act of 1954 \[section 2022 of this title\] as may be necessary to implement title I of this Act \[section 7911 et seq. of this title\].
 
-"(2) An agreement entered into with any State as permitted under section 274 of the Atomic Energy Act of 1954 \[this section\] with respect to byproduct material as defined in section 11 e. (2) of such Act. \[section 2014(e)(2) of this title\], may be entered into at any time after the date of the enactment of this Act \[Nov. 8, 1978\] but no such agreement may take effect before the date three years after the date of the enactment of this Act.
+"(2) An agreement entered into with any State as permitted under section 274 of the Atomic Energy Actof 1954 \[this section\] with respect to byproduct material as defined in section 11 e. (2) of such Act. \[section 2014(e)(2) of this title\], may be entered into at any time after the date of the enactment of this Act \[Nov. 8, 1978\] but no such agreement may take effect before the date three years after the date of the enactment of this Act.
 
 "(3) Notwithstanding any other provision of this title \[See Effective Date of 1978 Amendment note set out under section 2014 of this title\], where a State assumes or has assumed, pursuant to an agreement entered into under section 274 b. of the Atomic Energy Act of 1954 \[subsec. (b) of this section\], authority over any activity which results in the production of byproduct material, as defined in section 11 e. (2) of such Act \[section 2014(e)(2) of this title\], the Commission shall not, until the end of the three-year period beginning on the date of the enactment of this Act \[Nov. 8, 1978\], have licensing authority over such byproduct material produced in any activity covered by such agreement, unless the agreement is terminated, suspended, or amended to provide for such Federal licensing. If, at the end of such three-year period, a State has not entered into such an agreement with respect to byproduct material, as defined in section 11 e. (2) of the Atomic Energy Act of 1954, the Commission shall have authority over such byproduct material: <i>Provided, however</i>, That, in the case of a State which has exercised any authority under State law pursuant to an agreement entered into under section 274 of the Atomic Energy Act of 1954 \[this section\], the State authority over such byproduct material may be terminated, and the Commission authority over such material may be exercised, only after compliance by the Commission with the same procedures as are applicable in the case of termination of agreements under section 274j. of the Atomic Energy Act of 1954 \[subsec. (j) of this section\]."
+
+#### <b>Executive Documents</b>
 
 #### Federal Compliance With Pollution Control Standards
 
@@ -200,7 +206,7 @@ For provisions relating to the responsibility of the head of each Executive agen
 
 #### Executive Order No. 12192
 
-Ex. Ord. No. 12192, Feb. 12, 1980, 45 F.R. 9727, which established the State Planning Council on Radioactive Waste Management and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §13, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12192, Feb. 12, 1980, 45 F.R. 9727, which established the State Planning Council on Radioactive Waste Management and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §13, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

@@ -16,7 +16,7 @@ Any relevant wildlife management authority of a nation within the range of Asian
 
 &emsp;(4) An estimate of the funds and time required to complete the project.
 
-&emsp;(5) Evidence of support of the project by appropriate governmental entities of countriesin which the project will be conducted, if the Secretary determines that the support is required for the success of the project.
+&emsp;(5) Evidence of support of the project by appropriate governmental entities of countries in which the project will be conducted, if the Secretary determines that the support is required for the success of the project.
 
 &emsp;(6) Information regarding the source and amount of matching funding available to the applicant.
 
@@ -69,6 +69,8 @@ In determining whether to approve project proposals under this section, the Secr
 Amounts provided as a grant under this chapter may not be used for captive breeding of Asian elephants other than for release in the wild.
 
 (Pub. L. 105–96, §5, Nov. 19, 1997, 111 Stat. 2151; Pub. L. 110–133, §2(a), Dec. 6, 2007, 121 Stat. 1362.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

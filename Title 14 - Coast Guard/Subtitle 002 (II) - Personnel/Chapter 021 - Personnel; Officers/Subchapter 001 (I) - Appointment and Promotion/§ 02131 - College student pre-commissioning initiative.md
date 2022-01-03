@@ -74,7 +74,7 @@ Enlistment and Obligation.—Individuals selected and accept to participate in t
 
 (d)
 
-Military Activities Prior to Officer Candidate School.—Individuals enrolled in the Program shall participate in military activitieseach month, as required by the Commandant, prior to attending Officer Candidate School.
+Military Activities Prior to Officer Candidate School.—Individuals enrolled in the Program shall participate in military activities each month, as required by the Commandant, prior to attending Officer Candidate School.
 
 (e)
 

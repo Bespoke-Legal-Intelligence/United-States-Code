@@ -10,7 +10,7 @@ General.—A person may not—
 
 &emsp;(3) fail to keep specified records, refuse access to or copying of records, fail to make reports or provide items or information, or fail or refuse to allow entry or inspection, as required by this chapter;
 
-&emsp;(4) fail to provide the certification required by section 33108(c) of this title, or provide a certification that the person knows, or in the exercise of reasonable care has reason toknow, is false or misleading in a material respect; or
+&emsp;(4) fail to provide the certification required by section 33108(c) of this title, or provide a certification that the person knows, or in the exercise of reasonable care has reason to know, is false or misleading in a material respect; or
 
 &emsp;(5) knowingly—
 

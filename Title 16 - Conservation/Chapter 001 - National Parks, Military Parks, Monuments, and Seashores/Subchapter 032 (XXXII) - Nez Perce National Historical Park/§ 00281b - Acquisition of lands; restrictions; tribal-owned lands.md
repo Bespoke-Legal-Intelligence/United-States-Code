@@ -16,6 +16,8 @@ The Secretary of the Interior may acquire by donation or with donated funds such
 
 (Pub. L. 89–19, §3, May 15, 1965, 79 Stat. 110; Pub. L. 102–576, §2(3), Oct. 30, 1992, 106 Stat. 4770.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–576 substituted provisions relating to acquisition of lands or interest therein owned by State or political subdivision of State and provisions relating to acquisition of sites designated as components of park after Nov. 1, 1991, for proviso in first sentence limiting amount of land which may be purchased in fee to 1,500 acres and amount of scenic easements which may be purchased to 1,500 acres.

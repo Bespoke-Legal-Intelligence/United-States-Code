@@ -20,9 +20,13 @@ R.S. 1431.
 
 The words "to exercise carefully a discrimination in" are omitted as surplusage. The words "leave and liberty" are substituted for "temporary leave of absence and liberty on shore" to conform to modern terminology.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 5949 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

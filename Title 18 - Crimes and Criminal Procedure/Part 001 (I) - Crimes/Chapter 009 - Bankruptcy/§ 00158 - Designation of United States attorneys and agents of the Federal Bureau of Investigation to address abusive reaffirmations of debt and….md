@@ -18,7 +18,7 @@ Bankruptcy Investigations.—Each United States attorney designated under this s
 
 (d)
 
-Bankruptcy Procedures.—The bankruptcy courts shall establish procedures for referring any case that may contain a materially fraudulent statement in a bankruptcy schedule to the individuals designated under this section.
+Bankruptcy Procedures.—The bankruptcy courts shall establish procedures for referring any case that may contain a materiallyfraudulent statement in a bankruptcy schedule to the individuals designated under this section.
 
 (Added Pub. L. 109–8, title II, §203(b)(1), Apr. 20, 2005, 119 Stat. 49.)
 

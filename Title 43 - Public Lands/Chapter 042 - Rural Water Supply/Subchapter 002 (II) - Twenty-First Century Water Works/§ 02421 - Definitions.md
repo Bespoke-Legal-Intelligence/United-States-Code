@@ -10,7 +10,7 @@ In this subchapter:
 
 &emsp;The term "lender" means—
 
-&emsp;&emsp;(A) a non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulation <sup>1</sup> (or any successor regulation), known as Rule 144A(a)of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)); or
+&emsp;&emsp;(A) a non-Federal qualified institutional buyer (as defined in section 230.144A(a) of title 17, Code of Federal Regulation <sup>1</sup> (or any successor regulation), known as Rule 144A(a) of the Securities and Exchange Commission and issued under the Securities Act of 1933 (15 U.S.C. 77a et seq.)); or
 
 &emsp;&emsp;(B) a clean renewable energy bond lender (as defined in section 54(j)(2) <sup>2</sup> of title 26 (as in effect on December 22, 2006)).
 

@@ -26,7 +26,7 @@ Motor carriers.—
 
 &emsp;&emsp;(A)
 
-Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between thecarrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
+Shipper waiver.—Subject to the provisions of subparagraph (B), a carrier providing transportation or service subject to jurisdiction under subchapter I or III of chapter 135 may, subject to the provisions of this chapter (including with respect to a motor carrier, the requirements of section 13710(a)), establish rates for the transportation of property (other than household goods described in section 13102(10)(A)) under which the liability of the carrier for such property is limited to a value established by written or electronic declaration of the shipper or by written agreement between the carrier and shipper if that value would be reasonable under the circumstances surrounding the transportation.
 
 &emsp;&emsp;(B)
 
@@ -34,7 +34,7 @@ Carrier notification.—If the motor carrier is not required to file its tariff 
 
 &emsp;&emsp;(C)
 
-Prohibition against collective establishment.—No discussion, consideration, or approval as to rules to limit liability under this subsection may be undertaken by carriers acting under an agreement approved pursuant to section 13703.
+Prohibition against collective establishment.—No discussion, consideration, or approval as to rules to limit liability under this subsection may be undertaken bycarriers acting under an agreement approved pursuant to section 13703.
 
 &emsp;(2)
 
@@ -122,6 +122,8 @@ Report.—Not later than 12 months after January 1, 1996, the Secretary shall su
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 907; amended Pub. L. 104–287, §5(38), Oct. 11, 1996, 110 Stat. 3392; Pub. L. 109–59, title IV, §4207, Aug. 10, 2005, 119 Stat. 1757.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in sections 10730 and 11707 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -132,27 +134,13 @@ Provisions similar to those in this section were contained in sections 10730 and
 
 <b>1996</b>—Subsec. (g)(3). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 1301 of this title.
 
 #### Review of Liability of Carriers
 
-Pub. L. 109–59, title IV, §4215, Aug. 10, 2005, 119 Stat. 1760, provided that:
-
-"(a)
-
-Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
-
-"(b)
-
-Determinations.—The review required by subsection (a) shall include a determination of—
-
-&emsp;"(1) whether the current regulations provide adequate protection;
-
-&emsp;"(2) the benefits of purchase by a shipper of insurance to supplement the carrier's limitations on liability; and
-
-&emsp;"(3) whether there are abuses of the current regulations that leave the shipper unprotected in the event of loss and damage to a shipment of household goods."
-
-\[For definitions of "carrier", "household goods", "motor carrier", and "transportation" as used in section 4215 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
+Pub. L. 109–59, title IV, §4215, Aug. 10, 2005, 119 Stat. 1760, provided that, not later than 1 year after Aug. 10, 2005, the Surface Transportation Board would complete a review of Federal regulations regarding liability protection provided by motor carriers that provided transportation of household goods and revise such regulations, if necessary, to provide enhanced protection for loss or damage.
 

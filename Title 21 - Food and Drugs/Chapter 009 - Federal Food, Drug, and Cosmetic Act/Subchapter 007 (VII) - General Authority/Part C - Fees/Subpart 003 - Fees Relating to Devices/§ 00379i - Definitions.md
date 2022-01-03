@@ -24,7 +24,7 @@ For purposes of this subpart:
 
 &emsp;(C) The term "180-day supplement" means a supplement to an approved premarket application or premarket report under section 360e of this title that is not a panel-track supplement and requests a significant change in components, materials, design, specification, software, color additives, or labeling.
 
-&emsp;(D) The term "real-time supplement" means a supplement to an approved premarket application or premarket report under section 360eof this title that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
+&emsp;(D) The term "real-time supplement" means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a minor change to the device, such as a minor change to the design of the device, software, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
 
 &emsp;(E) The term "efficacy supplement" means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
 
@@ -80,7 +80,7 @@ For purposes of this subpart:
 
 &emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
 
-&emsp;(14) The term "establishment subject to a registration fee" means an establishment thatis registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
+&emsp;(14) The term "establishment subject to a registration fee" means an establishment that is registered (or is required to register) with the Secretary under section 360 of this title because such establishment is engaged in the manufacture, preparation, propagation, compounding, or processing of a device.
 
 (June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589; amended Pub. L. 108–214, §2(a)(1), (d)(3)(A), Apr. 1, 2004, 118 Stat. 572, 577; Pub. L. 110–85, title II, §211, Sept. 27, 2007, 121 Stat. 843; Pub. L. 112–144, title II, §202, July 9, 2012, 126 Stat. 1002; Pub. L. 114–255, div. A, title III, §3051(c)(2), Dec. 13, 2016, 130 Stat. 1124; Pub. L. 115–52, title II, §202(a), Aug. 18, 2017, 131 Stat. 1013.)
 
@@ -152,7 +152,7 @@ Pub. L. 110–85, title II, §217, Sept. 27, 2007, 121 Stat. 852, which provided
 
 Pub. L. 115–52, title II, §210(a), Aug. 18, 2017, 131 Stat. 1020, provided that: "Sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 739i \[379i\]; 739j \[379j\]) shall cease to be effective October 1, 2022."
 
-Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, which provided that sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i; 379j) would cease to be effective Oct. 1, 2017, and that section 738A (21 U.S.C. 379j–1) of the Federal Food,Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020.
+Pub. L. 112–144, title II, §207(a), July 9, 2012, 126 Stat. 1007, which provided that sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i; 379j) would cease to be effective Oct. 1, 2017, and that section 738A (21 U.S.C. 379j–1) of the Federal Food, Drug, and Cosmetic Act (regarding reauthorization and reporting requirements) would cease to be effective Jan. 31, 2018, was repealed by Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020.
 
 \[Pub. L. 115–52, title II, §210(c), Aug. 18, 2017, 131 Stat. 1020, provided that the repeal of section 207(a) of Pub. L. 112–144, formerly set out above, is effective Oct. 1, 2017.\]
 
@@ -164,7 +164,7 @@ Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, which provided
 
 #### Savings Provision
 
-Pub. L. 115–52, title II, §208, Aug. 18, 2017, 131 Stat. 1019, provided that: "Notwithstanding the amendments made by this title \[see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title \[Aug. 18, 2017\], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act \[21 U.S.C. 379j(a)(2)(A)\] (as defined in such part as of such day) that on or after October 1, 2012, but before October 1, 2017, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018."
+Pub. L. 115–52, title II, §208, Aug. 18, 2017, 131 Stat. 1019, provided that: "Notwithstanding the amendments made by this title \[see section 201(a) of Pub. L. 115–52, set out as a Short Title of 2017 Amendment note under section 301 of this title\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title \[Aug. 18, 2017\], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act \[21 U.S.C.379j(a)(2)(A)\] (as defined in such part as of such day) that on or after October 1, 2012, but before October 1, 2017, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2018."
 
 Pub. L. 112–144, title II, §205, July 9, 2012, 126 Stat. 1007, provided that: "Notwithstanding the amendments made by this title \[enacting section 379d–3 of this title, amending this section and sections 360e, 379j, and 379j–1 of this title, and repealing provisions set out as notes under this section\], part 3 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i et seq.), as in effect on the day before the date of the enactment of this title \[July 9, 2012\], shall continue to be in effect with respect to the submissions listed in section 738(a)(2)(A) of such Act \[21 U.S.C. 379j(a)(2)(A)\] (in effect as of such day) that on or after October 1, 2007, but before October 1, 2012, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2013."
 
@@ -192,7 +192,7 @@ Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, as amended by 
 
 "(a)
 
-In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committeeon Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
+In General.—Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
 
 &emsp;"(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
 
@@ -204,7 +204,7 @@ Additional Information.—For fiscal years 2006 and 2007, the report described u
 
 &emsp;"(1) information on the number of different types of applications and notifications, and the total amount of fees paid for each such type of application or notification, from businesses with gross receipts or sales from $0 to $100,000,000, with such businesses categorized in $10,000,000 intervals; and
 
-&emsp;"(2) a certification by the Secretary that the amounts appropriated for salaries and expenses of the Food and Drug Administration for such fiscal year and obligated by the Secretary for the performance of any function relating to devices that is not for the process for the review of device applications, as defined in paragraph (5) \[now (8)\] of section 737 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i), are not less than such amounts for fiscal year 2002 multiplied by the adjustment factor, as defined in paragraph (7) \[now (10)\] of such section 737."
+&emsp;"(2) a certification by the Secretary that the amounts appropriated for salaries and expenses of the Food and Drug Administration for such fiscal year and obligated by the Secretary for the performance of any function relating to devices that is not for the process for the review of device applications, as defined in paragraph (5) \[now (8)\] of section 737 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379i), are not less than such amounts for fiscal year 2002multiplied by the adjustment factor, as defined in paragraph (7) \[now (10)\] of such section 737."
 
 #### Study
 

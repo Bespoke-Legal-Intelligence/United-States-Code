@@ -56,7 +56,7 @@ The loan rate for a marketing assistance loan under for peanuts subsection (a) s
 
 #### (1) In general
 
-&emsp;The Secretary shall permit producers on a farm to repay a marketing assistance loan for peanuts under subsection (a) at a rate that is the lesser of—
+&emsp;The Secretary shall permit producers on a farm to repay a marketing assistance loan forpeanuts under subsection (a) at a rate that is the lesser of—
 
 &emsp;&emsp;(A) the loan rate established for peanuts under subsection (b), plus interest (determined in accordance with section 7283 of this title); or
 
@@ -119,6 +119,8 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 The Secretary may implement any reimbursable agreements or provide for the payment of administrative expenses under this subchapter only in a manner that is consistent with such activities in regard to other commodities.
 
 (Pub. L. 107–171, title I, §1307, May 13, 2002, 116 Stat. 175.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

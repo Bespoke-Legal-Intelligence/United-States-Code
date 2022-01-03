@@ -1,6 +1,6 @@
 ### §2624. Funding for termination costs of River Protection Project, Richland, Washington
 
-The Secretary of Energy may not use appropriated funds to establish a reserve for the payment of any costs of termination of any contract relating to the River Protection Project, Richland, Washington (as designated by section 2623 of this title), that is terminated after October 30, 2000. Such costs may be paid from—
+The Secretary of Energy may not use appropriated funds to establish a reserve for the payment of any costs of termination of any contract relating to the River Protection Project, Richland, Washington (as designated by section2623 of this title), that is terminated after October 30, 2000. Such costs may be paid from—
 
 &emsp;(1) appropriations originally available for the performance of the contract concerned;
 
@@ -9,6 +9,8 @@ The Secretary of Energy may not use appropriated funds to establish a reserve fo
 &emsp;(3) funds appropriated specifically for the payment of such costs.
 
 (Pub. L. 107–314, div. D, title XLIV, §4444, formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3131\], Oct. 30, 2000, 114 Stat. 1654, 1654A–454; renumbered Pub. L. 107–314, div. D, title XLIV, §4444, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(19), Nov. 24, 2003, 117 Stat. 1768; Pub. L. 113–66, div. C, title XXXI, §3146(e)(14), Dec. 26, 2013, 127 Stat. 1078.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

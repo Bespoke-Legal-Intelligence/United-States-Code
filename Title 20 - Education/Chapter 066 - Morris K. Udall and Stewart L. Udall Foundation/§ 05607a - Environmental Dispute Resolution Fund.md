@@ -40,6 +40,8 @@ The Fund shall be maintained separately from the Trust Fund established under se
 
 (Pub. L. 102–259, §10, as added Pub. L. 105–156, §6(b), Feb. 11, 1998, 112 Stat. 10; amended Pub. L. 105–277, div. A, §101(h) \[title V, §517(c)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–512; Pub. L. 116–94, div. P, title III, §306, Dec. 20, 2019, 133 Stat. 3190.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 10 of Pub. L. 102–259 was renumbered section 12 and is classified to section 5608 of this title.

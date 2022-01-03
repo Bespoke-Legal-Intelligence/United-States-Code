@@ -16,10 +16,15 @@
 | :--- | :---: | ---: |
 | <b>63.</b><b><sup>1</sup></b> | <b>Bureau of Transportation Statistics</b> | <b>6301</b> |
 | [<b>65.</b>](Chapter%20065%20-%20Research%20Planning/README.md) | <b>Research planning</b> | <b>6501</b> |
+| [<b>67.</b>](Chapter%20067%20-%20Multimodal%20Infrastructure%20Investments/README.md) | <b>Multimodal infrastructure investments</b> | <b>6701 </b><b><sup>3</sup></b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–58, div. B, title I, §21202(c), Nov. 15, 2021, 135 Stat. 676, added item for chapter 67. Item was conformed to the style of this analysis and starting section number was supplied editorially.
 
 <b>2015</b>—Pub. L. 114–94, div. A, title VI, §6019(c), Dec. 4, 2015, 129 Stat. 1581, added second item for chapter 63 and item for chapter 65.
 
@@ -32,6 +37,8 @@
 <i><sup>1</sup></i><i> So in original. Two items for chapter 63 have been enacted.</i>
 
 <i><sup>2</sup></i><i> Editorially supplied.</i>
+
+<i><sup>3</sup></i><i> See 2021 Amendment note below.</i>
 
 
 ---
@@ -46,3 +53,4 @@
 - [Chapter 061 - One-Call Notification Programs](Chapter%20061%20-%20One-Call%20Notification%20Programs/README.md)
 - [Chapter 063 - Bureau of Transportation Statistics](Chapter%20063%20-%20Bureau%20of%20Transportation%20Statistics/README.md)
 - [Chapter 065 - Research Planning](Chapter%20065%20-%20Research%20Planning/README.md)
+- [Chapter 067 - Multimodal Infrastructure Investments](Chapter%20067%20-%20Multimodal%20Infrastructure%20Investments/README.md)

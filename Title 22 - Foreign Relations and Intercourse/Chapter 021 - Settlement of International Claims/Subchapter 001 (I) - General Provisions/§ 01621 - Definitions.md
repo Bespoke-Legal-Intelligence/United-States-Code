@@ -58,7 +58,7 @@ Pub. L. 114–328, div. A, title XVII, Dec. 23, 2016, 130 Stat. 2642, as amended
 
 "(a)
 
-Recognition of the Suffering of the Residents of Guam.—The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjected to death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
+Recognition of the Suffering of the Residents of Guam.—The United States recognizes that, as described by the Guam War Claims Review Commission, the residents of Guam, on account of their United States nationality, suffered unspeakable harm as a result of the occupation of Guam by Imperial Japanese military forces during World War II, by being subjectedto death, rape, severe personal injury, personal injury, forced labor, forced march, or internment.
 
 "(b)
 
@@ -300,7 +300,7 @@ Pub. L. 114–308, Dec. 16, 2016, 130 Stat. 1524, provided that:
 
 &emsp;"(5) In 2009, the United States participated in a Holocaust Era Assets Conference in Prague, Czech Republic, with 45 other nations. At the conclusion of this conference, the participating nations issued the Terezin Declaration, which reaffirmed the 1998 Washington Conference Principles on Nazi-Confiscated Art and urged all participants 'to ensure that their legal systems or alternative processes, while taking into account the different legal traditions, facilitate just and fair solutions with regard to Nazi-confiscated and looted art, and to make certain that claims to recover such art are resolved expeditiously and based on the facts and merits of the claims and all the relevant documents submitted by all parties.'. The Declaration also urged participants to 'consider all relevant issues when applying various legal provisions that may impede the restitution of art and cultural property, in order to achieve just and fair solutions, as well as alternative dispute resolution, where appropriate under law.'.
 
-&emsp;"(6) Victims of Nazi persecution and their heirs have taken legal action in the United States to recover Nazi-confiscated art. These lawsuits face significant procedural obstacles partly due to Statestatutes of limitations, which typically bar claims within some limited number of years from either the date of the loss or the date that the claim should have been discovered. In some cases, this means that the claims expired before World War II even ended. (See, e.g., Detroit Institute of Arts v. Ullin, No. 06–10333, 2007 WL 1016996 (E.D. Mich. Mar. 31, 2007).) The unique and horrific circumstances of World War II and the Holocaust make statutes of limitations especially burdensome to the victims and their heirs. Those seeking recovery of Nazi-confiscated art must painstakingly piece together their cases from a fragmentary historical record ravaged by persecution, war, and genocide. This costly process often cannot be done within the time constraints imposed by existing law.
+&emsp;"(6) Victims of Nazi persecution and their heirs have taken legal action in the United States to recover Nazi-confiscated art. These lawsuits face significant procedural obstacles partly due to State statutes of limitations, which typically bar claims within some limited number of years from either the date of the loss or the date that the claim should have been discovered. In some cases, this means that the claims expired before World War II even ended. (See, e.g., Detroit Institute of Arts v. Ullin, No. 06–10333, 2007 WL 1016996 (E.D. Mich. Mar. 31, 2007).) The unique and horrific circumstances of World War II and the Holocaust make statutes of limitations especially burdensome to the victims and their heirs. Those seeking recovery of Nazi-confiscated art must painstakingly piece together their cases from a fragmentary historical record ravaged by persecution, war, and genocide. This costly process often cannot be done within the time constraints imposed by existing law.
 
 &emsp;"(7) Federal legislation is needed because the only court that has considered the question held that the Constitution prohibits States from making exceptions to their statutes of limitations to accommodate claims involving the recovery of Nazi-confiscated art. In Von Saher v. Norton Simon Museum of Art, 592 F.3d 954 (9th Cir. 2009), the United States Court of Appeals for the Ninth Circuit invalidated a California law that extended the State statute of limitations for claims seeking recovery of Holocaust-era artwork. The Court held that the law was an unconstitutional infringement of the Federal Government's exclusive authority over foreign affairs, which includes the resolution of war-related disputes. In light of this precedent, the enactment of a Federal law is necessary to ensure that claims to Nazi-confiscated art are adjudicated in accordance with United States policy as expressed in the Washington Conference Principles on Nazi-Confiscated Art, the Holocaust Victims Redress Act, and the Terezin Declaration.
 
@@ -366,7 +366,7 @@ Possible Misidentification.—For purposes of subsection (a)(1), in a case in wh
 
 "(c)
 
-Preexisting Claims.—Except as provided in subsection (e), a civil claim or cause of action described in subsection (a) shall be deemed to have been actually discovered on the date of enactment of this Act \[Dec. 16, 2016\] if—
+Preexisting Claims.—Except as provided in subsection (e), a civil claim or cause of action described insubsection (a) shall be deemed to have been actually discovered on the date of enactment of this Act \[Dec. 16, 2016\] if—
 
 &emsp;"(1) before the date of enactment of this Act—
 
@@ -400,7 +400,7 @@ Rule of Construction.—Nothing in this Act shall be construed to create a civil
 
 "(g)
 
-Sunset.—This Act shall cease to have effect on January 1, 2027, except that this Act shall continue to apply to any civil claim or cause of action described in subsection (a) that is pending on January 1, 2027. Any civil claim or cause of action commenced on or after that date to recover artwork or other property described in this Act shall be subject to any applicable Federal or State statute of limitations or any otherFederal or State defense at law relating to the passage of time."
+Sunset.—This Act shall cease to have effect on January 1, 2027, except that this Act shall continue to apply to any civil claim or cause of action described in subsection (a) that is pending on January 1, 2027. Any civil claim or cause of action commenced on or after that date to recover artwork or other property described in this Act shall be subject to any applicable Federal or State statute of limitations or any other Federal or State defense at law relating to the passage of time."
 
 #### United States Holocaust Assets Commission
 
@@ -670,7 +670,7 @@ Detail of Government Employees.—Any Federal Government employee may be detaile
 
 "(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent ofthe annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
 
 "(f)
 

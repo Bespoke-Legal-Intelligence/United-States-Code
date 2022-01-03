@@ -2,7 +2,7 @@
 
 (a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom the first 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work and shall be paid for, except as otherwise provided by this subchapter, at the following rates:
 
-&emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability paymentunder section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
+&emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
 &emsp;(2) For an employee whose basic pay is at a rate which exceeds the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to the greater of one and one-half times the hourly rate of the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) or the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
@@ -26,7 +26,7 @@
 
 &emsp;(5) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Interior or the United States Forest Service in the Department of Agriculture engaged in emergency wildland fire suppression activities, the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
-&emsp;(6)(A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty to perform work aboard, or dockside in direct support of, the nuclear aircraft carrier that is forward deployed in Japan and who would be nonexempt under the Fair Labor Standards Act but for the application of the foreign area exemption in section 13(f) of that Act (29 U.S.C. 213(f)), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
+&emsp;(6)(A) Notwithstanding paragraphs (1) and (2), for an employee of the Department of the Navy who is assigned to temporary duty outside the United States to perform work aboard, or dockside in direct support of, naval vessels and who would be nonexempt under the Fair Labor Standards Act of 1938 but for the application of the foreign area exemption in section 13(f) of that Act (29 U.S.C. 213(f)), the employee shall be coded and paid overtime as if the employee's exemption status under that Act is the same as it is at the employee's permanent duty station.
 
 &emsp;(B) Subparagraph (A) shall expire on September 30, 2026.
 
@@ -110,7 +110,33 @@
 
 &emsp;&emsp;(F) shall not be credited with compensatory time off if the value of such time off would cause the aggregate premium pay of the border patrol agent to exceed the limitation established under section 5547 in the period in which it was earned.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641;Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383; Pub. L. 113–277, §2(c)(1), Dec. 18, 2014, 128 Stat. 3002; Pub. L. 113–291, div. A, title XI, §1106(a), Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1103, Nov. 25, 2015, 129 Stat. 1022; Pub. L. 114–328, div. A, title XI, §1108, Dec. 23, 2016, 130 Stat. 2449; Pub. L. 115–91, div. A, title XI, §1109, Dec. 12, 2017, 131 Stat. 1631; Pub. L. 115–232, div. A, title XI, §1103, Aug. 13, 2018, 132 Stat. 2001; Pub. L. 116–283, div. A, title XI, §1113, Jan. 1, 2021, 134 Stat. 3894.)
+(h)(1)(A) Notwithstanding any other provision of this section or section 5545b, any hours worked by a firefighter under a qualified trade-of-time arrangement shall be disregarded for purposes of any determination relating to eligibility for, or the amount of, any overtime pay under this section, including overtime pay under the Fair Labor Standards Act in accordance with subsection (c).
+
+(B) The Director of the Office of Personnel Management—
+
+&emsp;(i) shall identify the situations in which a firefighter shall be deemed to have worked hours actually worked by a substituting firefighter under a qualified trade-of-time arrangement; and
+
+&emsp;(ii) may adopt necessary policies governing the treatment of both a substituting and substituted firefighter under a qualified trade-of-time arrangement, without regard to how those firefighters would otherwise be treated under other provisions of law or regulation.
+
+(2) In this subsection—
+
+&emsp;(A) the term "firefighter" means an employee—
+
+&emsp;&emsp;(i) the work schedule of whom includes 24-hour duty shifts; and
+
+&emsp;&emsp;(ii) who—
+
+&emsp;&emsp;&emsp;(I) is a firefighter, as defined in section 8331(21) or 8401(14);
+
+&emsp;&emsp;&emsp;(II) in the case of an employee who holds a supervisory or administrative position and is subject to subchapter III of chapter 83, but who does not qualify to be considered a firefighter within the meaning of section 8331(21), would so qualify if such employee had transferred directly to such position after serving as a firefighter within the meaning of such section;
+
+&emsp;&emsp;&emsp;(III) in the case of an employee who holds a supervisory or administrative position and is subject to chapter 84, but who does not qualify to be considered a firefighter within the meaning of section 8401(14), would so qualify if such employeehad transferred directly to such position after performing duties described in section 8401(14)(A) and (B) for at least 3 years; and
+
+&emsp;&emsp;&emsp;(IV) in the case of an employee who is not subject to subchapter III of chapter 83 or chapter 84, holds a position that the Office of Personnel Management determines would satisfy subclause (I), (II), or (III) if the employee were subject to subchapter III of chapter 83 or chapter 84; and
+
+&emsp;(B) the term "qualified trade-of-time arrangement" means an arrangement under which 2 firefighters who are subject to the supervision of the same fire chief agree, solely at their option and with the approval of the employing agency, to substitute for one another during scheduled work hours in the performance of work in the same capacity.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 485; Pub. L. 90–83, §1(24), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(a), Dec. 16, 1967, 81 Stat. 641; Pub. L. 90–556, §1, Oct. 10, 1968, 82 Stat. 969; Pub. L. 92–194, Dec. 15, 1971, 85 Stat. 648; Pub. L. 98–473, title I, §101(c) \[title III, §322\], Oct. 12, 1984, 98 Stat. 1837, 1874; Pub. L. 101–509, title V, §529 \[title I, §101(b)(3)(E), title II, §210(1), title IV, §410(a)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1460, 1468; Pub. L. 102–378, §2(41), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 103–329, title VI, §633(c), Sept. 30, 1994, 108 Stat. 2427; Pub. L. 104–52, title V, §531, Nov. 19, 1995, 109 Stat. 496; Pub. L. 105–277, div. A, §101(b) \[title IV, §407(c)(2)\], (h) \[title VI, §628(a)(1)\], div. G, subdiv. B, title XXIII, §2316(c)(2), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–480, 2681–519, 2681–829; Pub. L. 106–558, §2(a), Dec. 21, 2000, 114 Stat. 2776; Pub. L. 108–136, div. A, title XI, §1121, Nov. 24, 2003, 117 Stat. 1636; Pub. L. 111–383, div. A, title XI, §1105(a), Jan. 7, 2011, 124 Stat. 4383; Pub. L. 113–277, §2(c)(1), Dec. 18, 2014, 128 Stat. 3002; Pub. L. 113–291, div. A, title XI, §1106(a), Dec. 19, 2014, 128 Stat. 3526; Pub. L. 114–92, div. A, title XI, §1103, Nov. 25, 2015, 129 Stat. 1022; Pub. L. 114–328, div. A, title XI, §1108, Dec. 23, 2016, 130 Stat. 2449; Pub. L. 115–91, div. A, title XI, §1109, Dec. 12, 2017, 131 Stat. 1631; Pub. L. 115–232, div. A, title XI, §1103, Aug. 13, 2018, 132 Stat. 2001; Pub. L. 116–283, div. A, title XI, §1113, Jan. 1, 2021, 134 Stat. 3894; Pub. L. 117–81, div. A, title XI, §§1108, 1110, Dec. 27, 2021, 135 Stat. 1951, 1952.)
 
 Historical and Revision Notes<br>1966
 
@@ -170,15 +196,21 @@ The words "of the Classification Act of 1949, as amended" are omitted as unneces
 
 GS–10 and GS–14, referred to in subsec. (a), are contained in the General Schedule which is set out under section 5332 of this title.
 
-The Fair Labor Standards Act, referred to in subsec. (a)(6)(A), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(6)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 Section 7 of the Fair Labor Standards Act of 1938, referred to in subsec. (c), is classified to section 207 of Title 29, Labor.
 
 Section 37(a)(3) of the State Department Basic Authorities Act of 1956, referred to in subsec. (e), is classified to section 2709(a)(3) of Title 22, Foreign Relations and Intercourse.
 
+The Fair Labor Standards Act, referred to in subsec. (h)(1)(A), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
+
 #### Amendments
 
-<b>2021</b>—Subsec. (a)(6)(B). Pub. L. 116–283 substituted "September 30, 2026" for "September 30, 2021".
+<b>2021</b>—Subsec. (a)(6)(A). Pub. L. 117–81, §1108, inserted "outside the United States" after "temporary duty" and "of 1938" after "Fair Labor Standards Act" and substituted "naval vessels" for "the nuclear aircraft carrier that is forward deployed in Japan" and "the employee shall be coded and paid overtime as if the employee's exemption status under that Act is the same as it is at the employee's permanent duty station." for "the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay."
+
+Subsec. (a)(6)(B). Pub. L. 116–283 substituted "September 30, 2026" for "September 30, 2021".
+
+Subsec. (h). Pub. L. 117–81, §1110, added subsec. (h).
 
 <b>2018</b>—Subsec. (a)(6)(B). Pub. L. 115–232 substituted "September 30, 2021" for "September 30, 2019".
 
@@ -228,7 +260,7 @@ Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
 #### Effective Date of 2014 Amendment
 
-Pub. L. 113–277, §2(i), as added by Pub. L. 114–13, §1(a), May 19, 2015, 129 Stat. 197, provided that: "Subsections (b), (c), (d), and (g) \[enacting section 5550 of this title, amending this section and sections 5547 and 8331 of this title and section 213 of Title 29, Labor, and enactingprovisions set out as a note under section 5550 of this title\], and the amendments made by such subsections, shall take effect on the first day of the first pay period beginning on or after January 1, 2016, except that—
+Pub. L. 113–277, §2(i), as added by Pub. L. 114–13, §1(a), May 19, 2015, 129 Stat. 197, provided that: "Subsections (b), (c), (d), and (g) \[enacting section 5550 of this title, amending this section and sections 5547 and 8331 of this title and section 213 of Title 29, Labor, and enacting provisions set out as a note under section 5550 of this title\], and the amendments made by such subsections, shall take effect on the first day of the first pay period beginning on or after January 1, 2016, except that—
 
 &emsp;"(1) any provision in section 5550(b) of title 5, United States Code, as added by subsection (b), relating to administering elections and making advance assignments to a regular tour of duty shall be applicable before such effective date to the extent determined necessary by the Director of the Office of Personnel Management; and
 

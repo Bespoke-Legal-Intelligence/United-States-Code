@@ -14,9 +14,13 @@ The penalty imposed by this section shall be in addition to any other penalty im
 
 (Added Pub. L. 100–647, title I, §1012(aa)(5)(B), Nov. 10, 1988, 102 Stat. 3532.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 6712 was renumbered section 6713 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

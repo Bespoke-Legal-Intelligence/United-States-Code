@@ -1,6 +1,6 @@
 ### §1775. Conditions upon conversion to Federal status
 
-Any District of Columbia credit union converting into a Federal credit union in accordance with sections 1773 to 1775 of this title shallthereupon be subject to the limitations, vested with the powers, and charged with the liabilities conferred and imposed by the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\] upon credit unions organized thereunder, except that—
+Any District of Columbia credit union converting into a Federal credit union in accordance with sections 1773 to 1775 of this title shall thereupon be subject to the limitations, vested with the powers, and charged with the liabilities conferred and imposed by the Federal Credit Union Act \[12 U.S.C. 1751 et seq.\] upon credit unions organized thereunder, except that—
 
 &emsp;(1) no fee shall be imposed upon a credit union converting pursuant to sections 1773 to 1775 of this title as an incident to its conversion;
 

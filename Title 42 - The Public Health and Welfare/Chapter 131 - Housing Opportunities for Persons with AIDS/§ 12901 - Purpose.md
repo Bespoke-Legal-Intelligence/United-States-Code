@@ -4,6 +4,8 @@ The purpose of this chapter <sup>1</sup> is to provide States and localities wi
 
 (Pub. L. 101–625, title VIII, §852, Nov. 28, 1990, 104 Stat. 4375; Pub. L. 102–550, title VI, §606(j)(1), Oct. 28, 1992, 106 Stat. 3810.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", and was translated as reading "this subtitle", meaning subtitle D (§§851–863) of title VIII of Pub. L. 101–625, to reflect the probable intent of Congress.
@@ -11,6 +13,8 @@ This chapter, referred to in text, was in the original "this title", and was tra
 #### Amendments
 
 <b>1992</b>—Pub. L. 102–550 inserted before period at end "and families of such persons".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title
 

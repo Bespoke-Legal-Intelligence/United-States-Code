@@ -54,7 +54,7 @@ The term "animal" means all vertebrate and invertebrate species, including but n
 
 #### (f) Defoliant
 
-The term "defoliant" means any substance or mixture of substances intended for causing the leaves or foliage to drop from a plant, with or without causing abscission.
+The term "defoliant" means any substance or mixture of substances intended for causing theleaves or foliage to drop from a plant, with or without causing abscission.
 
 #### (g) Desiccant
 
@@ -128,7 +128,7 @@ The term "insect" means any of the numerous small invertebrate animals generally
 
 &emsp;&emsp;(G) the label does not contain a warning or caution statement which may be necessary and if complied with, together with any requirements imposed under section 136a(d) of this title, is adequate to protect health and the environment; or
 
-&emsp;&emsp;(H) in the case of a pesticide not registered in accordance with section 136a of this title and intended for export, the label does not contain, in words prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) as to render it likely to be noted by the ordinary individual under customary conditions of purchase and use, the following: "Not Registered for Use in the United States of America".
+&emsp;&emsp;(H) in the case of a pesticide not registered in accordance with section 136a of this titleand intended for export, the label does not contain, in words prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) as to render it likely to be noted by the ordinary individual under customary conditions of purchase and use, the following: "Not Registered for Use in the United States of America".
 
 &emsp;(2) A pesticide is misbranded if—
 
@@ -176,7 +176,7 @@ The term "pesticide" means (1) any substance or mixture of substances intended f
 
 #### (v) Plant regulator
 
-The term "plant regulator" means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term "plant regulator" shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction and are nontoxic, nonpoisonous in the undiluted packaged concentration.
+The term "plant regulator" means any substance or mixture of substances intended, through physiological action, for accelerating or retarding the rate of growth or rate of maturation, or for otherwise altering the behavior of plants or the produce thereof, but shall not include substances to the extent that they are intended as plant nutrients, trace elements, nutritional chemicals, plant inoculants, and soil amendments. Also, the term "plant regulator" shall not be required to include any of such of those nutrient mixtures or soil amendments as are commonly known as vitamin-hormone horticultural products, intended for improvement, maintenance, survival, health, and propagation of plants, and as are not for pest destruction andare nontoxic, nonpoisonous in the undiluted packaged concentration.
 
 #### (w) Producer and produce
 
@@ -196,7 +196,7 @@ The term "registration" includes reregistration.
 
 #### (aa) State
 
-The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico,the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
+The term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Trust Territory of the Pacific Islands, and American Samoa.
 
 #### (bb) Unreasonable adverse effects on the environment
 
@@ -230,7 +230,7 @@ The term "to use any registered pesticide in a manner inconsistent with its labe
 
 #### (gg) To distribute or sell
 
-The term "to distribute or sell" means to distribute, sell, offer for sale, hold for distribution, hold for sale, hold for shipment, ship, deliver for shipment, release for shipment, or receive and (having so received) deliver or offer to deliver. The term does not include the holding or application of registered pesticides or use dilutions thereof by any applicator who provides a service of controlling pests without delivering any unapplied pesticide to any person so served.
+The term "to distribute or sell" means to distribute, sell, offer for sale, hold for distribution, hold for sale, hold for shipment, ship, deliver for shipment, release for shipment, or receive and (having so received) deliver or offer to deliver. The term does not include the holding or application of registered pesticides or use dilutionsthereof by any applicator who provides a service of controlling pests without delivering any unapplied pesticide to any person so served.
 
 #### (hh) Nitrogen stabilizer
 
@@ -246,7 +246,7 @@ The term "nitrogen stabilizer" means any substance or mixture of substances inte
 
 &emsp;&emsp;(B) that was in commercial agronomic use prior to January 1, 1992, with respect to which after January 1, 1992, the distributor or seller of the substance or mixture has made no specific claim of prevention or hindering of the process of nitrification, denitrification, ammonia volatilization <sup>3</sup> urease production regardless of the actual use or purpose for, or future use or purpose for, the substance or mixture.
 
-> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixtureshall not be deemed a specific claim within the meaning of this subsection.
+> Statements made in materials required to be submitted to any State legislative or regulatory authority, or required by such authority to be included in the labeling or other literature accompanying any such substance or mixture shall not be deemed a specific claim within the meaning of this subsection.
 
 #### (jj) <sup>4</sup> Maintenance applicator
 
@@ -311,6 +311,8 @@ The term "public health pesticide" means any minor use pesticide product registe
 The term "vector" means any organism capable of transmitting the causative agent of human disease or capable of producing human discomfort or injury, including mosquitoes, flies, fleas, cockroaches, or other insects and ticks, mites, or rats.
 
 (June 25, 1947, ch. 125, §2, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 975; amended Pub. L. 93–205, §13(f), Dec. 28, 1973, 87 Stat. 903; Pub. L. 94–140, §9, Nov. 28, 1975, 89 Stat. 754; Pub. L. 95–396, §1, Sept. 30, 1978, 92 Stat. 819; Pub. L. 100–532, title I, §101, title VI, §601(a), title VIII, §801(a), Oct. 25, 1988, 102 Stat. 2655, 2677, 2679; Pub. L. 102–237, title X, §1006(a)(1), (2), (b)(3)(A), (B), Dec. 13, 1991, 105 Stat. 1894, 1895; Pub. L. 104–170, title I, §§105(a), 120, title II, §§210(a), 221, 230, title III, §304, Aug. 3, 1996, 110 Stat. 1490, 1492, 1493, 1502, 1508, 1512.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -386,6 +388,8 @@ Subsec. (ee). Pub. L. 95–396, §1(7), added subsec. (ee).
 
 <b>1973</b>—Subsec. (l). Pub. L. 93–205 substituted "or threatened by the Secretary pursuant to the Endangered Species Act of 1973" for "by the Secretary of the Interior under Public Law 91–135".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–532, title IX, §901, Oct. 25, 1988, 102 Stat. 2688, provided that: "Except as otherwise provided in this Act, the amendments made by this Act \[see Short Title of 1988 Amendment note below\] shall take effect on the expiration of 60 days after the date of enactment of this Act \[Oct. 25, 1988\]."
@@ -444,7 +448,7 @@ Pub. L. 104–170, §1, Aug. 3, 1996, 110 Stat. 1489, provided that: "This Act \
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–532, §1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: "This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d, 136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the 'Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988'."
+Pub. L. 100–532, §1(a), Oct. 25, 1988, 102 Stat. 2654, provided that: "This Act \[enacting section 136a–1 of this title, amending this section and sections 136a to 136d,136f to 136q, 136s, 136v to 136w–2, and 136y of this title, and enacting provisions set out as notes under this section and sections 136m and 136y of this title\] may be cited as the 'Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988'."
 
 #### Short Title of 1978 Amendment
 
@@ -455,6 +459,8 @@ Pub. L. 95–396, §29, Sept. 30, 1978, 92 Stat. 842, provided that: "This Act \
 Pub. L. 92–516, §1, Oct. 21, 1972, 86 Stat. 973, provided: "That this Act \[amending this subchapter generally, enacting notes set out under this section, and amending sections 1261 and 1471 of Title 15, Commerce and Trade, and sections 321 and 346a of Title 21, Foods and Drugs\] may be cited as the 'Federal Environmental Pesticide Control Act of 1972'."
 
 Act June 25, 1947, ch. 125, §1(a), as added by Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 973, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Federal Insecticide, Fungicide, and Rodenticide Act'."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

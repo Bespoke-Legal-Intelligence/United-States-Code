@@ -26,6 +26,8 @@ Submission.—The Secretary shall provide the displays described in subsection (
 
 (Added Pub. L. 113–291, div. A, title XVI, §1631(a)(1), Dec. 19, 2014, 128 Stat. 3637; amended Pub. L. 116–283, div. A, title XVII, §1701(2), Jan. 1, 2021, 134 Stat. 4080.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283, §1701(2)(A)(i), substituted "2021" for "2017" and inserted ", in electronic and print formats," after "display" in introductory provisions.
@@ -41,6 +43,8 @@ Subsec. (b)(1). Pub. L. 116–283, §1701(2)(B)(ii), substituted "2021" for "201
 Subsec. (b)(2). Pub. L. 116–283, §1701(2)(B)(iii), substituted "2022" for "2018".
 
 Subsec. (c). Pub. L. 116–283, §1701(2)(C), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

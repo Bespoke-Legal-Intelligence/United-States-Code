@@ -6,7 +6,7 @@ In General.—The Secretary of Defense is authorized to carry out a sentence imp
 
 (b)
 
-Execution of Sentence of Death Only Upon Approval by the President.—If the sentence of a military commission under this chapter extends to death, that part of the sentence providing for death may not be executed untilapproved by the President. In such a case, the President may commute, remit, or suspend the sentence, or any part thereof, as he sees fit.
+Execution of Sentence of Death Only Upon Approval by the President.—If the sentence of a military commission under this chapter extends to death, that part of the sentence providing for death may not be executed until approved by the President. In such a case, the President may commute, remit, or suspend the sentence, or any part thereof, as he sees fit.
 
 (c)
 
@@ -29,6 +29,8 @@ Execution of Sentence of Death Only Upon Final Judgment of Legality of Proceedin
 Suspension of Sentence.—The Secretary of the Defense, or the convening authority acting on the case (if other than the Secretary), may suspend the execution of any sentence or part thereof in the case, except a sentence of death.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2605.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

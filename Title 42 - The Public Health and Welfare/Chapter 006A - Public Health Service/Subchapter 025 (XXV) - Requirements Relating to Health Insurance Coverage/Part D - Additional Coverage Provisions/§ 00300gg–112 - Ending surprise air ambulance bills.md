@@ -6,7 +6,7 @@ In the case of a participant, beneficiary, or enrollee who is in a group health 
 
 &emsp;(1) the cost-sharing requirement with respect to such services shall be the same requirement that would apply if such services were provided by such a participating provider, and any coinsurance or deductible shall be based on rates that would apply for such services if they were furnished by such a participating provider;
 
-&emsp;(2) such cost-sharing amounts shall be counted towards the in-network deductible and in-network out-of-pocket maximum amount under the plan or coverage for the plan year (and such in-network deductible shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider; and
+&emsp;(2) such cost-sharing amounts shall be counted towards the in-network deductible and in-network out-of-pocket maximum amount under the plan or coverage for theplan year (and such in-network deductible shall be applied) with respect to such items and services so furnished in the same manner as if such cost-sharing payments were with respect to items and services furnished by a participating provider; and
 
 &emsp;(3) the group health plan or health insurance issuer, respectively, shall—
 
@@ -104,7 +104,7 @@ In the case of a participant, beneficiary, or enrollee who is in a group health 
 
 #### (iii) Prohibition on consideration of certain factors
 
-&emsp;&emsp;&emsp;In determining which offer is the payment amount to be applied with respect to qualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have beenbilled by such provider with respect to such services had the provisions of section 300gg–135 of this title not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
+&emsp;&emsp;&emsp;In determining which offer is the payment amount to be applied with respect toqualified IDR air ambulance services furnished by a provider, the certified IDR entity with respect to such determination shall not consider usual and customary charges, the amount that would have been billed by such provider with respect to such services had the provisions of section 300gg–135 of this title not applied, or the payment or reimbursement rate for such services furnished by such provider payable by a public payor, including under the Medicare program under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\], under the Medicaid program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], under the Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\], under the TRICARE program under chapter 55 of title 10, or under chapter 17 of title 38.
 
 #### (D) Effects of determination
 
@@ -200,9 +200,13 @@ For purposes of this section:
 
 (July 1, 1944, ch. 373, title XXVII, §2799A–2, as added Pub. L. 116–260, div. BB, title I, §105(a)(1), Dec. 27, 2020, 134 Stat. 2831.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(5)(C)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

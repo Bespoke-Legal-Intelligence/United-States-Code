@@ -32,7 +32,7 @@ For purposes of subpart A of this part—
 
 &emsp;&emsp;(A) either (i) chose to have the benefits of subpart A of this part for a taxable year beginning after September 30, 1993, in which he was required under section 951(a) to include any amount in his gross income, or (ii) did not pay or accrue for such taxable year any income, war profits, or excess profits taxes to any foreign country or to any possession of the United States,
 
-&emsp;&emsp;(B) chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions or amounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his grossincome for taxable years referred to in subparagraph (A), and
+&emsp;&emsp;(B) chooses to have the benefits of subpart A of this part for any taxable year in which he receives 1 or more distributions oramounts which are excludable from gross income under section 959(a) and which are attributable to amounts included in his gross income for taxable years referred to in subparagraph (A), and
 
 &emsp;&emsp;(C) for the taxable year in which such distributions or amounts are received, pays, or is deemed to have paid, or accrues income, war profits, or excess profits taxes to a foreign country or to any possession of the United States with respect to such distributions or amounts,
 
@@ -96,7 +96,7 @@ For purposes of subpart A of this part—
 
 #### (3) Tested foreign income taxes
 
-&emsp;For purposes of paragraph (1), the term "tested foreign income taxes" means, with respect to any domestic corporation which is aUnited States shareholder of a controlled foreign corporation, the foreign income taxes paid or accrued by such foreign corporation which are properly attributable to the tested income of such foreign corporation taken into account by such domestic corporation under section 951A.
+&emsp;For purposes of paragraph (1), the term "tested foreign income taxes" means, with respect to any domestic corporation which is a United States shareholder of a controlled foreign corporation, the foreign income taxes paid or accrued by such foreign corporation which are properly attributable to the tested income of such foreign corporation taken into account by such domestic corporation under section 951A.
 
 #### (e) Foreign income taxes
 
@@ -107,6 +107,8 @@ The term "foreign income taxes" means any income, war profits, or excess profits
 The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the provisions of this section.
 
 (Added Pub. L. 87–834, §12(a), Oct. 16, 1962, 76 Stat. 1020; amended Pub. L. 94–455, title X, §§1031(b)(1), 1033(b)(2), 1037(a), Oct. 4, 1976, 90 Stat. 1622, 1628, 1633; Pub. L. 99–514, title XII, §1202(b), Oct. 22, 1986, 100 Stat. 2530; Pub. L. 103–66, title XIII, §13233(b)(1), Aug. 10, 1993, 107 Stat. 502; Pub. L. 105–34, title XI, §1113(b), Aug. 5, 1997, 111 Stat. 971; Pub. L. 111–226, title II, §214(a), Aug. 10, 2010, 124 Stat. 2399; Pub. L. 115–97, title I, §§14201(b)(1), 14301(b), Dec. 22, 2017, 131 Stat. 2212, 2221.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -141,6 +143,8 @@ Subsecs. (e), (f). Pub. L. 115–97, §14301(b)(2), added subsecs. (e) and (f).
 <b>1976</b>—Subsec. (a)(1). Pub. L. 94–455, §§1033(b)(2), 1037(a), substituted "bears to the entire amount of the earnings and profits of such foreign corporation for such taxable year" for "bears to–" after "gross income of the domestic corporation", struck out subpars. (C) and (D) relating to corporations which are and are not less developed country corporations, inserted in subpar. (A) "(hereafter in this subsection referred to as the 'first foreign corporation')" after "foreign corporation", substituted in subpar. (B) "of a second foreign corporation (hereinafter in this subsection referred to as the 'second foreign corporation') at least 10 percent of the voting stock of which is owned by the first foreign corporation, or" for "of a foreign corporation at least 50 percent of the voting stock of which is owned by a foreign corporation at least 10 percent of the voting stock of which in turn owned by such domestic corporation" after "(B)", added subpar. (C), and inserted at end "This paragraph shall not apply with respect to any amount included in the gross income of such domestic corporation attributable to earning and profits of the second foreign corporation or of the third foreign corporation unless, in the case of the second foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(A) is satisfied, and in the case of the third foreign corporation, the percentage-of-voting-stock requirement of section 902(b)(3)(B) is satisfied."
 
 Subsec. (b). Pub. L. 94–455, §1031(b)(1), struck out "applicable" in par. (1) after "amount, the", in par. (2) after "increase of the", and in subpar. (A) of par. (2) after "by which the".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 

@@ -110,6 +110,8 @@ Board assistance.—If this section does not apply to an aircraft accident becau
 
 (Added Pub. L. 104–264, title VII, §702(a)(1), Oct. 9, 1996, 110 Stat. 3265; amended Pub. L. 106–181, title IV, §401(a)(1), (b)–(d), Apr. 5, 2000, 114 Stat. 129; Pub. L. 108–168, §3(a), Dec. 6, 2003, 117 Stat. 2033; Pub. L. 115–254, div. C, §1109(c), Oct. 5, 2018, 132 Stat. 3434.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a). Pub. L. 115–254, §1109(c)(1), in introductory provisions, substituted "aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency" for "aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life".
@@ -128,11 +130,13 @@ Subsec. (h)(2). Pub. L. 106–181, §401(c), amended heading and text generally.
 
 Subsec. (i). Pub. L. 106–181, §401(d), added subsec. (i).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds madeavailable for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 

@@ -10,7 +10,7 @@ The Secretary of the Treasury shall pay out of the War Claims Fund on account of
 
 (3) Thereafter, payments from time to time on account of the other awards made to individuals and corporations pursuant to section 4132 of this title and not compensated in full under paragraph (1) or (2) of this subsection in an amount which shall be the same for each award or in the amount of the award, whichever is less. The total payment pursuant to this paragraph on account of any award shall not exceed $35,000.
 
-(4) Thereafter, payments from time to time on account of the unpaid balance of each remaining award made pursuant to section 4132 of this title or recertified pursuant to subsection (b) of section 4139 of this title which shall bear to such unpaid balance the same proportion as the totalamount in the War Claims Fund and available for distribution at the time such payments are made bears to the aggregate unpaid balances of all such awards. No payment made pursuant to this paragraph on account of any award shall exceed the unpaid balance of such award. Payments heretofore made under section 1641i of title 22, on awards made against the Government of Hungary under section 1641b(1) of title 22, and recertified under subsection (b) of section 4139 of this title, shall be considered as payments under this paragraph and no payment shall be made on any recertified award until the percentage of distribution on awards made under section 4132 of this title exceeds the corresponding percentage of distribution on such recertified award: <i>Provided</i>, That no payment made on awards recertified under subsection (b) of section 4139 of this title shall exceed 40 per centum of the amount of the award recertified.
+(4) Thereafter, payments from time to time on account of the unpaid balance of each remaining award made pursuant to section 4132 of this title or recertified pursuant to subsection (b) of section 4139 of this title which shall bear to such unpaid balance the same proportion as the total amount in the War Claims Fund and available for distribution at the time such payments are made bears to the aggregate unpaid balances of all such awards. No payment made pursuant to this paragraph on account of any award shall exceed the unpaid balance of such award. Payments heretofore made under section 1641i of title 22, on awards made against the Government of Hungary under section 1641b(1) of title 22, and recertified under subsection (b) of section 4139 of this title, shall be considered as payments under this paragraph and no payment shall be made on any recertified award until the percentage of distribution on awards made under section 4132 of this title exceeds the corresponding percentage of distribution on such recertified award: <i>Provided</i>, That no payment made on awards recertified under subsection (b) of section 4139 of this title shall exceed 40 per centum of the amount of the award recertified.
 
 #### (b) Regulations
 
@@ -34,6 +34,8 @@ Payments made under this section on account of any award for loss, damage, or de
 
 (July 3, 1948, ch. 826, title II, §213, as added Pub. L. 87–846, title I, §103, Oct. 22, 1962, 76 Stat. 1111; amended Pub. L. 91–571, §1(a), Dec. 24, 1970, 84 Stat. 1503; Pub. L. 104–316, title I, §128(b), Oct. 19, 1996, 110 Stat. 3841.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Small Business Act, as amended, referred to in subsec. (a)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
@@ -51,6 +53,8 @@ Section was formerly classified to section 2017l of the former Appendix to this 
 <b>1970</b>—Subsec. (a)(1). Pub. L. 91–571, §1(a)(1), included payment to any claimant determined by Commission to have been, on date of loss, damage, or destruction, a nonprofit organization operated exclusively for promotion of social welfare, religious, charitable, or educational purposes.
 
 Subsec. (a)(3), (4). Pub. L. 91–571, §1(a)(2), added par. (3) and redesignated former par. (3) as (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Protest Relating to Awards by Commission; Notice by Publication in Federal Register
 

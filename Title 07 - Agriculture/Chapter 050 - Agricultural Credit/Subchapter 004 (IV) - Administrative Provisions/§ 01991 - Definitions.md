@@ -12,7 +12,7 @@
 
 &emsp;(5) The term "contract of insurance" includes a contract of guarantee.
 
-&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
+&emsp;(6) The terms "United States" and "State" shall include each of the several States, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Commonwealth of the NorthernMariana Islands, and, to the extent the Secretary determines it to be feasible and appropriate, the Trust Territory of the Pacific Islands.
 
 &emsp;(7) The term "joint operation" means a joint farming operation in which two or more farmers work together sharing equally or unequally land, labor, equipment, expenses, and income.
 
@@ -178,7 +178,7 @@ Appeals.—A program applicant may appeal an estimate made under clause (i)(I) b
 
 &emsp;&emsp;(G)
 
-Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is not urban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
+Hawaii and puerto rico.—Notwithstanding any other provision of this paragraph, within the areas of the County of Honolulu, Hawaii, and the Commonwealth of Puerto Rico, the Secretary may designate any part of the areas as a rural area if the Secretary determines that the part is noturban in character, other than any area included in the Honolulu Census Designated Place or the San Juan Census Designated Place.
 
 &emsp;&emsp;(H)
 
@@ -209,6 +209,8 @@ Limited exclusion of military base populations.—The first 1,500 individuals wh
 Preservation loan service program.—The term "preservation loan service program" means homestead retention as authorized under section 2000 of this title.
 
 (Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362; Pub. L. 110–234, title VI, §6018(a), May 22, 2008, 122 Stat. 1170; Pub. L. 110–246, §4(a), title VI, §6018(a), June 18, 2008, 122 Stat. 1664, 1931; Pub. L. 113–79, title V, §5303, Feb. 7, 2014, 128 Stat. 839; Pub. L. 115–334, title V, §5401(e)(1), (f)(1), title VI, §§6301(a), 6402(a), Dec. 20, 2018, 132 Stat. 4674, 4748, 4757.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -302,6 +304,8 @@ Subsec. (a)(8) to (10). Pub. L. 101–624, §1814, added pars. (8) to (10).
 
 <b>1966</b>—Pub. L. 89–586 struck out "and" before "(2)" and inserted cl. (3) defining "owner-operator". See Effective and Termination Date of 1966 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Pub. L. 115–334, title V, §5401(e)(2), Dec. 20, 2018, 132 Stat. 4674, provided that: "The amendment made by this subsection \[amending this section\] shall take effect as of the effective date of section 5303(a)(2) of the Agricultural Act of 2014 (Public Law 113–79) \[probably means the date of enactment of Pub. L. 113–79, which was approved Feb. 7, 2014\]."
@@ -330,7 +334,9 @@ Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809, as amended by Pub. L. 90–426, 
 
 #### Construction of 1990 Amendment
 
-Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[title III of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
+Pub. L. 102–237, title VII, §702(h)(2), Dec. 13, 1991, 105 Stat. 1881, as amended by Pub. L. 102–552, title V, §516(k), Oct. 28, 1992, 106 Stat. 4139, provided that: "The Consolidated Farm and Rural Development Act \[titleIII of Pub. L. 87–128, see Short Title note set out under section 1921 of this title\] shall be applied and administered as if the amendment made by section 2388(h)(3) of the Food, Agriculture, Conservation, and Trade Act of 1990 \[Pub. L. 101–624, amending this section\] had never been enacted."
+
+#### <b>Executive Documents</b>
 
 #### Termination of Trust Territory of the Pacific Islands
 

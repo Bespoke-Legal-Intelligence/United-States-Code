@@ -4,6 +4,8 @@ To promote and encourage export trade, the Secretary may issue certificates of r
 
 (Pub. L. 97–290, title III, §301, Oct. 8, 1982, 96 Stat. 1240.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Pub. L. 97–290, title III, §312, Oct. 8, 1982, 96 Stat. 1245, provided that:
@@ -14,7 +16,7 @@ Pub. L. 97–290, title III, §312, Oct. 8, 1982, 96 Stat. 1245, provided that:
 
 #### Report on Export Trading Companies
 
-Pub. L. 100–418, title II, §2311, Aug. 23, 1988, 102 Stat. 1346, directed Secretary of Commerce to submit a report, not later than 18 months after Aug. 23, 1988, to Committee on Banking, Housing, and Urban Affairs of Senate, and to Committee on Banking, Finance and Urban Affairs, Committee on Foreign Affairs, and Committee on the Judiciary of House of Representatives, on activities of Department of Commerce to promote and encourage formation of new and operation of existing and new export promotion intermediaries, including export management companies, export trade associations, bank export trading companies, and export trading companies, with report to include a survey of activities of export management companies, export trade associations, and those bank export trading companies and export trading companies established pursuant toamendments made by title II of the Export Trading Company Act of 1982 and pursuant to title III of that Act, but not to contain any information subject to the protections from disclosure provided in that Act.
+Pub. L. 100–418, title II, §2311, Aug. 23, 1988, 102 Stat. 1346, directed Secretary of Commerce to submit a report, not later than 18 months after Aug. 23, 1988, to Committee on Banking, Housing, and Urban Affairs of Senate, and to Committee on Banking, Finance and Urban Affairs, Committee on Foreign Affairs, and Committee on the Judiciary of House of Representatives, on activities of Department of Commerce to promote and encourage formation of new and operation of existing and new export promotion intermediaries, including export management companies, export trade associations, bank export trading companies, and export trading companies, with report to include a survey of activities of export management companies, export trade associations, and those bank export trading companies and export trading companies established pursuant to amendments made by title II of the Export Trading Company Act of 1982 and pursuant to title III of that Act, but not to contain any information subject to the protections from disclosure provided in that Act.
 
 #### Federal Coal Export Commission
 

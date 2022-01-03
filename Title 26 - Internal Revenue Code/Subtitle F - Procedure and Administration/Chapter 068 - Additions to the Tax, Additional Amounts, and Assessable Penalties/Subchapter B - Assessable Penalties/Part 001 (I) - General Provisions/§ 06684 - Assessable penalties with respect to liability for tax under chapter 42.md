@@ -10,9 +10,13 @@ If any person becomes liable for tax under any section of chapter 42 (relating t
 
 (Added Pub. L. 91–172, title I, §101(c), Dec. 30, 1969, 83 Stat. 519; amended Pub. L. 100–203, title X, §10712(c)(4), Dec. 22, 1987, 101 Stat. 1330–467.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–203 inserted "and certain other tax-exempt organizations" after "private foundations" in parenthetical.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

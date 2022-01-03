@@ -1,5 +1,7 @@
 ### §1973<i>o</i>. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 1973o was editorially reclassified as section 10312 of Title 52, Voting and Elections.

@@ -86,13 +86,15 @@ In subsection (a) the words "subject to the applicable limitations and restricti
 
 In subsection (b) the words "under this section" are substituted for the words "from the naval reserves" to make it clear that the requirements of this subsection apply to sales of petroleum, gas, and other hydrocarbons from lands outside petroleum reserve numbered 1 covered by joint, unit, or other cooperative plans as well as the sale of those products from the naval reserves proper. Subsection (a) is the only authority for the sale of petroleum, gas, and other hydrocarbons from the naval petroleum reserves.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 etseq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
+The Export Administration Act of 1979, referred to in subsec. (e), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof (50 U.S.C. 4611, 4612, 4613).
 
 The Sherman Act, referred to in subsec. (i)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1 of Title 15 and Tables.
 
-The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
+The Clayton Act, referred to in subsec. (i)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under section 12 of Title 15 and Tables.
 
 The Federal Trade Commission Act, referred to in subsec. (i)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see section 58 of Title 15 and Tables.
 
@@ -160,6 +162,8 @@ Pub. L. 87–599 required the Secretary of the Navy to use, store, sell, or exch
 
 Subsec. (b). Pub. L. 87–796 included sale of oil shale and products from petroleum, gas, other hydrocarbons, and oil shale.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -195,6 +199,8 @@ Pub. L. 103–337, div. C, title XXXV, §3502, Oct. 5, 1994, 108 Stat. 3111.
 Pub. L. 103–332, title II, Sept. 30, 1994, 108 Stat. 2525.
 
 Pub. L. 103–138, title II, Nov. 11, 1993, 107 Stat. 1405.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

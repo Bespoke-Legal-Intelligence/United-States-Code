@@ -28,7 +28,7 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 
 &emsp;(ii) shall, upon a request made by military recruiters for military recruiting purposes, provide access to secondary school student names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the school, if available), and telephone listings, notwithstanding subsection (a)(5) of section 444 of the General Education Provisions Act (20 U.S.C. 1232g).
 
-(B) A local educational agency may not release a student's name, address, electronic mailaddress, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
+(B) A local educational agency may not release a student's name, address, electronic mail address, and telephone listing under subparagraph (A)(ii) without the prior written consent of a parent of the student if the student, or a parent of the student, has submitted a request to the local educational agency that the student's information not be released for a purpose covered by that subparagraph without prior written parental consent. Each local educational agency shall notify parents of the rights provided under the preceding sentence.
 
 (2) If a local educational agency denies a request by the Department of Defense for recruiting access, the Secretary of Defense, in cooperation with the Secretary of the military department concerned, shall designate an officer in a grade not below the grade of colonel or, in the case of the Navy, captain, or a senior executive of that military department to meet with representatives of that local educational agency in person, at the offices of that agency, for the purpose of arranging for recruiting access. The designated officer or senior executive shall seek to have that meeting within 120 days of the date of the denial of the request for recruiting access.
 
@@ -71,6 +71,8 @@ Access to Secondary Schools.—(1)(A) Each local educational agency receiving as
 &emsp;(F) The term "member of the House of Representatives" includes a Delegate or Resident Commissioner to Congress.
 
 (Added Pub. L. 90–235, §2(a)(1)(B), Jan. 2, 1968, 81 Stat. 754; amended Pub. L. 97–252, title XI, §1114(b)(1), (2), Sept. 8, 1982, 96 Stat. 749; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §571, title X, §1067(1), Oct. 5, 1999, 113 Stat. 622, 774; Pub. L. 106–398, §1 \[\[div. A\], title V, §§562, 563(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–131 to 1654A–133; Pub. L. 107–107, div. A, title V, §544(a), title X, §1048(a)(5)(A), Dec. 28, 2001, 115 Stat. 1112, 1222; Pub. L. 108–136, div. A, title V, §543, Nov. 24, 2003, 117 Stat. 1478; Pub. L. 108–375, div. A, title X, §1084(d)(5), Oct. 28, 2004, 118 Stat. 2061; Pub. L. 114–95, title IX, §9215(uuu)(1), Dec. 10, 2015, 129 Stat. 2190; Pub. L. 116–283, div. A, title V, §521(a), Jan. 1, 2021, 134 Stat. 3597.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -122,6 +124,8 @@ Subsec. (a). Pub. L. 97–252, §1114(b)(1)(A), designated existing provisions a
 
 Subsec. (b). Pub. L. 97–252, §1114(b)(1)(B), added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -144,9 +148,13 @@ Pub. L. 106–398, §1 \[\[div. A\], title V, §563(d)\], Oct. 30, 2000, 114 Sta
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
+#### Regulations to Ensure Notice to Recruits of Options for Naturalization
+
+Pub. L. 117–81, div. A, title V, §523(a), Dec. 27, 2021, 135 Stat. 1687, provided that: "The Secretary of each military department shall prescribe regulations that ensure that a military recruit, who is not a citizen of the United States, receives proper notice of options for naturalization under title III of the Immigration and Nationality Act (8 U.S.C. 1401 et seq.)\[.\] Such notice shall inform the recruit of existing programs or services that may aid in the naturalization process of such recruit."
+
 #### Armed Services Vocational Aptitude Battery Test Special Purpose Adjunct To Address Computational Thinking
 
-Pub. L. 116–283, div. A, title V, §594, Jan. 1, 2021, 134 Stat. 3666, provided that: "Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions."
+Pub. L. 116–283, div. A, title V, §594, Jan. 1, 2021, 134 Stat. 3666, as amended by Pub. L. 117–81, div. A, title V, §581, Dec. 27, 2021, 135 Stat. 1755, provided that: "Not later than October 1, 2024, the Secretary of Defense shall establish a special purpose test adjunct to the Armed Services Vocational Aptitude Battery test to address computational thinking skills relevant to military applications, including problem decomposition, abstraction, pattern recognition, analytical ability, the identification of variables involved in data representation, and the ability to create algorithms and solution expressions."
 
 #### Programs on Direct Commissions to Cyber Positions
 
@@ -258,9 +266,9 @@ Covered graduates.—Paragraph (1) applies with respect to \[a\] person who—
 
 "(b)
 
-Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
+Policy on Recruitment and Enlistment.—Not later than 180 days after the date of the enactment ofthis Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
-&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, andattitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
+&emsp;"(1) Means for identifying persons described in subsection (a)(2) who are qualified for recruitment and enlistment in the Armed Forces, which may include the use of a non-cognitive aptitude test, adaptive personality assessment, or other operational attrition screening tool to predict performance, behaviors, and attitudes of potential recruits that influence attrition and the ability to adapt to a regimented life in the Armed Forces.
 
 &emsp;"(2) Means for assessing how qualified persons fulfill their enlistment obligation.
 
@@ -386,7 +394,7 @@ In general.—The Secretary may not develop an incentive under this section, or 
 
 &emsp;"(2)
 
-Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit the continuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
+Continuation of incentives.—Nothing in paragraph (1) shall be construed to prohibit or limit thecontinuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date."
 
 #### Enhanced Screening Methods and Process Improvements for Recruitment of Home Schooled and National Guard Challenge Program GED Recipients
 
@@ -472,7 +480,7 @@ Outreach Through Motor Sports.—(1) One of the pilot programs shall be a pilot 
 
 &emsp;"(D) For the Army to sponsor motor sports competitions for high school students at which recruiters meet with potential recruits.
 
-&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronicmail addresses of persons who are identified as potential recruits through activities under the pilot program.
+&emsp;"(E) For Army recruiters or other Army personnel to compile in an Internet accessible database the names, addresses, telephone numbers, and electronic mail addresses of persons who are identified as potential recruits through activities under the pilot program.
 
 &emsp;"(F) Any other activities associated with motor sports competition that the Secretary determines appropriate for Army recruitment purposes.
 

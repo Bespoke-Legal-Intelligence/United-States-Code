@@ -26,7 +26,7 @@ The Chief Executive Officer of the Corporation for National and Community Servic
 
 #### (1) In general
 
-&emsp;The Secretaries shall, to the maximum extent practicable, coordinate with each other to carry out activities authorized under this subchapter, including—
+&emsp;The Secretaries shall, to the maximum extent practicable, coordinate with each otherto carry out activities authorized under this subchapter, including—
 
 &emsp;&emsp;(A) the data collection and reporting requirements of this section; and
 
@@ -37,6 +37,8 @@ The Chief Executive Officer of the Corporation for National and Community Servic
 &emsp;The Secretary shall designate a coordinator to coordinate and serve as the primary point of contact for any activity of the Corps carried out by the Secretary.
 
 (Pub. L. 91–378, title II, §209, as added Pub. L. 116–9, title IX, §9003(f)(2), Mar. 12, 2019, 133 Stat. 835.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

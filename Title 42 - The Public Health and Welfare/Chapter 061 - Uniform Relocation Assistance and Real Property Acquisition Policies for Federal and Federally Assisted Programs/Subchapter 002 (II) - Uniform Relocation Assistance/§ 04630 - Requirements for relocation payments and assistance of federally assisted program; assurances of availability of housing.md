@@ -10,9 +10,13 @@ Notwithstanding any other law, the head of a Federal agency shall not approve an
 
 (Pub. L. 91–646, title II, §210, Jan. 2, 1971, 84 Stat. 1899; Pub. L. 100–17, title IV, §410, Apr. 2, 1987, 101 Stat. 254.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Pub. L. 100–17 in introductory provisions substituted "displacing agency (other than a Federal agency)" for "State agency" and "assurances from such displacing agency" for "assurances from such State agency", and in par. (3) substituted "comparable replacement dwellings" for "decent, safe, and sanitary replacement dwellings".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1987 Amendment
 

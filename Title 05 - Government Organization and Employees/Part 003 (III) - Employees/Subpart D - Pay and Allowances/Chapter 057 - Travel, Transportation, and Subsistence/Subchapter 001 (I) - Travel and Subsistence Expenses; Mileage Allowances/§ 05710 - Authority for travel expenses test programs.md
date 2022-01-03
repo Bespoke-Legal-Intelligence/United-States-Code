@@ -1,6 +1,6 @@
 ### §5710. Authority for travel expenses test programs
 
-(a)(1) Notwithstanding any other provision of this subchapter, under a test program which theAdministrator of General Services determines to be in the interest of the Government and approves, an agency may pay through the proper disbursing official for a period not to exceed 24 months any necessary travel expenses in lieu of any payment otherwise authorized or required under this subchapter. An agency shall include in any request to the Administrator for approval of such a test program an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program.
+(a)(1) Notwithstanding any other provision of this subchapter, under a test program which the Administrator of General Services determines to be in the interest of the Government and approves, an agency may pay through the proper disbursing official for a period not to exceed 24 months any necessary travel expenses in lieu of any payment otherwise authorized or required under this subchapter. An agency shall include in any request to the Administrator for approval of such a test program an analysis of the expected costs and benefits and a set of criteria for evaluating the effectiveness of the program.
 
 (2) Any test program conducted under this section shall be designed to enhance cost savings or other efficiencies that accrue to the Government.
 

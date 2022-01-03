@@ -26,9 +26,13 @@ Oversight Responsibility.—The Secretary shall have authority over any motor ca
 
 (Added Pub. L. 106–159, title II, §211(a), Dec. 9, 1999, 113 Stat. 1765.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a) and (b)(2), is the date of enactment of Pub. L. 106–159, which was approved Dec. 9, 1999.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Inspector Standards
 

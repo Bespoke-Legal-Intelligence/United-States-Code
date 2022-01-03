@@ -22,6 +22,8 @@ Period for Preservation of Records.—The Secretary or Board, as applicable, may
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 893; amended Pub. L. 112–141, div. C, title II, §32501(d), July 6, 2012, 126 Stat. 803.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 11144 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
@@ -29,6 +31,8 @@ Provisions similar to those in this section were contained in section 11144 of t
 #### Amendments
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–141 inserted ", in person or in writing" after "proper credentials".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

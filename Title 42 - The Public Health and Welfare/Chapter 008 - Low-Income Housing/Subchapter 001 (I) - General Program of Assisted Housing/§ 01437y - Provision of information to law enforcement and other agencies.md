@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, the Secretary shall, at least 4 time
 
 (Sept. 1, 1937, ch. 896, title I, §27, as added Pub. L. 104–193, title IV, §404(d), Aug. 22, 1996, 110 Stat. 2267; amended Pub. L. 105–33, title V, §5564, Aug. 5, 1997, 111 Stat. 639.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Another section 27 of act Sept. 1, 1937, was renumbered section 28, and is classified to section 1437z of this title.
@@ -11,6 +13,8 @@ Another section 27 of act Sept. 1, 1937, was renumbered section 28, and is class
 #### Amendments
 
 <b>1997</b>—Pub. L. 105–33 substituted "not lawfully present in the United States" for "unlawfully in the United States" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1997 Amendment
 

@@ -10,7 +10,7 @@ The Secretary shall exercise the authority under subsection (a) in conjunction w
 
 #### (c) Interests in land
 
-In addition to the authorities granted under section 515 of this title and section 2268a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservation easements with title held in common ownership with any other entity.
+In addition to the authorities granted under section 515 of this title and section 2268a(a) of title 7, the Secretary may acquire from willing landowners lands and interests therein, including conservation easements and rights of public access, for Forest Legacy Program purposes. The Secretary shall not acquire conservationeasements with title held in common ownership with any other entity.
 
 #### (d) Implementation
 
@@ -66,7 +66,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (2) Prohibitions on limitations
 
-&emsp;Notwithstanding any provision of State law, no conservation easement held by the United States or its successors or assigns under this section shall be limited in duration or scope or be defeasible by—
+&emsp;Notwithstanding any provision of State law, no conservation easement held by the UnitedStates or its successors or assigns under this section shall be limited in duration or scope or be defeasible by—
 
 &emsp;&emsp;(A) the conservation easement being in gross or appurtenant;
 
@@ -124,7 +124,9 @@ Under the terms of a conservation easement or other property interest acquired u
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amendedPub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
+(Pub. L. 95–313, §7, as added Pub. L. 101–624, title XII, §1217, Nov. 28, 1990, 104 Stat. 3528; amended Pub. L. 102–237, title X, §1018(a)(2), Dec. 13, 1991, 105 Stat. 1905; Pub. L. 104–127, title III, §374, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 108–108, title III, §336, Nov. 10, 2003, 117 Stat. 1313.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

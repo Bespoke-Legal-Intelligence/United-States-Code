@@ -74,7 +74,9 @@ The provisions of paragraphs (1) and (3) of section 1983 of this title shall not
 
 There is authorized to be appropriated to the Secretary to carry out this section $150,000,000 for each of fiscal years 2014 through 2023.
 
-(Pub. L. 87–128, title III, §304, Aug. 8, 1961, 75 Stat. 308; Pub. L. 90–488, §2, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–419, title I, §102, Aug. 30, 1972, 86 Stat. 657; Pub. L. 95–334, title I, §102, Aug. 4, 1978, 92 Stat. 421; Pub. L. 101–624, title XVIII, §1802(a), Nov. 28, 1990, 104 Stat. 3817; Pub. L. 102–237, title V, §501(a), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VI, §603, Apr. 4, 1996, 110 Stat. 1085; Pub. L. 110–234, title V, §5002, May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, §4(a), title V, §5002, June 18, 2008, 122 Stat. 1664, 1904; Pub. L. 113–79, title V, §§5001(c)(1), 5002, Feb. 7, 2014, 128 Stat. 833; Pub. L. 115–334, title V, §5102, Dec. 20, 2018, 132 Stat. 4669.)
+(Pub. L. 87–128, title III, §304, Aug. 8, 1961, 75 Stat. 308; Pub. L. 90–488, §2, Aug. 15, 1968, 82 Stat. 770; Pub. L. 92–419, title I, §102, Aug. 30, 1972, 86 Stat. 657; Pub. L. 95–334, title I, §102, Aug. 4, 1978, 92 Stat. 421; Pub. L. 101–624, title XVIII, §1802(a), Nov. 28, 1990, 104 Stat. 3817; Pub. L. 102–237, title V, §501(a), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VI, §603, Apr. 4, 1996, 110 Stat. 1085; Pub. L. 110–234, title V, §5002, May 22, 2008, 122 Stat. 1142; Pub. L. 110–246, §4(a), title V, §5002, June 18, 2008, 122 Stat. 1664, 1904; Pub.L. 113–79, title V, §§5001(c)(1), 5002, Feb. 7, 2014, 128 Stat. 833; Pub. L. 115–334, title V, §5102, Dec. 20, 2018, 132 Stat. 4669.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -113,6 +115,8 @@ Subsec. (c). Pub. L. 95–334, §102(2), added subsec. (c).
 <b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before "to any farmowners" and "without regard to", respectively, and added subsec. (b).
 
 <b>1968</b>—Pub. L. 90–488 designated existing provisions as cl. (a), excluded recreational uses and facilities, and added cl. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

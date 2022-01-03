@@ -58,11 +58,13 @@ Every cooperative required to make a return under subsection (a) shall furnish t
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 746; Pub. L. 87–834, §19(b), Oct. 16, 1962, 76 Stat. 1054; Pub. L. 89–809, title II, §211(d), Nov. 13, 1966, 80 Stat. 1584; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§304, 308(a), Sept. 3, 1982, 96 Stat. 587, 591; Pub. L. 98–67, title I, §§102(a), 108(c), Aug. 5, 1983, 97 Stat. 369, 383; Pub. L. 99–514, title XV, §1501(c)(3), Oct. 22, 1986, 100 Stat. 2737; Pub. L. 104–168, title XII, §1201(a)(4), July 30, 1996, 110 Stat. 1469.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (e)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514, in amending subsec. (e) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provision directing that no statement was required if the aggregate amount of payments made to the person as shown on the return was less than $10.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514, in amending subsec. (e) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make a return for former references to persons making a return and struck out provision directing that no statementwas required if the aggregate amount of payments made to the person as shown on the return was less than $10.
 
 <b>1983</b>—Pub. L. 98–67 substituted in subsec. (e) "The written statement required under the preceding sentence shall be furnished (either in person or in a separate mailing by first-class mail) to the person on or before January 31 of the year following the calendar year for which the return under subsection (a) was made, and shall be in such form as the Secretary may prescribe by regulations" for "The written statement required under the preceding sentence shall be furnished to the person on or before January 31 of the year following the calendar year for which the return under subsection (a)(1) was made" and repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
@@ -93,6 +95,8 @@ Payments Regardless of Amount.—If required by the Secretary or his delegate, a
 "(c)
 
 Exceptions.—This section shall not apply in the case of any corporation (including any cooperative or nonprofit corporation engaged in rural electrification) described in section 501(c)(12) or (15) which is exempt from tax under section 501(a), or in the case of any corporation subject to a tax imposed by subchapter L of chapter 1."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

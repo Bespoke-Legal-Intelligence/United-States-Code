@@ -72,7 +72,7 @@ Maintenance of effort.—The Secretary shall approve of the use of the proceeds 
 
 &emsp;(3)
 
-Debt service reserve.—The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(3)(J) from amounts made available to the recipient under section 5309.
+Debt service reserve.—The Secretary may reimburse an eligible recipient for deposits of bond proceeds in a debt service reserve that the recipient establishes pursuant to section 5302(4)(J) from amounts made available to the recipient under section 5309.
 
 (f)
 
@@ -126,7 +126,7 @@ Costs incurred by providers of public transportation by vanpool.—
 
 &emsp;&emsp;(A)
 
-Local matching share.—The local matching share provided by a recipient of assistance for a capital project under this chapter may include any amounts expended by a provider of public transportation by vanpool for the acquisition of rolling stock to be used by such provider in the recipient'sservice area, excluding any amounts the provider may have received in Federal, State, or local government assistance for such acquisition.
+Local matching share.—The local matching share provided by a recipient ofassistance for a capital project under this chapter may include any amounts expended by a provider of public transportation by vanpool for the acquisition of rolling stock to be used by such provider in the recipient's service area, excluding any amounts the provider may have received in Federal, State, or local government assistance for such acquisition.
 
 &emsp;&emsp;(B)
 
@@ -290,7 +290,7 @@ Grant Requirements.—The grant requirements under sections 5307, 5309, and 5337
 
 (p)
 
-Alternative Fueling Facilities.—A recipient of assistance under this chapter mayallow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
+Alternative Fueling Facilities.—A recipient of assistance under this chapter may allow the incidental use of federally funded alternative fueling facilities and equipment by nontransit public entities and private entities if—
 
 &emsp;(1) the incidental use does not interfere with the recipient's public transportation operations;
 
@@ -348,7 +348,11 @@ In general.—Except as provided in paragraph (5), financial assistance made ava
 
 &emsp;(2)
 
-Exception.—For purposes of paragraph (1), the term "otherwise related legally or financially" does not include a minority relationship or investment.
+Exception.—For purposes of paragraph (1), the term "otherwise related legally or financially" does not include—
+
+&emsp;&emsp;(A) a minority relationship or investment; or
+
+&emsp;&emsp;(B) relationship with or investment in a subsidiary, joint venture, or other entity based in a country described in paragraph (1)(B) that does not export rolling stock or components of rolling stock for use in the United States.
 
 &emsp;(3)
 
@@ -376,7 +380,7 @@ Parties to executed contracts.—This subsection, including the certification re
 
 &emsp;&emsp;(B)
 
-Rolling stock.—Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturerfor the 2-year period beginning on or after the date of enactment of this subsection.
+Rolling stock.—Except as provided in subparagraph (C) and for a contract or subcontract that is not described in subparagraph (A), this subsection, including the certification requirement under paragraph (4), shall not apply to the award of a contract or subcontract made by a public transportation agency with any rolling stock manufacturer for the 2-year period beginning on or after the date of enactment of this subsection.
 
 &emsp;&emsp;(C)
 
@@ -408,7 +412,7 @@ Limitations on statutory construction.—Nothing in this subsection shall be con
 
 &emsp;&emsp;(B) the Secretary of Transportation under section 5329 to address cybersecurity issues as those issues relate to the safety of rail fixed guideway public transportation systems.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474; Pub. L. 116–92, div. F, title LXXVI, §7613, Dec. 20, 2019, 133 Stat. 2314.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 821; Pub. L. 103–429, §6(10), Oct. 31, 1994, 108 Stat. 4379; Pub. L. 104–287, §5(15), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 105–178, title III, §3020, June 9, 1998, 112 Stat. 362; Pub. L. 109–59, title III, §§3002(b)(4), 3023(a)–(i)(3), (j)–(m), Aug. 10, 2005, 119 Stat. 1545, 1615–1619; Pub. L. 110–244, title II, §201(j), June 6, 2008, 122 Stat. 1611; Pub. L. 112–141, div. B, §20016, July 6, 2012, 126 Stat. 697; Pub. L. 114–94, div. A, title III, §3011, Dec. 4, 2015, 129 Stat. 1474; Pub. L. 116–92, div. F, title LXXVI, §7613, Dec. 20, 2019, 133 Stat. 2314; Pub. L. 117–58, div. C, §§30001(b)(2), 30010, Nov. 15, 2021, 135 Stat. 890, 904.)
 
 Historical and Revision Notes
 
@@ -590,23 +594,29 @@ The word "review" is substituted for "audit" for clarity. The words "buses and o
 
 This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erroneous cross-references.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (i)(1), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126\(§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Clean Air Act, referred to in subsec. (i)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of2012 Amendment notes under section 101 of Title 23, Highways.
+The date of enactment of the Federal Public Transportation Act of 2012, referred to in subsec. (j)(3)(B), is deemed to be Oct. 1, 2012, see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways.
 
 The Federal Public Transportation Act of 2015, referred to in subsec. (j)(8), is title III of div. A of Pub. L. 114–94, Dec. 4, 2015, 129 Stat. 1446. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 5101 of this title and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (u)(1), (5), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (e)(3). Pub. L. 117–58, §30001(b)(2), substituted "section 5302(4)(J)" for "section 5302(3)(J)".
+
+Subsec. (u)(2). Pub. L. 117–58, §30010, added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "For purposes of paragraph (1), the term 'otherwise related legally or financially' does not include a minority relationship or investment."
 
 <b>2019</b>—Subsecs. (u), (v). Pub. L. 116–92 added subsecs. (u) and (v).
 
@@ -666,7 +676,7 @@ Subsec. (j)(9). Pub. L. 109–59, §3023(i)(3), added par. (9).
 
 Subsec. (l). Pub. L. 109–59, §3023(j), amended heading and text of subsec. (l) generally. Prior to amendment, text read as follows: "The planning and programming requirements of section 135 of title 23 apply to a grant made under sections 5307–5311 of this title."
 
-Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end "Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanized areas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations."
+Subsec. (m). Pub. L. 109–59, §3023(k), inserted at end "Rolling stock procurements of 20 vehicles or fewer made for the purpose of serving other than urbanizedareas and urbanized areas with populations of 200,000 or fewer shall be subject to the same requirements as established for procurements of 10 or fewer buses under the post-delivery purchaser's requirements certification process under section 663.37(c) of title 49, Code of Federal Regulations."
 
 Subsec. (o). Pub. L. 109–59, §3023(l), substituted "chapter 6 (other than section 609) of title 23" for "the Transportation Infrastructure Finance and Innovation Act of 1998".
 
@@ -674,7 +684,7 @@ Subsec. (p). Pub. L. 109–59, §3023(m), added subsec. (p).
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–178, §3020(a), substituted "Condition on Charter Bus Transportation Service" for "Buying and Operating Buses" in heading.
 
-Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that isattributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment."
+Subsec. (i). Pub. L. 105–178, §3020(c), amended heading and text of subsec. (i) generally. Prior to amendment, text read as follows: "A Government grant for a project to be assisted under this chapter that involves acquiring vehicle-related equipment required by the Clean Air Act (42 U.S.C. 7401 et seq.) or the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) is for 90 percent of the net project cost of the equipment that is attributable to complying with those Acts. The Secretary of Transportation, through practicable administrative procedures, may determine the costs attributable to that equipment."
 
 Subsec. (j)(7). Pub. L. 105–178, §3020(b), inserted heading and amended text of par. (7) generally. Prior to amendment, text read as follows: "Not later than January 1, 1995, the Secretary of Transportation shall submit to Congress a report on purchases from foreign entities waived under paragraph (2) of this subsection in the fiscal years ending September 30, 1992, and September 30, 1993. The report shall indicate the dollar value of items for which waivers were granted."
 
@@ -689,6 +699,8 @@ Subsec. (o). Pub. L. 105–178, §3020(f), added subsec. (o).
 <b>1994</b>—Subsec. (j). Pub. L. 103–429, §6(10)(A), substituted "America" for "American" in heading.
 
 Subsec. (l). Pub. L. 103–429, §6(10)(B), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

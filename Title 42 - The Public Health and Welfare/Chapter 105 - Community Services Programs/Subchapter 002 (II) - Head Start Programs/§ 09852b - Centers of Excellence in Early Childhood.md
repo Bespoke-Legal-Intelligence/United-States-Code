@@ -94,7 +94,7 @@ A center of excellence that receives a bonus grant under subsection (b)—
 
 &emsp;&emsp;(B) to better meet the needs of working families in the community served by the center by serving more children in existing Early Head Start programs (existing as of the date the center is designated under this section) or in full-working-day, full calendar year Head Start programs;
 
-&emsp;&emsp;(C) to further coordinate early childhood education and development programs andservices and social services available in the community served by the center for at-risk children (birth through age 8), their families, and pregnant women;
+&emsp;&emsp;(C) to further coordinate early childhood education and development programs and services and social services available in the community served by the center for at-risk children (birth through age 8), their families, and pregnant women;
 
 &emsp;&emsp;(D) to provide professional development for Head Start teachers and staff, including joint training for Head Start teachers and staff, child care providers, public and private preschool and elementary school teachers, and other providers of early childhood education and development programs;
 
@@ -124,6 +124,8 @@ There are authorized to be appropriated such sums as may be necessary for each o
 
 (Pub. L. 97–35, title VI, §657B, as added Pub. L. 110–134, §26, Dec. 12, 2007, 121 Stat. 1444; amended Pub. L. 114–95, title IX, §9215(nn)(6), Dec. 10, 2015, 129 Stat. 2177.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (c)(1)(B)(vi)(III), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of Title 20 and Tables.
@@ -133,6 +135,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (c)(1)(B
 #### Amendments
 
 <b>2015</b>—Subsec. (c)(1)(B)(vi)(III) to (VII). Pub. L. 114–95 redesignated subcls. (IV) to (VII) as (III) to (VI), respectively, in subcl. (III) as redesignated, struck out "other" before "preschool programs" and substituted "the Elementary and Secondary Education Act of 1965" for "that Act", and struck out former subcl. (III) which read as follows: "Early Reading First and Even Start programs carried out under subparts 2 and 3 of part B of title I of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6371 et seq., 6381 et seq.);".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

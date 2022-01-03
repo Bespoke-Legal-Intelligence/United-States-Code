@@ -30,6 +30,8 @@ Historical and Revision Notes
 
 In subsection (b), the words "from time to time" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 140 was renumbered section 141 of this title.
@@ -43,6 +45,8 @@ Another prior section 140 was renumbered section 127 of this title.
 <b>1986</b>—Pub. L. 99–433, §§101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out ": powers and duties" at end of section catchline.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–426 repealed subsec. (c) which related to compensation of General Counsel. See section 5315 of Title 5, Government Organization and Employees.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1964 Amendment
 

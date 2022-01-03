@@ -1,6 +1,6 @@
 ### §§1425 to 1425b. Repealed. Pub. L. 101–73, title VII, §§705, 716, 720, Aug. 9, 1989, 103 Stat. 416, 421, 423
 
-Section 1425, acts July 22, 1932, ch. 522, §5, 47 Stat. 727; Dec. 24, 1969, Pub. L. 91–152, title IV, §416(a), 83 Stat.401, related to limitation on lawful contract rate of interest receivable by members and nonmember borrowers, and applicability to home mortgage loans on single-family dwellings.
+Section 1425, acts July 22, 1932, ch. 522, §5, 47 Stat. 727; Dec. 24, 1969, Pub. L. 91–152, title IV, §416(a), 83 Stat. 401, related to limitation on lawful contract rate of interest receivable by members and nonmember borrowers, and applicability to home mortgage loans on single-family dwellings.
 
 Section 1425a, act July 22, 1932, ch. 522, §5A, as added June 27, 1950, ch. 369, §1, 64 Stat. 256; amended Aug. 11, 1955, ch. 783, title I, §109(a)(3), 69 Stat. 640; Sept. 21, 1968, Pub. L. 90–505, §4, 82 Stat. 856; Mar. 31, 1980, Pub. L. 96–221, title I, §104(b), title IV, §405, 94 Stat. 139, 158; Oct. 8, 1980, Pub. L. 96–399, title III, §325(a), 94 Stat. 1648; Oct. 15, 1982, Pub. L. 97–320, title III, §332, 96 Stat. 1504; Oct. 17, 1984, Pub. L. 98–479, title II, §207, 98 Stat. 2235, related to liquidity requirements for savings and loan associations and other members.
 

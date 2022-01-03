@@ -1608,7 +1608,7 @@ S. Oak Creek
 
 &emsp;&emsp;&emsp;(III) Electric utilities subject to the jurisdiction of a State regulatory authority must have such plan approved by such authority. For electric utilities not subject to the jurisdiction of a State regulatory authority such plan shall be approved by the entity with rate-making authority for such utility.
 
-&emsp;&emsp;&emsp;(iv) In the case of qualified energy conservation measures undertaken by a State regulated electric utility, the Secretary of Energy certifies that the State regulatory authority with jurisdiction over the electric rates of such electric utility has established rates and charges which ensure that the net income of such electric utility after implementation of specific cost effective energy conservation measures is at least as high as such net income would have been if the energy conservation measures had not been implemented. Upon the date of any such certification by the Secretary of Energy, all allowances which, but for this paragraph, would have been allocated under subparagraph (A) before such date, shall be allocated to the electric utility. This clause is not a requirement for qualified renewable energy.
+&emsp;&emsp;&emsp;(iv) In the case of qualified energy conservation measures undertaken by a State regulated electric utility, the Secretary of Energy certifies that the State regulatory authority with jurisdiction over the electric rates of such electric utility has established rates and charges which ensure that the net income of such electric utility after implementation of specific cost effective energy conservation measures is at least as high as such net income would have been if the energy conservation measures had not been implemented. Upon the date of any such certification by the Secretary of Energy, all allowances which, butfor this paragraph, would have been allocated under subparagraph (A) before such date, shall be allocated to the electric utility. This clause is not a requirement for qualified renewable energy.
 
 &emsp;&emsp;&emsp;(v) Such utility or any subsidiary of the utility's holding company owns or operates at least one affected unit.
 
@@ -1628,7 +1628,7 @@ S. Oak Creek
 
 &emsp;&emsp;&emsp;&emsp;(III) demonstrates that the requirements of subparagraph (B) have been met.
 
-&emsp;&emsp;&nbsp;Such application for allowances by a State-regulated electric utility shall require approval by the State regulatory authority with jurisdiction over such electric utility. The authority shall review the application for accuracy and compliance with this subsection and the rules under this subsection. Electric utilities whose retail rates are not subject to the jurisdiction of a State regulatory authority shallapply directly to the Administrator for such approval.
+&emsp;&emsp;&nbsp;Such application for allowances by a State-regulated electric utility shall require approval by the State regulatory authority with jurisdiction over such electric utility. The authority shall review the application for accuracy and compliance with this subsection and the rules under this subsection. Electric utilities whose retail rates are not subject to the jurisdiction of a State regulatory authority shall apply directly to the Administrator for such approval.
 
 #### (E) Avoided emissions from qualified energy conservation measures
 
@@ -1680,7 +1680,7 @@ The Administrator shall establish a Conservation and Renewable Energy Reserve un
 
 &emsp;&emsp;(C) is part of a utility system which has a weighted average sulfur dioxide emissions rate for all fossil fueled-fired units below 1.0 lbs/mmBtu,
 
-> &emsp;at the election of the owner or operator of such unit, the unit's baseline may be calculated (i) as provided under section 7651a(d) <sup>10</sup> of this title, or (ii) by utilizing the unit's average annual fuel consumption at a 60 percent capacity factor. Such election shall be made no later than March 1, 1991.
+> &emsp;at the election of the owner or operator of such unit, the unit's baseline may be calculated (i) as provided under section 7651a(d) <sup>1</sup> of this title, or (ii) by utilizing the unit's average annual fuel consumption at a 60 percent capacity factor. Such election shall be made no later than March 1, 1991.
 
 #### (2) Allowance allocation
 
@@ -1705,6 +1705,4 @@ The Administrator shall establish a Conservation and Renewable Energy Reserve un
 <i><sup>8</sup></i><i> So in original. There is no cl. (ii).</i>
 
 <i><sup>9</sup></i><i> So in original. The comma probably should be a semicolon.</i>
-
-<i><sup>10</sup></i><i> So in original. Probably should be section "7651a(4)".</i>
 

@@ -12,7 +12,7 @@
 
 #### (2) Requirement of Presidential action
 
-&emsp;Whenever the President determines that the government of a foreign country has engagedin or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
+&emsp;Whenever the President determines that the government of a foreign country has engaged in or tolerated particularly severe violations of religious freedom, the President shall oppose such violations and promote the right to religious freedom through one or more of the actions described in subsection (c).
 
 #### (b) Designations of countries of particular concern for religious freedom
 

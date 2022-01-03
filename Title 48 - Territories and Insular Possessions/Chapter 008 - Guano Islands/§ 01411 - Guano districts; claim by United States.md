@@ -4,6 +4,8 @@ Whenever any citizen of the United States discovers a deposit of guano on any is
 
 (R.S. §5570.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §5570 derived from act Aug. 18, 1856, ch. 164, §1, 11 Stat. 119.

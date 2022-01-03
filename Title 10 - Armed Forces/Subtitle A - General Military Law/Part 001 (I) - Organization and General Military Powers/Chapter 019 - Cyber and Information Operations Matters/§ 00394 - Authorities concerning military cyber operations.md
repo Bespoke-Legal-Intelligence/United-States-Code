@@ -42,9 +42,11 @@ Definitions.—In this section:
 
 (Added Pub. L. 114–92, div. A, title XVI, §1642(a), Nov. 25, 2015, 129 Stat. 1116, §130g; renumbered §394 and amended Pub. L. 115–232, div. A, title XVI, §§1631(a), 1632, Aug. 13, 2018, 132 Stat. 2123.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-The War Powers Resolution, referred to in subsecs. (b) and (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555,which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+The War Powers Resolution, referred to in subsecs. (b) and (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 The Authorization for Use of Military Force, referred to in subsec. (e), is Pub. L. 107–40, Sept. 18, 2001, 115 Stat. 224, which is set out as a note under section 1541 of Title 50, War and National Defense.
 
@@ -53,6 +55,192 @@ The Authorization for Use of Military Force, referred to in subsec. (e), is Pub.
 <b>2018</b>—Pub. L. 115–232, §1632, designated existing provisions as subsec. (a), inserted heading, substituted "conduct, military cyber activities or operations in cyberspace, including clandestine military activities or operations in cyberspace, to defend the United States and its allies, including in response" for "conduct, a military cyber operation in response", struck out "(as such terms are defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801))" after "foreign power", and added subsecs. (b) to (f).
 
 Pub. L. 115–232, §1631(a), renumbered section 130g of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Operational Technology and Mission-Relevant Terrain in Cyberspace
+
+Pub. L. 117–81, div. A, title XV, §1505, Dec. 27, 2021, 135 Stat. 2023, provided that:
+
+"(a)
+
+Mission-relevant Terrain.—Not later than January 1, 2025, the Secretary of Defense shall complete mapping of mission-relevant terrain in cyberspace for Defense Critical Assets and Task Critical Assets at sufficient granularity to enable mission thread analysis and situational awareness, including required—
+
+&emsp;"(1) decomposition of missions reliant on such Assets;
+
+&emsp;"(2) identification of access vectors;
+
+&emsp;"(3) internal and external dependencies;
+
+&emsp;"(4) topology of networks and network segments;
+
+&emsp;"(5) cybersecurity defenses across information and operational technology on such Assets; and
+
+&emsp;"(6) identification of associated or reliant weapon systems.
+
+"(b)
+
+Combatant Command Responsibilities.—Not later than January 1, 2024, the Commanders of United States European Command, United States Indo-Pacific Command, United States Northern Command, United States Strategic Command, United States Space Command, United States Transportation Command, and other relevant Commands, in coordination with the Commander of United States Cyber Command, in order to enable effective mission thread analysis, cyber situational awareness, and effective cyber defense of Defense Critical Assets and Task Critical Assets under their control or in their areas of responsibility, shall develop, institute, and make necessary modifications to—
+
+&emsp;"(1) internal combatant command processes, responsibilities, and functions;
+
+&emsp;"(2) coordination with service components under their operational control, United States Cyber Command, Joint Forces Headquarters-Department of Defense Information Network, and the service cyber components;
+
+&emsp;"(3) combatant command headquarters' situational awareness posture to ensure an appropriate level of cyber situational awareness of the forces, facilities, installations, bases, critical infrastructure, and weapon systems under their control or in their areas of responsibility, including, in particular, Defense Critical Assets and Task Critical Assets; and
+
+&emsp;"(4) documentation of their mission-relevant terrain in cyberspace.
+
+"(c)
+
+Department of Defense Chief Information Officer Responsibilities.—
+
+&emsp;"(1)
+
+In general.—Not later than November 1, 2023, the Chief Information Officer of the Department of Defense shall establish or make necessary changes to policy, control systems standards, risk management framework and authority to operate policies, and cybersecurity reference architectures to provide baseline cybersecurity requirements for operational technology in forces, facilities, installations, bases, critical infrastructure, and weapon systems across the Department of Defense Information Network.
+
+&emsp;"(2)
+
+Implementation of policies.—The Chief Information Officer of the Department of Defense shall leverage acquisition guidance, concerted assessment of the Department's operational technology enterprise, and coordination with the military department principal cyber advisors and chief information officers to drive necessary change and implementation of relevant policy across the Department's forces, facilities, installations, bases, critical infrastructure, and weapon systems.
+
+&emsp;"(3)
+
+Additional responsibilities.—The Chief Information Officer of the Department of Defense shall ensure that policies, control systems standards, and cybersecurity reference architectures—
+
+&emsp;&emsp;"(A) are implementable by components of the Department;
+
+&emsp;&emsp;"(B) limit adversaries' ability to reach or manipulate control systems through cyberspace;
+
+&emsp;&emsp;"(C) appropriately balance non-connectivity and monitoring requirements;
+
+&emsp;&emsp;"(D) include data collection and flow requirements;
+
+&emsp;&emsp;"(E) interoperate with and are informed by the operational community's workflows for defense of information and operational technology in the forces, facilities, installations, bases, critical infrastructure, and weapon systems across the Department;
+
+&emsp;&emsp;"(F) integrate and interoperate with Department mission assurance construct; and
+
+&emsp;&emsp;"(G) are implemented with respect to Defense Critical Assets and Task Critical Assets.
+
+"(d)
+
+United States Cyber Command Operational Responsibilities.—Not later than January 1, 2025, the Commander of United States Cyber Command shall make necessary modifications to the mission, scope, and posture of Joint Forces Headquarters-Department of Defense Information Network to ensure that Joint Forces Headquarters—
+
+&emsp;"(1) has appropriate visibility of operational technology in the forces, facilities, installations, bases, critical infrastructure, and weapon systems across the Department of Defense Information Network, including, in particular, Defense Critical Assets and Task Critical Assets;
+
+&emsp;"(2) can effectively command and control forces to defend such operational technology; and
+
+&emsp;"(3) has established processes for—
+
+&emsp;&emsp;"(A) incident and compliance reporting;
+
+&emsp;&emsp;"(B) ensuring compliance with Department of Defense cybersecurity policy; and
+
+&emsp;&emsp;"(C) ensuring that cyber vulnerabilities, attack vectors, and security violations, including, in particular, those specific to Defense Critical Assets and Task Critical Assets, are appropriately managed.
+
+"(e)
+
+United States Cyber Command Functional Responsibilities.—Not later than January 1, 2025, the Commander of United States Cyber Command shall—
+
+&emsp;"(1) ensure in its role of Joint Forces Trainer for the Cyberspace Operations Forces that operational technology cyber defense is appropriately incorporated into training for the Cyberspace Operations Forces;
+
+&emsp;"(2) delineate the specific force composition requirements within the Cyberspace Operations Forces for specialized cyber defense of operational technology, including the number, size, scale, and responsibilities of defined Cyber Operations Forces elements;
+
+&emsp;"(3) develop and maintain, or support the development and maintenance of, a joint training curriculum for operational technology-focused Cyberspace Operations Forces;
+
+&emsp;"(4) support the Chief Information Officer of the Department of Defense as the Department's senior official for the cybersecurity of operational technology under this section;
+
+&emsp;"(5) develop and institutionalize, or support the development and institutionalization of, tradecraft for defense of operational technology across local defenders, cybersecurity service providers, cyber protection teams, and service-controlled forces;
+
+&emsp;"(6) develop and institutionalize integrated concepts of operation, operational workflows, and cybersecurity architectures for defense of information and operational technology in the forces, facilities, installations, bases, critical infrastructure, and weapon systems across the Department of Defense Information Network, including, in particular, Defense Critical Assets and Task Critical Assets, including—
+
+&emsp;&emsp;"(A) deliberate and strategic sensoring of such Network and Assets;
+
+&emsp;&emsp;"(B) instituting policies governing connections across and between such Network and Assets;
+
+&emsp;&emsp;"(C) modelling of normal behavior across and between such Network and Assets;
+
+&emsp;&emsp;"(D) engineering data flows across and between such Network and Assets;
+
+&emsp;&emsp;"(E) developing local defenders, cybersecurity service providers, cyber protection teams, and service-controlled forces' operational workflows and tactics, techniques, and procedures optimized for the designs, data flows, and policies of such Network and Assets;
+
+&emsp;&emsp;"(F) instituting of model defensive cyber operations and Department of Defense Information Network operations tradecraft; and
+
+&emsp;&emsp;"(G) integrating of such operations to ensure interoperability across echelons; and
+
+&emsp;"(7) advance the integration of the Department of Defense's mission assurance, cybersecurity compliance, cybersecurity operations, risk management framework, and authority to operate programs and policies.
+
+"(f)
+
+Service Responsibilities.—Not later than January 1, 2025, the Secretaries of the military departments, through the service principal cyber advisors, chief information officers, the service cyber components, and relevant service commands, shall make necessary investments in operational technology in the forces, facilities, installations, bases, critical infrastructure, and weapon systems across the Department of Defense Information Network and the service-controlled forces responsible for defense of such operational technology to—
+
+&emsp;"(1) ensure that relevant local network and cybersecurity forces are responsible for defending operational technology across the forces, facilities, installations, bases, critical infrastructure, and weapon systems, including, in particular, Defense Critical Assets and Task Critical Assets;
+
+&emsp;"(2) ensure that relevant local operational technology-focused system operators, network and cybersecurity forces, mission defense teams and other service-retained forces, and cyber protection teams are appropriately trained, including through common training and use of cyber ranges, as appropriate, to execute the specific requirements of cybersecurity operations in operational technology;
+
+&emsp;"(3) ensure that all Defense Critical Assets and Task Critical Assets are monitored and defended by Cybersecurity Service Providers;
+
+&emsp;"(4) ensure that operational technology is appropriately sensored and appropriate cybersecurity defenses, including technologies associated with the More Situational Awareness for Industrial Control Systems Joint Capability Technology Demonstration, are employed to enable defense of Defense Critical Assets and Task Critical Assets;
+
+&emsp;"(5) implement Department of Defense Chief Information Officer policy germane to operational technology, including, in particular, with respect to Defense Critical Assets and Task Critical Assets;
+
+&emsp;"(6) plan for, designate, and train dedicated forces to be utilized in operational technology-centric roles across the military services and United States Cyber Command; and
+
+&emsp;"(7) ensure that operational technology, as appropriate, is not easily accessible via the internet and that cybersecurity investments accord with mission risk to and relevant access vectors for Defense Critical Assets and Task Critical Assets.
+
+"(g)
+
+Office of the Secretary of Defense Responsibilities.—Not later than January 1, 2023, the Secretary of Defense shall—
+
+&emsp;"(1) assess and finalize Office of the Secretary of Defense components' roles and responsibilities for the cybersecurity of operational technology in the forces, facilities, installations, bases, critical infrastructure, and weapon systems across the Department of Defense Information Network;
+
+&emsp;"(2) assess the need to establish centralized or dedicated funding for remediation of cybersecurity gaps in operational technology across the Department of Defense Information Network;
+
+&emsp;"(3) make relevant modifications to the Department of Defense's mission assurance construct, Mission Assurance Coordination Board, and other relevant bodies to drive—
+
+&emsp;&emsp;"(A) prioritization of kinetic and non-kinetic threats to the Department's missions and minimization of mission risk in the Department's war plans;
+
+&emsp;&emsp;"(B) prioritization of relevant mitigations and investments to harden and assure the Department's missions and minimize mission risk in the Department's war plans; and
+
+&emsp;&emsp;"(C) completion of mission relevant terrain mapping of Defense Critical Assets and Task Critical Assets and population of associated assessment and mitigation data in authorized repositories;
+
+&emsp;"(4) make relevant modifications to the Strategic Cybersecurity Program; and
+
+&emsp;"(5) drive and provide oversight of the implementation of this section.
+
+"(h)
+
+Budget Rollout Briefings.—
+
+&emsp;"(1)
+
+In general.—Beginning not later than 30 days after the date of the enactment of this Act \[Dec. 27, 2021\], each of the Secretaries of the military departments, the Commander of United States Cyber Command, and the Chief Information Officer of the Department of Defense shall provide annual updates to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on activities undertaken and progress made to carry out this section.
+
+&emsp;"(2)
+
+Annual briefings.—Not later than one year after the date of the enactment of this Act and not less frequently than annually thereafter until January 1, 2024, the Under Secretary of Defense for Policy, the Under Secretary of Defense for Acquisition and Sustainment, the Chief Information Officer, and the Joint Staff J6, representing the combatant commands, shall individually or together provide briefings to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives on activities undertaken and progress made to carry out this section.
+
+"(i)
+
+Implementation.—
+
+&emsp;"(1)
+
+In general.—In implementing this section, the Secretary of Defense shall prioritize the cybersecurity and cyber defense of Defense Critical Assets and Task Critical Assets and shape cyber investments, policy, operations, and deployments to ensure cybersecurity and cyber defense.
+
+&emsp;"(2)
+
+Application.—This section shall apply to assets owned and operated by the Department of Defense, as well as to applicable non-Department assets essential to the projection, support, and sustainment of military forces and operations worldwide.
+
+"(j)
+
+Definition.—In this section:
+
+&emsp;"(1)
+
+Mission-relevant terrain in cyberspace.—'mission-relevant \[sic\] terrain in cyberspace' has the meaning given such term as specified in Joint Publication 6-0.
+
+&emsp;"(2)
+
+Operational technology.—The term 'operational technology' means control systems or controllers, communication architectures, and user interfaces that monitor or control infrastructure and equipment operating in various environments, such as weapon systems, utility or energy production and distribution, or medical, logistics, nuclear, biological, chemical, or manufacturing facilities."
 
 #### Framework for Cyber Hunt Forward Operations
 
@@ -274,7 +462,7 @@ Response Options.—In carrying out the policy set forth in subsection (a), the 
 
 "(c)
 
-Denial Options.—In carrying out the policy set forth in subsection (a) through response options developed pursuant to subsection (b), the United States shall, to the greatest extent practicable, prioritize the defensibility and resiliency against cyber attacks andmalicious cyber activities described in subsection (a) of infrastructure critical to the political integrity, economic security, and national security of the United States.
+Denial Options.—In carrying out the policy set forth in subsection (a) through response options developed pursuant to subsection (b), the United States shall, to the greatest extent practicable, prioritize the defensibility and resiliency against cyber attacks and malicious cyber activities described in subsection (a) of infrastructure critical to the political integrity, economic security, and national security of the United States.
 
 "(d)
 
@@ -510,7 +698,7 @@ Contents.—The report required by paragraph (1) shall include the following:
 
 &emsp;&emsp;"(B) A description of the risk analysis methodologies and modeling and simulation capabilities developed and demonstrated pursuant to the pilot program, and an assessment of the potential for future growth of commercial technology in support of the homeland defense mission of the Department of Defense.
 
-&emsp;&emsp;"(C) Such recommendations as the Secretary considers appropriate regarding the establishment of aprogram of record for the Department on further development and sustainment of risk analysis methodologies and advanced, large-scale modeling and simulation on critical infrastructure and cyber warfare.
+&emsp;&emsp;"(C) Such recommendations as the Secretary considers appropriate regarding the establishment of a program of record for the Department on further development and sustainment of risk analysis methodologies and advanced, large-scale modeling and simulation on critical infrastructure and cyber warfare.
 
 &emsp;&emsp;"(D) Lessons learned from the use of novel risk analysis methodologies and large-scale modeling and simulation carried out under the pilot program regarding vulnerabilities, required capabilities, and reconfigured force structure, coordination practices, and policy.
 
@@ -604,7 +792,7 @@ Elements of Review.—Each review conducted under subsection (a) shall include, 
 
 &emsp;&emsp;"(C) An assessment of the personnel, capabilities, equipment, funding, and operational concepts of Cybersecurity Service Providers and other elements of the Cyber Operations Forces.
 
-&emsp;"(9) An assessment of whether the Cyber Mission Force has the appropriate level of interoperability,integration, and interdependence with special operations and conventional forces.
+&emsp;"(9) An assessment of whether the Cyber Mission Force has the appropriate level of interoperability, integration, and interdependence with special operations and conventional forces.
 
 &emsp;"(10) An evaluation of the adequacy of mission authorities for the Joint Force Provider and Joint Force Trainer responsibilities of United States Cyber Command, including the adequacy of the units designated as Cyber Operations Forces to support such responsibilities.
 

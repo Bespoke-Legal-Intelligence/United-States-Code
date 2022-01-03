@@ -20,7 +20,7 @@ In this chapter:
 
 &emsp;&emsp;&emsp;(iii) is incapable of self-support because of a mental or physical incapacity that occurs while a dependent of a member or former member under clause (i) or (ii) and is, or was at the time of the member's or former member's death, in fact dependent on the member or former member for over one-half of the child's support;
 
-&emsp;&emsp;(E) a parent or parent-in-law who is, or was at the time of the member's or former member's death, in fact dependent on him for over one-half of his support and residing in his household;
+&emsp;&emsp;(E) a parent or parent-in-law who is, or was at the time of the member's or formermember's death, in fact dependent on him for over one-half of his support and residing in his household;
 
 &emsp;&emsp;(F) the unremarried former spouse of a member or former member who (i) on the date of the final decree of divorce, dissolution, or annulment, had been married to the member or former member for a period of at least 20 years during which period the member or former member performed at least 20 years of service which is creditable in determining that member's or former member's eligibility for retired or retainer pay, or equivalent pay, and (ii) does not have medical coverage under an employer-sponsored health plan;
 
@@ -88,7 +88,7 @@ In this chapter:
 
 &emsp;(10) The term "health care" includes mental health care.
 
-&emsp;(11) The term "TRICARE Extra" means the preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiaries may obtain discounts on cost sharing as a result of using TRICARE network providers.
+&emsp;(11) The term "TRICARE Extra" means the preferred-provider option of the TRICARE program made available prior to January 1, 2018, under which TRICARE Standard beneficiariesmay obtain discounts on cost sharing as a result of using TRICARE network providers.
 
 &emsp;(12) The term "TRICARE Select" means the self-managed, preferred-provider network option under the TRICARE program established by section 1075 of this title.
 
@@ -96,7 +96,7 @@ In this chapter:
 
 &emsp;(14) The term "TRICARE Prime" means the managed care option of the TRICARE program.
 
-&emsp;(15) The term "TRICARE Standard" means the TRICARE program made available prior to January 1, 2018, covering health benefits contracted for under the authority of section1079(a) or 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under those sections.
+&emsp;(15) The term "TRICARE Standard" means the TRICARE program made available prior to January 1, 2018, covering health benefits contracted for under the authority of section 1079(a) or 1086(a) of this title and subject to the same rates and conditions as apply to persons covered under those sections.
 
 (Added Pub. L. 85–861, §1(25)(B), Sept. 2, 1958, 72 Stat. 1446; amended Pub. L. 89–614, §2(1), Sept. 30, 1966, 80 Stat. 862; Pub. L. 89–718, §8(a), Nov. 2, 1966, 80 Stat. 1117; Pub. L. 96–513, title I, §115(b), title V, §511(34)(A), (35), (36), Dec. 12, 1980, 94 Stat. 2877, 2922, 2923; Pub. L. 97–252, title X, §1004(a), Sept. 8, 1982, 96 Stat. 737; Pub. L. 98–525, title VI, §645(a), Oct. 19, 1984, 98 Stat. 2548; Pub. L. 98–557, §19(1), Oct. 30, 1984, 98 Stat. 2869; Pub. L. 99–661, div. A, title VII, §701(b), Nov. 14, 1986, 100 Stat. 3898; Pub. L. 101–189, div. A, title VII, §731(a), Nov. 29, 1989, 103 Stat. 1481; Pub. L. 102–484, div. A, title VII, §706, Oct. 23, 1992, 106 Stat. 2433; Pub. L. 103–160, div. A, title VII, §702(a), Nov. 30, 1993, 107 Stat. 1686; Pub. L. 103–337, div. A, title VII, §701(a), Oct. 5, 1994, 108 Stat. 2797; Pub. L. 105–85, div. A, title VII, §711, Nov. 18, 1997, 111 Stat. 1808; Pub. L. 107–107, div. A, title VII, §701(c), Dec. 28, 2001, 115 Stat. 1160; Pub. L. 109–163, div. A, title V, §592(b), title X, §1057(a)(2), Jan. 6, 2006, 119 Stat. 3280, 3440; Pub. L. 110–181, div. A, title VII, §708(a), Jan. 28, 2008, 122 Stat. 190; Pub. L. 114–328, div. A, title VII, §701(j)(1)(A), Dec. 23, 2016, 130 Stat. 2191; Pub. L. 115–91, div. A, title VII, §739(a), Dec. 12, 2017, 131 Stat. 1446.)
 
@@ -123,6 +123,8 @@ In clause (1), the words "the armed forces" are substituted for the words "the A
 In clause (2), the words "or to a person who died while a member or retired member of a uniformed service" and "lawful" are omitted as surplusage. The word "former" is substituted for the word "retired", since a retired member or a member of the Fleet Reserve or the Fleet Marine Corps Reserve is already included as a "member" of an armed force.
 
 Clause (2)(E) combines 37:402(a)(4)(E) and (G).
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -192,6 +194,8 @@ Par. (2). Pub. L. 96–513, §§115(b), 511(36), substituted "spouse" for "wife"
 
 Pub. L. 89–614 substituted "1087" for "1085" in introductory phrase.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2016 Amendment
 
 Pub. L. 114–328, div. A, title VII, §701(k), Dec. 23, 2016, 130 Stat. 2193, provided that: "The amendments made by this section \[enacting sections 1075 and 1075a of this title and amending this section and sections 1076d, 1076e, 1079a, 1095f, 1099, and 1110b of this title\] shall apply with respect to the provision of health care under the TRICARE program beginning on January 1, 2018."
@@ -250,7 +254,7 @@ Pub. L. 107–107, div. A, title VII, §708(a), Dec. 28, 2001, 115 Stat. 1164, p
 
 Pub. L. 101–189, div. A, title VII, §731(e), Nov. 29, 1989, 103 Stat. 1483, provided that:
 
-"(1) In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat. 2549) \[set out below\], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
+"(1) In the case of a person who qualified as a dependent under section 645(c) of the Department of Defense Authorization Act, 1985 (Public Law 98–525; 98 Stat.2549) \[set out below\], on September 28, 1988, the Secretary of Defense shall make a conversion health policy available for purchase by the person during the remaining period the person is considered to be a dependent under that section (or within a reasonable time after that period as prescribed by the Secretary of Defense).
 
 "(2) Purchase of a conversion health policy under paragraph (1) by a person shall entitle the person to health care for preexisting conditions in the same manner and to the same extent as provided by section 1086a(b) of title 10, United States Code (as added by subsection (b)), until the end of the one-year period beginning on the later of—
 
@@ -262,5 +266,5 @@ Pub. L. 101–189, div. A, title VII, §731(e), Nov. 29, 1989, 103 Stat. 1483, p
 
 #### Dependent; Qualification as; Effective Date
 
-Pub. L. 98–525, title VI, §645(c), Oct. 19, 1984, 98 Stat. 2549, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
+Pub. L. 98–525, title VI, §645(c), Oct. 19, 1984, 98 Stat. 2549, as amended by Pub. L. 99–661, div. A, title VI, §646, Nov. 14, 1986, 100 Stat. 3887; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45; Pub. L. 100–271, §1, Mar. 29, 1988, 102 Stat. 45, provided that a person who would qualify as a dependent under section 1072(2)(G) of title 10 but for the fact that the person's final decree of divorce, dissolution, or annulment was dated on or after Apr. 1, 1985, would be considered to be a dependent under such section until the later of (1) Dec. 31, 1988, and (2) the last day of the two-year period beginning on the date of such final decree, prior to repeal by Pub. L. 100–456, div. A, title VI, §651(b), Sept. 29, 1988, 102 Stat. 1990, effective Sept. 29, 1988, or 30 days after the Secretary of Defense first makes available a conversion health policy (as defined in section 1076(f) of title 10), whichever is later.
 

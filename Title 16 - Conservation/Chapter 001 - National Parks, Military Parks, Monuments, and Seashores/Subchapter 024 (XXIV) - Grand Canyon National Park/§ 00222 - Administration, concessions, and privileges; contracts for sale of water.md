@@ -1,8 +1,10 @@
 ### §222. Administration, concessions, and privileges; contracts for sale of water
 
-The administration, protection, and promotion of Grand Canyon National Park shall be exercised under the direction of the Secretary of the Interior, by the National Park Service, subject to the provisions of the Act of August twenty-fifth, nineteen hundred and sixteen, entitled "An Act to establish a National Park Service, and for other purposes".<sup>1</sup> All concessions for hotels, camps, transportation, and other privileges of every kind and nature for the accommodation or entertainment of visitors shall be let at public bidding to the best and most responsible bidder. Under such terms and conditions as he deems advisable and consistent with the requirements of section 9701 of title 31, the Secretary is authorized, without derogation of any of the water rights of the United States and notwithstanding any provision of law to the contrary, to sell by contract water located within GrandCanyon National Park for the use of customers within Tusayan, Arizona, to a nonprofit entity authorized to receive and distribute water within Tusayan, Arizona by the laws of the State of Arizona, upon his determination that such sale is not detrimental to the protection of the resources of Grand Canyon National Park or its visitors and that appropriate measures to provide for such protection, including a right of immediate termination, are included in the transaction.
+The administration, protection, and promotion of Grand Canyon National Park shall be exercised under the direction of the Secretary of the Interior, by the National Park Service, subject to the provisions of the Act of August twenty-fifth, nineteen hundred and sixteen, entitled "An Act to establish a National Park Service, and for other purposes".<sup>1</sup> All concessions for hotels, camps, transportation, and other privileges of every kind and nature for the accommodation or entertainment of visitors shall be let at public bidding to the best and most responsible bidder. Under such terms and conditions as he deems advisable and consistent with the requirements of section 9701 of title 31, the Secretary is authorized, without derogation of any of the water rights of the United States and notwithstanding any provision of law to the contrary, to sell by contract water located within Grand Canyon National Park for the use of customers within Tusayan, Arizona, to a nonprofit entity authorized to receive and distribute water within Tusayan, Arizona by the laws of the State of Arizona, upon his determination that such sale is not detrimental to the protection of the resources of Grand Canyon National Park or its visitors and that appropriate measures to provide for such protection, including a right of immediate termination, are included in the transaction.
 
 (Feb. 26, 1919, ch. 44, §2, 40 Stat. 1177; Pub. L. 95–586, title XII, Nov. 3, 1978, 92 Stat. 2495.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -16,13 +18,17 @@ The Act of August twenty-fifth, nineteen hundred and sixteen, entitled "An Act t
 
 <b>1978</b>—Pub. L. 95–586 inserted provisions authorizing the Secretary to contract for the sale of water located within the park for use of customers within Tusayan, Arizona.
 
-#### Transfer of Functions
-
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Special United States Magistrate Judge for Grand Canyon National Park
 
 Appointment by United States District Court for the District of Arizona of a special commissioner \[now United States magistrate judge\] for the Grand Canyon National Park, see Pub. L. 86–258, Sept. 14, 1959, 73 Stat. 546, as amended, formerly set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

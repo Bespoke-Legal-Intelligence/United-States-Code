@@ -90,7 +90,7 @@ In subsection (b), the words "under subsection (a) of this section" are inserted
 
 In subsection (c), the words "United States" are substituted for "Government" to conform to the style of this title. The words "under subsection (a) of this section" are inserted for clarity.
 
-In subsection (d), the words "an employee in a missing status" are substituted for "a person missing underthe conditions specified in section 2 of this Act" to conform to the definitions in section 5561(2) and (5).
+In subsection (d), the words "an employee in a missing status" are substituted for "a person missing under the conditions specified in section 2 of this Act" to conform to the definitions in section 5561(2) and (5).
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

@@ -8,13 +8,15 @@ It is the purpose of this subchapter to provide Federal assistance to States to 
 
 &emsp;(3) planning for the assessment of the status of career education and career development programs and practices, including a reassessment of the stereotyping of career opportunities by race or by sex;
 
-&emsp;(4) planning for the demonstration of the best of the current career education and career development programs and practices by planning to develop and test exemplary programs and practices using various theories, concepts, and approaches with respect to career education and through planning for a nationwide system of regional career education centers;
+&emsp;(4) planning for the demonstration of the best of the current career education and career development programs and practices by planning to develop and test exemplary programs and practices using various theories,concepts, and approaches with respect to career education and through planning for a nationwide system of regional career education centers;
 
 &emsp;(5) planning for the training and retraining of persons for conducting career education and career development programs; and
 
 &emsp;(6) developing State and local plans for implementing programs designed to ensure that every person has the opportunity to gain the knowledge and skills necessary for gainful or maximum employment and for full participation in our society according to his or her ability.
 
 (Pub. L. 94–482, title III, §331, Oct. 12, 1976, 90 Stat. 2221.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

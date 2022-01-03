@@ -7,6 +7,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1969</b>—Pub. L. 91–172, title V, §512(f)(2), Dec. 30, 1969, 83 Stat. 641, substituted "carrybacks and carryovers" for "carryover" in item 1212.

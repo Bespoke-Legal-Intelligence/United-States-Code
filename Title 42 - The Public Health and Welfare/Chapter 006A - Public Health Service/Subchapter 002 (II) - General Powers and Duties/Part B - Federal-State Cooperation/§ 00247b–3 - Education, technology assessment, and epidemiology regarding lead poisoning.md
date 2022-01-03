@@ -50,15 +50,19 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;(2) provide for the development of improved methods of assessing the prevalence of lead poisoning, including such methods as may be necessary to conduct individual assessments for each State;
 
-&emsp;(3) provide for the collection of data on the incidence and prevalence of lead poisoning of infants and children, on the demographic characteristics of infants and children with such poisoning (including racial and ethnic status), and on the source of payment for treatment for such poisoning (including the extent to which insurance has paid for such treatment); and
+&emsp;(3) provide for the collection of data on the incidence and prevalence of lead poisoning of infants and children, on the demographic characteristics of infants and children with such poisoning (including racial and ethnic status), and on the source of payment for treatment for such poisoning (including the extent towhich insurance has paid for such treatment); and
 
 &emsp;(4) provide for any applied research necessary to improve the effectiveness of programs for the prevention of lead poisoning in infants and children.
 
 (July 1, 1944, ch. 373, title III, §317B, as added Pub. L. 102–531, title III, §303(b), Oct. 27, 1992, 106 Stat. 3488; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(i), June 10, 1993, 107 Stat. 212.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1993</b>—Pub. L. 103–43 made technical amendment to directory language of Pub. L. 102–531, §303(b), which enacted this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

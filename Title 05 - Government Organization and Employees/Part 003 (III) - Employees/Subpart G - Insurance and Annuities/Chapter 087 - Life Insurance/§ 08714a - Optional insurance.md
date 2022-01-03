@@ -38,7 +38,7 @@
 
 (f) The amount of optional life, or life and accidental death, insurance in force on an employee at the date of his death shall be paid as provided in section 8705 of this title.
 
-(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, as amended by Pub. L. 99–336, §7(1), June 19, 1986,100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, \[div. A\], title XI, §1103(b), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 111–350, §5(a)(12), Jan. 4, 2011, 124 Stat. 3841.)
+(Added Pub. L. 90–206, title IV, §404(1), Dec. 16, 1967, 81 Stat. 647; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 95–583, §1(c), Nov. 2, 1978, 92 Stat. 2481; Pub. L. 96–427, §6, Oct. 10, 1980, 94 Stat. 1834; Pub. L. 98–353, title II, §206, July 10, 1984, 98 Stat. 351, asamended by Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 99–335, title II, §207(k)(3), June 6, 1986, 100 Stat. 597; Pub. L. 99–336, §7(1), June 19, 1986, 100 Stat. 639; Pub. L. 105–311, §6(2), Oct. 30, 1998, 112 Stat. 2951; Pub. L. 110–417, \[div. A\], title XI, §1103(b), Oct. 14, 2008, 122 Stat. 4616; Pub. L. 111–350, §5(a)(12), Jan. 4, 2011, 124 Stat. 3841.)
 
 #### <b>Editorial Notes</b>
 

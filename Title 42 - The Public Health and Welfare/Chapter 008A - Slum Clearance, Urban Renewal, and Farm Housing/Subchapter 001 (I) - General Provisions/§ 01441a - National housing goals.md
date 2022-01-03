@@ -6,13 +6,15 @@ The Congress finds that the supply of the Nation's housing is not increasing rap
 
 #### (b) Additional Congressional findings
 
-The Congress further finds that policies designed to contribute to the achievement of the national housing goal have not directed sufficient attention and resources to the preservation of existing housing and neighborhoods, that the deterioration and abandonment of housing for the Nation's lower income families has accelerated over the last decade, and that this acceleration has contributed to neighborhood disintegration and has partially negated the progress toward achieving the national housing goal which has been made primarily through new housing construction.
+The Congress further finds that policies designed to contribute to the achievement of the national housing goal have not directed sufficient attention and resources to the preservation of existing housing and neighborhoods, thatthe deterioration and abandonment of housing for the Nation's lower income families has accelerated over the last decade, and that this acceleration has contributed to neighborhood disintegration and has partially negated the progress toward achieving the national housing goal which has been made primarily through new housing construction.
 
 #### (c) Congressional declaration of purposes
 
 The Congress declares that if the national housing goal is to be achieved, a greater effort must be made to encourage the preservation of existing housing and neighborhoods through such measures as housing preservation, moderate rehabilitation, and improvements in housing management and maintenance, in conjunction with the provision of adequate municipal services. Such an effort should concentrate, to a greater extent than it has in the past, on housing and neighborhoods where deterioration is evident but has not yet become acute.
 
 (Pub. L. 90–448, title XVI, §1601, Aug. 1, 1968, 82 Stat. 601; Pub. L. 93–383, title VIII, §801(1), (2), Aug. 22, 1974, 88 Stat. 721.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

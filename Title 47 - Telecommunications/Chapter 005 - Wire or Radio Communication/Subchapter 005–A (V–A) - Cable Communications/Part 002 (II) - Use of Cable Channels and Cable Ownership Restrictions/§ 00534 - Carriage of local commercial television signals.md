@@ -8,7 +8,7 @@ Each cable operator shall carry, on the cable system of that operator, the signa
 
 #### (1) In general
 
-&emsp;(A) A cable operator of a cable system with 12 or fewer usable activated channels shall carry the signals of at least three local commercial television stations, except that if such a system has 300 or fewer subscribers, it shallnot be subject to any requirements under this section so long as such system does not delete from carriage by that system any signal of a broadcast television station.
+&emsp;(A) A cable operator of a cable system with 12 or fewer usable activated channels shall carry the signals of at least three local commercial television stations, except that if such a system has 300 or fewer subscribers, it shall not be subject to any requirements under this section so long as such system does not delete from carriage by that system any signal of a broadcast television station.
 
 &emsp;(B) A cable operator of a cable system with more than 12 usable activated channels shall carry the signals of local commercial television stations, up to one-third of the aggregate number of usable activated channels of such system.
 

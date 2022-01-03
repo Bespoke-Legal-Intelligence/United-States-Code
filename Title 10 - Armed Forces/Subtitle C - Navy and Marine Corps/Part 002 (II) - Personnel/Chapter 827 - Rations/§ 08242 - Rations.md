@@ -38,15 +38,21 @@ Mar. 2, 1933, ch. 184, §3, 47 Stat. 1423.
 
 In subsection (a) the words "issued to each person entitled thereto" are omitted as surplusage. In clause (2) the words "or fresh" and in clause (6) the words "together with" are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6082 of this title as this section.
 
 <b>1990</b>—Pub. L. 101–510 substituted "Rations" for "Navy ration: composition" in section catchline and amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) which specified the contents and quantities of the Navy ration in detail, authorized issuance of articles in addition to the authorized quantities, and provided for increases in the daily allowance of provisions on certain vessels or at certain stations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority
 

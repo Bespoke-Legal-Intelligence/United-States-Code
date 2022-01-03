@@ -52,7 +52,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 > &emsp;unless such report or information is necessary to determine if the device should be reclassified or if the device is adulterated or misbranded. and <sup>2</sup>
 
-> In prescribing such regulations, the Secretary shall have due regard for the professional ethicsof the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
+> In prescribing such regulations, the Secretary shall have due regard for the professional ethics of the medical profession and the interests of patients. The prohibitions of paragraph (7) of this subsection continue to apply to records, reports, and information concerning any individual who has been a patient, irrespective of whether or when he ceases to be a patient. The Secretary shall by regulation require distributors to keep records and make such records available to the Secretary upon request. Paragraphs (4) and (8) apply to distributors to the same extent and in the same manner as such paragraphs apply to manufacturers and importers.
 
 #### (b) User reports
 
@@ -188,7 +188,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 #### (3) Stakeholder input
 
-&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of the system, and gather information from outside stakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
+&emsp;To help ensure effective implementation of the system as described in paragraph (1) with respect to devices, the Secretary shall engage outside stakeholders in development of the system, and gather information from outsidestakeholders regarding the content of an effective sentinel program, through a public hearing, advisory committee meeting, maintenance of a public docket, or other similar public measures.
 
 #### (4) Voluntary surveys
 
@@ -310,7 +310,7 @@ Not later than December 31, 2012, the Secretary shall issue proposed regulations
 
 &emsp;The Secretary may not carry out a pilot project initiated by the Secretary under this subsection after October 1, 2022.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a), 227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061;Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347; Pub. L. 110–85, title II, §§226(a),227, Sept. 27, 2007, 121 Stat. 854; Pub. L. 112–144, title VI, §§614, 615, July 9, 2012, 126 Stat. 1061; Pub. L. 114–255, div. A, title III, §3101(a)(2)(L), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VII, §708(a), Aug. 18, 2017, 131 Stat. 1062.)
 
 #### <b>Editorial Notes</b>
 

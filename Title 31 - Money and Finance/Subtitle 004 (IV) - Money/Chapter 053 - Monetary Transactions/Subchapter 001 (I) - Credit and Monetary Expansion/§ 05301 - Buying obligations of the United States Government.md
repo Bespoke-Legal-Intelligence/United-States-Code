@@ -14,7 +14,7 @@
 
 &emsp;(1) conduct through each entire specified period open market operations in obligations of the United States Government or corporations in which the Government is the majority stockholder; and
 
-&emsp;(2) buy directly and hold an additional $3,000,000,000 of obligations of the Government for each agreed period, unless the Secretary consents to the sale of the obligations before the end of the period.
+&emsp;(2) buy directly and hold an additional $3,000,000,000 of obligations of the Government for each agreed period, unless the Secretaryconsents to the sale of the obligations before the end of the period.
 
 (c) With the approval of the Secretary, the Board may require Federal reserve banks to take action the Secretary and Board consider necessary to prevent unreasonable credit expansion.
 
@@ -48,7 +48,7 @@ In subsection (b), before clause (1), the words "(and the Board is authorized to
 
 Pub. L. 116–283, div. F, §6001, Jan. 1, 2021, 134 Stat. 4547, provided that: "This division \[see Tables for classification\] may be cited as the 'Anti-Money Laundering Act of 2020'."
 
-Pub. L. 116–283, div. F, title LXIV, §6401, Jan. 1, 2021, 134 Stat. 4604, provided that: "This title \[enacting section 5336 of this title, amending sections 5321 and 5322of this title, and enacting provisions set out as notes under sections 5311 and 5336 of this title\] may be cited as the 'Corporate Transparency Act'."
+Pub. L. 116–283, div. F, title LXIV, §6401, Jan. 1, 2021, 134 Stat. 4604, provided that: "This title \[enacting section 5336 of this title, amending sections 5321 and 5322 of this title, and enacting provisions set out as notes under sections 5311 and 5336 of this title\] may be cited as the 'Corporate Transparency Act'."
 
 Pub. L. 116–283, div. H, title XCVII, §9711, Jan. 1, 2021, 134 Stat. 4838, provided that: "This subtitle \[subtitle B (§§9711–9714) of title XCVII of div. H of Pub. L. 116–283, enacting provisions set out as notes under sections 5311 and 5318A of this title\] may be cited as the 'Combating Russian Money Laundering Act'."
 

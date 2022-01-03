@@ -22,9 +22,13 @@ Any property (including aircraft, vehicles, vessels, or draft animals) used to t
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 867; Pub. L. 85–859, title II, §204(8), Sept. 2, 1958, 72 Stat. 1429.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1958</b>—Subsec. (e). Pub. L. 85–859 included property used to transport or for the deposit or concealment of property which is intended to be used in the making or packaging of property described in subsec. (a).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1958 Amendment
 

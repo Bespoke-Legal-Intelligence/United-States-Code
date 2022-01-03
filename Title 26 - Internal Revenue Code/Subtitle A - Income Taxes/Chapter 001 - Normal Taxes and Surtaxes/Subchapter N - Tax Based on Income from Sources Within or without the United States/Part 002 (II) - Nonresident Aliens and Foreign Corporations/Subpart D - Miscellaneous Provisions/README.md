@@ -13,6 +13,8 @@ Subpart D—Miscellaneous Provisions
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–239, title VII, §7401(c), Dec. 19, 1989, 103 Stat. 2357, added item 898.

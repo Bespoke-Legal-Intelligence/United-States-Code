@@ -20,9 +20,13 @@ Mar. 2, 1907, ch. 251 (proviso on p. 1166), 34 Stat. 1166.
 
 The title of Secretary of War was changed to Secretary of the Army by section 205(a) of the Act of July 26, 1947 (ch. 343, 61 Stat. 501), and by sections 1 and 53 of the Act of August 10, 1956 (ch. 1041, 70A Stat. 157, 676). The word "When" is substituted for "as shall from time to time be" to eliminate unnecessary words. The words "disbursing official" are substituted for "Officers intrusted with the disbursement" for consistency.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4841 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

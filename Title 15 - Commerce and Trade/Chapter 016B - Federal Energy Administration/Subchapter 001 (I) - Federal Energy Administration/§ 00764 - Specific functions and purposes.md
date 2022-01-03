@@ -34,7 +34,7 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 &emsp;(10) work with business, labor, consumer and other interests and obtain their cooperation;
 
-&emsp;(11) in administering any pricing authority, provide by rule, for equitable allocation of all component costs of producing propane gas. Such rules may require that (a) only those costs directly related to the production of propane may be allocated by any producer to such gas for purposes of establishing any price forpropane, and (b) prices for propane shall be based on the prices for propane in effect on May 15, 1973. The Administrator shall not allow costs attributable to changes in ownership and movement of propane gas where, in the opinion of the Administrator, such changes in ownership and movement occur primarily for the purpose of establishing a higher price; and
+&emsp;(11) in administering any pricing authority, provide by rule, for equitable allocation of all component costs of producing propane gas. Such rules may require that (a) only those costs directly related to the production of propane may be allocated by any producer to such gas for purposes of establishing any price for propane, and (b) prices for propane shall be based on the prices for propane in effect on May 15, 1973. The Administrator shall not allow costs attributable to changes in ownership and movement of propane gas where, in the opinion of the Administrator, such changes in ownership and movement occur primarily for the purpose of establishing a higher price; and
 
 &emsp;(12) perform such other functions as may be prescribed by law.
 
@@ -42,9 +42,11 @@ To the extent authorized by subsection (a) of this section, the Administrator sh
 
 (1) The Administrator shall not exercise the discretion delegated to him by the President, pursuant to section 754(b) <sup>1</sup> of this title, to submit to the Congress as one energy action any amendment to the regulation under section 753(a) <sup>1</sup> of this title, pursuant to section 760a <sup>1</sup> of this title, which amendment exempts any oil, refined petroleum product, or refined product category from both the allocation and pricing provisions of the regulation under section 753 <sup>1</sup> of this title.
 
-(2) Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price together with an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
+(2) Nothing in this subsection shall prevent the Administrator from concurrently submitting an energy action relating to price togetherwith an energy action relating to allocation of the same oil, refined petroleum product, or refined product category.
 
 (Pub. L. 93–275, §5, May 7, 1974, 88 Stat. 98; Pub. L. 94–385, title I, §102, Aug. 14, 1976, 90 Stat. 1127.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -53,6 +55,8 @@ Sections 753, 754, and 760a of this title, referred to in subsec. (c)(1), were o
 #### Amendments
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–385 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Transfer of Functions
 

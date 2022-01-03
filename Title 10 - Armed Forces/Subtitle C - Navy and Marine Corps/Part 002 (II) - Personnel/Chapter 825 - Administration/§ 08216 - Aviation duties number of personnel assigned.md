@@ -26,9 +26,13 @@ July 22, 1935, ch. 402, §8, 49 Stat. 490.
 
 The provisions cited as source are consolidated in this section. The second sentence of §8 of the Act of July 22, 1935, is omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6021 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

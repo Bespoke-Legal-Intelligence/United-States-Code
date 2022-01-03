@@ -28,9 +28,13 @@ Whoever in a transaction affecting interstate or foreign commerce furnishes mone
 
 (Pub. L. 90–321, title I, §134, as added Pub. L. 91–508, title V, §502(a), Oct. 26, 1970, 84 Stat. 1127; amended Pub. L. 93–495, title IV, §414, Oct. 28, 1974, 88 Stat. 1520.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1974</b>—Pub. L. 93–495 generally reorganized provisions by designating former unlettered paragraph cls. (a) to (f), and as so designated, expanded prohibitions relating to fraudulent use of credit cards, decreased amount required for fraudulent use from a retail value aggregating $5,000, or more, to enumerated amounts for particular activities, and increased the punishment from a sentence of not more than five years to a sentence of not more than ten years.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1974 Amendment
 

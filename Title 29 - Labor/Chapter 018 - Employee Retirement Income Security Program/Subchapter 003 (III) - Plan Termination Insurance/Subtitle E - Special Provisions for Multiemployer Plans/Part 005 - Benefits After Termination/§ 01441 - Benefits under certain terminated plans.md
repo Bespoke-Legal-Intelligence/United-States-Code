@@ -12,7 +12,7 @@ Notwithstanding sections 1053 and 1054 of this title, the plan sponsor of a term
 
 #### (c) Amendment of plan by plan sponsor to reduce benefits for conservation of assets; factors applicable
 
-(1) If, according to the determination made under subsection (b), the value of nonforfeitable benefits exceeds the value of the plan's assets, the plan sponsor shall amend the plan to reduce benefits under the plan to the extent necessary to ensure that the plan's assets are sufficient, as determined and certified in accordance with regulations prescribed by the corporation, to discharge when due all of the plan's obligations with respect to nonforfeitable benefits.
+(1) If, according to the determination made under subsection (b), the value of nonforfeitable benefits exceeds the value of the plan's assets,the plan sponsor shall amend the plan to reduce benefits under the plan to the extent necessary to ensure that the plan's assets are sufficient, as determined and certified in accordance with regulations prescribed by the corporation, to discharge when due all of the plan's obligations with respect to nonforfeitable benefits.
 
 (2) Any plan amendment required by this subsection shall, in accordance with regulations prescribed by the Secretary of the Treasury—
 

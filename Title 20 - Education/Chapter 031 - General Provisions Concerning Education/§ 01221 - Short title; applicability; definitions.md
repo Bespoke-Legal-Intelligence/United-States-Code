@@ -34,6 +34,8 @@ Nothing in this chapter shall be construed to affect the applicability of title 
 
 (Pub. L. 90–247, title IV, §400, formerly §401, Jan. 2, 1968, 81 Stat. 814; Pub. L. 90–576, title III, §301(a), Oct. 16, 1968, 82 Stat. 1094; Pub. L. 91–230, title IV, §401(a)(2), Apr. 13, 1970, 84 Stat. 164; renumbered §400, Pub. L. 92–318, title III, §301(a)(1), June 23, 1972, 86 Stat. 326; Pub. L. 93–380, title V, §505(a)(1), Aug. 21, 1974, 88 Stat. 561; Pub. L. 103–382, title II, §211, Oct. 20, 1994, 108 Stat. 3912.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Department of Education Organization Act, referred to in subsec. (c)(1), is Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, as amended, which is classified principally to chapter 48 (§3401 et seq.) of this title. For the effective date of the Act, see Effective Date note set out under section 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of this title and Tables.
@@ -48,7 +50,7 @@ The Age Discrimination Act, referred to in subsec. (d), probably means the Age D
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–382 amended section generally, inserting provision that this chapter not apply to anycontract made by the Department of Education, substituting definition of "Department" as meaning Department of Education for definition of "Director" as meaning Director of the National Institute of Education, striking out reference to the Civil Rights Act of 1964, adding references to title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, title V of the Rehabilitation Act of 1973, the Age Discrimination Act, and other statutes prohibiting discrimination, and striking out provision authorizing appropriations for any fiscal year of such sums as may be necessary to carry out the provisions of this chapter.
+<b>1994</b>—Pub. L. 103–382 amended section generally, inserting provision that this chapter not apply to any contract made by the Department of Education, substituting definition of "Department" as meaning Department of Education for definition of "Director" as meaning Director of the National Institute of Education, striking out reference to the Civil Rights Act of 1964, adding references to title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, title V of the Rehabilitation Act of 1973, the Age Discrimination Act, and other statutes prohibiting discrimination, and striking out provision authorizing appropriations for any fiscal year of such sums as may be necessary to carry out the provisions of this chapter.
 
 <b>1974</b>—Subsec. (a). Pub. L. 93–380 redesignated subsec. (d) as (a). Former subsec. (a) provisions "The provisions of this chapter shall apply to any program for which the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute. Amendments to Acts authorizing such programs shall not affect the applicability of this chapter unless so specified by such amendments" were incorporated in part in subsec. (b).
 
@@ -65,6 +67,8 @@ Subsec. (e). Pub. L. 93–380 added subsec. (e).
 Subsecs. (b), (c). Pub. L. 91–230, §401(a)(2)(B), added subsecs. (b) and (c).
 
 <b>1968</b>—Pub. L. 90–576 substituted general reference to "any program for which the Commissioner of Education has responsibility for administration, either as provided by statute or by delegation pursuant to statute" for specific references to "title I of the Elementary and Secondary Education Act of 1965 (title II of Pub. L. 81–874), titles II, III, V, VI, VII, and VIII of the Elementary and Secondary Education Act of 1965, and the Adult Education Act of 1966 (title III of the Elementary and Secondary Education Amendments of 1966), as now in effect or hereafter from time to time amended" as the areas in which the provisions of this chapter shall apply and inserted provision that amendments to the programs covered shall not affect the applicability of this chapter unless so specified by such amendments.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 
@@ -93,6 +97,8 @@ Pub. L. 95–561, title XII, §1211, Nov. 1, 1978, 92 Stat. 2338, provided that:
 #### Short Title of 1974 Amendment
 
 Pub. L. 93–380, title V, §513(b)(2), Aug. 21, 1974, 88 Stat. 574, provided that: "This section \[enacting section 1232g of this title and provisions set out as a note under section 1232g of this title\] may be cited as the 'Family Educational Rights and Privacy Act of 1974'."
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 11155. Providing for the Recognition of Certain Students as Presidential Scholars
 

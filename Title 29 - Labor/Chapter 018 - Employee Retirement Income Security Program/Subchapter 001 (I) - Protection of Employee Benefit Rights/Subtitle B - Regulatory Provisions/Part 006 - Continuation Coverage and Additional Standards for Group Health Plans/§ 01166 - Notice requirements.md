@@ -56,7 +56,7 @@ Par. (4)(A). Pub. L. 99–509 substituted "(4), or (6)" for "or (4)".
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L.104–191 set out as a note under section 4980B of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 104–191 effective Jan. 1, 1997, regardless of whether qualifying event occurred before, on, or after such date, see section 421(d) of Pub. L. 104–191 set out as a note under section 4980B of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 

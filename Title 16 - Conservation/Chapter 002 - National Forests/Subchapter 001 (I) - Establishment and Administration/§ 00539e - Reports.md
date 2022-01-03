@@ -6,13 +6,15 @@ The Secretary is directed to monitor timber supply and demand in southeastern Al
 
 #### (b) Status of Tongass National Forest in southeastern Alaska; contents
 
-Within five years from December 2, 1980, and every two years thereafter the Secretary shall review and report to Congress on the status of the Tongass National Forest in southeastern Alaska. This report shall include, but not be limited to, (1) the timber harvest levels in the forest since December 2, 1980; (2) the impact of wilderness designation on the timber, fishing, and tourism industry in southeast Alaska; (3) measures instituted by the Forest Service to protect fish and wildlife in the forest; (4) the status of the small business set aside program in the Tongass Forest,<sup>1</sup> and (5) the impact of timber management on subsistence resources, wildlife, and fisheries habitats.
+Within five years from December 2, 1980, and every two years thereafter the Secretary shallreview and report to Congress on the status of the Tongass National Forest in southeastern Alaska. This report shall include, but not be limited to, (1) the timber harvest levels in the forest since December 2, 1980; (2) the impact of wilderness designation on the timber, fishing, and tourism industry in southeast Alaska; (3) measures instituted by the Forest Service to protect fish and wildlife in the forest; (4) the status of the small business set aside program in the Tongass Forest,<sup>1</sup> and (5) the impact of timber management on subsistence resources, wildlife, and fisheries habitats.
 
 #### (c) Cooperation and consultation
 
 The study required by this section shall be conducted in cooperation and consultation with the State, affected Native Corporations, the southeast Alaska timber industry, the Southeast Alaska Conservation Council, the southeast Alaska commercial fishing industry, and the Alaska Land Use Council..<sup>2</sup>
 
 (Pub. L. 96–487, title VII, §706, Dec. 2, 1980, 94 Stat. 2420; Pub. L. 101–626, title I, §104, Nov. 28, 1990, 104 Stat. 4427; Pub. L. 103–437, §6(d)(31), Nov. 2, 1994, 108 Stat. 4584.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -23,6 +25,8 @@ The study required by this section shall be conducted in cooperation and consult
 Subsec. (b). Pub. L. 101–626, §104(a), added cl. (5).
 
 Subsec. (c). Pub. L. 101–626, §104(b), substituted "the southeast Alaska commercial fishing industry, and the Alaska Land Use Council." for "and the Alaska Land Use Council".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Reporting Requirements
 

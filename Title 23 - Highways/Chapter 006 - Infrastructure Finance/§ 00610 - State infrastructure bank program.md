@@ -56,7 +56,7 @@ Leverage.—The term "leverage" means a financial structure used to increase fun
 
 &emsp;(10)
 
-Leveraged.—The term "leveraged", as used with respect to a State infrastructure bank, means that the bank has total potential liabilities that exceed the capital of the bank.
+Leveraged.—The term "leveraged", as used with respect to a State infrastructurebank, means that the bank has total potential liabilities that exceed the capital of the bank.
 
 &emsp;(11)
 
@@ -90,17 +90,17 @@ Funding.—
 
 Highway account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank to deposit into the highway account of the bank not to exceed—
 
-&emsp;&emsp;(A) 10 percent of the funds apportioned to the State for each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and
+&emsp;&emsp;(A) 10 percent of the funds apportioned to the State for each of fiscal years 2022 through 2026 under each of paragraphs (1), (2), and (5) of section 104(b); and
 
 &emsp;&emsp;(B) 10 percent of the funds allocated to the State for each of such fiscal years.
 
 &emsp;(2)
 
-Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under each of such sections.
+Transit account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under section 5307, 5309, or 5311 of title 49, to deposit into the transit account of the bank not to exceed 10 percent of the funds made available to the State or other recipient in each of fiscal years 2022 through 2026 for capital projects under each of such sections.
 
 &emsp;(3)
 
-Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2016 through 2020 for capital projects under such subtitle.
+Rail account.—Subject to subsection (j), the Secretary may permit a State entering into a cooperative agreement under this section to establish a State infrastructure bank, and any other recipient of Federal assistance under subtitle V of title 49, to deposit into the rail account of the bank funds made available to the State or other recipient in each of fiscal years 2022 through 2026 for capital projects under such subtitle.
 
 &emsp;(4)
 
@@ -164,7 +164,7 @@ Eligible Projects.—Subject to subsection (e), funds in an infrastructure bank 
 
 (g)
 
-Infrastructure Bank Requirements.—In order to establish an infrastructure bank underthis section, the State establishing the bank shall—
+Infrastructure Bank Requirements.—In order to establish an infrastructure bank under this section, the State establishing the bank shall—
 
 &emsp;(1) deposit in cash, at a minimum, into the highway account, the transit account, and the rail account of the bank from non-Federal sources an amount equal to 25 percent of the amount of each capitalization grant made to the State and deposited into such account; except that, if the deposit is into the highway account of the bank and the State has a non-Federal share under section 120(b) that is less than 25 percent, the percentage to be deposited from non-Federal sources shall be the lower percentage of such grant;
 
@@ -214,17 +214,21 @@ Management of Federal Funds.—Sections 3335 and 6503 of title 31 shall not appl
 
 (k)
 
-Program Administration.—For each of fiscal years 2016 through 2020, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
+Program Administration.—For each of fiscal years 2022 through 2026, a State may expend not to exceed 2 percent of the Federal funds contributed to an infrastructure bank established by the State under this section to pay the reasonable costs of administering the bank.
 
-(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(11), formerly §1519(c)(12), July 6, 2012, 126 Stat. 577, renumbered §1519(c)(11), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title II, §2001(i), Dec. 4, 2015, 129 Stat. 1444.)
+(Added Pub. L. 109–59, title I, §1602(a), Aug. 10, 2005, 119 Stat. 1243, §190; renumbered §610, Pub. L. 109–59, title I, §1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110–244, title I, §101(f), June 6, 2008, 122 Stat. 1574; Pub. L. 112–141, div. A, title I, §1519(c)(11), formerly §1519(c)(12), July 6, 2012, 126 Stat. 577, renumbered §1519(c)(11), Pub. L. 114–94, div. A, title I, §1446(d)(5)(B), Dec. 4, 2015, 129 Stat. 1438; Pub. L. 114–94, div. A, title II, §2001(i), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, §12001(k), Nov. 15, 2021, 135 Stat. 621.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
 
+<b>2021</b>—Subsec. (d)(1)(A), (2), (3). Pub. L. 117–58, §12001(k)(1), substituted "fiscal years 2022 through 2026" for "fiscal years 2016 through 2020".
+
+Subsec. (k). Pub. L. 117–58, §12001(k)(2), substituted "fiscal years 2022 through 2026" for "fiscal years 2016 through 2020".
+
 <b>2015</b>—Subsec. (a)(11), (12). Pub. L. 114–94, §2001(i)(1), added pars. (11) and (12).
 
-Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b); and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
+Subsec. (d)(1)(A). Pub. L. 114–94, §2001(i)(2)(A), substituted "each of fiscal years 2016 through 2020 under each of paragraphs (1), (2), and (5) of section 104(b);and" for "fiscal years 2005 through 2009 under each of sections 104(b)(1), 104(b)(3), 104(b)(4), and 144; and".
 
 Subsec. (d)(1)(B). Pub. L. 114–94, §1446(d)(5)(B), amended Pub. L. 112–141, div. A, title I, §1519(c). See 2012 Amendment note below.
 
@@ -247,6 +251,10 @@ Subsec. (k). Pub. L. 114–94, §2001(i)(5), substituted "fiscal years 2016 thro
 <b>2005</b>—Pub. L. 109–59, as amended by Pub. L. 110–244, renumbered section 190 of this title as this section.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

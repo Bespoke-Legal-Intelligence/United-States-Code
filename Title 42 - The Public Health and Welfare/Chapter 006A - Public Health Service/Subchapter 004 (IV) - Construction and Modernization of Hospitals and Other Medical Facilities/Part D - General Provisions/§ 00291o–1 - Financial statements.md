@@ -10,6 +10,8 @@ In the case of any facility for which a grant, loan, or loan guarantee has been 
 
 (July 1, 1944, ch. 373, title VI, §646, as added Pub. L. 91–296, title I, §121, June 30, 1970, 84 Stat. 343.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Sections 291p to 291z were omitted in the general amendment of this subchapter by Pub. L. 88–443, Aug. 18, 1964, 78 Stat. 447.

@@ -62,7 +62,7 @@
 
 #### (C) Special limitation with respect to contributions described in subparagraph (A) of certain capital gain property
 
-&emsp;&emsp;&emsp;(i) In the case of charitable contributions described in subparagraph (A) of capital gain property to which subsection\(e)(1)(B) does not apply, the total amount of contributions of such property which may be taken into account under subsection (a) for any taxable year shall not exceed 30 percent of the taxpayer's contribution base for such year. For purposes of this subsection, contributions of capital gain property to which this subparagraph applies shall be taken into account after all other charitable contributions (other than charitable contributions to which subparagraph (D) applies).
+&emsp;&emsp;&emsp;(i) In the case of charitable contributions described in subparagraph (A) of capital gain property to which subsection (e)(1)(B) does not apply, the total amount of contributions of such property which may be taken into account under subsection (a) for any taxable year shall not exceed 30 percent of the taxpayer's contribution base for such year. For purposes of this subsection, contributions of capital gain property to which this subparagraph applies shall be taken into account after all other charitable contributions (other than charitable contributions to which subparagraph (D) applies).
 
 &emsp;&emsp;&emsp;(ii) If charitable contributions described in subparagraph (A) of capital gain property to which clause (i) applies exceeds 30 percent of the taxpayer's contribution base for any taxable year, such excess shall be treated, in a manner consistent with the rules of subsection (d)(1), as a charitable contribution of capital gain property to which clause (i) applies in each of the 5 succeeding taxable years in order of time.
 
@@ -104,7 +104,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;If the individual is a qualified farmer or rancher for the taxable year for which the contribution is made, clause (i) shall be applied by substituting "100 percent" for "50 percent".
+&emsp;&emsp;&emsp;&emsp;If the individual is a qualified farmer or rancher for the taxable year for whichthe contribution is made, clause (i) shall be applied by substituting "100 percent" for "50 percent".
 
 #### (II) Exception
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) which is made by a corporation which, for the taxable year during which the contribution is made, is a qualified farmer or rancher (as defined in paragraph (1)(E)(v)) and the stock of which is not readily tradable on an established securities market at any time during such year, and
 
-&emsp;&emsp;&emsp;&emsp;(II) which, in the case of contributions made after the date of the enactment of this subparagraph, is a contribution of property which is used in agriculture orlivestock production (or available for such production) and which is subject to a restriction that such property remain available for such production,
+&emsp;&emsp;&emsp;&emsp;(II) which, in the case of contributions made after the date of the enactment of this subparagraph, is a contribution of property which is used in agriculture or livestock production (or available for such production) and which is subject to a restriction that such property remain available for such production,
 
 &emsp;&emsp;&nbsp;shall be allowed to the extent the aggregate of such contributions does not exceed the excess of the taxpayer's taxable income over the amount of charitable contributions allowable under subparagraph (A).
 
@@ -230,7 +230,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 &emsp;&emsp;(B) no part of the net earnings of which inures to the benefit of any private shareholder or individual.
 
-&emsp;(4) In the case of a contribution or gift by an individual, a domestic fraternal society, order, or association, operating under the lodge system, but only if such contribution or gift is to be used exclusively for religious, charitable, scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals.
+&emsp;(4) In the case of a contribution or gift by an individual, a domestic fraternal society, order, or association, operating under the lodge system, but only if such contribution or gift is to be used exclusively for religious, charitable,scientific, literary, or educational purposes, or for the prevention of cruelty to children or animals.
 
 &emsp;(5) A cemetery company owned and operated exclusively for the benefit of its members, or any corporation chartered solely for burial purposes as a cemetery corporation and not permitted by its charter to engage in any business not necessarily incident to that purpose, if such company or corporation is not operated for profit and no part of the net earnings of such company or corporation inures to the benefit of any private shareholder or individual.
 
@@ -282,7 +282,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 &emsp;&emsp;&emsp;&emsp;(I) if the use by the donee is unrelated to the purpose or function constituting the basis for its exemption under section 501 (or, in the case of a governmental unit, to any purpose or function described in subsection (c)), or
 
-&emsp;&emsp;&emsp;&emsp;(II) which is applicable property (as defined in paragraph (7)(C), but without regard to clause (ii) thereof) which is sold, exchanged, or otherwise disposed of by the donee before the last day of the taxable year in which the contribution was made and with respect to which the donee has not made a certification in accordance with paragraph (7)(D),
+&emsp;&emsp;&emsp;&emsp;(II) which is applicable property (as defined in paragraph (7)(C), but without regard to clause (ii) thereof) which is sold,exchanged, or otherwise disposed of by the donee before the last day of the taxable year in which the contribution was made and with respect to which the donee has not made a certification in accordance with paragraph (7)(D),
 
 &emsp;&emsp;&emsp;(ii) to or for the use of a private foundation (as defined in section 509(a)), other than a private foundation described in subsection (b)(1)(F),
 
@@ -498,7 +498,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 #### (C) Denial of deduction in case of payments by certain trusts
 
-&emsp;&emsp;In any case in which a deduction is allowed under this section for the value of an interest in property described in subparagraph (B), transferred in trust, no deduction shall be allowed under this section to the grantor or any other person for the amount of any contribution made by the trust with respect to such interest.
+&emsp;&emsp;In any case in which a deduction is allowed under this section for the value of an interest in property described in subparagraph (B), transferred in trust, no deduction shall be allowed under this section to the grantoror any other person for the amount of any contribution made by the trust with respect to such interest.
 
 #### (D) Exception
 
@@ -508,7 +508,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a contribution (not made by a transfer in trust) of an interest in property which consists of less than the taxpayer's entire interest in such property, a deduction shall be allowed under this section only to the extent that the value of the interest contributed would be allowable as a deductionunder this section if such interest had been transferred in trust. For purposes of this subparagraph, a contribution by a taxpayer of the right to use property shall be treated as a contribution of less than the taxpayer's entire interest in such property.
+&emsp;&emsp;In the case of a contribution (not made by a transfer in trust) of an interest in property which consists of less than the taxpayer's entire interest in such property, a deduction shall be allowed under this section only to the extent that the value of the interest contributed would be allowable as a deduction under this section if such interest had been transferred in trust. For purposes of this subparagraph, a contribution by a taxpayer of the right to use property shall be treated as a contribution of less than the taxpayer's entire interest in such property.
 
 #### (B) Exceptions
 
@@ -580,7 +580,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 #### (9) Denial of deduction where contribution for lobbying activities
 
-&emsp;No deduction shall be allowed under this section for a contribution to an organization which conducts activities to which section162(e)(1) applies on matters of direct financial interest to the donor's trade or business, if a principal purpose of the contribution was to avoid Federal income tax by securing a deduction for such activities under this section which would be disallowed by reason of section 162(e) if the donor had conducted such activities directly. No deduction shall be allowed under section 162(a) for any amount for which a deduction is disallowed under the preceding sentence.
+&emsp;No deduction shall be allowed under this section for a contribution to an organization which conducts activities to which section 162(e)(1) applies on matters of direct financial interest to the donor's trade or business, if a principal purpose of the contribution was to avoid Federal income tax by securing a deduction for such activities under this section which would be disallowed by reason of section 162(e) if the donor had conducted such activities directly. No deduction shall be allowed under section 162(a) for any amount for which a deduction is disallowed under the preceding sentence.
 
 #### (10) Split-dollar life insurance, annuity, and endowment contracts
 
@@ -636,7 +636,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 &emsp;&emsp;&emsp;&emsp;(II) such other information as the Secretary may require.
 
-&emsp;&emsp;&nbsp;The penalties applicable to returns required under section 6033 shall apply to returns required under this clause. Returns required under this clause shall be furnished at such time and in such manner as the Secretary shall by forms or regulations require.
+&emsp;&emsp;&nbsp;The penalties applicable to returns required under section 6033 shall apply to returns required under this clause. Returnsrequired under this clause shall be furnished at such time and in such manner as the Secretary shall by forms or regulations require.
 
 #### (iv) Certain rules to apply
 
@@ -644,7 +644,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 #### (G) Special rule where State requires specification of charitable gift annuitant in contract
 
-&emsp;&emsp;In the case of an obligation to pay a charitable gift annuity referred to in subparagraph (D) which is entered into under the laws of a State which requires, in order forthe charitable gift annuity to be exempt from insurance regulation by such State, that each beneficiary under the charitable gift annuity be named as a beneficiary under an annuity contract issued by an insurance company authorized to transact business in such State, the requirements of clauses (i) and (ii) of subparagraph (D) shall be treated as met if—
+&emsp;&emsp;In the case of an obligation to pay a charitable gift annuity referred to in subparagraph (D) which is entered into under the laws of a State which requires, in order for the charitable gift annuity to be exempt from insurance regulation by such State, that each beneficiary under the charitable gift annuity be named as a beneficiary under an annuity contract issued by an insurance company authorized to transact business in such State, the requirements of clauses (i) and (ii) of subparagraph (D) shall be treated as met if—
 
 &emsp;&emsp;&emsp;(i) such State law requirement was in effect on February 8, 1999,
 
@@ -706,7 +706,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 &emsp;&emsp;&emsp;Except as provided in clause (iii), the term "qualified appraiser" means an individual who—
 
-&emsp;&emsp;&emsp;&emsp;(I) has earned an appraisal designation from a recognized professional appraiser organization or has otherwise met minimum education and experience requirements set forth in regulations prescribed by the Secretary,
+&emsp;&emsp;&emsp;&emsp;(I) has earned an appraisal designation from a recognized professional appraiserorganization or has otherwise met minimum education and experience requirements set forth in regulations prescribed by the Secretary,
 
 &emsp;&emsp;&emsp;&emsp;(II) regularly performs appraisals for which the individual receives compensation, and
 
@@ -716,7 +716,7 @@ For purposes of this section, the term "charitable contribution" means a contrib
 
 &emsp;&emsp;&emsp;An individual shall not be treated as a qualified appraiser with respect to any specific appraisal unless—
 
-&emsp;&emsp;&emsp;&emsp;(I) the individual demonstrates verifiable education and experience invaluing the type of property subject to the appraisal, and
+&emsp;&emsp;&emsp;&emsp;(I) the individual demonstrates verifiable education and experience in valuing the type of property subject to the appraisal, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the individual has not been prohibited from practicing before the Internal Revenue Service by the Secretary under section 330(c) <sup>2</sup> of title 31, United States Code, at any time during the 3-year period ending on the date of the appraisal.
 
@@ -1066,7 +1066,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 #### (1) Treatment as additional contribution
 
-&emsp;In the case of a taxpayer who makes a qualified intellectual property contribution, the deduction allowed under subsection (a) for each taxable year of the taxpayer ending on or after the date of such contribution shall be increased (subject to the limitations under subsection (b)) by the applicable percentage of qualified donee income with respect to such contribution which is properly allocable to such year under this subsection.
+&emsp;In the case of a taxpayer who makes a qualified intellectual property contribution, the deduction allowed under subsection (a) for each taxable year of the taxpayer ending on or after the date of such contribution shall be increased (subject to the limitations under subsection (b)) by the applicable percentage of qualified donee income with respect to suchcontribution which is properly allocable to such year under this subsection.
 
 #### (2) Reduction in additional deductions to extent of initial deduction
 
@@ -1147,7 +1147,7 @@ No deduction shall be allowed under this section for traveling expenses (includi
 
 #### (1) In general
 
-&emsp;In the case of an individual who is recognized by the Alaska Eskimo Whaling Commission as a whaling captain charged with the responsibility of maintaining and carrying out sanctioned whaling activities and who engages in such activities during the taxable year, the amount described in paragraph (2) (to the extent such amount does not exceed $10,000 for the taxable year) shall be treated for purposes of this section as a charitable contribution.
+&emsp;In the case of an individual who is recognized by the Alaska Eskimo Whaling Commission as a whaling captain charged with the responsibility of maintaining and carrying outsanctioned whaling activities and who engages in such activities during the taxable year, the amount described in paragraph (2) (to the extent such amount does not exceed $10,000 for the taxable year) shall be treated for purposes of this section as a charitable contribution.
 
 #### (2) Amount described
 
@@ -1261,13 +1261,15 @@ In the case of any taxable year beginning in 2021, if the individual does not el
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 58; Aug. 7, 1956, ch. 1031, §1, 70 Stat. 1117; Pub. L. 85–866, title I, §§10(a), 11, 12(a), Sept. 2, 1958, 72 Stat. 1609, 1610; Pub. L. 86–779, §7(a), Sept. 14, 1960, 74 Stat. 1002; Pub. L. 87–834, §13(d), Oct. 16, 1962, 76 Stat. 1034; Pub. L. 87–858, §2(a), (b), Oct. 23, 1962, 76 Stat. 1134; Pub. L. 88–272, title II, §§209(a), (b), (c)(1), (d)(1), (e), 231(b)(1), Feb. 26, 1964, 78 Stat. 43, 45–47, 105; Pub. L. 89–570, §1(b)(1), Sept. 12, 1966, 80 Stat. 762; Pub. L. 91–172, title I, §101(j)(2), title II, §201(a)(1), (2)(A), (h)(1), Dec. 30, 1969, 83 Stat. 526, 549, 558, 565; Pub. L. 94–455, title II, §205(c)(1)(A), title X, §1052(c)(2), title XIII, §§1307(c), (d)(1)(B)(i), 1313(b)(1), title XIX, §§1901(a)(28), (b)(8)(A), 1906(b)(13)(A), title XXI, §§2124(e)(1), 2135(a), Oct. 4, 1976, 90 Stat. 1535, 1648, 1726, 1727, 1730, 1768, 1794, 1834, 1919, 1928; Pub. L. 95–30, title III, §309(a), May 23, 1977, 91 Stat. 154; Pub. L. 95–600, title IV, §§402(b)(2), 403(c)(1), Nov. 6, 1978, 92 Stat. 2868; Pub. L. 96–465, title II, §2206(e)(2), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 96–541, §6(a), (b), Dec. 17, 1980, 94 Stat. 3206; Pub. L. 97–34, title I, §121(a), title II, §§222(a), 263(a), Aug. 13, 1981, 95 Stat. 196, 248, 264; Pub. L. 97–248, title II, §286(b)(1), Sept. 3, 1982, 96 Stat. 570; Pub. L. 97–258, §3(f)(1), Sept. 13, 1982, 96 Stat. 1064; Pub. L. 97–354, §5(a)(21), Oct. 19, 1982, 96 Stat. 1694; Pub. L. 97–448, title I, §102(f)(7), Jan. 12, 1983, 96 Stat. 2372; Pub. L. 97–473, title II, §202(b)(4), Jan. 14, 1983, 96 Stat. 2609; Pub. L. 98–369, div. A, title I, §174(b)(5)(A), title III, §301(a)–(c), title IV, §492(b)(1), title X, §§1022(b), 1031(a), 1032(b)(1), 1035(a), July 18, 1984, 98 Stat. 707, 777, 778, 854, 1028, 1033, 1042; Pub. L. 99–514, title I, §142(d), title II, §231(f), title III, §301(b)(2), title XVIII, §1831, Oct. 22, 1986, 100 Stat. 2120, 2180, 2217, 2851; Pub. L. 100–203, title X, §10711(a)(1), Dec. 22, 1987, 101 Stat. 1330–464; Pub. L. 100–647, title VI, §6001(a), Nov. 10, 1988, 102 Stat. 3683; Pub. L. 101–508, title XI, §§11801(a)(11), (c)(5), 11813(b)(10), Nov. 5, 1990, 104 Stat. 1388–520, 1388–523, 1388–554; Pub. L. 103–66, title XIII, §§13172(a), 13222(b), Aug. 10, 1993, 107 Stat. 455, 479; Pub. L. 104–188, title I, §§1206(a), 1316(b), Aug. 20, 1996, 110 Stat. 1776, 1786; Pub. L. 105–34, title II, §224(a), title V, §508(d), title VI, §602(a), title IX, §973(a), Aug. 5, 1997, 111 Stat. 818, 860, 862, 898; Pub. L. 105–206, title VI, §6004(e), July 22, 1998, 112 Stat. 795; Pub. L. 105–277, div. J, title I, §1004(a)(1), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §§532(c)(1)(A), (B), 537(a), Dec. 17, 1999, 113 Stat. 1930, 1936; Pub. L. 106–554, §1(a)(7) \[title I, §165(a)–(e)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–626; Pub. L. 107–16, title V, §542(e)(2)(B), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(7), (22), Mar. 9, 2002, 116 Stat. 56, 57; Pub. L. 108–81, title V, §503, Sept. 25, 2003, 117 Stat. 1003; Pub. L. 108–311, title II, §207(15), (16), title III, §306(a), Oct. 4, 2004, 118 Stat. 1177, 1179; Pub. L. 108–357, title III, §335(a), title IV, §413(c)(30), title VIII, §§882(a), (b), (d), 883(a), 884(a), Oct. 22, 2004, 118 Stat. 1478, 1509, 1627, 1631, 1632; Pub. L. 109–73, title III, §§305(a), 306(a), Sept. 23, 2005, 119 Stat. 2025; Pub. L. 109–135, title IV, §403(a)(16), (gg), Dec. 21, 2005, 119 Stat. 2619, 2631; Pub. L. 109–222, title II, §204(b), May 17, 2006, 120 Stat. 350; Pub. L. 109–280, title XII, §§1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), 1234(a), Aug. 17, 2006, 120 Stat. 1066, 1068, 1069, 1075–1077, 1079, 1080, 1084, 1100; Pub. L. 109–432, div. A, title I, §116(a)(1), (b)(1), (2), Dec. 20, 2006, 120 Stat. 2941; Pub. L. 110–172, §§3(c), 11(a)(14)(A), (B), (15), (16), Dec. 29, 2007, 121 Stat. 2474, 2485; Pub. L. 110–234, title XV, §15302(a), May 22, 2008, 122 Stat. 1501; Pub. L. 110–246, §4(a), title XV, §15302(a), June 18, 2008, 122 Stat. 1664, 2263; Pub. L. 110–343, div. C, title III, §§321(a), 323(a)(1), (b)(1), 324(a), (b), Oct. 3, 2008, 122 Stat. 3873–3875; Pub. L. 111–312, title III, §301(a), title VII, §§723(a), (b), 740(a), 741(a), 742(a), Dec. 17, 2010, 124 Stat. 3300, 3316, 3319; Pub. L. 112–240, title II, §206(a), (b), title III, §314(a), Jan. 2, 2013, 126 Stat. 2324, 2330; Pub. L. 113–295, div. A, title I, §§106(a), (b), 126(a), title II, §221(a)(28), Dec. 19, 2014, 128 Stat. 4013, 4017, 4041; Pub. L. 114–41, title II, §2006(a)(2)(A), July 31, 2015, 129 Stat. 457; Pub. L. 114–113, div. Q, title I, §§111(a)–(b)(2), 113(a), (b), title III, §331(a), Dec. 18, 2015, 129 Stat. 3046, 3047, 3104; Pub. L. 115–97, title I, §§11011(d)(5), 11023(a), 13305(b)(2), 13704(a), 13705(a), Dec. 22, 2017, 131 Stat. 2071, 2074, 2126, 2169; Pub. L. 115–141, div. U, title IV, §401(a)(52), (b)(14), Mar. 23, 2018, 132 Stat. 1186, 1202; Pub. L. 115–232, div. A, title VIII, §809(h)(1), Aug. 13, 2018, 132 Stat. 1842; Pub. L. 116–260, div. EE, title II, §212(a), Dec. 27, 2020, 134 Stat. 3067.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977, referred to in subsec. (b)(1)(A)(ix), is classified to section 3103 of Title 7, Agriculture.
 
 The date of the enactment of this subparagraph, referred to in subsecs. (b)(1)(E)(iv)(II), (2)(B)(i)(II) and (h)(4)(B)(iii), is the date of enactment of Pub. L. 109–280, which was approved Aug. 17, 2006.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (b)(2)(C)(i)(II), (iii), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. Section 3 of the Act is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (b)(2)(C)(i)(II), (iii), is Pub. L. 92–203, Dec.18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. Section 3 of the Act is classified to section 1602 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, as amended, referred to in subsec. (e)(3)(A)(iv), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -1667,13 +1669,13 @@ Subsec. (g)(1)(B). Pub. L. 94–455, §1901(b)(8)(A), substituted "educational o
 
 Subsec. (h). Pub. L. 94–455, §1901(a)(28)(A)(i), (C), redesignated subsec. (i) as (h), and struck out "64 Stat. 996" after "Act of 1950". Former subsec. (h) redesignated (g).
 
-Subsec. (i). Pub. L. 94–455, §1901(a)(28)(A)(i), (D), redesignated subsec. (j) as (i) and substituted "6973 of title 10, United States Code" for "3 of the Act of March 31, 1944 (58 Stat. 135; 34 U.S.C. 1115b)" after "see section" in par. (5); struck out par. (6) relating to gifts to library of Post Office Department; struck out "60 Stat. 924" after "1946" in par. (7); substituted "as amended by the Act of July 9, 1952 (3 U.S.C. 725s–4)" for "(66 Stat. 73, as amended by Act of July 9, 1952, 66 Stat. 479, 31 U.S.C. 725s–4)" after "May 15, 1952" in par. (8); and redesignated pars. (7) and (8) as pars. (6) and (7), respectively. Former subsec. (i) redesignated (h).
+Subsec. (i). Pub. L. 94–455, §1901(a)(28)(A)(i), (D), redesignated subsec. (j) as (i) and substituted "6973 oftitle 10, United States Code" for "3 of the Act of March 31, 1944 (58 Stat. 135; 34 U.S.C. 1115b)" after "see section" in par. (5); struck out par. (6) relating to gifts to library of Post Office Department; struck out "60 Stat. 924" after "1946" in par. (7); substituted "as amended by the Act of July 9, 1952 (3 U.S.C. 725s–4)" for "(66 Stat. 73, as amended by Act of July 9, 1952, 66 Stat. 479, 31 U.S.C. 725s–4)" after "May 15, 1952" in par. (8); and redesignated pars. (7) and (8) as pars. (6) and (7), respectively. Former subsec. (i) redesignated (h).
 
 Subsec. (j). Pub. L. 94–455, §1901(a)(28)(A)(i), redesignated subsec. (j) as (i).
 
 <b>1969</b>—Subsec. (a)(3). Pub. L. 91–172, §201(a)(1)(B), added par. (3).
 
-Subsec. (b). Pub. L. 91–172, §201(a)(1)(B), (h)(1), increased the general limitation on the charitable contributions deduction for individual taxpayers from 30 percent of adjusted gross income to 50 percent of his contribution base and provided that where a taxpayer makes a contribution to a public charity of property which has appreciated in value the taxpayer could deduct such contributions of property under the 50 percent limitation if he elects to take the unrealized appreciation in value into account for the tax purposes, the unlimited charitable deduction is phased out over a 5-year period and contributions to a private operating foundation and contributions to a private nonoperating foundation distributing such contributions to public charities or private operating foundations within two and half months following the year of receipt are also subjected to 50 percent limitation (30 percent in the case of gifts of appreciated property), and, in par. (1)(C), inserted provisions relating to the determinationof the amount of charitable contributions and taxes paid by a married individual who previously filed a joint return with a former deceased spouse.
+Subsec. (b). Pub. L. 91–172, §201(a)(1)(B), (h)(1), increased the general limitation on the charitable contributions deduction for individual taxpayers from 30 percent of adjusted gross income to 50 percent of his contribution base and provided that where a taxpayer makes a contribution to a public charity of property which has appreciated in value the taxpayer could deduct such contributions of property under the 50 percent limitation if he elects to take the unrealized appreciation in value into account for the tax purposes, the unlimited charitable deduction is phased out over a 5-year period and contributions to a private operating foundation and contributions to a private nonoperating foundation distributing such contributions to public charities or private operating foundations within two and half months following the year of receipt are also subjected to 50 percent limitation (30 percent in the case of gifts of appreciated property), and, in par. (1)(C), inserted provisions relating to the determination of the amount of charitable contributions and taxes paid by a married individual who previously filed a joint return with a former deceased spouse.
 
 Subsec. (c). Pub. L. 91–172, §201(a)(1)(B), struck out references to "Territory" in pars. (1) and (2)(A), and inserted reference to participation in or intervention in any political campaign on behalf of any candidate for public office in par. (2)(D).
 
@@ -1721,6 +1723,8 @@ Subsec. (b)(4). Pub. L. 85–866, §12, added par. (4).
 
 <b>1956</b>—Subsec. (b)(1)(A)(iii). Act Aug. 7, 1956, §1, provided for the allowance, as deductions, of contributions to medical research organizations.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of Title 22, Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
@@ -1739,7 +1743,7 @@ Amendment by section 11011(d)(5) of Pub. L. 115–97 applicable to taxable years
 
 Pub. L. 115–97, title I, §11023(b), Dec. 22, 2017, 131 Stat. 2075, provided that: "The amendment made by this section \[amending this section\] shall apply to contributions in taxable years beginning after December 31, 2017."
 
-Amendment by section 13305(b)(2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section 13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
+Amendment by section 13305(b)(2) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, except as provided by transition rule, see section13305(c) of Pub. L. 115–97, set out as a note under section 74 of this title.
 
 Pub. L. 115–97, title I, §13704(b), Dec. 22, 2017, 131 Stat. 2169, provided that: "The amendments made by this section \[amending this section\] shall apply to contributions made in taxable years beginning after December 31, 2017."
 
@@ -1767,7 +1771,7 @@ Extension.—The amendment made by subsection (a) \[amending this section\] shal
 
 Modifications.—The amendments made by subsection (b) \[amending this section\] shall apply to taxable years beginning after December 31, 2015."
 
-Pub. L. 114–113, div. Q, title III, §331(c), Dec. 18, 2015, 129 Stat. 3104, provided that: "The amendments made by this section \[amending this section and section 501of this title\] shall apply to contributions made on and after the date of the enactment of this Act \[Dec. 18, 2015\]."
+Pub. L. 114–113, div. Q, title III, §331(c), Dec. 18, 2015, 129 Stat. 3104, provided that: "The amendments made by this section \[amending this section and section 501 of this title\] shall apply to contributions made on and after the date of the enactment of this Act \[Dec. 18, 2015\]."
 
 Pub. L. 114–41, title II, §2006(a)(3), July 31, 2015, 129 Stat. 457, provided that:
 
@@ -1831,7 +1835,7 @@ Pub. L. 109–432, div. A, title I, §116(a)(2), Dec. 20, 2006, 120 Stat. 2941, 
 
 Pub. L. 109–432, div. A, title I, §116(b)(3), Dec. 20, 2006, 120 Stat. 2941, provided that: "The amendments made by this subsection \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
-Pub. L. 109–280, title XII, §1202(b), Aug. 17, 2006, 120 Stat. 1066, provided that: "The amendment made by this section \[amending this section\] shall apply to contributions made after December 31, 2005."
+Pub. L. 109–280, title XII, §1202(b), Aug. 17, 2006, 120 Stat. 1066, provided that: "The amendment made bythis section \[amending this section\] shall apply to contributions made after December 31, 2005."
 
 Pub. L. 109–280, title XII, §1204(b), Aug. 17, 2006, 120 Stat. 1066, provided that: "The amendment made by this section \[amending this section\] shall apply to contributions made after December 31, 2005."
 
@@ -1913,7 +1917,7 @@ Pub. L. 106–554, §1(a)(7) \[title I, §165(f)\], Dec. 21, 2000, 114 Stat. 276
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title V, §532(d), Dec. 17, 1999, 113 Stat. 1931, provided that: "The amendments made by this section \[amending this section and sections 198, 263A, 267, 341, 367, 475, 543, 751, 775, 818, 856, 857, 864, 865, 871, 954, 988, 995, 1017, 1092, 1221, 1231, 1234, 1256, 1362, 1397B, 4662, and 7704 of this title\] shall apply to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after the date of the enactment of this Act \[Dec. 17, 1999\]."
+Pub. L. 106–170, title V, §532(d), Dec. 17, 1999, 113 Stat. 1931, provided that: "The amendments made by this section \[amending this section and sections 198, 263A, 267, 341, 367, 475, 543, 751, 775, 818, 856, 857, 864, 865, 871,954, 988, 995, 1017, 1092, 1221, 1231, 1234, 1256, 1362, 1397B, 4662, and 7704 of this title\] shall apply to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after the date of the enactment of this Act \[Dec. 17, 1999\]."
 
 Pub. L. 106–170, title V, §537(b), Dec. 17, 1999, 113 Stat. 1938, provided that:
 
@@ -2077,7 +2081,7 @@ Pub. L. 91–172, title II, §201(g), Dec. 30, 1969, 83 Stat. 564, as amended by
 
 "(D) For purposes of applying section 170(d) of such Code (as amended by subsection (a)) with respect to contributions paid in a taxable year beginning before January 1, 1970, subsection (b)(1)(D), subsection (e), and paragraphs (1), (2), (3), and (4) of subsection (f) of section 170 of such Code shall not apply.
 
-"(2) The amendments made by subsection (b) \[amending section 642 of this title\] shall apply with respect to amounts paid, permanently set aside, or to be used for a charitable purpose in taxable years beginning after December 31, 1969, except that section 642(c)(5) of the Internal Revenue Code of 1986 (as added by subsection (b)) shall apply to transfers in trust made after July 31, 1969.
+"(2) The amendments made by subsection (b) \[amending section 642 of this title\] shall apply with respect to amounts paid, permanently set aside, or to be used for a charitable purpose in taxable years beginning after December 31, 1969, except that section 642(c)(5) of the Internal Revenue Code of 1986 (as added by subsection\(b)) shall apply to transfers in trust made after July 31, 1969.
 
 "(3) The amendment made by subsection (c) \[amending section 673 of this title\] shall apply to transfers in trust made after April 22, 1969.
 
@@ -2097,7 +2101,7 @@ Pub. L. 91–172, title II, §201(g), Dec. 30, 1969, 83 Stat. 564, as amended by
 
 &emsp;"(ii) if the property transferred was an irrevocable interest to, or for the use of, an organization described in section 2055(a), or
 
-&emsp;"(iii) if the instrument governing the disposition of the property was not amended by the decedent beforeOctober 9, 1972, and the decedent is on such date and at all times thereafter under a mental disability to change the disposition of the property.
+&emsp;"(iii) if the instrument governing the disposition of the property was not amended by the decedent before October 9, 1972, and the decedent is on such date and at all times thereafter under a mental disability to change the disposition of the property.
 
 "(D) The amendment made by paragraph (3) of subsection (d) \[amending section 2522 of this title\] shall apply to gifts made after December 31, 1969, except that the amendments made to section 2522(c)(2) of the Internal Revenue Code of 1986 shall apply to gifts made after July 31, 1969.
 
@@ -2157,7 +2161,7 @@ Act Aug. 7, 1956, ch. 1031, §2, 70 Stat. 1118, provided that: "The amendment ma
 
 For provisions that nothing in amendment by section 401(b)(14) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certaintransactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 #### Construction; Valid Existing Rights Preserved
 
@@ -2259,7 +2263,7 @@ Pub. L. 100–647, title VI, §6281, Nov. 10, 1988, 102 Stat. 3755, provided tha
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before thefirst plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Treatment of Certain Amounts Paid to or for the Benefit of Certain Institutions of Higher Education
 

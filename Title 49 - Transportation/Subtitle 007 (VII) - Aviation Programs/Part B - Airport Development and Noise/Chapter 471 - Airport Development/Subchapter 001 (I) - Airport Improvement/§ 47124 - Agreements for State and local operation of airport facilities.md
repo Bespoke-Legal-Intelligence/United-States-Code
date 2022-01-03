@@ -46,7 +46,7 @@ Program components.—In carrying out the Cost-share Program, the Secretary shal
 
 &emsp;&emsp;&emsp;(i) utilize for purposes of cost-benefit analyses, current, actual, site-specific data, forecast estimates, or airport master plan data provided by a facility owner or operator and verified by the Secretary; and
 
-&emsp;&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in which there is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
+&emsp;&emsp;&emsp;(ii) approve for participation only facilities willing to fund a pro rata share of the operating costs of the air traffic control tower to achieve a 1-to-1 benefit-to-cost ratio using actual site-specific contract tower operating costs in any case in whichthere is an operating air traffic control tower, as required for eligibility under the Contract Tower Program.
 
 &emsp;&emsp;(C)
 
@@ -104,7 +104,7 @@ Grants.—The Secretary may provide grants to a sponsor of—
 
 &emsp;&emsp;&emsp;&emsp;(II) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of construction or improvement of a nonapproach control tower, as defined by the Secretary, incurred after October 1, 1996, if the sponsor complied with the requirements of sections 47107(e), 47112(b), and 47112(c) in constructing or improving that tower; and
 
-&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in thattower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996, including remote air traffic control tower equipment certified by the Federal Aviation Administration.
+&emsp;&emsp;&emsp;&emsp;(III) from amounts made available under sections 47114(c)(2) and 47114(d)(3)(A) for reimbursement for the cost of acquiring and installing in that tower air traffic control, communications, and related equipment that was acquired or installed after October 1, 1996, including remote air traffic control tower equipment certified by the Federal Aviation Administration.
 
 &emsp;&emsp;(B)
 
@@ -236,6 +236,8 @@ In subsection (b)(1), the words "in effect" are omitted as surplus. The words "o
 
 In subsection (b)(2), the word "Secretary" is substituted for "Administrator" for consistency in the chapter.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of enactment of this subsection, referred to in subsec. (d)(1)(B), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
@@ -284,7 +286,7 @@ Pub. L. 114–141 substituted "$8,193,750 for the period beginning on October 1,
 
 Subsec. (b)(2). Pub. L. 112–95, §147(a)(2), inserted heading.
 
-Subsec. (b)(3)(E), (F). Pub. L. 112–95, §147(b), added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: "Of the amounts appropriated pursuant to section 106(k), not more than $6,500,000 for fiscal 2004, $7,000,000 for fiscal year 2005, $7,500,000 for fiscal year 2006, and $8,000,000 for fiscal year 2007 may be used to carry out this paragraph."
+Subsec. (b)(3)(E), (F). Pub. L. 112–95, §147(b), added subpars. (E) and (F) and struck out former subpar. (E). Prior to amendment, text of subpar. (E) read as follows: "Of the amounts appropriated pursuant to section 106(k), not more than $6,500,000 for fiscal 2004, $7,000,000for fiscal year 2005, $7,500,000 for fiscal year 2006, and $8,000,000 for fiscal year 2007 may be used to carry out this paragraph."
 
 Subsec. (b)(4)(C). Pub. L. 112–95, §147(c), substituted "$2,000,000" for "$1,500,000".
 
@@ -313,6 +315,8 @@ Subsec. (b)(4). Pub. L. 108–7, §370(b)(1), reenacted heading without change a
 Subsec. (b)(4)(C). Pub. L. 108–176, §105(4), substituted "$1,500,000" for "$1,100,000".
 
 <b>2000</b>—Subsec. (b)(3), (4). Pub. L. 106–181 added pars. (3) and (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2003 Amendment
 

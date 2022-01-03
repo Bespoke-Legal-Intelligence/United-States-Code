@@ -16,7 +16,7 @@ In case of contumacy by, or refusal to obey a subpena issued to, any person, the
 
 #### (d) Injunction proceedings; authority of court to prohibit persons from serving as officers and directors; money penalties in civil actions; disgorgement
 
-(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of thePublic Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
+(1) Whenever it shall appear to the Commission that any person is engaged or is about to engage in acts or practices constituting a violation of any provision of this chapter, the rules or regulations thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Public Company Accounting Oversight Board, of which such person is a registered public accounting firm or a person associated with such a firm, or the rules of the Municipal Securities Rulemaking Board, it may in its discretion bring an action in the proper district court of the United States, the United States District Court for the District of Columbia, or the United States courts of any territory or other place subject to the jurisdiction of the United States, to enjoin such acts or practices, and upon a proper showing a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices as may constitute a violation of any provision of this chapter or the rules or regulations thereunder to the Attorney General, who may, in his discretion, institute the necessary criminal proceedings under this chapter.
 
 (2)
 
@@ -150,7 +150,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (1) The Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall apply with respect to the Commission, except as otherwise provided in this subsection.
 
-(2) Notwithstanding section 1105 or 1107 of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3405 or 3407\], the Commission may have access to and obtain copies of, or the information contained in financial records of a customer from afinancial institution without prior notice to the customer upon an ex parte showing to an appropriate United States district court that the Commission seeks such financial records pursuant to a subpena issued in conformity with the requirements of section 19(b) <sup>1</sup> of the Securities Act of 1933, section 21(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78u(b)\], section 42(b) of the Investment Company Act of 1940 \[15 U.S.C. 80a–41(b)\], or section 209(b) of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–9(b)\], and that the Commission has reason to believe that—
+(2) Notwithstanding section 1105 or 1107 of the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3405 or 3407\], the Commission may have access to and obtain copies of, or the information contained in financial records of a customer from a financial institution without prior notice to the customer upon an ex parte showing to an appropriate United States district court that the Commission seeks such financial records pursuant to a subpena issued in conformity with the requirements of section 19(b) <sup>1</sup> of the Securities Act of 1933, section 21(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78u(b)\], section 42(b) of the Investment Company Act of 1940 \[15 U.S.C. 80a–41(b)\], or section 209(b) of the Investment Advisers Act of 1940 \[15 U.S.C. 80b–9(b)\], and that the Commission has reason to believe that—
 
 &emsp;(A) delay in obtaining access to such financial records, or the required notice, will result in—
 
@@ -202,7 +202,7 @@ Notwithstanding the provisions of section 1407(a) of title 28, or any other prov
 
 (B) Upon a finding that the Commission has obtained financial records or information contained therein in violation of this subsection, other than paragraph (1), the court, in its discretion, may also or in the alternative issue injunctive relief to require the Commission to comply with this subsection with respect to any subpena which the Commission issues in the future for financial records of such customer for purposes of the same investigation.
 
-(C) Whenever the court determines that the Commission has failed to comply with this subsection, other than paragraph (1), and the court finds that the circumstances raise questions of whether an officer or employee of the Commission acted in a willful and intentional manner and without good faith with respect to the violation, the Office of Personnel Management shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the agent or employee who was primarily responsible for the violation. After investigating and considering the evidence submitted, the Office of Personnel Management shall submit its findings and recommendations to the Commission and shall send copies of the findings and recommendations to the officer or employee or his representative. The Commission shall take the corrective action that the Office of Personnel Management recommends.
+(C) Whenever the court determines that the Commission has failed to comply with this subsection, other than paragraph (1), and the courtfinds that the circumstances raise questions of whether an officer or employee of the Commission acted in a willful and intentional manner and without good faith with respect to the violation, the Office of Personnel Management shall promptly initiate a proceeding to determine whether disciplinary action is warranted against the agent or employee who was primarily responsible for the violation. After investigating and considering the evidence submitted, the Office of Personnel Management shall submit its findings and recommendations to the Commission and shall send copies of the findings and recommendations to the officer or employee or his representative. The Commission shall take the corrective action that the Office of Personnel Management recommends.
 
 (8) The relief described in paragraphs (7) and (10) shall be the only remedies or sanctions available to a customer for a violation of this subsection, other than paragraph (1), and nothing herein or in the Right to Financial Privacy Act of 1978 \[12 U.S.C. 3401 et seq.\] shall be deemed to prohibit the use in any investigation or proceeding of financial records, or the information contained therein, obtained by a subpena issued by the Commission. In the case of an unsuccessful action under paragraph (7), the court shall award the costs of the action and attorney's fees to the Commission if the presiding judge or magistrate judge finds that the customer's claims were made in bad faith.
 
@@ -224,6 +224,8 @@ The Commission shall provide the Commodity Futures Trading Commission with notic
 
 (June 6, 1934, ch. 404, title I, §21, 48 Stat. 899; May 27, 1936, ch. 462, §7, 49 Stat. 1379; Pub. L. 91–452, title II, §212, Oct. 15, 1970, 84 Stat. 929; Pub. L. 94–29, §17, June 4, 1975, 89 Stat. 154; Pub. L. 96–433, §§3, 4, Oct. 10, 1980, 94 Stat. 1855, 1858; Pub. L. 98–376, §2, Aug. 10, 1984, 98 Stat. 1264; Pub. L. 100–181, title III, §323, Dec. 4, 1987, 101 Stat. 1259; Pub. L. 100–704, §§3(a)(1), 6(b), Nov. 19, 1988, 102 Stat. 4677, 4681; Pub. L. 101–429, title II, §201, Oct. 15, 1990, 104 Stat. 935; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–67, title I, §103(b)(2), Dec. 22, 1995, 109 Stat. 756; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426; Pub. L. 107–204, §3(b)(2), title III, §§305(a)(1), (b), 308(d)(1), title VI, §603(a), July 30, 2002, 116 Stat. 749, 778, 779, 785, 794; Pub. L. 111–203, title IX, §§923(b)(1), 929F(c), (d), (g)(2), 986(a)(3), July 21, 2010, 124 Stat. 1849, 1854, 1855, 1935; Pub. L. 114–113, div. O, title VII, §708, Dec. 18, 2015, 129 Stat. 3030; Pub. L. 116–283, div. F, title LXV, §6501(a), Jan. 1, 2021, 134 Stat. 4625.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (b), (d)(1), (3), (e), and (f), was in the original "this title". See References in Text note set out under section 78a of this title.
@@ -232,7 +234,7 @@ This chapter, referred to in subsec. (d)(9), was in the original "this Act" mean
 
 The Right to Financial Privacy Act of 1978, referred to in subsec. (h)(1), (8), (9)(B), (11), and (13), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3401 of Title 12 and Tables.
 
-Section 19(b) of the Securities Act of 1933, referred to in subsec. (h)(2), was redesignated section 19(c) by Pub. L. 107–204, title I, §108(a)(1), July 30, 2002, 116 Stat. 768, and is classified to section 77s(c) of this title.
+Section 19(b) of the Securities Act of 1933, referred to in subsec. (h)(2), was redesignated section 19(c) by Pub.L. 107–204, title I, §108(a)(1), July 30, 2002, 116 Stat. 768, and is classified to section 77s(c) of this title.
 
 Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragraph within quotation marks following subsec. (h)(4)(C), is classified to subsection (h) of this section.
 
@@ -304,13 +306,15 @@ Subsec. (h). Pub. L. 96–433, §3, added subsec. (h).
 
 Subsec. (d). Pub. L. 94–29, §17(2), redesignated subsec. (e) as (d) and amended it generally, substituting "has engaged, is engaged, or is about to engage" for "is engaged or about to engage", "any provision" for "the provisions", "the rules or regulations" for "or of any rule or regulation", and "such a showing" for "a proper showing", and inserting "the rules of a national securities exchange or registered securities association of which such persons is a member or a person associated with a member, the rules of a registered clearing agency in which such person is a participant, or the rules of the Municipal Securities Rulemaking Board," in first sentence and inserting "as may constitute a violation of any provision of this chapter or the rules or regulations thereunder" in second sentence. Former subsec. (d) was repealed by Pub. L. 91–452. See 1970 Amendment note below.
 
-Subsec. (e). Pub. L. 94–29, §17(2), redesignated subsec. (f) as (e) and amended it generally, substituting "mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title" for "mandamus commanding any person to comply with the provisions of this chapter or any order of the Commission made in pursuance thereof or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title" and adding cls. (2) and (3). Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 94–29, §17(2), redesignated subsec. (f) as (e) and amended it generally, substituting "mandamus, injunctions, and orders commanding (1) any person to comply with the provisions of this chapter, the rules, regulations, and orders thereunder, the rules of a national securities exchange or registered securities association of which such person is a member or person associated with a member, the rules of a registered clearing agency in which such person is a participant, the rules of the Municipal Securities Rulemaking Board, or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title" for "mandamus commanding any person to comply with the provisions of this chapter or any order of the Commission made in pursuance thereofor with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title" and adding cls. (2) and (3). Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 94–29, §17(3), added subsecs. (f) and (g). Former subsec. (f) redesignated (e).
 
 <b>1970</b>—Subsec. (d). Pub. L. 91–452 struck out subsec. (d) which related to immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 
 <b>1936</b>—Subsec. (f). Act May 27, 1936, inserted "or with any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 
@@ -364,10 +368,6 @@ Amendment by Pub. L. 91–452 not to affect any immunity to which any individual
 
 Nothing in amendment by Pub. L. 104–67 to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under this chapter, see section 203 of Pub. L. 104–67, set out as a Construction note under section 78j–1 of this title.
 
-#### Transfer of Functions
-
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
-
 #### Promotion of Reciprocal Subpoena Enforcement
 
 Pub. L. 105–353, title I, §102, Nov. 3, 1998, 112 Stat. 3233, provided that:
@@ -385,6 +385,12 @@ Report.—Not later than 24 months after the date of enactment of this Act \[Nov
 &emsp;"(2) describing the actions undertaken by the Commission and State securities commissions to promote the adoption of such laws; and
 
 &emsp;"(3) identifying any further actions that the Commission recommends for such purposes."
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

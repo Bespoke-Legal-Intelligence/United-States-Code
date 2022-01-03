@@ -34,9 +34,13 @@ Any person who—
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 852; Pub. L. 97–248, title III, §329(c), Sept. 3, 1982, 96 Stat. 618.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–248 substituted "$100,000 ($500,000 in the case of a corporation)" for "$5,000".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1982 Amendment
 

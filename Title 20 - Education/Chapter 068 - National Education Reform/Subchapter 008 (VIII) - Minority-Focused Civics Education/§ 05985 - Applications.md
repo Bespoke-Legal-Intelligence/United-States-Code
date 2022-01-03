@@ -54,7 +54,7 @@ The Secretary, in approving applications for assistance under this subchapter, s
 
 &emsp;(4) the applicant will coordinate or conduct seminars designed for more than one minority student population and for Native Americans; and
 
-&emsp;(5) the applicant will coordinate or conduct seminars that offer a combination of academic instruction in American government, exposure to the practical workings of the political system, and training in appropriate pedagogical techniques for working with minority and Native American students.
+&emsp;(5) the applicant will coordinate or conduct seminars that offer a combination of academic instruction in American government, exposure to the practical workings of the political system, and training in appropriate pedagogicaltechniques for working with minority and Native American students.
 
 (Pub. L. 103–227, title VIII, §805, Mar. 31, 1994, 108 Stat. 210.)
 

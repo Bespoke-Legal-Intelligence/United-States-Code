@@ -26,6 +26,8 @@ Functions.—The Space Force shall be organized, trained, and equipped to—
 
 (Added Pub. L. 115–91, div. A, title XVI, §1601(a)(1), Dec. 12, 2017, 131 Stat. 1718, §2279c; amended Pub. L. 115–232, div. A, title X, §1081(a)(17), Aug. 13, 2018, 132 Stat. 1984; renumbered §9081 and amended Pub. L. 116–92, div. A, title IX, §952(b)(3), (4), Dec. 20, 2019, 133 Stat. 1562; Pub. L. 116–283, div. A, title IX, §922(a), (b), Jan. 1, 2021, 134 Stat. 3806.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 9081 was renumbered section 9067 of this title.
@@ -61,6 +63,8 @@ Pub. L. 116–92, §952(b)(3), renumbered section 2279c of this title as this se
 Subsec. (b). Pub. L. 115–232, §1081(a)(17)(B)(i), substituted "December 12, 2017" for "the date of the enactment of this section" in introductory provisions.
 
 Subsec. (b)(3). Pub. L. 115–232, §1081(a)(17)(B)(ii), substituted "after December 11, 2018" for "on or after the date that is one year after the date of the enactment of this section".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name; Redesignation of Air Force Space Command as United States Space Force
 
@@ -116,7 +120,7 @@ In general.—Not later than May 15, 2021, the Secretary of Defense shall submit
 
 &emsp;&emsp;"(B) Proposed revised, flexible, and streamlined options for joint requirements validation in order to be more responsive and innovative, while ensuring the ability of the Joint Chiefs of Staff to ensure top-level system requirements are properly prioritized to address joint-warfighting needs.
 
-&emsp;&emsp;"(C) A list of acquisition programs of the United States Space Force for which multiyear contracting authority under sections 2306b or 2306c of title 10, United States Code, is recommended.
+&emsp;&emsp;"(C) A list of acquisition programs of the United States Space Force for which multiyear contracting authority under sections 2306b \[now 10 U.S.C. 3501\] or 2306c \[now 10 U.S.C. 3531\] of title 10, United States Code, is recommended.
 
 &emsp;&emsp;"(D) A list of space systems acquisition programs for which alternative acquisition pathways may be used.
 
@@ -142,11 +146,11 @@ Covered software program.—The term 'covered software program' means an acquisi
 
 &emsp;"(2)
 
-Major defense acquisition program.—The term 'major defense acquisition program' has the meaning given in section 2430 of title 10, United States Code.
+Major defense acquisition program.—The term 'major defense acquisition program' has the meaning given in section 2430 of title 10, United States Code \[now 10 U.S.C. 4201\].
 
 &emsp;"(3)
 
-Major system.—The term 'major system' has the meaning given in section 2302 of title 10, United States Code.
+Major system.—The term 'major system' has the meaning given in section 2302 of title 10, United States Code \[now 10 U.S.C. 3041\].
 
 &emsp;"(4)
 
@@ -154,7 +158,7 @@ Middle tier acquisition program.—The term 'middle tier acquisition program' me
 
 &emsp;"(5)
 
-Milestone decision authority.—The term 'milestone decision authority' has the meaning given in section 2431a of title 10, United States Code.
+Milestone decision authority.—The term 'milestone decision authority' has the meaning given in section 2431a of title 10, United States Code \[now 10 U.S.C. 4211\].
 
 &emsp;"(6)
 
@@ -208,6 +212,8 @@ Requirement.—Except as specifically provided by this subtitle \[subtitle D (§
 
 Briefings.—Not later than 60 days after the date of the enactment of this Act, and every 60 days thereafter until March 31, 2023, the Secretary of the Air Force and the Chief of Space Operations shall jointly provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the status of the implementation of the Space Force pursuant to this subtitle and the amendments made by this subtitle. Each briefing shall address the current missions, operations and activities, manpower requirements and status, and budget and funding requirements and status of the Space Force, and such other matters with respect to the implementation and operation of the Space Force as the Secretary and the Chief jointly consider appropriate to keep Congress fully and currently informed on the status of the implementation of the Space Force."
 
+#### <b>Executive Documents</b>
+
 #### Space Policy Directive–4. Establishment of the United States Space Force
 
 Space Policy Directive–4, Feb. 19, 2019, 84 F.R. 6049, provided:
@@ -254,7 +260,7 @@ Sec. 4. <i>Scope</i>. (a) The legislative proposal required by section 3 of this
 
 (iii) create the appropriate career tracks for military and civilian space personnel across all relevant specialties, including operations, intelligence, engineering, science, acquisition, and cyber.
 
-Sec. 5. <i>United States Space Force Budget</i>. In accordance with the Department of Defense budget process, theSecretary of Defense shall submit to the Director of the Office of Management and Budget a proposed budget for the United States Space Force to be included in the President's Fiscal Year 2020 Budget Request.
+Sec. 5. <i>United States Space Force Budget</i>. In accordance with the Department of Defense budget process, the Secretary of Defense shall submit to the Director of the Office of Management and Budget a proposed budget for the United States Space Force to be included in the President's Fiscal Year 2020 Budget Request.
 
 Sec. 6. <i>United States Space Force Organization and Leadership</i>. (a) The legislative proposal required by section 3 of this memorandum shall create a civilian Under Secretary of the Air Force for Space, to be known as the Under Secretary for Space, appointed by the President by and with the advice and consent of the Senate.
 
@@ -266,7 +272,7 @@ Sec. 7. <i>Associated Elements</i>. (a) A Unified Combatant Command for space, t
 
 Sec. 8. <i>Relationship with National Intelligence</i>. The Secretary of Defense and the Director of National Intelligence shall create and enhance mechanisms for collaboration between the Department of Defense and the United States Intelligence Community in order to increase unity of effort and the effectiveness of space operations. The Secretary of Defense and the Director of National Intelligence shall provide a report to the President within 180 days of the date of this memorandum \[Feb. 19, 2019\] on steps they have taken and are planning to take toward these ends, including legislative proposals as necessary and appropriate.
 
-Sec. 9. <i>Operational Authorities</i>. In order to ensure that the United States Space Force and United States Space Command have the necessary operational authorities, the National Space Council and the National Security Council shall coordinate an accelerated review of space operational authorities. Within 90 days of the date of this memorandum, the Secretary of Defense shall present to the National Space Council and the National Security Council proposed relevant authority changes for the President's approval. The National Space Council and the National Security Council shall then conduct an interagency review of the Secretary's proposal and make recommendations to the President on appropriate authorities, to be completed no later than 60 days from the date the Secretary of Defense presents his proposal to the councils.
+Sec. 9. <i>Operational Authorities</i>. In order to ensure that the United States Space Force and United States Space Command have the necessary operational authorities, the National Space Council and the National Security Council shall coordinate an accelerated review of space operational authorities. Within 90 days of the date of this memorandum, the Secretary of Defense shall present to the National Space Council and the National Security Council proposed relevant authority changesfor the President's approval. The National Space Council and the National Security Council shall then conduct an interagency review of the Secretary's proposal and make recommendations to the President on appropriate authorities, to be completed no later than 60 days from the date the Secretary of Defense presents his proposal to the councils.
 
 Sec. 10. <i>Periodic Review</i>. As the United States Space Force matures, and as national security requires, it will become necessary to create a separate military department, to be known as the Department of the Space Force. This department will take over some or all responsibilities for the United States Space Force from the Department of the Air Force. The Secretary of Defense will conduct periodic reviews to determine when to recommend that the President seek legislation to establish such a department.
 

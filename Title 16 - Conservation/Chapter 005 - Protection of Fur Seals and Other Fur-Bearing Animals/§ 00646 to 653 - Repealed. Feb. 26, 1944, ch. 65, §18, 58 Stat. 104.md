@@ -12,9 +12,11 @@ Section 650, acts Apr. 21, 1910, ch. 183, §1, 36 Stat. 326; Aug. 24, 1912, ch. 
 
 Section 651, acts Apr. 21, 1910, ch. 183, §2, 36 Stat. 326; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to sale of sealskins, proceeds, and subsequent treaties.
 
-Section 652, acts Apr. 21, 1910, ch. 183, §3, 36 Stat. 327; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. PlanNo. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to employment of natives of Pribilof Islands in killing seals and curing skins.
+Section 652, acts Apr. 21, 1910, ch. 183, §3, 36 Stat. 327; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to employment of natives of Pribilof Islands in killing seals and curing skins.
 
 Section 653, acts Apr. 21, 1910, ch. 183, §9, 36 Stat. 328; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to depots for and transportation of provisions from mainland to Pribilof Islands, and care of natives.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Termination of Section
 

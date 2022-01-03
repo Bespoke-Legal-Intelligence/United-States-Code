@@ -124,7 +124,7 @@ An officer or employee of any entity of Federal, State, or local government or o
 
 #### (1) Reports on payment of rewards
 
-&emsp;Not later than 30 days after the payment of any reward under this section, the Secretaryshall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
+&emsp;Not later than 30 days after the payment of any reward under this section, the Secretary shall submit a report to the appropriate congressional committees with respect to such reward. The report, which may be submitted in classified form if necessary, shall specify the amount of the reward paid, to whom the reward was paid, and the acts with respect to which the reward was paid. The report shall also discuss the significance of the information for which the reward was paid in dealing with those acts.
 
 #### (2) Annual reports
 
@@ -480,7 +480,7 @@ Reference.—(1) For the purposes of subsection (a), the statute of the Internat
 
 "(2) For the purposes of subsection (a), the statute of the International Criminal Tribunal for Rwanda means the statute contained in the annex to Security Council Resolution 955 of November 8, 1994.
 
-"(3) For the purposes of subsection (a), the Statute of the Special Court for Sierra Leone means the Statute contained in the Annex to the Agreement Between the United Nations and the Government of Sierra Leone on the Establishment of a Special Court for Sierra Leone.
+"(3) For the purposes of subsection (a), the Statute of the Special Court for Sierra Leone means the Statute contained in the Annex to the Agreement Between theUnited Nations and the Government of Sierra Leone on the Establishment of a Special Court for Sierra Leone.
 
 "(d)
 

@@ -22,7 +22,7 @@
 
 (b)(1) Except as otherwise provided in this subsection, appointments described in subsection (a) shall be for a probationary period of two years.
 
-(2) With respect to the appointment of a registered nurse under this chapter, paragraph (1)shall apply with respect to such appointment regardless of whether such appointment is on a full-time basis or a part-time basis.
+(2) With respect to the appointment of a registered nurse under this chapter, paragraph (1) shall apply with respect to such appointment regardless of whether such appointment is on a full-time basis or a part-time basis.
 
 (3) An appointment described in subsection (a) on a part-time basis of a person who has previously served on a full-time basis for the probationary period for the position concerned shall be without a probationary period.
 
@@ -126,5 +126,5 @@ Subsec. (h). Pub. L. 108–170, §301(b)(2), added subsec. (h).
 
 #### Effective Date of 2003 Amendment
 
-Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
+Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003,see section 302(h) of Pub. L. 108–170, set out as a note under section 7316 of this title.
 

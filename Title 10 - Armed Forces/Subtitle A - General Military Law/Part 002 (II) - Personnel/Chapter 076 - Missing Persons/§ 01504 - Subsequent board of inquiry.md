@@ -30,7 +30,7 @@ Composition.—(1) A board appointed under this section shall be composed of at 
 
 &emsp;&emsp;(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.
 
-(2) The Secretary concerned shall designate one member of a board appointed under this section as president of the board. The president of the board shall have a security clearance thataffords the president access to all information relating to the whereabouts and status of each person covered by the inquiry.
+(2) The Secretary concerned shall designate one member of a board appointed under this section as president of the board. The president of the board shall have a security clearance that affords the president access to all information relating to the whereabouts and status of each person covered by the inquiry.
 
 (3) One member of each board appointed under this subsection shall be an individual who—
 
@@ -141,6 +141,8 @@ Report to Family Members and Other Interested Persons.—Not later than 60 days 
 Treatment of Determination.—Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under section 1503 of this title and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 
 (Added Pub. L. 104–106, div. A, title V, §569(b)(1), Feb. 10, 1996, 110 Stat. 341; amended Pub. L. 104–201, div. A, title V, §578(a)(3), Sept. 23, 1996, 110 Stat. 2536; Pub. L. 105–85, div. A, title V, §599(a)(3), (d)(1), title X, §1073(a)(30), Nov. 18, 1997, 111 Stat. 1767, 1769, 1902.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

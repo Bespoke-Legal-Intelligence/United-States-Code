@@ -18,13 +18,17 @@ Certain Institutions of Higher Education.—In the selection of a recipient for 
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title IX, §922(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–236; amended Pub. L. 115–91, div. A, title XVI, §1649(d)(1)(E), (F), Dec. 12, 2017, 131 Stat. 1753; Pub. L. 115–232, div. A, title XVI, §1633(a), (b)(1), Aug. 13, 2018, 132 Stat. 2125.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 substituted "Special considerations in awarding scholarships and grants" for "Centers of Academic Excellence in Cyber Education" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 <b>2017</b>—Pub. L. 115–91 substituted "Cyber" for "Information Assurance" in heading and in pars. (1) and (2).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-Pub. L. 115–91, div. A, title XVI, §1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: "Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesignated as a Center of Academic Excellence in Cyber Education. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to a Center of Academic Excellence in Information Assurance Education shall bedeemed to be a reference to a Center of Academic Excellence in Cyber Education."
+Pub. L. 115–91, div. A, title XVI, §1649(e)(2), Dec. 12, 2017, 131 Stat. 1753, provided that: "Any institution of higher education designated by the Director of the National Security Agency as a Center of Academic Excellence in Information Assurance Education is redesignated as a Center of Academic Excellence in Cyber Education. Any reference in a law (other than this section), map, regulation, document, paper, or other record of the United States to a Center of Academic Excellence in Information Assurance Education shall be deemed to be a reference to a Center of Academic Excellence in Cyber Education."
 

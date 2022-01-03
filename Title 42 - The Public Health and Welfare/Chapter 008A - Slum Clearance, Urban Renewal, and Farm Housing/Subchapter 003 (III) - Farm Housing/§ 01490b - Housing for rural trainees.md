@@ -28,7 +28,7 @@ The Secretary may make advances pursuant to any contract for financial assistanc
 
 #### (f) Sale of housing and related facilities to ineligible transferee or diversion to use other than primary purpose; repayment of advances; return of property to original condition
 
-Should housing and related facilities assisted pursuant to a contract under this section be sold to an ineligible transferee or diverted to a use other than its primary purpose within a period specified in the contract, all advances made under such contract shall be repaid to the Secretary, up to the amount of the sales price or the fair value of the property as determined by the Secretary, whichever is higher, with interest from the date of the sale or diversion. If no suitable alternate use of the property is available, as determined by the Secretary, after the purpose of this section can no longer be served, the property shall be returned to its original condition by the recipient of the assistance.
+Should housing and related facilities assisted pursuant to a contract under this section be sold to an ineligible transferee or diverted to a use other than its primary purpose within a periodspecified in the contract, all advances made under such contract shall be repaid to the Secretary, up to the amount of the sales price or the fair value of the property as determined by the Secretary, whichever is higher, with interest from the date of the sale or diversion. If no suitable alternate use of the property is available, as determined by the Secretary, after the purpose of this section can no longer be served, the property shall be returned to its original condition by the recipient of the assistance.
 
 #### (g) Interest on advances
 
@@ -48,11 +48,15 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (July 15, 1949, ch. 338, title V, §522, as added Pub. L. 90–448, title X, §1002, Aug. 1, 1968, 82 Stat. 551; amended Pub. L. 98–479, title II, §201(c), Oct. 17, 1984, 98 Stat. 2228; Pub. L. 100–242, title III, §316(e), Feb. 5, 1988, 101 Stat. 1898.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–242 substituted "Secretary of Health and Human Services" for "Secretary of Health, and Human Services".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–479 substituted "Health, and Human Services" for "Health, Education, and Welfare".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Office of Economic Opportunity
 

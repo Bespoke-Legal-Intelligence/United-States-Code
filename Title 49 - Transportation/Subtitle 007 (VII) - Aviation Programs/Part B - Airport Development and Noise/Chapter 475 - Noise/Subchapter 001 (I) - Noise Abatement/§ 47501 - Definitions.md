@@ -52,6 +52,8 @@ In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the com
 
 In clause (2), the word "valid" is omitted as surplus.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Mitigation of Military Helicopter Noise
 
 Pub. L. 116–283, div. A, title X, §1087, Jan. 1, 2021, 134 Stat. 3877, provided that:
@@ -66,7 +68,7 @@ National Capital Region.—In this section, the term 'National Capital Region' h
 
 #### Addressing Community Noise Concerns
 
-Pub. L. 115–254, div. B, title I, §175, Oct. 5, 2018, 132 Stat. 3228, provided that: "When proposing a new area navigation departure procedure, or amending an existing procedure that would direct aircraft between the surface and 6,000 feet above ground level over noise sensitive areas, the Administrator of the Federal Aviation Administration shall consider the feasibility of dispersal headings or other lateral track variations to address community noise concerns, if—
+Pub. L. 115–254, div. B, title I, §175, Oct. 5, 2018, 132 Stat. 3228, provided that: "When proposing a new area navigation departure procedure, or amending an existing procedure that would direct aircraft between the surface and 6,000 feet above ground level over noise sensitive areas, the Administrator of the Federal AviationAdministration shall consider the feasibility of dispersal headings or other lateral track variations to address community noise concerns, if—
 
 &emsp;"(1) the affected airport operator, in consultation with the affected community, submits a request to the Administrator for such a consideration;
 
@@ -108,25 +110,5 @@ Authorization of Appropriations.—There is authorized to be appropriated such s
 
 #### Nonmilitary Helicopter Noise
 
-Pub. L. 106–181, title VII, §747, Apr. 5, 2000, 114 Stat. 179, provided that:
-
-"(a)
-
-In General.—The Secretary \[of Transportation\] shall conduct a study—
-
-&emsp;"(1) on the effects of nonmilitary helicopter noise on individuals in densely populated areas in the continental United States; and
-
-&emsp;"(2) to develop recommendations for the reduction of the effects of nonmilitary helicopter noise.
-
-"(b)
-
-Focus.—In conducting the study, the Secretary shall focus on air traffic control procedures to address helicopter noise problems and shall take into account the needs of law enforcement.
-
-"(c)
-
-Consideration of Views.—In conducting the study, the Secretary shall consider the views of representatives of the helicopter industry and organizations with an interest in reducing nonmilitary helicopter noise.
-
-"(d)
-
-Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to Congress a report on the results of the study conducted under this section."
+Pub. L. 106–181, title VII, §747, Apr. 5, 2000, 114 Stat. 179, required the Secretary of Transportation to conduct a study on the effects of nonmilitary helicopter noise on individuals in densely populated areas in the continental United States and develop recommendations for the reduction of the effects of nonmilitary helicopter noise, focusing on air traffic control procedures to address helicopter noise problems and the needs of law enforcement, considering the views of representatives of the helicopter industry, and report to Congress a report on the study not later than 1 year after Apr. 5, 2000.
 

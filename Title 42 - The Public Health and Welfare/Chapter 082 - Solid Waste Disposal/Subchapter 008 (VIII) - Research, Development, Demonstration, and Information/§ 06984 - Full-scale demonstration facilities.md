@@ -28,13 +28,17 @@ No obligation may be made by the Administrator for financial assistance under th
 
 After October 21, 1976, the Administrator shall not construct or operate any full-scale facility (except by contract with public agencies or authorities or private persons).
 
-(Pub. L. 89–272, title II, §8004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2836; amendedPub. L. 95–609, §7(v), Nov. 8, 1978, 92 Stat. 3084; Pub. L. 98–616, title V, §502(f), Nov. 8, 1984, 98 Stat. 3276.)
+(Pub. L. 89–272, title II, §8004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2836; amended Pub. L. 95–609, §7(v), Nov. 8, 1978, 92 Stat. 3084; Pub. L. 98–616, title V, §502(f), Nov. 8, 1984, 98 Stat. 3276.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
 <b>1984</b>—Subsec. (c)(1). Pub. L. 98–616 inserted "(1)" before "Wherever".
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–609 substituted "solid waste" for "discarded material".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -10,11 +10,11 @@ All advertised timber sales shall be designated on maps, and a prospectus shall 
 
 #### (c) Terms and conditions of contract
 
-The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\]) will result, sales contracts shall be for a period not to exceed ten years: <i>Provided</i>, That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordancewith an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.
+The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\]) will result, sales contracts shall be for a period not to exceed ten years: <i>Provided</i>, That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordance with an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.
 
 #### (d) Advertisement of sales; exceptions
 
-The Secretary of Agriculture shall advertise all sales unless he determines that extraordinary conditions exist, as defined by regulation, or that the appraised value of the sale is less than $10,000. If, upon proper offering, no satisfactory bid is received for a sale, or the bidder fails to complete the purchase, the sale may be offered and sold without further advertisement.
+The Secretary of Agriculture shall advertise all sales unless he determines that extraordinary conditions exist, as defined by regulation, or that the appraised value of the sale is less than $10,000. If, upon proper offering, no satisfactory bid is received for a sale, or the bidderfails to complete the purchase, the sale may be offered and sold without further advertisement.
 
 #### (e) Bidding methods; purposes; oral auction procedures; monitoring and enforcement for prevention of collusive practices
 
@@ -70,11 +70,13 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 (1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as "small business concerns" under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
 
-(2) If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
+(2) If the purchaser makes such an election, the price subsequently paid for the timber shallinclude all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
 
 (3) The provisions of this subsection shall become effective on October 1, 1976.
 
 (Pub. L. 94–588, §14, Oct. 22, 1976, 90 Stat. 2958; Pub. L. 95–233, Feb. 20, 1978, 92 Stat. 32; Pub. L. 101–626, title I, §105(a), Nov. 28, 1990, 104 Stat. 4427; Pub. L. 113–79, title VIII, §8303, Feb. 7, 2014, 128 Stat. 924.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -93,6 +95,8 @@ The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(
 <b>1990</b>—Subsec. (i)(1). Pub. L. 101–626 struck out proviso that this subsec. not apply to sales of timber on National Forest System lands in the State of Alaska.
 
 <b>1978</b>—Subsec. (e). Pub. L. 95–233 substituted provisions authorizing the Secretary of Agriculture to select bidding method or methods to achieve the purposes of par. (1) of this subsec., procedures for use of oral auction as the bidding method, and procedures for monitoring and enforcement to prevent collusive practices, for provisions authorizing the Secretary to take such action as deemed necessary to prevent collusive practices, and setting forth requirements for enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Application of Amendments by Pub. L. 101–626 to Certain Long-Term Timber Sale Contracts
 

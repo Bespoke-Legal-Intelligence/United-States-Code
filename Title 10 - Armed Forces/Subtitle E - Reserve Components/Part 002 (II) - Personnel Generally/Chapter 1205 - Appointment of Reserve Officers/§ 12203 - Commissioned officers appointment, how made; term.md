@@ -56,6 +56,8 @@ Act
 
 The exception is inserted to reflect section 3352(b) of title 10, United States Code.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b). Pub. L. 116–92 substituted "the Secretary of Defense" for "the Secretary concerned".
@@ -78,6 +80,8 @@ Pub. L. 103–337, §1632, as amended by Pub. L. 104–106, substituted "reserve
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–861 inserted ", except as provided in section 3352 of this title" after "consent of the Senate".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2004 Amendment
 
 Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under section 531 of this title.
@@ -97,6 +101,8 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 #### Indefinite Appointments for Certain Reserve Officers
 
 Act Aug. 10, 1956, ch. 1041, §41, 70A Stat. 636, provided that: "Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section."
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Functions
 

@@ -2,7 +2,7 @@
 
 On the hearing of any case under a claim of extradition by a foreign government, upon affidavit being filed by the person charged setting forth that there are witnesses whose evidence is material to his defense, that he cannot safely go to trial without them, what he expects to prove by each of them, and that he is not possessed of sufficient means, and is actually unable to pay the fees of such witnesses, the judge or magistrate judge hearing the matter may order that such witnesses be subpenaed; and the costs incurred by the process, and the fees of witnesses, shall be paid in the same manner as in the case of witnesses subpenaed in behalf of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115;Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(June 25, 1948, ch. 645, 62 Stat. 825; Pub. L. 90–578, title III, §301(a)(3), Oct. 17, 1968, 82 Stat. 1115; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Historical and Revision Notes
 

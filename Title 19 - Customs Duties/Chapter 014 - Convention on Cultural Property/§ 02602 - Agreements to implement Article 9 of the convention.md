@@ -24,7 +24,7 @@
 
 &emsp;For purposes of paragraph (1), the President may enter into—
 
-&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions setforth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
+&emsp;&emsp;(A) a bilateral agreement with the State Party to apply the import restrictions set forth in section 2606 of this title to the archaeological or ethnological material of the State Party the pillage of which is creating the jeopardy to the cultural patrimony of the State Party found to exist under paragraph (1)(A); or
 
 &emsp;&emsp;(B) a multilateral agreement with the State Party and with one or more other nations (whether or not a State Party) under which the United States will apply such restrictions, and the other nations will apply similar restrictions, with respect to such material.
 
@@ -114,13 +114,19 @@ If any request described in subsection (a) is made by a State Party, or if the P
 
 (Pub. L. 97–446, title III, §303, Jan. 12, 1983, 96 Stat. 2352.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 2603 of this title, referred to in subsec. (g)(1)(B), was in the original "section 204", and was translated as section 2603 of this title, which is section 304 of Pub. L. 97–446, as the probable intent of Congress.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on the 90th day after Jan. 12, 1983, or on any date which the President shall prescribe and publish in the Federal Register, with exceptions, see section 315 of Pub. L. 97–446, set out as a note under section 2601 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Ex. Ord. No. 12555. Protection of Cultural Property
 

@@ -12,5 +12,5 @@ Section 551 is adopted from the House bill and the alternative in the Senate ame
 
 #### senate report no. 95–989
 
-This section is a change from present law. It specifies that any avoided transfer is automatically preserved for the benefit of the estate. Under current law, the court must determine whether or not the transfer should be preserved. The operation of the section is automatic, unlike current law, even though preservation may not benefit the estate in every instance. A preserved lien may be abandoned by the trustee under proposed 11 U.S.C. 554 if the preservation does not benefit the estate. The section as a whole prevents junior lienors from improving their position at the expense of the estate when a senior lien is avoided.
+This section is a change from present law. It specifies that any avoided transfer is automatically preservedfor the benefit of the estate. Under current law, the court must determine whether or not the transfer should be preserved. The operation of the section is automatic, unlike current law, even though preservation may not benefit the estate in every instance. A preserved lien may be abandoned by the trustee under proposed 11 U.S.C. 554 if the preservation does not benefit the estate. The section as a whole prevents junior lienors from improving their position at the expense of the estate when a senior lien is avoided.
 

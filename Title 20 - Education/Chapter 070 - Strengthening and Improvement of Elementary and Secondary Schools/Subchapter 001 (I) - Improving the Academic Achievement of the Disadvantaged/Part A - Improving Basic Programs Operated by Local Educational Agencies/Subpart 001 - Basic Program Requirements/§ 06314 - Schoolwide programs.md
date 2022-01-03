@@ -38,7 +38,7 @@
 
 #### (C) Records
 
-&emsp;&emsp;A school that chooses to consolidate and use funds from different Federal programs under this section shall not be required to maintain separate fiscal accounting records, by program, that identify the specific activities supported by those particular funds aslong as the school maintains records that demonstrate that the schoolwide program, considered as a whole, addresses the intent and purposes of each of the Federal programs that were consolidated to support the schoolwide program.
+&emsp;&emsp;A school that chooses to consolidate and use funds from different Federal programs under this section shall not be required to maintain separate fiscal accounting records, by program, that identify the specific activities supported by those particular funds as long as the school maintains records that demonstrate that the schoolwide program, considered as a whole, addresses the intent and purposes of each of the Federal programs that were consolidated to support the schoolwide program.
 
 #### (b) Schoolwide program plan
 
@@ -84,7 +84,7 @@ An eligible school operating a schoolwide program shall develop a comprehensive 
 
 #### (c) Preschool programs
 
-A school that operates a schoolwide program under this section may use funds availableunder this part to establish or enhance preschool programs for children who are under 6 years of age.
+A school that operates a schoolwide program under this section may use funds available under this part to establish or enhance preschool programs for children who are under 6 years of age.
 
 #### (d) Delivery of services
 
@@ -110,7 +110,9 @@ The services of a schoolwide program under this section may be delivered by nonp
 
 &emsp;Nothing in this subsection shall be construed to impose on any State any requirement or rule regarding dual or concurrent enrollment programs that is inconsistent with State law.
 
-(Pub. L. 89–10, title I, §1114, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1471; amended Pub. L. 109–270, §2(f)(3), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1008, Dec. 10, 2015, 129 Stat. 1862.)
+(Pub. L. 89–10, title I, §1114, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1471;amended Pub. L. 109–270, §2(f)(3), Aug. 12, 2006, 120 Stat. 747; Pub. L. 114–95, title I, §1008, Dec. 10, 2015, 129 Stat. 1862.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -129,6 +131,8 @@ Subsec. (b). Pub. L. 114–95, §1008(2), added subsec. (b) and struck out forme
 Subsecs. (c) to (e). Pub. L. 114–95, §1008(3), added subsecs. (c) to (e) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: "A school that is eligible for a schoolwide program under this section may use funds made available under this part to establish or enhance prekindergarten programs for children below the age of 6, such as Even Start programs or Early Reading First programs."
 
 <b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted "the Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

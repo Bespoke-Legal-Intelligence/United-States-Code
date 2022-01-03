@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 The term "fully insured individual" means any individual who had not less than—
 
-&emsp;(1) one quarter of coverage (whenever acquired) for each calendar year elapsing after1950 (or, if later, the year in which he attained age 21) and before the year in which he died or (if earlier) the year in which he attained age 62, except that in no case shall an individual be a fully insured individual unless he has at least 6 quarters of coverage; or
+&emsp;(1) one quarter of coverage (whenever acquired) for each calendar year elapsing after 1950 (or, if later, the year in which he attained age 21) and before the year in which he died or (if earlier) the year in which he attained age 62, except that in no case shall an individual be a fully insured individual unless he has at least 6 quarters of coverage; or
 
 &emsp;(2) 40 quarters of coverage; or
 
@@ -33,6 +33,8 @@ For purposes of subsections (a) and (b), the criterion specified in this subsect
 &emsp;&emsp;(C) the business engaged in or service as a crewman performed is within the scope of the terms of such individual's admission to the United States.
 
 (Aug. 14, 1935, ch. 531, title II, §214, as added Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 505; amended July 18, 1952, ch. 945, §3(b), 66 Stat. 770; Sept. 1, 1954, ch. 1206, title I, §§106(b), 108(a), 68 Stat. 1079, 1083; Aug. 1, 1956, ch. 836, title I, §108, 70 Stat. 830; Pub. L. 85–840, title II, §205(l), Aug. 28, 1958, 72 Stat. 1025; Pub. L. 86–778, title II, §204(a), Sept. 13, 1960, 74 Stat. 948; Pub. L. 87–64, title I, §103(a), June 30, 1961, 75 Stat. 137; Pub. L. 92–603, title I, §104(a), Oct. 30, 1972, 86 Stat. 1340; Pub. L. 108–203, title II, §211(a), Mar. 2, 2004, 118 Stat. 518.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -65,6 +67,8 @@ Subsec. (b). Act Sept. 1, 1954, §106(b)(2), inserted ", not counting as part o
 <b>1952</b>—Subsec. (a)(2)(B). Act July 18, 1952, §3(b)(1), inserted "not counting as an elapsed quarter for purposes of subparagraph (A) any quarter any part of which was included in a period of disability (as defined in section 416(i) of this title unless such quarter was a quarter of coverage".
 
 Subsec. (b). Act July 18, 1952, §3(b)(2), inserted "not counting as part of such thirteen-quarter period any quarter any part of which was included in a period of disability unless such quarter was a quarter of coverage" after "August 28, 1950".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

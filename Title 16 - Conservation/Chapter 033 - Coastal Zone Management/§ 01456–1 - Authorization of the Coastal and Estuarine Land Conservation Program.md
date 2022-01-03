@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may conduct a Coastal and Estuarine Land Conservation Program, in cooperation with appropriate State, regional, and other units of government, for the purposes of protecting important coastal and estuarine areas that have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural, undeveloped, or recreational state to other uses or could be managed or restored to effectively conserve, enhance, or restore ecological function. The program shall be administered by the National Ocean Service of the National Oceanic and Atmospheric Administration through the Office of Ocean and Coastal Resource Management.
+The Secretary may conduct a Coastal and Estuarine Land Conservation Program, in cooperation with appropriate State, regional, and other units of government, for the purposes of protecting important coastal and estuarine areasthat have significant conservation, recreation, ecological, historical, or aesthetic values, or that are threatened by conversion from their natural, undeveloped, or recreational state to other uses or could be managed or restored to effectively conserve, enhance, or restore ecological function. The program shall be administered by the National Ocean Service of the National Oceanic and Atmospheric Administration through the Office of Ocean and Coastal Resource Management.
 
 #### (b) Property acquisition grants
 
@@ -44,7 +44,7 @@ The Secretary shall allocate funds to coastal states or National Estuarine Resea
 
 &emsp;(9) Eligible coastal states or National Estuarine Research Reserves may allocate grants to local governments or agencies eligible for assistance under section 1455a(e) of this title.
 
-&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, andshall submit such evaluations to Congress triennially.
+&emsp;(10) The Secretary shall develop performance measures that the Secretary shall use to evaluate and report on the program's effectiveness in accomplishing its purposes, and shall submit such evaluations to Congress triennially.
 
 #### (d) Limitations and private property protections
 

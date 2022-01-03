@@ -18,7 +18,7 @@ Responsibilities.—The Committee shall—
 
 &emsp;&emsp;(A) whether the project addresses important research objectives or operational goals;
 
-&emsp;&emsp;(B) whether the project has, or is designed to have, appropriate participation or supportfrom public, academic, commercial, and private entities within the oceanographic community;
+&emsp;&emsp;(B) whether the project has, or is designed to have, appropriate participation or support from public, academic, commercial, and private entities within the oceanographic community;
 
 &emsp;&emsp;(C) whether the partners have a long-term commitment to the objectives of the project;
 
@@ -68,7 +68,7 @@ Partnership Program Office.—(1) The Secretary of the Navy and Administrator of
 
 &emsp;(A) Supporting working groups established by the Committee or subcommittee and reporting to the Committee and to any Federal agency that has contributed amounts to the National Oceanographic Partnership Program on the activities of such working groups, including the proposals of such working groups for partnership projects.
 
-&emsp;(B) Supporting the process for proposing partnership projects to the Committee and to the agencies referred to in subparagraph (A), including, where appropriate, managing review of such projects.
+&emsp;(B) Supporting the process for proposing partnership projects to the Committee and tothe agencies referred to in subparagraph (A), including, where appropriate, managing review of such projects.
 
 &emsp;(C) Submitting to the appropriate congressional committees, and making publicly available, an annual report on the status of all partnership projects, including the Federal and non-Federal sources of funding for each project, and activities of the office.
 
@@ -108,6 +108,8 @@ Appropriate Congressional Committees.—In this section, the term "appropriate c
 
 The date of the enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1), is the date of enactment of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1055(b)(2)(A), substituted "Ocean Policy Committee" for "National Ocean Research Leadership Council" in section catchline.
@@ -146,6 +148,8 @@ Subsecs. (d) to (i). Pub. L. 105–85, §241(a)(2), (3), redesignated subsecs. (
 
 Term of Office.—The term of office of a member of the Council appointed under paragraph (14), (15), (16), or (17) of subsection (b) shall be two years, except that any person appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
@@ -156,7 +160,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made by subsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
+Pub. L. 105–85, div. A, title II, §241(d), Nov. 18, 1997, 111 Stat. 1666, provided that: "The amendments made bysubsections (a) and (b) \[amending this section, section 7903 of this title, and provisions set out as a note under section 7903 of this title\] shall be effective as of September 23, 1996, as if included in section 282 of Public Law 104–201."
 
 #### Transfer of Functions
 

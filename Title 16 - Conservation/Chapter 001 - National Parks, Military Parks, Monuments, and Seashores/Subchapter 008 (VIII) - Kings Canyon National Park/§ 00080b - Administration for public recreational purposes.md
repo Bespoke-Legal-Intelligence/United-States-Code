@@ -1,8 +1,10 @@
 ### §80b. Administration for public recreational purposes
 
-The National Park Service shall, under the rules and regulations to be prescribed by theSecretary of the Interior, administer for public recreational purposes the lands withdrawn.
+The National Park Service shall, under the rules and regulations to be prescribed by the Secretary of the Interior, administer for public recreational purposes the lands withdrawn.
 
 (Mar. 4, 1940, ch. 40, §3, 54 Stat. 44.)
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

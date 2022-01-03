@@ -14,7 +14,7 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
-(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and anyorder or directive of the President in effect from time to time.
+(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
 
 (6)
 
@@ -54,7 +54,7 @@ Joint economic management and financial accountability committee.—
 
 &emsp;&emsp;(i)
 
-In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMI Compact shall be United States Government officers or employees.
+In general.—The three United States appointees (United States chair plus two members) to the Joint Economic Management and Financial Accountability Committee provided for in section 214 of the U.S.-RMI Compact and Article III of the U.S.-RMI Fiscal Procedures Agreement referred to in section 462(b)(4) of the U.S.-RMICompact shall be United States Government officers or employees.
 
 &emsp;&emsp;(ii)
 
@@ -86,7 +86,7 @@ In furtherance of the provisions of Title Four, Article V, sections 452 and 453 
 
 #### (e) Noncompliance sanctions; actions incompatible with United States authority
 
-Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) the suspension in whole or in part of the obligations of the Government of the United States to that Government.
+Congress expresses its understanding that the Governments of the Federated States of Micronesia and the Republic of the Marshall Islands will not act in a manner incompatible with the authority and responsibility of the United States for security and defense matters in or related to the Federated States of Micronesia or the Republic of the Marshall Islands pursuant to the U.S.-FSM Compact or the U.S.-RMI Compact, including the agreements referred to in sections 462(a)(2) of the U.S.-FSM Compact and 462(a)(5) of the U.S.-RMI Compact. Congress further expresses its intention that any such act on the part of either such Government will be viewed by the United States as a material breach of the U.S.-FSM Compact or U.S.-RMI Compact. The Government of the United States reserves the right in the event of such a material breach of the U.S.-FSM Compact by the Government of the Federated States of Micronesia or the U.S.-RMI Compact by the Government of the Republic of the Marshall Islands to take action, including (but not limited to) thesuspension in whole or in part of the obligations of the Government of the United States to that Government.
 
 #### (f) Continuing programs and laws
 
@@ -130,7 +130,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (iv) Fiscal procedures
 
-&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior, and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
+&emsp;&emsp;&emsp;Appropriations made pursuant to clause (iii) shall be used and monitored in accordance with an agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior,and in accordance with the respective Fiscal Procedures Agreements referred to in section 462(b)(4) of the U.S.-FSM Compact and section 462(b)(4) of the U.S.-RMI Compact. The agreement between the Secretary of Education, the Secretary of Labor, the Secretary of Health and Human Services, and the Secretary of the Interior shall provide for the transfer, not later than 60 days after the appropriations made pursuant to clause (iii) become available to the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, from the Secretary of Education, the Secretary of Labor, and the Secretary of Health and Human Services, to the Secretary of the Interior for disbursement.
 
 #### (v) Formula education grants
 
@@ -156,7 +156,7 @@ Congress expresses its understanding that the Governments of the Federated State
 
 &emsp;&emsp;(D) The Public Health Service.
 
-&emsp;&emsp;(E) The Rural Housing Service (formerly, the Farmers Home Administration) in theMarshall Islands and each of the four States of the Federated States of Micronesia: <i>Provided</i>, That in lieu of continuation of the program in the Federated States of Micronesia, the President may agree to transfer to the Government of the Federated States of Micronesia without cost, the portfolio of the Rural Housing Service applicable to the Federated States of Micronesia and provide such technical assistance in management of the portfolio as may be requested by the Federated States of Micronesia.
+&emsp;&emsp;(E) The Rural Housing Service (formerly, the Farmers Home Administration) in the Marshall Islands and each of the four States of the Federated States of Micronesia: <i>Provided</i>, That in lieu of continuation of the program in the Federated States of Micronesia, the President may agree to transfer to the Government of the Federated States of Micronesia without cost, the portfolio of the Rural Housing Service applicable to the Federated States of Micronesia and provide such technical assistance in management of the portfolio as may be requested by the Federated States of Micronesia.
 
 #### (2) Tort claims
 
@@ -194,7 +194,7 @@ Notwithstanding any other provision of law, persons who on January 1, 1985, were
 
 #### (l) Indefinite land use payments
 
-There are authorized to be appropriated such sums as may be necessary to complete repayment by the United States of any debts owed forthe use of various lands in the Federated States of Micronesia and the Marshall Islands prior to January 1, 1985.
+There are authorized to be appropriated such sums as may be necessary to complete repayment by the United States of any debts owed for the use of various lands in the Federated States of Micronesia and the Marshall Islands prior to January 1, 1985.
 
 #### (m) Communicable disease control program
 
@@ -212,7 +212,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (1) In general
 
-&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the Trust Fund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
+&emsp;The Trust Fund Agreement executed pursuant to the U.S.-FSM Compact and the TrustFund Agreement executed pursuant to the U.S.-RMI Compact each provides for the establishment of a trust fund.
 
 #### (2) Method of establishment
 
@@ -232,6 +232,8 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 (Pub. L. 108–188, title I, §105, Dec. 17, 2003, 117 Stat. 2744; Pub. L. 109–270, §2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L. 110–161, div. F, title I, §124, Dec. 26, 2007, 121 Stat. 2121; Pub. L. 110–229, title VIII, §§803(a), 804, 805, 806(a)(3), May 8, 2008, 122 Stat. 870, 871; Pub. L. 113–128, title V, §512(g)(1), July 22, 2014, 128 Stat. 1708; Pub. L. 113–287, §5(o)(2), Dec. 19, 2014, 128 Stat. 3272; Pub. L. 115–91, div. A, title XII, §1259C(c), Dec. 12, 2017, 131 Stat. 1687.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This joint resolution, referred to in subsecs. (a), (b)(10), and (f)(2), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
@@ -240,7 +242,7 @@ Section 3927 of title 22, referred to in subsec. (b)(5), was in the original "se
 
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
-The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19\(§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The joint resolution of January 14, 1986 (Public Law 99–239), referred to in subsec. (c)(1), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, known as the Compact of Free Association Act of 1985, which is classified principally to part A of this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (f)(1)(B)(ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
@@ -277,6 +279,8 @@ Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end ", w
 <b>2007</b>—Subsec. (f)(1)(B)(ix). Pub. L. 110–161 substituted "government, institutions, and people" for "Republic" in two places, "2009" for "2007", and "were" for "was".
 
 <b>2006</b>—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2014 Amendment
 

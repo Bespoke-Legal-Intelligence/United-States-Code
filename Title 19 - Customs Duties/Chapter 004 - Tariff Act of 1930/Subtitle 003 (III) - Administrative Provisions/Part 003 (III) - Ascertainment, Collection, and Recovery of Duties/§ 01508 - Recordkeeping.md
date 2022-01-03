@@ -68,7 +68,7 @@ Any—
 
 #### (A) Exports to USMCA countries
 
-&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least 5 years after the date on which the certification is completed.
+&emsp;&emsp;A person covered by paragraph (2) who completes a USMCA certification of origin or provides a written representation for a good exported from the United States to a USMCA country shall keep the records required by such paragraph relating to that certification of origin for a period of at least5 years after the date on which the certification is completed.
 
 #### (B) Exports under Canadian Agreement
 
@@ -166,7 +166,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (B) CAFTA–DR certification of origin
 
-&emsp;&emsp;The term "CAFTA–DR certification of origin" means the certification established under article 4.16 of the Dominican Republic-Central America-United States Free Trade Agreement that a good qualifies as an originating good under such Agreement.
+&emsp;&emsp;The term "CAFTA–DR certification of origin" means the certification establishedunder article 4.16 of the Dominican Republic-Central America-United States Free Trade Agreement that a good qualifies as an originating good under such Agreement.
 
 #### (2) Exports to CAFTA–DR countries
 
@@ -254,7 +254,7 @@ For the purposes of this section and section 1509 of this title, a person orderi
 
 #### (2) Exports to Colombia
 
-&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make, keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
+&emsp;Any person who completes and issues a CTPA certification of origin for a good exported from the United States shall make,keep, and, pursuant to rules and regulations promulgated by the Secretary of the Treasury, render for examination and inspection all records and supporting documents related to the origin of the good (including the certification or copies thereof).
 
 #### (3) Retention period
 
@@ -313,6 +313,8 @@ Any person who fails to retain records and supporting documents required by subs
 <i>For termination of amendment by section 107(c) of Pub. L. 108–77, see Effective and Termination Dates of 2003 Amendment note below.</i>
 
 <i>For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -374,6 +376,8 @@ Subsec. (e). Pub. L. 103–182, §205(a)(3), amended subsec. (e) generally. Prio
 
 <b>1988</b>—Subsecs. (b) to (e). Pub. L. 100–449 temporarily added subsec. (b), redesignated former subsec. (b) as (c) and inserted "and (b)" after "subsection (a)", redesignated former subsec. (c) as (d), and added subsec. (e). See Effective and Termination Dates of 1988 Amendment note below.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2020 Amendment
 
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under section 81c of this title.
@@ -420,7 +424,7 @@ Amendment by Pub. L. 114–125 effective Feb. 24, 2016, and, except as otherwise
 
 #### Effective and Termination Dates of 2011 Amendment
 
-Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date the United States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
+Amendment by Pub. L. 112–43 effective Oct. 21, 2011, applicable with respect to Panama on the date theUnited States–Panama Trade Promotion Agreement enters into force (Oct. 31, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–43, set out in a note under section 3805 of this title.
 
 Amendment by Pub. L. 112–42 effective Oct. 21, 2011, applicable with respect to Colombia on the date the United States–Colombia Trade Promotion Agreement enters into force (May 15, 2012), and to cease to be effective on the date the Agreement terminates, see section 107(b), (c) of Pub. L. 112–42, set out in a note under section 3805 of this title.
 

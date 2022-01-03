@@ -18,7 +18,7 @@ In general.—The Secretary of Defense may enter into a cooperative agreement wi
 
 &emsp;(2)
 
-Inapplicability of certain contract requirements.—Notwithstanding section 2304(k) of this title, the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to section 2304(c)(5) of this title.
+Inapplicability of certain contract requirements.—Notwithstanding section 3201(e) of this title, the Secretary may enter such cooperative agreements or grants on a sole-source basis pursuant to section 3204(a)(5) of this title.
 
 (d)
 
@@ -58,7 +58,7 @@ In general.—The Secretary of Defense shall prescribe regulations to implement 
 
 &emsp;(2)
 
-Limitation.—Such regulations shall provide that acceptance of a gift (including a gift of services) or use of a gift under this section may not occur if the nature or circumstances of the acceptance or use would compromise the integrity, or the appearance of integrity, of any program of the Department of Defense or any individual involved in such program.
+Limitation.—Such regulations shall provide that acceptance of a gift (including a giftof services) or use of a gift under this section may not occur if the nature or circumstances of the acceptance or use would compromise the integrity, or the appearance of integrity, of any program of the Department of Defense or any individual involved in such program.
 
 (g)
 
@@ -78,9 +78,7 @@ Gift.—The term "gift" includes a devise or bequest.
 
 (Added Pub. L. 113–291, div. A, title IX, §916(b), Dec. 19, 2014, 128 Stat. 3477; amended Pub. L. 115–232, div. A, title V, §523, Aug. 13, 2018, 132 Stat. 1756; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -91,6 +89,8 @@ Gift.—The term "gift" includes a devise or bequest.
 Subsecs. (e), (f). Pub. L. 115–232, §523(b)(1), (2), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 115–232, §523(b)(1), (3), redesignated subsec. (f) as (g) and added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

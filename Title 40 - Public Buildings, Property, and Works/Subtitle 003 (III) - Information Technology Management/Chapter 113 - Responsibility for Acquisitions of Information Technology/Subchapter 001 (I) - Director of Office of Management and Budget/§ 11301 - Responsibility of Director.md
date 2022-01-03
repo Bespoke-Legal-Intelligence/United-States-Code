@@ -102,7 +102,7 @@ Sunset.—This section shall cease to be effective on the date that is 5 years a
 
 "(a)
 
-Guidance.—Not later than 270 days after the date of enactment of this Act \[Dec. 27, 2020\], the Director, in coordination with the Director of the Office of Science and Technology Policy in consultation with the Administrator and any other relevant agencies and key stakeholders as determined by the Director, shall issue a memorandum to the head of each agency that shall—
+Guidance.—Not later than 270 days after the date of enactment of this Act \[Dec. 27, 2020\], the Director, incoordination with the Director of the Office of Science and Technology Policy in consultation with the Administrator and any other relevant agencies and key stakeholders as determined by the Director, shall issue a memorandum to the head of each agency that shall—
 
 &emsp;"(1) inform the development of policies regarding Federal acquisition and use by agencies regarding technologies that are empowered or enabled by artificial intelligence, including an identification of the responsibilities of agency officials managing the use of such technology;
 

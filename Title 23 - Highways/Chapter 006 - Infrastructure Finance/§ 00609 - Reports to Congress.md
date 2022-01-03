@@ -40,11 +40,41 @@ In general.—Each report under paragraph (1) shall include, at a minimum, a des
 
 Correspondence.—Each report under paragraph (1) shall include copies of any correspondence provided to the project sponsor in accordance with section 602(d).
 
-(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 250, §189; renumbered §609 and amended Pub. L. 109–59, title I, §§1601(h), 1602(d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 621; Pub. L. 114–94, div. A, title II, §2001(h), Dec. 4, 2015, 129 Stat. 1444.)
+(c)
+
+Status Reports.—
+
+&emsp;(1)
+
+In general.—The Secretary shall publish on the website for the TIFIA program—
+
+&emsp;&emsp;(A) on a monthly basis, a current status report on all submitted letters of interest and applications received for assistance under the TIFIA program; and
+
+&emsp;&emsp;(B) on a quarterly basis, a current status report on all approved applications for assistance under the TIFIA program.
+
+&emsp;(2)
+
+Inclusions.—Each monthly and quarterly status report under paragraph (1) shall include, at a minimum, with respect to each project included in the status report—
+
+&emsp;&emsp;(A) the name of the party submitting the letter of interest or application;
+
+&emsp;&emsp;(B) the name of the project;
+
+&emsp;&emsp;(C) the date on which the letter of interest or application was received;
+
+&emsp;&emsp;(D) the estimated project eligible costs;
+
+&emsp;&emsp;(E) the type of credit assistance sought; and
+
+&emsp;&emsp;(F) the anticipated fiscal year and quarter for closing of the credit assistance.
+
+(Added Pub. L. 105–178, title I, §1503(a), June 9, 1998, 112 Stat. 250, §189; renumbered §609 and amended Pub. L. 109–59, title I, §§1601(h), 1602(d), Aug. 10, 2005, 119 Stat. 1242, 1247; Pub. L. 112–141, div. A, title II, §2002, July 6, 2012, 126 Stat. 621; Pub. L. 114–94, div. A, title II, §2001(h), Dec. 4, 2015, 129 Stat. 1444; Pub. L. 117–58, div. A, title II, §12001(j), Nov. 15, 2021, 135 Stat. 621.)
 
 #### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (c). Pub. L. 117–58 added subsec. (c).
 
 <b>2015</b>—Pub. L. 114–94 substituted "the TIFIA program" for "this chapter (other than section 610)" wherever appearing.
 
@@ -61,6 +91,10 @@ Correspondence.—Each report under paragraph (1) shall include copies of any co
 Pub. L. 109–59, §1601(h), substituted "Reports" for "Report" in section catchline, "On June 1, 2006, and every 2 years thereafter," for "Not later than 4 years after the date of enactment of this subchapter," in introductory provisions, and "chapter (other than section 610)" for "subchapter" wherever appearing.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as a note under section 101 of this title.
 
 #### Effective Date of 2015 Amendment
 

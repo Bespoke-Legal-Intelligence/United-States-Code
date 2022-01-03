@@ -18,6 +18,8 @@
 
 (Pub. L. 94–385, title IV, §411, Aug. 14, 1976, 90 Stat. 1151; Pub. L. 101–440, §7(j), Oct. 18, 1990, 104 Stat. 1015.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, §683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§2991 et seq.) and X (§2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
@@ -37,4 +39,20 @@ The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 
 &emsp;"(4) States, through community action agencies established under the Economic Opportunity Act of 1964 and units of general purpose local government, should be encouraged, with Federal financial and technical assistance, to develop and support coordinated weatherization programs designed to ameliorate the adverse effects of high energy costs on such low-income persons, to supplement other Federal programs serving such persons, and to conserve energy.
 
 "(b) It is, therefore, the purpose of this part to develop and implement a supplementary weatherization assistance program to assist in achieving a prescribed level of insulation in the dwellings of low-income persons, particularly elderly and handicapped low-income persons, in order both to aid those persons least able to afford higher utility costs and to conserve needed energy."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Weatherization Assistance Program
+
+Pub. L. 117–58, div. D, title V, §40551, Nov. 15, 2021, 135 Stat. 1075, provided that:
+
+"(a)
+
+Authorization of Appropriations.—There is authorized to be appropriated to the Secretary \[of Energy\] for the weatherization assistance program established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.) $3,500,000,000 for fiscal year 2022, to remain available until expended.
+
+"(b)
+
+Application of Wage Rate Requirements to Weatherization Assistance Program.—With respect to work performed under the weatherization assistance program established under part A of title IV of the Energy Conservation and Production Act (42 U.S.C. 6861 et seq.) on a project assisted in whole or in part by funding made available under subsection (a), the requirements of section 41101 \[42 U.S.C. 18851\] shall apply only to work performed on multifamily buildings with not fewer than 5 units."
+
+\[For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.\]
 

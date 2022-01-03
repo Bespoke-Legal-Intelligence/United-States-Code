@@ -28,17 +28,19 @@ Authorization of Appropriations.—There are authorized to be appropriated $5,00
 
 #### (b) Assistance of other agencies
 
-The Secretary shall actively seek the assistance of other Federal agencies in the development of fisheries for underutilized species of the northwest Atlantic Ocean, including, to the extent permitted by other applicable laws, assistance from the Secretary of Agriculture in including such underutilized species as agricultural commodities in the programs of the Foreign Agricultural Service for which amounts areauthorized under the Food, Agriculture, Conservation, and Trade Act of 1990 (Public Law 101–624; 104 Stat. 3359).
+The Secretary shall actively seek the assistance of other Federal agencies in the development of fisheries for underutilized species of the northwest Atlantic Ocean, including, to the extent permitted by other applicable laws, assistance from the Secretary of Agriculture in including such underutilized species as agricultural commodities in the programs of the Foreign Agricultural Service for which amounts are authorized under the Food, Agriculture, Conservation, and Trade Act of 1990 (Public Law 101–624; 104 Stat. 3359).
 
 #### (c) Management plans for underutilized species
 
-The New England Fishery Management Council, in consultation with other appropriate Councils, shall develop fishery management plans as soon as possible for any underutilized species of the northwest Atlantic Ocean that is not covered under such a plan, in order to prevent overfishing of that species.
+The New England Fishery Management Council, in consultation with other appropriateCouncils, shall develop fishery management plans as soon as possible for any underutilized species of the northwest Atlantic Ocean that is not covered under such a plan, in order to prevent overfishing of that species.
 
 #### (d) "Underutilized species" defined
 
 For purposes of this section, the term "underutilized species of the northwest Atlantic Ocean" means any fish species of the northwest Atlantic Ocean that is identified, by the Director of the Northeast Fisheries Center of the National Marine Fisheries Service, as an underutilized species.
 
 (Pub. L. 94–265, title III, §314, as added Pub. L. 102–567, title IX, §902(a), Oct. 29, 1992, 106 Stat. 4317; amended Pub. L. 104–297, title I, §117(b), Oct. 11, 1996, 110 Stat. 3604.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

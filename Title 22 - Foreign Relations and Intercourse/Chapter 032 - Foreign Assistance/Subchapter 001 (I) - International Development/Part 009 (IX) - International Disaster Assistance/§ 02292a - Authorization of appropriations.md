@@ -2,7 +2,7 @@
 
 #### (a) Fiscal year authorization
 
-There are authorized to be appropriated to the President to carry out section 2292 of this title, $2,794,184,000 for each of fiscal years 2017 through 2023, of which up to $1,257,382,000 should be made available to carry out section 2292(c) of this title. Amounts appropriated under this sectionare authorized to remain available until expended.
+There are authorized to be appropriated to the President to carry out section 2292 of this title, $2,794,184,000 for each of fiscal years 2017 through 2023, of which up to $1,257,382,000 should be made available to carry out section 2292(c) of this title. Amounts appropriated under this section are authorized to remain available until expended.
 
 #### (b) Subsequent appropriations for reimbursement of additional fiscal year obligations charged against appropriation account
 
@@ -24,7 +24,7 @@ Amounts authorized to be appropriated pursuant to the authorizations of appropri
 
 #### (e) Report
 
-Not later than March 1 of each fiscal year, the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report that describes the activities undertaken by the President over the course of the prior fiscal year pursuant to section 2292(c) of this title, including the amounts of assistance provided, intended beneficiaries, monitoring and evaluation strategies, anticipated outcomes, and, as practicable, actual outcomes.
+Not later than March 1 of each fiscal year, the President shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee onForeign Affairs and the Committee on Appropriations of the House of Representatives a report that describes the activities undertaken by the President over the course of the prior fiscal year pursuant to section 2292(c) of this title, including the amounts of assistance provided, intended beneficiaries, monitoring and evaluation strategies, anticipated outcomes, and, as practicable, actual outcomes.
 
 (Pub. L. 87–195, pt. I, §492, as added Pub. L. 94–161, title I, §101(3), Dec. 20, 1975, 89 Stat. 849; amended Pub. L. 95–88, title I, §119, Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title I, §118(b), Oct. 6, 1978, 92 Stat. 953; Pub. L. 96–53, title I, §115, Aug. 14, 1979, 93 Stat. 365; Pub. L. 96–533, title IV, §§403, 404(a), Dec. 16, 1980, 94 Stat. 3150; Pub. L. 97–113, title V, §503, Dec. 29, 1981, 95 Stat. 1539; Pub. L. 99–83, title IV, §404, Aug. 8, 1985, 99 Stat. 219; Pub. L. 114–195, §7(c)(2), July 20, 2016, 130 Stat. 681; Pub. L. 115–266, §2(b), Oct. 11, 2018, 132 Stat. 3755.)
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 

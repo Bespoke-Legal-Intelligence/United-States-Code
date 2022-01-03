@@ -38,7 +38,7 @@ In order for a State to qualify for assistance under this section, such State sh
 
 &emsp;&emsp;(A) individuals representing the law enforcement community;
 
-&emsp;&emsp;(B) judges and attorneys involved in both civil and criminal court proceedings related to child abuse and neglect (including individuals involved with the defense as well as the prosecution of such cases);
+&emsp;&emsp;(B) judges and attorneys involved in both civil and criminal court proceedings relatedto child abuse and neglect (including individuals involved with the defense as well as the prosecution of such cases);
 
 &emsp;&emsp;(C) child advocates, including both attorneys for children and, where such programs are in operation, court appointed special advocates;
 
@@ -95,6 +95,8 @@ Before a State receives assistance under this section, and at three year interva
 For grants under this section, the Secretary shall use the amount authorized by section 20104 of title 34.
 
 (Pub. L. 93–247, title I, §107, formerly §10, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 113; renumbered title I, §109, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(5), Oct. 25, 1989, 103 Stat. 764, 765; Pub. L. 102–295, title I, §116(a), May 28, 1992, 106 Stat. 195; renumbered §107 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (2), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §115, June 25, 2003, 117 Stat. 812; Pub. L. 111–320, title I, §116, Dec. 20, 2010, 124 Stat. 3474.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

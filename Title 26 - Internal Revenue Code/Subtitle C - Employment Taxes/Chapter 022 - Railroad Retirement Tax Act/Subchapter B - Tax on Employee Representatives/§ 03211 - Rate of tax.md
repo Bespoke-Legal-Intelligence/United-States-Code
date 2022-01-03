@@ -14,6 +14,8 @@ In addition to other taxes, there is hereby imposed on the income of each employ
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 432; Aug. 31, 1954, ch. 1164, pt. II, §206(a), 68 Stat. 1040; Pub. L. 86–28, pt. II, §201(c), May 19, 1959, 73 Stat. 29; Pub. L. 88–133, title II, §201, Oct. 5, 1963, 77 Stat. 221; Pub. L. 89–97, title I, §§105(b)(2), 111(c)(2), July 30, 1965, 79 Stat. 335, 342; Pub. L. 89–212, §§4, 5(b), Sept. 29, 1965, 79 Stat. 861; Pub. L. 89–699, title III, §301 (b), (d), Oct. 30, 1966, 80 Stat. 1078; Pub. L. 89–700, title III, §301(v), (vi), Oct. 30, 1966, 80 Stat. 1088, 1089; Pub. L. 91–215, §4, Mar. 17, 1970, 84 Stat. 70; Pub. L. 93–69, title I, §102(c), July 10, 1973, 87 Stat. 162; Pub. L. 94–93, title II, §202, Aug. 9, 1975, 89 Stat. 466; Pub. L. 94–455, title XIX, §1903(a)(8), Oct. 4, 1976, 90 Stat. 1807; Pub. L. 97–34, title VII, §741(b), Aug. 13, 1981, 95 Stat. 347; Pub. L. 98–76, title II, §§211(c), 223, Aug. 12, 1983, 97 Stat. 419, 421; Pub. L. 101–508, title V, §5125(b), Nov. 5, 1990, 104 Stat. 1388–285; Pub. L. 107–90, title II, §§203(a), 204(b), Dec. 21, 2001, 115 Stat. 891; Pub. L. 113–295, div. A, title II, §221(a)(100)(B), Dec. 19, 2014, 128 Stat. 4052.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2014</b>—Subsec. (b). Pub. L. 113–295 amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) and (2) establishing the tier 2 tax and its applicable percentage.
@@ -58,6 +60,8 @@ Pub. L. 89–97 substituted "the rate of the tax imposed with respect to wages b
 
 <b>1954</b>—Act Aug. 31, 1954, substituted "$350" for "$300".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2014 Amendment
 
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
@@ -92,7 +96,7 @@ Amendment by Pub. L. 93–69 effective Oct. 1, 1973, and applicable only with re
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–699, title III, §301(f), Oct. 30, 1966, 80 Stat. 1079, as amended by Pub. L. 91–215, §8, Mar. 17, 1970, 84Stat. 72, provided that: "The amendments made by subsections (d) and (e) of this section \[amending this section and section 3221 of this title\] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act \[Oct. 30, 1966\], for which compensation is paid."
+Pub. L. 89–699, title III, §301(f), Oct. 30, 1966, 80 Stat. 1079, as amended by Pub. L. 91–215, §8, Mar. 17, 1970, 84 Stat. 72, provided that: "The amendments made by subsections (d) and (e) of this section \[amending this section and section 3221 of this title\] shall be effective with respect to man-hours, beginning with the first month following enactment of this Act \[Oct. 30, 1966\], for which compensation is paid."
 
 #### Effective Date of 1965 Amendments
 

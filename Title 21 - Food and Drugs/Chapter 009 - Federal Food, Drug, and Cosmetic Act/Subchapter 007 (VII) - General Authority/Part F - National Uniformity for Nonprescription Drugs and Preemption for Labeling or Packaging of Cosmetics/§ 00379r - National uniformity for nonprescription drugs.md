@@ -50,7 +50,7 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f), no State or poli
 
 #### (2) State initiatives
 
-&emsp;This section shall not apply to a State requirement adopted by a State public initiative or referendum enacted prior to September 1, 1997.
+&emsp;This section shall not apply to a State requirement adopted by a State public initiativeor referendum enacted prior to September 1, 1997.
 
 #### (e) No effect on product liability law
 

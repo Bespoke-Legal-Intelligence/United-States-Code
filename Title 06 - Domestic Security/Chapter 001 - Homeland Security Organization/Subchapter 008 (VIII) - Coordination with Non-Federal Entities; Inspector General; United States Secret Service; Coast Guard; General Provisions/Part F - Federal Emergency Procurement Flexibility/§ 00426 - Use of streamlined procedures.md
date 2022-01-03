@@ -14,11 +14,11 @@ The head of an executive agency shall, when appropriate, use streamlined acquisi
 
 #### (2) Title 10
 
-&emsp;In chapter 137 of title 10:
+&emsp;In part V of subtitle A of title 10:
 
-&emsp;&emsp;(A) Paragraphs (1), (2), (6), and (7) of subsection (c) of section 2304, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section).
+&emsp;&emsp;(A) Paragraphs (1), (2), (6), and (7) of subsection (a) of section 3204, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section).
 
-&emsp;&emsp;(B) Section 2304c, relating to orders under task and delivery order contracts.
+&emsp;&emsp;(B) Section 3406, relating to orders under task and delivery order contracts.
 
 #### (3) Office of Federal Procurement Policy Act
 
@@ -28,7 +28,7 @@ The head of an executive agency shall, when appropriate, use streamlined acquisi
 
 Subclause (II) of section 637(a)(1)(D)(i) of title 15 and clause (ii) of section 657a(b)(2)(A) <sup>1</sup> of title 15 shall not apply in the use of streamlined acquisition authorities and procedures referred to in paragraphs (1)(A) and (2)(A) of subsection (a) for a procurement referred to in section 422 of this title.
 
-(Pub. L. 107–296, title VIII, §856, Nov. 25, 2002, 116 Stat. 2237.)
+(Pub. L. 107–296, title VIII, §856, Nov. 25, 2002, 116 Stat. 2237; Pub. L. 117–81, div. A, title XVII, §1702(c)(4), Dec. 27, 2021, 135 Stat. 2155.)
 
 #### <b>Editorial Notes</b>
 
@@ -40,15 +40,9 @@ The Office of Federal Procurement Policy Act, referred to in subsec. (a)(3) head
 
 Subsec. (b) of section 657a of title 15, referred to in subsec. (b), was redesignated subsec. (c) of that section by Pub. L. 115–91, div. A, title XVII, §1701(a)(1), Dec. 12, 2017, 131 Stat. 1795.
 
-#### Codification
+#### Amendments
 
-In subsec. (a)(1), "division C of subtitle I of title 41" substituted for "title III of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (a)(1)(A), "Paragraphs (1), (2), (6), and (7) of subsection (a) of section 3304 of title 41, relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (d) of such section)." substituted for "Paragraphs (1), (2), (6), and (7) of subsection (c) of section 303 (41 U.S.C. 253), relating to use of procedures other than competitive procedures under certain circumstances (subject to subsection (e) of such section)." on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (a)(1)(B), "Section 4106 of title 41" substituted for "Section 303J (41 U.S.C. 253j)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (a)(3), "Paragraphs (1)(B), (1)(D), and (2)(A) of section 1708(b) of title 41" substituted for "Paragraphs (1)(B), (1)(D), and (2) of section 18(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 416(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 added pars. (1) to (3) and struck out former pars. (1) to (3) which listed provisions in titles 10 and 41 to be followed for procurements.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

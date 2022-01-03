@@ -24,6 +24,8 @@ The Commission may, on its own motion, and shall, on application of any person o
 
 (Pub. L. 95–617, title II, §205, Nov. 9, 1978, 92 Stat. 3140.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the "Public Utility Regulatory Policies Act of 1978". For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
@@ -35,6 +37,8 @@ The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub
 #### Codification
 
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

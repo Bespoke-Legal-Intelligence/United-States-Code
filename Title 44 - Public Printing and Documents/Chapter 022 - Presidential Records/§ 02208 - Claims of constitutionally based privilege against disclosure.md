@@ -22,7 +22,7 @@
 
 (C) Notwithstanding subparagraphs (A) and (B), if the 60-day period under subparagraph (A), or any extension of that period under subparagraph (B), would otherwise expire during the 6-month period after the incumbent President first takes office, then that 60-day period or extension, respectively, shall expire at the end of that 6-month period.
 
-(b)(1) For purposes of this section, the decision to assert any claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) must be made personally by a former President or the incumbent President, as applicable.
+(b)(1) For purposes of this section, the decision to assert any claim of constitutionally based privilege against disclosure of a Presidential record (or reasonably segregable part of a record) must be made personally by a formerPresident or the incumbent President, as applicable.
 
 (2) A former President or the incumbent President shall notify the Archivist, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate of a privilege claim under paragraph (1) on the same day that the claim is asserted under such paragraph.
 
@@ -36,7 +36,7 @@
 
 &emsp;(ii) the Archivist is otherwise directed by a final court order that is not subject to appeal.
 
-(C) If the incumbent President determines not to uphold the claim of privilege asserted by the former President, or fails to make the determination under paragraph (1) before the end ofthe period specified in subparagraph (A), the Archivist shall release the Presidential record subject to the claim at the end of the 90-day period beginning on the date on which the Archivist received notification of the claim, unless otherwise directed by a court order in an action initiated by the former President under section 2204(e) of this title or by a court order in another action in any Federal court.
+(C) If the incumbent President determines not to uphold the claim of privilege asserted by the former President, or fails to make the determination under paragraph (1) before the end of the period specified in subparagraph (A), the Archivist shall release the Presidential record subject to the claim at the end of the 90-day period beginning on the date on which the Archivist received notification of the claim, unless otherwise directed by a court order in an action initiated by the former President under section 2204(e) of this title or by a court order in another action in any Federal court.
 
 (d) The Archivist shall not make publicly available a Presidential record (or reasonably segregable part of a record) that is subject to a privilege claim asserted by the incumbent President unless—
 

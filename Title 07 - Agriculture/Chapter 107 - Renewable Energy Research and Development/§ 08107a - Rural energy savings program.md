@@ -60,7 +60,7 @@ In this section:
 
 #### (C) Existing energy efficiency programs
 
-&emsp;&emsp;An eligible entity that, at any time before the date that is 60 days after February 7, 2014, has established an energy efficiencyprogram for qualified consumers may use an existing list of energy efficiency measures, implementation plan, or measurement and verification system of that program to satisfy the requirements of subparagraph (A) if the Secretary determines the list, plan, or systems are consistent with the purposes of this section.
+&emsp;&emsp;An eligible entity that, at any time before the date that is 60 days after February 7, 2014, has established an energy efficiency program for qualified consumers may use an existing list of energy efficiency measures, implementation plan, or measurement and verification system of that program to satisfy the requirements of subparagraph (A) if the Secretary determines the list, plan, or systems are consistent with the purposes of this section.
 
 #### (3) No interest
 
@@ -181,6 +181,8 @@ Not later than 120 days after the end of each fiscal year, the Secretary shall p
 There is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 
 (Pub. L. 107–171, title VI, §6407, as added Pub. L. 113–79, title VI, §6205, Feb. 7, 2014, 128 Stat. 857; amended Pub. L. 115–334, title VI, §6303, Dec. 20, 2018, 132 Stat. 4749.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

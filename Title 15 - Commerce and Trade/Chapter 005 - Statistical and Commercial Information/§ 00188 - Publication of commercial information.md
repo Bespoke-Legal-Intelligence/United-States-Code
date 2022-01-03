@@ -4,9 +4,13 @@ The Secretary of Commerce shall publish official notifications, from time to tim
 
 (R.S. §211; Feb. 14, 1903, ch. 552, §10, 32 Stat. 829; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 R.S. §211 derived from act Aug. 18, 1856, ch. 127, §2, 11 Stat. 60.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

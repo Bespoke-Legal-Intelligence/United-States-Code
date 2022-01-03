@@ -10,7 +10,7 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 (1) The Commission may pay a recruitment bonus to an individual who is newly appointed to a position with the Commission, or a relocation bonus to an employee of the Commission who must relocate to accept a position, if the Commission determines that the Commission would be likely, in the absence of such a bonus, to have difficulty in filling the position.
 
-(2) A recruitment or relocation bonus may be paid to an employee under this subsection only if the employee enters into an agreement with the Commission to complete a period of employment established in the agreement. If the employee voluntarily fails to complete such period of employment or is separated from service in such employment as a result of an adverse action before the completion of such period, the employee shall repay the entire amount of the bonus.
+(2) A recruitment or relocation bonus may be paid to an employee under this subsection only if the employee enters into an agreement with the Commission to complete a period of employment established in the agreement. If the employee voluntarily fails to complete such periodof employment or is separated from service in such employment as a result of an adverse action before the completion of such period, the employee shall repay the entire amount of the bonus.
 
 (3) A recruitment or relocation bonus under this subsection may be paid as a lump sum. A bonus under this subsection may not be considered to be part of the basic pay of an employee.
 
@@ -36,7 +36,7 @@ Any employee described in more than one paragraph of subsection (a) of this sect
 
 Additional compensation provided under this section may not exceed 25 percent of the rate of basic pay of the individual to whom the compensation is paid.
 
-(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, §107(a)(2)(D), Oct. 26, 2017, 131Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
+(Pub. L. 96–70, title I, §1217, Sept. 27, 1979, 93 Stat. 465; Pub. L. 104–201, div. C, title XXXV, §3533, Sept. 23, 1996, 110 Stat. 2863; Pub. L. 105–85, div. C, title XXXV, §3525(a), Nov. 18, 1997, 111 Stat. 2066; Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269; Pub. L. 115–73, title I, §107(a)(2)(D), Oct. 26, 2017, 131 Stat. 1239; Pub. L. 115–91, div. A, title X, §1097(b)(3)(D), Dec. 12, 2017, 131 Stat. 1618.)
 
 #### <b>Editorial Notes</b>
 

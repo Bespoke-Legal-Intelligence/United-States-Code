@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The head of each Executive agency, in accordance with Executive Order 13526, shall require annual training for each employee who has original classification authority. For employees who perform derivative classification, or are responsible for analysis, dissemination, preparation, production, receipt, publication, or otherwise communication of classified information,training shall be provided at least every two years. Such training shall—
+The head of each Executive agency, in accordance with Executive Order 13526, shall require annual training for each employee who has original classification authority. For employees who perform derivative classification, or are responsible for analysis, dissemination, preparation, production, receipt, publication, or otherwise communication of classified information, training shall be provided at least every two years. Such training shall—
 
 &emsp;(1) educate the employee, as appropriate, regarding—
 
@@ -24,6 +24,8 @@ The head of each Executive agency shall ensure that the training required by sub
 
 (Pub. L. 111–258, §7, Oct. 7, 2010, 124 Stat. 2652.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Executive Order 13526, referred to in subsec. (a), is set out as a note under section 3161 of this title.
@@ -33,6 +35,8 @@ Section 5(a)(3), referred to in subsec. (a)(1)(A), probably means section 5(a)(3
 #### Codification
 
 Section was formerly classified to section 435d of this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Definitions
 

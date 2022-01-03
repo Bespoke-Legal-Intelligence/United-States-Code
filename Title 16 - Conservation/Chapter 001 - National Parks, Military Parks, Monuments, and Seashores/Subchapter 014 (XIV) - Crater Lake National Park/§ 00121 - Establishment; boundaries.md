@@ -4,11 +4,15 @@ In order to preserve for the benefit, education, and inspiration of the people o
 
 (May 22, 1902, ch. 820, §1, 32 Stat. 202; Pub. L. 96–553, §1(a), Dec. 19, 1980, 94 Stat. 3255; Pub. L. 97–250, §1(a), Sept. 8, 1982, 96 Stat. 709.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1982</b>—Pub. L. 97–250 substituted "numbered 106–80–001–A, and dated March 1981" for "numbered 106–80,001, and dated February 1980".
 
 <b>1980</b>—Pub. L. 96–553 substituted provisions relating to establishment and map depicting boundaries of Crater Lake National Park for provisions setting out latitude and longitude of Crater Lake National Park and dedication of such Park.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Disposition of Excluded Lands, Water, and Interests
 

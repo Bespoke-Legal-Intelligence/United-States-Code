@@ -36,9 +36,13 @@ The purposes of the Conference shall be—
 
 (Pub. L. 101–501, title IX, §983, Nov. 3, 1990, 104 Stat. 1280; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

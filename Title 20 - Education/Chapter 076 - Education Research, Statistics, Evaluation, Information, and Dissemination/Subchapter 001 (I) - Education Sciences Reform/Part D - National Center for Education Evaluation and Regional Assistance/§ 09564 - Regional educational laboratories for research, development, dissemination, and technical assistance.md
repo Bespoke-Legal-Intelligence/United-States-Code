@@ -36,7 +36,7 @@ The Director may enter into contracts under this section with research organizat
 
 &emsp;In order to ensure coordination and prevent unnecessary duplication of activities among the regions, the Evaluation and Regional Assistance Commissioner shall—
 
-&emsp;&emsp;(A) share information about the activities of each regional educational laboratory awarded a contract under this section with each other regional educational laboratory awarded a contract under this section and with the Department of Education, including the Director and the Board;
+&emsp;&emsp;(A) share information about the activities of each regional educational laboratoryawarded a contract under this section with each other regional educational laboratory awarded a contract under this section and with the Department of Education, including the Director and the Board;
 
 &emsp;&emsp;(B) oversee a strategic plan for ensuring that each regional educational laboratory awarded a contract under this section increases collaboration and resource-sharing in such activities;
 
@@ -90,7 +90,7 @@ Each regional educational laboratory awarded a contract under this section shall
 
 &emsp;(4) in the event such quality applied research does not exist as determined by the regional educational laboratory or the Department, carrying out applied research projects that are designed to serve the particular educational needs (in prekindergarten through grade 16) of the region in which the regional educational laboratory is located, that reflect findings from scientifically valid research, and that result in user-friendly, replicable school-based classroom applications geared toward promoting increased student achievement, including using applied research to assist in solving site-specific problems and assisting in development activities (including high-quality and on-going professional development and effective parental involvement strategies);
 
-&emsp;(5) supporting and serving the educational development activities and needs of the region by providing educational applied research in usable forms to promote school-improvement, academic achievement, and the closing of achievement gaps and contributing to the current base of education knowledge by addressing enduring problems in elementary and secondary education and access to postsecondary education;
+&emsp;(5) supporting and serving the educational development activities and needs of the regionby providing educational applied research in usable forms to promote school-improvement, academic achievement, and the closing of achievement gaps and contributing to the current base of education knowledge by addressing enduring problems in elementary and secondary education and access to postsecondary education;
 
 &emsp;(6) collaborating and coordinating services with other technical assistance providers funded by the Department of Education;
 
@@ -184,7 +184,7 @@ In order to improve the efficiency and effectiveness of the regional educational
 
 #### (j) Evaluations
 
-The Evaluation and Regional Assistance Commissioner shall provide for independent evaluations of each of the regional educational laboratories in carrying out the duties described inthis section in the third year that such laboratory receives assistance under this section in accordance with the standards developed by the Evaluation and Regional Assistance Commissioner and approved by the Board and shall transmit the results of such evaluations to the relevant committees of Congress, the Board, and the appropriate regional educational laboratory governing board.
+The Evaluation and Regional Assistance Commissioner shall provide for independent evaluations of each of the regional educational laboratories in carrying out the duties described in this section in the third year that such laboratory receives assistance under this section in accordance with the standards developed by the Evaluation and Regional Assistance Commissioner and approved by the Board and shall transmit the results of such evaluations to the relevant committees of Congress, the Board, and the appropriate regional educational laboratory governing board.
 
 #### (k) Rule of construction
 
@@ -211,6 +211,8 @@ Not later than July 1 of each year, each regional educational laboratory awarded
 Nothing in this section shall be construed to require any modifications in a regional educational laboratory contract in effect on the day before November 5, 2002.
 
 (Pub. L. 107–279, title I, §174, Nov. 5, 2002, 116 Stat. 1965.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

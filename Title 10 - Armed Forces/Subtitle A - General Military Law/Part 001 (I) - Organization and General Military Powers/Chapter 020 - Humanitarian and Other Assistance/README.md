@@ -15,13 +15,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Chapter was comprised of subchapter I, sections 401 to 404, and subchapter II, section 410, prior to amendment by Pub. L. 104–106, div. A, title V, §571(c), Feb. 10, 1996, 110 Stat. 353, which struck out headings for subchapters I and II.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title X, §1092(b)(2), Dec. 31, 2011, 125 Stat. 1606, added item 407 and struck outformer item 407 "Humanitarian demining assistance: authority; limitations".
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1092(b)(2), Dec. 31, 2011, 125 Stat. 1606, added item 407 and struck out former item 407 "Humanitarian demining assistance: authority; limitations".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1031(b), Oct. 14, 2008, 122 Stat. 4590, added item 409.
 

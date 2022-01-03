@@ -4,9 +4,13 @@ The Secretary of Agriculture is authorized, under such regulations as he may mak
 
 (Mar. 4, 1915, ch. 144, 38 Stat. 1101; July 28, 1956, ch. 771, 70 Stat. 708.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>1956</b>—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be grantedfrom not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
+<b>1956</b>—Act July 28, 1956, increased maximum area of land for each purpose for which permits may be granted from not more than 5 acres to not more than 80 acres, and authorized permits for facilities for public safety, for buildings, structures, and facilities for industrial or commercial purposes whenever such purposes are related to or consistent with other use of the national forests, and for facilities to be used by public or nonprofit agencies for education or public use or in connection with any public activity.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Enhancing Forest Service Administration of Rights-of-Way and Land Uses
 

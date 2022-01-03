@@ -44,7 +44,7 @@ Section was formerly classified in a note under section 509 of Title 28, Judicia
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203, which directed the amendment of subsec. (c)(2) by striking out subpars. (C) and (D) and redesignating subpars. (E) to (H) as "(C) through (G), respectively", was executed by striking subpars. (C) and (D) and redesignating subpars. (E) to (H) as (C) to (F), respectively, to reflect the probable intent of Congress. Former subpars. (C) and (D) related to the Office of Thrift Supervision and the Resolution Trust Corporation, respectively.
+<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203, which directed the amendment of subsec. (c)(2) by strikingout subpars. (C) and (D) and redesignating subpars. (E) to (H) as "(C) through (G), respectively", was executed by striking subpars. (C) and (D) and redesignating subpars. (E) to (H) as (C) to (F), respectively, to reflect the probable intent of Congress. Former subpars. (C) and (D) related to the Office of Thrift Supervision and the Resolution Trust Corporation, respectively.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

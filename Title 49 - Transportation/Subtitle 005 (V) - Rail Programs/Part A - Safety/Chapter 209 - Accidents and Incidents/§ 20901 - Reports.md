@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—Not later than 30 days after the end of each month, a railroad carrier shall file a report with the Secretary of Transportation on all accidents and incidents resulting in injury or death to an individual or damage to equipment or a roadbed arising from the carrier's operations during the month. The report shall be under oath and shall state the nature, cause, and circumstances of each reported accident or incident. If a railroad carrier assigns human error as a cause, the report shall include, at the option of each employee whose error is alleged, a statement by the employee explaining any factors the employee alleges contributed to the accident or incident.
+General Requirements.—Not later than 30 days after the end of each month, a railroad carrier shall file a report with the Secretary of Transportation on all accidents and incidents resulting in injury or death to an individual or damage to equipment or a roadbed arising from the carrier's operations during the month. The report shall be under oath and shall state the nature, cause, and circumstances of each reported accident or incident. If a railroad carrier assigns human error as a cause, the report shall include, at the option of each employee whose error is alleged, a statement by the employeeexplaining any factors the employee alleges contributed to the accident or incident.
 
 (b)
 
@@ -59,6 +59,16 @@ Sept. 3, 1992, Pub. L. 102–365, §15, 106 Stat. 981.
 In this section, the words "accident" and "incident" are used, and the words "collision" and "derailment" are omitted, for consistency in this part. The words "the general manager, superintendent, or other proper officer of" in 45:38 are omitted as surplus because any duty of a railroad carrier must necessarily be carried out through its proper officers and agents. The text of 45:38 (1st sentence proviso) is omitted as executed.
 
 In subsection (b), the words "or incident" are added for consistency. The text of section 15(c) of the Rail Safety Enforcement and Review Act (Pub. L. 102–365, 106 Stat. 981) is omitted as executed.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Safety Reporting
+
+Pub. L. 117–58, div. B, title II, §22421(b), Nov. 15, 2021, 135 Stat. 750, provided that: "Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], and annually thereafter for the following 4 years, the Secretary \[of Transportation\] shall update Special Study Block 49 on Form FRA F 6180.54 (Rail Equipment Accident/Incident Report) to collect, with respect to trains involved in accidents required to be reported to the Federal Railroad Administration—
+
+&emsp;"(1) the number of cars and length of the involved trains; and
+
+&emsp;"(2) the number of crew members who were aboard a controlling locomotive involved in an accident at the time of such accident."
 
 #### Accident and Incident Reporting
 

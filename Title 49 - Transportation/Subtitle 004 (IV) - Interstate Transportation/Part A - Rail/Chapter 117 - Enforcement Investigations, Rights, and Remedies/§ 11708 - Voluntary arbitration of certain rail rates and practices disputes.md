@@ -24,7 +24,7 @@ Covered Disputes.—The voluntary and binding arbitration process established pu
 
 &emsp;&emsp;(D) that are solely between 2 or more rail carriers; and
 
-&emsp;(3) shall not prevent parties from independently seeking or utilizing private arbitrationservices to resolve any disputes the parties may have.
+&emsp;(3) shall not prevent parties from independently seeking or utilizing private arbitration services to resolve any disputes the parties may have.
 
 (c)
 
@@ -165,6 +165,8 @@ Board Review.—If a party appeals a decision under this section to the Board, t
 &emsp;(4) the award limitation under subsection (g) was violated.
 
 (Added Pub. L. 114–110, §13(a), Dec. 18, 2015, 129 Stat. 2235.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

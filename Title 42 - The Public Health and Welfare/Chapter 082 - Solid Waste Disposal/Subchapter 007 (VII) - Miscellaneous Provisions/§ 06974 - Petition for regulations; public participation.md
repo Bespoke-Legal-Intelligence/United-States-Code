@@ -18,9 +18,13 @@ Any person may petition the Administrator for the promulgation, amendment, or re
 
 (Pub. L. 89–272, title II, §7004, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2826; amended Pub. L. 96–482, §26, Oct. 21, 1980, 94 Stat. 2348.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–482 designated existing provisions as par. (1) and added par. (2).
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

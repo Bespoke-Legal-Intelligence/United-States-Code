@@ -1,8 +1,12 @@
 ### §14042. Transferred
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section 14042 was editorially reclassified as section 12431 of Title 34, Crime Control and Law Enforcement.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Study of State Laws Regarding Insurance Discrimination Against Victims of Violence Against Women
 

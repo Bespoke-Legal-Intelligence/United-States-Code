@@ -6,7 +6,7 @@ Notwithstanding any provision of chapter 83 of title 5, the annuity under subcha
 
 #### (b) Computation rules
 
-(1) The portion of the annuity relating to such service abroad that is actually performed at any time during the officer's or employee's first ten years of total service shall be computed at the rate and using the percent of average pay specified in section 8339(a)(3) of title 5 that is normally applicable only to so much of an employee's total service as exceeds ten years.
+(1) The portion of the annuity relating to such service abroad that is actually performed at any time during the officer's or employee's first ten years of total service shall be computed at therate and using the percent of average pay specified in section 8339(a)(3) of title 5 that is normally applicable only to so much of an employee's total service as exceeds ten years.
 
 (2) The portion of the annuity relating to service abroad as described in subsection (a) but that is actually performed at any time after the officer's or employee's first ten years of total service shall be computed as provided in section 8339(a)(3) of title 5; but, in addition, the officer or employee shall be deemed for annuity computation purposes to have actually performed an equivalent period of service abroad during his or her first ten years of total service, and in calculating the portion of the officer's or employee's annuity for his or her first ten years of total service, the computation rate and percent of average pay specified in paragraph (1) shall also be applied to the period of such deemed or equivalent service abroad.
 
@@ -24,6 +24,8 @@ The provisions of subsection (a) of this section shall not apply to an officer o
 
 (June 20, 1949, ch. 227, §18, as added Pub. L. 101–193, title III, §305, Nov. 30, 1989, 103 Stat. 1704; amended Pub. L. 102–496, title VIII, §803(a)(2), Oct. 24, 1992, 106 Stat. 3252.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Subsection (o) of section 8339 of title 5, referred to in subsec. (c), was redesignated subsec. (p) of that section by Pub. L. 102–378, §2(62), Oct. 2, 1992, 106 Stat. 1354.
@@ -35,6 +37,8 @@ Section was formerly classified to section 403r of this title prior to editorial
 #### Amendments
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–496 substituted reference to section 2013 of this title for reference in original to section 203 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees which was formerly set out as a note under section 403 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1992 Amendment
 

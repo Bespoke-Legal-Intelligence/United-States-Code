@@ -14,7 +14,7 @@ Planning and Training Grants.—(1) The Secretary shall make grants to States an
 
 (3) The Secretary may make a grant to a State or Indian tribe under paragraph (1) of this subsection only if—
 
-&emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the Federal Government) for the purpose of the grant will at least equal the average level of expenditure for the last 5 years; and
+&emsp;(A) the State or Indian tribe certifies that the total amount the State or Indian tribe expends (except amounts of the Federal Government) for the purpose of the grant will at leastequal the average level of expenditure for the last 5 years; and
 
 &emsp;(B) any emergency response training provided under the grant shall consist of—
 
@@ -74,7 +74,7 @@ Government's Share of Costs.—A grant under this section is for 80 percent of t
 
 (e)
 
-Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitorpublic sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
+Monitoring and Technical Assistance.—In coordination with the Secretaries of Transportation and Energy, Administrator of the Environmental Protection Agency, and Director of the National Institute of Environmental Health Sciences, the Administrator of the Federal Emergency Management Agency shall monitor public sector emergency response planning and training for an accident or incident involving hazardous material. Considering the results of the monitoring, the Secretaries, Administrators, and Director each shall provide technical assistance to a State, political subdivision of a State, or Indian tribe for carrying out emergency response training and planning for an accident or incident involving hazardous material and shall coordinate the assistance using the existing coordinating mechanisms of the National Response Team and, for radioactive material, the Federal Radiological Preparedness Coordinating Committee.
 
 (f)
 
@@ -134,7 +134,7 @@ Supplemental Training Grants.—
 
 &emsp;(5) The Secretary may not award a grant to an organization under this subsection unless the organization ensures that emergency responders who receive training under the grant will have the ability to protect nearby persons, property, and the environment from the effects of accidents or incidents involving the transportation of hazardous material in accordance with existing regulations or National Fire Protection Association standards for competence of responders to accidents and incidents involving hazardous materials.
 
-&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by theSecretary, a grant awarded by the Secretary to an organization under this subsection to conduct hazardous material response training programs may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
+&emsp;(6) Notwithstanding paragraphs (1) and (3), to the extent determined appropriate by the Secretary, a grant awarded by the Secretary to an organization under this subsection to conduct hazardous material response training programs may be used to train individuals with responsibility to respond to accidents and incidents involving hazardous material.
 
 &emsp;(7) For the purposes of this subsection, the term "portable training" means live, instructor-led training provided by certified fire service instructors that can be offered in any suitable setting, rather than specific designated facilities. Under this training delivery model, instructors travel to locations convenient to students and utilize local facilities and resources.
 
@@ -142,7 +142,57 @@ Supplemental Training Grants.—
 
 (j)
 
-Reports.—The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning and training grants under subsection (a) and grants under subsection (i) of this section and under subsections (e) and (i) of section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
+Alert Grant Program.—
+
+&emsp;(1)
+
+Assistance for local emergency response training.—The Secretary shall establish a grant program to make grants to eligible entities described in paragraph (2)—
+
+&emsp;&emsp;(A) to develop a hazardous materials response training curriculum for emergency responders, including response activities for the transportation of crude oil, ethanol, and other flammable liquids by rail, consistent with the standards of the National Fire Protection Association; and
+
+&emsp;&emsp;(B) to make the training described in subparagraph (A) available in an electronic format.
+
+&emsp;(2)
+
+Eligible entities.—An eligible entity referred to in paragraph (1) is a nonprofit organization that—
+
+&emsp;&emsp;(A) represents first responders or public officials responsible for coordinating disaster response; and
+
+&emsp;&emsp;(B) is able to provide direct or web-based training to individuals responsible for responding to accidents and incidents involving hazardous materials.
+
+&emsp;(3)
+
+Funding.—
+
+&emsp;&emsp;(A)
+
+In general.—To carry out the grant program under paragraph (1), the Secretary may use, for each fiscal year, any amounts recovered during such fiscal year from grants awarded under this section during a prior fiscal year.
+
+&emsp;&emsp;(B)
+
+Other hazardous material training activities.—For each fiscal year, after providing grants under paragraph (1), if funds remain available, the Secretary may use the amounts described in subparagraph (A)—
+
+&emsp;&emsp;&emsp;(i) to make grants under—
+
+&emsp;&emsp;&emsp;&emsp;(I) subsection (a)(1)(C);
+
+&emsp;&emsp;&emsp;&emsp;(II) subsection (i); and
+
+&emsp;&emsp;&emsp;&emsp;(III) section 5107(e);
+
+&emsp;&emsp;&emsp;(ii) to conduct monitoring and provide technical assistance under subsection (e);
+
+&emsp;&emsp;&emsp;(iii) to publish and distribute the emergency response guide referred to in subsection (h)(3); and
+
+&emsp;&emsp;&emsp;(iv) to pay administrative costs in accordance with subsection (h)(4).
+
+&emsp;&emsp;(C)
+
+Obligation limitation.—Notwithstanding any other provision of law, for each fiscal year, amounts described in subparagraph (A) shall not be included in the obligation limitation for the Hazardous Materials Emergency Preparedness grant program for that fiscal year.
+
+(k)
+
+Reports.—The Secretary shall submit an annual report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate and make available the report to the public. The report submitted under this subsection shall include information on the allocation and uses of the planning and training grants under subsection (a) and grants under subsections (i) and (j) of this section and under subsections (e) and (i) of section 5107. The report submitted under this subsection shall identify the ultimate recipients of such grants and include—
 
 &emsp;(1) a detailed accounting and description of each grant expenditure by each grant recipient, including the amount of, and purpose for, each expenditure;
 
@@ -152,7 +202,7 @@ Reports.—The Secretary shall submit an annual report to the Committee on Trans
 
 &emsp;(4) any recommendations the Secretary may have for improving such grant programs.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(b), July 6, 2012, 126 Stat. 832; Pub. L. 114–94, div. A, title VII, §7203(a), (b)(2), Dec. 4, 2015, 129 Stat. 1589, 1591.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 773; Pub. L. 103–311, title I, §§105, 119(a), (d)(2), (3), Aug. 26, 1994, 108 Stat. 1673, 1679, 1680; Pub. L. 103–429, §7(c), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–287, §§5(8), 6(b), Oct. 11, 1996, 110 Stat. 3389, 3398; Pub. L. 109–59, title VII, §§7114(a)–(d)(2), (e), 7126, Aug. 10, 2005, 119 Stat. 1900, 1909; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 112–141, div. C, title III, §33004(b), July 6, 2012, 126 Stat. 832; Pub. L. 114–94, div. A, title VII, §7203(a), (b)(2), Dec. 4, 2015, 129 Stat. 1589, 1591; Pub. L. 117–58, div. B, title VI, §26002, Nov. 15, 2021, 135 Stat. 882.)
 
 Historical and Revision Notes
 
@@ -234,17 +284,25 @@ In subsection (h), the words "including coordination of training programs" are o
 
 This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
 
 #### Amendments
 
+<b>2021</b>—Subsec. (j). Pub. L. 117–58, §26002(3), added subsec. (j). Former subsec. (j) redesignated (k).
+
+Pub. L. 117–58, §26002(1), substituted "subsections (i) and (j)" for "subsection (i)" in introductory provisions.
+
+Subsec. (k). Pub. L. 117–58, §26002(2), redesignated subsec. (j) as (k).
+
 <b>2015</b>—Subsec. (a). Pub. L. 114–94, §7203(a)(3), added subsec. (a) and struck out former subsec. (a) which related to planning grants.
 
 Subsecs. (b), (c). Pub. L. 114–94, §7203(a)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which related to training grants.
 
-Subsec. (d). Pub. L. 114–94, §7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted "subsection (a)(3)(A)" for "subsections (a)(2)(A) and (b)(2)(A)". Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 114–94, §7203(a)(1), (b)(2)(A), redesignated subsec. (e) as (d) and substituted "subsection\(a)(3)(A)" for "subsections (a)(2)(A) and (b)(2)(A)". Former subsec. (d) redesignated (c).
 
 Subsecs. (e) to (g). Pub. L. 114–94, §7203(a)(1), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 
@@ -324,9 +382,11 @@ Subsec. (i)(3). Pub. L. 103–311, §119(d)(3), as amended by Pub. L. 103–429,
 
 Subsecs. (j), (k). Pub. L. 103–311, §119(a), added subsecs. (j) and (k).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Administrator of the Federal Emergency Management Agency", "Administrators, and Director", and "Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences" substituted for "Director of the Federal Emergency Management Agency", "Administrator, and Directors", and "Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences", respectively, in subsecs. (f) to (h), on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to theDirector of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+"Administrator of the Federal Emergency Management Agency", "Administrators, and Director", and "Administrator of the Federal Emergency Management Agency, Director of the National Institute of Environmental Health Sciences" substituted for "Director of the Federal Emergency Management Agency", "Administrator, and Directors", and "Directors of the Federal Emergency Management Agency and National Institute of Environmental Health Sciences", respectively, in subsecs. (f) to (h), on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
 
 #### Effective Date of 2015 Amendment
 

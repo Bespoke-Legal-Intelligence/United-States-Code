@@ -14,7 +14,7 @@ There is established a commission to be known as the "Judicial Review Commission
 
 &emsp;(C) One member shall be appointed by the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives.
 
-&emsp;(D) One member shall be appointed by the Ranking Minority Member of the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;(D) One member shall be appointed by the Ranking Minority Member of the PermanentSelect Committee on Intelligence of the House of Representatives.
 
 &emsp;(E) One member shall be appointed jointly by the members appointed under subparagraphs (A) through (D).
 
@@ -60,7 +60,7 @@ The Commission shall have as its duties the following:
 
 &emsp;(iii) The Central Intelligence Agency.
 
-(3) All staff of the Commission shall possess a security clearance in accordance with applicablelaws and regulations concerning the handling of classified information.
+(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
 
 #### (f) Compensation and travel expenses
 

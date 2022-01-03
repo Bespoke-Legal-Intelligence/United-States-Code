@@ -6,9 +6,13 @@ Beginning at a point on the existing property line between the United States nav
 
 (Dec. 23, 1944, ch. 721, 58 Stat. 923.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was not enacted as part of act July 3, 1930, ch. 837, 46 Stat. 855, which comprises this subchapter.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Sewage-Disposal System for Yorktown Area
 

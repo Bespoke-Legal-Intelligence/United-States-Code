@@ -60,7 +60,7 @@ For the purpose of this section, the term "outlying area" means the United State
 
 #### (2) Payments
 
-&emsp;From the amount allotted for payments to the Secretary of the Interior under subsection\(a)(2), the Secretary of the Interior shall make payments to local educational agencies, on such terms as the Secretary determines will best carry out the purposes of this part, with respect to out-of-State Indian children described in paragraph (1). The amount of such payment may not exceed, for each such child, the greater of—
+&emsp;From the amount allotted for payments to the Secretary of the Interior under subsection (a)(2), the Secretary of the Interior shall make payments to local educational agencies, on such terms as the Secretary determines will best carry out the purposes of this part, with respect to out-of-State Indian children described in paragraph (1). The amount of such payment may not exceed, for each such child, the greater of—
 
 &emsp;&emsp;(A) 40 percent of the average per-pupil expenditure in the State in which the agency is located; or
 
@@ -71,6 +71,8 @@ For the purpose of this section, the term "outlying area" means the United State
 If, by reason of the application of subsection (a) for any fiscal year, the total amount available for allocation to all States under this part would be less than the amount allocated to all States for fiscal year 2016 under this part, the Secretary shall provide assistance to the outlying areas and the Secretary of the Interior in accordance with this section, as in effect on the day before December 10, 2015.
 
 (Pub. L. 89–10, title I, §1121, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1513; amended Pub. L. 114–95, title I, §1014, Dec. 10, 2015, 129 Stat. 1876.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -83,6 +85,8 @@ A prior section 6331, Pub. L. 89–10, title I, §1121, as added Pub. L. 103–3
 #### Amendments
 
 <b>2015</b>—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to reservation of one percent of funds for assistance to outlying areas and the Secretary of the Interior, grants to outlying areas, definitions, and allotment to the Secretary of the Interior to meet special educational needs of Indian children.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2015 Amendment
 

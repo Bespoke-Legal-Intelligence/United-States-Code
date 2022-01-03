@@ -206,7 +206,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (7) Interest expense
 
-&emsp;The term "interest expense" means the aggregate amount allowable to the taxpayer as a deduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
+&emsp;The term "interest expense" means the aggregate amount allowable to the taxpayer as adeduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
 
 #### (8) Aggregation rules
 
@@ -219,6 +219,8 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 &emsp;&emsp;This subsection shall not apply to an insurance company subject to tax under subchapter L, and subparagraph (A) shall be applied without regard to any member of an affiliated group which is an insurance company.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 77; Pub. L. 88–272, title II, §215(a), (b), Feb. 26, 1964, 78 Stat. 55; Pub. L. 99–514, title X, §1003(a), (b), Oct. 22, 1986, 100 Stat. 2388; Pub. L. 104–191, title V, §501(a), (b), Aug. 21, 1996, 110 Stat. 2090; Pub. L. 105–34, title X, §1084(a), (b)(1), (c), title XVI, §1602(f)(1)–(3), Aug. 5, 1997, 111 Stat. 951, 952, 1094, 1095; Pub. L. 105–206, title VI, §6010(o)(1)–(3)(A), (4)(A), (5), July 22, 1998, 112 Stat. 816; Pub. L. 105–277, div. J, title IV, §4003(i), Oct. 21, 1998, 112 Stat. 2681–910.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -283,6 +285,8 @@ Subsec. (d). Pub. L. 104–191, §501(b)(2), added subsec. (d).
 <b>1964</b>—Subsec. (a). Pub. L. 88–272 added par. (3) and sentence providing that par. (3) shall apply only to contracts purchased after August 6, 1963.
 
 Subsec. (c). Pub. L. 88–272 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendments
 

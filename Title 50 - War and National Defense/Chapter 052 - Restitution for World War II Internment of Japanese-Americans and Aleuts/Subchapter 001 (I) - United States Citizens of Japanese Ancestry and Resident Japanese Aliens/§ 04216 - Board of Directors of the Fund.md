@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established the Civil Liberties Public Education Fund Board of Directors, which shallbe responsible for making disbursements from the Fund in the manner provided in this section.
+There is established the Civil Liberties Public Education Fund Board of Directors, which shall be responsible for making disbursements from the Fund in the manner provided in this section.
 
 #### (b) Uses of the Fund
 
@@ -34,7 +34,7 @@ The Board may make disbursements from the Fund only—
 
 #### (3) Compensation
 
-&emsp;Members of the Board shall serve without pay, except that members of the Board shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Board, in the same manner as persons employed intermittently in the United States Government are allowed expenses under section 5703 of title 5.
+&emsp;Members of the Board shall serve without pay, except that members of the Board shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Board, in the same manner as personsemployed intermittently in the United States Government are allowed expenses under section 5703 of title 5.
 
 #### (4) Quorum
 
@@ -76,6 +76,8 @@ Not later than 12 months after the first meeting of the Board and every 12 month
 
 (Pub. L. 100–383, title I, §106, Aug. 10, 1988, 102 Stat. 908.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 5311(b) of title 5, referred to in subsec. (d)(3), was repealed by Pub. L. 101–509, title V, §529 \[title I, §104(c)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1447.
@@ -83,6 +85,8 @@ Section 5311(b) of title 5, referred to in subsec. (d)(3), was repealed by Pub. 
 #### Codification
 
 Section was formerly classified to section 1989b–5 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

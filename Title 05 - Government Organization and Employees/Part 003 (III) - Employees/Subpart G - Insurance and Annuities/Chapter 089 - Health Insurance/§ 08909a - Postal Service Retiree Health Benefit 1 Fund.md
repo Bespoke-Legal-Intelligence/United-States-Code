@@ -46,7 +46,7 @@
 
 &emsp;(ii) any annual installment computed under paragraph (2)(B).
 
-(4) Computations under this subsection shall be made consistent with the assumptions and methodology used by the Office for financial reporting under subchapter II of chapter 35 of title 31.
+(4) Computations under this subsection shall be made consistent with the assumptions andmethodology used by the Office for financial reporting under subchapter II of chapter 35 of title 31.
 
 (5)(A)(i) Any computation or other determination of the Office under this subsection shall, upon request of the United States Postal Service, be subject to a review by the Postal Regulatory Commission under this paragraph.
 

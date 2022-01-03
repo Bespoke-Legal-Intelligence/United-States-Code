@@ -18,7 +18,7 @@ The Administrator, in consultation with the Secretary of Commerce, the Secretary
 
 #### (b) Benefits
 
-In describing the benefits of a standard described in subsection (a), the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numericalvalues are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+In describing the benefits of a standard described in subsection (a), the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
 
 #### (c) Costs
 
@@ -50,6 +50,8 @@ The Council shall—
 
 (July 14, 1955, ch. 360, title III, §312, formerly §305, as added Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 505; renumbered §312 and amended Pub. L. 91–604, §§12(a), 15(c)(2), Dec. 31, 1970, 84 Stat. 1705, 1713; Pub. L. 95–95, title II, §224(c), Aug. 7, 1977, 91 Stat. 767; Pub. L. 101–549, title VIII, §812(a), Nov. 15, 1990, 104 Stat. 2691.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Subsec. (e) of this section, which required the Administrator, in consultation with the Secretary of Commerce, the Secretary of Labor, and the Council on Clean Air Compliance Analysis, to submit a report to Congress that updates the report issued pursuant to subsec. (d) of this section, and which, in addition, makes projections into the future regarding expected costs, benefits, and other effects of compliance with standards pursuant to this chapter as listed in subsec. (a) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, the 4th item on page 163 of House Document No. 103–7.
@@ -63,6 +65,8 @@ Section was formerly classified to section 1857j–1 of this title.
 <b>1977</b>—Subsec. (c). Pub. L. 95–95 added subsec. (c).
 
 <b>1970</b>—Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1977 Amendment
 
@@ -100,7 +104,7 @@ In general.—Within 18 months after the date of the enactment of the Clean Air 
 
 &emsp;&emsp;&emsp;"(i) the significant air quality standards and controls required under this Act, and
 
-&emsp;&emsp;&emsp;"(ii) the differences between the significant standards and controls required under this Actand similar standards and controls adopted and enforced by the major trading partners of the United States,
+&emsp;&emsp;&emsp;"(ii) the differences between the significant standards and controls required under this Act and similar standards and controls adopted and enforced by the major trading partners of the United States,
 
 &nbsp;&nbsp;on the international competitiveness of United States manufacturers; and
 
@@ -108,7 +112,7 @@ In general.—Within 18 months after the date of the enactment of the Clean Air 
 
 &emsp;"(2)
 
-Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
+Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air qualitystandards and controls required under this Act are comparable to existing internationally-agreed norms.
 
 &emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
 

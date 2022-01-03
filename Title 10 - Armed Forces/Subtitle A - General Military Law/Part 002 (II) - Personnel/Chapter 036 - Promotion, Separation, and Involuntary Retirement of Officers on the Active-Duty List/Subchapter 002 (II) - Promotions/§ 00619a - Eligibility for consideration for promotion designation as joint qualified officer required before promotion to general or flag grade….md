@@ -46,6 +46,8 @@ Limitation for General and Flag Officers Previously Receiving Joint Duty Assignm
 
 (Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099; Pub. L. 108–375, div. A, title V, §533, Oct. 28, 2004, 118 Stat. 1901; Pub. L. 110–417, \[div. A\], title V, §521(a), (b)(1), Oct. 14, 2008, 122 Stat. 4444; Pub. L. 116–283, div. A, title IX, §924(b)(3)(F), Jan. 1, 2021, 134 Stat. 3821.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
@@ -82,6 +84,8 @@ Subsec. (h). Pub. L. 106–65, §508(b), substituted "An officer of the Navy" fo
 
 <b>1996</b>—Subsec. (h)(2). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Proposed Legislative Changes
 
 Pub. L. 107–107, div. A, title V, §525(c), Dec. 28, 2001, 115 Stat. 1099, directed the Secretary of Defense to submit to Congress, not later than Dec. 1, 2002, a draft proposal for such legislative changes to this section as the Secretary considered were needed to implement the amendment made to this section by section 525(a), (b) of Pub. L. 107–107.
@@ -92,7 +96,7 @@ Pub. L. 103–160, div. A, title IX, §931(d), Nov. 30, 1993, 107 Stat. 1734, di
 
 #### Plan for Service by Qualified Nuclear Propulsion Officers in Joint Duty Assignments by January 1, 1997; Implementation; Report
 
-Pub. L. 103–160, div. A, title IX, §931(f)(2), Nov. 30, 1993, 107 Stat. 1734, as amended by Pub. L. 103–337, div.A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
+Pub. L. 103–160, div. A, title IX, §931(f)(2), Nov. 30, 1993, 107 Stat. 1734, as amended by Pub. L. 103–337, div. A, title X, §1070(b)(8)(A), Oct. 5, 1994, 108 Stat. 2857, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
 
 Pub. L. 100–456, div. A, title V, §515(a)(3), Sept. 29, 1988, 102 Stat. 1970, directed the Secretary of Defense to revise the transition plan developed pursuant to Pub. L. 100–180, §1305(b), formerly set out below, and to report on the revisions.
 

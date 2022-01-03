@@ -14,7 +14,7 @@ The Board shall, subject to action by the Commission under section 7217 of this 
 
 &emsp;(1) register public accounting firms that prepare audit reports for issuers, brokers, and dealers, in accordance with section 7212 of this title;
 
-&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, and other standards relating to the preparation of audit reports for issuers, brokers, and dealers, in accordance with section 7213 of this title;
+&emsp;(2) establish or adopt, or both, by rule, auditing, quality control, ethics, independence, andother standards relating to the preparation of audit reports for issuers, brokers, and dealers, in accordance with section 7213 of this title;
 
 &emsp;(3) conduct inspections of registered public accounting firms, in accordance with section 7214 of this title and the rules of the Board;
 
@@ -52,7 +52,7 @@ The members of the Board shall take such action (including hiring of staff, prop
 
 #### (B) Vacancies
 
-&emsp;&emsp;A vacancy on the Board shall not affect the powers of the Board, but shall be filled inthe same manner as provided for appointments under this section.
+&emsp;&emsp;A vacancy on the Board shall not affect the powers of the Board, but shall be filled in the same manner as provided for appointments under this section.
 
 #### (5) Term of service
 
@@ -78,7 +78,7 @@ In addition to any authority granted to the Board otherwise in this Act, the Boa
 
 &emsp;(1) to sue and be sued, complain and defend, in its corporate name and through its own counsel, with the approval of the Commission, in any Federal, State, or other court;
 
-&emsp;(2) to conduct its operations and maintain offices, and to exercise all other rights and powers authorized by this Act, in any State, without regard to any qualification, licensing, or other provision of law in effect in such State (or a political subdivision thereof);
+&emsp;(2) to conduct its operations and maintain offices, and to exercise all other rights andpowers authorized by this Act, in any State, without regard to any qualification, licensing, or other provision of law in effect in such State (or a political subdivision thereof);
 
 &emsp;(3) to lease, purchase, accept gifts or donations of or otherwise acquire, improve, use, sell, exchange, or convey, all of or an interest in any property, wherever situated;
 
@@ -112,6 +112,8 @@ The Board shall submit an annual report (including its audited financial stateme
 
 (Pub. L. 107–204, title I, §101, July 30, 2002, 116 Stat. 750; Pub. L. 111–203, title IX, §982(b), July 21, 2010, 124 Stat. 1928.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This Act, referred to in subsecs. (b), (c)(5), (6), (f), and (g)(1), (4), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
@@ -120,13 +122,15 @@ The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), 
 
 #### Constitutionality
 
-For information regarding constitutionality of certain provisions of section 101 of Pub. L. 107–204, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–203, §982(b)(2), substituted "companies that" for "public companies that" and struck out "for companies the securities of which are sold to, and held by and for, public investors" after "independent audit reports".
 
 Subsecs. (c)(1), (2), (e)(1). Pub. L. 111–203, §982(b)(1), substituted "issuers, brokers, and dealers" for "issuers".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

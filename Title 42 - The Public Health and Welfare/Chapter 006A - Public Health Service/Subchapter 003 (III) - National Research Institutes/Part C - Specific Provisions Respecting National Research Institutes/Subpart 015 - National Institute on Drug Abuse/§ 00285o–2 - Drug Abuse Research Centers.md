@@ -56,6 +56,8 @@ The Director of the Institute shall, under such conditions as the Secretary may 
 
 (July 1, 1944, ch. 373, title IV, §464N, as added Pub. L. 102–321, title I, §123(b), July 10, 1992, 106 Stat. 361; amended Pub. L. 102–352, §2(a)(4), Aug. 26, 1992, 106 Stat. 938; Pub. L. 106–310, div. B, title XXXVI, §3631, Oct. 17, 2000, 114 Stat. 1235; Pub. L. 107–273, div. B, title II, §2203, Nov. 2, 2002, 116 Stat. 1794; Pub. L. 109–482, title I, §103(b)(34), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 292a of this title, referred to in subsec. (b), was in the original a reference to section 701 of act July 1, 1944. Section 701 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 701 of act July 1, 1944, relating to statement of purpose, and a new section 702, relating to scope and duration of loan insurance program, which are classified to sections 292 and 292a, respectively, of this title. For provisions relating to definitions, see sections 292o and 295p of this title.
@@ -69,6 +71,8 @@ Section 292a of this title, referred to in subsec. (b), was in the original a re
 <b>2000</b>—Subsec. (c). Pub. L. 106–310 added subsec. (c).
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–352 substituted "292a(1)" for "292a(2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

@@ -22,7 +22,9 @@ Objectives.—Policies established and guidance issued pursuant to subsection (a
 
 Key Work Experiences.—In carrying out subsection (b)(2), the Secretary shall ensure that key work experiences, in the form of multidisciplinary experiences, are developed for each acquisition workforce career field.
 
-(Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302; amended Pub. L. 112–239, div. A, title X, §1076(d)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–91, div. A, title X, §1051(a)(8), Dec. 12, 2017, 131 Stat. 1560; Pub. L.116–92, div. A, title VIII, §861(g)(1), title IX, §902(17), Dec. 20, 2019, 133 Stat. 1518, 1545.)
+(Added Pub. L. 111–383, div. A, title VIII, §873(a)(1), Jan. 7, 2011, 124 Stat. 4302; amended Pub. L. 112–239, div. A, title X, §1076(d)(1), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 115–91, div. A, title X, §1051(a)(8), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 116–92, div. A, title VIII, §861(g)(1), title IX, §902(17), Dec. 20, 2019, 133 Stat. 1518, 1545.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -35,6 +37,8 @@ Subsec. (c). Pub. L. 116–92, §861(g)(1), added subsec. (c).
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §1076(d)(1)(A), substituted "subsections (b)(1)(A) and (b)(1)(B)" for "subsections (b)(2)(A) and (b)(2)(B)".
 
 Subsec. (c)(4). Pub. L. 112–239, §1076(d)(1)(B), substituted "or 1734(d)" for "1734(d), or 1736(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Plan for Implementation of Key Work Experiences
 
@@ -50,7 +54,7 @@ Establishment of Program Manager Development Program.—
 
 &emsp;"(1)
 
-In general.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall implement a program manager development program to provide for the professional development of high-potential, experienced civilian personnel. Personnel shall be competitively selected for the program based on their potential to become a program manager of a major defense acquisition program, as defined in section 2430 of title 10, United States Code. The program shall be administered and overseen by the Secretary of each military department, acting through the service acquisition executive for the department concerned.
+In general.—The Secretary of Defense, in consultation with the Secretaries of the military departments, shall implement a program manager development program to provide for the professional development of high-potential, experienced civilian personnel. Personnel shall be competitively selected for the program based on their potential to become a program manager of a major defense acquisition program, as defined in section 2430 of title 10, United States Code \[now 10 U.S.C. 4201\]. The program shall be administered and overseen by the Secretary of each military department, acting through the service acquisition executive for the department concerned.
 
 &emsp;"(2)
 

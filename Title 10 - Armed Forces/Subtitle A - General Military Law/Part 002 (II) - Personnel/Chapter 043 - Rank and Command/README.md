@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title IX, §924(b)(2)(C), (20)(C), Jan. 1, 2021, 134 Stat. 3821, 3824, added items 743 and 747 and struck out former items 743 "Rank: Chief of Staff of the Army; Chief of Naval Operations; Chief of Staff of the Air Force; Commandant of the Marine Corps" and 747 "Command: when different commands of Army, Navy, Air Force, Marine Corps, and Coast Guard join".

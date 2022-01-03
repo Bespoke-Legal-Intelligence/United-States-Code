@@ -10,7 +10,7 @@ In this subchapter:
 
 #### (2) Courts
 
-&emsp;The term "courts" means any civil or criminal, tribal, and Alaska Native Village, Federal, State, local or territorial court having jurisdiction to address domestic violence, dating violence, sexual assault or stalking, including immigration, family, juvenile, and dependency courts, and the judicial officers serving in those courts, including judges, magistrate judges, commissioners, justices of the peace, or any other person with decisionmaking authority.
+&emsp;The term "courts" means any civil or criminal, tribal, and Alaska Native Village, Federal, State, local or territorial court havingjurisdiction to address domestic violence, dating violence, sexual assault or stalking, including immigration, family, juvenile, and dependency courts, and the judicial officers serving in those courts, including judges, magistrate judges, commissioners, justices of the peace, or any other person with decisionmaking authority.
 
 #### (3) Child abuse and neglect
 
@@ -42,7 +42,7 @@ In this subchapter:
 
 #### (8) Domestic violence
 
-&emsp;The term "domestic violence" includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, bya person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction.
+&emsp;The term "domestic violence" includes felony or misdemeanor crimes of violence committed by a current or former spouse or intimate partner of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim as a spouse or intimate partner, by a person similarly situated to a spouse of the victim under the domestic or family violence laws of the jurisdiction receiving grant monies, or by any other person against an adult or youth victim who is protected from that person's acts under the domestic or family violence laws of the jurisdiction.
 
 #### (9) Dating partner
 
@@ -134,7 +134,7 @@ In this subchapter:
 
 #### (22) Population specific services
 
-&emsp;The term "population specific services" means victim-centered services that addressthe safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
+&emsp;The term "population specific services" means victim-centered services that address the safety, health, economic, legal, housing, workplace, immigration, confidentiality, or other needs of victims of domestic violence, dating violence, sexual assault, or stalking, and that are designed primarily for and are targeted to a specific underserved population.
 
 #### (23) Prosecution
 
@@ -168,7 +168,7 @@ In this subchapter:
 
 #### (27) Rural State
 
-&emsp;The term "rural State" means a State that has a population density of 57 or fewer persons per square mile or a State in which the largest county has fewer than 250,000 people, based on the most recent decennial census.
+&emsp;The term "rural State" means a State that has a population density of 57 or fewer personsper square mile or a State in which the largest county has fewer than 250,000 people, based on the most recent decennial census.
 
 #### (28) Sex trafficking
 
@@ -210,7 +210,7 @@ In this subchapter:
 
 &emsp;The term "tribal coalition" means an established nonprofit, nongovernmental Indian organization, Alaska Native organization, or a Native Hawaiian organization that—
 
-&emsp;&emsp;(A) provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, includingshelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
+&emsp;&emsp;(A) provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
 
 &emsp;&emsp;(B) is comprised of board and general members that are representative of—
 
@@ -388,7 +388,7 @@ In this subchapter:
 
 #### (A) Nondiscrimination
 
-&emsp;&emsp;No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made available under the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080),<sup>2</sup> the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
+&emsp;&emsp;No person in the United States shall, on the basis of actual or perceived race, color, religion, national origin, sex, gender identity (as defined in paragraph 249(c)(4) of title 18), sexual orientation, or disability, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity funded in whole or in part with funds made availableunder the Violence Against Women Act of 1994 (title IV of Public Law 103–322; 108 Stat. 1902), the Violence Against Women Act of 2000 (division B of Public Law 106–386; 114 Stat. 1491), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (title IX of Public Law 109–162; 119 Stat. 3080),<sup>2</sup> the Violence Against Women Reauthorization Act of 2013, and any other program or activity funded in whole or in part with funds appropriated for grants, cooperative agreements, and other assistance administered by the Office on Violence Against Women.
 
 #### (B) Exception
 
@@ -524,7 +524,7 @@ This Act, referred to in subsec. (b)(1), (2)(F), (15)(A), (16), is Pub. L. 103�
 
 The Violence Against Women Act of 1994, referred to in subsec. (b)(13)(A), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of this title and Tables.
 
-The Violence Against Women Act of 2000, referred to in subsec. (b)(13)(A), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under section 10101 of this title and Tables.
+The Violence Against Women Act of 2000, referred to in subsec. (b)(13)(A), is div. B of Pub. L. 106–386, Oct. 28,2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under section 10101 of this title and Tables.
 
 The Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsec. (b)(13)(A), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of this title and Tables.
 
@@ -638,7 +638,7 @@ Subsec. (b)(2)(B). Pub. L. 113–4, §3(b)(1)(A), added cls. (i) and (ii) and co
 
 Subsec. (b)(2)(D). Pub. L. 113–4, §3(b)(1)(B), amended subpar. (D) generally. Prior to amendment, text read as follows:"Grantees and subgrantees may share—
 
-&emsp;"(i) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonally identifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
+&emsp;"(i) nonpersonally identifying data in the aggregate regarding services to their clients and nonpersonallyidentifying demographic information in order to comply with Federal, State, tribal, or territorial reporting, evaluation, or data collection requirements;
 
 &emsp;"(ii) court-generated information and law-enforcement generated information contained in secure, governmental registries for protection order enforcement purposes; and
 

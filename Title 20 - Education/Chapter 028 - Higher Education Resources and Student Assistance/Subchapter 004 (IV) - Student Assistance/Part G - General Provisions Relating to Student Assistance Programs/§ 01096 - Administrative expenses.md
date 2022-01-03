@@ -8,9 +8,11 @@ From the sums appropriated for any fiscal year for the purpose of the program au
 
 (1) The sums paid to institutions under this part are for the sole purpose of administering the programs described in subsection (a).
 
-(2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independentstudents, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
+(2) If the institution enrolls a significant number of students who are (A) attending the institution less than full time, or (B) independent students, the institution shall use a reasonable proportion of the funds available under this section for financial aid services during times and in places that will most effectively accommodate the needs of such students.
 
 (Pub. L. 89–329, title IV, §489, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1491; amended Pub. L. 99–603, title I, §121(b)(7), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–50, §15(15), June 3, 1987, 101 Stat. 357; Pub. L. 102–325, title IV, §§446(c), 493, July 23, 1992, 106 Stat. 567, 630; Pub. L. 103–208, §2(h)(44), (k)(6), Dec. 20, 1993, 107 Stat. 2478, 2486; Pub. L. 110–315, title IV, §494B, Aug. 14, 2008, 122 Stat. 3319; Pub. L. 111–39, title IV, §407(b)(10), July 1, 2009, 123 Stat. 1953.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -38,13 +40,15 @@ Subsec. (b). Pub. L. 102–325, §493(b), designated existing provisions as par.
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–603 inserted provision directing the Secretary to pay the costs incurred by institutions of higher education in implementing and operating the immigration status verification system under section 1091(c) of this title.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 

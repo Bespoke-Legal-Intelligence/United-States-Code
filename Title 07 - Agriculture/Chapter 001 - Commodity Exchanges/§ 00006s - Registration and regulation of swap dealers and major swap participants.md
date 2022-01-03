@@ -96,7 +96,7 @@
 
 &emsp;&emsp;&emsp;(i) capital requirements; and
 
-&emsp;&emsp;&emsp;(ii) both initial and variation margin requirements on all swaps that are not cleared by a registered derivatives clearing organization.
+&emsp;&emsp;&emsp;(ii) both initial and variation margin requirements on all swaps that are notcleared by a registered derivatives clearing organization.
 
 #### (C) Capital
 
@@ -164,7 +164,7 @@
 
 &emsp;&emsp;(ii) for which there is no prudential regulator, shall keep books and records in such form and manner and for such period as may be prescribed by the Commission by rule or regulation;
 
-&emsp;&emsp;(C) shall keep books and records described in subparagraph (B) open to inspection and examination by any representative of the Commission; and
+&emsp;&emsp;(C) shall keep books and records described in subparagraph (B) open to inspection andexamination by any representative of the Commission; and
 
 &emsp;&emsp;(D) shall keep any such books and records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.
 
@@ -426,7 +426,7 @@ Each registered swap dealer and major swap participant at all times shall comply
 
 &emsp;&emsp;A compliance report under subparagraph (A) shall—
 
-&emsp;&emsp;&emsp;(i) accompany each appropriate financial report of the swap dealer or major swapparticipant that is required to be furnished to the Commission pursuant to this section; and
+&emsp;&emsp;&emsp;(i) accompany each appropriate financial report of the swap dealer or major swap participant that is required to be furnished to the Commission pursuant to this section; and
 
 &emsp;&emsp;&emsp;(ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
@@ -474,6 +474,8 @@ Each registered swap dealer and major swap participant at all times shall comply
 
 (Sept. 21, 1922, ch. 369, §4s, as added and amended Pub. L. 111–203, title VII, §§724(c), 731, July 21, 2010, 124 Stat. 1684, 1703; Pub. L. 114–1, title III, §302(a), Jan. 12, 2015, 129 Stat. 28.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Securities Exchange Act of 1934, referred to in subsec. (e)(3)(B)(ii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
@@ -485,6 +487,8 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(
 <b>2015</b>—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
 
 <b>2010</b>—Subsec. (l). Pub. L. 111–203, §724(c), added subsec. (l).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

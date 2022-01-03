@@ -2,7 +2,7 @@
 
 #### (a) Reimbursement for services furnished members of armed services and American civilians; certification of claims
 
-The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by any religious organization functioning in the Philippine Islands and affiliated with a religious organization in the United States, or by the personnel of any such Philippine organization, for reimbursement of expenditures incurred, or for payment of the fair value of supplies used, by such organization or such personnel for the purpose of furnishing shelter, food, clothing, hospitalization, medicines and medical services, and other relief in the Philippines to members of the armed forces of the United States or to civilian American citizens (as defined in section 4104 of this title) at any time subsequent to December 6, 1941, and before August 15, 1945. Any claim allowed under the provisions of this section shall be certified to the Secretary of the Treasury for paymentout of the War Claims Fund established by section 4110 of this title.
+The Commission is authorized to receive, adjudicate according to law, and provide for the payment of any claim filed by any religious organization functioning in the Philippine Islands and affiliated with a religious organization in the United States, or by the personnel of any such Philippine organization, for reimbursement of expenditures incurred, or for payment of the fair value of supplies used, by such organization or such personnel for the purpose of furnishing shelter, food, clothing, hospitalization, medicines and medical services, and other relief in the Philippines to members of the armed forces of the United States or to civilian American citizens (as defined in section 4104 of this title) at any time subsequent to December 6, 1941, and before August 15, 1945. Any claim allowed under the provisions of this section shall be certified to the Secretary of the Treasury for payment out of the War Claims Fund established by section 4110 of this title.
 
 #### (b) Compensation for loss or damage to real property used in educational, medical, or welfare work
 
@@ -36,9 +36,11 @@ The Commission shall expedite the payments under this section without reducing p
 
 (3) Claims for benefits under this subsection must be filed within six months after August 6, 1956. The Commission shall complete its determination with respect to each claim filed under this subsection at the earliest practicable date, but in no event later than one year after the date on which such claim was filed.
 
-(4) Claims filed pursuant to clause (B) of paragraph (1) of this subsection shall be determinedand paid upon the basis of postwar cost of replacement for the twelve-month period ending October 1, 1952, as ascertained by the Commission.
+(4) Claims filed pursuant to clause (B) of paragraph (1) of this subsection shall be determined and paid upon the basis of postwar cost of replacement for the twelve-month period ending October 1, 1952, as ascertained by the Commission.
 
 (July 3, 1948, ch. 826, title I, §7, 62 Stat. 1245; Apr. 9, 1952, ch. 167, §2, 66 Stat. 48; Aug. 6, 1956, ch. 985, 70 Stat. 1063; Pub. L. 87–846, title I, §102, Oct. 22, 1962, 76 Stat. 1107.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -58,15 +60,21 @@ Subsec. (g). Pub. L. 87–846 made technical amendment to reference in original 
 
 <b>1952</b>—Act Apr. 9, 1952, designated existing provisions as subsec. (a) and added subsecs. (b) to (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Transfer of Functions
 
 For provisions transferring Foreign Claims Settlement Commission of the United States to Department of Justice, as a separate agency, see section 1622a et seq. of Title 22, Foreign Relations and Intercourse.
 
-War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
-
 #### Termination of Philippine War Damage Commission
 
 The Philippine War Damage Commission established by section 101 of act Apr. 30, 1946, ch. 243, title I, 60 Stat. 128, formerly classified to section 1751 of the former Appendix to this title, terminated under the provisions of subsec. (d) of such section, which provided for the winding up of the Commission's affairs not later than two years after expiration of time for filing claims under act Apr. 30, 1946, ch. 243, if possible but in no event later than Apr. 30, 1951.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+War Claims Commission, including offices of its members, abolished and functions transferred to Foreign Claims Settlement Commission of the United States by Reorg. Plan No. 1 of 1954, §§2, 4, eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279, set out in the Appendix to Title 5, Government Organization and Employees. See, also, section 4101 of this title and notes thereunder.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

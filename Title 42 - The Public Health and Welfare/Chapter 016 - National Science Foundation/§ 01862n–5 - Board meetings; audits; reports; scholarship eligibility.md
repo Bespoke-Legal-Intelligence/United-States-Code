@@ -10,11 +10,11 @@
 
 #### (3) Compliance audit
 
-&emsp;The Inspector General of the Foundation shall conduct an audit every three years of the compliance by the Board with the requirements described in paragraph (2). The auditshall examine the proposed and actual content of closed meetings and determine whether the closure of the meetings was consistent with section 552b of title 5.
+&emsp;The Inspector General of the Foundation shall conduct an audit every three years of the compliance by the Board with the requirements described in paragraph (2). The audit shall examine the proposed and actual content of closed meetings and determine whether the closure of the meetings was consistent with section 552b of title 5.
 
 #### (4) Report
 
-&emsp;Not later than February 15 of every third year, the Inspector General of the Foundation shall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate the audit required under paragraph (3) along with recommendations for corrective actions that need to be taken to achieve fuller compliance with the requirements described in paragraph (2), and recommendations on how to ensure public access to the Board's deliberations.
+&emsp;Not later than February 15 of every third year, the Inspector General of the Foundationshall transmit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate the audit required under paragraph (3) along with recommendations for corrective actions that need to be taken to achieve fuller compliance with the requirements described in paragraph (2), and recommendations on how to ensure public access to the Board's deliberations.
 
 #### (5) Materials relating to closed portions of meetings
 
@@ -27,6 +27,8 @@
 The Director shall not exclude part-time students from eligibility for scholarships under the Computer Science, Engineering, and Mathematics Scholarship program.
 
 (Pub. L. 107–368, §15, Dec. 19, 2002, 116 Stat. 3058; Pub. L. 110–69, title VII, §7015(a), Aug. 9, 2007, 121 Stat. 683; Pub. L. 111–358, title V, §504(c), Jan. 4, 2011, 124 Stat. 4006.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -43,6 +45,8 @@ Section was enacted as part of the National Science Foundation Authorization Act
 Subsec. (a)(4). Pub. L. 110–69, §7015(a)(2), substituted "every third year" for "each year".
 
 Subsec. (a)(5). Pub. L. 110–69, §7015(a)(3), added par. (5).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

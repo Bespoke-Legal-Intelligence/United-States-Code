@@ -4,7 +4,7 @@
 
 (b) Where any veteran is disqualified for pension for any period solely by reason of subsection (a) of this section, the Secretary may apportion and pay to such veteran's spouse or children the pension which such veteran would receive for that period but for this section.
 
-(c) Where any surviving spouse or child of a veteran is disqualified for pension for any periodsolely by reason of subsection (a) of this section, the Secretary may (1) if the surviving spouse is so disqualified, pay to the child, or children, the pension which would be payable if there were no such surviving spouse or (2) if a child is so disqualified, pay to the surviving spouse or other children, as applicable, the pension which would be payable if there were no such child.
+(c) Where any surviving spouse or child of a veteran is disqualified for pension for any period solely by reason of subsection (a) of this section, the Secretary may (1) if the surviving spouse is so disqualified, pay to the child, or children, the pension which would be payable if there were no such surviving spouse or (2) if a child is so disqualified, pay to the surviving spouse or other children, as applicable, the pension which would be payable if there were no such child.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1134, §505; Pub. L. 94–169, title I, §106(9)–(11), Dec. 23, 1975, 89 Stat. 1017; renumbered §1505 and amended Pub. L. 102–83, §§4(a)(1), (b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 403–406; Pub. L. 109–461, title X, §1002(a), Dec. 22, 2006, 120 Stat. 3464.)
 

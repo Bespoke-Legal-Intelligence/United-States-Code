@@ -82,7 +82,7 @@ In this subchapter:
 
 #### (8) Locally led planning process
 
-&emsp;The term "planning process" means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
+&emsp;The term "planning process" means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of thearea plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
 
 #### (9) Nonprofit organization
 
@@ -124,6 +124,8 @@ In this subchapter:
 
 (Pub. L. 97–98, title XV, §1528, as added Pub. L. 107–171, title II, §2504, May 13, 2002, 116 Stat. 269; Pub. L. 110–234, title II, §2805(a), (b), May 22, 2008, 122 Stat. 1088; Pub. L. 110–246, §4(a), title II, §2805(a), (b), June 18, 2008, 122 Stat. 1664, 1816.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -143,6 +145,8 @@ Par. (13)(C), (D). Pub. L. 110–246, §2805(b), added subpars. (C) and (D) and 
 "(C) providing assistance for the long-term implementation of area plans; and
 
 "(D) providing services of an agency of the Department of Agriculture to assist councils in developing and carrying out area plans."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

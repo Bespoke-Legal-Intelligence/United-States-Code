@@ -50,7 +50,7 @@ Criteria.—To reduce supply chain risk, the Council shall establish criteria an
 
 &emsp;&emsp;(A) recommending orders applicable to executive agencies requiring the exclusion of sources or covered articles from executive agency procurement actions (in this section referred to as "exclusion orders");
 
-&emsp;&emsp;(B) recommending orders applicable to executive agencies requiring the removal ofcovered articles from executive agency information systems (in this section referred to as "removal orders");
+&emsp;&emsp;(B) recommending orders applicable to executive agencies requiring the removal of covered articles from executive agency information systems (in this section referred to as "removal orders");
 
 &emsp;&emsp;(C) requesting and approving exceptions to an issued exclusion or removal order when warranted by circumstances, including alternative mitigation actions or other findings relating to the national interest, including national security reviews, national security investigations, or national security agreements; and
 
@@ -106,7 +106,7 @@ Order issuance.—Recommendations of the Council under paragraph (2), together w
 
 &emsp;&emsp;&emsp;(ii) The Secretary of Defense, for exclusion and removal orders applicable to the Department of Defense and national security systems other than sensitive compartmented information systems.
 
-&emsp;&emsp;&emsp;(iii) The Director of National Intelligence, for exclusion and removal orders applicable to the intelligence community and sensitive compartmented information systems, to the extent not covered by clause (ii).
+&emsp;&emsp;&emsp;(iii) The Director of National Intelligence, for exclusion and removal orders applicable to the intelligence communityand sensitive compartmented information systems, to the extent not covered by clause (ii).
 
 &emsp;&emsp;(B)
 

@@ -24,7 +24,7 @@ Definitions.—In this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(III) documentation with functional descriptions of software-defined interfaces, conveying semantic meaning of interface elements, such as the function of a given interface field;
 
-&emsp;&emsp;(C) uses a system architecture that allows severable major system components and modular systems at the appropriate level to be incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
+&emsp;&emsp;(C) uses a system architecture that allows severable major system components and modular systems at the appropriate level tobe incrementally added, removed, or replaced throughout the life cycle of a major system platform to afford opportunities for enhanced competition and innovation while yielding—
 
 &emsp;&emsp;&emsp;(i) significant cost savings or avoidance;
 
@@ -66,6 +66,8 @@ Definitions.—In this chapter:
 
 (Added Pub. L. 114–328, div. A, title VIII, §805(a)(1), Dec. 23, 2016, 130 Stat. 2252, §2446a; renumbered §4401 and amended Pub. L. 116–283, div. A, title VIII, §804(b)(1), title XVIII, §1851(b)(1), (2), Jan. 1, 2021, 134 Stat. 3737, 4272.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 804 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(1)(B)(ii), is section 804 of Pub. L. 116–283, which is set out as a note below.
@@ -102,9 +104,15 @@ Subsec. (b)(9). Pub. L. 116–283, §1851(b)(2)(D), which directed amendment of 
 
 Pub. L. 116–283, §804(b)(1)(B)(iv), redesignated par. (8) as (9).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2021 Amendment
 
 Amendment by section 1851(b)(1), (2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Effective Date
+
+Pub. L. 114–328, div. A, title VIII, §805(a)(4), Dec. 23, 2016, 130 Stat. 2255, provided that: "Subchapter I of chapter 144B of title 10, United States Code \[see, now, this subchapter\], as added by paragraph (1), shall take effect on January 1, 2017."
 
 #### Implementation of Modular Open Systems Approaches
 
@@ -116,11 +124,11 @@ Requirements for Interface Delivery.—
 
 &emsp;"(1)
 
-In general.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], theUnder Secretary of Defense for Acquisition and Sustainment, in coordination with the Joint All-Domain Command and Control cross-functional team and the Director for Command, Control, Communications, and Computers/Cyber, shall issue regulations and guidance applicable to the military departments, Defense Agencies, Department of Defense Field Activities (as such terms are defined, respectively, in section 101 of title 10, United States Code), and combatant commands, as appropriate, to—
+In general.—Not later than one year after the date of the enactment of this Act \[Jan. 1, 2021\], the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Joint All-Domain Command and Control cross-functional team and the Director for Command, Control, Communications, and Computers/Cyber, shall issue regulations and guidance applicable to the military departments, Defense Agencies, Department of Defense Field Activities (as such terms are defined, respectively, in section 101 of title 10, United States Code), and combatant commands, as appropriate, to—
 
 &emsp;&emsp;"(A) facilitate the Department of Defense's access to and utilization of modular system interfaces;
 
-&emsp;&emsp;"(B) fully realize the intent of chapter 144B of title 10, United States Code, by facilitating the implementation of modular open system approaches across major defense acquisition programs (as defined in section 2430 of title 10, United States Code) and other relevant acquisition programs, including in the acquisition and sustainment of weapon systems, platforms, and components for which no common interface standard has been established, to enable communication between such weapon systems, platforms, and components; and
+&emsp;&emsp;"(B) fully realize the intent of \[former\] chapter 144B of title 10, United States Code \[see this chapter and sections 4271 and 4272 of this title\], by facilitating the implementation of modular open system approaches across major defense acquisition programs (as defined in section 2430 of title 10, United States Code \[now 10 U.S.C. 4201\]) and other relevant acquisition programs, including in the acquisition and sustainment of weapon systems, platforms, and components for which no common interface standard has been established, to enable communication between such weapon systems, platforms, and components; and
 
 &emsp;&emsp;"(C) advance the efforts of the Department to generate diverse and recomposable kill chains.
 
@@ -128,7 +136,7 @@ In general.—Not later than one year after the date of the enactment of this Ac
 
 Elements.—The regulations and guidance required under paragraph (1) shall include requirements that—
 
-&emsp;&emsp;"(A) the program officer for each weapon system characterizes, in the acquisition strategy required under section 2431a of title 10, United States Code or in other documentation, the desired modularity of the weapon system for which the program officer is responsible, including—
+&emsp;&emsp;"(A) the program officer for each weapon system characterizes, in the acquisition strategy required under section 2431a of title 10, United States Code \[now 10 U.S.C. 4211\] or in other documentation, the desired modularity of the weapon system for which the program officer is responsible, including—
 
 &emsp;&emsp;&emsp;"(i) identification of—
 
@@ -150,7 +158,7 @@ Elements.—The regulations and guidance required under paragraph (1) shall incl
 
 &emsp;&emsp;"(C) the relevant program offices, including those responsible for maintaining and upgrading legacy systems—
 
-&emsp;&emsp;&emsp;"(i) that have not characterized the desired modularity of the systems nevertheless meet the requirements of paragraph (2)(A), if the program officers make an effort, to the extent practicable, to update the acquisition strategies required under section 2431a of title 10, United States Code, or to develop or update other relevant documentation; and
+&emsp;&emsp;&emsp;"(i) that have not characterized the desired modularity of the systems nevertheless meet the requirements of paragraph (2)(A), if the program officers make an effort, to the extent practicable, to update the acquisition strategies required under section 2431a of title 10, United States Code \[now 10 U.S.C. 4211\], or to develop or update other relevant documentation; and
 
 &emsp;&emsp;&emsp;"(ii) that have awarded contracts that do not include the requirements specified in subparagraph (B) of paragraph (2) nevertheless acquire, to the extent practicable, the items specified in clauses (i) through (iii) of such subparagraph, either through contractual updates, separate negotiations or contracts, or program management mechanisms; and
 
@@ -188,7 +196,7 @@ Extension of Modular Open Systems Approach and Rights in Interface Software.—
 
 &emsp;"(1)
 
-Requirement for modular open system approach.—\[Amended section 2446a of this title.\]
+Requirement for modular open system approach.—\[Amended section 4401 of this title.\]
 
 &emsp;"(2)
 
@@ -196,11 +204,11 @@ Rights in technical data.—
 
 &emsp;&emsp;"(A)
 
-In general.—\[Amended section 2320 of this title.\]
+In general.—\[Amended former section 2320 of this title.\]
 
 &emsp;&emsp;"(B)
 
-Regulations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\], the Secretary of Defense shall update the regulations required by section 2320(a)(1) of title 10, United States Code, to reflect the amendments made by this paragraph.
+Regulations.—Not later than 180 days after the date of the enactment of this Act \[Jan. 1, 2021\],the Secretary of Defense shall update the regulations required by section 2320(a)(1) of title 10, United States Code \[see 10 U.S.C. 3771(a)\], to reflect the amendments made by this paragraph.
 
 "(c)
 
@@ -222,7 +230,7 @@ Distribution of interfaces.—
 
 &emsp;&emsp;"(A)
 
-In general.—Consistent with the requirements of section 2320 of title 10, United States Code, the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1) to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
+In general.—Consistent with the requirements of section 2320 of title 10, United States Code \[see 10 U.S.C. 3771 et seq.\], the Under Secretary of Defense for Acquisition and Sustainment shall, in coordination with the Director of the Defense Standardization Program Office, use the index and repositories established pursuant to paragraph (1) to provide access to interfaces and relevant documentation to authorized Federal Government and non-Governmental entities.
 
 &emsp;&emsp;"(B)
 
@@ -298,5 +306,5 @@ Definitions.—In this section:
 
 &emsp;"(3) The term 'machine-readable format' means a format that can be easily processed by a computer without human intervention.
 
-&emsp;"(4) The terms 'major system', 'major system component', 'modular open system approach', 'modular system', 'modular system interface', and 'weapon system' have the meanings given such terms, respectively, in section 2446a of title 10, United States Code."
+&emsp;"(4) The terms 'major system', 'major system component', 'modular open system approach', 'modular system', 'modular system interface', and 'weapon system' have the meanings given such terms, respectively, in section 2446a of title 10, United States Code \[now 10 U.S.C. 4401\]."
 

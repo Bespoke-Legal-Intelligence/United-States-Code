@@ -50,7 +50,7 @@ For purposes of this title—
 
 &emsp;&emsp;(i) Paragraph (1)(B) shall not apply to expenses which are reimbursable under title XVIII of the Social Security Act only as a secondary payor.
 
-&emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of aqualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
+&emsp;&emsp;(ii) No provision of law shall be construed or applied so as to prohibit the offering of a qualified long-term care insurance contract on the basis that the contract coordinates its benefits with those provided under such title.
 
 #### (C) Refunds of premiums
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (4) Dollar amount
 
-&emsp;The dollar amount in effect under this subsection shall be $175 per day (or the equivalentamount in the case of payments on another periodic basis).
+&emsp;The dollar amount in effect under this subsection shall be $175 per day (or the equivalent amount in the case of payments on another periodic basis).
 
 #### (5) Inflation adjustment
 
@@ -324,6 +324,8 @@ Except as otherwise provided in regulations prescribed by the Secretary, in the 
 
 <i>For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to section 1395x(r)(1) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -344,11 +346,13 @@ Subsec. (g)(4)(B)(ii), (iii)(IV). Pub. L. 105–34, §1602(e), substituted "appr
 
 <b>1996</b>—Subsec. (g). Pub. L. 104–191, §325, added subsec. (g).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–280 applicable to contracts issued after Dec. 31, 1996, but only with respect to taxable years beginning after Dec. 31, 2009, except as otherwise provided, see section 844(g)(1) of Pub. L. 109–280, set out as a note under section 72 of this title.
 
-Amendment by section 844(f) of Pub. L. 109–280 effective as if included in section 321(a) of Pub. L. 104–191,see section 844(g)(5) of Pub. L. 109–280, set out as a note under section 72 of this title.
+Amendment by section 844(f) of Pub. L. 109–280 effective as if included in section 321(a) of Pub. L. 104–191, see section 844(g)(5) of Pub. L. 109–280, set out as a note under section 72 of this title.
 
 #### Effective Date of 2004 Amendment
 
@@ -404,7 +408,7 @@ Issuance of certain riders permitted.—For purposes of applying sections 101(f)
 
 "(5)
 
-Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from gross income by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
+Application of per diem limitation to existing contracts.—The amount of per diem payments made under a contract issued on or before July 31, 1996, with respect to an insured which are excludable from grossincome by reason of section 7702B of the Internal Revenue Code of 1986 (as added by this section) shall not be reduced under subsection (d)(2)(B) thereof by reason of reimbursements received under a contract issued on or before such date. The preceding sentence shall cease to apply as of the date (after July 31, 1996) such contract is exchanged or there is any contract modification which results in an increase in the amount of such per diem payments or the amount of such reimbursements."
 
 #### Long-Term Care Study Request
 

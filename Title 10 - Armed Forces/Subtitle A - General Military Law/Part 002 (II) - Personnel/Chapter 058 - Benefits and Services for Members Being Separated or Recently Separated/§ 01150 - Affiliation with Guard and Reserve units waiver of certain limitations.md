@@ -14,6 +14,8 @@ Coast Guard.—This section shall apply to the Coast Guard in the same manner an
 
 (Added Pub. L. 101–510, div. A, title V, §502(a)(1), Nov. 5, 1990, 104 Stat. 1557; amended Pub. L. 102–484, div. A, title V, §514, Oct. 23, 1992, 106 Stat. 2406; Pub. L. 103–160, div. A, title V, §561(j), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title V, §542(a)(9), Oct. 5, 1994, 108 Stat. 2768; Pub. L. 105–261, div. A, title V, §561(p), Oct. 17, 1998, 112 Stat. 2027; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(o)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–135; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 112–239, div. A, title X, §1076(f)(18), Jan. 2, 2013, 126 Stat. 1952.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2013</b>—Subsec. (c). Pub. L. 112–239 inserted "when it is not operating as a service in the Navy" after "for the Coast Guard".
@@ -29,6 +31,8 @@ Coast Guard.—This section shall apply to the Coast Guard in the same manner an
 <b>1993</b>—Subsec. (a). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–484 struck out "involuntarily" after "who is".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendment
 

@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) an annual effect on the economy of $100,000,000 or more;
 
-&emsp;&emsp;(B) a major increase in costs or prices for consumers, individual industries, Federal, State, or local government agencies, or geographic regions; or
+&emsp;&emsp;(B) a major increase in costs or prices for consumers, individual industries, Federal,State, or local government agencies, or geographic regions; or
 
 &emsp;&emsp;(C) significant adverse effects on competition, employment, investment, productivity, innovation, or on the ability of United States-based enterprises to compete with foreign-based enterprises in domestic and export markets.
 

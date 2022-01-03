@@ -14,11 +14,11 @@ The Secretary is authorized to make and issue notes to the Secretary of the Trea
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
-Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, including sales of notes or property, shall be deposited in and become a part of the fund.
+Notes and security acquired by the Secretary in connection with loans insured under this subchapter and under prior authority shall become a part of the fund. Notes may be held in the fund and collected in accordance with their terms or may be sold by the Secretary with or without agreements for insurance thereof at the balance due thereon, or on such other basis as the Secretary may determine from time to time. All net proceeds from such collections, includingsales of notes or property, shall be deposited in and become a part of the fund.
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
-The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration andthe Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
+The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
 
 #### (f) Utilization of fund
 
@@ -98,6 +98,8 @@ The Secretary may guarantee under this chapter a loan made under a State beginni
 
 (Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§5003, 5004, May 13, 2002, 116 Stat. 342.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
@@ -153,6 +155,8 @@ Subsecs. (g), (h). Pub. L. 92–419, §115(b), added subsecs. (g) and (h).
 Subsec. (f)(1). Pub. L. 89–240, §2(c), substituted "$50,000,000" for "$25,000,000".
 
 <b>1962</b>—Subsec. (f)(1). Pub. L. 87–703 increased from $10,000,000 to $25,000,000 the aggregate amount of loans to be sold and insured and undisposed of at any one time.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

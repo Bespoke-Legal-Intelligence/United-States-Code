@@ -26,7 +26,7 @@ The duties referred to in subsection (a) are that—
 
 #### (1) In general
 
-&emsp;If a medical facility receives a request under subsection (c), the medical facility shall evaluate the facts submitted in the request and make a determination of whether, on the basis of the medical information possessed by the facility regarding the victim involved, the emergency response employee was exposed toan infectious disease included on the list issued under paragraph (1) of section 300ff–131(a) of this title, as indicated by the guidelines issued under paragraph (2) of such section.
+&emsp;If a medical facility receives a request under subsection (c), the medical facility shall evaluate the facts submitted in the request and make a determination of whether, on the basis of the medical information possessed by the facility regarding the victim involved, the emergency response employee was exposed to an infectious disease included on the list issued under paragraph (1) of section 300ff–131(a) of this title, as indicated by the guidelines issued under paragraph (2) of such section.
 
 #### (2) Notification of exposure
 
@@ -42,7 +42,7 @@ The duties referred to in subsection (a) are that—
 
 &emsp;(B)(i) If a medical facility finds in making a determination under paragraph (1) that the facility possesses no information on whether the victim involved has an infectious disease included on the list under section 300ff–131(a) of this title, the medical facility shall, in writing, inform the designated officer who submitted the request under subsection (c) of the insufficiency of such medical information.
 
-&emsp;(ii) If after making a response under clause (i) a medical facility determines that the victim involved has an infectious disease, the medical facility shall make the determination described in paragraph (1) and provide the applicable response specified in this subsection.
+&emsp;(ii) If after making a response under clause (i) a medical facility determines that the victim involved has an infectious disease, themedical facility shall make the determination described in paragraph (1) and provide the applicable response specified in this subsection.
 
 #### (e) Time for making response
 
@@ -85,6 +85,8 @@ After receiving a request under subsection (c) (including any such request resub
 &emsp;&emsp;&emsp;(II) the medical facility shall provide to the designated officer the appropriate response under subsection (c).
 
 (July 1, 1944, ch. 373, title XXVI, §2695B, as added Pub. L. 111–87, §13, Oct. 30, 2009, 123 Stat. 2898.)
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

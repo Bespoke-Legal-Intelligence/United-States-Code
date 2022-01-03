@@ -30,13 +30,15 @@ Not later than February 15 of each year, beginning in 1993, the President shall 
 
 (Pub. L. 102–190, div. A, title VIII, §822(a), (b), Dec. 5, 1991, 105 Stat. 1432, 1433.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 6683 of this title, referred to in subsec. (a)(1), was omitted from the Code.
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, andnot as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Years 1992 and 1993, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

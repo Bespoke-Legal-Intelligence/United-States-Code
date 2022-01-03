@@ -56,7 +56,9 @@ A State may not make payments from a cooperative agreement under subsection (a) 
 
 &emsp;(2) by an entity that provides health services on a prepaid basis.
 
-(July 1, 1944, ch. 373, title III, §398, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat.981; amended Pub. L. 101–557, title I, §102(a), (b), Nov. 15, 1990, 104 Stat. 2767; Pub. L. 105–392, title III, §302(a), Nov. 13, 1998, 112 Stat. 3586; Pub. L. 115–406, §3, Dec. 31, 2018, 132 Stat. 5365.)
+(July 1, 1944, ch. 373, title III, §398, as added Pub. L. 100–175, title VI, §602, Nov. 29, 1987, 101 Stat. 981; amended Pub. L. 101–557, title I, §102(a), (b), Nov. 15, 1990, 104 Stat. 2767; Pub. L. 105–392, title III, §302(a), Nov. 13, 1998, 112 Stat. 3586; Pub. L. 115–406, §3, Dec. 31, 2018, 132 Stat. 5365.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -85,6 +87,8 @@ Subsec. (a)(3), (4). Pub. L. 105–392, §302(a)(3), (4), added par. (3) and red
 <b>1990</b>—Subsec. (a). Pub. L. 101–557, §102(a), substituted "shall make not less than 5, and not more than 15, grants" for "shall make not less than 3, and not more than 5, grants".
 
 Subsec. (a)(1). Pub. L. 101–557, §102(b), substituted "with public and private organizations" for "by public and private organizations".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

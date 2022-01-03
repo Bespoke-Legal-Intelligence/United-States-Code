@@ -18,7 +18,7 @@ The Congress finds and declares that—
 
 &emsp;(8) there presently exists a variety of technological, economic, environmental, administrative, and legal problems which tend to retard the development of the oil and natural gas reserves of the Outer Continental Shelf;
 
-&emsp;(9) environmental and safety regulations relating to activities on the Outer ContinentalShelf should be reviewed in light of current technology and information;
+&emsp;(9) environmental and safety regulations relating to activities on the Outer Continental Shelf should be reviewed in light of current technology and information;
 
 &emsp;(10) the development, processing, and distribution of the oil and gas resources of the Outer Continental Shelf, and the siting of related energy facilities, may cause adverse impacts on various States and local governments;
 

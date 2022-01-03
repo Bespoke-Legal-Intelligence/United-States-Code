@@ -28,7 +28,7 @@ Each United States person who—
 
 #### (2) Special rule
 
-&emsp;If by reason of an adjustment under section 482 or otherwise, a contribution described in subsection (a)(1) is deemed to have been made, such contribution shall be treated for purposes of this section as having been made not earlier than the date specified by the Secretary.
+&emsp;If by reason of an adjustment under section 482 or otherwise, a contribution described insubsection (a)(1) is deemed to have been made, such contribution shall be treated for purposes of this section as having been made not earlier than the date specified by the Secretary.
 
 #### (c) Penalty for failure to furnish information
 
@@ -46,6 +46,8 @@ Each United States person who—
 
 (Added Pub. L. 98–369, div. A, title I, §131(d)(1), July 18, 1984, 98 Stat. 664; amended Pub. L. 105–34, title XI, §1144(a)–(c), Aug. 5, 1997, 111 Stat. 984, 985; Pub. L. 105–206, title VI, §6011(g), July 22, 1998, 112 Stat. 818; Pub. L. 109–135, title IV, §409(c), Dec. 21, 2005, 119 Stat. 2636.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–135 inserted "or" at end.
@@ -59,6 +61,8 @@ Subsec. (b). Pub. L. 105–34, §1144(b), added subsec. (b). Former subsec. (b) 
 Subsec. (c). Pub. L. 105–34, §1144(c), as amended by Pub. L. 105–206, §6011(g), substituted "equal to 10 percent of the fair market value of the property at the time of the exchange (and, in the case of a contribution described in subsection (a)(1)(B), such person shall recognize gain as if the contributed property had been sold for such value at the time of such contribution)" for "equal to 25 percent of the amount of the gain realized on the exchange" in par. (1) and added par. (3).
 
 Pub. L. 105–34, §1144(b), redesignated subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2005 Amendment
 

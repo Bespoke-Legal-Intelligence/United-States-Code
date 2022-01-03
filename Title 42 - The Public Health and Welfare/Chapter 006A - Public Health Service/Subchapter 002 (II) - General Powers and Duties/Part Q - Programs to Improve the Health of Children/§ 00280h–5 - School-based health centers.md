@@ -36,7 +36,7 @@ In this section:
 
 &emsp;&emsp;(A) meets the definition of a school-based health center under section 1397jj(c)(9)(A) of this title and is administered by a sponsoring facility (as defined in section 1397jj(c)(9)(B) of this title);
 
-&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during school hours to children and adolescents by health professionals in accordance with establishedstandards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
+&emsp;&emsp;(B) provides, at a minimum, comprehensive primary health services during school hours to children and adolescents by health professionals in accordance with established standards, community practice, reporting laws, and other State laws, including parental consent and notification laws that are not inconsistent with Federal law; and
 
 &emsp;&emsp;(C) does not perform abortion services.
 
@@ -82,7 +82,7 @@ In reviewing applications:
 
 &emsp;&emsp;(B) Communities with high per capita numbers of children and adolescents who are uninsured, underinsured, or enrolled in public health insurance programs.
 
-&emsp;&emsp;(C) Populations of children and adolescents that have historically demonstrated difficulty in accessing health and mental health and substance use disorder prevention services.
+&emsp;&emsp;(C) Populations of children and adolescents that have historically demonstrated difficulty in accessing health and mentalhealth and substance use disorder prevention services.
 
 &emsp;(2) The Secretary may give consideration to whether an applicant has received a grant under section 280h–4 of this title.
 
@@ -157,6 +157,8 @@ An eligible entity receiving funds under this section shall not provide services
 For purposes of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2022 through 2026.
 
 (July 1, 1944, ch. 373, title III, §399Z–1, as added and amended Pub. L. 111–148, title IV, §4101(b), title X, §10402(a), Mar. 23, 2010, 124 Stat. 547, 975; Pub. L. 116–260, div. BB, title III, §317, Dec. 27, 2020, 134 Stat. 2932.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

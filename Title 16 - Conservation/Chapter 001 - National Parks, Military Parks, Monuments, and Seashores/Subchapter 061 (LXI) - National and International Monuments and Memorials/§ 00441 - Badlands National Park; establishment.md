@@ -4,9 +4,13 @@ When a quantum, satisfactory to the Secretary of the Interior, of the privately 
 
 (Mar. 4, 1929, ch. 693, §1, 45 Stat. 1553; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Hereinafter, referred to in text, means act Mar. 4, 1929 which is classified to sections 441 to 441e of this title. For classification of this Act to the Code, see Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

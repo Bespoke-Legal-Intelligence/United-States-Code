@@ -1,8 +1,10 @@
 ### §1124. Importation of goods bearing infringing marks or names forbidden
 
-Except as provided in subsection (d) of section 1526 of title 19, no article of imported merchandise which shall copy or simulate the name of any domestic manufacture, or manufacturer, or trader, or of any manufacturer or trader located in any foreign country which, by treaty, convention, or law affords similar privileges to citizens of the United States, or which shall copy or simulate a trademark registered in accordance with the provisions of this chapter or shall bear a name or mark calculated to induce the public to believe that the article is manufactured in the United States, or that it is manufactured in any foreign country or locality other than the country or locality in which it is in fact manufactured, shall be admitted to entry at any customhouse of the United States; and, in order to aid the officers of the customs in enforcing this prohibition, any domestic manufacturer or trader, and any foreign manufacturer or trader, who is entitled under the provisions of a treaty, convention, declaration, or agreement between the United States and any foreign country to the advantages afforded by law to citizens of the United States in respect to trademarks and commercial names, may require his name and residence, and the name of the locality in which his goods are manufactured, and a copy of the certificate of registration of his trademark, issued in accordance with the provisions of this chapter, to be recorded in books which shall be kept for this purpose in the Department of the Treasury, under such regulations as the Secretary of the Treasury shall prescribe, and may furnish to the Department facsimiles of his name, the name of the locality in which his goods are manufactured, or of his registered trademark, and thereupon the Secretary of the Treasury shall cause one or more copies of the same to be transmitted to each collector or other proper officer of customs.
+Except as provided in subsection (d) of section 1526 of title 19, no article of imported merchandise which shall copy or simulate the name of any domestic manufacture, or manufacturer, ortrader, or of any manufacturer or trader located in any foreign country which, by treaty, convention, or law affords similar privileges to citizens of the United States, or which shall copy or simulate a trademark registered in accordance with the provisions of this chapter or shall bear a name or mark calculated to induce the public to believe that the article is manufactured in the United States, or that it is manufactured in any foreign country or locality other than the country or locality in which it is in fact manufactured, shall be admitted to entry at any customhouse of the United States; and, in order to aid the officers of the customs in enforcing this prohibition, any domestic manufacturer or trader, and any foreign manufacturer or trader, who is entitled under the provisions of a treaty, convention, declaration, or agreement between the United States and any foreign country to the advantages afforded by law to citizens of the United States in respect to trademarks and commercial names, may require his name and residence, and the name of the locality in which his goods are manufactured, and a copy of the certificate of registration of his trademark, issued in accordance with the provisions of this chapter, to be recorded in books which shall be kept for this purpose in the Department of the Treasury, under such regulations as the Secretary of the Treasury shall prescribe, and may furnish to the Department facsimiles of his name, the name of the locality in which his goods are manufactured, or of his registered trademark, and thereupon the Secretary of the Treasury shall cause one or more copies of the same to be transmitted to each collector or other proper officer of customs.
 
 (July 5, 1946, ch. 540, title VII, §42, 60 Stat. 440; Pub. L. 95–410, title II, §211(b), Oct. 3, 1978, 92 Stat. 903; Pub. L. 105–330, title II, §201(a)(11), (12), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -18,6 +20,8 @@ Pub. L. 105–330, §201(a)(12), substituted "trademark" for "trade-mark" wherev
 
 <b>1978</b>—Pub. L. 95–410 substituted "Except as provided in subsection (d) of section 1526 of title 19, no article" for "No article".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to any civil action filed or proceeding before the United States Patent and Trademark Office commenced on or after such date relating to the registration of a mark, see section 201(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
@@ -25,6 +29,8 @@ Amendment by Pub. L. 105–330 effective Oct. 30, 1998, and applicable only to a
 #### Repeal and Effect on Existing Rights
 
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

@@ -6,11 +6,13 @@
 
 &emsp;(2) which are in effect at the time this Act takes effect,
 
-> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed as the case may be, by theparties thereto or by any court of competent jurisdiction.
+> shall continue in effect according to their terms until modified, terminated, superseded, set aside, or repealed as the case may be, by the parties thereto or by any court of competent jurisdiction.
 
 (b) Nothing in this Act shall affect the procedures or requirements applicable to agreements for cooperation entered into pursuant to sections 2121(c), 2164(b), or 2164(c) of this title or arrangements pursuant thereto as it was in effect immediately prior to March 10, 1978.
 
 (Pub. L. 95–242, title VI, §603(a), (b), Mar. 10, 1978, 92 Stat. 152.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -20,9 +22,13 @@ This Act, referred to in text, means the Nuclear Non-Proliferation Act of 1978, 
 
 Section was enacted as part of the Nuclear Non-Proliferation Act of 1978, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under section 3201 of Title 22, Foreign Relations and Intercourse.
+
+#### <b>Executive Documents</b>
 
 #### Performance of Functions Pending Development of Procedures
 

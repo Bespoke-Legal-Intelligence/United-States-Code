@@ -36,6 +36,8 @@ For purposes of this section, customs services provided in connection with, or w
 
 (Pub. L. 98–573, title II, §236, Oct. 30, 1984, 98 Stat. 2992; Pub. L. 99–190, §142, Dec. 19, 1985, 99 Stat. 1324; Pub. L. 99–272, title XIII, §13032, Apr. 7, 1986, 100 Stat. 310; Pub. L. 100–418, title I, §1905, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 101–207, §3(c)(2), (f)(1), Dec. 7, 1989, 103 Stat. 1834, 1835.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1989</b>—Pub. L. 101–207, §3(f)(1)(C), inserted "and other facilities" after "airports" in section catchline.
@@ -58,11 +60,13 @@ Subsec. (e). Pub. L. 99–272, §13032(2), substituted last two sentences for fo
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–190 substituted "20 airports" for "4 airports".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
 Section effective on 15th day after Oct. 30, 1984, see section 214(a), (b) of Pub. L. 98–573, set out as an Effective Date of 1984 Amendment note under section 1304 of this title.
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6. For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see section 211 of Title 6, as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under section 211 of Title 6.
 

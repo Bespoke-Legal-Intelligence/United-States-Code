@@ -16,7 +16,9 @@ Notwithstanding any other provision of this Act, the Secretary of Health and Hum
 
 (Pub. L. 111–148, title I, §1554, Mar. 23, 2010, 124 Stat. 259.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-This Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protectionand Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
+This Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 

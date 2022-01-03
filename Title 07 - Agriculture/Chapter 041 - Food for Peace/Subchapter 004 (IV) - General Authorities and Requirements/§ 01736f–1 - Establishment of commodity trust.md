@@ -80,7 +80,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(cc) the suffering of otherwise affected populations;
 
-&emsp;&emsp;&emsp;&emsp;(III) food scarcity conditions caused by slow-onset events, such as drought, crop failure, pest infestation, and disease, that result in an erosion of the ability of communities and vulnerable populations to meet food needs; and
+&emsp;&emsp;&emsp;&emsp;(III) food scarcity conditions caused by slow-onset events, such as drought, crop failure, pest infestation, and disease, that result in an erosion of the ability ofcommunities and vulnerable populations to meet food needs; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) severe food access or availability conditions resulting from sudden economic shocks, market failure, or economic collapse, that result in an erosion of the ability of communities and vulnerable populations to meet food needs.
 
@@ -164,7 +164,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 #### (A) In general
 
-&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligiblecommodities from funds made available to carry out the Food for Peace Act (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b).
+&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available tocarry out the Food for Peace Act (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b).
 
 #### (B) Basis for reimbursement
 
@@ -193,6 +193,8 @@ Any determination by the Secretary under this section shall be final.
 &emsp;Eligible commodities remaining in the trust after September 30, 2023, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
 (Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300; Pub. L. 110–246, title III, §§3001(b)(1)(A), (2)(E), 3201, June 18, 2008, 122 Stat. 1820, 1834; Pub. L. 113–79, title III, §3202, Feb. 7, 2014, 128 Stat. 779; Pub. L. 115–334, title III, §3303, Dec. 20, 2018, 132 Stat. 4619.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -279,6 +281,8 @@ Subsec. (f)(2). Pub. L. 105–385, §212(a)(4)(A), inserted "of trust" after "Re
 Subsec. (f)(2)(A). Pub. L. 105–385, §212(a)(4)(B), inserted before period at end "and the funds shall be available to replenish the trust under subsection (b)".
 
 Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, §212(b)(3)(B), substituted "trust" for "reserve".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

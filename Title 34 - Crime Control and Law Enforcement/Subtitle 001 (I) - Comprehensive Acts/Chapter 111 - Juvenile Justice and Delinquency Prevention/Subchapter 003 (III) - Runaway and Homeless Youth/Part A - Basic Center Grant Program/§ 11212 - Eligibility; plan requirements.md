@@ -22,7 +22,7 @@ In order to qualify for assistance under section 11211(a) of this title, an appl
 
 &emsp;&emsp;(A) proper relations with law enforcement personnel, health and mental health care personnel, social service personnel, school system personnel, and welfare personnel;
 
-&emsp;&emsp;(B) coordination with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway and homeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\]; and
+&emsp;&emsp;(B) coordination with McKinney-Vento school district liaisons, designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11432(g)(1)(J)(ii)), to assure that runaway andhomeless youth are provided information about the educational services available to such youth under subtitle B of title VII of that Act \[42 U.S.C. 11431 et seq.\]; and
 
 &emsp;&emsp;(C) the return of runaway and homeless youth from correctional institutions;
 
@@ -98,7 +98,7 @@ To be eligible to use assistance under section 11211(a)(2)(C)(iii) of this title
 
 &emsp;(2) an assurance that in providing such services the applicant shall conduct outreach activities for runaway and homeless youth.
 
-(Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3, 1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, §3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §3(b), Oct. 8, 2008, 122 Stat. 4069.)
+(Pub. L. 93–415, title III, §312, Sept. 7, 1974, 88 Stat. 1130; Pub. L. 95–115, §7(a)(2), (3), Oct. 3,1977, 91 Stat. 1058; Pub. L. 96–509, §18(d), Dec. 8, 1980, 94 Stat. 2762; Pub. L. 98–473, title II, §652, Oct. 12, 1984, 98 Stat. 2123; Pub. L. 100–690, title VII, §7271(c)(1)–(3), Nov. 18, 1988, 102 Stat. 4453; Pub. L. 102–586, §3(c), Nov. 4, 1992, 106 Stat. 5019; Pub. L. 106–71, §3(c), Oct. 12, 1999, 113 Stat. 1036; Pub. L. 108–96, title I, §§105, 106, 109, Oct. 10, 2003, 117 Stat. 1168, 1169; Pub. L. 110–378, §3(b), Oct. 8, 2008, 122 Stat. 4069.)
 
 #### <b>Editorial Notes</b>
 
@@ -132,7 +132,7 @@ Subsec. (b)(2). Pub. L. 102–586, §3(c)(2)(A), amended par. (2) generally. Pri
 
 Subsec. (b)(3). Pub. L. 102–586, §3(c)(2)(B), substituted "parents or other relatives of the youth and ensuring" for "child's parents or relatives and assuring" and "youth" for "child" after "the" in two places.
 
-Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read asfollows: "shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;".
+Subsec. (b)(4). Pub. L. 102–586, §3(c)(2)(C), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "shall develop an adequate plan for assuring proper relations with law enforcement personnel, social service personnel, school system personnel, and welfare personnel, and the return of runaway and homeless youth from correctional institutions;".
 
 Subsec. (b)(5). Pub. L. 102–586, §3(c)(2)(D), substituted "providing counseling and aftercare services to such youth, for encouraging the involvement of their parents or legal guardians in counseling, and for ensuring" for "aftercare counseling involving runaway and homeless youth and their families within the State in which the runaway and homeless youth center is located and for assuring" and "youth" for "children" after "those".
 

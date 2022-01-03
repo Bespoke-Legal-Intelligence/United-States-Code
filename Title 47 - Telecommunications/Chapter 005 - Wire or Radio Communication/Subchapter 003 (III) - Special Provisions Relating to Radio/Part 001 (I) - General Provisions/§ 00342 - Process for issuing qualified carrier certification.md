@@ -22,11 +22,11 @@ Any entity seeking the certification provided for in subsection (a) shall submit
 
 &emsp;&emsp;(A) Identification of each such designated market area and the location of its local receive facility.
 
-&emsp;&emsp;(B) Data showing the number of households, and maps showing the geographic distribution thereof, in each such designated market area based on the most recent census data released by the United States Census Bureau.
+&emsp;&emsp;(B) Data showing the number of households, and maps showing the geographic distribution thereof, in each such designatedmarket area based on the most recent census data released by the United States Census Bureau.
 
 &emsp;&emsp;(C) Maps, with superimposed effective isotropically radiated power predictions obtained in the satellite manufacturer's pre-launch tests, showing that the contours of the carrier's satellite beams as designed and the geographic area that the carrier's satellite beams are designed to cover are predicted to provide a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
 
-&emsp;&emsp;(D) For any satellite relied upon for certification under this section, an affidavitstating that, to the best of the affiant's knowledge, there have been no satellite or sub-system failures subsequent to the satellite's launch that would degrade the design performance to such a degree that a satellite transponder used to provide local service to any such designated market area is precluded from delivering a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
+&emsp;&emsp;(D) For any satellite relied upon for certification under this section, an affidavit stating that, to the best of the affiant's knowledge, there have been no satellite or sub-system failures subsequent to the satellite's launch that would degrade the design performance to such a degree that a satellite transponder used to provide local service to any such designated market area is precluded from delivering a good quality satellite signal to at least 90 percent of the households in such designated market area based on the most recent census data released by the United States Census Bureau.
 
 &emsp;&emsp;(E) Any additional engineering, designated market area, or other information the Commission considers necessary to determine whether the Commission shall grant a certification under this section.
 

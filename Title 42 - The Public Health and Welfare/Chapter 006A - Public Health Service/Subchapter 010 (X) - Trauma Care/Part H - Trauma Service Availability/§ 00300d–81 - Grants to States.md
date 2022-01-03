@@ -40,7 +40,7 @@ The recipient of a grant under subsection (b) shall carry out 1 or more of the f
 
 &emsp;(4) Establishing new trauma services in underserved areas as defined by the State.
 
-&emsp;(5) Enhancing collaboration between trauma centers and other hospitals and emergencymedical services personnel related to trauma service availability.
+&emsp;(5) Enhancing collaboration between trauma centers and other hospitals and emergency medical services personnel related to trauma service availability.
 
 &emsp;(6) Making capital improvements to enhance access and expedite trauma care, including providing helipads and associated safety infrastructure.
 

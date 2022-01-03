@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) Conduct of research, which may include basic or applied research, evaluation, and the analysis of public policy in areas that affect or could affect, either positively or negatively, individuals with developmental disabilities and their families.
 
-&emsp;&emsp;(D) Dissemination of information related to activities undertaken to address the purpose of this subchapter, especially dissemination of information that demonstrates that the network authorized under this part is a national and international resource that includes specific substantive areas of expertise that may be accessed and applied in diverse settings and circumstances.
+&emsp;&emsp;(D) Dissemination of information related to activities undertaken to address the purpose of this subchapter, especially dissemination of information that demonstrates that the network authorized under this partis a national and international resource that includes specific substantive areas of expertise that may be accessed and applied in diverse settings and circumstances.
 
 #### (b) National training initiatives on critical and emerging needs
 
@@ -30,7 +30,7 @@
 
 #### (2) Establishment of consultation process by the Secretary
 
-&emsp;Not later than 1 year after October 30, 2000, the Secretary shall establish a consultation process that, on an ongoing basis, allows theSecretary to identify and address, through supplemental grants authorized under paragraph (1), training initiatives related to the unmet needs of individuals with developmental disabilities and their families.
+&emsp;Not later than 1 year after October 30, 2000, the Secretary shall establish a consultation process that, on an ongoing basis, allows the Secretary to identify and address, through supplemental grants authorized under paragraph (1), training initiatives related to the unmet needs of individuals with developmental disabilities and their families.
 
 #### (c) Technical assistance
 

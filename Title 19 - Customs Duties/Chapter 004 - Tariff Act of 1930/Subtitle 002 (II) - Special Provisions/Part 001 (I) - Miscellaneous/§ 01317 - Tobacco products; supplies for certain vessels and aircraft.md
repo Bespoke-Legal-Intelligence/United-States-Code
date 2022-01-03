@@ -6,9 +6,11 @@ The shipment or delivery of manufactured tobacco, snuff, cigars, or cigarettes, 
 
 #### (b) Exportation of supplies for certain vessels and aircraft
 
-The shipment or delivery of any merchandise for use as supplies (including equipment) upon, or in the maintenance or repair of any vessel or aircraft described in subdivision (2) or (3) of section 1309(a) of this title, or for use as ground equipment for any such aircraft, shall be deemed an exportation within the meaning of the customs and internal-revenue laws applicable to the exportation of such merchandise without the payment of duty or internal-revenue tax. With respect to merchandise for use as ground equipment, such shipment or delivery shall not be deemed an exportation within the meaning of the internal-revenue laws relating to taxes other than those imposed upon or by reason of importation.
+The shipment or delivery of any merchandise for use as supplies (including equipment) upon,or in the maintenance or repair of any vessel or aircraft described in subdivision (2) or (3) of section 1309(a) of this title, or for use as ground equipment for any such aircraft, shall be deemed an exportation within the meaning of the customs and internal-revenue laws applicable to the exportation of such merchandise without the payment of duty or internal-revenue tax. With respect to merchandise for use as ground equipment, such shipment or delivery shall not be deemed an exportation within the meaning of the internal-revenue laws relating to taxes other than those imposed upon or by reason of importation.
 
 (June 17, 1930, ch. 497, title III, §317, 46 Stat. 696; June 25, 1938, ch. 679, §5(b), 52 Stat. 1081; Aug. 8, 1953, ch. 397, §11(b), 67 Stat. 514.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -19,6 +21,8 @@ Section 2197(a) of title 26, referred to in subsec. (a), is a reference to secti
 <b>1953</b>—Subsec. (b). Act Aug. 8, 1953, extended to foreign vessels the exemption from payment of duty and internal revenue tax theretofore available for supplies used in the maintenance or repair of aircraft; and provided an exemption for ground equipment for foreign-flag aircraft from duties and taxes imposed on, by reason of, importation.
 
 <b>1938</b>—Act June 25, 1938, amended section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1953 Amendment; Savings Provision
 

@@ -46,6 +46,8 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, §6003(b), 100 Stat. 3341–377.
 
 In subsection (b), the words "and conditions" are omitted as being included in "terms".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 49102 was renumbered section 50102 of this title.

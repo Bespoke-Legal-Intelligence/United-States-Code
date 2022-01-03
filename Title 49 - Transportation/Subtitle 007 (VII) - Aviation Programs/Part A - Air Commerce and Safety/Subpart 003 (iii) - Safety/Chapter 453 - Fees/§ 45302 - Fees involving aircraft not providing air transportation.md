@@ -74,6 +74,8 @@ In subsection (d), the words "Money collected from fees imposed" are substituted
 
 This amends 49:45302 because the final regulations are not yet effective.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsecs. (d), (e)(1). Pub. L. 115–254 substituted "44703(g)(2)" for "44703(f)(2)".
@@ -81,6 +83,8 @@ This amends 49:45302 because the final regulations are not yet effective.
 <b>2012</b>—Subsec. (e). Pub. L. 112–95 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–429 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1994 Amendment
 

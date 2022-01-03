@@ -42,7 +42,7 @@ Nothing in this chapter <sup>1</sup> creates a right or benefit, substantive or
 
 #### References in Text
 
-Public Law 96–586 (commonly known as the "Santini-Burton Act"), referred to in subsec. (b)(1), is Pub. L. 96–586, Dec. 23, 1980, 94 Stat. 3381. For complete classification of this Act to the Code, see Tables.
+Public Law 96–586 (commonly known as the "Santini-Burton Act"), referred to in subsec. (b)(1), is Pub. L.96–586, Dec. 23, 1980, 94 Stat. 3381. For complete classification of this Act to the Code, see Tables.
 
 The Southern Nevada Public Land Management Act of 1998, referred to in subsec. (b)(2), is Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2343, which amended section 460ccc–1 of Title 16, Conservation, and section 6901 of Title 31, Money and Finance, and enacted provisions set out as a note under section 6901 of Title 31. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 6901 of Title 31 and Tables.
 

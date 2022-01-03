@@ -26,9 +26,13 @@ Except to the extent otherwise provided in regulations, this section shall not a
 
 (Added Pub. L. 99–514, title XV, §1523(a), Oct. 22, 1986, 100 Stat. 2747; amended Pub. L. 104–168, title XII, §1201(a)(12), July 30, 1996, 110 Stat. 1470.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

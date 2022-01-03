@@ -12,7 +12,7 @@
 
 (d) Under regulations to be prescribed by the Secretary of Defense, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, a non-prior-service person who is qualified for induction for active duty in an armed force and who is not under orders to report for induction into an armed force under the Military Selective Service Act (50 U.S.C. 3801 et seq.), except as provided in clauses (ii) and (iii) of section 6(c)(2)(A) of such Act (50 U.S.C. 3806(c)(2)(A)), may be enlisted in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Navy Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve, for a term of not less than six years nor more than eight years. Each person enlisted under this subsection shall perform an initial period of active duty for training of not less than twelve weeks to commence insofar as practicable within one year after the date of that enlistment.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 18, §511; Pub. L. 85–861, §1(8), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 88–110, §3, Sept. 3, 1963, 77 Stat. 135; Pub. L. 90–168, §2(11), Dec. 1, 1967, 81 Stat. 523; Pub. L. 94–106, title VIII, §802(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 95–485, title IV, §405(c)(1), Oct. 20, 1978, 92 Stat. 1615; Pub. L. 96–107, title VIII, §805(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title V, §511(14), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 97–252, title XI, §1115(a), Sept. 8, 1982, 96 Stat. 750; Pub. L. 97–295, §1(6), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, §1022(a)(1), Sept. 24, 1983, 97 Stat. 670; renumbered §12103, Pub. L. 103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §533(a), Dec. 2, 2002, 116Stat. 2547; Pub. L. 109–163, div. A, title V, §515(b)(1)(JJ), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(vii), Dec. 23, 2016, 130 Stat. 2418.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 18, §511; Pub. L. 85–861, §1(8), Sept. 2, 1958, 72 Stat. 1439; Pub. L. 88–110, §3, Sept. 3, 1963, 77 Stat. 135; Pub. L. 90–168, §2(11), Dec. 1, 1967, 81 Stat. 523; Pub. L. 94–106, title VIII, §802(a), Oct. 7, 1975, 89 Stat. 537; Pub. L. 95–485, title IV, §405(c)(1), Oct. 20, 1978, 92 Stat. 1615; Pub. L. 96–107, title VIII, §805(a), Nov. 9, 1979, 93 Stat. 812; Pub. L. 96–513, title V, §511(14), Dec. 12, 1980, 94 Stat. 2921; Pub. L. 97–252, title XI, §1115(a), Sept. 8, 1982, 96 Stat. 750; Pub. L. 97–295, §1(6), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–94, title X, §1022(a)(1), Sept. 24, 1983, 97 Stat. 670; renumbered §12103, Pub. L. 103–337, div. A, title XVI, §1662(b)(2), Oct. 5, 1994, 108 Stat. 2989; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title V, §533(a), Dec. 2, 2002, 116 Stat. 2547; Pub. L. 109–163, div. A, title V, §515(b)(1)(JJ), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 114–328, div. A, title X, §1081(b)(1)(A)(vii), Dec. 23, 2016, 130 Stat. 2418.)
 
 Historical and Revision Notes<br>1956
 
@@ -58,6 +58,8 @@ Aug. 9, 1955, ch. 665, §2(i) (1st 2 pars.), 69 Stat. 600.
 
 In subsection (b), the words "respectively, pursuant to the provisions of this section" are omitted as surplusage. The words "as a Reserve for service" are inserted to reflect section 510 of this title. The last six words of the first sentence are substituted for 50:1012(b) (1st sentence).
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Military Selective Service Act, referred to in subsecs. (b) and (d), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 3801 of Title 50 and Tables.
@@ -99,6 +101,8 @@ Subsec. (d). Pub. L. 97–252 extended to 270 from 180 days requirement for comm
 <b>1963</b>—Subsec. (d). Pub. L. 88–110 added subsec. (d).
 
 <b>1958</b>—Subsecs. (b), (c). Pub. L. 85–861, §1(8)(A), added subsec. (b) and redesignated former subsec. (b) as (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2002 Amendments
 

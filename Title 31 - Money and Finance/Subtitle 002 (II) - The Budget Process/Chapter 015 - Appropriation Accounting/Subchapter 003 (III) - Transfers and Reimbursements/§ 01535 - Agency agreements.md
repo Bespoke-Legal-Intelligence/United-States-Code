@@ -12,7 +12,7 @@
 
 (b) Payment shall be made promptly by check on the written request of the agency or unit filling the order. Payment may be in advance or on providing the goods or services ordered and shall be for any part of the estimated or actual cost as determined by the agency or unit filling the order. A bill submitted or a request for payment is not subject to audit or certification in advance of payment. Proper adjustment of amounts paid in advance shall be made as agreed to by the heads of the agencies or units on the basis of the actual cost of goods or services provided.
 
-(c) A condition or limitation applicable to amounts for procurement of an agency or unitplacing an order or making a contract under this section applies to the placing of the order or the making of the contract.
+(c) A condition or limitation applicable to amounts for procurement of an agency or unit placing an order or making a contract under this section applies to the placing of the order or the making of the contract.
 
 (d) An order placed or agreement made under this section obligates an appropriation of the ordering agency or unit. The amount obligated is deobligated to the extent that the agency or unit filling the order has not incurred obligations, before the end of the period of availability of the appropriation, in—
 
@@ -184,7 +184,7 @@ Definitions.—In this section:
 
 #### Review and Enhancement of Existing Authorities for Using Air Force and Air National Guard Modular Airborne Fire-Fighting Systems and Other Department of Defense Assets To Fight Wildfires
 
-Pub. L. 108–136, div. A, title X, §1058, Nov. 24, 2003, 117 Stat. 1619, provided that:
+Pub. L. 108–136, div. A, title X, §1058, Nov. 24, 2003, 117 Stat. 1619, as amended by Pub. L. 117–81, div. A, title X, §1065, Dec. 27, 2021, 135 Stat. 1910, provided that:
 
 "(a)
 
@@ -216,7 +216,21 @@ Reporting Requirement.—Not later than 120 days after the date of the enactment
 
 "(f)
 
-Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or\(d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress."
+Delayed Implementation.—The modifications described in the report prepared under subsection (e) to be made to existing authorities under subsection (c) or (d) shall not take effect until the end of the 30-day period beginning on the date on which the report is transmitted to Congress.
+
+"(g)
+
+Updated Review and Enhancement of Authorities.—(1) Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022 \[Dec. 27, 2021\], the Director shall—
+
+&emsp;"(A) conduct a second review under subsection (a) and make a second determination under subsection (b); and
+
+&emsp;"(B) submit to Congress a report that includes—
+
+&emsp;&emsp;"(i) the results of the second review and second determination required by subparagraph (A); and
+
+&emsp;&emsp;"(ii) a description, based on such second determination, of any new modifications proposed to be made to existing authorities under subsection (c) or (d), including whether there is a need for legislative changes to further improve the procedures for using Department of Defense assets to fight wildfires.
+
+"(2) Pursuant to the second determination under subsection (b) required by paragraph (1)(A), the Director shall develop and implement such modifications, regulations, policies, and interagency procedures as the Director determines appropriate pursuant to subsections (c) and (d). Any such modification, regulation, policy, or interagency procedure shall not take effect until the end of the 30-day period beginning on the date on which the report is submitted to Congress under paragraph (1)(B)."
 
 #### Placement of Orders by Chief Administrative Officer of the House of Representatives
 

@@ -74,7 +74,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(II) for use by such other person as a fuel in a trade or business, or
 
-&emsp;&emsp;&emsp;&emsp;(III) who sells such agri-biodiesel at retail to another person and places such agri-biodiesel in the fuel tank of such other person, or
+&emsp;&emsp;&emsp;&emsp;(III) who sells such agri-biodiesel at retail to another person and places suchagri-biodiesel in the fuel tank of such other person, or
 
 &emsp;&emsp;&emsp;(ii) is used or sold by such producer for any purpose described in clause (i).
 
@@ -200,7 +200,7 @@ For purposes of this section—
 
 #### (ii) Patrons
 
-&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shallbe included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+&emsp;&emsp;&emsp;The amount of the credit apportioned to patrons pursuant to subparagraph (A) shall be included in the amount determined under such subsection for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
 
 #### (iii) Special rules for decrease in credits for taxable year
 
@@ -248,7 +248,9 @@ For purposes of this title—
 
 This section shall not apply to any sale or use after December 31, 2022.
 
-(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230.)
+(Added Pub. L. 108–357, title III, §302(a), Oct. 22, 2004, 118 Stat. 1463; amended Pub. L. 109–58, title XIII, §§1344(a), 1345(a)–(d), 1346(a), (b)(1), Aug. 8, 2005, 119 Stat. 1052–1055; Pub. L. 109–135, title IV, §412(h), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 110–234, title XV, §15321(f), May 22, 2008, 122 Stat. 1514; Pub. L. 110–246, §4(a), title XV, §15321(f), June 18, 2008, 122 Stat. 1664, 2276; Pub. L. 110–343, div. B, title II, §§202(a), (b)(1), (b)(3)–(f), 203(b), Oct. 3, 2008, 122 Stat. 3832, 3833; Pub. L. 111–312, title VII, §701(a), Dec. 17, 2010, 124 Stat. 3310; Pub. L. 112–240, title IV, §405(a), Jan. 2, 2013, 126 Stat. 2340; Pub. L. 113–295, div. A, title I, §153(a),Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §185(a)(1), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40407(a)(1), Feb. 9, 2018, 132 Stat. 149; Pub. L. 116–94, div. Q, title I, §121(a)(1), Dec. 20, 2019, 133 Stat. 3230.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -331,6 +333,8 @@ Subsec. (f). Pub. L. 109–58, §1346(a), added subsec. (f). Former subsec. (f) 
 Pub. L. 109–58, §1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, §1346(a), redesignated subsec. (f) as (g).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2019 Amendment
 

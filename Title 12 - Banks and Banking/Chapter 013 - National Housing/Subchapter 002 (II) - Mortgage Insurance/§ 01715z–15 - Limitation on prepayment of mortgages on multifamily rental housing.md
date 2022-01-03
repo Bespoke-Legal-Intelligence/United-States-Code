@@ -24,7 +24,7 @@ For purposes of this section, the term "lower income families" has the meaning g
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–625, §602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In the case of a project assisted under section 1715z–1 of this title or the proviso to section 1715l(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or section 1701q of thistitle where the owner has the right to prepay the mortgage covering the assisted project without the Secretary's approval, the Secretary shall give a priority for additional assistance under section 1437f of title 42 and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
+<b>1990</b>—Subsec. (b). Pub. L. 101–625, §602(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "In the case of a project assisted under section 1715z–1 of this title or the proviso to section 1715l(d)(5) of this title, section 101 of the Housing and Urban Development Act of 1965, or section 1701q of this title where the owner has the right to prepay the mortgage covering the assisted project without the Secretary's approval, the Secretary shall give a priority for additional assistance under section 1437f of title 42 and section 201 of the Housing and Community Development Amendments of 1978 to tenants and applicants to become tenants of the project, if—
 
 &emsp;"(1) funds to provide such additional assistance are available; and
 

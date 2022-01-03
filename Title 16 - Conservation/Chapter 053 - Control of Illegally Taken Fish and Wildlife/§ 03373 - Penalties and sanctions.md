@@ -16,7 +16,7 @@
 
 #### (b) Hearings
 
-Hearings held during proceedings for the assessment of civil penalties shall be conducted in accordance with section 554 of title 5. The administrative law judge may issue subpenas for the attendance and testimony of witnesses andthe production of relevant papers, books, or documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena issued pursuant to this paragraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Hearings held during proceedings for the assessment of civil penalties shall be conducted in accordance with section 554 of title 5. The administrative law judge may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents, and may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena issued pursuant to this paragraph and served upon any person, the district court of the United States for any districtin which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 #### (c) Review of civil penalty
 
@@ -50,6 +50,8 @@ The Secretary may also suspend, modify, or cancel any Federal hunting or fishing
 
 (Pub. L. 97–79, §4, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §§102, 103, Nov. 14, 1988, 102 Stat. 3825, 3826; Pub. L. 110–234, title VII, §8204(c), (f), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(c), (f), June 18, 2008, 122 Stat. 1664, 2055, 2056.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in subsecs. (a)(1), (3), (d)(1), (2), and (e), was in the original "this Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
@@ -58,7 +60,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Codification
 
-"Magnuson-Stevens Fishery Conservation and Management Act" substituted for "Fishery Conservation and Management Act of 1976" in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+"Magnuson-Stevens Fishery Conservation and Management Act" substituted for "Fishery Conservation and Management Act of 1976" in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -85,6 +87,8 @@ Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior t
 Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted "(other than subsections (b) and (d) of section 3372 of this title)" for "(other than subsection 3372(b) of this title)" in pars. (1)(A), (B), and (2).
 
 Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2008 Amendment
 

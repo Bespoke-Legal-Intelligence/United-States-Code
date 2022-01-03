@@ -6,9 +6,11 @@ To carry out the purposes of this subchapter, there is established in the Depart
 
 #### (b) Equal employment opportunity and employment; term
 
-The Corps shall be open to youth from all parts of the country of both sexes and youth of all social, economic, and racial classifications with all Corps members receiving compensation consistent with work accomplished, and with no person being employed as a member of the Corps for a term in excess of ninety days during any single year.
+The Corps shall be open to youth from all parts of the country of both sexes and youth of all social, economic, and racial classificationswith all Corps members receiving compensation consistent with work accomplished, and with no person being employed as a member of the Corps for a term in excess of ninety days during any single year.
 
 (Pub. L. 91–378, title I, §102, formerly §2, Aug. 13, 1970, 84 Stat. 795; Pub. L. 92–597, Oct. 27, 1972, 86 Stat. 1319; Pub. L. 93–408, Sept. 3, 1974, 88 Stat. 1066; renumbered title I, §102, and amended Pub. L. 103–82, title I, §105(1)–(4), Sept. 21, 1993, 107 Stat. 848.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -19,6 +21,8 @@ The Corps shall be open to youth from all parts of the country of both sexes and
 Subsec. (b). Pub. L. 93–408 substituted "from all parts of the country of both sexes and youth of all social, economic, and racial classifications with all Corps members receiving compensation consistent with work accomplished, and with" for "of both sexes and youth of all social, economic, and racial classifications, with".
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–597 substituted "established in the Department of the Interior and the Department of Agriculture a Youth Conservation" and "under his jurisdiction" for "hereby established in the Department of the Interior and the Department of Agriculture a three-year pilot program designated as the Youth Conservation" and "under the jurisdiction of the appropriate Secretary" respectively, and extended eligibility to permanent residents of trust territories.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1993 Amendment
 

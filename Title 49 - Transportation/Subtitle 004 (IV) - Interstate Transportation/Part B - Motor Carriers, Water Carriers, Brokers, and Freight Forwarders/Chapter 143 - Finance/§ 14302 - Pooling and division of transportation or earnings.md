@@ -30,7 +30,7 @@ Hearing.—If the Board determines either that the agreement or combination is o
 
 &emsp;(4)
 
-Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest ofbetter service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
+Special rules for household goods carriers.—In the case of an application for Board approval of an agreement or combination between a motor carrier providing transportation of household goods and its agents to pool or divide traffic or services or any part of their earnings, such agreement or combination shall be presumed to be in the interest of better service to the public and of economy in operation and not to restrain competition unduly if the practices proposed to be carried out under such agreement or combination are the same as or similar to practices carried out under agreements and combinations between motor carriers providing transportation of household goods to pool or divide traffic or service of any part of their earnings approved by the Interstate Commerce Commission before January 1, 1996.
 
 &emsp;(5)
 
@@ -76,6 +76,8 @@ This sets out the effective date of 49:14302.
 
 This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
@@ -84,7 +86,7 @@ Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was o
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in sections 11341 and 11342 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
+Provisions similar to those in this section were contained in sections 11341 and 11342 of this title prior tothe general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
 
@@ -95,6 +97,8 @@ Subsec. (g). Pub. L. 104–287, §5(37)(B), substituted "January 1, 1996," for "
 Subsec. (h)(1). Pub. L. 104–287, §5(37)(C), substituted "December 31, 1995" for "the day before the effective date of this section".
 
 Subsec. (h)(2). Pub. L. 104–287, §5(37)(D), substituted "December 31, 1995" for "the day before such effective date".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

@@ -20,9 +20,13 @@ Duties.—The Secretary shall prescribe the duties of the position of beneficiar
 
 (Added Pub. L. 106–65, div. A, title VII, §715(a)(1), Oct. 5, 1999, 113 Stat. 690; amended Pub. L. 108–136, div. A, title VII, §707, Nov. 24, 2003, 117 Stat. 1529.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 added subpar. (B) and redesignated former subpar. (B) as (C).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Deadline for Initial Designations
 

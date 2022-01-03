@@ -24,7 +24,7 @@ Act
 
 June 19, 1948, ch. 511, 62 Stat. 489.
 
-The word "Shall" is substituted for the words "authorized and directed". The words "on active duty" aresubstituted for the words "in service". The words "warrant officers, and flight officers" are omitted, since the definition of "officer" in section 101(14) of this title covers commissioned, warrant, and flight officers. The words "who has only a temporary appointment" are substituted for the words "of the Air Force \* \* \* of the United States". The words "his physical condition is such that he" are substituted for the words "their treatment for physical reconstruction has reached a point where they". The words "in the Air Force" are substituted for the words "in the military service".
+The word "Shall" is substituted for the words "authorized and directed". The words "on active duty" are substituted for the words "in service". The words "warrant officers, and flight officers" are omitted, since the definition of "officer" in section 101(14) of this title covers commissioned, warrant, and flight officers. The words "who has only a temporary appointment" are substituted for the words "of the Air Force \* \* \* of the United States". The words "his physical condition is such that he" are substituted for the words "their treatment for physical reconstruction has reached a point where they". The words "in the Air Force" are substituted for the words "in the military service".
 
 1958
 
@@ -44,6 +44,8 @@ June 15, 1956, ch. 388, 70 Stat. 282.
 
 The words "commissioned officers and warrant" are omitted as covered by the definition of the word "officer" in section 101(14) of this title. The words "condition is such that" are substituted for the words "reconstruction has reached a point where".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8446 of this title as this section.
@@ -53,6 +55,8 @@ The words "commissioned officers and warrant" are omitted as covered by the defi
 <b>1989</b>—Pub. L. 101–189 amended section generally. Prior to amendment, section read as follows: "Notwithstanding any other provision of law, the President may retain on active duty any disabled officer until his physical condition is such that he will not be further benefited by retention in a military or Veterans' Administration hospital or until he is processed for physical disability benefits provided by law."
 
 <b>1958</b>—Pub. L. 85–861 substituted "may retain on active duty any disabled officer" for "shall retain on active duty any disabled officer who has only a temporary appointment", and "military or Veterans' Administration hospital or until he is processed for physical disability benefits provided by law", for "military hospital or in the Army".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

@@ -42,7 +42,7 @@ Agreement Requirements.—An agreement under this section shall require the stud
 
 &emsp;(4) apply for, and accept, if tendered, an appointment as a commissioned officer in the Navy Reserve (including the Strategic Sealift Officer Program, Navy Reserve), the Coast Guard Reserve, or any other reserve component of an armed force of the United States, and, if tendered the appointment, to serve and meet the participation requirements and to maintain active status in good standing, as determined by the program manager of the appropriate military service, for at least 8 years after the date of commissioning;
 
-&emsp;(5) serve the foreign and domestic commerce and the national defense of the United Statesfor at least 3 years after graduation from the academy—
+&emsp;(5) serve the foreign and domestic commerce and the national defense of the United States for at least 3 years after graduation from the academy—
 
 &emsp;&emsp;(A) as a merchant marine officer on a documented vessel or a vessel owned and operated by the United States Government or by a State;
 
@@ -122,7 +122,7 @@ Service as commissioned officer.—An individual who, for the 5-year period foll
 
 Modification or waiver.—The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L.110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 114–92, div. C, title XXXV, §3507, Nov. 25, 2015, 129 Stat. 1221.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721; Pub. L. 114–92, div. C, title XXXV, §3507, Nov. 25, 2015, 129 Stat. 1221.)
 
 Historical and Revision Notes
 

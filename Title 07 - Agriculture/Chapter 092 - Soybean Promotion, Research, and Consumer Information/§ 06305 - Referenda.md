@@ -82,6 +82,8 @@
 
 (Pub. L. 101–624, title XIX, §1970, Nov. 28, 1990, 104 Stat. 3898; Pub. L. 102–237, title VIII, §806(2), Dec. 13, 1991, 105 Stat. 1883.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (b)(3)(A). Pub. L. 102–237 made technical amendment to reference to this chapter to correct reference to corresponding provision of original act.

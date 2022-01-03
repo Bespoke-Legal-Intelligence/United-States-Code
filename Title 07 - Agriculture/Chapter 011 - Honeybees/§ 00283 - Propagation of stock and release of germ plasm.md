@@ -4,6 +4,8 @@ The Secretary of Agriculture may propagate bee-breeding stock and may release be
 
 (Sept. 21, 1944, ch. 412, title I, §103, 58 Stat. 735; Oct. 31, 1951, ch. 654, §3(1), 65 Stat. 708; Pub. L. 97–98, title XI, §1120, Dec. 22, 1981, 95 Stat. 1273.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 This section was not enacted as part of act Aug. 31, 1922, which comprises this chapter.
@@ -19,6 +21,8 @@ July 12, 1943, ch. 215, 57 Stat. 407.
 <b>1981</b>—Pub. L. 97–98 inserted "and may release bee germ plasm to the public".
 
 <b>1951</b>—Act Oct. 31, 1951, struck out provisions relating to sale of surplus bee-breeding stock, and the fixing of rates and disposition of proceeds in connection therewith.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1981 Amendment
 

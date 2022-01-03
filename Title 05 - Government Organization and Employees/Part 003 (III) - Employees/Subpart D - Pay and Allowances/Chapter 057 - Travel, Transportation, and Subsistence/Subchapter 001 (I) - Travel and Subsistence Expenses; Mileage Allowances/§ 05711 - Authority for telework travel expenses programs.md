@@ -46,7 +46,7 @@
 
 &emsp;(A) the employee is employed at a Patent and Trademark Office worksite and enters into an approved telework arrangement;
 
-&emsp;(B) the employee requests to telework from a location beyond the local commuting area ofthe Patent and Trademark Office worksite; and
+&emsp;(B) the employee requests to telework from a location beyond the local commuting area of the Patent and Trademark Office worksite; and
 
 &emsp;(C) the Patent and Trademark Office approves the requested arrangement for reasons of employee convenience instead of an agency need for the employee to relocate in order to perform duties specific to the new location.
 

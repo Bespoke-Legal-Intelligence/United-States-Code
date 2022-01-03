@@ -18,7 +18,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (B) Peer review requirement
 
-&emsp;&emsp;The Director of the Institute shall make a grant to, or enter into a contract with, an entity for purposes of establishing a centerunder paragraph (1) only if the grant or contract has been recommended after technical and scientific peer review required by regulations under section 289a of this title.
+&emsp;&emsp;The Director of the Institute shall make a grant to, or enter into a contract with, an entity for purposes of establishing a center under paragraph (1) only if the grant or contract has been recommended after technical and scientific peer review required by regulations under section 289a of this title.
 
 #### (3) Activities
 
@@ -38,9 +38,13 @@ The Director of the Institute, after consultation with the advisory council for 
 
 (July 1, 1944, ch. 373, title IV, §452E, as added Pub. L. 106–310, div. A, title II, §201, Oct. 17, 2000, 114 Stat. 1109; amended Pub. L. 109–482, title I, §103(b)(30), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (b)(7). Pub. L. 109–482 struck out heading and text of par. (7). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2007 Amendment
 

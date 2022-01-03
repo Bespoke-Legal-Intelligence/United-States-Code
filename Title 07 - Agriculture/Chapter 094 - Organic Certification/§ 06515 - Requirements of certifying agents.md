@@ -30,7 +30,7 @@ Any certifying agent shall fully comply with the terms and conditions of the app
 
 #### (f) Confidentiality
 
-Except as provided in section 6506(a)(9) of this title, any certifying agent shall maintain strict confidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
+Except as provided in section 6506(a)(9) of this title, any certifying agent shall maintain strictconfidentiality with respect to its clients under the applicable organic certification program and may not disclose to third parties (with the exception of the Secretary or the applicable governing State official) any business related information concerning such client obtained while implementing this chapter.
 
 #### (g) Conflict of interest
 
@@ -75,6 +75,8 @@ A certifying agent that is a private person shall nominate the individual who co
 Not later than 90 days after the date on which a new certifying office performing certification activities opens, an accredited certifying agent shall notify the Secretary of the opening.
 
 (Pub. L. 101–624, title XXI, §2116, Nov. 28, 1990, 104 Stat. 3944; Pub. L. 102–237, title X, §1001(5), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 113–79, title X, §10005(b)(1), Feb. 7, 2014, 128 Stat. 944; Pub. L. 115–334, title X, §10104(d), Dec. 20, 2018, 132 Stat. 4900.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

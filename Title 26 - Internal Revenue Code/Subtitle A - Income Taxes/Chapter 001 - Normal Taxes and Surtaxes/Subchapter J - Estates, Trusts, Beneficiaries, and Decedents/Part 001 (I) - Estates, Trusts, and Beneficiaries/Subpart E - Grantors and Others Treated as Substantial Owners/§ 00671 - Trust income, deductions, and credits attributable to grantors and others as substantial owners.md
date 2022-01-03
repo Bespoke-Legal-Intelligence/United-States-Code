@@ -4,6 +4,8 @@ Where it is specified in this subpart that the grantor or another person shall b
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 226.)
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Certain Entities Not Treated as Corporations
 
 Pub. L. 99–514, title VI, §646, Oct. 22, 1986, 100 Stat. 2292, as amended by Pub. L. 100–647, title I, §1006(k), Nov. 10, 1988, 102 Stat. 3411, provided that:
@@ -90,7 +92,7 @@ Election treated as a liquidation.—If an election is made under subsection (c)
 
 &emsp;"(2)
 
-Termination of election.—If an entity ceases to be described in subsection (b) or violates any termof the agreement described in subsection (c)(2), the entity shall, for purposes of the Internal Revenue Code of 1986, be treated as a corporation for the taxable year in which such cessation or violation occurs and for all subsequent taxable years.
+Termination of election.—If an entity ceases to be described in subsection (b) or violates any term of the agreement described in subsection (c)(2), the entity shall, for purposes of the Internal Revenue Code of 1986, be treated as a corporation for the taxable year in which such cessation or violation occurs and for all subsequent taxable years.
 
 &emsp;"(3)
 

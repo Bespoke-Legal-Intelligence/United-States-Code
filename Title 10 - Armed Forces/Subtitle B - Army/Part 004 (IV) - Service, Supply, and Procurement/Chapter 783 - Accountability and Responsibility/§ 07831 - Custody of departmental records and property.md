@@ -20,9 +20,13 @@ R.S. 217.
 
 The words "under the lawful control of the executive part of the Department of the Army" are substituted for the words "appertaining to the Department".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4831 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

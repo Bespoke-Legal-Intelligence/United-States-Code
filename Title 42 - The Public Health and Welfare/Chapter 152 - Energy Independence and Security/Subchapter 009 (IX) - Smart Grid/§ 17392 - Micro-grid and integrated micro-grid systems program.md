@@ -60,9 +60,9 @@ In this section:
 
 &emsp;&emsp;(A) opportunities for improving the efficiency of existing integrated micro-grid systems;
 
-&emsp;&emsp;(B) the capacity of the local workforce to operate, maintain, and repair a integratedmicro-grid system as well as opportunities to improve that capacity;
+&emsp;&emsp;(B) the capacity of the local workforce to operate, maintain, and repair a integrated micro-grid system as well as opportunities to improve that capacity;
 
-&emsp;&emsp;(C) leveraging existing capacity within local or regional research organizations, such as organizations based at institutions of higher education, to support development of integrated micro-grid systems, including by testing novel components and systems prior to field deployment;
+&emsp;&emsp;(C) leveraging existing capacity within local or regional research organizations, such as organizations based at institutions of higher education, to support development of integrated micro-grid systems, includingby testing novel components and systems prior to field deployment;
 
 &emsp;&emsp;(D) the need for basic infrastructure to develop, deploy, and sustain a integrated micro-grid system;
 
@@ -115,6 +115,8 @@ Not later than 180 days after December 27, 2020, and annually thereafter until c
 &emsp;The Secretary shall award grants of not more than $500,000 to not fewer than 20 municipal governments, rural electric cooperatives, or isolated communities, up to a total of $15,000,000, each year to assist those municipal governments, rural electric cooperatives, and isolated communities in overcoming the barriers identified in the report under paragraph (1).
 
 (Pub. L. 116–260, div. Z, title VIII, §8011, Dec. 27, 2020, 134 Stat. 2589.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

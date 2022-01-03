@@ -2,7 +2,7 @@
 
 #### (a) Authorization to make competitive grants; covered institutions, businesses, etc.; purpose
 
-The Foundation shall, in accordance with the provisions of this subchapter, make competitive grants to institutions of higher education, businesses, nonprofit private organizations (including schools), local education agencies, professional engineering and scientific associations, museums, libraries, public broadcasting entities (as defined in section 397(11) of title 47), and appropriate State agencies to support institutes and workshops for supervisors and teachers inpublic and private elementary and secondary schools for the purpose of improving the subject knowledge and teaching skills of such teachers in the areas of mathematics and science.
+The Foundation shall, in accordance with the provisions of this subchapter, make competitive grants to institutions of higher education, businesses, nonprofit private organizations (including schools), local education agencies, professional engineering and scientific associations, museums, libraries, public broadcasting entities (as defined in section 397(11) of title 47), and appropriate State agencies to support institutes and workshops for supervisors and teachers in public and private elementary and secondary schools for the purpose of improving the subject knowledge and teaching skills of such teachers in the areas of mathematics and science.
 
 #### (b) Equitable distribution of grants; awards in each State
 
@@ -17,6 +17,8 @@ Institutes assisted under this subchapter may, to the extent possible, involve t
 In making grants under this subchapter, the Foundation shall require assurances that local education agencies will be involved in the planning and development of the institute in the case of applications submitted by other eligible applicants described in subsection (a) of this section, or that one or more such applicants will be involved in the planning and development of the institute in the case of applications submitted by State or local education agencies.
 
 (Pub. L. 98–377, title I, §103, as added Pub. L. 99–159, title II, §201, Nov. 22, 1985, 99 Stat. 894.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

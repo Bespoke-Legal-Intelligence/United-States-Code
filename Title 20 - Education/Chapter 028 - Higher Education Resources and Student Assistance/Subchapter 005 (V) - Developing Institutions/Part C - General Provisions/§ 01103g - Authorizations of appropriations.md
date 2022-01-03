@@ -16,6 +16,8 @@ In the event of a multiple year award to any Hispanic-serving institution under 
 
 (Pub. L. 89–329, title V, §528, formerly §518, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1774; renumbered §528 and amended Pub. L. 110–315, title V, §§502(a)(2), 505, Aug. 14, 2008, 122 Stat. 3331, 3333.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 1103g, Pub. L. 89–329, title V, §518, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 677, authorized appropriations for National Teacher Academies program, prior to the general amendment of this subchapter by Pub. L. 105–244.
@@ -94,7 +96,7 @@ Section 1106b, Pub. L. 89–329, title V, §543, as added Pub. L. 102–325, tit
 
 Section 1106c, Pub. L. 89–329, title V, §544, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 690, related to State applications for funds.
 
-Section 1106d, Pub. L. 89–329, title V, §545, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.690; amended Pub. L. 103–208, §2(j)(6), Dec. 20, 1993, 107 Stat. 2481, related to Teacher Corps scholarships.
+Section 1106d, Pub. L. 89–329, title V, §545, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 690; amended Pub. L. 103–208, §2(j)(6), Dec. 20, 1993, 107 Stat. 2481, related to Teacher Corps scholarships.
 
 Section 1106e, Pub. L. 89–329, title V, §546, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 691, related to scholarship conditions.
 
@@ -144,7 +146,7 @@ Prior sections 1109 to 1109e, 1110 to 1110e, 1111 to 1111h, 1112 to 1112e, and 1
 
 Section 1109, Pub. L. 89–329, title V, §561, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700, set forth purpose of class size demonstration grant program.
 
-A prior section 1109, Pub. L. 89–329, title V, §541, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1503; amended Pub. L. 100–50, §16(1), June 3, 1987, 101 Stat. 358; Pub. L. 101–226, §20, Dec. 12, 1989, 103 Stat. 1936, related to purpose of, and regulations under, leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1109, Pub. L. 89–329, title V, §541, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1503; amended Pub. L. 100–50, §16(1), June 3, 1987, 101 Stat. 358; Pub. L. 101–226, §20, Dec. 12, 1989, 103 Stat. 1936, related to purpose of, and regulations under, leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Another prior section 1109, Pub. L. 89–329, title V, §519, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 88; amended Pub. L. 90–575, title II, §234(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(c)(2)(B), June 23, 1972, 86 Stat. 285, authorized allotments and reallotments to States, etc., for grants for implementation of program and set forth criteria for determination of amounts, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
@@ -162,7 +164,7 @@ A prior section 1109c, Pub. L. 89–329, title V, §544, as added Pub. L. 99–4
 
 Section 1109d, Pub. L. 89–329, title V, §565, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 702, related to evaluation of demonstration projects and dissemination of information.
 
-A prior section 1109d, Pub. L. 89–329, title V, §545, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1505; amended Pub. L. 100–50, §16(5), June 3, 1987, 101 Stat. 359, defined terms for purposes of leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1109d, Pub. L. 89–329, title V, §545, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1505; amended Pub. L. 100–50, §16(5), June 3, 1987, 101 Stat. 359, defined terms for purposes of leadership in educational administration development program, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1109e, Pub. L. 89–329, title V, §565A, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 702, authorized appropriations for class size demonstration grant program.
 
@@ -202,7 +204,7 @@ A prior section 1111b, Pub. L. 89–329, title V, §553, as added Pub. L. 99–4
 
 Section 1111c, Pub. L. 89–329, title V, §574, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 705, related to applications for grants.
 
-A prior section 1111c, Pub. L. 89–329, title V, §554, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1508, related to amount and duration of assistance under Congressional teacher fellowships and relationship of such assistance to other assistance, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1111c, Pub. L. 89–329, title V, §554, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100Stat. 1508, related to amount and duration of assistance under Congressional teacher fellowships and relationship of such assistance to other assistance, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1111d, Pub. L. 89–329, title V, §575, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 706, related to requirements of recipients of student financial assistance under programs.
 
@@ -224,7 +226,7 @@ Section 1111h, Pub. L. 89–329, title V, §576C, as added Pub. L. 102–325, ti
 
 A prior section 1111h, Pub. L. 89–329, title V, §559, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1510, related to Federal administration of State programs and judicial review of Congressional teacher scholarship programs, prior to the general of this subchapter by Pub. L. 102–325.
 
-Section 1112, Pub. L. 89–329, title V, §577, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.708, stated purpose of grant program to encourage minority students to become teachers.
+Section 1112, Pub. L. 89–329, title V, §577, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 708, stated purpose of grant program to encourage minority students to become teachers.
 
 A prior section 1112, Pub. L. 89–329, title V, §522, Nov. 8, 1965, 79 Stat. 1258; Pub. L. 90–35, §5(c), June 29, 1967, 81 Stat. 91; Pub. L. 90–247, title VII, §704(b), Jan. 2, 1968, 81 Stat. 820, authorized Commissioner to award fellowships for graduate study by teaching personnel, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
@@ -286,7 +288,7 @@ Section 1117c, Pub. L. 89–329, title V, §599, as added Pub. L. 102–325, tit
 
 A prior section 1118, Pub. L. 89–329, title V, §528, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(g), June 29, 1967, 81 Stat. 91; Pub. L. 90–247, title VII, §704(c)(1), Jan. 2, 1968, 81 Stat. 820; Pub. L. 90–575, title II, §231(a), (b)(2), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), June 23, 1972, 86 Stat. 284, authorized appropriations for fiscal years 1966 to 1974 to enable persons who were awarded fellowships prior to July 1, 1972, to complete their study under fellowships, prior to repeal by Pub. L. 92–318, title I, §141(c)(1)(E), June 23, 1972, 86 Stat. 285, eff. on and after July 1, 1972.
 
-Prior sections 1119 to 1119e–5 provided for teacher training programs, training for elementary and secondary school teachers to teach handicapped children in areas with a shortage, coordination of education professional development, Carl D. Perkins Scholarship program, and National Talented Teacher Fellowshipprogram, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Prior sections 1119 to 1119e–5 provided for teacher training programs, training for elementary and secondary school teachers to teach handicapped children in areas with a shortage, coordination of education professional development, Carl D. Perkins Scholarship program, and National Talented Teacher Fellowship program, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Section 1119 Pub. L. 89–329, title V, §531, as added Pub. L. 94–482, title I, §153, formerly §153(a), Oct. 12, 1976, 90 Stat. 2154, renumbered Pub. L. 95–43, §1(b)(5), June 15, 1977, 91 Stat. 218; amended Pub. L. 95–561, title XIII, §1321(a), Nov. 1, 1978, 92 Stat. 2362; Pub. L. 96–49, §6(b), Aug. 13, 1979, 93 Stat. 353; Pub. L. 96–374, title V, §§501(b), 503(a), Oct. 3, 1980, 94 Stat. 1459, authorized appropriations for fiscal years 1981 to 1985 to carry out teacher training programs.
 

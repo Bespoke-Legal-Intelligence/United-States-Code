@@ -16,7 +16,7 @@ Pub. L. 111–275, title I, §106, Oct. 13, 2010, 124 Stat. 2870, provided that:
 
 "(a)
 
-Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the 'Veterans Energy-Related Employment Program'. Under the pilot program, the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a 'State Energy-Related Employment Program'.
+Establishment of Pilot Program.—To encourage the employment of eligible veterans in the energy industry, the Secretary of Labor, as part of the Veterans Workforce Investment Program, shall carry out a pilot program to be known as the 'Veterans Energy-Related Employment Program'. Under the pilot program,the Secretary shall award competitive grants to not more than three States for the establishment and administration of a State program to make grants to energy employers that provide covered training, on-job training, apprenticeships, and certification classes to eligible veterans. Such a program shall be known as a 'State Energy-Related Employment Program'.
 
 "(b)
 
@@ -128,7 +128,7 @@ Purpose.—It is the purpose of this section to ensure that veterans who are dis
 
 "(b)
 
-Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary of Labor and the Administrator of Veterans' Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall include provisions that define the relationships and responsibilities of the Veterans' Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:
+Memorandum of Understanding.—(1) Not later than one year after the date of the enactment of this Act \[Nov. 18, 1988\], the Secretary of Labor and the Administrator of Veterans' Affairs shall enter into a memorandum of understanding to carry out the purpose of this section. The memorandum shall includeprovisions that define the relationships and responsibilities of the Veterans' Administration, the Department of Labor, and State and local agencies with respect to the provision of the following information, forms, and assistance:
 
 &emsp;"(A) Information on services and benefits referred to in subsection (d).
 
@@ -142,7 +142,7 @@ Memorandum of Understanding.—(1) Not later than one year after the date of the
 
 "(c)
 
-Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans' Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former 29 U.S.C. 1662a(b)\] or any successor to such unit or office undertitle I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
+Coordination of Department of Labor Activities.—The Assistant Secretary of Labor for Veterans' Employment and Training, in consultation with the unit or office designated or created under section 322(b) of the Job Training Partnership Act \[former 29 U.S.C. 1662a(b)\] or any successor to such unit or office under title I of the Workforce Investment Act of 1998 \[former 29 U.S.C. 2801 et seq.\], shall, except as the Secretary of Labor may otherwise direct, coordinate the activities of the components of the Department of Labor performing the responsibilities of the Secretary of Labor under this section.
 
 "(d)
 
@@ -410,7 +410,7 @@ Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended by Pub. L. 98–160, ti
 
 &emsp;"(B) in the case of the employees of an employer, if the Secretary determines that—
 
-&emsp;&emsp;"(i) the employer has an appropriate and effective employee assistance program that is available to all veterans participating in the employer's programs of job training under this Act; or
+&emsp;&emsp;"(i) the employer has an appropriate and effective employee assistance program that is available toall veterans participating in the employer's programs of job training under this Act; or
 
 &emsp;&emsp;"(ii) the rate of veterans' successful completion of the employer's programs of job training under this Act, either cumulatively or during the previous program year, is 60 percent or higher.
 
@@ -480,7 +480,7 @@ Sec. 17. Assistance may not be paid to an employer under this Act—
 
 \[Pub. L. 99–238, title II, §201(f), Jan. 13, 1986, 99 Stat. 1768, provided that:
 
-\["(1) Except as provided in paragraph (2), the amendments made by this section \[amending Pub. L. 98–77above\] shall take effect on the date of the enactment of this Act \[Jan. 13, 1986\].
+\["(1) Except as provided in paragraph (2), the amendments made by this section \[amending Pub. L. 98–77 above\] shall take effect on the date of the enactment of this Act \[Jan. 13, 1986\].
 
 \["(2) The amendment made by subsection (e)(2) \[amending section 17(a)(1) of Pub. L. 98–77 above\] shall take effect on February 1, 1986."\]
 

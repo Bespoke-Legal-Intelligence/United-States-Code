@@ -20,7 +20,7 @@ Each of these two sections has been divided. Provisions relating to theft or lar
 
 Words "letter box, mail receptacle, or any mail route" are from section 321 of title 18, U.S.C., 1940 ed. Such receptacles are authorized depositaries. (See <i>Rosen v. United States</i>, N.Y. 1917, 38 S.Ct. 148, 245 U.S. 467, 62 L.Ed. 406, and <i>Foster v. Biddle</i>, C.C.A. Kan. 1926, 14 F.2d 280, involving indictment under section 317 of title 18, U.S.C., 1940 ed.) No cases are reported of prosecutions for mail theft under section 321 of title 18, U.S.C., 1940 ed., which relates primarily to malicious mischief respecting letter boxes.
 
-Language omitted from section 317 of title 18, U.S.C., 1940 ed., and all of section 321 of title 18, U.S.C., 1940 ed.,except that above quoted, was incorporated in sections 1702 and 1705 of this title.
+Language omitted from section 317 of title 18, U.S.C., 1940 ed., and all of section 321 of title 18, U.S.C., 1940 ed., except that above quoted, was incorporated in sections 1702 and 1705 of this title.
 
 Words "or aids in buying, receiving, or concealing" were omitted as unnecessary in view of the definition of principal in section 2 of this title.
 

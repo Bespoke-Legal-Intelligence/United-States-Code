@@ -42,7 +42,7 @@ In this section the following definitions shall apply:
 
 #### (1) In general
 
-&emsp;In any covered judicial or administrative action, or related action, the Commission, under regulations prescribed by the Commission and subject to subsection (c), shall pay an award or awards to 1 or more whistleblowers who voluntarily provided original information to the Commission that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to—
+&emsp;In any covered judicial or administrative action, or related action, the Commission, under regulations prescribed by the Commission and subject to subsection (c), shall pay an award orawards to 1 or more whistleblowers who voluntarily provided original information to the Commission that led to the successful enforcement of the covered judicial or administrative action, or related action, in an aggregate amount equal to—
 
 &emsp;&emsp;(A) not less than 10 percent, in total, of what has been collected of the monetary sanctions imposed in the action or related actions; and
 
@@ -70,7 +70,7 @@ In this section the following definitions shall apply:
 
 &emsp;&emsp;&emsp;&emsp;(II) the degree of assistance provided by the whistleblower and any legal representative of the whistleblower in a covered judicial or administrative action;
 
-&emsp;&emsp;&emsp;&emsp;(III) the programmatic interest of the Commission in deterring violations ofthe securities laws by making awards to whistleblowers who provide information that lead to the successful enforcement of such laws; and
+&emsp;&emsp;&emsp;&emsp;(III) the programmatic interest of the Commission in deterring violations of the securities laws by making awards to whistleblowers who provide information that lead to the successful enforcement of such laws; and
 
 &emsp;&emsp;&emsp;&emsp;(IV) such additional relevant factors as the Commission may establish by rule or regulation; and
 
@@ -156,7 +156,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (A) Amounts in Fund may be invested
 
-&emsp;&emsp;The Commission may request the Secretary of the Treasury to invest the portionof the Fund that is not, in the discretion of the Commission, required to meet the current needs of the Fund.
+&emsp;&emsp;The Commission may request the Secretary of the Treasury to invest the portion of the Fund that is not, in the discretion of the Commission, required to meet the current needs of the Fund.
 
 #### (B) Eligible investments
 
@@ -230,7 +230,7 @@ Any determination made under this section, including whether, to whom, or in wha
 
 #### (II) Required action within 10 years
 
-&emsp;&emsp;&emsp;&emsp;Notwithstanding subclause (I), an action under this subsection may not in any circumstance be brought more than 10 years after the date on which the violation occurs.
+&emsp;&emsp;&emsp;&emsp;Notwithstanding subclause (I), an action under this subsection may not inany circumstance be brought more than 10 years after the date on which the violation occurs.
 
 #### (C) Relief
 
@@ -306,11 +306,15 @@ The Commission shall have the authority to issue such rules and regulations as m
 
 (June 6, 1934, ch. 404, title I, §21F, as added Pub. L. 111–203, title IX, §922(a), July 21, 2010, 124 Stat. 1841.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
 This chapter, referred to in subsec. (h)(1)(A)(iii), was in the original "the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.)". This chapter, referred to in subsec. (h)(2)(D)(i), was in the original "this Act". See References in Text note set out under section 78a of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

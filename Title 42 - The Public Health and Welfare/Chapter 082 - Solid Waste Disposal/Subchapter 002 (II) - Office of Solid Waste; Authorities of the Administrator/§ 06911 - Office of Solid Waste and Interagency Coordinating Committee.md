@@ -6,7 +6,7 @@ The Administrator shall establish within the Environmental Protection Agency an 
 
 #### (b) Interagency Coordinating Committee
 
-(1) There is hereby established an Interagency Coordinating Committee on Federal Resource Conservation and Recovery Activities which shall have the responsibility for coordinating all activities dealing with resource conservation and recovery from solid waste carried out by the Environmental Protection Agency, the Department of Energy, the Department of Commerce, and all other Federal agencies which conduct such activities pursuant to this chapter or any other Act. For purposes of this subsection, the term "resource conservation and recovery activities" shall include, but not be limited to, all research, development and demonstration projects on resource conservation or energy, or material, recovery from solid waste, and all technical or financial assistance for State or local planning for, or implementation of, projects related to resource conservation or energy or material, recovery from solid waste. The Committee shall be chaired by the Administrator of the Environmental Protection Agency or such person as the Administrator may designate. Members of the Committee shall include representatives of the Department of Energy, the Department of Commerce, the Department of the Treasury, and each other Federal agency which the Administrator determines to have programs or responsibilities affecting resource conservation or recovery.
+(1) There is hereby established an Interagency Coordinating Committee on Federal Resource Conservation and Recovery Activities which shall have the responsibility for coordinating all activities dealing with resource conservation and recovery from solid waste carried out by the Environmental Protection Agency, the Department of Energy, the Department of Commerce, and all other Federal agencies which conduct such activities pursuant to this chapter or any other Act. For purposes of this subsection, the term "resource conservation and recovery activities" shall include, but not be limited to, allresearch, development and demonstration projects on resource conservation or energy, or material, recovery from solid waste, and all technical or financial assistance for State or local planning for, or implementation of, projects related to resource conservation or energy or material, recovery from solid waste. The Committee shall be chaired by the Administrator of the Environmental Protection Agency or such person as the Administrator may designate. Members of the Committee shall include representatives of the Department of Energy, the Department of Commerce, the Department of the Treasury, and each other Federal agency which the Administrator determines to have programs or responsibilities affecting resource conservation or recovery.
 
 (2) The Interagency Coordinating Committee shall include oversight of the implementation of
 
@@ -17,6 +17,8 @@ The Administrator shall establish within the Environmental Protection Agency an 
 &emsp;(C) any subsequent agreements between these agencies or other Federal agencies which address Federal resource recovery or conservation activities.
 
 (Pub. L. 89–272, title II, §2001, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2804; amended Pub. L. 96–482, §4(c), Oct. 21, 1980, 94 Stat. 2335; Pub. L. 96–510, title III, §307(a), Dec. 11, 1980, 94 Stat. 2810.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -32,9 +34,13 @@ Subsection (b)(3) of this section, which required the Interagency Coordinating C
 
 Pub. L. 96–482 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1980 Amendment
 
 Pub. L. 96–510, title III, §307(c), Dec. 11, 1980, 94 Stat. 2810, provided that: "The amendment made by subsection (a) \[amending this section\] shall become effective ninety days after the date of the enactment of this Act \[Dec. 11, 1980\]."
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

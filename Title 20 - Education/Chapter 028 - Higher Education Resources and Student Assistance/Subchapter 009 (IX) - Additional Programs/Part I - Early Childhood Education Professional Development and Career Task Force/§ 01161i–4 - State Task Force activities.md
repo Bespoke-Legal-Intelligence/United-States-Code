@@ -54,11 +54,11 @@ The State Task Force shall—
 
 &emsp;&emsp;&emsp;(ii) shall be provided in an amount that does not exceed $17,500;
 
-&emsp;&emsp;(E) supporting professional development activities and a career lattice for a varietyof early childhood professional roles with varying professional qualifications and responsibilities for early childhood education personnel, including strategies to enhance the compensation of such personnel;
+&emsp;&emsp;(E) supporting professional development activities and a career lattice for a variety of early childhood professional roles with varying professional qualifications and responsibilities for early childhood education personnel, including strategies to enhance the compensation of such personnel;
 
 &emsp;&emsp;(F) supporting articulation agreements between two- and four-year public and private institutions of higher education and mechanisms to transform other training, professional development, and experience into academic credit;
 
-&emsp;&emsp;(G) developing mentoring and coaching programs to support new educators in and directors of early childhood education programs;
+&emsp;&emsp;(G) developing mentoring and coaching programs to support new educators in anddirectors of early childhood education programs;
 
 &emsp;&emsp;(H) providing career development advising with respect to the field of early childhood education, including informing an individual regarding—
 

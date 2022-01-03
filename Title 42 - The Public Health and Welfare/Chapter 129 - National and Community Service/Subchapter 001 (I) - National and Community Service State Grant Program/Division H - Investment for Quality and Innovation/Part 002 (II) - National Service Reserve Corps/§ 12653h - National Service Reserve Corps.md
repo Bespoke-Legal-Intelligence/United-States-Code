@@ -98,6 +98,8 @@ The Corporation shall develop or contract with an outside organization to develo
 
 (Pub. L. 101–610, title I, §198H, as added Pub. L. 111–13, title I, §1806, Apr. 21, 2009, 123 Stat. 1562.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 102 of the Robert T. Stafford Disaster Relief and Assistance Act (42 U.S.C. 5122), referred to in subsec. (f)(1), (2), probably means section 102 of Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified to section 5122 of this title.
@@ -115,6 +117,8 @@ Prior sections 12653i and 12653j were renumbered by section 104(b) of Pub. L. 10
 Section 12653i, Pub. L. 101–610, title I, §195I, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2530, which related to status of Corps members and Corps personnel under Federal law, was renumbered section 160 of Pub. L. 101–610 and transferred to section 12620 of this title.
 
 Section 12653j, Pub. L. 101–610, title I, §195J, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2530, which provided for contract and grant authority of Corps Director, was renumbered section 161 of Pub. L. 101–610 and transferred to section 12621 of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

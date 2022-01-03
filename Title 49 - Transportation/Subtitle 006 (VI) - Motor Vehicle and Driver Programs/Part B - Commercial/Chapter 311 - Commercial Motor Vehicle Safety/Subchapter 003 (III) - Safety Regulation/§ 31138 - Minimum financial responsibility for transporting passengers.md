@@ -78,7 +78,7 @@ Nonapplication.—This section does not apply to a motor vehicle—
 
 &emsp;(3) carrying not more than 15 individuals in a single, daily round trip to and from work; or
 
-&emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the specialneeds of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
+&emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919; Pub. L. 107–298, §3(b)(2), Nov. 26, 2002, 116 Stat. 2343; Pub. L. 109–59, title IV, §§4120(a), 4121, Aug. 10, 2005, 119 Stat. 1733, 1734; Pub. L. 110–244, title III, §305(a), June 6, 2008, 122 Stat. 1619.)
 
@@ -126,11 +126,13 @@ In subsection (b), before clause (1), the text of section 18(b)(1) (words beginn
 
 In subsection (c)(1), the words "The Secretary shall establish, by regulation, methods and procedures to assure compliance with this section" are omitted as surplus.
 
-In subsection (d)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
+In subsection (d)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penaltymay be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
 
 In subsection (d)(5), the words "when finally determined (or agreed upon in compromise)" are omitted as surplus.
 
 In subsection (e), before clause (1), the text of section 18(g) of the Bus Regulatory Reform Act of 1982 (Public Law 97–261, 96 Stat. 1122) is omitted as unnecessary because of the restatement.
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -155,6 +157,8 @@ Subsec. (d)(5). Pub. L. 109–59, §4121, substituted "Highway Trust Fund (other
 <b>1995</b>—Subsec. (c)(3). Pub. L. 104–88, §104(c), added par. (3).
 
 Subsec. (e)(4). Pub. L. 104–88, §104(d), added par. (4).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

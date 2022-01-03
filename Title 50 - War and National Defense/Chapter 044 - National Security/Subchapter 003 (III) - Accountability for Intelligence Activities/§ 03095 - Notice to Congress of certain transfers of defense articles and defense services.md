@@ -36,7 +36,9 @@
 
 &emsp;&emsp;(B) in the case of defense services, the full cost to the Government of providing the services.
 
-(July 26, 1947, ch. 343, title V, §505, formerly §503, as added Pub. L. 99–569, title VI, §602(a), Oct. 27, 1986, 100 Stat. 3203; renumbered §505 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(2), 604, Aug. 14, 1991, 105 Stat. 441, 444, 445; Pub. L. 103–160, div. A, title VIII, §828(d)(1), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 115–232, div. A, title VIII, §809(r), Aug. 13, 2018, 132 Stat. 1844.)
+(July 26, 1947, ch. 343, title V, §505, formerly §503, as added Pub. L. 99–569, title VI, §602(a), Oct. 27, 1986, 100 Stat. 3203; renumbered §505 andamended Pub. L. 102–88, title VI, §§602(a)(1), (c)(2), 604, Aug. 14, 1991, 105 Stat. 441, 444, 445; Pub. L. 103–160, div. A, title VIII, §828(d)(1), Nov. 30, 1993, 107 Stat. 1715; Pub. L. 115–232, div. A, title VIII, §809(r), Aug. 13, 2018, 132 Stat. 1844.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -57,6 +59,8 @@ In subsec. (a)(2)(B)(i), "chapters 1 to 11 of title 40 and division C (except se
 <b>1993</b>—Subsec. (a)(2)(B)(i). Pub. L. 103–160 substituted "section 7307(a)" for "section 7307(b)(1)".
 
 <b>1991</b>—Subsec. (a)(1). Pub. L. 102–88 inserted ", or the anticipated transfer in any fiscal year of any aggregation of defense articles or defense services," after "service" and substituted "this subchapter" for "section 413 of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

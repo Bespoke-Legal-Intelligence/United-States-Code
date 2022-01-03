@@ -74,7 +74,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (B) Projects and programs
 
-&emsp;&emsp;Subject to the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, and such terms and conditions as the Secretary determines to be appropriate, the Secretary may approve projects and programs for a refuge or complex of geographically related refuges that—
+&emsp;&emsp;Subject to the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, and such terms andconditions as the Secretary determines to be appropriate, the Secretary may approve projects and programs for a refuge or complex of geographically related refuges that—
 
 &emsp;&emsp;&emsp;(i) promote the stewardship of resources of the refuge through habitat maintenance, restoration, and improvement, biological monitoring, or research;
 
@@ -132,7 +132,9 @@ Not later than 1 year after January 4, 2011, and every 5 years thereafter, the S
 
 There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2018 through 2022.
 
-(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2, 4(a), Jan. 4, 2011, 124 Stat. 3979, 3980; Pub. L. 115–168, §2, Apr. 23, 2018, 132 Stat. 1284.)
+(Aug. 8, 1956, ch. 1036, §7, 70 Stat. 1122; Pub. L. 95–616, §4, Nov. 8, 1978, 92 Stat. 3112; Pub. L. 97–347, §2, Oct. 18, 1982, 96 Stat. 1652; Pub. L. 98–44, title I, §103(a)(2), July 12, 1983, 97 Stat. 216; Pub. L. 98–498, title IV, §430(2), Oct. 19, 1984, 98 Stat. 2310; Pub. L. 105–242, §§3, 4(b), (c), 5–7, Oct. 5, 1998, 112 Stat. 1574–1578; Pub. L. 108–327, §§2, 4, Oct. 16, 2004, 118 Stat. 1271; Pub. L. 111–357, §§2,4(a), Jan. 4, 2011, 124 Stat. 3979, 3980; Pub. L. 115–168, §2, Apr. 23, 2018, 132 Stat. 1284.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -178,9 +180,7 @@ Subsec. (a)(5). Pub. L. 95–616, §4(1), struck out par. (5) relating to wildli
 
 Subsecs. (b), (c). Pub. L. 95–616, §4(3), added subsecs. (b) and (c).
 
-#### Transfer of Functions
-
-Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Congressional Findings and Purposes
 
@@ -211,4 +211,10 @@ Purposes.—The purposes of this Act are—
 #### Pilot Projects
 
 Pub. L. 105–242, §4(a), Oct. 5, 1998, 112 Stat. 1575, as amended, formerly set out as a note under this section, was transferred and is classified to section 742f–1 of this title.
+
+#### <b>Executive Documents</b>
+
+#### Transfer of Functions
+
+Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, see note set out under section 742b of this title.
 

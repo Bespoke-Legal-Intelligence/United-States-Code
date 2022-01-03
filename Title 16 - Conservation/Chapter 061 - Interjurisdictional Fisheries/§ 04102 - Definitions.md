@@ -32,6 +32,8 @@ For the purposes of this chapter:
 
 (Pub. L. 99–659, title III, §303, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 This chapter, referred to in text, was in the original "this title", meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under section 4101 of this title and Tables.
@@ -43,6 +45,8 @@ Proclamation Numbered 5030, referred to in par. (3)(A), is set out under section
 #### Amendments
 
 <b>1996</b>—Par. (1). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

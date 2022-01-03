@@ -24,7 +24,7 @@ Consistent with the direction of the President, the functions of the Council sha
 
 #### (2) Attendance and participation in meetings
 
-&emsp;The President may designate such other officers of the United States Government as the President considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
+&emsp;The President may designate such other officers of the United States Government as thePresident considers appropriate, including the Director of National Intelligence, the Director of National Drug Control Policy, the Chairman of the Joint Chiefs of Staff, and the National Cyber Director, to attend and participate in meetings of the Council.
 
 #### (d) Presiding officers
 
@@ -46,7 +46,7 @@ At meetings of the Council, the President shall preside or, in the absence of th
 
 #### (f) Special Advisor to the President on International Religious Freedom
 
-It is the sense of Congress that there should be within the staff of the Council a Special Adviserto the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
+It is the sense of Congress that there should be within the staff of the Council a Special Adviser to the President on International Religious Freedom, whose position should be comparable to that of a director within the Executive Office of the President. The Special Adviser should serve as a resource for executive branch officials, compiling and maintaining information on the facts and circumstances of violations of religious freedom (as defined in section 6402 of title 22), and making policy recommendations. The Special Adviser should serve as liaison with the Ambassador at Large for International Religious Freedom, the United States Commission on International Religious Freedom, Congress and, as advisable, religious nongovernmental organizations.
 
 #### (g) Coordinator for combating malign foreign influence operations and campaigns
 
@@ -73,6 +73,8 @@ It is the sense of Congress that there should be within the staff of the Council
 In this section, the term "malign foreign influence operations and campaigns" means the coordinated, direct or indirect application of national diplomatic, informational, military, economic, business, corruption, educational, and other capabilities by hostile foreign powers to affect attitudes, behaviors, decisions, or outcomes within the United States.
 
 (July 26, 1947, ch. 343, title I, §101, 61 Stat. 496; Aug. 10, 1949, ch. 412, §3, 63 Stat. 579; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; Oct. 10, 1951, ch. 479, title V, §501(e)(1), 65 Stat. 378; Pub. L. 99–433, title II, §203, Oct. 1, 1986, 100 Stat. 1011; Pub. L. 99–500, §101(c) \[title IX, §9115(f)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–125, and Pub. L. 99–591, §101(c) \[title IX, §9115(f)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–125; Pub. L. 99–661, div. A, title XIII, §1311(f), Nov. 14, 1986, 100 Stat. 3986; Pub. L. 100–690, title I, §1003(a)(3), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 102–496, title VII, §703, Oct. 24, 1992, 106 Stat. 3189; Pub. L. 104–293, title VIII, §§802, 804, Oct. 11, 1996, 110 Stat. 3474, 3476; Pub. L. 105–277, div. C, title VII, §713(b), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 105–292, title III, §301, Oct. 27, 1998, 112 Stat. 2800; Pub. L. 108–458, title I, §§1071(a)(1)(A)–(D), 1072(a)(1), Dec. 17, 2004, 118 Stat. 3689, 3692; Pub. L. 110–53, title XVIII, §1841(g), Aug. 3, 2007, 121 Stat. 500; Pub. L. 110–140, title IX, §932, Dec. 19, 2007, 121 Stat. 1740; Pub. L. 113–126, title VII, §702, July 7, 2014, 128 Stat. 1422; Pub. L. 114–328, div. A, title X, §1085(a), Dec. 23, 2016, 130 Stat. 2422; Pub. L. 115–44, title II, §274(a), Aug. 2, 2017, 131 Stat. 938; Pub. L. 115–232, div. A, title X, §1043(a), Aug. 13, 2018, 132 Stat. 1957; Pub. L. 116–283, div. A, title XVII, §1752(d), Jan. 1, 2021, 134 Stat. 4147.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -138,6 +140,8 @@ Subsec. (f). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended se
 
 Subsec. (c). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923, as amended".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
@@ -168,6 +172,24 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 Pub. L. 115–44, title II, §274(b), Aug. 2, 2017, 131 Stat. 938, provided that: "The amendment made by subsection (a) \[amending this section\] may not be construed to authorize the National Security Council to have a professional staff level that exceeds the limitation set forth under section 101(e)(3) of the National Security Act of 1947 (50 U.S.C. 3021(e)(3))."
 
+#### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
+
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see section 6 of Pub. L. 100–26, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Section as Unaffected by Repeals
+
+Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendment to this section by act Oct. 10, 1951.
+
+#### Deadline for Appointment of Coordinator for Combating Malign Foreign Influence Operations and Campaigns
+
+Pub. L. 115–232, div. A, title X, §1043(c), Aug. 13, 2018, 132 Stat. 1958, provided that: "Not later than 180 days after the date of the enactment of this Act \[Aug. 13, 2018\], the President shall designate the employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns pursuant to subsection (g)(1) of section 101 of the National Security Act of 1947 (50 U.S.C. 3021), as added by subsection (a)(2)."
+
+#### Pilot Program on Cryptologic Service Training
+
+Pub. L. 108–375, div. A, title IX, §922, Oct. 28, 2004, 118 Stat. 2029, which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by Pub. L. 111–259, title III, §313(b)(1)(C), Oct. 7, 2010, 124 Stat. 2666.
+
+#### <b>Executive Documents</b>
+
 #### Transfer of Functions
 
 Office of Director for Mutual Security abolished and functions of Director, including those as a member of National Security Council, transferred to Director of Foreign Operations Administration by Reorg. Plan No. 7 of 1953, eff. Aug. 1, 1953, 18 F.R. 4541, set out in the Appendix to Title 5, Government Organization and Employees. Foreign Operations Administration abolished by Ex. Ord. No. 10610, May 9, 1955, 20 F.R. 3179, and its functions and offices transferred to Department of State to be administered by International Cooperation Administration. For later transfer, see section 2381 of Title 22, Foreign Relations and Intercourse, and notes set out under that section.
@@ -179,22 +201,6 @@ Munitions Board, together with office of Chairman, abolished by section 2 of Reo
 Research and Development Board, together with office of Chairman, abolished by section 2 of Reorg. Plan No. 6 of 1953, eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, set out in the Appendix to Title 5, Government Organization and Employees. Functions vested in Board transferred to Secretary of Defense by section 1(a) of Reorg. Plan No. 6 of 1953.
 
 National Security Council, together with its functions, records, property, personnel, and unexpended balances of appropriations, allocations, and other funds (available or to be made available) transferred to Executive Office of President by Reorg. Plan No. 4 of 1949, eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
-
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see section 6 of Pub. L. 100–26, set out as a note under section 2302 of Title 10, Armed Forces.
-
-#### Section as Unaffected by Repeals
-
-Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendment to this section by act Oct. 10, 1951.
-
-#### Deadline for Appointment of Coordinator for Combating Malign Foreign Influence Operations and Campaigns
-
-Pub. L. 115–232, div. A, title X, §1043(c), Aug. 13, 2018, 132 Stat. 1958, provided that: "Not later than 180 daysafter the date of the enactment of this Act \[Aug. 13, 2018\], the President shall designate the employee of the National Security Council to be responsible for the coordination of the interagency process for combating malign foreign influence operations and campaigns pursuant to subsection (g)(1) of section 101 of the National Security Act of 1947 (50 U.S.C. 3021), as added by subsection (a)(2)."
-
-#### Pilot Program on Cryptologic Service Training
-
-Pub. L. 108–375, div. A, title IX, §922, Oct. 28, 2004, 118 Stat. 2029, which authorized the Director of the National Security Agency to carry out a pilot program on cryptologic service training for the intelligence community, was repealed by Pub. L. 111–259, title III, §313(b)(1)(C), Oct. 7, 2010, 124 Stat. 2666.
 
 #### Executive Order No. 10483
 
@@ -230,7 +236,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;&emsp;(D) coordinate development of monitoring protocols and equipment for use in detecting the release of biological, chemical, and radiological hazards; and
 
-&emsp;&emsp;(E) ensure that, to the extent permitted by law, all appropriate and necessary intelligence and law enforcement information relating to homeland security is disseminated to and exchanged among appropriate executive departments and agencies responsible for homeland security and, where appropriate for reasons of homeland security, promote exchange of such information with and among State and local governments and private entities.
+&emsp;&emsp;(E) ensure that, to the extent permitted by law, all appropriate and necessary intelligence and law enforcement information relating to homeland security is disseminated to and exchanged among appropriate executive departments and agencies responsible for homeland security and, where appropriate for reasons of homeland security, promoteexchange of such information with and among State and local governments and private entities.
 
 &emsp;(ii) Executive departments and agencies shall, to the extent permitted by law, make available to the Office all information relating to terrorist threats and activities within the United States.
 
@@ -250,7 +256,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 (d) <i>Prevention</i>. The Office shall coordinate efforts to prevent terrorist attacks within the United States. In performing this function, the Office shall work with Federal, State, and local agencies, and private entities, as appropriate, to:
 
-&emsp;(i) facilitate the exchange of information among such agencies relating to immigration and visa matters and shipments of cargo; and, working with the Assistant to the President for National Security Affairs, ensure coordination among such agencies toprevent the entry of terrorists and terrorist materials and supplies into the United States and facilitate removal of such terrorists from the United States, when appropriate;
+&emsp;(i) facilitate the exchange of information among such agencies relating to immigration and visa matters and shipments of cargo; and, working with the Assistant to the President for National Security Affairs, ensure coordination among such agencies to prevent the entry of terrorists and terrorist materials and supplies into the United States and facilitate removal of such terrorists from the United States, when appropriate;
 
 &emsp;(ii) coordinate efforts to investigate terrorist threats and attacks within the United States; and
 
@@ -288,7 +294,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 (h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
-(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programs for educating the public about the nature of terrorist threats and appropriate precautions and responses.
+(i) <i>Public Affairs</i>. The Office, subject to the direction of the White House Office of Communications, shall coordinate the strategy of the executive branch for communicating with the public in the event of a terrorist threat or attack within the United States. The Office also shall coordinate the development of programs foreducating the public about the nature of terrorist threats and appropriate precautions and responses.
 
 (j) <i>Cooperation with State and Local Governments and Private Entities</i>. The Office shall encourage and invite the participation of State and local governments and private entities, as appropriate, in carrying out the Office's functions.
 
@@ -422,7 +428,7 @@ Sec. 4. <i>Structure and Protocols of the Atrocities Prevention Board</i>. The B
 
 (f) The Chair shall prepare written updates for the public, on an annual basis, on the work of the U.S. Government in mass atrocity prevention and response, including the work of the Board.
 
-(g) Consistent with the objectives set out in this order and in accordance with applicable law, the Board shall conduct outreach, including regular consultations, with representatives of nongovernmental organizations with expertise in mass atrocity prevention and response and other appropriate parties. Such outreach shall be for the purpose of assisting the Board with its work on considering and addressing emerging mass atrocity threats or situations and on developing new or improved policies and tools, as well as for the purpose of providing transparency on the work of the Board.
+(g) Consistent with the objectives set out in this order and in accordance with applicable law, the Board shall conduct outreach, including regular consultations, with representatives of nongovernmental organizations with expertise in mass atrocity prevention and response and other appropriate parties. Such outreach shall be for the purpose of assisting the Board with itswork on considering and addressing emerging mass atrocity threats or situations and on developing new or improved policies and tools, as well as for the purpose of providing transparency on the work of the Board.
 
 (h) In order to conduct the work set forth in this order effectively, the Board may:
 
@@ -444,7 +450,7 @@ Sec. 5. <i>Enhancing Capabilities and Tools</i>. Agencies shall take the followi
 
 (c) The Department of State and USAID shall offer mass atrocity prevention and response training courses to all officers deployed or planning deployment to countries deemed by the IC to be at high or substantial risk for mass atrocities.
 
-(d) The Department of State and USAID shall continue to build and use civilian capacity (i.e., the abilityto deploy personnel with expertise in conflict prevention, civilian protection, mediation, and other relevant skills) effectively for mass atrocity prevention and response, and shall develop mechanisms for enhanced partnerships with non-U.S. Government actors that could provide surge capacity, such as the United Nations and other multilateral and regional organizations, foreign governments, and nongovernmental organizations.
+(d) The Department of State and USAID shall continue to build and use civilian capacity (i.e., the ability to deploy personnel with expertise in conflict prevention, civilian protection, mediation, and other relevant skills) effectively for mass atrocity prevention and response, and shall develop mechanisms for enhanced partnerships with non-U.S. Government actors that could provide surge capacity, such as the United Nations and other multilateral and regional organizations, foreign governments, and nongovernmental organizations.
 
 (e) The IC shall continue to monitor developments worldwide and, as changing conditions warrant, prepare an IC-coordinated assessment updating IC judgments in its National Intelligence Estimate on the global risk of mass atrocities and genocide at regular intervals to inform the work of the Board.
 
@@ -496,7 +502,7 @@ Sec. 2. <i>GHSA Interagency Review Council</i>.
 
 &emsp;(C) Provide a forum for raising and working to resolve interagency disagreements concerning the GHSA.
 
-&emsp;(D) Review the progress toward and work to resolve challenges in achieving U.S. commitments under the GHSA, including commitments to assist other countries in achieving the GHSA targets. The Council shall consider, among other issues, the status of U.S. financial commitments to the GHSA in the context of commitments by other donors, and the contributions of partner countries to achieve the GHSA targets;progress toward the milestones outlined in GHSA national plans for those countries where the United States Government has committed to assist in implementing the GHSA and in annual work-plans outlining agency priorities for implementing the GHSA; and external evaluations of United States and partner country capabilities to address infectious disease threats, including the ability to achieve the targets outlined within the WHO Joint External Evaluation (JEE) tool, as well as gaps identified by such external evaluations.
+&emsp;(D) Review the progress toward and work to resolve challenges in achieving U.S. commitments under the GHSA, including commitments to assist other countries in achieving the GHSA targets. The Council shall consider, among other issues, the status of U.S. financial commitments to the GHSA in the context of commitments by other donors, and the contributions of partner countries to achieve the GHSA targets; progress toward the milestones outlined in GHSA national plans for those countries where the United States Government has committed to assist in implementing the GHSA and in annual work-plans outlining agency priorities for implementing the GHSA; and external evaluations of United States and partner country capabilities to address infectious disease threats, including the ability to achieve the targets outlined within the WHO Joint External Evaluation (JEE) tool, as well as gaps identified by such external evaluations.
 
 &emsp;(E) Provide, by consensus, within 30 days of the date of this order, initial policy-level guidance on GHSA implementation.
 
@@ -562,7 +568,7 @@ Sec. 3. <i>Agency Roles and Responsibilities</i>. In furtherance of the policy d
 
 (iv) coordinate planning, implementation, and evaluation of GHSA activities with the U.S. Global Malaria Coordinator at the United States Agency for International Development and the U.S. Global AIDS Coordinator at the Department of State in countries the United States has made a commitment to assist;
 
-(v) lead diplomatic outreach, including at senior levels, in conjunction with other relevant agencies, to build international support for the GHSA with its members, other countries, and regional and multilateral bodies, including the Group of 7 (G7), the Group of 20 (G20), the African Union, the WHO, the OIE, the FAO, INTERPOL, the Global Partnership Against the Spread of Weapons and Materials of Mass Destruction, the European Union, the Asia-Pacific Economic Cooperation, the Association of Southeast Asian Nations, the Economic Community of West African States, the Organization of Islamic Cooperation, development banks, and other relevant partners;
+(v) lead diplomatic outreach, including at senior levels, in conjunction with other relevant agencies, to build international support for the GHSA with itsmembers, other countries, and regional and multilateral bodies, including the Group of 7 (G7), the Group of 20 (G20), the African Union, the WHO, the OIE, the FAO, INTERPOL, the Global Partnership Against the Spread of Weapons and Materials of Mass Destruction, the European Union, the Asia-Pacific Economic Cooperation, the Association of Southeast Asian Nations, the Economic Community of West African States, the Organization of Islamic Cooperation, development banks, and other relevant partners;
 
 (vi) work, in conjunction with other relevant agencies, with other donors and nongovernmental implementers in partner countries in order to leverage commitments to advance the GHSA with partners; and
 
@@ -582,7 +588,7 @@ Sec. 3. <i>Agency Roles and Responsibilities</i>. In furtherance of the policy d
 
 (ii) facilitate implementation and coordination of FBI programs to further the GHSA, as well as provide technical expertise to measure and evaluate progress in countries the United States has made a commitment to assist; and
 
-(iii) work, in conjunction with interagency partners and the in-country GHSA team, with other donors and nongovernmental implementers in partner countries in which FBI programs are active in order to coordinateand leverage commitments to advance the GHSA with partners.
+(iii) work, in conjunction with interagency partners and the in-country GHSA team, with other donors and nongovernmental implementers in partner countries in which FBI programs are active in order to coordinate and leverage commitments to advance the GHSA with partners.
 
 (e) The Secretary of Agriculture shall:
 
@@ -646,7 +652,7 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13773. Enforcing Federal Law With Respect to Transnational Criminal Organizations and Preventing International Trafficking
 
-Ex. Ord. No. 13773, Feb. 9, 2017, 82 F.R. 10691, provided:
+Ex. Ord. No. 13773, Feb. 9, 2017, 82 F.R. 10691, as amended by Ex. Ord. No. 14060, §3(a)(i), Dec. 15, 2021, 86 F.R. 71794, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -676,27 +682,7 @@ Sec. 2. <i>Policy</i>. It shall be the policy of the executive branch to:
 
 (f) pursue and support additional efforts to prevent the operational success of transnational criminal organizations and subsidiary organizations within and beyond the United States, to include prosecution of ancillary criminal offenses, such as immigration fraud and visa fraud, and the seizure of the implements of such organizations and forfeiture of the proceeds of their criminal activity.
 
-Sec. 3. <i>Implementation</i>. In furtherance of the policy set forth in section 2 of this order, the Secretary of State, the Attorney General, the Secretary of Homeland Security, and the Director of National Intelligence, or their designees, shall co-chair and direct the existing interagency Threat Mitigation Working Group (TMWG), which shall:
-
-(a) work to support and improve the coordination of Federal agencies' efforts to identify, interdict, investigate, prosecute, and dismantle transnational criminal organizations and subsidiary organizations within and beyond the United States;
-
-(b) work to improve Federal agencies' provision, collection, reporting, and sharing of, and access to, data relevant to Federal efforts against transnational criminal organizations and subsidiary organizations;
-
-(c) work to increase intelligence and law enforcement information sharing with foreign partners battling transnational criminal organizations and subsidiary organizations, and to enhance international operational capabilities and cooperation;
-
-(d) assess Federal agencies' allocation of monetary and personnel resources for identifying, interdicting, and dismantling transnational criminal organizations and subsidiary organizations, as well as any resources that should be redirected toward these efforts;
-
-(e) identify Federal agencies' practices, any absence of practices, and funding needs that might hinder Federal efforts to effectively combat transnational criminal organizations and subsidiary organizations;
-
-(f) review relevant Federal laws to determine existing ways in which to identify, interdict, and disrupt the activity of transnational criminal organizations and subsidiary organizations, and ascertain which statutory authorities, including provisions under the Immigration and Nationality Act, could be better enforced or amended to prevent foreign members of these organizations or their associates from obtaining entry into the United States and from exploiting the United States immigration system;
-
-(g) in the interest of transparency and public safety, and in compliance with all applicable law, including the Privacy Act, issue reports at least once per quarter detailing convictions in the United States relating to transnational criminal organizations and their subsidiaries;
-
-(h) to the extent deemed useful by the Co-Chairs, and in their discretion, identify methods for Federal agencies to coordinate, as permitted by law, with State, tribal, and local governments and law enforcement agencies, foreign law enforcement partners, public-health organizations, and non-governmental organizations in order to aid in the identification, interdiction, and dismantling of transnational criminal organizations and subsidiary organizations;
-
-(i) to the extent deemed useful by the Co-Chairs, and in their discretion, consult with the Office of National Drug Control Policy in implementing this order; and
-
-(j) within 120 days of the date of this order, submit to the President a report on transnational criminal organizations and subsidiary organizations, including the extent of penetration of such organizations into the United States, and issue additional reports annually thereafter to describe the progress made in combating these criminal organizations, along with any recommended actions for dismantling them.
+Sec. 3. \[Revoked by Ex. Ord. No. 14060, §3(a)(i), Dec. 15, 2021, 86 F.R. 71794, set out below.\]
 
 Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -708,7 +694,89 @@ Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Donald J. Trump.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#### Ex. Ord. No. 14060. Establishing the United States Council on Transnational Organized Crime
+
+Ex. Ord. No. 14060, Dec. 15, 2021, 86 F.R. 71793, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
+
+Section 1. <i>Purpose</i>. Transnational organized crime (TOC) poses a direct and escalating threat to public health, public safety, and national security. Transnational criminal organizations engage in a broad range of criminal activities, including drug and weapons trafficking, migrant smuggling, human trafficking, cybercrime, intellectual property theft, money laundering, wildlife and timber trafficking, illegal fishing, and illegal mining.
+
+These networks continue to expand in size and influence in the United States and abroad. Transnational criminal organizations contribute directly to tens of thousands of drug-overdose deaths in the United States each year and adversely affect American communities and economic prosperity. They also threaten United States national security by degrading the security and stability of allied and partner nations, undermining the rule of law, fostering corruption, acting as proxies for hostile state activities, directly or indirectly funding insurgent and terrorist groups, depleting natural resources, harming human health and the environment, contributing to climate change through illegal deforestation and logging, and exploiting and endangering vulnerable populations. In some regions, transnational criminal organizations wield state-like capabilities, disregarding sovereign borders, compromising the integrity of democratic institutions and threatening the legitimacy of fragile governments, and securing their power through intimidation, corruption, and violence. For these reasons, it is in the national interest of the United States to counter TOC. Addressing TOC requiresa coordinated Federal framework accompanied by a cohesive whole-of-government effort executed in collaboration with State, local, Tribal, territorial, and civil society partners in the United States and in close coordination with foreign partners, international and regional organizations, and international and local civil society groups abroad.
+
+Sec. 2. <i>Policy</i>. Executive departments and agencies (agencies) shall take actions within their respective authorities, including, as appropriate, through the provision of technical and financial assistance, to enhance efforts to counter TOC. It is the policy of the United States to:
+
+(a) employ authorized intelligence and operational capabilities in an integrated manner to target, disrupt, and degrade transnational criminal organizations that pose the greatest threat to national security;
+
+(b) collaborate with private entities and international, multilateral, and bilateral organizations to combat TOC, while also strengthening cooperation with and advancing efforts to build capacity in partner nations to reduce transnational criminal activity;
+
+(c) improve information sharing between law enforcement entities and the Intelligence Community to enhance strategic analysis of, and efforts to combat, transnational criminal organizations and their activities, while also preserving our ability to speedily bring TOC actors to justice;
+
+(d) expand tools and capabilities to combat illicit finance, which underpins all TOC activities; and
+
+(e) develop and deploy new technologies to identify and disrupt existing and newly emerging TOC threats.
+
+Sec. 3. <i>Establishments</i>. (a) There shall be established a United States Council on Transnational Organized Crime (USCTOC), which shall report to the President through the Assistant to the President for National Security Affairs. The USCTOC shall monitor the production and implementation of coordinated strategic plans for whole-of-government counter-TOC efforts in support of and in alignment with policy priorities established by the President through the National Security Council.
+
+(i) The USCTOC shall replace the Threat Mitigation Working Group, previously directed to lead whole-of-government efforts on TOC under Executive Order 13773 of February 9, 2017 (Enforcing Federal Law With Respect to Transnational Criminal Organizations and Preventing International Trafficking) \[set out above\]. Accordingly, section 3 of Executive Order 13773 is hereby revoked.
+
+(ii) The USCTOC shall consist of the following members or their designees:
+
+&emsp;(A) the Secretary of State;
+
+&emsp;(B) the Secretary of the Treasury;
+
+&emsp;(C) the Secretary of Defense;
+
+&emsp;(D) the Attorney General;
+
+&emsp;(E) the Secretary of Homeland Security; and
+
+&emsp;(F) the Director of National Intelligence.
+
+(iii) The USCTOC may request other agencies to contribute to the USCTOC's efforts as necessary, including by detail or assignment of personnel consistent with subsection (b)(v) of this section.
+
+(iv) The USCTOC shall meet not later than 60 days from the date of this order \[Dec. 15, 2021\] and periodically thereafter.
+
+(b) There shall be established a USCTOC Strategic Division (Division), an interagency working group housed at the Department of Justice, comprising personnel from agencies designated in subsection (a)(ii) of this section.
+
+(i) The Division shall produce coordinated strategic plans for whole-of-government counter-TOC efforts in support of and in alignment with policy priorities established by the President through the National Security Council. These strategic plans shall be informed by intelligence assessments, be developed in coordination with agencies, and include recommendations for actions by agencies. The Division shall submit its completed strategic plans to the USCTOC.
+
+(ii) The Division shall be chaired by a senior official from the Department of Justice or the Department of Homeland Security. The Chairperson shall serve a 2 year term. The Attorney General and the Secretary of Homeland Security, or their designees, shall alternate every 2 years selecting the Chairperson.
+
+(iii) The Division shall be established for administrative purposes within the Department of Justice, and the Department of Justice shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support and funding for the Division.
+
+(iv) Agencies designated in subsection (a)(ii) of this section are hereby directed, consistent with their authorities, budget priorities, and mission constraints, and to the extent permitted by law and consistent with the need to protect intelligence and law enforcement sources, methods, operations, and investigations, to provide to the Division:
+
+&emsp;(A) details or assignments of personnel, who shall be qualified subject-matter experts and strategic planners, and who shall serve on full-time assignments of not less than 1 year;
+
+&emsp;(B) relevant information, research, intelligence, and analysis; and
+
+&emsp;(C) such other resources and assistance as the Division may request for the purpose of carrying out the responsibilities outlined in this section.
+
+(v) To the extent permitted by law, agencies designated in subsection (a)(ii) of this section are encouraged to detail or assign their employees to the Division on a non-reimbursable basis.
+
+(vi) The Division, within 120 days of the date of this order, shall submit to the USCTOC a report describing a process that the USCTOC can implement on an ongoing basis and as necessary to identify and prioritize the most significant TOC threats in alignment with policy priorities established by the President through the National Security Council.
+
+Sec. 4. <i>Report</i>. The Director of National Intelligence, within 120 days of the date of this order and annually thereafter, shall submit a report to the President through the Assistant to the President for National Security Affairs assessing the Intelligence Community's posture with respect to TOC-related collection efforts, including recommendations on resource allocation and prioritization.
+
+Sec. 5. <i>Definitions</i>. For the purposes of this order:
+
+(a) the term "Intelligence Community" has the meaning ascribed to it under 50 U.S.C. 3003(4); and
+
+(b) the term "transnational criminal organizations" refers to groups, networks, and associated individuals who operate transnationally for the purpose of obtaining power, influence, or monetary or commercial gain, wholly or in part by illegal means, while advancing their activities through a pattern of crime, corruption, or violence, and while protecting their illegal activities through a transnational organizational structure and the exploitation of public corruption or transnational logistics, financial, or communication mechanisms.
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Steps for Increased Legal and Policy Transparency Concerning the United States Use of Military Force and Related National Security Operations
 
@@ -718,7 +786,7 @@ Memorandum for the Heads of Executive Departments and Agencies
 
 Since my earliest days in office, I have emphasized the importance of transparency and my commitment to making as much information as possible available to the Congress and the public about the United States use of military force and related national security operations. Doing so, I believe, not only supports the process of democratic decision making, but also demonstrates the legitimacy and strengthens the sustainability of our operations while promoting mutual understanding with our allies and partners.
 
-The United States has used military force and conducted related national security operations within legal and policy frameworks that are designed to ensure that such operations are lawful and effective and that they serve our interests and values. Consistent with my commitment to transparency, my Administration has provided to the public an unprecedented amount of information regarding these frameworks through speeches, public statements, reports, and other materials. We have attempted to explain, consistent with our national security and the proper functioningof the executive branch, when and why the United States conducts such operations, the legal basis and policy parameters for such operations, and how such operations have unfolded, so that the American people can better understand them.
+The United States has used military force and conducted related national security operations within legal and policy frameworks that are designed to ensure that such operations are lawful and effective and that they serve our interests and values. Consistent with my commitment to transparency, my Administration has provided to the public an unprecedented amount of information regarding these frameworks through speeches, public statements, reports, and other materials. We have attempted to explain, consistent with our national security and the proper functioning of the executive branch, when and why the United States conducts such operations, the legal basis and policy parameters for such operations, and how such operations have unfolded, so that the American people can better understand them.
 
 In addition to the efforts we have made to date, there is still more work that can be done to inform the public. Thus, consistent with my Administration's previous efforts, by this memorandum I am directing national security departments and agencies to take additional steps to share with the public further information relating to the legal and policy frameworks within which the United States uses military force and conducts related national security operations. Accordingly, I hereby direct as follows:
 
@@ -794,7 +862,7 @@ E. <i>General</i>
 
 The President and the Vice President may attend any and all meetings of any entity established by or under this memorandum.
 
-This document is part of a series of National Security Presidential Memoranda, which have replaced both Presidential Policy Directives and Presidential Study Directives as the instrument for communicating relevant Presidential decisions. This memorandum shallsupersede all other existing Presidential directives and guidance on the organization or support of the NSC and the HSC, including National Security Presidential Memorandum–2 (January 28, 2017), which is hereby revoked. With regard to its application to economic matters, this document shall be interpreted in concert with any Executive Order governing the National Economic Council and with Presidential Memoranda signed hereafter that implement it or those Executive Orders.
+This document is part of a series of National Security Presidential Memoranda, which have replaced both Presidential Policy Directives and Presidential Study Directives as the instrument for communicating relevant Presidential decisions. This memorandum shall supersede all other existing Presidential directives and guidance on the organization or support of the NSC and the HSC, including National Security Presidential Memorandum–2 (January 28, 2017), which is hereby revoked. With regard to its application to economic matters, this document shall be interpreted in concert with any Executive Order governing the National Economic Council and with Presidential Memoranda signed hereafter that implement it or those Executive Orders.
 
 The Secretary of Defense is hereby authorized and directed to publish this memorandum in the Federal Register.
 

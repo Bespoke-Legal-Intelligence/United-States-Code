@@ -18,7 +18,7 @@ The Congress makes the following findings:
 
 &emsp;&emsp;(C) the inadequacy of training of plant operators;
 
-&emsp;&emsp;(D) reports by a former technician from Cuba who, by examining with x-rays weld sites believed to be part of the auxiliary plumbing system for the plant, found that 10 to 15 percent of those sites were defective;
+&emsp;&emsp;(D) reports by a former technician from Cuba who, by examining with x-rays weldsites believed to be part of the auxiliary plumbing system for the plant, found that 10 to 15 percent of those sites were defective;
 
 &emsp;&emsp;(E) since September 5, 1992, when construction on the plant was halted, the prolonged exposure to the elements, including corrosive salt water vapor, of the primary reactor components; and
 
@@ -62,7 +62,7 @@ The Congress makes the following findings:
 
 #### (3) "Assistance" defined
 
-&emsp;As used in paragraph (1), the term "assistance" means assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\],credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], assistance under titles I and III of the Food for Peace Act \[7 U.S.C. 1701 et seq., 1727 et seq.\], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
+&emsp;As used in paragraph (1), the term "assistance" means assistance under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], credits, sales, guarantees of extensions of credit, and other assistance under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], assistance under titles I and III of the Food for Peace Act \[7 U.S.C. 1701 et seq., 1727 et seq.\], assistance under the FREEDOM Support Act, and any other program of assistance or credits provided by the United States to other countries under other provisions of law.
 
 (Pub. L. 104–114, title I, §111, Mar. 12, 1996, 110 Stat. 800; Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(W), June 18, 2008, 122 Stat. 1820, 1821.)
 
@@ -80,7 +80,7 @@ The Arms Export Control Act, referred to in subsec. (b)(3), is Pub. L. 90–629,
 
 The Food for Peace Act, referred to in subsec. (b)(3), is act July 10, 1954, ch. 469, 68 Stat. 454. Titles I and III of the Act are classified generally to subchapters II (§1701 et seq.) and III–A (§1727 et seq.), respectively, of chapter 41 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
-The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+The FREEDOM Support Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia andEmerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
 
 #### Amendments
 

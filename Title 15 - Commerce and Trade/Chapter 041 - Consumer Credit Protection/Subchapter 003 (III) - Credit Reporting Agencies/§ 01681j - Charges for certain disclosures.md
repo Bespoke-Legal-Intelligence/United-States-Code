@@ -42,7 +42,7 @@
 
 #### (2) Timing
 
-&emsp;A consumer reporting agency shall provide a consumer report under paragraph (1) not later than 15 days after the date on which the request is received under paragraph (1).
+&emsp;A consumer reporting agency shall provide a consumer report under paragraph (1) not laterthan 15 days after the date on which the request is received under paragraph (1).
 
 #### (3) Reinvestigations
 
@@ -108,9 +108,11 @@ A consumer reporting agency shall not impose any charge on a consumer for provid
 
 (Pub. L. 90–321, title VI, §612, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1132; amended Pub. L. 104–208, div. A, title II, §2410, Sept. 30, 1996, 110 Stat. 3009–442; Pub. L. 108–159, title II, §211(a), Dec. 4, 2003, 117 Stat. 1968; Pub. L. 111–24, title II, §205(a), May 22, 2009, 123 Stat. 1747; Pub. L. 111–203, title X, §1088(a)(2)(A), (C), July 21, 2010, 124 Stat. 2087.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
-Section 1681a(w) of this title, referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated section 1681a(x) of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
+Section 1681a(w) of this title, referred to in subsec. (a)(1)(A), (C)(i), (iv), was redesignated section 1681a(x)of this title by Pub. L. 111–203, title X, §1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
 Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referred to in subsec. (a)(1)(B), probably means section 211(d) of Pub. L. 108–159, which is set out as a note below and relates to the establishment of a centralized source. Section 211(c) of Pub. L. 108–159 amended section 1681g of this title.
 
@@ -133,6 +135,8 @@ Subsec. (e). Pub. L. 108–159, §211(a)(3), (5), redesignated subsec. (d) as (e
 Subsec. (f). Pub. L. 108–159, §211(a)(1), (6), redesignated subsec. (a) as (f) and substituted "In the case of a request from a consumer other than a request that is covered by any of subsections (a) through (d), a" for "Except as provided in subsections (b), (c), and (d), a" in par. (1).
 
 <b>1996</b>—Pub. L. 104–208 amended section generally. Prior to amendment, section read as follows: "A consumer reporting agency shall make all disclosures pursuant to section 1681g of this title and furnish all consumer reports pursuant to section 1681i(d) of this title without charge to the consumer if, within thirty days after receipt by such consumer of a notification pursuant to section 1681m of this title or notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may be or has been adversely affected, the consumer makes a request under section 1681g or 1681i(d) of this title. Otherwise, the consumer reporting agency may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 1681g of this title, the charge for which shall be indicated to the consumer prior to making disclosure; and for furnishing notifications, statements, summaries, or codifications to person designated by the consumer pursuant to section 1681i(d) of this title, the charge for which shall be indicated to the consumer prior to furnishing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient for a consumer report except that no charge may be made for notifying such persons of the deletion of information which is found to be inaccurate or which can no longer be verified."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 
@@ -206,7 +210,7 @@ Centralized source.—The centralized source for a request for a consumer report
 
 "(4)
 
-Transition.—The regulations of the Bureau under paragraph (1) shall provide for an orderly transition by consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\] to the centralized source for consumer report distribution required by section 612(a)(1)(B) \[15 U.S.C. 1681j(a)(1)(B)\], as amended by this section, in a manner that—
+Transition.—The regulations of the Bureau under paragraph (1) shall provide for an orderly transition by consumer reporting agencies described in section 603(p) of the Fair Credit Reporting Act \[15 U.S.C. 1681a(p)\] to the centralized source for consumer reportdistribution required by section 612(a)(1)(B) \[15 U.S.C. 1681j(a)(1)(B)\], as amended by this section, in a manner that—
 
 &emsp;"(A) does not temporarily overwhelm such consumer reporting agencies with requests for disclosures of consumer reports beyond their capacity to deliver; and
 

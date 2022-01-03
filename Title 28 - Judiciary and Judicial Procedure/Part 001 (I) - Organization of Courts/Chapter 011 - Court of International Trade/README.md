@@ -15,7 +15,7 @@
 
 #### Historical and Revision Notes
 
-The "Board of General Appraisers" was designated "United States Customs Court" by act May 28, 1926, ch. 411, §1, 44 Stat. 669. General provisions concerning such court were incorporated in section 1518 of title 19, U.S.C., 1940 ed., Customs Duties, until amended by act October 10, 1940, ch. 843, §1, 54 Stat. 1101, adding a new section to the Judicial Code of 1911, when they were transferred to section 296 of title 28, U.S.C., 1940 ed. They are retained in title 28 by this revision.
+The "Board of General Appraisers" was designated "United States Customs Court" by act May 28, 1926, ch. 411, §1, 44 Stat. 669. General provisions concerning such court were incorporated in section 1518 of title 19,U.S.C., 1940 ed., Customs Duties, until amended by act October 10, 1940, ch. 843, §1, 54 Stat. 1101, adding a new section to the Judicial Code of 1911, when they were transferred to section 296 of title 28, U.S.C., 1940 ed. They are retained in title 28 by this revision.
 
 In this connection former Congressman Walter Chandler said, "Among the major subjects needing study and revision are special courts, such as the Customs Court, which should be fitted into the judicial system." (See U.S. Law Weekly, Nov. 7, 1939.)
 

@@ -58,7 +58,7 @@ Amendment by Pub. L. 103–337 effective on the first day of the fourth month be
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–283, §2, May 14, 1974, 88 Stat. 141, provided that: "Paragraphs (5) and (8) of section 1 of this Act \[amending this section and section 288 of this title\] are effective as of the original date of enactment \[Sept. 24, 1963\] of the sections thereby amended."
+Pub. L. 93–283, §2, May 14, 1974, 88 Stat. 141, provided that: "Paragraphs (5) and (8) of section 1 of this Act \[amending this section and section 288 of this title\] areeffective as of the original date of enactment \[Sept. 24, 1963\] of the sections thereby amended."
 
 #### Temporary Appointments Prior to September 24, 1963
 

@@ -54,7 +54,7 @@ Notwithstanding any other provision of law, the Director shall charter a corpora
 
 &emsp;&emsp;The amount each Federal Home Loan Bank shall pay shall be determined by the Director by multiplying the total administrative expenses for any period by the percentage arrived at by dividing—
 
-&emsp;&emsp;&emsp;(i) the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5)of subsection (d) (as computed without regard to paragraph (3) or (6) of such subsection); by
+&emsp;&emsp;&emsp;(i) the aggregate amount the Director required such bank to invest in the Financing Corporation (as of the time of such determination) under paragraphs (4) and (5) of subsection (d) (as computed without regard to paragraph (3) or (6) of such subsection); by
 
 &emsp;&emsp;&emsp;(ii) the aggregate amount the Director required all Federal Home Loan Banks to invest (as of the time of such determination) under such paragraphs.
 
@@ -174,7 +174,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (B) Allocation of excess amount among remaining Home Loan Banks
 
-&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest under subparagraph (A)(i) is the amount determined by the Director by multiplying the excess amount by the percentage arrived at by dividing—
+&emsp;&emsp;The amount each remaining Federal Home Loan Bank shall be required to invest undersubparagraph (A)(i) is the amount determined by the Director by multiplying the excess amount by the percentage arrived at by dividing—
 
 &emsp;&emsp;&emsp;(i) the amount of capital stock of the Financing Corporation held by such remaining bank at the time of such determination; by
 
@@ -264,7 +264,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (B) Exception
 
-&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
+&emsp;&emsp;The Financing Corporation, like the Federal Home Loan Banks, shall be treated asan agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
 
 #### (8) Obligations are exempt securities
 
@@ -294,7 +294,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (1) In general
 
-&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by theDirector, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
+&emsp;Subject to such regulations, restrictions, and limitations as may be prescribed by the Director, assets of the Financing Corporation, which are not invested in capital certificates or capital stock issued by the Federal Savings and Loan Insurance Corporation under section 1725(b)(1)(A) of this title before August 9, 1989, and after August 9, 1989, in capital certificates issued by the FSLIC Resolution Fund, shall be invested in—
 
 &emsp;&emsp;(A) direct obligations of the United States;
 
@@ -378,7 +378,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 #### (j) Regulations
 
-The Director may prescribe such regulations as may be necessary to carry out the provisionsof this section, including regulations defining terms used in this section.
+The Director may prescribe such regulations as may be necessary to carry out the provisions of this section, including regulations defining terms used in this section.
 
 #### (k) Definitions
 

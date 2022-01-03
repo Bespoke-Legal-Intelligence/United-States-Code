@@ -18,6 +18,8 @@ In this section—
 
 (Pub. L. 89–329, title VI, §622, as added Pub. L. 105–244, title VI, §603(b)(2), Oct. 7, 1998, 112 Stat. 1784; amended Pub. L. 110–315, title VI, §613, Aug. 14, 2008, 122 Stat. 3340; Pub. L. 111–39, title VI, §601(a)(2), July 1, 2009, 123 Stat. 1954.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 622 of Pub. L. 89–329 was renumbered section 623 and is classified to section 1131a of this title.
@@ -34,9 +36,11 @@ Another prior section 622 of Pub. L. 89–329, title VI, Nov. 8, 1965, 79 Stat. 
 
 Subsec. (c)(1) to (4). Pub. L. 110–315, §613(2), redesignated pars. (2) and (4) as (1) and (2), respectively, and struck out former pars. (1) and (3), which defined "historically Black college and university" and "Tribally Controlled College or University", respectively.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2009 Amendment
 
-Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14,2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
+Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under section 1001 of this title.
 
 #### Effective Date
 

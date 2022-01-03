@@ -72,6 +72,8 @@ Major united states investment management firm.—The term "major United States 
 
 (Added Pub. L. 106–65, div. B, title XXVIII, §2871(a)(1), Oct. 5, 1999, 113 Stat. 871, §4357; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(a)(17)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–291; Pub. L. 108–136, div. A, title X, §1031(a)(54), Nov. 24, 2003, 117 Stat. 1603; renumbered §7457, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4357 of this title as this section.
@@ -79,6 +81,8 @@ Major united states investment management firm.—The term "major United States 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end "or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
 
 <b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after "80b–2)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

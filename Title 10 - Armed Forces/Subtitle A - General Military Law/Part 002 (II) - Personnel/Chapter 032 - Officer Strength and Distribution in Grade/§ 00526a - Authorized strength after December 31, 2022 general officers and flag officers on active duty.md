@@ -82,7 +82,7 @@ Active-Duty Baseline.—
 
 &emsp;(1)
 
-Notice and wait requirements.—If the Secretary of a military department proposes an action that would increase above the baseline the number of general officers or flag officers of an armed force under the jurisdictionof that Secretary who would be on active duty and would count against the statutory limit applicable to that armed force under subsection (a), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the Senate and the House of Representatives.
+Notice and wait requirements.—If the Secretary of a military department proposes an action that would increase above the baseline the number of general officers or flag officers of an armed force under the jurisdiction of that Secretary who would be on active duty and would count against the statutory limit applicable to that armed force under subsection (a), the action shall not take effect until after the end of the 60-calendar day period beginning on the date on which the Secretary provides notice of the proposed action, including the rationale for the action, to the Committees on Armed Services of the Senate and the House of Representatives.
 
 &emsp;(2)
 
@@ -108,7 +108,7 @@ Baseline defined.—In paragraph (1), the term "baseline" means the lower of—
 
 &emsp;&emsp;(B) the actual number of general officers and flag officers who, as of January 1, 2023, were in joint duty assignments counted toward the statutory limit under subsection (b)(1).
 
-(i)
+(i) <sup>1</sup>
 
 Annual Report.—Not later than March 1 each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying the following:
 
@@ -116,9 +116,31 @@ Annual Report.—Not later than March 1 each year, the Secretary of Defense shal
 
 &emsp;(2) The number of general officers and flag officers in joint duty assignments who, as of such January 1, counted toward the statutory limit under subsection (b)(1).
 
-(Added Pub. L. 114–328, div. A, title V, §501(h)(1), Dec. 23, 2016, 130 Stat. 2100; amended Pub. L. 116–283, div. A, title V, §501(a), Jan. 1, 2021, 134 Stat. 3562.)
+(i) <sup>1</sup>
+
+Transfer of Authorizations Among the Military Services.—(1) The Secretary of Defense may increase the maximum number of brigadier generals or major generals in the Army, Air Force, Marine Corps, or Space Force, or rear admirals (lower half) or rear admirals in the Navy, allowed under subsection (a) and section 525 of this title and the President may appoint officers in the equivalent grades equal to the number increased by the Secretary of Defense if each appointment is made in conjunction with an offsetting reduction under paragraph (2).
+
+(2) For each increase and appointment made under the authority of paragraph (1) in the Army, Navy, Air Force, Marine Corps, or Space Force, the number of appointments that may be made in the equivalent grade in one of the other armed forces (other than the Coast Guard) shall be reduced by one. When such an increase and appointment is made, the Secretary of Defense shall specify the armed force in which the reduction required by this paragraph is to be made.
+
+(3) The total number of general officers and flag officers increased under paragraph (1), combined with the total number of general officers and flag officers increased under section 526(k)(1) of this title, may not exceed 15 at any one time.
+
+(4) The Secretary may not increase the maximum number of general officers or flag officers under paragraph (1) until the date that is 30 days after the date on which the Secretary provides, to the Committees on Armed Services of the Senate and the House of Representatives, written notice of—
+
+&emsp;(A) such increase; and
+
+&emsp;(B) each offsetting reduction under paragraph (2), specifying the armed force and billet so reduced.
+
+(Added Pub. L. 114–328, div. A, title V, §501(h)(1), Dec. 23, 2016, 130 Stat. 2100; amended Pub. L. 116–283, div. A, title V, §501(a), Jan. 1, 2021, 134 Stat. 3562; Pub. L. 117–81, div. A, title V, §501(b), Dec. 27, 2021, 135 Stat. 1679.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
-<b>2021</b>—Subsecs. (c) to (i). Pub. L. 116–283 added subsec. (c) and redesignated former subsecs. (c) to (h) as (d) to (i), respectively.
+<b>2021</b>—Subsecs. (c) to (h). Pub. L. 116–283, §501(a), added subsec. (c) and redesignated former subsecs. (c) to (g) as (d) to (h), respectively. Former subsec. (h) redesignated (i).
+
+Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services.
+
+Pub. L. 116–283, §501(a)(1), redesignated subsec. (h) as (i) relating to annual report.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

@@ -54,6 +54,8 @@ This section shall not apply to contracts or licenses in any class which are bel
 
 (Added Pub. L. 99–514, title XV, §1522(a), Oct. 22, 1986, 100 Stat. 2747; amended Pub. L. 100–647, title I, §1015(f), Nov. 10, 1988, 102 Stat. 3570; Pub. L. 109–135, title IV, §412(rr)(2), Dec. 21, 2005, 119 Stat. 2640; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
@@ -61,6 +63,8 @@ This section shall not apply to contracts or licenses in any class which are bel
 <b>2005</b>—Subsec. (b)(1). Pub. L. 109–135 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–647 added subsec. (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 

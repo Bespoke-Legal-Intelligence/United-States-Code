@@ -22,7 +22,7 @@ Within the purposes described in subsection (a), funds in the account used under
 
 #### (d) Limitation on Federal overhead
 
-The Secretaries shall provide that not more than 2 percent of the amount of funds disbursedto States under this section may be used by the Federal Government in the administration of this section.
+The Secretaries shall provide that not more than 2 percent of the amount of funds disbursed to States under this section may be used by the Federal Government in the administration of this section.
 
 #### (e) Annual report
 

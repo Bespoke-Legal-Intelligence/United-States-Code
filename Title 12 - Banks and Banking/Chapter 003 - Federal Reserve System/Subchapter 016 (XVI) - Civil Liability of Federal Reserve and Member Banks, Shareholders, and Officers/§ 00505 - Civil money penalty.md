@@ -54,7 +54,7 @@ The maximum daily amount of any civil penalty which may be assessed pursuant to 
 
 #### (5) Assessment; etc.
 
-Any penalty imposed under paragraph (1), (2), or (3) may be assessed and collected by the Board in the manner provided in subparagraphs\(E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
+Any penalty imposed under paragraph (1), (2), or (3) may be assessed and collected by the Board in the manner provided in subparagraphs (E), (F), (G), and (I) of section 1818(i)(2) of this title for penalties imposed (under such section) and any such assessment shall be subject to the provisions of such section.
 
 #### (6) Hearing
 
@@ -92,7 +92,7 @@ Par. (4). Pub. L. 97–320, §424(e), substituted "twenty days from the service"
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply to conduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
+Amendment by Pub. L. 101–73 applicable to conduct engaged in after Aug. 9, 1989, except that increased maximum penalties of $5,000 and $25,000 may apply toconduct engaged in before such date if such conduct is not already subject to a notice issued by the appropriate agency and occurred after completion of the last report of the examination of the institution by the appropriate agency occurring before Aug. 9, 1989, see section 907(l) of Pub. L. 101–73, set out as a note under section 93 of this title.
 
 #### Effective Date
 

@@ -70,7 +70,7 @@ In the case of a person—
 
 &emsp;&emsp;(B) is required to pay a penalty under section 6662A with respect to any reportable transaction at a rate prescribed under section 6662A(c), or
 
-&emsp;&emsp;(C) is required to pay a penalty under section 6662(h) with respect to any reportable transaction and would (but for section 6662A(e)(2)(B)) have been subject to penalty under section 6662A at a rate prescribed under section 6662A(c),
+&emsp;&emsp;(C) is required to pay a penalty under section 6662(h) with respect to any reportable transaction and would (but for section6662A(e)(2)(B)) have been subject to penalty under section 6662A at a rate prescribed under section 6662A(c),
 
 > the requirement to pay such penalty shall be disclosed in such reports filed by such person for such periods as the Secretary shall specify. Failure to make a disclosure in accordance with the preceding sentence shall be treated as a failure to which the penalty under subsection (b)(2) applies.
 
@@ -79,6 +79,8 @@ In the case of a person—
 The penalty imposed by this section shall be in addition to any other penalty imposed by this title.
 
 (Added Pub. L. 108–357, title VIII, §811(a), Oct. 22, 2004, 118 Stat. 1575; amended Pub. L. 110–172, §11(a)(41), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 111–240, title II, §2041(a), Sept. 27, 2010, 124 Stat. 2560.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in sub
 <b>2010</b>—Subsec. (b). Pub. L. 111–240 amended subsec. (b) generally. Prior to amendment, subsec. (b) specified the amount of the penalty under subsec. (a), both in general and with respect to a listed transaction, in the case of a natural person or in any other case.
 
 <b>2007</b>—Subsec. (e)(2)(C). Pub. L. 110–172 substituted "section 6662A(e)(2)(B)" for "section 6662A(e)(2)(C)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

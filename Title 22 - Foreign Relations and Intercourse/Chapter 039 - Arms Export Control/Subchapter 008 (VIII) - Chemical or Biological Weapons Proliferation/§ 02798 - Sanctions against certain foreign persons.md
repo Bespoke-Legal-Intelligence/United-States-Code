@@ -46,7 +46,7 @@
 
 #### (1) Consultations
 
-&emsp;If the President makes the determinations described in subsection (a)(1) with respect to aforeign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
+&emsp;If the President makes the determinations described in subsection (a)(1) with respect to a foreign person, the Congress urges the President to initiate consultations immediately with the government with primary jurisdiction over that foreign person with respect to the imposition of sanctions pursuant to this section.
 
 #### (2) Actions by government of jurisdiction
 

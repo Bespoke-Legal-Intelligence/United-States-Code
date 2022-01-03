@@ -20,9 +20,13 @@ May 17, 1938, ch. 243, §9 (as applicable to vessels), 52 Stat. 403.
 
 The words "the United States would welcome and support an international conference for naval limitations" are omitted as a declaration of purpose without permanent or general significance. The word "further" is omitted since there is no such agreement in existence today. The word "international" is omitted as unnecessary since the word "treaty" necessarily involves an international understanding. The word "may" is substituted for the words "is hereby authorized and empowered to" for brevity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7294 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

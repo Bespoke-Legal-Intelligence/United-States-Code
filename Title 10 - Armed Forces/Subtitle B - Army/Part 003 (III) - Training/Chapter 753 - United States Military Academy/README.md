@@ -15,6 +15,7 @@
 | [7441\.](%C2%A7%2007441%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md) | Faculty and other officers: leaves of absence. |
 | [7441a.](%C2%A7%2007441a%20-%20Cadets%20appointment%20by%20the%20President.md) | Cadets: appointment by the President. |
 | [7442\.](%C2%A7%2007442%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md) | Cadets: appointment; numbers, territorial distribution. |
+| [7442a.](%C2%A7%2007442a%20-%20Cadets%20nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Member%20of%20Congress%20otherwise%20authorized%20to%20nominate.md) | Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate. |
 | [7443\.](%C2%A7%2007443%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md) | Cadets: appointment; to bring Corps to full strength. |
 | [7446\.](%C2%A7%2007446%20-%20Cadets%20requirements%20for%20admission.md) | Cadets: requirements for admission. |
 | [7447\.](%C2%A7%2007447%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md) | Cadets; nominees: effect of redistricting of States. |
@@ -36,7 +37,11 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §553(a)(2), Dec. 27, 2021, 135 Stat. 1736, added item 7442a.
 
 2018–Pub. L. 115–232, div. A, title VIII, §808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 403 of this title as this chapter and items 4331 to 4362 as 7431 to 7462, respectively.
 
@@ -96,6 +101,7 @@ Pub. L. 108–375, div. A, title V, §544(a)(2), Oct. 28, 2004, 118 Stat. 1906, 
 - [&sect; 07441 - Faculty and other officers leaves of absence](%C2%A7%2007441%20-%20Faculty%20and%20other%20officers%20leaves%20of%20absence.md)
 - [&sect; 07441a - Cadets appointment by the President](%C2%A7%2007441a%20-%20Cadets%20appointment%20by%20the%20President.md)
 - [&sect; 07442 - Cadets appointment; numbers, territorial distribution](%C2%A7%2007442%20-%20Cadets%20appointment%3B%20numbers%2C%20territorial%20distribution.md)
+- [&sect; 07442a - Cadets nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate](%C2%A7%2007442a%20-%20Cadets%20nomination%20in%20event%20of%20death%2C%20resignation%2C%20or%20expulsion%20from%20office%20of%20Member%20of%20Congress%20otherwise%20authorized%20to%20nominate.md)
 - [&sect; 07443 - Cadets appointment; to bring Corps to full strength](%C2%A7%2007443%20-%20Cadets%20appointment%3B%20to%20bring%20Corps%20to%20full%20strength.md)
 - [&sect; 07446 - Cadets requirements for admission](%C2%A7%2007446%20-%20Cadets%20requirements%20for%20admission.md)
 - [&sect; 07447 - Cadets; nominees effect of redistricting of States](%C2%A7%2007447%20-%20Cadets%3B%20nominees%20effect%20of%20redistricting%20of%20States.md)

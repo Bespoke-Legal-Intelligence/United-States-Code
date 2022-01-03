@@ -30,7 +30,9 @@ For purposes of this chapter—
 
 > &emsp;any part of which is extended Federal financial assistance.
 
-(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 114–95, title IX, §9215(d), Dec. 10, 2015, 129 Stat. 2166.)
+(Pub. L. 94–135, title III, §309, formerly §308, Nov. 28, 1975, 89 Stat. 731; renumbered §309, Pub. L. 95–478, title IV, §401(e), Oct. 18, 1978, 92 Stat. 1556; amended Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 100–259, §5, Mar. 22, 1988, 102 Stat. 30; Pub. L. 103–382, title III, §391(u), Oct. 20, 1994, 108 Stat. 4025; Pub. L. 107–110, title X, §1076(z), Jan. 8, 2002, 115 Stat.2093; Pub. L. 109–435, title VI, §604(f), Dec. 20, 2006, 120 Stat. 3242; Pub. L. 114–95, title IX, §9215(d), Dec. 10, 2015, 129 Stat. 2166.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -44,9 +46,11 @@ For purposes of this chapter—
 
 <b>1988</b>—Par. (4). Pub. L. 100–259 added par. (4).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
-"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (2), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (2) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 2015 Amendment
 

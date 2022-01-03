@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Secretary shall make guarantees under this or any other Act for projects on such terms and conditions as the Secretary determines, after consultation with the Secretary of the Treasury, only in accordance with this section.
+Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Secretary shall make guarantees under this or any other Act for projects, including projects receiving financial support or credit enhancements from a State energy financing institution, on such terms and conditions as the Secretary determines, after consultation with the Secretary of the Treasury, only in accordance with this section.
 
 #### (b) Specific appropriation or contribution
 
@@ -14,7 +14,7 @@ Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Sec
 
 &emsp;If sufficient appropriated funds to pay the cost of a guarantee are not available, then the guarantee shall not be made unless—
 
-&emsp;&emsp;(A) the Secretary has received from the borrower a payment in full for the cost ofthe guarantee and deposited the payment into the Treasury; or
+&emsp;&emsp;(A) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
 
 &emsp;&emsp;(B) a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
 
@@ -24,9 +24,31 @@ Unless otherwise provided by law, a guarantee by the Secretary shall not exceed 
 
 #### (d) Repayment
 
-#### (1) In general
+#### (1) Requirement
 
-&emsp;No guarantee shall be made unless the Secretary determines that there is reasonable prospect of repayment of the principal and interest on the obligation by the borrower.
+#### (A) In general
+
+&emsp;&emsp;No guarantee, including a guarantee for a project receiving financial support or credit enhancements from a State energy financing institution, shall be made unless the Secretary determines that there is reasonable prospect of repayment of the principal and interest on the obligation by the borrower.
+
+#### (B) Reasonable prospect of repayment
+
+&emsp;&emsp;The Secretary shall base a determination of whether there is reasonable prospect of repayment under subparagraph (A) on a comprehensive evaluation of whether the borrower has a reasonable prospect of repaying the guaranteed obligation for the eligible project, including, as applicable, an evaluation of—
+
+&emsp;&emsp;&emsp;(i) the strength of the contractual terms of the eligible project (if commercially reasonably available);
+
+&emsp;&emsp;&emsp;(ii) the forecast of noncontractual cash flows supported by market projectionsfrom reputable sources, as determined by the Secretary;
+
+&emsp;&emsp;&emsp;(iii) cash sweeps and other structure enhancements;
+
+&emsp;&emsp;&emsp;(iv) the projected financial strength of the borrower—
+
+&emsp;&emsp;&emsp;&emsp;(I) at the time of loan close; and
+
+&emsp;&emsp;&emsp;&emsp;(II) throughout the loan term after the project is completed;
+
+&emsp;&emsp;&emsp;(v) the financial strength of the investors and strategic partners of the borrower, if applicable; and
+
+&emsp;&emsp;&emsp;(vi) other financial metrics and analyses that are relied on by the private lending community and nationally recognized credit rating agencies, as determined appropriate by the Secretary.
 
 #### (2) Amount
 
@@ -224,7 +246,31 @@ Not later than 2 years after December 27, 2020, and every 3 years thereafter, th
 
 &emsp;(9) any other metrics the Secretary finds appropriate.
 
-(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877; Pub. L. 116–260, div. Z, title IX, §9010(a), Dec. 27, 2020, 134 Stat. 2603.)
+#### (r) <sup>1</sup> Conflicts of interest
+
+For each project selected for a guarantee under this subchapter, the Secretary shall certify that political influence did not impact the selection of the project.
+
+#### (r) <sup>1</sup> State energy financing institutions
+
+#### (1) Eligibility
+
+&emsp;To be eligible for a guarantee under this subchapter, a project receiving financial support or credit enhancements from a State energy financing institution—
+
+&emsp;&emsp;(A) shall meet the requirements of section 16513(a)(1) of this title; and
+
+&emsp;&emsp;(B) shall not be required to meet the requirements of section 16513(a)(2) of this title.
+
+#### (2) Partnerships authorized
+
+&emsp;In carrying out a project receiving a loan guarantee under this subchapter, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
+
+#### (3) Prohibition on use of appropriated funds
+
+&emsp;Amounts appropriated to the Department of Energy before November 15, 2021, shall not be available to be used for the cost of loan guarantees for projects receiving financing support or credit enhancements under this subsection.
+
+(Pub. L. 109–58, title XVII, §1702, Aug. 8, 2005, 119 Stat. 1117; Pub. L. 111–85, title III, §310, Oct. 28, 2009, 123 Stat. 2873; Pub. L. 112–74, div. B, title III, §305(1), Dec. 23, 2011, 125 Stat. 877; Pub. L. 116–260, div. Z, title IX, §9010(a), Dec. 27, 2020, 134 Stat. 2603; Pub. L. 117–58, div. D, title IV, §40401(a)(1), (3), (c)(2), Nov. 15, 2021, 135 Stat. 1033, 1034, 1037.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -233,6 +279,16 @@ Division C of Public Law 108–324, referred to in subsec. (a), is division C of
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+<b>2021</b>—Subsec. (a). Pub. L. 117–58, §40401(c)(2)(A), inserted ", including projects receiving financial support or credit enhancements from a State energy financing institution," after "for projects".
+
+Subsec. (d)(1). Pub. L. 117–58, §40401(a)(1), substituted "Requirement" for "In general" in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
+
+Subsec. (d)(1)(A). Pub. L. 117–58, §40401(c)(2)(B), inserted ", including a guarantee for a project receiving financial support or credit enhancements from a State energy financing institution," after "No guarantee".
+
+Subsec. (r). Pub. L. 117–58, §40401(c)(2)(C), added subsec. (r) relating to State energy financing institutions.
+
+Pub. L. 117–58, §40401(a)(3), added subsec. (r) relating to conflicts of interest.
 
 <b>2020</b>—Subsec. (b). Pub. L. 116–260, §9010(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: "No guarantee shall be made unless—
 
@@ -257,4 +313,12 @@ Subsecs. (l) to (q). Pub. L. 116–260, §9010(a)(4), added subsecs. (l) to (q).
 &emsp;"(2) the Secretary has received from the borrower a payment in full for the cost of the obligation and deposited the payment into the Treasury."
 
 <b>2009</b>—Subsec. (k). Pub. L. 111–85 added subsec. (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Wage Rate Requirements
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (r) have been enacted.</i>
 

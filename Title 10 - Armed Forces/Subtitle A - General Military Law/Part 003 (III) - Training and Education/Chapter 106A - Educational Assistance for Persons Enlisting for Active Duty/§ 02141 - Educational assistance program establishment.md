@@ -1,6 +1,6 @@
 ### §2141. Educational assistance program: establishment
 
-(a) To encourage enlistments and reenlistments for service on active duty in the armed forces, the Secretary of each military department may establish a program in accordance with this chapter to provide educational assistance to persons enlisting or reenlisting in an armed force under his jurisdiction. The costs of any such program shall be borne by the Department of Defense, and a person participating in any such program may not be required to make any contribution to the program.
+(a) To encourage enlistments and reenlistments for service on active duty in the armed forces, the Secretary of each military department may establish a program in accordance with this chapter to provide educational assistance to persons enlisting or reenlisting in an armed force under his jurisdiction. The costs ofany such program shall be borne by the Department of Defense, and a person participating in any such program may not be required to make any contribution to the program.
 
 (b) The Secretary of Defense shall prescribe regulations for the administration of this chapter. Such regulations shall take account of the differences among the several armed forces.
 
@@ -8,11 +8,15 @@
 
 (Added Pub. L. 96–342, title IX, §901(a), Sept. 8, 1980, 94 Stat. 1111; amended Pub. L. 100–180, div. A, title XII, §1231(18)(A), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(k)(1), Sept. 29, 1988, 102 Stat. 2058.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–456 inserted "the term" after "In this chapter,".
 
 <b>1987</b>—Pub. L. 100–180, which directed that subsec. (c) be amended by inserting "the term" after "In this section,", could not be executed because that phrase did not appear. See 1988 Amendment note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Repayment of Loans for Service in the Armed Forces; Authorization, Criteria, Etc.
 

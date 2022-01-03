@@ -40,6 +40,8 @@ In carrying out section 100226 of Public Law 112–141 (42 U.S.C. 4101 note; 126
 
 (Pub. L. 113–121, title III, §3014, June 10, 2014, 128 Stat. 1287; Pub. L. 116–260, div. AA, title I, §142(b), Dec. 27, 2020, 134 Stat. 2653.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The National Flood Insurance Act of 1968, referred to in subsecs. (a)(2) and (b)(1), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter. Chapter I of the Act is classified principally to subchapter I (§4011 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
@@ -52,13 +54,17 @@ Section was enacted as part of the Water Resources Reform and Development Act of
 
 <b>2020</b>—Subsec. (a)(1). Pub. L. 116–260, §142(b)(1)(A), substituted "for levee systems under the levee safety and dam safety programs" for "under the inspection of completed works program" and struck out "and" at end.
 
-Subsec. (a)(2). Pub. L. 116–260, §142(b)(1)(B), substituted "the activities referred to in paragraph (1)" for "activities under the inspection of completed works program of the Corps of Engineers", "chapter I" for "chapter 1", and "; and" for period at end.
+Subsec. (a)(2). Pub. L. 116–260, §142(b)(1)(B), substituted "the activities referred to in paragraph (1)" for "activities under the inspection of completed works program of the Corps of Engineers", "chapter I" for "chapter 1", and "; and" for period at end.
 
 Subsec. (a)(3). Pub. L. 116–260, §142(b)(1)(C), added par. (3).
 
 Subsec. (b)(3)(C). Pub. L. 116–260, §142(b)(2), added subpar. (C).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Definition of "Secretary"
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under section 2201 of Title 33, Navigation and Navigable Waters.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "chapter I".</i>
 

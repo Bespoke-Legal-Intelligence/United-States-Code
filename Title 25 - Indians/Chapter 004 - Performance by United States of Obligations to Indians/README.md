@@ -62,6 +62,7 @@
 | [146\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000146%20-%20Report%20of%20Indians%20present%20and%20receiving%20food.md) | Report of Indians present and receiving food. |
 | [147\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000147%20-%20Appropriations%20for%20specified%20buildings%3B%20use%20for%20transportation%20of%20materials.md) | Appropriations for specified buildings; use for transportation of materials. |
 | [148\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000148%20-%20Appropriations%20for%20supplies%3B%20transfer%20to%20Indian%20Service%20supply%20fund%3B%20expenditure.md) | Appropriations for supplies; transfer to Indian Service supply fund; expenditure. |
+| [149\.](Subchapter%20002%20%28II%29%20-%20Disbursement%20of%20Moneys%20and%20Supplies/%C2%A7%2000149%20-%20Indian%20Water%20Rights%20Settlement%20Completion%20Fund.md) | Indian Water Rights Settlement Completion Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

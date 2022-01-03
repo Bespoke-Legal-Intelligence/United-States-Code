@@ -10,6 +10,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VI, §663(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168, added item 12604.

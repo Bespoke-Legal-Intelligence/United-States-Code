@@ -8,7 +8,7 @@ The Director of the National Science Foundation shall carry out a basic research
 
 #### (1) In general
 
-&emsp;In carrying out the program under subsection (a), the Director of the National Science Foundation shall carry out activities that—
+&emsp;In carrying out the program under subsection (a), the Director of the NationalScience Foundation shall carry out activities that—
 
 &emsp;&emsp;(A) support basic interdisciplinary quantum information science and engineering research; and
 

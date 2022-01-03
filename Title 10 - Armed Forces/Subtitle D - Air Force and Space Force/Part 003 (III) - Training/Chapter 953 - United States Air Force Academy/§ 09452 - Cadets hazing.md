@@ -44,11 +44,15 @@ In subsection (b), the words "the penalty for which is or may be" are substitute
 
 In subsection (c), the words "a regular component" are inserted, since the source statute historically applied only to the regular components.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Subsec. (c). Pub. L. 116–283 substituted "as a cadet" for "as an Air Force cadet" and "Marine Corps, or Space Force" for "or Marine Corps".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 9352 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

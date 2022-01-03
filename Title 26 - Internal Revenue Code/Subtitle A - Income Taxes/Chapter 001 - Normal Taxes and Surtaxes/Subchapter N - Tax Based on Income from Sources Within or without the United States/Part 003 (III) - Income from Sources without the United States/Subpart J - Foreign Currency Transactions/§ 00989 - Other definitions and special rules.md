@@ -36,6 +36,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (Added Pub. L. 99–514, title XII, §1261(a), Oct. 22, 1986, 100 Stat. 2590; amended Pub. L. 100–647, title I, §1012(v)(5), Nov. 10, 1988, 102 Stat. 3529; Pub. L. 103–66, title XIII, §13231(c)(4)(C), Aug. 10, 1993, 107 Stat. 499; Pub. L. 104–188, title I, §1501(b)(9), Aug. 20, 1996, 110 Stat. 1826; Pub. L. 105–34, title XI, §1102(b)(2), (3), Aug. 5, 1997, 111 Stat. 966; Pub. L. 108–357, title IV, §413(c)(17), Oct. 22, 2004, 118 Stat. 1508.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The enactment of this subpart, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
@@ -53,6 +55,8 @@ Subsec. (c)(6). Pub. L. 105–34, §1102(b)(2), added par. (6).
 <b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted "subparagraph (B) or (C) of section 951(a)(1)" for "section 951(a)(1)(B)" in last sentence.
 
 <b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted in par. (3) "section 951(a)(1)(A)" for "section 951(a)" and inserted at end "For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

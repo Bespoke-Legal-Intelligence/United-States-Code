@@ -4,11 +4,15 @@ The Administrator of General Services may acquire, by purchase, condemnation, do
 
 (July 1, 1944, ch. 373, title IV, §467, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 859; amended Pub. L. 109–482, title I, §103(b)(38), Jan. 15, 2007, 120 Stat. 3688.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Pub. L. 109–482 substituted "for suitable and adequate buildings and facilities for use of the Library" for "for such buildings and facilities" and "Amounts appropriated to carry out this section may be used for" for "The amounts authorized to be appropriated by this section include" and struck out first sentence which read as follows: "There are authorized to be appropriated amounts sufficient for the erection and equipment of suitable and adequate buildings and facilities for use of the Library."
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 orsubsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
+Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under section 281 of this title.
 

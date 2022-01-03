@@ -18,7 +18,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term "rehabilitation", with respect to an eligible pump station, means to address amajor deficiency of the eligible pump station caused by long-term degradation of the foundation, construction materials, or engineering systems or components of the eligible pump station.
+&emsp;&emsp;The term "rehabilitation", with respect to an eligible pump station, means to address a major deficiency of the eligible pump station caused by long-term degradation of the foundation, construction materials, or engineering systems or components of the eligible pump station.
 
 #### (B) Inclusions
 

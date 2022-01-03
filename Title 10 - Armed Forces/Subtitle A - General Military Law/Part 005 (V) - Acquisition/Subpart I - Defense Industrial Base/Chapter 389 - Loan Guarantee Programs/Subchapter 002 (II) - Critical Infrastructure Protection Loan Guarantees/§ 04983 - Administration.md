@@ -16,11 +16,15 @@ Treatment of Costs.—The costs of such agreements shall be considered, for purp
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–259, §2541b; renumbered §4983 and amended Pub. L. 116–283, div. A, title XVIII, §1873(b), (c)(2), (e)(2), Jan. 1, 2021, 134 Stat. 4290.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, §1873(b), (c)(2), renumbered section 2541b of this title as this section.
 
 Subsec. (b). Pub. L. 116–283, §1873(e)(2), substituted "section 4982(c)" for "section 2541a(c)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

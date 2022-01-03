@@ -6,7 +6,7 @@
 
 &emsp;(2) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect, recover or offset any such debt as a personal liability of the debtor, whether or not discharge of such debt is waived; and
 
-&emsp;(3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in section 541(a)(2) of this title that is acquired after the commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1192, 1228(a)(1), or 1328(a)(1), or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor's spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
+&emsp;(3) operates as an injunction against the commencement or continuation of an action, the employment of process, or an act, to collect or recover from, or offset against, property of the debtor of the kind specified in section 541(a)(2) of this title that is acquired afterthe commencement of the case, on account of any allowable community claim, except a community claim that is excepted from discharge under section 523, 1192, 1228(a)(1), or 1328(a)(1), or that would be so excepted, determined in accordance with the provisions of sections 523(c) and 523(d) of this title, in a case concerning the debtor's spouse commenced on the date of the filing of the petition in the case concerning the debtor, whether or not discharge of the debt based on such community claim is waived.
 
 (b) Subsection (a)(3) of this section does not apply if—
 
@@ -92,7 +92,7 @@
 
 &emsp;(ii) subject to subsection (h), the court determines that—
 
-&emsp;&emsp;(I) the debtor is likely to be subject to substantial future demands for payment arisingout of the same or similar conduct or events that gave rise to the claims that are addressed by the injunction;
+&emsp;&emsp;(I) the debtor is likely to be subject to substantial future demands for payment arising out of the same or similar conduct or events that gave rise to the claims that are addressed by the injunction;
 
 &emsp;&emsp;(II) the actual amounts, numbers, and timing of such future demands cannot be determined;
 
@@ -124,7 +124,7 @@
 
 (4)(A)(i) Subject to subparagraph (B), an injunction described in paragraph (1) shall be valid and enforceable against all entities that it addresses.
 
-(ii) Notwithstanding the provisions of section 524(e), such an injunction may bar any action directed against a third party who is identifiable from the terms of such injunction (by name or as part of an identifiable group) and is alleged to be directly or indirectly liable for the conduct of, claims against, or demands on the debtor to the extent such alleged liability of such third party arises by reason of—
+(ii) Notwithstanding the provisions of section 524(e), such an injunction may bar any action directed against a third party who is identifiable from the terms of such injunction (by name or as part of an identifiable group) and is alleged to be directly or indirectly liable for the conductof, claims against, or demands on the debtor to the extent such alleged liability of such third party arises by reason of—
 
 &emsp;(I) the third party's ownership of a financial interest in the debtor, a past or present affiliate of the debtor, or a predecessor in interest of the debtor;
 
@@ -154,7 +154,7 @@
 
 (B) Subject to subsection (h), if, under a plan of reorganization, a kind of demand described in such plan is to be paid in whole or in part by a trust described in paragraph (2)(B)(i) in connection with which an injunction described in paragraph (1) is to be implemented, then such injunction shall be valid and enforceable with respect to a demand of such kind made, after such plan is confirmed, against the debtor or debtors involved, or against a third party described in subparagraph (A)(ii), if—
 
-&emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appointsa legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
+&emsp;(i) as part of the proceedings leading to issuance of such injunction, the court appoints a legal representative for the purpose of protecting the rights of persons that might subsequently assert demands of such kind, and
 
 &emsp;(ii) the court determines, before entering the order confirming such plan, that identifying such debtor or debtors, or such third party (by name or as part of an identifiable group), in such injunction with respect to such demands for purposes of this subparagraph is fair and equitable with respect to the persons that might subsequently assert such demands, in light of the benefits provided, or to be provided, to such trust on behalf of such debtor or debtors or such third party.
 
@@ -240,7 +240,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(F) If the underlying debt transaction was disclosed as a variable rate transaction on the most recent disclosure given under the Truth in Lending Act, by stating "The interest rate on your loan may be a variable interest rate which changes from time to time, so that the annual percentage rate disclosed here may be higher or lower.".
 
-&emsp;(G) If the debt is secured by a security interest which has not been waived in whole or in part or determined to be void by a final order of the court at the time of the disclosure, by disclosing that a security interest or lien in goods or property is asserted over some or all of the debts the debtor is reaffirming and listing the items and their original purchase price that are subject to the asserted security interest, or if not a purchase-money security interest then listing by items or types and the original amount of the loan.
+&emsp;(G) If the debt is secured by a security interest which has not been waived in whole or in part or determined to be void by a final order of the court at the time of the disclosure, by disclosing that a security interest or lien ingoods or property is asserted over some or all of the debts the debtor is reaffirming and listing the items and their original purchase price that are subject to the asserted security interest, or if not a purchase-money security interest then listing by items or types and the original amount of the loan.
 
 &emsp;(H) At the election of the creditor, a statement of the repayment schedule using 1 or a combination of the following—
 
@@ -276,7 +276,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 "Are you required to enter into a reaffirmation agreement by any law? No, you are not required to reaffirm a debt by any law. Only agree to reaffirm a debt if it is in your best interest. Be sure you can afford the payments you agree to make.
 
-"What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A 'lien' is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to the amount of the allowed secured claim, as agreed by the parties or determined by the court.".
+"What if your creditor has a security interest or lien? Your bankruptcy discharge does not eliminate any lien on your property. A 'lien' is often referred to as a security interest, deed of trust, mortgage or security deed. Even if you do not reaffirm and your personal liability on the debt is discharged, because of the lien your creditor may still have the right to take the property securing the lien if you do not pay the debt or default on it. If the lien is on an item of personal property that is exempt under your State's law or that the trustee has abandoned, you may be able to redeem the item rather than reaffirm the debt. To redeem, you must make a single payment to the creditor equal to theamount of the allowed secured claim, as agreed by the parties or determined by the court.".
 
 &emsp;(ii) In the case of a reaffirmation under subsection (m)(2), numbered paragraph 6 in the disclosures required by clause (i) of this subparagraph shall read as follows:
 
@@ -348,7 +348,7 @@ Application to Existing Injunctions.—For purposes of subsection (g)—
 
 &emsp;(3) The requirements of subsections (c)(2) and (k) shall be satisfied if disclosures required under those subsections are given in good faith.
 
-(m)(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor's monthly income less the debtor's monthly expenses as shown on the debtor's completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under the terms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor's discharge.
+(m)(1) Until 60 days after an agreement of the kind specified in subsection (c) is filed with the court (or such additional period as the court, after notice and a hearing and for cause, orders before the expiration of such period), it shall be presumed that such agreement is an undue hardship on the debtor if the debtor's monthly income less the debtor's monthly expenses as shown on the debtor's completed and signed statement in support of such agreement required under subsection (k)(6)(A) is less than the scheduled payments on the reaffirmed debt. This presumption shall be reviewed by the court. The presumption may be rebutted in writing by the debtor if the statement includes an explanation that identifies additional sources of funds to make the payments as agreed upon under theterms of such agreement. If the presumption is not rebutted to the satisfaction of the court, the court may disapprove such agreement. No agreement shall be disapproved without notice and a hearing to the debtor and creditor, and such hearing shall be concluded before the entry of the debtor's discharge.
 
 (2) This subsection does not apply to reaffirmation agreements where the creditor is a credit union, as defined in section 19(b)(1)(A)(iv) of the Federal Reserve Act.
 

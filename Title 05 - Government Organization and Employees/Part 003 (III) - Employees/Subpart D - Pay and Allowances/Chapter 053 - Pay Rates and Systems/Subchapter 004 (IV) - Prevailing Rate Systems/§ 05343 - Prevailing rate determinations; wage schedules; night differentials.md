@@ -26,7 +26,7 @@
 
 (b) The Office of Personnel Management shall schedule full-scale wage surveys every 2 years and shall schedule interim surveys to be conducted between each 2 consecutive full-scale wage surveys. The Office may schedule more frequent surveys when conditions so suggest.
 
-(c) The Office of Personnel Management, by regulation, shall prescribe practices and procedures for conducting wage surveys, analyzing wage survey data, developing and establishing wage schedules and rates, and administering the prevailing rate system. The regulations shall provide—
+(c) The Office of Personnel Management, by regulation, shall prescribe practices and procedures for conducting wage surveys, analyzing wage survey data, developing and establishing wage schedules and rates, and administering theprevailing rate system. The regulations shall provide—
 
 &emsp;(1) that, subject to subsection (d) of this section, wages surveyed be those paid by private employers in the wage area for similar work performed by regular full-time employees, except that, for prevailing rate employees under paragraphs (B) and (C) of section 5342(a)(2) of this title, the wages surveyed shall be those paid by private employers to full-time employees in a representative number of retail, wholesale, service, and recreational establishments similar to those in which such prevailing rate employees are employed;
 
@@ -86,7 +86,7 @@
 
 > A night differential under this subsection is a part of basic pay.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 96–70, title III, §3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, §1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, §1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, §1122(a), Nov. 24, 2003, 117 Stat. 1636.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 566; amended Pub. L. 95–454, title IX, §906(a)(2), (3), Oct. 13, 1978, 92 Stat. 1224; Pub. L.96–70, title III, §3302(e)(10), Sept. 27, 1979, 93 Stat. 499; Pub. L. 99–145, title XII, §1242(a), Nov. 8, 1985, 99 Stat. 735; Pub. L. 104–201, div. C, title XXXV, §3548(a)(3)(B), Sept. 23, 1996, 110 Stat. 2868; Pub. L. 107–107, div. A, title XI, §1113(a), Dec. 28, 2001, 115 Stat. 1239; Pub. L. 108–136, div. A, title XI, §1122(a), Nov. 24, 2003, 117 Stat. 1636.)
 
 #### <b>Editorial Notes</b>
 
@@ -147,10 +147,6 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 #### Effective Date
 
 Section other than subsec. (e)(1)(D), (E), (2)(C) of this section effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, and such subsec. (a)(1)(D), (E), (2)(C) not effective until first day of first pay period commencing after date on which President ceases to exercise his authority under Economic Stabilization Act of 1970 to stabilize wages and salaries, or Apr. 30, 1973, whichever occurs first, see section 15(a) of Pub. L. 92–392, set out as a note under section 5341 of this title.
-
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Limitation on Pay Adjustments for Prevailing Rate Employees and Crews of Vessels
 
@@ -302,7 +298,7 @@ Pub. L. 97–257, title I, §100, Sept. 10, 1982, 96 Stat. 832, provided in part
 
 Pub. L. 95–454, title VII, §704, Oct. 13, 1978, 92 Stat. 1218, provided that:
 
-"(a) Those terms and conditions of employment and other employment benefits with respect to Government prevailing rate employees to whom section 9(b) of Public Law 92–392 \[set out as a note under this section\] applies which were the subject of negotiation in accordance with prevailing rates and practices prior to August 19, 1972, shall be negotiated on and after the date of the enactment of this Act \[Oct. 13, 1978\] in accordance with the provisions of section 9(b) of Public Law 92–392 without regard to any provision of chapter 71 oftitle 5, United States Code (as amended by this title \[title VII of Pub. L. 95–454\]), to the extent that any such provision is inconsistent with this paragraph.
+"(a) Those terms and conditions of employment and other employment benefits with respect to Government prevailing rate employees to whom section 9(b) of Public Law 92–392 \[set out as a note under this section\] applies which were the subject of negotiation in accordance with prevailing rates and practices prior to August 19, 1972, shall be negotiated on and after the date of the enactment of this Act \[Oct. 13, 1978\] in accordance with the provisions of section 9(b) of Public Law 92–392 without regard to any provision of chapter 71 of title 5, United States Code (as amended by this title \[title VII of Pub. L. 95–454\]), to the extent that any such provision is inconsistent with this paragraph.
 
 "(b) The pay and pay practices relating to employees referred to in paragraph (1) of this subsection shall be negotiated in accordance with prevailing rates and pay practices without regard to any provision of—
 
@@ -328,7 +324,7 @@ Pub. L. 92–392, §9(b), Aug. 19, 1972, 86 Stat. 574, provided that: "The amend
 
 &emsp;"(2) nullify, curtail, or otherwise impair in any way the right of any party to such contract to enter into negotiations after the date of enactment of this Act \[Aug. 19, 1972\] for the renewal, extension, modification, or improvement of the provisions of such contract or for the replacement of such contract with a new contract; or
 
-&emsp;"(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] any agreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\]."
+&emsp;"(3) nullify, change, or otherwise affect in any way after such date of enactment \[Aug. 19, 1972\] anyagreement, arrangement, or understanding in effect on such date \[Aug. 19, 1972\] with respect to the various items of subject matter of the negotiations on which any such contract in effect on such date \[Aug. 19, 1972\] is based or prevent the inclusion of such items of subject matter in connection with the renegotiation of any such contract, or the replacement of such contract with a new contract, after such date \[Aug. 19, 1972\]."
 
 #### Wage Survey
 
@@ -349,4 +345,10 @@ Sec. 2. (a) Notwithstanding any other provision of law or any provision of an Ex
 > shall be effective on the date on which such wage schedule adjustment would have been effective under section 5343 of title 5, United States (Code), had the fiscal year 1972 schedule for wage surveys for such employees been followed.
 
 "(b) Retroactive pay made under the provisions of this section will be made in accordance with section 5344 of title 5, United States Code."
+
+#### <b>Executive Documents</b>
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

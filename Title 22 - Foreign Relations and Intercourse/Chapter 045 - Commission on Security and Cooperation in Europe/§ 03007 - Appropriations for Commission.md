@@ -16,7 +16,7 @@ For purposes of section 1754(b) of this title, the Commission shall be deemed to
 
 #### (c) Official reception and representational expenses
 
-Not to exceed $6,000 of the funds appropriated to the Commission for each fiscal year may beused for official reception and representational expenses.
+Not to exceed $6,000 of the funds appropriated to the Commission for each fiscal year may be used for official reception and representational expenses.
 
 #### (d) Foreign travel for official purposes
 

@@ -44,7 +44,7 @@
 
 &emsp;(C) Advising the Administrator on policies and procedures for analyses of alternatives for major atomic energy defense acquisition programs.
 
-&emsp;(D) As part of the planning, programming, and budgeting process of the Administrationunder sections 2451 and 2452 of this title, analyzing the planning phase of that process, advising on programmatic and fiscal year guidance, and managing the program review phase of that process.
+&emsp;(D) As part of the planning, programming, and budgeting process of the Administration under sections 2451 and 2452 of this title, analyzing the planning phase of that process, advising on programmatic and fiscal year guidance, and managing the program review phase of that process.
 
 &emsp;(E) Developing and managing the submittal of the Selected Acquisition Reports and independent cost estimates on nuclear weapons systems undergoing major life extension under section 2537 of this title.
 
@@ -96,6 +96,8 @@ In this section:
 
 (Pub. L. 106–65, div. C, title XXXII, §3221, as added Pub. L. 113–66, div. C, title XXXI, §3112(a)(1), Dec. 26, 2013, 127 Stat. 1050; amended Pub. L. 113–291, div. C, title XXXI, §3117, Dec. 19, 2014, 128 Stat. 3889; Pub. L. 115–232, div. C, title XXXI, §3113(a), Aug. 13, 2018, 132 Stat. 2290; Pub. L. 116–92, div. C, title XXXI, §3113(a), Dec. 20, 2019, 133 Stat. 1950.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (b)(1). Pub. L. 116–92 inserted "The Director shall report directly to the Administrator." at end.
@@ -105,6 +107,8 @@ In this section:
 Subsec. (i)(2). Pub. L. 115–232, §3113(a)(3), struck out subpar. (A) designation and heading "In general", substituted "The term" for "Except as provided in subparagraph (B), the term", redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, realigned margins, and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "The term 'major atomic energy defense acquisition program' does not include a project covered by Department of Energy Order 413.3 (or a successor order) for the acquisition of capital assets for atomic energy defense activities."
 
 <b>2014</b>—Subsec. (h)(1) to (3). Pub. L. 113–291 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

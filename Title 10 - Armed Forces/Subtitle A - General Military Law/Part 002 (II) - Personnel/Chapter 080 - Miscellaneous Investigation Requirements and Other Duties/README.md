@@ -6,6 +6,7 @@
 | [1561a.](%C2%A7%2001561a%20-%20Civilian%20orders%20of%20protection%20force%20and%20effect%20on%20military%20installations.md) | Civilian orders of protection: force and effect on military installations. |
 | [1561b.](%C2%A7%2001561b%20-%20Confidential%20reporting%20of%20sexual%20harassment.md) | Confidential reporting of sexual harassment. |
 | [1562\.](%C2%A7%2001562%20-%20Database%20on%20domestic%20violence%20incidents.md) | Database on domestic violence incidents. |
+| [1562a.](%C2%A7%2001562a%20-%20Complaints%20of%20retaliation%20by%20victims%20of%20sexual%20assault%20or%20sexual%20harassment%20and%20related%20persons%20tracking%20by%20Department%20of%20Defense.md) | Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense. |
 | [1563\.](%C2%A7%2001563%20-%20Consideration%20of%20proposals%20from%20Members%20of%20Congress%20for%20honorary%20promotions%20procedures%20for%20review%20and%20promotion.md) | Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion. |
 | [1563a.](%C2%A7%2001563a%20-%20Honorary%20promotions%20on%20the%20initiative%20of%20the%20Department%20of%20Defense.md) | Honorary promotions on the initiative of the Department of Defense. |
 | [1564\.](%C2%A7%2001564%20-%20Security%20clearance%20investigations.md) | Security clearance investigations. |
@@ -21,13 +22,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendment of Analysis
+
+<i>Pub. L. 117–81, div. A, title V, §543(b), (c), Dec. 27, 2021, 135 Stat. 1710, provided that, effective on the date that is two years after Dec. 27, 2021, this analysis is amended by striking the item relating to section 1561 and inserting the following new item:</i>
+
+<i>"1561. Complaints of sexual harassment: independent investigation."</i>
+
+<i>See 2021 Amendment note below.</i>
+
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
 #### Amendments
 
-<b>2021</b>—Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
+<b>2021</b>—Pub. L. 117–81, div. A, title V, §§543(b), 544(b), Dec. 27, 2021, 135 Stat. 1710, 1711, added items 1561 and 1562a and struck out former item 1561 "Complaints of sexual harassment: investigation by commanding officers".
+
+Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
 
 <b>2018</b>—Pub. L. 115–232, div. A, title XVI, §1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
 
@@ -50,6 +63,50 @@ Pub. L. 107–311, §2(b), Dec. 2, 2002, 116 Stat. 2455, added item 1561a.
 Pub. L. 106–398, §1 \[\[div. A\], title V, §542(b), title X, §1072(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–115, 1654A–277, added items 1563 and 1564.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title V, §594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Annual Primary Prevention Research Agenda
+
+Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, provided that:
+
+"(a)
+
+In General.—Beginning on October 1, 2022, and annually on the first day of each fiscal year thereafter, the Secretary of Defense shall publish a Department of Defense research agenda for that fiscal year, focused on the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
+
+"(b)
+
+Elements.—Each annual primary prevention research agenda published under subsection (a) shall—
+
+&emsp;"(1) identify research priorities for that fiscal year;
+
+&emsp;"(2) assign research projects and tasks to the military departments and other components of the Department of Defense, as the Secretary of Defense determines appropriate;
+
+&emsp;"(3) allocate or direct the allocation of appropriate resourcing for each such project and task; and
+
+&emsp;"(4) be directive in nature and enforceable across all components of the Department of Defense, including with regard to—
+
+&emsp;&emsp;"(A) providing for timely access to records, data and information maintained by any component of the Department of Defense that may be required in furtherance of an assigned research project or task;
+
+&emsp;&emsp;"(B) ensuring the sharing across all components of the Department of Defense of the findings and the outcomes of any research project or task; and
+
+&emsp;&emsp;"(C) any other matter determined by the Secretary of Defense.
+
+"(c)
+
+Guiding Principles.—The primary prevention research agenda should, as determined by the Secretary of Defense—
+
+&emsp;"(1) reflect a preference for research projects and tasks with the potential to yield or contribute to the development and implementation of actionable primary prevention strategies in the Department of Defense;
+
+&emsp;"(2) be integrated, so as to discover or test cross-cutting interventions across the spectrum of interpersonal and self-directed violence;
+
+&emsp;"(3) incorporate collaboration with other Federal departments and agencies, State governments, academia, industry, federally funded research and development centers, non-profit organizations, and other organizations outside of the Department of Defense; and
+
+&emsp;"(4) minimize unnecessary duplication of effort.
+
+"(d)
+
+Budgeting.—The Secretary of Defense shall create a unique Program Element for and shall prioritize recurring funding to ensure the continuity of research pursuant to the annual primary prevention research agenda."
 
 #### Multidisciplinary Board To Evaluate Suicide Events
 
@@ -169,7 +226,7 @@ Purposes.—The purposes of each multidisciplinary team maintained pursuant to s
 
 &emsp;"(2) To provide for and enhance collaborative efforts among such team and other appropriate personnel of the installation or installations regarding investigations into and resolutions of such incidents.
 
-&emsp;"(3) To enhance the social services available to military families at the installation or installations in connection with such incidents, including through the enhancement of cooperation among specialistsand other personnel providing such services to such military families in connection with such incidents.
+&emsp;"(3) To enhance the social services available to military families at the installation or installations in connection with such incidents, including through the enhancement of cooperation among specialists and other personnel providing such services to such military families in connection with such incidents.
 
 &emsp;"(4) To carry out such other duties regarding the response to child abuse and other domestic violence at the installation or installations as the Secretary concerned considers appropriate for such purposes.
 
@@ -246,6 +303,7 @@ Usage with respect to multiple installations.—For purposes of this section, an
 - [&sect; 01561a - Civilian orders of protection force and effect on military installations](%C2%A7%2001561a%20-%20Civilian%20orders%20of%20protection%20force%20and%20effect%20on%20military%20installations.md)
 - [&sect; 01561b - Confidential reporting of sexual harassment](%C2%A7%2001561b%20-%20Confidential%20reporting%20of%20sexual%20harassment.md)
 - [&sect; 01562 - Database on domestic violence incidents](%C2%A7%2001562%20-%20Database%20on%20domestic%20violence%20incidents.md)
+- [&sect; 01562a - Complaints of retaliation by victims of sexual assault or sexual harassment and related persons tracking by Department of Defense](%C2%A7%2001562a%20-%20Complaints%20of%20retaliation%20by%20victims%20of%20sexual%20assault%20or%20sexual%20harassment%20and%20related%20persons%20tracking%20by%20Department%20of%20Defense.md)
 - [&sect; 01563 - Consideration of proposals from Members of Congress for honorary promotions procedures for review and promotion](%C2%A7%2001563%20-%20Consideration%20of%20proposals%20from%20Members%20of%20Congress%20for%20honorary%20promotions%20procedures%20for%20review%20and%20promotion.md)
 - [&sect; 01563a - Honorary promotions on the initiative of the Department of Defense](%C2%A7%2001563a%20-%20Honorary%20promotions%20on%20the%20initiative%20of%20the%20Department%20of%20Defense.md)
 - [&sect; 01564 - Security clearance investigations](%C2%A7%2001564%20-%20Security%20clearance%20investigations.md)

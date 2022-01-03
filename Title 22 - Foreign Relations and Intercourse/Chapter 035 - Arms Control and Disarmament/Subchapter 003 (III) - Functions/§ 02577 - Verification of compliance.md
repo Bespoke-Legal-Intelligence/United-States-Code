@@ -22,7 +22,7 @@ In making determinations under paragraphs (1) and (2) of subsection (a), the Sec
 
 #### (d) Rule of construction
 
-Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliancewith arms control, nonproliferation, and disarmament agreements.
+Except as otherwise provided for by law, nothing in this section may be construed as requiring the disclosure of sensitive information relating to intelligence sources or methods or persons employed in the verification of compliance with arms control, nonproliferation, and disarmament agreements.
 
 (Pub. L. 87–297, title III, §306, formerly §37, as added Pub. L. 95–108, §4, Aug. 17, 1977, 91 Stat. 871; amended Pub. L. 103–236, title VII, §712, Apr. 30, 1994, 108 Stat. 495; renumbered §306 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(11), (21), Oct. 21, 1998, 112 Stat. 2681–770, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1115\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489.)
 

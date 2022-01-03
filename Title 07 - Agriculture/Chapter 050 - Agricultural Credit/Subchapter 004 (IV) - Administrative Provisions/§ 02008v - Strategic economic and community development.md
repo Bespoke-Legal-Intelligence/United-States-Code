@@ -14,7 +14,7 @@ In the case of any program under this chapter or administered by the Secretary, 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall reserve not more than 15 percent of the fundsmade available for a fiscal year for covered programs for projects that support the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis.
+&emsp;Subject to paragraph (2), the Secretary shall reserve not more than 15 percent of the funds made available for a fiscal year for covered programs for projects that support the implementation of a strategic community investment plan described in subsection (d) on a multisectoral and multijurisdictional basis.
 
 #### (2) Period
 
@@ -77,6 +77,8 @@ In the case of any program under this chapter or administered by the Secretary, 
 &emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2019 through 2023, to remain available until expended.
 
 (Pub. L. 87–128, title III, §379H, as added Pub. L. 113–79, title VI, §6025, Feb. 7, 2014, 128 Stat. 848; amended Pub. L. 115–334, title VI, §6401, Dec. 20, 2018, 132 Stat. 4756.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

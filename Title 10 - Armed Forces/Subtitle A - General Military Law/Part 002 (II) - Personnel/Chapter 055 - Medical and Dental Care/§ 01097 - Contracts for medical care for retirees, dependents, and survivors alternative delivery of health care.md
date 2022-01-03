@@ -32,11 +32,13 @@ Coordination With Other Health Care Programs.—In the case of a covered benefic
 
 (e)
 
-Charges for Health Care.—(1) The Secretary of Defense may prescribe by regulation a premium, deductible, copayment, or other charge for health care provided under this section. In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for whichthe Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title, the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans. Without imposing additional costs on covered beneficiaries who participate in contracts for health care services under this section or health care plans offered under section 1099 of this title, the Secretary shall permit such covered beneficiaries to pay, on a quarterly basis, any enrollment fee required for such participation. Except as provided by paragraph (2), a premium, deductible, copayment, or other charge prescribed by the Secretary under this subsection may not be increased during the period beginning on April 1, 2006, and ending on September 30, 2011.
+Charges for Health Care.—(1) The Secretary of Defense may prescribe by regulation a premium, deductible, copayment, or other charge for health care provided under this section. In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for which the Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title, the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans. Without imposing additional costs on covered beneficiaries who participate in contracts for health care services under this section or health care plans offered under section 1099 of this title, the Secretary shall permit such covered beneficiaries to pay, on a quarterly basis, any enrollment fee required for such participation. Except as provided by paragraph (2), a premium, deductible, copayment, or other charge prescribed by the Secretary under this subsection may not be increased during the period beginning on April 1, 2006, and ending on September 30, 2011.
 
 (2) Beginning October 1, 2012, the Secretary of Defense may only increase in any year the annual enrollment fees described in paragraph (1) by an amount equal to the percentage by which retired pay is increased under section 1401a of this title.
 
 (Added Pub. L. 99–661, div. A, title VII, §701(a)(1), Nov. 14, 1986, 100 Stat. 3895; amended Pub. L. 103–337, div. A, title VII, §§713, 714(a), Oct. 5, 1994, 108 Stat. 2802; Pub. L. 104–106, div. A, title VII, §§712, 713, Feb. 10, 1996, 110 Stat. 374; Pub. L. 109–364, div. A, title VII, §704(a), Oct. 17, 2006, 120 Stat. 2280; Pub. L. 110–181, div. A, title VII, §701(a), Jan. 28, 2008, 122 Stat. 187; Pub. L. 110–417, \[div. A\], title VII, §701(a), Oct. 14, 2008, 122 Stat. 4498; Pub. L. 111–383, div. A, title VII, §701(a), Jan. 7, 2011, 124 Stat. 4244; Pub. L. 112–81, div. A, title VII, §701(a), Dec. 31, 2011, 125 Stat. 1469.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 
@@ -59,6 +61,8 @@ Subsec. (e). Pub. L. 104–106, §713, inserted at end "Without imposing additio
 Pub. L. 103–337, §713, inserted at end "In the case of contracts for health care services under this section or health care plans offered under section 1099 of this title for which the Secretary permits covered beneficiaries who are covered by section 1086 of this title and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in section 1086(b) of this title, the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in section 1086(d)(1) of this title who also participate in such contracts or plans."
 
 Subsecs. (d), (e). Pub. L. 103–337, §714(a), added subsec. (d) and redesignated former subsec. (c) as (e).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Clarification of Application for Fiscal Year 2013
 

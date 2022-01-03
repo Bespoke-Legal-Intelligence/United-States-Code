@@ -22,6 +22,8 @@ Except as otherwise provided in this subchapter, an individual—
 
 (Aug. 14, 1935, ch. 531, title VIII, §802, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1844.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 For prior provisions, see note set out under section 1001 of this title.

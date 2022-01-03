@@ -88,7 +88,7 @@ The Secretary shall consider an applicant to have an expected family contributio
 
 &emsp;&emsp;&emsp;(iii) include at least one parent who is a dislocated worker; or
 
-&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous 24-month period under a means-tested Federal benefit program as defined under subsection (d); and
+&emsp;&emsp;&emsp;(iv) received, or the student received, benefits at some time during the previous24-month period under a means-tested Federal benefit program as defined under subsection (d); and
 
 &emsp;&emsp;(B) the sum of the adjusted gross income of the parents is less than or equal to $23,000; or
 
@@ -160,7 +160,7 @@ In this section:
 
 &emsp;&emsp;&emsp;<i>(i) do not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or</i>
 
-&emsp;&emsp;&emsp;<i>(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.</i>
+&emsp;&emsp;&emsp;<i>(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the</i><i>Federal income tax return for the second preceding tax year.</i>
 
 &emsp;&emsp;<i>(C) Is an applicant who is an independent student and the student (including the student's spouse, if any) has a total adjusted gross income that is less than $60,000 and does not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules), with the Federal income tax return for the second preceding tax year, and—</i>
 
@@ -230,11 +230,13 @@ In this section:
 
 <i>See 2020 Amendment note below.</i>
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 etseq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (d)(2)(B), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(C), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -304,7 +306,7 @@ Subsec. (c)(2)(A). Pub. L. 105–244, §477(2)(B), amended subpar. (A) generally
 
 <b>1993</b>—Subsec. (a)(1). Pub. L. 103–208, §2(g)(10), inserted "of" after "(c)".
 
-Subsec. (b)(1)(B)(i). Pub. L. 103–208, §2(g)(11), inserted "(and the student's spouse, if any)" after "student" intwo places and struck out "such" before "an income tax return".
+Subsec. (b)(1)(B)(i). Pub. L. 103–208, §2(g)(11), inserted "(and the student's spouse, if any)" after "student" in two places and struck out "such" before "an income tax return".
 
 Subsec. (b)(2). Pub. L. 103–208, §2(g)(12), (13), substituted "six elements" for "five elements" in introductory provisions and a comma for semicolon in subpar. (E).
 
@@ -333,6 +335,8 @@ Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out "and State" after "Fed
 Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2020 Amendment
 

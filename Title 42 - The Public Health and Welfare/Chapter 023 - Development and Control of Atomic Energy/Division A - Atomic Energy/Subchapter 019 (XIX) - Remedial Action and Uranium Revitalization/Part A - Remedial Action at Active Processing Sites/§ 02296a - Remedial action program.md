@@ -22,7 +22,7 @@ Except as provided in subsection (b), the costs of decontamination, decommission
 
 #### (A) To individual active site uranium licensees
 
-&emsp;&emsp;The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to section 2296a–1 of this title and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry short tons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a), and generated as an incident of sales to the United States.
+&emsp;&emsp;The amount of reimbursement paid to any licensee under paragraph (1) shall be determined by the Secretary in accordance with regulations issued pursuant to section 2296a–1 of this title and, for uranium mill tailings only, shall not exceed an amount equal to $6.25 multiplied by the dry shorttons of byproduct material located on October 24, 1992, at the site of the activities of such licensee described in subsection (a), and generated as an incident of sales to the United States.
 
 #### (B) To all active site uranium licensees
 
@@ -65,6 +65,8 @@ Except as provided in subsection (b), the costs of decontamination, decommission
 &emsp;Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
 (Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173; Pub. L. 105–388, §11(a), Nov. 13, 1998, 112 Stat. 3484; Pub. L. 106–317, §1, Oct. 19, 2000, 114 Stat. 1277; Pub. L. 107–222, §1(a), Aug. 21, 2002, 116 Stat. 1336.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 

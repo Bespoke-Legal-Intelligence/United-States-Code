@@ -32,11 +32,15 @@ July 2, 1926, ch. 721, §12 (less 1st 49 words of last sentence), 44 Stat. 789; 
 
 In subsection (a), the words "under such rules and regulations as he may prescribe" are omitted, since the President has inherent authority to issue regulations appropriate to exercising his functions. The words "but not in the name of Congress" are omitted as surplusage, since a medal is presented in the name of Congress only if the law so directs. The word "award" is substituted for the word "present" to cover the determination of the recipients as well as the actual presentation of the medal. The words "since the 6th day of April, 1917, has distinguished, or who, after July 2, 1926" and 10:1429 (proviso of 1st sentence) are omitted as executed.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2019</b>—Subsec. (c). Pub. L. 116–92 struck out subsec. (c) which read as follows: "No distinguished flying cross, or device in place thereof, may be awarded or presented to a person whose service after he distinguished himself has not been honorable."
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8749 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

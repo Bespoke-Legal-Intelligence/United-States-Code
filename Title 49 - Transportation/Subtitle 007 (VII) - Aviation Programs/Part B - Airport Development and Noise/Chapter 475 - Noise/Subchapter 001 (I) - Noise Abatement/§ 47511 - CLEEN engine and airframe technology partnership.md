@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator of the Federal Aviation Administration shall enterinto a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil subsonic airplanes.
+In General.—The Administrator of the Federal Aviation Administration shall enter into a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil subsonic airplanes.
 
 (b)
 

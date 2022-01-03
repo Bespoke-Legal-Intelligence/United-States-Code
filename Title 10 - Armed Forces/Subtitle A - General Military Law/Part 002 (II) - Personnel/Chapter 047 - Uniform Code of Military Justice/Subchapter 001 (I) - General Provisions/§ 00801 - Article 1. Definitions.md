@@ -44,7 +44,31 @@ In this chapter (the Uniform Code of Military Justice):
 
 &emsp;(16) The term "national security" means the national defense and foreign relations of the United States.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L. 98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 36; Pub. L. 89–670, §10(g), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–179, §1(1), (2), Dec. 8, 1967, 81 Stat. 545; Pub. L. 90–632, §2(1), Oct. 24, 1968, 82 Stat. 1335; Pub. L.98–209, §§2(a), 6(a), Dec. 6, 1983, 97 Stat. 1393, 1400; Pub. L. 100–180, div. A, title XII, §1231(17), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 100–456, div. A, title XII, §1233(f)(1), Sept. 29, 1988, 102 Stat. 2057; Pub. L. 104–106, div. A, title XI, §1141(b), Feb. 10, 1996, 110 Stat. 467; Pub. L. 107–296, title XVII, §1704(b)(2), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–241, title II, §218(a), July 11, 2006, 120 Stat. 526; Pub. L. 114–328, div. E, title LI, §5101, Dec. 23, 2016, 130 Stat. 2894; Pub. L. 115–91, div. A, title X, §1081(a)(21), (c)(1)(A), Dec. 12, 2017, 131 Stat. 1595, 1597; Pub. L. 117–81, div. A, title V, §533, Dec. 27, 2021, 135 Stat. 1695.)
+
+#### Amendment of Section
+
+<i>Pub. L. 117–81, div. A, title V, §§533, 539C, Dec. 27, 2021, 135 Stat. 1695, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:</i>
+
+<i>(1) by inserting after paragraph (10) the following new paragraph:</i>
+
+&emsp;<i>"(11) The term 'military magistrate' means a commissioned officer certified for duty as a military magistrate in accordance with section 826a of this title (article 26a)."; and</i>
+
+<i>(2) by adding at the end the following new paragraphs:</i>
+
+&emsp;<i>"(17) The term 'covered offense' means—</i>
+
+&emsp;&emsp;<i>"(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;</i>
+
+&emsp;&emsp;<i>"(B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under section 881 of this title (article 81);</i>
+
+&emsp;&emsp;<i>"(C) a solicitation to commit an offense specified in subparagraph (A) as punishable under section 882 of this title (article 82); or</i>
+
+&emsp;&emsp;<i>"(D) an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 880 of this title (article 80).</i>
+
+&emsp;<i>"(18) The term 'special trial counsel' means a judge advocate detailed as a special trial counsel in accordance with section 824a of this title (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to section 1044f(a)(2) of this title."</i>
+
+<i>See 2021 Amendment notes below.</i>
 
 Historical and Revision Notes
 
@@ -78,7 +102,13 @@ In clause (8), the word "refers" is substituted for the words "shall be construe
 
 In clause (12), the words "Marine Corps" are inserted to make explicit that the clause applies to the Marine Corps. The word "commissioned" is inserted for clarity.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
+
+<b>2021</b>—Par. (11). Pub. L. 117–81, §533(1), added par. (11).
+
+Pars. (17), (18). Pub. L. 117–81, §533(2), added pars. (17) and (18).
 
 <b>2017</b>—Pub. L. 115–91, §1081(c)(1)(A), which directed insertion of "(the Uniform Code of Military Justice)" after "chapter" in introductory provisions, was not executed in light of the prior amendment by section 1081(a)(21) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and section 1081(c)(4) of Pub. L. 115–91, set out as an Effective Date of 2017 Amendment note below.
 
@@ -113,6 +143,28 @@ Cl. (14). Pub. L. 98–209, §6(a), added cl. (14).
 Cl. (13). Pub. L. 90–179, §1(2), added cl. (13).
 
 <b>1966</b>—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of "Judge Advocate General" applicable to the Coast Guard when operating as a service in the Navy.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–81, div. A, title V, §539C, Dec. 27, 2021, 135 Stat. 1699, provided that:
+
+"(a)
+
+In General.—Except as provided in subsection (b), the amendments made by this part \[part 1 (§§531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title\] shall take effect on the date that is two years after the date of the enactment of this Act \[Dec. 27, 2021\] and shall apply with respect to offenses that occur after that date.
+
+"(b)
+
+Regulations.—
+
+&emsp;"(1)
+
+Requirement.—The President shall prescribe regulations to carry out this part not later than two years after the date of the enactment of this Act.
+
+&emsp;"(2)
+
+Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shall apply with respect to offenses that occur on or after that date."
 
 #### Effective Date of 2017 Amendment
 
@@ -168,7 +220,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Pub. L. 98–209, §12(a), Dec. 6, 1983, 97 Stat. 1407, provided that:
 
-"(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effecton the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
+"(1) The amendments made by this Act \[see Short Title of 1983 Amendment note below\] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act \[Dec. 6, 1983\], except that the amendments made by sections 9, 11 and 13 \[amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under section 867 of this title\] shall be effective on the date of the enactment of this Act. The amendments made by section 11 \[amending sections 1552 and 1553 of this title\] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code.
 
 "(2) The amendments made by section 3(c) and 3(e) \[amending sections 826, 827, and 838 of this title\] do not affect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments.
 
@@ -231,6 +283,10 @@ Act Aug. 10, 1956, ch. 1041, §49(e), 70A Stat. 640, provided that: "In chapter 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Applicability to the United States Coast Guard
+
+Pub. L. 117–81, div. A, title V, §539B, Dec. 27, 2021, 135 Stat. 1699, provided that: "The Secretary of Defense shall consult and enter into an agreement with the Secretary of Homeland Security to apply the provisions of this part \[part 1 (§§531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title, amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title, and enacting provisions set out as a note under this section\] and the amendments made by this part, and the policies, mechanisms, and processes established pursuant to such provisions, to the United States Coast Guard when it is operating as a service in the Department of Homeland Security."
 
 #### Assessment of Racial, Ethnic, and Gender Disparities in the Military Justice System
 
@@ -568,7 +624,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Affairs, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-&emsp;"(2) The term 'individual detained at Guantanamo' means any individual located at United States Naval Station, Guantanamo Bay, Cuba, as of October 1, 2009, who—
+&emsp;"(2) The term 'individual detained at Guantanamo' means any individual located at United States NavalStation, Guantanamo Bay, Cuba, as of October 1, 2009, who—
 
 &emsp;&emsp;"(A) is not a citizen of the United States or a member of the Armed Forces of the United States; and
 
@@ -1546,6 +1602,8 @@ Matters to Be Included.—In order to achieve the objective stated in subsection
 
 Secretary of Defense Certification.—The Secretary of Defense shall certify that all Federal employees and civilian contractors engaged in the handling or interrogation of individuals detained by the Department of Defense on behalf of the United States Government have fulfilled an annual training requirement on the law of war, the Geneva Conventions, and the obligations of the United States under international law."
 
+#### <b>Executive Documents</b>
+
 #### Detention, Treatment, and Trial of Certain Non-Citizens in the War Against Terrorism
 
 Military Order of President of the United States, dated Nov. 13, 2001, 66 F.R. 57833, provided:
@@ -1566,7 +1624,7 @@ Section 1. <i>Findings.</i>
 
 (f) Given the danger to the safety of the United States and the nature of international terrorism, and to the extent provided by and under this order, I find consistent with section 836 of title 10, United States Code, that it is not practicable to apply in military commissions under this order the principles of law and the rules of evidence generally recognized in the trial of criminal cases in the United States district courts.
 
-(g) Having fully considered the magnitude of the potential deaths, injuries, and property destruction thatwould result from potential acts of terrorism against the United States, and the probability that such acts will occur, I have determined that an extraordinary emergency exists for national defense purposes, that this emergency constitutes an urgent and compelling government interest, and that issuance of this order is necessary to meet the emergency.
+(g) Having fully considered the magnitude of the potential deaths, injuries, and property destruction that would result from potential acts of terrorism against the United States, and the probability that such acts will occur, I have determined that an extraordinary emergency exists for national defense purposes, that this emergency constitutes an urgent and compelling government interest, and that issuance of this order is necessary to meet the emergency.
 
 Sec. 2. <i>Definition and Policy.</i>
 
@@ -1716,7 +1774,7 @@ Sec. 5. <i>Diplomatic Efforts</i>. The Secretary of State shall expeditiously pu
 
 Sec. 6. <i>Humane Standards of Confinement</i>. No individual currently detained at Guantanamo shall be held in the custody or under the effective control of any officer, employee, or other agent of the United States Government, or at a facility owned, operated, or controlled by a department or agency of the United States, except in conformity with all applicable laws governing the conditions of such confinement, including Common Article 3 of the Geneva Conventions. The Secretary of Defense shall immediately undertake a review of the conditions of detention at Guantanamo to ensure full compliance with this directive. Such review shall be completed within 30 days and any necessary corrections shall be implemented immediately thereafter.
 
-Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section 4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissionsto which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
+Sec. 7. <i>Military Commissions</i>. The Secretary of Defense shall immediately take steps sufficient to ensure that during the pendency of the Review described in section4 of this order, no charges are sworn, or referred to a military commission under the Military Commissions Act of 2006 and the Rules for Military Commissions, and that all proceedings of such military commissions to which charges have been referred but in which no judgment has been rendered, and all proceedings pending in the United States Court of Military Commission Review, are halted.
 
 Sec. 8. <i>General Provisions</i>.
 
@@ -1758,7 +1816,7 @@ Sec. 3. <i>Periodic Review</i>. The Secretary of Defense shall coordinate a proc
 
 (7) The PRB shall make a prompt determination, by consensus and in writing, as to whether the detainee's continued detention is warranted under the standard in section 2 of this order. If the PRB determines that the standard is not met, the PRB shall also recommend any conditions that relate to the detainee's transfer. The PRB shall provide a written summary of any final determination in unclassified form to the detainee, in a language the detainee understands, within 30 days of the determination when practicable.
 
-(8) The Secretary of Defense shall establish a secretariat to administer the PRB review and hearing process. The Director of National Intelligence shall assist in preparing the unclassified notice and the substitutesor summaries described above. Other executive departments and agencies shall assist in the process of providing the PRB with information required for the review processes detailed in this order.
+(8) The Secretary of Defense shall establish a secretariat to administer the PRB review and hearing process. The Director of National Intelligence shall assist in preparing the unclassified notice and the substitutes or summaries described above. Other executive departments and agencies shall assist in the process of providing the PRB with information required for the review processes detailed in this order.
 
 (b) <i>Subsequent Full Review</i>. The continued detention of each detainee shall be subject to subsequent full reviews and hearings by the PRB on a triennial basis. Each subsequent review shall employ the procedures set forth in section 3(a) of this order.
 
@@ -1814,7 +1872,7 @@ Ex. Ord. No. 13823, Jan. 30, 2018, 83 F.R. 4831, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Findings</i>. (a) Consistent with long-standing law of war principles and applicable law, the UnitedStates may detain certain persons captured in connection with an armed conflict for the duration of the conflict.
+Section 1. <i>Findings</i>. (a) Consistent with long-standing law of war principles and applicable law, the United States may detain certain persons captured in connection with an armed conflict for the duration of the conflict.
 
 (b) Following the terrorist attacks of September 11, 2001, the 2001 Authorization for Use of Military Force (AUMF) and other authorities authorized the United States to detain certain persons who were a part of or substantially supported al-Qa'ida, the Taliban, or associated forces engaged in hostilities against the United States or its coalition partners. Today, the United States remains engaged in an armed conflict with al-Qa'ida, the Taliban, and associated forces, including with the Islamic State of Iraq and Syria.
 
@@ -1874,7 +1932,7 @@ Sec. 3. (a) Pursuant to section 5542 of the Military Justice Act of 2016 (MJA) \
 
 (c) Nothing in title LX of the MJA shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
 
-(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in thisorder, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
+(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
 
 Sec. 4. The Manual for Courts-Martial, United States, as amended by section 1 of this order, is amended as described in Annex 2, which is attached to and made a part of this order \[not set out in the Code\].
 

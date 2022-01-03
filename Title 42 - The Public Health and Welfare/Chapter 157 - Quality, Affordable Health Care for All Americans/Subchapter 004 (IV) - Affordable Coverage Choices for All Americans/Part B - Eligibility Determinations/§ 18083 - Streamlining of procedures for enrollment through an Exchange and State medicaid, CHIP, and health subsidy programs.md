@@ -36,7 +36,7 @@ The Secretary shall establish a system meeting the requirements of this section 
 
 #### (1) Development of secure interfaces
 
-&emsp;Each State shall develop for all applicable State health subsidy programs a secure, electronic interface allowing an exchange of data (including information contained in the application forms described in subsection (b)) that allows a determination of eligibility for all such programs based on a single application. Such interface shall be compatible with the method established for data verification under section 18081(c)(4) of this title.
+&emsp;Each State shall develop for all applicable State health subsidy programs a secure, electronic interface allowing an exchange of data\(including information contained in the application forms described in subsection (b)) that allows a determination of eligibility for all such programs based on a single application. Such interface shall be compatible with the method established for data verification under section 18081(c)(4) of this title.
 
 #### (2) Data matching program
 
@@ -68,7 +68,7 @@ The Secretary shall establish a system meeting the requirements of this section 
 
 #### (B) Exception
 
-&emsp;&emsp;This paragraph shall not apply in circumstances with respect to which the Secretary determines that the administrativeand other costs of use of the data matching arrangement under paragraph (2) outweigh its expected gains in accuracy, efficiency, and program participation.
+&emsp;&emsp;This paragraph shall not apply in circumstances with respect to which the Secretary determines that the administrative and other costs of use of the data matching arrangement under paragraph (2) outweigh its expected gains in accuracy, efficiency, and program participation.
 
 #### (4) Secretarial standards
 
@@ -101,6 +101,8 @@ In this section, the term "applicable State health subsidy program" means—
 &emsp;(4) a State program under section 18051 of this title establishing qualified basic health plans.
 
 (Pub. L. 111–148, title I, §1413, Mar. 23, 2010, 124 Stat. 233.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

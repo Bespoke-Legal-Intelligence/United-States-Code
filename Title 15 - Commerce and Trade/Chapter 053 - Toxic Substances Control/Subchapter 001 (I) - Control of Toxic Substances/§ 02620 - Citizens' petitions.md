@@ -10,7 +10,7 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 (2) The Administrator may hold a public hearing or may conduct such investigation or proceeding as the Administrator deems appropriate in order to determine whether or not such petition should be granted.
 
-(3) Within 90 days after filing of a petition described in paragraph (1), the Administrator shall either grant or deny the petition. If the Administrator grants such petition, the Administrator shall promptly commence an appropriate proceeding in accordance with section 2603, 2604, 2605, or 2607 of this title. If the Administrator denies such petition, the Administrator shall publish in the Federal Register the Administrator's reasons for such denial.
+(3) Within 90 days after filing of a petition described in paragraph (1), the Administrator shalleither grant or deny the petition. If the Administrator grants such petition, the Administrator shall promptly commence an appropriate proceeding in accordance with section 2603, 2604, 2605, or 2607 of this title. If the Administrator denies such petition, the Administrator shall publish in the Federal Register the Administrator's reasons for such denial.
 
 (4)(A) If the Administrator denies a petition filed under this section (or if the Administrator fails to grant or deny such petition within the 90-day period) the petitioner may commence a civil action in a district court of the United States to compel the Administrator to initiate a rulemaking proceeding as requested in the petition. Any such action shall be filed within 60 days after the Administrator's denial of the petition or, if the Administrator fails to grant or deny the petition within 90 days after filing the petition, within 60 days after the expiration of the 90-day period.
 
@@ -18,7 +18,7 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 &emsp;(i) in the case of a petition to initiate a proceeding for the issuance of a rule under section 2603 of this title or an order under section 2603 or 2604(e) of this title—
 
-&emsp;&emsp;(I) information available to the Administrator is insufficient to permit a reasoned evaluation of the health and environmentaleffects of the chemical substance to be subject to such rule or order; and
+&emsp;&emsp;(I) information available to the Administrator is insufficient to permit a reasoned evaluation of the health and environmental effects of the chemical substance to be subject to such rule or order; and
 
 &emsp;&emsp;(II) in the absence of such information, the substance may present an unreasonable risk to health or the environment, or the substance is or will be produced in substantial quantities and it enters or may reasonably be anticipated to enter the environment in substantial quantities or there is or may be significant or substantial human exposure to it; or
 
@@ -32,6 +32,8 @@ Any person may petition the Administrator to initiate a proceeding for the issua
 
 (Pub. L. 94–469, title I, §21, Oct. 11, 1976, 90 Stat. 2042; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989; amended Pub. L. 114–182, title I, §19(o), June 22, 2016, 130 Stat. 509.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (a). Pub. L. 114–182, §19(o)(1), substituted "order under section 2603 or 2604(e) or (f) of this title" for "order under section 2604(e) or 2605(b)(2) of this title".
@@ -43,6 +45,8 @@ Subsec. (b)(4)(B). Pub. L. 114–182, §19(o)(2)(B)(i), substituted "order under
 Subsec. (b)(4)(B)(i). Pub. L. 114–182, §19(o)(2)(B)(ii), substituted "order under section 2603 or 2604(e) of this title" for "order under section 2604(e) of this title" in introductory provisions.
 
 Subsec. (b)(4)(B)(ii). Pub. L. 114–182, §19(o)(2)(B)(iii), substituted "section 2605(a) or 2607 of this title or an order under section 2604(f) of this title, the chemical substance or mixture to be subject to such rule or order presents an unreasonable risk of injury to health or the environment, without consideration of costs or other nonrisk factors, including an unreasonable risk to a potentially exposed or susceptible subpopulation, under the conditions of use" for "section 2605 or 2607 of this title or an order under section 2605(b)(2) of this title, there is a reasonable basis to conclude that the issuance of such a rule or order is necessary to protect health or the environment against an unreasonable risk of injury to health or the environment".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

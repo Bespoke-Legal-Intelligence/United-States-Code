@@ -18,9 +18,13 @@ Historical and Revision Notes
 
 R.S. 1519; restored Oct. 22, 1921, ch. 113, §2, 42 Stat. 207.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6963 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

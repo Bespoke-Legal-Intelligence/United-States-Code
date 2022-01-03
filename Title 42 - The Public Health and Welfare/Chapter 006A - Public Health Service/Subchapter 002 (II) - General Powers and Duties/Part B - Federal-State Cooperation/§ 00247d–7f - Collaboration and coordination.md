@@ -42,7 +42,7 @@
 
 #### (2) Submission of written agreements
 
-&emsp;The Secretary shall submit each written agreement regarding covered activities that is made pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
+&emsp;The Secretary shall submit each written agreement regarding covered activities that ismade pursuant to meetings or consultations conducted under paragraph (1) to the Attorney General and the Chairman for consideration. In addition to the proposed agreement itself, any submission shall include—
 
 &emsp;&emsp;(A) an explanation of the intended purpose of the agreement;
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (B) Exception
 
-&emsp;&emsp;The term "covered activities" shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has beengranted under subsection (a)(4), the following activities involving 2 or more persons:
+&emsp;&emsp;The term "covered activities" shall not include, with respect to a meeting or consultation conducted under subsection (a)(1) or an agreement for which an exemption has been granted under subsection (a)(4), the following activities involving 2 or more persons:
 
 &emsp;&emsp;&emsp;(i) Exchanging information among competitors relating to costs, profitability, or distribution of any product, process, or service if such information is not reasonably necessary to carry out covered activities—
 
@@ -142,6 +142,8 @@ In this section:
 
 (July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
@@ -159,6 +161,8 @@ A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as adde
 #### Amendments
 
 <b>2019</b>—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2013 Amendment
 

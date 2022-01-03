@@ -18,7 +18,7 @@
 
 &emsp;(ii) if there are no corresponding rates of pay, by an amount or amounts equal or equivalent, insofar as practicable and with such exceptions and modifications as may be necessary to provide for appropriate pay relationships between positions, to the amount of the pay adjustment provided under section 5303; or
 
-&emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amount rounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
+&emsp;(iii) in the case of minimum or maximum rates of pay, or monetary limitations of allowances with respect to pay, by an amountrounded to the nearest $100 and computed on the basis of a percentage equal or equivalent, insofar as practicable and with such variations as may be appropriate, to the percentage of the pay adjustment provided under section 5303.
 
 (b) An adjustment under subsection (a) in rates of pay, minimum or maximum rates of pay, the monetary limitations or allowances with respect to pay, shall be made in such manner as the appropriate authority concerned considers appropriate.
 

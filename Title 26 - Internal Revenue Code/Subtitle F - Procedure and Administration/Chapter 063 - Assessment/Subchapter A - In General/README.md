@@ -12,6 +12,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–59, title XI, §11163(d)(4), Aug. 10, 2005, 119 Stat. 1975, substituted "certain sections" for "sections 6420, 6421, and 6427" in item 6206.

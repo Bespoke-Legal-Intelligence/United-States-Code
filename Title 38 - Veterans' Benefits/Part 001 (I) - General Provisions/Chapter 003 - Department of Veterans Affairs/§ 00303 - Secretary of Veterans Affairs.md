@@ -1,6 +1,6 @@
 ### §303. Secretary of Veterans Affairs
 
-There is a Secretary of Veterans Affairs, who is the head of the Department and is appointed by the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
+There is a Secretary of Veterans Affairs, who is the head of the Department and is appointedby the President, by and with the advice and consent of the Senate. The Secretary is responsible for the proper execution and administration of all laws administered by the Department and for the control, direction, and management of the Department.
 
 (Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 379.)
 
@@ -196,7 +196,7 @@ Recommendations and Report.—With respect to such a center, an agreement under 
 
 "(c)
 
-Report on Establishment of National Center.—Not later than 60 days after receiving the report under subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans' Affairs and Armed Services of the Senate and the Committees on Veterans' Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission."
+Report on Establishment of National Center.—Not later than 60 days after receiving the reportunder subsection (b), the Secretaries specified in subsection (b)(2) shall submit to the Committees on Veterans' Affairs and Armed Services of the Senate and the Committees on Veterans' Affairs and Natoinal \[sic\] Security of the House of Representatives a joint report on the findings and recommendations contained in that report. Such report may set forth an operational plan for carrying out any recommendation in that report to establish a national center or centers for the study of war-related illnesses. No action to carry out such plan may be taken after the submission of such report until the end of a 90-day period following the date of the submission."
 
 #### Specification in Budget Submissions of Funds for Certain Veterans Benefits
 

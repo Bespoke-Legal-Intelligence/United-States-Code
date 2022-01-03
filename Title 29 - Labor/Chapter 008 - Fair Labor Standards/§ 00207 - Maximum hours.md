@@ -44,7 +44,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 &emsp;(2) payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses, or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
 
-&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
+&emsp;(3) Sums <sup>1</sup> paid in recognition of services performed during a given period if either, (a) boththe fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Administrator set forth in appropriate regulations which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Administrator) paid to performers, including announcers, on radio and television programs;
 
 &emsp;(4) contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old-age, retirement, life, accident, or health insurance or similar benefits for employees;
 
@@ -70,7 +70,7 @@ As used in this section the "regular rate" at which an employee is employed shal
 
 #### (f) Employment necessitating irregular hours of work
 
-No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweekapplicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
+No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under subsection (a) if such employee is employed pursuant to a bona fide individual contract, or pursuant to an agreement made as a result of collective bargaining by representatives of employees, if the duties of such employee necessitate irregular hours of work, and the contract or agreement (1) specifies a regular rate of pay of not less than the minimum hourly rate provided in subsection (a) or (b) of section 206 of this title (whichever may be applicable) and compensation at not less than one and one-half times such rate for all hours worked in excess of such maximum workweek, and (2) provides a weekly guaranty of pay for not more than sixty hours based on the rates so specified.
 
 #### (g) Employment at piece rates
 
@@ -78,7 +78,7 @@ No employer shall be deemed to have violated subsection (a) by employing any emp
 
 &emsp;(1) in the case of an employee employed at piece rates, is computed at piece rates not less than one and one-half times the bona fide piece rates applicable to the same work when performed during nonovertime hours; or
 
-&emsp;(2) in the case of an employee performing two or more kinds of work for which different hourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
+&emsp;(2) in the case of an employee performing two or more kinds of work for which differenthourly or piece rates have been established, is computed at rates not less than one and one-half times such bona fide rates applicable to the same work when performed during nonovertime hours; or
 
 &emsp;(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: <i>Provided</i>, That the rate so established shall be authorized by regulation by the Administrator as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time;
 
@@ -186,7 +186,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 &emsp;(B) the hours spent performing such duties are outside of the hours such employee performs other work (including hours for which the agency requires the employee's attendance) pursuant to the employment relationship with such public agency.
 
-> For purposes of this section, the amount paid such employee in accordance with subparagraph (A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
+> For purposes of this section, the amount paid such employee in accordance with subparagraph\(A) for the performance of court reporting transcript preparation duties, shall not be considered in the calculation of the regular rate at which such employee is employed.
 
 (7) For purposes of this subsection—
 
@@ -226,7 +226,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 &emsp;(B) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
 
-(2) An employer shall not be required to compensate an employee receiving reasonable breaktime under paragraph (1) for any work time spent for such purpose.
+(2) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
 
 (3) An employer that employs less than 50 employees shall not be subject to the requirements of this subsection, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer's business.
 
@@ -240,7 +240,7 @@ Any employer may employ any employee for a period or periods of not more than 10
 
 The Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2), is Pub. L. 89–601, Sept. 23, 1966, 80 Stat. 830. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under section 201 of this title and Tables.
 
-The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A), means the effective date of Pub. L. 89–601, which is Feb. 1, 1967 except as otherwise provided, see section 602 of Pub. L. 89–601, set out as an Effective Date of 1966 Amendment note under section 203 of this title.
+The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A),means the effective date of Pub. L. 89–601, which is Feb. 1, 1967 except as otherwise provided, see section 602 of Pub. L. 89–601, set out as an Effective Date of 1966 Amendment note under section 203 of this title.
 
 Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is Pub. L. 93–259, §6(c)(3), Apr. 8, 1974, 88 Stat. 61, which is set out as a note under section 213 of this title.
 
@@ -284,7 +284,7 @@ Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
 Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
-Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, andgranting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
+Subsec. (c). Pub. L. 89–601, §204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
 Subsec. (d). Pub. L. 89–601, §204(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -384,7 +384,7 @@ Limitation on liability.—An employer shall not be liable for a violation of se
 
 &emsp;"(2)
 
-Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of thisAct \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
+Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of this Act \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
 
 "(c)
 

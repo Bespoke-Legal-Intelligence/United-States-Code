@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) the public interest is served by the Forest Service, Department of Agriculture, in cooperation with other agencies, assessing the Nation's renewable resources, and developing and preparing a national renewable resource program, which is periodically reviewed and updated;
 
-&emsp;(3) to serve the national interest, the renewable resource program must be based on acomprehensive assessment of present and anticipated uses, demand for, and supply of renewable resources from the Nation's public and private forests and rangelands, through analysis of environmental and economic impacts, coordination of multiple use and sustained yield opportunities as provided in the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531), and public participation in the development of the program;
+&emsp;(3) to serve the national interest, the renewable resource program must be based on a comprehensive assessment of present and anticipated uses, demand for, and supply of renewable resources from the Nation's public and private forests and rangelands, through analysis of environmental and economic impacts, coordination of multiple use and sustained yield opportunities as provided in the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531), and public participation in the development of the program;
 
 &emsp;(4) the new knowledge derived from coordinated public and private research programs will promote a sound technical and ecological base for effective management, use, and protection of the Nation's renewable resources;
 
@@ -18,9 +18,17 @@ The Congress finds that—
 
 (Pub. L. 93–378, §2, as added Pub. L. 94–588, §2, Oct. 22, 1976, 90 Stat. 2949.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 528 of this title and Tables.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Short Title of 2021 Amendment
+
+Pub. L. 117–58, div. G, title III, §70301, Nov. 15, 2021, 135 Stat. 1258, provided that: "This title \[amending sections 1601, 1606a, 1607, and 2105 of this title and enacting provisions set out as a note under section 1601 of this title\] may be cited as the 'Repairing Existing Public Land by Adding Necessary Trees Act' or the 'REPLANT Act'."
 
 #### Short Title of 1988 Amendments
 
@@ -36,7 +44,7 @@ Pub. L. 96–554, §1, Dec. 19, 1980, 94 Stat. 3257, provided: "That this Act \[
 
 Pub. L. 95–307, §1, June 30, 1978, 92 Stat. 353, provided: "That this Act \[enacting subchapter II of this chapter, repealing sections 581 to 581i of this title, and enacting provisions set out as a note under section 1641 of this title\] may be cited as the 'Forest and Rangeland Renewable Resources Research Act of 1978'."
 
-Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: "That this Act \[enacting subchapter III of this chapter and provision set out as a note under section 1671 of this title\] may be cited as the 'Renewable Resources Extension Act of 1978'."
+Pub. L. 95–306, §1, June 30, 1978, 92 Stat. 349, provided: "That this Act \[enacting subchapter III of this chapterand provision set out as a note under section 1671 of this title\] may be cited as the 'Renewable Resources Extension Act of 1978'."
 
 #### Short Title of 1976 Amendment
 

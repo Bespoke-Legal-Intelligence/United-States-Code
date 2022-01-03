@@ -78,9 +78,9 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (2) If written notice of intent to apply for such a property for use to assist the homeless is received by the Secretary of Health and Human Services within the 30-day period described under paragraph (1), such property may not be made available for any other purpose until the date the Secretary of Health and Human Services or other appropriate landholding agency has completed action on the application submitted under subsection (e) with respect to that written notice of intent.
 
-(3) Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness. If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretary subsequently determines the property is suitable.
+(3) Property that is reviewed by the Secretary under subsection (a) and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the United States Interagency Council on Homelessness. If no such review of the determination is requested within the 20-day period, such property will not be included in subsequent publications unless the landholding agency makes changes to the property (e.g. improvements) that may change the unsuitable determination and the Secretarysubsequently determines the property is suitable.
 
-(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposalopportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
+(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) may be filed at any time after the 30-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A).
 
 (B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f).
 
@@ -146,6 +146,8 @@ For purposes of this section—
 
 (Pub. L. 100–77, title V, §501, July 22, 1987, 101 Stat. 509; Pub. L. 100–628, title V, §501, Nov. 7, 1988, 102 Stat. 3240; Pub. L. 101–645, title IV, §401(a), Nov. 29, 1990, 104 Stat. 4719; Pub. L. 102–484, div. B, title XXVIII, §2824, Oct. 23, 1992, 106 Stat. 2608; Pub. L. 103–421, §2(d), Oct. 25, 1994, 108 Stat. 4352; Pub. L. 108–199, div. G, title II, §216(4), Jan. 23, 2004, 118 Stat. 394; Pub. L. 114–287, §22, Dec. 16, 2016, 130 Stat. 1478.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (h), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Tables.
@@ -206,7 +208,9 @@ Subsec. (d). Pub. L. 100–628, §501(4)(A), struck out "by lease" after "proper
 
 Subsec. (d)(1). Pub. L. 100–628, §501(4)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Federal buildings or property may be made available under this section only through the use of leases for at least 1 year. Ownership of the buildings and property shall not be transferred from the Federal Government."
 
-Subsec. (d)(2). Pub. L. 100–628, §501(4)(C), substituted "With respect to property identified under subsection (a) which has been designated as surplus property," for "To permit leases of surplus Federal buildings and other real property under this section,".
+Subsec. (d)(2). Pub. L. 100–628, §501(4)(C), substituted "With respect to property identified under subsection\(a) which has been designated as surplus property," for "To permit leases of surplus Federal buildings and other real property under this section,".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 
@@ -214,7 +218,7 @@ Pub. L. 101–645, title IV, §401(b), Nov. 29, 1990, 104 Stat. 4723, provided t
 
 #### Regulations
 
-Pub. L. 101–645, title IV, §401(d), Nov. 29, 1990, 104 Stat. 4723, provided that: "No later than 90 days afterthe date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\]."
+Pub. L. 101–645, title IV, §401(d), Nov. 29, 1990, 104 Stat. 4723, provided that: "No later than 90 days after the date of the enactment of this Act \[Nov. 29, 1990\], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section \[amending this section and enacting provisions set out as notes under this section\]."
 
 #### Exemption of Department of Defense Off-Site Use and Off-Site Removal Only Non-Mobile Properties From Certain Excess Property Disposal Requirements
 

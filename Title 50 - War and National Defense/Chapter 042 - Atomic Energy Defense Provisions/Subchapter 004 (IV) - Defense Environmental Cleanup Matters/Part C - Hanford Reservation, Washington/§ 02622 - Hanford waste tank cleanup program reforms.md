@@ -12,7 +12,7 @@ The Secretary of Energy shall establish an office at the Hanford Reservation, Ri
 
 (3)(A) The Assistant Secretary of Energy for Environmental Management shall delegate in writing responsibility for the management of the River Protection Project, Richland, Washington, to the head of the Office.
 
-(B) Such delegation shall include, at a minimum, authorities for contracting, financial management, safety, and general program management that are equivalent to the authorities of managers of other operations offices of the Department of Energy.
+(B) Such delegation shall include, at a minimum, authorities for contracting, financialmanagement, safety, and general program management that are equivalent to the authorities of managers of other operations offices of the Department of Energy.
 
 (C) The head of the Office shall, to the maximum extent possible, coordinate all activities of the Office with the manager of the Richland Operations Office of the Department of Energy.
 
@@ -29,6 +29,8 @@ The Assistant Secretary of Energy for Environmental Management shall submit to t
 The Office shall terminate on September 30, 2024. The Office may be extended beyond that date if the Assistant Secretary of Energy for Environmental Management determines in writing that termination would disrupt effective management of the Hanford Tank Farm operations.
 
 (Pub. L. 107–314, div. D, title XLIV, §4442, formerly Pub. L. 105–261, div. C, title XXXI, §3139, Oct. 17, 1998, 112 Stat. 2250; Pub. L. 106–398, §1 \[div. C, title XXXI, §3141(b)–(d)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–463; Pub. L. 107–107, div. C, title XXXI, §3135, Dec. 28, 2001, 115 Stat. 1368; renumbered Pub. L. 107–314, div. D, title XLIV, §4442, and amended Pub. L. 108–136, div. C, title XXXI, §3141(g)(17), Nov. 24, 2003, 117 Stat. 1767; Pub. L. 112–81, div. C, title XXXI, §3113, Dec. 31, 2011, 125 Stat. 1709; Pub. L. 113–66, div. C, title XXXI, §3146(e)(13), Dec. 26, 2013, 127 Stat. 1078; Pub. L. 115–232, div. C, title XXXI, §3118, Aug. 13, 2018, 132 Stat. 2292.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
 

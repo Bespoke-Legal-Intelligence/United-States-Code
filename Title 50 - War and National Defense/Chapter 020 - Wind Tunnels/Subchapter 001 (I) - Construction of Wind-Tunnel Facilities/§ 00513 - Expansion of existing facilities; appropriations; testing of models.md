@@ -8,6 +8,8 @@
 
 (Oct. 27, 1949, ch. 766, title I, §103, 63 Stat. 937; Pub. L. 85–568, title III, §301(d)(2), (3), July 29, 1958, 72 Stat. 433; Pub. L. 106–391, title III, §312(2), Oct. 30, 2000, 114 Stat. 1594.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2000</b>—Subsec. (a). Pub. L. 106–391, §312(2)(A), (B), substituted "laboratories and centers" for "laboratories" and "transsonic, supersonic, and hypersonic" for "supersonic".
@@ -16,11 +18,13 @@ Subsec. (c). Pub. L. 106–391, §312(2)(C), substituted "facility" for "laborat
 
 <b>1958</b>—Subsecs. (a), (c). Pub. L. 85–568 substituted "Administrator" for "Committee" in subsecs. (a) and (c), and "his" for "its" in subsec. (a).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under section 2302 of Title 10, Armed Forces.
+Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under section 511 of this title.
 
 #### Additional Appropriations
 
-Act June 29, 1950, ch. 405, §801, 64 Stat. 286, provided in part for an additional appropriation of $75,000,000, to remain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
+Act June 29, 1950, ch. 405, §801, 64 Stat. 286, provided in part for an additional appropriation of $75,000,000, toremain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
 

@@ -10,9 +10,13 @@ The income of any REMIC shall be taxable to the holders of interests in such REM
 
 (Added Pub. L. 99–514, title VI, §671(a), Oct. 22, 1986, 100 Stat. 2309; amended Pub. L. 100–647, title I, §1006(t)(20), Nov. 10, 1988, 102 Stat. 3426.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "this subtitle" for "this chapter" in two places.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1988 Amendment
 
@@ -44,7 +48,7 @@ Treatment of existing entities.—The amendment made by section 673 shall not ap
 
 &emsp;"(3)
 
-Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs (1) and (2), for purposes of applying section 860F(d) of the Internal Revenue Code of 1986 (as added by this part \[thissubtitle\]), the amendment made by section 673 shall apply to taxable years beginning after December 31, 1986."
+Special rule for coordination with wash-sale rules.—Notwithstanding paragraphs (1) and (2), for purposes of applying section 860F(d) of the Internal Revenue Code of 1986 (as added by this part \[this subtitle\]), the amendment made by section 673 shall apply to taxable years beginning after December 31, 1986."
 
 #### Study of Amendments by Pub. L. 99–514
 

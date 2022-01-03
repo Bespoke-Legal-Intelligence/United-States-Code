@@ -18,7 +18,7 @@ No dependency and indemnity compensation shall be paid to the surviving spouse o
 
 <b>1976</b>—Pub. L. 94–433, §405(4), (5), substituted "surviving spouse", "such surviving spouse", and "such veteran" for "widow", "she", and "him", respectively, in introductory clause and "surviving spouses" for "widows" in section catchline.
 
-<b>1967</b>—Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year andby making her eligible for benefits in par. (3) in event of antenuptial birth.
+<b>1967</b>—Pub. L. 90–77 qualified widow of a veteran for receipt of compensation by reducing in par. (2) the requisite marriage period from five years to one year and by making her eligible for benefits in par. (3) in event of antenuptial birth.
 
 #### <b>Statutory Notes and Related Subsidiaries</b>
 

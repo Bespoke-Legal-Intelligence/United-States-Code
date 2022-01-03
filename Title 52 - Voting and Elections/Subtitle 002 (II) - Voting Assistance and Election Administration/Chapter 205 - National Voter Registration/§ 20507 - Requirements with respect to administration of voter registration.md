@@ -96,7 +96,7 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(i) shall be permitted to correct the voting records and vote at the registrant's former polling place, upon oral or written affirmation by the registrant of the new address before an election official at that polling place; or
 
-&emsp;(ii)(I) shall be permitted to correct the voting records and vote at a central location within the same registrar's jurisdiction designated by the registrar where a list of eligible voters is maintained, upon written affirmation by the registrant of the new address on a standard form provided by the registrar at the central location; or
+&emsp;(ii)(I) shall be permitted to correct the voting records and vote at a central location within the same registrar's jurisdiction designated by the registrar where a list of eligiblevoters is maintained, upon written affirmation by the registrant of the new address on a standard form provided by the registrar at the central location; or
 
 &emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant of the new address by such means as are required by law.
 

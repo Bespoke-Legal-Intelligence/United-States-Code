@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(ii) the export of clean and efficient energy technologies; and
 
-&emsp;&emsp;(D) develop financial mechanisms and instruments, including securities that mitigate the political and foreign exchange risksof uses that are consistent with the foreign policy objectives of the United States by combining the private sector market and government enhancements, that—
+&emsp;&emsp;(D) develop financial mechanisms and instruments, including securities that mitigate the political and foreign exchange risks of uses that are consistent with the foreign policy objectives of the United States by combining the private sector market and government enhancements, that—
 
 &emsp;&emsp;&emsp;(i) are cost-effective; and
 
@@ -142,9 +142,13 @@ There are authorized to be appropriated to carry out this section $5,000,000 for
 
 (Pub. L. 110–140, title IX, §916, Dec. 19, 2007, 121 Stat. 1728; Pub. L. 115–254, div. F, title VI, §1470(v)(2), Oct. 5, 2018, 132 Stat. 3519.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(2)(I). Pub. L. 115–254 substituted "United States International Development Finance Corporation;" for "Overseas Private Investment Corporation:".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

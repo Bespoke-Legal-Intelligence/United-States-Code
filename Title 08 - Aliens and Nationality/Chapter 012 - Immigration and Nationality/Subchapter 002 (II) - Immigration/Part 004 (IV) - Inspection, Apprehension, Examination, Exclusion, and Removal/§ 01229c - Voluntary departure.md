@@ -16,11 +16,11 @@
 
 &emsp;&emsp;During the period October 1, 2000, through September 30, 2003, and subject to subparagraphs (C) and (D)(ii), the Attorney General may, in the discretion of the Attorney General for humanitarian purposes, waive application of subparagraph (A) in the case of an alien—
 
-&emsp;&emsp;&emsp;(i) who was admitted to the United States as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) under the provisions of the visa waiver pilot program established pursuant to section 1187 of this title, seeks the waiver for the purpose of continuing to receivemedical treatment in the United States from a physician associated with a health care facility, and submits to the Attorney General—
+&emsp;&emsp;&emsp;(i) who was admitted to the United States as a nonimmigrant visitor (described in section 1101(a)(15)(B) of this title) under the provisions of the visa waiver pilot program established pursuant to section 1187 of this title, seeks the waiver for the purpose of continuing to receive medical treatment in the United States from a physician associated with a health care facility, and submits to the Attorney General—
 
 &emsp;&emsp;&emsp;&emsp;(I) a detailed diagnosis statement from the physician, which includes the treatment being sought and the expected time period the alien will be required to remain in the United States;
 
-&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that the alien's treatment is not being paid through any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
+&emsp;&emsp;&emsp;&emsp;(II) a statement from the health care facility containing an assurance that the alien's treatment is not being paidthrough any Federal or State public health assistance, that the alien's account has no outstanding balance, and that such facility will notify the Service when the alien is released or treatment is terminated; and
 
 &emsp;&emsp;&emsp;&emsp;(III) evidence of financial ability to support the alien's day-to-day expenses while in the United States (including the expenses of any family member described in clause (ii)) and evidence that any such alien or family member is not receiving any form of public assistance; or
 
@@ -96,7 +96,7 @@ The Attorney General shall not permit an alien to depart voluntarily under this 
 
 #### (2) Application of VAWA protections
 
-&emsp;The restrictions on relief under paragraph (1) shall not apply to relief under section 1229b or 1255 of this title on the basis of a petition filed by a VAWA self-petitioner, or a petition filed under section 1229b(b)(2) of this title, or under section 1254(a)(3) of this title (as in effect prior to March 31, 1997), if the extreme cruelty or battery was at least one central reason for the alien's overstaying the grant of voluntary departure.
+&emsp;The restrictions on relief under paragraph (1) shall not apply to relief under section 1229b or 1255 of this title on the basis of a petitionfiled by a VAWA self-petitioner, or a petition filed under section 1229b(b)(2) of this title, or under section 1254(a)(3) of this title (as in effect prior to March 31, 1997), if the extreme cruelty or battery was at least one central reason for the alien's overstaying the grant of voluntary departure.
 
 #### (3) Notice of penalties
 

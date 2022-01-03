@@ -90,7 +90,7 @@ Definitions.—In this section—
 
 &emsp;(1) the term "agency" has the meaning given that term in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341);
 
-&emsp;(2) the term "consumer reporting agency" has the meaning given that term in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a);
+&emsp;(2) the term "consumer reporting agency" has the meaning given that term in section 603of the Fair Credit Reporting Act (15 U.S.C. 1681a);
 
 &emsp;(3) the term "covered individual" means an individual employed by an agency or a contractor of an agency who has been determined eligible for access to classified information or eligible to hold a sensitive position; <sup>1</sup>
 

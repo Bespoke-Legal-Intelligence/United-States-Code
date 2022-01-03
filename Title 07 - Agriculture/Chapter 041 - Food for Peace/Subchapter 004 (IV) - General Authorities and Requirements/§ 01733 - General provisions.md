@@ -4,7 +4,7 @@
 
 No agricultural commodity, food procured outside of the United States, food voucher, or cash transfer for food shall be made available under this chapter unless it is determined that—
 
-&emsp;(1) in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country atthe time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
+&emsp;(1) in the case of the provision of an agricultural commodity, adequate storage facilities will be available in the recipient country at the time of the arrival of the commodity to prevent the spoilage or waste of the commodity; and
 
 &emsp;(2) the distribution of the agricultural commodity or use of the food procured outside of the United States, food voucher, or cash transfer for food in the recipient country will not result in a substantial disincentive to or interference with domestic production or marketing in that country.
 
@@ -116,6 +116,8 @@ Local currencies that are made available for use under this chapter may not be u
 
 (July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283; Pub. L. 113–79, title III, §3008, Feb. 7, 2014, 128 Stat. 775; Pub. L. 115–334, title III, §§3109, 3112(b), Dec. 20, 2018, 132 Stat. 4604, 4606.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736o of this title.
@@ -163,6 +165,8 @@ Subsec. (i)(2)(C). Pub. L. 104–127, §213(4), struck out heading and text of s
 <b>1964</b>—Pub. L. 88–638 substituted "less than the minimum rate required by section 2161 of Title 22 for loans made under that section" for "more than the cost of the funds to the United States Treasury as determined by the Secretary of the Treasury, taking into consideration the current average market yields on outstanding marketable obligations of the United States having maturity comparable to the maturities of loans made by the President under this section".
 
 <b>1962</b>—Pub. L. 87–703 substituted "reasonable" for "approximately equal" annual amounts and provided for deferral of date for beginning annual payment.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1990 Amendment
 

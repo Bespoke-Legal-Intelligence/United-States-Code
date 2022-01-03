@@ -20,6 +20,8 @@ R.S. 1145; June 28, 1950, ch. 383, §402(a), 64 Stat. 272.
 
 The words "at cost prices" are omitted to reflect Title IV of the National Security Act of 1947, as amended (63 Stat. 585), which authorized the Secretary of Defense to prescribe regulations governing the use and sale of certain inventories at cost, including applicable administrative expenses. (See opinion of the Assistant General Counsel (Fiscal Matters) of the Office of the Secretary of Defense, January 4, 1955.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 Prior sections 7622 and 7623 were renumbered sections 8822 and 8823 of this title, respectively.
@@ -27,6 +29,8 @@ Prior sections 7622 and 7623 were renumbered sections 8822 and 8823 of this titl
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4622 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

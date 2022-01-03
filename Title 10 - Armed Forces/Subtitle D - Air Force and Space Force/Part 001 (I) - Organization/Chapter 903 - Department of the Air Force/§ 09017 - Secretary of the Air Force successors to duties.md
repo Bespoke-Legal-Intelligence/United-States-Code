@@ -36,6 +36,8 @@ In subsection (a), the word "person" is substituted for the words "officer of th
 
 Subsection (b) is substituted for 5:626–1(c) and states the effect of section 8544(b) of this title.
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 Section 3347 of title 5, referred to in text, was repealed and a new section 3347 was enacted by Pub. L. 105–277, div. C, title I, §151(b), Oct. 21, 1998, 112 Stat. 2681–611, and, as so enacted, no longer contains provisions authorizing the President to direct temporary successors to duties. See section 3345 of Title 5, Government Organization and Employees.
@@ -48,15 +50,19 @@ Section 3347 of title 5, referred to in text, was repealed and a new section 334
 
 <b>1994</b>—Pars. (3), (4). Pub. L. 103–337 added par. (3) and redesignated former par. (3) as (4).
 
-<b>1986</b>—Pub. L. 99–433 struck out subsec. (a) designation, substituted in par. (2) ", in the order prescribed by the Secretary of the Air Force and approved by the Secretary of Defense" for "in order of their length of service as such", and struck out subsec. (b) which read as follows: "Performance of the duties of the Secretary by the Chief of Staff or any officer of the Air Force designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title."
+<b>1986</b>—Pub. L. 99–433 struck out subsec. (a) designation, substituted in par. (2) ", in the order prescribedby the Secretary of the Air Force and approved by the Secretary of Defense" for "in order of their length of service as such", and struck out subsec. (b) which read as follows: "Performance of the duties of the Secretary by the Chief of Staff or any officer of the Air Force designated under section 3347 of title 5 shall not be considered as the holding of a civil office within the meaning of section 973(b) of this title."
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–235 substituted "section 973(b) of this title" for "section 8544(b) of this title".
 
 <b>1966</b>—Pub. L. 89–718 substituted "section 3347 of title 5" for "section 6 of title 5" wherever appearing.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 2018 Amendment
 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding section 3001 of this title.
+
+#### <b>Executive Documents</b>
 
 #### Order of Succession
 

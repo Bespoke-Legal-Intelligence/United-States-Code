@@ -8,7 +8,7 @@ General Authority.—The Secretary may make grants under this section to an elig
 
 Eligible Recipients.—The following entities are eligible to receive a grant under this section:
 
-&emsp;(1) A State.
+&emsp;(1) A State (including the District of Columbia).
 
 &emsp;(2) A group of States.
 
@@ -18,17 +18,21 @@ Eligible Recipients.—The following entities are eligible to receive a grant un
 
 &emsp;(5) A political subdivision of a State.
 
-&emsp;(6) Amtrak or another rail carrier that provides intercity rail passenger transportation (as defined in section 24102).
+&emsp;(6) Amtrak or another rail carrier that provides intercity rail passenger transportation (as rail carrier and intercity rail passenger transportation are defined in section 24102).
 
 &emsp;(7) A Class II railroad or Class III railroad (as those terms are defined in section 20102).
 
-&emsp;(8) Any rail carrier or rail equipment manufacturer in partnership with at least 1 of the entities described in paragraphs (1) through (5).
+&emsp;(8) An association representing 1 or more railroads described in paragraph (7).
 
-&emsp;(9) The Transportation Research Board and any entity with which it contracts in the development of rail-related research, including cooperative research programs.
+&emsp;(9) A federally recognized Indian Tribe.
 
-&emsp;(10) A University transportation center engaged in rail-related research.
+&emsp;(10) Any rail carrier or rail equipment manufacturer in partnership with at least 1 of the entities described in paragraphs (1) through (5).
 
-&emsp;(11) A non-profit labor organization representing a class or craft of employees of rail carriers or rail carrier contractors.
+&emsp;(11) The Transportation Research Board and any entity with which it contracts in the development of rail-related research, including cooperative research programs.
+
+&emsp;(12) A University transportation center engaged in rail-related research.
+
+&emsp;(13) A non-profit labor organization representing a class or craft of employees of rail carriers or rail carrier contractors.
 
 (c)
 
@@ -38,25 +42,33 @@ Eligible Projects.—The following projects are eligible to receive grants under
 
 &emsp;(2) A capital project as defined in section 22901(2), except that a project shall not be required to be in a State rail plan developed under chapter 227.
 
-&emsp;(3) A capital project identified by the Secretary as being necessary to address congestion challenges affecting rail service.
+&emsp;(3) A capital project identified by the Secretary as being necessary to address congestion or safety challenges affecting rail service.
 
 &emsp;(4) A capital project identified by the Secretary as being necessary to reduce congestion and facilitate ridership growth in intercity passenger rail transportation along heavily traveled rail corridors.
 
 &emsp;(5) A highway-rail grade crossing improvement project, including installation, repair, or improvement of grade separations, railroad crossing signals, gates, and related technologies, highway traffic signalization, highway lighting and crossing approach signage, roadway improvements such as medians or other barriers, railroad crossing panels and surfaces, and safety engineering improvements to reduce risk in quiet zones or potential quiet zones.
 
-&emsp;(6) A rail line relocation and improvement project.
+&emsp;(6) A rail line relocation or improvement project.
 
 &emsp;(7) A capital project to improve short-line or regional railroad infrastructure.
 
 &emsp;(8) The preparation of regional rail and corridor service development plans and corresponding environmental analyses.
 
-&emsp;(9) Any project that the Secretary considers necessary to enhance multimodal connections or facilitate service integration between rail service and other modes, including betweenintercity rail passenger transportation and intercity bus service or commercial air service.
+&emsp;(9) Any project that the Secretary considers necessary to enhance multimodal connections or facilitate service integration between rail service and other modes, including between intercity rail passenger transportation and intercity bus service or commercial air service.
 
 &emsp;(10) The development and implementation of a safety program or institute designed to improve rail safety.
 
-&emsp;(11) Any research that the Secretary considers necessary to advance any particular aspect of rail-related capital, operations, or safety improvements.
+&emsp;(11) The development and implementation of measures to prevent trespassing and reduce associated injuries and fatalities.
 
-&emsp;(12) Workforce development and training activities, coordinated to the extent practicable with the existing local training programs supported by the Department of Transportation, the Department of Labor, and the Department of Education.
+&emsp;(12) Any research that the Secretary considers necessary to advance any particular aspect of rail-related capital, operations, or safety improvements.
+
+&emsp;(13) Workforce development and training activities, coordinated to the extent practicable with the existing local training programs supported by the Department of Transportation, the Department of Labor, and the Department of Education.
+
+&emsp;(14) Research, development, and testing to advance and facilitate innovative rail projects, including projects using electromagnetic guideways in an enclosure in a very low-pressure environment.
+
+&emsp;(15) The preparation of emergency plans for communities through which hazardous materials are transported by rail.
+
+&emsp;(16) Rehabilitating, remanufacturing, procuring, or overhauling locomotives, provided that such activities result in a significant reduction of emissions.
 
 (d)
 
@@ -126,6 +138,10 @@ Federal share.—The Federal share of total project costs under this section sha
 
 Treatment of passenger rail revenue.—If Amtrak or another rail carrier is an applicant under this section, Amtrak or the other rail carrier, as applicable, may use ticket and other revenues generated from its operations and other sources to satisfy the non-Federal share requirements.
 
+&emsp;(4)
+
+Grade crossing and trespassing projects.—Applicants may use costs incurred previously for preliminary engineering associated with highway-rail grade crossing improvement projects under subsection (c)(5) and trespassing prevention projects under subsection (c)(11) to satisfy the non-Federal share requirements.
+
 (i)
 
 Applicability.—Except as specifically provided in this section, the use of any amounts appropriated for grants under this section shall be subject to the requirements of this chapter.
@@ -136,7 +152,7 @@ Availability.—Amounts appropriated for carrying out this section shall remain 
 
 (k)
 
-Limitation.—The requirements under sections 22902, 22903, and 22904, and the definition contained in section 22901(1) shall not apply to this section.
+Limitation.—The requirements under sections 22902, 22903, and 22904, and the definitioncontained in section 22901(1) shall not apply to this section.
 
 (l)
 
@@ -146,17 +162,37 @@ Special Transportation Circumstances.—
 
 In general.—In carrying out this chapter, the Secretary shall allocate an appropriate portion of the amounts available to programs in this chapter to provide grants to States—
 
-&emsp;&emsp;(A) in which there is no intercity passenger rail service, for the purpose of funding freight rail capital projects that are on a State rail plan developed under chapter 227 that provide public benefits (as defined in chapter 227), as determined by the Secretary; or
+&emsp;&emsp;(A) in which there is no intercity passenger rail service, for the purpose of funding freight rail capital projects that are on a State rail plan developed under chapter 227, including highway construction over rail facilities as an alternative to construction or improvement of a highway-rail grade crossing, that provide public benefits (as defined in chapter 227), as determined by the Secretary; or
 
-&emsp;&emsp;(B) in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant underthis section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
+&emsp;&emsp;(B) in which the rail transportation system is not physically connected to rail systems in the continental United States or may not otherwise qualify for a grant under this section due to the unique characteristics of the geography of that State or other relevant considerations, for the purpose of funding transportation-related capital projects.
 
 &emsp;(2)
 
 Definition.—For the purposes of this subsection, the term "appropriate portion" means a share, for each State subject to paragraph (1), not less than the share of the total railroad route miles in such State of the total railroad route miles in the United States, excluding from all totals the route miles exclusively used for tourist, scenic, and excursion railroad operations.
 
-(Added Pub. L. 114–94, div. A, title XI, §11301(a), Dec. 4, 2015, 129 Stat. 1644, §24407; renumbered §22907 and amended Pub. L. 115–420, §7(a)(1), (b)(2)(D), Jan. 3, 2019, 132 Stat. 5445, 5446.)
+(Added Pub. L. 114–94, div. A, title XI, §11301(a), Dec. 4, 2015, 129 Stat. 1644, §24407; renumbered §22907 and amended Pub. L. 115–420, §7(a)(1), (b)(2)(D), Jan. 3, 2019, 132 Stat. 5445, 5446; Pub. L. 117–58, div. B, title II, §22303(a), (c)(1), Nov. 15, 2021, 135 Stat. 718.)
+
+#### <b>Editorial Notes</b>
 
 #### Amendments
+
+<b>2021</b>—Subsec. (b)(1). Pub. L. 117–58, §22303(a)(1)(A), inserted "(including the District of Columbia)" after "State".
+
+Subsec. (b)(6). Pub. L. 117–58, §22303(a)(1)(B), inserted "rail carrier and intercity rail passenger transportation are" before "defined".
+
+Subsec. (b)(8) to (13). Pub. L. 117–58, §22303(a)(1)(C), (D), added pars. (8) and (9) and redesignated formers pars. (8) to (11) as (10) to (13), respectively.
+
+Subsec. (c)(3). Pub. L. 117–58, §22303(a)(2)(A), inserted "or safety" after "congestion".
+
+Subsec. (c)(6). Pub. L. 117–58, §22303(a)(2)(B), substituted "or" for "and".
+
+Subsec. (c)(11) to (13). Pub. L. 117–58, §22303(a)(2)(C), (D), added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
+
+Subsec. (c)(14) to (16). Pub. L. 117–58, §22303(a)(2)(E), added pars. (14) to (16).
+
+Subsec. (h)(4). Pub. L. 117–58, §22303(a)(3), added par. (4).
+
+Subsec. (l)(1)(A). Pub. L. 117–58, §22303(c)(1), inserted ", including highway construction over rail facilities as an alternative to construction or improvement of a highway-rail grade crossing," after "under chapter 227".
 
 <b>2019</b>—Pub. L. 115–420, §7(a)(1), renumbered section 24407 of this title as this section.
 
@@ -164,9 +200,121 @@ Subsec. (c)(2). Pub. L. 115–420, §7(b)(2)(D)(i), substituted "section 22901(2
 
 Subsec. (k). Pub. L. 115–420, §7(b)(2)(D)(ii), substituted "under sections 22902, 22903, and 22904, and the definition contained in section 22901(1)" for "of sections 24402, 24403, and 24404 and the definition contained in 24401(1)".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
+#### Effective Date of 2021 Amendment
+
+Pub. L. 117–58, div. B, title II, §22303(c)(2), Nov. 15, 2021, 135 Stat. 718, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to amounts remaining under section 22907(l) of title 49, United States Code, from appropriations for prior fiscal years."
+
 #### Effective Date
 
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under section 5313 of Title 5, Government Organization and Employees.
+
+#### Rule of Construction
+
+Pub. L. 117–58, div. B, title II, §22303(b), Nov. 15, 2021, 135 Stat. 718, provided that: "The amendments made by subsection (a) \[amending this section\] may not be construed to affect any grant, including any application for a grant, made under section 22907 of title 49, United States Code, before the date of enactment of this Act \[Nov. 15, 2021\]."
+
+#### Grade Crossing Accident Prediction Model
+
+Pub. L. 117–58, div. B, title II, §22402, Nov. 15, 2021, 135 Stat. 734, provided that: "Not later than 2 years after the date of enactment of this Act \[Nov. 15, 2021\], the Administrator of the Federal Railroad Administration shall—
+
+&emsp;"(1) update the grade crossing accident prediction and severity model used by the Federal Railroad Administration to analyze accident risk at highway-rail grade crossings; and
+
+&emsp;"(2) provide training on the use of the updated grade crossing accident prediction and severity model."
+
+#### Blocked Crossing Portal
+
+Pub. L. 117–58, div. B, title II, §22404, Nov. 15, 2021, 135 Stat. 736, provided that:
+
+"(a)
+
+In General.—The Administrator of the Federal Railroad Administration shall establish a 3-year blocked crossing portal, which shall include the maintenance of the portal and corresponding database to receive, store, and retrieve information regarding blocked highway-rail grade crossings.
+
+"(b)
+
+Blocked Crossing Portal.—The Administrator of the Federal Railroad Administration shall establish a blocked crossing portal that—
+
+&emsp;"(1) collects information from the public, including first responders, regarding blocked highway-rail grade crossing events;
+
+&emsp;"(2) solicits the apparent cause of the blocked crossing and provides examples of common causes of blocked crossings, such as idling trains or instances when lights or gates are activated when no train is present;
+
+&emsp;"(3) provides each complainant with the contact information for reporting a blocked crossing to the relevant railroad; and
+
+&emsp;"(4) encourages each complainant to report the blocked crossing to the relevant railroad.
+
+"(c)
+
+Complaints.—The blocked crossing portal shall be programmed to receive complaints from the general public about blocked highway-rail grade crossings. Any complaint reported through the portal shall indicate whether the complainant also reported the blocked crossing to the relevant railroad.
+
+"(d)
+
+Information Received.—In reviewing complaints received pursuant to subsection (c), the Federal Railroad Administration shall review, to the extent practicable, the information received from the complainant to account for duplicative or erroneous reporting.
+
+"(e)
+
+Use of Information.—The information received and maintained in the blocked crossing portal database shall be used by the Federal Railroad Administration—
+
+&emsp;"(1) to identify frequent and long-duration blocked highway-rail grade crossings;
+
+&emsp;"(2) as a basis for conducting outreach to communities, emergency responders, and railroads;
+
+&emsp;"(3) to support collaboration in the prevention of incidents at highway-rail grade crossings; and
+
+&emsp;"(4) to assess the impacts of blocked crossings.
+
+"(f)
+
+Sharing Information Received.—
+
+&emsp;"(1)
+
+In general.—The Administrator of the Federal Railroad Administration shall implement and make publicly available procedures for sharing any nonaggregated information received through the blocked crossing portal with the public.
+
+&emsp;"(2)
+
+Rule of construction.—Nothing in this section may be construed to authorize the Federal Railroad Administration to make publically available sensitive security information.
+
+"(g)
+
+Additional Information.—If the information submitted to the blocked crossing portal is insufficient to determine the locations and potential impacts of blocked highway-rail grade crossings, the Federal Railroad Administration may collect, from the general public, State and local law enforcement personnel, and others as appropriate, and on a voluntary basis, such additional information as may be necessary to make such determinations.
+
+"(h)
+
+Limitations.—Complaints, data, and other information received through the blocked crossing portal may not be used—
+
+&emsp;"(1) to infer or extrapolate the rate or instances of crossings beyond the data received through the portal; or
+
+&emsp;"(2) for any regulatory or enforcement purposes except those specifically described in this section.
+
+"(i)
+
+Reports.—
+
+&emsp;"(1)
+
+Annual public report.—The Administrator of the Federal Railroad Administration shall publish an annual report on a public website regarding the blocked crossing program, including the underlying causes of blocked crossings, program challenges, and other findings.
+
+&emsp;"(2)
+
+Report to congress.—Not later than 1 year after the date of enactment of this Act \[Nov. 15, 2021\], the Administrator of the Federal Railroad Administration shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes—
+
+&emsp;&emsp;"(A) based on the information received through the blocked crossing portal, frequent and long-duration blocked highway-rail grade crossings, including the locations, dates, durations, and impacts resulting from such occurrences;
+
+&emsp;&emsp;"(B) the Federal Railroad Administration's process for verifying the accuracy of the complaints submitted to the blocked crossing portal, including whether the portal continues to be effective in collecting such information and identifying blocked crossings;
+
+&emsp;&emsp;"(C) the Federal Railroad Administration's use of the data compiled by the blocked crossing portal to assess the underlying cause and overall impacts of blocked crossings;
+
+&emsp;&emsp;"(D) the engagement of the Federal Railroad Administration with affected parties to identify and facilitate solutions to frequent and long-duration blocked highway-rail grade crossings identified by the blocked crossing portal; and
+
+&emsp;&emsp;"(E) whether the blocked crossing portal continues to be an effective method to collect blocked crossing information and what changes could improve its effectiveness.
+
+"(j)
+
+Sunset.—This section (other than subsection (k)) shall have no force or effect beginning on the date that is 3 years after the date of enactment of this Act.
+
+"(k)
+
+Rule of Construction.—Nothing in this section may be construed to invalidate any authority of the Secretary \[of Transportation\] with respect to blocked highway-rail grade crossings. The Secretary may continue to use any such authority after the sunset date set forth in subsection (j)."
 
 #### Data and Analysis
 
@@ -214,7 +362,7 @@ Confidential Data.—The Secretary shall protect all sensitive and confidential 
 
 #### Highway-Rail Grade Crossing Safety
 
-Pub. L. 114–94, div. A, title XI, §11401, Dec. 4, 2015, 129 Stat. 1679, as amended by Pub. L. 115–420, §7(b)(3)(C)(iv), Jan. 3, 2019, 132 Stat. 5448, provided that:
+Pub. L. 114–94, div. A, title XI, §11401, Dec. 4, 2015, 129 Stat. 1679, as amended by Pub. L. 115–420, §7(b)(3)(C)(iv), Jan. 3, 2019, 132 Stat. 5448; Pub. L. 117–58, div. B, title II, §22403(a), Nov. 15, 2021, 135 Stat. 734, provided that:
 
 "(a)
 
@@ -302,17 +450,9 @@ Failure to complete or correct plan.—If a State fails to meet the deadline und
 
 "(c)
 
-Report.—Not later than the date that is 3 years after the Administrator publishes the final rule under subsection (b)(1), the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
-
-&emsp;"(1) the specific strategies identified by States to improve safety at highway-rail grade crossings, including crossings with multiple accidents or incidents; and
-
-&emsp;"(2) the progress each State described under subsection (b)(1)(B) has made in implementing its action plan.
-
-"(d)
-
 Railway-Highway Crossings Funds.—The Secretary may use funds made available to carry out section 130 of title 23, United States Code, to provide States with funds to develop a State highway-rail grade crossing action plan under subsection (b)(1)(A) or to update a State action plan under subsection (b)(1)(B).
 
-"(e)
+"(d)
 
 Definitions.—In this section:
 
@@ -338,7 +478,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[Oc
 
 "(b)
 
-Review and Approval.—Not later than 60 days after the Secretary receives a plan under subsection (a), the Secretary shall review and approve or disapprove it. If the proposed plan is disapproved, the Secretary shall notify the affected State as to the specific areas in which the proposed plan is deficient, and the State shall correct all deficiencies within 30 days following receipt of written notice from the Secretary."
+Review and Approval.—Not later than 60 days after the Secretary receives a plan under subsection (a), the Secretary shall review and approve or disapprove it. If the proposed plan is disapproved, the Secretary shall notify the affected State as to the specific areas in which the proposed plan is deficient, and theState shall correct all deficiencies within 30 days following receipt of written notice from the Secretary."
 
 \[For definitions of "Secretary", "State", and "crossing", as used in section 202 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 
@@ -352,7 +492,7 @@ Grant.—The Federal Railroad Administration shall make a grant or grants to Ope
 
 "(b)
 
-Pilot Program.—The Secretary may allow funds provided under subsection (a) also to be used by Operation Lifesaver to implement a pilot program, to be known as the Railroad Safety Public Awareness Program, that addresses the need for targeted and sustained community outreach on the subjects described in subsection (a). Such a pilot program shall be established in 1 or more States identified under section 202of this division \[set out above\]. In carrying out such a pilot program Operation Lifesaver shall work with the State, community leaders, school districts, and public and private partners to identify the communities at greatest risk, to develop appropriate measures to reduce such risks, and shall coordinate the pilot program with the State grade crossing action plan.
+Pilot Program.—The Secretary may allow funds provided under subsection (a) also to be used by Operation Lifesaver to implement a pilot program, to be known as the Railroad Safety Public Awareness Program, that addresses the need for targeted and sustained community outreach on the subjects described in subsection (a). Such a pilot program shall be established in 1 or more States identified under section 202 of this division \[set out above\]. In carrying out such a pilot program Operation Lifesaver shall work with the State, community leaders, school districts, and public and private partners to identify the communities at greatest risk, to develop appropriate measures to reduce such risks, and shall coordinate the pilot program with the State grade crossing action plan.
 
 "(c)
 

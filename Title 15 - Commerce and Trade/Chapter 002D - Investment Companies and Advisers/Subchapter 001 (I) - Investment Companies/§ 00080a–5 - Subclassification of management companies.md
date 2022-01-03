@@ -22,9 +22,13 @@ A registered diversified company which at the time of its qualification as such 
 
 (Aug. 22, 1940, ch. 686, title I, §5, 54 Stat. 800; Pub. L. 100–181, title VI, §607, Dec. 4, 1987, 101 Stat. 1261.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1987</b>—Subsec. (a)(2). Pub. L. 100–181 substituted "Closed-end" for "Close-end".
+
+#### <b>Executive Documents</b>
 
 #### Transfer of Functions
 

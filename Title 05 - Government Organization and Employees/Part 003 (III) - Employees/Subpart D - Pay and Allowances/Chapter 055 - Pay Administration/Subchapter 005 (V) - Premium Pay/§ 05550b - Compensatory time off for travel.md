@@ -20,7 +20,7 @@ Amendment by Pub. L. 110–181 effective on the earlier of the effective date of
 
 #### Effective Date
 
-Pub. L. 108–411, title II, §203(c), Oct. 30, 2004, 118 Stat. 2313, provided that: "The amendments made by thissection \[enacting this section\] shall take effect on the earlier of—
+Pub. L. 108–411, title II, §203(c), Oct. 30, 2004, 118 Stat. 2313, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the earlier of—
 
 &emsp;"(1) the effective date of any regulations prescribed to carry out such amendments; or
 

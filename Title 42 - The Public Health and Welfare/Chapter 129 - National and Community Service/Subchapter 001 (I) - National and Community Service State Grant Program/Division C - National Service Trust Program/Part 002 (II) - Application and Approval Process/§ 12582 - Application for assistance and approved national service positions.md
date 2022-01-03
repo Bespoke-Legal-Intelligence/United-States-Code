@@ -10,11 +10,11 @@ In order to have adequate information upon which to consider an application unde
 
 &emsp;(1) A description of the national service programs proposed to be carried out directly by the applicant using assistance provided under section 12571 of this title.
 
-&emsp;(2) A description of the national service programs that are selected by the applicant to receive a grant using assistance requested under section 12571 of this title and a description ofthe process and criteria by which the programs were selected.
+&emsp;(2) A description of the national service programs that are selected by the applicant to receive a grant using assistance requested under section 12571 of this title and a description of the process and criteria by which the programs were selected.
 
 &emsp;(3) A description of other funding sources to be used, or sought to be used, for the national service programs referred to in paragraphs (1) and (2), and, if the application is submitted for the purpose of seeking a renewal of assistance, a description of the success of the programs in reducing their reliance on Federal funds.
 
-&emsp;(4) A description of the extent to which the projects to be conducted using the assistance will address unmet human, educational, environmental, or public safety needs and produce a direct benefit for the community in which the projects are performed.
+&emsp;(4) A description of the extent to which the projects to be conducted using the assistancewill address unmet human, educational, environmental, or public safety needs and produce a direct benefit for the community in which the projects are performed.
 
 &emsp;(5) A description of the plan to be used to recruit participants, including youth who are individuals with disabilities and economically disadvantaged young men and women, for the national service programs referred to in paragraphs (1) and (2).
 
@@ -116,6 +116,8 @@ Unless specifically authorized by law, the Corporation may not provide more than
 
 (Pub. L. 101–610, title I, §130, as added Pub. L. 103–82, title I, §101(b), Sept. 21, 1993, 107 Stat. 800; amended Pub. L. 111–13, title I, §1308, Apr. 21, 2009, 123 Stat. 1505.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 130 of Pub. L. 101–610 was renumbered section 199I and is classified to section 12655i of this title.
@@ -151,6 +153,8 @@ Subsec. (g)(2). Pub. L. 111–13, §1308(7)(B)(i), (ii), substituted "Applicant"
 Subsec. (g)(2)(A), (B). Pub. L. 111–13, §1308(7)(B)(iii), (iv), inserted "territory," after "subdivision of a State," and substituted "or institution of higher education" for "institution of higher education, or Federal agency".
 
 Subsec. (h). Pub. L. 111–13, §1308(5), (8), redesignated subsec. (g) as (h) and amended subsec. (h) generally. Prior to amendment, text read as follows: "The Corporation shall reject an application submitted under this section if a project proposed to be conducted using assistance requested by the applicant is already described in another application pending before the Corporation."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2009 Amendment
 

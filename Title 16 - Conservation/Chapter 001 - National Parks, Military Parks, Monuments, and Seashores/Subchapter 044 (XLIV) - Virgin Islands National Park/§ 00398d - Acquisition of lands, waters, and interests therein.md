@@ -10,7 +10,7 @@ The Secretary is authorized and directed to the maximum extent feasible to emplo
 
 #### (c) Payment requirements for acquisition of Hassel Island from United States
 
-Subject to continued protection and use of Hassel Island for park and recreation purposes,and such other conditions as the Secretary may deem appropriate, the Territory of the Virgin Islands may, within, but not after, five years after August 18, 1978, by duly enacted legislation acquire all interests of the United States in Hassel Island by reimbursing the United States in an amount equal to the amount actually expended by the United States for the acquisition of lands and interests in lands and for the costs of construction of permanent improvements, if any.
+Subject to continued protection and use of Hassel Island for park and recreation purposes, and such other conditions as the Secretary may deem appropriate, the Territory of the Virgin Islands may, within, but not after, five years after August 18, 1978, by duly enacted legislation acquire all interests of the United States in Hassel Island by reimbursing the United States in an amount equal to the amount actually expended by the United States for the acquisition of lands and interests in lands and for the costs of construction of permanent improvements, if any.
 
 #### (d) Rights of owners of improved property on Hassel Island to use and occupancy of property for noncommercial residential purposes; term; payment requirements; suspension of authority to condemn Royal Mail property; "improved property" defined; termination of rights of owners to use and occupancy
 
@@ -22,9 +22,13 @@ Subject to continued protection and use of Hassel Island for park and recreation
 
 (Pub. L. 87–750, §2, Oct. 5, 1962, 76 Stat. 747; Pub. L. 95–348, §7(b)(1)–(3), Aug. 18, 1978, 92 Stat. 494.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1978</b>—Pub. L. 95–348 designated existing provisions as subsec. (a), inserted provisions respecting acquisitions of up to 6.6 acres, and added subsecs. (b) to (d).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Caneel Bay Lease Authorization
 

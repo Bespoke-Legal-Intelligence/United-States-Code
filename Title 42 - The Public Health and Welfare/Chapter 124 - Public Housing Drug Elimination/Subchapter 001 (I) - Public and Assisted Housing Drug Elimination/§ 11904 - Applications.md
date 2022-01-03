@@ -36,7 +36,7 @@ The Secretary shall approve applications under subsection (b) that are not subje
 
 &emsp;(3) the capability of the applicant to carry out the plan; and
 
-&emsp;(4) the extent to which tenants, the local government and the local community supportand participate in the design and implementation of the activities proposed to be funded under the application.
+&emsp;(4) the extent to which tenants, the local government and the local community support and participate in the design and implementation of the activities proposed to be funded under the application.
 
 #### (d) Federally assisted low-income housing
 
@@ -51,6 +51,8 @@ In addition to the selection criteria specified in subsection (c), the Secretary
 In evaluating the extent of the drug-related crime problem pursuant to subsection (c), the Secretary may consider whether housing projects proposed for assistance are located in a high intensity drug trafficking area designated pursuant to section 1504 <sup>3</sup> of title 21.
 
 (Pub. L. 100–690, title V, §5125, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4246; Pub. L. 102–550, title I, §161(d)(3), Oct. 28, 1992, 106 Stat. 3719; Pub. L. 104–330, title VII, §704(3), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(3), title V, §586(e), Oct. 21, 1998, 112 Stat. 2488, 2647.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -89,6 +91,8 @@ Subsec. (e). Pub. L. 105–276, §586(e)(5), redesignated subsec. (d) as (e).
 <b>1992</b>—Subsec. (a). Pub. L. 102–550 inserted ", a public housing resident management corporation," after "public housing agency" in first sentence.
 
 <b>1990</b>—Pub. L. 101–625 amended section generally, substituting present provisions for provisions relating generally to applications for grants under this subchapter and to criteria for approval of such applications.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

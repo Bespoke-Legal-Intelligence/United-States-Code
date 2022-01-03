@@ -1,5 +1,7 @@
 ### §1. Omitted
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section, act July 1, 1902, ch. 1369, §87, 32 Stat. 712, provided that the Division of Insular Affairs of the War Department should be known as the Bureau of Insular Affairs and prescribed its business.

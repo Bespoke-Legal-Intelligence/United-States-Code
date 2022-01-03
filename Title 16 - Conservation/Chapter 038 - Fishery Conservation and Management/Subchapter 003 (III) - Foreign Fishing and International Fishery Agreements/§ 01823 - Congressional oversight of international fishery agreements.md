@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-No governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement shall become effective with respect to the United States before the close of the first 120 days (excluding any days in a period for which the Congress is adjourned sine die) after the date on which the President transmits to the House of Representatives and to the Senate a document setting forth the text of such governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement. A copy of the document shall be delivered to each House of Congress on the same day and shall be delivered to the Clerk of the House of Representatives, if the House is not in session, and to the Secretary of the Senate, if the Senate is not in session.
+No governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement shall become effective with respect to the United States before the close of the first 120 days (excluding any days in a period for which the Congress is adjourned sine die) after the date on which the Presidenttransmits to the House of Representatives and to the Senate a document setting forth the text of such governing international fishery agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement. A copy of the document shall be delivered to each House of Congress on the same day and shall be delivered to the Clerk of the House of Representatives, if the House is not in session, and to the Secretary of the Senate, if the Senate is not in session.
 
 #### (b) Referral to committees
 
@@ -54,6 +54,8 @@ Any document described in subsection (a) shall be immediately referred in the Ho
 
 (Pub. L. 94–265, title II, §203, Apr. 13, 1976, 90 Stat. 340; Pub. L. 103–437, §6(x), Nov. 2, 1994, 108 Stat. 4587; Pub. L. 104–297, title I, §105(c), Oct. 11, 1996, 110 Stat. 3564.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1996</b>—Pub. L. 104–297, §105(c)(1), substituted "international" for "governing international" in section catchline.
@@ -64,7 +66,7 @@ Subsec. (c). Pub. L. 104–297, §105(c)(4), (5), redesignated subsec. (d) as (c
 
 &emsp;"(1) continuity of session is broken only by an adjournment of Congress sine die; and
 
-&emsp;"(2) the days on which either House is not in session because of an adjournment of more than 3 daysto a day certain are excluded in the computation of the 60-day period."
+&emsp;"(2) the days on which either House is not in session because of an adjournment of more than 3 days to a day certain are excluded in the computation of the 60-day period."
 
 Subsec. (c)(2)(A). Pub. L. 104–297, §105(c)(6), substituted "agreement, bycatch reduction agreement, or Pacific Insular Area fishery agreement" for "agreement".
 
@@ -73,6 +75,8 @@ Subsec. (d). Pub. L. 104–297, §105(c)(5), redesignated subsec. (d) as (c).
 <b>1994</b>—Subsec. (b). Pub. L. 103–437, §6(x)(1), substituted "Commerce, Science, and Transportation and on" for "Commerce and".
 
 Subsec. (d)(2)(B). Pub. L. 103–437, §6(x)(2), substituted "Commerce, Science, and Transportation" for "Commerce".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Short Title of 1995 Amendment
 

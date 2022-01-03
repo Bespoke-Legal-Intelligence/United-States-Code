@@ -30,11 +30,15 @@ Mar. 26, 1938, ch. 52, §4, 52 Stat. 119.
 
 Mar. 26, 1938, ch. 52, §5, 52 Stat. 119.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 6974 of this title as this section and substituted "section 8473" for "section 6973".
 
-<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related toacceptance and administration of gifts, bequests, and loans for the benefit of the Naval Academy Museum.
+<b>2000</b>—Pub. L. 106–398 amended section catchline and text generally. Prior to amendment, section related to acceptance and administration of gifts, bequests, and loans for the benefit of the Naval Academy Museum.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

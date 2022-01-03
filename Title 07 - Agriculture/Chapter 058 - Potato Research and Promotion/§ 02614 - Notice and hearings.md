@@ -4,6 +4,8 @@ When sufficient evidence is presented to the Secretary by interested persons, or
 
 (Pub. L. 91–670, title III, §305, Jan. 11, 1971, 84 Stat. 2042; Pub. L. 101–624, title XIX, §1939, Nov. 28, 1990, 104 Stat. 3866.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–624 substituted "interested persons" for "potato producers" in first sentence and "by any interested person, including the Secretary" for "by potato producers or by any other interested person or persons, including the Secretary" in second sentence.

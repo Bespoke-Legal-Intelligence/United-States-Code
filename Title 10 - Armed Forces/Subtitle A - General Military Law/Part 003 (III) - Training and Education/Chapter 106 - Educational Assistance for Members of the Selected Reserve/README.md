@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1663(b)(7), Oct. 5, 1994, 108 Stat. 3007, added items 2131 and 2138 and struck out former items 2131 to 2138.

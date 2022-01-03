@@ -120,6 +120,8 @@ In subsection (a)(3), the words "In carrying out this subsection" are substitute
 
 In subsection (b), the word "imposing" is added for clarity. The words "imposed on air carriers under subsection (a)(1) and (2) of this section" are substituted for "imposed pursuant to the amendment made by subsection (a)" for clarity and because of the restatement.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Subsec. (a)(1). Pub. L. 115–254, §1991(d)(8)(A), substituted "The" for "Not later than March 16, 1991, the" in introductory provisions.
@@ -140,13 +142,15 @@ Subsec. (c)(6). Pub. L. 108–458, §4012(a)(2)(B), added par. (6).
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–181 substituted "should" for "shall" in introductory provisions.
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Change of Name
 
 "Commissioner of U.S. Customs and Border Protection" substituted for "Commissioner of Customs" in subsec. (c)(1) and (2)(F) on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under section 211 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Transfer of Functions
 

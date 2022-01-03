@@ -28,9 +28,13 @@ Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
 In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 5 U.S.C. 421f contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 7207 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

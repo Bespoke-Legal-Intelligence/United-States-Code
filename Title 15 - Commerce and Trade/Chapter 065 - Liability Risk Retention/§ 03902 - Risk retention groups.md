@@ -114,6 +114,8 @@ Nothing in this chapter shall be construed to affect the authority of any State 
 
 (Pub. L. 97–45, §3, Sept. 25, 1981, 95 Stat. 950; Pub. L. 99–563, §§5, 7, 8(a), 12(c), Oct. 27, 1986, 100 Stat. 3172, 3175, 3178.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1986</b>—Subsec. (a)(1)(C). Pub. L. 99–563, §12(c), struck out "product liability or completed operations" before "liability insurance losses".
@@ -140,7 +142,9 @@ Subsec. (b). Pub. L. 99–563, §5(a), amended subsec. (b) generally. Prior to a
 
 Subsecs. (d) to (h). Pub. L. 99–563, §§5(b)(2), 7, 8(a), added subsecs. (d) to (h).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Special Rule Regarding Feasibility Study
 
-The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicablewith respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
+The provisions of subsec. (d) of this section, relating to the submission of a feasibility study, not applicable with respect to any line or classification of liability insurance which was defined in this chapter before Oct. 27, 1986, and was offered before such date by any risk retention group chartered and operating for not less than 3 years before such date, see section 11(b) of Pub. L. 99–563, set out as an Effective Date of 1986 Amendment; Applicability note under section 3901 of this title.
 

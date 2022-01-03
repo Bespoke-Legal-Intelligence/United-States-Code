@@ -72,7 +72,7 @@
 
 #### (B) Use of funds
 
-&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be usedfor the administrative costs of any of the local workforce investment activities described in this subpart or subpart 3, regardless of whether the funds were allocated under this subsection or section 3173(b) of this title.
+&emsp;&emsp;Funds made available for administrative costs under subparagraph (A) may be used for the administrative costs of any of the local workforce investment activities described in this subpart or subpart 3, regardless of whether the funds were allocated under this subsection or section 3173(b) of this title.
 
 #### (c) Reallocation among local areas
 

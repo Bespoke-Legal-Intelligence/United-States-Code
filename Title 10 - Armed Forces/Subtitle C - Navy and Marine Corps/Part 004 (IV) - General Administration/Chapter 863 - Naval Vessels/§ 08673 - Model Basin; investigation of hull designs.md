@@ -20,13 +20,17 @@ May 6, 1936, ch. 333, 49 Stat. 1263; June 20, 1940, ch. 400, §1(a), (b), 54 Sta
 
 In subsection (a) the authority to purchase a site and construct the model basin is omitted as executed. The words "David W. Taylor Model Basin, Carderock, Maryland" are inserted to designate the model basin established under this authority. The words "investigations to determine" are substituted for the words "work of investigating and determining." The phrase "vessels, including aircraft" is changed to read "vessels and aircraft", and the words "their design" are substituted for "ship design".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232, §807(d)(2), renumbered section 7303 of this title as this section.
 
-Pub. L. 115–232, §1015(a), struck out subsec. (b) designation before "The Secretary" and struck out subsec. (a) which read as follows: "An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for UnitedStates vessels and aircraft and investigations of other problems of their design."
+Pub. L. 115–232, §1015(a), struck out subsec. (b) designation before "The Secretary" and struck out subsec. (a) which read as follows: "An office or agency in the Department of the Navy designated by the Secretary of the Navy shall conduct at the David W. Taylor Model Basin, Carderock, Maryland, investigations to determine the most suitable shapes and forms for United States vessels and aircraft and investigations of other problems of their design."
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "An officer or agency of the Department of the Navy designated by the Secretary of the Navy" for "The Bureau of Ships".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

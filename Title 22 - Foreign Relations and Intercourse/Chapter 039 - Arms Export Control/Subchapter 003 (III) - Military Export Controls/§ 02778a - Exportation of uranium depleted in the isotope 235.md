@@ -18,5 +18,5 @@ The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, 
 
 #### Codification
 
-Section was enacted as part of the International Security and Development Cooperation Act of 1980, and not as part of the Arms Export Control Act which comprises this chapter.
+Section was enacted as part of the International Security and Development Cooperation Act of 1980, andnot as part of the Arms Export Control Act which comprises this chapter.
 

@@ -1,0 +1,232 @@
+### §16091. Clean school bus program
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Administrator
+
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
+
+#### (2) Alternative fuel
+
+&emsp;The term "alternative fuel" means liquefied natural gas, compressed natural gas, hydrogen, propane, or biofuels.
+
+#### (3) Clean school bus
+
+&emsp;The term "clean school bus" means a school bus that—
+
+&emsp;&emsp;(A) the Administrator certifies reduces emissions and is operated entirely or in part using an alternative fuel; or
+
+&emsp;&emsp;(B) is a zero-emission school bus.
+
+#### (4) Eligible contractor
+
+&emsp;The term "eligible contractor" means a contractor that is a for-profit, not-for-profit, or nonprofit entity that has the capacity—
+
+&emsp;&emsp;(A) to sell clean school buses, zero-emission school buses, charging or fueling infrastructure, or other equipment needed to charge, fuel, or maintain clean school buses or zero-emission school buses, to individuals or entities that own a school bus or a fleet of school buses; or
+
+&emsp;&emsp;(B) to arrange financing for such a sale.
+
+#### (5) Eligible recipient
+
+#### (A) In general
+
+&emsp;&emsp;Subject to subparagraph (B), the term "eligible recipient" means—
+
+&emsp;&emsp;&emsp;(i) 1 or more local or State governmental entities responsible for—
+
+&emsp;&emsp;&emsp;&emsp;(I) providing school bus service to 1 or more public school systems; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the purchase of school buses;
+
+&emsp;&emsp;&emsp;(ii) an eligible contractor;
+
+&emsp;&emsp;&emsp;(iii) a nonprofit school transportation association; or
+
+&emsp;&emsp;&emsp;(iv) an Indian Tribe (as defined in section 5304 of title 25), Tribal organization (as defined in that section), or tribally controlled school (as defined in section 2511 of title 25) that is responsible for—
+
+&emsp;&emsp;&emsp;&emsp;(I) providing school bus service to 1 or more Bureau-funded schools (as defined in section 2021 of title 25); or
+
+&emsp;&emsp;&emsp;&emsp;(II) the purchase of school buses.
+
+#### (B) Special requirements
+
+&emsp;&emsp;In the case of eligible recipients identified under clauses (ii) and (iii) of subparagraph (A), the Administrator shall establish timely and appropriate requirements for notice and shall establish timely and appropriate requirements for approval by the public school systems that would be served by buses purchased using award funds made available under this section.
+
+#### (6) High-need local educational agency
+
+&emsp;The term "high-need local educational agency" means a local educational agency (as defined in section 7801 of title 20) that is among the local educational agencies in the applicable State with high percentages of children counted under section 6333(c) of title 20, on the basis of the most recent satisfactory data available, as determined by the Secretary of Education (or, for a local educational agency for which no such data is available, such other data as the Secretary of Education determines to be satisfactory).
+
+#### (7) School bus
+
+&emsp;The term "school bus" has the meaning given the term "schoolbus" in section 30125(a) of title 49.
+
+#### (8) Zero-emission school bus
+
+&emsp;The term "zero-emission school bus" means a school bus that is certified by the Administrator to have a drivetrain that produces, under any possible operational mode or condition, zero exhaust emission of—
+
+&emsp;&emsp;(A) any air pollutant that is listed pursuant to section 7408(a) of this title (or any precursor to such an air pollutant); and
+
+&emsp;&emsp;(B) any greenhouse gas.
+
+#### (b) Program for replacement of existing school buses with clean school buses and zero-emission school buses
+
+#### (1) Establishment
+
+&emsp;The Administrator shall establish a program—
+
+&emsp;&emsp;(A) to award grants and rebates on a competitive basis to eligible recipients for the replacement of existing school buses with clean school buses;
+
+&emsp;&emsp;(B) to award grants and rebates on a competitive basis to eligible recipients for the replacement of existing school buses with zero-emission school buses;
+
+&emsp;&emsp;(C) to award contracts to eligible contractors to provide rebates for the replacement of existing school buses with clean school buses; and
+
+&emsp;&emsp;(D) to award contracts to eligible contractors to provide rebates for the replacement of existing school buses with zero-emission school buses.
+
+#### (2) Allocation of funds
+
+&emsp;Of the amounts made available for awards under paragraph (1) in a fiscal year, the Administrator shall award—
+
+&emsp;&emsp;(A) 50 percent to replace existing school buses with zero-emission school buses; and
+
+&emsp;&emsp;(B) 50 percent to replace existing school buses with clean school buses and zero-emission school buses.
+
+#### (3) Considerations
+
+&emsp;In making awards under paragraph (2)(B), the Administrator shall take into account the following criteria and shall not give preference to any individual criterion:
+
+&emsp;&emsp;(A) Lowest overall cost of bus replacement.
+
+&emsp;&emsp;(B) Local conditions, including the length of bus routes and weather conditions.
+
+&emsp;&emsp;(C) Technologies that most reduce emissions.
+
+&emsp;&emsp;(D) Whether funds will bring new technologies to scale or promote cost parity between old technology and new technology.
+
+#### (4) Priority of applications
+
+&emsp;In making awards under paragraph (1), the Administrator may prioritize applicants that—
+
+&emsp;&emsp;(A) propose to replace school buses that serve—
+
+&emsp;&emsp;&emsp;(i) a high-need local educational agency;
+
+&emsp;&emsp;&emsp;(ii) a Bureau-funded school (as defined in section 2021 of title 25); or
+
+&emsp;&emsp;&emsp;(iii) a local educational agency that receives a basic support payment under section 7703(b)(1) of title 20 for children who reside on Indian land;
+
+&emsp;&emsp;(B) serve rural or low-income areas; or
+
+&emsp;&emsp;(C) propose to complement the assistance received through the award by securing additional sources of funding for the activities supported through the award, such as through—
+
+&emsp;&emsp;&emsp;(i) public-private partnerships;
+
+&emsp;&emsp;&emsp;(ii) grants from other entities; or
+
+&emsp;&emsp;&emsp;(iii) issuance of school bonds.
+
+#### (5) Use of school bus fleet
+
+&emsp;All clean school buses and zero-emission school buses acquired with funds provided under this section shall—
+
+&emsp;&emsp;(A) be operated as part of the school bus fleet for which the award was made for not less than 5 years;
+
+&emsp;&emsp;(B) be maintained, operated, and charged or fueled according to manufacturer recommendations or State requirements; and
+
+&emsp;&emsp;(C) not be manufactured or retrofitted with, or otherwise have installed, a power unit or other technology that creates air pollution within the school bus, such as an unvented diesel passenger heater.
+
+#### (6) Awards
+
+#### (A) In general
+
+&emsp;&emsp;In making awards under paragraph (1), the Administrator may make awards for up to 100 percent of the costs for replacement of existing school buses with clean school buses, zero-emission school buses, and charging or fueling infrastructure.
+
+#### (B) Structuring awards
+
+&emsp;&emsp;In making an award under paragraph (1)(A), the Administrator shall decide whether to award a grant or rebate, or a combination thereof, based primarily on how best to facilitate replacing existing school buses with clean school buses or zero-emission school buses, as applicable.
+
+#### (7) Deployment and distribution
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator shall—
+
+&emsp;&emsp;&emsp;(i) to the maximum extent practicable, achieve nationwide deployment of clean school buses and zero-emission school buses through the program under this section; and
+
+&emsp;&emsp;&emsp;(ii) ensure a broad geographic distribution of awards.
+
+#### (B) Limitation
+
+&emsp;&emsp;The Administrator shall ensure that the amount received by all eligible entities in a State from grants and rebates under this section does not exceed 10 percent of the amounts made available to carry out this section during a fiscal year.
+
+#### (8) Annual report
+
+&emsp;Not later than January 31 of each year, the Administrator shall submit to Congress a report that evaluates the implementation of this section and describes—
+
+&emsp;&emsp;(A) the total number of applications received;
+
+&emsp;&emsp;(B) the quantity and amount of grants and rebates awarded and the location of the recipients of the grants and rebates;
+
+&emsp;&emsp;(C) the criteria used to select the recipients; and
+
+&emsp;&emsp;(D) any other information the Administrator considers appropriate.
+
+#### (c) Education and outreach
+
+#### (1) In general
+
+&emsp;Not later than 120 days after November 15, 2021, the Administrator shall develop an education and outreach program to promote and explain the award program under this section.
+
+#### (2) Coordination with stakeholders
+
+&emsp;The education and outreach program under paragraph (1) shall be designed and conducted in conjunction with interested stakeholders.
+
+#### (3) Components
+
+&emsp;The education and outreach program under paragraph (1) shall—
+
+&emsp;&emsp;(A) inform potential award recipients on the process of applying for awards and fulfilling the requirements of awards;
+
+&emsp;&emsp;(B) describe the available technologies and the benefits of using the technologies;
+
+&emsp;&emsp;(C) explain the benefits and costs incurred by participating in the award program;
+
+&emsp;&emsp;(D) make available information regarding best practices, lessons learned, and technical and other information regarding—
+
+&emsp;&emsp;&emsp;(i) clean school bus and zero-emission school bus acquisition and deployment;
+
+&emsp;&emsp;&emsp;(ii) the build-out of associated infrastructure and advance planning with the local electricity supplier;
+
+&emsp;&emsp;&emsp;(iii) workforce development, training, and Registered Apprenticeships that meet the requirements under parts 29 and 30 of title 29, Code of Federal Regulations (as in effect on December 1, 2019); and
+
+&emsp;&emsp;&emsp;(iv) any other information that is necessary, as determined by the Administrator; and
+
+&emsp;&emsp;(E) include, as appropriate, information from the annual report required under subsection (b)(7).<sup>1</sup>
+
+#### (d) Administrative costs
+
+The Administrator may use, for the administrative costs of carrying out this section, not more than 3 percent of the amounts made available to carry out this section for any fiscal year.
+
+#### (e) Regulations
+
+The Administrator shall have the authority to issue such regulations or other guidance, forms, instructions, and publications as may be necessary or appropriate to carry out the programs, projects, or activities authorized under this section, including to ensure that such programs, projects, or activities are completed in a timely and effective manner, result in emissions reductions, and maximize public health benefits.
+
+#### (f) Authorization of appropriations
+
+There is authorized to be appropriated to the Administrator to carry out this section, to remain available until expended, $1,000,000,000 for each of fiscal years 2022 through 2026, of which—
+
+&emsp;(1) $500,000,000 shall be made available for the adoption of clean school buses and zero-emission school buses; and
+
+&emsp;(2) $500,000,000 shall be made available for the adoption of zero-emission school buses.
+
+(Pub. L. 109–58, title VII, §741, Aug. 8, 2005, 119 Stat. 821; Pub. L. 117–58, div. G, title XI, §71101, Nov. 15, 2021, 135 Stat. 1321.)
+
+#### <b>Editorial Notes</b>
+
+#### Amendments
+
+<b>2021</b>—Pub. L. 117–58 amended section generally. Prior to amendment, section related to program for retrofit or replacement of certain existing school buses with clean school buses.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)(8)."</i>
+

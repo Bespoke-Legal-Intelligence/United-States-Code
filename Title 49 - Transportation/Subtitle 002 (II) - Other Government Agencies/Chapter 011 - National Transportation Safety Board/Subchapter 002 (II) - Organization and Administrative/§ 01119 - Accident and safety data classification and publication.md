@@ -46,6 +46,8 @@ Limitation on applicability.—This subsection shall not apply in the case of an
 
 (Added Pub. L. 104–264, title IV, §407(a)(1), Oct. 9, 1996, 110 Stat. 3257; amended Pub. L. 108–168, §5, Dec. 6, 2003, 117 Stat. 2034.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The date of the enactment of this section, referred to in subsecs. (a) and (b)(1), is the date of enactment of Pub. L. 104–264, which was approved Oct. 9, 1996.
@@ -53,6 +55,8 @@ The date of the enactment of this section, referred to in subsecs. (a) and (b)(1
 #### Amendments
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–168 added subsec. (c).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

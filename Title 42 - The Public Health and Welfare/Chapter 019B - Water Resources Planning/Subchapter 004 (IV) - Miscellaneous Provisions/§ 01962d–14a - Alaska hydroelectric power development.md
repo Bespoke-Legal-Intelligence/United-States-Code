@@ -44,6 +44,8 @@ This section shall be cited as the "Alaska Hydroelectric Power Development Act".
 
 (Pub. L. 94–587, §203, Oct. 22, 1976, 90 Stat. 2946; Pub. L. 103–437, §15(e)(2), Nov. 2, 1994, 108 Stat. 4592.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 Section was enacted as part of the Water Resources Development Act of 1976, and not as part of the Water Resources Planning Act which comprises this chapter.
@@ -51,6 +53,8 @@ Section was enacted as part of the Water Resources Development Act of 1976, and 
 #### Amendments
 
 <b>1994</b>—Subsec. (g)(1). Pub. L. 103–437 substituted "Committees on Environment and Public Works and on Appropriations of the Senate and the Committees on Public Works and Transportation and on Appropriations of the House" for "Committees on Public Works and Appropriations of the Senate and House".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Change of Name
 

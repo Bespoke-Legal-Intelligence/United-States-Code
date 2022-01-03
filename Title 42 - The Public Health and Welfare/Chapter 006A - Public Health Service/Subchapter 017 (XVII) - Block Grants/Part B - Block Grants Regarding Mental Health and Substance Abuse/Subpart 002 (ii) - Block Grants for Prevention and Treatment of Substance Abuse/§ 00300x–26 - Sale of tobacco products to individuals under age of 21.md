@@ -80,7 +80,7 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 
 &emsp;&emsp;(A) shall use amounts received under such grant for activities to plan for or ensure compliance in the State with subsection (a); and
 
-&emsp;&emsp;(B) in the case of a State for which the Secretary has made a determination under subsection (b) that the State is prepared to meet, or has met, the requirements of subsection (a), may use such funds for tobacco cessation activities, strategies to prevent the use of tobacco products by individuals under the age of 21, or allowable uses under section 300x–21 of this title.
+&emsp;&emsp;(B) in the case of a State for which the Secretary has made a determination under subsection (b) that the State is prepared to meet, or has met, the requirements of subsection (a), may use such funds for tobacco cessation activities, strategies to prevent the use of tobacco products by individualsunder the age of 21, or allowable uses under section 300x–21 of this title.
 
 #### (3) Supplement not supplant
 
@@ -99,6 +99,8 @@ A funding agreement for a grant under section 300x–21 of this title is that th
 The Secretary shall provide technical assistance to States related to the activities required under this section.
 
 (July 1, 1944, ch. 373, title XIX, §1926, as added Pub. L. 102–321, title II, §202, July 10, 1992, 106 Stat. 394; Pub. L. 116–94, div. N, title I, §604(a), Dec. 20, 2019, 133 Stat. 3124.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 

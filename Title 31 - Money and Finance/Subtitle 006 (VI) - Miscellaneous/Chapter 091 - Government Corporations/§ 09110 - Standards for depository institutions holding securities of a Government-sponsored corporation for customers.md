@@ -30,7 +30,7 @@ Section 8(b) or 8(c) of the Federal Deposit Insurance Act, referred to in subsec
 
 Section 5(d)(2) or 5(d)(3) of the Home Owners' Loan Act of 1933, referred to in subsec. (b), is classified to section 1464(d)(2), (3) of Title 12, but was amended generally by Pub. L. 101–73, title III, §301, Aug. 9, 1989, 103 Stat. 282, and no longer relates to issuance of orders. See section 1464(d)(1) of Title 12.
 
-Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 ofTitle 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
+Section 407 of the National Housing Act, referred to in subsec. (b), which was classified to section 1730 of Title 12, was repealed by Pub. L. 101–73, title IV, §407, Aug. 9, 1989, 103 Stat. 363.
 
 Section 206(e) or 206(f) of the Federal Credit Union Act, referred to in subsec. (b), is classified to section 1786(e), (f) of Title 12.
 

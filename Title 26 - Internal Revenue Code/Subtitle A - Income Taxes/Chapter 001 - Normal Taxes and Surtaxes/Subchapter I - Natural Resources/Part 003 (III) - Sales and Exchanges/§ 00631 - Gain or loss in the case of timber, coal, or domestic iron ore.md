@@ -18,9 +18,11 @@ In the case of the disposal of coal (including lignite), or iron ore mined in th
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 213; Pub. L. 88–272, title II, §227(a)(1), (b)(1), Feb. 26, 1964, 78 Stat. 97, 98; Pub. L. 94–455, title XIV, §1402(b)(1)(I), (2), (3), title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1732, 1733, 1834; Pub. L. 98–369, div. A, title I, §178(a), title X, §1001(c), (e), July 18, 1984, 98 Stat. 712, 1012; Pub. L. 99–514, title III, §311(b)(3), Oct. 22, 1986, 100 Stat. 2219; Pub. L. 108–357, title III, §315(a), (b), Oct. 22, 2004, 118 Stat. 1469.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–357, in heading, struck out "with a retained economic interest" after "timber", in first sentence, substituted "either retains aneconomic interest in such timber or makes an outright sale of such timber" for "retains an economic interest in such timber", and, in third sentence, substituted "In the case of disposal of timber with a retained economic interest, the date of disposal" for "The date of disposal".
+<b>2004</b>—Subsec. (b). Pub. L. 108–357, in heading, struck out "with a retained economic interest" after "timber", in first sentence, substituted "either retains an economic interest in such timber or makes an outright sale of such timber" for "retains an economic interest in such timber", and, in third sentence, substituted "In the case of disposal of timber with a retained economic interest, the date of disposal" for "The date of disposal".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "If for the taxable year of such gain or loss the maximum rate of tax imposed by this chapter on any net capital gain is less than such maximum rate for ordinary income, such owner" for "Such owner".
 
@@ -45,6 +47,8 @@ Pub. L. 94–455, §1402(b)(1)(I), provided that "6 months" would be changed to 
 <b>1964</b>—Pub. L. 88–272, §227(b)(1), inserted reference to domestic iron ore in heading.
 
 Subsec. (c). Pub. L. 88–272, §227(a)(1), inserted "or domestic iron ore" in heading, "or iron ore mined in the United States" after "coal (including lignite)", "or iron ore" after "coal" wherever appearing, and provided that the subsection shall not apply to any disposal of iron ore to a person whose relationship to the person disposing of such ore would result in the disallowance of losses under section 267 of 717(b), or to a person owned or controlled by the same interests which own or control the person disposing of such iron ore.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2004 Amendment
 

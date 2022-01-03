@@ -6,7 +6,7 @@ Authority.—
 
 &emsp;(1)
 
-Contracts and cooperative agreements.—The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 2304(k) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 2304(c)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
+Contracts and cooperative agreements.—The Secretary of the Army may enter into contracts and cooperative agreements with the Army West Point Athletic Association for the purpose of supporting the athletic programs of the Academy. Notwithstanding section 3201(e) of this title, the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to section 3204(a)(5) of this title. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Academy.
 
 &emsp;(2)
 
@@ -66,7 +66,7 @@ Trademarks and Service Marks.—
 
 &emsp;(1)
 
-Licensing, marketing, and sponsorship agreements.—An agreement under subsection (a) may, consistent with section 2260 of this title (other than subsection (d) of such section), authorize the Association to enter into licensing, marketing, and sponsorship agreements relating to trademarks and servicemarks identifying the Academy, subject to the approval of the Secretary of the Army.
+Licensing, marketing, and sponsorship agreements.—An agreement under subsection (a) may, consistent with section 2260 of this title (other than subsection (d) of such section), authorize the Association to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Academy, subject to the approval of the Secretary of the Army.
 
 &emsp;(2)
 
@@ -98,9 +98,7 @@ Association Defined.—In this section, the term "Association" means the Army We
 
 (Added Pub. L. 114–92, div. A, title V, §557(a), Nov. 25, 2015, 129 Stat. 825, §4362; renumbered §7462, Pub. L. 115–232, div. A, title VIII, §808(c)(1), Aug. 13, 2018, 132 Stat. 1839; amended Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
-#### Amendment of Section
-
-<i>Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.</i>
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -123,6 +121,8 @@ Prior sections 7476 to 7480 were renumbered sections 8746 to 8750 of this title,
 <b>2021</b>—Subsec. (a)(1). Pub. L. 116–283 substituted "section 3201(e)" for "section 2304(k)" and "section 3204(a)(5)" for "section 2304(c)(5)".
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4362 of this title as this section.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2021 Amendment
 

@@ -6,7 +6,7 @@
 
 (3) The minimum charge for leave under this subsection is one hour, and additional charges are in multiples thereof.
 
-(b) Except as provided by section 5519 of this title, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, who—
+(b) Except as provided by section 5519 of this title, an employee as defined by section 2105 ofthis title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, who—
 
 &emsp;(1) is a member of a Reserve component of the Armed Forces, as described in section 10101 of title 10, or the National Guard, as described in section 101 of title 32; and
 
@@ -78,7 +78,7 @@ Section 8401(30) of this title, referred to in subsec. (d)(1), was amended gener
 
 Subsec. (d)(1). Pub. L. 106–65, §§672(b) and 1105(a), amended par. (1) identically, striking out "noncombat" after "for participation in".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end "Upon the request of an employee, the period for which an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave."
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §516(a), inserted at end "Upon the request of an employee, the period forwhich an employee is absent to perform service described in paragraph (2) may be charged to the employee's accrued annual leave or to compensatory time available to the employee instead of being charged as leave to which the employee is entitled under this subsection. The period of absence may not be charged to sick leave."
 
 Subsec. (d). Pub. L. 104–106, §1039, added subsec. (d).
 
@@ -156,7 +156,7 @@ Pub. L. 107–117, div. A, title VIII, §8023, Jan. 10, 2002, 115 Stat. 2252, pr
 
 &emsp;&emsp;"(A) Federal service under sections 331 \[now 251\], 332 \[now 252\], 333 \[now 253\], or 12406 of title 10, United States Code, or other provision of law, as applicable; or
 
-&emsp;&emsp;"(B) full-time military service for his or her State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States; and
+&emsp;&emsp;"(B) full-time military service for his or her State, the District of Columbia, the Commonwealthof Puerto Rico, or a territory of the United States; and
 
 &emsp;"(3) requests and is granted—
 

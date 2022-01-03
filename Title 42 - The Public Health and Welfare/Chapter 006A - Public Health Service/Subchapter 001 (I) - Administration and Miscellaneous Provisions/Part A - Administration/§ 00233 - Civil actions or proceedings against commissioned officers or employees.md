@@ -122,7 +122,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g), but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254b and 256a of this title.<sup>1</sup>
 
-(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31that occurs during the fiscal year to the appropriate accounts in the Treasury.
+(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board member,<sup>3</sup> employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
 
 #### (l) Timely response to filing of action or proceeding
 
@@ -168,9 +168,9 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;(ii) an estimate of the amount of such insurance that such entities (together with the officers, governing board members, employees, and contractors of such entities who have been deemed to be employees for purposes of this section) will purchase after December 26, 1995.
 
-&emsp;(C) An estimate of the medical malpractice liability loss history of such entities for the10-year period preceding October 1, 1996, including but not limited to the following:
+&emsp;(C) An estimate of the medical malpractice liability loss history of such entities for the 10-year period preceding October 1, 1996, including but not limited to the following:
 
-&emsp;&emsp;(i) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid and that are estimated to be paid, by the Federal Government pursuant to deeming entities as employees for purposes of this section.
+&emsp;&emsp;(i) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid andthat are estimated to be paid, by the Federal Government pursuant to deeming entities as employees for purposes of this section.
 
 &emsp;&emsp;(ii) Claims that have been paid and that are estimated to be paid, and legal expenses to handle such claims that have been paid and that are estimated to be paid, by private medical malpractice liability insurance.
 
@@ -218,7 +218,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;(B) This subsection may not be construed as deeming any free clinic to be an employee of the Public Health Service for purposes of this section.
 
-&emsp;(C) With respect to a free clinic, a health care practitioner is not a free clinic health professional unless the free clinic sponsors thehealth care practitioner. For purposes of this subsection, the free clinic shall be considered to be sponsoring the health care practitioner if—
+&emsp;(C) With respect to a free clinic, a health care practitioner is not a free clinic health professional unless the free clinic sponsors the health care practitioner. For purposes of this subsection, the free clinic shall be considered to be sponsoring the health care practitioner if—
 
 &emsp;&emsp;(i) with respect to the health care practitioner, the free clinic submits to the Secretary an application meeting the requirements of subsection (g)(1)(D); and
 
@@ -276,7 +276,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 &emsp;&emsp;Except as provided in paragraph (5)(B)(ii), the United States shall be liable under this subsection with respect to a claim arising out of the administration of a covered countermeasure to an individual only if—
 
-&emsp;&emsp;&emsp;(i) the countermeasure was administered by a qualified person, for a purpose statedin paragraph (7)(A)(i), and during the effective period of a declaration by the Secretary under subparagraph (A) with respect to such countermeasure; and
+&emsp;&emsp;&emsp;(i) the countermeasure was administered by a qualified person, for a purpose stated in paragraph (7)(A)(i), and during the effective period of a declaration by the Secretary under subparagraph (A) with respect to such countermeasure; and
 
 &emsp;&emsp;&emsp;(ii)(I) the individual was within a category of individuals covered by the declaration; or
 
@@ -486,7 +486,7 @@ In the case of a health care provider who is an officer, employee, or contractor
 
 (iii) The report shall include a summary of the data relied upon for the estimate in clause (i), including the number of claims filed and paid from the previous calendar year.
 
-(C) Not later than December 31 of each fiscal year, the Secretary shall transfer from the fund under subsection (k)(2) to the appropriate accounts in the Treasury an amount equal to the estimate made under subparagraph (B) for the calendar year beginning in such fiscal year, subject to the extent of amounts in the fund.
+(C) Not later than December 31 of each fiscal year, the Secretary shall transfer from the fundunder subsection (k)(2) to the appropriate accounts in the Treasury an amount equal to the estimate made under subparagraph (B) for the calendar year beginning in such fiscal year, subject to the extent of amounts in the fund.
 
 (5)(A) This subsection shall take effect on October 1, 2017, except as provided in subparagraph (B) and paragraph (6).
 
@@ -499,6 +499,8 @@ In the case of a health care provider who is an officer, employee, or contractor
 (6) Beginning on October 1, 2022, this subsection shall cease to have any force or effect.
 
 (July 1, 1944, ch. 373, title II, §224, formerly §223, as added Pub. L. 91–623, §4, Dec. 31, 1970, 84 Stat. 1870; renumbered §224, Pub. L. 92–157, title III, §301(c), Nov. 18, 1971, 85 Stat. 463; amended Pub. L. 102–501, §§2–4, Oct. 24, 1992, 106 Stat. 3268–3270; Pub. L. 103–183, title VII, §706(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 104–73, §§2–5(b), 6–11, Dec. 26, 1995, 109 Stat. 777–781; Pub. L. 104–191, title I, §194, Aug. 21, 1996, 110 Stat. 1988; Pub. L. 104–299, §4(a)(1), Oct. 11, 1996, 110 Stat. 3644; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 107–296, title III, §304(c), Nov. 25, 2002, 116 Stat. 2165; Pub. L. 108–20, §3(a)–(i), Apr. 30, 2003, 117 Stat. 646–648; Pub. L. 108–163, §2(m)(1), Dec. 6, 2003, 117 Stat. 2023; Pub. L. 111–148, title X, §10608(a), Mar. 23, 2010, 124 Stat. 1014; Pub. L. 114–255, div. B, title IX, §9025, Dec. 13, 2016, 130 Stat. 1254.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -558,9 +560,9 @@ Subsec. (p). Pub. L. 107–296 added subsec. (p).
 
 Subsec. (o). Pub. L. 104–191 added subsec. (o).
 
-<b>1995</b>—Subsec. (g)(1). Pub. L. 104–73, §§3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted "and subject to the approval by the Secretary of an application under subparagraph (D)" after "For purposes of this section", substituted "an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor" for ", an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) ofthis section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor", and added subpars. (B) to (H).
+<b>1995</b>—Subsec. (g)(1). Pub. L. 104–73, §§3(1), 4, 5(a), designated existing provisions as subpar. (A), inserted "and subject to the approval by the Secretary of an application under subparagraph (D)" after "For purposes of this section", substituted "an entity described in paragraph (4), and any officer, governing board member, or employee of such an entity, and any contractor of such an entity who is a physician or other licensed or certified health care practitioner (subject to paragraph (5)), shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer was made under subsection (k)(3) (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, governing board member, employee, or contractor" for ", an entity described in paragraph (4) and any officer, employee, or contractor (subject to paragraph (5)) of such an entity who is a physician or other licensed or certified health care practitioner shall be deemed to be an employee of the Public Health Service for a calendar year that begins during a fiscal year for which a transfer of the full amount estimated under subsection (k)(1)(A) of this section was made under subsection (k)(3) of this section (subject to paragraph (3)). The remedy against the United States for an entity described in paragraph (4) and any officer, employee, or contractor", and added subpars. (B) to (H).
 
-Subsec. (g)(3). Pub. L. 104–73, §2(a), struck out at end "This subsection shall not apply with respect to a cause of action arising from an act or omission which occurs on or after January 1, 1996."
+Subsec. (g)(3). Pub. L. 104–73, §2(a), struck out at end "This subsection shall not apply with respect to acause of action arising from an act or omission which occurs on or after January 1, 1996."
 
 Subsec. (g)(5)(B). Pub. L. 104–73, §8, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "in the case of an individual who normally performs on average less than 32½ hours of services per week for the entity for the period of the contract and is a licensed or certified provider of obstetrical services—
 
@@ -589,6 +591,8 @@ Subsec. (n). Pub. L. 104–73, §11, added subsec. (n).
 <b>1993</b>—Subsec. (k)(2). Pub. L. 103–183 inserted at end "Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254c, 256 and 256a of this title."
 
 <b>1992</b>—Subsecs. (g) to (k). Pub. L. 102–501 added subsecs. (g) to (k).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2010 Amendment
 

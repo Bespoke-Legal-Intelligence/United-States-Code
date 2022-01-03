@@ -14,11 +14,13 @@
 
 #### (c) Customs laws
 
-(1) For the purposes of the customs laws administered by the Secretary of the Treasury, ocean thermal energy conversion facilities andplantships documented under the laws of the United States and licensed under this chapter shall be deemed to be vessels.
+(1) For the purposes of the customs laws administered by the Secretary of the Treasury,ocean thermal energy conversion facilities and plantships documented under the laws of the United States and licensed under this chapter shall be deemed to be vessels.
 
 (2) Except insofar as they apply to vessels documented under the laws of the United States, the customs laws administered by the Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended (19 U.S.C. 1202), and other laws codified in title 19, shall not apply to any ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed under the provisions of this chapter, but all foreign articles to be used in the construction of any such facility or plantship, including any component thereof, shall first be made subject to all applicable duties and taxes which would be imposed upon or by reason of their importation if they were imported for consumption in the United States. Duties and taxes shall be paid thereon in accordance with laws applicable to merchandise imported into the customs territory of the United States.
 
 (Pub. L. 96–320, title IV, §403, Aug. 3, 1980, 94 Stat. 998; Pub. L. 98–623, title VI, §602(a)(11), (12), (e)(6), Nov. 8, 1984, 98 Stat. 3411, 3412.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 
@@ -33,6 +35,8 @@ The Tariff Act of 1930, as amended, referred to in subsec. (c)(2), is act June 1
 Subsec. (c)(2). Pub. L. 98–623, §602(a)(12), substituted "ocean thermal energy conversion facility or plantship documented under the laws of the United States and licensed" for "ocean thermal energy conversion facility or plantship licensed".
 
 Pub. L. 98–623, §602(e)(6), substituted "Secretary of the Treasury, including the provisions of the Tariff Act of 1930, as amended (19 U.S.C. 1202), and other laws codified in title 19," for "Secretary of the Treasury".
+
+#### <b>Executive Documents</b>
 
 #### Territorial Sea of United States
 

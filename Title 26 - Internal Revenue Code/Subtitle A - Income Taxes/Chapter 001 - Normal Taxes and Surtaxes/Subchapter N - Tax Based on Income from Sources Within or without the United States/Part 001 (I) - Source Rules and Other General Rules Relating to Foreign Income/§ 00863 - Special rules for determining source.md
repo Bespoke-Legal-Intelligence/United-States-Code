@@ -14,13 +14,13 @@ In the case of gross income derived from sources partly within and partly withou
 
 &emsp;(3) derived from the purchase of inventory property (within the meaning of section 865(i)(1)) within a possession of the United States and its sale or exchange within the United States,
 
-> shall be treated as derived partly from sources within and partly from sources without the United States. Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and without the United States solely on the basis of the production activities with respect to the property.
+> shall be treated as derived partly from sources within and partly from sources without the United States. Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and withoutthe United States solely on the basis of the production activities with respect to the property.
 
 #### (c) Source rule for certain transportation income
 
 #### (1) Transportation beginning and ending in the United States
 
-&emsp;All transportation income attributable to transportation which begins and ends in theUnited States shall be treated as derived from sources within the United States.
+&emsp;All transportation income attributable to transportation which begins and ends in the United States shall be treated as derived from sources within the United States.
 
 #### (2) Other transportation having United States connection
 
@@ -114,6 +114,8 @@ In the case of gross income derived from sources partly within and partly withou
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 277; Pub. L. 94–455, title XIX, §§1901(b)(26)(C), (D), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1798, 1799, 1834; Pub. L. 98–369, div. A, title I, §124(a), July 18, 1984, 98 Stat. 646; Pub. L. 99–514, title XII, §§1211(b)(1)(A), 1212(a), (e), 1213(a), Oct. 22, 1986, 100 Stat. 2536, 2539, 2540; Pub. L. 100–647, title I, §1012(e)(3)(A), (f), Nov. 10, 1988, 102 Stat. 3500; Pub. L. 101–239, title VII, §7811(i)(2), Dec. 19, 1989, 103 Stat. 2409; Pub. L. 105–34, title XI, §1174(a)(2), Aug. 5, 1997, 111 Stat. 989; Pub. L. 115–97, title I, §14303(a), Dec. 22, 2017, 131 Stat. 2225.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–97 inserted at end of concluding provisions "Gains, profits, and income from the sale or exchange of inventory property described in paragraph (2) shall be allocated and apportioned between sources within and without the United States solely on the basis of the production activities with respect to the property."
@@ -139,6 +141,8 @@ Subsecs. (d), (e). Pub. L. 99–514, §1213(a), added subsecs. (d) and (e).
 <b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (b). Pub. L. 94–455, §§1901(b)(26)(C), (D), 1906(b)(13)(A), struck out "or his delegate" after "Secretary" in introductory provisions, and inserted "or exchange" after "sale" in pars. (2) and (3), and "or exchanged" after "sold" in par. (2) wherever appearing.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2017 Amendment
 
@@ -207,7 +211,7 @@ For nonapplication of amendments by sections 1211(b)(1)(A) and 1212(a) of Pub. L
 
 #### Qualified Research and Experimental Expenditures; Allocation and Appointment; Definitions; Special Rules; Effective Dates
 
-For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub. L. 100–647, set out as a note under section 861 of this title.
+For allocation and apportionment of qualified research and experimental expenditures for purposes of sections 861 to 863 of this title, see section 4009 of Pub.L. 100–647, set out as a note under section 861 of this title.
 
 #### 1-Year Modification in Regulations Providing for Allocation of Research and Experimental Expenditures
 

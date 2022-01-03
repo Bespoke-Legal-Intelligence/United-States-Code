@@ -80,7 +80,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 &emsp;&emsp;The term "lottery" includes any arrangement, other than a savings promotion raffle, under which—
 
-&emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the "participants") advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the "winners") will receiveby reason of those participants' advances more than the amounts those participants have advanced; and
+&emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the "participants") advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the "winners") will receive by reason of those participants' advances more than the amounts those participants have advanced; and
 
 &emsp;&emsp;&emsp;(ii) the identity of the winners is determined by any means which includes—
 
@@ -152,7 +152,7 @@ In general.—The Director shall provide for the examination, safe and sound ope
 
 "(2)
 
-Regulations.—The Director may issue such regulations as the Director determines to be appropriateto carry out the responsibilities of the Director or the Office."
+Regulations.—The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office."
 
 Subsec. (a)(3). Pub. L. 111–203, §369(4)(A)(iii), substituted "Comptroller and the Corporation" for "Director" in two places.
 

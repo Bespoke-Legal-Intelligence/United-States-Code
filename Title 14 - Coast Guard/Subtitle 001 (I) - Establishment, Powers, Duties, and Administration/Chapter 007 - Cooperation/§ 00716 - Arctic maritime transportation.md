@@ -20,7 +20,7 @@ International Maritime Organization Agreements.—To carry out the purpose of th
 
 (c)
 
-Coordination by Committee on the Maritime Transportation System.—The Committee on the Maritime Transportation System established under section 55501 of title 46, United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
+Coordination by Committee on the Maritime Transportation System.—The Committee on the Maritime Transportation System established under section 55501 <sup>1</sup> of title 46, United States Code, shall coordinate the establishment of domestic transportation policies in the Arctic necessary to carry out the purpose of this section.
 
 (d)
 
@@ -38,9 +38,15 @@ Arctic Definition.—In this section, the term "Arctic" has the meaning given su
 
 #### <b>Editorial Notes</b>
 
+#### References in Text
+
+Section 55501 of title 46, United States Code, referred to in subsec. (c), was redesignated section 50401 of title 46 by Pub. L. 117–81, div. C, title XXXV, §3512(a)(3), Dec. 27, 2021, 135 Stat. 2239.
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–282 renumbered section 90 of this title as this section.
 
 Subsec. (f). Pub. L. 115–232 struck out question mark after "the term 'Arctic' ".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

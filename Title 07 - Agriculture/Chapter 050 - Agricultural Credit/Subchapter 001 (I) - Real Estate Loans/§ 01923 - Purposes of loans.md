@@ -56,6 +56,8 @@ In making or guaranteeing a loan under this subchapter for purchase of a farm or
 
 (Pub. L. 87–128, title III, §303, Aug. 8, 1961, 75 Stat. 307; Pub. L. 87–703, title IV, §401(1), Sept. 27, 1962, 76 Stat. 631; Pub. L. 90–488, §1, Aug. 15, 1968, 82 Stat. 770; Pub. L. 95–113, title XIV, §1448(a), Sept. 29, 1977, 91 Stat. 1011; Pub. L. 96–438, §1(1), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 97–98, title XVI, §1602, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 104–127, title VI, §602(a), Apr. 4, 1996, 110 Stat. 1085; Pub. L. 107–171, title V, §5002, May 13, 2002, 116 Stat. 341.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2002</b>—Subsec. (a)(1)(E). Pub. L. 107–171 added subpar. (E).
@@ -71,6 +73,8 @@ In making or guaranteeing a loan under this subchapter for purchase of a farm or
 <b>1968</b>—Pub. L. 90–488 designated existing provisions as cls. (1), (2), (4), (5), and added cl. (3).
 
 <b>1962</b>—Pub. L. 87–703 authorized loans to be made or insured for recreational uses and facilities.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1996 Amendment
 

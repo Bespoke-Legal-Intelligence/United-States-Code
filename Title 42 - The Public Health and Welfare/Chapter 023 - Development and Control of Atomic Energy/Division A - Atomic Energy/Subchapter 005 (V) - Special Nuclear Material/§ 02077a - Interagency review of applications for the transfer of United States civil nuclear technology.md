@@ -1,12 +1,12 @@
 ### §2077a. Interagency review of applications for the transfer of United States civil nuclear technology
 
-#### (a) Report on transfers to covered foreign countries
+#### (a) Annual Reports on transfers to covered foreign countries
 
-Not less frequently than every 90 days, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
 
-&emsp;(1) a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding 90 days; and
+&emsp;(1) a description of the authorizations under section 2077(b) of this title to transfer United States civil nuclear technology to a covered foreign country during the preceding year; and
 
-&emsp;(2) a statement of whether any agency required to be consulted under that section orpursuant to regulation objected to or sought conditions on each such transfer.
+&emsp;(2) a statement of whether any agency required to be consulted under that section or pursuant to regulation objected to or sought conditions on each such transfer.
 
 #### (b) Determination of technologies to be protected
 
@@ -54,7 +54,7 @@ Not less frequently than every 90 days, the Secretary of Energy shall submit to 
 
 #### (2) Submission to Congress
 
-&emsp;The Secretary of Energy, jointly with the Director of National Intelligence, shall include the results of consultations conducted under paragraph (1) in each report under subsection (a) and each notification under subsection (b)(2).
+&emsp;The Secretary of Energy, jointly with the Director of National Intelligence, shall includethe results of consultations conducted under paragraph (1) in each report under subsection (a) and each notification under subsection (b)(2).
 
 #### (d) Report on compliance of covered foreign countries and end-users
 
@@ -84,7 +84,7 @@ Not less frequently than annually, the Secretary of Energy shall submit to the a
 
 &emsp;The report required by paragraph (1) shall include—
 
-&emsp;&emsp;(A) the number of applications for authorization under section 2077(b) of this title totransfer United States civil nuclear technology to a foreign country submitted during the year preceding the submission of the report;
+&emsp;&emsp;(A) the number of applications for authorization under section 2077(b) of this title to transfer United States civil nuclear technology to a foreign country submitted during the year preceding the submission of the report;
 
 &emsp;&emsp;(B) the length of time each such application was under review;
 
@@ -136,9 +136,11 @@ In this section:
 
 #### (2) Covered foreign country
 
-&emsp;The term "covered foreign country" means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and Moscow July 1, 1968, but does not include the United States, the United Kingdom, or France.
+&emsp;The term "covered foreign country" means a foreign country that is a nuclear-weapon state, as defined by Article IX(3) of the Treaty on the Non-Proliferation of Nuclear Weapons, signed at Washington, London, and MoscowJuly 1, 1968, but does not include the United States, the United Kingdom, or France.
 
-(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, title XXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291.)
+(Pub. L. 114–92, div. C, title XXXI, §3136, Nov. 25, 2015, 129 Stat. 1209; Pub. L. 115–232, div. C, title XXXI, §3116(c), Aug. 13, 2018, 132 Stat. 2291; Pub. L. 117–81, div. C, title XXXI, §3131(b), Dec. 27, 2021, 135 Stat. 2230.)
+
+#### <b>Editorial Notes</b>
 
 #### Codification
 
@@ -146,11 +148,17 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
+<b>2021</b>—Subsec. (a). Pub. L. 117–81 substituted "Annual Reports" for "Report" in heading, "At the same time as the President submits to Congress the annual budget request under section 1105 of title 31 for a fiscal year," for "Not less frequently than every 90 days," in introductory provisions, and "the preceding year" for "the preceding 90 days" in par. (1).
+
 <b>2018</b>—Subsec. (e)(2)(C) to (E). Pub. L. 115–232 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### "Congressional Defense Committees" Defined
 
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–92, 129 Stat. 745. See note under section 101 of Title 10, Armed Forces.
+
+#### <b>Executive Documents</b>
 
 #### Delegation of Authority Pursuant to Section 3136(h) of the National Defense Authorization Act for Fiscal Year 2016
 

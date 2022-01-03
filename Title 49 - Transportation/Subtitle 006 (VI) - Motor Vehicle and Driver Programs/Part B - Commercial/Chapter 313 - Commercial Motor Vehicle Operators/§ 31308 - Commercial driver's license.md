@@ -44,6 +44,8 @@ Oct. 27, 1986, Pub. L. 99–570, §12006, 100 Stat. 3207–175.
 
 The words "Not later than July 15, 1988" are omitted as obsolete.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "an individual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;".
@@ -59,6 +61,8 @@ Par. (2). Pub. L. 109–59, §4122(2)(D), added par. (2). Former par. (2) redesi
 Pars. (3), (4). Pub. L. 109–59, §4122(2)(C), (E), redesignated pars. (2) and (3) as (3) and (4), respectively, and inserted "or learner's permit" after "license" wherever appearing.
 
 <b>1998</b>—Par. (2). Pub. L. 105–178 inserted before semicolon "and each license issued after January 1, 2001, include unique identifiers (which may include biometric identifiers) to minimize fraud and duplication".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2012 Amendment
 

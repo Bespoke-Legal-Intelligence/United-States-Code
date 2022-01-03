@@ -6,9 +6,13 @@
 
 (Added Pub. L. 96–513, title I, §103, Dec. 12, 1980, 94 Stat. 2841; amended Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1991</b>—Subsec. (a). Pub. L. 102–190 substituted "chief warrant officer, W–5," for "warrant officer (W–4)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1991 Amendment
 
@@ -24,7 +28,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 #### Evaluation of Effects of Officer Strength Reductions on Officer Personnel Management Systems
 
-Pub. L. 102–484, div. A, title V, §502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to provide for an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
+Pub. L. 102–484, div. A, title V, §502, Oct. 23, 1992, 106 Stat. 2402, directed the Secretary of Defense to providefor an independent, federally funded research and development center to review the officer personnel management system of each of the military departments and to determine and evaluate the effects of post-Cold War officer strength reductions on that officer personnel management system, required the center to submit to the Secretary of Defense a report on the results of the review and evaluation not later than Dec. 31, 1993, and directed the Secretary to transmit the report to committees of Congress within 60 days after receipt.
 
 #### Strength of Active Duty Officer Corps
 

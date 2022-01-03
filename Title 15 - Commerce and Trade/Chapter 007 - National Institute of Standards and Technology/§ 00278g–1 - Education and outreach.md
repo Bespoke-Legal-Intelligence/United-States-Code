@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director may carry out activities under thissubsection, including education and outreach activities to the general public, industry and academia in support of the Institute's mission.
+The Director is authorized to expend funds appropriated for activities of the Institute in any fiscal year, to support, promote, and coordinate activities and efforts to enhance public awareness and understanding of measurement sciences, standards and technology at the national measurement laboratories and otherwise in fulfillment of the mission of the Institute. The Director may carry out activities under this subsection, including education and outreach activities to the general public, industry and academia in support of the Institute's mission.
 
 #### (b) Hiring
 
@@ -70,11 +70,15 @@ The Director may—
 
 (Mar. 3, 1901, ch. 872, §18, as added Pub. L. 114–329, title III, §306(b), Jan. 6, 2017, 130 Stat. 3008.)
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 278g–1, act Mar. 3, 1901, ch. 872, §18, as added Pub. L. 99–574, §6(a), Oct. 28, 1986, 100 Stat. 3237; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 102–245, title I, §104(h)(1), Feb. 14, 1992, 106 Stat. 11; Pub. L. 110–69, title III, §§3008, 3013(a), Aug. 9, 2007, 121 Stat. 591, 598; Pub. L. 111–358, title IV, §§406(a), §407(b), Jan. 4, 2011, 124 Stat. 4003, 4004, related to research fellowships and other financial assistance to students at institutes of higher education, prior to repeal by Pub. L. 114–329, title III, §306(a), Jan. 6, 2017, 130 Stat. 3008.
 
 A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Savings Clause for Research Fellowships and Other Financial Assistance to Students at Institutes of Higher Education
 

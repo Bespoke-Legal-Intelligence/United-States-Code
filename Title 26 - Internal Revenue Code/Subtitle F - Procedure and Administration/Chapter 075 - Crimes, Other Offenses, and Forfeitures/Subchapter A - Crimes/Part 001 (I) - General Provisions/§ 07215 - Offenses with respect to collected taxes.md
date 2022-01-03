@@ -16,6 +16,8 @@ This section shall not apply—
 
 (Added Pub. L. 85–321, §2, Feb. 11, 1958, 72 Stat. 6; amended Pub. L. 97–248, title III, §§307(a)(15), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1983</b>—Subsec. (b). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.

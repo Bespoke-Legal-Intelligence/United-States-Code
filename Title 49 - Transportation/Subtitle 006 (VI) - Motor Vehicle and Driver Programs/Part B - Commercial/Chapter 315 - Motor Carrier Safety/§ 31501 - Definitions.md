@@ -50,6 +50,8 @@ In clause (3), the words "including any 'contract common carrier by motor vehicl
 
 This amends 49:31501(1) to correct an erroneous cross-reference.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1995</b>—Par. (2). Pub. L. 104–88, §308(k)(1), substituted "13102" for "10102".
@@ -59,6 +61,8 @@ Par. (3)(A). Pub. L. 104–88, §308(k)(2), substituted "13501" for "10521(a)".
 <b>1994</b>—Pub. L. 103–272 renumbered section 3101 of this title as this section and amended it generally, restating it without substantive change.
 
 Par. (1). Pub. L. 103–429 substituted "section 3(f)" for "section 203(f)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1995 Amendment
 

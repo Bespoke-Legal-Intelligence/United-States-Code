@@ -1,6 +1,6 @@
 ### §7532. Factories and arsenals: manufacture at
 
-The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the United States, so far as those factories or arsenals can make those supplies on an economical basis.
+The Secretary of the Army shall have supplies needed for the Department of the Army made in factories or arsenals owned by the UnitedStates, so far as those factories or arsenals can make those supplies on an economical basis.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 254, §4532; Pub. L. 113–291, div. A, title III, §323(a), Dec. 19, 2014, 128 Stat. 3343; renumbered §7532, Pub. L. 115–232, div. A, title VIII, §808(d), Aug. 13, 2018, 132 Stat. 1839.)
 
@@ -26,11 +26,15 @@ R.S. 1666.
 
 The words "Except as otherwise provided by law", in 5:181–4(e), are omitted, since there is no law within the scope of the exception. The word "made" is substituted for the words "manufactured or produced". The words "United States" are substituted for the word "Government", in 5:181–4(e). The words "which he considers" are substituted for the words "as, in his judgment", in 50:55. The words "useless or", in 50:55, are omitted as surplusage.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 4532 of this title as this section.
 
 <b>2014</b>—Pub. L. 113–291 struck out "; abolition of" after "manufacture at" in section catchline, struck out subsec. (a) designation before "The Secretary", and struck out subsec. (b) which read as follows: "The Secretary may abolish any United States arsenal that he considers unnecessary".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

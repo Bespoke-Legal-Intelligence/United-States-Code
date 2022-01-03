@@ -34,6 +34,8 @@ Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
 The 4th sentence of section 31a(a) of existing title 37 is omitted as executed. The words ", or his designated representative," are substituted for the last 8 words of section 32(f) of existing title 37.
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2017</b>—Subsec. (b). Pub. L. 115–91 inserted "or paragraph (1) or (3) of section 351(a)" after "section 310(a)(2)" in introductory provisions.
@@ -45,6 +47,8 @@ The 4th sentence of section 31a(a) of existing title 37 is omitted as executed. 
 <b>1968</b>—Subsec. (b). Pub. L. 90–330 substituted "June 30, 1970" for "June 30, 1968".
 
 <b>1966</b>—Pub. L. 89–735 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date
 

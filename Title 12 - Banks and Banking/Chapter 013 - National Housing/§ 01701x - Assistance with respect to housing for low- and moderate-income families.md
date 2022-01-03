@@ -8,7 +8,7 @@
 
 &emsp;(ii) the provision of advice and technical assistance to public bodies or to nonprofit or cooperative organizations with respect to the construction, rehabilitation, and operation of low- and moderate-income housing, including assistance with respect to self-help and mutual self-help programs;
 
-&emsp;(iii) counseling and advice to tenants and homeowners with respect to property maintenance, financial management, and such other matters as may be appropriate to assist them in improving their housing conditions and in meeting the responsibilities of tenancy or homeownership; and
+&emsp;(iii) counseling and advice to tenants and homeowners with respect to property maintenance, financial management, and such other matters as may be appropriate to assist themin improving their housing conditions and in meeting the responsibilities of tenancy or homeownership; and
 
 &emsp;(iv) the provision of technical assistance to communities, particularly smaller communities, to assist such communities in planning, developing, and administering Community Development Programs pursuant to title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
 
@@ -154,7 +154,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (i) Requirement
 
-&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the creditor of a loan (or proposed creditor) shall provide notice under clause (ii) to (I) any eligible homeowner who fails to pay any amount by the date the amount is due under a home loan, and (II) any applicant for a mortgage described in paragraph (4).
+&emsp;&emsp;&emsp;Except as provided in subparagraph (C), the creditor of a loan (or proposed creditor) shall provide notice under clause (ii) to (I) any eligible homeowner who fails topay any amount by the date the amount is due under a home loan, and (II) any applicant for a mortgage described in paragraph (4).
 
 #### (ii) Content
 
@@ -346,7 +346,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 &emsp;&emsp;&emsp;(i) is an adult;
 
-&emsp;&emsp;&emsp;(ii) has not worked full-time, full-year in the labor force for a number of years, but has during such years, worked primarilywithout remuneration to care for the home and family; and
+&emsp;&emsp;&emsp;(ii) has not worked full-time, full-year in the labor force for a number of years, but has during such years, worked primarily without remuneration to care for the home and family; and
 
 &emsp;&emsp;&emsp;(iii) is unemployed or underemployed and is experiencing difficulty in obtaining or upgrading employment.
 
@@ -430,7 +430,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (1) Establishment
 
-&emsp;To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriateentity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
+&emsp;To the extent amounts are provided in appropriations Acts under paragraph (7), the Secretary shall contract with an appropriate entity (which may be a nonprofit organization) to carry out a program under this subsection to train individuals to provide homeownership and rental counseling and to administer the examination under subsection (e)(2) and certify individuals under such subsection.
 
 #### (2) Eligibility and selection
 
@@ -562,7 +562,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (2) Standards for materials
 
-&emsp;The Secretary, in consultation with the advisory committee established under subsection (g)(4) <sup>1</sup> of the Department of Housing and Urban Development Act, shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).
+&emsp;The Secretary, in consultation with the advisory committee established under subsection\(g)(4) <sup>1</sup> of the Department of Housing and Urban Development Act, shall establish standards for materials and forms to be used, as appropriate, by organizations providing homeownership counseling services, including any recipients of assistance pursuant to subsection (a)(4).
 
 #### (3) Mortgage software systems
 
@@ -594,7 +594,7 @@ Authorization of appropriations.—There are authorized to be appropriated $45,0
 
 #### (A) In general
 
-&emsp;&emsp;The Director of Housing Counseling shall develop, implement, and conduct national public service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources <sup>2</sup> and that such homeownership counseling is available, includingthrough programs sponsored by the Secretary of Housing and Urban Development.
+&emsp;&emsp;The Director of Housing Counseling shall develop, implement, and conduct national public service multimedia campaigns designed to make persons facing mortgage foreclosure, persons considering a subprime mortgage loan to purchase a home, elderly persons, persons who face language barriers, low-income persons, minorities, and other potentially vulnerable consumers aware that it is advisable, before seeking or maintaining a residential mortgage loan, to obtain homeownership counseling from an unbiased and reliable sources <sup>2</sup> and that such homeownership counseling is available, including through programs sponsored by the Secretary of Housing and Urban Development.
 
 #### (B) Contact information
 

@@ -8,6 +8,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2021</b>—Pub. L. 116–283, div. A, title X, §1055(b)(2)(B), Jan. 1, 2021, 134 Stat. 3854, added item 8932 and struck out former item 8932 "National Ocean Research Leadership Council".

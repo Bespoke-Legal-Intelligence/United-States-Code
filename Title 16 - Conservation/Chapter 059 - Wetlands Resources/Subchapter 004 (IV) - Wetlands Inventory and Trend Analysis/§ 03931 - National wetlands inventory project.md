@@ -34,6 +34,8 @@ The Secretary shall notify the appropriate State and local units of government a
 
 (Pub. L. 99–645, title IV, §401, Nov. 10, 1986, 100 Stat. 3588; Pub. L. 101–233, §18, Dec. 13, 1989, 103 Stat. 1978; Pub. L. 102–440, title III, §305, Oct. 23, 1992, 106 Stat. 2235.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>1992</b>—Subsec. (a)(3). Pub. L. 102–440, §305(1), substituted "by September 30, 2000" for "as soon as practicable".

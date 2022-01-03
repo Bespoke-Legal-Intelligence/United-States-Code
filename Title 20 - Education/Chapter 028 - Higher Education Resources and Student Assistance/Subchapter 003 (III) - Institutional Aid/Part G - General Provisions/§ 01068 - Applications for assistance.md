@@ -60,6 +60,8 @@ The Secretary, directly or by grant or contract, may provide technical assistanc
 
 (Pub. L. 89–329, title III, §391, formerly §351, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1302; amended Pub. L. 100–50, §2(a)(13), June 3, 1987, 101 Stat. 336; Pub. L. 102–325, title III, §305(a), July 23, 1992, 106 Stat. 478; renumbered §391 and amended Pub. L. 105–244, title III, §§301(a)(2), (c)(11), 308(a)–(c), Oct. 7, 1998, 112 Stat. 1636, 1637, 1648, 1649; Pub. L. 110–315, title III, §§317, 320(4), Aug. 14, 2008, 122 Stat. 3185, 3188.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Government Performance and Results Act of 1993, referred to in subsec. (a)(1)(C), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of Title 5, Government Organization and Employees, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
@@ -72,7 +74,7 @@ Section was formerly classified to section 1066 of this title prior to renumberi
 
 A prior section 1068, Pub. L. 89–329, title III, §353, as added Pub. L. 99–498, title III, §301(a), Oct. 17, 1986, 100 Stat. 1305, which related to application review process, was renumbered section 393 of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(2), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1068b of this title.
 
-Another prior section 1068, Pub. L. 89–329, title III, §343, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to thegeneral amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1068, Pub. L. 89–329, title III, §343, as added Pub. L. 96–374, title III, §301, Oct. 3, 1980, 94 Stat. 1398, related to application review process and provided for reader panels, recommendation of such panels, and notification to institutions, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Another prior section 1068, Pub. L. 89–329, title IV, §408, Nov. 8, 1965, 79 Stat. 1235; Pub. L. 90–575, title I, §105(a), Oct. 16, 1968, 82 Stat. 1018; Pub. L. 91–230, title VIII, §801, Apr. 13, 1970, 84 Stat. 190; Pub. L. 92–318, title I, §131(a)(1)(B), June 23, 1972, 86 Stat. 247, related to programs for identifying qualified low-income students and preparing them for post secondary education, grants or contracts for planning, developing or carrying out programs, "Talent Search" program, "Upward Bound" program, "Special Services for Disadvantaged Students" program, nature of programs, waiver of matching requirement in the "Upward Bound" program and authorization of appropriations, prior to the general amendment of part A of subchapter IV of this chapter by Pub. L. 92–318, title I, §131(b)(1), June 23, 1972, 86 Stat. 247.
 
@@ -91,6 +93,8 @@ Subsec. (b)(6). Pub. L. 105–244, §§301(c)(11), 308(c), substituted "section 
 <b>1992</b>—Subsec. (b)(7)(D) to (F). Pub. L. 102–325 redesignated subpars. (E) and (F) as (D) and (E), respectively, and struck out former subpar. (D) which read as follows: "information explaining the manner in which the proposed project will assist the applicant to prepare for the critical financial problems that all institutions of higher education will face during the subsequent decade as a result of declining enrollment, and other problems;".
 
 <b>1987</b>—Subsec. (b)(6). Pub. L. 100–50 substituted "section 1069c of this title" for "section 1069b of this title".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1998 Amendment
 

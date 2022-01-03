@@ -52,6 +52,8 @@ In subsection (a) the words "at the request of the Secretary of the Army and the
 
 In subsection (c) the words "rules and" are omitted. The words "who are officers of the naval service" are substituted for the words "of the United States Navy", since officers of the Marine Corps are occasionally ordered to attend the Postgraduate School on the same basis as officers of the Navy.
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that cooking for enlisted members of Air Force should be superintended by officers of organizations to which members belonged, prior to repeal by Pub. L. 90–235, §4(b)(1), Jan. 2, 1968, 81 Stat. 760.
@@ -84,7 +86,7 @@ Subsec. (d). Pub. L. 109–163, §526(b), added subsec. (d).
 
 <b>2003</b>—Subsec. (a)(2). Pub. L. 108–136, §532(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The Secretary may permit an enlisted member of the armed forces who is assigned to the Naval Postgraduate School or to a nearby command to receive instruction at the Naval Postgraduate School. Admission of enlisted members for instruction under this paragraph shall be on a space-available basis."
 
-Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) and substituted "Except as provided under paragraph (3), the Department" for "The Department" and "members" for "officers", designated second sentence as par. (2) and inserted "under subsection (a)(2)(C)" after "permitted" and "on a space-available basis" after "instruction at the Postgraduate School" and struck out "(taking into consideration the admission of enlisted members on a space-available basis)" before period at end, and added par. (3).
+Subsec. (b). Pub. L. 108–136, §532(b), designated first sentence as par. (1) and substituted "Except as provided under paragraph (3), the Department" for "The Department" and "members" for "officers", designated second sentence as par. (2) and inserted "under subsection (a)(2)(C)" after "permitted" and "on a space-available basis" after "instruction at the Postgraduate School"and struck out "(taking into consideration the admission of enlisted members on a space-available basis)" before period at end, and added par. (3).
 
 <b>2002</b>—Subsec. (a)(1). Pub. L. 107–296, §1704(b)(5)(A), substituted "Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security" for "Secretaries of the Army, Air Force, and Transportation".
 
@@ -103,6 +105,8 @@ Subsec. (c). Pub. L. 105–85, §551(a)(3), substituted "members" for "officers"
 <b>1980</b>—Subsec. (a). Pub. L. 96–513, §513(23), substituted references to Transportation Department and Secretary for references to Treasury Department and Secretary, respectively.
 
 Subsec. (b). Pub. L. 96–513, §513(23)(A), substituted reference to Transportation Secretary for reference to Treasury Secretary.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

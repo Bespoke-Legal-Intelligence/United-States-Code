@@ -16,7 +16,7 @@ The Congress finds and declares that—
 
 #### (b) Use, possession, or transportation of peyote
 
-(1) Notwithstanding any other provision of law, the use, possession, or transportation of peyote by an Indian for bona fide traditional ceremonial purposes in connection with the practice of a traditional Indian religion is lawful, and shall not be prohibited by the United States or any State. No Indian shall be penalized or discriminated against on the basis of such use, possession or transportation, including, but notlimited to, denial of otherwise applicable benefits under public assistance programs.
+(1) Notwithstanding any other provision of law, the use, possession, or transportation of peyote by an Indian for bona fide traditional ceremonial purposes in connection with the practice of a traditional Indian religion is lawful, and shall not be prohibited by the United States or any State. No Indian shall be penalized or discriminated against on the basis of such use, possession or transportation, including, but not limited to, denial of otherwise applicable benefits under public assistance programs.
 
 (2) This section does not prohibit such reasonable regulation and registration by the Drug Enforcement Administration of those persons who cultivate, harvest, or distribute peyote as may be consistent with the purposes of this section and section 1996 of this title.
 
@@ -59,6 +59,8 @@ Nothing in this section shall be construed as abrogating, diminishing, or otherw
 &emsp;(4) the right of Indians to practice their religions under any Federal or State law.
 
 (Pub. L. 95–341, §3, as added Pub. L. 103–344, §2, Oct. 6, 1994, 108 Stat. 3125.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

@@ -94,6 +94,8 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (Aug. 14, 1935, ch. 531, title XVI, §1616, as added Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1474; amended Pub. L. 93–233, §14, Dec. 31, 1973, 87 Stat. 965; Pub. L. 94–566, title V, §505(c), (d), Oct. 20, 1976, 90 Stat. 2687; Pub. L. 96–265, title II, §201(b)(1), June 9, 1980, 94 Stat. 446; Pub. L. 97–35, title XXIII, §2353(n), Aug. 13, 1981, 95 Stat. 873; Pub. L. 99–272, title XII, §12201(b), Apr. 7, 1986, 100 Stat. 290; Pub. L. 103–66, title XIII, §13731(a)(1), Aug. 10, 1993, 107 Stat. 660; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 105–33, title V, §5102(a)(1), (b)(1)(A), Aug. 5, 1997, 111 Stat. 595, 596; Pub. L. 105–78, title V, §516(a)(1), (b)(1)(A), Nov. 13, 1997, 111 Stat. 1517, 1518; Pub. L. 106–170, title IV, §410(a)(1), Dec. 17, 1999, 113 Stat. 1916.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 The Cash Management Improvement Act of 1990, referred to in subsec. (d)(5)(B), is Pub. L. 101–453, Oct. 24, 1990, 104 Stat. 1058. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 6501 of Title 31, Money and Finance, and Tables.
@@ -130,9 +132,11 @@ Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendmen
 
 <b>1973</b>—Subsec. (e). Pub. L. 93–233 added subsec. (e).
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: "The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments."
+Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: "The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals undertitle XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments."
 
 #### Effective Date of 1994 Amendment
 
@@ -198,7 +202,7 @@ Pub. L. 93–233, §8(f), formerly §8(e), Dec. 31, 1973, 87 Stat. 957, as amend
 
 \[Pub. L. 95–59, §3, June 30, 1977, 91 Stat. 255, provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.\]
 
-\[Pub. L. 95–113, title XIII, §1302(b), Sept. 29, 1977, 91 Stat. 979, provided that the amendment of section 8(f)of Pub. L. 93–233, set out above, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
+\[Pub. L. 95–113, title XIII, §1302(b), Sept. 29, 1977, 91 Stat. 979, provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
 #### Commodity Distribution Program: Individual Receiving Supplemental Security Income Benefits as Member of Household for any Purpose of Program
 

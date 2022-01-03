@@ -1,6 +1,6 @@
 ### §2680a. Compensation for disability or death
 
-Section 1651 of title 42 shall not apply with respect to such contracts as the Secretary of State may determine which are contracts with persons employed to perform work for the Department of State or the Foreign Service on an intermittent basis for not more than 90 days in a calendar year.
+Section 1651 of title 42 shall not apply with respect to such contracts as the Secretary of Statemay determine which are contracts with persons employed to perform work for the Department of State or the Foreign Service on an intermittent basis for not more than 90 days in a calendar year.
 
 (Aug. 1, 1956, ch. 841, title I, §16, as added and renumbered title I, Pub. L. 97–241, title I, §122, title II, §202(a), Aug. 24, 1982, 96 Stat. 281, 282.)
 

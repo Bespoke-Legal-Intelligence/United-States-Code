@@ -26,6 +26,8 @@ July 31, 1947, ch. 420, §1, 61 Stat. 705.
 
 The words "There is a" are substituted for the words "That the Secretary of the Navy is hereby authorized and directed to establish the", as the Postgraduate School is in operation. The words "technical education" are substituted for the word "training" to describe more aptly the higher level of instruction at the Postgraduate School. The words "naval service" are substituted for the words "Regular Navy and Marine Corps and the reserve components thereof". The word "their" is substituted for the words "of commissioned officers".
 
+#### <b>Editorial Notes</b>
+
 #### Prior Provisions
 
 A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to assign regular and reserve Air Force officers to National Guard Bureau, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1661(c)(2), Oct. 5, 1994, 108 Stat. 2982, effective Dec. 1, 1994. See section 10507 of this title.
@@ -35,6 +37,8 @@ A prior section 8541, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized Pre
 <b>2018</b>—Pub. L. 115–232 renumbered section 7041 of this title as this section.
 
 <b>2006</b>—Pub. L. 109–163 amended text generally. Prior to amendment, text read as follows: "There is a United States Naval Postgraduate School for the advanced instruction and technical education of commissioned officers of the naval service in their practical and theoretical duties."
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

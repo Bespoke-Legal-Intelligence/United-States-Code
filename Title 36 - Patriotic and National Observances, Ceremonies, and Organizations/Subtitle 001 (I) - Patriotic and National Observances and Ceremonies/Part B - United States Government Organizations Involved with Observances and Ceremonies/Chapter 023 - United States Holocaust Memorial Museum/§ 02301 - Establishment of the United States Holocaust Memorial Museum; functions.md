@@ -154,7 +154,7 @@ Best Practices.—The information distributed by the Director shall include best
 
 "(a)
 
-In General.—An eligible program participant shall be engaged at the discretion of the Director to participate in Holocaust education program activities authorized under this Act and approved by the Director pursuant to an application described in section 4(d).
+In General.—An eligible program participant shall be engaged at the discretion of the Director toparticipate in Holocaust education program activities authorized under this Act and approved by the Director pursuant to an application described in section 4(d).
 
 "(b)
 

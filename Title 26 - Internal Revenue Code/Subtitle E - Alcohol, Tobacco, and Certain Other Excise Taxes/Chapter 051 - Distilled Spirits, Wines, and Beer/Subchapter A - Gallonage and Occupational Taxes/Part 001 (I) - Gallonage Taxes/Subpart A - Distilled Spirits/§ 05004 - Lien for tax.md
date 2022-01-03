@@ -20,7 +20,9 @@
 
 &emsp;&emsp;<b>For provisions relating to extinguishing of lien in case of redistillation, see section 5223(e).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1317; amended Pub. L. 89–44, title VIII, §805(f)(1), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §4(c), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(2), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(C), Apr. 2, 1980, 94 Stat. 280.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1317; amended Pub. L. 89–44, title VIII,§805(f)(1), June 21, 1965, 79 Stat. 161; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–176, §4(c), Nov. 14, 1977, 91 Stat. 1366; Pub. L. 96–39, title VIII, §807(a)(2), July 26, 1979, 93 Stat. 280; Pub. L. 96–223, title II, §232(e)(2)(C), Apr. 2, 1980, 94 Stat. 280.)
+
+#### <b>Editorial Notes</b>
 
 #### Prior Provisions
 
@@ -41,6 +43,8 @@ Subsecs. (b), (c). Pub. L. 96–39, §807(a)(2)(A), (B), redesignated subsec. (c
 <b>1976</b>—Subsec. (b)(3)(B), (4). Pub. L. 94–455 struck out "or his delegate" after "Secretary", wherever appearing.
 
 <b>1965</b>—Subsec. (c). Pub. L. 89–44 substituted "5223(e)" for "5223(d)".
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1980 Amendment
 

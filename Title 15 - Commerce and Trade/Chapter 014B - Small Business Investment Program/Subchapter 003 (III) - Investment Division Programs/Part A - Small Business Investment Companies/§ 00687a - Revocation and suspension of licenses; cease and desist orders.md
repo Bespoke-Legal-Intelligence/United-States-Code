@@ -36,6 +36,8 @@ If any licensee or other person against which or against whom an order is issued
 
 (Pub. L. 85–699, title III, §309, as added Pub. L. 87–341, §9, Oct. 3, 1961, 75 Stat. 753; amended Pub. L. 89–779, §4, Nov. 6, 1966, 80 Stat. 1359; Pub. L. 98–620, title IV, §402(15)(A), (B), Nov. 8, 1984, 98 Stat. 3358.)
 
+#### <b>Editorial Notes</b>
+
 #### References in Text
 
 For definition of "this chapter", referred to in subsecs. (a)(3), (4) and (b), see References in Text note set out under section 661 of this title.
@@ -46,7 +48,7 @@ For definition of "this chapter", referred to in subsecs. (a)(3), (4) and (b), s
 
 Subsec. (f). Pub. L. 98–620, §402(15)(B), struck out provision that the proceedings in such cases had to be made a preferred cause and expedited in every way.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–779, §4(b), inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocation for false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
+<b>1966</b>—Subsec. (a). Pub. L. 89–779, §4(b), inserted reference to revocation in introductory text preceding par. (1), and, in pars. (1) and (2), deleted restriction which limited the grounds for suspension or revocationfor false or misleading statements to the situation in which such statements were made for the purpose of obtaining a license.
 
 Subsec. (b). Pub. L. 89–779, §4(c), expanded the Administration's authority to issue cease and desist orders by authorizing their issuance against individuals who have not complied with provisions of this chapter and against both licensees and individuals who have violated or are about to violate this chapter or regulations issued pursuant thereto.
 
@@ -55,6 +57,8 @@ Subsec. (c). Pub. L. 89–779, §4(d), inserted references to persons involved o
 Subsec. (e). Pub. L. 89–779, §4(e), authorized the appeal from an order issued by the Administration under this section by other persons, besides the licensee, against whom an order is issued.
 
 Subsec. (f). Pub. L. 89–779, §4(f), provided that individuals as well as licensees are to be affected by subsec. (f).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 1984 Amendment
 

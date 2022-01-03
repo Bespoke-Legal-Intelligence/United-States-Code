@@ -18,7 +18,7 @@ Contributors and Suppliers.—The corporation may authorize contributors and sup
 
 (c)
 
-Civil Action for Unauthorized Use.—Except as provided in subsection (d) of this section,the corporation may file a civil action against a person for the remedies provided in the Act of July 5, 1946 (15 U.S.C. 1051 et seq.) (popularly known as the Trademark Act of 1946) if the person, without the consent of the corporation, uses for the purpose of trade, to induce the sale of any goods or services, or to promote any theatrical exhibition, athletic performance, or competition—
+Civil Action for Unauthorized Use.—Except as provided in subsection (d) of this section, the corporation may file a civil action against a person for the remedies provided in the Act of July 5, 1946 (15 U.S.C. 1051 et seq.) (popularly known as the Trademark Act of 1946) if the person, without the consent of the corporation, uses for the purpose of trade, to induce the sale of any goods or services, or to promote any theatrical exhibition, athletic performance, or competition—
 
 &emsp;(1) the symbol described in subsection (a)(2) of this section;
 

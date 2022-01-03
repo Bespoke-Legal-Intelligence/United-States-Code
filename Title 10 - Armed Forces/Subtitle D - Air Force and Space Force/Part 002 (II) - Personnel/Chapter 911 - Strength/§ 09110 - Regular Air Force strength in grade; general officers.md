@@ -114,6 +114,8 @@ July 20, 1956, ch. 646, §302 (less 1st par.), 70 Stat. 587.
 
 In subsection (a), the words "Subject to section 8202(a) of this title" are substituted for 10 App.:506a(a)(2) (3d sentence).
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2018</b>—Pub. L. 115–232 renumbered section 8210 of this title as this section.
@@ -122,13 +124,15 @@ In subsection (a), the words "Subject to section 8202(a) of this title" are subs
 
 <b>1980</b>—Subsecs. (a), (c). Pub. L. 96–513 substituted "active-duty list" for "active list" wherever appearing.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861 inserted "Subject to section 8202(a) of this title," before "the", and struckout provisions which excluded the number of commissioned officers on the active list authorized by former subsec. (b) of this section and medical service officers.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861 inserted "Subject to section 8202(a) of this title," before "the", and struck out provisions which excluded the number of commissioned officers on the active list authorized by former subsec. (b) of this section and medical service officers.
 
 Subsec. (b). Pub. L. 85–861 redesignated subsec. (d) as (b), and struck out former subsec. (b) which prescribed the authorized strength of general officers as medical, dental, and veterinary officers, and as chaplains.
 
 Subsec. (c). Pub. L. 85–861 redesignated subsec. (e) as (c), and struck out former subsec. (c) which prescribed the maximum number of general officers for the active list of the Regular Air Force.
 
 Subsecs. (d), (e). Pub. L. 85–861 redesignated subsecs. (d) and (e) as (b) and (c), respectively.
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Effective Date of 2018 Amendment
 

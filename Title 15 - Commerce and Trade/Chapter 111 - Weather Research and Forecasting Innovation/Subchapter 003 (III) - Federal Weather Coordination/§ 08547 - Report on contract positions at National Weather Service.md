@@ -22,13 +22,15 @@ The report required by subsection (a) shall include, with respect to the most re
 
 &emsp;(7) The average salary for full-time equivalent contractors performing at each equivalent level of the General Schedule at the National Weather Service.
 
-&emsp;(8) A description of any actions taken by the Under Secretary to respond to the issues raised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
+&emsp;(8) A description of any actions taken by the Under Secretary to respond to the issuesraised by the Inspector General of the Department of Commerce regarding the hiring of former National Oceanic and Atmospheric Administration employees as contractors at the National Weather Service such as the issues raised in the Investigative Report dated June 2, 2015 (OIG–12–0447).
 
 #### (c) Annual publication
 
 For each fiscal year after the fiscal year covered by the report required by subsection (a), the Under Secretary shall, not later than 180 days after the completion of the fiscal year, publish on a publicly accessible Internet website the information described in paragraphs (1) through (8) of subsection (b) for such fiscal year.
 
 (Pub. L. 115–25, title IV, §410, Apr. 18, 2017, 131 Stat. 112.)
+
+#### <b>Editorial Notes</b>
 
 #### References in Text
 

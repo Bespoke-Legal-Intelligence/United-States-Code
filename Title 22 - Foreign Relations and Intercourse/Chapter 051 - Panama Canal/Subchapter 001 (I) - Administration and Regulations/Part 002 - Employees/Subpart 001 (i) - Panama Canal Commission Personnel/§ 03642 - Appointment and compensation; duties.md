@@ -10,7 +10,7 @@ Individuals serving in any Executive agency (other than the Commission) or the S
 
 #### (c) Salary protection
 
-In the case of an individual who is an officer or employee of the Commission on November 17, 1997, and who has not had a break in service with the Commission since that date, the rate of basic pay for that officer or employee may not be less than the rate in effect for that officer or employee on that date except—
+In the case of an individual who is an officer or employee of the Commission on November 17, 1997, and who has not had a break in service with the Commission since that date, the rate of basic pay for that officer or employee may notbe less than the rate in effect for that officer or employee on that date except—
 
 &emsp;(1) as provided in a collective bargaining agreement;
 

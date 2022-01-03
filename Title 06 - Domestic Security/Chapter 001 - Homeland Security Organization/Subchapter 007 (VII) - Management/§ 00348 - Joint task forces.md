@@ -34,7 +34,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Secretary may not establish a Joint Task Force for any major disaster or emergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title, unless the responsibilities of such a Joint Task Force—
+&emsp;&emsp;&emsp;The Secretary may not establish a Joint Task Force for any major disaster oremergency declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) or an incident for which the Federal Emergency Management Agency has primary responsibility for management of the response under subchapter V of this chapter, including section 314(a)(3)(A) of this title, unless the responsibilities of such a Joint Task Force—
 
 &emsp;&emsp;&emsp;&emsp;(I) do not include operational functions related to incident management, including coordination of operations; and
 
@@ -94,7 +94,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (B) Cost neutrality
 
-&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise beenrequired by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
+&emsp;&emsp;A Joint Task Force may not require more resources than would have otherwise been required by the Department to carry out the duties assigned to such Joint Task Force if such Joint Task Force had not been established.
 
 #### (C) Location of operations
 
@@ -102,7 +102,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (D) Consideration of impact
 
-&emsp;&emsp;When reviewing requests for allocation of component personnel and equipment under subparagraph (A), the Secretary shall consider the impact of such allocation on the ability of the donating component or office to carry out the primary missions of the Department, and in the case of the Coast Guard, the missions specified in section 468 of this title.
+&emsp;&emsp;When reviewing requests for allocation of component personnel and equipment undersubparagraph (A), the Secretary shall consider the impact of such allocation on the ability of the donating component or office to carry out the primary missions of the Department, and in the case of the Coast Guard, the missions specified in section 468 of this title.
 
 #### (E) Limitation
 
@@ -178,7 +178,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (ii) Joint Task Force staff
 
-&emsp;&emsp;&emsp;Each official serving on the staff of a Joint Task Force shall complete the jointduty training program within the first year of assignment to such Joint Task Force.
+&emsp;&emsp;&emsp;Each official serving on the staff of a Joint Task Force shall complete the joint duty training program within the first year of assignment to such Joint Task Force.
 
 #### (iii) Exception
 
@@ -186,7 +186,7 @@ In this section, the term "situational awareness" means knowledge and unified un
 
 #### (iv) Waiver
 
-&emsp;&emsp;&emsp;The Secretary may waive the application of clause (i) if the Secretary determines that such a waiver is in the interest of homeland security or necessary to carry out the mission for which a Joint Task Force was established.
+&emsp;&emsp;&emsp;The Secretary may waive the application of clause (i) if the Secretary determines that such a waiver is in the interest of homeland security or necessary to carryout the mission for which a Joint Task Force was established.
 
 #### (11) Notification of Joint Task Force formation
 

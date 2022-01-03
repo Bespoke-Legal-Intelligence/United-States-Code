@@ -34,6 +34,8 @@ In subsections (a) and (b), the word "commissioned" is inserted since, for the A
 
 In subsection (b), the words "from his place of duty" are omitted as surplusage. The words "at least" are substituted for the words "or more". The words "by a court other than a court-martial or other military court" are substituted for the words "by the civil authorities".
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2016</b>—Subsec. (b). Pub. L. 114–328 inserted "or the Secretary of Defense, or in the case of a commissioned officer of the Coast Guard, the Secretary of the department in which the Coast Guard is operating when it is not operating in the Navy," after "President".
@@ -41,6 +43,8 @@ In subsection (b), the words "from his place of duty" are omitted as surplusage.
 <b>1996</b>—Subsec. (b). Pub. L. 104–201 substituted "section 1167" for "section 1178" in par. (2).
 
 Pub. L. 104–106 struck out "or" after "three months,", added par. (2), and redesignated former par. (2) as (3).
+
+#### <b>Statutory Notes and Related Subsidiaries</b>
 
 #### Restoration of Retired Pay to Officers Dropped From Rolls After December 31, 1954 and Before August 25, 1958
 

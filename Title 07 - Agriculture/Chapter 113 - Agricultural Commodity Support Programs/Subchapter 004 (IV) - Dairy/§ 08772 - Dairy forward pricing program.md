@@ -58,6 +58,8 @@ Payments made by milk handlers to milk producers and cooperative associations of
 
 (Pub. L. 110–234, title I, §1502, May 22, 2008, 122 Stat. 991; Pub. L. 110–246, §4(a), title I, §1502, June 18, 2008, 122 Stat. 1664, 1720; Pub. L. 113–79, title I, §1424, Feb. 7, 2014, 128 Stat. 695; Pub. L. 115–334, title I, §1402(a), Dec. 20, 2018, 132 Stat. 4518.)
 
+#### <b>Editorial Notes</b>
+
 #### Codification
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
@@ -74,9 +76,11 @@ Subsec. (e)(2). Pub. L. 115–334, §1402(a)(2), substituted "2026" for "2021".
 
 Subsec. (e)(2). Pub. L. 113–79, §1424(2), substituted "2021" for "2015".
 
+#### <b>Statutory Notes and Related Subsidiaries</b>
+
 #### Effective Date
 
-Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
+Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be "its".</i>
 

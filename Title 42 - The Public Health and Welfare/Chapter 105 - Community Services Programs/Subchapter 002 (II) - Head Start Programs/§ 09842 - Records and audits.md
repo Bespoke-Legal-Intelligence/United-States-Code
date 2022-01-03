@@ -14,6 +14,8 @@
 
 (Pub. L. 97–35, title VI, §647, Aug. 13, 1981, 95 Stat. 505; Pub. L. 110–134, §17, Dec. 12, 2007, 121 Stat. 1422.)
 
+#### <b>Editorial Notes</b>
+
 #### Amendments
 
 <b>2007</b>—Subsec. (c). Pub. L. 110–134 added subsec. (c).
